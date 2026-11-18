@@ -1,0 +1,435 @@
+{
+ "arquivo_origem": "bob_marley-p1.html",
+ "sha256_origem": "65848f16ed1e4d3cee459aca2dce7950d363a83f26c560a30385dbff5ba1a856",
+ "titulo": null,
+ "title_pagina": "Bob Marley",
+ "contagem_pagina": 19,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/bob_marley",
+  "numberOfItems": "19",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jersey-bob-marley-tuff-gong-153907/364406-1.jpg?w=556&h=833&v=202609101154",
+    "url": "https://www.bawclothing.com.br/jersey-bob-marley-tuff-gong-153907",
+    "name": "JERSEY BOB MARLEY TUFF GONG",
+    "offers": {
+     "@type": "Offer",
+     "price": "229.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jersey-bob-marley-uprising-football-153910/364394-1.jpg?w=556&h=833&v=202609101126",
+    "url": "https://www.bawclothing.com.br/jersey-bob-marley-uprising-football-153910",
+    "name": "JERSEY BOB MARLEY UPRISING FOOTBALL",
+    "offers": {
+     "@type": "Offer",
+     "price": "229.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-raglan-bob-marley-1977-153906/364405-1.jpg?w=556&h=833&v=202609211600",
+    "url": "https://www.bawclothing.com.br/camiseta-raglan-bob-marley-1977-153906",
+    "name": "CAMISETA RAGLAN BOB MARLEY 1977",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-bob-marley-uprising-football-153903/364399-1.jpg?w=556&h=833&v=202609211603",
+    "url": "https://www.bawclothing.com.br/camiseta-bob-marley-uprising-football-153903",
+    "name": "CAMISETA BOB MARLEY UPRISING FOOTBALL",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-bob-marley-futbol-153905/364389-1.jpg?w=556&h=833&v=202609101043",
+    "url": "https://www.bawclothing.com.br/camiseta-bob-marley-futbol-153905",
+    "name": "CAMISETA BOB MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-marley-futbol-153916/364455-1.jpg?w=556&h=833&v=202609101619",
+    "url": "https://www.bawclothing.com.br/camiseta-marley-futbol-153916",
+    "name": "CAMISETA MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-bob-marley-three-little-birds-153914/364453-1.jpg?w=556&h=833&v=202609101046",
+    "url": "https://www.bawclothing.com.br/baby-tee-bob-marley-three-little-birds-153914",
+    "name": "BABY TEE BOB MARLEY THREE LITTLE BIRDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-tee-bob-marley-signature-one-love-153900/364380-1.jpg?w=556&h=833&v=202609101048",
+    "url": "https://www.bawclothing.com.br/baby-tee-bob-marley-signature-one-love-153900",
+    "name": "BABY TEE BOB MARLEY SIGNATURE ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-bob-marley-one-love-footbaw-club-153911/364395-1.jpg?w=556&h=833&v=202609141058",
+    "url": "https://www.bawclothing.com.br/moletom-bob-marley-one-love-footbaw-club-153911",
+    "name": "MOLETOM BOB MARLEY ONE LOVE FOOTBAW CLUB",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-bob-marley-1977-153908/364402-1.jpg?w=556&h=833&v=202609101132",
+    "url": "https://www.bawclothing.com.br/moletom-bob-marley-1977-153908",
+    "name": "MOLETOM BOB MARLEY 1977",
+    "offers": {
+     "@type": "Offer",
+     "price": "259.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-sherpa-bob-marley-one-love-153904/364387-1.jpg?w=556&h=833&v=202609101609",
+    "url": "https://www.bawclothing.com.br/moletom-sherpa-bob-marley-one-love-153904",
+    "name": "MOLETOM SHERPA BOB MARLEY ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-varsity-bob-marley-futbol-153901/364381-1.jpg?w=556&h=833&v=202609141151",
+    "url": "https://www.bawclothing.com.br/jaqueta-varsity-bob-marley-futbol-153901",
+    "name": "JAQUETA VARSITY BOB MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "599.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-carpenter-bob-marley-one-love-153915/364454-1.jpg?w=556&h=833&v=202611171546",
+    "url": "https://www.bawclothing.com.br/bermuda-carpenter-bob-marley-one-love-153915",
+    "name": "BERMUDA CARPENTER BOB MARLEY ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-five-panel-marley-futbol-153925/364499-1.jpg?w=556&h=833&v=202609141147",
+    "url": "https://www.bawclothing.com.br/bone-five-panel-marley-futbol-153925",
+    "name": "BONE FIVE PANEL MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-bob-marley-one-love-footbaw-club-153920/364478-1.jpg?w=556&h=833&v=202609141144",
+    "url": "https://www.bawclothing.com.br/bone-bob-marley-one-love-footbaw-club-153920",
+    "name": "BONE BOB MARLEY ONE LOVE FOOTBAW CLUB",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-bob-marley-jammin-baw-153919/364477-1.jpg?w=556&h=833&v=202609101406",
+    "url": "https://www.bawclothing.com.br/bone-bob-marley-jammin-baw-153919",
+    "name": "BONE BOB MARLEY JAMMIN BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-five-panel-bob-marley-one-love-153918/364476-1.jpg?w=556&h=833&v=202609141143",
+    "url": "https://www.bawclothing.com.br/bone-five-panel-bob-marley-one-love-153918",
+    "name": "BONE FIVE PANEL BOB MARLEY ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/chaveiro-caixa-de-fosforo-one-love-baw-153923/364492-1.jpg?w=556&h=833&v=202609101201",
+    "url": "https://www.bawclothing.com.br/chaveiro-caixa-de-fosforo-one-love-baw-153923",
+    "name": "CHAVEIRO CAIXA DE FOSFORO ONE LOVE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/chaveiro-caixa-de-fosforo-bob-marley-baw-153902/364386-1.jpg?w=556&h=833&v=202609101101",
+    "url": "https://www.bawclothing.com.br/chaveiro-caixa-de-fosforo-bob-marley-baw-153902",
+    "name": "CHAVEIRO CAIXA DE FOSFORO BOB MARLEY BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153907",
+   "href": "/jersey-bob-marley-tuff-gong-153907",
+   "nome": "JERSEY BOB MARLEY TUFF GONG",
+   "preco": "R$ 229,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153910",
+   "href": "/jersey-bob-marley-uprising-football-153910",
+   "nome": "JERSEY BOB MARLEY UPRISING FOOTBALL",
+   "preco": "R$ 229,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153906",
+   "href": "/camiseta-raglan-bob-marley-1977-153906",
+   "nome": "CAMISETA RAGLAN BOB MARLEY 1977",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Off White/Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153903",
+   "href": "/camiseta-bob-marley-uprising-football-153903",
+   "nome": "CAMISETA BOB MARLEY UPRISING FOOTBALL",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153905",
+   "href": "/camiseta-bob-marley-futbol-153905",
+   "nome": "CAMISETA BOB MARLEY FUTBOL",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153916",
+   "href": "/camiseta-marley-futbol-153916",
+   "nome": "CAMISETA MARLEY FUTBOL",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153914",
+   "href": "/baby-tee-bob-marley-three-little-birds-153914",
+   "nome": "BABY TEE BOB MARLEY THREE LITTLE BIRDS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "44%",
+   "selos": null,
+   "cor": "Off White/Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153900",
+   "href": "/baby-tee-bob-marley-signature-one-love-153900",
+   "nome": "BABY TEE BOB MARLEY SIGNATURE ONE LOVE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153911",
+   "href": "/moletom-bob-marley-one-love-footbaw-club-153911",
+   "nome": "MOLETOM BOB MARLEY ONE LOVE FOOTBAW CLUB",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto/Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153908",
+   "href": "/moletom-bob-marley-1977-153908",
+   "nome": "MOLETOM BOB MARLEY 1977",
+   "preco": "R$ 259,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153904",
+   "href": "/moletom-sherpa-bob-marley-one-love-153904",
+   "nome": "MOLETOM SHERPA BOB MARLEY ONE LOVE",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "33%",
+   "selos": null,
+   "cor": "Verde/Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153901",
+   "href": "/jaqueta-varsity-bob-marley-futbol-153901",
+   "nome": "JAQUETA VARSITY BOB MARLEY FUTBOL",
+   "preco": "R$ 599,00",
+   "preco_de": "R$ 1.299,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153915",
+   "href": "/bermuda-carpenter-bob-marley-one-love-153915",
+   "nome": "BERMUDA CARPENTER BOB MARLEY ONE LOVE",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "33%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153925",
+   "href": "/bone-five-panel-marley-futbol-153925",
+   "nome": "BONE FIVE PANEL MARLEY FUTBOL",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153920",
+   "href": "/bone-bob-marley-one-love-footbaw-club-153920",
+   "nome": "BONE BOB MARLEY ONE LOVE FOOTBAW CLUB",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153919",
+   "href": "/bone-bob-marley-jammin-baw-153919",
+   "nome": "BONE BOB MARLEY JAMMIN BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153918",
+   "href": "/bone-five-panel-bob-marley-one-love-153918",
+   "nome": "BONE FIVE PANEL BOB MARLEY ONE LOVE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153923",
+   "href": "/chaveiro-caixa-de-fosforo-one-love-baw-153923",
+   "nome": "CHAVEIRO CAIXA DE FOSFORO ONE LOVE BAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153902",
+   "href": "/chaveiro-caixa-de-fosforo-bob-marley-baw-153902",
+   "nome": "CHAVEIRO CAIXA DE FOSFORO BOB MARLEY BAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  }
+ ]
+}

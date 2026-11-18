@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camisa-box-brown-classy-150703
+lido_em: 2026-11-18T13:08:54-03:00
+html_origem: ficha-camisa-box-brown-classy.html (sha256 ef50827e9fadd0ce6b48ef2b87fdc22be2edb8276f982e698ec20cbcf39db192)
+nome: CAMISA BOX BROWN CLASSY
+sku: 0095648386P
+trilha: Página inicial > Roupas > Camisas > CAMISA BOX BROWN CLASSY
+preco: R$ 149,00
+preco_de: R$ 279,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISA BOX BROWN CLASSY
+CAMISA BOX BROWN CLASSY

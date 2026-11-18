@@ -1,0 +1,40 @@
+url: https://www.bawclothing.com.br/produto/sweatshirt-reverse-kids-marrom-151319
+lido_em: 2026-11-18T13:12:31-03:00
+html_origem: ficha-sweatshirt-reverse-kids-marrom.html (sha256 eef4013dc15c2dc0e4e83e42af36f35b8f9bc100ecc7175dcf831878e101535a)
+nome: SWEATSHIRT REVERSE KIDS MARROM
+sku: 14.05.008703510
+trilha: Página inicial > Kids > SWEATSHIRT REVERSE KIDS MARROM
+preco: R$ 99,00
+preco_de: R$ 199,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+SWEATSHIRT REVERSE KIDS MARROM
+Sweatshirt infantil com gola careca.
+04 - Comprimento: 48cm/ Manga: 40cm/ Cava: 18cm/ Torax: 40cm.
+06 - Comprimento: 51cm/ Manga: 44cm/ Cava: 19cm/ Torax: 42cm.
+08 - Comprimento: 54cm/ Manga: 48cm/ Cava: 20cm/ Torax: 44cm.
+10 - Comprimento: 57cm/ Manga: 52cm/ Cava: 21cm/ Torax: 46cm.
+12 - Comprimento: 60cm/ Manga: 56cm/ Cava: 22cm/ Torax: 48cm.
+14 - Comprimento: 63cm/ Manga: 60cm/ Cava: 23cm/ Torax: 50cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Sweatshirt. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+SWEATSHIRT REVERSE KIDS MARROM
+Sweatshirt infantil com gola careca.
+04 - Comprimento: 48cm/ Manga: 40cm/ Cava: 18cm/ Torax: 40cm.
+06 - Comprimento: 51cm/ Manga: 44cm/ Cava: 19cm/ Torax: 42cm.
+08 - Comprimento: 54cm/ Manga: 48cm/ Cava: 20cm/ Torax: 44cm.
+10 - Comprimento: 57cm/ Manga: 52cm/ Cava: 21cm/ Torax: 46cm.
+12 - Comprimento: 60cm/ Manga: 56cm/ Cava: 22cm/ Torax: 48cm.
+14 - Comprimento: 63cm/ Manga: 60cm/ Cava: 23cm/ Torax: 50cm.
+Composi&ccedil;&atilde;o: 100% Algod&atilde;o.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente ao Sweatshirt. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

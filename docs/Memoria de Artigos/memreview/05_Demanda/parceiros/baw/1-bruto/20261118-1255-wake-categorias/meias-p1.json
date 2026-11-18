@@ -1,0 +1,61 @@
+{
+ "arquivo_origem": "meias-p1.html",
+ "sha256_origem": "c549126e1edb1b2ef6cf6795328a3990559041f20a92d13bb72cf401418c13a0",
+ "titulo": "Meias",
+ "title_pagina": "Meias: opções cano médio e alto com estampas e mais",
+ "contagem_pagina": 2,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/acessorios/meias",
+  "numberOfItems": "2",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/meia-cano-alto-tribe-chillibaw-153999/364817-1.jpg?w=556&h=833&v=202610071541",
+    "url": "https://www.bawclothing.com.br/meia-cano-alto-tribe-chillibaw-153999",
+    "name": "MEIA CANO ALTO TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/meia-cano-alto-fire-chillibaw-153997/364809-1.jpg?w=556&h=833&v=202610071536",
+    "url": "https://www.bawclothing.com.br/meia-cano-alto-fire-chillibaw-153997",
+    "name": "MEIA CANO ALTO FIRE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153999",
+   "href": "/meia-cano-alto-tribe-chillibaw-153999",
+   "nome": "MEIA CANO ALTO TRIBE CHILLIBAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153997",
+   "href": "/meia-cano-alto-fire-chillibaw-153997",
+   "nome": "MEIA CANO ALTO FIRE CHILLIBAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Preto/Vermelho",
+   "genero": "Unisex"
+  }
+ ]
+}

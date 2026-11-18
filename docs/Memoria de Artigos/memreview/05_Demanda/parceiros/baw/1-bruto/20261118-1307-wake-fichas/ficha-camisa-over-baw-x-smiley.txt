@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camisa-over-baw-x-smiley-152293
+lido_em: 2026-11-18T13:08:59-03:00
+html_origem: ficha-camisa-over-baw-x-smiley.html (sha256 0662b59389608da427e8e1cf2be3fbb9f34e1c11276ae2961872eb349af9635f)
+nome: CAMISA OVER BAW X SMILEY
+sku: 0089551037P
+trilha: Página inicial > Roupas > Camisas > CAMISA OVER BAW X SMILEY
+preco: R$ 189,00
+preco_de: R$ 289,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISA OVER BAW X SMILEY
+CAMISA OVER BAW X SMILEY

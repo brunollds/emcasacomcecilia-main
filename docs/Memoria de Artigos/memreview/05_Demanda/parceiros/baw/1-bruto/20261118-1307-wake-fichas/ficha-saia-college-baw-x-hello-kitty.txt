@@ -1,0 +1,40 @@
+url: https://www.bawclothing.com.br/produto/saia-college-baw-x-hello-kitty-153528
+lido_em: 2026-11-18T13:11:43-03:00
+html_origem: ficha-saia-college-baw-x-hello-kitty.html (sha256 5bd6b399082d70b7065a07e8a84470a9b23afcc8f9da2f882b076932bc896432)
+nome: SAIA COLLEGE BAW X HELLO KITTY
+sku: 17.08.0034040GG
+trilha: Página inicial > Roupas > Saias > SAIA COLLEGE BAW X HELLO KITTY
+preco: R$ 209,00
+preco_de: R$ 299,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+SAIA COLLEGE BAW X HELLO KITTY
+Saia curta de sarja leve com estampa xadrez personalizada da Hello Kitty x BAW, com pregas, e zíper na parte das costas.
+Tabela de medidas:
+34 - Quadril (à 19cm do topo do cós) linha reta: 52cm/ Cintura: 34cm/ Comp. lateral: 29cm
+36 - Quadril (à 19cm do topo do cós) linha reta: 54cm/ Cintura: 36cm/ Comp. lateral: 31cm
+38 - Quadril (à 19cm do topo do cós) linha reta: 56cm/ Cintura: 38cm/ Comp. lateral: 33cm
+40 - Quadril (à 19cm do topo do cós) linha reta: 58cm/ Cintura: 40cm/ Comp. lateral: 35cm
+42 - Quadril (à 19cm do topo do cós) linha reta: 60cm/ Cintura: 42cm/ Comp. lateral: 37cm
+44 - Quadril (à 19cm do topo do cós) linha reta: 62cm/ Cintura: 44cm/ Comp. lateral: 39cm
+46 - Quadril (à 19cm do topo do cós) linha reta: 64cm/ Cintura: 46cm/ Comp. lateral: 41cm
+48 - Quadril (à 19cm do topo do cós) linha reta: 68cm/ Cintura: 48cm/ Comp. lateral: 43cm
+50 - Quadril (à 19cm do topo do cós) linha reta: 70cm/ Cintura: 50cm/ Comp. lateral: 45cm
+52 - Quadril (à 19cm do topo do cós) linha reta: 72cm/ Cintura: 52cm/ Comp. lateral: 47cm
+
+--- description do JSON-LD Product ---
+SAIA COLLEGE BAW X HELLO KITTY
+Saia curta de sarja leve com estampa xadrez personalizada da Hello Kitty x BAW, com pregas, e zíper na parte das costas.
+Tabela de medidas: 
+34 - Quadril (à 19cm do topo do cós) linha reta: 52cm/ Cintura: 34cm/ Comp. lateral: 29cm
+36 - Quadril (à 19cm do topo do cós) linha reta: 54cm/ Cintura: 36cm/ Comp. lateral: 31cm
+38 - Quadril (à 19cm do topo do cós) linha reta: 56cm/ Cintura: 38cm/ Comp. lateral: 33cm
+40 - Quadril (à 19cm do topo do cós) linha reta: 58cm/ Cintura: 40cm/ Comp. lateral: 35cm
+42 - Quadril (à 19cm do topo do cós) linha reta: 60cm/ Cintura: 42cm/ Comp. lateral: 37cm
+44 - Quadril (à 19cm do topo do cós) linha reta: 62cm/ Cintura: 44cm/ Comp. lateral: 39cm
+46 - Quadril (à 19cm do topo do cós) linha reta: 64cm/ Cintura: 46cm/ Comp. lateral: 41cm
+48 - Quadril (à 19cm do topo do cós) linha reta: 68cm/ Cintura: 48cm/ Comp. lateral: 43cm
+50 - Quadril (à 19cm do topo do cós) linha reta: 70cm/ Cintura: 50cm/ Comp. lateral: 45cm
+52 - Quadril (à 19cm do topo do cós) linha reta: 72cm/ Cintura: 52cm/ Comp. lateral: 47cm

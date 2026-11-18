@@ -1,0 +1,369 @@
+{
+ "arquivo_origem": "athletics-p1.html",
+ "sha256_origem": "89e35e867837c441a1aba78680ecd27ec4be178bac763f387855bc9daa95c3e4",
+ "titulo": null,
+ "title_pagina": "BAW Athletics",
+ "contagem_pagina": 16,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/athletics",
+  "numberOfItems": "16",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-manga-longa-baw-athletics-153937/364565-1.jpg?w=556&h=833&v=202609301059",
+    "url": "https://www.bawclothing.com.br/blusa-manga-longa-baw-athletics-153937",
+    "name": "BLUSA MANGA LONGA BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "109.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-legging-friso-baw-athletics-153939/364573-1.jpg?w=556&h=833&v=202609301002",
+    "url": "https://www.bawclothing.com.br/calca-legging-friso-baw-athletics-153939",
+    "name": "CALÇA LEGGING FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-friso-baw-athletics-153952/364639-1.jpg?w=556&h=833&v=202609301011",
+    "url": "https://www.bawclothing.com.br/top-friso-baw-athletics-153952",
+    "name": "TOP FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/biker-friso-baw-athletics-153936/364559-1.jpg?w=556&h=833&v=202609301053",
+    "url": "https://www.bawclothing.com.br/biker-friso-baw-athletics-153936",
+    "name": "BIKER FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/headband-baw-athletics-153944/364596-1.jpg?w=556&h=833&v=202609301004",
+    "url": "https://www.bawclothing.com.br/headband-baw-athletics-153944",
+    "name": "HEADBAND BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "19.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-nadador-baw-athletics-153951/364632-1.jpg?w=556&h=833&v=202609301116",
+    "url": "https://www.bawclothing.com.br/top-nadador-baw-athletics-153951",
+    "name": "TOP NADADOR BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/biker-baw-athletics-153934/364550-1.jpg?w=556&h=833&v=202609301050",
+    "url": "https://www.bawclothing.com.br/biker-baw-athletics-153934",
+    "name": "BIKER BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-gym-baw-athletics-153950/364627-1.jpg?w=556&h=833&v=202609301114",
+    "url": "https://www.bawclothing.com.br/shorts-gym-baw-athletics-153950",
+    "name": "SHORTS GYM BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-cropped-baw-athletics-153945/364597-1.jpg?w=556&h=833&v=202609301107",
+    "url": "https://www.bawclothing.com.br/jaqueta-cropped-baw-athletics-153945",
+    "name": "JAQUETA CROPPED BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-friso-baw-athletics-153953/364638-1.jpg?w=556&h=833&v=202609301010",
+    "url": "https://www.bawclothing.com.br/top-friso-baw-athletics-153953",
+    "name": "TOP FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/biker-friso-baw-athletics-153935/364553-1.jpg?w=556&h=833&v=202609301055",
+    "url": "https://www.bawclothing.com.br/biker-friso-baw-athletics-153935",
+    "name": "BIKER FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-manga-longa-baw-athletics-153938/364566-1.jpg?w=556&h=833&v=202609301057",
+    "url": "https://www.bawclothing.com.br/blusa-manga-longa-baw-athletics-153938",
+    "name": "BLUSA MANGA LONGA BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "109.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-legging-friso-baw-athletics-153940/364574-1.jpg?w=556&h=833&v=202609300958",
+    "url": "https://www.bawclothing.com.br/calca-legging-friso-baw-athletics-153940",
+    "name": "CALÇA LEGGING FRISO BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/headband-baw-athletics-153943/364595-1.jpg?w=556&h=833&v=202609301005",
+    "url": "https://www.bawclothing.com.br/headband-baw-athletics-153943",
+    "name": "HEADBAND BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "19.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-sleeveless-baw-athletics-153948/364618-1.jpg?w=556&h=833&v=202610011641",
+    "url": "https://www.bawclothing.com.br/moletom-sleeveless-baw-athletics-153948",
+    "name": "MOLETOM SLEEVELESS BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/long-shorts-baw-athletics-153946/364602-1.jpg?w=556&h=833&v=202609301006",
+    "url": "https://www.bawclothing.com.br/long-shorts-baw-athletics-153946",
+    "name": "LONG SHORTS BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153937",
+   "href": "/blusa-manga-longa-baw-athletics-153937",
+   "nome": "BLUSA MANGA LONGA BAW ATHLETICS",
+   "preco": "R$ 109,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153939",
+   "href": "/calca-legging-friso-baw-athletics-153939",
+   "nome": "CALÇA LEGGING FRISO BAW ATHLETICS",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153952",
+   "href": "/top-friso-baw-athletics-153952",
+   "nome": "TOP FRISO BAW ATHLETICS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153936",
+   "href": "/biker-friso-baw-athletics-153936",
+   "nome": "BIKER FRISO BAW ATHLETICS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153944",
+   "href": "/headband-baw-athletics-153944",
+   "nome": "HEADBAND BAW ATHLETICS",
+   "preco": "R$ 19,00",
+   "preco_de": "R$ 39,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153951",
+   "href": "/top-nadador-baw-athletics-153951",
+   "nome": "TOP NADADOR BAW ATHLETICS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153934",
+   "href": "/biker-baw-athletics-153934",
+   "nome": "BIKER BAW ATHLETICS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153950",
+   "href": "/shorts-gym-baw-athletics-153950",
+   "nome": "SHORTS GYM BAW ATHLETICS",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Rosa/Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153945",
+   "href": "/jaqueta-cropped-baw-athletics-153945",
+   "nome": "JAQUETA CROPPED BAW ATHLETICS",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 449,00",
+   "selo_off": "33%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153953",
+   "href": "/top-friso-baw-athletics-153953",
+   "nome": "TOP FRISO BAW ATHLETICS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153935",
+   "href": "/biker-friso-baw-athletics-153935",
+   "nome": "BIKER FRISO BAW ATHLETICS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153938",
+   "href": "/blusa-manga-longa-baw-athletics-153938",
+   "nome": "BLUSA MANGA LONGA BAW ATHLETICS",
+   "preco": "R$ 109,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153940",
+   "href": "/calca-legging-friso-baw-athletics-153940",
+   "nome": "CALÇA LEGGING FRISO BAW ATHLETICS",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153943",
+   "href": "/headband-baw-athletics-153943",
+   "nome": "HEADBAND BAW ATHLETICS",
+   "preco": "R$ 19,00",
+   "preco_de": "R$ 39,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153948",
+   "href": "/moletom-sleeveless-baw-athletics-153948",
+   "nome": "MOLETOM SLEEVELESS BAW ATHLETICS",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153946",
+   "href": "/long-shorts-baw-athletics-153946",
+   "nome": "LONG SHORTS BAW ATHLETICS",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/calca-simple-classy-monograma-150666
+lido_em: 2026-11-18T13:09:17-03:00
+html_origem: ficha-calca-simple-classy-monograma.html (sha256 3025e24594c87f5bcbda6d2bd2380e33c9dfb904812d8438f6207e27ef03ecb9)
+nome: CALÇA SIMPLE CLASSY MONOGRAMA
+sku: 009561060348
+trilha: Página inicial > Roupas > Calças > CALÇA SIMPLE CLASSY MONOGRAMA
+preco: R$ 269,00
+preco_de: R$ 599,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CALÇA SIMPLE CLASSY MONOGRAMA
+CALÇA SIMPLE CLASSY MONOGRAMA

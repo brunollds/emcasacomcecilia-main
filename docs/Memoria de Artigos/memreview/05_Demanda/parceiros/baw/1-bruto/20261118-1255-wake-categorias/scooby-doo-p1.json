@@ -1,0 +1,83 @@
+{
+ "arquivo_origem": "scooby-doo-p1.html",
+ "sha256_origem": "2ca80ac00d14b3cc53a3ee81f9e842e92d57b672944e063c515af332cdd6cbf4",
+ "titulo": null,
+ "title_pagina": "Collab Scooby-Doo e Baw: camisetas, saias e mais",
+ "contagem_pagina": 3,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/scooby-doo",
+  "numberOfItems": "3",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-skater-cargo-baw-x-sd-150949/341223.jpg?w=556&h=833&v=202510301232",
+    "url": "https://www.bawclothing.com.br/calca-skater-cargo-baw-x-sd-150949",
+    "name": "CALCA SKATER CARGO BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-urban-baw-x-sd-150950/341235.jpg?w=556&h=833&v=202510291557",
+    "url": "https://www.bawclothing.com.br/bermuda-urban-baw-x-sd-150950",
+    "name": "BERMUDA URBAN BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-plaid-cargo-baw-x-sd-150799/340193.jpg?w=556&h=833&v=202509170108",
+    "url": "https://www.bawclothing.com.br/saia-plaid-cargo-baw-x-sd-150799",
+    "name": "SAIA PLAID CARGO BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "150949",
+   "href": "/calca-skater-cargo-baw-x-sd-150949",
+   "nome": "CALCA SKATER CARGO BAW X SD",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150950",
+   "href": "/bermuda-urban-baw-x-sd-150950",
+   "nome": "BERMUDA URBAN BAW X SD",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 269,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150799",
+   "href": "/saia-plaid-cargo-baw-x-sd-150799",
+   "nome": "SAIA PLAID CARGO BAW X SD",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Bege Blush",
+   "genero": "Unisex"
+  }
+ ]
+}

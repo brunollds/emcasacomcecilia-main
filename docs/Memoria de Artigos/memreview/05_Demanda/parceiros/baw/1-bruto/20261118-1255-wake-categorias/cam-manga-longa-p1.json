@@ -1,0 +1,193 @@
+{
+ "arquivo_origem": "cam-manga-longa-p1.html",
+ "sha256_origem": "2536389cddb5b31dabc3e1a6e358ecc5b16d87c24d756b22f804f604993765b1",
+ "titulo": "Manga Longa",
+ "title_pagina": "Camisetas de manga longa: streetwear autêntico com atitude",
+ "contagem_pagina": 8,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/camisetas/manga-longa",
+  "numberOfItems": "8",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-ml-bawent-circuit-154262/366464-1.jpg?w=556&h=833&v=202611161538",
+    "url": "https://www.bawclothing.com.br/camiseta-ml-bawent-circuit-154262",
+    "name": "CAMISETA ML BAWENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jersey-ml-baw-circuit-154259/366469-1.jpg?w=556&h=833&v=202611161538",
+    "url": "https://www.bawclothing.com.br/jersey-ml-baw-circuit-154259",
+    "name": "JERSEY ML BAW CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "349.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-manga-longa-baw-athletics-153938/364566-1.jpg?w=556&h=833&v=202609301057",
+    "url": "https://www.bawclothing.com.br/blusa-manga-longa-baw-athletics-153938",
+    "name": "BLUSA MANGA LONGA BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "109.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-manga-longa-baw-athletics-153937/364565-1.jpg?w=556&h=833&v=202609301059",
+    "url": "https://www.bawclothing.com.br/blusa-manga-longa-baw-athletics-153937",
+    "name": "BLUSA MANGA LONGA BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "109.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-ml-baw-dogs-freestyle-153715/363265-1.jpg?w=556&h=833&v=202606301803",
+    "url": "https://www.bawclothing.com.br/camiseta-ml-baw-dogs-freestyle-153715",
+    "name": "CAMISETA ML BAW DOGS FREESTYLE",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-manga-longa-baw-black-e-white-151904/362902-1.jpg?w=556&h=833&v=202604021728",
+    "url": "https://www.bawclothing.com.br/camiseta-manga-longa-baw-black-e-white-151904",
+    "name": "CAMISETA MANGA LONGA BAW BLACK & WHITE",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-manga-longa-street-stickers-151876/362273-1.jpg?w=556&h=833&v=202603271749",
+    "url": "https://www.bawclothing.com.br/camiseta-manga-longa-street-stickers-151876",
+    "name": "CAMISETA MANGA LONGA STREET STICKERS",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-manga-longa-baw-no-llie-151864/362265.jpg?w=556&h=833&v=202602021213",
+    "url": "https://www.bawclothing.com.br/camiseta-manga-longa-baw-no-llie-151864",
+    "name": "CAMISETA MANGA LONGA BAW NO LLIE",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "154262",
+   "href": "/camiseta-ml-bawent-circuit-154262",
+   "nome": "CAMISETA ML BAWENT CIRCUIT",
+   "preco": "R$ 179,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154259",
+   "href": "/jersey-ml-baw-circuit-154259",
+   "nome": "JERSEY ML BAW CIRCUIT",
+   "preco": "R$ 349,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Marinho/Rosa/Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153938",
+   "href": "/blusa-manga-longa-baw-athletics-153938",
+   "nome": "BLUSA MANGA LONGA BAW ATHLETICS",
+   "preco": "R$ 109,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153937",
+   "href": "/blusa-manga-longa-baw-athletics-153937",
+   "nome": "BLUSA MANGA LONGA BAW ATHLETICS",
+   "preco": "R$ 109,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153715",
+   "href": "/camiseta-ml-baw-dogs-freestyle-153715",
+   "nome": "CAMISETA ML BAW DOGS FREESTYLE",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "52%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151904",
+   "href": "/camiseta-manga-longa-baw-black-e-white-151904",
+   "nome": "CAMISETA MANGA LONGA BAW BLACK & WHITE",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "35%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151876",
+   "href": "/camiseta-manga-longa-street-stickers-151876",
+   "nome": "CAMISETA MANGA LONGA STREET STICKERS",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151864",
+   "href": "/camiseta-manga-longa-baw-no-llie-151864",
+   "nome": "CAMISETA MANGA LONGA BAW NO LLIE",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

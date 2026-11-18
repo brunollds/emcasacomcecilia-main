@@ -1,0 +1,215 @@
+{
+ "arquivo_origem": "bf-moletons-p1.html",
+ "sha256_origem": "fc8f63b870a6b8a63f73304d9983da5aa25c43bce7dd991198c61ae29a9a4aa2",
+ "titulo": "Moletons",
+ "title_pagina": "Moletons - Black Friday - Baw Clothing",
+ "contagem_pagina": 9,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/moletons",
+  "numberOfItems": "9",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-backfire-tie-dye-153773/363592-1.jpg?w=556&h=833&v=202608031731",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-backfire-tie-dye-153773",
+    "name": "MOLETOM HOODIE BACKFIRE TIE DYE",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-baw-x-mitchell-e-ness-x-nfl-151010/341581-1.jpg?w=556&h=833&v=202605121708",
+    "url": "https://www.bawclothing.com.br/sweatshirt-baw-x-mitchell-e-ness-x-nfl-151010",
+    "name": "SWEATSHIRT BAW X MITCHELL E NESS X NFL",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151014/341599-1.jpg?w=556&h=833&v=202605121712",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151014",
+    "name": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151015/341600-1.jpg?w=556&h=833&v=202605121712",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151015",
+    "name": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-outta-this-tie-dye-153771/363580-1.jpg?w=556&h=833&v=202608031730",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-outta-this-tie-dye-153771",
+    "name": "MOLETOM HOODIE OUTTA THIS TIE DYE",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-baw-x-mitchell-e-ness-x-nfl-rai-151009/341577-1.jpg?w=556&h=833&v=202606011701",
+    "url": "https://www.bawclothing.com.br/sweatshirt-baw-x-mitchell-e-ness-x-nfl-rai-151009",
+    "name": "SWEATSHIRT BAW X MITCHELL E NESS X NFL RAI",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/mini-hoodie-zip-baw-152753/356848-1.jpg?w=556&h=833&v=202608031620",
+    "url": "https://www.bawclothing.com.br/mini-hoodie-zip-baw-152753",
+    "name": "MINI HOODIE ZIP BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-since-2014-elements-151098/342064-1.jpg?w=556&h=833&v=202511052003",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-since-2014-elements-151098",
+    "name": "MOLETOM HOODIE BAW SINCE 2014 ELEMENTS",
+    "offers": {
+     "@type": "Offer",
+     "price": "309.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-oversized-baw-x-smiley-150536/338950.jpg?w=556&h=833&v=202509170151",
+    "url": "https://www.bawclothing.com.br/sweatshirt-oversized-baw-x-smiley-150536",
+    "name": "SWEATSHIRT OVERSIZED BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "279.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153773",
+   "href": "/moletom-hoodie-backfire-tie-dye-153773",
+   "nome": "MOLETOM HOODIE BACKFIRE TIE DYE",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Multicolor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151010",
+   "href": "/sweatshirt-baw-x-mitchell-e-ness-x-nfl-151010",
+   "nome": "SWEATSHIRT BAW X MITCHELL E NESS X NFL",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151014",
+   "href": "/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151014",
+   "nome": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151015",
+   "href": "/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151015",
+   "nome": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153771",
+   "href": "/moletom-hoodie-outta-this-tie-dye-153771",
+   "nome": "MOLETOM HOODIE OUTTA THIS TIE DYE",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Multicolor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151009",
+   "href": "/sweatshirt-baw-x-mitchell-e-ness-x-nfl-rai-151009",
+   "nome": "SWEATSHIRT BAW X MITCHELL E NESS X NFL RAI",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152753",
+   "href": "/mini-hoodie-zip-baw-152753",
+   "nome": "MINI HOODIE ZIP BAW",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151098",
+   "href": "/moletom-hoodie-baw-since-2014-elements-151098",
+   "nome": "MOLETOM HOODIE BAW SINCE 2014 ELEMENTS",
+   "preco": "R$ 309,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "23%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150536",
+   "href": "/sweatshirt-oversized-baw-x-smiley-150536",
+   "nome": "SWEATSHIRT OVERSIZED BAW X SMILEY",
+   "preco": "R$ 279,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  }
+ ]
+}

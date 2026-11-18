@@ -1,0 +1,99 @@
+url: https://www.bawclothing.com.br/black-friday
+lido_em: 2026-11-18T13:15:19-03:00
+metodo: navegador embutido do app; inspeção da página carregada (imagens fora das fotos de produto, começo do texto e busca por "regulamento", "válid" e "cupom" no texto inteiro). Texto gravado pela sessão a partir da saída da ferramenta
+
+imagens de destaque: nenhuma fora as quatro imagens do menu (vestuario-52.jpg, acessorios-14.jpg, calcados-3058.jpg, news-1.jpg, alt "menu-image")
+"regulamento", "válid..." ou "cupom" no texto da página: nenhuma ocorrência
+
+--- começo do texto da página, como veio ---
+VESTUÁRIO
+ACESSÓRIOS
+KIDS
+CALÇADOS
+NEWS
+BLACK FRIDAY
+INFLUS
+
+DIGITE AQUI O QUE PROCURA
+
+0
+Mostrar filtros
+Black Friday
+
+349 PRODUTOS
+
+89%
+OFF
+
+CALCINHA
+
+R$ 9,00
+
+R$ 79,00
+
+
+
+80%
+OFF
+
+BEACH SHORTS BASIC ELIPSE
+
+R$ 49,00
+
+R$ 249,00
+
+
+
+80%
+OFF
+
+BEACH SHORTS BASIC ELIPSE
+
+R$ 49,00
+
+R$ 249,00
+
+
+
+80%
+OFF
+
+EXPLORER CARGO PANTS CLASSICS
+
+R$ 99,00
+
+R$ 499,00
+
+
+
+76%
+OFF
+
+CALCA SHERPA RETRO
+
+R$ 119,00
+
+R$ 499,00
+
+ou 2x de R$ 59,50 sem juros
+
+76%
+OFF
+
+CALCA SHERPA RETRO
+
+R$ 119,00
+
+R$ 499,00
+
+ou 2x de R$ 59,50 sem juros
+
+CALCA SUMMER COTELE
+
+R$ 129,00
+
+R$ 499,00
+
+ou 2x de R$ 64,50 sem juros
+
+CAMISETA

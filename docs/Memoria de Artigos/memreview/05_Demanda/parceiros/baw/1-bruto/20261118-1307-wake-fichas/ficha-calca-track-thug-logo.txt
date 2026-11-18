@@ -1,0 +1,64 @@
+url: https://www.bawclothing.com.br/produto/calca-track-thug-logo-150974
+lido_em: 2026-11-18T13:07:52-03:00
+html_origem: ficha-calca-track-thug-logo.html (sha256 81494e211c77988776052639b861c3b497dcd20efcc92680afcfee3ffef4f529)
+nome: CALÇA TRACK THUG LOGO
+sku: 4.35.0141037GG
+trilha: Página inicial > Roupas > Calças > CALÇA TRACK THUG LOGO
+preco: R$ 129,00
+preco_de: R$ 199,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Calça Track Thug Logo: street style 100% algodão para quebrar tudo
+Já pensou em elevar o grau do seu look com uma peça que mistura atitude urbana, conforto real e design exclusivo? Chegou a vez da Calça Track Thug Logo dominar o nosso estilo. Direto do universo Baw Clothing, ela traz aquele visual descolado com vibe streetwear , fabricação nacional e tecido 100% algodão — não passa calor, não marca e deixa qualquer rolê mais estiloso. Bora viver a cultura das ruas com originalidade?
+A Calça Track Thug Logo é puro hype porque une estilo e conforto de verdade. A modelagem cargo moderna garante caimento solto e ajuste que respeita todas as silhuetas, perfeita pro rolê, skate, treino ou evento. O elástico com cordão de ajuste na cintura e na barra dá liberdade total de movimento, sem travar, e a grade completa de tamanhos, do PP ao GGG, facilita achar o match ideal pra você.
+Disponível nas cores street preta ou off-white (vale lembrar que o tom pode variar de tela pra tela), a peça traz o acabamento Baw Clothing — design pensado pra rotina intensa e produção 100% brasileira. Além de durável, a Track Thug Logo combina fácil com moletons oversized ou jaquetas urbanas, garantindo que seu look tenha atitude e estilo em qualquer corre.
+Composição: 100% algodão, esquece sintético, só liberdade e conforto;
+Tamanhos: PP a GGG;
+Ajustes: cordão na cintura + elástico na barra, basicamente, veste bem qualquer corpo;
+Produção: brasileira raiz, feita por gente que manja do streetwear;
+Dica pra durar mais: lave na máquina de boa, mas sempre água fria, sem torcer forte e secando à sombra. Assim, a peça aguenta mil rolês.
+Tecido leve e respirável, então, rola treino leve, skate, pedal ou caminhada tranquilo. Só não indicamos pra alto rendimento.
+Track é a vibe esportiva com elástico, jogger às vezes é mais slim e cargo tem mais bolsos e mood urbano. Ou seja, a Calça Track Thug Logo é o melhor dos três mundos.
+
+--- description do JSON-LD Product ---
+Cal&ccedil;a Track Thug Logo: street style 100% algod&atilde;o para quebrar tudo
+J&aacute; pensou em elevar o grau do seu look com uma pe&ccedil;a que mistura atitude urbana, conforto real e design exclusivo? Chegou a vez da Cal&ccedil;a Track Thug Logo dominar o nosso estilo. Direto do universo Baw Clothing,
+ ela traz aquele visual descolado com vibe streetwear
+, fabrica&ccedil;&atilde;o nacional e tecido 100% algod&atilde;o &mdash; n&atilde;o passa calor, n&atilde;o marca e deixa qualquer rol&ecirc; mais estiloso. Bora viver a cultura das ruas com originalidade?
+O hype da Cal&ccedil;a Track Thug Logo
+A Cal&ccedil;a Track Thug Logo &eacute; puro hype porque une estilo e conforto de verdade. A modelagem cargo moderna garante caimento solto e ajuste que respeita todas as silhuetas, perfeita pro rol&ecirc;, skate, treino ou evento. O el&aacute;stico com cord&atilde;o de ajuste na cintura e na barra d&aacute; liberdade total de movimento, sem travar, e a grade completa de tamanhos, do PP ao GGG, facilita achar o match ideal pra voc&ecirc;.
+Dispon&iacute;vel nas cores street preta ou off-white (vale lembrar que o tom pode variar de tela pra tela), a pe&ccedil;a traz o acabamento Baw Clothing &mdash; design pensado pra rotina intensa e produ&ccedil;&atilde;o 100% brasileira. Al&eacute;m de dur&aacute;vel, a Track Thug Logo combina f&aacute;cil com 
+moletons
+ oversized ou jaquetas urbanas, garantindo que seu look tenha atitude e estilo em qualquer corre.
+Ficha t&eacute;cnica: detalhes para quem &eacute; exigente
+	
+	
+Composi&ccedil;&atilde;o:
+ 100% algod&atilde;o, esquece sint&eacute;tico, s&oacute; liberdade e conforto;
+	
+	
+	
+Tamanhos:
+ PP a GGG;
+	
+	
+	
+Ajustes:
+ cord&atilde;o na cintura + el&aacute;stico na barra, basicamente, veste bem qualquer corpo;
+	
+	
+	
+Produ&ccedil;&atilde;o:
+ brasileira raiz, feita por gente que manja do streetwear;
+	
+	
+	
+Dica pra durar mais:
+ lave na m&aacute;quina de boa, mas sempre &aacute;gua fria, sem torcer forte e secando &agrave; sombra. Assim, a pe&ccedil;a aguenta mil rol&ecirc;s.
+	
+D&aacute; pra usar em atividade f&iacute;sica?
+Tecido leve e respir&aacute;vel, ent&atilde;o, rola treino leve, skate, pedal ou caminhada tranquilo. S&oacute; n&atilde;o indicamos pra alto rendimento.
+Qual a diferen&ccedil;a entre track, jogger e cargo?
+Track &eacute; a vibe esportiva com el&aacute;stico, jogger &agrave;s vezes &eacute; mais slim e cargo tem mais bolsos e mood urbano. Ou seja, a Cal&ccedil;a Track Thug Logo &eacute; o melhor dos tr&ecirc;s mundos.

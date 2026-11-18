@@ -1,0 +1,259 @@
+{
+ "arquivo_origem": "chillibaw-p1.html",
+ "sha256_origem": "5648a3f455c0e4623010fd75bf299b176f4127c6559a84167bf0eaff8dbeb07b",
+ "titulo": null,
+ "title_pagina": "ChilliBaw",
+ "contagem_pagina": 11,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/chillibaw",
+  "numberOfItems": "11",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-slim-hell-heart-chillibaw-154005/364843-1.jpg?w=556&h=833&v=202610081228",
+    "url": "https://www.bawclothing.com.br/camiseta-slim-hell-heart-chillibaw-154005",
+    "name": "CAMISETA SLIM HELL HEART CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-hell-heart-chillibaw-154000/364839-1.jpg?w=556&h=833&v=202610081227",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-hell-heart-chillibaw-154000",
+    "name": "CAMISETA OVERSIZED HELL HEART CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-tribe-chillibaw-154007/364867-1.jpg?w=556&h=833&v=202610191202",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-tribe-chillibaw-154007",
+    "name": "CAMISETA OVERSIZED TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-under-tribe-chillibaw-154002/364835-1.jpg?w=556&h=833&v=202610071619",
+    "url": "https://www.bawclothing.com.br/regata-under-tribe-chillibaw-154002",
+    "name": "REGATA UNDER TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-regular-work-fire-chillibaw-153996/364808-1.jpg?w=556&h=833&v=202610071449",
+    "url": "https://www.bawclothing.com.br/calca-regular-work-fire-chillibaw-153996",
+    "name": "CALÇA REGULAR WORK FIRE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-5-pockets-chillibaw-153990/364800-1.jpg?w=556&h=833&v=202610061746",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-5-pockets-chillibaw-153990",
+    "name": "BERMUDA JEANS 5 POCKETS CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-chillibaw-153991/364802-9.jpg?w=556&h=833&v=202610081227",
+    "url": "https://www.bawclothing.com.br/bone-trucker-chillibaw-153991",
+    "name": "BONÉ TRUCKER CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-tribe-chillibaw-153989/364801-1.jpg?w=556&h=833&v=202610071053",
+    "url": "https://www.bawclothing.com.br/bone-trucker-tribe-chillibaw-153989",
+    "name": "BONÉ TRUCKER TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/meia-cano-alto-tribe-chillibaw-153999/364817-1.jpg?w=556&h=833&v=202610071541",
+    "url": "https://www.bawclothing.com.br/meia-cano-alto-tribe-chillibaw-153999",
+    "name": "MEIA CANO ALTO TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/meia-cano-alto-fire-chillibaw-153997/364809-1.jpg?w=556&h=833&v=202610071536",
+    "url": "https://www.bawclothing.com.br/meia-cano-alto-fire-chillibaw-153997",
+    "name": "MEIA CANO ALTO FIRE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "29.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/carteira-velcro-chillibaw-153993/364805-1.jpg?w=556&h=833&v=202610081213",
+    "url": "https://www.bawclothing.com.br/carteira-velcro-chillibaw-153993",
+    "name": "CARTEIRA VELCRO CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "154005",
+   "href": "/camiseta-slim-hell-heart-chillibaw-154005",
+   "nome": "CAMISETA SLIM HELL HEART CHILLIBAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154000",
+   "href": "/camiseta-oversized-hell-heart-chillibaw-154000",
+   "nome": "CAMISETA OVERSIZED HELL HEART CHILLIBAW",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154007",
+   "href": "/camiseta-oversized-tribe-chillibaw-154007",
+   "nome": "CAMISETA OVERSIZED TRIBE CHILLIBAW",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154002",
+   "href": "/regata-under-tribe-chillibaw-154002",
+   "nome": "REGATA UNDER TRIBE CHILLIBAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153996",
+   "href": "/calca-regular-work-fire-chillibaw-153996",
+   "nome": "CALÇA REGULAR WORK FIRE CHILLIBAW",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153990",
+   "href": "/bermuda-jeans-5-pockets-chillibaw-153990",
+   "nome": "BERMUDA JEANS 5 POCKETS CHILLIBAW",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153991",
+   "href": "/bone-trucker-chillibaw-153991",
+   "nome": "BONÉ TRUCKER CHILLIBAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Branco E Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153989",
+   "href": "/bone-trucker-tribe-chillibaw-153989",
+   "nome": "BONÉ TRUCKER TRIBE CHILLIBAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153999",
+   "href": "/meia-cano-alto-tribe-chillibaw-153999",
+   "nome": "MEIA CANO ALTO TRIBE CHILLIBAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153997",
+   "href": "/meia-cano-alto-fire-chillibaw-153997",
+   "nome": "MEIA CANO ALTO FIRE CHILLIBAW",
+   "preco": "R$ 29,00",
+   "preco_de": "R$ 49,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Preto/Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153993",
+   "href": "/carteira-velcro-chillibaw-153993",
+   "nome": "CARTEIRA VELCRO CHILLIBAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "arquivo_origem": "bf-regatas-p1.html",
+ "sha256_origem": "8e8c08a3b3cf735c04a9e30428c5b04e1445857270d758b5da4deac2dfcb813a",
+ "titulo": "Regatas",
+ "title_pagina": "Regatas - Black Friday - Baw Clothing",
+ "contagem_pagina": 1,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/regatas",
+  "numberOfItems": "1",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-over-cruising-streets-153106/359296.jpg?w=556&h=833&v=202511271201",
+    "url": "https://www.bawclothing.com.br/regata-over-cruising-streets-153106",
+    "name": "REGATA OVER CRUISING STREETS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153106",
+   "href": "/regata-over-cruising-streets-153106",
+   "nome": "REGATA OVER CRUISING STREETS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "61%",
+   "selos": null,
+   "cor": "Marrom Canela",
+   "genero": "Unisex"
+  }
+ ]
+}

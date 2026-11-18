@@ -1,0 +1,40 @@
+url: https://www.bawclothing.com.br/produto/calca-track-baw-energy-151121
+lido_em: 2026-11-18T13:09:36-03:00
+html_origem: ficha-calca-track-baw-energy.html (sha256 6f4ea8de259f2e37ed609b5f7a7b8442cd4651f5d751e2bb3bd61e381b8f0c35)
+nome: CALÇA TRACK BAW ENERGY
+sku: 4.35.0149003G
+trilha: Página inicial > Roupas > Calças > CALÇA TRACK BAW ENERGY
+preco: R$ 139,00
+preco_de: R$ 199,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CALÇA TRACK BAW ENERGY AMARELO FLÚOR
+Calça de algodão cargo c/ cordão na cintura e elástico na barra para ajuste.
+PP - Comprimento lateral: 93,5cm/ Cintura: 70m/ Gancho dianteiro: 30cm/ Gancho traseiro: 39cm.
+P - Comprimento lateral: 95,5cm/ Cintura: 74cm/ Gancho dianteiro: 31cm/ Gancho traseiro: 40cm.
+M - Comprimento lateral: 97,5cm/ Cintura: 78cm/ Gancho dianteiro: 32,5cm/ Gancho traseiro: 41cm.
+G - Comprimento lateral: 99,5cm/ Cintura: 82cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 42cm.
+GG - Comprimento lateral: 101,5cm/ Cintura: 86cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 43cm.
+GGG - Comprimento lateral: 103,5cm/ Cintura: 90cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 44cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Calça. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+CAL&Ccedil;A TRACK BAW ENERGY AMARELO FL&Uacute;OR
+Cal&ccedil;a de algod&atilde;o cargo c/ cord&atilde;o na cintura e el&aacute;stico na barra para ajuste.
+PP - Comprimento lateral: 93,5cm/ Cintura: 70m/ Gancho dianteiro: 30cm/ Gancho traseiro: 39cm.
+P - Comprimento lateral: 95,5cm/ Cintura: 74cm/ Gancho dianteiro: 31cm/ Gancho traseiro: 40cm.
+M - Comprimento lateral: 97,5cm/ Cintura: 78cm/ Gancho dianteiro: 32,5cm/ Gancho traseiro: 41cm.
+G - Comprimento lateral: 99,5cm/ Cintura: 82cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 42cm.
+GG - Comprimento lateral: 101,5cm/ Cintura: 86cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 43cm.
+GGG - Comprimento lateral: 103,5cm/ Cintura: 90cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 44cm.
+Composi&ccedil;&atilde;o: 100% Algod&atilde;o.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente a Cal&ccedil;a. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Pe&ccedil;a da BAW Clothing criada e produzidas no Brasil.

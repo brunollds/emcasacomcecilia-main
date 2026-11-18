@@ -1,0 +1,46 @@
+url: https://www.bawclothing.com.br/produto/bermuda-mesh-panel-black-monocolor-153618
+lido_em: 2026-11-18T13:10:56-03:00
+html_origem: ficha-bermuda-mesh-panel-black-monocolor.html (sha256 805c8c06e8be16f71bec1ceb521fdc21c82505de7849e24f8986dca34a9ee514)
+nome: BERMUDA MESH PANEL BLACK MONOCOLOR
+sku: 2.15.0166040P
+trilha: Página inicial > Roupas > Shorts > BERMUDA MESH PANEL BLACK MONOCOLOR
+preco: R$ 149,00
+preco_de: R$ 199,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+BERMUDA MESH PANEL BLACK MONOCOLOR PRETO
+Shorts confeccionado de modelagem reta, com corte curto e em tecido mesh. Possui bolsos laterais proporcionando funcionalidade para armazenar itens essenciais e cós com elástico embutido para melhor caimento do corpo.
+PP - Comprimento lateral: 51cm/ Cintura: 36cm/ Gancho dianteiro: 28,5cm/ Gancho traseiro: 37cm/ Barra: 33cm.
+P - Comprimento lateral: 53cm/ Cintura: 38cm/ Gancho dianteiro: 29,5cm/ Gancho traseiro: 38cm/ Barra: 34cm.
+M - Comprimento lateral: 55cm/ Cintura: 40cm/ Gancho dianteiro: 30,5cm/ Gancho traseiro: 39cm/ Barra: 35cm.
+G - Comprimento lateral: 57cm/ Cintura: 42cm/ Gancho dianteiro: 31,5cm/ Gancho traseiro: 40cm/ Barra: 36cm.
+GG - Comprimento lateral: 59cm/ Cintura: 44cm/ Gancho dianteiro: 32,5cm/ Gancho traseiro: 41cm/ Barra: 37cm.
+GGG - Comprimento lateral: 61cm/ Cintura: 46cm/ Gancho dianteiro: 33,5cm/ Gancho traseiro: 42cm/ Barra: 38cm.
+Composição: 100% Poliéster.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Shorts. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+BERMUDA MESH PANEL BLACK MONOCOLOR PRETO
+Shorts confeccionado de modelagem reta, com corte curto e em tecido mesh. Possui bolsos laterais 
+proporcionando funcionalidade para armazenar itens essenciais e
+ c&oacute;s com el&aacute;stico embutido 
+para melhor caimento do corpo.
+&nbsp;
+PP - Comprimento lateral: 51cm/ Cintura: 36cm/ Gancho dianteiro: 28,5cm/ Gancho traseiro: 37cm/ Barra: 33cm.
+P - Comprimento lateral: 53cm/ Cintura: 38cm/ Gancho dianteiro: 29,5cm/ Gancho traseiro: 38cm/ Barra: 34cm.
+M - Comprimento lateral: 55cm/ Cintura: 40cm/ Gancho dianteiro: 30,5cm/ Gancho traseiro: 39cm/ Barra: 35cm.
+G - Comprimento lateral: 57cm/ Cintura: 42cm/ Gancho dianteiro: 31,5cm/ Gancho traseiro: 40cm/ Barra: 36cm.
+GG - Comprimento lateral: 59cm/ Cintura: 44cm/ Gancho dianteiro: 32,5cm/ Gancho traseiro: 41cm/ Barra: 37cm.
+GGG - Comprimento lateral: 61cm/ Cintura: 46cm/ Gancho dianteiro: 33,5cm/ Gancho traseiro: 42cm/ Barra: 38cm.
+Composi&ccedil;&atilde;o: 100% Poli&eacute;ster.
+&nbsp;
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente ao Shorts. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+&nbsp;
+Pe&ccedil;a da BAW Clothing criada e produzida no Brasil.

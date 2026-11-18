@@ -1,0 +1,50 @@
+url: https://www.bawclothing.com.br/produto/moletom-bob-marley-one-love-footbaw-club-153911
+lido_em: 2026-11-18T13:08:16-03:00
+html_origem: ficha-moletom-bob-marley-one-love-footbaw-club.html (sha256 2c5eaaa3cf779ea8e80af98903937423b13b3cd5ce603d1738dd5c752685f28f)
+nome: MOLETOM BOB MARLEY ONE LOVE FOOTBAW CLUB
+sku: 14.05.0136141G
+trilha: Página inicial > Roupas > Moletons > MOLETOM BOB MARLEY ONE LOVE FOOTBAW CLUB
+preco: R$ 239,00
+preco_de: R$ 399,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+MOLETOM BOB MARLEY ONE LOVE FOOTBAW CLUB
+O Moletom Canguru Bob Marley One Love Color Block celebra a essência vibrante da cultura rastafári e o legado de Bob Marley no futebol através de um design autêntico em color block . Confeccionado em algodão encorpado de alta gramatura com toque macio, o moletom possui modelagem oversized , corpo em tom preto, mangas na cor verde-bandeira, capuz ajustável duplo em amarelo e bolso canguru frontal em tom vermelho contrastante. O peito exibe estampa em silk screen amarela com a arte "one love Bob Marley FootBaw® Club" e o ícone de um jogador chutar a bola, enquanto o bolso frontal conta com uma etiqueta exclusiva da colaboração aplicada.
+Tabela de Medidas:
+PP - Comprimento: 70cm/ Tórax: 57cm/ Barra: 48cm/ Manga: 61cm/ Cava: 29cm.
+P - Comprimento: 72cm/ Tórax: 59cm/ Barra: 50cm/ Manga: 63cm/ Cava: 30cm.
+M - Comprimento: 74cm/ Tórax: 61cm/ Barra: 52cm/ Manga: 65cm/ Cava: 31cm.
+G - Comprimento: 76cm/ Tórax: 63cm/ Barra: 54cm/ Manga: 67cm/ Cava: 32cm.
+GG - Comprimento: 78cm/ Tórax: 65cm/ Barra: 56cm/ Manga: 69cm/ Cava: 33cm.
+GGG - Comprimento: 80cm/ Tórax: 67cm/ Barra: 58cm/ Manga: 71cm/ Cava: 34cm.
+Composição: 50% Poliéster 50% Algodão
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+MOLETOM BOB MARLEY ONE LOVE FOOTBAW CLUB
+O 
+Moletom Canguru Bob Marley One Love Color Block
+ celebra a essência vibrante da cultura rastafári e o legado de Bob Marley no futebol através de um design autêntico em 
+color block
+. Confeccionado em algodão encorpado de alta gramatura com toque macio, o moletom possui modelagem 
+oversized
+, corpo em tom preto, mangas na cor verde-bandeira, capuz ajustável duplo em amarelo e bolso canguru frontal em tom vermelho contrastante. O peito exibe estampa em 
+silk screen
+ amarela com a arte "one love Bob Marley FootBaw® Club" e o ícone de um jogador chutar a bola, enquanto o bolso frontal conta com uma etiqueta exclusiva da colaboração aplicada.
+Tabela de Medidas:
+PP - Comprimento: 70cm/ Tórax: 57cm/ Barra: 48cm/ Manga: 61cm/ Cava: 29cm.
+P - Comprimento: 72cm/ Tórax: 59cm/ Barra: 50cm/ Manga: 63cm/ Cava: 30cm.
+M - Comprimento: 74cm/ Tórax: 61cm/ Barra: 52cm/ Manga: 65cm/ Cava: 31cm.
+G - Comprimento: 76cm/ Tórax: 63cm/ Barra: 54cm/ Manga: 67cm/ Cava: 32cm.
+GG - Comprimento: 78cm/ Tórax: 65cm/ Barra: 56cm/ Manga: 69cm/ Cava: 33cm.
+GGG - Comprimento: 80cm/ Tórax: 67cm/ Barra: 58cm/ Manga: 71cm/ Cava: 34cm.
+Composição: 50% Poliéster 50% Algodão
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.

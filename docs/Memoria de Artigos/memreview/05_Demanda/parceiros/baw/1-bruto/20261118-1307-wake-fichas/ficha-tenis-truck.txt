@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/tenis-truck-150200
+lido_em: 2026-11-18T13:13:04-03:00
+html_origem: ficha-tenis-truck.html (sha256 24383b95e67bd0517473a95e0366261e300f978db9bdc2dc8ce9170d5d73ca08)
+nome: TENIS TRUCK
+sku: 008431204037
+trilha: Página inicial > Calçados > Tênis > TENIS TRUCK
+preco: R$ 389,00
+preco_de: R$ 749,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+TENIS TRUCK
+TENIS TRUCK PRETOEntressola em pu resistente e dur&aacute;vel, sola em tr com texturiza&ccedil;&atilde;o inspirada em mapas topogr&aacute;ficos e suas irregularidades, trazendo o atributo de conforto e estabilidade. Lingueta robusta em tecido ripstop, caracter&iacute;stico do streetstyle que garante conforto e estilo.TABELA DE MEDIDAS (35-43)*Este an&uacute;ncio se refere somente ao T&ecirc;nis. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

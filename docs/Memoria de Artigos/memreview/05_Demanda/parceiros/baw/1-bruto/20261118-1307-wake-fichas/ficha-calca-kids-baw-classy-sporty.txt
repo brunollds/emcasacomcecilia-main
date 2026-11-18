@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/calca-kids-baw-classy-sporty-150687
+lido_em: 2026-11-18T13:12:36-03:00
+html_origem: ficha-calca-kids-baw-classy-sporty.html (sha256 7848d20c02d679d3edc34b820c3e6a9372622b9edde31ef6a5a027d4bf9b2ac0)
+nome: CALCA KIDS BAW CLASSY SPORTY
+sku: 009552404208
+trilha: Página inicial > Kids > CALCA KIDS BAW CLASSY SPORTY
+preco: R$ 99,00
+preco_de: R$ 249,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CALCA KIDS BAW CLASSY SPORTY
+CALCA KIDS BAW CLASSY SPORTY

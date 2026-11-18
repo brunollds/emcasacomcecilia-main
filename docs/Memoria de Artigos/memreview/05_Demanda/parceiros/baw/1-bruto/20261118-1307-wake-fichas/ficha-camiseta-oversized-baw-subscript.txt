@@ -1,0 +1,40 @@
+url: https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896
+lido_em: 2026-11-18T13:13:37-03:00
+html_origem: ficha-camiseta-oversized-baw-subscript.html (sha256 df482bbe8256d08116c0993292fdf7946431d9c7555dba7cf34a6e6a465c054d)
+nome: CAMISETA OVERSIZED BAW SUBSCRIPT
+sku: 12.02.3806037P
+trilha: Página inicial > Black Friday > CAMISETA OVERSIZED BAW SUBSCRIPT
+preco: R$ 79,00
+preco_de: R$ 159,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISETA OVERSIZED BAW SUBSCRIPT OFF WHITE
+Camiseta oversized de algodão com modelagem reta e gola careca.
+PP - Comprimento: 68cm/ Torax: 55cm/ Barra: 55cm/ Manga: 19cm/ Cava: 22cm.
+P - Comprimento: 70cm/ Torax: 58cm/ Barra: 58cm/ Manga: 20cm/ Cava: 23cm.
+M - Comprimento: 72cm/ Torax: 61cm/ Barra: 61cm/ Manga: 21cm/ Cava: 24cm.
+G - Comprimento: 74cm/ Torax: 64cm/ Barra: 64cm/ Manga: 22cm/ Cava: 25cm.
+GG - Comprimento: 76cm/ Torax: 67cm/ Barra: 67cm/ Manga: 23cm/ Cava: 26cm.
+GGG - Comprimento: 78cm/ Torax: 70cm/ Barra: 70cm/ Manga: 24cm/ Cava: 27cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISETA OVERSIZED BAW SUBSCRIPT OFF WHITE
+Camiseta oversized de algodão com modelagem reta e gola careca.
+PP - Comprimento: 68cm/ Torax: 55cm/ Barra: 55cm/ Manga: 19cm/ Cava: 22cm.
+P - Comprimento: 70cm/ Torax: 58cm/ Barra: 58cm/ Manga: 20cm/ Cava: 23cm.
+M - Comprimento: 72cm/ Torax: 61cm/ Barra: 61cm/ Manga: 21cm/ Cava: 24cm.
+G - Comprimento: 74cm/ Torax: 64cm/ Barra: 64cm/ Manga: 22cm/ Cava: 25cm.
+GG - Comprimento: 76cm/ Torax: 67cm/ Barra: 67cm/ Manga: 23cm/ Cava: 26cm.
+GGG - Comprimento: 78cm/ Torax: 70cm/ Barra: 70cm/ Manga: 24cm/ Cava: 27cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

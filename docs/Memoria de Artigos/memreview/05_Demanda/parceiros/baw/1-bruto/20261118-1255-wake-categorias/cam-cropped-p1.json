@@ -1,0 +1,15 @@
+{
+ "arquivo_origem": "cam-cropped-p1.html",
+ "sha256_origem": "99bf8a552950f70a1b79694ec071fc9196aa708025ebc19f2e4476f158d8d2ad",
+ "titulo": "Cropped",
+ "title_pagina": "Cropped - Camisetas - Roupas - Baw Clothing",
+ "contagem_pagina": 0,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/camisetas/cropped",
+  "numberOfItems": "0",
+  "itemListElement": []
+ },
+ "cartoes": []
+}

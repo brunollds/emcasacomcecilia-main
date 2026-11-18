@@ -1,0 +1,237 @@
+{
+ "arquivo_origem": "kit-camiseta-regular-p1.html",
+ "sha256_origem": "16be11881670f1bdaa203ba09be1a6aa765b6d18a5635286218c1683ca15d296",
+ "titulo": null,
+ "title_pagina": "Kit Camiseta Regular - Baw Clothing",
+ "contagem_pagina": 10,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/colecao/kit-camiseta-regular",
+  "numberOfItems": "10",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-island-154173/365900-1.jpg?w=556&h=833&v=202611041436",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-island-154173",
+    "name": "CAMISETA BR REGULAR ISLAND",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baworld-154080/365311-1.jpg?w=556&h=833&v=202611041436",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baworld-154080",
+    "name": "CAMISETA BR REGULAR BAWORLD",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-new-luxury-154091/365368-1.jpg?w=556&h=833&v=202611041452",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-new-luxury-154091",
+    "name": "CAMISETA BR REGULAR NEW LUXURY",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-wire-heart-154030/364969-1.jpg?w=556&h=833&v=202611041507",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-wire-heart-154030",
+    "name": "CAMISETA BR REGULAR WIRE HEART",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-cruising-154081/365307-1.jpg?w=556&h=833&v=202611041437",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-cruising-154081",
+    "name": "CAMISETA BR REGULAR CRUISING",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-offline-tour-guide-154079/365321-1.jpg?w=556&h=833&v=202611041433",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-offline-tour-guide-154079",
+    "name": "CAMISETA BR REGULAR OFFLINE TOUR GUIDE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-post-tag-154037/365050-1.jpg?w=556&h=833&v=202611041503",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-post-tag-154037",
+    "name": "CAMISETA BR REGULAR POST TAG",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-steel-154034/365023-1.jpg?w=556&h=833&v=202611041458",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-steel-154034",
+    "name": "CAMISETA BR REGULAR BAW STEEL",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-island-154170/365847-1.jpg?w=556&h=833&v=202611041441",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-island-154170",
+    "name": "CAMISETA BR REGULAR ISLAND",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-sunny-days-154085/365314-1.jpg?w=556&h=833&v=202611041436",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-sunny-days-154085",
+    "name": "CAMISETA BR REGULAR SUNNY DAYS",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "154173",
+   "href": "/camiseta-br-regular-island-154173",
+   "nome": "CAMISETA BR REGULAR ISLAND",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154080",
+   "href": "/camiseta-br-regular-baworld-154080",
+   "nome": "CAMISETA BR REGULAR BAWORLD",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154091",
+   "href": "/camiseta-br-regular-new-luxury-154091",
+   "nome": "CAMISETA BR REGULAR NEW LUXURY",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154030",
+   "href": "/camiseta-br-regular-wire-heart-154030",
+   "nome": "CAMISETA BR REGULAR WIRE HEART",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154081",
+   "href": "/camiseta-br-regular-cruising-154081",
+   "nome": "CAMISETA BR REGULAR CRUISING",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "46%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154079",
+   "href": "/camiseta-br-regular-offline-tour-guide-154079",
+   "nome": "CAMISETA BR REGULAR OFFLINE TOUR GUIDE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154037",
+   "href": "/camiseta-br-regular-post-tag-154037",
+   "nome": "CAMISETA BR REGULAR POST TAG",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154034",
+   "href": "/camiseta-br-regular-baw-steel-154034",
+   "nome": "CAMISETA BR REGULAR BAW STEEL",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154170",
+   "href": "/camiseta-br-regular-island-154170",
+   "nome": "CAMISETA BR REGULAR ISLAND",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154085",
+   "href": "/camiseta-br-regular-sunny-days-154085",
+   "nome": "CAMISETA BR REGULAR SUNNY DAYS",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "46%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  }
+ ]
+}

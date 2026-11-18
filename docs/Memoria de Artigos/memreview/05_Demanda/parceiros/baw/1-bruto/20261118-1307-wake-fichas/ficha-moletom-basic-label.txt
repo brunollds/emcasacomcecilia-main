@@ -1,0 +1,41 @@
+url: https://www.bawclothing.com.br/produto/moletom-basic-label-153708
+lido_em: 2026-11-18T13:13:41-03:00
+html_origem: ficha-moletom-basic-label.html (sha256 fe41dced627b244a12747a835e1490d26de9ade725071fee6e016c973f1a8072)
+nome: MOLETOM BASIC LABEL
+sku: 14.05.0139040P
+trilha: Página inicial > Roupas > Moletons > MOLETOM BASIC LABEL
+preco: R$ 179,00
+preco_de: R$ 249,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+MOLETOM BASIC LABEL PRETO
+Moletom Hooodie com capuz e manga longa. Possui capuz integrado com cordões de ajuste e bolso estilo canguru frontal, ideal para aquecer as mãos ou carregar pequenos objetos. Punhos e barra em ribana elástica para garantir que a peça se mantenha no lugar e retenha o calor. Combina facilmente com calças jeans e calças jogger para um look comfy. Uma peça ideal para dias de temperatura amena ou fria, focada em conforto e estilo casual urbano.
+PP - Comprimento: 70cm/ Tórax: 57cm/ Barra: 48cm/ Manga: 61cm/ Cava: 29cm.
+P - Comprimento: 72cm/ Tórax: 59cm/ Barra: 50cm/ Manga: 63cm/ Cava: 30cm.
+M - Comprimento: 74cm/ Tórax: 61cm/ Barra: 52cm/ Manga: 65cm/ Cava: 31cm.
+G - Comprimento: 76cm/ Tórax: 63cm/ Barra: 54cm/ Manga: 67cm/ Cava: 32cm.
+GG - Comprimento: 78cm/ Tórax: 65cm/ Barra: 56cm/ Manga: 69cm/ Cava: 33cm.
+GGG - Comprimento: 80cm/ Tórax: 67cm/ Barra: 58cm/ Manga: 71cm/ Cava: 34cm.
+Composição: 50% Algodão e 50% Poliéster.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Sweatshirt. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+MOLETOM BASIC LABEL PRETO
+Moletom Hooodie com capuz e manga longa. 
+Possui capuz integrado com cord&otilde;es de ajuste e bolso estilo canguru frontal, ideal para aquecer as m&atilde;os ou carregar pequenos objetos. Punhos e barra em ribana el&aacute;stica para garantir que a pe&ccedil;a se mantenha no lugar e retenha o calor. Combina facilmente com cal&ccedil;as jeans e cal&ccedil;as jogger para um look comfy. Uma pe&ccedil;a ideal para dias de temperatura amena ou fria, focada em conforto e estilo casual urbano.
+PP - Comprimento: 70cm/ T&oacute;rax: 57cm/ Barra: 48cm/ Manga: 61cm/ Cava: 29cm.
+P - Comprimento: 72cm/ T&oacute;rax: 59cm/ Barra: 50cm/ Manga: 63cm/ Cava: 30cm.
+M - Comprimento: 74cm/ T&oacute;rax: 61cm/ Barra: 52cm/ Manga: 65cm/ Cava: 31cm.
+G - Comprimento: 76cm/ T&oacute;rax: 63cm/ Barra: 54cm/ Manga: 67cm/ Cava: 32cm.
+GG - Comprimento: 78cm/ T&oacute;rax: 65cm/ Barra: 56cm/ Manga: 69cm/ Cava: 33cm.
+GGG - Comprimento: 80cm/ T&oacute;rax: 67cm/ Barra: 58cm/ Manga: 71cm/ Cava: 34cm.
+Composi&ccedil;&atilde;o: 50% Algod&atilde;o e 50% Poli&eacute;ster.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente ao Sweatshirt. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Pe&ccedil;a da BAW Clothing criada e produzida no Brasil.

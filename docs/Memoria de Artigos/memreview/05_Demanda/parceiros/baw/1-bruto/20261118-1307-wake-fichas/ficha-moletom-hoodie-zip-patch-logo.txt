@@ -1,0 +1,53 @@
+url: https://www.bawclothing.com.br/produto/moletom-hoodie-zip-patch-logo-153485
+lido_em: 2026-11-18T13:08:01-03:00
+html_origem: ficha-moletom-hoodie-zip-patch-logo.html (sha256 7748c36fde6d3d0e02491f50d9102640b6932fa8fffa21fda4a1a6a710e36aaa)
+nome: MOLETOM HOODIE ZIP PATCH LOGO
+sku: 0100209025GG
+trilha: Página inicial > Roupas > Moletons > MOLETOM HOODIE ZIP PATCH LOGO
+preco: R$ 169,00
+preco_de: R$ 449,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+MOLETOM HOODIE ZIP PATCH LOGO CINZA MESCLA CLARO
+O Moletom Hoodie Zip Patch Logo traz a união perfeita entre a praticidade do fechamento por zíper e a sofisticação do streetwear minimalista. Confeccionado em moletom flanelado de altíssima gramatura e toque macio, a peça oferece caimento estruturado, excelente isolamento térmico e máxima versatilidade para o dia a dia. Seu grande diferencial fica por conta do design clean , destacando apenas um pequeno patch retangular embutido/aplicado discretamente no peito esquerdo com o logo da marca. Conta com abertura frontal completa por zíper metálico, capuz com cordão de ajuste contrastante ou tom sobre tom, bolso frontal dividido estilo canguru e acabamento em ribana encorpada nos punhos e na barra.
+Tabela de medidas:
+PP - Comprimento: 66cm/ Tórax: 54cm/ Barra: 43cm/ Manga: 61cm/ Ombro: 14cm/ Cava: 29cm.
+P - Comprimento: 68cm/ Tórax: 57cm/ Barra: 46cm/ Manga: 62cm/ Ombro: 15cm/ Cava: 30cm.
+M - Comprimento: 70cm/ Tórax: 60cm/ Barra: 49cm/ Manga: 63cm/ Ombro: 16cm/ Cava: 31cm.
+G - Comprimento: 72cm/ Tórax: 63cm/ Barra: 52cm/ Manga: 64cm/ Ombro: 17cm/ Cava: 32cm.
+GG - Comprimento: 74cm/ Tórax: 66cm/ Barra: 55cm/ Manga: 65cm/ Ombro: 18cm/ Cava: 33cm.
+GGG - Comprimento: 76cm/ Tórax: 69cm/ Barra: 58cm/ Manga: 66cm/ Ombro: 19cm/ Cava: 34cm.
+Composição: 50% Algodão, 50% Poliéster .
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Moletom. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+MOLETOM HOODIE ZIP PATCH LOGO CINZA MESCLA CLARO
+O 
+Moletom Hoodie Zip Patch Logo
+ traz a união perfeita entre a praticidade do fechamento por zíper e a sofisticação do 
+streetwear
+ minimalista. Confeccionado em moletom flanelado de altíssima gramatura e toque macio, a peça oferece caimento estruturado, excelente isolamento térmico e máxima versatilidade para o dia a dia. Seu grande diferencial fica por conta do design 
+clean
+, destacando apenas um pequeno 
+patch
+ retangular embutido/aplicado discretamente no peito esquerdo com o logo da marca. Conta com abertura frontal completa por zíper metálico, capuz com cordão de ajuste contrastante ou tom sobre tom, bolso frontal dividido estilo canguru e acabamento em ribana encorpada nos punhos e na barra.
+Tabela de medidas:
+PP - Comprimento: 66cm/ Tórax: 54cm/ Barra: 43cm/ Manga: 61cm/ Ombro: 14cm/ Cava: 29cm.
+P - Comprimento: 68cm/ Tórax: 57cm/ Barra: 46cm/ Manga: 62cm/ Ombro: 15cm/ Cava: 30cm.
+M - Comprimento: 70cm/ Tórax: 60cm/ Barra: 49cm/ Manga: 63cm/ Ombro: 16cm/ Cava: 31cm.
+G - Comprimento: 72cm/ Tórax: 63cm/ Barra: 52cm/ Manga: 64cm/ Ombro: 17cm/ Cava: 32cm.
+GG - Comprimento: 74cm/ Tórax: 66cm/ Barra: 55cm/ Manga: 65cm/ Ombro: 18cm/ Cava: 33cm.
+GGG - Comprimento: 76cm/ Tórax: 69cm/ Barra: 58cm/ Manga: 66cm/ Ombro: 19cm/ Cava: 34cm.
+Composição:
+ 
+50% Algodão, 50% Poliéster
+.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Moletom. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

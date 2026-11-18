@@ -1,0 +1,413 @@
+{
+ "arquivo_origem": "jaquetas-p1.html",
+ "sha256_origem": "87f3226a5a65b026d18cb211b98d06e839f6141be9409931540cdcbff904e9d1",
+ "titulo": "Jaquetas",
+ "title_pagina": "Jaquetas: jeans, puffer, bomber, turtleneck e mais",
+ "contagem_pagina": 18,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/jaquetas",
+  "numberOfItems": "18",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-jeans-puffer-baw-easy-life-150948/341219.jpg?w=556&h=833&v=202509162350",
+    "url": "https://www.bawclothing.com.br/jaqueta-jeans-puffer-baw-easy-life-150948",
+    "name": "JAQUETA JEANS PUFFER BAW EASY LIFE",
+    "offers": {
+     "@type": "Offer",
+     "price": "289.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-cropped-baw-athletics-153945/364597-1.jpg?w=556&h=833&v=202609301107",
+    "url": "https://www.bawclothing.com.br/jaqueta-cropped-baw-athletics-153945",
+    "name": "JAQUETA CROPPED BAW ATHLETICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-vintage-panel-baw-league-153741/363409-1.jpg?w=556&h=833&v=202606111128",
+    "url": "https://www.bawclothing.com.br/jaqueta-vintage-panel-baw-league-153741",
+    "name": "JAQUETA VINTAGE PANEL BAW LEAGUE",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/vest-baw-ent-153687/363131-1.jpg?w=556&h=833&v=202605111129",
+    "url": "https://www.bawclothing.com.br/vest-baw-ent-153687",
+    "name": "VEST BAW ENT",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/turtleneck-baw-future-150785/340147.jpg?w=556&h=833&v=202510291548",
+    "url": "https://www.bawclothing.com.br/turtleneck-baw-future-150785",
+    "name": "TURTLENECK BAW FUTURE",
+    "offers": {
+     "@type": "Offer",
+     "price": "359.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-puffer-premium-essentals-150764/340070.jpg?w=556&h=833&v=202509170048",
+    "url": "https://www.bawclothing.com.br/jaqueta-puffer-premium-essentals-150764",
+    "name": "JAQUETA PUFFER PREMIUM ESSENTALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "359.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-puffer-premium-essentals-150753/339969.jpg?w=556&h=833&v=202509162252",
+    "url": "https://www.bawclothing.com.br/jaqueta-puffer-premium-essentals-150753",
+    "name": "JAQUETA PUFFER PREMIUM ESSENTALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "359.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bomber-jacket-campus-baw-151712/349486.jpg?w=556&h=833&v=202511271757",
+    "url": "https://www.bawclothing.com.br/bomber-jacket-campus-baw-151712",
+    "name": "BOMBER JACKET CAMPUS BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "369.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-bomber-recortes-baw-x-smiley-150537/339028.jpg?w=556&h=833&v=202509170011",
+    "url": "https://www.bawclothing.com.br/jaqueta-bomber-recortes-baw-x-smiley-150537",
+    "name": "JAQUETA BOMBER RECORTES BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "389.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-vintage-baw-x-pringles-153782/363665-1.jpg?w=556&h=833&v=202608061130",
+    "url": "https://www.bawclothing.com.br/jaqueta-vintage-baw-x-pringles-153782",
+    "name": "JAQUETA VINTAGE BAW X PRINGLES",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-techno-travel-bawer-153772/363584-1.jpg?w=556&h=833&v=202608031651",
+    "url": "https://www.bawclothing.com.br/jaqueta-techno-travel-bawer-153772",
+    "name": "JAQUETA TECHNO TRAVEL BAW&R",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bomber-jacket-baw-pantheros-151879/363555-1.jpg?w=556&h=833&v=202608031652",
+    "url": "https://www.bawclothing.com.br/bomber-jacket-baw-pantheros-151879",
+    "name": "BOMBER JACKET BAW PANTHEROS",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-wind-colorblock-baw-x-sol-153507/361771-1.jpg?w=556&h=833&v=202602051716",
+    "url": "https://www.bawclothing.com.br/jaqueta-wind-colorblock-baw-x-sol-153507",
+    "name": "JAQUETA WIND COLORBLOCK BAW X SOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-puffer-vintage-150882/340750.jpg?w=556&h=833&v=202509162241",
+    "url": "https://www.bawclothing.com.br/jaqueta-puffer-vintage-150882",
+    "name": "JAQUETA PUFFER VINTAGE",
+    "offers": {
+     "@type": "Offer",
+     "price": "399.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-varsity-bob-marley-futbol-153901/364381-1.jpg?w=556&h=833&v=202609141151",
+    "url": "https://www.bawclothing.com.br/jaqueta-varsity-bob-marley-futbol-153901",
+    "name": "JAQUETA VARSITY BOB MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "599.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-street-racing-153418/361213.jpg?w=556&h=833&v=202602111410",
+    "url": "https://www.bawclothing.com.br/jaqueta-street-racing-153418",
+    "name": "JAQUETA STREET RACING",
+    "offers": {
+     "@type": "Offer",
+     "price": "599.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bomber-jacket-college-hp-x-baw-153577/362212-1.jpg?w=556&h=833&v=202608181731",
+    "url": "https://www.bawclothing.com.br/bomber-jacket-college-hp-x-baw-153577",
+    "name": "BOMBER JACKET COLLEGE HP X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "699.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-bomber-bawent-circuit-154265/366463-1.jpg?w=556&h=833&v=202611180953",
+    "url": "https://www.bawclothing.com.br/jaqueta-bomber-bawent-circuit-154265",
+    "name": "JAQUETA BOMBER BAWENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "799.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "150948",
+   "href": "/jaqueta-jeans-puffer-baw-easy-life-150948",
+   "nome": "JAQUETA JEANS PUFFER BAW EASY LIFE",
+   "preco": "R$ 289,00",
+   "preco_de": "R$ 579,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153945",
+   "href": "/jaqueta-cropped-baw-athletics-153945",
+   "nome": "JAQUETA CROPPED BAW ATHLETICS",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 449,00",
+   "selo_off": "33%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153741",
+   "href": "/jaqueta-vintage-panel-baw-league-153741",
+   "nome": "JAQUETA VINTAGE PANEL BAW LEAGUE",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 699,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Royal",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153687",
+   "href": "/vest-baw-ent-153687",
+   "nome": "VEST BAW ENT",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Chumbo/Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150785",
+   "href": "/turtleneck-baw-future-150785",
+   "nome": "TURTLENECK BAW FUTURE",
+   "preco": "R$ 359,00",
+   "preco_de": "R$ 799,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Preto/Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150764",
+   "href": "/jaqueta-puffer-premium-essentals-150764",
+   "nome": "JAQUETA PUFFER PREMIUM ESSENTALS",
+   "preco": "R$ 359,00",
+   "preco_de": "R$ 849,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150753",
+   "href": "/jaqueta-puffer-premium-essentals-150753",
+   "nome": "JAQUETA PUFFER PREMIUM ESSENTALS",
+   "preco": "R$ 359,00",
+   "preco_de": "R$ 849,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151712",
+   "href": "/bomber-jacket-campus-baw-151712",
+   "nome": "BOMBER JACKET CAMPUS BAW",
+   "preco": "R$ 369,00",
+   "preco_de": "R$ 899,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150537",
+   "href": "/jaqueta-bomber-recortes-baw-x-smiley-150537",
+   "nome": "JAQUETA BOMBER RECORTES BAW X SMILEY",
+   "preco": "R$ 389,00",
+   "preco_de": "R$ 799,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153782",
+   "href": "/jaqueta-vintage-baw-x-pringles-153782",
+   "nome": "JAQUETA VINTAGE BAW X PRINGLES",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 899,00",
+   "selo_off": "56%",
+   "selos": null,
+   "cor": "Branco/Vermelho/Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153772",
+   "href": "/jaqueta-techno-travel-bawer-153772",
+   "nome": "JAQUETA TECHNO TRAVEL BAW&R",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 799,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151879",
+   "href": "/bomber-jacket-baw-pantheros-151879",
+   "nome": "BOMBER JACKET BAW PANTHEROS",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 799,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Cacau",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153507",
+   "href": "/jaqueta-wind-colorblock-baw-x-sol-153507",
+   "nome": "JAQUETA WIND COLORBLOCK BAW X SOL",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Amarelo Aurora",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150882",
+   "href": "/jaqueta-puffer-vintage-150882",
+   "nome": "JAQUETA PUFFER VINTAGE",
+   "preco": "R$ 399,00",
+   "preco_de": "R$ 899,00",
+   "selo_off": "56%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153901",
+   "href": "/jaqueta-varsity-bob-marley-futbol-153901",
+   "nome": "JAQUETA VARSITY BOB MARLEY FUTBOL",
+   "preco": "R$ 599,00",
+   "preco_de": "R$ 1.299,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153418",
+   "href": "/jaqueta-street-racing-153418",
+   "nome": "JAQUETA STREET RACING",
+   "preco": "R$ 599,00",
+   "preco_de": "R$ 1.149,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto/Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153577",
+   "href": "/bomber-jacket-college-hp-x-baw-153577",
+   "nome": "BOMBER JACKET COLLEGE HP X BAW",
+   "preco": "R$ 699,00",
+   "preco_de": "R$ 999,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Off White/Vinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154265",
+   "href": "/jaqueta-bomber-bawent-circuit-154265",
+   "nome": "JAQUETA BOMBER BAWENT CIRCUIT",
+   "preco": "R$ 799,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Marinho/Rosa/Roxo",
+   "genero": "Unisex"
+  }
+ ]
+}

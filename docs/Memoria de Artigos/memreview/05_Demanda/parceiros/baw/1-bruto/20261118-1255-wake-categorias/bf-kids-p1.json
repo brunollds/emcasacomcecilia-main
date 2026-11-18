@@ -1,0 +1,15 @@
+{
+ "arquivo_origem": "bf-kids-p1.html",
+ "sha256_origem": "ea5c18efccaeea733a06725281cd36fbc6a689e8784bdea30010e3d207faa702",
+ "titulo": "Kids",
+ "title_pagina": "Kids - Black Friday - Baw Clothing",
+ "contagem_pagina": 0,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/kids",
+  "numberOfItems": "0",
+  "itemListElement": []
+ },
+ "cartoes": []
+}

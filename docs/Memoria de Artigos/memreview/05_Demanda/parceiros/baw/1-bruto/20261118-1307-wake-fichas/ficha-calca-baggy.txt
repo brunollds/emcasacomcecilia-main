@@ -1,0 +1,26 @@
+url: https://www.bawclothing.com.br/produto/calca-baggy-150308
+lido_em: 2026-11-18T13:09:08-03:00
+html_origem: ficha-calca-baggy.html (sha256 f660a971972feb2bc6997b4db8977b2401f4878235c3e941a8e1cccc8e8a4769)
+nome: CALCA BAGGY
+sku: 0069737023M
+trilha: Página inicial > Roupas > Calças > CALCA BAGGY
+preco: R$ 175,96
+preco_de: R$ 439,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+[sem parágrafos no bloco]
+
+--- description do JSON-LD Product ---
+CALCA BAGGY
+Cal&ccedil;a modelagem baggy confeccionada em tecido de sarja. Possui c&oacute;s com el&aacute;stico e cord&atilde;o para ajuste, bolsos frontais e bolso traseiro.
+P - Comprimento: 101cm/ Cintura: 68cm/ Gancho dianteiro: 37cm/Gancho traseiro: 46cm/ Quadril (circunfer&ecirc;ncia): 110cm.
+M - Comprimento: 102cm/ Cintura: 72cm/ Gancho dianteiro: 38cm/Gancho traseiro: 47cm/ Quadril (circunfer&ecirc;ncia): 117cm.
+G - Comprimento: 103cm/ Cintura: 76cm/ Gancho dianteiro: 39cm/Gancho traseiro: 49cm/ Quadril (circunfer&ecirc;ncia): 124cm.
+GG - Comprimento: 104cm/ Cintura: 78cm/ Gancho dianteiro: 40cm/Gancho traseiro: 50cm/ Quadril (circunfer&ecirc;ncia): 132cm.
+Composi&ccedil;&atilde;o: 100% Algod&atilde;o.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente a Cal&ccedil;a. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Pe&ccedil;a da BAW Clothing criada e produzidas no Brasil.

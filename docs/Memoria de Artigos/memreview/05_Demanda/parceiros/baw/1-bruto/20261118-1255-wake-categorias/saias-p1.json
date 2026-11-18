@@ -1,0 +1,193 @@
+{
+ "arquivo_origem": "saias-p1.html",
+ "sha256_origem": "ad3d40de54c17733ffd5083f200477885b229de7a0523240faf7cd87474662b3",
+ "titulo": "Saias",
+ "title_pagina": "Saias genderless da Baw®: curtas e longas do PP ao 3G",
+ "contagem_pagina": 8,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/saias",
+  "numberOfItems": "8",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-babydoll-154148/365715-1.jpg?w=556&h=833&v=202610271725",
+    "url": "https://www.bawclothing.com.br/saia-babydoll-154148",
+    "name": "SAIA BABYDOLL",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-midi-athletic-academics-152711/357711-1.jpg?w=556&h=833&v=202608061303",
+    "url": "https://www.bawclothing.com.br/saia-midi-athletic-academics-152711",
+    "name": "SAIA MIDI ATHLETIC ACADEMICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-plaid-cargo-baw-x-sd-150799/340193.jpg?w=556&h=833&v=202509170108",
+    "url": "https://www.bawclothing.com.br/saia-plaid-cargo-baw-x-sd-150799",
+    "name": "SAIA PLAID CARGO BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-jeans-vibes-easy-life-150782/340137-1.jpg?w=556&h=833&v=202608201145",
+    "url": "https://www.bawclothing.com.br/saia-jeans-vibes-easy-life-150782",
+    "name": "SAIA JEANS VIBES EASY LIFE",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-plissada-simple-baw-151177/342430-1.jpg?w=556&h=833&v=202608061124",
+    "url": "https://www.bawclothing.com.br/saia-plissada-simple-baw-151177",
+    "name": "SAIA PLISSADA SIMPLE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-college-baw-x-hello-kitty-153528/361903-1.jpg?w=556&h=833&v=202608031217",
+    "url": "https://www.bawclothing.com.br/saia-college-baw-x-hello-kitty-153528",
+    "name": "SAIA COLLEGE BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-cargo-jeans-baw-connect-151174/342422-1.jpg?w=556&h=833&v=202603251127",
+    "url": "https://www.bawclothing.com.br/saia-cargo-jeans-baw-connect-151174",
+    "name": "SAIA CARGO JEANS BAW CONNECT",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-cargo-jeans-baw-connect-150821/340391-1.jpg?w=556&h=833&v=202608061036",
+    "url": "https://www.bawclothing.com.br/saia-cargo-jeans-baw-connect-150821",
+    "name": "SAIA CARGO JEANS BAW CONNECT",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "154148",
+   "href": "/saia-babydoll-154148",
+   "nome": "SAIA BABYDOLL",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "61%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152711",
+   "href": "/saia-midi-athletic-academics-152711",
+   "nome": "SAIA MIDI ATHLETIC ACADEMICS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150799",
+   "href": "/saia-plaid-cargo-baw-x-sd-150799",
+   "nome": "SAIA PLAID CARGO BAW X SD",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Bege Blush",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150782",
+   "href": "/saia-jeans-vibes-easy-life-150782",
+   "nome": "SAIA JEANS VIBES EASY LIFE",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "24%",
+   "selos": null,
+   "cor": "Jeans Medio",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151177",
+   "href": "/saia-plissada-simple-baw-151177",
+   "nome": "SAIA PLISSADA SIMPLE BAW",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153528",
+   "href": "/saia-college-baw-x-hello-kitty-153528",
+   "nome": "SAIA COLLEGE BAW X HELLO KITTY",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151174",
+   "href": "/saia-cargo-jeans-baw-connect-151174",
+   "nome": "SAIA CARGO JEANS BAW CONNECT",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 419,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150821",
+   "href": "/saia-cargo-jeans-baw-connect-150821",
+   "nome": "SAIA CARGO JEANS BAW CONNECT",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "27%",
+   "selos": null,
+   "cor": "Indigo",
+   "genero": "Unisex"
+  }
+ ]
+}

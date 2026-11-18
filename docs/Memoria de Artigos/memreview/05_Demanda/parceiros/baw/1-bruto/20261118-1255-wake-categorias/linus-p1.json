@@ -1,0 +1,347 @@
+{
+ "arquivo_origem": "linus-p1.html",
+ "sha256_origem": "842f5c518e3347c1447097fd1740b485bb96d6de4ef35e758cd56b61dc7746a9",
+ "titulo": null,
+ "title_pagina": "Baw & Linus",
+ "contagem_pagina": 15,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/linus",
+  "numberOfItems": "15",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-linus-153596/362461-1.jpg?w=556&h=833&v=202605271138",
+    "url": "https://www.bawclothing.com.br/moletom-linus-153596",
+    "name": "MOLETOM LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-linus-153595/362454-1.jpg?w=556&h=833&v=202605271136",
+    "url": "https://www.bawclothing.com.br/moletom-linus-153595",
+    "name": "MOLETOM LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-linus-153599/362482-1.jpg?w=556&h=833&v=202603201934",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-linus-153599",
+    "name": "CAMISETA OVERSIZED LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-linus-153593/362436.jpg?w=556&h=833&v=202603051322",
+    "url": "https://www.bawclothing.com.br/shorts-linus-153593",
+    "name": "SHORTS LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-linus-153592/362434.jpg?w=556&h=833&v=202603051310",
+    "url": "https://www.bawclothing.com.br/shorts-linus-153592",
+    "name": "SHORTS LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-linus-153594/362431.jpg?w=556&h=833&v=202603051321",
+    "url": "https://www.bawclothing.com.br/shorts-linus-153594",
+    "name": "SHORTS LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-linus-153612/362527.jpg?w=556&h=833&v=202603051221",
+    "url": "https://www.bawclothing.com.br/bolsa-linus-153612",
+    "name": "BOLSA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-linus-153611/362526.jpg?w=556&h=833&v=202603121009",
+    "url": "https://www.bawclothing.com.br/bolsa-linus-153611",
+    "name": "BOLSA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-linus-153610/362525.jpg?w=556&h=833&v=202603051224",
+    "url": "https://www.bawclothing.com.br/bolsa-linus-153610",
+    "name": "BOLSA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sandalia-linus-153608/362520.jpg?w=556&h=833&v=202603051259",
+    "url": "https://www.bawclothing.com.br/sandalia-linus-153608",
+    "name": "SANDÁLIA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sandalia-linus-153609/362512.jpg?w=556&h=833&v=202603051440",
+    "url": "https://www.bawclothing.com.br/sandalia-linus-153609",
+    "name": "SANDÁLIA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sandalia-linus-153607/362507.jpg?w=556&h=833&v=202603051258",
+    "url": "https://www.bawclothing.com.br/sandalia-linus-153607",
+    "name": "SANDÁLIA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-linus-153601/362499.jpg?w=556&h=833&v=202602251224",
+    "url": "https://www.bawclothing.com.br/regata-linus-153601",
+    "name": "REGATA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-linus-153602/362492.jpg?w=556&h=833&v=202602251224",
+    "url": "https://www.bawclothing.com.br/regata-linus-153602",
+    "name": "REGATA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-linus-153603/362488.jpg?w=556&h=833&v=202602251224",
+    "url": "https://www.bawclothing.com.br/regata-linus-153603",
+    "name": "REGATA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153596",
+   "href": "/moletom-linus-153596",
+   "nome": "MOLETOM LINUS",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Amarelo Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153595",
+   "href": "/moletom-linus-153595",
+   "nome": "MOLETOM LINUS",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Laranja Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153599",
+   "href": "/camiseta-oversized-linus-153599",
+   "nome": "CAMISETA OVERSIZED LINUS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Rosa Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153593",
+   "href": "/shorts-linus-153593",
+   "nome": "SHORTS LINUS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Rosa Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153592",
+   "href": "/shorts-linus-153592",
+   "nome": "SHORTS LINUS",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "52%",
+   "selos": null,
+   "cor": "Laranja Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153594",
+   "href": "/shorts-linus-153594",
+   "nome": "SHORTS LINUS",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "52%",
+   "selos": null,
+   "cor": "Amarelo Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153612",
+   "href": "/bolsa-linus-153612",
+   "nome": "BOLSA LINUS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 243,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Rosa Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153611",
+   "href": "/bolsa-linus-153611",
+   "nome": "BOLSA LINUS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 243,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Laranja Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153610",
+   "href": "/bolsa-linus-153610",
+   "nome": "BOLSA LINUS",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 243,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Amarelo Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153608",
+   "href": "/sandalia-linus-153608",
+   "nome": "SANDÁLIA LINUS",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "26%",
+   "selos": null,
+   "cor": "Amarelo Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153609",
+   "href": "/sandalia-linus-153609",
+   "nome": "SANDÁLIA LINUS",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "13%",
+   "selos": null,
+   "cor": "Rosa Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153607",
+   "href": "/sandalia-linus-153607",
+   "nome": "SANDÁLIA LINUS",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "13%",
+   "selos": null,
+   "cor": "Laranja Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153601",
+   "href": "/regata-linus-153601",
+   "nome": "REGATA LINUS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Laranja Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153602",
+   "href": "/regata-linus-153602",
+   "nome": "REGATA LINUS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Amarelo Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153603",
+   "href": "/regata-linus-153603",
+   "nome": "REGATA LINUS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "31%",
+   "selos": null,
+   "cor": "Rosa Pink",
+   "genero": "Unisex"
+  }
+ ]
+}

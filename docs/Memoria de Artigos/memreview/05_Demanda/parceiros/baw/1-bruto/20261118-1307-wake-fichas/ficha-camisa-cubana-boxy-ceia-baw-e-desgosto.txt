@@ -1,0 +1,42 @@
+url: https://www.bawclothing.com.br/produto/camisa-cubana-boxy-ceia-baw-e-desgosto-153220
+lido_em: 2026-11-18T13:08:49-03:00
+html_origem: ficha-camisa-cubana-boxy-ceia-baw-e-desgosto.html (sha256 d798375cdb2249a21fcf27d42646c5aacb0babe627e630173472712d302e7f58)
+nome: CAMISA CUBANA BOXY CEIA BAW & DESGOSTO
+sku: 06.08.0561037M
+trilha: Página inicial > Roupas > Camisas > CAMISA CUBANA BOXY CEIA BAW & DESGOSTO
+preco: R$ 149,00
+preco_de: R$ 299,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISA CUBANA BOXY CEIA BAW & DESGOSTO OFF WHITE
+Camisa de botão com modelagem BOXY, 100% Viscose de alta qualidade. Lapela ampla e estampa digital exclusiva da collab BAW + DESGOSTO.
+PP - Comprimento: 67cm/ Torax: 56cm/ Barra: 56cm/ Manga: 24cm.
+P - Comprimento: 69cm/ Torax: 59cm/ Barra: 59cm/ Manga: 25cm.
+M - Comprimento: 71cm/ Torax: 62cm/ Barra: 62cm/ Manga: 26cm.
+G - Comprimento: 73cm/ Torax: 65cm/ Barra: 65cm/ Manga: 27cm.
+GG - Comprimento: 75cm/ Torax: 68cm/ Barra: 68cm/ Manga: 28cm.
+GGG - Comprimento: 77cm/ Torax: 71cm/ Barra: 71cm/ Manga: 29cm.
+Composição: 100% Viscose .
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camisa. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISA CUBANA BOXY CEIA BAW &amp; DESGOSTO OFF WHITE
+Camisa de bot&atilde;o com modelagem BOXY, 100% Viscose de alta qualidade. Lapela ampla e estampa digital exclusiva da collab BAW + DESGOSTO.
+PP - Comprimento: 67cm/ Torax: 56cm/ Barra: 56cm/ Manga: 24cm.
+P - Comprimento: 69cm/ Torax: 59cm/ Barra: 59cm/ Manga: 25cm.
+M - Comprimento: 71cm/ Torax: 62cm/ Barra: 62cm/ Manga: 26cm.
+G - Comprimento: 73cm/ Torax: 65cm/ Barra: 65cm/ Manga: 27cm.
+GG - Comprimento: 75cm/ Torax: 68cm/ Barra: 68cm/ Manga: 28cm.
+GGG - Comprimento: 77cm/ Torax: 71cm/ Barra: 71cm/ Manga: 29cm.
+Composi&ccedil;&atilde;o: 
+100% Viscose
+.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente a Camisa. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Pe&ccedil;a da BAW Clothing criada e produzida no Brasil.

@@ -1,0 +1,40 @@
+url: https://www.bawclothing.com.br/produto/long-shorts-elliptical-153340
+lido_em: 2026-11-18T13:10:51-03:00
+html_origem: ficha-long-shorts-elliptical.html (sha256 ff21fea3e72f14277dfacb9ac85fa8c6c7fd8521c17d55a91f29b2d4ff873afc)
+nome: LONG SHORTS ELLIPTICAL
+sku: 02.21.0159048P
+trilha: Página inicial > Roupas > Shorts > LONG SHORTS ELLIPTICAL
+preco: R$ 139,00
+preco_de: R$ 299,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+LONG SHORTS ELLIPTICAL VERDE
+Shorts confeccionado de modelagem reta, possui bolsos frontais, cós com elástico embutido e cordão para ajuste.
+PP - Comprimento lateral: 52m/ Cintura: 72cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 40cm/ Quadril: 110cm.
+P - Comprimento lateral: 54cm/ Cintura: 76cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 41cm/ Quadril: 114cm.
+M - Comprimento lateral: 56cm/ Cintura: 80cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 42cm/ Quadril: 118cm.
+G - Comprimento lateral: 58cm/ Cintura: 84cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 43cm/ Quadril: 122cm.
+GG - Comprimento lateral: 60cm/ Cintura: 88cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 44cm/ Quadril: 126cm.
+GGG - Comprimento lateral: 62cm/ Cintura: 92cm/ Gancho dianteiro: 37cm/ Gancho traseiro: 45cm/ Quadril: 130cm.
+Composição: 50% Algodão e 50% Poliéster.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Shorts. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+LONG SHORTS ELLIPTICAL VERDE
+Shorts confeccionado de modelagem reta, possui bolsos frontais, c&oacute;s com el&aacute;stico embutido e cord&atilde;o para ajuste.
+PP - Comprimento lateral: 52m/ Cintura: 72cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 40cm/ Quadril: 110cm.
+P - Comprimento lateral: 54cm/ Cintura: 76cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 41cm/ Quadril: 114cm.
+M - Comprimento lateral: 56cm/ Cintura: 80cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 42cm/ Quadril: 118cm.
+G - Comprimento lateral: 58cm/ Cintura: 84cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 43cm/ Quadril: 122cm.
+GG - Comprimento lateral: 60cm/ Cintura: 88cm/ Gancho dianteiro: 36cm/ Gancho traseiro: 44cm/ Quadril: 126cm.
+GGG - Comprimento lateral: 62cm/ Cintura: 92cm/ Gancho dianteiro: 37cm/ Gancho traseiro: 45cm/ Quadril: 130cm.
+Composi&ccedil;&atilde;o: 50% Algod&atilde;o e 50% Poli&eacute;ster.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente ao Shorts. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

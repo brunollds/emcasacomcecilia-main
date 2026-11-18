@@ -1,0 +1,149 @@
+{
+ "arquivo_origem": "disney-p1.html",
+ "sha256_origem": "1725b10bdf9b847df7b190afd4a63c7769ad747b202db15dd60f5abef67d1ec7",
+ "titulo": null,
+ "title_pagina": "Coleção Disney: peças de personagens favoritos | Baw",
+ "contagem_pagina": 6,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/disney",
+  "numberOfItems": "6",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-mania-baw-x-disney-150935/341136.jpg?w=556&h=833&v=202509221246",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-mania-baw-x-disney-150935",
+    "name": "CAMISETA OVERSIZED MANIA BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-see-ya-baw-x-disney-150519/338847.jpg?w=556&h=833&v=202509162325",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-see-ya-baw-x-disney-150519",
+    "name": "CAMISETA REGULAR SEE YA BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-dad-hat-line-baw-x-disney-150633/339386-1.jpg?w=556&h=833&v=202609291101",
+    "url": "https://www.bawclothing.com.br/bone-dad-hat-line-baw-x-disney-150633",
+    "name": "BONE DAD HAT LINE BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-fun-baw-x-disney-150551/339006.jpg?w=556&h=833&v=202509170107",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-fun-baw-x-disney-150551",
+    "name": "CAMISETA REGULAR FUN BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-basic-baw-x-disney-150525/338890.jpg?w=556&h=833&v=202509170107",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-basic-baw-x-disney-150525",
+    "name": "CAMISETA REGULAR BASIC BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-x-disney-150508/338802.jpg?w=556&h=833&v=202509170211",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-x-disney-150508",
+    "name": "CAMISETA REGULAR BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "150935",
+   "href": "/camiseta-oversized-mania-baw-x-disney-150935",
+   "nome": "CAMISETA OVERSIZED MANIA BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150519",
+   "href": "/camiseta-regular-see-ya-baw-x-disney-150519",
+   "nome": "CAMISETA REGULAR SEE YA BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 209,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150633",
+   "href": "/bone-dad-hat-line-baw-x-disney-150633",
+   "nome": "BONE DAD HAT LINE BAW X DISNEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Rosa Blush",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150551",
+   "href": "/camiseta-regular-fun-baw-x-disney-150551",
+   "nome": "CAMISETA REGULAR FUN BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "24%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150525",
+   "href": "/camiseta-regular-basic-baw-x-disney-150525",
+   "nome": "CAMISETA REGULAR BASIC BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "24%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150508",
+   "href": "/camiseta-regular-baw-x-disney-150508",
+   "nome": "CAMISETA REGULAR BAW X DISNEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

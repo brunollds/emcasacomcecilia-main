@@ -1,0 +1,875 @@
+{
+ "arquivo_origem": "bones-p1.html",
+ "sha256_origem": "61198eb3bb189e313f87756db46f1fb66137e1951f857a223bf009bc1203e308",
+ "titulo": "Bonés",
+ "title_pagina": "Bonés: Five Panel, Dad Hat e muito mais | Baw Clothing",
+ "contagem_pagina": 39,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/acessorios/bones",
+  "numberOfItems": "39",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-baw-signature-154162/365819-1.jpg?w=556&h=833&v=202610281240",
+    "url": "https://www.bawclothing.com.br/bone-trucker-baw-signature-154162",
+    "name": "BONÉ TRUCKER BAW SIGNATURE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-chillibaw-153991/364802-9.jpg?w=556&h=833&v=202610081227",
+    "url": "https://www.bawclothing.com.br/bone-trucker-chillibaw-153991",
+    "name": "BONÉ TRUCKER CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-tribe-chillibaw-153989/364801-1.jpg?w=556&h=833&v=202610071053",
+    "url": "https://www.bawclothing.com.br/bone-trucker-tribe-chillibaw-153989",
+    "name": "BONÉ TRUCKER TRIBE CHILLIBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-five-panel-marley-futbol-153925/364499-1.jpg?w=556&h=833&v=202609141147",
+    "url": "https://www.bawclothing.com.br/bone-five-panel-marley-futbol-153925",
+    "name": "BONE FIVE PANEL MARLEY FUTBOL",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-bob-marley-one-love-footbaw-club-153920/364478-1.jpg?w=556&h=833&v=202609141144",
+    "url": "https://www.bawclothing.com.br/bone-bob-marley-one-love-footbaw-club-153920",
+    "name": "BONE BOB MARLEY ONE LOVE FOOTBAW CLUB",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-bob-marley-jammin-baw-153919/364477-1.jpg?w=556&h=833&v=202609101406",
+    "url": "https://www.bawclothing.com.br/bone-bob-marley-jammin-baw-153919",
+    "name": "BONE BOB MARLEY JAMMIN BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-five-panel-bob-marley-one-love-153918/364476-1.jpg?w=556&h=833&v=202609141143",
+    "url": "https://www.bawclothing.com.br/bone-five-panel-bob-marley-one-love-153918",
+    "name": "BONE FIVE PANEL BOB MARLEY ONE LOVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-golfing-footbaw-153729/363334-1.jpg?w=556&h=833&v=202606111141",
+    "url": "https://www.bawclothing.com.br/bone-golfing-footbaw-153729",
+    "name": "BONÉ GOLFING FOOTBAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-golfing-footbaw-retro-153728/363333-1.jpg?w=556&h=833&v=202606111141",
+    "url": "https://www.bawclothing.com.br/bone-golfing-footbaw-retro-153728",
+    "name": "BONÉ GOLFING FOOTBAW RETRO",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-golfing-footbaw-nations-153727/363332-1.jpg?w=556&h=833&v=202606111141",
+    "url": "https://www.bawclothing.com.br/bone-golfing-footbaw-nations-153727",
+    "name": "BONÉ GOLFING FOOTBAW NATIONS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-golfing-footbaw-trick-153726/363331-1.jpg?w=556&h=833&v=202606111141",
+    "url": "https://www.bawclothing.com.br/bone-golfing-footbaw-trick-153726",
+    "name": "BONÉ GOLFING FOOTBAW TRICK",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-running-153696/363155-1.jpg?w=556&h=833&v=202605121252",
+    "url": "https://www.bawclothing.com.br/bone-running-153696",
+    "name": "BONÉ RUNNING",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-running-153692/363152-1.jpg?w=556&h=833&v=202605121252",
+    "url": "https://www.bawclothing.com.br/bone-running-153692",
+    "name": "BONÉ RUNNING",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-running-153693/363151-1.jpg?w=556&h=833&v=202605121252",
+    "url": "https://www.bawclothing.com.br/bone-running-153693",
+    "name": "BONÉ RUNNING",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-running-153691/363150-1.jpg?w=556&h=833&v=202605121252",
+    "url": "https://www.bawclothing.com.br/bone-running-153691",
+    "name": "BONÉ RUNNING",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-wind-painel-bawer-151813/362975-1.jpg?w=556&h=833&v=202608241705",
+    "url": "https://www.bawclothing.com.br/bone-wind-painel-bawer-151813",
+    "name": "BONÉ WIND PAINEL BAW&R",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-baw-signature-153653/362651-1.jpg?w=556&h=833&v=202607031704",
+    "url": "https://www.bawclothing.com.br/bone-trucker-baw-signature-153653",
+    "name": "BONÉ TRUCKER BAW SIGNATURE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-baw-signature-153652/362650-1.jpg?w=556&h=833&v=202607031640",
+    "url": "https://www.bawclothing.com.br/bone-trucker-baw-signature-153652",
+    "name": "BONÉ TRUCKER BAW SIGNATURE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fitted-baw-field-153641/362638-1.jpg?w=556&h=833&v=202607011558",
+    "url": "https://www.bawclothing.com.br/bone-fitted-baw-field-153641",
+    "name": "BONÉ FITTED BAW FIELD",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fitted-mesh-baw-153633/362598.jpg?w=556&h=833&v=202603171215",
+    "url": "https://www.bawclothing.com.br/bone-fitted-mesh-baw-153633",
+    "name": "BONÉ FITTED MESH BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-desconstruct-baw-harlem-153630/362575.jpg?w=556&h=833&v=202603171216",
+    "url": "https://www.bawclothing.com.br/bone-desconstruct-baw-harlem-153630",
+    "name": "BONÉ DESCONSTRUCT BAW HARLEM",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fitted-new-baw-all-stars-153623/362558.jpg?w=556&h=833&v=202603161002",
+    "url": "https://www.bawclothing.com.br/bone-fitted-new-baw-all-stars-153623",
+    "name": "BONÉ FITTED NEW BAW ALL STARS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-baw-all-stars-153621/362556-1.jpg?w=556&h=833&v=202608241708",
+    "url": "https://www.bawclothing.com.br/bone-trucker-baw-all-stars-153621",
+    "name": "BONÉ TRUCKER BAW ALL STARS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fitted-baw-respect-153588/362412-1.jpg?w=556&h=833&v=202607011723",
+    "url": "https://www.bawclothing.com.br/bone-fitted-baw-respect-153588",
+    "name": "BONÉ FITTED BAW RESPECT",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fitted-baw-staff-151895/362410-1.jpg?w=556&h=833&v=202608241713",
+    "url": "https://www.bawclothing.com.br/bone-fitted-baw-staff-151895",
+    "name": "BONÉ FITTED BAW STAFF",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-dad-hat-baw-wire-151799/362216.jpg?w=556&h=833&v=202604011459",
+    "url": "https://www.bawclothing.com.br/bone-dad-hat-baw-wire-151799",
+    "name": "BONÉ DAD HAT BAW WIRE",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/desconstruct-hat-hp-x-baw-153575/362198-1.jpg?w=556&h=833&v=202607231807",
+    "url": "https://www.bawclothing.com.br/desconstruct-hat-hp-x-baw-153575",
+    "name": "DESCONSTRUCT HAT HP X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-dad-hat-college-hp-x-baw-153567/362161-1.jpg?w=556&h=833&v=202607231819",
+    "url": "https://www.bawclothing.com.br/bone-dad-hat-college-hp-x-baw-153567",
+    "name": "BONE DAD HAT COLLEGE HP X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-dad-hat-college-hp-x-baw-153566/362160-1.jpg?w=556&h=833&v=202607231819",
+    "url": "https://www.bawclothing.com.br/bone-dad-hat-college-hp-x-baw-153566",
+    "name": "BONE DAD HAT COLLEGE HP X BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-desconstruct-baw-subscript-151815/361997.jpg?w=556&h=833&v=202601261018",
+    "url": "https://www.bawclothing.com.br/bone-desconstruct-baw-subscript-151815",
+    "name": "BONÉ DESCONSTRUCT BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fechado-loop-baw-x-hello-kitty-153542/361940-1.jpg?w=556&h=833&v=202608031159",
+    "url": "https://www.bawclothing.com.br/bone-fechado-loop-baw-x-hello-kitty-153542",
+    "name": "BONÉ FECHADO LOOP BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fechado-patch-baw-x-hello-kitty-153536/361884-1.jpg?w=556&h=833&v=202608031202",
+    "url": "https://www.bawclothing.com.br/bone-fechado-patch-baw-x-hello-kitty-153536",
+    "name": "BONÉ FECHADO PATCH BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/viseira-baw-x-hello-kitty-153529/361873-1.jpg?w=556&h=833&v=202607301630",
+    "url": "https://www.bawclothing.com.br/viseira-baw-x-hello-kitty-153529",
+    "name": "VISEIRA BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-golfing-focused-153245/360137.jpg?w=556&h=833&v=202601211609",
+    "url": "https://www.bawclothing.com.br/bone-golfing-focused-153245",
+    "name": "BONÉ GOLFING FOCUSED",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-golfing-baw-crew-153243/360135-1.jpg?w=556&h=833&v=202607011743",
+    "url": "https://www.bawclothing.com.br/bone-golfing-baw-crew-153243",
+    "name": "BONÉ GOLFING BAW CREW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-baw-x-smiley-151974/350968-1.jpg?w=556&h=833&v=202605121616",
+    "url": "https://www.bawclothing.com.br/bone-trucker-baw-x-smiley-151974",
+    "name": "BONÉ TRUCKER BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-dad-hat-baw-snapback-smiley-151897/350539-1.jpg?w=556&h=833&v=202606021429",
+    "url": "https://www.bawclothing.com.br/bone-dad-hat-baw-snapback-smiley-151897",
+    "name": "BONÉ DAD HAT BAW SNAPBACK SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-dad-hat-line-baw-x-disney-150633/339386-1.jpg?w=556&h=833&v=202609291101",
+    "url": "https://www.bawclothing.com.br/bone-dad-hat-line-baw-x-disney-150633",
+    "name": "BONE DAD HAT LINE BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fitted-bawent-circuit-154260/366459-1.jpg?w=556&h=833&v=202611161538",
+    "url": "https://www.bawclothing.com.br/bone-fitted-bawent-circuit-154260",
+    "name": "BONÉ FITTED BAWENT CIRCUIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "154162",
+   "href": "/bone-trucker-baw-signature-154162",
+   "nome": "BONÉ TRUCKER BAW SIGNATURE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco/Laranja",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153991",
+   "href": "/bone-trucker-chillibaw-153991",
+   "nome": "BONÉ TRUCKER CHILLIBAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Branco E Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153989",
+   "href": "/bone-trucker-tribe-chillibaw-153989",
+   "nome": "BONÉ TRUCKER TRIBE CHILLIBAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "41%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153925",
+   "href": "/bone-five-panel-marley-futbol-153925",
+   "nome": "BONE FIVE PANEL MARLEY FUTBOL",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153920",
+   "href": "/bone-bob-marley-one-love-footbaw-club-153920",
+   "nome": "BONE BOB MARLEY ONE LOVE FOOTBAW CLUB",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153919",
+   "href": "/bone-bob-marley-jammin-baw-153919",
+   "nome": "BONE BOB MARLEY JAMMIN BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153918",
+   "href": "/bone-five-panel-bob-marley-one-love-153918",
+   "nome": "BONE FIVE PANEL BOB MARLEY ONE LOVE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153729",
+   "href": "/bone-golfing-footbaw-153729",
+   "nome": "BONÉ GOLFING FOOTBAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Azul/Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153728",
+   "href": "/bone-golfing-footbaw-retro-153728",
+   "nome": "BONÉ GOLFING FOOTBAW RETRO",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153727",
+   "href": "/bone-golfing-footbaw-nations-153727",
+   "nome": "BONÉ GOLFING FOOTBAW NATIONS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153726",
+   "href": "/bone-golfing-footbaw-trick-153726",
+   "nome": "BONÉ GOLFING FOOTBAW TRICK",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 189,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Branco/Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153696",
+   "href": "/bone-running-153696",
+   "nome": "BONÉ RUNNING",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153692",
+   "href": "/bone-running-153692",
+   "nome": "BONÉ RUNNING",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Azul/Amarelo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153693",
+   "href": "/bone-running-153693",
+   "nome": "BONÉ RUNNING",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Verde Militar",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153691",
+   "href": "/bone-running-153691",
+   "nome": "BONÉ RUNNING",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151813",
+   "href": "/bone-wind-painel-bawer-151813",
+   "nome": "BONÉ WIND PAINEL BAW&R",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153653",
+   "href": "/bone-trucker-baw-signature-153653",
+   "nome": "BONÉ TRUCKER BAW SIGNATURE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco E Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153652",
+   "href": "/bone-trucker-baw-signature-153652",
+   "nome": "BONÉ TRUCKER BAW SIGNATURE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Azul/Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153641",
+   "href": "/bone-fitted-baw-field-153641",
+   "nome": "BONÉ FITTED BAW FIELD",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153633",
+   "href": "/bone-fitted-mesh-baw-153633",
+   "nome": "BONÉ FITTED MESH BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto/Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153630",
+   "href": "/bone-desconstruct-baw-harlem-153630",
+   "nome": "BONÉ DESCONSTRUCT BAW HARLEM",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153623",
+   "href": "/bone-fitted-new-baw-all-stars-153623",
+   "nome": "BONÉ FITTED NEW BAW ALL STARS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153621",
+   "href": "/bone-trucker-baw-all-stars-153621",
+   "nome": "BONÉ TRUCKER BAW ALL STARS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153588",
+   "href": "/bone-fitted-baw-respect-153588",
+   "nome": "BONÉ FITTED BAW RESPECT",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "9%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151895",
+   "href": "/bone-fitted-baw-staff-151895",
+   "nome": "BONÉ FITTED BAW STAFF",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "9%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151799",
+   "href": "/bone-dad-hat-baw-wire-151799",
+   "nome": "BONÉ DAD HAT BAW WIRE",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153575",
+   "href": "/desconstruct-hat-hp-x-baw-153575",
+   "nome": "DESCONSTRUCT HAT HP X BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153567",
+   "href": "/bone-dad-hat-college-hp-x-baw-153567",
+   "nome": "BONE DAD HAT COLLEGE HP X BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Bordo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153566",
+   "href": "/bone-dad-hat-college-hp-x-baw-153566",
+   "nome": "BONE DAD HAT COLLEGE HP X BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151815",
+   "href": "/bone-desconstruct-baw-subscript-151815",
+   "nome": "BONÉ DESCONSTRUCT BAW SUBSCRIPT",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153542",
+   "href": "/bone-fechado-loop-baw-x-hello-kitty-153542",
+   "nome": "BONÉ FECHADO LOOP BAW X HELLO KITTY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153536",
+   "href": "/bone-fechado-patch-baw-x-hello-kitty-153536",
+   "nome": "BONÉ FECHADO PATCH BAW X HELLO KITTY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153529",
+   "href": "/viseira-baw-x-hello-kitty-153529",
+   "nome": "VISEIRA BAW X HELLO KITTY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153245",
+   "href": "/bone-golfing-focused-153245",
+   "nome": "BONÉ GOLFING FOCUSED",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Laranja",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153243",
+   "href": "/bone-golfing-baw-crew-153243",
+   "nome": "BONÉ GOLFING BAW CREW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Amarelo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151974",
+   "href": "/bone-trucker-baw-x-smiley-151974",
+   "nome": "BONÉ TRUCKER BAW X SMILEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151897",
+   "href": "/bone-dad-hat-baw-snapback-smiley-151897",
+   "nome": "BONÉ DAD HAT BAW SNAPBACK SMILEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150633",
+   "href": "/bone-dad-hat-line-baw-x-disney-150633",
+   "nome": "BONE DAD HAT LINE BAW X DISNEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Rosa Blush",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154260",
+   "href": "/bone-fitted-bawent-circuit-154260",
+   "nome": "BONÉ FITTED BAWENT CIRCUIT",
+   "preco": "R$ 199,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

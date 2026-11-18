@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236
+lido_em: 2026-11-18T13:12:41-03:00
+html_origem: ficha-tenis-baw-thunder.html (sha256 2b966bc4daadaa71813bcfaf5d39f342b1a733216b84ba6853ddde385ddd4b9f)
+nome: TENIS BAW THUNDER
+sku: 5.05.186401439
+trilha: Página inicial > Calçados > Tênis > TENIS BAW THUNDER
+preco: R$ 169,00
+preco_de: R$ 399,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+TENIS BAW THUNDER
+TENIS BAW THUNDER

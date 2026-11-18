@@ -1,0 +1,501 @@
+{
+ "arquivo_origem": "combo-moletom-p1.html",
+ "sha256_origem": "c03b520f1bd4c59425fcc3af9372b731af3d87a71fb5aadc3a335983504fb94b",
+ "titulo": null,
+ "title_pagina": "Combo Moletom",
+ "contagem_pagina": 22,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/combo-moletom",
+  "numberOfItems": "22",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153974/364772-1.jpg?w=556&h=833&v=202609291730",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153974",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153972/364762-1.jpg?w=556&h=833&v=202609291733",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153972",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153971/364753-1.jpg?w=556&h=833&v=202609291721",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153971",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153969/364721-1.jpg?w=556&h=833&v=202609291728",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153969",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153966/364720-1.jpg?w=556&h=833&v=202609291716",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153966",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-color-baw-metal-plate-153877/364217-1.jpg?w=556&h=833&v=202608031538",
+    "url": "https://www.bawclothing.com.br/moletom-color-baw-metal-plate-153877",
+    "name": "MOLETOM COLOR BAW METAL PLATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-color-baw-metal-plate-153876/364216-1.jpg?w=556&h=833&v=202608031538",
+    "url": "https://www.bawclothing.com.br/moletom-color-baw-metal-plate-153876",
+    "name": "MOLETOM COLOR BAW METAL PLATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-color-baw-metal-plate-153875/364207-1.jpg?w=556&h=833&v=202608031537",
+    "url": "https://www.bawclothing.com.br/moletom-color-baw-metal-plate-153875",
+    "name": "MOLETOM COLOR BAW METAL PLATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153862/364142-1.jpg?w=556&h=833&v=202611111106",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153862",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153861/364141-1.jpg?w=556&h=833&v=202611111105",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153861",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-basic-label-153708/363214-1.jpg?w=556&h=833&v=202605121604",
+    "url": "https://www.bawclothing.com.br/moletom-basic-label-153708",
+    "name": "MOLETOM BASIC LABEL",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153701/363210-1.jpg?w=556&h=833&v=202605121604",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153701",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153698/363194-1.jpg?w=556&h=833&v=202610271510",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153698",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-basic-label-153706/363165-1.jpg?w=556&h=833&v=202605121602",
+    "url": "https://www.bawclothing.com.br/moletom-basic-label-153706",
+    "name": "MOLETOM BASIC LABEL",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-basic-label-153705/363164-1.jpg?w=556&h=833&v=202605121602",
+    "url": "https://www.bawclothing.com.br/moletom-basic-label-153705",
+    "name": "MOLETOM BASIC LABEL",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153704/363163-1.jpg?w=556&h=833&v=202609231659",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153704",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-baw-r-colors-153699/363158-1.jpg?w=556&h=833&v=202611131246",
+    "url": "https://www.bawclothing.com.br/moletom-baw-r-colors-153699",
+    "name": "MOLETOM BAW R COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-tag-151950/362993-1.jpg?w=556&h=833&v=202608031558",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-tag-151950",
+    "name": "MOLETOM HOODIE BAW TAG",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-subscript-151918/362739-1.jpg?w=556&h=833&v=202603271705",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151918",
+    "name": "MOLETOM HOODIE BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-cropped-selfie-logo-153503/361754-1.jpg?w=556&h=833&v=202603301441",
+    "url": "https://www.bawclothing.com.br/sweatshirt-cropped-selfie-logo-153503",
+    "name": "SWEATSHIRT CROPPED SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-zip-patch-logo-153488/361620-1.jpg?w=556&h=833&v=202608031627",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-zip-patch-logo-153488",
+    "name": "MOLETOM HOODIE ZIP PATCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-faded-smiley-151797/349919-1.jpg?w=556&h=833&v=202611161459",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-faded-smiley-151797",
+    "name": "MOLETOM HOODIE BAW FADED SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153974",
+   "href": "/moletom-baw-r-colors-153974",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Rosa Chiclete",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153972",
+   "href": "/moletom-baw-r-colors-153972",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Azul Medio",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153971",
+   "href": "/moletom-baw-r-colors-153971",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Cinza Mescla Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153969",
+   "href": "/moletom-baw-r-colors-153969",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153966",
+   "href": "/moletom-baw-r-colors-153966",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Amarelo Lima",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153877",
+   "href": "/moletom-color-baw-metal-plate-153877",
+   "nome": "MOLETOM COLOR BAW METAL PLATE",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Rosa Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153876",
+   "href": "/moletom-color-baw-metal-plate-153876",
+   "nome": "MOLETOM COLOR BAW METAL PLATE",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153875",
+   "href": "/moletom-color-baw-metal-plate-153875",
+   "nome": "MOLETOM COLOR BAW METAL PLATE",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153862",
+   "href": "/moletom-baw-r-colors-153862",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153861",
+   "href": "/moletom-baw-r-colors-153861",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153708",
+   "href": "/moletom-basic-label-153708",
+   "nome": "MOLETOM BASIC LABEL",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153701",
+   "href": "/moletom-baw-r-colors-153701",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Ocre",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153698",
+   "href": "/moletom-baw-r-colors-153698",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Vinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153706",
+   "href": "/moletom-basic-label-153706",
+   "nome": "MOLETOM BASIC LABEL",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153705",
+   "href": "/moletom-basic-label-153705",
+   "nome": "MOLETOM BASIC LABEL",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Ocre",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153704",
+   "href": "/moletom-baw-r-colors-153704",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Azul Escuro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153699",
+   "href": "/moletom-baw-r-colors-153699",
+   "nome": "MOLETOM BAW R COLORS",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151950",
+   "href": "/moletom-hoodie-baw-tag-151950",
+   "nome": "MOLETOM HOODIE BAW TAG",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151918",
+   "href": "/moletom-hoodie-baw-subscript-151918",
+   "nome": "MOLETOM HOODIE BAW SUBSCRIPT",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "49%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153503",
+   "href": "/sweatshirt-cropped-selfie-logo-153503",
+   "nome": "SWEATSHIRT CROPPED SELFIE LOGO",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153488",
+   "href": "/moletom-hoodie-zip-patch-logo-153488",
+   "nome": "MOLETOM HOODIE ZIP PATCH LOGO",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 449,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151797",
+   "href": "/moletom-hoodie-baw-faded-smiley-151797",
+   "nome": "MOLETOM HOODIE BAW FADED SMILEY",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 449,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+url: https://www.bawclothing.com.br/produto/calca-4-pockets-baw-x-smiley-150686
+lido_em: 2026-11-18T13:09:22-03:00
+html_origem: ficha-calca-4-pockets-baw-x-smiley.html (sha256 eb05be3a0edfb844e8da713e04863b930cd7f19e6a50114c21c34d0e2f4a68bc)
+nome: CALCA 4 POCKETS BAW X SMILEY
+sku: 0099151040P
+trilha: Página inicial > Roupas > Calças > CALCA 4 POCKETS BAW X SMILEY
+preco: R$ 239,00
+preco_de: R$ 499,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CALCA 4 POCKETS BAW X SMILEY PRETO
+Desenvolvida na colaboração exclusiva entre a BAW Clothing e a Smiley®, a Calça 4 Pockets BAW x Smiley une a funcionalidade utilitária ao caimento amplo e urbano da cena streetwear . Confeccionada em sarja/tecido encorpado de algodão na cor preta, a peça destaca-se pelo design tático com quatro bolsos utilitários frontais e laterais com lapela e fechamento por botão de pressão contrastante. Conta ainda com um detalhe gráfico exclusivo da Smiley® em tom amarelo/verde neon aplicado discretamente na lateral de um dos bolsos. Possui cós elástico confortável com cordão de ajuste no tom da peça, pernas de corte reto e amplo com excelente caimento sobre o tênis.
+Tabela de Medidas:
+PP - Comprimento: 105cm/ Cintura: 76cm/ Quadril: 99cm/ Gancho Dianteiro: 30cm/ Gancho Traseiro: 42cm.
+P - Comprimento: 106cm/ Cintura: 78cm/ Quadril: 103cm/ Gancho Dianteiro: 31cm/ Gancho Traseiro: 43cm.
+M - Comprimento: 107cm/ Cintura: 80cm/ Quadril: 107cm/ Gancho Dianteiro: 32cm/ Gancho Traseiro: 44cm.
+G - Comprimento: 108cm/ Cintura: 82cm/ Quadril: 111cm/ Gancho Dianteiro: 33cm/ Gancho Traseiro: 45cm.
+GG - Comprimento: 109cm/ Cintura: 84cm/ Quadril: 115cm/ Gancho Dianteiro: 34cm/ Gancho Traseiro: 46cm.
+GGG - Comprimento: 110cm/ Cintura: 86cm/ Quadril: 119cm/ Gancho Dianteiro: 35cm/ Gancho Traseiro: 47cm.
+Composição: 50% Algodão e 50% Poliéster .
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a calça. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+CALCA 4 POCKETS BAW X SMILEY PRETO
+Desenvolvida na colaboração exclusiva entre a BAW Clothing e a Smiley®, a 
+Calça 4 Pockets BAW x Smiley
+ une a funcionalidade utilitária ao caimento amplo e urbano da cena 
+streetwear
+. Confeccionada em sarja/tecido encorpado de algodão na cor preta, a peça destaca-se pelo design tático com quatro bolsos utilitários frontais e laterais com lapela e fechamento por botão de pressão contrastante. Conta ainda com um detalhe gráfico exclusivo da Smiley® em tom amarelo/verde neon aplicado discretamente na lateral de um dos bolsos. Possui cós elástico confortável com cordão de ajuste no tom da peça, pernas de corte reto e amplo com excelente caimento sobre o tênis.
+Tabela de Medidas:
+PP - Comprimento: 105cm/ Cintura: 76cm/ Quadril: 99cm/ Gancho Dianteiro: 30cm/ Gancho Traseiro: 42cm.
+P - Comprimento: 106cm/ Cintura: 78cm/ Quadril: 103cm/ Gancho Dianteiro: 31cm/ Gancho Traseiro: 43cm.
+M - Comprimento: 107cm/ Cintura: 80cm/ Quadril: 107cm/ Gancho Dianteiro: 32cm/ Gancho Traseiro: 44cm.
+G - Comprimento: 108cm/ Cintura: 82cm/ Quadril: 111cm/ Gancho Dianteiro: 33cm/ Gancho Traseiro: 45cm.
+GG - Comprimento: 109cm/ Cintura: 84cm/ Quadril: 115cm/ Gancho Dianteiro: 34cm/ Gancho Traseiro: 46cm.
+GGG - Comprimento: 110cm/ Cintura: 86cm/ Quadril: 119cm/ Gancho Dianteiro: 35cm/ Gancho Traseiro: 47cm.
+Composição: 
+50% Algodão e 50% Poliéster
+.
+&nbsp;
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a calça. Os demais itens contidos na imagem, são vendidos separadamente.
+&nbsp;
+Peça da BAW Clothing criada e produzida no Brasil.

@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camiseta-oversized-kids-emanate-151063
+lido_em: 2026-11-18T13:12:17-03:00
+html_origem: ficha-camiseta-oversized-kids-emanate.html (sha256 69b2767815c609c6006fc4edcb52b1c2297f30fd20be15487c640f10fdf0ec2e)
+nome: CAMISETA OVERSIZED KIDS EMANATE
+sku: 009927304004
+trilha: Página inicial > Kids > CAMISETA OVERSIZED KIDS EMANATE
+preco: R$ 39,00
+preco_de: R$ 119,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISETA OVERSIZED KIDS EMANATE
+CAMISETA OVERSIZED KIDS EMANATE

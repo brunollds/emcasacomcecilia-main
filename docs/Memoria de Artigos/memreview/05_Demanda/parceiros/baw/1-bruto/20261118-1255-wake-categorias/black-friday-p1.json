@@ -1,0 +1,2217 @@
+{
+ "arquivo_origem": "black-friday-p1.html",
+ "sha256_origem": "85b6039d2f5cb1268fbef867bf1d92f8f51f9b03d8325e761e6505c2079ffafe",
+ "titulo": "Black Friday",
+ "title_pagina": "Black Friday Baw Clothing: promo de roupas streetwear!",
+ "contagem_pagina": 349,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday",
+  "numberOfItems": "349",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calcinha-152168/352585-1.jpg?w=556&h=833&v=202602261536",
+    "url": "https://www.bawclothing.com.br/calcinha-152168",
+    "name": "CALCINHA",
+    "offers": {
+     "@type": "Offer",
+     "price": "9.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/beach-shorts-basic-elipse-153554/362012-1.jpg?w=556&h=833&v=202607101156",
+    "url": "https://www.bawclothing.com.br/beach-shorts-basic-elipse-153554",
+    "name": "BEACH SHORTS BASIC ELIPSE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/explorer-cargo-pants-classics-150195/336996-1.jpg?w=556&h=833&v=202608181711",
+    "url": "https://www.bawclothing.com.br/explorer-cargo-pants-classics-150195",
+    "name": "EXPLORER CARGO PANTS CLASSICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-sherpa-retro-150291/337639-1.jpg?w=556&h=833&v=202608041114",
+    "url": "https://www.bawclothing.com.br/calca-sherpa-retro-150291",
+    "name": "CALCA SHERPA RETRO",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-sherpa-retro-150244/337346-1.jpg?w=556&h=833&v=202608041113",
+    "url": "https://www.bawclothing.com.br/calca-sherpa-retro-150244",
+    "name": "CALCA SHERPA RETRO",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-summer-cotele-150262/337412.jpg?w=556&h=833&v=202601061610",
+    "url": "https://www.bawclothing.com.br/calca-summer-cotele-150262",
+    "name": "CALCA SUMMER COTELE",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-kids-baw-another-lap-150185/336918.jpg?w=556&h=833&v=202510171702",
+    "url": "https://www.bawclothing.com.br/camiseta-kids-baw-another-lap-150185",
+    "name": "CAMISETA KIDS BAW ANOTHER LAP",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-faded-smiley-151983/351003-1.jpg?w=556&h=833&v=202608031743",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-faded-smiley-151983",
+    "name": "CAMISETA OVERSIZED BAW FADED SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-swimmer-baw-x-sls-151525/347744.jpg?w=556&h=833&v=202510201744",
+    "url": "https://www.bawclothing.com.br/top-swimmer-baw-x-sls-151525",
+    "name": "TOP SWIMMER BAW X SLS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-triangle-stripes-151504/347605.jpg?w=556&h=833&v=202603041457",
+    "url": "https://www.bawclothing.com.br/top-triangle-stripes-151504",
+    "name": "TOP TRIANGLE STRIPES",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151314/346234.jpg?w=556&h=833&v=202510100939",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151314",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151309/346233.jpg?w=556&h=833&v=202510101007",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151309",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151310/346232.jpg?w=556&h=833&v=202510101007",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151310",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151312/346224.jpg?w=556&h=833&v=202510101006",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151312",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151313/346221.jpg?w=556&h=833&v=202510101006",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151313",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151311/346211.jpg?w=556&h=833&v=202510101004",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151311",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-kids-natures-scents-151253/345233.jpg?w=556&h=833&v=202511111128",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-kids-natures-scents-151253",
+    "name": "CAMISETA OVERSIZED KIDS NATURES SCENTS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-boy-classics-150370/338062-1.jpg?w=556&h=833&v=202608191437",
+    "url": "https://www.bawclothing.com.br/shorts-boy-classics-150370",
+    "name": "SHORTS BOY CLASSICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/pool-shorts-baw-x-smiley-150189/336948.jpg?w=556&h=833&v=202509082243",
+    "url": "https://www.bawclothing.com.br/pool-shorts-baw-x-smiley-150189",
+    "name": "POOL SHORTS BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-summer-daisy-152657/356133.jpg?w=556&h=833&v=202608191501",
+    "url": "https://www.bawclothing.com.br/shorts-summer-daisy-152657",
+    "name": "SHORTS SUMMER DAISY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/blusa-sunshine-151690/349269.jpg?w=556&h=833&v=202602271759",
+    "url": "https://www.bawclothing.com.br/blusa-sunshine-151690",
+    "name": "BLUSA SUNSHINE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-swimmer-basics-151520/347680.jpg?w=556&h=833&v=202510201741",
+    "url": "https://www.bawclothing.com.br/top-swimmer-basics-151520",
+    "name": "TOP SWIMMER BASICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/pool-shorts-illusion-baw-x-smiley-150426/338445-1.jpg?w=556&h=833&v=202608191520",
+    "url": "https://www.bawclothing.com.br/pool-shorts-illusion-baw-x-smiley-150426",
+    "name": "POOL SHORTS ILLUSION BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-kids-splash-logo-152109/352011.jpg?w=556&h=833&v=202602271818",
+    "url": "https://www.bawclothing.com.br/calca-kids-splash-logo-152109",
+    "name": "CALCA KIDS SPLASH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-cracked-smiley-151955/350854-1.jpg?w=556&h=833&v=202608041208",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-cracked-smiley-151955",
+    "name": "CAMISETA OVERSIZED BAW CRACKED SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-kids-baw-heritage-151149/342253.jpg?w=556&h=833&v=202511111129",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-kids-baw-heritage-151149",
+    "name": "CAMISETA OVERSIZED KIDS BAW HERITAGE",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-kids-emanate-151063/341840.jpg?w=556&h=833&v=202511111132",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-kids-emanate-151063",
+    "name": "CAMISETA OVERSIZED KIDS EMANATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-vibes-moletom-street-academics-150408/338335-1.jpg?w=556&h=833&v=202608191458",
+    "url": "https://www.bawclothing.com.br/bermuda-vibes-moletom-street-academics-150408",
+    "name": "BERMUDA VIBES MOLETOM STREET ACADEMICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-essentials-utility-150240/337306.jpg?w=556&h=833&v=202510271036",
+    "url": "https://www.bawclothing.com.br/bermuda-essentials-utility-150240",
+    "name": "BERMUDA ESSENTIALS UTILITY",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-wire-151951/363049-1.jpg?w=556&h=833&v=202604231741",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-wire-151951",
+    "name": "CAMISETA OVERSIZED BAW WIRE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-new-over-motor-paradise-150337/337863.jpg?w=556&h=833&v=202509170043",
+    "url": "https://www.bawclothing.com.br/camiseta-new-over-motor-paradise-150337",
+    "name": "CAMISETA NEW OVER MOTOR PARADISE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-in-the-box-151840/363615-1.jpg?w=556&h=833&v=202607132131",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-in-the-box-151840",
+    "name": "CAMISETA OVERSIZED BAW IN THE BOX",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-wind-painel-bawer-151813/362975-1.jpg?w=556&h=833&v=202608241705",
+    "url": "https://www.bawclothing.com.br/bone-wind-painel-bawer-151813",
+    "name": "BONÉ WIND PAINEL BAW&R",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bolsa-crossbody-baw-script-151898/362041.jpg?w=556&h=833&v=202603171612",
+    "url": "https://www.bawclothing.com.br/bolsa-crossbody-baw-script-151898",
+    "name": "BOLSA CROSSBODY BAW SCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-over-vichy-artsy-152308/353584.jpg?w=556&h=833&v=202510241459",
+    "url": "https://www.bawclothing.com.br/camisa-over-vichy-artsy-152308",
+    "name": "CAMISA OVER VICHY ARTSY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-snapback-smiley-151938/350757-1.jpg?w=556&h=833&v=202608041451",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-snapback-smiley-151938",
+    "name": "CAMISETA OVERSIZED BAW SNAPBACK SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-cropped-gola-alta-151550/347876.jpg?w=556&h=833&v=202603041301",
+    "url": "https://www.bawclothing.com.br/top-cropped-gola-alta-151550",
+    "name": "TOP CROPPED GOLA ALTA",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-swimmer-baw-x-kenner-151517/347701.jpg?w=556&h=833&v=202510201807",
+    "url": "https://www.bawclothing.com.br/top-swimmer-baw-x-kenner-151517",
+    "name": "TOP SWIMMER BAW X KENNER",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-x-pica-pau-151228/345034.jpg?w=556&h=833&v=202509171542",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-x-pica-pau-151228",
+    "name": "CAMISETA OVERSIZED BAW X PICA PAU",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/smashed-shoulder-street-garden-151129/342150.jpg?w=556&h=833&v=202509221401",
+    "url": "https://www.bawclothing.com.br/smashed-shoulder-street-garden-151129",
+    "name": "SMASHED SHOULDER STREET GARDEN",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-dad-hat-line-baw-x-disney-150633/339386-1.jpg?w=556&h=833&v=202609291101",
+    "url": "https://www.bawclothing.com.br/bone-dad-hat-line-baw-x-disney-150633",
+    "name": "BONE DAD HAT LINE BAW X DISNEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-x-smiley-seeking-150589/339185.jpg?w=556&h=833&v=202510281720",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-x-smiley-seeking-150589",
+    "name": "CAMISETA REGULAR BAW X SMILEY SEEKING",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-cropped-thug-lightning-150543/338963.jpg?w=556&h=833&v=202509170115",
+    "url": "https://www.bawclothing.com.br/moletom-cropped-thug-lightning-150543",
+    "name": "MOLETOM CROPPED THUG LIGHTNING",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-canelado-knit-151551/347887.jpg?w=556&h=833&v=202603041244",
+    "url": "https://www.bawclothing.com.br/top-canelado-knit-151551",
+    "name": "TOP CANELADO KNIT",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-baw-regular-new-gothic-152460/354675.jpg?w=556&h=833&v=202510271052",
+    "url": "https://www.bawclothing.com.br/camiseta-baw-regular-new-gothic-152460",
+    "name": "CAMISETA BAW REGULAR NEW GOTHIC",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-dyed-house-smiley-151887/350478-1.jpg?w=556&h=833&v=202608041203",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-dyed-house-smiley-151887",
+    "name": "CAMISETA OVERSIZED BAW DYED HOUSE SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-track-jogger-bawlance-150665/339433-1.jpg?w=556&h=833&v=202608041107",
+    "url": "https://www.bawclothing.com.br/calca-track-jogger-bawlance-150665",
+    "name": "CALCA  TRACK JOGGER BAWLANCE",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-gym-long-digital-essentials-150367/338104.jpg?w=556&h=833&v=202510271435",
+    "url": "https://www.bawclothing.com.br/bermuda-gym-long-digital-essentials-150367",
+    "name": "BERMUDA GYM LONG DIGITAL ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-baw-athletic-logo-150302/337612.jpg?w=556&h=833&v=202510171531",
+    "url": "https://www.bawclothing.com.br/camiseta-baw-athletic-logo-150302",
+    "name": "CAMISETA BAW ATHLETIC LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-cargo-classics-150271/337436.jpg?w=556&h=833&v=202510241233",
+    "url": "https://www.bawclothing.com.br/bermuda-cargo-classics-150271",
+    "name": "BERMUDA CARGO CLASSICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-summer-basic-150204/337052.jpg?w=556&h=833&v=202603131135",
+    "url": "https://www.bawclothing.com.br/bermuda-summer-basic-150204",
+    "name": "BERMUDA SUMMER BASIC",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-sunshine-stripes-151542/362712-3.jpg?w=556&h=833&v=202603191720",
+    "url": "https://www.bawclothing.com.br/top-sunshine-stripes-151542",
+    "name": "TOP SUNSHINE STRIPES",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-swim-baw-152656/356119.jpg?w=556&h=833&v=202510281211",
+    "url": "https://www.bawclothing.com.br/shorts-swim-baw-152656",
+    "name": "SHORTS SWIM BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-sunshine-stripes-151544/347874.jpg?w=556&h=833&v=202602271641",
+    "url": "https://www.bawclothing.com.br/top-sunshine-stripes-151544",
+    "name": "TOP SUNSHINE STRIPES",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-sunshine-stripes-151543/347855.jpg?w=556&h=833&v=202602271717",
+    "url": "https://www.bawclothing.com.br/top-sunshine-stripes-151543",
+    "name": "TOP SUNSHINE STRIPES",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-new-essential-digital-150369/338100.jpg?w=556&h=833&v=202510281100",
+    "url": "https://www.bawclothing.com.br/bermuda-new-essential-digital-150369",
+    "name": "BERMUDA NEW ESSENTIAL DIGITAL",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-over-cruising-streets-153106/359296.jpg?w=556&h=833&v=202511271201",
+    "url": "https://www.bawclothing.com.br/regata-over-cruising-streets-153106",
+    "name": "REGATA OVER CRUISING STREETS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-long-baw-pantheros-151892/350506-1.jpg?w=556&h=833&v=202608191449",
+    "url": "https://www.bawclothing.com.br/bermuda-long-baw-pantheros-151892",
+    "name": "BERMUDA LONG BAW PANTHEROS",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-x-smiley-151867/350324-1.jpg?w=556&h=833&v=202608041246",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-x-smiley-151867",
+    "name": "CAMISETA OVERSIZED BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-mesh-court-academics-150428/338413.jpg?w=556&h=833&v=202510271810",
+    "url": "https://www.bawclothing.com.br/bermuda-mesh-court-academics-150428",
+    "name": "BERMUDA MESH COURT ACADEMICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calcinha-tanga-string-baw-150342/337940.jpg?w=556&h=833&v=202511271844",
+    "url": "https://www.bawclothing.com.br/calcinha-tanga-string-baw-150342",
+    "name": "CALCINHA TANGA STRING BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-boxy-baw-y2k-151851/363042-1.jpg?w=556&h=833&v=202604231721",
+    "url": "https://www.bawclothing.com.br/camiseta-boxy-baw-y2k-151851",
+    "name": "CAMISETA BOXY BAW Y2K",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-mushroom-inspector-151819/363024-1.jpg?w=556&h=833&v=202604231700",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-mushroom-inspector-151819",
+    "name": "CAMISETA OVERSIZED MUSHROOM INSPECTOR",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-baggy-150308/362939-1.jpg?w=556&h=833&v=202604221340",
+    "url": "https://www.bawclothing.com.br/calca-baggy-150308",
+    "name": "CALCA BAGGY",
+    "offers": {
+     "@type": "Offer",
+     "price": "175.96",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-oversized-baw-in-the-box-151984/362815-1.jpg?w=556&h=833&v=202608031733",
+    "url": "https://www.bawclothing.com.br/moletom-oversized-baw-in-the-box-151984",
+    "name": "MOLETOM OVERSIZED BAW IN THE BOX",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-crew-noise-makers-151919/362814-1.jpg?w=556&h=833&v=202603271741",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-crew-noise-makers-151919",
+    "name": "CAMISETA OVERSIZED BAW CREW NOISE MAKERS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-thermo-152900/357919.jpg?w=556&h=833&v=202511131426",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-thermo-152900",
+    "name": "CAMISETA OVERSIZED THERMO",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-247-152901/357905.jpg?w=556&h=833&v=202512051544",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-247-152901",
+    "name": "CAMISETA OVERSIZED 247",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-trucker-baw-x-smiley-151974/350968-1.jpg?w=556&h=833&v=202605121616",
+    "url": "https://www.bawclothing.com.br/bone-trucker-baw-x-smiley-151974",
+    "name": "BONÉ TRUCKER BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-baw-cracked-smiley-151954/350846-1.jpg?w=556&h=833&v=202608041208",
+    "url": "https://www.bawclothing.com.br/sweatshirt-baw-cracked-smiley-151954",
+    "name": "SWEATSHIRT BAW CRACKED SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-faded-smiley-151797/349919-1.jpg?w=556&h=833&v=202611161459",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-faded-smiley-151797",
+    "name": "MOLETOM HOODIE BAW FADED SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "179.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-baw-x-mitchell-e-ness-x-nfl-raiders-151012/341589.jpg?w=556&h=833&v=202509170034",
+    "url": "https://www.bawclothing.com.br/camisa-baw-x-mitchell-e-ness-x-nfl-raiders-151012",
+    "name": "CAMISA BAW X MITCHELL E NESS X NFL RAIDERS",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-baw-x-mitchell-e-ness-x-nfl-kc-151011/341588.jpg?w=556&h=833&v=202509162322",
+    "url": "https://www.bawclothing.com.br/camisa-baw-x-mitchell-e-ness-x-nfl-kc-151011",
+    "name": "CAMISA BAW X MITCHELL E NESS X NFL KC",
+    "offers": {
+     "@type": "Offer",
+     "price": "159.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-premium-essentials-150761/340028.jpg?w=556&h=833&v=202509170145",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-premium-essentials-150761",
+    "name": "CAMISETA REGULAR PREMIUM ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-kids-baw-classy-sporty-150687/339604.jpg?w=556&h=833&v=202509170030",
+    "url": "https://www.bawclothing.com.br/calca-kids-baw-classy-sporty-150687",
+    "name": "CALCA KIDS BAW CLASSY SPORTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-kids-baw-classy-sporty-150674/339501.jpg?w=556&h=833&v=202509162336",
+    "url": "https://www.bawclothing.com.br/calca-kids-baw-classy-sporty-150674",
+    "name": "CALCA KIDS BAW CLASSY SPORTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-flip-street-racing-150618/339356.jpg?w=556&h=833&v=202509162315",
+    "url": "https://www.bawclothing.com.br/bermuda-flip-street-racing-150618",
+    "name": "BERMUDA FLIP STREET RACING",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-new-over-baw-crew-150340/337874.jpg?w=556&h=833&v=202509231011",
+    "url": "https://www.bawclothing.com.br/camiseta-new-over-baw-crew-150340",
+    "name": "CAMISETA NEW OVER BAW CREW",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-new-over-essentials-150246/337308.jpg?w=556&h=833&v=202509161348",
+    "url": "https://www.bawclothing.com.br/camiseta-new-over-essentials-150246",
+    "name": "CAMISETA NEW OVER ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bomber-jacket-campus-baw-151712/349486.jpg?w=556&h=833&v=202511271757",
+    "url": "https://www.bawclothing.com.br/bomber-jacket-campus-baw-151712",
+    "name": "BOMBER JACKET CAMPUS BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "369.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-ollie-classics-151654/348956.jpg?w=556&h=833&v=202510281139",
+    "url": "https://www.bawclothing.com.br/bermuda-ollie-classics-151654",
+    "name": "BERMUDA OLLIE CLASSICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-carpenter-baw-x-smiley-150552/339022.jpg?w=556&h=833&v=202509170049",
+    "url": "https://www.bawclothing.com.br/bermuda-carpenter-baw-x-smiley-150552",
+    "name": "BERMUDA CARPENTER BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-track-baw-subscript-151991/363568-1.jpg?w=556&h=833&v=202608181519",
+    "url": "https://www.bawclothing.com.br/calca-track-baw-subscript-151991",
+    "name": "CALÇA TRACK BAW SUBSCRIPT",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-pyle-151831/362874-1.jpg?w=556&h=833&v=202603271747",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-pyle-151831",
+    "name": "CAMISETA REGULAR BAW PYLE",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-oversized-baw-underworld-151910/362843-1.jpg?w=556&h=833&v=202608031729",
+    "url": "https://www.bawclothing.com.br/moletom-oversized-baw-underworld-151910",
+    "name": "MOLETOM OVERSIZED BAW UNDERWORLD",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-blur-152005/362757-1.jpg?w=556&h=833&v=202603271703",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-blur-152005",
+    "name": "CAMISETA REGULAR BAW BLUR",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-blur-151875/362743-1.jpg?w=556&h=833&v=202603271702",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-blur-151875",
+    "name": "CAMISETA REGULAR BAW BLUR",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/colete-knit-slytherin-hp-x-baw-151953/350842-1.jpg?w=556&h=833&v=202607231709",
+    "url": "https://www.bawclothing.com.br/colete-knit-slytherin-hp-x-baw-151953",
+    "name": "COLETE KNIT SLYTHERIN HP x BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/boardshort-california-baw-r-listras-151331/346411.jpg?w=556&h=833&v=202510291720",
+    "url": "https://www.bawclothing.com.br/boardshort-california-baw-r-listras-151331",
+    "name": "BOARDSHORT CALIFORNIA BAW R LISTRAS",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tenis-baw-thunder-151236/345152.jpg?w=556&h=833&v=202511211840",
+    "url": "https://www.bawclothing.com.br/tenis-baw-thunder-151236",
+    "name": "TENIS BAW THUNDER",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151015/341600-1.jpg?w=556&h=833&v=202605121712",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151015",
+    "name": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+    "offers": {
+     "@type": "Offer",
+     "price": "249.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-puffer-premium-essentals-150764/340070.jpg?w=556&h=833&v=202509170048",
+    "url": "https://www.bawclothing.com.br/jaqueta-puffer-premium-essentals-150764",
+    "name": "JAQUETA PUFFER PREMIUM ESSENTALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "359.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/jaqueta-puffer-premium-essentals-150753/339969.jpg?w=556&h=833&v=202509162252",
+    "url": "https://www.bawclothing.com.br/jaqueta-puffer-premium-essentals-150753",
+    "name": "JAQUETA PUFFER PREMIUM ESSENTALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "359.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-tourist-baw-summertime-150423/338436.jpg?w=556&h=833&v=202510171710",
+    "url": "https://www.bawclothing.com.br/shorts-tourist-baw-summertime-150423",
+    "name": "SHORTS TOURIST BAW SUMMERTIME",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-tourist-baw-summertime-150350/337949-1.jpg?w=556&h=833&v=202608191454",
+    "url": "https://www.bawclothing.com.br/shorts-tourist-baw-summertime-150350",
+    "name": "SHORTS TOURIST BAW SUMMERTIME",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-classy-friso-150285/337514-1.jpg?w=556&h=833&v=202608181702",
+    "url": "https://www.bawclothing.com.br/calca-classy-friso-150285",
+    "name": "CALCA CLASSY FRISO",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-from-the-bottom-151957/362875-1.jpg?w=556&h=833&v=202603271748",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-from-the-bottom-151957",
+    "name": "CAMISETA REGULAR FROM THE BOTTOM",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-oversized-baw-wire-151837/362859-1.jpg?w=556&h=833&v=202608031646",
+    "url": "https://www.bawclothing.com.br/sweatshirt-oversized-baw-wire-151837",
+    "name": "SWEATSHIRT OVERSIZED BAW WIRE",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-abduction-151946/362844-1.jpg?w=556&h=833&v=202603271744",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-abduction-151946",
+    "name": "CAMISETA REGULAR BAW ABDUCTION",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-abduction-152003/362824-1.jpg?w=556&h=833&v=202603271742",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-abduction-152003",
+    "name": "CAMISETA REGULAR BAW ABDUCTION",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "152168",
+   "href": "/calcinha-152168",
+   "nome": "CALCINHA",
+   "preco": "R$ 9,00",
+   "preco_de": "R$ 79,00",
+   "selo_off": "89%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153554",
+   "href": "/beach-shorts-basic-elipse-153554",
+   "nome": "BEACH SHORTS BASIC ELIPSE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "80%",
+   "selos": null,
+   "cor": "Amarelo Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150195",
+   "href": "/explorer-cargo-pants-classics-150195",
+   "nome": "EXPLORER CARGO PANTS CLASSICS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "80%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150291",
+   "href": "/calca-sherpa-retro-150291",
+   "nome": "CALCA SHERPA RETRO",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "76%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150244",
+   "href": "/calca-sherpa-retro-150244",
+   "nome": "CALCA SHERPA RETRO",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "76%",
+   "selos": null,
+   "cor": "Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150262",
+   "href": "/calca-summer-cotele-150262",
+   "nome": "CALCA SUMMER COTELE",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "74%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150185",
+   "href": "/camiseta-kids-baw-another-lap-150185",
+   "nome": "CAMISETA KIDS BAW ANOTHER LAP",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "72%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151983",
+   "href": "/camiseta-oversized-baw-faded-smiley-151983",
+   "nome": "CAMISETA OVERSIZED BAW FADED SMILEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 329,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151525",
+   "href": "/top-swimmer-baw-x-sls-151525",
+   "nome": "TOP SWIMMER BAW X SLS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Feminino"
+  },
+  {
+   "id": "151504",
+   "href": "/top-triangle-stripes-151504",
+   "nome": "TOP TRIANGLE STRIPES",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,90",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Lilas",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151314",
+   "href": "/shorts-reverse-kids-151314",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151309",
+   "href": "/shorts-reverse-kids-151309",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151310",
+   "href": "/shorts-reverse-kids-151310",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151312",
+   "href": "/shorts-reverse-kids-151312",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151313",
+   "href": "/shorts-reverse-kids-151313",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151311",
+   "href": "/shorts-reverse-kids-151311",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151253",
+   "href": "/camiseta-oversized-kids-natures-scents-151253",
+   "nome": "CAMISETA OVERSIZED KIDS NATURES SCENTS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150370",
+   "href": "/shorts-boy-classics-150370",
+   "nome": "SHORTS BOY CLASSICS",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150189",
+   "href": "/pool-shorts-baw-x-smiley-150189",
+   "nome": "POOL SHORTS BAW X SMILEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 329,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Areia",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152657",
+   "href": "/shorts-summer-daisy-152657",
+   "nome": "SHORTS SUMMER DAISY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 419,00",
+   "selo_off": "69%",
+   "selos": null,
+   "cor": "Laranja",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151690",
+   "href": "/blusa-sunshine-151690",
+   "nome": "BLUSA SUNSHINE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 249,90",
+   "selo_off": "68%",
+   "selos": null,
+   "cor": "Amarelo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151520",
+   "href": "/top-swimmer-basics-151520",
+   "nome": "TOP SWIMMER BASICS",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 219,00",
+   "selo_off": "68%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": ""
+  },
+  {
+   "id": "150426",
+   "href": "/pool-shorts-illusion-baw-x-smiley-150426",
+   "nome": "POOL SHORTS ILLUSION BAW X SMILEY",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "68%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152109",
+   "href": "/calca-kids-splash-logo-152109",
+   "nome": "CALCA KIDS SPLASH LOGO",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "67%",
+   "selos": null,
+   "cor": "Lilas",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151955",
+   "href": "/camiseta-oversized-baw-cracked-smiley-151955",
+   "nome": "CAMISETA OVERSIZED BAW CRACKED SMILEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "67%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151149",
+   "href": "/camiseta-oversized-kids-baw-heritage-151149",
+   "nome": "CAMISETA OVERSIZED KIDS BAW HERITAGE",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "67%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151063",
+   "href": "/camiseta-oversized-kids-emanate-151063",
+   "nome": "CAMISETA OVERSIZED KIDS EMANATE",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "67%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150408",
+   "href": "/bermuda-vibes-moletom-street-academics-150408",
+   "nome": "BERMUDA VIBES MOLETOM STREET ACADEMICS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "67%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150240",
+   "href": "/bermuda-essentials-utility-150240",
+   "nome": "BERMUDA ESSENTIALS UTILITY",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 269,00",
+   "selo_off": "67%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151951",
+   "href": "/camiseta-oversized-baw-wire-151951",
+   "nome": "CAMISETA OVERSIZED BAW WIRE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "66%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150337",
+   "href": "/camiseta-new-over-motor-paradise-150337",
+   "nome": "CAMISETA NEW OVER MOTOR PARADISE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "66%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151840",
+   "href": "/camiseta-oversized-baw-in-the-box-151840",
+   "nome": "CAMISETA OVERSIZED BAW IN THE BOX",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151813",
+   "href": "/bone-wind-painel-bawer-151813",
+   "nome": "BONÉ WIND PAINEL BAW&R",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151898",
+   "href": "/bolsa-crossbody-baw-script-151898",
+   "nome": "BOLSA CROSSBODY BAW SCRIPT",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152308",
+   "href": "/camisa-over-vichy-artsy-152308",
+   "nome": "CAMISA OVER VICHY ARTSY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Rosa/Azul/Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151938",
+   "href": "/camiseta-oversized-baw-snapback-smiley-151938",
+   "nome": "CAMISETA OVERSIZED BAW SNAPBACK SMILEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151550",
+   "href": "/top-cropped-gola-alta-151550",
+   "nome": "TOP CROPPED GOLA ALTA",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 169,90",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151517",
+   "href": "/top-swimmer-baw-x-kenner-151517",
+   "nome": "TOP SWIMMER BAW X KENNER",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Rosa Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151228",
+   "href": "/camiseta-oversized-baw-x-pica-pau-151228",
+   "nome": "CAMISETA OVERSIZED BAW X PICA PAU",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151129",
+   "href": "/smashed-shoulder-street-garden-151129",
+   "nome": "SMASHED SHOULDER STREET GARDEN",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150633",
+   "href": "/bone-dad-hat-line-baw-x-disney-150633",
+   "nome": "BONE DAD HAT LINE BAW X DISNEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Rosa Blush",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150589",
+   "href": "/camiseta-regular-baw-x-smiley-seeking-150589",
+   "nome": "CAMISETA REGULAR BAW X SMILEY SEEKING",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Roxo Lavanda",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150543",
+   "href": "/moletom-cropped-thug-lightning-150543",
+   "nome": "MOLETOM CROPPED THUG LIGHTNING",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "65%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151551",
+   "href": "/top-canelado-knit-151551",
+   "nome": "TOP CANELADO KNIT",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "64%",
+   "selos": null,
+   "cor": "Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152460",
+   "href": "/camiseta-baw-regular-new-gothic-152460",
+   "nome": "CAMISETA BAW REGULAR NEW GOTHIC",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151887",
+   "href": "/camiseta-oversized-baw-dyed-house-smiley-151887",
+   "nome": "CAMISETA OVERSIZED BAW DYED HOUSE SMILEY",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150665",
+   "href": "/calca-track-jogger-bawlance-150665",
+   "nome": "CALCA TRACK JOGGER BAWLANCE",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Rosa Escuro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150367",
+   "href": "/bermuda-gym-long-digital-essentials-150367",
+   "nome": "BERMUDA GYM LONG DIGITAL ESSENTIALS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 269,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Cinza Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150302",
+   "href": "/camiseta-baw-athletic-logo-150302",
+   "nome": "CAMISETA BAW ATHLETIC LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Cinza Mescla",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150271",
+   "href": "/bermuda-cargo-classics-150271",
+   "nome": "BERMUDA CARGO CLASSICS",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150204",
+   "href": "/bermuda-summer-basic-150204",
+   "nome": "BERMUDA SUMMER BASIC",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Amarelo Cupuacu",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151542",
+   "href": "/top-sunshine-stripes-151542",
+   "nome": "TOP SUNSHINE STRIPES",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "62%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152656",
+   "href": "/shorts-swim-baw-152656",
+   "nome": "SHORTS SWIM BAW",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 259,00",
+   "selo_off": "62%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151544",
+   "href": "/top-sunshine-stripes-151544",
+   "nome": "TOP SUNSHINE STRIPES",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "62%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151543",
+   "href": "/top-sunshine-stripes-151543",
+   "nome": "TOP SUNSHINE STRIPES",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 129,90",
+   "selo_off": "62%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150369",
+   "href": "/bermuda-new-essential-digital-150369",
+   "nome": "BERMUDA NEW ESSENTIAL DIGITAL",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 259,00",
+   "selo_off": "62%",
+   "selos": null,
+   "cor": "Marrom Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153106",
+   "href": "/regata-over-cruising-streets-153106",
+   "nome": "REGATA OVER CRUISING STREETS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "61%",
+   "selos": null,
+   "cor": "Marrom Canela",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151892",
+   "href": "/bermuda-long-baw-pantheros-151892",
+   "nome": "BERMUDA LONG BAW PANTHEROS",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 429,00",
+   "selo_off": "61%",
+   "selos": null,
+   "cor": "Cacau",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151867",
+   "href": "/camiseta-oversized-baw-x-smiley-151867",
+   "nome": "CAMISETA OVERSIZED BAW X SMILEY",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "61%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150428",
+   "href": "/bermuda-mesh-court-academics-150428",
+   "nome": "BERMUDA MESH COURT ACADEMICS",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 329,00",
+   "selo_off": "61%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150342",
+   "href": "/calcinha-tanga-string-baw-150342",
+   "nome": "CALCINHA TANGA STRING BAW",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "61%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151851",
+   "href": "/camiseta-boxy-baw-y2k-151851",
+   "nome": "CAMISETA BOXY BAW Y2K",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151819",
+   "href": "/camiseta-oversized-mushroom-inspector-151819",
+   "nome": "CAMISETA OVERSIZED MUSHROOM INSPECTOR",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150308",
+   "href": "/calca-baggy-150308",
+   "nome": "CALCA BAGGY",
+   "preco": "R$ 175,96",
+   "preco_de": "R$ 439,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Cinza Escuro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151984",
+   "href": "/moletom-oversized-baw-in-the-box-151984",
+   "nome": "MOLETOM OVERSIZED BAW IN THE BOX",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 449,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151919",
+   "href": "/camiseta-oversized-baw-crew-noise-makers-151919",
+   "nome": "CAMISETA OVERSIZED BAW CREW NOISE MAKERS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Verde Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152900",
+   "href": "/camiseta-oversized-thermo-152900",
+   "nome": "CAMISETA OVERSIZED THERMO",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152901",
+   "href": "/camiseta-oversized-247-152901",
+   "nome": "CAMISETA OVERSIZED 247",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151974",
+   "href": "/bone-trucker-baw-x-smiley-151974",
+   "nome": "BONÉ TRUCKER BAW X SMILEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151954",
+   "href": "/sweatshirt-baw-cracked-smiley-151954",
+   "nome": "SWEATSHIRT BAW CRACKED SMILEY",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Cinza Mescla",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151797",
+   "href": "/moletom-hoodie-baw-faded-smiley-151797",
+   "nome": "MOLETOM HOODIE BAW FADED SMILEY",
+   "preco": "R$ 179,00",
+   "preco_de": "R$ 449,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151012",
+   "href": "/camisa-baw-x-mitchell-e-ness-x-nfl-raiders-151012",
+   "nome": "CAMISA BAW X MITCHELL E NESS X NFL RAIDERS",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151011",
+   "href": "/camisa-baw-x-mitchell-e-ness-x-nfl-kc-151011",
+   "nome": "CAMISA BAW X MITCHELL E NESS X NFL KC",
+   "preco": "R$ 159,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Vermelho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150761",
+   "href": "/camiseta-regular-premium-essentials-150761",
+   "nome": "CAMISETA REGULAR PREMIUM ESSENTIALS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150687",
+   "href": "/calca-kids-baw-classy-sporty-150687",
+   "nome": "CALCA KIDS BAW CLASSY SPORTY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150674",
+   "href": "/calca-kids-baw-classy-sporty-150674",
+   "nome": "CALCA KIDS BAW CLASSY SPORTY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150618",
+   "href": "/bermuda-flip-street-racing-150618",
+   "nome": "BERMUDA FLIP STREET RACING",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150340",
+   "href": "/camiseta-new-over-baw-crew-150340",
+   "nome": "CAMISETA NEW OVER BAW CREW",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150246",
+   "href": "/camiseta-new-over-essentials-150246",
+   "nome": "CAMISETA NEW OVER ESSENTIALS",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151712",
+   "href": "/bomber-jacket-campus-baw-151712",
+   "nome": "BOMBER JACKET CAMPUS BAW",
+   "preco": "R$ 369,00",
+   "preco_de": "R$ 899,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151654",
+   "href": "/bermuda-ollie-classics-151654",
+   "nome": "BERMUDA OLLIE CLASSICS",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 459,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Chocolate",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150552",
+   "href": "/bermuda-carpenter-baw-x-smiley-150552",
+   "nome": "BERMUDA CARPENTER BAW X SMILEY",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 529,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151991",
+   "href": "/calca-track-baw-subscript-151991",
+   "nome": "CALÇA TRACK BAW SUBSCRIPT",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151831",
+   "href": "/camiseta-regular-baw-pyle-151831",
+   "nome": "CAMISETA REGULAR BAW PYLE",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151910",
+   "href": "/moletom-oversized-baw-underworld-151910",
+   "nome": "MOLETOM OVERSIZED BAW UNDERWORLD",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 449,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152005",
+   "href": "/camiseta-regular-baw-blur-152005",
+   "nome": "CAMISETA REGULAR BAW BLUR",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151875",
+   "href": "/camiseta-regular-baw-blur-151875",
+   "nome": "CAMISETA REGULAR BAW BLUR",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151953",
+   "href": "/colete-knit-slytherin-hp-x-baw-151953",
+   "nome": "COLETE KNIT SLYTHERIN HP x BAW",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Verde",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151331",
+   "href": "/boardshort-california-baw-r-listras-151331",
+   "nome": "BOARDSHORT CALIFORNIA BAW R LISTRAS",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 329,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151236",
+   "href": "/tenis-baw-thunder-151236",
+   "nome": "TENIS BAW THUNDER",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151015",
+   "href": "/moletom-hoodie-baw-x-mitchell-e-ness-x-nfl-151015",
+   "nome": "MOLETOM HOODIE BAW X MITCHELL E NESS X NFL",
+   "preco": "R$ 249,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150764",
+   "href": "/jaqueta-puffer-premium-essentals-150764",
+   "nome": "JAQUETA PUFFER PREMIUM ESSENTALS",
+   "preco": "R$ 359,00",
+   "preco_de": "R$ 849,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150753",
+   "href": "/jaqueta-puffer-premium-essentals-150753",
+   "nome": "JAQUETA PUFFER PREMIUM ESSENTALS",
+   "preco": "R$ 359,00",
+   "preco_de": "R$ 849,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150423",
+   "href": "/shorts-tourist-baw-summertime-150423",
+   "nome": "SHORTS TOURIST BAW SUMMERTIME",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 359,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150350",
+   "href": "/shorts-tourist-baw-summertime-150350",
+   "nome": "SHORTS TOURIST BAW SUMMERTIME",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 359,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150285",
+   "href": "/calca-classy-friso-150285",
+   "nome": "CALCA CLASSY FRISO",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151957",
+   "href": "/camiseta-regular-from-the-bottom-151957",
+   "nome": "CAMISETA REGULAR FROM THE BOTTOM",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151837",
+   "href": "/sweatshirt-oversized-baw-wire-151837",
+   "nome": "SWEATSHIRT OVERSIZED BAW WIRE",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151946",
+   "href": "/camiseta-regular-baw-abduction-151946",
+   "nome": "CAMISETA REGULAR BAW ABDUCTION",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152003",
+   "href": "/camiseta-regular-baw-abduction-152003",
+   "nome": "CAMISETA REGULAR BAW ABDUCTION",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  }
+ ]
+}

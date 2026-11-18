@@ -1,0 +1,62 @@
+url: https://www.bawclothing.com.br/produto/camiseta-oversized-baw-metal-154014
+lido_em: 2026-11-18T13:07:23-03:00
+html_origem: ficha-camiseta-oversized-baw-metal.html (sha256 5c5ce7decf3a439e0baa59764e4cd6a7a05bc3db19191e3103349ec4d55ad8c0)
+nome: CAMISETA OVERSIZED BAW METAL
+sku: 12.02.4126564M
+trilha: Página inicial > Roupas > Camisetas > Oversized > CAMISETA OVERSIZED BAW METAL
+preco: R$ 129,00
+preco_de: R$ 189,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISETA OVERSIZED BAW METAL PRETO STONED
+A Camiseta Oversized Baw Metal canaliza o dinamismo da cultura skatewear e do streetwear underground dos anos 90. Confeccionada em malha encorpada 100% algodão de alta gramatura na cor cinza-chumbo, a peça passa por um processo especial de lavagem estonada ( acid washed ), conferindo um visual desbotado estilo vintage único e toque extra macio. Apresenta modelagem oversized com caimento amplo, ombros caídos e gola careca alta em ribana encorpada. Destaca-se pelo grafismo em estética chicano/graffiti "Bawlance" em roxo/púrpura vibrante com contorno branco, acompanhado pela assinatura "Noise Makers" em caligrafia e pelo símbolo oriental Yin-Yang estilizado com chamas, impresso tanto no peito quanto nas costas.
+Tabela de Medidas:
+PP - Comprimento: 70cm/ Tórax: 61cm/ Barra: 61cm/ Manga: 21cm/ Cava: 24cm.
+P - Comprimento: 72cm/ Tórax: 64cm/ Barra: 64cm/ Manga: 22cm/ Cava: 25cm.
+M - Comprimento: 74cm/ Tórax: 67cm/ Barra: 67cm/ Manga: 23cm/ Cava: 26cm.
+G - Comprimento: 76cm/ Tórax: 70cm/ Barra: 70cm/ Manga: 24cm/ Cava: 27cm.
+GG - Comprimento: 78cm/ Tórax: 73cm/ Barra: 73cm/ Manga: 25cm/ Cava: 28cm.
+GGG - Comprimento: 80cm/ Tórax: 76cm/ Barra: 76cm/ Manga: 26cm/ Cava: 29cm.
+Composição: 100% Algodão.
+MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISETA OVERSIZED BAW METAL PRETO STONED
+A 
+Camiseta Oversized Baw Metal
+ canaliza o dinamismo da cultura 
+skatewear
+ e do 
+streetwear underground
+ dos anos 90. Confeccionada em malha encorpada 100% algodão de alta gramatura na cor cinza-chumbo, a peça passa por um processo especial de lavagem estonada (
+acid washed
+), conferindo um visual desbotado estilo 
+vintage
+ único e toque extra macio. Apresenta modelagem 
+oversized
+ com caimento amplo, ombros caídos e gola careca alta em ribana encorpada. Destaca-se pelo grafismo em estética 
+chicano/graffiti
+ 
+"Bawlance"
+ em roxo/púrpura vibrante com contorno branco, acompanhado pela assinatura 
+"Noise Makers"
+ em caligrafia e pelo símbolo oriental 
+Yin-Yang
+ estilizado com chamas, impresso tanto no peito quanto nas costas. 
+Tabela de Medidas:
+PP - Comprimento: 70cm/ Tórax: 61cm/ Barra: 61cm/ Manga: 21cm/ Cava: 24cm.
+P - Comprimento: 72cm/ Tórax: 64cm/ Barra: 64cm/ Manga: 22cm/ Cava: 25cm.
+M - Comprimento: 74cm/ Tórax: 67cm/ Barra: 67cm/ Manga: 23cm/ Cava: 26cm.
+G - Comprimento: 76cm/ Tórax: 70cm/ Barra: 70cm/ Manga: 24cm/ Cava: 27cm.
+GG - Comprimento: 78cm/ Tórax: 73cm/ Barra: 73cm/ Manga: 25cm/ Cava: 28cm.
+GGG - Comprimento: 80cm/ Tórax: 76cm/ Barra: 76cm/ Manga: 26cm/ Cava: 29cm.
+Composição: 100% Algodão.
+MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.

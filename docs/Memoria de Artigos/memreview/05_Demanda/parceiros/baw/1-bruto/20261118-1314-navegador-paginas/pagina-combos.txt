@@ -1,0 +1,46 @@
+url: https://www.bawclothing.com.br/combos
+lido_em: 2026-11-18T13:16:14-03:00
+metodo: navegador embutido do app; document.body.innerText 2,5 segundos depois de a página carregar, linhas vazias juntadas; busca no texto inteiro por "leve", "pague", "combo", "kit", "segunda pe", "N peças" e "regulamento". Texto gravado pela sessão a partir da saída da ferramenta
+banner: uma imagem de topo, https://bawclothing.fbitsstatic.net/media/lp_crazy_ultimas_v2.jpg?v=202608280847 (sem alt), não baixada nem lida
+ocorrências da busca: só "Baw Clothing | Combos" e "COMBOS" (o título). Nenhuma regra de combo, de "leve N" ou de preço por quantidade no texto da página
+a página é uma vitrine de produtos avulsos: "68 PRODUTOS"
+
+--- começo do texto da página, como veio ---
+VESTUÁRIO
+ACESSÓRIOS
+KIDS
+CALÇADOS
+NEWS
+BLACK FRIDAY
+INFLUS
+DIGITE AQUI O QUE PROCURA
+0
+Baw Clothing | Combos
+BAW •
+COMBOS
+FILTROS 6
+68 PRODUTOS
+VISUALIZAÇÃO
+ORDENAÇÃO
+Nome A-Z
+Vendas
+Menor Preço
+Maior Preço
+Data Lançamento
+Desconto Maior
+Desconto Menor
+59%
+OFF
+CAMISETA BR REGULAR EXTRA BOLD LOGO
+R$ 49,00
+R$ 119,00
+
+55%
+OFF
+CAMISETA BR REGULAR GLOBAW LOGO
+R$ 49,00
+R$ 109,00
+
+37%
+OFF
+CAMISETA BR

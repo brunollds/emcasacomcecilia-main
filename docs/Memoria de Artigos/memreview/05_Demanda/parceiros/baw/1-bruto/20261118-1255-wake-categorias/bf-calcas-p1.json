@@ -1,0 +1,237 @@
+{
+ "arquivo_origem": "bf-calcas-p1.html",
+ "sha256_origem": "1a1ca17f686d71934ef88fe2f3162a94e1e70d12e7c0403e07d804023779daef",
+ "titulo": "Calças",
+ "title_pagina": "Calças - Black Friday - Baw Clothing",
+ "contagem_pagina": 10,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/calcas",
+  "numberOfItems": "10",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-sherpa-retro-150291/337639-1.jpg?w=556&h=833&v=202608041114",
+    "url": "https://www.bawclothing.com.br/calca-sherpa-retro-150291",
+    "name": "CALCA SHERPA RETRO",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-sherpa-retro-150244/337346-1.jpg?w=556&h=833&v=202608041113",
+    "url": "https://www.bawclothing.com.br/calca-sherpa-retro-150244",
+    "name": "CALCA SHERPA RETRO",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-skater-cargo-baw-x-sd-150949/341223.jpg?w=556&h=833&v=202510301232",
+    "url": "https://www.bawclothing.com.br/calca-skater-cargo-baw-x-sd-150949",
+    "name": "CALCA SKATER CARGO BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-4-pockets-street-racing-150673/339453.jpg?w=556&h=833&v=202509162340",
+    "url": "https://www.bawclothing.com.br/calca-4-pockets-street-racing-150673",
+    "name": "CALCA 4 POCKETS STREET RACING",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-tracker-jogger-cargo-150942/341186.jpg?w=556&h=833&v=202510291310",
+    "url": "https://www.bawclothing.com.br/calca-tracker-jogger-cargo-150942",
+    "name": "CALCA TRACKER JOGGER CARGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "289.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-baggy-cargo-corduroy-150663/339420.jpg?w=556&h=833&v=202509162254",
+    "url": "https://www.bawclothing.com.br/calca-baggy-cargo-corduroy-150663",
+    "name": "CALCA BAGGY CARGO CORDUROY",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-new-vibes-form-150669/339459.jpg?w=556&h=833&v=202509162239",
+    "url": "https://www.bawclothing.com.br/calca-new-vibes-form-150669",
+    "name": "CALCA NEW VIBES FORM",
+    "offers": {
+     "@type": "Offer",
+     "price": "259.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-flip-cargo-premium-essentials-150672/339461.jpg?w=556&h=833&v=202510281845",
+    "url": "https://www.bawclothing.com.br/calca-flip-cargo-premium-essentials-150672",
+    "name": "CALCA FLIP CARGO PREMIUM ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "269.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-track-jogger-bawlance-150665/339433-1.jpg?w=556&h=833&v=202608041107",
+    "url": "https://www.bawclothing.com.br/calca-track-jogger-bawlance-150665",
+    "name": "CALCA  TRACK JOGGER BAWLANCE",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-street-baw-x-smiley-150559/339066.jpg?w=556&h=833&v=202509170222",
+    "url": "https://www.bawclothing.com.br/calca-street-baw-x-smiley-150559",
+    "name": "Calca Street Baw X Smiley",
+    "offers": {
+     "@type": "Offer",
+     "price": "259.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "150291",
+   "href": "/calca-sherpa-retro-150291",
+   "nome": "CALCA SHERPA RETRO",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "76%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150244",
+   "href": "/calca-sherpa-retro-150244",
+   "nome": "CALCA SHERPA RETRO",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "76%",
+   "selos": null,
+   "cor": "Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150949",
+   "href": "/calca-skater-cargo-baw-x-sd-150949",
+   "nome": "CALCA SKATER CARGO BAW X SD",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150673",
+   "href": "/calca-4-pockets-street-racing-150673",
+   "nome": "CALCA 4 POCKETS STREET RACING",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "32%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150942",
+   "href": "/calca-tracker-jogger-cargo-150942",
+   "nome": "CALCA TRACKER JOGGER CARGO",
+   "preco": "R$ 289,00",
+   "preco_de": "R$ 369,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150663",
+   "href": "/calca-baggy-cargo-corduroy-150663",
+   "nome": "CALCA BAGGY CARGO CORDUROY",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150669",
+   "href": "/calca-new-vibes-form-150669",
+   "nome": "CALCA NEW VIBES FORM",
+   "preco": "R$ 259,00",
+   "preco_de": "R$ 549,00",
+   "selo_off": "53%",
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150672",
+   "href": "/calca-flip-cargo-premium-essentials-150672",
+   "nome": "CALCA FLIP CARGO PREMIUM ESSENTIALS",
+   "preco": "R$ 269,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "46%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150665",
+   "href": "/calca-track-jogger-bawlance-150665",
+   "nome": "CALCA TRACK JOGGER BAWLANCE",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Rosa Escuro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150559",
+   "href": "/calca-street-baw-x-smiley-150559",
+   "nome": "Calca Street Baw X Smiley",
+   "preco": "R$ 259,00",
+   "preco_de": "R$ 559,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Jeans Claro",
+   "genero": "Unisex"
+  }
+ ]
+}

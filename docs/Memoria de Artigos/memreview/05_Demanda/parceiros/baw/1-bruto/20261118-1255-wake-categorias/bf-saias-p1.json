@@ -1,0 +1,61 @@
+{
+ "arquivo_origem": "bf-saias-p1.html",
+ "sha256_origem": "50e246e353c7404b8881cc9dd225d488fb32275d0632ef0ff0a0e816c64ceb73",
+ "titulo": "Saias",
+ "title_pagina": "Saias - Black Friday - Baw Clothing",
+ "contagem_pagina": 2,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/saias",
+  "numberOfItems": "2",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-jeans-vibes-easy-life-150782/340137-1.jpg?w=556&h=833&v=202608201145",
+    "url": "https://www.bawclothing.com.br/saia-jeans-vibes-easy-life-150782",
+    "name": "SAIA JEANS VIBES EASY LIFE",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-plaid-cargo-baw-x-sd-150799/340193.jpg?w=556&h=833&v=202509170108",
+    "url": "https://www.bawclothing.com.br/saia-plaid-cargo-baw-x-sd-150799",
+    "name": "SAIA PLAID CARGO BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "150782",
+   "href": "/saia-jeans-vibes-easy-life-150782",
+   "nome": "SAIA JEANS VIBES EASY LIFE",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "24%",
+   "selos": null,
+   "cor": "Jeans Medio",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150799",
+   "href": "/saia-plaid-cargo-baw-x-sd-150799",
+   "nome": "SAIA PLAID CARGO BAW X SD",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Bege Blush",
+   "genero": "Unisex"
+  }
+ ]
+}

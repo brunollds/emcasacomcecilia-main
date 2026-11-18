@@ -1,0 +1,64 @@
+url: https://www.bawclothing.com.br/produto/vest-baw-ent-153687
+lido_em: 2026-11-18T13:09:55-03:00
+html_origem: ficha-vest-baw-ent.html (sha256 c0b06eaf6f88217b0c5b8ac2ff2d350ef22beec423fd33f1de1b2e138e9b8f93)
+nome: VEST BAW ENT
+sku: 14.02.0075596G
+trilha: Página inicial > Roupas > Jaquetas > VEST BAW ENT
+preco: R$ 319,00
+preco_de: R$ 499,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+VEST BAW ENT CHUMBO/PRETO
+O Colete Masculino BAW Ent é a peça definitiva para quem busca funcionalidade e tecnologia no streetwear. Construído em um mix de poliamida e poliamida ripstop, ele oferece alta durabilidade e um design utilitário que se adapta ao seu estilo e às necessidades do dia.
+Destaques Técnicos:
+Design Modular: Inovação exclusiva onde a cava da manga se encaixa na calça zip-off da coleção, transformando o colete em jaqueta.
+Tecido Ripstop: Mistura de poliamida de alta resistência, ideal para o uso intenso e urbano.
+Zíper Frontal Selado: Proteção extra contra o vento e acabamento estético superior.
+Puxador Personalizado: Detalhe funcional que facilita o ajuste e reforça a identidade da marca.
+Etiqueta Ziguezague: Assinatura icônica da coleção Ent aplicada de forma estratégica.
+Como usar:
+Use-o como peça de sobreposição com uma camiseta boxy para um visual utilitário clássico. Para explorar todo o potencial da peça, combine-o com a calça zip-off correspondente, criando um conjunto tecnológico que transita entre colete e jaqueta em segundos.
+Tabela de Medidas:
+PP - Comprimento: 66cm/ Cava: 24cm/ Tórax: 50cm/ Barra: 50cm/ Ombro: 12cm.
+P - Comprimento: 68cm/ Cava: 25cm/ Tórax: 53cm/ Barra: 53cm/ Ombro: 13cm.
+M - Comprimento: 70cm/ Cava: 26cm/ Tórax: 56cm/ Barra: 56cm/ Ombro: 14cm.
+G - Comprimento: 72cm/ Cava: 27cm/ Tórax: 59cm/ Barra: 59cm/ Ombro: 15cm.
+GG - Comprimento: 74cm/ Cava: 28cm/ Tórax: 62cm/ Barra: 62cm/ Ombro: 16cm.
+GGG - Comprimento: 76cm/ Cava: 29cm/ Tórax: 65cm/ Barra: 65cm/ Ombro: 17cm.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Colete . Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+VEST BAW ENT CHUMBO/PRETO
+O
+ Colete Masculino
+ BAW Ent &eacute; a pe&ccedil;a definitiva para quem busca funcionalidade e tecnologia no streetwear. Constru&iacute;do em um mix de poliamida e poliamida ripstop, ele oferece alta durabilidade e um design utilit&aacute;rio que se adapta ao seu estilo e &agrave;s necessidades do dia.
+&nbsp;
+Destaques T&eacute;cnicos:
+Design Modular: Inova&ccedil;&atilde;o exclusiva onde a cava da manga se encaixa na cal&ccedil;a zip-off da cole&ccedil;&atilde;o, transformando o colete em jaqueta.
+Tecido Ripstop: Mistura de poliamida de alta resist&ecirc;ncia, ideal para o uso intenso e urbano.
+Z&iacute;per Frontal Selado: Prote&ccedil;&atilde;o extra contra o vento e acabamento est&eacute;tico superior.
+Puxador Personalizado: Detalhe funcional que facilita o ajuste e refor&ccedil;a a identidade da marca.
+Etiqueta Ziguezague: Assinatura ic&ocirc;nica da cole&ccedil;&atilde;o Ent aplicada de forma estrat&eacute;gica.
+&nbsp;
+Como usar:
+Use-o como pe&ccedil;a de sobreposi&ccedil;&atilde;o com uma camiseta boxy para um visual utilit&aacute;rio cl&aacute;ssico. Para explorar todo o potencial da pe&ccedil;a, combine-o com a cal&ccedil;a zip-off correspondente, criando um conjunto tecnol&oacute;gico que transita entre colete e jaqueta em segundos.
+&nbsp;
+Tabela de Medidas:
+PP - Comprimento: 66cm/ Cava: 24cm/ T&oacute;rax: 50cm/ Barra: 50cm/ Ombro: 12cm.
+P - Comprimento: 68cm/ Cava: 25cm/ T&oacute;rax: 53cm/ Barra: 53cm/ Ombro: 13cm.
+M - Comprimento: 70cm/ Cava: 26cm/ T&oacute;rax: 56cm/ Barra: 56cm/ Ombro: 14cm.
+G - Comprimento: 72cm/ Cava: 27cm/ T&oacute;rax: 59cm/ Barra: 59cm/ Ombro: 15cm.
+GG - Comprimento: 74cm/ Cava: 28cm/ T&oacute;rax: 62cm/ Barra: 62cm/ Ombro: 16cm.
+GGG - Comprimento: 76cm/ Cava: 29cm/ T&oacute;rax: 65cm/ Barra: 65cm/ Ombro: 17cm.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente a 
+Colete
+. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+&nbsp;
+Pe&ccedil;a da BAW Clothing criada e produzida no Brasil.

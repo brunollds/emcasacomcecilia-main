@@ -1,0 +1,40 @@
+url: https://www.bawclothing.com.br/produto/jaqueta-puffer-premium-essentals-150764
+lido_em: 2026-11-18T13:10:00-03:00
+html_origem: ficha-jaqueta-puffer-premium-essentals.html (sha256 9263697033b91cc8db0ea6777264694c47d17da8472076ef72ff69d9b8dd2a12)
+nome: JAQUETA PUFFER PREMIUM ESSENTALS
+sku: 0095659037GG
+trilha: Página inicial > Roupas > Jaquetas > JAQUETA PUFFER PREMIUM ESSENTALS
+preco: R$ 359,00
+preco_de: R$ 849,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+JAQUETA PUFFER PREMIUM ESSENTALS OFF WHITE
+Jaqueta puffer manga longa confeccionada em poliamida. Possui capuz e zíper.
+PP - Comprimento: 67cm/ Torax: 60cm/ Barra: 55cm/ Manga: 66cm/ Cava: 29cm.
+P - Comprimento: 69cm/ Torax: 63cm/ Barra: 58cm/ Manga: 67cm/ Cava: 30cm.
+M - Comprimento: 71cm/ Torax: 66cm/ Barra: 61cm/ Manga: 68cm/ Cava: 31cm.
+G - Comprimento: 73cm/ Torax: 69cm/ Barra: 64cm/ Manga: 69cm/ Cava: 32cm.
+GG - Comprimento: 75cm/ Torax: 72cm/ Barra: 67cm/ Manga: 70cm/ Cava: 33cm.
+GGG - Comprimento: 77cm/ Torax: 75cm/ Barra: 70cm/ Manga: 71cm/ Cava: 34cm.
+Composição: 100% Poliamida.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a jaqueta. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+JAQUETA PUFFER PREMIUM ESSENTALS OFF WHITE
+Jaqueta puffer manga longa confeccionada em poliamida. Possui capuz e z&iacute;per.
+PP - Comprimento: 67cm/ Torax: 60cm/ Barra: 55cm/ Manga: 66cm/ Cava: 29cm.
+P - Comprimento: 69cm/ Torax: 63cm/ Barra: 58cm/ Manga: 67cm/ Cava: 30cm.
+M - Comprimento: 71cm/ Torax: 66cm/ Barra: 61cm/ Manga: 68cm/ Cava: 31cm.
+G - Comprimento: 73cm/ Torax: 69cm/ Barra: 64cm/ Manga: 69cm/ Cava: 32cm.
+GG - Comprimento: 75cm/ Torax: 72cm/ Barra: 67cm/ Manga: 70cm/ Cava: 33cm.
+GGG - Comprimento: 77cm/ Torax: 75cm/ Barra: 70cm/ Manga: 71cm/ Cava: 34cm.
+Composi&ccedil;&atilde;o: 100% Poliamida.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente a jaqueta. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Pe&ccedil;a da BAW Clothing criada e produzida no Brasil.

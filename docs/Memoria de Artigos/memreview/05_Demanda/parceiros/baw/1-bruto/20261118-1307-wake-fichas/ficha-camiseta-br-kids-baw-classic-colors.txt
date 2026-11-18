@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camiseta-br-kids-baw-classic-colors-154207
+lido_em: 2026-11-18T13:11:53-03:00
+html_origem: ficha-camiseta-br-kids-baw-classic-colors.html (sha256 7401835ebb912ae60c9821ad49ead554dc6654e3897309fd935f33fa2d033d26)
+nome: CAMISETA BR KIDS BAW CLASSIC COLORS
+sku: 12.02.417801404
+trilha: Página inicial > Kids > CAMISETA BR KIDS BAW CLASSIC COLORS
+preco: R$ 39,00
+preco_de: @nao-se-aplica
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISETA BR KIDS BAW CLASSIC COLORS
+CAMISETA BR KIDS BAW CLASSIC COLORS

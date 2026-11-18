@@ -1,0 +1,15 @@
+{
+ "arquivo_origem": "bawechevrolet-p1.html",
+ "sha256_origem": "40415af76fface30b07ac1a127c2933713f6d161b12304212e38946dc377181a",
+ "titulo": null,
+ "title_pagina": "BAW + CHEVROLET",
+ "contagem_pagina": 0,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/bawechevrolet",
+  "numberOfItems": "0",
+  "itemListElement": []
+ },
+ "cartoes": []
+}

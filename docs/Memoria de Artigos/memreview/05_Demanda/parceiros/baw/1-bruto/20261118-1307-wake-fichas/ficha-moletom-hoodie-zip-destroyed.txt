@@ -1,0 +1,54 @@
+url: https://www.bawclothing.com.br/produto/moletom-hoodie-zip-destroyed-153888
+lido_em: 2026-11-18T13:08:11-03:00
+html_origem: ficha-moletom-hoodie-zip-destroyed.html (sha256 80c83102feda01e356f7e303e679a608f54a00f78f9afc27fcff32944d1719f2)
+nome: MOLETOM HOODIE ZIP DESTROYED
+sku: 14.05.0154568M
+trilha: Página inicial > Roupas > Moletons > MOLETOM HOODIE ZIP DESTROYED
+preco: R$ 199,00
+preco_de: R$ 369,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+MOLETOM HOODIE ZIP DESTROYED VERMELHO STONED
+O Moletom Hoodie Zip Destroyed traduz com perfeição a estética vintage/underground do streetwear contemporâneo. Confeccionada em moletom pesado de altíssima gramatura, a peça passa por um processo especial de lavagem estonada ( acid washed ) que garante um visual desbotado único. O grande diferencial fica por conta dos acabamentos com desgaste destroyed (pequenos furos e rasgos intencionais) distribuídos pelo corpo, bolso, punhos e barra, além das costuras externas aparentes. Conta com modelagem oversized com ombros caídos, fechamento por zíper metálico frontal reforçado, capuz amplo e bolso canguru divido.
+Tabela de Medidas:
+PP - Comprimento: 70cm/ Tórax: 57cm/ Barra: 48cm/ Manga: 61cm/ Cava: 29cm.
+P - Comprimento: 72cm/ Tórax: 59cm/ Barra: 50cm/ Manga: 63cm/ Cava: 30cm.
+M - Comprimento: 74cm/ Tórax: 61cm/ Barra: 52cm/ Manga: 65cm/ Cava: 31cm.
+G - Comprimento: 76cm/ Tórax: 63cm/ Barra: 54cm/ Manga: 67cm/ Cava: 32cm.
+GG - Comprimento: 78cm/ Tórax: 65cm/ Barra: 56cm/ Manga: 69cm/ Cava: 33cm.
+GGG - Comprimento: 80cm/ Tórax: 67cm/ Barra: 58cm/ Manga: 71cm/ Cava: 34cm.
+Composição: 50% Algodao e 50% Poliester.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Moletom. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+MOLETOM HOODIE ZIP DESTROYED VERMELHO STONED
+O 
+Moletom Hoodie Zip Destroyed
+ traduz com perfei&ccedil;&atilde;o a est&eacute;tica 
+vintage/underground
+ do 
+streetwear
+ contempor&acirc;neo. Confeccionada em moletom pesado de alt&iacute;ssima gramatura, a pe&ccedil;a passa por um processo especial de lavagem estonada (
+acid washed
+) que garante um visual desbotado &uacute;nico. O grande diferencial fica por conta dos acabamentos com desgaste 
+destroyed
+ (pequenos furos e rasgos intencionais) distribu&iacute;dos pelo corpo, bolso, punhos e barra, al&eacute;m das costuras externas aparentes. Conta com modelagem 
+oversized
+ com ombros ca&iacute;dos, fechamento por z&iacute;per met&aacute;lico frontal refor&ccedil;ado, capuz amplo e bolso canguru divido.
+Tabela de Medidas:
+PP - Comprimento: 70cm/ T&oacute;rax: 57cm/ Barra: 48cm/ Manga: 61cm/ Cava: 29cm.
+P - Comprimento: 72cm/ T&oacute;rax: 59cm/ Barra: 50cm/ Manga: 63cm/ Cava: 30cm.
+M - Comprimento: 74cm/ T&oacute;rax: 61cm/ Barra: 52cm/ Manga: 65cm/ Cava: 31cm.
+G - Comprimento: 76cm/ T&oacute;rax: 63cm/ Barra: 54cm/ Manga: 67cm/ Cava: 32cm.
+GG - Comprimento: 78cm/ T&oacute;rax: 65cm/ Barra: 56cm/ Manga: 69cm/ Cava: 33cm.
+GGG - Comprimento: 80cm/ T&oacute;rax: 67cm/ Barra: 58cm/ Manga: 71cm/ Cava: 34cm.
+Composi&ccedil;&atilde;o: 50% Algodao e 50% Poliester.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente ao Moletom. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

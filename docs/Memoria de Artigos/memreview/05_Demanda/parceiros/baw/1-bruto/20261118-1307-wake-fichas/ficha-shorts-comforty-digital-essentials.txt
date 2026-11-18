@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/shorts-comforty-digital-essentials-153428
+lido_em: 2026-11-18T13:10:37-03:00
+html_origem: ficha-shorts-comforty-digital-essentials.html (sha256 86c1cca0b3fe58f03aaaa98894d4569c024bc40ec3702c598c6b79ff2bc5fe56)
+nome: SHORTS COMFORTY DIGITAL ESSENTIALS
+sku: 0089482020G
+trilha: Página inicial > Roupas > Shorts > SHORTS COMFORTY DIGITAL ESSENTIALS
+preco: R$ 99,00
+preco_de: R$ 249,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+SHORTS COMFORTY DIGITAL ESSENTIALS
+SHORTS COMFORTY DIGITAL ESSENTIALS

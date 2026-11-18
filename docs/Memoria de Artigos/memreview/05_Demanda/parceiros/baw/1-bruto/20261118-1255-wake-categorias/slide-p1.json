@@ -1,0 +1,149 @@
+{
+ "arquivo_origem": "slide-p1.html",
+ "sha256_origem": "aa01bdb809566165f25d08e9a71f80611967300621bc7de7b21c13b4ae39ff09",
+ "titulo": "Slide",
+ "title_pagina": "Chinelo - Calçados - Baw Clothing",
+ "contagem_pagina": 6,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/calcados/slide",
+  "numberOfItems": "6",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/slide-goth-151255/345446.jpg?w=556&h=833&v=202601141505",
+    "url": "https://www.bawclothing.com.br/slide-goth-151255",
+    "name": "SLIDE GOTH",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sandal-summer-party-154149/365724-1.jpg?w=556&h=833&v=202610271722",
+    "url": "https://www.bawclothing.com.br/sandal-summer-party-154149",
+    "name": "SANDAL SUMMER PARTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sandalia-linus-153608/362520.jpg?w=556&h=833&v=202603051259",
+    "url": "https://www.bawclothing.com.br/sandalia-linus-153608",
+    "name": "SANDÁLIA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sandalia-linus-153609/362512.jpg?w=556&h=833&v=202603051440",
+    "url": "https://www.bawclothing.com.br/sandalia-linus-153609",
+    "name": "SANDÁLIA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sandalia-linus-153607/362507.jpg?w=556&h=833&v=202603051258",
+    "url": "https://www.bawclothing.com.br/sandalia-linus-153607",
+    "name": "SANDÁLIA LINUS",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/slide-baw-154154/365758-1.jpg?w=556&h=833&v=202610271716",
+    "url": "https://www.bawclothing.com.br/slide-baw-154154",
+    "name": "SLIDE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "151255",
+   "href": "/slide-goth-151255",
+   "nome": "SLIDE GOTH",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154149",
+   "href": "/sandal-summer-party-154149",
+   "nome": "SANDAL SUMMER PARTY",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Lilas",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153608",
+   "href": "/sandalia-linus-153608",
+   "nome": "SANDÁLIA LINUS",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "26%",
+   "selos": null,
+   "cor": "Amarelo Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153609",
+   "href": "/sandalia-linus-153609",
+   "nome": "SANDÁLIA LINUS",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "13%",
+   "selos": null,
+   "cor": "Rosa Pink",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153607",
+   "href": "/sandalia-linus-153607",
+   "nome": "SANDÁLIA LINUS",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "13%",
+   "selos": null,
+   "cor": "Laranja Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "154154",
+   "href": "/slide-baw-154154",
+   "nome": "SLIDE BAW",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto/Branco",
+   "genero": "Unisex"
+  }
+ ]
+}

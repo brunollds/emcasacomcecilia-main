@@ -1,0 +1,44 @@
+url: https://www.bawclothing.com.br/produto/beach-shorts-basic-elipse-153554
+lido_em: 2026-11-18T13:10:32-03:00
+html_origem: ficha-beach-shorts-basic-elipse.html (sha256 028c9aefc43dd3e2aea68c937e2d993da5ec88a3cd7e8db124d77d5c4903ac2c)
+nome: BEACH SHORTS BASIC ELIPSE
+sku: 2.19.0070003M
+trilha: Página inicial > Roupas > Shorts > BEACH SHORTS BASIC ELIPSE
+preco: R$ 49,00
+preco_de: R$ 249,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+BEACH SHORTS BASIC ELIPSE AMARELO FLÚOR
+BEACH SHORTS BASIC ELIPSE
+Shorts confeccionado de modelagem reta, possui bolsos frontais, cós com elástico embutido e cordão para ajuste.
+PP - Comprimento lateral: 41,5cm/ Cintura: 76cm/ Gancho dianteiro: 30cm/ Gancho traseiro: 36,5cm/ Quadril: 109cm.
+P - Comprimento lateral: 42,5cm/ Cintura: 78cm/ Gancho dianteiro: 31cm/ Gancho traseiro: 37,5cm/ Quadril: 111cm.
+M - Comprimento lateral: 43,5cm/ Cintura: 80cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 38,5cm/ Quadril: 113cm.
+G - Comprimento lateral: 44,5cm/ Cintura: 82cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 39,5cm/ Quadril: 115cm.
+GG - Comprimento lateral: 45,5cm/ Cintura: 84cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 40,5cm/ Quadril: 117cm.
+GGG - Comprimento lateral: 46,5cm/ Cintura: 86cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 41,5cm/ Quadril: 119cm.
+Composição: 100% Poliamida .
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Shorts. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+BEACH SHORTS BASIC ELIPSE AMARELO FLÚOR
+BEACH SHORTS BASIC ELIPSE
+Shorts confeccionado de modelagem reta, possui bolsos frontais, cós com elástico embutido e cordão para ajuste.
+PP - Comprimento lateral: 41,5cm/ Cintura: 76cm/ Gancho dianteiro: 30cm/ Gancho traseiro: 36,5cm/ Quadril: 109cm.
+P - Comprimento lateral: 42,5cm/ Cintura: 78cm/ Gancho dianteiro: 31cm/ Gancho traseiro: 37,5cm/ Quadril: 111cm.
+M - Comprimento lateral: 43,5cm/ Cintura: 80cm/ Gancho dianteiro: 32cm/ Gancho traseiro: 38,5cm/ Quadril: 113cm.
+G - Comprimento lateral: 44,5cm/ Cintura: 82cm/ Gancho dianteiro: 33cm/ Gancho traseiro: 39,5cm/ Quadril: 115cm.
+GG - Comprimento lateral: 45,5cm/ Cintura: 84cm/ Gancho dianteiro: 34cm/ Gancho traseiro: 40,5cm/ Quadril: 117cm.
+GGG - Comprimento lateral: 46,5cm/ Cintura: 86cm/ Gancho dianteiro: 35cm/ Gancho traseiro: 41,5cm/ Quadril: 119cm.
+Composição: 
+100% Poliamida
+.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente ao Shorts. Os demais itens contidos na imagem, são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.

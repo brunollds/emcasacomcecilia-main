@@ -1,0 +1,2217 @@
+{
+ "arquivo_origem": "cam-regular-p2.html",
+ "sha256_origem": "55cafa2d810eef7212d73424ee5d92f7477a734cd1dd13fcb50611585e99ae24",
+ "titulo": "Regular",
+ "title_pagina": "Camisetas Regular: streetwear básico com atitude | Baw",
+ "contagem_pagina": 240,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/camisetas/regular",
+  "numberOfItems": "240",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-search-logo-153894/364341-1.jpg?w=556&h=833&v=202611131611",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-search-logo-153894",
+    "name": "CAMISETA BR REGULAR SEARCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-interstellar-153893/364336-1.jpg?w=556&h=833&v=202611131612",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-interstellar-153893",
+    "name": "CAMISETA BR REGULAR BAW INTERSTELLAR",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-new-endless-summer-153892/364328-1.jpg?w=556&h=833&v=202611131609",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-new-endless-summer-153892",
+    "name": "CAMISETA BR REGULAR NEW ENDLESS SUMMER",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-sao-paulo-153891/364324-1.jpg?w=556&h=833&v=202611131612",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-sao-paulo-153891",
+    "name": "CAMISETA BR REGULAR BAW SAO PAULO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-selfie-logo-153890/364316-1.jpg?w=556&h=833&v=202611131608",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-selfie-logo-153890",
+    "name": "CAMISETA BR REGULAR SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-taggin-logo-153883/364260-1.jpg?w=556&h=833&v=202611131244",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-taggin-logo-153883",
+    "name": "CAMISETA BR REGULAR TAGGIN LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-rude-logo-153882/364249-1.jpg?w=556&h=833&v=202611131225",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-rude-logo-153882",
+    "name": "CAMISETA BR REGULAR RUDE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-lumina-153881/364247-1.jpg?w=556&h=833&v=202611131159",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-lumina-153881",
+    "name": "CAMISETA BR REGULAR LUMINA",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-focused-153860/364137-1.jpg?w=556&h=833&v=202611131601",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-focused-153860",
+    "name": "CAMISETA BR REGULAR FOCUSED",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-focused-153859/364129-1.jpg?w=556&h=833&v=202611131205",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-focused-153859",
+    "name": "CAMISETA BR REGULAR FOCUSED",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-pin-logo-153858/364126-1.jpg?w=556&h=833&v=202611131227",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-pin-logo-153858",
+    "name": "CAMISETA BR REGULAR PIN LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-pin-logo-153857/364121-1.jpg?w=556&h=833&v=202611131552",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-pin-logo-153857",
+    "name": "CAMISETA BR REGULAR PIN LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-error-153856/364113-1.jpg?w=556&h=833&v=202611131557",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-error-153856",
+    "name": "CAMISETA BR REGULAR ERROR",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-error-153855/364107-1.jpg?w=556&h=833&v=202611131218",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-error-153855",
+    "name": "CAMISETA BR REGULAR ERROR",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-irie-vibes-153854/364100-1.jpg?w=556&h=833&v=202611131245",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-irie-vibes-153854",
+    "name": "CAMISETA BR REGULAR IRIE VIBES",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-irie-vibes-153853/364094-1.jpg?w=556&h=833&v=202611131550",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-irie-vibes-153853",
+    "name": "CAMISETA BR REGULAR IRIE VIBES",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-drop-acids-not-bombs-153852/364090-1.jpg?w=556&h=833&v=202611131146",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-drop-acids-not-bombs-153852",
+    "name": "CAMISETA BR REGULAR DROP ACIDS NOT BOMBS",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-blade-153851/364082-1.jpg?w=556&h=833&v=202611131549",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-blade-153851",
+    "name": "CAMISETA BR REGULAR BAW BLADE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-disorder-3-0-153850/364073-1.jpg?w=556&h=833&v=202611131549",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-disorder-3-0-153850",
+    "name": "CAMISETA BR REGULAR DISORDER 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-disorder-3-0-153849/364063-1.jpg?w=556&h=833&v=202611131159",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-disorder-3-0-153849",
+    "name": "CAMISETA BR REGULAR DISORDER 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-selfie-logo-153848/364057-1.jpg?w=556&h=833&v=202611131238",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-selfie-logo-153848",
+    "name": "CAMISETA BR REGULAR SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-dog-person-153847/364051-1.jpg?w=556&h=833&v=202611131209",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-dog-person-153847",
+    "name": "CAMISETA BR REGULAR DOG PERSON",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-taggin-logo-153846/364046-1.jpg?w=556&h=833&v=202611131549",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-taggin-logo-153846",
+    "name": "CAMISETA BR REGULAR TAGGIN LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-new-wave-153845/364035-1.jpg?w=556&h=833&v=202611131247",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-new-wave-153845",
+    "name": "CAMISETA BR REGULAR NEW WAVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-new-wave-153844/364038-1.jpg?w=556&h=833&v=202611131224",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-new-wave-153844",
+    "name": "CAMISETA BR REGULAR NEW WAVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-new-wave-153843/364029-1.jpg?w=556&h=833&v=202611131550",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-new-wave-153843",
+    "name": "CAMISETA BR REGULAR NEW WAVE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-techneon-153842/364026-1.jpg?w=556&h=833&v=202611131600",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-techneon-153842",
+    "name": "CAMISETA BR REGULAR TECHNEON",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-techneon-153841/364018-1.jpg?w=556&h=833&v=202611131217",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-techneon-153841",
+    "name": "CAMISETA BR REGULAR TECHNEON",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-light-paint-153840/364013-1.jpg?w=556&h=833&v=202611131600",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-light-paint-153840",
+    "name": "CAMISETA BR REGULAR LIGHT PAINT",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-light-paint-153839/364003-1.jpg?w=556&h=833&v=202611131236",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-light-paint-153839",
+    "name": "CAMISETA BR REGULAR LIGHT PAINT",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-dices-153838/363999-1.jpg?w=556&h=833&v=202611131243",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-dices-153838",
+    "name": "CAMISETA BR REGULAR DICES",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-dices-153837/363996-1.jpg?w=556&h=833&v=202611131554",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-dices-153837",
+    "name": "CAMISETA BR REGULAR DICES",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-heat-153836/363986-1.jpg?w=556&h=833&v=202611131142",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-heat-153836",
+    "name": "CAMISETA BR REGULAR BAW HEAT",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-heat-153835/363982-1.jpg?w=556&h=833&v=202611131551",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-heat-153835",
+    "name": "CAMISETA BR REGULAR BAW HEAT",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-intricate-153834/363978-1.jpg?w=556&h=833&v=202611131552",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-intricate-153834",
+    "name": "CAMISETA BR REGULAR INTRICATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-we-love-baw-153833/363972-1.jpg?w=556&h=833&v=202611131216",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-we-love-baw-153833",
+    "name": "CAMISETA BR REGULAR WE LOVE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-cube-logo-153831/363958-1.jpg?w=556&h=833&v=202611131152",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-cube-logo-153831",
+    "name": "CAMISETA BR REGULAR CUBE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-flaming-baw-153830/363954-1.jpg?w=556&h=833&v=202611131600",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-flaming-baw-153830",
+    "name": "CAMISETA BR REGULAR FLAMING BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-flaming-baw-153829/363948-1.jpg?w=556&h=833&v=202611131209",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-flaming-baw-153829",
+    "name": "CAMISETA BR REGULAR FLAMING BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-boombap-logo-153828/363938-1.jpg?w=556&h=833&v=202611131550",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-boombap-logo-153828",
+    "name": "CAMISETA BR REGULAR BOOMBAP LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-gym-class-logo-153827/363931-1.jpg?w=556&h=833&v=202611131555",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-gym-class-logo-153827",
+    "name": "CAMISETA BR REGULAR GYM CLASS LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-signature-153826/363925-1.jpg?w=556&h=833&v=202611131600",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-signature-153826",
+    "name": "CAMISETA BR REGULAR BAW SIGNATURE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-cross-logo-153825/363922-1.jpg?w=556&h=833&v=202611131600",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-cross-logo-153825",
+    "name": "CAMISETA BR REGULAR CROSS LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-lumina-153824/363915-1.jpg?w=556&h=833&v=202611131549",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-lumina-153824",
+    "name": "CAMISETA BR REGULAR LUMINA",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-tag-n-type-153823/363908-1.jpg?w=556&h=833&v=202611131556",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-tag-n-type-153823",
+    "name": "CAMISETA BR REGULAR TAG N TYPE",
+    "offers": {
+     "@type": "Offer",
+     "price": "109.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-tag-n-type-153822/363906-1.jpg?w=556&h=833&v=202611131144",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-tag-n-type-153822",
+    "name": "CAMISETA BR REGULAR TAG N TYPE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-extra-bold-logo-153821/363898-1.jpg?w=556&h=833&v=202611131144",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-extra-bold-logo-153821",
+    "name": "CAMISETA BR REGULAR EXTRA BOLD LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-extra-bold-logo-153820/363894-1.jpg?w=556&h=833&v=202611131553",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-extra-bold-logo-153820",
+    "name": "CAMISETA BR REGULAR EXTRA BOLD LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "109.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-rounded-logo-153819/363883-1.jpg?w=556&h=833&v=202611131554",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-rounded-logo-153819",
+    "name": "CAMISETA BR REGULAR ROUNDED LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-rounded-logo-153818/363882-1.jpg?w=556&h=833&v=202611131155",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-rounded-logo-153818",
+    "name": "CAMISETA BR REGULAR ROUNDED LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-globaw-logo-153816/363871-1.jpg?w=556&h=833&v=202611131557",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-globaw-logo-153816",
+    "name": "CAMISETA BR REGULAR GLOBAW LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-globaw-logo-153817/363870-1.jpg?w=556&h=833&v=202611131205",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-globaw-logo-153817",
+    "name": "CAMISETA BR REGULAR GLOBAW LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-slime-153814/363864-1.jpg?w=556&h=833&v=202611131603",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-slime-153814",
+    "name": "CAMISETA BR REGULAR SLIME",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-slime-153815/363855-1.jpg?w=556&h=833&v=202611131218",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-slime-153815",
+    "name": "CAMISETA BR REGULAR SLIME",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-rude-logo-153807/363816-1.jpg?w=556&h=833&v=202611131554",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-rude-logo-153807",
+    "name": "CAMISETA BR REGULAR RUDE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-signature-153806/363812-1.jpg?w=556&h=833&v=202611131209",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-signature-153806",
+    "name": "CAMISETA BR REGULAR BAW SIGNATURE",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-signature-153805/363807-1.jpg?w=556&h=833&v=202611131228",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-signature-153805",
+    "name": "CAMISETA BR REGULAR BAW SIGNATURE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-foundation-153804/363795-1.jpg?w=556&h=833&v=202611131143",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-foundation-153804",
+    "name": "CAMISETA BR REGULAR FOUNDATION",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-foundation-153803/363798-1.jpg?w=556&h=833&v=202611131232",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-foundation-153803",
+    "name": "CAMISETA BR REGULAR FOUNDATION",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-tag-n-type-153802/363786-1.jpg?w=556&h=833&v=202611131200",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-tag-n-type-153802",
+    "name": "CAMISETA BR REGULAR TAG N TYPE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-lumina-153801/363784-1.jpg?w=556&h=833&v=202611131208",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-lumina-153801",
+    "name": "CAMISETA BR REGULAR LUMINA",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-pin-logo-153800/363777-1.jpg?w=556&h=833&v=202611131217",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-pin-logo-153800",
+    "name": "CAMISETA BR REGULAR PIN LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-error-153799/363770-1.jpg?w=556&h=833&v=202611131145",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-error-153799",
+    "name": "CAMISETA BR REGULAR ERROR",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-irie-vibes-153798/363766-1.jpg?w=556&h=833&v=202611131225",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-irie-vibes-153798",
+    "name": "CAMISETA BR REGULAR IRIE VIBES",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-drop-acids-not-bombs-153797/363757-1.jpg?w=556&h=833&v=202611131215",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-drop-acids-not-bombs-153797",
+    "name": "CAMISETA BR REGULAR DROP ACIDS NOT BOMBS",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-blade-153796/363751-1.jpg?w=556&h=833&v=202611131246",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-blade-153796",
+    "name": "CAMISETA BR REGULAR BAW BLADE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-disorder-3-0-153795/363744-1.jpg?w=556&h=833&v=202611131201",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-disorder-3-0-153795",
+    "name": "CAMISETA BR REGULAR DISORDER 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-selfie-logo-153794/363735-1.jpg?w=556&h=833&v=202611131155",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-selfie-logo-153794",
+    "name": "CAMISETA BR REGULAR SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-blossom-153793/363730-1.jpg?w=556&h=833&v=202611131233",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-blossom-153793",
+    "name": "CAMISETA BR REGULAR BLOSSOM",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-taggin-logo-153791/363718-1.jpg?w=556&h=833&v=202611131201",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-taggin-logo-153791",
+    "name": "CAMISETA BR REGULAR TAGGIN LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-extra-bold-logo-153790/363712-1.jpg?w=556&h=833&v=202611131211",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-extra-bold-logo-153790",
+    "name": "CAMISETA BR REGULAR EXTRA BOLD LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-techneon-153789/363706-1.jpg?w=556&h=833&v=202611131206",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-techneon-153789",
+    "name": "CAMISETA BR REGULAR TECHNEON",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-light-paint-153788/363703-1.jpg?w=556&h=833&v=202611131249",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-light-paint-153788",
+    "name": "CAMISETA BR REGULAR LIGHT PAINT",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-dices-153787/363693-1.jpg?w=556&h=833&v=202611131206",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-dices-153787",
+    "name": "CAMISETA BR REGULAR DICES",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-baw-heat-153786/363689-1.jpg?w=556&h=833&v=202611131233",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-baw-heat-153786",
+    "name": "CAMISETA BR REGULAR BAW HEAT",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-intricate-153785/363684-1.jpg?w=556&h=833&v=202611131154",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-intricate-153785",
+    "name": "CAMISETA BR REGULAR INTRICATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-gym-class-logo-153784/363680-1.jpg?w=556&h=833&v=202611131204",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-gym-class-logo-153784",
+    "name": "CAMISETA BR REGULAR GYM CLASS LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-slime-153783/363670-1.jpg?w=556&h=833&v=202611131301",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-slime-153783",
+    "name": "CAMISETA BR REGULAR SLIME",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-selfie-logo-153781/363659-1.jpg?w=556&h=833&v=202611131558",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-selfie-logo-153781",
+    "name": "CAMISETA BR REGULAR SELFIE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-gym-class-logo-153780/363651-1.jpg?w=556&h=833&v=202611131247",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-gym-class-logo-153780",
+    "name": "CAMISETA BR REGULAR GYM CLASS LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-cross-logo-153779/363648-1.jpg?w=556&h=833&v=202611131222",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-cross-logo-153779",
+    "name": "CAMISETA BR REGULAR CROSS LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-extra-bold-logo-153778/363638-1.jpg?w=556&h=833&v=202611131228",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-extra-bold-logo-153778",
+    "name": "CAMISETA BR REGULAR EXTRA BOLD LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-rounded-logo-153777/363634-1.jpg?w=556&h=833&v=202611131143",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-rounded-logo-153777",
+    "name": "CAMISETA BR REGULAR ROUNDED LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-rude-logo-153776/363626-1.jpg?w=556&h=833&v=202611131148",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-rude-logo-153776",
+    "name": "CAMISETA BR REGULAR RUDE LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-boombap-logo-153748/363466-1.jpg?w=556&h=833&v=202611131243",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-boombap-logo-153748",
+    "name": "CAMISETA BR REGULAR BOOMBAP LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-br-regular-globaw-logo-153746/363453-1.jpg?w=556&h=833&v=202611131151",
+    "url": "https://www.bawclothing.com.br/camiseta-br-regular-globaw-logo-153746",
+    "name": "CAMISETA BR REGULAR GLOBAW LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-athletic-logo-3-0-150813/340355.jpg?w=556&h=833&v=202509170244",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-athletic-logo-3-0-150813",
+    "name": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-noise-makers-151889/362932-1.jpg?w=556&h=833&v=202604081154",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-noise-makers-151889",
+    "name": "CAMISETA REGULAR BAW NOISE MAKERS",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-from-the-bottom-151957/362875-1.jpg?w=556&h=833&v=202603271748",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-from-the-bottom-151957",
+    "name": "CAMISETA REGULAR FROM THE BOTTOM",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-pyle-151831/362874-1.jpg?w=556&h=833&v=202603271747",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-pyle-151831",
+    "name": "CAMISETA REGULAR BAW PYLE",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-abduction-151946/362844-1.jpg?w=556&h=833&v=202603271744",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-abduction-151946",
+    "name": "CAMISETA REGULAR BAW ABDUCTION",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-abduction-152003/362824-1.jpg?w=556&h=833&v=202603271742",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-abduction-152003",
+    "name": "CAMISETA REGULAR BAW ABDUCTION",
+    "offers": {
+     "@type": "Offer",
+     "price": "69.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-crew-151842/362821-1.jpg?w=556&h=833&v=202603271742",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-crew-151842",
+    "name": "CAMISETA REGULAR BAW CREW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-eroded-151816/362841-1.jpg?w=556&h=833&v=202603271744",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-eroded-151816",
+    "name": "CAMISETA REGULAR BAW ERODED",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-interlaced-151928/362858-1.jpg?w=556&h=833&v=202603271746",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-interlaced-151928",
+    "name": "CAMISETA REGULAR BAW INTERLACED",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-college-151893/362798-1.jpg?w=556&h=833&v=202603261127",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-college-151893",
+    "name": "CAMISETA REGULAR BAW COLLEGE",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-wide-151956/362771-1.jpg?w=556&h=833&v=202603271723",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-wide-151956",
+    "name": "CAMISETA REGULAR BAW WIDE",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-blur-152005/362757-1.jpg?w=556&h=833&v=202603271703",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-blur-152005",
+    "name": "CAMISETA REGULAR BAW BLUR",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-mucho-gusto-151848/362726-1.jpg?w=556&h=833&v=202603271720",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-mucho-gusto-151848",
+    "name": "CAMISETA REGULAR MUCHO GUSTO",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-baw-blur-151875/362743-1.jpg?w=556&h=833&v=202603271702",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-baw-blur-151875",
+    "name": "CAMISETA REGULAR BAW BLUR",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153894",
+   "href": "/camiseta-br-regular-search-logo-153894",
+   "nome": "CAMISETA BR REGULAR SEARCH LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Cinza Mescla",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153893",
+   "href": "/camiseta-br-regular-baw-interstellar-153893",
+   "nome": "CAMISETA BR REGULAR BAW INTERSTELLAR",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Cinza Mescla",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153892",
+   "href": "/camiseta-br-regular-new-endless-summer-153892",
+   "nome": "CAMISETA BR REGULAR NEW ENDLESS SUMMER",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "46%",
+   "selos": null,
+   "cor": "Cinza Mescla",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153891",
+   "href": "/camiseta-br-regular-baw-sao-paulo-153891",
+   "nome": "CAMISETA BR REGULAR BAW SAO PAULO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Cinza Mescla",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153890",
+   "href": "/camiseta-br-regular-selfie-logo-153890",
+   "nome": "CAMISETA BR REGULAR SELFIE LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Cinza Mescla",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153883",
+   "href": "/camiseta-br-regular-taggin-logo-153883",
+   "nome": "CAMISETA BR REGULAR TAGGIN LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153882",
+   "href": "/camiseta-br-regular-rude-logo-153882",
+   "nome": "CAMISETA BR REGULAR RUDE LOGO",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153881",
+   "href": "/camiseta-br-regular-lumina-153881",
+   "nome": "CAMISETA BR REGULAR LUMINA",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153860",
+   "href": "/camiseta-br-regular-focused-153860",
+   "nome": "CAMISETA BR REGULAR FOCUSED",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153859",
+   "href": "/camiseta-br-regular-focused-153859",
+   "nome": "CAMISETA BR REGULAR FOCUSED",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153858",
+   "href": "/camiseta-br-regular-pin-logo-153858",
+   "nome": "CAMISETA BR REGULAR PIN LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153857",
+   "href": "/camiseta-br-regular-pin-logo-153857",
+   "nome": "CAMISETA BR REGULAR PIN LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153856",
+   "href": "/camiseta-br-regular-error-153856",
+   "nome": "CAMISETA BR REGULAR ERROR",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153855",
+   "href": "/camiseta-br-regular-error-153855",
+   "nome": "CAMISETA BR REGULAR ERROR",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153854",
+   "href": "/camiseta-br-regular-irie-vibes-153854",
+   "nome": "CAMISETA BR REGULAR IRIE VIBES",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153853",
+   "href": "/camiseta-br-regular-irie-vibes-153853",
+   "nome": "CAMISETA BR REGULAR IRIE VIBES",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153852",
+   "href": "/camiseta-br-regular-drop-acids-not-bombs-153852",
+   "nome": "CAMISETA BR REGULAR DROP ACIDS NOT BOMBS",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153851",
+   "href": "/camiseta-br-regular-baw-blade-153851",
+   "nome": "CAMISETA BR REGULAR BAW BLADE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153850",
+   "href": "/camiseta-br-regular-disorder-3-0-153850",
+   "nome": "CAMISETA BR REGULAR DISORDER 3.0",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153849",
+   "href": "/camiseta-br-regular-disorder-3-0-153849",
+   "nome": "CAMISETA BR REGULAR DISORDER 3.0",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153848",
+   "href": "/camiseta-br-regular-selfie-logo-153848",
+   "nome": "CAMISETA BR REGULAR SELFIE LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153847",
+   "href": "/camiseta-br-regular-dog-person-153847",
+   "nome": "CAMISETA BR REGULAR DOG PERSON",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153846",
+   "href": "/camiseta-br-regular-taggin-logo-153846",
+   "nome": "CAMISETA BR REGULAR TAGGIN LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153845",
+   "href": "/camiseta-br-regular-new-wave-153845",
+   "nome": "CAMISETA BR REGULAR NEW WAVE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153844",
+   "href": "/camiseta-br-regular-new-wave-153844",
+   "nome": "CAMISETA BR REGULAR NEW WAVE",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153843",
+   "href": "/camiseta-br-regular-new-wave-153843",
+   "nome": "CAMISETA BR REGULAR NEW WAVE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153842",
+   "href": "/camiseta-br-regular-techneon-153842",
+   "nome": "CAMISETA BR REGULAR TECHNEON",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153841",
+   "href": "/camiseta-br-regular-techneon-153841",
+   "nome": "CAMISETA BR REGULAR TECHNEON",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153840",
+   "href": "/camiseta-br-regular-light-paint-153840",
+   "nome": "CAMISETA BR REGULAR LIGHT PAINT",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153839",
+   "href": "/camiseta-br-regular-light-paint-153839",
+   "nome": "CAMISETA BR REGULAR LIGHT PAINT",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153838",
+   "href": "/camiseta-br-regular-dices-153838",
+   "nome": "CAMISETA BR REGULAR DICES",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153837",
+   "href": "/camiseta-br-regular-dices-153837",
+   "nome": "CAMISETA BR REGULAR DICES",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153836",
+   "href": "/camiseta-br-regular-baw-heat-153836",
+   "nome": "CAMISETA BR REGULAR BAW HEAT",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153835",
+   "href": "/camiseta-br-regular-baw-heat-153835",
+   "nome": "CAMISETA BR REGULAR BAW HEAT",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153834",
+   "href": "/camiseta-br-regular-intricate-153834",
+   "nome": "CAMISETA BR REGULAR INTRICATE",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153833",
+   "href": "/camiseta-br-regular-we-love-baw-153833",
+   "nome": "CAMISETA BR REGULAR WE LOVE BAW",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153831",
+   "href": "/camiseta-br-regular-cube-logo-153831",
+   "nome": "CAMISETA BR REGULAR CUBE LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153830",
+   "href": "/camiseta-br-regular-flaming-baw-153830",
+   "nome": "CAMISETA BR REGULAR FLAMING BAW",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153829",
+   "href": "/camiseta-br-regular-flaming-baw-153829",
+   "nome": "CAMISETA BR REGULAR FLAMING BAW",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153828",
+   "href": "/camiseta-br-regular-boombap-logo-153828",
+   "nome": "CAMISETA BR REGULAR BOOMBAP LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "46%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153827",
+   "href": "/camiseta-br-regular-gym-class-logo-153827",
+   "nome": "CAMISETA BR REGULAR GYM CLASS LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153826",
+   "href": "/camiseta-br-regular-baw-signature-153826",
+   "nome": "CAMISETA BR REGULAR BAW SIGNATURE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153825",
+   "href": "/camiseta-br-regular-cross-logo-153825",
+   "nome": "CAMISETA BR REGULAR CROSS LOGO",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153824",
+   "href": "/camiseta-br-regular-lumina-153824",
+   "nome": "CAMISETA BR REGULAR LUMINA",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153823",
+   "href": "/camiseta-br-regular-tag-n-type-153823",
+   "nome": "CAMISETA BR REGULAR TAG N TYPE",
+   "preco": "R$ 109,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153822",
+   "href": "/camiseta-br-regular-tag-n-type-153822",
+   "nome": "CAMISETA BR REGULAR TAG N TYPE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153821",
+   "href": "/camiseta-br-regular-extra-bold-logo-153821",
+   "nome": "CAMISETA BR REGULAR EXTRA BOLD LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153820",
+   "href": "/camiseta-br-regular-extra-bold-logo-153820",
+   "nome": "CAMISETA BR REGULAR EXTRA BOLD LOGO",
+   "preco": "R$ 109,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153819",
+   "href": "/camiseta-br-regular-rounded-logo-153819",
+   "nome": "CAMISETA BR REGULAR ROUNDED LOGO",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153818",
+   "href": "/camiseta-br-regular-rounded-logo-153818",
+   "nome": "CAMISETA BR REGULAR ROUNDED LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153816",
+   "href": "/camiseta-br-regular-globaw-logo-153816",
+   "nome": "CAMISETA BR REGULAR GLOBAW LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153817",
+   "href": "/camiseta-br-regular-globaw-logo-153817",
+   "nome": "CAMISETA BR REGULAR GLOBAW LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153814",
+   "href": "/camiseta-br-regular-slime-153814",
+   "nome": "CAMISETA BR REGULAR SLIME",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153815",
+   "href": "/camiseta-br-regular-slime-153815",
+   "nome": "CAMISETA BR REGULAR SLIME",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153807",
+   "href": "/camiseta-br-regular-rude-logo-153807",
+   "nome": "CAMISETA BR REGULAR RUDE LOGO",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153806",
+   "href": "/camiseta-br-regular-baw-signature-153806",
+   "nome": "CAMISETA BR REGULAR BAW SIGNATURE",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153805",
+   "href": "/camiseta-br-regular-baw-signature-153805",
+   "nome": "CAMISETA BR REGULAR BAW SIGNATURE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153804",
+   "href": "/camiseta-br-regular-foundation-153804",
+   "nome": "CAMISETA BR REGULAR FOUNDATION",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153803",
+   "href": "/camiseta-br-regular-foundation-153803",
+   "nome": "CAMISETA BR REGULAR FOUNDATION",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153802",
+   "href": "/camiseta-br-regular-tag-n-type-153802",
+   "nome": "CAMISETA BR REGULAR TAG N TYPE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153801",
+   "href": "/camiseta-br-regular-lumina-153801",
+   "nome": "CAMISETA BR REGULAR LUMINA",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153800",
+   "href": "/camiseta-br-regular-pin-logo-153800",
+   "nome": "CAMISETA BR REGULAR PIN LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153799",
+   "href": "/camiseta-br-regular-error-153799",
+   "nome": "CAMISETA BR REGULAR ERROR",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "46%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153798",
+   "href": "/camiseta-br-regular-irie-vibes-153798",
+   "nome": "CAMISETA BR REGULAR IRIE VIBES",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153797",
+   "href": "/camiseta-br-regular-drop-acids-not-bombs-153797",
+   "nome": "CAMISETA BR REGULAR DROP ACIDS NOT BOMBS",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153796",
+   "href": "/camiseta-br-regular-baw-blade-153796",
+   "nome": "CAMISETA BR REGULAR BAW BLADE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153795",
+   "href": "/camiseta-br-regular-disorder-3-0-153795",
+   "nome": "CAMISETA BR REGULAR DISORDER 3.0",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153794",
+   "href": "/camiseta-br-regular-selfie-logo-153794",
+   "nome": "CAMISETA BR REGULAR SELFIE LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153793",
+   "href": "/camiseta-br-regular-blossom-153793",
+   "nome": "CAMISETA BR REGULAR BLOSSOM",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153791",
+   "href": "/camiseta-br-regular-taggin-logo-153791",
+   "nome": "CAMISETA BR REGULAR TAGGIN LOGO",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "37%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153790",
+   "href": "/camiseta-br-regular-extra-bold-logo-153790",
+   "nome": "CAMISETA BR REGULAR EXTRA BOLD LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153789",
+   "href": "/camiseta-br-regular-techneon-153789",
+   "nome": "CAMISETA BR REGULAR TECHNEON",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153788",
+   "href": "/camiseta-br-regular-light-paint-153788",
+   "nome": "CAMISETA BR REGULAR LIGHT PAINT",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153787",
+   "href": "/camiseta-br-regular-dices-153787",
+   "nome": "CAMISETA BR REGULAR DICES",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153786",
+   "href": "/camiseta-br-regular-baw-heat-153786",
+   "nome": "CAMISETA BR REGULAR BAW HEAT",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 109,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153785",
+   "href": "/camiseta-br-regular-intricate-153785",
+   "nome": "CAMISETA BR REGULAR INTRICATE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153784",
+   "href": "/camiseta-br-regular-gym-class-logo-153784",
+   "nome": "CAMISETA BR REGULAR GYM CLASS LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153783",
+   "href": "/camiseta-br-regular-slime-153783",
+   "nome": "CAMISETA BR REGULAR SLIME",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153781",
+   "href": "/camiseta-br-regular-selfie-logo-153781",
+   "nome": "CAMISETA BR REGULAR SELFIE LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Preto Stoned",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153780",
+   "href": "/camiseta-br-regular-gym-class-logo-153780",
+   "nome": "CAMISETA BR REGULAR GYM CLASS LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153779",
+   "href": "/camiseta-br-regular-cross-logo-153779",
+   "nome": "CAMISETA BR REGULAR CROSS LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "51%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153778",
+   "href": "/camiseta-br-regular-extra-bold-logo-153778",
+   "nome": "CAMISETA BR REGULAR EXTRA BOLD LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153777",
+   "href": "/camiseta-br-regular-rounded-logo-153777",
+   "nome": "CAMISETA BR REGULAR ROUNDED LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153776",
+   "href": "/camiseta-br-regular-rude-logo-153776",
+   "nome": "CAMISETA BR REGULAR RUDE LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153748",
+   "href": "/camiseta-br-regular-boombap-logo-153748",
+   "nome": "CAMISETA BR REGULAR BOOMBAP LOGO",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153746",
+   "href": "/camiseta-br-regular-globaw-logo-153746",
+   "nome": "CAMISETA BR REGULAR GLOBAW LOGO",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 99,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150813",
+   "href": "/camiseta-regular-athletic-logo-3-0-150813",
+   "nome": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151889",
+   "href": "/camiseta-regular-baw-noise-makers-151889",
+   "nome": "CAMISETA REGULAR BAW NOISE MAKERS",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151957",
+   "href": "/camiseta-regular-from-the-bottom-151957",
+   "nome": "CAMISETA REGULAR FROM THE BOTTOM",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151831",
+   "href": "/camiseta-regular-baw-pyle-151831",
+   "nome": "CAMISETA REGULAR BAW PYLE",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151946",
+   "href": "/camiseta-regular-baw-abduction-151946",
+   "nome": "CAMISETA REGULAR BAW ABDUCTION",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152003",
+   "href": "/camiseta-regular-baw-abduction-152003",
+   "nome": "CAMISETA REGULAR BAW ABDUCTION",
+   "preco": "R$ 69,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151842",
+   "href": "/camiseta-regular-baw-crew-151842",
+   "nome": "CAMISETA REGULAR BAW CREW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151816",
+   "href": "/camiseta-regular-baw-eroded-151816",
+   "nome": "CAMISETA REGULAR BAW ERODED",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "43%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151928",
+   "href": "/camiseta-regular-baw-interlaced-151928",
+   "nome": "CAMISETA REGULAR BAW INTERLACED",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "36%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151893",
+   "href": "/camiseta-regular-baw-college-151893",
+   "nome": "CAMISETA REGULAR BAW COLLEGE",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 169,00",
+   "selo_off": "53%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151956",
+   "href": "/camiseta-regular-baw-wide-151956",
+   "nome": "CAMISETA REGULAR BAW WIDE",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152005",
+   "href": "/camiseta-regular-baw-blur-152005",
+   "nome": "CAMISETA REGULAR BAW BLUR",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151848",
+   "href": "/camiseta-regular-mucho-gusto-151848",
+   "nome": "CAMISETA REGULAR MUCHO GUSTO",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151875",
+   "href": "/camiseta-regular-baw-blur-151875",
+   "nome": "CAMISETA REGULAR BAW BLUR",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 139,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  }
+ ]
+}

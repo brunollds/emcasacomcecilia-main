@@ -1,0 +1,479 @@
+{
+ "arquivo_origem": "bf-shorts89-p1.html",
+ "sha256_origem": "f43fcf6360dd0770c146cf7b6ac0d0dc443d203d1448ccef6bd831fe26cec9ec",
+ "titulo": null,
+ "title_pagina": "Black Friday Shorts",
+ "contagem_pagina": 21,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/shorts89",
+  "numberOfItems": "21",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151314/346234.jpg?w=556&h=833&v=202510100939",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151314",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151312/346224.jpg?w=556&h=833&v=202510101006",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151312",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-biker-fit-digital-essentials-150388/338148.jpg?w=556&h=833&v=202512161105",
+    "url": "https://www.bawclothing.com.br/shorts-biker-fit-digital-essentials-150388",
+    "name": "SHORTS BIKER FIT DIGITAL ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-gym-long-digital-essentials-150367/338104.jpg?w=556&h=833&v=202510271435",
+    "url": "https://www.bawclothing.com.br/bermuda-gym-long-digital-essentials-150367",
+    "name": "BERMUDA GYM LONG DIGITAL ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/pool-shorts-baw-x-smiley-150189/336948.jpg?w=556&h=833&v=202509082243",
+    "url": "https://www.bawclothing.com.br/pool-shorts-baw-x-smiley-150189",
+    "name": "POOL SHORTS BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-boy-classics-150370/338062-1.jpg?w=556&h=833&v=202608191437",
+    "url": "https://www.bawclothing.com.br/shorts-boy-classics-150370",
+    "name": "SHORTS BOY CLASSICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "119.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/pool-shorts-baw-outdoor-151080/341870-1.jpg?w=556&h=833&v=202608191412",
+    "url": "https://www.bawclothing.com.br/pool-shorts-baw-outdoor-151080",
+    "name": "POOL SHORTS BAW OUTDOOR",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-tourist-baw-summertime-150423/338436.jpg?w=556&h=833&v=202510171710",
+    "url": "https://www.bawclothing.com.br/shorts-tourist-baw-summertime-150423",
+    "name": "SHORTS TOURIST BAW SUMMERTIME",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-summer-basic-150204/337052.jpg?w=556&h=833&v=202603131135",
+    "url": "https://www.bawclothing.com.br/bermuda-summer-basic-150204",
+    "name": "BERMUDA SUMMER BASIC",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/beach-shorts-waves-150557/339045.jpg?w=556&h=833&v=202510231701",
+    "url": "https://www.bawclothing.com.br/beach-shorts-waves-150557",
+    "name": "BEACH SHORTS WAVES",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/pool-shorts-baw-outdoor-151079/341899-1.jpg?w=556&h=833&v=202608191411",
+    "url": "https://www.bawclothing.com.br/pool-shorts-baw-outdoor-151079",
+    "name": "POOL SHORTS BAW OUTDOOR",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-boy-baw-core-151078/341924.jpg?w=556&h=833&v=202508291959",
+    "url": "https://www.bawclothing.com.br/shorts-boy-baw-core-151078",
+    "name": "SHORTS BOY BAW CORE",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/pool-shorts-classy-colorblock-151082/341888-1.jpg?w=556&h=833&v=202511052004",
+    "url": "https://www.bawclothing.com.br/pool-shorts-classy-colorblock-151082",
+    "name": "POOL SHORTS CLASSY COLORBLOCK",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-friso-150629/339353-1.jpg?w=556&h=833&v=202608191516",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-friso-150629",
+    "name": "BERMUDA JEANS FRISO",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-cargo-basic-classy-150619/339332.jpg?w=556&h=833&v=202509161258",
+    "url": "https://www.bawclothing.com.br/bermuda-cargo-basic-classy-150619",
+    "name": "BERMUDA CARGO BASIC CLASSY",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-carpenter-baw-x-smiley-150552/339022.jpg?w=556&h=833&v=202509170049",
+    "url": "https://www.bawclothing.com.br/bermuda-carpenter-baw-x-smiley-150552",
+    "name": "BERMUDA CARPENTER BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-simple-baw-150941/341166-1.jpg?w=556&h=833&v=202511051623",
+    "url": "https://www.bawclothing.com.br/bermuda-simple-baw-150941",
+    "name": "BERMUDA SIMPLE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-simple-baw-150940/341164.jpg?w=556&h=833&v=202510291554",
+    "url": "https://www.bawclothing.com.br/bermuda-simple-baw-150940",
+    "name": "BERMUDA SIMPLE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-cargo-earthy-garden-150628/339377.jpg?w=556&h=833&v=202511111154",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-cargo-earthy-garden-150628",
+    "name": "BERMUDA JEANS CARGO EARTHY GARDEN",
+    "offers": {
+     "@type": "Offer",
+     "price": "279.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-new-vibes-premium-essentials-150623/339354.jpg?w=556&h=833&v=202510231719",
+    "url": "https://www.bawclothing.com.br/bermuda-new-vibes-premium-essentials-150623",
+    "name": "BERMUDA  NEW VIBES PREMIUM ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "289.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-5-pockets-baw-x-chevrolet-150963/341292.jpg?w=556&h=833&v=202509181730",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-5-pockets-baw-x-chevrolet-150963",
+    "name": "BERMUDA JEANS 5 POCKETS BAW X CHEVROLET",
+    "offers": {
+     "@type": "Offer",
+     "price": "349.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "151314",
+   "href": "/shorts-reverse-kids-151314",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151312",
+   "href": "/shorts-reverse-kids-151312",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150388",
+   "href": "/shorts-biker-fit-digital-essentials-150388",
+   "nome": "SHORTS BIKER FIT DIGITAL ESSENTIALS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 229,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Cinza Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150367",
+   "href": "/bermuda-gym-long-digital-essentials-150367",
+   "nome": "BERMUDA GYM LONG DIGITAL ESSENTIALS",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 269,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Cinza Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150189",
+   "href": "/pool-shorts-baw-x-smiley-150189",
+   "nome": "POOL SHORTS BAW X SMILEY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 329,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Areia",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150370",
+   "href": "/shorts-boy-classics-150370",
+   "nome": "SHORTS BOY CLASSICS",
+   "preco": "R$ 119,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151080",
+   "href": "/pool-shorts-baw-outdoor-151080",
+   "nome": "POOL SHORTS BAW OUTDOOR",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150423",
+   "href": "/shorts-tourist-baw-summertime-150423",
+   "nome": "SHORTS TOURIST BAW SUMMERTIME",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 359,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150204",
+   "href": "/bermuda-summer-basic-150204",
+   "nome": "BERMUDA SUMMER BASIC",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "63%",
+   "selos": null,
+   "cor": "Amarelo Cupuacu",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150557",
+   "href": "/beach-shorts-waves-150557",
+   "nome": "BEACH SHORTS WAVES",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 439,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151079",
+   "href": "/pool-shorts-baw-outdoor-151079",
+   "nome": "POOL SHORTS BAW OUTDOOR",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Verde Militar",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151078",
+   "href": "/shorts-boy-baw-core-151078",
+   "nome": "SHORTS BOY BAW CORE",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 319,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Cinza Chumbo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151082",
+   "href": "/pool-shorts-classy-colorblock-151082",
+   "nome": "POOL SHORTS CLASSY COLORBLOCK",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Azul/Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150629",
+   "href": "/bermuda-jeans-friso-150629",
+   "nome": "BERMUDA JEANS FRISO",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 339,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Indigo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150619",
+   "href": "/bermuda-cargo-basic-classy-150619",
+   "nome": "BERMUDA CARGO BASIC CLASSY",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Caqui",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150552",
+   "href": "/bermuda-carpenter-baw-x-smiley-150552",
+   "nome": "BERMUDA CARPENTER BAW X SMILEY",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 529,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150941",
+   "href": "/bermuda-simple-baw-150941",
+   "nome": "BERMUDA SIMPLE BAW",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 309,00",
+   "selo_off": "23%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150940",
+   "href": "/bermuda-simple-baw-150940",
+   "nome": "BERMUDA SIMPLE BAW",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 309,00",
+   "selo_off": "23%",
+   "selos": null,
+   "cor": "Bege Castanha",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150628",
+   "href": "/bermuda-jeans-cargo-earthy-garden-150628",
+   "nome": "BERMUDA JEANS CARGO EARTHY GARDEN",
+   "preco": "R$ 279,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150623",
+   "href": "/bermuda-new-vibes-premium-essentials-150623",
+   "nome": "BERMUDA NEW VIBES PREMIUM ESSENTIALS",
+   "preco": "R$ 289,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150963",
+   "href": "/bermuda-jeans-5-pockets-baw-x-chevrolet-150963",
+   "nome": "BERMUDA JEANS 5 POCKETS BAW X CHEVROLET",
+   "preco": "R$ 349,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  }
+ ]
+}

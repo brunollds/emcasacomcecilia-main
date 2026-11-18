@@ -1,0 +1,303 @@
+{
+ "arquivo_origem": "bf-shorts-p1.html",
+ "sha256_origem": "bbebe17f9b50aeb5101d63dde035ff4f4d522cb78724138c2ad9403ff310a065",
+ "titulo": "Shorts",
+ "title_pagina": "Shorts - Black Friday - Baw Clothing",
+ "contagem_pagina": 13,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/shorts",
+  "numberOfItems": "13",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-long-snip-easy-life-151641/357548-1.jpg?w=556&h=833&v=202511111058",
+    "url": "https://www.bawclothing.com.br/bermuda-long-snip-easy-life-151641",
+    "name": "BERMUDA LONG SNIP EASY LIFE",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/beach-shorts-basic-elipse-153554/362012-1.jpg?w=556&h=833&v=202607101156",
+    "url": "https://www.bawclothing.com.br/beach-shorts-basic-elipse-153554",
+    "name": "BEACH SHORTS BASIC ELIPSE",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/beach-shorts-waves-150557/339045.jpg?w=556&h=833&v=202510231701",
+    "url": "https://www.bawclothing.com.br/beach-shorts-waves-150557",
+    "name": "BEACH SHORTS WAVES",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-simple-baw-150940/341164.jpg?w=556&h=833&v=202510291554",
+    "url": "https://www.bawclothing.com.br/bermuda-simple-baw-150940",
+    "name": "BERMUDA SIMPLE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-ollie-classics-151654/348956.jpg?w=556&h=833&v=202510281139",
+    "url": "https://www.bawclothing.com.br/bermuda-ollie-classics-151654",
+    "name": "BERMUDA OLLIE CLASSICS",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-carpenter-global-150563/339114.jpg?w=556&h=833&v=202509170000",
+    "url": "https://www.bawclothing.com.br/bermuda-carpenter-global-150563",
+    "name": "Bermuda Carpenter Global",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-carpenter-baw-x-smiley-150552/339022.jpg?w=556&h=833&v=202509170049",
+    "url": "https://www.bawclothing.com.br/bermuda-carpenter-baw-x-smiley-150552",
+    "name": "BERMUDA CARPENTER BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "219.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-urban-baw-x-sd-150950/341235.jpg?w=556&h=833&v=202510291557",
+    "url": "https://www.bawclothing.com.br/bermuda-urban-baw-x-sd-150950",
+    "name": "BERMUDA URBAN BAW X SD",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-new-vibes-premium-essentials-150623/339354.jpg?w=556&h=833&v=202510231719",
+    "url": "https://www.bawclothing.com.br/bermuda-new-vibes-premium-essentials-150623",
+    "name": "BERMUDA  NEW VIBES PREMIUM ESSENTIALS",
+    "offers": {
+     "@type": "Offer",
+     "price": "289.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/boardshort-california-baw-r-listras-151331/346411.jpg?w=556&h=833&v=202510291720",
+    "url": "https://www.bawclothing.com.br/boardshort-california-baw-r-listras-151331",
+    "name": "BOARDSHORT CALIFORNIA BAW R LISTRAS",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-5-pockets-baw-x-chevrolet-150963/341292.jpg?w=556&h=833&v=202509181730",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-5-pockets-baw-x-chevrolet-150963",
+    "name": "BERMUDA JEANS 5 POCKETS BAW X CHEVROLET",
+    "offers": {
+     "@type": "Offer",
+     "price": "349.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-simple-baw-150941/341166-1.jpg?w=556&h=833&v=202511051623",
+    "url": "https://www.bawclothing.com.br/bermuda-simple-baw-150941",
+    "name": "BERMUDA SIMPLE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-flip-street-racing-150618/339356.jpg?w=556&h=833&v=202509162315",
+    "url": "https://www.bawclothing.com.br/bermuda-flip-street-racing-150618",
+    "name": "BERMUDA FLIP STREET RACING",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "151641",
+   "href": "/bermuda-long-snip-easy-life-151641",
+   "nome": "BERMUDA LONG SNIP EASY LIFE",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "UNISEX"
+  },
+  {
+   "id": "153554",
+   "href": "/beach-shorts-basic-elipse-153554",
+   "nome": "BEACH SHORTS BASIC ELIPSE",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "80%",
+   "selos": null,
+   "cor": "Amarelo Fluor",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150557",
+   "href": "/beach-shorts-waves-150557",
+   "nome": "BEACH SHORTS WAVES",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 439,00",
+   "selo_off": "57%",
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150940",
+   "href": "/bermuda-simple-baw-150940",
+   "nome": "BERMUDA SIMPLE BAW",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 309,00",
+   "selo_off": "23%",
+   "selos": null,
+   "cor": "Bege Castanha",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151654",
+   "href": "/bermuda-ollie-classics-151654",
+   "nome": "BERMUDA OLLIE CLASSICS",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 459,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Chocolate",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150563",
+   "href": "/bermuda-carpenter-global-150563",
+   "nome": "Bermuda Carpenter Global",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Azul Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150552",
+   "href": "/bermuda-carpenter-baw-x-smiley-150552",
+   "nome": "BERMUDA CARPENTER BAW X SMILEY",
+   "preco": "R$ 219,00",
+   "preco_de": "R$ 529,00",
+   "selo_off": "59%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150950",
+   "href": "/bermuda-urban-baw-x-sd-150950",
+   "nome": "BERMUDA URBAN BAW X SD",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 269,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150623",
+   "href": "/bermuda-new-vibes-premium-essentials-150623",
+   "nome": "BERMUDA NEW VIBES PREMIUM ESSENTIALS",
+   "preco": "R$ 289,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "42%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151331",
+   "href": "/boardshort-california-baw-r-listras-151331",
+   "nome": "BOARDSHORT CALIFORNIA BAW R LISTRAS",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 329,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150963",
+   "href": "/bermuda-jeans-5-pockets-baw-x-chevrolet-150963",
+   "nome": "BERMUDA JEANS 5 POCKETS BAW X CHEVROLET",
+   "preco": "R$ 349,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150941",
+   "href": "/bermuda-simple-baw-150941",
+   "nome": "BERMUDA SIMPLE BAW",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 309,00",
+   "selo_off": "23%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150618",
+   "href": "/bermuda-flip-street-racing-150618",
+   "nome": "BERMUDA FLIP STREET RACING",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "60%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

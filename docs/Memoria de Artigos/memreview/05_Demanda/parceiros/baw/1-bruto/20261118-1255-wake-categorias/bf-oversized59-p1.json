@@ -1,0 +1,215 @@
+{
+ "arquivo_origem": "bf-oversized59-p1.html",
+ "sha256_origem": "153b5575da60eb3a605cf8eed4ae0418b5c7b0d27bf20415e11ff60ce44e7844",
+ "titulo": null,
+ "title_pagina": "Black Friday Oversized",
+ "contagem_pagina": 9,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/oversized59",
+  "numberOfItems": "9",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-kids-baw-heritage-151149/342253.jpg?w=556&h=833&v=202511111129",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-kids-baw-heritage-151149",
+    "name": "CAMISETA OVERSIZED KIDS BAW HERITAGE",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-fresh-150906/340932.jpg?w=556&h=833&v=202602031437",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-fresh-150906",
+    "name": "CAMISETA OVERSIZED BAW FRESH",
+    "offers": {
+     "@type": "Offer",
+     "price": "79.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-oversized-selfie-logo-colors-151069/341884-1.jpg?w=556&h=833&v=202605151710",
+    "url": "https://www.bawclothing.com.br/regata-oversized-selfie-logo-colors-151069",
+    "name": "REGATA OVERSIZED SELFIE LOGO COLORS",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-fresh-150907/340924.jpg?w=556&h=833&v=202509161327",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-fresh-150907",
+    "name": "CAMISETA OVERSIZED BAW FRESH",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-baw-heritage-151175/342409.jpg?w=556&h=833&v=202509161403",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-heritage-151175",
+    "name": "CAMISETA OVERSIZED BAW HERITAGE",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-windows-150501/338772.jpg?w=556&h=833&v=202510141600",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-windows-150501",
+    "name": "CAMISETA OVERSIZED  WINDOWS",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/polo-oversized-garden-151135/342176.jpg?w=556&h=833&v=202510031723",
+    "url": "https://www.bawclothing.com.br/polo-oversized-garden-151135",
+    "name": "POLO OVERSIZED GARDEN",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-oversized-baw-x-smiley-150536/338950.jpg?w=556&h=833&v=202509170151",
+    "url": "https://www.bawclothing.com.br/sweatshirt-oversized-baw-x-smiley-150536",
+    "name": "SWEATSHIRT OVERSIZED BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "279.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-courage-baw-x-cartoon-150540/338978.jpg?w=556&h=833&v=202509181718",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-courage-baw-x-cartoon-150540",
+    "name": "CAMISETA OVERSIZED COURAGE BAW X CARTOON",
+    "offers": {
+     "@type": "Offer",
+     "price": "319.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "151149",
+   "href": "/camiseta-oversized-kids-baw-heritage-151149",
+   "nome": "CAMISETA OVERSIZED KIDS BAW HERITAGE",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "67%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150906",
+   "href": "/camiseta-oversized-baw-fresh-150906",
+   "nome": "CAMISETA OVERSIZED BAW FRESH",
+   "preco": "R$ 79,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151069",
+   "href": "/regata-oversized-selfie-logo-colors-151069",
+   "nome": "REGATA OVERSIZED SELFIE LOGO COLORS",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150907",
+   "href": "/camiseta-oversized-baw-fresh-150907",
+   "nome": "CAMISETA OVERSIZED BAW FRESH",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151175",
+   "href": "/camiseta-oversized-baw-heritage-151175",
+   "nome": "CAMISETA OVERSIZED BAW HERITAGE",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 209,00",
+   "selo_off": "29%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150501",
+   "href": "/camiseta-oversized-windows-150501",
+   "nome": "CAMISETA OVERSIZED WINDOWS",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151135",
+   "href": "/polo-oversized-garden-151135",
+   "nome": "POLO OVERSIZED GARDEN",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150536",
+   "href": "/sweatshirt-oversized-baw-x-smiley-150536",
+   "nome": "SWEATSHIRT OVERSIZED BAW X SMILEY",
+   "preco": "R$ 279,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Azul Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150540",
+   "href": "/camiseta-oversized-courage-baw-x-cartoon-150540",
+   "nome": "CAMISETA OVERSIZED COURAGE BAW X CARTOON",
+   "preco": "R$ 319,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

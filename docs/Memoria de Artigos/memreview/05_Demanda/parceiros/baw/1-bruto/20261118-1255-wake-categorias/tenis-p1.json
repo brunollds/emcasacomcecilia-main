@@ -1,0 +1,193 @@
+{
+ "arquivo_origem": "tenis-p1.html",
+ "sha256_origem": "7815b1f77878cc7182b1968a41c93a82651ecda405f656a91e89451de16d8282",
+ "titulo": "Tênis",
+ "title_pagina": "Tênis - Calçados - Baw Clothing",
+ "contagem_pagina": 8,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/calcados/tenis",
+  "numberOfItems": "8",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tenis-baw-thunder-151236/345152.jpg?w=556&h=833&v=202511211840",
+    "url": "https://www.bawclothing.com.br/tenis-baw-thunder-151236",
+    "name": "TENIS BAW THUNDER",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tenis-grip-mad-150379/338151.jpg?w=556&h=833&v=202602201743",
+    "url": "https://www.bawclothing.com.br/tenis-grip-mad-150379",
+    "name": "TENIS GRIP MAD",
+    "offers": {
+     "@type": "Offer",
+     "price": "239.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tenis-baw-baseline-151235/345115.jpg?w=556&h=833&v=202511211915",
+    "url": "https://www.bawclothing.com.br/tenis-baw-baseline-151235",
+    "name": "TENIS BAW BASELINE",
+    "offers": {
+     "@type": "Offer",
+     "price": "259.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tenis-baw-audacity-151247/345159.jpg?w=556&h=833&v=202512011127",
+    "url": "https://www.bawclothing.com.br/tenis-baw-audacity-151247",
+    "name": "TENIS BAW AUDACITY",
+    "offers": {
+     "@type": "Offer",
+     "price": "279.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tenis-baw-baseline-151242/345064.jpg?w=556&h=833&v=202511211342",
+    "url": "https://www.bawclothing.com.br/tenis-baw-baseline-151242",
+    "name": "TENIS BAW BASELINE",
+    "offers": {
+     "@type": "Offer",
+     "price": "279.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tenis-session-revival-150404/338248.jpg?w=556&h=833&v=202603041030",
+    "url": "https://www.bawclothing.com.br/tenis-session-revival-150404",
+    "name": "TENIS SESSION REVIVAL",
+    "offers": {
+     "@type": "Offer",
+     "price": "369.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tenis-grip-mad-150399/338223.jpg?w=556&h=833&v=202510211655",
+    "url": "https://www.bawclothing.com.br/tenis-grip-mad-150399",
+    "name": "TENIS GRIP MAD",
+    "offers": {
+     "@type": "Offer",
+     "price": "369.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/tenis-truck-150200/337027.jpg?w=556&h=833&v=202506051755",
+    "url": "https://www.bawclothing.com.br/tenis-truck-150200",
+    "name": "TENIS TRUCK",
+    "offers": {
+     "@type": "Offer",
+     "price": "389.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "151236",
+   "href": "/tenis-baw-thunder-151236",
+   "nome": "TENIS BAW THUNDER",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "58%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150379",
+   "href": "/tenis-grip-mad-150379",
+   "nome": "TENIS GRIP MAD",
+   "preco": "R$ 239,00",
+   "preco_de": "R$ 309,00",
+   "selo_off": "23%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151235",
+   "href": "/tenis-baw-baseline-151235",
+   "nome": "TENIS BAW BASELINE",
+   "preco": "R$ 259,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "35%",
+   "selos": null,
+   "cor": "Cinza",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151247",
+   "href": "/tenis-baw-audacity-151247",
+   "nome": "TENIS BAW AUDACITY",
+   "preco": "R$ 279,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "AZUL PETROLEO",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151242",
+   "href": "/tenis-baw-baseline-151242",
+   "nome": "TENIS BAW BASELINE",
+   "preco": "R$ 279,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Marrom",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150404",
+   "href": "/tenis-session-revival-150404",
+   "nome": "TENIS SESSION REVIVAL",
+   "preco": "R$ 369,00",
+   "preco_de": "R$ 599,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150399",
+   "href": "/tenis-grip-mad-150399",
+   "nome": "TENIS GRIP MAD",
+   "preco": "R$ 369,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "26%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150200",
+   "href": "/tenis-truck-150200",
+   "nome": "TENIS TRUCK",
+   "preco": "R$ 389,00",
+   "preco_de": "R$ 749,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+url: https://www.bawclothing.com.br/produto/jaqueta-cropped-baw-athletics-153945
+lido_em: 2026-11-18T13:09:50-03:00
+html_origem: ficha-jaqueta-cropped-baw-athletics.html (sha256 10eb1743092c3a5209db1e84af1e1d14a41762f2fcd178d395c6dfe4ae2e6b90)
+nome: JAQUETA CROPPED BAW ATHLETICS
+sku: 14.02.0080312G
+trilha: Página inicial > Roupas > Jaquetas > JAQUETA CROPPED BAW ATHLETICS
+preco: R$ 299,00
+preco_de: R$ 449,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+JAQUETA CROPPED BAW ATHLETICS MARINHO
+Envios desse item deste drop ocorrerão à partir do dia 09/10.
+A Jaqueta Cropped BAW Athletics Azul e Rosa traduz o estilo windbreaker esportivo e retrô para o streetwear contemporâneo com uma combinação marcante de cores e recortes. Confeccionada em tecido plano leve e resistente de poliamida na cor azul marinho com painéis laterais em rosa claro e vivos na cor vermelha, a peça conta com modelagem cropped , capuz com cordão de ajuste em tom vermelho contrastante, fechamento por zíper frontal e bolsos laterais funcionais com zíper. A barra e os punhos possuem acabamento com elástico embutido. No peito, traz a aplicação da sigla "BAW" em tom creme; nas costas, exibe uma estampa gráfica varsity em grande formato com as inscrições "BAW ATHLETICS", "Est. 2014" e o slogan "The Noise Makers".
+Tabela de Medidas:
+PP - Comprimento Total: 54cm/ Tórax: 98cm (1/2 Tórax: 49cm)/ Barra: 86cm (1/2 Barra: 43cm)/ Manga: 73cm/ Punho: 10cm.
+P - Comprimento Total: 56cm/ Tórax: 102cm (1/2 Tórax: 51cm)/ Barra: 90cm (1/2 Barra: 45cm)/ Manga: 75cm/ Punho: 10,5cm.
+M - Comprimento Total: 58cm/ Tórax: 106cm (1/2 Tórax: 53cm)/ Barra: 94cm (1/2 Barra: 47cm)/ Manga: 77cm/ Punho: 11cm.
+G - Comprimento Total: 60cm/ Tórax: 110cm (1/2 Tórax: 55cm)/ Barra: 98cm (1/2 Barra: 49cm)/ Manga: 79cm/ Punho: 11,5cm.
+GG - Comprimento Total: 62cm/ Tórax: 114cm (1/2 Tórax: 57cm)/ Barra: 102cm (1/2 Barra: 51cm)/ Manga: 81cm/ Punho: 12cm.
+Composição: 100% Poliamida
+*MEDIDAS APROXIMADAS. Variação de até 5%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente à Jaqueta Cropped. Os demais itens contidos na imagem são vendidos separadamente.
+Peça da BAW Clothing criada e produzida no Brasil.
+
+--- description do JSON-LD Product ---
+JAQUETA CROPPED BAW ATHLETICS MARINHO
+Envios desse item deste drop ocorrer&atilde;o &agrave; partir do dia 09/10.
+A 
+Jaqueta Cropped BAW Athletics Azul e Rosa
+ traduz o estilo 
+windbreaker
+ esportivo e retr&ocirc; para o 
+streetwear
+ contempor&acirc;neo com uma combina&ccedil;&atilde;o marcante de cores e recortes. Confeccionada em tecido plano leve e resistente de poliamida na cor azul marinho com pain&eacute;is laterais em rosa claro e vivos na cor vermelha, a pe&ccedil;a conta com modelagem 
+cropped
+, capuz com cord&atilde;o de ajuste em tom vermelho contrastante, fechamento por z&iacute;per frontal e bolsos laterais funcionais com z&iacute;per. A barra e os punhos possuem acabamento com el&aacute;stico embutido. No peito, traz a aplica&ccedil;&atilde;o da sigla &quot;BAW&quot; em tom creme; nas costas, exibe uma estampa gr&aacute;fica 
+varsity
+ em grande formato com as inscri&ccedil;&otilde;es &quot;BAW ATHLETICS&quot;, &quot;Est. 2014&quot; e o slogan &quot;The Noise Makers&quot;.
+Tabela de Medidas:
+PP - Comprimento Total: 54cm/ T&oacute;rax: 98cm (1/2 T&oacute;rax: 49cm)/ Barra: 86cm (1/2 Barra: 43cm)/ Manga: 73cm/ Punho: 10cm.
+P - Comprimento Total: 56cm/ T&oacute;rax: 102cm (1/2 T&oacute;rax: 51cm)/ Barra: 90cm (1/2 Barra: 45cm)/ Manga: 75cm/ Punho: 10,5cm.
+M - Comprimento Total: 58cm/ T&oacute;rax: 106cm (1/2 T&oacute;rax: 53cm)/ Barra: 94cm (1/2 Barra: 47cm)/ Manga: 77cm/ Punho: 11cm.
+G - Comprimento Total: 60cm/ T&oacute;rax: 110cm (1/2 T&oacute;rax: 55cm)/ Barra: 98cm (1/2 Barra: 49cm)/ Manga: 79cm/ Punho: 11,5cm.
+GG - Comprimento Total: 62cm/ T&oacute;rax: 114cm (1/2 T&oacute;rax: 57cm)/ Barra: 102cm (1/2 Barra: 51cm)/ Manga: 81cm/ Punho: 12cm.
+Composi&ccedil;&atilde;o:
+ 100% Poliamida
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 5%.
+*CORES APROXIMADAS. Devido &agrave;s diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente &agrave; Jaqueta Cropped. Os demais itens contidos na imagem s&atilde;o vendidos separadamente.
+Pe&ccedil;a da BAW Clothing criada e produzida no Brasil.

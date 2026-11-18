@@ -1,0 +1,259 @@
+{
+ "arquivo_origem": "camisas-p1.html",
+ "sha256_origem": "a56075c60285cbe18f3f4e13fad44a89d86d41a333fc558e07380a4bebfc7a55",
+ "titulo": "Camisas",
+ "title_pagina": "Camisas de manga curta e longa do PP ao 3G | Baw Clothing",
+ "contagem_pagina": 11,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/roupas/camisas",
+  "numberOfItems": "11",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/overshirt-box-logo-153486/361622-1.jpg?w=556&h=833&v=202608041129",
+    "url": "https://www.bawclothing.com.br/overshirt-box-logo-153486",
+    "name": "OVERSHIRT BOX LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/overshirt-box-logo-153481/361594-1.jpg?w=556&h=833&v=202608041131",
+    "url": "https://www.bawclothing.com.br/overshirt-box-logo-153481",
+    "name": "OVERSHIRT BOX LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-box-baw-classic-151050/341723-1.jpg?w=556&h=833&v=202608041129",
+    "url": "https://www.bawclothing.com.br/camisa-box-baw-classic-151050",
+    "name": "CAMISA BOX BAW CLASSIC",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-manga-curta-patch-logo-153523/361848-1.jpg?w=556&h=833&v=202608041119",
+    "url": "https://www.bawclothing.com.br/camisa-manga-curta-patch-logo-153523",
+    "name": "CAMISA MANGA CURTA PATCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-manga-curta-patch-logo-153522/361845-1.jpg?w=556&h=833&v=202608041118",
+    "url": "https://www.bawclothing.com.br/camisa-manga-curta-patch-logo-153522",
+    "name": "CAMISA MANGA CURTA PATCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-manga-curta-patch-logo-153524/361844-1.jpg?w=556&h=833&v=202608041118",
+    "url": "https://www.bawclothing.com.br/camisa-manga-curta-patch-logo-153524",
+    "name": "CAMISA MANGA CURTA PATCH LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/overshirt-box-logo-153489/361681-1.jpg?w=556&h=833&v=202608041130",
+    "url": "https://www.bawclothing.com.br/overshirt-box-logo-153489",
+    "name": "OVERSHIRT BOX LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/overshirt-box-logo-153493/361680-1.jpg?w=556&h=833&v=202608041131",
+    "url": "https://www.bawclothing.com.br/overshirt-box-logo-153493",
+    "name": "OVERSHIRT BOX LOGO",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-cubana-boxy-ceia-baw-e-desgosto-153220/360009.jpg?w=556&h=833&v=202512111513",
+    "url": "https://www.bawclothing.com.br/camisa-cubana-boxy-ceia-baw-e-desgosto-153220",
+    "name": "CAMISA CUBANA BOXY CEIA BAW & DESGOSTO",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-box-brown-classy-150703/339681.jpg?w=556&h=833&v=202509162323",
+    "url": "https://www.bawclothing.com.br/camisa-box-brown-classy-150703",
+    "name": "CAMISA BOX BROWN CLASSY",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-over-baw-x-smiley-152293/365587-1.jpg?w=556&h=833&v=202610271056",
+    "url": "https://www.bawclothing.com.br/camisa-over-baw-x-smiley-152293",
+    "name": "CAMISA OVER BAW X SMILEY",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153486",
+   "href": "/overshirt-box-logo-153486",
+   "nome": "OVERSHIRT BOX LOGO",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "44%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153481",
+   "href": "/overshirt-box-logo-153481",
+   "nome": "OVERSHIRT BOX LOGO",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "44%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151050",
+   "href": "/camisa-box-baw-classic-151050",
+   "nome": "CAMISA BOX BAW CLASSIC",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153523",
+   "href": "/camisa-manga-curta-patch-logo-153523",
+   "nome": "CAMISA MANGA CURTA PATCH LOGO",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Marinho",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153522",
+   "href": "/camisa-manga-curta-patch-logo-153522",
+   "nome": "CAMISA MANGA CURTA PATCH LOGO",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Caqui",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153524",
+   "href": "/camisa-manga-curta-patch-logo-153524",
+   "nome": "CAMISA MANGA CURTA PATCH LOGO",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153489",
+   "href": "/overshirt-box-logo-153489",
+   "nome": "OVERSHIRT BOX LOGO",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Caqui",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153493",
+   "href": "/overshirt-box-logo-153493",
+   "nome": "OVERSHIRT BOX LOGO",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153220",
+   "href": "/camisa-cubana-boxy-ceia-baw-e-desgosto-153220",
+   "nome": "CAMISA CUBANA BOXY CEIA BAW & DESGOSTO",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150703",
+   "href": "/camisa-box-brown-classy-150703",
+   "nome": "CAMISA BOX BROWN CLASSY",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Capuccino Mr",
+   "genero": "Unisex"
+  },
+  {
+   "id": "152293",
+   "href": "/camisa-over-baw-x-smiley-152293",
+   "nome": "CAMISA OVER BAW X SMILEY",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 289,00",
+   "selo_off": "35%",
+   "selos": null,
+   "cor": "Off White  ",
+   "genero": "Unisex"
+  }
+ ]
+}

@@ -1,0 +1,413 @@
+{
+ "arquivo_origem": "bf-50off-p1.html",
+ "sha256_origem": "50ed2f9671483231737a460197e304daadd35ee72b3071d020a538a27a84c365",
+ "titulo": null,
+ "title_pagina": "Black Friday 50% OFF",
+ "contagem_pagina": 18,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/black-friday/50off",
+  "numberOfItems": "18",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-athletic-logo-3-0-150909/340941.jpg?w=556&h=833&v=202512111129",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-athletic-logo-3-0-150909",
+    "name": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "49.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-athletic-logo-3-0-150813/340355.jpg?w=556&h=833&v=202509170244",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-athletic-logo-3-0-150813",
+    "name": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+    "offers": {
+     "@type": "Offer",
+     "price": "59.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/short-tourist-street-garden-151164/342344.jpg?w=556&h=833&v=202509041049",
+    "url": "https://www.bawclothing.com.br/short-tourist-street-garden-151164",
+    "name": "SHORT TOURIST STREET GARDEN",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-friso-150629/339353-1.jpg?w=556&h=833&v=202608191516",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-friso-150629",
+    "name": "BERMUDA JEANS FRISO",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/sweatshirt-reverse-kids-azul-151317/346312.jpg?w=556&h=833&v=202510141516",
+    "url": "https://www.bawclothing.com.br/sweatshirt-reverse-kids-azul-151317",
+    "name": "SWEATSHIRT REVERSE KIDS AZUL",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-kids-emanate-151063/341840.jpg?w=556&h=833&v=202511111132",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-kids-emanate-151063",
+    "name": "CAMISETA OVERSIZED KIDS EMANATE",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-regular-fire-baw-151252/345221.jpg?w=556&h=833&v=202509221402",
+    "url": "https://www.bawclothing.com.br/camiseta-regular-fire-baw-151252",
+    "name": "CAMISETA REGULAR FIRE BAW",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151312/346224.jpg?w=556&h=833&v=202510101006",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151312",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camiseta-oversized-kids-natures-scents-151253/345233.jpg?w=556&h=833&v=202511111128",
+    "url": "https://www.bawclothing.com.br/camiseta-oversized-kids-natures-scents-151253",
+    "name": "CAMISETA OVERSIZED KIDS NATURES SCENTS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/pool-shorts-baw-outdoor-151079/341899-1.jpg?w=556&h=833&v=202608191411",
+    "url": "https://www.bawclothing.com.br/pool-shorts-baw-outdoor-151079",
+    "name": "POOL SHORTS BAW OUTDOOR",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/regata-basic-outdoor-wellness-151068/341902.jpg?w=556&h=833&v=202510031737",
+    "url": "https://www.bawclothing.com.br/regata-basic-outdoor-wellness-151068",
+    "name": "REGATA BASIC OUTDOOR WELLNESS",
+    "offers": {
+     "@type": "Offer",
+     "price": "129.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/mini-short-standard-garde-151104/342065.jpg?w=556&h=833&v=202508292047",
+    "url": "https://www.bawclothing.com.br/mini-short-standard-garde-151104",
+    "name": "MINI SHORT STANDARD GARDE",
+    "offers": {
+     "@type": "Offer",
+     "price": "199.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-reverse-kids-151314/346234.jpg?w=556&h=833&v=202510100939",
+    "url": "https://www.bawclothing.com.br/shorts-reverse-kids-151314",
+    "name": "SHORTS REVERSE KIDS",
+    "offers": {
+     "@type": "Offer",
+     "price": "39.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/beach-short-street-garden-151137/342198-1.jpg?w=556&h=833&v=202608201136",
+    "url": "https://www.bawclothing.com.br/beach-short-street-garden-151137",
+    "name": "BEACH SHORT STREET GARDEN",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-5-pockets-baw-x-chevrolet-150963/341292.jpg?w=556&h=833&v=202509181730",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-5-pockets-baw-x-chevrolet-150963",
+    "name": "BERMUDA JEANS 5 POCKETS BAW X CHEVROLET",
+    "offers": {
+     "@type": "Offer",
+     "price": "349.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/baby-look-fit-garden-150690/339628.jpg?w=556&h=833&v=202602261737",
+    "url": "https://www.bawclothing.com.br/baby-look-fit-garden-150690",
+    "name": "BABY LOOK FIT GARDEN",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-simple-outdoor-wellness-150684/339545.jpg?w=556&h=833&v=202509161234",
+    "url": "https://www.bawclothing.com.br/calca-simple-outdoor-wellness-150684",
+    "name": "CALCA SIMPLE  OUTDOOR WELLNESS",
+    "offers": {
+     "@type": "Offer",
+     "price": "299.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-cargo-basic-classy-150619/339332.jpg?w=556&h=833&v=202509161258",
+    "url": "https://www.bawclothing.com.br/bermuda-cargo-basic-classy-150619",
+    "name": "BERMUDA CARGO BASIC CLASSY",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "150909",
+   "href": "/camiseta-regular-athletic-logo-3-0-150909",
+   "nome": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+   "preco": "R$ 49,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150813",
+   "href": "/camiseta-regular-athletic-logo-3-0-150813",
+   "nome": "CAMISETA REGULAR ATHLETIC LOGO 3.0",
+   "preco": "R$ 59,00",
+   "preco_de": "R$ 89,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151164",
+   "href": "/short-tourist-street-garden-151164",
+   "nome": "SHORT TOURIST STREET GARDEN",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 349,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150629",
+   "href": "/bermuda-jeans-friso-150629",
+   "nome": "BERMUDA JEANS FRISO",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 339,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Indigo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151317",
+   "href": "/sweatshirt-reverse-kids-azul-151317",
+   "nome": "SWEATSHIRT REVERSE KIDS AZUL",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 199,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151063",
+   "href": "/camiseta-oversized-kids-emanate-151063",
+   "nome": "CAMISETA OVERSIZED KIDS EMANATE",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 119,00",
+   "selo_off": "67%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151252",
+   "href": "/camiseta-regular-fire-baw-151252",
+   "nome": "CAMISETA REGULAR FIRE BAW",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "40%",
+   "selos": null,
+   "cor": "",
+   "genero": ""
+  },
+  {
+   "id": "151312",
+   "href": "/shorts-reverse-kids-151312",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Rosa",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151253",
+   "href": "/camiseta-oversized-kids-natures-scents-151253",
+   "nome": "CAMISETA OVERSIZED KIDS NATURES SCENTS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151079",
+   "href": "/pool-shorts-baw-outdoor-151079",
+   "nome": "POOL SHORTS BAW OUTDOOR",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Verde Militar",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151068",
+   "href": "/regata-basic-outdoor-wellness-151068",
+   "nome": "REGATA BASIC OUTDOOR WELLNESS",
+   "preco": "R$ 129,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "28%",
+   "selos": null,
+   "cor": "Militar",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151104",
+   "href": "/mini-short-standard-garde-151104",
+   "nome": "MINI SHORT STANDARD GARDE",
+   "preco": "R$ 199,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "20%",
+   "selos": null,
+   "cor": "Bege",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151314",
+   "href": "/shorts-reverse-kids-151314",
+   "nome": "SHORTS REVERSE KIDS",
+   "preco": "R$ 39,00",
+   "preco_de": "R$ 129,00",
+   "selo_off": "70%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "151137",
+   "href": "/beach-short-street-garden-151137",
+   "nome": "BEACH SHORT STREET GARDEN",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 279,00",
+   "selo_off": "25%",
+   "selos": null,
+   "cor": "Azul",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150963",
+   "href": "/bermuda-jeans-5-pockets-baw-x-chevrolet-150963",
+   "nome": "BERMUDA JEANS 5 POCKETS BAW X CHEVROLET",
+   "preco": "R$ 349,00",
+   "preco_de": null,
+   "selo_off": null,
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150690",
+   "href": "/baby-look-fit-garden-150690",
+   "nome": "BABY LOOK FIT GARDEN",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "22%",
+   "selos": null,
+   "cor": "Roxo",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150684",
+   "href": "/calca-simple-outdoor-wellness-150684",
+   "nome": "CALCA SIMPLE OUTDOOR WELLNESS",
+   "preco": "R$ 299,00",
+   "preco_de": "R$ 649,00",
+   "selo_off": "54%",
+   "selos": null,
+   "cor": "Jeans Claro",
+   "genero": "Unisex"
+  },
+  {
+   "id": "150619",
+   "href": "/bermuda-cargo-basic-classy-150619",
+   "nome": "BERMUDA CARGO BASIC CLASSY",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "48%",
+   "selos": null,
+   "cor": "Caqui",
+   "genero": "Unisex"
+  }
+ ]
+}

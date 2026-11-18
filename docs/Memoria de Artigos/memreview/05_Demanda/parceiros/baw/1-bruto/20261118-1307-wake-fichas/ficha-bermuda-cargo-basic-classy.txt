@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/bermuda-cargo-basic-classy-150619
+lido_em: 2026-11-18T13:11:10-03:00
+html_origem: ficha-bermuda-cargo-basic-classy.html (sha256 c6cabaa10c1ddacedddd97d586d9971670ce1a4426068e752adc8cca380f826a)
+nome: BERMUDA CARGO BASIC CLASSY
+sku: 0098854729GG
+trilha: Página inicial > Roupas > Shorts > BERMUDA CARGO BASIC CLASSY
+preco: R$ 209,00
+preco_de: R$ 399,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+BERMUDA CARGO BASIC CLASSY
+BERMUDA CARGO BASIC CLASSY

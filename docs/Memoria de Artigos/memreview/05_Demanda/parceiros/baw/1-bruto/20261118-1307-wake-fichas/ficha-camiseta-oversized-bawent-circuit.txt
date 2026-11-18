@@ -1,0 +1,56 @@
+url: https://www.bawclothing.com.br/produto/camiseta-oversized-bawent-circuit-154261
+lido_em: 2026-11-18T13:07:19-03:00
+html_origem: ficha-camiseta-oversized-bawent-circuit.html (sha256 018caf76987b97da1312362e853f425d339fad1eac4f558a28cb96be77ea313e)
+nome: CAMISETA OVERSIZED BAWENT CIRCUIT
+sku: 12.02.4095564GG
+trilha: Página inicial > Roupas > Camisetas > Oversized > CAMISETA OVERSIZED BAWENT CIRCUIT
+preco: R$ 169,00
+preco_de: @nao-se-aplica
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISETA OVERSIZED BAWENT CIRCUIT PRETO STONED
+A Camiseta Oversized BawEnt Circuit canaliza toda a adrenalina das pistas e a estética motorsport / racing dos anos 90 e 2000. Confeccionada em malha encorpada 100% algodão de alta gramatura na cor cinza-chumbo com acabamento levemente estonado ( washed ), a peça entrega um visual vintage autêntico, toque macio e modelagem oversized com ombros caídos e gola careca reforçada. Apresenta uma estampa minimalista do logotipo "CIRCUIT BAW ENT Equipment" com chamas no peito esquerdo e uma arte gráfica vibrante e expandida nas costas ilustrando uma motocicleta de corrida em movimento sob a assinatura "BAW ENT CIRCUIT" em tons neon.
+Tabela de Medidas:
+PP - Comprimento: 63cm/ Tórax: 55cm/ Barra: 55cm/ Manga: 19,5cm/ Cava: 22cm.
+P - Comprimento: 65cm/ Tórax: 58cm/ Barra: 58cm/ Manga: 20,5cm/ Cava: 23cm.
+M - Comprimento: 67cm/ Tórax: 61cm/ Barra: 61cm/ Manga: 21,5cm/ Cava: 24cm.
+G - Comprimento: 69cm/ Tórax: 64cm/ Barra: 64cm/ Manga: 22,5cm/ Cava: 25cm.
+GG - Comprimento: 71cm/ Tórax: 67cm/ Barra: 67cm/ Manga: 23,5cm/ Cava: 26cm.
+G3 - Comprimento: 73cm/ Tórax: 70cm/ Barra: 70cm/ Manga: 24,5cm/ Cava: 27cm.
+Composição: 100% Algodão.
+MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido às diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente à Camiseta. Os demais itens contidos na imagem são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISETA OVERSIZED BAWENT CIRCUIT PRETO STONED
+A 
+Camiseta Oversized BawEnt Circuit 
+canaliza toda a adrenalina das pistas e a est&eacute;tica 
+motorsport / racing
+ dos anos 90 e 2000. Confeccionada em malha encorpada 100% algod&atilde;o de alta gramatura na cor cinza-chumbo com acabamento levemente estonado (
+washed
+), a pe&ccedil;a entrega um visual 
+vintage
+ aut&ecirc;ntico, toque macio e modelagem 
+oversized
+ com ombros ca&iacute;dos e gola careca refor&ccedil;ada. Apresenta uma estampa minimalista do logotipo 
+&quot;CIRCUIT BAW ENT Equipment&quot;
+ com chamas no peito esquerdo e uma arte gr&aacute;fica vibrante e expandida nas costas ilustrando uma motocicleta de corrida em movimento sob a assinatura 
+&quot;BAW ENT CIRCUIT&quot;
+ em tons neon.
+Tabela de Medidas:
+PP - Comprimento: 63cm/ T&oacute;rax: 55cm/ Barra: 55cm/ Manga: 19,5cm/ Cava: 22cm.
+P - Comprimento: 65cm/ T&oacute;rax: 58cm/ Barra: 58cm/ Manga: 20,5cm/ Cava: 23cm.
+M - Comprimento: 67cm/ T&oacute;rax: 61cm/ Barra: 61cm/ Manga: 21,5cm/ Cava: 24cm.
+G - Comprimento: 69cm/ T&oacute;rax: 64cm/ Barra: 64cm/ Manga: 22,5cm/ Cava: 25cm.
+GG - Comprimento: 71cm/ T&oacute;rax: 67cm/ Barra: 67cm/ Manga: 23,5cm/ Cava: 26cm.
+G3 - Comprimento: 73cm/ T&oacute;rax: 70cm/ Barra: 70cm/ Manga: 24,5cm/ Cava: 27cm.
+Composi&ccedil;&atilde;o: 100% Algod&atilde;o.
+MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido &agrave;s diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente &agrave; Camiseta. Os demais itens contidos na imagem s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

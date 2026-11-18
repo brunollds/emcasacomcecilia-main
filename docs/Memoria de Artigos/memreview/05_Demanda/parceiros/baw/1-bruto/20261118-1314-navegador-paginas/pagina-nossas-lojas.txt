@@ -1,0 +1,48 @@
+url: https://www.bawclothing.com.br/nossas-lojas
+lido_em: 2026-11-18T13:15:34-03:00
+metodo: navegador embutido do app; document.body.innerText 2,5 segundos depois de a página carregar, linhas vazias juntadas. Texto gravado pela sessão a partir da saída da ferramenta
+title da página: vazio
+
+--- texto da página ---
+VESTUÁRIO
+ACESSÓRIOS
+KIDS
+CALÇADOS
+NEWS
+BLACK FRIDAY
+INFLUS
+DIGITE AQUI O QUE PROCURA
+0
+BAW •
+NOSSAS LOJAS
+Institucional
+Central de Ajuda
+Entrega e Frete
+Trocas e Devoluções
+Forma de Pagamento
+Política de Privacidade
+Nossas Lojas
+Sobre nós
+Cashback
+NOSSAS LOJAS
+FIQUE POR DENTRO
+PARA RECEBER NOVIDADES E CONTEÚDO EXCLUSIVO DA BAW, ASSINE NOSSA NEWSLETTER.
+PARA SABER COMO SEUS DADOS PESSOAIS SÃO TRATADOS, ACESSE NOSSA POLÍTICA DE PRIVACIDADE.
+CADASTRAR
+DADOS PESSOAIS
+MINHA CONTA
+MEUS PEDIDOS
+MEU CARRINHO
+DÚVIDAS FREQUENTES
+CENTRAL DE AJUDA
+ENTREGA E FRETE
+TROCAS E DEVOLUÇÕES
+FORMA DE PAGAMENTO
+POLÍTICA DE PRIVACIDADE
+NOSSAS LOJAS
+BLOG
+FALE CONOSCO
+SAC +55 (11) 94564-9626
+HORÁRIOS DE ATENDIMENTO
+SEG A SEX. DAS 09 ÁS 18H
+BAW CLOTHING - TODOS OS DIREITOS RESERVADOS - WAB COMPANY CNPJ:58.435.903/0001-85

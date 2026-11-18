@@ -1,0 +1,40 @@
+url: https://www.bawclothing.com.br/produto/camiseta-oversized-vandalz-153014
+lido_em: 2026-11-18T13:07:32-03:00
+html_origem: ficha-camiseta-oversized-vandalz.html (sha256 b2ca5dee453ee6d749a43a52f100f5098c9a0a5d2a451b66b68838f77b61de79)
+nome: CAMISETA OVERSIZED VANDALZ
+sku: 12.02.3907040M
+trilha: Página inicial > Roupas > Camisetas > CAMISETA OVERSIZED VANDALZ
+preco: R$ 149,00
+preco_de: R$ 199,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISETA OVERSIZED VANDALZ PRETO
+Camiseta oversized de algodão com modelagem reta e gola careca.
+PP - Comprimento: 68cm/ Torax: 55cm/ Barra: 55cm/ Manga: 19cm.
+P - Comprimento: 70cm/ Torax: 58cm/ Barra: 58cm/ Manga: 20cm.
+M - Comprimento: 72cm/ Torax: 61cm/ Barra: 61cm/ Manga: 21cm.
+G - Comprimento: 74cm/ Torax: 64cm/ Barra: 64cm/ Manga: 22cm.
+GG - Comprimento: 76cm/ Torax: 67cm/ Barra: 67cm/ Manga: 23cm.
+GGG - Comprimento: 78cm/ Torax: 70cm/ Barra: 70cm/ Manga: 24cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISETA OVERSIZED VANDALZ PRETO
+Camiseta oversized de algod&atilde;o com modelagem reta e gola careca.
+PP - Comprimento: 68cm/ Torax: 55cm/ Barra: 55cm/ Manga: 19cm.
+P - Comprimento: 70cm/ Torax: 58cm/ Barra: 58cm/ Manga: 20cm.
+M - Comprimento: 72cm/ Torax: 61cm/ Barra: 61cm/ Manga: 21cm.
+G - Comprimento: 74cm/ Torax: 64cm/ Barra: 64cm/ Manga: 22cm.
+GG - Comprimento: 76cm/ Torax: 67cm/ Barra: 67cm/ Manga: 23cm.
+GGG - Comprimento: 78cm/ Torax: 70cm/ Barra: 70cm/ Manga: 24cm.
+Composi&ccedil;&atilde;o: 100% Algod&atilde;o.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente a Camiseta. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.

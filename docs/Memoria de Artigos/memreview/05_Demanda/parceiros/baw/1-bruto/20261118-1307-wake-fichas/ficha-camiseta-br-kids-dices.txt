@@ -1,0 +1,17 @@
+url: https://www.bawclothing.com.br/produto/camiseta-br-kids-dices-154204
+lido_em: 2026-11-18T13:14:00-03:00
+html_origem: ficha-camiseta-br-kids-dices.html (sha256 f19f2fc91baea3bdae9c9d6a06827e9a43bd728cffb836b8327ffdbc5b976f06)
+nome: CAMISETA BR KIDS DICES
+sku: 12.02.418501412
+trilha: Página inicial > Kids > CAMISETA BR KIDS DICES
+preco: R$ 39,00
+preco_de: @nao-se-aplica
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+Não há descrição para este produto
+
+--- description do JSON-LD Product ---
+CAMISETA BR KIDS DICES
+CAMISETA BR KIDS DICES

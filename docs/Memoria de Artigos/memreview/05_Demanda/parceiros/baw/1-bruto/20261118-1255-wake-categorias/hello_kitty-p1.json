@@ -1,0 +1,215 @@
+{
+ "arquivo_origem": "hello_kitty-p1.html",
+ "sha256_origem": "ea3e203dbd03d65d51560901e0c1b303d01cafac09985107dcc16caf97031646",
+ "titulo": null,
+ "title_pagina": "Hello Kitty",
+ "contagem_pagina": 9,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/hello_kitty",
+  "numberOfItems": "9",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-hoodie-dark-baw-x-hello-kitty-153534/361934-1.jpg?w=556&h=833&v=202607301740",
+    "url": "https://www.bawclothing.com.br/moletom-hoodie-dark-baw-x-hello-kitty-153534",
+    "name": "MOLETOM HOODIE DARK BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "189.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/moletom-turtleneck-baw-x-hello-kitty-153541/361929-1.jpg?w=556&h=833&v=202607301736",
+    "url": "https://www.bawclothing.com.br/moletom-turtleneck-baw-x-hello-kitty-153541",
+    "name": "MOLETOM TURTLENECK BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "329.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-track-baloon-baw-x-hello-kitty-153535/361900-1.jpg?w=556&h=833&v=202608031133",
+    "url": "https://www.bawclothing.com.br/calca-track-baloon-baw-x-hello-kitty-153535",
+    "name": "CALÇA TRACK BALOON BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "169.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bermuda-jeans-5-pockets-bawxhello-kitty-153544/361971-1.jpg?w=556&h=833&v=202607301921",
+    "url": "https://www.bawclothing.com.br/bermuda-jeans-5-pockets-bawxhello-kitty-153544",
+    "name": "BERMUDA JEANS 5 POCKETS BAWXHELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "229.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fechado-loop-baw-x-hello-kitty-153542/361940-1.jpg?w=556&h=833&v=202608031159",
+    "url": "https://www.bawclothing.com.br/bone-fechado-loop-baw-x-hello-kitty-153542",
+    "name": "BONÉ FECHADO LOOP BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/bone-fechado-patch-baw-x-hello-kitty-153536/361884-1.jpg?w=556&h=833&v=202608031202",
+    "url": "https://www.bawclothing.com.br/bone-fechado-patch-baw-x-hello-kitty-153536",
+    "name": "BONÉ FECHADO PATCH BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/viseira-baw-x-hello-kitty-153529/361873-1.jpg?w=556&h=833&v=202607301630",
+    "url": "https://www.bawclothing.com.br/viseira-baw-x-hello-kitty-153529",
+    "name": "VISEIRA BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "99.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/saia-college-baw-x-hello-kitty-153528/361903-1.jpg?w=556&h=833&v=202608031217",
+    "url": "https://www.bawclothing.com.br/saia-college-baw-x-hello-kitty-153528",
+    "name": "SAIA COLLEGE BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "209.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/top-rib-baw-x-hello-kitty-153532/361876-1.jpg?w=556&h=833&v=202608031212",
+    "url": "https://www.bawclothing.com.br/top-rib-baw-x-hello-kitty-153532",
+    "name": "TOP RIB BAW X HELLO KITTY",
+    "offers": {
+     "@type": "Offer",
+     "price": "89.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153534",
+   "href": "/moletom-hoodie-dark-baw-x-hello-kitty-153534",
+   "nome": "MOLETOM HOODIE DARK BAW X HELLO KITTY",
+   "preco": "R$ 189,00",
+   "preco_de": "R$ 359,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153541",
+   "href": "/moletom-turtleneck-baw-x-hello-kitty-153541",
+   "nome": "MOLETOM TURTLENECK BAW X HELLO KITTY",
+   "preco": "R$ 329,00",
+   "preco_de": "R$ 499,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153535",
+   "href": "/calca-track-baloon-baw-x-hello-kitty-153535",
+   "nome": "CALÇA TRACK BALOON BAW X HELLO KITTY",
+   "preco": "R$ 169,00",
+   "preco_de": "R$ 379,00",
+   "selo_off": "55%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153544",
+   "href": "/bermuda-jeans-5-pockets-bawxhello-kitty-153544",
+   "nome": "BERMUDA JEANS 5 POCKETS BAWXHELLO KITTY",
+   "preco": "R$ 229,00",
+   "preco_de": "R$ 429,00",
+   "selo_off": "47%",
+   "selos": null,
+   "cor": "Denim",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153542",
+   "href": "/bone-fechado-loop-baw-x-hello-kitty-153542",
+   "nome": "BONÉ FECHADO LOOP BAW X HELLO KITTY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 159,00",
+   "selo_off": "38%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153536",
+   "href": "/bone-fechado-patch-baw-x-hello-kitty-153536",
+   "nome": "BONÉ FECHADO PATCH BAW X HELLO KITTY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "45%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153529",
+   "href": "/viseira-baw-x-hello-kitty-153529",
+   "nome": "VISEIRA BAW X HELLO KITTY",
+   "preco": "R$ 99,00",
+   "preco_de": "R$ 149,00",
+   "selo_off": "34%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153528",
+   "href": "/saia-college-baw-x-hello-kitty-153528",
+   "nome": "SAIA COLLEGE BAW X HELLO KITTY",
+   "preco": "R$ 209,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "30%",
+   "selos": null,
+   "cor": "Preto",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153532",
+   "href": "/top-rib-baw-x-hello-kitty-153532",
+   "nome": "TOP RIB BAW X HELLO KITTY",
+   "preco": "R$ 89,00",
+   "preco_de": "R$ 179,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Branco",
+   "genero": "Unisex"
+  }
+ ]
+}

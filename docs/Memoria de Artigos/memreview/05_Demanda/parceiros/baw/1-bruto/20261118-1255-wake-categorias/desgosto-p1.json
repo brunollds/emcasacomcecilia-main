@@ -1,0 +1,83 @@
+{
+ "arquivo_origem": "desgosto-p1.html",
+ "sha256_origem": "031d161b57ade9aedfbe51cc7f1cf2fedaea0df05cee3a616dd7a5db7c744d33",
+ "titulo": null,
+ "title_pagina": "Desgosto",
+ "contagem_pagina": 3,
+ "item_list": {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.bawclothing.com.br/desgosto",
+  "numberOfItems": "3",
+  "itemListElement": [
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/calca-zip-off-uva-baw-e-desgosto-153222/360024.jpg?w=556&h=833&v=202512111515",
+    "url": "https://www.bawclothing.com.br/calca-zip-off-uva-baw-e-desgosto-153222",
+    "name": "CALÇA ZIP OFF UVA BAW & DESGOSTO",
+    "offers": {
+     "@type": "Offer",
+     "price": "269.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/camisa-cubana-boxy-ceia-baw-e-desgosto-153220/360009.jpg?w=556&h=833&v=202512111513",
+    "url": "https://www.bawclothing.com.br/camisa-cubana-boxy-ceia-baw-e-desgosto-153220",
+    "name": "CAMISA CUBANA BOXY CEIA BAW & DESGOSTO",
+    "offers": {
+     "@type": "Offer",
+     "price": "149.0",
+     "priceCurrency": "BRL"
+    }
+   },
+   {
+    "@type": "Product",
+    "image": "https://bawclothing.fbitsstatic.net/img/p/shorts-training-baw-e-desgosto-153213/360015.jpg?w=556&h=833&v=202512111545",
+    "url": "https://www.bawclothing.com.br/shorts-training-baw-e-desgosto-153213",
+    "name": "SHORTS TRAINING BAW & DESGOSTO",
+    "offers": {
+     "@type": "Offer",
+     "price": "139.0",
+     "priceCurrency": "BRL"
+    }
+   }
+  ]
+ },
+ "cartoes": [
+  {
+   "id": "153222",
+   "href": "/calca-zip-off-uva-baw-e-desgosto-153222",
+   "nome": "CALÇA ZIP OFF UVA BAW & DESGOSTO",
+   "preco": "R$ 269,00",
+   "preco_de": "R$ 399,00",
+   "selo_off": "33%",
+   "selos": null,
+   "cor": "Uva",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153220",
+   "href": "/camisa-cubana-boxy-ceia-baw-e-desgosto-153220",
+   "nome": "CAMISA CUBANA BOXY CEIA BAW & DESGOSTO",
+   "preco": "R$ 149,00",
+   "preco_de": "R$ 299,00",
+   "selo_off": "50%",
+   "selos": null,
+   "cor": "Off White",
+   "genero": "Unisex"
+  },
+  {
+   "id": "153213",
+   "href": "/shorts-training-baw-e-desgosto-153213",
+   "nome": "SHORTS TRAINING BAW & DESGOSTO",
+   "preco": "R$ 139,00",
+   "preco_de": "R$ 249,00",
+   "selo_off": "44%",
+   "selos": null,
+   "cor": "Azul Ceu",
+   "genero": "Unisex"
+  }
+ ]
+}

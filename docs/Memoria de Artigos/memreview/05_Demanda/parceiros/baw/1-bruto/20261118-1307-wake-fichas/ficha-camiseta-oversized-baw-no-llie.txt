@@ -1,0 +1,50 @@
+url: https://www.bawclothing.com.br/produto/camiseta-oversized-baw-no-llie-151830
+lido_em: 2026-11-18T13:07:28-03:00
+html_origem: ficha-camiseta-oversized-baw-no-llie.html (sha256 0a280b15cb11ce3a476e4367f0555fa21cd6956a1692fd8230098e5d3d052ece)
+nome: CAMISETA OVERSIZED BAW NO LLIE
+sku: 12.02.3817040G
+trilha: Página inicial > Roupas > Camisetas > Oversized > CAMISETA OVERSIZED BAW NO LLIE
+preco: R$ 129,00
+preco_de: R$ 279,00
+pix: 5% OFF no PIX
+descricao_bloco: presente
+
+--- Descrição (aba da página, um parágrafo por linha) ---
+CAMISETA OVERSIZED BAW NO LLIE PRETO
+A Camiseta Oversized Baw No Llie é um tributo à cultura urbana e underground do skate, combinando influências orientais com a atitude do streetwear clássico. Confeccionada em malha 100% algodão de alta gramatura com toque encorpado e macio, a peça oferece um caimento oversized autêntico, com ombros caídos e gola canelada estruturada. O grande destaque visual é a estampa gráfica marcante em silk screen, trazendo a ilustração de um skatista sinalizado dentro do símbolo de "Proibido Skate", acompanhado de ideogramas japoneses (Kanji) e a assinatura "2014 / Baw®" . A arte aparece de forma localizada em escala reduzida no peito esquerdo e em formato ampliado e impactante nas costas.
+Tabela de Medidas:
+PP - Comprimento: 68cm/ Tórax: 55cm/ Barra: 55cm/ Manga: 19cm/ Cava: 22cm.
+P - Comprimento: 70cm/ Tórax: 58cm/ Barra: 58cm/ Manga: 20cm/ Cava: 23cm.
+M - Comprimento: 72cm/ Tórax: 61cm/ Barra: 61cm/ Manga: 21cm/ Cava: 24cm.
+G - Comprimento: 74cm/ Tórax: 64cm/ Barra: 64cm/ Manga: 22cm/ Cava: 25cm.
+GG - Comprimento: 76cm/ Tórax: 67cm/ Barra: 67cm/ Manga: 23cm/ Cava: 26cm.
+GGG - Comprimento: 78cm/ Tórax: 70cm/ Barra: 70cm/ Manga: 24cm/ Cava: 27cm.
+Composição: 100% Algodão.
+*MEDIDAS APROXIMADAS. Variação de até 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este anúncio se refere somente a Camiseta. Os demais itens contidos na imagem, são vendidos separadamente.
+Todas as peças da BAW Clothing são criadas e produzidas no Brasil.
+
+--- description do JSON-LD Product ---
+CAMISETA OVERSIZED BAW NO LLIE PRETO
+A 
+Camiseta Oversized Baw No Llie
+ &eacute; um tributo &agrave; cultura urbana e underground do skate, combinando influ&ecirc;ncias orientais com a atitude do 
+streetwear
+ cl&aacute;ssico. Confeccionada em malha 100% algod&atilde;o de alta gramatura com toque encorpado e macio, a pe&ccedil;a oferece um caimento 
+oversized
+ aut&ecirc;ntico, com ombros ca&iacute;dos e gola canelada estruturada. O grande destaque visual &eacute; a estampa gr&aacute;fica marcante em silk screen, trazendo a ilustra&ccedil;&atilde;o de um skatista sinalizado dentro do s&iacute;mbolo de &quot;Proibido Skate&quot;, acompanhado de ideogramas japoneses (Kanji) e a assinatura 
+&quot;2014 / Baw&reg;&quot;
+. A arte aparece de forma localizada em escala reduzida no peito esquerdo e em formato ampliado e impactante nas costas.
+Tabela de Medidas:
+PP - Comprimento: 68cm/ T&oacute;rax: 55cm/ Barra: 55cm/ Manga: 19cm/ Cava: 22cm.
+P - Comprimento: 70cm/ T&oacute;rax: 58cm/ Barra: 58cm/ Manga: 20cm/ Cava: 23cm.
+M - Comprimento: 72cm/ T&oacute;rax: 61cm/ Barra: 61cm/ Manga: 21cm/ Cava: 24cm.
+G - Comprimento: 74cm/ T&oacute;rax: 64cm/ Barra: 64cm/ Manga: 22cm/ Cava: 25cm.
+GG - Comprimento: 76cm/ T&oacute;rax: 67cm/ Barra: 67cm/ Manga: 23cm/ Cava: 26cm.
+GGG - Comprimento: 78cm/ T&oacute;rax: 70cm/ Barra: 70cm/ Manga: 24cm/ Cava: 27cm.
+Composi&ccedil;&atilde;o: 100% Algod&atilde;o.
+*MEDIDAS APROXIMADAS. Varia&ccedil;&atilde;o de at&eacute; 3%.
+*CORES APROXIMADAS. Devido as diferentes telas existentes, as cores podem variar de tom e vivacidade.
+*Este an&uacute;ncio se refere somente a Camiseta. Os demais itens contidos na imagem, s&atilde;o vendidos separadamente.
+Todas as pe&ccedil;as da BAW Clothing s&atilde;o criadas e produzidas no Brasil.
