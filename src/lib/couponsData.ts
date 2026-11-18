@@ -4627,7 +4627,7 @@ const STORE_COUPONS: Coupon[] = [
     lastVerified: '2026-11-18',
     testedAt: '2026-11-18',
     testNote:
-      'Num carrinho com a BOLD Caixa Mista pelo preço cheio de R$ 179,00 e o BOLD Whey Chocolate ao Leite de 450 g em promoção, de R$ 209,00 por R$ 189,00, o CECILIA15 tirou R$ 35,80 da caixa e R$ 37,80 do whey: os dois saíram por R$ 143,20 e R$ 151,20, com 20% de desconto em cada um. Os brindes que o carrinho incluiu, uma coqueteleira e uma bolsa térmica a R$ 0,01, continuaram no pedido, e o total ficou em R$ 294,42.',
+      'Num carrinho com a BOLD Caixa Mista pelo preço cheio de R$ 179,00 e o BOLD Whey Chocolate ao Leite de 450 g em promoção, de R$ 209,00 por R$ 189,00, o CECILIA15 tirou R$ 35,80 da caixa e R$ 37,80 do whey: os dois saíram por R$ 143,20 e R$ 151,20, com 20% de desconto em cada um. O resumo mostrou os dois brindes que o carrinho incluiu, uma coqueteleira e uma bolsa térmica a R$ 0,01, e o total ficou em R$ 294,42.',
     codeInstructions: [
       'Copie o código CECILIA15 no card acima.',
       'Acesse o site oficial da BOLD Snacks pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar.',
@@ -4645,7 +4645,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Por que o cupom se chama CECILIA15 e dá 20%?',
         answer:
-          'O nome do código é o mesmo da parceria, mas no nosso teste, durante a campanha de Black Friday da loja, o CECILIA15 deu 20% em cada produto. O percentual pode mudar com as campanhas da BOLD: confira o desconto no resumo do checkout antes de pagar.',
+          'O nome do código vem da parceria, mas no nosso teste, durante a campanha de Black Friday da loja, o CECILIA15 deu 20% em cada produto. O percentual pode mudar com as campanhas da BOLD: confira o desconto no resumo do checkout antes de pagar.',
       },
       {
         question: 'O cupom CECILIA15 vale na primeira compra?',
