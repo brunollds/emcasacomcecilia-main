@@ -4306,6 +4306,144 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'adaptogen',
+    brand: 'Adaptogen',
+    officialUrl: 'https://www.adaptogen.com.br/',
+    // Link de afiliado da parceria (Bruno, 18/11/2026): o parâmetro parceiro marca a compra; não aplica o cupom.
+    offerUrl: 'https://www.adaptogen.com.br/?parceiro=CECILIA',
+    brandIcon: 'A',
+    brandLogo: '/images/about/partners/adaptogen.png',
+    brandLogoAlt: 'Marca Adaptogen Science',
+    bubble: { src: '/images/logos/bolinhas/adaptogen.png', background: '#000000' },
+    brandWatermark: '/images/logos/watermarks/adaptogen.webp',
+    brandColor: '#FFE412',
+    cartPrint: {
+      src: '/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp',
+      alt: 'Resumo do checkout da Adaptogen com o código CECILIA no campo Cupom de desconto, o aviso Cupom aplicado, a linha Cupom de menos R$ 24,49 e o total de R$ 220,44',
+      aspectRatio: 0.58,
+    },
+    code: 'CECILIA',
+    codeFieldLabel: 'Cupom de desconto',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Suplementos esportivos: whey protein, creatina, pré-treino, vitaminas, snacks proteicos e roupas de treino',
+    hubCategory: 'saude',
+    hubCard: 'reduzido',
+    shortDescription: 'todo o site da Adaptogen, inclusive os produtos em promoção',
+    longDescription:
+      'O cupom Adaptogen CECILIA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram em cima dos preços da Black Friday da loja. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Adaptogen: 10% OFF com CECILIA',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom Adaptogen: CECILIA dá 10% OFF em whey, creatina e pré-treino, para cliente novo ou antigo, e soma com as promoções do site. Testado no checkout.',
+    eligibleCategories: 'Produtos do site oficial da Adaptogen, inclusive os que estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping:
+      'Frete grátis acima de R$ 199 no Sudeste, de R$ 249 no Sul e no Centro-Oeste, de R$ 399 no Nordeste e de R$ 599 no Norte, segundo a política de entrega da loja; abaixo disso, frete e prazo saem no checkout pelo CEP',
+    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 10% entraram na creatina e no whey com os preços da Black Friday' },
+      { benefit: 'pix', stacks: 'sim', condition: 'No Pix e no boleto, a loja dá 5% de desconto, que soma com o código' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 no Sudeste, de R$ 249 no Sul e no Centro-Oeste, de R$ 399 no Nordeste e de R$ 599 no Norte' },
+    ],
+    paymentPerks: ['Até 6x sem juros no cartão de crédito, com parcela mínima de R$ 50', 'Pix parcelado em até 4x sem juros'],
+    lastVerified: '2026-11-18',
+    testedAt: '2026-11-18',
+    testNote:
+      'Num carrinho com a Creatina Flavor 300 g em promoção, de R$ 115,00 por R$ 97,75, o CECILIA tirou R$ 9,78 e o total caiu para R$ 87,97. Com o HIT Protein Bag 900 g, de R$ 173,15 por R$ 147,18, no mesmo carrinho, os R$ 244,93 ganharam R$ 24,49 de desconto, e o total ficou em R$ 220,44: os 10% entraram nos dois produtos, por cima dos preços da Black Friday.',
+    codeInstructions: [
+      'Copie o código CECILIA no card acima.',
+      'Acesse o site oficial da Adaptogen pelo botão indicado, coloque os produtos na sacola e clique em Finalizar Compra.',
+      'No resumo do checkout, digite o código no campo Cupom de desconto e clique em Aplicar.',
+      'Confira o aviso Cupom aplicado, em verde, e a linha Cupom no resumo antes de seguir para o pagamento.',
+    ],
+    aboutBrand:
+      'A Adaptogen Science é uma marca de suplementos esportivos criada em 2014 nos Estados Unidos, na Flórida, e vendida no Brasil pelo site oficial: whey protein como a Tasty Whey e o HIT Protein, creatina, pré-treinos como o Panic e o Muscle Bunny, vitaminas, snacks proteicos e roupas de treino. O cupom CECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom CECILIA dá na Adaptogen?',
+        answer:
+          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 24,49 de um carrinho de R$ 244,93, e o resumo do checkout mostrou o valor na linha Cupom.',
+      },
+      {
+        question: 'Existe cupom Adaptogen de 20%?',
+        answer:
+          'Sites de cupom anunciam códigos com percentuais maiores, que nós não testamos. O cupom da Cecília é o CECILIA: 10% OFF, aceito no checkout no nosso teste mais recente, inclusive sobre os produtos em promoção.',
+      },
+      {
+        question: 'O cupom CECILIA soma com o desconto do Pix na Adaptogen?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento, e no Pix e no boleto a Adaptogen dá 5% de desconto. No cartão de crédito, a loja parcela em até 6x sem juros, com parcela mínima de R$ 50.',
+      },
+      {
+        question: 'O cupom Adaptogen vale na primeira compra?',
+        answer: 'Sim. O CECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Adaptogen vale para quem já é cliente?',
+        answer: 'O CECILIA. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O CECILIA é cupom de influenciadora da Adaptogen?',
+        answer:
+          'Sim. CECILIA é o cupom do Em Casa com Cecília na Adaptogen e dá 10% OFF no site oficial para clientes novos e antigos.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, a Creatina Flavor 300 g estava em promoção, de R$ 115,00 por R$ 97,75, e o cupom tirou os 10% dela também.',
+      },
+      {
+        question: 'O cupom CECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o CECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Adaptogen?',
+        answer:
+          'No checkout do site oficial, que abre quando você clica em Finalizar Compra na sacola: digite CECILIA no campo Cupom de desconto e clique em Aplicar. Aparece o aviso Cupom aplicado, em verde, e o resumo passa a mostrar a linha Cupom.',
+      },
+      {
+        question: 'Tem cupom Adaptogen na Black Friday?',
+        answer:
+          'Tem. O cupom Adaptogen CECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Adaptogen vale na Black Friday?',
+        answer:
+          'Vale. No nosso teste, em novembro, os 10% entraram em cima dos preços da Black Friday da loja. Confira a linha Cupom no resumo antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete, mas a loja dá frete grátis acima de R$ 199 no Sudeste, de R$ 249 no Sul e no Centro-Oeste, de R$ 399 no Nordeste e de R$ 599 no Norte. Abaixo disso, o valor e o prazo aparecem no checkout depois do CEP.',
+      },
+      {
+        question: 'Como funciona a troca na Adaptogen?',
+        answer:
+          'Pela política da loja, a desistência pode ser pedida ao atendimento em até 7 dias corridos depois do recebimento, com o produto lacrado e sem uso, na embalagem original e com a nota fiscal. Produto com defeito pode ser informado em até 30 dias. Se a caixa chegar avariada ou violada, a loja pede para recusar a entrega e avisar o atendimento.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIA não funcionar?',
+        answer:
+          'Confira se o código foi digitado no campo Cupom de desconto do checkout, sem espaços, e se apareceu o aviso Cupom aplicado. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site e com os 5% do Pix',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { article: 'cupom-hostinger-indicacao', src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
