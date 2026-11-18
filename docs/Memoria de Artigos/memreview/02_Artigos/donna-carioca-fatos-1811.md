@@ -62,7 +62,7 @@ Mínimo, mediana e máximo saem dos 50 mais vendidos de cada linha, não do cat�
 | Código | Pauta | Slug | Lojas | Por quê |
 |---|---|---|---|---|
 | DC1 | Alternativas à Donna Carioca, linha por linha | `alternativas-a-donna-carioca` | Insider, Toda Up e SHEIN (várias lojas) | Pedido do Bruno. Sem busca própria; vale pela marca grande e por abrir o nicho. Só as linhas com vantagem dita |
-| DC2 | Calcinha para academia: qual escolher | `calcinha-para-academia` | Insider e Toda Up | **GO do Bruno em 18/11: a primeira a virar briefing (seção 8).** Já temos `cueca-para-academia` e `calcinha-insider-qual-escolher`. A Donna Carioca entra como referência de preço do kit |
+| DC2 | Calcinha para academia: qual escolher | `calcinha-para-academia` | Insider e Toda Up | **GO do Bruno em 18/11; briefing em [[calcinha-para-academia]] (seção 8).** Já temos `cueca-para-academia` e `calcinha-insider-qual-escolher`. A Donna Carioca entra como referência de preço do kit |
 | DC3 | Donna Carioca é confiável? (com o Reclame Aqui e o site oficial) | `donna-carioca-e-confiavel` | nenhuma | A busca mais forte da marca. Molde: `stylekorean-e-confiavel`. Sem afiliado; linka a DC1 |
 | DC4 | Insider ou Donna Carioca: legging | `insider-ou-donna-carioca` | Insider | Um par por artigo. Depois do reteste da Insider |
 
@@ -131,7 +131,31 @@ Estoque, sem saída hoje: "legging donna carioca é transparente" (só com peça
 - **Gramatura:** nenhuma das fichas lidas traz.
 - **Conclusão:** nenhuma fonte pública lida mostra material ou acabamento melhor. O que se sustenta é forro declarado, compra por unidade, cor, grade e prazo de troca.
 
-**Falta para o Job 1:** composição do SkinUp e do Cotton Up na página do produto; o que a página da Insider diz do "anti odor" (tratamento ou fibra); frete das três; preços relidos, porque as três estão em Black Friday.
+**Leituras do Job 1 (18/11/2026, página de cada produto, sem login). Briefing em [[calcinha-para-academia]].**
+
+| Peça | Tecido de fora | Forro |
+|---|---|---|
+| Insider, corte a laser (Brief, Fio Minimal, Caleçon Cover) | **91% poliamida, 9% elastano** (corrige os 87,5% da tabela acima, que são dos modelos com costura) | "Fundilho em modal", sem porcentagem |
+| Insider, com costura (Brief, Fio Minimal, String, Hot Pant, Boxer) | 87,5% poliamida, 12,5% elastano | 88% modal, 12% elastano |
+| Insider, NakedFeel | 75% poliamida, 25% elastano | Modal |
+| Toda Up, SkinUp | 76,5% poliamida, 23,5% elastano | 95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% elastano |
+| Toda Up, Cotton Up | 95% algodão, 5% elastano (a página cita "tecnologia Polygiene") | não dito |
+| Donna Carioca, os seis kits | 90% poliamida, 10% elastano | A descrição inteira (cerca de 3.400 caracteres por kit) não cita forro, fundilho, algodão nem modal |
+
+- **Material, o que se sustenta (o Bruno voltou ao ponto em 18/11: "o tipo do material usado na combinação"):** as
+  duas parceiras declaram um segundo material no forro, de fibra celulósica; a Donna Carioca declara uma composição
+  só. O SkinUp e a NakedFeel têm mais que o dobro de elastano. Nas calcinhas a laser da Insider, o tecido de fora é
+  praticamente o do kit: ali a diferença é só o forro. Segue sem "melhor" nem "superior".
+- **"Anti odor" na Insider:** a página atribui ao modal ("propriedade antibacteriana natural", nas palavras dela) e
+  lista "Antiodor" e "Antibacteriana" como características. É alegação da loja.
+- **Preços de 18/11:** Insider a laser R$ 39 (Brief e Fio; variantes a R$ 35) e R$ 45 (Caleçon; variantes a
+  R$ 39); com costura R$ 65 a R$ 85, com promoções por cor; NakedFeel R$ 59. Toda Up: SkinUp R$ 49,90 (de R$ 59,90)
+  e Cotton Up R$ 39,90 (de R$ 59,90); há páginas "Black VIP" dos mesmos produtos, onde o `MAUAD` não entra. Donna
+  Carioca: kits sem mudança (R$ 77,90, R$ 88,90 e R$ 111,00).
+- **Frete:** Insider grátis acima de R$ 399 (política de frete). Toda Up: pelo CEP, despacho em até 3 dias úteis; a
+  política não cita frete grátis. Donna Carioca: não saiu nas páginas lidas.
+- **NakedFeel sem cupom:** o aviso não apareceu no HTML lido em 18/11; conferir no carrinho.
+- As páginas da Toda Up anunciam um cupom da própria loja: nunca citar.
 
 ## 7. Falta ler antes de qualquer briefing
 
