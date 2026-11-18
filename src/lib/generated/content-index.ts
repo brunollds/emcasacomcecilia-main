@@ -250168,6 +250168,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-reembolso-como-cancelar"
+      },
+      {
+        "slug": "proton-vpn-vale-a-pena"
       }
     ],
     "decision": {
@@ -250420,6 +250423,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-refund-how-to-cancel"
+      },
+      {
+        "slug": "is-proton-vpn-worth-it"
       }
     ],
     "decision": {
@@ -250672,6 +250678,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-reembolso-cancelar-suscripcion"
+      },
+      {
+        "slug": "proton-vpn-vale-la-pena"
       }
     ],
     "decision": {
@@ -250924,6 +250933,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-remboursement-resilier"
+      },
+      {
+        "slug": "proton-vpn-vaut-il-le-coup"
       }
     ],
     "decision": {
@@ -251176,6 +251188,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-kuendigen-rueckerstattung"
+      },
+      {
+        "slug": "lohnt-sich-proton-vpn"
       }
     ],
     "decision": {
@@ -251428,6 +251443,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-rimborso-come-disdire"
+      },
+      {
+        "slug": "proton-vpn-conviene"
       }
     ],
     "decision": {
@@ -251680,6 +251698,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-refund-ko"
+      },
+      {
+        "slug": "proton-vpn-worth-it-ko"
       }
     ],
     "decision": {
@@ -251932,6 +251953,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-refund-ja"
+      },
+      {
+        "slug": "proton-vpn-worth-it-ja"
       }
     ],
     "decision": {
@@ -252184,6 +252208,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-refund-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-worth-it-zh-hant"
       }
     ],
     "decision": {
@@ -252436,6 +252463,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-vpn-refund-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-worth-it-zh-hans"
       }
     ],
     "decision": {
@@ -252638,6 +252668,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-proton"
+      },
+      {
+        "slug": "proton-vpn-vale-a-pena"
       }
     ]
   },
@@ -252830,6 +252863,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday"
+      },
+      {
+        "slug": "is-proton-vpn-worth-it"
       }
     ]
   },
@@ -253022,6 +253058,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-proton-ofertas"
+      },
+      {
+        "slug": "proton-vpn-vale-la-pena"
       }
     ]
   },
@@ -253214,6 +253253,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-proton-offres"
+      },
+      {
+        "slug": "proton-vpn-vaut-il-le-coup"
       }
     ]
   },
@@ -253406,6 +253448,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-angebote"
+      },
+      {
+        "slug": "lohnt-sich-proton-vpn"
       }
     ]
   },
@@ -253598,6 +253643,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-proton-offerte"
+      },
+      {
+        "slug": "proton-vpn-conviene"
       }
     ]
   },
@@ -253790,6 +253838,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-ko"
+      },
+      {
+        "slug": "proton-vpn-worth-it-ko"
       }
     ]
   },
@@ -253982,6 +254033,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-ja"
+      },
+      {
+        "slug": "proton-vpn-worth-it-ja"
       }
     ]
   },
@@ -254174,6 +254228,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-worth-it-zh-hant"
       }
     ]
   },
@@ -254366,6 +254423,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-worth-it-zh-hans"
       }
     ]
   },
@@ -254537,6 +254597,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-proton"
+      },
+      {
+        "slug": "proton-vpn-vale-a-pena"
       }
     ]
   },
@@ -254702,6 +254765,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday"
+      },
+      {
+        "slug": "is-proton-vpn-worth-it"
       }
     ]
   },
@@ -254867,6 +254933,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-proton-ofertas"
+      },
+      {
+        "slug": "proton-vpn-vale-la-pena"
       }
     ]
   },
@@ -255032,6 +255101,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-proton-offres"
+      },
+      {
+        "slug": "proton-vpn-vaut-il-le-coup"
       }
     ]
   },
@@ -255197,6 +255269,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-angebote"
+      },
+      {
+        "slug": "lohnt-sich-proton-vpn"
       }
     ]
   },
@@ -255362,6 +255437,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-proton-offerte"
+      },
+      {
+        "slug": "proton-vpn-conviene"
       }
     ]
   },
@@ -255527,6 +255605,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-ko"
+      },
+      {
+        "slug": "proton-vpn-worth-it-ko"
       }
     ]
   },
@@ -255692,6 +255773,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-ja"
+      },
+      {
+        "slug": "proton-vpn-worth-it-ja"
       }
     ]
   },
@@ -255857,6 +255941,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-worth-it-zh-hant"
       }
     ]
   },
@@ -256022,7 +256109,2330 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "proton-black-friday-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-worth-it-zh-hans"
       }
     ]
+  },
+  {
+    "id": 1029,
+    "slug": "proton-vpn-vale-a-pena",
+    "locale": "pt",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "Proton VPN vale a pena? O que o plano grátis faz, o que o Plus acrescenta e quanto custa em reais",
+    "seoTitle": "Proton VPN vale a pena? Grátis ou Plus, preço em reais",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que o Proton VPN grátis resolve, o que só o Plus tem, quanto ele custa em reais no primeiro período e na renovação, e quando o Unlimited compensa.",
+    "metaDescription": "Proton VPN vale a pena? Veja o que o plano grátis faz, quando o Plus compensa, o preço em reais com a renovação e as condições do reembolso em 30 dias.",
+    "publishedAt": "17 de novembro de 2026",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "Logo da Proton ao lado da chamada Proton VPN, Free or Plus, e de uma foto oficial de uma mão segurando um celular com o aplicativo Proton VPN.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Segundo a Proton, o plano grátis do Proton VPN não tem anúncios nem limite de dados e liga um aparelho por vez. Para o celular em Wi-Fi público, ele basta. O Plus compensa para quem quer escolher o país, usar vários aparelhos ou bloquear anúncios. Fora do plano mensal, a renovação custa mais que o primeiro período."
+        ]
+      },
+      {
+        "heading": "O que o plano grátis faz e o que não faz",
+        "paragraphs": [
+          "O plano grátis não pede cartão. Pelas páginas da Proton, ele não tem anúncios, não tem limite de dados e segue a política de não guardar registros de atividade.",
+          "Os limites estão na página de preços. O plano grátis liga 1 dispositivo por vez, e ela fala em \"velocidade média\" e em servidores de 10 países, \"selecionados aleatoriamente\". Quem escolhe o país é o aplicativo. Bloqueador de anúncios, P2P e streaming aparecem como não incluídos no plano grátis, e o Secure Core vem marcado como premium."
+        ]
+      },
+      {
+        "heading": "O que o Plus acrescenta",
+        "paragraphs": [
+          "O VPN Plus é o plano pago só da VPN. A página de preços lista o que muda em relação ao grátis."
+        ],
+        "bullets": [
+          "**10 dispositivos ao mesmo tempo**, no lugar de 1.",
+          "**Escolha do país**, entre mais de 140.",
+          "**\"Velocidade máxima\"**, nas palavras da Proton.",
+          "**NetShield**, o bloqueador de anúncios, rastreadores e malware por filtragem de DNS.",
+          "**Secure Core**, que a página marca como recurso premium.",
+          "**P2P e streaming**, que a página lista no plano.",
+          "**Suporte prioritário e chat.**"
+        ],
+        "postParagraphs": [
+          "Não usamos o Proton VPN. Velocidade, P2P e streaming entram aqui como a Proton anuncia, sem medição nossa e sem promessa de acesso a serviço de vídeo. A parte de confiança, com as auditorias, está em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "O plano grátis resolve o seu uso?",
+        "paragraphs": [
+          "A tabela parte do que você quer fazer e usa só o que as páginas de planos dizem."
+        ],
+        "comparisonTable": {
+          "caption": "Plano grátis e VPN Plus por uso, pelas páginas de planos da Proton.",
+          "headers": [
+            "O que você quer fazer",
+            "Plano grátis",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "Proteger o celular em Wi-Fi público",
+              "Resolve, em 1 aparelho por vez",
+              "Resolve"
+            ],
+            [
+              "Usar em vários aparelhos da casa ao mesmo tempo",
+              "Não, 1 por vez",
+              "Até 10 por vez"
+            ],
+            [
+              "Escolher o país da conexão",
+              "Não, o aplicativo escolhe entre 10 países",
+              "Sim, mais de 140 países"
+            ],
+            [
+              "Bloquear anúncios e rastreadores no aparelho",
+              "Não incluído",
+              "Sim, com o NetShield"
+            ],
+            [
+              "Compartilhar arquivos por P2P",
+              "Não incluído",
+              "Incluído, segundo a página"
+            ],
+            [
+              "Velocidade anunciada pela Proton",
+              "\"Velocidade média\"",
+              "\"Velocidade máxima\""
+            ],
+            [
+              "Usar sem limite de dados",
+              "Sim",
+              "Sim"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Quanto custa o VPN Plus em reais",
+        "paragraphs": [
+          "Estes eram os preços das páginas da Proton em 17/11/2026. O valor em destaque é o \"por mês\", mas a cobrança é do período inteiro, de uma vez. O plano de 1 ano estava com o preço da campanha de Black Friday."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus nas páginas de preços e de parceiros da Proton, em reais. O valor muda com o país e a moeda; confira no checkout.",
+          "headers": [
+            "Plano",
+            "Por mês",
+            "Cobrado de uma vez",
+            "Depois renova por"
+          ],
+          "rows": [
+            [
+              "1 mês",
+              "R$ 34,99",
+              "R$ 34,99",
+              "R$ 34,99 todo mês"
+            ],
+            [
+              "1 ano",
+              "R$ 10,49",
+              "R$ 125,88",
+              "R$ 293,88 a cada 12 meses"
+            ],
+            [
+              "2 anos",
+              "R$ 12,29",
+              "R$ 294,96",
+              "R$ 293,88 a cada 12 meses"
+            ],
+            [
+              "2 anos, pela página de parceiros (a do nosso link)",
+              "R$ 8,79",
+              "R$ 210,96",
+              "R$ 293,88 a cada 12 meses"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos planos de 1 e de 2 anos, o preço da tabela vale só no primeiro período. Depois, os dois renovam a cada 12 meses pelo valor anunciado de R$ 293,88, e os termos dizem que vale o preço em vigor na data. Por isso, quem fica dois anos paga menos no plano de 2 anos do que no de 1 ano mais uma renovação.",
+          "A última linha é a da página que o botão abre: o mesmo plano de 2 anos por R$ 210,96 nos primeiros 24 meses, com a mesma renovação. A comparação entre os caminhos está no [guia da Black Friday da Proton](/reviews/black-friday-proton)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-brl.webp",
+          "alt": "Cartão do VPN Plus na página de preços da Proton, com o plano de 1 ano a R$ 10,49 por mês, R$ 125,88 pelos primeiros 12 meses e renovação por R$ 293,88 a cada 12 meses.",
+          "caption": "O cartão do VPN Plus de 1 ano na página de preços da Proton, com o total e a renovação na linha pequena."
+        }
+      },
+      {
+        "heading": "VPN Plus ou Proton Unlimited",
+        "paragraphs": [
+          "O Proton Unlimited junta os recursos pagos da VPN, do e-mail, da nuvem e do gerenciador de senhas numa conta. Na mesma página, o plano de 1 ano custava R$ 273,48 e renovava por R$ 419,88 a cada 12 meses.",
+          "Quem assina o VPN Plus continua com os planos grátis dos outros serviços, e a central de ajuda diz que não dá para ter vários planos Plus na mesma conta. O Unlimited faz sentido para quem vai usar a VPN paga e mais um serviço pago da Proton. Para quem só quer a VPN, o Plus de 1 ano custa menos da metade no primeiro período (R$ 125,88 contra R$ 273,48) e segue mais barato na renovação (R$ 293,88 contra R$ 419,88).",
+          "Usamos o Proton Mail, da mesma empresa, no plano gratuito, há quase dez anos. Quem está bem com o e-mail grátis não precisa do Unlimited para ter a VPN paga."
+        ]
+      },
+      {
+        "heading": "O que pesa contra",
+        "bullets": [
+          "**Nos planos de 1 e 2 anos, a renovação custa mais que o primeiro período.** No de 1 ano da página de preços, de R$ 125,88 para R$ 293,88.",
+          "**Não há Pix.** A página lista cartão Visa, Mastercard e American Express e PayPal.",
+          "**O perfil no Reclame Aqui fica sem resposta.** As reclamações do perfil do Proton VPN estavam sem resposta da empresa, como mostramos em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel). O atendimento é pelo formulário de suporte do site, e o chat aparece só no plano pago.",
+          "**O plano grátis não deixa escolher o país.** Se esse é o seu motivo para ter uma VPN, o grátis não serve."
+        ]
+      },
+      {
+        "heading": "Como assinar e como desistir",
+        "paragraphs": [
+          "Não há cupom nem código para digitar. O botão abre a página de parceiros, com o VPN Plus de 2 anos; o plano de 1 ano e o mensal ficam na página de preços da Proton. O checkout mostra a moeda e o total antes do pagamento. Anote a data da renovação no dia da compra.",
+          "Segundo a Proton, as ofertas da campanha valem para \"todos os novos usuários\". Quem já tem conta vê as ofertas dela depois de entrar, e essas não lemos, porque pedem login. Se a ideia é testar o grátis antes, confira o preço na sua conta no dia de assinar.",
+          "Os termos da Proton dão reembolso a quem cancela e pede o dinheiro em até 30 dias da compra inicial, uma vez por usuário e só para assinatura feita direto com a Proton. O caminho está em [como cancelar o Proton VPN e pedir o reembolso](/reviews/proton-vpn-reembolso-como-cancelar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Proton VPN é gratuito? Tem um plano grátis, sem cartão, e planos pagos. Segundo a Proton, o grátis não tem anúncios nem limite de dados e liga 1 aparelho por vez.",
+          "O Proton VPN grátis tem limite de dados? A Proton diz que não. Os limites do plano grátis são 1 dispositivo por vez e servidores de 10 países escolhidos pelo aplicativo.",
+          "Quanto custa o Proton VPN Plus? Na página de preços que lemos, o plano de 1 ano saía por R$ 125,88, cobrados de uma vez, e renovava por R$ 293,88 a cada 12 meses. O plano mensal custava R$ 34,99. Os valores mudam com o país e a moeda.",
+          "Qual a diferença entre o VPN Plus e o Proton Unlimited? O VPN Plus é só a VPN paga. O Unlimited inclui também os recursos pagos do e-mail, da nuvem e do gerenciador de senhas, por um preço maior.",
+          "Dá para testar o Plus e pedir o dinheiro de volta? Os termos preveem reembolso em até 30 dias da compra inicial, uma vez por usuário, para quem assinou direto com a Proton e fez o cancelamento e o pedido dentro do prazo."
+        ],
+        "postParagraphs": [
+          "As regras do nosso link estão na [página da Proton no nosso site](/cupons/proton)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se você decidiu pelo Plus, o nosso link abre a página de parceiros da Proton, com o plano de 2 anos. Confira o total cobrado de uma vez e a renovação antes de pagar.",
+      "label": "Ver oferta do Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Feito com as páginas de planos e os termos da Proton, sem teste de uso. O link é de afiliado e pode gerar comissão.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-e-confiavel"
+      },
+      {
+        "slug": "black-friday-proton"
+      },
+      {
+        "slug": "proton-vpn-reembolso-como-cancelar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você usa VPN em mais de um aparelho ou precisa escolher o país da conexão.",
+        "Você quer o bloqueador de anúncios e rastreadores no aparelho todo."
+      ],
+      "skipIf": [
+        "Seu uso é ocasional, num aparelho só, e o país da conexão não importa.",
+        "O valor da renovação não cabe no seu orçamento."
+      ]
+    }
+  },
+  {
+    "id": 1030,
+    "slug": "is-proton-vpn-worth-it",
+    "locale": "en",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "Is Proton VPN worth it? What the free plan does, what Plus adds and what it costs",
+    "seoTitle": "Is Proton VPN worth it? Free vs Plus, price and renewal",
+    "type": "Buying Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "What Proton VPN Free covers, what only Plus has, what Plus costs for the first period and at renewal, and when Proton Unlimited makes sense.",
+    "metaDescription": "Is Proton VPN worth it? See what the free plan does, when Plus pays off, the price with the renewal and the terms of the 30-day refund.",
+    "publishedAt": "November 17, 2026",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "The Proton logo beside the words Proton VPN, Free or Plus, next to an official photo of a hand holding a phone with the Proton VPN app.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "According to Proton, the free plan of Proton VPN has no ads and no data limit and connects one device at a time. For a phone on public Wi-Fi, that is enough. Plus pays off if you want to choose the country, use several devices or block ads. Outside the monthly plan, the renewal costs more than the first period."
+        ]
+      },
+      {
+        "heading": "What the free plan does and does not do",
+        "paragraphs": [
+          "The free plan does not ask for a card. According to Proton's pages, it has no ads, no data limit and follows the policy of not keeping activity logs.",
+          "The limits are on the pricing page. The free plan connects 1 device at a time, and the page speaks of \"medium VPN speed\" and of servers in 10 countries, \"randomly selected\". The app picks the country. Ad blocking, P2P and streaming are shown as not included in the free plan, and Secure Core is marked as a premium feature."
+        ]
+      },
+      {
+        "heading": "What Plus adds",
+        "paragraphs": [
+          "VPN Plus is the paid plan for the VPN alone. The pricing page lists what changes compared with the free plan."
+        ],
+        "bullets": [
+          "**10 devices at the same time**, instead of 1.",
+          "**Choice of country**, among more than 140, with more than 20,000 servers.",
+          "**\"Highest VPN speed\"**, in Proton's words.",
+          "**NetShield**, the blocker for ads, trackers and malware through DNS filtering.",
+          "**Secure Core**, which the page marks as a premium feature.",
+          "**P2P and streaming**, which the page lists in the plan.",
+          "**Priority support and live chat.**"
+        ],
+        "postParagraphs": [
+          "We do not use Proton VPN. Speed, P2P and streaming appear here as Proton advertises them, with no measurement of ours and no promise of access to any video service. The trust side, with the audits, is in [Is Proton VPN safe?](/en/reviews/is-proton-vpn-safe)."
+        ]
+      },
+      {
+        "heading": "Does the free plan cover your use?",
+        "paragraphs": [
+          "The table starts from what you want to do and uses only what the plan pages say."
+        ],
+        "comparisonTable": {
+          "caption": "Free plan and VPN Plus by use, according to Proton's plan pages.",
+          "headers": [
+            "What you want to do",
+            "Free plan",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "Protect a phone on public Wi-Fi",
+              "Covered, on 1 device at a time",
+              "Covered"
+            ],
+            [
+              "Use several devices at home at the same time",
+              "No, 1 at a time",
+              "Up to 10 at a time"
+            ],
+            [
+              "Choose the country of the connection",
+              "No, the app picks among 10 countries",
+              "Yes, more than 140 countries"
+            ],
+            [
+              "Block ads and trackers on the device",
+              "Not included",
+              "Yes, with NetShield"
+            ],
+            [
+              "Share files over P2P",
+              "Not included",
+              "Included, according to the page"
+            ],
+            [
+              "Speed advertised by Proton",
+              "\"Medium VPN speed\"",
+              "\"Highest VPN speed\""
+            ],
+            [
+              "Use it with no data limit",
+              "Yes",
+              "Yes"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "What VPN Plus costs",
+        "paragraphs": [
+          "These were the prices on Proton's pages on November 17, 2026, with the currency set to US dollars. The headline figure is the \"per month\" one, but the charge is for the whole period, upfront. The 1-year plan was at the Black Friday campaign price."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus on Proton's pricing and partner pages, in US dollars. The amount changes with country and currency; check it at checkout.",
+          "headers": [
+            "Plan",
+            "Per month",
+            "Billed upfront",
+            "Then renews at"
+          ],
+          "rows": [
+            [
+              "1 month",
+              "$9.99",
+              "$9.99",
+              "$9.99 every month"
+            ],
+            [
+              "1 year",
+              "$2.99",
+              "$35.88",
+              "$83.88 every 12 months"
+            ],
+            [
+              "2 years",
+              "$3.49",
+              "$83.76",
+              "$83.88 every 12 months"
+            ],
+            [
+              "2 years, on the partner page (the one our link opens)",
+              "$2.49",
+              "$59.76",
+              "$83.88 every 12 months"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "On the 1-year and 2-year plans, the price in the table applies only to the first period. After that, both renew every 12 months at the advertised $83.88, and the terms say the price in force on the date applies. So if you stay two years, the 2-year plan costs less than the 1-year plan plus one renewal.",
+          "The last row is the page our button opens: the same 2-year plan at $59.76 for the first 24 months, with the same renewal. The comparison between the routes is in the [Proton Black Friday guide](/en/reviews/proton-black-friday)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "alt": "The VPN Plus card on Proton's pricing page, with the 1-year plan at $2.99 per month, billed at $35.88 for the first 12 months and renewing at $83.88 every 12 months.",
+          "caption": "The 1-year VPN Plus card on Proton's pricing page, with the total and the renewal in the small print."
+        }
+      },
+      {
+        "heading": "VPN Plus or Proton Unlimited",
+        "paragraphs": [
+          "Proton Unlimited brings the paid features of the VPN, the email, the cloud storage and the password manager into one account. On the same page, the 1-year plan cost $77.88 and renewed at $119.88 every 12 months.",
+          "If you subscribe to VPN Plus, you keep the free plans of the other services, and the help center says you cannot have several Plus plans on the same account. Unlimited makes sense if you will use the paid VPN and one more paid Proton service. If you only want the VPN, the 1-year Plus costs less than half in the first period ($35.88 against $77.88) and stays cheaper at renewal ($83.88 against $119.88).",
+          "We have used Proton Mail, from the same company, on the free plan for almost ten years. If the free email is enough for you, you do not need Unlimited to have the paid VPN."
+        ]
+      },
+      {
+        "heading": "What counts against it",
+        "bullets": [
+          "**On the 1-year and 2-year plans, the renewal costs more than the first period.** On the 1-year plan from the pricing page, from $35.88 to $83.88.",
+          "**Support starts with a form.** Proton's support runs through the contact form on its site, and live chat is listed only on the paid plan. More on this in [Is Proton VPN safe?](/en/reviews/is-proton-vpn-safe).",
+          "**The free plan does not let you choose the country.** If that is your reason for having a VPN, the free plan will not do."
+        ]
+      },
+      {
+        "heading": "How to subscribe and how to back out",
+        "paragraphs": [
+          "There is no coupon or code to type. The button opens the partner page, with the 2-year VPN Plus; the 1-year and monthly plans are on Proton's pricing page. The checkout shows the currency and the total before payment. Write down the renewal date on the day you buy.",
+          "According to Proton, the campaign offers are for \"all new users\". If you already have an account, you see its offers after signing in, and we did not read those because they require a login. If the idea is to try the free plan first, check the price in your account on the day you subscribe.",
+          "Proton's terms give a refund to those who cancel and ask for the money within 30 days of the initial purchase, once per user and only for a subscription bought directly from Proton. The steps are in [how to cancel Proton VPN and ask for a refund](/en/reviews/proton-vpn-refund-how-to-cancel)."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is Proton VPN free? It has a free plan, with no card, and paid plans. According to Proton, the free plan has no ads and no data limit and connects 1 device at a time.",
+          "Does Proton VPN Free have a data limit? Proton says it does not. The limits of the free plan are 1 device at a time and servers in 10 countries picked by the app.",
+          "How much does Proton VPN Plus cost? On the pricing page we read, in US dollars, the 1-year plan was $35.88, billed upfront, and renewed at $83.88 every 12 months. The monthly plan cost $9.99. The amounts change with country and currency.",
+          "What is the difference between VPN Plus and Proton Unlimited? VPN Plus is the paid VPN alone. Unlimited also includes the paid features of the email, the cloud storage and the password manager, for a higher price.",
+          "Can I try Plus and get my money back? The terms provide for a refund within 30 days of the initial purchase, once per user, for those who subscribed directly with Proton and cancelled and asked within the period."
+        ],
+        "postParagraphs": [
+          "The rules of our link are on the [Proton page on our site](/en/coupons/proton)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "If you have decided on Plus, our link opens Proton's partner page, with the 2-year plan. Check the upfront total and the renewal before you pay.",
+      "label": "View the Proton VPN offer",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Written from Proton's plan pages and terms, with no hands-on test. The link is an affiliate link and may earn a commission.",
+    "relatedArticles": [
+      {
+        "slug": "is-proton-vpn-safe"
+      },
+      {
+        "slug": "proton-black-friday"
+      },
+      {
+        "slug": "proton-vpn-refund-how-to-cancel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "You use a VPN on more than one device or need to choose the country of the connection.",
+        "You want the ad and tracker blocker across the whole device."
+      ],
+      "skipIf": [
+        "Your use is occasional, on a single device, and the country of the connection does not matter.",
+        "The renewal amount does not fit your budget."
+      ]
+    }
+  },
+  {
+    "id": 1031,
+    "slug": "proton-vpn-vale-la-pena",
+    "locale": "es",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "¿Vale la pena Proton VPN? Qué hace el plan gratuito, qué añade Plus y cuánto cuesta",
+    "seoTitle": "¿Vale la pena Proton VPN? Gratis o Plus, precio y renovación",
+    "type": "Guía de compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Qué cubre Proton VPN Free, qué solo tiene Plus, cuánto cuesta Plus en el primer periodo y en la renovación, y cuándo conviene Proton Unlimited.",
+    "metaDescription": "¿Vale la pena Proton VPN? Mira qué hace el plan gratuito, cuándo compensa Plus, el precio con la renovación y las condiciones del reembolso de 30 días.",
+    "publishedAt": "17 de noviembre de 2026",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "El logotipo de Proton junto al texto Proton VPN, Free o Plus, al lado de una foto oficial de una mano que sostiene un teléfono con la app de Proton VPN.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Según Proton, el plan gratuito de Proton VPN no tiene anuncios ni límite de datos y conecta un dispositivo a la vez. Para un teléfono en una Wi-Fi pública, basta. Plus compensa si quieres elegir el país, usar varios dispositivos o bloquear anuncios. Fuera del plan mensual, la renovación cuesta más que el primer periodo."
+        ]
+      },
+      {
+        "heading": "Qué hace y qué no hace el plan gratuito",
+        "paragraphs": [
+          "El plan gratuito no pide tarjeta. Según las páginas de Proton, no tiene anuncios ni límite de datos y sigue la política de no guardar registros de actividad.",
+          "Los límites están en la página de precios. El plan gratuito conecta 1 dispositivo a la vez, y la página habla de \"velocidad media de VPN\" y de servidores en 10 países, \"elegidos al azar\". La app escoge el país. El bloqueo de anuncios, el P2P y el streaming aparecen como no incluidos en el plan gratuito, y Secure Core figura como función premium."
+        ]
+      },
+      {
+        "heading": "Qué añade Plus",
+        "paragraphs": [
+          "VPN Plus es el plan de pago solo para la VPN. La página de precios enumera qué cambia respecto al plan gratuito."
+        ],
+        "bullets": [
+          "**10 dispositivos a la vez**, en lugar de 1.",
+          "**Elección del país**, entre más de 140, con más de 20 000 servidores.",
+          "**\"La mayor velocidad de VPN\"**, en palabras de Proton.",
+          "**NetShield**, el bloqueador de anuncios, rastreadores y malware mediante filtrado DNS.",
+          "**Secure Core**, que la página marca como función premium.",
+          "**P2P y streaming**, que la página incluye en el plan.",
+          "**Soporte prioritario y chat en directo.**"
+        ],
+        "postParagraphs": [
+          "No usamos Proton VPN. La velocidad, el P2P y el streaming aparecen aquí tal como los anuncia Proton, sin ninguna medición nuestra y sin prometer acceso a ningún servicio de vídeo. La parte de confianza, con las auditorías, está en [¿Es seguro Proton VPN?](/es/reviews/proton-vpn-es-confiable)."
+        ]
+      },
+      {
+        "heading": "¿El plan gratuito cubre tu uso?",
+        "paragraphs": [
+          "La tabla parte de lo que quieres hacer y usa solo lo que dicen las páginas de los planes."
+        ],
+        "comparisonTable": {
+          "caption": "Plan gratuito y VPN Plus según el uso, de acuerdo con las páginas de planes de Proton.",
+          "headers": [
+            "Lo que quieres hacer",
+            "Plan gratuito",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "Proteger un teléfono en una Wi-Fi pública",
+              "Cubierto, en 1 dispositivo a la vez",
+              "Cubierto"
+            ],
+            [
+              "Usar varios dispositivos en casa al mismo tiempo",
+              "No, 1 a la vez",
+              "Hasta 10 a la vez"
+            ],
+            [
+              "Elegir el país de la conexión",
+              "No, la app elige entre 10 países",
+              "Sí, más de 140 países"
+            ],
+            [
+              "Bloquear anuncios y rastreadores en el dispositivo",
+              "No incluido",
+              "Sí, con NetShield"
+            ],
+            [
+              "Compartir archivos por P2P",
+              "No incluido",
+              "Incluido, según la página"
+            ],
+            [
+              "Velocidad que anuncia Proton",
+              "\"Velocidad media de VPN\"",
+              "\"La mayor velocidad de VPN\""
+            ],
+            [
+              "Usarla sin límite de datos",
+              "Sí",
+              "Sí"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Cuánto cuesta VPN Plus",
+        "paragraphs": [
+          "Estos eran los precios de las páginas de Proton el 17 de noviembre de 2026, con la moneda en dólares estadounidenses. La cifra destacada es la \"por mes\", pero el cobro es por todo el periodo, por adelantado. El plan de 1 año estaba al precio de la campaña de Black Friday."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus en las páginas de precios y de socios de Proton, en dólares estadounidenses. El importe cambia según el país y la moneda; compruébalo al pagar.",
+          "headers": [
+            "Plan",
+            "Por mes",
+            "Cobrado por adelantado",
+            "Luego se renueva a"
+          ],
+          "rows": [
+            [
+              "1 mes",
+              "$9.99",
+              "$9.99",
+              "$9.99 cada mes"
+            ],
+            [
+              "1 año",
+              "$2.99",
+              "$35.88",
+              "$83.88 cada 12 meses"
+            ],
+            [
+              "2 años",
+              "$3.49",
+              "$83.76",
+              "$83.88 cada 12 meses"
+            ],
+            [
+              "2 años, en la página de socios (la que abre nuestro enlace)",
+              "$2.49",
+              "$59.76",
+              "$83.88 cada 12 meses"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En los planes de 1 y 2 años, el precio de la tabla vale solo para el primer periodo. Después, ambos se renuevan cada 12 meses a los $83.88 anunciados, y los términos dicen que se aplica el precio vigente en esa fecha. Así que, si te quedas dos años, el plan de 2 años cuesta menos que el de 1 año más una renovación.",
+          "La última fila es la página que abre nuestro botón: el mismo plan de 2 años a $59.76 por los primeros 24 meses, con la misma renovación. La comparación entre las vías está en la [guía de Black Friday de Proton](/es/reviews/black-friday-proton-ofertas)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "alt": "La tarjeta de VPN Plus en la página de precios de Proton, con el plan de 1 año a $2.99 por mes, $35.88 cobrados por los primeros 12 meses y renovación a $83.88 cada 12 meses.",
+          "caption": "La tarjeta de VPN Plus de 1 año en la página de precios de Proton, con el total y la renovación en la letra pequeña."
+        }
+      },
+      {
+        "heading": "VPN Plus o Proton Unlimited",
+        "paragraphs": [
+          "Proton Unlimited reúne en una sola cuenta las funciones de pago de la VPN, el correo, el almacenamiento en la nube y el gestor de contraseñas. En la misma página, el plan de 1 año costaba $77.88 y se renovaba a $119.88 cada 12 meses.",
+          "Si te suscribes a VPN Plus, conservas los planes gratuitos de los demás servicios, y el centro de ayuda dice que no puedes tener varios planes Plus en la misma cuenta. Unlimited compensa si vas a usar la VPN de pago y otro servicio de pago de Proton. Si solo quieres la VPN, el Plus de 1 año cuesta menos de la mitad en el primer periodo ($35.88 frente a $77.88) y sigue siendo más barato en la renovación ($83.88 frente a $119.88).",
+          "Usamos Proton Mail, de la misma empresa, en el plan gratuito desde hace casi diez años. Si el correo gratuito te basta, no necesitas Unlimited para tener la VPN de pago."
+        ]
+      },
+      {
+        "heading": "Lo que juega en contra",
+        "bullets": [
+          "**En los planes de 1 y 2 años, la renovación cuesta más que el primer periodo.** En el plan de 1 año de la página de precios, de $35.88 a $83.88.",
+          "**El soporte empieza con un formulario.** El soporte de Proton pasa por el formulario de contacto de su sitio, y el chat en directo figura solo en el plan de pago. Más sobre esto en [¿Es seguro Proton VPN?](/es/reviews/proton-vpn-es-confiable).",
+          "**El plan gratuito no permite elegir el país.** Si ese es tu motivo para tener una VPN, el plan gratuito no sirve."
+        ]
+      },
+      {
+        "heading": "Cómo suscribirte y cómo echarte atrás",
+        "paragraphs": [
+          "No hay cupón ni código que escribir. El botón abre la página de socios, con VPN Plus de 2 años; los planes de 1 año y mensual están en la página de precios de Proton. La pantalla de pago muestra la moneda y el total antes de cobrar. Anota la fecha de renovación el mismo día de la compra.",
+          "Según Proton, las ofertas de la campaña son para \"todos los usuarios nuevos\". Si ya tienes una cuenta, ves sus ofertas después de iniciar sesión, y no las leímos porque exigen inicio de sesión. Si la idea es probar primero el plan gratuito, comprueba el precio en tu cuenta el día que te suscribas.",
+          "Los términos de Proton dan un reembolso a quien cancela y pide el dinero dentro de los 30 días posteriores a la compra inicial, una vez por usuario y solo para una suscripción comprada directamente a Proton. El paso a paso está en [cómo cancelar Proton VPN y pedir el reembolso](/es/reviews/proton-vpn-reembolso-cancelar-suscripcion)."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Es gratis Proton VPN? Tiene un plan gratuito, sin tarjeta, y planes de pago. Según Proton, el plan gratuito no tiene anuncios ni límite de datos y conecta 1 dispositivo a la vez.",
+          "¿Proton VPN Free tiene límite de datos? Proton dice que no. Los límites del plan gratuito son 1 dispositivo a la vez y servidores en 10 países elegidos por la app.",
+          "¿Cuánto cuesta Proton VPN Plus? En la página de precios que leímos, en dólares estadounidenses, el plan de 1 año costaba $35.88, cobrados por adelantado, y se renovaba a $83.88 cada 12 meses. El plan mensual costaba $9.99. Los importes cambian según el país y la moneda.",
+          "¿Cuál es la diferencia entre VPN Plus y Proton Unlimited? VPN Plus es solo la VPN de pago. Unlimited incluye además las funciones de pago del correo, el almacenamiento en la nube y el gestor de contraseñas, por un precio mayor.",
+          "¿Puedo probar Plus y recuperar mi dinero? Los términos prevén un reembolso dentro de los 30 días posteriores a la compra inicial, una vez por usuario, para quien se suscribió directamente con Proton y canceló y lo pidió dentro del plazo."
+        ],
+        "postParagraphs": [
+          "Las reglas de nuestro enlace están en la [página de Proton en nuestro sitio](/es/coupons/proton)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Si ya te decidiste por Plus, nuestro enlace abre la página de socios de Proton, con el plan de 2 años. Comprueba el total inicial y la renovación antes de pagar.",
+      "label": "Ver la oferta de Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Escrito a partir de las páginas de planes y los términos de Proton, sin prueba práctica. El enlace es de afiliado y puede generar una comisión.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-es-confiable"
+      },
+      {
+        "slug": "black-friday-proton-ofertas"
+      },
+      {
+        "slug": "proton-vpn-reembolso-cancelar-suscripcion"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Usas una VPN en más de un dispositivo o necesitas elegir el país de la conexión.",
+        "Quieres el bloqueador de anuncios y rastreadores en todo el dispositivo."
+      ],
+      "skipIf": [
+        "Tu uso es ocasional, en un solo dispositivo, y el país de la conexión no importa.",
+        "El importe de la renovación no cabe en tu presupuesto."
+      ]
+    }
+  },
+  {
+    "id": 1032,
+    "slug": "proton-vpn-vaut-il-le-coup",
+    "locale": "fr",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "Proton VPN vaut-il le coup ? Ce que fait l'offre gratuite, ce qu'ajoute Plus et ce que ça coûte",
+    "seoTitle": "Proton VPN vaut-il le coup ? Gratuit, Plus et renouvellement",
+    "type": "Guide d'achat",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Ce que couvre Proton VPN Free, ce que seul Plus propose, ce que coûte Plus pour la première période et au renouvellement, et quand Proton Unlimited se justifie.",
+    "metaDescription": "Proton VPN vaut-il le coup ? L'offre gratuite, quand Plus se justifie, le prix avec renouvellement et les conditions du remboursement sous 30 jours.",
+    "publishedAt": "17 novembre 2026",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "Le logo Proton à côté des mots Proton VPN, gratuit ou Plus, avec une photo officielle d'une main tenant un téléphone qui affiche l'application Proton VPN.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Selon Proton, l'offre gratuite de Proton VPN n'a ni publicité ni limite de données et connecte un appareil à la fois. Pour un téléphone sur un Wi-Fi public, cela suffit. Plus se justifie si vous voulez choisir le pays, utiliser plusieurs appareils ou bloquer les publicités. Hors abonnement mensuel, le renouvellement coûte plus cher que la première période."
+        ]
+      },
+      {
+        "heading": "Ce que fait et ne fait pas l'offre gratuite",
+        "paragraphs": [
+          "L'offre gratuite ne demande pas de carte. D'après les pages de Proton, elle n'a ni publicité ni limite de données et suit la politique de non-conservation des journaux d'activité.",
+          "Les limites figurent sur la page des tarifs. L'offre gratuite connecte 1 appareil à la fois, et la page parle de « vitesse VPN moyenne » et de serveurs dans 10 pays, « choisis au hasard ». C'est l'application qui choisit le pays. Le blocage des publicités, le P2P et le streaming sont indiqués comme non inclus dans l'offre gratuite, et Secure Core est signalé comme une fonction premium."
+        ]
+      },
+      {
+        "heading": "Ce qu'ajoute Plus",
+        "paragraphs": [
+          "VPN Plus est l'offre payante pour le VPN seul. La page des tarifs liste ce qui change par rapport à l'offre gratuite."
+        ],
+        "bullets": [
+          "**10 appareils en même temps**, au lieu de 1.",
+          "**Choix du pays**, parmi plus de 140, avec plus de 20 000 serveurs.",
+          "**« Vitesse VPN la plus élevée »**, selon les mots de Proton.",
+          "**NetShield**, le bloqueur de publicités, de traqueurs et de logiciels malveillants par filtrage DNS.",
+          "**Secure Core**, que la page signale comme une fonction premium.",
+          "**P2P et streaming**, que la page liste dans l'offre.",
+          "**Assistance prioritaire et chat en direct.**"
+        ],
+        "postParagraphs": [
+          "Nous n'utilisons pas Proton VPN. La vitesse, le P2P et le streaming apparaissent ici tels que Proton les annonce, sans mesure de notre part et sans promesse d'accès à aucun service vidéo. Le volet confiance, avec les audits, est dans [Proton VPN est-il fiable ?](/fr/reviews/proton-vpn-est-il-fiable)."
+        ]
+      },
+      {
+        "heading": "L'offre gratuite couvre-t-elle votre usage ?",
+        "paragraphs": [
+          "Le tableau part de ce que vous voulez faire et n'utilise que ce que disent les pages des offres."
+        ],
+        "comparisonTable": {
+          "caption": "Offre gratuite et VPN Plus selon l'usage, d'après les pages des offres de Proton.",
+          "headers": [
+            "Ce que vous voulez faire",
+            "Offre gratuite",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "Protéger un téléphone sur un Wi-Fi public",
+              "Couvert, sur 1 appareil à la fois",
+              "Couvert"
+            ],
+            [
+              "Utiliser plusieurs appareils à la maison en même temps",
+              "Non, 1 à la fois",
+              "Jusqu'à 10 à la fois"
+            ],
+            [
+              "Choisir le pays de la connexion",
+              "Non, l'application choisit parmi 10 pays",
+              "Oui, plus de 140 pays"
+            ],
+            [
+              "Bloquer les publicités et les traqueurs sur l'appareil",
+              "Non inclus",
+              "Oui, avec NetShield"
+            ],
+            [
+              "Partager des fichiers en P2P",
+              "Non inclus",
+              "Inclus, d'après la page"
+            ],
+            [
+              "Vitesse annoncée par Proton",
+              "« Vitesse VPN moyenne »",
+              "« Vitesse VPN la plus élevée »"
+            ],
+            [
+              "L'utiliser sans limite de données",
+              "Oui",
+              "Oui"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Ce que coûte VPN Plus",
+        "paragraphs": [
+          "Voici les prix affichés sur les pages de Proton le 17 novembre 2026, avec la devise réglée sur le dollar américain. Le chiffre mis en avant est celui « par mois », mais le prélèvement porte sur toute la période, payée d'avance. L'offre d'un an était au prix de la campagne Black Friday."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus sur les pages des tarifs et partenaires de Proton, en dollars américains. Le montant change selon le pays et la devise ; vérifiez-le au moment du paiement.",
+          "headers": [
+            "Offre",
+            "Par mois",
+            "Payé d'avance",
+            "Puis renouvelé à"
+          ],
+          "rows": [
+            [
+              "1 mois",
+              "9,99 $",
+              "9,99 $",
+              "9,99 $ chaque mois"
+            ],
+            [
+              "1 an",
+              "2,99 $",
+              "35,88 $",
+              "83,88 $ tous les 12 mois"
+            ],
+            [
+              "2 ans",
+              "3,49 $",
+              "83,76 $",
+              "83,88 $ tous les 12 mois"
+            ],
+            [
+              "2 ans, sur la page partenaires (celle qu'ouvre notre lien)",
+              "2,49 $",
+              "59,76 $",
+              "83,88 $ tous les 12 mois"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sur les offres d'1 an et de 2 ans, le prix du tableau ne vaut que pour la première période. Ensuite, les deux se renouvellent tous les 12 mois au prix affiché de 83,88 $, et les conditions disent que le prix en vigueur à cette date s'applique. Si vous restez deux ans, l'offre de 2 ans coûte donc moins que l'offre d'1 an plus un renouvellement.",
+          "La dernière ligne est la page qu'ouvre notre bouton : la même offre de 2 ans à 59,76 $ pour les 24 premiers mois, avec le même renouvellement. La comparaison entre les parcours est dans le [guide Black Friday de Proton](/fr/reviews/black-friday-proton-offres)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "alt": "La carte VPN Plus de la page des tarifs de Proton, avec l'offre d'1 an à 2,99 $ par mois, facturée 35,88 $ pour les 12 premiers mois et renouvelée à 83,88 $ tous les 12 mois.",
+          "caption": "La carte VPN Plus d'1 an sur la page des tarifs de Proton, avec le total et le renouvellement dans les petits caractères."
+        }
+      },
+      {
+        "heading": "VPN Plus ou Proton Unlimited",
+        "paragraphs": [
+          "Proton Unlimited réunit dans un seul compte les fonctions payantes du VPN, de la messagerie, du stockage en ligne et du gestionnaire de mots de passe. Sur la même page, l'offre d'1 an coûtait 77,88 $ et se renouvelait à 119,88 $ tous les 12 mois.",
+          "Si vous souscrivez VPN Plus, vous gardez les offres gratuites des autres services, et le centre d'aide indique qu'on ne peut pas avoir plusieurs offres Plus sur le même compte. Unlimited se justifie si vous comptez utiliser le VPN payant et un autre service Proton payant. Si vous ne voulez que le VPN, Plus d'1 an coûte moins de la moitié sur la première période (35,88 $ contre 77,88 $) et reste moins cher au renouvellement (83,88 $ contre 119,88 $).",
+          "Nous utilisons Proton Mail, de la même société, en offre gratuite depuis près de dix ans. Si la messagerie gratuite vous suffit, vous n'avez pas besoin d'Unlimited pour avoir le VPN payant."
+        ]
+      },
+      {
+        "heading": "Ce qui joue contre",
+        "bullets": [
+          "**Sur les offres d'1 an et de 2 ans, le renouvellement coûte plus cher que la première période.** Sur l'offre d'1 an de la page des tarifs, de 35,88 $ à 83,88 $.",
+          "**L'assistance commence par un formulaire.** L'assistance de Proton passe par le formulaire de contact de son site, et le chat en direct n'est listé que sur l'offre payante. Plus de détails dans [Proton VPN est-il fiable ?](/fr/reviews/proton-vpn-est-il-fiable).",
+          "**L'offre gratuite ne permet pas de choisir le pays.** Si c'est votre raison d'avoir un VPN, l'offre gratuite ne conviendra pas."
+        ]
+      },
+      {
+        "heading": "Comment s'abonner et comment faire marche arrière",
+        "paragraphs": [
+          "Il n'y a ni coupon ni code à saisir. Le bouton ouvre la page partenaires, avec VPN Plus de 2 ans ; les offres d'1 an et mensuelle sont sur la page des tarifs de Proton. La page de paiement affiche la devise et le total avant le règlement. Notez la date de renouvellement le jour de l'achat.",
+          "Selon Proton, les offres de campagne s'adressent à « tous les nouveaux utilisateurs ». Si vous avez déjà un compte, vous voyez ses offres après connexion, et nous ne les avons pas lues parce qu'elles exigent une connexion. Si l'idée est d'essayer d'abord l'offre gratuite, vérifiez le prix dans votre compte le jour où vous vous abonnez.",
+          "Les conditions de Proton prévoient un remboursement pour qui résilie et en fait la demande dans les 30 jours suivant l'achat initial, une fois par utilisateur et uniquement pour un abonnement souscrit directement chez Proton. Le pas à pas est dans [comment résilier Proton VPN et demander un remboursement](/fr/reviews/proton-vpn-remboursement-resilier)."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Proton VPN est-il gratuit ? Il a une offre gratuite, sans carte, et des offres payantes. Selon Proton, l'offre gratuite n'a ni publicité ni limite de données et connecte 1 appareil à la fois.",
+          "Proton VPN Free a-t-il une limite de données ? Proton dit que non. Les limites de l'offre gratuite sont 1 appareil à la fois et des serveurs dans 10 pays choisis par l'application.",
+          "Combien coûte Proton VPN Plus ? Sur la page des tarifs que nous avons lue, en dollars américains, l'offre d'1 an était à 35,88 $, payés d'avance, et se renouvelait à 83,88 $ tous les 12 mois. L'offre mensuelle coûtait 9,99 $. Les montants changent selon le pays et la devise.",
+          "Quelle différence entre VPN Plus et Proton Unlimited ? VPN Plus est le VPN payant seul. Unlimited inclut aussi les fonctions payantes de la messagerie, du stockage en ligne et du gestionnaire de mots de passe, pour un prix plus élevé.",
+          "Puis-je essayer Plus et me faire rembourser ? Les conditions prévoient un remboursement dans les 30 jours suivant l'achat initial, une fois par utilisateur, pour qui s'est abonné directement chez Proton et a résilié et fait la demande dans le délai."
+        ],
+        "postParagraphs": [
+          "Les règles de notre lien sont sur [la page Proton de notre site](/fr/coupons/proton)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Si vous avez choisi Plus, notre lien ouvre la page partenaires de Proton, avec l'offre de 2 ans. Vérifiez le total payé d'avance et le renouvellement avant de payer.",
+      "label": "Voir l'offre Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Rédigé à partir des pages des offres et des conditions de Proton, sans test pratique. Le lien est un lien d'affiliation et peut générer une commission.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-est-il-fiable"
+      },
+      {
+        "slug": "black-friday-proton-offres"
+      },
+      {
+        "slug": "proton-vpn-remboursement-resilier"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous utilisez un VPN sur plus d'un appareil ou devez choisir le pays de la connexion.",
+        "Vous voulez le bloqueur de publicités et de traqueurs sur tout l'appareil."
+      ],
+      "skipIf": [
+        "Votre usage est occasionnel, sur un seul appareil, et le pays de la connexion n'a pas d'importance.",
+        "Le montant du renouvellement ne rentre pas dans votre budget."
+      ]
+    }
+  },
+  {
+    "id": 1033,
+    "slug": "lohnt-sich-proton-vpn",
+    "locale": "de",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "Lohnt sich Proton VPN? Was der kostenlose Tarif leistet, was Plus bietet und was es kostet",
+    "seoTitle": "Lohnt sich Proton VPN? Gratis, Plus und Verlängerung",
+    "type": "Kaufratgeber",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Was Proton VPN Free abdeckt, was nur Plus bietet, was Plus im ersten Zeitraum und bei der Verlängerung kostet und wann sich Proton Unlimited lohnt.",
+    "metaDescription": "Lohnt sich Proton VPN? Was der kostenlose Tarif leistet, wann sich Plus lohnt, der Preis samt Verlängerung und die Bedingungen der 30-Tage-Rückerstattung.",
+    "publishedAt": "17. November 2026",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "Das Proton-Logo neben den Worten Proton VPN, Free oder Plus, daneben ein offizielles Foto einer Hand, die ein Smartphone mit der Proton-VPN-App hält.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurzantwort",
+        "paragraphs": [
+          "Laut Proton hat der kostenlose Tarif von Proton VPN keine Werbung und kein Datenlimit und verbindet jeweils ein Gerät. Für ein Smartphone im öffentlichen WLAN reicht das. Plus lohnt sich, wenn Sie das Land wählen, mehrere Geräte nutzen oder Werbung blockieren möchten. Außerhalb des Monatstarifs kostet die Verlängerung mehr als der erste Zeitraum."
+        ]
+      },
+      {
+        "heading": "Was der kostenlose Tarif leistet und was nicht",
+        "paragraphs": [
+          "Der kostenlose Tarif verlangt keine Karte. Laut den Seiten von Proton hat er keine Werbung, kein Datenlimit und folgt der Richtlinie, keine Aktivitätsprotokolle zu führen.",
+          "Die Grenzen stehen auf der Preisseite. Der kostenlose Tarif verbindet 1 Gerät gleichzeitig, und die Seite spricht von „mittlerer VPN-Geschwindigkeit“ und von Servern in 10 Ländern, „zufällig ausgewählt“. Die App wählt das Land. Werbeblocker, P2P und Streaming sind im kostenlosen Tarif als nicht enthalten aufgeführt, und Secure Core ist als Premium-Funktion markiert."
+        ]
+      },
+      {
+        "heading": "Was Plus zusätzlich bietet",
+        "paragraphs": [
+          "VPN Plus ist der kostenpflichtige Tarif nur für das VPN. Die Preisseite listet auf, was sich gegenüber dem kostenlosen Tarif ändert."
+        ],
+        "bullets": [
+          "**10 Geräte gleichzeitig**, statt 1.",
+          "**Länderwahl**, unter mehr als 140, mit mehr als 20.000 Servern.",
+          "**„Höchste VPN-Geschwindigkeit“**, in Protons Worten.",
+          "**NetShield**, der Blocker für Werbung, Tracker und Schadsoftware per DNS-Filterung.",
+          "**Secure Core**, das die Seite als Premium-Funktion markiert.",
+          "**P2P und Streaming**, die die Seite im Tarif aufführt.",
+          "**Prioritäts-Support und Live-Chat.**"
+        ],
+        "postParagraphs": [
+          "Wir nutzen Proton VPN nicht. Geschwindigkeit, P2P und Streaming stehen hier so, wie Proton sie bewirbt, ohne eigene Messung und ohne Zusage, dass irgendein Videodienst erreichbar ist. Die Vertrauensfrage, mit den Audits, behandelt [Ist Proton VPN seriös?](/de/reviews/ist-proton-vpn-serioes)."
+        ]
+      },
+      {
+        "heading": "Deckt der kostenlose Tarif Ihre Nutzung ab?",
+        "paragraphs": [
+          "Die Tabelle geht davon aus, was Sie tun möchten, und stützt sich nur auf das, was die Tarifseiten sagen."
+        ],
+        "comparisonTable": {
+          "caption": "Kostenloser Tarif und VPN Plus nach Nutzung, laut den Tarifseiten von Proton.",
+          "headers": [
+            "Was Sie tun möchten",
+            "Kostenloser Tarif",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "Ein Smartphone im öffentlichen WLAN schützen",
+              "Abgedeckt, auf 1 Gerät gleichzeitig",
+              "Abgedeckt"
+            ],
+            [
+              "Mehrere Geräte zu Hause gleichzeitig nutzen",
+              "Nein, 1 gleichzeitig",
+              "Bis zu 10 gleichzeitig"
+            ],
+            [
+              "Das Land der Verbindung wählen",
+              "Nein, die App wählt unter 10 Ländern",
+              "Ja, mehr als 140 Länder"
+            ],
+            [
+              "Werbung und Tracker auf dem Gerät blockieren",
+              "Nicht enthalten",
+              "Ja, mit NetShield"
+            ],
+            [
+              "Dateien über P2P teilen",
+              "Nicht enthalten",
+              "Enthalten, laut der Seite"
+            ],
+            [
+              "Von Proton beworbene Geschwindigkeit",
+              "„Mittlere VPN-Geschwindigkeit“",
+              "„Höchste VPN-Geschwindigkeit“"
+            ],
+            [
+              "Ohne Datenlimit nutzen",
+              "Ja",
+              "Ja"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Was VPN Plus kostet",
+        "paragraphs": [
+          "Das waren die Preise auf den Seiten von Proton am 17. November 2026, mit der Währung auf US-Dollar eingestellt. Die große Zahl ist die „pro Monat“, abgebucht wird aber der ganze Zeitraum im Voraus. Der 1-Jahres-Tarif galt zum Preis der Black-Friday-Aktion."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus auf den Preis- und Partnerseiten von Proton, in US-Dollar. Der Betrag ändert sich je nach Land und Währung; prüfen Sie ihn an der Kasse.",
+          "headers": [
+            "Tarif",
+            "Pro Monat",
+            "Im Voraus abgebucht",
+            "Verlängert sich dann zu"
+          ],
+          "rows": [
+            [
+              "1 Monat",
+              "9,99 $",
+              "9,99 $",
+              "9,99 $ jeden Monat"
+            ],
+            [
+              "1 Jahr",
+              "2,99 $",
+              "35,88 $",
+              "83,88 $ alle 12 Monate"
+            ],
+            [
+              "2 Jahre",
+              "3,49 $",
+              "83,76 $",
+              "83,88 $ alle 12 Monate"
+            ],
+            [
+              "2 Jahre, auf der Partnerseite (die, die unser Link öffnet)",
+              "2,49 $",
+              "59,76 $",
+              "83,88 $ alle 12 Monate"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Bei den Tarifen über 1 Jahr und 2 Jahre gilt der Preis der Tabelle nur für den ersten Zeitraum. Danach verlängern sich beide alle 12 Monate zum beworbenen Preis von 83,88 $, und die Bedingungen sagen, dass der an diesem Datum gültige Preis gilt. Wer zwei Jahre bleibt, zahlt also mit dem 2-Jahres-Tarif weniger als mit dem 1-Jahres-Tarif plus einer Verlängerung.",
+          "Die letzte Zeile ist die Seite, die unser Button öffnet: derselbe 2-Jahres-Tarif zu 59,76 $ für die ersten 24 Monate, mit derselben Verlängerung. Der Vergleich der Wege steht im [Proton-Black-Friday-Ratgeber](/de/reviews/proton-black-friday-angebote)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "alt": "Die VPN-Plus-Karte auf Protons Preisseite, mit dem 1-Jahres-Tarif zu 2,99 $ pro Monat, abgerechnet mit 35,88 $ für die ersten 12 Monate und verlängert zu 83,88 $ alle 12 Monate.",
+          "caption": "Die VPN-Plus-Karte für 1 Jahr auf Protons Preisseite, mit Gesamtbetrag und Verlängerung im Kleingedruckten."
+        }
+      },
+      {
+        "heading": "VPN Plus oder Proton Unlimited",
+        "paragraphs": [
+          "Proton Unlimited vereint die kostenpflichtigen Funktionen von VPN, E-Mail, Cloud-Speicher und Passwortmanager in einem Konto. Auf derselben Seite kostete der 1-Jahres-Tarif 77,88 $ und verlängerte sich zu 119,88 $ alle 12 Monate.",
+          "Wenn Sie VPN Plus abonnieren, behalten Sie die kostenlosen Tarife der anderen Dienste, und das Hilfe-Center sagt, dass man nicht mehrere Plus-Tarife im selben Konto haben kann. Unlimited lohnt sich, wenn Sie das kostenpflichtige VPN und einen weiteren kostenpflichtigen Proton-Dienst nutzen. Wenn Sie nur das VPN möchten, kostet Plus für 1 Jahr im ersten Zeitraum weniger als die Hälfte (35,88 $ gegenüber 77,88 $) und bleibt bei der Verlängerung günstiger (83,88 $ gegenüber 119,88 $).",
+          "Wir nutzen Proton Mail, von derselben Firma, im kostenlosen Tarif seit fast zehn Jahren. Wenn Ihnen die kostenlose E-Mail reicht, brauchen Sie Unlimited nicht, um das kostenpflichtige VPN zu haben."
+        ]
+      },
+      {
+        "heading": "Was dagegen spricht",
+        "bullets": [
+          "**Bei den Tarifen über 1 Jahr und 2 Jahre kostet die Verlängerung mehr als der erste Zeitraum.** Beim 1-Jahres-Tarif der Preisseite von 35,88 $ auf 83,88 $.",
+          "**Der Support beginnt mit einem Formular.** Protons Support läuft über das Kontaktformular auf der Website, und Live-Chat ist nur im kostenpflichtigen Tarif aufgeführt. Mehr dazu in [Ist Proton VPN seriös?](/de/reviews/ist-proton-vpn-serioes).",
+          "**Der kostenlose Tarif erlaubt keine Länderwahl.** Wenn das Ihr Grund für ein VPN ist, reicht der kostenlose Tarif nicht."
+        ]
+      },
+      {
+        "heading": "So abonnieren Sie und so steigen Sie wieder aus",
+        "paragraphs": [
+          "Es gibt keinen Gutschein und keinen Code zum Eingeben. Der Button öffnet die Partnerseite mit dem 2-Jahres-VPN-Plus; der 1-Jahres- und der Monatstarif stehen auf Protons Preisseite. Die Kasse zeigt Währung und Gesamtbetrag vor der Zahlung. Notieren Sie sich das Verlängerungsdatum am Tag des Kaufs.",
+          "Laut Proton gelten die Aktionsangebote für „alle neuen Nutzer“. Wenn Sie schon ein Konto haben, sehen Sie dessen Angebote nach der Anmeldung, und wir haben sie nicht gelesen, weil sie eine Anmeldung erfordern. Wenn Sie zuerst den kostenlosen Tarif ausprobieren möchten, prüfen Sie den Preis in Ihrem Konto an dem Tag, an dem Sie abonnieren.",
+          "Protons Bedingungen sehen eine Rückerstattung vor für alle, die innerhalb von 30 Tagen nach dem ersten Kauf kündigen und das Geld zurückverlangen, einmal pro Nutzer und nur für ein direkt bei Proton gekauftes Abonnement. Die Schritte stehen unter [Proton VPN kündigen und Rückerstattung beantragen](/de/reviews/proton-vpn-kuendigen-rueckerstattung)."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Ist Proton VPN kostenlos? Es hat einen kostenlosen Tarif, ohne Karte, und kostenpflichtige Tarife. Laut Proton hat der kostenlose Tarif keine Werbung und kein Datenlimit und verbindet 1 Gerät gleichzeitig.",
+          "Hat Proton VPN Free ein Datenlimit? Proton sagt nein. Die Grenzen des kostenlosen Tarifs sind 1 Gerät gleichzeitig und Server in 10 Ländern, die die App auswählt.",
+          "Wie viel kostet Proton VPN Plus? Auf der Preisseite, die wir gelesen haben, kostete der 1-Jahres-Tarif in US-Dollar 35,88 $, im Voraus abgebucht, und verlängerte sich zu 83,88 $ alle 12 Monate. Der Monatstarif kostete 9,99 $. Die Beträge ändern sich je nach Land und Währung.",
+          "Was ist der Unterschied zwischen VPN Plus und Proton Unlimited? VPN Plus ist nur das kostenpflichtige VPN. Unlimited enthält zusätzlich die kostenpflichtigen Funktionen von E-Mail, Cloud-Speicher und Passwortmanager, für einen höheren Preis.",
+          "Kann ich Plus ausprobieren und mein Geld zurückbekommen? Die Bedingungen sehen eine Rückerstattung innerhalb von 30 Tagen nach dem ersten Kauf vor, einmal pro Nutzer, für alle, die direkt bei Proton abonniert haben und innerhalb der Frist gekündigt und die Rückerstattung beantragt haben."
+        ],
+        "postParagraphs": [
+          "Die Regeln unseres Links stehen auf [Protons Seite bei uns](/de/coupons/proton)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Wenn Sie sich für Plus entschieden haben, öffnet unser Link Protons Partnerseite mit dem 2-Jahres-Tarif. Prüfen Sie den im Voraus abgebuchten Gesamtbetrag und die Verlängerung, bevor Sie zahlen.",
+      "label": "Proton-VPN-Angebot ansehen",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Verfasst auf Grundlage von Protons Tarifseiten und Bedingungen, ohne eigenen Test. Der Link ist ein Affiliate-Link und kann uns eine Provision einbringen.",
+    "relatedArticles": [
+      {
+        "slug": "ist-proton-vpn-serioes"
+      },
+      {
+        "slug": "proton-black-friday-angebote"
+      },
+      {
+        "slug": "proton-vpn-kuendigen-rueckerstattung"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie nutzen ein VPN auf mehr als einem Gerät oder müssen das Land der Verbindung wählen.",
+        "Sie möchten den Blocker für Werbung und Tracker auf dem ganzen Gerät."
+      ],
+      "skipIf": [
+        "Sie nutzen das VPN nur gelegentlich und auf einem einzigen Gerät, und das Land der Verbindung spielt keine Rolle.",
+        "Der Betrag der Verlängerung passt nicht in Ihr Budget."
+      ]
+    }
+  },
+  {
+    "id": 1034,
+    "slug": "proton-vpn-conviene",
+    "locale": "it",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "Proton VPN conviene? Cosa fa il piano gratuito, cosa aggiunge Plus e quanto costa",
+    "seoTitle": "Proton VPN conviene? Gratis o Plus, prezzo e rinnovo",
+    "type": "Guida all'acquisto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cosa copre Proton VPN Free, cosa ha solo Plus, quanto costa Plus nel primo periodo e al rinnovo, e quando ha senso Proton Unlimited.",
+    "metaDescription": "Proton VPN conviene? Scopri cosa fa il piano gratuito, quando conviene Plus, il prezzo con il rinnovo e le condizioni del rimborso entro 30 giorni.",
+    "publishedAt": "17 novembre 2026",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "Il logo di Proton accanto alla scritta Proton VPN, Free o Plus, vicino a una foto ufficiale di una mano che tiene un telefono con l'app Proton VPN.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Secondo Proton, il piano gratuito di Proton VPN non ha pubblicità né limiti di dati e connette un dispositivo alla volta. Per un telefono su una rete Wi-Fi pubblica basta. Plus conviene se vuoi scegliere il paese, usare più dispositivi o bloccare la pubblicità. Fuori dal piano mensile, il rinnovo costa più del primo periodo."
+        ]
+      },
+      {
+        "heading": "Cosa fa e cosa non fa il piano gratuito",
+        "paragraphs": [
+          "Il piano gratuito non chiede la carta. Secondo le pagine di Proton, non ha pubblicità né limiti di dati e segue la politica di non conservare log di attività.",
+          "I limiti sono nella pagina dei prezzi. Il piano gratuito connette 1 dispositivo alla volta, e la pagina parla di \"velocità VPN media\" e di server in 10 paesi, \"scelti a caso\". L'app sceglie il paese. Blocco della pubblicità, P2P e streaming risultano non inclusi nel piano gratuito, e Secure Core è indicato come funzione premium."
+        ]
+      },
+      {
+        "heading": "Cosa aggiunge Plus",
+        "paragraphs": [
+          "VPN Plus è il piano a pagamento solo per la VPN. La pagina dei prezzi elenca cosa cambia rispetto al piano gratuito."
+        ],
+        "bullets": [
+          "**10 dispositivi contemporaneamente**, invece di 1.",
+          "**Scelta del paese**, tra più di 140, con più di 20.000 server.",
+          "**\"La massima velocità VPN\"**, nelle parole di Proton.",
+          "**NetShield**, il blocco di pubblicità, tracker e malware tramite filtro DNS.",
+          "**Secure Core**, che la pagina indica come funzione premium.",
+          "**P2P e streaming**, che la pagina elenca nel piano.",
+          "**Assistenza prioritaria e chat dal vivo.**"
+        ],
+        "postParagraphs": [
+          "Non usiamo Proton VPN. Velocità, P2P e streaming compaiono qui come li dichiara Proton, senza alcuna misurazione nostra e senza promettere l'accesso a nessun servizio video. Il lato dell'affidabilità, con gli audit, è in [Proton VPN è affidabile?](/it/reviews/proton-vpn-e-affidabile)."
+        ]
+      },
+      {
+        "heading": "Il piano gratuito copre il tuo uso?",
+        "paragraphs": [
+          "La tabella parte da ciò che vuoi fare e usa solo quanto dicono le pagine dei piani."
+        ],
+        "comparisonTable": {
+          "caption": "Piano gratuito e VPN Plus per tipo di uso, secondo le pagine dei piani di Proton.",
+          "headers": [
+            "Cosa vuoi fare",
+            "Piano gratuito",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "Proteggere un telefono su una rete Wi-Fi pubblica",
+              "Coperto, su 1 dispositivo alla volta",
+              "Coperto"
+            ],
+            [
+              "Usare più dispositivi a casa contemporaneamente",
+              "No, 1 alla volta",
+              "Fino a 10 alla volta"
+            ],
+            [
+              "Scegliere il paese della connessione",
+              "No, l'app sceglie tra 10 paesi",
+              "Sì, più di 140 paesi"
+            ],
+            [
+              "Bloccare pubblicità e tracker sul dispositivo",
+              "Non incluso",
+              "Sì, con NetShield"
+            ],
+            [
+              "Condividere file in P2P",
+              "Non incluso",
+              "Incluso, secondo la pagina"
+            ],
+            [
+              "Velocità dichiarata da Proton",
+              "\"Velocità VPN media\"",
+              "\"La massima velocità VPN\""
+            ],
+            [
+              "Usarla senza limiti di dati",
+              "Sì",
+              "Sì"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Quanto costa VPN Plus",
+        "paragraphs": [
+          "Questi erano i prezzi sulle pagine di Proton il 17 novembre 2026, con la valuta impostata in dollari statunitensi. La cifra in evidenza è quella \"al mese\", ma l'addebito riguarda l'intero periodo, in anticipo. Il piano da 1 anno era al prezzo della campagna Black Friday."
+        ],
+        "comparisonTable": {
+          "caption": "VPN Plus sulle pagine dei prezzi e partner di Proton, in dollari statunitensi. L'importo cambia con paese e valuta; controllalo al pagamento.",
+          "headers": [
+            "Piano",
+            "Al mese",
+            "Addebitato in anticipo",
+            "Poi si rinnova a"
+          ],
+          "rows": [
+            [
+              "1 mese",
+              "$9.99",
+              "$9.99",
+              "$9.99 ogni mese"
+            ],
+            [
+              "1 anno",
+              "$2.99",
+              "$35.88",
+              "$83.88 ogni 12 mesi"
+            ],
+            [
+              "2 anni",
+              "$3.49",
+              "$83.76",
+              "$83.88 ogni 12 mesi"
+            ],
+            [
+              "2 anni, sulla pagina partner (quella che apre il nostro link)",
+              "$2.49",
+              "$59.76",
+              "$83.88 ogni 12 mesi"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nei piani da 1 e 2 anni, il prezzo in tabella vale solo per il primo periodo. Dopo, entrambi si rinnovano ogni 12 mesi ai $83.88 indicati, e i termini dicono che si applica il prezzo in vigore a quella data. Quindi, se resti due anni, il piano da 2 anni costa meno di quello da 1 anno più un rinnovo.",
+          "L'ultima riga è la pagina che apre il nostro pulsante: lo stesso piano da 2 anni a $59.76 per i primi 24 mesi, con lo stesso rinnovo. Il confronto tra le strade è nella [guida al Black Friday di Proton](/it/reviews/black-friday-proton-offerte)."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "alt": "La scheda di VPN Plus nella pagina dei prezzi di Proton, con il piano da 1 anno a $2.99 al mese, con un addebito di $35.88 per i primi 12 mesi e rinnovato a $83.88 ogni 12 mesi.",
+          "caption": "La scheda di VPN Plus da 1 anno nella pagina dei prezzi di Proton, con il totale e il rinnovo scritti in piccolo."
+        }
+      },
+      {
+        "heading": "VPN Plus o Proton Unlimited",
+        "paragraphs": [
+          "Proton Unlimited riunisce in un solo account le funzioni a pagamento della VPN, della posta, dello spazio cloud e del gestore di password. Sulla stessa pagina, il piano da 1 anno costava $77.88 e si rinnovava a $119.88 ogni 12 mesi.",
+          "Se ti abboni a VPN Plus, mantieni i piani gratuiti degli altri servizi, e il centro assistenza dice che non puoi avere più piani Plus sullo stesso account. Unlimited ha senso se userai la VPN a pagamento e un altro servizio Proton a pagamento. Se vuoi solo la VPN, il Plus da 1 anno costa meno della metà nel primo periodo ($35.88 contro $77.88) e resta più economico al rinnovo ($83.88 contro $119.88).",
+          "Usiamo Proton Mail, della stessa azienda, con il piano gratuito da quasi dieci anni. Se la posta gratuita ti basta, non ti serve Unlimited per avere la VPN a pagamento."
+        ]
+      },
+      {
+        "heading": "Cosa pesa contro",
+        "bullets": [
+          "**Nei piani da 1 e 2 anni, il rinnovo costa più del primo periodo.** Nel piano da 1 anno della pagina dei prezzi, da $35.88 a $83.88.",
+          "**L'assistenza parte da un modulo.** L'assistenza di Proton passa dal modulo di contatto sul suo sito, e la chat dal vivo è elencata solo nel piano a pagamento. Ne parliamo meglio in [Proton VPN è affidabile?](/it/reviews/proton-vpn-e-affidabile).",
+          "**Il piano gratuito non permette di scegliere il paese.** Se è questo il motivo per cui vuoi una VPN, il piano gratuito non basta."
+        ]
+      },
+      {
+        "heading": "Come abbonarsi e come tirarsi indietro",
+        "paragraphs": [
+          "Non c'è nessun coupon o codice da digitare. Il pulsante apre la pagina partner, con VPN Plus da 2 anni; i piani da 1 anno e mensile sono nella pagina dei prezzi di Proton. Il checkout mostra valuta e totale prima del pagamento. Annota la data di rinnovo il giorno stesso dell'acquisto.",
+          "Secondo Proton, le offerte della campagna sono per \"tutti i nuovi utenti\". Se hai già un account, vedi le sue offerte dopo l'accesso, e noi non le abbiamo lette perché richiedono il login. Se l'idea è provare prima il piano gratuito, controlla il prezzo nel tuo account il giorno in cui ti abboni.",
+          "I termini di Proton prevedono un rimborso per chi disdice e chiede i soldi entro 30 giorni dall'acquisto iniziale, una sola volta per utente e solo per un abbonamento acquistato direttamente da Proton. Il passo dopo passo è in [come disdire Proton VPN e chiedere il rimborso](/it/reviews/proton-vpn-rimborso-come-disdire)."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Proton VPN è gratis? Ha un piano gratuito, senza carta, e piani a pagamento. Secondo Proton, il piano gratuito non ha pubblicità né limiti di dati e connette 1 dispositivo alla volta.",
+          "Proton VPN Free ha un limite di dati? Proton dice di no. I limiti del piano gratuito sono 1 dispositivo alla volta e server in 10 paesi scelti dall'app.",
+          "Quanto costa Proton VPN Plus? Nella pagina dei prezzi che abbiamo letto, in dollari statunitensi, il piano da 1 anno costava $35.88, addebitati in anticipo, e si rinnovava a $83.88 ogni 12 mesi. Il piano mensile costava $9.99. Gli importi cambiano con paese e valuta.",
+          "Qual è la differenza tra VPN Plus e Proton Unlimited? VPN Plus è solo la VPN a pagamento. Unlimited include anche le funzioni a pagamento di posta, spazio cloud e gestore di password, a un prezzo più alto.",
+          "Posso provare Plus e riavere i soldi? I termini prevedono un rimborso entro 30 giorni dall'acquisto iniziale, una sola volta per utente, per chi si è abbonato direttamente con Proton e ha disdetto e chiesto il rimborso entro il termine."
+        ],
+        "postParagraphs": [
+          "Le regole del nostro link sono nella [pagina su Proton del nostro sito](/it/coupons/proton)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se hai deciso per Plus, il nostro link apre la pagina partner di Proton, con il piano da 2 anni. Controlla il totale iniziale e il rinnovo prima di pagare.",
+      "label": "Vedi l'offerta Proton VPN",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Scritto a partire dalle pagine dei piani e dai termini di Proton, senza prova diretta. Il link è di affiliazione e può generare una commissione.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-e-affidabile"
+      },
+      {
+        "slug": "black-friday-proton-offerte"
+      },
+      {
+        "slug": "proton-vpn-rimborso-come-disdire"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Usi una VPN su più di un dispositivo o hai bisogno di scegliere il paese della connessione.",
+        "Vuoi il blocco di pubblicità e tracker su tutto il dispositivo."
+      ],
+      "skipIf": [
+        "Il tuo uso è occasionale, su un solo dispositivo, e il paese della connessione non conta.",
+        "L'importo del rinnovo non rientra nel tuo budget."
+      ]
+    }
+  },
+  {
+    "id": 1035,
+    "slug": "proton-vpn-worth-it-ko",
+    "locale": "ko",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "Proton VPN, 유료로 쓸 만할까요? 무료 플랜으로 되는 것, Plus가 더하는 것, 가격",
+    "seoTitle": "Proton VPN 유료 가치는? 무료와 Plus, 가격, 갱신",
+    "type": "구매 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Proton VPN Free로 되는 것, Plus에만 있는 것, 첫 기간과 갱신 때 Plus 가격, Proton Unlimited가 맞는 경우를 정리합니다.",
+    "metaDescription": "Proton VPN, 유료로 쓸 만할까요? 무료 플랜으로 되는 것, Plus가 맞는 경우, 갱신을 포함한 가격, 30일 환불 조건을 정리했습니다.",
+    "publishedAt": "2026년 11월 17일",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "Proton 로고와 \"Proton VPN, Free 또는 Plus\"라는 문구, 그 옆에 Proton VPN 앱이 열린 휴대폰을 든 손의 공식 사진이 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답",
+        "paragraphs": [
+          "Proton에 따르면 Proton VPN 무료 플랜에는 광고와 데이터 제한이 없고, 한 번에 기기 1대를 연결합니다. 공용 Wi-Fi에서 휴대폰을 쓰는 정도라면 충분합니다. 접속할 국가를 고르거나, 여러 기기를 쓰거나, 광고를 차단하고 싶다면 Plus가 맞습니다. 월간 플랜을 제외하면 갱신 요금이 첫 기간보다 비쌉니다."
+        ]
+      },
+      {
+        "heading": "무료 플랜으로 되는 것과 안 되는 것",
+        "paragraphs": [
+          "무료 플랜은 카드를 요구하지 않습니다. Proton의 페이지에 따르면 광고와 데이터 제한이 없고, 활동 로그를 보관하지 않는 정책을 따릅니다.",
+          "제한은 요금 페이지에 나와 있습니다. 무료 플랜은 한 번에 기기 1대를 연결하며, 페이지에는 \"중간 VPN 속도\"와 \"무작위로 선택되는\" 10개국의 서버가 언급되어 있습니다. 국가는 앱이 고릅니다. 광고 차단, P2P, 스트리밍은 무료 플랜에 포함되지 않는 것으로 표시되고, Secure Core는 프리미엄 기능으로 표시됩니다."
+        ]
+      },
+      {
+        "heading": "Plus가 더하는 것",
+        "paragraphs": [
+          "VPN Plus는 VPN만을 위한 유료 플랜입니다. 요금 페이지에는 무료 플랜과 달라지는 점이 나열되어 있습니다."
+        ],
+        "bullets": [
+          "**기기 10대 동시 연결**. 무료 플랜은 1대입니다.",
+          "**국가 선택**. 140개국 이상, 서버 2만 대 이상 중에서 고를 수 있습니다.",
+          "**\"가장 빠른 VPN 속도\"**. Proton의 표현입니다.",
+          "**NetShield**. DNS 필터링으로 광고, 추적기, 악성코드를 차단합니다.",
+          "**Secure Core**. 페이지에서 프리미엄 기능으로 표시합니다.",
+          "**P2P와 스트리밍**. 페이지에서 플랜에 포함된 것으로 나열합니다.",
+          "**우선 지원과 라이브 채팅.**"
+        ],
+        "postParagraphs": [
+          "저희는 Proton VPN을 쓰지 않습니다. 속도, P2P, 스트리밍은 Proton이 안내하는 그대로 실었고 저희가 직접 측정한 것은 없으며, 어떤 동영상 서비스든 접속된다고 약속하지도 않습니다. 신뢰 측면과 감사 내용은 [Proton VPN은 안전할까요?](/ko/reviews/proton-vpn-trust-ko)에 있습니다."
+        ]
+      },
+      {
+        "heading": "무료 플랜으로 충분할까요?",
+        "paragraphs": [
+          "표는 하고 싶은 일에서 출발하며, 플랜 페이지에 적힌 내용만 사용합니다."
+        ],
+        "comparisonTable": {
+          "caption": "용도별 무료 플랜과 VPN Plus. Proton의 플랜 페이지 기준입니다.",
+          "headers": [
+            "하고 싶은 일",
+            "무료 플랜",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "공용 Wi-Fi에서 휴대폰 보호하기",
+              "가능. 한 번에 기기 1대",
+              "가능"
+            ],
+            [
+              "집에서 여러 기기를 동시에 쓰기",
+              "불가. 한 번에 1대",
+              "한 번에 최대 10대"
+            ],
+            [
+              "접속 국가 고르기",
+              "불가. 앱이 10개국 중에서 선택",
+              "가능. 140개국 이상"
+            ],
+            [
+              "기기에서 광고와 추적기 차단하기",
+              "포함되지 않음",
+              "가능. NetShield 사용"
+            ],
+            [
+              "P2P로 파일 공유하기",
+              "포함되지 않음",
+              "포함됨(페이지 기준)"
+            ],
+            [
+              "Proton이 안내하는 속도",
+              "\"중간 VPN 속도\"",
+              "\"가장 빠른 VPN 속도\""
+            ],
+            [
+              "데이터 제한 없이 쓰기",
+              "가능",
+              "가능"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "VPN Plus 가격",
+        "paragraphs": [
+          "아래는 2026년 11월 17일 Proton 페이지에 나와 있던 가격이며, 통화는 미국 달러로 설정한 상태였습니다. 크게 보이는 숫자는 \"월\" 기준 금액이지만, 청구는 전체 기간 분을 선결제로 합니다. 1년 플랜은 블랙프라이데이 캠페인 가격이었습니다."
+        ],
+        "comparisonTable": {
+          "caption": "Proton 요금 페이지와 파트너 페이지의 VPN Plus 가격(미국 달러). 금액은 국가와 통화에 따라 달라지므로 결제 화면에서 확인하세요.",
+          "headers": [
+            "플랜",
+            "월",
+            "선결제 금액",
+            "갱신 요금"
+          ],
+          "rows": [
+            [
+              "1개월",
+              "$9.99",
+              "$9.99",
+              "매달 $9.99"
+            ],
+            [
+              "1년",
+              "$2.99",
+              "$35.88",
+              "12개월마다 $83.88"
+            ],
+            [
+              "2년",
+              "$3.49",
+              "$83.76",
+              "12개월마다 $83.88"
+            ],
+            [
+              "2년, 파트너 페이지(저희 링크가 여는 페이지)",
+              "$2.49",
+              "$59.76",
+              "12개월마다 $83.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "1년과 2년 플랜에서 표의 가격은 첫 기간에만 적용됩니다. 그 뒤에는 둘 다 안내된 $83.88로 12개월마다 갱신되며, 약관에는 그 날짜에 적용되는 가격이 쓰인다고 되어 있습니다. 그래서 2년을 쓴다면 2년 플랜이 1년 플랜에 갱신 1회를 더한 것보다 저렴합니다.",
+          "마지막 행은 저희 버튼이 여는 페이지입니다. 같은 2년 플랜이 처음 24개월에 $59.76이며, 갱신 요금은 같습니다. 경로별 비교는 [Proton 블랙프라이데이 가이드](/ko/reviews/proton-black-friday-ko)에 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "alt": "Proton 요금 페이지의 VPN Plus 카드. 1년 플랜이 월 $2.99이고, 처음 12개월분으로 $35.88이 청구되며, 12개월마다 $83.88로 갱신된다고 표시되어 있습니다.",
+          "caption": "Proton 요금 페이지의 1년 VPN Plus 카드. 총액과 갱신 요금은 작은 글씨로 적혀 있습니다."
+        }
+      },
+      {
+        "heading": "VPN Plus와 Proton Unlimited",
+        "paragraphs": [
+          "Proton Unlimited는 VPN, 이메일, 클라우드 저장소, 비밀번호 관리자의 유료 기능을 한 계정에 묶은 것입니다. 같은 페이지에서 1년 플랜은 $77.88이었고 12개월마다 $119.88로 갱신되었습니다.",
+          "VPN Plus에 가입해도 다른 서비스는 무료 플랜을 그대로 쓸 수 있으며, 고객센터에 따르면 한 계정에 Plus 플랜을 여러 개 둘 수는 없습니다. 유료 VPN과 유료 Proton 서비스를 하나 더 쓸 계획이라면 Unlimited가 맞습니다. VPN만 필요하다면 1년 Plus는 첫 기간에 절반도 안 되는 금액($35.88 대 $77.88)이고, 갱신 때도 더 저렴합니다($83.88 대 $119.88).",
+          "저희는 같은 회사의 Proton Mail을 무료 플랜으로 10년 가까이 써 왔습니다. 무료 이메일로 충분하다면 유료 VPN을 쓰기 위해 Unlimited가 필요하지는 않습니다."
+        ]
+      },
+      {
+        "heading": "아쉬운 점",
+        "bullets": [
+          "**1년과 2년 플랜은 갱신 요금이 첫 기간보다 비쌉니다.** 요금 페이지의 1년 플랜은 $35.88에서 $83.88이 됩니다.",
+          "**지원은 양식으로 시작합니다.** Proton의 지원은 사이트의 문의 양식으로 이루어지며, 라이브 채팅은 유료 플랜에만 나와 있습니다. 자세한 내용은 [Proton VPN은 안전할까요?](/ko/reviews/proton-vpn-trust-ko)에 있습니다.",
+          "**무료 플랜에서는 국가를 고를 수 없습니다.** VPN을 쓰는 이유가 국가 선택이라면 무료 플랜으로는 부족합니다."
+        ]
+      },
+      {
+        "heading": "가입하는 방법과 그만두는 방법",
+        "paragraphs": [
+          "입력할 쿠폰이나 코드는 없습니다. 버튼을 누르면 2년 VPN Plus가 있는 파트너 페이지가 열리고, 1년과 월간 플랜은 Proton 요금 페이지에 있습니다. 결제 화면에는 결제 전에 통화와 총액이 표시됩니다. 구매한 날 갱신일을 적어 두세요.",
+          "Proton에 따르면 캠페인 할인은 \"모든 신규 사용자\"가 대상입니다. 이미 계정이 있다면 로그인한 뒤 그 계정의 혜택이 보이며, 로그인이 필요해서 저희는 그 내용을 확인하지 못했습니다. 먼저 무료 플랜을 써 볼 생각이라면 가입하는 날 계정에서 가격을 확인하세요.",
+          "Proton의 약관에 따르면 최초 구매 후 30일 이내에 해지하고 환불을 요청한 사람에게 환불합니다. 사용자당 한 번이며, Proton에서 직접 구매한 구독만 해당합니다. 단계별 방법은 [Proton VPN 해지와 환불 신청](/ko/reviews/proton-vpn-refund-ko)에 있습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "Proton VPN은 무료인가요? 카드가 필요 없는 무료 플랜이 있고, 유료 플랜도 있습니다. Proton에 따르면 무료 플랜에는 광고와 데이터 제한이 없고, 한 번에 기기 1대를 연결합니다.",
+          "Proton VPN Free에 데이터 제한이 있나요? Proton은 없다고 밝힙니다. 무료 플랜의 제한은 한 번에 기기 1대와, 앱이 고르는 10개국의 서버입니다.",
+          "Proton VPN Plus는 얼마인가요? 저희가 본 요금 페이지에서 미국 달러 기준 1년 플랜은 선결제 $35.88이었고, 12개월마다 $83.88로 갱신되었습니다. 월간 플랜은 $9.99였습니다. 금액은 국가와 통화에 따라 달라집니다.",
+          "VPN Plus와 Proton Unlimited는 무엇이 다른가요? VPN Plus는 VPN만 있는 유료 플랜입니다. Unlimited에는 이메일, 클라우드 저장소, 비밀번호 관리자의 유료 기능도 들어 있어 가격이 더 높습니다.",
+          "Plus를 써 보고 환불받을 수 있나요? 약관에는 최초 구매 후 30일 이내에 Proton에서 직접 가입한 사람이 해지하고 환불을 요청하면 환불한다고 되어 있습니다. 사용자당 한 번입니다."
+        ],
+        "postParagraphs": [
+          "저희 링크의 규칙은 [저희 사이트의 Proton 페이지](/ko/coupons/proton)에 있습니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Plus로 정했다면 저희 링크로 2년 플랜이 있는 Proton 파트너 페이지를 열 수 있습니다. 결제하기 전에 최초 결제 총액과 갱신 요금을 확인하세요.",
+      "label": "Proton VPN 할인 보기",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Proton의 플랜 페이지와 약관을 바탕으로 작성했으며, 직접 써 보고 검증한 것은 아닙니다. 이 링크는 제휴 링크이며 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-ko"
+      },
+      {
+        "slug": "proton-black-friday-ko"
+      },
+      {
+        "slug": "proton-vpn-refund-ko"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "VPN을 여러 기기에서 쓰거나 접속 국가를 골라야 한다.",
+        "기기 전체에서 광고와 추적기를 차단하고 싶다."
+      ],
+      "skipIf": [
+        "가끔 기기 1대로만 쓰고, 접속 국가는 상관없다.",
+        "갱신 금액이 예산에 맞지 않는다."
+      ]
+    }
+  },
+  {
+    "id": 1036,
+    "slug": "proton-vpn-worth-it-ja",
+    "locale": "ja",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "Proton VPNは有料にする価値がある？無料プランでできること、Plusの追加分、料金",
+    "seoTitle": "Proton VPNは有料にする価値は？無料とPlus、料金、更新",
+    "type": "購入ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Proton VPN Freeでできること、Plusだけにあるもの、最初の期間と更新時のPlusの料金、そしてProton Unlimitedが向いている人を解説します。",
+    "metaDescription": "Proton VPNは有料にする価値がある？無料プランでできること、Plusが向いている人、更新を含む料金、30日間の返金条件をまとめました。",
+    "publishedAt": "2026年11月17日",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "Protonのロゴと「Proton VPN、FreeかPlusか」の文字。隣には、Proton VPNアプリを表示したスマートフォンを持つ手の公式写真があります。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "結論",
+        "paragraphs": [
+          "Protonによると、Proton VPNの無料プランには広告もデータ量の制限もなく、同時に接続できるのは1台です。公共Wi-Fiでスマートフォンを使う程度なら、それで足ります。接続先の国を選びたい、複数の端末で使いたい、広告をブロックしたいという場合は、Plusが向いています。月払い以外では、更新料が最初の期間より高くなります。"
+        ]
+      },
+      {
+        "heading": "無料プランでできることとできないこと",
+        "paragraphs": [
+          "無料プランはカードの登録が不要です。Protonのページによると、広告もデータ量の制限もなく、活動ログを保存しない方針に従っています。",
+          "制限は料金ページに載っています。無料プランは同時に1台まで接続でき、ページには「中程度のVPN速度」と、「ランダムに選ばれる」10か国のサーバーと書かれています。国はアプリが選びます。広告ブロック、P2P、ストリーミングは無料プランに含まれない扱いで、Secure Coreはプレミアム機能として表示されています。"
+        ]
+      },
+      {
+        "heading": "Plusで追加されるもの",
+        "paragraphs": [
+          "VPN PlusはVPNだけの有料プランです。料金ページには、無料プランと比べた違いが載っています。"
+        ],
+        "bullets": [
+          "**10台を同時に接続**できます。無料プランは1台です。",
+          "**国を選べます**。140か国以上、2万台を超えるサーバーから選べます。",
+          "**「最高のVPN速度」**。Protonの表現です。",
+          "**NetShield**。DNSフィルタリングで広告、トラッカー、マルウェアをブロックします。",
+          "**Secure Core**。ページではプレミアム機能とされています。",
+          "**P2Pとストリーミング**。ページではプランに含まれると書かれています。",
+          "**優先サポートとライブチャット。**"
+        ],
+        "postParagraphs": [
+          "当サイトはProton VPNを使っていません。速度、P2P、ストリーミングはProtonの案内どおりに載せていて、当サイト自身の計測はなく、どの動画サービスにも接続できるとは約束しません。信頼性の面と監査については、[Proton VPNは安全？](/ja/reviews/proton-vpn-trust-ja)をご覧ください。"
+        ]
+      },
+      {
+        "heading": "無料プランで足りるか",
+        "paragraphs": [
+          "表は、やりたいことから出発して、各プランのページに書かれていることだけを使っています。"
+        ],
+        "comparisonTable": {
+          "caption": "用途別の無料プランとVPN Plus。Protonのプランページに基づきます。",
+          "headers": [
+            "やりたいこと",
+            "無料プラン",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "公共Wi-Fiでスマートフォンを保護する",
+              "対応。同時に1台まで",
+              "対応"
+            ],
+            [
+              "自宅で複数の端末を同時に使う",
+              "不可。同時に1台まで",
+              "同時に最大10台"
+            ],
+            [
+              "接続先の国を選ぶ",
+              "不可。アプリが10か国から選ぶ",
+              "可能。140か国以上"
+            ],
+            [
+              "端末で広告とトラッカーをブロックする",
+              "含まれない",
+              "可能。NetShieldを使用"
+            ],
+            [
+              "P2Pでファイルを共有する",
+              "含まれない",
+              "含まれる（ページの記載による）"
+            ],
+            [
+              "Protonが案内している速度",
+              "「中程度のVPN速度」",
+              "「最高のVPN速度」"
+            ],
+            [
+              "データ量の制限なしで使う",
+              "可能",
+              "可能"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "VPN Plusの料金",
+        "paragraphs": [
+          "以下は2026年11月17日時点のProtonのページに載っていた料金で、通貨は米ドルに設定した状態のものです。大きく表示されるのは「月額」の金額ですが、請求は期間全体の分を前払いで行います。1年プランはブラックフライデーのキャンペーン価格でした。"
+        ],
+        "comparisonTable": {
+          "caption": "Protonの料金ページとパートナーページにあるVPN Plusの料金（米ドル）。金額は国と通貨によって変わるため、決済画面で確認してください。",
+          "headers": [
+            "プラン",
+            "月額",
+            "一括請求額",
+            "更新時の料金"
+          ],
+          "rows": [
+            [
+              "1か月",
+              "$9.99",
+              "$9.99",
+              "毎月$9.99"
+            ],
+            [
+              "1年",
+              "$2.99",
+              "$35.88",
+              "12か月ごとに$83.88"
+            ],
+            [
+              "2年",
+              "$3.49",
+              "$83.76",
+              "12か月ごとに$83.88"
+            ],
+            [
+              "2年、パートナーページ（当サイトのリンクで開くページ）",
+              "$2.49",
+              "$59.76",
+              "12か月ごとに$83.88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "1年プランと2年プランでは、表の価格が適用されるのは最初の期間だけです。その後はどちらも案内されている$83.88で12か月ごとに更新され、利用規約には、その日に適用されている価格が使われると書かれています。そのため、2年続ける場合は、2年プランのほうが1年プランに更新を1回足した額より安くなります。",
+          "最後の行は、当サイトのボタンで開くページです。同じ2年プランが最初の24か月で$59.76で、更新料も同じです。各経路の比較は[Protonのブラックフライデーガイド](/ja/reviews/proton-black-friday-ja)にあります。"
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "alt": "Protonの料金ページにあるVPN Plusのカード。1年プランは月額$2.99、最初の12か月分として$35.88を請求し、12か月ごとに$83.88で更新されると表示されています。",
+          "caption": "Protonの料金ページにある1年のVPN Plusのカード。合計額と更新料は小さな文字で書かれています。"
+        }
+      },
+      {
+        "heading": "VPN PlusかProton Unlimitedか",
+        "paragraphs": [
+          "Proton Unlimitedは、VPN、メール、クラウドストレージ、パスワード管理の有料機能を一つのアカウントにまとめたものです。同じページでは、1年プランが$77.88で、12か月ごとに$119.88で更新されていました。",
+          "VPN Plusに加入しても、ほかのサービスは無料プランのまま使えます。ヘルプセンターによると、同じアカウントで複数のPlusプランを持つことはできません。有料のVPNと、もう一つ有料のProtonサービスを使うなら、Unlimitedが向いています。VPNだけが欲しいなら、1年のPlusは最初の期間で半額未満（$35.88に対して$77.88）で、更新時も安い（$83.88に対して$119.88）です。",
+          "当サイトは、同じ会社のProton Mailを無料プランで10年近く使っています。無料のメールで足りるなら、有料のVPNを使うためにUnlimitedは必要ありません。"
+        ]
+      },
+      {
+        "heading": "デメリット",
+        "bullets": [
+          "**1年プランと2年プランでは、更新料が最初の期間より高くなります。** 料金ページの1年プランでは、$35.88から$83.88になります。",
+          "**サポートはフォームから始まります。** Protonのサポートはサイトのお問い合わせフォームで対応していて、ライブチャットは有料プランにだけ載っています。詳しくは[Proton VPNは安全？](/ja/reviews/proton-vpn-trust-ja)をご覧ください。",
+          "**無料プランでは国を選べません。** VPNを使う目的が国の指定なら、無料プランでは足りません。"
+        ]
+      },
+      {
+        "heading": "申し込み方法と取りやめ方",
+        "paragraphs": [
+          "入力するクーポンやコードはありません。ボタンからパートナーページが開き、2年のVPN Plusが表示されます。1年プランと月払いのプランはProtonの料金ページにあります。決済画面には、支払い前に通貨と合計額が表示されます。購入した日に、更新日を控えておきましょう。",
+          "Protonによると、キャンペーンのオファーは「すべての新規ユーザー」が対象です。すでにアカウントがある場合は、ログイン後にそのアカウントのオファーが表示されます。ログインが必要なため、当サイトはその内容を確認していません。先に無料プランを試すつもりなら、申し込む日にアカウント内で価格を確認してください。",
+          "Protonの利用規約では、最初の購入から30日以内に解約して返金を申請した人に返金されます。対象は1ユーザーにつき1回で、Protonから直接購入したサブスクリプションだけです。手順は[Proton VPNの解約方法と返金申請](/ja/reviews/proton-vpn-refund-ja)で説明しています。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Proton VPNは無料ですか？ 無料プランがあり、カードは不要です。有料プランもあります。Protonによると、無料プランには広告もデータ量の制限もなく、同時に接続できるのは1台です。",
+          "Proton VPN Freeにデータ量の制限はありますか？ Protonは、制限はないと述べています。無料プランの制限は、同時に1台までであることと、アプリが選ぶ10か国のサーバーです。",
+          "Proton VPN Plusの料金はいくらですか？ 当サイトが確認した料金ページでは、米ドルで、1年プランが一括$35.88で、12か月ごとに$83.88で更新されていました。月払いは$9.99でした。金額は国と通貨によって変わります。",
+          "VPN PlusとProton Unlimitedの違いは何ですか？ VPN PlusはVPNだけの有料プランです。Unlimitedには、メール、クラウドストレージ、パスワード管理の有料機能も含まれ、その分料金が高くなります。",
+          "Plusを試して返金してもらえますか？ 利用規約では、最初の購入から30日以内に、Protonから直接申し込んだ人が解約して返金を申請した場合に返金されます。対象は1ユーザーにつき1回です。"
+        ],
+        "postParagraphs": [
+          "当サイトのリンクのルールは、[当サイトのProtonのページ](/ja/coupons/proton)にあります。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Plusに決めたなら、当サイトのリンクからProtonのパートナーページ（2年プラン）を開けます。支払う前に、最初の合計額と更新料を確認してください。",
+      "label": "Proton VPNのオファーを見る",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "Protonのプランページと利用規約をもとに作成しました。実際に使った検証はしていません。このリンクはアフィリエイトリンクで、紹介料を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-ja"
+      },
+      {
+        "slug": "proton-black-friday-ja"
+      },
+      {
+        "slug": "proton-vpn-refund-ja"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "VPNを複数の端末で使う、または接続先の国を選ぶ必要がある。",
+        "端末全体で広告とトラッカーをブロックしたい。"
+      ],
+      "skipIf": [
+        "利用は時々で、端末は1台だけ、接続先の国も問わない。",
+        "更新料が予算に合わない。"
+      ]
+    }
+  },
+  {
+    "id": 1037,
+    "slug": "proton-vpn-worth-it-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "Proton VPN 值得買嗎？免費方案能做什麼、Plus 多了什麼，以及要花多少錢",
+    "seoTitle": "Proton VPN 值得買嗎？免費版與 Plus、價格和續訂",
+    "type": "購買指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Proton VPN 免費版涵蓋什麼、哪些只有 Plus 才有、Plus 首期和續訂各要多少錢，以及什麼時候適合選 Proton Unlimited。",
+    "metaDescription": "Proton VPN 值得買嗎？看免費方案能做什麼、Plus 何時划算、含續訂的價格，以及 30 天退款的條件。",
+    "publishedAt": "2026年11月17日",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "Proton 標誌旁寫著「Proton VPN，免費版或 Plus」，旁邊是一張官方照片，畫面中一隻手拿著手機，螢幕上是 Proton VPN 應用程式。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "依 Proton 所述，Proton VPN 免費方案沒有廣告、沒有流量限制，一次可連 1 台裝置。手機連公共 Wi-Fi 時，這樣就夠用。想自己選國家、同時用多台裝置，或要封鎖廣告，Plus 才划算。除了月繳方案，續訂價都比首期高。"
+        ]
+      },
+      {
+        "heading": "免費方案能做什麼、不能做什麼",
+        "paragraphs": [
+          "免費方案不需要信用卡。依 Proton 頁面所述，它沒有廣告、沒有流量限制，並遵循不保存活動日誌的政策。",
+          "限制寫在價格頁面。免費方案一次連 1 台裝置，頁面提到的是「中等 VPN 速度」，以及 10 個國家「隨機選擇」的伺服器，國家由應用程式決定。廣告封鎖、P2P 和串流在免費方案中標示為不包含，Secure Core 則標示為進階功能。"
+        ]
+      },
+      {
+        "heading": "Plus 多了什麼",
+        "paragraphs": [
+          "VPN Plus 是只含 VPN 的付費方案。價格頁面列出了它與免費方案的差別。"
+        ],
+        "bullets": [
+          "**同時 10 台裝置**，免費方案是 1 台。",
+          "**可自選國家**，140 多個國家可選，伺服器超過 20,000 台。",
+          "**「最高 VPN 速度」**，這是 Proton 自己的說法。",
+          "**NetShield**，透過 DNS 過濾來封鎖廣告、追蹤器和惡意軟體。",
+          "**Secure Core**，頁面標示為進階功能。",
+          "**P2P 和串流**，頁面把它們列在此方案內。",
+          "**優先支援和即時聊天。**"
+        ],
+        "postParagraphs": [
+          "我們沒有使用 Proton VPN。速度、P2P 和串流在這裡都依 Proton 的宣傳列出，沒有我們自己的測量，也不保證能存取任何影音服務。信任面與稽核的內容，請見 [Proton VPN 安全嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "免費方案夠你用嗎？",
+        "paragraphs": [
+          "表格從你想做的事出發，只採用方案頁面上寫明的內容。"
+        ],
+        "comparisonTable": {
+          "caption": "依用途比較免費方案與 VPN Plus，依據 Proton 的方案頁面。",
+          "headers": [
+            "你想做的事",
+            "免費方案",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "在公共 Wi-Fi 下保護手機",
+              "可以，一次 1 台裝置",
+              "可以"
+            ],
+            [
+              "在家同時用多台裝置",
+              "不行，一次 1 台",
+              "同時最多 10 台"
+            ],
+            [
+              "選擇連線的國家",
+              "不行，由應用程式在 10 個國家中挑選",
+              "可以，140 多個國家"
+            ],
+            [
+              "在裝置上封鎖廣告和追蹤器",
+              "不包含",
+              "可以，使用 NetShield"
+            ],
+            [
+              "用 P2P 分享檔案",
+              "不包含",
+              "包含，依頁面所述"
+            ],
+            [
+              "Proton 宣傳的速度",
+              "「中等 VPN 速度」",
+              "「最高 VPN 速度」"
+            ],
+            [
+              "無流量限制地使用",
+              "可以",
+              "可以"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "VPN Plus 要多少錢",
+        "paragraphs": [
+          "以下是 2026 年 11 月 17 日 Proton 頁面上的價格，幣別設為美元。頁面上醒目的數字是「每月」價，但實際是整個期間一次扣款。1 年方案當時是黑色星期五活動價。"
+        ],
+        "comparisonTable": {
+          "caption": "Proton 價格頁面與合作夥伴頁面上的 VPN Plus，以美元計價。金額會隨國家和幣別而變，請在結帳時確認。",
+          "headers": [
+            "方案",
+            "每月",
+            "一次扣款",
+            "之後續訂價"
+          ],
+          "rows": [
+            [
+              "1 個月",
+              "9.99 美元",
+              "9.99 美元",
+              "每月 9.99 美元"
+            ],
+            [
+              "1 年",
+              "2.99 美元",
+              "35.88 美元",
+              "每 12 個月 83.88 美元"
+            ],
+            [
+              "2 年",
+              "3.49 美元",
+              "83.76 美元",
+              "每 12 個月 83.88 美元"
+            ],
+            [
+              "2 年，合作夥伴頁面（我們的連結開啟的頁面）",
+              "2.49 美元",
+              "59.76 美元",
+              "每 12 個月 83.88 美元"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "1 年和 2 年方案的表內價格只適用於第一期。之後兩者都以公布的 83.88 美元每 12 個月續訂，條款也說明以續訂當天有效的價格為準。所以如果你打算用滿兩年，2 年方案比 1 年方案加一次續訂更便宜。",
+          "最後一列是我們的按鈕開啟的頁面：同樣是 2 年方案，前 24 個月 59.76 美元，續訂價相同。兩種購買管道的比較，請見 [Proton 黑色星期五指南](/zh-hant/reviews/proton-black-friday-zh-hant)。"
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "alt": "Proton 價格頁面上的 VPN Plus 卡片：1 年方案每月 2.99 美元，前 12 個月一次扣款 35.88 美元，之後每 12 個月以 83.88 美元續訂。",
+          "caption": "Proton 價格頁面上的 1 年 VPN Plus 卡片，總額和續訂價標在小字中。"
+        }
+      },
+      {
+        "heading": "VPN Plus 還是 Proton Unlimited",
+        "paragraphs": [
+          "Proton Unlimited 把 VPN、電子郵件、雲端儲存和密碼管理的付費功能合在同一個帳戶裡。同一頁面上，1 年方案是 77.88 美元，之後每 12 個月以 119.88 美元續訂。",
+          "訂閱 VPN Plus 後，其他服務仍維持免費方案，說明中心也表示同一帳戶不能有多個 Plus 方案。如果你會用付費 VPN，再加上另一項付費的 Proton 服務，Unlimited 才有意義。如果你只要 VPN，1 年 Plus 首期不到一半的價格（35.88 美元對 77.88 美元），續訂時也仍然較便宜（83.88 美元對 119.88 美元）。",
+          "我們使用同一家公司的 Proton Mail 免費方案，已經將近十年。如果免費電子郵件對你來說夠用，就不需要為了用付費 VPN 而選 Unlimited。"
+        ]
+      },
+      {
+        "heading": "不利的地方",
+        "bullets": [
+          "**1 年和 2 年方案的續訂價比首期高。** 以價格頁面上的 1 年方案來說，從 35.88 美元變成 83.88 美元。",
+          "**客服從表單開始。** Proton 的客服透過網站上的聯絡表單處理，即時聊天只列在付費方案中。詳情請見 [Proton VPN 安全嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。",
+          "**免費方案不能選國家。** 如果這是你想用 VPN 的原因，免費方案就不適合你。"
+        ]
+      },
+      {
+        "heading": "如何訂閱，又如何反悔",
+        "paragraphs": [
+          "不需要輸入優惠碼或代碼。按鈕會開啟合作夥伴頁面，內容是 2 年 VPN Plus；1 年和月繳方案在 Proton 的價格頁面上。結帳時會在付款前顯示幣別和總額。購買當天請記下續訂日期。",
+          "依 Proton 所述，活動優惠適用於「所有新用戶」。如果你已經有帳戶，登入後會看到該帳戶的優惠，我們因為需要登入而沒有查閱。如果你打算先試免費方案，訂閱當天請在帳戶中確認價格。",
+          "依 Proton 的條款，只要在首次購買後 30 天內取消並申請退款，就會退還款項，每位用戶限一次，且僅適用於直接向 Proton 購買的訂閱。詳細步驟請見[如何取消 Proton VPN 並申請退款](/zh-hant/reviews/proton-vpn-refund-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Proton VPN 免費嗎？有免費方案，不需要信用卡，另有付費方案。依 Proton 所述，免費方案沒有廣告、沒有流量限制，一次連 1 台裝置。",
+          "Proton VPN 免費版有流量限制嗎？Proton 表示沒有。免費方案的限制是一次 1 台裝置，以及由應用程式挑選的 10 個國家的伺服器。",
+          "Proton VPN Plus 要多少錢？在我們查閱的價格頁面上，以美元計，1 年方案是 35.88 美元，一次扣款，之後每 12 個月以 83.88 美元續訂。月繳方案是 9.99 美元。金額會隨國家和幣別而變。",
+          "VPN Plus 和 Proton Unlimited 有什麼差別？VPN Plus 只含付費 VPN。Unlimited 還包含電子郵件、雲端儲存和密碼管理的付費功能，價格也更高。",
+          "我可以試用 Plus 再要回錢嗎？條款規定，直接向 Proton 訂閱的用戶，在首次購買後 30 天內取消並申請，可以退款，每位用戶限一次。"
+        ],
+        "postParagraphs": [
+          "我們連結的規則請見[我們網站上的 Proton 頁面](/zh-hant/coupons/proton)。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "如果你已決定選 Plus，我們的連結會開啟 Proton 的合作夥伴頁面，方案為 2 年。付款前請確認一次扣款總額和續訂價。",
+      "label": "查看 Proton VPN 優惠",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "本文依據 Proton 的方案頁面與條款撰寫，沒有實際測試。這個連結是聯盟連結，可能為我們帶來佣金。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-zh-hant"
+      },
+      {
+        "slug": "proton-black-friday-zh-hant"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hant"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你在多台裝置上使用 VPN，或需要自己選擇連線的國家。",
+        "你想在整台裝置上封鎖廣告和追蹤器。"
+      ],
+      "skipIf": [
+        "你只是偶爾用，而且只用一台裝置，連線的國家也不重要。",
+        "續訂金額超出你的預算。"
+      ]
+    }
+  },
+  {
+    "id": 1038,
+    "slug": "proton-vpn-worth-it-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "proton-vpn-vale-a-pena",
+    "title": "Proton VPN 值得买吗？免费套餐能做什么、Plus 多了什么，以及要花多少钱",
+    "seoTitle": "Proton VPN 值得买吗？免费版与 Plus、价格和续订",
+    "type": "购买指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Proton VPN 免费版覆盖什么、哪些只有 Plus 才有、Plus 首期和续订各要多少钱，以及什么时候适合选 Proton Unlimited。",
+    "metaDescription": "Proton VPN 值得买吗？看免费套餐能做什么、Plus 何时划算、含续订的价格，以及 30 天退款的条件。",
+    "publishedAt": "2026年11月17日",
+    "publishedAtISO": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+    "imageAlt": "Proton 标志旁写着“Proton VPN，免费版或 Plus”，旁边是一张官方照片，画面中一只手拿着手机，屏幕上是 Proton VPN 应用。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "按 Proton 的说法，Proton VPN 免费套餐没有广告、没有流量限制，一次可连 1 台设备。手机连公共 Wi-Fi 时，这样就够用。想自己选国家、同时用多台设备，或要屏蔽广告，Plus 才划算。除了按月订阅的套餐，续订价都比首期高。"
+        ]
+      },
+      {
+        "heading": "免费套餐能做什么、不能做什么",
+        "paragraphs": [
+          "免费套餐不需要银行卡。按 Proton 页面所述，它没有广告、没有流量限制，并遵循不保存活动日志的政策。",
+          "限制写在价格页面。免费套餐一次连 1 台设备，页面提到的是“中等 VPN 速度”，以及 10 个国家“随机选择”的服务器，国家由应用决定。广告屏蔽、P2P 和流媒体在免费套餐中标示为不包含，Secure Core 则标示为高级功能。"
+        ]
+      },
+      {
+        "heading": "Plus 多了什么",
+        "paragraphs": [
+          "VPN Plus 是只含 VPN 的付费套餐。价格页面列出了它与免费套餐的区别。"
+        ],
+        "bullets": [
+          "**同时 10 台设备**，免费套餐是 1 台。",
+          "**可自选国家**，140 多个国家可选，服务器超过 20,000 台。",
+          "**“最高 VPN 速度”**，这是 Proton 自己的说法。",
+          "**NetShield**，通过 DNS 过滤来屏蔽广告、跟踪器和恶意软件。",
+          "**Secure Core**，页面标示为高级功能。",
+          "**P2P 和流媒体**，页面把它们列在此套餐内。",
+          "**优先支持和在线聊天。**"
+        ],
+        "postParagraphs": [
+          "我们没有使用 Proton VPN。速度、P2P 和流媒体在这里都按 Proton 的宣传列出，没有我们自己的测量，也不保证能访问任何视频服务。信任方面与审计的内容，请见 [Proton VPN 安全吗？](/zh-hans/reviews/proton-vpn-trust-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "免费套餐够你用吗？",
+        "paragraphs": [
+          "表格从你想做的事出发，只采用套餐页面上写明的内容。"
+        ],
+        "comparisonTable": {
+          "caption": "按用途对比免费套餐与 VPN Plus，依据 Proton 的套餐页面。",
+          "headers": [
+            "你想做的事",
+            "免费套餐",
+            "VPN Plus"
+          ],
+          "rows": [
+            [
+              "在公共 Wi-Fi 下保护手机",
+              "可以，一次 1 台设备",
+              "可以"
+            ],
+            [
+              "在家同时用多台设备",
+              "不行，一次 1 台",
+              "同时最多 10 台"
+            ],
+            [
+              "选择连接的国家",
+              "不行，由应用在 10 个国家中挑选",
+              "可以，140 多个国家"
+            ],
+            [
+              "在设备上屏蔽广告和跟踪器",
+              "不包含",
+              "可以，使用 NetShield"
+            ],
+            [
+              "用 P2P 分享文件",
+              "不包含",
+              "包含，按页面所述"
+            ],
+            [
+              "Proton 宣传的速度",
+              "“中等 VPN 速度”",
+              "“最高 VPN 速度”"
+            ],
+            [
+              "无流量限制地使用",
+              "可以",
+              "可以"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "VPN Plus 要多少钱",
+        "paragraphs": [
+          "以下是 2026 年 11 月 17 日 Proton 页面上的价格，币种设为美元。页面上醒目的数字是“每月”价，但实际是整个周期一次性扣款。1 年套餐当时是黑色星期五活动价。"
+        ],
+        "comparisonTable": {
+          "caption": "Proton 价格页面与合作伙伴页面上的 VPN Plus，以美元计价。金额会随国家和币种而变，请在结账时确认。",
+          "headers": [
+            "套餐",
+            "每月",
+            "一次性扣款",
+            "之后续订价"
+          ],
+          "rows": [
+            [
+              "1 个月",
+              "9.99 美元",
+              "9.99 美元",
+              "每月 9.99 美元"
+            ],
+            [
+              "1 年",
+              "2.99 美元",
+              "35.88 美元",
+              "每 12 个月 83.88 美元"
+            ],
+            [
+              "2 年",
+              "3.49 美元",
+              "83.76 美元",
+              "每 12 个月 83.88 美元"
+            ],
+            [
+              "2 年，合作伙伴页面（我们的链接打开的页面）",
+              "2.49 美元",
+              "59.76 美元",
+              "每 12 个月 83.88 美元"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "1 年和 2 年套餐的表内价格只适用于第一期。之后两者都按公布的 83.88 美元每 12 个月续订，条款也说明以续订当天有效的价格为准。所以如果你打算用满两年，2 年套餐比 1 年套餐加一次续订更便宜。",
+          "最后一行是我们的按钮打开的页面：同样是 2 年套餐，前 24 个月 59.76 美元，续订价相同。两种购买渠道的对比，请见 [Proton 黑色星期五指南](/zh-hans/reviews/proton-black-friday-zh-hans)。"
+        ],
+        "image": {
+          "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+          "alt": "Proton 价格页面上的 VPN Plus 卡片：1 年套餐每月 2.99 美元，前 12 个月一次性扣款 35.88 美元，之后每 12 个月按 83.88 美元续订。",
+          "caption": "Proton 价格页面上的 1 年 VPN Plus 卡片，总额和续订价标在小字中。"
+        }
+      },
+      {
+        "heading": "VPN Plus 还是 Proton Unlimited",
+        "paragraphs": [
+          "Proton Unlimited 把 VPN、电子邮件、云存储和密码管理的付费功能合在同一个账户里。同一页面上，1 年套餐是 77.88 美元，之后每 12 个月按 119.88 美元续订。",
+          "订阅 VPN Plus 后，其他服务仍保持免费套餐，帮助中心也表示同一账户不能有多个 Plus 套餐。如果你会用付费 VPN，再加上另一项付费的 Proton 服务，Unlimited 才有意义。如果你只要 VPN，1 年 Plus 首期不到一半的价格（35.88 美元对 77.88 美元），续订时也仍然更便宜（83.88 美元对 119.88 美元）。",
+          "我们使用同一家公司的 Proton Mail 免费套餐，已经将近十年。如果免费电子邮件对你来说够用，就不需要为了用付费 VPN 而选 Unlimited。"
+        ]
+      },
+      {
+        "heading": "不利的地方",
+        "bullets": [
+          "**1 年和 2 年套餐的续订价比首期高。** 以价格页面上的 1 年套餐来说，从 35.88 美元变成 83.88 美元。",
+          "**客服从表单开始。** Proton 的客服通过网站上的联系表单处理，在线聊天只列在付费套餐中。详情请见 [Proton VPN 安全吗？](/zh-hans/reviews/proton-vpn-trust-zh-hans)。",
+          "**免费套餐不能选国家。** 如果这是你想用 VPN 的原因，免费套餐就不适合你。"
+        ]
+      },
+      {
+        "heading": "如何订阅，又如何反悔",
+        "paragraphs": [
+          "不需要输入优惠码或代码。按钮会打开合作伙伴页面，内容是 2 年 VPN Plus；1 年和按月订阅的套餐在 Proton 的价格页面上。结账时会在付款前显示币种和总额。购买当天请记下续订日期。",
+          "按 Proton 的说法，活动优惠适用于“所有新用户”。如果你已经有账户，登录后会看到该账户的优惠，我们因为需要登录而没有查阅。如果你打算先试免费套餐，订阅当天请在账户中确认价格。",
+          "按 Proton 的条款，只要在首次购买后 30 天内取消并申请退款，就会退还款项，每位用户限一次，且仅适用于直接向 Proton 购买的订阅。详细步骤请见[如何取消 Proton VPN 并申请退款](/zh-hans/reviews/proton-vpn-refund-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Proton VPN 免费吗？有免费套餐，不需要银行卡，另有付费套餐。按 Proton 的说法，免费套餐没有广告、没有流量限制，一次连 1 台设备。",
+          "Proton VPN 免费版有流量限制吗？Proton 表示没有。免费套餐的限制是一次 1 台设备，以及由应用挑选的 10 个国家的服务器。",
+          "Proton VPN Plus 要多少钱？在我们查阅的价格页面上，以美元计，1 年套餐是 35.88 美元，一次性扣款，之后每 12 个月按 83.88 美元续订。按月订阅的套餐是 9.99 美元。金额会随国家和币种而变。",
+          "VPN Plus 和 Proton Unlimited 有什么区别？VPN Plus 只含付费 VPN。Unlimited 还包含电子邮件、云存储和密码管理的付费功能，价格也更高。",
+          "我可以试用 Plus 再要回钱吗？条款规定，直接向 Proton 订阅的用户，在首次购买后 30 天内取消并申请，可以退款，每位用户限一次。"
+        ],
+        "postParagraphs": [
+          "我们链接的规则请见[我们网站上的 Proton 页面](/zh-hans/coupons/proton)。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "如果你已决定选 Plus，我们的链接会打开 Proton 的合作伙伴页面，套餐为 2 年。付款前请确认一次性扣款总额和续订价。",
+      "label": "查看 Proton VPN 优惠",
+      "url": "https://go.getproton.me/SH39K",
+      "sponsored": true
+    },
+    "affiliate": "proton",
+    "editorialNote": "本文依据 Proton 的套餐页面与条款撰写，没有实际测试。这个链接是联盟链接，可能为我们带来佣金。",
+    "relatedArticles": [
+      {
+        "slug": "proton-vpn-trust-zh-hans"
+      },
+      {
+        "slug": "proton-black-friday-zh-hans"
+      },
+      {
+        "slug": "proton-vpn-refund-zh-hans"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你在多台设备上使用 VPN，或需要自己选择连接的国家。",
+        "你想在整台设备上屏蔽广告和跟踪器。"
+      ],
+      "skipIf": [
+        "你只是偶尔用，而且只用一台设备，连接的国家也不重要。",
+        "续订金额超出你的预算。"
+      ]
+    }
   }
 ];

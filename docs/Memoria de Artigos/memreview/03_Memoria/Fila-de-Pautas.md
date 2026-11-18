@@ -51,7 +51,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | PN1 | Black Friday Proton 2026: preços em reais, quanto renova e 1 ano ou 2 anos (tem prazo: a campanha está no ar) | Proton (loja de link, sem cupom) | 10 idiomas | [[black-friday-proton]]; fatos em [[proton-fatos-1711]] (17/11) | Escrito e revisado em 17/11, nos 10 idiomas; espera o deploy |
 | PN2 | Proton VPN é confiável? (empresa, auditorias com relatório aberto, plano grátis, Reclame Aqui sem resposta) | Proton (loja de link, sem cupom) | 10 idiomas | [[proton-vpn-e-confiavel]]; fatos em [[proton-fatos-1711]] (17/11) | Escrito e revisado em 17/11, nos 10 idiomas; espera o deploy |
 | PN4 | Proton VPN: como cancelar e pedir o reembolso em 30 dias | Proton (loja de link, sem cupom) | 10 idiomas | [[proton-vpn-reembolso-como-cancelar]]; fatos em [[proton-fatos-1711]] (17/11) | Escrito e revisado em 17/11, nos 10 idiomas; espera o deploy |
-| PN3 | Proton VPN vale a pena? Grátis ou Plus, com o preço em reais | Proton (loja de link, sem cupom) | 10 idiomas | [[proton-vpn-vale-a-pena]]; fatos em [[proton-fatos-1711]] (17/11) | Redação, por último. Sem uso do VPN (o Bruno usa só o Proton Mail) |
+| PN3 | Proton VPN vale a pena? Grátis ou Plus, com o preço em reais | Proton (loja de link, sem cupom) | 10 idiomas | [[proton-vpn-vale-a-pena]]; fatos em [[proton-fatos-1711]] (17/11) | Escrito e revisado em 17/11, nos 10 idiomas; espera o deploy |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
