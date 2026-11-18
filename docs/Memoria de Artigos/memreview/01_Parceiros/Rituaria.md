@@ -25,7 +25,8 @@ suplementos, superfoods e dermocosméticos; o site é Shopify, com o checkout pr
 | Cashback de 10% para a próxima compra, em forma de cupom; "Descontos e Cashback não são cumulativos. Você pode escolher apenas um benefício por compra." | condicao_comercial_volatil | `https://www.rituaria.com.br/policies/terms-of-service` e faixa da home | 2026-11-17 | 2026-12-17 | Com o EMCASA aplicado, o checkout seguiu mostrando o aviso de 10% de cashback | Média |
 | Frete grátis: SP, ES, RJ e MG acima de R$ 199; PR, SC, RS, DF, GO, MS e MT acima de R$ 229; Nordeste acima de R$ 279; AC, AP, AM, PA, RO, RR e TO acima de R$ 349 | condicao_comercial_volatil | Central de ajuda, Política de Frete (`app.goconnect360.com.br/hc/rituaria/pt_BR/categories/poltica-de-frete`) | 2026-11-17 | 2026-12-17 | Correios (PAC e SEDEX); frete por peso e volume; não diz se o mínimo conta antes ou depois do cupom | Alta |
 | Parcelamento: 3x sem juros no cartão | condicao_comercial_volatil | Faixa da home | 2026-11-17 | 2026-12-17 | | Média |
-| Black November: "Leve 3, Pague 2 em todos os suplementos" | condicao_comercial_volatil | Banner da home | 2026-11-17 | 2026-12-01 | Não entrou sozinho num carrinho com três suplementos (4Mag, Capilar Nutri, Complexo B): regra não lida; fora da página | Baixa |
+| Black November: "Leve 3, Pague 2 nos suplementos" (`/collections/leve-3-pague-2`, 21 suplementos): com 3 itens da coleção, o de menor valor sai de graça | condicao_comercial_volatil | Banner da home e página da coleção | 2026-11-17 | 2026-12-01 | Sem data de fim nem regulamento. O carrinho de 17/11 não ganhou o desconto porque o Capilar Nutri não está na coleção | Média |
+| Teste 3 (Job 1): Fórmula NAC - 30 dias (R$ 69,90) + Fórmula 4Mag - 30 dias (R$ 59,90) + Fórmula Complexo B - 60 dias (R$ 44,90): R$ 174,70 → "L3P2 SUPLEMENTOS" − R$ 44,90 → R$ 129,80 → EMCASA − R$ 12,98 → R$ 116,82 | teste_carrinho | Checkout `seguro.rituaria.com.br`, sem login, sem finalizar | 2026-11-18 | 2026-12-01 | O EMCASA somou com o Leve 3, Pague 2 (10% sobre o total já com o item grátis). O carrinho da Shopify não mostra a promoção; ela aparece no checkout próprio. Refazer na semana de 27/11 | Alta |
 
 ---
 
@@ -33,7 +34,7 @@ suplementos, superfoods e dermocosméticos; o site é Shopify, com o checkout pr
 
 | Fato / Especificação | Tipo | Fonte | Consultado Em | Rever Até | Notas |
 |---|---|---|---|---|---|
-| Marca criada em 2021, idealizada pela Gabi; suplementos, superfoods e skincare, "de dentro para fora e de fora para dentro" | fato_oficial | `https://www.rituaria.com.br/pages/sobre-nos` | 2026-11-17 | 2027-02-17 | Operação da Beauty Hub Varejo Ltda (rodapé); os termos citam a Maga Comércio de Produtos Cosméticos Ltda |
+| Marca criada em 2021, idealizada pela Gabi; suplementos, superfoods e skincare, "de dentro para fora e de fora para dentro" | fato_oficial | `https://www.rituaria.com.br/pages/sobre-nos` | 2026-11-17 | 2027-02-17 | Operação da Beauty Hub Varejo Ltda, CNPJ 60.453.162/0001-07, Serra/ES (rodapé, lido em 18/11); o Reclame Aqui traz 60.453.162/0003-79, mesma raiz; os termos citam a Maga Comércio de Produtos Cosméticos Ltda |
 | Trocas: desistência em 7 dias corridos do recebimento, devolução gratuita e reembolso integral com frete; defeito, avaria ou produto errado em até 30 dias; sem troca por insatisfação depois do uso | fato_oficial | Central de ajuda, Trocas e Cancelamentos | 2026-11-17 | 2027-02-17 | Pedido pelo portal de trocas da loja |
 
 ---

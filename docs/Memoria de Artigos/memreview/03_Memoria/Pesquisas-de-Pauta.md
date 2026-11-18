@@ -18,6 +18,12 @@ Parceira nova (#1128). Pesquisa semente pedida pelo Bruno em 17/11; pautas RT1 a
 - **IA do Google (colado pelo Bruno em 17/11):** seis códigos de outros sites e da loja, de 10% a 20%. Não entram em texto nenhum.
 - **Não lido:** Anvisa produto a produto, CNPJ do rodapé, lojas oficiais no Mercado Livre e na Amazon, venda em farmácia, o "Leve 3, Pague 2" com o EMCASA.
 - **Decisão:** "é boa", "funciona" e "vale a pena" num artigo só (RT5); produtos (4Mag, Prebiótica, NAC) e os pares "Rituária ou X" ficam no estoque; "emagrece" não vira pauta.
+- **Leitura do Job 1 (18/11, antes dos briefings):**
+  - Carrinho com NAC, 4Mag e Complexo B da coleção: R$ 174,70, R$ 129,80 com o item mais barato grátis e R$ 116,82 com o EMCASA. A promoção só aparece no checkout próprio.
+  - Rodapé: Beauty Hub Varejo Ltda, CNPJ 60.453.162/0001-07 (Serra/ES); o do Reclame Aqui (/0003-79) tem a mesma raiz.
+  - Anvisa: a página Sobre Nós só tem o título "Registro na Anvisa"; os dados abertos (alimentos e cosméticos) não têm linha com a marca, a empresa ou a raiz do CNPJ, e listam o fabricante, que só o rótulo diz. A conferência produto a produto não fechou.
+  - Autocompletar novo: "laboratório rituária é confiável".
+- **Briefings:** RT1 a RT6 escritos em 18/11; a RT5 espera o OK do Bruno nos pressupostos da conta por dia.
 
 ---
 
