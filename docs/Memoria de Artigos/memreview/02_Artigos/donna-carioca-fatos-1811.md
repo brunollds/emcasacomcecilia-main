@@ -106,7 +106,32 @@ Estoque, sem saída hoje: "legging donna carioca é transparente" (só com peça
 - O que ainda pode sustentar, se for lido: garantia e política de troca de cada loja; o peso de "qualidade do produto" nas reclamações de cada perfil no Reclame Aqui; gramatura, se alguma ficha trouxer.
 - O que não entra: "qualidade superior", "acabamento melhor", "dura mais" ou "veste melhor" sem peça em mãos. É comparação com marca citada pelo nome, e sem prova vira afirmação que a marca pode contestar.
 
-**Falta para o Job 1:** composição do SkinUp e do Cotton Up na página do produto; o que a página da Insider diz do "anti odor" (tratamento ou fibra); frete e troca das três; preços relidos, porque as três estão em Black Friday.
+**Leituras de 18/11 para o argumento de qualidade (pedido do Bruno).**
+
+*Reclame Aqui, perfis abertos, dados de 01/05 a 31/10/2026:*
+
+| Loja | Reputação | Nota | Reclamações | Resolvidas | Voltariam a comprar | Problema mais citado (3 anos) |
+|---|---|---|---|---|---|---|
+| Donna Carioca (`/empresa/dona-carioca/`) | Ótima, verificada (RA1000 em maio e junho) | 8,3 | 171 | 88,7% | 73,2% | Produto não recebido, 21,31% |
+| Insider (`/empresa/insider-store/`) | RA1000 | 8,9 | 1.492 | 90,8% | 85,4% | Produto não recebido, 20,45% |
+| Toda Up (`/empresa/toda-up/`) | Ótima | 8,2 | 383 | 89,3% | 70,7% | Atraso na entrega, 19,43% |
+
+- **Não sustenta diferença de qualidade.** A queixa principal das três é entrega, e a Donna Carioca tem nota igual à da Toda Up. Só o primeiro item de cada lista foi lido; a fatia de "qualidade do produto" não apareceu.
+- CNPJ da Donna Carioca: 40.840.857/0001-34 (GTN Indústria e Comércio Ltda., Nova Friburgo, RJ), o mesmo no perfil e no rodapé do site.
+
+*Troca e defeito, pela política de cada loja:*
+
+| Loja | Arrependimento e troca | Defeito | O que pesa na calcinha |
+|---|---|---|---|
+| Donna Carioca (`/politica`) | 7 dias corridos; o envio da primeira troca é grátis e o frete do produto novo é do cliente | 90 dias; a postagem é da loja; a política fala em ressarcimento ou crédito no site | Peça promocional, com desconto ou de promoção só troca por defeito. Nada específico de moda íntima |
+| Insider (`/policies/refund-policy`) | 7 dias úteis (arrependimento) e 21 dias corridos (insatisfação) | 180 dias corridos | **Underwear e beachwear só trocam ou devolvem por defeito comprovado**, por higiene |
+| Toda Up (`/policies/refund-policy`) | 30 dias corridos para troca e para arrependimento; primeira troca com frete grátis | 90 dias (vício aparente) | Sem regra à parte para calcinha; a peça volta sem sinal de uso nem de lavagem |
+
+- **O que dá para escrever:** a Toda Up dá 30 dias para trocar tamanho e cor, contra 7 da Donna Carioca; a Insider dá 180 dias para defeito, contra 90, mas não troca calcinha por tamanho. São fatos de política, não de qualidade da peça.
+- **Gramatura:** nenhuma das fichas lidas traz.
+- **Conclusão:** nenhuma fonte pública lida mostra material ou acabamento melhor. O que se sustenta é forro declarado, compra por unidade, cor, grade e prazo de troca.
+
+**Falta para o Job 1:** composição do SkinUp e do Cotton Up na página do produto; o que a página da Insider diz do "anti odor" (tratamento ou fibra); frete das três; preços relidos, porque as três estão em Black Friday.
 
 ## 7. Falta ler antes de qualquer briefing
 
