@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pronto-para-deploy"
+status: "no-ar"
 responsavel: "Job-1"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer os carrinhos e reler a vitrine na semana de 27/11"
+proxima_acao: "refazer os carrinhos e reler a vitrine na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "AD5"
@@ -211,3 +211,6 @@ Já aberta na ficha: a Cecília recebeu ou usa algum produto da Adaptogen? Com u
 - **Corpo:** o print do checkout e seis fotos oficiais com link de afiliado (Tasty Whey 3W, Gold Whey, HIT Protein, Tasty Iso, Creatina Flavor e Platinum Series). A foto da Platinum é o pote de 100 g, e a legenda diz isso.
 - **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
 
+## No ar (18/11/2026)
+
+Release `f875e6a6` (#1145, com o #1141 da /cupons/adaptogen e o #1144 da Let's Eat It), no ar às 18:19 UTC; build `01a1efde…`, 2 workers no `deploy:finish`. Smoke das 4 páginas (título, capa no CDN, imagens do corpo, CECILIA, frases proibidas, sitemap e llms.txt), `covers:check` 4/4, IndexNow 8 URLs, captura `44368636479`.
