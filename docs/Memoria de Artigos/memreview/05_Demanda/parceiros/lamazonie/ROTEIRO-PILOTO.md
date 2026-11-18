@@ -1,7 +1,8 @@
 # Roteiro do piloto: L'Amazonie
 
-Roteiro da primeira execução do Programa de Demanda. **Nada aqui foi executado.** As fontes são candidatas: a coleta
-confirma se cada uma existe e responde, e registra o que achou.
+Roteiro da primeira execução do Programa de Demanda, escrito em 16/11/2026, antes das coletas. **Executado em
+17/11/2026**: o que aconteceu de fato, com os desvios, está no `DIARIO.md` e em `relatos/`. O texto abaixo fica como o
+plano que foi dado às sessões e não foi reescrito depois.
 
 Ponto de partida já conhecido (não recoletar sem motivo): dossiê `01_Parceiros/LAmazonie.md` e pesquisa semente
 `02_Artigos/lamazonie-fatos-1611.md`, de 16/11/2026, com Reclame Aqui, regras do cupom, políticas e autocompletar

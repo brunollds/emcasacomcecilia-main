@@ -12,6 +12,15 @@ com erro se achar célula vazia, id repetido ou evidência que não existe. Roda
 O texto das páginas da loja (`.txt` das coletas de páginas e de fichas) sai do HTML guardado na pasta de brutos
 pesados, com `extrair-texto.cjs <arquivo.html> <arquivo.txt> [main|body]`.
 
+Matriz e saída, fora desta pasta:
+
+| Arquivo | Origem | Como gerar |
+|---|---|---|
+| `3-matriz/matriz.csv` | Os cinco CSVs desta pasta | `node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/lamazonie/3-matriz/montar-matriz.cjs"`, e depois `validar-matriz.cjs` na mesma pasta |
+| `4-saida/recomendacoes.md` | `3-matriz/matriz.csv` e `4-saida/decisoes.json` | `node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/lamazonie/4-saida/gerar-recomendacoes.cjs"` |
+
+O checkout no Windows troca a quebra de linha dos processados: compare o resultado com `git diff`, não por hash.
+
 Ressalvas:
 
 - Os ids seguem a ordem dos scripts. Uma coleta nova pode mudar a numeração de `catalogo.csv` e de `sinais.csv`
