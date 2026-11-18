@@ -4444,6 +4444,143 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'barbours',
+    brand: "Barbour's Beauty",
+    officialUrl: 'https://www.thebarboursbeauty.com.br/',
+    // Link de afiliado da parceria, pela GoGroup (Bruno, 18/11/2026). Nunca abrir o link para conferir.
+    offerUrl: 'https://barbours.gogroup.com.br/emcasacomcecilia',
+    brandIcon: 'B',
+    brandLogo: '/images/about/partners/barbours.png',
+    brandLogoAlt: "Marca Barbour's Beauty",
+    bubble: { src: '/images/logos/bolinhas/barbours.png', background: '#CD2D2F' },
+    brandWatermark: '/images/logos/watermarks/barbours.webp',
+    brandColor: '#CD2D2F',
+    cartPrint: {
+      src: '/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp',
+      alt: "Resumo da compra no checkout da Barbour's Beauty com o código CECILIALINHARES no campo Cupom (opcional), a linha Descontos de menos R$ 21,98 e o total de R$ 197,82",
+      aspectRatio: 0.79,
+    },
+    code: 'CECILIALINHARES',
+    codeFieldLabel: 'Cupom (opcional)',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Fragrâncias para o corpo: body splash, perfume para cabelo, hidratantes, óleo de banho e a linha masculina Homme',
+    hubCategory: 'beleza',
+    shortDescription: "todo o site da Barbour's Beauty, inclusive os kits em promoção",
+    longDescription:
+      "O cupom Barbour's Beauty CECILIALINHARES dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram num kit em promoção e num produto pelo preço cheio. Vale em todas as formas de pagamento.",
+    metaTitle: "Cupom Barbour's: 10% OFF com CECILIALINHARES",
+    metaTitleMonth: true,
+    metaDescription:
+      "Cupom Barbour's: CECILIALINHARES dá 10% OFF em body splash e perfume capilar, para cliente novo ou antigo, e soma com as promoções. Testado no checkout.",
+    eligibleCategories: "Produtos do site oficial da Barbour's Beauty, inclusive os kits em promoção",
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping:
+      'Frete grátis acima de R$ 119 em São Paulo, de R$ 149 no Espírito Santo, no Rio de Janeiro e em Minas Gerais, de R$ 169 no Sul e no Centro-Oeste, de R$ 199 no Nordeste e de R$ 259 no Norte, segundo a central de ajuda da loja; abaixo disso, frete e prazo saem no checkout pelo CEP',
+    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 10% entraram num kit de R$ 209,70 por R$ 109,90' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 119 em SP, de R$ 149 no ES, no RJ e em MG, de R$ 169 no Sul e no Centro-Oeste, de R$ 199 no Nordeste e de R$ 259 no Norte' },
+    ],
+    paymentPerks: ['Até 4x sem juros no cartão de crédito, conforme o valor da compra', 'Pix e cartões Visa, Mastercard, Elo, American Express, Hipercard, Diners, Discover e Aura'],
+    lastVerified: '2026-11-18',
+    testedAt: '2026-11-18',
+    testNote:
+      'Num carrinho com o Kit Clássicos Masculinos (Bold Homme, Seduction Homme e Ocean Homme) em promoção, de R$ 209,70 por R$ 109,90, e a Necessaire + Perfume + Body My Sweet Delight pelo preço cheio de R$ 109,90, o CECILIALINHARES tirou R$ 21,98 dos R$ 219,80, e o total caiu para R$ 197,82: os 10% entraram nos dois produtos. Sozinho, o kit em promoção ganhou R$ 10,99 de desconto e saiu por R$ 98,91.',
+    codeInstructions: [
+      'Copie o código CECILIALINHARES no card acima.',
+      "Acesse o site oficial da Barbour's Beauty pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar a compra.",
+      'No checkout da própria loja, em seguro.thebarboursbeauty.com.br, clique em Inserir cupom de desconto, no resumo da compra, digite o código no campo Cupom (opcional) e clique em Adicionar.',
+      'Confira a linha Descontos e o total no resumo antes de pagar.',
+    ],
+    aboutBrand:
+      "A Barbour's Beauty é uma marca brasileira de fragrâncias para o corpo: body splash, perfume para cabelo, geleias e cremes hidratantes, óleo de banho, iluminador corporal e a linha masculina Homme, vendidos em unidades e em kits no site oficial. O cupom CECILIALINHARES é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os kits em promoção.",
+    faqs: [
+      {
+        question: "Quanto de desconto o cupom CECILIALINHARES dá na Barbour's?",
+        answer:
+          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 21,98 de um carrinho de R$ 219,80, e o resumo da compra mostrou o valor na linha Descontos.',
+      },
+      {
+        question: "Existe cupom Barbour's de 20%?",
+        answer:
+          'Sites de cupom anunciam códigos com percentuais maiores, que nós não testamos. O cupom da Cecília é o CECILIALINHARES: 10% OFF, aceito no checkout no nosso teste mais recente, inclusive sobre os kits em promoção.',
+      },
+      {
+        question: "O cupom CECILIALINHARES vale no Pix na Barbour's?",
+        answer:
+          'Vale. O cupom vale com todas as formas de pagamento: a loja aceita Pix e cartão de crédito, com parcelamento em até 4x sem juros conforme o valor da compra.',
+      },
+      {
+        question: "O cupom Barbour's vale na primeira compra?",
+        answer: 'Sim. O CECILIALINHARES vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: "Qual cupom Barbour's vale para quem já é cliente?",
+        answer: 'O CECILIALINHARES. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: "O CECILIALINHARES é cupom de influenciadora da Barbour's?",
+        answer:
+          "Sim. CECILIALINHARES é o cupom do Em Casa com Cecília na Barbour's Beauty e dá 10% OFF no site oficial para clientes novos e antigos.",
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, o Kit Clássicos Masculinos estava em promoção, de R$ 209,70 por R$ 109,90, e o cupom tirou os 10% dele também: o kit saiu por R$ 98,91.',
+      },
+      {
+        question: 'O cupom CECILIALINHARES está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o CECILIALINHARES foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: "Onde coloco o cupom na Barbour's?",
+        answer:
+          'No checkout da própria loja, que abre quando você clica em Finalizar a compra no carrinho: no resumo da compra, clique em Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. O resumo passa a mostrar a linha Descontos.',
+      },
+      {
+        question: "Tem cupom Barbour's na Black Friday?",
+        answer:
+          "Tem. O cupom Barbour's CECILIALINHARES dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.",
+      },
+      {
+        question: "O cupom Barbour's vale na Black Friday?",
+        answer:
+          'Vale. No nosso teste, em novembro, os 10% entraram também num kit em promoção. Confira a linha Descontos no resumo antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete, mas a loja dá frete grátis acima de R$ 119 em São Paulo, de R$ 149 no Espírito Santo, no Rio de Janeiro e em Minas Gerais, de R$ 169 no Sul e no Centro-Oeste, de R$ 199 no Nordeste e de R$ 259 no Norte. Abaixo disso, o valor e o prazo aparecem no checkout depois do CEP.',
+      },
+      {
+        question: "Como funciona a troca na Barbour's?",
+        answer:
+          'Pela política da loja, a desistência por arrependimento pode ser pedida em até 7 dias depois do recebimento. Depois que o pedido sai para entrega, ele não pode mais ser cancelado: dá para recusar o recebimento, e o valor é devolvido quando o pacote volta para a loja. As trocas e devoluções são pedidas pelo portal de trocas indicado no rodapé do site.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIALINHARES não funcionar?',
+        answer:
+          'Confira se o código foi digitado no campo Cupom (opcional) do checkout que abre pelo botão Finalizar a compra do carrinho, sem espaços, e se apareceu a linha Descontos. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { article: 'cupom-hostinger-indicacao', src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
