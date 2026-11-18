@@ -2,10 +2,11 @@
 
 Parceira nova (18/11/2026), página `/cupons/barbours` (#1152, ainda aberto em 18/11). O dossiê `01_Parceiros/Barbours.md`
 entra com o #1152. Este arquivo é a pesquisa semente do Job 1: busca, reputação, catálogo e as pautas propostas.
-Leituras de 18/11/2026 no navegador do app, sem login, sem finalizar compra e sem abrir o link de afiliado. **Sem GO
-de briefing: é a semente.**
+Leituras de 18/11/2026 no navegador do app, sem login, sem finalizar compra e sem abrir o link de afiliado. **Decisões do Bruno em 18/11/2026:**
+BB2, BB3 e BB6 liberadas; a Cecília não recebeu nem usou os produtos (a marca vai enviar, fica para depois);
+**primeiro lote = BB1 a BB5 e a Black Friday (BB9)**; BB6 (briefing pronto), BB7 e BB8 ficam no estoque.
 
-## 1. Pacote proposto (esperam decisão do Bruno)
+## 1. Pacote (primeiro lote com briefing em 18/11: BB1, BB2, BB3, BB4, BB5 e BB9)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 18/11) |
 |---|---|---|---|---|
@@ -16,6 +17,7 @@ de briefing: é a semente.**
 | BB5 | Barbour's Beauty é boa? O body splash pelo que a página informa | `barbours-e-boa` | [[adaptogen-e-boa]] | "barbours beauty é bom" (4ª da marca), "body splash é bom", "tem boa fixação", "vale a pena", "masculino é bom" |
 | BB6 | Body splash Barbour's: qual fragrância a loja diz que inspira cada um | `barbours-body-splash-inspiracoes` | sem modelo no site | "barbours beauty inspiração" (5ª da marca), "é inspirado em qual perfume", "inspirado no delina", "no la vie est belle", "no light blue", "no jadore", "no libre", "no scandal", "contratipo", "imita qual perfume importado" |
 | BB7 | Qual o melhor body splash da Barbour's | `barbours-melhor-body-splash` | [[dr-peanut-melhor-sabor]] | "barbours beauty body splash qual é o melhor", "quais os melhores", "body splash barbours mais vendido", "qual o melhor perfume da barbour's beauty" |
+| BB9 | Black Friday Barbour's Beauty 2026 (pedido do Bruno, 18/11) | `black-friday-barbours` | [[black-friday-adaptogen]] | sem sugestão própria; pauta com prazo |
 | BB8 | Body splash masculino da Barbour's (linha Homme) | `barbours-body-splash-masculino` | a definir | "barbours beauty body splash masculino" (8ª da marca), "masculino inspiração", "masculino é bom", "tem masculino" |
 
 - **É a parceira nova com mais busca de marca até aqui:** todas as raízes devolvem dez sugestões, e a segunda e a
@@ -25,9 +27,10 @@ de briefing: é a semente.**
   (seção 4). O dossiê manda não comparar com perfumes de outras marcas sem decisão do Bruno: **BB6 depende dessa
   decisão.** A proposta é só reproduzir o que a página da loja diz, com atribuição e com o aviso dela, sem dizer que
   "cheira igual".
-- **Black Friday não tem busca** ("barbours beauty black friday" não devolveu sugestão). Fica fora do pacote; a
-  página de cupons já tem as duas FAQs.
-- **Ordem sugerida:** BB1 e BB3 (cupom e a maior busca), BB2, BB6 (se liberada), BB5, BB4, BB7, BB8.
+- **Black Friday não tem busca** ("barbours beauty black friday" não devolveu sugestão), mas o Bruno pediu o
+  artigo (BB9). Em 18/11 o site não tinha campanha de Black Friday anunciada: só as promoções de sempre.
+- **Ordem do primeiro lote:** BB1 e BB9 (cupom e prazo), BB3, BB2, BB5 e BB4. Depois, quando o Bruno chamar: BB6,
+  BB7 e BB8.
 
 ## 2. Código e compra (do dossiê, 18/11)
 
@@ -105,8 +108,28 @@ entregar" e "entrega"; "tem loja física"; "mercado livre" e "shopee" (não conf
 Virginia" e "é de quem" (cabem na BB3, só com fato do site e do CNPJ); "cupom theodoro barbours" (código de
 terceiro: nunca citar).
 
-## 6. Perguntas para o Bruno
+## 6. Leituras a mais de 18/11/2026 (para os briefings)
 
-1. **BB6 (inspirações) pode sair?** É a busca de produto mais forte, e a fonte é a própria página da loja.
-2. A Cecília recebeu ou usa algum produto da Barbour's? Sem isso, tudo sai sem experiência própria.
-3. BB2 e BB3 liberadas, já que a reputação é RA1000?
+- **Dois CNPJs nas páginas:** o rodapé do checkout e o Reclame Aqui trazem BEAUTY HUB VAREJO LTDA, 60.453.162/0001-07;
+  os Termos de serviço do site citam BB VAREJO LTDA, 54.137.817/0001-35. A diferença não é explicada em lugar
+  nenhum lido.
+- `barboursbeauty.com.br` redireciona para `thebarboursbeauty.com.br`.
+- **Nota de Esclarecimento sobre Referências Olfativas** (abre no "Saiba mais" da página do produto): as menções a
+  outras marcas servem de referência olfativa; a Barbour's não tem vínculo com elas; a menção "não constitui promessa
+  de resultados idênticos ou similares"; cada composição é criação própria.
+- **Página do My Sweet Delight:** 4.580 avaliações (80% com cinco estrelas, 6% com quatro, 5% com três, 3% com duas,
+  6% com uma) e "+17726 compras no mês passado"; promessas de "longa duração" e "97% mais fixação", sem base
+  informada.
+- **Sem campanha de Black Friday no site:** nenhuma coleção, banner ou menu com o nome entre 283 coleções. No ar:
+  body splash a R$ 39,90 (riscado R$ 69,90), trios "Leve 3 Pague 2" a R$ 109,90, kits promocionais e Outlet.
+- **Banners "Black Week" na home (18/11, depois da leitura acima):** sem datas nem regulamento. Body splashes
+  femininos (*exceto lançamentos) e masculinos a R$ 39,90, perfume capilar a R$ 34,90, Kit 3 Body Splashes a R$ 109,90
+  (R$ 36,63 cada) e Iluminador + Body Splash a R$ 79,90: os mesmos preços da vitrine. A arte traz "Menor preço do ano"
+  e o preço riscado, que os artigos não usam.
+- Revenda, embaixadoras e central de ajuda em domínios da GoGroup/GoBeauté. "Sobre nós" não cita fundador nem ano.
+- Anexo dos briefings: `Anexo-Beleza`.
+
+## 7. Perguntas para o Bruno
+
+1. Respondidas em 18/11: BB6 pode sair (fica no estoque por ora); BB2 e BB3 liberadas; sem experiência própria.
+2. Em aberto: valor mínimo e limite de usos do código; datas e regras da Black Friday da parceira.

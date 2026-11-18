@@ -187,10 +187,11 @@ por 100 g de proteína é nosso.
 
 ## Redação, revisão e JSON (18/11/2026)
 
-- **Job 2 e Job 4:** escrito direto no JSON (`id` 1059) por subagente, com o brief da sessão de artigos (regras do pacote da AD1, a releitura de 18/11 à tarde e a leitura do dia da sessão de pauta), e revisado pela sessão. Só PT.
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1065; o 1059 ficou com a Barbour's, #1162) por subagente, com o brief da sessão de artigos (regras do pacote da AD1, a releitura de 18/11 à tarde e a leitura do dia da sessão de pauta), e revisado pela sessão. Só PT.
 - **Fable:** 18 propostas, aplicadas: o cupom somou com a Black Friday nos nossos testes (a coluna com o CECILIA usa o preço de campanha); a linha de Pix da Dux sem boleto e com "cerca de 5%" (4,8% a 4,9% pela página); sachê e 450 g não são exclusivos da Dux (a Adaptogen tem sachê do Tasty Whey 3W e o Tasty Iso Naturalle de 450 g), então o quadro diz "o mesmo whey em mais tamanhos"; frase do frete (Adaptogen com piso menor no Sudeste, Dux no Nordeste e no Norte); dose maior do Tasty (34 g contra 30 g, 71 g contra 67 g de proteína por 100 g de pó) e empate de proteína no isolado.
 - **Sabor Neutro da Adaptogen:** não conferido; o texto manda ver a lista na página de cada whey e não diz que ela não tem.
 - **Parcelamento da Dux fora do texto:** a leitura traz "4x R$ 87,73" no concentrado, que dá o Pix (R$ 350,92), não o cartão de R$ 368,90; reler a parcela antes de citar.
+- **Parecer do Farol (ChatGPT/Codex, colado pelo Bruno em 18/11; `docs/auditoria-copy-artigos/adaptogen-ad7-ad8-20261118-farol/`, fora do Git):** o preço da Dux da leitura da pauta era o "de" (R$ 368,90, R$ 455,90 e R$ 560,90); o cartão da página é **R$ 350,90, R$ 433,90 e R$ 533,90** (Pix R$ 333,36, R$ 412,21 e R$ 507,21), conferido pela sessão no JSON da página. Custo por 100 g de proteína da Dux: R$ 58,48, R$ 72,32 e R$ 71,68; a Adaptogen segue mais barata, 39%, 41% e 27% sem o cupom, 45%, 47% e 34% com ele. Os sabores da Dux estão à venda (o "esgotado" da extração do Farol não se confirmou). A versão completa do Farol entrou (três tabelas pequenas, veredito antes do FAQ), com ajustes da sessão: sem link na resposta rápida, sem data na legenda da tabela, sem a frase do piso de frete antes ou depois do cupom e a frase padrão do Pix.
 
 ## Capa e imagens (Job 6)
 

@@ -1,5 +1,5 @@
 {
-  "id": 1059,
+  "id": 1065,
   "slug": "adaptogen-ou-dux",
   "locale": "pt",
   "title": "Adaptogen ou Dux: whey comparado por dose, proteína e preço",
@@ -21,126 +21,70 @@
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp",
-  "imageAlt": "Logo da Adaptogen, a chamada “Adaptogen ou Dux” e o código CECILIA, ao lado do Adapto Whey 3W, em foto oficial da loja.",
+  "imageAlt": "Logo da Adaptogen, chamada ou Dux?, apoio Whey e preço e código CECILIA, ao lado do Adapto Whey 3W em foto oficial.",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na nossa conta, o whey da Adaptogen custa menos que o da Dux por 100 g de proteína, do concentrado ao isolado, e o cupom CECILIA na Adaptogen dá 10% OFF. Por dose, são 20 a 24 g de proteína na Dux e 21 a 25 g na Adaptogen, pelas páginas. A Dux tem sabor neutro e mais tamanhos."
+        "Na comparação dos concentrados, dos 3W e dos isolados, a Adaptogen custa menos por 100 g de proteína nos preços consultados. O cupom CECILIA na Adaptogen dá 10% OFF e aumenta essa diferença. A Dux lista opções de sabor Neutro e mais formatos nos produtos comparados; abaixo estão os duelos e as condições de frete."
       ]
     },
     {
-      "heading": "Como comparamos",
+      "heading": "Os wheys que entram na comparação",
       "paragraphs": [
-        "Esta comparação é só de whey: os concentrados, o de três proteínas e os isolados da Adaptogen e da Dux. Os outros produtos das duas lojas ficam de fora, e a linha da Adaptogen sozinha está no [guia Adaptogen é boa?](/reviews/adaptogen-e-boa). Quem compara outra marca com a Dux encontra [Max Titanium ou Dux](/reviews/max-titanium-ou-dux), e a comparação da Adaptogen com a Growth está em [Adaptogen ou Growth](/reviews/adaptogen-ou-growth).",
-        "Usamos o rótulo e o preço publicados nos sites das duas marcas em 18 de novembro de 2026, no cartão, sem frete e sem Pix. A Adaptogen é parceira; a Dux não é, e os links para as páginas dela, do [concentrado](https://duxhumanhealth.com/produtos/whey-protein-concentrado-pote-900g/), do [FreshWhey](https://duxhumanhealth.com/produtos/freshwhey-pote-900g) e do [isolado](https://duxhumanhealth.com/produtos/whey-protein-isolado-pote-900g/), são só fonte, sem afiliado.",
-        "Não usamos os produtos, por isso sabor, dissolução e digestão ficam de fora. Dose, proteína, lactose e glúten vêm do rótulo e da página de cada loja; o preço por 100 g de proteína é conta nossa. Quem tem condição de saúde ou alergia à proteína do leite fala com o médico ou o nutricionista antes de escolher."
-      ]
-    },
-    {
-      "heading": "Whey: proteína por dose e preço por 100 g de proteína",
-      "paragraphs": [
-        "A tabela põe cada par lado a lado. O preço por 100 g de proteína é conta nossa: o preço do pote dividido pela proteína que ele traz, pela dose e pelo peso do rótulo. A última coluna aplica os 10% do cupom CECILIA na Adaptogen sobre o preço no cartão; a Dux aparece no preço da página, sem cupom nosso."
-      ],
-      "comparisonTable": {
-        "caption": "Dose e proteína vêm das tabelas nutricionais das páginas das duas lojas. O preço por 100 g de proteína é conta nossa.",
-        "headers": [
-          "Produto",
-          "Dose e proteína",
-          "Doses",
-          "Cartão",
-          "Por 100 g de proteína (cartão)",
-          "Por 100 g com o CECILIA"
-        ],
-        "rows": [
-          [
-            "[Gold Whey 900 g](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), concentrado",
-            "30 g, 21 g de proteína",
-            "30",
-            "R$ 223,48",
-            "R$ 35,47",
-            "R$ 31,93"
-          ],
-          [
-            "Whey Protein Concentrado 900 g, Dux",
-            "30 g, 20 g de proteína",
-            "30",
-            "R$ 368,90",
-            "R$ 61,48",
-            "sem cupom"
-          ],
-          [
-            "[Tasty Whey 3W Gourmet 900 g](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
-            "34 g, 24 g de proteína",
-            "cerca de 26",
-            "R$ 270,20",
-            "R$ 42,53",
-            "R$ 38,28"
-          ],
-          [
-            "FreshWhey 900 g, Dux",
-            "30 g, 20 g de proteína",
-            "30",
-            "R$ 455,90",
-            "R$ 75,98",
-            "sem cupom"
-          ],
-          [
-            "[Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), isolado",
-            "30 g, 25 g de proteína",
-            "30",
-            "R$ 391,80",
-            "R$ 52,24",
-            "R$ 47,02"
-          ],
-          [
-            "Whey Protein Isolado 900 g, Dux",
-            "29 g, 24 g de proteína",
-            "cerca de 31",
-            "R$ 560,90",
-            "R$ 75,31",
-            "sem cupom"
-          ],
-          [
-            "[Adapto Whey 3W 900 g](https://www.adaptogen.com.br/produto/adapto-whey-3w-900g-6-sabores-150302?parceiro=CECILIA), sem par na Dux",
-            "32 g, 25 g de proteína",
-            "cerca de 28",
-            "R$ 279,55",
-            "R$ 39,76",
-            "R$ 35,78"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "Na nossa conta, sem o cupom, o Gold Whey custa 42% menos por 100 g de proteína que o concentrado da Dux; o Tasty Whey 3W, 44% menos que o FreshWhey; e o Tasty Iso, 31% menos que o isolado. Com o CECILIA, a diferença sobe para 48%, 50% e 38%.",
-        "O preço da Adaptogen é o da campanha de Black Friday da loja, e nos nossos testes o cupom CECILIA somou com os preços da campanha. Se o preço tiver mudado quando você ler, refaça a conta com o do dia."
+        "A comparação separa concentrado, whey de três proteínas e isolado. Os preços são de cartão, lidos nos dois sites em 18 de novembro de 2026, sem frete; a coluna com CECILIA calcula 10% sobre a campanha da Adaptogen. A aplicação do código foi confirmada em dois carrinhos da marca, sem teste individual destes wheys.",
+        "Na Dux, a tabela de formas de pagamento de cada página informa os totais no cartão usados aqui. No [concentrado](https://duxhumanhealth.com/produtos/whey-protein-concentrado-pote-900g/), no [FreshWhey](https://duxhumanhealth.com/produtos/freshwhey-pote-900g) e no [isolado](https://duxhumanhealth.com/produtos/whey-protein-isolado-pote-900g/), esses totais são menores que os valores de referência exibidos antes deles. A Dux não é parceira; esses links são fontes.",
+        "Os números de composição são os publicados nas páginas e devem ser conferidos no rótulo do sabor escolhido. O [guia da Adaptogen](/reviews/adaptogen-e-boa) detalha as linhas; [Adaptogen ou Growth](/reviews/adaptogen-ou-growth) compara a outra marca, e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) traz outra comparação com a Dux."
       ]
     },
     {
       "heading": "Concentrado: Gold Whey ou Whey Protein Concentrado",
       "paragraphs": [
         "Os dois são concentrados de 900 g. A página da Adaptogen diz que o Gold Whey tem dose de 30 g, com 21 g de proteína, 115 kcal e 5 g de carboidratos. A página da Dux diz que o Whey Protein Concentrado tem dose de 30 g, com 20 g de proteína, 128 kcal e 6,7 g de carboidratos.",
-        "A diferença de proteína por dose é de 1 g. A diferença de preço por proteína é bem maior: no cartão, o Gold custa R$ 35,47 por 100 g de proteína, e R$ 31,93 com o cupom CECILIA na Adaptogen; o concentrado da Dux, R$ 61,48. A Adaptogen informa 9 sabores no Gold Whey. A Dux lista 13 no concentrado, com um Neutro."
+        "A diferença de proteína por porção é de 1 g. O Gold fica em R$ 35,47 por 100 g de proteína, ou R$ 31,93 com CECILIA; o concentrado da Dux, em R$ 58,48. A Adaptogen anuncia 9 sabores no Gold e a Dux lista 13 no concentrado, incluindo Neutro. Confira quais variações estão disponíveis ao comprar."
       ],
       "images": [
         {
           "src": "/images/reviews/adaptogen/adaptogen-gold-whey-900g.webp",
-          "alt": "Pote do Gold Whey 900 g da Adaptogen, em foto oficial da loja",
+          "alt": "Embalagem do Gold Whey 900 g da Adaptogen, em foto oficial da loja",
           "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
           "href": "https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA",
           "objectFit": "contain",
           "aspectRatio": 1
         }
-      ]
+      ],
+      "comparisonTable": {
+        "caption": "Preços no cartão, sem frete. Conta por proteína com a porção declarada. Na Adaptogen, a seta mostra o cálculo com CECILIA (10% OFF); na Dux, o total de cartão publicado na página, sem cupom nosso. Frete fora da conta.",
+        "headers": [
+          "Produto",
+          "Porção / proteína",
+          "Cartão, embalagem",
+          "Por 100 g de proteína"
+        ],
+        "rows": [
+          [
+            "Gold Whey 900 g",
+            "30 g / 21 g",
+            "R$ 223,48",
+            "R$ 35,47 → R$ 31,93 com CECILIA"
+          ],
+          [
+            "Dux Concentrado 900 g",
+            "30 g / 20 g",
+            "R$ 350,90",
+            "R$ 58,48"
+          ]
+        ]
+      }
     },
     {
       "heading": "Três proteínas: Tasty Whey 3W ou FreshWhey",
       "paragraphs": [
         "A página da Adaptogen diz que o Tasty Whey 3W Gourmet é concentrado, isolado e hidrolisado. A tabela dele traz dose de 34 g, com 24 g de proteína, 134 kcal e 4,3 g de carboidratos, e o pote de 900 g rende cerca de 26 porções. A loja informa 23 sabores. Por 100 g de proteína, sai a R$ 42,53 no cartão e R$ 38,28 com o cupom CECILIA na Adaptogen.",
-        "O FreshWhey da Dux, que a página descreve com as mesmas três proteínas, tem dose de 30 g, com 20 g de proteína, 118 kcal e 5,2 g de carboidratos. A página diz que ele é adoçado com estévia e taumatina, e a lista de sabores tem nove opções, sem Neutro. No cartão, sai a R$ 75,98 por 100 g de proteína. A dose do Tasty é maior, 34 g contra 30 g, e parte da diferença de proteína por dose vem daí: a cada 100 g de pó, são cerca de 71 g de proteína no Tasty e 67 g no FreshWhey, na nossa conta.",
-        "A Adaptogen tem outro whey de três proteínas, o Adapto Whey 3W, de 900 g e 6 sabores pela loja: dose de 32 g, com 25 g de proteína, 128 kcal e 2,5 g de carboidratos, cerca de 28 porções. Ele não tem par na Dux e entra na tabela como opção a mais. Por 100 g de proteína, sai a R$ 39,76 no cartão e R$ 35,78 com o CECILIA, abaixo do Tasty Whey 3W."
+        "O FreshWhey da Dux, que a página descreve com as mesmas três proteínas, tem dose de 30 g, com 20 g de proteína, 118 kcal e 5,2 g de carboidratos. A página diz que ele é adoçado com estévia e taumatina, e a lista de sabores tem nove opções, sem Neutro. No cartão, sai a R$ 72,32 por 100 g de proteína. A dose do Tasty é maior, 34 g contra 30 g, e parte da diferença de proteína por dose vem daí: a cada 100 g de pó, são cerca de 71 g de proteína no Tasty e 67 g no FreshWhey, na nossa conta.",
+        "A Adaptogen tem outro whey de três proteínas, o Adapto Whey 3W, de 900 g e 6 sabores pela loja: dose de 32 g, com 25 g de proteína, 128 kcal e 2,5 g de carboidratos, cerca de 28 porções. Ele é uma segunda opção de 3W da Adaptogen para comparar com o FreshWhey, não uma categoria sem equivalente na Dux. Por 100 g de proteína, sai a R$ 39,76 no cartão e R$ 35,78 com o CECILIA, abaixo do Tasty Whey 3W."
       ],
       "images": [
         {
@@ -159,14 +103,43 @@
           "objectFit": "contain",
           "aspectRatio": 1
         }
-      ]
+      ],
+      "comparisonTable": {
+        "caption": "Conta por proteína com a porção declarada. Na Adaptogen, a seta mostra o cálculo com CECILIA (10% OFF); na Dux, o total de cartão publicado na página, sem cupom nosso. Frete fora da conta.",
+        "headers": [
+          "Produto",
+          "Porção / proteína",
+          "Cartão, embalagem",
+          "Por 100 g de proteína"
+        ],
+        "rows": [
+          [
+            "Tasty Whey 3W 900 g",
+            "34 g / 24 g",
+            "R$ 270,20",
+            "R$ 42,53 → R$ 38,28 com CECILIA"
+          ],
+          [
+            "Adapto Whey 3W 900 g",
+            "32 g / 25 g",
+            "R$ 279,55",
+            "R$ 39,76 → R$ 35,78 com CECILIA"
+          ],
+          [
+            "Dux FreshWhey 900 g",
+            "30 g / 20 g",
+            "R$ 433,90",
+            "R$ 72,32"
+          ]
+        ]
+      }
     },
     {
       "heading": "Isolado: Tasty Iso ou Whey Protein Isolado",
       "paragraphs": [
         "O Tasty Iso, pela página da Adaptogen, é isolado e hidrolisado: dose de 30 g, com 25 g de proteína, 115 kcal e 1,5 g de carboidratos, e 30 porções no pote de 900 g. A página diz que ele é zero lactose, e que o sabor Cookies and Cream tem glúten.",
         "O Whey Protein Isolado da Dux, pela tabela da página, tem dose de 29 g, com 24 g de proteína, 108 kcal e 1,6 g de carboidratos, e cerca de 31 porções. A página diz que o isolado contém lactose. Em proteína, os dois praticamente empatam: 25 g em 30 g de pó no Tasty Iso, 24 g em 29 g no da Dux.",
-        "Por 100 g de proteína, o Tasty Iso sai a R$ 52,24 no cartão e R$ 47,02 com o cupom CECILIA na Adaptogen. O isolado da Dux sai a R$ 75,31 no cartão, sem cupom nosso."
+        "Por 100 g de proteína, o Tasty Iso sai a R$ 52,24 no cartão e R$ 47,02 com o cupom CECILIA na Adaptogen. O isolado da Dux sai a R$ 71,68 no cartão, sem cupom nosso."
       ],
       "images": [
         {
@@ -177,7 +150,30 @@
           "objectFit": "contain",
           "aspectRatio": 1
         }
-      ]
+      ],
+      "comparisonTable": {
+        "caption": "Conta por proteína com a porção declarada. Na Adaptogen, a seta mostra o cálculo com CECILIA (10% OFF); na Dux, o total de cartão publicado na página, sem cupom nosso. Frete fora da conta.",
+        "headers": [
+          "Produto",
+          "Porção / proteína",
+          "Cartão, embalagem",
+          "Por 100 g de proteína"
+        ],
+        "rows": [
+          [
+            "Tasty Iso 900 g",
+            "30 g / 25 g",
+            "R$ 391,80",
+            "R$ 52,24 → R$ 47,02 com CECILIA"
+          ],
+          [
+            "Dux Isolado 900 g",
+            "29 g / 24 g",
+            "R$ 533,90",
+            "R$ 71,68"
+          ]
+        ]
+      }
     },
     {
       "heading": "Sabores, lactose e glúten",
@@ -190,7 +186,7 @@
         "**Sabores.** A Dux lista 13 sabores no concentrado e 11 no isolado, com Neutro nos dois, e 9 no FreshWhey, sem Neutro. A Adaptogen informa 9 no Gold Whey, 23 no Tasty Whey 3W e 7 no Tasty Iso. Quem procura sabor Neutro encontra nas listas do concentrado e do isolado da Dux; na Adaptogen, confira a lista de sabores na página de cada whey."
       ],
       "postParagraphs": [
-        "Sabor é gosto, e não provamos nenhum deles. Quem tem alergia ou intolerância lê o rótulo do sabor escolhido."
+        "Confira a lista de sabores disponíveis e o rótulo da variação escolhida, especialmente em caso de alergia ou intolerância. Para dúvidas de dose e saúde, consulte médico ou nutricionista."
       ]
     },
     {
@@ -203,8 +199,8 @@
     {
       "heading": "Cupom, Pix e frete",
       "paragraphs": [
-        "O cupom CECILIA na Adaptogen dá 10% OFF no site oficial, para cliente novo e antigo. Ele entra no campo Cupom de desconto do checkout: digite o código e clique em Aplicar. Nos nossos testes, apareceram o aviso Cupom aplicado e a linha Cupom no resumo. A página do [cupom Adaptogen](/cupons/adaptogen) reúne as condições, e o [guia de como usar o código](/reviews/cupom-adaptogen-como-usar) mostra o passo a passo.",
-        "No Pix, as duas lojas mostram o preço cerca de 5% abaixo do cartão. Na Adaptogen, o Gold Whey sai a R$ 212,30 e o Tasty Iso, a R$ 372,18; na Dux, o concentrado sai a R$ 350,90, o FreshWhey a R$ 433,90 e o isolado a R$ 533,90. São os preços das páginas dos produtos, sem o cupom: não testamos o cupom com pagamento no Pix, e por isso as contas deste texto ficam no cartão."
+        "O cupom CECILIA na Adaptogen dá 10% OFF no site oficial, para cliente novo e antigo. Ele entra no campo Cupom de desconto do checkout: digite o código e clique em Aplicar. Nos nossos testes, apareceram o aviso Cupom aplicado e a linha Cupom no resumo. As condições ficam na página do [cupom Adaptogen](/cupons/adaptogen), e o [guia de aplicação](/reviews/cupom-adaptogen-como-usar) mostra o campo.",
+        "Na Adaptogen, a loja anuncia 5% no Pix e no boleto. O CECILIA vale também no Pix e no boleto; confira os dois descontos no resumo antes de pagar. Na Dux, a página mostra o Pix 5% abaixo do cartão. As contas acima usam o cartão nas duas lojas."
       ],
       "comparisonTable": {
         "headers": [
@@ -220,11 +216,11 @@
           ],
           [
             "Pix",
-            "Pix e boleto: 5% abaixo do cartão",
-            "Pix: cerca de 5% abaixo do cartão, pela página"
+            "5% anunciado para Pix e boleto; conferir o resumo com o cupom",
+            "5% abaixo do cartão, pela página; fora das contas acima"
           ],
           [
-            "Frete grátis a partir de",
+            "Frete grátis: mínimos anunciados",
             "R$ 199 no Sudeste; R$ 249 no Sul e no Centro-Oeste; R$ 399 no Nordeste; R$ 599 no Norte",
             "Acima de R$ 250 no Sul, no Sudeste e no Centro-Oeste; acima de R$ 300 no Nordeste; acima de R$ 400 no Norte"
           ]
@@ -244,11 +240,18 @@
       ]
     },
     {
+      "heading": "Adaptogen ou Dux: qual compensa?",
+      "paragraphs": [
+        "Por preço de proteína, a Adaptogen fica à frente nos três pares, mesmo com os totais de cartão menores da Dux. Sem o cupom, a diferença calculada é de cerca de 39% no concentrado, 41% no Tasty 3W contra FreshWhey e 27% no isolado; com CECILIA, passa a 45%, 47% e 34%.",
+        "A Dux entra na escolha quando você procura uma variação Neutro ou um dos formatos que a página lista. No frete grátis, ela anuncia mínimo menor no Norte e no Nordeste. Compare a variação disponível e o total com CEP antes de decidir; os números não avaliam sabor, digestão ou resultado de uso."
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Adaptogen ou Dux: qual whey tem mais proteína por dose? Pelas tabelas das páginas, a Adaptogen: 21 g no Gold Whey, 24 g no Tasty Whey 3W e 25 g no Tasty Iso. A Dux tem 20 g no concentrado e no FreshWhey, e 24 g no isolado. As doses não têm o mesmo tamanho: a do Tasty Whey 3W é de 34 g e a do isolado da Dux, de 29 g.",
         "Qual sai mais barato por 100 g de proteína? Na nossa conta, a Adaptogen, nos três pares, mesmo sem o cupom, e a diferença aumenta com o cupom CECILIA na Adaptogen.",
-        "Tasty Whey ou o concentrado da Dux? São tipos de whey diferentes: o Tasty Whey 3W junta concentrado, isolado e hidrolisado, pela página da Adaptogen, e o equivalente na Dux é o FreshWhey. Contra o concentrado da Dux, o Tasty tem 24 g de proteína em 34 g, e o concentrado, 20 g em 30 g; por 100 g de proteína, R$ 42,53 contra R$ 61,48, no cartão.",
+        "Tasty Whey ou o concentrado da Dux? São tipos de whey diferentes: o Tasty Whey 3W junta concentrado, isolado e hidrolisado, pela página da Adaptogen, e o equivalente na Dux é o FreshWhey. Contra o concentrado da Dux, o Tasty tem 24 g de proteína em 34 g, e o concentrado, 20 g em 30 g; por 100 g de proteína, R$ 42,53 contra R$ 58,48, no cartão.",
         "Qual das duas tem whey sem lactose? Da Adaptogen, o Tasty Iso, que a página descreve como zero lactose. Os três wheys da Dux desta comparação contêm lactose, pela página dela. Confira o glúten no rótulo do sabor: o Cookies and Cream do Tasty Iso tem glúten.",
         "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. A Dux não é parceira e não tem cupom nosso."
       ]

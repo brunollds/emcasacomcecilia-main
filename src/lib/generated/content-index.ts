@@ -264765,6 +264765,982 @@ export const reviewsData: unknown[] = [
   },
   {
     "id": 1059,
+    "slug": "cupom-barbours-como-usar",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Cupom Barbour's Beauty: como aplicar o CECILIALINHARES no checkout e o que soma com ele",
+    "seoTitle": "Como usar o cupom CECILIALINHARES na Barbour's, 10% OFF",
+    "type": "Guia & Cupons",
+    "description": "Onde digitar o cupom CECILIALINHARES na Barbour's Beauty, quanto ele tira nos nossos carrinhos, se soma com kit em promoção e o frete grátis por região.",
+    "metaDescription": "O CECILIALINHARES dá 10% OFF na Barbour's Beauty, para cliente novo e antigo. Veja onde digitar o código no checkout e quanto ele tira nos nossos testes.",
+    "image": "/images/reviews/barbours/cupom-barbours-como-usar-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty, a chamada “Como usar o cupom” e o código CECILIALINHARES, com foto oficial de produto da loja.",
+    "cta": {
+      "text": "Abra a loja pelo botão desta página, monte o carrinho e clique em Finalizar a compra. No checkout, clique em Inserir cupom de desconto, digite CECILIALINHARES em Cupom (opcional) e clique em Adicionar.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-barbours-primeira-compra"
+      },
+      {
+        "slug": "black-friday-barbours"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "barbours-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "barbours-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom CECILIALINHARES dá 10% de desconto na Barbour's Beauty, para cliente novo e antigo. Ele entra no checkout, depois de clicar em Finalizar a compra: clique em Inserir cupom de desconto, digite o código e clique em Adicionar. Nos nossos testes, os 10% entraram sobre um kit que já estava em promoção."
+        ]
+      },
+      {
+        "heading": "Onde digitar o cupom na Barbour's",
+        "paragraphs": [
+          "O caminho é o botão do carrinho. Ao clicar em Finalizar a compra, a loja leva você ao checkout seguro dela, em seguro.thebarboursbeauty.com.br, e é lá que o código entra."
+        ],
+        "bullets": [
+          "**Clique em COMPRAR** na página do produto.",
+          "**Abra o carrinho,** confira os itens e clique em Finalizar a compra.",
+          "**Clique em Inserir cupom de desconto** no checkout e digite o código no campo Cupom (opcional).",
+          "**Clique em Adicionar** e confira a linha Descontos no resumo antes de pagar."
+        ],
+        "postParagraphs": [
+          "O botão desta página leva à loja. O código você digita lá, no checkout.",
+          "Janelas de roleta ou de presente podem abrir no caminho. O código não entra nelas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+            "alt": "Resumo da compra no checkout da Barbour's Beauty com o código CECILIALINHARES no campo Cupom (opcional), a linha Descontos com R$ 21,98 a menos e o total de R$ 197,82",
+            "caption": "O CECILIALINHARES aplicado no resumo do checkout. A linha Descontos mostra quanto o cupom tirou do pedido.",
+            "objectFit": "contain",
+            "aspectRatio": 0.79
+          }
+        ]
+      },
+      {
+        "heading": "Quanto o cupom tira nos testes",
+        "paragraphs": [
+          "Conta nossa: nos dois carrinhos testados em 18 de novembro, o cupom tirou 10% do total dos produtos, como mostra a tabela."
+        ],
+        "comparisonTable": {
+          "caption": "Carrinhos testados, com 10% sobre o total dos produtos",
+          "headers": [
+            "Carrinho",
+            "Produtos",
+            "Descontos (10%)",
+            "Total com o cupom"
+          ],
+          "rows": [
+            [
+              "Kit em promoção",
+              "R$ 109,90",
+              "− R$ 10,99",
+              "R$ 98,91"
+            ],
+            [
+              "Kit em promoção e outro kit a preço cheio",
+              "R$ 219,80",
+              "− R$ 21,98",
+              "R$ 197,82"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No seu pedido, o desconto é o que aparece na linha Descontos."
+        ]
+      },
+      {
+        "heading": "O cupom soma com promoção e com kit?",
+        "paragraphs": [
+          "Nos nossos testes, o cupom somou com a promoção. O primeiro carrinho era um kit que já estava com preço promocional, e os 10% saíram sobre esse preço.",
+          "No segundo carrinho, o kit em promoção entrou junto com o kit Necessaire + Perfume + Body My Sweet Delight, sem promoção, a R$ 109,90. Os 10% saíram sobre os R$ 219,80 do carrinho, nos dois kits.",
+          "Para a primeira compra, veja o [cupom na primeira compra](/reviews/cupom-barbours-primeira-compra). Para a Black Friday, veja [Black Friday na Barbour's](/reviews/black-friday-barbours)."
+        ]
+      },
+      {
+        "heading": "Existe cupom Barbour's de 15%?",
+        "paragraphs": [
+          "Quem procura cupom Barbour's de 15% encontra, aqui, o nosso de 10%. O CECILIALINHARES vale para cliente novo e antigo e foi o código que entrou nos dois carrinhos testados."
+        ]
+      },
+      {
+        "heading": "Frete grátis por região",
+        "paragraphs": [
+          "A loja informa frete grátis acima de um valor que muda por região:"
+        ],
+        "comparisonTable": {
+          "caption": "Valor a partir do qual o frete sai grátis, por região",
+          "headers": [
+            "Região",
+            "Frete grátis acima de"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "R$ 119"
+            ],
+            [
+              "Espírito Santo, Rio de Janeiro e Minas Gerais",
+              "R$ 149"
+            ],
+            [
+              "Sul e Centro-Oeste",
+              "R$ 169"
+            ],
+            [
+              "Nordeste",
+              "R$ 199"
+            ],
+            [
+              "Norte",
+              "R$ 259"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O prazo médio de entrega é de 7 a 10 dias úteis, segundo a loja. Confira o total com o frete no resumo do pedido antes de pagar."
+        ]
+      },
+      {
+        "heading": "Pix e cartão",
+        "paragraphs": [
+          "A loja informa que aceita Pix e cartão, com até 4x sem juros. O cupom vale com as formas de pagamento da loja."
+        ]
+      },
+      {
+        "heading": "Se o código não entrar",
+        "paragraphs": [
+          "Se o desconto não aparecer, confira três coisas antes de pagar."
+        ],
+        "bullets": [
+          "**A grafia.** CECILIALINHARES, tudo junto e sem espaço antes ou depois.",
+          "**O caminho.** O campo fica no checkout aberto pelo botão Finalizar a compra do carrinho.",
+          "**A linha Descontos.** Ela aparece no resumo do pedido quando o cupom entra."
+        ],
+        "postParagraphs": [
+          "O código vale no site oficial, thebarboursbeauty.com.br, e o campo aparece no checkout. O código em vigor está na página do [cupom Barbour's](/cupons/barbours)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Onde coloco o cupom na Barbour's? No checkout, depois de clicar em Finalizar a compra do carrinho. O passo a passo está na seção Onde digitar o cupom na Barbour's.",
+          "O cupom soma com kit em promoção? Nos nossos testes, somou. Veja a seção acima sobre promoção e kit.",
+          "O cupom vale para quem já é cliente? Vale, para cliente novo e antigo.",
+          "O cupom vale no Mercado Livre? O CECILIALINHARES é um código do site oficial da Barbour's Beauty e entra no checkout de lá.",
+          "Qual o frete grátis da Barbour's? Depende da região. A loja informa valores de R$ 119 em São Paulo a R$ 259 no Norte, com prazo médio de 7 a 10 dias úteis."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "slug": "black-friday-barbours",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Black Friday Barbour's Beauty 2026: as promoções da loja e como o cupom CECILIALINHARES entra",
+    "seoTitle": "Black Friday Barbour's 2026: promoções e cupom de 10%",
+    "type": "Guia & Cupons",
+    "description": "O que a Barbour's Beauty mostrava em promoção antes da Black Friday, como o cupom de 10% entrou sobre um kit e um produto de preço cheio no nosso teste e o que conferir no pedido.",
+    "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty e entrou sobre um kit em promoção no nosso teste. Veja o que a loja mostrou na Black Week e o que conferir.",
+    "image": "/images/reviews/barbours/black-friday-barbours-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty, a chamada Black Friday 2026 e o código CECILIALINHARES, ao lado de três body splashes da loja.",
+    "cta": {
+      "text": "Abra o site pelo botão, monte o carrinho e aplique o cupom no checkout, como mostrado abaixo.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "cupom-barbours-primeira-compra"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom CECILIALINHARES dá 10% OFF na Barbour's Beauty, nas condições de sempre, e entrou sobre um kit em promoção nos nossos testes. Ele se digita no checkout do site oficial, depois de Finalizar a compra. Antes de pagar, confira a linha Descontos e o total com o seu CEP."
+        ]
+      },
+      {
+        "heading": "O cupom vale na Black Friday?",
+        "paragraphs": [
+          "O cupom de sempre é o CECILIALINHARES, com 10% OFF no site oficial, para cliente novo e antigo. As condições completas estão na página do [cupom Barbour's](/cupons/barbours).",
+          "Nos nossos testes, os 10% entraram também sobre um kit que já estava em promoção. Não testamos todos os itens da loja.",
+          "A loja não publicou regras para a campanha, então a única condição que conhecemos é a do cupom de sempre."
+        ]
+      },
+      {
+        "heading": "O que a loja mostrava em promoção",
+        "paragraphs": [
+          "Em 18/11, a home ganhou banners “Black Week”, sem datas nem regulamento. Os preços deles são os mesmos que a vitrine já mostrava."
+        ],
+        "bullets": [
+          "Body splashes femininos e masculinos a R$ 39,90.",
+          "Perfume capilar a R$ 34,90.",
+          "Kit com três body splashes a R$ 109,90, o equivalente a R$ 36,63 cada.",
+          "Iluminador mais body splash a R$ 79,90."
+        ],
+        "postParagraphs": [
+          "A loja não publicou data de fim nem regra da campanha, então o preço da vitrine pode mudar sem aviso. Vale o preço que aparecer no carrinho no dia da compra."
+        ]
+      },
+      {
+        "heading": "A conta com o cupom",
+        "paragraphs": [
+          "Em 18 de novembro, aplicamos o cupom em dois carrinhos no checkout da loja, sem finalizar a compra. O resumo de cada um ficou assim. O kit do teste foi o Clássicos Masculinos, de R$ 109,90 em promoção."
+        ],
+        "comparisonTable": {
+          "caption": "Dois carrinhos testados com o cupom CECILIALINHARES, sem frete.",
+          "headers": [
+            "Carrinho",
+            "Produtos",
+            "Cupom",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Kit Clássicos Masculinos",
+              "R$ 109,90",
+              "− R$ 10,99",
+              "R$ 98,91"
+            ],
+            [
+              "Kit Clássicos Masculinos + Necessaire + Perfume + Body My Sweet Delight",
+              "R$ 219,80",
+              "− R$ 21,98",
+              "R$ 197,82"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos dois carrinhos, o desconto foi de 10% sobre os produtos, e o kit em promoção entrou na conta. O frete ficou de fora."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+            "alt": "Resumo do carrinho na Barbour's Beauty com o cupom CECILIALINHARES aplicado, a linha Descontos de R$ 21,98 e o total de R$ 197,82.",
+            "caption": "Resumo do segundo carrinho do teste, com o cupom aplicado no checkout da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.791
+          }
+        ]
+      },
+      {
+        "heading": "Como aplicar o cupom no checkout",
+        "paragraphs": [
+          "No carrinho, clique em Finalizar a compra. No checkout seguro da loja, abra Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. A linha Descontos aparece no resumo.",
+          "O botão desta página leva à loja, mas não aplica o código sozinho. O passo a passo com as telas está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar)."
+        ]
+      },
+      {
+        "heading": "Frete, prazo e pagamento",
+        "paragraphs": [
+          "O frete sai grátis acima de um valor que muda por região: R$ 119 em São Paulo e R$ 259 no Norte. Os valores das outras regiões estão no [guia do cupom](/reviews/cupom-barbours-como-usar).",
+          "A política não diz se o mínimo conta antes ou depois do cupom. O prazo médio é de 7 a 10 dias úteis, e a desistência vale em até 7 dias após o recebimento.",
+          "A loja aceita Pix e cartão, com até 4x sem juros."
+        ]
+      },
+      {
+        "heading": "O que conferir antes de pagar",
+        "bullets": [
+          "**A linha Descontos.** Ela precisa mostrar o desconto do cupom sobre os produtos.",
+          "**O total com o seu CEP.** O frete grátis depende da região.",
+          "**O prazo mostrado no checkout.** Pode ser diferente do prazo médio que a loja informa."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Barbour's na Black Friday? É o cupom de sempre, CECILIALINHARES, com 10% OFF no site oficial. Sobre a campanha, veja a seção de preços.",
+          "O cupom soma com kit em promoção? Sim, nos nossos testes. O detalhe está na seção A conta com o cupom.",
+          "A Barbour's Beauty dá frete grátis na Black Friday? O frete sai grátis acima de um valor que muda por região. Não encontramos regra específica da campanha publicada.",
+          "Qual o prazo de entrega? O prazo médio é de 7 a 10 dias úteis. Vale o prazo mostrado no checkout para o seu pedido."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1061,
+    "slug": "barbours-e-confiavel",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Barbour's Beauty é confiável? CNPJ, Reclame Aqui, entrega e devolução antes de comprar",
+    "seoTitle": "Barbour's Beauty é confiável? CNPJ, nota e devolução",
+    "type": "Análise de Reputação",
+    "description": "Quem está por trás do site da Barbour's Beauty, a reputação no Reclame Aqui, como é o checkout, os prazos de entrega e de devolução e os cuidados no primeiro pedido.",
+    "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty. Antes de comprar, veja o CNPJ, a nota no Reclame Aqui, o prazo de entrega e como funciona a devolução.",
+    "image": "/images/reviews/barbours/barbours-e-confiavel-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty com a chamada “É confiável?” e o código CECILIALINHARES.",
+    "cta": {
+      "text": "Se a Barbour's faz sentido para a sua compra, use o botão para ir ao site oficial. O passo a passo do cupom está em Formas de pagamento e onde entra o cupom.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "barbours-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Barbour's Beauty informa no checkout uma empresa com CNPJ, o mesmo do perfil no Reclame Aqui. O Reclame Aqui informa reputação RA1000, com nota 9,1 nos seis meses até outubro de 2026. O site oficial é thebarboursbeauty.com.br, e a desistência vale em até 7 dias depois do recebimento."
+        ]
+      },
+      {
+        "heading": "Qual é o site oficial",
+        "paragraphs": [
+          "O site aparece em dois endereços. Conta nossa: ao abrir barboursbeauty.com.br, o endereço leva a thebarboursbeauty.com.br, que é o que a loja usa hoje. O perfil do Reclame Aqui lista o primeiro.",
+          "O pagamento acontece em outro subdomínio, seguro.thebarboursbeauty.com.br. É para lá que o botão “Finalizar a compra” do carrinho leva, por isso o endereço muda no meio da compra."
+        ]
+      },
+      {
+        "heading": "Quem é a empresa",
+        "paragraphs": [
+          "O rodapé do checkout informa a BEAUTY HUB VAREJO LTDA, CNPJ 60.453.162/0001-07, com endereço em Serra, no Espírito Santo. O mesmo CNPJ aparece no perfil da loja no Reclame Aqui. A foto abaixo mostra esse rodapé.",
+          "Já os Termos de serviço do site citam outra empresa, a BB VAREJO LTDA, CNPJ 54.137.817/0001-35.",
+          "Revenda, programa de embaixadoras e central de ajuda usam domínios da GoGroup e da GoBeauté."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-e-confiavel-checkout-empresa.webp",
+            "alt": "Rodapé do checkout da Barbour's Beauty, com a razão social e o CNPJ da empresa.",
+            "caption": "Rodapé do checkout, com a razão social e o CNPJ informados pela loja.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "O Reclame Aqui informa reputação RA1000, com nota 9,1 nos seis meses até outubro de 2026, e 97,9% das reclamações resolvidas nesse período. Os números completos e as queixas mais comuns estão na [análise da reputação no Reclame Aqui](/reviews/barbours-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Quanto tempo demora a entrega",
+        "paragraphs": [
+          "A loja informa prazo médio de 7 a 10 dias úteis para a entrega. Na aba geral do perfil no Reclame Aqui, que cobre até três anos, produto não recebido aparece em 32,6% das queixas.",
+          "Por isso, vale guardar o número do pedido e acompanhar o rastreio desde a postagem."
+        ]
+      },
+      {
+        "heading": "Devolução e troca",
+        "paragraphs": [
+          "A loja informa que a desistência vale em até 7 dias depois do recebimento. Um pedido já enviado não pode ser cancelado, mas a entrega pode ser recusada, e o reembolso é feito depois que o pacote volta. As trocas são feitas por um portal próprio da loja.",
+          "Pela política, o reembolso no cartão aparece em até duas faturas. No Pix, o dinheiro volta por depósito em conta."
+        ]
+      },
+      {
+        "heading": "Formas de pagamento e onde entra o cupom",
+        "paragraphs": [
+          "A loja informa Pix e cartões, com até 4x sem juros. O cupom entra no checkout próprio da loja, depois do botão “Finalizar a compra” do carrinho: abra “Inserir cupom de desconto”, digite o código no campo “Cupom (opcional)” e clique em “Adicionar”.",
+          "Se decidir comprar, o [cupom Barbour's](/cupons/barbours) dá 10% de desconto no site oficial, para cliente novo e antigo. Como o cupom muda o valor do carrinho, com exemplos, está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+            "alt": "Resumo do carrinho no checkout da Barbour's Beauty, com a linha de desconto do cupom CECILIALINHARES.",
+            "caption": "Resumo do carrinho com o cupom aplicado no checkout da loja.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Então, é confiável?",
+        "paragraphs": [
+          "Sim. A loja se identifica com CNPJ no checkout e no perfil do Reclame Aqui, tem a reputação RA1000 citada acima e publica no site as políticas de prazo, desistência, troca e reembolso. O ponto de atenção é a entrega: acompanhe o rastreio desde a postagem."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Barbour's Beauty é brasileira? A empresa informada no checkout tem CNPJ, que é o cadastro brasileiro de empresas, e endereço em Serra, no Espírito Santo.",
+          "Qual o CNPJ da Barbour's Beauty? O rodapé do checkout e o perfil no Reclame Aqui trazem o CNPJ 60.453.162/0001-07, da BEAUTY HUB VAREJO LTDA. Os Termos de serviço do site citam o CNPJ 54.137.817/0001-35, da BB VAREJO LTDA.",
+          "O site thebarboursbeauty.com.br é o oficial? É o endereço em que a loja opera hoje. O barboursbeauty.com.br redireciona para ele, e o pagamento acontece no subdomínio seguro.thebarboursbeauty.com.br.",
+          "Quanto tempo demora a entrega? A loja informa prazo médio de 7 a 10 dias úteis."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1062,
+    "slug": "barbours-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Barbour's Beauty no Reclame Aqui: a nota, o selo RA1000 e o que mais gera reclamação",
+    "seoTitle": "Barbour's Beauty no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "description": "O que o perfil da Barbour's Beauty no Reclame Aqui mostra: reputação RA1000, nota de 9,1, reclamações resolvidas, a queixa mais citada e o que conferir antes de comprar.",
+    "metaDescription": "CECILIALINHARES dá 10% de desconto na Barbour's Beauty. Veja a nota no Reclame Aqui, o selo RA1000, as reclamações resolvidas e o que mais gera reclamação.",
+    "image": "/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Capa com a logo da Barbour's Beauty, a chamada No Reclame Aqui e o código CECILIALINHARES.",
+    "cta": {
+      "text": "Abra a loja pelo botão, clique em Finalizar a compra no carrinho, depois em Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "barbours-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Segundo o perfil, a Barbour's Beauty tem reputação RA1000 no Reclame Aqui, com nota 9,1 nos seis meses até outubro de 2026. A loja respondeu a quase todas as reclamações e resolveu 97,9% delas. Se o pedido atrasar, o rastreio é o primeiro lugar para olhar."
+        ]
+      },
+      {
+        "heading": "O selo RA1000 e a nota",
+        "paragraphs": [
+          "O perfil mostra a reputação RA1000 e informa que a empresa é verificada.",
+          "A nota é 9,1 de 10 nos últimos seis meses do perfil, de maio a outubro de 2026."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-reclame-aqui-ra1000.webp",
+            "alt": "Bloco Desempenho do perfil da Barbour's Beauty no Reclame Aqui, na aba de seis meses, com a reputação RA1000 e a nota 9,1/10",
+            "caption": "A reputação e a nota da Barbour's Beauty na aba de seis meses do perfil. Fonte: Reclame Aqui.",
+            "objectFit": "contain",
+            "aspectRatio": 3.41
+          }
+        ]
+      },
+      {
+        "heading": "O perfil em números",
+        "paragraphs": [
+          "Os indicadores do perfil:"
+        ],
+        "comparisonTable": {
+          "caption": "Indicadores do perfil da Barbour's Beauty no Reclame Aqui, segundo a plataforma.",
+          "headers": [
+            "Indicador",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "RA1000"
+            ],
+            [
+              "Nota",
+              "9,1 de 10"
+            ],
+            [
+              "Reclamações recebidas",
+              "1.176"
+            ],
+            [
+              "Respondidas",
+              "99,9%"
+            ],
+            [
+              "Resolvidas",
+              "97,9%"
+            ],
+            [
+              "Avaliadas",
+              "822"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "80,8%"
+            ],
+            [
+              "Nota média do consumidor",
+              "8,56"
+            ],
+            [
+              "Tempo médio de resposta",
+              "3 dias e 18 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Uma reclamação ainda aguardava resposta."
+        ]
+      },
+      {
+        "heading": "Como ler esses números",
+        "paragraphs": [
+          "Em valor absoluto, 1.176 reclamações parecem muitas. Para medir o volume, vale olhar as vendas. Em uma das páginas de body splash, a loja informa mais de 17 mil compras no mês passado. Pesa mais a parte resolvida, com 97,9%.",
+          "Segundo o perfil, 80,8% dos consumidores que avaliaram o atendimento voltariam a fazer negócio com a loja.",
+          "A nota do perfil é 9,1. A média dada pelos consumidores é 8,56."
+        ]
+      },
+      {
+        "heading": "O que mais gera reclamação",
+        "paragraphs": [
+          "Na aba geral, que reúne até três anos, o motivo mais citado é produto não recebido, com 32,6% entre os principais problemas."
+        ]
+      },
+      {
+        "heading": "Se der problema no seu pedido",
+        "paragraphs": [
+          "Guarde o número do pedido e acompanhe a entrega pelo rastreio.",
+          "Pela política da loja, os caminhos são estes:"
+        ],
+        "bullets": [
+          "**Central de ajuda.** A central fica no domínio da GoGroup e traz a política de frete.",
+          "**Desistência.** Dá para desistir em até 7 dias do recebimento.",
+          "**Recusa na entrega.** Pedido enviado não dá para cancelar. Dá para recusar na entrega, e o reembolso sai quando o pacote volta à loja.",
+          "**Troca.** Pelo portal de trocas da loja."
+        ]
+      },
+      {
+        "heading": "A nota pode mudar",
+        "paragraphs": [
+          "O Reclame Aqui atualiza o perfil com o tempo. Antes de pagar, abra o perfil da loja e confira a nota atual.",
+          "Se decidir comprar, o [cupom Barbour's](/cupons/barbours) dá 10% de desconto com o código CECILIALINHARES, para cliente novo e antigo."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a nota da Barbour's Beauty no Reclame Aqui? A nota do perfil é 9,1 de 10 nos últimos seis meses, com reputação RA1000.",
+          "A Barbour's Beauty responde às reclamações? Sim. Segundo o perfil, 99,9% das reclamações recebidas tiveram resposta.",
+          "O que é o selo RA1000? É a reputação que o perfil mostra no Reclame Aqui, ao lado da nota de 9,1 nos últimos seis meses.",
+          "A Barbour's Beauty demora para entregar? A loja informa um prazo médio de 7 a 10 dias úteis. Na aba geral do Reclame Aqui, a queixa mais citada é produto não recebido, então vale acompanhar o rastreio."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1063,
+    "slug": "barbours-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "type": "Guia de Marca",
+    "title": "Barbour's Beauty é boa? O que a página, as avaliações e o Reclame Aqui mostram",
+    "seoTitle": "Barbour's Beauty é boa? Body splash, fixação e avaliações",
+    "description": "O que a página da loja, as avaliações no site da loja e o Reclame Aqui mostram sobre o body splash, com fixação, preço e reputação. Cheiro e duração só o uso mostra.",
+    "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty. Veja o que a página diz do body splash, as avaliações no site da loja e a nota no Reclame Aqui.",
+    "image": "/images/reviews/barbours/barbours-e-boa-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty, a chamada “É boa?” e o código CECILIALINHARES, ao lado de três body splashes em foto oficial da loja.",
+    "cta": {
+      "text": "Abra o site pelo botão, monte o carrinho e clique em Finalizar a compra. No checkout, abra Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. Confira a linha Descontos antes de pagar.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "barbours-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cupom-barbours-como-usar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você procura um desodorante colônia de 200 ml, a categoria em que a loja classifica o body splash.",
+        "Você quer um body splash e vai usar os 10% do código CECILIALINHARES."
+      ],
+      "skipIf": [
+        "Você procura perfume. A loja classifica o body splash como desodorante colônia, e a fixação que ela promete não passou por teste nosso.",
+        "Você tem pressa. A loja informa prazo médio de 7 a 10 dias úteis."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não usamos os produtos, então respondemos com o que é público. Segundo a página, o body splash é um desodorante colônia de 200 ml, e o My Sweet Delight tem 4.580 avaliações no site da loja, a maioria de cinco estrelas. No Reclame Aqui, a loja tem RA1000 e nota 9,1 no período de maio a outubro de 2026."
+        ]
+      },
+      {
+        "heading": "O que dá para checar sem usar",
+        "paragraphs": [
+          "Cheiro, fixação e textura só o uso mostra. Aqui ficam o que a loja publica e os números públicos do site e do Reclame Aqui."
+        ]
+      },
+      {
+        "heading": "O que é o body splash da Barbour's",
+        "paragraphs": [
+          "A página classifica o body splash como desodorante colônia.",
+          "A página do My Sweet Delight também cita um perfume de outra marca como referência olfativa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-my-sweet-delight.webp",
+            "alt": "Frasco do body splash My Sweet Delight da Barbour's Beauty, de 200 ml, em foto oficial da loja",
+            "caption": "Foto oficial da loja, da página do My Sweet Delight.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Tem boa fixação?",
+        "paragraphs": [
+          "A loja promete fragrância de longa duração e 97% mais fixação, sem dizer em relação a quê. Sem teste, não afirmamos fixação.",
+          "A página não informa o que as estrelas do site medem, então a nota geral não responde a essa pergunta."
+        ]
+      },
+      {
+        "heading": "O que dizem as avaliações no site da loja",
+        "paragraphs": [
+          "A página do My Sweet Delight traz 4.580 avaliações no site da loja, com média de 4,50 de 5. O widget marca que elas foram coletadas por convite da loja."
+        ],
+        "comparisonTable": {
+          "caption": "Avaliações do Body Splash My Sweet Delight por nota, no site da loja. Total de 4.580.",
+          "headers": [
+            "Nota",
+            "Avaliações",
+            "Parte do total"
+          ],
+          "rows": [
+            [
+              "5 estrelas",
+              "3.662",
+              "80%"
+            ],
+            [
+              "4 estrelas",
+              "278",
+              "6%"
+            ],
+            [
+              "3 estrelas",
+              "207",
+              "5%"
+            ],
+            [
+              "2 estrelas",
+              "139",
+              "3%"
+            ],
+            [
+              "1 estrela",
+              "294",
+              "6%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Uma em cada cinco avaliações fica abaixo de cinco estrelas, e entre elas a nota mais comum é a de uma estrela. São números que a loja publica, sem checagem independente."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-e-boa-avaliacoes-site.webp",
+            "alt": "Print do site da Barbour's Beauty com a média de 4,50 de 5 e a contagem de avaliações por nota do Body Splash My Sweet Delight",
+            "caption": "Print do site da loja, com a média e a contagem de cada nota.",
+            "objectFit": "contain",
+            "aspectRatio": 2.9
+          }
+        ]
+      },
+      {
+        "heading": "A queixa mais comum no Reclame Aqui",
+        "paragraphs": [
+          "Na aba geral do perfil, que reúne até três anos, a queixa mais citada é produto não recebido. Os números completos estão no [artigo sobre a reputação da loja](/reviews/barbours-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Quanto sai com o código",
+        "paragraphs": [
+          "Na página, a maior parte dos body splashes de 200 ml aparece por R$ 39,90, e alguns por R$ 34,90. Os trios saem por R$ 109,90 na promoção Leve 3 Pague 2.",
+          "O código CECILIALINHARES dá 10% OFF, para cliente novo e antigo. No carrinho que testamos, uma compra de R$ 109,90 saiu por R$ 98,91. As condições estão na página de [cupom Barbour's](/cupons/barbours), e o passo a passo do checkout está no [guia de como usar o cupom](/reviews/cupom-barbours-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O body splash da Barbour's fixa? A loja promete longa duração e 97% mais fixação, sem dizer em relação a quê. A página também não informa o que as estrelas do site medem.",
+          "Body splash é perfume? A página classifica o body splash como desodorante colônia.",
+          "A Barbour's tem linha masculina? Sim. A loja vende body splashes masculinos na linha Homme.",
+          "A Barbour's Beauty é confiável? O [artigo sobre a confiabilidade da Barbour's](/reviews/barbours-e-confiavel) junta o CNPJ e o histórico de reclamações."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1064,
+    "slug": "cupom-barbours-primeira-compra",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "title": "Cupom Barbour's primeira compra: CECILIALINHARES dá 10% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom Barbour's primeira compra: 10% com CECILIALINHARES",
+    "type": "Guia & Cupons",
+    "description": "Qual cupom usar no primeiro pedido da Barbour's Beauty, quanto ele tira em dois carrinhos testados, o que muda na segunda compra e o que checar de frete, prazo e devolução.",
+    "metaDescription": "Na primeira compra da Barbour's Beauty, use CECILIALINHARES: 10% OFF no site oficial. O mesmo código vale para quem já comprou e soma com kit em promoção.",
+    "image": "/images/reviews/barbours/cupom-barbours-primeira-compra-capa.webp",
+    "imageAlt": "Logo da Barbour's Beauty, a chamada \"Bem-vinda\" e o código CECILIALINHARES, com foto oficial de produto da loja.",
+    "cta": {
+      "text": "Abra o site oficial pelo botão e aplique o código no checkout, como mostramos abaixo.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não recebemos nem usamos os produtos. Cupom testado no checkout do site oficial. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "black-friday-barbours"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a primeira compra na Barbour's Beauty, use o cupom CECILIALINHARES: 10% OFF no site oficial. O mesmo código também vale para quem já comprou. Nos nossos testes, ele entrou sobre um kit já em promoção, e a linha Descontos mostrou o desconto."
+        ]
+      },
+      {
+        "heading": "Qual cupom usar na primeira compra da Barbour's",
+        "paragraphs": [
+          "O CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. Quem já comprou usa o mesmo código.",
+          "Código achado em outro site pode não funcionar. O CECILIALINHARES foi testado por nós no checkout do site oficial.",
+          "A nossa página do [cupom Barbour's](/cupons/barbours) reúne o código e as condições em vigor."
+        ]
+      },
+      {
+        "heading": "Quanto o cupom tira em dois carrinhos testados",
+        "paragraphs": [
+          "Em 18/11, montamos dois carrinhos no checkout do site oficial. Nos dois, o desconto foi de 10% sobre o subtotal dos produtos.",
+          "No primeiro carrinho, o kit estava em promoção e os 10% entraram sobre ele. No segundo, o cupom entrou sobre o kit em promoção e também sobre o kit Necessaire + Perfume + Body My Sweet Delight, a preço cheio.",
+          "O preço de vitrine muda. Vale o que aparece no resumo do checkout do seu pedido."
+        ],
+        "comparisonTable": {
+          "caption": "Valores observados no resumo dos dois carrinhos, sem frete. A entrega depende do CEP.",
+          "headers": [
+            "Carrinho",
+            "Subtotal",
+            "Descontos (10%)",
+            "Total com o cupom"
+          ],
+          "rows": [
+            [
+              "Kit Clássicos Masculinos, em promoção",
+              "R$ 109,90",
+              "− R$ 10,99",
+              "R$ 98,91"
+            ],
+            [
+              "Kit Clássicos Masculinos, em promoção, mais o kit Necessaire + Perfume + Body My Sweet Delight",
+              "R$ 219,80",
+              "− R$ 21,98",
+              "R$ 197,82"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da Barbour's Beauty com o cupom CECILIALINHARES aplicado e a linha Descontos no pedido",
+            "caption": "Linha Descontos do pedido, com o CECILIALINHARES aplicado.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Como aplicar o cupom",
+        "paragraphs": [
+          "São quatro passos:"
+        ],
+        "bullets": [
+          "Coloque os produtos na sacola e clique em Finalizar a compra, no carrinho.",
+          "No checkout, abra Inserir cupom de desconto.",
+          "No campo Cupom (opcional), digite CECILIALINHARES e clique em Adicionar.",
+          "Confira a linha Descontos no resumo antes de pagar."
+        ],
+        "postParagraphs": [
+          "Se o código não entrar, confira se digitou certo e volte ao carrinho para clicar em Finalizar a compra."
+        ]
+      },
+      {
+        "heading": "E na segunda compra?",
+        "paragraphs": [
+          "O código é o mesmo. O CECILIALINHARES vale para cliente novo e antigo e entra no mesmo campo Cupom (opcional) do checkout."
+        ]
+      },
+      {
+        "heading": "Frete, prazo e devolução",
+        "paragraphs": [
+          "Sobre frete, prazo e devolução, a loja informa:"
+        ],
+        "bullets": [
+          "**Frete.** O valor muda conforme a região e o seu CEP. A tabela por região está no [guia de como usar](/reviews/cupom-barbours-como-usar).",
+          "**Prazo.** Em média, 7 a 10 dias úteis.",
+          "**Desistência.** Você pode desistir em até 7 dias do recebimento.",
+          "**Pedido enviado.** Um pedido já enviado não se cancela, mas pode ser recusado na entrega.",
+          "**Trocas.** As trocas são feitas pelo portal da loja."
+        ],
+        "postParagraphs": [
+          "Se quer saber quem está por trás da loja antes de comprar, leia [se a Barbour's Beauty é confiável](/reviews/barbours-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom Barbour's de primeira compra? Sim. Use CECILIALINHARES para 10% OFF no site oficial, no campo Cupom (opcional) do checkout.",
+          "Qual cupom vale para quem já é cliente? O mesmo CECILIALINHARES, para cliente novo e antigo.",
+          "O cupom soma com kit em promoção? Sim, nos testes que fizemos. O desconto entra sobre o preço do kit em promoção.",
+          "Onde coloco o cupom na primeira compra? Depois de clicar em Finalizar a compra no carrinho, abra Inserir cupom de desconto e digite o código no campo Cupom (opcional)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1065,
     "slug": "adaptogen-ou-dux",
     "locale": "pt",
     "title": "Adaptogen ou Dux: whey comparado por dose, proteína e preço",
@@ -264786,126 +265762,70 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp",
-    "imageAlt": "Logo da Adaptogen, a chamada “Adaptogen ou Dux” e o código CECILIA, ao lado do Adapto Whey 3W, em foto oficial da loja.",
+    "imageAlt": "Logo da Adaptogen, chamada ou Dux?, apoio Whey e preço e código CECILIA, ao lado do Adapto Whey 3W em foto oficial.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na nossa conta, o whey da Adaptogen custa menos que o da Dux por 100 g de proteína, do concentrado ao isolado, e o cupom CECILIA na Adaptogen dá 10% OFF. Por dose, são 20 a 24 g de proteína na Dux e 21 a 25 g na Adaptogen, pelas páginas. A Dux tem sabor neutro e mais tamanhos."
+          "Na comparação dos concentrados, dos 3W e dos isolados, a Adaptogen custa menos por 100 g de proteína nos preços consultados. O cupom CECILIA na Adaptogen dá 10% OFF e aumenta essa diferença. A Dux lista opções de sabor Neutro e mais formatos nos produtos comparados; abaixo estão os duelos e as condições de frete."
         ]
       },
       {
-        "heading": "Como comparamos",
+        "heading": "Os wheys que entram na comparação",
         "paragraphs": [
-          "Esta comparação é só de whey: os concentrados, o de três proteínas e os isolados da Adaptogen e da Dux. Os outros produtos das duas lojas ficam de fora, e a linha da Adaptogen sozinha está no [guia Adaptogen é boa?](/reviews/adaptogen-e-boa). Quem compara outra marca com a Dux encontra [Max Titanium ou Dux](/reviews/max-titanium-ou-dux), e a comparação da Adaptogen com a Growth está em [Adaptogen ou Growth](/reviews/adaptogen-ou-growth).",
-          "Usamos o rótulo e o preço publicados nos sites das duas marcas em 18 de novembro de 2026, no cartão, sem frete e sem Pix. A Adaptogen é parceira; a Dux não é, e os links para as páginas dela, do [concentrado](https://duxhumanhealth.com/produtos/whey-protein-concentrado-pote-900g/), do [FreshWhey](https://duxhumanhealth.com/produtos/freshwhey-pote-900g) e do [isolado](https://duxhumanhealth.com/produtos/whey-protein-isolado-pote-900g/), são só fonte, sem afiliado.",
-          "Não usamos os produtos, por isso sabor, dissolução e digestão ficam de fora. Dose, proteína, lactose e glúten vêm do rótulo e da página de cada loja; o preço por 100 g de proteína é conta nossa. Quem tem condição de saúde ou alergia à proteína do leite fala com o médico ou o nutricionista antes de escolher."
-        ]
-      },
-      {
-        "heading": "Whey: proteína por dose e preço por 100 g de proteína",
-        "paragraphs": [
-          "A tabela põe cada par lado a lado. O preço por 100 g de proteína é conta nossa: o preço do pote dividido pela proteína que ele traz, pela dose e pelo peso do rótulo. A última coluna aplica os 10% do cupom CECILIA na Adaptogen sobre o preço no cartão; a Dux aparece no preço da página, sem cupom nosso."
-        ],
-        "comparisonTable": {
-          "caption": "Dose e proteína vêm das tabelas nutricionais das páginas das duas lojas. O preço por 100 g de proteína é conta nossa.",
-          "headers": [
-            "Produto",
-            "Dose e proteína",
-            "Doses",
-            "Cartão",
-            "Por 100 g de proteína (cartão)",
-            "Por 100 g com o CECILIA"
-          ],
-          "rows": [
-            [
-              "[Gold Whey 900 g](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), concentrado",
-              "30 g, 21 g de proteína",
-              "30",
-              "R$ 223,48",
-              "R$ 35,47",
-              "R$ 31,93"
-            ],
-            [
-              "Whey Protein Concentrado 900 g, Dux",
-              "30 g, 20 g de proteína",
-              "30",
-              "R$ 368,90",
-              "R$ 61,48",
-              "sem cupom"
-            ],
-            [
-              "[Tasty Whey 3W Gourmet 900 g](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
-              "34 g, 24 g de proteína",
-              "cerca de 26",
-              "R$ 270,20",
-              "R$ 42,53",
-              "R$ 38,28"
-            ],
-            [
-              "FreshWhey 900 g, Dux",
-              "30 g, 20 g de proteína",
-              "30",
-              "R$ 455,90",
-              "R$ 75,98",
-              "sem cupom"
-            ],
-            [
-              "[Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), isolado",
-              "30 g, 25 g de proteína",
-              "30",
-              "R$ 391,80",
-              "R$ 52,24",
-              "R$ 47,02"
-            ],
-            [
-              "Whey Protein Isolado 900 g, Dux",
-              "29 g, 24 g de proteína",
-              "cerca de 31",
-              "R$ 560,90",
-              "R$ 75,31",
-              "sem cupom"
-            ],
-            [
-              "[Adapto Whey 3W 900 g](https://www.adaptogen.com.br/produto/adapto-whey-3w-900g-6-sabores-150302?parceiro=CECILIA), sem par na Dux",
-              "32 g, 25 g de proteína",
-              "cerca de 28",
-              "R$ 279,55",
-              "R$ 39,76",
-              "R$ 35,78"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Na nossa conta, sem o cupom, o Gold Whey custa 42% menos por 100 g de proteína que o concentrado da Dux; o Tasty Whey 3W, 44% menos que o FreshWhey; e o Tasty Iso, 31% menos que o isolado. Com o CECILIA, a diferença sobe para 48%, 50% e 38%.",
-          "O preço da Adaptogen é o da campanha de Black Friday da loja, e nos nossos testes o cupom CECILIA somou com os preços da campanha. Se o preço tiver mudado quando você ler, refaça a conta com o do dia."
+          "A comparação separa concentrado, whey de três proteínas e isolado. Os preços são de cartão, lidos nos dois sites em 18 de novembro de 2026, sem frete; a coluna com CECILIA calcula 10% sobre a campanha da Adaptogen. A aplicação do código foi confirmada em dois carrinhos da marca, sem teste individual destes wheys.",
+          "Na Dux, a tabela de formas de pagamento de cada página informa os totais no cartão usados aqui. No [concentrado](https://duxhumanhealth.com/produtos/whey-protein-concentrado-pote-900g/), no [FreshWhey](https://duxhumanhealth.com/produtos/freshwhey-pote-900g) e no [isolado](https://duxhumanhealth.com/produtos/whey-protein-isolado-pote-900g/), esses totais são menores que os valores de referência exibidos antes deles. A Dux não é parceira; esses links são fontes.",
+          "Os números de composição são os publicados nas páginas e devem ser conferidos no rótulo do sabor escolhido. O [guia da Adaptogen](/reviews/adaptogen-e-boa) detalha as linhas; [Adaptogen ou Growth](/reviews/adaptogen-ou-growth) compara a outra marca, e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) traz outra comparação com a Dux."
         ]
       },
       {
         "heading": "Concentrado: Gold Whey ou Whey Protein Concentrado",
         "paragraphs": [
           "Os dois são concentrados de 900 g. A página da Adaptogen diz que o Gold Whey tem dose de 30 g, com 21 g de proteína, 115 kcal e 5 g de carboidratos. A página da Dux diz que o Whey Protein Concentrado tem dose de 30 g, com 20 g de proteína, 128 kcal e 6,7 g de carboidratos.",
-          "A diferença de proteína por dose é de 1 g. A diferença de preço por proteína é bem maior: no cartão, o Gold custa R$ 35,47 por 100 g de proteína, e R$ 31,93 com o cupom CECILIA na Adaptogen; o concentrado da Dux, R$ 61,48. A Adaptogen informa 9 sabores no Gold Whey. A Dux lista 13 no concentrado, com um Neutro."
+          "A diferença de proteína por porção é de 1 g. O Gold fica em R$ 35,47 por 100 g de proteína, ou R$ 31,93 com CECILIA; o concentrado da Dux, em R$ 58,48. A Adaptogen anuncia 9 sabores no Gold e a Dux lista 13 no concentrado, incluindo Neutro. Confira quais variações estão disponíveis ao comprar."
         ],
         "images": [
           {
             "src": "/images/reviews/adaptogen/adaptogen-gold-whey-900g.webp",
-            "alt": "Pote do Gold Whey 900 g da Adaptogen, em foto oficial da loja",
+            "alt": "Embalagem do Gold Whey 900 g da Adaptogen, em foto oficial da loja",
             "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
             "href": "https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA",
             "objectFit": "contain",
             "aspectRatio": 1
           }
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Preços no cartão, sem frete. Conta por proteína com a porção declarada. Na Adaptogen, a seta mostra o cálculo com CECILIA (10% OFF); na Dux, o total de cartão publicado na página, sem cupom nosso. Frete fora da conta.",
+          "headers": [
+            "Produto",
+            "Porção / proteína",
+            "Cartão, embalagem",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Gold Whey 900 g",
+              "30 g / 21 g",
+              "R$ 223,48",
+              "R$ 35,47 → R$ 31,93 com CECILIA"
+            ],
+            [
+              "Dux Concentrado 900 g",
+              "30 g / 20 g",
+              "R$ 350,90",
+              "R$ 58,48"
+            ]
+          ]
+        }
       },
       {
         "heading": "Três proteínas: Tasty Whey 3W ou FreshWhey",
         "paragraphs": [
           "A página da Adaptogen diz que o Tasty Whey 3W Gourmet é concentrado, isolado e hidrolisado. A tabela dele traz dose de 34 g, com 24 g de proteína, 134 kcal e 4,3 g de carboidratos, e o pote de 900 g rende cerca de 26 porções. A loja informa 23 sabores. Por 100 g de proteína, sai a R$ 42,53 no cartão e R$ 38,28 com o cupom CECILIA na Adaptogen.",
-          "O FreshWhey da Dux, que a página descreve com as mesmas três proteínas, tem dose de 30 g, com 20 g de proteína, 118 kcal e 5,2 g de carboidratos. A página diz que ele é adoçado com estévia e taumatina, e a lista de sabores tem nove opções, sem Neutro. No cartão, sai a R$ 75,98 por 100 g de proteína. A dose do Tasty é maior, 34 g contra 30 g, e parte da diferença de proteína por dose vem daí: a cada 100 g de pó, são cerca de 71 g de proteína no Tasty e 67 g no FreshWhey, na nossa conta.",
-          "A Adaptogen tem outro whey de três proteínas, o Adapto Whey 3W, de 900 g e 6 sabores pela loja: dose de 32 g, com 25 g de proteína, 128 kcal e 2,5 g de carboidratos, cerca de 28 porções. Ele não tem par na Dux e entra na tabela como opção a mais. Por 100 g de proteína, sai a R$ 39,76 no cartão e R$ 35,78 com o CECILIA, abaixo do Tasty Whey 3W."
+          "O FreshWhey da Dux, que a página descreve com as mesmas três proteínas, tem dose de 30 g, com 20 g de proteína, 118 kcal e 5,2 g de carboidratos. A página diz que ele é adoçado com estévia e taumatina, e a lista de sabores tem nove opções, sem Neutro. No cartão, sai a R$ 72,32 por 100 g de proteína. A dose do Tasty é maior, 34 g contra 30 g, e parte da diferença de proteína por dose vem daí: a cada 100 g de pó, são cerca de 71 g de proteína no Tasty e 67 g no FreshWhey, na nossa conta.",
+          "A Adaptogen tem outro whey de três proteínas, o Adapto Whey 3W, de 900 g e 6 sabores pela loja: dose de 32 g, com 25 g de proteína, 128 kcal e 2,5 g de carboidratos, cerca de 28 porções. Ele é uma segunda opção de 3W da Adaptogen para comparar com o FreshWhey, não uma categoria sem equivalente na Dux. Por 100 g de proteína, sai a R$ 39,76 no cartão e R$ 35,78 com o CECILIA, abaixo do Tasty Whey 3W."
         ],
         "images": [
           {
@@ -264924,14 +265844,43 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Conta por proteína com a porção declarada. Na Adaptogen, a seta mostra o cálculo com CECILIA (10% OFF); na Dux, o total de cartão publicado na página, sem cupom nosso. Frete fora da conta.",
+          "headers": [
+            "Produto",
+            "Porção / proteína",
+            "Cartão, embalagem",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Tasty Whey 3W 900 g",
+              "34 g / 24 g",
+              "R$ 270,20",
+              "R$ 42,53 → R$ 38,28 com CECILIA"
+            ],
+            [
+              "Adapto Whey 3W 900 g",
+              "32 g / 25 g",
+              "R$ 279,55",
+              "R$ 39,76 → R$ 35,78 com CECILIA"
+            ],
+            [
+              "Dux FreshWhey 900 g",
+              "30 g / 20 g",
+              "R$ 433,90",
+              "R$ 72,32"
+            ]
+          ]
+        }
       },
       {
         "heading": "Isolado: Tasty Iso ou Whey Protein Isolado",
         "paragraphs": [
           "O Tasty Iso, pela página da Adaptogen, é isolado e hidrolisado: dose de 30 g, com 25 g de proteína, 115 kcal e 1,5 g de carboidratos, e 30 porções no pote de 900 g. A página diz que ele é zero lactose, e que o sabor Cookies and Cream tem glúten.",
           "O Whey Protein Isolado da Dux, pela tabela da página, tem dose de 29 g, com 24 g de proteína, 108 kcal e 1,6 g de carboidratos, e cerca de 31 porções. A página diz que o isolado contém lactose. Em proteína, os dois praticamente empatam: 25 g em 30 g de pó no Tasty Iso, 24 g em 29 g no da Dux.",
-          "Por 100 g de proteína, o Tasty Iso sai a R$ 52,24 no cartão e R$ 47,02 com o cupom CECILIA na Adaptogen. O isolado da Dux sai a R$ 75,31 no cartão, sem cupom nosso."
+          "Por 100 g de proteína, o Tasty Iso sai a R$ 52,24 no cartão e R$ 47,02 com o cupom CECILIA na Adaptogen. O isolado da Dux sai a R$ 71,68 no cartão, sem cupom nosso."
         ],
         "images": [
           {
@@ -264942,7 +265891,30 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Conta por proteína com a porção declarada. Na Adaptogen, a seta mostra o cálculo com CECILIA (10% OFF); na Dux, o total de cartão publicado na página, sem cupom nosso. Frete fora da conta.",
+          "headers": [
+            "Produto",
+            "Porção / proteína",
+            "Cartão, embalagem",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Tasty Iso 900 g",
+              "30 g / 25 g",
+              "R$ 391,80",
+              "R$ 52,24 → R$ 47,02 com CECILIA"
+            ],
+            [
+              "Dux Isolado 900 g",
+              "29 g / 24 g",
+              "R$ 533,90",
+              "R$ 71,68"
+            ]
+          ]
+        }
       },
       {
         "heading": "Sabores, lactose e glúten",
@@ -264955,7 +265927,7 @@ export const reviewsData: unknown[] = [
           "**Sabores.** A Dux lista 13 sabores no concentrado e 11 no isolado, com Neutro nos dois, e 9 no FreshWhey, sem Neutro. A Adaptogen informa 9 no Gold Whey, 23 no Tasty Whey 3W e 7 no Tasty Iso. Quem procura sabor Neutro encontra nas listas do concentrado e do isolado da Dux; na Adaptogen, confira a lista de sabores na página de cada whey."
         ],
         "postParagraphs": [
-          "Sabor é gosto, e não provamos nenhum deles. Quem tem alergia ou intolerância lê o rótulo do sabor escolhido."
+          "Confira a lista de sabores disponíveis e o rótulo da variação escolhida, especialmente em caso de alergia ou intolerância. Para dúvidas de dose e saúde, consulte médico ou nutricionista."
         ]
       },
       {
@@ -264968,8 +265940,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, Pix e frete",
         "paragraphs": [
-          "O cupom CECILIA na Adaptogen dá 10% OFF no site oficial, para cliente novo e antigo. Ele entra no campo Cupom de desconto do checkout: digite o código e clique em Aplicar. Nos nossos testes, apareceram o aviso Cupom aplicado e a linha Cupom no resumo. A página do [cupom Adaptogen](/cupons/adaptogen) reúne as condições, e o [guia de como usar o código](/reviews/cupom-adaptogen-como-usar) mostra o passo a passo.",
-          "No Pix, as duas lojas mostram o preço cerca de 5% abaixo do cartão. Na Adaptogen, o Gold Whey sai a R$ 212,30 e o Tasty Iso, a R$ 372,18; na Dux, o concentrado sai a R$ 350,90, o FreshWhey a R$ 433,90 e o isolado a R$ 533,90. São os preços das páginas dos produtos, sem o cupom: não testamos o cupom com pagamento no Pix, e por isso as contas deste texto ficam no cartão."
+          "O cupom CECILIA na Adaptogen dá 10% OFF no site oficial, para cliente novo e antigo. Ele entra no campo Cupom de desconto do checkout: digite o código e clique em Aplicar. Nos nossos testes, apareceram o aviso Cupom aplicado e a linha Cupom no resumo. As condições ficam na página do [cupom Adaptogen](/cupons/adaptogen), e o [guia de aplicação](/reviews/cupom-adaptogen-como-usar) mostra o campo.",
+          "Na Adaptogen, a loja anuncia 5% no Pix e no boleto. O CECILIA vale também no Pix e no boleto; confira os dois descontos no resumo antes de pagar. Na Dux, a página mostra o Pix 5% abaixo do cartão. As contas acima usam o cartão nas duas lojas."
         ],
         "comparisonTable": {
           "headers": [
@@ -264985,11 +265957,11 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Pix",
-              "Pix e boleto: 5% abaixo do cartão",
-              "Pix: cerca de 5% abaixo do cartão, pela página"
+              "5% anunciado para Pix e boleto; conferir o resumo com o cupom",
+              "5% abaixo do cartão, pela página; fora das contas acima"
             ],
             [
-              "Frete grátis a partir de",
+              "Frete grátis: mínimos anunciados",
               "R$ 199 no Sudeste; R$ 249 no Sul e no Centro-Oeste; R$ 399 no Nordeste; R$ 599 no Norte",
               "Acima de R$ 250 no Sul, no Sudeste e no Centro-Oeste; acima de R$ 300 no Nordeste; acima de R$ 400 no Norte"
             ]
@@ -265009,11 +265981,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Adaptogen ou Dux: qual compensa?",
+        "paragraphs": [
+          "Por preço de proteína, a Adaptogen fica à frente nos três pares, mesmo com os totais de cartão menores da Dux. Sem o cupom, a diferença calculada é de cerca de 39% no concentrado, 41% no Tasty 3W contra FreshWhey e 27% no isolado; com CECILIA, passa a 45%, 47% e 34%.",
+          "A Dux entra na escolha quando você procura uma variação Neutro ou um dos formatos que a página lista. No frete grátis, ela anuncia mínimo menor no Norte e no Nordeste. Compare a variação disponível e o total com CEP antes de decidir; os números não avaliam sabor, digestão ou resultado de uso."
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Adaptogen ou Dux: qual whey tem mais proteína por dose? Pelas tabelas das páginas, a Adaptogen: 21 g no Gold Whey, 24 g no Tasty Whey 3W e 25 g no Tasty Iso. A Dux tem 20 g no concentrado e no FreshWhey, e 24 g no isolado. As doses não têm o mesmo tamanho: a do Tasty Whey 3W é de 34 g e a do isolado da Dux, de 29 g.",
           "Qual sai mais barato por 100 g de proteína? Na nossa conta, a Adaptogen, nos três pares, mesmo sem o cupom, e a diferença aumenta com o cupom CECILIA na Adaptogen.",
-          "Tasty Whey ou o concentrado da Dux? São tipos de whey diferentes: o Tasty Whey 3W junta concentrado, isolado e hidrolisado, pela página da Adaptogen, e o equivalente na Dux é o FreshWhey. Contra o concentrado da Dux, o Tasty tem 24 g de proteína em 34 g, e o concentrado, 20 g em 30 g; por 100 g de proteína, R$ 42,53 contra R$ 61,48, no cartão.",
+          "Tasty Whey ou o concentrado da Dux? São tipos de whey diferentes: o Tasty Whey 3W junta concentrado, isolado e hidrolisado, pela página da Adaptogen, e o equivalente na Dux é o FreshWhey. Contra o concentrado da Dux, o Tasty tem 24 g de proteína em 34 g, e o concentrado, 20 g em 30 g; por 100 g de proteína, R$ 42,53 contra R$ 58,48, no cartão.",
           "Qual das duas tem whey sem lactose? Da Adaptogen, o Tasty Iso, que a página descreve como zero lactose. Os três wheys da Dux desta comparação contêm lactose, pela página dela. Confira o glúten no rótulo do sabor: o Cookies and Cream do Tasty Iso tem glúten.",
           "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. A Dux não é parceira e não tem cupom nosso."
         ]
@@ -265057,7 +266036,7 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
-    "id": 1060,
+    "id": 1066,
     "slug": "adaptogen-ou-growth",
     "locale": "pt",
     "category": "guias-praticos-utilidade",
@@ -265080,12 +266059,12 @@ export const reviewsData: unknown[] = [
     "coupon": "CECILIA",
     "affiliate": "adaptogen",
     "type": "Comparativo de Suplemento",
-    "title": "Adaptogen ou Growth: qual whey escolher pela dieta, pela lactose e pelo rótulo",
-    "seoTitle": "Adaptogen ou Growth: qual whey escolher pelo rótulo",
+    "title": "Adaptogen ou Growth: preço dos wheys, lactose e outras proteínas",
+    "seoTitle": "Adaptogen ou Growth: whey, preço e lactose",
     "description": "Os wheys das duas marcas lado a lado pelo rótulo: proteína, calorias e carboidratos por dose, lactose, proteína de carne, sabores e o que cada loja cobra.",
-    "metaDescription": "Adaptogen ou Growth? Com o cupom CECILIA, 10% OFF na Adaptogen, veja qual whey serve para quem evita lactose, conta calorias ou quer proteína de carne.",
+    "metaDescription": "Adaptogen ou Growth? O CECILIA dá 10% OFF na Adaptogen. Compare o custo por proteína, o zero lactose e os sabores; carne e ervilha ficam à parte.",
     "image": "/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp",
-    "imageAlt": "Logo da Adaptogen, a chamada “Adaptogen ou Growth” e o código CECILIA, ao lado da 100% Beef, em foto oficial da loja.",
+    "imageAlt": "Logo da Adaptogen, chamada ou Growth?, apoio Pelo rótulo e código CECILIA, com foto oficial da 100% Beef, proteína de carne.",
     "cta": {
       "text": "Se a Adaptogen faz sentido para a sua compra, abra o site pelo botão, monte o carrinho e digite CECILIA no campo Cupom de desconto do checkout. Confira a linha Cupom no resumo antes de pagar.",
       "label": "Ir para a Adaptogen",
@@ -265109,12 +266088,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve a Adaptogen se você quer proteína de carne, que não encontramos no site da Growth, ou um whey com 23 sabores e o cupom CECILIA.",
-        "Leve o Tasty Iso se quer um isolado que a loja informa como zero lactose e aceita pagar mais por grama de proteína.",
-        "Leve a Growth se o que decide é o custo por 100 g de proteína no concentrado, no 3W, no isolado ou no zero lactose."
+        "Leve a Growth se o critério é custo por proteína nos quatro pares de whey comparados, inclusive no zero lactose.",
+        "Considere a Adaptogen se você procura um sabor específico anunciado no Tasty ou proteína de carne, não encontrada no catálogo da Growth consultado.",
+        "Considere o Tasty Iso se você prefere esse produto, que a loja declara zero lactose, e aceita o custo maior que o Zero Lactose da Growth."
       ],
       "skipIf": [
-        "Passe na Growth se você precisa de proteína de carne: não encontramos nenhuma no site dela.",
+        "Passe nos wheys das duas se você procura proteína de carne: a opção é a 100% Beef, da Adaptogen, em capítulo próprio.",
         "Passe no isolado da Growth se você evita lactose, porque ele contém lactose, pela página.",
         "Passe no Tasty Iso se o preço por 100 g de proteína decide: ele é o mais caro entre os wheys comparados."
       ]
@@ -265123,23 +266102,125 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Por 100 g de proteína, a Growth sai mais barata nos wheys que comparamos. A Adaptogen ganha em outros pontos: tem proteína de carne, um isolado que a loja informa como zero lactose e o Tasty Whey com 23 sabores. O cupom CECILIA na Adaptogen dá 10% OFF. A escolha depende da sua dieta."
+          "A Growth custa menos por 100 g de proteína nos quatro pares de whey comparados, inclusive no zero lactose. A Adaptogen oferece o Tasty Whey com 23 sabores anunciados e proteína de carne, que não encontramos no catálogo da Growth. O cupom CECILIA na Adaptogen dá 10% OFF; compare abaixo as linhas e os preços."
         ]
       },
       {
-        "heading": "Como comparamos",
+        "heading": "Quais linhas entram na comparação",
         "paragraphs": [
-          "Esta comparação é só de wheys e proteínas, e usa os rótulos e os preços publicados pelas duas lojas em 18 de novembro de 2026. Creatina e os outros produtos ficam de fora. O HIT Protein, que mistura whey e colágeno, também: a loja não diz quanto de cada um há na proteína dele.",
-          "Não usamos os produtos, então sabor e efeito ficam de fora. O que vem do rótulo ou da página de cada loja está dito assim, e o que é cálculo nosso aparece como conta nossa.",
+          "Entram os concentrados, os 3W, os isolados e os produtos declarados zero lactose. As proteínas de carne e ervilha ficam separadas. O HIT Protein não entra nos pares de whey porque mistura whey e colágeno sem informar a proporção de cada fonte.",
+          "Confira o sabor e a porção da embalagem antes de comprar. As porções citadas servem às contas de composição e preço, não à indicação de quanto tomar.",
           "As páginas da Growth usadas são [100% Whey Concentrado](https://www.gsuplementos.com.br/100-whey-protein-concentrado-chocolate), [3W](https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944), [Isolado](https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937) e [Zero Lactose](https://www.gsuplementos.com.br/whey-protein-zero-lactose). O [guia Adaptogen é boa?](/reviews/adaptogen-e-boa) mostra os produtos da marca sozinha, e [Adaptogen ou Dux](/reviews/adaptogen-ou-dux) compara a linha com a Dux."
         ]
       },
       {
-        "heading": "Para quem evita lactose",
+        "heading": "Concentrado: Gold Whey ou Growth 100% Whey",
         "paragraphs": [
-          "Lactose é o primeiro filtro, e a página de cada produto diz o que tem. A Growth informa que o isolado contém lactose, pela tabela comparativa e pelos alérgicos. Para quem evita lactose, a opção da Growth é o Whey Protein Zero Lactose, que a loja informa com 0 g de lactose.",
+          "Os dois declaram 21 g de proteína em porção de 30 g. O Gold tem 6 kcal a menos e 0,5 g de carboidratos a mais nessa porção; a Growth tem menor custo por proteína. No cartão, as embalagens estavam em R$ 133,22 na Growth e R$ 223,48 na Adaptogen."
+        ],
+        "comparisonTable": {
+          "caption": "Valores publicados para as porções consultadas; podem variar conforme o sabor. As porções têm tamanhos diferentes.",
+          "headers": [
+            "Produto",
+            "Porção / proteína",
+            "Energia",
+            "Carboidratos"
+          ],
+          "rows": [
+            [
+              "Growth 100% Whey 900 g",
+              "30 g / 21 g",
+              "121 kcal",
+              "4,5 g"
+            ],
+            [
+              "Adaptogen Gold Whey 900 g",
+              "30 g / 21 g",
+              "115 kcal",
+              "5 g"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Três proteínas: Growth 3W, Tasty e Adapto Whey",
+        "paragraphs": [
+          "O Tasty e o 3W da Growth fornecem 24 g de proteína, em porções de tamanhos diferentes. Por 100 g de pó, a conta dá 80 g de proteína na Growth, cerca de 71 g no Tasty e 78 g no Adapto.",
+          "Os preços de cartão eram R$ 272,11 pelo pacote de 1 kg da Growth, R$ 270,20 pelo Tasty de 900 g e R$ 279,55 pelo Adapto de 900 g. Por isso o pote mais barato não necessariamente entrega a proteína de menor custo."
+        ],
+        "comparisonTable": {
+          "caption": "Valores publicados para as porções consultadas; podem variar conforme o sabor. As porções têm tamanhos diferentes.",
+          "headers": [
+            "Produto",
+            "Porção / proteína",
+            "Energia",
+            "Carboidratos"
+          ],
+          "rows": [
+            [
+              "Growth 3W 1 kg",
+              "30 g / 24 g",
+              "118 kcal",
+              "2,5 g"
+            ],
+            [
+              "Adaptogen Tasty Whey 3W 900 g",
+              "34 g / 24 g",
+              "134 kcal",
+              "4,3 g"
+            ],
+            [
+              "Adaptogen Adapto Whey 3W 900 g",
+              "32 g / 25 g",
+              "128 kcal",
+              "2,5 g"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Isolado e zero lactose: compare o produto certo",
+        "paragraphs": [
+          "Para quem precisa de uma opção declarada zero lactose, o par é Tasty Iso e Growth Zero Lactose. O (TOP) Isolado da Growth continua na tabela como isolado, mas declara lactose.",
+          "O Tasty Iso tem 115 kcal por porção, contra 116 kcal do (TOP) Isolado, mas fornece 25 g de proteína contra 27 g. Na conta para obter os mesmos 25 g de proteína, seriam cerca de 107 kcal do isolado da Growth e 115 kcal do Tasty. A diferença de 1 kcal por porção não sustenta uma indicação para emagrecer.",
+          "No cartão, as embalagens estavam em R$ 377,66 no (TOP) Isolado da Growth, R$ 391,80 no Tasty Iso e R$ 288,78 no Growth Zero Lactose. A comparação por proteína está abaixo."
+        ],
+        "comparisonTable": {
+          "caption": "Valores publicados para as porções consultadas; podem variar conforme o sabor. As porções têm tamanhos diferentes.",
+          "headers": [
+            "Produto",
+            "Porção / proteína",
+            "Energia",
+            "Carboidratos"
+          ],
+          "rows": [
+            [
+              "Growth (TOP) Isolado 1 kg",
+              "30 g / 27 g",
+              "116 kcal",
+              "2 g"
+            ],
+            [
+              "Adaptogen Tasty Iso 900 g",
+              "30 g / 25 g",
+              "115 kcal",
+              "1,5 g"
+            ],
+            [
+              "Growth Zero Lactose 1 kg",
+              "30 g / 23 g",
+              "120 kcal",
+              "2,3 g"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Lactose, proteína do leite e glúten",
+        "paragraphs": [
+          "As duas marcas têm opção declarada zero lactose: o Tasty Iso da Adaptogen e o Whey Protein Zero Lactose da Growth. Isso não vale para todo isolado: o (TOP) Isolado da Growth declara lactose, segundo a página.",
           "Na Adaptogen, a página descreve o Tasty Iso como isolado e hidrolisado e como zero lactose, e avisa que o sabor Cookies and Cream tem glúten. A 100% Beef, segundo a página, não tem lactose, glúten nem colágeno. Já o Tasty Whey 3W, pela página, contém lactose.",
-          "Alergia à proteína do leite é outro assunto, e a resposta fica com o médico."
+          "Zero lactose não significa ausência de proteína do leite. Quem tem alergia precisa de orientação médica e da conferência dos alérgenos da embalagem, inclusive nas opções de outra origem."
         ],
         "images": [
           {
@@ -265149,7 +266230,17 @@ export const reviewsData: unknown[] = [
             "href": "https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA",
             "objectFit": "contain",
             "aspectRatio": 1
-          },
+          }
+        ]
+      },
+      {
+        "heading": "Carne e ervilha: opções fora do whey",
+        "paragraphs": [
+          "Para quem procura outra origem de proteína, a Adaptogen oferece a 100% Beef, de carne bovina, e o Vegan Iso, de ervilha. A página da Beef declara ausência de lactose, glúten e colágeno. A Growth também vende proteínas vegetais e albumina, de ovo; não encontramos proteína de carne no catálogo consultado.",
+          "A comparação com as proteínas vegetais da Growth fica em aberto: seus rótulos e preços não entraram neste levantamento. O Vegan Iso aparece como opção do catálogo da Adaptogen, sem vantagem de preço demonstrada sobre as opções vegetais da outra loja.",
+          "Na Beef, a tabela nutricional varia entre sabores. No Vegan Iso, a foto da frente da embalagem diz zero açúcar, mas a tabela publicada mostra 2,7 g de açúcares adicionados por porção. Confira com a loja o rótulo do sabor que será enviado antes de escolher por esse critério."
+        ],
+        "images": [
           {
             "src": "/images/reviews/adaptogen/adaptogen-100-beef-900g.webp",
             "alt": "Pote da 100% Beef 900 g da Adaptogen, em foto oficial da loja",
@@ -265157,17 +266248,7 @@ export const reviewsData: unknown[] = [
             "href": "https://www.adaptogen.com.br/produto/100-beef-900g-150200?parceiro=CECILIA",
             "objectFit": "contain",
             "aspectRatio": 1
-          }
-        ]
-      },
-      {
-        "heading": "Para quem não quer proteína do leite",
-        "paragraphs": [
-          "Aqui o filtro é a origem da proteína, e não a lactose: whey é proteína do leite, então quem quer evitá-la precisa de outra fonte. A Adaptogen tem duas opções fora do soro: a 100% Beef, de carne bovina, e o Vegan Iso, de ervilha, com 24 g de proteína em cada porção de 33 g e 3 sabores.",
-          "A Growth vende proteína vegetal de soja, arroz e ervilha, um blend vegano e albumina, que é proteína do ovo. Não encontramos proteína de carne no site da Growth.",
-          "As duas lojas, então, vendem proteína vegetal. As da Growth ficam fora das tabelas: este comparativo não traz o rótulo nem o preço delas."
-        ],
-        "images": [
+          },
           {
             "src": "/images/reviews/adaptogen/adaptogen-vegan-iso-450g.webp",
             "alt": "Pote do Vegan Iso 450 g da Adaptogen, proteína isolada de ervilha, em foto oficial da loja",
@@ -265176,150 +266257,32 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
-        ]
-      },
-      {
-        "heading": "Para quem conta calorias e carboidratos",
-        "paragraphs": [
-          "Quem pergunta se um whey serve para emagrecer encontra aqui o que o rótulo diz por dose. Não é promessa de efeito: calorias e carboidratos são números da embalagem, e quem define a dieta é o nutricionista."
         ],
         "comparisonTable": {
-          "caption": "A loja informa: valores por dose, das tabelas nutricionais de cada página.",
+          "caption": "Opções da Adaptogen sem par direto de preço levantado na Growth. A conta com CECILIA é calculada sobre o cartão.",
           "headers": [
             "Produto",
-            "Dose e proteína",
-            "Calorias",
-            "Carboidratos"
+            "Porção / proteína",
+            "Cartão, embalagem",
+            "Por 100 g de proteína com CECILIA"
           ],
           "rows": [
             [
-              "Growth 100% Whey Protein Concentrado 900 g",
-              "30 g, 21 g de proteína",
-              "121 kcal",
-              "4,5 g"
+              "100% Beef 900 g",
+              "32 g / 25 g",
+              "R$ 236,56",
+              "R$ 30,28"
             ],
             [
-              "Adaptogen Gold Whey 900 g",
-              "30 g, 21 g de proteína",
-              "115 kcal",
-              "5 g"
-            ],
-            [
-              "Growth 3W Whey Protein 1 kg",
-              "30 g, 24 g de proteína",
-              "118 kcal",
-              "2,5 g"
-            ],
-            [
-              "Adaptogen Tasty Whey 3W Gourmet 900 g",
-              "34 g, 24 g de proteína",
-              "134 kcal",
-              "4,3 g"
-            ],
-            [
-              "Adaptogen Adapto Whey 3W 900 g",
-              "32 g, 25 g de proteína",
-              "128 kcal",
-              "2,5 g"
-            ],
-            [
-              "Growth (TOP) Whey Protein Isolado 1 kg",
-              "30 g, 27 g de proteína",
-              "116 kcal",
-              "2 g"
-            ],
-            [
-              "Adaptogen Tasty Iso 900 g",
-              "30 g, 25 g de proteína",
-              "115 kcal",
-              "1,5 g"
-            ],
-            [
-              "Growth Whey Protein Zero Lactose 1 kg",
-              "30 g, 23 g de proteína",
-              "120 kcal",
-              "2,3 g"
-            ],
-            [
-              "Adaptogen 100% Beef 900 g",
-              "32 g, 25 g de proteína",
-              "120 a 125 kcal",
-              "2,5 a 4 g"
+              "Vegan Iso 450 g",
+              "33 g / 24 g",
+              "R$ 221,76",
+              "R$ 60,98"
             ]
           ]
         },
         "postParagraphs": [
-          "Por dose, o Tasty Iso e o Gold Whey têm o menor valor calórico da tabela, 115 kcal cada, e o Tasty Iso tem o menor carboidrato, 1,5 g. O isolado da Growth fica colado, com 116 kcal e 2 g, e leva 27 g de proteína na mesma dose de 30 g. As doses não são iguais: vão de 30 g a 34 g, conforme o produto.",
-          "A Growth informa os açúcares de cada um: 3,3 g no concentrado, 1,1 g no 3W, 0 g no isolado e 1,7 g no zero lactose. Na Adaptogen, o número que temos é o de açúcares adicionados: 0 g no Gold, no Tasty Whey 3W e no Tasty Iso. Açúcar adicionado não é o açúcar total, então as duas linhas não se comparam direto."
-        ]
-      },
-      {
-        "heading": "Para quem quer mais proteína por dose",
-        "paragraphs": [
-          "Para quem pergunta se serve para ganhar massa, o número a olhar é a proteína por dose e por 100 g de pó. A tabela mostra só quanto de proteína há em cada dose, sem promessa de resultado: isso depende da dieta e do treino, e quem monta a dieta é o nutricionista."
-        ],
-        "comparisonTable": {
-          "caption": "Proteína por 100 g de pó é conta nossa: proteína da dose ÷ gramas da dose × 100.",
-          "headers": [
-            "Produto",
-            "Proteína por dose",
-            "Proteína por 100 g de pó"
-          ],
-          "rows": [
-            [
-              "Growth (TOP) Whey Protein Isolado 1 kg",
-              "27 g em 30 g",
-              "90 g"
-            ],
-            [
-              "Adaptogen Tasty Iso 900 g",
-              "25 g em 30 g",
-              "83 g"
-            ],
-            [
-              "Growth 3W Whey Protein 1 kg",
-              "24 g em 30 g",
-              "80 g"
-            ],
-            [
-              "Adaptogen Adapto Whey 3W 900 g",
-              "25 g em 32 g",
-              "78 g"
-            ],
-            [
-              "Adaptogen 100% Beef 900 g",
-              "25 g em 32 g",
-              "78 g"
-            ],
-            [
-              "Growth Whey Protein Zero Lactose 1 kg",
-              "23 g em 30 g",
-              "77 g"
-            ],
-            [
-              "Adaptogen Vegan Iso 450 g",
-              "24 g em 33 g",
-              "73 g"
-            ],
-            [
-              "Adaptogen Tasty Whey 3W Gourmet 900 g",
-              "24 g em 34 g",
-              "71 g"
-            ],
-            [
-              "Growth 100% Whey Protein Concentrado 900 g",
-              "21 g em 30 g",
-              "70 g"
-            ],
-            [
-              "Adaptogen Gold Whey 900 g",
-              "21 g em 30 g",
-              "70 g"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "O isolado da Growth tem a maior proteína por dose entre os produtos listados, 27 g em 30 g, mas, pela página, contém lactose. O Tasty Iso, com 25 g em 30 g, vem logo depois, e a página dele informa zero lactose. Entre os 3W, o da Growth tem 80 g de proteína em 100 g de pó, contra 78 g do Adapto Whey e 71 g do Tasty Whey."
+          "A Beef declara de 120 a 125 kcal e de 2,5 a 4 g de carboidratos por porção, conforme a tabela de sabor lida. O Vegan Iso declara 130 kcal e 2,7 g de carboidratos. A Beef custa menos que o whey Zero Lactose da Growth nesta conta, mas isso compara fontes diferentes; não demonstra que seja uma alternativa nutricional equivalente."
         ]
       },
       {
@@ -265327,98 +266290,60 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Aqui vale só a contagem de sabores que cada página informa, e os formatos. A Adaptogen tem 23 sabores no Tasty Whey 3W, 9 no Gold Whey, 7 no Tasty Iso e 6 no Adapto Whey 3W. A 100% Beef e o Vegan Iso têm 3 cada um.",
           "Na Growth, o concentrado, o 3W e o isolado têm 3 sabores cada, e o Zero Lactose tem 5. O concentrado vem em 450 g, 750 g e 900 g; o Zero Lactose, em 450 g e 1 kg; o 3W e o isolado, em 1 kg. Na Adaptogen, o Tasty Whey 3W também vem em pack de 12 sachês de 34 g, e o Adapto Whey em bag de 2,2 kg.",
-          "Sabor é gosto, e não provamos nenhum deles: aqui só entra a contagem."
+          "Confira quais sabores estão disponíveis: a quantidade anunciada no catálogo não significa que todos estejam à venda no momento da compra."
         ]
       },
       {
-        "heading": "E o preço?",
+        "heading": "Preço com o cupom: a Growth ganha nos quatro pares",
         "paragraphs": [
-          "Os preços da Adaptogen foram lidos na vitrine de campanha da Black Friday, explicada no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen). Os da Growth são os do site dela, no mesmo dia.",
+          "Os preços da Adaptogen foram lidos na vitrine de campanha da Black Friday, explicada no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen). Os da Growth são os do site dela, lidos no mesmo dia, 18 de novembro de 2026.",
           "A coluna com o CECILIA é conta nossa: 10% sobre o preço do cartão da Adaptogen. Nos nossos testes, o cupom somou com os preços de campanha, mas o desconto foi confirmado em carrinho com outros produtos da loja, não com estes wheys."
         ],
         "comparisonTable": {
-          "caption": "Conta nossa: preço do cartão ÷ (peso do pote ÷ porção × proteína por porção) × 100. A Growth aparece sem cupom, porque não é parceira.",
+          "caption": "Preço por 100 g de proteína, sem frete. Adaptogen com 10% do CECILIA calculados sobre o cartão da campanha; Growth no cartão publicado, sem cupom nosso.",
           "headers": [
-            "Produto",
-            "Preço no cartão",
-            "Por 100 g de proteína, cartão",
-            "Por 100 g de proteína, com o CECILIA"
+            "Par",
+            "Adaptogen com CECILIA",
+            "Growth, cartão",
+            "Menor custo"
           ],
           "rows": [
             [
-              "Growth 100% Whey Protein Concentrado 900 g",
-              "R$ 133,22",
-              "R$ 21,15",
-              "sem cupom"
+              "Concentrado",
+              "Gold: R$ 31,93",
+              "100% Whey: R$ 21,15",
+              "Growth"
             ],
             [
-              "Adaptogen Gold Whey 900 g",
-              "R$ 223,48",
-              "R$ 35,47",
-              "R$ 31,93"
+              "3W",
+              "Tasty: R$ 38,28; Adapto: R$ 35,78",
+              "3W: R$ 34,01",
+              "Growth"
             ],
             [
-              "Growth 3W Whey Protein 1 kg",
-              "R$ 272,11",
-              "R$ 34,01",
-              "sem cupom"
+              "Isolado",
+              "Tasty Iso: R$ 47,02",
+              "(TOP) Isolado: R$ 41,96",
+              "Growth"
             ],
             [
-              "Adaptogen Tasty Whey 3W Gourmet 900 g",
-              "R$ 270,20",
-              "R$ 42,53",
-              "R$ 38,28"
-            ],
-            [
-              "Adaptogen Adapto Whey 3W 900 g",
-              "R$ 279,55",
-              "R$ 39,76",
-              "R$ 35,78"
-            ],
-            [
-              "Growth (TOP) Whey Protein Isolado 1 kg",
-              "R$ 377,66",
-              "R$ 41,96",
-              "sem cupom"
-            ],
-            [
-              "Adaptogen Tasty Iso 900 g",
-              "R$ 391,80",
-              "R$ 52,24",
-              "R$ 47,02"
-            ],
-            [
-              "Growth Whey Protein Zero Lactose 1 kg",
-              "R$ 288,78",
-              "R$ 37,67",
-              "sem cupom"
-            ],
-            [
-              "Adaptogen 100% Beef 900 g",
-              "R$ 236,56",
-              "R$ 33,64",
-              "R$ 30,28"
-            ],
-            [
-              "Adaptogen Vegan Iso 450 g",
-              "R$ 221,76",
-              "R$ 67,76",
-              "R$ 60,98"
+              "Declarado zero lactose",
+              "Tasty Iso: R$ 47,02",
+              "Zero Lactose: R$ 37,67",
+              "Growth"
             ]
           ]
         },
         "postParagraphs": [
-          "Por 100 g de proteína, a Growth sai mais barata no concentrado, no 3W, no isolado e no zero lactose, mesmo com o cupom na Adaptogen. Os pares principais são o Gold Whey com o concentrado, o Tasty Whey 3W com o 3W, e o Tasty Iso com o isolado e com o zero lactose.",
-          "A exceção é a 100% Beef, que não é whey: ela custa menos que o Zero Lactose da Growth, mas não encontramos proteína de carne no site da Growth para comparar de igual para igual.",
-          "O Vegan Iso sai a R$ 60,98 por 100 g de proteína com o CECILIA, o valor mais alto da tabela. A Growth também vende proteína vegetal, mas o preço dela não entrou nesta conta, então essa linha fica sem par.",
-          "No Pix, a Growth sai 10% abaixo do cartão, e a Adaptogen, 5%. São descontos à parte, e a tabela não soma nenhum deles ao cupom. Quem quer sair da Growth pelo preço tem outro texto: [alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey). Aqui a pergunta é qual das duas serve à sua dieta."
+          "A Growth mantém o menor custo por proteína nos quatro pares, mesmo com o CECILIA na Adaptogen. A Beef e o Vegan Iso ficaram em capítulo separado, pois não são whey nem tiveram par direto de preço levantado.",
+          "No Pix, a Growth anuncia 10% abaixo do cartão e a Adaptogen, 5%. As tabelas usam apenas o cartão para manter a mesma base. Quem procura trocar a Growth pelo menor preço pode consultar [alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
         ]
       },
       {
         "heading": "Cupom, Pix e frete",
         "paragraphs": [
           "O cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout, para cliente novo e antigo. Depois de digitar o código e clicar em Aplicar, aparecem o aviso Cupom aplicado e a linha Cupom no resumo.",
-          "A página do [cupom Adaptogen](/cupons/adaptogen) reúne o código e as condições, e o passo a passo está no [guia de como usar o código](/reviews/cupom-adaptogen-como-usar). Não abrimos o pagamento, então o Pix mostrado aqui é o da vitrine.",
+          "As condições estão na página do [cupom Adaptogen](/cupons/adaptogen), e o campo aparece no [guia de aplicação](/reviews/cupom-adaptogen-como-usar). O CECILIA vale também no Pix e no boleto, para os quais a loja anuncia 5%; confira os dois descontos no resumo antes de pagar.",
           "A Growth não é parceira: não há cupom nem link de afiliado dela neste texto."
         ],
         "comparisonTable": {
@@ -265464,13 +266389,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Adaptogen ou Growth: qual escolher?",
+        "paragraphs": [
+          "Se o critério é custo por proteína nos wheys comparados, a escolha é a Growth. Para zero lactose, ela também tem uma opção declarada e mais barata que o Tasty Iso nesta conta.",
+          "A Adaptogen entra por uma preferência concreta: um sabor anunciado do Tasty, a escolha específica do Tasty Iso ou a proteína de carne da Beef, que não encontramos no catálogo da Growth. Isso não comprova melhor sabor, digestão ou resultado. Confira o rótulo, a variação disponível e o total entregue antes de decidir."
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Tasty Whey ou Growth: qual tem mais proteína por dose? Entre os dois 3W, a proteína é igual por dose, 24 g, mas a dose da Growth é de 30 g e a da Adaptogen, de 34 g. Por 100 g de pó, o 3W da Growth tem 80 g de proteína, e o Tasty Whey, 71 g, conta nossa com os rótulos.",
           "Qual das duas tem whey sem lactose? Da Adaptogen, o Tasty Iso, que a página descreve como zero lactose. Da Growth, o Whey Protein Zero Lactose, com 0 g de lactose pela página; o isolado da Growth contém lactose. Confira o rótulo do sabor: o Cookies and Cream do Tasty Iso tem glúten.",
           "A Growth tem proteína de carne? Não encontramos proteína de carne no site da Growth. A Adaptogen vende a 100% Beef, com 25 g de proteína em cada dose de 32 g.",
           "Gold Whey ou o concentrado da Growth? Pelo rótulo, são parecidos: 21 g de proteína em 30 g, com 115 kcal no Gold e 121 kcal no concentrado da Growth. Por 100 g de proteína, a Growth sai mais barata: R$ 21,15 contra R$ 35,47 do Gold no cartão, ou R$ 31,93 com o CECILIA.",
-          "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. No Pix e no boleto, a vitrine mostra 5% abaixo do cartão, um desconto à parte do cupom."
+          "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. Ele vale também no Pix e no boleto, para os quais a loja anuncia 5%; confira os dois descontos no resumo."
         ]
       }
     ]

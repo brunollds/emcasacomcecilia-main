@@ -202,9 +202,10 @@ nosso.
 
 ## Redação, revisão e JSON (18/11/2026)
 
-- **Job 2 e Job 4:** escrito direto no JSON (`id` 1060) por subagente, com o brief da sessão de artigos (regras do pacote da AD1, a releitura de 18/11 à tarde e a leitura do dia da sessão de pauta), e revisado pela sessão. Só PT.
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1066; o 1060 ficou com a Barbour's, #1162) por subagente, com o brief da sessão de artigos (regras do pacote da AD1, a releitura de 18/11 à tarde e a leitura do dia da sessão de pauta), e revisado pela sessão. Só PT.
 - **Checagem e Fable:** 6 achados do checador e 15 do Fable, aplicados: proteína de carne na Growth sempre como "não encontramos no site da Growth"; "whey com ovo" fora do capítulo de quem não quer proteína do leite (albumina fica); açúcares da Growth (totais) separados dos açúcares adicionados da Adaptogen, que não se comparam direto; o isolado da Growth empata em calorias e ganha em proteína por dose, e o 3W dela tem mais proteína por 100 g de pó, ditos no texto.
 - **Preço:** o capítulo diz que a Growth sai mais barata por proteína no concentrado, no 3W, no isolado e no zero lactose, e que a 100% Beef, que não é whey, é a exceção; o Vegan Iso fica sem par (preço da proteína vegetal da Growth não lido).
+- **Parecer do Farol (ChatGPT/Codex, colado pelo Bruno em 18/11):** zero lactose não é vantagem só da Adaptogen (a Growth tem o Zero Lactose, mais barato por proteína); tabelas separadas por tipo; a Beef e o Vegan Iso em capítulo próprio, fora da conta de whey; 115 contra 116 kcal não sustenta indicação de dieta (o isolado da Growth dá cerca de 107 kcal para os mesmos 25 g de proteína); a divergência do Vegan Iso ("0g sugar" na frente, 2,7 g de açúcares adicionados na tabela) entra no texto. Título e seoTitle novos do Farol. Ajustes da sessão: sem link na resposta rápida, metaDescription com "Adaptogen ou Growth?" na frente, sem data na legenda e a frase padrão do Pix.
 
 ## Capa e imagens (Job 6)
 

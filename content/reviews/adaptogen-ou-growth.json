@@ -1,5 +1,5 @@
 {
-  "id": 1060,
+  "id": 1066,
   "slug": "adaptogen-ou-growth",
   "locale": "pt",
   "category": "guias-praticos-utilidade",
@@ -22,12 +22,12 @@
   "coupon": "CECILIA",
   "affiliate": "adaptogen",
   "type": "Comparativo de Suplemento",
-  "title": "Adaptogen ou Growth: qual whey escolher pela dieta, pela lactose e pelo rótulo",
-  "seoTitle": "Adaptogen ou Growth: qual whey escolher pelo rótulo",
+  "title": "Adaptogen ou Growth: preço dos wheys, lactose e outras proteínas",
+  "seoTitle": "Adaptogen ou Growth: whey, preço e lactose",
   "description": "Os wheys das duas marcas lado a lado pelo rótulo: proteína, calorias e carboidratos por dose, lactose, proteína de carne, sabores e o que cada loja cobra.",
-  "metaDescription": "Adaptogen ou Growth? Com o cupom CECILIA, 10% OFF na Adaptogen, veja qual whey serve para quem evita lactose, conta calorias ou quer proteína de carne.",
+  "metaDescription": "Adaptogen ou Growth? O CECILIA dá 10% OFF na Adaptogen. Compare o custo por proteína, o zero lactose e os sabores; carne e ervilha ficam à parte.",
   "image": "/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp",
-  "imageAlt": "Logo da Adaptogen, a chamada “Adaptogen ou Growth” e o código CECILIA, ao lado da 100% Beef, em foto oficial da loja.",
+  "imageAlt": "Logo da Adaptogen, chamada ou Growth?, apoio Pelo rótulo e código CECILIA, com foto oficial da 100% Beef, proteína de carne.",
   "cta": {
     "text": "Se a Adaptogen faz sentido para a sua compra, abra o site pelo botão, monte o carrinho e digite CECILIA no campo Cupom de desconto do checkout. Confira a linha Cupom no resumo antes de pagar.",
     "label": "Ir para a Adaptogen",
@@ -51,12 +51,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Leve a Adaptogen se você quer proteína de carne, que não encontramos no site da Growth, ou um whey com 23 sabores e o cupom CECILIA.",
-      "Leve o Tasty Iso se quer um isolado que a loja informa como zero lactose e aceita pagar mais por grama de proteína.",
-      "Leve a Growth se o que decide é o custo por 100 g de proteína no concentrado, no 3W, no isolado ou no zero lactose."
+      "Leve a Growth se o critério é custo por proteína nos quatro pares de whey comparados, inclusive no zero lactose.",
+      "Considere a Adaptogen se você procura um sabor específico anunciado no Tasty ou proteína de carne, não encontrada no catálogo da Growth consultado.",
+      "Considere o Tasty Iso se você prefere esse produto, que a loja declara zero lactose, e aceita o custo maior que o Zero Lactose da Growth."
     ],
     "skipIf": [
-      "Passe na Growth se você precisa de proteína de carne: não encontramos nenhuma no site dela.",
+      "Passe nos wheys das duas se você procura proteína de carne: a opção é a 100% Beef, da Adaptogen, em capítulo próprio.",
       "Passe no isolado da Growth se você evita lactose, porque ele contém lactose, pela página.",
       "Passe no Tasty Iso se o preço por 100 g de proteína decide: ele é o mais caro entre os wheys comparados."
     ]
@@ -65,23 +65,125 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Por 100 g de proteína, a Growth sai mais barata nos wheys que comparamos. A Adaptogen ganha em outros pontos: tem proteína de carne, um isolado que a loja informa como zero lactose e o Tasty Whey com 23 sabores. O cupom CECILIA na Adaptogen dá 10% OFF. A escolha depende da sua dieta."
+        "A Growth custa menos por 100 g de proteína nos quatro pares de whey comparados, inclusive no zero lactose. A Adaptogen oferece o Tasty Whey com 23 sabores anunciados e proteína de carne, que não encontramos no catálogo da Growth. O cupom CECILIA na Adaptogen dá 10% OFF; compare abaixo as linhas e os preços."
       ]
     },
     {
-      "heading": "Como comparamos",
+      "heading": "Quais linhas entram na comparação",
       "paragraphs": [
-        "Esta comparação é só de wheys e proteínas, e usa os rótulos e os preços publicados pelas duas lojas em 18 de novembro de 2026. Creatina e os outros produtos ficam de fora. O HIT Protein, que mistura whey e colágeno, também: a loja não diz quanto de cada um há na proteína dele.",
-        "Não usamos os produtos, então sabor e efeito ficam de fora. O que vem do rótulo ou da página de cada loja está dito assim, e o que é cálculo nosso aparece como conta nossa.",
+        "Entram os concentrados, os 3W, os isolados e os produtos declarados zero lactose. As proteínas de carne e ervilha ficam separadas. O HIT Protein não entra nos pares de whey porque mistura whey e colágeno sem informar a proporção de cada fonte.",
+        "Confira o sabor e a porção da embalagem antes de comprar. As porções citadas servem às contas de composição e preço, não à indicação de quanto tomar.",
         "As páginas da Growth usadas são [100% Whey Concentrado](https://www.gsuplementos.com.br/100-whey-protein-concentrado-chocolate), [3W](https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944), [Isolado](https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937) e [Zero Lactose](https://www.gsuplementos.com.br/whey-protein-zero-lactose). O [guia Adaptogen é boa?](/reviews/adaptogen-e-boa) mostra os produtos da marca sozinha, e [Adaptogen ou Dux](/reviews/adaptogen-ou-dux) compara a linha com a Dux."
       ]
     },
     {
-      "heading": "Para quem evita lactose",
+      "heading": "Concentrado: Gold Whey ou Growth 100% Whey",
       "paragraphs": [
-        "Lactose é o primeiro filtro, e a página de cada produto diz o que tem. A Growth informa que o isolado contém lactose, pela tabela comparativa e pelos alérgicos. Para quem evita lactose, a opção da Growth é o Whey Protein Zero Lactose, que a loja informa com 0 g de lactose.",
+        "Os dois declaram 21 g de proteína em porção de 30 g. O Gold tem 6 kcal a menos e 0,5 g de carboidratos a mais nessa porção; a Growth tem menor custo por proteína. No cartão, as embalagens estavam em R$ 133,22 na Growth e R$ 223,48 na Adaptogen."
+      ],
+      "comparisonTable": {
+        "caption": "Valores publicados para as porções consultadas; podem variar conforme o sabor. As porções têm tamanhos diferentes.",
+        "headers": [
+          "Produto",
+          "Porção / proteína",
+          "Energia",
+          "Carboidratos"
+        ],
+        "rows": [
+          [
+            "Growth 100% Whey 900 g",
+            "30 g / 21 g",
+            "121 kcal",
+            "4,5 g"
+          ],
+          [
+            "Adaptogen Gold Whey 900 g",
+            "30 g / 21 g",
+            "115 kcal",
+            "5 g"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Três proteínas: Growth 3W, Tasty e Adapto Whey",
+      "paragraphs": [
+        "O Tasty e o 3W da Growth fornecem 24 g de proteína, em porções de tamanhos diferentes. Por 100 g de pó, a conta dá 80 g de proteína na Growth, cerca de 71 g no Tasty e 78 g no Adapto.",
+        "Os preços de cartão eram R$ 272,11 pelo pacote de 1 kg da Growth, R$ 270,20 pelo Tasty de 900 g e R$ 279,55 pelo Adapto de 900 g. Por isso o pote mais barato não necessariamente entrega a proteína de menor custo."
+      ],
+      "comparisonTable": {
+        "caption": "Valores publicados para as porções consultadas; podem variar conforme o sabor. As porções têm tamanhos diferentes.",
+        "headers": [
+          "Produto",
+          "Porção / proteína",
+          "Energia",
+          "Carboidratos"
+        ],
+        "rows": [
+          [
+            "Growth 3W 1 kg",
+            "30 g / 24 g",
+            "118 kcal",
+            "2,5 g"
+          ],
+          [
+            "Adaptogen Tasty Whey 3W 900 g",
+            "34 g / 24 g",
+            "134 kcal",
+            "4,3 g"
+          ],
+          [
+            "Adaptogen Adapto Whey 3W 900 g",
+            "32 g / 25 g",
+            "128 kcal",
+            "2,5 g"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Isolado e zero lactose: compare o produto certo",
+      "paragraphs": [
+        "Para quem precisa de uma opção declarada zero lactose, o par é Tasty Iso e Growth Zero Lactose. O (TOP) Isolado da Growth continua na tabela como isolado, mas declara lactose.",
+        "O Tasty Iso tem 115 kcal por porção, contra 116 kcal do (TOP) Isolado, mas fornece 25 g de proteína contra 27 g. Na conta para obter os mesmos 25 g de proteína, seriam cerca de 107 kcal do isolado da Growth e 115 kcal do Tasty. A diferença de 1 kcal por porção não sustenta uma indicação para emagrecer.",
+        "No cartão, as embalagens estavam em R$ 377,66 no (TOP) Isolado da Growth, R$ 391,80 no Tasty Iso e R$ 288,78 no Growth Zero Lactose. A comparação por proteína está abaixo."
+      ],
+      "comparisonTable": {
+        "caption": "Valores publicados para as porções consultadas; podem variar conforme o sabor. As porções têm tamanhos diferentes.",
+        "headers": [
+          "Produto",
+          "Porção / proteína",
+          "Energia",
+          "Carboidratos"
+        ],
+        "rows": [
+          [
+            "Growth (TOP) Isolado 1 kg",
+            "30 g / 27 g",
+            "116 kcal",
+            "2 g"
+          ],
+          [
+            "Adaptogen Tasty Iso 900 g",
+            "30 g / 25 g",
+            "115 kcal",
+            "1,5 g"
+          ],
+          [
+            "Growth Zero Lactose 1 kg",
+            "30 g / 23 g",
+            "120 kcal",
+            "2,3 g"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Lactose, proteína do leite e glúten",
+      "paragraphs": [
+        "As duas marcas têm opção declarada zero lactose: o Tasty Iso da Adaptogen e o Whey Protein Zero Lactose da Growth. Isso não vale para todo isolado: o (TOP) Isolado da Growth declara lactose, segundo a página.",
         "Na Adaptogen, a página descreve o Tasty Iso como isolado e hidrolisado e como zero lactose, e avisa que o sabor Cookies and Cream tem glúten. A 100% Beef, segundo a página, não tem lactose, glúten nem colágeno. Já o Tasty Whey 3W, pela página, contém lactose.",
-        "Alergia à proteína do leite é outro assunto, e a resposta fica com o médico."
+        "Zero lactose não significa ausência de proteína do leite. Quem tem alergia precisa de orientação médica e da conferência dos alérgenos da embalagem, inclusive nas opções de outra origem."
       ],
       "images": [
         {
@@ -91,7 +193,17 @@
           "href": "https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA",
           "objectFit": "contain",
           "aspectRatio": 1
-        },
+        }
+      ]
+    },
+    {
+      "heading": "Carne e ervilha: opções fora do whey",
+      "paragraphs": [
+        "Para quem procura outra origem de proteína, a Adaptogen oferece a 100% Beef, de carne bovina, e o Vegan Iso, de ervilha. A página da Beef declara ausência de lactose, glúten e colágeno. A Growth também vende proteínas vegetais e albumina, de ovo; não encontramos proteína de carne no catálogo consultado.",
+        "A comparação com as proteínas vegetais da Growth fica em aberto: seus rótulos e preços não entraram neste levantamento. O Vegan Iso aparece como opção do catálogo da Adaptogen, sem vantagem de preço demonstrada sobre as opções vegetais da outra loja.",
+        "Na Beef, a tabela nutricional varia entre sabores. No Vegan Iso, a foto da frente da embalagem diz zero açúcar, mas a tabela publicada mostra 2,7 g de açúcares adicionados por porção. Confira com a loja o rótulo do sabor que será enviado antes de escolher por esse critério."
+      ],
+      "images": [
         {
           "src": "/images/reviews/adaptogen/adaptogen-100-beef-900g.webp",
           "alt": "Pote da 100% Beef 900 g da Adaptogen, em foto oficial da loja",
@@ -99,17 +211,7 @@
           "href": "https://www.adaptogen.com.br/produto/100-beef-900g-150200?parceiro=CECILIA",
           "objectFit": "contain",
           "aspectRatio": 1
-        }
-      ]
-    },
-    {
-      "heading": "Para quem não quer proteína do leite",
-      "paragraphs": [
-        "Aqui o filtro é a origem da proteína, e não a lactose: whey é proteína do leite, então quem quer evitá-la precisa de outra fonte. A Adaptogen tem duas opções fora do soro: a 100% Beef, de carne bovina, e o Vegan Iso, de ervilha, com 24 g de proteína em cada porção de 33 g e 3 sabores.",
-        "A Growth vende proteína vegetal de soja, arroz e ervilha, um blend vegano e albumina, que é proteína do ovo. Não encontramos proteína de carne no site da Growth.",
-        "As duas lojas, então, vendem proteína vegetal. As da Growth ficam fora das tabelas: este comparativo não traz o rótulo nem o preço delas."
-      ],
-      "images": [
+        },
         {
           "src": "/images/reviews/adaptogen/adaptogen-vegan-iso-450g.webp",
           "alt": "Pote do Vegan Iso 450 g da Adaptogen, proteína isolada de ervilha, em foto oficial da loja",
@@ -118,150 +220,32 @@
           "objectFit": "contain",
           "aspectRatio": 1
         }
-      ]
-    },
-    {
-      "heading": "Para quem conta calorias e carboidratos",
-      "paragraphs": [
-        "Quem pergunta se um whey serve para emagrecer encontra aqui o que o rótulo diz por dose. Não é promessa de efeito: calorias e carboidratos são números da embalagem, e quem define a dieta é o nutricionista."
       ],
       "comparisonTable": {
-        "caption": "A loja informa: valores por dose, das tabelas nutricionais de cada página.",
+        "caption": "Opções da Adaptogen sem par direto de preço levantado na Growth. A conta com CECILIA é calculada sobre o cartão.",
         "headers": [
           "Produto",
-          "Dose e proteína",
-          "Calorias",
-          "Carboidratos"
+          "Porção / proteína",
+          "Cartão, embalagem",
+          "Por 100 g de proteína com CECILIA"
         ],
         "rows": [
           [
-            "Growth 100% Whey Protein Concentrado 900 g",
-            "30 g, 21 g de proteína",
-            "121 kcal",
-            "4,5 g"
+            "100% Beef 900 g",
+            "32 g / 25 g",
+            "R$ 236,56",
+            "R$ 30,28"
           ],
           [
-            "Adaptogen Gold Whey 900 g",
-            "30 g, 21 g de proteína",
-            "115 kcal",
-            "5 g"
-          ],
-          [
-            "Growth 3W Whey Protein 1 kg",
-            "30 g, 24 g de proteína",
-            "118 kcal",
-            "2,5 g"
-          ],
-          [
-            "Adaptogen Tasty Whey 3W Gourmet 900 g",
-            "34 g, 24 g de proteína",
-            "134 kcal",
-            "4,3 g"
-          ],
-          [
-            "Adaptogen Adapto Whey 3W 900 g",
-            "32 g, 25 g de proteína",
-            "128 kcal",
-            "2,5 g"
-          ],
-          [
-            "Growth (TOP) Whey Protein Isolado 1 kg",
-            "30 g, 27 g de proteína",
-            "116 kcal",
-            "2 g"
-          ],
-          [
-            "Adaptogen Tasty Iso 900 g",
-            "30 g, 25 g de proteína",
-            "115 kcal",
-            "1,5 g"
-          ],
-          [
-            "Growth Whey Protein Zero Lactose 1 kg",
-            "30 g, 23 g de proteína",
-            "120 kcal",
-            "2,3 g"
-          ],
-          [
-            "Adaptogen 100% Beef 900 g",
-            "32 g, 25 g de proteína",
-            "120 a 125 kcal",
-            "2,5 a 4 g"
+            "Vegan Iso 450 g",
+            "33 g / 24 g",
+            "R$ 221,76",
+            "R$ 60,98"
           ]
         ]
       },
       "postParagraphs": [
-        "Por dose, o Tasty Iso e o Gold Whey têm o menor valor calórico da tabela, 115 kcal cada, e o Tasty Iso tem o menor carboidrato, 1,5 g. O isolado da Growth fica colado, com 116 kcal e 2 g, e leva 27 g de proteína na mesma dose de 30 g. As doses não são iguais: vão de 30 g a 34 g, conforme o produto.",
-        "A Growth informa os açúcares de cada um: 3,3 g no concentrado, 1,1 g no 3W, 0 g no isolado e 1,7 g no zero lactose. Na Adaptogen, o número que temos é o de açúcares adicionados: 0 g no Gold, no Tasty Whey 3W e no Tasty Iso. Açúcar adicionado não é o açúcar total, então as duas linhas não se comparam direto."
-      ]
-    },
-    {
-      "heading": "Para quem quer mais proteína por dose",
-      "paragraphs": [
-        "Para quem pergunta se serve para ganhar massa, o número a olhar é a proteína por dose e por 100 g de pó. A tabela mostra só quanto de proteína há em cada dose, sem promessa de resultado: isso depende da dieta e do treino, e quem monta a dieta é o nutricionista."
-      ],
-      "comparisonTable": {
-        "caption": "Proteína por 100 g de pó é conta nossa: proteína da dose ÷ gramas da dose × 100.",
-        "headers": [
-          "Produto",
-          "Proteína por dose",
-          "Proteína por 100 g de pó"
-        ],
-        "rows": [
-          [
-            "Growth (TOP) Whey Protein Isolado 1 kg",
-            "27 g em 30 g",
-            "90 g"
-          ],
-          [
-            "Adaptogen Tasty Iso 900 g",
-            "25 g em 30 g",
-            "83 g"
-          ],
-          [
-            "Growth 3W Whey Protein 1 kg",
-            "24 g em 30 g",
-            "80 g"
-          ],
-          [
-            "Adaptogen Adapto Whey 3W 900 g",
-            "25 g em 32 g",
-            "78 g"
-          ],
-          [
-            "Adaptogen 100% Beef 900 g",
-            "25 g em 32 g",
-            "78 g"
-          ],
-          [
-            "Growth Whey Protein Zero Lactose 1 kg",
-            "23 g em 30 g",
-            "77 g"
-          ],
-          [
-            "Adaptogen Vegan Iso 450 g",
-            "24 g em 33 g",
-            "73 g"
-          ],
-          [
-            "Adaptogen Tasty Whey 3W Gourmet 900 g",
-            "24 g em 34 g",
-            "71 g"
-          ],
-          [
-            "Growth 100% Whey Protein Concentrado 900 g",
-            "21 g em 30 g",
-            "70 g"
-          ],
-          [
-            "Adaptogen Gold Whey 900 g",
-            "21 g em 30 g",
-            "70 g"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "O isolado da Growth tem a maior proteína por dose entre os produtos listados, 27 g em 30 g, mas, pela página, contém lactose. O Tasty Iso, com 25 g em 30 g, vem logo depois, e a página dele informa zero lactose. Entre os 3W, o da Growth tem 80 g de proteína em 100 g de pó, contra 78 g do Adapto Whey e 71 g do Tasty Whey."
+        "A Beef declara de 120 a 125 kcal e de 2,5 a 4 g de carboidratos por porção, conforme a tabela de sabor lida. O Vegan Iso declara 130 kcal e 2,7 g de carboidratos. A Beef custa menos que o whey Zero Lactose da Growth nesta conta, mas isso compara fontes diferentes; não demonstra que seja uma alternativa nutricional equivalente."
       ]
     },
     {
@@ -269,98 +253,60 @@
       "paragraphs": [
         "Aqui vale só a contagem de sabores que cada página informa, e os formatos. A Adaptogen tem 23 sabores no Tasty Whey 3W, 9 no Gold Whey, 7 no Tasty Iso e 6 no Adapto Whey 3W. A 100% Beef e o Vegan Iso têm 3 cada um.",
         "Na Growth, o concentrado, o 3W e o isolado têm 3 sabores cada, e o Zero Lactose tem 5. O concentrado vem em 450 g, 750 g e 900 g; o Zero Lactose, em 450 g e 1 kg; o 3W e o isolado, em 1 kg. Na Adaptogen, o Tasty Whey 3W também vem em pack de 12 sachês de 34 g, e o Adapto Whey em bag de 2,2 kg.",
-        "Sabor é gosto, e não provamos nenhum deles: aqui só entra a contagem."
+        "Confira quais sabores estão disponíveis: a quantidade anunciada no catálogo não significa que todos estejam à venda no momento da compra."
       ]
     },
     {
-      "heading": "E o preço?",
+      "heading": "Preço com o cupom: a Growth ganha nos quatro pares",
       "paragraphs": [
-        "Os preços da Adaptogen foram lidos na vitrine de campanha da Black Friday, explicada no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen). Os da Growth são os do site dela, no mesmo dia.",
+        "Os preços da Adaptogen foram lidos na vitrine de campanha da Black Friday, explicada no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen). Os da Growth são os do site dela, lidos no mesmo dia, 18 de novembro de 2026.",
         "A coluna com o CECILIA é conta nossa: 10% sobre o preço do cartão da Adaptogen. Nos nossos testes, o cupom somou com os preços de campanha, mas o desconto foi confirmado em carrinho com outros produtos da loja, não com estes wheys."
       ],
       "comparisonTable": {
-        "caption": "Conta nossa: preço do cartão ÷ (peso do pote ÷ porção × proteína por porção) × 100. A Growth aparece sem cupom, porque não é parceira.",
+        "caption": "Preço por 100 g de proteína, sem frete. Adaptogen com 10% do CECILIA calculados sobre o cartão da campanha; Growth no cartão publicado, sem cupom nosso.",
         "headers": [
-          "Produto",
-          "Preço no cartão",
-          "Por 100 g de proteína, cartão",
-          "Por 100 g de proteína, com o CECILIA"
+          "Par",
+          "Adaptogen com CECILIA",
+          "Growth, cartão",
+          "Menor custo"
         ],
         "rows": [
           [
-            "Growth 100% Whey Protein Concentrado 900 g",
-            "R$ 133,22",
-            "R$ 21,15",
-            "sem cupom"
+            "Concentrado",
+            "Gold: R$ 31,93",
+            "100% Whey: R$ 21,15",
+            "Growth"
           ],
           [
-            "Adaptogen Gold Whey 900 g",
-            "R$ 223,48",
-            "R$ 35,47",
-            "R$ 31,93"
+            "3W",
+            "Tasty: R$ 38,28; Adapto: R$ 35,78",
+            "3W: R$ 34,01",
+            "Growth"
           ],
           [
-            "Growth 3W Whey Protein 1 kg",
-            "R$ 272,11",
-            "R$ 34,01",
-            "sem cupom"
+            "Isolado",
+            "Tasty Iso: R$ 47,02",
+            "(TOP) Isolado: R$ 41,96",
+            "Growth"
           ],
           [
-            "Adaptogen Tasty Whey 3W Gourmet 900 g",
-            "R$ 270,20",
-            "R$ 42,53",
-            "R$ 38,28"
-          ],
-          [
-            "Adaptogen Adapto Whey 3W 900 g",
-            "R$ 279,55",
-            "R$ 39,76",
-            "R$ 35,78"
-          ],
-          [
-            "Growth (TOP) Whey Protein Isolado 1 kg",
-            "R$ 377,66",
-            "R$ 41,96",
-            "sem cupom"
-          ],
-          [
-            "Adaptogen Tasty Iso 900 g",
-            "R$ 391,80",
-            "R$ 52,24",
-            "R$ 47,02"
-          ],
-          [
-            "Growth Whey Protein Zero Lactose 1 kg",
-            "R$ 288,78",
-            "R$ 37,67",
-            "sem cupom"
-          ],
-          [
-            "Adaptogen 100% Beef 900 g",
-            "R$ 236,56",
-            "R$ 33,64",
-            "R$ 30,28"
-          ],
-          [
-            "Adaptogen Vegan Iso 450 g",
-            "R$ 221,76",
-            "R$ 67,76",
-            "R$ 60,98"
+            "Declarado zero lactose",
+            "Tasty Iso: R$ 47,02",
+            "Zero Lactose: R$ 37,67",
+            "Growth"
           ]
         ]
       },
       "postParagraphs": [
-        "Por 100 g de proteína, a Growth sai mais barata no concentrado, no 3W, no isolado e no zero lactose, mesmo com o cupom na Adaptogen. Os pares principais são o Gold Whey com o concentrado, o Tasty Whey 3W com o 3W, e o Tasty Iso com o isolado e com o zero lactose.",
-        "A exceção é a 100% Beef, que não é whey: ela custa menos que o Zero Lactose da Growth, mas não encontramos proteína de carne no site da Growth para comparar de igual para igual.",
-        "O Vegan Iso sai a R$ 60,98 por 100 g de proteína com o CECILIA, o valor mais alto da tabela. A Growth também vende proteína vegetal, mas o preço dela não entrou nesta conta, então essa linha fica sem par.",
-        "No Pix, a Growth sai 10% abaixo do cartão, e a Adaptogen, 5%. São descontos à parte, e a tabela não soma nenhum deles ao cupom. Quem quer sair da Growth pelo preço tem outro texto: [alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey). Aqui a pergunta é qual das duas serve à sua dieta."
+        "A Growth mantém o menor custo por proteína nos quatro pares, mesmo com o CECILIA na Adaptogen. A Beef e o Vegan Iso ficaram em capítulo separado, pois não são whey nem tiveram par direto de preço levantado.",
+        "No Pix, a Growth anuncia 10% abaixo do cartão e a Adaptogen, 5%. As tabelas usam apenas o cartão para manter a mesma base. Quem procura trocar a Growth pelo menor preço pode consultar [alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
       ]
     },
     {
       "heading": "Cupom, Pix e frete",
       "paragraphs": [
         "O cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout, para cliente novo e antigo. Depois de digitar o código e clicar em Aplicar, aparecem o aviso Cupom aplicado e a linha Cupom no resumo.",
-        "A página do [cupom Adaptogen](/cupons/adaptogen) reúne o código e as condições, e o passo a passo está no [guia de como usar o código](/reviews/cupom-adaptogen-como-usar). Não abrimos o pagamento, então o Pix mostrado aqui é o da vitrine.",
+        "As condições estão na página do [cupom Adaptogen](/cupons/adaptogen), e o campo aparece no [guia de aplicação](/reviews/cupom-adaptogen-como-usar). O CECILIA vale também no Pix e no boleto, para os quais a loja anuncia 5%; confira os dois descontos no resumo antes de pagar.",
         "A Growth não é parceira: não há cupom nem link de afiliado dela neste texto."
       ],
       "comparisonTable": {
@@ -406,13 +352,20 @@
       ]
     },
     {
+      "heading": "Adaptogen ou Growth: qual escolher?",
+      "paragraphs": [
+        "Se o critério é custo por proteína nos wheys comparados, a escolha é a Growth. Para zero lactose, ela também tem uma opção declarada e mais barata que o Tasty Iso nesta conta.",
+        "A Adaptogen entra por uma preferência concreta: um sabor anunciado do Tasty, a escolha específica do Tasty Iso ou a proteína de carne da Beef, que não encontramos no catálogo da Growth. Isso não comprova melhor sabor, digestão ou resultado. Confira o rótulo, a variação disponível e o total entregue antes de decidir."
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Tasty Whey ou Growth: qual tem mais proteína por dose? Entre os dois 3W, a proteína é igual por dose, 24 g, mas a dose da Growth é de 30 g e a da Adaptogen, de 34 g. Por 100 g de pó, o 3W da Growth tem 80 g de proteína, e o Tasty Whey, 71 g, conta nossa com os rótulos.",
         "Qual das duas tem whey sem lactose? Da Adaptogen, o Tasty Iso, que a página descreve como zero lactose. Da Growth, o Whey Protein Zero Lactose, com 0 g de lactose pela página; o isolado da Growth contém lactose. Confira o rótulo do sabor: o Cookies and Cream do Tasty Iso tem glúten.",
         "A Growth tem proteína de carne? Não encontramos proteína de carne no site da Growth. A Adaptogen vende a 100% Beef, com 25 g de proteína em cada dose de 32 g.",
         "Gold Whey ou o concentrado da Growth? Pelo rótulo, são parecidos: 21 g de proteína em 30 g, com 115 kcal no Gold e 121 kcal no concentrado da Growth. Por 100 g de proteína, a Growth sai mais barata: R$ 21,15 contra R$ 35,47 do Gold no cartão, ou R$ 31,93 com o CECILIA.",
-        "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. No Pix e no boleto, a vitrine mostra 5% abaixo do cartão, um desconto à parte do cupom."
+        "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. Ele vale também no Pix e no boleto, para os quais a loja anuncia 5%; confira os dois descontos no resumo."
       ]
     }
   ]
