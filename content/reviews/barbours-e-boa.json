@@ -48,11 +48,11 @@
   ],
   "decision": {
     "takeIf": [
-      "Você procura um desodorante colônia de 200 ml, a categoria em que a loja classifica o body splash.",
-      "Você quer um body splash e vai usar os 10% do código CECILIALINHARES."
+      "Você quer conhecer a proposta de um desodorante colônia em frasco de 200 ml e aceita escolher pela descrição da loja.",
+      "Você já escolheu uma fragrância e vai conferir o total com CECILIALINHARES, o frete e o prazo antes de pagar."
     ],
     "skipIf": [
-      "Você procura perfume. A loja classifica o body splash como desodorante colônia, e a fixação que ela promete não passou por teste nosso.",
+      "Você precisa de uma duração em horas comprovada antes de comprar: este guia não tem teste de fixação.",
       "Você tem pressa. A loja informa prazo médio de 7 a 10 dias úteis."
     ]
   },
@@ -60,20 +60,20 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não usamos os produtos, então respondemos com o que é público. Segundo a página, o body splash é um desodorante colônia de 200 ml, e o My Sweet Delight tem 4.580 avaliações no site da loja, a maioria de cinco estrelas. No Reclame Aqui, a loja tem RA1000 e nota 9,1 no período de maio a outubro de 2026."
+        "O body splash da Barbour's Beauty é vendido como desodorante colônia de 200 ml, e o My Sweet Delight tem média de 4,50 de 5 no site da loja. Essas avaliações não comprovam quantas horas a fragrância dura, ponto que não testamos. O cupom Barbour's CECILIALINHARES dá 10% OFF; abaixo estão as promessas e os dados disponíveis."
       ]
     },
     {
-      "heading": "O que dá para checar sem usar",
+      "heading": "O que o guia permite escolher",
       "paragraphs": [
-        "Cheiro, fixação e textura só o uso mostra. Aqui ficam o que a loja publica e os números públicos do site e do Reclame Aqui."
+        "Este guia ajuda a conferir tamanho do frasco, descrição da fragrância e preço. Cheiro na pele e duração continuam sem avaliação nossa. As estrelas do produto e a reputação de atendimento aparecem separadas, porque respondem a perguntas diferentes."
       ]
     },
     {
       "heading": "O que é o body splash da Barbour's",
       "paragraphs": [
-        "A página classifica o body splash como desodorante colônia.",
-        "A página do My Sweet Delight também cita um perfume de outra marca como referência olfativa."
+        "O My Sweet Delight é vendido em frasco de 200 ml e classificado pela loja como desodorante colônia. Na descrição da fragrância, a marca cita lichia, ruibarbo e bergamota na abertura, rosa turca e peônia no coração e notas de fundo como cedro e vetiver.",
+        "Essas são notas anunciadas pela marca, não uma descrição de uso nossa. Elas ajudam a conhecer a proposta da fragrância, mas não permitem afirmar se você vai gostar ou por quanto tempo ela ficará na pele."
       ],
       "images": [
         {
@@ -88,7 +88,7 @@
     {
       "heading": "Tem boa fixação?",
       "paragraphs": [
-        "A loja promete fragrância de longa duração e 97% mais fixação, sem dizer em relação a quê. Sem teste, não afirmamos fixação.",
+        "Não temos uma duração em horas para informar. A loja anuncia longa duração e “97% mais fixação”, mas a página não identifica o produto ou a condição usados como comparação.",
         "A página não informa o que as estrelas do site medem, então a nota geral não responde a essa pergunta."
       ]
     },
@@ -105,15 +105,35 @@
           "Parte do total"
         ],
         "rows": [
-          ["5 estrelas", "3.662", "80%"],
-          ["4 estrelas", "278", "6%"],
-          ["3 estrelas", "207", "5%"],
-          ["2 estrelas", "139", "3%"],
-          ["1 estrela", "294", "6%"]
+          [
+            "5 estrelas",
+            "3.662",
+            "80%"
+          ],
+          [
+            "4 estrelas",
+            "278",
+            "6%"
+          ],
+          [
+            "3 estrelas",
+            "207",
+            "5%"
+          ],
+          [
+            "2 estrelas",
+            "139",
+            "3%"
+          ],
+          [
+            "1 estrela",
+            "294",
+            "6%"
+          ]
         ]
       },
       "postParagraphs": [
-        "Uma em cada cinco avaliações fica abaixo de cinco estrelas, e entre elas a nota mais comum é a de uma estrela. São números que a loja publica, sem checagem independente."
+        "As cinco estrelas representam cerca de 80% das avaliações publicadas, e uma estrela, cerca de 6%. A distribuição mostra as notas exibidas, mas não identifica quanto cada pessoa avaliou de cheiro, duração, embalagem ou entrega."
       ],
       "images": [
         {
@@ -136,6 +156,13 @@
       "paragraphs": [
         "Na página, a maior parte dos body splashes de 200 ml aparece por R$ 39,90, e alguns por R$ 34,90. Os trios saem por R$ 109,90 na promoção Leve 3 Pague 2.",
         "O código CECILIALINHARES dá 10% OFF, para cliente novo e antigo. No carrinho que testamos, uma compra de R$ 109,90 saiu por R$ 98,91. As condições estão na página de [cupom Barbour's](/cupons/barbours), e o passo a passo do checkout está no [guia de como usar o cupom](/reviews/cupom-barbours-como-usar)."
+      ]
+    },
+    {
+      "heading": "Vale a pena para você?",
+      "paragraphs": [
+        "Para quem já conhece a fragrância e quer comprar online, a decisão passa pelo preço do frasco, pelo cupom e pelo total entregue. Para quem ainda não conhece, a descrição de notas ajuda a escolher uma proposta, mas as avaliações publicadas não substituem experimentar o cheiro.",
+        "Se a fixação é o critério principal, os dados publicados ainda não bastam para uma escolha segura. A oferta pode ser conferida pelos preços e pelo checkout; a duração na pele exige uma referência de uso."
       ]
     },
     {
