@@ -216,3 +216,8 @@ resumo). **O artigo cita só as duas linhas, nunca o total do print.**
 - **Capa:** `/images/reviews/bold/cupom-bold-snacks-primeira-compra-capa.webp`, "Bem-vindo, primeira compra", com a foto oficial da caixa mista de 21 g, o logo e o CECILIA15.
 - **Corpo:** o print do checkout com o código e o print da assinatura com o código.
 - **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+
+## No ar (18/11/2026)
+
+- Deploy do release `235383f3` (build Hostinger `01a1f0c5`), com o `deploy:finish` verificado, smoke 200 com a capa no CDN, `covers:check` ok, no sitemap e no `llms.txt`, e IndexNow enviado.
+- Releituras: retestar o CECILIA15 em 23/11 (fim da Pré-Black) e reler o regulamento dos brindes na fase seguinte.
