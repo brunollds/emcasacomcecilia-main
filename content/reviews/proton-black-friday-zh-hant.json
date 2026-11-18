@@ -74,7 +74,7 @@
       },
       "links": [
         {
-          "label": "查看 VPN Plus 兩年優惠",
+          "label": "透過連結領取最高 75% 折扣",
           "href": "https://go.getproton.me/SH39K",
           "sponsored": true
         }
@@ -235,7 +235,7 @@
   "cons": [],
   "cta": {
     "text": "針對新用戶，我們的連結顯示 VPN Plus 兩年一次付清 59.76 美元，Proton 公開優惠頁的相同方案和期限則為 71.76 美元。公布的續訂價為每年 83.88 美元，實際以續訂時的價格為準。請透過按鈕開啟優惠，並在付款前確認幣別和總額。",
-    "label": "查看 VPN Plus 兩年優惠",
+    "label": "透過連結領取最高 75% 折扣",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },
