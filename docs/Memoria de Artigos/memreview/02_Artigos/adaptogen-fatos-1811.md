@@ -19,8 +19,10 @@ briefings são do Job 1. Sem GO de redação: é a pesquisa semente.
 - **É a parceira nova com mais busca de todas.** Toda raiz devolve dez sugestões, a Black Friday tem busca própria (o
   que não aconteceu com L'Amazonie nem Rituária) e os produtos (Tasty Whey, HIT Protein, creatina, Panic) têm busca
   maior que a marca.
-- **AD2 e AD3 são as delicadas:** a reputação no Reclame Aqui é "Não Recomendada" (seção 3). O texto mostra o dado
-  inteiro, sem amaciar e sem dramatizar. **Antes do briefing, o Bruno decide o tom** (seção 7, pergunta 1).
+- **AD2 e AD3 estão seguradas (Bruno, 18/11: "segurar as duas").** A reputação no Reclame Aqui é "Não Recomendada"
+  (seção 3). Sem briefing e sem redação até o Bruno liberar. Os outros quatro textos não tratam de reputação: não
+  citam a nota, não dizem que a loja é confiável e não linkam para artigo de reputação. Reler o perfil no começo de
+  dezembro (os dados do semestre viram em 01/12) e levar o número novo ao Bruno.
 - **AD3 tem três ganchos próprios:** laudo (dez sugestões só de "adaptogen laudo"), nacional ou importada, e loja
   oficial fora do site (seção 4).
 - **AD5 é um artigo só para "é boa", "é bom" e "vale a pena".** As perguntas de produto ("tasty whey é isolado ou
@@ -29,7 +31,9 @@ briefings são do Job 1. Sem GO de redação: é a pesquisa semente.
   para cliente novo e antigo, sem citar cupom da loja.
 - **AD6 tem prazo e tem busca:** a campanha está no ar e o código já foi testado por cima dela (seção 5). É a primeira
   a redigir, junto com a AD1.
-- **Ordem sugerida:** AD6 e AD1, depois AD2 e AD3 (com a decisão do Bruno), por fim AD5 e AD4.
+- **Ordem:** AD6 e AD1, depois AD5 e AD4. AD2 e AD3 fora da fila.
+- **AD5 sem a reputação:** "é boa" fala de produto (linha, composição pelo rótulo, preço, sabor pela descrição da
+  marca). Se o leitor perguntar de entrega e atendimento, o texto dá as políticas da loja (seção 6), sem a nota.
 
 ## 2. Regras que valem para os seis
 
@@ -136,8 +140,8 @@ e Fórmulas, site adaptogen.com.br, 6 anos no Reclame Aqui. **Sem o selo de empr
   R$ 265,59 no Pix. O "de" é o preço declarado pela loja; não escrever "economize".
 - **O nosso código entrou por cima dos preços da campanha** (dois carrinhos de 18/11). É a resposta central da AD6.
   Refazer o teste na semana de 27/11 antes de afirmar para o dia.
-- **Entrega na Black Friday:** as reclamações recentes são de atraso (seção 3). A AD6 diz isso com o dado, e lembra o
-  prazo de desistência de 7 dias.
+- **Entrega na Black Friday:** a AD6 lembra o prazo de desistência de 7 dias e manda conferir o prazo de entrega no
+  carrinho, sem citar o Reclame Aqui (AD2 e AD3 seguradas).
 
 ## 6. Políticas da loja (dossiê, lidas em 18/11/2026 pela sessão de cupons)
 
@@ -151,9 +155,8 @@ e Fórmulas, site adaptogen.com.br, 6 anos no Reclame Aqui. **Sem o selo de empr
 
 ## 7. Perguntas para o Bruno
 
-1. **A reputação no Reclame Aqui é "Não Recomendada" (4,9).** A AD2 e a AD3 saem com o dado inteiro, ou prefere
-   segurar as duas e publicar só cupom, Black Friday e "é boa" por enquanto? Minha sugestão: publicar, com o dado e as
-   proteções do comprador; esconder a nota de quem busca "adaptogen reclame aqui" não se sustenta.
+1. ~~A AD2 e a AD3 saem com a nota 4,9 inteira?~~ **Respondido em 18/11: segurar as duas.** Saem só cupom, Black
+   Friday, primeira compra e "é boa".
 2. A Cecília recebeu ou usa algum produto da Adaptogen?
 3. A parceira passou datas ou regras da Black Friday?
 4. Existe valor mínimo ou limite de usos do código? O Adapto Cash soma com o cupom?
