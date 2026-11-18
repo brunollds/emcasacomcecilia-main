@@ -55,7 +55,8 @@ finalizar compra. Os briefings são do Job 1. Sem GO de redação ainda: o Bruno
 - **Suplemento não trata nem emagrece.** As buscas pedem "emagrece", "funciona para melasma", "para que serve". O
   texto cita a alegação como da marca, pelo rótulo, sem prometer efeito, e manda ao médico ou nutricionista quem toma
   remédio, está grávida ou amamenta. "Emagrece" não vira título.
-- **Experiência própria: sem resposta do Bruno** (seção 7). Até lá, só fontes públicas, sem "testamos".
+- **Experiência própria: não há.** A Cecília não recebeu nem usa produto da Rituária (Bruno, 17/11: "só fontes
+  públicas"). Os seis textos saem só com fontes públicas, sem "testamos" nem impressão de uso.
 
 ## 3. Reclame Aqui (lido em 17/11/2026)
 
@@ -139,7 +140,7 @@ Bebidas - Suplementos Alimentares e Fórmulas, site rituaria.com.br, 5 anos no R
 
 ## 7. Perguntas para o Bruno
 
-1. A Cecília recebeu ou usa algum produto da Rituária? Sem isso, a RT5 sai só com fontes públicas.
+1. ~~A Cecília recebeu ou usa algum produto da Rituária?~~ **Respondido em 17/11: não, só fontes públicas.**
 2. A parceira passou datas ou regras da Black Friday, e disse se o EMCASA soma com o "Leve 3, Pague 2"?
 3. Existe valor mínimo ou limite de usos do código?
 
