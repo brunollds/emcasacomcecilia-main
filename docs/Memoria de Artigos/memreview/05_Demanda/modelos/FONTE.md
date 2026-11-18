@@ -16,6 +16,10 @@ Copiar para dentro da pasta da coleta e preencher. Campo que não cabe leva `@na
 | Filtros | |
 | Paginação | páginas pedidas e páginas obtidas |
 | Cobertura | `completa` ou `parcial`, e o que foi alcançado |
+| Modalidade | `arquivo-original`, `texto-extraido`, `trecho-literal`, `captura` ou `resumo-coletor` (pode ser mais de uma, por arquivo) |
+| Export | completo, ou cortado no limite de linhas da plataforma (quantas) |
+| Cadastro lido | só no `_site/`: commit de `src/lib/couponsData.ts` e de `content/` que o processamento leu |
+| Bloqueio | nenhum, ou o primeiro 429/403/CAPTCHA: hora, endereço e o que ficou de fora |
 
 ## Arquivos
 
@@ -24,6 +28,11 @@ Copiar para dentro da pasta da coleta e preencher. Campo que não cabe leva `@na
 | `arquivo.json` | | | repositório |
 
 Hash: `sha256sum <arquivo>` no Bash. Arquivo fora do repositório leva a localização compartilhada na última coluna.
+
+## Conferência dos arquivos
+
+Num checkout limpo da `main`, depois do merge: cada arquivo da tabela existe, com o mesmo tamanho e o mesmo SHA-256, e
+nenhum foi barrado pelo `.gitignore` (`git check-ignore -v <arquivo>`). Data, sessão e resultado.
 
 ## Falhas e lacunas
 

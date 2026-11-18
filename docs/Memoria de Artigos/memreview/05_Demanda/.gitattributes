@@ -1,3 +1,7 @@
 # O bruto fica byte a byte como foi coletado: sem troca de quebra de linha, para o SHA-256 do FONTE.md conferir.
 parceiros/*/1-bruto/** -text
 _site/*/** -text
+# Processados, scripts e saídas em LF em qualquer checkout (fluxo v2, 18/11/2026). Os arquivos já estão em LF no índice.
+parceiros/*/2-processado/** text eol=lf
+parceiros/*/3-matriz/** text eol=lf
+parceiros/*/4-saida/** text eol=lf
