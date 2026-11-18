@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2) na sessão de artigos"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer o carrinho do Leve 3, Pague 2 na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "RT5"
@@ -273,3 +273,19 @@ que decide). Nenhuma foto de antes e depois nem de kit de melasma. Opções e pr
   escrito no texto (o 4Mag de 30 dias com 2 cápsulas por dia é dedução nossa e o artigo diz isso), salvo se a redação
   ler o rótulo na página do produto.
 - Pauta aprovada; handoff para a redação em 18/11.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1053), com as regras do handoff e os fatos de [[rituaria-fatos-1711]] (a seção 9 prevalece).
+- **Job 3:** revisão do Fable 5.2, aplicada. Depois, o parecer externo do Farol (ChatGPT/Codex, em `docs/auditoria-copy-artigos/rituaria-rt1-rt6-20261118-farol/`, fora do Git) que o Bruno colou: 69 propostas nos seis artigos, cada uma conferida contra os fatos e as regras por um agente e contestada por um segundo. Uma foi recusada (a RT5 mantém "Não encontramos resenha de veículo ou de nutricionista sem código de desconto", que a busca de 18/11 sustenta); as outras foram aplicadas, várias com ajuste.
+- **Regras que o parecer não podia furar:** nada de "sem mínimo" ou "sem limite"; Pix à parte do cupom; cashback só como vantagem da loja; nenhum código de terceiro nem da loja; nenhum produto "registrado", "aprovado" ou "notificado"; sem promessa de efeito; resposta rápida sem link.
+- **Novo eixo (parecer do Farol):** composição, porção, rendimento e preço por porção dentro da mesma fórmula, com três quadros, um por produto. O 4Mag declara 99 mg de magnésio por duas cápsulas; a arte da NAC diz "L-Cisteína" na tabela e N-acetil-L-cisteína no pote; a Prebiótica tem porção de 6,6 g na tabela e dosador de 6 g no modo de uso. A NAC 90 dias segue fora da conta.
+- **Leve 3 com três 4Mag:** conta escrita como hipótese (R$ 1,20 por porção), com a ressalva de que a promoção não foi testada com três unidades do mesmo produto.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/rituaria-e-boa-capa.webp`, "É boa? / Composição e preço" e o EMCASA, com a mulher segurando o Complexo B (imagem publicada pela loja). A chamada "Funciona?" saiu pelo parecer; o Bruno escolheu manter a foto (opção A) em vez da Prebiótica de rótulo novo.
+- **O que a Rituária vende:** o banner de skincare da home (`rituaria-e-boa-skincare.webp`).
+- **4Mag, Prebiótica e NAC:** as imagens oficiais com a tabela nutricional de cada um (`rituaria-e-boa-4mag.webp`, `-prebiotica.webp`, `-nac.webp`).
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

@@ -1,0 +1,148 @@
+{
+  "id": 1052,
+  "slug": "rituaria-e-confiavel",
+  "locale": "pt",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "18 de novembro de 2026",
+  "publishedAtISO": "2026-11-18",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "rituaria",
+  "title": "Rituária é confiável? CNPJ, Anvisa, pagamento e trocas",
+  "seoTitle": "Rituária é confiável? CNPJ, Anvisa e trocas",
+  "type": "Editorial",
+  "description": "Quem vende no site da Rituária, o que falta confirmar sobre a regularização dos produtos, como consultar os dados do rótulo e quais são as regras de compra e devolução.",
+  "metaDescription": "Com o EMCASA, 10% OFF na Rituária. Antes, veja quem vende, o que o site diz da Anvisa, a nota no Reclame Aqui e as regras de troca.",
+  "image": "/images/reviews/rituaria/rituaria-e-confiavel-capa.webp",
+  "imageAlt": "Logo da Rituária, a pergunta “É confiável?” e o código EMCASA, ao lado da Vitamina D3 e da Fórmula da Imunidade, em foto oficial da loja.",
+  "cta": {
+    "text": "Para comprar, abra o site oficial pelo botão, siga para o checkout e digite EMCASA no campo “Tem um cupom?”.",
+    "label": "Ir para a Rituária",
+    "url": "https://www.rituaria.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com dados públicos da empresa, da Anvisa, do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "rituaria-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "rituaria-e-boa"
+    },
+    {
+      "slug": "cupom-rituaria-como-usar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Rituária informa CNPJ no site e tem reputação máxima (RA1000) no Reclame Aqui, mas a regularização dos produtos ainda não foi confirmada nesta apuração. Antes de comprar, peça os dados do rótulo e confira entrega e devolução. Se decidir comprar no site oficial, o cupom EMCASA dá 10% OFF."
+      ]
+    },
+    {
+      "heading": "Quem está por trás da Rituária",
+      "paragraphs": [
+        "No rodapé do site, a empresa aparece como Beauty Hub Varejo Ltda, com CNPJ 60.453.162/0001-07 e endereço em Serra, no Espírito Santo.",
+        "O perfil da marca no Reclame Aqui traz outro número, o CNPJ 60.453.162/0003-79. Os dois têm a mesma raiz, 60.453.162, que é a parte do CNPJ que identifica a empresa.",
+        "A página Sobre Nós diz que a marca nasceu em 2021, “idealizada pela Gabi”, e se apresenta como marca brasileira de dermocosméticos, suplementos e superfoods.",
+        "Para escolher um suplemento, confira também quem fabrica a fórmula e os dados de regularização do produto."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/rituaria/rituaria-e-confiavel-rodape-cnpj.webp",
+          "alt": "Rodapé do site da Rituária com a razão social Beauty Hub Varejo Ltda, o CNPJ 60.453.162/0001-07 e o endereço em Serra (ES).",
+          "caption": "Rodapé do site da Rituária, com a razão social e o CNPJ.",
+          "objectFit": "contain",
+          "aspectRatio": 4.0120481927710845
+        }
+      ]
+    },
+    {
+      "heading": "O que o Reclame Aqui mostra",
+      "paragraphs": [
+        "No recorte de 01/05/2026 a 31/10/2026, a Rituária tinha reputação máxima (RA1000), selo de empresa verificada e todas as reclamações respondidas. Entre as avaliadas, 93,8% constavam como resolvidas.",
+        "O outro lado: a resposta leva, em média, mais de quatro dias, e o problema mais citado na aba geral do perfil é produto não recebido.",
+        "Parte das reclamações recentes fala de devolução, cancelamento e brinde não enviado. A análise completa, com os números e o histórico, está na [nota da Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao)."
+      ]
+    },
+    {
+      "heading": "A Rituária e a Anvisa",
+      "paragraphs": [
+        "A página Sobre Nós tem o título “Registro na Anvisa”, sem número e sem texto embaixo. Um kit de pele diz que as fórmulas são “registradas na ANVISA e dermatologicamente testadas”. Nas descrições de produto do site, só esse kit cita a agência. Sem produto nem número, essa informação não permite conferir a regularização de nenhuma fórmula.",
+        "Conta nossa: nos arquivos de dados abertos da Anvisa sobre alimentos e cosméticos que lemos para este guia, nenhuma linha traz o nome Rituária, o da empresa do rodapé ou o número 60.453.162. Isso não quer dizer que o produto é irregular. As linhas trazem o fabricante, não a marca, e nomes genéricos, então sem o rótulo não dá para ligar um produto a uma linha.",
+        "A regra geral está na [página da Anvisa sobre como saber se um suplemento alimentar é autorizado](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/como-saber-se-um-suplemento-alimentar-e-autorizado). Segundo ela, as regras estão em transição, e um produto regularizado aparece de três formas: com a frase “Alimento registrado na Anvisa” e o número do registro; com a frase “Alimento notificado na Anvisa” e o número do processo; ou regularizado só na vigilância sanitária local, que não tem banco de dados; nesse caso, a dúvida vai à vigilância da cidade onde o produto foi fabricado. Nos dois primeiros casos, a busca é no portal de consultas da Anvisa, em busca avançada, e “Ativo” quer dizer regularizado.",
+        "Antes de comprar, peça à loja uma foto legível do rótulo, com o nome e o endereço completo do fabricante e a frase de regularização. Não precisa esperar a caixa chegar para perguntar.",
+        "Nossa apuração ainda não ligou nenhum produto da Rituária ao fabricante e à regularização. Por isso, este guia não confirma a regularização de nenhum produto da marca.",
+        "Quem toma remédio, está grávida ou amamenta deve falar com médico ou nutricionista antes de usar suplementos."
+      ]
+    },
+    {
+      "heading": "Site e pagamento: o endereço oficial e as formas de pagar",
+      "paragraphs": [
+        "O site oficial é rituaria.com.br. O carrinho leva direto ao checkout da própria loja, em seguro.rituaria.com.br, e é lá que o pagamento acontece.",
+        "A loja aceita cartão em até 3 vezes sem juros e Pix. O Pix tem 5% de desconto, mostrado no checkout, à parte do cupom.",
+        "A loja também anuncia cashback de 10% para a próxima compra. Pelos termos, desconto e cashback não são cumulativos, e só se pode escolher um benefício por compra.",
+        "Antes de pagar, digite o endereço do site na barra do navegador e confira se o checkout está em seguro.rituaria.com.br.",
+        "Como o cupom EMCASA entra no checkout, passo a passo, está no [guia de uso do cupom EMCASA](/reviews/cupom-rituaria-como-usar)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
+          "alt": "Resumo do checkout da Rituária com o cupom EMCASA no campo Tem um cupom?, o aviso Desconto (- R$ 11,98), a linha Descontos e o total de R$ 107,82",
+          "caption": "Resumo do checkout da Rituária com o EMCASA aplicado. A imagem mostra o desconto, não confirma a soma com o Pix.",
+          "objectFit": "contain",
+          "aspectRatio": 0.894
+        }
+      ]
+    },
+    {
+      "heading": "Trocas e arrependimento: sete dias para desistir",
+      "paragraphs": [
+        "Quem desiste da compra tem sete dias corridos depois do recebimento para devolver o produto. Pela política da loja, a devolução é gratuita e o reembolso sai integral, com o frete.",
+        "A loja pede produto completo e sem sinais de uso. O pedido sai pelo portal de trocas da loja, com número do pedido, foto do produto e da embalagem e nota fiscal.",
+        "Defeito, avaria ou produto errado são outro caso. Recuse a entrega se a embalagem estiver violada ou o produto for diferente do pedido. Se perceber depois, fale com a loja em até 30 dias corridos depois do recebimento.",
+        "A loja informa que não há troca por insatisfação depois do uso. O cancelamento só vale antes de o pedido ser separado no centro de distribuição; depois disso, o caminho é recusar a entrega ou devolver.",
+        "O [artigo 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) dá sete dias para desistir de compra feita fora do estabelecimento comercial, e a compra pelo site entra nesse caso. Aqui, a regra da loja e a lei dão o mesmo prazo.",
+        "O atendimento responde de segunda a sexta-feira, das 8h às 17h, pelo chat do site e pelo Direct do Instagram."
+      ]
+    },
+    {
+      "heading": "Mercado Livre, Amazon e farmácia: o que dá para conferir",
+      "paragraphs": [
+        "O EMCASA vale no site oficial da Rituária. A presença do nome da marca em um anúncio de marketplace, sozinha, não identifica quem está vendendo.",
+        "Antes de comprar no Mercado Livre ou na Amazon, confira quem vende, quem emite a nota fiscal e se o anúncio mostra loja oficial. Não concluímos essa conferência, nem a de farmácias."
+      ]
+    },
+    {
+      "heading": "Dá para confiar: o que está à vista e o que falta conferir",
+      "paragraphs": [
+        "O site mostra CNPJ e políticas de compra, e a reputação no Reclame Aqui é a máxima, RA1000. A entrega merece atenção: produto não recebido é a queixa mais citada na aba geral do perfil. Para o produto que você pretende comprar, peça antes os dados do rótulo, porque a regularização de cada fórmula ainda não foi conferida.",
+        "Se decidir comprar, o cupom EMCASA dá 10% OFF no site oficial, para cliente novo e antigo. As condições estão na página do [cupom Rituária](/cupons/rituaria). Este artigo é sobre a loja; o que dá para saber dos produtos está em [Rituária é boa?](/reviews/rituaria-e-boa)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Rituária é confiável? Para comprar no site oficial, os dados à vista são o CNPJ no rodapé, a reputação no Reclame Aqui e as regras de troca. O que falta conferir é a Anvisa, produto a produto, pelo rótulo.",
+        "A Rituária é aprovada pela Anvisa? Não confirmamos a regularização dos produtos neste guia. Peça à loja os dados do rótulo, identifique o fabricante e consulte a regularização da fórmula; o texto “Registro na Anvisa” no site não substitui essa consulta.",
+        "Qual é o CNPJ da Rituária? O rodapé do site traz 60.453.162/0001-07, da Beauty Hub Varejo Ltda. O perfil no Reclame Aqui traz 60.453.162/0003-79, com a mesma raiz.",
+        "A Rituária devolve o dinheiro? Sim, segundo a política da loja: na desistência em até sete dias corridos depois do recebimento, com reembolso integral e frete, desde que o produto esteja completo e sem sinais de uso.",
+        "A Rituária vende no Mercado Livre? A busca mostra anúncios com o nome da marca, e não conferimos quem vende cada um. O cupom EMCASA é do site oficial."
+      ]
+    }
+  ]
+}

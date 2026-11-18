@@ -1,0 +1,310 @@
+{
+  "id": 1053,
+  "slug": "rituaria-e-boa",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "18 de novembro de 2026",
+  "publishedAtISO": "2026-11-18",
+  "draft": false,
+  "isNew": true,
+  "bodyDatesReason": "reclame-aqui",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "rituaria",
+  "type": "Guia de Marca",
+  "title": "Rituária é boa? Composição, preço por porção e o que conferir",
+  "seoTitle": "Rituária é boa? O que dá para conferir antes de comprar",
+  "description": "Compare a composição e o rendimento declarados de 4Mag, Prebiótica e NAC, veja o preço com o EMCASA e saiba o que confirmar na embalagem antes de comprar cada fórmula.",
+  "metaDescription": "EMCASA dá 10% OFF na Rituária. Veja o que a loja informa do 4Mag, da Prebiótica e da NAC e o custo por porção.",
+  "image": "/images/reviews/rituaria/rituaria-e-boa-capa.webp",
+  "imageAlt": "Logo da Rituária, a chamada “É boa? Composição e preço” e o código EMCASA, ao lado de uma mulher segurando o pote do Complexo B, em imagem publicada pela loja.",
+  "cta": {
+    "text": "Se a Rituária faz sentido para a sua compra, abra o site oficial pelo botão. O código entra no checkout, no campo “Tem um cupom?”.",
+    "label": "Ir para a Rituária",
+    "url": "https://www.rituaria.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com as páginas da loja e o Reclame Aqui, sem uso dos produtos. Quem toma remédio, está grávida ou amamenta fala com o médico. Podemos receber comissão.",
+  "relatedArticles": [
+    {
+      "slug": "rituaria-e-confiavel"
+    },
+    {
+      "slug": "rituaria-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "black-friday-rituaria"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você já considera uma dessas fórmulas e quer comparar embalagens pelo que a loja declara de composição e rendimento.",
+      "O tamanho escolhido corresponde à quantidade que você pretende usar, com orientação profissional quando necessária."
+    ],
+    "skipIf": [
+      "A loja ainda não esclareceu uma divergência de composição ou de porção que muda sua escolha.",
+      "A compra depende de uma promessa de resultado que a composição e o preço, sozinhos, não comprovam.",
+      "Você toma remédio, está grávida ou amamenta e ainda não falou com o médico."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Para comparar a Rituária, confira composição, quantidade por porção e rendimento de cada fórmula. A tabela do 4Mag declara 99 mg de magnésio por duas cápsulas; na NAC, as descrições divergem. O cupom EMCASA dá 10% OFF, e os quadros abaixo comparam embalagens do mesmo produto."
+      ]
+    },
+    {
+      "heading": "O que a Rituária vende",
+      "paragraphs": [
+        "A Rituária vende suplementos em cápsula e em pó, superfoods, skincare e kits que a loja chama de rituais. O site lista mais de cem produtos, e o menu separa tudo por objetivo: intestino, sono, foco, imunidade, saúde da mulher e do homem, pele, entre outros.",
+        "A página Sobre nós diz que a marca nasceu em 2021 e se apresenta como “uma marca brasileira de dermocosméticos, suplementos e superfoods”. Esse é o retrato que a marca faz de si.",
+        "Com tanto produto, o que pesa é comparar pelo que vem dentro. Um kit com nome parecido pode ter outra fórmula, outro tamanho e outro preço por dia. Os capítulos seguintes mostram isso nos três produtos que mais aparecem nas buscas com o nome da marca."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/rituaria/rituaria-e-boa-skincare.webp",
+          "alt": "Caixas dos séruns faciais da Rituária, como a Fórmula Uniformizadora, a Hidratante Preenchedora e a Antioxidante, com a palavra skincare",
+          "caption": "Os séruns de skincare da Rituária, em imagem da home da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.1352885525070955
+        }
+      ]
+    },
+    {
+      "heading": "Como avaliar as fórmulas antes de comprar",
+      "paragraphs": [
+        "Compare a mesma fórmula e a mesma porção. O nome comercial e a quantidade de potes não bastam para dizer qual embalagem compensa."
+      ],
+      "bullets": [
+        "**Composição:** veja quais substâncias a tabela nutricional de cada produto declara e em que quantidade por porção.",
+        "**Rendimento:** confirme quantas cápsulas ou dosadores formam uma porção e quantas porções a embalagem entrega.",
+        "**Preço:** compare o total com o EMCASA dentro da mesma fórmula, considerando frete e eventuais promoções."
+      ],
+      "postParagraphs": [
+        "Os três produtos abaixo têm composições diferentes. A análise compara as embalagens de cada um, sem tratá-los como substitutos nem avaliar resultado no organismo."
+      ]
+    },
+    {
+      "heading": "O 4Mag: quatro formas de magnésio",
+      "paragraphs": [
+        "A loja informa duas cápsulas por dia para o 4Mag. O pote de 30 dias mostra 60 cápsulas, e a embalagem de 90 dias declara 180.",
+        "A imagem nutricional da loja declara, por duas cápsulas, 99 mg de magnésio, 150 mg de L-treonina e 2 mg de vitamina B6. A composição lista malato, bisglicinato, citrato e taurato de magnésio.",
+        "A página traz frases como “Auxilia na formação dos ossos e dentes”. São alegações da marca, e não as conferimos.",
+        "As massas dos compostos listadas na aba de ingredientes não equivalem à quantidade de magnésio da tabela nutricional. Para comparar com outra fórmula, use a quantidade declarada do mineral por porção."
+      ],
+      "postParagraphs": [
+        "No quadro do 4Mag, a embalagem de 180 cápsulas tem o menor custo por porção com o cupom, sem contar a promoção. Com o Leve 3, Pague 2, três potes de 30 dias poderiam sair por R$ 107,82 com o EMCASA, sem frete (R$ 1,20 por porção), menos que os R$ 1,30 do pote de 90 dias. Confira o total no checkout: a promoção ainda não foi testada com três unidades do mesmo produto."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/rituaria/rituaria-e-boa-4mag.webp",
+          "alt": "Imagem oficial da 4Mag da Rituária com o pote e a tabela nutricional",
+          "caption": "Imagem nutricional publicada pela loja: duas cápsulas de 4Mag correspondem à porção que declara 99 mg de magnésio.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "comparisonTable": {
+        "caption": "Preços de vitrine em 18/11, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de duas cápsulas. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
+        "headers": [
+          "Embalagem",
+          "Vitrine",
+          "Com EMCASA",
+          "Por porção com EMCASA"
+        ],
+        "rows": [
+          [
+            "4Mag, 30 dias",
+            "R$ 59,90",
+            "R$ 53,91",
+            "R$ 1,80"
+          ],
+          [
+            "2x 4Mag, 60 dias",
+            "R$ 99,90",
+            "R$ 89,91",
+            "R$ 1,50"
+          ],
+          [
+            "4Mag, 90 dias (180 cápsulas)",
+            "R$ 129,90",
+            "R$ 116,91",
+            "R$ 1,30"
+          ],
+          [
+            "3x Fórmulas 4Mag (90 dias) — rendimento estimado",
+            "R$ 169,90",
+            "R$ 152,91",
+            "R$ 1,70"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "A Prebiótica: cinco fibras num pó de 200 g",
+      "paragraphs": [
+        "A Prebiótica é vendida em pote de 200 g. A composição lista inulina, goma acácia, psyllium, ágar e FOS, sem informar a quantidade individual de cada fibra.",
+        "A imagem nutricional declara 30 porções de 6,6 g, com 5,8 g de fibras por porção. A imagem de modo de uso da própria página fala em 1 dosador (6 g) ou 2 (12 g).",
+        "A conta do quadro usa as 30 porções declaradas na imagem nutricional. Confirme a medida do dosador e a orientação da embalagem antes de usar essa conta como duração do pote."
+      ],
+      "postParagraphs": [
+        "Se forem utilizadas duas porções de 6,6 g por dia, as 30 porções duram 15 dias e o custo diário dobra. A conta mede rendimento e não recomenda dose."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/rituaria/rituaria-e-boa-prebiotica.webp",
+          "alt": "Imagem oficial da Prebiótica da Rituária com o pote e a tabela nutricional",
+          "caption": "A tabela nutricional da Prebiótica, em imagem da própria loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "comparisonTable": {
+        "caption": "Preços de vitrine, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de 6,6 g.",
+        "headers": [
+          "Embalagem",
+          "Vitrine",
+          "Com EMCASA",
+          "Por porção com EMCASA"
+        ],
+        "rows": [
+          [
+            "Prebiótica, 200 g (30 porções)",
+            "R$ 79,90",
+            "R$ 71,91",
+            "R$ 2,40"
+          ],
+          [
+            "2 Prebióticas (60 porções)",
+            "R$ 139,90",
+            "R$ 125,91",
+            "R$ 2,10"
+          ],
+          [
+            "3 Prebióticas (90 porções)",
+            "R$ 179,90",
+            "R$ 161,91",
+            "R$ 1,80"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "NAC: confirme a composição antes de comparar",
+      "paragraphs": [
+        "A página apresenta a fórmula como N-acetil-L-cisteína com selênio e molibdênio. A arte nutricional mostra 600 mg de “L-Cisteína”, 68 mcg de selênio e 45 mcg de molibdênio por cápsula; na embalagem da mesma imagem está escrito N-acetil-L-cisteína.",
+        "A nomenclatura da arte e a da embalagem não coincidem. Antes de comparar essa composição com a de outra NAC, peça à loja a confirmação do nome do ativo e uma foto do rótulo.",
+        "Para o rendimento, a página informa uma cápsula por dia, e o pote de 30 dias declara 30 cápsulas. Os preços abaixo usam essa quantidade declarada, sem avaliar a adequação do uso."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/rituaria/rituaria-e-boa-nac.webp",
+          "alt": "Imagem oficial da NAC da Rituária com o pote e a tabela nutricional",
+          "caption": "A arte da loja escreve “L-Cisteína” na tabela e “N-acetil-L-cisteína” na embalagem.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "comparisonTable": {
+        "caption": "Preços de vitrine, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de uma cápsula. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
+        "headers": [
+          "Embalagem",
+          "Vitrine",
+          "Com EMCASA",
+          "Por porção com EMCASA"
+        ],
+        "rows": [
+          [
+            "NAC, 30 dias",
+            "R$ 69,90",
+            "R$ 62,91",
+            "R$ 2,10"
+          ],
+          [
+            "2x NAC, 60 dias",
+            "R$ 129,90",
+            "R$ 116,91",
+            "R$ 1,95"
+          ],
+          [
+            "3x Fórmula NAC (90 dias) — rendimento estimado",
+            "R$ 169,90",
+            "R$ 152,91",
+            "R$ 1,70"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "O que muda de uma página para outra",
+      "paragraphs": [
+        "A mesma NAC aparece com composição diferente em duas páginas de kit. O Trio Essencial diz “Fórmula NAC + Selênio + Zinco (30 cápsulas)”. O Ritual Detox diz “Fórmula NAC + Selênio + Molibdênio”. A página da própria NAC diz N-acetil-L-cisteína, selênio e molibdênio.",
+        "Antes de comprar, peça a confirmação de qual composição corresponde ao produto enviado. O rótulo do produto enviado ajuda a resolver a diferença entre as páginas; não é preciso esperar receber a caixa para perguntar."
+      ]
+    },
+    {
+      "heading": "Como escolher entre potes, kits e avulsos",
+      "paragraphs": [
+        "Compare embalagens da mesma fórmula. Os quadros mostram o custo por porção com o EMCASA, usando o rendimento declarado pela loja.",
+        "Nos kits 3x de 4Mag e de NAC, o rendimento foi estimado pelos 90 dias anunciados no nome. Antes de escolher pelo custo por porção, confirme quais potes e quantas cápsulas vêm no kit."
+      ],
+      "postParagraphs": [
+        "Na campanha Leve 3, Pague 2, unidades avulsas elegíveis podem formar outra conta. Os quadros não simulam essa promoção: compare o total do checkout antes de concluir que o kit ou o pote sai mais barato.",
+        "O [cupom Rituária](/cupons/rituaria) EMCASA dá 10% sobre o preço promocional. Não incluímos o desconto do Pix nem o frete nesses cálculos. O teste da combinação com a campanha está no [guia da Black Friday da Rituária](/reviews/black-friday-rituaria)."
+      ]
+    },
+    {
+      "heading": "O que os clientes dizem, e de onde vem cada número",
+      "paragraphs": [
+        "As notas são altas, mas estão publicadas no site da própria marca. A do 4Mag tem nota 4,8 com 5.829 avaliações, e a da NAC tem 4,8 com 2.025. Não sabemos se o número junta produtos parecidos.",
+        "O resumo automático de avaliações da NAC cita pó solto, fragmentos de cápsula, embalagem sem fechamento hermético e preço alto. Como não conferimos os relatos que o geraram, o resumo não mostra com que frequência esses problemas aparecem.",
+        "No Reclame Aqui, entre 01/05/2026 e 31/10/2026, a marca tem reputação máxima, com nota média de 8,7 e 93,8% das reclamações avaliadas como resolvidas. Na aba geral, que cobre até três anos, o problema mais citado é produto não recebido. Entre as reclamações mais recentes da lista, há relatos de reação a produtos da marca, e um de alergia atribuída a um brinde da promoção. Os números estão na [análise da marca no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao).",
+        "Não encontramos resenha de veículo ou de nutricionista sem código de desconto."
+      ]
+    },
+    {
+      "heading": "Sobre a busca por emagrecimento",
+      "paragraphs": [
+        "Suplementos alimentares não podem ser anunciados com alegação de emagrecimento. A existência dessa categoria no menu da loja não comprova resultado de uma fórmula; dúvidas sobre uso e objetivos de saúde devem ser discutidas com um profissional."
+      ]
+    },
+    {
+      "heading": "O que não dá para saber",
+      "paragraphs": [
+        "Composição, porção e preço ajudam a comparar a compra, mas não demonstram como uma pessoa vai responder ao produto. Nos casos de divergência mostrados acima, peça à loja o rótulo do produto antes de pagar.",
+        "Se comprar fora do site oficial, confira o vendedor e as regras de cada anúncio. Este guia não verificou os vendedores dos marketplaces; o EMCASA vale no site oficial da Rituária.",
+        "Ao receber, compare a embalagem com o pedido e verifique o rótulo antes de abrir. A política de desistência e o portal de trocas estão no capítulo seguinte."
+      ]
+    },
+    {
+      "heading": "Registro, troca e devolução",
+      "paragraphs": [
+        "A página Sobre nós tem o título “REGISTRO NA ANVISA”, sem número. Para saber se um produto está regularizado, confira o rótulo dele: a [análise de confiança da marca](/reviews/rituaria-e-confiavel) explica o que procurar.",
+        "A política da loja permite desistir em 7 dias corridos após o recebimento, com devolução gratuita e reembolso integral com frete, desde que o produto esteja completo e sem sinais de uso. Em caso de defeito, avaria ou produto errado, recuse na entrega ou fale com a loja em até 30 dias corridos após o recebimento. Não há troca por insatisfação depois do uso, e o cancelamento só é possível antes de o pedido ser separado no centro de distribuição.",
+        "Leve dúvidas sobre dose e saúde ao médico ou nutricionista, especialmente se você usa medicamentos, está grávida ou amamenta."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Rituária é boa? O guia identifica composição, rendimento e custo das embalagens analisadas, com divergências que precisam ser esclarecidas pela loja. Esses dados ajudam a avaliar a compra, mas não demonstram eficácia dos produtos.",
+        "A Rituária funciona? Composição e relatos de clientes, sozinhos, não comprovam resultado para o seu caso. Para escolher e usar uma fórmula, confirme o rótulo e procure orientação profissional.",
+        "A Rituária vale a pena? Compare embalagens da mesma fórmula pelo custo por porção com o EMCASA e pelo total entregue. Se houver Leve 3, Pague 2, confira também a compra de avulsos no checkout.",
+        "A Rituária emagrece? Não há comprovação de emagrecimento apresentada neste guia, e suplementos não podem ser anunciados com essa alegação.",
+        "Quem toma remédio pode usar? A compatibilidade depende do medicamento, da composição e da pessoa. Converse com médico ou nutricionista antes de usar suplementos."
+      ]
+    }
+  ]
+}
