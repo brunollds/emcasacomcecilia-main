@@ -2390,6 +2390,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/rituaria.png",
+      "local_url": "/images/about/partners/rituaria.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 10210,
+      "sha256": "5a26ae208bb5aeb7be4ffb45b9bfa05afa3382c3820cd8d7be744e11d8fece22",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "rituaria.png",
+      "storage_filename": "rituaria.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/aboutPage.ts",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/aboutPage.ts",
+          "line": 89,
+          "column": 29,
+          "literal": "/images/about/partners/rituaria.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4175,
+          "column": 17,
+          "literal": "/images/about/partners/rituaria.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5a26ae208bb5aeb7be4ffb45b9bfa05afa3382c3820cd8d7be744e11d8fece22/rituaria.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5a26ae208bb5aeb7be4ffb45b9bfa05afa3382c3820cd8d7be744e11d8fece22/rituaria.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T02:43:41.652Z",
+      "verification_etag_or_digest": "5a26ae208bb5aeb7be4ffb45b9bfa05afa3382c3820cd8d7be744e11d8fece22",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/santos-simoes.webp",
       "local_url": "/images/about/partners/santos-simoes.webp",
       "media_kind": "image",
@@ -3726,6 +3772,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-17T21:33:33.352Z",
       "verification_etag_or_digest": "931784becf6a985e816bf61c715d6526b3d34d37df221e1f2f56bc262fc892b1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/bolinhas/rituaria.png",
+      "local_url": "/images/logos/bolinhas/rituaria.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 14152,
+      "sha256": "4bbfb9031eb28177c2a742e4b1fa6e8e8ef33b0acec0d6bcef0530d223e385d0",
+      "width": 512,
+      "height": 512,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "rituaria.png",
+      "storage_filename": "rituaria.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4177,
+          "column": 21,
+          "literal": "/images/logos/bolinhas/rituaria.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4bbfb9031eb28177c2a742e4b1fa6e8e8ef33b0acec0d6bcef0530d223e385d0/rituaria.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4bbfb9031eb28177c2a742e4b1fa6e8e8ef33b0acec0d6bcef0530d223e385d0/rituaria.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T02:43:44.036Z",
+      "verification_etag_or_digest": "4bbfb9031eb28177c2a742e4b1fa6e8e8ef33b0acec0d6bcef0530d223e385d0",
       "verification_status": "verified"
     },
     {
@@ -24458,6 +24542,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-17T21:33:35.788Z",
       "verification_etag_or_digest": "8d2baeeaabb351306a299646d856a5b0cb1895653db247f41f84673b08e8371c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/rituaria.webp",
+      "local_url": "/images/logos/watermarks/rituaria.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10794,
+      "sha256": "88df57b19e4f5c310f0e3a18be1d9a090a0c52a5b1d3f1f9e95264730cb5c743",
+      "width": 480,
+      "height": 143,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "rituaria.webp",
+      "storage_filename": "rituaria.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4178,
+          "column": 22,
+          "literal": "/images/logos/watermarks/rituaria.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/88df57b19e4f5c310f0e3a18be1d9a090a0c52a5b1d3f1f9e95264730cb5c743/rituaria.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/88df57b19e4f5c310f0e3a18be1d9a090a0c52a5b1d3f1f9e95264730cb5c743/rituaria.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T02:43:46.315Z",
+      "verification_etag_or_digest": "88df57b19e4f5c310f0e3a18be1d9a090a0c52a5b1d3f1f9e95264730cb5c743",
       "verification_status": "verified"
     },
     {
@@ -124134,6 +124256,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T16:50:00.173Z",
       "verification_etag_or_digest": "411bdac47c99e02f7df3ed17fd144125e5d717feb0ec42eaa4d955fd3c687733",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
+      "local_url": "/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9926,
+      "sha256": "c26832fd92f8a50f24352cbd352ae04a7d3fd8a231767963e0f7efcb8a59de6d",
+      "width": 373,
+      "height": 417,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-rituaria-checkout-com-cupom.webp",
+      "storage_filename": "cupom-rituaria-checkout-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4169,
+          "column": 24,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c26832fd92f8a50f24352cbd352ae04a7d3fd8a231767963e0f7efcb8a59de6d/cupom-rituaria-checkout-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c26832fd92f8a50f24352cbd352ae04a7d3fd8a231767963e0f7efcb8a59de6d/cupom-rituaria-checkout-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T02:43:48.716Z",
+      "verification_etag_or_digest": "c26832fd92f8a50f24352cbd352ae04a7d3fd8a231767963e0f7efcb8a59de6d",
       "verification_status": "verified"
     },
     {
