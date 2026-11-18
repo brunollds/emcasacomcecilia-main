@@ -1686,24 +1686,24 @@ const STORE_COUPONS: Coupon[] = [
     bubble: { src: '/images/logos/bolinhas/proton.png' },
     brandWatermark: '/images/logos/watermarks/proton.webp',
     brandColor: '#6D4AFF',
-    discount: 'Garantia de 30 dias',
+    discount: 'Até 75% OFF',
     offerTypeLabel: 'oferta',
     offerTypeLabelPlural: 'ofertas',
     offerActionLabel: 'Ver os planos do Proton VPN',
     category: 'VPN, e-mail, senhas e nuvem com privacidade',
     hubCategory: 'diversos',
-    shortDescription: 'links da Cecília para o Proton VPN, Mail, Pass, Drive e Lumo',
+    shortDescription: 'até 75% OFF no Proton VPN, Mail, Pass, Drive e Lumo pelos links da Cecília',
     longDescription:
-      'O Em Casa com Cecília não tem cupom na Proton: os botões desta página abrem o site oficial pelo link da Cecília, um para cada produto. O preço e as promoções são os que a Proton mostra no checkout, e a Proton devolve o valor da assinatura se o reembolso for pedido em até 30 dias.',
-    metaTitle: 'Proton: links para VPN, Mail, Pass, Drive e Lumo',
+      'Na Black Friday, a Proton está com até 75% OFF em todas as linhas pelos links da Cecília: Proton VPN, Mail, Pass, Drive, Lumo e Proton Unlimited. É só tocar no botão do produto, escolher o plano e assinar, sem código para copiar. E, se não gostar, a Proton devolve o valor da assinatura se o reembolso for pedido em até 30 dias.',
+    metaTitle: 'Proton Black Friday: até 75% OFF pelo link da Cecília',
     metaDescription:
-      'Links da Cecília para o Proton VPN, Proton Mail, Proton Pass, Proton Drive e Lumo: planos grátis e pagos, com reembolso em até 30 dias. Não há cupom nosso.',
+      'Proton com até 75% OFF na Black Friday pelos links da Cecília: VPN, Mail, Pass, Drive e Lumo, sem código para copiar e com reembolso em até 30 dias.',
     eligibleCategories: 'Planos pagos do Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo e Proton Unlimited',
-    validity: 'Os preços e as promoções mudam: vale o que a Proton mostra no checkout no dia da assinatura',
+    validity: 'Promoção de Black Friday da Proton, sem data de fim anunciada; o preço final é o que a Proton mostra no checkout no dia da assinatura',
     reusable: 'Os links podem ser usados em toda assinatura',
     shipping: 'Não se aplica: os planos são digitais e liberados na conta Proton',
-    combinable: 'O link não dá desconto próprio: valem as promoções que a Proton mostrar na página de planos e no checkout',
-    lastVerified: '2026-11-17',
+    combinable: 'Os links da Cecília abrem a Proton com até 75% OFF na Black Friday, sem código para somar',
+    lastVerified: '2026-11-18',
     aboutBrand:
       'A Proton é uma empresa suíça de serviços com foco em privacidade e criptografia: VPN, e-mail, gerenciador de senhas, armazenamento em nuvem e o Lumo, um assistente de inteligência artificial. Os produtos têm plano grátis, e os pagos podem ser assinados um a um ou juntos no Proton Unlimited. Esta página reúne os links da Cecília para cada produto. Assinaturas feitas pelos links podem gerar comissão para o Em Casa com Cecília, sem custo adicional para quem assina.',
     productLinks: [
@@ -1711,34 +1711,39 @@ const STORE_COUPONS: Coupon[] = [
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          'VPN com plano grátis e o VPN Plus, para até 10 aparelhos e servidores em mais de 140 países. O link leva também ao Proton Unlimited.',
+          'Até 75% OFF pelo link da Cecília. VPN com plano grátis e o VPN Plus, para até 10 aparelhos e servidores em mais de 140 países. O link leva também ao Proton Unlimited.',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: 'E-mail com criptografia de ponta a ponta, com plano grátis e planos pagos com mais espaço e endereços.',
+        description: 'Até 75% OFF pelo link da Cecília. E-mail com criptografia de ponta a ponta, com plano grátis e planos pagos com mais espaço e endereços.',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: 'Gerenciador de senhas com criptografia, para guardar senhas, cartões e notas e preencher logins no navegador e no celular.',
+        description: 'Até 75% OFF pelo link da Cecília. Gerenciador de senhas com criptografia, para guardar senhas, cartões e notas e preencher logins no navegador e no celular.',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: 'Armazenamento em nuvem com criptografia de ponta a ponta para fotos e documentos, com plano grátis.',
+        description: 'Até 75% OFF pelo link da Cecília. Armazenamento em nuvem com criptografia de ponta a ponta para fotos e documentos, com plano grátis.',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: 'O assistente de inteligência artificial da Proton, feito para conversar sem abrir mão da privacidade.',
+        description: 'Até 75% OFF pelo link da Cecília. O assistente de inteligência artificial da Proton, feito para conversar sem abrir mão da privacidade.',
       },
     ],
     faqs: [
       {
+        question: 'Quanto a Proton dá de desconto na Black Friday?',
+        answer:
+          'Até 75% OFF em todas as linhas pelos links da Cecília: Proton VPN, Mail, Pass, Drive, Lumo e Proton Unlimited. O desconto de cada plano aparece na página de planos que o link abre, e o preço final, no checkout.',
+      },
+      {
         question: 'Tem cupom da Cecília na Proton?',
         answer:
-          'Não. O Em Casa com Cecília tem links de afiliado da Proton, um para cada produto, e não um cupom: o link abre o site oficial, e o preço e as promoções são os que a Proton mostra no checkout.',
+          'Não precisa de cupom: na Black Friday, os links da Cecília já abrem a Proton com até 75% OFF. É só tocar no botão do produto que você quer, escolher o plano e assinar, sem código para colar no checkout.',
       },
       {
         question: 'A Proton devolve o dinheiro se eu não gostar?',
@@ -1778,7 +1783,7 @@ const STORE_COUPONS: Coupon[] = [
       'Se não gostar, peça o reembolso nos primeiros 30 dias.',
     ],
     linkNote:
-      'O link da Cecília não dá desconto próprio nem leva código: o preço e as promoções são os que a Proton mostra na página de planos e no checkout.',
+      'Na Black Friday, os links da Cecília abrem a Proton com até 75% OFF, sem código para copiar: o desconto de cada plano aparece na página de planos, e o preço final, no checkout.',
     status: 'ativo',
     featured: false,
   },

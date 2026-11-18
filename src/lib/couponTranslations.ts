@@ -1924,22 +1924,22 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
 // Os mesmos 5 links de afiliado do PT, um por produto: a Proton é global e leva o visitante ao site no idioma dele.
 const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
   en: {
-    discount: '30-day money-back guarantee',
+    discount: 'Up to 75% off',
     offerTypeLabel: 'offer',
     offerTypeLabelPlural: 'offers',
     offerActionLabel: 'See Proton VPN plans',
     category: 'VPN, email, passwords and cloud storage with privacy',
-    shortDescription: 'Cecília\'s links to Proton VPN, Mail, Pass, Drive and Lumo',
+    shortDescription: 'up to 75% off Proton VPN, Mail, Pass, Drive and Lumo through Cecília\'s links',
     longDescription:
-      'Em Casa com Cecília has no coupon for Proton: the buttons on this page open the official site through Cecília\'s link, one for each product. The price and promotions are the ones Proton shows at checkout, and Proton refunds the subscription if the refund is requested within 30 days.',
-    metaTitle: 'Proton: links to VPN, Mail, Pass, Drive and Lumo',
+      'On Black Friday, Proton has up to 75% off on every line through Cecília\'s links: Proton VPN, Mail, Pass, Drive, Lumo and Proton Unlimited. Just tap the button for the product, pick the plan and subscribe, with no code to copy. And if you don\'t like it, Proton refunds the subscription if the refund is requested within 30 days.',
+    metaTitle: 'Proton Black Friday: up to 75% off with Cecília\'s link',
     metaDescription:
-      'Cecília\'s links to Proton VPN, Proton Mail, Proton Pass, Proton Drive and Lumo: free and paid plans, with a refund within 30 days. No coupon from us.',
+      'Proton with up to 75% off on Black Friday through Cecília\'s links: VPN, Mail, Pass, Drive and Lumo, no code to copy and a refund within 30 days.',
     eligibleCategories: 'Paid plans of Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo and Proton Unlimited',
-    validity: 'Prices and promotions change: what counts is what Proton shows at checkout on the day you subscribe',
+    validity: 'Proton\'s Black Friday promotion, with no announced end date; the final price is what Proton shows at checkout on the day you subscribe',
     reusable: 'The links can be used on every subscription',
     shipping: 'Not applicable: the plans are digital and activated in your Proton account',
-    combinable: 'The link gives no discount of its own: the promotions Proton shows on the plans page and at checkout apply',
+    combinable: 'Cecília\'s links open Proton with up to 75% off on Black Friday, with no code to add on top',
     aboutBrand:
       'Proton is a Swiss company focused on privacy and encryption: VPN, email, a password manager, cloud storage and Lumo, an artificial intelligence assistant. The products have a free plan, and the paid ones can be subscribed to one by one or together in Proton Unlimited. This page gathers Cecília\'s links for each product. Subscriptions made through the links may earn Em Casa com Cecília a commission, at no extra cost to the subscriber.',
     brandLogoAlt: 'Proton logo',
@@ -1948,34 +1948,39 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          'VPN with a free plan and VPN Plus, for up to 10 devices and servers in more than 140 countries. The link also leads to Proton Unlimited.',
+          'Up to 75% off through Cecília\'s link. VPN with a free plan and VPN Plus, for up to 10 devices and servers in more than 140 countries. The link also leads to Proton Unlimited.',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: 'End-to-end encrypted email, with a free plan and paid plans with more storage and addresses.',
+        description: 'Up to 75% off through Cecília\'s link. End-to-end encrypted email, with a free plan and paid plans with more storage and addresses.',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: 'Encrypted password manager for storing passwords, cards and notes and filling in logins in the browser and on your phone.',
+        description: 'Up to 75% off through Cecília\'s link. Encrypted password manager for storing passwords, cards and notes and filling in logins in the browser and on your phone.',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: 'End-to-end encrypted cloud storage for photos and documents, with a free plan.',
+        description: 'Up to 75% off through Cecília\'s link. End-to-end encrypted cloud storage for photos and documents, with a free plan.',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: 'Proton\'s artificial intelligence assistant, built for chatting without giving up your privacy.',
+        description: 'Up to 75% off through Cecília\'s link. Proton\'s artificial intelligence assistant, built for chatting without giving up your privacy.',
       },
     ],
     faqs: [
       {
+        question: 'How much does Proton discount on Black Friday?',
+        answer:
+          'Up to 75% off on every line through Cecília\'s links: Proton VPN, Mail, Pass, Drive, Lumo and Proton Unlimited. The discount on each plan appears on the plans page the link opens, and the final price at checkout.',
+      },
+      {
         question: 'Does Cecília have a Proton coupon?',
         answer:
-          'No. Em Casa com Cecília has Proton affiliate links, one for each product, not a coupon: the link opens the official site, and the price and promotions are the ones Proton shows at checkout.',
+          'No coupon needed: on Black Friday, Cecília\'s links already open Proton with up to 75% off. Just tap the button for the product you want, pick the plan and subscribe, with no code to paste at checkout.',
       },
       {
         question: 'Does Proton refund my money if I don\'t like it?',
@@ -2015,25 +2020,25 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       'If you don\'t like it, ask for a refund within the first 30 days.',
     ],
     linkNote:
-      'Cecília\'s link gives no discount of its own and carries no code: the price and promotions are the ones Proton shows on the plans page and at checkout.',
+      'On Black Friday, Cecília\'s links open Proton with up to 75% off, with no code to copy: the discount on each plan appears on the plans page, and the final price at checkout.',
   },
   es: {
-    discount: 'Garantía de devolución de 30 días',
+    discount: 'Hasta un 75 % de descuento',
     offerTypeLabel: 'oferta',
     offerTypeLabelPlural: 'ofertas',
     offerActionLabel: 'Ver los planes de Proton VPN',
     category: 'VPN, correo, contraseñas y nube con privacidad',
-    shortDescription: 'enlaces de Cecília a Proton VPN, Mail, Pass, Drive y Lumo',
+    shortDescription: 'hasta un 75 % de descuento en Proton VPN, Mail, Pass, Drive y Lumo con los enlaces de Cecília',
     longDescription:
-      'Em Casa com Cecília no tiene cupón de Proton: los botones de esta página abren el sitio oficial con el enlace de Cecília, uno para cada producto. El precio y las promociones son los que Proton muestra en el pago, y Proton devuelve el importe de la suscripción si el reembolso se solicita en un plazo de 30 días.',
-    metaTitle: 'Proton: enlaces a VPN, Mail, Pass, Drive y Lumo',
+      'En el Black Friday, Proton tiene hasta un 75 % de descuento en todas las líneas con los enlaces de Cecília: Proton VPN, Mail, Pass, Drive, Lumo y Proton Unlimited. Solo tienes que tocar el botón del producto, elegir el plan y suscribirte, sin ningún código que copiar. Y, si no te gusta, Proton devuelve el importe de la suscripción si pides el reembolso en un plazo de 30 días.',
+    metaTitle: 'Proton Black Friday: hasta un 75 % con el enlace de Cecília',
     metaDescription:
-      'Enlaces de Cecília a Proton VPN, Proton Mail, Proton Pass, Proton Drive y Lumo: planes gratuitos y de pago, con reembolso en un plazo de 30 días. No hay cupón nuestro.',
+      'Proton con hasta un 75 % de descuento en el Black Friday con los enlaces de Cecília: VPN, Mail, Pass, Drive y Lumo, sin código y con reembolso en 30 días.',
     eligibleCategories: 'Planes de pago de Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo y Proton Unlimited',
-    validity: 'Los precios y las promociones cambian: vale lo que Proton muestra en el pago el día de la suscripción',
+    validity: 'Promoción de Black Friday de Proton, sin fecha de fin anunciada; el precio final es el que Proton muestra en el pago el día de la suscripción',
     reusable: 'Los enlaces se pueden usar en cualquier suscripción',
     shipping: 'No se aplica: los planes son digitales y se activan en tu cuenta de Proton',
-    combinable: 'El enlace no da un descuento propio: valen las promociones que Proton muestre en la página de planes y en el pago',
+    combinable: 'Los enlaces de Cecília abren Proton con hasta un 75 % de descuento en el Black Friday, sin código que sumar',
     aboutBrand:
       'Proton es una empresa suiza centrada en la privacidad y el cifrado: VPN, correo, gestor de contraseñas, almacenamiento en la nube y Lumo, un asistente de inteligencia artificial. Los productos tienen un plan gratuito, y los de pago se pueden contratar uno a uno o juntos en Proton Unlimited. Esta página reúne los enlaces de Cecília para cada producto. Las suscripciones hechas con los enlaces pueden generar una comisión para Em Casa com Cecília, sin coste adicional para quien se suscribe.',
     brandLogoAlt: 'Logotipo de Proton',
@@ -2042,34 +2047,39 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          'VPN con plan gratuito y VPN Plus, para hasta 10 dispositivos y servidores en más de 140 países. El enlace lleva también a Proton Unlimited.',
+          'Hasta un 75 % de descuento con el enlace de Cecília. VPN con plan gratuito y VPN Plus, para hasta 10 dispositivos y servidores en más de 140 países. El enlace lleva también a Proton Unlimited.',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: 'Correo con cifrado de extremo a extremo, con plan gratuito y planes de pago con más espacio y direcciones.',
+        description: 'Hasta un 75 % de descuento con el enlace de Cecília. Correo con cifrado de extremo a extremo, con plan gratuito y planes de pago con más espacio y direcciones.',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: 'Gestor de contraseñas con cifrado, para guardar contraseñas, tarjetas y notas y rellenar inicios de sesión en el navegador y en el móvil.',
+        description: 'Hasta un 75 % de descuento con el enlace de Cecília. Gestor de contraseñas con cifrado, para guardar contraseñas, tarjetas y notas y rellenar inicios de sesión en el navegador y en el móvil.',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: 'Almacenamiento en la nube con cifrado de extremo a extremo para fotos y documentos, con plan gratuito.',
+        description: 'Hasta un 75 % de descuento con el enlace de Cecília. Almacenamiento en la nube con cifrado de extremo a extremo para fotos y documentos, con plan gratuito.',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: 'El asistente de inteligencia artificial de Proton, creado para conversar sin renunciar a la privacidad.',
+        description: 'Hasta un 75 % de descuento con el enlace de Cecília. El asistente de inteligencia artificial de Proton, creado para conversar sin renunciar a la privacidad.',
       },
     ],
     faqs: [
       {
+        question: '¿Cuánto descuento da Proton en el Black Friday?',
+        answer:
+          'Hasta un 75 % de descuento en todas las líneas con los enlaces de Cecília: Proton VPN, Mail, Pass, Drive, Lumo y Proton Unlimited. El descuento de cada plan aparece en la página de planes que abre el enlace, y el precio final, en el pago.',
+      },
+      {
         question: '¿Cecília tiene un cupón de Proton?',
         answer:
-          'No. Em Casa com Cecília tiene enlaces de afiliado de Proton, uno para cada producto, y no un cupón: el enlace abre el sitio oficial, y el precio y las promociones son los que Proton muestra en el pago.',
+          'No hace falta cupón: en el Black Friday, los enlaces de Cecília ya abren Proton con hasta un 75 % de descuento. Solo tienes que tocar el botón del producto que quieres, elegir el plan y suscribirte, sin ningún código que pegar en el pago.',
       },
       {
         question: '¿Proton devuelve el dinero si no me gusta?',
@@ -2109,25 +2119,25 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       'Si no te gusta, pide el reembolso en los primeros 30 días.',
     ],
     linkNote:
-      'El enlace de Cecília no da un descuento propio ni lleva código: el precio y las promociones son los que Proton muestra en la página de planes y en el pago.',
+      'En el Black Friday, los enlaces de Cecília abren Proton con hasta un 75 % de descuento, sin código que copiar: el descuento de cada plan aparece en la página de planes, y el precio final, en el pago.',
   },
   fr: {
-    discount: 'Garantie de remboursement de 30 jours',
+    discount: 'Jusqu\'à 75 % de réduction',
     offerTypeLabel: 'offre',
     offerTypeLabelPlural: 'offres',
     offerActionLabel: 'Voir les offres Proton VPN',
     category: 'VPN, e-mail, mots de passe et cloud respectueux de la vie privée',
-    shortDescription: 'liens de Cecília vers Proton VPN, Mail, Pass, Drive et Lumo',
+    shortDescription: 'jusqu\'à 75 % de réduction sur Proton VPN, Mail, Pass, Drive et Lumo avec les liens de Cecília',
     longDescription:
-      'Em Casa com Cecília n\'a pas de code promo pour Proton : les boutons de cette page ouvrent le site officiel via le lien de Cecília, un par produit. Le prix et les promotions sont ceux que Proton affiche au paiement, et Proton rembourse l\'abonnement si le remboursement est demandé dans les 30 jours.',
-    metaTitle: 'Proton : liens vers VPN, Mail, Pass, Drive et Lumo',
+      'Pour le Black Friday, Proton propose jusqu\'à 75 % de réduction sur toutes ses gammes avec les liens de Cecília : Proton VPN, Mail, Pass, Drive, Lumo et Proton Unlimited. Il suffit d\'appuyer sur le bouton du produit, de choisir l\'offre et de vous abonner, sans code à copier. Et si le service ne vous plaît pas, Proton rembourse l\'abonnement si le remboursement est demandé dans les 30 jours.',
+    metaTitle: 'Proton Black Friday : jusqu\'à 75 % avec le lien de Cecília',
     metaDescription:
-      'Liens de Cecília vers Proton VPN, Proton Mail, Proton Pass, Proton Drive et Lumo : offres gratuites et payantes, avec remboursement sous 30 jours. Pas de code promo de notre part.',
+      'Proton jusqu\'à 75 % de réduction pour le Black Friday avec les liens de Cecília : VPN, Mail, Pass, Drive et Lumo, sans code et remboursement sous 30 jours.',
     eligibleCategories: 'Offres payantes de Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo et Proton Unlimited',
-    validity: 'Les prix et les promotions changent : c\'est ce que Proton affiche au paiement le jour de l\'abonnement qui compte',
+    validity: 'Promotion Black Friday de Proton, sans date de fin annoncée ; le prix final est celui que Proton affiche au paiement le jour de l\'abonnement',
     reusable: 'Les liens peuvent être utilisés pour chaque abonnement',
     shipping: 'Sans objet : les offres sont numériques et activées dans votre compte Proton',
-    combinable: 'Le lien ne donne pas de réduction propre : les promotions que Proton affiche sur la page des offres et au paiement s\'appliquent',
+    combinable: 'Les liens de Cecília ouvrent Proton avec jusqu\'à 75 % de réduction pour le Black Friday, sans code à cumuler',
     aboutBrand:
       'Proton est une entreprise suisse spécialisée dans la confidentialité et le chiffrement : VPN, e-mail, gestionnaire de mots de passe, stockage dans le cloud et Lumo, un assistant d\'intelligence artificielle. Les produits ont une offre gratuite, et les offres payantes peuvent être souscrites une à une ou ensemble avec Proton Unlimited. Cette page réunit les liens de Cecília pour chaque produit. Les abonnements souscrits via les liens peuvent rapporter une commission à Em Casa com Cecília, sans surcoût pour l\'abonné.',
     brandLogoAlt: 'Logo Proton',
@@ -2136,34 +2146,39 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          'VPN avec offre gratuite et VPN Plus, pour jusqu\'à 10 appareils et des serveurs dans plus de 140 pays. Le lien mène aussi à Proton Unlimited.',
+          'Jusqu\'à 75 % de réduction avec le lien de Cecília. VPN avec offre gratuite et VPN Plus, pour jusqu\'à 10 appareils et des serveurs dans plus de 140 pays. Le lien mène aussi à Proton Unlimited.',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: 'E-mail chiffré de bout en bout, avec une offre gratuite et des offres payantes offrant plus d\'espace et d\'adresses.',
+        description: 'Jusqu\'à 75 % de réduction avec le lien de Cecília. E-mail chiffré de bout en bout, avec une offre gratuite et des offres payantes offrant plus d\'espace et d\'adresses.',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: 'Gestionnaire de mots de passe chiffré, pour enregistrer mots de passe, cartes et notes et remplir les identifiants dans le navigateur et sur le téléphone.',
+        description: 'Jusqu\'à 75 % de réduction avec le lien de Cecília. Gestionnaire de mots de passe chiffré, pour enregistrer mots de passe, cartes et notes et remplir les identifiants dans le navigateur et sur le téléphone.',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: 'Stockage dans le cloud chiffré de bout en bout pour photos et documents, avec une offre gratuite.',
+        description: 'Jusqu\'à 75 % de réduction avec le lien de Cecília. Stockage dans le cloud chiffré de bout en bout pour photos et documents, avec une offre gratuite.',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: 'L\'assistant d\'intelligence artificielle de Proton, conçu pour discuter sans renoncer à la confidentialité.',
+        description: 'Jusqu\'à 75 % de réduction avec le lien de Cecília. L\'assistant d\'intelligence artificielle de Proton, conçu pour discuter sans renoncer à la confidentialité.',
       },
     ],
     faqs: [
       {
+        question: 'Quelle réduction Proton propose-t-il pour le Black Friday ?',
+        answer:
+          'Jusqu\'à 75 % de réduction sur toutes les gammes avec les liens de Cecília : Proton VPN, Mail, Pass, Drive, Lumo et Proton Unlimited. La réduction de chaque offre apparaît sur la page des offres que le lien ouvre, et le prix final, au paiement.',
+      },
+      {
         question: 'Cecília a-t-elle un code promo Proton ?',
         answer:
-          'Non. Em Casa com Cecília dispose de liens d\'affiliation Proton, un par produit, et non d\'un code promo : le lien ouvre le site officiel, et le prix et les promotions sont ceux que Proton affiche au paiement.',
+          'Pas besoin de code promo : pour le Black Friday, les liens de Cecília ouvrent déjà Proton avec jusqu\'à 75 % de réduction. Il suffit d\'appuyer sur le bouton du produit souhaité, de choisir l\'offre et de vous abonner, sans code à coller au paiement.',
       },
       {
         question: 'Proton rembourse-t-il si le service ne me plaît pas ?',
@@ -2203,25 +2218,25 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       'Si le service ne vous plaît pas, demandez le remboursement dans les 30 premiers jours.',
     ],
     linkNote:
-      'Le lien de Cecília ne donne pas de réduction propre et ne comporte aucun code : le prix et les promotions sont ceux que Proton affiche sur la page des offres et au paiement.',
+      'Pour le Black Friday, les liens de Cecília ouvrent Proton avec jusqu\'à 75 % de réduction, sans code à copier : la réduction de chaque offre apparaît sur la page des offres, et le prix final, au paiement.',
   },
   de: {
-    discount: '30 Tage Geld-zurück-Garantie',
+    discount: 'Bis zu 75 % Rabatt',
     offerTypeLabel: 'Angebot',
     offerTypeLabelPlural: 'Angebote',
     offerActionLabel: 'Proton-VPN-Tarife ansehen',
     category: 'VPN, E-Mail, Passwörter und Cloud mit Datenschutz',
-    shortDescription: 'Cecílias Links zu Proton VPN, Mail, Pass, Drive und Lumo',
+    shortDescription: 'bis zu 75 % Rabatt auf Proton VPN, Mail, Pass, Drive und Lumo über Cecílias Links',
     longDescription:
-      'Em Casa com Cecília hat keinen Gutscheincode für Proton: Die Buttons auf dieser Seite öffnen die offizielle Website über Cecílias Link, einen für jedes Produkt. Preis und Aktionen sind die, die Proton an der Kasse anzeigt, und Proton erstattet das Abo, wenn du die Erstattung innerhalb von 30 Tagen beantragst.',
-    metaTitle: 'Proton: Links zu VPN, Mail, Pass, Drive und Lumo',
+      'Zum Black Friday gibt Proton über Cecílias Links bis zu 75 % Rabatt auf alle Produktlinien: Proton VPN, Mail, Pass, Drive, Lumo und Proton Unlimited. Tippe einfach auf den Button des Produkts, wähle den Tarif und schließe das Abo ab, ganz ohne Code zum Kopieren. Und wenn es dir nicht gefällt, erstattet Proton das Abo, wenn du die Erstattung innerhalb von 30 Tagen beantragst.',
+    metaTitle: 'Proton Black Friday: bis zu 75 % mit Cecílias Link',
     metaDescription:
-      'Cecílias Links zu Proton VPN, Proton Mail, Proton Pass, Proton Drive und Lumo: kostenlose und bezahlte Tarife, mit Erstattung innerhalb von 30 Tagen. Kein Gutscheincode von uns.',
+      'Proton mit bis zu 75 % Rabatt zum Black Friday über Cecílias Links: VPN, Mail, Pass, Drive und Lumo, ohne Code und mit Erstattung innerhalb von 30 Tagen.',
     eligibleCategories: 'Bezahlte Tarife von Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo und Proton Unlimited',
-    validity: 'Preise und Aktionen ändern sich: Es gilt, was Proton am Tag des Abschlusses an der Kasse anzeigt',
+    validity: 'Black-Friday-Aktion von Proton, ohne angekündigtes Ende; der Endpreis ist der, den Proton am Tag des Abschlusses an der Kasse anzeigt',
     reusable: 'Die Links können bei jedem Abo genutzt werden',
     shipping: 'Entfällt: Die Tarife sind digital und werden in deinem Proton-Konto freigeschaltet',
-    combinable: 'Der Link gibt keinen eigenen Rabatt: Es gelten die Aktionen, die Proton auf der Tarifseite und an der Kasse anzeigt',
+    combinable: 'Cecílias Links öffnen Proton mit bis zu 75 % Rabatt zum Black Friday, ohne Code zum Draufrechnen',
     aboutBrand:
       'Proton ist ein Schweizer Unternehmen mit Schwerpunkt auf Datenschutz und Verschlüsselung: VPN, E-Mail, Passwortmanager, Cloud-Speicher und Lumo, ein Assistent mit künstlicher Intelligenz. Die Produkte haben einen kostenlosen Tarif, und die bezahlten lassen sich einzeln oder gemeinsam in Proton Unlimited abonnieren. Diese Seite bündelt Cecílias Links für jedes Produkt. Abos über die Links können Em Casa com Cecília eine Provision einbringen – ohne Mehrkosten für dich.',
     brandLogoAlt: 'Proton-Logo',
@@ -2230,34 +2245,39 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          'VPN mit kostenlosem Tarif und VPN Plus, für bis zu 10 Geräte und Server in mehr als 140 Ländern. Der Link führt auch zu Proton Unlimited.',
+          'Bis zu 75 % Rabatt über Cecílias Link. VPN mit kostenlosem Tarif und VPN Plus, für bis zu 10 Geräte und Server in mehr als 140 Ländern. Der Link führt auch zu Proton Unlimited.',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: 'Ende-zu-Ende-verschlüsselte E-Mail, mit kostenlosem Tarif und bezahlten Tarifen mit mehr Speicher und Adressen.',
+        description: 'Bis zu 75 % Rabatt über Cecílias Link. Ende-zu-Ende-verschlüsselte E-Mail, mit kostenlosem Tarif und bezahlten Tarifen mit mehr Speicher und Adressen.',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: 'Verschlüsselter Passwortmanager zum Speichern von Passwörtern, Karten und Notizen und zum Ausfüllen von Logins im Browser und auf dem Handy.',
+        description: 'Bis zu 75 % Rabatt über Cecílias Link. Verschlüsselter Passwortmanager zum Speichern von Passwörtern, Karten und Notizen und zum Ausfüllen von Logins im Browser und auf dem Handy.',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: 'Ende-zu-Ende-verschlüsselter Cloud-Speicher für Fotos und Dokumente, mit kostenlosem Tarif.',
+        description: 'Bis zu 75 % Rabatt über Cecílias Link. Ende-zu-Ende-verschlüsselter Cloud-Speicher für Fotos und Dokumente, mit kostenlosem Tarif.',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: 'Protons Assistent mit künstlicher Intelligenz, gemacht zum Chatten, ohne auf Datenschutz zu verzichten.',
+        description: 'Bis zu 75 % Rabatt über Cecílias Link. Protons Assistent mit künstlicher Intelligenz, gemacht zum Chatten, ohne auf Datenschutz zu verzichten.',
       },
     ],
     faqs: [
       {
+        question: 'Wie viel Rabatt gibt Proton am Black Friday?',
+        answer:
+          'Bis zu 75 % Rabatt auf alle Produktlinien über Cecílias Links: Proton VPN, Mail, Pass, Drive, Lumo und Proton Unlimited. Der Rabatt für jeden Tarif steht auf der Tarifseite, die der Link öffnet, und der Endpreis an der Kasse.',
+      },
+      {
         question: 'Hat Cecília einen Gutscheincode für Proton?',
         answer:
-          'Nein. Em Casa com Cecília hat Partnerlinks zu Proton, einen für jedes Produkt, keinen Gutscheincode: Der Link öffnet die offizielle Website, und Preis und Aktionen sind die, die Proton an der Kasse anzeigt.',
+          'Einen Gutscheincode brauchst du nicht: Zum Black Friday öffnen Cecílias Links Proton schon mit bis zu 75 % Rabatt. Tippe einfach auf den Button des Produkts, das du möchtest, wähle den Tarif und schließe das Abo ab, ohne Code, den du an der Kasse einfügen musst.',
       },
       {
         question: 'Erstattet Proton das Geld, wenn es mir nicht gefällt?',
@@ -2297,25 +2317,25 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       'Wenn es dir nicht gefällt, fordere die Erstattung in den ersten 30 Tagen an.',
     ],
     linkNote:
-      'Cecílias Link gibt keinen eigenen Rabatt und enthält keinen Code: Preis und Aktionen sind die, die Proton auf der Tarifseite und an der Kasse anzeigt.',
+      'Zum Black Friday öffnen Cecílias Links Proton mit bis zu 75 % Rabatt, ohne Code zum Kopieren: Der Rabatt für jeden Tarif steht auf der Tarifseite und der Endpreis an der Kasse.',
   },
   it: {
-    discount: 'Garanzia di rimborso di 30 giorni',
+    discount: 'Fino al 75% di sconto',
     offerTypeLabel: 'offerta',
     offerTypeLabelPlural: 'offerte',
     offerActionLabel: 'Vedi i piani di Proton VPN',
     category: 'VPN, e-mail, password e cloud con privacy',
-    shortDescription: 'link di Cecília per Proton VPN, Mail, Pass, Drive e Lumo',
+    shortDescription: 'fino al 75% di sconto su Proton VPN, Mail, Pass, Drive e Lumo con i link di Cecília',
     longDescription:
-      'Em Casa com Cecília non ha un coupon per Proton: i pulsanti di questa pagina aprono il sito ufficiale con il link di Cecília, uno per ogni prodotto. Il prezzo e le promozioni sono quelli che Proton mostra al pagamento, e Proton rimborsa l\'abbonamento se il rimborso viene richiesto entro 30 giorni.',
-    metaTitle: 'Proton: link per VPN, Mail, Pass, Drive e Lumo',
+      'Per il Black Friday, Proton offre fino al 75% di sconto su tutte le linee con i link di Cecília: Proton VPN, Mail, Pass, Drive, Lumo e Proton Unlimited. Basta toccare il pulsante del prodotto, scegliere il piano e abbonarsi, senza alcun codice da copiare. E, se non ti piace, Proton rimborsa l\'abbonamento se il rimborso viene richiesto entro 30 giorni.',
+    metaTitle: 'Proton Black Friday: fino al 75% con il link di Cecília',
     metaDescription:
-      'Link di Cecília per Proton VPN, Proton Mail, Proton Pass, Proton Drive e Lumo: piani gratuiti e a pagamento, con rimborso entro 30 giorni. Nessun coupon nostro.',
+      'Proton con fino al 75% di sconto per il Black Friday con i link di Cecília: VPN, Mail, Pass, Drive e Lumo, senza codice e con rimborso entro 30 giorni.',
     eligibleCategories: 'Piani a pagamento di Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo e Proton Unlimited',
-    validity: 'I prezzi e le promozioni cambiano: vale quello che Proton mostra al pagamento il giorno dell\'abbonamento',
+    validity: 'Promozione Black Friday di Proton, senza data di fine annunciata; il prezzo finale è quello che Proton mostra al pagamento il giorno dell\'abbonamento',
     reusable: 'I link possono essere usati a ogni abbonamento',
     shipping: 'Non si applica: i piani sono digitali e vengono attivati nel tuo account Proton',
-    combinable: 'Il link non dà uno sconto proprio: valgono le promozioni che Proton mostra nella pagina dei piani e al pagamento',
+    combinable: 'I link di Cecília aprono Proton con fino al 75% di sconto per il Black Friday, senza codice da sommare',
     aboutBrand:
       'Proton è un\'azienda svizzera focalizzata su privacy e crittografia: VPN, e-mail, gestore di password, archiviazione cloud e Lumo, un assistente di intelligenza artificiale. I prodotti hanno un piano gratuito, e quelli a pagamento si possono sottoscrivere uno alla volta o insieme in Proton Unlimited. Questa pagina raccoglie i link di Cecília per ogni prodotto. Gli abbonamenti fatti con i link possono generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per chi si abbona.',
     brandLogoAlt: 'Logo Proton',
@@ -2324,34 +2344,39 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          'VPN con piano gratuito e VPN Plus, per un massimo di 10 dispositivi e server in più di 140 paesi. Il link porta anche a Proton Unlimited.',
+          'Fino al 75% di sconto con il link di Cecília. VPN con piano gratuito e VPN Plus, per un massimo di 10 dispositivi e server in più di 140 paesi. Il link porta anche a Proton Unlimited.',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: 'E-mail con crittografia end-to-end, con piano gratuito e piani a pagamento con più spazio e indirizzi.',
+        description: 'Fino al 75% di sconto con il link di Cecília. E-mail con crittografia end-to-end, con piano gratuito e piani a pagamento con più spazio e indirizzi.',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: 'Gestore di password con crittografia, per conservare password, carte e note e compilare i login nel browser e sul telefono.',
+        description: 'Fino al 75% di sconto con il link di Cecília. Gestore di password con crittografia, per conservare password, carte e note e compilare i login nel browser e sul telefono.',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: 'Archiviazione cloud con crittografia end-to-end per foto e documenti, con piano gratuito.',
+        description: 'Fino al 75% di sconto con il link di Cecília. Archiviazione cloud con crittografia end-to-end per foto e documenti, con piano gratuito.',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: 'L\'assistente di intelligenza artificiale di Proton, pensato per conversare senza rinunciare alla privacy.',
+        description: 'Fino al 75% di sconto con il link di Cecília. L\'assistente di intelligenza artificiale di Proton, pensato per conversare senza rinunciare alla privacy.',
       },
     ],
     faqs: [
       {
+        question: 'Quanto sconto offre Proton per il Black Friday?',
+        answer:
+          'Fino al 75% di sconto su tutte le linee con i link di Cecília: Proton VPN, Mail, Pass, Drive, Lumo e Proton Unlimited. Lo sconto di ogni piano compare nella pagina dei piani che il link apre, e il prezzo finale, al pagamento.',
+      },
+      {
         question: 'Cecília ha un coupon Proton?',
         answer:
-          'No. Em Casa com Cecília ha link di affiliazione Proton, uno per ogni prodotto, e non un coupon: il link apre il sito ufficiale, e il prezzo e le promozioni sono quelli che Proton mostra al pagamento.',
+          'Non serve alcun coupon: per il Black Friday, i link di Cecília aprono già Proton con fino al 75% di sconto. Basta toccare il pulsante del prodotto che vuoi, scegliere il piano e abbonarti, senza alcun codice da incollare al pagamento.',
       },
       {
         question: 'Proton rimborsa i soldi se non mi piace?',
@@ -2391,25 +2416,25 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       'Se non ti piace, chiedi il rimborso nei primi 30 giorni.',
     ],
     linkNote:
-      'Il link di Cecília non dà uno sconto proprio e non ha codici: il prezzo e le promozioni sono quelli che Proton mostra nella pagina dei piani e al pagamento.',
+      'Per il Black Friday, i link di Cecília aprono Proton con fino al 75% di sconto, senza codice da copiare: lo sconto di ogni piano compare nella pagina dei piani, e il prezzo finale, al pagamento.',
   },
   ko: {
-    discount: '30일 환불 보장',
+    discount: '최대 75% 할인',
     offerTypeLabel: '혜택',
     offerTypeLabelPlural: '혜택',
     offerActionLabel: 'Proton VPN 요금제 보기',
     category: '개인정보를 지키는 VPN, 이메일, 비밀번호, 클라우드',
-    shortDescription: 'Proton VPN, Mail, Pass, Drive, Lumo로 연결되는 Cecília의 링크',
+    shortDescription: 'Cecília의 링크로 Proton VPN, Mail, Pass, Drive, Lumo 최대 75% 할인',
     longDescription:
-      'Em Casa com Cecília에는 Proton 쿠폰이 없습니다. 이 페이지의 버튼은 Cecília의 링크로 공식 사이트를 열며, 제품마다 버튼이 하나씩 있습니다. 가격과 프로모션은 Proton이 결제 화면에 표시하는 대로이며, 30일 안에 환불을 요청하면 Proton이 구독 금액을 환불합니다.',
-    metaTitle: 'Proton: VPN, Mail, Pass, Drive, Lumo 링크',
+      '블랙 프라이데이 기간 동안 Cecília의 링크로 Proton의 모든 제품군이 최대 75% 할인됩니다: Proton VPN, Mail, Pass, Drive, Lumo, Proton Unlimited. 제품 버튼을 누르고 요금제를 선택해 구독하기만 하면 되며, 복사할 코드는 없습니다. 마음에 들지 않으면 30일 이내에 환불을 신청할 경우 Proton이 구독 금액을 환불해 줍니다.',
+    metaTitle: 'Proton 블랙 프라이데이: Cecília 링크로 최대 75% 할인',
     metaDescription:
-      'Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo로 연결되는 Cecília의 링크: 무료 및 유료 요금제, 30일 이내 환불. 쿠폰은 없습니다.',
+      'Cecília의 링크로 블랙 프라이데이 Proton 최대 75% 할인: VPN, Mail, Pass, Drive, Lumo. 코드 없이, 30일 이내 환불 가능.',
     eligibleCategories: 'Proton VPN, Proton Mail, Proton Pass, Proton Drive, Lumo, Proton Unlimited의 유료 요금제',
-    validity: '가격과 프로모션은 바뀝니다. 구독하는 날 Proton이 결제 화면에 표시하는 내용이 기준입니다',
+    validity: 'Proton의 블랙 프라이데이 프로모션으로, 종료일은 발표되지 않았습니다. 최종 가격은 구독하는 날 Proton이 결제 화면에 표시하는 금액입니다',
     reusable: '링크는 구독할 때마다 사용할 수 있습니다',
     shipping: '해당 없음: 요금제는 디지털 상품이며 Proton 계정에서 바로 적용됩니다',
-    combinable: '링크 자체의 할인은 없으며, Proton이 요금제 페이지와 결제 화면에 표시하는 프로모션이 적용됩니다',
+    combinable: 'Cecília의 링크는 블랙 프라이데이 최대 75% 할인이 적용된 Proton을 엽니다. 추가로 더할 코드는 없습니다',
     aboutBrand:
       'Proton은 개인정보 보호와 암호화에 집중하는 스위스 기업으로, VPN, 이메일, 비밀번호 관리자, 클라우드 저장소, 그리고 인공지능 어시스턴트 Lumo를 제공합니다. 제품마다 무료 요금제가 있으며, 유료 요금제는 하나씩 구독하거나 Proton Unlimited로 함께 구독할 수 있습니다. 이 페이지에는 제품별 Cecília의 링크를 모았습니다. 링크로 구독하면 Em Casa com Cecília가 수수료를 받을 수 있으며, 구독자에게 추가 비용은 없습니다.',
     brandLogoAlt: 'Proton 로고',
@@ -2418,34 +2443,39 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          '무료 요금제와 최대 10대 기기, 140개국 이상 서버를 지원하는 VPN Plus가 있는 VPN. 이 링크는 Proton Unlimited로도 연결됩니다.',
+          'Cecília의 링크로 최대 75% 할인. 무료 요금제와 최대 10대 기기, 140개국 이상 서버를 지원하는 VPN Plus가 있는 VPN. 이 링크는 Proton Unlimited로도 연결됩니다.',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: '종단 간 암호화 이메일. 무료 요금제와 저장 공간과 주소가 더 많은 유료 요금제가 있습니다.',
+        description: 'Cecília의 링크로 최대 75% 할인. 종단 간 암호화 이메일. 무료 요금제와 저장 공간과 주소가 더 많은 유료 요금제가 있습니다.',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: '비밀번호, 카드, 메모를 보관하고 브라우저와 휴대폰에서 로그인 정보를 자동으로 입력해 주는 암호화 비밀번호 관리자입니다.',
+        description: 'Cecília의 링크로 최대 75% 할인. 비밀번호, 카드, 메모를 보관하고 브라우저와 휴대폰에서 로그인 정보를 자동으로 입력해 주는 암호화 비밀번호 관리자입니다.',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: '사진과 문서를 위한 종단 간 암호화 클라우드 저장소. 무료 요금제가 있습니다.',
+        description: 'Cecília의 링크로 최대 75% 할인. 사진과 문서를 위한 종단 간 암호화 클라우드 저장소. 무료 요금제가 있습니다.',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: '개인정보를 포기하지 않고 대화할 수 있도록 만든 Proton의 인공지능 어시스턴트입니다.',
+        description: 'Cecília의 링크로 최대 75% 할인. 개인정보를 포기하지 않고 대화할 수 있도록 만든 Proton의 인공지능 어시스턴트입니다.',
       },
     ],
     faqs: [
       {
+        question: 'Proton은 블랙 프라이데이에 얼마나 할인해 주나요?',
+        answer:
+          'Cecília의 링크로 Proton VPN, Mail, Pass, Drive, Lumo, Proton Unlimited 등 모든 제품군이 최대 75% 할인됩니다. 각 요금제의 할인은 링크가 여는 요금제 페이지에 표시되고, 최종 가격은 결제 화면에서 확인할 수 있습니다.',
+      },
+      {
         question: 'Cecília에게 Proton 쿠폰이 있나요?',
         answer:
-          '아니요. Em Casa com Cecília에는 쿠폰이 아니라 제품마다 하나씩 Proton 제휴 링크가 있습니다. 링크를 누르면 공식 사이트가 열리며, 가격과 프로모션은 Proton이 결제 화면에 표시하는 대로입니다.',
+          '쿠폰은 필요 없습니다. 블랙 프라이데이 기간에는 Cecília의 링크가 이미 최대 75% 할인이 적용된 Proton을 엽니다. 원하는 제품의 버튼을 누르고 요금제를 선택해 구독하기만 하면 되며, 결제 화면에 붙여넣을 코드는 없습니다.',
       },
       {
         question: '마음에 들지 않으면 Proton이 환불해 주나요?',
@@ -2485,25 +2515,25 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       '마음에 들지 않으면 처음 30일 안에 환불을 요청하세요.',
     ],
     linkNote:
-      'Cecília의 링크에는 자체 할인도 코드도 없습니다. 가격과 프로모션은 Proton이 요금제 페이지와 결제 화면에 표시하는 내용을 따릅니다.',
+      '블랙 프라이데이 기간에는 Cecília의 링크가 최대 75% 할인이 적용된 Proton을 엽니다. 복사할 코드는 없으며, 각 요금제의 할인은 요금제 페이지에, 최종 가격은 결제 화면에 표시됩니다.',
   },
   ja: {
-    discount: '30日間の返金保証',
+    discount: '最大75%オフ',
     offerTypeLabel: 'オファー',
     offerTypeLabelPlural: 'オファー',
     offerActionLabel: 'Proton VPN のプランを見る',
     category: 'プライバシーを守る VPN、メール、パスワード、クラウド',
-    shortDescription: 'Proton VPN、Mail、Pass、Drive、Lumo への Cecília のリンク',
+    shortDescription: 'Cecília のリンクから Proton VPN、Mail、Pass、Drive、Lumo が最大75%オフ',
     longDescription:
-      'Em Casa com Cecília に Proton のクーポンはありません。このページのボタンから Cecília のリンクで公式サイトが開きます。ボタンは製品ごとに 1 つずつあります。価格とプロモーションは、Proton が決済画面に表示するとおりです。30 日以内に返金を申請すれば、Proton がサブスクリプション料金を返金します。',
-    metaTitle: 'Proton：VPN、Mail、Pass、Drive、Lumo のリンク',
+      'ブラックフライデーの間、Cecília のリンクから Proton の全ラインが最大75%オフです：Proton VPN、Mail、Pass、Drive、Lumo、Proton Unlimited。製品のボタンをタップしてプランを選び、契約するだけで、コピーするコードは必要ありません。気に入らなかった場合も、30日以内に返金を申請すれば Proton が契約料金を返金します。',
+    metaTitle: 'Proton ブラックフライデー：Cecília のリンクで最大75%オフ',
     metaDescription:
-      'Proton VPN、Proton Mail、Proton Pass、Proton Drive、Lumo への Cecília のリンク：無料プランと有料プラン、30 日以内の返金に対応。クーポンはありません。',
+      'Cecília のリンクから Proton がブラックフライデーで最大75%オフ：VPN、Mail、Pass、Drive、Lumo。コード不要、30日以内なら返金可能です。',
     eligibleCategories: 'Proton VPN、Proton Mail、Proton Pass、Proton Drive、Lumo、Proton Unlimited の有料プラン',
-    validity: '価格とプロモーションは変わります。契約する日に Proton が決済画面に表示する内容が適用されます',
+    validity: 'Proton のブラックフライデー特典で、終了日は発表されていません。最終価格は、契約日に Proton がチェックアウトで表示する金額です',
     reusable: 'リンクは契約のたびに使えます',
     shipping: '該当しません。プランはデジタル商品で、Proton アカウントですぐに使えます',
-    combinable: 'リンク自体に割引はありません。Proton がプランのページと決済画面に表示するプロモーションが適用されます',
+    combinable: 'Cecília のリンクからは、ブラックフライデーの最大75%オフで Proton が開きます。上乗せするコードはありません',
     aboutBrand:
       'Proton は、プライバシーと暗号化に力を入れるスイスの企業で、VPN、メール、パスワードマネージャー、クラウドストレージ、そして AI アシスタントの Lumo を提供しています。どの製品にも無料プランがあり、有料プランは 1 つずつでも、Proton Unlimited でまとめても契約できます。このページでは製品ごとの Cecília のリンクをまとめています。リンクから契約すると Em Casa com Cecília に報酬が入ることがありますが、契約者の追加負担はありません。',
     brandLogoAlt: 'Proton のロゴ',
@@ -2512,34 +2542,39 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          '無料プランと、最大 10 台のデバイスと 140 か国以上のサーバーに対応する VPN Plus がある VPN。このリンクは Proton Unlimited にもつながります。',
+          'Cecília のリンクから最大75%オフ。 無料プランと、最大 10 台のデバイスと 140 か国以上のサーバーに対応する VPN Plus がある VPN。このリンクは Proton Unlimited にもつながります。',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: 'エンドツーエンド暗号化のメール。無料プランと、容量とアドレスが増える有料プランがあります。',
+        description: 'Cecília のリンクから最大75%オフ。 エンドツーエンド暗号化のメール。無料プランと、容量とアドレスが増える有料プランがあります。',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: 'パスワード、カード、メモを保管し、ブラウザとスマートフォンでログイン情報を自動入力できる、暗号化パスワードマネージャーです。',
+        description: 'Cecília のリンクから最大75%オフ。 パスワード、カード、メモを保管し、ブラウザとスマートフォンでログイン情報を自動入力できる、暗号化パスワードマネージャーです。',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: '写真や書類のためのエンドツーエンド暗号化クラウドストレージ。無料プランがあります。',
+        description: 'Cecília のリンクから最大75%オフ。 写真や書類のためのエンドツーエンド暗号化クラウドストレージ。無料プランがあります。',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: 'プライバシーを手放さずに会話できるよう作られた、Proton の AI アシスタントです。',
+        description: 'Cecília のリンクから最大75%オフ。 プライバシーを手放さずに会話できるよう作られた、Proton の AI アシスタントです。',
       },
     ],
     faqs: [
       {
+        question: 'Proton のブラックフライデーの割引はどのくらいですか？',
+        answer:
+          'Cecília のリンクから、Proton VPN、Mail、Pass、Drive、Lumo、Proton Unlimited の全ラインが最大75%オフです。各プランの割引はリンク先のプランページに表示され、最終価格はチェックアウトで確認できます。',
+      },
+      {
         question: 'Cecília に Proton のクーポンはありますか？',
         answer:
-          'いいえ。Em Casa com Cecília にあるのはクーポンではなく、製品ごとに 1 つずつの Proton のアフィリエイトリンクです。リンクから公式サイトが開き、価格とプロモーションは Proton が決済画面に表示するとおりです。',
+          'クーポンは不要です。ブラックフライデーの間は、Cecília のリンクから開くだけで Proton が最大75%オフになります。ご希望の製品のボタンをタップしてプランを選び、契約するだけで、チェックアウトで貼り付けるコードはありません。',
       },
       {
         question: '気に入らなかった場合、Proton は返金してくれますか？',
@@ -2579,25 +2614,25 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       '気に入らなかった場合は、最初の 30 日以内に返金を申請します。',
     ],
     linkNote:
-      'Cecília のリンクに独自の割引やコードはありません。価格とプロモーションは、Proton がプランのページと決済画面に表示するものです。',
+      'ブラックフライデーの間、Cecília のリンクから最大75%オフで Proton が開きます。コピーするコードはありません。各プランの割引はプランページに表示され、最終価格はチェックアウトで確認できます。',
   },
   'zh-hant': {
-    discount: '30 天退款保證',
+    discount: '最高 75% 折扣',
     offerTypeLabel: '優惠',
     offerTypeLabelPlural: '優惠',
     offerActionLabel: '查看 Proton VPN 方案',
     category: '注重私隱的 VPN、電郵、密碼及雲端儲存',
-    shortDescription: 'Cecília 的 Proton VPN、Mail、Pass、Drive 和 Lumo 連結',
+    shortDescription: '透過 Cecília 的連結，Proton VPN、Mail、Pass、Drive 和 Lumo 最高 75% 折扣',
     longDescription:
-      'Em Casa com Cecília 沒有 Proton 的優惠碼：本頁的按鈕會透過 Cecília 的連結開啟官方網站，每個產品各有一個。價格和促銷以 Proton 在結帳時顯示的為準，若在 30 天內申請退款，Proton 會退還訂閱費用。',
-    metaTitle: 'Proton：VPN、Mail、Pass、Drive 和 Lumo 連結',
+      '黑色星期五期間，透過 Cecília 的連結，Proton 全線產品最高享 75% 折扣：Proton VPN、Mail、Pass、Drive、Lumo 和 Proton Unlimited。只需點擊產品按鈕，選擇方案並訂閱即可，無需複製任何代碼。如果不喜歡，在 30 天內申請退款，Proton 會退還訂閱費用。',
+    metaTitle: 'Proton 黑色星期五：透過 Cecília 連結最高 75% 折扣',
     metaDescription:
-      'Cecília 的 Proton VPN、Proton Mail、Proton Pass、Proton Drive 和 Lumo 連結：提供免費及付費方案，30 天內可退款。我們沒有優惠碼。',
+      '透過 Cecília 的連結，Proton 黑色星期五最高 75% 折扣：VPN、Mail、Pass、Drive 和 Lumo，無需代碼，30 天內可退款。',
     eligibleCategories: 'Proton VPN、Proton Mail、Proton Pass、Proton Drive、Lumo 和 Proton Unlimited 的付費方案',
-    validity: '價格和促銷可能變動，請以訂閱當天 Proton 在結帳時顯示的為準',
+    validity: 'Proton 的黑色星期五優惠，尚未公布結束日期；最終價格以訂閱當天 Proton 在結帳頁顯示的為準',
     reusable: '連結可用於每一次訂閱',
     shipping: '不適用：方案均為數碼產品，會在你的 Proton 帳戶中啟用',
-    combinable: '連結本身不提供折扣，適用的是 Proton 在方案頁面和結帳時顯示的促銷',
+    combinable: 'Cecília 的連結會以黑色星期五最高 75% 折扣開啟 Proton，無需疊加任何代碼',
     aboutBrand:
       'Proton 是一家專注於私隱和加密的瑞士公司，提供 VPN、電郵、密碼管理器、雲端儲存，以及人工智能助手 Lumo。各產品均設有免費方案，付費方案可逐一訂閱，也可透過 Proton Unlimited 一併訂閱。此頁面整合了 Cecília 為各產品提供的連結。透過連結訂閱，Em Casa com Cecília 可能會獲得佣金，訂閱者無需支付額外費用。',
     brandLogoAlt: 'Proton 標誌',
@@ -2606,34 +2641,39 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          '提供免費方案及 VPN Plus 的 VPN，VPN Plus 最多可用於 10 部裝置，伺服器遍及 140 多個國家或地區。此連結亦會帶你前往 Proton Unlimited。',
+          '透過 Cecília 的連結最高 75% 折扣。 提供免費方案及 VPN Plus 的 VPN，VPN Plus 最多可用於 10 部裝置，伺服器遍及 140 多個國家或地區。此連結亦會帶你前往 Proton Unlimited。',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: '端對端加密電郵，提供免費方案，以及容量和地址更多的付費方案。',
+        description: '透過 Cecília 的連結最高 75% 折扣。 端對端加密電郵，提供免費方案，以及容量和地址更多的付費方案。',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: '加密密碼管理器，可儲存密碼、卡片和筆記，並在瀏覽器和手機上自動填入登入資料。',
+        description: '透過 Cecília 的連結最高 75% 折扣。 加密密碼管理器，可儲存密碼、卡片和筆記，並在瀏覽器和手機上自動填入登入資料。',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: '為相片和文件提供端對端加密的雲端儲存，設有免費方案。',
+        description: '透過 Cecília 的連結最高 75% 折扣。 為相片和文件提供端對端加密的雲端儲存，設有免費方案。',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: 'Proton 的人工智能助手，讓你在對話時不必犧牲私隱。',
+        description: '透過 Cecília 的連結最高 75% 折扣。 Proton 的人工智能助手，讓你在對話時不必犧牲私隱。',
       },
     ],
     faqs: [
       {
+        question: 'Proton 在黑色星期五有多少折扣？',
+        answer:
+          '透過 Cecília 的連結，Proton 全線產品最高 75% 折扣：Proton VPN、Mail、Pass、Drive、Lumo 和 Proton Unlimited。每個方案的折扣顯示在連結開啟的方案頁面上，最終價格在結帳時顯示。',
+      },
+      {
         question: 'Cecília 有 Proton 的優惠碼嗎？',
         answer:
-          '沒有。Em Casa com Cecília 提供的是 Proton 的聯盟連結，每個產品各有一個，不是優惠碼：連結會開啟官方網站，價格和促銷以 Proton 在結帳時顯示的為準。',
+          '不需要優惠碼：黑色星期五期間，Cecília 的連結開啟的 Proton 已帶有最高 75% 折扣。只需點擊你想要的產品按鈕，選擇方案並訂閱，無需在結帳時貼上任何代碼。',
       },
       {
         question: '如果不喜歡，Proton 會退款嗎？',
@@ -2673,25 +2713,25 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       '如果不喜歡，請在最初 30 天內申請退款。',
     ],
     linkNote:
-      'Cecília 的連結本身不提供折扣，也沒有代碼：價格和促銷以 Proton 在方案頁面和結帳時顯示的為準。',
+      '黑色星期五期間，Cecília 的連結會以最高 75% 折扣開啟 Proton，無需複製代碼：每個方案的折扣顯示在方案頁面上，最終價格在結帳時顯示。',
   },
   'zh-hans': {
-    discount: '30 天退款保证',
+    discount: '最高 75% 折扣',
     offerTypeLabel: '优惠',
     offerTypeLabelPlural: '优惠',
     offerActionLabel: '查看 Proton VPN 方案',
     category: '注重隐私的 VPN、邮箱、密码和云存储',
-    shortDescription: 'Cecília 的 Proton VPN、Mail、Pass、Drive 和 Lumo 链接',
+    shortDescription: '通过 Cecília 的链接，Proton VPN、Mail、Pass、Drive 和 Lumo 最高 75% 折扣',
     longDescription:
-      'Em Casa com Cecília 没有 Proton 的优惠码：本页的按钮会通过 Cecília 的链接打开官方网站，每个产品各有一个。价格和促销以 Proton 在结账时显示的为准，如果在 30 天内申请退款，Proton 会退还订阅费用。',
-    metaTitle: 'Proton：VPN、Mail、Pass、Drive 和 Lumo 链接',
+      '黑色星期五期间，通过 Cecília 的链接，Proton 全线产品最高享 75% 折扣：Proton VPN、Mail、Pass、Drive、Lumo 和 Proton Unlimited。只需点击产品按钮，选择方案并订阅即可，无需复制任何代码。如果不喜欢，在 30 天内申请退款，Proton 会退还订阅费用。',
+    metaTitle: 'Proton 黑色星期五：通过 Cecília 链接最高 75% 折扣',
     metaDescription:
-      'Cecília 的 Proton VPN、Proton Mail、Proton Pass、Proton Drive 和 Lumo 链接：提供免费和付费方案，30 天内可退款。我们没有优惠码。',
+      '通过 Cecília 的链接，Proton 黑色星期五最高 75% 折扣：VPN、Mail、Pass、Drive 和 Lumo，无需代码，30 天内可退款。',
     eligibleCategories: 'Proton VPN、Proton Mail、Proton Pass、Proton Drive、Lumo 和 Proton Unlimited 的付费方案',
-    validity: '价格和促销可能变动，请以订阅当天 Proton 在结账时显示的为准',
+    validity: 'Proton 的黑色星期五优惠，暂未公布结束日期；最终价格以订阅当天 Proton 在结账页显示的为准',
     reusable: '链接可用于每一次订阅',
     shipping: '不适用：方案均为数字产品，会在你的 Proton 账户中开通',
-    combinable: '链接本身不提供折扣，适用的是 Proton 在方案页面和结账时显示的促销',
+    combinable: 'Cecília 的链接会以黑色星期五最高 75% 折扣打开 Proton，无需叠加任何代码',
     aboutBrand:
       'Proton 是一家专注于隐私和加密的瑞士公司，提供 VPN、邮箱、密码管理器、云存储，以及人工智能助手 Lumo。各产品均设有免费方案，付费方案可逐一订阅，也可通过 Proton Unlimited 一并订阅。本页汇总了 Cecília 为各产品提供的链接。通过链接订阅，Em Casa com Cecília 可能会获得佣金，订阅者无需支付额外费用。',
     brandLogoAlt: 'Proton 标志',
@@ -2700,34 +2740,39 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
         name: 'Proton VPN',
         url: 'https://go.getproton.me/SH39K',
         description:
-          '提供免费方案和 VPN Plus 的 VPN，VPN Plus 最多可用于 10 台设备，服务器遍布 140 多个国家或地区。此链接也会带你前往 Proton Unlimited。',
+          '通过 Cecília 的链接最高 75% 折扣。 提供免费方案和 VPN Plus 的 VPN，VPN Plus 最多可用于 10 台设备，服务器遍布 140 多个国家或地区。此链接也会带你前往 Proton Unlimited。',
       },
       {
         name: 'Proton Mail',
         url: 'https://go.getproton.me/SH39L',
-        description: '端到端加密邮箱，提供免费方案，以及容量和地址更多的付费方案。',
+        description: '通过 Cecília 的链接最高 75% 折扣。 端到端加密邮箱，提供免费方案，以及容量和地址更多的付费方案。',
       },
       {
         name: 'Proton Pass',
         url: 'https://go.getproton.me/SH39M',
-        description: '加密密码管理器，可保存密码、银行卡和笔记，并在浏览器和手机上自动填写登录信息。',
+        description: '通过 Cecília 的链接最高 75% 折扣。 加密密码管理器，可保存密码、银行卡和笔记，并在浏览器和手机上自动填写登录信息。',
       },
       {
         name: 'Proton Drive',
         url: 'https://go.getproton.me/SH39N',
-        description: '为照片和文档提供端到端加密的云存储，设有免费方案。',
+        description: '通过 Cecília 的链接最高 75% 折扣。 为照片和文档提供端到端加密的云存储，设有免费方案。',
       },
       {
         name: 'Lumo',
         url: 'https://go.getproton.me/SH39O',
-        description: 'Proton 的人工智能助手，让你在对话时不必牺牲隐私。',
+        description: '通过 Cecília 的链接最高 75% 折扣。 Proton 的人工智能助手，让你在对话时不必牺牲隐私。',
       },
     ],
     faqs: [
       {
+        question: 'Proton 在黑色星期五有多少折扣？',
+        answer:
+          '通过 Cecília 的链接，Proton 全线产品最高 75% 折扣：Proton VPN、Mail、Pass、Drive、Lumo 和 Proton Unlimited。每个方案的折扣显示在链接打开的方案页面上，最终价格在结账时显示。',
+      },
+      {
         question: 'Cecília 有 Proton 的优惠码吗？',
         answer:
-          '没有。Em Casa com Cecília 提供的是 Proton 的联盟链接，每个产品各有一个，不是优惠码：链接会打开官方网站，价格和促销以 Proton 在结账时显示的为准。',
+          '不需要优惠码：黑色星期五期间，Cecília 的链接打开的 Proton 已带有最高 75% 折扣。只需点击你想要的产品按钮，选择方案并订阅，无需在结账时粘贴任何代码。',
       },
       {
         question: '如果不喜欢，Proton 会退款吗？',
@@ -2767,7 +2812,7 @@ const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> =
       '如果不喜欢，请在最初 30 天内申请退款。',
     ],
     linkNote:
-      'Cecília 的链接本身不提供折扣，也没有代码：价格和促销以 Proton 在方案页面和结账时显示的为准。',
+      '黑色星期五期间，Cecília 的链接会以最高 75% 折扣打开 Proton，无需复制代码：每个方案的折扣显示在方案页面上，最终价格在结账时显示。',
   },
 };
 
