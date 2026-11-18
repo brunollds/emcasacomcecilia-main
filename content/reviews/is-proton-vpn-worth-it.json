@@ -16,7 +16,7 @@
     "url": "/sobre"
   },
   "description": "What Proton VPN Free covers, what only Plus has, what Plus costs for the first period and at renewal, and when Proton Unlimited makes sense.",
-  "metaDescription": "Is Proton VPN worth it? See what the free plan does, when Plus pays off, the price with the renewal and the terms of the 30-day refund.",
+  "metaDescription": "Is Proton VPN worth it? Free or Plus: our link offers $59.76 for 24 months, then $83.88 a year. Compare the features and terms.",
   "publishedAt": "November 17, 2026",
   "publishedAtISO": "2026-11-17",
   "updatedAt": "2026-11-17",
@@ -31,7 +31,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "According to Proton, the free plan of Proton VPN has no ads and no data limit and connects one device at a time. For a phone on public Wi-Fi, that is enough. Plus pays off if you want to choose the country, use several devices or block ads. Outside the monthly plan, the renewal costs more than the first period."
+        "Proton VPN Free covers one device without a data limit, with the app choosing the country. Plus makes sense for choosing a country, connecting up to ten devices or using NetShield. For two years, our link opens an offer below the pricing page's rate; after that, it renews annually."
       ]
     },
     {
@@ -50,8 +50,8 @@
         "**10 devices at the same time**, instead of 1.",
         "**Choice of country**, among more than 140, with more than 20,000 servers.",
         "**\"Highest VPN speed\"**, in Proton's words.",
-        "**NetShield**, the blocker for ads, trackers and malware through DNS filtering.",
-        "**Secure Core**, which the page marks as a premium feature.",
+        "**NetShield:** filters domains used for ads, trackers and malware while the VPN is connected and blocking is enabled.",
+        "**Secure Core:** according to Proton, routes the connection through two VPN servers, with an extra hop through protected servers operated by the company.",
         "**P2P and streaming**, which the page lists in the plan.",
         "**Priority support and live chat.**"
       ],
@@ -90,7 +90,7 @@
           [
             "Block ads and trackers on the device",
             "Not included",
-            "Yes, with NetShield"
+            "Yes, with NetShield enabled and the VPN connected"
           ],
           [
             "Share files over P2P",
@@ -116,7 +116,7 @@
         "These were the prices on Proton's pages on November 17, 2026, with the currency set to US dollars. The headline figure is the \"per month\" one, but the charge is for the whole period, upfront. The 1-year plan was at the Black Friday campaign price."
       ],
       "comparisonTable": {
-        "caption": "VPN Plus on Proton's pricing and partner pages, in US dollars. The amount changes with country and currency; check it at checkout.",
+        "caption": "VPN Plus on Proton's pricing, public deals and partner pages, in US dollars. Confirm currency and amounts at checkout.",
         "headers": [
           "Plan",
           "Per month",
@@ -143,6 +143,12 @@
             "$83.88 every 12 months"
           ],
           [
+            "2 years, public deals page",
+            "$2.99",
+            "$71.76",
+            "$83.88 every 12 months"
+          ],
+          [
             "2 years, on the partner page (the one our link opens)",
             "$2.49",
             "$59.76",
@@ -151,8 +157,8 @@
         ]
       },
       "postParagraphs": [
-        "On the 1-year and 2-year plans, the price in the table applies only to the first period. After that, both renew every 12 months at the advertised $83.88, and the terms say the price in force on the date applies. So if you stay two years, the 2-year plan costs less than the 1-year plan plus one renewal.",
-        "The last row is the page our button opens: the same 2-year plan at $59.76 for the first 24 months, with the same renewal. The comparison between the routes is in the [Proton Black Friday guide](/en/reviews/proton-black-friday)."
+        "The partner offer bills the first 24 months upfront. Renewal then becomes annual at the price in force, currently advertised as $83.88 for 12 months. One year plus a renewal would total $119.76 for the first two years at the recorded rates; that is a calculation using today's renewal, not a guaranteed future price.",
+        "Calculated from the recorded prices, the partner offer saves $12 against the public deals page's $71.76 for the same 24 months of VPN Plus. Against the pricing page's $83.76, the difference is $24. All three show the same advertised renewal: $83.88 every 12 months. Our button opens the partner offer; see the [Proton Black Friday guide](/en/reviews/proton-black-friday)."
       ],
       "image": {
         "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
@@ -164,16 +170,16 @@
       "heading": "VPN Plus or Proton Unlimited",
       "paragraphs": [
         "Proton Unlimited brings the paid features of the VPN, the email, the cloud storage and the password manager into one account. On the same page, the 1-year plan cost $77.88 and renewed at $119.88 every 12 months.",
-        "If you subscribe to VPN Plus, you keep the free plans of the other services, and the help center says you cannot have several Plus plans on the same account. Unlimited makes sense if you will use the paid VPN and one more paid Proton service. If you only want the VPN, the 1-year Plus costs less than half in the first period ($35.88 against $77.88) and stays cheaper at renewal ($83.88 against $119.88).",
+        "If you subscribe to VPN Plus, you keep the free plans of the other services, and the help center says you cannot have several Plus plans on the same account. Consider Unlimited if you will also use the other services' paid features; needing two services alone does not prove it is the cheapest choice. Proton also advertises a VPN and Pass bundle, worth comparing if you need a VPN and password manager. If you only want the VPN, the 1-year Plus costs less than half in the first period ($35.88 against $77.88) and stays cheaper at renewal ($83.88 against $119.88).",
         "We have used Proton Mail, from the same company, on the free plan for almost ten years. If the free email is enough for you, you do not need Unlimited to have the paid VPN."
       ]
     },
     {
       "heading": "What counts against it",
       "bullets": [
-        "**On the 1-year and 2-year plans, the renewal costs more than the first period.** On the 1-year plan from the pricing page, from $35.88 to $83.88.",
+        "**The equivalent monthly cost rises at renewal, which becomes annual.** The partner offer covers the first 24 months for $59.76; the advertised next charge is $83.88 every 12 months, subject to the price in force. These payments cover different periods.",
         "**Support starts with a form.** Proton's support runs through the contact form on its site, and live chat is listed only on the paid plan. More on this in [Is Proton VPN safe?](/en/reviews/is-proton-vpn-safe).",
-        "**The free plan does not let you choose the country.** If that is your reason for having a VPN, the free plan will not do."
+        "**Our link's offer requires paying for 24 months upfront.** If you need a VPN only briefly, compare the monthly and annual outlay before committing to two years."
       ]
     },
     {
@@ -189,7 +195,7 @@
       "bullets": [
         "Is Proton VPN free? It has a free plan, with no card, and paid plans. According to Proton, the free plan has no ads and no data limit and connects 1 device at a time.",
         "Does Proton VPN Free have a data limit? Proton says it does not. The limits of the free plan are 1 device at a time and servers in 10 countries picked by the app.",
-        "How much does Proton VPN Plus cost? On the pricing page we read, in US dollars, the 1-year plan was $35.88, billed upfront, and renewed at $83.88 every 12 months. The monthly plan cost $9.99. The amounts change with country and currency.",
+        "How much does Proton VPN Plus cost? In the US-dollar prices we recorded, one year cost $35.88 and our link's partner offer cost $59.76 for the first 24 months, both paid upfront. The advertised renewal was then $83.88 every 12 months; confirm currency, eligibility and the current price.",
         "What is the difference between VPN Plus and Proton Unlimited? VPN Plus is the paid VPN alone. Unlimited also includes the paid features of the email, the cloud storage and the password manager, for a higher price.",
         "Can I try Plus and get my money back? The terms provide for a refund within 30 days of the initial purchase, once per user, for those who subscribed directly with Proton and cancelled and asked within the period."
       ],
@@ -201,8 +207,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "If you have decided on Plus, our link opens Proton's partner page, with the 2-year plan. Check the upfront total and the renewal before you pay.",
-    "label": "View the Proton VPN offer",
+    "text": "For two years of Plus, our link opens the $59.76 offer for the first 24 months, $12 below the public deals page in our price check. Payment is upfront; it then renews at $83.88 every 12 months, subject to the price in force. Check your currency and total before subscribing.",
+    "label": "Check the 2-year Plus in our offer",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },
@@ -222,7 +228,7 @@
   "decision": {
     "takeIf": [
       "You use a VPN on more than one device or need to choose the country of the connection.",
-      "You want the ad and tracker blocker across the whole device."
+      "You want NetShield's ad and tracker filtering during the VPN connection."
     ],
     "skipIf": [
       "Your use is occasional, on a single device, and the country of the connection does not matter.",

@@ -16,7 +16,7 @@
     "url": "/sobre"
   },
   "description": "Cosa copre Proton VPN Free, cosa ha solo Plus, quanto costa Plus nel primo periodo e al rinnovo, e quando ha senso Proton Unlimited.",
-  "metaDescription": "Proton VPN conviene? Scopri cosa fa il piano gratuito, quando conviene Plus, il prezzo con il rinnovo e le condizioni del rimborso entro 30 giorni.",
+  "metaDescription": "Proton VPN conviene? Gratis o Plus: il nostro link offre 24 mesi a $59.76, poi $83.88 all'anno. Confronta funzioni e condizioni.",
   "publishedAt": "17 novembre 2026",
   "publishedAtISO": "2026-11-17",
   "updatedAt": "2026-11-17",
@@ -31,7 +31,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Secondo Proton, il piano gratuito di Proton VPN non ha pubblicità né limiti di dati e connette un dispositivo alla volta. Per un telefono su una rete Wi-Fi pubblica basta. Plus conviene se vuoi scegliere il paese, usare più dispositivi o bloccare la pubblicità. Fuori dal piano mensile, il rinnovo costa più del primo periodo."
+        "Proton VPN Free collega un dispositivo senza limiti di dati, con il paese scelto dall'app. Plus conviene per scegliere il paese, collegare fino a dieci dispositivi o usare NetShield. Per due anni, il nostro link apre un'offerta più economica di quella della pagina dei prezzi; poi il rinnovo è annuale."
       ]
     },
     {
@@ -50,8 +50,8 @@
         "**10 dispositivi contemporaneamente**, invece di 1.",
         "**Scelta del paese**, tra più di 140, con più di 20.000 server.",
         "**\"La massima velocità VPN\"**, nelle parole di Proton.",
-        "**NetShield**, il blocco di pubblicità, tracker e malware tramite filtro DNS.",
-        "**Secure Core**, che la pagina indica come funzione premium.",
+        "**NetShield:** filtra domini di pubblicità, tracker e malware con la VPN connessa e il blocco attivo.",
+        "**Secure Core:** secondo Proton, fa passare la connessione per due server VPN, con una tappa aggiuntiva su server protetti gestiti dall'azienda.",
         "**P2P e streaming**, che la pagina elenca nel piano.",
         "**Assistenza prioritaria e chat dal vivo.**"
       ],
@@ -90,7 +90,7 @@
           [
             "Bloccare pubblicità e tracker sul dispositivo",
             "Non incluso",
-            "Sì, con NetShield"
+            "Sì, con NetShield attivo e la VPN connessa"
           ],
           [
             "Condividere file in P2P",
@@ -116,7 +116,7 @@
         "Questi erano i prezzi sulle pagine di Proton il 17 novembre 2026, con la valuta impostata in dollari statunitensi. La cifra in evidenza è quella \"al mese\", ma l'addebito riguarda l'intero periodo, in anticipo. Il piano da 1 anno era al prezzo della campagna Black Friday."
       ],
       "comparisonTable": {
-        "caption": "VPN Plus sulle pagine dei prezzi e partner di Proton, in dollari statunitensi. L'importo cambia con paese e valuta; controllalo al pagamento.",
+        "caption": "VPN Plus nelle pagine dei prezzi, delle offerte pubbliche e partner di Proton, in dollari statunitensi. Conferma valuta e importi al pagamento.",
         "headers": [
           "Piano",
           "Al mese",
@@ -143,6 +143,12 @@
             "$83.88 ogni 12 mesi"
           ],
           [
+            "2 anni, pagina pubblica delle offerte",
+            "$2.99",
+            "$71.76",
+            "$83.88 ogni 12 mesi"
+          ],
+          [
             "2 anni, sulla pagina partner (quella che apre il nostro link)",
             "$2.49",
             "$59.76",
@@ -151,8 +157,8 @@
         ]
       },
       "postParagraphs": [
-        "Nei piani da 1 e 2 anni, il prezzo in tabella vale solo per il primo periodo. Dopo, entrambi si rinnovano ogni 12 mesi ai $83.88 indicati, e i termini dicono che si applica il prezzo in vigore a quella data. Quindi, se resti due anni, il piano da 2 anni costa meno di quello da 1 anno più un rinnovo.",
-        "L'ultima riga è la pagina che apre il nostro pulsante: lo stesso piano da 2 anni a $59.76 per i primi 24 mesi, con lo stesso rinnovo. Il confronto tra le strade è nella [guida al Black Friday di Proton](/it/reviews/black-friday-proton-offerte)."
+        "L'offerta partner addebita i primi 24 mesi in anticipo. Poi il rinnovo diventa annuale al prezzo in vigore, oggi indicato come $83.88 per 12 mesi. Un anno più un rinnovo costerebbe in totale $119.76 per i primi due anni ai prezzi registrati; è una simulazione con il rinnovo attuale, non un prezzo futuro garantito.",
+        "Calcolata sui prezzi registrati, l'offerta partner fa risparmiare $12 rispetto ai $71.76 della pagina pubblica delle offerte per gli stessi 24 mesi di VPN Plus. Rispetto agli $83.76 della pagina dei prezzi, la differenza è di $24. Tutte e tre indicano lo stesso rinnovo: $83.88 ogni 12 mesi. Il pulsante apre l'offerta partner; vedi la [guida al Black Friday di Proton](/it/reviews/black-friday-proton-offerte)."
       ],
       "image": {
         "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
@@ -164,16 +170,16 @@
       "heading": "VPN Plus o Proton Unlimited",
       "paragraphs": [
         "Proton Unlimited riunisce in un solo account le funzioni a pagamento della VPN, della posta, dello spazio cloud e del gestore di password. Sulla stessa pagina, il piano da 1 anno costava $77.88 e si rinnovava a $119.88 ogni 12 mesi.",
-        "Se ti abboni a VPN Plus, mantieni i piani gratuiti degli altri servizi, e il centro assistenza dice che non puoi avere più piani Plus sullo stesso account. Unlimited ha senso se userai la VPN a pagamento e un altro servizio Proton a pagamento. Se vuoi solo la VPN, il Plus da 1 anno costa meno della metà nel primo periodo ($35.88 contro $77.88) e resta più economico al rinnovo ($83.88 contro $119.88).",
+        "Se ti abboni a VPN Plus, mantieni i piani gratuiti degli altri servizi, e il centro assistenza dice che non puoi avere più piani Plus sullo stesso account. Considera Unlimited se userai anche le funzioni a pagamento degli altri servizi; aver bisogno di due servizi non dimostra da solo che sia la scelta più economica. Proton pubblicizza anche un pacchetto VPN con Pass, da confrontare se cerchi VPN e gestore di password. Se vuoi solo la VPN, il Plus da 1 anno costa meno della metà nel primo periodo ($35.88 contro $77.88) e resta più economico al rinnovo ($83.88 contro $119.88).",
         "Usiamo Proton Mail, della stessa azienda, con il piano gratuito da quasi dieci anni. Se la posta gratuita ti basta, non ti serve Unlimited per avere la VPN a pagamento."
       ]
     },
     {
       "heading": "Cosa pesa contro",
       "bullets": [
-        "**Nei piani da 1 e 2 anni, il rinnovo costa più del primo periodo.** Nel piano da 1 anno della pagina dei prezzi, da $35.88 a $83.88.",
+        "**Il costo mensile equivalente sale al rinnovo, che diventa annuale.** L'offerta partner copre 24 mesi a $59.76; poi l'addebito annunciato è di $83.88 ogni 12 mesi, in base al prezzo in vigore. Sono periodi diversi.",
         "**L'assistenza parte da un modulo.** L'assistenza di Proton passa dal modulo di contatto sul suo sito, e la chat dal vivo è elencata solo nel piano a pagamento. Ne parliamo meglio in [Proton VPN è affidabile?](/it/reviews/proton-vpn-e-affidabile).",
-        "**Il piano gratuito non permette di scegliere il paese.** Se è questo il motivo per cui vuoi una VPN, il piano gratuito non basta."
+        "**L'offerta del nostro link richiede di pagare 24 mesi in anticipo.** Se ti serve la VPN per poco tempo, confronta l'esborso mensile e annuale prima di impegnarti per due anni."
       ]
     },
     {
@@ -189,7 +195,7 @@
       "bullets": [
         "Proton VPN è gratis? Ha un piano gratuito, senza carta, e piani a pagamento. Secondo Proton, il piano gratuito non ha pubblicità né limiti di dati e connette 1 dispositivo alla volta.",
         "Proton VPN Free ha un limite di dati? Proton dice di no. I limiti del piano gratuito sono 1 dispositivo alla volta e server in 10 paesi scelti dall'app.",
-        "Quanto costa Proton VPN Plus? Nella pagina dei prezzi che abbiamo letto, in dollari statunitensi, il piano da 1 anno costava $35.88, addebitati in anticipo, e si rinnovava a $83.88 ogni 12 mesi. Il piano mensile costava $9.99. Gli importi cambiano con paese e valuta.",
+        "Quanto costa Proton VPN Plus? Nei prezzi in dollari statunitensi che abbiamo letto, un anno costava $35.88 e l'offerta partner del nostro link $59.76 per i primi 24 mesi, entrambi pagati in anticipo. Il rinnovo annunciato era poi di $83.88 ogni 12 mesi; conferma valuta, idoneità e prezzo in vigore.",
         "Qual è la differenza tra VPN Plus e Proton Unlimited? VPN Plus è solo la VPN a pagamento. Unlimited include anche le funzioni a pagamento di posta, spazio cloud e gestore di password, a un prezzo più alto.",
         "Posso provare Plus e riavere i soldi? I termini prevedono un rimborso entro 30 giorni dall'acquisto iniziale, una sola volta per utente, per chi si è abbonato direttamente con Proton e ha disdetto e chiesto il rimborso entro il termine."
       ],
@@ -201,8 +207,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Se hai deciso per Plus, il nostro link apre la pagina partner di Proton, con il piano da 2 anni. Controlla il totale iniziale e il rinnovo prima di pagare.",
-    "label": "Vedi l'offerta Proton VPN",
+    "text": "Per due anni di Plus, il nostro link apre l'offerta da $59.76 per i primi 24 mesi, $12 in meno rispetto alla pagina pubblica delle offerte nei prezzi che abbiamo letto. Paghi in anticipo; poi si rinnova a $83.88 ogni 12 mesi, in base al prezzo in vigore. Controlla valuta e totale prima di abbonarti.",
+    "label": "Vedi il Plus da 2 anni nella nostra offerta",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },
@@ -222,7 +228,7 @@
   "decision": {
     "takeIf": [
       "Usi una VPN su più di un dispositivo o hai bisogno di scegliere il paese della connessione.",
-      "Vuoi il blocco di pubblicità e tracker su tutto il dispositivo."
+      "Vuoi il filtraggio di pubblicità e tracker di NetShield durante la connessione VPN."
     ],
     "skipIf": [
       "Il tuo uso è occasionale, su un solo dispositivo, e il paese della connessione non conta.",
