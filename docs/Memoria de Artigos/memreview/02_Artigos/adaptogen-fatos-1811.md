@@ -31,7 +31,9 @@ briefings são do Job 1. Sem GO de redação: é a pesquisa semente.
   para cliente novo e antigo, sem citar cupom da loja.
 - **AD6 tem prazo e tem busca:** a campanha está no ar e o código já foi testado por cima dela (seção 5). É a primeira
   a redigir, junto com a AD1.
-- **Ordem:** AD6 e AD1, depois AD5 e AD4. AD2 e AD3 fora da fila.
+- **Ordem:** AD6 e AD1, depois AD5 e AD4. AD2 e AD3 fora da fila. **Os quatro têm briefing desde 18/11:**
+  [[black-friday-adaptogen]], [[cupom-adaptogen-como-usar]], [[adaptogen-e-boa]] e [[cupom-adaptogen-primeira-compra]].
+  As regras do pacote estão na AD1.
 - **AD5 sem a reputação:** "é boa" fala de produto (linha, composição pelo rótulo, preço, sabor pela descrição da
   marca). Se o leitor perguntar de entrega e atendimento, o texto dá as políticas da loja (seção 6), sem a nota.
 
@@ -182,3 +184,30 @@ e Fórmulas, site adaptogen.com.br, 6 anos no Reclame Aqui. **Sem o selo de empr
 - **Panic pré-treino** ("panic pré treino rótulo", "tabela", "é bom"): estimulante, pede cuidado de saúde. Só pelo
   rótulo.
 - **Adaptogen no Mercado Livre, na Shopee e na Amazon: é a loja oficial?** Só depois de conferir os anúncios.
+
+## 9. Leitura do Job 1 (18/11/2026, navegador, sem login)
+
+- **Coleção de Black Friday:** 57 produtos. Cada um mostra o "de" riscado, o preço do Pix em destaque e o do cartão
+  na linha do parcelamento. Cinco itens lidos não tinham "de" (Arginina Platinum Series, BCAA Fermentado, BetaPure,
+  Glutamina Fermentada, Intra Amino Sport).
+- **Conta sobre os preços lidos:** nos suplementos com "de", o cartão ficou 15% abaixo do "de" e o Pix, 5% abaixo do
+  cartão (Creatina Flavor: R$ 115,00, R$ 97,75, R$ 92,86; HIT Protein: R$ 173,15, R$ 147,18, R$ 139,82; Gold Whey:
+  R$ 262,90, R$ 223,48, R$ 212,30; Tasty Whey 3W: R$ 317,90, R$ 270,20, R$ 256,71). A jaqueta de moletom ficou 35%
+  abaixo. Nenhum suplemento lido chegou ao "até 50%" do banner.
+- **Páginas de produto:** Tasty Whey 3W Gourmet 900 g (concentrado, isolado e hidrolisado; 24 g de proteína por dose;
+  23 sabores; lactose; glúten em Cookies and Cream e Chocolate Maltado); Gold Whey 900 g (concentrado; 21 g por dose;
+  4,7 g de BCAA; 2 g de leucina); **HIT Protein Bag 900 g (whey concentrado com peptídeos de colágeno hidrolisado;
+  20 g por dose; a página não diz quanto vem de cada fonte)**; Creatina Flavor 300 g (monohidratada; 3 g por dose; 81
+  doses; estévia). O tamanho da dose em gramas não está no texto das páginas: fica na tabela nutricional, em imagem,
+  **não lida**. As páginas mostravam zero avaliações de cliente.
+- **Política de entrega:** expedição em até 2 dias úteis depois do pagamento confirmado (pedido depois das 12h, fim
+  de semana ou feriado conta do dia útil seguinte); pedido parado há mais de 7 dias úteis no rastreio, falar com o
+  SAC; divergência (entregue sem receber, item faltando ou trocado, caixa violada) avisada em até 7 dias corridos da
+  entrega; recusar a encomenda com sinais de avaria. A tabela de frete grátis por região confere com o dossiê.
+- **Topo do Google:** "adaptogen black friday" tem revendedoras, marketplaces e posts de oferta; "cupom adaptogen
+  como usar" e "primeira compra", posts de rede social com código de criador e agregadores; "adaptogen é boa", posts
+  da marca, reclamações avulsas e duas listas de "melhores wheys" de afiliado. Nenhum guia do site oficial com
+  carrinho testado nem conta por dose.
+- **Autocompletar a mais:** "adaptogen é boa" traz creatina, glutamina, proteína, arginina e cafeína; "tasty whey é"
+  traz "isolado ou concentrado", "3w", "hidrolisado", "bom para emagrecer" e "confiável"; "adapto cash" não tem
+  sugestão.
