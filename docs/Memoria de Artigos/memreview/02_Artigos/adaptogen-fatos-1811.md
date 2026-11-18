@@ -211,3 +211,28 @@ e Fórmulas, site adaptogen.com.br, 6 anos no Reclame Aqui. **Sem o selo de empr
 - **Autocompletar a mais:** "adaptogen é boa" traz creatina, glutamina, proteína, arginina e cafeína; "tasty whey é"
   traz "isolado ou concentrado", "3w", "hidrolisado", "bom para emagrecer" e "confiável"; "adapto cash" não tem
   sugestão.
+
+## 10. Tabela nutricional dos wheys e a conta contra os comparativos (18/11/2026)
+
+Lida no site oficial, sem login. No Tasty Whey 3W a tabela está em texto na página; nos outros três é a segunda
+imagem do produto.
+
+| Produto (900 g) | Porção e proteína | Porções | Proteína no pacote | Cartão com o `CECILIA` | Por 100 g de proteína |
+|---|---|---|---|---|---|
+| Tasty Whey 3W Gourmet | 34 g, 24 g | cerca de 26 | 635 g | R$ 243,18 | R$ 38,28 |
+| Gold Whey | 30 g, 21 g | 30 | 630 g | R$ 201,13 | R$ 31,93 |
+| Tasty Iso | 30 g, 25 g | 30 | 750 g | R$ 352,59 | R$ 47,01 |
+| HIT Protein Bag | 33 g, 20 g | cerca de 27 | 545 g | R$ 132,46 | R$ 24,28 (com colágeno, não se compara) |
+
+- Conta nossa, pelo peso líquido (preço × porção ÷ peso × proteína × 100), com os preços de cartão da Black Friday
+  de 18/11 menos 10%. O cartão do Tasty Iso (R$ 391,77) saiu do Pix de R$ 372,18 e do "de" de R$ 460,90, pela
+  mesma regra dos outros (15% abaixo do "de").
+- **Contra o que está em [[alternativas-a-growth-whey]] (preços de 09/11):** o Tasty 3W fica acima do 3W da Growth
+  (R$ 34,01) e do Mais Sabor da Max (R$ 30,24); o Gold Whey, acima do concentrado da Growth (R$ 21,15) e do 80% HD
+  da Black Skull (a partir de R$ 18,25); o Tasty Iso, acima do isolado da Growth (R$ 41,96), do IsoWhey da Max
+  (R$ 37,64) e do da Mais Mu. A Creatina Flavor (R$ 36,20 por 100 g de creatina com o código) fica acima das três
+  de [[alternativas-a-creatina-da-growth]].
+- **Conclusão:** pela regra da série (só entra linha com vantagem), a Adaptogen não entra nas duas Alternativas nem
+  em `creatina-com-sabor-qual-escolher`. Um "Adaptogen ou Growth" ou "Adaptogen ou Dux" não se sustenta pelo preço
+  por proteína: teria de partir de sabor e variedade, e esbarra na reputação, assunto segurado pelo Bruno.
+- Não lidos: 100% Beef, Adapto Whey 3W e Adapto Whey Bag 2,2 kg.
