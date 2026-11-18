@@ -133,6 +133,7 @@ checkout com o cupom e uma foto oficial de kit.
 - Banners "Black Week" na home desde 18/11 (depois da leitura dos fatos), sem datas nem regulamento; o artigo lista os preços deles, que são os da vitrine, sem "menor preço do ano", sem preço riscado e sem "até X%".
 - O print do banner do kit saiu do corpo: a arte traz o preço riscado e o "menor preço do ano".
 - Reler a vitrine e refazer o carrinho na semana de 27/11.
+- **Farol (ChatGPT/Codex, 18/11, colado pelo Bruno; em `docs/auditoria-copy-artigos/barbours-bb1-bb5-bb9-20261118-farol/`, fora do Git):** 49 propostas, aplicadas depois do #1162 com conferência nas fontes. Ajustes: link e âncora "cupom Barbour's" fora das respostas rápidas (a âncora fica uma vez por artigo); os CTAs com o caminho completo (Inserir cupom de desconto); nada sobre o link de afiliado preencher ou não o código (não abrimos o link). Notas olfativas do My Sweet Delight conferidas na página do produto em 18/11. 97,9% é índice de solução das finalizadas e avaliadas; a comparação com o contador de compras saiu; a conclusão da BB3 cita os dois CNPJs e pede conferir a empresa no pedido.
 
 ## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
 
