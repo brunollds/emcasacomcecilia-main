@@ -61,8 +61,8 @@ O topo é de vídeos e posts de opinião e de sabor, páginas automáticas de "p
 "melhor whey". Nenhum põe os rótulos lado a lado por perfil.
 
 - **Uma tabela por perfil,** com o produto de cada marca que atende e o número do rótulo que justifica.
-- **O que uma tem e a outra não:** proteína de carne (Adaptogen); proteínas vegetais, albumina e whey com ovo
-  (Growth).
+- **O que uma tem e a outra não:** proteína de carne (Adaptogen); albumina e whey com ovo (Growth). Proteína vegetal
+  as duas têm: o Vegan Iso de ervilha na Adaptogen; soja, arroz, ervilha e blend vegano na Growth.
 - **O preço sem enfeite:** quem decide pelo custo por proteína fica com a Growth; o artigo diz isso.
 
 ## O que já está lido (18/11/2026) e o que falta
@@ -77,7 +77,7 @@ O topo é de vídeos e posts de opinião e de sabor, páginas automáticas de "p
 | Tasty Iso | 30 g | 25 g | 115 kcal | 1,5 g | isolado e hidrolisado; "zero lactose"; 7 sabores |
 | 100% Beef | 32 g | 25 g | 120 a 125 kcal | 2,5 a 4 g | proteína da carne bovina; sem lactose, sem glúten, sem colágeno; 3 sabores |
 
-**Growth (rótulos usados em [[alternativas-a-growth-whey]], 09/11; calorias e carboidratos não lidos):** 100% Whey
+**Growth (rótulos usados em [[alternativas-a-growth-whey]], 09/11; calorias e carboidratos na releitura abaixo):** 100% Whey
 Protein Concentrado 900 g, 21 g em 30 g; (TOP) Whey Protein Concentrado 1 kg, 23 a 24 g em 30 g; 3W Whey Protein
 1 kg, 24 g em 30 g; (TOP) Whey Protein Isolado 1 kg, 27 g em 30 g; Whey Protein Zero Lactose 1 kg, 23 g em 30 g.
 
@@ -89,6 +89,36 @@ ervilha, blend vegano e colágeno. **Não há proteína de carne.**
 contra R$ 41,96; zero lactose, 100% Beef a R$ 30,28 contra R$ 37,67 do Zero Lactose da Growth. **A única linha em
 que a Adaptogen custa menos é a Beef.**
 
+## Releitura de 18/11/2026, à tarde (Job 1; vale por cima da seção anterior)
+
+Feita no navegador, sem login e sem carrinho, nas duas lojas no mesmo dia. **Os preços da Adaptogen e da Growth não
+mudaram** (Growth: Pix 10% abaixo do cartão; cartão em 6x sem juros).
+
+| Growth | Porção, proteína | kcal | Carboidratos | Açúcares | Sabores | Lactose e glúten (página) | Cartão | Por 100 g de proteína |
+|---|---|---|---|---|---|---|---|---|
+| 100% Whey Protein Concentrado 900 g | 30 g, 21 g | 121 | 4,5 g | 3,3 g | 3 | contém lactose | R$ 133,22 | R$ 21,15 |
+| 3W Whey Protein 1 kg | 30 g, 24 g | 118 | 2,5 g | 1,1 g | 3 | contém lactose; não contém glúten | R$ 272,11 | R$ 34,01 |
+| (TOP) Whey Protein Isolado 1 kg | 30 g, 27 g | 116 | 2 g | 0 g | 3 | **contém lactose**; não contém glúten | R$ 377,66 | R$ 41,96 |
+| Whey Protein Zero Lactose 1 kg | 30 g, 23 g | 120 | 2,3 g | 1,7 g (lactose 0 g) | 5 | não contém glúten | R$ 288,78 | R$ 37,67 |
+
+- **O isolado da Growth contém lactose** (tabela comparativa e alérgicos da página). Para quem evita lactose, o par da
+  Growth é só o Zero Lactose.
+- **A Adaptogen também vende proteína vegetal:** o Vegan Iso 450 g, proteína isolada da ervilha, 3 sabores. Tabela
+  (segunda imagem): porção 33 g, 24 g de proteína, 130 kcal, 2,7 g de carboidratos, 2,7 g de açúcares adicionados,
+  cerca de 13 porções. Cartão 4x de R$ 55,44 (R$ 221,76); com o `CECILIA`, R$ 199,58, **R$ 60,98** por 100 g de
+  proteína. O rótulo da embalagem diz "0g sugar"; a tabela diz 2,7 g: usar a tabela. Link:
+  `https://www.adaptogen.com.br/produto/vegan-iso-450g-150437?parceiro=CECILIA`. As proteínas vegetais da Growth
+  (soja, arroz, ervilha, blend vegano) não tiveram rótulo nem preço lidos: sem par de preço.
+- **Proteína por 100 g de pó** (conta nossa): Isolado da Growth 90 g, o maior das duas lojas; Tasty Iso 83 g; 3W da
+  Growth 80 g; Adapto 3W e 100% Beef 78 g; Zero Lactose 77 g; Vegan Iso 73 g; Tasty 3W 71 g; Gold e concentrado da
+  Growth 70 g.
+- **Tasty Iso no cartão:** 6x de R$ 65,30 (R$ 391,80); com o `CECILIA`, **R$ 47,02** por 100 g de proteína.
+- **Frete grátis da Growth:** o valor muda com o estado escolhido no topo do site, e a leitura não fechou um número por
+  região. O texto diz só que o valor aparece ao escolher o estado.
+- **Tamanhos da Growth:** concentrado em 450 g, 750 g e 900 g; Zero Lactose em 450 g e 1 kg; 3W e isolado em 1 kg.
+- **Foto para a capa (sugestão ao Job 6):** a 100% Beef ainda não está em nenhuma capa da loja e é o produto que a
+  Growth não tem. A foto do Vegan Iso pode ir ao corpo.
+
 ## Esqueleto
 
 1. **Resposta rápida** (40 a 60 palavras, sem "R$"). Rascunho, 55 palavras:
@@ -97,11 +127,11 @@ que a Adaptogen custa menos é a Beef.**
    > cupom CECILIA dá 10% no site da Adaptogen. A escolha depende da sua dieta.
 2. **Como comparamos.** Só rótulo e página das duas lojas; uma data no corpo. Sabor e efeito ficam de fora: não
    provamos os produtos.
-3. **Para quem evita lactose.** Tasty Iso e 100% Beef contra o Zero Lactose e o Isolado da Growth, com o que cada
-   página diz. "Zero lactose" sempre como "a loja informa". Alergia à proteína do leite é outro assunto: uma frase
+3. **Para quem evita lactose.** Tasty Iso e 100% Beef contra o Zero Lactose da Growth (o isolado dela contém lactose,
+   pela página), com o que cada página diz. "Zero lactose" sempre como "a loja informa". Alergia à proteína do leite é outro assunto: uma frase
    mandando ao médico, sem indicar produto.
-4. **Para quem não quer proteína do leite.** Adaptogen: carne. Growth: soja, arroz, ervilha, blend vegano e albumina.
-   Para vegano, a Growth é a única das duas.
+4. **Para quem não quer proteína do leite.** Adaptogen: carne (100% Beef) e ervilha (Vegan Iso). Growth: soja, arroz,
+   ervilha, blend vegano e albumina. Proteína de carne, só a Adaptogen.
 5. **Para quem conta calorias e carboidratos.** Tabela por dose (kcal, carboidratos, açúcares, proteína). É a
    resposta para "para emagrecer" **sem prometer efeito**: o texto mostra o rótulo e diz que quem define a dieta é o
    nutricionista.
@@ -158,7 +188,7 @@ nosso.
 | Afirmação | Rótulo | Fonte | Status |
 |---|---|---|---|
 | Porção, proteína, calorias e carboidratos da Adaptogen | A loja informa: | tabelas nutricionais, 18/11 | verificado |
-| Porção e proteína da Growth | A loja informa: | rótulos lidos em 09/11 | reler; calorias e carboidratos a ler |
+| Porção, proteína, calorias e carboidratos da Growth | A loja informa: | páginas, releitura de 18/11 | verificado |
 | "Zero lactose" no Tasty Iso e na 100% Beef | A loja informa: | páginas de produto | verificado, sempre com atribuição |
 | A Growth não vende proteína de carne | Conta nossa: | categoria e busca do site, 18/11 | verificado; reconferir no dia |
 | Custo por 100 g de proteína | Conta nossa: | preços de datas diferentes | refazer no mesmo dia |

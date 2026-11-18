@@ -68,7 +68,7 @@ Cartão, sem frete. Adaptogen com o `CECILIA` (10%) sobre o preço de campanha; 
 |---|---|---|
 | Concentrado 900 g | Gold Whey: 30 g, 21 g; R$ 201,13; **R$ 31,93** por 100 g de proteína | Whey Protein Concentrado: 30 g, 20 g; R$ 368,90; **R$ 61,48** |
 | Três proteínas 900 g | Tasty Whey 3W Gourmet: 34 g, 24 g; R$ 243,18; **R$ 38,28** | FreshWhey: 30 g, 20 g; R$ 455,90; **R$ 75,98** |
-| Isolado 900 g | Tasty Iso: 30 g, 25 g; R$ 352,59; **R$ 47,01** | Whey Protein Isolado: 24 g por dose; R$ 560,90; **R$ 77,90** (dose de 30 g na conta) |
+| Isolado 900 g | Tasty Iso: 30 g, 25 g; R$ 352,62; **R$ 47,02** | Whey Protein Isolado: 29 g, 24 g; R$ 560,90; **R$ 75,31** |
 
 - A Dux mostra o Pix 5% abaixo do cartão (R$ 350,90, R$ 433,90 e R$ 533,90 nos três wheys). Na Adaptogen, o Pix
   também fica 5% abaixo do cartão. Pix em linha à parte, nunca somado ao cupom num percentual só.
@@ -79,11 +79,38 @@ Cartão, sem frete. Adaptogen com o `CECILIA` (10%) sobre o preço de campanha; 
 - Para a parte 2 (fora deste texto): Creatina Monohidratada 300 g da Dux a R$ 59,90 (5 g, 60 doses; R$ 19,97 por
   100 g) e Creatina Flavor 300 g da Adaptogen a R$ 87,97 com o código (3 g, 81 doses; R$ 36,20 por 100 g). A
   Creatina Platinum Series não foi lida.
-- Sabores no site da Dux: mais de 20 no concentrado e no FreshWhey (lista da página). A Adaptogen informa 23 no
-  Tasty Whey, 9 no Gold Whey e 7 no Tasty Iso. Contar de novo no dia.
+- Sabores (releitura da tarde): a Dux lista 13 no concentrado, 11 no isolado e 9 no FreshWhey. A Adaptogen informa 23
+  no Tasty Whey, 9 no Gold Whey e 7 no Tasty Iso.
 - Lactose e glúten, pelo que cada página diz: FreshWhey e concentrado da Dux contêm lactose e podem ter glúten por
   contaminação cruzada (Cookies e Butter Cookies têm trigo); Tasty Iso, "zero lactose", com glúten no Cookies and
   Cream; Tasty Whey 3W contém lactose, com glúten em Cookies and Cream e Chocolate Maltado.
+
+## Releitura de 18/11/2026, à tarde (Job 1; vale por cima da seção anterior)
+
+Feita no navegador, sem login e sem carrinho, nas duas lojas no mesmo dia. **Os preços da Adaptogen não mudaram**; a
+conta acima vale, com os acertos abaixo.
+
+- **Dose do isolado da Dux: 29 g** (tabela da página, sabor Baunilha): 24 g de proteína, 108 kcal, 1,6 g de
+  carboidratos, cerca de 31 doses, 745 g de proteína no pote. Com ela, **R$ 75,31** por 100 g de proteína (não
+  R$ 77,90).
+- **Cartão do Tasty Iso:** a página mostra 6x de R$ 65,30 (R$ 391,80); com o `CECILIA`, R$ 352,62 e **R$ 47,02** por
+  100 g de proteína (o R$ 47,01 saiu do cartão calculado pela regra dos 15%).
+- **Sabores da Dux (contados na página):** concentrado, 13, com Neutro; isolado, 11, com Neutro; FreshWhey, 9, sem
+  Neutro. O "mais de 20" estava errado.
+- **Tamanhos da Dux:** concentrado e isolado em sachê, 450 g, 900 g e 1,8 kg; FreshWhey em sachê, 450 g e 900 g.
+- **Tabelas da Dux:** concentrado 30 g, 20 g, 128 kcal, 6,7 g de carboidratos; FreshWhey 30 g, 20 g, 118 kcal, 5,2 g
+  (concentrado, isolado e hidrolisado, adoçado com estévia e taumatina). A dose do concentrado e do FreshWhey tem
+  20 g de proteína; a da Adaptogen, de 21 a 25 g.
+- **Lactose e glúten na Dux:** os três contêm lactose. Concentrado: trigo em Cookies, Butter Cookies e Banoffee (FAQ
+  da página). Isolado: trigo no Cookies, os outros sabores com risco de contaminação cruzada. FreshWhey: "contém
+  lactose. Contém glúten" nos alérgicos. O Tasty Iso é o único dos seis que a loja descreve como zero lactose.
+- **Sem o cupom a Adaptogen também custa menos por proteína** (conta nossa, cartão): Gold R$ 35,47, Tasty 3W R$ 42,53,
+  Tasty Iso R$ 52,24; 42%, 44% e 31% abaixo da Dux.
+- **Frete grátis da Dux:** Sul, Sudeste e Centro-Oeste acima de R$ 250; Nordeste acima de R$ 300; Norte acima de
+  R$ 400. A Adaptogen tem o piso menor no Sudeste (R$ 199); a Dux, no Nordeste e no Norte.
+- **Neutro na Adaptogen:** não conferido. O texto não pode dizer que a Adaptogen não tem sabor Neutro.
+- **Foto para a capa (sugestão ao Job 6):** o Adapto Whey 3W ainda não está em nenhuma capa da loja; Gold, Tasty 3W e
+  Tasty Iso estão na capa da AD5.
 
 ## Esqueleto
 
@@ -146,7 +173,7 @@ por 100 g de proteína é nosso.
 | Afirmação | Rótulo | Fonte | Status |
 |---|---|---|---|
 | Dose, porções e proteína dos wheys da Adaptogen | A loja informa: | tabelas nutricionais, 18/11 (ficha, seção 10) | verificado |
-| Dose e proteína dos wheys da Dux (20 g em 30 g; isolado 24 g) | A loja informa: | páginas da Dux, 18/11 | verificado; dose do isolado a reler |
+| Dose e proteína dos wheys da Dux (20 g em 30 g; isolado 24 g em 29 g) | A loja informa: | páginas da Dux, 18/11 | verificado |
 | Preços no cartão e no Pix das duas lojas | A loja informa: | páginas, 18/11 | reler no dia |
 | Custo por 100 g de proteína | Conta nossa: | preço × porção ÷ peso × proteína | refazer no dia |
 | `CECILIA` 10% sobre o preço de campanha | Conta nossa: | carrinhos de 18/11 | verificado, "nos nossos testes" |
