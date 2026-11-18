@@ -9,9 +9,9 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), junto com a AD1; refazer os carrinhos na semana de 27/11"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer os carrinhos e reler a vitrine na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "AD6"
@@ -176,3 +176,19 @@ produto com `href` usa `&parceiro=CECILIA` ou `?parceiro=CECILIA`, nunca `&?parc
 
 Já abertas na ficha: datas ou regras da Black Friday passadas pela parceira; valor mínimo e limite de usos do código;
 se a Cecília usa algum produto.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1055) por subagente, com um brief comum da sessão (regras do pacote, fatos de [[adaptogen-fatos-1811]] e as leituras de 18/11), e revisado pela sessão.
+- **Bruno, 18/11:** a Cecília não usa os produtos; a loja não passou datas nem regras da Black Friday, nem mínimo, nem limite de usos (não escrever nada disso). AD2 e AD3 seguem seguradas: nenhum dos quatro cita reputação, laudo, Anvisa ou origem.
+- **Job 3:** revisão do Fable 5.2 (23 achados, todos aplicados). Depois, o parecer externo do Farol (ChatGPT/Codex, em `docs/auditoria-copy-artigos/adaptogen-ad1-ad4-ad5-ad6-20261118-farol/`, fora do Git) que o Bruno colou: 41 propostas, todas aplicadas; oito com ajuste, porque punham link na resposta rápida ou repetiam a âncora "cupom Adaptogen" (#1, #5, #9, #10, #32), tiravam a frase sobre códigos de outros sites que o briefing da AD4 pede (#7) ou voltavam a falar se o piso do frete conta antes ou depois do cupom (#40, #41).
+- **Pix:** "o CECILIA vale também no Pix e no boleto, para os quais a loja anuncia 5%; confira os dois descontos no resumo", sem percentual somado e sem total com Pix (o pagamento pede login e não foi aberto).
+- **Vitrine relida em 18/11 à tarde:** 57 produtos, sem regulamento nem data de fim. Nos 22 primeiros itens, todo item com "de" tinha o cartão 15% abaixo dele e o Pix 5% abaixo do cartão (jaqueta, 35%); nenhum suplemento lido a 50%. O "até 50% OFF" fica só como frase do banner.
+- **Carrinho da creatina:** o detalhe dos R$ 0,10 de "Desconto" sem o código saiu do texto; a conta parte de R$ 97,75, como o resumo com o código mostrou.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/adaptogen/black-friday-adaptogen-capa.webp`, painel lateral, "Black Friday / Cupom por cima" e o CECILIA, com a Creatina Flavor e o HIT Protein (fotos oficiais).
+- **Corpo:** o print do checkout com o cupom (`cupom-adaptogen-checkout-com-cupom.webp`) e as fotos da Creatina Flavor e do HIT Protein, com link de afiliado para a página de cada produto.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

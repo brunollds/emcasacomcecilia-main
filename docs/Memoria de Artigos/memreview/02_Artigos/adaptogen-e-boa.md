@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), depois da AD6 e da AD1; ler a tabela nutricional de cada produto (imagem) antes das contas de whey"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer os carrinhos e reler a vitrine na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "AD5"
@@ -195,3 +195,19 @@ lida, um recorte dela como imagem do capítulo 6.
 ## Perguntas para o Bruno
 
 Já aberta na ficha: a Cecília recebeu ou usa algum produto da Adaptogen? Com uso, o capítulo 9 muda.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1057) por subagente, com um brief comum da sessão (regras do pacote, fatos de [[adaptogen-fatos-1811]] e as leituras de 18/11), e revisado pela sessão.
+- **Bruno, 18/11:** a Cecília não usa os produtos; a loja não passou datas nem regras da Black Friday, nem mínimo, nem limite de usos (não escrever nada disso). AD2 e AD3 seguem seguradas: nenhum dos quatro cita reputação, laudo, Anvisa ou origem.
+- **Job 3:** revisão do Fable 5.2 (23 achados, todos aplicados). Depois, o parecer externo do Farol (ChatGPT/Codex, em `docs/auditoria-copy-artigos/adaptogen-ad1-ad4-ad5-ad6-20261118-farol/`, fora do Git) que o Bruno colou: 41 propostas, todas aplicadas; oito com ajuste, porque punham link na resposta rápida ou repetiam a âncora "cupom Adaptogen" (#1, #5, #9, #10, #32), tiravam a frase sobre códigos de outros sites que o briefing da AD4 pede (#7) ou voltavam a falar se o piso do frete conta antes ou depois do cupom (#40, #41).
+- **Pix:** "o CECILIA vale também no Pix e no boleto, para os quais a loja anuncia 5%; confira os dois descontos no resumo", sem percentual somado e sem total com Pix (o pagamento pede login e não foi aberto).
+- **Tabelas nutricionais lidas em 18/11 (imagem de cada página):** Tasty Whey 3W 24 g em 34 g; Gold Whey 21 g em 30 g; HIT Protein 20 g em 33 g; Tasty Iso 25 g em 30 g. Platinum Series: porção de 3 g, 100 porções no pote de 300 g. Preço do cartão da Tasty Iso, R$ 391,80; Platinum de 100 g a 1 kg lida (o pote de 1 kg sai mais caro que dois de 500 g).
+- **HIT Protein separado da comparação:** a proteína inclui colágeno hidrolisado sem proporção informada; a tabela por 100 g de proteína traz só Gold, Tasty Whey 3W e Tasty Iso, e o HIT vem num parágrafo próprio (parecer do Farol). Contas por porção sem arredondar o número de porções (Tasty R$ 10,21, HIT R$ 5,40).
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/adaptogen/adaptogen-e-boa-capa.webp`, "É boa? / Whey e creatina" e o CECILIA, com o Gold Whey, o Tasty Whey 3W e o Tasty Iso. O pote da Platinum ficou fora da capa porque o rótulo diz "100% PURA".
+- **Corpo:** o print do checkout e seis fotos oficiais com link de afiliado (Tasty Whey 3W, Gold Whey, HIT Protein, Tasty Iso, Creatina Flavor e Platinum Series). A foto da Platinum é o pote de 100 g, e a legenda diz isso.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+

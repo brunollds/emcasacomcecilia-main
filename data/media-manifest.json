@@ -38983,6 +38983,434 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82034,
+      "sha256": "0e847eb2f23b99be035f158882fc8c78060a5a40d21c3773371bdb80e4791e9b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-creatina-flavor-300g.webp",
+      "storage_filename": "adaptogen-creatina-flavor-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-e-boa.json",
+        "content/reviews/black-friday-adaptogen.json",
+        "content/reviews/cupom-adaptogen-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-e-boa.json",
+          "line": 175,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-adaptogen.json",
+          "line": 141,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-adaptogen-como-usar.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263947,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264183,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264446,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-creatina-flavor-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0e847eb2f23b99be035f158882fc8c78060a5a40d21c3773371bdb80e4791e9b/adaptogen-creatina-flavor-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e847eb2f23b99be035f158882fc8c78060a5a40d21c3773371bdb80e4791e9b/adaptogen-creatina-flavor-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:46.956Z",
+      "verification_etag_or_digest": "0e847eb2f23b99be035f158882fc8c78060a5a40d21c3773371bdb80e4791e9b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-creatina-platinum-series.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-creatina-platinum-series.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64676,
+      "sha256": "93502ec1d0a515f4ab8e8060bd443ea5d86ce80793706bf2b88ee555355e9084",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-creatina-platinum-series.webp",
+      "storage_filename": "adaptogen-creatina-platinum-series.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-e-boa.json",
+          "line": 183,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-creatina-platinum-series.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264454,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-creatina-platinum-series.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/93502ec1d0a515f4ab8e8060bd443ea5d86ce80793706bf2b88ee555355e9084/adaptogen-creatina-platinum-series.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/93502ec1d0a515f4ab8e8060bd443ea5d86ce80793706bf2b88ee555355e9084/adaptogen-creatina-platinum-series.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:47.295Z",
+      "verification_etag_or_digest": "93502ec1d0a515f4ab8e8060bd443ea5d86ce80793706bf2b88ee555355e9084",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-e-boa-capa.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110724,
+      "sha256": "f8f174d59aa32fdf8be0ae1d616bd58eafca7723f6995680e1fc0e6c90ce5a15",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-e-boa-capa.webp",
+      "storage_filename": "adaptogen-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/adaptogen-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264300,
+          "column": 15,
+          "literal": "/images/reviews/adaptogen/adaptogen-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f8f174d59aa32fdf8be0ae1d616bd58eafca7723f6995680e1fc0e6c90ce5a15/adaptogen-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f8f174d59aa32fdf8be0ae1d616bd58eafca7723f6995680e1fc0e6c90ce5a15/adaptogen-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:47.634Z",
+      "verification_etag_or_digest": "f8f174d59aa32fdf8be0ae1d616bd58eafca7723f6995680e1fc0e6c90ce5a15",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-gold-whey-900g.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-gold-whey-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77174,
+      "sha256": "ab67cc8572057e404be3fbdaf68a932112ec16a25ba79ebd0a8db15b59c54b10",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-gold-whey-900g.webp",
+      "storage_filename": "adaptogen-gold-whey-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-e-boa.json",
+          "line": 138,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-gold-whey-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264409,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-gold-whey-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ab67cc8572057e404be3fbdaf68a932112ec16a25ba79ebd0a8db15b59c54b10/adaptogen-gold-whey-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ab67cc8572057e404be3fbdaf68a932112ec16a25ba79ebd0a8db15b59c54b10/adaptogen-gold-whey-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:47.937Z",
+      "verification_etag_or_digest": "ab67cc8572057e404be3fbdaf68a932112ec16a25ba79ebd0a8db15b59c54b10",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-hit-protein-bag-900g.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-hit-protein-bag-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77196,
+      "sha256": "6147e159aeabc78033e6a2fb658d53f2b10772778783980f11f94918207cd98e",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-hit-protein-bag-900g.webp",
+      "storage_filename": "adaptogen-hit-protein-bag-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-e-boa.json",
+        "content/reviews/black-friday-adaptogen.json",
+        "content/reviews/cupom-adaptogen-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-e-boa.json",
+          "line": 146,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-hit-protein-bag-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-adaptogen.json",
+          "line": 149,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-hit-protein-bag-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-adaptogen-primeira-compra.json",
+          "line": 95,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-hit-protein-bag-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263955,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-hit-protein-bag-900g.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264417,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-hit-protein-bag-900g.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264709,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-hit-protein-bag-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6147e159aeabc78033e6a2fb658d53f2b10772778783980f11f94918207cd98e/adaptogen-hit-protein-bag-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6147e159aeabc78033e6a2fb658d53f2b10772778783980f11f94918207cd98e/adaptogen-hit-protein-bag-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:48.225Z",
+      "verification_etag_or_digest": "6147e159aeabc78033e6a2fb658d53f2b10772778783980f11f94918207cd98e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-tasty-iso-900g.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-tasty-iso-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58142,
+      "sha256": "7d3e5eab6adf2726f34bb206becf3ad9669d1f435d4a98eb740685534dd9ef94",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-tasty-iso-900g.webp",
+      "storage_filename": "adaptogen-tasty-iso-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-e-boa.json",
+          "line": 154,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-tasty-iso-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264425,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-tasty-iso-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7d3e5eab6adf2726f34bb206becf3ad9669d1f435d4a98eb740685534dd9ef94/adaptogen-tasty-iso-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7d3e5eab6adf2726f34bb206becf3ad9669d1f435d4a98eb740685534dd9ef94/adaptogen-tasty-iso-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:48.486Z",
+      "verification_etag_or_digest": "7d3e5eab6adf2726f34bb206becf3ad9669d1f435d4a98eb740685534dd9ef94",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/adaptogen-tasty-whey-3w-900g.webp",
+      "local_url": "/images/reviews/adaptogen/adaptogen-tasty-whey-3w-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59238,
+      "sha256": "18b8da872f0903b3f17277d5d1f57a927ea744162ebcb084b9c22e7e3b21c52a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "adaptogen-tasty-whey-3w-900g.webp",
+      "storage_filename": "adaptogen-tasty-whey-3w-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/adaptogen-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/adaptogen-e-boa.json",
+          "line": 130,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/adaptogen-tasty-whey-3w-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264401,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/adaptogen-tasty-whey-3w-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/18b8da872f0903b3f17277d5d1f57a927ea744162ebcb084b9c22e7e3b21c52a/adaptogen-tasty-whey-3w-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/18b8da872f0903b3f17277d5d1f57a927ea744162ebcb084b9c22e7e3b21c52a/adaptogen-tasty-whey-3w-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:48.791Z",
+      "verification_etag_or_digest": "18b8da872f0903b3f17277d5d1f57a927ea744162ebcb084b9c22e7e3b21c52a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/black-friday-adaptogen-capa.webp",
+      "local_url": "/images/reviews/adaptogen/black-friday-adaptogen-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123804,
+      "sha256": "398490b89efd71ef884ce5bc344ab72e351bfcb8a9cb9cd5a84f957d62e5c7fe",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-adaptogen-capa.webp",
+      "storage_filename": "black-friday-adaptogen-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-adaptogen.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-adaptogen.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/black-friday-adaptogen-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263835,
+          "column": 15,
+          "literal": "/images/reviews/adaptogen/black-friday-adaptogen-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/398490b89efd71ef884ce5bc344ab72e351bfcb8a9cb9cd5a84f957d62e5c7fe/black-friday-adaptogen-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/398490b89efd71ef884ce5bc344ab72e351bfcb8a9cb9cd5a84f957d62e5c7fe/black-friday-adaptogen-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:49.105Z",
+      "verification_etag_or_digest": "398490b89efd71ef884ce5bc344ab72e351bfcb8a9cb9cd5a84f957d62e5c7fe",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
       "local_url": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
       "media_kind": "image",
@@ -39026,6 +39454,98 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T16:27:58.695Z",
       "verification_etag_or_digest": "e235b4094e02e9d1f0cce712102e5313eeda68a0bb976b6f13f1c78f3e55fd45",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa.webp",
+      "local_url": "/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 101286,
+      "sha256": "8422c34f82f838c01501db13199495f0df7713daadfa6b53e7c306520f1e00a4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-adaptogen-como-usar-capa.webp",
+      "storage_filename": "cupom-adaptogen-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-adaptogen-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-adaptogen-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264099,
+          "column": 15,
+          "literal": "/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8422c34f82f838c01501db13199495f0df7713daadfa6b53e7c306520f1e00a4/cupom-adaptogen-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8422c34f82f838c01501db13199495f0df7713daadfa6b53e7c306520f1e00a4/cupom-adaptogen-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:49.431Z",
+      "verification_etag_or_digest": "8422c34f82f838c01501db13199495f0df7713daadfa6b53e7c306520f1e00a4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/cupom-adaptogen-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/adaptogen/cupom-adaptogen-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86970,
+      "sha256": "fd3dced4cd298835a408c87e2ddb61636dd59891718f5d1c20dda338c11ce9a2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-adaptogen-primeira-compra-capa.webp",
+      "storage_filename": "cupom-adaptogen-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-adaptogen-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-adaptogen-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/cupom-adaptogen-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264643,
+          "column": 15,
+          "literal": "/images/reviews/adaptogen/cupom-adaptogen-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fd3dced4cd298835a408c87e2ddb61636dd59891718f5d1c20dda338c11ce9a2/cupom-adaptogen-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fd3dced4cd298835a408c87e2ddb61636dd59891718f5d1c20dda338c11ce9a2/cupom-adaptogen-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-18T17:59:49.721Z",
+      "verification_etag_or_digest": "fd3dced4cd298835a408c87e2ddb61636dd59891718f5d1c20dda338c11ce9a2",
       "verification_status": "verified"
     },
     {

@@ -9,9 +9,9 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), junto com a AD6"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow; refazer os carrinhos e reler a vitrine na semana de 27/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "AD1"
@@ -161,3 +161,18 @@ print `/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp`.
 
 1. Valor mínimo e limite de usos do `CECILIA`; se o Adapto Cash soma com o cupom.
 2. Se a Cecília recebeu ou usa algum produto da Adaptogen.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1056) por subagente, com um brief comum da sessão (regras do pacote, fatos de [[adaptogen-fatos-1811]] e as leituras de 18/11), e revisado pela sessão.
+- **Bruno, 18/11:** a Cecília não usa os produtos; a loja não passou datas nem regras da Black Friday, nem mínimo, nem limite de usos (não escrever nada disso). AD2 e AD3 seguem seguradas: nenhum dos quatro cita reputação, laudo, Anvisa ou origem.
+- **Job 3:** revisão do Fable 5.2 (23 achados, todos aplicados). Depois, o parecer externo do Farol (ChatGPT/Codex, em `docs/auditoria-copy-artigos/adaptogen-ad1-ad4-ad5-ad6-20261118-farol/`, fora do Git) que o Bruno colou: 41 propostas, todas aplicadas; oito com ajuste, porque punham link na resposta rápida ou repetiam a âncora "cupom Adaptogen" (#1, #5, #9, #10, #32), tiravam a frase sobre códigos de outros sites que o briefing da AD4 pede (#7) ou voltavam a falar se o piso do frete conta antes ou depois do cupom (#40, #41).
+- **Pix:** "o CECILIA vale também no Pix e no boleto, para os quais a loja anuncia 5%; confira os dois descontos no resumo", sem percentual somado e sem total com Pix (o pagamento pede login e não foi aberto).
+- **Campo do cupom:** o texto não diz que a sacola não tem campo (sem fonte); diz que o checkout abre em Finalizar Compra, como a /cupons/adaptogen.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa.webp`, "Como usar / o cupom" e o CECILIA, com a Creatina Flavor.
+- **Corpo:** o print do checkout e a foto da Creatina Flavor, com link de afiliado.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+
