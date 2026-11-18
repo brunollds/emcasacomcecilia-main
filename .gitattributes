@@ -42,6 +42,7 @@ public/images/about/partners/belive.png -text export-ignore
 public/images/about/partners/belle-house.png -text export-ignore
 public/images/about/partners/black-skull-icon.png -text export-ignore
 public/images/about/partners/black-skull.png -text export-ignore
+public/images/about/partners/bold.png -text export-ignore
 public/images/about/partners/carolina-baby.webp -text export-ignore
 public/images/about/partners/clea-store-icon.png -text export-ignore
 public/images/about/partners/clea-store.png -text export-ignore
@@ -104,6 +105,7 @@ public/images/logos/bolinhas/barbours.png -text export-ignore
 public/images/logos/bolinhas/baw.png -text export-ignore
 public/images/logos/bolinhas/belive.png -text export-ignore
 public/images/logos/bolinhas/black-skull.png -text export-ignore
+public/images/logos/bolinhas/bold.png -text export-ignore
 public/images/logos/bolinhas/clea-store.png -text export-ignore
 public/images/logos/bolinhas/damie.png -text export-ignore
 public/images/logos/bolinhas/dolce-gusto.png -text export-ignore
@@ -140,6 +142,7 @@ public/images/logos/watermarks/barbours.webp -text export-ignore
 public/images/logos/watermarks/baw.webp -text export-ignore
 public/images/logos/watermarks/belive.webp -text export-ignore
 public/images/logos/watermarks/black-skull.webp -text export-ignore
+public/images/logos/watermarks/bold.webp -text export-ignore
 public/images/logos/watermarks/clea-store.webp -text export-ignore
 public/images/logos/watermarks/damie.webp -text export-ignore
 public/images/logos/watermarks/dolce-gusto.webp -text export-ignore
@@ -509,6 +512,7 @@ public/images/reviews/black-skull/whey-black-skull-3w-core.webp -text export-ign
 public/images/reviews/black-skull/whey-black-skull-capa-v2.webp -text export-ignore
 public/images/reviews/black-skull/whey-black-skull-capa.webp -text export-ignore
 public/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp -text export-ignore
+public/images/reviews/bold/cupom-bold-checkout-com-cupom.webp -text export-ignore
 public/images/reviews/clea-store/alfaiataria-verao-clea-store-capa-discover.webp -text export-ignore
 public/images/reviews/clea-store/alfaiataria-verao-clea-store-capa-v2.webp -text export-ignore
 public/images/reviews/clea-store/alfaiataria-verao-clea-store-colete-4221.webp -text export-ignore

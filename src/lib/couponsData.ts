@@ -4581,6 +4581,145 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'bold',
+    brand: 'BOLD Snacks',
+    officialUrl: 'https://www.boldsnacks.com.br/',
+    // Link da parceria (Bruno, 18/11/2026): o /discount/ do Shopify já leva o código ao carrinho. Nunca abrir para conferir.
+    offerUrl: 'https://www.boldsnacks.com.br/discount/CECILIA15',
+    brandIcon: 'B',
+    brandLogo: '/images/about/partners/bold.png',
+    brandLogoAlt: 'Marca BOLD Snacks',
+    bubble: { src: '/images/logos/bolinhas/bold.png', background: '#00A0B1' },
+    brandWatermark: '/images/logos/watermarks/bold.webp',
+    brandColor: '#00A0B1',
+    cartPrint: {
+      src: '/images/reviews/bold/cupom-bold-checkout-com-cupom.webp',
+      alt: 'Resumo do checkout da BOLD Snacks com o código CECILIA15 aplicado: o whey de 450 g sai por R$ 151,20, a Caixa Mista por R$ 143,20 e o total fica em R$ 294,42',
+      aspectRatio: 0.92,
+    },
+    code: 'CECILIA15',
+    codeFieldLabel: 'Código de desconto ou cartão-presente',
+    discount: '20% OFF',
+    discountNumber: 20,
+    category: 'Barras de proteína, whey protein, creatina e snacks proteicos (Crunch, Tube e Wafer)',
+    hubCategory: 'saude',
+    hubCard: 'reduzido',
+    shortDescription: 'todo o site da BOLD Snacks, inclusive os produtos em promoção',
+    longDescription:
+      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 20% entraram numa caixa de barras pelo preço cheio e num whey em promoção. O nome tem 15, mas o desconto no checkout foi de 20%.',
+    metaTitle: 'Cupom BOLD Snacks: 20% OFF com CECILIA15',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom BOLD Snacks: CECILIA15 dá 20% OFF em barra de proteína e whey, para cliente novo ou antigo, e soma com as promoções. Testado no checkout.',
+    eligibleCategories: 'Produtos do site oficial da BOLD Snacks, inclusive os que estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente; o percentual pode mudar com as campanhas da loja',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping: 'Entrega para todo o Brasil; o valor e o prazo do frete saem no checkout pelo CEP, segundo a política de entrega da loja',
+    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; a loja aceita um cupom por pedido',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, o whey de R$ 209 por R$ 189 saiu por R$ 151,20' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
+      { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom promocional por pedido' },
+      { benefit: 'cashback', stacks: 'nao', condition: 'Pela política da loja, o cashback não soma automaticamente com cupons promocionais' },
+      { benefit: 'frete', stacks: 'nao', condition: 'O frete sai pelo CEP, à parte do cupom' },
+    ],
+    paymentPerks: ['Até 3x sem juros no cartão de crédito'],
+    lastVerified: '2026-11-18',
+    testedAt: '2026-11-18',
+    testNote:
+      'Num carrinho com a BOLD Caixa Mista pelo preço cheio de R$ 179,00 e o BOLD Whey Chocolate ao Leite de 450 g em promoção, de R$ 209,00 por R$ 189,00, o CECILIA15 tirou R$ 35,80 da caixa e R$ 37,80 do whey: os dois saíram por R$ 143,20 e R$ 151,20, com 20% de desconto em cada um. Os brindes que o carrinho incluiu, uma coqueteleira e uma bolsa térmica a R$ 0,01, continuaram no pedido, e o total ficou em R$ 294,42.',
+    codeInstructions: [
+      'Copie o código CECILIA15 no card acima.',
+      'Acesse o site oficial da BOLD Snacks pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar.',
+      'No resumo do checkout, digite o código no campo Código de desconto ou cartão-presente e clique em Aplicar.',
+      'Confira o código CECILIA15 embaixo de cada produto, com o valor do desconto, e o total antes de pagar.',
+    ],
+    aboutBrand:
+      'A BOLD Snacks é uma marca brasileira de snacks proteicos criada em 2018: barras de proteína BOLD em caixas de um sabor ou mistas, as linhas Crunch, Tube e Wafer, whey protein em potes e sachês e creatina, vendidos no site oficial. O cupom CECILIA15 é o benefício da parceria para quem acompanha o Em Casa com Cecília: 20% OFF no nosso teste, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom CECILIA15 dá na BOLD Snacks?',
+        answer:
+          '20% OFF nos produtos do site oficial, no nosso teste mais recente. O cupom tirou R$ 73,60 de uma caixa de barras e de um whey que somavam R$ 368,00, e o checkout mostrou o desconto embaixo de cada produto.',
+      },
+      {
+        question: 'Por que o cupom se chama CECILIA15 e dá 20%?',
+        answer:
+          'O nome do código é o mesmo da parceria, mas no nosso teste, durante a campanha de Black Friday da loja, o CECILIA15 deu 20% em cada produto. O percentual pode mudar com as campanhas da BOLD: confira o desconto no resumo do checkout antes de pagar.',
+      },
+      {
+        question: 'O cupom CECILIA15 vale na primeira compra?',
+        answer: 'Sim. O CECILIA15 vale na primeira compra e também para quem já comprou na BOLD.',
+      },
+      {
+        question: 'Qual cupom BOLD vale para quem já é cliente?',
+        answer: 'O CECILIA15. Ele dá 20% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O CECILIA15 é cupom de influenciadora da BOLD?',
+        answer:
+          'Sim. CECILIA15 é o cupom do Em Casa com Cecília na BOLD Snacks e deu 20% OFF no site oficial no nosso teste, para clientes novos e antigos.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, o BOLD Whey Chocolate ao Leite de 450 g estava em promoção, de R$ 209,00 por R$ 189,00, e o cupom tirou os 20% dele também: o pote saiu por R$ 151,20.',
+      },
+      {
+        question: 'Dá para usar o CECILIA15 junto com outro cupom?',
+        answer:
+          'Não. Pela política de promoções da BOLD, vale um cupom promocional por pedido. O cashback da loja também não soma automaticamente com os cupons.',
+      },
+      {
+        question: 'O cupom CECILIA15 está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o CECILIA15 foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na BOLD?',
+        answer:
+          'No checkout do site oficial, que abre quando você clica em Finalizar no carrinho: digite CECILIA15 no campo Código de desconto ou cartão-presente e clique em Aplicar. O código aparece embaixo de cada produto, com o valor do desconto.',
+      },
+      {
+        question: 'Tem cupom BOLD na Black Friday?',
+        answer:
+          'Tem. O cupom BOLD Snacks CECILIA15 vale no site oficial, em todas as formas de pagamento, e no nosso teste de novembro deu 20% OFF.',
+      },
+      {
+        question: 'O cupom BOLD vale na Black Friday?',
+        answer:
+          'Vale. No nosso teste, em novembro, os 20% entraram também num whey em promoção. Confira o desconto no resumo do checkout antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não. O cupom não mexe no frete: a BOLD entrega em todo o Brasil, e o valor e o prazo aparecem no checkout depois do CEP.',
+      },
+      {
+        question: 'Como funciona a troca na BOLD?',
+        answer:
+          'Pela política da loja, a desistência pode ser pedida em até 7 dias depois da entrega, com o produto na embalagem original, sem violação do lacre, acompanhado da nota fiscal e de todos os produtos do pedido. A troca e o cancelamento são pedidos pelo atendimento da loja.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIA15 não funcionar?',
+        answer:
+          'Confira se o código foi digitado no campo Código de desconto ou cartão-presente do checkout, sem espaços, e se ele apareceu embaixo dos produtos. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { article: 'cupom-hostinger-indicacao', src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
