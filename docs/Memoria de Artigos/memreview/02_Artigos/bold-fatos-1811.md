@@ -63,8 +63,8 @@ briefings são do Job 1. Sem GO de redação: é a pesquisa semente.
 - **Alimento e suplemento sem promessa de efeito.** "é saudável", "engorda", "faz mal", "é bom para emagrecer" e "é bom
   para dieta" têm busca: a resposta é o rótulo (proteína, calorias, açúcares, ingredientes) e a recomendação de uso da
   própria marca, sem veredito de saúde nosso.
-- **Experiência própria: sem resposta do Bruno** (seção 7). Até lá, só fontes públicas, sem "provamos" nem opinião de
-  sabor.
+- **Experiência própria: não há.** A Cecília não recebeu nem usa produto da BOLD (Bruno, 18/11: "só fontes
+  públicas"). Os seis textos saem só com fontes públicas, sem "provamos" nem opinião de sabor.
 
 ## 3. Reclame Aqui (lido em 18/11/2026)
 
@@ -168,8 +168,7 @@ Alimentares e Fórmulas, site boldsnacks.com.br, 6 anos no Reclame Aqui. **Com o
 
 ## 7. Perguntas para o Bruno
 
-1. A Cecília recebeu ou usa algum produto da BOLD? Com produto em mãos, a BO5 muda de figura (sabor é a pergunta que
-   mais aparece).
+1. ~~A Cecília recebeu ou usa algum produto da BOLD?~~ **Respondido em 18/11: não, só fontes públicas.**
 2. **Frete grátis acima de R$ 249:** está na faixa do site e não está na página `/cupons/bold` nem no dossiê. É da
    sessão de cupons: vale conferir no checkout e corrigir a página.
 3. A parceira avisou se o código segue em 20% depois de 22/11, ou volta a 15%?
