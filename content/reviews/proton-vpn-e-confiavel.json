@@ -31,7 +31,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Proton VPN é da Proton AG, empresa suíça que também faz o Proton Mail. Os aplicativos têm código aberto, e a empresa publica todo ano uma auditoria independente da política de não guardar registros. Segundo ela, o plano grátis não tem anúncios nem limite de dados. No Brasil, pesa o atendimento, porque as reclamações no Reclame Aqui estão sem resposta."
+        "Há evidências favoráveis para confiar no Proton VPN oficial: empresa identificada, aplicativos de código aberto e auditoria independente da política de registros. Isso não garante anonimato nem proteção contra todo golpe. No perfil brasileiro do Reclame Aqui consultado, as 14 reclamações estavam sem resposta; para atendimento, use o canal oficial da Proton."
       ]
     },
     {
@@ -45,38 +45,38 @@
     {
       "heading": "O que foi auditado e por quem",
       "paragraphs": [
-        "Quatro alegações sustentam a fama do Proton VPN: não guardar registros do que o usuário faz, ter aplicativos de código aberto, ter esses aplicativos auditados e ter negado as ordens de identificação que recebeu. A tabela mostra o que conseguimos abrir de cada uma.",
+        "A confiança aqui depende de evidências diferentes: auditoria da política de registros, publicação do código e informações da própria empresa. A tabela distingue o alcance de cada uma.",
         "A política de não guardar registros é auditada pela Securitum, uma empresa externa de testes de segurança. A Proton publica os relatórios completos de 2022 a 2026 na [página das auditorias](https://protonvpn.com/blog/no-logs-audit), cinco anos seguidos. Abrimos o de 2026. Ele tem 12 páginas, leva o título \"Verification of Proton VPN's No-Log policy\" e registra uma avaliação feita em maio de 2026 no escritório da Proton em Zurique, por dois consultores, com amostras de servidores em produção, arquivos de configuração e documentação interna.",
         "Na conclusão que a Proton reproduz, a Securitum diz que a evidência técnica examinada não indicou que os servidores revisados registrem a navegação, as consultas de DNS, os serviços de destino, o conteúdo do tráfego ou dados de conexão que identifiquem o usuário, e que não encontrou registros persistentes que permitissem ligar um usuário ao que ele fez por um servidor revisado.",
         "Uma auditoria dessas é um retrato. Ela vale para os servidores e as configurações examinados naqueles dias. O que a empresa fará depois fica fora dela, e por isso o valor está na repetição anual, com relatório aberto."
       ],
       "comparisonTable": {
-        "caption": "O que sustenta cada alegação sobre o Proton VPN, pelas fontes que abrimos.",
+        "caption": "Fontes e alcance das evidências sobre o Proton VPN.",
         "headers": [
-          "Alegação",
-          "Quem sustenta",
-          "O que abrimos"
+          "Afirmação",
+          "Fonte",
+          "O que a evidência permite dizer"
         ],
         "rows": [
           [
-            "Não guarda registros de atividade",
-            "Securitum, em auditoria anual desde 2022",
-            "O relatório de 2026, publicado pela Proton"
+            "Política sem registros de atividade",
+            "Securitum, auditoria de 2026",
+            "Política examinada na amostra e no período da avaliação"
           ],
           [
             "Aplicativos de código aberto",
-            "O código publicado no GitHub",
-            "Os repositórios dos aplicativos de Android, Windows, iPhone, Mac e Linux"
+            "Repositórios ProtonVPN no GitHub",
+            "Código disponível para inspeção; isso sozinho não garante ausência de falhas"
           ],
           [
-            "Aplicativos auditados",
-            "A Proton, que cita uma auditoria da Securitum",
-            "Só a página da Proton. Fica como alegação dela"
+            "Auditoria dos aplicativos",
+            "Página de segurança da Proton",
+            "Alegação apresentada pela empresa; é diferente da auditoria de registros descrita acima"
           ],
           [
-            "Negou as ordens para identificar usuários",
-            "A Proton, no relatório de transparência",
-            "O relatório de transparência. O número é da própria empresa"
+            "Ordens de identificação negadas por falta de registros",
+            "Relatório de transparência da Proton",
+            "Informação publicada pela empresa, sem checagem externa nesta análise"
           ]
         ]
       },
@@ -110,8 +110,8 @@
         "Uma VPN esconde o seu endereço IP dos sites e protege o tráfego entre o aparelho e o servidor dela. Ela tem limites que valem para qualquer marca."
       ],
       "bullets": [
-        "**Não torna ninguém anônimo.** Quem entra na conta de uma rede social com a VPN ligada continua identificado pela conta.",
-        "**Não protege de golpe.** Link falso por mensagem e site clonado em que a pessoa digita a senha funcionam do mesmo jeito.",
+        "**Não garante anonimato.** Quem entra na conta de uma rede social com a VPN ligada continua identificado por essa conta.",
+        "**Não garante proteção contra golpes.** A VPN não impede que alguém entregue a senha num site falso ou a um golpista. Confira o endereço e o destinatário antes de informar dados.",
         "**Muda quem vê o tráfego.** O provedor de internet deixa de ver os sites visitados, e o provedor da VPN passa a ocupar esse lugar. É por isso que a auditoria de registros importa.",
         "**Não muda a lei.** A própria Proton diz que o serviço se destina ao uso legal. O que é ilegal sem VPN continua ilegal com ela."
       ]
@@ -120,7 +120,7 @@
       "heading": "O que o Reclame Aqui mostra",
       "paragraphs": [
         "O perfil \"proton vpn\" no Reclame Aqui aparece como não verificado. Nos dados de 01/11/2025 a 31/10/2026, lidos em 17/11/2026, eram 14 reclamações, nenhuma respondida, e a reputação aparecia como \"Não Recomendada\" porque menos de metade das reclamações teve resposta.",
-        "Catorze reclamações em um ano é uma base minúscula para um aplicativo com mais de 100 milhões de downloads na Google Play. Ainda assim, quem reclamou ali ficou sem resposta.",
+        "Esse recorte fala do atendimento naquele perfil, no período consultado. Ele deixa de fora a segurança técnica do aplicativo e a experiência de quem nunca reclamou ali.",
         "As reclamações mais recentes falam de renovação cobrada depois do cancelamento, de reembolso de assinatura feita pela Google Play e de cobrança do ano inteiro de uma vez em oferta anunciada por mês. O atendimento da Proton é pelo [formulário de suporte](https://protonvpn.com/support/contact)."
       ],
       "image": {
@@ -139,7 +139,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O Proton VPN é seguro? Os sinais que dá para conferir são favoráveis. A empresa é identificada, o código dos aplicativos é público e a Securitum audita todo ano a política de não guardar registros, com relatório publicado. Nenhuma VPN protege de golpe nem torna alguém anônimo.",
+        "O Proton VPN é seguro? Os sinais verificáveis são favoráveis: empresa identificada, código dos aplicativos público e auditoria anual da política de registros pela Securitum, com relatório publicado. Essas evidências não garantem anonimato nem proteção contra todos os golpes.",
         "O Proton VPN grátis é confiável? A Proton diz que o plano grátis não guarda registros de atividade, não tem anúncios nem limite de dados, e que ele é financiado pelos assinantes. Os limites são 1 dispositivo e menos países.",
         "O Proton VPN é vírus? Não. O aplicativo oficial está na Google Play e na App Store com a Proton AG como desenvolvedora. O risco está em instaladores de terceiros e em versões modificadas.",
         "De que país é a Proton? Da Suíça. Os serviços são operados pela Proton AG e, segundo a empresa, o acionista principal é a Proton Foundation, uma organização sem fins lucrativos de Genebra.",
@@ -153,8 +153,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Os planos, o plano grátis e os preços aparecem na página que o botão abre. Confira o total e a renovação antes de pagar.",
-    "label": "Ver os planos do Proton VPN",
+    "text": "Se você procura os recursos pagos do Proton VPN, abra a oferta pelo nosso link. Confira o total cobrado de uma vez e a renovação; a comparação de preços está no guia de Black Friday relacionado.",
+    "label": "Ver oferta do Proton VPN",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },

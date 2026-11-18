@@ -31,7 +31,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Proton VPN pertenece a Proton AG, la empresa suiza que también desarrolla Proton Mail. Las apps son de código abierto, y la empresa publica cada año una auditoría independiente de su política de no guardar registros. Según Proton, el plan gratuito no tiene anuncios ni límite de datos. El soporte funciona por un formulario web, y los reembolsos siguen la regla de 30 días de los términos."
+        "Proton VPN oficial ofrece señales verificables de confianza: empresa suiza identificada, aplicaciones de código abierto y auditorías independientes de su política sin registros. Eso no garantiza anonimato ni protección contra cualquier estafa. Descarga desde fuentes oficiales; según Proton, el plan gratuito no tiene anuncios ni límite de datos, y abajo explicamos las condiciones de pago."
       ]
     },
     {
@@ -110,8 +110,8 @@
         "Una VPN oculta tu dirección IP a los sitios web y protege el tráfico entre tu dispositivo y su servidor. Tiene límites que valen para cualquier marca."
       ],
       "bullets": [
-        "**No vuelve anónimo a nadie.** Si inicias sesión en una red social con la VPN activada, la cuenta sigue identificándote.",
-        "**No protege contra estafas.** Un enlace falso en un mensaje o un sitio clonado donde escribes tu contraseña funcionan igual.",
+        "**No garantiza anonimato.** Si inicias sesión en una red social con la VPN activada, esa cuenta sigue identificándote.",
+        "**No garantiza protección contra estafas.** La VPN no impide que entregues la contraseña a una web falsa o a un estafador; comprueba la dirección y el destinatario antes de compartir datos.",
         "**Cambia quién ve el tráfico.** Tu proveedor de internet deja de ver los sitios que visitas, y el proveedor de la VPN ocupa su lugar. Por eso importa la auditoría de registros.",
         "**No cambia la ley.** La propia Proton dice que el servicio está pensado para un uso legal. Lo que es ilegal sin VPN sigue siéndolo con ella."
       ]
@@ -133,7 +133,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Es seguro Proton VPN? Las señales que se pueden comprobar son favorables. La empresa está identificada, el código de las apps es público y Securitum audita cada año la política de no guardar registros, con un informe publicado. Ninguna VPN protege contra estafas ni vuelve anónimo a nadie.",
+        "¿Es seguro Proton VPN? Las señales verificables son favorables: empresa identificada, código público y auditoría anual de Securitum sobre la política sin registros, con informes publicados. Esas pruebas no garantizan anonimato ni protección contra todas las estafas.",
         "¿Es fiable Proton VPN gratis? Proton dice que el plan gratuito no guarda registros de actividad, no tiene anuncios ni límite de datos, y que lo financian los suscriptores. Los límites son 1 dispositivo y menos países.",
         "¿Es Proton VPN un virus? No. La app oficial está en Google Play y en la App Store con Proton AG como desarrollador. El riesgo está en los instaladores de terceros y las versiones modificadas.",
         "¿De qué país es Proton? De Suiza. Los servicios los opera Proton AG y, según la empresa, el accionista principal es la Proton Foundation, una organización sin ánimo de lucro de Ginebra.",
@@ -147,8 +147,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Los planes, el plan gratuito y los precios aparecen en la página que abre el botón. Comprueba el total y el precio de renovación antes de pagar.",
-    "label": "Ver los planes de Proton VPN",
+    "text": "Si buscas las funciones de pago de Proton VPN, abre la oferta con nuestro enlace y comprueba el total inicial y la renovación. El artículo relacionado de Black Friday compara los precios.",
+    "label": "Ver la oferta de Proton VPN",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },

@@ -16,7 +16,7 @@
     "url": "/sobre"
   },
   "description": "O caminho para cancelar o Proton VPN e pedir o dinheiro de volta, o que os termos exigem, o que fica de fora e como não ser pego pela renovação automática.",
-  "metaDescription": "Como cancelar o Proton VPN e pedir o reembolso: o prazo de 30 dias, as condições que derrubam o pedido e como evitar a cobrança da renovação.",
+  "metaDescription": "Proton VPN: como cancelar e pedir reembolso, prazo de 30 dias nas compras diretas, regras de Google Play e Apple e cuidados com a renovação.",
   "publishedAt": "17 de novembro de 2026",
   "publishedAtISO": "2026-11-17",
   "updatedAt": "2026-11-17",
@@ -30,15 +30,15 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para ter o dinheiro de volta no Proton VPN, cancele a assinatura e peça o reembolso ao suporte, os dois dentro de 30 dias da compra inicial. Pelos termos, o reembolso vale uma vez por usuário e só para quem assinou direto com a Proton. Renovação fica fora, e assinatura feita pela loja do celular se cancela na loja."
+        "Para pedir o reembolso do Proton VPN, confira quem cobrou e a data da compra inicial. Na contratação direta, cancele e peça o reembolso ao suporte dentro de 30 dias, respeitando as condições dos termos. Se pagou pela Google Play ou pela Apple, siga o caminho específico abaixo. Só cancelar a assinatura não devolve dinheiro."
       ]
     },
     {
       "heading": "Cancelar e pedir reembolso são dois passos",
       "paragraphs": [
-        "Cancelar desliga as renovações futuras. Segundo a central de ajuda da Proton, os recursos pagos continuam até a próxima data de renovação e, depois dela, a conta passa para o plano gratuito. O cancelamento sozinho não devolve dinheiro.",
+        "No VPN Plus, cancelar desliga as renovações futuras. Segundo a central de ajuda da Proton, os recursos pagos continuam até a próxima data de renovação e, depois dela, a conta passa para o plano gratuito. O cancelamento sozinho não devolve dinheiro.",
         "O reembolso é um pedido à parte, feito ao suporte. Os termos de serviço da Proton, modificados em 05/11/2026, dizem que \"o cancelamento e a solicitação de reembolso devem ser ambos abordados dentro do período de 30 dias\". Quem cancela no vigésimo dia e só escreve ao suporte no trigésimo quinto perdeu o prazo.",
-        "Os termos são os mesmos para os outros planos pagos da Proton, como o Mail Plus e o Proton Unlimited. O que este guia diz do prazo e das condições vale para eles também."
+        "O prazo e as condições gerais de reembolso também constam dos termos para outros planos, como Mail Plus e Unlimited. Os efeitos do cancelamento mudam conforme o plano. Antes de fazer downgrade de outro plano, confira as exigências e a data de efeito no painel e nos termos."
       ],
       "image": {
         "src": "/images/reviews/proton/proton-vpn-reembolso-termos-pt.webp",
@@ -59,7 +59,7 @@
         "Escolha um motivo e clique em **Submit**. Segundo a página, o cancelamento só vale depois desse último passo."
       ],
       "postParagraphs": [
-        "Depois disso, o plano pago segue ativo até a data em que renovaria. Passada essa data, a conta continua existindo, no plano gratuito. Cancelar a assinatura não apaga a conta. Quem muda de ideia encontra no painel o botão **Reactivate now**.",
+        "No VPN Plus, depois disso, o plano pago segue ativo até a data em que renovaria. Passada essa data, a conta continua existindo, no plano gratuito. Cancelar a assinatura não apaga a conta. Quem muda de ideia encontra no painel o botão **Reactivate now**.",
         "Os termos dizem que quem não consegue entrar no painel pode cancelar pelo atendimento da Proton."
       ]
     },
@@ -119,13 +119,13 @@
         "**A conta foi encerrada por violar os termos.** Nesse caso, os termos dizem que todos os pagamentos e créditos se perdem."
       ],
       "postParagraphs": [
-        "Depois dos 30 dias, os termos dizem que o serviço não é reembolsável e que qualquer reembolso ou crédito fica \"a critério exclusivo da Empresa\". Dá para pedir, sem regra a seu favor."
+        "Depois dos 30 dias, a política comercial da Proton não prevê reembolso automático; os termos deixam eventual reembolso ou crédito a critério da empresa. Isso descreve a garantia comercial, sem definir outros direitos que possam ser aplicáveis."
       ]
     },
     {
       "heading": "Assinei pelo aplicativo, pela Google Play ou pela App Store",
       "paragraphs": [
-        "Assinatura feita dentro do aplicativo do celular costuma ser cobrada pela loja. Para quem pagou pela Google Play ou pela App Store, a central de ajuda manda cancelar na própria loja."
+        "Confira no recibo quem recebeu o pagamento: a Proton, a Google Play ou a Apple. Para assinaturas cobradas pela Google Play ou pela App Store, o cancelamento é feito na respectiva loja; o caminho do reembolso está abaixo."
       ],
       "bullets": [
         "**Google Play.** Abra o aplicativo Play Store, toque na sua foto, entre em Assinaturas e escolha o Proton VPN para cancelar. Para o reembolso dentro dos 30 dias, a central de ajuda manda falar com o suporte da Proton e diz que também pode dar para pedir pela própria Google Play.",
@@ -138,8 +138,8 @@
     {
       "heading": "Como não ser pego pela renovação",
       "paragraphs": [
-        "A assinatura renova sozinha, pelo mesmo período. Os termos dizem que a cobrança é feita \"pelo preço vigente válido no momento da renovação\", e o preço promocional só vale no primeiro período. Na página de preços que lemos, o VPN Plus de 1 ano saía por R$ 125,88 na campanha de Black Friday e renovava por R$ 293,88 a cada 12 meses.",
-        "Para não renovar, os termos pedem o cancelamento antes da data de renovação. Não é preciso esperar a véspera. Como o plano pago continua até o fim do período já cobrado, dá para cancelar logo depois de assinar e usar tudo o que foi pago.",
+        "A assinatura renova pelo ciclo informado na oferta e no recibo, que pode ser diferente do período inicial. Os termos dizem que a cobrança é feita \"pelo preço vigente válido no momento da renovação\", e o preço promocional só vale no primeiro período. Na página de preços que lemos, o VPN Plus de 1 ano saía por R$ 125,88 na campanha de Black Friday e renovava por R$ 293,88 a cada 12 meses.",
+        "No VPN Plus, para não renovar, os termos pedem o cancelamento antes da data de renovação. Não é preciso esperar a véspera. Como o plano pago continua até o fim do período já cobrado, dá para cancelar logo depois de assinar e usar tudo o que foi pago.",
         "Anote no calendário a data da próxima cobrança, com alguns dias de folga. Quem assinou pela loja do celular confere a data nas assinaturas da loja."
       ]
     },
@@ -154,13 +154,13 @@
       "paragraphs": [
         "O formulário de suporte é o canal oficial, e a central de ajuda diz que os planos pagos têm suporte prioritário e chat. Guarde o comprovante da compra, a data em que cancelou e a data em que pediu o reembolso. São essas três datas que mostram que o pedido entrou no prazo.",
         "O perfil do Proton VPN no Reclame Aqui não tem resposta da empresa, como mostramos em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel). Reclamar lá registra o caso, mas o atendimento acontece pelo formulário.",
-        "Para compra feita pela internet no Brasil, o Código de Defesa do Consumidor dá 7 dias de arrependimento. Os 30 dias da Proton são mais largos. Cobrança no cartão que você não reconhece é assunto para o banco emissor."
+        "Quando o Código de Defesa do Consumidor for aplicável à contratação, o [art. 49](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) prevê arrependimento em 7 dias nas compras fora do estabelecimento. Essa regra legal e a garantia comercial da Proton têm fundamentos e condições diferentes. Cobrança no cartão que você não reconhece deve ser tratada com o banco emissor."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O Proton VPN devolve o dinheiro? Pelos termos, devolve o valor integral se o cancelamento e o pedido de reembolso forem feitos em até 30 dias da compra inicial. Vale uma vez por usuário e só para quem assinou pelo site ou pelos aplicativos da Proton.",
+        "O Proton VPN devolve o dinheiro? Na contratação direta com a Proton, os termos preveem reembolso integral se você cancelar e pedir dentro de 30 dias da compra inicial, uma vez por usuário e com restrições de pagamento. Para Google Play e App Store, siga o percurso específico do capítulo sobre lojas de aplicativos.",
         "Como cancelar o Proton VPN? No site, entre na conta, abra Subscription, vá até Cancel subscription e siga até enviar o motivo. Quem assinou pela Google Play ou pela App Store cancela nas assinaturas da loja.",
         "Cancelei e fui cobrado, o que eu faço? Confira primeiro quem cobrou. Assinatura feita pela loja do celular é cancelada na loja. Se a cobrança veio da Proton depois de um cancelamento concluído, escreva ao suporte com as datas e o comprovante.",
         "Posso pedir reembolso da renovação? A regra dos 30 dias conta da compra inicial, e a renovação fica fora dela. Depois desse prazo, os termos deixam qualquer reembolso a critério da empresa.",
@@ -174,8 +174,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Os planos e os preços aparecem na página que o botão abre. Confira o total e a data de renovação antes de pagar.",
-    "label": "Ver os planos do Proton VPN",
+    "text": "Se você ainda está avaliando uma assinatura, abra a oferta da Proton pelo nosso link e confira o total e a renovação. Para cancelar ou pedir o reembolso de uma assinatura que você já tem, use o canal indicado neste guia.",
+    "label": "Ver oferta antes de assinar",
     "url": "https://go.getproton.me/SH39K",
     "sponsored": true
   },

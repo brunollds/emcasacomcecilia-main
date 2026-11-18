@@ -153,3 +153,12 @@ condições; se a central de ajuda mostrar, print da tela de assinatura do paine
 - **Fora do PT (ids 1010 a 1018):** sem CDC, Reclame Aqui nem banco emissor; o exemplo de renovação usa os valores em dólar da página de parceiros (US$ 59,76 por 24 meses, renova por US$ 83,88 ao ano). Sonnet traduz do inglês, Fable fecha.
 - **Mídia:** capa `proton-vpn-reembolso-como-cancelar-capa.webp` ("Proton VPN / 30-day refund", uma para os 10); print dos termos em português (PT) e em inglês (os outros 9). Aprovados pelo Bruno em 17/11.
 - **Link para a PN3:** entra quando ela estiver no ar.
+
+## Revisão de copy do Farol (17/11/2026, depois do #1121)
+
+- Parecer em `docs/auditoria-copy-artigos/pn2-pn4-proton-pr1121-20261117-farol/`, aplicado nos 10 idiomas, com fechamento pelo Fable.
+- **Quem cobrou define o caminho:** Proton, Google Play ou Apple. A resposta rápida, a primeira pergunta do FAQ e a abertura do capítulo das lojas dizem isso.
+- **Efeito do cancelamento só para o VPN Plus:** pela seção 10 dos termos, no VPN Plus o cancelamento vale no fim do ciclo; nos outros planos é preciso remover os recursos pagos antes do downgrade, e o downgrade antecipado vira crédito. O artigo manda conferir antes de mexer em Mail Plus ou Unlimited.
+- **Renovação:** o ciclo de renovação pode ser diferente do período inicial (a oferta de 24 meses renova a cada 12).
+- **Depois dos 30 dias:** saiu "sem regra a seu favor"; fica a política comercial, sem definir outros direitos. No PT, o CDC entra condicionado à sua aplicação, com o art. 49.
+- **Botão:** dirigido a quem ainda avalia assinar; cancelamento e reembolso seguem pelo canal do guia.
