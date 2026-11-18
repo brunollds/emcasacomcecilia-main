@@ -35,6 +35,7 @@ public/images/about/partners/adaptogen.png -text export-ignore
 public/images/about/partners/aliexpress.webp -text export-ignore
 public/images/about/partners/bagaggio-icon.png -text export-ignore
 public/images/about/partners/bagaggio.png -text export-ignore
+public/images/about/partners/barbours.png -text export-ignore
 public/images/about/partners/baw.png -text export-ignore
 public/images/about/partners/belive-icon.png -text export-ignore
 public/images/about/partners/belive.png -text export-ignore
@@ -99,6 +100,7 @@ public/images/authors/bruno-luiz.webp -text export-ignore
 public/images/logos/bolinhas/adaptogen.png -text export-ignore
 public/images/logos/bolinhas/aliexpress.png -text export-ignore
 public/images/logos/bolinhas/bagaggio.png -text export-ignore
+public/images/logos/bolinhas/barbours.png -text export-ignore
 public/images/logos/bolinhas/baw.png -text export-ignore
 public/images/logos/bolinhas/belive.png -text export-ignore
 public/images/logos/bolinhas/black-skull.png -text export-ignore
@@ -134,6 +136,7 @@ public/images/logos/logo-em-casa-com-cecilia.png -text export-ignore
 public/images/logos/watermarks/adaptogen.webp -text export-ignore
 public/images/logos/watermarks/aliexpress.webp -text export-ignore
 public/images/logos/watermarks/bagaggio.webp -text export-ignore
+public/images/logos/watermarks/barbours.webp -text export-ignore
 public/images/logos/watermarks/baw.webp -text export-ignore
 public/images/logos/watermarks/belive.webp -text export-ignore
 public/images/logos/watermarks/black-skull.webp -text export-ignore
@@ -322,6 +325,7 @@ public/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-26.webp -text
 public/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-ii-media.webp -text export-ignore
 public/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-grande.webp -text export-ignore
 public/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-media.webp -text export-ignore
+public/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp -text export-ignore
 public/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa.webp -text export-ignore
 public/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-mukebar-mais-mu.webp -text export-ignore
 public/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-whey-bar-gourmet-zero-black-skull.webp -text export-ignore
