@@ -320,7 +320,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           {couponCodeOffer && !tiers && (
             <>
               <CutoutCode code={couponCodeOffer.code} />
-              <CutoutCodeActions code={couponCodeOffer.code} brand={coupon.brand} href={coupon.offerUrl} copy={copy} />
+              <CutoutCodeActions code={couponCodeOffer.code} store={coupon} href={coupon.offerUrl} copy={copy} locale={locale} />
             </>
           )}
 

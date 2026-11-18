@@ -1099,19 +1099,33 @@ const withoutRelatedCards = (body: string) => {
   assert.equal(withoutRelatedCards('<ul><li>Editorial</li></ul>'), '<ul><li>Editorial</li></ul>', 'lista comum some da conferência');
 }
 
+// Com código e link da loja (salvo o código de indicação), o botão principal do recorte copia e abre a loja em nova aba:
+// "Copiar e ir para a loja", "Só copiar o código" e a linha de que o código fica copiado.
+const isCopyAndGo = (block: ArticleStoreBlock) => Boolean(block.code && block.storeHref && block.codeKind !== 'referral');
 // O recorte do topo do artigo (#cupom-artigo): o tipo do código (cupom, recompensa ou indicação) no idioma do
 // artigo, o código com o botão de copiar e a frase de depois de copiar; sem código, o nome da loja e o link.
 // Fora do PT, nenhum texto dele em português.
 function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock): string[] {
   const texts = cutout.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean);
-  const uiOf = (lang: Locale) => [
-    block.code ? getCodeTitle(getSidebarCopy(lang), block.codeKind, block.brand) : block.brand,
-    ...(block.code ? [getCouponCopyLabels(lang).copy, getArticleCopy(lang).copiedHint(block, block.codeKind)] : []),
-  ];
+  const uiOf = (lang: Locale) => {
+    const labels = getCouponCopyLabels(lang);
+    const actions = isCopyAndGo(block)
+      ? [labels.copyAndGo, labels.copyOnly, labels.goHint(block.codeKind === 'reward' ? 'reward' : undefined)]
+      : [labels.copy];
+    return [
+      block.code ? getCodeTitle(getSidebarCopy(lang), block.codeKind, block.brand) : block.brand,
+      ...(block.code ? [...actions, getArticleCopy(lang).copiedHint(block, block.codeKind)] : []),
+    ];
+  };
   const own = uiOf(locale);
   const problems = own.filter((text) => !texts.includes(text)).map((text) => `falta "${text}"`);
   if (block.code && !texts.includes(block.code)) problems.push(`falta o código ${block.code}`);
   if (block.code && !cutout.includes('data-copied=')) problems.push('sem o botão de copiar');
+  const copyAndGoLink = /<a\b[^>]*\sdata-copied="[^"]*"[^>]*>/.exec(cutout)?.[0];
+  if (isCopyAndGo(block) !== Boolean(copyAndGoLink)) {
+    problems.push(isCopyAndGo(block) ? 'sem o "Copiar e ir para a loja"' : '"Copiar e ir para a loja" sem código ou com código de indicação');
+  }
+  if (copyAndGoLink && !/\starget="_blank"/.test(copyAndGoLink)) problems.push('"Copiar e ir para a loja" fora de nova aba');
   if (locale !== 'pt') {
     const storeLinks = (lang: Locale) => [COUPON_STORE_COPY[lang].goToStore, COUPON_STORE_COPY[lang].viewOffer];
     const ownTexts = [...own, ...storeLinks(locale)];
@@ -1130,6 +1144,16 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
   assert.deepEqual(cutoutProblems(html('pt'), 'pt', block), []);
   assert.notDeepEqual(cutoutProblems(html('pt'), 'en', block), [], 'recorte em português passou numa página em inglês');
   assert.notDeepEqual(cutoutProblems(html('en').replace('<code>CECILIA010</code>', ''), 'en', block), [], 'recorte sem código passou');
+  // Com o link da loja: o "Copiar e ir para a loja" em nova aba, com o "Só copiar o código" e a linha embaixo.
+  const withStore: ArticleStoreBlock = { ...block, storeHref: 'https://www.yesstyle.com/x' };
+  const labels = getCouponCopyLabels('en');
+  const goHtml = (target: string) =>
+    `<section id="cupom-artigo"><p>${getCodeTitle(getSidebarCopy('en'), 'reward', 'YesStyle')}</p><code>CECILIA010</code>` +
+    `<a href="https://www.yesstyle.com/x"${target} data-copied="false">${labels.copyAndGo}</a><button data-copied="false">${labels.copyOnly}</button>` +
+    `<p>${labels.goHint('reward')}</p><p>${getArticleCopy('en').copiedHint(block, 'reward')}</p></section>`;
+  assert.deepEqual(cutoutProblems(goHtml(' target="_blank"'), 'en', withStore), []);
+  assert.notDeepEqual(cutoutProblems(goHtml(''), 'en', withStore), [], '"Copiar e ir para a loja" sem nova aba passou');
+  assert.notDeepEqual(cutoutProblems(html('en'), 'en', withStore), [], 'recorte com link da loja sem o "Copiar e ir para a loja" passou');
 }
 
 // O link da loja dos recortes (topo, fim e lateral) vai à loja, nunca à página de cupons do site, e todo link externo
@@ -1685,7 +1709,8 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
   const pt = getArticleCopy('pt');
   const cutout =
     `<section aria-label="${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}" class="recorte"><p>${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}</p><code>CECILIA12</code>` +
-    `<button data-copied="false">${getCouponCopyLabels('pt').copy}</button><a href="https://damie.example/">Ir</a><p>${pt.copiedHint(block)}</p></section>`;
+    `<a href="https://damie.example/" target="_blank" data-copied="false">${getCouponCopyLabels('pt').copyAndGo}</a>` +
+    `<button data-copied="false">${getCouponCopyLabels('pt').copyOnly}</button><p>${getCouponCopyLabels('pt').goHint()}</p><p>${pt.copiedHint(block)}</p></section>`;
   const end =
     `<section data-article="galeria"><h2><span class="marca-texto">${getGalleryCopy('pt').tabPhotos}</span></h2><button data-gallery-card="">1</button><button data-gallery-card="">2</button></section>` +
     '<section id="veredito"><div id="pros-e-contras"><ul data-lista="pros"><li>a</li><li>b</li></ul><ul data-lista="contras"><li>c</li></ul></div></section>' +
@@ -1830,6 +1855,7 @@ let bannerArticles = 0;
 let cutoutArticles = 0;
 let multiStoreArticles = 0;
 let dockStoreLinks = 0;
+let dockCopyAndGoLinks = 0;
 let limitedCodeArticles = 0;
 // Todos os códigos com prazo dos dados, vencidos ou não: o artigo sem a faixa não leva nenhum deles.
 const ALL_LIMITED_CODES = [
@@ -1938,20 +1964,32 @@ for (const url of articleUrls) {
     assert.ok(!dockHtml.includes('data-dock-codes='), `${pagePath}: "Ver códigos" fora do artigo de várias lojas`);
     assert.ok(!dialog.includes('data-store-codes='), `${pagePath}: linhas de código na gaveta fora do artigo de várias lojas`);
   }
-  // Sem código para copiar e sem as várias lojas, o dock leva o link da loja da gaveta (o laranja), com o mesmo
-  // destino, a mesma aba e o mesmo rel; com código, o dock fica com o botão de copiar e nenhum link.
+  // Fora do artigo de várias lojas, o dock leva o link da loja da gaveta (o laranja), com o mesmo destino, a mesma aba e o
+  // mesmo rel: sem código, como o próprio link; com código e link externo, como o "copiar e ir" (o código à vista e o
+  // data-copied), salvo o código de indicação, que só copia.
   const dockLinks = dockHtml.match(/<a\b[^>]*>/g) ?? [];
   const drawerStoreLink = (dialog.match(/<a\b[^>]*>/g) ?? []).find((tag) => classesOf(tag).includes('bg-laranja'));
-  if (multiBlocks.length > 0 || dockHtml.includes('data-copied=') || !drawerStoreLink) {
-    assert.deepEqual(dockLinks, [], `${pagePath}: link da loja no dock com código, com várias lojas ou sem o link da gaveta`);
+  const attributeOf = (tag: string, attribute: string) => tag.match(new RegExp(`\s${attribute}="([^"]*)"`))?.[1];
+  const dockStore = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
+  const dockCopyAndGo = Boolean(
+    review.coupon && drawerStoreLink && !isInternalLink(decodeHtml(attributeOf(drawerStoreLink, 'href') ?? '')) &&
+      getStoreCodeKind(dockStore, review.coupon) !== 'referral'
+  );
+  if (multiBlocks.length > 0 || !drawerStoreLink || (review.coupon && !dockCopyAndGo)) {
+    assert.deepEqual(dockLinks, [], `${pagePath}: link da loja no dock com várias lojas, sem o link da gaveta ou com código de indicação`);
   } else {
-    assert.equal(dockLinks.length, 1, `${pagePath}: dock sem o link da loja no lugar do botão de copiar`);
+    assert.equal(dockLinks.length, 1, `${pagePath}: dock sem o link da loja`);
     const [dockLink] = dockLinks;
     for (const attribute of ['href', 'target', 'rel']) {
-      const valueOf = (tag: string) => tag.match(new RegExp(`\\s${attribute}="([^"]*)"`))?.[1];
-      assert.equal(valueOf(dockLink), valueOf(drawerStoreLink), `${pagePath}: ${attribute} do link do dock diferente do da gaveta`);
+      assert.equal(attributeOf(dockLink, attribute), attributeOf(drawerStoreLink, attribute), `${pagePath}: ${attribute} do link do dock diferente do da gaveta`);
     }
-    dockStoreLinks++;
+    if (dockCopyAndGo) {
+      assert.match(dockLink, /\sdata-copied="false"/, `${pagePath}: o "copiar e ir" do dock sem o estado de copiado`);
+      assert.ok(dockHtml.includes(`>${review.coupon}<`), `${pagePath}: o "copiar e ir" do dock sem o código à vista`);
+      dockCopyAndGoLinks++;
+    } else {
+      dockStoreLinks++;
+    }
   }
   const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
   assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
@@ -2337,7 +2375,7 @@ for (const url of articleUrls) {
   const expectedTexts = [
     copy.sectionsNav,
     copy.tocTitle,
-    ...(code ? [getCouponCopyLabels(locale).copyCoupon(code)] : []),
+    ...(code && !(storeBlock && isCopyAndGo(storeBlock)) ? [getCouponCopyLabels(locale).copyCoupon(code)] : []),
     ...(code && !storeBlock ? [hints.copy, hints.copied] : []),
     ...(codeKind === 'referral' ? [getCodeTitle(copy, codeKind, store?.brand)] : []),
   ];
@@ -2371,6 +2409,7 @@ assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
 assert.ok(faqArticles > 0, 'nenhum artigo com FAQ');
 assert.ok(cutoutArticles > 0, 'nenhum artigo com o recorte do topo');
 assert.ok(dockStoreLinks > 0, 'nenhum artigo sem código com o link da loja no dock');
+assert.ok(dockCopyAndGoLinks > 0, 'nenhum artigo com o "copiar e ir" no dock');
 assert.ok(codeHighlightArticles > 0, 'nenhum artigo com o código destacado (marca-codigo) no corpo');
 assert.ok(cutoutStoreLinks >= cutoutArticles * 3, `só ${cutoutStoreLinks} links da loja nos recortes de ${cutoutArticles} artigos`);
 assert.equal(sidebarCutoutArticles, cutoutArticles, 'recorte da lateral e recorte do topo em artigos diferentes');
@@ -4799,5 +4838,5 @@ assert.equal(hreflangOf(ptFaqHead, 'pt-BR'), `${SITE_URL}/faqs`, '/faqs: hreflan
 assert.equal(hreflangOf(ptFaqHead, 'x-default'), `${SITE_URL}/en/faq`, '/faqs: x-default');
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos (${multiStoreArticles} de várias lojas, com o "Ver códigos" e as linhas na gaveta, e ${dockStoreLinks} sem código, com o link da loja no dock), o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos (${multiStoreArticles} de várias lojas, com o "Ver códigos" e as linhas na gaveta, e ${dockStoreLinks} sem código, com o link da loja no dock, e ${dockCopyAndGoLinks} com o "copiar e ir" nele), o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

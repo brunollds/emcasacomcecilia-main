@@ -2,7 +2,7 @@
 
 import { Check, Copy, ExternalLink, Scissors } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
-import { CopyCodeButton } from '@/components/coupons/CouponActions';
+import { CopyAndOpenStoreLink, CopyCodeButton } from '@/components/coupons/CouponActions';
 import {
   PRIMARY_ACTION,
   PRIMARY_ACTION_COMPACT,
@@ -75,6 +75,9 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
   const labels = getCouponCopyLabels(locale);
   const title = code ? getCodeTitle(sidebarCopy, codeKind, brand) : brand;
   const copiedHint = getArticleCopy(locale).copiedHint({ slug, brand }, codeKind);
+  // Com código e link da loja, o botão principal copia e abre a loja em nova aba, como nas páginas de loja. O código de
+  // indicação (4CW5Y da SHEIN) se pesquisa no app e segue com o copiar e o link à parte.
+  const copyAndGo = code && storeHref && codeKind !== 'referral' ? { code, storeHref } : undefined;
 
   return (
     <section
@@ -102,44 +105,91 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
         </div>
 
         <div className={`flex flex-col ${actions}`}>
-          {code && (
-            <CopyCodeButton
-              code={code}
-              brand={slug}
-              contentSlug={reviewSlug}
-              placement={placement}
-              ariaLabel={labels.copyCoupon(code)}
-              copiedStatus={copiedHint}
-              className={primary}
-              copiedChildren={
-                <>
-                  <Check aria-hidden="true" className="h-5 w-5 shrink-0" />
-                  {labels.copied}
-                </>
-              }
-            >
-              <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-              {labels.copy}
-            </CopyCodeButton>
-          )}
-          {storeHref && (
-            <CouponStoreLink
-              href={storeHref}
-              couponCode={code}
-              brand={slug}
-              contentSlug={reviewSlug}
-              linkLabel={storeLabel}
-              sponsored={storeSponsored}
-              placement={placement}
-              className={
-                code
-                  ? `${secondary} group-has-[[data-copied=true]]/recorte:bg-laranja group-has-[[data-copied=true]]/recorte:hover:bg-laranja/85`
-                  : primary
-              }
-            >
-              {storeLabel}
-              <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-            </CouponStoreLink>
+          {copyAndGo ? (
+            <>
+              <CopyAndOpenStoreLink
+                code={copyAndGo.code}
+                href={copyAndGo.storeHref}
+                brand={slug}
+                contentSlug={reviewSlug}
+                placement={placement}
+                sponsored={storeSponsored}
+                copiedStatus={copiedHint}
+                returnNotice={{ text: copiedHint, closeLabel: labels.closeNotice }}
+                className={primary}
+                copiedChildren={
+                  <>
+                    <Check aria-hidden="true" className="h-5 w-5 shrink-0" />
+                    {labels.copied}
+                  </>
+                }
+              >
+                {labels.copyAndGo}
+                <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+              </CopyAndOpenStoreLink>
+              <CopyCodeButton
+                code={copyAndGo.code}
+                brand={slug}
+                contentSlug={reviewSlug}
+                placement={placement}
+                copiedStatus={copiedHint}
+                className={secondary}
+                copiedChildren={
+                  <>
+                    <Check aria-hidden="true" className="h-5 w-5 shrink-0" />
+                    {labels.copied}
+                  </>
+                }
+              >
+                <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+                {labels.copyOnly}
+              </CopyCodeButton>
+              <p className="text-center text-[12.5px] leading-[17px] font-semibold text-marinho-suave group-has-[[data-copied=true]]/recorte:hidden">
+                {labels.goHint(codeKind === 'reward' ? 'reward' : undefined)}
+              </p>
+            </>
+          ) : (
+            <>
+              {code && (
+                <CopyCodeButton
+                  code={code}
+                  brand={slug}
+                  contentSlug={reviewSlug}
+                  placement={placement}
+                  ariaLabel={labels.copyCoupon(code)}
+                  copiedStatus={copiedHint}
+                  className={primary}
+                  copiedChildren={
+                    <>
+                      <Check aria-hidden="true" className="h-5 w-5 shrink-0" />
+                      {labels.copied}
+                    </>
+                  }
+                >
+                  <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+                  {labels.copy}
+                </CopyCodeButton>
+              )}
+              {storeHref && (
+                <CouponStoreLink
+                  href={storeHref}
+                  couponCode={code}
+                  brand={slug}
+                  contentSlug={reviewSlug}
+                  linkLabel={storeLabel}
+                  sponsored={storeSponsored}
+                  placement={placement}
+                  className={
+                    code
+                      ? `${secondary} group-has-[[data-copied=true]]/recorte:bg-laranja group-has-[[data-copied=true]]/recorte:hover:bg-laranja/85`
+                      : primary
+                  }
+                >
+                  {storeLabel}
+                  <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+                </CouponStoreLink>
+              )}
+            </>
           )}
         </div>
       </div>

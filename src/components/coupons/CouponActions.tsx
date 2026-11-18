@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState, type MouseEvent, type ReactNode } from 'react';
-import { Check, Copy, ExternalLink, Scissors } from 'lucide-react';
+import { Check, Copy, ExternalLink, Scissors, X } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { trackEvent } from '@/lib/analytics';
@@ -91,32 +91,64 @@ export function CopyCodeButton({
   );
 }
 
-type CopyAndOpenStoreLinkProps = {
+type CopyAndOpenStoreLinkProps = Partial<CopyTracking> & {
   code: string;
-  brand: string;
   href: string;
   className: string;
   children: ReactNode;
   copiedChildren: ReactNode;
   copiedStatus: string;
+  sponsored?: boolean;
+  // Para quando o texto visível não diz a ação (só o código); precisa conter esse texto.
+  ariaLabel?: string;
+  // O aviso de quando a pessoa volta da aba da loja: o código e onde colar, até ela fechar.
+  returnNotice?: { text: string; closeLabel: string };
 };
 
 // Copia e deixa o link abrir a loja em outra aba; a escrita na área de transferência começa
-// ainda dentro do clique, antes de a aba nova tirar o foco da página.
+// ainda dentro do clique, antes de a aba nova tirar o foco da página. A cópia e o clique na loja
+// seguem como dois eventos. O "Copiado" do botão fica atrás da aba da loja, então quem volta
+// encontra o aviso (returnNotice).
 export function CopyAndOpenStoreLink({
   code,
   brand,
+  placement = 'coupon_page',
+  contentSlug,
   href,
   className,
   children,
   copiedChildren,
   copiedStatus,
+  sponsored = true,
+  ariaLabel,
+  returnNotice,
 }: CopyAndOpenStoreLinkProps) {
-  const { copied, copy } = useCopyCode(code, { placement: 'coupon_page', brand });
+  const awaitingReturn = useRef(false);
+  const [noticeOpen, setNoticeOpen] = useState(false);
+  const { copied, copy } = useCopyCode(code, { placement, brand, contentSlug }, () => {
+    awaitingReturn.current = true;
+  });
+
+  useEffect(() => {
+    if (!returnNotice) return undefined;
+    const onVisibilityChange = () => {
+      if (document.visibilityState !== 'visible' || !awaitingReturn.current) return;
+      awaitingReturn.current = false;
+      setNoticeOpen(true);
+    };
+    document.addEventListener('visibilitychange', onVisibilityChange);
+    return () => document.removeEventListener('visibilitychange', onVisibilityChange);
+  }, [returnNotice]);
 
   const handleClick = (event: MouseEvent<HTMLAnchorElement>) => {
     void copy(event);
-    trackEvent('coupon_store_click', { coupon_code: code, brand, placement: 'coupon_page', url: href });
+    trackEvent(sponsored ? 'coupon_store_click' : 'outbound_link_click', {
+      coupon_code: code,
+      ...(brand && { brand }),
+      ...(contentSlug && { content_slug: contentSlug }),
+      placement,
+      url: href,
+    });
   };
 
   return (
@@ -124,8 +156,9 @@ export function CopyAndOpenStoreLink({
       <a
         href={href}
         target="_blank"
-        rel="sponsored noopener noreferrer"
+        rel={sponsored ? 'sponsored noopener noreferrer' : 'noopener noreferrer'}
         onClick={handleClick}
+        aria-label={ariaLabel}
         data-copied={copied}
         className={className}
       >
@@ -134,6 +167,27 @@ export function CopyAndOpenStoreLink({
       <span role="status" className="sr-only">
         {copied ? copiedStatus : ''}
       </span>
+      {returnNotice && noticeOpen && (
+        <div
+          role="status"
+          data-return-notice=""
+          className="fixed inset-x-3 top-3 z-[70] mx-auto flex max-w-md items-start gap-3 rounded-xl border-2 border-verde-escuro bg-verde-claro p-3.5 text-left text-verde-escuro shadow-large motion-safe:animate-[slide-up_0.25s_ease-out]"
+        >
+          <Check aria-hidden="true" className="mt-1 h-6 w-6 shrink-0" />
+          <div className="min-w-0 flex-1">
+            <p className="font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] break-all">{code}</p>
+            <p className="mt-0.5 text-[15px] leading-5 font-bold">{returnNotice.text}</p>
+          </div>
+          <button
+            type="button"
+            onClick={() => setNoticeOpen(false)}
+            aria-label={returnNotice.closeLabel}
+            className="flex h-11 w-11 shrink-0 items-center justify-center rounded-[10px] border-2 border-verde-escuro bg-white focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho"
+          >
+            <X aria-hidden="true" strokeWidth={2.4} className="h-5 w-5" />
+          </button>
+        </div>
+      )}
     </>
   );
 }
