@@ -1,0 +1,232 @@
+{
+  "id": 1047,
+  "slug": "proton-vpn-worth-it-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "proton-vpn-vale-a-pena",
+  "title": "Proton VPN 值得買嗎？免費方案能做什麼、Plus 多了什麼，以及要花多少錢",
+  "seoTitle": "Proton VPN 值得買嗎？免費版與 Plus、價格和續訂",
+  "type": "購買指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Proton VPN 免費版涵蓋什麼、哪些只有 Plus 才有、Plus 首期和續訂各要多少錢，以及什麼時候適合選 Proton Unlimited。",
+  "metaDescription": "Proton VPN 值得買嗎？看免費方案能做什麼、Plus 何時划算、含續訂的價格，以及 30 天退款的條件。",
+  "publishedAt": "2026年11月17日",
+  "publishedAtISO": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
+  "imageAlt": "Proton 標誌旁寫著「Proton VPN，免費版或 Plus」，旁邊是一張官方照片，畫面中一隻手拿著手機，螢幕上是 Proton VPN 應用程式。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "依 Proton 所述，Proton VPN 免費方案沒有廣告、沒有流量限制，一次可連 1 台裝置。手機連公共 Wi-Fi 時，這樣就夠用。想自己選國家、同時用多台裝置，或要封鎖廣告，Plus 才划算。除了月繳方案，續訂價都比首期高。"
+      ]
+    },
+    {
+      "heading": "免費方案能做什麼、不能做什麼",
+      "paragraphs": [
+        "免費方案不需要信用卡。依 Proton 頁面所述，它沒有廣告、沒有流量限制，並遵循不保存活動日誌的政策。",
+        "限制寫在價格頁面。免費方案一次連 1 台裝置，頁面提到的是「中等 VPN 速度」，以及 10 個國家「隨機選擇」的伺服器，國家由應用程式決定。廣告封鎖、P2P 和串流在免費方案中標示為不包含，Secure Core 則標示為進階功能。"
+      ]
+    },
+    {
+      "heading": "Plus 多了什麼",
+      "paragraphs": [
+        "VPN Plus 是只含 VPN 的付費方案。價格頁面列出了它與免費方案的差別。"
+      ],
+      "bullets": [
+        "**同時 10 台裝置**，免費方案是 1 台。",
+        "**可自選國家**，140 多個國家可選，伺服器超過 20,000 台。",
+        "**「最高 VPN 速度」**，這是 Proton 自己的說法。",
+        "**NetShield**，透過 DNS 過濾來封鎖廣告、追蹤器和惡意軟體。",
+        "**Secure Core**，頁面標示為進階功能。",
+        "**P2P 和串流**，頁面把它們列在此方案內。",
+        "**優先支援和即時聊天。**"
+      ],
+      "postParagraphs": [
+        "我們沒有使用 Proton VPN。速度、P2P 和串流在這裡都依 Proton 的宣傳列出，沒有我們自己的測量，也不保證能存取任何影音服務。信任面與稽核的內容，請見 [Proton VPN 安全嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "免費方案夠你用嗎？",
+      "paragraphs": [
+        "表格從你想做的事出發，只採用方案頁面上寫明的內容。"
+      ],
+      "comparisonTable": {
+        "caption": "依用途比較免費方案與 VPN Plus，依據 Proton 的方案頁面。",
+        "headers": [
+          "你想做的事",
+          "免費方案",
+          "VPN Plus"
+        ],
+        "rows": [
+          [
+            "在公共 Wi-Fi 下保護手機",
+            "可以，一次 1 台裝置",
+            "可以"
+          ],
+          [
+            "在家同時用多台裝置",
+            "不行，一次 1 台",
+            "同時最多 10 台"
+          ],
+          [
+            "選擇連線的國家",
+            "不行，由應用程式在 10 個國家中挑選",
+            "可以，140 多個國家"
+          ],
+          [
+            "在裝置上封鎖廣告和追蹤器",
+            "不包含",
+            "可以，使用 NetShield"
+          ],
+          [
+            "用 P2P 分享檔案",
+            "不包含",
+            "包含，依頁面所述"
+          ],
+          [
+            "Proton 宣傳的速度",
+            "「中等 VPN 速度」",
+            "「最高 VPN 速度」"
+          ],
+          [
+            "無流量限制地使用",
+            "可以",
+            "可以"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "VPN Plus 要多少錢",
+      "paragraphs": [
+        "以下是 2026 年 11 月 17 日 Proton 頁面上的價格，幣別設為美元。頁面上醒目的數字是「每月」價，但實際是整個期間一次扣款。1 年方案當時是黑色星期五活動價。"
+      ],
+      "comparisonTable": {
+        "caption": "Proton 價格頁面與合作夥伴頁面上的 VPN Plus，以美元計價。金額會隨國家和幣別而變，請在結帳時確認。",
+        "headers": [
+          "方案",
+          "每月",
+          "一次扣款",
+          "之後續訂價"
+        ],
+        "rows": [
+          [
+            "1 個月",
+            "9.99 美元",
+            "9.99 美元",
+            "每月 9.99 美元"
+          ],
+          [
+            "1 年",
+            "2.99 美元",
+            "35.88 美元",
+            "每 12 個月 83.88 美元"
+          ],
+          [
+            "2 年",
+            "3.49 美元",
+            "83.76 美元",
+            "每 12 個月 83.88 美元"
+          ],
+          [
+            "2 年，合作夥伴頁面（我們的連結開啟的頁面）",
+            "2.49 美元",
+            "59.76 美元",
+            "每 12 個月 83.88 美元"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "1 年和 2 年方案的表內價格只適用於第一期。之後兩者都以公布的 83.88 美元每 12 個月續訂，條款也說明以續訂當天有效的價格為準。所以如果你打算用滿兩年，2 年方案比 1 年方案加一次續訂更便宜。",
+        "最後一列是我們的按鈕開啟的頁面：同樣是 2 年方案，前 24 個月 59.76 美元，續訂價相同。兩種購買管道的比較，請見 [Proton 黑色星期五指南](/zh-hant/reviews/proton-black-friday-zh-hant)。"
+      ],
+      "image": {
+        "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
+        "alt": "Proton 價格頁面上的 VPN Plus 卡片：1 年方案每月 2.99 美元，前 12 個月一次扣款 35.88 美元，之後每 12 個月以 83.88 美元續訂。",
+        "caption": "Proton 價格頁面上的 1 年 VPN Plus 卡片，總額和續訂價標在小字中。"
+      }
+    },
+    {
+      "heading": "VPN Plus 還是 Proton Unlimited",
+      "paragraphs": [
+        "Proton Unlimited 把 VPN、電子郵件、雲端儲存和密碼管理的付費功能合在同一個帳戶裡。同一頁面上，1 年方案是 77.88 美元，之後每 12 個月以 119.88 美元續訂。",
+        "訂閱 VPN Plus 後，其他服務仍維持免費方案，說明中心也表示同一帳戶不能有多個 Plus 方案。如果你會用付費 VPN，再加上另一項付費的 Proton 服務，Unlimited 才有意義。如果你只要 VPN，1 年 Plus 首期不到一半的價格（35.88 美元對 77.88 美元），續訂時也仍然較便宜（83.88 美元對 119.88 美元）。",
+        "我們使用同一家公司的 Proton Mail 免費方案，已經將近十年。如果免費電子郵件對你來說夠用，就不需要為了用付費 VPN 而選 Unlimited。"
+      ]
+    },
+    {
+      "heading": "不利的地方",
+      "bullets": [
+        "**1 年和 2 年方案的續訂價比首期高。** 以價格頁面上的 1 年方案來說，從 35.88 美元變成 83.88 美元。",
+        "**客服從表單開始。** Proton 的客服透過網站上的聯絡表單處理，即時聊天只列在付費方案中。詳情請見 [Proton VPN 安全嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。",
+        "**免費方案不能選國家。** 如果這是你想用 VPN 的原因，免費方案就不適合你。"
+      ]
+    },
+    {
+      "heading": "如何訂閱，又如何反悔",
+      "paragraphs": [
+        "不需要輸入優惠碼或代碼。按鈕會開啟合作夥伴頁面，內容是 2 年 VPN Plus；1 年和月繳方案在 Proton 的價格頁面上。結帳時會在付款前顯示幣別和總額。購買當天請記下續訂日期。",
+        "依 Proton 所述，活動優惠適用於「所有新用戶」。如果你已經有帳戶，登入後會看到該帳戶的優惠，我們因為需要登入而沒有查閱。如果你打算先試免費方案，訂閱當天請在帳戶中確認價格。",
+        "依 Proton 的條款，只要在首次購買後 30 天內取消並申請退款，就會退還款項，每位用戶限一次，且僅適用於直接向 Proton 購買的訂閱。詳細步驟請見[如何取消 Proton VPN 並申請退款](/zh-hant/reviews/proton-vpn-refund-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Proton VPN 免費嗎？有免費方案，不需要信用卡，另有付費方案。依 Proton 所述，免費方案沒有廣告、沒有流量限制，一次連 1 台裝置。",
+        "Proton VPN 免費版有流量限制嗎？Proton 表示沒有。免費方案的限制是一次 1 台裝置，以及由應用程式挑選的 10 個國家的伺服器。",
+        "Proton VPN Plus 要多少錢？在我們查閱的價格頁面上，以美元計，1 年方案是 35.88 美元，一次扣款，之後每 12 個月以 83.88 美元續訂。月繳方案是 9.99 美元。金額會隨國家和幣別而變。",
+        "VPN Plus 和 Proton Unlimited 有什麼差別？VPN Plus 只含付費 VPN。Unlimited 還包含電子郵件、雲端儲存和密碼管理的付費功能，價格也更高。",
+        "我可以試用 Plus 再要回錢嗎？條款規定，直接向 Proton 訂閱的用戶，在首次購買後 30 天內取消並申請，可以退款，每位用戶限一次。"
+      ],
+      "postParagraphs": [
+        "我們連結的規則請見[我們網站上的 Proton 頁面](/zh-hant/coupons/proton)。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "如果你已決定選 Plus，我們的連結會開啟 Proton 的合作夥伴頁面，方案為 2 年。付款前請確認一次扣款總額和續訂價。",
+    "label": "查看 Proton VPN 優惠",
+    "url": "https://go.getproton.me/SH39K",
+    "sponsored": true
+  },
+  "affiliate": "proton",
+  "editorialNote": "本文依據 Proton 的方案頁面與條款撰寫，沒有實際測試。這個連結是聯盟連結，可能為我們帶來佣金。",
+  "relatedArticles": [
+    {
+      "slug": "proton-vpn-trust-zh-hant"
+    },
+    {
+      "slug": "proton-black-friday-zh-hant"
+    },
+    {
+      "slug": "proton-vpn-refund-zh-hant"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你在多台裝置上使用 VPN，或需要自己選擇連線的國家。",
+      "你想在整台裝置上封鎖廣告和追蹤器。"
+    ],
+    "skipIf": [
+      "你只是偶爾用，而且只用一台裝置，連線的國家也不重要。",
+      "續訂金額超出你的預算。"
+    ]
+  }
+}

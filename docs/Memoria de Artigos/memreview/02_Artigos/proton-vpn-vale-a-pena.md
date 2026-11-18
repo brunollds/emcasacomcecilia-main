@@ -145,3 +145,13 @@ plano grátis na comparação.
 | Quem assina o Plus tem os planos grátis de Mail, Drive e Pass | FAQ da página de preços | verificado |
 | Reembolso em 30 dias, com as condições | termos de 05/11/2026 | verificado |
 | Velocidade, estabilidade, streaming, desbloqueio | nenhuma | não escrever |
+
+## Redação e publicação (17/11/2026)
+
+- **Leituras do dia (navegador, sem login):** página de preços em português (`protonvpn.com/pt-br/pricing`, moeda BRL) e em inglês (`protonvpn.com/pricing`, seletor em USD), com os cartões e a tabela "Comparar planos"; central de ajuda dos planos.
+- **Em dólar (para os 9 idiomas):** VPN Plus 1 mês US$ 9,99; 1 ano US$ 35,88, renova US$ 83,88 a cada 12 meses; 2 anos US$ 83,76, mesma renovação; página de parceiros US$ 59,76 por 24 meses; Unlimited 1 ano US$ 77,88, renova US$ 119,88.
+- **Tabela "Comparar planos":** no plano grátis, streaming, P2P e bloqueador aparecem como não incluídos; "sem registros" e "sem anúncios", incluídos. O Kill Switch não está na tabela e saiu do texto. O Secure Core entra só como "recurso premium".
+- **Erro da página em português:** o cartão do Plus diz "mais de 20 servidores" (a tabela e a página em inglês dizem 20 mil). O texto em PT ficou sem a contagem, para não contradizer o print; os outros idiomas levam os 20 mil.
+- **PT:** `proton-vpn-vale-a-pena` (id 1039). Job 3 pelo Fable: 16 achados aplicados. Os principais: o botão abre a página de parceiros, que só tem o Plus de 2 anos (avisado no texto e no CTA); linha do nosso link na tabela de preços (R$ 210,96); ofertas para "todos os novos usuários"; "menos da metade" com a renovação ao lado; Proton Mail sem generalizar para os outros serviços.
+- **Fora do PT (ids 1040 a 1048):** valores em dólar, sem Pix nem Reclame Aqui (o "pesa contra" fica com três itens). Sonnet traduz do inglês, Fable fecha.
+- **Mídia:** capa `proton-vpn-vale-a-pena-capa.webp` ("Proton VPN / Free or Plus", uma para os 10); print do cartão do VPN Plus de 1 ano em reais (PT) e em dólar (os outros 9).
