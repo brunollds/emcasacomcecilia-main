@@ -229,3 +229,16 @@ regra de não citar valor.
 
 Nenhuma. Pendências de leitura: a Ferrero e o Cade (no dia), a página da Anvisa (Job 2), o rótulo de um produto e os
 marketplaces (navegador). O link do fechamento depende do deploy da `/cupons/bold`.
+
+## Redação, revisão e JSON (18/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1070) por subagente (Sonnet), com o briefing, as regras do pacote em [[cupom-bold-snacks-como-usar]] e os fatos de [[bold-fatos-1811]]; sem experiência própria ("testamos" só para o código).
+- **Job 3:** revisão do Fable 5.2, aplicada com conferência nas fontes, e a releitura da sessão. CECILIA15 com o nome explicado e os 20% presos ao teste de 18/11, na Pré-Black; nada de frete grátis, Pix, parcelamento, mínimo ou marketplace; "é do site oficial", nunca "vale só no site"; Anvisa sem registro, aprovação ou notificação; Ferrero só "anunciou um acordo".
+- Âncora `[cupom BOLD](/cupons/bold)` uma vez, fora da resposta rápida.
+- **Farol (ChatGPT/Codex, 18/11, colado pelo Bruno; em `docs/auditoria-copy-artigos/bold-bo1-bo6-20261118-farol/`, fora do Git):** 65 propostas, aplicadas no mesmo PR com conferência nas fontes (quatro verificadores). Ajustes: âncora e link fora das respostas rápidas; "print do nosso teste" no lugar de "enviado pelo Bruno"; o FAQ da assinatura responde "Sim"; cancelamento com 5 dias de antecedência do próximo ciclo (cláusula 14.6); só o Nosso Meio fala do Cade (a TV Sim Brasil não foi achada); a página da Anvisa não detalha regimes de transição; recomendação de até duas unidades só nas páginas do 21 g, do 14 g e do Wafer; os 20% só testados na Caixa Mista de 21 g. Na BO6, o print de compra única mostra coqueteleira e térmica a R$ 0,01 com R$ 294,40 em produtos, e o regulamento daria só a coqueteleira: o texto mostra a divergência sem explicar a causa.
+
+## Capa e imagens (Job 6; aprovadas pelo Bruno em 18/11/2026)
+
+- **Capa:** `/images/reviews/bold/bold-snacks-e-confiavel-capa.webp`, "É confiável?", com a foto oficial dos pacotes de whey, o logo e o CECILIA15.
+- **Corpo:** o print do checkout com o código e o print da assinatura com o código.
+- **CDN:** as imagens novas subiram em 18/11/2026 (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.

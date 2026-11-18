@@ -266413,5 +266413,1235 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1067,
+    "slug": "black-friday-bold-snacks",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA15",
+    "affiliate": "bold",
+    "title": "Black Friday BOLD Snacks 2026: como o cupom entra e a conta dos brindes",
+    "seoTitle": "Black Friday BOLD Snacks 2026: cupom CECILIA15 e brindes",
+    "type": "Guia de Black Friday",
+    "description": "A Black Friday da BOLD Snacks vem em fases, cada uma com regulamento. Veja o que vale na atual, como o cupom entra no preço e a conta dos brindes por faixa de valor.",
+    "metaDescription": "CECILIA15 dá 20% OFF na BOLD Snacks. Veja como o código entra na Black Friday BOLD Snacks 2026 e a conta dos brindes por faixa.",
+    "image": "/images/reviews/bold/black-friday-bold-snacks-capa.webp",
+    "imageAlt": "Logo da BOLD Snacks, a chamada “Black Friday 2026” e o código CECILIA15, ao lado de caixas BOLD Caixa Mix numa cadeira de palhinha, em foto oficial da loja.",
+    "cta": {
+      "text": "Monte o carrinho pelo botão e siga para o checkout. No campo “Código de desconto ou cartão-presente”, digite CECILIA15 e clique em Aplicar.",
+      "label": "Ir para a BOLD Snacks",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com o regulamento e a vitrine da loja; o cupom foi testado no checkout. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-bold-snacks-como-usar"
+      },
+      {
+        "slug": "bold-snacks-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "bold-snacks-e-confiavel"
+      },
+      {
+        "slug": "cupom-bold-snacks-primeira-compra"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "O valor depois do cupom já passa da faixa de brinde que você quer.",
+        "Você conferiu o resumo do checkout e a fase continua no ar.",
+        "Você já ia comprar as caixas ou o whey, com ou sem brinde."
+      ],
+      "skipIf": [
+        "A compra só compensa pelo brinde, que tem estoque limitado e depende de uma faixa recalculada a cada troca no carrinho.",
+        "O seu total depende do desconto por quantidade, que não vale nesta fase.",
+        "O prazo de entrega aperta e você não pode esperar um atraso."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Pré-Black da BOLD Snacks, o cupom BOLD CECILIA15 deu 20% OFF no nosso teste, com um código por pedido. Pelo regulamento, os brindes dependem do valor dos produtos após os descontos, sem frete. O print do teste mostrou um brinde além da faixa publicada; abaixo estão a regra e o que conferir no pedido."
+        ]
+      },
+      {
+        "heading": "A campanha da BOLD tem fases",
+        "paragraphs": [
+          "A campanha no ar é a Black BOLD 2026, Fase 3: Pré-Black. Pelo regulamento, ela vale só no site oficial, até 22/11, às 23h59 de Brasília.",
+          "Cada fase tem condições próprias, independentes das outras, e a loja diz que não há prorrogação automática. A fase seguinte ainda não tinha regulamento publicado quando conferimos. Se a BOLD publicar outro, vale o outro. Leia o regulamento da fase em que você comprar."
+        ]
+      },
+      {
+        "heading": "Como o cupom CECILIA15 entra",
+        "paragraphs": [
+          "O CECILIA15 é o cupom da parceria do Em Casa com Cecília na BOLD Snacks, para cliente novo e antigo. O nome tem 15, mas no nosso teste, nesta fase da campanha, o desconto foi de 20%. Depois dela o percentual pode mudar, e vale o que o resumo do checkout mostrar no dia da compra.",
+          "O código vai no campo “Código de desconto ou cartão-presente” do checkout. O caminho completo está em [como usar o cupom CECILIA15 na BOLD Snacks](/reviews/cupom-bold-snacks-como-usar), e as condições do código estão na página do [cupom BOLD](/cupons/bold). O regulamento da fase diz o seguinte."
+        ],
+        "bullets": [
+          "O cupom vale sobre o preço de venda informado, também nos itens com preço promocional, e os descontos entram um depois do outro.",
+          "Vale um cupom por pedido.",
+          "O desconto progressivo por quantidade não vale nesta fase.",
+          "Incluir o produto no carrinho não garante o cupom. Confira o código, o percentual e o valor final antes de pagar."
+        ]
+      },
+      {
+        "heading": "Os brindes por faixa",
+        "paragraphs": [
+          "A loja dá brindes pelo valor total dos produtos no pedido. Cada faixa inclui os brindes da anterior."
+        ],
+        "comparisonTable": {
+          "caption": "Pelo regulamento, as faixas contam o valor dos produtos depois de todos os descontos, sem o frete.",
+          "headers": [
+            "Valor dos produtos",
+            "Brindes"
+          ],
+          "rows": [
+            [
+              "A partir de R$ 249,01",
+              "Coqueteleira"
+            ],
+            [
+              "A partir de R$ 359,01",
+              "Coqueteleira e térmica"
+            ],
+            [
+              "A partir de R$ 699,01",
+              "Coqueteleira, térmica e bolsa de academia"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pelo regulamento, o cupom e o cashback usado como abatimento entram na conta antes da faixa. Os brindes são adicionados sozinhos, sem cupom de brinde, em uma unidade de cada, e o estoque é limitado, então podem esgotar antes do fim da fase. Se você trocar um produto ou o cupom, a faixa é recalculada.",
+          "Para saber a faixa, olhe o valor depois do cupom, nunca o de vitrine."
+        ]
+      },
+      {
+        "heading": "A conta com o cupom",
+        "paragraphs": [
+          "A tabela mostra em que faixa cada carrinho cai depois dos 20%."
+        ],
+        "comparisonTable": {
+          "caption": "Valor dos produtos após 20%, sem frete e sem eventuais centavos cobrados por brindes. Apenas Caixa Mista e whey de 450 g passaram pelo carrinho; os outros cenários são cálculos. A coluna de brindes segue o regulamento, não uma garantia de checkout.",
+          "headers": [
+            "Carrinho",
+            "Produtos com CECILIA15 (20%)",
+            "Faixa pelo regulamento"
+          ],
+          "rows": [
+            [
+              "1 Caixa Mista 21 g",
+              "R$ 143,20",
+              "Nenhuma"
+            ],
+            [
+              "2 Caixas Mistas 21 g",
+              "R$ 286,40",
+              "Coqueteleira"
+            ],
+            [
+              "3 Caixas Mistas 21 g",
+              "R$ 429,60",
+              "Coqueteleira e térmica"
+            ],
+            [
+              "4 Caixas Mistas 21 g",
+              "R$ 572,80",
+              "Coqueteleira e térmica"
+            ],
+            [
+              "5 Caixas Mistas 21 g",
+              "R$ 716,00",
+              "Coqueteleira, térmica e bolsa"
+            ],
+            [
+              "Caixa Mista 21 g mais Caixa Mista 14 g",
+              "R$ 246,40",
+              "Nenhuma, a R$ 2,61 da primeira faixa"
+            ],
+            [
+              "Caixa Mista 21 g mais whey de 450 g",
+              "R$ 294,40",
+              "Coqueteleira (o print mostrou também a térmica)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No print do teste, Caixa Mista e whey somam R$ 294,40 em produtos após o cupom. O resumo também mostra coqueteleira e térmica a R$ 0,01 cada, levando o subtotal exibido a R$ 294,42. Pelo regulamento da fase, R$ 294,40 alcançaria apenas a coqueteleira. A origem dessa diferença não foi confirmada; confira os brindes discriminados no seu pedido antes de pagar.",
+          "A Caixa Mista de 21 g com a de 14 g fica em R$ 246,40 após o cupom, R$ 2,61 abaixo da primeira faixa. Trocar a caixa de 14 g por outra de 21 g eleva os produtos a R$ 286,40: são R$ 40 a mais. Faça essa troca se preferir as barras maiores, depois de conferir o brinde e o total entregue.",
+          "O próprio regulamento traz um exemplo na mesma lógica: R$ 350 em produtos com um cupom de 20% viram R$ 280, e esse valor fica na faixa da coqueteleira."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/cupom-bold-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da BOLD Snacks com o CECILIA15 aplicado: Caixa Mista a R$ 143,20, whey de 450 g a R$ 151,20, coqueteleira e bolsa térmica a R$ 0,01 cada e subtotal de R$ 294,42",
+            "caption": "Print do teste: R$ 294,40 em produtos e dois brindes a R$ 0,01 cada, com subtotal de R$ 294,42. A térmica aparece abaixo da faixa prevista no regulamento.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9164
+          }
+        ]
+      },
+      {
+        "heading": "O cupom na assinatura",
+        "paragraphs": [
+          "No print do nosso teste, a caixa BOLD Mousse de Maracujá aparece com frequência de 2 meses e preço de assinatura de R$ 152,00. O CECILIA15 abate R$ 30,40, deixando subtotal de R$ 121,60, com um brinde do BOLD Club grátis. A compra única estava em R$ 179,00 na vitrine.",
+          "O print mostra o desconto no resumo de adesão, sem comprovar o preço das cobranças seguintes. A assinatura tem compromisso de dois ciclos após o prazo de arrependimento; veja os cuidados no [guia de uso do CECILIA15](/reviews/cupom-bold-snacks-como-usar) antes de aderir."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+            "alt": "Resumo da assinatura da caixa BOLD Mousse de Maracujá com o código CECILIA15 aplicado: R$ 152,00, desconto de R$ 30,40, subtotal de R$ 121,60 e um brinde do BOLD Club a R$ 0,00",
+            "caption": "Print do nosso teste: desconto na adesão ao BOLD Club. O brinde grátis da assinatura é separado dos brindes por faixa da compra única.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1157
+          }
+        ]
+      },
+      {
+        "heading": "Cashback e pagamento",
+        "bullets": [
+          "**Cashback.** A loja informa que devolve até 10% do valor da compra para a próxima compra. Pela política, o cashback não se usa junto com outros cupons e não vale em produto em promoção. Não conte com os dois no mesmo pedido.",
+          "**Pagamento.** A campanha aceita cartão, Pix e os outros meios do checkout. Pelo regulamento, o Pix não pago no prazo pode cancelar o pedido e as condições da campanha."
+        ]
+      },
+      {
+        "heading": "Prazo de entrega e o que conferir",
+        "paragraphs": [
+          "A loja entrega em todo o Brasil, e o prazo e o frete saem pelo CEP no checkout. O regulamento avisa que a demanda de Black Friday pode causar atrasos.",
+          "Segundo o perfil da marca no Reclame Aqui, o atraso na entrega é o problema mais frequente. O quadro completo está em [BOLD Snacks no Reclame Aqui: nota e reclamações](/reviews/bold-snacks-reclame-aqui-nota-reputacao)."
+        ],
+        "bullets": [
+          "**Antes de pagar.** Confira no resumo o código, o percentual do desconto e a faixa de brinde que o seu total alcança.",
+          "**Depois do pedido.** Guarde o resumo e compare o pedido com o que chegou, item por item."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A BOLD Snacks tem Black Friday? Tem, em fases, cada uma com regulamento próprio. A fase em andamento é a Pré-Black, só no site oficial.",
+          "O cupom CECILIA15 vale na Black Friday da BOLD? No nosso teste, sim. Deu 20% durante a campanha, vale um cupom por pedido e entrou também num produto em promoção. Confira o percentual no resumo antes de pagar.",
+          "Como ganho a coqueteleira, a térmica e a bolsa? Pelo valor dos produtos depois de todos os descontos e sem o frete. A tabela do artigo traz as três faixas e a conta de cada carrinho.",
+          "O CECILIA15 dá 15% ou 20%? O nome tem 15, mas no nosso teste desta fase o desconto foi de 20%. Vale o percentual que o resumo do checkout mostrar.",
+          "O CECILIA15 vale na assinatura? Sim. No nosso teste, deu 20% na adesão ao BOLD Club. As cobranças seguintes seguem as regras da assinatura; confira a recorrência e o compromisso mínimo antes de assinar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1068,
+    "slug": "cupom-bold-snacks-como-usar",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA15",
+    "affiliate": "bold",
+    "title": "Como usar o cupom CECILIA15 na BOLD Snacks: onde aplicar e o que ele soma",
+    "seoTitle": "Como usar o cupom CECILIA15 na BOLD Snacks, 20% OFF",
+    "type": "Guia & Cupons",
+    "description": "Onde digitar o CECILIA15 na BOLD Snacks, a conta do nosso carrinho, a soma com preço promocional, um cupom por pedido, o cashback e o que conferir se o código não entrar.",
+    "metaDescription": "O cupom CECILIA15 dá 20% OFF na BOLD Snacks e entra no checkout. Veja onde digitar, a conta do teste e o que soma com promoção.",
+    "image": "/images/reviews/bold/cupom-bold-snacks-como-usar-capa.webp",
+    "imageAlt": "Logo da BOLD Snacks, a chamada “Como usar o cupom” e o código CECILIA15, ao lado de caixas de barras BOLD numa caixa de papelão, em foto oficial da loja.",
+    "cta": {
+      "text": "Abra o site oficial da BOLD Snacks, monte o carrinho e vá para o checkout. No campo Código de desconto ou cartão-presente, digite CECILIA15 e confira o valor abatido antes de pagar.",
+      "label": "Ir para a BOLD Snacks",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Cupom testado no checkout do site oficial. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-bold-snacks-primeira-compra"
+      },
+      {
+        "slug": "black-friday-bold-snacks"
+      },
+      {
+        "slug": "bold-snacks-e-confiavel"
+      },
+      {
+        "slug": "bold-snacks-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black, para cliente novo e antigo, embora o nome tenha 15. No checkout, confira se o código já aparece aplicado; se precisar, digite-o em Código de desconto ou cartão-presente e clique em Aplicar. Abaixo estão a compra única e o resultado observado na adesão à assinatura."
+        ]
+      },
+      {
+        "heading": "Onde digitar o cupom na BOLD Snacks",
+        "paragraphs": [
+          "Procure o campo no checkout, aberto pelo botão Finalizar da gaveta do carrinho. Se CECILIA15 já aparecer aplicado no resumo, confira o desconto; caso contrário, digite o código no campo indicado."
+        ],
+        "bullets": [
+          "No site oficial, clique em ADICIONAR no produto. O site pode abrir um popup de pré-venda no caminho; feche-o e siga.",
+          "Na gaveta do carrinho, clique em FINALIZAR.",
+          "No checkout, digite CECILIA15 no campo “Código de desconto ou cartão-presente” e clique em “Aplicar”.",
+          "Confira o resumo: o código aparece embaixo de cada produto, com o valor do desconto."
+        ],
+        "postParagraphs": [
+          "Confira o CECILIA15 e o valor abatido no resumo antes de pagar. As condições em vigor ficam na página do [cupom BOLD](/cupons/bold)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/cupom-bold-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da BOLD Snacks com o cupom CECILIA15 aplicado e o código mostrado embaixo de cada produto, com o valor do desconto",
+            "caption": "O CECILIA15 aplicado no checkout. O código aparece embaixo de cada produto, com o valor abatido.",
+            "objectFit": "contain",
+            "aspectRatio": 0.916
+          }
+        ]
+      },
+      {
+        "heading": "Quanto o cupom tira: a conta do carrinho",
+        "paragraphs": [
+          "No carrinho de 18/11, o CECILIA15 tirou 20% do preço de venda de cada item. Conta nossa: 20% de R$ 179,00 é R$ 35,80."
+        ],
+        "comparisonTable": {
+          "caption": "Carrinho de teste",
+          "headers": [
+            "Item",
+            "Preço de venda",
+            "Desconto (20%)",
+            "Com o CECILIA15"
+          ],
+          "rows": [
+            [
+              "BOLD Caixa Mista",
+              "R$ 179,00",
+              "- R$ 35,80",
+              "R$ 143,20"
+            ],
+            [
+              "BOLD Whey Chocolate ao Leite 450 g",
+              "R$ 189,00 (de R$ 209,00)",
+              "- R$ 37,80",
+              "R$ 151,20"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O frete sai pelo CEP, no checkout, e fica fora dessa conta."
+        ]
+      },
+      {
+        "heading": "Por que o código se chama CECILIA15 e dá 20%",
+        "paragraphs": [
+          "CECILIA15 é o nome do código da parceria. No nosso teste, durante a campanha da loja, o desconto foi de 20%.",
+          "A loja publica a Pré-Black até 22/11, e o percentual pode mudar depois da campanha. Confira o valor no resumo do checkout antes de pagar; o desconto que vale para você é o que aparece lá."
+        ]
+      },
+      {
+        "heading": "Soma com preço promocional",
+        "paragraphs": [
+          "No nosso teste, somou. O whey de 450 g estava em promoção, de R$ 209,00 por R$ 189,00, e os 20% entraram sobre o preço promocional: R$ 151,20.",
+          "A loja informa, no regulamento da campanha, que o cupom entra sobre o preço de venda, também nos itens com preço promocional. Em outro produto, confira o resumo antes de pagar."
+        ]
+      },
+      {
+        "heading": "Um cupom por pedido, cashback e assinatura",
+        "paragraphs": [
+          "A loja informa que cada pedido aceita um cupom promocional. Com outro código no pedido, só um deles vale.",
+          "O cashback da loja devolve até 10% do valor da compra para a próxima compra, segundo a loja. Pela política dela, o cashback não se usa junto com outros cupons e não vale em produto em promoção. Num pedido com o CECILIA15, não conte com o cashback como abatimento.",
+          "No print do nosso teste, a caixa BOLD Mousse de Maracujá aparece com frequência de 2 meses e preço de assinatura de R$ 152,00. O CECILIA15 abate R$ 30,40, deixando subtotal de R$ 121,60, com um brinde do BOLD Club grátis. A compra única estava em R$ 179,00 na vitrine.",
+          "O print mostra a aplicação no resumo de adesão; as cobranças seguintes seguem as regras da assinatura. A política prevê dois ciclos mínimos após o prazo de arrependimento, e o cancelamento deve ser pedido com antecedência mínima de 5 dias da data prevista para o próximo ciclo. Confira as condições antes de aderir."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+            "alt": "Resumo de uma assinatura BOLD Club da caixa BOLD Mousse de Maracujá a cada 2 meses, com R$ 152,00, o cupom CECILIA15 tirando R$ 30,40 e o subtotal de R$ 121,60",
+            "caption": "Print do nosso teste: CECILIA15 aplicado na adesão ao BOLD Club, com subtotal de R$ 121,60.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Cupom BOLD influencer e cupom BOLD no Mercado Livre",
+        "paragraphs": [
+          "Quem busca o cupom de influencer da BOLD encontra aqui o do Em Casa com Cecília, o CECILIA15.",
+          "O CECILIA15 é do site oficial da BOLD Snacks e entra no checkout dele. Para usar o código, compre pelo site."
+        ]
+      },
+      {
+        "heading": "Se o código não entrar",
+        "paragraphs": [
+          "Se o desconto não aparecer, confira três coisas antes de pagar."
+        ],
+        "bullets": [
+          "**O campo.** Ele está no checkout, em “Código de desconto ou cartão-presente”. Com o código aceito, ele aparece embaixo de cada produto, com o valor do desconto.",
+          "**A grafia.** CECILIA15, tudo junto, sem espaço antes ou depois.",
+          "**Outro cupom no pedido.** A loja aceita um cupom por pedido; tire o outro e aplique o CECILIA15 de novo."
+        ],
+        "postParagraphs": [
+          "Para brindes e calendário da campanha, veja o guia da [Black Friday da BOLD Snacks](/reviews/black-friday-bold-snacks). Para a primeira compra, veja o [guia da primeira compra na BOLD Snacks](/reviews/cupom-bold-snacks-primeira-compra)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Onde coloco o cupom na BOLD Snacks? No checkout, em Código de desconto ou cartão-presente. Digite CECILIA15, clique em Aplicar e confira o valor abatido; se o código já estiver no resumo, confira o desconto antes de pagar.",
+          "O cupom CECILIA15 vale para quem já é cliente? Sim. Ele vale para cliente novo e antigo no site oficial e deu 20% OFF no teste da Pré-Black.",
+          "O cupom soma com produto em promoção? No nosso teste, sim: o whey de 450 g estava em promoção e levou os 20% sobre o preço promocional. Confira o resumo de cada pedido.",
+          "O cupom BOLD vale no Mercado Livre? O CECILIA15 é do site oficial da BOLD Snacks. Para usar o código, a compra é pelo checkout do site.",
+          "Posso usar mais de um cupom? Não. A loja informa um cupom promocional por pedido, e o cashback, pela política dela, não se usa junto com outros cupons."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1069,
+    "slug": "bold-snacks-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "bodyDatesReason": "reclame-aqui",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA15",
+    "affiliate": "bold",
+    "title": "BOLD Snacks no Reclame Aqui: nota, reputação e o que mais gera reclamação",
+    "seoTitle": "BOLD Snacks no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "description": "A nota da BOLD Snacks no Reclame Aqui, o que mais gera reclamação, quanto a empresa demora para responder e o que conferir no pedido antes de abrir uma queixa.",
+    "metaDescription": "O cupom CECILIA15 dá 20% OFF na BOLD Snacks. Veja a nota no Reclame Aqui, o que mais gera reclamação e o que conferir antes de pagar.",
+    "image": "/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Logo da BOLD Snacks, a chamada “No Reclame Aqui” e o código CECILIA15, ao lado de uma barra BOLD Wafer cortada, em foto oficial da loja.",
+    "cta": {
+      "text": "Abra o site oficial pelo botão, monte o carrinho e, no checkout, digite CECILIA15 no campo “Código de desconto ou cartão-presente” e clique em “Aplicar”.",
+      "label": "Ir para a BOLD Snacks",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com os dados públicos do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "bold-snacks-e-confiavel"
+      },
+      {
+        "slug": "cupom-bold-snacks-como-usar"
+      },
+      {
+        "slug": "black-friday-bold-snacks"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A BOLD Snacks tinha reputação Boa e nota 7,9 no semestre consultado, com todas as 147 reclamações respondidas. Entre as avaliadas, 83,1% constavam como resolvidas; atraso na entrega liderava a aba geral, de outro período. Se decidir comprar, o cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black."
+        ]
+      },
+      {
+        "heading": "A nota em números",
+        "paragraphs": [
+          "Os números abaixo valem para a janela da legenda. Os índices de resolvidas, de quem voltaria a fazer negócio e a nota do consumidor consideram só as 65 reclamações avaliadas, das 147 recebidas."
+        ],
+        "comparisonTable": {
+          "caption": "Perfil da Bold Snacks no Reclame Aqui, de 01/05/2026 a 31/10/2026.",
+          "headers": [
+            "Indicador",
+            "Seis meses"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa"
+            ],
+            [
+              "Nota média",
+              "7,9"
+            ],
+            [
+              "Reclamações recebidas",
+              "147"
+            ],
+            [
+              "Respondidas, segundo o perfil",
+              "100% (nenhuma aguardando)"
+            ],
+            [
+              "Resolvidas, entre as avaliadas",
+              "83,1%"
+            ],
+            [
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "69,2%"
+            ],
+            [
+              "Avaliadas",
+              "65"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,69"
+            ],
+            [
+              "Tempo médio de resposta",
+              "6 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A nota de 7,9 é o indicador calculado pela plataforma com vários critérios. A média de 6,69 vem das notas dadas pelos consumidores que avaliaram o atendimento. As duas descrevem reclamações na plataforma, não a qualidade das barras."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/bold-snacks-reclame-aqui-indicadores.webp",
+            "alt": "Quadro de indicadores do perfil da Bold Snacks no Reclame Aqui, com reputação, nota, reclamações, respostas e índices da aba de seis meses",
+            "caption": "Quadro do perfil da Bold Snacks no Reclame Aqui, aba de seis meses.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Como a reputação evoluiu",
+        "paragraphs": [
+          "A reputação ficou estável. O perfil apareceu como Boa em todos os meses de maio a outubro.",
+          "As 147 reclamações do período são um número absoluto, e o perfil não informa quantos pedidos a loja entregou."
+        ]
+      },
+      {
+        "heading": "O que mais gera reclamação",
+        "paragraphs": [
+          "A entrega lidera. Na aba geral do perfil, que soma até três anos e tem janela diferente da usada na tabela, o problema “Atraso na entrega” aparece em 22,49% das reclamações.",
+          "Nos títulos das cinco reclamações mais recentes da lista, os temas se repetem:"
+        ],
+        "bullets": [
+          "Atraso de entrega, inclusive em compra feita fora do site.",
+          "Brinde que não chegou com a compra.",
+          "Pedido parado há dias, sem avanço no rastreio.",
+          "Atraso na entrega, com solicitação de ressarcimento."
+        ],
+        "postParagraphs": [
+          "Duas das cinco tratam de compras feitas fora do site da marca, uma na Shopee e outra no TikTok Shop, segundo os relatos do perfil. Todas estavam respondidas.",
+          "Guarde o número do pedido e acompanhe o rastreio desde o primeiro dia."
+        ]
+      },
+      {
+        "heading": "Os dois lados da nota",
+        "paragraphs": [
+          "Do lado bom, segundo o perfil, todas as reclamações da janela tiveram resposta e mais de 8 em cada 10 avaliadas constam como resolvidas.",
+          "Do outro lado, a resposta leva 6 dias em média, e 69,2% de quem avaliou voltaria a fazer negócio. Conta nossa: 100% menos 69,2% dá 30,8%, ou cerca de 3 em cada 10 que não voltariam.",
+          "O atraso na entrega lidera as queixas na aba geral do perfil, e isso pesa numa compra de Black Friday. Confira o prazo pelo CEP no checkout antes de pagar, e veja como a promoção funciona no [guia da Black Friday na BOLD Snacks](/reviews/black-friday-bold-snacks)."
+        ]
+      },
+      {
+        "heading": "Onde a BOLD fica no ranking da categoria",
+        "paragraphs": [
+          "Em 18 de novembro de 2026, a BOLD Snacks estava em 44º lugar em “Melhor empresa” na categoria Suplementos Alimentares e Fórmulas do Reclame Aqui.",
+          "Ranking e nota podem mudar. Para comparar consultas, guarde o período dos indicadores e confira o perfil atualizado."
+        ]
+      },
+      {
+        "heading": "Qual perfil é o da BOLD e o aviso de golpe",
+        "paragraphs": [
+          "O perfil pertence à empresa e cobre todos os produtos, o whey inclusive. Ele se chama Bold Snacks, tem o selo de empresa verificada e aparece em Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Aponta para boldsnacks.com.br e está no Reclame Aqui há 6 anos.",
+          "O CNPJ do perfil é 28.866.724/0001-31, da BARRIND Indústria e Comércio de Alimentos Ltda, em Divinópolis (MG), segundo os dados abertos da Receita. A política de reembolso do site cita a mesma empresa, e o rodapé da loja não mostra CNPJ.",
+          "A empresa informa, no próprio perfil, um alerta de golpes e de anúncios falsos em nome da marca, com o exemplo de “48 barras de proteína por 99,90”, e diz que as vendas são feitas no site oficial. Para reconhecer o site verdadeiro, veja [a BOLD Snacks é confiável?](/reviews/bold-snacks-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Como pedir ajuda se o pedido der problema",
+        "paragraphs": [
+          "A loja publica estes canais e procedimentos para pedidos com problema:"
+        ],
+        "bullets": [
+          "Rastreio: por e-mail e na página de rastreio do site. O prazo de entrega conta da confirmação do pagamento.",
+          "Entrega: até duas tentativas. Em erro da transportadora ou da loja, extravio ou roubo, o reenvio é sem custo.",
+          "Estorno: em até 30 dias, quando devido.",
+          "Desistência: em até 7 dias da entrega, com a embalagem original e o lacre intactos, a nota fiscal e todos os produtos do pedido.",
+          "Troca e cancelamento: pelo atendimento.",
+          "Atendimento: pela central de ajuda do site e pelo e-mail contato@boldsnacks.com.br. O perfil do Reclame Aqui indica também telefone e WhatsApp, (11) 92000-2393, de segunda a sexta, das 9h às 17h."
+        ],
+        "postParagraphs": [
+          "Para pedir ajuda, deixe à mão o número do pedido e a nota fiscal. Se a loja não resolver, procure o Reclame Aqui e o Procon do seu estado. A desistência de compra feita pela internet também tem amparo no artigo 49 do Código de Defesa do Consumidor."
+        ]
+      },
+      {
+        "heading": "Se a compra fizer sentido",
+        "paragraphs": [
+          "O cupom CECILIA15 na BOLD dá 20% OFF no site oficial, para cliente novo e antigo. O nome traz um 15, mas no nosso teste no checkout, durante a Pré-Black, o desconto foi de 20%. O percentual pode mudar quando a campanha acabar. Veja onde digitar o código na página do [cupom BOLD](/cupons/bold)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A BOLD Snacks é confiável no Reclame Aqui? A reputação do perfil é Boa no recorte de seis meses. Ela descreve o atendimento às reclamações, e os números estão no capítulo A nota em números.",
+          "A BOLD Snacks responde às reclamações? Segundo o perfil, todas as reclamações do recorte de seis meses tiveram resposta. O tempo de resposta e o índice de solução estão no capítulo Os dois lados da nota.",
+          "O que fazer se o pedido da BOLD Snacks não chegou? Confira o rastreio e fale com a loja pela central de ajuda, guardando o número do pedido. Se não houver solução, procure o Reclame Aqui ou o Procon. O passo a passo está no capítulo Antes de reclamar.",
+          "O Reclame Aqui do whey é separado do das barras? Não, o perfil é da empresa e reúne todos os produtos. O capítulo Qual perfil é o da BOLD explica como reconhecer o perfil e o aviso de golpe."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1070,
+    "slug": "bold-snacks-e-confiavel",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA15",
+    "affiliate": "bold",
+    "title": "BOLD Snacks é confiável? CNPJ, Ferrero, site oficial e trocas",
+    "seoTitle": "BOLD Snacks é confiável? CNPJ, Ferrero e site oficial",
+    "type": "Editorial",
+    "description": "Quem vende a BOLD Snacks, o que se sabe do acordo com a Ferrero, a nota no Reclame Aqui, como reconhecer o site oficial, o que o site diz da Anvisa e as regras de troca.",
+    "metaDescription": "Com o CECILIA15, 20% OFF na BOLD Snacks. Antes, veja quem vende, o acordo com a Ferrero, a nota no Reclame Aqui, como achar o site oficial e as trocas.",
+    "image": "/images/reviews/bold/bold-snacks-e-confiavel-capa.webp",
+    "imageAlt": "Logo da BOLD Snacks, a pergunta “É confiável?” e o código CECILIA15, ao lado de pacotes de whey BOLD, em foto oficial da loja.",
+    "cta": {
+      "text": "Para comprar, abra o site oficial pelo botão, coloque os produtos no carrinho, siga para o checkout e digite CECILIA15 no campo de código de desconto.",
+      "label": "Ir para a BOLD Snacks",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com dados públicos da empresa, da Receita, do Reclame Aqui e das políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "bold-snacks-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "barra-bold-e-boa"
+      },
+      {
+        "slug": "cupom-bold-snacks-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A BOLD Snacks tem empresa identificada em Divinópolis e reputação Boa no Reclame Aqui; a entrega exige atenção. A Ferrero anunciou um acordo de aquisição, sem confirmação de fechamento entre as fontes consultadas. Se decidir comprar, comece no site oficial e confira o cupom BOLD CECILIA15, que deu 20% OFF no teste da Pré-Black."
+        ]
+      },
+      {
+        "heading": "Quem vende a BOLD Snacks",
+        "paragraphs": [
+          "O perfil da marca no Reclame Aqui traz o CNPJ 28.866.724/0001-31. Nos dados abertos da Receita, ele é da BARRIND INDUSTRIA E COMERCIO DE ALIMENTOS LTDA, nome fantasia BOLD SNACKS, matriz ativa em Divinópolis (MG). A atividade registrada é a fabricação de alimentos dietéticos e complementos alimentares.",
+          "A política de reembolso do site cita a mesma razão social. O rodapé do site não mostra CNPJ.",
+          "A loja informa: a marca existe “desde 2018”, se diz líder em snacks proteicos no Brasil, com mais de 20 mil pontos de venda e estrutura própria, da produção à distribuição.",
+          "A Receita dá a atividade de fabricação, mas quem fabrica cada produto está no rótulo, com a frase “fabricado por”. As páginas de produto não trazem esse texto, então confira na embalagem."
+        ]
+      },
+      {
+        "heading": "A BOLD e a Ferrero",
+        "paragraphs": [
+          "Em seu [comunicado de aquisição](https://www.prnewswire.com/news-releases/ferrero-group-acquires-bold-snacks-a-leading-brazilian-protein-snack-company-302717436.html), a Ferrero informa que assinou um acordo para comprar a BOLD, com fechamento esperado nos meses seguintes e sujeito às condições usuais. O anúncio inclui o escritório e a fábrica de Divinópolis e cerca de 300 funcionários; Gabriel Ferreira é identificado como fundador e CEO.",
+          "O Nosso Meio escreve que o negócio depende da aprovação do Cade. O comunicado da Ferrero anuncia o acordo, sem confirmar o fechamento, e esse anúncio, sozinho, não permite concluir quem controla a empresa hoje.",
+          "A página Sobre nós do site não cita a Ferrero. Nenhuma das fontes diz o que muda em receita, fábrica ou preço para quem compra."
+        ]
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "No semestre de maio a outubro de 2026, o perfil mostrava reputação Boa, nota 7,9 e empresa verificada. Todas as 147 reclamações tinham resposta; o índice de solução de 83,1% se refere às finalizadas e avaliadas.",
+          "Do outro lado, a resposta leva, em média, 6 dias, e o atraso na entrega é o problema mais citado na aba geral do perfil.",
+          "Os números completos estão na [nota da BOLD Snacks no Reclame Aqui](/reviews/bold-snacks-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Como reconhecer o site oficial",
+        "paragraphs": [
+          "O endereço oficial é boldsnacks.com.br, o mesmo que o perfil da marca no Reclame Aqui informa.",
+          "Segundo o aviso da empresa no perfil, circulam golpes e anúncios falsos em nome da marca e de transportadoras, com o exemplo “48 barras de proteína por 99,90”. A empresa diz que as vendas da BOLD são feitas no site oficial, e o FAQ do perfil trata de quem comprou um combo de 48 unidades por esse preço e não recebeu.",
+          "Regras práticas, sem teste nosso, que partem desse aviso:"
+        ],
+        "bullets": [
+          "Digite o endereço na barra do navegador em vez de seguir um anúncio.",
+          "Antes de pagar, leia o endereço da página e confira se é boldsnacks.com.br.",
+          "Desconfie de preço muito abaixo da vitrine do site oficial."
+        ]
+      },
+      {
+        "heading": "Trocas, entrega e rastreio",
+        "paragraphs": [
+          "A loja informa que a desistência vale em até 7 dias da entrega, com a embalagem original sem violação do lacre, a nota fiscal e todos os produtos do pedido. Troca e cancelamento passam pelo atendimento.",
+          "O [artigo 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) dá sete dias para desistir de compra feita fora do estabelecimento comercial, e a compra pela internet entra nesse caso.",
+          "Pela política de frete, a entrega é para todo o Brasil, por transportadora ou Correios (Sedex e PAC, à escolha no checkout). O prazo conta da confirmação do pagamento, e o valor do frete sai pelo CEP no checkout.",
+          "O rastreio chega por e-mail e também está em boldsnacks.com.br/pages/rastreio. A política prevê até duas tentativas de entrega, reenvio sem custo em erro da transportadora ou da loja, extravio ou roubo, e estorno em até 30 dias quando devido.",
+          "Para falar com a empresa, o perfil no Reclame Aqui traz telefone e WhatsApp, (11) 92000-2393, de segunda a sexta, das 9h às 17h, e a política de frete dá o e-mail contato@boldsnacks.com.br."
+        ]
+      },
+      {
+        "heading": "A BOLD e a Anvisa",
+        "paragraphs": [
+          "A loja informa: a barra é um “suplemento alimentar de proteína em barra, conforme a regulamentação vigente”, e a página do produto traz o aviso “Este produto não é um medicamento”.",
+          "As páginas do site não mostram número de registro nem de notificação na Anvisa.",
+          "A conferência é por produto. A [orientação oficial da Anvisa](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/como-saber-se-um-suplemento-alimentar-e-autorizado) mostra o que procurar no rótulo e como consultar o número na base da agência. Se o rótulo da página não estiver legível, peça à loja uma foto com o fabricante e os dados de regularização; a existência da empresa não substitui essa conferência.",
+          "Antes de comprar, confira na embalagem o fabricante e a frase de regularização. Gestantes, lactantes, crianças, quem toma remédio e quem tem alergia seguem o rótulo e a orientação de um profissional de saúde. A página do produto avisa que a barra contém leite, soja, glúten e lactose."
+        ]
+      },
+      {
+        "heading": "Onde comprar: site oficial, Mercado Livre, Shopee e TikTok Shop",
+        "paragraphs": [
+          "Há venda fora do site: a marca fala em pontos de venda físicos, e o Reclame Aqui tem reclamações de compras feitas na Shopee e no TikTok Shop. O código CECILIA15 é do site oficial.",
+          "Não conferimos onde a BOLD tem loja oficial nos marketplaces. Antes de comprar no Mercado Livre, na Shopee ou no TikTok Shop, veja quem é o vendedor e se a página do anúncio indica a loja oficial."
+        ]
+      },
+      {
+        "heading": "O que dá para conferir e o que fica em aberto",
+        "paragraphs": [
+          "Dá para conferir o CNPJ na Receita, a reputação Boa no Reclame Aqui, as políticas de troca e entrega e o aviso da própria empresa sobre anúncios falsos. Ficam em aberto o desfecho do acordo com a Ferrero, o fabricante e a regularização de cada produto, que estão no rótulo, e quem vende nos marketplaces. A entrega é o ponto que mais pede atenção.",
+          "Se decidir comprar no site oficial, o [cupom BOLD](/cupons/bold) CECILIA15 deu 20% OFF no teste da Pré-Black, para cliente novo e antigo. O percentual pode mudar com a campanha. O guia de uso mostra a compra única e o print de adesão ao BOLD Club; o desconto visto nessa adesão não comprova as renovações.",
+          "Este artigo é sobre a loja. O produto está em [Barra BOLD é boa?](/reviews/barra-bold-e-boa), e o passo a passo do código, no [guia de uso do CECILIA15](/reviews/cupom-bold-snacks-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/cupom-bold-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da BOLD Snacks com o código CECILIA15 aplicado: o whey de 450 g sai por R$ 151,20 e a Caixa Mista por R$ 143,20.",
+            "caption": "Resumo do checkout da BOLD Snacks com o CECILIA15 aplicado.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9165
+          },
+          {
+            "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+            "alt": "Resumo de uma assinatura do BOLD Club com o código CECILIA15 aplicado: a caixa BOLD Mousse de Maracujá sai de R$ 152,00 para R$ 121,60, com um brinde a R$ 0,00.",
+            "caption": "Print do nosso teste: desconto aplicado na adesão ao BOLD Club.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1157
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A BOLD Snacks é confiável? A empresa tem CNPJ ativo em Divinópolis (MG), reputação Boa no Reclame Aqui e regras de troca e entrega publicadas. O ponto fraco, segundo o perfil, é o atraso na entrega, e a marca avisa que há anúncios falsos em seu nome.",
+          "A BOLD Snacks foi vendida para a Ferrero? A Ferrero anunciou no início de 2026 um acordo para comprar a marca. O Nosso Meio e a TV Sim Brasil escrevem que a operação depende do Cade, e nenhuma fonte confirma a conclusão.",
+          "A BOLD Snacks é brasileira? O CNPJ é de Divinópolis (MG), e o comunicado da Ferrero fala no escritório e na fábrica da cidade.",
+          "A BOLD Snacks vende no Mercado Livre? Não conferimos se a marca tem loja oficial lá. Antes de comprar, veja quem é o vendedor do anúncio. O código CECILIA15 é do site oficial.",
+          "O whey BOLD é aprovado pela Anvisa? As páginas do site não mostram número de registro nem de notificação do whey ou das barras. Quem confirma é o rótulo, com a frase de regularização e o número, e a consulta pública da Anvisa."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1071,
+    "slug": "barra-bold-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA15",
+    "affiliate": "bold",
+    "type": "Guia de Marca",
+    "title": "Barra BOLD é boa? O que o rótulo entrega e quanto custa a proteína",
+    "seoTitle": "Barra BOLD é boa? O que o rótulo e a conta mostram",
+    "description": "O que o rótulo da barra BOLD entrega em cada linha, quanto custa a proteína de cada uma e para quem a conta fecha, com o resultado do cupom no nosso carrinho.",
+    "metaDescription": "CECILIA15 dá 20% OFF na BOLD Snacks. Veja o rótulo da barra BOLD, o preço por proteína e para quem a conta fecha.",
+    "image": "/images/reviews/bold/barra-bold-e-boa-capa.webp",
+    "imageAlt": "Logo da BOLD Snacks, a pergunta “É boa?” e o código CECILIA15, ao lado de uma barra de proteína BOLD cortada, em foto oficial da loja.",
+    "cta": {
+      "text": "Se a barra serve para a sua compra, abra o site oficial pelo botão. O código entra no checkout, no campo Código de desconto ou cartão-presente.",
+      "label": "Ir para a BOLD Snacks",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as tabelas e os ingredientes das páginas da loja, sem uso dos produtos; só o código foi testado no checkout. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "bold-snacks-e-confiavel"
+      },
+      {
+        "slug": "cupom-bold-snacks-como-usar"
+      },
+      {
+        "slug": "black-friday-bold-snacks"
+      },
+      {
+        "slug": "cupom-bold-snacks-primeira-compra"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer uma barra pronta e decidiu pelo tamanho da unidade, pelos ingredientes e pelo preço com o cupom.",
+        "Você prefere Wafer ou Tube e aceita o custo maior por proteína declarada em troca do formato escolhido."
+      ],
+      "skipIf": [
+        "Você precisa de zero açúcares: as tabelas consultadas mostram açúcares totais mesmo quando a loja anuncia zero açúcar adicionado.",
+        "Você precisa evitar um dos alérgenos declarados ou quer contar a proteína da linha de 21 g como exclusivamente do leite."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O BOLD 21 g tem o menor custo por proteína declarada entre as linhas comparadas; Wafer e Tube custam menos por unidade. O colágeno aparece nos ingredientes de três linhas, sem proporção informada, por isso o preço não compara fontes equivalentes. O cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black; veja abaixo as diferenças."
+        ]
+      },
+      {
+        "heading": "A BOLD e as barras que ela vende",
+        "paragraphs": [
+          "A BOLD Snacks diz, na página Sobre nós, que existe desde 2018. A loja vende cinco linhas de barra em caixas de 12 unidades: o BOLD 21 g (barra de 60 g), o BOLD 14 g (barra de 40 g), o Crunch (18 g de proteína), o Wafer e o Tube (10 g de proteína cada).",
+          "A linha é grande, e a decisão acontece barra a barra: mudam o tamanho, a proteína por unidade, os ingredientes e o preço por proteína."
+        ]
+      },
+      {
+        "heading": "21 g, 14 g, Crunch, Wafer ou Tube: por onde escolher",
+        "paragraphs": [
+          "Comece pelo tamanho da barra e pelo formato que você quer levar:"
+        ],
+        "bullets": [
+          "**Barra de 60 g:** a linha BOLD 21 g traz 21 g de proteína declarada por unidade.",
+          "**Barra de 40 g:** o BOLD 14 g tem menor porção e menor preço por unidade que a linha de 21 g.",
+          "**Outros formatos:** Crunch declara 18 g de proteína; Wafer e Tube, 10 g cada. A composição e o preço por proteína mudam entre eles."
+        ],
+        "postParagraphs": [
+          "As tabelas seguintes separam composição e preço. No fim, o veredito reúne o que muda a escolha entre as linhas."
+        ]
+      },
+      {
+        "heading": "O que o rótulo entrega por barra",
+        "paragraphs": [
+          "A tabela junta os sabores de cada linha, do menor ao maior valor. A proteína por barra vai de 10 g a 21 g, e as calorias, de 151 kcal a 239 kcal."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/barra-bold-21g.webp",
+            "alt": "Caixa Mista BOLD com 12 barras de 21 g de proteína, em foto oficial da loja",
+            "caption": "Caixa Mista com 12 barras BOLD de 21 g de proteína, em foto oficial da loja.",
+            "objectFit": "contain"
+          }
+        ],
+        "comparisonTable": {
+          "caption": "A loja informa: valores por barra, das tabelas nutricionais de cada sabor. No BOLD 14 g, a página do Cookies Black não traz a tabela. O Tube entra só com Pistache e Speculoos.",
+          "headers": [
+            "Linha",
+            "Proteína",
+            "Calorias",
+            "Açúcares totais"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g (barra de 60 g), 7 sabores",
+              "21 g",
+              "215 a 239 kcal",
+              "1,8 g a 5,3 g"
+            ],
+            [
+              "BOLD 14 g (barra de 40 g), 5 sabores com tabela",
+              "14 g",
+              "151 a 161 kcal",
+              "1,6 g a 3,6 g"
+            ],
+            [
+              "Crunch, 3 sabores",
+              "18 g",
+              "209 a 215 kcal",
+              "1,8 g a 2,2 g"
+            ],
+            [
+              "Wafer, 4 sabores",
+              "10 g",
+              "192 a 202 kcal",
+              "2,1 g a 2,8 g"
+            ],
+            [
+              "Tube, Pistache e Speculoos",
+              "10 g",
+              "183 a 186 kcal",
+              "2,0 g a 2,1 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: nas porções consultadas, BOLD 21 g, BOLD 14 g e Crunch ficam entre 10,2 e 11,9 kcal por grama de proteína declarada. Wafer e Tube ficam entre 18,3 e 20,2. Esse cálculo de quantidade não equipara as fontes de proteína nem dá uma nota de qualidade às linhas."
+        ]
+      },
+      {
+        "heading": "O colágeno entre os ingredientes",
+        "paragraphs": [
+          "A lista de ingredientes do BOLD 21 g, no sabor Trufa de Chocolate, traz um blend proteico (caseinato de cálcio e proteína de soro do leite concentrada e isolada), colágeno hidrolisado, crispies proteicos, polidextrose e os edulcorantes maltitol, xarope de sorbitol e sucralose, entre outros itens.",
+          "A loja informa colágeno hidrolisado nos ingredientes de todos os sabores do BOLD 21 g, do BOLD 14 g e do Crunch. A loja não informa quanto dos 21 g de proteína vem do colágeno, e o FAQ da página sobre a origem da proteína cita só as proteínas do leite.",
+          "Quem compara os 21 g com a proteína de outra barra compara só o número. A origem da proteína está na lista de ingredientes de cada uma. O Crunch abre a lista com crispies de proteína de soja isolada. O Wafer e o Tube não trazem colágeno nos ingredientes."
+        ]
+      },
+      {
+        "heading": "A barra BOLD tem açúcar?",
+        "paragraphs": [
+          "A loja informa “zero açúcar adicionado”. A tabela de cada sabor mostra os açúcares totais, de 1,6 g a 5,3 g por barra, e o maior valor é o do Chocomalte 21 g. Quem precisa de zero açúcares deve ler essa linha da tabela, porque as duas medidas são diferentes.",
+          "No BOLD 21 g Trufa de Chocolate, os adoçantes da lista são maltitol, xarope de sorbitol e sucralose."
+        ]
+      },
+      {
+        "heading": "A barra BOLD é saudável?",
+        "paragraphs": [
+          "Para avaliar a barra na sua alimentação, compare a porção que pretende consumir, as calorias, os açúcares e os ingredientes do sabor. A faixa de 151 a 239 kcal corresponde a unidades de tamanhos e composições diferentes.",
+          "Nas páginas do 21 g, do 14 g e do Wafer, a loja recomenda uso adulto e até duas unidades por dia, ou conforme orientação profissional. Essa é a indicação publicada pela marca, não uma porção diária definida por este guia. Dúvidas de quantidade e restrições devem ser levadas ao nutricionista ou médico."
+        ]
+      },
+      {
+        "heading": "A barra BOLD tem glúten e lactose?",
+        "paragraphs": [
+          "O alerta de alérgicos de cada sabor diz “contém lactose” e “contém glúten”, junto de “contém leite e derivados de leite e soja” e de uma lista de “pode conter” que traz amendoim, aveia, castanhas e trigo. O FAQ do BOLD 21 g atribui o glúten ao ambiente de fabricação, ou seja, à contaminação cruzada.",
+          "Confira o alerta impresso na embalagem do sabor escolhido. A explicação da marca sobre o ambiente de fabricação não altera a declaração de glúten publicada na página."
+        ]
+      },
+      {
+        "heading": "A barra BOLD vale a pena? O preço por proteína",
+        "paragraphs": [
+          "A tabela aplica 20% a todas as caixas de 12 unidades, percentual observado no teste apenas na Caixa Mista de 21 g; nas demais linhas, o valor é cálculo. Para referência, a vitrine mostrava R$ 179 no BOLD 21 g e no Crunch, R$ 129 no BOLD 14 g e R$ 119 no Wafer e no Tube. O custo abaixo usa a proteína total declarada; três linhas incluem colágeno, sem proporção divulgada."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de vitrine de 18/11, compra única, sem frete. Só a Caixa Mista de 21 g passou pelo carrinho; nas demais linhas, os 20% são calculados. Caixa de 12 unidades; proteína conforme a página do produto.",
+          "headers": [
+            "Linha",
+            "Caixa com CECILIA15",
+            "Por barra com CECILIA15",
+            "Por 100 g de proteína declarada com CECILIA15"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g",
+              "R$ 143,20",
+              "R$ 11,93",
+              "R$ 56,83"
+            ],
+            [
+              "BOLD 14 g",
+              "R$ 103,20",
+              "R$ 8,60",
+              "R$ 61,43"
+            ],
+            [
+              "Crunch",
+              "R$ 143,20",
+              "R$ 11,93",
+              "R$ 66,30"
+            ],
+            [
+              "Wafer",
+              "R$ 95,20",
+              "R$ 7,93",
+              "R$ 79,33"
+            ],
+            [
+              "Tube",
+              "R$ 95,20",
+              "R$ 7,93",
+              "R$ 79,33"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/bold/cupom-bold-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da BOLD Snacks com o cupom CECILIA15 aplicado e o código mostrado embaixo de cada produto, com o valor do desconto",
+            "caption": "O CECILIA15 aplicado no checkout. O código aparece embaixo de cada produto, com o valor abatido.",
+            "objectFit": "contain",
+            "aspectRatio": 0.916
+          }
+        ],
+        "postParagraphs": [
+          "O BOLD 21 g tem o menor custo por proteína declarada e custa mais por unidade que o BOLD 14 g. Wafer e Tube são os mais baratos por unidade. A ordem de preço não transforma leite, soja e colágeno em fontes equivalentes, nem responde qual sabor você vai preferir.",
+          "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo. O nome tem 15, e o desconto do nosso teste foi de 20%, dentro da Pré-Black da loja, que vai até 22/11. No carrinho, a Caixa Mista do BOLD 21 g foi de R$ 179,00 para R$ 143,20. O percentual pode mudar depois da campanha, então confira o resumo antes de pagar. Vale um cupom por pedido.",
+          "Para comparar com outras marcas, veja o guia [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Qual linha faz sentido para cada escolha",
+        "paragraphs": [
+          "Para gastar menos por proteína total declarada, o BOLD 21 g fica à frente neste levantamento. Para uma unidade menor, o BOLD 14 g tem 40 g de produto e menor preço por barra. Nos dois casos, o colágeno aparece entre os ingredientes, sem quantidade informada.",
+          "Se a escolha é por Wafer ou Tube, você compra outro formato, com 10 g de proteína declarada e menor preço por unidade. O Crunch tem 18 g e crispies de soja, além de colágeno. Escolha a linha e confira o sabor pelos ingredientes e alérgenos, sem usar só o preço por proteína como resumo da fórmula."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/barra-bold-wafer.webp",
+            "alt": "Caixa BOLD Wafer com 12 unidades, em foto oficial da loja",
+            "caption": "Caixa de 12 unidades do BOLD Wafer, em foto oficial da loja.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A barra BOLD é boa? Para escolher pelo que o rótulo informa, compare tamanho, ingredientes e preço. O BOLD 21 g tem o menor custo por proteína declarada; o 14 g é uma unidade menor, e Wafer e Tube custam menos por barra. Sabor e textura não foram avaliados neste guia.",
+          "A barra BOLD vale a pena? Depende da régua de cada um. Pelo preço por 100 g de proteína, o BOLD 21 g custa menos que as outras linhas, e o Wafer e o Tube custam mais, com ou sem o CECILIA15.",
+          "A barra BOLD é saudável? O rótulo informa proteína, calorias, açúcares e ingredientes, que precisam ser considerados juntos. Ter 21 g de proteína ou zero açúcar adicionado não resolve sozinho a adequação à sua alimentação; a tabela por linha está no artigo.",
+          "A barra BOLD tem açúcar? A loja informa “zero açúcar adicionado”, e a tabela mostra açúcares totais de 1,6 g a 5,3 g por barra, conforme o sabor.",
+          "A barra BOLD tem glúten e lactose? O alerta de alérgicos de cada sabor diz que contém os dois. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1072,
+    "slug": "cupom-bold-snacks-primeira-compra",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA15",
+    "affiliate": "bold",
+    "title": "Cupom BOLD Snacks primeira compra: CECILIA15 dá 20% OFF e vale nas compras seguintes",
+    "seoTitle": "Cupom BOLD Snacks primeira compra: 20% OFF com CECILIA15",
+    "type": "Guia & Cupons",
+    "description": "O código que vale no primeiro pedido na BOLD Snacks e nos seguintes, a conta do nosso teste, onde digitar o código e o que conferir no total antes de pagar.",
+    "metaDescription": "Na primeira compra da BOLD Snacks, use CECILIA15: 20% OFF no site oficial. Vale para quem já comprou e, no nosso teste, entrou sobre preço em promoção.",
+    "image": "/images/reviews/bold/cupom-bold-snacks-primeira-compra-capa.webp",
+    "imageAlt": "Logo da BOLD Snacks, a chamada “Bem-vindo, primeira compra” e o código CECILIA15, ao lado de uma caixa mista de barras BOLD 21 g, em foto oficial da loja.",
+    "cta": {
+      "text": "Abra o site oficial pelo botão, coloque os produtos no carrinho e siga para o checkout. No campo “Código de desconto ou cartão-presente”, digite CECILIA15 e clique em Aplicar.",
+      "label": "Ir para a BOLD Snacks",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Cupom testado no checkout do site oficial. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-bold-snacks-como-usar"
+      },
+      {
+        "slug": "black-friday-bold-snacks"
+      },
+      {
+        "slug": "barra-bold-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na primeira compra da BOLD Snacks, o cupom BOLD CECILIA15 deu 20% OFF no teste da Pré-Black, embora o nome tenha 15. Ele também vale para quem já comprou, com um cupom por pedido. Confira o código no resumo do checkout; abaixo estão o teste com compra única e os cuidados antes de aderir à assinatura."
+        ]
+      },
+      {
+        "heading": "Qual cupom usar na primeira compra da BOLD Snacks",
+        "paragraphs": [
+          "A BOLD Snacks vende barras de proteína, whey e creatina. Se ainda está conhecendo a loja, confira os dados da empresa e do atendimento em [BOLD Snacks é confiável?](/reviews/bold-snacks-e-confiavel). No primeiro pedido e nos seguintes, use CECILIA15 no site oficial e confira o percentual aplicado no resumo.",
+          "Os 20% do nosso teste saíram durante a campanha da loja. Como o percentual pode mudar depois dela, o número certo é o que aparece no resumo do checkout.",
+          "As condições em vigor ficam na página do [cupom BOLD](/cupons/bold). No checkout, confira se CECILIA15 aparece aplicado e quanto saiu do pedido."
+        ]
+      },
+      {
+        "heading": "Quanto o cupom tira: a conta do teste",
+        "paragraphs": [
+          "No nosso teste, no checkout de 18/11, o CECILIA15 tirou 20% de cada produto, inclusive do whey, que já estava em promoção: o código entrou sobre o preço promocional.",
+          "O preço de vitrine muda, então a conta do seu pedido é a do resumo do checkout."
+        ],
+        "comparisonTable": {
+          "caption": "Os dois produtos do carrinho de teste na BOLD Snacks, sem frete. O frete sai pelo CEP no checkout.",
+          "headers": [
+            "Produto",
+            "Preço antes do código",
+            "Desconto do CECILIA15 (20%)",
+            "Preço com o código"
+          ],
+          "rows": [
+            [
+              "BOLD Caixa Mista (12 barras)",
+              "R$ 179,00",
+              "R$ 35,80",
+              "R$ 143,20"
+            ],
+            [
+              "BOLD Whey Chocolate ao Leite 450 g (de R$ 209,00 por R$ 189,00)",
+              "R$ 189,00",
+              "R$ 37,80",
+              "R$ 151,20"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/bold/cupom-bold-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da BOLD Snacks com o código CECILIA15 aplicado: o whey de 450 g sai por R$ 151,20 e a Caixa Mista por R$ 143,20",
+            "caption": "O CECILIA15 aplicado no checkout da BOLD Snacks, no nosso teste. O código aparece embaixo de cada produto.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9165085388994307
+          }
+        ]
+      },
+      {
+        "heading": "Como aplicar o cupom no primeiro pedido",
+        "paragraphs": [
+          "O campo do código só aparece no checkout, depois da gaveta do carrinho."
+        ],
+        "bullets": [
+          "**1.** Adicione os produtos ao carrinho, abra a gaveta e clique em Finalizar.",
+          "**2.** No checkout, digite CECILIA15 no campo “Código de desconto ou cartão-presente” e clique em Aplicar.",
+          "**3.** Confira se o código aparece embaixo de cada produto e qual foi o valor do desconto.",
+          "**4.** Veja o frete pelo seu CEP. A entrega é para todo o Brasil."
+        ],
+        "postParagraphs": [
+          "O passo a passo completo, com o que fazer se o código não entrar, está em [como usar o cupom CECILIA15 na BOLD Snacks](/reviews/cupom-bold-snacks-como-usar)."
+        ]
+      },
+      {
+        "heading": "O que pedir na primeira caixa",
+        "paragraphs": [
+          "A primeira escolha é o formato e o tamanho da barra. A tabela mostra o custo com os 20% observados no teste; só a Caixa Mista de 21 g passou pelo carrinho, e as demais linhas são cálculos sobre os preços de vitrine.",
+          "O BOLD 21 g tem o menor custo por proteína declarada entre essas linhas. Esse total inclui as fontes da fórmula: 21 g, 14 g e Crunch trazem colágeno, sem proporção informada. Wafer e Tube não o citam nos ingredientes. A tabela não mede qualidade nem equivalência entre essas proteínas."
+        ],
+        "comparisonTable": {
+          "caption": "Caixas de 12 unidades. Cálculo com 20% sobre a vitrine da Pré-Black, sem frete; teste individual apenas com a Caixa Mista de 21 g. Proteína total declarada, não apenas proteína do leite.",
+          "headers": [
+            "Linha",
+            "Proteína por barra",
+            "Caixa com CECILIA15",
+            "Por 100 g de proteína com CECILIA15"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g",
+              "21 g",
+              "R$ 143,20",
+              "R$ 56,83"
+            ],
+            [
+              "BOLD 14 g",
+              "14 g",
+              "R$ 103,20",
+              "R$ 61,43"
+            ],
+            [
+              "Crunch",
+              "18 g",
+              "R$ 143,20",
+              "R$ 66,30"
+            ],
+            [
+              "Wafer e Tube",
+              "10 g",
+              "R$ 95,20",
+              "R$ 79,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para provar sabores, a loja informa que a caixa mista de 21 g traz seis, duas barras de cada. O preço por proteína só diz quanto custa cada grama do rótulo. Açúcar e ingredientes de cada linha estão em [a barra BOLD é boa?](/reviews/barra-bold-e-boa)."
+        ]
+      },
+      {
+        "heading": "Segunda compra e assinatura",
+        "paragraphs": [
+          "Na segunda compra você digita o mesmo CECILIA15, no mesmo campo do checkout.",
+          "O BOLD Club é uma compra recorrente, mensal ou a cada 2 meses. Após o prazo de arrependimento, há permanência mínima de dois ciclos; o desconto promocional visto na adesão não confirma o preço das cobranças seguintes.",
+          "No print do nosso teste, a caixa BOLD Mousse de Maracujá aparece com frequência de 2 meses e preço de assinatura de R$ 152,00. O CECILIA15 abate R$ 30,40, deixando subtotal de R$ 121,60, com um brinde do BOLD Club grátis. A compra única estava em R$ 179,00 na vitrine.",
+          "O cashback da loja, até 10% do valor da compra de volta como cupom para a próxima, é outra vantagem. Pela política, ele não se usa junto com outros cupons nem vale em produto em promoção. O site aceita um cupom por pedido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/cupom-bold-assinatura-com-cupom.webp",
+            "alt": "Resumo de uma assinatura da caixa BOLD Mousse de Maracujá com frequência de 2 meses: R$ 152,00, o código CECILIA15 tirando R$ 30,40 e o subtotal de R$ 121,60",
+            "caption": "Print do nosso teste: CECILIA15 aplicado na adesão ao BOLD Club.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Primeiro pedido: o que conferir",
+        "bullets": [
+          "**Total com o frete.** O frete sai pelo CEP no checkout e entra no total que você paga.",
+          "**Desistência.** A loja informa que você pode desistir em até 7 dias da entrega, com a embalagem original sem violação do lacre, a nota fiscal e todos os produtos do pedido.",
+          "**Rastreio e reenvio.** O rastreio chega por e-mail, e a loja informa reenvio sem custo em erro da transportadora ou da loja, extravio ou roubo."
+        ],
+        "postParagraphs": [
+          "Quem tem alergia, intolerância ou doença celíaca segue o rótulo e o profissional de saúde: a embalagem diz “contém glúten” e “contém lactose”."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Como encontrar desconto na primeira compra da BOLD Snacks? Use o CECILIA15, que deu 20% OFF no teste da Pré-Black no site oficial. Confira o código no resumo do checkout; ele também vale para quem já comprou.",
+          "Qual cupom vale para quem já é cliente? O mesmo CECILIA15, sem trocar de código.",
+          "O cupom soma com produto em promoção? No nosso teste, sim: o whey de 450 g, que estava de R$ 209,00 por R$ 189,00, saiu por R$ 151,20 com o CECILIA15. O site aceita um cupom por pedido.",
+          "Onde coloco o cupom na primeira compra? No campo “Código de desconto ou cartão-presente” do checkout, depois de clicar em Finalizar na gaveta do carrinho. O passo a passo completo está em [como usar o cupom CECILIA15 na BOLD Snacks](/reviews/cupom-bold-snacks-como-usar).",
+          "O cupom vale na assinatura? Sim. No nosso teste, o CECILIA15 deu 20% na adesão ao BOLD Club, sobre o preço da assinatura. As cobranças seguintes seguem as regras da assinatura; confira o compromisso mínimo antes de aderir."
+        ]
+      }
+    ]
   }
 ];
