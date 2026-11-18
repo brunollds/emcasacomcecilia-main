@@ -20,7 +20,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Página /black-friday de bagaggio.com.br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "bagaggio-leve-3-pague-2",
@@ -60,6 +60,26 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Páginas /blackfriday2026 (\"2 produtos = 15%, 3 produtos = 20%, 4 ou mais produtos = 25%\") e /black-friday (\"durante todo o mês\") de blackskullusa.com.br (04/11/2026)",
     "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "black-skull-semana-proteina-2026",
+    "affiliate": "black-skull",
+    "slot": "mid",
+    "href": "https://www.blackskullusa.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "30%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Semana da Proteína e Hipercalórico da Black Skull: até 30% OFF",
+        "text": "Campanha da própria Black Skull. O até 30% vale para produtos selecionados; as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home de blackskullusa.com.br (\"Semana da Proteína & Hipercalórico: produtos selecionados com até 30% OFF\"), lido no navegador em 18/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "clea-store-brinde-tshirt-2026",
@@ -170,7 +190,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – até 20% OFF – Assinatura Doctor\"), lido no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "dr-peanut-comprou-ganhou-2026",
@@ -224,7 +244,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Home de holyfoods.com.br (\"Black da Holy: 30% OFF no site todo\", \"30% OFF já aplicado nos preços\", sem prazo), lida no navegador em 05/11/2026; campanha informada pelo Bruno",
-    "verifiedAt": "2026-11-05"
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "hostinger-black-friday-2026",
@@ -233,73 +253,73 @@ export const storeBannersData: StoreBanner[] = [
     "href": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "art": {
       "kind": "tag",
-      "value": "82%"
+      "value": "85%"
     },
     "endsAt": "2026-12-14T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Black Friday da Hostinger: até 82% OFF",
+        "headline": "Black Friday da Hostinger: até 85% OFF",
         "text": "Campanha da própria Hostinger. Os preços e as condições aparecem no site da Hostinger.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       },
       "en": {
-        "headline": "Hostinger Black Friday: up to 82% off",
+        "headline": "Hostinger Black Friday: up to 85% off",
         "text": "Run by Hostinger itself. The prices and terms are on the Hostinger website.",
         "action": "See the offer",
         "tag": "UP TO"
       },
       "es": {
-        "headline": "Black Friday en Hostinger: hasta un 82 % de descuento",
+        "headline": "Black Friday en Hostinger: hasta un 85 % de descuento",
         "text": "Una campaña de la propia Hostinger. Los precios y las condiciones están en el sitio de Hostinger.",
         "action": "Ver la oferta",
         "tag": "HASTA"
       },
       "fr": {
-        "headline": "Black Friday chez Hostinger : jusqu’à 82 % de réduction",
+        "headline": "Black Friday chez Hostinger : jusqu’à 85 % de réduction",
         "text": "Une campagne de Hostinger. Les prix et les conditions sont sur le site de Hostinger.",
         "action": "Voir l’offre",
         "tag": "JUSQU’À"
       },
       "it": {
-        "headline": "Black Friday su Hostinger: fino all’82% di sconto",
+        "headline": "Black Friday su Hostinger: fino all’85% di sconto",
         "text": "Una campagna di Hostinger. I prezzi e le condizioni sono sul sito di Hostinger.",
         "action": "Vedi l’offerta",
         "tag": "FINO AL"
       },
       "de": {
-        "headline": "Black Friday bei Hostinger: bis zu 82 % Rabatt",
+        "headline": "Black Friday bei Hostinger: bis zu 85 % Rabatt",
         "text": "Eine Aktion von Hostinger. Preise und Bedingungen stehen auf der Hostinger-Website.",
         "action": "Zum Angebot",
         "tag": "BIS ZU"
       },
       "ja": {
-        "headline": "HostingerのBlack Friday：最大82%オフ",
+        "headline": "HostingerのBlack Friday：最大85%オフ",
         "text": "Hostinger公式のキャンペーンです。価格と条件はHostingerのサイトでご確認ください。",
         "action": "キャンペーンを見る",
         "tag": "最大"
       },
       "ko": {
-        "headline": "Hostinger 블랙프라이데이: 최대 82% 할인",
+        "headline": "Hostinger 블랙프라이데이: 최대 85% 할인",
         "text": "Hostinger 자체 프로모션입니다. 가격과 조건은 Hostinger 사이트에서 확인하세요.",
         "action": "혜택 보기",
         "tag": "최대"
       },
       "zh-hans": {
-        "headline": "Hostinger黑色星期五：最高优惠82%",
+        "headline": "Hostinger黑色星期五：最高优惠85%",
         "text": "Hostinger官方活动，价格和条件以Hostinger网站为准。",
         "action": "查看活动",
         "tag": "最高"
       },
       "zh-hant": {
-        "headline": "Hostinger黑色星期五：最高優惠82%",
+        "headline": "Hostinger黑色星期五：最高優惠85%",
         "text": "Hostinger官方活動，價格和條件以Hostinger網站為準。",
         "action": "查看活動",
         "tag": "最高"
       }
     },
-    "source": "Página hostinger.com/br/black-friday: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026\" (04/11/2026)",
-    "verifiedAt": "2026-11-04"
+    "source": "Página hostinger.com/br/black-friday: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026\" (04/11/2026); home hostinger.com com \"Up to 85% off\" e \"Special offer • 85% off\", lida no navegador em 18/11/2026",
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "insider-black-99-2026",
@@ -326,18 +346,18 @@ export const storeBannersData: StoreBanner[] = [
     "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
     "art": {
       "kind": "tag",
-      "value": "50%"
+      "value": "60%"
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday da Insider: até 50% OFF em itens selecionados",
-        "text": "Campanha da própria Insider. O até 50% vale só para itens selecionados; as condições aparecem no site da loja.",
+        "headline": "Black Friday da Insider: até 60% OFF em itens selecionados",
+        "text": "Campanha da própria Insider. O até 60% vale só para itens selecionados; as condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Banner da home de insiderstore.com.br (\"Black Friday – até 50% OFF + frete grátis\") e rodapé legal \"itens selecionados\", lidos no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "source": "Banner da home de insiderstore.com.br (\"Seleção até 60% OFF\"), lida no navegador em 18/11/2026; em 04/11 era \"até 50% OFF + frete grátis\", com o rodapé legal \"itens selecionados\"",
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "insider-combine-e-ganhe-2026",
@@ -455,7 +475,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Carrossel da home e banner de /collections/outlet de letseatit.com.br (\"Black Friday – as melhores ofertas do outlet com até 70% OFF\"), lidos no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "magalu-black-das-blacks-2026",
@@ -512,7 +532,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Banner da home e página /max-november de maxtitanium.com.br (\"Promoção Max November – descontos de até 50% por tempo limitado\"), lidos no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "nestle-nutre-esquenta-black-friday-2026",
@@ -551,7 +571,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Página probiotica.com.br/novembro-pro (\"Novembro Pro - Probiótica\", \"Roupas e Acessórios com até 50% OFF\"), ligada pelo carrossel da home (04/11/2026)",
-    "verifiedAt": "2026-11-04"
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "proton-black-friday-2026",
@@ -837,18 +857,18 @@ export const storeBannersData: StoreBanner[] = [
     "href": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
     "art": {
       "kind": "tag",
-      "value": "50%"
+      "value": "70%"
     },
     "copy": {
       "pt": {
-        "headline": "Clean Friday da Simple Organic: tudo com até 50% OFF",
-        "text": "Campanha da própria Simple Organic. O até 50% vale para parte dos produtos; as condições aparecem no site da loja.",
+        "headline": "Clean Friday da Simple Organic: tudo com até 70% OFF",
+        "text": "Campanha da própria Simple Organic. O até 70% vale para parte dos produtos; as condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Banner da home de simpleorganic.com.br (\"Clean Friday – tudo com até 50% OFF\") e barra do topo, lidos no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "source": "Banner da home de simpleorganic.com.br (\"Clean Friday chegou! Tudo com até 70% OFF\"), lido no navegador em 18/11/2026; em 04/11 era \"até 50% OFF\"",
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "skelt-black-friday-2026",
@@ -924,7 +944,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Banner do topo de todaup.com (\"Black November, até 35% OFF\"), lido no navegador em 11/11/2026",
-    "verifiedAt": "2026-11-11"
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "toda-up-brindes-calcinha-2026",
@@ -951,71 +971,71 @@ export const storeBannersData: StoreBanner[] = [
     "href": "https://ystyle.co/rQYQv",
     "art": {
       "kind": "tag",
-      "value": "50%"
+      "value": "67%"
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday Sale da YesStyle: até 50% OFF",
+        "headline": "Black Friday Sale da YesStyle: até 67% OFF",
         "text": "Campanha da própria YesStyle. As condições aparecem no site da YesStyle.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       },
       "en": {
-        "headline": "YesStyle Black Friday Sale: up to 50% off",
+        "headline": "YesStyle Black Friday Sale: up to 67% off",
         "text": "Run by YesStyle itself. The terms are on the YesStyle website.",
         "action": "See the offer",
         "tag": "UP TO"
       },
       "es": {
-        "headline": "Black Friday Sale de YesStyle: hasta un 50 % de descuento",
+        "headline": "Black Friday Sale de YesStyle: hasta un 67 % de descuento",
         "text": "Una campaña de la propia YesStyle. Las condiciones están en el sitio de YesStyle.",
         "action": "Ver la oferta",
         "tag": "HASTA"
       },
       "fr": {
-        "headline": "Black Friday Sale chez YesStyle : jusqu’à 50 % de réduction",
+        "headline": "Black Friday Sale chez YesStyle : jusqu’à 67 % de réduction",
         "text": "Une campagne de YesStyle. Les conditions sont sur le site de YesStyle.",
         "action": "Voir l’offre",
         "tag": "JUSQU’À"
       },
       "it": {
-        "headline": "Black Friday Sale di YesStyle: fino al 50% di sconto",
+        "headline": "Black Friday Sale di YesStyle: fino al 67% di sconto",
         "text": "Una campagna di YesStyle. Le condizioni sono sul sito di YesStyle.",
         "action": "Vedi l’offerta",
         "tag": "FINO AL"
       },
       "de": {
-        "headline": "YesStyle Black Friday Sale: bis zu 50 % Rabatt",
+        "headline": "YesStyle Black Friday Sale: bis zu 67 % Rabatt",
         "text": "Eine Aktion von YesStyle. Die Bedingungen stehen auf der YesStyle-Website.",
         "action": "Zum Angebot",
         "tag": "BIS ZU"
       },
       "ja": {
-        "headline": "YesStyleのBlack Fridayセール：最大50%オフ",
+        "headline": "YesStyleのBlack Fridayセール：最大67%オフ",
         "text": "YesStyle公式のキャンペーンです。条件はYesStyleのサイトでご確認ください。",
         "action": "キャンペーンを見る",
         "tag": "最大"
       },
       "ko": {
-        "headline": "YesStyle 블랙프라이데이 세일: 최대 50% 할인",
+        "headline": "YesStyle 블랙프라이데이 세일: 최대 67% 할인",
         "text": "YesStyle 자체 프로모션입니다. 조건은 YesStyle 사이트에서 확인하세요.",
         "action": "혜택 보기",
         "tag": "최대"
       },
       "zh-hans": {
-        "headline": "YesStyle黑色星期五大促：低至5折",
+        "headline": "YesStyle黑色星期五大促：最高可省67%",
         "text": "YesStyle官方活动，具体条件以YesStyle网站为准。",
         "action": "查看活动",
         "tag": "最高"
       },
       "zh-hant": {
-        "headline": "YesStyle黑色星期五大促：低至5折",
+        "headline": "YesStyle黑色星期五大促：最高可省67%",
         "text": "YesStyle官方活動，具體條件以YesStyle網站為準。",
         "action": "查看活動",
         "tag": "最高"
       }
     },
-    "source": "Black Friday Sale até 50% OFF, informado pelo Bruno (02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Black Friday Sale até 50% OFF, informado pelo Bruno (02/11/2026); home da YesStyle com \"Black Friday Sale: Up to 67% OFF\", lida no navegador em 18/11/2026",
+    "verifiedAt": "2026-11-18"
   }
 ];
