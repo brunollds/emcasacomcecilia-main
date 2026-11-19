@@ -1,0 +1,166 @@
+{
+  "id": 1108,
+  "slug": "black-friday-colaedecora",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASACOMCECILIA",
+  "affiliate": "colaedecora",
+  "title": "Ofertas da Live da Cola e Decora: o que está em promoção e como o cupom entra",
+  "seoTitle": "Ofertas da Live da Cola e Decora na Black Friday: cupom 10%",
+  "type": "Guia de Black Friday",
+  "description": "O que está nas Ofertas da Live da Cola e Decora, das prateleiras às camas montessorianas, quanto fica com o EMCASACOMCECILIA e como ver o prazo de entrega.",
+  "metaDescription": "Nas Ofertas da Live da Cola e Decora, o EMCASACOMCECILIA tira mais 10% do preço de oferta, como no nosso teste. Veja os móveis em oferta e o frete.",
+  "image": "/images/reviews/colaedecora/black-friday-colaedecora-capa.webp",
+  "imageAlt": "Pezeira da Cama Noah com o livreiro cheio de livros, em foto da Cola e Decora com o logo da marca, os textos «Ofertas da Live» e o código EMCASACOMCECILIA.",
+  "cta": {
+    "text": "Veja as ofertas do dia no site da Cola e Decora. Se decidir comprar, aplique EMCASACOMCECILIA no carrinho e confira o desconto e o frete antes de pagar.",
+    "label": "Ir para a Cola e Decora",
+    "url": "https://www.lojacolaedecora.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Preços lidos no site oficial e cupom testado no carrinho. Somos parceiros da Cola e Decora e podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-colaedecora-como-usar"
+    },
+    {
+      "slug": "cama-montessoriana-colaedecora"
+    },
+    {
+      "slug": "colaedecora-e-confiavel"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Cola e Decora está com as Ofertas da Live, com preços do dia em móveis e decoração infantil. No nosso teste, o EMCASACOMCECILIA somou 10% sobre preços de oferta. O frete grátis segue a regra da loja, e o prazo você confere pelo CEP antes de pagar."
+      ]
+    },
+    {
+      "heading": "O que está nas Ofertas da Live",
+      "paragraphs": [
+        "Na época da Black Friday, a Cola e Decora chama a campanha de “Ofertas da Live”. Os produtos levam os selos “Oferta de Live” e “Só hoje”. A tabela traz os preços de oferta da vitrine e uma estimativa com o código."
+      ],
+      "comparisonTable": {
+        "caption": "Preços da vitrine em 19/11, antes do frete. Última coluna: nossa conta, 10% sobre o preço de oferta.",
+        "headers": [
+          "Produto",
+          "Preço na vitrine",
+          "Estimativa com o código"
+        ],
+        "rows": [
+          [
+            "Prateleira de Livros 50cm Rosa - Theo",
+            "R$ 59,90",
+            "R$ 53,91"
+          ],
+          [
+            "Cadeira Infantil Branca - Theo",
+            "R$ 159,90",
+            "R$ 143,91"
+          ],
+          [
+            "Mesa Infantil Branca - Theo",
+            "R$ 269,90",
+            "R$ 242,91"
+          ],
+          [
+            "Escadinha Montessori",
+            "R$ 179,90",
+            "R$ 161,91"
+          ],
+          [
+            "Estante Organizadora Bella",
+            "R$ 469,90",
+            "R$ 422,91"
+          ],
+          [
+            "Cama Montessoriana Baixa",
+            "R$ 699,90",
+            "R$ 629,91"
+          ],
+          [
+            "Cama Montessoriana Evolutiva Nina",
+            "R$ 899,00",
+            "R$ 809,10"
+          ],
+          [
+            "Cama Montessoriana com Livreiro Noah",
+            "R$ 1.099,00",
+            "R$ 989,10"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A ficha da Cama Noah traz o selo “envio imediato”, que é da loja. O prazo de entrega segue pelo CEP, como no resto do site."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/colaedecora/black-friday-colaedecora-nina.webp",
+          "alt": "Cama Montessoriana Evolutiva Nina em verde-água, em fundo branco, com as laterais da cama",
+          "caption": "A Cama Montessoriana Evolutiva Nina em verde-água, uma das camas da campanha. Foto: Cola e Decora.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Como funcionam as ofertas do dia",
+      "paragraphs": [
+        "O “Só hoje” indica oferta diária, e a ficha do produto mostra uma contagem de “Oferta termina em”. A página inicial e as fichas não trazem regulamento nem data de fim da campanha. Por isso, um produto ou preço visto hoje pode mudar amanhã: confira o valor no carrinho na hora de comprar."
+      ]
+    },
+    {
+      "heading": "O cupom soma com as ofertas?",
+      "paragraphs": [
+        "No nosso teste de 19/11, somou. Um quadro infantil e uma prateleira de livros, ambos com preço de campanha, somavam R$ 139,80. O EMCASACOMCECILIA tirou R$ 13,98 e o total dos produtos foi para R$ 125,82, antes do frete.",
+        "O código vale para cliente novo e antigo, e o aviso de cupom aplicado aparece no carrinho lateral."
+      ]
+    },
+    {
+      "heading": "Frete e prazo para comprar com data certa",
+      "paragraphs": [
+        "A página de frete da loja diz: “Frete grátis em compras acima de R$ 599 para todo o Brasil”. Pelos preços da tabela, uma cama sozinha passa desse valor e uma prateleira não. A gaveta do carrinho, porém, mostrou a nota “Para as regiões Sul e Sudeste” ao lado de quanto falta para o frete grátis. Digite o CEP no carrinho para ver o que vale para você.",
+        "O prazo é calculado pelo CEP no checkout, e as fichas das camas não trazem prazo de produção. O atraso na entrega é o problema mais registrado no perfil da loja no Reclame Aqui: veja [Cola e Decora no Reclame Aqui](/reviews/colaedecora-reclame-aqui-nota-reputacao). Quem compra para Natal ou aniversário confere o prazo antes de pagar."
+      ]
+    },
+    {
+      "heading": "Como usar o código nas ofertas",
+      "bullets": [
+        "Clique em “Comprar” no produto: o carrinho abre ao lado.",
+        "Em “Tem um cupom?”, digite EMCASACOMCECILIA e aplique.",
+        "Confira o aviso “Cupom aplicado” e o subtotal antes de seguir para o checkout."
+      ],
+      "postParagraphs": [
+        "O passo a passo, com o print do carrinho, está em [como usar o cupom da Cola e Decora](/reviews/cupom-colaedecora-como-usar). As condições do código ficam na página do [cupom Cola e Decora](/cupons/colaedecora)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Cola e Decora tem Black Friday? A loja chama a campanha de Ofertas da Live, com selos de Oferta de Live e Só hoje. O nome Black Friday não aparece na página inicial.",
+        "O cupom vale nas ofertas da live? No nosso teste, valeu: os 10% do EMCASACOMCECILIA entraram sobre produtos com preço de campanha.",
+        "Tem frete grátis na Cola e Decora? A página de frete diz que sim, em compras acima de R$ 599, para todo o Brasil. A gaveta do carrinho citou as regiões Sul e Sudeste, então confira com seu CEP.",
+        "Quanto tempo demora a entrega da Cola e Decora? O prazo sai pelo CEP, direto no checkout. Antes de comprar para uma data certa, leia [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel)."
+      ]
+    }
+  ],
+  "bodyDatesReason": "campanha"
+}
