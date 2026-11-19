@@ -77,6 +77,7 @@ public/images/about/partners/nutren.png -text export-ignore
 public/images/about/partners/okoshi.webp -text export-ignore
 public/images/about/partners/petz-icon.png -text export-ignore
 public/images/about/partners/petz.png -text export-ignore
+public/images/about/partners/pinkcheeks.png -text export-ignore
 public/images/about/partners/polishop.jpg -text export-ignore
 public/images/about/partners/probiotica-icon.png -text export-ignore
 public/images/about/partners/probiotica.png -text export-ignore
@@ -124,6 +125,7 @@ public/images/logos/bolinhas/mais-mu.png -text export-ignore
 public/images/logos/bolinhas/max-titanium.png -text export-ignore
 public/images/logos/bolinhas/nestle-nutre.png -text export-ignore
 public/images/logos/bolinhas/petz.png -text export-ignore
+public/images/logos/bolinhas/pinkcheeks.png -text export-ignore
 public/images/logos/bolinhas/probiotica.png -text export-ignore
 public/images/logos/bolinhas/prohall.png -text export-ignore
 public/images/logos/bolinhas/proton.png -text export-ignore
@@ -160,6 +162,7 @@ public/images/logos/watermarks/mais-mu.webp -text export-ignore
 public/images/logos/watermarks/max-titanium.webp -text export-ignore
 public/images/logos/watermarks/nutren.webp -text export-ignore
 public/images/logos/watermarks/petz.webp -text export-ignore
+public/images/logos/watermarks/pinkcheeks.webp -text export-ignore
 public/images/logos/watermarks/probiotica.webp -text export-ignore
 public/images/logos/watermarks/prohall.webp -text export-ignore
 public/images/logos/watermarks/proton.webp -text export-ignore
@@ -2153,6 +2156,7 @@ public/images/reviews/petz/petz-ou-petlove-royal-canin-medium-adult.webp -text e
 public/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa-v2.webp -text export-ignore
 public/images/reviews/petz/petz-reclame-aqui-nota-reputacao-capa.webp -text export-ignore
 public/images/reviews/petz/petz-reclame-aqui-nota-reputacao-painel.webp -text export-ignore
+public/images/reviews/pinkcheeks/cupom-pinkcheeks-checkout-com-cupom.webp -text export-ignore
 public/images/reviews/poltrona-amamentacao-rotina-hero.webp -text export-ignore
 public/images/reviews/poltrona-levita-cecilia-flores.webp -text export-ignore
 public/images/reviews/poltrona-levita-cecilia-lateral.webp -text export-ignore

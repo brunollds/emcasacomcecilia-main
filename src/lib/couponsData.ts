@@ -4731,6 +4731,137 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'pinkcheeks',
+    brand: 'Pink Cheeks',
+    officialUrl: 'https://pinkcheeks.com.br/',
+    // A parceria não tem link próprio (Bruno, 19/11/2026): o botão abre o site oficial.
+    offerUrl: 'https://pinkcheeks.com.br/',
+    brandIcon: 'PC',
+    brandLogo: '/images/about/partners/pinkcheeks.png',
+    brandLogoAlt: 'Marca Pink Cheeks',
+    bubble: { src: '/images/logos/bolinhas/pinkcheeks.png', background: '#FF7800' },
+    brandWatermark: '/images/logos/watermarks/pinkcheeks.webp',
+    brandColor: '#FF7800',
+    cartPrint: {
+      src: '/images/reviews/pinkcheeks/cupom-pinkcheeks-checkout-com-cupom.webp',
+      alt: 'Resumo do checkout da Pink Cheeks com o código PNK-EMCASACOMCECILIA aplicado: desconto no pedido de R$ 16,98 sobre R$ 169,80 e total de R$ 152,82',
+      aspectRatio: 0.96,
+    },
+    code: 'PNK-EMCASACOMCECILIA',
+    codeFieldLabel: 'Código de desconto ou cartão-presente',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Protetor solar, maquiagem com FPS, antiatrito e cabelos',
+    hubCategory: 'beleza',
+    shortDescription: 'todo o site da Pink Cheeks, inclusive os produtos em promoção',
+    longDescription:
+      'O cupom Pink Cheeks PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções: no nosso teste, os 10% entraram num pó translúcido pelo preço cheio e também num blush em promoção de Black Friday. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Pink Cheeks: 10% OFF com PNK-EMCASACOMCECILIA',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom Pink Cheeks: PNK-EMCASACOMCECILIA dá 10% OFF em protetor solar e maquiagem com FPS, para cliente novo ou antigo. Testado no checkout.',
+    eligibleCategories: 'Produtos do site oficial da Pink Cheeks, inclusive os que estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping: 'Frete grátis na Entrega Normal em compras a partir de R$ 199, segundo a loja; a Entrega Expressa tem valor e prazo no checkout',
+    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento, inclusive o Pix',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, o blush de R$ 89,90 por R$ 69,90 também ganhou os 10%' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O código seguiu aplicado com o Pix escolhido no checkout; a loja não dá desconto próprio no Pix' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis na Entrega Normal a partir de R$ 199, segundo a loja; abaixo disso e na Expressa, o frete sai pelo CEP' },
+    ],
+    paymentPerks: ['Até 5x sem juros no cartão de crédito'],
+    lastVerified: '2026-11-19',
+    testedAt: '2026-11-19',
+    testNote:
+      'Num carrinho com o Protetor Solar Pó Translúcido Sport Powder FPS30 pelo preço cheio de R$ 99,90 e o Blush All In One FPS30 Terracota em promoção, de R$ 89,90 por R$ 69,90, o PNK-EMCASACOMCECILIA tirou R$ 16,98 dos R$ 169,80, 10% do pedido, e o total caiu para R$ 152,82. Com o Pix escolhido como pagamento, o código seguiu aplicado e o total não mudou.',
+    codeInstructions: [
+      'Copie o código PNK-EMCASACOMCECILIA no card acima.',
+      'Acesse o site oficial da Pink Cheeks pelo botão indicado, adicione os produtos ao carrinho e clique em Finalizar pedido.',
+      'No resumo do checkout, digite o código no campo Código de desconto ou cartão-presente e clique em Aplicar.',
+      'Confira a linha Desconto no pedido, com o código e o valor, e o total antes de pagar.',
+    ],
+    aboutBrand:
+      'A Pink Cheeks é uma marca brasileira nascida no esporte há mais de uma década e criada por atletas: protetores solares, maquiagens com FPS, como blush, pó translúcido e batom, além de produtos antiatrito e para cabelos, vendidos no site oficial. O cupom PNK-EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom PNK-EMCASACOMCECILIA dá na Pink Cheeks?',
+        answer:
+          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 16,98 de um carrinho de R$ 169,80, e o resumo do checkout mostrou o valor na linha Desconto no pedido.',
+      },
+      {
+        question: 'O cupom Pink Cheeks vale na primeira compra?',
+        answer: 'Sim. O PNK-EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Pink Cheeks vale para quem já é cliente?',
+        answer: 'O PNK-EMCASACOMCECILIA. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O PNK-EMCASACOMCECILIA é cupom de influenciadora da Pink Cheeks?',
+        answer:
+          'Sim. PNK-EMCASACOMCECILIA é o cupom do Em Casa com Cecília na Pink Cheeks e dá 10% OFF no site oficial para clientes novos e antigos.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, o Blush All In One FPS30 Terracota estava em promoção, de R$ 89,90 por R$ 69,90, e o cupom tirou os 10% dele também.',
+      },
+      {
+        question: 'O cupom vale no Pix?',
+        answer:
+          'Vale. No nosso teste, o código seguiu aplicado com o Pix escolhido no checkout, e o total não mudou: a Pink Cheeks não dá desconto próprio no Pix. No cartão de crédito, a loja parcela em até 5x sem juros.',
+      },
+      {
+        question: 'O cupom PNK-EMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o PNK-EMCASACOMCECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Pink Cheeks?',
+        answer:
+          'No checkout do site oficial, que abre pelo botão Finalizar pedido do carrinho: digite PNK-EMCASACOMCECILIA no campo Código de desconto ou cartão-presente e clique em Aplicar. O resumo passa a mostrar a linha Desconto no pedido, com o valor.',
+      },
+      {
+        question: 'Tem cupom Pink Cheeks na Black Friday?',
+        answer:
+          'Tem. O cupom Pink Cheeks PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Pink Cheeks vale na Black Friday?',
+        answer:
+          'Vale. No nosso teste, em novembro, os 10% entraram também num blush em promoção de Black Friday. Confira a linha Desconto no pedido no resumo antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete, mas a loja dá frete grátis na Entrega Normal em compras a partir de R$ 199. Abaixo disso, e na Entrega Expressa, o valor e o prazo aparecem no checkout depois do CEP.',
+      },
+      {
+        question: 'Como funciona a troca na Pink Cheeks?',
+        answer:
+          'Pela política da loja, a desistência da compra pode ser pedida em até 7 dias depois do recebimento, e o produto com defeito, em até 30 dias. O pedido de troca ou devolução é feito no portal de trocas indicado na página Trocas e Devoluções do site, com o e-mail ou o CPF e o número do pedido.',
+      },
+      {
+        question: 'O que fazer se o cupom PNK-EMCASACOMCECILIA não funcionar?',
+        answer:
+          'Confira se o código foi digitado inteiro, com o hífen depois de PNK e sem espaços, no campo Código de desconto ou cartão-presente do checkout. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { article: 'cupom-hostinger-indicacao', src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
