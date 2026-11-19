@@ -4989,6 +4989,132 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'colaedecora',
+    brand: 'Cola e Decora',
+    officialUrl: 'https://www.lojacolaedecora.com.br/',
+    // A parceria não tem link próprio (Bruno, 19/11/2026): o botão abre o site oficial.
+    offerUrl: 'https://www.lojacolaedecora.com.br/',
+    brandIcon: 'CD',
+    brandLogo: '/images/about/partners/colaedecora.png',
+    brandLogoAlt: 'Marca Cola e Decora',
+    bubble: { src: '/images/logos/bolinhas/colaedecora.png', background: '#DF7D66' },
+    brandWatermark: '/images/logos/watermarks/colaedecora.webp',
+    brandColor: '#DF7D66',
+    cartPrint: {
+      src: '/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp',
+      alt: 'Carrinho da Cola e Decora com o cupom EMCASACOMCECILIA aplicado (10% OFF): desconto de R$ 13,98 sobre R$ 139,80 e subtotal de R$ 125,82',
+      aspectRatio: 1.28,
+    },
+    code: 'EMCASACOMCECILIA',
+    codeFieldLabel: 'Tem um cupom?',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Decoração infantil: móveis, quadros, almofadas, prateleiras, tapetes, enfeites e brinquedos',
+    hubCategory: 'casa',
+    shortDescription: 'todo o site da Cola e Decora, inclusive os produtos em promoção',
+    longDescription:
+      'O cupom Cola e Decora EMCASACOMCECILIA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções: no nosso teste, os 10% entraram num quadro e numa prateleira de livros que já estavam com o preço de Black Friday. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Cola e Decora: 10% OFF com EMCASACOMCECILIA',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom Cola e Decora: EMCASACOMCECILIA dá 10% OFF em decoração infantil, quadros e móveis e soma com as promoções. Testado no carrinho.',
+    eligibleCategories: 'Produtos do site oficial da Cola e Decora, inclusive os que estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping: 'Frete grátis em compras a partir de R$ 599 em produtos, segundo a loja; abaixo disso, o valor e o prazo saem no checkout pelo CEP',
+    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, a prateleira de R$ 199,90 por R$ 59,90 também ganhou os 10%' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento; a loja não mostra desconto próprio no Pix' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 599 em produtos, segundo a loja; abaixo disso, o frete sai pelo CEP no checkout' },
+    ],
+    paymentPerks: ['Até 10x sem juros no cartão de crédito, conforme o valor do pedido'],
+    lastVerified: '2026-11-19',
+    testedAt: '2026-11-19',
+    testNote:
+      'Num carrinho com o Quadro Infantil Oração Santo Anjo, de R$ 99,90 por R$ 79,90, e a Prateleira de Livros 50cm Rosa - Theo, de R$ 199,90 por R$ 59,90, os dois com o preço de Black Friday, o EMCASACOMCECILIA tirou R$ 13,98 dos R$ 139,80, 10%, e o subtotal caiu para R$ 125,82. No checkout, o resumo do pedido manteve o cupom ativo de R$ 13,98.',
+    codeInstructions: [
+      'Copie o código EMCASACOMCECILIA no card acima.',
+      'Acesse o site oficial da Cola e Decora pelo botão indicado e clique em Comprar nos produtos: o carrinho abre ao lado.',
+      'No carrinho, toque em aplicar, ao lado de Tem um cupom?, digite o código e clique em aplicar.',
+      'Confira o aviso Cupom aplicado, com os 10% OFF, e o subtotal antes de clicar em Finalizar compra.',
+    ],
+    aboutBrand:
+      'A Cola e Decora é uma loja brasileira de decoração para o quarto das crianças: móveis montessorianos, quadros, almofadas, prateleiras, tapetes, móbiles, enfeites e brinquedos, muitos com o nome da criança, vendidos no site oficial. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom EMCASACOMCECILIA dá na Cola e Decora?',
+        answer:
+          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 13,98 de um carrinho de R$ 139,80, e o carrinho mostrou o aviso Cupom aplicado, com os 10% OFF.',
+      },
+      {
+        question: 'O cupom Cola e Decora vale na primeira compra?',
+        answer: 'Sim. O EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom Cola e Decora vale para quem já é cliente?',
+        answer: 'O EMCASACOMCECILIA. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O EMCASACOMCECILIA é cupom de influenciadora da Cola e Decora?',
+        answer:
+          'Sim. EMCASACOMCECILIA é o cupom do Em Casa com Cecília na Cola e Decora e dá 10% OFF no site oficial para clientes novos e antigos.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, a Prateleira de Livros 50cm Rosa - Theo estava de R$ 199,90 por R$ 59,90, e o cupom tirou os 10% dela também.',
+      },
+      {
+        question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o EMCASACOMCECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Cola e Decora?',
+        answer:
+          'No carrinho, que abre ao lado da página quando você clica em Comprar: toque em aplicar, ao lado de Tem um cupom?, digite EMCASACOMCECILIA e clique em aplicar. O desconto aparece no carrinho e segue para o resumo do checkout, como cupom ativo.',
+      },
+      {
+        question: 'Tem cupom Cola e Decora na Black Friday?',
+        answer:
+          'Tem. O cupom Cola e Decora EMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e soma com os preços de Black Friday.',
+      },
+      {
+        question: 'O cupom Cola e Decora vale na Black Friday?',
+        answer:
+          'Vale. No nosso teste, em novembro, os 10% entraram em produtos que já estavam com o preço de Black Friday. Confira o aviso Cupom aplicado no carrinho antes de finalizar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete. Pela página de frete da loja, o frete é grátis em compras a partir de R$ 599 em produtos; abaixo disso, o valor e o prazo aparecem no checkout depois do CEP. Confira a opção de frete grátis na cotação do checkout.',
+      },
+      {
+        question: 'Como funciona a troca na Cola e Decora?',
+        answer:
+          'Pela política da loja, a troca ou devolução é pedida em até 7 dias corridos depois do recebimento, pelo sistema de trocas indicado na página Trocas e Devoluções. O produto volta na embalagem original, sem sinais de uso, com as etiquetas e a nota fiscal.',
+      },
+      {
+        question: 'O que fazer se o cupom EMCASACOMCECILIA não funcionar?',
+        answer:
+          'Confira se o código foi digitado inteiro, sem espaços, no campo do carrinho e se apareceu o aviso Cupom aplicado. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no carrinho quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { article: 'cupom-hostinger-indicacao', src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',
