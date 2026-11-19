@@ -217,3 +217,12 @@ O texto usa só o que está nas respostas. Pergunta sem resposta não vira texto
 
 - `/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa.webp`: painel lateral com o logo da Dolce Gusto (o mesmo bloco da capa da Mini Me 2.0), "NEO / vale a pena? / No uso diário" e o CECI, sobre o frame do Short `_EyAiTwjGTU` (a Cecília encaixando o reservatório; a miniatura de 1080×1920 da `midia-staging`). A foto da NEO na bancada já é a capa do `black-friday-dolce-gusto` e não se repetiu.
 - **Corpo:** `dolce-gusto-neo-cecilia.webp` e `dolce-gusto-original-e-neo-oficial.webp`, as duas já no site.
+
+## Parecer do Farol (19/11/2026, depois do merge do #1216)
+
+- Aplicados os dois patches do pacote `docs/auditoria-copy-artigos/dolce-gusto-neo-20261119-farol/` (fora do Git): a reescrita da DG1 e a altura no `dolce-gusto-maquinas-qual-escolher`.
+- **Club:** 10 pontos por cápsula quando o preparo começa pelo app, com a máquina pareada. O `clube-dolce-gusto-como-funciona` já dizia o mesmo, e a Cecília usa sempre o app.
+- **Preço:** os R$ 719,10 são do carrinho da NEO branca de 220 V, antes do frete. A tabela mostra só os cenários testados: a máquina, a máquina com uma caixa e a caixa sozinha, abaixo do mínimo. As cinco caixas ficam no parágrafo.
+- **Altura:** 31,2 cm, atribuídos à ficha da loja, e o manual traz outras medidas. A sessão não conferiu: a loja bloqueia o curl e o Chrome não conectou. Reler a ficha no próximo acesso pelo navegador.
+- **Título visível:** passa a ser "Dolce Gusto NEO vale a pena? Como é usar a máquina em casa". O `seoTitle` não muda.
+- **Fora do site:** a descrição do Short do café gelado ainda diz "5% com CECI". Fica com o Bruno.
