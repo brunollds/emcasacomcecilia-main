@@ -1,0 +1,113 @@
+---
+titulo_provisorio: "Cama montessoriana Cola e Decora: Baixa, Bella, Nina, Cercadinho e Casinha pela ficha"
+seo_title: "Cama montessoriana Cola e Decora: os modelos pela ficha"
+meta_description: "EMCASACOMCECILIA dá 10% OFF na Cola e Decora. Veja as camas montessorianas da loja pela ficha: altura, material, colchão, carga, garantia e preço."
+slug_sugerido: "cama-montessoriana-colaedecora"
+parceiro: "[[Cola-e-Decora]]"
+parceiro_slug: "colaedecora"
+category: "guias-praticos-utilidade"
+reviewKind: "guia"
+type: "Guia de Marca"
+anexo_tipo: "Anexo-Casa-Malas"
+status: "pauta-aprovada"
+responsavel: "Job-1"
+proxima_acao: "redação (Job 2)"
+bloqueado_por: "-"
+data_criacao: "2026-11-19"
+pauta_id: "CD5"
+i18n_cluster: null
+translationKey: null
+modo_i18n: "somente-pt"
+idioma_fonte: "pt"
+idiomas_alvo: []
+status_i18n: "nao-aplicavel"
+affiliate: "colaedecora"
+coupon: "EMCASACOMCECILIA"
+---
+
+# Briefing de Pauta: cama montessoriana Cola e Decora (CD5)
+
+GO do Bruno em 19/11/2026 no pacote todo, com a CD5 no lugar do "é boa". Modelos: [[pinkcheeks-e-boa]] e
+[[gocase-e-boa]] (guia pela ficha). Fatos em [[colaedecora-fatos-1911]], seção 4. **Regras do pacote em
+[[cupom-colaedecora-como-usar]]**, em especial: sem experiência própria, só ficha, sem promessa de segurança ou
+desenvolvimento, na dúvida o pediatra.
+
+## Busca
+
+Autocompletar de 19/11: "cola e decora cama montessoriana" (10ª da marca), "cama montessoriana infantil cola e decora",
+"cama montessoriana solteiro cola e decora", "cama noah cola e decora", "cama casinha cola e decora", "cama solteiro
+cola e decora", "montagem cama cola e decora". Trends (12 meses): "cama montessoriana" 80; entre as relacionadas em
+ascensão, "cola e decora" +90% (junto de Keiko, Balaqui Decor e "cama japonesa").
+
+## Ângulo
+
+Quem já chegou à Cola e Decora pela cama montessoriana quer saber qual modelo comprar. O artigo põe os modelos lado a
+lado pela ficha e diz para que situação cada um foi desenhado, segundo a loja. O guia geral "qual cama montessoriana
+escolher" (outras marcas) fica no estoque.
+
+## Fatos (fichas lidas em 19/11/2026)
+
+| Modelo | Material | Medidas | Altura do chão | Grades | Colchão | Carga | Garantia | Preço da vitrine |
+|---|---|---|---|---|---|---|---|---|
+| Montessoriana Baixa | Pinus maciço de reflorestamento | 194 × 96 cm | 25,5 cm | Fixas em todas as laterais | Solteiro 88 × 188, não acompanha | Até 100 kg (estática) | 30 dias, defeitos de fábrica | R$ 699,90 |
+| Montessoriana Bella (branca, rosa blush) | MDF + Pinus, acabamento em laca | 194 × 96 cm | 25,5 cm | Fixas em todas as laterais | Solteiro 88 × 188, não acompanha | Até 100 kg | 30 dias | R$ 999,00 |
+
+- A ler no dia: **Evolutiva Nina** (R$ 899,00, quatro cores: o que é "evolutiva"), **Cercadinho** e **Cercadinho
+  Casal** (R$ 999,00 e R$ 1.599,00), **com Livreiro Noah** (R$ 1.099,00), **Casinha** (R$ 1.099,00), **Pinus Theo**
+  (R$ 1.099,00, se for montessoriana).
+- Todas vão desmontadas, com manual e ferragens; a loja diz que a montagem usa ferramentas básicas e, "se necessário",
+  um profissional. Nós e variações do pinus "não representam defeito", segundo a loja.
+- A FAQ da ficha explica o método Montessori com "autonomia" e "independência": só como "a loja explica".
+- Página da loja "Cama Montessoriana Infantil" (`/pagina/cama-montessoriana-infantil.html`): ler e usar só o que for
+  fato do produto.
+
+## Regras deste artigo
+
+- **Quadro só com a ficha** e preço da vitrine com data (e com o código, conta nossa). Nada de "mais segura", "a
+  melhor"; a escolha é por espaço, colchão, material e preço.
+- **Idade e segurança:** a loja não diz idade mínima na ficha lida. O texto não diz. "A partir de quando usar" vai ao
+  pediatra, em uma frase.
+- **Garantia de 30 dias:** dizer como a loja informa, sem comentar.
+- **Prazo de entrega:** pelo CEP; uma frase lembra que o atraso é a queixa mais comum no Reclame Aqui, com link para a CD2.
+- Avaliações da vitrine fora.
+
+## Esqueleto
+
+1. **Resposta rápida** (40 a 60 palavras, sem "R$"): a Cola e Decora vende camas montessorianas de solteiro a 25,5 cm do
+   chão, com grades fixas e colchão à parte; a Baixa é de pinus maciço, a Bella de MDF com pinus; garantia de 30 dias;
+   o EMCASACOMCECILIA tira 10%.
+2. **Os modelos lado a lado.** O quadro.
+3. **Pinus maciço ou MDF com laca.** O que a loja diz de cada um.
+4. **Colchão, espaço e montagem.** Colchão solteiro à parte; medida externa para o quarto; montagem.
+5. **Evolutiva, cercadinho, casinha, livreiro.** O que muda em cada um, pela ficha.
+6. **Antes de comprar.** Garantia de 30 dias, troca em 7 dias, prazo pelo CEP, frete grátis acima de R$ 599 (uma cama
+   já passa).
+7. **Quanto fica com o cupom.** Preço do dia com o código; link para a CD1.
+8. **FAQ (3 a 5):** "A cama montessoriana da Cola e Decora vem com colchão?", "Qual a altura da cama montessoriana da
+   Cola e Decora?", "Que colchão usar?", "Quanto peso aguenta?", "Como é a montagem?".
+
+Leva o quadro `decision`, sem nota nem schema de Review: leve se quer cama montessoriana de solteiro com grades fixas e
+colchão padrão; passe se precisa de garantia mais longa que 30 dias ou de prazo de entrega garantido para uma data.
+Conferir as frases contra as fichas.
+
+## Metadados sugeridos
+
+- **seoTitle:** Cama montessoriana Cola e Decora: os modelos pela ficha (54 caracteres)
+- **description:** As camas montessorianas da Cola e Decora lado a lado pela ficha: altura do chão, pinus ou MDF, colchão, carga, garantia, montagem e o preço com o cupom. (153 caracteres)
+- **editorialNote:** Não usamos as camas: o texto segue as fichas da loja. Somos parceiros da Cola e Decora e podemos receber comissão pelo cupom.
+- **relatedArticles:** CD1, CD3 e CD6.
+
+## Plano de imagens
+
+Capa com foto oficial de uma cama montessoriana da loja, logo e código. Corpo (mínimo 1): fotos oficiais de dois
+modelos, com crédito.
+
+## Matriz de claims
+
+| Afirmação | Rótulo | Fonte | Status |
+|---|---|---|---|
+| Baixa: pinus maciço, 194 × 96, 25,5 cm, 100 kg, grades fixas, 30 dias | A loja informa: | ficha, 19/11 | verificado |
+| Bella: MDF + pinus, laca, mesmas medidas | A loja informa: | ficha, 19/11 | verificado |
+| Nina, Cercadinho, Noah, Casinha | A loja informa: | fichas | ler no dia |
+| Idade mínima, segurança | - | não informado | não escrever; pediatra |
+| Montessori, autonomia | A loja informa: | FAQ da ficha | só com atribuição |
