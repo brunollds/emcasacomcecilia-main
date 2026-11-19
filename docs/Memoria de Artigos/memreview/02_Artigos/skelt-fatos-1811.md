@@ -108,3 +108,19 @@ O `SKEMCASACOMCECILIA` aplicou **5% sobre o preço da campanha** em todos os car
 - **"Grávida pode usar":** assunto de saúde. No máximo uma pergunta de FAQ com o que o rótulo diz e a orientação de falar com o médico, nunca artigo.
 - **"Skelt na farmácia ou no site":** existe busca, mas com o código a 5% o site não ganha. Fica fora até o percentual se resolver.
 - **Todo valor "com o código" desta ficha usa 5%, o que o carrinho aplicou em 18/11.** Os textos do site seguem com 10% por decisão do Bruno; reler no carrinho no dia da redação.
+
+## 7. Leituras do Job 1 para a SF2 (18/11/2026). Briefing em [[skelt-ou-episol-gold]]
+
+- **Duração da Episol Gold (página da Panvel, lida inteira):** "segundo a Mantecorp Skincare, o efeito bronzeado
+  dura de 7 a 12 dias"; a marca sugere reaplicar a cada 8 dias. **É a mesma duração que a Skelt declara.**
+- **Aplicação:** agitar; sai como espuma leve; com as mãos, lavando em seguida (luva não é obrigatória, segundo a
+  marca); só corpo, não no rosto. "Não transfere cor para os tecidos", segundo a fabricante. Não comedogênica e
+  dermatologicamente testada. A página não diz se tem cor-guia nem o tempo de ação.
+- **Site da Mantecorp Skincare:** a Água Autobronzeadora Episol Gold 150 ml a R$ 99,90. O catálogo tem um
+  autobronzeador só (mais um kit com o protetor FPS 30, R$ 195,90): **não existe versão escura.**
+- **Outras lojas (cartões e resumo do Google, lojas não abertas):** Amazon a partir de R$ 74,00; Farmalife R$ 74,39;
+  Beleza na Web R$ 77,90; Farmácia Indiana, Época e Renner R$ 92,89; Mercado Livre R$ 99,90; Drogaria Araujo
+  R$ 99,99.
+- **Correção da seção 5:** "é o par em que a parceira ganha" só vale contra a Panvel e na campanha. Na tabela a
+  Episol custa menos (R$ 99,90 contra R$ 119,90) e no varejo, menos ainda. A Skelt só sai abaixo com a Água Dark a
+  50%. O que sobra para a Skelt: duas intensidades, rendimento declarado e a linha em volta.
