@@ -34381,7 +34381,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Mini Me 2.0 passou pelo nosso teste em casa, com o Lungo e o Café Matinal no dia a dia de trabalho. O review conta como foi.",
           "A Genio S Touch também tem review próprio. Foi nela que vimos que o preparo frio não gela: com a opção fria do painel, o Chá de Pêssego saiu morno, por volta de 40 °C. Para bebida gelada, prepare antes e leve à geladeira ou ponha gelo no copo.",
-          "A Cecília usa a NEO no dia a dia; ela ainda não tem review próprio no site. A Genio S Basic e a Genio S Plus entram aqui pelas especificações oficiais."
+          "A Cecília usa a NEO no dia a dia, e o [review da Dolce Gusto NEO](/reviews/dolce-gusto-neo-vale-a-pena) conta como é. A Genio S Basic e a Genio S Plus entram aqui pelas especificações oficiais."
         ],
         "images": [
           {
@@ -270580,6 +270580,328 @@ export const reviewsData: unknown[] = [
           "Os dois têm sacarose? A Danone lista sacarose nos ingredientes do Cubitan. O Proline declara “sem adição de sacarose” e informa açúcares na tabela nutricional.",
           "O cupom CECI vale? Vale na Nestlé Nutre, onde está o Proline: deu 10% na caixinha e no combo de 10 de baunilha. As regras estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
         ]
+      }
+    ]
+  },
+  {
+    "id": 1083,
+    "slug": "dolce-gusto-neo-vale-a-pena",
+    "title": "Dolce Gusto NEO vale a pena? A máquina de cafés pretos, as cápsulas de papel e o preço com o CECI",
+    "seoTitle": "Dolce Gusto NEO vale a pena? Cápsulas, app e preço com CECI",
+    "type": "Review de Produto",
+    "category": "produtos-experiencias",
+    "reviewKind": "produto",
+    "productName": "NESCAFÉ Dolce Gusto NEO",
+    "brand": "NESCAFÉ Dolce Gusto",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      }
+    ],
+    "description": "A Cecília usa a Dolce Gusto NEO no dia a dia: veja o que a máquina faz, quais cafés NEO existem, se a cápsula Original serve e quanto custa com o CECI.",
+    "metaDescription": "CECI dá 10% na Dolce Gusto NEO. Veja o que a máquina faz, os cafés NEO, se a cápsula Original serve e quanto sai a máquina e a xícara com o código.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa.webp",
+    "imageAlt": "Cecília encaixando o reservatório de água na cafeteira Dolce Gusto NEO branca, ao lado do logo da marca, da chamada “NEO vale a pena?” e do código CECI.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtube.com/shorts/_EyAiTwjGTU",
+    "pros": [
+      "A cápsula sai sozinha depois do preparo",
+      "Não pinga entre um preparo e outro, pela experiência da Cecília",
+      "Temperatura e volume ajustados pelo app",
+      "Os pontos do Club entram sozinhos com a máquina conectada",
+      "Cápsula de papel: a marca informa que ela se decompõe em cerca de 6 meses"
+    ],
+    "cons": [
+      "Só café preto: não faz leite, chá nem chocolate",
+      "Não aceita cápsulas Original; só as NEO",
+      "O app já se desconectou da conta, sem falhar no preparo",
+      "A página da máquina mostrava aviso de indisponível no nosso teste, e a lista de cafés muda"
+    ],
+    "pullQuote": "Para o café preto de todo dia, a NEO faz o que a Cecília precisa. Para leite e chá, ela não serve.",
+    "verdict": {
+      "stars": 4,
+      "recommendation": "recomendo",
+      "summary": "Para quem toma só café preto e quer cápsula de papel, a NEO cumpre a rotina: a cápsula sai sozinha, a máquina não pingou no uso da Cecília e o app ajusta temperatura e volume. Quem quer leite, chá ou usar as cápsulas Original deve olhar outra máquina."
+    },
+    "productSpec": [
+      {
+        "key": "Marca",
+        "value": "NESCAFÉ Dolce Gusto"
+      },
+      {
+        "key": "Versões",
+        "value": "N1 branca ou preta, 110 V ou 220 V"
+      },
+      {
+        "key": "Sistema de cápsulas",
+        "value": "NEO, só com cápsulas NEO compostáveis, segundo a loja"
+      },
+      {
+        "key": "Bebidas",
+        "value": "Ristretto, Espresso, Lungo, Caseiro e Americano"
+      },
+      {
+        "key": "Pressão",
+        "value": "Até 15 bar"
+      },
+      {
+        "key": "Reservatório de água",
+        "value": "1 litro"
+      },
+      {
+        "key": "Medidas",
+        "value": "15,2 × 30,0 × 34,5 cm (a loja não diz qual medida é a altura)"
+      },
+      {
+        "key": "Cápsulas no compartimento",
+        "value": "Até 9"
+      },
+      {
+        "key": "Conexão",
+        "value": "Wi-Fi e Bluetooth"
+      },
+      {
+        "key": "Preço",
+        "value": "a partir de R$ 799,00 na loja; R$ 719,10 com o CECI no nosso teste"
+      },
+      {
+        "key": "Cupom",
+        "value": "CECI",
+        "highlight": true
+      }
+    ],
+    "cta": {
+      "text": "Veja a NEO na loja oficial e confira o desconto com o código CECI no carrinho",
+      "label": "Ver a NEO na loja oficial",
+      "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe-neo",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "A Cecília comprou a NEO e usa a máquina há alguns meses. Somos afiliados da Dolce Gusto e podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "dolce-gusto-maquinas-qual-escolher"
+      },
+      {
+        "slug": "adaptador-neo-start-o-que-e"
+      },
+      {
+        "slug": "quanto-custa-capsula-dolce-gusto"
+      },
+      {
+        "slug": "dolce-gusto-genio-s-touch-vale-a-pena"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A NEO vale a pena para quem toma só café preto e quer cápsula de papel. Ela não faz leite, chá nem chocolate, e a loja diz que aceita só cápsulas NEO. A Cecília usa a máquina há alguns meses, e o código CECI dá 10% de desconto na máquina."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "O que a NEO faz de diferente",
+        "paragraphs": [
+          "A NEO é a cafeteira Dolce Gusto para cafés pretos. A loja a descreve como a nova cafeteira com cápsulas compostáveis feitas com papel. A marca informa que a cápsula se decompõe em cerca de 6 meses, com certificação TÜV, em compostagem doméstica ou industrial. Esse é o dado da marca: a Cecília joga as cápsulas usadas no lixo comum.",
+          "O diferencial da máquina é o SmartBrew. Ela reconhece a cápsula por leitura óptica e ajusta a extração. A loja diz que a NEO trabalha de três jeitos: alta pressão, até 15 bar, para Ristretto, Espresso e Lungo; o SlowBrew, para o Caseiro; e o Top-up, para o Americano, que faz o espresso e depois completa com água quente, em duas etapas.",
+          "São cinco bebidas, todas de café preto: Ristretto, Espresso, Lungo, Caseiro e Americano. Segundo a marca, a máquina é projetada para mais de 7.000 extrações, desliga sozinha quando a bebida fica pronta e tem 90% de alumínio reciclado e 50% de plástico reciclado nas peças sem contato com o alimento."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Como é usar no dia a dia",
+        "paragraphs": [
+          "A Cecília comprou a NEO e usa a máquina há alguns meses. Ela prepara de 1 a 2 xícaras por dia, sempre pelo app, e costuma mudar a temperatura e o volume. O Americano é o mais pedido em casa, o favorito do Bruno.",
+          "Ela gosta do preparo: a cápsula é descartada sozinha e a máquina não pinga depois. Alguns cafés demoram mais para extrair, como o Americano, pelo próprio tipo de preparo. A máquina não deu nenhum defeito, e a Cecília só fez a limpeza normal.",
+          "Com a NEO, a Cecília também faz um café gelado: água com gás, suco de limão, uma rodela de limão, gelo e um espresso por cima. A receita está no [Short do café gelado com limão](https://youtube.com/shorts/RK4gX2gJvdI). O vídeo no fim do artigo mostra o unboxing da NEO e o primeiro café que a Cecília fez nela."
+        ],
+        "bullets": [],
+        "image": {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
+          "alt": "Cecília na cozinha com a cafeteira Dolce Gusto NEO branca, segurando o reservatório de água transparente",
+          "caption": "A Cecília com a NEO, que ela usa no dia a dia.",
+          "objectFit": "portrait"
+        }
+      },
+      {
+        "heading": "As cápsulas NEO: quais existem e o que fica de fora",
+        "paragraphs": [
+          "A categoria de cápsulas NEO da loja tem oito cafés, todos de café preto. Não tem descafeinado nem nada com leite. As caixas têm 10 cápsulas, com uma bebida por cápsula.",
+          "A lista e os preços mudam. Os R$ 20,23 por caixa eram preço de campanha da loja, e dois dos cafés estavam sem estoque na nossa leitura. Confira a categoria no site antes de comprar."
+        ],
+        "bullets": [],
+        "comparisonTable": {
+          "caption": "Os oito cafés NEO da loja: intensidade, se entram no Adaptador NEO Start e preço da caixa na campanha",
+          "headers": [
+            "Café",
+            "Intensidade",
+            "Entra no Adaptador NEO Start",
+            "Preço da caixa"
+          ],
+          "rows": [
+            [
+              "NEO Caseiro Delicate",
+              "4",
+              "Não",
+              "R$ 20,23"
+            ],
+            [
+              "NEO Espresso Delicate",
+              "5",
+              "Sim",
+              "Sem estoque"
+            ],
+            [
+              "NEO Espresso Sul de Minas Orgânico",
+              "6",
+              "Sim",
+              "R$ 20,23"
+            ],
+            [
+              "NEO Caseiro Dark",
+              "7",
+              "Não",
+              "R$ 20,23"
+            ],
+            [
+              "NEO Espresso Serras do Alto Paranaíba",
+              "7",
+              "Sim",
+              "R$ 20,23"
+            ],
+            [
+              "NEO Lungo Chapada Diamantina",
+              "7",
+              "Sim",
+              "Sem estoque"
+            ],
+            [
+              "NEO Lungo Dark",
+              "8",
+              "Não",
+              "R$ 20,23"
+            ],
+            [
+              "NEO Americano",
+              "8",
+              "Não",
+              "R$ 20,23"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Cápsula Original na NEO, cápsula NEO na Original",
+        "paragraphs": [
+          "Na NEO, não entra cápsula Original. A loja diz que a máquina é compatível apenas com cápsulas NEO compostáveis, e que as outras cápsulas Dolce Gusto não são compatíveis.",
+          "O caminho inverso existe, com dois limites. O Adaptador NEO Start só serve nos modelos Original que a marca lista, e só com os cafés NEO marcados com Sim na tabela: os três Espressos e o Lungo Chapada Diamantina, de intensidade 5 a 7. Os dois Caseiros, o Lungo Dark e o Americano não entram. O [guia do Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e) traz a lista de máquinas.",
+          "Cápsula de outra marca também fica de fora: a loja diz que só as NEO servem na NEO. O [guia de cápsulas compatíveis](/reviews/dolce-gusto-capsulas-compativeis-guia) mostra o que serve em cada máquina."
+        ],
+        "bullets": [],
+        "image": {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+          "alt": "Caixa de cápsulas Dolce Gusto Original Espresso ao lado da embalagem NEO Espresso Serras do Alto Paranaíba, em fotos oficiais da loja",
+          "caption": "À esquerda, a caixa Original do Espresso; à direita, a embalagem NEO do Espresso Serras do Alto Paranaíba.",
+          "objectFit": "cover"
+        }
+      },
+      {
+        "heading": "App, Wi-Fi e pontos do Club",
+        "paragraphs": [
+          "A NEO conecta por Wi-Fi e Bluetooth. Pelo app, a pessoa ajusta a temperatura e o volume e guarda a receita. A loja cita ainda a manutenção automática e os pedidos de cápsulas pelo app.",
+          "A Cecília usa sempre o app. Os pontos do Club entram sozinhos a cada cápsula preparada, com a máquina conectada, e ela confirmou que isso funciona. Na Original, a pessoa escaneia o código da embalagem.",
+          "Dá para preparar sem o app: a loja diz que basta inserir a cápsula e apertar um botão. O app já se desconectou da conta dela, mas o preparo nunca falhou."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Quanto custa a NEO com o CECI",
+        "paragraphs": [
+          "Com o CECI, a máquina sai por R$ 719,10 no nosso teste. Sem o código, a loja vende a NEO a partir de R$ 799. Confira as regras do [cupom Dolce Gusto](/cupons/dolce-gusto) antes de comprar.",
+          "A página da máquina mostrava o aviso “No momento, a máquina NEO está indisponível para compra”. No nosso teste de 19/11, porém, o carrinho aceitou a máquina e aplicou o CECI. Não testamos a finalização, então confira no carrinho antes de pagar.",
+          "Nas cápsulas, os 10% só entram com a máquina no pedido ou a partir de 5 caixas, porque o CECI vale em compras a partir de R$ 100. Cinco caixas de NEO somam R$ 101,15 (5 × R$ 20,23), e aí cada caixa sai por R$ 18,21 com o código.",
+          "Cada xícara de NEO sai por R$ 1,82 com o CECI. No teste do cupom de 12/11, a caixa de 10 cápsulas de Espresso Intenso Original custava R$ 19,99, ou R$ 1,80 por xícara com o código. Café preto contra café preto, os dois sistemas ficam praticamente no mesmo preço; as leituras são de dias diferentes, então confira os dois no dia.",
+          "O frete grátis acima de R$ 100 não vale para a máquina: a faixa da loja diz “Não válido para pedidos de máquinas”.",
+          "As cápsulas NEO também têm assinatura. No nosso teste, o CECI somou com a assinatura em pedido a partir de R$ 100; o [guia da assinatura](/reviews/assinatura-dolce-gusto-vale-a-pena) mostra a conta."
+        ],
+        "bullets": [],
+        "comparisonTable": {
+          "caption": "Preços da loja e com o CECI, no nosso teste",
+          "headers": [
+            "Compra",
+            "Sem o código",
+            "Com o CECI",
+            "Por xícara com o CECI"
+          ],
+          "rows": [
+            [
+              "Máquina NEO N1",
+              "R$ 799,00",
+              "R$ 719,10",
+              "—"
+            ],
+            [
+              "Caixa de 10 cápsulas NEO, na campanha",
+              "R$ 20,23",
+              "R$ 18,21",
+              "R$ 1,82"
+            ],
+            [
+              "Máquina e uma caixa",
+              "R$ 819,23",
+              "R$ 737,31",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "NEO ou Genio S",
+        "paragraphs": [
+          "A diferença que muda a decisão está nas bebidas e na cápsula. A Genio S Touch usa cápsulas Original, e nelas dá para tomar leite, chá e chocolate. A NEO faz só café preto, com cápsula de papel.",
+          "No nosso review da Genio S Touch, a máquina pinga entre um preparo e outro. Na experiência da Cecília, a NEO não pinga. Se a casa toma cappuccino, chá ou chocolate, a Genio S faz mais sentido. Para quem quer só café preto e cápsula de papel, a NEO basta.",
+          "Para comparar a família toda, veja [quais máquinas Dolce Gusto escolher](/reviews/dolce-gusto-maquinas-qual-escolher) e [as versões Basic, Plus e Touch da Genio S](/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch)."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Veredito",
+        "paragraphs": [
+          "A NEO vale a pena para quem toma café preto todos os dias. A Cecília toma de 1 a 2 xícaras por dia e a máquina dá conta dessa rotina. Ela sentiria falta de um chá, mas leite e descafeinado não fazem falta para ela.",
+          "Quem quer cappuccino, latte ou chocolate não deve comprar a NEO. Quem quer aproveitar as cápsulas Original que já tem também não: elas não entram na NEO."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Posso usar cápsula Original na NEO? Não. A loja diz que a NEO aceita só cápsulas NEO.",
+          "Cápsula NEO funciona na Dolce Gusto antiga? Só alguns cafés NEO, os Espressos e o Lungo Chapada Diamantina, e só nos modelos Original que aceitam o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e).",
+          "A NEO faz cappuccino ou latte? Não. Ela faz só cafés pretos: Ristretto, Espresso, Lungo, Caseiro e Americano.",
+          "Tem NEO descafeinado? Não, entre os oito cafés da categoria da loja na nossa leitura.",
+          "Precisa de Wi-Fi para usar? Não. Dá para preparar com um toque. O app serve para ajustar temperatura e volume e para os pontos do Club.",
+          "Cápsula de outra marca serve na NEO? A loja diz que só as cápsulas NEO servem. O [guia de cápsulas compatíveis](/reviews/dolce-gusto-capsulas-compativeis-guia) mostra o que serve em cada máquina.",
+          "Quanto custa a NEO? A partir de R$ 799 na loja; R$ 719,10 com o CECI no nosso teste.",
+          "O CECI vale na NEO? Sim. No nosso teste, o código deu 10% de desconto na máquina no carrinho."
+        ]
+      }
+    ],
+    "rating": 4,
+    "gallery": [
+      {
+        "url": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
+        "alt": "Cecília com a cafeteira Dolce Gusto NEO branca na cozinha"
       }
     ]
   }
