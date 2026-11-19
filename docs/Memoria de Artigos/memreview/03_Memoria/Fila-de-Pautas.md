@@ -10,6 +10,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
+| SF4 e SF5 | Como usar o autobronzeador Skelt, com a seção "mancha a roupa e o lençol?" (GO do Bruno, 19/11) | Skelt | PT | [[autobronzeador-skelt-como-usar]] e fatos [[skelt-fatos-1811]] | Redação. Reler no dia os tempos de ação e os preços; o texto diz 10% e não crava valor com o código |
 | CH1 | Cléa Store ou Hering: camiseta feminina oversized e de algodão peruano (prioridade do Bruno, 08/11; guia pelas fichas, sem teste da peça) | Cléa Store | PT | [[clea-store-ou-hering-camiseta-feminina]] | No ar desde 08/11 (id 865, #759) |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação |
@@ -97,6 +98,19 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 ### Propostas sem GO
 
+**Nestlé Nutre (19/11/2026): mais vendidos da loja.** O Bruno mandou a vitrine de mais vendidos para avaliar pautas. Fatos e sinais em [[nestle-nutre-mais-vendidos-fatos-1911]]. Nenhum rótulo foi lido ainda.
+
+| Código | Pauta | Parceiros | Busca | Nota |
+|---|---|---|---|---|
+| NM1 | Nutren Active: para que serve, como tomar e a diferença para o Senior e o Protein | Nestlé Nutre | Trends 21; "ou senior", "ou protein", "ou whey" | Menor risco; sem artigo nosso |
+| NM2 | Nestonutri ou Ninho Fases (1 a 3 anos) | Nestlé Nutre | Trends 51; três variações de "ou ninho fases" | 1 a 3 anos: rótulo, `notice` e pediatra. Conferir a sobreposição com os artigos do Nanlac e do Ninho |
+| NM3 | Nestonutri e Nestogeno é a mesma coisa? | Nestlé Nutre | Uma variação exata | Nestogeno tem 0 a 12 meses: risco alto; talvez pergunta da NM2 |
+| NM4 | Nutren Control: para que serve e a tabela nutricional | Nestlé Nutre | Trends 40 | Controle de glicemia: só rótulo, com médico ou nutricionista |
+| NM5 | Nutren Control ou Glucerna | Nestlé Nutre | Três variações | Tabela contra tabela |
+| NM6 | Nutren Fortify ou Nutren Senior | Nestlé Nutre | Trends 5; duas variações | Só rótulo |
+| NM7 | Novasource Proline: para que serve | Nestlé Nutre | Trends 16; "cicatrização", "ou cubitan" | Uso clínico: maior risco; decisão do Bruno antes |
+| NM8 | Kit degustação Nutren (Senior e Control) | Nestlé Nutre | Sem medida | Pode ser seção do `nutren-senior-kit-combo-ou-assinatura` |
+
 **Skelt (18/11/2026): marcas de farmácia e reteste do código.** Fatos em [[skelt-fatos-1811]]. O `SKEMCASACOMCECILIA` deu 5% sobre o preço da campanha November Glow em cinco carrinhos (o teste de 11/11 tinha dado 10%); com o site inteiro em promoção, o Bruno testou no site e viu 5% em todos os códigos de parceiros. Decisão dele (18/11): os textos seguem com 10% em todo lugar; preço com o código se relê no carrinho no dia.
 
 | Código | Pauta | Parceiros | Busca | Nota |
@@ -104,9 +118,9 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | SF1 | Skelt ou Panvel Glow: qual autobronzeador | Skelt | Trends: "autobronzeador panvel" 8 contra 30 da Skelt | A Panvel custa de 2 a 3 vezes menos no mousse; a Skelt declara 7 a 12 dias contra "até 7" |
 | SF2 | Skelt ou Episol Gold (Mantecorp): água autobronzeadora | Skelt | Trends 1; "ou episol" e "ou mantecorp" | **GO do Bruno em 18/11; briefing em [[skelt-ou-episol-gold]] (18/11), espera a redação.** Mesmo tamanho e mesma duração declarada (7 a 12 dias). Preço pelo site oficial de cada marca (Bruno, 19/11): Episol R$ 99,90; Skelt com o código R$ 91,73 na campanha (ganha) e R$ 107,91 na tabela (perde por pouco); a Dark sai bem abaixo em promoção. A Skelt tem duas intensidades |
 | SF3 | Skelt ou Australian Gold | Skelt | Trends 1 | Falta ler o mousse da Australian Gold; a Kakadu é loção de manutenção |
-| SF4 | Autobronzeador Skelt: como usar, passo a passo | Skelt | Muitas variações de "como usar" no autocompletar | Conferir a sobreposição com o `autobronzeador-skelt-qual-escolher` |
-| SF5 | Autobronzeador mancha a roupa e o lençol? | Skelt | "mancha a roupa", "mancha lençol" | Pode virar seção da SF4 |
 | SF6 | Protetor solar Skelt Summer Vibes | Skelt | "skelt protetor solar" com seis variações | Linha não lida |
+
+A SF4 e a SF5 têm briefing desde 19/11 (seção 1). SF1, SF2, SF3 e SF6 ficam guardadas aqui (Bruno, 19/11).
 
 **Donna Carioca (18/11/2026): a marca negou a afiliação e o Bruno quer posicionar "Alternativas à Donna Carioca".** Moda fitness, beach tennis e praia; entra como referência, sem link, cupom, foto ou print. Fatos e leituras em [[donna-carioca-fatos-1811]]. Nenhuma tem GO.
 
