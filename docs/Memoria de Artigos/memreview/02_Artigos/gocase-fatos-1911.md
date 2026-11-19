@@ -4,9 +4,9 @@ Parceira nova (19/11/2026), página `/cupons/gocase` (#1237). Dossiê em `01_Par
 pesquisa semente do Job 1: busca, Trends, reputação, vitrine e as pautas propostas. Leituras de 19/11/2026:
 autocompletar pelo serviço de sugestões do Google (`client=firefox`, `hl=pt-BR`, `gl=br`, sem login, 29 consultas,
 nenhum bloqueio), Google Trends (Brasil, 12 meses, aba aberta pelo Bruno no navegador do app), Reclame Aqui e home no
-navegador do app, sem login, sem finalizar compra e **sem abrir o link de afiliado**. **Nenhuma pauta tem GO.**
+navegador do app, sem login, sem finalizar compra e **sem abrir o link de afiliado**. **GO do Bruno em 19/11/2026 no pacote todo (GC1 a GC6): briefings na seção 1 da Fila.**
 
-## 1. Pacote inicial proposto (sem GO)
+## 1. Pacote inicial (GO em 19/11, com briefing)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 19/11) |
 |---|---|---|---|---|
@@ -92,7 +92,15 @@ navegador do app, sem login, sem finalizar compra e **sem abrir o link de afilia
 
 ## 6. Perguntas para o Bruno
 
-1. Quais pautas do pacote têm GO (GC1 a GC6)?
+1. Respondida em 19/11: GO no pacote todo.
 2. A Cecília tem produto da Gocase? Sem isso, a GC5 sai pelo que a loja informa.
 3. A parceira passou as regras da GoBlack ou da Black Friday (datas, frete, se o CECILIAA soma com o "Leve 2, Pague 1")?
 4. Como o teste do cupom pede CPF, os carrinhos da GC6 na semana de 27/11 dependem de você.
+
+## 7. Leituras a mais de 19/11/2026 (para os briefings)
+
+- **Rodapé** (`/quem-somos`): GO COMÉRCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA, CNPJ 22.165.464/0003-52, Rodovia Fernão Dias, Km 9745, Bairro dos Pires, Extrema (MG), condomínio logístico. O perfil do Reclame Aqui traz 22.165.464/0001-90: mesma raiz, estabelecimentos diferentes.
+- **Quem somos:** "Há mais de 10 anos personalizando do seu jeito!", "+5M de golovers", "+3000 influencers"; lojas em Fortaleza, Brasília e São Paulo.
+- **Popup do cadastro por e-mail:** "VOCÊ GANHOU ATÉ 70% OFF NO SITE + (1) PRODUTO GRÁTIS": nunca citar.
+- **Garrafa Térmica Fresh + Ebook** (ficha): 650, 950 e 1200 ml; inox 304 (18/8); parede dupla a vácuo; livre de BPA; até 24h gelada e até 12h quente; tampa na lava-louças, corpo à mão; não recomendada para gaseificados; garantia de 1 ano contra defeitos de fabricação; cores com acréscimo de R$ 20 a R$ 30. O ebook não é explicado na ficha.
+- **Campanha:** página `/lp/piscou-perdeu-bf26/`.
