@@ -164,3 +164,57 @@ Estoque, sem saída hoje: "legging donna carioca é transparente" (só com peça
 3. Donna Carioca: composição do tecido, política de troca, frete e o que a Black Friday dela faz com os preços da seção 3.
 4. Reclame Aqui: os três perfis, abertos.
 5. Bruno: a Cecília tem peça da Insider ou da Toda Up em uso? Sem isso, nada de "veste melhor".
+
+## 9. Leituras para a DC1 e a DC3 (18/11, noite)
+
+O Bruno quis seguir com a Donna Carioca depois da DC2. Estas leituras fecham os itens 1 a 4 da seção 7.
+
+**Donna Carioca, central de ajuda e política (para a DC3 e para a conta da DC1).**
+- **Loja física:** não tem. "Todas nossas vendas são exclusivamente feitas pela nossa loja virtual." Responde "donna carioca loja física", em ascensão no Trends.
+- **Empresa:** GTN Indústria e Comércio Ltda., CNPJ 40.840.857/0001-34, Nova Friburgo (RJ). O mesmo CNPJ no rodapé do site e no perfil do Reclame Aqui.
+- **Pedido mínimo:** não há.
+- **Frete:** Sul e Sudeste, R$ 9,90 fixo em pedidos de R$ 149 a R$ 299; demais regiões, R$ 19,90 fixo de R$ 199 a R$ 299; grátis acima de R$ 299 em todo o Brasil. Abaixo das faixas, pelo CEP. Entrega padrão ou expressa, por Correios ou transportadora.
+- **Pagamento:** até 10x no cartão (parcela mínima de R$ 29,90); Pix parcelado em 4x. **Divergência dela:** a central de ajuda diz "PIX com 10% de desconto" e a vitrine dizia "5% OFF no Pix à vista" em 18/11. Vale o do carrinho; o texto não crava o percentual.
+- **Promoções fixas:** Leve 3, Pague 2 (peças com o selo; o desconto cai na mais barata) e Desconto Progressivo (15% com 2 peças, 20% com 3, 25% com 4 e 30% acima de 4, só nas peças do selo).
+- **Black Friday:** página "Black Donna", com o título "até 70% de desconto"; em 18/11 a vitrine mostrava conjuntos (R$ 129,90 a R$ 199,90, de R$ 169,80 a R$ 249,80). Sem regulamento lido.
+- **Troca:** já na seção 8 (7 dias corridos; 90 dias para defeito; reembolso em crédito aparece na política).
+
+**Reclame Aqui, perfis de nome parecido.**
+- `/empresa/dona-carioca/`: o oficial (seção 8).
+- `/empresa/outlet-donna-carioca/` (outletdonnacarioca.com): não verificado, sem reputação, zero reclamação de 01/05 a 31/10/2026.
+- `/empresa/donna-carioca/` (lojadonnacarioca.com): o cartão da busca mostrava 18 reclamações de manhã; à noite a página dava 404. Não afirmar nada sobre esse domínio.
+- **Para a DC3:** dá para dizer qual é o domínio oficial (donnacarioca.com.br, com o CNPJ acima) e que existem perfis com o nome em outros domínios. Não dá para chamar nenhum de golpe: nenhuma fonte lida diz isso.
+
+**Insider, peças avulsas femininas (preço de lista, sem código).**
+
+| Linha | Insider | Donna Carioca (mediana dos 50 mais vendidos) |
+|---|---|---|
+| Top | Action e Energy R$ 99; Sustentia R$ 149; IN-ACTION R$ 159; Modern INSKIN R$ 175; NakedFeel R$ 189 a R$ 209 | R$ 89,90 |
+| Short | Motion curto R$ 119 a R$ 137; médio R$ 139 a R$ 149; longo R$ 149 a R$ 165; INSCULPT R$ 129 a R$ 155; Sustentia R$ 149; Endorphine R$ 167 a R$ 239 | R$ 98,72 |
+| Legging | Easy R$ 169 a R$ 177; IN-ACTION R$ 179 a R$ 199; Sustentia R$ 199; DopamIN, INSKIN, INSCULPT e NakedFeel de R$ 245 a R$ 359 | R$ 169,90 |
+| Short saia | UltraBold R$ 299 | R$ 89,93 a R$ 117,53 |
+| Praia | Maiô Timeless e top de biquíni, poucas peças | linha inteira |
+
+- **Grade:** as linhas Motion, Easy, Action e Energy vão de PP a XGG; o Endorphine até XXGG; as Seamless (IN-ACTION, Sustentia) de P a GG.
+- **Leitura:** a entrada da Insider (top de R$ 99, short de R$ 119, legging de R$ 169) fica perto da mediana da Donna Carioca, e com o código de primeira compra fica abaixo em top e legging. Mas a Donna Carioca tem Pix, Leve 3 Pague 2 e progressivo de até 30%: quem compra três peças paga menos lá. **A Insider não ganha no preço do conjunto; ganha na grade e em peça única.**
+
+**SHEIN, busca do site (br.shein.com, 18/11), preço dos cartões da primeira página.**
+
+| Busca | Cartões | Mediana |
+|---|---|---|
+| legging fitness feminina | 239 | R$ 37,51 |
+| top fitness feminino | 221 | R$ 26,69 |
+| macaquinho fitness feminino | 239 | R$ 36,90 |
+| short saia beach tennis | 230 | R$ 51,19 |
+| vestido beach tennis | 230 | R$ 76,48 |
+
+- A busca de legging tem filtro de tamanho "Curva" (0XL em diante) e de característica "não transparente".
+- **Leitura grossa:** os cartões misturam vendedores, kits e acessórios, e os mínimos não servem. A mediana mostra a ordem de grandeza: a SHEIN custa menos da metade em legging, top e macaquinho. É a alternativa de preço e de tamanho grande, e a única parceira com beach tennis. Antes do briefing, escolher peças uma a uma (vendedor, composição, avaliações) como nos SV1 e SV2.
+
+**Como fica a DC1.** Três motivos de troca, cada um com a sua parceira:
+1. Pagar menos: SHEIN (loja de link, sem código nosso de desconto fixo).
+2. Tamanho que a Donna Carioca não faz (PP, XGG, plus): Insider e SHEIN.
+3. Uma peça só, com ficha de tecido e troca mais longa: Insider (top, short, legging) e Toda Up (calcinha e top segunda pele, 30 dias de troca).
+Quem quer conjunto de academia barato com frete grátis acima de R$ 299 fica na Donna Carioca, e o texto diz.
+
+**Como fica a DC3.** Tem os fatos: perfil verificado e "Ótima" no Reclame Aqui (8,3; 88,7% resolvidas; 73,2% voltariam), CNPJ, endereço da fábrica, sem loja física, política de troca, frete e a queixa mais comum (produto não recebido, 21,31%). Faltam: as matérias sobre a marca ("é da Virginia", "é de onde"), que não foram lidas, e o Mercado Livre e a Shopee oficiais.

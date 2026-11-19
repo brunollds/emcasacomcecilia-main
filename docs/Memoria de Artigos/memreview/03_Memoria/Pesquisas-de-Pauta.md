@@ -18,6 +18,7 @@ A Donna Carioca negou a afiliação e o Bruno pediu para posicionar "Alternativa
 - **Preço:** a Donna Carioca é mais barata que a Toda Up e a Insider em calcinha (kit de 6 por R$ 77,90 a R$ 111,00, contra R$ 35 a R$ 50 a unidade), top e short. A legging Easy da Insider (R$ 169 a R$ 177) fica na mediana dela.
 - **Onde a parceira ganha:** grade (Insider de PP a XGG; a Donna Carioca de P a GG), compra por unidade e ficha do tecido. Beach tennis e praia só na SHEIN, sem leitura.
 - **DC2 com GO (18/11):** relida a busca, "calcinha para academia" é pequena (Trends 3, contra 82 de "calcinha sem costura"), e o autocompletar não devolve nada com "calcinha". O título leva "sem costura". Diferença conferível: o forro (modal na Insider, GraphCare na Toda Up; a página da Donna Carioca não fala de forro).
+- **DC1 e DC3, leituras de 18/11 à noite (ficha, seção 9):** a SHEIN custa menos da metade em legging, top e macaquinho (mediana da busca) e tem tamanho Curva; a Insider avulsa encosta na mediana da Donna Carioca, que responde com Pix, Leve 3 Pague 2 e progressivo de até 30%. A Donna Carioca não tem loja física e é "Ótima" e verificada no Reclame Aqui. A DC1 passa a ter três motivos de troca com parceira em cada um.
 - **Conclusão:** vale posicionar, mas a DC1 sozinha não tem busca nem vantagem de preço. O caminho mais firme é a categoria ("calcinha para academia") e a pauta de confiança, com a DC1 no meio ligando as três.
 
 ---
