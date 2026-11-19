@@ -19,7 +19,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | SF4 e SF5 | Como usar o autobronzeador Skelt, com a seção "mancha a roupa e o lençol?" (GO do Bruno, 19/11) | Skelt | PT | [[autobronzeador-skelt-como-usar]] e fatos [[skelt-fatos-1811]] | No ar em 19/11 (#1207, release 7a7782a4; id 1076). |
 | CH1 | Cléa Store ou Hering: camiseta feminina oversized e de algodão peruano (prioridade do Bruno, 08/11; guia pelas fichas, sem teste da peça) | Cléa Store | PT | [[clea-store-ou-hering-camiseta-feminina]] | No ar desde 08/11 (id 865, #759) |
 | DG1 | Dolce Gusto NEO vale a pena? (review da Cecília) | Dolce Gusto | PT | [[dolce-gusto-neo-vale-a-pena]] | No ar em 19/11 (release f62d56ac5), com o parecer do Farol (#1218) e IndexNow |
-| DG2 | Dolce Gusto não sai água, não liga ou pisca a luz vermelha (guia) | Dolce Gusto | PT | [[dolce-gusto-nao-sai-agua-luz-vermelha]] | Espera os manuais da Genio S Touch e da Mini Me (fotos ou PDF, seção 8 do briefing); sem eles, sai só com a NEO por luz |
+| DG2 | Dolce Gusto não sai água, não liga ou pisca a luz vermelha (guia) | Dolce Gusto | PT | [[dolce-gusto-nao-sai-agua-luz-vermelha]] | Pronto para redação: manuais da Genio S e da Mini Me 2 transcritos em 19/11 (seção 8 do briefing) |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação |
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação |

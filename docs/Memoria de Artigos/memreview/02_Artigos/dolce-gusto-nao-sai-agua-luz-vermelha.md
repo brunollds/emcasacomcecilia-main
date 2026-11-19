@@ -8,8 +8,8 @@ reviewKind: "guia"
 type: "Guia Prático"
 status: "pauta-aprovada"
 responsavel: "-"
-proxima_acao: "manuais da Genio S Touch e da Mini Me (seção 8), depois redação (Job 2)"
-bloqueado_por: "páginas de solução de problemas dos manuais da Genio S Touch e da Mini Me (seção 8)"
+proxima_acao: "redação (Job 2)"
+bloqueado_por: "-"
 data_criacao: "2026-11-19"
 modo_i18n: "somente-pt"
 idioma_fonte: "pt"
@@ -85,7 +85,7 @@ Cada página tem um código ("n1-…") que o SAC pede. O texto cita o código.
 - **Rodapé do FAQ:** "Não encontrou uma solução?" com WhatsApp e o telefone da Arno.
 - **Luz laranja:** descalcificação, coberta pelo `dolce-gusto-descalcificacao-passo-a-passo`.
 - **Mini Me, piscar vermelho no começo:** o `dolce-gusto-mini-me-2-0-vale-a-pena` (teste do Bruno) diz que o LED pisca vermelho por 20 a 30 segundos enquanto a máquina aquece, até ficar verde. É o uso normal, não defeito: vai à tabela com link para o review.
-- **Busca externa, a conferir no manual brasileiro:** o manual da Mini Me diria que o vermelho piscando sem parar é desligamento de proteção contra superaquecimento, com 20 minutos para esfriar. Não entra antes da seção 8.
+- **Busca externa sobre o vermelho piscando sem parar:** confirmada pelo manual brasileiro (seção 8): é o botão da temperatura piscando rápido em vermelho; tirar da tomada e esperar 20 minutos.
 - **Central de ajuda da loja por modelo:** NEO, Mini Me e Drop têm página de manual; a Lumio cai na página geral; Genio S Basic, Plus, Touch e Infinissima levam ao FAQ.
 
 ## 6. Esqueleto (H2)
@@ -116,15 +116,49 @@ O CECI entra numa frase no capítulo 9 ou no fim, para quem desistiu do conserto
 - "Qual o telefone da assistência técnica da Dolce Gusto?" (SAC e Arno)
 - "Como restaurar a NEO para a configuração de fábrica?" (só quando o SAC pedir)
 
-## 8. Pendente do Bruno (bloqueio): manuais das máquinas Original
+## 8. Manuais das máquinas Original (fotos do Bruno, 19/11/2026)
 
-Para as tabelas da Genio S Touch e da Mini Me, uma destas:
-1. **Fotos** da página "Solução de problemas" (ou "Problemas e soluções") e da página das luzes do manual impresso da **Genio S Touch** e da **Mini Me 2.0** que estão em casa, como as de 30/09 da descalcificação; ou
-2. **Os PDFs** salvos pelo navegador numa pasta do computador: `nescafe-dolcegusto.com.br/media/Manual_Mine_Me.pdf` (abre em `/mini-me-documentacao`) e, se quiser cobrir a Drop, `/media/Manual_Drop.pdf`. Com o PDF salvo, a sessão extrai o texto.
+Fotos dos manuais impressos da casa, em `C:\Users\Bruno\Downloads\LocalSend\20261119_1512*.jpg` a `20261119_1518*.jpg` (9 fotos). Fonte do texto: o manual, sem acréscimo.
 
-Com isso a tabela das Original fica por modelo. Sem isso, o artigo sai só com a NEO por luz e, para as Original, com os passos gerais e os telefones. Nesse caso o título passa a ser "Dolce Gusto NEO: o que cada luz quer dizer e o que fazer" e o "não sai água" das Original perde força.
+**Genio S (manual da casa, capítulo 10 "Resolução de problemas", p. 20 a 23; código 1520017212).** Painel com barras de volume (até XL) e ícone de temperatura. O manual não traz o nome do modelo na página fotografada: o Job 2 confere no começo do manual se é a Genio S Touch ou a Plus e nomeia assim.
 
-Se a Cecília ou o Bruno já tiveram um desses defeitos (luz, vazamento, ligação para a Arno), uma frase com o que aconteceu.
+| Sinal ou problema | O que o manual manda |
+|---|---|
+| Indicador de descalcificação aceso em laranja (10.1) | Descalcificar (cap. 9, "no mínimo a cada 3–4 meses"). Link para o `dolce-gusto-descalcificacao-passo-a-passo` |
+| Não sai líquido, preparo para ou não começa, barras piscam no nível atual (10.2) | Reservatório talvez vazio: encher com água potável fresca e tocar o ícone liga/desliga para continuar. Se não sair, ir ao 10.3 |
+| Não sai líquido, cápsula obstruída ou sob pressão (10.3) | Manter a máquina em pé; tocar liga/desliga para parar; **não tirar da tomada**. Não beber o café; abrir a alavanca (a máquina libera a pressão), tirar o suporte, cápsula no lixo. Testar sem cápsula: se a água sair, a cápsula tinha falha, usar outra. Se não, 10.4 |
+| Não sai líquido, injetor bloqueado (10.4) | Bandeja vazia; tirar a agulha de limpeza (longe das crianças); tirar da tomada, tirar o suporte, abrir a alavanca e limpar o injetor com a agulha; depois descalcificar |
+| Não liga (10.5) | Cabo na tomada e energia; se não ligar, linha de assistência |
+| Fluxo da bebida muito disperso (10.5) | Parar o preparo, cápsula no lixo, limpar o suporte, cápsula nova |
+| Bebida mais lenta (ou aos pingos) ou mais fria (10.5) | Descalcificar |
+| Ícone de temperatura pisca rápido (vermelho) (10.5) | Conferir se a cápsula está obstruída (10.3); tirar da tomada, **esperar 20 minutos**, religar. Se continuar piscando, linha de assistência |
+| Água embaixo ou em volta da máquina; água limpa vaza em volta do suporte durante o preparo (10.5) | Tirar da tomada e ligar para a assistência ou abrir o site |
+| Água espirrando da saída do café no enxágue ou na descalcificação (10.5) | Pôr a ferramenta de enxágue no suporte e o suporte na máquina |
+
+**Mini Me 2 (manual UM-MM2-BR-11/2025, "Resolução de problemas" 1/3 a 3/3, p. 21 a 23).**
+
+| Sinal ou problema | O que o manual manda |
+|---|---|
+| Não liga | Cabo e energia; se não ligar, assistência ao consumidor |
+| Botão Iniciar mudou para laranja | Descalcificar (seção "Descalcificação", p. 19) |
+| Botão da temperatura pisca rápido em vermelho | Conferir se a cápsula está presa (seção "cápsula/injetor bloqueado"); tirar da tomada, **esperar 20 minutos**, religar. Se o Iniciar continuar piscando em vermelho, assistência |
+| Não sai líquido, sem água: preparo para no meio ou não começa, Iniciar pisca em verde | Encher o reservatório com água potável fresca e apertar Iniciar para continuar |
+| Não sai líquido, cápsula ou injetor bloqueado | 1. Máquina em pé; apertar Iniciar para parar; **não abrir a alavanca à força**, esperar 20 minutos para a pressão baixar. 2. Não beber o café; levantar a alavanca, tirar o suporte, cápsula no lixo. 3. Enxaguar (seção "Primeira utilização"); lavar o suporte com detergente líquido e água; enxaguar a bandeja e limpar com escova. 4. Fechar a alavanca, tirar o reservatório e a agulha de limpeza (longe das crianças). 5. Tirar da tomada, tirar a bandeja, inclinar a máquina, **nunca tocar o injetor com o dedo**, limpar o injetor com a agulha; depois descalcificar |
+| Bebida mais lenta (ou aos pingos) ou mais fria | Descalcificar com o descalcificador líquido da marca (pedido pela assistência) |
+| Bebida sai da saída do café aos espirros | Parar com Iniciar, cápsula no lixo, cápsula nova |
+| Água espirrando no enxágue ou na descalcificação | Ferramenta de enxágue no suporte |
+| Água embaixo ou em volta da máquina; vaza em volta do suporte no preparo | Tirar da tomada; assistência ou site |
+
+**O que isso muda no esqueleto:**
+- O "vermelho piscando sem parar" das Original é o **botão ou ícone da temperatura piscando rápido**, nos dois manuais: tirar da tomada e esperar 20 minutos, depois assistência. O piscar vermelho de 20 a 30 s no começo da Mini Me (review) segue como aquecimento normal. O H2 6 separa os dois.
+- "Não sai água" tem três causas na ordem dos manuais: reservatório, cápsula, injetor. O H2 4 segue essa ordem e manda testar sem cápsula (Genio S).
+- **Vazamento (H2 7):** os dois manuais mandam tirar da tomada e chamar a assistência. Nada de conserto caseiro.
+- **Contradição aparente entre os manuais:** a Genio S diz "não tire o cabo da tomada" para parar um preparo com cápsula travada (10.3), e manda tirar da tomada antes de limpar o injetor (10.4). A Mini Me manda esperar 20 minutos antes de abrir a alavanca. O texto segue cada manual no seu passo, sem misturar.
+- **Agulha de limpeza:** vem com a máquina (Genio S: presa perto da bandeja; Mini Me: atrás do reservatório). Citar onde fica, porque "desentupir" é uma busca do autocompletar e a resposta oficial é essa agulha.
+- **Telefone:** a contracapa dos dois manuais traz o Brasil (BR) como **0800 776 2233**, o mesmo SAC das páginas da NEO, e o Reino Unido (GB) como 0800 707 6066, o número que aparece por engano em duas páginas da NEO. A Arno (11) 2060-9777 segue pelo FAQ da loja.
+- Título original mantido (a cobertura por modelo saiu). As outras Original (Piccolo, Lumio, Drop, Infinissima) ficam com a regra geral e o "consulte o manual do seu modelo".
+
+Fotos do manual no artigo: só se ajudar, com a regra de 30/09 (crédito na legenda, uso ilustrativo). Experiência com defeito: nenhuma registrada; o texto não inventa.
 
 ## 9. Snippet e nota
 
@@ -134,7 +168,7 @@ Se a Cecília ou o Bruno já tiveram um desses defeitos (luz, vazamento, ligaç�
 ## 10. Riscos
 
 - **Diagnóstico inventado:** cada causa e cada solução saem da página oficial ou do manual. Nada de "pode ser a bomba", "troque a vedação", "desentupa com agulha" sem o manual dizer. A busca "como desentupir" fica sem resposta caseira: o texto manda ao manual e à assistência.
-- **Segurança:** água quente sob pressão e tomada. Nada de abrir a máquina; nada de tirar da tomada durante a descalcificação (o manual da Genio S Touch proíbe).
+- **Segurança:** água quente sob pressão e tomada. Nada de abrir a máquina; nada de tirar da tomada durante a descalcificação (o manual da Genio S Touch proíbe); nada de abrir a alavanca à força nem tocar o injetor com o dedo (Mini Me); não beber o café da cápsula travada (os dois).
 - **Telefones:** o 0800 707 6066 das páginas da NEO é o do Reino Unido; o texto usa 0800 776 2233 (SAC) e (11) 2060-9777 (Arno). Reler no dia.
 - **Garantia:** quem dá é a Arno, pela documentação do produto (Termos da loja). Sem prometer cobertura.
 - **Modelos fora de linha:** a Genio S Plus saiu de linha no Reino Unido; no Brasil a Arno ainda vende a DGS2 e a DGS3. Não afirmar fim de linha no Brasil.
@@ -149,3 +183,4 @@ Se a Cecília ou o Bruno já tiveram um desses defeitos (luz, vazamento, ligaç�
 ## Decisões
 
 - **19/11/2026:** GO do Bruno ("Vamos pro DG2"). Vira guia. A NEO entra completa pelas páginas oficiais; as Original esperam os manuais (seção 8).
+- **19/11/2026:** fotos dos manuais da Genio S e da Mini Me 2 recebidas e transcritas (seção 8). Bloqueio retirado; segue para a redação.
