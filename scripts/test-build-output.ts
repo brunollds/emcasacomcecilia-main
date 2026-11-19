@@ -1033,7 +1033,7 @@ function codeSeasonNoticeProblems(body: string, cutouts: readonly string[], noti
     if (found !== 1) problems.push(`recorte ${index + 1}: ${found} avisos de temporada em vez de 1`);
   });
   for (const wrapper of wrappers) {
-    if (!/^<div[^>]*sdata-nosnippet=""/.test(wrapper)) problems.push('aviso de temporada sem data-nosnippet');
+    if (!/^<div\b[^>]*\sdata-nosnippet=""/.test(wrapper)) problems.push('aviso de temporada sem data-nosnippet');
     const text = textOf(wrapper);
     if (text !== (notice.inHtml ? notice.text : '')) problems.push(`aviso de temporada com "${text}" (no HTML do build: ${notice.inHtml})`);
   }
@@ -2116,7 +2116,7 @@ for (const url of articleUrls) {
   if (ownLimitedCodes.length > 0) limitedCodeArticles++;
   // O aviso de temporada vai no recorte do topo e no do fim; a lateral, o dock e as linhas do artigo de várias lojas não o levam.
   const noticeCutouts = storeBlock?.codeNotice
-    ? [...body.matchAll(/<section[^>]*sdata-recorte="(?:top|end)"/g)].map((match) => elementAt(body, match.index))
+    ? [...body.matchAll(/<section\b[^>]*\sdata-recorte="(?:top|end)"/g)].map((match) => elementAt(body, match.index))
     : [];
   assert.deepEqual(codeSeasonNoticeProblems(body, noticeCutouts, storeBlock?.codeNotice), [], `${pagePath}: aviso de temporada`);
   if (storeBlock?.codeNotice) {
