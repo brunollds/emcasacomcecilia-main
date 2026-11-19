@@ -9,7 +9,7 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
 anexo_tipo: "Anexo-Casa-Malas"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2), depois da CD1"
 bloqueado_por: "-"
@@ -72,3 +72,17 @@ Sem quadro `decision`.
 | Frete grátis acima de R$ 599; prazo pelo CEP | A loja informa: | página de frete | verificado |
 | 1ª devolução grátis | A loja informa: | carrinho, 19/11 (dossiê) | verificado; reler |
 | PRIMEIRAVEZ ou outro código | - | fora | não escrever |
+
+## Redação, revisão e mídia (19/11/2026, sessão de artigos)
+
+**Job 2.** Escrito em `content/reviews/cupom-colaedecora-primeira-compra.json` (id 1112), pelo briefing e pelas leituras do dia.
+
+**Job 3 (Fable 5.2, uma rodada para os seis).** Aprovado com ajustes, aplicados pelo próprio revisor: atraso dito sem suavizar ("o atraso na entrega é a queixa mais comum"), claims sem fonte retirados (reuso do código, idade nas fichas, "proteção lateral" da Noah), bastidor fora ("que lemos"). O perfil do Reclame Aqui foi relido em 19/11: 18 avaliadas, 88,2% e 47,1%, como o texto diz.
+
+**Job 4.** Só PT. Âncora "cupom Cola e Decora" para `/cupons/colaedecora` uma vez.
+
+**Job 6.** Capa no painel lateral verde (logo num quadro branco, chamada, código EMCASACOMCECILIA), fotos oficiais do site da loja (Loja Integrada, `cdn.awsli.com.br`), só de quarto ou de produto, sem criança; "Foto: Cola e Decora" nas legendas. As 13 imagens novas foram ao CDN com o sim do Bruno em 19/11 (folha `FOLHA-APROVACAO-CD.jpg`).
+
+**Leituras do dia (19/11, Chrome).** Campanha: "Ofertas da Live" (selo "Oferta de Live", "Só hoje"), sem o nome Black Friday na home. Frete: a página diz acima de R$ 599 "para todo o Brasil" e a gaveta do carrinho, "* Para as regiões Sul e Sudeste" (divergência mantida no texto, com atribuição). Fichas das sete camas (Baixa, Bella, Nina, Cercadinho, Cercadinho Casal, Noah, Casinha): nenhuma traz prazo de produção; a Nina aguenta até 90 kg, as outras até 100 kg; garantia de 30 dias em todas.
+
+Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.

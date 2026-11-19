@@ -1,0 +1,274 @@
+{
+  "id": 1109,
+  "slug": "cama-montessoriana-colaedecora",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASACOMCECILIA",
+  "affiliate": "colaedecora",
+  "title": "Cama montessoriana Cola e Decora: Baixa, Bella, Nina, Cercadinho e Casinha pela ficha",
+  "seoTitle": "Cama montessoriana Cola e Decora: os modelos pela ficha",
+  "type": "Guia de Marca",
+  "description": "As camas montessorianas da Cola e Decora lado a lado pela ficha: altura do chão, pinus ou MDF, colchão, carga, garantia, montagem e o preço com o cupom.",
+  "metaDescription": "EMCASACOMCECILIA dá 10% OFF na Cola e Decora. Veja as camas montessorianas da loja pela ficha: altura, material, colchão, carga, garantia e preço.",
+  "image": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa.webp",
+  "imageAlt": "Cama Casinha de pinus em um quarto com tapete redondo, em foto da Cola e Decora com o logo da marca, os textos «Cama montessoriana» e o código EMCASACOMCECILIA.",
+  "cta": {
+    "text": "Confira a ficha, o colchão e a altura de cada cama no site da Cola e Decora. No carrinho, aplique EMCASACOMCECILIA e confira os 10% OFF.",
+    "label": "Ir para a Cola e Decora",
+    "url": "https://www.lojacolaedecora.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Não usamos as camas: o texto segue as fichas da loja. Somos parceiros da Cola e Decora e podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-colaedecora-como-usar"
+    },
+    {
+      "slug": "colaedecora-e-confiavel"
+    },
+    {
+      "slug": "black-friday-colaedecora"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer uma cama montessoriana de solteiro, com grades fixas e colchão padrão de 88 × 188 cm, e já tem ou vai comprar o colchão.",
+      "Você quer escolher entre o pinus maciço e o MDF com laca, que vem em mais de uma cor."
+    ],
+    "skipIf": [
+      "Você precisa de garantia maior que os 30 dias contra defeito de fábrica que a loja informa.",
+      "Você precisa da cama montada ou chegando em uma data certa. As fichas não trazem prazo: ele sai pelo CEP, e o atraso é a queixa mais comum da loja no Reclame Aqui."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Cola e Decora vende camas montessorianas de solteiro e uma de casal, todas sem colchão e com garantia de 30 dias contra defeito de fábrica. A Baixa, de pinus maciço, e a Bella, de MDF com pinus, ficam a 25,5 cm do chão. O que muda a escolha é material, altura e preço; o EMCASACOMCECILIA dá 10% OFF."
+      ]
+    },
+    {
+      "heading": "Os modelos lado a lado",
+      "paragraphs": [
+        "Seis das sete camas levam colchão de solteiro e só o Cercadinho Casal leva o de casal: o que muda entre elas é o material, a altura e as grades. O quadro segue a ficha de cada uma, e nenhuma traz prazo de produção."
+      ],
+      "comparisonTable": {
+        "caption": "Medidas externas e carga máxima, como a loja informa.",
+        "headers": [
+          "Modelo",
+          "Material",
+          "Medidas",
+          "Altura e grades",
+          "Carga máxima"
+        ],
+        "rows": [
+          [
+            "Montessoriana Baixa",
+            "Pinus maciço de reflorestamento",
+            "194 × 96 cm",
+            "25,5 cm do chão; grades fixas em todas as laterais",
+            "Até 100 kg"
+          ],
+          [
+            "Montessoriana Bella",
+            "MDF e pinus, com laca",
+            "194 × 96 cm",
+            "25,5 cm do chão; grades fixas",
+            "Até 100 kg"
+          ],
+          [
+            "Evolutiva Nina",
+            "MDF com laca fosca e detalhes em pinus maciço",
+            "194 × 95 cm",
+            "Altura total de 50 cm; laterais ajustáveis",
+            "Até 90 kg"
+          ],
+          [
+            "Cercadinho",
+            "Pinus maciço",
+            "192 × 97 cm",
+            "Altura de 40 cm; grades fixas em todas as laterais",
+            "Até 100 kg"
+          ],
+          [
+            "Cercadinho Casal",
+            "Pinus maciço",
+            "192 × 147 cm",
+            "Altura de 40 cm; grades fixas em todas as laterais",
+            "Até 100 kg"
+          ],
+          [
+            "Com Livreiro Noah",
+            "Pinus maciço",
+            "200 × 96 cm",
+            "5 cm do chão; grades fixas, com proteção de 35,5 cm de altura",
+            "Até 100 kg"
+          ],
+          [
+            "Casinha",
+            "Pinus maciço",
+            "191 × 97 cm",
+            "Altura total de 120 cm, do chão ao telhado; proteção lateral de 96 cm",
+            "Até 100 kg"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A Baixa e a Bella têm a mesma medida e a mesma carga. A Nina é a única com carga menor e a única com laterais ajustáveis."
+      ]
+    },
+    {
+      "heading": "Pinus maciço ou MDF com laca",
+      "paragraphs": [
+        "A escolha do material é entre o pinus maciço e o MDF com laca, que vem em cores. A Baixa, o Cercadinho, a Noah e a Casinha são de pinus maciço. A Bella é de MDF com pinus, com acabamento em laca, e a ficha lista seis cores. A Nina também é de MDF com laca, fosca, com detalhes em pinus maciço, em sete cores.",
+        "A loja diz que nós e variações na cor do pinus não representam defeito: se nós e veios à mostra incomodam você, veja as fotos de cada modelo antes de escolher."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-bella.webp",
+          "alt": "Cama Bella verde-água com detalhes em pinus, em fundo branco, em foto da Cola e Decora",
+          "caption": "Cama Bella, de MDF com pinus. Foto: Cola e Decora.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Colchão, espaço e montagem",
+      "paragraphs": [
+        "O colchão não acompanha nenhuma das camas. Os modelos de solteiro pedem o colchão padrão de 88 × 188 cm, e o Cercadinho Casal pede o de casal, de 138 × 188 cm.",
+        "Meça o quarto pela medida externa da cama, que é maior que a do colchão: a Baixa, por exemplo, tem 194 × 96 cm.",
+        "Todas vão desmontadas, com manual e ferragens. A loja diz que a montagem usa ferramentas básicas e, na ficha da Baixa, recomenda contratar um profissional se for necessário."
+      ]
+    },
+    {
+      "heading": "O que a loja chama de montessoriana",
+      "paragraphs": [
+        "A ficha explica o método Montessori com as palavras autonomia e independência da criança: é a explicação da loja. Para saber a partir de quando uma criança pode dormir numa cama dessas, e como fazer a transição do berço, a pessoa certa é o pediatra."
+      ]
+    },
+    {
+      "heading": "Nina, cercadinho, livreiro e casinha",
+      "paragraphs": [
+        "Fora a Baixa e a Bella, cada modelo tem um desenho próprio. Pela ficha, o que o quadro não mostra:"
+      ],
+      "bullets": [
+        "A Evolutiva Nina é a que acompanha o crescimento: a ficha diz que dá para instalar a cama na altura que você preferir. Em troca, é a de menor carga do quadro.",
+        "O Cercadinho tem grades fixas em todas as laterais e é o único com versão para colchão de casal.",
+        "A Cama com Livreiro Noah leva o livreiro na pezeira e é a mais comprida do quadro: confira os 200 cm na parede do quarto. A ficha traz o selo “envio imediato”, que é um selo da loja e não um prazo.",
+        "A Casinha tem estrutura de telhado, então a medida a conferir no quarto é a altura total, do chão ao telhado."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-nina.webp",
+          "alt": "Cama Nina verde-água em fundo branco, com as laterais de regulagem, em foto da Cola e Decora",
+          "caption": "Cama Evolutiva Nina, com laterais ajustáveis. Foto: Cola e Decora.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-noah.webp",
+          "alt": "Cama Noah vista de frente, com livros no livreiro da pezeira, em foto da Cola e Decora",
+          "caption": "Cama com Livreiro Noah. Foto: Cola e Decora.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Antes de comprar",
+      "paragraphs": [
+        "A loja informa garantia de 30 dias contra defeitos de fábrica nas camas. Para desistir da compra, o [portal de trocas](https://lojacolaedecora.troque.app.br/) aceita pedidos em até 7 dias do recebimento, segundo a loja.",
+        "A página de frete da loja diz que o frete é grátis em compras acima de R$ 599 para todo o Brasil, e qualquer cama deste quadro passa desse valor. A gaveta do carrinho falou em regiões Sul e Sudeste, então confira no carrinho, com o seu CEP, se a regra vale para você.",
+        "O prazo também só aparece pelo CEP, no checkout. O atraso na entrega é a queixa mais comum da loja no Reclame Aqui, e quem precisa da cama para uma data deve ler [a nota e os atrasos](/reviews/colaedecora-reclame-aqui-nota-reputacao) e [se a loja é confiável](/reviews/colaedecora-e-confiavel) antes de pagar."
+      ]
+    },
+    {
+      "heading": "Quanto fica com o cupom",
+      "paragraphs": [
+        "São preços de oferta do dia, que mudam com a campanha da loja. Conta nossa: a coluna do código tira 10% do preço publicado, sem frete, e o valor final é o que o carrinho mostrar."
+      ],
+      "comparisonTable": {
+        "caption": "Preço da vitrine em 19/11, por cama, sem colchão e sem frete.",
+        "headers": [
+          "Modelo",
+          "Preço no site",
+          "Com EMCASACOMCECILIA (estimativa)"
+        ],
+        "rows": [
+          [
+            "Montessoriana Baixa",
+            "R$ 699,90",
+            "R$ 629,91"
+          ],
+          [
+            "Evolutiva Nina",
+            "R$ 899,00",
+            "R$ 809,10"
+          ],
+          [
+            "Montessoriana Bella",
+            "R$ 999,00",
+            "R$ 899,10"
+          ],
+          [
+            "Cercadinho",
+            "R$ 999,00",
+            "R$ 899,10"
+          ],
+          [
+            "Com Livreiro Noah",
+            "R$ 1.099,00",
+            "R$ 989,10"
+          ],
+          [
+            "Casinha",
+            "R$ 1.099,00",
+            "R$ 989,10"
+          ],
+          [
+            "Cercadinho Casal",
+            "R$ 1.599,00",
+            "R$ 1.439,10"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial. O [passo a passo no carrinho](/reviews/cupom-colaedecora-como-usar) mostra onde digitar o código."
+      ]
+    },
+    {
+      "heading": "Qual modelo escolher",
+      "paragraphs": [
+        "Pelo preço, a Baixa é a entrada, com a mesma medida e a mesma carga da Bella. A Bella e a Nina são para quem quer escolher a cor, e a Nina, para quem quer ajustar a altura depois. Quem já tem colchão de casal só encaixa no Cercadinho Casal.",
+        "Se a cama precisa chegar numa data certa, decida primeiro pelo prazo que o checkout mostrar para o seu CEP, e só depois pelo modelo."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A cama montessoriana da Cola e Decora vem com colchão? Não. A ficha informa que o colchão não acompanha a cama.",
+        "Qual a altura da cama montessoriana da Cola e Decora? A Baixa e a Bella ficam a 25,5 cm do chão. A Nina tem 50 cm de altura total, o Cercadinho tem 40 cm, a Noah fica a 5 cm do chão e a Casinha tem 120 cm até o telhado.",
+        "Que colchão usar na cama da Cola e Decora? Nos modelos de solteiro, o colchão padrão de 88 × 188 cm. No Cercadinho Casal, o de casal, de 138 × 188 cm.",
+        "Quanto peso a cama da Cola e Decora aguenta? A ficha da Baixa informa até 100 kg, de carga estática, e as da Bella, do Cercadinho, da Noah e da Casinha também dizem até 100 kg. A Nina informa até 90 kg.",
+        "Como é a montagem da cama da Cola e Decora? A cama vai desmontada, com manual e ferragens. A loja diz que a montagem usa ferramentas básicas e recomenda um profissional se for necessário."
+      ]
+    }
+  ]
+}

@@ -276119,5 +276119,1012 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1107,
+    "slug": "cupom-colaedecora-como-usar",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "colaedecora",
+    "title": "Cupom Cola e Decora: como aplicar o EMCASACOMCECILIA no carrinho e com o que ele soma",
+    "seoTitle": "Como usar o cupom EMCASACOMCECILIA na Cola e Decora",
+    "type": "Guia & Cupons",
+    "description": "Onde aplicar o cupom EMCASACOMCECILIA na Cola e Decora, a conta do nosso carrinho com produtos em oferta, quando o frete sai grátis e como ver o prazo.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 10% OFF na Cola e Decora, para cliente novo e antigo. Veja onde aplicar no carrinho, a conta do teste e o frete grátis.",
+    "image": "/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa.webp",
+    "imageAlt": "Quarto infantil com a Cama Montessoriana Baixa, uma cadeira e uma estante, em foto da Cola e Decora com o logo da marca, os textos «Como aplicar o cupom» e o código EMCASACOMCECILIA.",
+    "cta": {
+      "text": "Escolha os produtos no site da Cola e Decora e aplique EMCASACOMCECILIA no carrinho lateral. Confira o desconto e o frete antes de pagar.",
+      "label": "Ir para a Cola e Decora",
+      "url": "https://www.lojacolaedecora.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Cupom testado no carrinho do site oficial. Somos parceiros da Cola e Decora e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-colaedecora"
+      },
+      {
+        "slug": "cupom-colaedecora-primeira-compra"
+      },
+      {
+        "slug": "cama-montessoriana-colaedecora"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom EMCASACOMCECILIA dá 10% OFF na Cola e Decora, para cliente novo e antigo. Ele entra no carrinho lateral: clique em Tem um cupom?, digite o código e aplique. No nosso teste, os 10% entraram sobre dois produtos que já estavam em oferta."
+        ]
+      },
+      {
+        "heading": "Onde aplicar o cupom na Cola e Decora",
+        "paragraphs": [
+          "Você copia o código na página do [cupom Cola e Decora](/cupons/colaedecora). Ele não vai no checkout: entra antes, no carrinho que abre ao lado."
+        ],
+        "bullets": [
+          "Na página do produto, clique em “Comprar”. O carrinho abre na lateral da tela.",
+          "Na gaveta do carrinho, clique em “Tem um cupom?”.",
+          "Digite EMCASACOMCECILIA, tudo junto e sem espaço, e clique em aplicar.",
+          "Confira o aviso “Cupom aplicado: EMCASACOMCECILIA (10% OFF)” e o subtotal antes de seguir."
+        ],
+        "postParagraphs": [
+          "Ao seguir para o checkout, o resumo do pedido manteve o “Cupom ativo” com o valor abatido. O e-mail é pedido logo depois."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
+            "alt": "Carrinho da Cola e Decora com o cupom EMCASACOMCECILIA aplicado, desconto de R$ 13,98 sobre R$ 139,80 e subtotal de R$ 125,82",
+            "caption": "O código aplicado no carrinho lateral da Cola e Decora, no nosso teste.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto o cupom tirou no nosso teste",
+        "paragraphs": [
+          "Conta nossa: em 19/11, colocamos no carrinho um quadro infantil e uma prateleira de livros, os dois com o preço de campanha da loja. Os 10% entraram sobre os dois."
+        ],
+        "comparisonTable": {
+          "caption": "Carrinho testado no site oficial, antes do frete.",
+          "headers": [
+            "Linha do carrinho",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Quadro Infantil Oração Santo Anjo",
+              "R$ 79,90"
+            ],
+            [
+              "Prateleira de Livros 50cm Rosa - Theo",
+              "R$ 59,90"
+            ],
+            [
+              "Subtotal",
+              "R$ 139,80"
+            ],
+            [
+              "Cupom (10%)",
+              "− R$ 13,98"
+            ],
+            [
+              "Total dos produtos com o cupom",
+              "R$ 125,82"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "O cupom soma com as ofertas?",
+        "paragraphs": [
+          "No nosso teste, somou: os 10% foram calculados sobre o preço de campanha dos dois produtos. Foi um carrinho só, então confira o aviso de cupom aplicado no seu antes de pagar.",
+          "Para ver o que está em oferta agora, leia o [guia das Ofertas da Live](/reviews/black-friday-colaedecora)."
+        ]
+      },
+      {
+        "heading": "Frete e prazo de entrega",
+        "paragraphs": [
+          "A loja informa: “Frete grátis em compras acima de R$ 599 para todo o Brasil”, e o prazo é calculado pelo CEP direto no checkout. No carrinho que testamos, a gaveta mostrava quanto faltava para o frete grátis com a nota “Para as regiões Sul e Sudeste”. Como as duas telas divergem, digite seu CEP no carrinho antes de pagar.",
+          "As fichas das camas não trazem prazo de produção ou de entrega, e móvel grande vai desmontado, com manual e ferragens. O atraso na entrega é a queixa mais comum da loja no Reclame Aqui: leia [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel) antes de comprar para uma data certa."
+        ]
+      },
+      {
+        "heading": "Pagamento",
+        "paragraphs": [
+          "A loja anuncia pagamento em até 10x sem juros no cartão de crédito, conforme o valor do pedido. O Pix sai pelo mesmo preço do cartão à vista, sem desconto próprio. No teste, o cupom seguiu aplicado com o Pix escolhido."
+        ]
+      },
+      {
+        "heading": "O código não entrou: o que conferir",
+        "bullets": [
+          "**A grafia.** EMCASACOMCECILIA, tudo junto, sem espaço antes ou depois.",
+          "**O lugar.** O campo é o “Tem um cupom?” do carrinho lateral, que abre ao clicar em “Comprar”.",
+          "**A loja.** O código é do site oficial, lojacolaedecora.com.br, e é lá que ele entra."
+        ],
+        "postParagraphs": [
+          "Se mesmo assim o aviso de cupom aplicado não aparecer, não pague ainda: sem o aviso, o pedido sai sem os 10%."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Onde coloco o cupom na Cola e Decora? No carrinho lateral, que abre ao clicar em Comprar. Clique em Tem um cupom?, digite EMCASACOMCECILIA e aplique.",
+          "O cupom soma com as ofertas da live? No nosso teste, somou: os 10% entraram sobre dois produtos com preço de campanha. Confira o aviso de cupom aplicado no seu carrinho.",
+          "O cupom vale para quem já comprou? Vale. O EMCASACOMCECILIA serve para cliente novo e antigo.",
+          "Qual é o frete grátis da Cola e Decora? A página de frete da loja diz que é para compras acima de R$ 599, para todo o Brasil. A gaveta do carrinho citou as regiões Sul e Sudeste, então confira com seu CEP.",
+          "O cupom vale no Mercado Livre? O código é do site oficial da Cola e Decora, lojacolaedecora.com.br, e é lá que ele entra."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "slug": "black-friday-colaedecora",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "colaedecora",
+    "title": "Ofertas da Live da Cola e Decora: o que está em promoção e como o cupom entra",
+    "seoTitle": "Ofertas da Live da Cola e Decora na Black Friday: cupom 10%",
+    "type": "Guia de Black Friday",
+    "description": "O que está nas Ofertas da Live da Cola e Decora, das prateleiras às camas montessorianas, quanto fica com o EMCASACOMCECILIA e como ver o prazo de entrega.",
+    "metaDescription": "Nas Ofertas da Live da Cola e Decora, o EMCASACOMCECILIA tira mais 10% do preço de oferta, como no nosso teste. Veja os móveis em oferta e o frete.",
+    "image": "/images/reviews/colaedecora/black-friday-colaedecora-capa.webp",
+    "imageAlt": "Pezeira da Cama Noah com o livreiro cheio de livros, em foto da Cola e Decora com o logo da marca, os textos «Ofertas da Live» e o código EMCASACOMCECILIA.",
+    "cta": {
+      "text": "Veja as ofertas do dia no site da Cola e Decora. Se decidir comprar, aplique EMCASACOMCECILIA no carrinho e confira o desconto e o frete antes de pagar.",
+      "label": "Ir para a Cola e Decora",
+      "url": "https://www.lojacolaedecora.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Preços lidos no site oficial e cupom testado no carrinho. Somos parceiros da Cola e Decora e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-colaedecora-como-usar"
+      },
+      {
+        "slug": "cama-montessoriana-colaedecora"
+      },
+      {
+        "slug": "colaedecora-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Cola e Decora está com as Ofertas da Live, com preços do dia em móveis e decoração infantil. No nosso teste, o EMCASACOMCECILIA somou 10% sobre preços de oferta. O frete grátis segue a regra da loja, e o prazo você confere pelo CEP antes de pagar."
+        ]
+      },
+      {
+        "heading": "O que está nas Ofertas da Live",
+        "paragraphs": [
+          "Na época da Black Friday, a Cola e Decora chama a campanha de “Ofertas da Live”. Os produtos levam os selos “Oferta de Live” e “Só hoje”. A tabela traz os preços de oferta da vitrine e uma estimativa com o código."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da vitrine em 19/11, antes do frete. Última coluna: nossa conta, 10% sobre o preço de oferta.",
+          "headers": [
+            "Produto",
+            "Preço na vitrine",
+            "Estimativa com o código"
+          ],
+          "rows": [
+            [
+              "Prateleira de Livros 50cm Rosa - Theo",
+              "R$ 59,90",
+              "R$ 53,91"
+            ],
+            [
+              "Cadeira Infantil Branca - Theo",
+              "R$ 159,90",
+              "R$ 143,91"
+            ],
+            [
+              "Mesa Infantil Branca - Theo",
+              "R$ 269,90",
+              "R$ 242,91"
+            ],
+            [
+              "Escadinha Montessori",
+              "R$ 179,90",
+              "R$ 161,91"
+            ],
+            [
+              "Estante Organizadora Bella",
+              "R$ 469,90",
+              "R$ 422,91"
+            ],
+            [
+              "Cama Montessoriana Baixa",
+              "R$ 699,90",
+              "R$ 629,91"
+            ],
+            [
+              "Cama Montessoriana Evolutiva Nina",
+              "R$ 899,00",
+              "R$ 809,10"
+            ],
+            [
+              "Cama Montessoriana com Livreiro Noah",
+              "R$ 1.099,00",
+              "R$ 989,10"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha da Cama Noah traz o selo “envio imediato”, que é da loja. O prazo de entrega segue pelo CEP, como no resto do site."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/colaedecora/black-friday-colaedecora-nina.webp",
+            "alt": "Cama Montessoriana Evolutiva Nina em verde-água, em fundo branco, com as laterais da cama",
+            "caption": "A Cama Montessoriana Evolutiva Nina em verde-água, uma das camas da campanha. Foto: Cola e Decora.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Como funcionam as ofertas do dia",
+        "paragraphs": [
+          "O “Só hoje” indica oferta diária, e a ficha do produto mostra uma contagem de “Oferta termina em”. A página inicial e as fichas não trazem regulamento nem data de fim da campanha. Por isso, um produto ou preço visto hoje pode mudar amanhã: confira o valor no carrinho na hora de comprar."
+        ]
+      },
+      {
+        "heading": "O cupom soma com as ofertas?",
+        "paragraphs": [
+          "No nosso teste de 19/11, somou. Um quadro infantil e uma prateleira de livros, ambos com preço de campanha, somavam R$ 139,80. O EMCASACOMCECILIA tirou R$ 13,98 e o total dos produtos foi para R$ 125,82, antes do frete.",
+          "O código vale para cliente novo e antigo, e o aviso de cupom aplicado aparece no carrinho lateral."
+        ]
+      },
+      {
+        "heading": "Frete e prazo para comprar com data certa",
+        "paragraphs": [
+          "A página de frete da loja diz: “Frete grátis em compras acima de R$ 599 para todo o Brasil”. Pelos preços da tabela, uma cama sozinha passa desse valor e uma prateleira não. A gaveta do carrinho, porém, mostrou a nota “Para as regiões Sul e Sudeste” ao lado de quanto falta para o frete grátis. Digite o CEP no carrinho para ver o que vale para você.",
+          "O prazo é calculado pelo CEP no checkout, e as fichas das camas não trazem prazo de produção. O atraso na entrega é o problema mais registrado no perfil da loja no Reclame Aqui: veja [Cola e Decora no Reclame Aqui](/reviews/colaedecora-reclame-aqui-nota-reputacao). Quem compra para Natal ou aniversário confere o prazo antes de pagar."
+        ]
+      },
+      {
+        "heading": "Como usar o código nas ofertas",
+        "bullets": [
+          "Clique em “Comprar” no produto: o carrinho abre ao lado.",
+          "Em “Tem um cupom?”, digite EMCASACOMCECILIA e aplique.",
+          "Confira o aviso “Cupom aplicado” e o subtotal antes de seguir para o checkout."
+        ],
+        "postParagraphs": [
+          "O passo a passo, com o print do carrinho, está em [como usar o cupom da Cola e Decora](/reviews/cupom-colaedecora-como-usar). As condições do código ficam na página do [cupom Cola e Decora](/cupons/colaedecora)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cola e Decora tem Black Friday? A loja chama a campanha de Ofertas da Live, com selos de Oferta de Live e Só hoje. O nome Black Friday não aparece na página inicial.",
+          "O cupom vale nas ofertas da live? No nosso teste, valeu: os 10% do EMCASACOMCECILIA entraram sobre produtos com preço de campanha.",
+          "Tem frete grátis na Cola e Decora? A página de frete diz que sim, em compras acima de R$ 599, para todo o Brasil. A gaveta do carrinho citou as regiões Sul e Sudeste, então confira com seu CEP.",
+          "Quanto tempo demora a entrega da Cola e Decora? O prazo sai pelo CEP, direto no checkout. Antes de comprar para uma data certa, leia [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel)."
+        ]
+      }
+    ],
+    "bodyDatesReason": "campanha"
+  },
+  {
+    "id": 1109,
+    "slug": "cama-montessoriana-colaedecora",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "colaedecora",
+    "title": "Cama montessoriana Cola e Decora: Baixa, Bella, Nina, Cercadinho e Casinha pela ficha",
+    "seoTitle": "Cama montessoriana Cola e Decora: os modelos pela ficha",
+    "type": "Guia de Marca",
+    "description": "As camas montessorianas da Cola e Decora lado a lado pela ficha: altura do chão, pinus ou MDF, colchão, carga, garantia, montagem e o preço com o cupom.",
+    "metaDescription": "EMCASACOMCECILIA dá 10% OFF na Cola e Decora. Veja as camas montessorianas da loja pela ficha: altura, material, colchão, carga, garantia e preço.",
+    "image": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa.webp",
+    "imageAlt": "Cama Casinha de pinus em um quarto com tapete redondo, em foto da Cola e Decora com o logo da marca, os textos «Cama montessoriana» e o código EMCASACOMCECILIA.",
+    "cta": {
+      "text": "Confira a ficha, o colchão e a altura de cada cama no site da Cola e Decora. No carrinho, aplique EMCASACOMCECILIA e confira os 10% OFF.",
+      "label": "Ir para a Cola e Decora",
+      "url": "https://www.lojacolaedecora.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Não usamos as camas: o texto segue as fichas da loja. Somos parceiros da Cola e Decora e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-colaedecora-como-usar"
+      },
+      {
+        "slug": "colaedecora-e-confiavel"
+      },
+      {
+        "slug": "black-friday-colaedecora"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer uma cama montessoriana de solteiro, com grades fixas e colchão padrão de 88 × 188 cm, e já tem ou vai comprar o colchão.",
+        "Você quer escolher entre o pinus maciço e o MDF com laca, que vem em mais de uma cor."
+      ],
+      "skipIf": [
+        "Você precisa de garantia maior que os 30 dias contra defeito de fábrica que a loja informa.",
+        "Você precisa da cama montada ou chegando em uma data certa. As fichas não trazem prazo: ele sai pelo CEP, e o atraso é a queixa mais comum da loja no Reclame Aqui."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Cola e Decora vende camas montessorianas de solteiro e uma de casal, todas sem colchão e com garantia de 30 dias contra defeito de fábrica. A Baixa, de pinus maciço, e a Bella, de MDF com pinus, ficam a 25,5 cm do chão. O que muda a escolha é material, altura e preço; o EMCASACOMCECILIA dá 10% OFF."
+        ]
+      },
+      {
+        "heading": "Os modelos lado a lado",
+        "paragraphs": [
+          "Seis das sete camas levam colchão de solteiro e só o Cercadinho Casal leva o de casal: o que muda entre elas é o material, a altura e as grades. O quadro segue a ficha de cada uma, e nenhuma traz prazo de produção."
+        ],
+        "comparisonTable": {
+          "caption": "Medidas externas e carga máxima, como a loja informa.",
+          "headers": [
+            "Modelo",
+            "Material",
+            "Medidas",
+            "Altura e grades",
+            "Carga máxima"
+          ],
+          "rows": [
+            [
+              "Montessoriana Baixa",
+              "Pinus maciço de reflorestamento",
+              "194 × 96 cm",
+              "25,5 cm do chão; grades fixas em todas as laterais",
+              "Até 100 kg"
+            ],
+            [
+              "Montessoriana Bella",
+              "MDF e pinus, com laca",
+              "194 × 96 cm",
+              "25,5 cm do chão; grades fixas",
+              "Até 100 kg"
+            ],
+            [
+              "Evolutiva Nina",
+              "MDF com laca fosca e detalhes em pinus maciço",
+              "194 × 95 cm",
+              "Altura total de 50 cm; laterais ajustáveis",
+              "Até 90 kg"
+            ],
+            [
+              "Cercadinho",
+              "Pinus maciço",
+              "192 × 97 cm",
+              "Altura de 40 cm; grades fixas em todas as laterais",
+              "Até 100 kg"
+            ],
+            [
+              "Cercadinho Casal",
+              "Pinus maciço",
+              "192 × 147 cm",
+              "Altura de 40 cm; grades fixas em todas as laterais",
+              "Até 100 kg"
+            ],
+            [
+              "Com Livreiro Noah",
+              "Pinus maciço",
+              "200 × 96 cm",
+              "5 cm do chão; grades fixas, com proteção de 35,5 cm de altura",
+              "Até 100 kg"
+            ],
+            [
+              "Casinha",
+              "Pinus maciço",
+              "191 × 97 cm",
+              "Altura total de 120 cm, do chão ao telhado; proteção lateral de 96 cm",
+              "Até 100 kg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Baixa e a Bella têm a mesma medida e a mesma carga. A Nina é a única com carga menor e a única com laterais ajustáveis."
+        ]
+      },
+      {
+        "heading": "Pinus maciço ou MDF com laca",
+        "paragraphs": [
+          "A escolha do material é entre o pinus maciço e o MDF com laca, que vem em cores. A Baixa, o Cercadinho, a Noah e a Casinha são de pinus maciço. A Bella é de MDF com pinus, com acabamento em laca, e a ficha lista seis cores. A Nina também é de MDF com laca, fosca, com detalhes em pinus maciço, em sete cores.",
+          "A loja diz que nós e variações na cor do pinus não representam defeito: se nós e veios à mostra incomodam você, veja as fotos de cada modelo antes de escolher."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-bella.webp",
+            "alt": "Cama Bella verde-água com detalhes em pinus, em fundo branco, em foto da Cola e Decora",
+            "caption": "Cama Bella, de MDF com pinus. Foto: Cola e Decora.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Colchão, espaço e montagem",
+        "paragraphs": [
+          "O colchão não acompanha nenhuma das camas. Os modelos de solteiro pedem o colchão padrão de 88 × 188 cm, e o Cercadinho Casal pede o de casal, de 138 × 188 cm.",
+          "Meça o quarto pela medida externa da cama, que é maior que a do colchão: a Baixa, por exemplo, tem 194 × 96 cm.",
+          "Todas vão desmontadas, com manual e ferragens. A loja diz que a montagem usa ferramentas básicas e, na ficha da Baixa, recomenda contratar um profissional se for necessário."
+        ]
+      },
+      {
+        "heading": "O que a loja chama de montessoriana",
+        "paragraphs": [
+          "A ficha explica o método Montessori com as palavras autonomia e independência da criança: é a explicação da loja. Para saber a partir de quando uma criança pode dormir numa cama dessas, e como fazer a transição do berço, a pessoa certa é o pediatra."
+        ]
+      },
+      {
+        "heading": "Nina, cercadinho, livreiro e casinha",
+        "paragraphs": [
+          "Fora a Baixa e a Bella, cada modelo tem um desenho próprio. Pela ficha, o que o quadro não mostra:"
+        ],
+        "bullets": [
+          "A Evolutiva Nina é a que acompanha o crescimento: a ficha diz que dá para instalar a cama na altura que você preferir. Em troca, é a de menor carga do quadro.",
+          "O Cercadinho tem grades fixas em todas as laterais e é o único com versão para colchão de casal.",
+          "A Cama com Livreiro Noah leva o livreiro na pezeira e é a mais comprida do quadro: confira os 200 cm na parede do quarto. A ficha traz o selo “envio imediato”, que é um selo da loja e não um prazo.",
+          "A Casinha tem estrutura de telhado, então a medida a conferir no quarto é a altura total, do chão ao telhado."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-nina.webp",
+            "alt": "Cama Nina verde-água em fundo branco, com as laterais de regulagem, em foto da Cola e Decora",
+            "caption": "Cama Evolutiva Nina, com laterais ajustáveis. Foto: Cola e Decora.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-noah.webp",
+            "alt": "Cama Noah vista de frente, com livros no livreiro da pezeira, em foto da Cola e Decora",
+            "caption": "Cama com Livreiro Noah. Foto: Cola e Decora.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Antes de comprar",
+        "paragraphs": [
+          "A loja informa garantia de 30 dias contra defeitos de fábrica nas camas. Para desistir da compra, o [portal de trocas](https://lojacolaedecora.troque.app.br/) aceita pedidos em até 7 dias do recebimento, segundo a loja.",
+          "A página de frete da loja diz que o frete é grátis em compras acima de R$ 599 para todo o Brasil, e qualquer cama deste quadro passa desse valor. A gaveta do carrinho falou em regiões Sul e Sudeste, então confira no carrinho, com o seu CEP, se a regra vale para você.",
+          "O prazo também só aparece pelo CEP, no checkout. O atraso na entrega é a queixa mais comum da loja no Reclame Aqui, e quem precisa da cama para uma data deve ler [a nota e os atrasos](/reviews/colaedecora-reclame-aqui-nota-reputacao) e [se a loja é confiável](/reviews/colaedecora-e-confiavel) antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quanto fica com o cupom",
+        "paragraphs": [
+          "São preços de oferta do dia, que mudam com a campanha da loja. Conta nossa: a coluna do código tira 10% do preço publicado, sem frete, e o valor final é o que o carrinho mostrar."
+        ],
+        "comparisonTable": {
+          "caption": "Preço da vitrine em 19/11, por cama, sem colchão e sem frete.",
+          "headers": [
+            "Modelo",
+            "Preço no site",
+            "Com EMCASACOMCECILIA (estimativa)"
+          ],
+          "rows": [
+            [
+              "Montessoriana Baixa",
+              "R$ 699,90",
+              "R$ 629,91"
+            ],
+            [
+              "Evolutiva Nina",
+              "R$ 899,00",
+              "R$ 809,10"
+            ],
+            [
+              "Montessoriana Bella",
+              "R$ 999,00",
+              "R$ 899,10"
+            ],
+            [
+              "Cercadinho",
+              "R$ 999,00",
+              "R$ 899,10"
+            ],
+            [
+              "Com Livreiro Noah",
+              "R$ 1.099,00",
+              "R$ 989,10"
+            ],
+            [
+              "Casinha",
+              "R$ 1.099,00",
+              "R$ 989,10"
+            ],
+            [
+              "Cercadinho Casal",
+              "R$ 1.599,00",
+              "R$ 1.439,10"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial. O [passo a passo no carrinho](/reviews/cupom-colaedecora-como-usar) mostra onde digitar o código."
+        ]
+      },
+      {
+        "heading": "Qual modelo escolher",
+        "paragraphs": [
+          "Pelo preço, a Baixa é a entrada, com a mesma medida e a mesma carga da Bella. A Bella e a Nina são para quem quer escolher a cor, e a Nina, para quem quer ajustar a altura depois. Quem já tem colchão de casal só encaixa no Cercadinho Casal.",
+          "Se a cama precisa chegar numa data certa, decida primeiro pelo prazo que o checkout mostrar para o seu CEP, e só depois pelo modelo."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A cama montessoriana da Cola e Decora vem com colchão? Não. A ficha informa que o colchão não acompanha a cama.",
+          "Qual a altura da cama montessoriana da Cola e Decora? A Baixa e a Bella ficam a 25,5 cm do chão. A Nina tem 50 cm de altura total, o Cercadinho tem 40 cm, a Noah fica a 5 cm do chão e a Casinha tem 120 cm até o telhado.",
+          "Que colchão usar na cama da Cola e Decora? Nos modelos de solteiro, o colchão padrão de 88 × 188 cm. No Cercadinho Casal, o de casal, de 138 × 188 cm.",
+          "Quanto peso a cama da Cola e Decora aguenta? A ficha da Baixa informa até 100 kg, de carga estática, e as da Bella, do Cercadinho, da Noah e da Casinha também dizem até 100 kg. A Nina informa até 90 kg.",
+          "Como é a montagem da cama da Cola e Decora? A cama vai desmontada, com manual e ferragens. A loja diz que a montagem usa ferramentas básicas e recomenda um profissional se for necessário."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1110,
+    "slug": "colaedecora-e-confiavel",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASACOMCECILIA",
+    "bodyDatesReason": "reclame-aqui",
+    "affiliate": "colaedecora",
+    "title": "Cola e Decora é confiável? Quem vende, de onde é, entrega, montagem e trocas",
+    "seoTitle": "Cola e Decora é confiável? Entrega, Reclame Aqui e trocas",
+    "type": "Editorial",
+    "description": "Quem vende a Cola e Decora, de onde é a loja, o que o Reclame Aqui mostra sobre os atrasos na entrega, como ver o prazo antes e como trocar um produto.",
+    "metaDescription": "EMCASACOMCECILIA dá 10% OFF na Cola e Decora. Antes, veja quem vende, de onde é a loja, o que o Reclame Aqui mostra sobre entrega e as trocas.",
+    "image": "/images/reviews/colaedecora/colaedecora-e-confiavel-capa.webp",
+    "imageAlt": "Cama Cercadinho de pinus com travesseiro, em foto da Cola e Decora com o logo da marca, os textos «É confiável?» e o código EMCASACOMCECILIA.",
+    "cta": {
+      "text": "Se decidir comprar no site oficial, confira o prazo pelo CEP antes de pagar e aplique EMCASACOMCECILIA no carrinho para ter 10% OFF.",
+      "label": "Ir para a Cola e Decora",
+      "url": "https://www.lojacolaedecora.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com o site oficial e o perfil público no Reclame Aqui. Somos parceiros da Cola e Decora e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "colaedecora-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "cama-montessoriana-colaedecora"
+      },
+      {
+        "slug": "cupom-colaedecora-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Cola e Decora é a Muller & Spengler Store Ltda, de Gaspar (SC), com CNPJ e telefone no site. No Reclame Aqui, a reputação é Boa, com nota 7,2 de maio a outubro de 2026, mas o atraso na entrega é metade dos problemas e a resposta da loja demora. Veja o prazo pelo CEP antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quem vende e de onde é",
+        "paragraphs": [
+          "A loja informa no rodapé a empresa Muller & Spengler Store Ltda, CNPJ 40.238.802/0001-59, com endereço na Av. Santa Terezinha, 1150, em Gaspar (SC). O atendimento é pelo telefone (47) 3326-0084, de segunda a sexta, das 9h às 17h, e pelo WhatsApp.",
+          "A Cola e Decora é uma marca de quarto infantil. O site oficial é lojacolaedecora.com.br.",
+          "No Reclame Aqui há um perfil de outra empresa com nome parecido, a Cola E Decora Envelopamento. É outra empresa, com outro site: confira o CNPJ do perfil antes de ler os números."
+        ]
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "No [perfil da Cola e Decora](https://www.reclameaqui.com.br/empresa/cola-e-decora/), de maio a outubro de 2026, a reputação é Boa, com nota 7,2, depois de quatro meses como Ótima. São 53 reclamações no período, e a loja respondeu à maior parte, mas devagar: em média, 18 dias e 17 horas. Menos da metade de quem avaliou o atendimento, 47,1%, voltaria a fazer negócio.",
+          "O problema mais citado é o atraso na entrega: 50,23% dos problemas registrados na aba geral, que cobre até três anos. A base de avaliações é pequena, e [os números em detalhe](/reviews/colaedecora-reclame-aqui-nota-reputacao) estão no guia do perfil."
+        ]
+      },
+      {
+        "heading": "Entrega: como saber o prazo antes",
+        "paragraphs": [
+          "O atraso é o ponto mais fraco da loja no Reclame Aqui, e é nele que você pode se precaver. O prazo de cada produto sai pelo seu CEP, direto no checkout. As fichas das camas não trazem prazo de produção ou de entrega.",
+          "Os selos \"Envio Rápido\" e \"envio imediato\", que a loja põe em alguns produtos, são selos dela e não um prazo prometido. Se você precisa do móvel para uma data, como a chegada de um bebê, uma mudança ou um aniversário, compre com folga e guarde um print do prazo mostrado no checkout."
+        ]
+      },
+      {
+        "heading": "Trocas, devolução e garantia",
+        "paragraphs": [
+          "A loja informa troca ou devolução em até 7 dias corridos do recebimento, pelo [portal de trocas](https://lojacolaedecora.troque.app.br/), com o produto na embalagem original, sem uso e com a nota fiscal. O carrinho também traz o aviso \"1ª devolução grátis\".",
+          "Nas camas, a ficha informa garantia de 30 dias contra defeitos de fábrica."
+        ]
+      },
+      {
+        "heading": "Montagem",
+        "paragraphs": [
+          "Os móveis vão desmontados, com manual e ferragens. Na ficha da Cama Montessoriana Baixa, a loja recomenda contratar um profissional “se necessário”. Conte com o tempo de montagem, ou com o custo de um montador, antes de marcar a data do quarto pronto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/colaedecora/colaedecora-e-confiavel-nina.webp",
+            "alt": "Cama Nina verde-água em fundo cinza, em foto da Cola e Decora",
+            "caption": "Cama Evolutiva Nina, que vai desmontada como os outros móveis. Foto: Cola e Decora.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Como se proteger",
+        "paragraphs": [
+          "Dá para comprar sabendo onde está o risco: a empresa é identificável e responde no Reclame Aqui, mas o atraso na entrega domina as queixas e a resposta demora. O que protege você é o registro de cada etapa:"
+        ],
+        "bullets": [
+          "Guarde a nota fiscal, o número do pedido e o e-mail usado na compra.",
+          "Anote o prazo que o checkout mostrou e tire um print dele.",
+          "Se a entrega passar do prazo, fale primeiro com a loja, pelo telefone, pelo WhatsApp ou pelo portal de trocas, e guarde o protocolo.",
+          "Se o atendimento não resolver, registre uma reclamação no Reclame Aqui, no perfil com o CNPJ certo, ou procure o Procon do seu estado."
+        ],
+        "postParagraphs": [
+          "Se decidir comprar, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial. Quem procura cama pode ver as [camas montessorianas pela ficha](/reviews/cama-montessoriana-colaedecora)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cola e Decora é confiável? É uma empresa com CNPJ, endereço e telefone no site, e reputação Boa no Reclame Aqui. O atraso na entrega é o problema mais citado e a resposta da loja demora em média 18 dias e 17 horas, então confira o prazo pelo CEP antes de pagar.",
+          "De onde é a Cola e Decora? A loja informa a empresa Muller & Spengler Store Ltda, com endereço em Gaspar, em Santa Catarina.",
+          "A Cola e Decora atrasa a entrega? O atraso é o problema mais citado no perfil da loja no Reclame Aqui: 50,23% dos problemas na aba geral, que cobre até três anos. O prazo sai só pelo CEP, no checkout.",
+          "Como trocar um produto da Cola e Decora? A loja informa o prazo de 7 dias corridos do recebimento, pelo portal de trocas, com o produto sem uso, na embalagem original e com a nota fiscal.",
+          "Os móveis da Cola e Decora vêm montados? Não. Os móveis vão desmontados, com manual e ferragens."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1111,
+    "slug": "colaedecora-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "bodyDatesReason": "reclame-aqui",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "colaedecora",
+    "title": "Cola e Decora no Reclame Aqui: a nota, os atrasos na entrega e como a loja responde",
+    "seoTitle": "Cola e Decora no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "description": "A nota da Cola e Decora no Reclame Aqui de maio a outubro de 2026, por que o atraso na entrega domina as queixas, quanto a loja resolve e o que fazer antes.",
+    "metaDescription": "EMCASACOMCECILIA dá 10% OFF na Cola e Decora. Veja a nota no Reclame Aqui, por que atraso na entrega é a queixa mais comum e quanto a loja resolve.",
+    "image": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Cama Noah vista de cima, em um quarto com estante, em foto da Cola e Decora com o logo da marca, os textos «Reclame Aqui / Nota e queixas» e o código EMCASACOMCECILIA.",
+    "cta": {
+      "text": "Se decidir comprar no site oficial, confira o prazo pelo CEP e aplique EMCASACOMCECILIA no carrinho para ter 10% OFF.",
+      "label": "Ir para a Cola e Decora",
+      "url": "https://www.lojacolaedecora.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Dados do perfil público da Cola e Decora no Reclame Aqui. Somos parceiros da Cola e Decora e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "colaedecora-e-confiavel"
+      },
+      {
+        "slug": "cama-montessoriana-colaedecora"
+      },
+      {
+        "slug": "cupom-colaedecora-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Cola e Decora tem reputação Boa e nota 7,2 no Reclame Aqui de maio a outubro de 2026, depois de meses como Ótima. Metade dos problemas registrados é atraso na entrega. A loja leva em média 18 dias para responder, e 47,1% de quem avaliou voltaria a comprar."
+        ]
+      },
+      {
+        "heading": "A nota e a queda",
+        "paragraphs": [
+          "A tabela reúne os indicadores do [perfil da Cola e Decora](https://www.reclameaqui.com.br/empresa/cola-e-decora/) de maio a outubro de 2026. A reputação era Ótima de maio a agosto e passou a Boa em setembro e outubro."
+        ],
+        "comparisonTable": {
+          "caption": "Indicadores da Cola e Decora nos últimos seis meses do perfil.",
+          "headers": [
+            "Indicador",
+            "Últimos 6 meses"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa"
+            ],
+            [
+              "Nota",
+              "7,2"
+            ],
+            [
+              "Reclamações recebidas",
+              "53"
+            ],
+            [
+              "Respondidas",
+              "84,9%"
+            ],
+            [
+              "Aguardando resposta",
+              "8"
+            ],
+            [
+              "Índice de solução entre as avaliadas",
+              "88,2%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "47,1%"
+            ],
+            [
+              "Avaliadas",
+              "18"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,35"
+            ],
+            [
+              "Tempo médio de resposta",
+              "18 dias e 17 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Reclame Aqui usa só as avaliações de quem reclamou para calcular o índice de solução e o percentual de quem voltaria a comprar. Aqui, são as 18 avaliadas, de um total de 53 reclamações em seis meses. É uma base pequena, e um ou dois casos mexem nos percentuais. A nota 7,2 é a que o Reclame Aqui calcula para a reputação, e a 6,35 é a média das notas dadas pelos consumidores. [Metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui)"
+        ]
+      },
+      {
+        "heading": "O que mais gera reclamação: a entrega",
+        "paragraphs": [
+          "Na aba geral, que reúne registros de até três anos, o problema \"Atraso na entrega\" responde por 50,23% do total. A categoria \"Móveis Infantis\" aparece com 25,57%, e o produto \"Entrega\" com 19,18%.",
+          "Dizendo sem rodeio: a queixa mais comum sobre a Cola e Decora é o pedido que não chega no prazo. Quem compra móvel costuma depender de uma data, como a chegada de um bebê, uma mudança ou um aniversário, e o atraso pesa mais nesses casos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/colaedecora/colaedecora-reclame-aqui-bella.webp",
+            "alt": "Cama Bella em fundo branco, vista de lado, em foto da Cola e Decora",
+            "caption": "Cama Bella, um dos móveis infantis da loja. Foto: Cola e Decora.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Como a loja responde",
+        "paragraphs": [
+          "A loja responde à maior parte das reclamações, mas devagar: o tempo médio passa de duas semanas e meia, e parte delas ainda esperava resposta no perfil.",
+          "Quem avaliou o atendimento saiu dividido. A maioria deu o caso como resolvido, e menos da metade voltaria a fazer negócio. Para quem compra, o recado é que o problema costuma ter resposta, mas não rápida."
+        ]
+      },
+      {
+        "heading": "Antes de comprar",
+        "paragraphs": [
+          "O prazo de cada produto sai pelo seu CEP, no checkout. As fichas das camas não trazem prazo de produção ou de entrega. Se você precisa do móvel para uma data, compre com folga, guarde um print do prazo mostrado e a nota fiscal.",
+          "Para saber quem vende, de onde é a loja e como funcionam as trocas, leia [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel). Quem procura cama pode ver as [camas montessorianas pela ficha](/reviews/cama-montessoriana-colaedecora)."
+        ]
+      },
+      {
+        "heading": "Como reclamar se o pedido der problema",
+        "paragraphs": [
+          "Fale primeiro com a loja: o telefone é (47) 3326-0084, de segunda a sexta, das 9h às 17h, e há também o WhatsApp. Para desistir da compra, use o [portal de trocas](https://lojacolaedecora.troque.app.br/), dentro de 7 dias corridos do recebimento, segundo a loja. Guarde o protocolo.",
+          "Se o atendimento não resolver, registre a reclamação no Reclame Aqui ou procure o Procon do seu estado. No Reclame Aqui, confira o CNPJ 40.238.802/0001-59 no perfil: existe outra empresa, a Cola E Decora Envelopamento, que não é a loja de quarto infantil."
+        ]
+      },
+      {
+        "heading": "O que a nota diz para quem vai comprar",
+        "paragraphs": [
+          "A reputação Boa diz que a loja responde e que a maior parte dos casos avaliados termina resolvida. O que ela não garante é o prazo: metade dos problemas registrados é atraso, e a resposta demora. Dá para comprar com folga de data e com o prazo do checkout guardado.",
+          "Os números mudam com o tempo: o [perfil da Cola e Decora](https://www.reclameaqui.com.br/empresa/cola-e-decora/) mostra os mais recentes e as respostas da loja. Se decidir comprar, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cola e Decora é confiável no Reclame Aqui? A reputação é Boa, com nota 7,2 no semestre que consultamos. O atraso na entrega é o problema mais citado, e a loja leva em média 18 dias e 17 horas para responder.",
+          "Qual a nota da Cola e Decora no Reclame Aqui? No recorte de seis meses que consultamos, a nota foi 7,2 e a reputação era Boa, depois de meses como Ótima. Veja o perfil para conferir a nota atual.",
+          "A Cola e Decora atrasa a entrega? O atraso na entrega é o problema mais citado: 50,23% dos problemas na aba geral do perfil, que cobre até três anos. O prazo sai pelo CEP, no checkout.",
+          "Como falar com a Cola e Decora? Pelo telefone (47) 3326-0084, de segunda a sexta, das 9h às 17h, pelo WhatsApp ou, para desistir da compra, pelo portal de trocas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1112,
+    "slug": "cupom-colaedecora-primeira-compra",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "colaedecora",
+    "title": "Cupom Cola e Decora primeira compra: o EMCASACOMCECILIA vale para quem nunca comprou",
+    "seoTitle": "Cupom Cola e Decora primeira compra: 10% OFF",
+    "type": "Guia & Cupons",
+    "description": "O EMCASACOMCECILIA vale na primeira compra da Cola e Decora: onde aplicar no carrinho, quando o frete sai grátis, como ver o prazo e como funciona a troca.",
+    "metaDescription": "O EMCASACOMCECILIA dá 10% OFF na primeira compra da Cola e Decora e também para quem já é cliente. Veja como aplicar, o frete e o prazo pelo CEP.",
+    "image": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-capa.webp",
+    "imageAlt": "Cama Cercadinho vista de cima, com um bicho de pelúcia, em foto da Cola e Decora com o logo da marca, os textos «Cupom na primeira compra» e o código EMCASACOMCECILIA.",
+    "cta": {
+      "text": "Escolha o produto no site da Cola e Decora e aplique EMCASACOMCECILIA no carrinho lateral. Confira o desconto, o frete e o prazo antes de pagar.",
+      "label": "Ir para a Cola e Decora",
+      "url": "https://www.lojacolaedecora.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Cupom testado no carrinho do site oficial. Somos parceiros da Cola e Decora e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-colaedecora-como-usar"
+      },
+      {
+        "slug": "cama-montessoriana-colaedecora"
+      },
+      {
+        "slug": "black-friday-colaedecora"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, o EMCASACOMCECILIA vale na primeira compra da Cola e Decora e dá 10% OFF, o mesmo desconto de quem já é cliente. Ele entra no carrinho lateral, em Tem um cupom?. No nosso teste, os 10% somaram com produtos que já estavam em oferta."
+        ]
+      },
+      {
+        "heading": "Vale na primeira compra? E depois?",
+        "paragraphs": [
+          "Vale. O EMCASACOMCECILIA serve para quem nunca comprou na Cola e Decora e também para quem já é cliente: não é um desconto só de estreia. No nosso teste, os 10% entraram sobre dois produtos que já estavam com preço de oferta. As condições do código estão na página do [cupom Cola e Decora](/cupons/colaedecora)."
+        ]
+      },
+      {
+        "heading": "Primeira compra: o que saber antes",
+        "paragraphs": [
+          "Em móvel, o que pesa na primeira compra é frete, prazo e montagem. Confira estes pontos antes de fechar o pedido:"
+        ],
+        "bullets": [
+          "**Frete.** A página de frete diz “Frete grátis em compras acima de R$ 599 para todo o Brasil”. A gaveta do carrinho citou as regiões Sul e Sudeste, então confira com seu CEP.",
+          "**Prazo.** Ele sai pelo CEP, direto no checkout. As fichas das camas não trazem prazo de produção.",
+          "**Montagem.** Os móveis vão desmontados, com manual e ferragens.",
+          "**Colchão.** As camas vão sem colchão.",
+          "**Troca.** A loja informa troca em até 7 dias corridos do recebimento, e o carrinho anuncia a primeira devolução grátis.",
+          "**Garantia.** As fichas das camas falam em 30 dias contra defeitos de fábrica."
+        ],
+        "postParagraphs": [
+          "O atraso na entrega é a queixa mais comum da loja no Reclame Aqui: antes de comprar para uma data certa, leia [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-bella-estrado.webp",
+            "alt": "Cama Montessoriana Bella sem colchão, mostrando o estrado de ripas",
+            "caption": "A Cama Bella sem colchão, com o estrado de ripas à mostra. Foto: Cola e Decora.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Por onde começar",
+        "paragraphs": [
+          "O catálogo da Cola e Decora vai de quadros, almofadas, tapetes e prateleiras a móveis e brinquedos, com uma linha para personalizar com o nome da criança. Se a ideia é uma cama, o [guia da cama montessoriana da Cola e Decora](/reviews/cama-montessoriana-colaedecora) compara os modelos pela ficha. Para ver o que está com preço do dia, leia as [Ofertas da Live](/reviews/black-friday-colaedecora)."
+        ]
+      },
+      {
+        "heading": "Como aplicar o cupom",
+        "bullets": [
+          "Clique em “Comprar” no produto: o carrinho abre ao lado.",
+          "Em “Tem um cupom?”, digite EMCASACOMCECILIA e aplique.",
+          "Confira o aviso “Cupom aplicado” e o subtotal antes do checkout."
+        ],
+        "postParagraphs": [
+          "O passo a passo, com o print, está em [como usar o cupom da Cola e Decora](/reviews/cupom-colaedecora-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem cupom de primeira compra na Cola e Decora? O EMCASACOMCECILIA vale na primeira compra e dá 10% OFF. Digite no carrinho lateral, em Tem um cupom?.",
+          "O cupom vale para quem já comprou? Vale. O código serve para cliente novo e antigo.",
+          "Tem frete grátis na primeira compra? A página de frete diz que o frete é grátis em compras acima de R$ 599, para todo o Brasil. A gaveta do carrinho citou as regiões Sul e Sudeste, então confira com seu CEP.",
+          "O cupom soma com as ofertas da live? No nosso teste, somou. Veja o que está em oferta no [guia das Ofertas da Live](/reviews/black-friday-colaedecora)."
+        ]
+      }
+    ]
   }
 ];

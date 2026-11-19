@@ -53935,6 +53935,466 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/colaedecora/black-friday-colaedecora-capa.webp",
+      "local_url": "/images/reviews/colaedecora/black-friday-colaedecora-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129522,
+      "sha256": "2a08999e00e9e246a4c3fdd773bd2adb06db6f4c00fd19abbed89333ba4a921a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-colaedecora-capa.webp",
+      "storage_filename": "black-friday-colaedecora-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-colaedecora.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-colaedecora.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/black-friday-colaedecora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276307,
+          "column": 15,
+          "literal": "/images/reviews/colaedecora/black-friday-colaedecora-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2a08999e00e9e246a4c3fdd773bd2adb06db6f4c00fd19abbed89333ba4a921a/black-friday-colaedecora-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2a08999e00e9e246a4c3fdd773bd2adb06db6f4c00fd19abbed89333ba4a921a/black-friday-colaedecora-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:03.631Z",
+      "verification_etag_or_digest": "2a08999e00e9e246a4c3fdd773bd2adb06db6f4c00fd19abbed89333ba4a921a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/black-friday-colaedecora-nina.webp",
+      "local_url": "/images/reviews/colaedecora/black-friday-colaedecora-nina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24152,
+      "sha256": "5f3e8b01e2bbcacb3f037f50a1af15a9b18a3e9d0f908256b43541264ab57308",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-colaedecora-nina.webp",
+      "storage_filename": "black-friday-colaedecora-nina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-colaedecora.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-colaedecora.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/black-friday-colaedecora-nina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276394,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/black-friday-colaedecora-nina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5f3e8b01e2bbcacb3f037f50a1af15a9b18a3e9d0f908256b43541264ab57308/black-friday-colaedecora-nina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5f3e8b01e2bbcacb3f037f50a1af15a9b18a3e9d0f908256b43541264ab57308/black-friday-colaedecora-nina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:03.931Z",
+      "verification_etag_or_digest": "5f3e8b01e2bbcacb3f037f50a1af15a9b18a3e9d0f908256b43541264ab57308",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cama-montessoriana-colaedecora-bella.webp",
+      "local_url": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-bella.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49556,
+      "sha256": "af6bff6d16a95eecd5bf75ce64371e3ab9a26fac50e662d2b2c2154fbe6d2057",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cama-montessoriana-colaedecora-bella.webp",
+      "storage_filename": "cama-montessoriana-colaedecora-bella.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cama-montessoriana-colaedecora.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cama-montessoriana-colaedecora.json",
+          "line": 144,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-bella.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276588,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-bella.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/af6bff6d16a95eecd5bf75ce64371e3ab9a26fac50e662d2b2c2154fbe6d2057/cama-montessoriana-colaedecora-bella.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/af6bff6d16a95eecd5bf75ce64371e3ab9a26fac50e662d2b2c2154fbe6d2057/cama-montessoriana-colaedecora-bella.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:04.223Z",
+      "verification_etag_or_digest": "af6bff6d16a95eecd5bf75ce64371e3ab9a26fac50e662d2b2c2154fbe6d2057",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa.webp",
+      "local_url": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 109912,
+      "sha256": "4c6d5fe1f5be8565f9740c50a898f49adbaaf947e175054c1014c72b0a75df47",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cama-montessoriana-colaedecora-capa.webp",
+      "storage_filename": "cama-montessoriana-colaedecora-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cama-montessoriana-colaedecora.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cama-montessoriana-colaedecora.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276473,
+          "column": 15,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4c6d5fe1f5be8565f9740c50a898f49adbaaf947e175054c1014c72b0a75df47/cama-montessoriana-colaedecora-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c6d5fe1f5be8565f9740c50a898f49adbaaf947e175054c1014c72b0a75df47/cama-montessoriana-colaedecora-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:04.533Z",
+      "verification_etag_or_digest": "4c6d5fe1f5be8565f9740c50a898f49adbaaf947e175054c1014c72b0a75df47",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cama-montessoriana-colaedecora-nina.webp",
+      "local_url": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-nina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24026,
+      "sha256": "10772eba28f4da5682e1be834e8abe05ebacac5f07022492abebe74047780f7b",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cama-montessoriana-colaedecora-nina.webp",
+      "storage_filename": "cama-montessoriana-colaedecora-nina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cama-montessoriana-colaedecora.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cama-montessoriana-colaedecora.json",
+          "line": 179,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-nina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276623,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-nina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/10772eba28f4da5682e1be834e8abe05ebacac5f07022492abebe74047780f7b/cama-montessoriana-colaedecora-nina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/10772eba28f4da5682e1be834e8abe05ebacac5f07022492abebe74047780f7b/cama-montessoriana-colaedecora-nina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:04.817Z",
+      "verification_etag_or_digest": "10772eba28f4da5682e1be834e8abe05ebacac5f07022492abebe74047780f7b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cama-montessoriana-colaedecora-noah.webp",
+      "local_url": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-noah.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64942,
+      "sha256": "8e596f5167769002e4a2bb292a03a28f0606fef4756876248fcef0f3327a03b1",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cama-montessoriana-colaedecora-noah.webp",
+      "storage_filename": "cama-montessoriana-colaedecora-noah.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cama-montessoriana-colaedecora.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cama-montessoriana-colaedecora.json",
+          "line": 186,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-noah.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276630,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-noah.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8e596f5167769002e4a2bb292a03a28f0606fef4756876248fcef0f3327a03b1/cama-montessoriana-colaedecora-noah.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8e596f5167769002e4a2bb292a03a28f0606fef4756876248fcef0f3327a03b1/cama-montessoriana-colaedecora-noah.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:05.112Z",
+      "verification_etag_or_digest": "8e596f5167769002e4a2bb292a03a28f0606fef4756876248fcef0f3327a03b1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 231122,
+      "sha256": "060078751af592c232de9d6108aa9b8732d5db776e58984362b662d477a7e427",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-e-confiavel-capa.webp",
+      "storage_filename": "colaedecora-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-e-confiavel.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276741,
+          "column": 15,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/060078751af592c232de9d6108aa9b8732d5db776e58984362b662d477a7e427/colaedecora-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/060078751af592c232de9d6108aa9b8732d5db776e58984362b662d477a7e427/colaedecora-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:05.514Z",
+      "verification_etag_or_digest": "060078751af592c232de9d6108aa9b8732d5db776e58984362b662d477a7e427",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-e-confiavel-nina.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-e-confiavel-nina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25052,
+      "sha256": "ba668c35d47f1f77a34e6485d4d1dfb52335d7bbfe0d39cf8592b2822545f434",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-e-confiavel-nina.webp",
+      "storage_filename": "colaedecora-e-confiavel-nina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-e-confiavel.json",
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-confiavel-nina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276805,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-confiavel-nina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ba668c35d47f1f77a34e6485d4d1dfb52335d7bbfe0d39cf8592b2822545f434/colaedecora-e-confiavel-nina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ba668c35d47f1f77a34e6485d4d1dfb52335d7bbfe0d39cf8592b2822545f434/colaedecora-e-confiavel-nina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:05.814Z",
+      "verification_etag_or_digest": "ba668c35d47f1f77a34e6485d4d1dfb52335d7bbfe0d39cf8592b2822545f434",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-reclame-aqui-bella.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-reclame-aqui-bella.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27924,
+      "sha256": "214796720cf7a7ae037b7609d0c06fa61eb93ae8ef549bdd359160f6be49357e",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-reclame-aqui-bella.webp",
+      "storage_filename": "colaedecora-reclame-aqui-bella.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+          "line": 129,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-bella.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276965,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-bella.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/214796720cf7a7ae037b7609d0c06fa61eb93ae8ef549bdd359160f6be49357e/colaedecora-reclame-aqui-bella.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/214796720cf7a7ae037b7609d0c06fa61eb93ae8ef549bdd359160f6be49357e/colaedecora-reclame-aqui-bella.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:06.113Z",
+      "verification_etag_or_digest": "214796720cf7a7ae037b7609d0c06fa61eb93ae8ef549bdd359160f6be49357e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 172340,
+      "sha256": "224b88410258319c42da6d80d6e18010cec5a581a63b490bddf7d00befbedefb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "colaedecora-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276866,
+          "column": 15,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/224b88410258319c42da6d80d6e18010cec5a581a63b490bddf7d00befbedefb/colaedecora-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/224b88410258319c42da6d80d6e18010cec5a581a63b490bddf7d00befbedefb/colaedecora-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:06.510Z",
+      "verification_etag_or_digest": "224b88410258319c42da6d80d6e18010cec5a581a63b490bddf7d00befbedefb",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
       "local_url": "/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
       "media_kind": "image",
@@ -53978,6 +54438,144 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:04:20.794Z",
       "verification_etag_or_digest": "50ee4aafa0b451536044a1f5588c8c3f3c2d245902ae96da47146bbadb194d6c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa.webp",
+      "local_url": "/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121176,
+      "sha256": "931a29e1f7c8c5486059722c51f147e95e20e4e32039f930c26e98bb7b6ccd89",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-colaedecora-como-usar-capa.webp",
+      "storage_filename": "cupom-colaedecora-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-colaedecora-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-colaedecora-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276151,
+          "column": 15,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/931a29e1f7c8c5486059722c51f147e95e20e4e32039f930c26e98bb7b6ccd89/cupom-colaedecora-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/931a29e1f7c8c5486059722c51f147e95e20e4e32039f930c26e98bb7b6ccd89/cupom-colaedecora-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:06.926Z",
+      "verification_etag_or_digest": "931a29e1f7c8c5486059722c51f147e95e20e4e32039f930c26e98bb7b6ccd89",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-bella-estrado.webp",
+      "local_url": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-bella-estrado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19258,
+      "sha256": "b63426c4f79ba901dfb35d2b46f39f2d888d2fa76bfa7186d7328bf04f61df08",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-colaedecora-primeira-compra-bella-estrado.webp",
+      "storage_filename": "cupom-colaedecora-primeira-compra-bella-estrado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-colaedecora-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-colaedecora-primeira-compra.json",
+          "line": 79,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-bella-estrado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277083,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-bella-estrado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b63426c4f79ba901dfb35d2b46f39f2d888d2fa76bfa7186d7328bf04f61df08/cupom-colaedecora-primeira-compra-bella-estrado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b63426c4f79ba901dfb35d2b46f39f2d888d2fa76bfa7186d7328bf04f61df08/cupom-colaedecora-primeira-compra-bella-estrado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:07.243Z",
+      "verification_etag_or_digest": "b63426c4f79ba901dfb35d2b46f39f2d888d2fa76bfa7186d7328bf04f61df08",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 154024,
+      "sha256": "34477a3566e13ce89a205f7670fd90eb558502cb3eeb5c071ad3adcb24a0ed35",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-colaedecora-primeira-compra-capa.webp",
+      "storage_filename": "cupom-colaedecora-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-colaedecora-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-colaedecora-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277033,
+          "column": 15,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/34477a3566e13ce89a205f7670fd90eb558502cb3eeb5c071ad3adcb24a0ed35/cupom-colaedecora-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/34477a3566e13ce89a205f7670fd90eb558502cb3eeb5c071ad3adcb24a0ed35/cupom-colaedecora-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T21:33:07.661Z",
+      "verification_etag_or_digest": "34477a3566e13ce89a205f7670fd90eb558502cb3eeb5c071ad3adcb24a0ed35",
       "verification_status": "verified"
     },
     {
