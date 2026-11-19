@@ -268324,5 +268324,201 @@ export const reviewsData: unknown[] = [
         "slug": "skinup-ou-cotton-up-toda-up"
       }
     ]
+  },
+  {
+    "id": 1075,
+    "slug": "skelt-ou-episol-gold",
+    "title": "Skelt ou Episol Gold: qual água autobronzeadora escolher",
+    "seoTitle": "Skelt ou Episol Gold: qual água autobronzeadora escolher",
+    "type": "Comparativo de Beleza",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "As duas são água autobronzeadora de 150 ml e declaram a mesma duração. Veja o que muda entre a Skelt e a Episol Gold, da Mantecorp: tons, aplicação e preço no site de cada marca.",
+    "metaDescription": "Na Skelt, o SKEMCASACOMCECILIA dá 10% OFF. Compare com a Episol Gold, da Mantecorp: tons, duração, aplicação e preço.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/skelt-ou-episol-gold-capa.webp",
+    "imageAlt": "Frascos da Água Autobronzeadora e da Água Autobronzeadora Dark da Skelt em fotos oficiais, ao lado da pergunta Skelt ou Episol Gold e do cupom SKEMCASACOMCECILIA",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "As duas são água autobronzeadora de 150 ml, e as marcas declaram bronzeado de 7 a 12 dias. A Episol Gold, da Mantecorp Skincare, tem um tom só; a Skelt tem a Água e a Água Dark, mais intensa segundo a marca. Com o SKEMCASACOMCECILIA, as duas Skelt saem mais baratas que a Episol enquanto durar a promoção."
+        ]
+      },
+      {
+        "heading": "O que as duas têm em comum",
+        "paragraphs": [
+          "A Episol Gold é a água autobronzeadora da Mantecorp Skincare, da mesma linha Episol dos protetores solares da marca. A Skelt é uma marca brasileira de autobronzeadores, vendida no site próprio.",
+          "As duas vêm em frasco de 150 ml com válvula de espuma, são para o corpo e, segundo as marcas, o bronzeado dura de 7 a 12 dias. As duas levam ácido hialurônico na fórmula. Por isso, duração, tamanho e esse ativo não ajudam a escolher.",
+          "Autobronzeador não é protetor solar, e a Mantecorp avisa na página da Episol Gold que ela não protege contra a ação solar. O protetor continua necessário com qualquer uma das duas."
+        ]
+      },
+      {
+        "heading": "O que muda entre a Skelt e a Episol Gold",
+        "paragraphs": [
+          "A diferença está no tom, no jeito de aplicar e no que fazer depois. Tudo abaixo é o que cada marca declara na página do produto."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "Skelt",
+            "Episol Gold"
+          ],
+          "rows": [
+            [
+              "Tons",
+              "Dois: a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), de bronzeado médio, e a [Água Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), que a marca diz ser duas vezes mais intensa",
+              "Um só; a página não diz a intensidade, e a Mantecorp não vende versão mais escura"
+            ],
+            [
+              "Como aplicar",
+              "Com luva, que a marca chama de essencial para evitar manchas e vende à parte; a Água é incolor, e a loja a indica a quem já tem prática",
+              "Com as mãos, lavando-as logo depois; fora do rosto"
+            ],
+            [
+              "Depois de aplicar",
+              "A marca diz que não é preciso tirar o produto do corpo",
+              "Deixar 8 horas e tirar no banho, sem esfregar; a cor termina de aparecer em 24 horas"
+            ],
+            [
+              "Rendimento declarado",
+              "5 a 8 aplicações por frasco",
+              "A página da marca não diz"
+            ],
+            [
+              "O que mais a página destaca",
+              "Agentes bronzeadores naturais; vegana, sem crueldade animal, sem parabenos e sem óleo mineral; a Dark leva vitamina C",
+              "DHA e eritrulose; toque seco, não comedogênica, hipoalergênica e dermatologicamente testada"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na prática, a Episol Gold pede uma etapa a mais, a espera de 8 horas antes do banho. A Skelt pede a luva, vendida à parte, e o preço dela não entra na conta abaixo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/autobronzeador-agua.webp",
+            "alt": "Frasco da Água Autobronzeadora da Skelt, de 150 ml, com a faixa listrada em verde",
+            "caption": "Água Autobronzeadora. Foto oficial da Skelt.",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "href": "https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/skelt/autobronzeador-agua-dark.webp",
+            "alt": "Frasco da Água Autobronzeadora Dark da Skelt, de 150 ml, com a faixa listrada em roxo",
+            "caption": "Água Autobronzeadora Dark. Foto oficial da Skelt.",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "href": "https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa cada uma",
+        "paragraphs": [
+          "Preços nos sites oficiais em 19/11: a Skelt no site dela e a Episol Gold no site da Mantecorp Skincare. Como os três frascos têm 150 ml, o preço compara direto."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço de tabela",
+            "Preço no site",
+            "Com o SKEMCASACOMCECILIA"
+          ],
+          "rows": [
+            [
+              "[Skelt Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 119,90",
+              "R$ 95,92, em promoção",
+              "R$ 86,33"
+            ],
+            [
+              "[Skelt Água Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 129,90",
+              "R$ 64,95, em promoção",
+              "R$ 58,46"
+            ],
+            [
+              "Episol Gold",
+              "R$ 99,90",
+              "R$ 99,90",
+              "Não se aplica"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A última coluna é a conta dos 10% do código sobre o preço do site. Confira o desconto no resumo da sacola antes de pagar.",
+          "Com a promoção, as duas águas da Skelt custam menos que a Episol Gold, e a Dark custa bem menos. Sem a promoção, a conta vira: a Água sai por R$ 107,91 com o código e a Dark, por R$ 116,91, acima dos R$ 99,90 da Episol."
+        ]
+      },
+      {
+        "heading": "Nunca usou autobronzeador?",
+        "paragraphs": [
+          "A Água da Skelt é incolor, e a loja a indica a quem já sabe aplicar. A página da Episol Gold não fala em cor-guia, e a Mantecorp não vende outro autobronzeador.",
+          "Para a primeira vez, a Skelt tem o [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), com cor-guia, que mostra onde o produto já foi. A comparação entre os modelos da marca está em [qual autobronzeador Skelt escolher](/reviews/autobronzeador-skelt-qual-escolher). Na mesma loja há a luva e o removedor; o passo a passo do removedor está em [como tirar o autobronzeador da Skelt](/reviews/removedor-autobronzeador-skelt-como-tirar). A comparação com a outra marca de autobronzeador está em [Skelt ou Best Bronze](/reviews/skelt-ou-best-bronze)."
+        ]
+      },
+      {
+        "heading": "Como usar o código na Skelt",
+        "paragraphs": [
+          "Cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola, no site oficial da Skelt. O código dá 10% e soma com as promoções e com os 5% do Pix.",
+          "As condições estão na [página do cupom da Skelt](/cupons/skelt), e o passo a passo com imagens, em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar). O código não vale na Episol Gold."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Episol Gold e Mantecorp são a mesma marca? A Episol Gold é um produto da Mantecorp Skincare, da linha Episol, a mesma dos protetores solares da marca.",
+          "Qual dura mais, Skelt ou Episol Gold? As duas marcas declaram de 7 a 12 dias de bronzeado, então a duração não separa as duas.",
+          "Precisa de luva para aplicar? Na Skelt, a marca chama a luva de essencial para evitar manchas e a vende à parte. Na Episol Gold, a Mantecorp manda aplicar com as mãos e lavá-las logo depois.",
+          "A água autobronzeadora mancha a roupa? A Mantecorp diz que a Episol Gold não mancha tecido e sai na lavagem. A Skelt diz que a Água, por não ter cor-guia, tem menos chance de manchar.",
+          "Grávida pode usar autobronzeador? Leia o rótulo do produto e fale com o seu médico antes de usar."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Skelt se quer escolher entre o tom médio e o mais escuro, ou comprar a luva e o removedor no mesmo pedido.",
+        "Leve a Episol Gold se prefere aplicar com as mãos, sem comprar luva, ou se a promoção da Skelt tiver acabado: sem ela, a Episol custa menos."
+      ],
+      "skipIf": [
+        "Passe as águas se nunca usou autobronzeador e quer ver onde já aplicou: o mousse com cor-guia da Skelt é o caminho para começar."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Skelt pelo botão, escolha a água autobronzeadora e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Feito com as fichas das marcas, sem uso dos produtos. Podemos receber comissão pelo cupom e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "autobronzeador-skelt-qual-escolher"
+      },
+      {
+        "slug": "skelt-ou-best-bronze"
+      },
+      {
+        "slug": "removedor-autobronzeador-skelt-como-tirar"
+      }
+    ]
   }
 ];
