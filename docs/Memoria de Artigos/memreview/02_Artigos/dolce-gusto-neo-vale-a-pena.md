@@ -6,9 +6,9 @@ parceiro: "[[Dolce-Gusto]]"
 category: "produtos-experiencias"
 reviewKind: "produto"
 type: "Review de Produto"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-4"
-proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
+proxima_acao: "reler a altura (31,2 cm) na ficha da loja pelo Chrome; reler o preço da NEO e o aviso de indisponível depois da Black Friday"
 bloqueado_por: "-"
 data_criacao: "2026-11-19"
 modo_i18n: "somente-pt"
@@ -226,3 +226,9 @@ O texto usa só o que está nas respostas. Pergunta sem resposta não vira texto
 - **Altura:** 31,2 cm, atribuídos à ficha da loja, e o manual traz outras medidas. A sessão não conferiu: a loja bloqueia o curl e o Chrome não conectou. Reler a ficha no próximo acesso pelo navegador.
 - **Título visível:** passa a ser "Dolce Gusto NEO vale a pena? Como é usar a máquina em casa". O `seoTitle` não muda.
 - **Fora do site:** a descrição do Short do café gelado ainda diz "5% com CECI". Fica com o Bruno.
+
+## No ar (19/11/2026)
+
+- Saiu no release `f62d56ac5` (deploy UUID `1ec3cd39…`), feito por outra sessão. Ele inclui o #1216 e o #1218.
+- Smoke: as 4 páginas (o review, o guia de máquinas e as duas páginas de vídeo) dão 200; a capa vem do CDN; o `covers:check` dá 1/1; sitemap e llms ok.
+- IndexNow com 6 URLs: o review, o guia de máquinas, as duas páginas de vídeo, `/videos` e o sitemap.

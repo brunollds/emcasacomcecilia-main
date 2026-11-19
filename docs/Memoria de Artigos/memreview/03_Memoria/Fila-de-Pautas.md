@@ -18,7 +18,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | NM7 | Novasource Proline: para que serve, caixinha, pó ou litro e preço por dose (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[novasource-proline-para-que-serve]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Bruno, 19/11: "sim, só rótulo". Indicação entre aspas, sem "cicatrização" no título nem no snippet |
 | SF4 e SF5 | Como usar o autobronzeador Skelt, com a seção "mancha a roupa e o lençol?" (GO do Bruno, 19/11) | Skelt | PT | [[autobronzeador-skelt-como-usar]] e fatos [[skelt-fatos-1811]] | No ar em 19/11 (#1207, release 7a7782a4; id 1076). |
 | CH1 | Cléa Store ou Hering: camiseta feminina oversized e de algodão peruano (prioridade do Bruno, 08/11; guia pelas fichas, sem teste da peça) | Cléa Store | PT | [[clea-store-ou-hering-camiseta-feminina]] | No ar desde 08/11 (id 865, #759) |
-| DG1 | Dolce Gusto NEO vale a pena? (review da Cecília) | Dolce Gusto | PT | [[dolce-gusto-neo-vale-a-pena]] | Escrito, revisado (Fable) e com capa em 19/11; capa no CDN (sim do Bruno); o deploy espera o GO |
+| DG1 | Dolce Gusto NEO vale a pena? (review da Cecília) | Dolce Gusto | PT | [[dolce-gusto-neo-vale-a-pena]] | No ar em 19/11 (release f62d56ac5), com o parecer do Farol (#1218) e IndexNow |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação |
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação |
