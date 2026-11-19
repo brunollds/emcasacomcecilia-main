@@ -34,6 +34,7 @@ não tem link próprio: o `offerUrl` é o site oficial.
 |---|---|---|---|---|---|
 | Trocas: até 7 dias corridos do recebimento, pelo sistema `lojacolaedecora.troque.app.br`; embalagem original, sem uso, etiquetas e nota fiscal | fato_oficial | `/pagina/trocas-e-devolucoes` | 2026-11-19 | 2027-02-19 | O carrinho anuncia "1ª devolução grátis" |
 | Empresa: MULLER & SPENGLER STORE LTDA | fato_oficial | Rodapé do checkout | 2026-11-19 | 2027-02-19 | |
+| Linhas: almofadas, quadros, móbiles, tapetes, móveis (camas, escrivaninhas, cadeiras, estantes; linha montessoriana, como a cama montessoriana e a estante Montessori), roupa de cama, enfeites, prateleiras e organizadores, brinquedos, bastidores, macramês e pelúcias | fato_oficial | Menu do site, `/pagina/cama-montessoriana-infantil.html` e vitrine | 2026-11-19 | 2027-02-19 | Base do `aboutBrand` ("móveis montessorianos" e "móbiles") |
 
 ---
 
