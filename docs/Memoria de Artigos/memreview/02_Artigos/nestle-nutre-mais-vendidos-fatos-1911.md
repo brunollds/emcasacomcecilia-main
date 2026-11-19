@@ -41,7 +41,7 @@ Fonte: duas capturas de tela da vitrine de mais vendidos da loja, enviadas pelo 
 | NM7 | Novasource Proline: para que serve | Trends 16; "cicatrização", "ou cubitan" | Fórmula de uso clínico (cicatrização). É o mais vendido em três sabores, mas é o de maior risco: só entra como ficha do rótulo, sem indicação |
 | NM8 | Kit degustação Nutren (Senior e Control): vale para experimentar o sabor? | Sem sinal de busca medido | Poderia ser seção do `nutren-senior-kit-combo-ou-assinatura` |
 
-**NM9 e NM10 (19/11):** "Novasource Proline ou Cubitan" e "Novasource Proline ou Impact" viram artigos próprios, por decisão do Bruno. Sem leitura ainda.
+**NM9 e NM10 (19/11):** "Novasource Proline ou Cubitan" e "Novasource Proline ou Impact" viram artigos próprios, por decisão do Bruno. O Impact foi lido na loja (214 kcal, 13 g de proteína e 0,8 g de arginina por caixinha de 200 ml; R$ 20,31; combos de 15 e de 30) e tem briefing em [[novasource-proline-ou-impact]]. Do Cubitan só deu para ler o preço e a descrição numa farmácia; o briefing [[novasource-proline-ou-cubitan]] está parado à espera da tabela oficial.
 
 **Ordem sugerida:** NM1 (menor risco e sem artigo), NM2 (maior busca), NM6. As de Control e Proline pedem a leitura do rótulo e uma decisão do Bruno sobre entrar em produto de uso clínico.
 
