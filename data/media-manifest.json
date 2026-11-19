@@ -169335,6 +169335,52 @@
       "verified_at": "2026-11-18T21:47:26.002Z",
       "verification_etag_or_digest": "51ccd9eaa4431f111538a34933a75d6cb8155277d35076af3eaa61755865bd6c",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-para-academia-capa-painel-20261118.webp",
+      "local_url": "/images/reviews/insider/calcinha-para-academia-capa-painel-20261118.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56284,
+      "sha256": "84e8e1a4a5e464d3a195401bc3eaa901d945a6fb69003297c8b2de0c2eb67ce1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-para-academia-capa-painel-20261118.webp",
+      "storage_filename": "calcinha-para-academia-capa-painel-20261118.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-para-academia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-para-academia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/calcinha-para-academia-capa-painel-20261118.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 267673,
+          "column": 15,
+          "literal": "/images/reviews/insider/calcinha-para-academia-capa-painel-20261118.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/84e8e1a4a5e464d3a195401bc3eaa901d945a6fb69003297c8b2de0c2eb67ce1/calcinha-para-academia-capa-painel-20261118.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/84e8e1a4a5e464d3a195401bc3eaa901d945a6fb69003297c8b2de0c2eb67ce1/calcinha-para-academia-capa-painel-20261118.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T00:33:51.510Z",
+      "verification_etag_or_digest": "84e8e1a4a5e464d3a195401bc3eaa901d945a6fb69003297c8b2de0c2eb67ce1",
+      "verification_status": "verified"
     }
   ]
 }

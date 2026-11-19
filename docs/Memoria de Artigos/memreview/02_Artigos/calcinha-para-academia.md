@@ -174,6 +174,6 @@ os 87,5% são dos modelos com costura.
 - **Revisão (Fable 5.2):** 17 ajustes aplicados (alegações atribuídas a cada loja, preço testado separado do
   calculado, juízos de uso tirados). Fica para o Bruno: título, `description` e resposta rápida dizem "não marca" e
   "some na roupa" sem uso, como no briefing aprovado.
-- **Capa:** fotos oficiais da Brief a laser (Insider) e da SkinUp cós alto (Toda Up), sem nome de loja;
-  `/images/reviews/insider/calcinha-para-academia-capa.webp`. Corpo: quatro fotos que já estão no CDN.
+- **Farol (ChatGPT/Codex, 18/11):** 27 substituições aplicadas sobre o commit 66c65bcb (parecer em `docs/auditoria-copy-artigos/dc2-calcinha-academia-20261118-farol/`, fora do Git). Título trocado para "Calcinha para academia: Insider ou Toda Up para treinar de legging?" (seoTitle "Calcinha para academia: Insider ou Toda Up?"), porque "não marca" prometia resultado sem uso; veredito por prioridade antes do FAQ. A sessão tirou a frase de estoque da Cotton Up branca (estoque alheio) e o "eu" do título do veredito.
+- **Capa (escolha do Bruno):** a do Farol, painel verde com o logo da Insider, "Cupom Insider: EMCASACOMCECILIA" e a foto oficial da NakedFeel; `/images/reviews/insider/calcinha-para-academia-capa-painel-20261118.webp`. Corpo: quatro fotos que já estão no CDN.
 - `skinup-marca-na-roupa` ganhou o link de volta e o relacionado.
