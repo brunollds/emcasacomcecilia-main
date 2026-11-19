@@ -102,7 +102,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | Código | Pauta | Parceiros | Busca | Nota |
 |---|---|---|---|---|
 | SF1 | Skelt ou Panvel Glow: qual autobronzeador | Skelt | Trends: "autobronzeador panvel" 8 contra 30 da Skelt | A Panvel custa de 2 a 3 vezes menos no mousse; a Skelt declara 7 a 12 dias contra "até 7" |
-| SF2 | Skelt ou Episol Gold (Mantecorp): água autobronzeadora | Skelt | Trends 1; "ou episol" e "ou mantecorp" | **GO do Bruno em 18/11; briefing em [[skelt-ou-episol-gold]] (18/11), espera a redação.** Mesmo tamanho e mesma duração declarada (7 a 12 dias). Preço pelo site oficial de cada marca (Bruno, 19/11): Episol R$ 99,90, Skelt R$ 119,90 na tabela e R$ 101,92 na campanha; a Dark sai abaixo em promoção. A Skelt tem duas intensidades |
+| SF2 | Skelt ou Episol Gold (Mantecorp): água autobronzeadora | Skelt | Trends 1; "ou episol" e "ou mantecorp" | **GO do Bruno em 18/11; briefing em [[skelt-ou-episol-gold]] (18/11), espera a redação.** Mesmo tamanho e mesma duração declarada (7 a 12 dias). Preço pelo site oficial de cada marca (Bruno, 19/11): Episol R$ 99,90; Skelt com o código R$ 91,73 na campanha (ganha) e R$ 107,91 na tabela (perde por pouco); a Dark sai bem abaixo em promoção. A Skelt tem duas intensidades |
 | SF3 | Skelt ou Australian Gold | Skelt | Trends 1 | Falta ler o mousse da Australian Gold; a Kakadu é loção de manutenção |
 | SF4 | Autobronzeador Skelt: como usar, passo a passo | Skelt | Muitas variações de "como usar" no autocompletar | Conferir a sobreposição com o `autobronzeador-skelt-qual-escolher` |
 | SF5 | Autobronzeador mancha a roupa e o lençol? | Skelt | "mancha a roupa", "mancha lençol" | Pode virar seção da SF4 |

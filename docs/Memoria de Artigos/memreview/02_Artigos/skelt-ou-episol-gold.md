@@ -67,14 +67,20 @@ mesma: 7 a 12 dias nas duas.** O artigo se sustenta em outra coisa: a Skelt tem 
 | O que mais a página diz | vegano, sem crueldade | idem | ácido hialurônico, toque seco, não comedogênico, dermatologicamente testado, "não transfere cor para os tecidos" |
 | Preço de tabela (site oficial) | R$ 119,90 | R$ 129,90 | R$ 99,90 |
 | Em 18/11 (site oficial) | R$ 101,92 (campanha) | R$ 64,95 (campanha, 50%) | R$ 99,90, sem promoção |
+| Tabela com o código a 10% | R$ 107,91 | R$ 116,91 | sem código nosso |
+| Campanha com o código a 10% | R$ 91,73 | R$ 58,46 | — |
+| Campanha com os 5% que o carrinho deu em 18/11 | R$ 96,82 | R$ 61,70 | — |
 
 - **Código:** o texto diz 10%, como o resto do site (decisão do Bruno, 18/11). No carrinho de 18/11 o `SKEMCASACOMCECILIA`
   aplicou 5% sobre o preço da campanha (Água R$ 96,82; Dark R$ 61,70). **Nenhum preço "com o código" sem reler o
   carrinho no dia.**
-- **Preço, oficial contra oficial:** na tabela a Episol custa R$ 20 a menos que a Água da Skelt. Na campanha de
-  novembro a diferença cai para cerca de R$ 2 (R$ 101,92 contra R$ 99,90), e com o código a Skelt pode ficar
-  abaixo: só a conta do carrinho do dia decide. A Água Dark, a 50%, sai bem abaixo enquanto a campanha durar.
-- **Onde a Episol ganha:** preço de tabela; venda em farmácia; aplicação sem luva.
+- **Preço, oficial contra oficial e com o código (Bruno, 19/11: a conta da Skelt leva os 10%):**
+  - **Na campanha, a Skelt ganha:** a Água sai por R$ 91,73 com 10% (R$ 96,82 com os 5% do carrinho de 18/11),
+    contra R$ 99,90 da Episol. A Dark sai por R$ 58,46 (R$ 61,70 a 5%). Nos dois percentuais ela fica abaixo.
+  - **Fora da campanha, a Episol ganha por pouco:** R$ 107,91 com o código contra R$ 99,90.
+  - O texto escreve a conta com 10%, como o resto do site, e a redação relê o carrinho no dia. Se o texto sair
+    depois da campanha, o veredito de preço muda: reler antes.
+- **Onde a Episol ganha:** preço fora de promoção; venda em farmácia; aplicação sem luva.
 - **Onde a Skelt ganha fora do preço:** duas intensidades; rendimento declarado; a linha na mesma loja (mousse com
   cor-guia para quem nunca usou, luva, removedor, kits); frete grátis sem mínimo no Sul, Sudeste e Centro-Oeste.
 
@@ -82,8 +88,8 @@ mesma: 7 a 12 dias nas duas.** O artigo se sustenta em outra coisa: a Skelt tem 
 
 1. São o mesmo tipo de produto, do mesmo tamanho, com a mesma duração declarada.
 2. A diferença que decide é o **tom**: a Episol tem um; a Skelt tem a comum e a Dark.
-3. **Preço:** a Episol custa menos na tabela. Na campanha, a Água da Skelt encosta e a Dark sai abaixo; o código
-   entra na conta com o percentual do carrinho do dia.
+3. **Preço:** com o código, a Skelt sai abaixo da Episol enquanto a campanha durar (a Água e, mais ainda, a
+   Dark). Fora da campanha, a Episol custa cerca de R$ 8 a menos.
 4. **Aplicação:** nenhuma das duas tem cor-guia. Quem nunca usou autobronzeador encontra o mousse com cor-guia na
    Skelt (link para o irmão); a Episol não tem essa opção.
 5. Sem veredito único: o quadro `decision` fecha por caso.
@@ -103,8 +109,8 @@ mesma: 7 a 12 dias nas duas.** O artigo se sustenta em outra coisa: a Skelt tem 
 
 ## 6. Esqueleto (PT)
 
-1. **Resposta rápida** (rascunho, 54 palavras):
-   > As duas são água autobronzeadora de 150 ml, incolor, e as duas marcas declaram bronzeado de 7 a 12 dias. A Episol Gold, da Mantecorp, tem um tom só e custa menos no preço de tabela. A Skelt tem duas intensidades, a comum e a Dark, e vende luva e removedor na mesma loja.
+1. **Resposta rápida** (rascunho, 48 palavras):
+   > As duas são água autobronzeadora de 150 ml, incolor, e as duas marcas declaram bronzeado de 7 a 12 dias. A Episol Gold, da Mantecorp, tem um tom só. A Skelt tem duas intensidades, a comum e a Dark, e vende luva e removedor na mesma loja.
 2. **O que as duas têm em comum** (forma, tamanho, duração declarada, uso corporal).
 3. **O que muda** (tabela: tom, aplicação, o que a página declara).
 4. **Quanto custa cada uma** (tabela: tabela, preço do dia, com o código, por 100 ml).
@@ -143,7 +149,7 @@ mesma: 7 a 12 dias nas duas.** O artigo se sustenta em outra coisa: a Skelt tem 
 | Episol em outras lojas (farmácia, marketplace) | — | fora do texto (Bruno, 19/11) |
 | Episol: cor-guia ou incolor; tempo de ação | não dito nas páginas lidas | a ler na embalagem ou no artigo da marca |
 | Skelt Água e Dark: preços, 7 a 12 dias, 5 a 8 aplicações, incolor | catálogo, ficha [[skelt-fatos-1811]] | verificado; reler |
-| Código a 10% | decisão do Bruno; o carrinho de 18/11 deu 5% | reler no dia; não cravar preço |
+| Skelt com o código: R$ 91,73 e R$ 58,46 (10%); R$ 96,82 e R$ 61,70 (5%, carrinho de 18/11) | conta sobre o preço da campanha | conta a 10% por decisão do Bruno; reler o carrinho no dia |
 
 ## 9. Pendências
 
