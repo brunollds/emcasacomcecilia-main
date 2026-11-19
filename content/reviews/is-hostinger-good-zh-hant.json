@@ -35,19 +35,19 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車輸入 SONAR20，或透過連結進入：新購首期享 20% 優惠。網域與續訂不在優惠範圍內；付款前請核對總額。",
+    "text": "選好方案後，請在購物車確認 SONAR20 能否提供首期 20% 折扣，也請確認續訂費用。",
     "label": "查看 Hostinger 的方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "透過 SONAR20 優惠碼或連結購買，我可能獲得傭金，你無需額外付費。我沒有用過 AI 建站工具和 Minecraft 伺服器。",
+  "editorialNote": "透過 SONAR20 優惠碼或連結購買，我可能獲得佣金，你無需多付費用。AI 建站工具、網路商店和 Minecraft 伺服器的資訊來自 Hostinger。",
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
       "你想把網站、WordPress、郵箱和網域放在同一個後台，並且已經知道方案續訂時要付多少。",
-      "你要跑應用程式、自動化或 AI 代理，也有人負責維護伺服器：這時 VPS 才合適。"
+      "你要跑應用程式、自動化或 AI 智慧體，也有人負責維護伺服器：這時 VPS 才合適。"
     ],
     "skipIf": [
       "你的預算只有靠最長方案的入門價才夠。",
@@ -78,14 +78,14 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Hostinger 適合想用低廉的入門價買網站主機、WordPress、郵箱或 VPS，並且事先算好續訂費用的人，續訂價是入門價的好幾倍。我用它的主機、VPS、郵箱和網域，這個網站也跑在上面。真正影響選擇的是產品類型，以及你願意自己動多少伺服器：下面每一章講一個產品。"
+        "我從 2024 年開始使用 Hostinger。這個網站架在這裡，我也用它的 VPS、電子郵件和網域。第一次架站或做 WordPress 部落格，通常用網站主機就夠了。需要自己管理伺服器時，可以考慮 VPS。購買前先看首期總價和續訂月費。"
       ]
     },
     {
       "heading": "Hostinger 的主機好用嗎？",
       "paragraphs": [
         "就我的用法來說，好用。我自己用過：從 2024 年起我就是 Hostinger 的用戶，有主機、一台 VPS KVM 2、專業郵箱和網域，全部開著自動續訂。這個網站 Em Casa com Cecília 就以 Node.js 應用程式的形式跑在上面。",
-        "它的後台叫 hPanel，把方案、網域、檔案、資料庫和安全都放在同一個選單裡。我遇過的問題客服都解決了，其中大部分是客服的 AI 代理解決的。我也從沒看過網站當機，這是身為用戶的感受：我沒有測過上線時間和速度。",
+        "它的後台叫 hPanel，把方案、網域、檔案、資料庫和安全都放在同一個選單裡。我遇過的問題客服都解決了，其中大部分是客服的 AI 智慧體解決的。我也從沒看過網站當機，這是身為用戶的感受：我沒有測過上線時間和速度。",
         "主機適合想要一個網站或 WordPress、又希望後台簡單的人。不適合只看入門價的人：續訂要貴得多，價格表裡看得出差多少。付款前還要確認伺服器位置：網站主機的可選位置因方案而異，請先看你的方案提供哪些。"
       ]
     },
@@ -98,12 +98,12 @@
         "**第一個網站、部落格或作品集：** 網站主機，或 AI 建站工具。",
         "**已經在用 WordPress：** Premium 或 Unlimited 主機。",
         "**網店，或流量很大的多個網站：** Cloud Startup。",
-        "**要跑應用程式、n8n 這類自動化或 AI 代理：** VPS，並接受自己維護伺服器。",
+        "**要跑應用程式、n8n 這類自動化或 AI 智慧體：** VPS，並接受自己維護伺服器。",
         "**只想要自己網域的郵箱：** 專業郵箱，按郵箱計費。"
       ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hant.webp",
-        "alt": "表格：網站主機適合網站、部落格或 WordPress，不適合要在伺服器上裝程式的人；Cloud Startup 適合高流量網店或多個網站；VPS 適合應用程式、自動化或 AI 代理，沒人維護伺服器就別選；專業郵箱適合自己網域的郵箱，按郵箱計費，不適合群發電子報；AI 建站適合不會寫程式的簡單網站，不適合想要外掛和自己佈景主題的人；Minecraft 適合會長期連線同樂的小圈子，只玩幾個月就別選。",
+        "alt": "表格：網站主機適合網站、部落格或 WordPress，不適合要在伺服器上裝程式的人；Cloud Startup 適合高流量網店或多個網站；VPS 適合應用程式、自動化或 AI 智慧體，沒人維護伺服器就別選；專業郵箱適合自己網域的郵箱，按郵箱計費，不適合群發電子報；AI 建站適合不會寫程式的簡單網站，不適合想要外掛和自己佈景主題的人；Minecraft 適合會長期連線同樂的小圈子，只玩幾個月就別選。",
         "caption": "Hostinger 的每個產品適合誰，以及什麼時候別選。",
         "objectFit": "contain",
         "aspectRatio": 1.3333
@@ -112,16 +112,16 @@
     {
       "heading": "用 Hostinger 建站好用嗎？",
       "paragraphs": [
-        "好用，兩條路的差別在於你想在網站上投入多少心力。用主機，你自己安裝 WordPress 或上傳自己的程式碼，並自己維護：我這個網站就是這樣，用的是自己寫的程式碼，不是 WordPress。用 AI 建站工具，你描述想要的網站，編輯器會產生頁面的第一版。",
-        "依官方頁面所說，AI 建站工具沒有單獨的方案，所有網站主機方案都附帶它。所以兩條路的差別，就是留給你的工作量。想要外掛、自己的佈景主題和完全掌控的人選 WordPress；想不寫程式就把簡單網站上線的人，從 AI 建站工具開始。它不適合想上架 App Store 或 Google Play 的人：它做出來的是網站或網頁應用程式。",
+        "想用 WordPress，選擇網站主機方案後就能從後台安裝。要部署自己寫的程式，先確認方案支援哪些技術。這個網站以 Node.js 運行。Hostinger 的文件說明，Unlimited 和 Cloud 方案支援代管 Node.js 應用程式。",
+        "Hostinger 有提供含主機的 AI 建站方案。已經有主機的使用者可查看現有方案包含哪些功能和 AI 點數。需要外掛和自訂佈景主題，可以用 WordPress。想免寫程式發布簡單的網站或網頁應用程式，可以用 AI 建站工具。",
         "Premium 最多可放三個網站。[Hostinger 上的 WordPress](/zh-hant/reviews/wordpress-hostinger-zh-hant)說明各種情況該選哪個方案，[Hostinger 的 AI 建站工具](/zh-hant/reviews/hostinger-ai-builder-zh-hant)則介紹它適合什麼樣的專案。"
       ]
     },
     {
       "heading": "Hostinger VPS 好用嗎？",
       "paragraphs": [
-        "好用，前提是你需要一台自己專用的伺服器，並且有人維護。除了主機，我還有一台 VPS KVM 2。用主機時伺服器由 Hostinger 維護；用 VPS，更新、安全和出了問題怎麼辦，都歸購買的人。",
-        "VPS 適合要跑應用程式、n8n 這類自動化或 AI 代理的人，這些需要主機方案不提供的程式和管理員權限。一般網站用主機就夠了，還更便宜，[VPS 還是共享主機](/zh-hant/reviews/vps-or-shared-hosting-zh-hant)依情境算過這筆帳。要跑 AI 代理的話，[適合 OpenClaw 的最佳 VPS](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)會告訴你選哪個 KVM。",
+        "除了網站主機，我還用 KVM 2 VPS。如果需要管理員權限或想自行安裝伺服器軟體，VPS 就派得上用場。Hostinger 負責基礎設施，系統設定、更新和安全由使用者負責。",
+        "如果應用程式、n8n 工作流程或 AI 智慧體需要管理員權限，可以考慮 VPS。一般網站用主機就夠了，還更便宜，[VPS 還是共享主機](/zh-hant/reviews/vps-or-shared-hosting-zh-hant)依情境算過這筆帳。要跑 AI 智慧體的話，[適合 OpenClaw 的最佳 VPS](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)會告訴你選哪個 KVM。",
         "設定時要選伺服器位置。選離你的受眾最近的位置；位置之後可以更改。"
       ]
     },
@@ -129,7 +129,7 @@
       "heading": "Hostinger 郵箱好用嗎？",
       "paragraphs": [
         "想要自己網域的郵箱，好用。我在自己的網域上用 Hostinger 的專業郵箱，和網站在同一個後台，不需要再用別的服務。",
-        "價格按郵箱計算：一個人一個郵箱，三人團隊就付三個郵箱的錢。方案從 Starter 到 Premium，價格在價格章節的表裡。",
+        "表內的獨立電子郵件方案按信箱收費。若你已購買網站主機，請先確認方案附幾個信箱和可用期限。",
         "別把它和群發電子報搞混：專業郵箱是收件匣，對名單群發郵件是另一個產品 Reach，在[Reach、Mailchimp 還是 Brevo](/zh-hant/reviews/hostinger-reach-zh-hant)裡做了比較。如果你已經在別的服務上用著自己網域的郵箱，而且夠用，就沒必要換。"
       ]
     },
@@ -144,113 +144,129 @@
     {
       "heading": "網店與 Minecraft",
       "paragraphs": [
-        "在國際站上，網店功能包含在主機方案裡（Premium 的卡片把電子商務列在功能中）。如果網店成長到多個網站或大量流量，適合它的是 Cloud Startup。",
-        "Minecraft 適合會在自己的伺服器上長期連線同樂的小圈子：Game Panel 方案是帶遊戲面板的 VPS，在裡面設定伺服器、模組並邀請朋友。表裡的入門價是 24 個月一次付清的價格；如果只玩幾個月，這個總額比月價更有份量。"
+        "國際站把電商功能列在 Premium 的功能清單中。Unlimited 和 Cloud Startup 標明包含一年的網路商店服務。下單前請確認方案提供哪些功能，以及包含期限結束後的費用。",
+        "Game Panel 可設定 Minecraft 伺服器、安裝模組並邀請好友。表內是 24 個月的總價。如果只打算玩幾個月，這筆總價會比月費更有負擔。"
       ]
     },
     {
-      "heading": "首期之後要付多少",
-      "paragraphs": [
-        "官網上醒目的大字價格，是最長期限的月價，而整個期限要一次付清；續訂價格寫在小字裡，高得多。表裡把兩個價格逐個方案列了出來："
-      ],
+      "heading": "網站主機費用",
       "comparisonTable": {
-        "caption": "Hostinger 國際站 11 月 19 日的價格，已是黑色星期五價，未使用 SONAR20；你所在地區的價格可能不同。",
+        "caption": "11 月 19 日查閱的 Hostinger 國際站價格，未使用 SONAR20。價格可能因地區而異。",
         "headers": [
-          "產品與方案",
-          "期限",
+          "方案和首期長度",
           "入門價每月",
           "入門價（整個期限）",
           "續訂價每月"
         ],
         "rows": [
           [
-            "[網站主機 Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "48 個月",
+            "[網站主機 Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 個月)",
             "US$ 1.99",
             "US$ 95.52",
             "US$ 10.99"
           ],
           [
-            "網站主機 Unlimited",
-            "48 個月",
+            "網站主機 Unlimited (48 個月)",
             "US$ 2.79",
             "US$ 133.92",
             "US$ 16.99"
           ],
           [
-            "Cloud Startup",
-            "48 個月",
+            "Cloud Startup (48 個月)",
             "US$ 7.99",
             "US$ 383.52",
             "US$ 25.99"
-          ],
+          ]
+        ]
+      },
+      "paragraphs": [
+        "官網標示的月費適用於表內所列的期數。下單前請比較首期應付總額和續訂月費。"
+      ],
+      "postParagraphs": [
+        "Premium 的 48 個月方案標示續訂月費為 US$ 10.99，約為首期月費 US$ 1.99 的 5.5 倍。",
+        "Hostinger 公布的黑色星期五活動到 12 月 14 日。"
+      ]
+    },
+    {
+      "heading": "VPS 與 Minecraft 費用",
+      "comparisonTable": {
+        "caption": "同次查閱的 VPS 與 Minecraft 價格，未用 SONAR20。",
+        "headers": [
+          "方案和首期長度",
+          "入門價每月",
+          "入門價（整個期限）",
+          "續訂價每月"
+        ],
+        "rows": [
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
-            "24 個月",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 個月)",
             "US$ 6.49",
             "US$ 155.76",
             "US$ 11.99"
           ],
           [
-            "VPS KVM 2",
-            "24 個月",
+            "VPS KVM 2 (24 個月)",
             "US$ 8.79",
             "US$ 210.96",
             "US$ 14.99"
           ],
           [
-            "VPS KVM 4",
-            "24 個月",
+            "VPS KVM 4 (24 個月)",
             "US$ 12.99",
             "US$ 311.76",
             "US$ 28.99"
           ],
           [
-            "VPS KVM 8",
-            "24 個月",
+            "VPS KVM 8 (24 個月)",
             "US$ 25.99",
             "US$ 623.76",
             "US$ 49.99"
           ],
           [
-            "[郵箱 Starter，每個郵箱](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20)",
-            "48 個月",
-            "US$ 0.39",
-            "US$ 18.72",
-            "US$ 1.59"
-          ],
-          [
-            "郵箱 Standard，每個郵箱",
-            "48 個月",
-            "US$ 0.99",
-            "US$ 47.52",
-            "US$ 2.79"
-          ],
-          [
-            "郵箱 Premium，每個郵箱",
-            "48 個月",
-            "US$ 1.99",
-            "US$ 95.52",
-            "US$ 3.99"
-          ],
-          [
-            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20)",
-            "24 個月",
+            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20) (24 個月)",
             "US$ 6.99",
             "US$ 167.76",
             "US$ 11.99"
           ]
         ]
-      },
-      "postParagraphs": [
-        "我算了一筆帳：用 48 個月 Premium 那張卡片上的兩個價格：續訂價每月 US$ 10.99，約是入門價每月 US$ 1.99 的 5.5 倍。這就是只看大數字的人踩的坑：期限最長的方案入門價最低，而幾乎所有方案的續訂價都遠高於它。",
-        "入門價是 Hostinger 黑色星期五的價格，持續到 12 月 14 日。"
-      ]
+      }
+    },
+    {
+      "heading": "專業電子郵件費用",
+      "comparisonTable": {
+        "caption": "獨立電子郵件方案的單一信箱價格，未用 SONAR20。",
+        "headers": [
+          "方案和首期長度",
+          "入門價每月",
+          "入門價（整個期限）",
+          "續訂價每月"
+        ],
+        "rows": [
+          [
+            "[郵箱 Starter，每個郵箱](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20) (48 個月)",
+            "US$ 0.39",
+            "US$ 18.72",
+            "US$ 1.59"
+          ],
+          [
+            "郵箱 Standard，每個郵箱 (48 個月)",
+            "US$ 0.99",
+            "US$ 47.52",
+            "US$ 2.79"
+          ],
+          [
+            "郵箱 Premium，每個郵箱 (48 個月)",
+            "US$ 1.99",
+            "US$ 95.52",
+            "US$ 3.99"
+          ]
+        ]
+      }
     },
     {
       "heading": "什麼時候不該選 Hostinger",
       "paragraphs": [
-        "如果預算只有靠入門價才夠，就別選 Hostinger。續訂總會來，期限結束時只剩兩條路：按續訂價付款，或者換主機並遷移網站。",
+        "如果續訂費超出預算，先到 hPanel 確認能否換方案或調整付款週期。想換服務商的話，建議在到期前安排網站搬遷。",
         "想在決定前和別家比較，[選主機的指南（含 Hostinger）](/zh-hant/reviews/choose-web-host-hostinger-zh-hant)和[Hostinger 還是 GoDaddy](/zh-hant/reviews/hostinger-or-godaddy-zh-hant)都把續訂算了進去。",
         "如果疑問是能不能信任它，[Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)談了誰來收費，以及主機和 VPS 30 天退款是怎麼運作的；它在第三方平台上的口碑有[專門的一篇](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)。"
       ]
@@ -258,7 +274,7 @@
     {
       "heading": "SONAR20：在哪裡生效",
       "paragraphs": [
-        "SONAR20 對新購買的首期給 20% 優惠；已經是用戶、但買的是自己還沒有的產品時也適用。適用於主機、VPS、WordPress 和專業郵箱；不適用於網域，續訂按標價計算。",
+        "新購符合條件的服務，使用 SONAR20 可享首期 20% 折扣。適用於網站主機、VPS、WordPress 和專業電子郵件。網域和續訂不適用。 現有使用者新購尚未使用的適用產品時，也可以使用此優惠碼。",
         "在購物車的 \"Have a coupon code?\" 欄位輸入代碼，或透過[Hostinger 的方案](https://www.hostinger.com/?REFERRALCODE=SONAR20)進入，付款前核對總額。[Hostinger 優惠碼](/zh-hant/coupons/hostinger)頁面有步驟和代碼測試紀錄，[Hostinger 續訂](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)則有專門的一篇。"
       ]
     },

@@ -36,14 +36,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Inserisci SONAR20 nel carrello, nel campo «Have a coupon code?», oppure apri il link: 20% sul primo periodo di un acquisto nuovo. Dominio e rinnovo restano fuori dallo sconto; controlla il totale prima di pagare.",
+    "text": "Scegli il piano e verifica nel carrello se SONAR20 applica il 20% di sconto sul primo periodo. Controlla anche il prezzo del rinnovo.",
     "label": "Vedi i piani di Hostinger",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Gli acquisti con SONAR20 o dal link possono darmi una commissione, senza costi extra per te. Non ho usato il costruttore con IA né il server Minecraft.",
+  "editorialNote": "Gli acquisti con SONAR20 o tramite il link possono fruttarmi una commissione, senza costi aggiuntivi per te. I dati sul costruttore con IA, sul negozio online e su Minecraft vengono da Hostinger.",
   "decision": {
     "takeIf": [
       "Vuoi sito, WordPress, email e dominio nello stesso pannello e sai già quanto pagherai quando il piano si rinnova.",
@@ -78,7 +78,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Hostinger va bene per chi vuole sito, WordPress, email o VPS con un ingresso economico e mette in conto il rinnovo, che costa molte volte di più. Io uso da loro hosting, VPS, email e domini, e questo sito gira lì. A cambiare la scelta sono il prodotto e quanto vuoi occuparti del server: ogni capitolo ne tratta uno."
+        "Uso Hostinger dal 2024. Ospito qui il sito e uso anche VPS, email e domini. Per un primo sito o un blog WordPress, di solito basta l’hosting web. Un VPS ha senso se serve gestire il server. Prima di acquistare, controlla il costo totale del primo periodo e il prezzo del rinnovo."
       ]
     },
     {
@@ -112,16 +112,16 @@
     {
       "heading": "Hostinger va bene per creare un sito?",
       "paragraphs": [
-        "Sì, e a decidere tra le due strade è quanto vuoi metter mano al sito. Con l'hosting installi WordPress o carichi il tuo codice e te ne occupi: è quello che ho fatto con questo sito, che è codice mio, non WordPress. Con il costruttore con IA descrivi il sito e l'editor monta la prima versione delle pagine.",
-        "La pagina di Hostinger spiega che il costruttore con IA non ha un piano a parte ed è incluso in tutti i piani di hosting di siti. Quindi tra le due strade cambia il lavoro che resta a te. Chi vuole plugin, tema proprio e controllo di tutto resta su WordPress; chi vuole un sito semplice online senza programmare parte dal costruttore. Non va bene per chi vuole un'app nell'App Store o su Google Play: quello che esce è un sito o un'applicazione web.",
+        "Per usare WordPress, scegli un piano di hosting e installalo dal pannello. Se vuoi pubblicare codice tuo, verifica che il piano lo supporti. Questo sito gira su Node.js. Hostinger documenta l’hosting gestito di app Node.js per Unlimited e i piani Cloud.",
+        "Hostinger vende il suo strumento per creare siti con l’IA con l’hosting incluso. Se hai già un hosting, controlla quali strumenti e crediti di IA include il tuo piano. Con WordPress puoi usare plugin e temi personalizzati. Il costruttore permette di pubblicare un sito semplice o un’app web senza programmare.",
         "Il Premium copre fino a tre siti. [WordPress su Hostinger](/it/reviews/wordpress-su-hostinger) dice quale piano prendere per ogni caso, e il [costruttore con IA di Hostinger](/it/reviews/creatore-ia-hostinger-conviene) mostra che tipo di progetto ci sta."
       ]
     },
     {
       "heading": "Il VPS di Hostinger va bene?",
       "paragraphs": [
-        "Sì, per chi ha bisogno di un server tutto suo e ha chi lo cura. Ho un VPS KVM 2 oltre all'hosting. Con l'hosting Hostinger mantiene il server; con il VPS aggiornamenti, sicurezza e tutto ciò che si rompe restano a chi lo sottoscrive.",
-        "Il VPS ha senso per chi fa girare applicazioni, automazioni come n8n o agenti di IA, che richiedono programmi e accesso da amministratore che i piani di hosting non danno. Per un sito normale basta l'hosting e costa meno; [VPS o hosting condiviso](/it/reviews/vps-o-hosting-condiviso) fa il conto per scenario. Per un agente di IA, il [miglior VPS per OpenClaw](/it/reviews/miglior-vps-per-openclaw) dice quale KVM scegliere.",
+        "Uso un VPS KVM 2 oltre all’hosting web. Un VPS serve se hai bisogno degli accessi di amministratore o devi installare programmi. Hostinger gestisce l’infrastruttura. Configurazione, aggiornamenti e sicurezza del sistema spettano a te.",
+        "Se un’app, un’automazione con n8n o un agente di IA richiede accesso da amministratore, il VPS è una possibilità. Per un sito normale basta l'hosting e costa meno; [VPS o hosting condiviso](/it/reviews/vps-o-hosting-condiviso) fa il conto per scenario. Per un agente di IA, il [miglior VPS per OpenClaw](/it/reviews/miglior-vps-per-openclaw) dice quale KVM scegliere.",
         "Al momento della configurazione scegli la sede del server: quella più vicina al tuo pubblico. La sede si può cambiare più avanti."
       ]
     },
@@ -129,7 +129,7 @@
       "heading": "L'email di Hostinger va bene?",
       "paragraphs": [
         "Per avere email con il proprio dominio, sì. Uso l'email professionale di Hostinger con i miei domini, nello stesso pannello del sito, e non mi serve un altro servizio.",
-        "Il prezzo è per casella: una persona, una casella; un team di tre ne paga tre. I piani vanno da Starter a Premium, e i prezzi sono nella tabella del capitolo sui costi.",
+        "I piani email nella tabella si pagano per casella. Se hai già un hosting, controlla quante caselle sono incluse e per quanto tempo.",
         "Non confonderla con la newsletter: l'email professionale è la casella di posta, e mandare email a una lista è un altro prodotto, Reach, confrontato in [Reach, Mailchimp o Brevo](/it/reviews/hostinger-reach-mailchimp-o-brevo). Se hai già email con il dominio su un altro servizio e ti basta, non c'è motivo di cambiare."
       ]
     },
@@ -144,113 +144,129 @@
     {
       "heading": "Per negozio online e Minecraft",
       "paragraphs": [
-        "Sul sito internazionale il negozio online è incluso nei piani di hosting: la scheda del Premium elenca l'ecommerce tra le funzioni. Se il negozio cresce fino a più siti o a molto traffico, il piano giusto è Cloud Startup, che costa di più.",
-        "Per Minecraft va bene se il gruppo giocherà a lungo su un server tutto suo: i piani Game Panel sono un VPS con il pannello del gioco, dove si configurano server, mod e amici. L'ingresso della tabella è quello del ciclo di 24 mesi, pagato in un'unica soluzione; se il gruppo gioca solo per qualche mese, quel totale pesa più della mensilità."
+        "Sul sito internazionale, Premium elenca le funzioni per vendere online. Unlimited e Cloud Startup pubblicizzano un anno di negozio incluso. Controlla quali funzioni comprende il piano e quanto costano dopo il periodo incluso.",
+        "Game Panel permette di configurare un server Minecraft, installare mod e invitare amici. La tabella indica il totale per 24 mesi. Se il gruppo giocherà solo per pochi mesi, quel totale pesa più della rata mensile."
       ]
     },
     {
-      "heading": "Quanto costa dopo l'ingresso",
-      "paragraphs": [
-        "Il prezzo grande in vetrina è la mensilità del ciclo più lungo, e l'intero ciclo si paga in un'unica soluzione; il rinnovo compare in piccolo ed è molto più alto. La tabella mostra entrambi, piano per piano:"
-      ],
+      "heading": "Prezzi dell’hosting web",
       "comparisonTable": {
-        "caption": "Prezzi dal sito internazionale di Hostinger al 19/11, già in Black Friday e prima di SONAR20; il prezzo nella tua regione può essere diverso.",
+        "caption": "Prezzi del sito internazionale di Hostinger rilevati il 19/11, prima di applicare SONAR20. Possono variare in base al paese.",
         "headers": [
-          "Prodotto e piano",
-          "Ciclo",
+          "Piano e durata iniziale",
           "Ingresso al mese",
           "Ingresso per il ciclo",
           "Rinnovo al mese"
         ],
         "rows": [
           [
-            "[Hosting Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "48 mesi",
+            "[Hosting Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 mesi)",
             "1,99 US$",
             "95,52 US$",
             "10,99 US$"
           ],
           [
-            "Hosting Unlimited",
-            "48 mesi",
+            "Hosting Unlimited (48 mesi)",
             "2,79 US$",
             "133,92 US$",
             "16,99 US$"
           ],
           [
-            "Cloud Startup",
-            "48 mesi",
+            "Cloud Startup (48 mesi)",
             "7,99 US$",
             "383,52 US$",
             "25,99 US$"
-          ],
+          ]
+        ]
+      },
+      "paragraphs": [
+        "Il prezzo mensile in vetrina si riferisce alla durata indicata. Confronta il totale del primo periodo con il prezzo mensile del rinnovo."
+      ],
+      "postParagraphs": [
+        "Nel piano Premium di 48 mesi, il rinnovo annunciato di 10,99 US$ al mese è circa 5,5 volte il prezzo iniziale di 1,99 US$.",
+        "Hostinger indica il 14/12 come data di fine del Black Friday."
+      ]
+    },
+    {
+      "heading": "Prezzi di VPS e Minecraft",
+      "comparisonTable": {
+        "caption": "VPS e Minecraft. Prezzi della stessa rilevazione, prima di SONAR20.",
+        "headers": [
+          "Piano e durata iniziale",
+          "Ingresso al mese",
+          "Ingresso per il ciclo",
+          "Rinnovo al mese"
+        ],
+        "rows": [
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
-            "24 mesi",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 mesi)",
             "6,49 US$",
             "155,76 US$",
             "11,99 US$"
           ],
           [
-            "VPS KVM 2",
-            "24 mesi",
+            "VPS KVM 2 (24 mesi)",
             "8,79 US$",
             "210,96 US$",
             "14,99 US$"
           ],
           [
-            "VPS KVM 4",
-            "24 mesi",
+            "VPS KVM 4 (24 mesi)",
             "12,99 US$",
             "311,76 US$",
             "28,99 US$"
           ],
           [
-            "VPS KVM 8",
-            "24 mesi",
+            "VPS KVM 8 (24 mesi)",
             "25,99 US$",
             "623,76 US$",
             "49,99 US$"
           ],
           [
-            "[Email Starter](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20), per casella",
-            "48 mesi",
-            "0,39 US$",
-            "18,72 US$",
-            "1,59 US$"
-          ],
-          [
-            "Email Standard, per casella",
-            "48 mesi",
-            "0,99 US$",
-            "47,52 US$",
-            "2,79 US$"
-          ],
-          [
-            "Email Premium, per casella",
-            "48 mesi",
-            "1,99 US$",
-            "95,52 US$",
-            "3,99 US$"
-          ],
-          [
-            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20)",
-            "24 mesi",
+            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20) (24 mesi)",
             "6,99 US$",
             "167,76 US$",
             "11,99 US$"
           ]
         ]
-      },
-      "postParagraphs": [
-        "Il nostro conto, con i due prezzi della scheda del Premium da 48 mesi: il rinnovo, a 10,99 US$ al mese, è circa 5,5 volte la mensilità d'ingresso, 1,99 US$. È la trappola di chi sceglie in base al numero grande: il piano più lungo ha l'ingresso più basso, e il rinnovo di quasi tutti sta molto sopra.",
-        "I prezzi d'ingresso sono quelli della Black Friday di Hostinger, che va fino al 14/12."
-      ]
+      }
+    },
+    {
+      "heading": "Prezzi dell’email professionale",
+      "comparisonTable": {
+        "caption": "Email acquistata separatamente. Prezzi per casella, prima di SONAR20.",
+        "headers": [
+          "Piano e durata iniziale",
+          "Ingresso al mese",
+          "Ingresso per il ciclo",
+          "Rinnovo al mese"
+        ],
+        "rows": [
+          [
+            "[Email Starter](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20), per casella (48 mesi)",
+            "0,39 US$",
+            "18,72 US$",
+            "1,59 US$"
+          ],
+          [
+            "Email Standard, per casella (48 mesi)",
+            "0,99 US$",
+            "47,52 US$",
+            "2,79 US$"
+          ],
+          [
+            "Email Premium, per casella (48 mesi)",
+            "1,99 US$",
+            "95,52 US$",
+            "3,99 US$"
+          ]
+        ]
+      }
     },
     {
       "heading": "Quando non scegliere Hostinger",
       "paragraphs": [
-        "Non scegliere Hostinger se il budget regge solo con il prezzo d'ingresso. Il rinnovo arriva, e alla fine del ciclo restano due strade: pagare il prezzo di rinnovo o cambiare hosting e migrare il sito.",
+        "Se il rinnovo supera il tuo budget, verifica in hPanel se puoi cambiare piano o periodo di fatturazione. Se scegli un altro provider, organizza la migrazione prima della scadenza.",
         "Se vuoi confrontarla con un'altra azienda prima di decidere, [Come scegliere un hosting](/it/reviews/scegliere-hosting-hostinger) e [Hostinger o GoDaddy](/it/reviews/hostinger-o-godaddy-confronto) fanno il conto con il rinnovo.",
         "Se il dubbio è se ci si può fidare, [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile) mostra chi addebita e come funzionano i 30 giorni per chiedere il rimborso su hosting e VPS; la [reputazione su Trustpilot](/it/reviews/hostinger-recensioni-trustpilot) ha un articolo a parte."
       ]
@@ -258,7 +274,7 @@
     {
       "heading": "SONAR20: dove vale",
       "paragraphs": [
-        "SONAR20 dà il 20% sul primo periodo di un acquisto nuovo, e vale anche per chi è già cliente e compra un prodotto che non ha ancora. Vale su hosting, VPS, WordPress ed email professionale; non sui domini, e il rinnovo costa il prezzo di listino.",
+        "SONAR20 dà il 20% di sconto sul primo periodo di un nuovo acquisto idoneo. Vale per hosting, VPS, WordPress ed email professionale. Domini e rinnovi sono esclusi. Chi è già cliente può usarlo per acquistare un prodotto idoneo che non ha ancora.",
         "Inserisci il codice nel carrello, nel campo «Have a coupon code?», oppure entra dai [piani di Hostinger](https://www.hostinger.com/?REFERRALCODE=SONAR20) e controlla il totale prima di pagare. La pagina del [codice sconto Hostinger](/it/coupons/hostinger) ha il passo passo e i test del codice, e il [rinnovo su Hostinger](/it/reviews/hostinger-rinnovo-codice-sonar20) ha un articolo tutto suo."
       ]
     },

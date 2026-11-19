@@ -36,14 +36,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Geben Sie SONAR20 im Warenkorb im Feld „Have a coupon code?“ ein oder öffnen Sie den Link: 20 % Rabatt auf den ersten Zeitraum eines Neukaufs. Domain und Verlängerung sind vom Rabatt ausgenommen; prüfen Sie die Summe vor der Zahlung.",
+    "text": "Wählen Sie einen Tarif und prüfen Sie im Warenkorb, ob SONAR20 für die erste Laufzeit 20 % Rabatt bringt. Prüfen Sie auch den Verlängerungspreis.",
     "label": "Hostinger-Tarife ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Käufe mit SONAR20 oder über den Link können mir eine Provision bringen, ohne Mehrkosten für Sie. KI-Builder und Minecraft-Server habe ich nicht genutzt.",
+  "editorialNote": "Käufe mit SONAR20 oder über den Link können mir eine Provision einbringen, ohne Mehrkosten für Sie. Die Angaben zum KI-Website-Builder, zum Online-Shop und zu Minecraft stammen von Hostinger.",
   "decision": {
     "takeIf": [
       "Sie wollen Website, WordPress, E-Mail und Domain in einem Dashboard und wissen schon, was der Tarif bei der Verlängerung kostet.",
@@ -78,14 +78,14 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Hostinger ist gut für alle, die Website, WordPress, E-Mail oder einen VPS mit günstigem Einstieg wollen und die Verlängerung einplanen, die ein Mehrfaches kostet. Ich nutze dort Hosting, VPS, E-Mail und Domains, und diese Website läuft dort. Was die Wahl bestimmt, sind das Produkt und wie viel Serverarbeit Sie selbst übernehmen wollen."
+        "Ich bin seit 2024 bei Hostinger. Dort läuft diese Website. Auch VPS, E-Mail und Domains nutze ich dort. Für die erste Website oder einen WordPress-Blog reicht meist Webhosting. Ein VPS ist sinnvoll, wenn Sie den Server selbst verwalten möchten. Prüfen Sie vor der Buchung den Gesamtpreis der ersten Laufzeit und den Verlängerungspreis."
       ]
     },
     {
       "heading": "Ist Hostinger gut für Webhosting?",
       "paragraphs": [
         "Für das, was ich nutze, ja. Ich bin seit 2024 Kunde von Hostinger, mit Hosting, einem VPS KVM 2, der professionellen E-Mail und den Domains, alle mit automatischer Verlängerung. Diese Website, Em Casa com Cecília, läuft dort als Node.js-Anwendung.",
-        "Das Dashboard, bei Hostinger hPanel genannt, bündelt die Website in einem Menü: den Tarif, die Domains, die Dateien, die Datenbanken und die Sicherheit. Wenn ich ein Problem hatte, hat der Support es gelöst, und meistens war es der KI-Agent des Supports. Die Website ist bei mir auch nie ausgefallen, und das sage ich als Kunde: Ich habe weder die Verfügbarkeit noch die Geschwindigkeit gemessen.",
+        "Das Dashboard, bei Hostinger hPanel genannt, bündelt die Website in einem Menü: den Tarif, die Domains, die Dateien, die Datenbanken und die Sicherheit. Wenn ich ein Problem hatte, hat der Support es gelöst, und meistens war es der KI-Agent des Supports. Ich habe bisher keinen Ausfall der Website bemerkt, und das sage ich als Kunde: Ich habe weder die Verfügbarkeit noch die Geschwindigkeit gemessen.",
         "Das Hosting passt zu jedem, der eine Website oder WordPress mit einem einfachen Dashboard will. Es passt nicht zu denen, die nur auf den Einstiegspreis schauen: Die Verlängerung kostet deutlich mehr, und die Preistabelle zeigt, wie viel. Prüfen Sie vor dem Bezahlen auch, welche Serverstandorte Ihr Tarif bietet; sie unterscheiden sich je nach Tarif."
       ]
     },
@@ -112,16 +112,16 @@
     {
       "heading": "Ist Hostinger gut, um eine Website zu erstellen?",
       "paragraphs": [
-        "Ja, und was zwischen den beiden Wegen entscheidet, ist, wie viel Sie an der Website selbst machen wollen. Beim Hosting installieren Sie WordPress oder laden Ihren eigenen Code hoch und kümmern sich darum: So habe ich es mit dieser Website gemacht, die eigener Code ist und kein WordPress. Beim KI-Builder beschreiben Sie die Website, und der Editor baut die erste Version der Seiten.",
-        "Laut Hostinger-Seite hat der KI-Builder keinen eigenen Tarif und ist in allen Webhosting-Tarifen enthalten. Der Unterschied zwischen den beiden Wegen ist also die Arbeit, die bei Ihnen bleibt. Wer Plugins, ein eigenes Theme und Kontrolle über alles will, bleibt bei WordPress; wer ohne Programmieren eine einfache Website online bringen will, startet mit dem Builder. Er taugt nicht für eine App im App Store oder bei Google Play: Heraus kommt eine Website oder eine Web-App.",
+        "Für WordPress wählen Sie einen Webhosting-Tarif und installieren WordPress im Dashboard. Wenn Sie eigenen Code veröffentlichen, prüfen Sie, was der Tarif unterstützt. Diese Website läuft mit Node.js. Hostinger bietet verwaltetes Hosting für Node.js-Anwendungen in den Tarifen Unlimited und Cloud an.",
+        "Hostinger bietet den KI-Website-Builder einschließlich Hosting an. Wenn Sie bereits Hosting haben, prüfen Sie die enthaltenen Funktionen und KI-Credits. Für Plugins und eigene Themes eignet sich WordPress. Mit dem KI-Builder können Sie eine einfache Website oder Web-App ohne Programmierkenntnisse veröffentlichen.",
         "Der Premium-Tarif deckt bis zu drei Websites ab. [WordPress bei Hostinger](/de/reviews/wordpress-bei-hostinger) sagt, welcher Tarif zu welchem Fall passt, und der [KI-Builder von Hostinger](/de/reviews/hostinger-ki-builder-lohnt-sich) zeigt, welche Art von Projekt hineinpasst."
       ]
     },
     {
       "heading": "Ist der Hostinger VPS gut?",
       "paragraphs": [
-        "Ja, für alle, die einen eigenen Server brauchen und jemanden haben, der ihn pflegt. Ich habe zusätzlich zum Hosting einen VPS KVM 2. Beim Hosting hält Hostinger den Server instand; beim VPS bleiben Updates, Sicherheit und alles, was kaputtgeht, bei dem, der ihn bucht.",
-        "Der VPS ist sinnvoll für Anwendungen, Automatisierungen wie n8n oder KI-Agenten, die Programme und Administratorzugriff brauchen, den Hosting-Tarife nicht geben. Für eine normale Website reicht das Hosting und kostet weniger; [VPS oder Shared Hosting](/de/reviews/vps-oder-shared-hosting) rechnet das je Szenario durch. Für einen KI-Agenten sagt der [beste VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw), welchen KVM Sie wählen.",
+        "Zusätzlich zum Webhosting nutze ich einen KVM 2 VPS. Ein VPS ist sinnvoll, wenn Sie Administratorrechte benötigen oder eigene Programme installieren möchten. Hostinger betreibt die Infrastruktur. Einrichtung, Updates und Sicherheit des Systems liegen bei Ihnen.",
+        "Wenn eine Anwendung, ein n8n-Workflow oder ein KI-Agent Administratorrechte braucht, ist ein VPS eine Option. Für eine normale Website reicht das Hosting und kostet weniger; [VPS oder Shared Hosting](/de/reviews/vps-oder-shared-hosting) rechnet das je Szenario durch. Für einen KI-Agenten sagt der [beste VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw), welchen KVM Sie wählen.",
         "Wählen Sie bei der Einrichtung den Serverstandort: den, der Ihrem Publikum am nächsten liegt. Der Standort lässt sich später ändern."
       ]
     },
@@ -129,7 +129,7 @@
       "heading": "Ist Hostinger E-Mail gut?",
       "paragraphs": [
         "Für E-Mail mit der eigenen Domain ja. Ich nutze die professionelle E-Mail von Hostinger mit meinen Domains, im selben Dashboard wie die Website, und brauche dafür keinen anderen Dienst.",
-        "Der Preis gilt pro Postfach: eine Person, ein Postfach; ein Team aus drei Personen zahlt drei. Die Tarife reichen von Starter bis Premium, die Preise stehen in der Tabelle im Preiskapitel.",
+        "Die E-Mail-Tarife in der Tabelle werden pro Postfach berechnet. Wenn Sie schon Hosting haben, prüfen Sie, wie viele Postfächer enthalten sind und für welchen Zeitraum.",
         "Verwechseln Sie das nicht mit einem Newsletter: Die professionelle E-Mail ist das Postfach, und E-Mails an eine Liste zu senden ist ein anderes Produkt, Reach, verglichen in [Reach, Mailchimp oder Brevo](/de/reviews/hostinger-reach-oder-mailchimp-brevo). Wenn Sie schon E-Mail mit Ihrer Domain bei einem anderen Dienst haben und sie Ihnen genügt, gibt es keinen Grund zu wechseln."
       ]
     },
@@ -144,113 +144,129 @@
     {
       "heading": "Für Online-Shops und Minecraft",
       "paragraphs": [
-        "Auf der internationalen Seite steckt der Online-Shop in den Hosting-Tarifen: Die Premium-Karte nennt E-Commerce unter ihren Funktionen. Wächst der Shop auf mehrere Websites oder viel Traffic, ist Cloud Startup der passende Tarif, der mehr kostet.",
-        "Für Minecraft lohnt sich ein eigener Server für Gruppen, die lange spielen wollen: Die Game-Panel-Tarife sind ein VPS mit dem Spielpanel, in dem Sie Server, Mods und Freunde einrichten. Der Einstiegspreis in der Tabelle gilt für die Laufzeit von 24 Monaten, auf einmal bezahlt; spielt die Gruppe nur ein paar Monate, wiegt diese Summe schwerer als der Monatspreis."
+        "Auf der internationalen Website führt Premium E-Commerce als Funktion auf. Unlimited und Cloud Startup werben mit einem Jahr inklusive Online-Shop. Prüfen Sie den Funktionsumfang und die Kosten danach.",
+        "Mit Game Panel können Sie einen Minecraft-Server einrichten, Mods installieren und Freunde einladen. Die Tabelle zeigt den Gesamtpreis für 24 Monate. Wenn Ihre Gruppe nur ein paar Monate spielen möchte, wiegt dieser Gesamtbetrag mehr als der Monatspreis."
       ]
     },
     {
-      "heading": "Was es nach dem Einstiegspreis kostet",
-      "paragraphs": [
-        "Der große Preis im Schaufenster ist der Monatspreis der längsten Laufzeit, und die ganze Laufzeit wird auf einmal bezahlt; die Verlängerung steht im Kleingedruckten und ist deutlich höher. Die Tabelle zeigt beides, Tarif für Tarif:"
-      ],
+      "heading": "Preise für Webhosting",
       "comparisonTable": {
-        "caption": "Preise von der internationalen Hostinger-Seite vom 19.11., bereits mit Black-Friday-Preisen und vor SONAR20; der Preis in Ihrer Region kann abweichen.",
+        "caption": "Preise der internationalen Hostinger-Website vom 19.11., vor Abzug von SONAR20. Die Preise können je nach Region abweichen.",
         "headers": [
-          "Produkt und Tarif",
-          "Laufzeit",
+          "Tarif und erste Laufzeit",
           "Einstieg pro Monat",
           "Einstieg für die Laufzeit",
           "Verlängerung pro Monat"
         ],
         "rows": [
           [
-            "[Webhosting Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "48 Monate",
+            "[Webhosting Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 Monate)",
             "1,99 US$",
             "95,52 US$",
             "10,99 US$"
           ],
           [
-            "Webhosting Unlimited",
-            "48 Monate",
+            "Webhosting Unlimited (48 Monate)",
             "2,79 US$",
             "133,92 US$",
             "16,99 US$"
           ],
           [
-            "Cloud Startup",
-            "48 Monate",
+            "Cloud Startup (48 Monate)",
             "7,99 US$",
             "383,52 US$",
             "25,99 US$"
-          ],
+          ]
+        ]
+      },
+      "paragraphs": [
+        "Der angezeigte Monatspreis gilt für die genannte Laufzeit. Vergleichen Sie den Gesamtpreis der ersten Laufzeit mit dem Monatspreis bei Verlängerung."
+      ],
+      "postParagraphs": [
+        "Beim 48-Monats-Angebot für Premium beträgt der angegebene Verlängerungspreis 10,99 US$ im Monat. Das ist rund das 5,5-Fache des Einstiegspreises von 1,99 US$.",
+        "Die Black-Friday-Aktion läuft laut Hostinger bis zum 14.12."
+      ]
+    },
+    {
+      "heading": "Preise für VPS und Minecraft",
+      "comparisonTable": {
+        "caption": "VPS und Minecraft. Preise aus demselben Abruf, vor SONAR20.",
+        "headers": [
+          "Tarif und erste Laufzeit",
+          "Einstieg pro Monat",
+          "Einstieg für die Laufzeit",
+          "Verlängerung pro Monat"
+        ],
+        "rows": [
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
-            "24 Monate",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 Monate)",
             "6,49 US$",
             "155,76 US$",
             "11,99 US$"
           ],
           [
-            "VPS KVM 2",
-            "24 Monate",
+            "VPS KVM 2 (24 Monate)",
             "8,79 US$",
             "210,96 US$",
             "14,99 US$"
           ],
           [
-            "VPS KVM 4",
-            "24 Monate",
+            "VPS KVM 4 (24 Monate)",
             "12,99 US$",
             "311,76 US$",
             "28,99 US$"
           ],
           [
-            "VPS KVM 8",
-            "24 Monate",
+            "VPS KVM 8 (24 Monate)",
             "25,99 US$",
             "623,76 US$",
             "49,99 US$"
           ],
           [
-            "[E-Mail Starter](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20), pro Postfach",
-            "48 Monate",
-            "0,39 US$",
-            "18,72 US$",
-            "1,59 US$"
-          ],
-          [
-            "E-Mail Standard, pro Postfach",
-            "48 Monate",
-            "0,99 US$",
-            "47,52 US$",
-            "2,79 US$"
-          ],
-          [
-            "E-Mail Premium, pro Postfach",
-            "48 Monate",
-            "1,99 US$",
-            "95,52 US$",
-            "3,99 US$"
-          ],
-          [
-            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20)",
-            "24 Monate",
+            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20) (24 Monate)",
             "6,99 US$",
             "167,76 US$",
             "11,99 US$"
           ]
         ]
-      },
-      "postParagraphs": [
-        "Unsere Rechnung, mit den beiden Preisen auf der Premium-Karte für 48 Monate: Die Verlängerung von 10,99 US$ pro Monat ist etwa das 5,5-Fache des Einstiegs von 1,99 US$ pro Monat. Das ist die Falle für alle, die nach der großen Zahl wählen: Der längste Tarif hat den niedrigsten Einstieg, und die Verlängerung fast aller liegt weit darüber.",
-        "Die Einstiegspreise sind die Black-Friday-Preise von Hostinger, die bis zum 14.12. gelten."
-      ]
+      }
+    },
+    {
+      "heading": "Preise für geschäftliche E-Mail",
+      "comparisonTable": {
+        "caption": "Separat gebuchte E-Mail. Preise pro Postfach, vor SONAR20.",
+        "headers": [
+          "Tarif und erste Laufzeit",
+          "Einstieg pro Monat",
+          "Einstieg für die Laufzeit",
+          "Verlängerung pro Monat"
+        ],
+        "rows": [
+          [
+            "[E-Mail Starter](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20), pro Postfach (48 Monate)",
+            "0,39 US$",
+            "18,72 US$",
+            "1,59 US$"
+          ],
+          [
+            "E-Mail Standard, pro Postfach (48 Monate)",
+            "0,99 US$",
+            "47,52 US$",
+            "2,79 US$"
+          ],
+          [
+            "E-Mail Premium, pro Postfach (48 Monate)",
+            "1,99 US$",
+            "95,52 US$",
+            "3,99 US$"
+          ]
+        ]
+      }
     },
     {
       "heading": "Wann Sie Hostinger lieber nicht wählen",
       "paragraphs": [
-        "Wählen Sie Hostinger nicht, wenn Ihr Budget nur mit dem Einstiegspreis aufgeht. Die Verlängerung kommt, und am Ende der Laufzeit bleiben zwei Wege: den Verlängerungspreis zahlen oder den Webhoster wechseln und die Website umziehen.",
+        "Falls die Verlängerung Ihr Budget übersteigt, prüfen Sie in hPanel, ob Sie den Tarif oder die Abrechnungsperiode wechseln können. Wenn Sie zu einem anderen Anbieter wechseln, planen Sie den Umzug vor dem Ablauf.",
         "Wenn Sie vor der Entscheidung mit einem anderen Anbieter vergleichen wollen, rechnen [Wie Sie einen Webhoster wählen](/de/reviews/webhoster-waehlen-hostinger) und [Hostinger oder GoDaddy](/de/reviews/hostinger-oder-godaddy) mit der Verlängerung.",
         "Wenn die Frage ist, ob man Hostinger vertrauen kann, zeigt [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes), wer abbucht und wie die 30 Tage für eine Erstattung bei Hosting und VPS funktionieren; der [Ruf auf Trustpilot](/de/reviews/hostinger-trustpilot-bewertungen) hat einen eigenen Artikel."
       ]
@@ -258,7 +274,7 @@
     {
       "heading": "SONAR20: wo er gilt",
       "paragraphs": [
-        "SONAR20 gibt 20 % auf den ersten Zeitraum eines Neukaufs und gilt auch für Bestandskunden, die ein Produkt kaufen, das sie noch nicht haben. Er gilt für Hosting, VPS, WordPress und die professionelle E-Mail; nicht für Domains, und die Verlängerung kostet den Listenpreis.",
+        "SONAR20 gibt 20 % Rabatt auf die erste Laufzeit eines berechtigten Neukaufs. Er gilt für Hosting, VPS, WordPress und geschäftliche E-Mail. Domains und Verlängerungen sind ausgenommen. Bestandskunden können ihn für ein berechtigtes Produkt nutzen, das sie noch nicht gebucht haben.",
         "Geben Sie den Code im Warenkorb im Feld „Have a coupon code?“ ein oder gehen Sie über die [Hostinger-Tarife](https://www.hostinger.com/?REFERRALCODE=SONAR20) und prüfen Sie die Summe vor der Zahlung. Die Seite zum [Hostinger-Gutschein](/de/coupons/hostinger) hat die Schritt-für-Schritt-Anleitung und die Tests des Codes, und die [Verlängerung bei Hostinger](/de/reviews/hostinger-verlaengerung-code-sonar20) hat einen eigenen Artikel."
       ]
     },
