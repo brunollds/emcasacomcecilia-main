@@ -75636,6 +75636,972 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-de.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 138644,
+      "sha256": "54a9221131f636faee6572a48cae1adb6df26a2efe02468400716b60a2742def",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-de.webp",
+      "storage_filename": "hostinger-e-boa-capa-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/ist-hostinger-gut.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/ist-hostinger-gut.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 272060,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/54a9221131f636faee6572a48cae1adb6df26a2efe02468400716b60a2742def/hostinger-e-boa-capa-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/54a9221131f636faee6572a48cae1adb6df26a2efe02468400716b60a2742def/hostinger-e-boa-capa-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:46.878Z",
+      "verification_etag_or_digest": "54a9221131f636faee6572a48cae1adb6df26a2efe02468400716b60a2742def",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-en.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 139472,
+      "sha256": "f71709b435cf5272e8c8eed7fc4337ad6e7c5e08f20e04287545e0c2fd6041e8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-en.webp",
+      "storage_filename": "hostinger-e-boa-capa-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271232,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f71709b435cf5272e8c8eed7fc4337ad6e7c5e08f20e04287545e0c2fd6041e8/hostinger-e-boa-capa-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f71709b435cf5272e8c8eed7fc4337ad6e7c5e08f20e04287545e0c2fd6041e8/hostinger-e-boa-capa-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:47.195Z",
+      "verification_etag_or_digest": "f71709b435cf5272e8c8eed7fc4337ad6e7c5e08f20e04287545e0c2fd6041e8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-es.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 143198,
+      "sha256": "c8a7c17d4be08fd0bae2d05e390b7d2b3fd448f0cc7b967a2c12dfb28b086034",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-es.webp",
+      "storage_filename": "hostinger-e-boa-capa-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-es-bueno.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-es-bueno.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271508,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c8a7c17d4be08fd0bae2d05e390b7d2b3fd448f0cc7b967a2c12dfb28b086034/hostinger-e-boa-capa-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c8a7c17d4be08fd0bae2d05e390b7d2b3fd448f0cc7b967a2c12dfb28b086034/hostinger-e-boa-capa-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:47.488Z",
+      "verification_etag_or_digest": "c8a7c17d4be08fd0bae2d05e390b7d2b3fd448f0cc7b967a2c12dfb28b086034",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-fr.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 141448,
+      "sha256": "340956ccd8847088ab9f2c0266d84266bee4b8915f7401af4210499bb8f26e43",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-fr.webp",
+      "storage_filename": "hostinger-e-boa-capa-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-est-il-un-bon-hebergeur.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-est-il-un-bon-hebergeur.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271784,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/340956ccd8847088ab9f2c0266d84266bee4b8915f7401af4210499bb8f26e43/hostinger-e-boa-capa-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/340956ccd8847088ab9f2c0266d84266bee4b8915f7401af4210499bb8f26e43/hostinger-e-boa-capa-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:47.804Z",
+      "verification_etag_or_digest": "340956ccd8847088ab9f2c0266d84266bee4b8915f7401af4210499bb8f26e43",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-it.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 140550,
+      "sha256": "266f229586427d882547be3b0275850142b9c052c6319524bbce8a1b59289583",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-it.webp",
+      "storage_filename": "hostinger-e-boa-capa-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-opinioni.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-opinioni.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 272336,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/266f229586427d882547be3b0275850142b9c052c6319524bbce8a1b59289583/hostinger-e-boa-capa-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/266f229586427d882547be3b0275850142b9c052c6319524bbce8a1b59289583/hostinger-e-boa-capa-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:48.156Z",
+      "verification_etag_or_digest": "266f229586427d882547be3b0275850142b9c052c6319524bbce8a1b59289583",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-ja.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 142052,
+      "sha256": "cd0bd10c99b2722e120c153fceefda4e04ef5aa719f099223c40d1af7ae113e3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-ja.webp",
+      "storage_filename": "hostinger-e-boa-capa-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-ja.json",
+          "line": 31,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 272887,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cd0bd10c99b2722e120c153fceefda4e04ef5aa719f099223c40d1af7ae113e3/hostinger-e-boa-capa-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cd0bd10c99b2722e120c153fceefda4e04ef5aa719f099223c40d1af7ae113e3/hostinger-e-boa-capa-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:48.437Z",
+      "verification_etag_or_digest": "cd0bd10c99b2722e120c153fceefda4e04ef5aa719f099223c40d1af7ae113e3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-ko.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 136768,
+      "sha256": "84550bf76b12b692201ca117a0f2cd16d4ba332f3bd071d58e4dbe86ce6861b6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-ko.webp",
+      "storage_filename": "hostinger-e-boa-capa-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-ko.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 272612,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/84550bf76b12b692201ca117a0f2cd16d4ba332f3bd071d58e4dbe86ce6861b6/hostinger-e-boa-capa-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/84550bf76b12b692201ca117a0f2cd16d4ba332f3bd071d58e4dbe86ce6861b6/hostinger-e-boa-capa-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:48.764Z",
+      "verification_etag_or_digest": "84550bf76b12b692201ca117a0f2cd16d4ba332f3bd071d58e4dbe86ce6861b6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-pt.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 139016,
+      "sha256": "d5bab1141334d41f495e846ee4f50191ea0614648df7aa618ad891c07b465483",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-pt.webp",
+      "storage_filename": "hostinger-e-boa-capa-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-e-boa.json",
+          "line": 31,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 270928,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d5bab1141334d41f495e846ee4f50191ea0614648df7aa618ad891c07b465483/hostinger-e-boa-capa-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d5bab1141334d41f495e846ee4f50191ea0614648df7aa618ad891c07b465483/hostinger-e-boa-capa-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:49.104Z",
+      "verification_etag_or_digest": "d5bab1141334d41f495e846ee4f50191ea0614648df7aa618ad891c07b465483",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 142526,
+      "sha256": "3857f58c00f85ae4ec2368dfd1c849ba87f931df5ce5243cd57a57fad4a56bd4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-zh-hans.webp",
+      "storage_filename": "hostinger-e-boa-capa-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-zh-hans.json",
+          "line": 31,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 273439,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3857f58c00f85ae4ec2368dfd1c849ba87f931df5ce5243cd57a57fad4a56bd4/hostinger-e-boa-capa-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3857f58c00f85ae4ec2368dfd1c849ba87f931df5ce5243cd57a57fad4a56bd4/hostinger-e-boa-capa-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:49.413Z",
+      "verification_etag_or_digest": "3857f58c00f85ae4ec2368dfd1c849ba87f931df5ce5243cd57a57fad4a56bd4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 141698,
+      "sha256": "416b714683dd2536457f6b8b83ca58465097397f55c1db00194b802bfd2a84c1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-zh-hant.webp",
+      "storage_filename": "hostinger-e-boa-capa-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-zh-hant.json",
+          "line": 31,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 273163,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/416b714683dd2536457f6b8b83ca58465097397f55c1db00194b802bfd2a84c1/hostinger-e-boa-capa-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/416b714683dd2536457f6b8b83ca58465097397f55c1db00194b802bfd2a84c1/hostinger-e-boa-capa-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:49.752Z",
+      "verification_etag_or_digest": "416b714683dd2536457f6b8b83ca58465097397f55c1db00194b802bfd2a84c1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-hpanel-pt.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-hpanel-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17444,
+      "sha256": "808c4504dfadee0fa756547db0d98c269fc1b435153865fe833d17f201b81515",
+      "width": 333,
+      "height": 612,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-hpanel-pt.webp",
+      "storage_filename": "hostinger-e-boa-hpanel-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-e-boa.json",
+          "line": 91,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-hpanel-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 270988,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-hpanel-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/808c4504dfadee0fa756547db0d98c269fc1b435153865fe833d17f201b81515/hostinger-e-boa-hpanel-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/808c4504dfadee0fa756547db0d98c269fc1b435153865fe833d17f201b81515/hostinger-e-boa-hpanel-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:49.988Z",
+      "verification_etag_or_digest": "808c4504dfadee0fa756547db0d98c269fc1b435153865fe833d17f201b81515",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-de.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83202,
+      "sha256": "03afa4faf65fcaa0a7d3df2fb2979f918faf6e23783769b5d3e45f5493d82c3f",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-de.webp",
+      "storage_filename": "hostinger-e-boa-quadro-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/ist-hostinger-gut.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/ist-hostinger-gut.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 272133,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/03afa4faf65fcaa0a7d3df2fb2979f918faf6e23783769b5d3e45f5493d82c3f/hostinger-e-boa-quadro-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/03afa4faf65fcaa0a7d3df2fb2979f918faf6e23783769b5d3e45f5493d82c3f/hostinger-e-boa-quadro-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:50.312Z",
+      "verification_etag_or_digest": "03afa4faf65fcaa0a7d3df2fb2979f918faf6e23783769b5d3e45f5493d82c3f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-en.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74270,
+      "sha256": "7e37a6d492da11a8af2d42fb9e9e420895a1945f34403786561e0e1854db6e3b",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-en.webp",
+      "storage_filename": "hostinger-e-boa-quadro-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271305,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7e37a6d492da11a8af2d42fb9e9e420895a1945f34403786561e0e1854db6e3b/hostinger-e-boa-quadro-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7e37a6d492da11a8af2d42fb9e9e420895a1945f34403786561e0e1854db6e3b/hostinger-e-boa-quadro-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:50.580Z",
+      "verification_etag_or_digest": "7e37a6d492da11a8af2d42fb9e9e420895a1945f34403786561e0e1854db6e3b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-es.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78750,
+      "sha256": "e32b71bc90fe8634dc5135562cc9a763901115b806be06be1e6d83f7f341d6e2",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-es.webp",
+      "storage_filename": "hostinger-e-boa-quadro-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-es-bueno.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-es-bueno.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271581,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e32b71bc90fe8634dc5135562cc9a763901115b806be06be1e6d83f7f341d6e2/hostinger-e-boa-quadro-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e32b71bc90fe8634dc5135562cc9a763901115b806be06be1e6d83f7f341d6e2/hostinger-e-boa-quadro-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:50.864Z",
+      "verification_etag_or_digest": "e32b71bc90fe8634dc5135562cc9a763901115b806be06be1e6d83f7f341d6e2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-fr.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77614,
+      "sha256": "d290c7a531f308e8e75e0aaca5e8b2b21e5d265d115169cf76bcfa5040695347",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-fr.webp",
+      "storage_filename": "hostinger-e-boa-quadro-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-est-il-un-bon-hebergeur.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-est-il-un-bon-hebergeur.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271857,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d290c7a531f308e8e75e0aaca5e8b2b21e5d265d115169cf76bcfa5040695347/hostinger-e-boa-quadro-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d290c7a531f308e8e75e0aaca5e8b2b21e5d265d115169cf76bcfa5040695347/hostinger-e-boa-quadro-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:51.176Z",
+      "verification_etag_or_digest": "d290c7a531f308e8e75e0aaca5e8b2b21e5d265d115169cf76bcfa5040695347",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-it.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75354,
+      "sha256": "48bb7185fb255b465ad70e5ecdd3d622a606651bd5f83bf2c8f2af944ba85c2e",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-it.webp",
+      "storage_filename": "hostinger-e-boa-quadro-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-opinioni.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-opinioni.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 272409,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/48bb7185fb255b465ad70e5ecdd3d622a606651bd5f83bf2c8f2af944ba85c2e/hostinger-e-boa-quadro-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/48bb7185fb255b465ad70e5ecdd3d622a606651bd5f83bf2c8f2af944ba85c2e/hostinger-e-boa-quadro-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:51.495Z",
+      "verification_etag_or_digest": "48bb7185fb255b465ad70e5ecdd3d622a606651bd5f83bf2c8f2af944ba85c2e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-ja.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62738,
+      "sha256": "fd457317c5c478f086b3843d4778d68f5e883f6d13ebf1e7f61f577eebc5dd0b",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-ja.webp",
+      "storage_filename": "hostinger-e-boa-quadro-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-ja.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 272961,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fd457317c5c478f086b3843d4778d68f5e883f6d13ebf1e7f61f577eebc5dd0b/hostinger-e-boa-quadro-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fd457317c5c478f086b3843d4778d68f5e883f6d13ebf1e7f61f577eebc5dd0b/hostinger-e-boa-quadro-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:51.807Z",
+      "verification_etag_or_digest": "fd457317c5c478f086b3843d4778d68f5e883f6d13ebf1e7f61f577eebc5dd0b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-ko.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53642,
+      "sha256": "a9b384cf7cc2c284b90f4a5f75bd652af0ba878e28df92c9b9eeae78b4f06a62",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-ko.webp",
+      "storage_filename": "hostinger-e-boa-quadro-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-ko.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 272685,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a9b384cf7cc2c284b90f4a5f75bd652af0ba878e28df92c9b9eeae78b4f06a62/hostinger-e-boa-quadro-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a9b384cf7cc2c284b90f4a5f75bd652af0ba878e28df92c9b9eeae78b4f06a62/hostinger-e-boa-quadro-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:52.045Z",
+      "verification_etag_or_digest": "a9b384cf7cc2c284b90f4a5f75bd652af0ba878e28df92c9b9eeae78b4f06a62",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-pt.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93744,
+      "sha256": "2ecac5965fd2c62f055266b8a206989b58871ed334bee255a5838e2221e4dd07",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-pt.webp",
+      "storage_filename": "hostinger-e-boa-quadro-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-e-boa.json",
+          "line": 111,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271008,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2ecac5965fd2c62f055266b8a206989b58871ed334bee255a5838e2221e4dd07/hostinger-e-boa-quadro-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2ecac5965fd2c62f055266b8a206989b58871ed334bee255a5838e2221e4dd07/hostinger-e-boa-quadro-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:52.298Z",
+      "verification_etag_or_digest": "2ecac5965fd2c62f055266b8a206989b58871ed334bee255a5838e2221e4dd07",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65146,
+      "sha256": "a7186bd6e30466f70de51c502a63129bc8e401cca6525fd831e812de80f5a8e0",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-zh-hans.webp",
+      "storage_filename": "hostinger-e-boa-quadro-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-zh-hans.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 273513,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a7186bd6e30466f70de51c502a63129bc8e401cca6525fd831e812de80f5a8e0/hostinger-e-boa-quadro-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a7186bd6e30466f70de51c502a63129bc8e401cca6525fd831e812de80f5a8e0/hostinger-e-boa-quadro-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:52.576Z",
+      "verification_etag_or_digest": "a7186bd6e30466f70de51c502a63129bc8e401cca6525fd831e812de80f5a8e0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68160,
+      "sha256": "f1bf22a4486b5ee878011170d410fe413123961e300088b39c23822f77444835",
+      "width": 1600,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-quadro-zh-hant.webp",
+      "storage_filename": "hostinger-e-boa-quadro-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-zh-hant.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 273237,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f1bf22a4486b5ee878011170d410fe413123961e300088b39c23822f77444835/hostinger-e-boa-quadro-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f1bf22a4486b5ee878011170d410fe413123961e300088b39c23822f77444835/hostinger-e-boa-quadro-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T18:49:52.895Z",
+      "verification_etag_or_digest": "f1bf22a4486b5ee878011170d410fe413123961e300088b39c23822f77444835",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-e-confiavel-capa-de-v2.webp",
       "local_url": "/images/reviews/hostinger/hostinger-e-confiavel-capa-de-v2.webp",
       "media_kind": "image",
