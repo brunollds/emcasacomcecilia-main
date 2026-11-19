@@ -120,7 +120,7 @@ O CECI entra numa frase no capítulo 9 ou no fim, para quem desistiu do conserto
 
 Fotos dos manuais impressos da casa, em `C:\Users\Bruno\Downloads\LocalSend\20261119_1512*.jpg` a `20261119_1518*.jpg` (9 fotos). Fonte do texto: o manual, sem acréscimo.
 
-**Genio S (manual da casa, capítulo 10 "Resolução de problemas", p. 20 a 23; código 1520017212).** Painel com barras de volume (até XL) e ícone de temperatura. O manual não traz o nome do modelo na página fotografada: o Job 2 confere no começo do manual se é a Genio S Touch ou a Plus e nomeia assim.
+**Genio S Touch (manual da máquina da casa, capítulo 10 "Resolução de problemas", p. 20 a 23; código 1520017212; modelo confirmado pelo Bruno em 19/11).** Painel com barras de volume (até XL) e ícone de temperatura.
 
 | Sinal ou problema | O que o manual manda |
 |---|---|
@@ -183,4 +183,4 @@ Fotos do manual no artigo: só se ajudar, com a regra de 30/09 (crédito na lege
 ## Decisões
 
 - **19/11/2026:** GO do Bruno ("Vamos pro DG2"). Vira guia. A NEO entra completa pelas páginas oficiais; as Original esperam os manuais (seção 8).
-- **19/11/2026:** fotos dos manuais da Genio S e da Mini Me 2 recebidas e transcritas (seção 8). Bloqueio retirado; segue para a redação.
+- **19/11/2026:** fotos dos manuais da Genio S Touch e da Mini Me 2 recebidas e transcritas (seção 8). Bloqueio retirado; segue para a redação.
