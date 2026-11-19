@@ -5152,7 +5152,8 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Pode ser usado por clientes novos e antigos',
     shipping:
       'O site anuncia frete grátis em compras a partir de R$ 199,90, com regras próprias; o valor do frete e o prazo saem no checkout depois do CEP',
-    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
+    // O "Leve 3, Pague 2" do carrinho ainda não foi testado com o cupom (pede identificação): só os preços em promoção.
+    combinable: 'Soma com as promoções de preço do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, a Laranja Moro de R$ 129,90 por R$ 76,90 também ganhou os 10%' },
       { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
@@ -5170,7 +5171,7 @@ const STORE_COUPONS: Coupon[] = [
       'Confira a linha Cupom de desconto, em Descontos, antes de seguir para a entrega e o pagamento.',
     ],
     aboutBrand:
-      'A Denavita é uma marca brasileira de vitaminas e suplementos vendida pelo site oficial, com cápsulas de laranja moro, magnésio, ômega 3, coenzima Q10, colágeno tipo II, NAC com polivitamínico, vinagre de maçã em gomas, creatina, colágeno em pó e kits. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+      'A Denavita é uma marca de vitaminas e suplementos vendida pelo site oficial, com cápsulas de laranja moro, magnésio, ômega 3, coenzima Q10, colágeno tipo II, NAC com polivitamínico, vinagre de maçã em gomas, creatina, colágeno em pó e kits. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
     faqs: [
       {
         question: 'Quanto de desconto o cupom EMCASA dá na Denavita?',
