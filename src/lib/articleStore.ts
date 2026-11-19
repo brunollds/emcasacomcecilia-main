@@ -3,6 +3,7 @@ import { resolveYesStylePage } from '@/components/coupons/yesstylePage';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
 import { affiliateStoreServesLocale, getAffiliateStore } from '@/lib/affiliateStores';
+import { getPendingCodeSeasonNotice, storeTakesCodeSeasonNotice, type CodeSeasonNotice } from '@/lib/codeSeasonNotice';
 import {
   formatBrasiliaDay,
   getCouponBySlug,
@@ -37,6 +38,9 @@ export type ArticleStoreBlock = {
   // só monta no navegador e dentro do prazo. Vai no payload do React até o próximo deploy, e o navegador esconde o que
   // venceu. Sem prazo pendente no build, o campo não existe.
   limitedCodes?: ArticleLimitedCode[];
+  // O aviso de temporada (codeSeasonNotice.ts) no fim dos recortes do topo e do fim: só em PT, em artigo com cupom de
+  // loja de cupom, e só enquanto a janela não venceu no build.
+  codeNotice?: CodeSeasonNotice;
 };
 
 export type ArticleLimitedCode = {
@@ -157,6 +161,7 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
   const storeHref = (ctaUrl && !isInternalLink(ctaUrl) ? ctaUrl : undefined) || source?.offerUrl || store.offerUrl;
   const storeSponsored = storeHref === ctaUrl ? review.cta?.sponsored ?? true : true;
   const limitedCodes = pickArticleLimitedCodes(store, code, locale, now);
+  const codeNotice = locale === 'pt' && code && storeTakesCodeSeasonNotice(store) ? getPendingCodeSeasonNotice(now) : undefined;
 
   return {
     brand: store.brand,
@@ -172,6 +177,7 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
     articlesHref: showArticles ? getStoreArticlesPath(store.slug) : undefined,
     articleCount: showArticles ? articleCount : undefined,
     ...(limitedCodes.length > 0 && { limitedCodes }),
+    ...(codeNotice && { codeNotice }),
   };
 }
 

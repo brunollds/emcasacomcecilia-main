@@ -2,6 +2,7 @@
 
 import { Check, Copy, ExternalLink, Scissors } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { CodeSeasonNotice } from '@/components/coupons/CodeSeasonNotice';
 import { CopyAndOpenStoreLink, CopyCodeButton } from '@/components/coupons/CouponActions';
 import {
   PRIMARY_ACTION,
@@ -216,6 +217,9 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
           {copiedHint}
         </p>
       )}
+
+      {/* Na lateral não cabe: quem está no computador vê o aviso no recorte do topo e no do fim. */}
+      {block.codeNotice && variant !== 'sidebar' && <CodeSeasonNotice notice={block.codeNotice} className="mt-3" />}
     </section>
   );
 }
