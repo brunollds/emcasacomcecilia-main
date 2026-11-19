@@ -2,7 +2,7 @@
 titulo_provisorio: "Novasource Proline ou Cubitan: tabela nutricional e preço das duas fórmulas de 200 ml"
 seo_title: "Novasource Proline ou Cubitan: tabela e preço lado a lado"
 slug_sugerido: "novasource-proline-ou-cubitan"
-parceiro: "[[Nestlé Nutre]]"
+parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
@@ -145,6 +145,7 @@ Sem quadro "Leve se / Passe se".
 
 ## Decisões
 
+- **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** artigo próprio, por decisão do Bruno, na regra de "só rótulo".
 - **19/11/2026:** o preço do parceiro entra com o `CECI` em primeiro plano (Bruno: "a ideia é sempre o nosso código ser aplicado nos nossos afiliados").
 - **19/11/2026:** a tabela oficial do Cubitan foi achada na loja da Danone depois que o Bruno mandou procurar em outras lojas; o briefing deixou de estar parado.

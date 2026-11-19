@@ -2,7 +2,7 @@
 titulo_provisorio: "Nutren Fortify: para que serve, tabela nutricional e quanto custa por porção"
 seo_title: "Nutren Fortify: para que serve, tabela e preço por porção"
 slug_sugerido: "nutren-fortify-para-que-serve"
-parceiro: "[[Nestlé Nutre]]"
+parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
@@ -79,6 +79,8 @@ Ninguém do site usou o produto. Guia pelo rótulo.
 A tabela inteira (22 vitaminas e minerais) está na página; o artigo escolhe as linhas e manda para o rótulo.
 
 ## 5. Preço (19/11/2026, Black Month da loja; reler no dia)
+
+**Regra do Bruno (19/11):** o preço da parceira que o artigo põe em primeiro plano é o preço com o `CECI`. É assim que queremos que o leitor compre. O preço sem o código aparece só como referência de tabela.
 
 | Compra | Preço | Latas | Por lata | Por porção (6 por lata) |
 |---|---|---|---|---|
@@ -158,4 +160,5 @@ Sem quadro "Leve se / Passe se": a decisão de usar não é do leitor sozinho.
 
 ## Decisões
 
+- **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** GO do Bruno. O ângulo passou de "Fortify ou Senior" para "para que serve", com o Senior em seção (decisão desta sessão, pela busca).

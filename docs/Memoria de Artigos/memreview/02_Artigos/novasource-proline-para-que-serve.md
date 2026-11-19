@@ -2,7 +2,7 @@
 titulo_provisorio: "Novasource Proline: para que serve, caixinha, pó ou litro e quanto custa por dose"
 seo_title: "Novasource Proline: para que serve, tabela e preço por dose"
 slug_sugerido: "novasource-proline-para-que-serve"
-parceiro: "[[Nestlé Nutre]]"
+parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
@@ -88,6 +88,8 @@ A coluna "por caixinha" é conta nossa sobre a tabela por 100 ml; dizer isso na 
 
 ## 5. Preço (19/11/2026, Black Month da loja; reler no dia)
 
+**Regra do Bruno (19/11):** o preço da parceira que o artigo põe em primeiro plano é o preço com o `CECI`. É assim que queremos que o leitor compre. O preço sem o código aparece só como referência de tabela.
+
 | Compra | Preço | Doses | Por dose |
 |---|---|---|---|
 | Caixinha de 200 ml, de tabela | R$ 21,99 | 1 | R$ 21,99 |
@@ -155,6 +157,7 @@ Sem quadro "Leve se / Passe se".
 
 ## Decisões
 
+- **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** GO do Bruno para a pauta.
 - **19/11/2026, pergunta 1 da seção 9:** "Sim, só rótulo" (Bruno). O artigo entra como ficha de rótulo e conta de preço, com a indicação entre aspas e atribuída, e sem "cicatrização" no título, no subtítulo e no snippet.
 - **Pergunta 2 (regra de publicidade para fórmula enteral):** não conferida. Não trava a redação; se o Bruno quiser, pergunta à Nestlé Nutre.
