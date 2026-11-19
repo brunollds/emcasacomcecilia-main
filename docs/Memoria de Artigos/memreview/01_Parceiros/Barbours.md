@@ -47,7 +47,7 @@ em `seguro.thebarboursbeauty.com.br`, onde o cupom entra.
 - O checkout mostra um cupom de primeira compra da própria loja e a roleta oferece cupons: nunca citar.
 - A home avisa que a loja não é endossada nem afiliada às marcas mencionadas, e avaliações dizem que as fragrâncias
   "lembram perfumes famosos": não comparar com perfumes de outras marcas nos artigos sem decisão do Bruno.
-- Nos artigos, usar `coupon: "barbours"` e link relativo para `/cupons/barbours`, com a âncora exata "cupom Barbour's".
+- Nos artigos, usar `affiliate: "barbours"`, `coupon: "CECILIALINHARES"` (o código) e link relativo para `/cupons/barbours`, com a âncora exata "cupom Barbour's".
 
 ---
 

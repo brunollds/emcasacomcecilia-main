@@ -46,7 +46,7 @@ Marca de suplementos esportivos (Adaptogen Science); o site roda na Wake (a mesm
   parâmetro passa a se chamar "?parceiro". Nos artigos, usar `&parceiro=CECILIA` (ou `?parceiro=CECILIA` quando a URL
   não tem outro parâmetro). Nunca abrir o link de afiliado para conferir.
 - Nunca citar códigos de terceiros nem da loja; a página responde "Existe cupom Adaptogen de 20%?" sem nomear código.
-- Suplemento sem promessa de efeito. Nos artigos, usar `coupon: "adaptogen"` e link relativo para `/cupons/adaptogen`,
+- Suplemento sem promessa de efeito. Nos artigos, usar `affiliate: "adaptogen"`, `coupon: "CECILIA"` (o código, como nos JSONs da marca) e link relativo para `/cupons/adaptogen`,
   com a âncora exata "cupom Adaptogen".
 
 ---
