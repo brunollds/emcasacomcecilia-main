@@ -46,6 +46,7 @@ public/images/about/partners/bold.png -text export-ignore
 public/images/about/partners/carolina-baby.webp -text export-ignore
 public/images/about/partners/clea-store-icon.png -text export-ignore
 public/images/about/partners/clea-store.png -text export-ignore
+public/images/about/partners/colaedecora.png -text export-ignore
 public/images/about/partners/damie.jpg -text export-ignore
 public/images/about/partners/dolce-gusto.avif -text export-ignore
 public/images/about/partners/dr-peanut-icon.png -text export-ignore
@@ -109,6 +110,7 @@ public/images/logos/bolinhas/belive.png -text export-ignore
 public/images/logos/bolinhas/black-skull.png -text export-ignore
 public/images/logos/bolinhas/bold.png -text export-ignore
 public/images/logos/bolinhas/clea-store.png -text export-ignore
+public/images/logos/bolinhas/colaedecora.png -text export-ignore
 public/images/logos/bolinhas/damie.png -text export-ignore
 public/images/logos/bolinhas/dolce-gusto.png -text export-ignore
 public/images/logos/bolinhas/dr-peanut.png -text export-ignore
@@ -148,6 +150,7 @@ public/images/logos/watermarks/belive.webp -text export-ignore
 public/images/logos/watermarks/black-skull.webp -text export-ignore
 public/images/logos/watermarks/bold.webp -text export-ignore
 public/images/logos/watermarks/clea-store.webp -text export-ignore
+public/images/logos/watermarks/colaedecora.webp -text export-ignore
 public/images/logos/watermarks/damie.webp -text export-ignore
 public/images/logos/watermarks/dolce-gusto.webp -text export-ignore
 public/images/logos/watermarks/dr-peanut.webp -text export-ignore
@@ -659,6 +662,7 @@ public/images/reviews/clea-store/looks-camiseta-basica-comfort.webp -text export
 public/images/reviews/clea-store/looks-camiseta-basica-oversized-jeans.webp -text export-ignore
 public/images/reviews/clea-store/looks-camiseta-basica-shorts-areia.webp -text export-ignore
 public/images/reviews/clea-store/looks-camiseta-basica-wide-leg.webp -text export-ignore
+public/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp -text export-ignore
 public/images/reviews/conhecendo-mais-rabanada.avif -text export-ignore
 public/images/reviews/creatina/alternativas-a-creatina-da-growth-capa-v2.webp -text export-ignore
 public/images/reviews/creatina/alternativas-a-creatina-da-growth-capa.webp -text export-ignore

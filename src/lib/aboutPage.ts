@@ -92,6 +92,7 @@ const PARTNERS: AboutPartner[] = [
   { name: 'BOLD Snacks', src: '/images/about/partners/bold.png', href: 'https://www.boldsnacks.com.br' },
   { name: 'Pink Cheeks', src: '/images/about/partners/pinkcheeks.png', href: 'https://pinkcheeks.com.br' },
   { name: 'Gocase', src: '/images/about/partners/gocase.png', href: 'https://www.gocase.com.br' },
+  { name: 'Cola e Decora', src: '/images/about/partners/colaedecora.png', href: 'https://www.lojacolaedecora.com.br' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });

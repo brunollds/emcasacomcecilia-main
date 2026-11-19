@@ -1002,6 +1002,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/colaedecora.png",
+      "local_url": "/images/about/partners/colaedecora.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 11929,
+      "sha256": "5fcc8544be3ba1d83218f3d9558955dfb9ec0595a0795fe08958e7ea7be22437",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "colaedecora.png",
+      "storage_filename": "colaedecora.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Cola-e-Decora.md",
+        "src/lib/aboutPage.ts",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Cola-e-Decora.md",
+          "line": 54,
+          "column": 4,
+          "literal": "/images/about/partners/colaedecora.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/aboutPage.ts",
+          "line": 95,
+          "column": 34,
+          "literal": "/images/about/partners/colaedecora.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4998,
+          "column": 17,
+          "literal": "/images/about/partners/colaedecora.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5fcc8544be3ba1d83218f3d9558955dfb9ec0595a0795fe08958e7ea7be22437/colaedecora.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5fcc8544be3ba1d83218f3d9558955dfb9ec0595a0795fe08958e7ea7be22437/colaedecora.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:04:12.772Z",
+      "verification_etag_or_digest": "5fcc8544be3ba1d83218f3d9558955dfb9ec0595a0795fe08958e7ea7be22437",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/damie.jpg",
       "local_url": "/images/about/partners/damie.jpg",
       "media_kind": "image",
@@ -3460,6 +3514,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T19:30:51.016Z",
       "verification_etag_or_digest": "ebe2ff7af924b5649334472f7fedebe25f0380609c0a614c59cc461f14b55ebf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/bolinhas/colaedecora.png",
+      "local_url": "/images/logos/bolinhas/colaedecora.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 16535,
+      "sha256": "66e0a4da9ace98da08fd52cd25e24c9c8b1ff2290d6a6c1e8282f53cbdaec980",
+      "width": 512,
+      "height": 512,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "colaedecora.png",
+      "storage_filename": "colaedecora.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Cola-e-Decora.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Cola-e-Decora.md",
+          "line": 55,
+          "column": 4,
+          "literal": "/images/logos/bolinhas/colaedecora.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 5000,
+          "column": 21,
+          "literal": "/images/logos/bolinhas/colaedecora.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/66e0a4da9ace98da08fd52cd25e24c9c8b1ff2290d6a6c1e8282f53cbdaec980/colaedecora.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/66e0a4da9ace98da08fd52cd25e24c9c8b1ff2290d6a6c1e8282f53cbdaec980/colaedecora.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:04:15.511Z",
+      "verification_etag_or_digest": "66e0a4da9ace98da08fd52cd25e24c9c8b1ff2290d6a6c1e8282f53cbdaec980",
       "verification_status": "verified"
     },
     {
@@ -24304,6 +24404,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T22:52:53.438Z",
       "verification_etag_or_digest": "8ccc0fe65e5eb7774190aa03c5e9491f9f6c1ea2e08bee83d0d7d08137dc6efa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/colaedecora.webp",
+      "local_url": "/images/logos/watermarks/colaedecora.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10966,
+      "sha256": "e2d401bdd13c38c5c3fd3a8ddae7e2f231085bca6ba074eda35fb883ae223a63",
+      "width": 480,
+      "height": 125,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "colaedecora.webp",
+      "storage_filename": "colaedecora.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Cola-e-Decora.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Cola-e-Decora.md",
+          "line": 56,
+          "column": 4,
+          "literal": "/images/logos/watermarks/colaedecora.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 5001,
+          "column": 22,
+          "literal": "/images/logos/watermarks/colaedecora.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e2d401bdd13c38c5c3fd3a8ddae7e2f231085bca6ba074eda35fb883ae223a63/colaedecora.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e2d401bdd13c38c5c3fd3a8ddae7e2f231085bca6ba074eda35fb883ae223a63/colaedecora.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:04:18.179Z",
+      "verification_etag_or_digest": "e2d401bdd13c38c5c3fd3a8ddae7e2f231085bca6ba074eda35fb883ae223a63",
       "verification_status": "verified"
     },
     {
@@ -53786,6 +53932,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T03:45:11.841Z",
       "verification_etag_or_digest": "897971f6a7fbf121d621f740c3bc1230f77240bbf861e02e364295c137a0db16",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
+      "local_url": "/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16268,
+      "sha256": "50ee4aafa0b451536044a1f5588c8c3f3c2d245902ae96da47146bbadb194d6c",
+      "width": 434,
+      "height": 340,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-colaedecora-carrinho-com-cupom.webp",
+      "storage_filename": "cupom-colaedecora-carrinho-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Cola-e-Decora.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Cola-e-Decora.md",
+          "line": 57,
+          "column": 4,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 5004,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/50ee4aafa0b451536044a1f5588c8c3f3c2d245902ae96da47146bbadb194d6c/cupom-colaedecora-carrinho-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50ee4aafa0b451536044a1f5588c8c3f3c2d245902ae96da47146bbadb194d6c/cupom-colaedecora-carrinho-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:04:20.794Z",
+      "verification_etag_or_digest": "50ee4aafa0b451536044a1f5588c8c3f3c2d245902ae96da47146bbadb194d6c",
       "verification_status": "verified"
     },
     {
