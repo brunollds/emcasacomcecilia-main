@@ -21,13 +21,13 @@
   "cons": [],
   "coupon": "EMCASACOMCECILIA",
   "affiliate": "colaedecora",
-  "title": "Ofertas da Live da Cola e Decora: o que está em promoção e como o cupom entra",
-  "seoTitle": "Ofertas da Live da Cola e Decora na Black Friday: cupom 10%",
+  "title": "Ofertas da Live da Cola e Decora: preços de prateleiras, mesas e camas",
+  "seoTitle": "Ofertas da Live da Cola e Decora: móveis e cupom",
   "type": "Guia de Black Friday",
-  "description": "O que está nas Ofertas da Live da Cola e Decora, das prateleiras às camas montessorianas, quanto fica com o EMCASACOMCECILIA e como ver o prazo de entrega.",
-  "metaDescription": "Nas Ofertas da Live da Cola e Decora, o EMCASACOMCECILIA tira mais 10% do preço de oferta, como no nosso teste. Veja os móveis em oferta e o frete.",
+  "description": "Compare os preços de prateleiras, móveis infantis e camas nas Ofertas da Live da Cola e Decora. Veja onde o EMCASACOMCECILIA entrou e como conferir o total com frete.",
+  "metaDescription": "EMCASACOMCECILIA dá 10% OFF na Cola e Decora. No teste, entrou em dois itens das Ofertas da Live. Compare preços de prateleiras e camas.",
   "image": "/images/reviews/colaedecora/black-friday-colaedecora-capa.webp",
-  "imageAlt": "Pezeira da Cama Noah com o livreiro cheio de livros, em foto da Cola e Decora com o logo da marca, os textos «Ofertas da Live» e o código EMCASACOMCECILIA.",
+  "imageAlt": "Peseira da Cama Noah com o livreiro cheio de livros, em foto da Cola e Decora com o logo da marca, os textos «Ofertas da Live» e o código EMCASACOMCECILIA.",
   "cta": {
     "text": "Veja as ofertas do dia no site da Cola e Decora. Se decidir comprar, aplique EMCASACOMCECILIA no carrinho e confira o desconto e o frete antes de pagar.",
     "label": "Ir para a Cola e Decora",
@@ -50,20 +50,20 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Cola e Decora está com as Ofertas da Live, com preços do dia em móveis e decoração infantil. No nosso teste, o EMCASACOMCECILIA somou 10% sobre preços de oferta. O frete grátis segue a regra da loja, e o prazo você confere pelo CEP antes de pagar."
+        "Nas Ofertas da Live da Cola e Decora, o cupom EMCASACOMCECILIA deu mais 10% OFF num quadro e numa prateleira que já estavam em promoção. Veja os preços por tipo de móvel e a estimativa com o cupom. Se for comprar uma cama, confirme o desconto e o frete pelo seu CEP no carrinho."
       ]
     },
     {
-      "heading": "O que está nas Ofertas da Live",
+      "heading": "Prateleira, móveis Theo e estante Bella",
       "paragraphs": [
-        "Na época da Black Friday, a Cola e Decora chama a campanha de “Ofertas da Live”. Os produtos levam os selos “Oferta de Live” e “Só hoje”. A tabela traz os preços de oferta da vitrine e uma estimativa com o código."
+        "Entre os itens da tabela, a prateleira Theo de 50 cm é a mais barata e entrou no teste do cupom. Cadeira e mesa Theo aparecem separadas. Se pretende levar as duas, compare o total com e sem frete."
       ],
       "comparisonTable": {
-        "caption": "Preços da vitrine em 19/11, antes do frete. Última coluna: nossa conta, 10% sobre o preço de oferta.",
+        "caption": "Preços da vitrine em 19/11, antes do frete. Última coluna calculada com 10%.",
         "headers": [
           "Produto",
           "Preço na vitrine",
-          "Estimativa com o código"
+          "Com o código (estimativa)"
         ],
         "rows": [
           [
@@ -90,7 +90,23 @@
             "Estante Organizadora Bella",
             "R$ 469,90",
             "R$ 422,91"
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Camas Baixa, Nina e Noah: compare antes de escolher",
+      "paragraphs": [
+        "Entre as três camas, a Baixa tem o menor preço na leitura. A Nina tem barras laterais ajustáveis. A Noah tem livreiro e ocupa 200 cm no comprimento. Compare as medidas e o colchão no [guia das camas montessorianas](/reviews/cama-montessoriana-colaedecora)."
+      ],
+      "comparisonTable": {
+        "caption": "Preços da mesma leitura. Última coluna calculada com 10%, antes do frete.",
+        "headers": [
+          "Cama",
+          "Preço na vitrine",
+          "Com o código (estimativa)"
+        ],
+        "rows": [
           [
             "Cama Montessoriana Baixa",
             "R$ 699,90",
@@ -108,23 +124,20 @@
           ]
         ]
       },
-      "postParagraphs": [
-        "A ficha da Cama Noah traz o selo “envio imediato”, que é da loja. O prazo de entrega segue pelo CEP, como no resto do site."
-      ],
       "images": [
         {
           "src": "/images/reviews/colaedecora/black-friday-colaedecora-nina.webp",
           "alt": "Cama Montessoriana Evolutiva Nina em verde-água, em fundo branco, com as laterais da cama",
-          "caption": "A Cama Montessoriana Evolutiva Nina em verde-água, uma das camas da campanha. Foto: Cola e Decora.",
+          "caption": "Cama Evolutiva Nina em verde-água. Confira o preço da cor que escolher. Foto da Cola e Decora.",
           "objectFit": "contain",
           "aspectRatio": 1
         }
       ]
     },
     {
-      "heading": "Como funcionam as ofertas do dia",
+      "heading": "Onde conferir as Ofertas da Live",
       "paragraphs": [
-        "O “Só hoje” indica oferta diária, e a ficha do produto mostra uma contagem de “Oferta termina em”. A página inicial e as fichas não trazem regulamento nem data de fim da campanha. Por isso, um produto ou preço visto hoje pode mudar amanhã: confira o valor no carrinho na hora de comprar."
+        "A [vitrine das Ofertas da Live](https://www.lojacolaedecora.com.br/live) reúne produtos com selo “Oferta de Live” e “Só hoje”. A loja mostra um contador em algumas fichas. Consulte a oferta do produto para ver o preço do dia."
       ]
     },
     {
@@ -137,8 +150,8 @@
     {
       "heading": "Frete e prazo para comprar com data certa",
       "paragraphs": [
-        "A página de frete da loja diz: “Frete grátis em compras acima de R$ 599 para todo o Brasil”. Pelos preços da tabela, uma cama sozinha passa desse valor e uma prateleira não. A gaveta do carrinho, porém, mostrou a nota “Para as regiões Sul e Sudeste” ao lado de quanto falta para o frete grátis. Digite o CEP no carrinho para ver o que vale para você.",
-        "O prazo é calculado pelo CEP no checkout, e as fichas das camas não trazem prazo de produção. O atraso na entrega é o problema mais registrado no perfil da loja no Reclame Aqui: veja [Cola e Decora no Reclame Aqui](/reviews/colaedecora-reclame-aqui-nota-reputacao). Quem compra para Natal ou aniversário confere o prazo antes de pagar."
+        "A [página de frete da Cola e Decora](https://www.lojacolaedecora.com.br/pagina/frete-gratis.html) anuncia frete grátis em compras acima de R$ 599 para todo o Brasil. No teste, o aviso de frete grátis do carrinho mencionava Sul e Sudeste. Com o cupom aplicado, informe o CEP e confira o valor da entrega antes de pagar.",
+        "Se estiver comprando um móvel para uma data marcada, use a previsão pelo CEP e reserve tempo para montar. Veja [por que vale guardar o prazo exibido](/reviews/colaedecora-e-confiavel)."
       ]
     },
     {
@@ -155,9 +168,9 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Cola e Decora tem Black Friday? A loja chama a campanha de Ofertas da Live, com selos de Oferta de Live e Só hoje. O nome Black Friday não aparece na página inicial.",
-        "O cupom vale nas ofertas da live? No nosso teste, valeu: os 10% do EMCASACOMCECILIA entraram sobre produtos com preço de campanha.",
-        "Tem frete grátis na Cola e Decora? A página de frete diz que sim, em compras acima de R$ 599, para todo o Brasil. A gaveta do carrinho citou as regiões Sul e Sudeste, então confira com seu CEP.",
+        "A Cola e Decora tem Black Friday? No período que consultamos, a página inicial destacava “Ofertas da Live”. Veja a vitrine da loja para conferir a campanha e os produtos do dia.",
+        "O cupom vale nas Ofertas da Live? No nosso teste, EMCASACOMCECILIA deu 10% OFF sobre o preço de oferta de um quadro e uma prateleira. Confira o aviso de desconto para o seu produto.",
+        "Qual é o frete grátis da Cola e Decora? A página de frete anuncia compras acima de R$ 599 em todo o Brasil. No nosso teste, o aviso do carrinho mencionava Sul e Sudeste. Confira o frete com o seu CEP e o cupom aplicado.",
         "Quanto tempo demora a entrega da Cola e Decora? O prazo sai pelo CEP, direto no checkout. Antes de comprar para uma data certa, leia [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel)."
       ]
     }
