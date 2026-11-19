@@ -1208,6 +1208,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/gocase.png",
+      "local_url": "/images/about/partners/gocase.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 7576,
+      "sha256": "b2b0f040e3e13f01e2e97e0ff4925042fa85ceade3c40a080d3b90dba62f61dc",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "gocase.png",
+      "storage_filename": "gocase.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Gocase.md",
+        "src/lib/aboutPage.ts",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Gocase.md",
+          "line": 57,
+          "column": 4,
+          "literal": "/images/about/partners/gocase.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/aboutPage.ts",
+          "line": 94,
+          "column": 27,
+          "literal": "/images/about/partners/gocase.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4872,
+          "column": 17,
+          "literal": "/images/about/partners/gocase.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b2b0f040e3e13f01e2e97e0ff4925042fa85ceade3c40a080d3b90dba62f61dc/gocase.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b2b0f040e3e13f01e2e97e0ff4925042fa85ceade3c40a080d3b90dba62f61dc/gocase.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:21:33.521Z",
+      "verification_etag_or_digest": "b2b0f040e3e13f01e2e97e0ff4925042fa85ceade3c40a080d3b90dba62f61dc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/holyfoods-icon.png",
       "local_url": "/images/about/partners/holyfoods-icon.png",
       "media_kind": "image",
@@ -3490,6 +3544,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T19:30:51.016Z",
       "verification_etag_or_digest": "910da4b01c7521b672250e4e029efb2e5937d21f84d8fe64b766523d755b7da4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/bolinhas/gocase.png",
+      "local_url": "/images/logos/bolinhas/gocase.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 13507,
+      "sha256": "1833aed2c013268694c0052513715536fa2e8a29c090ae4eef13b1f708d63f52",
+      "width": 512,
+      "height": 512,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "gocase.png",
+      "storage_filename": "gocase.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Gocase.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Gocase.md",
+          "line": 58,
+          "column": 4,
+          "literal": "/images/logos/bolinhas/gocase.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4874,
+          "column": 21,
+          "literal": "/images/logos/bolinhas/gocase.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1833aed2c013268694c0052513715536fa2e8a29c090ae4eef13b1f708d63f52/gocase.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1833aed2c013268694c0052513715536fa2e8a29c090ae4eef13b1f708d63f52/gocase.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:21:35.983Z",
+      "verification_etag_or_digest": "1833aed2c013268694c0052513715536fa2e8a29c090ae4eef13b1f708d63f52",
       "verification_status": "verified"
     },
     {
@@ -24318,6 +24418,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T02:21:04.539Z",
       "verification_etag_or_digest": "8615171c88fe8ea2b83906daf8d57814c752b445a43c1b242c1f20eb536e82fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/gocase.webp",
+      "local_url": "/images/logos/watermarks/gocase.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9262,
+      "sha256": "a69e7c214c34d98fc14a93506fa8aed61e94876256f6479babd55a588e40eec4",
+      "width": 480,
+      "height": 136,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "gocase.webp",
+      "storage_filename": "gocase.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Gocase.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Gocase.md",
+          "line": 59,
+          "column": 4,
+          "literal": "/images/logos/watermarks/gocase.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4875,
+          "column": 22,
+          "literal": "/images/logos/watermarks/gocase.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a69e7c214c34d98fc14a93506fa8aed61e94876256f6479babd55a588e40eec4/gocase.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a69e7c214c34d98fc14a93506fa8aed61e94876256f6479babd55a588e40eec4/gocase.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:21:38.369Z",
+      "verification_etag_or_digest": "a69e7c214c34d98fc14a93506fa8aed61e94876256f6479babd55a588e40eec4",
       "verification_status": "verified"
     },
     {
@@ -72047,6 +72193,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "669fe32bcea779699a9132828c6914a5c556028f9349745f512e720695cb61dd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp",
+      "local_url": "/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23068,
+      "sha256": "cd6392341c22b67777602849f1d51794fb6fde22e3d7a87ede2b7719cc05f14e",
+      "width": 369,
+      "height": 566,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-gocase-checkout-com-cupom.webp",
+      "storage_filename": "cupom-gocase-checkout-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Gocase.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Gocase.md",
+          "line": 60,
+          "column": 4,
+          "literal": "/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4878,
+          "column": 13,
+          "literal": "/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cd6392341c22b67777602849f1d51794fb6fde22e3d7a87ede2b7719cc05f14e/cupom-gocase-checkout-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cd6392341c22b67777602849f1d51794fb6fde22e3d7a87ede2b7719cc05f14e/cupom-gocase-checkout-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:21:40.696Z",
+      "verification_etag_or_digest": "cd6392341c22b67777602849f1d51794fb6fde22e3d7a87ede2b7719cc05f14e",
       "verification_status": "verified"
     },
     {
