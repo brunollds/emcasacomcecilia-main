@@ -209,7 +209,7 @@ O Bruno quis seguir com a Donna Carioca depois da DC2. Estas leituras fecham os 
 | vestido beach tennis | 230 | R$ 76,48 |
 
 - A busca de legging tem filtro de tamanho "Curva" (0XL em diante) e de característica "não transparente".
-- **Leitura grossa:** os cartões misturam vendedores, kits e acessórios, e os mínimos não servem. A mediana mostra a ordem de grandeza: a SHEIN custa menos da metade em legging, top e macaquinho. É a alternativa de preço e de tamanho grande, e a única parceira com beach tennis. Antes do briefing, escolher peças uma a uma (vendedor, composição, avaliações) como nos SV1 e SV2.
+- **Leitura grossa:** os cartões misturam vendedores, kits e acessórios, e os mínimos não servem. A mediana puxa para baixo por causa desses itens: nas peças comparáveis (seção 10) a SHEIN fica em torno da metade do preço de lista da Donna Carioca, não abaixo disso. É a alternativa de preço e de tamanho grande, e a única parceira com beach tennis. Antes do briefing, escolher peças uma a uma (vendedor, composição, avaliações) como nos SV1 e SV2.
 
 **Como fica a DC1.** Três motivos de troca, cada um com a sua parceira:
 1. Pagar menos: SHEIN (loja de link, sem código nosso de desconto fixo).
@@ -218,3 +218,34 @@ O Bruno quis seguir com a Donna Carioca depois da DC2. Estas leituras fecham os 
 Quem quer conjunto de academia barato com frete grátis acima de R$ 299 fica na Donna Carioca, e o texto diz.
 
 **Como fica a DC3.** Tem os fatos: perfil verificado e "Ótima" no Reclame Aqui (8,3; 88,7% resolvidas; 73,2% voltariam), CNPJ, endereço da fábrica, sem loja física, política de troca, frete e a queixa mais comum (produto não recebido, 21,31%). Faltam: as matérias sobre a marca ("é da Virginia", "é de onde"), que não foram lidas, e o Mercado Livre e a Shopee oficiais.
+
+## 10. DC1, Alternativas à Donna Carioca (GO do Bruno, 18/11)
+
+**SHEIN, peças comparáveis (busca do site por relevância, 18/11; preço do cartão, já com o desconto do dia).**
+
+| Linha | Peças sem marca da SHEIN, com mais de 1.000 avaliações | Marca própria GLOWMODE | Donna Carioca |
+|---|---|---|---|
+| Legging | R$ 59,92 (Easithlete, com bolso), R$ 61,59, R$ 63,96, R$ 65,59 (SHEIN Sports), R$ 73,45 | R$ 157,52 | de R$ 99,95 (promoção) a R$ 199,90; mais vendida de linha R$ 139,90 |
+| Top | R$ 49,26, R$ 55,81, R$ 59,92, R$ 72,76 (Velisys) | R$ 109,52 e R$ 120,76 | mediana R$ 89,90 |
+| Saia com short (tênis, beach tennis) | R$ 55,12, R$ 62,32 (plus size) | R$ 151,95 | R$ 66,60 a R$ 139,90 |
+
+- **Correção da seção 9:** a mediana de R$ 26 a R$ 51 incluía kits, acessórios e peças fora da linha. Nas comparáveis, a SHEIN sai por cerca de metade do preço de lista em legging e por 55% a 80% em top. No short saia a Donna Carioca em promoção empata. A GLOWMODE custa o mesmo ou mais que ela.
+- **Página de produto da SHEIN:** deu verificação de robô (captcha) na primeira tentativa. Parei ali. Composição, grade, vendedor e nota de cada peça ficam para o Job 1 ler no Chrome do Bruno, sem contornar o bloqueio.
+- **Tamanho:** a busca de legging tem o grupo "Alpha (Curva)" a partir de 0XL e apareceu saia esportiva plus size a R$ 62,32. A grade peça a peça não foi lida.
+
+**Estrutura sugerida (três motivos de troca).**
+1. **Pagar menos:** SHEIN em legging e top. Dizer a ordem de grandeza, com preço relido no dia, e que a GLOWMODE não entra nesse argumento.
+2. **Tamanho que ela não faz:** Insider (PP e XGG nas linhas Motion, Easy, Action e Energy; XXGG no Endorphine) e SHEIN (Curva). A Donna Carioca vai de P a GG.
+3. **Uma peça só, com ficha e troca longa:** Insider (top de R$ 99, short de R$ 119, legging de R$ 169; forro e composição declarados) e Toda Up (calcinha e top segunda pele; 30 dias de troca, contra 7). Linka a DC2.
+4. **Quando ficar na Donna Carioca:** conjunto de três peças ou mais (Leve 3 Pague 2, progressivo de até 30%, Pix e frete grátis acima de R$ 299) e beach tennis da própria marca.
+
+**Formato.** Várias lojas: `affiliate: ["insider", "toda-up", "shein"]`, sem `coupon` nem `cta`. A SHEIN é loja de link, com o código de indicação 4CW5Y (pesquisa no app, não é cupom e não tem percentual fixo). Card de estilo: é artigo de roupa, entra em `scripts/styling-required.json`.
+
+**Cuidados.**
+- Donna Carioca sem link, foto, print nem cupom dela; a negativa não entra no texto. Ela é "Ótima" e verificada no Reclame Aqui: o texto não a diminui.
+- Só fontes públicas (Bruno, 18/11): nada de "veste melhor", "tecido melhor" ou "acabamento superior". Diferença de material só pela ficha.
+- "Legging transparente": a busca existe, mas sem peça em mãos o texto não afirma nada sobre a dela nem sobre as nossas; pode dizer que a SHEIN tem o filtro "não transparente" e que a ficha da Insider declara a composição.
+- Insider: 5% para cliente antigo em 17/11, em aberto. Preço com código conforme a `/cupons/insider` no dia; NakedFeel e lançamentos sem cupom.
+- Sem número de estoque; preços das quatro lojas relidos no dia (todas em Black Friday).
+
+**Falta para o Job 1:** as peças da SHEIN uma a uma (Chrome); composição dos tops e leggings de entrada da Insider; a ficha da legging e do top mais vendidos da Donna Carioca; o regulamento da Black Donna.
