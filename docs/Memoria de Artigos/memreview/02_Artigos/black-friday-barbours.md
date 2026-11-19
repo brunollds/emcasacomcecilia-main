@@ -144,3 +144,10 @@ checkout com o cupom e uma foto oficial de kit.
 ## No ar (18/11/2026)
 
 Release `54248b78` (com o #1162, o #1166 do Farol, o #1160 da AD7 e AD8, as lojas BOLD e Barbour's e a campanha da Proton), no ar às 21:07 UTC; build `01a1f077…`, 2 workers no `deploy:finish`. Smoke de 16 páginas (título, capa e imagens do CDN, CECILIALINHARES, frases proibidas, sitemap e llms.txt), `covers:check` 8/8, IndexNow 26 URLs, captura `44398489658`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/barbours/black-friday-barbours-capa-v2.webp` (`imageFit: contain`), SHA-256 `35f12590ff9192e850da7e95953699d9414d6da824f5d5543e607967b4c7412b`.
+- **Alt:** Três frascos do Kit Clássicos Masculinos da Barbour’s Beauty, de imagem oficial, sobre uma bancada escura em um cenário ilustrativo com luz dourada. A capa traz o logo Barbour’s Beauty, a chamada “Black Friday — 2026” e o cupom CECILIALINHARES.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/55/fontes-selecionadas.json`.
+- **Lote 55 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/55/revisao-terra/ADENDO-CENARIOS-FINAL.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/55/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/barbours/black-friday-barbours-capa.webp`) fica no CDN, sem uso como capa.

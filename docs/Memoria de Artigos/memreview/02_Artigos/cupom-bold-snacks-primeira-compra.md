@@ -221,3 +221,10 @@ resumo). **O artigo cita só as duas linhas, nunca o total do print.**
 
 - Deploy do release `235383f3` (build Hostinger `01a1f0c5`), com o `deploy:finish` verificado, smoke 200 com a capa no CDN, `covers:check` ok, no sitemap e no `llms.txt`, e IndexNow enviado.
 - Releituras: retestar o CECILIA15 em 23/11 (fim da Pré-Black) e reler o regulamento dos brindes na fase seguinte.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/bold/cupom-bold-snacks-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `25c7c194dd1ba562e53b0b158d19d192b2f2e2ba38cd9fcaa86787e2c4f409ce`.
+- **Alt:** Mulher sorrindo enquanto segura duas caixas de produtos BOLD numa cena oficial da marca. A capa traz o logo BOLD Snacks, a chamada “Cupom na primeira compra” e o cupom CECILIA15.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/57/fontes-selecionadas.json`.
+- **Lote 57 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/57/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/57/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bold/cupom-bold-snacks-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

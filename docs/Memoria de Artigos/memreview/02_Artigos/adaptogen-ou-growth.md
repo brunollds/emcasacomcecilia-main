@@ -212,3 +212,10 @@ nosso.
 - **Capa:** `/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp`, "ou Growth? / Pelo rótulo" e o CECILIA, com a 100% Beef (foto oficial; ainda não estava em capa da loja). A Growth só pelo nome.
 - **Corpo:** Tasty Iso, 100% Beef (`adaptogen-100-beef-900g.webp`) e Vegan Iso (`adaptogen-vegan-iso-450g.webp`), com link de afiliado, e o print do checkout.
 - **CDN:** as imagens novas subiram em 18/11/2026, com o sim do Bruno (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/adaptogen/adaptogen-ou-growth-capa-v2.webp` (`imageFit: contain`), SHA-256 `14a10cedd5d288bf475bea50a7fccfa855cd4fde6a1a35e0fe1ba1275baf6c02`.
+- **Alt:** Pote de 900 g da proteína Adaptogen 100% Beef sabor Chocolate sobre um banco de madeira em cenário ilustrativo. A capa traz o logo Adaptogen, a chamada “Adaptogen ou Growth?” e o cupom CECILIA na Adaptogen.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/56/fontes-selecionadas.json`. Só a marca parceira aparece na arte; o cupom está identificado como da Adaptogen.
+- **Lote 56 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/56/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/56/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/adaptogen/adaptogen-ou-growth-capa.webp`) fica no CDN, sem uso como capa.

@@ -131,3 +131,10 @@ Capa da série: "Bem-vindo, 5% OFF" e o código, sobre a foto oficial dos três 
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno antes do merge do #1071 (`docs/auditoria-copy-artigos/lamazonie-lz4-lz5-20261116-farol/`). P01 e P02 aplicadas: snippet e resposta rápida abrem pelo código e pelo percentual.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `39197bd4c5ff8f65df8dcd21f06dcbbca208512ebbc358131a49b765c95444b5`.
+- **Alt:** Protetor facial em bastão FPS 99 da L’Amazonie, em cena de catálogo com musgo e luz atravessando a folhagem. A capa traz o logo L’Amazonie, a chamada “Cupom na primeira compra” e o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/57/fontes-selecionadas.json`.
+- **Lote 57 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/57/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/57/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

@@ -161,3 +161,10 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado e verificado no 
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno e aplicado no mesmo dia: a conta de R$ 133,20 passou a dizer que é o valor dos produtos, antes do frete.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/baw/cupom-baw-como-usar-capa-v2.webp` (`imageFit: contain`), SHA-256 `74434e32c2ea3ccac7bf15415182023fb4e0ce63be71d95b91a87f0b40aed9eb`.
+- **Alt:** Modelo com a camiseta Regular Goth 3.0 preta da BAW em uma montagem ilustrativa de rua com luz violeta e dourada. A capa traz o logo BAW Clothing, a chamada “Como usar o cupom” e o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/57/fontes-selecionadas.json`.
+- **Lote 57 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/57/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/57/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/cupom-baw-como-usar-capa.webp`) fica no CDN, sem uso como capa.

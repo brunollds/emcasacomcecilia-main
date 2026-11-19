@@ -309,3 +309,10 @@ açúcar adicionado" da embalagem); a tabela do artigo é texto. Opções e prop
 
 - Deploy do release `235383f3` (build Hostinger `01a1f0c5`), com o `deploy:finish` verificado, smoke 200 com a capa no CDN, `covers:check` ok, no sitemap e no `llms.txt`, e IndexNow enviado.
 - Releituras: retestar o CECILIA15 em 23/11 (fim da Pré-Black) e reler o regulamento dos brindes na fase seguinte.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/bold/barra-bold-e-boa-capa-v2.webp` (`imageFit: contain`), SHA-256 `45285ecd1c6dbe44f3f34b0179b0aab97e7eff185efc30eca26b24a26b711b51`.
+- **Alt:** Mãos segurando uma barra BOLD Bombom Crocante aberta e escrevendo num planner sobre mesa vermelha, em cena promocional oficial. A capa traz o logo BOLD Snacks, a chamada “Barra proteica: vale a pena?” e o cupom CECILIA15.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/56/fontes-selecionadas.json`.
+- **Lote 56 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/56/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/56/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bold/barra-bold-e-boa-capa.webp`) fica no CDN, sem uso como capa.

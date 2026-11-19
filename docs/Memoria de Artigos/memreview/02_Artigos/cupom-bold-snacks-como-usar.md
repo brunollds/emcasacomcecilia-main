@@ -233,3 +233,10 @@ dado pessoal, o mesmo de `/cupons/bold`). Mínimo de 1 imagem no corpo. Fotos se
 
 - Deploy do release `235383f3` (build Hostinger `01a1f0c5`), com o `deploy:finish` verificado, smoke 200 com a capa no CDN, `covers:check` ok, no sitemap e no `llms.txt`, e IndexNow enviado.
 - Releituras: retestar o CECILIA15 em 23/11 (fim da Pré-Black) e reler o regulamento dos brindes na fase seguinte.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/bold/cupom-bold-snacks-como-usar-capa-v2.webp` (`imageFit: contain`), SHA-256 `25749294bb82ccf9f2931fbfa48e8d2dad9b8e3dd51d529edeeba3e8cb3cb6b3`.
+- **Alt:** Embalagem BOLD Whey Chocolate ao Leite de 450 g, com copo de bebida e barras sobre bancada, em cena promocional oficial com luz de janela. A capa traz o logo BOLD Snacks, a chamada “Como usar o cupom” e o cupom CECILIA15.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/56/fontes-selecionadas.json`.
+- **Lote 56 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/56/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/56/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bold/cupom-bold-snacks-como-usar-capa.webp`) fica no CDN, sem uso como capa.

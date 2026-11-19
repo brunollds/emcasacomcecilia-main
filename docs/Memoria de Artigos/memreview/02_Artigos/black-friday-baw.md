@@ -182,3 +182,10 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado e verificado no 
 Parecer colado pelo Bruno e aplicado no mesmo dia: saiu a instrução de medir a calça de duas formas; as diferenças de preço da Selfie frente à Goth e do Hoodie frente ao Basic Label ficaram explícitas; a Linus aparece como sandália; links oficiais do Hoodie, da bermuda e da Linus; legenda da tabela sem data, com os três preços separados.
 
 Segunda rodada do Farol (16/11/2026): o quadro de decisão fala no tamanho daquela peça, sem "o seu tamanho na marca".
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/baw/black-friday-baw-capa-v2.webp` (`imageFit: contain`), SHA-256 `6c196d9ab421ab78a4f45c1b40c56ab75794792136c03b0355830d38dc3edb22`.
+- **Alt:** Modelo com a calça Track BAW Tag amarelo-lima, recortada de imagem oficial da BAW e montada em uma cena urbana ilustrativa. A capa traz o logo BAW Clothing, a chamada “Black Friday — O que vale?” e o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/55/fontes-selecionadas.json`.
+- **Lote 55 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/55/revisao-terra/ADENDO-CENARIOS-FINAL.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/55/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/black-friday-baw-capa.webp`) fica no CDN, sem uso como capa.

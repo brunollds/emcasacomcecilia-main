@@ -135,3 +135,10 @@ Handoff da sessão Adicionar Cupons, colado pelo Bruno (`C:UsersBrunodpaw-print
 **Aplicativo sem números no texto:** nos prints do app, o subtotal é R$ 316,80, o desconto R$ 28,80 e o total R$ 259,20, e a conta visível não fecha (316,80 menos 28,80 dá 288,00); a linha que explicaria a diferença não existe no print original (o recorte não tirou nada). O texto diz só que os dois códigos mostraram o mesmo desconto e o mesmo total no mesmo carrinho. Os dois prints do aplicativo ficaram fora até o Bruno decidir.
 
 Também corrigido: `cupom-baw-como-usar` e `black-friday-baw` diziam "nosso teste foi no site"; passam a dizer que o código entrou no site e no aplicativo.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/baw/cupom-baw-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `4a19b08bd35ad3f6a08c600ab7a9835b074bba18f6a249e999be3990b8d886e9`.
+- **Alt:** Modelo vestindo moletom Hoodie BAW Subscript preto em uma montagem ilustrativa de rua com luz azul. A capa traz o logo BAW Clothing, a chamada “Cupom na primeira compra” e o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/56/fontes-selecionadas.json`.
+- **Lote 56 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/56/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/56/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/cupom-baw-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

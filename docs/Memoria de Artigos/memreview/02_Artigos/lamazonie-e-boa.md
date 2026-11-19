@@ -182,3 +182,10 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Ca
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno antes do merge do #1071 (`docs/auditoria-copy-artigos/lamazonie-lz4-lz5-20261116-farol/`). P04 a P15 aplicadas: a resposta rápida abre pela dúvida "funciona?"; dois frascos passam a ser 50 a 60 dias pela estimativa da marca, separados da exigência da garantia; a tabela perdeu a coluna por frasco (o valor foi para o texto); as avaliações levam o aviso da própria página de que parte vem de produtos relacionados agrupados pela loja (conferido no HTML, bloco de "borrowed reviews"); conclusão, quadro e FAQ sem tratar a garantia como evidência; saíram os capítulos "O que não dá para saber" e "Os outros produtos, sem resenha". O título (P03) foi trocado com o OK do Bruno para "L'Amazonie é boa? O que conferir antes de comprar o sérum de sobrancelhas"; seoTitle e slug iguais.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/lamazonie/lamazonie-e-boa-capa-v2.webp` (`imageFit: contain`), SHA-256 `131bbbbb7fc87862657e0c018b56b40e70492e0a2e2026777c7ba8275f122463`.
+- **Alt:** Frasco verde aberto do sérum de sobrancelhas L’Amazonie com a escova e a tampa dourada, em montagem ilustrativa sobre bancada rosada. A capa traz o logo L’Amazonie, a chamada “Sérum de sobrancelhas: vale a pena?” e o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/56/fontes-selecionadas.json`.
+- **Lote 56 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/56/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/56/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/lamazonie/lamazonie-e-boa-capa.webp`) fica no CDN, sem uso como capa.

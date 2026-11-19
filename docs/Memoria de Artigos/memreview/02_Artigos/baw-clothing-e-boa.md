@@ -158,3 +158,10 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Fo
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno depois do merge do #1065 e aplicado no mesmo dia: resposta rápida e subtítulo dizem para quem as peças fazem sentido; o card de estilo separa o conjunto da foto da sugestão nossa; os preços viraram tabela (peça, cor, preço da página e valor com os 10 0o código); a instrução de medir sobre superfície plana saiu, porque as descrições não dizem como o tórax foi medido. O título novo proposto ("BAW Clothing é boa? Tecidos, medidas e cuidados antes de comprar") foi aprovado pelo Bruno e aplicado.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/baw/baw-clothing-e-boa-capa-v2.webp` (`imageFit: contain`), SHA-256 `c7beb903b274a9ec3aa590bec1652a459e9a1620be99430e308dbb51dd1cd4a4`.
+- **Alt:** Modelo com a camiseta Oversized BAW Subscript off-white em montagem ilustrativa de galpão iluminado pelo sol. A capa traz o logo BAW Clothing, a chamada “Tecidos e caimento” e o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/56/fontes-selecionadas.json`.
+- **Lote 56 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/56/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/56/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/baw-clothing-e-boa-capa.webp`) fica no CDN, sem uso como capa.

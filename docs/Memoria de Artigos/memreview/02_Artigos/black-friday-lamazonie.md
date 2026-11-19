@@ -184,3 +184,10 @@ O que o texto afirma e o que deixa para a segunda passada: a página de Black Fr
 ## Capa e imagens (aprovadas pelo Bruno em 16/11/2026)
 
 O Bruno pediu uma capa que remetesse à Black Friday, com pessoas comprando produtos para o rosto. Cenário gerado por IA pelo Bruno (Gemini), a partir de prompt da sessão: duas mulheres com sacolas pretas diante de uma prateleira de skincare, sem texto, sem marca e sem produto na mão. A primeira versão levava a foto oficial do sérum num quadro; o Bruno mandou tirar, e a capa ficou só com o cenário, o logo, a chamada "Black Friday 2026, kits e cupom" e o código. Origem: cenário gerado por IA; nenhum produto desenhado. Corpo: `black-friday-lamazonie-serum-tres-frascos.webp` (foto oficial dos três frascos) e o print do checkout, que já estava no CDN.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/lamazonie/black-friday-lamazonie-capa-v2.webp` (`imageFit: contain`), SHA-256 `0fd0e82c063adaa02d53f5b8a4dbe3c0d39cc92b2fc5e19dd75b53445eaa0263`.
+- **Alt:** Bisnaga oficial do sérum facial C20 da L’Amazonie sobre uma bancada de pedra em cenário ilustrativo com luz de janela. A capa traz o logo L’Amazonie, a chamada “Black Friday — Kit ou oferta?” e o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/55/fontes-selecionadas.json`.
+- **Lote 55 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/55/revisao-terra/ADENDO-CENARIOS-FINAL.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/55/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/lamazonie/black-friday-lamazonie-capa.webp`) fica no CDN, sem uso como capa.

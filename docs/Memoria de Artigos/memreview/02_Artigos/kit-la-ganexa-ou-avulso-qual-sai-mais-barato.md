@@ -126,3 +126,10 @@ o frete grátis, que contam depois do cupom.
 - **Fora deste artigo:** o `cupom-la-ganexa-como-usar` ainda diz que o Kit 2 Brigadeiros não foi testado; o
   carrinho de 15/11 testou.
 
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/laganexa/kit-la-ganexa-ou-avulso-qual-sai-mais-barato-capa-v2.webp` (`imageFit: contain`), SHA-256 `205e520665877feeb2af94b289404a2d3a685d2803b4e7568c4387264beb76e7`.
+- **Alt:** Uma mão levanta uma colher de brigadeiro de um pote da La Ganexa, em imagem de catálogo sobre uma bancada. A capa traz o logo La Ganexa, a chamada “Kit ou avulso: qual compensa?” e o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/55/fontes-selecionadas.json`.
+- **Lote 55 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/55/revisao-terra/ADENDO-CENARIOS-FINAL.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/55/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/laganexa/kit-la-ganexa-ou-avulso-capa.webp`) fica no CDN, sem uso como capa.
