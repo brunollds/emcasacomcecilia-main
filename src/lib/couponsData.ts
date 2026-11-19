@@ -5133,6 +5133,11 @@ const STORE_COUPONS: Coupon[] = [
     bubble: { src: '/images/logos/bolinhas/denavita-folhas.png', background: '#54B101' },
     brandWatermark: '/images/logos/watermarks/denavita.webp',
     brandColor: '#54B101',
+    cartPrint: {
+      src: '/images/reviews/denavita/cupom-denavita-checkout-com-cupom.webp',
+      alt: 'Resumo do checkout da Denavita com o código EMCASA no campo Tem um cupom?: desconto de R$ 39,98 sobre R$ 399,80 em produtos e total de R$ 359,82',
+      aspectRatio: 0.54,
+    },
     code: 'EMCASA',
     codeFieldLabel: 'Tem um cupom?',
     discount: '10% OFF',
@@ -5142,7 +5147,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'reduzido',
     shortDescription: 'todo o site da Denavita, inclusive os produtos em promoção',
     longDescription:
-      'O cupom Denavita EMCASA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram sobre vitaminas e suplementos que já estavam com desconto. Vale em todas as formas de pagamento.',
+      'O cupom Denavita EMCASA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site: nos nossos testes, os 10% entraram sobre vitaminas e suplementos que já estavam com desconto e num carrinho de Leve 3, Pague 2. Vale em todas as formas de pagamento, inclusive no Pix.',
     metaTitle: 'Cupom Denavita: 10% OFF com EMCASA',
     metaTitleMonth: true,
     metaDescription:
@@ -5152,18 +5157,17 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Pode ser usado por clientes novos e antigos',
     shipping:
       'O site anuncia frete grátis em compras a partir de R$ 199,90, com regras próprias; o valor do frete e o prazo saem no checkout depois do CEP',
-    // O "Leve 3, Pague 2" do carrinho ainda não foi testado com o cupom (pede identificação): só os preços em promoção.
-    combinable: 'Soma com as promoções de preço do site e vale com todas as formas de pagamento',
+    combinable: 'Soma com as promoções vigentes do site, inclusive o Leve 3, Pague 2, e vale com todas as formas de pagamento, inclusive o Pix',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, a Laranja Moro de R$ 129,90 por R$ 76,90 também ganhou os 10%' },
-      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, a Laranja Moro de R$ 129,90 por R$ 76,90 também ganhou os 10%, e um carrinho de Leve 3, Pague 2, também' },
+      { benefit: 'pix', stacks: 'sim', condition: 'No teste, o desconto do cupom se manteve com o Pix escolhido' },
       { benefit: 'frete', stacks: 'depende', condition: 'O site anuncia frete grátis a partir de R$ 199,90; confira a opção no checkout depois do CEP' },
     ],
-    paymentPerks: ['Parcelamento no cartão de crédito, com 3x sem juros nos produtos da vitrine'],
+    paymentPerks: ['Parcelamento em até 12x no cartão de crédito, como mostra o resumo do checkout'],
     lastVerified: '2026-11-19',
     testedAt: '2026-11-19',
     testNote:
-      'Num carrinho com a Laranja Moro Morosil, Picolinato de Cromo e Café Verde em promoção, de R$ 129,90 por R$ 76,90, o EMCASA tirou R$ 7,69 e o total caiu para R$ 69,21. Com o Jejoom Shot Matinal, de R$ 94,90, e o Trio Magnésio, de R$ 46,90, no mesmo carrinho, os R$ 218,70 em produtos ganharam R$ 21,87 de desconto, 10%, e o total ficou em R$ 196,83.',
+      'Num carrinho com a Laranja Moro Morosil, Picolinato de Cromo e Café Verde em promoção, de R$ 129,90 por R$ 76,90, o EMCASA tirou R$ 7,69 e o total caiu para R$ 69,21. Com o Jejoom Shot Matinal, de R$ 94,90, e o Trio Magnésio, de R$ 46,90, no mesmo carrinho, os R$ 218,70 em produtos ganharam R$ 21,87 de desconto, 10%, e o total ficou em R$ 196,83. Num carrinho de Leve 3, Pague 2, com o Kit Vida Fit e o Turbo Metabolismo, de R$ 199,90 cada, o código tirou R$ 39,98 dos R$ 399,80, e o total caiu para R$ 359,82; com o Pix escolhido, o desconto se manteve.',
     codeInstructions: [
       'Copie o código EMCASA no card acima.',
       'Acesse o site oficial da Denavita pelo botão indicado, adicione os produtos ao carrinho e clique em Finalizar compra.',
@@ -5182,6 +5186,16 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom Denavita soma com os produtos em promoção?',
         answer:
           'Sim. No nosso teste, a Laranja Moro estava em promoção, de R$ 129,90 por R$ 76,90, e o cupom tirou os 10% dela também: R$ 7,69, com o total em R$ 69,21.',
+      },
+      {
+        question: 'O cupom Denavita soma com o Leve 3, Pague 2?',
+        answer:
+          'Sim. No nosso teste, num carrinho de Leve 3, Pague 2 com o Kit Vida Fit e o Turbo Metabolismo, de R$ 199,90 cada, o EMCASA tirou R$ 39,98 dos R$ 399,80, e o total caiu para R$ 359,82.',
+      },
+      {
+        question: 'O cupom EMCASA vale no Pix?',
+        answer:
+          'Vale. No nosso teste, o desconto do cupom se manteve com o Pix escolhido. No cartão de crédito, o resumo do checkout mostra o parcelamento em até 12x.',
       },
       {
         question: 'O cupom Denavita vale na primeira compra?',
@@ -5239,7 +5253,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'no site oficial',
-      note: 'Soma com os preços em promoção do site',
+      note: 'Soma com as promoções do site, inclusive o Leve 3, Pague 2, e com o Pix',
     },
     status: 'ativo',
     featured: false,
