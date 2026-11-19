@@ -97,7 +97,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 ### Propostas sem GO
 
-**Skelt (18/11/2026): marcas de farmácia e reteste do código.** Fatos em [[skelt-fatos-1811]]. O `SKEMCASACOMCECILIA` deu 5% sobre o preço da campanha November Glow em cinco carrinhos (o teste de 11/11 tinha dado 10%); com o site inteiro em promoção, não dá para saber se é regra da campanha ou mudança do código. Nenhuma pauta abaixo vira briefing antes de o Bruno decidir o percentual.
+**Skelt (18/11/2026): marcas de farmácia e reteste do código.** Fatos em [[skelt-fatos-1811]]. O `SKEMCASACOMCECILIA` deu 5% sobre o preço da campanha November Glow em cinco carrinhos (o teste de 11/11 tinha dado 10%); com o site inteiro em promoção, o Bruno testou no site e viu 5% em todos os códigos de parceiros. Decisão dele (18/11): os textos seguem com 10% em todo lugar; preço com o código se relê no carrinho no dia.
 
 | Código | Pauta | Parceiros | Busca | Nota |
 |---|---|---|---|---|
@@ -329,7 +329,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | 13/11 | HF7 (`holyfoods-e-boa`): saiu em 10/11 com os 30% da campanha 11.11 da HolyFoods, com fim anunciado para 12/11. Reler o preço do avulso, do pack e do Projeto 21 Dias e se o EMCASA soma com a oferta que estiver no ar; atualizar a tabela de preços, a de 100 g de mistura, o parágrafo do cenário e a data da legenda |
 | 13/11 e na abertura da campanha | `shein-black-friday` (10 idiomas): "hoje está no 11.11" envelhece. Reler as lojas e atualizar as datas |
 | 05/11 | Autobronzeador Skelt: preços relidos em 18/11 ([[skelt-fatos-1811]], seção 3), na campanha November Glow. Falta comparar com os valores do `autobronzeador-skelt-qual-escolher` e do `skelt-ou-best-bronze`, que são de 23/10 |
-| Até 21/11 | Skelt: teste refeito em 18/11 pela API do carrinho. O `SKEMCASACOMCECILIA` deu 5% sobre o preço da campanha, não 10% ([[skelt-fatos-1811]], seção 1). Espera a decisão do Bruno; `/cupons/skelt` é da sessão de cupons |
+| Até 21/11 | Skelt: teste refeito em 18/11 pela API do carrinho. O `SKEMCASACOMCECILIA` deu 5% sobre o preço da campanha, não 10% ([[skelt-fatos-1811]], seção 1). Decisão do Bruno (18/11): os textos ficam com 10% em todo lugar. Retestar depois da campanha November Glow |
 | Antes da Black Friday | Reler os preços da Insider (I6), do melhor whey, da Probiótica, da Max e da Hostinger. Na DAMIE, a campanha e os preços |
 | Antes de 27/11 | Famílias da Hostinger (Reach, HostGator e WordPress): reler os preços |
 | ~14/11 | Remedir "cupom max titanium", "cupom probiótica" e "cupom insider" (posição e URL); na Max, decidir a dona ([[cupom-loja-primeira-pagina-0511]]) |
