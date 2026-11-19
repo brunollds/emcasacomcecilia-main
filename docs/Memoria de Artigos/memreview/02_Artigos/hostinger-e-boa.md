@@ -8,9 +8,9 @@ category: "produtos-experiencias"
 reviewKind: "editorial"
 type: "Editorial"
 anexo_tipo: "Anexo-Tecnologia"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "redacao"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 66
@@ -165,7 +165,7 @@ escolher, e a conta da renovação em reais. Não temos teste de velocidade nem 
 | Servidor de Minecraft /br: Game Panel 1 R$ 31,99/mês (24 meses, R$ 767,76; renova R$ 59,99), Game Panel 2 R$ 46,99 (R$ 1.127,76; R$ 77,99) | A loja informa: | Condição comercial volátil | `hostinger.com/br/vps/hospedagem-minecraft` | Cards | 2026-11-19 | [x] Sim, numa linha do quadro; ninguém do site joga Minecraft nela |
 | Global, em dólar: Premium US$ 1,99 (48 meses, US$ 95,52; renova US$ 10,99), Business US$ 2,79 (US$ 133,92; US$ 16,99), Cloud Startup US$ 7,99 (US$ 383,52; US$ 25,99); Minecraft Game Panel 1 US$ 6,99 (24 meses, US$ 167,76; renova US$ 11,99). Sem Single no global | A loja informa: | Condição comercial volátil | `hostinger.com/web-hosting` e `hostinger.com/vps/minecraft-hosting`, lidos do Brasil | Cards | 2026-11-19 | [x] Sim, nos 9 idiomas, como "preço do site internacional, que pode mudar na sua região" |
 | VPS e e-mail no global | — | — | Não extraídos (a página do VPS global abriu, mas os preços não foram tirados) | — | — | [ ] PENDENTE: reler antes da redação |
-| Um ano de renovação do Premium (12 × R$ 38,99 = R$ 467,88) custa quase o mesmo que os 48 meses de entrada (R$ 479,52) | Conta nossa: | Conta própria | Card do Premium | Pressuposto: renovação mensal de tabela × 12 | 2026-11-19 | [x] Sim, com o Bruno aprovar o pressuposto (Pergunta 2). É a única conta de renovação do artigo |
+| No Premium de 48 meses, a mensalidade da renovação (R$ 38,99) é cerca de 4 vezes a da entrada (R$ 9,99) | Conta nossa: | Conta própria | Card do Premium | Pressuposto: as duas mensalidades do mesmo ciclo do card, sem multiplicar (Decisões, item 2) | 2026-11-19 | [x] Sim. É a única conta de renovação do artigo |
 | Renova "pelo mesmo período" | A loja informa: | Condição comercial volátil | Cards de 19/11 | "Renovação automática por R$ X/mês pelo mesmo período" | 2026-11-19 | [ ] Não escrever o prazo: em 06/11 o carrinho do Single disse "renova a cada 12 meses" (Fila, seção 4). O texto diz só o preço mensal de renovação |
 | Backups semanais grátis, LiteSpeed, CDN e suporte 24h nos planos de hospedagem | A loja informa: | Fato oficial | `hostinger.com/br/hospedagem-de-sites` | Lista dos planos | 2026-11-19 | [x] Sim, na tabela, sem prometer "mais rápido" |
 | SONAR20: 20% no primeiro período, em compra nova, também para quem já é cliente e compra um produto que não tem; VPS e WordPress sim, domínio não; a renovação sai pelo preço de tabela | A loja informa: | Condição comercial volátil | Dossiê [[Hostinger]], seção 1 | Termos do programa e teste de 29/10 e 14/11 | 2026-11-19 | [x] Sim, no capítulo final. Nunca "soma com outros cupons" nem "um cupom por pedido" |
@@ -236,7 +236,7 @@ escolher, e a conta da renovação em reais. Não temos teste de velocidade nem 
   entrada → renovação. Uma linha por produto: hospedagem, Cloud, VPS, e-mail, Criador com IA, loja, Minecraft.
 - **H2 "Hostinger é bom para criar site?" (busca literal):** hospedagem compartilhada contra o Criador com IA, para
   quem não quer mexer em código; link para o artigo do Criador. "Usei:" só na hospedagem.
-- **H2 "VPS Hostinger é boa?" (busca literal):** o KVM 2 do Bruno, o que fica com quem contrata (manutenção,
+- **H2 "VPS Hostinger é boa?" (busca literal):** o KVM 2 do Bruno, a escolha do servidor no Brasil ao configurar, o que fica com quem contrata (manutenção,
   atualizações), quando a hospedagem comum basta; link para o VPS ou compartilhada e para o OpenClaw.
 - **H2 "Hostinger email é bom?" (busca literal):** o e-mail Business do Bruno, preço por caixa; newsletter é outro
   produto (Reach), com link.
@@ -244,8 +244,8 @@ escolher, e a conta da renovação em reais. Não temos teste de velocidade nem 
   Nuvemshop ou Shopify.
 - **H2 "Quanto custa depois da entrada" (título direto):** a tabela com entrada e renovação e a única conta de
   renovação (Premium), com a data da leitura na legenda.
-- **H2 "Quando não escolher a Hostinger" (título direto):** quem quer renovar sem planejar, quem precisa de algo
-  que a vitrine não promete (o texto não inventa), quem quer servidor no Brasil (Pergunta 4).
+- **H2 "Quando não escolher a Hostinger" (título direto):** quem quer renovar sem planejar e quem precisa de algo
+  que a vitrine não promete (o texto não inventa). O servidor no Brasil é dica do capítulo do VPS (Decisões, item 4).
 - **H2 "SONAR20: onde entra" (título direto):** compra nova, primeiro período, quem já é cliente também; domínio
   não; a renovação sai pelo preço de tabela; "confira no carrinho".
 - **FAQ:** vale a pena? (resposta rápida); é bom para WordPress? (capítulo do site); é confiável? (frase com link);
@@ -276,8 +276,8 @@ Páginas salvas no scratchpad (`hostinger-boa/pages/`): `/br/hospedagem-de-sites
   - quem roda app, automação (n8n) ou agente de IA: VPS, aceitando a manutenção;
   - quem só quer e-mail com o domínio: o e-mail por caixa;
   - quem não deve escolher: quem compara só o preço de entrada e não aceita a renovação.
-- **Conta própria:** um ano de renovação do Premium contra os 48 meses de entrada. Pressuposto: a renovação de tabela
-  vezes 12 meses (Pergunta 2).
+- **Conta própria:** a mensalidade de renovação do Premium contra a de entrada, no mesmo ciclo (cerca de 4 vezes).
+  Nunca multiplicar a mensalidade por 12 (Decisões, item 2).
 - **Armadilha:** escolher pelo preço de entrada do plano mais longo sem olhar a renovação mensal.
 
 ---
@@ -294,3 +294,31 @@ Páginas salvas no scratchpad (`hostinger-boa/pages/`): `/br/hospedagem-de-sites
    se você souber em qual data center está o seu site ou se a página de VPS mostrar a lista. Sem isso, a linha sai.
 5. **Autoria:** só você (`bruno-luiz`), como pede o anexo de tecnologia, ou você e a Cecília, como no
    `hostinger-e-confiavel`?
+
+---
+
+## Decisões do Bruno (19/11/2026)
+
+1. **Classe:** `produtos-experiencias`, `reviewKind: editorial`, `type: "Editorial"`, sem nota, veredito nem prós e contras.
+2. **Conta da renovação:** o anual nunca é o mensal vezes 12. Um ano sai mais barato que doze meses, e quatro anos saem
+   mais baratos que um ano. Por isso a conta "12 × R$ 38,99" sai. O preço de renovação do card ("R$ X/mês pelo mesmo
+   período") é a mensalidade do ciclo escolhido. A conta passa a comparar duas mensalidades do **mesmo ciclo**, sem
+   multiplicar: no Premium de 48 meses, a entrada sai R$ 9,99/mês e a renovação R$ 38,99/mês, cerca de 4 vezes (Conta
+   nossa, pressuposto: o mesmo ciclo do card). Se a redação quiser o total em reais, ele vem do carrinho do ciclo de
+   renovação, lido no dia, nunca de uma multiplicação. O capítulo de preço e a armadilha da seção 10 seguem essa
+   regra.
+3. **Print do hPanel:** o Bruno mandou o print do menu do site
+   (`C:UsersBrunoOneDriveImagensCapturas de telaScreenshot 2026-11-19 144524.png`). Ele mostra o nome do
+   site (`emcasacomcecilia.com.br`) e o menu: Painel de controle, Plano de hospedagem, Desempenho, Analytics,
+   Segurança, Domínios, Site, Arquivos, Bancos de dados e Avançado. Não aparece valor, e-mail nem hostname. Vai no
+   capítulo "Hostinger é boa hospedagem?", só no PT, pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md` (Job 6). O Job 6
+   decide se recorta o nome do site, que é o domínio público deste site.
+4. **Servidor no Brasil:** sim. Leitura de 19/11: o FAQ do VPS lista servidores nos EUA e **no Brasil**, entre os 10
+   data centers ("Nas Américas, você pode implantar seus serviços em nossos servidores VPS nos EUA ou no Brasil"), e o
+   local pode ser trocado depois. Na hospedagem de sites, o FAQ diz que os locais "podem ser diferentes dependendo do
+   seu plano". Então a linha **não vai para "quando não escolher"**: vira dica no capítulo do VPS (escolher o Brasil
+   ao configurar, quando o público é daqui), e na hospedagem o texto manda conferir o local disponível no plano. Fora
+   do PT, a frase é "escolha o local mais perto do seu público", sem citar o Brasil.
+5. **Autoria:** só o Bruno (`authors: ["bruno-luiz"]`), em primeira pessoa, como pede o anexo de tecnologia.
+
+**Antes da redação:** reler os preços da Black Friday e ler o VPS e o e-mail do site internacional.
