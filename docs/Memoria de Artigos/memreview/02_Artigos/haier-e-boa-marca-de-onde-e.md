@@ -196,3 +196,10 @@ e "como é o atendimento", e opina só sobre a air fryer, que foi o que a Cecíl
 | Cluster | 10 | 6 | Par da HA2 e porta para o estoque de air fryer; sem loja parceira |
 | Viabilidade | 10 | 7 | Fatos lidos e com fonte; faltam fotos e a HA2 |
 | **Total** | 100 | **66** | |
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/haier/haier-e-boa-marca-de-onde-e-capa-v2.webp` (`imageFit: contain`), SHA-256 `abe641ec9809bee7f7329710ed2c9b619ea5f01960ec7a8cc6ef2be7c0db8b76`.
+- **Alt:** Air fryer forno Haier em vista oblíqua sobre a bancada da cozinha, com espetinhos vistos pela janela, em quadro do vídeo próprio, com o logo Haier e a pergunta “Haier é boa marca?”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/54/fontes-selecionadas.json`.
+- **Lote 54 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/54/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/54/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/haier/haier-e-boa-marca-capa.webp`) fica no CDN, sem uso como capa.

@@ -143,3 +143,10 @@ O guia ficou só com a entrega: onde consultar o prazo antes de comprar, o frete
 **Capa e imagem.** As aprovadas em 13/11: "Prazo de entrega" com o CECILIA12 e a manual cinza reclinada; no corpo, a Elétrica Fixa de frente.
 
 - No ar desde 14/11/2026, release `197be4fe` (#971; deploy 56b9d755, build 01a1db29). `deploy:finish` ok (2 workers); smoke dos quatro artigos contra o JSON ok (títulos, capítulos, primeira frase de cada capítulo, og:image, sitemap e llms.txt); `covers:check` 4/4; IndexNow com 7 URLs; captura 43623199592 à espera da aprovação do Bruno.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/damie/damie-prazo-de-entrega-capa-v2.webp` (`imageFit: contain`), SHA-256 `4914dc00272aae329f5abc7de60a711a18cf1437ef111bc62c4c3abc680796fa`.
+- **Alt:** Cecília sentada sobre uma caixa de papelão com a marca DAMIE, em foto própria, com o logo DAMIE e a pergunta “DAMIE: quando chega a poltrona?”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/49/fontes-selecionadas.json`.
+- **Lote 49 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/49/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/49/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/damie/damie-prazo-de-entrega-capa.webp`) fica no CDN, sem uso como capa.

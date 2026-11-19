@@ -333,3 +333,10 @@ Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada po
 - "Nutren Active": `nutren-active-chocolate-400g-oficial.webp`; a legenda avisa que a tabela é a da baunilha.
 - A foto da linha Senior ganhou a proporção exata (`aspectRatio: 3.1779`), sem as faixas do quadro 16:9.
 - Texto: "Comparamos só rótulos e páginas oficiais, lidos em 12/10/2026, sem teste próprio." virou "Comparamos só os dados oficiais, sem teste próprio." (Bruno, 13/10/2026).
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nestle-nutre-produtos-para-que-servem-capa-v2.webp` (`imageFit: contain`), SHA-256 `f65dd9374818f2015d4db0577acec0cfbb370b9ec1710da5d8e6849a2196a713`.
+- **Alt:** Lata Nutren Senior Premium Baunilha de 370 g, em imagem de catálogo publicada pela Drogaria Venancio, com logo Nestlé Nutre, “Qual Nutren escolher?” e CECI na caixa “Na Nestlé Nutre:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/52/fontes-selecionadas.json`.
+- **Lote 52 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/52/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/52/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp`) fica no CDN, sem uso como capa.

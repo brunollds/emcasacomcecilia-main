@@ -299,3 +299,10 @@ O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de
 ### Fontes e nota de transparência
 
 Fontes: rótulo e página do Isosource 1.5 Sem Sabor na Nestlé Nutre e página do Trophic 1.5 Baunilha 1 L na Droga Raia (cartões da Prodiet nas fotos do produto), lidos em 17/10/2026. O Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos os produtos.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa-v2.webp` (`imageFit: contain`), SHA-256 `011da1b3314e1bae25174e83da364a78a8d2947570dc2d2619db0cea28b612ab`.
+- **Alt:** Caixa Isosource 1.5 Sem Sabor de 1 litro vista em ângulo, em foto de catálogo publicada pelo distribuidor Enutri, com logo Nestlé Nutre, a pergunta “Isosource 1.5 ou Trophic 1.5?” e CECI na caixa “Na Nestlé Nutre:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/51/fontes-selecionadas.json`. Entra no mesmo PR e no mesmo deploy da capa do guia `isosource-1-5-para-que-serve` (lote 53), que passa a usar com exclusividade a foto frontal do acervo.
+- **Lote 51 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/51/revisao-terra/ADENDO-BUSCA-WEB.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/51/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp`) fica no CDN, sem uso como capa.

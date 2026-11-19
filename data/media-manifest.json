@@ -40685,6 +40685,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/bagaggio-ou-sestini-qual-mala-compensa-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/bagaggio-ou-sestini-qual-mala-compensa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 198402,
+      "sha256": "7e7cc0a415beb40200ddd703625b62054b616a0ca7923263df75543a16552de9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bagaggio-ou-sestini-qual-mala-compensa-capa-v2.webp",
+      "storage_filename": "bagaggio-ou-sestini-qual-mala-compensa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bagaggio-ou-sestini-qual-mala-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bagaggio-ou-sestini-qual-mala-compensa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/bagaggio-ou-sestini-qual-mala-compensa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7e7cc0a415beb40200ddd703625b62054b616a0ca7923263df75543a16552de9/bagaggio-ou-sestini-qual-mala-compensa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7e7cc0a415beb40200ddd703625b62054b616a0ca7923263df75543a16552de9/bagaggio-ou-sestini-qual-mala-compensa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.888Z",
+      "verification_etag_or_digest": "7e7cc0a415beb40200ddd703625b62054b616a0ca7923263df75543a16552de9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/bagaggio-ou-sestini-qual-mala-compensa-capa.webp",
       "local_url": "/images/reviews/bagaggio/bagaggio-ou-sestini-qual-mala-compensa-capa.webp",
       "media_kind": "image",
@@ -46321,6 +46359,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bendu/alternativas-a-bendu-capa-v2.webp",
+      "local_url": "/images/reviews/bendu/alternativas-a-bendu-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91982,
+      "sha256": "180ff115ef8f0fbc638b477f589aa4b9d6886b8da9734b0aa0fbe0e2ac764c9f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-bendu-capa-v2.webp",
+      "storage_filename": "alternativas-a-bendu-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-bendu.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-bendu.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bendu/alternativas-a-bendu-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/180ff115ef8f0fbc638b477f589aa4b9d6886b8da9734b0aa0fbe0e2ac764c9f/alternativas-a-bendu-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/180ff115ef8f0fbc638b477f589aa4b9d6886b8da9734b0aa0fbe0e2ac764c9f/alternativas-a-bendu-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "180ff115ef8f0fbc638b477f589aa4b9d6886b8da9734b0aa0fbe0e2ac764c9f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bendu/alternativas-a-bendu-capa.webp",
       "local_url": "/images/reviews/bendu/alternativas-a-bendu-capa.webp",
       "media_kind": "image",
@@ -47063,6 +47139,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-dark-lab-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-dark-lab-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71314,
+      "sha256": "a8ea161f88b7a72fb96e002113be6b5b0d614777c509bd36836cc6179b53f08f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-dark-lab-capa-v2.webp",
+      "storage_filename": "black-skull-ou-dark-lab-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-dark-lab.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-dark-lab.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dark-lab-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a8ea161f88b7a72fb96e002113be6b5b0d614777c509bd36836cc6179b53f08f/black-skull-ou-dark-lab-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a8ea161f88b7a72fb96e002113be6b5b0d614777c509bd36836cc6179b53f08f/black-skull-ou-dark-lab-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "a8ea161f88b7a72fb96e002113be6b5b0d614777c509bd36836cc6179b53f08f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-ou-dark-lab-creator-500g.webp",
       "local_url": "/images/reviews/black-skull/black-skull-ou-dark-lab-creator-500g.webp",
       "media_kind": "image",
@@ -47182,6 +47296,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T06:29:00.250Z",
       "verification_etag_or_digest": "1623c0a9aa4bb12122dc96e996bd9e7872e85d5f88c341c246eb1d27622b566c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-dux-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-dux-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88544,
+      "sha256": "b12a7234401044d04d885b504e02d971a999189fd492bbeefcc150648c246e03",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-dux-capa-v2.webp",
+      "storage_filename": "black-skull-ou-dux-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-dux.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-dux.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b12a7234401044d04d885b504e02d971a999189fd492bbeefcc150648c246e03/black-skull-ou-dux-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b12a7234401044d04d885b504e02d971a999189fd492bbeefcc150648c246e03/black-skull-ou-dux-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "b12a7234401044d04d885b504e02d971a999189fd492bbeefcc150648c246e03",
       "verification_status": "verified"
     },
     {
@@ -47488,6 +47640,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T00:48:00.897Z",
       "verification_etag_or_digest": "259698f20e6c3a8149263aa1336ae9e6db225c6b11149b14f7796b0fa9e8e9e2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-integralmedica-capa-v2.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-integralmedica-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77300,
+      "sha256": "4d0c6dca3a894b355b06a5c11d0b6da13373e5b0f73094593dc5c772515fbe1c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-integralmedica-capa-v2.webp",
+      "storage_filename": "black-skull-ou-integralmedica-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-integralmedica.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-integralmedica.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-integralmedica-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4d0c6dca3a894b355b06a5c11d0b6da13373e5b0f73094593dc5c772515fbe1c/black-skull-ou-integralmedica-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4d0c6dca3a894b355b06a5c11d0b6da13373e5b0f73094593dc5c772515fbe1c/black-skull-ou-integralmedica-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "4d0c6dca3a894b355b06a5c11d0b6da13373e5b0f73094593dc5c772515fbe1c",
       "verification_status": "verified"
     },
     {
@@ -51391,6 +51581,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-store-aniversario-14-anos-t-shirt-brinde-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-aniversario-14-anos-t-shirt-brinde-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 165138,
+      "sha256": "ed9a5997175e9f2b44152201fd1334491722e748914174e763cac8fa2c1aa815",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-aniversario-14-anos-t-shirt-brinde-capa-v2.webp",
+      "storage_filename": "clea-store-aniversario-14-anos-t-shirt-brinde-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-aniversario-14-anos-t-shirt-brinde.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-aniversario-14-anos-t-shirt-brinde.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-aniversario-14-anos-t-shirt-brinde-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ed9a5997175e9f2b44152201fd1334491722e748914174e763cac8fa2c1aa815/clea-store-aniversario-14-anos-t-shirt-brinde-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed9a5997175e9f2b44152201fd1334491722e748914174e763cac8fa2c1aa815/clea-store-aniversario-14-anos-t-shirt-brinde-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "ed9a5997175e9f2b44152201fd1334491722e748914174e763cac8fa2c1aa815",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
       "local_url": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
       "media_kind": "image",
@@ -52396,6 +52624,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T05:12:35.514Z",
       "verification_etag_or_digest": "b3dd77e817126ea7baf21eb23a1fbdc4ea1d139fb926ddc40651927f2e01c201",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42432,
+      "sha256": "3c596068da2706f5256e017bf5e0031ceafcce3f0397c51f33736fd2acfdfe33",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-clea-store-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-clea-store-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-clea-store-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-clea-store-primeira-compra.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3c596068da2706f5256e017bf5e0031ceafcce3f0397c51f33736fd2acfdfe33/cupom-clea-store-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3c596068da2706f5256e017bf5e0031ceafcce3f0397c51f33736fd2acfdfe33/cupom-clea-store-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "3c596068da2706f5256e017bf5e0031ceafcce3f0397c51f33736fd2acfdfe33",
       "verification_status": "verified"
     },
     {
@@ -58690,6 +58956,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/damie-mercado-livre-ou-site-capa-v2.webp",
+      "local_url": "/images/reviews/damie/damie-mercado-livre-ou-site-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72794,
+      "sha256": "6d0ee3b59220e90f7544f8aec144aa6bdd58bb39072157d017419d940a192025",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "damie-mercado-livre-ou-site-capa-v2.webp",
+      "storage_filename": "damie-mercado-livre-ou-site-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/damie-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/damie-mercado-livre-ou-site.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/damie/damie-mercado-livre-ou-site-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6d0ee3b59220e90f7544f8aec144aa6bdd58bb39072157d017419d940a192025/damie-mercado-livre-ou-site-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6d0ee3b59220e90f7544f8aec144aa6bdd58bb39072157d017419d940a192025/damie-mercado-livre-ou-site-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "6d0ee3b59220e90f7544f8aec144aa6bdd58bb39072157d017419d940a192025",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/damie-mercado-livre-ou-site-capa.webp",
       "local_url": "/images/reviews/damie/damie-mercado-livre-ou-site-capa.webp",
       "media_kind": "image",
@@ -58766,6 +59070,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/damie-norte-nordeste-capa-v2.webp",
+      "local_url": "/images/reviews/damie/damie-norte-nordeste-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33878,
+      "sha256": "7eb5732bceb1af93ef225775c594b2798c2a56a982ddeb8b551caf6973c00f1e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "damie-norte-nordeste-capa-v2.webp",
+      "storage_filename": "damie-norte-nordeste-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/damie-norte-nordeste.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/damie-norte-nordeste.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/damie/damie-norte-nordeste-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7eb5732bceb1af93ef225775c594b2798c2a56a982ddeb8b551caf6973c00f1e/damie-norte-nordeste-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7eb5732bceb1af93ef225775c594b2798c2a56a982ddeb8b551caf6973c00f1e/damie-norte-nordeste-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "7eb5732bceb1af93ef225775c594b2798c2a56a982ddeb8b551caf6973c00f1e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/damie-norte-nordeste-capa.webp",
       "local_url": "/images/reviews/damie/damie-norte-nordeste-capa.webp",
       "media_kind": "image",
@@ -58801,6 +59143,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-14T17:04:20.589Z",
       "verification_etag_or_digest": "b050903f5873cfa44c3c7979c7ef8124d07a6f60542f9b5dfc04def80a649c1e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/damie-prazo-de-entrega-capa-v2.webp",
+      "local_url": "/images/reviews/damie/damie-prazo-de-entrega-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 117402,
+      "sha256": "4914dc00272aae329f5abc7de60a711a18cf1437ef111bc62c4c3abc680796fa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "damie-prazo-de-entrega-capa-v2.webp",
+      "storage_filename": "damie-prazo-de-entrega-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/damie-prazo-de-entrega.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/damie-prazo-de-entrega.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/damie-prazo-de-entrega-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4914dc00272aae329f5abc7de60a711a18cf1437ef111bc62c4c3abc680796fa/damie-prazo-de-entrega-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4914dc00272aae329f5abc7de60a711a18cf1437ef111bc62c4c3abc680796fa/damie-prazo-de-entrega-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "4914dc00272aae329f5abc7de60a711a18cf1437ef111bc62c4c3abc680796fa",
       "verification_status": "verified"
     },
     {
@@ -61406,6 +61786,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T23:41:07.255Z",
       "verification_etag_or_digest": "bcefe7ba52e5ff6cb1fa8e38eda214edc1afc111f9f589504494546d0988db6c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-damie-no-mercado-livre-capa-v2.webp",
+      "local_url": "/images/reviews/damie/poltronas-damie-no-mercado-livre-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48220,
+      "sha256": "7cdf42b22e8dd79159a0a428109ee197540a347cb9d8ba3f47ae9ec42dfdf003",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-damie-no-mercado-livre-capa-v2.webp",
+      "storage_filename": "poltronas-damie-no-mercado-livre-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-damie-no-mercado-livre.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-damie-no-mercado-livre.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltronas-damie-no-mercado-livre-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7cdf42b22e8dd79159a0a428109ee197540a347cb9d8ba3f47ae9ec42dfdf003/poltronas-damie-no-mercado-livre-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7cdf42b22e8dd79159a0a428109ee197540a347cb9d8ba3f47ae9ec42dfdf003/poltronas-damie-no-mercado-livre-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "7cdf42b22e8dd79159a0a428109ee197540a347cb9d8ba3f47ae9ec42dfdf003",
       "verification_status": "verified"
     },
     {
@@ -71283,6 +71701,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/haier/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes-capa-v2.webp",
+      "local_url": "/images/reviews/haier/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 214640,
+      "sha256": "2840e4b161561b5627b3dee05f3894c922c4395c4d8626d642d5ef2d2e4257cc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes-capa-v2.webp",
+      "storage_filename": "air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/haier/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2840e4b161561b5627b3dee05f3894c922c4395c4d8626d642d5ef2d2e4257cc/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2840e4b161561b5627b3dee05f3894c922c4395c4d8626d642d5ef2d2e4257cc/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "2840e4b161561b5627b3dee05f3894c922c4395c4d8626d642d5ef2d2e4257cc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/haier/air-fryer-haier-12l-espetos-encaixe.webp",
       "local_url": "/images/reviews/haier/air-fryer-haier-12l-espetos-encaixe.webp",
       "media_kind": "image",
@@ -71464,6 +71920,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-15T03:37:23.472Z",
       "verification_etag_or_digest": "db395606d1ecd409d09e5364717853176211f1aa9b2bab07b042bbcc51b0ef5b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/haier/haier-e-boa-marca-de-onde-e-capa-v2.webp",
+      "local_url": "/images/reviews/haier/haier-e-boa-marca-de-onde-e-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79758,
+      "sha256": "abe641ec9809bee7f7329710ed2c9b619ea5f01960ec7a8cc6ef2be7c0db8b76",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "haier-e-boa-marca-de-onde-e-capa-v2.webp",
+      "storage_filename": "haier-e-boa-marca-de-onde-e-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/haier-e-boa-marca-de-onde-e.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/haier-e-boa-marca-de-onde-e.json",
+          "line": 41,
+          "column": 13,
+          "literal": "/images/reviews/haier/haier-e-boa-marca-de-onde-e-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/abe641ec9809bee7f7329710ed2c9b619ea5f01960ec7a8cc6ef2be7c0db8b76/haier-e-boa-marca-de-onde-e-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/abe641ec9809bee7f7329710ed2c9b619ea5f01960ec7a8cc6ef2be7c0db8b76/haier-e-boa-marca-de-onde-e-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "abe641ec9809bee7f7329710ed2c9b619ea5f01960ec7a8cc6ef2be7c0db8b76",
       "verification_status": "verified"
     },
     {
@@ -114986,6 +115480,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-ou-ninho-fases-capa-v2.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-ou-ninho-fases-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97336,
+      "sha256": "d654bd8f440558cbf198add8c30bc1ce70ee38ff447c8e700dc809f49cfff4d7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-ou-ninho-fases-capa-v2.webp",
+      "storage_filename": "nanlac-supreme-ou-ninho-fases-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-ou-ninho-fases.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-ou-ninho-fases.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-ou-ninho-fases-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d654bd8f440558cbf198add8c30bc1ce70ee38ff447c8e700dc809f49cfff4d7/nanlac-supreme-ou-ninho-fases-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d654bd8f440558cbf198add8c30bc1ce70ee38ff447c8e700dc809f49cfff4d7/nanlac-supreme-ou-ninho-fases-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "d654bd8f440558cbf198add8c30bc1ce70ee38ff447c8e700dc809f49cfff4d7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-1-a-3-anos-capa-v2.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-1-a-3-anos-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 105920,
+      "sha256": "8140d1861527e44bd3a8b454a43567d89222ee036a008745c38e131e213c956b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-1-a-3-anos-capa-v2.webp",
+      "storage_filename": "nanlac-supreme-pro-1-a-3-anos-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-1-a-3-anos.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-1-a-3-anos-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8140d1861527e44bd3a8b454a43567d89222ee036a008745c38e131e213c956b/nanlac-supreme-pro-1-a-3-anos-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8140d1861527e44bd3a8b454a43567d89222ee036a008745c38e131e213c956b/nanlac-supreme-pro-1-a-3-anos-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "8140d1861527e44bd3a8b454a43567d89222ee036a008745c38e131e213c956b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
       "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
       "media_kind": "image",
@@ -115213,6 +115783,82 @@
       "uploaded_at": null,
       "verified_at": "2026-10-17T21:44:46.829Z",
       "verification_etag_or_digest": "4465803f21b580aa64ead720dbc84d65db946de5dfecf273c8bfae2243a3e34e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-capa-v2.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 105058,
+      "sha256": "6ec56e4fb0ad29cbc464cb6b63e920491d1874839d705b95e89061e9f8be6f42",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-ou-aptanutri-profutura-capa-v2.webp",
+      "storage_filename": "nanlac-supreme-pro-ou-aptanutri-profutura-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-ou-aptanutri-profutura.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-ou-aptanutri-profutura.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6ec56e4fb0ad29cbc464cb6b63e920491d1874839d705b95e89061e9f8be6f42/nanlac-supreme-pro-ou-aptanutri-profutura-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6ec56e4fb0ad29cbc464cb6b63e920491d1874839d705b95e89061e9f8be6f42/nanlac-supreme-pro-ou-aptanutri-profutura-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "6ec56e4fb0ad29cbc464cb6b63e920491d1874839d705b95e89061e9f8be6f42",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa-v2.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93674,
+      "sha256": "1d3e179aba2457b79a107b070477e9b5c13ac4205b4d2824b98687a7d7648ecb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-ou-comfor-capa-v2.webp",
+      "storage_filename": "nanlac-supreme-pro-ou-comfor-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-ou-comfor.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-ou-comfor.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1d3e179aba2457b79a107b070477e9b5c13ac4205b4d2824b98687a7d7648ecb/nanlac-supreme-pro-ou-comfor-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1d3e179aba2457b79a107b070477e9b5c13ac4205b4d2824b98687a7d7648ecb/nanlac-supreme-pro-ou-comfor-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "1d3e179aba2457b79a107b070477e9b5c13ac4205b4d2824b98687a7d7648ecb",
       "verification_status": "verified"
     },
     {
@@ -115854,6 +116500,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57506,
+      "sha256": "011da1b3314e1bae25174e83da364a78a8d2947570dc2d2619db0cea28b612ab",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "isosource-1-5-ou-trophic-1-5-capa-v2.webp",
+      "storage_filename": "isosource-1-5-ou-trophic-1-5-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/isosource-1-5-ou-trophic-1-5.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/isosource-1-5-ou-trophic-1-5.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/011da1b3314e1bae25174e83da364a78a8d2947570dc2d2619db0cea28b612ab/isosource-1-5-ou-trophic-1-5-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/011da1b3314e1bae25174e83da364a78a8d2947570dc2d2619db0cea28b612ab/isosource-1-5-ou-trophic-1-5-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "011da1b3314e1bae25174e83da364a78a8d2947570dc2d2619db0cea28b612ab",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
       "local_url": "/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
       "media_kind": "image",
@@ -115897,6 +116581,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-17T21:44:46.829Z",
       "verification_etag_or_digest": "08b72d792808a3e2f1039027df70f7003ff0f39c32400b0cb48fb5220d1d6730",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/isosource-1-5-para-que-serve-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/isosource-1-5-para-que-serve-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45250,
+      "sha256": "061514c5a39e2879346239d556ff51f7c44664c5c66a6e94bed7a8c15fe44a64",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "isosource-1-5-para-que-serve-capa-v2.webp",
+      "storage_filename": "isosource-1-5-para-que-serve-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/isosource-1-5-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/isosource-1-5-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/isosource-1-5-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/061514c5a39e2879346239d556ff51f7c44664c5c66a6e94bed7a8c15fe44a64/isosource-1-5-para-que-serve-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/061514c5a39e2879346239d556ff51f7c44664c5c66a6e94bed7a8c15fe44a64/isosource-1-5-para-que-serve-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "061514c5a39e2879346239d556ff51f7c44664c5c66a6e94bed7a8c15fe44a64",
       "verification_status": "verified"
     },
     {
@@ -116290,6 +117012,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nestle-nutre-produtos-para-que-servem-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nestle-nutre-produtos-para-que-servem-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88192,
+      "sha256": "f65dd9374818f2015d4db0577acec0cfbb370b9ec1710da5d8e6849a2196a713",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nestle-nutre-produtos-para-que-servem-capa-v2.webp",
+      "storage_filename": "nestle-nutre-produtos-para-que-servem-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestle-nutre-produtos-para-que-servem.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nestle-nutre-produtos-para-que-servem-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f65dd9374818f2015d4db0577acec0cfbb370b9ec1710da5d8e6849a2196a713/nestle-nutre-produtos-para-que-servem-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f65dd9374818f2015d4db0577acec0cfbb370b9ec1710da5d8e6849a2196a713/nestle-nutre-produtos-para-que-servem-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "f65dd9374818f2015d4db0577acec0cfbb370b9ec1710da5d8e6849a2196a713",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
       "local_url": "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
       "media_kind": "image",
@@ -116456,6 +117216,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-a-z-multi-para-que-serve-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-a-z-multi-para-que-serve-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58600,
+      "sha256": "0e429a44c58770fe18bf1448f12174046ad190aa3194ce11ff52814207d00487",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-a-z-multi-para-que-serve-capa-v2.webp",
+      "storage_filename": "nutren-a-z-multi-para-que-serve-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-a-z-multi-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-a-z-multi-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-a-z-multi-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0e429a44c58770fe18bf1448f12174046ad190aa3194ce11ff52814207d00487/nutren-a-z-multi-para-que-serve-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e429a44c58770fe18bf1448f12174046ad190aa3194ce11ff52814207d00487/nutren-a-z-multi-para-que-serve-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "0e429a44c58770fe18bf1448f12174046ad190aa3194ce11ff52814207d00487",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
       "local_url": "/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
       "media_kind": "image",
@@ -116499,6 +117297,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-17T18:51:51.261Z",
       "verification_etag_or_digest": "4c4d87fb5834a033b4f7e92b44de8980dc0435df96b002d23095eb89997addc0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-a-z-ou-centrum-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57922,
+      "sha256": "09e989fc8ec83c9878970b30b3b5b1fa08f4c9e4fada2d1c2a60fd0a50fef6d5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-a-z-ou-centrum-capa-v2.webp",
+      "storage_filename": "nutren-a-z-ou-centrum-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-a-z-ou-centrum.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-a-z-ou-centrum.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/09e989fc8ec83c9878970b30b3b5b1fa08f4c9e4fada2d1c2a60fd0a50fef6d5/nutren-a-z-ou-centrum-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/09e989fc8ec83c9878970b30b3b5b1fa08f4c9e4fada2d1c2a60fd0a50fef6d5/nutren-a-z-ou-centrum-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "09e989fc8ec83c9878970b30b3b5b1fa08f4c9e4fada2d1c2a60fd0a50fef6d5",
       "verification_status": "verified"
     },
     {
@@ -116822,6 +117658,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-24T04:35:12.136Z",
       "verification_etag_or_digest": "621f5cdd0ba9fbbb8f387f398e23f47e98f22d0b52d8a5ea8207dbdde1ea219b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-creatina-e-boa-comparativo-growth-ftw-cimed-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-creatina-e-boa-comparativo-growth-ftw-cimed-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62928,
+      "sha256": "8b00d0aba60118326c5bd2c11d2457b9cdce6c40af07adf9ade02501fadd4591",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-creatina-e-boa-comparativo-growth-ftw-cimed-capa-v2.webp",
+      "storage_filename": "nutren-creatina-e-boa-comparativo-growth-ftw-cimed-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-creatina-e-boa-comparativo-growth-ftw-cimed-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8b00d0aba60118326c5bd2c11d2457b9cdce6c40af07adf9ade02501fadd4591/nutren-creatina-e-boa-comparativo-growth-ftw-cimed-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8b00d0aba60118326c5bd2c11d2457b9cdce6c40af07adf9ade02501fadd4591/nutren-creatina-e-boa-comparativo-growth-ftw-cimed-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "8b00d0aba60118326c5bd2c11d2457b9cdce6c40af07adf9ade02501fadd4591",
       "verification_status": "verified"
     },
     {
@@ -117761,6 +118635,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-senior-ensure-ou-sustagen-senior-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-ensure-ou-sustagen-senior-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83324,
+      "sha256": "36dc867fc2419828f5dbe8a6b7ad63348918eded5fc69392c794d77eaabce9db",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-ensure-ou-sustagen-senior-capa-v2.webp",
+      "storage_filename": "nutren-senior-ensure-ou-sustagen-senior-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-senior-ensure-ou-sustagen-senior-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/36dc867fc2419828f5dbe8a6b7ad63348918eded5fc69392c794d77eaabce9db/nutren-senior-ensure-ou-sustagen-senior-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/36dc867fc2419828f5dbe8a6b7ad63348918eded5fc69392c794d77eaabce9db/nutren-senior-ensure-ou-sustagen-senior-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "36dc867fc2419828f5dbe8a6b7ad63348918eded5fc69392c794d77eaabce9db",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-senior-hero.webp",
       "local_url": "/images/reviews/nutren/nutren-senior-hero.webp",
       "media_kind": "image",
@@ -118208,6 +119120,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-24T04:35:12.136Z",
       "verification_etag_or_digest": "44042ed6719743c1bc24d64d39193f9c265438cc168e93018ed9c6f531e17503",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-senior-zero-lactose-ficha-tecnica-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-zero-lactose-ficha-tecnica-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88848,
+      "sha256": "c1f4525b33d71321ef4900bea19c1a6655db23951bd27e52da40006f4feb3728",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-zero-lactose-ficha-tecnica-capa-v2.webp",
+      "storage_filename": "nutren-senior-zero-lactose-ficha-tecnica-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-zero-lactose-ficha-tecnica.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-zero-lactose-ficha-tecnica.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-senior-zero-lactose-ficha-tecnica-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c1f4525b33d71321ef4900bea19c1a6655db23951bd27e52da40006f4feb3728/nutren-senior-zero-lactose-ficha-tecnica-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c1f4525b33d71321ef4900bea19c1a6655db23951bd27e52da40006f4feb3728/nutren-senior-zero-lactose-ficha-tecnica-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "c1f4525b33d71321ef4900bea19c1a6655db23951bd27e52da40006f4feb3728",
       "verification_status": "verified"
     },
     {
@@ -126214,6 +127164,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119698,
+      "sha256": "e35557d754842e82152de51ea1ca9be37b3d84d91517dc970849698027b7e072",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "salgadinho-proteico-qual-escolher-capa-v2.webp",
+      "storage_filename": "salgadinho-proteico-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/salgadinho-proteico-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/salgadinho-proteico-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e35557d754842e82152de51ea1ca9be37b3d84d91517dc970849698027b7e072/salgadinho-proteico-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e35557d754842e82152de51ea1ca9be37b3d84d91517dc970849698027b7e072/salgadinho-proteico-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "e35557d754842e82152de51ea1ca9be37b3d84d91517dc970849698027b7e072",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa.webp",
       "local_url": "/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -133736,6 +134724,386 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T20:16:11.318Z",
       "verification_etag_or_digest": "8a1a5bd5efed6ac4a6c13ebd915184976d39383ab1f5a6fd55cabdbf84163e84",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-de-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 145654,
+      "sha256": "feb93141a651cd892e049e36b36e9f4d5564d4f9cf2b0f1f193f52f91371f2af",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-de-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/feb93141a651cd892e049e36b36e9f4d5564d4f9cf2b0f1f193f52f91371f2af/shein-11-11-selecao-da-cecilia-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/feb93141a651cd892e049e36b36e9f4d5564d4f9cf2b0f1f193f52f91371f2af/shein-11-11-selecao-da-cecilia-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "feb93141a651cd892e049e36b36e9f4d5564d4f9cf2b0f1f193f52f91371f2af",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-en-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 145098,
+      "sha256": "463e939682388b55ee079c5f3be6887f39bf115746fb8cc0d39af1ff4ae888b1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-en-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-sale-picks.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/463e939682388b55ee079c5f3be6887f39bf115746fb8cc0d39af1ff4ae888b1/shein-11-11-selecao-da-cecilia-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/463e939682388b55ee079c5f3be6887f39bf115746fb8cc0d39af1ff4ae888b1/shein-11-11-selecao-da-cecilia-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "463e939682388b55ee079c5f3be6887f39bf115746fb8cc0d39af1ff4ae888b1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-es-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 146664,
+      "sha256": "9d28f924f7f04a598a35328a0f39ce52384a6ac03a8a972f46f65ea83eea5c48",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-es-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-seleccion-ofertas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9d28f924f7f04a598a35328a0f39ce52384a6ac03a8a972f46f65ea83eea5c48/shein-11-11-selecao-da-cecilia-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9d28f924f7f04a598a35328a0f39ce52384a6ac03a8a972f46f65ea83eea5c48/shein-11-11-selecao-da-cecilia-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "9d28f924f7f04a598a35328a0f39ce52384a6ac03a8a972f46f65ea83eea5c48",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-fr-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 145864,
+      "sha256": "5904e9e2bc8782707d6b2e83aca565f1dda36e7c4f80193c3d399b3ec44c9564",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-fr-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-selection-promos.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5904e9e2bc8782707d6b2e83aca565f1dda36e7c4f80193c3d399b3ec44c9564/shein-11-11-selecao-da-cecilia-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5904e9e2bc8782707d6b2e83aca565f1dda36e7c4f80193c3d399b3ec44c9564/shein-11-11-selecao-da-cecilia-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "5904e9e2bc8782707d6b2e83aca565f1dda36e7c4f80193c3d399b3ec44c9564",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-it-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 144808,
+      "sha256": "3175a88af8d7877be1408f9bd1c041c4fb6dd0a98ee8dc1c6a7e2368ba4c2fbe",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-it-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3175a88af8d7877be1408f9bd1c041c4fb6dd0a98ee8dc1c6a7e2368ba4c2fbe/shein-11-11-selecao-da-cecilia-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3175a88af8d7877be1408f9bd1c041c4fb6dd0a98ee8dc1c6a7e2368ba4c2fbe/shein-11-11-selecao-da-cecilia-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "3175a88af8d7877be1408f9bd1c041c4fb6dd0a98ee8dc1c6a7e2368ba4c2fbe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ja-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 143282,
+      "sha256": "c065cbb234a95816b5f81c9b7c8ccd66b7f7c88779639e2c816676d183c9fad5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-ja-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-picks-ja.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c065cbb234a95816b5f81c9b7c8ccd66b7f7c88779639e2c816676d183c9fad5/shein-11-11-selecao-da-cecilia-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c065cbb234a95816b5f81c9b7c8ccd66b7f7c88779639e2c816676d183c9fad5/shein-11-11-selecao-da-cecilia-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "c065cbb234a95816b5f81c9b7c8ccd66b7f7c88779639e2c816676d183c9fad5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ko-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 143520,
+      "sha256": "f3972aa786f1195e07755f6d10a2e63eba72efb2cdfecd2603117bee8de9e366",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-ko-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-picks-ko.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f3972aa786f1195e07755f6d10a2e63eba72efb2cdfecd2603117bee8de9e366/shein-11-11-selecao-da-cecilia-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f3972aa786f1195e07755f6d10a2e63eba72efb2cdfecd2603117bee8de9e366/shein-11-11-selecao-da-cecilia-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "f3972aa786f1195e07755f6d10a2e63eba72efb2cdfecd2603117bee8de9e366",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-pt-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 145240,
+      "sha256": "81040e7e754949af03ded0fb7b07b18b39d3f4b1c270f9a5fc580a7dc2966d0e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-pt-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-selecao-da-cecilia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/81040e7e754949af03ded0fb7b07b18b39d3f4b1c270f9a5fc580a7dc2966d0e/shein-11-11-selecao-da-cecilia-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/81040e7e754949af03ded0fb7b07b18b39d3f4b1c270f9a5fc580a7dc2966d0e/shein-11-11-selecao-da-cecilia-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "81040e7e754949af03ded0fb7b07b18b39d3f4b1c270f9a5fc580a7dc2966d0e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 146474,
+      "sha256": "855f93dda71f24d37238fc30ec5178e7c2e82d06455a135be62de5b98a5042f8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-zh-hans-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-picks-zh-hans.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/855f93dda71f24d37238fc30ec5178e7c2e82d06455a135be62de5b98a5042f8/shein-11-11-selecao-da-cecilia-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/855f93dda71f24d37238fc30ec5178e7c2e82d06455a135be62de5b98a5042f8/shein-11-11-selecao-da-cecilia-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "855f93dda71f24d37238fc30ec5178e7c2e82d06455a135be62de5b98a5042f8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 146550,
+      "sha256": "bb37524b5cce4869354ca458501fc1cc1427966ef051db91e2929da2c52f8ca1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa-zh-hant-v2.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-picks-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bb37524b5cce4869354ca458501fc1cc1427966ef051db91e2929da2c52f8ca1/shein-11-11-selecao-da-cecilia-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bb37524b5cce4869354ca458501fc1cc1427966ef051db91e2929da2c52f8ca1/shein-11-11-selecao-da-cecilia-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "bb37524b5cce4869354ca458501fc1cc1427966ef051db91e2929da2c52f8ca1",
       "verification_status": "verified"
     },
     {
@@ -150391,6 +151759,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/sofa-na-caixa/sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
+      "local_url": "/images/reviews/sofa-na-caixa/sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 159886,
+      "sha256": "37757a0f5fcc4ad96c0733b695a3711fc3c62be24deee6a096d1aa4123e4f4e4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
+      "storage_filename": "sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp.json",
+          "line": 15,
+          "column": 13,
+          "literal": "/images/reviews/sofa-na-caixa/sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/37757a0f5fcc4ad96c0733b695a3711fc3c62be24deee6a096d1aa4123e4f4e4/sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/37757a0f5fcc4ad96c0733b695a3711fc3c62be24deee6a096d1aa4123e4f4e4/sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "37757a0f5fcc4ad96c0733b695a3711fc3c62be24deee6a096d1aa4123e4f4e4",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/suavipan/suavipan-kit-12-bolinhos-zero-chocolate-pagina-2026-10-19.webp",
       "local_url": "/images/reviews/suavipan/suavipan-kit-12-bolinhos-zero-chocolate-pagina-2026-10-19.webp",
       "media_kind": "image",
@@ -150792,6 +152198,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-26T22:20:26.677Z",
       "verification_etag_or_digest": "dda0d31836e9b0c521ef1ff5a1822d2c0e980eb1f54e4b4834fc6a07f67daba7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102326,
+      "sha256": "8214f99b55ba7f81a3f446ce63c5683397aa19c22e22a7b3b0630e8f285d480e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-toda-up-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-toda-up-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-toda-up-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-toda-up-primeira-compra.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8214f99b55ba7f81a3f446ce63c5683397aa19c22e22a7b3b0630e8f285d480e/cupom-toda-up-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8214f99b55ba7f81a3f446ce63c5683397aa19c22e22a7b3b0630e8f285d480e/cupom-toda-up-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "8214f99b55ba7f81a3f446ce63c5683397aa19c22e22a7b3b0630e8f285d480e",
       "verification_status": "verified"
     },
     {
@@ -154412,6 +155856,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-26T22:20:29.828Z",
       "verification_etag_or_digest": "6e0836cac38a8528bc18d0f6371c2f4ae386998872aa994856bee985021897ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/wafer/wafer-proteico-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/wafer/wafer-proteico-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78962,
+      "sha256": "73a6fab001dc53168a68c52d9edc48ef49d78974bf4526b4dd31013c50f0f793",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "wafer-proteico-qual-escolher-capa-v2.webp",
+      "storage_filename": "wafer-proteico-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/wafer-proteico-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/wafer-proteico-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/wafer/wafer-proteico-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/73a6fab001dc53168a68c52d9edc48ef49d78974bf4526b4dd31013c50f0f793/wafer-proteico-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/73a6fab001dc53168a68c52d9edc48ef49d78974bf4526b4dd31013c50f0f793/wafer-proteico-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "73a6fab001dc53168a68c52d9edc48ef49d78974bf4526b4dd31013c50f0f793",
       "verification_status": "verified"
     },
     {
@@ -165451,6 +166933,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-senior-ou-nutridrink-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-ou-nutridrink-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78580,
+      "sha256": "5c2f65b63914a3bcae96c60a64c61d53b0baa090561c089faf51e6cceb5353bc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-ou-nutridrink-capa-v2.webp",
+      "storage_filename": "nutren-senior-ou-nutridrink-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-ou-nutridrink.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-ou-nutridrink.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-senior-ou-nutridrink-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5c2f65b63914a3bcae96c60a64c61d53b0baa090561c089faf51e6cceb5353bc/nutren-senior-ou-nutridrink-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5c2f65b63914a3bcae96c60a64c61d53b0baa090561c089faf51e6cceb5353bc/nutren-senior-ou-nutridrink-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "5c2f65b63914a3bcae96c60a64c61d53b0baa090561c089faf51e6cceb5353bc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp",
       "local_url": "/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp",
       "media_kind": "image",
@@ -165570,6 +167090,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-24T03:44:55.327Z",
       "verification_etag_or_digest": "cb15dfc8d8cd9b412e7407b4c83eb1af3c8c3737be7089120bb8780b947bf7f0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/melatonina-liquida-iws-ficha-tecnica-capa-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/melatonina-liquida-iws-ficha-tecnica-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75128,
+      "sha256": "99a3f9643386127cd388608393639e531e903ae34f010ccbc2bfa65fd7ffb560",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melatonina-liquida-iws-ficha-tecnica-capa-v2.webp",
+      "storage_filename": "melatonina-liquida-iws-ficha-tecnica-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melatonina-liquida-iws-ficha-tecnica.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melatonina-liquida-iws-ficha-tecnica.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/melatonina-liquida-iws-ficha-tecnica-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/99a3f9643386127cd388608393639e531e903ae34f010ccbc2bfa65fd7ffb560/melatonina-liquida-iws-ficha-tecnica-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/99a3f9643386127cd388608393639e531e903ae34f010ccbc2bfa65fd7ffb560/melatonina-liquida-iws-ficha-tecnica-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "99a3f9643386127cd388608393639e531e903ae34f010ccbc2bfa65fd7ffb560",
       "verification_status": "verified"
     },
     {
@@ -165989,6 +167547,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T17:10:05.129Z",
       "verification_etag_or_digest": "6d6711f528542df2924c72d09601283914b36bd3df6b72cd35d96c238c43da97",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85442,
+      "sha256": "b7220194d4212976816e5dedc058a910ca9962ad05306e216b67570cab53025d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-nestle-nutre-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-nestle-nutre-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-nestle-nutre-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-nestle-nutre-primeira-compra.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b7220194d4212976816e5dedc058a910ca9962ad05306e216b67570cab53025d/cupom-nestle-nutre-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b7220194d4212976816e5dedc058a910ca9962ad05306e216b67570cab53025d/cupom-nestle-nutre-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "b7220194d4212976816e5dedc058a910ca9962ad05306e216b67570cab53025d",
       "verification_status": "verified"
     },
     {
@@ -168930,6 +170526,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T20:27:31.166Z",
       "verification_etag_or_digest": "c9132dc6032ac9e46733c67890c3b4876c17da29c481c178b5c6fc0f017bab06",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65442,
+      "sha256": "e481a61e8fdb2bda04748c349c801de9eda80045259e88b04ce2277f77087b3b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-de-proteina-qual-escolher-capa-v2.webp",
+      "storage_filename": "barra-de-proteina-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-de-proteina-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-de-proteina-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e481a61e8fdb2bda04748c349c801de9eda80045259e88b04ce2277f77087b3b/barra-de-proteina-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e481a61e8fdb2bda04748c349c801de9eda80045259e88b04ce2277f77087b3b/barra-de-proteina-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:01:37.889Z",
+      "verification_etag_or_digest": "e481a61e8fdb2bda04748c349c801de9eda80045259e88b04ce2277f77087b3b",
       "verification_status": "verified"
     },
     {

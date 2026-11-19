@@ -327,3 +327,10 @@ Preço e desconto mudam. O valor que vale é o da loja no momento da compra.
 ### Nota de transparência
 
 Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras na Nestlé Nutre com o código CECI. O Aptanutri não tem link nem código nosso. Fontes: páginas de produto da Nestlé Nutre (Nanlac, preço e tabela), páginas da Danone (mundodanone.com.br, danonenutricia.com.br e danonehealthacademy.com.br, Aptanutri), todas lidas em 17/10/2026. Não recebemos nem usamos os produtos. Preço e desconto mudam: confira antes de comprar.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-capa-v2.webp` (`imageFit: contain`), SHA-256 `6ec56e4fb0ad29cbc464cb6b63e920491d1874839d705b95e89061e9f8be6f42`.
+- **Alt:** Lata Nanlac Supreme Pro de 800 g, com indicação de 1 a 3 anos, em imagem de catálogo publicada pelo São Vicente Supermercados, com logo Nestlé Nutre, a chamada “Supreme Pro ou Aptanutri Profutura?” para o comparativo com Aptanutri Profutura 3 e CECI na caixa “Na Nestlé Nutre:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/53/fontes-selecionadas.json`. Reuso de foto autorizado pelo Bruno em 15/11/2026 (`lotes/53/AUTORIZACAO-REUSO-6-20261115.md`).
+- **Lote 53 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/53/revisao-terra/ADENDO-REUSO-6.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/53/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp`) fica no CDN, sem uso como capa.

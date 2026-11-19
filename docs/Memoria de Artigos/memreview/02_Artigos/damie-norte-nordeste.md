@@ -43,3 +43,10 @@ Pauta que nasceu no realinhamento de 13/11 (adendo do Farol / ChatGPT, aceito pe
 - Pendente: fretes e previsões são de 13/11. Reler se o deploy atrasar.
 
 - No ar desde 14/11/2026, release `197be4fe` (#971; deploy 56b9d755, build 01a1db29). `deploy:finish` ok (2 workers); smoke dos quatro artigos contra o JSON ok (títulos, capítulos, primeira frase de cada capítulo, og:image, sitemap e llms.txt); `covers:check` 4/4; IndexNow com 7 URLs; captura 43623199592 à espera da aprovação do Bruno.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/damie/damie-norte-nordeste-capa-v2.webp` (`imageFit: contain`), SHA-256 `7eb5732bceb1af93ef225775c594b2798c2a56a982ddeb8b551caf6973c00f1e`.
+- **Alt:** Poltrona DAMIE Florença manual em corino preto, vista de frente com porta-copos nos braços, com o logo DAMIE e a chamada “Norte e Nordeste: como comprar?”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/49/fontes-selecionadas.json`.
+- **Lote 49 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/49/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/49/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/damie/damie-norte-nordeste-capa.webp`) fica no CDN, sem uso como capa.

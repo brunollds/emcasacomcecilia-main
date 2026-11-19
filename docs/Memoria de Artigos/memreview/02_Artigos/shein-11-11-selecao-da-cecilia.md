@@ -70,3 +70,20 @@ A SHEIN está na "Mega Promoção 11.11" ("até 85% off em mais de 600 mil produ
 - **Japonês:** a campanha local vai até 16/11, 12:00, com até 95% em mais de 800 mil itens de 09/11, 12:00, em diante ([comunicado da SHEIN no PR TIMES, 19/10/2026](https://prtimes.jp/main/html/rd/p/000000293.000084888.html)). O título leva 16/11.
 - **Revisão externa (Farol, 08/11, `docs/auditoria-copy-artigos/shein-11-11-20261108-farol/`):** a leitura das peças é de `br.shein.com`, e o 12/11 e o "até 90%" são da campanha lida aqui. Por isso, nas 9 traduções, sem o percentual de cada peça, com a nota da loja na coluna do quadro. Nas 8 fora o japonês, sem data de fim nem "até 90%": a pessoa confere a campanha que aparece na loja dela. Peças, links, fotos, cards e 4CW5Y seguem iguais.
 - A linha antiga "preços convertidos pela cotação de 28/10" já não valia: as traduções não mostram preço em moeda nenhuma, e não há cotação a atualizar.
+
+## Capa v2 (19/11/2026)
+
+- **Capas:** uma por idioma, com a chamada e o alt no idioma da página (`imageFit: contain`):
+  - de (`shein-11-11-auswahl-angebote`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-de-v2.webp`, SHA-256 `feb93141a651cd892e049e36b36e9f4d5564d4f9cf2b0f1f193f52f91371f2af`
+  - en (`shein-11-11-sale-picks`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-en-v2.webp`, SHA-256 `463e939682388b55ee079c5f3be6887f39bf115746fb8cc0d39af1ff4ae888b1`
+  - es (`shein-11-11-seleccion-ofertas`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-es-v2.webp`, SHA-256 `9d28f924f7f04a598a35328a0f39ce52384a6ac03a8a972f46f65ea83eea5c48`
+  - fr (`shein-11-11-selection-promos`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-fr-v2.webp`, SHA-256 `5904e9e2bc8782707d6b2e83aca565f1dda36e7c4f80193c3d399b3ec44c9564`
+  - it (`shein-11-11-selezione-offerte`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-it-v2.webp`, SHA-256 `3175a88af8d7877be1408f9bd1c041c4fb6dd0a98ee8dc1c6a7e2368ba4c2fbe`
+  - ja (`shein-11-11-picks-ja`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ja-v2.webp`, SHA-256 `c065cbb234a95816b5f81c9b7c8ccd66b7f7c88779639e2c816676d183c9fad5`
+  - ko (`shein-11-11-picks-ko`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ko-v2.webp`, SHA-256 `f3972aa786f1195e07755f6d10a2e63eba72efb2cdfecd2603117bee8de9e366`
+  - pt (`shein-11-11-selecao-da-cecilia`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-pt-v2.webp`, SHA-256 `81040e7e754949af03ded0fb7b07b18b39d3f4b1c270f9a5fc580a7dc2966d0e`
+  - zh-hans (`shein-11-11-picks-zh-hans`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hans-v2.webp`, SHA-256 `855f93dda71f24d37238fc30ec5178e7c2e82d06455a135be62de5b98a5042f8`
+  - zh-hant (`shein-11-11-picks-zh-hant`): `/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hant-v2.webp`, SHA-256 `bb37524b5cce4869354ca458501fc1cc1427966ef051db91e2929da2c52f8ca1`
+- **Alt (PT):** Conjunto listrado azul de blusa sem mangas e calça de pernas largas, sobre uma mesa com sapatos na imagem de catálogo da SHEIN, com o logo da marca, a chamada “11.11: a seleção da Cecília” e o código de indicação 4CW5Y.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/51/fontes-selecionadas.json`.
+- **Lote 51 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/51/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/51/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp`) fica no CDN, sem uso como capa.

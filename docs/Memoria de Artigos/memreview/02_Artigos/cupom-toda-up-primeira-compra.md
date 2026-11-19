@@ -216,3 +216,10 @@ Teste de checkout de 17/11/2026 (sessão Adicionar Cupons, sem finalizar): Fita 
 - O print antigo (`cupom-toda-up-checkout-com-cupom.webp`, com −R$ 17,53) saiu; entrou `cupom-toda-up-checkout-mauad-10.webp`. Nenhum outro artigo usava o antigo.
 - Black VIP: o texto agora diz que, com uma peça dela no carrinho, o código não entra em nenhum item.
 - Tudo o que este briefing diz sobre 15% acima desta seção é histórico.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `8214f99b55ba7f81a3f446ce63c5683397aa19c22e22a7b3b0630e8f285d480e`.
+- **Alt:** Duas modelos adultas vestindo o Sutiã Comfort Up em preto e rosé, em imagem oficial da Toda Up, com logo da marca e a chamada “Primeira compra na Toda Up?”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/49/fontes-selecionadas.json`.
+- **Lote 49 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/49/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/49/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

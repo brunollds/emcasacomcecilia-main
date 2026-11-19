@@ -339,3 +339,10 @@ Caminhos locais em `public/images/reviews/black-skull/`, com o mesmo nome do arq
 | `black-skull-ou-dark-lab-tabela-nutricional-whey-80-hd.webp` | Corpo, "Whey: preço por 100 g de proteína" | Tabela nutricional do Whey 80% HD refil 900 g da Black Skull: porção de 30 g com 23 g de proteína. | Tabela da própria Black Skull: 23 g de proteína em cada porção de 30 g. | https://blackskullusa.vteximg.com.br/arquivos/ids/166030/Tabela-Nutricional.jpg (baixada em 24/10/2026, sem borda branca) | 1259 / 1253 |
 
 Nenhuma imagem da Dark Lab.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/black-skull-ou-dark-lab-capa-v2.webp` (`imageFit: contain`), SHA-256 `a8ea161f88b7a72fb96e002113be6b5b0d614777c509bd36836cc6179b53f08f`.
+- **Alt:** Embalagem refil de 900 g do Whey 100% HD da Black Skull, em imagem de catálogo sobre fundo branco, com o logo Black Skull, a pergunta “Black Skull ou Dark Lab?” e o CECILIA10 identificado como código da Black Skull.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/51/fontes-selecionadas.json`.
+- **Lote 51 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/51/revisao-terra/ADENDO-BUSCA-WEB.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/51/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/black-skull/black-skull-ou-dark-lab-capa-discover.webp`) fica no CDN, sem uso como capa.

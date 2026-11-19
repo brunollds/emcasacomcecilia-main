@@ -172,3 +172,10 @@ Marca que não é parceira (Bold, Growth, Integralmédica e as outras que a busc
 | Cluster | 10 | 9 | Junta os artigos de barra e snack de quatro parceiras e a BD1 |
 | Viabilidade | 10 | 4 | Black Friday mexendo nos preços; o código da Probiótica sem percentual testado |
 | **Total** | 100 | **74** | |
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa-v2.webp` (`imageFit: contain`), SHA-256 `e481a61e8fdb2bda04748c349c801de9eda80045259e88b04ce2277f77087b3b`.
+- **Alt:** Embalagem individual da Whey Bar Creamy Morango 38 g da Probiótica, em imagem de catálogo sobre fundo branco, com o logo Probiótica e a pergunta “Barra de proteína: qual escolher?”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/52/fontes-selecionadas.json`.
+- **Lote 52 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/52/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/52/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/barra-de-proteina/barra-de-proteina-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

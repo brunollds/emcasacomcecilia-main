@@ -12,8 +12,8 @@
   "publishedAt": "10 de agosto de 2026",
   "publishedAtISO": "2026-08-10",
   "updatedAt": "2026-11-06",
-  "image": "/images/reviews/sofa-na-caixa/sofa-modular-entrega-editorial-neutra.png",
-  "imageAlt": "Cena editorial neutra de caixas de entrega sem marca em uma sala com sofá modular genérico ao fundo",
+  "image": "/images/reviews/sofa-na-caixa/sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
+  "imageAlt": "Close ilustrativo de caixas de papelão sem marca sobre madeira, com o logo do Em Casa com Cecília e a pergunta “Sofá na Caixa: o que aconteceu?”.",
   "pros": [
     "Canais públicos e gratuitos para registrar queixas: Procon-SP, Consumidor.gov.br e Reclame Aqui",
     "99,8% das reclamações respondidas no Reclame Aqui, no recorte de maio a outubro de 2026",
@@ -189,6 +189,6 @@
   ],
   "isNew": false,
   "imageAspect": "landscape",
-  "imageFit": "cover",
+  "imageFit": "contain",
   "bodyDatesReason": "reclame-aqui"
 }

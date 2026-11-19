@@ -221,3 +221,10 @@ Pedido do Bruno de 12/10/2026 ("uma capa só é pouco"); folha de contato aprova
 - "Nutren Senior: as três versões": `nutren-senior-tres-versoes-oficial.webp`, montagem das fotos oficiais da loja Nestlé Nutre (Zero Lactose, Café com Leite e Sem Sabor), só com redução.
 - "Lactose e glúten": reaproveita `nutren-senior-zero-lactose-beneficios.webp`, a arte oficial da ficha técnica do Zero Lactose.
 - Tabela virada (produtos nas colunas), com a frase das latas e do VD logo abaixo.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-senior-ensure-ou-sustagen-senior-capa-v2.webp` (`imageFit: contain`), SHA-256 `36dc867fc2419828f5dbe8a6b7ad63348918eded5fc69392c794d77eaabce9db`.
+- **Alt:** Lata Nutren Senior Café com Leite de 740 g, em imagem de catálogo publicada pela Drogal, com logo Nestlé Nutre, “Nutren Senior, Ensure ou Sustagen?” e CECI na caixa “Na Nestlé Nutre:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/52/fontes-selecionadas.json`.
+- **Lote 52 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/52/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/52/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/nutren-ensure-sustagen-latas-v2.webp`) fica no CDN, sem uso como capa.

@@ -181,3 +181,10 @@ Título novo, do Bruno: "Onde é melhor comprar sua nova DAMIE: no site oficial 
 - Pendente: os preços dos anúncios são de 13/11 e não foram relidos em 14/11 (Chrome desconectado). Reler antes ou logo depois do deploy.
 
 - No ar desde 14/11/2026, release `197be4fe` (#971; deploy 56b9d755, build 01a1db29). `deploy:finish` ok (2 workers); smoke dos quatro artigos contra o JSON ok (títulos, capítulos, primeira frase de cada capítulo, og:image, sitemap e llms.txt); `covers:check` 4/4; IndexNow com 7 URLs; captura 43623199592 à espera da aprovação do Bruno.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/damie/damie-mercado-livre-ou-site-capa-v2.webp` (`imageFit: contain`), SHA-256 `6d0ee3b59220e90f7544f8aec144aa6bdd58bb39072157d017419d940a192025`.
+- **Alt:** Cecília sentada em uma poltrona DAMIE, segurando flores embrulhadas, com o logo DAMIE, a pergunta “Site ou Mercado Livre?” e o CECILIA12 identificado como válido só no site.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/49/fontes-selecionadas.json`.
+- **Lote 49 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/49/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/49/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/damie/damie-mercado-livre-ou-site-capa.webp`) fica no CDN, sem uso como capa.
