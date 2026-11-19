@@ -15,6 +15,7 @@ const GSC = '20261117-1008-gsc-desempenho';
 const GA4 = '20261117-1016-ga4-relatorios';
 const BING = '20261117-1020-bing-desempenho';
 const IA = '20261118-1253-ia-consultas-manuais';
+const RECORTE = '20261118-2152-recorte-dirigido';
 const NA = '@nao-se-aplica';
 
 function parseCsv(text) {
@@ -65,8 +66,8 @@ const nos = (o) => dados.push([
 // 1. A BAW no snapshot de 17/11/2026: quantas linhas de cada export têm "baw" na consulta ou no endereço.
 const PUBLICACAO = 'A página /cupons/baw e os seis artigos da BAW entraram na main em 16/11/2026 (#1048, #1061 e #1065), '
   + 'depois do fim do período; todos responderam 200 em 2026-11-18T13:02-03:00. A data do deploy não foi conferida.';
-const SEM_RECORTE = 'O recorte dirigido no Search Console (consulta e página contêm "baw", até o último dia disponível) não '
-  + 'foi feito: em 18/11/2026 a plataforma pediu login no navegador embutido (relatos/etapa-4.md, lacunas).';
+const SEM_RECORTE = 'O recorte dirigido no Search Console (consulta e página contêm "baw", até o último dia disponível) está '
+  + `nos registros do fim deste arquivo, da coleta parceiros/baw/1-bruto/${RECORTE}.`;
 const EXPORTS = [
   { plataforma: 'gsc', coleta: GSC, arquivo: 'gsc-site-3m/consultas.csv', relatorio: 'Desempenho > Consultas (site inteiro)', dimensao: 'consulta', inicio: '2026-08-16', fim: '2026-11-15',
     qualidade: `Search Console, tipo Web, 3 meses. Export cortado nas 1.000 consultas com mais resultado: nenhuma linha aqui não quer dizer zero impressões. ${PUBLICACAO} ${SEM_RECORTE}` },
@@ -238,6 +239,111 @@ for (const [slug, desc] of Object.entries(REFERENCIAS)) {
       qualidade: `Referência de vertical (${desc}): serve de formato e de perguntas, não prevê o desempenho da BAW. ${o.qualidade} Copiado de _site/2-processado/nossos-dados-lojas.csv#${o.registro_id}.`,
     });
   }
+}
+
+// 4. Recorte dirigido de 18/11/2026, depois do login do Bruno (Search Console, GA4 e Bing). Vai no fim para os
+// registros de antes manterem o id.
+const DIR = `parceiros/baw/1-bruto/${RECORTE}`;
+const lerBruto = (arquivo) => {
+  const rows = parseCsv(read(`${BAW}/1-bruto/${RECORTE}/${arquivo}`));
+  if (rows.some((r) => r.some((c) => c.includes('\n')))) throw new Error(`${arquivo}: célula com quebra de linha, #linha não vale`);
+  return rows;
+};
+const filtroGsc = (pasta) => Object.fromEntries(lerBruto(`${pasta}/filtros.csv`).slice(1).map((r) => [r[0], r[1]]));
+const GSC_DEF = {
+  cliques: ['Cliques', 'Cliques no resultado da Pesquisa Google (web)'],
+  impressoes: ['Impressões', 'Vezes em que um resultado do site apareceu na Pesquisa Google (web)'],
+  'posicao-media': ['Posição', 'Posição média do resultado mais alto do site, ponderada pelas impressões'],
+};
+const GSC_DIRIGIDO = [
+  { pasta: 'gsc-consulta-baw-3m', filtro: ['Consulta', '+baw'], nome: 'consulta contém "baw"', tabelas: ['consultas', 'paginas'] },
+  { pasta: 'gsc-pagina-baw-3m', filtro: ['Página', '+baw'], nome: 'página contém "baw"', tabelas: ['paginas'] },
+];
+for (const g of GSC_DIRIGIDO) {
+  const f = filtroGsc(g.pasta);
+  if (f[g.filtro[0]] !== g.filtro[1] || f.Data !== 'Últimos 3 meses' || !/^Web/.test(f['Tipo de pesquisa'])) {
+    throw new Error(`${g.pasta}: filtros.csv não confere`);
+  }
+  const grafico = lerBruto(`${g.pasta}/grafico.csv`).slice(1).filter((r) => r[0]);
+  const inicio = grafico[0][0], fim = grafico.at(-1)[0];
+  const comDado = grafico.filter((r) => Number(r[2]) > 0).map((r) => r[0]);
+  const qualidade = `Search Console, tipo Web, "Últimos 3 meses" em 18/11/2026, que terminam no último dia com dado final (${fim}). `
+    + `Recorte com o filtro ${g.nome}: a tabela vem inteira, mas o Search Console omite consultas raras. Impressões só em ${comDado.join(', ')}. `
+    + 'Dias 17 e 18/11 ainda sem dado final na coleta.';
+  for (const [metrica, col] of [['cliques', 1], ['impressoes', 2]]) {
+    nos({
+      plataforma: 'gsc', relatorio: `Desempenho > Gráfico (${g.nome})`, dimensao: 'site', chave: `emcasacomcecilia.com, filtro ${g.nome}`,
+      inicio, fim, metrica, valor: grafico.reduce((s, r) => s + Number(r[col]), 0),
+      definicao: `${GSC_DEF[metrica][1]}; soma dos dias do gráfico`, coleta: DIR,
+      evidencia: `${g.pasta}/grafico.csv#coluna ${col + 1}, soma das ${grafico.length} linhas de dias`, qualidade,
+    });
+  }
+  for (const tabela of g.tabelas) {
+    const rows = lerBruto(`${g.pasta}/${tabela}.csv`);
+    rows.slice(1).forEach((r, i) => {
+      if (!r[0]) return;
+      for (const [metrica, [coluna, definicao]] of Object.entries(GSC_DEF)) {
+        const c = rows[0].indexOf(coluna);
+        if (c < 0) throw new Error(`${g.pasta}/${tabela}.csv: sem a coluna ${coluna}`);
+        nos({
+          plataforma: 'gsc', relatorio: `Desempenho > ${tabela === 'consultas' ? 'Consultas' : 'Páginas'} (${g.nome})`,
+          dimensao: tabela === 'consultas' ? 'consulta' : 'pagina', chave: r[0],
+          idioma: tabela === 'consultas' ? NA : 'pt-BR', inicio, fim, metrica, valor: r[c], definicao, coleta: DIR,
+          evidencia: `${g.pasta}/${tabela}.csv#linha=${i + 2}`, qualidade,
+        });
+      }
+    });
+  }
+}
+
+const GA4_DIR = 'ga4-paginas-e-telas-16a18nov.csv';
+const ga4 = lerBruto(GA4_DIR);
+const ga4Datas = ga4.filter((r) => /^# Data de (início|término):/.test(r[0])).map((r) => r[0].slice(-8));
+if (ga4Datas.join() !== '20261116,20261118') throw new Error(`${GA4_DIR}: período não confere (${ga4Datas})`);
+const ga4Cab = ga4.findIndex((r) => r[0] === 'Caminho da página e classe da tela');
+const ga4Linhas = ga4.slice(ga4Cab + 1).filter((r) => r[0]);
+const ga4Baw = ga4Linhas.filter((r) => TEM_BAW.test(r[0]));
+const GA4_QUAL = 'GA4, propriedade Emcasacomcecilia, de 16/11 a 18/11/2026, com o 18/11 parcial (export às 21:55). Só conta quem aceitou '
+  + 'os cookies. O export de 16 e 17/11 feito às 10:16 de 17/11 não tinha a BAW; o GA4 leva horas para processar, e o dia de '
+  + 'cada visita não foi separado. Pode incluir '
+  + 'visitas da equipe conferindo as páginas, o que o relatório não separa; com 1 usuário por página, não serve de demanda.';
+nos({
+  plataforma: 'ga4', relatorio: 'Páginas e telas: Caminho da página (16 a 18/11)', dimensao: 'pagina', chave: 'endereço contém "baw"',
+  inicio: '2026-11-16', fim: '2026-11-18', metrica: 'linhas-com-baw', valor: ga4Baw.length,
+  definicao: 'Linhas do export cuja primeira coluna (consulta ou endereço) contém "baw", sem diferenciar maiúsculas', coleta: DIR,
+  evidencia: `${GA4_DIR}#coluna 1, busca por "baw" nas ${ga4Linhas.length} linhas de dados`, qualidade: GA4_QUAL,
+});
+const GA4_DEF = {
+  visualizacoes: ['Visualizações', 'Visualizações: eventos page_view da página'],
+  'usuarios-ativos': ['Usuários ativos', 'Usuários ativos que viram a página'],
+  'eventos-principais': ['Eventos principais', 'Eventos principais (conversões configuradas) disparados na página'],
+};
+for (const r of ga4Baw) {
+  for (const [metrica, [coluna, definicao]] of Object.entries(GA4_DEF)) {
+    nos({
+      plataforma: 'ga4', relatorio: 'Páginas e telas: Caminho da página (16 a 18/11)', dimensao: 'pagina',
+      chave: `https://emcasacomcecilia.com${r[0]}`, idioma: 'pt-BR', inicio: '2026-11-16', fim: '2026-11-18', metrica,
+      valor: r[ga4[ga4Cab].indexOf(coluna)], definicao, coleta: DIR, evidencia: `${GA4_DIR}#linha=${ga4.indexOf(r) + 1}`,
+      qualidade: GA4_QUAL,
+    });
+  }
+}
+
+const BING_DIRIGIDO = [
+  ['bing-palavras-chave-7d.csv', 'Search Performance > Keywords', 'consulta'],
+  ['bing-paginas-7d.csv', 'Search Performance > Pages', 'pagina'],
+  ['bing-ia-consultas-7d.csv', 'AI Performance > Grounding Queries', 'consulta'],
+  ['bing-ia-paginas-7d.csv', 'AI Performance > Pages', 'pagina'],
+];
+for (const [arquivo, relatorio, dimensao] of BING_DIRIGIDO) {
+  const rows = lerBruto(arquivo).slice(1).filter((r) => r[0]);
+  nos({
+    plataforma: 'bing', relatorio: `${relatorio} (7 dias)`, dimensao, chave: `${dimensao === 'consulta' ? 'consulta' : 'endereço'} contém "baw"`,
+    inicio: '2026-11-12', fim: '2026-11-16', metrica: 'linhas-com-baw', valor: rows.filter((r) => TEM_BAW.test(r[0])).length,
+    definicao: 'Linhas do export cuja primeira coluna (consulta ou endereço) contém "baw", sem diferenciar maiúsculas', coleta: DIR,
+    evidencia: `${arquivo}#coluna 1, busca por "baw" nas ${rows.length} linhas de dados`,
+    qualidade: `Bing Webmaster Tools, botão "7 D" em 18/11/2026, que mostrou de 12/11 a 16/11 (o último dia com dado). Lista completa pelo Download all${relatorio.startsWith('AI') ? '; o AI Performance é amostra, segundo o próprio Bing' : ''}. As páginas da BAW só tinham o 16/11 dentro do período.`,
+  });
 }
 writeCsv('nossos-dados.csv', HEADER_NOS, dados);
 

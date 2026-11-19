@@ -4,8 +4,9 @@ Sessão: "Demanda BAW, etapa 4" (Claude Opus 5.5), branch `docs/demanda-baw-etap
 `briefs/etapa-4.md`. Este arquivo é o relato para a coordenação; o `DIARIO.md`, o `COMO-REFAZER.md`, o
 `1-bruto/README.md` e o dossiê não foram tocados.
 
-Entrega em dois PRs: a 4A no #1138; a 4B (cobertura, seção 10) num segundo PR, aberto depois da mensagem 2 da
-coordenação (catálogo na `main` pelo #1139), na branch `docs/demanda-baw-etapa4b`.
+Entrega em três PRs: a 4A no #1138; a 4B (cobertura, seção 10) no #1140, aberto depois da mensagem 2 da coordenação
+(catálogo na `main` pelo #1139), na branch `docs/demanda-baw-etapa4b`; o recorte dirigido (seção 11), feito depois que
+o Bruno entrou nas plataformas, num terceiro PR, na branch `docs/demanda-baw-etapa4c`.
 
 ## 1. Tempo
 
@@ -14,6 +15,7 @@ coordenação (catálogo na `main` pelo #1139), na branch `docs/demanda-baw-etap
 | 4A | 2026-11-18T12:50-03:00 | 2026-11-18T13:10-03:00 | 20 |
 | Espera do catálogo | 2026-11-18T13:10-03:00 | 2026-11-18T13:27-03:00 | 17 (fora do relógio da sessão) |
 | 4B | 2026-11-18T13:27-03:00 | 2026-11-18T13:33-03:00 | 6 |
+| Recorte dirigido | 2026-11-18T21:52-03:00 | 2026-11-18T22:04-03:00 | 12 |
 
 Na 4A: 2 minutos de leitura dos briefs e da L'Amazonie, 1 de tentativa nas plataformas (login pedido), 9 nas consultas
 de IA, 8 no gerador, na conferência e neste relato. A espera pelo login não entrou no relógio: entreguei sem ele.
@@ -27,7 +29,8 @@ de IA, 8 no gerador, na conferência e neste relato. A espera pelo login não en
 | Clarity | Pediu login ("Entre para continuar"), 12:54 | Nada |
 | Bing Webmaster | Não aberto | Nada; ver abaixo |
 
-Sem login feito pela sessão, como manda o brief. O recorte dirigido que faltou fica como lacuna (seção 7, item 1).
+Sem login feito pela sessão, como manda o brief. À noite o Bruno entrou no Search Console, no GA4 e no Bing
+Webmaster, e o recorte foi feito (seção 11). O Clarity segue sem login e sem coleta.
 
 ## 3. A BAW no snapshot de `_site/` (17/11/2026)
 
@@ -102,9 +105,9 @@ afiliado (a venda conta pelo código, em todos os canais) e nenhum painel nem re
 
 ## 7. Lacunas, com destino
 
-1. **Recorte dirigido no Search Console** (consulta contém "baw" e página contém "baw", de 16/08 até o último dia
-   disponível): o Bruno entra no Search Console no navegador embutido e esta sessão faz o recorte; ou fica para a
-   rotina do site depois de 30/11, que já vai pegar as primeiras semanas da BAW. GA4 e Clarity da BAW, idem.
+1. **Recorte dirigido:** feito em 18/11 às 21:52 no Search Console, no GA4 e no Bing (seção 11). Ficam para a rotina
+   do site depois de 30/11: o Clarity (sem login), os dias 17 e 18/11 no Search Console e no Bing (sem dado final na
+   coleta) e o dia de cada visita no GA4.
 2. **Respostas de IA que faltaram:** q4 e q5 no Perplexity e as cinco no Copilot; fontes do ChatGPT por endereço.
    Destino: a próxima rodada, ou o Bruno numa conta dele. A matriz não depende disso para a P5: os três casos já
    apareceram.
@@ -178,3 +181,32 @@ a data `lido_em` são constantes do script: quem refizer em outro dia confere os
 
 - A orientação pedia "por pergunta"; agrupei capítulos que respondem à mesma pergunta numa linha só (por exemplo, "A
   nota em números" e "Como a nota mudou"), com os títulos todos em `evidencia`.
+
+## 11. Recorte dirigido (Search Console, GA4 e Bing)
+
+Coleta `1-bruto/20261118-2152-recorte-dirigido/`, com `FONTE.md`, depois que o Bruno entrou nas plataformas no
+navegador embutido (18/11, à noite). Cada download foi conferido pelo conteúdo (filtro, período e contagem de linhas
+da tela) e tirado de Downloads antes do próximo. No `nossos-dados.csv`: `nos-baw-0431` a `nos-baw-0466`, no fim do
+arquivo, para os registros de antes manterem o id. O texto de `nos-baw-0001` e `0002` passou a apontar para eles.
+
+| Plataforma | Visão | Período | A BAW |
+|---|---|---|---|
+| Search Console | Consulta contém "baw" | 17/08 a 16/11 | 3 impressões, 0 clique, só no 16/11: "cupom baw" (posição 5), "marca baw é boa" (7) e "cupons baw" (8); páginas: `cupom-baw-como-usar` (2) e `baw-clothing-e-boa` (1) |
+| Search Console | Página contém "baw" | 17/08 a 16/11 | 4 impressões, 0 clique, só no 16/11: `baw-clothing-e-boa` (2, posição 4) e `cupom-baw-como-usar` (2, posição 6,5) |
+| GA4 | Páginas e telas, sem filtro | 16 a 18/11 (18 parcial) | 2 de 118 caminhos: `/cupons/baw` e `/reviews/cupom-baw-primeira-compra`, 4 visualizações e 1 usuário cada, 0 evento principal |
+| Bing | Keywords, Pages, Grounding Queries e AI Pages, "7 D" | 12 a 16/11 | Nenhuma linha nas quatro listas |
+
+Leitura: é o primeiro dia de cada página no índice, e nada aqui mede demanda. O Google já mostrou duas das seis páginas
+para consultas de cupom e de reputação, na primeira página do resultado. No GA4, 1 usuário por página pode ser a
+própria equipe conferindo o deploy. A `/cupons/baw` ainda não teve impressão.
+
+Fora da coleta, com destino na rotina do site depois de 30/11: o Clarity, os dias 17 e 18/11 no Search Console e no
+Bing e a visão de 24 horas do Search Console.
+
+O gerador ganhou a parte 4: confere o `filtros.csv` de cada zip do Search Console e o período no cabeçalho do CSV do
+GA4 antes de ler, e para se algum CSV tiver quebra de linha dentro de célula (o `#linha=` deixaria de valer). Rodado
+duas vezes, deu o mesmo SHA-256 nos três CSVs; `comercial.csv` e `cobertura.csv` não mudaram.
+
+**Desvio:** a coleta foi além do Search Console que a mensagem 1 citava: o Bruno entrou também no GA4 e no Bing, e os
+dois cabem no mesmo recorte do brief (4A, item 2). No GA4, baixei o relatório inteiro, sem filtro, para conferir o
+arquivo pela contagem da tela (118); a BAW sai no processamento pela mesma regra do snapshot.
