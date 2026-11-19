@@ -579,6 +579,11 @@ vídeo, primeiras impressões e uso noturno.
   artigos, nos 10 idiomas, e o `offerTypeLabel` nos cards e na ItemList de `/cupons`.
   `npm run test:build-output` confere toda página que cita o código, inclusive o nome dos cards que
   o mostram e a home, que mostra o código no painel da YesStyle.
+- O aviso de temporada (`src/lib/codeSeasonNotice.ts`, componente `CodeSeasonNotice`) é a linha "Na Black Friday,
+  lojas podem alterar a porcentagem do desconto sem aviso" no fim do recorte do código: o do topo e o do fim dos
+  artigos e o do topo das páginas de loja, só em PT e só em loja de cupom (fora a loja de link, o 4CW5Y da SHEIN e o
+  CECILIA010 da YesStyle). Uma janela só para o site, com `-03:00`, pelo `CampaignWindow`: some no navegador quando
+  vence. Para outra data comercial, troque o texto e as datas. O `test:build-output` confere os recortes.
 - O 4CW5Y da SHEIN é código de indicação: pesquisa-se no aplicativo, não se cola no
   checkout, e também não é cupom. `getStoreCodeKind` (`couponsData.ts`) dá o tipo do código de um
   artigo (`reward`, `referral` ou nenhum); o dock, a sidebar e os recortes do artigo o usam por

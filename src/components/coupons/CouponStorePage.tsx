@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import { getPendingCodeSeasonNotice, storeTakesCodeSeasonNotice } from '@/lib/codeSeasonNotice';
 import { CalendarDays, Check, Copy, CreditCard, ExternalLink, Layers, Play, Repeat, ShoppingBag, Truck } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { getCouponHubPath } from '@/lib/couponHub';
@@ -24,6 +25,7 @@ import {
   couponFontVariables,
 } from './CouponBlocks';
 import { OtherCouponCard } from './CouponCards';
+import { CodeSeasonNotice } from './CodeSeasonNotice';
 import { LimitedCodeNotices, LimitedCodePointers } from './LimitedCodeNotice';
 import { CartPrintFigure, INLINE_LINK, STACKING_SECTION_ID, StackingTable } from './StoreEvidence';
 import { StorePageBanners } from './StorePageBanners';
@@ -245,6 +247,8 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
   const tiers = couponCodeOffer?.tiers?.length ? couponCodeOffer.tiers : null;
   // O código com prazo existe só em PT e em loja sem faixas.
   const limitedCodes = locale === 'pt' && couponCodeOffer && !tiers ? getPendingLimitedCodes(couponCodeOffer) : [];
+  // O aviso de temporada, no fim do recorte: só em PT e em loja de cupom, com ou sem faixas.
+  const codeNotice = locale === 'pt' && storeTakesCodeSeasonNotice(coupon) ? getPendingCodeSeasonNotice() : undefined;
   const offerType = getOfferType(coupon, copy);
   const offerTypePlural =
     coupon.offerTypeLabelPlural || (couponCodeOffer ? copy.offerTypePlural.code : copy.offerTypePlural.link);
@@ -315,7 +319,12 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           // O código da parceria vale enquanto ela durar; a data do teste no carrinho fica em "Como testamos".
           verified={testedAt ? coupon.validity : copy.verifiedOn(lastVerified)}
           copyable={Boolean(couponCodeOffer && !tiers)}
-          footer={limitedCodes.length > 0 ? <LimitedCodePointers items={limitedCodes} /> : undefined}
+          footer={
+            <>
+              {limitedCodes.length > 0 && <LimitedCodePointers items={limitedCodes} />}
+              {codeNotice && <CodeSeasonNotice notice={codeNotice} className="mt-3.5" />}
+            </>
+          }
         >
           {couponCodeOffer && !tiers && (
             <>
