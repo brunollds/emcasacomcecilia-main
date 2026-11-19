@@ -5025,14 +5025,14 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, a prateleira de R$ 199,90 por R$ 59,90 também ganhou os 10%' },
-      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento; a loja não mostra desconto próprio no Pix' },
+      { benefit: 'pix', stacks: 'sim', condition: 'No teste, o código seguiu aplicado com o Pix escolhido no pagamento; a loja não dá desconto próprio no Pix' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 599 em produtos, segundo a loja; abaixo disso, o frete sai pelo CEP no checkout' },
     ],
     paymentPerks: ['Até 10x sem juros no cartão de crédito, conforme o valor do pedido'],
     lastVerified: '2026-11-19',
     testedAt: '2026-11-19',
     testNote:
-      'Num carrinho com o Quadro Infantil Oração Santo Anjo, de R$ 99,90 por R$ 79,90, e a Prateleira de Livros 50cm Rosa - Theo, de R$ 199,90 por R$ 59,90, os dois com o preço de Black Friday, o EMCASACOMCECILIA tirou R$ 13,98 dos R$ 139,80, 10%, e o subtotal caiu para R$ 125,82. No checkout, o resumo do pedido manteve o cupom ativo de R$ 13,98.',
+      'Num carrinho com o Quadro Infantil Oração Santo Anjo, de R$ 99,90 por R$ 79,90, e a Prateleira de Livros 50cm Rosa - Theo, de R$ 199,90 por R$ 59,90, os dois com o preço de Black Friday, o EMCASACOMCECILIA tirou R$ 13,98 dos R$ 139,80, 10%, e o subtotal caiu para R$ 125,82. No checkout, o resumo do pedido manteve o cupom ativo de R$ 13,98. Num segundo carrinho do mesmo dia, com 5 Cadeiras Infantis Brancas - Theo a R$ 159,90 cada, os R$ 799,50 caíram para R$ 719,55 com o cupom, com frete grátis, e o Pix escolhido no pagamento manteve os R$ 719,55.',
     codeInstructions: [
       'Copie o código EMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Cola e Decora pelo botão indicado e clique em Comprar nos produtos: o carrinho abre ao lado.',
@@ -5066,6 +5066,11 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. No nosso teste, a Prateleira de Livros 50cm Rosa - Theo estava de R$ 199,90 por R$ 59,90, e o cupom tirou os 10% dela também.',
       },
       {
+        question: 'O cupom vale no Pix?',
+        answer:
+          'Vale. No nosso teste, com o Pix escolhido no pagamento, o cupom seguiu aplicado e o pedido de R$ 799,50 ficou em R$ 719,55. A Cola e Decora não dá desconto próprio no Pix; no cartão de crédito, parcela em até 10x sem juros, conforme o valor do pedido.',
+      },
+      {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
         answer:
           'Sim. No teste de carrinho mais recente, o EMCASACOMCECILIA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
@@ -5088,7 +5093,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'O cupom não mexe no frete. Pela página de frete da loja, o frete é grátis em compras a partir de R$ 599 em produtos; abaixo disso, o valor e o prazo aparecem no checkout depois do CEP. Confira a opção de frete grátis na cotação do checkout.',
+          'O cupom não mexe no frete. Pela página de frete da loja, o frete é grátis em compras a partir de R$ 599 em produtos, e no nosso teste um pedido de R$ 799,50 saiu com frete grátis, já com o cupom aplicado. Abaixo disso, o valor e o prazo aparecem no checkout depois do CEP.',
       },
       {
         question: 'Como funciona a troca na Cola e Decora?',
