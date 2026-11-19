@@ -9,7 +9,7 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2), depois da PK1"
 bloqueado_por: "-"
@@ -80,3 +80,15 @@ Sem quadro `decision`.
 | Checkout sem login | Conta nossa: | teste de 19/11 | reler |
 | Frete R$ 199, 5x, Pix | A loja informa: | páginas da loja | verificado |
 | Cupom de boas-vindas da loja | - | fora | não escrever |
+
+## Redação, revisão e mídia (19/11/2026, sessão de artigos)
+
+**Job 2.** Escrito em `content/reviews/cupom-pinkcheeks-primeira-compra.json` (id 1099). Primeiro capítulo "O cupom vale na primeira compra e nas seguintes", abrindo com "Vale."; blush sem total de cores.
+
+**Job 3 (Fable 5.2, uma rodada para os seis).** Aprovado com ajustes, aplicados pelo próprio revisor: "número da Anvisa" no lugar de "registro" em todo o pacote; nenhum total de cores do Blush All In One; legendas sem data; sem bastidor ("não conferimos", "não listamos").
+
+**Job 4.** Só PT (`status_i18n` não se aplica). Âncora "cupom Pink Cheeks" para `/cupons/pinkcheeks` uma vez.
+
+**Job 6.** Capa no painel lateral verde (lote 41: logo num quadro branco, chamada, código PNK-EMCASACOMCECILIA), foto do catálogo oficial da Pink Cheeks (Shopify da loja), "Foto: Pink Cheeks" nas legendas. As 13 imagens novas do pacote foram ao CDN com o sim do Bruno em 19/11 (folha de aprovação `FOLHA-APROVACAO-PK.jpg`).
+
+Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.

@@ -9,7 +9,7 @@ category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2), com a PK3"
 bloqueado_por: "-"
@@ -92,3 +92,15 @@ Sem quadro `decision`.
 | 72; 100%; 77,1%; 71,4%; 6,49; 2 dias e 3 horas | Conta nossa: | perfil, 19/11 | verificado |
 | Categorias e porcentagens (até 3 anos) | Conta nossa: | perfil, 19/11 | verificado |
 | Reclamação individual | - | fora | não escrever |
+
+## Redação, revisão e mídia (19/11/2026, sessão de artigos)
+
+**Job 2.** Escrito em `content/reviews/pinkcheeks-reclame-aqui-nota-reputacao.json` (id 1098, `bodyDatesReason` reclame-aqui). Período maio a outubro de 2026 no corpo e na resposta rápida; o FAQ diz "o semestre mais recente do perfil", porque data não entra no FAQ. **Reler o perfil se o deploy sair depois de 01/12** (virada do período).
+
+**Job 3 (Fable 5.2, uma rodada para os seis).** Aprovado com ajustes, aplicados pelo próprio revisor: "número da Anvisa" no lugar de "registro" em todo o pacote; nenhum total de cores do Blush All In One; legendas sem data; sem bastidor ("não conferimos", "não listamos").
+
+**Job 4.** Só PT (`status_i18n` não se aplica). Âncora "cupom Pink Cheeks" para `/cupons/pinkcheeks` uma vez.
+
+**Job 6.** Capa no painel lateral verde (lote 41: logo num quadro branco, chamada, código PNK-EMCASACOMCECILIA), foto do catálogo oficial da Pink Cheeks (Shopify da loja), "Foto: Pink Cheeks" nas legendas. As 13 imagens novas do pacote foram ao CDN com o sim do Bruno em 19/11 (folha de aprovação `FOLHA-APROVACAO-PK.jpg`).
+
+Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.

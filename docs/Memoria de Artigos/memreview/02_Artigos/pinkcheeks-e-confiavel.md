@@ -9,7 +9,7 @@ category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2)"
 bloqueado_por: "-"
@@ -104,3 +104,15 @@ Sem quadro `decision`.
 | Trocas 7 e 30 dias, portal | A loja informa: | `/pages/trocas-e-devolucoes` (dossiê) | verificado; reler |
 | Dono da marca; Virginia; Manu Cit dona | - | nenhuma | não escrever sem fonte |
 | Lojas físicas por cidade | - | mapa não aberto | ler no dia |
+
+## Redação, revisão e mídia (19/11/2026, sessão de artigos)
+
+**Job 2.** Escrito em `content/reviews/pinkcheeks-e-confiavel.json` (id 1097). O Job 3 tirou a frase sem fonte sobre o que a Anvisa avalia; capítulo "O número da Anvisa no rótulo e como conferir"; reputação com o período; fecho "Dá para confiar: o que pesa a favor e o que conferir". O link da consulta de cosméticos da Anvisa respondeu 403 ao robô: conferir no Chrome antes do deploy.
+
+**Job 3 (Fable 5.2, uma rodada para os seis).** Aprovado com ajustes, aplicados pelo próprio revisor: "número da Anvisa" no lugar de "registro" em todo o pacote; nenhum total de cores do Blush All In One; legendas sem data; sem bastidor ("não conferimos", "não listamos").
+
+**Job 4.** Só PT (`status_i18n` não se aplica). Âncora "cupom Pink Cheeks" para `/cupons/pinkcheeks` uma vez.
+
+**Job 6.** Capa no painel lateral verde (lote 41: logo num quadro branco, chamada, código PNK-EMCASACOMCECILIA), foto do catálogo oficial da Pink Cheeks (Shopify da loja), "Foto: Pink Cheeks" nas legendas. As 13 imagens novas do pacote foram ao CDN com o sim do Bruno em 19/11 (folha de aprovação `FOLHA-APROVACAO-PK.jpg`).
+
+Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.
