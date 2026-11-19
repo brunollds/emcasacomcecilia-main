@@ -31,7 +31,7 @@ GO do Bruno em 19/11/2026. Sinais em [[nestle-nutre-mais-vendidos-fatos-1911]]. 
 - [x] **Classe canônica:** `guias-praticos-utilidade`, `reviewKind: guia`, como o `nutren-just-protein-para-que-serve`.
 - [x] **i18n:** somente PT.
 - [x] **Anti-canibalização:** nenhum artigo nosso cita Novasource ou Proline.
-- [ ] **Regra de publicidade:** não conferimos se há restrição legal a cupom ou a texto de divulgação para fórmula de nutrição enteral (a restrição que conhecemos é a das fórmulas infantis de 0 a 12 meses). O carrinho aceitou o `CECI`. **Decisão do Bruno antes da redação**, ver a seção 9.
+- [ ] **Regra de publicidade:** não conferimos se há restrição legal a cupom ou a texto de divulgação para fórmula de nutrição enteral (a restrição que conhecemos é a das fórmulas infantis de 0 a 12 meses). O carrinho aceitou o `CECI`. O Bruno liberou a pauta como "só rótulo" em 19/11 (seção Decisões); a regra em si segue sem conferência.
 
 ## 2. Função da pauta
 
@@ -155,4 +155,6 @@ Sem quadro "Leve se / Passe se".
 
 ## Decisões
 
-- **19/11/2026:** GO do Bruno para a pauta. As duas perguntas da seção 9 seguem abertas.
+- **19/11/2026:** GO do Bruno para a pauta.
+- **19/11/2026, pergunta 1 da seção 9:** "Sim, só rótulo" (Bruno). O artigo entra como ficha de rótulo e conta de preço, com a indicação entre aspas e atribuída, e sem "cicatrização" no título, no subtítulo e no snippet.
+- **Pergunta 2 (regra de publicidade para fórmula enteral):** não conferida. Não trava a redação; se o Bruno quiser, pergunta à Nestlé Nutre.
