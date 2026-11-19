@@ -4,9 +4,9 @@ Parceira nova (19/11/2026), página `/cupons/colaedecora` (#1240). Dossiê em `0
 arquivo é a pesquisa semente do Job 1: busca, Trends, reputação, catálogo e as pautas propostas. Leituras de
 19/11/2026: autocompletar pelo serviço de sugestões do Google (`client=firefox`, `hl=pt-BR`, `gl=br`, sem login, 22
 consultas, nenhum bloqueio), Google Trends (Brasil, 12 meses, na aba aberta pelo Bruno), Reclame Aqui e site no
-navegador do app, sem login e sem finalizar compra. **Nenhuma pauta tem GO.**
+navegador do app, sem login e sem finalizar compra. **GO do Bruno em 19/11/2026 no pacote todo (CD1 a CD6, CD2 e CD3 inclusive): briefings na seção 1 da Fila.**
 
-## 1. Pacote inicial proposto (sem GO)
+## 1. Pacote inicial (GO em 19/11, com briefing)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 19/11) |
 |---|---|---|---|---|
@@ -102,3 +102,9 @@ navegador do app, sem login e sem finalizar compra. **Nenhuma pauta tem GO.**
 2. **CD2 e CD3 saem com esse Reclame Aqui** (atraso em 50% dos problemas, 47,1% voltariam, 18 dias de resposta)?
 3. A Cecília tem algum produto da Cola e Decora?
 4. A parceira passou regras da Black Friday ou das "Ofertas de Live"?
+
+## 8. Decisões e leituras a mais (19/11/2026)
+
+- **Bruno, 19/11: "GO no pacote todo"**, com a CD5 no lugar do "é boa" e a CD2 e a CD3 com o Reclame Aqui como está (o atraso é o tema).
+- **Frete** (`/pagina/frete-gratis.html`, relida): "Frete grátis em compras acima de R$ 599 para todo o Brasil"; "O prazo é calculado pelo seu CEP direto no checkout."
+- **Cama Montessoriana Bella:** MDF + Pinus, acabamento em laca; 194 × 96 cm, 25,5 cm do chão; colchão solteiro 88 × 188 (não acompanha); até 100 kg; grades fixas; garantia de 30 dias; vai desmontada. Nenhuma ficha lida traz prazo de produção.
