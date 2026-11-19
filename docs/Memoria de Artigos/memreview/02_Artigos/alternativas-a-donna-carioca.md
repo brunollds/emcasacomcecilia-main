@@ -9,8 +9,8 @@ type: "Comparativo de Moda Fitness"
 anexo_tipo: "Anexo-Moda"
 status: "briefing"
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "Job 2: ler as peças da SHEIN uma a uma no Chrome, reler os preços das quatro lojas e os códigos no carrinho, redigir"
-bloqueado_por: "leitura das peças da SHEIN (página de produto deu captcha; o Chrome do Bruno não conectou em 18/11)"
+proxima_acao: "Job 2: reler os preços das quatro lojas e os códigos no carrinho, reabrir as peças da SHEIN no dia, redigir"
+bloqueado_por: null
 data_criacao: "2026-11-18"
 pauta_id: "DC1 (série Alternativas a <marca>; GO do Bruno em 18/11/2026)"
 affiliate: ["insider", "toda-up", "shein"]
@@ -37,9 +37,9 @@ parágrafo curto e o "Passe se" do quadro `decision`.
 
 - [x] **Evidência:** Donna Carioca pelo catálogo, central de ajuda e política; Insider e Toda Up pela página de
   cada produto; SHEIN só pelos cartões da busca. Tudo de 18/11.
-- [ ] **SHEIN peça a peça:** falta. Composição, grade, vendedor e avaliações de cada peça só no Chrome do Bruno. A
-  página de produto deu verificação de robô: não contornar. Sem essa leitura, o motivo 1 sai só com ordem de
-  grandeza e link para a busca da loja, sem peça nomeada e sem foto de peça.
+- [x] **SHEIN peça a peça:** quatro leggings e um top lidos pela ficha em 18/11 (seção 3). Faltam mais tops e a
+  saia com short; depois de seis páginas a loja parou de devolver dados, e a leitura parou ali. O Job 2 reabre as
+  peças no dia, uma a uma, sem contornar bloqueio.
 - [x] **Regulatório:** só ficha, preço e política. "Não fica transparente", "UV 50+", "antiodor" e "evapora o
   suor" são palavras das lojas: "segundo a página" ou fora.
 - [x] **Experiência própria:** nenhuma (Bruno, 18/11: só fontes públicas). Nada de "veste melhor", "tecido
@@ -76,6 +76,19 @@ parágrafo curto e o "Passe se" do quadro `decision`.
 | Insider, linhas Seamless (Sustentia, IN-ACTION) | 90% poliamida, 10% elastano | P a GG |
 | Toda Up, Top Segunda Pele SkinUp | 76,5% poliamida, 23,5% elastano | P a G1 |
 
+**SHEIN, peças lidas.**
+
+| Peça da SHEIN (18/11, noite) | Composição (ficha) | Tamanhos | Preço |
+|---|---|---|---|
+| Legging Easithlete, cintura alta, com bolsos (`-p-23359956`) | 90% poliéster, 10% elastano; "sem forro"; translúcido: não | PP a EG, e plus 1XL a 3XL | R$ 55,19 (de R$ 68,99) |
+| Calça legging com bolso Atletyca (`-p-126896786`), "#1 mais vendido" da categoria | 92% poliéster, 8% elastano | PP a GG | R$ 46,90 (de R$ 79,00) |
+| Calça legging de academia cintura alta (`-p-27147475`) | 92% poliéster, 8% elastano | P a GG | R$ 22,49 (de R$ 60,00) |
+| Legging corsário básica WOLFOX (`-p-22448695`) | 92% poliéster, 8% elastano | P a GG | R$ 24,69 (de R$ 31,99) |
+| Top esportivo nadador (`-p-428798127`), mais de 1.000 avaliações | 92% poliamida, 8% elastano; translúcido: não | P a GG (S a XXL) | R$ 31,99 (de R$ 39,99) |
+
+- **As leggings baratas da SHEIN são de poliéster com 8% a 10% de elastano.** A Donna Carioca e a Insider usam
+  poliamida. O motivo 1 diz isso junto do preço: paga-se menos por outra fibra e menos elastano. Sem "pior".
+- Só a Easithlete tem grade plus (1XL a 3XL); é a peça do motivo 2 pela SHEIN.
 - O que dá para dizer: as peças de entrada da Insider declaram mais elastano (23% contra 16%). É fato de ficha, sem
   "melhor". As Seamless dela têm menos elastano que a Donna Carioca e só vão de P a GG: não servem ao motivo 2.
 
@@ -88,8 +101,8 @@ parágrafo curto e o "Passe se" do quadro `decision`.
 | Insider, Legging Easy | R$ 295 | R$ 169 a R$ 177 |
 | Donna Carioca, legging mais vendida | R$ 139,90 | R$ 99,95 a R$ 139,90 |
 | Donna Carioca, tops mais vendidos | R$ 79,90 a R$ 109,90 | R$ 59,95 a R$ 109,90 |
-| SHEIN, legging sem marca (cartões da busca) | — | R$ 60 a R$ 73 |
-| SHEIN, top sem marca (cartões da busca) | — | R$ 49 a R$ 73 |
+| SHEIN, leggings lidas | R$ 32 a R$ 79 (preço riscado) | R$ 22 a R$ 55 |
+| SHEIN, top nadador lido | R$ 39,99 (riscado) | R$ 31,99 |
 
 - **Correção da seção 9 da ficha:** ela chamava de "preço de lista" o R$ 99, o R$ 119 e o R$ 169 da Insider. São
   preços da campanha de novembro. Na tabela, a Insider custa cerca do dobro da Donna Carioca.
@@ -106,7 +119,8 @@ insatisfação, 180 por defeito; underwear só por defeito. SHEIN: pelo `tamanho
 
 ## 4. A tese, nesta ordem
 
-1. **Pagar menos: SHEIN.** Legging e top sem marca por cerca de metade do preço de tabela da Donna Carioca. A
+1. **Pagar menos: SHEIN.** Legging e top por menos da metade do preço de tabela da Donna Carioca, em poliéster
+   (as leggings lidas) no lugar da poliamida. A
    GLOWMODE, marca própria da SHEIN, custa o mesmo ou mais e fica fora do argumento. No short saia, a Donna
    Carioca em promoção empata. Dizer o que se perde: vendedores diferentes, ficha por peça, prazo de entrega.
 2. **Tamanho que ela não faz: Insider e SHEIN.** A Donna Carioca vai de P a GG em tudo o que foi lido. Insider: PP a
@@ -173,12 +187,13 @@ insatisfação, 180 por defeito; underwear só por defeito. SHEIN: pelo `tamanho
 | Insider: tabela R$ 155, R$ 229 e R$ 295; campanha R$ 99, R$ 119 e R$ 169 | catálogo, 18/11 | verificado; reler |
 | Insider: Endorphine até XXGG | ficha, seção 9 | reler |
 | SHEIN: legging R$ 60 a R$ 73, top R$ 49 a R$ 73, grupo "Curva", filtro "não transparente" | cartões da busca, 18/11 | verificado; reler |
-| SHEIN: composição, grade, vendedor e avaliações por peça | — | a ler no Chrome |
+| SHEIN: quatro leggings em poliéster (8% a 10% de elastano); top nadador 92% poliamida, 8% elastano | ficha de cada página, 18/11 | verificado; reler preço |
+| SHEIN: nota e vendedor das outras peças, mais tops, saia com short | — | a ler no dia |
 | Toda Up: 30 dias de troca; top segunda pele 76,5% e 23,5% | política e página | verificado |
 | Preço com o código na Insider e na Toda Up | — | a ler no carrinho do dia |
 
 ## 9. Pendências
 
-- **Job 2, antes de redigir:** peças da SHEIN no Chrome (duas leggings e dois tops sem marca, uma opção Curva);
-  preços das quatro lojas no dia; carrinho com os dois códigos.
-- **Do Bruno:** nenhuma que trave. A leitura da SHEIN depende do Chrome dele estar conectado.
+- **Job 2, antes de redigir:** reabrir as cinco peças da SHEIN e ler mais um top; preços das quatro lojas no dia;
+  carrinho com os dois códigos.
+- **Do Bruno:** nenhuma que trave.
