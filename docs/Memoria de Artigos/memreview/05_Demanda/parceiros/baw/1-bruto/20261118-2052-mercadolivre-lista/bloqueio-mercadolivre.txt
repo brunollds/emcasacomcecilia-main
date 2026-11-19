@@ -1,0 +1,12 @@
+Endereço pedido: https://lista.mercadolivre.com.br/baw-clothing
+Endereço a que a página levou: https://www.mercadolivre.com.br/gz/account-verification?go=https%3A%2F%2Flista.mercadolivre.com.br%2Fbaw-clothing&tid=e6c1b27a-a967-430f-9ca1-0072068b8568
+Lido em: 2026-11-18T20:52:52-03:00 (hora aproximada, anotada pela sessão logo depois da leitura; 3 segundos de espera)
+Método: navegador embutido do app, sem login, get_page_text; texto da página gravado pela sessão como veio
+---
+Olá! Para continuar, acesse
+sua conta
+
+Sou novo
+Já tenho conta
+
+trace-id: e6c1b27a-a967-430f-9ca1-0072068b8568

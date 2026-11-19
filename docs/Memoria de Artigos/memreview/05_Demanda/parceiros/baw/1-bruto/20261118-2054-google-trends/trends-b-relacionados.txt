@@ -1,0 +1,11 @@
+Comparação: baw clothing, moletom baw, camiseta baw, tenis baw, cupom baw
+Endereço: https://trends.google.com/trends/explore?geo=BR&q=baw%20clothing,moletom%20baw,camiseta%20baw,tenis%20baw,cupom%20baw&hl=pt-BR
+Lido em: 2026-11-18T20:55:20-03:00 (hora aproximada; o gráfico só carregou depois de rolar a página e de uma captura de tela)
+Recorte: Brasil, Últimos 12 meses, Todas as categorias, Pesquisa na Web
+Método: navegador embutido, get_page_text; o que a página mostrava, gravado pela sessão como veio (sem o CSV oficial)
+---
+baw clothing — Pesquisas relacionadas, Em ascensão (1 a 5 de 14): dust Mais 300%; centauro Mais 200%; hering Mais 180%; bolovo Mais 170%; sufgang Mais 160%
+moletom baw — Pesquisas relacionadas, Em ascensão: moletom vans feminino Mais 120%; shein Mais 60%
+camiseta baw — Pesquisas relacionadas, Em ascensão: puma Mais 100%; camiseta baw oversized Mais 50%
+tenis baw — Pesquisas relacionadas, Principais (1 a 5 de 14): tenis vans 100; tenis masculino 95; tenis nike 95; vans 94; nike 93
+cupom baw — Pesquisas relacionadas, Principais (1 a 5 de 6): baw clothing 100; cupom baw clothing 100; cupom desconto baw 82; cupom de desconto baw 57; moletom baw 22
