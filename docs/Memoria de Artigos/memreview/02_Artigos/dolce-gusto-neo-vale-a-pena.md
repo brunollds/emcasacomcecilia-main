@@ -8,8 +8,8 @@ reviewKind: "produto"
 type: "Review de Produto"
 status: "pauta-aprovada"
 responsavel: "-"
-proxima_acao: "respostas da Cecília (seção 8), depois redação (Job 2)"
-bloqueado_por: "respostas da Cecília sobre o uso da NEO (seção 8)"
+proxima_acao: "redação (Job 2)"
+bloqueado_por: "-"
 data_criacao: "2026-11-19"
 modo_i18n: "somente-pt"
 idioma_fonte: "pt"
@@ -32,7 +32,7 @@ O curl da loja recebe "Access Denied": tudo foi lido no navegador.
 ## 1. Portões
 
 - [x] **Evidência factual:** recursos, medidas e tecnologia da página da máquina; cafés, intensidades e preços da categoria NEO; `CECI` aplicado no carrinho na máquina e numa caixa de cápsulas.
-- [ ] **Fronteira factual vs experiência:** uso diário declarado, sem detalhes. **Bloqueio:** as respostas da seção 8. Sem elas, o texto não descreve sabor, barulho, rotina nem defeito, e o artigo cai para guia (`guias-praticos-utilidade`, `reviewKind: guia`).
+- [x] **Fronteira factual vs experiência:** respostas da Cecília em 19/11 (seção 8). A experiência fica no que ela disse; o que ela não respondeu (barulho, café de que não gostou) não entra.
 - [x] **Classe canônica:** `produtos-experiencias`, `reviewKind: produto`, como o `dolce-gusto-mini-me-2-0-vale-a-pena` e o `dolce-gusto-genio-s-touch-vale-a-pena`.
 - [x] **i18n:** somente PT.
 - [x] **Anti-canibalização:**
@@ -128,20 +128,20 @@ Intro: a máquina que a Cecília usa todo dia, para quem toma café preto e quer
 
 1. **Resposta rápida** (40 a 60 palavras, sem "R$"): vale para quem toma só café preto e quer cápsula de papel; não serve para quem toma latte, cappuccino, chocolate ou chá, nem para quem quer usar as cápsulas Original; a Cecília usa no dia a dia; o `CECI` dá 10% na máquina.
 2. **O que a NEO faz de diferente.** SmartBrew, os três jeitos de extrair e as cinco bebidas, em linguagem de cozinha. Sem "barista" como promessa nossa: atribuído à marca.
-3. **Como é usar no dia a dia** (experiência). Depende das respostas da seção 8. Entram as fotos e os dois Shorts da Cecília.
+3. **Como é usar no dia a dia** (experiência, seção 8). Alguns meses de uso, 1 a 2 xícaras por dia, o Americano como o mais pedido em casa, sempre pelo app mudando temperatura e volume, a cápsula que sai sozinha e o fim do pinga-pinga, o Americano que demora mais a extrair, só a limpeza normal e nenhum defeito. O app já se desconectou da conta, sem falhar no preparo. Fecha com o espresso tônica do Short `RK4gX2gJvdI`. Entram as fotos e os dois Shorts da Cecília.
 4. **As cápsulas NEO: quais existem, intensidade e o que fica de fora.** A tabela da seção 5, com o descafeinado e o leite fora.
 5. **Original na NEO, NEO na Original.** A NEO não aceita as cápsulas Original. Na Original, alguns cafés NEO entram com o Adaptador NEO Start (link). Responde 5 buscas do GSC.
-6. **App, Wi-Fi e pontos do Club.** O que o app faz, que dá para preparar sem ele e a contagem automática de pontos.
+6. **App, Wi-Fi e pontos do Club.** O que o app faz, que dá para preparar sem ele e a contagem automática de pontos, que a Cecília confirmou.
 7. **Quanto custa com o `CECI`.** A tabela da seção 6 e o custo por xícara contra a Original.
 8. **NEO ou Genio S.** Só a diferença que muda a decisão: variedade de bebidas contra cápsula de papel e café preto. Link para o `dolce-gusto-maquinas-qual-escolher` e o `dolce-gusto-genio-s-basic-vs-plus-vs-touch`.
-9. **Veredito, prós e contras** (`pros`/`cons` do JSON).
+9. **Veredito, prós e contras** (`pros`/`cons` do JSON). Prós da experiência: o descarte automático, sem pingar; temperatura e volume pelo app; pontos sozinhos. Contras: só café preto (ela sentiria falta de um chá), sem cápsula Original, o app que às vezes perde a conta.
 10. **Perguntas frequentes.**
 
 Review de produto: sem quadro "Leve se / Passe se" (o campo `decision` não vale para `reviewKind: produto`).
 
-## 8. Perguntas para a Cecília (bloqueio)
+## 8. Perguntas e respostas da Cecília (19/11/2026, pelo Bruno)
 
-O Bruno passa as respostas; o texto usa só o que ela disser.
+O texto usa só o que está nas respostas. Pergunta sem resposta não vira texto.
 1. Há quanto tempo usa a NEO? Comprou, ganhou ou recebeu da marca? (Vai à nota editorial.)
 2. Quais cafés NEO toma mais, e qual não gostou?
 3. Quantas xícaras por dia, em média?
@@ -152,6 +152,19 @@ O Bruno passa as respostas; o texto usa só o que ela disser.
 8. Algum defeito, luz ou aviso de manutenção? Já fez a limpeza ou a descalcificação?
 9. O que sente falta: leite, chá, descafeinado?
 10. O Short `RK4gX2gJvdI` mostra uma bebida gelada com limão na NEO: qual café e como foi feito?
+
+**Respostas:**
+
+1. Usa há alguns meses. **Comprou** a máquina: não houve envio da marca.
+2. O **Americano** é o campeão da casa, o favorito do Bruno. Não citou café de que não gostou: o texto não fala disso.
+3. De **1 a 2 xícaras** por dia.
+4. Usa **sempre pelo app** e costuma mudar a **temperatura e o volume**. O app já desconectou da conta, mas nunca falhou no preparo.
+5. Sim, os pontos do Club entram sozinhos.
+6. Gosta do preparo: a cápsula é **descartada sozinha** e **não pinga** depois. Alguns cafés demoram mais para extrair, como o Americano, pelo próprio tipo de preparo. Não comparou o barulho com a Genio S Touch: o texto não fala de barulho.
+7. As cápsulas usadas vão para o **lixo comum**. O texto não diz que ela composta; a compostagem fica como informação da marca.
+8. Nenhum defeito. Só a limpeza normal.
+9. Um **chá** seria bem-vindo. Leite e descafeinado não fazem falta para ela.
+10. **Espresso tônica:** água tônica, suco de limão, uma rodela de limão, gelo e um espresso da NEO por cima. Vai como receita curta no capítulo do dia a dia, com o Short.
 
 ## 9. FAQ (título "Perguntas frequentes")
 
@@ -167,11 +180,11 @@ O Bruno passa as respostas; o texto usa só o que ela disser.
 ## 10. Snippet e nota
 
 - **metaDescription (sugestão, 150 caracteres):** "CECI dá 10% na Dolce Gusto NEO. Veja o que a máquina faz, os cafés NEO, se a cápsula Original serve e quanto sai a máquina e a xícara com o código."
-- **Nota editorial:** depende da resposta 1 da seção 8. Molde: "A Cecília usa a NEO no dia a dia. Somos afiliados da Dolce Gusto e podemos receber comissão pelo cupom CECI." Até 3 linhas, sem data.
+- **Nota editorial:** "A Cecília comprou a NEO e usa a máquina há alguns meses. Somos afiliados da Dolce Gusto e podemos receber comissão pelo cupom CECI." Até 3 linhas, sem data.
 
 ## 11. Riscos
 
-- **Experiência inventada:** nada de sabor, barulho, rotina ou defeito sem a resposta da Cecília.
+- **Experiência inventada:** só o que está nas respostas da seção 8. Sem barulho, sem café de que ela não gostou, sem compostagem caseira.
 - **Avaliações de clientes da loja** (4,8 com 37 avaliações) não entram: o texto fala pela Cecília e pela ficha.
 - **"Indisponível para compra":** ver a seção 6. Reler no dia.
 - **Promessas da marca** ("como um barista", "xícara perfeita", "compostável em casa") vão atribuídas.
@@ -187,4 +200,5 @@ O Bruno passa as respostas; o texto usa só o que ela disser.
 
 ## Decisões
 
+- **19/11/2026:** respostas da Cecília pelo Bruno (seção 8). O portão de experiência fecha e a DG1 segue como review.
 - **19/11/2026:** GO do Bruno ("DG1 NEO"). Vira review de produto porque a Cecília usa a NEO, com a ressalva da seção 1: sem as respostas da seção 8, o texto sai como guia.
