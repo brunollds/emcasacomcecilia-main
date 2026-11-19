@@ -163,6 +163,17 @@ Já cobertos: tomara que caia, decote, protetor de mamilo, kit, Comfort Up e Sli
 
 **Dolce Gusto Negócios (CNPJ)**: o Bruno aprovou a DN1 a DN4 em 05/11/2026 (briefings na seção 1) e confirmou que o CECI soma com os 10% de CNPJ e com o desconto do combo. Fica no estoque só a DN5 (comodato ou comprar), sem fonte: o site não diz se a Nestlé tem comodato, e só o formulário responderia.
 
+**Dolce Gusto: o que o GSC e o Trends mostram fora dos 28 artigos** (19/11/2026). Evidência em [[Pesquisas-de-Pauta]], seção do dia. Preço sempre com o CECI aplicado.
+
+| Código | Pauta | Busca | Nota |
+|---|---|---|---|
+| DG1 | Dolce Gusto NEO vale a pena? A máquina, as cápsulas de papel e o preço com o CECI | Trends 12 meses: "dolce gusto neo" 10 contra 49 da Genio S e 27 da Mini Me (as duas têm artigo). Autocompletar: "neo vale a pena", "neo como usar", "neo cápsulas compatíveis", "neo latte". GSC (3 meses): "cápsulas NEO são diferentes das Original?" (30), "posso usar cápsula Original na NEO?" (15), "NEO compatíveis" (39) | Guia, sem teste: não temos a NEO. Loja em 19/11: NEO N1 a R$ 799 (110 V e 220 V, branca e preta), cápsulas NEO a R$ 20,23 a caixa de 10, só cafés pretos (8 sabores, 2 sem estoque). Com o CECI, R$ 719,10 e R$ 18,21 (conta; conferir no carrinho). Responder o que o `adaptador-neo-start-o-que-e` e o `dolce-gusto-maquinas-qual-escolher` não respondem |
+| DG2 | Dolce Gusto não sai água, não liga ou pisca a luz vermelha: o que fazer, por modelo | Autocompletar: "não sai água", "não puxa água", "não liga", "não esquenta", "não fura a cápsula", "luz vermelha piscando", "vazando água por baixo". Trends: "não sai água" 2, igual a "medidas dolce gusto", que nos dá 180 impressões em 3 meses na posição 2 | Nenhum artigo cobre (só a luz laranja, no `dolce-gusto-descalcificacao-passo-a-passo`). Fonte: manuais de cada máquina (a central da loja leva à documentação da Mini Me e da NEO e ao FAQ "Minha máquina parou de funcionar") e a assistência da Arno, (11) 2060-9777. Sem diagnóstico inventado: só o que o manual diz |
+| DG3 | Bebidas geladas na Dolce Gusto: quais cápsulas servem e como fazer | Trends: "dolce gusto gelado" 4, o maior do grupo. Autocompletar: "café gelado", "chá gelado", "frappé", "cappuccino gelado", "cafeteira gelado e quente". GSC: "cápsulas de chá gelado" (20), "lattes gelados" (9), "café frio ou latte gelado" (2) | Os artigos citam o gelado de passagem (a função da Genio S). A busca "gelado" na loja deu 2 itens em 19/11: conferir o catálogo e as receitas da loja no briefing |
+| DG4 | Cápsula Dolce Gusto sem lactose, sem açúcar e descafeinada: quais existem | Autocompletar de "capsula dolce gusto": "sem lactose", "sem açúcar", "descafeinado". Trends: "sem lactose" 1 | Pelo rótulo de cada cápsula. Pode entrar no lote B das fichas por sabor em vez de virar artigo próprio |
+
+Fora daqui: "tamanho da cápsula" e "tamanho da cafeteira" somam ~350 impressões em 3 meses, nas posições 4 a 6 e sem clique; vão como revisão do `tabela-medidas-dolce-gusto-ml-por-nivel` (seção 4), e não como URL nova. Lavazza (~16 impressões), Piccolo XS (~43, máquina fora de linha) e a função XL (~25) ficam sem pauta.
+
 **Hostinger: migração à mão, serviço a serviço** (proposta de 05/11/2026; o Bruno disse "ainda não").
 - Cada artigo cobre as duas origens: outra empresa (HostGator, GoDaddy e outras) ou uma conta antiga da Hostinger.
 - Nenhum usa as ferramentas de migração da Hostinger.
@@ -281,7 +292,7 @@ Site principal ou subdomínio: decisão do Bruno, ainda aberta. A PP5 (acima) co
 | SHEIN | Da pesquisa externa de 08/11, sem GO: "cupom alto, economia pequena" (mínimo e teto no carrinho); cupom do Japão por horário (seção só em japonês); o que "até 95%" compra de fato (amostra) | Viram seção na família antes de virar artigo. Precisam de regulamento local e, no carrinho, do teste do Bruno |
 | SHEIN | "Comprando na Black Friday, chega antes do Natal?" | Autocompletar de 08/11: fraco em PT ("shein entrega no natal"), mais forte em inglês ("shein christmas delivery cut off", "dates"). Por ora, vira FAQ na família `shein-black-friday` (seção 4) |
 | Nestlé Nutre | "Sustagen ou Nutren" em adulto e kids (formato "X ou Y", fora da série). No ar só existe a Senior (`nutren-senior-ensure-ou-sustagen-senior`) | Só pelo rótulo. Em kids, "na dúvida, o pediatra" e nunca fórmula infantil de 0 a 12 meses. Autocompletar de 08/11 |
-| Dolce Gusto | P2 app da Dolce Gusto, com os pontos da NEO; lote B das fichas por sabor (calorias por cápsula) | O lote B não tem briefing |
+| Dolce Gusto | DG1 a DG4 (19/11, seção 3); P2 app da Dolce Gusto, com os pontos da NEO; lote B das fichas por sabor (calorias por cápsula) | O lote B não tem briefing |
 | Sem parceiro definido | Lava e seca Samsung ou LG (GSC de 11/10); quantas xícaras por dia uma Dolce Gusto aguenta | A segunda não tem fonte oficial |
 
 ### Subdomínio da DAMIE
@@ -307,6 +318,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | /cupons da Max, Probiótica e Insider (sessão de cupons) | FAQ "influencer" e "mercado livre"; confirmar o title sem "(nov/2026)". Parte 3 de [[cupom-loja-primeira-pagina-0511]]. As partes 1 e 2 saíram no #600 e a FAQ "primeira compra" (também da Mais Mu e da Bagaggio, comparada com as boas-vindas) no #601, os dois na main | Cupom <loja> na 1ª página, 05/11 |
 | `cafeteira-escritorio-qual-escolher-custo-mes` | Link para a DN1 na seção "Dolce Gusto Negócios" e para a DN2 na seção de consultório, quando cada uma for ao ar | Pautas DN, 05/11 |
 | `black-friday-dolce-gusto` | A faixa do site já diz "COMEÇOU A BLACK FRIDAY", com cafés intensos a partir de R$ 15,90 e máquinas e combos fora da oferta. Reler a oferta e atualizar o guia | Sessão de artigos, 05/11 |
+| `tabela-medidas-dolce-gusto-ml-por-nivel` | Seção "Tamanho da máquina e da cápsula": as dimensões em cm de cada máquina (ficha da loja) e a cápsula. O GSC de 19/11 mostra ~350 impressões em 3 meses para "tamanho da cápsula", "tamanho da cafeteira" e "dimensões", nas posições 4 a 6 e sem clique | Pesquisa de pauta, 19/11 |
 | `clube-dolce-gusto-como-funciona` | "Dolce Gusto Club" no título SEO | Bing, 04/11 |
 | `nutren-senior-zero-lactose-ficha-tecnica` | "sem lactose" no título e na FAQ | Bing, 04/11 |
 | Receita `biscoitos-amanteigados-decorados` | "natalinos" e "glacê" no título, antes de dezembro | Bing, 04/11 |
