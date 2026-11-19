@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Moda Fitness"
 anexo_tipo: "Anexo-Moda"
-status: "briefing"
+status: "pr"
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "Job 2: reler os preços das quatro lojas e os códigos no carrinho, reabrir as peças da SHEIN no dia, redigir"
+proxima_acao: "upload das imagens (OK do Bruno), merge e deploy"
 bloqueado_por: null
 data_criacao: "2026-11-18"
 pauta_id: "DC1 (série Alternativas a <marca>; GO do Bruno em 18/11/2026)"
@@ -197,3 +197,20 @@ insatisfação, 180 por defeito; underwear só por defeito. SHEIN: pelo `tamanho
 - **Job 2, antes de redigir:** reabrir as cinco peças da SHEIN e ler mais um top; preços das quatro lojas no dia;
   carrinho com os dois códigos.
 - **Do Bruno:** nenhuma que trave.
+
+## 10. Redação, revisão e JSON (19/11/2026)
+
+- **SHEIN, peças escolhidas pelo Bruno** (links convertidos por ele; a WOLFOX não foi achada): Musera Sport 75%
+  poliamida e 25% elastano, XXS a XL, R$ 67,92; NcmRyu sem costura 90% poliamida e 10% elastano, S a XL, R$ 52,76;
+  Sodalemon 7/8 75% e 25%, S a XXL, R$ 86,28; Easithlete 90% poliéster e 10% elastano, PP a EG e plus 1XL a 3XL,
+  R$ 55,19; top VVX 90% poliamida e 10% elastano, XS a XL, R$ 61,66. **Só a Easithlete é de poliéster**: o texto diz a
+  fibra peça a peça e não "SHEIN = poliéster". Musera, Sodalemon e VVX com "translúcido: não" na ficha.
+- **Carrinho (sem compra):** Insider, Legging Easy R$ 169 → R$ 143,65 e Top Action R$ 99 → R$ 84,15 com o
+  EMCASACOMCECILIA (15%; a frase dos 5% para quem já comprou apareceu de novo, sem e-mail); Toda Up, Top Segunda Pele
+  R$ 169,90 → R$ 152,91 com o `MAUAD`. Short Motion R$ 101,15 é conta. Donna Carioca sem mudança no catálogo.
+- **A Toda Up não vende legging nem short:** no motivo 3 entram o top e a calcinha (link para o DC2).
+- **Revisão:** três lentes (fatos, regras e leitor, esta no Fable) com verificador por achado; 40 achados, aplicados os
+  válidos. Ficaram de fora: o aviso de "outro percentual para quem já comprou" na Insider (decisão do Bruno de manter
+  a /cupons/insider até o reteste) e o prazo de devolução da SHEIN (não lido).
+- **Imagens:** capa no padrão de painel lateral (Legging Easy da Insider e Top SkinUp da Toda Up, fotos oficiais);
+  corpo com a Easy e o Top Action da Insider, a Musera da SHEIN e o Top Segunda Pele da Toda Up (já no CDN).
