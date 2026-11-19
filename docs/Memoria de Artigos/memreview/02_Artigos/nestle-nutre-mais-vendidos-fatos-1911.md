@@ -43,4 +43,15 @@ Fonte: duas capturas de tela da vitrine de mais vendidos da loja, enviadas pelo 
 
 **Ordem sugerida:** NM1 (menor risco e sem artigo), NM2 (maior busca), NM6. As de Control e Proline pedem a leitura do rótulo e uma decisão do Bruno sobre entrar em produto de uso clínico.
 
-**Não lido:** ficha, rótulo e tabela nutricional de nenhum dos produtos; preços fora das capturas; se o CECI vale em cada um (Alfamino, Alfaré e fórmulas de 0 a 12 meses ficam fora).
+## 4. Leituras de 19/11 (Fortify e Novasource Proline)
+
+GO do Bruno para os dois; briefings em [[nutren-fortify-para-que-serve]] e [[novasource-proline-para-que-serve]].
+
+- **A loja não é VTEX:** a busca é `/catalogsearch/result/?q=`. A linha de comando recebe 403; ler pelo navegador.
+- **Fortify:** só a lata Sem Sabor de 360 g (6 porções de 60 g; 18 g de proteína e 263 kcal por porção) e o combo de 3. R$ 120,61 a lata e R$ 276,69 o combo, na Black Month.
+- **Novasource Proline:** caixinha de 200 ml em três sabores (20 g de proteína, 3 g de arginina e 2 g de prolina), combo de 10, pó de 330 g (11 porções, outra tabela) e litro sem sabor.
+- **`CECI` no carrinho:** 10% sobre o preço em promoção na lata do Fortify (R$ 120,61 para R$ 108,55) e no combo de baunilha do Proline (R$ 175,92 para R$ 158,33). O carrinho foi esvaziado depois.
+- **A faixa do topo anuncia um cupom de primeira compra da loja:** não é nosso e não entra em texto.
+- **Brinde de campanha:** um Mucilon de 160 g entrou grátis no carrinho.
+
+**Não lido:** rótulo de Active, Nestonutri e Control; preços fora das capturas; se o CECI vale em cada um (Alfamino, Alfaré e fórmulas de 0 a 12 meses ficam fora).

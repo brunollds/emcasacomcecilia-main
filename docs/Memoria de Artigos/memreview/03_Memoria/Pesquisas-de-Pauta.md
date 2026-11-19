@@ -15,7 +15,8 @@ Fatos em [[nestle-nutre-mais-vendidos-fatos-1911]]; pautas NM1 a NM8 na [[Fila-d
 - **Sem artigo nosso entre os dez mais vendidos:** Nutren Fortify, Novasource Proline (três sabores), Nutren Active, Nestonutri e Nutren Control.
 - **Trends (Brasil, 12 meses):** "nestonutri" 51, "nutren control" 40, "nutren active" 21, "novasource proline" 16, "nutren fortify" 5.
 - **Autocompletar:** "nestonutri ou ninho fases", "nestonutri e nestogeno é a mesma coisa", "nutren control ou glucerna", "nutren active ou senior", "nutren fortify ou nutren senior", "novasource proline ou cubitan".
-- **Risco:** Control (glicemia) e Proline (cicatrização) são de uso clínico; Nestonutri é de 1 a 3 anos. Nenhum rótulo foi lido.
+- **Risco:** Control (glicemia) e Proline (cicatrização) são de uso clínico; Nestonutri é de 1 a 3 anos.
+- **Lidos no mesmo dia, com GO:** Fortify (lata de 360 g com 6 porções; 18 g de proteína e 263 kcal por porção) e Novasource Proline (caixinha de 200 ml com 20 g de proteína; o pó tem outra tabela). O `CECI` deu 10% sobre o preço em promoção nos dois. Briefings [[nutren-fortify-para-que-serve]] e [[novasource-proline-para-que-serve]].
 
 ---
 
