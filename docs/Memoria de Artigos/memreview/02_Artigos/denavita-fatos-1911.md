@@ -5,9 +5,9 @@ sessão do cadastro (ainda fora da `main` quando este arquivo foi escrito). Este
 busca, Trends, reputação, catálogo e as pautas propostas. Leituras de 19/11/2026: autocompletar pelo serviço de
 sugestões do Google (`client=firefox`, `hl=pt-BR`, `gl=br`, sem login, 24 consultas, nenhum bloqueio), Google Trends
 (Brasil, 12 meses), Reclame Aqui e site no navegador do app, sem login e sem finalizar compra. **O link de afiliado
-da GoGroup (`denavita.gogroup.com.br/emcasacomcecilia`) não foi aberto e não deve ser.** Sem GO: nenhum briefing ainda.
+da GoGroup (`denavita.gogroup.com.br/emcasacomcecilia`) não foi aberto e não deve ser.** **GO do Bruno em 19/11/2026 no pacote todo (DV1 a DV7): briefings na seção 1 da Fila.**
 
-## 1. Pacote inicial proposto (espera o GO)
+## 1. Pacote inicial (GO em 19/11, com briefing)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 19/11) |
 |---|---|---|---|---|
@@ -118,3 +118,15 @@ da GoGroup (`denavita.gogroup.com.br/emcasacomcecilia`) não foi aberto e não d
 2. A Cecília tem algum produto da Denavita (para a DV5 poder ter foto e uso próprio)?
 3. A parceira passou regras da Black Friday (o cupom soma com o "Leve 3, Pague 2" e com os kits)?
 4. O teste do Leve 3, Pague 2 e do Pix pede CPF: fica para você na semana de 27/11?
+
+## 8. Decisões e leituras a mais (19/11/2026)
+
+- **Bruno, 19/11: DV7 "é boa ou vale a pena"** e, em seguida, **"GO no pacote todo"** (DV1 a DV7). A DV5 fica
+  com o Laranja Moro e a DV7 com a marca.
+- **Fichas dos mais vendidos (para a DV7):** Tons, 30 cápsulas, 1 ao dia com refeição (coenzima Q10, pinho marítimo,
+  vitamina A; cápsula de gelatina); Trio Magnésio, 60 cápsulas, 2 ao dia (bisglicinato, taurato e malato; "pode conter
+  soja, peixe, crustáceos, pinoli e ovo"; dióxido de titânio na cápsula); NAC + Polivitamínico, 60 cápsulas, 2 ao dia;
+  Coenzima Q10, Ômega 3 e Vitamina E, 30 cápsulas, 1 ao dia; Creatina 250 g, 3 g ao dia; Jejoom 6 g em 100 ml;
+  Digestino 6 g em 200 ml; Colágeno 12 g em 200 ml (peso do pote dos três pós não lido). Conta por dia na DV7.
+- Opções "leve mais" das fichas: Trio Magnésio "Leve 3 e Pague 2" R$ 93,80; NAC "Compre 2 Leve 3" R$ 99,80; Coenzima
+  Q10 "Compre 2 Leve 3" R$ 131,80.
