@@ -104,3 +104,15 @@ navegador do app, sem login, sem finalizar compra e **sem abrir o link de afilia
 - **Popup do cadastro por e-mail:** "VOCÊ GANHOU ATÉ 70% OFF NO SITE + (1) PRODUTO GRÁTIS": nunca citar.
 - **Garrafa Térmica Fresh + Ebook** (ficha): 650, 950 e 1200 ml; inox 304 (18/8); parede dupla a vácuo; livre de BPA; até 24h gelada e até 12h quente; tampa na lava-louças, corpo à mão; não recomendada para gaseificados; garantia de 1 ano contra defeitos de fabricação; cores com acréscimo de R$ 20 a R$ 30. O ebook não é explicado na ficha.
 - **Campanha:** página `/lp/piscou-perdeu-bf26/`.
+
+## 8. Redação do pacote (19/11, sessão de artigos)
+
+- **Releituras da tarde:** frete grátis em duas fontes da loja que divergem: a Central de Ajuda diz R$ 199,90 (DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP) e o regulamento em `checkout.gocase.com.br/regulamento-frete` diz R$ 229,90 para o mesmo grupo; R$ 399 nos demais nas duas. Os artigos dão os dois e mandam conferir com o CEP.
+- **Empresa:** matriz 22.165.464/0001-90 em Fortaleza (CE), aberta em 31/03/2015; o /0003-52 do rodapé é filial em Extrema (MG), aberta em 2020 (consulta pública do CNPJ). Lojas: Iguatemi Fortaleza, ParkShopping Brasília e Anália Franco (SP).
+- **"Compre 1 e Leve 2" das capinhas:** "não é cumulativa com outras ofertas ou cupons ativos" (Central). O CECILIAA não soma, pela regra da loja.
+- **Parcelamento:** a Central diz que todo parcelamento tem juros; a vitrine mostra 3x sem juros. Fora dos textos.
+- **Ebook:** vai por e-mail depois da nota fiscal; tema não informado.
+- **Garantias por linha (Central):** térmicos 1 ano; capinhas 3 a 6 meses; têxteis 3 meses (fichas das bolsas: 90 dias); Mala Bold fora (90 dias numa página, 1 ano em outra). Joy Pro: 14" e 15,6" na mesma ficha; o texto usa 36 × 20 × 2 cm.
+- **Reclame Aqui relido:** 6 meses iguais aos de 19/11 de manhã; 12 meses (01/11/2025 a 31/10/2026) 16.080 recebidas, 87,5% resolvidas, 5 dias e 18 horas.
+- **Revisões:** Fable (Job 3) e parecer externo do ChatGPT (`docs/auditoria-copy-artigos/gocase-gc1-gc6-20261119-farol/`), aplicado com a foto do corpo do GC2 mantida e os números do Reclame Aqui confirmados (6.801, não 6.802).
+- **IDs:** 1101 a 1106 (1095 a 1100 são da Pink Cheeks).

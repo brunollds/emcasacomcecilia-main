@@ -176219,6 +176219,511 @@
       "verified_at": "2026-11-19T19:14:31.763Z",
       "verification_etag_or_digest": "3cc6866e2810e415a9361ff35ad26a7bfab3f68b46de662901d07da5c0196841",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/black-friday-gocase-capa.webp",
+      "local_url": "/images/reviews/gocase/black-friday-gocase-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34964,
+      "sha256": "433bd4aed0f2447652a0b28318a782a51a9ac76fc454ff3322933ba890ea0411",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-gocase-capa.webp",
+      "storage_filename": "black-friday-gocase-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-gocase.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-gocase.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/black-friday-gocase-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274312,
+          "column": 15,
+          "literal": "/images/reviews/gocase/black-friday-gocase-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/433bd4aed0f2447652a0b28318a782a51a9ac76fc454ff3322933ba890ea0411/black-friday-gocase-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/433bd4aed0f2447652a0b28318a782a51a9ac76fc454ff3322933ba890ea0411/black-friday-gocase-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "433bd4aed0f2447652a0b28318a782a51a9ac76fc454ff3322933ba890ea0411",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/cupom-gocase-como-usar-capa.webp",
+      "local_url": "/images/reviews/gocase/cupom-gocase-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31490,
+      "sha256": "c9a64cb2ba64e85a8e31200695496924c54bf501ba468d61806a8f2efb325903",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-gocase-como-usar-capa.webp",
+      "storage_filename": "cupom-gocase-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-gocase-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-gocase-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/cupom-gocase-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274156,
+          "column": 15,
+          "literal": "/images/reviews/gocase/cupom-gocase-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c9a64cb2ba64e85a8e31200695496924c54bf501ba468d61806a8f2efb325903/cupom-gocase-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c9a64cb2ba64e85a8e31200695496924c54bf501ba468d61806a8f2efb325903/cupom-gocase-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "c9a64cb2ba64e85a8e31200695496924c54bf501ba468d61806a8f2efb325903",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/cupom-gocase-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/gocase/cupom-gocase-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33610,
+      "sha256": "b3c4172bc1141a434c39e84f6fea5578238d648d3d9df74a29f0174bba0fee05",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-gocase-primeira-compra-capa.webp",
+      "storage_filename": "cupom-gocase-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-gocase-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-gocase-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/cupom-gocase-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 275086,
+          "column": 15,
+          "literal": "/images/reviews/gocase/cupom-gocase-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b3c4172bc1141a434c39e84f6fea5578238d648d3d9df74a29f0174bba0fee05/cupom-gocase-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b3c4172bc1141a434c39e84f6fea5578238d648d3d9df74a29f0174bba0fee05/cupom-gocase-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "b3c4172bc1141a434c39e84f6fea5578238d648d3d9df74a29f0174bba0fee05",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-copo-life-oficial.webp",
+      "local_url": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7108,
+      "sha256": "141fb0abd12b894bfc7d6089f5c3431ec30e07413e6961e3068ae8228c59a539",
+      "width": 602,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-copo-life-oficial.webp",
+      "storage_filename": "gocase-copo-life-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-e-boa.json",
+        "content/reviews/gocase-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-e-boa.json",
+          "line": 131,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/gocase-reclame-aqui-nota-reputacao.json",
+          "line": 134,
+          "column": 17,
+          "literal": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274758,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 275019,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/141fb0abd12b894bfc7d6089f5c3431ec30e07413e6961e3068ae8228c59a539/gocase-copo-life-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/141fb0abd12b894bfc7d6089f5c3431ec30e07413e6961e3068ae8228c59a539/gocase-copo-life-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "141fb0abd12b894bfc7d6089f5c3431ec30e07413e6961e3068ae8228c59a539",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-e-boa-capa.webp",
+      "local_url": "/images/reviews/gocase/gocase-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34992,
+      "sha256": "473926feb5497e5c4046949e66378ef1e3ed9520df199ac469a9becf02cdcb88",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-e-boa-capa.webp",
+      "storage_filename": "gocase-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/gocase-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274656,
+          "column": 15,
+          "literal": "/images/reviews/gocase/gocase-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/473926feb5497e5c4046949e66378ef1e3ed9520df199ac469a9becf02cdcb88/gocase-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/473926feb5497e5c4046949e66378ef1e3ed9520df199ac469a9becf02cdcb88/gocase-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "473926feb5497e5c4046949e66378ef1e3ed9520df199ac469a9becf02cdcb88",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/gocase/gocase-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34952,
+      "sha256": "cf4c149ddc47482dfb43d6ce2188ad003921c2bc6b622851c8ac5cfc568ab256",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-e-confiavel-capa.webp",
+      "storage_filename": "gocase-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/gocase-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274520,
+          "column": 15,
+          "literal": "/images/reviews/gocase/gocase-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cf4c149ddc47482dfb43d6ce2188ad003921c2bc6b622851c8ac5cfc568ab256/gocase-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cf4c149ddc47482dfb43d6ce2188ad003921c2bc6b622851c8ac5cfc568ab256/gocase-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "cf4c149ddc47482dfb43d6ce2188ad003921c2bc6b622851c8ac5cfc568ab256",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
+      "local_url": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8724,
+      "sha256": "65417c2c79f7ba91ad9e15f44e160ebf0299554d8f91ab83f1ed5beed7c1f378",
+      "width": 450,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-garrafa-fresh-oficial.webp",
+      "storage_filename": "gocase-garrafa-fresh-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-gocase-primeira-compra.json",
+        "content/reviews/gocase-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-gocase-primeira-compra.json",
+          "line": 100,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/gocase-e-boa.json",
+          "line": 108,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274735,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 275157,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/65417c2c79f7ba91ad9e15f44e160ebf0299554d8f91ab83f1ed5beed7c1f378/gocase-garrafa-fresh-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/65417c2c79f7ba91ad9e15f44e160ebf0299554d8f91ab83f1ed5beed7c1f378/gocase-garrafa-fresh-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "65417c2c79f7ba91ad9e15f44e160ebf0299554d8f91ab83f1ed5beed7c1f378",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-garrafa-tote-copo-oficial.webp",
+      "local_url": "/images/reviews/gocase/gocase-garrafa-tote-copo-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24706,
+      "sha256": "5be24c407d1260189e7e650cc3d764a225619804df3102f48d04b1e08e90dc19",
+      "width": 1314,
+      "height": 600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-garrafa-tote-copo-oficial.webp",
+      "storage_filename": "gocase-garrafa-tote-copo-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-gocase.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-gocase.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-garrafa-tote-copo-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274375,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-garrafa-tote-copo-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5be24c407d1260189e7e650cc3d764a225619804df3102f48d04b1e08e90dc19/gocase-garrafa-tote-copo-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5be24c407d1260189e7e650cc3d764a225619804df3102f48d04b1e08e90dc19/gocase-garrafa-tote-copo-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "5be24c407d1260189e7e650cc3d764a225619804df3102f48d04b1e08e90dc19",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25854,
+      "sha256": "9e036cbe2e9dc4b7c7a2fc8ac8aea11e1af47bfbbe0f70875d8b9eb49a66323b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "gocase-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-reclame-aqui-nota-reputacao.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274914,
+          "column": 15,
+          "literal": "/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9e036cbe2e9dc4b7c7a2fc8ac8aea11e1af47bfbbe0f70875d8b9eb49a66323b/gocase-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9e036cbe2e9dc4b7c7a2fc8ac8aea11e1af47bfbbe0f70875d8b9eb49a66323b/gocase-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "9e036cbe2e9dc4b7c7a2fc8ac8aea11e1af47bfbbe0f70875d8b9eb49a66323b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-tote-daily-oficial.webp",
+      "local_url": "/images/reviews/gocase/gocase-tote-daily-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23060,
+      "sha256": "38ca744a2b51f1e52bcc3cfd3746aa2e6ce7eaef4281cb5dbd82f749ce47e1fa",
+      "width": 914,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-tote-daily-oficial.webp",
+      "storage_filename": "gocase-tote-daily-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-e-boa.json",
+        "content/reviews/gocase-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-e-boa.json",
+          "line": 183,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-tote-daily-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/gocase-e-confiavel.json",
+          "line": 111,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-tote-daily-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274602,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-tote-daily-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274810,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-tote-daily-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/38ca744a2b51f1e52bcc3cfd3746aa2e6ce7eaef4281cb5dbd82f749ce47e1fa/gocase-tote-daily-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/38ca744a2b51f1e52bcc3cfd3746aa2e6ce7eaef4281cb5dbd82f749ce47e1fa/gocase-tote-daily-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T20:45:43.319Z",
+      "verification_etag_or_digest": "38ca744a2b51f1e52bcc3cfd3746aa2e6ce7eaef4281cb5dbd82f749ce47e1fa",
+      "verification_status": "verified"
     }
   ]
 }

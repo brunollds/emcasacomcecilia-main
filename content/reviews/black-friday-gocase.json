@@ -1,0 +1,208 @@
+{
+  "id": 1102,
+  "slug": "black-friday-gocase",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIAA",
+  "affiliate": "gocase",
+  "type": "Guia de Black Friday",
+  "title": "Black Friday Gocase 2026: preços de garrafas, copos e bolsas com o CECILIAA",
+  "seoTitle": "Black Friday Gocase 2026: promoções e o cupom de 5%",
+  "description": "Compare os preços de garrafas, copos e bolsas na Black Friday da Gocase, veja a conta com o CECILIAA e confira a regra do Leve 2, Pague 1.",
+  "metaDescription": "CECILIAA dá 5% OFF na Gocase e somou com preços de Black Friday nos nossos testes. Compare garrafas, copos e bolsas e confira o frete.",
+  "image": "/images/reviews/gocase/black-friday-gocase-capa.webp",
+  "imageAlt": "Capa com o logo da Gocase, o título “Black Friday”, o cupom CECILIAA de 5% e, em foto oficial da loja, a garrafa Fresh, a Tote Daily preta e o copo Life.",
+  "cta": {
+    "text": "Abra o site pelo botão e monte o carrinho. No checkout, o campo de cupom só aceita o código depois da identificação com e-mail e CPF; digite CECILIAA e confira a linha Desconto (CECILIAA) e o total antes de pagar.",
+    "label": "Ir para a Gocase",
+    "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Não usamos os produtos. Preços lidos no site oficial e cupom testado no checkout. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-gocase-como-usar"
+    },
+    {
+      "slug": "gocase-e-boa"
+    },
+    {
+      "slug": "cupom-gocase-primeira-compra"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Na Black Friday da Gocase, o CECILIAA deu mais 5% OFF em produtos já em promoção nos nossos testes. Confira os preços de garrafas, copos e bolsas com o código. Se estiver comprando capinhas, o regulamento do Leve 2, Pague 1 exclui cupons. A loja não divulgou a data de fim nas páginas consultadas."
+      ]
+    },
+    {
+      "heading": "Garrafas e copos: quanto saem com o CECILIAA",
+      "paragraphs": [
+        "Entre os três térmicos que comparamos, a Urban de 500 ml tem o menor preço. A Fresh tem 650 ml na versão da tabela, e o Life de 880 ml vem com alça e canudo.",
+        "Os preços são da leitura de 19/11. Nas duas tabelas, calculamos 5% de desconto sobre o valor anunciado, com o desconto arredondado ao centavo como nos carrinhos testados. O frete depende do seu CEP."
+      ],
+      "comparisonTable": {
+        "caption": "Preço anunciado e simulação com 5% OFF no valor dos produtos.",
+        "headers": [
+          "Produto",
+          "Preço na loja",
+          "Com CECILIAA"
+        ],
+        "rows": [
+          [
+            "Garrafa Térmica Fresh + Ebook, 650 ml, Clear",
+            "R$ 99,90",
+            "R$ 94,90"
+          ],
+          [
+            "Copo Térmico Life + Ebook, 880 ml, Clear",
+            "R$ 99,90",
+            "R$ 94,90"
+          ],
+          [
+            "Garrafa Térmica Urban + Ebook, 500 ml, Futurist",
+            "R$ 89,90",
+            "R$ 85,40"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Com o código, a economia estimada é de R$ 5,00 na Fresh e no Life e de R$ 4,50 na Urban. Confira tamanho, cor e total no checkout."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/gocase/gocase-garrafa-tote-copo-oficial.webp",
+          "alt": "Montagem com a garrafa Fresh rosa, a Tote Daily preta e o copo Life branco da Gocase.",
+          "caption": "Fresh, Tote Daily e Life em fotos da Gocase. Os preços das tabelas valem para as versões indicadas.",
+          "objectFit": "contain",
+          "aspectRatio": 2.19
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Garrafa Fresh na Gocase",
+          "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Copo Life na Gocase",
+          "href": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8747",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Garrafa Urban Futurist na Gocase",
+          "href": "https://www.gocase.com.br/garrafa-termica-urban-futurist/p/5523",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Totes e bolsas: compare a versão que você quer",
+      "paragraphs": [
+        "A Tote Mini e a Moove Manuscrita têm o mesmo preço nesta leitura. Se quer levar notebook, confira as medidas da bolsa e do compartimento no [guia de produtos da Gocase](/reviews/gocase-e-boa)."
+      ],
+      "comparisonTable": {
+        "caption": "Preço anunciado na versão indicada e simulação com 5% OFF.",
+        "headers": [
+          "Produto",
+          "Preço na loja",
+          "Com CECILIAA"
+        ],
+        "rows": [
+          [
+            "Tote Daily, Clear",
+            "R$ 159,90",
+            "R$ 151,90"
+          ],
+          [
+            "Tote Mini, Clear",
+            "R$ 149,90",
+            "R$ 142,40"
+          ],
+          [
+            "Bolsa Moove, Manuscrita",
+            "R$ 149,90",
+            "R$ 142,40"
+          ],
+          [
+            "Bolsa Joy Pro, Clear",
+            "R$ 199,90",
+            "R$ 189,90"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Ver a Tote Daily na Gocase",
+          "href": "https://www.gocase.com.br/totebag-daily-clear/p/5916",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Piscou Perdeu e Leve 2, Pague 1",
+      "paragraphs": [
+        "A [vitrine do Piscou Perdeu](https://www.gocase.com.br/lp/piscou-perdeu-bf26/garrafa-fresh) separa as ofertas por produto. Use as abas para encontrar seu modelo e confira o preço da cor ou estampa que vai comprar.",
+        "No [Leve 2, Pague 1 das capinhas](https://gocase.goconnect360.com.br/hc/gocase/articles/1752173798-promocao-compre-1-e-leve-2-entenda-como-funciona), coloque duas capinhas participantes no mesmo carrinho. A loja desconta automaticamente a de menor preço. O regulamento exclui cupons nessa oferta."
+      ]
+    },
+    {
+      "heading": "O cupom soma com a Black Friday?",
+      "paragraphs": [
+        "Nos nossos testes, o [cupom Gocase](/cupons/gocase) CECILIAA deu 5% sobre preços de Black Friday. Em um carrinho, a Tote Mini em promoção fazia parte de um pedido de R$ 379,70 em produtos. Com o código, o valor dos produtos caiu para R$ 360,71."
+      ]
+    },
+    {
+      "heading": "Frete grátis na Black Friday",
+      "paragraphs": [
+        "O [regulamento de frete da Gocase](https://checkout.gocase.com.br/regulamento-frete) informa frete grátis na entrega Normal acima de R$ 229,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP, e acima de R$ 399,00 nos demais estados. Conta o valor dos produtos depois dos descontos.",
+        "A [Central de Ajuda](https://gocase.goconnect360.com.br/hc/gocase/articles/1752173798-promocao-de-frete-gratis) ainda exibe R$ 199,90 para o primeiro grupo. Na hora de comprar, informe o CEP e confira o frete no resumo do pedido depois de aplicar o cupom.",
+        "Pedidos com mala de bordo ou mochila de rodinhas ficam fora da promoção de frete."
+      ]
+    },
+    {
+      "heading": "Até quando vai a Black Friday da Gocase?",
+      "paragraphs": [
+        "A Gocase exibe um contador na vitrine, mas as páginas consultadas não traziam uma data de fim da campanha. Abra a oferta do modelo que você quer e confirme o preço no carrinho."
+      ]
+    },
+    {
+      "heading": "Como usar o código",
+      "bullets": [
+        "Abra a loja, monte o carrinho e clique em “Finalizar compra”.",
+        "Informe e-mail e CPF para o campo aceitar o código.",
+        "Cole CECILIAA, com dois A no fim, em “Tem um cupom?”. Clique em “Aplicar” e confira a linha “Desconto (CECILIAA)”."
+      ],
+      "postParagraphs": [
+        "O passo a passo com as telas está em [como usar o cupom CECILIAA na Gocase](/reviews/cupom-gocase-como-usar)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Gocase tem Black Friday? A vitrine da Gocase mostra o Esquenta Black Friday e o Piscou Perdeu, com ofertas em térmicos e bolsas, entre outras linhas.",
+        "Até quando vai a Black Friday da Gocase? As páginas consultadas exibiam um contador, sem data de fim publicada. Confira o preço do seu modelo no carrinho.",
+        "O cupom Gocase soma com a Black Friday? Nos nossos testes, os 5% do CECILIAA entraram sobre preços de Black Friday. O regulamento do Leve 2, Pague 1 das capinhas exclui cupons nessa oferta.",
+        "O cupom Gocase dá frete grátis? O CECILIAA dá 5% OFF nos produtos do site oficial. O frete grátis da entrega Normal segue o valor do pedido depois dos descontos e a regra para o seu CEP. Confira o total antes de pagar."
+      ]
+    }
+  ]
+}

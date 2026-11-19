@@ -1,0 +1,156 @@
+{
+  "id": 1101,
+  "slug": "cupom-gocase-como-usar",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIAA",
+  "affiliate": "gocase",
+  "type": "Guia & Cupons",
+  "title": "Cupom Gocase: como aplicar o CECILIAA no checkout e com o que ele soma",
+  "seoTitle": "Como usar o cupom CECILIAA na Gocase, 5% OFF",
+  "description": "Saiba onde digitar o CECILIAA na Gocase, veja os três carrinhos em que o cupom deu 5% e confira a exceção da oferta de capinhas e a regra do frete grátis.",
+  "metaDescription": "O cupom CECILIAA dá 5% OFF na Gocase, para cliente novo e antigo, e somou com os preços da Black Friday. Veja onde digitar e a conta dos testes.",
+  "image": "/images/reviews/gocase/cupom-gocase-como-usar-capa.webp",
+  "imageAlt": "Capa com o logo da Gocase, o título “Como usar o cupom”, o cupom CECILIAA de 5% e, em foto oficial da loja, a garrafa Fresh rosa e o copo Life branco.",
+  "cta": {
+    "text": "Abra a loja pelo botão desta página, monte o carrinho e clique em Finalizar compra. Depois de se identificar com e-mail e CPF, digite CECILIAA no campo Tem um cupom? e clique em Aplicar.",
+    "label": "Ir para a Gocase",
+    "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Cupom testado no checkout do site oficial. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "black-friday-gocase"
+    },
+    {
+      "slug": "cupom-gocase-primeira-compra"
+    },
+    {
+      "slug": "gocase-e-confiavel"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Use CECILIAA, com dois A no fim, para ter 5% OFF no site oficial da Gocase, na primeira compra ou nas seguintes. No checkout, informe e-mail e CPF e cole o código em “Tem um cupom?”. Nos nossos testes, o desconto também entrou sobre os preços da Black Friday."
+      ]
+    },
+    {
+      "heading": "Onde digitar o cupom na Gocase",
+      "paragraphs": [
+        "Você pode copiar o CECILIAA da [página do cupom Gocase](/cupons/gocase). Deixe o código à mão para aplicar no fechamento do pedido."
+      ],
+      "bullets": [
+        "**Abra o checkout.** Coloque os produtos no carrinho e clique em “Finalizar compra”.",
+        "**Identifique-se.** Informe e-mail e CPF para o campo aceitar o código.",
+        "**Aplique o código.** Cole CECILIAA em “Tem um cupom?”, no resumo do pedido, e clique em “Aplicar”.",
+        "**Confira o desconto.** Procure a linha “Desconto (CECILIAA)” antes de pagar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp",
+          "alt": "Resumo do checkout da Gocase com o cupom CECILIAA aplicado: desconto de R$ 18,99 sobre R$ 379,70 em produtos e total de R$ 360,71",
+          "caption": "O CECILIAA aplicado no resumo do checkout. A linha de desconto mostra quanto o cupom tirou do pedido.",
+          "objectFit": "contain",
+          "aspectRatio": 0.65
+        }
+      ]
+    },
+    {
+      "heading": "Quanto o CECILIAA descontou nos nossos carrinhos",
+      "paragraphs": [
+        "Testamos três carrinhos em 19/11. O CECILIAA tirou 5% do valor dos produtos em todos eles."
+      ],
+      "comparisonTable": {
+        "caption": "Carrinhos testados, com 5% sobre o total dos produtos",
+        "headers": [
+          "Carrinho",
+          "Produtos",
+          "Desconto (5%)",
+          "Produtos com o cupom"
+        ],
+        "rows": [
+          [
+            "Quatro produtos com preço da GoBlack",
+            "R$ 789,60",
+            "− R$ 39,48",
+            "R$ 750,12"
+          ],
+          [
+            "Dois Copos Térmicos Moove a preço cheio e a Tote Mini em promoção",
+            "R$ 379,70",
+            "− R$ 18,99",
+            "R$ 360,71"
+          ],
+          [
+            "Pedido com frete grátis",
+            "R$ 319,70",
+            "− R$ 15,99",
+            "R$ 303,71"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "No seu pedido, vale o que aparece na linha Desconto (CECILIAA) do checkout."
+      ]
+    },
+    {
+      "heading": "O cupom soma com a Black Friday e com promoção?",
+      "paragraphs": [
+        "Nos nossos testes, sim. No primeiro carrinho, todos os produtos eram da GoBlack, a campanha de Black Friday da loja, e os 5% saíram sobre o preço deles. No segundo, a Tote Mini estava em promoção, de R$ 219,90 por R$ 149,90, e também ganhou o desconto.",
+        "O [regulamento do Compre 1 e Leve 2](https://gocase.goconnect360.com.br/hc/gocase/articles/1752173798-promocao-compre-1-e-leve-2-entenda-como-funciona) exclui o uso de cupons nessa oferta de capinhas. Na vitrine ela aparece como “Leve 2, Pague 1”.",
+        "Para quem nunca comprou na loja, veja o [cupom na primeira compra](/reviews/cupom-gocase-primeira-compra). Para a campanha, veja [Black Friday na Gocase](/reviews/black-friday-gocase)."
+      ]
+    },
+    {
+      "heading": "Frete grátis: a regra por estado",
+      "paragraphs": [
+        "O [regulamento de frete da Gocase](https://checkout.gocase.com.br/regulamento-frete) informa frete grátis na entrega Normal acima de R$ 229,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP, e acima de R$ 399,00 nos demais estados. Conta o valor dos produtos depois dos descontos.",
+        "A [Central de Ajuda](https://gocase.goconnect360.com.br/hc/gocase/articles/1752173798-promocao-de-frete-gratis) ainda exibe R$ 199,90 para o primeiro grupo. Na hora de comprar, informe o CEP e confira o frete no resumo do pedido depois de aplicar o cupom.",
+        "Pedidos com mala de bordo ou mochila de rodinhas ficam fora da promoção de frete."
+      ]
+    },
+    {
+      "heading": "Se o código não entrar",
+      "paragraphs": [
+        "Se o desconto não aparecer, confira três coisas antes de pagar."
+      ],
+      "bullets": [
+        "**A grafia.** CECILIAA, com dois A, tudo junto e sem espaço antes ou depois.",
+        "**A identificação.** O campo só aceita o código depois de você informar e-mail e CPF no checkout.",
+        "**A linha de desconto.** Ela aparece no resumo do pedido, como Desconto (CECILIAA), quando o cupom entra."
+      ],
+      "postParagraphs": [
+        "Confira as [condições do cupom Gocase](/cupons/gocase). Se é seu primeiro pedido, veja também [quem vende, como a loja entrega e como funcionam as trocas](/reviews/gocase-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Onde coloco o cupom na Gocase? Clique em “Finalizar compra”, informe e-mail e CPF e cole CECILIAA em “Tem um cupom?”. Clique em “Aplicar” e confira os 5% no resumo do pedido.",
+        "O cupom Gocase soma com a Black Friday? Nos nossos testes, sim: os 5% entraram sobre produtos da GoBlack e sobre uma bolsa em promoção. A promoção de capinhas Compre 1 e Leve 2 fica de fora, pela regra da loja.",
+        "O cupom vale para quem já comprou? Sim. O CECILIAA dá 5% OFF no site oficial para cliente novo e antigo.",
+        "O cupom Gocase dá frete grátis? O CECILIAA dá 5% OFF nos produtos do site oficial. O frete grátis da entrega Normal segue o valor do pedido depois dos descontos e a regra para o seu CEP. Confira o total antes de pagar.",
+        "O cupom vale no Mercado Livre? O CECILIAA é um código do site oficial da Gocase e entra no checkout de lá. Não conferimos marketplaces nem o TikTok Shop."
+      ]
+    }
+  ]
+}
