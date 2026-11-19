@@ -22,6 +22,7 @@ não tem link próprio: o `offerUrl` é o site oficial.
 | Cupom EMCASACOMCECILIA: 10% OFF, cliente novo e antigo | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `colaedecora`) | 2026-11-19 | 2026-12-01 | | Alta |
 | Teste: Quadro Infantil Oração Santo Anjo de R$ 99,90 por R$ 79,90 + Prateleira de Livros 50cm Rosa - Theo de R$ 199,90 por R$ 59,90; R$ 139,80 → −R$ 13,98 → R$ 125,82; checkout com "Cupom ativo R$ 13,98" | teste_carrinho | Carrinho lateral e resumo do checkout, sem login, parado no pedido de e-mail | 2026-11-19 | 2026-12-01 | Print do carrinho no `cartPrint` | Alta |
 | Pix pelo mesmo preço do cartão à vista (1x R$ 79,90 nos dois) | condicao_comercial_volatil | Formas de pagamento da página de produto | 2026-11-19 | 2026-12-19 | Sem desconto próprio no Pix | Média |
+| Teste 2 (Bruno): 5 Cadeiras Infantis Brancas - Theo a R$ 159,90; R$ 799,50 → "Cupom aplicado (10% OFF)" −R$ 79,95 → R$ 719,55, "OBA! SEU FRETE É GRÁTIS", e com o Pix escolhido o valor ficou em R$ 719,55 | teste_carrinho | Prints do Bruno (carrinho e pagamento), sem publicar o CEP | 2026-11-19 | 2026-12-01 | Confirma o cupom no Pix e o frete grátis acima de R$ 599 no Sudeste | Alta |
 | Frete grátis a partir de R$ 599 em produtos ("todo o Brasil") | condicao_comercial_volatil | `/pagina/frete-gratis.html` | 2026-11-19 | 2026-12-19 | A gaveta do carrinho disse "Para as regiões Sul e Sudeste": divergência; a página manda conferir no checkout | Média |
 | Até 10x sem juros (faixa do site); parcela conforme o valor | condicao_comercial_volatil | Faixa do topo e vitrine | 2026-11-19 | 2026-12-19 | | Alta |
 | Cupom próprio de primeira compra no topo do site | condicao_comercial_volatil | Faixa do topo | 2026-11-19 | 2026-12-19 | Não citar | Alta |
@@ -34,6 +35,7 @@ não tem link próprio: o `offerUrl` é o site oficial.
 |---|---|---|---|---|---|
 | Trocas: até 7 dias corridos do recebimento, pelo sistema `lojacolaedecora.troque.app.br`; embalagem original, sem uso, etiquetas e nota fiscal | fato_oficial | `/pagina/trocas-e-devolucoes` | 2026-11-19 | 2027-02-19 | O carrinho anuncia "1ª devolução grátis" |
 | Empresa: MULLER & SPENGLER STORE LTDA | fato_oficial | Rodapé do checkout | 2026-11-19 | 2027-02-19 | |
+| Linhas: almofadas, quadros, móbiles, tapetes, móveis (camas, escrivaninhas, cadeiras, estantes; linha montessoriana, como a cama montessoriana e a estante Montessori), roupa de cama, enfeites, prateleiras e organizadores, brinquedos, bastidores, macramês e pelúcias | fato_oficial | Menu do site, `/pagina/cama-montessoriana-infantil.html` e vitrine | 2026-11-19 | 2027-02-19 | Base do `aboutBrand` ("móveis montessorianos" e "móbiles") |
 
 ---
 
