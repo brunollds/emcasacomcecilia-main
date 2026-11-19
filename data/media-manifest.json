@@ -173995,6 +173995,282 @@
       "verified_at": "2026-11-19T17:12:13.267Z",
       "verification_etag_or_digest": "746f6e985fdfce38ea06345cfa371611377438a5ffd2ed4ccef081ee18a51ce0",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84290,
+      "sha256": "f12316b145e9a641c8e21750aea594facdea32826c6ee13c3bcf72ab0d4f9c76",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp",
+      "storage_filename": "dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 270919,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f12316b145e9a641c8e21750aea594facdea32826c6ee13c3bcf72ab0d4f9c76/dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f12316b145e9a641c8e21750aea594facdea32826c6ee13c3bcf72ab0d4f9c76/dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:14:31.762Z",
+      "verification_etag_or_digest": "f12316b145e9a641c8e21750aea594facdea32826c6ee13c3bcf72ab0d4f9c76",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p20.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p20.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89624,
+      "sha256": "50fc2e8c1e2cd6044e308cd50d42daa94f5715ccc8d6bc302d9fe55bd5b3e2c2",
+      "width": 1200,
+      "height": 1133,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-nao-sai-agua-manual-genio-s-touch-p20.webp",
+      "storage_filename": "dolce-gusto-nao-sai-agua-manual-genio-s-touch-p20.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+          "line": 171,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p20.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271068,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p20.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/50fc2e8c1e2cd6044e308cd50d42daa94f5715ccc8d6bc302d9fe55bd5b3e2c2/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p20.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50fc2e8c1e2cd6044e308cd50d42daa94f5715ccc8d6bc302d9fe55bd5b3e2c2/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p20.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:14:31.763Z",
+      "verification_etag_or_digest": "50fc2e8c1e2cd6044e308cd50d42daa94f5715ccc8d6bc302d9fe55bd5b3e2c2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p21.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p21.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97976,
+      "sha256": "d3425949e81cffe73fbe60c5f0c5d3240b67058677f46c33ecb42cc3559cb347",
+      "width": 1200,
+      "height": 1377,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-nao-sai-agua-manual-genio-s-touch-p21.webp",
+      "storage_filename": "dolce-gusto-nao-sai-agua-manual-genio-s-touch-p21.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+          "line": 178,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p21.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271075,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p21.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d3425949e81cffe73fbe60c5f0c5d3240b67058677f46c33ecb42cc3559cb347/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p21.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d3425949e81cffe73fbe60c5f0c5d3240b67058677f46c33ecb42cc3559cb347/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p21.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:14:31.763Z",
+      "verification_etag_or_digest": "d3425949e81cffe73fbe60c5f0c5d3240b67058677f46c33ecb42cc3559cb347",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p23.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p23.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95402,
+      "sha256": "8c02928edbff2f605a296791fc67f096a3654c5761ed535bd39824e21fc924c8",
+      "width": 1200,
+      "height": 1373,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-nao-sai-agua-manual-genio-s-touch-p23.webp",
+      "storage_filename": "dolce-gusto-nao-sai-agua-manual-genio-s-touch-p23.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+          "line": 212,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p23.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271109,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p23.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8c02928edbff2f605a296791fc67f096a3654c5761ed535bd39824e21fc924c8/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p23.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8c02928edbff2f605a296791fc67f096a3654c5761ed535bd39824e21fc924c8/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p23.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:14:31.763Z",
+      "verification_etag_or_digest": "8c02928edbff2f605a296791fc67f096a3654c5761ed535bd39824e21fc924c8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p21.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p21.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 205966,
+      "sha256": "3c4495f75f6383ac82d925ad2bd4eb07d094c9489c95de6892fcf91a0e092499",
+      "width": 1200,
+      "height": 1956,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-nao-sai-agua-manual-mini-me-2-p21.webp",
+      "storage_filename": "dolce-gusto-nao-sai-agua-manual-mini-me-2-p21.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+          "line": 219,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p21.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271116,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p21.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3c4495f75f6383ac82d925ad2bd4eb07d094c9489c95de6892fcf91a0e092499/dolce-gusto-nao-sai-agua-manual-mini-me-2-p21.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3c4495f75f6383ac82d925ad2bd4eb07d094c9489c95de6892fcf91a0e092499/dolce-gusto-nao-sai-agua-manual-mini-me-2-p21.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:14:31.763Z",
+      "verification_etag_or_digest": "3c4495f75f6383ac82d925ad2bd4eb07d094c9489c95de6892fcf91a0e092499",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p22.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p22.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 159692,
+      "sha256": "3cc6866e2810e415a9361ff35ad26a7bfab3f68b46de662901d07da5c0196841",
+      "width": 1200,
+      "height": 1707,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-nao-sai-agua-manual-mini-me-2-p22.webp",
+      "storage_filename": "dolce-gusto-nao-sai-agua-manual-mini-me-2-p22.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+          "line": 185,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p22.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 271082,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p22.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3cc6866e2810e415a9361ff35ad26a7bfab3f68b46de662901d07da5c0196841/dolce-gusto-nao-sai-agua-manual-mini-me-2-p22.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3cc6866e2810e415a9361ff35ad26a7bfab3f68b46de662901d07da5c0196841/dolce-gusto-nao-sai-agua-manual-mini-me-2-p22.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T19:14:31.763Z",
+      "verification_etag_or_digest": "3cc6866e2810e415a9361ff35ad26a7bfab3f68b46de662901d07da5c0196841",
+      "verification_status": "verified"
     }
   ]
 }

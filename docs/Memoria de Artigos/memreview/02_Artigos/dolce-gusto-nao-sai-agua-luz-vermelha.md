@@ -6,9 +6,9 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
+status: "redacao-concluida"
 responsavel: "-"
-proxima_acao: "redação (Job 2)"
+proxima_acao: "capa e PR"
 bloqueado_por: "-"
 data_criacao: "2026-11-19"
 modo_i18n: "somente-pt"
@@ -184,3 +184,10 @@ Fotos do manual no artigo: só se ajudar, com a regra de 30/09 (crédito na lege
 
 - **19/11/2026:** GO do Bruno ("Vamos pro DG2"). Vira guia. A NEO entra completa pelas páginas oficiais; as Original esperam os manuais (seção 8).
 - **19/11/2026:** fotos dos manuais da Genio S Touch e da Mini Me 2 recebidas e transcritas (seção 8). Bloqueio retirado; segue para a redação.
+
+## 12. Redação (19/11)
+
+- **Releituras:** páginas `n1-*` iguais à seção 4 (verde "ofuscado" = esmaecido; o `n1-connectivity-dot` segue com o 0800 707 6066, fora do texto); FAQ da loja com a Arno (11) 2060-9777, de segunda a sexta, das 8h às 18h; a busca de assistências da Arno (`arno.com.br/assistencia-tecnica`) abre, por estado e cidade.
+- **NEO sem luz laranja de aviso:** o laranja só aparece ao entrar no modo de descalcificação (`n1-slow-flow`). A tabela usa "café saindo devagar ou frio".
+- **Fotos no corpo:** p. 20, 21 e 23 do manual da Genio S Touch e p. 21 e 22 do da Mini Me 2, com crédito na legenda.
+- **Revisão (Fable):** aceitas as correções de fidelidade (passos de cada manual sem misturar, sem "superaquecimento" nas Original, sem "desliga sozinha") e três perguntas novas no FAQ (desentupir, vazando por baixo, pouca água ou café frio).
