@@ -24,6 +24,15 @@ O `SKEMCASACOMCECILIA` aplicou **5% sobre o preço da campanha** em todos os car
 - **Limite da leitura:** carrinho pela API pública, sem CEP nem pagamento; o Pix não foi lido. Vale refazer pelo site, com o carrinho aberto, antes de mudar qualquer texto.
 - **A "regra que vence em 21/11"** vinha do briefing do `skelt-e-boa` (03/11), sem dizer qual regra. O reteste pedido na Fila é este.
 
+### Decisão do Bruno (18/11, noite)
+
+- **O Bruno testou no site** e viu o mesmo: todos os códigos de parceiros que funcionam estão dando 5%. A leitura dele é que a loja reduziu os cupons na campanha, como a Insider fez.
+- **Os textos ficam com 10% em todo lugar** (`/cupons/skelt` e os artigos). Motivo: os agregadores seguem anunciando 10%, e baixar sozinho nos tira da comparação.
+- **O título do `cupom-skelt-primeira-compra` fica como está.** O Google mostra o título da página, que corta antes dos 10%; o snippet já traz "10% OFF".
+- **Ideia em estudo:** um aviso no site, no molde do banner de campanha, dizendo que na Black Friday as lojas podem mudar a porcentagem dos cupons sem aviso. É trabalho de `src/`, fora desta sessão.
+- **Para os briefings das SF1 a SF6:** o texto diz 10%, como o resto do site. Preço "com o código" lido no carrinho sai a 5% enquanto a campanha durar: o briefing manda reler no dia e não crava valor com o código sem conferir.
+- **O PRIMEIRA10 que os agregadores citam não está mais no site:** a faixa do topo anuncia PRIMEIRA5.
+
 ## 2. Busca
 
 **Trends, Brasil, 12 meses (média):** "autobronzeador skelt" 30; "autobronzeador panvel" 8; "autobronzeador australian gold" 1; "autobronzeador episol" 1; "autobronzeador best bronze" 0.
@@ -98,4 +107,4 @@ O `SKEMCASACOMCECILIA` aplicou **5% sobre o preço da campanha** em todos os car
 
 - **"Grávida pode usar":** assunto de saúde. No máximo uma pergunta de FAQ com o que o rótulo diz e a orientação de falar com o médico, nunca artigo.
 - **"Skelt na farmácia ou no site":** existe busca, mas com o código a 5% o site não ganha. Fica fora até o percentual se resolver.
-- **Todo valor "com o código" desta ficha usa 5%.** Se o código voltar a 10%, refazer as contas.
+- **Todo valor "com o código" desta ficha usa 5%, o que o carrinho aplicou em 18/11.** Os textos do site seguem com 10% por decisão do Bruno; reler no carrinho no dia da redação.
