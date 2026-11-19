@@ -51,6 +51,7 @@ public/images/about/partners/dolce-gusto.avif -text export-ignore
 public/images/about/partners/dr-peanut-icon.png -text export-ignore
 public/images/about/partners/dr-peanut.png -text export-ignore
 public/images/about/partners/eos.jpg -text export-ignore
+public/images/about/partners/gocase.png -text export-ignore
 public/images/about/partners/holyfoods-icon.png -text export-ignore
 public/images/about/partners/holyfoods.png -text export-ignore
 public/images/about/partners/hostinger-icon.png -text export-ignore
@@ -111,6 +112,7 @@ public/images/logos/bolinhas/clea-store.png -text export-ignore
 public/images/logos/bolinhas/damie.png -text export-ignore
 public/images/logos/bolinhas/dolce-gusto.png -text export-ignore
 public/images/logos/bolinhas/dr-peanut.png -text export-ignore
+public/images/logos/bolinhas/gocase.png -text export-ignore
 public/images/logos/bolinhas/holyfoods.png -text export-ignore
 public/images/logos/bolinhas/hostinger.png -text export-ignore
 public/images/logos/bolinhas/i-wanna-sleep.png -text export-ignore
@@ -149,6 +151,7 @@ public/images/logos/watermarks/clea-store.webp -text export-ignore
 public/images/logos/watermarks/damie.webp -text export-ignore
 public/images/logos/watermarks/dolce-gusto.webp -text export-ignore
 public/images/logos/watermarks/dr-peanut.webp -text export-ignore
+public/images/logos/watermarks/gocase.webp -text export-ignore
 public/images/logos/watermarks/holyfoods.webp -text export-ignore
 public/images/logos/watermarks/hostinger.webp -text export-ignore
 public/images/logos/watermarks/i-wanna-sleep.webp -text export-ignore
@@ -1002,6 +1005,7 @@ public/images/reviews/eames-lounge-chair-janela-vintage.jpg -text export-ignore
 public/images/reviews/eames-lounge-chair-leitura-vintage.png -text export-ignore
 public/images/reviews/eames-lounge-chair-produto-oficial.webp -text export-ignore
 public/images/reviews/fred-van-der-weij-airfryer.avif -text export-ignore
+public/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp -text export-ignore
 public/images/reviews/haier/air-fryer-haier-12l-cecilia-bancada.webp -text export-ignore
 public/images/reviews/haier/air-fryer-haier-12l-cesto-batata.webp -text export-ignore
 public/images/reviews/haier/air-fryer-haier-12l-espetinhos-girando-poster.webp -text export-ignore

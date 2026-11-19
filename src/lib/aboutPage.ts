@@ -91,6 +91,7 @@ const PARTNERS: AboutPartner[] = [
   { name: "Barbour's Beauty", src: '/images/about/partners/barbours.png', href: 'https://www.thebarboursbeauty.com.br' },
   { name: 'BOLD Snacks', src: '/images/about/partners/bold.png', href: 'https://www.boldsnacks.com.br' },
   { name: 'Pink Cheeks', src: '/images/about/partners/pinkcheeks.png', href: 'https://pinkcheeks.com.br' },
+  { name: 'Gocase', src: '/images/about/partners/gocase.png', href: 'https://www.gocase.com.br' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
