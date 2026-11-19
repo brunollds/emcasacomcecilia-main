@@ -16,6 +16,7 @@ da GoGroup (`denavita.gogroup.com.br/emcasacomcecilia`) não foi aberto e não d
 | DV3 | Denavita é confiável? (quem vende, Anvisa, site, trocas, onde comprar) | `denavita-e-confiavel` | [[rituaria-e-confiavel]] | "denavita é confiável" (**2ª da marca**), "é uma marca confiável", "é seguro comprar", "é aprovado pela anvisa", "é um laboratório confiável", "site denavita é confiável", "denavita site oficial", "denavita onde fica", "denavita onde comprar" |
 | DV4 | Cupom Denavita primeira compra | `cupom-denavita-primeira-compra` | [[cupom-rituaria-primeira-compra]] | "denavita primeira compra" |
 | DV5 | Laranja Moro Denavita: o que tem na cápsula, como a loja manda tomar e o preço (pelo rótulo; no lugar do "é boa") | `laranja-moro-denavita` | [[rituaria-e-boa]] (pelo rótulo) | "denavita laranja moro" (**1ª da marca**), "é bom", "para que serve", "é confiável", "funciona", "como tomar", "composição", "efeitos colaterais", "anvisa", "mercado livre"; "laranja moro é morosil", "laranja moro é o mesmo que morosil"; Trends abaixo |
+| DV7 | Denavita é boa? O que a loja vende, o que tem nos rótulos dos mais vendidos e quanto custa por dia (sem uso próprio) | `denavita-e-boa` | [[rituaria-e-boa]] | "denavita é bom" (8ª da marca), "denavita é uma marca boa", "produtos denavita é bom", "suplementos denavita é bom", "denavita funciona", "tons denavita é bom", "jejoom denavita é bom", "trans resveratrol denavita é bom"; "denavita vale a pena" sem sugestão (o "vale a pena" entra no texto, não no título) |
 | DV6 | Black Friday Denavita 2026: o cupom com os kits e o "Compre 2 Leve 3" (tem prazo) | `black-friday-denavita` | [[black-friday-rituaria]] | "denavita black" sem sugestão; pauta pela campanha no ar ("Até 40% OFF em todo o site") e pelo teste |
 
 - **A busca da marca é de produto e de confiança.** Sugestões de "denavita": laranja moro (1ª), é confiável (2ª),
@@ -28,7 +29,11 @@ da GoGroup (`denavita.gogroup.com.br/emcasacomcecilia`) não foi aberto e não d
   "morosil emagrece quantos quilos por semana", "morosil injetável". A DV5 não responde nada disso como fato: só o
   rótulo e a frase da própria loja ("estudado como suporte à gestão de peso. Suplemento não substitui alimentação
   equilibrada e hábitos saudáveis"), sem quilos, prazo nem antes e depois.
-- **Ordem sugerida:** DV1 e DV6 (cupom e prazo), DV5, DV3, DV2, DV4.
+- **DV7 (pedido do Bruno, 19/11): a marca, não um produto.** A DV5 fica com o Laranja Moro (uma frase e link na DV7);
+  a DV7 olha o catálogo (Tons, Trio Magnésio, NAC + Polivitamínico, Jejoom, Coenzima Q10, Digestino, creatina,
+  colágeno), avulso contra kit e o preço por dia pela dose do rótulo. Sem nota, estrela nem promessa de efeito; o
+  "vale a pena" é a conta e o quadro `decision`.
+- **Ordem sugerida:** DV1 e DV6 (cupom e prazo), DV5, DV7, DV3, DV2, DV4.
 
 ## 2. Código e compra (memória do cadastro, 19/11)
 
@@ -108,7 +113,8 @@ da GoGroup (`denavita.gogroup.com.br/emcasacomcecilia`) não foi aberto e não d
 
 ## 7. Perguntas para o Bruno
 
-1. Quais pautas do pacote têm GO (DV1 a DV6)? A DV5 (Laranja Moro pelo rótulo) fica no lugar do "é boa"?
+1. Quais pautas do pacote têm GO (DV1 a DV7)? A DV5 (Laranja Moro pelo rótulo) e a DV7 (é boa, pedida pelo Bruno em
+   19/11) saem as duas?
 2. A Cecília tem algum produto da Denavita (para a DV5 poder ter foto e uso próprio)?
 3. A parceira passou regras da Black Friday (o cupom soma com o "Leve 3, Pague 2" e com os kits)?
 4. O teste do Leve 3, Pague 2 e do Pix pede CPF: fica para você na semana de 27/11?
