@@ -124,3 +124,9 @@ O `SKEMCASACOMCECILIA` aplicou **5% sobre o preço da campanha** em todos os car
 - **Correção da seção 5:** "é o par em que a parceira ganha" só vale contra a Panvel e na campanha. Na tabela a
   Episol custa menos (R$ 99,90 contra R$ 119,90) e no varejo, menos ainda. A Skelt só sai abaixo com a Água Dark a
   50%. O que sobra para a Skelt: duas intensidades, rendimento declarado e a linha em volta.
+- **Decisão do Bruno (19/11):** o preço da Episol no texto é o do site oficial da Mantecorp (R$ 99,90), como o da
+  Skelt é o do site dela. Farmácia e marketplace ficam fora. Na campanha, a Água da Skelt (R$ 101,92) encosta na
+  Episol e a Dark (R$ 64,95) sai abaixo.
+- **Com o código a 10% (Bruno, 19/11):** Água R$ 91,73 e Dark R$ 58,46 na campanha; R$ 107,91 e R$ 116,91 na
+  tabela. Na campanha a Skelt fica abaixo da Episol (R$ 99,90) mesmo com os 5% do carrinho (R$ 96,82); fora dela, a
+  Episol custa menos.
