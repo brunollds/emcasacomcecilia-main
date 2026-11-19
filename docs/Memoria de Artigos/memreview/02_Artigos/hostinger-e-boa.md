@@ -380,3 +380,20 @@ o código em hospedagem, VPS e e-mail" (o dossiê não tem teste no VPS, e o tes
 pedem o código manual"; virou "entra na hospedagem, no VPS, no WordPress e no e-mail profissional". Também ficou fora o
 "compare com um prazo mais curto" do Minecraft, porque a página só mostra 24 meses. Os rótulos "Usei:", "A loja informa:"
 e "Conta nossa:" voltaram ao PT. Gates e build completo passaram.
+
+## Capa v2 (19/11/2026)
+
+- **Capas:** uma por idioma, com a chamada e o alt no idioma da página (`imageFit: contain`):
+  - de (`ist-hostinger-gut`): `/images/reviews/hostinger/hostinger-e-boa-capa-de-v2.webp`, SHA-256 `a1939539387cd793ce9619eb598573ef3a3f34bbec666c97f43c8b00b461f02c`
+  - en (`is-hostinger-good`): `/images/reviews/hostinger/hostinger-e-boa-capa-en-v2.webp`, SHA-256 `d58fef0e6630f49263a29d3ec642962565ed941b0604742fbfaeeab85bbca1fd`
+  - es (`hostinger-es-bueno`): `/images/reviews/hostinger/hostinger-e-boa-capa-es-v2.webp`, SHA-256 `de12ef1ab0d189d4738b69ee5457667e57a2e5aa53b0186dc9cb7953d709115d`
+  - fr (`hostinger-est-il-un-bon-hebergeur`): `/images/reviews/hostinger/hostinger-e-boa-capa-fr-v2.webp`, SHA-256 `ed952cd059545d4ede24c505c20e2eb66f5bd5c9155b19d1bdb0151415c0d52b`
+  - it (`hostinger-opinioni`): `/images/reviews/hostinger/hostinger-e-boa-capa-it-v2.webp`, SHA-256 `41556a7f3e79961b763a620299fae9820dec7c68fcc125831cc5435c647d0f51`
+  - ja (`is-hostinger-good-ja`): `/images/reviews/hostinger/hostinger-e-boa-capa-ja-v2.webp`, SHA-256 `fd2ed1ad9f6aedf48f936d2b22e1e0ca997a659da5f5f305dd9c8112e498441c`
+  - ko (`is-hostinger-good-ko`): `/images/reviews/hostinger/hostinger-e-boa-capa-ko-v2.webp`, SHA-256 `620c4957bae440835591f05051187dd68ff28890e4dd9b91e286581aa8ba5825`
+  - pt (`hostinger-e-boa`): `/images/reviews/hostinger/hostinger-e-boa-capa-pt-v2.webp`, SHA-256 `a10b3dc6712a9066e7e35a3dac92cda74c3ce2a0cde11cac05d1f6901d4cc9d4`
+  - zh-hans (`is-hostinger-good-zh-hans`): `/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans-v2.webp`, SHA-256 `ab19456ad48e6a45067410582ddd57f551d3ba12bfaffe8aa9dc7c5907065bde`
+  - zh-hant (`is-hostinger-good-zh-hant`): `/images/reviews/hostinger/hostinger-e-boa-capa-zh-hant-v2.webp`, SHA-256 `640aaee3b1711f7747e852764aa0d04320ee5ba5cea92b1946ac4a5b39d66dfe`
+- **Alt (PT):** Símbolo branco da Hostinger sobre um fundo roxo. No painel verde, lê-se “É boa?” e o cupom SONAR20.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/63/FOTOS-SELECIONADAS.json`. Versão v4 aprovada pelo Bruno: o símbolo branco da Hostinger sobre fundo roxo substituiu a foto da equipe (a v3 ficou no histórico do pacote, `lotes/63/adendo-marca/REVISAO-TERRA.md`).
+- **Lote 63 do piloto de capas (sequência 21 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/63/adendo-marca/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-23-HEROES-23-PAGINAS-SEQUENCIA-21-CLAUDE.zip` (`lotes/63/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/hostinger/hostinger-e-boa-capa-pt.webp`) fica no CDN, sem uso como capa.

@@ -67236,6 +67236,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 134484,
+      "sha256": "333214da5488956e08cab5ce5e1301fd80f50b5986538f654531b1017357e052",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-nao-sai-agua-luz-vermelha-capa-v2.webp",
+      "storage_filename": "dolce-gusto-nao-sai-agua-luz-vermelha-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-nao-sai-agua-luz-vermelha.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-nao-sai-agua-luz-vermelha.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/dolce-gusto-nao-sai-agua-luz-vermelha.md",
+          "line": 198,
+          "column": 14,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/333214da5488956e08cab5ce5e1301fd80f50b5986538f654531b1017357e052/dolce-gusto-nao-sai-agua-luz-vermelha-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/333214da5488956e08cab5ce5e1301fd80f50b5986538f654531b1017357e052/dolce-gusto-nao-sai-agua-luz-vermelha-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.000Z",
+      "verification_etag_or_digest": "333214da5488956e08cab5ce5e1301fd80f50b5986538f654531b1017357e052",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
       "media_kind": "image",
@@ -73132,6 +73178,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/gocase/black-friday-gocase-capa-v2.webp",
+      "local_url": "/images/reviews/gocase/black-friday-gocase-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 114952,
+      "sha256": "28c6962257e8631fcbeb394583edf1a3a195d6f59989d03dc852fb0615c1a09b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-gocase-capa-v2.webp",
+      "storage_filename": "black-friday-gocase-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-gocase.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-gocase.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-gocase.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/black-friday-gocase-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-gocase.md",
+          "line": 102,
+          "column": 14,
+          "literal": "/images/reviews/gocase/black-friday-gocase-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/28c6962257e8631fcbeb394583edf1a3a195d6f59989d03dc852fb0615c1a09b/black-friday-gocase-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/28c6962257e8631fcbeb394583edf1a3a195d6f59989d03dc852fb0615c1a09b/black-friday-gocase-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "28c6962257e8631fcbeb394583edf1a3a195d6f59989d03dc852fb0615c1a09b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp",
       "local_url": "/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp",
       "media_kind": "image",
@@ -73175,6 +73267,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T19:21:40.696Z",
       "verification_etag_or_digest": "cd6392341c22b67777602849f1d51794fb6fde22e3d7a87ede2b7719cc05f14e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/cupom-gocase-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/gocase/cupom-gocase-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51514,
+      "sha256": "0149ded55b077f142b3082e63519918101f54d1267a6ba42684dba52842f280b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-gocase-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-gocase-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-gocase-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-gocase-como-usar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-gocase-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/cupom-gocase-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-gocase-como-usar.md",
+          "line": 143,
+          "column": 14,
+          "literal": "/images/reviews/gocase/cupom-gocase-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0149ded55b077f142b3082e63519918101f54d1267a6ba42684dba52842f280b/cupom-gocase-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0149ded55b077f142b3082e63519918101f54d1267a6ba42684dba52842f280b/cupom-gocase-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "0149ded55b077f142b3082e63519918101f54d1267a6ba42684dba52842f280b",
       "verification_status": "verified"
     },
     {
@@ -76764,6 +76902,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-de-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34460,
+      "sha256": "a1939539387cd793ce9619eb598573ef3a3f34bbec666c97f43c8b00b461f02c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-de-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/ist-hostinger-gut.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/ist-hostinger-gut.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-de-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 387,
+          "column": 32,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-de-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a1939539387cd793ce9619eb598573ef3a3f34bbec666c97f43c8b00b461f02c/hostinger-e-boa-capa-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a1939539387cd793ce9619eb598573ef3a3f34bbec666c97f43c8b00b461f02c/hostinger-e-boa-capa-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "a1939539387cd793ce9619eb598573ef3a3f34bbec666c97f43c8b00b461f02c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-de.webp",
       "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-de.webp",
       "media_kind": "image",
@@ -76807,6 +76991,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T18:49:46.878Z",
       "verification_etag_or_digest": "54a9221131f636faee6572a48cae1adb6df26a2efe02468400716b60a2742def",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-en-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35076,
+      "sha256": "d58fef0e6630f49263a29d3ec642962565ed941b0604742fbfaeeab85bbca1fd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-en-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-en-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 388,
+          "column": 32,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-en-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d58fef0e6630f49263a29d3ec642962565ed941b0604742fbfaeeab85bbca1fd/hostinger-e-boa-capa-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d58fef0e6630f49263a29d3ec642962565ed941b0604742fbfaeeab85bbca1fd/hostinger-e-boa-capa-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "d58fef0e6630f49263a29d3ec642962565ed941b0604742fbfaeeab85bbca1fd",
       "verification_status": "verified"
     },
     {
@@ -76856,6 +77086,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-es-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34842,
+      "sha256": "de12ef1ab0d189d4738b69ee5457667e57a2e5aa53b0186dc9cb7953d709115d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-es-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-es-bueno.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-es-bueno.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-es-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 389,
+          "column": 33,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-es-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/de12ef1ab0d189d4738b69ee5457667e57a2e5aa53b0186dc9cb7953d709115d/hostinger-e-boa-capa-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de12ef1ab0d189d4738b69ee5457667e57a2e5aa53b0186dc9cb7953d709115d/hostinger-e-boa-capa-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "de12ef1ab0d189d4738b69ee5457667e57a2e5aa53b0186dc9cb7953d709115d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-es.webp",
       "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-es.webp",
       "media_kind": "image",
@@ -76899,6 +77175,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T18:49:47.488Z",
       "verification_etag_or_digest": "c8a7c17d4be08fd0bae2d05e390b7d2b3fd448f0cc7b967a2c12dfb28b086034",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-fr-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34546,
+      "sha256": "ed952cd059545d4ede24c505c20e2eb66f5bd5c9155b19d1bdb0151415c0d52b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-fr-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-est-il-un-bon-hebergeur.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-est-il-un-bon-hebergeur.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-fr-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 390,
+          "column": 48,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-fr-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ed952cd059545d4ede24c505c20e2eb66f5bd5c9155b19d1bdb0151415c0d52b/hostinger-e-boa-capa-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed952cd059545d4ede24c505c20e2eb66f5bd5c9155b19d1bdb0151415c0d52b/hostinger-e-boa-capa-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "ed952cd059545d4ede24c505c20e2eb66f5bd5c9155b19d1bdb0151415c0d52b",
       "verification_status": "verified"
     },
     {
@@ -76948,6 +77270,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-it-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35058,
+      "sha256": "41556a7f3e79961b763a620299fae9820dec7c68fcc125831cc5435c647d0f51",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-it-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-opinioni.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-opinioni.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-it-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 391,
+          "column": 33,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-it-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/41556a7f3e79961b763a620299fae9820dec7c68fcc125831cc5435c647d0f51/hostinger-e-boa-capa-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/41556a7f3e79961b763a620299fae9820dec7c68fcc125831cc5435c647d0f51/hostinger-e-boa-capa-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "41556a7f3e79961b763a620299fae9820dec7c68fcc125831cc5435c647d0f51",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-it.webp",
       "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-it.webp",
       "media_kind": "image",
@@ -76991,6 +77359,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T18:49:48.156Z",
       "verification_etag_or_digest": "266f229586427d882547be3b0275850142b9c052c6319524bbce8a1b59289583",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-ja-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34710,
+      "sha256": "fd2ed1ad9f6aedf48f936d2b22e1e0ca997a659da5f5f305dd9c8112e498441c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-ja-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-ja.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-ja.json",
+          "line": 31,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-ja-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 392,
+          "column": 35,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-ja-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fd2ed1ad9f6aedf48f936d2b22e1e0ca997a659da5f5f305dd9c8112e498441c/hostinger-e-boa-capa-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fd2ed1ad9f6aedf48f936d2b22e1e0ca997a659da5f5f305dd9c8112e498441c/hostinger-e-boa-capa-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "fd2ed1ad9f6aedf48f936d2b22e1e0ca997a659da5f5f305dd9c8112e498441c",
       "verification_status": "verified"
     },
     {
@@ -77040,6 +77454,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-ko-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33904,
+      "sha256": "620c4957bae440835591f05051187dd68ff28890e4dd9b91e286581aa8ba5825",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-ko-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-ko.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-ko.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-ko-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 393,
+          "column": 35,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-ko-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/620c4957bae440835591f05051187dd68ff28890e4dd9b91e286581aa8ba5825/hostinger-e-boa-capa-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/620c4957bae440835591f05051187dd68ff28890e4dd9b91e286581aa8ba5825/hostinger-e-boa-capa-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "620c4957bae440835591f05051187dd68ff28890e4dd9b91e286581aa8ba5825",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-ko.webp",
       "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-ko.webp",
       "media_kind": "image",
@@ -77083,6 +77543,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T18:49:48.764Z",
       "verification_etag_or_digest": "84550bf76b12b692201ca117a0f2cd16d4ba332f3bd071d58e4dbe86ce6861b6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-pt-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33076,
+      "sha256": "a10b3dc6712a9066e7e35a3dac92cda74c3ce2a0cde11cac05d1f6901d4cc9d4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-pt-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-e-boa.json",
+          "line": 31,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 394,
+          "column": 30,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a10b3dc6712a9066e7e35a3dac92cda74c3ce2a0cde11cac05d1f6901d4cc9d4/hostinger-e-boa-capa-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a10b3dc6712a9066e7e35a3dac92cda74c3ce2a0cde11cac05d1f6901d4cc9d4/hostinger-e-boa-capa-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "a10b3dc6712a9066e7e35a3dac92cda74c3ce2a0cde11cac05d1f6901d4cc9d4",
       "verification_status": "verified"
     },
     {
@@ -77132,6 +77638,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33910,
+      "sha256": "ab19456ad48e6a45067410582ddd57f551d3ba12bfaffe8aa9dc7c5907065bde",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-zh-hans-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-zh-hans.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-zh-hans.json",
+          "line": 31,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 395,
+          "column": 45,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ab19456ad48e6a45067410582ddd57f551d3ba12bfaffe8aa9dc7c5907065bde/hostinger-e-boa-capa-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ab19456ad48e6a45067410582ddd57f551d3ba12bfaffe8aa9dc7c5907065bde/hostinger-e-boa-capa-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "ab19456ad48e6a45067410582ddd57f551d3ba12bfaffe8aa9dc7c5907065bde",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans.webp",
       "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hans.webp",
       "media_kind": "image",
@@ -77175,6 +77727,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T18:49:49.413Z",
       "verification_etag_or_digest": "3857f58c00f85ae4ec2368dfd1c849ba87f931df5ce5243cd57a57fad4a56bd4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-boa-capa-zh-hant-v2.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34268,
+      "sha256": "640aaee3b1711f7747e852764aa0d04320ee5ba5cea92b1946ac4a5b39d66dfe",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-boa-capa-zh-hant-v2.webp",
+      "storage_filename": "hostinger-e-boa-capa-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-hostinger-good-zh-hant.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-hostinger-good-zh-hant.json",
+          "line": 31,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hant-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hostinger-e-boa.md",
+          "line": 396,
+          "column": 45,
+          "literal": "/images/reviews/hostinger/hostinger-e-boa-capa-zh-hant-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/640aaee3b1711f7747e852764aa0d04320ee5ba5cea92b1946ac4a5b39d66dfe/hostinger-e-boa-capa-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/640aaee3b1711f7747e852764aa0d04320ee5ba5cea92b1946ac4a5b39d66dfe/hostinger-e-boa-capa-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.001Z",
+      "verification_etag_or_digest": "640aaee3b1711f7747e852764aa0d04320ee5ba5cea92b1946ac4a5b39d66dfe",
       "verification_status": "verified"
     },
     {
@@ -123882,6 +124480,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/pinkcheeks/black-friday-pinkcheeks-capa-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/black-friday-pinkcheeks-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 179728,
+      "sha256": "f21e28b0e5692b4d7546375a186f38726556696dd1e3d40e0ca3a1ab6f1929b7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-pinkcheeks-capa-v2.webp",
+      "storage_filename": "black-friday-pinkcheeks-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-pinkcheeks.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-pinkcheeks.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-pinkcheeks.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/black-friday-pinkcheeks-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-pinkcheeks.md",
+          "line": 126,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/black-friday-pinkcheeks-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f21e28b0e5692b4d7546375a186f38726556696dd1e3d40e0ca3a1ab6f1929b7/black-friday-pinkcheeks-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f21e28b0e5692b4d7546375a186f38726556696dd1e3d40e0ca3a1ab6f1929b7/black-friday-pinkcheeks-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "f21e28b0e5692b4d7546375a186f38726556696dd1e3d40e0ca3a1ab6f1929b7",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/pinkcheeks/black-friday-pinkcheeks-capa.webp",
       "local_url": "/images/reviews/pinkcheeks/black-friday-pinkcheeks-capa.webp",
       "media_kind": "image",
@@ -124012,6 +124656,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/pinkcheeks/cupom-pinkcheeks-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/cupom-pinkcheeks-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77048,
+      "sha256": "02ab85490210de218991719baa861206ba0fc188d5e501531d0fc4f58aff2b07",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-pinkcheeks-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-pinkcheeks-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-pinkcheeks-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-pinkcheeks-como-usar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-pinkcheeks-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/cupom-pinkcheeks-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-pinkcheeks-como-usar.md",
+          "line": 171,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/cupom-pinkcheeks-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/02ab85490210de218991719baa861206ba0fc188d5e501531d0fc4f58aff2b07/cupom-pinkcheeks-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/02ab85490210de218991719baa861206ba0fc188d5e501531d0fc4f58aff2b07/cupom-pinkcheeks-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "02ab85490210de218991719baa861206ba0fc188d5e501531d0fc4f58aff2b07",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/pinkcheeks/cupom-pinkcheeks-como-usar-capa.webp",
       "local_url": "/images/reviews/pinkcheeks/cupom-pinkcheeks-como-usar-capa.webp",
       "media_kind": "image",
@@ -124104,6 +124794,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/pinkcheeks/cupom-pinkcheeks-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/cupom-pinkcheeks-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 118310,
+      "sha256": "65de01d3b62e20d6cfc7775e9c3eb2c15696f05faa541d593f712081bf2a84e1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-pinkcheeks-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-pinkcheeks-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-pinkcheeks-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-pinkcheeks-primeira-compra.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-pinkcheeks-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/cupom-pinkcheeks-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-pinkcheeks-primeira-compra.md",
+          "line": 100,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/cupom-pinkcheeks-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/65de01d3b62e20d6cfc7775e9c3eb2c15696f05faa541d593f712081bf2a84e1/cupom-pinkcheeks-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/65de01d3b62e20d6cfc7775e9c3eb2c15696f05faa541d593f712081bf2a84e1/cupom-pinkcheeks-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "65de01d3b62e20d6cfc7775e9c3eb2c15696f05faa541d593f712081bf2a84e1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/pinkcheeks/cupom-pinkcheeks-primeira-compra-capa.webp",
       "local_url": "/images/reviews/pinkcheeks/cupom-pinkcheeks-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -124147,6 +124883,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:13:34.831Z",
       "verification_etag_or_digest": "17632a9e03c8f7a0e4ab65c9d83d969ebb1aa02a63ca0230b37a6245c7c6e087",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86060,
+      "sha256": "08137bf50041de424aa66ffffe4ca9249194ea5229b15b6fc86ac6b5b4c87b90",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-e-boa-capa-v2.webp",
+      "storage_filename": "pinkcheeks-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-e-boa.md",
+          "line": 134,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/08137bf50041de424aa66ffffe4ca9249194ea5229b15b6fc86ac6b5b4c87b90/pinkcheeks-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/08137bf50041de424aa66ffffe4ca9249194ea5229b15b6fc86ac6b5b4c87b90/pinkcheeks-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "08137bf50041de424aa66ffffe4ca9249194ea5229b15b6fc86ac6b5b4c87b90",
       "verification_status": "verified"
     },
     {
@@ -124288,6 +125070,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 278164,
+      "sha256": "2f86068d51123b8efa33098a5554630e9863b2ea8b48df2d1c7e4a70fc0086de",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-e-confiavel-capa-v2.webp",
+      "storage_filename": "pinkcheeks-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-e-confiavel.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-e-confiavel.md",
+          "line": 124,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2f86068d51123b8efa33098a5554630e9863b2ea8b48df2d1c7e4a70fc0086de/pinkcheeks-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2f86068d51123b8efa33098a5554630e9863b2ea8b48df2d1c7e4a70fc0086de/pinkcheeks-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "2f86068d51123b8efa33098a5554630e9863b2ea8b48df2d1c7e4a70fc0086de",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-capa.webp",
       "local_url": "/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -124377,6 +125205,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:13:36.610Z",
       "verification_etag_or_digest": "f7f378ba0c0361179da5168d4b09cb34112453432c3f3f0b85f118d2a48074c0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74426,
+      "sha256": "744575f0fe2e56e70d02697014893bc676de885cb11ad61b8d92729897d8f129",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-reclame-aqui-nota-reputacao.md",
+          "line": 112,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/744575f0fe2e56e70d02697014893bc676de885cb11ad61b8d92729897d8f129/pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/744575f0fe2e56e70d02697014893bc676de885cb11ad61b8d92729897d8f129/pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "744575f0fe2e56e70d02697014893bc676de885cb11ad61b8d92729897d8f129",
       "verification_status": "verified"
     },
     {
@@ -177057,6 +177931,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/gocase/cupom-gocase-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/gocase/cupom-gocase-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 144446,
+      "sha256": "b63b96dc904f88ce4c241d444b753a651903c39f8f98edc18cdbc7c2e312b418",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-gocase-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-gocase-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-gocase-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-gocase-primeira-compra.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-gocase-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/cupom-gocase-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-gocase-primeira-compra.md",
+          "line": 84,
+          "column": 14,
+          "literal": "/images/reviews/gocase/cupom-gocase-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b63b96dc904f88ce4c241d444b753a651903c39f8f98edc18cdbc7c2e312b418/cupom-gocase-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b63b96dc904f88ce4c241d444b753a651903c39f8f98edc18cdbc7c2e312b418/cupom-gocase-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "b63b96dc904f88ce4c241d444b753a651903c39f8f98edc18cdbc7c2e312b418",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/gocase/cupom-gocase-primeira-compra-capa.webp",
       "local_url": "/images/reviews/gocase/cupom-gocase-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -177164,6 +178084,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/gocase/gocase-e-boa-capa-v2.webp",
+      "local_url": "/images/reviews/gocase/gocase-e-boa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95966,
+      "sha256": "d303fad5bb350d3da57a600169b828bc1b03755c287a88c307571cf8464c2c4d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-e-boa-capa-v2.webp",
+      "storage_filename": "gocase-e-boa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/gocase-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/gocase-e-boa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/gocase-e-boa.md",
+          "line": 104,
+          "column": 14,
+          "literal": "/images/reviews/gocase/gocase-e-boa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d303fad5bb350d3da57a600169b828bc1b03755c287a88c307571cf8464c2c4d/gocase-e-boa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d303fad5bb350d3da57a600169b828bc1b03755c287a88c307571cf8464c2c4d/gocase-e-boa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "d303fad5bb350d3da57a600169b828bc1b03755c287a88c307571cf8464c2c4d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/gocase/gocase-e-boa-capa.webp",
       "local_url": "/images/reviews/gocase/gocase-e-boa-capa.webp",
       "media_kind": "image",
@@ -177207,6 +178173,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:45:43.319Z",
       "verification_etag_or_digest": "473926feb5497e5c4046949e66378ef1e3ed9520df199ac469a9becf02cdcb88",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/gocase/gocase-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 111540,
+      "sha256": "900522c88dc90a61c4a5df32f6743c7c222d783f264cbecabac09b1d28a93621",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-e-confiavel-capa-v2.webp",
+      "storage_filename": "gocase-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/gocase-e-confiavel.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/gocase-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/gocase-e-confiavel.md",
+          "line": 106,
+          "column": 14,
+          "literal": "/images/reviews/gocase/gocase-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/900522c88dc90a61c4a5df32f6743c7c222d783f264cbecabac09b1d28a93621/gocase-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/900522c88dc90a61c4a5df32f6743c7c222d783f264cbecabac09b1d28a93621/gocase-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "900522c88dc90a61c4a5df32f6743c7c222d783f264cbecabac09b1d28a93621",
       "verification_status": "verified"
     },
     {
@@ -177360,6 +178372,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:45:43.319Z",
       "verification_etag_or_digest": "5be24c407d1260189e7e650cc3d764a225619804df3102f48d04b1e08e90dc19",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 147706,
+      "sha256": "660b4ff162cac0b60fdbb26aa51373ee852bf754791b35f9b2161a40d2738fb6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "gocase-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/gocase-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-reclame-aqui-nota-reputacao.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/gocase-reclame-aqui-nota-reputacao.md",
+          "line": 100,
+          "column": 14,
+          "literal": "/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/660b4ff162cac0b60fdbb26aa51373ee852bf754791b35f9b2161a40d2738fb6/gocase-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/660b4ff162cac0b60fdbb26aa51373ee852bf754791b35f9b2161a40d2738fb6/gocase-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:06:00.002Z",
+      "verification_etag_or_digest": "660b4ff162cac0b60fdbb26aa51373ee852bf754791b35f9b2161a40d2738fb6",
       "verification_status": "verified"
     },
     {

@@ -100,3 +100,10 @@ Sem quadro `decision`.
 | Reclame Aqui Ótima, 8,5 | Conta nossa: | perfil, 19/11 | verificado; reler após 01/12 |
 | Troca: 7 dias sem personalização; personalizado só por defeito | A loja informa: | Central de Ajuda (dossiê) | verificado |
 | Prazos de entrega | - | Central de Ajuda | ler no dia |
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/gocase/gocase-e-confiavel-capa-v2.webp` (`imageFit: contain`), SHA-256 `900522c88dc90a61c4a5df32f6743c7c222d783f264cbecabac09b1d28a93621`.
+- **Alt:** Fachada e interior da loja Gocase no ParkShopping Brasília, em fotografia institucional publicada pela marca. A capa traz o logo Gocase e a chamada “É confiável?”, com o cupom CECILIAA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/62/FOTOS-SELECIONADAS.json`.
+- **Lote 62 do piloto de capas (sequência 21 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/62/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-23-HEROES-23-PAGINAS-SEQUENCIA-21-CLAUDE.zip` (`lotes/62/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/gocase/gocase-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

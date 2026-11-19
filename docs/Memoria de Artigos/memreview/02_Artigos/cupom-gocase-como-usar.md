@@ -137,3 +137,10 @@ Capa com o logo da Gocase, o código e "como usar", com foto oficial (garrafa ou
 | "Até 15%", faixas, preço exclusivo pelo link | - | não confirmado | não escrever |
 | Parcelamento sem juros | - | fontes divergem | não escrever |
 | Qualquer outro código | - | fora | não escrever |
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/gocase/cupom-gocase-como-usar-capa-v2.webp` (`imageFit: contain`), SHA-256 `0149ded55b077f142b3082e63519918101f54d1267a6ba42684dba52842f280b`.
+- **Alt:** Três copos térmicos Life da Gocase, em lavanda, branco e preto, sobre fundo azul em imagem oficial. A capa traz o logo Gocase e a chamada “Como usar o cupom”, com o cupom CECILIAA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/61/FOTOS-SELECIONADAS.json`.
+- **Lote 61 do piloto de capas (sequência 21 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/61/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-23-HEROES-23-PAGINAS-SEQUENCIA-21-CLAUDE.zip` (`lotes/61/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/gocase/cupom-gocase-como-usar-capa.webp`) fica no CDN, sem uso como capa.

@@ -94,3 +94,10 @@ Sem quadro `decision`.
 | 6.801; 99,7%; 85,6%; 78,5%; 7,79; 5 dias e 4 horas | Conta nossa: | perfil, 19/11 | verificado |
 | Categorias e porcentagens (até 3 anos) | Conta nossa: | perfil, 19/11 | verificado |
 | Reclamação individual | - | fora | não escrever |
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`), SHA-256 `660b4ff162cac0b60fdbb26aa51373ee852bf754791b35f9b2161a40d2738fb6`.
+- **Alt:** Mochila Pop preta da Gocase com estampa de corações coloridos, de uma foto oficial montada sobre bancada lilás ilustrativa. A capa traz o logo Gocase e a chamada “Reclame Aqui — Nota e queixas”, com o cupom CECILIAA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/62/FOTOS-SELECIONADAS.json`.
+- **Lote 62 do piloto de capas (sequência 21 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/62/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-23-HEROES-23-PAGINAS-SEQUENCIA-21-CLAUDE.zip` (`lotes/62/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

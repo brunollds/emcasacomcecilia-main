@@ -96,3 +96,10 @@ Sem quadro `decision`.
 | Soma com GoBlack | Conta nossa: | testes do Bruno, 19/11 | verificado |
 | Soma com Leve 2, Pague 1 | - | sem teste | não escrever |
 | Datas da campanha | - | nenhuma | não escrever |
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/gocase/black-friday-gocase-capa-v2.webp` (`imageFit: contain`), SHA-256 `28c6962257e8631fcbeb394583edf1a3a195d6f59989d03dc852fb0615c1a09b`.
+- **Alt:** Três garrafas térmicas Fresh da Gocase com estampas florais e de borboletas, em cena oficial com luz alaranjada. A capa traz o logo Gocase e a chamada “Black Friday — O que vale?”, com o cupom CECILIAA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/61/FOTOS-SELECIONADAS.json`.
+- **Lote 61 do piloto de capas (sequência 21 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/61/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-23-HEROES-23-PAGINAS-SEQUENCIA-21-CLAUDE.zip` (`lotes/61/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/gocase/black-friday-gocase-capa.webp`) fica no CDN, sem uso como capa.

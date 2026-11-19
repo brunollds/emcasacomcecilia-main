@@ -192,3 +192,10 @@ Fotos do manual no artigo: só se ajudar, com a regra de 30/09 (crédito na lege
 - **Fotos no corpo:** p. 20, 21 e 23 do manual da Genio S Touch e p. 21 e 22 do da Mini Me 2, com crédito na legenda.
 - **Revisão (Fable):** aceitas as correções de fidelidade (passos de cada manual sem misturar, sem "superaquecimento" nas Original, sem "desliga sozinha") e três perguntas novas no FAQ (desentupir, vazando por baixo, pouca água ou café frio).
 - **Parecer externo (ChatGPT, 19/11):** aceitos a ordem pelo sintoma (não sai água, vermelho, não liga e vazamento antes das tabelas), a resposta rápida, os blocos separados de cápsula travada por modelo e o cuidado com tomada molhada no vazamento. Recusados: a luz laranja da NEO "no manual da N1" (o PDF não abre por robô, então não foi conferida), "procure a assistência se a alavanca continuar presa" (nenhum manual diz) e o snippet sem o código na primeira frase. A página de manuais da loja só lista Mini Me, Lumio e Drop, e o texto diz isso. ID trocado para 1094 (o 1084 é da H11).
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa-v2.webp` (`imageFit: contain`), SHA-256 `333214da5488956e08cab5ce5e1301fd80f50b5986538f654531b1017357e052`.
+- **Alt:** Dois quadros de vídeos da equipe. À esquerda, uma mão na Genio S Touch prateada. À direita, uma mão no controle superior da Mini Me 2.0 vermelha. A capa traz o logo Dolce Gusto e a chamada “Não sai água ou pisca vermelho?”, com o cupom CECI.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/62/FOTOS-SELECIONADAS.json`. Dois quadros dos vídeos da equipe (Genio S Touch e Mini Me 2.0).
+- **Lote 62 do piloto de capas (sequência 21 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/62/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-23-HEROES-23-PAGINAS-SEQUENCIA-21-CLAUDE.zip` (`lotes/62/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp`) fica no CDN, sem uso como capa.
