@@ -16,6 +16,7 @@ const GA4 = '20261117-1016-ga4-relatorios';
 const BING = '20261117-1020-bing-desempenho';
 const IA = '20261118-1253-ia-consultas-manuais';
 const RECORTE = '20261118-2152-recorte-dirigido';
+const CLARITY = '20261118-2208-clarity-painel';
 const NA = '@nao-se-aplica';
 
 function parseCsv(text) {
@@ -344,6 +345,52 @@ for (const [arquivo, relatorio, dimensao] of BING_DIRIGIDO) {
     evidencia: `${arquivo}#coluna 1, busca por "baw" nas ${rows.length} linhas de dados`,
     qualidade: `Bing Webmaster Tools, botão "7 D" em 18/11/2026, que mostrou de 12/11 a 16/11 (o último dia com dado). Lista completa pelo Download all${relatorio.startsWith('AI') ? '; o AI Performance é amostra, segundo o próprio Bing' : ''}. As páginas da BAW só tinham o 16/11 dentro do período.`,
   });
+}
+
+// 5. Clarity, depois que o Bruno entrou também nele (18/11/2026, 22:08). Um painel por página da BAW, com URL
+// visitada exatamente igual ao endereço, nos últimos 3 dias.
+const CLARITY_DIR = `parceiros/baw/1-bruto/${CLARITY}`;
+const CLARITY_PAGINAS = {
+  '/cupons/baw': 'clarity-cupons-baw-3d.txt',
+  '/reviews/cupom-baw-como-usar': 'clarity-cupom-baw-como-usar-3d.txt',
+  '/reviews/black-friday-baw': 'clarity-black-friday-baw-3d.txt',
+  '/reviews/baw-clothing-reclame-aqui-nota-reputacao': 'clarity-baw-clothing-reclame-aqui-nota-reputacao-3d.txt',
+  '/reviews/baw-clothing-e-confiavel': 'clarity-baw-clothing-e-confiavel-3d.txt',
+  '/reviews/cupom-baw-primeira-compra': 'clarity-cupom-baw-primeira-compra-3d.txt',
+  '/reviews/baw-clothing-e-boa': 'clarity-baw-clothing-e-boa-3d.txt',
+  '/reviews/loja/baw': 'clarity-reviews-loja-baw-3d.txt',
+};
+// [métrica, rótulo no painel, como o valor vem, definição]
+const CLARITY_DEF = [
+  ['sessoes', 'Sessões', (v) => v, 'Sessões gravadas pelo Clarity, sem as de robô'],
+  ['usuarios-unicos', 'Usuários únicos', (v) => v, 'Visitantes distintos nas sessões do filtro'],
+  ['paginas-por-sessao', 'Páginas por sessão', (v) => v.replace(',', '.'), 'Média de páginas vistas nas sessões do filtro'],
+  ['profundidade-de-rolagem-pct', 'Profundidade de rolagem', (v) => v.replace('%', '').replace(',', '.'), 'Média de quanto da página foi rolado, em %'],
+  ['tempo-ativo-min', 'Tempo ativo gasto', (v) => (v === '0 segundo' ? '0' : v.replace(/ min$/, '').replace(',', '.')), 'Média de tempo ativo por sessão, em minutos'],
+];
+const CLARITY_QUAL = 'Clarity, projeto Em Casa com Cecilia, filtro "Últimos 3 dias" lido em 18/11/2026 às 22:08 e a "URL visitada é '
+  + 'exatamente" este endereço; o painel define o começo dos 3 dias, e 16/11 é o dia do primeiro deploy possível. Só conta visita de '
+  + 'quem aceitou os cookies. Só duas páginas da BAW tiveram sessão, com 1 visitante em cada (Edge, computador, Brasil, vindo do '
+  + 'próprio site), e a sessão da /cupons/baw também passou pela /reviews/cupom-baw-primeira-compra. Pode ser a equipe '
+  + 'conferindo as páginas: não serve de demanda.';
+for (const [caminho, arquivo] of Object.entries(CLARITY_PAGINAS)) {
+  const linhas = read(`${BAW}/1-bruto/${CLARITY}/${arquivo}`).replace(/\r\n/g, '\n').split('\n');
+  const url = `https://emcasacomcecilia.com${caminho}`;
+  if (!linhas.includes('Últimos 3 dias ') || linhas[linhas.indexOf('URL visitada é exatamente') + 2] !== url) {
+    throw new Error(`${arquivo}: período ou filtro não confere`);
+  }
+  for (const [metrica, rotulo, valor, definicao] of CLARITY_DEF) {
+    const i = linhas.indexOf(rotulo);
+    if (i < 0) throw new Error(`${arquivo}: sem "${rotulo}"`);
+    const bruto = metrica === 'usuarios-unicos' ? linhas[i - 1] : linhas[i + 1];
+    const v = valor(bruto);
+    if (!/^\d+(\.\d+)?$/.test(v)) throw new Error(`${arquivo}: valor estranho em "${rotulo}": ${bruto}`);
+    nos({
+      plataforma: 'clarity', relatorio: `Painel > ${rotulo}`, dimensao: 'pagina', chave: url, idioma: 'pt-BR',
+      inicio: '2026-11-16', fim: '2026-11-18', metrica, valor: v, definicao, coleta: CLARITY_DIR,
+      evidencia: `${arquivo}#"${rotulo}"`, qualidade: CLARITY_QUAL,
+    });
+  }
 }
 writeCsv('nossos-dados.csv', HEADER_NOS, dados);
 

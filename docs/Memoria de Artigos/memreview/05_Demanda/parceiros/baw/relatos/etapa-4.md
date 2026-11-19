@@ -4,9 +4,10 @@ Sessão: "Demanda BAW, etapa 4" (Claude Opus 5.5), branch `docs/demanda-baw-etap
 `briefs/etapa-4.md`. Este arquivo é o relato para a coordenação; o `DIARIO.md`, o `COMO-REFAZER.md`, o
 `1-bruto/README.md` e o dossiê não foram tocados.
 
-Entrega em três PRs: a 4A no #1138; a 4B (cobertura, seção 10) no #1140, aberto depois da mensagem 2 da coordenação
+Entrega em quatro PRs: a 4A no #1138; a 4B (cobertura, seção 10) no #1140, aberto depois da mensagem 2 da coordenação
 (catálogo na `main` pelo #1139), na branch `docs/demanda-baw-etapa4b`; o recorte dirigido (seção 11), feito depois que
-o Bruno entrou nas plataformas, num terceiro PR, na branch `docs/demanda-baw-etapa4c`.
+o Bruno entrou nas plataformas, no #1190, na branch `docs/demanda-baw-etapa4c`; o Clarity (seção 12), depois que ele
+entrou também nele, num quarto PR, na branch `docs/demanda-baw-etapa4d`.
 
 ## 1. Tempo
 
@@ -16,6 +17,7 @@ o Bruno entrou nas plataformas, num terceiro PR, na branch `docs/demanda-baw-eta
 | Espera do catálogo | 2026-11-18T13:10-03:00 | 2026-11-18T13:27-03:00 | 17 (fora do relógio da sessão) |
 | 4B | 2026-11-18T13:27-03:00 | 2026-11-18T13:33-03:00 | 6 |
 | Recorte dirigido | 2026-11-18T21:52-03:00 | 2026-11-18T22:04-03:00 | 12 |
+| Clarity | 2026-11-18T22:08-03:00 | 2026-11-18T22:13-03:00 | 5 |
 
 Na 4A: 2 minutos de leitura dos briefs e da L'Amazonie, 1 de tentativa nas plataformas (login pedido), 9 nas consultas
 de IA, 8 no gerador, na conferência e neste relato. A espera pelo login não entrou no relógio: entreguei sem ele.
@@ -30,7 +32,7 @@ de IA, 8 no gerador, na conferência e neste relato. A espera pelo login não en
 | Bing Webmaster | Não aberto | Nada; ver abaixo |
 
 Sem login feito pela sessão, como manda o brief. À noite o Bruno entrou no Search Console, no GA4 e no Bing
-Webmaster, e o recorte foi feito (seção 11). O Clarity segue sem login e sem coleta.
+Webmaster, e o recorte foi feito (seção 11); depois entrou no Clarity, lido em seguida (seção 12).
 
 ## 3. A BAW no snapshot de `_site/` (17/11/2026)
 
@@ -105,9 +107,9 @@ afiliado (a venda conta pelo código, em todos os canais) e nenhum painel nem re
 
 ## 7. Lacunas, com destino
 
-1. **Recorte dirigido:** feito em 18/11 às 21:52 no Search Console, no GA4 e no Bing (seção 11). Ficam para a rotina
-   do site depois de 30/11: o Clarity (sem login), os dias 17 e 18/11 no Search Console e no Bing (sem dado final na
-   coleta) e o dia de cada visita no GA4.
+1. **Recorte dirigido:** feito em 18/11 às 21:52 no Search Console, no GA4 e no Bing (seção 11), e às 22:08 no
+   Clarity (seção 12). Ficam para a rotina do site depois de 30/11: os dias 17 e 18/11 no Search Console e no Bing
+   (sem dado final na coleta) e o dia de cada visita no GA4 e no Clarity.
 2. **Respostas de IA que faltaram:** q4 e q5 no Perplexity e as cinco no Copilot; fontes do ChatGPT por endereço.
    Destino: a próxima rodada, ou o Bruno numa conta dele. A matriz não depende disso para a P5: os três casos já
    apareceram.
@@ -200,8 +202,8 @@ Leitura: é o primeiro dia de cada página no índice, e nada aqui mede demanda.
 para consultas de cupom e de reputação, na primeira página do resultado. No GA4, 1 usuário por página pode ser a
 própria equipe conferindo o deploy. A `/cupons/baw` ainda não teve impressão.
 
-Fora da coleta, com destino na rotina do site depois de 30/11: o Clarity, os dias 17 e 18/11 no Search Console e no
-Bing e a visão de 24 horas do Search Console.
+Fora da coleta, com destino na rotina do site depois de 30/11: os dias 17 e 18/11 no Search Console e no Bing e a
+visão de 24 horas do Search Console. O Clarity entrou depois, na seção 12.
 
 O gerador ganhou a parte 4: confere o `filtros.csv` de cada zip do Search Console e o período no cabeçalho do CSV do
 GA4 antes de ler, e para se algum CSV tiver quebra de linha dentro de célula (o `#linha=` deixaria de valer). Rodado
@@ -210,3 +212,25 @@ duas vezes, deu o mesmo SHA-256 nos três CSVs; `comercial.csv` e `cobertura.csv
 **Desvio:** a coleta foi além do Search Console que a mensagem 1 citava: o Bruno entrou também no GA4 e no Bing, e os
 dois cabem no mesmo recorte do brief (4A, item 2). No GA4, baixei o relatório inteiro, sem filtro, para conferir o
 arquivo pela contagem da tela (118); a BAW sai no processamento pela mesma regra do snapshot.
+
+## 12. Clarity
+
+Coleta `1-bruto/20261118-2208-clarity-painel/`, com `FONTE.md`: um painel por página da BAW (as oito: `/cupons/baw`,
+`/reviews/loja/baw` e os seis artigos), "Últimos 3 dias" (16 a 18/11) e URL visitada exatamente igual ao endereço. O
+painel não exporta: o texto de cada um foi gravado em `.txt`, como na coleta do Clarity de `_site/`. No
+`nossos-dados.csv`: `nos-baw-0467` a `nos-baw-0506`, cinco métricas por página (sessões, usuários únicos, páginas por
+sessão, rolagem e tempo ativo).
+
+| Página | Sessões | Usuários únicos | Rolagem | Tempo ativo |
+|---|---|---|---|---|
+| `/cupons/baw` | 1 | 1 | 74,25% | 7,6 min |
+| `/reviews/cupom-baw-primeira-compra` | 2 | 1 | 75% | 3,9 min |
+| As outras seis | 0 | 0 | 0% | 0 |
+
+Bate com o GA4 da seção 11: as mesmas duas páginas, 1 visitante em cada. No Clarity, ele usou o Edge num computador,
+no Brasil, e chegou pelo próprio site; a sessão da `/cupons/baw` passou também pela home e pela
+`/reviews/cupom-baw-primeira-compra`. Pode ser a equipe conferindo as páginas. Nenhuma visita vinda de busca nos
+três dias, o que bate com as impressões sem clique do Search Console.
+
+Nenhuma gravação nem perfil de visitante foi aberto. O gerador confere o período e o filtro de cada `.txt` antes de
+ler; rodado duas vezes, deu o mesmo SHA-256 nos três CSVs, e `comercial.csv` e `cobertura.csv` não mudaram.
