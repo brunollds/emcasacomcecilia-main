@@ -169611,6 +169611,44 @@
       "verified_at": "2026-11-19T03:23:04.507Z",
       "verification_etag_or_digest": "f526ea74d3ae1db0c8835430abbb0cfa88eebbf8bc9e1baa526390073f39f184",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-skelt-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-skelt-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88624,
+      "sha256": "4ca9abc03b1ecc049935b5a2fc4b9b95caf156138986b3e8368088c75d04019d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-skelt-como-usar-capa-v2.webp",
+      "storage_filename": "autobronzeador-skelt-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/autobronzeador-skelt-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4ca9abc03b1ecc049935b5a2fc4b9b95caf156138986b3e8368088c75d04019d/autobronzeador-skelt-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4ca9abc03b1ecc049935b5a2fc4b9b95caf156138986b3e8368088c75d04019d/autobronzeador-skelt-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T03:59:24.290Z",
+      "verification_etag_or_digest": "4ca9abc03b1ecc049935b5a2fc4b9b95caf156138986b3e8368088c75d04019d",
+      "verification_status": "verified"
     }
   ]
 }
