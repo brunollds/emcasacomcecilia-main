@@ -266,5 +266,23 @@ Quem quer conjunto de academia barato com frete grátis acima de R$ 299 fica na 
 - **Correção da seção 9:** R$ 99 (top), R$ 119 (short) e R$ 169 (legging) da Insider são preços da campanha de
   novembro. Os de tabela são R$ 155, R$ 229 e R$ 295. Na tabela, a Insider custa cerca do dobro da Donna Carioca;
   a frase "a entrada da Insider fica perto da mediana" só vale durante a campanha.
-- **SHEIN peça a peça: não lida.** O Claude in Chrome não conectou em 18/11, e a página de produto já tinha dado
-  verificação de robô no navegador do app. Fica para o Job 2, no Chrome do Bruno.
+- **SHEIN peça a peça (18/11, noite; o Bruno abriu a SHEIN no navegador do app):** quatro leggings e um top lidos
+  pela ficha da página. Depois de seis páginas a loja passou a devolver páginas sem dados: parei ali, sem insistir.
+
+| Peça da SHEIN (18/11, noite) | Composição (ficha) | Tamanhos | Preço |
+|---|---|---|---|
+| Legging Easithlete, cintura alta, com bolsos (`-p-23359956`) | 90% poliéster, 10% elastano; "sem forro"; translúcido: não | PP a EG, e plus 1XL a 3XL | R$ 55,19 (de R$ 68,99) |
+| Calça legging com bolso Atletyca (`-p-126896786`), "#1 mais vendido" da categoria | 92% poliéster, 8% elastano | PP a GG | R$ 46,90 (de R$ 79,00) |
+| Calça legging de academia cintura alta (`-p-27147475`) | 92% poliéster, 8% elastano | P a GG | R$ 22,49 (de R$ 60,00) |
+| Legging corsário básica WOLFOX (`-p-22448695`) | 92% poliéster, 8% elastano | P a GG | R$ 24,69 (de R$ 31,99) |
+| Top esportivo nadador (`-p-428798127`), mais de 1.000 avaliações | 92% poliamida, 8% elastano; translúcido: não | P a GG (S a XXL) | R$ 31,99 (de R$ 39,99) |
+
+- **O achado: as leggings baratas da SHEIN são de poliéster,** não de poliamida. A Donna Carioca (84% poliamida,
+  16% elastano) e a Insider (77% e 23%) usam poliamida e mais elastano. O preço menor vem com outra fibra e menos
+  elastano: o texto diz isso na mesma frase do preço, como fato de ficha, sem "pior".
+- **Preço:** as leggings lidas vão de R$ 22 a R$ 55, abaixo da faixa de R$ 60 a R$ 73 da seção 10 (outra hora, outra
+  ordem da busca). Os tops com mais de 1.000 avaliações na busca iam de R$ 21 a R$ 51. Preço da SHEIN muda no dia.
+- **Plus size:** só a Easithlete das lidas tem grade plus (1XL a 3XL). As outras três vão até GG.
+- **Na página da Easithlete:** mais de 1.000 comentários, nota 4,88, "tamanho real" para 96% de quem avaliou; envio
+  internacional, com frete grátis acima de R$ 69 e devolução gratuita em 20 dias, nas palavras da página.
+- **Não lido:** nota e vendedor das outras peças (só aparecem na página montada), mais tops e a saia com short.
