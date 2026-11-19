@@ -277139,7 +277139,7 @@ export const reviewsData: unknown[] = [
     "type": "Guia & Cupons",
     "title": "Cupom Denavita: como aplicar o EMCASA no checkout e com o que ele soma",
     "seoTitle": "Como usar o cupom EMCASA na Denavita, 10% OFF",
-    "description": "Onde digitar o EMCASA na Denavita, a conta do nosso teste com produtos em promoção, o que conferir nos kits, quando o frete sai grátis e como funcionam as trocas.",
+    "description": "Onde digitar o EMCASA na Denavita, a conta dos nossos testes com promoção e kits, o que conferir no Leve 3, Pague 2, quando o frete sai grátis e como funcionam as trocas.",
     "metaDescription": "O cupom EMCASA dá 10% OFF na Denavita. Veja onde aplicar no checkout, a conta do nosso teste com produtos em promoção, o frete grátis e as trocas.",
     "image": "/images/reviews/denavita/cupom-denavita-como-usar-capa.webp",
     "imageAlt": "Pote de Laranja Moro sobre fatias de laranja vermelha, em foto da Denavita com o logo da marca, os textos «Como aplicar o cupom» e o código EMCASA.",
@@ -277165,7 +277165,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom EMCASA dá 10% OFF na Denavita, para cliente novo e antigo. Ele entra no resumo do checkout, no campo Tem um cupom?, antes de você informar o CPF. No nosso teste, os 10% somaram com o preço promocional, com o Leve 3, Pague 2 e com o Pix."
+          "O cupom EMCASA dá 10% OFF na Denavita, para cliente novo e antigo. Ele entra no resumo do checkout, no campo Tem um cupom?, antes de você informar o CPF. Nos nossos testes, os 10% entraram sobre o preço promocional e sobre kits, e o desconto se manteve no Pix."
         ]
       },
       {
@@ -277199,7 +277199,7 @@ export const reviewsData: unknown[] = [
           "Conta nossa, pelo resumo do checkout: os 10% saíram do total dos produtos, já com o preço promocional que a vitrine mostrava."
         ],
         "comparisonTable": {
-          "caption": "Dois carrinhos de teste em 19/11, preços de vitrine, sem frete.",
+          "caption": "Três carrinhos de teste em 19/11, preços de vitrine, sem frete.",
           "headers": [
             "Carrinho",
             "Produtos",
@@ -277218,18 +277218,33 @@ export const reviewsData: unknown[] = [
               "R$ 218,70",
               "R$ 21,87",
               "R$ 196,83"
+            ],
+            [
+              "Kit Vida Fit e Turbo Metabolismo",
+              "R$ 399,80",
+              "R$ 39,98",
+              "R$ 359,82"
             ]
           ]
         },
         "postParagraphs": [
-          "Nos dois carrinhos havia produto em promoção, e o cupom entrou sobre o preço já promocional. O desconto que vale na sua compra é o que o resumo mostrar."
+          "Nos três carrinhos havia produto em promoção, e o terceiro tinha dois kits: o cupom entrou sobre o preço já promocional. O desconto que vale na sua compra é o que o resumo mostrar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/denavita/cupom-denavita-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da Denavita com o código EMCASA no campo Tem um cupom?: desconto de R$ 39,98 sobre R$ 399,80 em produtos e total de R$ 359,82",
+            "caption": "Resumo do checkout da Denavita com o EMCASA aplicado no carrinho dos dois kits.",
+            "objectFit": "contain",
+            "aspectRatio": 0.54
+          }
         ]
       },
       {
-        "heading": "Soma com promoção, Leve 3, Pague 2 e Pix?",
+        "heading": "Soma com promoção, kits e Pix?",
         "paragraphs": [
-          "No nosso teste, o EMCASA entrou sobre o preço promocional, com a promoção Leve 3, Pague 2 e com o Pix.",
-          "Os kits e as opções “Compre 2 Leve 3” não passaram pelo nosso teste. Nesses casos, confira a linha Cupom de desconto no resumo antes de pagar. O que está em oferta agora, e como o cupom entra na campanha, está no guia da [Black Friday da Denavita](/reviews/black-friday-denavita)."
+          "Nos nossos testes, o EMCASA entrou sobre o preço promocional e sobre dois kits, o Kit Vida Fit e o Turbo Metabolismo, e o desconto se manteve com o Pix escolhido.",
+          "No Leve 3, Pague 2, o resumo do nosso teste mostrou só a linha do cupom, e as opções “Compre 2 Leve 3” ficaram fora do teste. Nos dois casos, confira antes de pagar se a promoção e a linha Cupom de desconto aparecem juntas. O que está em oferta agora, e como o cupom entra na campanha, está no guia da [Black Friday da Denavita](/reviews/black-friday-denavita)."
         ]
       },
       {
@@ -277264,7 +277279,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Onde coloco o cupom na Denavita? No checkout, em seguro.denavita.com.br, no campo Tem um cupom? do resumo do pedido. Clique em Adicionar e confira a linha Cupom de desconto.",
-          "O cupom EMCASA soma com o Leve 3, Pague 2? No nosso teste, sim: o código entrou com a promoção e também com o Pix. Nos kits e no Compre 2 Leve 3, confira a linha Cupom de desconto no resumo antes de pagar.",
+          "O cupom EMCASA vale no Pix? Vale. No nosso teste, o desconto do cupom se manteve com o Pix escolhido. No Leve 3, Pague 2 e no Compre 2 Leve 3, confira no resumo se a promoção e a linha Cupom de desconto aparecem juntas antes de pagar.",
           "Qual o frete grátis da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. O valor e o prazo saem no checkout, depois do CEP.",
           "O cupom vale no Mercado Livre? O EMCASA é do site oficial da Denavita: é no checkout da loja, em seguro.denavita.com.br, que o código entra.",
           "O cupom vale no Laranja Moro? Vale: no nosso teste, o Laranja Moro em promoção ganhou os 10%. A conta está no quadro acima, e o produto tem guia próprio: [Laranja Moro Denavita](/reviews/laranja-moro-denavita)."
@@ -277299,8 +277314,8 @@ export const reviewsData: unknown[] = [
     "type": "Guia de Black Friday",
     "title": "Black Friday Denavita 2026: o cupom EMCASA, o Leve 3, Pague 2 e os kits",
     "seoTitle": "Black Friday Denavita 2026: cupom EMCASA e kits",
-    "description": "O que a Denavita colocou em oferta na Black Friday de 2026, quanto o cupom EMCASA tira sobre o preço promocional e o que conferir nos kits e no Compre 2 Leve 3.",
-    "metaDescription": "O EMCASA dá 10% OFF na Denavita também na campanha de até 40% OFF. Veja o que está em oferta, a conta com o cupom e o que conferir nos kits.",
+    "description": "O que a Denavita colocou em oferta na Black Friday de 2026, quanto o cupom EMCASA tira sobre o preço promocional e o que conferir no Leve 3, Pague 2 e no Compre 2 Leve 3.",
+    "metaDescription": "O EMCASA dá 10% OFF na Denavita também na campanha de até 40% OFF. Veja o que está em oferta, a conta com o cupom e o que conferir no Leve 3.",
     "image": "/images/reviews/denavita/black-friday-denavita-capa.webp",
     "imageAlt": "Kit Queridinhos com os potes de Laranja Moro, Jejoom e Coenzima Q10, em foto da Denavita com o logo da marca, os textos «Até 40% OFF e o cupom» e o código EMCASA.",
     "cta": {
@@ -277325,7 +277340,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Denavita está com até 40% OFF em todo o site e com ofertas de leve mais, pague menos. O EMCASA tira mais 10%: no nosso teste, ele entrou sobre o preço promocional, com o Leve 3, Pague 2 e com o Pix. Nos kits e no Compre 2 Leve 3, confira o desconto no resumo antes de pagar."
+          "A Denavita está com até 40% OFF em todo o site e com ofertas de leve mais, pague menos. O EMCASA tira mais 10%: nos nossos testes, ele entrou sobre o preço promocional e sobre kits, e se manteve no Pix. No Leve 3, Pague 2 e no Compre 2 Leve 3, confira o desconto no resumo antes de pagar."
         ]
       },
       {
@@ -277382,7 +277397,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No nosso teste, o cupom também entrou com a promoção Leve 3, Pague 2 e com o Pix. Os kits e as opções “Compre 2 Leve 3” não passaram pelo teste: confira a linha Cupom de desconto no resumo antes de pagar. O passo a passo está em [como usar o cupom na Denavita](/reviews/cupom-denavita-como-usar)."
+          "Nos nossos testes, o cupom também entrou sobre dois kits, o Kit Vida Fit e o Turbo Metabolismo, e o desconto se manteve com o Pix. No Leve 3, Pague 2, o resumo mostrou só a linha do cupom, e as opções “Compre 2 Leve 3” ficaram fora do teste: confira antes de pagar se a promoção e a linha Cupom de desconto aparecem juntas. O passo a passo está em [como usar o cupom na Denavita](/reviews/cupom-denavita-como-usar)."
         ]
       },
       {
@@ -277432,7 +277447,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Denavita tem Black Friday? A loja está com a campanha “Até 40% OFF em todo o site”, além de ofertas de leve mais, kits e uma oferta com contagem regressiva. O nome Black Friday não aparece na faixa.",
-          "O cupom soma com o Leve 3, Pague 2? No nosso teste, sim: o EMCASA entrou com a promoção e com o Pix. Nos kits e no Compre 2 Leve 3, confira a linha Cupom de desconto no resumo antes de pagar. A página do [cupom Denavita](/cupons/denavita) traz o código em vigor.",
+          "O cupom soma com o Leve 3, Pague 2? Confira no resumo antes de pagar: no nosso teste, ele mostrou só a linha do cupom. Sobre os kits e no Pix, o EMCASA entrou. A página do [cupom Denavita](/cupons/denavita) traz o código em vigor.",
           "Até quando vai a promoção? A loja não informou o fim da campanha. Confira a faixa do site no dia da compra.",
           "Tem frete grátis na Black Friday da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. O valor e o prazo saem no checkout, depois do CEP."
         ]
@@ -277880,7 +277895,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O kit só compensa se você vai usar todos os potes. O prazo de 30 ou 60 dias conta depois de aberto, então abra um pote de cada vez. Para quem já usa todo dia e vai continuar, o kit reduz o custo de cada dia.",
-          "O [cupom Denavita](/cupons/denavita) EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, em todas as formas de pagamento. No nosso teste, os 10% entraram com o Leve 3, Pague 2 e com o Pix. Nos kits e no Compre 2 Leve 3, confira o desconto no resumo antes de pagar."
+          "O [cupom Denavita](/cupons/denavita) EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, em todas as formas de pagamento. No nosso teste, os 10% entraram sobre kits e o desconto se manteve no Pix. No Leve 3, Pague 2 e no Compre 2 Leve 3, confira o desconto no resumo antes de pagar."
         ]
       },
       {
@@ -278306,14 +278321,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O EMCASA dá 10% OFF na primeira compra da Denavita e continua valendo nas compras seguintes. Ele entra no resumo do checkout, antes de você informar o CPF. No nosso teste, o cupom somou com o preço promocional, com o Leve 3, Pague 2 e com o Pix."
+          "O EMCASA dá 10% OFF na primeira compra da Denavita e continua valendo nas compras seguintes. Ele entra no resumo do checkout, antes de você informar o CPF. Nos nossos testes, o cupom entrou sobre o preço promocional e sobre kits, e se manteve no Pix."
         ]
       },
       {
         "heading": "Vale na primeira compra? E depois?",
         "paragraphs": [
           "Vale. O EMCASA é o cupom da parceria do Em Casa com Cecília com a Denavita e dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, em todas as formas de pagamento.",
-          "No nosso teste, os 10% entraram sobre produtos que já estavam em promoção, com o Leve 3, Pague 2 e com o Pix. O passo a passo e a conta do teste estão em [como usar o cupom na Denavita](/reviews/cupom-denavita-como-usar). Para o que está em oferta na campanha, veja a [Black Friday da Denavita](/reviews/black-friday-denavita)."
+          "Nos nossos testes, os 10% entraram sobre produtos que já estavam em promoção e sobre kits, e o desconto se manteve no Pix. O passo a passo e a conta do teste estão em [como usar o cupom na Denavita](/reviews/cupom-denavita-como-usar). Para o que está em oferta na campanha, veja a [Black Friday da Denavita](/reviews/black-friday-denavita)."
         ]
       },
       {
@@ -278363,7 +278378,7 @@ export const reviewsData: unknown[] = [
           "Tem cupom de primeira compra na Denavita? O cupom desta página é o EMCASA, 10% OFF, que vale na primeira compra. Ele entra no resumo do checkout, antes do CPF.",
           "O cupom vale para quem já comprou? Vale. O EMCASA serve para cliente novo e antigo, em todas as formas de pagamento.",
           "Tem frete grátis na primeira compra? A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. O valor e o prazo saem no checkout, depois do CEP.",
-          "O cupom soma com o Leve 3, Pague 2? No nosso teste, sim: o EMCASA entrou com a promoção e com o Pix. Nos kits e no Compre 2 Leve 3, confira o resumo; o guia da [Black Friday da Denavita](/reviews/black-friday-denavita) traz os detalhes."
+          "O cupom soma com o Leve 3, Pague 2? Confira no resumo antes de pagar: no nosso teste, ele mostrou só a linha do cupom. Sobre os kits e no Pix, o EMCASA entrou; o guia da [Black Friday da Denavita](/reviews/black-friday-denavita) traz os detalhes."
         ]
       }
     ]

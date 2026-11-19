@@ -131,5 +131,5 @@ da GoGroup (`denavita.gogroup.com.br/emcasacomcecilia`) não foi aberto e não d
 - Opções "leve mais" das fichas: Trio Magnésio "Leve 3 e Pague 2" R$ 93,80; NAC "Compre 2 Leve 3" R$ 99,80; Coenzima
   Q10 "Compre 2 Leve 3" R$ 131,80.
 
-- **Bruno, 19/11 (depois dos briefings):** testou o EMCASA no checkout com o "Leve 3, Pague 2" e com o Pix, e "funcionou ambos" (sem valores registrados); a Cecília não tem produto da Denavita. A página `/cupons/denavita` (sessão do cadastro) ainda diz que o Leve 3, Pague 2 não foi testado.
+- **Bruno, 19/11 (depois dos briefings):** testou o EMCASA no checkout com o "Leve 3, Pague 2" e com o Pix, e "funcionou ambos" (sem valores registrados); a Cecília não tem produto da Denavita. O print do teste (#1256: Kit Vida Fit + Turbo Metabolismo, R$ 399,80 → −R$ 39,98 → R$ 359,82, no Pix) mostra só a linha do cupom: a revisão do #1256 tirou o Leve 3, Pague 2 de `/cupons/denavita`, e os artigos seguem o cadastro (kits e Pix testados; Leve 3, Pague 2 e Compre 2 Leve 3 = "confira no resumo").
 - **CNPJ do rodapé (19/11, consulta pública pela BrasilAPI):** o rodapé traz 43.777.011/0002-78, que não fecha nos dígitos verificadores; o número válido da filial é 43.777.011/0002-76 (Vitalita, filial ativa em Extrema/MG, aberta em 18/12/2024). A matriz 43.777.011/0001-95 é ativa em São Paulo/SP, aberta em 05/10/2021.
