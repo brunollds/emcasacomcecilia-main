@@ -44,7 +44,7 @@ suplementos, superfoods e dermocosméticos; o site é Shopify, com o checkout pr
 Nunca citar códigos de terceiros nem da loja: em 17/11 a IA do Google listava códigos de outros sites e cupons da
 própria loja (inclusive de primeira compra), com percentuais de 10% a 20%. A página responde "Existe cupom Rituária de
 20%?" sem nomear código. O cadastro do site oferece 10% de boas-vindas: não citar sem decisão do Bruno. Nos artigos,
-usar `coupon: "rituaria"` e link relativo para `/cupons/rituaria`, com a âncora exata "cupom Rituária".
+usar `affiliate: "rituaria"`, `coupon: "EMCASA"` (o código) e link relativo para `/cupons/rituaria`, com a âncora exata "cupom Rituária".
 
 ---
 
