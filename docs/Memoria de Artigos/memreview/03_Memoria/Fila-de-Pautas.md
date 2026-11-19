@@ -10,6 +10,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
+| NM1 | Nutren Active: para que serve, como tomar e a diferença para o Senior e o Protein (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[nutren-active-para-que-serve]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Reler o FAQ da marca e o `CECI` no carrinho |
+| NM2 | Nestonutri ou Ninho Fases 1+ (1 a 3 anos), no molde do `nanlac-supreme-ou-ninho-fases` (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[nestonutri-ou-ninho-fases]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Só rótulo, `notice` e pediatra; ler os ingredientes; pergunta do Nestogeno aberta (seção 8 do briefing) |
 | NM6 | Nutren Fortify: para que serve, tabela nutricional e preço por porção, com o Senior em seção (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[nutren-fortify-para-que-serve]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Só rótulo; reler preços e o `CECI` no combo |
 | NM7 | Novasource Proline: para que serve, caixinha, pó ou litro e preço por dose (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[novasource-proline-para-que-serve]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Duas perguntas ao Bruno na seção 9 do briefing (fórmula de uso clínico e regra de publicidade); depois, redação |
 | SF4 e SF5 | Como usar o autobronzeador Skelt, com a seção "mancha a roupa e o lençol?" (GO do Bruno, 19/11) | Skelt | PT | [[autobronzeador-skelt-como-usar]] e fatos [[skelt-fatos-1811]] | Redação. Reler no dia os tempos de ação e os preços; o texto diz 10% e não crava valor com o código |
@@ -104,14 +106,12 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiros | Busca | Nota |
 |---|---|---|---|---|
-| NM1 | Nutren Active: para que serve, como tomar e a diferença para o Senior e o Protein | Nestlé Nutre | Trends 21; "ou senior", "ou protein", "ou whey" | Menor risco; sem artigo nosso |
-| NM2 | Nestonutri ou Ninho Fases (1 a 3 anos) | Nestlé Nutre | Trends 51; três variações de "ou ninho fases" | 1 a 3 anos: rótulo, `notice` e pediatra. Conferir a sobreposição com os artigos do Nanlac e do Ninho |
 | NM3 | Nestonutri e Nestogeno é a mesma coisa? | Nestlé Nutre | Uma variação exata | Nestogeno tem 0 a 12 meses: risco alto; talvez pergunta da NM2 |
 | NM4 | Nutren Control: para que serve e a tabela nutricional | Nestlé Nutre | Trends 40 | Controle de glicemia: só rótulo, com médico ou nutricionista |
 | NM5 | Nutren Control ou Glucerna | Nestlé Nutre | Três variações | Tabela contra tabela |
 | NM8 | Kit degustação Nutren (Senior e Control) | Nestlé Nutre | Sem medida | Pode ser seção do `nutren-senior-kit-combo-ou-assinatura` |
 
-A NM6 e a NM7 têm briefing desde 19/11 (seção 1).
+NM1, NM2, NM6 e NM7 têm briefing desde 19/11 (seção 1). A NM3 (Nestogeno) virou pergunta dentro da NM2. Ficam aqui a NM4, a NM5 e a NM8.
 
 **Skelt (18/11/2026): marcas de farmácia e reteste do código.** Fatos em [[skelt-fatos-1811]]. O `SKEMCASACOMCECILIA` deu 5% sobre o preço da campanha November Glow em cinco carrinhos (o teste de 11/11 tinha dado 10%); com o site inteiro em promoção, o Bruno testou no site e viu 5% em todos os códigos de parceiros. Decisão dele (18/11): os textos seguem com 10% em todo lugar; preço com o código se relê no carrinho no dia.
 

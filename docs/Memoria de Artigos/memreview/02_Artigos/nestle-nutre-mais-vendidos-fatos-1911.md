@@ -54,4 +54,13 @@ GO do Bruno para os dois; briefings em [[nutren-fortify-para-que-serve]] e [[nov
 - **A faixa do topo anuncia um cupom de primeira compra da loja:** não é nosso e não entra em texto.
 - **Brinde de campanha:** um Mucilon de 160 g entrou grátis no carrinho.
 
-**Não lido:** rótulo de Active, Nestonutri e Control; preços fora das capturas; se o CECI vale em cada um (Alfamino, Alfaré e fórmulas de 0 a 12 meses ficam fora).
+## 5. Leituras de 19/11 (Active, Nestonutri e Ninho Fases 1+)
+
+GO do Bruno para a NM1 e a NM2; briefings em [[nutren-active-para-que-serve]] e [[nestonutri-ou-ninho-fases]].
+
+- **Nutren Active:** 400 g em três sabores (R$ 63,49) e 700 g só em baunilha (R$ 89,90); porção de 31,5 g com 114 kcal e 7,5 g de proteína, 176 kcal e 14 g com 180 ml de leite desnatado. A página do 700 g repete o rendimento da lata de 400 g.
+- **Nestonutri 1+ 800 g:** R$ 63,69; 69 kcal e 1,7 g de proteína por 100 ml; GOS como prebiótico.
+- **Ninho Fases 1+ 800 g:** R$ 49,46 (de R$ 58,19); 65 kcal e 1,8 g de proteína por 100 ml; FOS e inulina, com o dobro de fibra.
+- **`CECI`:** não testado nesses três.
+
+**Não lido:** rótulo do Control e do kit degustação; a linha Nestogeno; preços fora das capturas; se o CECI vale em cada um (Alfamino, Alfaré e fórmulas de 0 a 12 meses ficam fora).
