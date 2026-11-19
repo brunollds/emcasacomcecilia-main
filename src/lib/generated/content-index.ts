@@ -273838,5 +273838,291 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1094,
+    "slug": "dolce-gusto-nao-sai-agua-luz-vermelha",
+    "title": "Dolce Gusto não sai água, não liga ou pisca vermelho? Veja o que fazer",
+    "seoTitle": "Dolce Gusto não sai água ou pisca vermelho: o que fazer",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Veja o que fazer se a Dolce Gusto parar de soltar água, piscar vermelho ou não ligar. O guia segue os manuais da Genio S Touch e Mini Me 2.0 e a ajuda da NEO.",
+    "metaDescription": "CECI dá 10% na Dolce Gusto a partir de R$ 100. Não sai água, não liga ou pisca vermelho? O que cada luz quer dizer e quem chamar.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-luz-vermelha-capa.webp",
+    "imageAlt": "Cafeteira Dolce Gusto Genio S Touch prata, em foto oficial, ao lado da página de resolução de problemas do manual, com o ícone de temperatura vermelho. A capa traz o logo Nescafé Dolce Gusto, a chamada “Não sai água ou pisca vermelho?” e o cupom CECI.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Mostra qual botão usar para interromper o preparo em cada modelo",
+      "Separa o vermelho do aquecimento do alerta de temperatura",
+      "Reúne os contatos do SAC e da assistência autorizada"
+    ],
+    "cons": [
+      "Os passos detalhados abrangem NEO, Genio S Touch e Mini Me 2.0; nos outros modelos, vale o manual de cada um",
+      "Vazamento e luz vermelha que não apaga não têm solução caseira nos manuais: o caminho é a assistência"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Se a Dolce Gusto parou de soltar água, confira o reservatório. Na Genio S Touch e na Mini Me 2.0, pare o preparo pelo painel e não force a alavanca. Na NEO, o botão Iniciar azul pede água. Se ficar vermelho contínuo, ligue para o SAC no 0800 776 2233."
+        ]
+      },
+      {
+        "heading": "Identifique o modelo da sua Dolce Gusto",
+        "paragraphs": [
+          "Confira o nome do modelo. A NEO usa cápsulas NEO e sinaliza pelo botão Iniciar. Na Genio S Touch, olhe o ícone de temperatura e as barras de volume. Na Mini Me 2.0, observe de qual botão vem a luz. Isso muda o que fazer.",
+          "O guia segue a ajuda oficial da NEO e os manuais impressos da Genio S Touch e da Mini Me 2.0. Para Mini Me clássica, Genio S Basic, Genio S Plus, Piccolo, Lumio, Drop ou Infinissima, vale o manual do seu modelo. A loja publica os da Mini Me, da Lumio e da Drop na [página de manuais](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/manuais)."
+        ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
+          "alt": "Cafeteiras Dolce Gusto Mini Me 2.0 preta, Genio S Basic taupe, Genio S Plus vermelha, Genio S Touch prata e NEO preta, lado a lado",
+          "caption": "Da esquerda para a direita: Mini Me 2.0, Genio S Basic, Genio S Plus e Genio S Touch, do sistema Original, e a NEO. Fotos da loja, fora de escala.",
+          "objectFit": "wide"
+        }
+      },
+      {
+        "heading": "Dolce Gusto não sai água ou sai pouca",
+        "paragraphs": [
+          "Na Genio S Touch e na Mini Me 2.0, confira primeiro se há água potável fresca no reservatório e se ele está encaixado. Se faltava água, encha o reservatório e retome o preparo. Na Genio S Touch, toque no ícone liga/desliga. Na Mini Me 2.0, pressione Iniciar.",
+          "Na NEO, o botão Iniciar azul antes ou durante o preparo indica falta de água. Reabasteça, recoloque o reservatório e aperte Iniciar. Se a luz continuar azul, procure o SAC. Os passos de cápsula e injetor abaixo são dos manuais da Genio S Touch e da Mini Me 2.0."
+        ],
+        "bullets": [
+          "**Genio S Touch com cápsula bloqueada.** Mantenha a máquina em pé e toque no ícone liga/desliga para interromper o preparo. Deixe a máquina na tomada nessa etapa. Abra a alavanca sem forçar. Retire o suporte, descarte a cápsula e jogue fora a bebida. Teste sem cápsula. Se a água voltar a sair, use outra cápsula.",
+          "**Mini Me 2.0 com cápsula bloqueada.** Mantenha a máquina em pé. Se o preparo continuar, aperte Iniciar para parar. Aguarde 20 minutos para baixar a pressão. Depois, levante a alavanca sem forçar. Retire o suporte, descarte a cápsula e jogue fora a bebida.",
+          "**Limpeza do injetor.** Siga a p. 21 do manual da Genio S Touch se o teste sem cápsula falhar. Na Mini Me 2.0, siga a p. 22, que começa com o enxágue e a lavagem do suporte. Tire a máquina da tomada antes de limpar o injetor e use a agulha própria do modelo. Mantenha a agulha fora do alcance das crianças. Na Mini Me 2.0, o manual também pede que você mantenha os dedos longe do injetor. Depois, siga a descalcificação do manual.",
+          "**Café com fluxo mais lento.** Se a Genio S Touch ou a Mini Me 2.0 começar a fazer café mais lento, aos pingos ou mais frio que de costume, os manuais orientam descalcificar. Na NEO, o SlowBrew demora mais por padrão. Se as outras bebidas mudarem de fluxo ou temperatura, a marca orienta descalcificar. Consulte o [passo a passo por modelo](/reviews/dolce-gusto-descalcificacao-passo-a-passo)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p20.webp",
+            "alt": "Página 20 do manual da Genio S Touch: indicador laranja de descalcificação e, em 10.2, o preparo que para por falta de água, com o reservatório sendo enchido",
+            "caption": "Genio S Touch, p. 20: luz laranja e falta de água no reservatório. Foto do manual da nossa máquina.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0591
+          },
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p21.webp",
+            "alt": "Página 21 do manual da Genio S Touch: cápsula bloqueada (10.3), com o teste sem cápsula, e injetor bloqueado (10.4), com a agulha de limpeza",
+            "caption": "Genio S Touch, p. 21: cápsula bloqueada, teste sem cápsula e limpeza do injetor. Foto do manual da nossa máquina.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8715
+          },
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p22.webp",
+            "alt": "Página 22 do manual da Mini Me 2: os cinco passos para cápsula ou injetor bloqueado, da espera de 20 minutos à limpeza do injetor com a agulha",
+            "caption": "Mini Me 2, p. 22: cápsula ou injetor bloqueado, em cinco passos. Foto do manual da nossa máquina.",
+            "objectFit": "contain",
+            "aspectRatio": 0.703
+          }
+        ]
+      },
+      {
+        "heading": "Dolce Gusto piscando vermelho",
+        "paragraphs": [
+          "Veja em qual botão a luz aparece e se ela pisca ou fica acesa."
+        ],
+        "bullets": [
+          "**Mini Me 2.0 logo ao ligar.** Na máquina que usamos, o LED piscou em vermelho até ficar verde, em 20 a 30 segundos. É o aquecimento. Veja o [review da Mini Me 2.0](/reviews/dolce-gusto-mini-me-2-0-vale-a-pena).",
+          "**Genio S Touch ou Mini Me 2.0 com o aviso de temperatura piscando rápido.** Os manuais pedem conferir se a cápsula está presa e seguir o procedimento do modelo. Depois, tire o plugue da tomada, aguarde 20 minutos e ligue de novo. Procure a assistência se o ícone da Genio continuar piscando rápido ou se o Iniciar da Mini Me 2.0 piscar em vermelho.",
+          "**NEO com Iniciar vermelho contínuo.** A Dolce Gusto aponta para um provável problema técnico. Ligue para o SAC no 0800 776 2233 e informe que o botão ficou vermelho. O código da página de ajuda é [n1-error-10001](https://www.nescafe-dolcegusto.com.br/n1-error-10001)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-genio-s-touch-p23.webp",
+            "alt": "Página 23 do manual da Genio S Touch: ícone de temperatura piscando rápido, com a espera de 20 minutos fora da tomada, e água acumulada embaixo da máquina, com a orientação de tirar da tomada",
+            "caption": "Genio S Touch, p. 23: ícone de temperatura piscando e água embaixo da máquina. Foto do manual da nossa máquina.",
+            "objectFit": "contain",
+            "aspectRatio": 0.874
+          },
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-nao-sai-agua-manual-mini-me-2-p21.webp",
+            "alt": "Página 21 do manual da Mini Me 2: máquina que não liga, botão Iniciar laranja, botão da temperatura piscando rápido em vermelho e preparo interrompido por falta de água",
+            "caption": "Mini Me 2, p. 21: não liga, laranja, vermelho piscando rápido e falta de água. Foto do manual da nossa máquina.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6135
+          }
+        ]
+      },
+      {
+        "heading": "Dolce Gusto que não liga",
+        "paragraphs": [
+          "Confira se o plugue está bem encaixado e se a tomada recebe energia. Se continuar sem ligar, procure o SAC. Essa é a rota indicada na [ajuda da NEO](https://www.nescafe-dolcegusto.com.br/n1-cant-switch-on) e nos manuais da Genio S Touch e da Mini Me 2.0."
+        ]
+      },
+      {
+        "heading": "Água embaixo da máquina ou ao redor da cápsula",
+        "paragraphs": [
+          "Se houver água embaixo da Genio S Touch ou da Mini Me 2.0, ou se água limpa vazar pelo suporte de cápsulas durante o preparo, os manuais mandam desligar da tomada e chamar a assistência. Se a tomada ou o plugue estiver molhado, evite tocá-los e peça ajuda para desligar a energia com segurança.",
+          "Se o líquido espirrar pela saída durante o enxágue ou a descalcificação, confira se a peça de enxágue está no suporte. Se for a bebida que sai aos espirros durante o preparo, pare pelo painel, descarte a cápsula e use outra. Na Genio S Touch, o manual também pede limpar o suporte antes."
+        ]
+      },
+      {
+        "heading": "Luzes do botão Iniciar da NEO",
+        "paragraphs": [
+          "A tabela reúne os sinais antes, durante e depois de preparar café. Durante a descalcificação, siga a sequência de luzes do manual da sua NEO."
+        ],
+        "comparisonTable": {
+          "caption": "Sinais da NEO nas páginas de ajuda da Dolce Gusto",
+          "headers": [
+            "Sinal",
+            "O que quer dizer",
+            "O que fazer"
+          ],
+          "rows": [
+            [
+              "Vermelho contínuo",
+              "Provável problema técnico",
+              "Ligue para o SAC e informe o sinal. Código n1-error-10001"
+            ],
+            [
+              "Azul antes ou durante o preparo",
+              "Reservatório vazio",
+              "Reabasteça e aperte Iniciar. Se continuar azul, ligue para o SAC"
+            ],
+            [
+              "Branco piscando",
+              "Aviso do botão Iniciar",
+              "Desligue e ligue. Abra e feche a barra deslizante sem cápsula. Se continuar, SAC com o código n1-warning-1"
+            ],
+            [
+              "Verde contínuo",
+              "Pronta para preparar, ou o preparo terminou",
+              "A máquina pode iniciar um preparo"
+            ],
+            [
+              "Verde esmaecido",
+              "Preparando o café, soltando água quente ou enxaguando",
+              "Espere o processo terminar"
+            ],
+            [
+              "Verde piscando",
+              "A máquina está aquecendo",
+              "Espere aquecer"
+            ],
+            [
+              "Verde piscando rápido",
+              "A cápsula vai sair sozinha para o compartimento em 10 segundos",
+              "Se quiser mais água, aperte Iniciar enquanto pisca"
+            ],
+            [
+              "Café saindo devagar ou frio",
+              "No SlowBrew é normal; nas outras bebidas, hora de descalcificar",
+              "Seguir o [passo a passo da descalcificação](/reviews/dolce-gusto-descalcificacao-passo-a-passo)"
+            ]
+          ]
+        },
+        "bullets": [
+          "Superaquecimento ([n1-warning-7](https://www.nescafe-dolcegusto.com.br/n1-warning-7)): a página manda esperar cerca de 10 minutos para a máquina esfriar e tentar de novo. Se o problema persistir, fale com o SAC e informe o código.",
+          "O ícone acima de Iniciar é o da conexão. Aceso indica Wi-Fi conectado. Piscando, a máquina tenta reconectar. Se o ícone estiver apagado, confira o pareamento no app.",
+          "Restaure a configuração de fábrica só se o SAC recomendar. Nesse caso, siga a [orientação da Dolce Gusto](https://www.nescafe-dolcegusto.com.br/n1-factory-reset)."
+        ]
+      },
+      {
+        "heading": "Luzes da Genio S Touch e da Mini Me 2.0",
+        "paragraphs": [
+          "Além do alerta vermelho, as duas máquinas têm um sinal de descalcificação e um aviso que acompanha a interrupção do preparo."
+        ],
+        "comparisonTable": {
+          "caption": "Sinais dos manuais da Genio S Touch e da Mini Me 2.0",
+          "headers": [
+            "Sinal",
+            "Genio S Touch",
+            "Mini Me 2.0"
+          ],
+          "rows": [
+            [
+              "Laranja",
+              "Indicador de descalcificação aceso. Siga o manual para descalcificar.",
+              "Botão Iniciar laranja. Siga o manual para descalcificar."
+            ],
+            [
+              "Preparo para ou não começa",
+              "Barras piscam no nível atual. Confira a água e toque em liga/desliga para continuar.",
+              "Iniciar pisca em verde. Confira a água e aperte Iniciar para continuar."
+            ]
+          ]
+        },
+        "bullets": [
+          "Veja o [passo a passo da descalcificação](/reviews/dolce-gusto-descalcificacao-passo-a-passo) para achar o procedimento do seu modelo."
+        ]
+      },
+      {
+        "heading": "O que não fazer",
+        "paragraphs": [
+          "A limpeza descrita nos manuais vai até a parte acessível pelo suporte da cápsula. Para defeito interno, procure a assistência."
+        ],
+        "bullets": [
+          "Não abra a máquina nem tente trocar peça por dentro: a limpeza dos manuais vai até o injetor, com a agulha própria;",
+          "Com a cápsula travada, mantenha a máquina em pé, não force a alavanca e não beba o café dessa cápsula;",
+          "Na Genio S Touch, deixe o cabo conectado enquanto interrompe o preparo com cápsula travada. Tire o plugue antes de limpar o injetor;",
+          "Na Mini Me 2.0, não toque o injetor com o dedo;",
+          "Não tire a máquina da tomada no meio da descalcificação, como avisa o manual da Genio S Touch, e não use vinagre: o fabricante pede descalcificante próprio;",
+          "Na NEO, deixe a volta à configuração de fábrica para quando o SAC pedir."
+        ]
+      },
+      {
+        "heading": "Quem chamar e o que ter à mão",
+        "paragraphs": [
+          "O SAC Nescafé Dolce Gusto atende no 0800 776 2233. Para as máquinas do sistema Original, a Dolce Gusto também indica a Arno no (11) 2060-9777, de segunda a sexta, das 8h às 18h.",
+          "Tenha à mão o modelo e diga em qual botão aparece a luz, qual é a cor e se ela fica acesa ou pisca. Na NEO, informe também o código da página de ajuda, se tiver um. Consulte a [busca de assistências autorizadas da Arno](https://www.arno.com.br/assistencia-tecnica) pela sua cidade."
+        ],
+        "links": [
+          {
+            "label": "Regras do cupom CECI na Dolce Gusto",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Por que não sai água da Dolce Gusto? Confira o reservatório. Na Genio S Touch e na Mini Me 2.0, o manual também orienta verificar se há cápsula presa ou injetor bloqueado. Siga os passos do modelo. Se a alavanca estiver presa, evite forçá-la.",
+          "O que significa a luz vermelha piscando na Dolce Gusto? Na Mini Me 2.0, o LED pisca ao ligar durante o aquecimento. Se o aviso de temperatura piscar rápido na Genio S Touch ou na Mini Me 2.0, confira primeiro se a cápsula está presa e siga o manual do modelo. Na NEO, o Iniciar vermelho contínuo pede atendimento do SAC.",
+          "Como desentupir o injetor da Dolce Gusto? Siga o manual do seu modelo. A Genio S Touch e a Mini Me 2.0 têm uma agulha de limpeza própria. Os manuais mandam tirar a máquina da tomada antes de limpar o injetor.",
+          "A Dolce Gusto está vazando por baixo. O que fazer? Na Genio S Touch e na Mini Me 2.0, os manuais mandam desligar da tomada e falar com a assistência. Evite tocar no plugue se ele ou a tomada estiverem molhados.",
+          "A Dolce Gusto está fazendo café aos pingos ou mais frio que de costume. O que fazer? Os manuais da Genio S Touch e da Mini Me 2.0 orientam descalcificar. Na NEO, a marca orienta descalcificar se o fluxo ou a temperatura mudar fora do SlowBrew, que é naturalmente mais lento.",
+          "O que significa a luz azul na Dolce Gusto NEO? Se aparecer antes ou durante o preparo do café, falta água no reservatório. Encha, recoloque e aperte Iniciar. Se continuar azul, ligue para o SAC.",
+          "Minha Dolce Gusto não liga. O que fazer? Confira o plugue e se há energia na tomada. Se continuar sem ligar, ligue para o SAC no 0800 776 2233. Nas máquinas Original, você também pode ligar para a Arno no (11) 2060-9777.",
+          "Qual é o telefone da assistência técnica da Dolce Gusto? O SAC é 0800 776 2233. Para as máquinas Original, a Arno atende no (11) 2060-9777, de segunda a sexta, das 8h às 18h.",
+          "Quando restaurar a NEO para as configurações de fábrica? Quando o SAC recomendar. Siga as instruções da página oficial de [reconfiguração de fábrica](https://www.nescafe-dolcegusto.com.br/n1-factory-reset)."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se você decidir repor cápsulas ou comprar outra máquina, o CECI dá 10% na loja oficial em compras a partir de R$ 100.",
+      "label": "Ver a loja oficial Dolce Gusto",
+      "url": "https://www.nescafe-dolcegusto.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Feito a partir das páginas de ajuda e dos manuais da Nescafé Dolce Gusto. Somos afiliados da Dolce Gusto e podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "dolce-gusto-descalcificacao-passo-a-passo"
+      },
+      {
+        "slug": "dolce-gusto-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena"
+      },
+      {
+        "slug": "dolce-gusto-neo-vale-a-pena"
+      }
+    ]
   }
 ];
