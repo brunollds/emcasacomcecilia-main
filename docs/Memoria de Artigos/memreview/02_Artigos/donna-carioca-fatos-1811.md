@@ -63,7 +63,7 @@ Mínimo, mediana e máximo saem dos 50 mais vendidos de cada linha, não do cat�
 |---|---|---|---|---|
 | DC1 | Alternativas à Donna Carioca, linha por linha | `alternativas-a-donna-carioca` | Insider, Toda Up e SHEIN (várias lojas) | Pedido do Bruno. Sem busca própria; vale pela marca grande e por abrir o nicho. Só as linhas com vantagem dita |
 | DC2 | Calcinha para academia: qual escolher | `calcinha-para-academia` | Insider e Toda Up | **GO do Bruno em 18/11; briefing em [[calcinha-para-academia]] (seção 8).** Já temos `cueca-para-academia` e `calcinha-insider-qual-escolher`. A Donna Carioca entra como referência de preço do kit |
-| DC3 | Donna Carioca é confiável? (com o Reclame Aqui e o site oficial) | `donna-carioca-e-confiavel` | nenhuma | A busca mais forte da marca. Molde: `stylekorean-e-confiavel`. Sem afiliado; linka a DC1 |
+| DC3 | Donna Carioca é confiável? (com o Reclame Aqui e o site oficial) | `donna-carioca-e-confiavel` | nenhuma | **Aposentada pelo Bruno em 18/11.** A busca mais forte da marca. Molde: `stylekorean-e-confiavel`. Sem afiliado; linka a DC1 |
 | DC4 | Insider ou Donna Carioca: legging | `insider-ou-donna-carioca` | Insider | Um par por artigo. Depois do reteste da Insider |
 
 Estoque, sem saída hoje: "legging donna carioca é transparente" (só com peça em mãos); roupa de beach tennis feminina e plus size (só a SHEIN, sem leitura); "donna carioca ou dlk" (nenhuma das duas é parceira).
@@ -217,7 +217,9 @@ O Bruno quis seguir com a Donna Carioca depois da DC2. Estas leituras fecham os 
 3. Uma peça só, com ficha de tecido e troca mais longa: Insider (top, short, legging) e Toda Up (calcinha e top segunda pele, 30 dias de troca).
 Quem quer conjunto de academia barato com frete grátis acima de R$ 299 fica na Donna Carioca, e o texto diz.
 
-**Como fica a DC3.** Tem os fatos: perfil verificado e "Ótima" no Reclame Aqui (8,3; 88,7% resolvidas; 73,2% voltariam), CNPJ, endereço da fábrica, sem loja física, política de troca, frete e a queixa mais comum (produto não recebido, 21,31%). Faltam: as matérias sobre a marca ("é da Virginia", "é de onde"), que não foram lidas, e o Mercado Livre e a Shopee oficiais.
+**DC3: aposentada.** **Aposentada pelo Bruno em 18/11:** para loja que negou a afiliação, um texto de reputação ou vira propaganda dela ou vira artigo negativo; só se faz se houver fato amplamente divulgado em público. O que segue fica como registro e serve à DC1.
+
+**Como ficava a DC3.** Tem os fatos: perfil verificado e "Ótima" no Reclame Aqui (8,3; 88,7% resolvidas; 73,2% voltariam), CNPJ, endereço da fábrica, sem loja física, política de troca, frete e a queixa mais comum (produto não recebido, 21,31%). Faltam: as matérias sobre a marca ("é da Virginia", "é de onde"), que não foram lidas, e o Mercado Livre e a Shopee oficiais.
 
 ## 10. DC1, Alternativas à Donna Carioca (GO do Bruno, 18/11)
 
