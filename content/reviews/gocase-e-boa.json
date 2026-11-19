@@ -1,0 +1,258 @@
+{
+  "id": 1104,
+  "slug": "gocase-e-boa",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIAA",
+  "affiliate": "gocase",
+  "type": "Guia de Marca",
+  "title": "Gocase é boa? Como escolher garrafa térmica, bolsa e capinha",
+  "seoTitle": "Gocase é boa? Garrafa, bolsa e capinha pela ficha",
+  "description": "Compare a capacidade das garrafas, as medidas das bolsas e a garantia das capinhas da Gocase. Veja o que a loja informa para escolher cada produto.",
+  "metaDescription": "CECILIAA dá 5% OFF na Gocase. Compare capacidades da Fresh e da Urban, espaço para notebook nas bolsas e garantia das capinhas.",
+  "image": "/images/reviews/gocase/gocase-e-boa-capa.webp",
+  "imageAlt": "Capa com o logo da Gocase, o título “É boa?”, o cupom CECILIAA de 5% e, em foto oficial da loja, a garrafa Fresh rosa e a Bolsa Joy Pro preta.",
+  "cta": {
+    "text": "Abra o site pelo botão e monte o carrinho. No checkout, o campo de cupom só aceita o código depois da identificação com e-mail e CPF; digite CECILIAA e confira a linha Desconto (CECILIAA) e o total com frete antes de pagar.",
+    "label": "Ir para a Gocase",
+    "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Este guia usa as especificações da Gocase. Somos afiliados da marca e podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-gocase-como-usar"
+    },
+    {
+      "slug": "gocase-e-confiavel"
+    },
+    {
+      "slug": "black-friday-gocase"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer uma garrafa, copo ou bolsa com estampa ou nome.",
+      "Você quer decidir a bolsa pelo tamanho do notebook e pelo que mais leva junto."
+    ],
+    "skipIf": [
+      "Você vai levar bebida gaseificada na garrafa: a ficha da Fresh e da Urban não recomenda.",
+      "Você precisa da opção de devolver por arrependimento. A política da Gocase restringe essa devolução para itens personalizados."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Gocase faz sentido para quem quer personalizar uma garrafa, bolsa ou capinha. A loja oferece a Fresh em três tamanhos e a Urban de 500 ml. Para notebook, escolha a bolsa pelas medidas do compartimento. Os tempos de conservação e as medidas vêm das fichas da marca."
+      ]
+    },
+    {
+      "heading": "O que a Gocase vende",
+      "paragraphs": [
+        "A diferença entre as garrafas está no tamanho e nos cuidados de lavagem. Nas bolsas, comece pelo que precisa caber. Nas capinhas, confirme o modelo exato do seu celular antes de escolher a linha ou a estampa."
+      ]
+    },
+    {
+      "heading": "Garrafa Fresh: escolha pela capacidade e pelo peso",
+      "paragraphs": [
+        "Em todos os tamanhos da Fresh, a marca informa parede dupla a vácuo em aço inox 304 e conservação de até 24 horas para frios ou 12 horas para quentes. A ficha indica lavar o corpo à mão. A tampa pode ir à lava-louças.",
+        "Além da altura, confira o diâmetro se a garrafa for no bolso lateral da bolsa. A Fresh de 650 ml tem 7,4 cm de diâmetro. A de 950 ml é um pouco mais baixa, mas tem 9,15 cm de largura."
+      ],
+      "comparisonTable": {
+        "caption": "Garrafa Fresh por tamanho, segundo a ficha da loja.",
+        "headers": [
+          "Capacidade",
+          "Altura com tampa",
+          "Peso vazio"
+        ],
+        "rows": [
+          [
+            "650 ml",
+            "26,8 cm",
+            "345,50 g"
+          ],
+          [
+            "950 ml",
+            "26 cm",
+            "432,50 g"
+          ],
+          [
+            "1.200 ml",
+            "28,3 cm",
+            "469,68 g"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Se o nome do produto trouxer “+ Ebook”, é um kit. A Gocase informa que envia o e-book ao e-mail cadastrado após a emissão da nota fiscal. A página não informa o tema."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
+          "alt": "Garrafa Térmica Fresh da Gocase em foto oficial da loja",
+          "caption": "Foto da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Garrafa Fresh na Gocase",
+          "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Urban de 500 ml ou copo Life com canudo",
+      "paragraphs": [
+        "A Urban de 500 ml pesa 298 g vazia, segundo a ficha. É a opção menor entre as garrafas deste guia. A Gocase informa até 24 horas de conservação a frio e até 12 a quente. A orientação é lavar a garrafa à mão e evitar bebidas gaseificadas.",
+        "Se prefere beber pelo canudo, o Life vem em 880 ml e 1.170 ml. A marca informa até 40 horas para bebidas com gelo e até seis horas para líquidos quentes de até 60 °C. Lave o corpo à mão. A tampa pode ir à lava-louças."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
+          "alt": "Copo Térmico Life da Gocase em foto oficial da loja",
+          "caption": "Foto da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6689
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o Copo Life na Gocase",
+          "href": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8747",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Tote Daily, Tote Mini e Joy Pro: o que cabe",
+      "paragraphs": [
+        "Vai levar notebook? Meça o aparelho, incluindo a espessura, e compare com a tabela. A ficha da Joy Pro menciona tanto 14 quanto 15,6 polegadas. As medidas em centímetros servem para conferir se o seu aparelho cabe.",
+        "Pelas fichas, as duas totes têm porta-garrafa, e a Joy Pro admite a maior carga. Se pretende levá-la no avião, compare as dimensões da bolsa com o limite da companhia aérea."
+      ],
+      "comparisonTable": {
+        "caption": "Bolsas Clear pelas fichas da loja.",
+        "headers": [
+          "Modelo",
+          "Medidas da bolsa",
+          "Carga máxima",
+          "Compartimento do notebook"
+        ],
+        "rows": [
+          [
+            "Tote Daily",
+            "39 × 33 × 13,5 cm",
+            "5 kg",
+            "35,5 × 23,4 × 2 cm"
+          ],
+          [
+            "Tote Mini",
+            "28 × 38,5 × 13,5 cm",
+            "3 kg",
+            "24 × 36 × 2 cm"
+          ],
+          [
+            "Joy Pro",
+            "29 × 39 × 20 cm",
+            "8 kg",
+            "36 × 20 × 2 cm"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/gocase/gocase-tote-daily-oficial.webp",
+          "alt": "Tote Daily da Gocase em foto oficial da loja",
+          "caption": "Foto da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.0156
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Tote Daily na Gocase",
+          "href": "https://www.gocase.com.br/totebag-daily-clear/p/5916",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Joy Pro na Gocase",
+          "href": "https://www.gocase.com.br/bolsa-joy-pro-clear/p/5565",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Capinhas: confirme o modelo do celular",
+      "paragraphs": [
+        "Veja o nome exato do aparelho nas configurações e selecione esse modelo na loja. Se você usa carregador ou suporte magnético, confira se o anúncio identifica a capinha como Slim Guard MagSafe.",
+        "A Central de Ajuda descreve a Anti Impacto Slim como a linha básica de TPU com silicone. Na linha Premium, a marca atribui proteção UV contra amarelamento e 30% de material reciclado às Slim Guard MagSafe e Slim Guard Clear."
+      ]
+    },
+    {
+      "heading": "Garantia, troca e personalização",
+      "paragraphs": [
+        "A garantia varia por linha na Central de Ajuda da loja."
+      ],
+      "comparisonTable": {
+        "caption": "Garantia por linha, segundo a Central de Ajuda da Gocase.",
+        "headers": [
+          "Linha",
+          "Garantia"
+        ],
+        "rows": [
+          [
+            "Garrafas e copos térmicos",
+            "1 ano contra defeito de fabricação e 6 meses contra descascamento"
+          ],
+          [
+            "Capinhas",
+            "6 meses contra descascamento, 6 meses contra amarelamento e 3 meses para os demais defeitos"
+          ],
+          [
+            "Bolsas e mochilas",
+            "6 meses contra descascamento da personalização e 3 meses para os demais defeitos"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "As fichas das bolsas da tabela informam 90 dias contra defeitos de fabricação. Na Tote Daily, a ficha também informa seis meses contra defeitos de personalização.",
+        "A [política da Gocase](https://gocase.goconnect360.com.br/hc/gocase/pt_BR/categories/troca-e-devolues?article=1773265343-como-trocar-ou-devolver-um-produto-personalizado) restringe a devolução por arrependimento de itens com estampa, nome ou foto. Para a versão Clear, sem estampa nem personalização, a loja informa até sete dias corridos do recebimento, sem sinais de uso."
+      ]
+    },
+    {
+      "heading": "Cupom e preços da campanha",
+      "paragraphs": [
+        "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no pedido, para cliente novo e antigo. O quadro de preços da campanha, com o valor de cada produto e a conta com o cupom, está no guia da [Black Friday da Gocase](/reviews/black-friday-gocase), e o passo a passo, em [como usar o CECILIAA](/reviews/cupom-gocase-como-usar)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Quanto tempo a Fresh da Gocase mantém a bebida gelada? A Gocase informa até 24 horas para bebidas frias e até 12 horas para quentes nas condições da ficha.",
+        "A Gocase tem garantia? Na Central de Ajuda, os térmicos têm um ano contra defeitos de fabricação e seis meses contra descascamento. Nas capinhas e nas bolsas, o prazo depende do defeito. Confira a cobertura do modelo que escolher.",
+        "Produto personalizado da Gocase tem troca? A política da Gocase restringe a troca por arrependimento de itens com estampa, nome ou foto. Se houver defeito ou problema na entrega, acione o atendimento.",
+        "A bolsa Gocase cabe notebook? Compare as medidas do aparelho com as do compartimento. A ficha indica até 35,5 × 23,4 × 2 cm para a Tote Daily e 36 × 20 × 2 cm para a Joy Pro.",
+        "O que é o ebook que vem com a garrafa? É um kit promocional: o e-book vai para o e-mail cadastrado depois da emissão da nota fiscal. A página não diz o tema, e cancelar um item do kit faz perder o benefício."
+      ]
+    }
+  ]
+}

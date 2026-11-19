@@ -1,0 +1,172 @@
+{
+  "id": 1105,
+  "slug": "gocase-reclame-aqui-nota-reputacao",
+  "locale": "pt",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIAA",
+  "affiliate": "gocase",
+  "title": "Gocase no Reclame Aqui: a nota, o que mais gera reclamação e como a loja responde",
+  "seoTitle": "Gocase no Reclame Aqui: nota e reclamações",
+  "type": "Análise de Reputação",
+  "description": "Veja a nota da Gocase no Reclame Aqui, o que muda entre os recortes de seis e doze meses, quais queixas aparecem e como acionar o atendimento.",
+  "metaDescription": "Na Gocase, CECILIAA dá 5% OFF. No Reclame Aqui, a loja teve nota 8,5 e reputação Ótima. Veja as queixas mais citadas.",
+  "image": "/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa.webp",
+  "imageAlt": "Capa com o logo da Gocase, o título “Reclame Aqui: a nota”, o cupom CECILIAA de 5% e, em foto oficial da loja, o copo Life branco.",
+  "cta": {
+    "text": "Se a Gocase faz sentido para a sua compra, use o botão para ir ao site oficial e digite o código CECILIAA no checkout, depois de se identificar com e-mail e CPF.",
+    "label": "Ir para a Gocase",
+    "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Dados do perfil público da Gocase no Reclame Aqui. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "gocase-e-confiavel"
+    },
+    {
+      "slug": "gocase-e-boa"
+    },
+    {
+      "slug": "cupom-gocase-como-usar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Gocase teve reputação Ótima no Reclame Aqui, com nota 8,5 de maio a outubro de 2026. No semestre, respondeu a 99,7% das reclamações, e 85,6% ficaram registradas como resolvidas. Na aba geral, que cobre até três anos, produto com defeito foi a queixa mais citada."
+      ]
+    },
+    {
+      "heading": "A nota e o que ela quer dizer",
+      "paragraphs": [
+        "O [perfil da Gocase no Reclame Aqui](https://www.reclameaqui.com.br/empresa/go-case/) mostra reputação Ótima em cada mês do semestre e traz o selo de empresa verificada. O perfil ajuda a avaliar como a loja atende quem registra uma reclamação."
+      ]
+    },
+    {
+      "heading": "O perfil em números",
+      "paragraphs": [
+        "Lemos os recortes de seis e doze meses em 19/11. Os dois terminam em outubro."
+      ],
+      "comparisonTable": {
+        "caption": "Indicadores do perfil da Gocase no Reclame Aqui.",
+        "headers": [
+          "Indicador",
+          "De maio a outubro de 2026",
+          "De novembro de 2025 a outubro de 2026"
+        ],
+        "rows": [
+          [
+            "Reputação e nota",
+            "Ótima, 8,5",
+            "Ótima, 8,5"
+          ],
+          [
+            "Reclamações recebidas",
+            "6.801",
+            "16.080"
+          ],
+          [
+            "Respondidas",
+            "99,7%",
+            "99,9%"
+          ],
+          [
+            "Resolvidas",
+            "85,6%",
+            "87,5%"
+          ],
+          [
+            "Voltariam a fazer negócio",
+            "78,5%",
+            "78,2%"
+          ],
+          [
+            "Avaliadas",
+            "3.700",
+            "8.671"
+          ],
+          [
+            "Nota média do consumidor",
+            "7,79",
+            "7,64"
+          ],
+          [
+            "Tempo médio de resposta",
+            "5 dias e 4 horas",
+            "5 dias e 18 horas"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A plataforma registra 12 reclamações sem resposta no semestre. Mesmo com quase todas respondidas, o prazo médio foi de 5 dias e 4 horas. Para estimar quantas compras viraram reclamação, seria preciso ter o total de pedidos desses períodos."
+      ]
+    },
+    {
+      "heading": "Queixas mais citadas no perfil da Gocase",
+      "paragraphs": [
+        "Na aba geral do Reclame Aqui, que reúne registros de até três anos, produto com defeito lidera entre os problemas. Acessórios de Vestuário é a categoria mais citada, e capas protetoras são o tipo de produto mais citado.",
+        "Entre os relatos recentes consultados também apareceram pedidos com rastreio parado, dúvidas sobre alterar a personalização e cancelamentos."
+      ]
+    },
+    {
+      "heading": "O que dá para saber por produto",
+      "paragraphs": [
+        "Se você está pesquisando uma garrafa, uma bolsa ou uma capinha, use o perfil para entender os tipos de queixa. Para comparar as garantias de cada linha, veja [as regras de troca e garantia da Gocase](/reviews/gocase-e-confiavel)."
+      ],
+      "image": {
+        "src": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
+        "alt": "Copo Térmico Life branco da Gocase, com alça e tampa com canudo, em foto oficial da loja",
+        "caption": "Copo Térmico Life, um dos térmicos da loja. Foto da loja.",
+        "objectFit": "contain",
+        "aspectRatio": 0.6689
+      }
+    },
+    {
+      "heading": "Como falar com a Gocase se o pedido der problema",
+      "paragraphs": [
+        "Tenha o número do pedido em mãos. Você pode chamar a loja pelo chat do site ou pelo Direct do Instagram."
+      ],
+      "bullets": [
+        "**Atraso.** Abra “Meus pedidos” e selecione “Rastrear pedido”. A Gocase orienta aguardar até cinco dias úteis após a data máxima antes de abrir uma solicitação com a transportadora.",
+        "**Troca ou devolução.** Abra a opção de trocas e devoluções na Central de Ajuda."
+      ],
+      "postParagraphs": [
+        "Guarde o protocolo do atendimento. Se a solicitação continuar sem solução, ele ajuda a documentar a reclamação."
+      ]
+    },
+    {
+      "heading": "Onde conferir a nota atual e o cupom",
+      "paragraphs": [
+        "Consulte o [perfil da Gocase no Reclame Aqui](https://www.reclameaqui.com.br/empresa/go-case/) para ver o recorte mais recente.",
+        "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no site oficial para clientes novos e antigos."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Como é o atendimento da Gocase no Reclame Aqui? No recorte de seis meses da nossa consulta, a reputação era Ótima, com nota 8,5 de 10 e 85,6% das reclamações resolvidas.",
+        "Qual a nota da Gocase no Reclame Aqui? Na nossa leitura, os recortes de seis e de doze meses tinham nota 8,5 de 10 e reputação Ótima.",
+        "Quais as reclamações mais comuns da Gocase? No recorte de até três anos da aba geral, produto com defeito foi o problema mais citado. Capas protetoras foram o tipo de produto mais citado.",
+        "Como falar com a Gocase? Pelo Direct do Instagram, pelo chat do site ou pela opção de trocas e devoluções na Central de Ajuda."
+      ]
+    }
+  ],
+  "bodyDatesReason": "reclame-aqui"
+}
