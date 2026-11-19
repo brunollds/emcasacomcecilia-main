@@ -214,3 +214,10 @@ insatisfação, 180 por defeito; underwear só por defeito. SHEIN: pelo `tamanho
   a /cupons/insider até o reteste) e o prazo de devolução da SHEIN (não lido).
 - **Imagens:** capa no padrão de painel lateral (Legging Easy da Insider e Top SkinUp da Toda Up, fotos oficiais);
   corpo com a Easy e o Top Action da Insider, a Musera da SHEIN e o Top Segunda Pele da Toda Up (já no CDN).
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/insider/alternativas-a-donna-carioca-capa-v2.webp` (`imageFit: contain`), SHA-256 `1444f97bc79d854e985dd007216b54c03d36942fe09c36100a5a270acb91ff95`.
+- **Alt:** Capa com a chamada “Alternativas à Donna Carioca”. Três fotos mostram a Legging Easy roxa da Insider em cenário ilustrativo de estúdio, o Top Segunda Pele SkinUp claro da Toda Up e a legging marrom Musera Sport vendida na SHEIN. Cada foto traz o logo da loja correspondente.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/58/fontes-selecionadas.json`. Versão v4 aprovada: Insider, Toda Up e SHEIN lado a lado, cada foto de peça do artigo com o logo da loja; sem código, porque as condições são de cada loja.
+- **Lote 58 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/58/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/58/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/insider/alternativas-a-donna-carioca-capa.webp`) fica no CDN, sem uso como capa.

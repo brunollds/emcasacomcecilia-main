@@ -247,3 +247,10 @@ marketplaces (navegador). O link do fechamento depende do deploy da `/cupons/bol
 
 - Deploy do release `235383f3` (build Hostinger `01a1f0c5`), com o `deploy:finish` verificado, smoke 200 com a capa no CDN, `covers:check` ok, no sitemap e no `llms.txt`, e IndexNow enviado.
 - Releituras: retestar o CECILIA15 em 23/11 (fim da Pré-Black) e reler o regulamento dos brindes na fase seguinte.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/bold/bold-snacks-e-confiavel-capa-v2.webp` (`imageFit: contain`), SHA-256 `58d4f1dc360e514f24c9fce751b6ebf60a5b938d714d6271e08ca881dadf2007`.
+- **Alt:** Caixa e embalagens vermelhas de BOLD Tube Speculoos sobre tecido, em foto oficial da marca. A capa traz o logo BOLD Snacks e a chamada “É confiável?”, com o cupom CECILIA15.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/59/fontes-selecionadas.json`.
+- **Lote 59 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/59/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/59/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bold/bold-snacks-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

@@ -150,3 +150,10 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Ca
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno depois do merge do #1061 e aplicado no mesmo dia: a resposta rápida e o veredito passam a citar "produto não recebido" como a queixa que lidera o histórico; a cronologia ficou mais curta, com link para o Mercado & Consumo e para o NeoFeed (endereços abertos e conferidos); percentuais com a base das reclamações avaliadas; links para as políticas e a central de ajuda.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/baw/baw-clothing-e-confiavel-capa-v2.webp` (`imageFit: contain`), SHA-256 `d1ef5e13f4c285ecd3cde1f716ee92271ddb07321176f371947096dec70c5faa`.
+- **Alt:** Modelo com camiseta Regular Selfie Logo grafite da BAW e jeans claro, em foto oficial montada sobre cenário urbano ilustrativo. A capa traz o logo BAW e a chamada “É confiável?”, com o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/59/fontes-selecionadas.json`.
+- **Lote 59 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/59/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/59/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/baw-clothing-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

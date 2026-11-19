@@ -156,3 +156,10 @@ Sem quadro "Leve se / Passe se".
 - **Cubitan:** carboidratos fora (linha ilegível na página da Danone); ômega-3 0,2 g por 100 ml, igual ao Proline por unidade.
 - **Proline:** selo "Sem Glúten" na página; ingredientes e alérgicos não listados.
 - **Parecer externo:** aceitos o texto e o pedido mínimo; mantidos as aspas nas indicações, o preço com o CECI primeiro e a diferença de um centavo só no parágrafo de preço.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/novasource-proline-ou-cubitan-capa-v2.webp` (`imageFit: contain`), SHA-256 `d9bfdc92d95381b2d663989e0cdf5fd2f1a66690933edd3f5b690a2913c2e21f`.
+- **Alt:** Caixa de Novasource Proline sabor baunilha de 200 ml, em foto de catálogo montada sobre uma bancada lilás ilustrativa. A capa traz o logo Nestlé Nutre e a chamada “Proline ou Cubitan?”, com o cupom CECI.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/60/fontes-selecionadas.json`. A arte mostra a embalagem do Novasource Proline; a chamada cita as duas fórmulas.
+- **Lote 60 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/60/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/60/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/novasource-proline-ou-cubitan-capa.webp`) fica no CDN, sem uso como capa.

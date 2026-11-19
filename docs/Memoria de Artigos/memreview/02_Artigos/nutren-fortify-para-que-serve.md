@@ -171,3 +171,10 @@ Sem quadro "Leve se / Passe se": a decisão de usar não é do leitor sozinho.
 - **Selo "Sem Açúcar" da vitrine** contra 1,5 g de açúcares adicionados na tabela: o texto explica.
 - **Frete:** o cálculo no carrinho não abriu; o texto manda conferir pelo CEP.
 - Revisão independente e parecer externo (docs/auditoria-copy-artigos/nestle-nutre-fase1-20261119-farol) aplicados depois de conferir os fatos na loja. Capa aprovada pelo Bruno.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-fortify-para-que-serve-capa-v2.webp` (`imageFit: contain`), SHA-256 `6843b2b8d66d51bf9b3d9b9f2d7f08a3f87b342ff4e8c05c4ef1a7afd5fd7e90`.
+- **Alt:** Tigela de sopa com uma colher em movimento, em ilustração de preparo criada por IA. A capa traz o logo Nestlé Nutre e a chamada “Nutren Fortify: para que serve?”, com o cupom CECI.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/58/fontes-selecionadas.json`. A tigela de sopa é ilustração, como diz o alt (`lotes/58/ADENDO-FORTIFY.md`).
+- **Lote 58 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/58/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/58/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/nutren-fortify-para-que-serve-capa.webp`) fica no CDN, sem uso como capa.

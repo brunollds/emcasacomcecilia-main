@@ -138,3 +138,10 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Ca
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno depois do merge do #1061 e aplicado no mesmo dia: o índice de solução e o "voltariam a fazer negócio" passam a dizer que valem para as reclamações avaliadas (metodologia do Reclame Aqui, conferida no manual da plataforma); saiu a promessa de "evitar" problema (subtítulo, snippet e título da seção); links para o perfil, as políticas e a central de ajuda.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`), SHA-256 `72ea719abd04e11084b1b54bca44e96abf961ffc77387d5072c05cd966559c3c`.
+- **Alt:** Modelo com o moletom BAW All Stars e, ao lado, detalhe ampliado da estampa de estrelas da mesma peça. Fotos oficiais. A capa traz o logo BAW e a chamada “Reclame Aqui — Nota e queixas”, com o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/60/fontes-selecionadas.json`.
+- **Lote 60 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/60/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/60/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

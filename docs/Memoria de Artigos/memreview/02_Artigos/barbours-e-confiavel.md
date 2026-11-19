@@ -150,3 +150,10 @@ rodapé do checkout com a empresa e print do resumo com o cupom.
 ## No ar (18/11/2026)
 
 Release `54248b78` (com o #1162, o #1166 do Farol, o #1160 da AD7 e AD8, as lojas BOLD e Barbour's e a campanha da Proton), no ar às 21:07 UTC; build `01a1f077…`, 2 workers no `deploy:finish`. Smoke de 16 páginas (título, capa e imagens do CDN, CECILIALINHARES, frases proibidas, sitemap e llms.txt), `covers:check` 8/8, IndexNow 26 URLs, captura `44398489658`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/barbours/barbours-e-confiavel-capa-v2.webp` (`imageFit: contain`), SHA-256 `64450b1aae26c9aa481190766477b18def78a7ee3117219d2ecf15008193ccba`.
+- **Alt:** Frasco Midnight Homme da Barbour’s Beauty sobre um pedaço de madeira, cercado por ervas e especiarias, em foto oficial. A capa traz o logo Barbour’s Beauty e a chamada “É confiável?”, com o cupom CECILIALINHARES.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/59/fontes-selecionadas.json`.
+- **Lote 59 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/59/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/59/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/barbours/barbours-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

@@ -254,3 +254,10 @@ da embalagem) e Mercado Livre e Amazon (navegador).
 ## No ar (18/11/2026)
 
 Release `407a2ee3` (#1134, com o #1133 da outra sessão), no ar às 05:16 UTC; build `01a1ed12…`, 2 workers no `deploy:finish`. Smoke de 15 páginas (título, capa no CDN, imagens do corpo, EMCASA, frases proibidas, sitemap e llms.txt), `covers:check` 6/6, IndexNow 19 URLs, captura `44243262540`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/rituaria-e-confiavel-capa-v2.webp` (`imageFit: contain`), SHA-256 `15d26c246d069b3a4f4dfebe51494a8ed14e926db2471a1e7ca484b3d7ba4bb0`.
+- **Alt:** Frasco de óleo de Rosa Mosqueta de 30 ml da Rituária, em foto oficial montada sobre uma bancada terracota ilustrativa. A capa traz o logo Rituária e a chamada “É confiável?”, com o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/59/fontes-selecionadas.json`.
+- **Lote 59 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/59/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/59/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/rituaria/rituaria-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

@@ -179,3 +179,10 @@ print `/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp`.
 ## No ar (18/11/2026)
 
 Release `f875e6a6` (#1145, com o #1141 da /cupons/adaptogen e o #1144 da Let's Eat It), no ar às 18:19 UTC; build `01a1efde…`, 2 workers no `deploy:finish`. Smoke das 4 páginas (título, capa no CDN, imagens do corpo, CECILIA, frases proibidas, sitemap e llms.txt), `covers:check` 4/4, IndexNow 8 URLs, captura `44368636479`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa-v2.webp` (`imageFit: contain`), SHA-256 `d72eaf5a1e5435d8613131dab84d584dfb3f839f58e3836efefda3eb3b4004a9`.
+- **Alt:** Pote de Tasty Whey 3W Gourmet Banoffee da Adaptogen, em foto oficial montada sobre uma bancada ilustrativa de vestiário. A capa traz o logo Adaptogen e a chamada “Como usar o cupom”, com o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/59/fontes-selecionadas.json`. Versão v4 aprovada, com o pote Tasty Whey 3W Gourmet Banoffee (`lotes/59/revisao-whey/`).
+- **Lote 59 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/59/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/59/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa.webp`) fica no CDN, sem uso como capa.

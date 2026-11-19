@@ -167,3 +167,10 @@ Capa no painel lateral, `imageFit: contain`: primeira foto oficial do sérum (fr
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno depois do merge do #1069 (`docs/auditoria-copy-artigos/lamazonie-lz1-lz2-lz3-pr1069-20261116-farol/`). P02 a P06 aplicadas: o caminho do Finalizar compra passa a ser descrito como resultado do teste (sem "só entra"), e "carrinho inteiro" virou "os produtos do carrinho". O título (P01) foi trocado com o OK do Bruno para "Cupom L'Amazonie: como aplicar o CECILIA pelo botão Finalizar compra"; seoTitle e slug iguais.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa-v2.webp` (`imageFit: contain`), SHA-256 `e74adb797f65db63f47a9be687ba37d5209566a98d4732c45f0c0a695aaa6e03`.
+- **Alt:** Mão segurando a bisnaga do Gel de Limpeza Vitamina C da L’Amazonie sobre água, em cena de catálogo. A capa traz o logo L’Amazonie e a chamada “Como aplicar o cupom”, com o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/58/fontes-selecionadas.json`.
+- **Lote 58 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/58/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/58/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa.webp`) fica no CDN, sem uso como capa.

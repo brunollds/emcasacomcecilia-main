@@ -155,3 +155,10 @@ Quadro "Leve se / Passe se": cabe (é guia de produto de consumo), de 1 a 3 fras
 - **Composto lácteo:** notice do Ministério da Saúde na seção do produto e na de preço (anexo de suplementos e alimentos).
 - **Protein em pó (página):** 120 kcal, 14 g de proteína (20 g com leite), 80 mg de cafeína; não deve ser consumido por gestantes, lactantes e crianças.
 - Parecer externo aplicado depois de conferir os fatos. Capa aprovada pelo Bruno.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-active-para-que-serve-capa-v2.webp` (`imageFit: contain`), SHA-256 `e47c4119251b5cb78dea9fa6815be5d97aa0844c30919a0cd8fbaa4814525997`.
+- **Alt:** Embalagem econômica de 700 g de Nutren Active Baunilha, em foto de catálogo montada sobre uma bancada ilustrativa. A capa traz o logo Nestlé Nutre e a chamada “Nutren Active: para que serve?”, com o cupom CECI.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/58/fontes-selecionadas.json`.
+- **Lote 58 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/58/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/58/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/nutren-active-para-que-serve-capa.webp`) fica no CDN, sem uso como capa.
