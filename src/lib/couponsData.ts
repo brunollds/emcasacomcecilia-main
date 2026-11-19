@@ -5122,6 +5122,130 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'denavita',
+    brand: 'Denavita',
+    officialUrl: 'https://www.denavita.com.br/',
+    // Link de afiliado da GoGroup (Bruno, 19/11/2026). Nunca abrir para conferir. O teste foi pelo site oficial.
+    offerUrl: 'https://denavita.gogroup.com.br/emcasacomcecilia',
+    brandIcon: 'D',
+    brandLogo: '/images/about/partners/denavita.png',
+    brandLogoAlt: 'Marca Denavita',
+    bubble: { src: '/images/logos/bolinhas/denavita-folhas.png', background: '#54B101' },
+    brandWatermark: '/images/logos/watermarks/denavita.webp',
+    brandColor: '#54B101',
+    code: 'EMCASA',
+    codeFieldLabel: 'Tem um cupom?',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Vitaminas e suplementos: laranja moro, magnésio, ômega 3, colágeno, creatina e kits',
+    hubCategory: 'saude',
+    hubCard: 'reduzido',
+    shortDescription: 'todo o site da Denavita, inclusive os produtos em promoção',
+    longDescription:
+      'O cupom Denavita EMCASA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram sobre vitaminas e suplementos que já estavam com desconto. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Denavita: 10% OFF com EMCASA',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom Denavita: EMCASA dá 10% OFF em vitaminas e suplementos, para cliente novo ou antigo, e soma com as promoções do site. Testado no checkout.',
+    eligibleCategories: 'Produtos do site oficial da Denavita, inclusive os que estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping:
+      'O site anuncia frete grátis em compras a partir de R$ 199,90, com regras próprias; o valor do frete e o prazo saem no checkout depois do CEP',
+    // O "Leve 3, Pague 2" do carrinho ainda não foi testado com o cupom (pede identificação): só os preços em promoção.
+    combinable: 'Soma com as promoções de preço do site e vale com todas as formas de pagamento',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, a Laranja Moro de R$ 129,90 por R$ 76,90 também ganhou os 10%' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
+      { benefit: 'frete', stacks: 'depende', condition: 'O site anuncia frete grátis a partir de R$ 199,90; confira a opção no checkout depois do CEP' },
+    ],
+    paymentPerks: ['Parcelamento no cartão de crédito, com 3x sem juros nos produtos da vitrine'],
+    lastVerified: '2026-11-19',
+    testedAt: '2026-11-19',
+    testNote:
+      'Num carrinho com a Laranja Moro Morosil, Picolinato de Cromo e Café Verde em promoção, de R$ 129,90 por R$ 76,90, o EMCASA tirou R$ 7,69 e o total caiu para R$ 69,21. Com o Jejoom Shot Matinal, de R$ 94,90, e o Trio Magnésio, de R$ 46,90, no mesmo carrinho, os R$ 218,70 em produtos ganharam R$ 21,87 de desconto, 10%, e o total ficou em R$ 196,83.',
+    codeInstructions: [
+      'Copie o código EMCASA no card acima.',
+      'Acesse o site oficial da Denavita pelo botão indicado, adicione os produtos ao carrinho e clique em Finalizar compra.',
+      'No resumo do checkout, digite o código no campo Tem um cupom? e clique em Adicionar.',
+      'Confira a linha Cupom de desconto, em Descontos, antes de seguir para a entrega e o pagamento.',
+    ],
+    aboutBrand:
+      'A Denavita é uma marca de vitaminas e suplementos vendida pelo site oficial, com cápsulas de laranja moro, magnésio, ômega 3, coenzima Q10, colágeno tipo II, NAC com polivitamínico, vinagre de maçã em gomas, creatina, colágeno em pó e kits. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e também sobre os produtos em promoção.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom EMCASA dá na Denavita?',
+        answer:
+          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 21,87 de um carrinho de R$ 218,70, e o resumo do checkout mostrou o valor na linha Cupom de desconto.',
+      },
+      {
+        question: 'O cupom Denavita soma com os produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, a Laranja Moro estava em promoção, de R$ 129,90 por R$ 76,90, e o cupom tirou os 10% dela também: R$ 7,69, com o total em R$ 69,21.',
+      },
+      {
+        question: 'O cupom Denavita vale na primeira compra?',
+        answer: 'Sim. O EMCASA vale na primeira compra e também para quem já comprou na Denavita.',
+      },
+      {
+        question: 'Qual cupom Denavita vale para quem já é cliente?',
+        answer: 'O EMCASA. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O EMCASA é cupom de influenciadora da Denavita?',
+        answer:
+          'Sim. EMCASA é o cupom do Em Casa com Cecília na Denavita e dá 10% OFF no site oficial para clientes novos e antigos.',
+      },
+      {
+        question: 'O cupom EMCASA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o EMCASA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Denavita?',
+        answer:
+          'No checkout do site oficial, que abre pelo botão Finalizar compra do carrinho: digite EMCASA no campo Tem um cupom?, no resumo, e clique em Adicionar. O resumo passa a mostrar o desconto na linha Cupom de desconto, antes mesmo de preencher a entrega.',
+      },
+      {
+        question: 'Tem cupom Denavita na Black Friday?',
+        answer:
+          'Tem. O cupom Denavita EMCASA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+      },
+      {
+        question: 'O cupom Denavita vale na Black Friday?',
+        answer:
+          'Vale. No nosso teste, em novembro, os 10% entraram em cima dos preços em promoção do site. Confira a linha Cupom de desconto no resumo antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete. O site da Denavita anuncia frete grátis em compras a partir de R$ 199,90, com regras próprias: confira a opção no checkout, depois de informar o CEP.',
+      },
+      {
+        question: 'Como funciona a troca na Denavita?',
+        answer:
+          'Pela central de ajuda da loja, a desistência pode ser pedida pelo portal de trocas em até 7 dias corridos depois do recebimento, sem abrir a caixa, e produto com defeito ou diferente do pedido, em até 30 dias, com o número do pedido em mãos.',
+      },
+      {
+        question: 'O que fazer se o cupom EMCASA não funcionar?',
+        answer:
+          'Confira se o código foi digitado no campo Tem um cupom? do checkout, sem espaços, e se a linha Cupom de desconto apareceu no resumo. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção do site',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     cartPrint: { article: 'cupom-hostinger-indicacao', src: '/images/reviews/hostinger/cupom-hostinger-carrinho-com-cupom.webp', alt: 'Resumo do pedido no carrinho da Hostinger com a linha Cupom aplicado e a etiqueta SONAR20', aspectRatio: 1.096 },
     brand: 'Hostinger',

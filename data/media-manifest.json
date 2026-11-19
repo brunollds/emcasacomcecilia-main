@@ -1102,6 +1102,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/denavita.png",
+      "local_url": "/images/about/partners/denavita.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 13940,
+      "sha256": "5633ea20f7beebb29a4be17870bb36ea5be9c0ecb1160b51257f2479563a95b0",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "denavita.png",
+      "storage_filename": "denavita.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Denavita.md",
+        "src/lib/aboutPage.ts",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Denavita.md",
+          "line": 58,
+          "column": 4,
+          "literal": "/images/about/partners/denavita.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/aboutPage.ts",
+          "line": 96,
+          "column": 29,
+          "literal": "/images/about/partners/denavita.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 5131,
+          "column": 17,
+          "literal": "/images/about/partners/denavita.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5633ea20f7beebb29a4be17870bb36ea5be9c0ecb1160b51257f2479563a95b0/denavita.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5633ea20f7beebb29a4be17870bb36ea5be9c0ecb1160b51257f2479563a95b0/denavita.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T22:32:06.105Z",
+      "verification_etag_or_digest": "5633ea20f7beebb29a4be17870bb36ea5be9c0ecb1160b51257f2479563a95b0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/dolce-gusto.avif",
       "local_url": "/images/about/partners/dolce-gusto.avif",
       "media_kind": "image",
@@ -3588,6 +3642,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T19:30:51.016Z",
       "verification_etag_or_digest": "8556b618797b591a22ed925f48d18b8d9083e8fe92a09d8e6ab65ec05163ae51",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/bolinhas/denavita-folhas.png",
+      "local_url": "/images/logos/bolinhas/denavita-folhas.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 29194,
+      "sha256": "a720af7b6c03a5129d4cb1e604387c9fdaad1535bbfe8ad344fbb00a6b163206",
+      "width": 512,
+      "height": 512,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "denavita-folhas.png",
+      "storage_filename": "denavita-folhas.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Denavita.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Denavita.md",
+          "line": 59,
+          "column": 4,
+          "literal": "/images/logos/bolinhas/denavita-folhas.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 5133,
+          "column": 21,
+          "literal": "/images/logos/bolinhas/denavita-folhas.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a720af7b6c03a5129d4cb1e604387c9fdaad1535bbfe8ad344fbb00a6b163206/denavita-folhas.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a720af7b6c03a5129d4cb1e604387c9fdaad1535bbfe8ad344fbb00a6b163206/denavita-folhas.png",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T22:32:06.421Z",
+      "verification_etag_or_digest": "a720af7b6c03a5129d4cb1e604387c9fdaad1535bbfe8ad344fbb00a6b163206",
       "verification_status": "verified"
     },
     {
@@ -24488,6 +24588,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-05T19:55:06.187Z",
       "verification_etag_or_digest": "9f92f745d29ed37b2a6be76d476e802bcf55496c22ba2a027c18c3880c3386e4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/denavita.webp",
+      "local_url": "/images/logos/watermarks/denavita.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13936,
+      "sha256": "5d798630825411a47f02755a360d54afeb0d5498550dc78b7488c84e0041c8c3",
+      "width": 480,
+      "height": 145,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "denavita.webp",
+      "storage_filename": "denavita.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Denavita.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Denavita.md",
+          "line": 60,
+          "column": 4,
+          "literal": "/images/logos/watermarks/denavita.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 5134,
+          "column": 22,
+          "literal": "/images/logos/watermarks/denavita.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5d798630825411a47f02755a360d54afeb0d5498550dc78b7488c84e0041c8c3/denavita.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5d798630825411a47f02755a360d54afeb0d5498550dc78b7488c84e0041c8c3/denavita.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T22:32:06.660Z",
+      "verification_etag_or_digest": "5d798630825411a47f02755a360d54afeb0d5498550dc78b7488c84e0041c8c3",
       "verification_status": "verified"
     },
     {
