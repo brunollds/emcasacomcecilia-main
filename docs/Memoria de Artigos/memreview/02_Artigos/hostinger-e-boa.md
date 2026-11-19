@@ -241,6 +241,8 @@ escolher, e a conta da renovação em reais. Não temos teste de velocidade nem 
   atualizações), quando a hospedagem comum basta; link para o VPS ou compartilhada e para o OpenClaw.
 - **H2 "Hostinger email é bom?" (busca literal):** o e-mail Business do Bruno, preço por caixa; newsletter é outro
   produto (Reach), com link.
+- **H2 "Domínio Hostinger é bom?" (busca literal: "dominio hostinger é bom"):** os domínios do Bruno, na mesma conta
+  da hospedagem e do e-mail; o SONAR20 não vale em domínio; link para o artigo de domínio, sem repetir a tabela dele.
 - **H2 "Para loja virtual e Minecraft" (título direto):** o que a página informa, sem teste, sem comparar com
   Nuvemshop ou Shopify.
 - **H2 "Quanto custa depois da entrada" (título direto):** a tabela com entrada e renovação e a única conta de
@@ -321,5 +323,7 @@ Páginas salvas no scratchpad (`hostinger-boa/pages/`): `/br/hospedagem-de-sites
    ao configurar, quando o público é daqui), e na hospedagem o texto manda conferir o local disponível no plano. Fora
    do PT, a frase é "escolha o local mais perto do seu público", sem citar o Brasil.
 5. **Autoria:** só o Bruno (`authors: ["bruno-luiz"]`), em primeira pessoa, como pede o anexo de tecnologia.
+6. **O que o Bruno usa (lembrete dele, 19/11):** hospedagem, domínio, VPS e e-mail. São os quatro capítulos com "Usei:";
+   o de domínio entrou no esqueleto. Criador com IA, loja virtual, Minecraft e Reach seguem só com "A loja informa:".
 
 **Antes da redação:** reler os preços no dia (Black Friday da Hostinger até 14/12). VPS e e-mail do site internacional lidos em 19/11.
