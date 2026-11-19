@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia"
 anexo_tipo: "Anexo-Moda"
-status: "briefing"
+status: "pr"
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "Job 2: reler preços e o código de cada loja no carrinho, redigir; card de estilo não se aplica (roupa íntima)"
+proxima_acao: "upload da capa ao CDN (OK do Bruno) e merge"
 bloqueado_por: null
 data_criacao: "2026-11-18"
 pauta_id: "DC2 (GO do Bruno em 18/11/2026)"
@@ -162,3 +162,18 @@ os 87,5% são dos modelos com costura.
 - Do Job 2: carrinho do dia nas duas lojas (preço com o código, NakedFeel, página comum da Toda Up); frete da Toda
   Up; reler os preços, porque as três lojas estão em campanha de novembro.
 - Do Bruno: nenhuma que trave. Se a Cecília receber peças, o texto pode ganhar a parte de uso numa revisão.
+
+## 10. Redação, revisão e JSON (18/11/2026)
+
+- **Carrinho do dia (sem compra):** Insider, Brief a laser R$ 39 → R$ 33,15 e NakedFeel R$ 59 → R$ 50,15 com o
+  EMCASACOMCECILIA (15%). **A NakedFeel aceitou o código**, ao contrário do que a ficha dizia antes. O checkout
+  mostrou a frase "Como você já comprou na Insider, ele oferece 5% OFF" mesmo sem e-mail, e aplicou 15%. Algumas
+  variantes saem como "Compra antecipada: envio a partir de Jan/27". Toda Up, SkinUp biquíni R$ 49,90 → R$ 44,91 com
+  o `MAUAD`; o site e o checkout anunciam frete grátis acima de R$ 199.
+- **Caleçon, Fio Minimal, Cotton Up e os outros SkinUp:** preço com o código é conta sobre a página, e a legenda diz.
+- **Revisão (Fable 5.2):** 17 ajustes aplicados (alegações atribuídas a cada loja, preço testado separado do
+  calculado, juízos de uso tirados). Fica para o Bruno: título, `description` e resposta rápida dizem "não marca" e
+  "some na roupa" sem uso, como no briefing aprovado.
+- **Capa:** fotos oficiais da Brief a laser (Insider) e da SkinUp cós alto (Toda Up), sem nome de loja;
+  `/images/reviews/insider/calcinha-para-academia-capa.webp`. Corpo: quatro fotos que já estão no CDN.
+- `skinup-marca-na-roupa` ganhou o link de volta e o relacionado.
