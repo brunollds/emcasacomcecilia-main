@@ -4611,7 +4611,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'reduzido',
     shortDescription: 'todo o site da BOLD Snacks, inclusive os produtos em promoção',
     longDescription:
-      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 20% entraram numa caixa de barras pelo preço cheio, num whey em promoção e no preço de assinatura do BOLD Club. O nome tem 15, mas o desconto no checkout foi de 20%.',
+      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 20% entraram numa caixa de barras pelo preço cheio, num whey em promoção e no preço de assinatura do BOLD Club.',
     metaTitle: 'Cupom BOLD Snacks: 20% OFF com CECILIA15',
     metaTitleMonth: true,
     metaDescription:
