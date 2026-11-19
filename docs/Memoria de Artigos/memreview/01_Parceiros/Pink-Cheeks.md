@@ -43,7 +43,7 @@ o site oficial.
 - Testar pelo caminho do cliente: "Adicionar ao carrinho" no produto, gaveta, "Finalizar pedido"; no checkout, campo
   "Código de desconto ou cartão-presente", botão "Aplicar"; o desconto sai numa linha só, "Desconto no pedido".
 - A gaveta do carrinho também tem um campo "Cupom"; a página ensina pelo checkout.
-- Protetor solar e maquiagem com FPS: sem promessa de efeito além do rótulo. Nos artigos, usar `coupon: "pinkcheeks"` e link
+- Protetor solar e maquiagem com FPS: sem promessa de efeito além do rótulo. Nos artigos, usar `affiliate: "pinkcheeks"`, `coupon: "PNK-EMCASACOMCECILIA"` (o código) e link
   relativo para `/cupons/pinkcheeks`, com a âncora exata "cupom Pink Cheeks".
 
 ---
