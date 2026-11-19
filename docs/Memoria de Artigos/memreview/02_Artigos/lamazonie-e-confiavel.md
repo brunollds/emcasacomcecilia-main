@@ -165,3 +165,10 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Ca
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno depois do merge do #1069 (`docs/auditoria-copy-artigos/lamazonie-lz1-lz2-lz3-pr1069-20261116-farol/`). P11 a P17 aplicadas: resposta rápida, conclusão e FAQ preservam a dúvida sobre qual processo da Anvisa corresponde ao frasco vendido hoje; o Guia de Comércio Eletrônico do Procon-SP ganhou o link do PDF oficial (conferido, responde 200); o FAQ da garantia traz as janelas das fotos. Na P12, a fonte é nomeada (arquivo de dados abertos) sem link, porque o endereço baixa um CSV de 230 MB.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/lamazonie/lamazonie-e-confiavel-capa-v2.webp` (`imageFit: contain`), SHA-256 `02d900110c96fb151a01610efb9d843ed8a9b55083dae5bab93b81f95e993d66`.
+- **Alt:** Close da embalagem verde e dourada do Desodorante Clareador L’Amazonie Intimus, em foto oficial. A capa traz o logo L’Amazonie e a chamada “É confiável?”, com o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/59/fontes-selecionadas.json`.
+- **Lote 59 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/59/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/59/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/lamazonie/lamazonie-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

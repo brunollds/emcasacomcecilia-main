@@ -144,3 +144,10 @@ resumo do checkout com o cupom.
 ## No ar (18/11/2026)
 
 Release `f875e6a6` (#1145, com o #1141 da /cupons/adaptogen e o #1144 da Let's Eat It), no ar às 18:19 UTC; build `01a1efde…`, 2 workers no `deploy:finish`. Smoke das 4 páginas (título, capa no CDN, imagens do corpo, CECILIA, frases proibidas, sitemap e llms.txt), `covers:check` 4/4, IndexNow 8 URLs, captura `44368636479`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/adaptogen/cupom-adaptogen-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `f8bf5f9f8ce136c7675acadfa7bf45b1c626b275be22f51571015d31871131f6`.
+- **Alt:** Latas de Panic Drink Ponche de Frutas da Adaptogen, da foto oficial de catálogo, em montagem ilustrativa de bancada. A capa traz o logo Adaptogen e a chamada “Cupom na primeira compra”, com o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/58/fontes-selecionadas.json`.
+- **Lote 58 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/58/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/58/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/adaptogen/cupom-adaptogen-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

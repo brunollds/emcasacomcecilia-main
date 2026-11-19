@@ -148,3 +148,10 @@ Sem quadro "Leve se / Passe se".
 - **Proline:** ômega-3 200 mg por 100 ml; selo "Sem Glúten" na página; sem lista de ingredientes.
 - **Indicação do Impact:** só o trecho "para compor dietas de pessoas em situações específicas", entre aspas; cirurgia e oncologia fora do texto.
 - **Parecer externo:** aceitos o texto e a seção "Caixinha ou combo de baunilha"; as indicações voltaram para as aspas.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/novasource-proline-ou-impact-capa-v2.webp` (`imageFit: contain`), SHA-256 `bcb9713bddfc5ba4132e1b80fadaabda068b4d71c3ba6c2bbb11db10c9bd04e1`.
+- **Alt:** Caixa de Impact sabor baunilha de 200 ml, em foto de catálogo montada sobre uma bancada azul ilustrativa. A capa traz o logo Nestlé Nutre e a chamada “Proline ou Impact?”, com o cupom CECI.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/60/fontes-selecionadas.json`.
+- **Lote 60 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/60/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/60/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/novasource-proline-ou-impact-capa.webp`) fica no CDN, sem uso como capa.

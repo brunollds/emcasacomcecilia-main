@@ -205,3 +205,10 @@ Nenhuma nova. (As abertas do pacote seguem: datas da Black Friday e mínimo ou l
 ## No ar (18/11/2026)
 
 Release `407a2ee3` (#1134, com o #1133 da outra sessão), no ar às 05:16 UTC; build `01a1ed12…`, 2 workers no `deploy:finish`. Smoke de 15 páginas (título, capa no CDN, imagens do corpo, EMCASA, frases proibidas, sitemap e llms.txt), `covers:check` 6/6, IndexNow 19 URLs, captura `44243262540`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`), SHA-256 `55fd31f1b6c28c7be5897cbfca9282e77afa967f5da61c4db97fc94f65231a38`.
+- **Alt:** Embalagem de Femme Protein sabor Abacaxi com Hortelã da Rituária, em foto oficial montada sobre uma bancada âmbar ilustrativa. A capa traz o logo Rituária e a chamada “Reclame Aqui — Nota e queixas”, com o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/60/fontes-selecionadas.json`. Embalagem da Femme Protein.
+- **Lote 60 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/60/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/60/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

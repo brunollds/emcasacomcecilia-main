@@ -232,3 +232,10 @@ O texto usa só o que está nas respostas. Pergunta sem resposta não vira texto
 - Saiu no release `f62d56ac5` (deploy UUID `1ec3cd39…`), feito por outra sessão. Ele inclui o #1216 e o #1218.
 - Smoke: as 4 páginas (o review, o guia de máquinas e as duas páginas de vídeo) dão 200; a capa vem do CDN; o `covers:check` dá 1/1; sitemap e llms ok.
 - IndexNow com 6 URLs: o review, o guia de máquinas, as duas páginas de vídeo, `/videos` e o sitemap.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa-v2.webp` (`imageFit: contain`), SHA-256 `ee1494d7a7dcea9b24aed03f76180c15dc13a5e15d5365d305472f03e8455492`.
+- **Alt:** Duas imagens próprias: a Dolce Gusto NEO branca com a mão de Cecília no reservatório e um copo de café gelado com limão ao lado da máquina. A capa traz o logo Dolce Gusto e a chamada “NEO vale a pena?”, com o cupom CECI.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/59/fontes-selecionadas.json`. Foto própria da NEO ao lado da foto do café gelado.
+- **Lote 59 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/59/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/59/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa.webp`) fica no CDN, sem uso como capa.

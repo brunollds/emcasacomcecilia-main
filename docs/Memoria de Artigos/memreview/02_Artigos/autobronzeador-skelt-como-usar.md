@@ -179,3 +179,10 @@ Sem card de estilo (não é roupa) e sem quadro "Leve se / Passe se" (não é de
 - **Preços de lista (19/11):** Mousse, Água e Bifásico R$ 119,90; Mousse Dark e Água Dark R$ 129,90; Gel R$ 98,90; luva R$ 34,90. Nenhum valor com o código no texto.
 - **Perguntas frequentes da loja** relidas: todas as respostas da seção 5 conferem.
 - Revisão em três lentes; correções aplicadas. Fora do texto: o Facial "esgotado" (estoque não relido).
+
+## Capa v3 (19/11/2026)
+
+- **Capa:** `/images/reviews/skelt/autobronzeador-skelt-como-usar-capa-v3.webp` (`imageFit: contain`), SHA-256 `6a948e21116b4aedb1699eb6041c3254460a754710bd282af42ec0f5ae692d42`.
+- **Alt:** Modelo segurando o Autobronzeador Bifásico da Skelt junto ao rosto, em imagem oficial com fundo cobre. A capa traz o logo Skelt e a chamada “Autobronzeador: como usar?”, com o cupom SKEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/58/fontes-selecionadas.json`.
+- **Lote 58 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/58/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/58/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/skelt/autobronzeador-skelt-como-usar-capa-v2.webp`) fica no CDN, sem uso como capa.

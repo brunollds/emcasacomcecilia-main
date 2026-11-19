@@ -169,3 +169,10 @@ Sem quadro "Leve se / Passe se".
 - **Tabela por sabor:** variam calorias, açúcares adicionados, vitamina C, B1 e colina; o texto mostra as faixas.
 - **Litro:** 1,3 kcal/mL, sem lactose e sem adição de sacarose (descrição); uso com equipo; a tabela da página é ilegível e não entrou.
 - **Parecer externo:** saíram a frase de redução ou aceleração da cicatrização e a faixa de 1 a 3 unidades por dia; "por dose" virou "por formato". Capa aprovada pelo Bruno.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/novasource-proline-para-que-serve-capa-v2.webp` (`imageFit: contain`), SHA-256 `746f6e985fdfce38ea06345cfa371611377438a5ffd2ed4ccef081ee18a51ce0`.
+- **Alt:** Lata de Novasource Proline em pó sem sabor, em foto de catálogo montada sobre uma bancada ilustrativa com azulejos verdes. A capa traz o logo Nestlé Nutre e a chamada “Proline: para que serve?”, com o cupom CECI.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/60/fontes-selecionadas.json`.
+- **Lote 60 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/60/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/60/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/novasource-proline-para-que-serve-capa.webp`) fica no CDN, sem uso como capa.

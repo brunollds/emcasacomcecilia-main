@@ -176,3 +176,10 @@ pessoa se não houver foto oficial). Corpo: o print `/images/reviews/rituaria/cu
 ## No ar (18/11/2026)
 
 Release `407a2ee3` (#1134, com o #1133 da outra sessão), no ar às 05:16 UTC; build `01a1ed12…`, 2 workers no `deploy:finish`. Smoke de 15 páginas (título, capa no CDN, imagens do corpo, EMCASA, frases proibidas, sitemap e llms.txt), `covers:check` 6/6, IndexNow 19 URLs, captura `44243262540`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `5103403071d0bd99e1e4cf103dce2bb3eddf185f79737a24a16006527ae2831f`.
+- **Alt:** Frasco oficial da Fórmula Capilar Nutri da Rituária em montagem ilustrativa de bancada com luz de janela. A capa traz o logo Rituária e a chamada “Cupom na primeira compra”, com o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/58/fontes-selecionadas.json`.
+- **Lote 58 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/58/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/58/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

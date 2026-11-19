@@ -215,3 +215,10 @@ Nenhuma.
 
 - Deploy do release `235383f3` (build Hostinger `01a1f0c5`), com o `deploy:finish` verificado, smoke 200 com a capa no CDN, `covers:check` ok, no sitemap e no `llms.txt`, e IndexNow enviado.
 - Releituras: retestar o CECILIA15 em 23/11 (fim da Pré-Black) e reler o regulamento dos brindes na fase seguinte.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`), SHA-256 `f90ae8f22f21ddfb3a379af572f799bf3a24b3676c0fa6157ece384aeaedb255`.
+- **Alt:** BOLD Crunch Morango e Chantilly cortado sobre uma tábua com morangos, com a embalagem ao fundo, em foto oficial. A capa traz o logo BOLD Snacks e a chamada “Reclame Aqui — Nota e queixas”, com o cupom CECILIA15.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/60/fontes-selecionadas.json`.
+- **Lote 60 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/60/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/60/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

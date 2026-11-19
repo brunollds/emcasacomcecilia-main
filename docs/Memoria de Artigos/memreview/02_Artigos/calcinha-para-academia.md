@@ -181,3 +181,10 @@ os 87,5% são dos modelos com costura.
 ## 11. No ar (18/11/2026)
 
 - #1186, release `219fce4e`, build Hostinger `01a1f147`. Página 200, og:image do CDN, sitemap e llms; `covers:check` 1/1; IndexNow com o artigo, o `skinup-marca-na-roupa`, `/reviews`, as subpáginas da Insider e da Toda Up, a home, o sitemap e o llms.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/insider/calcinha-para-academia-capa-v2.webp` (`imageFit: contain`), SHA-256 `3f6d1cd60a8654d35b3e538ee76a4412ef3f60a3ba00589b50a0f53596fdd1e1`.
+- **Alt:** Capa “Calcinha para academia”, com fotos oficiais lado a lado. À esquerda, Biquíni NakedFeel preta da Insider. À direita, duas modelos com a calcinha de cós alto SkinUp da Toda Up. O logo de cada loja aparece sob a foto.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/59/fontes-selecionadas.json`. Insider e Toda Up lado a lado, cada foto com o logo da loja; sem código, porque as condições são de cada loja.
+- **Lote 59 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/59/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/59/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/insider/calcinha-para-academia-capa-painel-20261118.webp`) fica no CDN, sem uso como capa.

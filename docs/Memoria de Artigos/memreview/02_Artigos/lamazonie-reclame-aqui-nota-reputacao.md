@@ -139,3 +139,10 @@ Folha de aprovação mostrada no chat; upload ao CDN autorizado no mesmo dia. Ca
 ## Revisão externa (Farol, 16/11/2026)
 
 Parecer colado pelo Bruno depois do merge do #1069 (`docs/auditoria-copy-artigos/lamazonie-lz1-lz2-lz3-pr1069-20261116-farol/`). P07 a P10 aplicadas: saiu a conta de 6 pontos por avaliação (o denominador também muda); o prazo deixa de mandar somar etapas; a devolução e o FAQ trazem o contraponto do Procon-SP, com o link do guia.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`), SHA-256 `3f8ce99b4b8a93eda39cdafc5251349f466f7373a6b9dd56bebbe7038e318569`.
+- **Alt:** Modelo com o protetor solar em bastão com cor da L’Amazonie junto à bochecha, em foto oficial. A capa traz o logo L’Amazonie e a chamada “Reclame Aqui — Nota e queixas”, com o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/60/fontes-selecionadas.json`.
+- **Lote 60 do piloto de capas (sequência 20 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/60/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-20-CLAUDE.zip` (`lotes/60/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

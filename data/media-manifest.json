@@ -40007,6 +40007,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 175002,
+      "sha256": "d72eaf5a1e5435d8613131dab84d584dfb3f839f58e3836efefda3eb3b4004a9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-adaptogen-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-adaptogen-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-adaptogen-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-adaptogen-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d72eaf5a1e5435d8613131dab84d584dfb3f839f58e3836efefda3eb3b4004a9/cupom-adaptogen-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d72eaf5a1e5435d8613131dab84d584dfb3f839f58e3836efefda3eb3b4004a9/cupom-adaptogen-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.266Z",
+      "verification_etag_or_digest": "d72eaf5a1e5435d8613131dab84d584dfb3f839f58e3836efefda3eb3b4004a9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa.webp",
       "local_url": "/images/reviews/adaptogen/cupom-adaptogen-como-usar-capa.webp",
       "media_kind": "image",
@@ -40050,6 +40088,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T17:59:49.431Z",
       "verification_etag_or_digest": "8422c34f82f838c01501db13199495f0df7713daadfa6b53e7c306520f1e00a4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/cupom-adaptogen-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/adaptogen/cupom-adaptogen-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 259000,
+      "sha256": "f8bf5f9f8ce136c7675acadfa7bf45b1c626b275be22f51571015d31871131f6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-adaptogen-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-adaptogen-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-adaptogen-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-adaptogen-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/cupom-adaptogen-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f8bf5f9f8ce136c7675acadfa7bf45b1c626b275be22f51571015d31871131f6/cupom-adaptogen-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f8bf5f9f8ce136c7675acadfa7bf45b1c626b275be22f51571015d31871131f6/cupom-adaptogen-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "f8bf5f9f8ce136c7675acadfa7bf45b1c626b275be22f51571015d31871131f6",
       "verification_status": "verified"
     },
     {
@@ -66002,6 +66078,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa-v2.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 147092,
+      "sha256": "ee1494d7a7dcea9b24aed03f76180c15dc13a5e15d5365d305472f03e8455492",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-neo-vale-a-pena-capa-v2.webp",
+      "storage_filename": "dolce-gusto-neo-vale-a-pena-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-neo-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-neo-vale-a-pena.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ee1494d7a7dcea9b24aed03f76180c15dc13a5e15d5365d305472f03e8455492/dolce-gusto-neo-vale-a-pena-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ee1494d7a7dcea9b24aed03f76180c15dc13a5e15d5365d305472f03e8455492/dolce-gusto-neo-vale-a-pena-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "ee1494d7a7dcea9b24aed03f76180c15dc13a5e15d5365d305472f03e8455492",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa.webp",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa.webp",
       "media_kind": "image",
@@ -88280,6 +88394,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/alternativas-a-donna-carioca-capa-v2.webp",
+      "local_url": "/images/reviews/insider/alternativas-a-donna-carioca-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 140188,
+      "sha256": "1444f97bc79d854e985dd007216b54c03d36942fe09c36100a5a270acb91ff95",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-donna-carioca-capa-v2.webp",
+      "storage_filename": "alternativas-a-donna-carioca-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-donna-carioca.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-donna-carioca.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/alternativas-a-donna-carioca-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1444f97bc79d854e985dd007216b54c03d36942fe09c36100a5a270acb91ff95/alternativas-a-donna-carioca-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1444f97bc79d854e985dd007216b54c03d36942fe09c36100a5a270acb91ff95/alternativas-a-donna-carioca-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "1444f97bc79d854e985dd007216b54c03d36942fe09c36100a5a270acb91ff95",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/black-friday-insider-capa-discover.webp",
       "local_url": "/images/reviews/insider/black-friday-insider-capa-discover.webp",
       "media_kind": "image",
@@ -103153,6 +103305,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-16T21:35:54.286Z",
       "verification_etag_or_digest": "73c80a8b5893141b080332dd5972d41e326da43b7c38173bc65e9b74e6d54eea",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 108374,
+      "sha256": "e74adb797f65db63f47a9be687ba37d5209566a98d4732c45f0c0a695aaa6e03",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-lamazonie-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-lamazonie-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-lamazonie-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-lamazonie-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/cupom-lamazonie-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e74adb797f65db63f47a9be687ba37d5209566a98d4732c45f0c0a695aaa6e03/cupom-lamazonie-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e74adb797f65db63f47a9be687ba37d5209566a98d4732c45f0c0a695aaa6e03/cupom-lamazonie-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "e74adb797f65db63f47a9be687ba37d5209566a98d4732c45f0c0a695aaa6e03",
       "verification_status": "verified"
     },
     {
@@ -118308,6 +118498,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-fortify-para-que-serve-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-fortify-para-que-serve-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 221168,
+      "sha256": "6843b2b8d66d51bf9b3d9b9f2d7f08a3f87b342ff4e8c05c4ef1a7afd5fd7e90",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-fortify-para-que-serve-capa-v2.webp",
+      "storage_filename": "nutren-fortify-para-que-serve-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-fortify-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-fortify-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-fortify-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6843b2b8d66d51bf9b3d9b9f2d7f08a3f87b342ff4e8c05c4ef1a7afd5fd7e90/nutren-fortify-para-que-serve-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6843b2b8d66d51bf9b3d9b9f2d7f08a3f87b342ff4e8c05c4ef1a7afd5fd7e90/nutren-fortify-para-que-serve-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "6843b2b8d66d51bf9b3d9b9f2d7f08a3f87b342ff4e8c05c4ef1a7afd5fd7e90",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-just-protein-banner.avif",
       "local_url": "/images/reviews/nutren/nutren-just-protein-banner.avif",
       "media_kind": "image",
@@ -127114,6 +127342,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 187160,
+      "sha256": "5103403071d0bd99e1e4cf103dce2bb3eddf185f79737a24a16006527ae2831f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-rituaria-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-rituaria-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-rituaria-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-rituaria-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5103403071d0bd99e1e4cf103dce2bb3eddf185f79737a24a16006527ae2831f/cupom-rituaria-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5103403071d0bd99e1e4cf103dce2bb3eddf185f79737a24a16006527ae2831f/cupom-rituaria-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "5103403071d0bd99e1e4cf103dce2bb3eddf185f79737a24a16006527ae2831f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa.webp",
       "local_url": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -127474,6 +127740,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/rituaria/rituaria-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119252,
+      "sha256": "15d26c246d069b3a4f4dfebe51494a8ed14e926db2471a1e7ca484b3d7ba4bb0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-e-confiavel-capa-v2.webp",
+      "storage_filename": "rituaria-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/rituaria-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/15d26c246d069b3a4f4dfebe51494a8ed14e926db2471a1e7ca484b3d7ba4bb0/rituaria-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/15d26c246d069b3a4f4dfebe51494a8ed14e926db2471a1e7ca484b3d7ba4bb0/rituaria-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "15d26c246d069b3a4f4dfebe51494a8ed14e926db2471a1e7ca484b3d7ba4bb0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/rituaria/rituaria-e-confiavel-capa.webp",
       "local_url": "/images/reviews/rituaria/rituaria-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -127609,6 +127913,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T04:56:35.652Z",
       "verification_etag_or_digest": "634dced78c36ebdeb29d8f35026395fb3a75f0eba201b361f14b7c7a316188c4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 131622,
+      "sha256": "55fd31f1b6c28c7be5897cbfca9282e77afa967f5da61c4db97fc94f65231a38",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "rituaria-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/55fd31f1b6c28c7be5897cbfca9282e77afa967f5da61c4db97fc94f65231a38/rituaria-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55fd31f1b6c28c7be5897cbfca9282e77afa967f5da61c4db97fc94f65231a38/rituaria-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "55fd31f1b6c28c7be5897cbfca9282e77afa967f5da61c4db97fc94f65231a38",
       "verification_status": "verified"
     },
     {
@@ -168734,6 +169076,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-active-para-que-serve-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-active-para-que-serve-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 235714,
+      "sha256": "e47c4119251b5cb78dea9fa6815be5d97aa0844c30919a0cd8fbaa4814525997",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-active-para-que-serve-capa-v2.webp",
+      "storage_filename": "nutren-active-para-que-serve-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-active-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-active-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-active-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e47c4119251b5cb78dea9fa6815be5d97aa0844c30919a0cd8fbaa4814525997/nutren-active-para-que-serve-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e47c4119251b5cb78dea9fa6815be5d97aa0844c30919a0cd8fbaa4814525997/nutren-active-para-que-serve-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "e47c4119251b5cb78dea9fa6815be5d97aa0844c30919a0cd8fbaa4814525997",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-control-baunilha-380g-oficial.webp",
       "local_url": "/images/reviews/nutren/nutren-control-baunilha-380g-oficial.webp",
       "media_kind": "image",
@@ -169446,6 +169826,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/baw/baw-clothing-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 205026,
+      "sha256": "d1ef5e13f4c285ecd3cde1f716ee92271ddb07321176f371947096dec70c5faa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-e-confiavel-capa-v2.webp",
+      "storage_filename": "baw-clothing-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/baw-clothing-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d1ef5e13f4c285ecd3cde1f716ee92271ddb07321176f371947096dec70c5faa/baw-clothing-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d1ef5e13f4c285ecd3cde1f716ee92271ddb07321176f371947096dec70c5faa/baw-clothing-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "d1ef5e13f4c285ecd3cde1f716ee92271ddb07321176f371947096dec70c5faa",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/baw/baw-clothing-e-confiavel-capa.webp",
       "local_url": "/images/reviews/baw/baw-clothing-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -169535,6 +169953,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-16T22:26:41.395Z",
       "verification_etag_or_digest": "766615c1966879834e62b8e6226f89cb82ba5a0f0385f15411904468fd98ce63",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 164000,
+      "sha256": "72ea719abd04e11084b1b54bca44e96abf961ffc77387d5072c05cd966559c3c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/72ea719abd04e11084b1b54bca44e96abf961ffc77387d5072c05cd966559c3c/baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/72ea719abd04e11084b1b54bca44e96abf961ffc77387d5072c05cd966559c3c/baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "72ea719abd04e11084b1b54bca44e96abf961ffc77387d5072c05cd966559c3c",
       "verification_status": "verified"
     },
     {
@@ -170028,6 +170484,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70042,
+      "sha256": "3f8ce99b4b8a93eda39cdafc5251349f466f7373a6b9dd56bebbe7038e318569",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lamazonie-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lamazonie-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3f8ce99b4b8a93eda39cdafc5251349f466f7373a6b9dd56bebbe7038e318569/lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3f8ce99b4b8a93eda39cdafc5251349f466f7373a6b9dd56bebbe7038e318569/lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "3f8ce99b4b8a93eda39cdafc5251349f466f7373a6b9dd56bebbe7038e318569",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa.webp",
       "local_url": "/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa.webp",
       "media_kind": "image",
@@ -170293,6 +170787,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-17T01:34:15.777Z",
       "verification_etag_or_digest": "7f91abc4d1cc2cb348d668fa9ef216e0ff6f9ae84d4dd91c4de8065164fff503",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/lamazonie-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/lamazonie/lamazonie-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110962,
+      "sha256": "02d900110c96fb151a01610efb9d843ed8a9b55083dae5bab93b81f95e993d66",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lamazonie-e-confiavel-capa-v2.webp",
+      "storage_filename": "lamazonie-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lamazonie-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lamazonie-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/lamazonie/lamazonie-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/02d900110c96fb151a01610efb9d843ed8a9b55083dae5bab93b81f95e993d66/lamazonie-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/02d900110c96fb151a01610efb9d843ed8a9b55083dae5bab93b81f95e993d66/lamazonie-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "02d900110c96fb151a01610efb9d843ed8a9b55083dae5bab93b81f95e993d66",
       "verification_status": "verified"
     },
     {
@@ -171177,6 +171709,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/barbours/barbours-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/barbours/barbours-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102170,
+      "sha256": "64450b1aae26c9aa481190766477b18def78a7ee3117219d2ecf15008193ccba",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-e-confiavel-capa-v2.webp",
+      "storage_filename": "barbours-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/barbours/barbours-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/64450b1aae26c9aa481190766477b18def78a7ee3117219d2ecf15008193ccba/barbours-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/64450b1aae26c9aa481190766477b18def78a7ee3117219d2ecf15008193ccba/barbours-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "64450b1aae26c9aa481190766477b18def78a7ee3117219d2ecf15008193ccba",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/barbours/barbours-e-confiavel-capa.webp",
       "local_url": "/images/reviews/barbours/barbours-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -171230,6 +171800,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T20:27:31.166Z",
       "verification_etag_or_digest": "946a48961adc421fb7b5d554605a0cafe7629ea44d060e167bfd00ef9c5c296a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62362,
+      "sha256": "d33f7e29832db5e5593642454632c8fe08c37af83273fcb9aac6f7a3678b31c4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "barbours-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-reclame-aqui-nota-reputacao.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d33f7e29832db5e5593642454632c8fe08c37af83273fcb9aac6f7a3678b31c4/barbours-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d33f7e29832db5e5593642454632c8fe08c37af83273fcb9aac6f7a3678b31c4/barbours-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "d33f7e29832db5e5593642454632c8fe08c37af83273fcb9aac6f7a3678b31c4",
       "verification_status": "verified"
     },
     {
@@ -171380,6 +171988,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T20:27:31.166Z",
       "verification_etag_or_digest": "424334b75484d7d8c70b171a0fe0244c49211664076e0f37d1fb44737199041b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/cupom-barbours-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/barbours/cupom-barbours-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98060,
+      "sha256": "bc33b5c7a7da309986bcb437088c0e4335366d55edd4d7391e551a2d707476da",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-barbours-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-barbours-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-barbours-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-barbours-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/barbours/cupom-barbours-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bc33b5c7a7da309986bcb437088c0e4335366d55edd4d7391e551a2d707476da/cupom-barbours-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bc33b5c7a7da309986bcb437088c0e4335366d55edd4d7391e551a2d707476da/cupom-barbours-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "bc33b5c7a7da309986bcb437088c0e4335366d55edd4d7391e551a2d707476da",
       "verification_status": "verified"
     },
     {
@@ -171677,6 +172323,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bold/bold-snacks-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/bold/bold-snacks-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 255058,
+      "sha256": "58d4f1dc360e514f24c9fce751b6ebf60a5b938d714d6271e08ca881dadf2007",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bold-snacks-e-confiavel-capa-v2.webp",
+      "storage_filename": "bold-snacks-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bold-snacks-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bold-snacks-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/bold/bold-snacks-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/58d4f1dc360e514f24c9fce751b6ebf60a5b938d714d6271e08ca881dadf2007/bold-snacks-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/58d4f1dc360e514f24c9fce751b6ebf60a5b938d714d6271e08ca881dadf2007/bold-snacks-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "58d4f1dc360e514f24c9fce751b6ebf60a5b938d714d6271e08ca881dadf2007",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bold/bold-snacks-e-confiavel-capa.webp",
       "local_url": "/images/reviews/bold/bold-snacks-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -171750,6 +172434,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T21:47:26.002Z",
       "verification_etag_or_digest": "efc5742dae221a4ee27deea9a59a80c2ba3f7abc335db7a595b7824b8f8c2e41",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 242198,
+      "sha256": "f90ae8f22f21ddfb3a379af572f799bf3a24b3676c0fa6157ece384aeaedb255",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bold-snacks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "bold-snacks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bold-snacks-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bold-snacks-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/bold/bold-snacks-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f90ae8f22f21ddfb3a379af572f799bf3a24b3676c0fa6157ece384aeaedb255/bold-snacks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f90ae8f22f21ddfb3a379af572f799bf3a24b3676c0fa6157ece384aeaedb255/bold-snacks-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "f90ae8f22f21ddfb3a379af572f799bf3a24b3676c0fa6157ece384aeaedb255",
       "verification_status": "verified"
     },
     {
@@ -172010,6 +172732,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T00:33:51.510Z",
       "verification_etag_or_digest": "84e8e1a4a5e464d3a195401bc3eaa901d945a6fb69003297c8b2de0c2eb67ce1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/calcinha-para-academia-capa-v2.webp",
+      "local_url": "/images/reviews/insider/calcinha-para-academia-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95118,
+      "sha256": "3f6d1cd60a8654d35b3e538ee76a4412ef3f60a3ba00589b50a0f53596fdd1e1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "calcinha-para-academia-capa-v2.webp",
+      "storage_filename": "calcinha-para-academia-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/calcinha-para-academia.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/calcinha-para-academia.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/calcinha-para-academia-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3f6d1cd60a8654d35b3e538ee76a4412ef3f60a3ba00589b50a0f53596fdd1e1/calcinha-para-academia-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3f6d1cd60a8654d35b3e538ee76a4412ef3f60a3ba00589b50a0f53596fdd1e1/calcinha-para-academia-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "3f6d1cd60a8654d35b3e538ee76a4412ef3f60a3ba00589b50a0f53596fdd1e1",
       "verification_status": "verified"
     },
     {
@@ -172281,6 +173041,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/autobronzeador-skelt-como-usar-capa-v3.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-skelt-como-usar-capa-v3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100920,
+      "sha256": "6a948e21116b4aedb1699eb6041c3254460a754710bd282af42ec0f5ae692d42",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-skelt-como-usar-capa-v3.webp",
+      "storage_filename": "autobronzeador-skelt-como-usar-capa-v3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/autobronzeador-skelt-como-usar-capa-v3.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6a948e21116b4aedb1699eb6041c3254460a754710bd282af42ec0f5ae692d42/autobronzeador-skelt-como-usar-capa-v3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a948e21116b4aedb1699eb6041c3254460a754710bd282af42ec0f5ae692d42/autobronzeador-skelt-como-usar-capa-v3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "6a948e21116b4aedb1699eb6041c3254460a754710bd282af42ec0f5ae692d42",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
       "local_url": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
       "media_kind": "image",
@@ -172324,6 +173122,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T12:24:52.517Z",
       "verification_etag_or_digest": "ff0be00b939171cdb0d04eaaeec0c795d49ac7c24ad1ee9c7b30b6d65ab69b88",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/novasource-proline-ou-cubitan-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/novasource-proline-ou-cubitan-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 135360,
+      "sha256": "d9bfdc92d95381b2d663989e0cdf5fd2f1a66690933edd3f5b690a2913c2e21f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "novasource-proline-ou-cubitan-capa-v2.webp",
+      "storage_filename": "novasource-proline-ou-cubitan-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/novasource-proline-ou-cubitan.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/novasource-proline-ou-cubitan.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/novasource-proline-ou-cubitan-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d9bfdc92d95381b2d663989e0cdf5fd2f1a66690933edd3f5b690a2913c2e21f/novasource-proline-ou-cubitan-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d9bfdc92d95381b2d663989e0cdf5fd2f1a66690933edd3f5b690a2913c2e21f/novasource-proline-ou-cubitan-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "d9bfdc92d95381b2d663989e0cdf5fd2f1a66690933edd3f5b690a2913c2e21f",
       "verification_status": "verified"
     },
     {
@@ -172879,6 +173715,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/novasource-proline-ou-impact-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/novasource-proline-ou-impact-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120720,
+      "sha256": "bcb9713bddfc5ba4132e1b80fadaabda068b4d71c3ba6c2bbb11db10c9bd04e1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "novasource-proline-ou-impact-capa-v2.webp",
+      "storage_filename": "novasource-proline-ou-impact-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/novasource-proline-ou-impact.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/novasource-proline-ou-impact.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/novasource-proline-ou-impact-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bcb9713bddfc5ba4132e1b80fadaabda068b4d71c3ba6c2bbb11db10c9bd04e1/novasource-proline-ou-impact-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bcb9713bddfc5ba4132e1b80fadaabda068b4d71c3ba6c2bbb11db10c9bd04e1/novasource-proline-ou-impact-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "bcb9713bddfc5ba4132e1b80fadaabda068b4d71c3ba6c2bbb11db10c9bd04e1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/novasource-proline-ou-impact-capa.webp",
       "local_url": "/images/reviews/nutren/novasource-proline-ou-impact-capa.webp",
       "media_kind": "image",
@@ -172922,6 +173796,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T13:19:26.544Z",
       "verification_etag_or_digest": "6a3b2355a9b8f6a503df6e413e6ae20d334e88e4e699eddaac68a201fc707bcd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/novasource-proline-para-que-serve-capa-v2.webp",
+      "local_url": "/images/reviews/nutren/novasource-proline-para-que-serve-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 135462,
+      "sha256": "746f6e985fdfce38ea06345cfa371611377438a5ffd2ed4ccef081ee18a51ce0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "novasource-proline-para-que-serve-capa-v2.webp",
+      "storage_filename": "novasource-proline-para-que-serve-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/novasource-proline-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/novasource-proline-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/novasource-proline-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/746f6e985fdfce38ea06345cfa371611377438a5ffd2ed4ccef081ee18a51ce0/novasource-proline-para-que-serve-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/746f6e985fdfce38ea06345cfa371611377438a5ffd2ed4ccef081ee18a51ce0/novasource-proline-para-que-serve-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T17:12:13.267Z",
+      "verification_etag_or_digest": "746f6e985fdfce38ea06345cfa371611377438a5ffd2ed4ccef081ee18a51ce0",
       "verification_status": "verified"
     }
   ]
