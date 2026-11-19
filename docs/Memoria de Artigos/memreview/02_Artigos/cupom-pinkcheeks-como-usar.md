@@ -9,7 +9,7 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2), primeiro do pacote, com a PK6"
 bloqueado_por: "-"
@@ -151,3 +151,15 @@ blush). Corpo (mínimo 1): o print `/images/reviews/pinkcheeks/cupom-pinkcheeks-
 
 1. A Cecília tem ou vai receber produto da Pink Cheeks?
 2. Valor mínimo e limite de usos do código; regras da Black Friday da parceira.
+
+## Redação, revisão e mídia (19/11/2026, sessão de artigos)
+
+**Job 2.** Escrito em `content/reviews/cupom-pinkcheeks-como-usar.json` (id 1095). Única data do corpo: a legenda da tabela do carrinho (19/11). O Job 3 fundiu pagamento e frete ("Frete e pagamento: olhe o total entregue"), tirou o capítulo "Vale para quem já é cliente?" (o texto foi para "O código não entrou") e o parágrafo das cores.
+
+**Job 3 (Fable 5.2, uma rodada para os seis).** Aprovado com ajustes, aplicados pelo próprio revisor: "número da Anvisa" no lugar de "registro" em todo o pacote; nenhum total de cores do Blush All In One; legendas sem data; sem bastidor ("não conferimos", "não listamos").
+
+**Job 4.** Só PT (`status_i18n` não se aplica). Âncora "cupom Pink Cheeks" para `/cupons/pinkcheeks` uma vez.
+
+**Job 6.** Capa no painel lateral verde (lote 41: logo num quadro branco, chamada, código PNK-EMCASACOMCECILIA), foto do catálogo oficial da Pink Cheeks (Shopify da loja), "Foto: Pink Cheeks" nas legendas. As 13 imagens novas do pacote foram ao CDN com o sim do Bruno em 19/11 (folha de aprovação `FOLHA-APROVACAO-PK.jpg`).
+
+Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.
