@@ -267988,7 +267988,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/alternativas-a-donna-carioca-capa.webp",
-    "imageAlt": "Capa com painel verde e a chamada Alternativas à Donna Carioca, pagar menos, outro tamanho ou uma peça só, Insider, Toda Up e SHEIN; à direita, modelo com a Legging Easy e o Top Energy azul-marinho da Insider e duas modelos com o Top Segunda Pele SkinUp da Toda Up, em preto e em rosa, em fotos oficiais.",
+    "imageAlt": "Capa com painel verde e a chamada Alternativas à Donna Carioca, pague menos com mais diversidade de tamanhos e modelos, Insider, Toda Up e SHEIN; à direita, modelo com a Legging Easy e o Top Energy azul-marinho da Insider e duas modelos com o Top Segunda Pele SkinUp da Toda Up, em preto e em rosa, em fotos oficiais.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
