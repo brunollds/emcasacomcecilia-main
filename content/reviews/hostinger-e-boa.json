@@ -1,0 +1,303 @@
+{
+  "id": 1084,
+  "slug": "hostinger-e-boa",
+  "locale": "pt",
+  "translationKey": "hostinger-e-boa",
+  "title": "Hostinger é boa? Para quem compensa a hospedagem, o VPS e o e-mail, e quando não escolher",
+  "seoTitle": "Hostinger é boa? Para quem compensa cada plano",
+  "type": "Editorial",
+  "category": "produtos-experiencias",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Edição e análise",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Cliente da Hostinger desde 2024, conto para quem compensam a hospedagem, o VPS, o e-mail e o domínio, quanto custa depois da entrada e quando não escolher.",
+  "metaDescription": "A Hostinger é boa? Com o SONAR20, 20% OFF no primeiro período. Para quem compensa cada plano e o que pesa na renovação.",
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/hostinger/hostinger-e-boa-capa-pt.webp",
+  "imageAlt": "Bloco de notas e caneta sobre o teclado de um notebook, em foto ilustrativa com o logo da Hostinger e os textos «Hostinger é boa?» / «Para quem compensa» e SONAR20 para planos novos.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Digite SONAR20 no carrinho ou entre pelo link: 20% no primeiro período de uma compra nova. Domínio e renovação ficam fora do desconto; confira o total antes de pagar.",
+    "label": "Ver os planos da Hostinger",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Compras com o SONAR20 ou pelo link podem me render comissão, sem custo extra para você. Não usei o Criador com IA, a loja virtual nem o servidor de Minecraft.",
+  "decision": {
+    "takeIf": [
+      "Você quer site, WordPress, e-mail e domínio no mesmo painel e já sabe quanto vai pagar quando o plano renovar.",
+      "Você vai rodar aplicativo, automação ou agente de IA e tem quem cuide do servidor: aí o VPS faz sentido."
+    ],
+    "skipIf": [
+      "Seu orçamento só fecha com o preço de entrada do plano mais longo.",
+      "Você quer um VPS, mas ninguém vai manter o servidor: para um site comum, a hospedagem basta."
+    ]
+  },
+  "relatedArticles": [
+    {
+      "slug": "hostinger-horizons-vale-a-pena"
+    },
+    {
+      "slug": "wordpress-na-hostinger"
+    },
+    {
+      "slug": "vps-ou-hospedagem-compartilhada-qual-escolher"
+    },
+    {
+      "slug": "melhor-vps-para-openclaw"
+    },
+    {
+      "slug": "hostinger-reach-ou-mailchimp-brevo"
+    },
+    {
+      "slug": "dominio-hostinger-comprar-transferir-ou-fora"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Hostinger é boa para quem quer site, WordPress, e-mail ou VPS com entrada barata e se planeja para a renovação, que custa várias vezes mais. Eu uso hospedagem, VPS, e-mail e domínios dela, e este site roda lá. O que muda a escolha é o produto e quanto você quer mexer em servidor: cada capítulo trata de um."
+      ]
+    },
+    {
+      "heading": "Hostinger é boa hospedagem?",
+      "paragraphs": [
+        "Para o que eu uso, é. Usei: sou cliente da Hostinger desde 2024, com hospedagem, um VPS KVM 2, o e-mail profissional e os domínios, todos com renovação automática. Este site, o Em Casa com Cecília, roda nela como aplicativo Node.js.",
+        "O painel, que a Hostinger chama de hPanel, junta o site no mesmo menu: o plano, os domínios, os arquivos, os bancos de dados e a segurança, como no print abaixo. Quando tive problema, o suporte resolveu todos, e a maior parte quem resolveu foi o agente de IA do suporte. Também nunca vi o site cair, e digo isso como cliente: não medi o tempo no ar nem a velocidade.",
+        "A hospedagem serve para quem quer um site ou um WordPress com painel simples. Não serve para quem conta só com o preço de entrada: a renovação custa bem mais, e a tabela de preço mostra quanto. Antes de pagar, confira também o local do servidor: na hospedagem de sites, os locais disponíveis mudam conforme o plano, e quem tem público no Brasil quer o servidor perto dele."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-e-boa-hpanel-pt.webp",
+        "alt": "Menu do site no hPanel da Hostinger, com Painel de controle, Plano de hospedagem, Desempenho, Analytics, Segurança, Domínios, Site, Arquivos, Bancos de dados e Avançado.",
+        "caption": "O menu do site no hPanel, na minha conta da Hostinger.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.5441
+      }
+    },
+    {
+      "heading": "Para que cada produto serve",
+      "paragraphs": [
+        "A resposta muda de produto para produto: a Hostinger vende de hospedagem de site a servidor de jogo. O quadro abaixo resume para quem cada um serve e quando não escolher. Pelo perfil, o caminho costuma ser este:"
+      ],
+      "bullets": [
+        "**Primeiro site, blog ou portfólio:** hospedagem de sites ou o Criador com IA.",
+        "**Quem já usa WordPress:** hospedagem Premium ou Unlimited.",
+        "**Loja ou vários sites com muito tráfego:** Cloud Startup.",
+        "**Quem roda aplicativo, automação como o n8n ou agente de IA:** VPS, aceitando cuidar do servidor.",
+        "**Quem só quer e-mail com o próprio domínio:** o e-mail profissional, cobrado por caixa."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-e-boa-quadro-pt.webp",
+        "alt": "Quadro: hospedagem de sites para site, blog ou WordPress, não para instalar programas no servidor; Cloud Startup para loja ou vários sites com muito tráfego; VPS para aplicativo, automação ou agente de IA, não se ninguém cuida do servidor; e-mail profissional por caixa, não para newsletter; Criador com IA para site simples, não para plugins e tema próprio; loja virtual para começar a vender com links de pagamento; Minecraft para quem joga por bastante tempo.",
+        "caption": "Para quem serve cada produto da Hostinger e quando não escolher.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3333
+      }
+    },
+    {
+      "heading": "Hostinger é bom para criar site?",
+      "paragraphs": [
+        "É, e o que decide entre os dois caminhos dela é quanto você quer mexer no site. Na hospedagem, você instala o WordPress ou sobe o seu próprio código e cuida dele: foi o que fiz com este site, que é código próprio, não WordPress. No Criador com IA, você descreve o site e o editor monta a primeira versão das páginas.",
+        "A loja informa: o Criador com IA não tem plano próprio e vem em todos os planos de hospedagem de sites. Então o que muda entre os dois caminhos é o trabalho que fica com você. Quem quer plugins, tema próprio e controle de tudo fica no WordPress; quem quer um site simples no ar sem programar começa pelo Criador. Ele não serve para quem quer aplicativo na App Store ou no Google Play: o que sai dele é site ou aplicativo web.",
+        "Para um site só, o Single basta; o Premium leva até três. O [WordPress na Hostinger](/reviews/wordpress-na-hostinger) diz qual plano pegar para cada caso, e o [Criador com IA da Hostinger](/reviews/hostinger-horizons-vale-a-pena) mostra que tipo de projeto cabe nele."
+      ]
+    },
+    {
+      "heading": "VPS Hostinger é boa?",
+      "paragraphs": [
+        "É, para quem precisa de um servidor só seu e tem quem cuide dele. Tenho um VPS KVM 2 além da hospedagem. Na hospedagem, a Hostinger mantém o servidor; no VPS, atualizações, segurança e o que quebrar ficam com quem contrata.",
+        "O VPS faz sentido para quem roda aplicativo, automação como o n8n ou agente de IA, que pedem programas e acesso de administrador que os planos de hospedagem não dão. Para um site comum, a hospedagem resolve e custa menos, e o [VPS ou hospedagem compartilhada](/reviews/vps-ou-hospedagem-compartilhada-qual-escolher) faz essa conta por cenário. Para agente de IA, o [melhor VPS para OpenClaw](/reviews/melhor-vps-para-openclaw) diz qual KVM escolher.",
+        "Na hora de configurar, escolha o local do servidor. A Hostinger tem data center no Brasil entre os locais do VPS e deixa trocar o local depois; se o seu público é daqui, comece pelo Brasil."
+      ]
+    },
+    {
+      "heading": "Hostinger email é bom?",
+      "paragraphs": [
+        "Para ter e-mail com o próprio domínio, é. Uso o e-mail profissional da Hostinger com os meus domínios, no mesmo painel do site, e não preciso de outro serviço para isso.",
+        "O preço é por caixa: uma pessoa, uma caixa; uma equipe de três paga três. Os planos vão do Starter ao Premium, e os preços estão na tabela do capítulo de preço.",
+        "Não confunda com newsletter: o e-mail profissional é a caixa de entrada, e mandar e-mail para uma lista é outro produto, o Reach, comparado no [Reach, Mailchimp ou Brevo](/reviews/hostinger-reach-ou-mailchimp-brevo). Se você já tem e-mail com o domínio em outro serviço e ele atende, não há motivo para mudar."
+      ]
+    },
+    {
+      "heading": "Domínio Hostinger é bom?",
+      "paragraphs": [
+        "É prático, e é por isso que os meus estão lá: ficam na mesma conta da hospedagem e do e-mail, então apontar o domínio para o site e criar as caixas se resolve no mesmo painel.",
+        "Duas coisas pesam antes de registrar. O SONAR20 não vale em domínio, então o preço é o da página. E o domínio é um serviço separado da hospedagem: dá para registrá-lo em outro lugar e apontar para o site na Hostinger, ou trazer um que você já tem. O [domínio na Hostinger](/reviews/dominio-hostinger-comprar-transferir-ou-fora) compara os três caminhos, com o preço de renovação.",
+        "Registre lá se quer tudo num painel só. Se o seu domínio já está em outro registrador, com uma renovação que cabe no bolso, deixe onde está."
+      ]
+    },
+    {
+      "heading": "Para loja virtual e Minecraft",
+      "paragraphs": [
+        "Para começar a vender sem montar uma loja do zero, a Hostinger tem um plano de loja virtual que, no ciclo de 12 meses, renova pela mesma mensalidade da entrada. Pela página, ele vende com links de pagamento e uma loja simples, sem taxa por venda (\"0% de taxas de transação\"). Se a loja cresce para vários sites ou muito tráfego, a mesma página oferece a loja no Unlimited e no Cloud Startup, que custam mais.",
+        "Para Minecraft, vale para o grupo que vai jogar por bastante tempo num servidor próprio: os planos Game Panel são um VPS com o painel do jogo, onde se configuram o servidor, os mods e os amigos. A entrada da tabela é a do ciclo de 24 meses, pago de uma vez; se o grupo vai jogar só por alguns meses, esse total pesa mais que a mensalidade."
+      ]
+    },
+    {
+      "heading": "Quanto custa depois da entrada",
+      "paragraphs": [
+        "O preço grande da vitrine é a mensalidade do ciclo mais longo, e o ciclo inteiro se paga de uma vez; a renovação aparece em letra pequena e é bem maior. A tabela traz as duas, plano a plano:"
+      ],
+      "comparisonTable": {
+        "caption": "Preços das páginas brasileiras da Hostinger em 19/11, já na Black Friday e antes do SONAR20.",
+        "headers": [
+          "Produto e plano",
+          "Ciclo",
+          "Entrada por mês",
+          "Entrada no ciclo",
+          "Renovação por mês"
+        ],
+        "rows": [
+          [
+            "[Hospedagem Single](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+            "48 meses",
+            "R$ 5,99",
+            "R$ 287,52",
+            "R$ 23,99"
+          ],
+          [
+            "Hospedagem Premium",
+            "48 meses",
+            "R$ 9,99",
+            "R$ 479,52",
+            "R$ 38,99"
+          ],
+          [
+            "Hospedagem Unlimited",
+            "48 meses",
+            "R$ 12,99",
+            "R$ 623,52",
+            "R$ 64,99"
+          ],
+          [
+            "Cloud Startup",
+            "48 meses",
+            "R$ 39,99",
+            "R$ 1.919,52",
+            "R$ 129,99"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONAR20)",
+            "24 meses",
+            "R$ 29,99",
+            "R$ 719,76",
+            "R$ 59,99"
+          ],
+          [
+            "VPS KVM 2",
+            "24 meses",
+            "R$ 42,99",
+            "R$ 1.031,76",
+            "R$ 77,99"
+          ],
+          [
+            "VPS KVM 4",
+            "24 meses",
+            "R$ 59,99",
+            "R$ 1.439,76",
+            "R$ 149,99"
+          ],
+          [
+            "VPS KVM 8",
+            "24 meses",
+            "R$ 119,99",
+            "R$ 2.879,76",
+            "R$ 259,99"
+          ],
+          [
+            "[E-mail Starter](https://www.hostinger.com/br/email-profissional?REFERRALCODE=SONAR20), por caixa",
+            "48 meses",
+            "R$ 2,49",
+            "R$ 119,52",
+            "R$ 5,99"
+          ],
+          [
+            "E-mail Standard, por caixa",
+            "48 meses",
+            "R$ 4,99",
+            "R$ 239,52",
+            "R$ 9,99"
+          ],
+          [
+            "E-mail Premium, por caixa",
+            "48 meses",
+            "R$ 7,99",
+            "R$ 383,52",
+            "R$ 13,99"
+          ],
+          [
+            "[Loja virtual](https://www.hostinger.com/br/loja-virtual?REFERRALCODE=SONAR20)",
+            "12 meses",
+            "R$ 9,99",
+            "R$ 119,88",
+            "R$ 9,99"
+          ],
+          [
+            "[Minecraft Game Panel 1](https://www.hostinger.com/br/vps/hospedagem-minecraft?REFERRALCODE=SONAR20)",
+            "24 meses",
+            "R$ 31,99",
+            "R$ 767,76",
+            "R$ 59,99"
+          ],
+          [
+            "Minecraft Game Panel 2",
+            "24 meses",
+            "R$ 46,99",
+            "R$ 1.127,76",
+            "R$ 77,99"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Conta nossa, com os dois preços do card do Premium de 48 meses: a renovação, de R$ 38,99 por mês, é cerca de 4 vezes a mensalidade da entrada, de R$ 9,99. É a armadilha de quem escolhe pelo número grande: o plano mais longo tem a menor entrada, e a renovação de quase todos fica bem acima dela. A exceção é a loja virtual, que renova pelo mesmo preço.",
+        "Os preços de entrada são os da Black Friday da Hostinger, que vai até 14/12. O total da entrada pode ser parcelado em até 12 vezes no cartão, e a tela de pagamento aceita Pix e boleto."
+      ]
+    },
+    {
+      "heading": "Quando não escolher a Hostinger",
+      "paragraphs": [
+        "Não escolha a Hostinger se o orçamento só fecha com o preço de entrada. A renovação vem, e no fim do ciclo sobram dois caminhos: pagar o preço de renovação ou trocar de hospedagem e migrar o site.",
+        "Se quer comparar com outra empresa antes de decidir, o [Hostinger ou HostGator](/reviews/hostinger-ou-hostgator), o [Hostinger ou GoDaddy](/reviews/hostinger-ou-godaddy) e o [Hostinger ou Locaweb](/reviews/hostinger-ou-locaweb) fazem a conta com a renovação.",
+        "Se a dúvida é se dá para confiar, o [Hostinger é confiável?](/reviews/hostinger-e-confiavel) mostra quem cobra e como funcionam os 30 dias para pedir reembolso na hospedagem e no VPS; a [reputação no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao) tem um artigo próprio."
+      ]
+    },
+    {
+      "heading": "SONAR20: onde entra",
+      "paragraphs": [
+        "O SONAR20 dá 20% no primeiro período de uma compra nova, e vale também para quem já é cliente e compra um produto que ainda não tem. Entra na hospedagem, no VPS, no WordPress e no e-mail profissional; não entra em domínio, e a renovação sai pelo preço de tabela.",
+        "Digite o código no carrinho, no campo \"Tem um cupom de desconto?\", ou entre pelos [planos da Hostinger](https://www.hostinger.com/br?REFERRALCODE=SONAR20), e confira o total antes de pagar. A página do [cupom Hostinger](/cupons/hostinger) tem o passo a passo e os testes do código, e a [renovação da Hostinger](/reviews/hostinger-renovacao-cupom-sonar20) tem um artigo só dela."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Hostinger vale a pena? Vale para quem quer site, WordPress, e-mail ou VPS com entrada barata e se planeja para a renovação; o capítulo de preço mostra quanto ela sobe.",
+        "A Hostinger é boa para WordPress? É: o WordPress se instala nos planos de hospedagem, e o capítulo sobre criar site aponta o plano para cada número de sites.",
+        "A Hostinger é confiável? Para mim, que uso quatro produtos dela e tenho este site lá, é; quem cobra e como funciona o reembolso estão no [Hostinger é confiável](/reviews/hostinger-e-confiavel).",
+        "A Hostinger tem reembolso? Tem: 30 dias para pedir reembolso na hospedagem e no VPS, com as exceções explicadas no artigo de confiança.",
+        "O SONAR20 vale na renovação? Não: ele vale no primeiro período de uma compra nova, e a renovação sai pelo preço de tabela."
+      ]
+    }
+  ]
+}

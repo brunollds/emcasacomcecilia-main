@@ -1,0 +1,276 @@
+{
+  "id": 1087,
+  "slug": "hostinger-est-il-un-bon-hebergeur",
+  "locale": "fr",
+  "translationKey": "hostinger-e-boa",
+  "title": "Hostinger est-il un bon hébergeur ? À qui servent l'hébergement, le VPS et l'e-mail",
+  "seoTitle": "Hostinger est-il un bon hébergeur ?",
+  "type": "Éditorial",
+  "category": "produtos-experiencias",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Édition et analyse",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Client de Hostinger depuis 2024, je vous dis à qui servent l'hébergement, le VPS, l'e-mail et le domaine, ce que coûte chaque forfait après le prix d'appel et quand l'éviter.",
+  "metaDescription": "Hostinger est-il un bon hébergeur ? Avec SONAR20, 20 % de réduction sur la première période. À qui sert chaque forfait et l'effet du renouvellement.",
+  "publishedAt": "19 novembre 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-e-boa-capa-fr.webp",
+  "imageAlt": "Bloc-notes et stylo sur le clavier d'un ordinateur portable, en photo d'illustration avec le logo Hostinger, les textes «Hostinger, un bon hébergeur ?» / «À qui sert chaque offre» et SONAR20 pour les nouveaux forfaits.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Saisissez SONAR20 dans le panier ou passez par le lien : 20 % sur la première période d'un nouvel achat. Le domaine et le renouvellement sont exclus de la réduction ; vérifiez le total avant de payer.",
+    "label": "Voir les forfaits Hostinger",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Les achats avec SONAR20 ou par le lien peuvent me rapporter une commission, sans frais pour vous. Je n'ai pas utilisé le créateur de site IA ni le serveur Minecraft.",
+  "decision": {
+    "takeIf": [
+      "Vous voulez site, WordPress, e-mail et domaine dans le même panneau, et vous savez déjà ce que vous paierez au renouvellement du forfait.",
+      "Vous allez faire tourner une application, une automatisation ou un agent IA et quelqu'un s'occupera du serveur : c'est là que le VPS a du sens."
+    ],
+    "skipIf": [
+      "Votre budget ne tient qu'avec le prix d'appel du forfait le plus long.",
+      "Vous voulez un VPS, mais personne n'entretiendra le serveur : pour un site classique, l'hébergement suffit."
+    ]
+  },
+  "relatedArticles": [
+    {
+      "slug": "createur-ia-hostinger-avis"
+    },
+    {
+      "slug": "wordpress-chez-hostinger"
+    },
+    {
+      "slug": "vps-ou-hebergement-mutualise"
+    },
+    {
+      "slug": "meilleur-vps-pour-openclaw"
+    },
+    {
+      "slug": "hostinger-reach-mailchimp-ou-brevo"
+    },
+    {
+      "slug": "domaine-hostinger-acheter-ou-transferer"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Hostinger convient à qui veut un site, WordPress, un e-mail ou un VPS à prix d'appel bas et prépare le renouvellement, bien plus cher. J'utilise son hébergement, son VPS, son e-mail et ses domaines, et ce site tourne chez eux. Le choix dépend du produit et de la part de gestion du serveur que vous voulez assumer : chaque chapitre en traite un."
+      ]
+    },
+    {
+      "heading": "Hostinger est-il un bon hébergeur web ?",
+      "paragraphs": [
+        "Pour ce que j'en fais, oui. Je suis client de Hostinger depuis 2024, avec de l'hébergement, un VPS KVM 2, l'e-mail professionnel et les domaines, tous en renouvellement automatique. Ce site, Em Casa com Cecília, tourne chez eux comme application Node.js.",
+        "Le panneau, que Hostinger appelle hPanel, réunit le site dans un même menu : le forfait, les domaines, les fichiers, les bases de données et la sécurité. Quand j'ai eu un problème, le support l'a résolu à chaque fois, et le plus souvent c'est l'agent IA du support qui s'en est chargé. Je n'ai jamais vu le site tomber non plus, et je le dis en tant que client : je n'ai mesuré ni la disponibilité ni la vitesse.",
+        "L'hébergement convient à qui veut un site ou un WordPress avec un panneau simple. Il ne convient pas à qui ne compte que sur le prix d'appel : le renouvellement coûte bien plus, et le tableau des prix montre combien. Avant de payer, vérifiez aussi l'emplacement du serveur : pour l'hébergement web, les emplacements disponibles changent selon le forfait, regardez donc ceux que propose le vôtre."
+      ]
+    },
+    {
+      "heading": "À quoi sert chaque produit",
+      "paragraphs": [
+        "La réponse change d'un produit à l'autre : Hostinger vend de l'hébergement de site aux serveurs de jeu. Le tableau ci-dessous résume à qui sert chacun et quand l'éviter. Selon votre profil, le chemin ressemble en général à ceci :"
+      ],
+      "bullets": [
+        "**Premier site, blog ou portfolio :** l'hébergement web ou le créateur de site IA.",
+        "**Déjà sur WordPress :** l'hébergement Premium ou Unlimited.",
+        "**Boutique ou plusieurs sites à fort trafic :** Cloud Startup.",
+        "**Application, automatisation comme n8n ou agent IA :** un VPS, en acceptant de gérer le serveur.",
+        "**Seulement un e-mail à votre nom de domaine :** l'e-mail professionnel, facturé par boîte."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-e-boa-quadro-fr.webp",
+        "alt": "Tableau : hébergement web pour un site, un blog ou WordPress, pas pour installer des logiciels sur le serveur ; Cloud Startup pour une boutique ou plusieurs sites à fort trafic, pas pour un seul site qui tient dans Premium ; VPS pour une application, une automatisation ou un agent IA, pas si personne ne gère le serveur ; e-mail professionnel par boîte, pas pour une newsletter ; créateur de site IA pour un site simple, pas pour des plugins et un thème perso ; Minecraft pour un groupe qui jouera longtemps, pas pour quelques mois seulement.",
+        "caption": "À qui sert chaque produit Hostinger et quand l'éviter.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3333
+      }
+    },
+    {
+      "heading": "Hostinger est-il bon pour créer un site ?",
+      "paragraphs": [
+        "Oui, et ce qui départage ses deux voies, c'est la part du travail que vous voulez prendre. Avec l'hébergement, vous installez WordPress ou vous mettez en ligne votre propre code, et vous vous en occupez : c'est ce que j'ai fait pour ce site, qui est du code maison, pas du WordPress. Avec le créateur de site IA, vous décrivez le site et l'éditeur monte une première version des pages.",
+        "La page de Hostinger le précise : le créateur IA n'a pas de forfait à lui et est inclus dans tous les forfaits d'hébergement web. Ce qui change entre les deux voies, c'est donc le travail qui reste pour vous. Si vous voulez des plugins, un thème perso et le contrôle de tout, restez sur WordPress ; si vous voulez un site simple en ligne sans programmer, commencez par le créateur. Il ne convient pas à qui veut une application sur l'App Store ou Google Play : ce qu'il produit, c'est un site ou une application web.",
+        "Premium accepte jusqu'à trois sites. [WordPress chez Hostinger](/fr/reviews/wordpress-chez-hostinger) indique quel forfait prendre selon le cas, et le [créateur de site IA de Hostinger](/fr/reviews/createur-ia-hostinger-avis) montre quel type de projet y tient."
+      ]
+    },
+    {
+      "heading": "Le VPS Hostinger est-il bon ?",
+      "paragraphs": [
+        "Oui, pour qui a besoin d'un serveur à soi et a quelqu'un pour s'en occuper. J'ai un VPS KVM 2 en plus de l'hébergement. Sur l'hébergement, Hostinger entretient le serveur ; sur un VPS, les mises à jour, la sécurité et ce qui casse reviennent au client.",
+        "Le VPS a du sens pour faire tourner une application, une automatisation comme n8n ou un agent IA, qui demandent des programmes et un accès administrateur que les forfaits d'hébergement ne donnent pas. Pour un site classique, l'hébergement suffit et coûte moins, et [VPS ou hébergement mutualisé](/fr/reviews/vps-ou-hebergement-mutualise) fait ce calcul par scénario. Pour un agent IA, le [meilleur VPS pour OpenClaw](/fr/reviews/meilleur-vps-pour-openclaw) dit quel KVM choisir.",
+        "À la configuration, choisissez l'emplacement du serveur. Prenez le plus proche de votre public ; on peut le changer plus tard."
+      ]
+    },
+    {
+      "heading": "L'e-mail Hostinger est-il bon ?",
+      "paragraphs": [
+        "Pour avoir un e-mail à votre propre domaine, oui. J'utilise l'e-mail professionnel de Hostinger avec mes domaines, dans le même panneau que le site, et je n'ai besoin d'aucun autre service pour cela.",
+        "Le prix est par boîte : une personne, une boîte ; une équipe de trois en paie trois. Les forfaits vont de Starter à Premium, et les prix sont dans le tableau du chapitre sur le coût.",
+        "Ne le confondez pas avec une newsletter : l'e-mail professionnel, c'est la boîte de réception, et envoyer des e-mails à une liste est un autre produit, Reach, comparé dans [Reach, Mailchimp ou Brevo](/fr/reviews/hostinger-reach-mailchimp-ou-brevo). Si vous avez déjà un e-mail à votre domaine chez un autre service et qu'il vous convient, aucune raison de changer."
+      ]
+    },
+    {
+      "heading": "Le domaine Hostinger est-il une bonne idée ?",
+      "paragraphs": [
+        "C'est pratique, et c'est pour cela que les miens y sont : ils restent dans le même compte que l'hébergement et l'e-mail, si bien que pointer le domaine vers le site et créer les boîtes se fait dans le même panneau.",
+        "Deux choses comptent avant d'enregistrer. SONAR20 ne s'applique pas aux domaines, donc le prix est celui de la page. Et le domaine est un service distinct de l'hébergement : on peut l'enregistrer ailleurs et le pointer vers le site chez Hostinger, ou transférer un domaine que l'on a déjà. [Le domaine chez Hostinger](/fr/reviews/domaine-hostinger-acheter-ou-transferer) compare les trois voies, avec le prix de renouvellement.",
+        "Enregistrez-le là si vous voulez tout dans un seul panneau. Si votre domaine est déjà chez un autre registraire, avec un renouvellement qui vous convient, laissez-le où il est."
+      ]
+    },
+    {
+      "heading": "Boutique en ligne et Minecraft",
+      "paragraphs": [
+        "Sur le site international, la boutique en ligne est comprise dans les forfaits d'hébergement : la carte Premium liste l'e-commerce parmi ses fonctions. Si la boutique grandit jusqu'à plusieurs sites ou beaucoup de trafic, Cloud Startup est le forfait qu'il lui faut, et il coûte plus cher.",
+        "Pour Minecraft, c'est fait pour un groupe qui jouera longtemps sur un serveur à lui : les forfaits Game Panel sont un VPS avec le panneau du jeu, où l'on configure le serveur, les mods et les amis. Le prix d'appel du tableau correspond à la durée de 24 mois, payée en une fois ; si le groupe ne joue que quelques mois, ce total pèse plus que la mensualité."
+      ]
+    },
+    {
+      "heading": "Combien ça coûte après le prix d'appel",
+      "paragraphs": [
+        "Le gros prix de la vitrine est la mensualité de la durée la plus longue, et la durée entière se paie en une fois ; le renouvellement apparaît en petits caractères et il est bien plus élevé. Le tableau donne les deux, forfait par forfait :"
+      ],
+      "comparisonTable": {
+        "caption": "Prix du site international de Hostinger le 19/11, déjà en Black Friday et avant SONAR20 ; le prix de votre région peut différer.",
+        "headers": [
+          "Produit et forfait",
+          "Durée",
+          "Prix d'appel par mois",
+          "Prix d'appel sur la durée",
+          "Renouvellement par mois"
+        ],
+        "rows": [
+          [
+            "[Hébergement web Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "48 mois",
+            "1,99 US$",
+            "95,52 US$",
+            "10,99 US$"
+          ],
+          [
+            "Hébergement web Unlimited",
+            "48 mois",
+            "2,79 US$",
+            "133,92 US$",
+            "16,99 US$"
+          ],
+          [
+            "Cloud Startup",
+            "48 mois",
+            "7,99 US$",
+            "383,52 US$",
+            "25,99 US$"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "24 mois",
+            "6,49 US$",
+            "155,76 US$",
+            "11,99 US$"
+          ],
+          [
+            "VPS KVM 2",
+            "24 mois",
+            "8,79 US$",
+            "210,96 US$",
+            "14,99 US$"
+          ],
+          [
+            "VPS KVM 4",
+            "24 mois",
+            "12,99 US$",
+            "311,76 US$",
+            "28,99 US$"
+          ],
+          [
+            "VPS KVM 8",
+            "24 mois",
+            "25,99 US$",
+            "623,76 US$",
+            "49,99 US$"
+          ],
+          [
+            "[E-mail Starter, par boîte](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20)",
+            "48 mois",
+            "0,39 US$",
+            "18,72 US$",
+            "1,59 US$"
+          ],
+          [
+            "E-mail Standard, par boîte",
+            "48 mois",
+            "0,99 US$",
+            "47,52 US$",
+            "2,79 US$"
+          ],
+          [
+            "E-mail Premium, par boîte",
+            "48 mois",
+            "1,99 US$",
+            "95,52 US$",
+            "3,99 US$"
+          ],
+          [
+            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20)",
+            "24 mois",
+            "6,99 US$",
+            "167,76 US$",
+            "11,99 US$"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Notre calcul, avec les deux prix de la carte Premium de 48 mois : le renouvellement, à 10,99 US$ par mois, représente environ 5,5 fois la mensualité d'appel, à 1,99 US$. C'est le piège de ceux qui choisissent d'après le gros chiffre : le forfait le plus long a le prix d'appel le plus bas, et chaque renouvellement du tableau reste bien au-dessus.",
+        "Les prix d'appel sont ceux du Black Friday de Hostinger, qui dure jusqu'au 14/12."
+      ]
+    },
+    {
+      "heading": "Quand ne pas choisir Hostinger",
+      "paragraphs": [
+        "Ne choisissez pas Hostinger si votre budget ne tient qu'avec le prix d'appel. Le renouvellement arrive, et à la fin de la durée il reste deux chemins : payer le prix de renouvellement ou changer d'hébergeur et migrer le site.",
+        "Si vous voulez comparer avec une autre entreprise avant de décider, [choisir un hébergeur web](/fr/reviews/choisir-hebergeur-hostinger), qui met Hostinger face à HostGator, et [Hostinger ou GoDaddy](/fr/reviews/hostinger-ou-godaddy-comparatif) font le calcul avec le renouvellement.",
+        "Si la question est de savoir si on peut lui faire confiance, [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable) montre qui facture et comment fonctionnent les 30 jours pour demander un remboursement sur l'hébergement et le VPS ; la [réputation sur Trustpilot](/fr/reviews/hostinger-avis-trustpilot) a son propre article."
+      ]
+    },
+    {
+      "heading": "SONAR20 : où il s'applique",
+      "paragraphs": [
+        "SONAR20 donne 20 % sur la première période d'un nouvel achat, et vaut aussi pour un client existant qui achète un produit qu'il n'a pas encore. Il s'applique à l'hébergement, au VPS, à WordPress et à l'e-mail professionnel ; pas aux domaines, et le renouvellement se fait au prix catalogue.",
+        "Saisissez le code dans le panier, dans le champ « Have a coupon code? », ou passez par les [forfaits Hostinger](https://www.hostinger.com/?REFERRALCODE=SONAR20), et vérifiez le total avant de payer. La page du [code promo Hostinger](/fr/coupons/hostinger) donne le pas à pas et les tests du code, et le [renouvellement chez Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20) a son propre article."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Hostinger vaut-il le coup ? Oui pour qui veut un site, WordPress, un e-mail ou un VPS avec un prix d'appel bas et prépare le renouvellement ; le chapitre sur le coût montre de combien il monte.",
+        "Hostinger est-il bon pour WordPress ? Oui : WordPress s'installe sur les forfaits d'hébergement, et le chapitre sur la création de site indique le forfait selon le nombre de sites.",
+        "Hostinger est-il fiable ? Pour moi, qui utilise quatre de ses produits et héberge ce site chez eux, oui ; qui facture et comment marche le remboursement, c'est dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable).",
+        "Hostinger propose-t-il un remboursement ? Oui : 30 jours pour demander le remboursement sur l'hébergement et le VPS, avec les exceptions expliquées dans l'article sur la confiance.",
+        "SONAR20 s'applique-t-il au renouvellement ? Non : il vaut pour la première période d'un nouvel achat, et le renouvellement se fait au prix catalogue."
+      ]
+    }
+  ]
+}
