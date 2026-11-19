@@ -43,7 +43,7 @@ GO do Bruno em 19/11/2026. Sinais em [[nestle-nutre-mais-vendidos-fatos-1911]]. 
 
 - Autocompletar: "novasource proline para que serve", "200ml", "nestle", "pó", "tabela nutricional", "1 litro", "preço", "engorda", "cicatrização", "onde comprar"; "novasource proline ou cubitan", "ou impact", "engorda ou emagrece".
 - Trends (Brasil, 12 meses): 16 de média. Na vitrine de mais vendidos da loja aparece em três sabores.
-- **"ou Cubitan" e "ou Impact":** fora deste artigo. O Cubitan é de outra fabricante e não foi lido; o Impact é da Nestlé e de outra categoria. Comparar fórmulas de uso clínico pede decisão própria.
+- **"ou Cubitan" e "ou Impact":** fora deste artigo. O Bruno decidiu em 19/11 que viram artigos próprios (NM9 e NM10 na Fila, seção 3); nenhum dos dois produtos foi lido ainda.
 
 ## 4. Fatos do rótulo
 
@@ -142,7 +142,7 @@ Sem quadro "Leve se / Passe se".
 ## 10. Riscos
 
 - **"Cicatrização" como promessa:** só na citação da página. Fora do título, do subtítulo e do snippet.
-- **Comparar com Cubitan ou Impact:** fora.
+- **Comparar com Cubitan ou Impact:** fora deste artigo; são a NM9 e a NM10.
 - **"Enteral":** o texto fala só do uso oral que a página descreve; nada sobre sonda.
 - **Avaliações de clientes:** não entram.
 - **Imagem:** foto oficial da caixinha e da lata; ao menos uma no corpo.

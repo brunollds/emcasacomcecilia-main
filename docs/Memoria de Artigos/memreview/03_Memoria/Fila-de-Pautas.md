@@ -110,6 +110,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | NM4 | Nutren Control: para que serve e a tabela nutricional | Nestlé Nutre | Trends 40 | Controle de glicemia: só rótulo, com médico ou nutricionista |
 | NM5 | Nutren Control ou Glucerna | Nestlé Nutre | Três variações | Tabela contra tabela |
 | NM8 | Kit degustação Nutren (Senior e Control) | Nestlé Nutre | Sem medida | Pode ser seção do `nutren-senior-kit-combo-ou-assinatura` |
+| NM9 | Novasource Proline ou Cubitan (artigo próprio, decisão do Bruno em 19/11) | Nestlé Nutre | "novasource proline ou cubitan" no autocompletar | O Cubitan é de outra fabricante e não foi lido. Tabela contra tabela, só rótulo, indicação entre aspas |
+| NM10 | Novasource Proline ou Impact (artigo próprio, decisão do Bruno em 19/11) | Nestlé Nutre | "novasource proline ou impact" no autocompletar | O Impact é da Nestlé e está no menu de marcas da loja; não foi lido. Mesmo cuidado |
 
 NM1, NM2, NM6 e NM7 têm briefing desde 19/11 (seção 1). A NM3 (Nestogeno) virou pergunta dentro da NM2. Ficam aqui a NM4, a NM5 e a NM8.
 
