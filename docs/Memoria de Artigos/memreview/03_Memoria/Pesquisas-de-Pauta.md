@@ -17,6 +17,7 @@ Fatos em [[nestle-nutre-mais-vendidos-fatos-1911]]; pautas NM1 a NM8 na [[Fila-d
 - **Autocompletar:** "nestonutri ou ninho fases", "nestonutri e nestogeno é a mesma coisa", "nutren control ou glucerna", "nutren active ou senior", "nutren fortify ou nutren senior", "novasource proline ou cubitan".
 - **Risco:** Control (glicemia) e Proline (cicatrização) são de uso clínico; Nestonutri é de 1 a 3 anos.
 - **Lidos no mesmo dia, com GO:** Fortify (lata de 360 g com 6 porções; 18 g de proteína e 263 kcal por porção) e Novasource Proline (caixinha de 200 ml com 20 g de proteína; o pó tem outra tabela). O `CECI` deu 10% sobre o preço em promoção nos dois. Briefings [[nutren-fortify-para-que-serve]] e [[novasource-proline-para-que-serve]].
+- **NM1 e NM2, também com GO:** Nutren Active (400 g a R$ 63,49 e 700 g a R$ 89,90; 7,5 g de proteína por porção, 14 g com leite) e Nestonutri 1+ contra Ninho Fases 1+ (tabelas próximas; muda a fibra prebiótica e o preço, R$ 63,69 contra R$ 49,46). Briefings [[nutren-active-para-que-serve]] e [[nestonutri-ou-ninho-fases]].
 
 ---
 
