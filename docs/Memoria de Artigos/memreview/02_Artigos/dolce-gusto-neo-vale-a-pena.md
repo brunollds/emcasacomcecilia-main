@@ -6,9 +6,9 @@ parceiro: "[[Dolce-Gusto]]"
 category: "produtos-experiencias"
 reviewKind: "produto"
 type: "Review de Produto"
-status: "pauta-aprovada"
-responsavel: "-"
-proxima_acao: "redação (Job 2)"
+status: "pronto-para-deploy"
+responsavel: "Job-4"
+proxima_acao: "deploy com o GO do Bruno; depois, smoke, covers:check e IndexNow"
 bloqueado_por: "-"
 data_criacao: "2026-11-19"
 modo_i18n: "somente-pt"
@@ -202,3 +202,18 @@ O texto usa só o que está nas respostas. Pergunta sem resposta não vira texto
 
 - **19/11/2026:** respostas da Cecília pelo Bruno (seção 8). O portão de experiência fecha e a DG1 segue como review.
 - **19/11/2026:** GO do Bruno ("DG1 NEO"). Vira review de produto porque a Cecília usa a NEO, com a ressalva da seção 1: sem as respostas da seção 8, o texto sai como guia.
+
+## Redação, revisão e JSON (19/11/2026)
+
+- **Job 2 e Job 4:** escrito direto no JSON (`id` 1083) por subagente, com o brief da sessão de artigos, e revisado pela sessão. Só PT. A releitura no navegador não foi feita: a extensão do Chrome não conectou, e o texto usa as leituras da manhã de 19/11 (seções 4 a 6). A altura e o frete da máquina ficaram fora; a ficha diz que a loja não aponta qual medida é a altura.
+- **Ajustes da sessão:** "sempre pelo app" (não "quase sempre"); "o app já se desconectou da conta" (sem "uma vez"); três Espressos no adaptador, não dois; link do Short do espresso tônica.
+- **Fable (Job 3):** 22 propostas aplicadas, nenhum erro de conta. O adaptador só nos modelos Original da lista; "gosta do preparo" sem ranking; sem "aviso de manutenção"; legenda da foto oficial como no `quanto-custa-capsula-dolce-gusto`; a comparação por xícara (NEO R$ 1,82, Original R$ 1,80 no teste de 12/11) diz que as leituras são de dias diferentes; a assinatura é das cápsulas.
+- **Nota:** `rating` e `verdict.stars` 4, como a Genio S Touch. A nota não está nas respostas da Cecília: o Bruno confirma.
+- **Autoria:** só a Cecília. O `test:build-output` só aceita o Bruno nos artigos da Hostinger e da lista `BRUNO_OUTSIDE_HOSTINGER`.
+- **Vídeos:** a pedido do Bruno, o Short `_EyAiTwjGTU` (unboxing e primeiro café, 30/07/2026, 41 s) é o vídeo embutido do artigo (`youtubeUrl`; o template mostra um só). O `RK4gX2gJvdI` (café gelado, 12/09/2026, 20 s) fica como link no capítulo do dia a dia. Os dois têm metadados em `video-metadata.js` e página própria: `/videos/unboxing-dolce-gusto-neo-primeiro-cafe` e `/videos/cafe-gelado-limao-dolce-gusto-neo`. A descrição do Short diz água com gás, e a resposta da Cecília diz água tônica; o Bruno decidiu em 19/11 pela água com gás, como no Short, e o texto chama a bebida de café gelado. Nota 4 confirmada pelo Bruno.
+- **Outro artigo:** o `dolce-gusto-maquinas-qual-escolher` deixa de dizer que a NEO não tem review e linka este.
+
+## Capa (Job 6)
+
+- `/images/reviews/dolcegusto/dolce-gusto-neo-vale-a-pena-capa.webp`: painel lateral com o logo da Dolce Gusto (o mesmo bloco da capa da Mini Me 2.0), "NEO / vale a pena? / No uso diário" e o CECI, sobre o frame do Short `_EyAiTwjGTU` (a Cecília encaixando o reservatório; a miniatura de 1080×1920 da `midia-staging`). A foto da NEO na bancada já é a capa do `black-friday-dolce-gusto` e não se repetiu.
+- **Corpo:** `dolce-gusto-neo-cecilia.webp` e `dolce-gusto-original-e-neo-oficial.webp`, as duas já no site.
