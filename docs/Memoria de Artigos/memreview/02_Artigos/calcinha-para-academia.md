@@ -7,9 +7,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia"
 anexo_tipo: "Anexo-Moda"
-status: "pr"
+status: "no-ar"
 responsavel: "Job-1 (Claude Fable 5.2)"
-proxima_acao: "upload da capa ao CDN (OK do Bruno) e merge"
+proxima_acao: "nenhuma; reler preços e o código da Insider no reteste de 27/11"
 bloqueado_por: null
 data_criacao: "2026-11-18"
 pauta_id: "DC2 (GO do Bruno em 18/11/2026)"
@@ -177,3 +177,7 @@ os 87,5% são dos modelos com costura.
 - **Farol (ChatGPT/Codex, 18/11):** 27 substituições aplicadas sobre o commit 66c65bcb (parecer em `docs/auditoria-copy-artigos/dc2-calcinha-academia-20261118-farol/`, fora do Git). Título trocado para "Calcinha para academia: Insider ou Toda Up para treinar de legging?" (seoTitle "Calcinha para academia: Insider ou Toda Up?"), porque "não marca" prometia resultado sem uso; veredito por prioridade antes do FAQ. A sessão tirou a frase de estoque da Cotton Up branca (estoque alheio) e o "eu" do título do veredito.
 - **Capa (escolha do Bruno):** a do Farol, painel verde com o logo da Insider, "Cupom Insider: EMCASACOMCECILIA" e a foto oficial da NakedFeel; `/images/reviews/insider/calcinha-para-academia-capa-painel-20261118.webp`. Corpo: quatro fotos que já estão no CDN.
 - `skinup-marca-na-roupa` ganhou o link de volta e o relacionado.
+
+## 11. No ar (18/11/2026)
+
+- #1186, release `219fce4e`, build Hostinger `01a1f147`. Página 200, og:image do CDN, sitemap e llms; `covers:check` 1/1; IndexNow com o artigo, o `skinup-marca-na-roupa`, `/reviews`, as subpáginas da Insider e da Toda Up, a home, o sitemap e o llms.
