@@ -4896,12 +4896,12 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado por clientes novos e antigos',
     shipping:
-      'Frete grátis na entrega Normal acima de R$ 199,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP e acima de R$ 399,00 nos demais estados, pelo valor final com os descontos, segundo o regulamento da loja; pedidos com mala de bordo ou mochila de rodinhas ficam fora',
+      'Frete grátis na entrega Normal acima de R$ 199,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP e acima de R$ 399,00 nos demais estados, pelo valor final com os descontos, segundo o regulamento da loja; pedidos com mala de bordo ou mochila de rodinhas ficam fora, e o valor do seu estado aparece no carrinho',
     combinable: 'Soma com as promoções vigentes do site, inclusive os preços da GoBlack, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço da GoBlack: no teste, a Tote Mini de R$ 219,90 por R$ 149,90 também ganhou os 5%' },
       { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis na entrega Normal acima de R$ 199,90 no Sul, no Sudeste e em parte do Centro-Oeste e acima de R$ 399,00 nos demais estados' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Pelo regulamento, grátis na entrega Normal acima de R$ 199,90 no Sul, no Sudeste e em parte do Centro-Oeste; confira o valor no carrinho' },
     ],
     lastVerified: '2026-11-19',
     testedAt: '2026-11-19',
@@ -4962,7 +4962,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'O cupom não mexe no frete, mas a Gocase dá frete grátis na entrega Normal acima de R$ 199,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP e acima de R$ 399,00 nos demais estados, pelo valor final do pedido com os descontos. Pedidos com mala de bordo ou mochila de rodinhas ficam fora do frete grátis.',
+          'O cupom não mexe no frete. Pelo regulamento da Gocase, o frete grátis na entrega Normal vale acima de R$ 199,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP e acima de R$ 399,00 nos demais estados, pelo valor final do pedido com os descontos, e pedidos com mala de bordo ou mochila de rodinhas ficam fora. Durante as campanhas, o site pode mostrar outro valor para o seu estado: confira no carrinho.',
       },
       {
         question: 'Como funciona a troca na Gocase?',
