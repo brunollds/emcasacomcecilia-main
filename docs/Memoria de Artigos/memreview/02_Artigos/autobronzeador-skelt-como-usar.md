@@ -6,7 +6,7 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia how-to"
-status: "pauta-aprovada"
+status: "redigido"
 responsavel: "-"
 proxima_acao: "redação (Job 2)"
 bloqueado_por: "-"
@@ -170,3 +170,12 @@ Sem card de estilo (não é roupa) e sem quadro "Leve se / Passe se" (não é de
 
 - **19/11/2026:** GO do Bruno para a SF4 e a SF5. A SF5 entra como seção (decisão desta sessão, pelo motivo no topo; se o Bruno quiser página própria, separar antes da redação).
 - **18/11/2026:** os textos da Skelt seguem com 10% em todo lugar (Bruno).
+
+## 12. Redação (19/11)
+
+- **Tempos relidos nas páginas:** Mousse, "6 a 8 horas" na descrição e, no texto longo da mesma página, 3 a 5 horas (médio) e 6 a 8 (forte); o guia de qual escolher segue certo e não mudou. Gel, 4 horas (moderado) e 8 (intenso), e a esfoliação "no máximo 2 dias antes", no texto longo. Mousse Dark, só "poucas horas". Água e Água Dark, sem tempo. Bifásico, 8 horas.
+- **Bifásico:** o site não dá o volume nem diz se tem cor-guia.
+- **Água:** a descrição diz que não é preciso tirar o produto, e o modo de uso da mesma página manda tirar no banho; o blog da marca pede ao menos 8 horas até o próximo banho e evitar suor nas 4 horas seguintes. O texto mostra as duas frases.
+- **Preços de lista (19/11):** Mousse, Água e Bifásico R$ 119,90; Mousse Dark e Água Dark R$ 129,90; Gel R$ 98,90; luva R$ 34,90. Nenhum valor com o código no texto.
+- **Perguntas frequentes da loja** relidas: todas as respostas da seção 5 conferem.
+- Revisão em três lentes; correções aplicadas. Fora do texto: o Facial "esgotado" (estoque não relido).
