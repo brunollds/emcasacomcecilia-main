@@ -9,7 +9,7 @@ category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2), com a DV3"
 bloqueado_por: "-"
@@ -92,3 +92,17 @@ Sem quadro `decision`.
 | 108; 100%; 0; 91,4%; 79,3%; 58; 7,21; 5 dias e 14 horas | Conta nossa: | perfil, 19/11 | verificado |
 | Atraso na entrega 46,18% (até 3 anos) | Conta nossa: | perfil, 19/11 | verificado |
 | Reclamação individual | - | fora | não escrever |
+
+## Redação, revisão e mídia (19/11/2026, sessão de artigos)
+
+**Job 2.** Escrito em `content/reviews/denavita-reclame-aqui-nota-reputacao.json` (id 1118), pelo briefing e pelas leituras do dia.
+
+**Job 3 (Fable 5.2, uma rodada para os sete).** Aprovado com ajustes, aplicados pelo próprio revisor: bastidor fora, contas por dia refeitas (todas batem), Anvisa só pelo rótulo (o capítulo da DV3 perdeu a descrição das regras, que não estava nos fatos), frase do médico uma vez por capítulo pertinente, CNPJ neutro. O título da DV6 passou a destacar o Leve 3, Pague 2 (testado) e os kits.
+
+**Fatos novos do Bruno (19/11).** O EMCASA entrou com o "Leve 3, Pague 2" e com o Pix no teste dele (sem valores); a Cecília não tem produto da Denavita.
+
+**Job 4.** Só PT. Âncora "cupom Denavita" para `/cupons/denavita` uma vez; `cta` com o link da GoGroup do `couponsData.ts`, nunca aberto.
+
+**Job 6.** Capa no painel lateral verde (logo num quadro branco, chamada, código EMCASA), fotos oficiais do Shopify da loja, só de produto, sem pessoas e sem o selo "Piscou perdeu"; "Foto: Denavita" nas legendas. As 15 imagens novas foram ao CDN com o sim do Bruno em 19/11 (folha `FOLHA-APROVACAO-DV.jpg`).
+
+Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.

@@ -64507,6 +64507,696 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/black-friday-denavita-capa.webp",
+      "local_url": "/images/reviews/denavita/black-friday-denavita-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123582,
+      "sha256": "d2b145d732746040214951f3a6dae6262184bfdf81a2e3212ecb2776406cbe25",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-denavita-capa.webp",
+      "storage_filename": "black-friday-denavita-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-denavita.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-denavita.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/denavita/black-friday-denavita-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277304,
+          "column": 15,
+          "literal": "/images/reviews/denavita/black-friday-denavita-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d2b145d732746040214951f3a6dae6262184bfdf81a2e3212ecb2776406cbe25/black-friday-denavita-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d2b145d732746040214951f3a6dae6262184bfdf81a2e3212ecb2776406cbe25/black-friday-denavita-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:16.208Z",
+      "verification_etag_or_digest": "d2b145d732746040214951f3a6dae6262184bfdf81a2e3212ecb2776406cbe25",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/black-friday-denavita-laranja-moro-3-potes.webp",
+      "local_url": "/images/reviews/denavita/black-friday-denavita-laranja-moro-3-potes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76516,
+      "sha256": "14ff7b068cef27e6cc893eb4abc27d3b6de3aa90e06040dc44ef0c1a010786a8",
+      "width": 1200,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-denavita-laranja-moro-3-potes.webp",
+      "storage_filename": "black-friday-denavita-laranja-moro-3-potes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-denavita.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-denavita.json",
+          "line": 74,
+          "column": 19,
+          "literal": "/images/reviews/denavita/black-friday-denavita-laranja-moro-3-potes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277348,
+          "column": 21,
+          "literal": "/images/reviews/denavita/black-friday-denavita-laranja-moro-3-potes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/14ff7b068cef27e6cc893eb4abc27d3b6de3aa90e06040dc44ef0c1a010786a8/black-friday-denavita-laranja-moro-3-potes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/14ff7b068cef27e6cc893eb4abc27d3b6de3aa90e06040dc44ef0c1a010786a8/black-friday-denavita-laranja-moro-3-potes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:16.510Z",
+      "verification_etag_or_digest": "14ff7b068cef27e6cc893eb4abc27d3b6de3aa90e06040dc44ef0c1a010786a8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/cupom-denavita-como-usar-capa.webp",
+      "local_url": "/images/reviews/denavita/cupom-denavita-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 221414,
+      "sha256": "df20c7e0c342f14ec58c6c8fb8791c4c9c3b19db876b10cbc91412ca7a396f6f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-denavita-como-usar-capa.webp",
+      "storage_filename": "cupom-denavita-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-denavita-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-denavita-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/cupom-denavita-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277144,
+          "column": 15,
+          "literal": "/images/reviews/denavita/cupom-denavita-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/df20c7e0c342f14ec58c6c8fb8791c4c9c3b19db876b10cbc91412ca7a396f6f/cupom-denavita-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/df20c7e0c342f14ec58c6c8fb8791c4c9c3b19db876b10cbc91412ca7a396f6f/cupom-denavita-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:16.766Z",
+      "verification_etag_or_digest": "df20c7e0c342f14ec58c6c8fb8791c4c9c3b19db876b10cbc91412ca7a396f6f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/cupom-denavita-como-usar-trio-magnesio.webp",
+      "local_url": "/images/reviews/denavita/cupom-denavita-como-usar-trio-magnesio.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83056,
+      "sha256": "f58f0dcc5eb768372a051db2dc52f1c84bc436b28f4be9c59756c44899599b6f",
+      "width": 1199,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "cupom-denavita-como-usar-trio-magnesio.webp",
+      "storage_filename": "cupom-denavita-como-usar-trio-magnesio.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-denavita-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-denavita-como-usar.json",
+          "line": 73,
+          "column": 19,
+          "literal": "/images/reviews/denavita/cupom-denavita-como-usar-trio-magnesio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277188,
+          "column": 21,
+          "literal": "/images/reviews/denavita/cupom-denavita-como-usar-trio-magnesio.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f58f0dcc5eb768372a051db2dc52f1c84bc436b28f4be9c59756c44899599b6f/cupom-denavita-como-usar-trio-magnesio.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f58f0dcc5eb768372a051db2dc52f1c84bc436b28f4be9c59756c44899599b6f/cupom-denavita-como-usar-trio-magnesio.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:17.060Z",
+      "verification_etag_or_digest": "f58f0dcc5eb768372a051db2dc52f1c84bc436b28f4be9c59756c44899599b6f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/cupom-denavita-primeira-compra-capa.webp",
+      "local_url": "/images/reviews/denavita/cupom-denavita-primeira-compra-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 178680,
+      "sha256": "f1e3c63642174166c82d94bcf87dba504df84eccb8c96f111c5599c8149f0432",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-denavita-primeira-compra-capa.webp",
+      "storage_filename": "cupom-denavita-primeira-compra-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-denavita-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-denavita-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/cupom-denavita-primeira-compra-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278286,
+          "column": 15,
+          "literal": "/images/reviews/denavita/cupom-denavita-primeira-compra-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f1e3c63642174166c82d94bcf87dba504df84eccb8c96f111c5599c8149f0432/cupom-denavita-primeira-compra-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f1e3c63642174166c82d94bcf87dba504df84eccb8c96f111c5599c8149f0432/cupom-denavita-primeira-compra-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:17.321Z",
+      "verification_etag_or_digest": "f1e3c63642174166c82d94bcf87dba504df84eccb8c96f111c5599c8149f0432",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/cupom-denavita-primeira-compra-tons.webp",
+      "local_url": "/images/reviews/denavita/cupom-denavita-primeira-compra-tons.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34150,
+      "sha256": "132527b278fc50dd6b0a9228192a3b1335f52f2b585eed04c42eee70d9af7a16",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-denavita-primeira-compra-tons.webp",
+      "storage_filename": "cupom-denavita-primeira-compra-tons.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-denavita-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-denavita-primeira-compra.json",
+          "line": 78,
+          "column": 19,
+          "literal": "/images/reviews/denavita/cupom-denavita-primeira-compra-tons.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278335,
+          "column": 21,
+          "literal": "/images/reviews/denavita/cupom-denavita-primeira-compra-tons.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/132527b278fc50dd6b0a9228192a3b1335f52f2b585eed04c42eee70d9af7a16/cupom-denavita-primeira-compra-tons.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/132527b278fc50dd6b0a9228192a3b1335f52f2b585eed04c42eee70d9af7a16/cupom-denavita-primeira-compra-tons.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:17.607Z",
+      "verification_etag_or_digest": "132527b278fc50dd6b0a9228192a3b1335f52f2b585eed04c42eee70d9af7a16",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-e-boa-capa.webp",
+      "local_url": "/images/reviews/denavita/denavita-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91942,
+      "sha256": "47646912048ccc748e9f4ffea45d236d5e3826f8b67a3be9d766e5b75182ecd9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-e-boa-capa.webp",
+      "storage_filename": "denavita-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/denavita-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277668,
+          "column": 15,
+          "literal": "/images/reviews/denavita/denavita-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/47646912048ccc748e9f4ffea45d236d5e3826f8b67a3be9d766e5b75182ecd9/denavita-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/47646912048ccc748e9f4ffea45d236d5e3826f8b67a3be9d766e5b75182ecd9/denavita-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:17.878Z",
+      "verification_etag_or_digest": "47646912048ccc748e9f4ffea45d236d5e3826f8b67a3be9d766e5b75182ecd9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-e-boa-creatina.webp",
+      "local_url": "/images/reviews/denavita/denavita-e-boa-creatina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41638,
+      "sha256": "5a26d58753011b8fc71d12dfd42eb1d2d7287f8c0e28757a8ae7349ca508aa42",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-e-boa-creatina.webp",
+      "storage_filename": "denavita-e-boa-creatina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-e-boa.json",
+          "line": 182,
+          "column": 19,
+          "literal": "/images/reviews/denavita/denavita-e-boa-creatina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277821,
+          "column": 21,
+          "literal": "/images/reviews/denavita/denavita-e-boa-creatina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5a26d58753011b8fc71d12dfd42eb1d2d7287f8c0e28757a8ae7349ca508aa42/denavita-e-boa-creatina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5a26d58753011b8fc71d12dfd42eb1d2d7287f8c0e28757a8ae7349ca508aa42/denavita-e-boa-creatina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:18.137Z",
+      "verification_etag_or_digest": "5a26d58753011b8fc71d12dfd42eb1d2d7287f8c0e28757a8ae7349ca508aa42",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-e-boa-nac.webp",
+      "local_url": "/images/reviews/denavita/denavita-e-boa-nac.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35284,
+      "sha256": "dbdad92c58634f5f99e24d59962e1544b4dd8d261790423d81889fddd2736989",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-e-boa-nac.webp",
+      "storage_filename": "denavita-e-boa-nac.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-e-boa.json",
+          "line": 101,
+          "column": 19,
+          "literal": "/images/reviews/denavita/denavita-e-boa-nac.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277740,
+          "column": 21,
+          "literal": "/images/reviews/denavita/denavita-e-boa-nac.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dbdad92c58634f5f99e24d59962e1544b4dd8d261790423d81889fddd2736989/denavita-e-boa-nac.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dbdad92c58634f5f99e24d59962e1544b4dd8d261790423d81889fddd2736989/denavita-e-boa-nac.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:18.380Z",
+      "verification_etag_or_digest": "dbdad92c58634f5f99e24d59962e1544b4dd8d261790423d81889fddd2736989",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/denavita/denavita-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77264,
+      "sha256": "6aafd883298b708ff58e0d1cd6ec9757e41dc947f68e3c5d7651fe22ec13b63a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-e-confiavel-capa.webp",
+      "storage_filename": "denavita-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-e-confiavel.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/denavita/denavita-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277948,
+          "column": 15,
+          "literal": "/images/reviews/denavita/denavita-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6aafd883298b708ff58e0d1cd6ec9757e41dc947f68e3c5d7651fe22ec13b63a/denavita-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6aafd883298b708ff58e0d1cd6ec9757e41dc947f68e3c5d7651fe22ec13b63a/denavita-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:18.623Z",
+      "verification_etag_or_digest": "6aafd883298b708ff58e0d1cd6ec9757e41dc947f68e3c5d7651fe22ec13b63a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-e-confiavel-creatina-potes.webp",
+      "local_url": "/images/reviews/denavita/denavita-e-confiavel-creatina-potes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49134,
+      "sha256": "68cceb415952942680789b7471498c2ca7fac2fc4cdcc310b9b752ee2b54664a",
+      "width": 1199,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-e-confiavel-creatina-potes.webp",
+      "storage_filename": "denavita-e-confiavel-creatina-potes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-e-confiavel.json",
+          "line": 98,
+          "column": 19,
+          "literal": "/images/reviews/denavita/denavita-e-confiavel-creatina-potes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278016,
+          "column": 21,
+          "literal": "/images/reviews/denavita/denavita-e-confiavel-creatina-potes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/68cceb415952942680789b7471498c2ca7fac2fc4cdcc310b9b752ee2b54664a/denavita-e-confiavel-creatina-potes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/68cceb415952942680789b7471498c2ca7fac2fc4cdcc310b9b752ee2b54664a/denavita-e-confiavel-creatina-potes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:18.880Z",
+      "verification_etag_or_digest": "68cceb415952942680789b7471498c2ca7fac2fc4cdcc310b9b752ee2b54664a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
+      "local_url": "/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 313856,
+      "sha256": "149449f2daa42e51c6af656e738e07fa51704bc16b0500246f94d81c87fa587d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "denavita-reclame-aqui-digestino.webp",
+      "storage_filename": "denavita-reclame-aqui-digestino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-reclame-aqui-nota-reputacao.json",
+          "line": 145,
+          "column": 19,
+          "literal": "/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278204,
+          "column": 21,
+          "literal": "/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/149449f2daa42e51c6af656e738e07fa51704bc16b0500246f94d81c87fa587d/denavita-reclame-aqui-digestino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/149449f2daa42e51c6af656e738e07fa51704bc16b0500246f94d81c87fa587d/denavita-reclame-aqui-digestino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:19.166Z",
+      "verification_etag_or_digest": "149449f2daa42e51c6af656e738e07fa51704bc16b0500246f94d81c87fa587d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73006,
+      "sha256": "ef4bd9f6820910de86ee8d19a9dc759aa213abb453ffe9b0c2b84d03caf78189",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "denavita-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278089,
+          "column": 15,
+          "literal": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ef4bd9f6820910de86ee8d19a9dc759aa213abb453ffe9b0c2b84d03caf78189/denavita-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ef4bd9f6820910de86ee8d19a9dc759aa213abb453ffe9b0c2b84d03caf78189/denavita-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:19.448Z",
+      "verification_etag_or_digest": "ef4bd9f6820910de86ee8d19a9dc759aa213abb453ffe9b0c2b84d03caf78189",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/laranja-moro-denavita-capa.webp",
+      "local_url": "/images/reviews/denavita/laranja-moro-denavita-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98446,
+      "sha256": "3515f3603b6c55439f7712f1d71c4558db53ddefc2ccdfc31945a15a811a01f8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "laranja-moro-denavita-capa.webp",
+      "storage_filename": "laranja-moro-denavita-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/laranja-moro-denavita.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/laranja-moro-denavita.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277470,
+          "column": 15,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3515f3603b6c55439f7712f1d71c4558db53ddefc2ccdfc31945a15a811a01f8/laranja-moro-denavita-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3515f3603b6c55439f7712f1d71c4558db53ddefc2ccdfc31945a15a811a01f8/laranja-moro-denavita-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:19.734Z",
+      "verification_etag_or_digest": "3515f3603b6c55439f7712f1d71c4558db53ddefc2ccdfc31945a15a811a01f8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/laranja-moro-denavita-pote.webp",
+      "local_url": "/images/reviews/denavita/laranja-moro-denavita-pote.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50326,
+      "sha256": "7518505fffdbdd005658cd95c08c7c85f9b0f4708d49860c01a27068a007d2bf",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "laranja-moro-denavita-pote.webp",
+      "storage_filename": "laranja-moro-denavita-pote.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/laranja-moro-denavita.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/laranja-moro-denavita.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-pote.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277547,
+          "column": 21,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-pote.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7518505fffdbdd005658cd95c08c7c85f9b0f4708d49860c01a27068a007d2bf/laranja-moro-denavita-pote.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7518505fffdbdd005658cd95c08c7c85f9b0f4708d49860c01a27068a007d2bf/laranja-moro-denavita-pote.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T23:41:19.978Z",
+      "verification_etag_or_digest": "7518505fffdbdd005658cd95c08c7c85f9b0f4708d49860c01a27068a007d2bf",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp",
       "local_url": "/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp",
       "media_kind": "image",

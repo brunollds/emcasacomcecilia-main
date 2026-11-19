@@ -9,7 +9,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2), depois da DV1 e da DV6; ler o rótulo antes"
 bloqueado_por: "-"
@@ -126,3 +126,17 @@ Capa com foto oficial do pote, logo e código. Corpo (mínimo 1): foto oficial d
 | R$ 2,56 e R$ 2,31 por dia | Conta nossa: | ficha e teste, 19/11 | verificado |
 | Cafeína, advertências, Anvisa | O rótulo diz: | rótulo | ler no dia |
 | Emagrece, quilos, prazo | - | - | não escrever |
+
+## Redação, revisão e mídia (19/11/2026, sessão de artigos)
+
+**Job 2.** Escrito em `content/reviews/laranja-moro-denavita.json` (id 1115), pelo briefing e pelas leituras do dia.
+
+**Job 3 (Fable 5.2, uma rodada para os sete).** Aprovado com ajustes, aplicados pelo próprio revisor: bastidor fora, contas por dia refeitas (todas batem), Anvisa só pelo rótulo (o capítulo da DV3 perdeu a descrição das regras, que não estava nos fatos), frase do médico uma vez por capítulo pertinente, CNPJ neutro. O título da DV6 passou a destacar o Leve 3, Pague 2 (testado) e os kits.
+
+**Fatos novos do Bruno (19/11).** O EMCASA entrou com o "Leve 3, Pague 2" e com o Pix no teste dele (sem valores); a Cecília não tem produto da Denavita.
+
+**Job 4.** Só PT. Âncora "cupom Denavita" para `/cupons/denavita` uma vez; `cta` com o link da GoGroup do `couponsData.ts`, nunca aberto.
+
+**Job 6.** Capa no painel lateral verde (logo num quadro branco, chamada, código EMCASA), fotos oficiais do Shopify da loja, só de produto, sem pessoas e sem o selo "Piscou perdeu"; "Foto: Denavita" nas legendas. As 15 imagens novas foram ao CDN com o sim do Bruno em 19/11 (folha `FOLHA-APROVACAO-DV.jpg`).
+
+Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.
