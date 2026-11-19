@@ -140,3 +140,11 @@ Sem quadro "Leve se / Passe se".
 
 - **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** artigo próprio, por decisão do Bruno, na regra de "só rótulo".
+
+## 12. Redação (19/11)
+
+- **Carrinho:** CECI de 10% no Impact Baunilha avulso (R$ 18,28) e no combo de 15 de baunilha (R$ 258,01, R$ 17,20 cada); no Proline, os valores da fase 1 (R$ 17,81 e R$ 15,83). Combo de 30 do Impact e assinaturas sem teste.
+- **Impact:** frente "Fórmula modificada para nutrição enteral e oral", 1,1 kcal/mL; ômega-3 300 mg por 100 ml; nucleotídeos nos ingredientes sem valor na tabela; sucralose; leite, soja e peixe; sem glúten.
+- **Proline:** ômega-3 200 mg por 100 ml; selo "Sem Glúten" na página; sem lista de ingredientes.
+- **Indicação do Impact:** só o trecho "para compor dietas de pessoas em situações específicas", entre aspas; cirurgia e oncologia fora do texto.
+- **Parecer externo:** aceitos o texto e a seção "Caixinha ou combo de baunilha"; as indicações voltaram para as aspas.

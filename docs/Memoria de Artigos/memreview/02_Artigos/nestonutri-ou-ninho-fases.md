@@ -164,3 +164,12 @@ Sem quadro "Leve se / Passe se": a decisão não é do leitor sozinho. Conferir 
 - **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** GO do Bruno.
 - **19/11/2026:** a pergunta do Nestogeno fechou com a leitura da loja (seção 8): entra como uma pergunta de FAQ, com o texto de lá.
+
+## 12. Redação (19/11)
+
+- **Carrinho:** CECI de 10% nas duas latas de 800 g: Ninho Fases 1+ R$ 44,51 (sobre R$ 49,46 da promoção) e Nestonutri 1+ R$ 57,32 (sobre R$ 63,69). Por 100 ml preparados, R$ 0,77 e R$ 1,02. Latas de 400 g e 1,2 kg e assinatura sem teste.
+- **Lata:** as duas dizem "fórmula infantil de seguimento para crianças de primeira infância" (fotos oficiais); o título da página do Ninho diz "composto lácteo" e o texto segue a lata.
+- **Ingredientes:** as páginas não trazem a lista; o artigo fica nos alérgenos e manda ao verso da lata. Tabelas sem DHA, ARA e HMO.
+- **Preparo:** o artigo manda seguir o modo de preparo completo da lata e mostra só o rendimento (conta nossa).
+- **Parecer externo:** aceitos o texto e as tabelas de três colunas; a pergunta do Nestogeno ficou com o texto da seção 8. Capa B do Bruno: cupom e o aviso do Ministério da Saúde em moldura, caixa alta e negrito (Decreto 9.579/2018, art. 6º). A descrição de busca mantém o código, por decisão do Bruno.
+- **Fora deste lote:** a tabela do Ninho no `nanlac-supreme-ou-ninho-fases` (465 kcal, FOS 2,7, inulina 1,2, açúcares adicionados 1,5 por 100 g) difere da página de hoje (468, 4,1, 1,7, 4,2).

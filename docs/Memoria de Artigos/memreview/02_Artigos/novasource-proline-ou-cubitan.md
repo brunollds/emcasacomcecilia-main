@@ -149,3 +149,10 @@ Sem quadro "Leve se / Passe se".
 - **19/11/2026:** artigo próprio, por decisão do Bruno, na regra de "só rótulo".
 - **19/11/2026:** o preço do parceiro entra com o `CECI` em primeiro plano (Bruno: "a ideia é sempre o nosso código ser aplicado nos nossos afiliados").
 - **19/11/2026:** a tabela oficial do Cubitan foi achada na loja da Danone depois que o Bruno mandou procurar em outras lojas; o briefing deixou de estar parado.
+
+## 12. Redação (19/11)
+
+- **Preço:** Proline com o CECI R$ 17,81 na caixinha e R$ 15,83 no combo de 10, contra R$ 19,78 do Cubitan na loja da Danone (R$ 1,97 a menos, antes do frete). Sem o código, R$ 19,79 e R$ 19,78. Compra recorrente: R$ 17,59 e R$ 17,80; a Danone pede mínimo de R$ 150,00 na compra programada. Farmácia fora (Pacheco sem estoque).
+- **Cubitan:** carboidratos fora (linha ilegível na página da Danone); ômega-3 0,2 g por 100 ml, igual ao Proline por unidade.
+- **Proline:** selo "Sem Glúten" na página; ingredientes e alérgicos não listados.
+- **Parecer externo:** aceitos o texto e o pedido mínimo; mantidos as aspas nas indicações, o preço com o CECI primeiro e a diferença de um centavo só no parágrafo de preço.
