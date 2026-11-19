@@ -2,7 +2,7 @@
 titulo_provisorio: "Nutren Active: para que serve, como tomar e a diferença para o Senior e o Protein"
 seo_title: "Nutren Active: para que serve, como tomar e preço"
 slug_sugerido: "nutren-active-para-que-serve"
-parceiro: "[[Nestlé Nutre]]"
+parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
@@ -78,6 +78,8 @@ Ninguém do site usou o produto. Guia pelo rótulo.
 
 ## 6. Preço (19/11/2026; reler no dia)
 
+**Regra do Bruno (19/11):** o preço da parceira que o artigo põe em primeiro plano é o preço com o `CECI`. É assim que queremos que o leitor compre. O preço sem o código aparece só como referência de tabela.
+
 | Produto | Preço | Assinando | Por 100 g | Por porção |
 |---|---|---|---|---|
 | Nutren Active 400 g (baunilha, chocolate ou morango) | R$ 63,49 | R$ 57,14 | R$ 15,87 | R$ 5,00 |
@@ -142,4 +144,5 @@ Quadro "Leve se / Passe se": cabe (é guia de produto de consumo), de 1 a 3 fras
 
 ## Decisões
 
+- **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** GO do Bruno.

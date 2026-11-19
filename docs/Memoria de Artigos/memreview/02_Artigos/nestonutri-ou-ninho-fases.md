@@ -2,7 +2,7 @@
 titulo_provisorio: "Nestonutri ou Ninho Fases 1+: o que o rótulo de cada fórmula de 1 a 3 anos mostra e quanto custa"
 seo_title: "Nestonutri ou Ninho Fases 1+: rótulo e preço lado a lado"
 slug_sugerido: "nestonutri-ou-ninho-fases"
-parceiro: "[[Nestlé Nutre]]"
+parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Fórmula Infantil"
@@ -88,6 +88,8 @@ Por 100 g de pó: Nestonutri 482 kcal, 12 g de proteína, 6,6 g de açúcares ad
 
 ## 5. Preço (19/11/2026, Black Month da loja; reler no dia)
 
+**Regra do Bruno (19/11):** o preço da parceira que o artigo põe em primeiro plano é o preço com o `CECI`. É assim que queremos que o leitor compre. O preço sem o código aparece só como referência de tabela.
+
 | | Nestonutri 1+ 800 g | Ninho Fases 1+ 800 g |
 |---|---|---|
 | Preço | R$ 63,69 | R$ 49,46 (de R$ 58,19, 15%) |
@@ -159,5 +161,6 @@ Sem quadro "Leve se / Passe se": a decisão não é do leitor sozinho. Conferir 
 
 ## Decisões
 
+- **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** GO do Bruno.
 - **19/11/2026:** a pergunta do Nestogeno fechou com a leitura da loja (seção 8): entra como uma pergunta de FAQ, com o texto de lá.

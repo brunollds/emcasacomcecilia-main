@@ -2,7 +2,7 @@
 titulo_provisorio: "Novasource Proline ou Impact: o que muda na tabela e no preço das duas fórmulas da Nestlé"
 seo_title: "Novasource Proline ou Impact: tabela e preço lado a lado"
 slug_sugerido: "novasource-proline-ou-impact"
-parceiro: "[[Nestlé Nutre]]"
+parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
@@ -82,6 +82,8 @@ As duas fórmulas são da Nestlé e as duas são vendidas na loja parceira. Ning
 
 ## 5. Preço (19/11/2026, Black Month da loja; reler no dia)
 
+**Regra do Bruno (19/11):** o preço da parceira que o artigo põe em primeiro plano é o preço com o `CECI`. É assim que queremos que o leitor compre. O preço sem o código aparece só como referência de tabela.
+
 | | Novasource Proline | Impact |
 |---|---|---|
 | Caixinha de 200 ml, de tabela | R$ 21,99 | R$ 23,89 |
@@ -136,4 +138,5 @@ Sem quadro "Leve se / Passe se".
 
 ## Decisões
 
+- **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** artigo próprio, por decisão do Bruno, na regra de "só rótulo".
