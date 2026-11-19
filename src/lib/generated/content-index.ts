@@ -216653,7 +216653,8 @@ export const reviewsData: unknown[] = [
         "heading": "Calcinhas SkinUp: o corte a laser",
         "paragraphs": [
           "Nas quatro calcinhas, a explicação é a mesma: o corte a laser dispensa a costura. As Fio Dental são as mais específicas, com legging, calça clara e vestido de tecido leve citados na página, além de \"sumir sob qualquer tecido\". As Biquíni e Cós Alto ficam em \"sem marcar ou criar vincos\".",
-          "A Fio Dental tinha 308 avaliações na leitura. Entre os comentários que aparecem na página, nenhum tratava de marcar na roupa. As outras promessas das páginas, como as do forro, ficam fora deste texto."
+          "A Fio Dental tinha 308 avaliações na leitura. Entre os comentários que aparecem na página, nenhum tratava de marcar na roupa. As outras promessas das páginas, como as do forro, ficam fora deste texto.",
+          "Para treinar de legging, o guia de [calcinha para academia](/reviews/calcinha-para-academia) compara o SkinUp com as calcinhas a laser da Insider pelo tecido, pelo forro e pela troca."
         ],
         "image": {
           "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-biquini-skinup.webp",
@@ -216829,6 +216830,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "toda-up-e-boa"
+      },
+      {
+        "slug": "calcinha-para-academia"
       }
     ]
   },
@@ -267641,6 +267645,320 @@ export const reviewsData: unknown[] = [
           "Onde coloco o cupom na primeira compra? No campo “Código de desconto ou cartão-presente” do checkout, depois de clicar em Finalizar na gaveta do carrinho. O passo a passo completo está em [como usar o cupom CECILIA15 na BOLD Snacks](/reviews/cupom-bold-snacks-como-usar).",
           "O cupom vale na assinatura? Sim. No nosso teste, o CECILIA15 deu 20% na adesão ao BOLD Club, sobre o preço da assinatura. As cobranças seguintes seguem as regras da assinatura; confira o compromisso mínimo antes de aderir."
         ]
+      }
+    ]
+  },
+  {
+    "id": 1073,
+    "slug": "calcinha-para-academia",
+    "locale": "pt",
+    "title": "Calcinha para academia: Insider ou Toda Up para treinar de legging?",
+    "seoTitle": "Calcinha para academia: Insider ou Toda Up?",
+    "type": "Guia",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Compare as calcinhas da Insider e da Toda Up para usar com legging: acabamento, forro, medidas, preço com o código e as diferenças na troca por tamanho antes de comprar.",
+    "metaDescription": "Calcinha para academia: Insider com EMCASACOMCECILIA (15%) ou Toda Up com MAUAD (10%). Compare forro, modelos, preço por peça e troca por tamanho.",
+    "publishedAt": "18 de novembro de 2026",
+    "publishedAtISO": "2026-11-18",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/calcinha-para-academia-capa-painel-20261118.webp",
+    "imageAlt": "Capa com painel verde, logo da Insider, chamada Calcinha para academia: Qual escolher?, nomes Insider e Toda Up e cupom Insider EMCASACOMCECILIA; à direita, foto oficial da Biquíni NakedFeel rosada com sutiã da mesma cor.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Entre as avulsas comparadas, a Insider a laser custa menos; a SkinUp da Toda Up permite trocar o tamanho. No teste, EMCASACOMCECILIA deu 15% na Insider e MAUAD, 10% na Toda Up. Para usar com legging, compare acabamento, cobertura e medidas: não testamos qual marca menos no treino."
+        ]
+      },
+      {
+        "heading": "O que muda numa calcinha para treinar",
+        "paragraphs": [
+          "Comece pela cobertura que você costuma usar e confira a medida do quadril. Depois compare a borda e o forro: são detalhes mais úteis para essa compra do que escolher só pelo nome da linha."
+        ],
+        "bullets": [
+          "Borda: as linhas a laser da Insider e a SkinUp são apresentadas pelas lojas como opções sem costura aparente no acabamento. Compare esse detalhe com o da calcinha que você já gosta de usar.",
+          "Elastano: a porcentagem varia entre os modelos. Ter mais elastano, por si só, não comprova que a calcinha fica mais firme ou no lugar durante o treino.",
+          "Forro ou fundilho: é a parte do fundo da calcinha, que pode ter composição diferente do restante da peça. Compare esse material separadamente.",
+          "Cobertura: fio dental, biquíni e caleçon cobrem áreas diferentes. Se você prefere cintura mais alta, confira a altura do cós; o nome da linha não substitui essa medida."
+        ],
+        "postParagraphs": []
+      },
+      {
+        "heading": "Tecido e forro, pela ficha",
+        "paragraphs": [
+          "As linhas a laser e a NakedFeel da Insider e a SkinUp da Toda Up usam poliamida com elastano. A Cotton Up é a opção de algodão; o forro precisa ser lido à parte."
+        ],
+        "comparisonTable": {
+          "caption": "Composição como cada loja declara na página do produto. A ficha não mede desempenho no treino.",
+          "headers": [
+            "Modelo",
+            "Tecido de fora",
+            "Forro"
+          ],
+          "rows": [
+            [
+              "Insider corte a laser (Brief, Fio Minimal, Caleçon Cover)",
+              "91% poliamida, 9% elastano",
+              "Modal, sem porcentagem"
+            ],
+            [
+              "Insider Biquíni NakedFeel",
+              "75% poliamida, 25% elastano, borda selada",
+              "Modal"
+            ],
+            [
+              "Toda Up SkinUp (biquíni, cós alto, fio dental, fio dental cós alto)",
+              "76,5% poliamida, 23,5% elastano",
+              "95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% elastano"
+            ],
+            [
+              "Toda Up Cotton Up biquíni",
+              "95% algodão, 5% elastano",
+              "A página não informa"
+            ],
+            [
+              "Kit sem costura da Donna Carioca (referência)",
+              "90% poliamida, 10% elastano",
+              "A página não cita forro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Insider informa modal no fundilho das linhas a laser e NakedFeel. Na SkinUp, a Toda Up separa o tecido externo do forro com fibra de celulose regenerada; a composição detalhada aparece na página da fio dental. A Cotton Up não tem o material do forro informado na página consultada.",
+          "Na referência da Donna Carioca, a descrição informa poliamida com elastano, mas não detalha o forro. Essa ausência não permite concluir que a peça não tenha forro nem que ele seja inferior."
+        ]
+      },
+      {
+        "heading": "Insider: a laser, a NakedFeel e as de costura",
+        "paragraphs": [
+          "Na Insider, comece pela Brief a laser se você quer comprar só uma peça com cobertura de biquíni: ela está entre as avulsas de menor preço desta comparação. A Fio Minimal é a opção de fio dental; a Caleçon Cover cobre mais.",
+          "A grade muda por modelo: Brief de PP a XGG, Fio Minimal de P a GG e Caleçon Cover de P a XGG. Confira a medida do quadril, principalmente porque a política da Insider restringe a troca de underwear por tamanho.",
+          "A Biquíni NakedFeel muda a composição para 75% de poliamida e 25% de elastano, com borda selada, de PP a XGG. Ela custa mais; se a prioridade é preço, comece pela Brief a laser.",
+          "A Insider também vende modelos com costura, como Biquíni Brief, Tanga String, Hot Pant Safe e Boxer. A comparação de cobertura e construção está em [qual calcinha da Insider escolher](/reviews/calcinha-insider-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-brief-laser.webp",
+            "alt": "Modelo com a calcinha Brief corte a laser branca da Insider e camiseta cinza, de frente, em foto oficial",
+            "caption": "Brief corte a laser. Foto: Insider.",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-brief-corte-a-laser-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "store": "insider",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/insider/calcinha-insider-qual-escolher-nakedfeel.webp",
+            "alt": "Modelo com a calcinha Biquíni NakedFeel rosada da Insider e sutiã da mesma cor, em foto oficial",
+            "caption": "Biquíni NakedFeel. Foto: Insider.",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calcinha-biquini-nakedfeel?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "store": "insider",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ],
+        "postParagraphs": [
+          "No carrinho, algumas cores e tamanhos aparecem como compra antecipada, com envio só a partir de janeiro. O aviso sai embaixo do nome da peça: confira antes de pagar."
+        ]
+      },
+      {
+        "heading": "Toda Up: SkinUp e Cotton Up",
+        "paragraphs": [
+          "A SkinUp é a opção a comparar se você quer tons de pele e a possibilidade de trocar o tamanho em até 30 dias, nas condições da loja. A linha tem quatro modelos: biquíni, cós alto, fio dental e fio dental cós alto, de P a G1.",
+          "A Cotton Up biquíni é a alternativa para quem prefere algodão, em branco, preto ou cinza. Para escolher entre ela e a SkinUp pelo acabamento, falta uma informação: a página da Cotton Up não descreve a borda nem o material do forro.",
+          "A comparação das duas linhas, incluindo os tops, está em [SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up). Para a dúvida sobre o contorno da peça, veja [SkinUp marca na roupa?](/reviews/skinup-marca-na-roupa)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-cos-alto-skinup.webp",
+            "alt": "Duas modelos com a calcinha cós alto SkinUp da Toda Up, uma em preto e outra em rosa, em foto oficial",
+            "caption": "SkinUp cós alto. Foto: Toda Up.",
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "store": "toda-up",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-calcinha-fio-dental-skinup.webp",
+            "alt": "Calcinha fio dental SkinUp preta da Toda Up, de costas, em foto oficial",
+            "caption": "SkinUp fio dental. Foto: Toda Up.",
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "store": "toda-up",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ],
+        "postParagraphs": [
+          "A Toda Up também vende versões \"Black VIP\" dos mesmos produtos. O código da parceria não vale nelas: compre pela página comum da peça."
+        ]
+      },
+      {
+        "heading": "Quanto custa por peça",
+        "paragraphs": [
+          "A tabela compara a compra avulsa, antes do frete. Na Toda Up, os preços da página já são promocionais: SkinUp de R$ 59,90 por R$ 49,90 e Cotton Up de R$ 59,90 por R$ 39,90."
+        ],
+        "comparisonTable": {
+          "caption": "Leitura de 18 de novembro de 2026. Brief, NakedFeel e SkinUp biquíni tiveram o código aplicado no carrinho; os demais valores com código são cálculos sobre a página. Antes do frete. Algumas cores da Insider custam menos.",
+          "headers": [
+            "Modelo",
+            "Preço da página",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "Insider Brief ou Fio Minimal a laser",
+              "R$ 39",
+              "R$ 33,15 (EMCASACOMCECILIA)"
+            ],
+            [
+              "Insider Caleçon Cover a laser",
+              "R$ 45",
+              "R$ 38,25 (EMCASACOMCECILIA)"
+            ],
+            [
+              "Insider Biquíni NakedFeel",
+              "R$ 59",
+              "R$ 50,15 (EMCASACOMCECILIA)"
+            ],
+            [
+              "Toda Up SkinUp (os quatro modelos)",
+              "R$ 49,90 (em promoção)",
+              "R$ 44,91 (MAUAD)"
+            ],
+            [
+              "Toda Up Cotton Up biquíni",
+              "R$ 39,90 (em promoção)",
+              "R$ 35,91 (MAUAD)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se você precisa de seis peças e aceita cores sortidas, a Donna Carioca tem kits de R$ 77,90 a R$ 111,00, ou R$ 12,98 a R$ 18,50 por calcinha, de P a GG. O custo por unidade fica abaixo das avulsas da tabela, mas você compra seis de uma vez. Na Insider e na Toda Up, é possível escolher uma única peça e a cor; a Insider também tem kits de três e cinco, que devem ser comparados pelo total do kit."
+        ]
+      },
+      {
+        "heading": "Tamanho e troca",
+        "paragraphs": [
+          "Se você ainda não conhece o seu tamanho na marca, esta diferença pode decidir a compra. A tabela resume as políticas publicadas para troca por tamanho e para defeito."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Loja",
+            "Tamanhos",
+            "Troca de tamanho",
+            "Prazo informado para defeito"
+          ],
+          "rows": [
+            [
+              "Insider",
+              "PP a XGG (varia por modelo)",
+              "A política restringe underwear a defeito comprovado",
+              "180 dias"
+            ],
+            [
+              "Toda Up",
+              "P a G1",
+              "Até 30 dias; primeira troca com frete grátis",
+              "90 dias para vício aparente; oculto, da constatação"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Toda Up, a troca por preferência exige peça sem uso nem lavagem, com as etiquetas originais e o adesivo íntimo intacto, quando houver. A solicitação passa por análise: preserve esses itens ao conferir o tamanho.",
+          "Na Insider, use a [tabela de medidas da Insider](/reviews/tabela-de-medidas-insider) antes de escolher. Na Toda Up, a mesma letra tem medidas diferentes na SkinUp e na Cotton Up; siga o guia da peça.",
+          "As condições completas estão nas políticas de [trocas da Insider](https://www.insiderstore.com.br/policies/refund-policy) e de [trocas da Toda Up](https://todaup.com/policies/refund-policy)."
+        ]
+      },
+      {
+        "heading": "Frete e lavagem",
+        "bullets": [
+          "Insider: frete grátis em compras acima de R$ 399, considerando o valor depois do cupom. Confira o total na sacola.",
+          "Toda Up: frete grátis acima de R$ 199, pelo aviso do site e do carrinho; abaixo disso, o valor sai pelo CEP. A loja despacha em até 3 dias úteis.",
+          "Lavagem da Insider a laser: à mão, com sabão neutro e água fria, ou na máquina em saco protetor e ciclo delicado, sem amaciante.",
+          "Lavagem do SkinUp: água fria, ciclo delicado, saquinho de lavagem e secagem à sombra, longe de fonte de calor."
+        ]
+      },
+      {
+        "heading": "Os dois códigos",
+        "paragraphs": [
+          "Cada loja tem o seu código da parceria, e ele só vale nela."
+        ],
+        "bullets": [
+          "Insider: EMCASACOMCECILIA deu 15% na Brief a laser e na NakedFeel no carrinho de teste. Confira o percentual aplicado ao seu pedido.",
+          "Toda Up: MAUAD deu 10% na SkinUp biquíni. O código não vale nas páginas Black VIP; use a página comum da peça."
+        ],
+        "links": [
+          {
+            "label": "Cupom Insider: EMCASACOMCECILIA",
+            "href": "/cupons/insider"
+          },
+          {
+            "label": "Cupom Toda Up: MAUAD",
+            "href": "/cupons/toda-up"
+          }
+        ]
+      },
+      {
+        "heading": "Qual escolher para cada prioridade",
+        "bullets": [
+          "Menor preço na compra avulsa: Brief a laser da Insider. Ela fica entre as mais baratas da tabela e permite comprar só uma para conhecer o modelo.",
+          "Margem para acertar o tamanho: SkinUp da Toda Up. A política prevê até 30 dias para troca por preferência, com as condições de conservação e aprovação descritas acima.",
+          "Preferência por algodão: Cotton Up biquíni. É a alternativa com 95% de algodão; o corte a laser e o material do forro não estão informados na página.",
+          "Mais cobertura na Insider: Caleçon Cover a laser. Compare as medidas com a Brief antes de pagar a diferença de preço."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual calcinha usar para treinar de legging? Entre as avulsas comparadas, comece pela Brief a laser da Insider se o preço pesa mais, ou pela SkinUp se a troca por tamanho é importante. Confira cobertura e medidas; não comparamos em uso qual marca menos sob a legging.",
+          "Calcinha sem costura é a mesma coisa que corte a laser? Não trate os nomes como sinônimos. Neste guia, corte a laser identifica o acabamento das bordas de linhas específicas; a expressão sem costura não basta para descrever todas as junções da peça. A NakedFeel, por exemplo, anuncia borda selada.",
+          "Calcinha de algodão serve para academia? Se você prefere algodão, a Cotton Up é a opção deste guia, com 95% de algodão e 5% de elastano. Não comparamos a secagem ou o conforto dela durante o treino com os das linhas de poliamida.",
+          "Dá para trocar se o tamanho não servir? A Toda Up informa até 30 dias para pedir troca de tamanho, com frete grátis na primeira troca e as condições de conservação descritas acima. A política da Insider restringe a troca de underwear a defeito comprovado; confira as medidas antes de comprar.",
+          "O cupom vale em calcinha? Nos testes, EMCASACOMCECILIA deu 15% na Brief a laser e na NakedFeel da Insider; MAUAD deu 10% na SkinUp biquíni da Toda Up. O MAUAD não vale nos produtos Black VIP. Confirme o desconto no resumo do pedido."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Brief a laser da Insider se quer uma das avulsas mais baratas da comparação, com forro de modal e grade de PP a XGG; confira as medidas antes.",
+        "Leve a SkinUp da Toda Up se quer escolher entre tons de pele e valoriza a troca por tamanho em até 30 dias, nas condições da loja."
+      ],
+      "skipIf": [
+        "Passe a compra avulsa se você precisa de seis peças e encontrou um kit com menor custo por unidade, nas cores e nos tamanhos que aceita. Compare também o total e o frete."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "insider",
+      "toda-up"
+    ],
+    "editorialNote": "Feito com as fichas das lojas e o teste dos códigos no carrinho, sem uso das peças. Podemos receber comissão pelos códigos e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "calcinha-insider-qual-escolher"
+      },
+      {
+        "slug": "skinup-ou-cotton-up-toda-up"
+      },
+      {
+        "slug": "cueca-para-academia"
+      },
+      {
+        "slug": "skinup-marca-na-roupa"
+      },
+      {
+        "slug": "tabela-de-medidas-insider"
       }
     ]
   }
