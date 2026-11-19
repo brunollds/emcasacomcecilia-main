@@ -171689,6 +171689,282 @@
       "verified_at": "2026-11-19T12:24:52.518Z",
       "verification_etag_or_digest": "276e8ca7998c7be62136111026274ab9284260865e9cfc278f0f8ecad810b475",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/impact-baunilha-200ml-oficial.webp",
+      "local_url": "/images/reviews/nutren/impact-baunilha-200ml-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38958,
+      "sha256": "544b55e9e1569a9fcc10dc448bcbdfd0f958f69e3c493f49ee94a7186240d31f",
+      "width": 457,
+      "height": 794,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "impact-baunilha-200ml-oficial.webp",
+      "storage_filename": "impact-baunilha-200ml-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/novasource-proline-ou-impact.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/novasource-proline-ou-impact.json",
+          "line": 102,
+          "column": 17,
+          "literal": "/images/reviews/nutren/impact-baunilha-200ml-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 270095,
+          "column": 19,
+          "literal": "/images/reviews/nutren/impact-baunilha-200ml-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/544b55e9e1569a9fcc10dc448bcbdfd0f958f69e3c493f49ee94a7186240d31f/impact-baunilha-200ml-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/544b55e9e1569a9fcc10dc448bcbdfd0f958f69e3c493f49ee94a7186240d31f/impact-baunilha-200ml-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T13:19:26.543Z",
+      "verification_etag_or_digest": "544b55e9e1569a9fcc10dc448bcbdfd0f958f69e3c493f49ee94a7186240d31f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nestonutri-1-3-anos-800g-oficial.webp",
+      "local_url": "/images/reviews/nutren/nestonutri-1-3-anos-800g-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73042,
+      "sha256": "481538d494442dab04df6cca20f671a926e11f626db1c0d70001b40c826fdff3",
+      "width": 792,
+      "height": 771,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nestonutri-1-3-anos-800g-oficial.webp",
+      "storage_filename": "nestonutri-1-3-anos-800g-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestonutri-ou-ninho-fases.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestonutri-ou-ninho-fases.json",
+          "line": 89,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nestonutri-1-3-anos-800g-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 269749,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nestonutri-1-3-anos-800g-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/481538d494442dab04df6cca20f671a926e11f626db1c0d70001b40c826fdff3/nestonutri-1-3-anos-800g-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/481538d494442dab04df6cca20f671a926e11f626db1c0d70001b40c826fdff3/nestonutri-1-3-anos-800g-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T13:19:26.544Z",
+      "verification_etag_or_digest": "481538d494442dab04df6cca20f671a926e11f626db1c0d70001b40c826fdff3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nestonutri-ou-ninho-fases-capa.webp",
+      "local_url": "/images/reviews/nutren/nestonutri-ou-ninho-fases-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 114086,
+      "sha256": "20af83996d221542e289ef9ac69e0665509c040792cb3fc2345898defc1db7db",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nestonutri-ou-ninho-fases-capa.webp",
+      "storage_filename": "nestonutri-ou-ninho-fases-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestonutri-ou-ninho-fases.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestonutri-ou-ninho-fases.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nestonutri-ou-ninho-fases-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 269682,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nestonutri-ou-ninho-fases-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/20af83996d221542e289ef9ac69e0665509c040792cb3fc2345898defc1db7db/nestonutri-ou-ninho-fases-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/20af83996d221542e289ef9ac69e0665509c040792cb3fc2345898defc1db7db/nestonutri-ou-ninho-fases-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T13:19:26.544Z",
+      "verification_etag_or_digest": "20af83996d221542e289ef9ac69e0665509c040792cb3fc2345898defc1db7db",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/ninho-fases-1-mais-800g-oficial.webp",
+      "local_url": "/images/reviews/nutren/ninho-fases-1-mais-800g-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76368,
+      "sha256": "942363db6f2992f415139b9f12ce2538726100c3a457c9521e93e7cc41a826ff",
+      "width": 670,
+      "height": 761,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "ninho-fases-1-mais-800g-oficial.webp",
+      "storage_filename": "ninho-fases-1-mais-800g-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestonutri-ou-ninho-fases.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestonutri-ou-ninho-fases.json",
+          "line": 201,
+          "column": 17,
+          "literal": "/images/reviews/nutren/ninho-fases-1-mais-800g-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 269861,
+          "column": 19,
+          "literal": "/images/reviews/nutren/ninho-fases-1-mais-800g-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/942363db6f2992f415139b9f12ce2538726100c3a457c9521e93e7cc41a826ff/ninho-fases-1-mais-800g-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/942363db6f2992f415139b9f12ce2538726100c3a457c9521e93e7cc41a826ff/ninho-fases-1-mais-800g-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T13:19:26.544Z",
+      "verification_etag_or_digest": "942363db6f2992f415139b9f12ce2538726100c3a457c9521e93e7cc41a826ff",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/novasource-proline-ou-cubitan-capa.webp",
+      "local_url": "/images/reviews/nutren/novasource-proline-ou-cubitan-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48900,
+      "sha256": "a542d55341690afcd5824f773a57396d5af79c0adb1183832f6cbd36a929496e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "novasource-proline-ou-cubitan-capa.webp",
+      "storage_filename": "novasource-proline-ou-cubitan-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/novasource-proline-ou-cubitan.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/novasource-proline-ou-cubitan.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/novasource-proline-ou-cubitan-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 270304,
+          "column": 15,
+          "literal": "/images/reviews/nutren/novasource-proline-ou-cubitan-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a542d55341690afcd5824f773a57396d5af79c0adb1183832f6cbd36a929496e/novasource-proline-ou-cubitan-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a542d55341690afcd5824f773a57396d5af79c0adb1183832f6cbd36a929496e/novasource-proline-ou-cubitan-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T13:19:26.544Z",
+      "verification_etag_or_digest": "a542d55341690afcd5824f773a57396d5af79c0adb1183832f6cbd36a929496e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/novasource-proline-ou-impact-capa.webp",
+      "local_url": "/images/reviews/nutren/novasource-proline-ou-impact-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71650,
+      "sha256": "6a3b2355a9b8f6a503df6e413e6ae20d334e88e4e699eddaac68a201fc707bcd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "novasource-proline-ou-impact-capa.webp",
+      "storage_filename": "novasource-proline-ou-impact-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/novasource-proline-ou-impact.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/novasource-proline-ou-impact.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/novasource-proline-ou-impact-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 270015,
+          "column": 15,
+          "literal": "/images/reviews/nutren/novasource-proline-ou-impact-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6a3b2355a9b8f6a503df6e413e6ae20d334e88e4e699eddaac68a201fc707bcd/novasource-proline-ou-impact-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a3b2355a9b8f6a503df6e413e6ae20d334e88e4e699eddaac68a201fc707bcd/novasource-proline-ou-impact-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T13:19:26.544Z",
+      "verification_etag_or_digest": "6a3b2355a9b8f6a503df6e413e6ae20d334e88e4e699eddaac68a201fc707bcd",
+      "verification_status": "verified"
     }
   ]
 }

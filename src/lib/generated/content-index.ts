@@ -269657,5 +269657,930 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1080,
+    "slug": "nestonutri-ou-ninho-fases",
+    "title": "Nestonutri ou Ninho Fases 1+: o que o rótulo de cada fórmula de 1 a 3 anos mostra e quanto custa",
+    "seoTitle": "Nestonutri ou Ninho Fases 1+: rótulo e preço lado a lado",
+    "type": "Comparativo de Fórmula Infantil",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Nestonutri ou Ninho Fases 1+? Veja as diferenças de fibras e açúcares nos rótulos das fórmulas de 1 a 3 anos e quanto custam 100 ml preparados de cada uma.",
+    "metaDescription": "CECI dá 10% na Nestlé Nutre. Nestonutri ou Ninho Fases 1+: o que cada rótulo declara, o preparo e quanto sai cada 100 ml da lata de 800 g.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nestonutri-ou-ninho-fases-capa.webp",
+    "imageAlt": "Capa com o logo da Nestlé Nutre, o título Nestonutri ou Ninho Fases 1+, o cupom CECI, as latas de 800 g das duas fórmulas e o aviso do Ministério da Saúde sobre o aleitamento materno em moldura",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Confira a lata de 800 g e as informações do rótulo na página da Nestlé Nutre.",
+      "label": "Ver o Nestonutri na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/formula-infantil-de-primeira-infancia-nestonutri-1-800g",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
+    "relatedArticles": [
+      {
+        "slug": "nanlac-supreme-ou-ninho-fases"
+      },
+      {
+        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Nestonutri e Ninho Fases 1+ são fórmulas de seguimento para 1 a 3 anos. O Nestonutri declara GOS e uma pequena quantidade de FOS. O Ninho declara FOS e inulina, tem menos açúcares adicionados e mais açúcares totais. Na leitura de preços, o Ninho custou menos por 100 ml preparados. Converse com o pediatra sobre a escolha."
+        ]
+      },
+      {
+        "heading": "Os dois produtos lado a lado",
+        "paragraphs": [
+          "As duas latas dizem “fórmula infantil de seguimento para crianças de primeira infância” e trazem o aviso de que o produto não deve ser usado para alimentar menores de 1 ano.",
+          "A página do Ninho Fases 1+ usa “composto lácteo” no título. Para identificar o produto desta comparação, seguimos a denominação da lata de 800 g. O [guia da linha Ninho](/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo) mostra as categorias da marca."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Nestonutri 1+",
+            "Ninho Fases 1+"
+          ],
+          "rows": [
+            [
+              "Denominação na lata",
+              "Fórmula infantil de seguimento para crianças de primeira infância",
+              "Fórmula infantil de seguimento para crianças de primeira infância"
+            ],
+            [
+              "Faixa de idade",
+              "1 a 3 anos",
+              "1 a 3 anos"
+            ],
+            [
+              "Latas na Nestlé Nutre",
+              "800 g",
+              "400 g, 800 g e 1,2 kg"
+            ]
+          ]
+        },
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
+        "image": "/images/reviews/nutren/nestonutri-1-3-anos-800g-oficial.webp",
+        "imageAlt": "Lata de 800 g do Nestonutri, fórmula infantil de seguimento para crianças de primeira infância, de 1 a 3 anos, com prebióticos",
+        "imageCaption": "Nestonutri 1+, lata de 800 g. Foto oficial da Nestlé Nutre.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Fibras e prebióticos por 100 g de pó",
+        "paragraphs": [
+          "O Nestonutri declara galacto-oligossacarídeos (GOS) e fruto-oligossacarídeos (FOS). O Ninho Fases 1+ declara FOS e inulina. No total de fibras, são 5,8 g no Ninho e 2,9 g no Nestonutri por 100 g de pó."
+        ],
+        "comparisonTable": {
+          "caption": "Valores por 100 g de pó publicados pela Nestlé Nutre. O traço indica item que a tabela do produto não lista.",
+          "headers": [
+            "Item",
+            "Nestonutri 1+",
+            "Ninho Fases 1+"
+          ],
+          "rows": [
+            [
+              "GOS",
+              "2,6 g",
+              "—"
+            ],
+            [
+              "FOS",
+              "0,3 g",
+              "4,1 g"
+            ],
+            [
+              "Inulina",
+              "—",
+              "1,7 g"
+            ],
+            [
+              "Fibras alimentares",
+              "2,9 g",
+              "5,8 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As tabelas das duas páginas consultadas também não listam DHA, ARA nem HMO."
+        ]
+      },
+      {
+        "heading": "Tabela nutricional por 100 ml preparados",
+        "paragraphs": [
+          "O Ninho Fases 1+ declara menos açúcares adicionados e mais açúcares totais. As duas medidas aparecem separadas na tabela."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Nestonutri 1+",
+            "Ninho Fases 1+"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "69 kcal",
+              "65 kcal"
+            ],
+            [
+              "Açúcares totais",
+              "5,4 g",
+              "5,8 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "0,9 g",
+              "0,6 g"
+            ],
+            [
+              "Proteínas",
+              "1,7 g",
+              "1,8 g"
+            ],
+            [
+              "Gorduras saturadas",
+              "1,2 g",
+              "0,8 g"
+            ],
+            [
+              "Sódio",
+              "21 mg",
+              "26 mg"
+            ],
+            [
+              "Cálcio",
+              "66 mg",
+              "72 mg"
+            ],
+            [
+              "Vitamina D",
+              "1,8 µg",
+              "1,3 µg"
+            ],
+            [
+              "Vitamina C",
+              "16 mg",
+              "11 mg"
+            ],
+            [
+              "Iodo",
+              "12 µg",
+              "19 µg"
+            ]
+          ],
+          "caption": "Valores declarados nas páginas da Nestlé Nutre para 100 ml da fórmula preparada."
+        },
+        "postParagraphs": [
+          "O Ninho também declara menos gordura saturada e mais cálcio e iodo. O Nestonutri declara mais vitaminas C e D."
+        ],
+        "image": "/images/reviews/nutren/ninho-fases-1-mais-800g-oficial.webp",
+        "imageAlt": "Lata de 800 g do Ninho Fases 1+, de 1 a 3 anos, com prebióticos e a denominação fórmula infantil de seguimento para crianças de primeira infância",
+        "imageCaption": "Ninho Fases 1+, lata de 800 g. Foto oficial da Nestlé Nutre.",
+        "imageFit": "contain",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+      },
+      {
+        "heading": "Quanto rende a lata de 800 g",
+        "paragraphs": [
+          "Para preparar a fórmula, siga o modo de preparo completo da lata, inclusive as instruções de higiene, temperatura da água e diluição. Use a colher-medida da própria embalagem."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Medida",
+            "Nestonutri 1+",
+            "Ninho Fases 1+"
+          ],
+          "rows": [
+            [
+              "Pó para 100 ml preparados",
+              "14,3 g",
+              "13,8 g"
+            ],
+            [
+              "Rendimento estimado da lata",
+              "Cerca de 56",
+              "Cerca de 58"
+            ],
+            [
+              "Depois de aberta",
+              "Até 30 dias",
+              "Até 30 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Dividimos os 800 g da lata pela quantidade de pó que cada rótulo usa como base para 100 ml preparados."
+        ]
+      },
+      {
+        "heading": "Ingredientes e alérgenos",
+        "paragraphs": [
+          "A Nestlé Nutre informa os alérgenos nas duas páginas. Consulte a lista completa de ingredientes no verso da lata."
+        ],
+        "bullets": [
+          "Nestonutri 1+: \"contém leite e derivados de soja\". Contém lactose. Não contém glúten.",
+          "Ninho Fases 1+: \"contém leite e derivados e derivados de soja\". Contém lactose. Não contém glúten."
+        ],
+        "postParagraphs": [
+          "Se houver restrição alimentar, leve a informação do rótulo ao pediatra."
+        ]
+      },
+      {
+        "heading": "Quanto custam 100 ml de cada fórmula",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
+        "paragraphs": [
+          "No teste de compra única na Nestlé Nutre, o CECI deu 10% nas duas latas de 800 g. Com o código, cada 100 ml preparados custaram R$ 0,77 com o Ninho Fases 1+ e R$ 1,02 com o Nestonutri."
+        ],
+        "comparisonTable": {
+          "caption": "Compra única na Nestlé Nutre em 19/11, sem frete. Antes do código, o Ninho em promoção custava R$ 49,46 e o Nestonutri, R$ 63,69. Calculamos os valores por 100 g e por 100 ml com o peso da lata e o rendimento de cada fórmula.",
+          "headers": [
+            "Lata de 800 g",
+            "Preço",
+            "Por 100 g de pó",
+            "Por 100 ml preparados"
+          ],
+          "rows": [
+            [
+              "Ninho Fases 1+, com o CECI",
+              "R$ 44,51",
+              "R$ 5,56",
+              "R$ 0,77"
+            ],
+            [
+              "Nestonutri 1+, com o CECI",
+              "R$ 57,32",
+              "R$ 7,17",
+              "R$ 1,02"
+            ],
+            [
+              "Ninho Fases 1+, preço de tabela",
+              "R$ 58,19",
+              "R$ 7,27",
+              "R$ 1,00"
+            ],
+            [
+              "Nestonutri 1+, preço de tabela",
+              "R$ 63,69",
+              "R$ 7,96",
+              "R$ 1,14"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja também lista o Ninho Fases 1+ em latas de 400 g e 1,2 kg. O teste foi com as duas latas de 800 g.",
+          "O código tem exceções para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Consulte as condições na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+        ],
+        "links": [
+          {
+            "label": "Ver o Ninho Fases 1+ 800 g na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/ninho-fases-1-800g",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Nestonutri 1+ 800 g na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/formula-infantil-de-primeira-infancia-nestonutri-1-800g",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "O que levar à conversa com o pediatra",
+        "paragraphs": [
+          "Se a dúvida é qual fórmula usar, leve o rótulo completo à consulta. Informe a idade da criança e qualquer restrição alimentar."
+        ],
+        "bullets": [
+          "Fibras e prebióticos. O Nestonutri declara GOS e FOS. O Ninho declara FOS, inulina e o dobro de fibras por 100 g de pó.",
+          "Açúcares. Compare a linha de açúcares adicionados e a de açúcares totais, que variam em direções diferentes.",
+          "Alérgenos. As duas fórmulas contêm leite, derivados de soja e lactose, segundo a Nestlé Nutre."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Ninho Fases 1+ é fórmula ou composto lácteo? Na lata de 800 g, consta fórmula infantil de seguimento para crianças de primeira infância, a mesma denominação do Nestonutri 1+.",
+          "Qual é a diferença entre Nestonutri 1+ e Ninho Fases 1+? O Nestonutri declara GOS e FOS. O Ninho declara FOS e inulina, mais fibras e menos açúcares adicionados por 100 g de pó.",
+          "Quanto rende a lata de 800 g? Pelas quantidades de pó da tabela de cada produto, cerca de 56 porções de 100 ml no Nestonutri e 58 no Ninho Fases 1+.",
+          "Nestonutri e Nestogeno é a mesma coisa? Não. São linhas diferentes da Nestlé para idades diferentes: o Nestogeno é fórmula infantil para bebês de até 12 meses, e o Nestonutri 1+ é para crianças de 1 a 3 anos. Para bebê com menos de 1 ano, quem orienta a alimentação é o pediatra.",
+          "O cupom CECI vale nas latas de 800 g? No teste de compra única na Nestlé Nutre, o CECI deu 10% no Nestonutri 1+ e no Ninho Fases 1+ de 800 g."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1081,
+    "slug": "novasource-proline-ou-impact",
+    "title": "Novasource Proline ou Impact: o que muda na tabela e no preço das duas fórmulas da Nestlé",
+    "seoTitle": "Novasource Proline ou Impact: tabela e preço lado a lado",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Novasource Proline ou Impact em caixinhas de 200 ml. Compare as quantidades de proteína, arginina e ômega-3 no rótulo e os preços avulsos e em combo com o CECI.",
+    "metaDescription": "CECI deu 10% no teste de compra única. Compare Proline e Impact de 200 ml por proteína, arginina e ômega-3, com preços da caixinha e dos combos.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/novasource-proline-ou-impact-capa.webp",
+    "imageAlt": "Capa com o logo da Nestlé Nutre, o título Novasource Proline ou Impact, o cupom CECI e as caixinhas de 200 ml das duas fórmulas sabor baunilha",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se você já tem a fórmula indicada pelo profissional, confira na Nestlé Nutre. Na compra única, aplique o cupom CECI no carrinho.",
+      "label": "Ver o Impact na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/impact-baunilha-tetra-slim-200ml-1",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "novasource-proline-para-que-serve"
+      },
+      {
+        "slug": "novasource-proline-ou-cubitan"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Em 200 ml, o Novasource Proline tem mais proteína e arginina. O Impact de baunilha tem mais ômega-3 e lista nucleotídeos nos ingredientes. Médico ou nutricionista orienta qual usar. Para quem já tem a indicação, o CECI deu 10% nos dois no teste de compra única da Nestlé Nutre."
+        ]
+      },
+      {
+        "heading": "Os dois produtos lado a lado",
+        "paragraphs": [
+          "As duas fórmulas da Nestlé vêm em caixinhas de 200 ml e são descritas pela marca como próprias para nutrição enteral e oral."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Novasource Proline 200 ml",
+            "Impact 200 ml"
+          ],
+          "rows": [
+            [
+              "Como a Nestlé classifica",
+              "Fórmula hiperproteica de alta densidade energética, com arginina e prolina",
+              "Fórmula normocalórica e hiperproteica, com arginina, nucleotídeos e alto teor de ômega-3"
+            ],
+            [
+              "Densidade arredondada na frente da caixinha",
+              "1,4 kcal por mL",
+              "1,1 kcal por mL"
+            ],
+            [
+              "Sabores",
+              "Baunilha, morango e cappuccino",
+              "Baunilha, pêssego, torta de limão e banana"
+            ],
+            [
+              "Lactose",
+              "0,1 g por 100 ml",
+              "\"Sem lactose\" (0 g)"
+            ],
+            [
+              "Sacarose",
+              "\"Sem adição de sacarose\"",
+              "\"Sem adição de sacarose\""
+            ],
+            [
+              "Glúten e alérgenos",
+              "Sem glúten. Confira os alérgenos na embalagem.",
+              "Sem glúten. Contém derivados de leite, soja e peixe."
+            ]
+          ]
+        },
+        "image": "/images/reviews/nutren/impact-baunilha-200ml-oficial.webp",
+        "imageAlt": "Caixinha de 200 ml do Impact sabor baunilha, fórmula modificada para nutrição enteral e oral com 1,1 kcal por mL, sem lactose e sem adição de sacarose",
+        "imageCaption": "Impact Baunilha, caixinha de 200 ml. Foto oficial da Nestlé Nutre.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Tabela nutricional por caixinha de 200 ml",
+        "paragraphs": [
+          "As tabelas da Nestlé trazem os números por 100 ml. Multiplicamos esses valores por dois para chegar aos da caixinha. A densidade na frente da embalagem é arredondada."
+        ],
+        "comparisonTable": {
+          "caption": "Valores da Nestlé Nutre por caixinha de 200 ml. No Proline, as faixas mostram a diferença entre os sabores; o Impact é o de baunilha.",
+          "headers": [
+            "Item",
+            "Novasource Proline",
+            "Impact"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "274 a 276 kcal",
+              "214 kcal"
+            ],
+            [
+              "Proteínas",
+              "20 g",
+              "13 g"
+            ],
+            [
+              "Carboidratos",
+              "32 g",
+              "28 g"
+            ],
+            [
+              "Açúcares totais / adicionados",
+              "3 g / 2,8 a 3 g",
+              "1 g / 0,8 g"
+            ],
+            [
+              "Gorduras totais",
+              "7,4 g",
+              "5,6 g"
+            ],
+            [
+              "Ômega-3",
+              "400 mg",
+              "600 mg"
+            ],
+            [
+              "Arginina",
+              "3.000 mg",
+              "800 mg"
+            ],
+            [
+              "Prolina",
+              "2.000 mg",
+              "Não declarada"
+            ],
+            [
+              "Nucleotídeos",
+              "Sem valor na tabela consultada",
+              "Na lista de ingredientes, sem valor na tabela da página"
+            ],
+            [
+              "Fibras",
+              "1 g",
+              "0 g"
+            ],
+            [
+              "Sódio",
+              "200 mg",
+              "120 mg"
+            ],
+            [
+              "Zinco",
+              "11 mg",
+              "2 mg"
+            ],
+            [
+              "Selênio",
+              "72 µg",
+              "24 µg"
+            ],
+            [
+              "Vitamina C",
+              "250 a 284 mg",
+              "50 mg"
+            ],
+            [
+              "Vitamina E",
+              "36 mg",
+              "5,6 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Em uma caixinha, o Proline tem 20 g de proteína e 3 g de arginina. O Impact de baunilha tem 13 g de proteína e 0,8 g de arginina. No ômega-3, são 600 mg no Impact e 400 mg no Proline. A Nestlé lista nucleotídeos nos ingredientes do Impact, sem informar a quantidade na tabela.",
+          "As duas tabelas declaram açúcares adicionados. A Nestlé também informa que as fórmulas são sem adição de sacarose, que é um tipo específico de açúcar. Na lista de ingredientes do Impact consta sucralose."
+        ]
+      },
+      {
+        "heading": "O que a Nestlé diz de cada uma",
+        "paragraphs": [
+          "Para o Novasource Proline, a página da Nestlé Nutre fala em “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”.",
+          "Para o Impact, a página diz que ele serve “para compor dietas de pessoas em situações específicas”, que ela lista, “conforme orientação de médico ou nutricionista”.",
+          "As duas caixinhas trazem a mesma advertência: usar somente sob orientação médica ou de nutricionista, com uso proibido por via parenteral. Qual delas usar, e quanto, quem define é o profissional que acompanha o caso."
+        ]
+      },
+      {
+        "heading": "Caixinha ou combo de baunilha",
+        "paragraphs": [
+          "Para a fórmula que você já recebeu como indicação, compare a avulsa com o combo do mesmo produto. Com o CECI, o Proline baixou de R$ 17,81 por caixinha avulsa para R$ 15,83 no combo de 10. O Impact baixou de R$ 18,28 para R$ 17,20 no combo de 15."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da Nestlé Nutre em 19/11, sem frete, para baunilha. As linhas com CECI são da compra única testada. Não testamos o código no combo de 30 do Impact nem na assinatura.",
+          "headers": [
+            "Compra",
+            "Preço",
+            "Por caixinha"
+          ],
+          "rows": [
+            [
+              "Proline, caixinha de baunilha, com o CECI",
+              "R$ 17,81",
+              "R$ 17,81"
+            ],
+            [
+              "Proline, combo de 10 de baunilha, com o CECI",
+              "R$ 158,33",
+              "R$ 15,83"
+            ],
+            [
+              "Impact, caixinha de baunilha, com o CECI",
+              "R$ 18,28",
+              "R$ 18,28"
+            ],
+            [
+              "Impact, combo de 15 de baunilha, com o CECI",
+              "R$ 258,01",
+              "R$ 17,20"
+            ],
+            [
+              "Proline, caixinha, preço de tabela",
+              "R$ 21,99",
+              "R$ 21,99"
+            ],
+            [
+              "Impact, caixinha, preço de tabela",
+              "R$ 23,89",
+              "R$ 23,89"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se você procura o Proline em pó ou em embalagem de 1 litro, veja o [guia do Novasource Proline](/reviews/novasource-proline-para-que-serve).",
+          "As condições e exceções do CECI estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+        ],
+        "links": [
+          {
+            "label": "Ver o combo de 15 Impact Baunilha na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/combo-impact-baunilha-com-15unidades",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o combo de 10 Novasource Proline Baunilha na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/combo-novasource-proline-bau-10-unis",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Como guardar depois de abrir",
+        "bullets": [
+          "A Nestlé informa que as duas fórmulas vêm prontas e podem ficar tampadas na geladeira por até 24 horas depois de abertas. Confira o rótulo da sua embalagem."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Posso trocar Novasource Proline por Impact? Converse com o médico ou nutricionista responsável. As fórmulas têm composições e indicações diferentes.",
+          "Qual tem mais proteína e arginina? Em 200 ml, o Proline declara 20 g de proteína e 3 g de arginina. O Impact de baunilha declara 13 g de proteína e 0,8 g de arginina.",
+          "Qual tem mais ômega-3? O Impact de baunilha declara 600 mg por caixinha de 200 ml. O Proline declara 400 mg.",
+          "Os dois têm lactose? O Impact de baunilha declara 0 g. A tabela do Proline declara 0,1 g por 100 ml.",
+          "O cupom CECI vale no Novasource Proline e no Impact? O CECI deu 10% nos testes de compra única na Nestlé Nutre, nas duas caixinhas de baunilha e nos combos de 10 do Proline e de 15 do Impact."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1082,
+    "slug": "novasource-proline-ou-cubitan",
+    "title": "Novasource Proline ou Cubitan: tabela nutricional e preço das duas fórmulas de 200 ml",
+    "seoTitle": "Novasource Proline ou Cubitan: tabela e preço lado a lado",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Novasource Proline ou Cubitan? Compare o que cada fórmula de 200 ml declara sobre proteína, arginina e lactose, e veja quanto o CECI mudou o preço do Proline.",
+    "metaDescription": "CECI deu 10% no Proline na Nestlé Nutre. Compare o Novasource Proline e o Cubitan de 200 ml pelo rótulo e veja os preços com e sem o código.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/novasource-proline-ou-cubitan-capa.webp",
+    "imageAlt": "Capa com o logo da Nestlé Nutre, o título Novasource Proline ou Cubitan, o cupom CECI e a caixinha de 200 ml do Novasource Proline sabor baunilha",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se o Novasource Proline é a fórmula indicada pelo profissional, confira na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver o Novasource Proline na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/novasource-proline-baunilha-tetra-slim-200ml-1",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "novasource-proline-para-que-serve"
+      },
+      {
+        "slug": "novasource-proline-ou-impact"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Novasource Proline e Cubitan declaram 20 g de proteína e 3 g de arginina por 200 ml. O Proline declara mais calorias e o Cubitan, mais cálcio e ferro. A escolha cabe ao médico ou nutricionista. Com o CECI, o Proline saiu mais barato na compra avulsa."
+        ]
+      },
+      {
+        "heading": "Os dois produtos lado a lado",
+        "paragraphs": [
+          "O Novasource Proline é da Nestlé, parceira do site, e o Cubitan é da Danone. Comparamos as informações das páginas das fabricantes."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Novasource Proline 200 ml",
+            "Cubitan 200 ml"
+          ],
+          "rows": [
+            [
+              "Fabricante",
+              "Nestlé",
+              "Danone"
+            ],
+            [
+              "Tipo de fórmula, segundo a marca",
+              "Hiperproteica, de alta densidade energética, com arginina e prolina",
+              "Hiperproteica, de alta densidade energética, com arginina"
+            ],
+            [
+              "Densidade calórica",
+              "1,37 a 1,38 kcal por mL",
+              "1,28 kcal por mL"
+            ],
+            [
+              "Sabores",
+              "Baunilha, morango e cappuccino",
+              "Baunilha, chocolate e morango"
+            ],
+            [
+              "Lactose",
+              "0,1 g por 100 ml",
+              "\"Contém lactose\""
+            ],
+            [
+              "Sacarose",
+              "\"Sem adição de sacarose\"",
+              "Na lista de ingredientes"
+            ],
+            [
+              "Glúten e alérgenos",
+              "Sem glúten. Confira os alérgenos na embalagem.",
+              "Sem glúten. Contém derivados de leite e soja."
+            ],
+            [
+              "Advertência",
+              "Orientação médica ou de nutricionista; uso parenteral proibido",
+              "Orientação médica ou de nutricionista; uso parenteral proibido"
+            ]
+          ]
+        },
+        "image": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
+        "imageAlt": "Caixinha de 200 ml do Novasource Proline sabor baunilha, fórmula modificada para nutrição enteral e oral com 1,4 kcal por mL",
+        "imageCaption": "Novasource Proline Baunilha, caixinha de 200 ml. Foto oficial da Nestlé Nutre.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Tabela nutricional por unidade de 200 ml",
+        "paragraphs": [
+          "Multiplicamos os valores publicados por 100 ml para mostrar o que cada unidade de 200 ml declara. Para o Cubitan, confira os carboidratos na embalagem."
+        ],
+        "comparisonTable": {
+          "caption": "Dados da Nestlé Nutre e da Danone. As faixas do Proline refletem diferenças entre sabores. O Cubitan é o de baunilha. O traço indica valor não confirmado na página consultada.",
+          "headers": [
+            "Item",
+            "Novasource Proline",
+            "Cubitan"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "274 a 276 kcal",
+              "256 kcal"
+            ],
+            [
+              "Proteínas",
+              "20 g",
+              "20 g"
+            ],
+            [
+              "Arginina",
+              "3.000 mg",
+              "3.000 mg"
+            ],
+            [
+              "Prolina",
+              "2.000 mg",
+              "Sem valor na tabela consultada"
+            ],
+            [
+              "Carboidratos",
+              "32 g",
+              "—"
+            ],
+            [
+              "Gorduras totais",
+              "7,4 g",
+              "7 g"
+            ],
+            [
+              "Ômega-3",
+              "400 mg",
+              "400 mg"
+            ],
+            [
+              "Fibras",
+              "1 g",
+              "0 g"
+            ],
+            [
+              "Sódio",
+              "200 mg",
+              "100 mg"
+            ],
+            [
+              "Zinco",
+              "11 mg",
+              "9 mg"
+            ],
+            [
+              "Selênio",
+              "72 µg",
+              "64 µg"
+            ],
+            [
+              "Vitamina C",
+              "250 a 284 mg",
+              "250 mg"
+            ],
+            [
+              "Vitamina E",
+              "36 mg",
+              "38 mg"
+            ],
+            [
+              "Vitamina A",
+              "200 µg",
+              "238 µg"
+            ],
+            [
+              "Cálcio",
+              "192 mg",
+              "450 mg"
+            ],
+            [
+              "Ferro",
+              "3,2 mg",
+              "6 mg"
+            ],
+            [
+              "Cobre",
+              "260 µg",
+              "1.360 µg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A quantidade de proteína, arginina e ômega-3 coincide. O Proline declara prolina e mais zinco e selênio. O Cubitan declara mais cálcio, ferro e cobre."
+        ]
+      },
+      {
+        "heading": "Lactose, sacarose e alérgicos",
+        "paragraphs": [
+          "A ficha do Cubitan Baunilha na Danone Nutricia declara lactose e derivados de leite e soja. Também diz que o produto não contém glúten e lista sacarose nos ingredientes.",
+          "A Nestlé informa que o Proline de baunilha é sem glúten e sem adição de sacarose. A tabela traz 0,1 g de lactose e 1,4 a 1,5 g de açúcares adicionados por 100 ml, conforme o sabor. Confira a lista de ingredientes e alérgenos na caixinha."
+        ]
+      },
+      {
+        "heading": "O que cada fabricante diz",
+        "paragraphs": [
+          "Para o Novasource Proline, a página da Nestlé Nutre fala em “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”. A loja da Danone diz que o Cubitan tem nutrientes “que auxiliam na cicatrização de lesões”, com consumo “conforme recomendação do profissional de saúde”.",
+          "As duas fórmulas pedem orientação médica ou de nutricionista e proíbem o uso por via parenteral. Converse com quem acompanha o caso antes de trocar a fórmula."
+        ]
+      },
+      {
+        "heading": "Preço avulso e preço na compra recorrente",
+        "paragraphs": [
+          "Com o CECI na Nestlé Nutre, a caixinha de baunilha do Proline saiu a R$ 17,81, R$ 1,97 abaixo dos R$ 19,78 do Cubitan na loja da Danone, antes do frete. No combo de 10, o Proline sai a R$ 15,83 a unidade. Sem o código, as duas caixinhas avulsas ficaram a um centavo de diferença no dia: R$ 19,79 e R$ 19,78."
+        ],
+        "comparisonTable": {
+          "caption": "Preços em 19/11, sem frete, na Nestlé Nutre e na loja oficial da Danone. O CECI foi testado na compra única do Proline de baunilha.",
+          "headers": [
+            "Compra",
+            "Preço",
+            "Por unidade"
+          ],
+          "rows": [
+            [
+              "Proline, combo de 10 de baunilha, com o CECI",
+              "R$ 158,33",
+              "R$ 15,83"
+            ],
+            [
+              "Proline, caixinha de baunilha, com o CECI",
+              "R$ 17,81",
+              "R$ 17,81"
+            ],
+            [
+              "Cubitan baunilha avulso, na Danone",
+              "R$ 19,78",
+              "R$ 19,78"
+            ],
+            [
+              "Proline baunilha avulso, sem o código",
+              "R$ 19,79",
+              "R$ 19,79"
+            ],
+            [
+              "Proline, caixinha, preço de tabela",
+              "R$ 21,99",
+              "R$ 21,99"
+            ],
+            [
+              "Cubitan, unidade, preço de tabela",
+              "R$ 27,09",
+              "R$ 27,09"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na compra recorrente, as lojas exibiam R$ 17,59 por Proline e R$ 17,80 por Cubitan. A Danone informa pedido mínimo de R$ 150 na compra programada. O CECI foi testado na compra única. Confira o total com frete na modalidade que pretende usar.",
+          "As condições e exceções do CECI estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+        ],
+        "links": [
+          {
+            "label": "Ver o combo de 10 Novasource Proline Baunilha na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/combo-novasource-proline-bau-10-unis",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Novasource Proline e Cubitan são a mesma fórmula? As duas declaram a mesma quantidade de proteína e arginina em 200 ml, mas diferem em calorias e em outros nutrientes. Consulte quem orientou o uso antes de trocar.",
+          "Qual tem mais calorias? O Proline declara de 274 a 276 kcal em 200 ml, conforme o sabor. O Cubitan declara 256 kcal.",
+          "Os dois têm lactose? Sim. O Cubitan declara que contém lactose. A tabela do Proline informa 0,1 g por 100 ml.",
+          "Os dois têm sacarose? A Danone lista sacarose nos ingredientes do Cubitan. O Proline declara “sem adição de sacarose” e informa açúcares na tabela nutricional.",
+          "O cupom CECI vale? Vale na Nestlé Nutre, onde está o Proline: deu 10% na caixinha e no combo de 10 de baunilha. As regras estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+        ]
+      }
+    ]
   }
 ];
