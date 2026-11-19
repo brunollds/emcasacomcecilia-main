@@ -306,8 +306,8 @@ const ga4Linhas = ga4.slice(ga4Cab + 1).filter((r) => r[0]);
 const ga4Baw = ga4Linhas.filter((r) => TEM_BAW.test(r[0]));
 const GA4_QUAL = 'GA4, propriedade Emcasacomcecilia, de 16/11 a 18/11/2026, com o 18/11 parcial (export às 21:55). Só conta quem aceitou '
   + 'os cookies. O export de 16 e 17/11 feito às 10:16 de 17/11 não tinha a BAW; o GA4 leva horas para processar, e o dia de '
-  + 'cada visita não foi separado. Pode incluir '
-  + 'visitas da equipe conferindo as páginas, o que o relatório não separa; com 1 usuário por página, não serve de demanda.';
+  + 'cada visita não foi separado. O Bruno disse em 18/11 que a visita não foi dele; o relatório não diz se foi outra '
+  + 'pessoa da operação ou um visitante de fora. Com 1 usuário por página, não serve de demanda.';
 nos({
   plataforma: 'ga4', relatorio: 'Páginas e telas: Caminho da página (16 a 18/11)', dimensao: 'pagina', chave: 'endereço contém "baw"',
   inicio: '2026-11-16', fim: '2026-11-18', metrica: 'linhas-com-baw', valor: ga4Baw.length,
@@ -371,8 +371,8 @@ const CLARITY_DEF = [
 const CLARITY_QUAL = 'Clarity, projeto Em Casa com Cecilia, filtro "Últimos 3 dias" lido em 18/11/2026 às 22:08 e a "URL visitada é '
   + 'exatamente" este endereço; o painel define o começo dos 3 dias, e 16/11 é o dia do primeiro deploy possível. Só conta visita de '
   + 'quem aceitou os cookies. Só duas páginas da BAW tiveram sessão, com 1 visitante em cada (Edge, computador, Brasil, vindo do '
-  + 'próprio site), e a sessão da /cupons/baw também passou pela /reviews/cupom-baw-primeira-compra. Pode ser a equipe '
-  + 'conferindo as páginas: não serve de demanda.';
+  + 'próprio site), e a sessão da /cupons/baw também passou pela home e pela /reviews/cupom-baw-primeira-compra. O Bruno '
+  + 'disse em 18/11 que a visita não foi dele; o painel não diz quem foi. Com 1 visitante por página, não serve de demanda.';
 for (const [caminho, arquivo] of Object.entries(CLARITY_PAGINAS)) {
   const linhas = read(`${BAW}/1-bruto/${CLARITY}/${arquivo}`).replace(/\r\n/g, '\n').split('\n');
   const url = `https://emcasacomcecilia.com${caminho}`;

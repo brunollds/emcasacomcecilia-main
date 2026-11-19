@@ -199,8 +199,8 @@ arquivo, para os registros de antes manterem o id. O texto de `nos-baw-0001` e `
 | Bing | Keywords, Pages, Grounding Queries e AI Pages, "7 D" | 12 a 16/11 | Nenhuma linha nas quatro listas |
 
 Leitura: é o primeiro dia de cada página no índice, e nada aqui mede demanda. O Google já mostrou duas das seis páginas
-para consultas de cupom e de reputação, na primeira página do resultado. No GA4, 1 usuário por página pode ser a
-própria equipe conferindo o deploy. A `/cupons/baw` ainda não teve impressão.
+para consultas de cupom e de reputação, na primeira página do resultado. No GA4, há 1 usuário por página; o Bruno
+disse que não foi ele (seção 12). A `/cupons/baw` ainda não teve impressão.
 
 Fora da coleta, com destino na rotina do site depois de 30/11: os dias 17 e 18/11 no Search Console e no Bing e a
 visão de 24 horas do Search Console. O Clarity entrou depois, na seção 12.
@@ -229,8 +229,14 @@ sessão, rolagem e tempo ativo).
 
 Bate com o GA4 da seção 11: as mesmas duas páginas, 1 visitante em cada. No Clarity, ele usou o Edge num computador,
 no Brasil, e chegou pelo próprio site; a sessão da `/cupons/baw` passou também pela home e pela
-`/reviews/cupom-baw-primeira-compra`. Pode ser a equipe conferindo as páginas. Nenhuma visita vinda de busca nos
-três dias, o que bate com as impressões sem clique do Search Console.
+`/reviews/cupom-baw-primeira-compra`. Nenhuma visita vinda de busca nos três dias, o que bate com as impressões sem
+clique do Search Console.
+
+**Quem visitou:** o Bruno disse em 18/11, depois desta leitura, que a visita não foi dele. Ficam duas hipóteses que o
+painel não separa: outra pessoa ou sessão da operação, ou um visitante de fora, que chegou pela home. Esta sessão
+conferiu as páginas só com `curl` (que não roda o GA4 nem o Clarity) e não abriu nenhuma página do site no navegador; as
+outras sessões não foram conferidas. Nenhuma gravação foi aberta para saber, e isso não muda a leitura: 1 visitante por
+página não é demanda.
 
 Nenhuma gravação nem perfil de visitante foi aberto. O gerador confere o período e o filtro de cada `.txt` antes de
 ler; rodado duas vezes, deu o mesmo SHA-256 nos três CSVs, e `comercial.csv` e `cobertura.csv` não mudaram.
