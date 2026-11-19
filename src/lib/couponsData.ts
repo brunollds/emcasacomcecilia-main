@@ -5093,7 +5093,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'O cupom não mexe no frete. Pela página de frete da loja, o frete é grátis em compras a partir de R$ 599 em produtos, e no nosso teste um pedido de R$ 799,50 saiu com frete grátis, já com o cupom aplicado. Abaixo disso, o valor e o prazo aparecem no checkout depois do CEP.',
+          'O cupom não mexe no frete. Pela página de frete da loja, o frete é grátis em compras a partir de R$ 599 em produtos, e no nosso teste um pedido de R$ 799,50 saiu com frete grátis, já com o cupom aplicado. Abaixo disso, o valor e o prazo aparecem no checkout depois do CEP, e em qualquer valor vale conferir a opção de frete grátis na cotação do checkout.',
       },
       {
         question: 'Como funciona a troca na Cola e Decora?',
