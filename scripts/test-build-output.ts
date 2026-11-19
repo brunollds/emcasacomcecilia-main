@@ -23,6 +23,7 @@ import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getArticleStoreBlock, getArticleStoreBlocks, type ArticleLimitedCode, type ArticleStoreBlock } from '../src/lib/articleStore';
+import { getPendingCodeSeasonNotice, storeTakesCodeSeasonNotice, type CodeSeasonNotice } from '../src/lib/codeSeasonNotice';
 import { getReviewStoreSlugs, getSingleStoreSlug, isMultiStoreReview } from '../src/lib/reviewStores';
 import { getCouponMetaTitle } from '../src/lib/offerMonth';
 import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
@@ -1017,6 +1018,45 @@ function elementsWithAttribute(html: string, attribute: string) {
   );
 }
 
+// O aviso de temporada (codeSeasonNotice.ts): um invólucro com data-nosnippet no fim de cada recorte que o leva (o do
+// topo e o do fim do artigo, o do topo da página de loja) e em mais lugar nenhum da página. O texto só sai no HTML
+// quando a janela já tinha começado na hora do build; antes disso, o invólucro vai vazio e o navegador mostra o aviso.
+function codeSeasonNoticeProblems(body: string, cutouts: readonly string[], notice: CodeSeasonNotice | undefined): string[] {
+  const problems: string[] = [];
+  const wrappersIn = (part: string) => elementsWithAttribute(part, 'data-code-season-notice');
+  const wrappers = wrappersIn(body);
+  const expected = notice ? cutouts.length : 0;
+  if (wrappers.length !== expected) problems.push(`${wrappers.length} avisos de temporada na página em vez de ${expected}`);
+  if (!notice) return problems;
+  cutouts.forEach((cutout, index) => {
+    const found = wrappersIn(cutout).length;
+    if (found !== 1) problems.push(`recorte ${index + 1}: ${found} avisos de temporada em vez de 1`);
+  });
+  for (const wrapper of wrappers) {
+    if (!/^<div[^>]*sdata-nosnippet=""/.test(wrapper)) problems.push('aviso de temporada sem data-nosnippet');
+    const text = textOf(wrapper);
+    if (text !== (notice.inHtml ? notice.text : '')) problems.push(`aviso de temporada com "${text}" (no HTML do build: ${notice.inHtml})`);
+  }
+  return problems;
+}
+{
+  const notice: CodeSeasonNotice = { startsAt: '2026-01-01T00:00:00-03:00', endsAt: '2026-01-08T00:00:00-03:00', text: 'Confira no carrinho.', inHtml: true };
+  const wrapper = (text: string, attrs = ' data-nosnippet=""') => `<div${attrs} data-code-season-notice="">${text && `<p><span>${text}</span></p>`}</div>`;
+  const cutout = (inner: string) => `<section data-recorte="top"><button>Copiar</button>${inner}</section>`;
+  const shown = cutout(wrapper(notice.text));
+  assert.deepEqual(codeSeasonNoticeProblems(shown, [shown], notice), [], 'aviso de temporada: a página certa barrada');
+  assert.deepEqual(codeSeasonNoticeProblems(cutout(''), [], undefined), [], 'aviso de temporada: a página sem aviso barrada');
+  const empty = cutout(wrapper(''));
+  assert.deepEqual(codeSeasonNoticeProblems(empty, [empty], { ...notice, inHtml: false }), [], 'aviso de temporada: o invólucro vazio antes do início barrado');
+  assert.notDeepEqual(codeSeasonNoticeProblems(shown, [], undefined), [], 'aviso de temporada: aviso em página que não o leva passou');
+  assert.notDeepEqual(codeSeasonNoticeProblems(cutout(''), [cutout('')], notice), [], 'aviso de temporada: recorte sem o aviso passou');
+  assert.notDeepEqual(codeSeasonNoticeProblems(shown + wrapper(notice.text), [shown], notice), [], 'aviso de temporada: aviso fora do recorte passou');
+  assert.notDeepEqual(codeSeasonNoticeProblems(empty, [empty], notice), [], 'aviso de temporada: invólucro vazio dentro da janela passou');
+  assert.notDeepEqual(codeSeasonNoticeProblems(shown, [shown], { ...notice, inHtml: false }), [], 'aviso de temporada: texto no HTML antes do início passou');
+  const bare = cutout(wrapper(notice.text, ''));
+  assert.notDeepEqual(codeSeasonNoticeProblems(bare, [bare], notice), [], 'aviso de temporada: aviso sem data-nosnippet passou');
+}
+
 // Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página. O código de
 // indicação da SHEIN tem rótulo e dicas próprios.
 const SIDEBAR_TEXT_KEYS = ['sectionsNav', 'tocTitle', 'copyHint', 'copiedHint', 'relatedTitle'] as const;
@@ -1857,6 +1897,7 @@ let multiStoreArticles = 0;
 let dockStoreLinks = 0;
 let dockCopyAndGoLinks = 0;
 let limitedCodeArticles = 0;
+let codeNoticeCutouts = 0;
 // Todos os códigos com prazo dos dados, vencidos ou não: o artigo sem a faixa não leva nenhum deles.
 const ALL_LIMITED_CODES = [
   ...new Set(getActiveCoupons().flatMap((store) => (store.offerMode === 'discount-code' ? (store.limitedCodes ?? []).map((item) => item.code) : []))),
@@ -2073,6 +2114,15 @@ for (const url of articleUrls) {
     `${pagePath}: faixa do código com prazo`
   );
   if (ownLimitedCodes.length > 0) limitedCodeArticles++;
+  // O aviso de temporada vai no recorte do topo e no do fim; a lateral, o dock e as linhas do artigo de várias lojas não o levam.
+  const noticeCutouts = storeBlock?.codeNotice
+    ? [...body.matchAll(/<section[^>]*sdata-recorte="(?:top|end)"/g)].map((match) => elementAt(body, match.index))
+    : [];
+  assert.deepEqual(codeSeasonNoticeProblems(body, noticeCutouts, storeBlock?.codeNotice), [], `${pagePath}: aviso de temporada`);
+  if (storeBlock?.codeNotice) {
+    assert.equal(noticeCutouts.length, 2, `${pagePath}: ${noticeCutouts.length} recortes para o aviso de temporada em vez de 2 (topo e fim)`);
+    codeNoticeCutouts += noticeCutouts.length;
+  }
   const codeBlocks = storeBlock ? [storeBlock] : multiBlocks;
   const citesStoreCode = codeBlocks.some(({ code }) => code && bodyCitesCode(review, code));
   assert.deepEqual(inlineCopyProblems(body, locale, codeBlocks, (code) => bodyCitesCode(review, code)), [], `${pagePath}: código copiável no texto`);
@@ -3115,6 +3165,16 @@ for (const { pagePath, store } of couponStorePages) {
   const limited =
     pagePath.startsWith('/cupons/') && copyable ? getPendingLimitedCodes(store, builtAt(pagePath).getTime()).filter((item) => item.inHtml) : [];
   assert.deepEqual(limitedCodeProblems(body, limited), [], `${pagePath}: código com prazo`);
+  // O aviso de temporada: só em português e só em loja de cupom (fora a de link, a SHEIN e a YesStyle).
+  const codeNotice =
+    pagePath.startsWith('/cupons/') && storeTakesCodeSeasonNotice(store) ? getPendingCodeSeasonNotice(builtAt(pagePath).getTime()) : undefined;
+  const topCutoutAt = body.indexOf('<section id="cupom"');
+  assert.deepEqual(
+    codeSeasonNoticeProblems(body, codeNotice && topCutoutAt >= 0 ? [elementAt(body, topCutoutAt)] : [], codeNotice),
+    [],
+    `${pagePath}: aviso de temporada`
+  );
+  if (codeNotice) codeNoticeCutouts++;
   const expected = {
     total: Number(copyable) + Number(Boolean(store.referral)) + others.filter(hasCopyCode).length + limited.length,
     withScissors: Number(copyable),
@@ -4838,5 +4898,5 @@ assert.equal(hreflangOf(ptFaqHead, 'pt-BR'), `${SITE_URL}/faqs`, '/faqs: hreflan
 assert.equal(hreflangOf(ptFaqHead, 'x-default'), `${SITE_URL}/en/faq`, '/faqs: x-default');
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos (${multiStoreArticles} de várias lojas, com o "Ver códigos" e as linhas na gaveta, e ${dockStoreLinks} sem código, com o link da loja no dock, e ${dockCopyAndGoLinks} com o "copiar e ir" nele), o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos (${multiStoreArticles} de várias lojas, com o "Ver códigos" e as linhas na gaveta, e ${dockStoreLinks} sem código, com o link da loja no dock, e ${dockCopyAndGoLinks} com o "copiar e ir" nele), o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o aviso de temporada em ${codeNoticeCutouts} recortes, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

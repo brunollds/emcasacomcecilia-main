@@ -4,7 +4,7 @@ import type { Coupon } from '@/lib/couponsData';
 // avisar (Insider em 17/11/2026 e Skelt em 18/11/2026 deram 5% no carrinho, com 10% combinados). Uma janela só para o
 // site inteiro, com -03:00 como as campanhas: o aviso some no navegador quando ela vence, sem deploy.
 export const CODE_SEASON_NOTICE = {
-  startsAt: '2026-11-19T00:00:00-03:00',
+  startsAt: '2026-11-18T00:00:00-03:00',
   endsAt: '2026-12-01T00:00:00-03:00',
   text: 'Na Black Friday, lojas podem alterar a porcentagem do desconto sem aviso. Confira no carrinho.',
 };
