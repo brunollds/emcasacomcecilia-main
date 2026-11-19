@@ -275,3 +275,10 @@ As perguntas acima foram respondidas em 20/10/2026: o Bruno disse "Pode seguir" 
 10. Whey principal: Black Skull 80% HD refil 900 g contra o Whey Protein Concentrado 900 g da Dux (os dois só WPC). O 100% HD 1,8 kg entra como segunda linha, contra o Concentrado 1,8 kg da Dux (mesmo tamanho). O texto avisa que o 100% HD leva WPI e peptídeos.
 11. O isolado 900 g da Dux entra como linha curta, com a conta da regra 3 (a tabela já foi lida).
 12. Creatina: a Creator 300 g contra a monohidratada 300 g da Dux. O Creapure da Dux entra como linha, com o preço por 100 g e "selo declarado pela Dux".
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/black-skull/black-skull-ou-dux-capa-v2.webp` (`imageFit: contain`), SHA-256 `b12a7234401044d04d885b504e02d971a999189fd492bbeefcc150648c246e03`.
+- **Alt:** Pote de 1,8 kg do Whey 100% HD da Black Skull, sabor Cookies & Cream, em imagem de catálogo sobre fundo branco, com o logo Black Skull, a pergunta “Black Skull ou Dux?” e o CECILIA10 identificado como código da Black Skull.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/51/fontes-selecionadas.json`.
+- **Lote 51 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/51/revisao-terra/ADENDO-BUSCA-WEB.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/51/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/black-skull/black-skull-ou-dux-capa-discover.webp`) fica no CDN, sem uso como capa.

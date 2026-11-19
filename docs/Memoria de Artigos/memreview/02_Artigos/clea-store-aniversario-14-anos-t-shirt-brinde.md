@@ -290,3 +290,17 @@ A faixa do site traz mais três regras da loja, além do brinde. Elas valem no m
 ## Atualização de 20/10/2026
 
 A promoção seguiu ativa depois de 18/10, sem outra data de fim. O Bruno estipulou o fim em 31/10/2026: título, SEO, resposta rápida, contras e FAQ passaram de "18/10/2026, às 23h59" para "31/10/2026". Depois de 31/10, o artigo vira promoção encerrada apontando para o cupom.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/clea-store-aniversario-14-anos-t-shirt-brinde-capa-v2.webp` (`imageFit: contain`), SHA-256 `ed9a5997175e9f2b44152201fd1334491722e748914174e763cac8fa2c1aa815`.
+- **Alt:** Presente marrom com laço azul em foto de banco de imagens, usado como ilustração, com o logo Cléa Store, a chamada “14 anos Cleá Store: O Presente é seu” e o cupom CSEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/51/fontes-selecionadas.json`. A chamada reproduz a redação pedida pelo Bruno (“14 anos Cleá Store: O Presente é seu”, grafia da chamada como pedida; o logo segue Cléa Store). O parecer de Terra (`lotes/51/revisao-terra/ADENDO-CLEA-TITULO.json`) registra que a arte pode sugerir um brinde ainda disponível, embora a campanha tenha terminado; o artigo segue como referência histórica do encerramento.
+- **Lote 51 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/51/revisao-terra/ADENDO-CLEA-TITULO.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/51/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp`) fica no CDN, sem uso como capa.
+
+## Capa v3 (19/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/clea-store-aniversario-14-anos-t-shirt-brinde-capa-v3.webp` (`imageFit: contain`), SHA-256 `0d1caebb6d36f561203dcf23efc1c15d217dd572878ab2f63adaaff90b172185`.
+- **Alt:** Presente marrom com laço azul em foto de banco de imagens, usado como ilustração, com o logo Cléa Store, a chamada “14 anos Cléa Store: O Presente é seu” e o cupom CSEMCASACOMCECILIA.
+- **Origem:** a mesma arte da v4 do lote 51 (foto, recorte, logo, código e título pedidos pelo Bruno), com a grafia da chamada corrigida de “Cleá” para “Cléa” a pedido do Bruno em 19/11/2026. Renderizada pelo `renderizar.cjs` do lote 51 numa cópia do lote, que antes reproduziu a v4 byte a byte (SHA-256 `ed9a5997…`); só as linhas do título e o alt mudaram. O parecer de Terra (`lotes/51/revisao-terra/ADENDO-CLEA-TITULO.json`) segue valendo: a arte pode sugerir um brinde ainda disponível, embora a campanha tenha terminado; o Bruno manteve o título.
+- **Substitui** a v2 de 19/11 (`-capa-v2.webp`, grafia “Cleá”), que chegou a subir ao CDN e fica sem uso; nunca foi ao ar como capa.

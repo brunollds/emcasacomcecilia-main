@@ -59,3 +59,10 @@ Texto revisado pelo Bruno e pelo Farol / ChatGPT (`docs/auditoria-copy-artigos/b
 
 O Bruno apontou as barras da Black Skull (Whey Bar Gourmet Zero) e da Probiótica (Whey Bar). São barras, não wafers, e
 vão para uma pauta nova de categoria, "Barra de proteína: qual escolher", que o Bruno pediu à sessão do Job 1 em 14/11.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/wafer/wafer-proteico-qual-escolher-capa-v2.webp` (`imageFit: contain`), SHA-256 `73a6fab001dc53168a68c52d9edc48ef49d78974bf4526b4dd31013c50f0f793`.
+- **Alt:** Embalagem da Doctor Wafer Doce de Leite de 25 g da Dr. Peanut, em foto do acervo editorial declarada como oficial, com logo da marca e a chamada “Wafer proteico: qual escolher?”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/50/fontes-selecionadas.json`.
+- **Lote 50 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/50/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/50/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/wafer/wafer-proteico-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

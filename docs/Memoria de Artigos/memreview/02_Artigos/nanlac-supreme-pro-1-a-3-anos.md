@@ -419,3 +419,10 @@ Preço e desconto mudam. O valor que vale é o da loja no momento da compra.
 ### Nota de transparência
 
 Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras feitas na Nestlé Nutre com o código CECI. Fontes: página do produto na Nestlé Nutre (preço, tabela, preparo e ingredientes), Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa e comunicado de recolhimento da Nestlé. Não testamos o produto. Preço, desconto e status do recolhimento mudam: confira antes de comprar.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nanlac/nanlac-supreme-pro-1-a-3-anos-capa-v2.webp` (`imageFit: contain`), SHA-256 `8140d1861527e44bd3a8b454a43567d89222ee036a008745c38e131e213c956b`.
+- **Alt:** Lata Nanlac Supreme Pro de 800 g, com indicação de 1 a 3 anos, em imagem de catálogo publicada pelo São Vicente Supermercados, com logo Nestlé Nutre, a chamada “Nanlac Supreme Pro: como preparar?” e CECI na caixa “Na Nestlé Nutre:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/53/fontes-selecionadas.json`. Reuso de foto autorizado pelo Bruno em 15/11/2026 (`lotes/53/AUTORIZACAO-REUSO-6-20261115.md`).
+- **Lote 53 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/53/revisao-terra/ADENDO-REUSO-6.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/53/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp`) fica no CDN, sem uso como capa.

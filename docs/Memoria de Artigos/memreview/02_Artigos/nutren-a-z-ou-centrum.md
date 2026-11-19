@@ -329,3 +329,10 @@ Dúvida sobre dose, uso com outros remédios ou gravidez e amamentação (a Drog
 ### Nota de transparência
 
 Este é um guia de leitura de rótulo e de preço. Fontes: rótulo do Nutren A-Z Multi e página da Nestlé Nutre, página do Centrum na Drogasil, bula da GSK de 2021 e página da Extrafarma (preço), lidos em 17/10/2026. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão por compras com o CECI.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-a-z-ou-centrum-capa-v2.webp` (`imageFit: contain`), SHA-256 `09e989fc8ec83c9878970b30b3b5b1fa08f4c9e4fada2d1c2a60fd0a50fef6d5`.
+- **Alt:** Frasco físico de 60 cápsulas do Nutren A-Z Multi segurado por uma mão diante de um monitor, em fotografia própria de Bruno, com o logo Nestlé Nutre, a pergunta “Nutren A-Z ou Centrum?” e o código CECI identificado para a Nestlé Nutre.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/53/fontes-selecionadas.json`. Reuso de foto autorizado pelo Bruno em 15/11/2026 (`lotes/53/AUTORIZACAO-REUSO-6-20261115.md`).
+- **Lote 53 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/53/revisao-terra/ADENDO-REUSO-6.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/53/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/nutren-a-z-ou-centrum-capa.webp`) fica no CDN, sem uso como capa.

@@ -75,3 +75,10 @@ A Nutren Creatina é uma opção de creatina monohidratada com porção declarad
 2. Só depois da sincronização, regenerar `content/reviews/_manifest.json` e `src/lib/generated/content-index.ts` pelo fluxo oficial.
 3. Validadores focados, typecheck e build de 310 páginas passaram em 28/08/2026; repetir após sincronizar com `origin/main`.
 - 18/10/2026: preço da Growth atualizado para R$ 44,90 no Pix/boleto e R$ 49,88 no cartão (R$ 17,96 e R$ 19,95 por 100 g); Growth fica um centavo abaixo da Nutren com CECI de 10% e o texto de compra e a FAQ foram ajustados; a linha da Growth na tabela de fontes ainda cita o preço de 27/08.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-creatina-e-boa-comparativo-growth-ftw-cimed-capa-v2.webp` (`imageFit: contain`), SHA-256 `8b00d0aba60118326c5bd2c11d2457b9cdce6c40af07adf9ade02501fadd4591`.
+- **Alt:** Frente do sachê Nutren Creatina de 300 g, em imagem do acervo editorial declarada como oficial, com logo Nestlé Nutre, “Creatina Nutren: é boa?” e cupom CECI.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/49/fontes-selecionadas.json`.
+- **Lote 49 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/49/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/49/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/nutren-creatina-e-boa-capa-discover-v2.webp`) fica no CDN, sem uso como capa.

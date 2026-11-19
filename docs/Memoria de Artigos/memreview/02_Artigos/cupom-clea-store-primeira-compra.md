@@ -209,3 +209,10 @@ O texto está em `content/reviews/cupom-clea-store-primeira-compra.json` (id 929
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado: a soma com promoção apoiada no kit testado (resposta rápida, subtítulo, snippet, capítulo da conta e FAQ); cashback como indicação no resumo, não como crédito recebido.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `3c596068da2706f5256e017bf5e0031ceafcce3f0397c51f33736fd2acfdfe33`.
+- **Alt:** Três camisetas da Cléa Store, off-white, marrom e preta, em imagem oficial do kit, com o logo da marca, a chamada “Primeira compra na Cléa Store?” e o cupom CSEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/50/fontes-selecionadas.json`.
+- **Lote 50 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/50/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/50/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/clea-store/cupom-clea-store-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

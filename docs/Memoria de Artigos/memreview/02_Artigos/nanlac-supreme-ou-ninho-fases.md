@@ -339,3 +339,10 @@ Antes de trocar de fórmula, converse com o pediatra ou nutricionista.
 ### Nota de transparência
 
 Este é um guia de leitura de rótulo e de preço, sem teste de uso. Fontes: rótulo do Nanlac Supreme Pro e páginas da Nestlé Nutre, rótulo da lata nova do Ninho Fases 1+ na galeria da Nestlé Nutre e páginas do Ninho da Nestlé, lidos em 17/10/2026. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão por compras com o CECI.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nanlac/nanlac-supreme-ou-ninho-fases-capa-v2.webp` (`imageFit: contain`), SHA-256 `d654bd8f440558cbf198add8c30bc1ce70ee38ff447c8e700dc809f49cfff4d7`.
+- **Alt:** Lata Ninho Fases 1+ de 800 g, com tampa prata e indicação de 1 a 3 anos, em imagem de catálogo publicada pela Drogaria Cristal, com logo Nestlé Nutre, a chamada “Supreme Pro ou Ninho Fases 1+?” para o comparativo com Nanlac Supreme Pro e CECI na caixa “Na Nestlé Nutre:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/53/fontes-selecionadas.json`. Reuso de foto autorizado pelo Bruno em 15/11/2026 (`lotes/53/AUTORIZACAO-REUSO-6-20261115.md`).
+- **Lote 53 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/53/revisao-terra/ADENDO-REUSO-6.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/53/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nanlac/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp`) fica no CDN, sem uso como capa.

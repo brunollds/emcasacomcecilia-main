@@ -200,3 +200,10 @@ seguida.
 | Cluster | 10 | 6 | Par da HA1 e porta para as receitas e os guias de air fryer do estoque |
 | Viabilidade | 10 | 6 | Faltam etiqueta, fotos e o galeto; a decisão do vídeo |
 | **Total** | 100 | **77** | |
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/haier/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes-capa-v2.webp` (`imageFit: contain`), SHA-256 `2840e4b161561b5627b3dee05f3894c922c4395c4d8626d642d5ef2d2e4257cc`.
+- **Alt:** Cecília ao lado da air fryer forno Haier de 12 litros, com espetinhos atrás da janela frontal, em quadro do vídeo próprio da cozinha, com o logo Haier e a chamada “Air fryer com espeto giratório”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/54/fontes-selecionadas.json`.
+- **Lote 54 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/54/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/54/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/haier/air-fryer-haier-12l-espeto-giratorio-capa.webp`) fica no CDN, sem uso como capa.

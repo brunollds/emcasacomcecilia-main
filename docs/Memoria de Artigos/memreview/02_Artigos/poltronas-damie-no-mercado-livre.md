@@ -150,3 +150,10 @@ O guia "Florença, Levita e Moon" nunca foi ao ar. Motivo: a Florença é a Recl
 - Pendente: a capa antiga `poltronas-damie-florenca-levita-moon-capa.webp` segue no repositório e no CDN, sem uso.
 
 - No ar desde 14/11/2026, release `197be4fe` (#971; deploy 56b9d755, build 01a1db29). `deploy:finish` ok (2 workers); smoke dos quatro artigos contra o JSON ok (títulos, capítulos, primeira frase de cada capítulo, og:image, sitemap e llms.txt); `covers:check` 4/4; IndexNow com 7 URLs; captura 43623199592 à espera da aprovação do Bruno.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/damie/poltronas-damie-no-mercado-livre-capa-v2.webp` (`imageFit: contain`), SHA-256 `7cdf42b22e8dd79159a0a428109ee197540a347cb9d8ba3f47ae9ec42dfdf003`.
+- **Alt:** Poltrona DAMIE Imperial em linho cinza-claro, reclinada com apoio dos pés aberto e base giratória visível, com o logo DAMIE e a chamada “Poltronas no Mercado Livre”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/49/fontes-selecionadas.json`.
+- **Lote 49 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/49/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/49/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/damie/poltronas-damie-no-mercado-livre-capa.webp`) fica no CDN, sem uso como capa.

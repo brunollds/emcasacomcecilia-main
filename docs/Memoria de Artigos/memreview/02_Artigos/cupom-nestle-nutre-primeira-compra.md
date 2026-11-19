@@ -214,3 +214,10 @@ O texto está em `content/reviews/cupom-nestle-nutre-primeira-compra.json` (id 9
 ## Revisão externa (Farol, 12/11/2026)
 
 Aplicado depois de conferir os fatos: Alfamino, Alfaré e fórmulas de 0 a 12 meses nomeados nos metadados e no FAQ; "Compra única" e a assinatura explícitas. Não aplicado: tirar o print do código de outro carrinho. O Bruno decidiu em 12/11 que o print da página de cupom entra em todo artigo da série.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `b7220194d4212976816e5dedc058a910ca9962ad05306e216b67570cab53025d`.
+- **Alt:** Lata de Nutren Control Diet Baunilha 380 g em imagem de catálogo sobre fundo branco, com o logo Nestlé Nutre, a pergunta “Primeira compra na Nestlé Nutre?” e o cupom CECI.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/52/fontes-selecionadas.json`.
+- **Lote 52 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/52/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/52/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

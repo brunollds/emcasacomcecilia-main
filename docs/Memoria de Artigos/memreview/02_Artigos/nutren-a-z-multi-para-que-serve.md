@@ -359,3 +359,10 @@ O Nutren A-Z Multi 60 cápsulas está na loja oficial da Nestlé Nutre. O CECI d
 ### Nota de transparência
 
 Este é um guia de leitura de rótulo, sem teste próprio. Fontes: o frasco do Nutren A-Z Multi 60 cápsulas (fabricado pela Sorocaps Indústria Farmacêutica Ltda. para a Nestlé Brasil) e a página oficial da Nestlé Nutre. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão pelas compras feitas com o CECI. Preço e condições mudam: confira no carrinho.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-a-z-multi-para-que-serve-capa-v2.webp` (`imageFit: contain`), SHA-256 `0e429a44c58770fe18bf1448f12174046ad190aa3194ce11ff52814207d00487`.
+- **Alt:** Frasco físico de 60 cápsulas do Nutren A-Z Multi segurado por uma mão diante de um monitor, em fotografia própria de Bruno, com o logo Nestlé Nutre, a pergunta “Nutren A-Z Multi: para que serve?” e o código CECI identificado para a Nestlé Nutre.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/53/fontes-selecionadas.json`. Reuso de foto autorizado pelo Bruno em 15/11/2026 (`lotes/53/AUTORIZACAO-REUSO-6-20261115.md`).
+- **Lote 53 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/53/revisao-terra/ADENDO-REUSO-6.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/53/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/nutren-a-z-multi-capa.webp`) fica no CDN, sem uso como capa.

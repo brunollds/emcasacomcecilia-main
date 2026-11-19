@@ -217,3 +217,10 @@ Parecer em `docs/auditoria-copy-artigos/g9-bagaggio-sestini-20261115-farol/REVIS
 ## No ar (15/11/2026)
 
 Release `5bdf87b3` (deploy `0a5eb32b`, build `01a1e190`), com o #1014 e o #1015. Smoke do artigo ok (título, resposta rápida, tabelas, garantia, quadro, link de afiliado, capa pelo CDN, nenhum link para a Sestini), presente em /reviews, em /reviews/loja/bagaggio e no sitemap. IndexNow enviado; captura `43775977371`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/bagaggio-ou-sestini-qual-mala-compensa-capa-v2.webp` (`imageFit: contain`), SHA-256 `7e7cc0a415beb40200ddd703625b62054b616a0ca7923263df75543a16552de9`.
+- **Alt:** Modelo da loja ao lado da mala média Route azul de 23 kg da Bagaggio, em imagem oficial da marca, com logo Bagaggio, a pergunta “Bagaggio ou Sestini?” e CECILIA10 na caixa “Na Bagaggio:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/54/fontes-selecionadas.json`.
+- **Lote 54 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/54/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/54/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bagaggio/bagaggio-ou-sestini-qual-mala-compensa-capa.webp`) fica no CDN, sem uso como capa.

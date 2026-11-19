@@ -53,3 +53,10 @@ Capa e fotos aprovadas pelo Bruno em 14/11.
   180 mg (Cebola e Salsa) a 310 mg (Presunto). A foto oficial do sabor Queijo mostra o selo frontal de alto em sódio.
 - O combo da Belive sai pelo mesmo valor por pacote que o avulso, na referência e na oferta. A caixa do parmesão só fica
   abaixo do avulso na oferta (R$ 11,47 contra R$ 11,69 com o código).
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa-v2.webp` (`imageFit: contain`), SHA-256 `e35557d754842e82152de51ea1ca9be37b3d84d91517dc970849698027b7e072`.
+- **Alt:** Dois anéis do snack proteico Cebola e Salsa segurados por dedos, com o pacote Belive ao fundo, em imagem oficial da marca, com logo e a chamada “Salgadinho proteico: qual escolher?”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/50/fontes-selecionadas.json`.
+- **Lote 50 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/50/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/50/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/salgadinho/salgadinho-proteico-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

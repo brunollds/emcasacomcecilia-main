@@ -223,3 +223,10 @@ Nutridrink é da Danone, que não é parceira do site, e não temos código para
 ### Fontes e nota de transparência
 
 Fontes: página do Nutren Senior Baunilha 740 g na Nestlé Nutre e página do Nutridrink Protein Senior 750 g no Mundo Danone (tabela, ingredientes e alergênicos), lidas em 17/10/2026. O Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos os produtos.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/nutren-senior-ou-nutridrink-capa-v2.webp` (`imageFit: contain`), SHA-256 `5c2f65b63914a3bcae96c60a64c61d53b0baa090561c089faf51e6cceb5353bc`.
+- **Alt:** Lata Nutren Senior Baunilha de 740 g em imagem de catálogo publicada pela Drogal, com logo Nestlé Nutre, a pergunta “Nutren Senior ou Nutridrink?” e CECI na caixa “Na Nestlé Nutre:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/51/fontes-selecionadas.json`.
+- **Lote 51 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/51/revisao-terra/ADENDO-BUSCA-WEB.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/51/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/nutren-senior-ou-nutridrink-capa.webp`) fica no CDN, sem uso como capa.

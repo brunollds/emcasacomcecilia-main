@@ -451,3 +451,10 @@ Para entender a diferença entre esta fórmula e as linhas de consumo da marca, 
 ### Fontes e nota de transparência
 
 Fontes: rótulo e página do Isosource 1.5 Sem Sabor na Nestlé Nutre, lidos em 17/10/2026. Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos o produto.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nutren/isosource-1-5-para-que-serve-capa-v2.webp` (`imageFit: contain`), SHA-256 `061514c5a39e2879346239d556ff51f7c44664c5c66a6e94bed7a8c15fe44a64`.
+- **Alt:** Caixa Isosource 1.5 Sem Sabor de 1 litro vista de frente, em imagem do acervo editorial da própria capa do guia, com o logo Nestlé Nutre, a pergunta “Isosource 1.5: para que serve?” e CECI na caixa “Na Nestlé Nutre:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/53/fontes-selecionadas.json`. Usa a foto frontal da capa anterior do guia; a do comparativo com Trophic (lote 51) entra no mesmo PR e deploy, e a frontal fica só neste artigo.
+- **Lote 53 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/53/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/53/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nutren/isosource-1-5-sem-sabor-capa.webp`) fica no CDN, sem uso como capa.

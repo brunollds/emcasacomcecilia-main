@@ -331,3 +331,10 @@ Preço e desconto mudam. O valor que vale é o da loja no momento da compra.
 ### Nota de transparência
 
 Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras na Nestlé Nutre com o código CECI. Fonte: páginas de produto da Nestlé Nutre e rótulo da lata do Comfor na galeria da loja, lidos em 17/10/2026. Não recebemos nem usamos os produtos. Preço e desconto mudam: confira antes de comprar.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa-v2.webp` (`imageFit: contain`), SHA-256 `1d3e179aba2457b79a107b070477e9b5c13ac4205b4d2824b98687a7d7648ecb`.
+- **Alt:** Lata Nanlac Comfor HMO de 800 g, de 1 a 3 anos, em imagem de catálogo publicada pela Drogal, com logo Nestlé Nutre, “Nanlac Supreme Pro ou Comfor?” e CECI na caixa “Na Nestlé Nutre:”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/52/fontes-selecionadas.json`.
+- **Lote 52 do piloto de capas (sequência 18 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/52/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/52/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa.webp`) fica no CDN, sem uso como capa.

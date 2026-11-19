@@ -218,3 +218,10 @@ pelo Farol / ChatGPT (`docs/auditoria-copy-artigos/bd1-alternativas-bendu-202611
 - **Doctor Bar:** ganha por proteína, mas custa mais por barra (R$ 13,73 contra R$ 9,97 da Soft Bar no cenário da tabela).
 - **Capa:** painel verde "Alternativas à Bendu" e "Com cupom", com snack Belive, Doce de Leite Zero, Doctor Bar e pasta
   sabor avelã; sem a Mais Mu (falta foto limpa do Chocowheyfer) e sem logo ou foto da Bendu. Aprovada pelo Bruno em 14/11.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/bendu/alternativas-a-bendu-capa-v2.webp` (`imageFit: contain`), SHA-256 `180ff115ef8f0fbc638b477f589aa4b9d6886b8da9734b0aa0fbe0e2ac764c9f`.
+- **Alt:** Dois snacks proteicos de queijo na mão, com o pacote da Belive ao fundo, em imagem oficial da marca, com logo Belive e a chamada “Alternativas à Bendu”.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/49/fontes-selecionadas.json`.
+- **Lote 49 do piloto de capas (sequência 17 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/49/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-43-HEROES-SEQUENCIAS-17-E-18-CLAUDE.zip` (`lotes/49/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bendu/alternativas-a-bendu-capa.webp`) fica no CDN, sem uso como capa.
