@@ -8,9 +8,9 @@ category: "produtos-experiencias"
 reviewKind: "editorial"
 type: "Editorial"
 anexo_tipo: "Anexo-Tecnologia"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redacao"
+status: "pronto-para-deploy"
+responsavel: "Job-2-a-6"
+proxima_acao: "deploy-com-go"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 66
@@ -327,3 +327,56 @@ Páginas salvas no scratchpad (`hostinger-boa/pages/`): `/br/hospedagem-de-sites
    o de domínio entrou no esqueleto. Criador com IA, loja virtual, Minecraft e Reach seguem só com "A loja informa:".
 
 **Antes da redação:** reler os preços no dia (Black Friday da Hostinger até 14/12). VPS e e-mail do site internacional lidos em 19/11.
+
+---
+
+## Redação, revisão e mídia (19/11/2026, sessão de artigos)
+
+**Job 2.** PT escrito direto em `content/reviews/hostinger-e-boa.json` (id 1084), na ordem do esqueleto. Rótulos: "Usei:"
+(hospedagem), "A loja informa:" (Criador com IA), "Conta nossa:" (Premium, cerca de 4 vezes). Datas no corpo: a legenda da
+tabela (19/11) e o fim da Black Friday (14/12).
+
+**Correção do briefing, conferida nas páginas em 19/11.** O plano de R$ 12,99 (US$ 2,79) chama-se **Unlimited**, não Business,
+no /br e no global; "Business" na página é só o e-mail. O texto usa Unlimited e não dá nome ao plano de hospedagem do Bruno.
+O Criador com IA aparece em todos os planos de hospedagem (/br). A loja virtual de R$ 9,99 é o plano "Crescimento da loja
+virtual" (links de pagamento e loja simples, 12 meses, renova R$ 9,99, "0% de taxas de transação"); a mesma página oferece a
+loja no Unlimited e no Cloud Startup. O Game Panel é o painel do VPS de Minecraft (servidor, mods, amigos).
+
+**Job 3 (Fable 5.2).** Aprovado com ajustes. Aplicados: Criador sem "do Premium para cima" e com o "quando não" (app de
+loja de aplicativos); loja e Minecraft reescritos só com o que a página diz; VPS com "programas e acesso de administrador";
+"agente de IA do suporte"; o VPS "além da hospedagem" (não "na mesma conta"); fim do ciclo com dois caminhos; "quando não"
+no capítulo da hospedagem; o SONAR20 também no e-mail profissional (teste de 30/10 no dossiê); Cloud Startup nos perfis;
+o link do FAQ de confiança.
+
+**Job 4.** As 9 versões pelo Sonnet 5.5 (pacote em `scratchpad/h11/BRIEF-TRADUCOES.md`): preços do site internacional em
+dólar (Premium, Unlimited, Cloud Startup, KVM 1 a 8, e-mail por caixa, Game Panel 1), conta própria de cerca de 5,5 vezes
+(US$ 10,99 contra US$ 1,99 no Premium de 48 meses), sem Single, loja virtual, parcelas, Pix, Locaweb e print.
+
+**Job 6.**
+- Capa: painel lateral do lote 41 (logo, chamada no idioma, "Planos novos:" e SONAR20), uma por idioma,
+  `hostinger-e-boa-capa-<locale>.webp`. Foto: bloco de notas e caneta sobre o teclado de um notebook, de Rashed Hossain,
+  CC0, WordPress Photo Directory (`wordpress.org/photos/photo/8116a1d3f1/`, sha256 3dcf6987…), sem uso em capa anterior.
+- Quadro "produto → para quem → quando não": desenhado por nós, um por idioma (`hostinger-e-boa-quadro-<locale>.webp`, 4:3);
+  fora do PT sem a linha da loja virtual.
+- Print do hPanel (só PT): o do Bruno, cortado embaixo (só ícones), com o nome do site, que é o domínio público deste site.
+
+**Releitura das 9 versões (Job 4, item 10, outro agente Sonnet, 19/11).** Preços, links, regras do SONAR20, escrita e datas
+passaram em todas. Corrigido: es (feminino no FAQ, "creador con IA" na nota), fr (nota curta, calque na resposta rápida,
+"nom de domaine"), de (frase acrescentada sobre o caixa, gênero da Black Friday, "Premium-Tarif", locais por tarifa),
+it (frase acrescentada, "pagina di Hostinger", locais por piano), ko ("메일 계정" no lugar de "사서함", frase de
+enchimento na resposta rápida), ja e zh (frases literais, "AI 代理" em zh-hant). Os quadros aprovados ficaram como estão
+(zh-hans diz 群发通讯 e zh-hant AI 智慧體 na imagem; trocar exige refazer e reaprovar).
+
+**Mídia no CDN (19/11, sim do Bruno).** As 21 imagens (10 capas, 10 quadros, o print) subidas e verificadas, com
+`prepare-delivery --append` e `phase5-export`. Gates: validate:content, test:review-i18n, internal-links, article-d2,
+site-search, validate:video e o build completo (typecheck, build, build-output, review-delivery-html, html-lang).
+
+**Parecer do Farol (19/11, depois do #1232).** Aplicado o pacote `docs/auditoria-copy-artigos/hostinger-h11-20261119-farol/`
+nos 10 idiomas: Node.js Web App só no Unlimited (o antigo Business) e no Cloud (documentação da Hostinger, conferida); o
+Criador com IA vendido com os planos Premium e Unlimited (`/br/ai-builder/pricing`, conferida); no fim do ciclo, conferir no
+hPanel a redução de plano e a mudança do período de cobrança (ajuda da Hostinger, conferida); e-mail por caixa nos planos
+avulsos; tabela dividida em três; zh-hans e zh-hant com os termos dos quadros. Não entraram, por falta de fonte: "já testamos
+o código em hospedagem, VPS e e-mail" (o dossiê não tem teste no VPS, e o teste fica na página do cupom) e "alguns planos
+pedem o código manual"; virou "entra na hospedagem, no VPS, no WordPress e no e-mail profissional". Também ficou fora o
+"compare com um prazo mais curto" do Minecraft, porque a página só mostra 24 meses. Os rótulos "Usei:", "A loja informa:"
+e "Conta nossa:" voltaram ao PT. Gates e build completo passaram.

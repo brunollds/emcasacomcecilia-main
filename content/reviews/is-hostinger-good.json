@@ -1,0 +1,292 @@
+{
+  "id": 1085,
+  "slug": "is-hostinger-good",
+  "locale": "en",
+  "translationKey": "hostinger-e-boa",
+  "title": "Is Hostinger good? Who its hosting, VPS and email suit, and when to skip it",
+  "seoTitle": "Is Hostinger good? Who each plan suits",
+  "type": "Editorial",
+  "category": "produtos-experiencias",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Editing and analysis",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    }
+  ],
+  "description": "I've been a Hostinger customer since 2024. Here is who its hosting, VPS, email and domains suit, what each plan costs after the intro price, and when to pick something else.",
+  "metaDescription": "Is Hostinger good? With SONAR20 you get 20% off the first period. Who each plan suits and what the renewal price does to the bill.",
+  "publishedAt": "November 19, 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-e-boa-capa-en.webp",
+  "imageAlt": "Notepad and pen on a laptop keyboard, in an illustrative photo with the Hostinger logo, the texts «Is Hostinger good?» / «Who each plan suits» and SONAR20 for new plans.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Choose a plan and check whether SONAR20 gives you 20% off the first term. Check the renewal rate in the cart too.",
+    "label": "See Hostinger plans",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Purchases with SONAR20 or through the link may earn me a commission at no extra cost to you. The details on AI Builder, ecommerce and Minecraft hosting come from Hostinger.",
+  "decision": {
+    "takeIf": [
+      "You want a website, WordPress, email and a domain in one panel, and you already know what you will pay when the plan renews.",
+      "You will run an app, an automation or an AI agent and have someone to look after the server: that is where a VPS makes sense."
+    ],
+    "skipIf": [
+      "Your budget only works at the entry price of the longest plan.",
+      "You want a VPS but nobody will maintain the server: for an ordinary website, hosting is enough."
+    ]
+  },
+  "relatedArticles": [
+    {
+      "slug": "hostinger-ai-builder-worth-it"
+    },
+    {
+      "slug": "wordpress-on-hostinger"
+    },
+    {
+      "slug": "vps-or-shared-hosting-which-to-choose"
+    },
+    {
+      "slug": "best-vps-for-openclaw"
+    },
+    {
+      "slug": "hostinger-reach-vs-mailchimp-brevo"
+    },
+    {
+      "slug": "hostinger-domain-buy-transfer-or-elsewhere"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "I’ve used Hostinger since 2024. This site runs there, and I also use its VPS, email and domains. Web hosting is usually enough for a first site or a WordPress blog. A VPS makes sense if you need to manage the server. Check the upfront total and the renewal rate before you sign up."
+      ]
+    },
+    {
+      "heading": "Is Hostinger good for web hosting?",
+      "paragraphs": [
+        "For what I use it for, yes. I've been a Hostinger customer since 2024, with hosting, a VPS KVM 2, professional email and domains, all on auto-renew. This site, Em Casa com Cecília, runs on it as a Node.js app.",
+        "The control panel, which Hostinger calls hPanel, puts the site in one menu: the plan, domains, files, databases and security. When I had a problem, support solved every one, and most of them were solved by support's AI agent. I have also never seen the site go down, and I say that as a customer: I haven't measured uptime or speed.",
+        "Hosting suits anyone who wants a website or WordPress with a simple panel. It does not suit anyone counting on the entry price alone: renewal costs much more, and the price table shows how much. Before paying, also check the server location: on web hosting, the available locations change with the plan, so look at which ones your plan offers."
+      ]
+    },
+    {
+      "heading": "What each product is for",
+      "paragraphs": [
+        "The answer changes from product to product: Hostinger sells everything from website hosting to game servers. The chart below sums up who each one suits and when to skip it. By profile, the path usually looks like this:"
+      ],
+      "bullets": [
+        "**First site, blog or portfolio:** web hosting or the AI website builder.",
+        "**Already on WordPress:** Premium or Unlimited hosting.",
+        "**A store or several high-traffic sites:** Cloud Startup.",
+        "**Apps, automation such as n8n, or an AI agent:** a VPS, accepting that you look after the server.",
+        "**Just email on your own domain:** professional email, billed per mailbox."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-e-boa-quadro-en.webp",
+        "alt": "Chart: web hosting for a site, blog or WordPress, not for installing programs on the server; Cloud Startup for a store or several high-traffic sites, not for a single site that fits on Premium; VPS for an app, automation or AI agent, not if nobody looks after the server; professional email per mailbox, not for newsletters; AI website builder for a simple site, not for plugins and your own theme; Minecraft for a group that will play for a long time, not for only a few months.",
+        "caption": "Who each Hostinger product suits and when to skip it.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3333
+      }
+    },
+    {
+      "heading": "Is Hostinger good for building a website?",
+      "paragraphs": [
+        "For WordPress, choose a web hosting plan and install it from the dashboard. For custom code, check what your plan supports. This site runs on Node.js. Hostinger lists managed Node.js apps on Unlimited and Cloud plans.",
+        "Hostinger sells AI Builder with hosting included. If you already have hosting, check the tools and AI credits included with your plan. Choose WordPress if you need plugins or your own theme. AI Builder can get a simple site online without coding and can publish web apps.",
+        "Premium covers up to three sites. [WordPress on Hostinger](/en/reviews/wordpress-on-hostinger) says which plan to pick for each case, and [Hostinger's AI website builder](/en/reviews/hostinger-ai-builder-worth-it) shows what kind of project fits it."
+      ]
+    },
+    {
+      "heading": "Is Hostinger VPS good?",
+      "paragraphs": [
+        "I use a KVM 2 VPS alongside my web hosting. A VPS is useful when you need administrator access or need to install software. Hostinger runs the infrastructure. Your server’s setup, updates and security are yours to manage.",
+        "If an app, n8n workflow or AI agent needs administrator access, a VPS is one option. For an ordinary website, hosting does the job and costs less, and [VPS or shared hosting](/en/reviews/vps-or-shared-hosting-which-to-choose) does that math by scenario. For an AI agent, the [best VPS for OpenClaw](/en/reviews/best-vps-for-openclaw) says which KVM to pick.",
+        "When you set it up, choose the server location. Pick the one closest to your audience; you can change the location later."
+      ]
+    },
+    {
+      "heading": "Is Hostinger email good?",
+      "paragraphs": [
+        "For email on your own domain, yes. I use Hostinger's professional email with my domains, in the same panel as the site, and I don't need another service for it.",
+        "Standalone email plans are billed per mailbox. If you already have hosting, check how many mailboxes it includes and when the included period ends.",
+        "Don't confuse it with a newsletter: professional email is the inbox, and sending email to a list is another product, Reach, compared in [Reach, Mailchimp or Brevo](/en/reviews/hostinger-reach-vs-mailchimp-brevo). If you already have email on your domain with another service and it works, there is no reason to switch."
+      ]
+    },
+    {
+      "heading": "Is a Hostinger domain a good idea?",
+      "paragraphs": [
+        "It is convenient, which is why mine are there: they sit in the same account as the hosting and the email, so pointing the domain at the site and creating mailboxes happens in one panel.",
+        "Two things weigh in before you register. SONAR20 does not apply to domains, so the price is the one on the page. And a domain is a separate service from hosting: you can register it elsewhere and point it at the site on Hostinger, or bring one you already own. [The domain at Hostinger](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere) compares the three routes, with the renewal price.",
+        "Register there if you want everything in one panel. If your domain is already with another registrar at a renewal price you can live with, leave it where it is."
+      ]
+    },
+    {
+      "heading": "Online store and Minecraft",
+      "paragraphs": [
+        "On the international site, Premium lists ecommerce. Unlimited and Cloud Startup advertise a year of ecommerce included. Check what the plan covers and what you’ll pay after any included period.",
+        "Game Panel lets you set up a Minecraft server, install mods and invite friends. The table shows the total for 24 months. If your group will only play for a few months, that total weighs more than the monthly price."
+      ]
+    },
+    {
+      "heading": "Web hosting prices",
+      "comparisonTable": {
+        "caption": "Hostinger’s international prices on Nov 19, before SONAR20. Prices can vary by region.",
+        "headers": [
+          "Plan and initial term",
+          "Entry per month",
+          "Entry for the term",
+          "Renewal per month"
+        ],
+        "rows": [
+          [
+            "[Web hosting Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 months)",
+            "US$ 1.99",
+            "US$ 95.52",
+            "US$ 10.99"
+          ],
+          [
+            "Web hosting Unlimited (48 months)",
+            "US$ 2.79",
+            "US$ 133.92",
+            "US$ 16.99"
+          ],
+          [
+            "Cloud Startup (48 months)",
+            "US$ 7.99",
+            "US$ 383.52",
+            "US$ 25.99"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "The advertised monthly rates apply to the terms shown. Compare the amount you pay for the first term with the monthly rate quoted for renewal."
+      ],
+      "postParagraphs": [
+        "On the 48-month Premium offer, the quoted renewal is US$ 10.99 a month, about 5.5 times the introductory US$ 1.99.",
+        "Hostinger lists December 14 as the end of its Black Friday promotion."
+      ]
+    },
+    {
+      "heading": "VPS and Minecraft prices",
+      "comparisonTable": {
+        "caption": "VPS and Minecraft rates from the same quote, before SONAR20.",
+        "headers": [
+          "Plan and initial term",
+          "Entry per month",
+          "Entry for the term",
+          "Renewal per month"
+        ],
+        "rows": [
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 months)",
+            "US$ 6.49",
+            "US$ 155.76",
+            "US$ 11.99"
+          ],
+          [
+            "VPS KVM 2 (24 months)",
+            "US$ 8.79",
+            "US$ 210.96",
+            "US$ 14.99"
+          ],
+          [
+            "VPS KVM 4 (24 months)",
+            "US$ 12.99",
+            "US$ 311.76",
+            "US$ 28.99"
+          ],
+          [
+            "VPS KVM 8 (24 months)",
+            "US$ 25.99",
+            "US$ 623.76",
+            "US$ 49.99"
+          ],
+          [
+            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20) (24 months)",
+            "US$ 6.99",
+            "US$ 167.76",
+            "US$ 11.99"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Business email prices",
+      "comparisonTable": {
+        "caption": "Standalone email prices per mailbox, before SONAR20.",
+        "headers": [
+          "Plan and initial term",
+          "Entry per month",
+          "Entry for the term",
+          "Renewal per month"
+        ],
+        "rows": [
+          [
+            "[Email Starter, per mailbox](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20) (48 months)",
+            "US$ 0.39",
+            "US$ 18.72",
+            "US$ 1.59"
+          ],
+          [
+            "Email Standard, per mailbox (48 months)",
+            "US$ 0.99",
+            "US$ 47.52",
+            "US$ 2.79"
+          ],
+          [
+            "Email Premium, per mailbox (48 months)",
+            "US$ 1.99",
+            "US$ 95.52",
+            "US$ 3.99"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "When not to choose Hostinger",
+      "paragraphs": [
+        "If the renewal price is outside your budget, check whether you can change your plan or billing term in hPanel. If you switch providers, schedule the migration before the plan expires.",
+        "If you want to compare with another company before deciding, [how to choose a web host](/en/reviews/how-to-choose-web-host-hostinger), which looks at Hostinger next to HostGator, and [Hostinger or GoDaddy](/en/reviews/hostinger-or-godaddy) do the math with the renewal.",
+        "If the question is whether you can trust it, [Is Hostinger legit?](/en/reviews/is-hostinger-legit) shows who bills you and how the 30 days to ask for a refund on hosting and VPS work; the [reputation on Trustpilot](/en/reviews/hostinger-trustpilot-reviews) has an article of its own."
+      ]
+    },
+    {
+      "heading": "SONAR20: where it applies",
+      "paragraphs": [
+        "SONAR20 gives 20% off the first term of a new eligible purchase. It applies to hosting, VPS, WordPress and business email. Domains and renewals are outside the offer. Existing customers can use it when they purchase an eligible product they don’t already have.",
+        "Enter the code in the cart, in the \"Have a coupon code?\" field, or go in through the [Hostinger plans](https://www.hostinger.com/?REFERRALCODE=SONAR20), and check the total before you pay. The [Hostinger coupon](/en/coupons/hostinger) page has the step by step and the code tests, and [Hostinger's renewal](/en/reviews/hostinger-renewal-price-coupon-sonar20) has an article of its own."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Is Hostinger worth it? It is for anyone who wants a website, WordPress, email or a VPS at a low entry price and plans for the renewal; the pricing chapter shows how much it goes up.",
+        "Is Hostinger good for WordPress? Yes: WordPress installs on the hosting plans, and the chapter on building a website points to the plan for each number of sites.",
+        "Is Hostinger legit? For me, with four of its products and this site hosted there, yes; who bills you and how the refund works are in [Is Hostinger legit?](/en/reviews/is-hostinger-legit).",
+        "Does Hostinger have refunds? Yes: 30 days to ask for a refund on hosting and VPS, with the exceptions explained in the trust article.",
+        "Does SONAR20 work on renewal? No: it applies to the first period of a new purchase, and the renewal is charged at list price."
+      ]
+    }
+  ]
+}

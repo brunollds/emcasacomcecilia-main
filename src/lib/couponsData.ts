@@ -4611,7 +4611,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'reduzido',
     shortDescription: 'todo o site da BOLD Snacks, inclusive os produtos em promoção',
     longDescription:
-      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 20% entraram numa caixa de barras pelo preço cheio, num whey em promoção e no preço de assinatura do BOLD Club. O nome tem 15, mas o desconto no checkout foi de 20%.',
+      'O cupom BOLD Snacks CECILIA15 dá 20% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 20% entraram numa caixa de barras pelo preço cheio, num whey em promoção e no preço de assinatura do BOLD Club.',
     metaTitle: 'Cupom BOLD Snacks: 20% OFF com CECILIA15',
     metaTitleMonth: true,
     metaDescription:
@@ -4856,6 +4856,133 @@ const STORE_COUPONS: Coupon[] = [
     monthlyHighlight: {
       scope: 'no site oficial',
       note: 'Soma com os preços em promoção do site',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
+    slug: 'gocase',
+    brand: 'Gocase',
+    officialUrl: 'https://www.gocase.com.br/',
+    // Link de afiliado da GoGroup (Bruno, 19/11/2026). Nunca abrir para conferir. A página de entrada anuncia faixas de
+    // R$ 15, R$ 30 e R$ 45 ("15%"), mas nos três testes de 19/11 o CECILIAA deu 5%, pelo link e direto no site.
+    offerUrl: 'https://gocase.gogroup.com.br/emcasacomcecilia',
+    brandIcon: 'G',
+    brandLogo: '/images/about/partners/gocase.png',
+    brandLogoAlt: 'Marca Gocase',
+    bubble: { src: '/images/logos/bolinhas/gocase.png', background: '#005BAA' },
+    brandWatermark: '/images/logos/watermarks/gocase.webp',
+    brandColor: '#005BAA',
+    cartPrint: {
+      src: '/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp',
+      alt: 'Resumo do checkout da Gocase com o cupom CECILIAA aplicado: desconto de R$ 18,99 sobre R$ 379,70 em produtos e total de R$ 360,71',
+      aspectRatio: 0.65,
+    },
+    code: 'CECILIAA',
+    codeFieldLabel: 'Tem um cupom?',
+    discount: '5% OFF',
+    discountNumber: 5,
+    category: 'Capinhas de celular, garrafas e copos térmicos, bolsas, mochilas, malas e acessórios',
+    hubCategory: 'diversos',
+    shortDescription: 'todo o site da Gocase, inclusive os preços da GoBlack',
+    longDescription:
+      'O cupom Gocase CECILIAA dá 5% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços de Black Friday da GoBlack: nos nossos testes, os 5% entraram sobre bolsas, garrafas e copos térmicos que já estavam em promoção. Vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Gocase: 5% OFF com CECILIAA',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom Gocase: CECILIAA dá 5% OFF em capinhas, garrafas térmicas e bolsas e soma com os preços da GoBlack. Testado no checkout.',
+    eligibleCategories: 'Produtos do site oficial da Gocase, inclusive os que estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping:
+      'Frete grátis na entrega Normal acima de R$ 199,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP e acima de R$ 399,00 nos demais estados, pelo valor final com os descontos, segundo o regulamento da loja; pedidos com mala de bordo ou mochila de rodinhas ficam fora, e o valor do seu estado aparece no carrinho',
+    combinable: 'Soma com as promoções vigentes do site, inclusive os preços da GoBlack, e vale com todas as formas de pagamento',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço da GoBlack: no teste, a Tote Mini de R$ 219,90 por R$ 149,90 também ganhou os 5%' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Pelo regulamento, grátis na entrega Normal acima de R$ 199,90 no Sul, no Sudeste e em parte do Centro-Oeste; confira o valor no carrinho' },
+    ],
+    lastVerified: '2026-11-19',
+    testedAt: '2026-11-19',
+    testNote:
+      'Num carrinho com dois Copos Térmicos Moove pelo preço cheio, de R$ 99,90 e R$ 129,90, e a Tote Mini em promoção, de R$ 219,90 por R$ 149,90, o CECILIAA tirou R$ 18,99 dos R$ 379,70 em produtos, 5%, e o total caiu para R$ 360,71. Em outros dois carrinhos do mesmo dia, de R$ 319,70 e de R$ 789,60, o desconto também foi de 5%: R$ 15,99, com frete grátis, e R$ 39,48, num pedido só de produtos da GoBlack.',
+    codeInstructions: [
+      'Copie o código CECILIAA no card acima.',
+      'Acesse o site oficial da Gocase pelo botão indicado, adicione os produtos ao carrinho e clique em Finalizar compra.',
+      'No resumo do checkout, digite o código no campo Tem um cupom? e clique em Aplicar.',
+      'Confira o aviso Cupom CECILIAA aplicado e a linha Desconto (CECILIAA) antes de pagar.',
+    ],
+    aboutBrand:
+      'A Gocase é uma marca brasileira com mais de 10 anos de capinhas de celular, garrafas e copos térmicos, bolsas, mochilas, malas, acessórios e linha pet, muitos deles personalizáveis, vendidos no site oficial e em lojas em Fortaleza, Brasília e São Paulo. O cupom CECILIAA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 5% OFF, com qualquer forma de pagamento e também sobre os preços em promoção.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom CECILIAA dá na Gocase?',
+        answer:
+          '5% OFF nos produtos do site oficial. Nos nossos testes, o cupom tirou R$ 18,99 de um carrinho de R$ 379,70, e o resumo do checkout mostrou o valor na linha Desconto (CECILIAA).',
+      },
+      {
+        question: 'O cupom Gocase soma com os preços da GoBlack?',
+        answer:
+          'Sim. Nos nossos testes de novembro, os 5% entraram sobre produtos que já estavam com o preço da GoBlack: a Tote Mini de R$ 219,90 por R$ 149,90, por exemplo, também ganhou o desconto.',
+      },
+      {
+        question: 'O cupom Gocase vale na primeira compra?',
+        answer: 'Sim. O CECILIAA vale na primeira compra e também para quem já comprou na Gocase.',
+      },
+      {
+        question: 'Qual cupom Gocase vale para quem já é cliente?',
+        answer: 'O CECILIAA. Ele dá 5% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O CECILIAA é cupom de influenciadora da Gocase?',
+        answer:
+          'Sim. CECILIAA, com dois A no fim, é o cupom do Em Casa com Cecília na Gocase e dá 5% OFF no site oficial para clientes novos e antigos.',
+      },
+      {
+        question: 'O cupom CECILIAA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o CECILIAA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Gocase?',
+        answer:
+          'No checkout do site oficial, que abre pelo botão Finalizar compra do carrinho: digite CECILIAA no campo Tem um cupom?, no resumo, e clique em Aplicar. Aparece o aviso Cupom CECILIAA aplicado, e o resumo passa a mostrar a linha Desconto (CECILIAA).',
+      },
+      {
+        question: 'Tem cupom Gocase na Black Friday?',
+        answer:
+          'Tem. O cupom Gocase CECILIAA dá 5% OFF no site oficial, em todas as formas de pagamento, e soma com os preços da GoBlack.',
+      },
+      {
+        question: 'O cupom Gocase vale na Black Friday?',
+        answer:
+          'Vale. Nos nossos testes, em novembro, os 5% entraram também em produtos com o preço da GoBlack. Confira a linha Desconto (CECILIAA) no resumo antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete. Pelo regulamento da Gocase, o frete grátis na entrega Normal vale acima de R$ 199,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP e acima de R$ 399,00 nos demais estados, pelo valor final do pedido com os descontos, e pedidos com mala de bordo ou mochila de rodinhas ficam fora. Durante as campanhas, o site pode mostrar outro valor para o seu estado: confira no carrinho.',
+      },
+      {
+        question: 'Como funciona a troca na Gocase?',
+        answer:
+          'Pela política da loja, os produtos sem personalização podem ser trocados ou devolvidos em até 7 dias corridos depois do recebimento, sem sinais de uso. Os personalizados, com estampa, nome ou foto, não são trocados por arrependimento, só em caso de defeito de fabricação.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIAA não funcionar?',
+        answer:
+          'Confira se o código foi digitado com dois A no fim, sem espaços, no campo Tem um cupom? do checkout, e se apareceu o aviso Cupom CECILIAA aplicado. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços da GoBlack',
     },
     status: 'ativo',
     featured: false,
