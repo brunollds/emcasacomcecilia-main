@@ -111,6 +111,18 @@ export const videoMetadata = {
     description:
       'Cecília testa a air fryer forno de 12 litros da Haier: batata congelada no cesto giratório e espetinhos de camarão e de batata no suporte que gira.',
   },
+  _EyAiTwjGTU: {
+    uploadDate: '2026-07-30T15:15:15-07:00',
+    duration: 'PT41S',
+    title: 'Unboxing ASMR da NEO Dolce Gusto + primeiro café ☕',
+    description: 'Cecília tira a Dolce Gusto NEO da caixa, encaixa o reservatório e prepara o primeiro café, sem narração.',
+  },
+  RK4gX2gJvdI: {
+    uploadDate: '2026-09-12T12:30:09-07:00',
+    duration: 'PT20S',
+    title: 'Café Gelado Refrescante com Limão | DOLCE GUSTO CUPOM CECI',
+    description: 'Cecília faz um café gelado com limão e gelo, com um espresso da Dolce Gusto NEO por cima.',
+  },
 };
 
 /**
