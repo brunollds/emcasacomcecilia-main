@@ -8,6 +8,35 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Dolce Gusto: pautas pelo GSC e pelo Trends (19/11/2026)
+
+Pedido do Bruno: avaliar pautas para a Dolce Gusto com o Search Console e o Trends. A loja tem 28 artigos no ar.
+
+**Search Console (18/08 a 17/11, consultas com "dolce"):** 664 consultas, 8,09 mil impressões, 38 cliques, posição média 9,2.
+- O que já rende: medidas e ml (`tabela-medidas`, posição 2 a 3), Dolce Gusto ou Nespresso, Black Friday (posição ~9,6), Genio S Basic, Plus e Touch.
+- "cupom de desconto dolce gusto" (427) e "cupom dolce gusto" (225) sem clique: a dona é a `/cupons/dolce-gusto` desde 17/11; medir em ~01/12, como já combinado.
+- Lacunas, sem artigo próprio: tamanho da cápsula e da cafeteira (~350, posição 4 a 6); dúvidas da NEO (cápsula Original na NEO, NEO diferente da Original, compatíveis, ~110); bebidas geladas (~30); Piccolo XS (~43); função XL (~25); Lavazza (~16); "quantas xícaras por dia" (14).
+
+**Trends (Brasil, 12 meses):**
+- "dolce gusto neo" 10, "genio s" 49, "mini me" 27, "gelado" 1, "não sai água" 0.
+- Só lacunas: "gelado" 4, "não sai água" 2, "medidas" 2, "sem lactose" 1, "luz vermelha" 0.
+- "neo" 38 contra "piccolo", "lumio", "assistência técnica" e "cápsula reutilizável", todos 0.
+
+**Autocompletar (19/11):**
+- Defeitos: "não sai água", "não puxa água", "não liga", "não esquenta", "não fura a cápsula", "luz vermelha piscando", "piscando vermelho e verde", "vazando água por baixo", "assistência técnica" com cidades.
+- NEO: "vale a pena", "como usar", "cápsulas compatíveis", "latte", "adaptador".
+- Gelado: "café gelado", "chá gelado", "frappé", "cappuccino gelado", "gelado e quente".
+- Cápsula: "sem lactose", "sem açúcar", "descafeinado", "reutilizável".
+
+**Loja (19/11, pelo navegador; o curl recebe Access Denied e a loja não é VTEX):**
+- NEO N1 a R$ 799 em 4 versões; cápsulas NEO a R$ 20,23 a caixa de 10, só cafés pretos.
+- Faixa "TUDO LIBERADO! TODO O SITE A PREÇO DE BLACK + FRETE GRÁTIS ACIMA DE R$100", que não vale para máquinas.
+- A central de ajuda leva à documentação da Mini Me e da NEO e ao FAQ, com "Minha máquina parou de funcionar" e a assistência da Arno, (11) 2060-9777.
+
+**Conclusão:** quatro propostas sem GO na Fila (DG1 a DG4). A NEO tem a maior busca sem artigo próprio; o artigo de defeitos tem a maior variedade no autocompletar. O tamanho vira revisão do `tabela-medidas`.
+
+---
+
 ## Nestlé Nutre: mais vendidos (19/11/2026)
 
 Fatos em [[nestle-nutre-mais-vendidos-fatos-1911]]; pautas NM1 a NM8 na [[Fila-de-Pautas]], seção 3, sem GO.
