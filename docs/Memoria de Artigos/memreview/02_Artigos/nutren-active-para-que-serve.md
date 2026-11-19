@@ -146,3 +146,12 @@ Quadro "Leve se / Passe se": cabe (é guia de produto de consumo), de 1 a 3 fras
 
 - **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** GO do Bruno.
+
+## 12. Redação (19/11)
+
+- **Carrinho:** CECI de 10% na lata de 400 g (R$ 57,14) e na embalagem de 700 g (R$ 80,91). Na assinatura, não testado; o preço da assinatura é igual ao do CECI na compra única.
+- **700 g:** saco com o selo "Embalagem econômica", só em baunilha; a página repete o rendimento da lata de 400 g; cerca de 22 porções pela conta do peso.
+- **FAQ da marca:** contém lactose e glúten; pode preparar com água (com leite fica mais cremoso); não ferver; diz "zero adição de açúcares", mas a tabela traz 1,5 g (baunilha e morango) e 4 g (chocolate).
+- **Composto lácteo:** notice do Ministério da Saúde na seção do produto e na de preço (anexo de suplementos e alimentos).
+- **Protein em pó (página):** 120 kcal, 14 g de proteína (20 g com leite), 80 mg de cafeína; não deve ser consumido por gestantes, lactantes e crianças.
+- Parecer externo aplicado depois de conferir os fatos. Capa aprovada pelo Bruno.

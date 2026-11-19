@@ -36,6 +36,12 @@
       "heading": "Como a Nestlé separa a linha Nutren",
       "paragraphs": [
         "A Nestlé separa a linha em consumo e clínica: este guia compara Senior, Protein, Control e Active. A outra parte é de nutrição clínica, como os Nutren 1.5, 2.0, Ultra e Fortify, que a loja apresenta como Nutren Medical ou nutrição enteral e oral. Esses seguem a orientação do médico ou nutricionista e ficam fora da tabela."
+      ],
+      "links": [
+        {
+          "label": "Nutren Fortify: para que serve, tabela e preço por porção",
+          "href": "/reviews/nutren-fortify-para-que-serve"
+        }
       ]
     },
     {
@@ -224,7 +230,13 @@
         "caption": "Nutren Active Chocolate, lata de 400 g. A tabela deste guia é a da baunilha. Foto oficial da Nestlé Nutre.",
         "objectFit": "contain",
         "aspectRatio": 1.3333
-      }
+      },
+      "links": [
+        {
+          "label": "Nutren Active: para que serve, como tomar e preço",
+          "href": "/reviews/nutren-active-para-que-serve"
+        }
+      ]
     },
     {
       "heading": "O que mais existe na linha e não entra na tabela",

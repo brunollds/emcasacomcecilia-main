@@ -171321,6 +171321,374 @@
       "verified_at": "2026-11-19T03:59:24.290Z",
       "verification_etag_or_digest": "4ca9abc03b1ecc049935b5a2fc4b9b95caf156138986b3e8368088c75d04019d",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
+      "local_url": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41532,
+      "sha256": "ff0be00b939171cdb0d04eaaeec0c795d49ac7c24ad1ee9c7b30b6d65ab69b88",
+      "width": 422,
+      "height": 791,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "novasource-proline-baunilha-200ml-oficial.webp",
+      "storage_filename": "novasource-proline-baunilha-200ml-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/novasource-proline-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/novasource-proline-para-que-serve.json",
+          "line": 65,
+          "column": 17,
+          "literal": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 269123,
+          "column": 19,
+          "literal": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ff0be00b939171cdb0d04eaaeec0c795d49ac7c24ad1ee9c7b30b6d65ab69b88/novasource-proline-baunilha-200ml-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ff0be00b939171cdb0d04eaaeec0c795d49ac7c24ad1ee9c7b30b6d65ab69b88/novasource-proline-baunilha-200ml-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:24:52.517Z",
+      "verification_etag_or_digest": "ff0be00b939171cdb0d04eaaeec0c795d49ac7c24ad1ee9c7b30b6d65ab69b88",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/novasource-proline-para-que-serve-capa.webp",
+      "local_url": "/images/reviews/nutren/novasource-proline-para-que-serve-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72356,
+      "sha256": "2f72e098802c38a9b7183f157d4bd286b6434bf9d0b9c0f9eb2faab619abb64e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "novasource-proline-para-que-serve-capa.webp",
+      "storage_filename": "novasource-proline-para-que-serve-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/novasource-proline-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/novasource-proline-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/novasource-proline-para-que-serve-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 269080,
+          "column": 15,
+          "literal": "/images/reviews/nutren/novasource-proline-para-que-serve-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2f72e098802c38a9b7183f157d4bd286b6434bf9d0b9c0f9eb2faab619abb64e/novasource-proline-para-que-serve-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2f72e098802c38a9b7183f157d4bd286b6434bf9d0b9c0f9eb2faab619abb64e/novasource-proline-para-que-serve-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:24:52.518Z",
+      "verification_etag_or_digest": "2f72e098802c38a9b7183f157d4bd286b6434bf9d0b9c0f9eb2faab619abb64e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/novasource-proline-po-330g-oficial.webp",
+      "local_url": "/images/reviews/nutren/novasource-proline-po-330g-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52552,
+      "sha256": "3bc9aadeea94bce99f4f29b167409dc2b3e699a5969bbf6371efd1406fd04322",
+      "width": 612,
+      "height": 803,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "novasource-proline-po-330g-oficial.webp",
+      "storage_filename": "novasource-proline-po-330g-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/novasource-proline-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/novasource-proline-para-que-serve.json",
+          "line": 221,
+          "column": 17,
+          "literal": "/images/reviews/nutren/novasource-proline-po-330g-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 269279,
+          "column": 19,
+          "literal": "/images/reviews/nutren/novasource-proline-po-330g-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3bc9aadeea94bce99f4f29b167409dc2b3e699a5969bbf6371efd1406fd04322/novasource-proline-po-330g-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3bc9aadeea94bce99f4f29b167409dc2b3e699a5969bbf6371efd1406fd04322/novasource-proline-po-330g-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:24:52.518Z",
+      "verification_etag_or_digest": "3bc9aadeea94bce99f4f29b167409dc2b3e699a5969bbf6371efd1406fd04322",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-active-700g-embalagem-economica-oficial.webp",
+      "local_url": "/images/reviews/nutren/nutren-active-700g-embalagem-economica-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57362,
+      "sha256": "4702c2eb8efe6356468967a56eb4aaaa6e4a57079c6007168a96ce7c97ab9210",
+      "width": 569,
+      "height": 712,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-active-700g-embalagem-economica-oficial.webp",
+      "storage_filename": "nutren-active-700g-embalagem-economica-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-active-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-active-para-que-serve.json",
+          "line": 209,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-active-700g-embalagem-economica-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 269589,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-active-700g-embalagem-economica-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4702c2eb8efe6356468967a56eb4aaaa6e4a57079c6007168a96ce7c97ab9210/nutren-active-700g-embalagem-economica-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4702c2eb8efe6356468967a56eb4aaaa6e4a57079c6007168a96ce7c97ab9210/nutren-active-700g-embalagem-economica-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:24:52.518Z",
+      "verification_etag_or_digest": "4702c2eb8efe6356468967a56eb4aaaa6e4a57079c6007168a96ce7c97ab9210",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-active-baunilha-400g-oficial.webp",
+      "local_url": "/images/reviews/nutren/nutren-active-baunilha-400g-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64240,
+      "sha256": "e3a05b391a7cadfdba9d80a32851d097097ef5508d210f0fc6a7ba037c1894fe",
+      "width": 613,
+      "height": 804,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-active-baunilha-400g-oficial.webp",
+      "storage_filename": "nutren-active-baunilha-400g-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-active-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-active-para-que-serve.json",
+          "line": 76,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-active-baunilha-400g-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 269456,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-active-baunilha-400g-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e3a05b391a7cadfdba9d80a32851d097097ef5508d210f0fc6a7ba037c1894fe/nutren-active-baunilha-400g-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e3a05b391a7cadfdba9d80a32851d097097ef5508d210f0fc6a7ba037c1894fe/nutren-active-baunilha-400g-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:24:52.518Z",
+      "verification_etag_or_digest": "e3a05b391a7cadfdba9d80a32851d097097ef5508d210f0fc6a7ba037c1894fe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-active-para-que-serve-capa.webp",
+      "local_url": "/images/reviews/nutren/nutren-active-para-que-serve-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89686,
+      "sha256": "9e59e1fb6a21f9f155b177bd19fe5098fd2e5dbd208336bc63f099939270c85b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-active-para-que-serve-capa.webp",
+      "storage_filename": "nutren-active-para-que-serve-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-active-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-active-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-active-para-que-serve-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 269402,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-active-para-que-serve-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9e59e1fb6a21f9f155b177bd19fe5098fd2e5dbd208336bc63f099939270c85b/nutren-active-para-que-serve-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9e59e1fb6a21f9f155b177bd19fe5098fd2e5dbd208336bc63f099939270c85b/nutren-active-para-que-serve-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:24:52.518Z",
+      "verification_etag_or_digest": "9e59e1fb6a21f9f155b177bd19fe5098fd2e5dbd208336bc63f099939270c85b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-fortify-para-que-serve-capa.webp",
+      "local_url": "/images/reviews/nutren/nutren-fortify-para-que-serve-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64380,
+      "sha256": "8fd6e395aae6a52344018ad9af0bf281b4dd0a0c5e105c19f5c96f8dfb1c6a66",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-fortify-para-que-serve-capa.webp",
+      "storage_filename": "nutren-fortify-para-que-serve-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-fortify-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-fortify-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-fortify-para-que-serve-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 268764,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-fortify-para-que-serve-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8fd6e395aae6a52344018ad9af0bf281b4dd0a0c5e105c19f5c96f8dfb1c6a66/nutren-fortify-para-que-serve-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8fd6e395aae6a52344018ad9af0bf281b4dd0a0c5e105c19f5c96f8dfb1c6a66/nutren-fortify-para-que-serve-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:24:52.518Z",
+      "verification_etag_or_digest": "8fd6e395aae6a52344018ad9af0bf281b4dd0a0c5e105c19f5c96f8dfb1c6a66",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-fortify-sem-sabor-360g-oficial.webp",
+      "local_url": "/images/reviews/nutren/nutren-fortify-sem-sabor-360g-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65340,
+      "sha256": "276e8ca7998c7be62136111026274ab9284260865e9cfc278f0f8ecad810b475",
+      "width": 774,
+      "height": 768,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-fortify-sem-sabor-360g-oficial.webp",
+      "storage_filename": "nutren-fortify-sem-sabor-360g-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-fortify-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-fortify-para-que-serve.json",
+          "line": 73,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-fortify-sem-sabor-360g-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 268815,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-fortify-sem-sabor-360g-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/276e8ca7998c7be62136111026274ab9284260865e9cfc278f0f8ecad810b475/nutren-fortify-sem-sabor-360g-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/276e8ca7998c7be62136111026274ab9284260865e9cfc278f0f8ecad810b475/nutren-fortify-sem-sabor-360g-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T12:24:52.518Z",
+      "verification_etag_or_digest": "276e8ca7998c7be62136111026274ab9284260865e9cfc278f0f8ecad810b475",
+      "verification_status": "verified"
     }
   ]
 }

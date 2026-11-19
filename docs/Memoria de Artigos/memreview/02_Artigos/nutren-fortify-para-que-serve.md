@@ -162,3 +162,12 @@ Sem quadro "Leve se / Passe se": a decisão de usar não é do leitor sozinho.
 
 - **19/11/2026, revisão do Job 1:** portões, sobreposição e esqueleto conferidos; liberado para a redação. O preço com o `CECI` vai em primeiro plano, e todo valor com o código não testado no carrinho é conferido antes de publicar.
 - **19/11/2026:** GO do Bruno. O ângulo passou de "Fortify ou Senior" para "para que serve", com o Senior em seção (decisão desta sessão, pela busca).
+
+## 12. Redação (19/11)
+
+- **Carrinho:** CECI de 10% na lata avulsa (R$ 108,55) e no combo de 3 (R$ 249,02, R$ 13,83 por porção). Na assinatura, não testado.
+- **Lata de 740 g:** não existe na busca da loja; só a de 360 g, avulsa ou no combo de 3.
+- **Senior Sem Sabor Zero Lactose (página):** 27,5 g, 113 kcal, 10 g de proteína, 3 g de gordura, sem linha de ômega-3. Por 100 g de pó, o Senior tem mais proteína (36 g) que o Fortify (30 g); o texto mostra as duas bases.
+- **Selo "Sem Açúcar" da vitrine** contra 1,5 g de açúcares adicionados na tabela: o texto explica.
+- **Frete:** o cálculo no carrinho não abriu; o texto manda conferir pelo CEP.
+- Revisão independente e parecer externo (docs/auditoria-copy-artigos/nestle-nutre-fase1-20261119-farol) aplicados depois de conferir os fatos na loja. Capa aprovada pelo Bruno.

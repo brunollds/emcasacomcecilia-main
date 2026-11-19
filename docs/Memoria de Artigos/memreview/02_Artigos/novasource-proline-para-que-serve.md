@@ -161,3 +161,11 @@ Sem quadro "Leve se / Passe se".
 - **19/11/2026:** GO do Bruno para a pauta.
 - **19/11/2026, pergunta 1 da seção 9:** "Sim, só rótulo" (Bruno). O artigo entra como ficha de rótulo e conta de preço, com a indicação entre aspas e atribuída, e sem "cicatrização" no título, no subtítulo e no snippet.
 - **Pergunta 2 (regra de publicidade para fórmula enteral):** não conferida. Não trava a redação; se o Bruno quiser, pergunta à Nestlé Nutre.
+
+## 12. Redação (19/11)
+
+- **Carrinho:** CECI de 10% na caixinha avulsa (R$ 17,81), no combo de 10 de baunilha (R$ 158,33), no pó (R$ 107,33) e no litro (R$ 64,88). Na assinatura, não testado.
+- **Caixinha:** a frente diz "Fórmula modificada para nutrição enteral e oral", 1,4 kcal/mL; a lateral, "Usar somente sob orientação médica ou de nutricionista" e "Proibido o uso por via parenteral".
+- **Tabela por sabor:** variam calorias, açúcares adicionados, vitamina C, B1 e colina; o texto mostra as faixas.
+- **Litro:** 1,3 kcal/mL, sem lactose e sem adição de sacarose (descrição); uso com equipo; a tabela da página é ilegível e não entrou.
+- **Parecer externo:** saíram a frase de redução ou aceleração da cicatrização e a faixa de 1 a 3 unidades por dia; "por dose" virou "por formato". Capa aprovada pelo Bruno.
