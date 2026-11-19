@@ -22,10 +22,11 @@ checkout próprio em `seguro.denavita.com.br`, como a Barbour's, também da GoGr
 | Cupom EMCASA: 10% OFF no pedido, cliente novo e antigo | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `denavita`) | 2026-11-19 | 2026-12-01 | `offerUrl` = link da GoGroup (nunca abrir) | Alta |
 | Teste 1: Laranja Moro Morosil, Picolinato de Cromo e Café Verde de R$ 129,90 por R$ 76,90 → "Cupom de desconto" −R$ 7,69 → R$ 69,21 | teste_carrinho | Resumo do checkout, sem identificação | 2026-11-19 | 2026-12-01 | Confirma a soma com o preço promocional | Alta |
 | Teste 2: Jejoom Shot Matinal R$ 94,90 + Trio Magnésio R$ 46,90 + Laranja Moro R$ 76,90 = R$ 218,70 → −R$ 21,87 → R$ 196,83 | teste_carrinho | Resumo do checkout, sem identificação | 2026-11-19 | 2026-12-01 | O carrinho anunciou o "Leve 3, Pague 2" com desconto "na próxima etapa": a soma com o cupom não foi vista | Alta |
-| O cupom entra no resumo antes da identificação (campo "Tem um cupom?", botão "Adicionar") | observacao | Teste no Chrome | 2026-11-19 | 2026-12-01 | A extensão lê o texto do checkout, mas não tira print dele: sem `cartPrint` por enquanto | Alta |
+| Teste 3 (Bruno): carrinho de Leve 3, Pague 2 com o Kit Vida Fit e o Turbo Metabolismo, R$ 199,90 cada; R$ 399,80 → "Desconto (- R$ 39,98)" → R$ 359,82, "em até 12x no cartão"; com o Pix, o desconto se manteve | teste_carrinho | Print do Bruno (no `cartPrint`) e mensagem dele ("E soma com PIX") | 2026-11-19 | 2026-12-01 | Confirma a soma com o Leve 3, Pague 2 e com o Pix | Alta |
+| O cupom entra no resumo antes da identificação (campo "Tem um cupom?", botão "Adicionar") | observacao | Teste no Chrome | 2026-11-19 | 2026-12-01 | A extensão lê o texto do checkout, mas não tira print dele: o print é do Bruno | Alta |
 | Frete grátis a partir de R$ 199,90, com asterisco | condicao_comercial_volatil | Faixa do topo e vitrine | 2026-11-19 | 2026-12-19 | A página `/pages/regras-de-frete-gratis` caiu num erro em 19/11; a página diz "confira no checkout" | Média |
-| Parcelamento: faixa "até 12x no cartão", produto "até 10x", vitrine 3x sem juros | condicao_comercial_volatil | Faixa, página de produto e vitrine | 2026-11-19 | 2026-12-19 | Divergente: a página só diz 3x sem juros na vitrine | Baixa |
-| "Leve 3, Pague 2" no carrinho e "Até 40% OFF em todo o site" na faixa | condicao_comercial_volatil | Gaveta do carrinho e faixa | 2026-11-19 | 2026-12-01 | Soma com o cupom não confirmada (pede identificação): teste do Bruno | Média |
+| Parcelamento: faixa e resumo do checkout "até 12x no cartão", produto "até 10x", vitrine 3x sem juros | condicao_comercial_volatil | Faixa, checkout, página de produto e vitrine | 2026-11-19 | 2026-12-19 | A página diz "até 12x", como o checkout, sem falar de juros | Média |
+| "Leve 3, Pague 2" no carrinho e "Até 40% OFF em todo o site" na faixa | condicao_comercial_volatil | Gaveta do carrinho e faixa | 2026-11-19 | 2026-12-01 | Soma com o cupom: confirmada no teste 3 | Alta |
 | Cupom próprio de primeira compra (10%) e roleta de cupom no pop-up | condicao_comercial_volatil | Página de produto e pop-up | 2026-11-19 | 2026-12-19 | Não citar | Alta |
 
 ---
@@ -58,5 +59,6 @@ checkout próprio em `seguro.denavita.com.br`, como a Barbour's, também da GoGr
 | `/images/about/partners/denavita.png` | Logo SVG colorido do header do site (`Logo-Colorida.svg`, baixado em 2026-11-19), em dois verdes, centrado em 256 × 256 sobre branco | Página da loja, cards, imagem de compartilhamento e `/sobre` | Logo da marca parceira, para divulgação da parceria |
 | `/images/logos/bolinhas/denavita-folhas.png` | Só o símbolo das folhas do mesmo logo, em branco, 512 × 512 transparente, sobre o `background` #54B101 (o verde claro do logo): o logo inteiro, largo e com o slogan, ficava ilegível na bolinha | Bolinha da vitrine e de /reviews | Idem |
 | `/images/logos/watermarks/denavita.webp` | O mesmo logo em preto, 480 px de largura | Marca-d'água da página e dos cards | Idem |
+| `/images/reviews/denavita/cupom-denavita-checkout-com-cupom.webp` | Resumo do checkout do teste 3 de 19/11 (print do Bruno), sem dado pessoal | `cartPrint` em "Como usar" | Próprio |
 
 Para trocar um logo, criar arquivo com nome novo, conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
