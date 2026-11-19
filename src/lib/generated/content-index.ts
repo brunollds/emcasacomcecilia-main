@@ -274151,12 +274151,12 @@ export const reviewsData: unknown[] = [
     "title": "Cupom Pink Cheeks: como aplicar o PNK-EMCASACOMCECILIA no checkout e com o que ele soma",
     "seoTitle": "Como usar o cupom PNK-EMCASACOMCECILIA na Pink Cheeks",
     "type": "Guia & Cupons",
-    "description": "Onde digitar o cupom PNK-EMCASACOMCECILIA na Pink Cheeks, a conta do nosso carrinho, como ele fica com os produtos em promoção e quando o frete sai grátis.",
+    "description": "Veja onde digitar o cupom PNK-EMCASACOMCECILIA na Pink Cheeks, quanto ele descontou no nosso carrinho com um blush em promoção e como conferir o valor do frete.",
     "metaDescription": "O cupom PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks, para cliente novo e antigo. Veja onde digitar no checkout, a conta do teste e o que soma.",
     "image": "/images/reviews/pinkcheeks/cupom-pinkcheeks-como-usar-capa.webp",
     "imageAlt": "Mulher sorrindo com um bastão de blush da Pink Cheeks encostado no rosto, em foto da Pink Cheeks com o logo da marca, os textos «Como aplicar o cupom» e o código PNK-EMCASACOMCECILIA.",
     "cta": {
-      "text": "Abra o site oficial da Pink Cheeks pelo botão, monte o carrinho e clique em “Finalizar pedido”. No resumo, digite PNK-EMCASACOMCECILIA em “Código de desconto ou cartão-presente” e confira a linha Desconto no pedido antes de pagar.",
+      "text": "Monte o carrinho no site da Pink Cheeks e cole PNK-EMCASACOMCECILIA no resumo do pedido. Confira o desconto antes de pagar.",
       "label": "Ir para a Pink Cheeks",
       "url": "https://pinkcheeks.com.br/",
       "sponsored": true
@@ -274177,22 +274177,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom PNK-EMCASACOMCECILIA dá 10% OFF no site da Pink Cheeks, para cliente novo e antigo. Ele entra no checkout, depois do Finalizar pedido: digite o código, com o hífen, em Código de desconto ou cartão-presente e clique em Aplicar. No nosso teste, os 10% entraram também num produto em promoção."
+          "Use PNK-EMCASACOMCECILIA para ter 10% OFF no site da Pink Cheeks, mesmo se você já for cliente. No carrinho, clique em “Finalizar pedido” e cole o código, com o hífen, em “Código de desconto ou cartão-presente”. No nosso teste, os 10% também entraram num blush em promoção."
         ]
       },
       {
         "heading": "Onde digitar o cupom na Pink Cheeks",
         "paragraphs": [
-          "O código entra no fim da compra, no checkout da loja:"
+          "Você pode copiar o código na [página do cupom Pink Cheeks](/cupons/pinkcheeks). No nosso teste, o checkout mostrou o desconto antes de pedir identificação."
         ],
         "bullets": [
           "Na página do produto, clique em “Adicionar ao carrinho”.",
-          "Na gaveta do carrinho, clique em “Finalizar pedido”.",
+          "Abra o carrinho e clique em “Finalizar pedido”.",
           "No resumo do pedido, digite PNK-EMCASACOMCECILIA no campo “Código de desconto ou cartão-presente”, com o hífen depois de PNK, e clique em “Aplicar”.",
           "Confira a linha “Desconto no pedido”, com o valor abatido, antes de pagar."
         ],
         "postParagraphs": [
-          "A gaveta do carrinho tem também um campo “Cupom”, mas o caminho que conferimos foi o do checkout. No nosso teste, o checkout abriu sem login, e dá para ver o desconto antes de se identificar."
+          "O carrinho também mostra um campo “Cupom”. O passo a passo acima segue a tela que testamos, no resumo do checkout."
         ],
         "images": [
           {
@@ -274204,12 +274204,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quanto o código tira: a conta do nosso carrinho",
+        "heading": "Quanto o cupom descontou no nosso teste",
         "paragraphs": [
-          "O código tirou 10% do subtotal, inclusive do item que já estava em promoção. Conta nossa, pelo carrinho do teste: um Pó Translúcido Sport Powder FPS30, a preço cheio, e um Blush All In One FPS30 na cor Terracota, com preço promocional."
+          "Em 19/11, colocamos no carrinho um pó translúcido pelo preço cheio e um blush Terracota em promoção. O cupom deu 10% sobre os dois produtos."
         ],
         "comparisonTable": {
-          "caption": "Carrinho do teste no site oficial em 19/11, antes do frete.",
+          "caption": "Carrinho testado no site oficial, antes do frete.",
           "headers": [
             "Linha do carrinho",
             "Valor"
@@ -274232,7 +274232,7 @@ export const reviewsData: unknown[] = [
               "− R$ 16,98"
             ],
             [
-              "Total",
+              "Produtos com o cupom",
               "R$ 152,82"
             ]
           ]
@@ -274250,16 +274250,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Promoção e Pix: o que somou no teste",
         "paragraphs": [
-          "Somou com a promoção no nosso teste: os 10% saíram sobre um carrinho que já tinha o blush pelo preço promocional. Foi um carrinho só, então confira a linha Desconto no pedido no seu.",
-          "Com o Pix escolhido no checkout, o código seguiu aplicado e o total não mudou. A loja não dá desconto próprio no Pix, então o que vale é a linha do código. Para a Black Friday da loja, veja [como o código entra nas ofertas](/reviews/black-friday-pinkcheeks)."
+          "O desconto continuou aplicado quando selecionamos Pix no checkout. Nessa simulação, o valor dos produtos ficou igual.",
+          "Para ver o que a loja anuncia nos kits, leia o [guia da Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks)."
         ]
       },
       {
-        "heading": "Frete e pagamento: olhe o total entregue",
+        "heading": "Como conferir o frete antes de pagar",
         "paragraphs": [
-          "A loja informa: o frete é grátis na Entrega Normal quando uma única compra chega a R$ 199; a Entrega Expressa tem valor e prazo calculados no checkout. No resumo do teste, a linha do frete pedia o endereço de entrega antes de mostrar o valor.",
-          "O carrinho do teste, com dois itens, ficou abaixo dos R$ 199. Antes de decidir quanto levar, informe o CEP e compare o total entregue, produtos mais frete.",
-          "Na página de formas de pagamento, a loja lista cartão em até 5x sem juros, débito e Pix pelo Mercado Pago, e PayPal."
+          "A [regra de frete da Pink Cheeks](https://pinkcheeks.com.br/pages/regras-de-frete) informa entrega Normal grátis em compras a partir de R$ 199. Na página inicial, a loja também anuncia frete grátis acima de três itens. Confira com seu CEP quanto fica a entrega depois de aplicar o cupom.",
+          "A Entrega Expressa tem valor e prazo no checkout. Na [página de pagamentos](https://pinkcheeks.com.br/pages/formas-de-pagamento), a loja lista cartão de crédito em até 5 vezes sem juros, débito e Pix, pelo Mercado Pago e pelo PayPal."
         ]
       },
       {
@@ -274270,18 +274269,18 @@ export const reviewsData: unknown[] = [
           "**A loja.** O código é do site oficial, pinkcheeks.com.br. Se a busca for por Mercado Livre ou Shopee, o código continua sendo do site da marca."
         ],
         "postParagraphs": [
-          "Se a linha Desconto no pedido não aparecer, não pague. As condições e a data do último teste ficam na página do [cupom Pink Cheeks](/cupons/pinkcheeks). Para avisar a gente, use o [contato do site](/contato).",
-          "O código vale para quem nunca comprou e para quem já comprou. Para o primeiro pedido, o roteiro está em [cupom da Pink Cheeks na primeira compra](/reviews/cupom-pinkcheeks-primeira-compra); o que reunimos sobre a loja, em [Pink Cheeks é confiável?](/reviews/pinkcheeks-e-confiavel)."
+          "Se a linha “Desconto no pedido” não aparecer, confira as [condições do cupom Pink Cheeks](/cupons/pinkcheeks) antes de pagar.",
+          "Se é sua primeira compra, veja [quem vende, como a loja entrega e como funcionam as trocas](/reviews/pinkcheeks-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Onde coloco o cupom na Pink Cheeks? No checkout, depois de clicar em “Finalizar pedido” no carrinho: digite o código, com o hífen, em “Código de desconto ou cartão-presente” e clique em “Aplicar”. A linha “Desconto no pedido” confirma.",
+          "Onde coloco o cupom na Pink Cheeks? Clique em “Finalizar pedido”, cole PNK-EMCASACOMCECILIA em “Código de desconto ou cartão-presente” e confira a linha “Desconto no pedido”.",
           "O cupom soma com produto em promoção? No nosso teste, somou: os 10% entraram sobre um carrinho com um blush em promoção. Confira a linha Desconto no pedido no seu carrinho.",
           "O cupom vale para quem já é cliente? Vale. O código serve para cliente novo e antigo.",
           "O cupom vale no Mercado Livre ou na Shopee? O código é do site oficial da Pink Cheeks, pinkcheeks.com.br, e é lá que ele entra.",
-          "Qual o frete grátis da Pink Cheeks? A Entrega Normal é grátis em uma única compra a partir de R$ 199, segundo a loja. A Expressa tem valor e prazo no checkout; veja o capítulo do frete."
+          "Qual é o frete grátis da Pink Cheeks? A página de frete informa entrega Normal grátis a partir de R$ 199. A faixa da página inicial anuncia frete grátis acima de três itens. Confira com seu CEP no checkout."
         ]
       }
     ]
@@ -274309,15 +274308,15 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "PNK-EMCASACOMCECILIA",
     "affiliate": "pinkcheeks",
-    "title": "Black Friday Pink Cheeks 2026: os kits em promoção, a oferta do dia e como o cupom entra",
-    "seoTitle": "Black Friday Pink Cheeks 2026: kits e o cupom de 10%",
+    "title": "Black Friday Pink Cheeks 2026: o que vem nos kits e onde o cupom deu 10%",
+    "seoTitle": "Black Friday Pink Cheeks 2026: preços de kits e avulsos",
     "type": "Guia de Black Friday",
-    "description": "O que está na Black Friday da Pink Cheeks, dos kits de esporte à oferta do dia, quanto fica com o PNK-EMCASACOMCECILIA e quando o frete sai grátis, pela regra da loja.",
-    "metaDescription": "Na Black Friday da Pink Cheeks, o PNK-EMCASACOMCECILIA dá 10% OFF e, no teste, entrou em produto em promoção. Veja o que está na campanha e o frete.",
+    "description": "Compare os kits da Black Friday da Pink Cheeks pelo que vem em cada um. Veja os preços dos avulsos, em qual promoção o PNK-EMCASACOMCECILIA entrou e como conferir o frete.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Na Black Friday, o cupom entrou no blush em promoção. Compare os preços dos kits.",
     "image": "/images/reviews/pinkcheeks/black-friday-pinkcheeks-capa.webp",
     "imageAlt": "Bastão de blush, bastão protetor antioleosidade FPS 99 e spray antiatrito Redless, itens de kit de corrida, em foto da Pink Cheeks com o logo da marca, os textos «Black Friday O que entra» e o código PNK-EMCASACOMCECILIA.",
     "cta": {
-      "text": "Se a campanha fizer sentido para a sua compra, abra o site oficial da Pink Cheeks pelo botão, clique em “Finalizar pedido” e digite PNK-EMCASACOMCECILIA em “Código de desconto ou cartão-presente”.",
+      "text": "Veja os preços atuais na loja. Se decidir comprar, aplique PNK-EMCASACOMCECILIA e confira o desconto e o frete antes de pagar.",
       "label": "Ir para a Pink Cheeks",
       "url": "https://pinkcheeks.com.br/",
       "sponsored": true
@@ -274338,21 +274337,71 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Pink Cheeks está em Black Friday no site, com kits que a loja anuncia com até 50% OFF e uma oferta por dia. O PNK-EMCASACOMCECILIA dá 10% OFF e, no nosso teste, entrou também num produto em promoção. O frete grátis segue a regra da loja; veja abaixo a campanha e a conta."
+          "Na Black Friday da Pink Cheeks, o cupom PNK-EMCASACOMCECILIA deu mais 10% OFF no blush que já estava em promoção no nosso teste. Para escolher entre os kits Natação, Speedo e Performance II, veja o que vem em cada um e o preço anunciado. O desconto adicional nos kits segue sem teste."
         ]
       },
       {
-        "heading": "O que está na Black Friday da Pink Cheeks",
+        "heading": "Kits Natação, Speedo e Performance II: o que vem em cada um",
         "paragraphs": [
-          "A loja informa: a home traz “Black Friday” no menu e na faixa do topo, os kits com “até 50% OFF” e o selo da campanha nos cards. Os bastões, os pós e o protetor corporal avulsos estavam todos no mesmo preço, que está na tabela.",
-          "Os kits seguem o público da marca, quem treina: há kits por esporte, como corrida, natação, yoga e performance, o kit da linha Speedo e kits assinados por influenciadoras. Kit vale quando você já ia levar os itens dele; se só um interessa, compare com o avulso na tabela."
+          "Natação e Speedo têm o mesmo protetor facial e o leave-in Speedo. O terceiro item muda: shampoo em pó no Natação e bastão antiatrito no Speedo. Se você quer protetor facial e corporal no mesmo kit, compare o Performance II."
         ],
         "comparisonTable": {
-          "caption": "Conta nossa, sem frete: preços da vitrine em 19/11 e, na última coluna, 10% sobre esse preço. Nos kits, o centavo final pode variar no checkout.",
+          "caption": "Preços anunciados pela Pink Cheeks em 19/11, antes do frete.",
+          "headers": [
+            "Kit",
+            "O que vem",
+            "Preço na vitrine"
+          ],
+          "rows": [
+            [
+              "Natação",
+              "Protetor facial Speedo, leave-in Swim Speedo e shampoo em pó",
+              "R$ 134,85"
+            ],
+            [
+              "Speedo",
+              "Protetor facial Speedo, leave-in Swim Speedo e antiatrito em bastão Speedo",
+              "R$ 137,35"
+            ],
+            [
+              "Performance II",
+              "Protetor bifásico, Pink Stick e Redless em bastão",
+              "R$ 174,85"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se você levaria os três itens, compare o preço do kit com os mesmos produtos avulsos. O Natação custa R$ 2,50 a menos que o Speedo nesta leitura. A escolha entre eles depende de qual terceiro item você usaria."
+        ],
+        "links": [
+          {
+            "label": "Ver Kit Natação na Pink Cheeks",
+            "href": "https://pinkcheeks.com.br/products/kit-natacao",
+            "sponsored": true
+          },
+          {
+            "label": "Ver Kit Speedo na Pink Cheeks",
+            "href": "https://pinkcheeks.com.br/products/kit-speedo",
+            "sponsored": true
+          },
+          {
+            "label": "Ver Kit Performance II na Pink Cheeks",
+            "href": "https://pinkcheeks.com.br/products/kit-performance-ii",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Protetores e blush avulsos: quanto ficariam com o cupom",
+        "paragraphs": [
+          "Pink Stick, Pro Stick e Shield 45 g tinham o mesmo preço na vitrine. Se quer só um protetor facial, compare a cobertura do [Pink Stick e do Pro Stick](/reviews/pinkcheeks-e-boa). O Shield da tabela é corporal."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da mesma leitura. Última coluna calculada com 10% antes do frete.",
           "headers": [
             "Produto",
             "Preço na vitrine",
-            "Com o código (10%)"
+            "Estimativa com o código"
           ],
           "rows": [
             [
@@ -274379,27 +274428,9 @@ export const reviewsData: unknown[] = [
               "Pro Cream FPS96, 14 g",
               "a partir de R$ 64,90",
               "a partir de R$ 58,41"
-            ],
-            [
-              "Kit Natação",
-              "R$ 134,85",
-              "R$ 121,37"
-            ],
-            [
-              "Kit Speedo",
-              "R$ 137,35",
-              "R$ 123,62"
-            ],
-            [
-              "Kit Performance II",
-              "R$ 174,85",
-              "R$ 157,37"
             ]
           ]
         },
-        "postParagraphs": [
-          "O FPS de cada item é o do rótulo. A coluna do código é só a conta de 10% sobre o preço da vitrine: o valor final aparece na linha Desconto no pedido do checkout."
-        ],
         "images": [
           {
             "src": "/images/reviews/pinkcheeks/black-friday-pinkcheeks-blush-pilha.webp",
@@ -274413,28 +274444,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A oferta do dia",
         "paragraphs": [
-          "A home destaca um produto com contagem regressiva, a “oferta do dia”. Quando lemos, o destaque era o Protetor Corporal Shield, e a loja mostra uma oferta por dia.",
-          "Como o produto e o preço mudam, este guia não promete nenhum deles. Se a compra for pela oferta do dia, abra a home no dia em que for fechar o carrinho e confira o preço lá."
+          "Na leitura, a vitrine trazia um contador na oferta do Protetor Corporal Shield. Se veio pela oferta do dia, confira na página inicial qual produto está em destaque e o preço no carrinho."
         ]
       },
       {
-        "heading": "O cupom soma com a Black Friday?",
+        "heading": "Onde o cupom deu 10% sobre a promoção",
         "paragraphs": [
-          "No nosso teste, somou. O carrinho com o Pó Translúcido a preço cheio e o Blush All In One em promoção foi de R$ 169,80 para R$ 152,82, e os 10% saíram sobre o preço promocional do blush.",
-          "O teste foi com o blush, e não com um kit. No kit, confira a linha Desconto no pedido antes de pagar."
+          "No carrinho do teste, um pó translúcido a preço cheio e um blush Terracota em promoção somavam R$ 169,80. O PNK-EMCASACOMCECILIA tirou R$ 16,98 sobre os dois itens. Com o código, os produtos ficaram em R$ 152,82, antes do frete."
         ]
       },
       {
         "heading": "Frete na Black Friday",
         "paragraphs": [
-          "Duas regras aparecem na loja. A página de regras de frete diz que a Entrega Normal é grátis em uma única compra a partir de R$ 199, e a Expressa tem valor e prazo no checkout.",
-          "Na home de 19 de novembro, a faixa do topo dizia “Frete grátis nas compras acima de 3 itens”. É regra de campanha, sem página que a explique. Como as duas não dizem a mesma coisa, o que vale é o carrinho: veja se o frete zerou antes de pagar."
+          "A [regra de frete da Pink Cheeks](https://pinkcheeks.com.br/pages/regras-de-frete) informa entrega Normal grátis em compras a partir de R$ 199. Na página inicial, a loja também anuncia frete grátis acima de três itens. Confira com seu CEP quanto fica a entrega depois de aplicar o cupom."
         ]
       },
       {
         "heading": "Até quando vai a Black Friday da Pink Cheeks",
         "paragraphs": [
-          "A loja não publicou data de fim nem regulamento: a [página da campanha](https://pinkcheeks.com.br/pages/black-friday) é só de acesso antecipado. A Black Friday cai em 27 de novembro, e a home da loja é o lugar de conferir kits, oferta do dia e frete no dia em que você for comprar."
+          "A loja ainda não informava uma data de fim nas páginas que consultamos. A [página inicial da Pink Cheeks](https://pinkcheeks.com.br/) mostra os kits que estão em destaque no dia da compra."
         ]
       },
       {
@@ -274451,10 +274479,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Friday da Pink Cheeks já começou? Sim, a campanha está no ar no site da loja, com kits, oferta do dia e selo de Black Friday nos produtos. A loja não publicou data de fim.",
-          "O cupom vale nos kits em promoção? O PNK-EMCASACOMCECILIA dá 10% OFF no pedido e, no nosso teste, entrou num produto em promoção. O teste não foi com kit: confira a linha Desconto no pedido antes de pagar.",
-          "Tem frete grátis na Black Friday da Pink Cheeks? A página de regras de frete traz a Entrega Normal grátis a partir de R$ 199, em uma única compra. A faixa da home falava em compras acima de 3 itens; veja o capítulo do frete e confira no carrinho.",
-          "Até quando vai a Black Friday da Pink Cheeks? A loja não divulgou a data de fim. Abra a home no dia da compra para ver o que está no ar."
+          "A Black Friday da Pink Cheeks já começou? A vitrine consultada já anunciava a Black Friday e mostrava kits em promoção. Consulte a página inicial para ver os itens disponíveis.",
+          "O cupom Pink Cheeks vale nos kits de Black Friday? Confirmamos 10% OFF com PNK-EMCASACOMCECILIA num carrinho com um blush em promoção. O desconto nos kits depende do que aparecer no checkout.",
+          "Qual é o frete grátis da Pink Cheeks? A página de frete informa entrega Normal grátis a partir de R$ 199. A faixa da página inicial anuncia frete grátis acima de três itens. Confira com seu CEP no checkout.",
+          "Até quando vai a Black Friday da Pink Cheeks? As páginas consultadas não informavam a data de fim da campanha. Consulte a vitrine da marca antes de comprar."
         ]
       }
     ],
@@ -274483,15 +274511,15 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "PNK-EMCASACOMCECILIA",
     "affiliate": "pinkcheeks",
-    "title": "Pink Cheeks é boa? O protetor solar pelo que o rótulo e a página informam",
-    "seoTitle": "Pink Cheeks é boa? Protetor solar pelo rótulo",
+    "title": "Pink Cheeks é boa? Como escolher entre Pink Stick, Pro Stick e Clear Stick",
+    "seoTitle": "Pink Cheeks é boa? Pink Stick, Pro Stick e Clear Stick",
     "type": "Guia de Marca",
-    "description": "O que o rótulo do Pink Stick, do Pro Stick e do antiatrito da Pink Cheeks informa, as nove cores do bastão e para quem a marca faz sentido, sem teste de uso.",
-    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Veja o que o rótulo do Pink Stick, do Pro Stick e do antiatrito informa e para quem faz sentido.",
+    "description": "Compare o acabamento, o FPS e os preços do Pink Stick, do Pro Stick e do Clear Stick. Veja as amostras de cor da marca e como conferir os ingredientes antes de escolher.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Compare Pink Stick, Pro Stick e Clear Stick por cobertura, FPS e preço.",
     "image": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-capa.webp",
     "imageAlt": "Pink Stick 21 KM em pé, com a amostra da cor, em foto da Pink Cheeks com o logo da marca, os textos «Pink Stick: é bom?» e o código PNK-EMCASACOMCECILIA.",
     "cta": {
-      "text": "Se a Pink Cheeks faz sentido para a sua compra, abra o site oficial pelo botão, adicione o produto ao carrinho, clique em “Finalizar pedido” e digite PNK-EMCASACOMCECILIA no campo “Código de desconto ou cartão-presente”.",
+      "text": "Confira o acabamento e o tom na Pink Cheeks. No checkout, aplique PNK-EMCASACOMCECILIA e confira os 10% OFF.",
       "label": "Ir para a Pink Cheeks",
       "url": "https://pinkcheeks.com.br/",
       "sponsored": true
@@ -274510,62 +274538,58 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você treina ao ar livre e quer um protetor com cor em bastão.",
-        "Você quer escolher o tom pelas amostras da loja, com a opção incolor."
+        "Você quer cobertura leve em bastão e encontrou um tom do Pink Stick que combina com sua pele.",
+        "Você prefere comparar os acabamentos antes de comprar. O Pro Stick tem alta cobertura e o Clear Stick é transparente."
       ],
       "skipIf": [
-        "Você evita fragrância: a lista de ingredientes do Pink Stick traz perfume, limoneno e linalol.",
-        "Você procura um protetor para o corpo todo, e não um bastão para o rosto."
+        "Você evita fragrância. A ficha do Pink Stick 21 KM lista perfume, limoneno e linalol.",
+        "Você procura um protetor para o corpo todo. Compare os formatos da linha corporal."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Pink Cheeks é uma marca brasileira de proteção solar para esporte, e o Pink Stick faz sentido para quem treina ao ar livre e quer protetor com cor em bastão. O rótulo informa FPS 90, FPUVA 70 e resistência à água e ao suor por 2 horas. Pesam na escolha as cores e o perfume; veja abaixo."
+          "Se você quer protetor facial em bastão, a escolha na Pink Cheeks começa pelo acabamento. O Pink Stick tem cobertura leve, o Pro Stick tem alta cobertura e o Clear Stick é transparente. A ficha do Pink Stick informa FPS 90, FPUVA 70 e perfume na fórmula. Compare os tons nas amostras da loja."
         ]
       },
       {
-        "heading": "O que é a Pink Cheeks",
+        "heading": "Antes de escolher o bastão",
         "paragraphs": [
-          "A Pink Cheeks é uma marca de proteção solar feita para quem treina. A loja informa: nascida no esporte há mais de uma década, criada por atletas para pessoas reais.",
-          "A empresa é a Pink Cheeks Comércio de Cosméticos, de Leme (SP). O catálogo vai de proteção solar a maquiagem com FPS, antiatrito, cabelos e kits. Quem quer conferir a empresa e a reputação antes de comprar encontra tudo em [Pink Cheeks é confiável?](/reviews/pinkcheeks-e-confiavel)."
+          "Comece pelo acabamento que você quer usar no rosto. Se prefere evitar fragrância, veja a lista de ingredientes da versão que pretende comprar. Para saber quem vende e como são as trocas, leia [Pink Cheeks é confiável?](/reviews/pinkcheeks-e-confiavel)."
         ]
       },
       {
-        "heading": "O Pink Stick pelo rótulo",
+        "heading": "Pink Stick: o que o rótulo informa",
         "paragraphs": [
-          "O Pink Stick é o bastão facial com cor da marca, com FPS alto e resistência à água e ao suor declarados. O rótulo informa:"
+          "O Pink Stick 21 KM é um protetor facial em bastão com cor. A ficha informa FPS 90, FPUVA 70 e filtros orgânicos e inorgânicos."
         ],
         "bullets": [
-          "FPS 90 e FPUVA 70;",
-          "filtro de amplo espectro que une filtros orgânicos e inorgânicos, ou seja, os dois tipos;",
-          "resistência à água e ao suor comprovada durante 2 horas, com reaplicação a cada 2 horas, depois de suor intenso ou de água;",
-          "cobertura leve, acabamento natural e vitamina E;",
-          "número da Anvisa na página: 25351.691738/2015-76."
+          "Segundo a ficha, a resistência à água e ao suor é de até duas horas. Siga a orientação de reaplicação da embalagem, inclusive após nadar, suar muito ou secar o rosto com toalha.",
+          "A lista de ingredientes traz perfume, limoneno e linalol. Vale conferir a composição antes de escolher o tom.",
+          "Para localizar o produto pelo número do processo, veja [como consultar o Pink Stick na Anvisa](/reviews/pinkcheeks-e-confiavel)."
         ],
         "postParagraphs": [
-          "Dois avisos mudam a compra. A lista de ingredientes traz perfume, limoneno e linalol, então quem evita fragrância deve ler a lista completa na página antes de pagar. E o rótulo avisa que o produto não protege contra insolação e pede um médico antes do uso em criança menor de 6 meses. Na dúvida, um dermatologista."
+          "A embalagem avisa que o protetor não protege contra insolação e orienta consultar um médico antes do uso em crianças menores de seis meses."
         ]
       },
       {
-        "heading": "As cores: do 5 KM ao 100 KM ULTRA",
+        "heading": "Como comparar os tons do Pink Stick",
         "paragraphs": [
-          "São nove tonalidades, do 5 KM ao 100 KM ULTRA, incluindo uma incolor. Os nomes vêm da corrida, esporte de origem da marca: o número é a distância. A página do produto tem ainda o recurso “Prove virtualmente”, para ver as cores antes de escolher.",
-          "As fotos da loja, abaixo, mostram do 10 KM ao 100 KM e a incolor. Para escolher, compare as amostras com o seu tom e use o “Prove virtualmente”."
+          "Os tons usam nomes de distâncias de corrida, como 10 KM e 42 KM. Veja as amostras em braços e rostos nas fotos da marca. Na ficha, o botão “Prove virtualmente” ajuda a comparar as versões. Confirme o nome do tom escolhido antes de fechar o pedido."
         ],
         "images": [
           {
             "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
-            "alt": "Amostras das cores do Pink Stick, de 10 KM a 100 KM, riscadas em dois braços, em foto da Pink Cheeks",
-            "caption": "As cores do Pink Stick, de 10 KM a 100 KM, em dois braços. Foto: Pink Cheeks.",
+            "alt": "Amostras de tons do Pink Stick em dois braços, em foto da Pink Cheeks.",
+            "caption": "Amostras do Pink Stick em dois tons de pele. Foto da Pink Cheeks.",
             "objectFit": "contain",
             "aspectRatio": 1
           },
           {
             "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
             "alt": "Oito rostos com o Pink Stick, cada um com o nome da cor, de 10 KM a 100 KM, e um rosto com a indicação INCOLOR, em foto da Pink Cheeks",
-            "caption": "As mesmas cores no rosto, com o nome de cada uma, e a incolor. Foto: Pink Cheeks.",
+            "caption": "Amostras no rosto e a versão incolor, identificadas pela Pink Cheeks.",
             "objectFit": "contain",
             "aspectRatio": 1
           }
@@ -274574,68 +274598,60 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pink Stick, Pro Stick ou Clear Stick",
         "paragraphs": [
-          "Os três são protetores em bastão, e o que muda é a cobertura: leve, alta ou nenhuma."
+          "Compare o acabamento que a loja informa para cada bastão. Os preços são de 19/11 e a coluna com cupom é uma estimativa de 10% sobre o preço publicado."
         ],
         "comparisonTable": {
-          "caption": "Dados da loja e preços do site em 19 de novembro de 2026, sem frete. A coluna do código é conta nossa: 10% sobre o preço publicado.",
+          "caption": "Preço por bastão antes do frete.",
           "headers": [
-            "Linha",
-            "FPS",
-            "Cobertura e cor",
+            "Linha e FPS",
+            "Acabamento",
             "Preço no site",
-            "Com o código (10%)"
+            "Com PNK-EMCASACOMCECILIA"
           ],
           "rows": [
             [
-              "Pink Stick",
-              "90, com FPUVA 70",
-              "Cobertura leve; 9 tons, uma incolor",
+              "Pink Stick FPS 90",
+              "Cobertura leve",
               "R$ 99,90",
               "R$ 89,91"
             ],
             [
-              "Pro Stick",
-              "96",
-              "Alta cobertura e acabamento mate; tons PRO10 a PRO50",
+              "Pro Stick FPS 96",
+              "Alta cobertura e acabamento mate",
               "R$ 99,90",
               "R$ 89,91"
             ],
             [
-              "Clear Stick",
-              "70",
-              "Transparente, sem cor",
+              "Clear Stick FPS 70",
+              "Transparente",
               "R$ 109,90",
               "R$ 98,91"
             ]
           ]
         },
         "postParagraphs": [
-          "Quem quer cobertura leve e escolhe o tom pela distância fica no Pink Stick. Quem quer cobrir mais, com acabamento mate, olha o Pro Stick, que a loja diz dispensar a base. Quem não quer cor nenhuma vai no Clear Stick.",
-          "A marca tem ainda versões em creme, o fluido FPS 62 em collab com a Manu Cit, a linha Speedo e kits por esporte, entre eles o de natação.",
-          "O [cupom Pink Cheeks](/cupons/pinkcheeks) é o PNK-EMCASACOMCECILIA e dá 10% OFF no site oficial, para cliente novo e antigo; o passo a passo do checkout está em [como usar o cupom da Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
+          "Pink Stick e Pro Stick custavam o mesmo na leitura. Para decidir entre os dois, veja quanta cobertura você quer. O Clear Stick é a opção transparente desta comparação.",
+          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial."
         ]
       },
       {
-        "heading": "Antiatrito e cabelos",
+        "heading": "Antiatrito: bastão, spray ou creme",
         "paragraphs": [
-          "Treino longo tem o problema do atrito, como o do top e o da fita do frequencímetro. A linha Redless é a resposta da loja para isso, em bastão de 18 g, spray de 35 ml e 75 ml e creme de 100 g, com preços de R$ 52,90 a R$ 69,90 no site.",
-          "Para o cabelo, a loja vende leave-in pré-treino e um shampoo em pó 3 em 1. Se você treina na rua e só quer proteger o rosto, esses itens ficam para depois."
+          "Na linha Redless, a Pink Cheeks oferece bastão de 18 g, spray de 35 ml ou 75 ml e creme de 100 g. Se procura a linha por causa do atrito da roupa ou do equipamento, compare a forma de aplicação e o tamanho na ficha de cada versão."
         ]
       },
       {
-        "heading": "Para quem faz sentido",
+        "heading": "Protetor facial ou corporal",
         "paragraphs": [
-          "A marca foi desenhada para quem treina: corrida, natação e treino ao ar livre. O Pink Stick serve a quem quer proteger o rosto com cor, em bastão.",
-          "Para pele oleosa ou com acne, a loja indica o protetor antioleosidade e antiacne, de 18 g, e a home informa FPS 99 e FPUVA 45 nele. Se vai servir à sua pele, quem responde é um dermatologista.",
-          "Quem procura protetor para o corpo todo olha a linha corporal da marca, como o Shield FPS60 e o bifásico FPS57, e não o bastão do rosto."
+          "Para comparar opções para o corpo, veja as fichas do Shield FPS 60 e do bifásico FPS 57. Para o rosto, a loja também vende um bastão descrito como antioleosidade. Se você tem acne ou sensibilidade e está em dúvida sobre a fórmula, converse com um dermatologista."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O protetor da Pink Cheeks é físico ou químico? A página do Pink Stick informa que o filtro é de amplo espectro e une filtros orgânicos e inorgânicos, ou seja, os dois tipos.",
-          "O Pink Stick é resistente à água? A loja informa resistência à água e ao suor comprovada durante 2 horas, com reaplicação a cada 2 horas, depois de suor intenso ou de água.",
-          "Qual a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90 e cobertura leve; o Pro Stick tem FPS 96, alta cobertura e acabamento mate. As contas estão no quadro do capítulo dos bastões.",
+          "O Pink Stick é resistente à água? A ficha informa resistência à água e ao suor por até duas horas. Consulte a embalagem para ver quando reaplicar, inclusive após nadar ou suar muito.",
+          "Qual é a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90 e cobertura leve. O Pro Stick tem FPS 96, alta cobertura e acabamento mate.",
           "O protetor Pink Cheeks é bom para pele oleosa? A indicação da loja para pele oleosa é o protetor antioleosidade e antiacne. Se ele serve à sua pele, quem responde é um dermatologista."
         ]
       }
@@ -274664,15 +274680,15 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "PNK-EMCASACOMCECILIA",
     "affiliate": "pinkcheeks",
-    "title": "Pink Cheeks é confiável? Quem vende, de onde é, Reclame Aqui e trocas",
+    "title": "Pink Cheeks é confiável? Quem vende, nota no Reclame Aqui e trocas",
     "seoTitle": "Pink Cheeks é confiável? CNPJ, Reclame Aqui e trocas",
     "type": "Editorial",
-    "description": "Quem vende a Pink Cheeks, de onde é a marca, o que o Reclame Aqui e o número da Anvisa no rótulo mostram e como funcionam as trocas no site oficial da loja.",
-    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Antes, veja quem vende, de onde é a marca, o Reclame Aqui, a Anvisa no rótulo e as trocas.",
+    "description": "Confira quem vende no site da Pink Cheeks, o recorte do Reclame Aqui, como consultar o processo do Pink Stick na Anvisa e onde pedir devolução ou falar com o SAC.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Veja quem vende, a nota no Reclame Aqui e onde pedir devolução ou acionar o SAC.",
     "image": "/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-capa.webp",
     "imageAlt": "Pó translúcido Sport Powder sobre pó espalhado, em foto da Pink Cheeks com o logo da marca, os textos «É confiável?» e o código PNK-EMCASACOMCECILIA.",
     "cta": {
-      "text": "Se a Pink Cheeks faz sentido para a sua compra, abra o site oficial pelo botão, adicione o produto ao carrinho, clique em “Finalizar pedido” e digite PNK-EMCASACOMCECILIA no campo “Código de desconto ou cartão-presente”.",
+      "text": "Se decidir comprar no site oficial, aplique PNK-EMCASACOMCECILIA no checkout para ter 10% OFF.",
       "label": "Ir para a Pink Cheeks",
       "url": "https://pinkcheeks.com.br/",
       "sponsored": true
@@ -274693,57 +274709,54 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Pink Cheeks é uma marca brasileira, com CNPJ e endereço em Leme (SP) no site. Tem reputação Boa no Reclame Aqui, de maio a outubro de 2026, número da Anvisa no rótulo e troca por arrependimento em até 7 dias. O rodapé não diz quem é o dono da marca; veja o capítulo da Manu Cit."
+          "O site da Pink Cheeks identifica a empresa responsável pela venda, com CNPJ e endereço em Leme (SP). No Reclame Aqui, a loja teve nota 7,7 e reputação Boa de maio a outubro de 2026. Antes de comprar, veja como pedir devolução e qual canal atende se o produto chegar com defeito."
         ]
       },
       {
         "heading": "Quem vende e de onde é",
         "paragraphs": [
-          "Antes de pagar numa loja online, vale olhar o rodapé. O da Pink Cheeks traz a razão social PINK CHEEKS COMERCIO DE COSMETICOS LTDA, o CNPJ 23.713.072/0001-81 e o endereço Rua Jambeiro Costa, 2885, Distrito Industrial, Leme (SP).",
-          "A loja informa: nascida no esporte há mais de uma década, a marca foi criada por atletas para pessoas reais. O catálogo vai de protetor solar a maquiagem com FPS, antiatrito, cabelos e kits. Para conferir o CNPJ, é só digitá-lo na consulta pública da Receita Federal."
+          "A empresa que vende no site é a Pink Cheeks Comércio de Cosméticos Ltda. No rodapé constam o CNPJ 23.713.072/0001-81 e o endereço Rua Jambeiro Costa, 2885, Distrito Industrial, Leme (SP).",
+          "A Pink Cheeks vende proteção solar, maquiagem com FPS e produtos antiatrito e para os cabelos."
         ]
       },
       {
-        "heading": "De quem é a marca? E a Manu Cit?",
+        "heading": "De quem é a Pink Cheeks?",
         "paragraphs": [
-          "O que está documentado é a empresa, com razão social e CNPJ no rodapé. Quem é o dono da marca, o rodapé não mostra.",
-          "A Manu Cit aparece na loja como collab: há produtos “by Manu Cit”, como a cera, o protetor fluido e o Duo Stick, e kits “Favoritos da Manu Cit”. Collab e kit dizem que a loja vende algo assinado por ela, não que ela é dona da marca."
+          "A LIVE! comprou 60% da Pink Cheeks em 2026, segundo o [escritório que assessorou a aquisição](https://chambers.com/articles/live-enters-the-beauty-market-through-the-strategic-acquisition-of-pink-cheeks). A própria Pink Cheeks informa em seu site que faz parte do grupo LIVE!.",
+          "Manu Cit assina produtos em colaboração com a Pink Cheeks, como a cera para cabelo e o Duo Stick."
         ]
       },
       {
-        "heading": "O número da Anvisa no rótulo e como conferir",
+        "heading": "Como consultar o Pink Stick na Anvisa",
         "paragraphs": [
-          "A página do Pink Stick traz o número “ANVISA: 25351.691738/2015-76”. Para conferir, copie o número do rótulo ou da página e procure por ele na [consulta de cosméticos da Anvisa](https://consultas.anvisa.gov.br/#/cosmeticos/). Confira se o produto e a empresa que aparecem são os do item que você vai comprar; se não baterem, pergunte à loja.",
-          "O número lido é o da página do Pink Stick. Para outro produto, use o número que está na página ou no rótulo dele."
+          "A [ficha do Pink Stick 42 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-42km) informa o processo 25351.691738/2015-76. A [Resolução-RE nº 4.379](https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&codTipo=&cod_menu=8499&cod_modulo=293&desItem=&desItemFim=&link=S&numeroAto=00004379&orgao=RE%2FGGCOS%2FANVISA%2FMS&seqAto=000&tipo=RES&valorAno=2026) também lista “Pink Stick 42”, em nome de &CO. Indústria e Comércio de Cosméticos, no processo 25351.116479/2026-93, com registro 280880181.",
+          "Para verificar o item que você tem em mãos, use o número da embalagem. Abra a [orientação da Anvisa para consulta de cosméticos](https://www.gov.br/anvisa/pt-br/sistemas/consulta-a-cosmeticos-regularizados), escolha “Produtos registrados” e pesquise pelo número do processo. Confira o nome do produto, o titular e a situação atual."
         ]
       },
       {
         "heading": "A reputação em resumo",
         "paragraphs": [
-          "No Reclame Aqui, a Pink Cheeks tem reputação Boa de maio a outubro de 2026 e respondeu todas as reclamações do semestre. A base é pequena, e os números e as categorias estão em [Pink Cheeks no Reclame Aqui](/reviews/pinkcheeks-reclame-aqui-nota-reputacao).",
-          "O perfil se chama “Pink Cheeks - Comercio De Cosmeticos” e aponta para o site pinkcheeks.com.br."
+          "No [perfil da Pink Cheeks no Reclame Aqui](https://www.reclameaqui.com.br/empresa/pink-cheeks-comercio-de-cosmeticos/), o recorte de maio a outubro mostra nota 7,7 e reputação Boa. Houve 72 reclamações, todas respondidas, e 35 foram avaliadas.",
+          "O [guia da Pink Cheeks no Reclame Aqui](/reviews/pinkcheeks-reclame-aqui-nota-reputacao) mostra os demais indicadores e quais queixas mais aparecem."
         ]
       },
       {
         "heading": "Trocas e devoluções",
         "paragraphs": [
-          "A página de trocas informa os prazos e o caminho:"
+          "A [política da loja](https://pinkcheeks.com.br/policies/refund-policy) indica caminhos diferentes conforme o motivo."
         ],
         "bullets": [
-          "**Arrependimento.** Até 7 dias do recebimento. É o direito de desistir da compra online, previsto no artigo 49 do Código de Defesa do Consumidor.",
-          "**Defeito.** Até 30 dias.",
-          "**Como pedir.** Pelo portal pinkcheeks.troque.app.br, com o e-mail ou o CPF e o número do pedido."
+          "**Desistência da compra online.** O prazo é de sete dias do recebimento, com o produto lacrado e a nota fiscal. A política indica o [portal de trocas e devoluções](https://pinkcheeks.troque.app.br/), com o número do pedido e o e-mail ou CPF da compra, e também o SAC com o Formulário de Qualidade.",
+          "**Defeito de fabricação.** Se o defeito aparecer depois da entrega, a [política da Pink Cheeks](https://pinkcheeks.com.br/policies/refund-policy) dá 30 dias do recebimento para falar com o SAC, por e-mail ou WhatsApp, e preencher o Formulário de Qualidade. Guarde a nota fiscal e fotografe o produto."
         ],
         "postParagraphs": [
-          "Guarde o número do pedido e, se o produto chegar com problema, fotografe o pacote e o produto no dia em que abrir."
+          "O direito de desistir de compras online em sete dias está no [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm#art49)."
         ]
       },
       {
-        "heading": "Onde comprar: site, lojas físicas e marketplaces",
+        "heading": "Onde comprar no site ou em pontos de venda",
         "paragraphs": [
-          "O site oficial é pinkcheeks.com.br, e é lá que o código de desconto vale. O pagamento é pelo Mercado Pago, com cartão em até 5x sem juros, débito e Pix, ou pelo PayPal.",
-          "Quem prefere comprar pessoalmente tem no menu do site a página “Onde encontrar”, com um mapa de pontos de venda. Veja nele se há ponto na sua cidade.",
-          "Mercado Livre e Shopee ficam fora deste guia: o código é do site oficial, e é lá que ele entra."
+          "O site oficial é pinkcheeks.com.br. Para comprar presencialmente, use o mapa “Onde encontrar”, no menu da loja, e confira o ponto mais próximo."
         ],
         "images": [
           {
@@ -274756,10 +274769,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Dá para confiar: o que pesa a favor e o que conferir",
+        "heading": "Se decidir comprar pelo site",
         "paragraphs": [
-          "Dá, com dois cuidados. A favor estão o CNPJ e o endereço no rodapé, a reputação Boa no Reclame Aqui e a troca por arrependimento com prazo e portal. Os cuidados: a base de reclamações é pequena, e o número da Anvisa se confere no produto que você escolher.",
-          "Se decidir comprar, o [cupom Pink Cheeks](/cupons/pinkcheeks) é o PNK-EMCASACOMCECILIA e dá 10% OFF no site oficial. O passo a passo está em [como usar o cupom da Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
+          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial. O [passo a passo com a tela do checkout](/reviews/cupom-pinkcheeks-como-usar) mostra onde aplicar."
         ]
       },
       {
@@ -274767,8 +274779,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Pink Cheeks é brasileira? Sim. O rodapé do site traz a empresa Pink Cheeks Comércio de Cosméticos, com CNPJ e endereço em Leme, interior de São Paulo.",
           "A Pink Cheeks tem loja física? O site tem a página “Onde encontrar”, com um mapa de pontos de venda; confira nela a sua cidade. A venda online é pelo site oficial.",
-          "O protetor Pink Cheeks tem número da Anvisa? A página do Pink Stick traz o número da Anvisa do produto. Procure-o na consulta de cosméticos da Anvisa e confira se bate com o produto que vai comprar.",
-          "Como trocar um produto da Pink Cheeks? Pelo portal pinkcheeks.troque.app.br, com o e-mail ou o CPF e o número do pedido. A desistência vai até 7 dias do recebimento, e o defeito, até 30 dias."
+          "Como consultar o Pink Stick na Anvisa? Pegue o número do processo na embalagem e pesquise em “Produtos registrados”. Confira o nome do protetor, o titular e a situação cadastral.",
+          "Como pedir devolução à Pink Cheeks? Para desistência de compra online, em até sete dias do recebimento, use o portal de trocas da loja. Para defeito de fabricação, procure o SAC em até 30 dias do recebimento."
         ]
       }
     ]
@@ -274797,15 +274809,15 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "PNK-EMCASACOMCECILIA",
     "affiliate": "pinkcheeks",
-    "title": "Pink Cheeks no Reclame Aqui: a nota, o que mais gera reclamação e como a loja responde",
+    "title": "Pink Cheeks no Reclame Aqui: nota, queixas e como falar com a loja",
     "seoTitle": "Pink Cheeks no Reclame Aqui: nota e reclamações",
     "type": "Análise de Reputação",
-    "description": "A nota da Pink Cheeks no Reclame Aqui de maio a outubro de 2026, quantas reclamações a loja resolve, os problemas mais citados e o que fazer antes de reclamar.",
+    "description": "Veja a nota da Pink Cheeks no Reclame Aqui, quantas pessoas avaliaram o atendimento, de que elas reclamaram e onde pedir ajuda se houver problema com a compra.",
     "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Veja a nota no Reclame Aqui, os problemas mais citados e quanto a loja resolve.",
     "image": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-nota-reputacao-capa.webp",
     "imageAlt": "Protetor corporal Shield FPS60 de 45 g, em foto da Pink Cheeks com o logo da marca, os textos «Reclame Aqui Nota e queixas» e o código PNK-EMCASACOMCECILIA.",
     "cta": {
-      "text": "Se a Pink Cheeks faz sentido para a sua compra, abra o site oficial pelo botão, adicione o produto ao carrinho, clique em “Finalizar pedido” e digite PNK-EMCASACOMCECILIA no campo “Código de desconto ou cartão-presente”.",
+      "text": "Se decidir comprar no site oficial, aplique PNK-EMCASACOMCECILIA no checkout para ter 10% OFF.",
       "label": "Ir para a Pink Cheeks",
       "url": "https://pinkcheeks.com.br/",
       "sponsored": true
@@ -274826,16 +274838,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Pink Cheeks tem reputação Boa e nota 7,7 no Reclame Aqui, de maio a outubro de 2026. A loja respondeu todas as reclamações e teve cerca de três em quatro das avaliadas dadas como resolvidas, mas a base é pequena. Protetor solar e produto com defeito são os temas mais citados."
+          "A Pink Cheeks teve nota 7,7 e reputação Boa no Reclame Aqui de maio a outubro de 2026. Das 72 reclamações registradas, todas receberam resposta e 35 foram avaliadas. O índice de solução foi de 77,1%. Na aba geral, que cobre até três anos, protetor solar foi o tipo de produto mais citado."
         ]
       },
       {
         "heading": "A nota em números",
         "paragraphs": [
-          "A Pink Cheeks tem reputação Boa no semestre e respondeu todas as reclamações; o quadro traz os indicadores do [perfil da Pink Cheeks no Reclame Aqui](https://www.reclameaqui.com.br/empresa/pink-cheeks-comercio-de-cosmeticos/). A empresa está na plataforma há 10 anos."
+          "A tabela reúne os indicadores do [perfil da Pink Cheeks](https://www.reclameaqui.com.br/empresa/pink-cheeks-comercio-de-cosmeticos/) que consultamos para o recorte de maio a outubro."
         ],
         "comparisonTable": {
-          "caption": "Perfil “Pink Cheeks - Comercio De Cosmeticos”, de 01/05/2026 a 31/10/2026, lido em 19 de novembro de 2026.",
+          "caption": "Indicadores da Pink Cheeks no período consultado.",
           "headers": [
             "Indicador",
             "Últimos 6 meses"
@@ -274858,7 +274870,7 @@ export const reviewsData: unknown[] = [
               "100%"
             ],
             [
-              "Problema resolvido, entre as avaliadas",
+              "Índice de solução entre as avaliadas",
               "77,1%"
             ],
             [
@@ -274880,77 +274892,51 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A nota do alto do perfil é calculada pelo Reclame Aqui; a nota média do consumidor é a que quem reclamou deu ao atendimento. Pela [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), o índice de solução e a intenção de voltar a comprar contam só as reclamações avaliadas.",
-          "O texto de apresentação do perfil (“Especialista em proteção solar”, “Sem parabenos”, “Não testado em animais”) é escrito pela empresa, não pelo Reclame Aqui."
+          "O Reclame Aqui usa as avaliações de quem reclamou para calcular o índice de solução e o percentual de quem voltaria a comprar. A nota 7,7 é a reputação geral da plataforma. A nota 6,49 é a média das avaliações dos consumidores. [Metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui)"
         ]
       },
       {
         "heading": "Uma base pequena pede cuidado",
         "paragraphs": [
-          "Menos da metade das reclamações do semestre foi avaliada por quem reclamou. Com tão poucas avaliações, algumas a mais ou a menos mexem nos índices: leia a nota como o retrato de um semestre.",
-          "O histórico mensal mostra o movimento. A reputação foi Ótima em maio e junho e Boa de julho a outubro, um degrau abaixo no semestre."
+          "As 35 reclamações avaliadas são a base para ler o índice de solução. A tabela ajuda a entender o atendimento desse grupo. O perfil também mostra como a reputação mudou: de Ótima em maio e junho para Boa entre julho e outubro."
         ]
       },
       {
         "heading": "O que mais gera reclamação",
         "paragraphs": [
-          "Na aba geral do perfil, que soma até três anos, os problemas mais citados são “Produto com defeito”, com 9,86% das reclamações, e “Não encontrei meu problema”, também com 9,86%, a opção que o Reclame Aqui oferece quando nenhuma categoria se encaixa. O produto mais citado é o protetor solar, com 13,38%.",
-          "Somadas, as duas categorias não chegam a um quinto das reclamações: nenhum problema domina o perfil."
+          "Na aba geral, que reúne registros de até três anos, o protetor solar foi o tipo de produto mais citado. Entre os motivos, “Produto com defeito” apareceu com a mesma frequência que “Não encontrei meu problema”. Esses dados abrangem um período maior que o da tabela."
         ]
       },
       {
-        "heading": "Como a loja responde",
+        "heading": "O que guardar depois de comprar",
         "paragraphs": [
-          "Nenhuma reclamação do semestre ficou aguardando resposta, e a resposta leva dois dias, em média. Se o pedido tem data marcada, como presente ou viagem, abra o contato cedo: dois dias de espera entram na conta.",
-          "Cerca de três em quatro reclamações avaliadas tiveram o problema dado como resolvido, e sete em cada dez de quem avaliou voltariam a comprar. Os números exatos estão no quadro."
-        ]
-      },
-      {
-        "heading": "Antes de comprar, para evitar dor de cabeça",
-        "paragraphs": [
-          "A loja publica as regras de troca e de frete, e vale conhecê-las antes de pagar:"
-        ],
-        "bullets": [
-          "**Arrependimento.** Até 7 dias do recebimento.",
-          "**Defeito.** Até 30 dias.",
-          "**Pedido de troca.** Pelo portal pinkcheeks.troque.app.br, com o e-mail ou o CPF e o número do pedido.",
-          "**Frete.** A loja informa: frete grátis na Entrega Normal a partir de R$ 199 numa única compra. A Expressa tem valor e prazo no checkout, antes de pagar.",
-          "**Produto com problema.** Fotografe o pacote e o produto no dia em que chegar e fale com a loja."
+          "Guarde o número do pedido, a nota fiscal e o e-mail usado na compra. Se o produto chegar errado, avariado ou com defeito, fotografe o pacote e o item."
         ],
         "postParagraphs": [
-          "Quem vende, de onde é a marca e o número da Anvisa estão em [Pink Cheeks é confiável?](/reviews/pinkcheeks-e-confiavel)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-po-translucido.webp",
-            "alt": "Embalagem do pó translúcido Sport Powder FPS30 da Pink Cheeks, em foto da loja",
-            "caption": "O pó translúcido Sport Powder FPS30, da loja oficial. Foto: Pink Cheeks.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          }
+          "Se você ainda está decidindo se compra, veja [quem vende e como funcionam as trocas](/reviews/pinkcheeks-e-confiavel)."
         ]
       },
       {
-        "heading": "Como reclamar",
+        "heading": "Como reclamar se o pedido der problema",
         "paragraphs": [
-          "O primeiro canal é o da loja. O site tem o atendimento “Fale com o SAC”, e as trocas e devoluções saem pelo portal. Tenha em mãos o número do pedido e a data da compra.",
-          "Se a loja não resolver, registre a reclamação no Reclame Aqui com esses dados. O Procon do seu estado também atende casos de compra pela internet."
+          "Para desistir de uma compra do site, use o [portal de trocas e devoluções](https://pinkcheeks.troque.app.br/). Para defeito de fabricação, a [política da loja](https://pinkcheeks.com.br/policies/refund-policy) dá 30 dias do recebimento para falar com o SAC e preencher o Formulário de Qualidade.",
+          "Guarde o protocolo. Se o atendimento não resolver, você pode registrar uma reclamação no Reclame Aqui ou procurar o Procon do seu estado."
         ]
       },
       {
-        "heading": "O que os números indicam",
+        "heading": "Onde conferir o perfil atualizado",
         "paragraphs": [
-          "A Pink Cheeks tem reputação Boa, responde todas as reclamações e resolve a maior parte das avaliadas. O que pede atenção é a base pequena e o defeito de produto entre os temas mais citados. Abra o perfil no dia da compra para ver a nota do momento.",
-          "Se decidir comprar, o [cupom Pink Cheeks](/cupons/pinkcheeks) é o PNK-EMCASACOMCECILIA e dá 10% OFF no site oficial. O passo a passo está em [como usar o cupom da Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
+          "Consulte o [perfil da Pink Cheeks](https://www.reclameaqui.com.br/empresa/pink-cheeks-comercio-de-cosmeticos/) para ver o recorte mais recente e as respostas da loja.",
+          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Pink Cheeks é confiável no Reclame Aqui? O perfil tem reputação Boa, com todas as reclamações do semestre respondidas. A base é pequena, e os números estão no quadro do início.",
-          "Qual a nota da Pink Cheeks no Reclame Aqui? 7,7, com reputação Boa, no semestre mais recente do perfil. A nota muda a cada virada de período, então abra o perfil no dia da compra.",
+          "Como é o atendimento da Pink Cheeks no Reclame Aqui? No semestre da nossa leitura, a loja respondeu a todas as 72 reclamações. O índice de solução foi de 77,1%, com 35 reclamações avaliadas.",
+          "Qual é a nota da Pink Cheeks no Reclame Aqui? No recorte de seis meses que consultamos, a nota foi 7,7 e a reputação era Boa. Veja o perfil para conferir a nota atual.",
           "Quais as reclamações mais comuns da Pink Cheeks? Na aba geral do perfil, produto com defeito e “não encontrei meu problema” lideram as categorias, e o protetor solar é o produto mais citado.",
-          "Como falar com a Pink Cheeks? Pelo “Fale com o SAC” do site. Trocas e devoluções saem pelo portal pinkcheeks.troque.app.br; sem solução, registre no Reclame Aqui."
+          "Como falar com a Pink Cheeks? Use o SAC da loja para relatar defeito. Para desistência de uma compra no site, acesse o portal de trocas e devoluções com o número do pedido."
         ]
       }
     ]
@@ -274978,15 +274964,15 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "PNK-EMCASACOMCECILIA",
     "affiliate": "pinkcheeks",
-    "title": "Cupom Pink Cheeks primeira compra: o PNK-EMCASACOMCECILIA vale para quem nunca comprou",
-    "seoTitle": "Cupom Pink Cheeks primeira compra: 10% OFF",
+    "title": "Cupom Pink Cheeks na primeira compra: 10% OFF com PNK-EMCASACOMCECILIA",
+    "seoTitle": "Pink Cheeks primeira compra: cupom de 10% OFF",
     "type": "Guia & Cupons",
-    "description": "O PNK-EMCASACOMCECILIA vale na primeira compra da Pink Cheeks: por onde começar no catálogo, onde digitar o código, o frete grátis e a troca em sete dias.",
+    "description": "Saiba onde achar o cupom PNK-EMCASACOMCECILIA na primeira compra na Pink Cheeks, em qual campo aplicar os 10% e o que conferir sobre frete e devolução antes de pagar.",
     "metaDescription": "O PNK-EMCASACOMCECILIA dá 10% OFF na primeira compra da Pink Cheeks e também para quem já é cliente. Veja como aplicar e o que soma no carrinho.",
     "image": "/images/reviews/pinkcheeks/cupom-pinkcheeks-primeira-compra-capa.webp",
     "imageAlt": "Bastão de blush All In One FPS30 ao lado da amostra da cor, em foto da Pink Cheeks com o logo da marca, os textos «Cupom na primeira compra» e o código PNK-EMCASACOMCECILIA.",
     "cta": {
-      "text": "Se a Pink Cheeks faz sentido para a sua compra, abra o site oficial pelo botão, clique em “Finalizar pedido” e digite PNK-EMCASACOMCECILIA em “Código de desconto ou cartão-presente”.",
+      "text": "Escolha os produtos no site da Pink Cheeks. Aplique PNK-EMCASACOMCECILIA e compare o total com o frete antes de pagar.",
       "label": "Ir para a Pink Cheeks",
       "url": "https://pinkcheeks.com.br/",
       "sponsored": true
@@ -275007,21 +274993,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim. O PNK-EMCASACOMCECILIA dá 10% OFF na primeira compra da Pink Cheeks e também vale para quem já comprou. Ele entra no checkout, depois do Finalizar pedido, com o hífen depois de PNK. No nosso teste, somou com produto em promoção; veja abaixo o caminho, o frete e a troca em sete dias."
+          "Na primeira compra no site da Pink Cheeks, use PNK-EMCASACOMCECILIA para ter 10% OFF. Você encontra o código na [página do cupom Pink Cheeks](/cupons/pinkcheeks). No carrinho, clique em “Finalizar pedido” e cole o código com o hífen em “Código de desconto ou cartão-presente”. Confira o desconto no resumo."
         ]
       },
       {
-        "heading": "O cupom vale na primeira compra e nas seguintes",
+        "heading": "Onde encontrar o desconto na primeira compra",
         "paragraphs": [
-          "Vale. O PNK-EMCASACOMCECILIA dá 10% OFF no pedido para quem nunca comprou e para quem já comprou: o mesmo código atende o primeiro pedido e os seguintes. A Pink Cheeks se apresenta como uma marca “criada por atletas para pessoas reais”, de proteção solar e maquiagem com FPS, e vende pelo site pinkcheeks.com.br.",
-          "No nosso teste, o checkout abriu sem login e o código foi aceito antes de qualquer cadastro. Se é a primeira vez na loja, [Pink Cheeks é confiável?](/reviews/pinkcheeks-e-confiavel) reúne quem vende, o CNPJ e as trocas."
+          "A Pink Cheeks é uma marca brasileira de proteção solar, maquiagem com FPS e produtos antiatrito. Se é a sua primeira vez na loja, veja [quem vende e como a Pink Cheeks atende pedidos de troca](/reviews/pinkcheeks-e-confiavel).",
+          "Copie PNK-EMCASACOMCECILIA na [página do cupom Pink Cheeks](/cupons/pinkcheeks). No nosso teste, o checkout abriu sem login e mostrou o desconto antes da identificação. O código atende quem compra pela primeira vez e quem já é cliente."
         ]
       },
       {
-        "heading": "Por onde começar: o que a marca vende",
+        "heading": "O que comparar antes de escolher um produto",
         "paragraphs": [
-          "O catálogo é pensado para quem pratica esporte e tem cinco frentes: protetor solar, em bastão, creme, pó e fluido, com ou sem cor; maquiagem com FPS, como blush, corretivo, sombra e labial; antiatrito, em bastão, spray e creme; produtos para cabelos; e kits, por esporte ou por linha.",
-          "O blush All In One traz FPS30 no rótulo e aparece nas fotos da loja em Terracota, Red Cherry, Bronze Carioca, Pink Berry e Soft Peach. Para escolher protetor, vale ler a página do produto, que traz o FPS e o uso que a loja indica; na dúvida sobre o que combina com a sua pele, um dermatologista. O que dá para conferir pelo rótulo está em [Pink Cheeks é boa?](/reviews/pinkcheeks-e-boa)."
+          "Para escolher um protetor facial em bastão, comece pelo acabamento. O Pink Stick tem cobertura leve. O Pro Stick tem alta cobertura, e o Clear Stick é transparente. Nosso [guia de produtos da Pink Cheeks](/reviews/pinkcheeks-e-boa) reúne os FPS, as cores e os preços lidos na loja.",
+          "Se procura maquiagem com cor, as imagens da Pink Cheeks mostram como ficam alguns tons do blush All In One em peles diferentes."
         ],
         "images": [
           {
@@ -275041,29 +275027,33 @@ export const reviewsData: unknown[] = [
           "Confira a linha “Desconto no pedido” antes de pagar."
         ],
         "postParagraphs": [
-          "O caminho com o print do checkout e a conta do nosso carrinho está em [como usar o cupom da Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar). As condições do código ficam na página do [cupom Pink Cheeks](/cupons/pinkcheeks)."
+          "O [guia de como usar o cupom da Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar) mostra o resumo do pedido no nosso teste."
         ]
       },
       {
-        "heading": "Promoção, Pix e frete no primeiro pedido",
+        "heading": "O que conferir sobre Pix, promoção e frete",
         "paragraphs": [
-          "No nosso teste, o código somou com um produto em promoção. Com o Pix escolhido, ele seguiu aplicado e o total não mudou, porque a loja não dá desconto próprio no Pix. O que está em campanha na Black Friday está em [Black Friday Pink Cheeks 2026](/reviews/black-friday-pinkcheeks).",
-          "Segundo a página de regras de frete, a Entrega Normal é grátis em uma única compra a partir de R$ 199; a Expressa tem valor e prazo no checkout. O pagamento pode ser em até 5x sem juros no cartão, no débito ou no Pix pelo Mercado Pago, e também pelo PayPal. Antes de decidir quanto levar, informe o CEP e compare o total entregue."
+          "No nosso teste, o código entrou sobre o preço promocional do blush. O desconto continuou aplicado quando selecionamos Pix. Para os kits em oferta, veja [a Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks).",
+          "A [regra de frete da Pink Cheeks](https://pinkcheeks.com.br/pages/regras-de-frete) informa entrega Normal grátis em compras a partir de R$ 199. Na página inicial, a loja também anuncia frete grátis acima de três itens. Confira com seu CEP quanto fica a entrega depois de aplicar o cupom."
         ]
       },
       {
-        "heading": "Se o produto não servir: as trocas",
+        "heading": "Como pedir devolução ou acionar o SAC",
         "paragraphs": [
-          "A loja informa: a desistência vale em até 7 dias do recebimento, e o defeito, em até 30 dias. O pedido é feito pelo portal pinkcheeks.troque.app.br, com o e-mail ou o CPF e o número do pedido, então guarde os dois desde a compra."
+          "A [política de trocas da loja](https://pinkcheeks.com.br/policies/refund-policy) pede que o produto esteja lacrado para devolver por arrependimento. Se estiver em dúvida sobre a cor, veja as amostras antes de abrir o produto."
+        ],
+        "bullets": [
+          "**Desistência da compra online.** O prazo é de sete dias do recebimento, com o produto lacrado e a nota fiscal. A política indica o [portal de trocas e devoluções](https://pinkcheeks.troque.app.br/), com o número do pedido e o e-mail ou CPF da compra, e também o SAC com o Formulário de Qualidade.",
+          "**Defeito de fabricação.** Se o defeito aparecer depois da entrega, a [política da Pink Cheeks](https://pinkcheeks.com.br/policies/refund-policy) dá 30 dias do recebimento para falar com o SAC, por e-mail ou WhatsApp, e preencher o Formulário de Qualidade. Guarde a nota fiscal e fotografe o produto."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom de primeira compra na Pink Cheeks? O PNK-EMCASACOMCECILIA dá 10% OFF no site oficial na primeira compra e também nas seguintes.",
-          "O cupom vale para quem já comprou? Vale. O código serve para cliente novo e antigo.",
-          "Preciso criar conta para usar o cupom? No nosso teste, o checkout abriu sem login e o código foi aceito, sem cadastro.",
-          "O cupom soma com a Black Friday? No nosso teste, somou com produto em promoção. O que está na campanha está em [Black Friday Pink Cheeks 2026](/reviews/black-friday-pinkcheeks)."
+          "Qual é o desconto na primeira compra da Pink Cheeks? O cupom PNK-EMCASACOMCECILIA dá 10% OFF no site oficial. Cole o código com o hífen no campo “Código de desconto ou cartão-presente” do checkout.",
+          "O cupom Pink Cheeks vale para quem já comprou? O PNK-EMCASACOMCECILIA dá 10% OFF no site oficial também para quem já é cliente.",
+          "Preciso criar conta para usar o cupom? No nosso teste, o checkout mostrou o desconto antes de pedir identificação.",
+          "O cupom vale em produto em promoção? No nosso teste, PNK-EMCASACOMCECILIA deu mais 10% sobre o blush em promoção. Para um kit, confira o desconto no seu pedido."
         ]
       }
     ]
