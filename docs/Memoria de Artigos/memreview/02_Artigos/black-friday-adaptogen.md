@@ -195,3 +195,10 @@ se a Cecília usa algum produto.
 ## No ar (18/11/2026)
 
 Release `f875e6a6` (#1145, com o #1141 da /cupons/adaptogen e o #1144 da Let's Eat It), no ar às 18:19 UTC; build `01a1efde…`, 2 workers no `deploy:finish`. Smoke das 4 páginas (título, capa no CDN, imagens do corpo, CECILIA, frases proibidas, sitemap e llms.txt), `covers:check` 4/4, IndexNow 8 URLs, captura `44368636479`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/adaptogen/black-friday-adaptogen-capa-v2.webp` (`imageFit: contain`), SHA-256 `9b8d94b8a43d3c38591f1963618bf4eed983facc0b759eb4e57b0a895a1a4939`.
+- **Alt:** Pote oficial do pré-treino Panic Uva da Adaptogen em uma montagem ilustrativa de ambiente de treino, com luz rosa e azul. A capa traz o logo Adaptogen, a chamada “Black Friday — Ofertas e cupom” e o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/55/fontes-selecionadas.json`.
+- **Lote 55 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/55/revisao-terra/ADENDO-CENARIOS-FINAL.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/55/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/adaptogen/black-friday-adaptogen-capa.webp`) fica no CDN, sem uso como capa.

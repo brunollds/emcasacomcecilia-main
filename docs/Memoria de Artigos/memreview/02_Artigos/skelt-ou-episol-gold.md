@@ -165,3 +165,10 @@ mesma: 7 a 12 dias nas duas.** O artigo se sustenta em outra coisa: a Skelt tem 
 - **Episol, página da Mantecorp lida inteira:** DHA, eritrulose e ácido hialurônico; aplicar com as mãos e lavá-las; fora do rosto; deixar 8 horas e tirar no banho sem esfregar; cor em 24 horas; 7 a 12 dias; "não mancha tecido"; não protege do sol; não fala em cor-guia nem em rendimento. O "reaplicar a cada 8 dias" é da Panvel e ficou fora.
 - **Ácido hialurônico está nas duas** (a Água da Skelt também leva), então não diferencia.
 - Revisão em três lentes (fatos, regras, leitor); aplicadas as correções que se sustentaram. Ficaram fora: frete (não relido no dia) e a frase sobre os 5% do carrinho (decisão do Bruno pelos 10%).
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/skelt/skelt-ou-episol-gold-capa-v2.webp` (`imageFit: contain`), SHA-256 `a81ba970ac4cfbc7ca5f0ed639432483c4feed7ca28c29eb3b80f34b4411f919`.
+- **Alt:** Uma mão libera espuma da Água Autobronzeadora Skelt de 150 ml sobre uma luva preta, em imagem oficial da Skelt. A capa traz o logo Skelt, a chamada “Skelt ou Episol Gold?” e o cupom SKEMCASACOMCECILIA na Skelt.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/56/fontes-selecionadas.json`. Só a marca parceira aparece na arte; o cupom está identificado como da Skelt.
+- **Lote 56 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/56/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/56/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/skelt/skelt-ou-episol-gold-capa.webp`) fica no CDN, sem uso como capa.

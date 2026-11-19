@@ -275,3 +275,10 @@ Só as que não estão na lista já aberta (datas da BF e mínimo/limite do cód
 ## No ar (18/11/2026)
 
 Release `407a2ee3` (#1134, com o #1133 da outra sessão), no ar às 05:16 UTC; build `01a1ed12…`, 2 workers no `deploy:finish`. Smoke de 15 páginas (título, capa no CDN, imagens do corpo, EMCASA, frases proibidas, sitemap e llms.txt), `covers:check` 6/6, IndexNow 19 URLs, captura `44243262540`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/black-friday-rituaria-capa-v2.webp` (`imageFit: contain`), SHA-256 `ccffc1b71a0c6b8d2eaa7ee2907365ce763483d6351fde4be2d4c2dc1e9a2bb6`.
+- **Alt:** Pote oficial da Fórmula Greens e Superfood da Rituária em uma montagem ilustrativa de cozinha, com fatias de maçã verde na bancada. A capa traz o logo Rituária, a chamada “Black Friday — Leve 3, pague 2” e o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/55/fontes-selecionadas.json`.
+- **Lote 55 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/55/revisao-terra/ADENDO-CENARIOS-FINAL.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/55/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/rituaria/black-friday-rituaria-capa.webp`) fica no CDN, sem uso como capa.

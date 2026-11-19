@@ -148,3 +148,10 @@ produto e um quadro nosso com a distribuição das avaliações do site.
 ## No ar (18/11/2026)
 
 Release `54248b78` (com o #1162, o #1166 do Farol, o #1160 da AD7 e AD8, as lojas BOLD e Barbour's e a campanha da Proton), no ar às 21:07 UTC; build `01a1f077…`, 2 workers no `deploy:finish`. Smoke de 16 páginas (título, capa e imagens do CDN, CECILIALINHARES, frases proibidas, sitemap e llms.txt), `covers:check` 8/8, IndexNow 26 URLs, captura `44398489658`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/barbours/barbours-e-boa-capa-v2.webp` (`imageFit: contain`), SHA-256 `a8cc867cba21a23eda6ec74adb02222f7db2420aca78f049966027998192d8d9`.
+- **Alt:** Frasco My Sweet Delight de 200 ml da Barbour’s Beauty em montagem ilustrativa sobre uma bancada rosada. A capa traz o logo Barbour’s Beauty, a chamada “Body splash: vale a pena?” e o cupom CECILIALINHARES.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/56/fontes-selecionadas.json`.
+- **Lote 56 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/56/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/56/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/barbours/barbours-e-boa-capa.webp`) fica no CDN, sem uso como capa.

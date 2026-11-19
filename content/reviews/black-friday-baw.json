@@ -26,8 +26,8 @@
   "type": "Guia de Black Friday",
   "description": "A campanha já está no site da BAW Clothing, sem data de fim publicada. Sete peças, o preço de cada uma com o código e o que conferir antes de fechar o carrinho.",
   "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW e soma com a Black Friday 2026: no teste, entrou em peça já em promoção. Veja sete peças e o que conferir.",
-  "image": "/images/reviews/baw/black-friday-baw-capa.webp",
-  "imageAlt": "Modelo com o Moletom Basic Label azul-escuro da BAW Clothing, segurando os cordões do capuz, em foto oficial da loja, com o logo da marca, “Black Friday BAW 2026” e o código BAWEMCASACOMCECILIA.",
+  "image": "/images/reviews/baw/black-friday-baw-capa-v2.webp",
+  "imageAlt": "Modelo com a calça Track BAW Tag amarelo-lima, recortada de imagem oficial da BAW e montada em uma cena urbana ilustrativa. A capa traz o logo BAW Clothing, a chamada “Black Friday — O que vale?” e o cupom BAWEMCASACOMCECILIA.",
   "decision": {
     "takeIf": [
       "A peça que você quer traz as medidas na descrição.",

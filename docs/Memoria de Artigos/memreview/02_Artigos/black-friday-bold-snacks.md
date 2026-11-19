@@ -218,3 +218,10 @@ Na tabela do capítulo 5, as linhas são as de contas (nº de caixas), não esta
 
 - Deploy do release `235383f3` (build Hostinger `01a1f0c5`), com o `deploy:finish` verificado, smoke 200 com a capa no CDN, `covers:check` ok, no sitemap e no `llms.txt`, e IndexNow enviado.
 - Releituras: retestar o CECILIA15 em 23/11 (fim da Pré-Black) e reler o regulamento dos brindes na fase seguinte.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/bold/black-friday-bold-snacks-capa-v2.webp` (`imageFit: contain`), SHA-256 `6bd84fb66a7186b476307eff73715b6cd3ebe85f313d92bf92afa2bd0b8565f3`.
+- **Alt:** Barra BOLD Mousse de Maracujá cortada, com cobertura clara e calda sendo vertida sobre ela, em cena promocional oficial sobre fundo amarelo. A arte traz o logo BOLD Snacks, a chamada “Black Friday — Ofertas e brindes” e o cupom CECILIA15.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/55/fontes-selecionadas.json`. A v3 aprovada antes foi preservada byte a byte (`lotes/55/APROVACAO-PARCIAL-BOLD.json`).
+- **Lote 55 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/55/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/55/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bold/black-friday-bold-snacks-capa.webp`) fica no CDN, sem uso como capa.

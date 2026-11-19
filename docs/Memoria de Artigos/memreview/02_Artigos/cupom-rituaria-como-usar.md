@@ -217,3 +217,10 @@ com `href` (não há link de afiliado).
 ## No ar (18/11/2026)
 
 Release `407a2ee3` (#1134, com o #1133 da outra sessão), no ar às 05:16 UTC; build `01a1ed12…`, 2 workers no `deploy:finish`. Smoke de 15 páginas (título, capa no CDN, imagens do corpo, EMCASA, frases proibidas, sitemap e llms.txt), `covers:check` 6/6, IndexNow 19 URLs, captura `44243262540`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/cupom-rituaria-como-usar-capa-v2.webp` (`imageFit: contain`), SHA-256 `a126fef93a529b6ff1d4ddd1a8828dbed8094051203b6485cb7aa42a0cb8fd71`.
+- **Alt:** Frasco da Fórmula 4Mag da Rituária em montagem ilustrativa sobre uma bancada azul. A capa traz o logo Rituária, a chamada “Como usar o cupom” e o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/57/fontes-selecionadas.json`.
+- **Lote 57 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/57/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/57/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/rituaria/cupom-rituaria-como-usar-capa.webp`) fica no CDN, sem uso como capa.

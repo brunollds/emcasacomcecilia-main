@@ -198,3 +198,10 @@ por 100 g de proteína é nosso.
 - **Capa:** `/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp`, painel lateral, "ou Dux? / Whey e preço" e o CECILIA, com o Adapto Whey 3W (foto oficial; ainda não estava em capa da loja). A Dux só pelo nome.
 - **Corpo:** Gold Whey, Tasty Whey 3W, Adapto Whey 3W (foto nova, `adaptogen-adapto-whey-3w-900g.webp`) e Tasty Iso, com link de afiliado, e o print do checkout.
 - **CDN:** as imagens novas subiram em 18/11/2026, com o sim do Bruno (`upload-ftps.py`), verificadas por HTTPS (`verify-remote.mjs`) e acrescentadas ao mapa de entrega (`prepare-delivery.mjs --append`); os JSONs seguem com os caminhos locais.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/adaptogen/adaptogen-ou-dux-capa-v2.webp` (`imageFit: contain`), SHA-256 `d05b88109df7aafebd62999899f1b4cc29bd5d4268b6c8d1e6f0ec13f6e4c9bd`.
+- **Alt:** Pote de Adapto Whey Sorvete de Baunilha da Adaptogen em montagem ilustrativa sobre banco de treino azul. A capa traz o logo Adaptogen, a chamada “Adaptogen ou Dux?” e o cupom CECILIA na Adaptogen.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/57/fontes-selecionadas.json`. Só a marca parceira aparece na arte; o cupom está identificado como da Adaptogen.
+- **Lote 57 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/57/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/57/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/adaptogen/adaptogen-ou-dux-capa.webp`) fica no CDN, sem uso como capa.

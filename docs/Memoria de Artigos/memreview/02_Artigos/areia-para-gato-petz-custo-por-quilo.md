@@ -138,3 +138,10 @@ que o rótulo declara e como o cupom, a oferta e a retirada mudam o valor.
   na mesma coluna (quatro colunas) e divididas em dez quadros (argila por marca, madeira e vegetais por tamanho,
   sílica natural e em cristal). A frase do vaso sanitário fica como declaração da embalagem da Petz Cereais.
 - **No ar em 15/11/2026:** PR #1018, release `c65b78df` (deploy `c6a06f69`, build `01a1e1ec`), smoke da página, do sitemap e do llms.txt; IndexNow enviado; captura `43785608541`.
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa-v2.webp` (`imageFit: contain`), SHA-256 `6b7f06ef105bb1509cf30b1bfce6cf46eb314c31a4c35bc3961f98835cf08aa1`.
+- **Alt:** Cena ilustrativa criada por IA de um filhote de gato laranja e branco remexendo grãos claros em uma caixa de areia, à luz da janela. A capa traz o logo Petz, a chamada “Areia para gato: preço por quilo” e o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/55/fontes-selecionadas.json`. O filhote é cena ilustrativa gerada por IA, como diz o alt; os produtos e o logo são camadas oficiais à parte.
+- **Lote 55 do piloto de capas (sequência 19 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/55/revisao-terra/ADENDO-CENARIOS-FINAL.json`):** entregue em `docs/auditoria-capas/ENTREGA-24-HEROES-24-PAGINAS-SEQUENCIA-19-CLAUDE.zip` (`lotes/55/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa.webp`) fica no CDN, sem uso como capa.
