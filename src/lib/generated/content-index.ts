@@ -35443,6 +35443,12 @@ export const reviewsData: unknown[] = [
         "heading": "Como a Nestlé separa a linha Nutren",
         "paragraphs": [
           "A Nestlé separa a linha em consumo e clínica: este guia compara Senior, Protein, Control e Active. A outra parte é de nutrição clínica, como os Nutren 1.5, 2.0, Ultra e Fortify, que a loja apresenta como Nutren Medical ou nutrição enteral e oral. Esses seguem a orientação do médico ou nutricionista e ficam fora da tabela."
+        ],
+        "links": [
+          {
+            "label": "Nutren Fortify: para que serve, tabela e preço por porção",
+            "href": "/reviews/nutren-fortify-para-que-serve"
+          }
         ]
       },
       {
@@ -35631,7 +35637,13 @@ export const reviewsData: unknown[] = [
           "caption": "Nutren Active Chocolate, lata de 400 g. A tabela deste guia é a da baunilha. Foto oficial da Nestlé Nutre.",
           "objectFit": "contain",
           "aspectRatio": 1.3333
-        }
+        },
+        "links": [
+          {
+            "label": "Nutren Active: para que serve, como tomar e preço",
+            "href": "/reviews/nutren-active-para-que-serve"
+          }
+        ]
       },
       {
         "heading": "O que mais existe na linha e não entra na tabela",
@@ -268725,6 +268737,924 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "skelt-ou-best-bronze"
+      }
+    ]
+  },
+  {
+    "id": 1077,
+    "slug": "nutren-fortify-para-que-serve",
+    "title": "Nutren Fortify: para que serve, tabela nutricional e quanto custa por porção",
+    "seoTitle": "Nutren Fortify: para que serve, tabela e preço por porção",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a Nestlé declara sobre o Nutren Fortify Sem Sabor: a tabela da porção de 60 g, como preparar, quanto dura a lata de 360 g e quanto sai cada porção com o cupom CECI.",
+    "metaDescription": "CECI dá 10% no Nutren Fortify. Veja a tabela nutricional por porção, quantas porções tem a lata, como preparar e quanto sai a lata, o combo e a assinatura.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nutren-fortify-para-que-serve-capa.webp",
+    "imageAlt": "Capa com o logo da Nestlé Nutre, o título Nutren Fortify, o cupom CECI e a lata de 360 g do Nutren Fortify Sem Sabor",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Nutren Fortify na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver o Nutren Fortify na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/nutren-fortify-sem-sabor-360g",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem"
+      },
+      {
+        "slug": "novasource-proline-para-que-serve"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Nutren Fortify é um pó sem sabor para complementar a alimentação de adultos, segundo a Nestlé. A porção de 60 g tem 18 g de proteína e 263 kcal, e a lata rende seis porções. O CECI deu 10% na lata e no combo na Nestlé Nutre."
+        ]
+      },
+      {
+        "heading": "Para que serve o Nutren Fortify, segundo a Nestlé",
+        "paragraphs": [
+          "A Nestlé apresenta o Fortify como um pó sem sabor para adultos que precisam complementar a alimentação com proteínas e calorias. A página o descreve como fórmula para dietas com restrição de sacarose, glicose, frutose e lactose.",
+          "A fabricante orienta consumir preferencialmente com acompanhamento de nutricionista ou médico e informa que o Fortify é inadequado como única fonte de nutrição."
+        ],
+        "bullets": [
+          "A tabela declara 0 g de lactose. O produto contém derivados de leite, soja e peixe.",
+          "A porção de 60 g tem 18 g de proteína e 1.050 mg de ômega-3, incluindo EPA e DHA.",
+          "O pó sem sabor pode ser misturado a receitas doces ou salgadas."
+        ],
+        "postParagraphs": [
+          "A própria página faz uma ressalva sobre a gordura: \"este não é um alimento baixo ou reduzido em gorduras saturadas\"."
+        ],
+        "image": "/images/reviews/nutren/nutren-fortify-sem-sabor-360g-oficial.webp",
+        "imageAlt": "Lata de 360 g do Nutren Fortify Sem Sabor com os destaques de ômega-3, 18 g de proteínas e zero lactose",
+        "imageCaption": "Nutren Fortify Sem Sabor, lata de 360 g. Foto oficial da Nestlé Nutre.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Tabela nutricional do Nutren Fortify por porção",
+        "paragraphs": [
+          "A porção é de 60 g, ou 6 colheres de sopa. Estas são as linhas principais da tabela publicada na página do produto:"
+        ],
+        "comparisonTable": {
+          "caption": "Valores da página do Nutren Fortify Sem Sabor na Nestlé Nutre. A tabela inteira, com 22 vitaminas e minerais, está na página.",
+          "headers": [
+            "Item",
+            "Por porção de 60 g",
+            "% VD"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "263 kcal",
+              "13%"
+            ],
+            [
+              "Carboidratos",
+              "23 g",
+              "8%"
+            ],
+            [
+              "Açúcares totais / adicionados",
+              "1,7 g / 1,5 g",
+              "— / 3%"
+            ],
+            [
+              "Lactose",
+              "0 g",
+              "—"
+            ],
+            [
+              "Proteínas",
+              "18 g",
+              "36%"
+            ],
+            [
+              "Gorduras totais",
+              "11 g",
+              "17%"
+            ],
+            [
+              "Gorduras saturadas",
+              "2,4 g",
+              "12%"
+            ],
+            [
+              "Ômega-3 (EPA / DHA)",
+              "1.050 mg (390 / 210 mg)",
+              "26%"
+            ],
+            [
+              "Fibras",
+              "0 g",
+              "0%"
+            ],
+            [
+              "Sódio",
+              "84 mg",
+              "4%"
+            ],
+            [
+              "Cálcio",
+              "510 mg",
+              "51%"
+            ],
+            [
+              "Vitamina D",
+              "5 µg",
+              "33%"
+            ],
+            [
+              "Vitamina B12",
+              "2,1 µg",
+              "88%"
+            ],
+            [
+              "Zinco",
+              "6 mg",
+              "55%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Por 100 g de pó, a conta dá cerca de 438 kcal e 30 g de proteína. Os primeiros ingredientes são maltodextrina, caseinato de cálcio e um ingrediente à base de óleo de peixe.",
+          "A porção contém 1,5 g de açúcares adicionados. Esse é o dado da tabela nutricional, embora a vitrine da loja exiba a chamada “Sem Açúcar”."
+        ]
+      },
+      {
+        "heading": "Como preparar e como guardar o Nutren Fortify",
+        "paragraphs": [
+          "O preparo da página tem dois tempos. Coloque 6 colheres de sopa (60 g) num copo, junte cerca de 100 ml de água fria ou quente e mexa até virar uma pasta cremosa. Depois acrescente mais 80 ml de água e mexa até dissolver. Consuma logo depois do preparo.",
+          "No FAQ, a Nestlé diz que os 60 g podem ir numa refeição só ou ser divididos ao longo do dia, e que o pó pode ser misturado no fim de receitas doces ou salgadas, quentes ou frias, desde que não seja fervido.",
+          "Guarde a lata fechada em temperatura ambiente, em local seco, fresco e sem cheiro. Depois de aberta, a página recomenda consumir em até 30 dias."
+        ]
+      },
+      {
+        "heading": "Quanto custa o Nutren Fortify por porção: lata, combo ou assinatura",
+        "paragraphs": [
+          "O combo de três latas na compra única com CECI teve o menor custo por porção. Para comprar apenas uma lata, a assinatura apareceu mais barata naquele dia e envolve entregas recorrentes."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da Nestlé Nutre em 19/11, sem frete. A lata rende seis porções de 60 g, conforme a ficha. Os valores com CECI vêm dos testes de compra única.",
+          "headers": [
+            "Compra",
+            "Preço",
+            "Por lata",
+            "Por porção (6 por lata)"
+          ],
+          "rows": [
+            [
+              "Combo de 3 latas, com o CECI",
+              "R$ 249,02",
+              "R$ 83,01",
+              "R$ 13,83"
+            ],
+            [
+              "Combo de 3 latas, assinando, sem o CECI",
+              "R$ 255,40",
+              "R$ 85,13",
+              "R$ 14,19"
+            ],
+            [
+              "Lata avulsa, assinando, sem o CECI",
+              "R$ 106,42",
+              "R$ 106,42",
+              "R$ 17,74"
+            ],
+            [
+              "Lata avulsa, com o CECI",
+              "R$ 108,55",
+              "R$ 108,55",
+              "R$ 18,09"
+            ],
+            [
+              "Lata avulsa, preço de tabela",
+              "R$ 141,89",
+              "R$ 141,89",
+              "R$ 23,65"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A comparação da assinatura usa o preço exibido pela loja, sem aplicar o CECI. Confira a frequência das entregas e o frete pelo seu CEP antes de fechar.",
+          "O [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar) mostra como aplicar o código."
+        ],
+        "links": [
+          {
+            "label": "Regras do cupom CECI na Nestlé Nutre",
+            "href": "/cupons/nestle-nutre"
+          },
+          {
+            "label": "Ver o combo de 3 latas na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/combo-nutren-fortify-3-unidades",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Nutren Fortify ou Nutren Senior: o que muda na tabela",
+        "paragraphs": [
+          "As porções de Fortify e Senior têm pesos diferentes. O Fortify traz mais proteína na porção da embalagem. Quando a comparação usa 100 g de pó, o Senior Sem Sabor Zero Lactose tem cerca de 36 g de proteína, ante 30 g do Fortify."
+        ],
+        "comparisonTable": {
+          "caption": "Valores das páginas dos dois produtos na Nestlé Nutre. A linha por 100 g é conta nossa. Traço: a tabela não traz o dado.",
+          "headers": [
+            "",
+            "Nutren Fortify Sem Sabor",
+            "Nutren Senior Sem Sabor Zero Lactose"
+          ],
+          "rows": [
+            [
+              "Embalagem",
+              "Lata de 360 g",
+              "Lata de 740 g"
+            ],
+            [
+              "Porção",
+              "60 g (6 colheres de sopa)",
+              "27,5 g (3 colheres de sopa)"
+            ],
+            [
+              "Calorias por porção",
+              "263 kcal",
+              "113 kcal"
+            ],
+            [
+              "Proteína por porção",
+              "18 g",
+              "10 g"
+            ],
+            [
+              "Por 100 g de pó",
+              "cerca de 438 kcal e 30 g de proteína",
+              "cerca de 411 kcal e 36 g de proteína"
+            ],
+            [
+              "Gorduras por porção",
+              "11 g",
+              "3 g"
+            ],
+            [
+              "Ômega-3 por porção",
+              "1.050 mg",
+              "—"
+            ],
+            [
+              "Lactose",
+              "0 g",
+              "0 g"
+            ],
+            [
+              "Para quem, segundo a página",
+              "Adultos, em dietas com restrição de sacarose, glicose, frutose e lactose",
+              "Pessoas a partir dos 50 anos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja põe o Senior em nutrição adulta e o Fortify em nutrição especializada. A escolha entre os dois é de quem acompanha o caso, com as duas tabelas na mão. A ficha completa do Senior está no nosso [guia do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nutren Fortify tem lactose? A tabela declara 0 g de lactose. O Fortify contém derivados de leite, soja e peixe e a página informa que não contém glúten.",
+          "Nutren Fortify engorda? A porção de 60 g tem 263 kcal. O efeito no peso depende da alimentação ao longo do tempo.",
+          "Quantas porções tem a lata de Nutren Fortify? A lata de 360 g rende seis porções de 60 g, segundo a ficha.",
+          "Quanto tempo dura o Nutren Fortify depois de aberto? A Nestlé orienta consumir em até 30 dias e manter a lata fechada em local seco e fresco.",
+          "O cupom CECI vale no Nutren Fortify? Nos testes de compra única, deu 10% na lata avulsa e no combo de três latas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1078,
+    "slug": "novasource-proline-para-que-serve",
+    "title": "Novasource Proline: para que serve, caixinha, pó ou litro e quanto custa cada formato",
+    "seoTitle": "Novasource Proline: para que serve, formatos e preços",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Veja o que a Nestlé informa sobre o Novasource Proline, a tabela da caixinha de 200 ml, as diferenças entre o pó e o litro e os preços de cada formato com o cupom CECI.",
+    "metaDescription": "CECI dá 10% no Novasource Proline. Veja a tabela da caixinha de 200 ml, as diferenças para o pó e o litro e os preços de cada formato.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/novasource-proline-para-que-serve-capa.webp",
+    "imageAlt": "Capa com o logo da Nestlé Nutre, o título Novasource Proline, o cupom CECI, a caixinha de 200 ml sabor baunilha e a lata de 330 g em pó",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se você já tem a apresentação indicada pelo profissional, confira essa versão na Nestlé Nutre. Na compra única, aplique o cupom CECI no carrinho.",
+      "label": "Ver o Novasource Proline na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/novasource-proline-baunilha-tetra-slim-200ml-1",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "isosource-1-5-para-que-serve"
+      },
+      {
+        "slug": "nutren-fortify-para-que-serve"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Novasource Proline é uma linha de nutrição especializada da Nestlé. A caixinha de 200 ml é uma fórmula para nutrição enteral e oral, com 20 g de proteína por embalagem. O rótulo exige orientação médica ou de nutricionista. O CECI deu 10% nos formatos testados na Nestlé Nutre."
+        ]
+      },
+      {
+        "heading": "Para que serve o Novasource Proline, segundo a Nestlé",
+        "paragraphs": [
+          "Na caixinha de 200 ml, o rótulo identifica o Novasource Proline como fórmula modificada para nutrição enteral e oral. A Nestlé informa que ela contém arginina e prolina e descreve sua finalidade como “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”.",
+          "A embalagem exige orientação médica ou de nutricionista e proíbe o uso por via parenteral. O profissional define a apresentação e a quantidade para cada caso."
+        ],
+        "image": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
+        "imageAlt": "Caixinha de 200 ml do Novasource Proline sabor baunilha, fórmula modificada para nutrição enteral e oral com 1,4 kcal por mL",
+        "imageCaption": "Novasource Proline Baunilha, caixinha de 200 ml. Foto oficial da Nestlé Nutre.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Tabela nutricional da caixinha de 200 ml",
+        "paragraphs": [
+          "A página publica a tabela por 100 ml. A coluna da caixinha inteira é conta nossa, com o valor por 100 ml multiplicado por 2."
+        ],
+        "comparisonTable": {
+          "caption": "Valores publicados pela Nestlé Nutre para baunilha, morango e cappuccino. As faixas mostram diferenças entre sabores. Valores por caixinha calculados a partir de 100 ml.",
+          "headers": [
+            "Item",
+            "Por 100 ml",
+            "Por caixinha de 200 ml"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "137 a 138 kcal",
+              "274 a 276 kcal"
+            ],
+            [
+              "Carboidratos",
+              "16 g",
+              "32 g"
+            ],
+            [
+              "Açúcares totais / adicionados",
+              "1,5 g / 1,4 a 1,5 g",
+              "3 g / 2,8 a 3 g"
+            ],
+            [
+              "Lactose",
+              "0,1 g",
+              "0,2 g"
+            ],
+            [
+              "Proteínas",
+              "10 g",
+              "20 g"
+            ],
+            [
+              "Gorduras totais",
+              "3,7 g",
+              "7,4 g"
+            ],
+            [
+              "Fibras",
+              "0,5 g",
+              "1 g"
+            ],
+            [
+              "Sódio",
+              "100 mg",
+              "200 mg"
+            ],
+            [
+              "Arginina",
+              "1.500 mg",
+              "3.000 mg"
+            ],
+            [
+              "Prolina",
+              "1.000 mg",
+              "2.000 mg"
+            ],
+            [
+              "Zinco",
+              "5,5 mg",
+              "11 mg"
+            ],
+            [
+              "Selênio",
+              "36 µg",
+              "72 µg"
+            ],
+            [
+              "Vitamina C",
+              "125 a 142 mg",
+              "250 a 284 mg"
+            ],
+            [
+              "Vitamina E",
+              "18 mg",
+              "36 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A expressão “sem adição de sacarose” se refere a um açúcar específico. A tabela declara de 1,4 a 1,5 g de açúcares adicionados por 100 ml, dependendo do sabor."
+        ]
+      },
+      {
+        "heading": "Caixinha, pó ou litro: o que muda",
+        "paragraphs": [
+          "Os três levam o nome Novasource Proline, mas a fórmula e o uso mudam. A loja vende a caixinha avulsa ou em combo de 10, a lata de pó de 330 g e o frasco de 1 litro sem sabor."
+        ],
+        "comparisonTable": {
+          "caption": "Valores das fichas da Nestlé Nutre. Traço indica dado sem confirmação na ficha do produto.",
+          "headers": [
+            "Característica",
+            "Caixinha de 200 ml",
+            "Pó de 330 g",
+            "Litro sem sabor"
+          ],
+          "rows": [
+            [
+              "Base da comparação",
+              "Caixinha inteira",
+              "Porção de 30 g (4 colheres de medida)",
+              "Por mL, conforme a ficha"
+            ],
+            [
+              "Calorias",
+              "Cerca de 276 kcal",
+              "126 kcal",
+              "1,3 kcal por mL"
+            ],
+            [
+              "Proteína",
+              "20 g",
+              "16 g",
+              "—"
+            ],
+            [
+              "Arginina / prolina",
+              "3.000 / 2.000 mg",
+              "3.300 / 3.000 mg",
+              "—"
+            ],
+            [
+              "Rende",
+              "1 caixinha",
+              "11 porções",
+              "1 litro"
+            ],
+            [
+              "Depois de aberto",
+              "Geladeira, até 24 horas",
+              "Até 30 dias",
+              "—"
+            ],
+            [
+              "Sabores",
+              "Baunilha, morango e cappuccino",
+              "Sem sabor",
+              "Sem sabor"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Uma porção de 30 g do pó tem menos da metade das calorias da caixinha inteira, menos proteína e mais arginina e prolina. A página do pó informa que ele é para adultos e é inadequado como única fonte de nutrição.",
+          "A descrição do litro informa 1,3 kcal por mL, ausência de lactose e ausência de adição de sacarose. A ficha descreve uso com equipo. Confirme a apresentação especificada pelo profissional antes da compra."
+        ],
+        "image": "/images/reviews/nutren/novasource-proline-po-330g-oficial.webp",
+        "imageAlt": "Lata de 330 g do Novasource Proline em pó, sem sabor, com 16 g de proteínas por porção e colher medida inclusa",
+        "imageCaption": "Novasource Proline em pó, lata de 330 g com colher medida. Foto oficial da Nestlé Nutre.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Quanto custa cada formato do Novasource Proline",
+        "paragraphs": [
+          "Entre as compras únicas de caixinhas comparadas, o combo de baunilha teve o menor preço por unidade. A assinatura desse combo apareceu por menos por caixinha e exige entregas recorrentes."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da Nestlé Nutre em 19/11, sem frete. Desconto observado na compra única. A assinatura aparece pelo preço da loja. A porção do pó vem da ficha.",
+          "headers": [
+            "Compra",
+            "Preço",
+            "Rende",
+            "Custo na base indicada"
+          ],
+          "rows": [
+            [
+              "Combo baunilha de 10 caixinhas, com CECI",
+              "R$ 158,33",
+              "10 caixinhas",
+              "R$ 15,83 por caixinha"
+            ],
+            [
+              "Caixinha avulsa, com o CECI",
+              "R$ 17,81",
+              "1 caixinha",
+              "R$ 17,81"
+            ],
+            [
+              "Pó de 330 g, com o CECI",
+              "R$ 107,33",
+              "11 porções de 30 g",
+              "R$ 9,76 por porção"
+            ],
+            [
+              "Litro sem sabor, com o CECI",
+              "R$ 64,88",
+              "1 litro",
+              "R$ 6,49 por 100 ml"
+            ],
+            [
+              "Combo baunilha de 10, na assinatura",
+              "R$ 153,93",
+              "10 caixinhas",
+              "R$ 15,39 por caixinha"
+            ],
+            [
+              "Caixinha avulsa, preço de tabela",
+              "R$ 21,99",
+              "1 caixinha",
+              "R$ 21,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cappuccino tinha outro preço no site. Confira o sabor, a modalidade de compra e o frete pelo seu CEP."
+        ],
+        "links": [
+          {
+            "label": "Regras do cupom CECI na Nestlé Nutre",
+            "href": "/cupons/nestle-nutre"
+          },
+          {
+            "label": "Ver o combo de 10 caixinhas de baunilha na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/combo-novasource-proline-bau-10-unis",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Novasource Proline em pó na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/novasource-proline-po-330g",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Como conservar cada versão",
+        "bullets": [
+          "A caixinha vem pronta. A Nestlé orienta agitar antes de usar e manter a embalagem fechada em local seco e fresco. Depois de aberta, deve ficar tampada na geladeira por até 24 horas.",
+          "Para o pó, use a colher de medida que acompanha a lata e siga o preparo da embalagem. A ficha orienta consumo imediatamente após o preparo e uso do pó em até 30 dias após abrir a lata."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quantas caixinhas de Novasource Proline por dia? Siga a quantidade definida pelo médico ou nutricionista. A porção nutricional na tabela serve para ler o rótulo.",
+          "Novasource Proline tem lactose? A tabela da caixinha declara 0,1 g por 100 ml. A descrição do litro declara ausência de lactose. Confira a versão da sua compra.",
+          "Novasource Proline tem açúcar? A caixinha declara 1,5 g de açúcares totais por 100 ml, com 1,4 a 1,5 g de açúcares adicionados, conforme o sabor.",
+          "Quanto tempo dura o Novasource Proline depois de aberto? A caixinha fica tampada na geladeira por até 24 horas. Para a lata de pó, a ficha informa até 30 dias depois de aberta.",
+          "O cupom CECI vale no Novasource Proline? Deu 10% nos testes de compra única da caixinha, do combo de baunilha, do pó e do litro."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1079,
+    "slug": "nutren-active-para-que-serve",
+    "title": "Nutren Active: para que serve, como tomar e a diferença para o Senior e o Protein",
+    "seoTitle": "Nutren Active: para que serve, como tomar e preço",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a Nestlé declara sobre o Nutren Active: a tabela com e sem leite, como preparar, a diferença para o Senior e o Protein e se compensa a lata de 400 g ou a embalagem de 700 g.",
+    "metaDescription": "CECI dá 10% no Nutren Active. Veja para que serve, a tabela com e sem leite, como tomar e se compensa a lata de 400 g ou a embalagem de 700 g.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nutren-active-para-que-serve-capa.webp",
+    "imageAlt": "Capa com o logo da Nestlé Nutre, o título Nutren Active, o cupom CECI, a lata de 400 g e a embalagem econômica de 700 g sabor baunilha",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Nutren Active na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver o Nutren Active na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/nutren-active-baunilha-lata-400g",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+    "decision": {
+      "takeIf": [
+        "Você prefere gastar menos na compra de uma unidade ou quer chocolate ou morango. A lata de 400 g atende a esses critérios.",
+        "Você já usa o produto, prefere baunilha e quer pagar menos por grama. A embalagem de 700 g teve o menor preço por grama na comparação."
+      ],
+      "skipIf": [
+        "Você precisa evitar lactose ou glúten. A Nestlé informa a presença dos dois no Active."
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem"
+      },
+      {
+        "slug": "nutren-protein-ou-whey"
+      },
+      {
+        "slug": "nutren-senior-como-tomar-sem-empelotar"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Nutren Active é um composto lácteo em pó que a Nestlé apresenta para jovens e adultos. Na baunilha, a porção de pó tem 7,5 g de proteína. Os 14 g da embalagem incluem 180 ml de leite desnatado no preparo. O CECI deu 10% nas compras únicas de 400 g e 700 g testadas."
+        ]
+      },
+      {
+        "heading": "Para que serve o Nutren Active, segundo a Nestlé",
+        "paragraphs": [
+          "A Nestlé apresenta o Active como complemento para a alimentação de jovens e adultos. A embalagem de baunilha identifica o produto como composto lácteo e traz a indicação de nutrição diária para adultos.",
+          "A quantidade de proteína da frente da embalagem vale para o preparo com leite desnatado. A tabela abaixo separa o que vem do pó do que aparece na bebida pronta. A marca orienta usar o Active como complemento da alimentação."
+        ],
+        "image": "/images/reviews/nutren/nutren-active-baunilha-400g-oficial.webp",
+        "imageAlt": "Lata de 400 g do Nutren Active sabor baunilha, com 14 g de proteínas adicionado ao leite e 18 vitaminas e minerais",
+        "imageCaption": "Nutren Active Baunilha, lata de 400 g. Foto oficial da Nestlé Nutre.",
+        "imageFit": "contain",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+      },
+      {
+        "heading": "Tabela nutricional do Nutren Active: só o pó e com leite",
+        "paragraphs": [
+          "A página publica as duas colunas, a do pó e a do preparo com 180 ml de leite desnatado. Estas são as linhas principais da baunilha:"
+        ],
+        "comparisonTable": {
+          "caption": "Valores da página da Nestlé Nutre. O morango tem a mesma tabela da baunilha.",
+          "headers": [
+            "Por porção de 31,5 g",
+            "Só o pó",
+            "Com 180 ml de leite desnatado"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "114 kcal",
+              "176 kcal"
+            ],
+            [
+              "Carboidratos",
+              "18 g",
+              "27 g"
+            ],
+            [
+              "Açúcares totais / adicionados",
+              "12 g / 1,5 g",
+              "21 g / 1,5 g"
+            ],
+            [
+              "Proteínas",
+              "7,5 g",
+              "14 g"
+            ],
+            [
+              "Gorduras totais",
+              "0,9 g",
+              "1,1 g"
+            ],
+            [
+              "Fibras",
+              "1,7 g",
+              "1,7 g"
+            ],
+            [
+              "Sódio",
+              "123 mg",
+              "200 mg"
+            ],
+            [
+              "Cálcio",
+              "325 mg (33% VD)",
+              "549 mg (55% VD)"
+            ],
+            [
+              "Ferro",
+              "3,9 mg",
+              "4 mg"
+            ],
+            [
+              "Zinco",
+              "3,2 mg",
+              "4 mg"
+            ],
+            [
+              "Vitamina D",
+              "2,3 µg",
+              "2,3 µg"
+            ],
+            [
+              "Vitamina B12",
+              "0,79 µg",
+              "1,7 µg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O chocolate tem 112 kcal, 8 g de proteína, 16 g de carboidratos e 2,5 g de fibras por porção de pó. Com leite desnatado, a ficha informa 174 kcal e 14 g de proteína.",
+          "O FAQ da Nestlé afirma que os três sabores têm zero adição de açúcares. Já as tabelas informam 1,5 g na baunilha e no morango e 4 g no chocolate, por porção de pó. Para conferir sua versão, use a tabela da embalagem que receber."
+        ]
+      },
+      {
+        "heading": "Como tomar o Nutren Active e como guardar",
+        "bullets": [
+          "No preparo descrito pela Nestlé, misture duas colheres de sopa cheias (31,5 g) a 180 ml de leite desnatado, frio ou quente. Consuma logo após preparar.",
+          "A FAQ também admite água. Nesse preparo, a proteína vem do pó: 7,5 g na baunilha e no morango ou 8 g no chocolate, pela tabela.",
+          "Se preferir quente, use o leite já aquecido. A Nestlé orienta evitar ferver o Active.",
+          "Depois de abrir a lata, mantenha-a fechada em local seco e fresco e siga o prazo de 30 dias da ficha. Para a embalagem de 700 g, confira as instruções de conservação no próprio saco."
+        ],
+        "postParagraphs": []
+      },
+      {
+        "heading": "Lata de 400 g ou embalagem de 700 g: quanto sai por porção",
+        "paragraphs": [
+          "A Nestlé vende a lata de 400 g em baunilha, morango e chocolate. Na leitura, a embalagem econômica de 700 g aparecia em baunilha. A de 400 g exigia menor desembolso e a de 700 g saía cerca de 19% mais barata por grama com CECI."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da baunilha na Nestlé Nutre em 19/11, sem frete nem leite. Valores com CECI observados na compra única. Custo por porção calculado sobre 31,5 g de pó.",
+          "headers": [
+            "Compra",
+            "Com o CECI",
+            "Por 100 g, com o CECI",
+            "Por porção, com o CECI"
+          ],
+          "rows": [
+            [
+              "Embalagem econômica de 700 g (baunilha)",
+              "R$ 80,91",
+              "R$ 11,56",
+              "Cerca de R$ 3,64"
+            ],
+            [
+              "Lata de 400 g (baunilha)",
+              "R$ 57,14",
+              "R$ 14,29",
+              "Cerca de R$ 4,50"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A página de 700 g repete o rendimento exibido na de 400 g. Pelo peso e pela porção de 31,5 g, a estimativa é de cerca de 22 porções no saco de 700 g. Confira o rendimento declarado na embalagem que chegar.",
+          "Na leitura, o preço da assinatura aparecia igual ao de compra única com o CECI. Confira a frequência das entregas antes de assinar."
+        ],
+        "image": "/images/reviews/nutren/nutren-active-700g-embalagem-economica-oficial.webp",
+        "imageAlt": "Embalagem econômica de 700 g do Nutren Active sabor baunilha, em saco",
+        "imageCaption": "Nutren Active Baunilha na embalagem econômica de 700 g, em saco. Foto oficial da Nestlé Nutre.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "Regras do cupom CECI na Nestlé Nutre",
+            "href": "/cupons/nestle-nutre"
+          },
+          {
+            "label": "Ver a embalagem de 700 g na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/nutren-active-baunilha-lata-400g-1",
+            "sponsored": true
+          }
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+      },
+      {
+        "heading": "Nutren Active, Senior ou Protein: o que muda",
+        "paragraphs": [
+          "A marca separa os três pelo público, e a tabela acompanha. Os valores abaixo são do pó, por porção."
+        ],
+        "comparisonTable": {
+          "caption": "Valores das páginas da Nestlé Nutre. \"Com leite\" é o preparo com 180 ml de leite desnatado. Traço: a tabela não traz o dado.",
+          "headers": [
+            "",
+            "Active Baunilha",
+            "Senior Sem Sabor Zero Lactose",
+            "Protein em pó"
+          ],
+          "rows": [
+            [
+              "Porção",
+              "31,5 g",
+              "27,5 g",
+              "31,5 g"
+            ],
+            [
+              "Calorias",
+              "114 kcal",
+              "113 kcal",
+              "120 kcal"
+            ],
+            [
+              "Proteína",
+              "7,5 g (14 g com leite)",
+              "10 g",
+              "14 g (20 g com leite)"
+            ],
+            [
+              "Lactose",
+              "Contém",
+              "0 g",
+              "Contém"
+            ],
+            [
+              "Glúten",
+              "Contém",
+              "Não contém",
+              "Contém"
+            ],
+            [
+              "Cafeína",
+              "—",
+              "—",
+              "80 mg"
+            ],
+            [
+              "Para quem, segundo a página",
+              "Jovens e adultos",
+              "A partir dos 50 anos",
+              "Jovens e adultos, e a partir dos 50 anos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Protein em pó tem cafeína, e a página dele diz que o produto não deve ser consumido por gestantes, lactantes e crianças. O Senior Sem Sabor Zero Lactose é a única das três sem lactose. A comparação do Protein com whey está no nosso [guia do Nutren Protein](/reviews/nutren-protein-ou-whey), e a linha inteira, no [guia de qual Nutren escolher](/reviews/nestle-nutre-produtos-para-que-servem)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nutren Active engorda? A porção de baunilha tem 114 kcal no pó ou 176 kcal com 180 ml de leite desnatado. O efeito no peso depende da alimentação ao longo do tempo.",
+          "Pode tomar Nutren Active com água? A Nestlé admite esse preparo. Para comparar a proteína, use a coluna do pó no sabor escolhido.",
+          "Nutren Active tem lactose e glúten? A Nestlé informa que contém os dois. Consulte um profissional de saúde se tiver restrição alimentar ou precisar saber se o produto cabe na sua rotina.",
+          "Quantas porções rende o Nutren Active? A lata de 400 g tem cerca de 13 porções na tabela da marca. Na de 700 g, cerca de 22 porções é a estimativa pelo peso, com 31,5 g por porção.",
+          "O cupom CECI vale no Nutren Active? Deu 10% no teste da compra única de 400 g e 700 g."
+        ]
       }
     ]
   }
