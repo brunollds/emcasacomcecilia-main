@@ -274124,5 +274124,1067 @@ export const reviewsData: unknown[] = [
         "slug": "dolce-gusto-neo-vale-a-pena"
       }
     ]
+  },
+  {
+    "id": 1095,
+    "slug": "cupom-gocase-como-usar",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIAA",
+    "affiliate": "gocase",
+    "type": "Guia & Cupons",
+    "title": "Cupom Gocase: como aplicar o CECILIAA no checkout e com o que ele soma",
+    "seoTitle": "Como usar o cupom CECILIAA na Gocase, 5% OFF",
+    "description": "Saiba onde digitar o CECILIAA na Gocase, veja os três carrinhos em que o cupom deu 5% e confira a exceção da oferta de capinhas e a regra do frete grátis.",
+    "metaDescription": "O cupom CECILIAA dá 5% OFF na Gocase, para cliente novo e antigo, e somou com os preços da Black Friday. Veja onde digitar e a conta dos testes.",
+    "image": "/images/reviews/gocase/cupom-gocase-como-usar-capa.webp",
+    "imageAlt": "Capa com o logo da Gocase, o título “Como usar o cupom”, o cupom CECILIAA de 5% e, em foto oficial da loja, a garrafa Fresh rosa e o copo Life branco.",
+    "cta": {
+      "text": "Abra a loja pelo botão desta página, monte o carrinho e clique em Finalizar compra. Depois de se identificar com e-mail e CPF, digite CECILIAA no campo Tem um cupom? e clique em Aplicar.",
+      "label": "Ir para a Gocase",
+      "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Cupom testado no checkout do site oficial. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-gocase"
+      },
+      {
+        "slug": "cupom-gocase-primeira-compra"
+      },
+      {
+        "slug": "gocase-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Use CECILIAA, com dois A no fim, para ter 5% OFF no site oficial da Gocase, na primeira compra ou nas seguintes. No checkout, informe e-mail e CPF e cole o código em “Tem um cupom?”. Nos nossos testes, o desconto também entrou sobre os preços da Black Friday."
+        ]
+      },
+      {
+        "heading": "Onde digitar o cupom na Gocase",
+        "paragraphs": [
+          "Você pode copiar o CECILIAA da [página do cupom Gocase](/cupons/gocase). Deixe o código à mão para aplicar no fechamento do pedido."
+        ],
+        "bullets": [
+          "**Abra o checkout.** Coloque os produtos no carrinho e clique em “Finalizar compra”.",
+          "**Identifique-se.** Informe e-mail e CPF para o campo aceitar o código.",
+          "**Aplique o código.** Cole CECILIAA em “Tem um cupom?”, no resumo do pedido, e clique em “Aplicar”.",
+          "**Confira o desconto.** Procure a linha “Desconto (CECILIAA)” antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da Gocase com o cupom CECILIAA aplicado: desconto de R$ 18,99 sobre R$ 379,70 em produtos e total de R$ 360,71",
+            "caption": "O CECILIAA aplicado no resumo do checkout. A linha de desconto mostra quanto o cupom tirou do pedido.",
+            "objectFit": "contain",
+            "aspectRatio": 0.65
+          }
+        ]
+      },
+      {
+        "heading": "Quanto o CECILIAA descontou nos nossos carrinhos",
+        "paragraphs": [
+          "Testamos três carrinhos em 19/11. O CECILIAA tirou 5% do valor dos produtos em todos eles."
+        ],
+        "comparisonTable": {
+          "caption": "Carrinhos testados, com 5% sobre o total dos produtos",
+          "headers": [
+            "Carrinho",
+            "Produtos",
+            "Desconto (5%)",
+            "Produtos com o cupom"
+          ],
+          "rows": [
+            [
+              "Quatro produtos com preço da GoBlack",
+              "R$ 789,60",
+              "− R$ 39,48",
+              "R$ 750,12"
+            ],
+            [
+              "Dois Copos Térmicos Moove a preço cheio e a Tote Mini em promoção",
+              "R$ 379,70",
+              "− R$ 18,99",
+              "R$ 360,71"
+            ],
+            [
+              "Pedido com frete grátis",
+              "R$ 319,70",
+              "− R$ 15,99",
+              "R$ 303,71"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No seu pedido, vale o que aparece na linha Desconto (CECILIAA) do checkout."
+        ]
+      },
+      {
+        "heading": "O cupom soma com a Black Friday e com promoção?",
+        "paragraphs": [
+          "Nos nossos testes, sim. No primeiro carrinho, todos os produtos eram da GoBlack, a campanha de Black Friday da loja, e os 5% saíram sobre o preço deles. No segundo, a Tote Mini estava em promoção, de R$ 219,90 por R$ 149,90, e também ganhou o desconto.",
+          "O [regulamento do Compre 1 e Leve 2](https://gocase.goconnect360.com.br/hc/gocase/articles/1752173798-promocao-compre-1-e-leve-2-entenda-como-funciona) exclui o uso de cupons nessa oferta de capinhas. Na vitrine ela aparece como “Leve 2, Pague 1”.",
+          "Para quem nunca comprou na loja, veja o [cupom na primeira compra](/reviews/cupom-gocase-primeira-compra). Para a campanha, veja [Black Friday na Gocase](/reviews/black-friday-gocase)."
+        ]
+      },
+      {
+        "heading": "Frete grátis: a regra por estado",
+        "paragraphs": [
+          "O [regulamento de frete da Gocase](https://checkout.gocase.com.br/regulamento-frete) informa frete grátis na entrega Normal acima de R$ 229,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP, e acima de R$ 399,00 nos demais estados. Conta o valor dos produtos depois dos descontos.",
+          "A [Central de Ajuda](https://gocase.goconnect360.com.br/hc/gocase/articles/1752173798-promocao-de-frete-gratis) ainda exibe R$ 199,90 para o primeiro grupo. Na hora de comprar, informe o CEP e confira o frete no resumo do pedido depois de aplicar o cupom.",
+          "Pedidos com mala de bordo ou mochila de rodinhas ficam fora da promoção de frete."
+        ]
+      },
+      {
+        "heading": "Se o código não entrar",
+        "paragraphs": [
+          "Se o desconto não aparecer, confira três coisas antes de pagar."
+        ],
+        "bullets": [
+          "**A grafia.** CECILIAA, com dois A, tudo junto e sem espaço antes ou depois.",
+          "**A identificação.** O campo só aceita o código depois de você informar e-mail e CPF no checkout.",
+          "**A linha de desconto.** Ela aparece no resumo do pedido, como Desconto (CECILIAA), quando o cupom entra."
+        ],
+        "postParagraphs": [
+          "Confira as [condições do cupom Gocase](/cupons/gocase). Se é seu primeiro pedido, veja também [quem vende, como a loja entrega e como funcionam as trocas](/reviews/gocase-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Onde coloco o cupom na Gocase? Clique em “Finalizar compra”, informe e-mail e CPF e cole CECILIAA em “Tem um cupom?”. Clique em “Aplicar” e confira os 5% no resumo do pedido.",
+          "O cupom Gocase soma com a Black Friday? Nos nossos testes, sim: os 5% entraram sobre produtos da GoBlack e sobre uma bolsa em promoção. A promoção de capinhas Compre 1 e Leve 2 fica de fora, pela regra da loja.",
+          "O cupom vale para quem já comprou? Sim. O CECILIAA dá 5% OFF no site oficial para cliente novo e antigo.",
+          "O cupom Gocase dá frete grátis? O CECILIAA dá 5% OFF nos produtos do site oficial. O frete grátis da entrega Normal segue o valor do pedido depois dos descontos e a regra para o seu CEP. Confira o total antes de pagar.",
+          "O cupom vale no Mercado Livre? O CECILIAA é um código do site oficial da Gocase e entra no checkout de lá. Não conferimos marketplaces nem o TikTok Shop."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "slug": "black-friday-gocase",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIAA",
+    "affiliate": "gocase",
+    "type": "Guia de Black Friday",
+    "title": "Black Friday Gocase 2026: preços de garrafas, copos e bolsas com o CECILIAA",
+    "seoTitle": "Black Friday Gocase 2026: promoções e o cupom de 5%",
+    "description": "Compare os preços de garrafas, copos e bolsas na Black Friday da Gocase, veja a conta com o CECILIAA e confira a regra do Leve 2, Pague 1.",
+    "metaDescription": "CECILIAA dá 5% OFF na Gocase e somou com preços de Black Friday nos nossos testes. Compare garrafas, copos e bolsas e confira o frete.",
+    "image": "/images/reviews/gocase/black-friday-gocase-capa.webp",
+    "imageAlt": "Capa com o logo da Gocase, o título “Black Friday”, o cupom CECILIAA de 5% e, em foto oficial da loja, a garrafa Fresh, a Tote Daily preta e o copo Life.",
+    "cta": {
+      "text": "Abra o site pelo botão e monte o carrinho. No checkout, o campo de cupom só aceita o código depois da identificação com e-mail e CPF; digite CECILIAA e confira a linha Desconto (CECILIAA) e o total antes de pagar.",
+      "label": "Ir para a Gocase",
+      "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Não usamos os produtos. Preços lidos no site oficial e cupom testado no checkout. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-gocase-como-usar"
+      },
+      {
+        "slug": "gocase-e-boa"
+      },
+      {
+        "slug": "cupom-gocase-primeira-compra"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Black Friday da Gocase, o CECILIAA deu mais 5% OFF em produtos já em promoção nos nossos testes. Confira os preços de garrafas, copos e bolsas com o código. Se estiver comprando capinhas, o regulamento do Leve 2, Pague 1 exclui cupons. A loja não divulgou a data de fim nas páginas consultadas."
+        ]
+      },
+      {
+        "heading": "Garrafas e copos: quanto saem com o CECILIAA",
+        "paragraphs": [
+          "Entre os três térmicos que comparamos, a Urban de 500 ml tem o menor preço. A Fresh tem 650 ml na versão da tabela, e o Life de 880 ml vem com alça e canudo.",
+          "Os preços são da leitura de 19/11. Nas duas tabelas, calculamos 5% de desconto sobre o valor anunciado, com o desconto arredondado ao centavo como nos carrinhos testados. O frete depende do seu CEP."
+        ],
+        "comparisonTable": {
+          "caption": "Preço anunciado e simulação com 5% OFF no valor dos produtos.",
+          "headers": [
+            "Produto",
+            "Preço na loja",
+            "Com CECILIAA"
+          ],
+          "rows": [
+            [
+              "Garrafa Térmica Fresh + Ebook, 650 ml, Clear",
+              "R$ 99,90",
+              "R$ 94,90"
+            ],
+            [
+              "Copo Térmico Life + Ebook, 880 ml, Clear",
+              "R$ 99,90",
+              "R$ 94,90"
+            ],
+            [
+              "Garrafa Térmica Urban + Ebook, 500 ml, Futurist",
+              "R$ 89,90",
+              "R$ 85,40"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o código, a economia estimada é de R$ 5,00 na Fresh e no Life e de R$ 4,50 na Urban. Confira tamanho, cor e total no checkout."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/gocase/gocase-garrafa-tote-copo-oficial.webp",
+            "alt": "Montagem com a garrafa Fresh rosa, a Tote Daily preta e o copo Life branco da Gocase.",
+            "caption": "Fresh, Tote Daily e Life em fotos da Gocase. Os preços das tabelas valem para as versões indicadas.",
+            "objectFit": "contain",
+            "aspectRatio": 2.19
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Garrafa Fresh na Gocase",
+            "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Copo Life na Gocase",
+            "href": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8747",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Garrafa Urban Futurist na Gocase",
+            "href": "https://www.gocase.com.br/garrafa-termica-urban-futurist/p/5523",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Totes e bolsas: compare a versão que você quer",
+        "paragraphs": [
+          "A Tote Mini e a Moove Manuscrita têm o mesmo preço nesta leitura. Se quer levar notebook, confira as medidas da bolsa e do compartimento no [guia de produtos da Gocase](/reviews/gocase-e-boa)."
+        ],
+        "comparisonTable": {
+          "caption": "Preço anunciado na versão indicada e simulação com 5% OFF.",
+          "headers": [
+            "Produto",
+            "Preço na loja",
+            "Com CECILIAA"
+          ],
+          "rows": [
+            [
+              "Tote Daily, Clear",
+              "R$ 159,90",
+              "R$ 151,90"
+            ],
+            [
+              "Tote Mini, Clear",
+              "R$ 149,90",
+              "R$ 142,40"
+            ],
+            [
+              "Bolsa Moove, Manuscrita",
+              "R$ 149,90",
+              "R$ 142,40"
+            ],
+            [
+              "Bolsa Joy Pro, Clear",
+              "R$ 199,90",
+              "R$ 189,90"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Ver a Tote Daily na Gocase",
+            "href": "https://www.gocase.com.br/totebag-daily-clear/p/5916",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Piscou Perdeu e Leve 2, Pague 1",
+        "paragraphs": [
+          "A [vitrine do Piscou Perdeu](https://www.gocase.com.br/lp/piscou-perdeu-bf26/garrafa-fresh) separa as ofertas por produto. Use as abas para encontrar seu modelo e confira o preço da cor ou estampa que vai comprar.",
+          "No [Leve 2, Pague 1 das capinhas](https://gocase.goconnect360.com.br/hc/gocase/articles/1752173798-promocao-compre-1-e-leve-2-entenda-como-funciona), coloque duas capinhas participantes no mesmo carrinho. A loja desconta automaticamente a de menor preço. O regulamento exclui cupons nessa oferta."
+        ]
+      },
+      {
+        "heading": "O cupom soma com a Black Friday?",
+        "paragraphs": [
+          "Nos nossos testes, o [cupom Gocase](/cupons/gocase) CECILIAA deu 5% sobre preços de Black Friday. Em um carrinho, a Tote Mini em promoção fazia parte de um pedido de R$ 379,70 em produtos. Com o código, o valor dos produtos caiu para R$ 360,71."
+        ]
+      },
+      {
+        "heading": "Frete grátis na Black Friday",
+        "paragraphs": [
+          "O [regulamento de frete da Gocase](https://checkout.gocase.com.br/regulamento-frete) informa frete grátis na entrega Normal acima de R$ 229,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP, e acima de R$ 399,00 nos demais estados. Conta o valor dos produtos depois dos descontos.",
+          "A [Central de Ajuda](https://gocase.goconnect360.com.br/hc/gocase/articles/1752173798-promocao-de-frete-gratis) ainda exibe R$ 199,90 para o primeiro grupo. Na hora de comprar, informe o CEP e confira o frete no resumo do pedido depois de aplicar o cupom.",
+          "Pedidos com mala de bordo ou mochila de rodinhas ficam fora da promoção de frete."
+        ]
+      },
+      {
+        "heading": "Até quando vai a Black Friday da Gocase?",
+        "paragraphs": [
+          "A Gocase exibe um contador na vitrine, mas as páginas consultadas não traziam uma data de fim da campanha. Abra a oferta do modelo que você quer e confirme o preço no carrinho."
+        ]
+      },
+      {
+        "heading": "Como usar o código",
+        "bullets": [
+          "Abra a loja, monte o carrinho e clique em “Finalizar compra”.",
+          "Informe e-mail e CPF para o campo aceitar o código.",
+          "Cole CECILIAA, com dois A no fim, em “Tem um cupom?”. Clique em “Aplicar” e confira a linha “Desconto (CECILIAA)”."
+        ],
+        "postParagraphs": [
+          "O passo a passo com as telas está em [como usar o cupom CECILIAA na Gocase](/reviews/cupom-gocase-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Gocase tem Black Friday? A vitrine da Gocase mostra o Esquenta Black Friday e o Piscou Perdeu, com ofertas em térmicos e bolsas, entre outras linhas.",
+          "Até quando vai a Black Friday da Gocase? As páginas consultadas exibiam um contador, sem data de fim publicada. Confira o preço do seu modelo no carrinho.",
+          "O cupom Gocase soma com a Black Friday? Nos nossos testes, os 5% do CECILIAA entraram sobre preços de Black Friday. O regulamento do Leve 2, Pague 1 das capinhas exclui cupons nessa oferta.",
+          "O cupom Gocase dá frete grátis? O CECILIAA dá 5% OFF nos produtos do site oficial. O frete grátis da entrega Normal segue o valor do pedido depois dos descontos e a regra para o seu CEP. Confira o total antes de pagar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1097,
+    "slug": "gocase-e-confiavel",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIAA",
+    "affiliate": "gocase",
+    "title": "Gocase é confiável? Quem vende, como entrega e como faz trocas",
+    "seoTitle": "Gocase é confiável? Reclame Aqui, entrega e trocas",
+    "type": "Editorial",
+    "description": "Confira quem vende no site da Gocase, a nota no Reclame Aqui, onde ficam as lojas físicas e as políticas de entrega, personalização, troca e garantia.",
+    "metaDescription": "CECILIAA dá 5% OFF na Gocase. Antes, veja quem vende, de onde é a marca, a nota no Reclame Aqui, o prazo de entrega e as regras de troca.",
+    "image": "/images/reviews/gocase/gocase-e-confiavel-capa.webp",
+    "imageAlt": "Capa com o logo da Gocase, o título “É confiável?”, o cupom CECILIAA de 5% e, em foto oficial da loja, a Tote Daily preta.",
+    "cta": {
+      "text": "Se a Gocase faz sentido para a sua compra, use o botão para ir ao site oficial e digite o código CECILIAA no checkout, depois de se identificar com e-mail e CPF.",
+      "label": "Ir para a Gocase",
+      "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com o site oficial, a Central de Ajuda, o Reclame Aqui e a consulta pública do CNPJ. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "gocase-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "gocase-e-boa"
+      },
+      {
+        "slug": "cupom-gocase-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Gocase tem matriz em Fortaleza, filial em Extrema e três lojas físicas. No Reclame Aqui, teve reputação Ótima, com nota 8,5 de maio a outubro de 2026. Antes de comprar, confira a previsão de entrega para o seu CEP e revise a estampa, o nome ou a foto. A loja restringe a devolução por arrependimento de itens personalizados."
+        ]
+      },
+      {
+        "heading": "Quem vende e de onde é",
+        "paragraphs": [
+          "Quem vende é a Go Comércio de Artigos Eletrônicos e Acessórios Ltda. O rodapé do site traz o CNPJ 22.165.464/0003-52, da filial em Extrema (MG). O Reclame Aqui mostra 22.165.464/0001-90, da matriz em Fortaleza (CE), aberta em 2015, segundo a consulta cadastral."
+        ]
+      },
+      {
+        "heading": "A reputação em resumo",
+        "paragraphs": [
+          "De maio a outubro, a reputação da Gocase no Reclame Aqui foi Ótima, com nota 8,5 de 10. O perfil registrava 85,6% das reclamações resolvidas.",
+          "Veja [quais problemas aparecem e como acionar o atendimento](/reviews/gocase-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Como descobrir quando seu pedido chega",
+        "paragraphs": [
+          "Informe o CEP no carrinho para ver o frete e a previsão de entrega. A Central de Ajuda informa que a Gocase envia por Correios ou transportadora privada e exclui endereços de caixa postal.",
+          "Se o item for personalizado ou você tiver uma data para receber, olhe também o prazo de produção e postagem na página do produto. A Gocase avisa que essa etapa pode levar mais tempo durante campanhas.",
+          "Depois de comprar, abra “Meus pedidos” e selecione “Rastrear pedido”. Segundo a Gocase, o código de rastreio chega por e-mail em até quatro dias úteis após a postagem, prazo incluído na previsão de entrega.",
+          "Se o pedido atrasar, a loja orienta aguardar até cinco dias úteis depois da data máxima no rastreio. Depois desse prazo, o atendimento abre uma solicitação com a transportadora."
+        ]
+      },
+      {
+        "heading": "Trocas e devoluções",
+        "paragraphs": [
+          "A [política de trocas da Gocase](https://gocase.goconnect360.com.br/hc/gocase/pt_BR/categories/troca-e-devolues?article=1773265343-como-trocar-ou-devolver-um-produto-personalizado) distingue os itens com estampa, nome ou foto dos itens Clear, sem personalização."
+        ],
+        "bullets": [
+          "**Personalizado.** Pela política da loja, estampa sem nome também conta como personalização. A Gocase restringe a devolução por arrependimento e orienta solicitar o cancelamento antes de começar a produção. Para defeito ou problema na entrega, acione o atendimento.",
+          "**Clear, sem estampa nem personalização.** A Gocase informa troca ou devolução em até sete dias corridos do recebimento, sem sinais de uso."
+        ],
+        "postParagraphs": [
+          "Se o produto chegar errado, avariado ou com defeito, guarde a nota e registre fotos para abrir a solicitação no atendimento.",
+          "O [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm#art49) prevê prazo de sete dias para o arrependimento em compras fora do estabelecimento. Em caso de recusa de devolução, guarde o protocolo e consulte o Procon sobre o seu caso."
+        ]
+      },
+      {
+        "heading": "Garantia por linha",
+        "paragraphs": [
+          "Para a garantia, a Central de Ajuda traz um prazo por linha de produto."
+        ],
+        "bullets": [
+          "**Garrafas e copos térmicos.** Um ano contra defeito de fabricação e seis meses contra descascamento.",
+          "**Capinhas.** Seis meses contra descascamento, seis meses contra amarelamento e três meses para os demais defeitos de fábrica.",
+          "**Bolsas e mochilas de tecido.** Seis meses contra descascamento da personalização e três meses para os demais defeitos. As páginas da Tote Daily e da Joy Pro falam em 90 dias contra defeitos de fabricação."
+        ]
+      },
+      {
+        "heading": "Lojas físicas e onde comprar",
+        "paragraphs": [
+          "A página Onde Encontrar lista três lojas físicas: no Shopping Iguatemi Fortaleza, no ParkShopping, em Brasília, e no Shopping Anália Franco, em São Paulo. Não encontramos loja física listada em Belo Horizonte nem no Rio de Janeiro.",
+          "Para comprar pelo site, confira se o endereço é gocase.com.br. A Gocase diz que não cobra taxas por SMS, WhatsApp ou e-mail."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/gocase/gocase-tote-daily-oficial.webp",
+            "alt": "Bolsa Tote Daily preta da Gocase, em foto oficial da loja.",
+            "caption": "Foto da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0156
+          }
+        ]
+      },
+      {
+        "heading": "Se decidir comprar",
+        "paragraphs": [
+          "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no site oficial, para cliente novo e antigo. O campo do código só aceita o código depois da identificação com e-mail e CPF, e o passo a passo está em [como usar o cupom CECILIAA](/reviews/cupom-gocase-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Gocase é brasileira? Sim. A matriz da empresa fica em Fortaleza, no Ceará.",
+          "A Gocase é de qual estado? A matriz, pela consulta pública do CNPJ, fica em Fortaleza, no Ceará. O CNPJ do rodapé do site é de uma filial em Extrema, em Minas Gerais.",
+          "A Gocase tem loja física? Sim. A loja lista três: no Shopping Iguatemi Fortaleza, no ParkShopping, em Brasília, e no Shopping Anália Franco, em São Paulo.",
+          "A Gocase troca produto personalizado? A política da loja restringe troca ou devolução por arrependimento de itens estampados, com nome ou foto. Se o produto chegar com defeito ou diferente do pedido, acione o atendimento.",
+          "Quanto tempo a Gocase demora para entregar? Depende do produto e do CEP. O prazo soma a produção e a postagem, informadas na página do produto, com o frete calculado no carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1098,
+    "slug": "gocase-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIAA",
+    "affiliate": "gocase",
+    "type": "Guia de Marca",
+    "title": "Gocase é boa? Como escolher garrafa térmica, bolsa e capinha",
+    "seoTitle": "Gocase é boa? Garrafa, bolsa e capinha pela ficha",
+    "description": "Compare a capacidade das garrafas, as medidas das bolsas e a garantia das capinhas da Gocase. Veja o que a loja informa para escolher cada produto.",
+    "metaDescription": "CECILIAA dá 5% OFF na Gocase. Compare capacidades da Fresh e da Urban, espaço para notebook nas bolsas e garantia das capinhas.",
+    "image": "/images/reviews/gocase/gocase-e-boa-capa.webp",
+    "imageAlt": "Capa com o logo da Gocase, o título “É boa?”, o cupom CECILIAA de 5% e, em foto oficial da loja, a garrafa Fresh rosa e a Bolsa Joy Pro preta.",
+    "cta": {
+      "text": "Abra o site pelo botão e monte o carrinho. No checkout, o campo de cupom só aceita o código depois da identificação com e-mail e CPF; digite CECILIAA e confira a linha Desconto (CECILIAA) e o total com frete antes de pagar.",
+      "label": "Ir para a Gocase",
+      "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Este guia usa as especificações da Gocase. Somos afiliados da marca e podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-gocase-como-usar"
+      },
+      {
+        "slug": "gocase-e-confiavel"
+      },
+      {
+        "slug": "black-friday-gocase"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer uma garrafa, copo ou bolsa com estampa ou nome.",
+        "Você quer decidir a bolsa pelo tamanho do notebook e pelo que mais leva junto."
+      ],
+      "skipIf": [
+        "Você vai levar bebida gaseificada na garrafa: a ficha da Fresh e da Urban não recomenda.",
+        "Você precisa da opção de devolver por arrependimento. A política da Gocase restringe essa devolução para itens personalizados."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Gocase faz sentido para quem quer personalizar uma garrafa, bolsa ou capinha. A loja oferece a Fresh em três tamanhos e a Urban de 500 ml. Para notebook, escolha a bolsa pelas medidas do compartimento. Os tempos de conservação e as medidas vêm das fichas da marca."
+        ]
+      },
+      {
+        "heading": "O que a Gocase vende",
+        "paragraphs": [
+          "A diferença entre as garrafas está no tamanho e nos cuidados de lavagem. Nas bolsas, comece pelo que precisa caber. Nas capinhas, confirme o modelo exato do seu celular antes de escolher a linha ou a estampa."
+        ]
+      },
+      {
+        "heading": "Garrafa Fresh: escolha pela capacidade e pelo peso",
+        "paragraphs": [
+          "Em todos os tamanhos da Fresh, a marca informa parede dupla a vácuo em aço inox 304 e conservação de até 24 horas para frios ou 12 horas para quentes. A ficha indica lavar o corpo à mão. A tampa pode ir à lava-louças.",
+          "Além da altura, confira o diâmetro se a garrafa for no bolso lateral da bolsa. A Fresh de 650 ml tem 7,4 cm de diâmetro. A de 950 ml é um pouco mais baixa, mas tem 9,15 cm de largura."
+        ],
+        "comparisonTable": {
+          "caption": "Garrafa Fresh por tamanho, segundo a ficha da loja.",
+          "headers": [
+            "Capacidade",
+            "Altura com tampa",
+            "Peso vazio"
+          ],
+          "rows": [
+            [
+              "650 ml",
+              "26,8 cm",
+              "345,50 g"
+            ],
+            [
+              "950 ml",
+              "26 cm",
+              "432,50 g"
+            ],
+            [
+              "1.200 ml",
+              "28,3 cm",
+              "469,68 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se o nome do produto trouxer “+ Ebook”, é um kit. A Gocase informa que envia o e-book ao e-mail cadastrado após a emissão da nota fiscal. A página não informa o tema."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
+            "alt": "Garrafa Térmica Fresh da Gocase em foto oficial da loja",
+            "caption": "Foto da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Garrafa Fresh na Gocase",
+            "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Urban de 500 ml ou copo Life com canudo",
+        "paragraphs": [
+          "A Urban de 500 ml pesa 298 g vazia, segundo a ficha. É a opção menor entre as garrafas deste guia. A Gocase informa até 24 horas de conservação a frio e até 12 a quente. A orientação é lavar a garrafa à mão e evitar bebidas gaseificadas.",
+          "Se prefere beber pelo canudo, o Life vem em 880 ml e 1.170 ml. A marca informa até 40 horas para bebidas com gelo e até seis horas para líquidos quentes de até 60 °C. Lave o corpo à mão. A tampa pode ir à lava-louças."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
+            "alt": "Copo Térmico Life da Gocase em foto oficial da loja",
+            "caption": "Foto da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6689
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Copo Life na Gocase",
+            "href": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8747",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Tote Daily, Tote Mini e Joy Pro: o que cabe",
+        "paragraphs": [
+          "Vai levar notebook? Meça o aparelho, incluindo a espessura, e compare com a tabela. A ficha da Joy Pro menciona tanto 14 quanto 15,6 polegadas. As medidas em centímetros servem para conferir se o seu aparelho cabe.",
+          "Pelas fichas, as duas totes têm porta-garrafa, e a Joy Pro admite a maior carga. Se pretende levá-la no avião, compare as dimensões da bolsa com o limite da companhia aérea."
+        ],
+        "comparisonTable": {
+          "caption": "Bolsas Clear pelas fichas da loja.",
+          "headers": [
+            "Modelo",
+            "Medidas da bolsa",
+            "Carga máxima",
+            "Compartimento do notebook"
+          ],
+          "rows": [
+            [
+              "Tote Daily",
+              "39 × 33 × 13,5 cm",
+              "5 kg",
+              "35,5 × 23,4 × 2 cm"
+            ],
+            [
+              "Tote Mini",
+              "28 × 38,5 × 13,5 cm",
+              "3 kg",
+              "24 × 36 × 2 cm"
+            ],
+            [
+              "Joy Pro",
+              "29 × 39 × 20 cm",
+              "8 kg",
+              "36 × 20 × 2 cm"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/gocase/gocase-tote-daily-oficial.webp",
+            "alt": "Tote Daily da Gocase em foto oficial da loja",
+            "caption": "Foto da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0156
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Tote Daily na Gocase",
+            "href": "https://www.gocase.com.br/totebag-daily-clear/p/5916",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Joy Pro na Gocase",
+            "href": "https://www.gocase.com.br/bolsa-joy-pro-clear/p/5565",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Capinhas: confirme o modelo do celular",
+        "paragraphs": [
+          "Veja o nome exato do aparelho nas configurações e selecione esse modelo na loja. Se você usa carregador ou suporte magnético, confira se o anúncio identifica a capinha como Slim Guard MagSafe.",
+          "A Central de Ajuda descreve a Anti Impacto Slim como a linha básica de TPU com silicone. Na linha Premium, a marca atribui proteção UV contra amarelamento e 30% de material reciclado às Slim Guard MagSafe e Slim Guard Clear."
+        ]
+      },
+      {
+        "heading": "Garantia, troca e personalização",
+        "paragraphs": [
+          "A garantia varia por linha na Central de Ajuda da loja."
+        ],
+        "comparisonTable": {
+          "caption": "Garantia por linha, segundo a Central de Ajuda da Gocase.",
+          "headers": [
+            "Linha",
+            "Garantia"
+          ],
+          "rows": [
+            [
+              "Garrafas e copos térmicos",
+              "1 ano contra defeito de fabricação e 6 meses contra descascamento"
+            ],
+            [
+              "Capinhas",
+              "6 meses contra descascamento, 6 meses contra amarelamento e 3 meses para os demais defeitos"
+            ],
+            [
+              "Bolsas e mochilas",
+              "6 meses contra descascamento da personalização e 3 meses para os demais defeitos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As fichas das bolsas da tabela informam 90 dias contra defeitos de fabricação. Na Tote Daily, a ficha também informa seis meses contra defeitos de personalização.",
+          "A [política da Gocase](https://gocase.goconnect360.com.br/hc/gocase/pt_BR/categories/troca-e-devolues?article=1773265343-como-trocar-ou-devolver-um-produto-personalizado) restringe a devolução por arrependimento de itens com estampa, nome ou foto. Para a versão Clear, sem estampa nem personalização, a loja informa até sete dias corridos do recebimento, sem sinais de uso."
+        ]
+      },
+      {
+        "heading": "Cupom e preços da campanha",
+        "paragraphs": [
+          "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no pedido, para cliente novo e antigo. O quadro de preços da campanha, com o valor de cada produto e a conta com o cupom, está no guia da [Black Friday da Gocase](/reviews/black-friday-gocase), e o passo a passo, em [como usar o CECILIAA](/reviews/cupom-gocase-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quanto tempo a Fresh da Gocase mantém a bebida gelada? A Gocase informa até 24 horas para bebidas frias e até 12 horas para quentes nas condições da ficha.",
+          "A Gocase tem garantia? Na Central de Ajuda, os térmicos têm um ano contra defeitos de fabricação e seis meses contra descascamento. Nas capinhas e nas bolsas, o prazo depende do defeito. Confira a cobertura do modelo que escolher.",
+          "Produto personalizado da Gocase tem troca? A política da Gocase restringe a troca por arrependimento de itens com estampa, nome ou foto. Se houver defeito ou problema na entrega, acione o atendimento.",
+          "A bolsa Gocase cabe notebook? Compare as medidas do aparelho com as do compartimento. A ficha indica até 35,5 × 23,4 × 2 cm para a Tote Daily e 36 × 20 × 2 cm para a Joy Pro.",
+          "O que é o ebook que vem com a garrafa? É um kit promocional: o e-book vai para o e-mail cadastrado depois da emissão da nota fiscal. A página não diz o tema, e cancelar um item do kit faz perder o benefício."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1099,
+    "slug": "gocase-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIAA",
+    "affiliate": "gocase",
+    "title": "Gocase no Reclame Aqui: a nota, o que mais gera reclamação e como a loja responde",
+    "seoTitle": "Gocase no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "description": "Veja a nota da Gocase no Reclame Aqui, o que muda entre os recortes de seis e doze meses, quais queixas aparecem e como acionar o atendimento.",
+    "metaDescription": "Na Gocase, CECILIAA dá 5% OFF. No Reclame Aqui, a loja teve nota 8,5 e reputação Ótima. Veja as queixas mais citadas.",
+    "image": "/images/reviews/gocase/gocase-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Capa com o logo da Gocase, o título “Reclame Aqui: a nota”, o cupom CECILIAA de 5% e, em foto oficial da loja, o copo Life branco.",
+    "cta": {
+      "text": "Se a Gocase faz sentido para a sua compra, use o botão para ir ao site oficial e digite o código CECILIAA no checkout, depois de se identificar com e-mail e CPF.",
+      "label": "Ir para a Gocase",
+      "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Dados do perfil público da Gocase no Reclame Aqui. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "gocase-e-confiavel"
+      },
+      {
+        "slug": "gocase-e-boa"
+      },
+      {
+        "slug": "cupom-gocase-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Gocase teve reputação Ótima no Reclame Aqui, com nota 8,5 de maio a outubro de 2026. No semestre, respondeu a 99,7% das reclamações, e 85,6% ficaram registradas como resolvidas. Na aba geral, que cobre até três anos, produto com defeito foi a queixa mais citada."
+        ]
+      },
+      {
+        "heading": "A nota e o que ela quer dizer",
+        "paragraphs": [
+          "O [perfil da Gocase no Reclame Aqui](https://www.reclameaqui.com.br/empresa/go-case/) mostra reputação Ótima em cada mês do semestre e traz o selo de empresa verificada. O perfil ajuda a avaliar como a loja atende quem registra uma reclamação."
+        ]
+      },
+      {
+        "heading": "O perfil em números",
+        "paragraphs": [
+          "Lemos os recortes de seis e doze meses em 19/11. Os dois terminam em outubro."
+        ],
+        "comparisonTable": {
+          "caption": "Indicadores do perfil da Gocase no Reclame Aqui.",
+          "headers": [
+            "Indicador",
+            "De maio a outubro de 2026",
+            "De novembro de 2025 a outubro de 2026"
+          ],
+          "rows": [
+            [
+              "Reputação e nota",
+              "Ótima, 8,5",
+              "Ótima, 8,5"
+            ],
+            [
+              "Reclamações recebidas",
+              "6.801",
+              "16.080"
+            ],
+            [
+              "Respondidas",
+              "99,7%",
+              "99,9%"
+            ],
+            [
+              "Resolvidas",
+              "85,6%",
+              "87,5%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "78,5%",
+              "78,2%"
+            ],
+            [
+              "Avaliadas",
+              "3.700",
+              "8.671"
+            ],
+            [
+              "Nota média do consumidor",
+              "7,79",
+              "7,64"
+            ],
+            [
+              "Tempo médio de resposta",
+              "5 dias e 4 horas",
+              "5 dias e 18 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A plataforma registra 12 reclamações sem resposta no semestre. Mesmo com quase todas respondidas, o prazo médio foi de 5 dias e 4 horas. Para estimar quantas compras viraram reclamação, seria preciso ter o total de pedidos desses períodos."
+        ]
+      },
+      {
+        "heading": "Queixas mais citadas no perfil da Gocase",
+        "paragraphs": [
+          "Na aba geral do Reclame Aqui, que reúne registros de até três anos, produto com defeito lidera entre os problemas. Acessórios de Vestuário é a categoria mais citada, e capas protetoras são o tipo de produto mais citado.",
+          "Entre os relatos recentes consultados também apareceram pedidos com rastreio parado, dúvidas sobre alterar a personalização e cancelamentos."
+        ]
+      },
+      {
+        "heading": "O que dá para saber por produto",
+        "paragraphs": [
+          "Se você está pesquisando uma garrafa, uma bolsa ou uma capinha, use o perfil para entender os tipos de queixa. Para comparar as garantias de cada linha, veja [as regras de troca e garantia da Gocase](/reviews/gocase-e-confiavel)."
+        ],
+        "image": {
+          "src": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
+          "alt": "Copo Térmico Life branco da Gocase, com alça e tampa com canudo, em foto oficial da loja",
+          "caption": "Copo Térmico Life, um dos térmicos da loja. Foto da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6689
+        }
+      },
+      {
+        "heading": "Como falar com a Gocase se o pedido der problema",
+        "paragraphs": [
+          "Tenha o número do pedido em mãos. Você pode chamar a loja pelo chat do site ou pelo Direct do Instagram."
+        ],
+        "bullets": [
+          "**Atraso.** Abra “Meus pedidos” e selecione “Rastrear pedido”. A Gocase orienta aguardar até cinco dias úteis após a data máxima antes de abrir uma solicitação com a transportadora.",
+          "**Troca ou devolução.** Abra a opção de trocas e devoluções na Central de Ajuda."
+        ],
+        "postParagraphs": [
+          "Guarde o protocolo do atendimento. Se a solicitação continuar sem solução, ele ajuda a documentar a reclamação."
+        ]
+      },
+      {
+        "heading": "Onde conferir a nota atual e o cupom",
+        "paragraphs": [
+          "Consulte o [perfil da Gocase no Reclame Aqui](https://www.reclameaqui.com.br/empresa/go-case/) para ver o recorte mais recente.",
+          "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no site oficial para clientes novos e antigos."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Como é o atendimento da Gocase no Reclame Aqui? No recorte de seis meses da nossa consulta, a reputação era Ótima, com nota 8,5 de 10 e 85,6% das reclamações resolvidas.",
+          "Qual a nota da Gocase no Reclame Aqui? Na nossa leitura, os recortes de seis e de doze meses tinham nota 8,5 de 10 e reputação Ótima.",
+          "Quais as reclamações mais comuns da Gocase? No recorte de até três anos da aba geral, produto com defeito foi o problema mais citado. Capas protetoras foram o tipo de produto mais citado.",
+          "Como falar com a Gocase? Pelo Direct do Instagram, pelo chat do site ou pela opção de trocas e devoluções na Central de Ajuda."
+        ]
+      }
+    ],
+    "bodyDatesReason": "reclame-aqui"
+  },
+  {
+    "id": 1100,
+    "slug": "cupom-gocase-primeira-compra",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIAA",
+    "affiliate": "gocase",
+    "type": "Guia & Cupons",
+    "title": "Cupom Gocase na primeira compra: 5% OFF com CECILIAA",
+    "seoTitle": "Cupom Gocase primeira compra: 5% OFF com CECILIAA",
+    "description": "Encontre o cupom de primeira compra da Gocase, saiba onde aplicar o CECILIAA no checkout e confira o frete e as condições de troca antes de personalizar.",
+    "metaDescription": "O CECILIAA dá 5% OFF na primeira compra da Gocase e também para quem já é cliente. Veja como aplicar, o frete grátis e a troca de personalizado.",
+    "image": "/images/reviews/gocase/cupom-gocase-primeira-compra-capa.webp",
+    "imageAlt": "Capa com o logo da Gocase, o título “Primeira compra”, o cupom CECILIAA de 5% e, em foto oficial da loja, a Tote Mini preta.",
+    "cta": {
+      "text": "Abra a loja pelo botão, monte o carrinho e clique em Finalizar compra. Depois de se identificar com e-mail e CPF, digite CECILIAA no campo Tem um cupom?, clique em Aplicar e confira o desconto antes de pagar.",
+      "label": "Ir para a Gocase",
+      "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Cupom testado no checkout do site oficial. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-gocase-como-usar"
+      },
+      {
+        "slug": "gocase-e-boa"
+      },
+      {
+        "slug": "black-friday-gocase"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na primeira compra no site da Gocase, use CECILIAA, com dois A no fim, para ter 5% OFF. Você encontra o código na [página do cupom Gocase](/cupons/gocase). Depois de informar e-mail e CPF no checkout, cole em “Tem um cupom?” e confira o desconto no resumo do pedido."
+        ]
+      },
+      {
+        "heading": "Onde achar o cupom da Gocase na primeira compra",
+        "paragraphs": [
+          "A Gocase é uma marca brasileira de capinhas, garrafas térmicas e bolsas, com opções de personalização. Se você ainda está decidindo se compra, veja [quem vende, como a loja entrega e como funcionam as trocas](/reviews/gocase-e-confiavel).",
+          "Copie CECILIAA na [página do cupom Gocase](/cupons/gocase). Ele dá 5% OFF no site oficial para clientes novos e antigos. Num carrinho que testamos em 19/11, os produtos passaram de R$ 379,70 para R$ 360,71 com o código."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da Gocase com o cupom CECILIAA aplicado: desconto de R$ 18,99 sobre R$ 379,70 em produtos e total de R$ 360,71",
+            "caption": "O CECILIAA aplicado no resumo do checkout, com a linha de desconto do pedido.",
+            "objectFit": "contain",
+            "aspectRatio": 0.65
+          }
+        ]
+      },
+      {
+        "heading": "O que conferir antes do primeiro pedido",
+        "paragraphs": [
+          "Alguns pontos da política da loja valem conferir antes de fechar o primeiro pedido. A loja informa:"
+        ],
+        "bullets": [
+          "**Personalização.** Confira nome, foto ou estampa antes de pagar. A [política da Gocase](https://gocase.goconnect360.com.br/hc/gocase/pt_BR/categories/troca-e-devolues?article=1773265343-como-trocar-ou-devolver-um-produto-personalizado) inclui a estampa sem nome como personalização e restringe a devolução por arrependimento. A loja aceita pedido de cancelamento antes de começar a produzir.",
+          "**Versão Clear.** Para produtos sem estampa nem personalização, a loja informa troca ou devolução pelo atendimento em até 7 dias corridos do recebimento, sem sinais de uso.",
+          "**Frete grátis.** A entrega Normal segue o valor do pedido depois dos descontos e a faixa do seu CEP. Mala de bordo e mochila de rodinhas ficam fora da promoção de frete."
+        ],
+        "postParagraphs": [
+          "A Gocase publica valores diferentes para alguns estados. Veja [os dois limites no guia do cupom](/reviews/cupom-gocase-como-usar) e confirme o frete do seu pedido com o CEP e o cupom aplicado."
+        ]
+      },
+      {
+        "heading": "Por onde começar",
+        "paragraphs": [
+          "Se ainda estiver escolhendo, compare os tamanhos das garrafas, as medidas das bolsas e as linhas de capinhas no [guia de produtos da Gocase](/reviews/gocase-e-boa)."
+        ],
+        "links": [
+          {
+            "label": "Ver a Garrafa Térmica Fresh + Ebook Clear na Gocase",
+            "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
+            "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
+            "alt": "Garrafa Térmica Fresh da Gocase em foto oficial da loja",
+            "caption": "Foto da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5
+          }
+        ]
+      },
+      {
+        "heading": "Como aplicar o cupom",
+        "paragraphs": [
+          "O campo do cupom fica no resumo do pedido. Para ver o teste com a tela do desconto, consulte o [passo a passo do CECILIAA](/reviews/cupom-gocase-como-usar)."
+        ],
+        "bullets": [
+          "No carrinho, clique em “Finalizar compra” e informe e-mail e CPF.",
+          "Cole CECILIAA no campo “Tem um cupom?” e clique em “Aplicar”.",
+          "Confira a linha “Desconto (CECILIAA)” no resumo antes de pagar."
+        ],
+        "postParagraphs": [
+          "Para os preços da campanha e a conta com o cupom, veja [Black Friday na Gocase](/reviews/black-friday-gocase)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o desconto na primeira compra da Gocase? O cupom CECILIAA dá 5% OFF no site oficial. Depois de informar e-mail e CPF no checkout, aplique o código em “Tem um cupom?”.",
+          "O cupom Gocase vale para quem já comprou? Sim. O CECILIAA dá 5% OFF no site oficial para clientes novos e antigos.",
+          "A primeira compra da Gocase tem frete grátis? O frete grátis da entrega Normal segue a regra para o CEP e o valor do pedido depois dos descontos. Simule com seu CEP e confira o total depois de aplicar CECILIAA.",
+          "O cupom Gocase soma com a Black Friday? Nos nossos testes, os 5% do CECILIAA entraram sobre preços de Black Friday. O regulamento do Compre 1 e Leve 2 das capinhas exclui o uso de cupons nessa oferta."
+        ]
+      }
+    ]
   }
 ];
