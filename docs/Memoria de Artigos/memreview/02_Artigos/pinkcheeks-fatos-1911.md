@@ -4,9 +4,9 @@ Parceira nova (19/11/2026), página `/cupons/pinkcheeks` no ar no mesmo dia (#12
 `01_Parceiros/Pink-Cheeks.md`. Este arquivo é a pesquisa semente do Job 1: busca, reputação, catálogo, Black Friday e
 as pautas propostas. Leituras de 19/11/2026: autocompletar pelo serviço de sugestões do Google (`client=firefox`,
 `hl=pt-BR`, `gl=br`, sem login, 41 consultas, nenhum bloqueio), catálogo pelo `products.json` do Shopify (117 itens),
-home e Reclame Aqui no navegador do app, sem login e sem finalizar compra. **Nenhuma pauta tem GO.**
+home e Reclame Aqui no navegador do app, sem login e sem finalizar compra. **GO do Bruno em 19/11/2026 no pacote todo (PK1 a PK6): briefings na seção 1 da Fila.**
 
-## 1. Pacote inicial proposto (sem GO)
+## 1. Pacote inicial (GO em 19/11, com briefing)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 19/11) |
 |---|---|---|---|---|
@@ -106,6 +106,13 @@ home e Reclame Aqui no navegador do app, sem login e sem finalizar compra. **Nen
 
 ## 7. Perguntas para o Bruno
 
-1. Quais pautas do pacote têm GO (PK1 a PK6)?
+1. Respondida em 19/11: GO no pacote todo.
 2. A Cecília tem ou vai receber produto da Pink Cheeks? Sem isso, PK5 sai pelo que a página e o rótulo informam.
 3. A parceira passou regras da Black Friday (datas, frete acima de 3 itens, mínimo ou limite do código)?
+
+## 8. Leituras a mais de 19/11/2026 (para os briefings)
+
+- **Regras de frete** (`/pages/regras-de-frete`, relida): frete grátis na Entrega Normal "ao atingir, em uma única compra, o valor mínimo elegível mínimo de R$199"; Expressa com valor e prazo no checkout. A faixa "acima de 3 itens" da home não tem página.
+- **Pink Stick 21 KM** (página do produto): FPS 90 e FPUVA 70; "une filtros orgânicos e inorgânicos"; "resistência à água e ao suor comprovada durante 2 horas"; Vitamina E; 9 tonalidades, do 5 KM ao 100 KM ULTRA, "incluindo uma incolor", com nomes da corrida; "PROVE VIRTUALMENTE"; INCI com perfume, limoneno e linalol; ANVISA 25351.691738/2015-76; 35 avaliações (não entram no texto). Frases da loja que não viram afirmação nossa: "o maior FPUVA do mercado", "não escorre", "principalmente, o câncer de pele".
+- **Onde encontrar:** a página é um mapa de pontos de venda da Munddi (`munddi.com/pinkcheeksbrasil`), não aberto.
+- **Reclame Aqui, aba Sobre:** sem CNPJ visível.
