@@ -164,7 +164,8 @@ escolher, e a conta da renovação em reais. Não temos teste de velocidade nem 
 | Loja virtual /br: plano de loja R$ 9,99/mês (12 meses, R$ 119,88; renova R$ 9,99), "0% de taxas de transação" | A loja informa: | Condição comercial volátil | `hostinger.com/br/loja-virtual` | Primeiro card | 2026-11-19 | [x] Sim, sem comparar com Nuvemshop ou Shopify (a H7 segue parada) |
 | Servidor de Minecraft /br: Game Panel 1 R$ 31,99/mês (24 meses, R$ 767,76; renova R$ 59,99), Game Panel 2 R$ 46,99 (R$ 1.127,76; R$ 77,99) | A loja informa: | Condição comercial volátil | `hostinger.com/br/vps/hospedagem-minecraft` | Cards | 2026-11-19 | [x] Sim, numa linha do quadro; ninguém do site joga Minecraft nela |
 | Global, em dólar: Premium US$ 1,99 (48 meses, US$ 95,52; renova US$ 10,99), Business US$ 2,79 (US$ 133,92; US$ 16,99), Cloud Startup US$ 7,99 (US$ 383,52; US$ 25,99); Minecraft Game Panel 1 US$ 6,99 (24 meses, US$ 167,76; renova US$ 11,99). Sem Single no global | A loja informa: | Condição comercial volátil | `hostinger.com/web-hosting` e `hostinger.com/vps/minecraft-hosting`, lidos do Brasil | Cards | 2026-11-19 | [x] Sim, nos 9 idiomas, como "preço do site internacional, que pode mudar na sua região" |
-| VPS e e-mail no global | — | — | Não extraídos (a página do VPS global abriu, mas os preços não foram tirados) | — | — | [ ] PENDENTE: reler antes da redação |
+| VPS global: KVM 1 US$ 6,49/mês (24 meses, US$ 155,76; renova US$ 11,99), KVM 2 US$ 8,79 (US$ 210,96; US$ 14,99), KVM 4 US$ 12,99 (US$ 311,76; US$ 28,99), KVM 8 US$ 25,99 (US$ 623,76; US$ 49,99) | A loja informa: | Condição comercial volátil | `hostinger.com/vps-hosting`, no Chrome do Bruno | Cards KVM | 2026-11-19 | [x] Sim, nos 9 idiomas |
+| E-mail global, por caixa: Starter US$ 0,39/mês (48 meses, US$ 18,72; renova US$ 1,59), Standard US$ 0,99 (US$ 47,52; US$ 2,79), Premium US$ 1,99 (US$ 95,52; US$ 3,99); "Buy 2 mailboxes, get 1 free" na Black Friday | A loja informa: | Condição comercial volátil | `hostinger.com/business-email`, no Chrome do Bruno | Cards, "Price per mailbox" | 2026-11-19 | [x] Sim, nos 9 idiomas |
 | No Premium de 48 meses, a mensalidade da renovação (R$ 38,99) é cerca de 4 vezes a da entrada (R$ 9,99) | Conta nossa: | Conta própria | Card do Premium | Pressuposto: as duas mensalidades do mesmo ciclo do card, sem multiplicar (Decisões, item 2) | 2026-11-19 | [x] Sim. É a única conta de renovação do artigo |
 | Renova "pelo mesmo período" | A loja informa: | Condição comercial volátil | Cards de 19/11 | "Renovação automática por R$ X/mês pelo mesmo período" | 2026-11-19 | [ ] Não escrever o prazo: em 06/11 o carrinho do Single disse "renova a cada 12 meses" (Fila, seção 4). O texto diz só o preço mensal de renovação |
 | Backups semanais grátis, LiteSpeed, CDN e suporte 24h nos planos de hospedagem | A loja informa: | Fato oficial | `hostinger.com/br/hospedagem-de-sites` | Lista dos planos | 2026-11-19 | [x] Sim, na tabela, sem prometer "mais rápido" |
@@ -263,8 +264,8 @@ Páginas salvas no scratchpad (`hostinger-boa/pages/`): `/br/hospedagem-de-sites
 - `/hosting` (global) redirecionou para a página brasileira com parâmetros de afiliado de outra pessoa
   (`utm_medium=affiliate`). Foi uma leitura por curl, sem cookie e sem o navegador do Bruno. Não usar esse caminho:
   os links do artigo são só os do `offerUrl`.
-- `[PENDENTE: leitura]` preços do VPS e do e-mail no site global (`hostinger.com/vps-hosting`,
-  `hostinger.com/email`).
+- Preços do VPS e do e-mail no site global lidos no Chrome do Bruno em 19/11, à tarde (sem login, sem carrinho):
+  ver a matriz da seção 6.
 
 ---
 
@@ -321,4 +322,4 @@ Páginas salvas no scratchpad (`hostinger-boa/pages/`): `/br/hospedagem-de-sites
    do PT, a frase é "escolha o local mais perto do seu público", sem citar o Brasil.
 5. **Autoria:** só o Bruno (`authors: ["bruno-luiz"]`), em primeira pessoa, como pede o anexo de tecnologia.
 
-**Antes da redação:** reler os preços da Black Friday e ler o VPS e o e-mail do site internacional.
+**Antes da redação:** reler os preços no dia (Black Friday da Hostinger até 14/12). VPS e e-mail do site internacional lidos em 19/11.
