@@ -11,7 +11,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
 | NM1 | Nutren Active: para que serve, como tomar e a diferença para o Senior e o Protein (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[nutren-active-para-que-serve]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Reler o FAQ da marca e o `CECI` no carrinho |
-| NM2 | Nestonutri ou Ninho Fases 1+ (1 a 3 anos), no molde do `nanlac-supreme-ou-ninho-fases` (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[nestonutri-ou-ninho-fases]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Só rótulo, `notice` e pediatra; ler os ingredientes; pergunta do Nestogeno aberta (seção 8 do briefing) |
+| NM2 | Nestonutri ou Ninho Fases 1+ (1 a 3 anos), no molde do `nanlac-supreme-ou-ninho-fases` (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[nestonutri-ou-ninho-fases]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Só rótulo, `notice` e pediatra; ler os ingredientes; o Nestogeno entra como uma pergunta de FAQ (seção 8 do briefing) |
 | NM6 | Nutren Fortify: para que serve, tabela nutricional e preço por porção, com o Senior em seção (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[nutren-fortify-para-que-serve]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Só rótulo; reler preços e o `CECI` no combo |
 | NM7 | Novasource Proline: para que serve, caixinha, pó ou litro e preço por dose (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[novasource-proline-para-que-serve]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Bruno, 19/11: "sim, só rótulo". Indicação entre aspas, sem "cicatrização" no título nem no snippet |
 | SF4 e SF5 | Como usar o autobronzeador Skelt, com a seção "mancha a roupa e o lençol?" (GO do Bruno, 19/11) | Skelt | PT | [[autobronzeador-skelt-como-usar]] e fatos [[skelt-fatos-1811]] | Redação. Reler no dia os tempos de ação e os preços; o texto diz 10% e não crava valor com o código |
@@ -110,6 +110,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | NM4 | Nutren Control: para que serve e a tabela nutricional | Nestlé Nutre | Trends 40 | Controle de glicemia: só rótulo, com médico ou nutricionista |
 | NM5 | Nutren Control ou Glucerna | Nestlé Nutre | Três variações | Tabela contra tabela |
 | NM8 | Kit degustação Nutren (Senior e Control) | Nestlé Nutre | Sem medida | Pode ser seção do `nutren-senior-kit-combo-ou-assinatura` |
+| NM9 | Novasource Proline ou Cubitan (artigo próprio, decisão do Bruno em 19/11) | Nestlé Nutre | "novasource proline ou cubitan" no autocompletar | O Cubitan é de outra fabricante e não foi lido. Tabela contra tabela, só rótulo, indicação entre aspas |
+| NM10 | Novasource Proline ou Impact (artigo próprio, decisão do Bruno em 19/11) | Nestlé Nutre | "novasource proline ou impact" no autocompletar | O Impact é da Nestlé e está no menu de marcas da loja; não foi lido. Mesmo cuidado |
 
 NM1, NM2, NM6 e NM7 têm briefing desde 19/11 (seção 1). A NM3 (Nestogeno) virou pergunta dentro da NM2. Ficam aqui a NM4, a NM5 e a NM8.
 

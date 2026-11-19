@@ -130,6 +130,14 @@ Sem quadro "Leve se / Passe se": a decisão não é do leitor sozinho. Conferir 
 - **Recomendação:** uma pergunta de FAQ, só se a leitura confirmar o que são os dois produtos, respondendo que são linhas diferentes da Nestlé e para qual idade a lata de cada uma se destina, sem preço, sem link, sem código e com "antes de 1 ano, quem orienta é o pediatra". Se a leitura não fechar, a pergunta sai.
 - Nunca página própria para o par.
 
+**Leitura de 19/11/2026 (busca "nestogeno" na loja):** a loja lista cinco produtos, todos fórmula infantil para menores de 1 ano: Nestogeno 0 a 6 meses (800 g e 1,2 kg), Nestogeno 6 a 12 meses (800 g e 1,2 kg) e Nestogeno Espessar (800 g). Não há Nestogeno de 1 a 3 anos na busca.
+
+**Com isso a pergunta fecha e entra na FAQ, assim:** "Nestonutri e Nestogeno é a mesma coisa? Não. São linhas diferentes da Nestlé para idades diferentes: o Nestogeno é fórmula infantil para bebês de até 12 meses, e o Nestonutri 1+ é para crianças de 1 a 3 anos. Para bebê com menos de 1 ano, quem orienta a alimentação é o pediatra."
+
+- Sem preço, sem link, sem código e sem tabela do Nestogeno. O `CECI` não vale em fórmula de 0 a 12 meses.
+- Não dizer que um "substitui" ou "continua" o outro: a loja não diz.
+- As fichas do Nestogeno não foram abertas; a resposta usa só o nome e a faixa de idade que a loja põe no nome do produto.
+
 ## 9. Snippet
 
 - **metaDescription (sugestão):** "CECI dá 10% na Nestlé Nutre. Nestonutri ou Ninho Fases 1+: o que cada rótulo declara, o preparo e quanto sai cada 100 ml da lata de 800 g." Conferir a regra do snippet com o código nos artigos infantis do modelo antes de usar.
@@ -147,9 +155,9 @@ Sem quadro "Leve se / Passe se": a decisão não é do leitor sozinho. Conferir 
 - Lista de ingredientes das duas latas (a leitura de hoje pegou tabela, advertência e preparo).
 - As "instruções de uso" com o número de medidas por idade, se o rótulo trouxer.
 - O `CECI` nos dois, no carrinho.
-- A linha Nestogeno, para a seção 8.
 - Preços.
 
 ## Decisões
 
-- **19/11/2026:** GO do Bruno. A pergunta do Nestogeno segue aberta (seção 8).
+- **19/11/2026:** GO do Bruno.
+- **19/11/2026:** a pergunta do Nestogeno fechou com a leitura da loja (seção 8): entra como uma pergunta de FAQ, com o texto de lá.
