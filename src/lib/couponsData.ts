@@ -43,7 +43,9 @@ export type CouponHubCategory = (typeof COUPON_HUB_CATEGORIES)[number]['id'];
 // A marca da loja na bolinha (a vitrine da home e as bolinhas de /reviews): o símbolo num PNG ou WebP de 512 × 512 com
 // fundo transparente, centralizado e com a margem óptica no próprio arquivo (regra no docs/GUIA-MIDIA-EDITORIAL.md).
 // `background` (#rrggbb) só quando o fundo é parte da marca; sem ele, o disco é creme.
-export type CouponBubble = { src: string; background?: string };
+// `round`: a marca já é um selo redondo (a Dolce Gusto) e ocupa o disco quase inteiro, em vez dos 64% de um logo
+// que precisa de margem.
+export type CouponBubble = { src: string; background?: string; round?: boolean };
 
 interface CouponBase {
   slug: string;
@@ -406,7 +408,7 @@ const STORE_COUPONS: Coupon[] = [
     brandIcon: 'DG',
     brandLogo: '/images/about/partners/dolce-gusto.avif',
     brandLogoAlt: 'Marca Nescafé Dolce Gusto',
-    bubble: { src: '/images/logos/bolinhas/dolce-gusto.png' },
+    bubble: { src: '/images/logos/bolinhas/dolce-gusto.png', round: true },
     brandWatermark: '/images/logos/watermarks/dolce-gusto.webp',
     // O logo é AVIF, que o cartão do X não mostra: o compartilhamento usa a capa do guia do cupom.
     socialImage: '/images/reviews/cupons/nescafe-dolce-gusto-hero.webp',

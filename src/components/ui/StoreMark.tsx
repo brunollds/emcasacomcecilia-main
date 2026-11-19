@@ -10,6 +10,9 @@ import type { HomeStoreTab } from '@/lib/homeStoreTabs';
 // sobre a cor da marca, que deixa 2px de creme até o anel (o anel marinho não some no fundo escuro, e o amarelo da
 // escolhida não cola na cor). `tilt` é das bolinhas que inclinam com o mouse (.bolinha-logo no globals.css, que deixa
 // a imagem em 0,86 em repouso: os 74% dão os mesmos 64%). `imageClassName` é só a caixa do logo.
+//
+// O selo redondo (`round`) ocupa o disco até os 2px de creme: com `tilt`, fica em 0,86 em repouso e chega aos 2px
+// com o mouse; sem `tilt`, em 86%. A caixa é ~1,35 vez a do logo comum, e o `sizes` cresce junto.
 export function StoreMark({
   tab,
   imageClassName,
@@ -24,14 +27,26 @@ export function StoreMark({
   tilt?: boolean;
 }) {
   if (tab.bubble) {
-    const { src, background } = tab.bubble;
+    const { src, background, round } = tab.bubble;
+    const box = round
+      ? tilt
+        ? 'bolinha-logo absolute inset-0.5'
+        : 'absolute inset-[7%]'
+      : `relative ${tilt ? 'bolinha-logo size-[74%]' : 'size-[64%]'}`;
     return (
       <>
         {background ? (
           <span aria-hidden="true" className="absolute inset-0.5 rounded-full" style={{ backgroundColor: background }} />
         ) : null}
-        <span className={`relative ${tilt ? 'bolinha-logo size-[74%]' : 'size-[64%]'}`}>
-          <Image src={src} alt="" fill sizes={sizes} loading={loading} className="object-contain" />
+        <span className={box}>
+          <Image
+            src={src}
+            alt=""
+            fill
+            sizes={round ? roundSizes(sizes) : sizes}
+            loading={loading}
+            className="object-contain"
+          />
         </span>
       </>
     );
@@ -46,4 +61,10 @@ export function StoreMark({
       {tab.initials}
     </span>
   );
+}
+
+// "60px" vira "81px"; outro formato fica como veio.
+function roundSizes(sizes: string) {
+  const px = /^(\d+)px$/.exec(sizes);
+  return px ? `${Math.ceil(Number(px[1]) * 1.35)}px` : sizes;
 }

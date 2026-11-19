@@ -498,6 +498,13 @@ assert.match(colorBubbleHtml, /<span aria-hidden="true" class="absolute inset-0\
 assert.ok(colorBubbleHtml.includes('bg-creme'), 'com cor: o creme fica por baixo, na folga');
 const creamBubbleHtml = bubbleHtml(creamBubbleTab);
 assert.ok(creamBubbleHtml.includes('size-[74%]') && !creamBubbleHtml.includes('background-color'), 'bubble sem cor: a marca sobre o creme');
+// O selo redondo ocupa o disco até a folga de 2px, repousando em 0,86 como os outros, e o sizes cresce com a caixa.
+const [roundBubbleTab] = getHomeStoreTabs(fixtureReviews, [bubbleStore({ src: '/images/teste/marca.png', round: true })]);
+assert.deepEqual(roundBubbleTab.bubble, { src: resolveMediaUrl('/images/teste/marca.png'), round: true });
+const roundBubbleHtml = bubbleHtml(roundBubbleTab);
+assert.ok(roundBubbleHtml.includes('class="bolinha-logo absolute inset-0.5"'), 'selo redondo: a caixa do disco inteiro');
+assert.ok(!roundBubbleHtml.includes('size-[74%]'), 'selo redondo: sem o quadrado de 74%');
+assert.ok(roundBubbleHtml.includes('sizes="81px"'), 'selo redondo: sizes de 1,35 vez o da faixa');
 
 const panelHtml = renderToStaticMarkup(
   createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeCeciliaPanel, { copy: PT_CECILIA_PANEL }))
