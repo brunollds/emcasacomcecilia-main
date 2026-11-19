@@ -250,4 +250,21 @@ Quem quer conjunto de academia barato com frete grátis acima de R$ 299 fica na 
 - Insider: 5% para cliente antigo em 17/11, em aberto. Preço com código conforme a `/cupons/insider` no dia; NakedFeel e lançamentos sem cupom.
 - Sem número de estoque; preços das quatro lojas relidos no dia (todas em Black Friday).
 
-**Falta para o Job 1:** as peças da SHEIN uma a uma (Chrome); composição dos tops e leggings de entrada da Insider; a ficha da legging e do top mais vendidos da Donna Carioca; o regulamento da Black Donna.
+**Falta:** as peças da SHEIN uma a uma (Chrome). O resto está na seção 11.
+
+## 11. Leituras do Job 1 para a DC1 (18/11/2026). Briefing em [[alternativas-a-donna-carioca]]
+
+- **Donna Carioca, mais vendidas:** leggings (Sem Gancho Frontal Preto Poliamida Flex, R$ 99,95, de R$ 139,90; Sem
+  Costura Frontal Preto Poliamida, R$ 139,90) e tops (Ibiza com bojo, R$ 89,90; Achieve e Define com bojo, R$ 59,95,
+  de R$ 79,90): **84% poliamida, 16% elastano**, P a GG. A descrição não fala de forro nem de transparência.
+- **Black Donna:** a página diz "cupons relâmpago em todas as categorias", "peças com até 70% off em 10x sem juros"
+  e "+ 5% OFF no Pix". Não há regulamento nas páginas lidas (`/regulamento` e variações dão 404). Os cupons dela
+  não são citados.
+- **Insider, peças de entrada:** Legging Easy, Top Action, Top Energy (nadador, sem bojo) e Short Motion curto (com
+  bolso): **77% poliamida, 23% elastano**, PP a XGG. Sustentia e IN-ACTION (Seamless): 90% e 10%, P a GG. A página da
+  Easy diz que ela "não apresenta risco de marcar o corpo ou ficar transparente" e cita UV 50+: palavras da loja.
+- **Correção da seção 9:** R$ 99 (top), R$ 119 (short) e R$ 169 (legging) da Insider são preços da campanha de
+  novembro. Os de tabela são R$ 155, R$ 229 e R$ 295. Na tabela, a Insider custa cerca do dobro da Donna Carioca;
+  a frase "a entrada da Insider fica perto da mediana" só vale durante a campanha.
+- **SHEIN peça a peça: não lida.** O Claude in Chrome não conectou em 18/11, e a página de produto já tinha dado
+  verificação de robô no navegador do app. Fica para o Job 2, no Chrome do Bruno.
