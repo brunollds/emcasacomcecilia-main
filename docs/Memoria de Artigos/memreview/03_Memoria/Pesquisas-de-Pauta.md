@@ -8,6 +8,23 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Nestlé Nutre: mais vendidos (19/11/2026)
+
+Fatos em [[nestle-nutre-mais-vendidos-fatos-1911]]; pautas NM1 a NM8 na [[Fila-de-Pautas]], seção 3, sem GO.
+
+- **Sem artigo nosso entre os dez mais vendidos:** Nutren Fortify, Novasource Proline (três sabores), Nutren Active, Nestonutri e Nutren Control.
+- **Trends (Brasil, 12 meses):** "nestonutri" 51, "nutren control" 40, "nutren active" 21, "novasource proline" 16, "nutren fortify" 5.
+- **Autocompletar:** "nestonutri ou ninho fases", "nestonutri e nestogeno é a mesma coisa", "nutren control ou glucerna", "nutren active ou senior", "nutren fortify ou nutren senior", "novasource proline ou cubitan".
+- **Risco:** Control (glicemia) e Proline (cicatrização) são de uso clínico; Nestonutri é de 1 a 3 anos. Nenhum rótulo foi lido.
+
+---
+
+## Skelt: uso do autobronzeador (19/11/2026)
+
+Briefing [[autobronzeador-skelt-como-usar]] (SF4, com a SF5 como seção). Leitura da página de perguntas frequentes da loja: reaplicar por até 3 dias seguidos; rendimento de 8 a 10 aplicações (as fichas dizem 5 a 8); Mousse à noite com roupas largas; Água "dificilmente transfere"; no Bifásico, o que passa ao tecido "sai na lavagem"; sem sol durante a ação; a partir dos 16 anos; gestantes, falar com o médico.
+
+---
+
 ## Skelt: marcas de farmácia e reteste do código (18/11/2026)
 
 Fatos em [[skelt-fatos-1811]]; pautas SF1 a SF6 na [[Fila-de-Pautas]], seção 3, sem GO.
