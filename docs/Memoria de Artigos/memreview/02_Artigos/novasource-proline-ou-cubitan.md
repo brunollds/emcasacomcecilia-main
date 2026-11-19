@@ -40,7 +40,7 @@ Formato "X ou Y", uma marca só. O Cubitan é da Danone, que não é parceira: e
 ## 2. Função da pauta
 
 - **Trabalho principal:** quem recebeu a indicação de um dos dois e encontra o outro na farmácia ou na busca.
-- **O achado que justifica a página:** as duas tabelas são muito parecidas. Mesma proteína, mesma arginina e a mesma vitamina C por unidade; o que muda é a prolina, a lactose, a sacarose, os sabores e o preço no combo.
+- **O achado que justifica a página:** as duas tabelas são muito parecidas. Mesma proteína, mesma arginina e a mesma vitamina C por unidade; o que muda é a prolina, a lactose, a sacarose, os sabores e o preço, que com o `CECI` favorece o Proline.
 - **Sinal:** "novasource proline ou cubitan" é a primeira sugestão de "novasource proline ou" no autocompletar (19/11).
 
 ## 3. Os dois rótulos
@@ -84,19 +84,21 @@ Formato "X ou Y", uma marca só. O Cubitan é da Danone, que não é parceira: e
 
 ## 4. Preço (19/11/2026; reler no dia)
 
-| | Novasource Proline (loja da Nestlé) | Cubitan (loja da Danone) |
-|---|---|---|
-| Unidade, de tabela | R$ 21,99 | R$ 27,09 |
-| Unidade, na promoção do dia | R$ 19,79 | R$ 19,78 |
-| Assinando ou em compra programada | R$ 17,59 | R$ 17,80 |
-| Combo | 10 unidades por R$ 175,92 (R$ 17,59 cada) | Não procurado |
-| Com o `CECI` | Combo a R$ 158,33 (R$ 15,83 cada), conferido no carrinho | Não se aplica |
+**Regra do Bruno (19/11):** o preço do Novasource Proline que o artigo põe em primeiro plano é o preço com o `CECI`. É assim que queremos que o leitor compre. O preço sem o código aparece só como referência.
 
-- **Na promoção de 19/11 os dois custavam praticamente o mesmo por unidade** (um centavo de diferença). Pelo preço de tabela, o Proline sai R$ 5,10 mais barato.
-- **A vantagem do Proline aparece no combo com o código:** R$ 15,83 por unidade.
-- **Na Drogaria São Paulo, o Cubitan estava a R$ 28,69 e indisponível** nos três sabores. Preço de farmácia varia; o texto usa o da loja oficial de cada marca e cita a farmácia como referência, com a data.
-- A loja da Danone anuncia compra programada com 10% e frete grátis no Sul e no Sudeste (menos Minas Gerais) acima de R$ 150. Só citar se o texto comparar frete, e aí ler o frete da Nestlé Nutre no mesmo CEP.
-- Nada de cupom da Danone no texto.
+| | Novasource Proline com o `CECI` (loja da Nestlé) | Cubitan (loja da Danone) |
+|---|---|---|
+| Unidade de 200 ml | R$ 17,81 (R$ 19,79 menos 10%; conta, a conferir no carrinho) | R$ 19,78 |
+| Combo de 10 unidades | R$ 158,33, ou R$ 15,83 cada (conferido no carrinho) | Não procurado |
+| Preço de tabela, sem código nem promoção | R$ 21,99 | R$ 27,09 |
+
+- **Com o código, o Proline sai mais barato nos dois casos:** cerca de R$ 2 a menos na unidade e cerca de R$ 4 a menos por unidade no combo de 10.
+- **A frase do artigo:** "com o cupom CECI, o Novasource Proline sai por R$ X a unidade, contra R$ Y do Cubitan na loja da Danone", com a data na legenda.
+- **Honestidade que fica:** o preço do Cubitan é o da loja oficial dele, na promoção do dia, sem inflar. Sem o código, os dois custavam o mesmo em 19/11 (R$ 19,79 e R$ 19,78); isso entra em uma linha da tabela ou da legenda, não como conclusão.
+- **O `CECI` na unidade avulsa do Proline não foi testado** (no mesmo carrinho ele tirou 10% do combo do Proline e da lata avulsa do Fortify). Conferir antes de publicar os R$ 17,81.
+- **Assinatura:** R$ 17,59 no Proline e R$ 17,80 na compra programada do Cubitan. Só citar se o `CECI` somar com a assinatura no carrinho; senão, fica fora.
+- **Na Drogaria São Paulo, o Cubitan estava a R$ 28,69 e indisponível.** Referência de farmácia, com a data; o Bruno indicou Araujo, Indiana e Pacheco para a conferência.
+- Nada de cupom nem de condição de frete da Danone no texto.
 
 ## 5. Esqueleto (H2)
 
@@ -130,7 +132,7 @@ Sem quadro "Leve se / Passe se".
 - **Parecer orientação de tratamento.** Mesma regra dos outros artigos do Proline: se não ficar só no rótulo, não sai.
 - **Marca que não é parceira:** sem depreciar. A conclusão de que as tabelas são próximas é favorável às duas.
 - **Linha de carboidratos do Cubitan** com erro na fonte: não publicar número.
-- **Preços empatados na promoção:** não escrever que o Proline "é mais barato" sem dizer em qual condição (tabela, combo, código).
+- **Preço:** o Proline aparece com o `CECI`, e a frase de "sai mais barato" diz que é com o cupom. Conferir o código na unidade avulsa antes.
 - **Regra de publicidade para fórmula enteral:** não conferida.
 - **Imagem:** foto oficial do Proline. Do Cubitan, nenhuma foto da marca.
 
@@ -144,4 +146,5 @@ Sem quadro "Leve se / Passe se".
 ## Decisões
 
 - **19/11/2026:** artigo próprio, por decisão do Bruno, na regra de "só rótulo".
+- **19/11/2026:** o preço do parceiro entra com o `CECI` em primeiro plano (Bruno: "a ideia é sempre o nosso código ser aplicado nos nossos afiliados").
 - **19/11/2026:** a tabela oficial do Cubitan foi achada na loja da Danone depois que o Bruno mandou procurar em outras lojas; o briefing deixou de estar parado.

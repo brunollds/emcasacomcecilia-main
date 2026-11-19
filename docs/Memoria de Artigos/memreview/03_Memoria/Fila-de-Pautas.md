@@ -10,7 +10,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| NM9 | Novasource Proline ou Cubitan: tabela e preço lado a lado (artigo próprio, Bruno, 19/11) | Nestlé Nutre | PT | [[novasource-proline-ou-cubitan]] | Redação, só rótulo. Tabelas próximas (20 g de proteína e 3 g de arginina nas duas); preço empatado na promoção, o Proline ganha no combo com o `CECI` |
+| NM9 | Novasource Proline ou Cubitan: tabela e preço lado a lado (artigo próprio, Bruno, 19/11) | Nestlé Nutre | PT | [[novasource-proline-ou-cubitan]] | Redação, só rótulo. Tabelas próximas (20 g de proteína e 3 g de arginina nas duas); com o `CECI` o Proline sai mais barato na unidade e no combo (preço com o código em primeiro plano, regra do Bruno) |
 | NM10 | Novasource Proline ou Impact: tabela e preço lado a lado (artigo próprio, Bruno, 19/11) | Nestlé Nutre | PT | [[novasource-proline-ou-impact]] | Redação, só rótulo. Conferir o `CECI` no Impact |
 | NM1 | Nutren Active: para que serve, como tomar e a diferença para o Senior e o Protein (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[nutren-active-para-que-serve]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Reler o FAQ da marca e o `CECI` no carrinho |
 | NM2 | Nestonutri ou Ninho Fases 1+ (1 a 3 anos), no molde do `nanlac-supreme-ou-ninho-fases` (GO do Bruno, 19/11) | Nestlé Nutre | PT | [[nestonutri-ou-ninho-fases]] e fatos [[nestle-nutre-mais-vendidos-fatos-1911]] | Redação. Só rótulo, `notice` e pediatra; ler os ingredientes; o Nestogeno entra como uma pergunta de FAQ (seção 8 do briefing) |
