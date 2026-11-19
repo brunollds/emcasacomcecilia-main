@@ -1,0 +1,11 @@
+Comparação: baw clothing, camiseta oversized, moletom oversized, camiseta boxy, marca streetwear
+Endereço: https://trends.google.com/trends/explore?geo=BR&q=baw%20clothing,camiseta%20oversized,moletom%20oversized,camiseta%20boxy,marca%20streetwear&hl=pt-BR
+Lido em: 2026-11-18T20:55:45-03:00 (hora aproximada; o gráfico só carregou depois de rolar a página e de uma captura de tela)
+Recorte: Brasil, Últimos 12 meses, Todas as categorias, Pesquisa na Web
+Método: navegador embutido, get_page_text; o que a página mostrava, gravado pela sessão como veio (sem o CSV oficial)
+---
+baw clothing — Pesquisas relacionadas, Em ascensão (1 a 5 de 14): dust Mais 300%; centauro Mais 200%; hering Mais 180%; bolovo Mais 170%; sufgang Mais 160%
+camiseta oversized — Pesquisas relacionadas, Em ascensão (1 a 5 de 8): camiseta do brasil Mais 600%; camiseta brasil oversized Mais 350%; camiseta brasil Mais 350%; oversized brasil Mais 350%; berzek Mais 190%
+moletom oversized — Pesquisas relacionadas, Em ascensão: berzerk Aumento repentino; calça moletom baggy Mais 130%; conjunto moletom Mais 80%
+camiseta boxy — Pesquisas relacionadas, Em ascensão (1 a 5 de 11): bershka Aumento repentino; h&m Aumento repentino; levis Mais 550%; roma Mais 250%; romã Mais 140%
+marca streetwear — Pesquisas relacionadas, Em ascensão: adidas Mais 350%

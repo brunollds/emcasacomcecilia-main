@@ -1,0 +1,2470 @@
+### 001 baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:25 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 002 baw clothing
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:27 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 003 baw clothing é
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:30 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 004 baw é
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:32 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 005 baw clothing é confiável
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:35 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 006 baw é confiavel
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:37 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 007 baw clothing é boa
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:40 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 008 baw clothing é bom
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:43 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 009 baw clothing vale a pena
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:45 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 010 baw clothing qualidade
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:48 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 011 baw clothing reclame aqui
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:50 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 012 baw clothing dono
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:53 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 013 baw clothing é de quem
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:55 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 014 de quem é a baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:45:58 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 015 baw é da arezzo
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:00 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 016 baw é da reserva
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:02 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 017 baw original
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:05 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 018 baw clothing cnpj
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:07 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 019 baw clothing troca
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:10 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 020 baw clothing entrega
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:12 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 021 baw clothing frete
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:15 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 022 baw clothing app
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:17 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 023 baw clothing ou
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:20 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 024 baw ou
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:22 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 025 baw clothing o que aconteceu
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:25 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 026 baw clothing faliu
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:27 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 027 cupom baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:30 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 028 cupom baw clothing
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:32 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 029 cupom baw primeira compra
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:35 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 030 cupom baw app
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:37 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 031 cupom baw black friday
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:40 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 032 cupom baw frete gratis
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:42 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 033 baw clothing cupom
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:45 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 034 desconto baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:47 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 035 baw clothing desconto
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:50 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 036 baw black friday
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:52 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 037 baw clothing black friday
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:55 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 038 black friday baw 2026
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:46:57 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 039 a ultima black friday da baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:00 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 040 baw promoção
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:02 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 041 baw sale
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:05 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 042 baw clothing moletom
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:08 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 043 moletom baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:10 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 044 moletom baw vale a pena
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:13 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 045 moletom baw é bom
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:16 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 046 baw clothing camiseta
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:19 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 047 camiseta baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:21 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 048 camiseta oversized baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:23 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 049 baw camiseta oversized
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:26 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 050 baw oversized
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:28 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 051 camiseta baw é boa
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:31 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 052 camiseta baw regular
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:33 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 053 baw boxy
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:36 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 054 baw new over
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:38 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 055 tenis baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:41 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 056 tênis baw é bom
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:43 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 057 baw tenis
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:46 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 058 calça baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:48 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 059 baw calça
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:51 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 060 jaqueta baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:53 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 061 baw jaqueta
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:56 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 062 bermuda baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:47:58 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 063 baw shorts
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:01 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 064 baw saia
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:03 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 065 bone baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:06 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 066 baw kids
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:08 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 067 baw infantil
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:11 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 068 baw bolsa
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:13 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 069 baw meia
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:16 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 070 baw slide
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:18 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 071 baw camisa
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:21 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 072 baw regata
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:23 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 073 baw polo
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:26 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 074 baw manga longa
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:28 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 075 baw feminino
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:31 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 076 baw masculino
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:33 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 077 baw guia de tamanho
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:36 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 078 tabela de medidas baw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:38 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 079 baw tamanho
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:41 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 080 baw oversized tamanho
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:43 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 081 baw veste grande
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:46 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 082 baw veste pequeno
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:48 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 083 baw tabela
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:51 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 084 baw collab
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:53 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 085 baw x
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:56 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 086 baw x hello kitty
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:48:58 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 087 baw harry potter
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:01 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 088 baw bob marley
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:03 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 089 baw nfl
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:06 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 090 baw disney
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:08 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 091 baw pica pau
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:11 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 092 baw scooby doo
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:13 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 093 baw smiley
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:16 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 094 baw linus
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:18 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 095 baw desgosto
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:21 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 096 baw chevrolet
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:23 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 097 baw x caterpillar
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:26 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 098 baw pringles
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:28 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 099 baw athletics
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:31 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 100 chillibaw
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:33 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 101 baw basics
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:36 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 102 baw outlet
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:38 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 103 baw loja fisica
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:41 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 104 baw clothing loja fisica
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:43 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 105 baw bom retiro
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:45 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 106 baw outlet bom retiro
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:48 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 107 baw loja sao paulo
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:50 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 108 baw retiro store
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:53 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 109 baw tres rios
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:55 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 110 baw mercado livre
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:49:58 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 111 baw clothing mercado livre
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:00 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 112 baw shopee
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:03 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 113 baw amazon
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:05 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 114 baw clothing loja oficial
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:08 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 115 camiseta oversized masculina
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:10 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 116 camiseta oversized feminina
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:13 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 117 camiseta oversized
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:15 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 118 moletom streetwear
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:18 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 119 moletom oversized
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:20 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 120 marca streetwear brasileira
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:23 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 121 marcas de streetwear
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:25 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 122 camiseta boxy
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:28 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 123 camiseta streetwear
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:30 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 124 marcas de roupa streetwear brasil
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:33 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 125 camiseta oversized qual tamanho
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:35 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 126 como usar camiseta oversized
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:37 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 127 melhor marca de moletom
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:40 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 128 melhor marca de camiseta oversized
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:42 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 129 camiseta oversized tabela de medidas
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:45 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+### 130 moletom vale a pena
+HTTP/1.1 200 OK
+Date: Wed, 18 Nov 2026 23:50:48 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Content-Disposition: attachment; filename="f.txt"
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: Proxima
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: [removido]
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+

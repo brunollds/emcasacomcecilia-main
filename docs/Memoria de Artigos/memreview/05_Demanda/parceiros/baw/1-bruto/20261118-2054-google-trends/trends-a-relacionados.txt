@@ -1,0 +1,19 @@
+Comparação: baw clothing (sozinha)
+Endereço: https://trends.google.com/trends/explore?geo=BR&q=baw%20clothing&hl=pt-BR
+Lido em: 2026-11-18T20:54:30-03:00 (hora aproximada)
+Recorte: Brasil, Últimos 12 meses, Todas as categorias, Pesquisa na Web
+Método: navegador embutido, get_page_text; o que a página mostrava, gravado pela sessão como veio (sem o CSV oficial)
+---
+Assuntos relacionados — Em ascensão (página mostrou 1 a 5 de 6)
+1	Carnan Global - Assunto	Aumento repentino
+2	Cupom de desconto - Assunto	Mais 90%
+3	Streetwear - Assunto	Mais 70%
+4	Jaqueta - Roupa	Mais 50%
+5	Overcome - Assunto	Mais 50%
+Pesquisas relacionadas — Em ascensão (página mostrou 1 a 5 de 14)
+1	dust	Mais 300%
+2	centauro	Mais 200%
+3	hering	Mais 180%
+4	bolovo	Mais 170%
+5	sufgang	Mais 160%
+Interesse por sub-região: a página não mostrou a tabela no texto
