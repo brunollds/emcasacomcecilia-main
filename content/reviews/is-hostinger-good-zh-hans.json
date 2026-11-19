@@ -35,14 +35,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在购物车输入 SONAR20，或通过链接进入：新购首期享 20% 优惠。域名和续费不在优惠范围内；付款前请核对总额。",
+    "text": "选择方案后，在购物车确认 SONAR20 能否带来首期 20% 优惠，也请看清续费价格。",
     "label": "查看 Hostinger 的方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "通过 SONAR20 优惠码或链接购买，我可能获得佣金，你无需额外付费。我没有用过 AI 建站工具和 Minecraft 服务器。",
+  "editorialNote": "通过 SONAR20 优惠码或链接购买，我可能获得佣金，你无需额外付费。AI 建站工具、网店和 Minecraft 服务器的资料来自 Hostinger。",
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
@@ -78,7 +78,7 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Hostinger 适合想用低廉的入门价买网站主机、WordPress、邮箱或 VPS，并且提前算好续费的人，续费价是入门价的好几倍。我用它的主机、VPS、邮箱和域名，这个网站也跑在上面。真正影响选择的是产品类型，以及你愿意自己动多少服务器：下面每一章讲一个产品。"
+        "我从 2024 年起就在用 Hostinger。这个网站托管在这里，我也用它的 VPS、邮箱和域名。第一次建站或开 WordPress 博客，通常用网站主机就够了。需要自己管理服务器时，可以考虑 VPS。下单前先看首期总价和续费月价。"
       ]
     },
     {
@@ -103,7 +103,7 @@
       ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-e-boa-quadro-zh-hans.webp",
-        "alt": "表格：网站主机适合网站、博客或 WordPress，不适合要在服务器上装程序的人；Cloud Startup 适合高流量网店或多个网站；VPS 适合应用、自动化或 AI 智能体，没人维护服务器就别选；专业邮箱适合自己域名的邮箱，按邮箱计费，不适合邮件订阅（Newsletter）；AI 建站适合不会编程的简单网站，不适合想要插件和自己主题的人；Minecraft 适合会长期联机的小圈子，只玩几个月就别选。",
+        "alt": "表格：网站主机适合网站、博客或 WordPress，不适合要在服务器上装程序的人；Cloud Startup 适合高流量网店或多个网站；VPS 适合应用、自动化或 AI 智能体，没人维护服务器就别选；专业邮箱适合自己域名的邮箱，按邮箱计费，不适合群发通讯（Newsletter）；AI 建站适合不会编程的简单网站，不适合想要插件和自己主题的人；Minecraft 适合会长期联机的小圈子，只玩几个月就别选。",
         "caption": "Hostinger 的每个产品适合谁，以及什么时候别选。",
         "objectFit": "contain",
         "aspectRatio": 1.3333
@@ -112,16 +112,16 @@
     {
       "heading": "用 Hostinger 建站好用吗？",
       "paragraphs": [
-        "好用，两条路的区别在于你想在网站上投入多少精力。用主机，你自己安装 WordPress 或上传自己的代码，并自己维护：我这个网站就是这样，用的是自己写的代码，不是 WordPress。用 AI 建站工具，你描述想要的网站，编辑器会生成页面的第一版。",
-        "按官方页面所说，AI 建站工具没有单独的方案，所有网站主机方案都带它。所以两条路的差别，就是留给你的工作量。想要插件、自己的主题和完全掌控的人选 WordPress；想不写代码就把简单网站上线的人，从 AI 建站工具开始。它不适合想上架 App Store 或 Google Play 的人：它做出来的是网站或网页应用。",
+        "如果要用 WordPress，选一个网站主机方案，在后台安装即可。要发布自己写的代码，先确认方案支持哪些技术。这个网站用 Node.js 运行。Hostinger 的文档列明，Unlimited 和 Cloud 方案支持托管 Node.js 应用。",
+        "Hostinger 单独提供含主机的 AI 建站方案。已有主机的用户可以查看现有方案包含的功能和 AI 点数。需要插件和自定义主题，可以用 WordPress。想免写代码发布简单的网站或网页应用，可以用 AI 建站工具。",
         "Premium 最多可放三个网站。[Hostinger 上的 WordPress](/zh-hans/reviews/wordpress-hostinger-zh-hans)说明各种情况该选哪个方案，[Hostinger 的 AI 建站工具](/zh-hans/reviews/hostinger-ai-builder-zh-hans)则介绍它适合什么样的项目。"
       ]
     },
     {
       "heading": "Hostinger VPS 好用吗？",
       "paragraphs": [
-        "好用，前提是你需要一台自己专用的服务器，并且有人维护。除了主机，我还有一台 VPS KVM 2。用主机时服务器由 Hostinger 维护；用 VPS，更新、安全和出了问题怎么办，都归购买的人。",
-        "VPS 适合要跑应用、n8n 这类自动化或 AI 智能体的人，这些需要主机方案不提供的程序和管理员权限。普通网站用主机就够了，还更便宜，[VPS 还是共享主机](/zh-hans/reviews/vps-or-shared-hosting-zh-hans)按场景算过这笔账。要跑 AI 智能体的话，[适合 OpenClaw 的最佳 VPS](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)告诉你选哪个 KVM。",
+        "除了网站主机，我还用 KVM 2 VPS。如果需要管理员权限或要自己安装服务器软件，VPS 就派得上用场。Hostinger 负责基础设施，系统的配置、更新和安全由使用者负责。",
+        "如果应用、n8n 工作流或 AI 智能体需要管理员权限，可以考虑 VPS。普通网站用主机就够了，还更便宜，[VPS 还是共享主机](/zh-hans/reviews/vps-or-shared-hosting-zh-hans)按场景算过这笔账。要跑 AI 智能体的话，[适合 OpenClaw 的最佳 VPS](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)告诉你选哪个 KVM。",
         "配置时要选服务器位置。选离你的受众最近的位置；位置之后可以更改。"
       ]
     },
@@ -129,8 +129,8 @@
       "heading": "Hostinger 邮箱好用吗？",
       "paragraphs": [
         "想要自己域名的邮箱，好用。我在自己的域名上用 Hostinger 的专业邮箱，和网站在同一个后台，不需要再用别的服务。",
-        "价格按邮箱计算：一个人一个邮箱，三人团队就付三个邮箱的钱。方案从 Starter 到 Premium，价格在价格章节的表里。",
-        "别把它和邮件订阅（Newsletter）搞混：专业邮箱是收件箱，给名单群发邮件是另一个产品 Reach，在[Reach、Mailchimp 还是 Brevo](/zh-hans/reviews/hostinger-reach-zh-hans)里做了对比。如果你已经在别的服务上用着自己域名的邮箱，而且够用，就没必要换。"
+        "表里的独立邮箱方案按邮箱收费。如果你已购买网站主机，先确认套餐包含几个邮箱，以及可以用多久。",
+        "专业邮箱用来收发邮件。群发通讯（例如电子简报）可以用 Reach，在[Reach、Mailchimp 还是 Brevo](/zh-hans/reviews/hostinger-reach-zh-hans)里做了对比。如果你已经在别的服务上用着自己域名的邮箱，而且够用，就没必要换。"
       ]
     },
     {
@@ -144,113 +144,129 @@
     {
       "heading": "网店和 Minecraft",
       "paragraphs": [
-        "在国际站上，网店功能包含在主机方案里（Premium 的卡片把电子商务列在功能中）。如果网店发展到多个网站或大量流量，适合它的是 Cloud Startup。",
-        "Minecraft 适合会在自己的服务器上长期联机的小圈子：Game Panel 方案是带游戏面板的 VPS，在里面设置服务器、模组并邀请好友。表里的入门价是 24 个月一次付清的价格；如果只玩几个月，这个总额比月价更有分量。"
+        "国际站把电商功能列在 Premium 的功能清单中。Unlimited 和 Cloud Startup 标明包含一年的网店服务。下单前请确认方案提供的功能，以及包含期限结束后的费用。",
+        "Game Panel 可以用来配置 Minecraft 服务器、安装模组和邀请好友。表里是 24 个月的总价。团队如果只打算玩几个月，这笔总价会比月费更有负担。"
       ]
     },
     {
-      "heading": "首期之后要付多少",
-      "paragraphs": [
-        "官网上醒目的大字价格，是最长期限的月价，而整个期限要一次付清；续费价格写在小字里，高得多。表里把两个价格逐个方案列了出来："
-      ],
+      "heading": "网站主机价格",
       "comparisonTable": {
-        "caption": "Hostinger 国际站 11 月 19 日的价格，已是黑色星期五价，未用 SONAR20；你所在地区的价格可能不同。",
+        "caption": "11 月 19 日查看的 Hostinger 国际站价格，未使用 SONAR20。各地区的价格可能不同。",
         "headers": [
-          "产品和方案",
-          "期限",
+          "方案和首期时长",
           "入门价每月",
           "入门价（整个期限）",
           "续费价每月"
         ],
         "rows": [
           [
-            "[网站主机 Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "48 个月",
+            "[网站主机 Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48 个月)",
             "US$ 1.99",
             "US$ 95.52",
             "US$ 10.99"
           ],
           [
-            "网站主机 Unlimited",
-            "48 个月",
+            "网站主机 Unlimited (48 个月)",
             "US$ 2.79",
             "US$ 133.92",
             "US$ 16.99"
           ],
           [
-            "Cloud Startup",
-            "48 个月",
+            "Cloud Startup (48 个月)",
             "US$ 7.99",
             "US$ 383.52",
             "US$ 25.99"
-          ],
+          ]
+        ]
+      },
+      "paragraphs": [
+        "官网标出的月价对应表中所列的时长。决定之前，请对比首期应付总额和续费月价。"
+      ],
+      "postParagraphs": [
+        "Premium 48 个月方案的续费标价为每月 US$ 10.99，约是首期月价 US$ 1.99 的 5.5 倍。",
+        "Hostinger 公布的黑五活动结束日期是 12 月 14 日。"
+      ]
+    },
+    {
+      "heading": "VPS 和 Minecraft 价格",
+      "comparisonTable": {
+        "caption": "同次查询的 VPS 和 Minecraft 价格，未用 SONAR20。",
+        "headers": [
+          "方案和首期时长",
+          "入门价每月",
+          "入门价（整个期限）",
+          "续费价每月"
+        ],
+        "rows": [
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
-            "24 个月",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24 个月)",
             "US$ 6.49",
             "US$ 155.76",
             "US$ 11.99"
           ],
           [
-            "VPS KVM 2",
-            "24 个月",
+            "VPS KVM 2 (24 个月)",
             "US$ 8.79",
             "US$ 210.96",
             "US$ 14.99"
           ],
           [
-            "VPS KVM 4",
-            "24 个月",
+            "VPS KVM 4 (24 个月)",
             "US$ 12.99",
             "US$ 311.76",
             "US$ 28.99"
           ],
           [
-            "VPS KVM 8",
-            "24 个月",
+            "VPS KVM 8 (24 个月)",
             "US$ 25.99",
             "US$ 623.76",
             "US$ 49.99"
           ],
           [
-            "[邮箱 Starter，每个邮箱](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20)",
-            "48 个月",
-            "US$ 0.39",
-            "US$ 18.72",
-            "US$ 1.59"
-          ],
-          [
-            "邮箱 Standard，每个邮箱",
-            "48 个月",
-            "US$ 0.99",
-            "US$ 47.52",
-            "US$ 2.79"
-          ],
-          [
-            "邮箱 Premium，每个邮箱",
-            "48 个月",
-            "US$ 1.99",
-            "US$ 95.52",
-            "US$ 3.99"
-          ],
-          [
-            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20)",
-            "24 个月",
+            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20) (24 个月)",
             "US$ 6.99",
             "US$ 167.76",
             "US$ 11.99"
           ]
         ]
-      },
-      "postParagraphs": [
-        "我算了一笔账：用 48 个月 Premium 那张卡片上的两个价格：续费价每月 US$ 10.99，约是入门价每月 US$ 1.99 的 5.5 倍。这就是只看大数字的人踩的坑：期限最长的方案入门价最低，而几乎所有方案的续费价都远高于它。",
-        "入门价是 Hostinger 黑色星期五的价格，持续到 12 月 14 日。"
-      ]
+      }
+    },
+    {
+      "heading": "专业邮箱价格",
+      "comparisonTable": {
+        "caption": "独立邮箱方案的单邮箱价格，未用 SONAR20。",
+        "headers": [
+          "方案和首期时长",
+          "入门价每月",
+          "入门价（整个期限）",
+          "续费价每月"
+        ],
+        "rows": [
+          [
+            "[邮箱 Starter，每个邮箱](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20) (48 个月)",
+            "US$ 0.39",
+            "US$ 18.72",
+            "US$ 1.59"
+          ],
+          [
+            "邮箱 Standard，每个邮箱 (48 个月)",
+            "US$ 0.99",
+            "US$ 47.52",
+            "US$ 2.79"
+          ],
+          [
+            "邮箱 Premium，每个邮箱 (48 个月)",
+            "US$ 1.99",
+            "US$ 95.52",
+            "US$ 3.99"
+          ]
+        ]
+      }
     },
     {
       "heading": "什么时候不该选 Hostinger",
       "paragraphs": [
-        "如果预算只有靠入门价才够，就别选 Hostinger。续费总会来，期限结束时只剩两条路：按续费价付款，或者换主机并迁移网站。",
+        "如果续费价超出预算，先在 hPanel 查看能否换方案或调整付费周期。要更换服务商的话，建议在到期前安排网站迁移。",
         "想在决定前和别家比较，[选主机的指南（含 Hostinger）](/zh-hans/reviews/choose-web-host-hostinger-zh-hans)和[Hostinger 还是 GoDaddy](/zh-hans/reviews/hostinger-or-godaddy-zh-hans)都把续费算了进去。",
         "如果疑问是能不能信任它，[Hostinger 可靠吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)讲了谁来收费，以及主机和 VPS 30 天退款是怎么运作的；它在第三方平台上的口碑有[专门的一篇](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)。"
       ]
@@ -258,7 +274,7 @@
     {
       "heading": "SONAR20：在哪里生效",
       "paragraphs": [
-        "SONAR20 对新购买的首期给 20% 优惠；已经是用户、但买的是自己还没有的产品时也适用。适用于主机、VPS、WordPress 和专业邮箱；不适用于域名，续费按标价计算。",
+        "符合优惠条件的新购服务可用 SONAR20 享受首期 20% 优惠。适用于网站主机、VPS、WordPress 和专业邮箱。域名和续费不参加这项优惠。 现有用户新购尚未使用的符合条件的产品，也可以使用这个优惠码。",
         "在购物车的 \"Have a coupon code?\" 栏输入代码，或通过[Hostinger 的方案](https://www.hostinger.com/?REFERRALCODE=SONAR20)进入，付款前核对总额。[Hostinger 优惠码](/zh-hans/coupons/hostinger)页面有步骤和代码测试记录，[Hostinger 续费](/zh-hans/reviews/hostinger-renewal-sonar20-zh-hans)则有专门的一篇。"
       ]
     },

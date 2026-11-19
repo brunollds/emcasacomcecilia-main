@@ -35,14 +35,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "カートにSONAR20を入力するか、リンクから申し込むと、新規購入の初期期間が20%オフ。ドメインと更新料は割引の対象外です。支払い前に合計額を確認してください。",
+    "text": "プランを選び、カートでSONAR20による初回契約期間の20%割引が適用されるか確認してください。更新料もあわせて確認しましょう。",
     "label": "Hostingerのプランを見る",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "SONAR20またはリンク経由の購入で、私に紹介手数料が入る場合があります（追加費用はありません）。AIビルダーとMinecraftサーバーは使っていません。",
+  "editorialNote": "SONAR20またはリンク経由の購入で、私に紹介手数料が入る場合があります。購入者に追加費用はかかりません。AIビルダー、ネットショップ、MinecraftについてはHostingerの案内をもとにまとめました。",
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
@@ -78,7 +78,7 @@
     {
       "heading": "クイックアンサー",
       "paragraphs": [
-        "Hostingerは、サイト、WordPress、メール、VPSを安い初期料金で始めたい人に向いています。ただし更新料は初期料金の何倍にもなるので、更新時の金額を見込んで選ぶ必要があります。私はホスティング、VPS、メール、ドメインを使っていて、このサイトも動いています。選び方を左右するのは、プランの種類と、サーバーをどこまで自分で触りたいかです。"
+        "2024年からHostingerを使っています。このサイトの運営に加え、VPS、メール、ドメインも契約しています。初めてのサイトやWordPressブログなら、通常のウェブホスティングで十分です。サーバーを自分で管理する必要があるならVPSを検討してください。契約前に、初回の支払総額と更新時の料金を確認しましょう。"
       ]
     },
     {
@@ -112,16 +112,16 @@
     {
       "heading": "Hostingerでサイトを作るのは向いている？",
       "paragraphs": [
-        "向いています。2つの道の分かれ目は、サイトにどこまで手を入れたいかです。ホスティングでは、WordPressを入れるか自分のコードをアップロードして、自分で面倒を見ます。このサイトがそうで、WordPressではなく自作のコードです。AIビルダーでは、作りたいサイトを文章で説明すると、エディタが最初のページ案を作ります。",
-        "Hostingerの案内では、AIビルダーに専用プランはなく、ウェブホスティングの全プランに含まれています。つまり2つの道の違いは、あなたの手元に残る作業量です。プラグインや独自テーマ、すべてを自分で管理したい人はWordPress、プログラミングなしでシンプルなサイトを公開したい人はAIビルダーから始めてください。App StoreやGoogle Playのアプリを作りたい人には向きません。出てくるのはウェブサイトかウェブアプリです。",
+        "WordPressを使うなら、ウェブホスティングを選んで管理画面からインストールします。自分で書いたコードを公開するなら、プランが対応しているか確認してください。このサイトはNode.jsで動いています。Hostingerの案内では、Node.jsアプリのマネージドホスティングはUnlimitedとCloudの各プランで利用できます。",
+        "Hostingerは、ホスティング込みのAIビルダーを販売しています。すでにホスティングを契約している場合は、使える機能とAIクレジットを確認してください。プラグインや独自テーマを使いたいならWordPressが向いています。AIビルダーなら、コードを書かずに簡単なサイトやウェブアプリを公開できます。",
         "Premiumは最大3サイトまで使えます。[HostingerのWordPress](/ja/reviews/wordpress-hostinger-ja)はケースごとにどのプランを選ぶかを説明し、[HostingerのAIビルダー](/ja/reviews/hostinger-ai-builder-ja)はどんなプロジェクトに向くかを紹介しています。"
       ]
     },
     {
       "heading": "HostingerのVPSの評判は？",
       "paragraphs": [
-        "自分専用のサーバーが必要で、それを管理できる人がいるなら良いです。ホスティングに加えてVPS KVM 2を1台持っています。ホスティングではHostingerがサーバーを保守しますが、VPSでは更新、セキュリティ、故障への対応は契約者の仕事です。",
-        "VPSが向くのは、アプリ、n8nのような自動化、AIエージェントを動かす人です。これらにはホスティングのプランでは使えないプログラムや管理者権限が必要になります。普通のサイトならホスティングで足り、費用も安く済みます。[VPSか共有ホスティングか](/ja/reviews/vps-or-shared-hosting-ja)がシナリオ別に計算しています。AIエージェントなら、[OpenClawに合うVPS](/ja/reviews/best-vps-for-openclaw-ja)がどのKVMを選ぶかを説明しています。",
+        "ウェブホスティングに加えてKVM 2のVPSを使っています。管理者権限が必要な場合や、サーバーにソフトを入れたい場合にVPSが役立ちます。基盤はHostingerが運用します。VPSの設定、更新、セキュリティは利用者が管理します。",
+        "アプリ、n8nの自動化、AIエージェントに管理者権限が必要なら、VPSが選択肢になります。普通のサイトならホスティングで足り、費用も安く済みます。[VPSか共有ホスティングか](/ja/reviews/vps-or-shared-hosting-ja)がシナリオ別に計算しています。AIエージェントなら、[OpenClawに合うVPS](/ja/reviews/best-vps-for-openclaw-ja)がどのKVMを選ぶかを説明しています。",
         "設定時にはサーバーの所在地を選びます。アクセスしてくる人にいちばん近い場所を選んでください。所在地はあとから変更できます。"
       ]
     },
@@ -129,7 +129,7 @@
       "heading": "Hostingerのメールは使える？",
       "paragraphs": [
         "自分のドメインでメールを使うなら、使えます。私はHostingerのプロフェッショナルメールを自分のドメインで使っていて、サイトと同じ管理画面で済むため、別のサービスは要りません。",
-        "料金はメールボックスごとです。1人1ボックスで、3人のチームなら3ボックス分を払います。プランはStarterからPremiumまでで、料金は料金の章の表に載せています。",
+        "表にあるメールの単独プランは、メールボックスごとの課金です。すでにホスティングを契約している場合は、使えるメールボックスの数と利用できる期間を確認してください。",
         "ニュースレターとは別物です。プロフェッショナルメールは受信箱で、リスト宛の一斉配信は別製品のReachになります。[Reach、Mailchimp、Brevoの比較](/ja/reviews/hostinger-reach-ja)で比べています。すでに別サービスで自分のドメインのメールを使えていて満足なら、移す理由はありません。"
       ]
     },
@@ -144,113 +144,129 @@
     {
       "heading": "ネットショップとMinecraftの場合",
       "paragraphs": [
-        "国際サイトでは、ネットショップ機能はホスティングのプランに含まれています（Premiumのカードにも機能としてeコマースが並びます）。ショップが複数サイトや多くのアクセスに育つなら、向いているのはCloud Startupです。",
-        "Minecraftは、自分専用サーバーで長く遊ぶグループに向きます。Game Panelプランは、ゲーム用パネル付きのVPSで、そこでサーバーとMODを設定し、フレンドを招待します。表の初期料金は24か月分の一括払いなので、数か月しか遊ばないグループには、月額より総額のほうが重くのしかかります。"
+        "国際サイトでは、Premiumの機能一覧にネットショップが載っています。UnlimitedとCloud Startupはネットショップ機能が1年間無料と案内されています。プランに含まれる機能と、その期間が終わった後の料金を確認してください。",
+        "Game PanelではMinecraftサーバーを設定し、MODを入れてフレンドを招待できます。表は24か月分の総額です。数か月だけ遊ぶ予定なら、月額よりこの総額のほうが重くなります。"
       ]
     },
     {
-      "heading": "初期期間のあとはいくらかかるか",
-      "paragraphs": [
-        "料金ページで大きく表示される価格は、いちばん長い契約期間の月額で、期間全体は一括で払います。更新料は小さい文字で表示され、かなり高くなっています。表は、プランごとに両方を並べています。"
-      ],
+      "heading": "ウェブホスティングの料金",
       "comparisonTable": {
-        "caption": "Hostinger海外サイトの価格（11月19日時点）。すでにブラックフライデー価格で、SONAR20適用前。お住まいの地域では価格が異なる場合があります。",
+        "caption": "11月19日に確認したHostinger国際サイトの価格。SONAR20適用前の金額で、地域によって異なります。",
         "headers": [
-          "製品とプラン",
-          "契約期間",
+          "プラン・初回契約期間",
           "初期の月額",
           "期間全体の初期料金",
           "更新時の月額"
         ],
         "rows": [
           [
-            "[ウェブホスティング Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
-            "48か月",
+            "[ウェブホスティング Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20) (48か月)",
             "US$ 1.99",
             "US$ 95.52",
             "US$ 10.99"
           ],
           [
-            "ウェブホスティング Unlimited",
-            "48か月",
+            "ウェブホスティング Unlimited (48か月)",
             "US$ 2.79",
             "US$ 133.92",
             "US$ 16.99"
           ],
           [
-            "Cloud Startup",
-            "48か月",
+            "Cloud Startup (48か月)",
             "US$ 7.99",
             "US$ 383.52",
             "US$ 25.99"
-          ],
+          ]
+        ]
+      },
+      "paragraphs": [
+        "表示されている月額は、表に示した契約期間のものです。初回の支払総額と、更新後の月額を比べてください。"
+      ],
+      "postParagraphs": [
+        "Premiumの48か月プランでは、更新時の表示月額はUS$ 10.99です。初回の月額US$ 1.99の約5.5倍になります。",
+        "Hostingerの案内では、ブラックフライデーのキャンペーンは12月14日までです。"
+      ]
+    },
+    {
+      "heading": "VPSとMinecraftの料金",
+      "comparisonTable": {
+        "caption": "同じ調査時点のVPSとMinecraftの価格。SONAR20適用前。",
+        "headers": [
+          "プラン・初回契約期間",
+          "初期の月額",
+          "期間全体の初期料金",
+          "更新時の月額"
+        ],
+        "rows": [
           [
-            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
-            "24か月",
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20) (24か月)",
             "US$ 6.49",
             "US$ 155.76",
             "US$ 11.99"
           ],
           [
-            "VPS KVM 2",
-            "24か月",
+            "VPS KVM 2 (24か月)",
             "US$ 8.79",
             "US$ 210.96",
             "US$ 14.99"
           ],
           [
-            "VPS KVM 4",
-            "24か月",
+            "VPS KVM 4 (24か月)",
             "US$ 12.99",
             "US$ 311.76",
             "US$ 28.99"
           ],
           [
-            "VPS KVM 8",
-            "24か月",
+            "VPS KVM 8 (24か月)",
             "US$ 25.99",
             "US$ 623.76",
             "US$ 49.99"
           ],
           [
-            "[メール Starter（1ボックスあたり）](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20)",
-            "48か月",
-            "US$ 0.39",
-            "US$ 18.72",
-            "US$ 1.59"
-          ],
-          [
-            "メール Standard（1ボックスあたり）",
-            "48か月",
-            "US$ 0.99",
-            "US$ 47.52",
-            "US$ 2.79"
-          ],
-          [
-            "メール Premium（1ボックスあたり）",
-            "48か月",
-            "US$ 1.99",
-            "US$ 95.52",
-            "US$ 3.99"
-          ],
-          [
-            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20)",
-            "24か月",
+            "[Minecraft Game Panel 1](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=SONAR20) (24か月)",
             "US$ 6.99",
             "US$ 167.76",
             "US$ 11.99"
           ]
         ]
-      },
-      "postParagraphs": [
-        "私の計算です。48か月のPremiumのカードにある2つの価格を使うと、更新時の月額US$ 10.99は、初期の月額US$ 1.99の約5.5倍です。大きな数字だけで選ぶ人が引っかかる罠で、いちばん長いプランは初期料金がいちばん安く、ほとんどのプランで更新料はそれを大きく上回ります。",
-        "初期料金はHostingerのブラックフライデー価格で、12月14日までです。"
-      ]
+      }
+    },
+    {
+      "heading": "ビジネスメールの料金",
+      "comparisonTable": {
+        "caption": "単独メールプラン。メールボックス1つ当たりの価格。SONAR20適用前。",
+        "headers": [
+          "プラン・初回契約期間",
+          "初期の月額",
+          "期間全体の初期料金",
+          "更新時の月額"
+        ],
+        "rows": [
+          [
+            "[メール Starter（1ボックスあたり）](https://www.hostinger.com/business-email?REFERRALCODE=SONAR20) (48か月)",
+            "US$ 0.39",
+            "US$ 18.72",
+            "US$ 1.59"
+          ],
+          [
+            "メール Standard（1ボックスあたり） (48か月)",
+            "US$ 0.99",
+            "US$ 47.52",
+            "US$ 2.79"
+          ],
+          [
+            "メール Premium（1ボックスあたり） (48か月)",
+            "US$ 1.99",
+            "US$ 95.52",
+            "US$ 3.99"
+          ]
+        ]
+      }
     },
     {
       "heading": "Hostingerを選ばないほうがいい場合",
       "paragraphs": [
-        "初期料金でしか予算が合わないなら、Hostingerは選ばないでください。更新の時期は必ず来ます。期間の終わりには、更新料を払うか、他社に乗り換えてサイトを移すかの2択が残ります。",
+        "更新料が予算を超えるなら、hPanelでプランや支払期間を変更できるか確認してください。他社に乗り換える場合は、契約が切れる前に移行を計画しましょう。",
         "他社と比べてから決めたいなら、[ウェブホスティングの選び方（Hostingerを含む）](/ja/reviews/choose-web-host-hostinger-ja)と[HostingerとGoDaddyの比較](/ja/reviews/hostinger-or-godaddy-ja)が、更新料まで含めて計算しています。",
         "信頼できるかが気になるなら、[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)に、誰が請求するか、ホスティングとVPSの30日間返金の仕組みを載せています。[第三者サイトでの評価](/ja/reviews/hostinger-trustpilot-reviews-ja)は別の記事にまとめています。"
       ]
@@ -258,7 +274,7 @@
     {
       "heading": "SONAR20：どこで使えるか",
       "paragraphs": [
-        "SONAR20は、新規購入の初期期間が20%オフになります。すでにHostingerを利用している人でも、まだ持っていない製品を買うなら使えます。対象はホスティング、VPS、WordPress、プロフェッショナルメールで、ドメインは対象外です。更新時はリスト価格になります。",
+        "SONAR20は、対象サービスを新規契約した場合に初回契約期間が20%オフになるコードです。ホスティング、VPS、WordPress、ビジネスメールに使えます。ドメインと更新は割引対象外です。 すでに利用中でも、まだ契約していない対象製品を申し込むときに使えます。",
         "カートの \"Have a coupon code?\" 欄にコードを入力するか、[Hostingerのプラン](https://www.hostinger.com/?REFERRALCODE=SONAR20)から申し込み、支払い前に合計額を確認してください。[Hostingerのクーポンページ](/ja/coupons/hostinger)に手順とコードのテスト結果があり、[Hostingerの更新](/ja/reviews/hostinger-renewal-sonar20-ja)には専用の記事があります。"
       ]
     },

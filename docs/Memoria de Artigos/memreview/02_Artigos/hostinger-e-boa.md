@@ -370,3 +370,13 @@ enchimento na resposta rápida), ja e zh (frases literais, "AI 代理" em zh-han
 **Mídia no CDN (19/11, sim do Bruno).** As 21 imagens (10 capas, 10 quadros, o print) subidas e verificadas, com
 `prepare-delivery --append` e `phase5-export`. Gates: validate:content, test:review-i18n, internal-links, article-d2,
 site-search, validate:video e o build completo (typecheck, build, build-output, review-delivery-html, html-lang).
+
+**Parecer do Farol (19/11, depois do #1232).** Aplicado o pacote `docs/auditoria-copy-artigos/hostinger-h11-20261119-farol/`
+nos 10 idiomas: Node.js Web App só no Unlimited (o antigo Business) e no Cloud (documentação da Hostinger, conferida); o
+Criador com IA vendido com os planos Premium e Unlimited (`/br/ai-builder/pricing`, conferida); no fim do ciclo, conferir no
+hPanel a redução de plano e a mudança do período de cobrança (ajuda da Hostinger, conferida); e-mail por caixa nos planos
+avulsos; tabela dividida em três; zh-hans e zh-hant com os termos dos quadros. Não entraram, por falta de fonte: "já testamos
+o código em hospedagem, VPS e e-mail" (o dossiê não tem teste no VPS, e o teste fica na página do cupom) e "alguns planos
+pedem o código manual"; virou "entra na hospedagem, no VPS, no WordPress e no e-mail profissional". Também ficou fora o
+"compare com um prazo mais curto" do Minecraft, porque a página só mostra 24 meses. Os rótulos "Usei:", "A loja informa:"
+e "Conta nossa:" voltaram ao PT. Gates e build completo passaram.
