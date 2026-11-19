@@ -8,6 +8,19 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Skelt: marcas de farmácia e reteste do código (18/11/2026)
+
+Fatos em [[skelt-fatos-1811]]; pautas SF1 a SF6 na [[Fila-de-Pautas]], seção 3, sem GO.
+
+- **Código:** o `SKEMCASACOMCECILIA` deu 5% sobre o preço da campanha em cinco carrinhos simulados pela API pública (mousse de R$ 101,92 para R$ 96,82). O site inteiro está na November Glow, então não há produto sem promoção para separar regra da campanha de mudança do código.
+- **Trends (Brasil, 12 meses):** "autobronzeador skelt" 30, "panvel" 8, "australian gold" 1, "episol" 1, "best bronze" 0. A Skelt subiu para 48 e 52 nas duas últimas semanas; o pico do ano passado foi na semana de 21/12.
+- **Autocompletar:** "skelt ou" traz best bronze, australian gold, panvel, episol e mantecorp; "como usar", "mancha a roupa", "quanto tempo" e "protetor solar" aparecem com a marca.
+- **Preço:** a Panvel Glow custa de 2 a 3 vezes menos que a Skelt no mousse (R$ 29,99 contra R$ 69,16 por 100 ml). A Episol Gold de 150 ml (R$ 99,90) fica um pouco acima da água da Skelt (R$ 96,82). A Kakadu da Australian Gold é loção de manutenção.
+- **Episol é da Mantecorp:** a reserva A4 tinha quatro nomes e três concorrentes.
+- **Não lido:** o mousse da Australian Gold, a duração da Episol, a linha Summer Vibes e duas comparações do Trends que não carregaram.
+
+---
+
 ## Donna Carioca: alternativas e nicho fitness (18/11/2026)
 
 A Donna Carioca negou a afiliação e o Bruno pediu para posicionar "Alternativas à Donna Carioca". Fatos em [[donna-carioca-fatos-1811]]; pautas DC1 a DC4 na [[Fila-de-Pautas]], seção 3, sem GO.

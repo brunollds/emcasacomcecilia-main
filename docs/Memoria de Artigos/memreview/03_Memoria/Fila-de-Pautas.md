@@ -97,6 +97,17 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 ### Propostas sem GO
 
+**Skelt (18/11/2026): marcas de farmácia e reteste do código.** Fatos em [[skelt-fatos-1811]]. O `SKEMCASACOMCECILIA` deu 5% sobre o preço da campanha November Glow em cinco carrinhos (o teste de 11/11 tinha dado 10%); com o site inteiro em promoção, não dá para saber se é regra da campanha ou mudança do código. Nenhuma pauta abaixo vira briefing antes de o Bruno decidir o percentual.
+
+| Código | Pauta | Parceiros | Busca | Nota |
+|---|---|---|---|---|
+| SF1 | Skelt ou Panvel Glow: qual autobronzeador | Skelt | Trends: "autobronzeador panvel" 8 contra 30 da Skelt | A Panvel custa de 2 a 3 vezes menos no mousse; a Skelt declara 7 a 12 dias contra "até 7" |
+| SF2 | Skelt ou Episol Gold (Mantecorp): água autobronzeadora | Skelt | Trends 1; "ou episol" e "ou mantecorp" | Mesmo tamanho (150 ml); a Skelt ganha no preço. Episol e Mantecorp são a mesma marca |
+| SF3 | Skelt ou Australian Gold | Skelt | Trends 1 | Falta ler o mousse da Australian Gold; a Kakadu é loção de manutenção |
+| SF4 | Autobronzeador Skelt: como usar, passo a passo | Skelt | Muitas variações de "como usar" no autocompletar | Conferir a sobreposição com o `autobronzeador-skelt-qual-escolher` |
+| SF5 | Autobronzeador mancha a roupa e o lençol? | Skelt | "mancha a roupa", "mancha lençol" | Pode virar seção da SF4 |
+| SF6 | Protetor solar Skelt Summer Vibes | Skelt | "skelt protetor solar" com seis variações | Linha não lida |
+
 **Donna Carioca (18/11/2026): a marca negou a afiliação e o Bruno quer posicionar "Alternativas à Donna Carioca".** Moda fitness, beach tennis e praia; entra como referência, sem link, cupom, foto ou print. Fatos e leituras em [[donna-carioca-fatos-1811]]. Nenhuma tem GO.
 
 | Código | Pauta | Parceiros | Busca (18/11) | Nota |
@@ -230,7 +241,7 @@ Site principal ou subdomínio: decisão do Bruno, ainda aberta. A PP5 (acima) co
 | Black Skull | B2 e B5 (rodada de 27/10) | A B6 (barra de proteína) virou a BP1, de categoria, na seção 1 (14/11) |
 | Belive | B4 bolo sem açúcar; B6 kits de doces | Viram seção |
 | Bagaggio e Skelt | G7 Travelcross; S8 Trio Exotic Trip | Sinal fraco. A Travelcross estava esgotada em 31/10 |
-| Skelt | A4: marcas de farmácia (Australian Gold, Episol, Panvel e Mantecorp) | O comparativo no ar é só contra a Best Bronze |
+| Skelt | A4 virou SF1 a SF3 (propostas sem GO, 18/11): Panvel Glow, Episol Gold (que é da Mantecorp) e Australian Gold | O comparativo no ar é só contra a Best Bronze. Fatos em [[skelt-fatos-1811]] |
 | Dr. Peanut | A5: Growth, Power One e Nutrata | O comparativo no ar é só contra a La Ganexa. Reler a A5 à luz de "Alternativas à Growth": a Dr. Peanut entra nela só com produto equivalente |
 | Probiótica e Max | Massa Nitro. A reserva "IsoWhey e Top Whey 3W por tamanho" foi absorvida pela R5 (propostas sem GO) | Reserva de 28/10 |
 | Hostinger | H8 Next.js ou Vercel; e-mail no Gmail, na Hostinger ou na GoDaddy; WordPress; concorrente local | Reservas de 28/10 |
@@ -317,8 +328,8 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | 01/12 | IL5 (`cueca-para-academia`, Insider, Mizuno e Polo London Club): saiu em 12/11 com os preços da campanha de novembro. Reler no carrinho a Performance avulsa e os kits de 3 e de 5 com o EMCASACOMCECILIA, a disponibilidade da Seamless Touch e os preços dos dois anúncios da Amazon (B0G47474SN e B0FBLCRPB4). Leituras em [[insider-leituras-il5-1111]] |
 | 13/11 | HF7 (`holyfoods-e-boa`): saiu em 10/11 com os 30% da campanha 11.11 da HolyFoods, com fim anunciado para 12/11. Reler o preço do avulso, do pack e do Projeto 21 Dias e se o EMCASA soma com a oferta que estiver no ar; atualizar a tabela de preços, a de 100 g de mistura, o parágrafo do cenário e a data da legenda |
 | 13/11 e na abertura da campanha | `shein-black-friday` (10 idiomas): "hoje está no 11.11" envelhece. Reler as lojas e atualizar as datas |
-| 05/11 | Autobronzeador Skelt: reler os preços |
-| Até 21/11 | Skelt: refazer o teste do cupom, porque a regra vence em 21/11 |
+| 05/11 | Autobronzeador Skelt: preços relidos em 18/11 ([[skelt-fatos-1811]], seção 3), na campanha November Glow. Falta comparar com os valores do `autobronzeador-skelt-qual-escolher` e do `skelt-ou-best-bronze`, que são de 23/10 |
+| Até 21/11 | Skelt: teste refeito em 18/11 pela API do carrinho. O `SKEMCASACOMCECILIA` deu 5% sobre o preço da campanha, não 10% ([[skelt-fatos-1811]], seção 1). Espera a decisão do Bruno; `/cupons/skelt` é da sessão de cupons |
 | Antes da Black Friday | Reler os preços da Insider (I6), do melhor whey, da Probiótica, da Max e da Hostinger. Na DAMIE, a campanha e os preços |
 | Antes de 27/11 | Famílias da Hostinger (Reach, HostGator e WordPress): reler os preços |
 | ~14/11 | Remedir "cupom max titanium", "cupom probiótica" e "cupom insider" (posição e URL); na Max, decidir a dona ([[cupom-loja-primeira-pagina-0511]]) |
