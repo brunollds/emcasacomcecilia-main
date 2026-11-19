@@ -169565,6 +169565,52 @@
       "verified_at": "2026-11-19T02:47:21.123Z",
       "verification_etag_or_digest": "c241215bfb13522d486e4ef935974267fba7dac4236bdad9315d451a7f8ed396",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-ou-episol-gold-capa.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-episol-gold-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68624,
+      "sha256": "f526ea74d3ae1db0c8835430abbb0cfa88eebbf8bc9e1baa526390073f39f184",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-episol-gold-capa.webp",
+      "storage_filename": "skelt-ou-episol-gold-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-episol-gold.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-episol-gold.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-ou-episol-gold-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 268349,
+          "column": 15,
+          "literal": "/images/reviews/skelt/skelt-ou-episol-gold-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f526ea74d3ae1db0c8835430abbb0cfa88eebbf8bc9e1baa526390073f39f184/skelt-ou-episol-gold-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f526ea74d3ae1db0c8835430abbb0cfa88eebbf8bc9e1baa526390073f39f184/skelt-ou-episol-gold-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-19T03:23:04.507Z",
+      "verification_etag_or_digest": "f526ea74d3ae1db0c8835430abbb0cfa88eebbf8bc9e1baa526390073f39f184",
+      "verification_status": "verified"
     }
   ]
 }

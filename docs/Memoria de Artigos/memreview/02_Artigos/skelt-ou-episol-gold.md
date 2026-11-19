@@ -7,7 +7,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Beleza"
 anexo_tipo: "Anexo-Beleza"
-status: "briefing"
+status: "redigido"
 responsavel: "Job-1 (Claude Fable 5.2)"
 proxima_acao: "Job 2: reler preços e o código no carrinho da Skelt, abrir a Episol em duas lojas, redigir"
 bloqueado_por: null
@@ -156,3 +156,12 @@ mesma: 7 a 12 dias nas duas.** O artigo se sustenta em outra coisa: a Skelt tem 
 - **Job 2:** carrinho da Skelt no dia; reler o preço da Episol no site da Mantecorp; tempo de ação e cor-guia da
   Episol.
 - **Do Bruno:** nenhuma que trave.
+
+## 10. Redação (19/11)
+
+- **Preços relidos em 19/11, nos sites oficiais** (substituem os de 18/11 das seções 3 e 8): Skelt Água R$ 95,92 em promoção (tabela R$ 119,90); Água Dark R$ 64,95 (tabela R$ 129,90); Episol Gold R$ 99,90 na Mantecorp, sem promoção.
+- **Com o código a 10% (o que o texto usa):** Água R$ 86,33, Dark R$ 58,46; fora da promoção, R$ 107,91 e R$ 116,91.
+- **Carrinho de 19/11:** o SKEMCASACOMCECILIA aplicou 5% de novo (Água R$ 91,12, Dark R$ 61,70). Nos dois percentuais as águas da Skelt ficam abaixo da Episol enquanto durar a promoção.
+- **Episol, página da Mantecorp lida inteira:** DHA, eritrulose e ácido hialurônico; aplicar com as mãos e lavá-las; fora do rosto; deixar 8 horas e tirar no banho sem esfregar; cor em 24 horas; 7 a 12 dias; "não mancha tecido"; não protege do sol; não fala em cor-guia nem em rendimento. O "reaplicar a cada 8 dias" é da Panvel e ficou fora.
+- **Ácido hialurônico está nas duas** (a Água da Skelt também leva), então não diferencia.
+- Revisão em três lentes (fatos, regras, leitor); aplicadas as correções que se sustentaram. Ficaram fora: frete (não relido no dia) e a frase sobre os 5% do carrinho (decisão do Bruno pelos 10%).
