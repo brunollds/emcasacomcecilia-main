@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "As duas são água autobronzeadora de 150 ml e declaram a mesma duração. Veja o que muda entre a Skelt e a Episol Gold, da Mantecorp: tons, aplicação e preço no site de cada marca.",
-  "metaDescription": "Na Skelt, o SKEMCASACOMCECILIA dá 10% OFF. Compare com a Episol Gold, da Mantecorp: tons, duração, aplicação e preço.",
+  "description": "Duas intensidades na Skelt ou aplicação com as mãos na Episol Gold? Compare a rotina, o banho depois de aplicar e os preços nos sites oficiais, com o cupom da Skelt.",
+  "metaDescription": "Na Skelt, o SKEMCASACOMCECILIA dá 10% OFF. Compare com a Episol Gold, da Mantecorp: intensidade, duração, aplicação e preço.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
   "draft": false,
@@ -27,59 +27,51 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "As duas são água autobronzeadora de 150 ml, e as marcas declaram bronzeado de 7 a 12 dias. A Episol Gold, da Mantecorp Skincare, tem um tom só; a Skelt tem a Água e a Água Dark, mais intensa segundo a marca. Com o SKEMCASACOMCECILIA, as duas Skelt saem mais baratas que a Episol enquanto durar a promoção."
+        "A Skelt oferece bronzeado médio ou mais intenso; a Episol Gold, da Mantecorp, pode ser aplicada com as mãos. As duas marcas anunciam duração de 7 a 12 dias. Na promoção consultada, as duas águas da Skelt já custavam menos que a Episol Gold antes do cupom SKEMCASACOMCECILIA."
       ]
     },
     {
-      "heading": "O que as duas têm em comum",
+      "heading": "Skelt ou Episol Gold: o que pesa na sua rotina",
       "paragraphs": [
-        "A Episol Gold é a água autobronzeadora da Mantecorp Skincare, da mesma linha Episol dos protetores solares da marca. A Skelt é uma marca brasileira de autobronzeadores, vendida no site próprio.",
-        "As duas vêm em frasco de 150 ml com válvula de espuma, são para o corpo e, segundo as marcas, o bronzeado dura de 7 a 12 dias. As duas levam ácido hialurônico na fórmula. Por isso, duração, tamanho e esse ativo não ajudam a escolher.",
-        "Autobronzeador não é protetor solar, e a Mantecorp avisa na página da Episol Gold que ela não protege contra a ação solar. O protetor continua necessário com qualquer uma das duas."
+        "Para escolher a intensidade, a Skelt tem a Água comum e a Dark. Se a prioridade é aplicar sem luva, a Episol Gold permite usar as mãos: a Mantecorp orienta lavá-las durante a aplicação.",
+        "Os três frascos têm 150 ml, válvula que libera espuma e uso corporal. As fórmulas levam ácido hialurônico, e as marcas anunciam a mesma faixa de duração, de 7 a 12 dias; isso não demonstra que os resultados sejam iguais.",
+        "As águas autobronzeadoras deste comparativo não substituem o protetor solar."
       ]
     },
     {
       "heading": "O que muda entre a Skelt e a Episol Gold",
       "paragraphs": [
-        "A diferença está no tom, no jeito de aplicar e no que fazer depois. Tudo abaixo é o que cada marca declara na página do produto."
+        "A escolha entre as águas depende da intensidade desejada, da aplicação com ou sem luva e do intervalo que você consegue reservar antes do banho. A tabela resume as orientações e as características anunciadas pelas marcas."
       ],
       "comparisonTable": {
         "headers": [
-          "",
+          "Critério",
           "Skelt",
           "Episol Gold"
         ],
         "rows": [
           [
-            "Tons",
+            "Intensidade anunciada",
             "Dois: a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), de bronzeado médio, e a [Água Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), que a marca diz ser duas vezes mais intensa",
-            "Um só; a página não diz a intensidade, e a Mantecorp não vende versão mais escura"
+            "Uma versão de 150 ml; sem opção Dark no catálogo consultado"
           ],
           [
             "Como aplicar",
-            "Com luva, que a marca chama de essencial para evitar manchas e vende à parte; a Água é incolor, e a loja a indica a quem já tem prática",
-            "Com as mãos, lavando-as logo depois; fora do rosto"
+            "Com luva aplicadora, vendida à parte; as duas águas são incolores",
+            "Pode usar as mãos, lavando-as durante a aplicação; só no corpo"
           ],
           [
             "Depois de aplicar",
-            "A marca diz que não é preciso tirar o produto do corpo",
-            "Deixar 8 horas e tirar no banho, sem esfregar; a cor termina de aparecer em 24 horas"
+            "Na Água comum, a página diz que não é preciso tirar o produto; o guia da marca pede ao menos 8 horas antes do próximo banho",
+            "Manter por 8 horas e retirar no banho; a marca orienta esperar 24 horas para a cor se desenvolver por completo"
           ],
           [
             "Rendimento declarado",
             "5 a 8 aplicações por frasco",
-            "A página da marca não diz"
-          ],
-          [
-            "O que mais a página destaca",
-            "Agentes bronzeadores naturais; vegana, sem crueldade animal, sem parabenos e sem óleo mineral; a Dark leva vitamina C",
-            "DHA e eritrulose; toque seco, não comedogênica, hipoalergênica e dermatologicamente testada"
+            "Não informado"
           ]
         ]
       },
-      "postParagraphs": [
-        "Na prática, a Episol Gold pede uma etapa a mais, a espera de 8 horas antes do banho. A Skelt pede a luva, vendida à parte, e o preço dela não entra na conta abaixo."
-      ],
       "images": [
         {
           "src": "/images/reviews/skelt/autobronzeador-agua.webp",
@@ -97,19 +89,24 @@
           "aspectRatio": 1,
           "href": "https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         }
+      ],
+      "bullets": [
+        "Separe o aplicador. Na Skelt, a luva fica pronta antes de começar; na Episol Gold, aplicando com as mãos, a Mantecorp orienta lavá-las com sabão várias vezes durante a aplicação.",
+        "Espere secar antes de vestir a roupa, como as duas marcas orientam.",
+        "Reserve o intervalo antes do banho. A Mantecorp pede 8 horas com o produto e o banho em seguida; na Skelt, o guia da Água pede ao menos 8 horas até o próximo banho."
       ]
     },
     {
       "heading": "Quanto custa cada uma",
       "paragraphs": [
-        "Preços nos sites oficiais em 19/11: a Skelt no site dela e a Episol Gold no site da Mantecorp Skincare. Como os três frascos têm 150 ml, o preço compara direto."
+        "Preços nos sites oficiais em 19/11: a Skelt no site dela e a Episol Gold no site da Mantecorp Skincare. Como os três frascos têm 150 ml, o preço da embalagem compara direto."
       ],
       "comparisonTable": {
         "headers": [
           "Produto",
           "Preço de tabela",
           "Preço no site",
-          "Com o SKEMCASACOMCECILIA"
+          "Cálculo com 10% do código"
         ],
         "rows": [
           [
@@ -130,45 +127,46 @@
             "R$ 99,90",
             "Não se aplica"
           ]
-        ]
+        ],
+        "caption": "Preços lidos nos sites oficiais. Valores dos frascos, antes de frete e luva aplicadora, sem o desconto adicional do Pix."
       },
       "postParagraphs": [
-        "A última coluna é a conta dos 10% do código sobre o preço do site. Confira o desconto no resumo da sacola antes de pagar.",
-        "Com a promoção, as duas águas da Skelt custam menos que a Episol Gold, e a Dark custa bem menos. Sem a promoção, a conta vira: a Água sai por R$ 107,91 com o código e a Dark, por R$ 116,91, acima dos R$ 99,90 da Episol."
+        "A vantagem atual vem da promoção: mesmo sem o código, os dois frascos da Skelt custam menos que a Episol Gold. Se a Água voltar a R$ 119,90 e a Dark a R$ 129,90, a conta com 10% dá R$ 107,91 e R$ 116,91; com a Episol em R$ 99,90, ela passa a custar menos.",
+        "Se você ainda não tem a luva da Skelt, some o acessório e o frete antes de escolher. A luva custa R$ 34,90 e estava por R$ 27,92 na promoção. Com ela, a Água sai por R$ 123,84, acima da Episol Gold, e a Dark por R$ 92,87, ainda abaixo."
       ]
     },
     {
       "heading": "Nunca usou autobronzeador?",
       "paragraphs": [
-        "A Água da Skelt é incolor, e a loja a indica a quem já sabe aplicar. A página da Episol Gold não fala em cor-guia, e a Mantecorp não vende outro autobronzeador.",
-        "Para a primeira vez, a Skelt tem o [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), com cor-guia, que mostra onde o produto já foi. A comparação entre os modelos da marca está em [qual autobronzeador Skelt escolher](/reviews/autobronzeador-skelt-qual-escolher). Na mesma loja há a luva e o removedor; o passo a passo do removedor está em [como tirar o autobronzeador da Skelt](/reviews/removedor-autobronzeador-skelt-como-tirar). A comparação com a outra marca de autobronzeador está em [Skelt ou Best Bronze](/reviews/skelt-ou-best-bronze)."
+        "As duas águas da Skelt são incolores e indicadas pela marca a quem já tem prática. Sem cor-guia, você não vê no momento da aplicação quais áreas já receberam produto. A informação sobre cor-guia não está confirmada para a Episol Gold; não conte com esse recurso ao escolhê-la.",
+        "Se você quer enxergar onde aplicou, compare com o [Mousse Autobronzeador da Skelt](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), que tem cor-guia. O guia de [qual autobronzeador Skelt escolher](/reviews/autobronzeador-skelt-qual-escolher) mostra as opções da marca. Para quem procura o removedor, há o passo a passo de [como tirar o autobronzeador da Skelt](/reviews/removedor-autobronzeador-skelt-como-tirar). A comparação com outra marca de autobronzeador está em [Skelt ou Best Bronze](/reviews/skelt-ou-best-bronze)."
       ]
     },
     {
       "heading": "Como usar o código na Skelt",
       "paragraphs": [
-        "Cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola, no site oficial da Skelt. O código dá 10% e soma com as promoções e com os 5% do Pix.",
-        "As condições estão na [página do cupom da Skelt](/cupons/skelt), e o passo a passo com imagens, em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar). O código não vale na Episol Gold."
+        "Cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola, no site oficial da Skelt, e confira a linha de desconto no resumo do pedido. O código dá 10% e soma com as promoções e com os 5% do Pix.",
+        "As condições estão na [página do cupom da Skelt](/cupons/skelt), e o passo a passo com imagens, em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar). O código vale no site da Skelt, não na Episol Gold."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Episol Gold e Mantecorp são a mesma marca? A Episol Gold é um produto da Mantecorp Skincare, da linha Episol, a mesma dos protetores solares da marca.",
-        "Qual dura mais, Skelt ou Episol Gold? As duas marcas declaram de 7 a 12 dias de bronzeado, então a duração não separa as duas.",
-        "Precisa de luva para aplicar? Na Skelt, a marca chama a luva de essencial para evitar manchas e a vende à parte. Na Episol Gold, a Mantecorp manda aplicar com as mãos e lavá-las logo depois.",
-        "A água autobronzeadora mancha a roupa? A Mantecorp diz que a Episol Gold não mancha tecido e sai na lavagem. A Skelt diz que a Água, por não ter cor-guia, tem menos chance de manchar.",
-        "Grávida pode usar autobronzeador? Leia o rótulo do produto e fale com o seu médico antes de usar."
+        "Episol Gold e Mantecorp são a mesma marca? Episol Gold é um produto da Mantecorp Skincare, dentro da linha Episol. Aqui a comparação é com a água autobronzeadora de 150 ml, não com o protetor solar de nome parecido.",
+        "Qual dura mais, Skelt ou Episol Gold? As duas marcas anunciam bronzeado de 7 a 12 dias. Essa faixa, sozinha, não permite apontar qual dura mais.",
+        "Precisa de luva para aplicar? A Skelt orienta usar a luva aplicadora, vendida à parte. A Mantecorp permite aplicar a Episol Gold com as mãos e orienta lavá-las durante a aplicação.",
+        "A água autobronzeadora mancha a roupa? A Mantecorp afirma que a Episol Gold não mancha as roupas. Na Skelt, a página da Água diz que a falta de cor-guia diminui a chance de manchar a roupa, e a marca orienta esperar secar antes de se vestir.",
+        "O SKEMCASACOMCECILIA vale na Episol Gold? Não: o código é do site da Skelt e vale só lá."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Leve a Skelt se quer escolher entre o tom médio e o mais escuro, ou comprar a luva e o removedor no mesmo pedido.",
-      "Leve a Episol Gold se prefere aplicar com as mãos, sem comprar luva, ou se a promoção da Skelt tiver acabado: sem ela, a Episol custa menos."
+      "Leve a Skelt se quer escolher entre bronzeado médio e mais intenso e aceita aplicar com luva; confira o custo do acessório no total.",
+      "Leve a Episol Gold se prefere aplicar com as mãos, sem comprar luva. Se os preços da Skelt voltarem aos de tabela, refaça a comparação: a Episol pode custar menos."
     ],
     "skipIf": [
-      "Passe as águas se nunca usou autobronzeador e quer ver onde já aplicou: o mousse com cor-guia da Skelt é o caminho para começar."
+      "Passe a água incolor se você quer ver onde já aplicou: o mousse da Skelt tem cor-guia. Na Episol Gold, esse recurso precisa ser confirmado antes da compra."
     ]
   },
   "pros": [],
