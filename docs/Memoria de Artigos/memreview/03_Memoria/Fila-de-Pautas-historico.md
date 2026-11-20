@@ -473,3 +473,28 @@ Os artigos abaixo já existem e o Bing os põe entre a 4ª e a 9ª posição, ou
 - **IL2** ([[presente-amigo-secreto-masculino]]): no ar em 11/11 (PR #883, release `9708fbf0`), id 908, só PT, artigo de quatro lojas com a L14 da Let's Eat It absorvida. Revisão externa do Farol conferida contra as leituras e as páginas das lojas; imagens aprovadas pelo Bruno no mesmo dia. Saiu da seção 1 da Fila em 11/11; a releitura de 01/12 está na seção 4.
 - **IL1** ([[como-evitar-mancha-de-suor-na-camisa-social]]): no ar em 12/11 (PR #887, release `8f723c3e`), id 909, só PT, com card de estilo. Revisão externa do Farol conferida contra o carrinho, as fichas e a central; imagens aprovadas pelo Bruno em 11/11. Saiu da seção 1 da Fila em 12/11; releitura de 01/12 na seção 4.
 - **IL5** ([[cueca-para-academia]]): no ar em 12/11 (PR #892, release `df05618c`), id 910, só PT, com a Mizuno e a Polo London Club pela Amazon (links de afiliado do Bruno). Revisão externa do Farol aplicada com as fontes do marketplace fechadas; imagens aprovadas pelo Bruno em 12/11. Saiu da seção 1 da Fila em 12/11; releitura de 01/12 na seção 4.
+
+## Conferência de 19/11/2026: publicados que saíram da seção 1
+
+Conferidos contra `content/reviews/` na main (sem `draft`) e contra o site no ar (resposta 200 em `/reviews/<slug>`) em 19/11/2026. Data, PR e release de cada um ficam no briefing e no [[PAINEL-DA-ESTEIRA]].
+
+- **Nestlé Nutre:** NM9 ([[novasource-proline-ou-cubitan]]), NM10 ([[novasource-proline-ou-impact]]), NM1 ([[nutren-active-para-que-serve]]), NM2 ([[nestonutri-ou-ninho-fases]]), NM6 ([[nutren-fortify-para-que-serve]]), NM7 ([[novasource-proline-para-que-serve]]).
+- **Dolce Gusto:** DG1 ([[dolce-gusto-neo-vale-a-pena]]), DG2 ([[dolce-gusto-nao-sai-agua-luz-vermelha]]).
+- **Skelt:** SF4 e SF5 ([[autobronzeador-skelt-como-usar]]).
+- **Cléa Store:** CH1 ([[clea-store-ou-hering-camiseta-feminina]]), A10 ([[look-natal-reveillon-2026-clea-store]]).
+- **Alternativas e comparativos (AG, CR, BD, BP, G9, LG8, PZ11):** AG1 ([[alternativas-a-growth-whey]]), CR1 ([[alternativas-a-creamy]]), AG2 ([[alternativas-a-creatina-da-growth]]), BD1 ([[alternativas-a-bendu]]), BP1 ([[barra-de-proteina-qual-escolher]]), G9 ([[bagaggio-ou-sestini-qual-mala-compensa]]), PZ11 ([[areia-para-gato-petz-custo-por-quilo]]), LG8 ([[kit-la-ganexa-ou-avulso-qual-sai-mais-barato]]).
+- **Haier:** HA2 ([[air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes]]), HA1 ([[haier-e-boa-marca-de-onde-e]]).
+- **SHEIN, Shopee, Temu e AliExpress:** SV1 ([[shein-ou-shopee-temu]], reforma na mesma URL; estava na seção 2 e quebrava a tabela), SV2 ([[shein-ou-temu-qual-escolher]]), SV3 ([[shein-ou-aliexpress-qual-escolher]]).
+- **BAW Clothing:** BW1 ([[cupom-baw-como-usar]]), BW6 ([[black-friday-baw]]), BW2 ([[baw-clothing-reclame-aqui-nota-reputacao]]), BW3 ([[baw-clothing-e-confiavel]]), BW4 ([[cupom-baw-primeira-compra]]), BW5 ([[baw-clothing-e-boa]]).
+- **L'Amazonie:** LZ1 ([[cupom-lamazonie-como-usar]]), LZ3 ([[lamazonie-e-confiavel]]), LZ2 ([[lamazonie-reclame-aqui-nota-reputacao]]), LZ5 ([[lamazonie-e-boa]]), LZ4 ([[cupom-lamazonie-primeira-compra]]), LZ6 ([[black-friday-lamazonie]]).
+- **Proton:** PN1 ([[black-friday-proton]]), PN2 ([[proton-vpn-e-confiavel]]), PN4 ([[proton-vpn-reembolso-como-cancelar]]), PN3 ([[proton-vpn-vale-a-pena]]).
+- **Rituária:** RT1 ([[cupom-rituaria-como-usar]]), RT6 ([[black-friday-rituaria]]), RT2 ([[rituaria-reclame-aqui-nota-reputacao]]), RT3 ([[rituaria-e-confiavel]]), RT5 ([[rituaria-e-boa]]), RT4 ([[cupom-rituaria-primeira-compra]]).
+- **Adaptogen:** AD6 ([[black-friday-adaptogen]]), AD1 ([[cupom-adaptogen-como-usar]]), AD5 ([[adaptogen-e-boa]]), AD4 ([[cupom-adaptogen-primeira-compra]]), AD7 ([[adaptogen-ou-dux]]), AD8 ([[adaptogen-ou-growth]]).
+- **The Barbour's Beauty:** BB1 ([[cupom-barbours-como-usar]]), BB9 ([[black-friday-barbours]]), BB3 ([[barbours-e-confiavel]]), BB2 ([[barbours-reclame-aqui-nota-reputacao]]), BB5 ([[barbours-e-boa]]), BB4 ([[cupom-barbours-primeira-compra]]).
+- **BOLD Snacks:** BO6 ([[black-friday-bold-snacks]]), BO1 ([[cupom-bold-snacks-como-usar]]), BO2 ([[bold-snacks-reclame-aqui-nota-reputacao]]), BO3 ([[bold-snacks-e-confiavel]]), BO5 ([[barra-bold-e-boa]]), BO4 ([[cupom-bold-snacks-primeira-compra]]).
+- **Pink Cheeks:** PK1 ([[cupom-pinkcheeks-como-usar]]), PK6 ([[black-friday-pinkcheeks]]), PK5 ([[pinkcheeks-e-boa]]), PK3 ([[pinkcheeks-e-confiavel]]), PK2 ([[pinkcheeks-reclame-aqui-nota-reputacao]]), PK4 ([[cupom-pinkcheeks-primeira-compra]]).
+- **Gocase:** GC1 ([[cupom-gocase-como-usar]]), GC6 ([[black-friday-gocase]]), GC3 ([[gocase-e-confiavel]]), GC5 ([[gocase-e-boa]]), GC2 ([[gocase-reclame-aqui-nota-reputacao]]), GC4 ([[cupom-gocase-primeira-compra]]).
+- **Cola e Decora:** CD1 ([[cupom-colaedecora-como-usar]]), CD6 ([[black-friday-colaedecora]]), CD5 ([[cama-montessoriana-colaedecora]]), CD3 ([[colaedecora-e-confiavel]]), CD2 ([[colaedecora-reclame-aqui-nota-reputacao]]), CD4 ([[cupom-colaedecora-primeira-compra]]).
+- **Denavita:** DV1 ([[cupom-denavita-como-usar]]), DV6 ([[black-friday-denavita]]), DV5 ([[laranja-moro-denavita]]), DV7 ([[denavita-e-boa]]), DV3 ([[denavita-e-confiavel]]), DV2 ([[denavita-reclame-aqui-nota-reputacao]]), DV4 ([[cupom-denavita-primeira-compra]]).
+- **Hostinger:** H11 ([[hostinger-e-boa]]), PC-H ([[cupom-hostinger-primeira-compra]]).
+- **Primeira compra (YesStyle e SHEIN):** PC-Y ([[codigo-yesstyle-primeira-compra-cecilia010]]), PC-S ([[cupom-shein-primeira-compra]]).
