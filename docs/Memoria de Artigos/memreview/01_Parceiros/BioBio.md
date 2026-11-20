@@ -23,7 +23,7 @@ de origem natural e veganos (BioBio Cosméticos Naturais LTDA, CNPJ 50.300.951/0
 | Soma com a promoção do Black Month (até 50% OFF no site) | condicao_comercial_volatil | O mesmo teste: o produto já estava em promoção | 2026-11-20 | 2026-12-20 | | Alta |
 | Cashback de 10% em pedidos a partir de R$ 99,90 (frete conta), saldo por 45 dias, paga até metade dos produtos em pedidos a partir de R$ 100; "Vale com cupom" | condicao_comercial_volatil | Página Cashback do site (rodapé); resumo da compra com o cupom mostrou "10% de cashback para a próxima compra" | 2026-11-20 | 2026-12-20 | | Alta |
 | Frete grátis para Sul e Sudeste acima de R$ 279; até 8x sem juros | condicao_comercial_volatil | Faixa da home e gaveta do carrinho | 2026-11-20 | 2026-12-20 | A página "Política de frete" do rodapé abre a política de privacidade | Média |
-| Pix | condicao_comercial_volatil | Regra do Bruno (cupom soma com Pix, 12/11/2026) | 2026-11-20 | 2026-12-01 | Não testado: o pagamento fica depois da identificação. Conferir no próximo teste do Bruno | Baixa |
+| O cupom vale no Pix e em todas as formas de pagamento | condicao_comercial_volatil | Regra do Bruno (20/11/2026): todo cupom funciona com Pix; percentual de desconto no Pix é critério da loja e muda sem aviso | 2026-11-20 | 2026-12-20 | Não é pendência nem pede teste. A página não cita percentual do Pix | Alta |
 
 ---
 
@@ -41,6 +41,7 @@ de origem natural e veganos (BioBio Cosméticos Naturais LTDA, CNPJ 50.300.951/0
 - A loja tem cupom próprio de primeira compra (pop-up de cadastro com 12% e faixa do checkout com outro código): **não citar**.
 - O cashback é da loja e soma com o cupom; não chamar de desconto do cupom.
 - Sem link de afiliado: o botão abre o site oficial.
+- O cupom vale para clientes novos e antigos (regra das parcerias).
 - Retestar em 01/12 pelo caminho do cliente, junto com Pink Cheeks, Gocase, Cola e Decora e Denavita.
 
 ---

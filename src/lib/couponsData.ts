@@ -5503,7 +5503,7 @@ const STORE_COUPONS: Coupon[] = [
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, o protetor de R$ 139,90 por R$ 104,93 também ganhou os 10%' },
       { benefit: 'cashback', stacks: 'sim', condition: 'Com o cupom, o checkout seguiu mostrando os 10% de cashback para a próxima compra; a loja diz que saldo e cupom entram na mesma compra' },
-      { benefit: 'pix', stacks: 'sim', condition: 'O cupom entra no resumo da compra antes da etapa de pagamento e vale também no Pix' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix e nas outras formas de pagamento; desconto próprio no Pix é critério da loja' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis para o Sul e o Sudeste acima de R$ 279, segundo a loja; abaixo disso e nas outras regiões, o frete sai pelo CEP' },
     ],
     paymentPerks: ['Até 8x sem juros no cartão de crédito'],
