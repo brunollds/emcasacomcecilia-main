@@ -3,6 +3,26 @@ import type { StoreBanner } from '../storeBanners';
 
 export const storeBannersData: StoreBanner[] = [
   {
+    "id": "adaptogen-black-friday-2026",
+    "affiliate": "adaptogen",
+    "slot": "top",
+    "href": "https://www.adaptogen.com.br/?parceiro=CECILIA",
+    "art": {
+      "kind": "tag",
+      "value": "50%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Adaptogen: até 50% OFF",
+        "text": "Campanha da própria Adaptogen. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home de adaptogen.com.br (\"Black Friday começou, até 50% OFF\"), lido no navegador em 18/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-18"
+  },
+  {
     "id": "bagaggio-black-friday-2026",
     "affiliate": "bagaggio",
     "slot": "top",
@@ -39,6 +59,46 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Banner da home de bagaggio.com.br (conferido em 02/11/2026)",
     "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "baw-black-friday-2026",
+    "affiliate": "baw",
+    "slot": "top",
+    "href": "https://www.bawclothing.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "80%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da BAW: até 80% OFF e mais 30% na segunda peça",
+        "text": "Campanha da própria BAW. As peças e as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home de bawclothing.com.br (\"Black Friday, até 80% OFF + 30% OFF na segunda peça\"), lido no navegador em 18/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-18"
+  },
+  {
+    "id": "belive-black-november-2026",
+    "affiliate": "belive",
+    "slot": "top",
+    "href": "https://belivebefree.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "30%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black November da Belive: até 30% OFF em todo o site",
+        "text": "Campanha da própria Belive. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Faixa do topo de belivebefree.com.br (\"Black November: até 30% OFF em todo o site + desconto extra no Pix\"), lida no navegador em 18/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-18"
   },
   {
     "id": "black-skull-black-friday-2026",
@@ -79,6 +139,25 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Banner da home de blackskullusa.com.br (\"Semana da Proteína & Hipercalórico: produtos selecionados com até 30% OFF\"), lido no navegador em 18/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-18"
+  },
+  {
+    "id": "bold-pre-black-2026",
+    "affiliate": "bold",
+    "slot": "top",
+    "href": "https://www.boldsnacks.com.br/discount/CECILIA15",
+    "art": {
+      "kind": "bag"
+    },
+    "endsAt": "2026-11-22T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Pré-Black da BOLD: brindes acumulativos no carrinho",
+        "text": "Campanha da própria BOLD. Coqueteleira, bolsa térmica e mala de treino, conforme o valor da compra; as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banners da home de boldsnacks.com.br (\"Pré-Black BOLD: 30% OFF + brindes no carrinho\", brindes a partir de R$ 249, R$ 359 e R$ 699), lidos no navegador em 18/11/2026; fim em 22/11 conforme o Bruno",
     "verifiedAt": "2026-11-18"
   },
   {
@@ -556,6 +635,26 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-04"
   },
   {
+    "id": "petz-friday-2026",
+    "affiliate": "petz",
+    "slot": "top",
+    "href": "https://petz.com.br/parceiro/emcasa",
+    "art": {
+      "kind": "tag",
+      "value": "70%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Petz Friday: até 70% OFF",
+        "text": "Campanha da própria Petz. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home de petz.com.br (\"A Black de quem tem pet, Petz Friday até 70% off\", válido por tempo limitado), lido no navegador em 18/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-18"
+  },
+  {
     "id": "probiotica-novembro-pro-2026",
     "affiliate": "probiotica",
     "slot": "top",
@@ -571,6 +670,24 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Página probiotica.com.br/novembro-pro (\"Novembro Pro - Probiótica\", \"Roupas e Acessórios com até 50% OFF\"), ligada pelo carrossel da home (04/11/2026)",
+    "verifiedAt": "2026-11-18"
+  },
+  {
+    "id": "prohall-black-friday-2026",
+    "affiliate": "prohall",
+    "slot": "top",
+    "href": "https://lojaprohall.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Prohall: brindes progressivos a partir de R$ 300",
+        "text": "Campanha da própria Prohall. Os brindes sobem com o valor da compra; as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner da home de lojaprohall.com.br (\"Black Friday\", brindes em compras a partir de R$ 300, 400, 500, 750 e 999), lido no navegador em 18/11/2026, sem data de fim",
     "verifiedAt": "2026-11-18"
   },
   {
@@ -634,6 +751,24 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Oferta de até 75% OFF informada pelo Bruno em 18/11/2026; a faixa de proton.me/pt-br/pricing mostrava Black Friday -70% e selo -50% no Mail Plus e no Unlimited em 17/11, sem data de fim",
+    "verifiedAt": "2026-11-18"
+  },
+  {
+    "id": "rituaria-black-november-2026",
+    "affiliate": "rituaria",
+    "slot": "top",
+    "href": "https://www.rituaria.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black November da Rituária: leve 3 e pague 2 nos suplementos",
+        "text": "Campanha da própria Rituária. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Faixa do topo de rituaria.com.br (\"Começou o Black November • Leve 3, pague 2 nos suplementos\"), lida no navegador em 18/11/2026, sem data de fim",
     "verifiedAt": "2026-11-18"
   },
   {
@@ -890,23 +1025,22 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-02"
   },
   {
-    "id": "skelt-esquenta-black-friday-2026",
+    "id": "skelt-flash-sale-2026",
     "affiliate": "skelt",
     "slot": "top",
     "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
     "art": {
       "kind": "bag"
     },
-    "startsAt": "2026-11-05T00:00:00-03:00",
     "copy": {
       "pt": {
-        "headline": "Esquenta da Black Friday da Skelt",
-        "text": "Campanha da própria Skelt. As condições aparecem no site da loja.",
+        "headline": "Flash Sale da Skelt: 20% OFF em todo o site e brinde Body Splash Mystic Bloom",
+        "text": "Campanha da própria Skelt. O brinde vale em compras acima de R$ 249; as condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Coleção \"BF - Live 05/11\" de skelt.com.br; início informado pelo Bruno (02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Guia para creators da Skelt, e-mail do programa repassado pelo Bruno em 20/11/2026 (\"Flash Sale: 20% OFF em todo o site, brinde Body Splash Mystic Bloom em compras acima de R$ 249\"); o aviso não traz data de fim, e a home da loja mostrava um contador até a meia-noite de 20/11",
+    "verifiedAt": "2026-11-20"
   },
   {
     "id": "skelt-november-glow-2026",
