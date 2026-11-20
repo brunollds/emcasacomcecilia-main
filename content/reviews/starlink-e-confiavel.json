@@ -1,0 +1,117 @@
+{
+  "id": 1124,
+  "slug": "starlink-e-confiavel",
+  "title": "Starlink é confiável? Como achar o site oficial e conferir quem vende",
+  "seoTitle": "Starlink é confiável? Site oficial e golpes",
+  "type": "Editorial",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "O site oficial da Starlink e o perfil verificado no Reclame Aqui ajudam a checar de quem você está comprando. Veja o que conferir antes de pagar pelo kit no Brasil.",
+  "metaDescription": "Veja como reconhecer o site oficial da Starlink, identificar o perfil verificado no Reclame Aqui e consultar a lista de revendedores autorizados.",
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "updatedAt": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/starlink/starlink-e-confiavel-capa.webp",
+  "imageAlt": "Antena Starlink instalada num suporte preso a uma estrutura de madeira. A capa pergunta “É confiável?”.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Starlink é o serviço de internet via satélite da SpaceX. O site oficial é starlink.com. No Reclame Aqui, procure o perfil verificado “Starlink Brazil”. Se comprar o kit fora do site, confira a lista de revendedores autorizados da Starlink e confirme quem vende o anúncio antes de pagar."
+      ]
+    },
+    {
+      "heading": "Quem é a Starlink e quem vende no Brasil",
+      "paragraphs": [
+        "A Starlink vende pelo site oficial. No Brasil, o perfil verificado “Starlink Brazil” aponta para starlink.com e lista o CNPJ 40.154.884/0002-34.",
+        "A análise de [quando a Starlink vale a pena](/reviews/starlink-vale-a-pena) mostra como comparar preço, instalação e alternativas no seu endereço."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antena Starlink Standard e o roteador",
+        "caption": "Antena e roteador da Starlink. Foto da Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Como reconhecer o site oficial",
+      "paragraphs": [
+        "Digite starlink.com/br no navegador. Antes de informar dados ou pagar, confira se você continua dentro de starlink.com.",
+        "No pedido oficial que consultamos, havia opção de Pix. Se pedirem para pagar por mensagem ou fora do pedido, confirme pelo suporte da Starlink antes de seguir."
+      ]
+    },
+    {
+      "heading": "Qual perfil é o da Starlink no Reclame Aqui?",
+      "paragraphs": [
+        "O perfil verificado que aponta para starlink.com se chama “Starlink Brazil”. Também encontramos um perfil chamado apenas “Starlink”, sem verificação e com outro domínio cadastrado. Use o verificado para consultar a reputação da operadora."
+      ]
+    },
+    {
+      "heading": "Revendedores e marketplaces",
+      "paragraphs": [
+        "A Starlink mantém uma lista de varejistas autorizados. Mesmo em um marketplace conhecido, confira o vendedor do anúncio.",
+        "A [indicação Starlink](/cupons/starlink) vale para pedidos elegíveis feitos pelo link diretamente em starlink.com. Ela não pode ser acrescentada à compra do kit no varejo."
+      ],
+      "links": [
+        {
+          "label": "Lista de varejistas autorizados pela Starlink",
+          "href": "https://starlink.com/pt/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+        }
+      ]
+    },
+    {
+      "heading": "Chip, cartão, banco e IPTV com o nome Starlink",
+      "paragraphs": [
+        "Se um anúncio oferecer chip, banco, cartão ou IPTV com o nome Starlink, procure a oferta no site da empresa antes de passar dados ou pagar. A página residencial brasileira descreve os planos de internet via satélite."
+      ]
+    },
+    {
+      "heading": "O que o Reclame Aqui mostra",
+      "paragraphs": [
+        "No semestre de maio a outubro de 2026, o perfil verificado registrou reputação Boa e nota 7,8. Em setembro, a reputação mensal passou de Ótima para Boa.",
+        "A [análise completa da reputação](/reviews/starlink-reclame-aqui-nota-reputacao) traz os números, o que mais gera reclamação e como a empresa responde."
+      ]
+    },
+    {
+      "heading": "O que guardar depois de comprar",
+      "bullets": [
+        "Guarde o número do pedido, o preço que apareceu no checkout e o e-mail de confirmação. Se houver divergência, fale com o suporte pelo site ou pelo aplicativo."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Starlink é confiável? A Starlink é o serviço de internet via satélite da SpaceX. No Brasil, confira o site starlink.com e o perfil verificado “Starlink Brazil” no Reclame Aqui.",
+        "Qual é o site oficial da Starlink? A versão brasileira fica em starlink.com/br.",
+        "Como confirmar se um vendedor é autorizado? Veja a lista de varejistas da Starlink e confira o vendedor do anúncio antes de pagar."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Feito com o site oficial, a central de ajuda e os perfis públicos no Reclame Aqui. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "starlink-indicacao-como-usar"
+    },
+    {
+      "slug": "starlink-vale-a-pena"
+    }
+  ]
+}

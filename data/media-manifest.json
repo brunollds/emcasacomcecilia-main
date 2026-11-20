@@ -179366,6 +179366,542 @@
       "verified_at": "2026-11-19T23:41:19.978Z",
       "verification_etag_or_digest": "7518505fffdbdd005658cd95c08c7c85f9b0f4708d49860c01a27068a007d2bf",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-capa.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79522,
+      "sha256": "975245e3b9d0ea860e4e9f913de884f554a372b0362f003986d2982badd13adb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-capa.webp",
+      "storage_filename": "black-friday-starlink-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-starlink.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-starlink.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278438,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/975245e3b9d0ea860e4e9f913de884f554a372b0362f003986d2982badd13adb/black-friday-starlink-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/975245e3b9d0ea860e4e9f913de884f554a372b0362f003986d2982badd13adb/black-friday-starlink-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.368Z",
+      "verification_etag_or_digest": "975245e3b9d0ea860e4e9f913de884f554a372b0362f003986d2982badd13adb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+      "local_url": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46106,
+      "sha256": "874e719e37ccaeb341232cfd0a4c2db0f1ba779eeefa95d897255d1f4c611f93",
+      "width": 1600,
+      "height": 885,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-antena-casa-oficial.webp",
+      "storage_filename": "starlink-antena-casa-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-reclame-aqui-nota-reputacao.json",
+          "line": 107,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 279092,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/874e719e37ccaeb341232cfd0a4c2db0f1ba779eeefa95d897255d1f4c611f93/starlink-antena-casa-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/874e719e37ccaeb341232cfd0a4c2db0f1ba779eeefa95d897255d1f4c611f93/starlink-antena-casa-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "874e719e37ccaeb341232cfd0a4c2db0f1ba779eeefa95d897255d1f4c611f93",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+      "local_url": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8720,
+      "sha256": "82562cffbb0192363a21d7c3aa321f0f5e787fe45783be47425f1a3a56f2a0d5",
+      "width": 1000,
+      "height": 751,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-antena-roteador-oficial.webp",
+      "storage_filename": "starlink-antena-roteador-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-e-confiavel.json",
+          "line": 41,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278909,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/82562cffbb0192363a21d7c3aa321f0f5e787fe45783be47425f1a3a56f2a0d5/starlink-antena-roteador-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/82562cffbb0192363a21d7c3aa321f0f5e787fe45783be47425f1a3a56f2a0d5/starlink-antena-roteador-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "82562cffbb0192363a21d7c3aa321f0f5e787fe45783be47425f1a3a56f2a0d5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+      "local_url": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62796,
+      "sha256": "0d82f07e53ecd9919aefcd1c9731f6bb3c979e7d1a39896f1d479564127a14ae",
+      "width": 1600,
+      "height": 1067,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-antena-telhado-oficial.webp",
+      "storage_filename": "starlink-antena-telhado-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-vale-a-pena.json",
+          "line": 79,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278656,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0d82f07e53ecd9919aefcd1c9731f6bb3c979e7d1a39896f1d479564127a14ae/starlink-antena-telhado-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0d82f07e53ecd9919aefcd1c9731f6bb3c979e7d1a39896f1d479564127a14ae/starlink-antena-telhado-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "0d82f07e53ecd9919aefcd1c9731f6bb3c979e7d1a39896f1d479564127a14ae",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/starlink/starlink-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62740,
+      "sha256": "8b251499c326e4cc8cfcfaf90781194c90966c1638daec15ae676fd47efb0084",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-e-confiavel-capa.webp",
+      "storage_filename": "starlink-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-e-confiavel.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278891,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8b251499c326e4cc8cfcfaf90781194c90966c1638daec15ae676fd47efb0084/starlink-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8b251499c326e4cc8cfcfaf90781194c90966c1638daec15ae676fd47efb0084/starlink-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "8b251499c326e4cc8cfcfaf90781194c90966c1638daec15ae676fd47efb0084",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-fidelidade-como-cancelar-capa.webp",
+      "local_url": "/images/reviews/starlink/starlink-fidelidade-como-cancelar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 185124,
+      "sha256": "93bd67b6ba63d8b784ef1d0c7285b83da6d5e5dbd77e579a457f26c3547e774b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-fidelidade-como-cancelar-capa.webp",
+      "storage_filename": "starlink-fidelidade-como-cancelar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-fidelidade-como-cancelar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-fidelidade-como-cancelar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-fidelidade-como-cancelar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278765,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-fidelidade-como-cancelar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/93bd67b6ba63d8b784ef1d0c7285b83da6d5e5dbd77e579a457f26c3547e774b/starlink-fidelidade-como-cancelar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/93bd67b6ba63d8b784ef1d0c7285b83da6d5e5dbd77e579a457f26c3547e774b/starlink-fidelidade-como-cancelar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "93bd67b6ba63d8b784ef1d0c7285b83da6d5e5dbd77e579a457f26c3547e774b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-capa.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 108824,
+      "sha256": "f623cec4048f145577f43ffa15c4ae1607f5005f619d32e7ac00ba49a420174d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-capa.webp",
+      "storage_filename": "starlink-indicacao-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-indicacao-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-indicacao-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278315,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f623cec4048f145577f43ffa15c4ae1607f5005f619d32e7ac00ba49a420174d/starlink-indicacao-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f623cec4048f145577f43ffa15c4ae1607f5005f619d32e7ac00ba49a420174d/starlink-indicacao-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "f623cec4048f145577f43ffa15c4ae1607f5005f619d32e7ac00ba49a420174d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+      "local_url": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23216,
+      "sha256": "f2e809cd34ef814f9c3b1cccca166dd5261561a45043c821f37e9dee4e9ac1b6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-kit-standard-oficial.webp",
+      "storage_filename": "starlink-kit-standard-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-fidelidade-como-cancelar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-fidelidade-como-cancelar.json",
+          "line": 55,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278797,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f2e809cd34ef814f9c3b1cccca166dd5261561a45043c821f37e9dee4e9ac1b6/starlink-kit-standard-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f2e809cd34ef814f9c3b1cccca166dd5261561a45043c821f37e9dee4e9ac1b6/starlink-kit-standard-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "f2e809cd34ef814f9c3b1cccca166dd5261561a45043c821f37e9dee4e9ac1b6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+      "local_url": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85694,
+      "sha256": "ae2b1d4f3ff732d32526a1fe3adaea59b67d2ba28ba7b38afc5fdbd24926445b",
+      "width": 999,
+      "height": 1009,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-pedido-indicacao-aplicada.webp",
+      "storage_filename": "starlink-pedido-indicacao-aplicada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-starlink.json",
+        "content/reviews/starlink-indicacao-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-fatos-1911.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-starlink.json",
+          "line": 89,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-indicacao-como-usar.json",
+          "line": 43,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-fatos-1911.md",
+          "line": 221,
+          "column": 46,
+          "literal": "public/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-fatos-1911.md",
+          "line": 221,
+          "column": 52,
+          "literal": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278335,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278504,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ae2b1d4f3ff732d32526a1fe3adaea59b67d2ba28ba7b38afc5fdbd24926445b/starlink-pedido-indicacao-aplicada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ae2b1d4f3ff732d32526a1fe3adaea59b67d2ba28ba7b38afc5fdbd24926445b/starlink-pedido-indicacao-aplicada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "ae2b1d4f3ff732d32526a1fe3adaea59b67d2ba28ba7b38afc5fdbd24926445b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-capa.webp",
+      "local_url": "/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55456,
+      "sha256": "1ea08edf3cedadd46510dc8a97fa6e89175b07337742f417f68ff7b831d663e5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-reclame-aqui-nota-reputacao-capa.webp",
+      "storage_filename": "starlink-reclame-aqui-nota-reputacao-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-reclame-aqui-nota-reputacao.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 279009,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1ea08edf3cedadd46510dc8a97fa6e89175b07337742f417f68ff7b831d663e5/starlink-reclame-aqui-nota-reputacao-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1ea08edf3cedadd46510dc8a97fa6e89175b07337742f417f68ff7b831d663e5/starlink-reclame-aqui-nota-reputacao-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "1ea08edf3cedadd46510dc8a97fa6e89175b07337742f417f68ff7b831d663e5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-capa.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86104,
+      "sha256": "1235c1a31e5b39fca4081060a19e3723b06bcd627215c0a5b75ea4c0f9d12c1a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-capa.webp",
+      "storage_filename": "starlink-vale-a-pena-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-vale-a-pena.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278600,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1235c1a31e5b39fca4081060a19e3723b06bcd627215c0a5b75ea4c0f9d12c1a/starlink-vale-a-pena-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1235c1a31e5b39fca4081060a19e3723b06bcd627215c0a5b75ea4c0f9d12c1a/starlink-vale-a-pena-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T01:48:32.369Z",
+      "verification_etag_or_digest": "1235c1a31e5b39fca4081060a19e3723b06bcd627215c0a5b75ea4c0f9d12c1a",
+      "verification_status": "verified"
     }
   ]
 }
