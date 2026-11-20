@@ -278289,5 +278289,859 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1120,
+    "slug": "starlink-indicacao-como-usar",
+    "title": "Link de indicação da Starlink: como usar e quando cai a recompensa",
+    "seoTitle": "Indicação Starlink: como usar o link e receber",
+    "type": "Guia do Código de Indicação",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Abra o link no site oficial e confira a recompensa no pedido antes de pagar. Veja quem pode usar, quando o valor cai e como escolher entre crédito e dinheiro.",
+    "metaDescription": "Veja como abrir o link de indicação da Starlink, achar o valor no pedido e receber a recompensa depois de cumprir as condições do programa.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/starlink/starlink-indicacao-como-usar-capa.webp",
+    "imageAlt": "Antena Starlink instalada no telhado sob céu azul. A capa diz “Link de indicação” e “R$ 200 para novos usuários aqui, depois de 2 meses”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Abra o link de indicação da Starlink e informe seu endereço. Antes de pagar, procure a confirmação do código aplicado e confira o valor da recompensa no pedido. O programa vale para clientes novos. A recompensa é liberada após dois ciclos mensais completos, em crédito ou em dinheiro onde essa opção estiver disponível."
+        ]
+      },
+      {
+        "heading": "Como usar o link, passo a passo",
+        "paragraphs": [
+          "Abra o link na [página da indicação Starlink](/cupons/starlink) e informe o endereço em que vai usar o serviço."
+        ],
+        "postParagraphs": [
+          "Confira o aviso antes de pagar. A Starlink informa que a indicação precisa constar no pedido original."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+          "alt": "Tela do pedido no site oficial da Starlink com a indicação aplicada, os 30% de desconto e o total a pagar no dia",
+          "caption": "Pedido no site oficial com o link de indicação aplicado (endereço escondido).",
+          "objectFit": "contain"
+        },
+        "bullets": [
+          "Escolha um plano Residencial ou Viagem elegível no pedido.",
+          "Procure o aviso “O código de indicação foi aplicado” e confira a recompensa e o total a pagar.",
+          "Finalize no site da Starlink. Na tela do Max que consultamos, o valor a pagar no pedido era só o do kit.",
+          "Ative o kit e acompanhe a primeira fatura. Pagar o primeiro mês e ativar o equipamento fazem parte dos requisitos da indicação."
+        ]
+      },
+      {
+        "heading": "Quanto rende e quando cai",
+        "paragraphs": [
+          "Na tela brasileira com a nossa indicação, a Starlink mostrou R$ 200 de recompensa para quem assina. Quem indica também recebe o mesmo valor, em dinheiro ou em crédito de serviço.",
+          "A assinatura precisa ficar ativa e em dia por dois ciclos mensais completos. A central de ajuda diz que a emissão pode começar a partir de 60 dias da ativação, conforme o país, a conta e a verificação de identidade.",
+          "A forma padrão é crédito na fatura. Se a conta oferecer pagamento em dinheiro, abra Indicações no site pelo navegador, escolha o método de recompensa e conclua a identificação e o cadastro bancário na Stripe."
+        ]
+      },
+      {
+        "heading": "Quem pode usar",
+        "bullets": [
+          "Quem assina precisa ser cliente novo. Cliente atual ou ex-cliente não recebe o valor.",
+          "Quem indica precisa ser cliente ativo de um plano Residencial ou Viagem. Os planos Prioritário, Enterprise e Comercial não ganham recompensa.",
+          "Planos que valem para quem assina: Residencial Lite, Residencial, Residencial 100 Mbps, Residencial 200 Mbps, Residencial Max e Viagem 100 GB, 300 GB e Ilimitado."
+        ]
+      },
+      {
+        "heading": "Starlink tem cupom?",
+        "paragraphs": [
+          "O link já leva o código de indicação ao pedido. Antes de pagar, procure o aviso de confirmação na tela.",
+          "O programa registra as compras feitas em starlink.com pelo link. Compras em revendedor, marketplace e transferências de conta ficam fora da indicação."
+        ]
+      },
+      {
+        "heading": "E a oferta da Black Friday?",
+        "paragraphs": [
+          "Na tela do Residencial Max que consultamos, a indicação apareceu junto dos 30% na mensalidade. Veja a [conta da Black Friday Starlink](/reviews/black-friday-starlink) e consulte a oferta do seu endereço."
+        ]
+      },
+      {
+        "heading": "Como acompanhar",
+        "paragraphs": [
+          "Na aba Indicações do site ou do aplicativo, acompanhe o status de quem assinou pelo seu link. A Starlink avisa por e-mail quando alguém faz o pedido. Uma indicação pode passar pela verificação de elegibilidade antes de gerar recompensa."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Como funciona a indicação da Starlink? Faça o pedido em starlink.com pelo link. Confira a indicação aplicada, ative o kit e mantenha o serviço elegível em dia por dois ciclos mensais completos.",
+          "Quanto vale a indicação da Starlink? Na tela brasileira com a nossa indicação, apareceu R$ 200 para quem assina. Confira o valor no seu pedido.",
+          "Quando cai a recompensa da Starlink? A central de ajuda informa que a emissão pode começar a partir de 60 dias da ativação, se a indicação cumprir as condições do programa.",
+          "A indicação vale no Mercado Livre? O programa exige a compra diretamente em starlink.com pelo link.",
+          "Já fui cliente, posso usar o link? A recompensa é para quem assina a Starlink pela primeira vez.",
+          "O link de indicação funciona fora do Brasil? Funciona. Pela central de ajuda da Starlink, a indicação vale na maioria dos países onde ela vende, e o valor depende do país em que a pessoa se cadastra. Nos Estados Unidos, o pedido com o nosso link mostrou US$ 100 para quem assina."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Confira a recompensa que aparece no pedido para o seu endereço antes de pagar.",
+      "label": "Ver a indicação no pedido",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Consultamos a central de ajuda e a tela de pedido da Starlink. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-starlink"
+      },
+      {
+        "slug": "starlink-vale-a-pena"
+      },
+      {
+        "slug": "starlink-fidelidade-como-cancelar"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1121,
+    "slug": "black-friday-starlink",
+    "title": "Black Friday Starlink 2026: kit e 1º mês do Max ficam em R$ 23,30 após a recompensa",
+    "seoTitle": "Black Friday Starlink 2026: Max com kit a R$ 49",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "No Residencial Max, a Starlink mostrou kit a R$ 49 e mensalidade a R$ 174,30. Veja como a indicação entra na conta, quando a recompensa cai e como checar seu endereço.",
+    "metaDescription": "Starlink Max com kit a R$ 49 e 30% na mensalidade por 12 meses, em áreas selecionadas. Veja a conta após a recompensa e confira seu endereço.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/starlink/black-friday-starlink-capa.webp",
+    "imageAlt": "Antena Starlink no telhado de uma cabana ao entardecer. A capa diz “Black Friday 2026” e “Max: kit R$ 49 + 30% na mensalidade”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "bodyDatesReason": "campanha",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na oferta do Residencial Max, o kit e o primeiro mês ficam quase de graça depois de receber a recompensa da indicação. O kit tem fidelidade de 12 meses. A recompensa depende de dois ciclos mensais completos. A oferta de fim de novembro é para novos clientes em áreas selecionadas. Confira se aparece no seu endereço."
+        ]
+      },
+      {
+        "heading": "Quanto você paga e quando entra a recompensa",
+        "paragraphs": [
+          "Kit por R$ 49 no pedido, primeira mensalidade de R$ 174,30 depois. São R$ 223,30 pelos dois. Com a recompensa de R$ 200, kit e primeiro mês ficam em R$ 23,30 na conta. Antes da recompensa, você ainda paga as mensalidades que vencerem.",
+          "Os preços apareceram na consulta de 19 de novembro em Alto Paraíso de Goiás. A oferta do Residencial Max dá 30% na mensalidade por 12 meses, com adesão até 30 de novembro em áreas selecionadas. O kit tem contrato de 12 meses e multa de até R$ 1.099 em caso de rescisão antecipada."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Residencial Max",
+            "Valor no exemplo"
+          ],
+          "rows": [
+            [
+              "Kit, pago no pedido",
+              "R$ 49"
+            ],
+            [
+              "Primeira mensalidade",
+              "R$ 174,30"
+            ],
+            [
+              "Kit + primeira mensalidade",
+              "R$ 223,30"
+            ],
+            [
+              "Recompensa mostrada no pedido com indicação",
+              "R$ 200"
+            ],
+            [
+              "Saldo do kit e do primeiro mês após a recompensa",
+              "R$ 23,30"
+            ],
+            [
+              "Kit + 12 mensalidades, sem a recompensa",
+              "R$ 2.140,60"
+            ],
+            [
+              "Kit + 12 mensalidades, após a recompensa",
+              "R$ 1.940,60"
+            ]
+          ],
+          "caption": "Valores do Max na tela consultada. Os totais de 12 meses consideram a mensalidade promocional durante todo esse período e o kit de R$ 49."
+        },
+        "postParagraphs": [
+          "Para receber a recompensa, a indicação precisa ser elegível e o serviço deve ficar ativo e em dia por dois ciclos mensais completos. A Starlink oferece crédito na fatura e, conforme a conta, pagamento em dinheiro."
+        ]
+      },
+      {
+        "heading": "Como aparece no pedido",
+        "paragraphs": [
+          "Veja no print o aviso verde de indicação aplicada, os R$ 49 a pagar no pedido e os R$ 174,30 por mês do Max. O contrato de 12 meses aparece na linha do equipamento.",
+          "Para conferir a sua oferta, abra o link, informe o endereço e procure o mesmo aviso antes de pagar. Veja se o pedido mostra o valor da recompensa e as condições da mensalidade."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+          "alt": "Tela do pedido no site oficial da Starlink com a indicação aplicada, os 30% de desconto e o total a pagar no dia",
+          "caption": "Pedido no site oficial com o link de indicação aplicado (endereço escondido).",
+          "objectFit": "contain"
+        }
+      },
+      {
+        "heading": "Quanto vale indicar outra pessoa?",
+        "paragraphs": [
+          "Depois de assinar, você também pode indicar outras pessoas, e quem indica recebe o mesmo valor, em dinheiro ou em crédito de serviço. Se uma indicação elegível render R$ 200, esse valor cobre uma mensalidade de R$ 174,30 do Max promocional. A pessoa indicada precisa completar os ciclos exigidos para a recompensa.",
+          "Veja [como o programa de indicação funciona](/reviews/starlink-indicacao-como-usar) e confira na sua conta quanto vale cada indicação."
+        ]
+      },
+      {
+        "heading": "A oferta vale no seu endereço?",
+        "paragraphs": [
+          "Na Avenida Paulista, em São Paulo, a tela consultada mostrou o Max por R$ 273,90 por mês, sem os 30%, com o kit a R$ 49. Kit e primeiro mês somam R$ 322,90. Se esse pedido também gerar a recompensa de R$ 200, o saldo dessa conta fica em R$ 122,90.",
+          "A tela de Alto Paraíso também mostrou o Residencial 100 Mbps por R$ 132,30 por mês, com Mini X a R$ 299. A duração desse valor não apareceu na consulta. Compare o custo anual dos planos no seu endereço, com a duração de cada oferta."
+        ]
+      },
+      {
+        "heading": "Contrato, multa e devolução",
+        "paragraphs": [
+          "No Max a R$ 49, o pedido exige 12 meses de contrato e informa multa de até R$ 1.099 por saída antecipada.",
+          "A tela informa reembolso do kit e do primeiro mês para quem cancelar o serviço e devolver o kit sem danos em até 30 dias do pagamento. Veja o [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
+        ]
+      },
+      {
+        "heading": "E depois dos 12 meses?",
+        "paragraphs": [
+          "Depois dos 12 meses, a mensalidade volta ao preço padrão da sua região. Esse preço não tem prazo fixo e pode subir com aviso de 30 dias.",
+          "O preço promocional vale para cliente novo e só para uma linha de serviço. Quem muda de plano, cancela ou é suspenso pode perder o desconto antes do fim dos 12 meses."
+        ]
+      },
+      {
+        "heading": "Como usar o link",
+        "paragraphs": [
+          "Abra o link e digite o endereço em que vai instalar a antena. Escolha o plano, confira a indicação aplicada e guarde a oferta que aparece antes de pagar.",
+          "Na página da [indicação Starlink](/cupons/starlink) estão o link e as regras do programa."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Starlink tem Black Friday? A oferta de fim de novembro mostra kit a R$ 49 e 30% na mensalidade do Max por 12 meses, para clientes novos em áreas selecionadas.",
+          "A indicação soma com a oferta? Na tela brasileira consultada, o preço promocional e a indicação de R$ 200 apareceram juntos. A recompensa depende da elegibilidade e de dois ciclos mensais completos.",
+          "Quanto é cobrado no pedido? Na tela consultada do Max, eram R$ 49 pelo equipamento. A primeira mensalidade, de R$ 174,30, ficou para depois.",
+          "O kit de R$ 49 tem fidelidade? No pedido do Max consultado, o kit exige contrato de 12 meses e informa multa de até R$ 1.099 por saída antecipada.",
+          "Até quando vai a oferta? A Starlink anuncia a oferta de fim de novembro. Informe o endereço no pedido para ver se ela está disponível."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "O pedido abre no site da Starlink. Confira o preço do Max, o contrato e o valor da indicação antes de pagar.",
+      "label": "Consultar a oferta no meu endereço",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Preços lidos na tela de pedido do site oficial, sem finalizar a compra. Os totais de 12 meses são simulações. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-indicacao-como-usar"
+      },
+      {
+        "slug": "starlink-vale-a-pena"
+      },
+      {
+        "slug": "starlink-fidelidade-como-cancelar"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1122,
+    "slug": "starlink-vale-a-pena",
+    "title": "Starlink vale a pena? A conta de 12 meses e para quem faz sentido",
+    "seoTitle": "Starlink vale a pena? A conta de 12 meses",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Compare o custo de 12 meses da Starlink com a conexão que chega à sua casa. Veja o preço do kit por endereço, a fidelidade e como conferir o local da instalação.",
+    "metaDescription": "Starlink vale a pena? Conta de 12 meses com kit e contrato, preços por endereço, para quem faz sentido e quando a fibra ou o 4G saem melhor.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/starlink/starlink-vale-a-pena-capa.webp",
+    "imageAlt": "Antena Starlink presa ao beiral de uma casa, com montanhas ao fundo. A capa pergunta “Vale a pena?” e diz “Internet em casa”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Starlink pode valer a pena em sítios e casas onde falta uma conexão estável. Se já chega fibra confiável, compare o total de 12 meses antes de trocar. Some o kit às mensalidades do seu endereço, confira se há fidelidade e use o aplicativo da Starlink para avaliar onde a antena pode ser instalada."
+        ]
+      },
+      {
+        "heading": "Quanto custa em 12 meses",
+        "paragraphs": [
+          "Em 19 de novembro de 2026, consultamos dois endereços públicos. No Max, o kit a R$ 49 tinha contrato de 12 meses em ambos. Só a consulta de Alto Paraíso de Goiás mostrou a oferta de 30% na mensalidade por 12 meses."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Residencial Max",
+            "Por mês",
+            "Kit",
+            "Total em 12 meses"
+          ],
+          "rows": [
+            [
+              "Av. Paulista, São Paulo",
+              "R$ 273,90",
+              "R$ 49",
+              "R$ 3.335,80"
+            ],
+            [
+              "Alto Paraíso de Goiás, com oferta",
+              "R$ 174,30",
+              "R$ 49",
+              "R$ 2.140,60"
+            ]
+          ],
+          "caption": "Kit mais 12 mensalidades pelos valores exibidos. Totais antes da recompensa de indicação e de eventuais custos fora da instalação padrão."
+        },
+        "postParagraphs": [
+          "O Residencial 100 Mbps apareceu com o Mini X a R$ 299 nos dois endereços. A mensalidade era de R$ 207,90 na Paulista e R$ 132,30 em Alto Paraíso. Como a tela de Alto Paraíso não dizia quanto duraria esse preço, compare a duração que aparecer no seu pedido.",
+          "Quando for calcular o custo no seu endereço, faça a conta primeiro sem a recompensa. Na tela com a nossa indicação, a Starlink mostrou R$ 200 após cumprir as regras do programa. Veja a [indicação Starlink](/cupons/starlink)."
+        ]
+      },
+      {
+        "heading": "Onde instalar a antena",
+        "paragraphs": [
+          "Antes de comprar, escolha um ponto com vista aberta para o céu. Galhos e telhados no campo de visão podem causar interrupções. Use o aplicativo da Starlink no ponto previsto para a antena e faça a verificação de obstáculos."
+        ],
+        "links": [
+          {
+            "label": "Como conferir obstáculos no aplicativo",
+            "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Casa com a antena Starlink instalada no telhado",
+          "caption": "Antena instalada no telhado, com céu aberto. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Quando comparar com fibra ou 4G",
+        "paragraphs": [
+          "Se já chega fibra estável, compare a soma de instalação, mensalidades e eventual fidelidade de cada proposta. Para 4G, inclua o preço do equipamento que você precisar e confira se o plano tem franquia suficiente para a casa."
+        ]
+      },
+      {
+        "heading": "Velocidade e jogos",
+        "paragraphs": [
+          "Os planos residenciais anunciam velocidade de download, mas o desempenho pode variar pelo local e horário. Em jogos online, repare também no tempo de resposta e nas interrupções.",
+          "A Starlink publica nas especificações uma faixa típica de 25 a 60 ms em terra. É uma referência da empresa, sem medição no endereço do nosso pedido."
+        ],
+        "links": [
+          {
+            "label": "Especificações de desempenho da Starlink",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "Contrato e saída",
+        "paragraphs": [
+          "No exemplo do Max com kit de R$ 49, o contrato é de 12 meses e a multa de rescisão antecipada pode chegar a R$ 1.099. O [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar) explica também as condições de devolução."
+        ]
+      },
+      {
+        "heading": "O que os clientes reclamam",
+        "paragraphs": [
+          "O perfil verificado tem reputação Boa no Reclame Aqui. Cobrança indevida aparece entre as queixas mais frequentes. Guarde a oferta do pedido para comparar com a fatura. Veja [a leitura do Reclame Aqui](/reviews/starlink-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Nossa experiência até aqui",
+        "paragraphs": [
+          "Já assinamos a Starlink, mas ainda não há experiência de uso. Velocidade, instalação e qualidade no dia a dia entram numa atualização deste artigo, quando existirem."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Starlink vale a pena na cidade? Com fibra estável no endereço, compare instalação, mensalidades e fidelidade antes de trocar.",
+          "Starlink é melhor que fibra? Sem boa fibra no local, vale cotar a Starlink e verificar se há céu aberto para instalar. Se ambas estiverem disponíveis, compare estabilidade e custo no seu endereço.",
+          "Starlink é boa para jogos? Teste a latência e as interrupções no seu endereço. A faixa típica que a Starlink publica é uma referência geral.",
+          "A Starlink é ilimitada? A Starlink anuncia dados ilimitados nos planos residenciais. Confira os limites de velocidade do plano que aparece no pedido.",
+          "Quanto custa a Starlink por mês? Na consulta do Max, eram R$ 273,90 na Avenida Paulista e R$ 174,30 em Alto Paraíso de Goiás com a oferta. O valor muda pelo endereço."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você não tem fibra boa no endereço e o 4G também é fraco.",
+        "Você aceita 12 meses de contrato e sabe que o preço muda pelo endereço no pedido."
+      ],
+      "skipIf": [
+        "Você tem fibra estável no endereço, sem kit para comprar nem contrato de 12 meses.",
+        "Você precisa de jogo online com resposta rápida, e a empresa não publica latência na página que lemos."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
+      "label": "Ver planos no meu endereço",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Preços lidos na tela de pedido do site oficial. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-fidelidade-como-cancelar"
+      },
+      {
+        "slug": "black-friday-starlink"
+      },
+      {
+        "slug": "starlink-indicacao-como-usar"
+      }
+    ]
+  },
+  {
+    "id": 1123,
+    "slug": "starlink-fidelidade-como-cancelar",
+    "title": "Starlink tem fidelidade? O contrato de 12 meses, a multa e os 30 dias para devolver",
+    "seoTitle": "Starlink tem fidelidade? Multa de até 1.099 reais",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Veja quando o kit de R$ 49 do Residencial Max exige contrato de 12 meses, quanto pode custar a saída antecipada, como cancelar a assinatura e pedir a devolução.",
+    "metaDescription": "A Starlink tem fidelidade de 12 meses no kit com desconto, com multa de até 1.099 reais. Veja os 30 dias para devolver e o que muda ao cancelar.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/starlink/starlink-fidelidade-como-cancelar-capa.webp",
+    "imageAlt": "Antena Starlink na neve diante de um chalé com uma pessoa trabalhando. A capa diz “Fidelidade e cancelamento”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Residencial Max com kit a 49 reais exigia 12 meses de contrato no pedido consultado. A multa por saída antecipada pode chegar a 1.099 reais. A oferta prevê reembolso do kit e do primeiro mês se você cancelar e devolver o kit sem danos em até 30 dias do pagamento."
+        ]
+      },
+      {
+        "heading": "Quando tem fidelidade",
+        "paragraphs": [
+          "Na tela de pedido que lemos em 19 de novembro de 2026, o kit a R$ 49 do Residencial Max vem com a frase \"Contrato de 12 meses obrigatório\", nos dois endereços lidos, com e sem a oferta de 30%.",
+          "No plano de 100 Mbps, lido em Alto Paraíso de Goiás, o equipamento é o Mini X de R$ 299, e as perguntas da tela seguiram falando em 12 meses quando trocamos de plano. Não sabemos se o contrato vale para essa opção. Confirme no pedido antes de assinar."
+        ]
+      },
+      {
+        "heading": "A multa",
+        "paragraphs": [
+          "A tela de pedido fala em taxa de rescisão antecipada de até R$ 1.099. Não sabemos se ela cai na proporção dos meses que faltam, porque a página que lemos não diz. Pergunte à Starlink antes de cancelar."
+        ]
+      },
+      {
+        "heading": "Os 30 dias para devolver",
+        "paragraphs": [
+          "Na tela do pedido do Max, o prazo de 30 dias começa no pagamento. Para pedir o reembolso do kit e do primeiro mês nas condições da oferta, cancele o serviço e devolva o equipamento sem danos dentro desse prazo.",
+          "Cancelar a assinatura interrompe as cobranças futuras conforme o ciclo. Pelo suporte da Starlink, confira como abrir também a devolução do kit e guarde o comprovante de envio.",
+          "O pedido com a [indicação Starlink](/cupons/starlink) mostrou o mesmo contrato e a mesma política de devolução."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Peças do kit Starlink Standard: antena, roteador, base e cabos",
+          "caption": "O kit que volta na devolução: antena, roteador, base e cabos. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Como cancelar",
+        "paragraphs": [
+          "Na página inicial da conta Starlink, abra “Sua assinatura”. Ao lado do plano, selecione “Gerenciar” e depois “Cancelar Serviço”.",
+          "Se quiser evitar um novo ciclo, faça a mudança antes das 21h do dia anterior à data de faturamento, no horário de Brasília. Esse horário corresponde a 00h UTC do dia de faturamento.",
+          "Pela central de ajuda, o serviço fica ativo até o fim do período pago. Se mudar de ideia antes do fim, procure “Retomar” na página inicial. A reativação após o cancelamento depende da disponibilidade na área."
+        ],
+        "bullets": [
+          "Entre na sua conta no site da Starlink e, na página \"Início\", selecione \"Sua assinatura\".",
+          "Ao lado do plano, clique em \"Gerenciar\" e depois em \"Cancelar Serviço\".",
+          "O faturamento segue o horário UTC. A mudança precisa ser feita antes das 00:00 UTC do dia de faturamento, senão vale só para o ciclo seguinte. Pela nossa conta, em Brasília isso é 21h do dia anterior.",
+          "O serviço fica ativo até a data já paga, e a assinatura sai das cobranças futuras.",
+          "Antes de a mudança valer, dá para desistir em \"Retomar\", no alerta \"Seu plano de serviço terminará em...\", no topo da página \"Início\".",
+          "Depois de cancelar, pode não ser possível reativar logo. A reativação depende da disponibilidade na sua área."
+        ],
+        "postParagraphs": [
+          "Cancelar o serviço não devolve o kit sozinho. A devolução em 30 dias tem regra própria, descrita acima, e a multa de rescisão vale para quem cancela antes dos 12 meses."
+        ],
+        "links": [
+          {
+            "label": "Como faço para cancelar o serviço? (central de ajuda da Starlink)",
+            "href": "https://starlink.com/br/support/article/9d43bef2-36fe-bcd1-9f6a-e0304e9cf22e"
+          }
+        ]
+      },
+      {
+        "heading": "Preço promocional e mudança de plano",
+        "paragraphs": [
+          "Pelos termos de preço promocional que lemos, cancelar, mudar de plano ou ser suspenso pode fazer você perder o preço promocional. O preço padrão não tem duração fixa e pode subir com aviso de 30 dias."
+        ]
+      },
+      {
+        "heading": "Se a cobrança continuar",
+        "paragraphs": [
+          "Se a cobrança continuar, abra atendimento na Starlink com o número do pedido, a data do cancelamento e o protocolo, se houver.",
+          "Veja [o perfil verificado no Reclame Aqui](/reviews/starlink-reclame-aqui-nota-reputacao) para saber onde registrar uma queixa. Se você não reconhecer a transação, procure também o emissor do cartão ou o banco."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Starlink tem fidelidade? No pedido consultado do Max com kit a R$ 49, o contrato era de 12 meses.",
+          "Qual a multa para cancelar a Starlink? A oferta consultada informa até R$ 1.099. Confira o valor aplicável ao seu pedido antes de confirmar o cancelamento.",
+          "Posso cancelar a Starlink a qualquer momento? A solicitação pode ser feita pela conta. Se houver contrato de 12 meses e você sair antes, confira a multa aplicável.",
+          "A Starlink Mini tem fidelidade? A tela mostrou o Mini X no plano de 100 Mbps, mas a condição de contrato para essa combinação ficou sem confirmação. Confira no resumo do seu pedido.",
+          "Dá para devolver a Starlink em 30 dias? A oferta do Max informa reembolso do kit e do primeiro mês se o serviço for cancelado e o kit voltar sem danos em até 30 dias do pagamento."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Feito com a tela de pedido e a central de ajuda da Starlink. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-vale-a-pena"
+      },
+      {
+        "slug": "black-friday-starlink"
+      },
+      {
+        "slug": "starlink-reclame-aqui-nota-reputacao"
+      }
+    ]
+  },
+  {
+    "id": 1124,
+    "slug": "starlink-e-confiavel",
+    "title": "Starlink é confiável? Como achar o site oficial e conferir quem vende",
+    "seoTitle": "Starlink é confiável? Site oficial e golpes",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O site oficial da Starlink e o perfil verificado no Reclame Aqui ajudam a checar de quem você está comprando. Veja o que conferir antes de pagar pelo kit no Brasil.",
+    "metaDescription": "Veja como reconhecer o site oficial da Starlink, identificar o perfil verificado no Reclame Aqui e consultar a lista de revendedores autorizados.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/starlink/starlink-e-confiavel-capa.webp",
+    "imageAlt": "Antena Starlink instalada num suporte preso a uma estrutura de madeira. A capa pergunta “É confiável?”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Starlink é o serviço de internet via satélite da SpaceX. O site oficial é starlink.com. No Reclame Aqui, procure o perfil verificado “Starlink Brazil”. Se comprar o kit fora do site, confira a lista de revendedores autorizados da Starlink e confirme quem vende o anúncio antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quem é a Starlink e quem vende no Brasil",
+        "paragraphs": [
+          "A Starlink vende pelo site oficial. No Brasil, o perfil verificado “Starlink Brazil” aponta para starlink.com e lista o CNPJ 40.154.884/0002-34.",
+          "A análise de [quando a Starlink vale a pena](/reviews/starlink-vale-a-pena) mostra como comparar preço, instalação e alternativas no seu endereço."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antena Starlink Standard e o roteador",
+          "caption": "Antena e roteador da Starlink. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Como reconhecer o site oficial",
+        "paragraphs": [
+          "Digite starlink.com/br no navegador. Antes de informar dados ou pagar, confira se você continua dentro de starlink.com.",
+          "No pedido oficial que consultamos, havia opção de Pix. Se pedirem para pagar por mensagem ou fora do pedido, confirme pelo suporte da Starlink antes de seguir."
+        ]
+      },
+      {
+        "heading": "Qual perfil é o da Starlink no Reclame Aqui?",
+        "paragraphs": [
+          "O perfil verificado que aponta para starlink.com se chama “Starlink Brazil”. Também encontramos um perfil chamado apenas “Starlink”, sem verificação e com outro domínio cadastrado. Use o verificado para consultar a reputação da operadora."
+        ]
+      },
+      {
+        "heading": "Revendedores e marketplaces",
+        "paragraphs": [
+          "A Starlink mantém uma lista de varejistas autorizados. Mesmo em um marketplace conhecido, confira o vendedor do anúncio.",
+          "A [indicação Starlink](/cupons/starlink) vale para pedidos elegíveis feitos pelo link diretamente em starlink.com. Ela não pode ser acrescentada à compra do kit no varejo."
+        ],
+        "links": [
+          {
+            "label": "Lista de varejistas autorizados pela Starlink",
+            "href": "https://starlink.com/pt/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
+        ]
+      },
+      {
+        "heading": "Chip, cartão, banco e IPTV com o nome Starlink",
+        "paragraphs": [
+          "Se um anúncio oferecer chip, banco, cartão ou IPTV com o nome Starlink, procure a oferta no site da empresa antes de passar dados ou pagar. A página residencial brasileira descreve os planos de internet via satélite."
+        ]
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "No semestre de maio a outubro de 2026, o perfil verificado registrou reputação Boa e nota 7,8. Em setembro, a reputação mensal passou de Ótima para Boa.",
+          "A [análise completa da reputação](/reviews/starlink-reclame-aqui-nota-reputacao) traz os números, o que mais gera reclamação e como a empresa responde."
+        ]
+      },
+      {
+        "heading": "O que guardar depois de comprar",
+        "bullets": [
+          "Guarde o número do pedido, o preço que apareceu no checkout e o e-mail de confirmação. Se houver divergência, fale com o suporte pelo site ou pelo aplicativo."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Starlink é confiável? A Starlink é o serviço de internet via satélite da SpaceX. No Brasil, confira o site starlink.com e o perfil verificado “Starlink Brazil” no Reclame Aqui.",
+          "Qual é o site oficial da Starlink? A versão brasileira fica em starlink.com/br.",
+          "Como confirmar se um vendedor é autorizado? Veja a lista de varejistas da Starlink e confira o vendedor do anúncio antes de pagar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Feito com o site oficial, a central de ajuda e os perfis públicos no Reclame Aqui. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "starlink-indicacao-como-usar"
+      },
+      {
+        "slug": "starlink-vale-a-pena"
+      }
+    ]
+  },
+  {
+    "id": 1125,
+    "slug": "starlink-reclame-aqui-nota-reputacao",
+    "title": "Starlink no Reclame Aqui: a nota, a queda de Ótima para Boa e o que mais gera reclamação",
+    "seoTitle": "Starlink no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Veja a nota, quantas pessoas avaliaram o atendimento e quais queixas aparecem no perfil verificado Starlink Brazil. Saiba como registrar a sua reclamação.",
+    "metaDescription": "Starlink no Reclame Aqui: nota 7,8 e reputação Boa no perfil verificado Starlink Brazil. Veja as queixas mais frequentes e como reclamar.",
+    "publishedAt": "19 de novembro de 2026",
+    "publishedAtISO": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "draft": false,
+    "isNew": true,
+    "bodyDatesReason": "reclame-aqui",
+    "image": "/images/reviews/starlink/starlink-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Antena Starlink instalada num telhado sob céu de tempestade, com um raio ao fundo. A capa diz “Reclame Aqui: a nota”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O perfil verificado Starlink Brazil teve reputação Boa, com nota 7,8 de maio a outubro de 2026. Das 2.019 reclamações registradas, todas tiveram resposta. A plataforma contabilizou 853 avaliações e mostrou que 77% das queixas avaliadas foram resolvidas. Para consultar a operadora, procure o perfil que aponta para starlink.com."
+        ]
+      },
+      {
+        "heading": "A nota e a queda",
+        "paragraphs": [
+          "A reputação mensal foi Ótima de maio a agosto e Boa em setembro e outubro. O perfil mostra a mudança de faixa, sem apontar sua causa."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "Starlink Brazil"
+          ],
+          "rows": [
+            [
+              "Reputação e nota do perfil",
+              "Boa, 7,8 de 10"
+            ],
+            [
+              "Reclamações recebidas",
+              "2.019"
+            ],
+            [
+              "Respondidas",
+              "100%"
+            ],
+            [
+              "Tempo médio de resposta",
+              "5 dias e 19 horas"
+            ],
+            [
+              "Reclamações avaliadas",
+              "853"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,74 de 10"
+            ],
+            [
+              "Resolvidas",
+              "77%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "74,9%"
+            ]
+          ],
+          "caption": "Leitura do perfil verificado, no semestre de maio a outubro."
+        }
+      },
+      {
+        "heading": "Como a empresa responde",
+        "paragraphs": [
+          "O Reclame Aqui calcula os índices de solução e de intenção de voltar a comprar a partir das reclamações avaliadas. A nota 7,8 é a reputação que a plataforma calcula para o perfil. A nota 6,74 é a média dada pelos consumidores que avaliaram."
+        ]
+      },
+      {
+        "heading": "Como identificar o perfil da operadora",
+        "paragraphs": [
+          "Procure “Starlink Brazil”. O perfil verificado exibe o CNPJ 40.154.884/0002-34 e aponta para starlink.com. O perfil chamado apenas “Starlink” tem outro domínio cadastrado e não tem verificação."
+        ]
+      },
+      {
+        "heading": "O que mais gera reclamação",
+        "paragraphs": [
+          "Na aba geral, que reúne até três anos, a cobrança indevida liderava a lista de problemas, com 15,19% das reclamações da aba. O percentual se refere às queixas registradas ali. O perfil não informa a frequência de cobranças indevidas entre todos os clientes."
+        ]
+      },
+      {
+        "heading": "O que isso quer dizer para quem assina",
+        "paragraphs": [
+          "Quem assina precisa conferir a fatura todo mês e compará-la com o preço que apareceu no pedido. O preço promocional tem regras: ele vale para cliente novo em áreas selecionadas, e pode ser perdido se o plano mudar, se o serviço for cancelado ou suspenso.",
+          "As regras de fidelidade e de cancelamento estão no [guia sobre fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Antena Starlink presa ao telhado de uma casa de madeira",
+          "caption": "Antena residencial instalada. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "Antes de assinar",
+        "paragraphs": [
+          "Antes de assinar, confira o site e o contrato. Como reconhecer o site oficial e os perfis que usam o nome está em [a Starlink é confiável?](/reviews/starlink-e-confiavel).",
+          "Se for assinar, a página da [indicação Starlink](/cupons/starlink) tem o link e as regras do programa."
+        ]
+      },
+      {
+        "heading": "Como reclamar",
+        "paragraphs": [
+          "Abra um atendimento no site ou no aplicativo da Starlink e guarde o protocolo. Se a cobrança divergir do pedido, envie o valor que apareceu na oferta e a fatura. Se precisar registrar uma queixa, procure o perfil verificado Starlink Brazil no Reclame Aqui."
+        ],
+        "links": [
+          {
+            "label": "Contatos oficiais da Starlink",
+            "href": "https://starlink.com/br/support/article/bdb63773-e93b-74e8-8e12-2da2fb6d534e"
+          },
+          {
+            "label": "Perfil verificado Starlink Brazil no Reclame Aqui",
+            "href": "https://www.reclameaqui.com.br/empresa/starlink-brazil/"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é a nota da Starlink no Reclame Aqui? O perfil verificado Starlink Brazil teve nota 7,8 e reputação Boa no semestre consultado. A média dada pelos consumidores foi 6,74.",
+          "Qual perfil da Starlink devo consultar? Procure o perfil verificado “Starlink Brazil”, que aponta para starlink.com.",
+          "Como reclamar da Starlink? Abra um atendimento pelo site ou pelo aplicativo e guarde o protocolo. Se o problema continuar, registre a queixa no perfil verificado no Reclame Aqui."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Dados dos perfis públicos no Reclame Aqui. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-e-confiavel"
+      },
+      {
+        "slug": "starlink-fidelidade-como-cancelar"
+      },
+      {
+        "slug": "starlink-vale-a-pena"
+      }
+    ]
   }
 ];

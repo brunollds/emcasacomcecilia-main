@@ -210,3 +210,23 @@ nem reclamação individual. Os dois perfis falsos entram como cuidado, sem link
   (confirmação do Bruno de que a indicação funciona fora do país).
 - **Trustpilot:** a reputação fora do PT sai do Trustpilot (pergunta do Bruno). Na Starlink, a família Trustpilot fica
   no estoque; a falta dele na família da Proton foi para a seção 4 da Fila (#1263).
+
+## 10. Redação do pacote PT (19/11, noite)
+
+- **Print do pedido brasileiro com o link (Bruno, 19/11, endereço escondido):** "Ganhe 30% de desconto nos planos da
+  Starlink. Cadastre-se até 30 de novembro." e o quadro "O código de indicação foi aplicado… R$200 em dinheiro ou em
+  crédito de serviço" no mesmo pedido. Max R$ 174,30/mês, equipamento R$ 49, "Contrato de 12 meses obrigatório. 30 dias
+  para devolver.", instalação profissional incluída no Max, Pix aceito, envio em 1 a 2 semanas. **"Total a pagar hoje:
+  R$ 49"**: no pedido sai só o kit. A soma da indicação com os 30% está provada no Brasil; nos EUA, pelo print de Nevada
+  (US$ 100 cada, 30% até 30/11). Os prints: `public/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp` e,
+  para a versão em inglês, o de Nevada (guardado fora do repositório até a rodada dos idiomas).
+- **Uso próprio:** o Bruno assinou a Starlink em 19/11/2026. A experiência de uso entra numa atualização da SL1 e da SL3.
+- **Cancelamento (central de ajuda, artigo "Como faço para cancelar o serviço?", lido em 19/11):** conta no site →
+  "Início" → "Sua assinatura" → "Gerenciar" → "Cancelar Serviço"; mudança até 00:00 UTC do dia de faturamento; serviço
+  ativo até a data paga; reativação depende da área; "Retomar" no alerta do topo. Usado na SL4.
+- **Limite de indicações por conta:** não achado na central (a busca por "indicação" não traz o artigo). A SL2 diz que
+  não lemos.
+- **Capas:** fotos de campo oficiais de `starlink.com/assets-new/images/landing/field/` e a linha "R$ 200 para novos
+  usuários aqui" abaixo do título (pedido do Bruno; nos idiomas, o valor do país).
+- **Página da loja nos 9 idiomas e `INTERNATIONAL_STORES`:** #1265 (confirmação do Bruno de que a indicação vale fora).
+- **Falta:** as versões de SL1 e SL2 nos 9 idiomas, com a oferta de cada país de referência lida no dia.

@@ -1,0 +1,165 @@
+{
+  "id": 1122,
+  "slug": "starlink-vale-a-pena",
+  "title": "Starlink vale a pena? A conta de 12 meses e para quem faz sentido",
+  "seoTitle": "Starlink vale a pena? A conta de 12 meses",
+  "type": "Guia de Compra",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Compare o custo de 12 meses da Starlink com a conexão que chega à sua casa. Veja o preço do kit por endereço, a fidelidade e como conferir o local da instalação.",
+  "metaDescription": "Starlink vale a pena? Conta de 12 meses com kit e contrato, preços por endereço, para quem faz sentido e quando a fibra ou o 4G saem melhor.",
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "updatedAt": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/starlink/starlink-vale-a-pena-capa.webp",
+  "imageAlt": "Antena Starlink presa ao beiral de uma casa, com montanhas ao fundo. A capa pergunta “Vale a pena?” e diz “Internet em casa”.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Starlink pode valer a pena em sítios e casas onde falta uma conexão estável. Se já chega fibra confiável, compare o total de 12 meses antes de trocar. Some o kit às mensalidades do seu endereço, confira se há fidelidade e use o aplicativo da Starlink para avaliar onde a antena pode ser instalada."
+      ]
+    },
+    {
+      "heading": "Quanto custa em 12 meses",
+      "paragraphs": [
+        "Em 19 de novembro de 2026, consultamos dois endereços públicos. No Max, o kit a R$ 49 tinha contrato de 12 meses em ambos. Só a consulta de Alto Paraíso de Goiás mostrou a oferta de 30% na mensalidade por 12 meses."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Residencial Max",
+          "Por mês",
+          "Kit",
+          "Total em 12 meses"
+        ],
+        "rows": [
+          [
+            "Av. Paulista, São Paulo",
+            "R$ 273,90",
+            "R$ 49",
+            "R$ 3.335,80"
+          ],
+          [
+            "Alto Paraíso de Goiás, com oferta",
+            "R$ 174,30",
+            "R$ 49",
+            "R$ 2.140,60"
+          ]
+        ],
+        "caption": "Kit mais 12 mensalidades pelos valores exibidos. Totais antes da recompensa de indicação e de eventuais custos fora da instalação padrão."
+      },
+      "postParagraphs": [
+        "O Residencial 100 Mbps apareceu com o Mini X a R$ 299 nos dois endereços. A mensalidade era de R$ 207,90 na Paulista e R$ 132,30 em Alto Paraíso. Como a tela de Alto Paraíso não dizia quanto duraria esse preço, compare a duração que aparecer no seu pedido.",
+        "Quando for calcular o custo no seu endereço, faça a conta primeiro sem a recompensa. Na tela com a nossa indicação, a Starlink mostrou R$ 200 após cumprir as regras do programa. Veja a [indicação Starlink](/cupons/starlink)."
+      ]
+    },
+    {
+      "heading": "Onde instalar a antena",
+      "paragraphs": [
+        "Antes de comprar, escolha um ponto com vista aberta para o céu. Galhos e telhados no campo de visão podem causar interrupções. Use o aplicativo da Starlink no ponto previsto para a antena e faça a verificação de obstáculos."
+      ],
+      "links": [
+        {
+          "label": "Como conferir obstáculos no aplicativo",
+          "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Casa com a antena Starlink instalada no telhado",
+        "caption": "Antena instalada no telhado, com céu aberto. Foto da Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "Quando comparar com fibra ou 4G",
+      "paragraphs": [
+        "Se já chega fibra estável, compare a soma de instalação, mensalidades e eventual fidelidade de cada proposta. Para 4G, inclua o preço do equipamento que você precisar e confira se o plano tem franquia suficiente para a casa."
+      ]
+    },
+    {
+      "heading": "Velocidade e jogos",
+      "paragraphs": [
+        "Os planos residenciais anunciam velocidade de download, mas o desempenho pode variar pelo local e horário. Em jogos online, repare também no tempo de resposta e nas interrupções.",
+        "A Starlink publica nas especificações uma faixa típica de 25 a 60 ms em terra. É uma referência da empresa, sem medição no endereço do nosso pedido."
+      ],
+      "links": [
+        {
+          "label": "Especificações de desempenho da Starlink",
+          "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+        }
+      ]
+    },
+    {
+      "heading": "Contrato e saída",
+      "paragraphs": [
+        "No exemplo do Max com kit de R$ 49, o contrato é de 12 meses e a multa de rescisão antecipada pode chegar a R$ 1.099. O [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar) explica também as condições de devolução."
+      ]
+    },
+    {
+      "heading": "O que os clientes reclamam",
+      "paragraphs": [
+        "O perfil verificado tem reputação Boa no Reclame Aqui. Cobrança indevida aparece entre as queixas mais frequentes. Guarde a oferta do pedido para comparar com a fatura. Veja [a leitura do Reclame Aqui](/reviews/starlink-reclame-aqui-nota-reputacao)."
+      ]
+    },
+    {
+      "heading": "Nossa experiência até aqui",
+      "paragraphs": [
+        "Já assinamos a Starlink, mas ainda não há experiência de uso. Velocidade, instalação e qualidade no dia a dia entram numa atualização deste artigo, quando existirem."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Starlink vale a pena na cidade? Com fibra estável no endereço, compare instalação, mensalidades e fidelidade antes de trocar.",
+        "Starlink é melhor que fibra? Sem boa fibra no local, vale cotar a Starlink e verificar se há céu aberto para instalar. Se ambas estiverem disponíveis, compare estabilidade e custo no seu endereço.",
+        "Starlink é boa para jogos? Teste a latência e as interrupções no seu endereço. A faixa típica que a Starlink publica é uma referência geral.",
+        "A Starlink é ilimitada? A Starlink anuncia dados ilimitados nos planos residenciais. Confira os limites de velocidade do plano que aparece no pedido.",
+        "Quanto custa a Starlink por mês? Na consulta do Max, eram R$ 273,90 na Avenida Paulista e R$ 174,30 em Alto Paraíso de Goiás com a oferta. O valor muda pelo endereço."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você não tem fibra boa no endereço e o 4G também é fraco.",
+      "Você aceita 12 meses de contrato e sabe que o preço muda pelo endereço no pedido."
+    ],
+    "skipIf": [
+      "Você tem fibra estável no endereço, sem kit para comprar nem contrato de 12 meses.",
+      "Você precisa de jogo online com resposta rápida, e a empresa não publica latência na página que lemos."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
+    "label": "Ver planos no meu endereço",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Preços lidos na tela de pedido do site oficial. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-fidelidade-como-cancelar"
+    },
+    {
+      "slug": "black-friday-starlink"
+    },
+    {
+      "slug": "starlink-indicacao-como-usar"
+    }
+  ]
+}

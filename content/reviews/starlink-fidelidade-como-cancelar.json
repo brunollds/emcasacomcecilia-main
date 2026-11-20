@@ -1,0 +1,126 @@
+{
+  "id": 1123,
+  "slug": "starlink-fidelidade-como-cancelar",
+  "title": "Starlink tem fidelidade? O contrato de 12 meses, a multa e os 30 dias para devolver",
+  "seoTitle": "Starlink tem fidelidade? Multa de até 1.099 reais",
+  "type": "Guia Prático",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Veja quando o kit de R$ 49 do Residencial Max exige contrato de 12 meses, quanto pode custar a saída antecipada, como cancelar a assinatura e pedir a devolução.",
+  "metaDescription": "A Starlink tem fidelidade de 12 meses no kit com desconto, com multa de até 1.099 reais. Veja os 30 dias para devolver e o que muda ao cancelar.",
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "updatedAt": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/starlink/starlink-fidelidade-como-cancelar-capa.webp",
+  "imageAlt": "Antena Starlink na neve diante de um chalé com uma pessoa trabalhando. A capa diz “Fidelidade e cancelamento”.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O Residencial Max com kit a 49 reais exigia 12 meses de contrato no pedido consultado. A multa por saída antecipada pode chegar a 1.099 reais. A oferta prevê reembolso do kit e do primeiro mês se você cancelar e devolver o kit sem danos em até 30 dias do pagamento."
+      ]
+    },
+    {
+      "heading": "Quando tem fidelidade",
+      "paragraphs": [
+        "Na tela de pedido que lemos em 19 de novembro de 2026, o kit a R$ 49 do Residencial Max vem com a frase \"Contrato de 12 meses obrigatório\", nos dois endereços lidos, com e sem a oferta de 30%.",
+        "No plano de 100 Mbps, lido em Alto Paraíso de Goiás, o equipamento é o Mini X de R$ 299, e as perguntas da tela seguiram falando em 12 meses quando trocamos de plano. Não sabemos se o contrato vale para essa opção. Confirme no pedido antes de assinar."
+      ]
+    },
+    {
+      "heading": "A multa",
+      "paragraphs": [
+        "A tela de pedido fala em taxa de rescisão antecipada de até R$ 1.099. Não sabemos se ela cai na proporção dos meses que faltam, porque a página que lemos não diz. Pergunte à Starlink antes de cancelar."
+      ]
+    },
+    {
+      "heading": "Os 30 dias para devolver",
+      "paragraphs": [
+        "Na tela do pedido do Max, o prazo de 30 dias começa no pagamento. Para pedir o reembolso do kit e do primeiro mês nas condições da oferta, cancele o serviço e devolva o equipamento sem danos dentro desse prazo.",
+        "Cancelar a assinatura interrompe as cobranças futuras conforme o ciclo. Pelo suporte da Starlink, confira como abrir também a devolução do kit e guarde o comprovante de envio.",
+        "O pedido com a [indicação Starlink](/cupons/starlink) mostrou o mesmo contrato e a mesma política de devolução."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Peças do kit Starlink Standard: antena, roteador, base e cabos",
+        "caption": "O kit que volta na devolução: antena, roteador, base e cabos. Foto da Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Como cancelar",
+      "paragraphs": [
+        "Na página inicial da conta Starlink, abra “Sua assinatura”. Ao lado do plano, selecione “Gerenciar” e depois “Cancelar Serviço”.",
+        "Se quiser evitar um novo ciclo, faça a mudança antes das 21h do dia anterior à data de faturamento, no horário de Brasília. Esse horário corresponde a 00h UTC do dia de faturamento.",
+        "Pela central de ajuda, o serviço fica ativo até o fim do período pago. Se mudar de ideia antes do fim, procure “Retomar” na página inicial. A reativação após o cancelamento depende da disponibilidade na área."
+      ],
+      "bullets": [
+        "Entre na sua conta no site da Starlink e, na página \"Início\", selecione \"Sua assinatura\".",
+        "Ao lado do plano, clique em \"Gerenciar\" e depois em \"Cancelar Serviço\".",
+        "O faturamento segue o horário UTC. A mudança precisa ser feita antes das 00:00 UTC do dia de faturamento, senão vale só para o ciclo seguinte. Pela nossa conta, em Brasília isso é 21h do dia anterior.",
+        "O serviço fica ativo até a data já paga, e a assinatura sai das cobranças futuras.",
+        "Antes de a mudança valer, dá para desistir em \"Retomar\", no alerta \"Seu plano de serviço terminará em...\", no topo da página \"Início\".",
+        "Depois de cancelar, pode não ser possível reativar logo. A reativação depende da disponibilidade na sua área."
+      ],
+      "postParagraphs": [
+        "Cancelar o serviço não devolve o kit sozinho. A devolução em 30 dias tem regra própria, descrita acima, e a multa de rescisão vale para quem cancela antes dos 12 meses."
+      ],
+      "links": [
+        {
+          "label": "Como faço para cancelar o serviço? (central de ajuda da Starlink)",
+          "href": "https://starlink.com/br/support/article/9d43bef2-36fe-bcd1-9f6a-e0304e9cf22e"
+        }
+      ]
+    },
+    {
+      "heading": "Preço promocional e mudança de plano",
+      "paragraphs": [
+        "Pelos termos de preço promocional que lemos, cancelar, mudar de plano ou ser suspenso pode fazer você perder o preço promocional. O preço padrão não tem duração fixa e pode subir com aviso de 30 dias."
+      ]
+    },
+    {
+      "heading": "Se a cobrança continuar",
+      "paragraphs": [
+        "Se a cobrança continuar, abra atendimento na Starlink com o número do pedido, a data do cancelamento e o protocolo, se houver.",
+        "Veja [o perfil verificado no Reclame Aqui](/reviews/starlink-reclame-aqui-nota-reputacao) para saber onde registrar uma queixa. Se você não reconhecer a transação, procure também o emissor do cartão ou o banco."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Starlink tem fidelidade? No pedido consultado do Max com kit a R$ 49, o contrato era de 12 meses.",
+        "Qual a multa para cancelar a Starlink? A oferta consultada informa até R$ 1.099. Confira o valor aplicável ao seu pedido antes de confirmar o cancelamento.",
+        "Posso cancelar a Starlink a qualquer momento? A solicitação pode ser feita pela conta. Se houver contrato de 12 meses e você sair antes, confira a multa aplicável.",
+        "A Starlink Mini tem fidelidade? A tela mostrou o Mini X no plano de 100 Mbps, mas a condição de contrato para essa combinação ficou sem confirmação. Confira no resumo do seu pedido.",
+        "Dá para devolver a Starlink em 30 dias? A oferta do Max informa reembolso do kit e do primeiro mês se o serviço for cancelado e o kit voltar sem danos em até 30 dias do pagamento."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Feito com a tela de pedido e a central de ajuda da Starlink. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-vale-a-pena"
+    },
+    {
+      "slug": "black-friday-starlink"
+    },
+    {
+      "slug": "starlink-reclame-aqui-nota-reputacao"
+    }
+  ]
+}
