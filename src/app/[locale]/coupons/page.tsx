@@ -116,6 +116,7 @@ export default async function LocalizedCouponsHub({ params }: CouponsHubProps) {
   const offerMonthIso = `${offerMonth.getFullYear()}-${String(offerMonth.getMonth() + 1).padStart(2, '0')}`;
 
   const shelfItems = layoutShelf(shelf.map((entry) => entry.coupon));
+  const featuredGrid = featured.length > 2 ? 'lg:grid-cols-3' : featured.length > 1 ? 'md:grid-cols-[3fr_2fr]' : '';
 
   return (
     <main className={`${couponFontVariables} min-h-screen bg-white text-marinho`}>
@@ -150,7 +151,9 @@ export default async function LocalizedCouponsHub({ params }: CouponsHubProps) {
         {featured.length > 0 && (
           <section aria-labelledby="destaques" className="flex flex-col gap-3">
             <ShelfHeading id="destaques">{text.featuredTitle}</ShelfHeading>
-            <div className={`grid gap-3 md:gap-4 ${featured.length > 1 ? 'md:grid-cols-[3fr_2fr]' : ''}`}>
+            {/* Dois destaques: a YesStyle maior à esquerda. Três: os três do mesmo tamanho, lado a lado a partir do lg
+                (no md, o cartão com código não cabe num terço da largura). */}
+            <div className={`grid gap-3 md:gap-4 ${featuredGrid}`}>
               {featured.map(({ coupon, href, upTo }, index) => (
                 <HubCouponCard
                   key={coupon.slug}
@@ -158,10 +161,8 @@ export default async function LocalizedCouponsHub({ params }: CouponsHubProps) {
                   href={href}
                   labels={labels}
                   upTo={upTo}
-                  variant={index === 0 ? 'lead' : 'featured'}
+                  variant={index === 0 && featured.length < 3 ? 'lead' : 'featured'}
                   stampOrder={index}
-                  // Com três destaques, a YesStyle ocupa a coluna da esquerda e as outras duas se empilham à direita.
-                  className={index === 0 && featured.length > 2 ? 'md:row-span-2' : ''}
                 />
               ))}
             </div>
