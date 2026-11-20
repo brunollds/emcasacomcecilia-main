@@ -17,6 +17,8 @@ type LocaleHomeRouteProps = {
 };
 
 export const dynamicParams = false;
+// Como a home PT: a seção da data comercial entra e sai pelo horário, numa nova geração da página depois do prazo.
+export const revalidate = 300;
 
 function getRouteLocale(locale: string): LocaleHomeLocale {
   if (!LOCALE_HOME_LOCALES.includes(locale as LocaleHomeLocale)) notFound();

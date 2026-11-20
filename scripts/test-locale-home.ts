@@ -7,10 +7,12 @@ import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.sh
 
 import { COUPON_HUB_COPY } from '@/components/coupons/couponHubCopy';
 import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
+import { HomeEvent } from '@/components/sections/HomeEvent';
+import { LOCALE_EVENT_COPY } from '@/components/sections/localeEventCopy';
 import { HomeLatest } from '@/components/sections/HomeLatest';
 import { PT_HOME_CHROME, type HomeChromeCopy } from '@/components/sections/homeCopy';
 import { getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
-import { getCouponHubEntries } from '@/lib/couponHub';
+import { getCouponHubEntries, getCouponHubShelves } from '@/lib/couponHub';
 import {
   CECILIA_FULL_NAME,
   CECILIA_PERSON_ID,
@@ -26,11 +28,15 @@ import {
   LOCALE_HOME_LOCALES,
   getHomeLanguageLinks,
   getLocaleHomeContent,
+  getLocaleHomeEvent,
   getLocaleHomeJsonLd,
   getLocaleHomePath,
 } from '@/lib/localeHome';
 import { SITE_URL } from '@/lib/pageSeo';
 import { getPublishedReviewsForLocale } from '@/lib/review-hubs';
+import { isListedInPortuguese } from '@/lib/reviewDiscovery';
+import { reviewHasStore } from '@/lib/reviewStores';
+import homeEventsConfig from '../content/home-events.json';
 
 // A home de cada idioma é a da home em português com os textos e os artigos do idioma. Aqui: os 16 textos de
 // interface em cada idioma (nenhum vazio, nenhum igual ao do PT, salvo o que o idioma escreve igual), a ordem das
@@ -130,7 +136,86 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.equal(storeHrefs.length >= 0, true);
 }
 
+
+// A Black Friday na home de cada idioma, só na reta final do PT (até 01/12 00h de Brasília). Os guias saem da lista do
+// PT pela família (translationKey), só os listados no idioma e de loja com página no hub; nada cai de volta no PT.
+const at = (iso: string) => new Date(iso);
+const IN_STRETCH = at('2026-11-25T12:00:00-03:00');
+const boostedEvent = homeEventsConfig.events.find((item) => 'boost' in item);
+assert.ok(boostedEvent, 'content/home-events.json sem a data em reta final');
+const ptGuideFamilies = boostedEvent.articleSlugs.map(
+  (slug) => publishedReviews.find((review) => review.slug === slug && isListedInPortuguese(review))?.translationKey
+);
+const PT_EVENT = { suffix: ', guia da Black Friday', showLess: 'Mostrar menos', description: boostedEvent.description };
+const COUPON_WORDS = /cup[oó]n|coupon|gutschein|クーポン|쿠폰|優惠券|优惠券/i;
+for (const locale of LOCALE_HOME_LOCALES) {
+  const copy = LOCALE_EVENT_COPY[locale];
+  for (const text of [copy.title, copy.description, copy.guideSuffix, copy.showAll, copy.showLess, ...Object.values(copy.countdown)]) {
+    assert.ok(text.trim(), `${locale}: texto da Black Friday vazio`);
+    assert.doesNotMatch(text, COUPON_WORDS, `${locale}: a seção chama de cupom o que pode ser código de recompensa ou indicação`);
+    assert.doesNotMatch(text, /bra[sz]il|브라질|ブラジル|巴西/i, `${locale}: a seção cita o Brasil`);
+  }
+  assert.notEqual(copy.description, PT_EVENT.description, `${locale}: descrição igual à do PT`);
+  assert.notEqual(copy.guideSuffix, PT_EVENT.suffix, `${locale}: trecho do leitor de tela igual ao do PT`);
+  // O espanhol escreve "Mostrar menos" como o português.
+  if (locale !== 'es') assert.notEqual(copy.showLess, PT_EVENT.showLess, `${locale}: "Mostrar menos" igual ao do PT`);
+  assert.match(copy.countdown.days, /\{days\}/, `${locale}: contagem sem {days}`);
+  assert.match(copy.showAll, /\{total\}/, `${locale}: botão sem {total}`);
+  if (locale === 'de') {
+    for (const text of [copy.description, copy.showAll, copy.showLess]) {
+      assert.doesNotMatch(text, /\b(du|dein\w*|euch)\b/i, 'de: "du" na Black Friday');
+    }
+  }
+  if (locale === 'fr') assert.doesNotMatch(copy.description, /[^ ][:?!;]/, 'fr: sem espaço fino antes da pontuação');
+
+  // Os guias esperados: as famílias da lista PT com versão listada no idioma e loja com página no hub.
+  const listed = getPublishedReviewsForLocale(locale, publishedReviews);
+  const hubSlugs = getCouponHubEntries(locale).map(({ coupon }) => coupon.slug);
+  const expectedFamilies = [...new Set(ptGuideFamilies)].filter((family) => {
+    const review = family ? listed.find((item) => item.translationKey === family) : undefined;
+    return review !== undefined && hubSlugs.some((slug) => reviewHasStore(review, slug));
+  });
+  const event = getLocaleHomeEvent(locale, publishedReviews, IN_STRETCH);
+  assert.ok(event?.guides, `${locale}: sem a Black Friday em 25/11`);
+  assert.equal(event.guides.length, expectedFamilies.length, `${locale}: guias diferentes das famílias do PT com versão no idioma`);
+  assert.ok(event.guides.length >= 5, `${locale}: menos de 5 guias de Black Friday`);
+  const families = event.guides.map(({ slug }) => listed.find((item) => item.slug === slug)?.translationKey);
+  assert.equal(new Set(families).size, event.guides.length, `${locale}: família repetida`);
+  // Os destaques do hub primeiro, na ordem dele.
+  const names = event.guides.map(({ name }) => name);
+  const featured = getCouponHubShelves(locale)
+    .featured.map(({ coupon }) => coupon.brand)
+    .filter((name) => names.includes(name));
+  assert.deepEqual(names.slice(0, featured.length), featured, `${locale}: os destaques do hub não vêm primeiro, na ordem dele`);
+  const tabs = getLocaleHomeContent(locale, publishedReviews, IN_STRETCH).stores;
+  for (const guide of event.guides) {
+    assert.ok(listed.some((item) => item.slug === guide.slug), `${locale}/${guide.slug}: guia fora dos artigos listados no idioma`);
+    assert.ok(guide.href.startsWith(`/${locale}/reviews/`), `${locale}/${guide.slug}: link fora do idioma`);
+    const tab = tabs.find((item) => item.brand === guide.name);
+    assert.equal(guide.discount, tab?.discount, `${locale}/${guide.slug}: desconto diferente do da aba (o do hub)`);
+  }
+  assert.equal(event.hubLink, undefined, `${locale}: "Ver tudo" sem página de Black Friday no idioma`);
+  assert.equal(event.seasonNotice, undefined, `${locale}: aviso de temporada das lojas PT`);
+  assert.equal(event.countdownLabel, copy.countdown.days.replace('{days}', '2'), `${locale}: contagem em 25/11`);
+  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-26T12:00:00-03:00'))?.countdownLabel, copy.countdown.tomorrow);
+  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-27T12:00:00-03:00'))?.countdownLabel, copy.countdown.today);
+  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-30T23:59:59-03:00'))?.countdownLabel, copy.countdown.last);
+  assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-12-01T00:00:00-03:00')), null, `${locale}: a Black Friday segue depois de 30/11`);
+  assert.equal(getLocaleHomeContent(locale, publishedReviews, at('2026-12-01T00:00:00-03:00')).event, null);
+
+  // O HTML: um link por guia, no idioma, sem botão (os guias cabem no celular), sem "Ver tudo", sem a aba do PT e
+  // sem texto em português.
+  const html = render(createElement(HomeEvent, { event }));
+  const text = decode(html.replace(/<[^>]+>/g, ' '));
+  assert.equal(html.match(new RegExp(`href="/${locale}/reviews/`, 'g'))?.length, event.guides.length, `${locale}: links dos guias`);
+  assert.equal(html.match(/href="/g)?.length, event.guides.length, `${locale}: link a mais na seção`);
+  assert.ok(!html.includes('<button') && !html.includes('data-reveal'), `${locale}: botão ou data-reveal na seção`);
+  assert.equal(text.split(copy.guideSuffix).length - 1, event.guides.length, `${locale}: trecho do leitor de tela`);
+  assert.ok(text.includes(copy.title) && text.includes(copy.description) && text.includes(event.dayLabel), `${locale}: título, descrição ou dia`);
+  assert.doesNotMatch(text, /guia d|Mostrar|faltam|lojas parceiras|Black Friday 2026 das/, `${locale}: texto em português na seção`);
+}
+
 assert.equal(getHomeLanguageLinks()['x-default'], `${SITE_URL}/en`);
 assert.equal(LOCALE_KEYS.length, 10, 'os 10 idiomas');
 
-console.log(`✅ test-locale-home: ${LOCALE_HOME_LOCALES.length} homes de idioma, ${CHROME_KEYS.length} textos de interface cada, abas, painel e HTML conferidos`);
+console.log(`✅ test-locale-home: ${LOCALE_HOME_LOCALES.length} homes de idioma, ${CHROME_KEYS.length} textos de interface cada, abas, painel, HTML e a Black Friday conferidos`);
