@@ -1,0 +1,166 @@
+{
+  "id": 1152,
+  "slug": "starlink-conviene",
+  "translationKey": "starlink-vale-a-pena",
+  "locale": "it",
+  "title": "Starlink conviene? Cosa si paga e per chi ha senso",
+  "seoTitle": "Starlink conviene? Prezzi e per chi ha senso",
+  "type": "Guida all'acquisto",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Confronta il costo di Starlink con la connessione che arriva a casa tua. Vedi prezzo e kit per indirizzo, l'assenza di contratto e come verificare dove installare l'antenna.",
+  "metaDescription": "Starlink conviene? Prezzi per indirizzo, kit a noleggio, nessun contratto, per chi ha senso e quando fibra o 4G sono la scelta migliore.",
+  "publishedAt": "20 novembre 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-conviene-capa.webp",
+  "imageAlt": "Antenna Starlink fissata alla grondaia di una casa, con le montagne sullo sfondo. La copertina chiede «Conviene?» e dice «Internet a casa».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Risposta rapida",
+      "paragraphs": [
+        "Starlink può convenire in campagna e nelle case dove manca una connessione stabile. Se arriva già una fibra affidabile, confronta il totale dei primi mesi prima di cambiare. Somma il canone del tuo indirizzo, controlla cosa prevede il kit e usa l'app di Starlink per capire dove si può installare l'antenna."
+      ]
+    },
+    {
+      "heading": "Quanto costa",
+      "paragraphs": [
+        "Il 20 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano. Con l'offerta in corso, il 50% di sconto sui piani per 3 mesi, i prezzi erano questi."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Piano a Milano",
+          "Al mese",
+          "Kit",
+          "Installazione professionale"
+        ],
+        "rows": [
+          [
+            "Residenziale 100 Mbps",
+            "17,50 €, per i primi 3 mesi",
+            "A noleggio, 0 €",
+            "172 €, facoltativa"
+          ],
+          [
+            "Max",
+            "32,50 €",
+            "A noleggio, 0 €",
+            "Gratuita"
+          ]
+        ],
+        "caption": "Prezzi mostrati nell'ordine con l'offerta in corso. Il totale da pagare oggi era di 19 €."
+      },
+      "postParagraphs": [
+        "Non calcoliamo un totale a 12 mesi, perché il prezzo dopo i 3 mesi di sconto non compariva nella pagina che abbiamo letto. Controllalo nel tuo ordine e fai il conto con la durata che appare. Fai il conto prima senza la ricompensa dell'invito, il cui valore dipende dal paese e si vede nell'account. Vedi l'[invito Starlink](/it/coupons/starlink)."
+      ]
+    },
+    {
+      "heading": "Dove installare l'antenna",
+      "paragraphs": [
+        "Prima di comprare, scegli un punto con il cielo aperto. Rami e tetti nel campo visivo possono causare interruzioni. Usa l'app di Starlink nel punto previsto per l'antenna e fai la verifica degli ostacoli."
+      ],
+      "links": [
+        {
+          "label": "Come controllare gli ostacoli nell'app",
+          "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Casa con l'antenna Starlink installata sul tetto",
+        "caption": "Antenna installata sul tetto, con il cielo aperto. Foto di Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "Quando confrontare con fibra o 4G",
+      "paragraphs": [
+        "Se arriva già una fibra stabile, confronta installazione, canoni ed eventuali vincoli di ogni proposta. Per il 4G, aggiungi il prezzo dell'apparecchio che ti serve e controlla che il piano abbia abbastanza dati per la casa."
+      ]
+    },
+    {
+      "heading": "Velocità e giochi",
+      "paragraphs": [
+        "I piani residenziali dichiarano una velocità di download, ma le prestazioni possono variare con il luogo e l'orario. Nei giochi online guarda anche il tempo di risposta e le interruzioni.",
+        "Starlink pubblica nelle specifiche un intervallo tipico da 25 a 60 ms a terra. È un riferimento dell'azienda, senza misurazione al nostro indirizzo."
+      ],
+      "links": [
+        {
+          "label": "Specifiche di prestazione di Starlink",
+          "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+        }
+      ]
+    },
+    {
+      "heading": "Contratto e uscita",
+      "paragraphs": [
+        "L'ordine che abbiamo letto indicava «Nessun contratto», con il kit a noleggio e una prova di 30 giorni. Se annulli devi restituire il kit. La [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta) spiega anche le condizioni di rimborso."
+      ]
+    },
+    {
+      "heading": "Cosa dicono i clienti",
+      "paragraphs": [
+        "Su Trustpilot il profilo di Starlink ha un punteggio di 1,6 su 5, e non è un profilo rivendicato dall'azienda. Le lamentele più citate riguardano l'assistenza e i costi in fattura. Conserva l'offerta dell'ordine per confrontarla con la fattura. Leggi [l'analisi di Trustpilot](/it/reviews/starlink-trustpilot-recensioni)."
+      ]
+    },
+    {
+      "heading": "La nostra esperienza finora",
+      "paragraphs": [
+        "Abbiamo già attivato l'abbonamento a Starlink, ma non c'è ancora esperienza d'uso. Velocità, installazione e qualità nella vita di ogni giorno entreranno in un aggiornamento di questo articolo, quando ci saranno."
+      ]
+    },
+    {
+      "heading": "Domande frequenti",
+      "bullets": [
+        "Starlink conviene in città? Con una fibra stabile all'indirizzo, confronta installazione, canoni e vincoli prima di cambiare.",
+        "Starlink è meglio della fibra? Senza una buona fibra, vale la pena controllare l'offerta di Starlink per l'indirizzo e che ci sia il cielo aperto per l'antenna. Se hai entrambe, confronta stabilità e costo al tuo indirizzo.",
+        "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L'intervallo tipico che Starlink pubblica è un riferimento generale.",
+        "Quanto costa Starlink al mese? Nell'ordine letto a Milano, il Residenziale 100 Mbps costava 17,50 € e il Max 32,50 €, con l'offerta in corso. Il valore cambia con l'indirizzo."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Non hai una buona fibra all'indirizzo e anche il 4G è debole.",
+      "Ti va bene un kit a noleggio da restituire se annulli e sai che i prezzi cambiano con l'indirizzo."
+    ],
+    "skipIf": [
+      "Hai già una fibra stabile in casa e non ti serve un kit da installare e poi restituire.",
+      "Giochi online e ti serve un tempo di risposta garantito, che Starlink non garantisce per il tuo indirizzo."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone prima di pagare.",
+    "label": "Vedi i piani al mio indirizzo",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-contratto-disdetta"
+    },
+    {
+      "slug": "starlink-black-friday-offerta"
+    },
+    {
+      "slug": "starlink-link-invito"
+    }
+  ]
+}

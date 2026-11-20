@@ -1,0 +1,116 @@
+{
+  "id": 1172,
+  "slug": "starlink-trust-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "starlink-trust-guide",
+  "title": "Starlink 可靠嗎？如何找到官方網站，並確認誰在賣",
+  "seoTitle": "Starlink 可靠嗎？官方網站與詐騙",
+  "type": "編輯專題",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "starlink.com 是官方網站，授權零售商清單可以幫你確認賣家。看付款前該核對什麼，以及哪些同名網站和檔案不是官方。",
+  "metaDescription": "看如何認出 Starlink 官方網站 starlink.com、查詢授權零售商清單，並分辨 Trustpilot 上的同名檔案。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-trust-zh-hant-capa.webp",
+  "imageAlt": "Starlink 天線裝在固定於木結構的支架上。封面文字為「可靠嗎？」。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Starlink 是 SpaceX 的衛星網路服務，官方網站是 starlink.com。如果在網站以外購買設備，請查看 Starlink 的授權零售商清單，付款前先確認賣家是誰。"
+      ]
+    },
+    {
+      "heading": "Starlink 是誰，誰在賣",
+      "paragraphs": [
+        "Starlink 透過官方網站銷售。看到名稱相似的網站，先看網址是否為 starlink.com。",
+        "[Starlink 值得買嗎](/zh-hant/reviews/starlink-worth-it-zh-hant)說明如何比較成本、安裝與其他選擇。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink 標準天線與路由器",
+          "caption": "Starlink 天線與路由器。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      ]
+    },
+    {
+      "heading": "如何認出官方網站",
+      "paragraphs": [
+        "在瀏覽器直接輸入 starlink.com。輸入資料或付款前，確認網址列仍停在 starlink.com 之內。",
+        "如果有人要求你透過訊息付款，或在訂單之外付款，請先到官方客服確認。"
+      ]
+    },
+    {
+      "heading": "Trustpilot 上哪個才是 Starlink？",
+      "paragraphs": [
+        "Trustpilot 上網域為 starlink.com 的檔案叫「Starlink Development」，尚未被公司認領。另外有名為「Uk Starlink」（ukstarlink.com）和「Starlink」（starlink.om）的檔案，它們是其他網域，不是 starlink.com。",
+        "查口碑時，請認準網域是 starlink.com 的那一個。"
+      ]
+    },
+    {
+      "heading": "經銷商與電商平台",
+      "paragraphs": [
+        "Starlink 有一份授權零售商清單。即使在知名的電商平台，也要看賣家是誰。",
+        "[Starlink 推薦](/zh-hant/coupons/starlink)適用於直接在 starlink.com 透過連結下的符合資格訂單，無法加到零售通路的設備購買上。"
+      ]
+    },
+    {
+      "heading": "使用 Starlink 名義的訊息",
+      "paragraphs": [
+        "Starlink 說明中心有網路釣魚的提醒。收到以 Starlink 名義發出的廣告或訊息時，請先到 starlink.com 確認，再提供資料或付款。"
+      ]
+    },
+    {
+      "heading": "Trustpilot 顯示了什麼",
+      "paragraphs": [
+        "官方網域的 Trustpilot 檔案評分偏低，而且 Trustpilot 註明公司沒有邀請客戶留評價。完整數字見[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "購買後要保存什麼",
+      "bullets": [
+        "保存訂單編號、結帳時顯示的價格，以及確認郵件。如果與帳單不符，請透過網站或應用程式聯絡客服。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Starlink 可靠嗎？Starlink 是 SpaceX 的衛星網路服務。請確認網址是 starlink.com，並用官方的授權零售商清單確認賣家。",
+        "Starlink 的官方網站是什麼？是 starlink.com。請在瀏覽器直接輸入。",
+        "怎麼確認賣家有授權？查看 Starlink 的授權零售商清單，並在付款前核對賣家名稱。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-trustpilot-zh-hant"
+    },
+    {
+      "slug": "starlink-referral-zh-hant"
+    },
+    {
+      "slug": "starlink-worth-it-zh-hant"
+    }
+  ]
+}

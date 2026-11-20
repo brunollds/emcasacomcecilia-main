@@ -1,0 +1,127 @@
+{
+  "id": 1175,
+  "slug": "starlink-black-friday-zh-hans",
+  "translationKey": "starlink-black-friday",
+  "locale": "zh-hans",
+  "title": "Starlink 2026 黑色星期五：先算清首单，再看推荐奖励",
+  "seoTitle": "Starlink 2026 黑色星期五优惠怎么算",
+  "type": "黑色星期五指南",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Starlink 的年末优惠按地址显示。看看首单当天要付多少、推荐奖励何时到账，以及怎样在官网订单里确认你的地址有没有。",
+  "metaDescription": "在 Starlink 官网输入安装地址，查看当地是否有黑色星期五优惠、当天应付总额，以及推荐奖励的适用条件。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-black-friday-zh-hans-capa.webp",
+  "imageAlt": "黄昏时小木屋屋顶上的 Starlink 天线。封面写着“黑色星期五 2026”和“按地址查看优惠”。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Starlink 的黑色星期五优惠依服务地址而定。先在官网查看当地是否有优惠，再核对当天应付额、月费和设备费用。如果订单显示推荐奖励，请确认适用条件和发放时间。"
+      ]
+    },
+    {
+      "heading": "不同国家的优惠不一样",
+      "paragraphs": [
+        "我们查看了多个市场的订单页。折扣、期限和设备费用各有不同。请先在 Starlink 官网输入安装地址，查看当地是否提供服务及当时适用的优惠。",
+        "你要做的是打开官网，输入你要安装的地址，再看订单页显示的优惠、套件费用和当天应付总额。"
+      ]
+    },
+    {
+      "heading": "首单怎么算",
+      "paragraphs": [
+        "先记下当天应付总额，再加上奖励发放前应付的月费。已经计入当天总额的款项只算一次。订单符合推荐条件时，再从这笔支出中扣除奖励。",
+        "奖励满两个完整计费周期才发放，期间你还要照常支付到期的月费。"
+      ],
+      "bullets": [
+        "当天应付：订单页上的当天应付总额。",
+        "之后的月费：订单页上所选套餐的月费，注意优惠期限。",
+        "推荐奖励：订单里带推荐提示的那一行，金额因国家而异。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+        "alt": "房屋屋顶上安装好的 Starlink 天线",
+        "caption": "装好的家用天线。Starlink 官方照片。",
+        "objectFit": "contain",
+        "aspectRatio": 1.8079
+      }
+    },
+    {
+      "heading": "推荐奖励怎么进入这笔账",
+      "paragraphs": [
+        "通过推荐链接订购后，订单里会出现“推荐码已应用”的提示。奖励发放最早在激活后 60 天，形式是服务抵扣，部分国家还提供现金。推荐人也会拿到同样的奖励。",
+        "详细规则见[Starlink 推荐链接的用法](/zh-hans/reviews/starlink-referral-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "优惠有没有在你的地址上",
+      "paragraphs": [
+        "优惠只在选定地区显示，两个地址的订单页可能不同。输入你的地址再看，别用别人的截图判断。"
+      ]
+    },
+    {
+      "heading": "套件和退货",
+      "paragraphs": [
+        "在部分国家，套件按租用提供，取消服务时要退回；在另一些国家，套件需要购买。订单页会写明是哪一种。",
+        "在订单页确认退回期限、设备状态要求和可退费用。合约和操作步骤见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "优惠结束以后",
+      "paragraphs": [
+        "促销期结束后，月费会变成你所在地区的标准价格。标准价格可能调整。更换套餐、取消或暂停后促销价会怎样，以你自己订单里的条款为准。我们没有读到各国促销期之后的价格，所以不替你预估。"
+      ]
+    },
+    {
+      "heading": "如何使用链接",
+      "paragraphs": [
+        "打开链接，输入要安装天线的地址。选好套餐，确认推荐已应用，并在付款前保存订单里显示的优惠。",
+        "链接和规则也在[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "Starlink 有黑色星期五优惠吗？部分市场和地址有优惠。输入安装地址，查看订单页是否显示活动。",
+        "推荐奖励能和优惠叠加吗？是否同时显示，请看你地址的订单页。奖励取决于资格，并要满两个完整计费周期。",
+        "订单当天要付多少？以订单页的当天应付总额为准，因国家和所选套餐而异。",
+        "活动到什么时候？请在你所在市场的订单页查看申请截止日和优惠价的适用期限。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "链接会打开 Starlink 官网。付款前请确认套餐、套件费用和推荐奖励。",
+    "label": "查看我所在地址的优惠",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-referral-zh-hans"
+    },
+    {
+      "slug": "starlink-worth-it-zh-hans"
+    },
+    {
+      "slug": "starlink-cancel-zh-hans"
+    }
+  ]
+}

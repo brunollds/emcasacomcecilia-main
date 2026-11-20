@@ -1,0 +1,127 @@
+{
+  "id": 1126,
+  "slug": "starlink-referral-link-how-it-works",
+  "translationKey": "starlink-indicacao",
+  "locale": "en",
+  "title": "Starlink referral link: how to use it and when the $100 reward arrives",
+  "seoTitle": "Starlink referral link: how to use it and get paid",
+  "type": "Referral Code Guide",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Open the link on the official site and check the reward on your order before you pay. See who qualifies, when the money arrives and how to choose between credit and cash.",
+  "metaDescription": "See how to open the Starlink referral link, find the reward on your order and collect it after you meet the program's conditions.",
+  "publishedAt": "November 20, 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-referral-link-how-it-works-capa.webp",
+  "imageAlt": "Starlink dish mounted on a roof under a blue sky. The cover reads “Referral link” and “$100 for new users here, after 2 months”.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Open the Starlink referral link and enter your address. Before you pay, look for the confirmation that the code was applied and check the reward amount on the order. The program is for new customers, and the reward is released after two full monthly cycles, as service credit or as cash where that option is offered."
+      ]
+    },
+    {
+      "heading": "How to use the link, step by step",
+      "paragraphs": [
+        "Open the link from the [Starlink referral page](/en/coupons/starlink) and enter the address where you will use the service."
+      ],
+      "postParagraphs": [
+        "Check the notice before you pay. Starlink says the referral has to be on the original order."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Order screen on the official Starlink site with the message Referral Code Applied, saying that by signing up with this code you and your friend get $100 each, as cash or service credit",
+        "caption": "Order on the official site with the referral link applied (Nevada).",
+        "objectFit": "contain",
+        "aspectRatio": 0.8747
+      },
+      "bullets": [
+        "Pick an eligible Residential or Roam plan on the order.",
+        "Look for the “Referral Code Applied” notice and check the reward and the total due.",
+        "Finish the order on starlink.com.",
+        "Activate the kit and watch your first invoice. Paying the first month and activating the equipment are part of the referral requirements."
+      ]
+    },
+    {
+      "heading": "How much it pays and when",
+      "paragraphs": [
+        "On the order we saw in Nevada with our link, Starlink showed $100 for the person who signs up. The person who refers also gets the same amount, in cash or as service credit.",
+        "The subscription has to stay active and paid up for two full monthly cycles. The help center says issuance can start from 60 days after activation, depending on the country, the account and the identity check.",
+        "The default is credit on your invoice. If your account offers cash, open Referrals on the website in a browser and choose the reward method there."
+      ]
+    },
+    {
+      "heading": "Who can use it",
+      "bullets": [
+        "The person who signs up has to be a new customer. Current and former customers do not get the reward.",
+        "The person who refers has to be an active customer on a Residential or Roam plan. Priority, Enterprise and Commercial plans do not earn the reward.",
+        "The reward applies to new Residential and Roam subscriptions."
+      ]
+    },
+    {
+      "heading": "Does Starlink have a coupon code?",
+      "paragraphs": [
+        "The link already carries the referral code to your order, so there is nothing to type. Before you pay, look for the confirmation on the screen.",
+        "The program counts orders placed on starlink.com through the link. Purchases from retailers or marketplaces and account transfers are outside the referral."
+      ]
+    },
+    {
+      "heading": "What about the Black Friday offer?",
+      "paragraphs": [
+        "The Black Friday discount on service plans and the referral reward are two separate lines to check on the order. See the [Starlink Black Friday math](/en/reviews/starlink-black-friday-deal) and look at the offer for your own address."
+      ]
+    },
+    {
+      "heading": "How to track a referral",
+      "paragraphs": [
+        "In the Referrals tab of the website or the app, you can follow the status of everyone who signed up through your link. Starlink sends an email when someone places an order. A referral may go through an eligibility check before it produces a reward."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "How does the Starlink referral work? Place the order on starlink.com through the link. Check that the referral shows as applied, activate the kit and keep the service active and paid for two full monthly cycles.",
+        "How much is the Starlink referral worth? On the Nevada order with our link, $100 showed up for the person who signs up. Check the amount on your own order.",
+        "When does the Starlink referral reward arrive? The help center says issuance can start from 60 days after activation, if the referral meets the program conditions.",
+        "Does the referral work on a retailer or marketplace order? The program requires the purchase to be made directly on starlink.com through the link.",
+        "I used Starlink before. Can I use the link? The reward is for people who subscribe to Starlink for the first time.",
+        "Does the referral work in other countries? The help center says it works in most countries where Starlink sells, and the amount depends on the country where you sign up. In the US, our link showed $100."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Check the reward your order shows for your address before you pay.",
+    "label": "See the referral on the order",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "We read the help center and the Starlink order page without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-black-friday-deal"
+    },
+    {
+      "slug": "is-starlink-worth-it"
+    },
+    {
+      "slug": "starlink-contract-cancel-refund"
+    }
+  ],
+  "pros": [],
+  "cons": []
+}

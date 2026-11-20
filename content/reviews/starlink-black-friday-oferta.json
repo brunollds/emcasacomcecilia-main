@@ -1,0 +1,149 @@
+{
+  "id": 1133,
+  "slug": "starlink-black-friday-oferta",
+  "translationKey": "starlink-black-friday",
+  "locale": "es",
+  "title": "Black Friday Starlink 2026 en España: 30 % en el servicio y kit en alquiler a 0 €",
+  "seoTitle": "Black Friday Starlink 2026: 30 % y kit en alquiler a 0 €",
+  "type": "Guía de Black Friday",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "En Madrid, el pedido mostraba el Max a 45,50 € al mes, el kit en alquiler a 0 € y 19 € a pagar hoy. Mira cómo entra la recompensa del referido y cómo comprobar tu dirección.",
+  "metaDescription": "Starlink con 30 % en los planes y kit en alquiler a 0 € en España. Mira la cuenta del primer pedido y cómo entra la recompensa del referido.",
+  "publishedAt": "20 de noviembre de 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-black-friday-oferta-capa.webp",
+  "imageAlt": "Antena Starlink en el tejado de una cabaña al atardecer. La portada dice «Black Friday 2026» y «Planes: 30 % de descuento».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "El pedido que consultamos en Madrid mostraba un 30 % de descuento en el servicio, 19 € a pagar ese día y un kit en alquiler a 0 €. El equipo se devuelve al cancelar. Si tu pedido muestra una recompensa por referido, comprueba las condiciones antes de contar con ella."
+      ]
+    },
+    {
+      "heading": "Qué pagas en el primer pedido",
+      "paragraphs": [
+        "Estas son las cifras que mostró el pedido oficial para una dirección de Madrid, el 20 de noviembre, sin completar la compra. El kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas el servicio. La instalación profesional del Residencial 100 Mbps es opcional y cuesta 172 €, y con el Max es gratuita."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Pedido en Madrid",
+          "Valor mostrado"
+        ],
+        "rows": [
+          [
+            "Total a pagar hoy",
+            "19 €"
+          ],
+          [
+            "Kit en alquiler (coste inicial y cuota mensual)",
+            "0 € y 0 € al mes"
+          ],
+          [
+            "Residencial 100 Mbps, por mes",
+            "24,50 €"
+          ],
+          [
+            "Max, por mes",
+            "45,50 €"
+          ],
+          [
+            "Instalación profesional, Residencial 100 Mbps (opcional)",
+            "172 €"
+          ],
+          [
+            "Instalación profesional, Max",
+            "0 €"
+          ]
+        ],
+        "caption": "Cifras del pedido en starlink.com con la oferta de la Black Friday activa. La duración del precio con descuento no aparecía en la lectura."
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antena Starlink Standard y el router",
+        "caption": "Antena y router de Starlink. Foto de Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Cómo entra la recompensa en la cuenta",
+      "paragraphs": [
+        "Si abres el pedido con un enlace de referido, la pantalla muestra el valor de la recompensa para tu país. Ese valor no es el mismo en todas partes y no lo damos aquí, porque no lo vimos en una cuenta española.",
+        "Suma el importe inicial y las mensualidades que debas abonar hasta que llegue la recompensa, sin contar dos veces ninguna cuota. Resta la recompensa solo si tu pedido cumple las condiciones.",
+        "La suscripción tiene que seguir activa y al día durante dos ciclos mensuales completos, y la recompensa llega en crédito de servicio o, si tu cuenta lo ofrece, en dinero."
+      ]
+    },
+    {
+      "heading": "¿Cuánto vale invitar a otra persona?",
+      "paragraphs": [
+        "Cuando ya eres cliente, también puedes invitar a otras personas. Quien invita recibe el mismo valor, en dinero o en crédito de servicio, siempre que la persona invitada complete los ciclos exigidos.",
+        "Mira [cómo funciona el programa de referidos](/es/reviews/starlink-enlace-referido-como-funciona) y comprueba en tu cuenta cuánto vale cada referido."
+      ]
+    },
+    {
+      "heading": "¿Vale la oferta en tu dirección?",
+      "paragraphs": [
+        "La oferta se muestra por dirección. En la consulta de Madrid, el pedido ofrecía una prueba de 30 días y una entrega de 1 a 2 semanas. En otras zonas de España el plazo y los planes disponibles pueden cambiar, así que introduce tu dirección en el pedido y guarda la pantalla antes de pagar."
+      ]
+    },
+    {
+      "heading": "Kit en alquiler y devolución",
+      "paragraphs": [
+        "El pedido informa de que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. Con la prueba de 30 días, el reembolso del kit y del primer mes exige cancelar y devolver el equipo en buen estado dentro de los 30 días. Mira la [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+      ]
+    },
+    {
+      "heading": "Cómo usar el enlace",
+      "paragraphs": [
+        "Abre el enlace e introduce la dirección donde vas a instalar la antena. Elige el plan, comprueba el referido aplicado y guarda la oferta que aparece antes de pagar.",
+        "En la [página del referido de Starlink](/es/coupons/starlink) están el enlace y las reglas del programa."
+      ]
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿Tiene Starlink Black Friday? En España, el pedido oficial mostraba un 30 % de descuento en los planes de servicio, con el kit en alquiler a 0 €, en zonas seleccionadas.",
+        "¿Se suma el referido a la oferta? Comprueba en el pedido de tu dirección si aparecen las dos. La recompensa depende de la elegibilidad y de dos ciclos mensuales completos.",
+        "¿Cuánto se cobra en el pedido? En el pedido de Madrid que consultamos, el total a pagar hoy era de 19 €. Comprueba en tu pantalla qué incluye ese total.",
+        "¿Cuánto cuestan el Residencial y el Max al mes? En esa consulta, 24,50 € el Residencial 100 Mbps y 45,50 € el Max. Cambian según la dirección.",
+        "¿Hasta cuándo vale la oferta? El pedido pide contratar como muy tarde el 30 de noviembre. Introduce tu dirección para ver si está disponible."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "El pedido se abre en el sitio de Starlink. Comprueba el precio del plan, el kit y el valor del referido antes de pagar.",
+    "label": "Consultar la oferta en mi dirección",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial, sin completar la compra. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-enlace-referido-como-funciona"
+    },
+    {
+      "slug": "starlink-vale-la-pena"
+    },
+    {
+      "slug": "starlink-permanencia-cancelar"
+    }
+  ],
+  "pros": [],
+  "cons": []
+}

@@ -1,0 +1,147 @@
+{
+  "id": 1169,
+  "slug": "starlink-black-friday-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "starlink-black-friday",
+  "title": "Starlink 黑色星期五 2026：首單怎麼算，推薦獎勵何時入帳",
+  "seoTitle": "Starlink 黑色星期五 2026：首單怎麼算",
+  "type": "黑色星期五指南",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "看 Starlink 黑色星期五優惠如何落在你的地址、推薦獎勵何時入帳，以及用訂購頁的金額算出首單淨成本。",
+  "metaDescription": "Starlink 黑色星期五優惠依地址而異。看首單怎麼算、推薦獎勵何時入帳，以及如何在訂購頁確認。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-black-friday-zh-hant-capa.webp",
+  "imageAlt": "Starlink 天線架在黃昏時分的小木屋屋頂上。封面文字為「黑色星期五 2026」與「依地址查看優惠」。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "首單淨成本等於訂購頁當天應付總額，減去推薦畫面顯示的獎勵。獎勵要等服務完整計費兩個月後才發放，在那之前，到期的月費仍要照付。只有把你地址的金額代入才知道成本是否接近零，因為優惠依地址而異。"
+      ]
+    },
+    {
+      "heading": "首單怎麼算",
+      "paragraphs": [
+        "折扣比例、適用月數和設備費用因市場及服務地址而異。請先在 Starlink 官網輸入安裝地址，確認當地是否提供服務，再查看有沒有適用的優惠和申請期限。",
+        "先把當天應付總額和獎勵入帳前到期的月費加起來。已列在當天總額的費用只算一次。如果訂購符合推薦資格，再扣除可獲得的獎勵。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "要記下的項目",
+          "在訂購頁哪裡看"
+        ],
+        "rows": [
+          [
+            "當天應付總額",
+            "訂購頁的當天應付總額"
+          ],
+          [
+            "硬體是租賃還是購買",
+            "設備一欄的費用與取消條件"
+          ],
+          [
+            "月費與優惠期",
+            "所選方案旁的價格說明"
+          ],
+          [
+            "推薦獎勵金額",
+            "推薦已套用的提示"
+          ],
+          [
+            "優惠截止日",
+            "橫幅與訂購頁的活動說明"
+          ]
+        ],
+        "caption": "以你自己地址的訂購頁為準。"
+      },
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink 標準天線與路由器",
+          "caption": "Starlink 天線與路由器。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      ]
+    },
+    {
+      "heading": "訂購頁怎麼看",
+      "paragraphs": [
+        "開啟連結，輸入要安裝天線的地址，選擇方案，再找推薦已套用的提示。確認提示出現後，再查看獎勵金額與優惠說明。",
+        "從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結，並看該頁的計畫規則。"
+      ]
+    },
+    {
+      "heading": "推薦他人的獎勵",
+      "paragraphs": [
+        "訂閱之後，你也可以推薦別人。推薦人獲得同樣的金額，形式為現金或服務抵免。被推薦的人需要完成要求的計費週期，獎勵才會發放。",
+        "細節見[推薦連結怎麼用](/zh-hant/reviews/starlink-referral-zh-hant)。實際金額請在你的帳戶中確認。"
+      ]
+    },
+    {
+      "heading": "你的地址適用嗎？",
+      "paragraphs": [
+        "優惠依地址顯示，同一國家的不同地區也可能不同。有些地區標示「僅限部分區域」。換地址重新查一次，看橫幅與訂購頁是否一致。"
+      ]
+    },
+    {
+      "heading": "合約與設備歸還",
+      "paragraphs": [
+        "請在訂購頁確認硬體是租賃或購買、取消時是否須歸還、退回設備的期限，以及哪些費用可退款。",
+        "更多取消規則見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "優惠期結束之後",
+      "paragraphs": [
+        "優惠期結束後，月費通常回到你所在地區的標準價格，這個價格可能調整。更換方案、取消或暫停後促銷價會怎樣，以你自己訂單上的條款為準。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Starlink 有黑色星期五優惠嗎？部分市場及地址有優惠。請在官網輸入安裝地址，查看訂購頁是否顯示活動。",
+        "推薦獎勵能和優惠一起拿嗎？是否同時顯示，請看你地址的訂購頁。獎勵要等符合資格並完整計費兩個月後發放。",
+        "訂購時要付多少？以訂購頁的當天應付總額為準，金額因國家、設備與安裝方式不同。",
+        "硬體有綁約嗎？依地區，硬體可能租賃或購買，請看設備一欄的條款。",
+        "優惠到什麼時候？請以你所在市場的訂購頁為準，分別查看申請截止日和優惠價適用多久。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "訂購頁會在 starlink.com 開啟。付款前，先查看你地址的優惠、合約與推薦獎勵。",
+    "label": "查看我的地址的優惠",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-referral-zh-hant"
+    },
+    {
+      "slug": "starlink-worth-it-zh-hant"
+    },
+    {
+      "slug": "starlink-cancel-zh-hant"
+    }
+  ],
+  "pros": [],
+  "cons": []
+}

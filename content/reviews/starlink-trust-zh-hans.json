@@ -1,0 +1,119 @@
+{
+  "id": 1178,
+  "slug": "starlink-trust-zh-hans",
+  "translationKey": "starlink-trust-guide",
+  "locale": "zh-hans",
+  "title": "Starlink 靠谱吗？怎么认出官网，怎么确认卖家",
+  "seoTitle": "Starlink 靠谱吗？官网与防骗",
+  "type": "编辑专题",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "官方网站和 Starlink 的授权零售商名单，能帮你确认在向谁买。看看付款前要核对什么，以及如何分辨其他域名的同名页面。",
+  "metaDescription": "了解如何认出 Starlink 官网、查看授权零售商名单，以及识别用了 Starlink 名字的其他域名的评价页。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-trust-zh-hans-capa.webp",
+  "imageAlt": "固定在木结构支架上的 Starlink 天线。封面问“靠谱吗？”。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Starlink 是 SpaceX 的卫星互联网服务，官方网站是 starlink.com。如果在官网之外买套件，请查看 Starlink 的授权零售商名单，并在付款前确认广告的真正卖家。"
+      ]
+    },
+    {
+      "heading": "Starlink 是谁，谁在卖",
+      "paragraphs": [
+        "Starlink 通过官方网站销售。你要先确认自己是在 starlink.com 的页面里下单。",
+        "[Starlink 值得买吗](/zh-hans/reviews/starlink-worth-it-zh-hans)一文说明如何在你的地址上比较价格、安装和替代方案。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Starlink 标准天线和路由器",
+        "caption": "Starlink 天线和路由器。Starlink 官方照片。",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "如何认出官网",
+      "paragraphs": [
+        "在浏览器里输入 starlink.com。填写资料或付款前，请确认你仍然停留在 starlink.com 之内。",
+        "如果有人要求你通过聊天消息付款，或者绕开订单付款，先通过 Starlink 支持确认，再继续。"
+      ]
+    },
+    {
+      "heading": "哪个是 Starlink 的 Trustpilot 页面",
+      "paragraphs": [
+        "域名是 starlink.com 的页面，名称是“Starlink Development”。Trustpilot 上还有用了相近名字的其他页面，一个对应 ukstarlink.com，一个对应 starlink.om。它们不是 starlink.com。看评价前请先核对页面上的域名。"
+      ]
+    },
+    {
+      "heading": "经销商与电商平台",
+      "paragraphs": [
+        "Starlink 有一份授权零售商名单。即使在知名的电商平台上，也要确认广告的卖家。",
+        "[Starlink 推荐页面](/zh-hans/coupons/starlink)适用于直接在 starlink.com 通过链接下的符合条件的订单，不能补加到零售渠道买的套件上。"
+      ],
+      "links": [
+        {
+          "label": "Starlink 授权零售商名单",
+          "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+        }
+      ]
+    },
+    {
+      "heading": "使用 Starlink 名义的信息",
+      "paragraphs": [
+        "Starlink 的帮助中心有防钓鱼的提示。收到以 Starlink 名义发来的广告或消息时，先到 starlink.com 确认，再付款或提供资料。"
+      ]
+    },
+    {
+      "heading": "Trustpilot 上能看到什么",
+      "paragraphs": [
+        "starlink.com 的页面评分 1.6，共 871 条评价，页面没有被公司认领。完整的数字和常见抱怨见[Starlink 的 Trustpilot 评价解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "买完以后要留什么",
+      "bullets": [
+        "保留订单号、结账时显示的价格和确认邮件。如果有出入，请通过网站或应用联系支持。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "Starlink 靠谱吗？Starlink 是 SpaceX 的卫星互联网服务。请认准官网 starlink.com。",
+        "Starlink 的官方网站是什么？是 starlink.com。付款前确认你仍然在这个域名里。",
+        "怎么确认卖家是授权的？查看 Starlink 的授权零售商名单，并在付款前确认广告的卖家。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-trustpilot-zh-hans"
+    },
+    {
+      "slug": "starlink-referral-zh-hans"
+    },
+    {
+      "slug": "starlink-worth-it-zh-hans"
+    }
+  ]
+}

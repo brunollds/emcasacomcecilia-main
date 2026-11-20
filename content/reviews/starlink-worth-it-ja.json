@@ -1,0 +1,173 @@
+{
+  "id": 1158,
+  "slug": "starlink-worth-it-ja",
+  "translationKey": "starlink-vale-a-pena",
+  "locale": "ja",
+  "title": "Starlinkは買う価値がある？ 費用の見方と、向いている人",
+  "seoTitle": "Starlinkは買う価値がある？ 費用と向き不向き",
+  "type": "購入ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Starlinkの月額とキットの費用を、自宅に届く回線と比べる方法を紹介します。住所ごとの価格の見方、解約の条件、設置場所の確認方法もまとめました。",
+  "metaDescription": "Starlinkは買う価値がある？ 東京の注文画面の価格、レンタルキット、向いている人と、光回線や4Gのほうが合う場合を整理します。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-worth-it-ja-capa.webp",
+  "imageAlt": "山を背景に、家の軒先に取り付けられたStarlinkのアンテナ。表紙には「買う価値はある？」と「自宅のインターネット」と書かれています。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "安定した回線が届かない家や別荘では、Starlinkは選択肢になります。すでに信頼できる光回線があるなら、乗り換える前に費用を比べてください。月額とキットの費用を足し、住所ごとの価格と契約の条件を確認し、アンテナを置ける場所はStarlinkのアプリで調べます。"
+      ]
+    },
+    {
+      "heading": "費用はいくらになるか",
+      "paragraphs": [
+        "11月20日に、東京駅の住所で公開の注文画面を読みました。Starlinkのトップページには、サービスプランとキット本体が50%オフになるオファーが11月30日まで表示され、東京駅の住所の注文画面にはホームとトラベル向けプランの50%オフが出ていました。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "東京駅の住所",
+          "表示された内容"
+        ],
+        "rows": [
+          [
+            "ホームプランの月額",
+            "3,550円"
+          ],
+          [
+            "ROAMの月額（トップページ）",
+            "3,460円"
+          ],
+          [
+            "キットの初期費用",
+            "0円（レンタル）"
+          ],
+          [
+            "キットの月額料金",
+            "0円"
+          ],
+          [
+            "本日のお支払い額",
+            "3,000円"
+          ]
+        ],
+        "caption": "公式のトップページと注文画面の表示。50%オフの期間は画面にありませんでした。特典、追加の設置費用、税金は含みません。"
+      },
+      "postParagraphs": [
+        "50%オフが何か月続くかが分からないため、12か月の総額は計算していません。あなたの注文画面で、割引の期間と、割引後の月額を確認してください。",
+        "費用を見積もるときは、まず特典を引かずに計算します。紹介リンクの特典額は国で変わり、注文画面に表示されます。[Starlinkの紹介ページ](/ja/coupons/starlink)を参照してください。"
+      ]
+    },
+    {
+      "heading": "アンテナの設置場所",
+      "paragraphs": [
+        "購入の前に、空が大きく開けた場所を選びます。視界に枝や屋根があると、接続が途切れることがあります。アンテナを置く予定の場所でStarlinkのアプリを使い、障害物の確認をしてください。"
+      ],
+      "links": [
+        {
+          "label": "アプリで障害物を確認する方法",
+          "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "屋根にStarlinkのアンテナが設置された家",
+        "caption": "空が開けた屋根に設置したアンテナ。写真：Starlink",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "光回線や4Gと比べるとき",
+      "paragraphs": [
+        "すでに安定した光回線が届くなら、各社の工事費、月額、契約期間の条件を足して比べます。4Gを選ぶ場合は、必要な機器の価格を加え、データ容量が家庭に足りるかを確認します。"
+      ]
+    },
+    {
+      "heading": "速度とゲーム",
+      "paragraphs": [
+        "住宅向けのプランはダウンロード速度を掲げていますが、実際の速度は場所と時間帯で変わります。オンラインゲームでは、応答時間と途切れも見てください。",
+        "Starlinkは仕様で、地上での一般的な応答時間を25〜60msと公表しています。これは同社の目安で、私たちの注文住所での測定ではありません。"
+      ],
+      "links": [
+        {
+          "label": "Starlinkの性能仕様",
+          "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+        }
+      ]
+    },
+    {
+      "heading": "契約と解約",
+      "paragraphs": [
+        "読んだ注文画面では、キットは初期費用0円、月額0円のレンタルで、キャンセル時に返却する条件でした。30日以内にキャンセルして返却すると、キットと最初の月の料金が返金されます。詳しくは[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)を見てください。"
+      ]
+    },
+    {
+      "heading": "利用者の不満",
+      "paragraphs": [
+        "StarlinkのTrustpilotのページは、スコア1.6、871件のレビューです。サポートにつながりにくいことや、毎月の請求の増額が目立ちます。注文画面のオファーを控えて、請求書と見比べてください。[Trustpilotの読み方](/ja/reviews/starlink-trustpilot-ja)も参考にしてください。"
+      ]
+    },
+    {
+      "heading": "私たちの体験",
+      "paragraphs": [
+        "私たちはStarlinkを契約しましたが、まだ使った体験はありません。速度、設置、日々の品質は、実際に使えるようになってから、この記事を更新して書きます。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "都市部でもStarlinkは買う価値がありますか？ 住所に安定した光回線が届くなら、乗り換える前に、工事費、月額、契約の条件を比べてください。",
+        "Starlinkは光回線より良いですか？ 良い光回線がない場所なら、Starlinkの価格を住所で確認し、アンテナを置ける開けた空があるか調べる価値があります。どちらも使えるなら、住所での安定性と費用を比べてください。",
+        "Starlinkはゲームに向いていますか？ あなたの住所で応答時間と途切れを試してください。Starlinkが公表する一般的な範囲は、全体の目安です。",
+        "Starlinkの月額はいくらですか？ 東京駅の住所で読んだ画面では、ホームプランが月額3,550円でした。月額は住所で変わります。"
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "住所に良い光回線がなく、4Gも弱いなら、候補に入れてください。",
+      "月額が住所で変わることを理解し、注文画面の条件を支払いの前に確認できるなら、向いています。"
+    ],
+    "skipIf": [
+      "住所に安定した光回線があり、すでに費用や契約に不満がないなら、見送って構いません。",
+      "速い応答が必要なオンラインゲームが目的なら、私たちが読んだページに応答時間の実測がなく、判断材料が足りません。"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Starlinkのサイトで住所を入力し、支払いの前にプラン、キット、月額を確認してください。",
+    "label": "住所でプランを見る",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "公式サイトの注文画面で価格を確認しました。購入は完了していません。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-cancel-ja"
+    },
+    {
+      "slug": "starlink-black-friday-ja"
+    },
+    {
+      "slug": "starlink-referral-ja"
+    }
+  ]
+}

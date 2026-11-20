@@ -1,0 +1,129 @@
+{
+  "id": 1147,
+  "slug": "starlink-vertrag-kuendigen",
+  "translationKey": "starlink-fidelidade",
+  "locale": "de",
+  "title": "Hat Starlink eine Vertragslaufzeit? Kit-Miete, Kündigung und die 30 Tage zur Rückgabe",
+  "seoTitle": "Starlink kündigen: Kit-Rückgabe und 30 Tage",
+  "type": "Anleitung",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Das Kit ist bei der Bestellung in Berlin gemietet und geht bei Kündigung zurück. Sehen Sie, wie Sie im Konto kündigen, was die 30 Tage bedeuten und worauf Sie achten sollten.",
+  "metaDescription": "Starlink kündigen in Deutschland: Das Kit ist zur Miete und geht zurück. Die 30 Tage für die Erstattung und die Schritte im Konto.",
+  "publishedAt": "20. November 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-vertrag-kuendigen-capa.webp",
+  "imageAlt": "Starlink-Antenne im Schnee vor einer Hütte, in der jemand arbeitet. Auf dem Titelbild steht «Vertrag und Kündigung».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Schnelle Antwort",
+      "paragraphs": [
+        "Die Bestellseite für Berlin zeigte das Kit als Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat, und bei Kündigung muss es zurückgeschickt werden. Starlink nennt die Erstattung von Kit und erstem Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückgeben. Eine Mindestvertragslaufzeit oder eine Gebühr für die vorzeitige Kündigung haben wir in den gelesenen Angaben nicht gefunden, prüfen Sie deshalb Ihre Bestellung."
+      ]
+    },
+    {
+      "heading": "Kit zur Miete statt Kauf",
+      "paragraphs": [
+        "Auf der Bestellseite, die wir am 20. November 2026 für Berlin gelesen haben, stand beim Kit eine Vorauszahlung von 0 € und eine monatliche Kit-Gebühr von 0 €. Dazu der Hinweis, dass Sie die gemietete Starlink-Hardware bei Kündigung zurückgeben müssen.",
+        "Für andere Adressen oder Tarife haben wir die Bedingungen nicht gelesen. Die Bestellung für Ihre Adresse zeigt, welche gelten."
+      ]
+    },
+    {
+      "heading": "Gibt es eine Mindestlaufzeit?",
+      "paragraphs": [
+        "In den Angaben der Bestellseite für Berlin haben wir keine Mindestvertragslaufzeit und keine Gebühr für den vorzeitigen Ausstieg gefunden. Das ist keine Zusage von Starlink. Lesen Sie die Zusammenfassung Ihrer Bestellung, bevor Sie abschließen, und fragen Sie den Support, wenn etwas offen bleibt."
+      ]
+    },
+    {
+      "heading": "Die 30 Tage zur Rückgabe",
+      "paragraphs": [
+        "Die Bestellseite nennt eine Frist von 30 Tagen. Um die Erstattung von Kit und erstem Monat unter den Bedingungen des Angebots zu erhalten, kündigen Sie den Dienst und senden das Kit innerhalb dieser Frist unbeschädigt zurück.",
+        "Die Kündigung des Abonnements stoppt die künftigen Abbuchungen im Rahmen des Abrechnungszyklus. Klären Sie mit dem Starlink-Support, wie Sie auch die Rückgabe des Kits einleiten, und bewahren Sie den Versandbeleg auf.",
+        "Der Link der [Starlink-Empfehlung](/de/coupons/starlink) führt zur selben Bestellung auf der offiziellen Seite. Die Rückgabebedingungen prüfen Sie dort, bevor Sie bezahlen."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Teile des Starlink-Standard-Kits: Antenne, Router, Halterung und Kabel",
+        "caption": "Das Kit, das bei der Rückgabe zurückgeht: Antenne, Router, Halterung und Kabel. Foto von Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "So kündigen Sie",
+      "paragraphs": [
+        "Öffnen Sie auf der Startseite Ihres Starlink-Kontos „Ihr Abonnement“. Wählen Sie neben dem Tarif „Verwalten“ und dann „Dienst kündigen“.",
+        "Wenn Sie einen neuen Zyklus vermeiden wollen, nehmen Sie die Änderung vor 00:00 Uhr UTC am Abrechnungstag vor. Im November entspricht das 01:00 Uhr in Berlin.",
+        "Laut Hilfecenter bleibt der Dienst bis zum Ende des bezahlten Zeitraums aktiv. Überlegen Sie es sich vorher anders, suchen Sie auf der Startseite nach „Fortsetzen“. Ob eine Reaktivierung nach der Kündigung möglich ist, hängt von der Verfügbarkeit im Gebiet ab."
+      ],
+      "bullets": [
+        "Melden Sie sich im Konto auf der Starlink-Seite an und wählen Sie auf der Startseite „Ihr Abonnement“.",
+        "Klicken Sie neben dem Tarif auf „Verwalten“ und dann auf „Dienst kündigen“.",
+        "Die Abrechnung folgt der UTC-Zeit. Die Änderung muss vor 00:00 Uhr UTC am Abrechnungstag erfolgen, sonst gilt sie erst für den nächsten Zyklus.",
+        "Der Dienst bleibt bis zum bereits bezahlten Datum aktiv, und das Abonnement fällt aus den künftigen Abbuchungen.",
+        "Bevor die Änderung greift, können Sie sich unter „Fortsetzen“ umentscheiden, im Hinweis „Ihr Servicetarif endet am …“ oben auf der Startseite.",
+        "Nach der Kündigung ist eine Reaktivierung möglicherweise nicht sofort möglich. Sie hängt von der Verfügbarkeit in Ihrem Gebiet ab."
+      ],
+      "postParagraphs": [
+        "Mit der Kündigung des Dienstes ist das Kit noch nicht zurückgegeben. Für die Rückgabe innerhalb von 30 Tagen gilt die oben beschriebene eigene Regel."
+      ],
+      "links": [
+        {
+          "label": "Wie kündige ich den Dienst? (Hilfecenter von Starlink)",
+          "href": "https://starlink.com/de/support/article/9d43bef2-36fe-bcd1-9f6a-e0304e9cf22e"
+        }
+      ]
+    },
+    {
+      "heading": "Aktionspreis und Tarifwechsel",
+      "paragraphs": [
+        "Der Aktionspreis für Berlin galt für 3 Monate. Was bei einer Kündigung, einem Tarifwechsel oder einer Sperrung mit dem Aktionspreis passiert, haben wir für Deutschland nicht gelesen. Fragen Sie das vor der Änderung bei Starlink nach."
+      ]
+    },
+    {
+      "heading": "Wenn weiter abgebucht wird",
+      "paragraphs": [
+        "Wird weiter abgebucht, eröffnen Sie bei Starlink eine Anfrage mit der Bestellnummer, dem Datum der Kündigung und der Vorgangsnummer, falls vorhanden.",
+        "Was Kunden zum Thema Rechnung und Support berichten, steht in der [Auswertung der Trustpilot-Bewertungen](/de/reviews/starlink-trustpilot-bewertungen). Erkennen Sie eine Abbuchung nicht, wenden Sie sich auch an Ihre Bank."
+      ]
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Hat Starlink eine Vertragslaufzeit? In den gelesenen Angaben der Bestellseite für Berlin haben wir keine gefunden. Prüfen Sie die Zusammenfassung Ihrer Bestellung.",
+        "Was kostet es, Starlink zu kündigen? Eine Gebühr für die Kündigung haben wir in den gelesenen Angaben nicht gefunden. Das Kit muss bei Kündigung zurückgeschickt werden.",
+        "Kann ich Starlink jederzeit kündigen? Die Kündigung geht über das Konto. Der Dienst bleibt bis zum Ende des bezahlten Zeitraums aktiv.",
+        "Muss ich das Kit zurückgeben? Die Bestellseite für Berlin zeigte das Kit zur Miete. Bei Kündigung muss es zurückgeschickt werden.",
+        "Kann ich Starlink innerhalb von 30 Tagen zurückgeben? Das Angebot nennt die Erstattung von Kit und erstem Monat, wenn der Dienst gekündigt wird und das Kit innerhalb von 30 Tagen unbeschädigt zurückgeht."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Mit der Bestellseite und dem Hilfecenter von Starlink erstellt. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+  "relatedArticles": [
+    {
+      "slug": "lohnt-sich-starlink"
+    },
+    {
+      "slug": "starlink-black-friday-angebot"
+    },
+    {
+      "slug": "starlink-trustpilot-bewertungen"
+    }
+  ]
+}

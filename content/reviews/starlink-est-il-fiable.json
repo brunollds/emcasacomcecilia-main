@@ -1,0 +1,119 @@
+{
+  "id": 1142,
+  "slug": "starlink-est-il-fiable",
+  "translationKey": "starlink-trust-guide",
+  "locale": "fr",
+  "title": "Starlink est-il fiable ? Reconnaître le site officiel et vérifier qui vend",
+  "seoTitle": "Starlink est-il fiable ? Site officiel et arnaques",
+  "type": "Éditorial",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Le site officiel de Starlink et la liste des revendeurs autorisés montrent à qui vous achetez. Voyez ce qu'il faut vérifier avant de payer le kit ou l'abonnement.",
+  "metaDescription": "Comment reconnaître le site officiel de Starlink, éviter l'hameçonnage et consulter la liste des revendeurs autorisés avant de payer.",
+  "publishedAt": "20 novembre 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-est-il-fiable-capa.webp",
+  "imageAlt": "Antenne Starlink installée sur un support fixé à une structure en bois. La couverture demande « Est-il fiable ? ».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Starlink est le service d'internet par satellite de SpaceX, et son site officiel est starlink.com. Si vous achetez le kit ailleurs, consultez la liste des revendeurs autorisés de Starlink et vérifiez qui est le vendeur de l'annonce avant de payer."
+      ]
+    },
+    {
+      "heading": "Qui est Starlink et qui vend",
+      "paragraphs": [
+        "Starlink vend son service et son matériel sur son site officiel. Le profil Trustpilot de l'entreprise pointe vers le domaine starlink.com.",
+        "Notre analyse [Starlink vaut-il le coup ?](/fr/reviews/starlink-vaut-il-le-coup) montre comment comparer prix, installation et alternatives à votre adresse."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antenne Starlink Standard et routeur",
+        "caption": "L'antenne et le routeur Starlink. Photo Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Comment reconnaître le site officiel",
+      "paragraphs": [
+        "Tapez starlink.com dans le navigateur. Avant de saisir vos données ou de payer, vérifiez que vous êtes toujours dans le domaine starlink.com.",
+        "Si on vous demande de payer par message ou en dehors de la commande, vérifiez auprès du support de Starlink avant d'aller plus loin."
+      ]
+    },
+    {
+      "heading": "Messages qui utilisent le nom Starlink",
+      "paragraphs": [
+        "Le centre d'aide de Starlink publie un avertissement sur l'hameçonnage. Si vous recevez une annonce ou un message au nom de Starlink, confirmez sur starlink.com avant de payer ou de communiquer vos données. Ouvrez toujours le site en tapant l'adresse vous-même."
+      ]
+    },
+    {
+      "heading": "Revendeurs et places de marché",
+      "paragraphs": [
+        "Starlink tient une liste de revendeurs autorisés. Même sur une place de marché connue, vérifiez le vendeur de l'annonce.",
+        "Le [parrainage Starlink](/fr/coupons/starlink) s'applique aux commandes éligibles passées via le lien directement sur starlink.com. On ne peut pas l'ajouter à un kit acheté chez un revendeur."
+      ],
+      "links": [
+        {
+          "label": "Liste des revendeurs autorisés par Starlink",
+          "href": "https://starlink.com/fr/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+        }
+      ]
+    },
+    {
+      "heading": "Les profils qui portent le même nom",
+      "paragraphs": [
+        "Sur Trustpilot, d'autres profils portent le nom Starlink, avec les domaines ukstarlink.com et starlink.om. Ce ne sont pas des profils de starlink.com. Pour juger l'opérateur, consultez celui du domaine officiel."
+      ]
+    },
+    {
+      "heading": "Ce que montre Trustpilot",
+      "paragraphs": [
+        "Le profil de starlink.com n'est pas revendiqué par l'entreprise et affiche une note de 1,6 sur 5. Les chiffres, les plaintes les plus fréquentes et les limites de cette lecture sont dans notre [analyse de Trustpilot](/fr/reviews/starlink-trustpilot-avis)."
+      ]
+    },
+    {
+      "heading": "Que garder après la commande",
+      "bullets": [
+        "Gardez le numéro de commande, le prix affiché au paiement et l'e-mail de confirmation. En cas d'écart, contactez le support depuis le site ou l'application."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Starlink est-il fiable ? Starlink est le service d'internet par satellite de SpaceX. Vérifiez que vous êtes sur starlink.com et lisez le profil du domaine officiel sur Trustpilot.",
+        "Quel est le site officiel de Starlink ? C'est starlink.com. Vérifiez le domaine avant de saisir vos données ou de payer.",
+        "Comment savoir si un vendeur est autorisé ? Consultez la liste des revendeurs de Starlink et vérifiez le vendeur de l'annonce avant de payer."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Rédigé d'après le site officiel, le centre d'aide et les profils publics sur Trustpilot. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-trustpilot-avis"
+    },
+    {
+      "slug": "starlink-lien-parrainage"
+    },
+    {
+      "slug": "starlink-vaut-il-le-coup"
+    }
+  ]
+}

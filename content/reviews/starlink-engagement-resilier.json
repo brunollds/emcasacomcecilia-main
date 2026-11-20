@@ -1,0 +1,116 @@
+{
+  "id": 1141,
+  "slug": "starlink-engagement-resilier",
+  "translationKey": "starlink-fidelidade",
+  "locale": "fr",
+  "title": "Starlink a-t-il un engagement ? Kit loué, résiliation et les 30 jours pour le renvoyer",
+  "seoTitle": "Starlink : engagement, résiliation et retour du kit",
+  "type": "Guide pratique",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Le kit Starlink est loué et doit être renvoyé si vous annulez. Voyez comment résilier depuis le compte, la date limite de facturation et les 30 jours pour être remboursé.",
+  "metaDescription": "Starlink : kit loué à renvoyer en cas d'annulation, remboursement du kit et du premier mois sous 30 jours, et comment résilier depuis votre compte.",
+  "publishedAt": "20 novembre 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-engagement-resilier-capa.webp",
+  "imageAlt": "Antenne Starlink dans la neige devant un chalet où une personne travaille. La couverture indique « Engagement et résiliation ».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Sur la commande lue pour une adresse à Paris, le matériel Starlink est loué : 0 € au départ, 0 € par mois, à renvoyer si vous annulez le service. La commande prévoit le remboursement intégral du kit et du premier mois si vous annulez et renvoyez le kit en bon état dans les 30 jours. Nous n'avons relevé ni durée d'engagement ni frais de résiliation dans ce que nous avons lu, alors cherchez-les dans le récapitulatif de votre commande."
+      ]
+    },
+    {
+      "heading": "Ce que dit la commande",
+      "paragraphs": [
+        "Sur la page de commande que nous avons lue le 20 novembre 2026, le matériel apparaît comme loué. La ligne du kit indique un coût initial de 0 € et des frais mensuels de 0 €, avec l'obligation de retourner le matériel si vous annulez.",
+        "Nous n'avons pas relevé de durée d'engagement ni de pénalité de sortie sur cette page. Cela ne vaut que pour ce que nous avons lu, et la condition de votre commande peut différer : relisez le récapitulatif avant de confirmer."
+      ]
+    },
+    {
+      "heading": "Les 30 jours pour renvoyer",
+      "paragraphs": [
+        "Pour demander le remboursement du kit et du premier mois dans les conditions de l'offre, annulez le service et renvoyez le matériel en bon état dans les 30 jours.",
+        "Annuler l'abonnement arrête les prélèvements à venir selon le cycle. Avec le support de Starlink, vérifiez comment lancer aussi le retour du kit et gardez la preuve d'expédition.",
+        "Le [lien de parrainage Starlink](/fr/coupons/starlink) ouvre la même commande sur le site officiel. Vérifiez la politique de retour sur le récapitulatif avant de payer."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Éléments du kit Starlink Standard : antenne, routeur, support et câbles",
+        "caption": "Le matériel à renvoyer : antenne, routeur, support et câbles. Photo Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Comment résilier",
+      "paragraphs": [
+        "Sur la page d'accueil de votre compte Starlink, ouvrez « Votre abonnement ». À côté du forfait, choisissez « Gérer », puis « Annuler le service ». Les intitulés peuvent varier légèrement selon la langue de l'interface.",
+        "Pour éviter un nouveau cycle, faites la démarche avant 00 h 00 UTC le jour de facturation. À Paris en novembre, cela correspond à 1 h du matin ce jour-là.",
+        "D'après le centre d'aide, le service reste actif jusqu'à la fin de la période payée. Si vous changez d'avis avant la fin, cherchez « Reprendre » sur la page d'accueil. La réactivation après une annulation dépend de la disponibilité dans la zone."
+      ],
+      "bullets": [
+        "Connectez-vous à votre compte sur le site de Starlink et, sur la page « Accueil », sélectionnez « Votre abonnement ».",
+        "À côté du forfait, cliquez sur « Gérer », puis sur « Annuler le service ».",
+        "La facturation suit l'heure UTC. Le changement doit être fait avant 00 h 00 UTC le jour de facturation, sinon il ne s'applique qu'au cycle suivant.",
+        "Le service reste actif jusqu'à la date déjà payée, et aucun prélèvement ne suit.",
+        "Tant que le changement n'est pas effectif, vous pouvez y renoncer avec « Reprendre », dans l'alerte en haut de la page « Accueil ».",
+        "Après une annulation, la réactivation immédiate n'est pas toujours possible : elle dépend de la disponibilité dans votre zone."
+      ],
+      "postParagraphs": [
+        "Annuler le service ne lance pas le retour du kit. Le retour sous 30 jours a sa propre règle, décrite plus haut."
+      ],
+      "links": [
+        {
+          "label": "Comment annuler le service ? (centre d'aide de Starlink)",
+          "href": "https://starlink.com/fr/support/article/9d43bef2-36fe-bcd1-9f6a-e0304e9cf22e"
+        }
+      ]
+    },
+    {
+      "heading": "Si le prélèvement continue",
+      "paragraphs": [
+        "Si la facturation continue, ouvrez une demande auprès de Starlink avec le numéro de commande, la date de l'annulation et le numéro de dossier, s'il y en a un. Voyez aussi [ce que disent les avis sur Trustpilot](/fr/reviews/starlink-trustpilot-avis). Si vous ne reconnaissez pas la transaction, contactez aussi l'émetteur de votre carte ou votre banque."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Starlink a-t-il un engagement ? Sur la commande lue pour une adresse à Paris, nous n'avons relevé aucune durée d'engagement. Vérifiez le récapitulatif de votre commande avant de payer.",
+        "Faut-il renvoyer le matériel Starlink ? Oui. Le kit est loué, et la commande demande de le retourner si vous annulez le service.",
+        "Peut-on annuler Starlink à tout moment ? La demande se fait depuis le compte. Pour éviter un nouveau cycle, faites-la avant 00 h 00 UTC le jour de facturation.",
+        "Peut-on rendre Starlink sous 30 jours ? La commande prévoit le remboursement du kit et du premier mois si le service est annulé et le kit renvoyé en bon état dans les 30 jours.",
+        "Que se passe-t-il à la date de fin du service ? Le service reste actif jusqu'à la fin de la période déjà payée."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Rédigé d'après la page de commande et le centre d'aide de Starlink. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-vaut-il-le-coup"
+    },
+    {
+      "slug": "starlink-black-friday-offre"
+    },
+    {
+      "slug": "starlink-trustpilot-avis"
+    }
+  ]
+}

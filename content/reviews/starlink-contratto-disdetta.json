@@ -1,0 +1,121 @@
+{
+  "id": 1153,
+  "slug": "starlink-contratto-disdetta",
+  "translationKey": "starlink-fidelidade",
+  "locale": "it",
+  "title": "Starlink ha un contratto? Kit a noleggio, 30 giorni per restituire e come annullare",
+  "seoTitle": "Starlink ha un contratto? Disdetta e rimborso",
+  "type": "Guida pratica",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Vedi cosa prevede l'ordine italiano: nessun contratto, kit a noleggio da restituire, 30 giorni di prova con rimborso e i passaggi per annullare l'abbonamento dall'account.",
+  "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dal tuo account.",
+  "publishedAt": "20 novembre 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-contratto-disdetta-capa.webp",
+  "imageAlt": "Antenna Starlink sulla neve davanti a un chalet con una persona che lavora. La copertina dice «Contratto e disdetta».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Risposta rapida",
+      "paragraphs": [
+        "L'ordine consultato a Milano riportava «Nessun contratto». Il kit a noleggio va restituito se disdici il servizio. L'ordine descrive una prova di 30 giorni con rimborso del kit e del primo mese, se annulli e restituisci l'attrezzatura senza danni entro il termine previsto."
+      ]
+    },
+    {
+      "heading": "Quando c'è un vincolo",
+      "paragraphs": [
+        "Nell'ordine per un indirizzo di Milano, letto il 20 novembre 2026, non compariva nessun vincolo contrattuale. L'ordine diceva «Nessun contratto». Il kit risultava a noleggio, con 0 € iniziali e 0 € al mese.",
+        "Le condizioni possono cambiare con il paese e con l'offerta. Controlla il riepilogo del tuo ordine prima di confermare e non dare per scontato che valga lo stesso per ogni indirizzo."
+      ]
+    },
+    {
+      "heading": "La restituzione del kit",
+      "paragraphs": [
+        "L'ordine dice che il kit è a noleggio e che, se annulli il servizio, devi restituirlo. Fai attenzione alla tempistica e conserva la ricevuta di spedizione.",
+        "Il link dell'[invito Starlink](/it/coupons/starlink) porta allo stesso ordine sul sito ufficiale. Le condizioni di restituzione si controllano lì, prima di pagare."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Componenti del kit Starlink Standard: antenna, router, base e cavi",
+        "caption": "Il kit che torna indietro: antenna, router, base e cavi. Foto di Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "I 30 giorni per il rimborso",
+      "paragraphs": [
+        "L'ordine indica un termine di 30 giorni. Per chiedere il rimborso del kit e del primo mese nelle condizioni dell'offerta, annulla il servizio e restituisci l'apparecchio senza danni entro quel termine.",
+        "Annullare l'abbonamento ferma gli addebiti futuri secondo il ciclo, ma il kit va restituito a parte. Chiedi all'assistenza di Starlink come avviare anche il reso."
+      ]
+    },
+    {
+      "heading": "Come annullare",
+      "paragraphs": [
+        "Nella schermata iniziale del tuo account Starlink apri «Il tuo abbonamento». Accanto al piano scegli «Gestisci» e poi «Annulla servizio». I nomi esatti possono cambiare con la lingua dell'app.",
+        "Per evitare un nuovo ciclo, fai la modifica prima delle 00:00 UTC del giorno di fatturazione. In Italia, d'inverno, sono le 01:00 di quel giorno. Secondo il centro assistenza, il servizio resta attivo fino alla fine del periodo pagato."
+      ],
+      "bullets": [
+        "Accedi al tuo account sul sito di Starlink e, nella pagina iniziale, apri «Il tuo abbonamento».",
+        "Accanto al piano, scegli «Gestisci» e poi «Annulla servizio».",
+        "La fatturazione segue l'ora UTC. La modifica deve arrivare prima delle 00:00 UTC del giorno di fatturazione, altrimenti vale solo per il ciclo successivo.",
+        "Il servizio resta attivo fino alla data già pagata e l'abbonamento esce dagli addebiti futuri.",
+        "Se cambi idea prima della fine, cerca «Riprendi» nell'avviso in cima alla pagina iniziale.",
+        "Dopo l'annullamento, potrebbe non essere possibile riattivare subito. La riattivazione dipende dalla disponibilità nella tua zona."
+      ],
+      "postParagraphs": [
+        "L'annullamento del servizio e la restituzione del kit sono due passaggi diversi. Fai attenzione a completarli entrambi nei 30 giorni se vuoi il rimborso."
+      ]
+    },
+    {
+      "heading": "Prezzo promozionale e cambio di piano",
+      "paragraphs": [
+        "Cosa succede al prezzo promozionale se cambi piano, annulli o vieni sospeso è scritto nelle condizioni del tuo ordine. Leggile prima di cambiare piano."
+      ]
+    },
+    {
+      "heading": "Se l'addebito continua",
+      "paragraphs": [
+        "Se l'addebito continua, apri una richiesta a Starlink con il numero dell'ordine, la data dell'annullamento e il numero della richiesta, se c'è. Leggi [l'analisi di Trustpilot](/it/reviews/starlink-trustpilot-recensioni) per sapere cosa dicono i clienti dell'assistenza. Se non riconosci la transazione, contatta anche l'emittente della carta o la banca."
+      ]
+    },
+    {
+      "heading": "Domande frequenti",
+      "bullets": [
+        "Starlink ha un contratto? Nell'ordine italiano che abbiamo letto compariva «Nessun contratto», con il kit a noleggio e una prova di 30 giorni.",
+        "Si può annullare Starlink in qualsiasi momento? La richiesta si fa dall'account. Il servizio resta attivo fino alla fine del periodo pagato.",
+        "Devo restituire il kit? Il kit è a noleggio e, se annulli il servizio, va restituito.",
+        "Si può restituire Starlink entro 30 giorni? Sì, secondo l'ordine: se annulli e restituisci il kit senza danni entro 30 giorni, il kit e il primo mese vengono rimborsati.",
+        "Cosa succede dopo l'annullamento? Il servizio resta attivo fino alla data già pagata. Se cambi idea prima, cerca «Riprendi» nella pagina iniziale."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-conviene"
+    },
+    {
+      "slug": "starlink-black-friday-offerta"
+    },
+    {
+      "slug": "starlink-trustpilot-recensioni"
+    }
+  ]
+}

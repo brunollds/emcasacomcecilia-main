@@ -1,0 +1,159 @@
+{
+  "id": 1161,
+  "slug": "starlink-trustpilot-ja",
+  "translationKey": "starlink-reputation",
+  "locale": "ja",
+  "title": "StarlinkのTrustpilot評価：スコア1.6と、多い不満の内容",
+  "seoTitle": "StarlinkのTrustpilot評価と不満の内容",
+  "type": "評判分析",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "starlink.comのTrustpilotページのスコア、レビュー数、評価の内訳、多い不満を確認します。レビューの偏りと、問題があったときの連絡先も紹介します。",
+  "metaDescription": "StarlinkのTrustpilot評価はスコア1.6、レビュー871件。評価の内訳、多い不満、レビューの偏りに注意する理由を解説します。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-trustpilot-ja-capa.webp",
+  "imageAlt": "雷が光る嵐の空の下、屋根に設置されたStarlinkのアンテナ。表紙には「Trustpilot：評価」と書かれています。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "starlink.comのTrustpilotページは、スコア1.6で、871件のレビューがあります。5つ星が17%、1つ星が71%です。このページは会社が管理者として登録しておらず、会社がお客様にレビューを依頼した履歴もないため、全利用者の声を代表しているとは限りません。"
+      ]
+    },
+    {
+      "heading": "スコアと評価の内訳",
+      "paragraphs": [
+        "Trustpilotは、このスコアを「Bad」と表示しています。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "指標",
+          "starlink.comのページ"
+        ],
+        "rows": [
+          [
+            "TrustScore",
+            "1.6（Bad）"
+          ],
+          [
+            "レビュー数",
+            "871件"
+          ],
+          [
+            "5つ星",
+            "17%"
+          ],
+          [
+            "4つ星",
+            "2%"
+          ],
+          [
+            "3つ星",
+            "3%"
+          ],
+          [
+            "2つ星",
+            "7%"
+          ],
+          [
+            "1つ星",
+            "71%"
+          ]
+        ],
+        "caption": "11月20日に読んだTrustpilotのページ。個別のレビューは引用していません。"
+      }
+    },
+    {
+      "heading": "ページの偏りに注意する理由",
+      "paragraphs": [
+        "Trustpilotは、このページを会社が登録していない（Unclaimed）と表示しています。また、会社がお客様にレビューを依頼した履歴がないため、レビューは利用者全体を代表していない可能性がある、と注意しています。",
+        "スコアは、投稿した人の声として読んでください。"
+      ]
+    },
+    {
+      "heading": "どのページがStarlinkか",
+      "paragraphs": [
+        "Trustpilotでは、ウェブサイトにstarlink.comが記載された「Starlink Development」を確認してください。似た名前で別のドメインを載せているページもあります。"
+      ]
+    },
+    {
+      "heading": "多い不満の内容",
+      "paragraphs": [
+        "Trustpilotは、直近355件のレビューについてAIによる要約を表示しています。いちばん多い不満は、チャットボットだけでサポートにつながらないことです。月額の請求の増額と、追加の費用も挙げられています。",
+        "製品と速度の評価は分かれています。接続が速いと評価する声もあります。"
+      ]
+    },
+    {
+      "heading": "契約する人にとっての意味",
+      "paragraphs": [
+        "契約する人は、毎月の請求書を、注文画面で見た価格と比べてください。割引の期間と条件は日本の画面では読めていないので、あなたの注文画面で確認してください。",
+        "契約とキャンセルの条件は、[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)にまとめました。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+        "alt": "木造の家の屋根に取り付けられたStarlinkのアンテナ",
+        "caption": "住宅用のアンテナ。写真：Starlink",
+        "objectFit": "contain",
+        "aspectRatio": 1.8079
+      }
+    },
+    {
+      "heading": "契約の前に",
+      "paragraphs": [
+        "契約の前に、サイトと条件を確認してください。公式サイトと、同じ名前のページの見分け方は、[Starlinkは信頼できるか](/ja/reviews/starlink-trust-ja)にあります。",
+        "契約するなら、リンクと条件は[Starlinkの紹介ページ](/ja/coupons/starlink)にあります。"
+      ]
+    },
+    {
+      "heading": "問題があったときの連絡",
+      "paragraphs": [
+        "Starlinkのサイトかアプリでサポートに連絡し、受付番号を残してください。請求が注文と違うときは、オファーに表示された金額と請求書を送ります。",
+        "ほかの利用者の様子を見たいときは、ドメインがstarlink.comのTrustpilotページを探してください。"
+      ],
+      "links": [
+        {
+          "label": "TrustpilotのStarlink（starlink.com）のページ",
+          "href": "https://www.trustpilot.com/review/starlink.com"
+        }
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "StarlinkのTrustpilotのスコアはいくつですか？ starlink.comのページは、スコア1.6（Bad）、レビュー871件でした。",
+        "どのTrustpilotページを見ればよいですか？ ドメインがstarlink.comのページです。ukstarlink.comやstarlink.omのページは、starlink.comではありません。",
+        "Starlinkへの不満で多いのは何ですか？ Trustpilotの要約では、チャットボットだけでサポートにつながらないこと、月額の増額、追加の費用が挙げられています。",
+        "このスコアは全利用者の声ですか？ 全利用者の声とは限りません。ページは会社が管理者として登録しておらず、会社がお客様にレビューを依頼した履歴もないと、Trustpilotは表示しています。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Trustpilotの公開ページを確認しました。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-trust-ja"
+    },
+    {
+      "slug": "starlink-cancel-ja"
+    },
+    {
+      "slug": "starlink-worth-it-ja"
+    }
+  ]
+}

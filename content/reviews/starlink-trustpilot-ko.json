@@ -1,0 +1,155 @@
+{
+  "id": 1167,
+  "slug": "starlink-trustpilot-ko",
+  "locale": "ko",
+  "translationKey": "starlink-reputation",
+  "title": "스타링크 트러스트파일럿 평점: TrustScore 1.6과 가장 많은 불만",
+  "seoTitle": "스타링크 트러스트파일럿 평점과 불만",
+  "type": "평판 분석",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "starlink.com 프로필의 평점, 리뷰 분포, 최근 리뷰에서 가장 많이 나온 불만을 정리했습니다. 비슷한 이름의 다른 도메인 프로필을 구별하는 방법도 담았습니다.",
+  "metaDescription": "스타링크 트러스트파일럿 평점은 1.6, 리뷰 871건입니다. 별점 분포와 자주 나오는 불만, 다른 도메인 프로필 구별법을 확인하세요.",
+  "publishedAt": "2026년 11월 20일",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-trustpilot-ko-capa.webp",
+  "imageAlt": "폭풍우 치는 하늘 아래 지붕에 설치된 스타링크 안테나와 번개. 표지에는 ‘트러스트파일럿: 평점’이라고 적혀 있습니다.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "빠른 답변",
+      "paragraphs": [
+        "트러스트파일럿의 starlink.com 프로필은 TrustScore 1.6 ‘Bad’에 리뷰 871건이며, 5점이 17%, 1점이 71%입니다. 회사가 고객에게 리뷰를 요청한 기록이 없어 대표성이 낮을 수 있다고 트러스트파일럿이 표시합니다. 이 숫자는 한 플랫폼의 시점 값이니, 가입 전에 본인 주문 화면을 함께 읽으세요."
+      ]
+    },
+    {
+      "heading": "평점과 분포",
+      "paragraphs": [
+        "2026년 11월 20일에 읽은 프로필의 이름은 Starlink Development이고, 회사가 소유를 등록하지 않은 프로필(Unclaimed profile)이며 분류는 인터넷 서비스 제공업체입니다."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "지표",
+          "starlink.com 프로필"
+        ],
+        "rows": [
+          [
+            "TrustScore",
+            "1.6 (Bad)"
+          ],
+          [
+            "리뷰 수",
+            "871건"
+          ],
+          [
+            "별 5개",
+            "17%"
+          ],
+          [
+            "별 4개",
+            "2%"
+          ],
+          [
+            "별 3개",
+            "3%"
+          ],
+          [
+            "별 2개",
+            "7%"
+          ],
+          [
+            "별 1개",
+            "71%"
+          ]
+        ],
+        "caption": "트러스트파일럿 프로필을 읽은 값입니다."
+      }
+    },
+    {
+      "heading": "리뷰를 어떻게 읽을까요",
+      "paragraphs": [
+        "트러스트파일럿은 이 회사가 고객에게 리뷰를 요청한 기록이 없다고 안내합니다. 이런 경우 리뷰는 전체 고객을 대표하지 않을 수 있습니다. 평점은 방향을 보는 참고로 쓰세요."
+      ]
+    },
+    {
+      "heading": "어느 프로필이 스타링크인가요",
+      "paragraphs": [
+        "웹사이트가 starlink.com으로 표시된 Starlink Development 프로필을 보세요. 비슷한 이름의 다른 프로필에는 다른 도메인이 표시됩니다."
+      ]
+    },
+    {
+      "heading": "가장 많이 나온 불만",
+      "paragraphs": [
+        "최근 리뷰 355건을 요약한 트러스트파일럿의 AI 요약에서 가장 흔한 불만은 연결되지 않는 지원(챗봇만 연결)이었습니다. 월 청구 금액 인상과 추가 비용도 언급되었습니다. 제품과 속도는 의견이 엇갈렸고, 연결이 빠르다고 칭찬하는 사람도 있었습니다. 저희는 개별 리뷰를 인용하지 않았습니다."
+      ]
+    },
+    {
+      "heading": "가입하는 사람에게 의미하는 것",
+      "paragraphs": [
+        "가입한다면 청구서를 매달 확인하고, 주문 화면에 나온 가격과 비교하세요. 요금제 변경, 취소, 일시 중지 때 프로모션 가격이 유지되는지는 본인 주문의 약관에서 확인하세요.",
+        "환불과 해지 규정은 [계약과 취소 가이드](/ko/reviews/starlink-cancel-ko)에 있습니다."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+        "alt": "목조 주택 지붕에 설치된 스타링크 안테나",
+        "caption": "주택에 설치된 스타링크 안테나. 스타링크 제공 사진.",
+        "objectFit": "contain",
+        "aspectRatio": 1.8079
+      }
+    },
+    {
+      "heading": "가입 전에",
+      "paragraphs": [
+        "가입 전에 사이트와 조건을 확인하세요. 공식 사이트와 이름을 쓰는 프로필을 구별하는 방법은 [스타링크는 믿을 만한가요?](/ko/reviews/starlink-trust-ko)에 있습니다.",
+        "가입하려면 [스타링크 추천](/ko/coupons/starlink) 페이지에 링크와 프로그램 규정이 있습니다."
+      ]
+    },
+    {
+      "heading": "불만을 제기하려면",
+      "paragraphs": [
+        "스타링크 사이트나 앱에서 문의를 열고 접수 번호를 보관하세요. 청구 금액이 주문과 다르면 오퍼에 나온 금액과 청구서를 함께 보내세요. 평가를 남기고 싶다면 트러스트파일럿의 starlink.com 프로필을 이용하세요."
+      ],
+      "links": [
+        {
+          "label": "트러스트파일럿의 starlink.com 프로필",
+          "href": "https://www.trustpilot.com/review/starlink.com"
+        }
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "스타링크의 트러스트파일럿 평점은 얼마인가요? starlink.com 프로필은 TrustScore 1.6이고 리뷰는 871건입니다.",
+        "어느 프로필을 봐야 하나요? 도메인이 starlink.com인 프로필을 보세요. ukstarlink.com과 starlink.om은 다른 도메인입니다.",
+        "스타링크에 불만을 제기하려면 어떻게 하나요? 사이트나 앱에서 문의를 열고 접수 번호를 보관하세요. 문제가 계속되면 트러스트파일럿에도 남길 수 있습니다."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-trust-ko"
+    },
+    {
+      "slug": "starlink-cancel-ko"
+    },
+    {
+      "slug": "starlink-worth-it-ko"
+    }
+  ]
+}
