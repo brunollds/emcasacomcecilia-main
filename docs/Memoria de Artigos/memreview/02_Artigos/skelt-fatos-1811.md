@@ -130,3 +130,19 @@ O `SKEMCASACOMCECILIA` aplicou **5% sobre o preço da campanha** em todos os car
 - **Com o código a 10% (Bruno, 19/11):** Água R$ 91,73 e Dark R$ 58,46 na campanha; R$ 107,91 e R$ 116,91 na
   tabela. Na campanha a Skelt fica abaixo da Episol (R$ 99,90) mesmo com os 5% do carrinho (R$ 96,82); fora dela, a
   Episol custa menos.
+
+## 8. Flash Sale de 20/11/2026 (e-mail da Skelt aos creators e teste do Bruno)
+
+- **O que o e-mail diz:** 20% OFF em todo o site, brinde Body Splash Mystic Bloom em compras acima de R$ 249 e "o seu
+  cupom entrega ainda mais desconto". O e-mail não dá data de fim nem o percentual do código. A home mostrava a
+  contagem "Aproveite antes que acabe!" terminando por volta das 23h59 de 20/11; o Bruno confirmou: só no dia 20/11.
+- **Teste do Bruno no carrinho (20/11), com o SKEMCASACOMCECILIA:** subtotal R$ 297,80; descontos −R$ 82,80; total
+  R$ 215,00 no Pix e R$ 226,32 no cartão.
+- **Leitura (conta nossa):** no cartão, −R$ 71,48 = 24% sobre o subtotal, o que bate com os 20% da Flash Sale e mais 5% do
+  código aplicados um depois do outro (R$ 297,80 × 0,80 × 0,95 = R$ 226,33). O Pix tira mais 5% (R$ 226,32 × 0,95 =
+  R$ 215,00). O código seguiu com os 5% da campanha (seção da decisão do Bruno de 18/11).
+- **Brinde:** com R$ 297,80 em produtos, o total ficou abaixo de R$ 249 depois dos descontos, então o pedido não levaria o
+  Mystic Bloom: pela Política de Brindes, o mínimo conta o valor final, Pix inclusive. Para passar de R$ 249 com 20% + 5%
+  no cartão, os produtos precisam somar cerca de R$ 328; com o Pix também, cerca de R$ 345 (contas nossas).
+- **Sem artigo nem atualização:** a Flash Sale durou um dia. Só o banner da sessão de campanhas. O artigo
+  `brindes-skelt-black-friday-cupom` já explica que o mínimo conta depois dos descontos.
