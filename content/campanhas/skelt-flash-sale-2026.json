@@ -6,6 +6,7 @@
   "art": {
     "kind": "bag"
   },
+  "endsAt": "2026-11-20T23:59:59-03:00",
   "copy": {
     "pt": {
       "headline": "Flash Sale da Skelt: 20% OFF em todo o site e brinde Body Splash Mystic Bloom",
@@ -13,6 +14,6 @@
       "action": "Ver a campanha"
     }
   },
-  "source": "Guia para creators da Skelt, e-mail do programa repassado pelo Bruno em 20/11/2026 (\"Flash Sale: 20% OFF em todo o site, brinde Body Splash Mystic Bloom em compras acima de R$ 249\"); o aviso não traz data de fim, e a home da loja mostrava um contador até a meia-noite de 20/11",
+  "source": "Guia para creators da Skelt, e-mail do programa repassado pelo Bruno em 20/11/2026 (\"Flash Sale: 20% OFF em todo o site, brinde Body Splash Mystic Bloom em compras acima de R$ 249\"); o aviso não traz data de fim; a home da loja mostrava um contador até a meia-noite de 20/11, e o Bruno confirmou que a Flash Sale acaba nessa meia-noite",
   "verifiedAt": "2026-11-20"
 }
