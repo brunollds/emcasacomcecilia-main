@@ -1,0 +1,235 @@
+{
+  "id": 1182,
+  "slug": "protetor-solar-biobio-e-bom",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "20 de novembro de 2026",
+  "publishedAtISO": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASABIOBIO",
+  "affiliate": "biobio",
+  "type": "Guia de Marca",
+  "title": "Protetor solar BioBio é bom? O mineral FPS 30, o infantil FPS 50 e o que a loja informa",
+  "seoTitle": "Protetor solar BioBio é bom? Mineral e infantil",
+  "description": "O que a loja informa do protetor solar BioBio mineral FPS 30 e do infantil FPS 50 em bastão, quanto custam com o cupom e para quem cada um faz sentido.",
+  "metaDescription": "EMCASABIOBIO dá 10% OFF no protetor solar BioBio. Veja o que a loja informa do mineral FPS 30 e do infantil FPS 50 e para quem serve.",
+  "image": "/images/reviews/biobio/protetor-solar-biobio-e-bom-capa.webp",
+  "imageAlt": "Mulher com protetor solar no rosto segurando o tubo do Sunnature FPS 30, em fundo azul, em foto da BioBio com o logo da marca, os textos «Protetor solar é bom?» e o código EMCASABIOBIO.",
+  "cta": {
+    "text": "Se um dos protetores da BioBio faz sentido para você, abra o site oficial pelo botão. O código EMCASABIOBIO entra no resumo da compra, no campo Cupom (opcional), e a linha Cupom de desconto confirma o valor.",
+    "label": "Ir para a BioBio",
+    "url": "https://biobio.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com as informações do site oficial; ninguém da equipe usou os produtos. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "base-biobio-bastao-cores"
+    },
+    {
+      "slug": "cupom-biobio-como-usar"
+    },
+    {
+      "slug": "black-friday-biobio"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer um protetor facial sem cor, para usar sozinho ou antes da maquiagem, e aceita reaplicar a cada 2 horas.",
+      "Você procura um bastão infantil de FPS 50 para criança de 6 meses ou mais que vai pegar água e suor."
+    ],
+    "skipIf": [
+      "Você vai entrar na água ou suar muito: a loja diz que o Facial não é resistente à água.",
+      "Você reage a óleos essenciais, ou está grávida ou amamentando e ainda não falou com o médico sobre o Facial.",
+      "Você precisa receber numa data fixa e a estimativa do CEP passa dela."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A BioBio tem dois protetores de filtros minerais, pelas especificações da loja. O Sunnature Facial FPS 30 é sem cor e não resiste à água; o Kids FPS 50, em bastão, resiste à água e ao suor por até 40 minutos e é indicado a partir de 6 meses. Rosto fora da água, o Facial; criança na água, o Kids."
+      ]
+    },
+    {
+      "heading": "Mineral, físico, 100%: o que a BioBio quer dizer",
+      "paragraphs": [
+        "A BioBio chama o Facial de protetor solar 100% físico e mineral e o Kids de 100% mineral. Nos dois, os filtros listados são óxido de zinco e dióxido de titânio, e a loja diz que os do Facial não são nano.",
+        "A tabela põe os dois lado a lado com o que a página de cada produto informa."
+      ],
+      "comparisonTable": {
+        "caption": "Especificações da página de cada produto na loja.",
+        "headers": [
+          "",
+          "Sunnature Facial FPS 30",
+          "Sunnature Kids FPS 50"
+        ],
+        "rows": [
+          [
+            "FPS e UVA",
+            "FPS 30, UVA 16",
+            "FPS 50, UVA 25"
+          ],
+          [
+            "Filtros",
+            "Óxido de zinco e dióxido de titânio, não nano",
+            "Óxido de zinco e dióxido de titânio"
+          ],
+          [
+            "Formato",
+            "Tubo",
+            "Bastão"
+          ],
+          [
+            "Conteúdo",
+            "50 g",
+            "Confira na embalagem"
+          ],
+          [
+            "Água e suor",
+            "Não é resistente à água",
+            "Resistente à água e ao suor por até 40 minutos"
+          ],
+          [
+            "Cor",
+            "Sem cor",
+            "Começa branco e se adapta ao tom ao espalhar, diz a loja"
+          ],
+          [
+            "Reaplicação",
+            "A cada 2 horas e depois de suar ou molhar o rosto",
+            "A cada 2 horas ou depois de água, suor intenso ou toalha"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Qual filtro serve para a sua pele quem responde é o dermatologista. A tabela só mostra o que a loja escreve."
+      ]
+    },
+    {
+      "heading": "Sunnature Facial FPS 30: rosto, sozinho ou antes da maquiagem",
+      "paragraphs": [
+        "O Facial é para o rosto de quem quer um protetor sem cor. A loja o indica para todos os tipos de pele, inclusive as oleosas, e diz que pode ir sozinho ou antes da maquiagem, como primer.",
+        "A loja informa: toque seco, efeito blur e um véu leve na pele, com baixo resíduo branco.",
+        "O cheiro vem de óleos essenciais de lavanda, capim-limão e alecrim. Quem reage a óleo essencial deve conferir a composição antes de comprar, como a própria loja orienta. Na gravidez e na amamentação, ela manda conversar com o médico.",
+        "A página ainda atribui ao Facial proteção contra a luz azul e prevenção de manchas e de melasma, e fala em 99,01% de ingredientes de origem natural e produto vegano. São palavras da loja.",
+        "Passo a passo da página do produto:"
+      ],
+      "bullets": [
+        "Agite o tubo antes de usar.",
+        "Passe no rosto 30 minutos antes de sair ao sol.",
+        "Com maquiagem, o protetor vai antes dela.",
+        "Reaplique a cada 2 horas e depois de suar ou molhar o rosto."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/biobio/protetor-solar-biobio-e-bom-facial.webp",
+          "alt": "Tubo e caixa do protetor solar Sunnature Facial FPS 30 da BioBio",
+          "caption": "O tubo e a caixa do Sunnature Facial FPS 30. Foto: BioBio",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Sunnature Kids FPS 50: bastão para criança a partir de 6 meses",
+      "paragraphs": [
+        "O Kids serve a quem quer um bastão de FPS 50 para a criança que vai à praia, à piscina ou ao parquinho. Para esse uso, a página dá FPS 50, UVA 25 e resistência à água e ao suor por até 40 minutos. A loja também o chama de dermatologicamente testado.",
+        "A idade é a da página: a loja indica o Kids para crianças a partir de 6 meses e para todos os tipos de pele. Para bebês menores de 6 meses, ela manda consultar o pediatra antes do uso. Na dúvida, em qualquer idade, o pediatra.",
+        "A loja descreve o Chameleon Effect: o bastão começa branco e se adapta ao tom da pele ao espalhar, e ela avisa que no começo a pele fica bege. Passo a passo da página:"
+      ],
+      "bullets": [
+        "Aplique generosamente na pele seca, pelo menos 15 minutos antes do sol.",
+        "Espalhe com os dedos.",
+        "Reaplique a cada 2 horas ou depois de água, suor intenso ou toalha."
+      ],
+      "postParagraphs": [
+        "Confira o peso do bastão na embalagem antes de comparar o preço com o do Facial."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/biobio/protetor-solar-biobio-e-bom-kids.webp",
+          "alt": "Bastão e caixa do protetor solar Sunnature Kids FPS 50 da BioBio",
+          "caption": "O bastão e a caixa do Sunnature Kids FPS 50. Foto: BioBio",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Com cor, sem cor ou em bastão: o que a BioBio tem",
+      "paragraphs": [
+        "Quem procura protetor com cor não encontra no Facial, que é sem cor. O Kids é em bastão, e a loja diz que ele pega o tom da pele ao espalhar.",
+        "Com cor mesmo, a BioBio vende maquiagens com FPS: a [base multifuncional em bastão FPS 33](/reviews/base-biobio-bastao-cores), o BBS (blush, batom e sombra) FPS 63 e o pó facial FPS 42. Se uma maquiagem com FPS basta como protetor do dia, pergunte ao dermatologista."
+      ]
+    },
+    {
+      "heading": "Quanto custam com o cupom",
+      "paragraphs": [
+        "Conta nossa: o EMCASABIOBIO tira 10% do preço da vitrine. No Facial, o desconto saiu do checkout; no Kids, é estimativa, então confira a linha Cupom de desconto no resumo. O [cupom BioBio](/cupons/biobio) vale para cliente novo e antigo e entra no campo Cupom (opcional), como mostra o [passo a passo do checkout](/reviews/cupom-biobio-como-usar)."
+      ],
+      "comparisonTable": {
+        "caption": "Preços da vitrine em 20/11, antes do frete. A vitrine muda com as campanhas da loja.",
+        "headers": [
+          "Produto",
+          "Vitrine",
+          "Com EMCASABIOBIO",
+          "Por grama, vitrine e com o código"
+        ],
+        "rows": [
+          [
+            "Sunnature Facial FPS 30, 50 g",
+            "R$ 104,93",
+            "R$ 94,44",
+            "R$ 2,10 e R$ 1,89"
+          ],
+          [
+            "Sunnature Kids FPS 50",
+            "R$ 97,93",
+            "R$ 88,14",
+            "Peso na embalagem"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "No teste com o Facial, o resumo da compra seguiu mostrando os 10% de cashback para a próxima compra, com o cupom aplicado. A loja anuncia até 8x sem juros. As ofertas da campanha da loja estão na [Black Friday da BioBio](/reviews/black-friday-biobio)."
+      ]
+    },
+    {
+      "heading": "Entrega e troca",
+      "paragraphs": [
+        "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279; nas outras regiões e abaixo disso, o frete sai pelo CEP, no checkout. Para trocar ou desistir, são 7 dias corridos do recebimento, com a embalagem original, sem uso e com o lacre inviolado.",
+        "O atraso na entrega responde por cerca de um quarto dos problemas registrados no Reclame Aqui. Veja em [BioBio é confiável?](/reviews/biobio-e-confiavel) antes de comprar com data marcada."
+      ]
+    },
+    {
+      "heading": "Qual escolher: Facial ou Kids",
+      "paragraphs": [
+        "Os dois não se trocam. Para o rosto de adulto fora da água, o Facial é o que a loja indica. Para criança de 6 meses ou mais, com água e suor, é o Kids. Com menos de 6 meses, o pediatra decide antes. Para o adulto com dúvida de pele, o dermatologista."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O protetor solar BioBio é bom? Pelas especificações da loja, o Facial tem FPS 30 e UVA 16, e o Kids, FPS 50 e UVA 25, os dois com filtros minerais. Como cada um se comporta na sua pele só o uso mostra; com dúvida ou pele sensível, fale com o dermatologista.",
+        "O protetor BioBio é mineral? A loja descreve o Facial como 100% físico e mineral e o Kids como 100% mineral, com óxido de zinco e dióxido de titânio.",
+        "O protetor BioBio tem cor? O Facial é sem cor, segundo a loja. O Kids começa branco e, diz a loja, se adapta ao tom da pele ao espalhar. Com cor mesmo, veja a [base em bastão](/reviews/base-biobio-bastao-cores).",
+        "O Sunnature Kids pode ser usado em bebê? A página indica o Kids a partir de 6 meses. Abaixo disso, consulte o pediatra antes. Na dúvida, o pediatra.",
+        "O protetor BioBio é resistente à água? O Kids é, por até 40 minutos, diz a loja, e pede reaplicação depois de água, suor intenso ou toalha. O Facial não é: reaplique depois de suar ou de molhar o rosto."
+      ]
+    }
+  ]
+}

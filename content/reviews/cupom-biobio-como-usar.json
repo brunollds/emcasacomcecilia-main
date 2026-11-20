@@ -1,0 +1,158 @@
+{
+  "id": 1180,
+  "slug": "cupom-biobio-como-usar",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "20 de novembro de 2026",
+  "publishedAtISO": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASABIOBIO",
+  "affiliate": "biobio",
+  "type": "Guia & Cupons",
+  "title": "Cupom BioBio: como aplicar o EMCASABIOBIO no checkout e com o que ele soma",
+  "seoTitle": "Como usar o cupom EMCASABIOBIO na BioBio",
+  "description": "Onde aplicar o cupom EMCASABIOBIO na BioBio, a conta do nosso teste com produto em promoção, como ele soma com o cashback, o frete grátis e as trocas.",
+  "metaDescription": "O cupom EMCASABIOBIO dá 10% OFF na BioBio. Veja onde aplicar no checkout, a conta do nosso teste com promoção e cashback, o frete grátis e as trocas.",
+  "image": "/images/reviews/biobio/cupom-biobio-como-usar-capa.webp",
+  "imageAlt": "Mão segurando dois tubos do protetor Sunnature FPS 30 sobre o creme espalhado, em foto da BioBio com o logo da marca, os textos «Como aplicar o cupom» e o código EMCASABIOBIO.",
+  "cta": {
+    "text": "Abra o site oficial da BioBio, monte o carrinho e vá para o checkout. No Resumo da compra, clique em Inserir cupom de desconto, digite EMCASABIOBIO em Cupom (opcional), clique em Adicionar e confira a linha Cupom de desconto.",
+    "label": "Ir para a BioBio",
+    "url": "https://biobio.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Cupom testado no checkout do site oficial. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "black-friday-biobio"
+    },
+    {
+      "slug": "cupom-biobio-primeira-compra"
+    },
+    {
+      "slug": "protetor-solar-biobio-e-bom"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O cupom EMCASABIOBIO dá 10% OFF na BioBio, para cliente novo e antigo. Ele entra no resumo da compra, no checkout, antes da identificação: digite o código e clique em Adicionar. No nosso teste, os 10% saíram sobre um protetor que já estava em promoção, e o cashback da loja continuou no pedido."
+      ]
+    },
+    {
+      "heading": "Onde aplicar o cupom na BioBio",
+      "paragraphs": [
+        "Copie o EMCASABIOBIO na página do [cupom BioBio](/cupons/biobio). No caminho que testamos, o campo aparece no resumo do checkout, antes de você informar seus dados."
+      ],
+      "bullets": [
+        "Escolha os produtos no site oficial e adicione ao carrinho.",
+        "Clique em Finalizar compra. O checkout abre em seguro.biobio.com.br.",
+        "No Resumo da compra, clique em “Inserir cupom de desconto”.",
+        "Digite EMCASABIOBIO no campo “Cupom (opcional)”, tudo junto, e clique em “Adicionar”.",
+        "Confira a linha “Cupom de desconto”, com o valor, e só então siga para a entrega e o pagamento."
+      ],
+      "postParagraphs": [
+        "O código vale em todo pagamento, Pix inclusive, para cliente novo e antigo."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/biobio/cupom-biobio-checkout-com-cupom.webp",
+          "alt": "Resumo da compra no checkout da BioBio com o cupom EMCASABIOBIO aplicado: desconto de R$ 10,49 sobre R$ 104,93, total de R$ 94,44 e 10% de cashback para a próxima compra",
+          "caption": "Resumo da compra da BioBio com o EMCASABIOBIO aplicado e o cashback para a próxima compra.",
+          "objectFit": "contain",
+          "aspectRatio": 0.64
+        }
+      ]
+    },
+    {
+      "heading": "Quanto o cupom tira: a conta do teste",
+      "paragraphs": [
+        "Em 20/11 colocamos no carrinho o Protetor Solar 100% Físico e Mineral, que a vitrine vendia a R$ 104,93. Com o EMCASABIOBIO, o checkout abateu 10% desse valor."
+      ],
+      "comparisonTable": {
+        "caption": "Um carrinho testado no site oficial, antes do frete.",
+        "headers": [
+          "Item",
+          "Valor"
+        ],
+        "rows": [
+          [
+            "Protetor Solar 100% Físico e Mineral, na vitrine",
+            "R$ 104,93"
+          ],
+          [
+            "EMCASABIOBIO: 10% OFF",
+            "R$ 10,49"
+          ],
+          [
+            "Produto com o cupom",
+            "R$ 94,44"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Para comparar com o seu pedido, olhe o subtotal dos produtos e a linha “Cupom de desconto”. O frete entra à parte."
+      ]
+    },
+    {
+      "heading": "Soma com a promoção e com o cashback?",
+      "paragraphs": [
+        "Soma com os dois. O protetor do teste já estava em promoção e recebeu os 10%, e o resumo da compra seguiu mostrando 10% de cashback para a próxima compra.",
+        "A loja informa: o cashback devolve 10% como saldo nas compras a partir de R$ 99,90, com o frete contando para esse mínimo. O saldo cai depois do pagamento, vale por 45 dias e paga até metade do valor dos produtos num pedido a partir de R$ 100. Ele abate os produtos, não o frete, e a própria página diz que saldo e cupom entram na mesma compra. Para usar, ligue “Usar saldo de Cashback” na etapa de pagamento da compra seguinte.",
+        "Conta nossa: o total do teste, R$ 94,44, ficou abaixo dos R$ 99,90 antes do frete, e o aviso de 10% de cashback continuou no resumo. Como o frete conta para o mínimo, confira o saldo no resumo do seu pedido. Nos kits, não testamos o cupom: confira a linha de desconto antes de pagar."
+      ]
+    },
+    {
+      "heading": "Frete, prazo e parcelamento",
+      "paragraphs": [
+        "Segundo a loja, o frete é grátis para o Sul e o Sudeste em compras acima de R$ 279. Fora dessas regiões ou abaixo desse valor, informe o CEP e veja o total com a entrega no checkout, que também mostra o prazo.",
+        "O parcelamento anunciado é de até 8x sem juros no cartão. Acima disso, confira as condições no checkout. O atraso na entrega é o problema mais citado contra a loja no Reclame Aqui: veja o que isso significa em [BioBio é confiável?](/reviews/biobio-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Trocas e devolução",
+      "paragraphs": [
+        "A [política de troca da BioBio](https://biobio.com.br/pages/politica-de-troca) dá sete dias corridos a partir do recebimento para trocar ou desistir, com o produto na embalagem original, sem uso e com o lacre intacto. O reembolso sai em até 10 dias úteis.",
+        "Para produto com defeito, avise em até 30 dias corridos, com fotos. A loja analisa em até dois dias úteis e oferece troca, vale-troca ou reembolso, com postagem reversa."
+      ]
+    },
+    {
+      "heading": "Se o código não entrar",
+      "paragraphs": [
+        "Se o desconto não aparecer, confira três coisas antes de pagar."
+      ],
+      "bullets": [
+        "**O campo.** Clique em “Inserir cupom de desconto” no Resumo da compra, em seguro.biobio.com.br, e use o campo “Cupom (opcional)”.",
+        "**A grafia.** EMCASABIOBIO, tudo junto, sem espaço antes ou depois.",
+        "**A linha Cupom de desconto.** Sem o valor abatido no resumo, o código não entrou."
+      ],
+      "postParagraphs": [
+        "O EMCASABIOBIO é do site oficial da BioBio: é no checkout dele que o código entra. Para a primeira compra, veja o guia do [cupom na primeira compra](/reviews/cupom-biobio-primeira-compra)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Onde coloco o cupom na BioBio? No Resumo da compra do checkout, clique em “Inserir cupom de desconto”, digite EMCASABIOBIO em “Cupom (opcional)” e clique em “Adicionar”. Confira a linha “Cupom de desconto” antes de pagar.",
+        "O cupom soma com o cashback? Soma. No nosso teste, o resumo mostrou os 10% de cashback para a próxima compra com o cupom aplicado, e a loja diz que saldo e cupom entram na mesma compra.",
+        "O cupom vale na Black Friday? Vale: no nosso teste, o código entrou sobre um produto já em promoção. Veja o que está em oferta na [Black Friday da BioBio](/reviews/black-friday-biobio).",
+        "Qual o frete grátis da BioBio? A loja anuncia frete grátis para o Sul e o Sudeste em compras acima de R$ 279. Confira o frete para o seu CEP no checkout.",
+        "O cupom vale para quem já comprou? Vale. O EMCASABIOBIO é para clientes novos e antigos."
+      ]
+    }
+  ]
+}

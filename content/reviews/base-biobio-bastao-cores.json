@@ -1,0 +1,261 @@
+{
+  "id": 1183,
+  "slug": "base-biobio-bastao-cores",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "20 de novembro de 2026",
+  "publishedAtISO": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASABIOBIO",
+  "affiliate": "biobio",
+  "type": "Guia de Marca",
+  "title": "Base BioBio em bastão: os 8 tons, o FPS 33 e como escolher a cor",
+  "seoTitle": "Base BioBio em bastão: cores, FPS 33 e como escolher",
+  "description": "Os oito tons da base BioBio em bastão, o que a loja diz do FPS 33, como escolher a cor sem testar na loja e quanto ela custa avulsa e nos kits com o cupom.",
+  "metaDescription": "EMCASABIOBIO dá 10% OFF na base BioBio em bastão. Veja os 8 tons, o FPS 33 que a loja informa e como escolher a cor.",
+  "image": "/images/reviews/biobio/base-biobio-bastao-cores-capa.webp",
+  "imageAlt": "Braço com os tons da base riscados e numerados de #100 a #800, em foto da BioBio com o logo da marca, os textos «Base em bastão: os 8 tons» e o código EMCASABIOBIO.",
+  "cta": {
+    "text": "Se a base em bastão da BioBio faz sentido para você, abra o site oficial pelo botão. O código EMCASABIOBIO entra no resumo da compra, no campo Cupom (opcional), e a linha Cupom de desconto confirma o valor.",
+    "label": "Ir para a BioBio",
+    "url": "https://biobio.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com as informações do site oficial; ninguém da equipe usou os produtos. Somos parceiros da BioBio e podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "protetor-solar-biobio-e-bom"
+    },
+    {
+      "slug": "cupom-biobio-como-usar"
+    },
+    {
+      "slug": "black-friday-biobio"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer uma peça só como base, corretivo e contorno e aceita finalizar com pó para fixar.",
+      "Você já sabe seu subtom e sua profundidade e vai escolher o tom pelo guia da loja ou pelo WhatsApp."
+    ],
+    "skipIf": [
+      "Sua pele é muito seca e você não quer passar hidratante antes: a loja avisa que ela pede isso.",
+      "Você precisa de um tom escuro e ainda não tirou a dúvida com a loja: os dois mais escuros não têm descrição na página de tons.",
+      "Você precisa receber numa data fixa e a estimativa do CEP passa dela."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A base multifuncional em bastão da BioBio tem FPS 33 com filtros físicos e acabamento mate, segundo a loja. A loja lista oito tons e descreve seis, e diz que a cobertura sobe em camadas. O que pesa é acertar o tom, porque a troca pede produto sem uso; veja o guia de tons abaixo."
+      ]
+    },
+    {
+      "heading": "Para quem é a base em bastão",
+      "paragraphs": [
+        "A loja vende a base como peça multifuncional: base, corretivo e contorno no mesmo bastão, de 14 g. Serve a quem quer carregar uma peça só: dá para espalhar com os dedos, a esponja ou o pincel.",
+        "A loja descreve acabamento mate e toque seco, e uma cobertura que começa leve e sobe em camadas. Em pele muito seca, ela manda passar hidratante antes. Ela também avisa que, logo depois de aplicar, o produto pode sair na mão ou na gola, e que finalizar com pó ajuda a fixar."
+      ],
+      "comparisonTable": {
+        "caption": "Especificações como a loja informa na página do produto.",
+        "headers": [
+          "Item",
+          "Na página"
+        ],
+        "rows": [
+          [
+            "FPS e UVA",
+            "FPS 33, UVA 25"
+          ],
+          [
+            "Filtros",
+            "Físicos, não nano: dióxido de titânio e óxido de zinco"
+          ],
+          [
+            "Conteúdo",
+            "14 g, em tubo de papel"
+          ],
+          [
+            "Acabamento",
+            "Mate, toque seco"
+          ],
+          [
+            "Uso",
+            "Base, corretivo e contorno"
+          ],
+          [
+            "Selos da loja",
+            "Vegana e livre de crueldade, nas palavras dela"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Os oito tons da base BioBio",
+      "paragraphs": [
+        "A loja lista oito tons, do #100 Avelã ao #800 Baru. A ficha do produto fala em 6 tons e as especificações, em #100 a #600. Os dois mais escuros, #700 Tâmara e #800 Baru, não têm descrição na página [Encontre seu tom](https://biobio.com.br/pages/encontre-seu-tom)."
+      ],
+      "comparisonTable": {
+        "caption": "Profundidade e subtom como a loja descreve em Encontre seu tom. Preços da vitrine em 20/11, antes do frete; a coluna com o código é estimativa.",
+        "headers": [
+          "Tom",
+          "Profundidade",
+          "Subtom",
+          "Vitrine",
+          "Com EMCASABIOBIO"
+        ],
+        "rows": [
+          [
+            "#100 Avelã",
+            "Muito claro",
+            "Neutro",
+            "R$ 120,31",
+            "R$ 108,28"
+          ],
+          [
+            "#200 Amêndoa",
+            "Claro médio",
+            "Neutro",
+            "R$ 123,11",
+            "R$ 110,80"
+          ],
+          [
+            "#300 Castanha",
+            "Claro médio",
+            "Quente",
+            "R$ 123,11",
+            "R$ 110,80"
+          ],
+          [
+            "#400 Mascavo",
+            "Médio",
+            "Quente, neutro ou oliva",
+            "R$ 123,11",
+            "R$ 110,80"
+          ],
+          [
+            "#500 Canela",
+            "Médio escuro",
+            "Neutro",
+            "R$ 120,31",
+            "R$ 108,28"
+          ],
+          [
+            "#600 Cacau",
+            "Escuro",
+            "Frio",
+            "R$ 111,92",
+            "R$ 100,73"
+          ],
+          [
+            "#700 Tâmara",
+            "Sem descrição na página de tons",
+            "Sem descrição",
+            "Veja na página do produto",
+            "Veja no resumo"
+          ],
+          [
+            "#800 Baru",
+            "Sem descrição na página de tons",
+            "Sem descrição",
+            "Veja na página do produto",
+            "Veja no resumo"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Quem precisa de um dos dois tons mais escuros deve chamar a loja pelo WhatsApp antes de comprar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/biobio/base-biobio-bastao-cores-tons-no-braco.webp",
+          "alt": "Braço com seis tons da base BioBio riscados, do #100 ao #600, em fundo cinza",
+          "caption": "Seis tons riscados no braço, do #100 ao #600. A cor na foto e na tela é só referência. Foto: BioBio",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Como escolher a cor",
+      "paragraphs": [
+        "A loja tem um teste em dois passos na página Encontre seu tom. Primeiro a profundidade da pele: clara, clara-média, média-escura ou escura. Depois o subtom: quente, frio ou neutro. Para o subtom, ela sugere olhar as veias do pulso, ver se fica melhor o dourado ou o prateado e como a pele reage ao sol.",
+        "A loja informa: entre dois tons, o teste indica primeiro o mais claro, e o tom vizinho serve de contorno ou corretivo. A cor da tela é só referência, e ela oferece ajuda pelo WhatsApp com selfie em luz natural.",
+        "A troca de tom é de até 7 dias, com o produto sem uso. Como a troca pede o produto sem uso, tire a dúvida do tom pelo WhatsApp antes de pedir."
+      ]
+    },
+    {
+      "heading": "Como aplicar e reaplicar",
+      "paragraphs": [
+        "O passo a passo da loja:"
+      ],
+      "bullets": [
+        "Deslize o bastão na testa, nas bochechas, no nariz e no queixo.",
+        "Esfume com os dedos, a esponja ou o pincel, do centro para fora.",
+        "Dê batidinhas onde quiser mais cobertura.",
+        "Reaplique a cada 2 horas; por cima da maquiagem, a loja indica o Pó Facial FPS 42."
+      ]
+    },
+    {
+      "heading": "O FPS 33 da base substitui o protetor solar?",
+      "paragraphs": [
+        "O que a loja entrega é o FPS 33, o UVA 25 e a orientação de reaplicar a cada 2 horas. Se a base basta como único protetor do dia, pergunte ao dermatologista. O protetor dedicado da marca está em [Protetor solar BioBio é bom?](/reviews/protetor-solar-biobio-e-bom)."
+      ]
+    },
+    {
+      "heading": "Quanto custa com o cupom",
+      "paragraphs": [
+        "Conta nossa: o EMCASABIOBIO tira 10% do preço da vitrine, e o valor de cada tom está na tabela dos tons. No teste do [cupom BioBio](/cupons/biobio), os 10% entraram num produto que já estava em promoção. O passo a passo do checkout está em [como usar o cupom](/reviews/cupom-biobio-como-usar)."
+      ],
+      "comparisonTable": {
+        "caption": "Kits da vitrine com a base, pelo preço da página.",
+        "headers": [
+          "Kit",
+          "Vitrine"
+        ],
+        "rows": [
+          [
+            "Dupla Make Prática (base e BBS)",
+            "R$ 199,80"
+          ],
+          [
+            "Kit Base e Pó Facial",
+            "R$ 224,80"
+          ],
+          [
+            "Trio Essencial",
+            "R$ 294,70"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Nos kits, confira no resumo da compra se os 10% entraram e quais tons e cores você escolheu. Para saber se o kit compensa, some os preços avulsos dos itens que você escolheria e compare. A loja informa que a troca ou devolução de kit vale para todos os itens.",
+        "O frete grátis anunciado vale para o Sul e o Sudeste acima de R$ 279, e o parcelamento é de até 8x sem juros. O atraso na entrega responde por cerca de um quarto dos problemas registrados no Reclame Aqui: veja em [BioBio é confiável?](/reviews/biobio-e-confiavel) antes de comprar com data marcada. As ofertas da campanha da loja estão na [Black Friday da BioBio](/reviews/black-friday-biobio)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Quais as cores da base BioBio? A loja lista oito tons, do #100 Avelã ao #800 Baru, e descreve seis. A tabela dos tons traz profundidade e subtom de cada um.",
+        "A base BioBio tem protetor solar? Tem FPS 33 e UVA 25, segundo a loja. Se ela substitui o protetor, veja o capítulo sobre o FPS e fale com o dermatologista.",
+        "Qual tom da base BioBio escolher? Use o teste de profundidade e subtom da loja e, em dúvida entre dois, comece pelo mais claro, como ela indica. O WhatsApp da loja ajuda com uma selfie em luz natural.",
+        "A base BioBio serve de corretivo? A loja a vende como base, corretivo e contorno no mesmo bastão.",
+        "Quanto custa a base BioBio? Depende do tom; os valores estão na tabela dos tons, e o EMCASABIOBIO dá 10% OFF."
+      ]
+    }
+  ]
+}
