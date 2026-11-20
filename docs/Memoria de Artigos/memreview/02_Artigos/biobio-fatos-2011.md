@@ -114,10 +114,17 @@ Perfil `reclameaqui.com.br/empresa/biobio-cosmeticos/`:
 - **Parcelamento:** "até 8x sem juros", como diz a faixa. O "ou até 10x" mostra que há juros a partir daí: conferir no
   checkout.
 
-## 6. Perguntas ao Bruno
+## 6. Respostas do Bruno e do cadastro (20/11)
 
-1. **Código e cadastro:** qual o código e o %, se há link de afiliado e se vale para quem já comprou. A sessão do
-   cadastro deve trazer isso.
-2. **Uso próprio:** a Cecília tem ou usa algum produto da BioBio? Isso muda a BI3 e a BI4.
-3. **Black Friday:** a parceira mandou as regras da campanha (datas, se o código soma com o Black Month)?
-4. **GO** em quais pautas.
+- **Código** (cadastro, #1280, e dossiê `01_Parceiros/BioBio.md`):
+  - `EMCASABIOBIO`, 10%, sem link de afiliado: o botão abre `biobio.com.br`;
+  - o cupom entra no Resumo da compra do checkout `seguro.biobio.com.br`, antes da identificação;
+  - vale para cliente novo e antigo e em todo pagamento, Pix inclusive (regra das parcerias; o % do Pix não se cita).
+- **Teste do Bruno** (20/11): Protetor Solar 100% Físico e Mineral, R$ 104,93 na vitrine, −R$ 10,49, total R$ 94,44.
+  O cashback de 10% da loja continuou no pedido. Soma com promoção e com cashback: testado. Há print do resumo (`cartPrint`).
+- **Primeira compra:** a loja tem cupom próprio de primeira compra (pop-up de cadastro com 12% e um código na faixa do
+  checkout). **Não citar**, nem para comparar. A BI6 fala só do `EMCASABIOBIO` na primeira compra.
+- **Uso próprio:** a Cecília não usou a BioBio (Bruno, 20/11). BI3 e BI4 são pelo rótulo e pela ficha, sem "testamos" fora do checkout.
+- **Black Friday:** a parceira não mandou regra. A BI2 diz que o código entrou sobre o preço do Black Month no teste
+  (o protetor já estava com 25% na vitrine), sem datas nem regulamento.
+- **Falta:** o GO.
