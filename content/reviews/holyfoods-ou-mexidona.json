@@ -1,0 +1,390 @@
+{
+  "id": 1189,
+  "slug": "holyfoods-ou-mexidona",
+  "locale": "pt",
+  "title": "HolyFoods ou Mexidona: sopas, risotos e macs pela tabela e pelo preço por 100 g",
+  "seoTitle": "HolyFoods ou Mexidona: sopas, risotos e macs pelo rótulo",
+  "type": "Comparativo de Marcas",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Sopa, risoto e mac das duas marcas na mesma base: porção, proteína, sódio e preço por 100 g de mistura, com e sem a campanha da HolyFoods e com o EMCASA.",
+  "metaDescription": "O EMCASA dá 15% OFF na HolyFoods. HolyFoods ou Mexidona? Sopa, risoto e mac pelo rótulo: porção, proteína, sódio e preço por 100 g de mistura.",
+  "publishedAt": "20 de novembro de 2026",
+  "publishedAtISO": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa.webp",
+  "imageAlt": "Prato de Risoto Funghi da HolyFoods com uma colher. A capa diz «HolyFoods ou Mexidona?» e mostra o código EMCASA.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Leve a HolyFoods se você quer a proteína declarada mais barata com a campanha no ar e prefere uma embalagem que já é uma refeição.",
+      "Leve a Mexidona se você quer o risoto de queijo anunciado como zero lactose ou o mac com mais proteína e menos sódio na tabela.",
+      "Leve a Mexidona também se você prefere um pacote que rende várias porções e um mac de preparo curto."
+    ],
+    "skipIf": [
+      "Passe o Risoto de Queijo e o Mac Queijo da HolyFoods se você evita lactose: os dois levam leite.",
+      "Passe a Mexidona se a sua conta é o preço por proteína com a campanha da HolyFoods no ar.",
+      "Passe a HolyFoods se você vai comprar o risoto depois da campanha: a preço de lista, o da Mexidona sai mais barato."
+    ]
+  },
+  "cta": {
+    "text": "Se a HolyFoods faz sentido para você, entre pelo botão e, na tela Finalizar compra, cole o código EMCASA. Confira os 15% na linha de desconto antes de pagar.",
+    "label": "Ir para a HolyFoods",
+    "url": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "sponsored": true
+  },
+  "coupon": "EMCASA",
+  "affiliate": "holyfoods",
+  "editorialNote": "Feito pelo rótulo e pelo site da loja. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "holyfoods-e-boa"
+    },
+    {
+      "slug": "cupom-holyfoods-como-usar"
+    },
+    {
+      "slug": "black-friday-holyfoods"
+    },
+    {
+      "slug": "holyfoods-como-preparar"
+    },
+    {
+      "slug": "holyfoods-projeto-21-dias"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Com o EMCASA e a campanha, a HolyFoods sai mais barata por 100 g de mistura nos pares comparados. Fora da campanha, a Mexidona ganha nessa conta no risoto. O Mac Frango da Mexidona declara mais proteína por pacote. A Mexidona declara zero lactose no seu risoto sabor queijo."
+      ]
+    },
+    {
+      "heading": "Como as duas vendem, e o que isso muda na conta",
+      "paragraphs": [
+        "Um pacote de sopa ou risoto da Mexidona pode render várias porções. As embalagens de risoto e mac da HolyFoods rendem uma porção cada. Para comparar o que você paga, divida pelo peso da mistura seca. Use a conta por proteína apenas se essa for a sua prioridade.",
+        "As tabelas de cada produto da HolyFoods estão no [HolyFoods é boa?](/reviews/holyfoods-e-boa). Aqui entram só os que têm par na Mexidona."
+      ],
+      "comparisonTable": {
+        "caption": "Cada loja informa: porção e rendimento declarados na página de cada produto.",
+        "headers": [
+          "Família",
+          "HolyFoods",
+          "Mexidona"
+        ],
+        "rows": [
+          [
+            "Sopa",
+            "Pacote avulso de 130 g de mistura, 1 litro em 4 porções de 250 g (Vovó)",
+            "Pacote de 130 g, 3 pratos de 250 ml (Sopa Amarela); 3 porções de 53 g (Sopa da Nona)"
+          ],
+          [
+            "Risoto",
+            "1 embalagem de 120 g de mistura, 1 porção pronta de 320 g",
+            "Pacote de 180 g, cerca de 3 porções de 60 g, até 800 g prontos"
+          ],
+          [
+            "Mac",
+            "1 embalagem de 115 a 132 g de mistura, 1 porção pronta de 380 g",
+            "Pacote de 100 g, 1 prato de cerca de 450 g"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Sopa: Vovó e Low Carb contra Sopa Amarela e Sopa da Nona",
+      "paragraphs": [
+        "A Mexidona tem uma sopa de massa de arroz e batata, a Sopa Amarela, e uma de lentilha, a Sopa da Nona. Os pares mais próximos na HolyFoods são a Sopa da Vovó, com macarrão de arroz, e a Low Carb, com lentilha vermelha e quinoa."
+      ],
+      "comparisonTable": {
+        "caption": "Valores por porção da ficha. O peso da mistura seca varia conforme o produto.",
+        "headers": [
+          "Sopa",
+          "Mistura por porção",
+          "Proteína",
+          "Fibra"
+        ],
+        "rows": [
+          [
+            "Sopa da Vovó (HolyFoods)",
+            "33 g",
+            "2,5 g",
+            "1,9 g"
+          ],
+          [
+            "Sopa Amarela (Mexidona)",
+            "43 g",
+            "3,6 g",
+            "2,6 g"
+          ],
+          [
+            "Sopa Low Carb (HolyFoods)",
+            "38 g",
+            "7,7 g",
+            "5,7 g"
+          ],
+          [
+            "Sopa da Nona (Mexidona)",
+            "53 g",
+            "9,5 g",
+            "9,2 g"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "As porções incluem quantidades diferentes de mistura. A Sopa da Nona declara mais proteína e fibra por porção que a Low Carb, e a porção da Nona também leva mais mistura.",
+        "Os números de sódio das quatro sopas comparadas vão de 15 a 63 mg por porção, antes do sal do preparo.",
+        "Na Sopa Amarela, a tabela da página traz 1,4 g de açúcares adicionados na coluna de 100 ml e zero na da porção: confira a embalagem."
+      ]
+    },
+    {
+      "heading": "Risoto: a proteína da porção e a do pacote",
+      "paragraphs": [
+        "O Risoto de Queijo da HolyFoods leva leite e queijos. A Mexidona apresenta o seu Risoto Sabor Queijo como zero lactose e anuncia 20 g de proteína no pacote. A tabela declara 7 g por porção de 60 g. No preço por 20 g de proteína, usei o total informado para o pacote."
+      ],
+      "comparisonTable": {
+        "caption": "Valores por pacote inteiro. Para o risoto da Mexidona, calorias e sódio são a estimativa de três porções. Os 20 g de proteína por pacote vêm da descrição da loja.",
+        "headers": [
+          "Risoto",
+          "Calorias",
+          "Proteína",
+          "Sódio"
+        ],
+        "rows": [
+          [
+            "Risoto de Queijo (HolyFoods)",
+            "452 kcal",
+            "20 g",
+            "208 mg"
+          ],
+          [
+            "Risoto Funghi (HolyFoods)",
+            "398 kcal",
+            "20 g",
+            "82 mg"
+          ],
+          [
+            "Risoto Sabor Queijo (Mexidona)",
+            "Cerca de 642 kcal",
+            "20 g",
+            "Cerca de 141 mg"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Uma porção da Mexidona declara 214 kcal e 7 g de proteína. O pacote rende cerca de três porções. Uma embalagem da HolyFoods rende uma porção, com 398 a 452 kcal e 20 g de proteína, conforme o sabor.",
+        "A Mexidona também faz o Risoto de Cogumelos, que declara 212 kcal, 6,7 g de proteína e 58 mg de sódio por porção de 60 g, cerca de 20 g no pacote, a mesma proteína do Funghi."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/holyfoods/holyfoods-ou-mexidona-risoto.webp",
+          "alt": "Risoto Funghi da HolyFoods, em foto oficial da loja",
+          "caption": "Risoto Funghi: uma embalagem, uma porção pronta de 320 g. Foto: HolyFoods.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+        }
+      ]
+    },
+    {
+      "heading": "Mac: proteína, sódio e tempo de panela",
+      "paragraphs": [
+        "O par do Mac Frango da Mexidona na HolyFoods é o Mac Caipira, que também leva frango. A tabela traz os dois mais o Mac Queijo, o da foto da HolyFoods, na mesma base: a embalagem ou o pacote inteiro."
+      ],
+      "comparisonTable": {
+        "caption": "Por embalagem ou pacote inteiro, pela tabela de cada produto.",
+        "headers": [
+          "Mac",
+          "Calorias",
+          "Proteína",
+          "Sódio"
+        ],
+        "rows": [
+          [
+            "Mac Queijo (HolyFoods)",
+            "395 kcal",
+            "20 g",
+            "318 mg"
+          ],
+          [
+            "Mac Caipira (HolyFoods)",
+            "308 kcal",
+            "20 g",
+            "321 mg"
+          ],
+          [
+            "Mac Frango (Mexidona)",
+            "362 kcal",
+            "24 g",
+            "213 mg"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O Mac Frango declara mais proteína e menos sódio que os dois da HolyFoods. Em calorias, fica entre eles. O Mac Cogumelo da Mexidona, vegetariano segundo a página, declara 23 g de proteína e 257 mg de sódio no pacote.",
+        "O preparo também é outro. No fogão, a Mexidona manda cozinhar a massa por 4 minutos em fogo médio e mexer por 1 a 2 minutos com o molho; a HolyFoods pede 15 a 20 minutos mexendo. O passo a passo da HolyFoods está no [Como preparar HolyFoods](/reviews/holyfoods-como-preparar)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/holyfoods/holyfoods-ou-mexidona-mac.webp",
+          "alt": "Mac Queijo da HolyFoods, em foto oficial da loja",
+          "caption": "Mac Queijo: uma embalagem rende uma porção pronta de 380 g. Foto: HolyFoods.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+        }
+      ]
+    },
+    {
+      "heading": "Quanto custa com a campanha da HolyFoods",
+      "paragraphs": [
+        "Compare o preço da HolyFoods com e sem EMCASA e o da Mexidona no Pix. Os pares são Vovó e Sopa Amarela, os dois risotos de queijo e Mac Queijo e Mac Frango."
+      ],
+      "comparisonTable": {
+        "caption": "Preços de 20/11, em R$, antes do frete. A conta simula 15% de EMCASA na HolyFoods e 5% de Pix na Mexidona. Os preços são arredondados por pacote antes da divisão.",
+        "headers": [
+          "Conta",
+          "HolyFoods em oferta",
+          "Oferta + EMCASA",
+          "Mexidona no Pix"
+        ],
+        "rows": [
+          [
+            "Sopa, por 100 g de mistura (Vovó e Sopa Amarela, 130 g)",
+            "10,72",
+            "9,11",
+            "14,55"
+          ],
+          [
+            "Risoto, por 100 g de mistura (120 g e 180 g)",
+            "11,61",
+            "9,87",
+            "10,51"
+          ],
+          [
+            "Mac, por 100 g de mistura (Queijo, 132 g; Mac Frango, 100 g)",
+            "10,55",
+            "8,97",
+            "18,91"
+          ],
+          [
+            "Risoto, por 20 g de proteína declarada",
+            "13,93",
+            "11,84",
+            "18,91"
+          ],
+          [
+            "Mac, por 20 g de proteína declarada (Mac Frango, 24 g)",
+            "13,93",
+            "11,84",
+            "15,76"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Com o EMCASA, o risoto da HolyFoods fica abaixo do da Mexidona no Pix mesmo por 100 g de mistura. Sem o código, a Mexidona ganha nessa unidade."
+      ],
+      "links": [
+        {
+          "label": "cupom HolyFoods",
+          "href": "/cupons/holyfoods"
+        }
+      ]
+    },
+    {
+      "heading": "Quanto custa sem a campanha da HolyFoods",
+      "paragraphs": [
+        "Os preços de lista permitem ver o que muda se a campanha acabar e o EMCASA continuar disponível."
+      ],
+      "comparisonTable": {
+        "caption": "Em R$, antes do frete. A conta usa o preço de lista da HolyFoods, com e sem 15% de EMCASA, e simula 5% de Pix na Mexidona. Arredondamento por pacote.",
+        "headers": [
+          "Conta",
+          "HolyFoods de lista",
+          "Lista + EMCASA",
+          "Mexidona no Pix"
+        ],
+        "rows": [
+          [
+            "Sopa, por 100 g de mistura (Vovó e Sopa Amarela, 130 g)",
+            "15,31",
+            "13,02",
+            "14,55"
+          ],
+          [
+            "Risoto, por 100 g de mistura (120 g e 180 g)",
+            "16,58",
+            "14,10",
+            "10,51"
+          ],
+          [
+            "Mac, por 100 g de mistura (Queijo, 132 g; Mac Frango, 100 g)",
+            "15,08",
+            "12,82",
+            "18,91"
+          ],
+          [
+            "Risoto, por 20 g de proteína declarada",
+            "19,90",
+            "16,92",
+            "18,91"
+          ],
+          [
+            "Mac, por 20 g de proteína declarada (Mac Frango, 24 g)",
+            "19,90",
+            "16,92",
+            "15,76"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Nesse cenário, com o EMCASA, a Mexidona fica abaixo no risoto por 100 g de mistura e no mac por 20 g de proteína declarada. A HolyFoods ainda vence no risoto por 20 g de proteína declarada e, pelo peso da mistura, na sopa e no mac.",
+        "A Mexidona informa 5% de desconto no Pix. O cashback vale para outra compra. Compare os totais entregues no seu CEP."
+      ]
+    },
+    {
+      "heading": "O que as listas de ingredientes mostram",
+      "paragraphs": [
+        "Lactose separa os dois queijos. O Risoto de Queijo, o Mac Queijo e o Mac Alfredo da HolyFoods levam leite e lactose. A lista do Risoto Sabor Queijo da Mexidona não traz leite, e a página o anuncia como zero lactose; confira os alérgenos na embalagem.",
+        "Nos risotos e macs comparados aqui, as duas marcas adicionam fonte de proteína à receita. A HolyFoods usa colágeno e, no Mac Caipira, também proteína isolada de ervilha; a Mexidona usa proteína isolada de ervilha, e o Risoto de Cogumelos também leva proteína isolada de arroz. A massa do Mac Queijo da HolyFoods traz corantes e emulsificante; a lista da massa do Mac Frango traz farinhas de arroz, proteína de ervilha, fécula e gomas xantana e guar.",
+        "Nas duas marcas o preparo pede sal a gosto, então o sódio das tabelas vale para o produto sem o sal que você puser. Nas listas da Mexidona comparadas aqui não há conservante declarado, como nas da HolyFoods.",
+        "Nas duas, leia a linha pode conter. A Sopa da Nona declara que pode conter aveia, amendoim, soja e castanhas, e o Risoto Funghi da HolyFoods, derivados de leite, soja, ovos, peixes, crustáceos, aveia e amendoim. As duas informam que não contêm glúten."
+      ]
+    },
+    {
+      "heading": "Qual escolher: o que pesa em cada perfil",
+      "paragraphs": [
+        "Escolha pelo formato, pelas informações do rótulo e pelo preço do dia."
+      ],
+      "bullets": [
+        "Quer pagar menos por 20 g de proteína declarada no risoto: HolyFoods com EMCASA, inclusive na simulação sem campanha.",
+        "Quer uma embalagem que já é uma refeição: HolyFoods. A Mexidona vende pacote de três porções no risoto e na sopa.",
+        "Quer evitar lactose no risoto de queijo: Mexidona, que anuncia zero lactose; confira a embalagem.",
+        "Quer o mac com menos sódio e mais proteína na tabela, e o preparo mais curto: Mexidona.",
+        "Vai comprar fora da campanha: com EMCASA, a Mexidona ganha por 100 g no risoto e por 20 g de proteína declarada no mac."
+      ],
+      "emphasis": "Com EMCASA fora da campanha, o risoto da Mexidona custa menos por peso da mistura. O risoto da HolyFoods custa menos por 20 g de proteína declarada."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Mexidona é saudável? O rótulo mostra calorias, proteína, fibra e sódio por porção, e isso não basta para avaliar uma dieta. Para orientação individual, converse com nutricionista ou médico.",
+        "A HolyFoods é melhor que a Mexidona? Com a campanha e o EMCASA, a HolyFoods custa menos por peso da mistura nos três pares. A Mexidona declara mais proteína no Mac Frango e anuncia zero lactose no risoto sabor queijo.",
+        "O cupom EMCASA vale na Mexidona? Não. O EMCASA é o código da HolyFoods, com 15% OFF, digitado na tela Finalizar compra da própria HolyFoods.",
+        "Quanta proteína tem nos produtos da Mexidona? A tabela do risoto de queijo declara 7 g por porção de 60 g, e a loja informa 20 g no pacote. O Mac Frango declara 24 g no pacote, que rende um prato."
+      ]
+    }
+  ]
+}
