@@ -1,11 +1,13 @@
+import homeEventsConfig from '@/../content/home-events.json';
 import { COUPON_HUB_COPY } from '@/components/coupons/couponHubCopy';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import type { CeciliaPanelCopy } from '@/components/sections/HomeCeciliaPanel';
 import { getHomeCopy } from '@/components/sections/homeCopy';
+import { LOCALE_EVENT_COPY } from '@/components/sections/localeEventCopy';
 import { fillTemplate, getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import { cardImageFit } from '@/lib/cardImage';
-import { getCouponHubEntries, type CouponHubEntry } from '@/lib/couponHub';
+import { getCouponHubEntries, getCouponHubShelves, type CouponHubEntry } from '@/lib/couponHub';
 import {
   CECILIA_COUNTRY,
   CECILIA_FULL_NAME,
@@ -19,12 +21,20 @@ import { brandLinks } from '@/lib/brandLinks';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getStoreCodeKind } from '@/lib/couponsData';
 import { TRANSLATED_LOCALES } from '@/lib/couponTranslations';
+import {
+  formatIsoDay,
+  getBoostedHomeEvent,
+  getCountdownDays,
+  type HomeEventGuide,
+  type ResolvedHomeEvent,
+} from '@/lib/homeEvents';
 import { CECILIA_PHOTO, getStoreCode, getStoreMark, newestArticleRank, type HomeLatestArticle } from '@/lib/homeStores';
 import type { HomeStoreArticle, HomeStoreTab } from '@/lib/homeStoreTabs';
 import { LOCALES } from '@/lib/i18n/locales';
 import { SITE_URL, absoluteUrl } from '@/lib/pageSeo';
 import { getPublishedReviewsForLocale, getReviewHubPath } from '@/lib/review-hubs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { isListedInPortuguese } from '@/lib/reviewDiscovery';
 import { getReviewStoreLabel, reviewHasStore } from '@/lib/reviewStores';
 
 // A home de cada idioma fora do português (/en, /ja…): o mesmo desenho da home em português (vitrine com a
@@ -92,6 +102,12 @@ function toStoreArticle(review: ReturnType<typeof getPublishedReviewsForLocale>[
   };
 }
 
+// O desconto como o hub de cupons o escreve. A YesStyle dá o desconto até o número (5% na 1ª compra, menos nas
+// seguintes): o "até" vai no texto.
+function hubDiscount(locale: LocaleHomeLocale, { coupon, upTo }: Pick<CouponHubEntry, 'coupon' | 'upTo'>): string {
+  return upTo ? `${COUPON_HUB_COPY[locale].upTo} ${coupon.discount}` : coupon.discount;
+}
+
 // As abas da vitrine: a YesStyle e as lojas traduzidas, na ordem do hub, mas as bolinhas seguem a regra do PT
 // (a loja do artigo mais novo primeiro), aplicada aos artigos do idioma. Sem limitedCodes: loja traduzida não tem
 // código com prazo.
@@ -116,8 +132,7 @@ export function getLocaleHomeStoreTabs(locale: LocaleHomeLocale, reviews: HubRev
         label: code ? getCodeTitle(sidebar, kind, coupon.brand) : coupon.brand,
         code,
         copyAria: code ? labels.copyCoupon(code) : '',
-        // A YesStyle dá o desconto até o número (5% na 1ª compra, menos nas seguintes): o "até" vai no texto.
-        discount: upTo ? `${COUPON_HUB_COPY[locale].upTo} ${coupon.discount}` : coupon.discount,
+        discount: hubDiscount(locale, { coupon, upTo }),
         description: coupon.shortDescription,
         hints: getCodeHints(sidebar, kind, coupon),
         storeUrl: coupon.offerUrl,
@@ -185,7 +200,82 @@ function getLocaleCeciliaPanel(locale: LocaleHomeLocale, facts: ReturnType<typeo
   };
 }
 
-export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubReviews) {
+// A seção da data comercial na reta final (o boost do content/home-events.json). Os guias saem da lista do PT: de
+// cada guia PT, a versão do idioma (mesma translationKey, entre os listados no idioma), uma por família. Fica de
+// fora o guia sem versão no idioma e o de loja sem página no hub do idioma (escolha editorial: a seção só mostra loja
+// com página no idioma); nada cai de volta no PT. Ordem: os destaques do hub, na ordem dele, e depois a loja do
+// artigo mais novo, a regra das bolinhas.
+export function getLocaleHomeEvent(
+  locale: LocaleHomeLocale,
+  reviews: HubReviews,
+  now: Date,
+  config: unknown = homeEventsConfig
+): ResolvedHomeEvent | null {
+  const event = getBoostedHomeEvent(config, reviews, now);
+  if (!event) return null;
+
+  const listed = getPublishedReviewsForLocale(locale, reviews);
+  const entries = getCouponHubEntries(locale);
+  const families = new Set<string>();
+  const picked: Array<{ review: (typeof listed)[number]; entry: CouponHubEntry }> = [];
+  for (const slug of event.articleSlugs) {
+    const family = reviews.find((item) => item.slug === slug && isListedInPortuguese(item))?.translationKey;
+    if (!family || families.has(family)) continue;
+    const review = listed.find((item) => item.translationKey === family);
+    const entry = review && entries.find(({ coupon }) => reviewHasStore(review, coupon.slug));
+    if (!review || !entry) continue;
+    families.add(family);
+    picked.push({ review, entry });
+  }
+  if (picked.length === 0) return null;
+  // Os cards dos idiomas não têm rótulo: dois guias da mesma loja seriam dois cards iguais.
+  const twice = picked.find(({ entry }, index) => picked.findIndex((other) => other.entry.coupon.slug === entry.coupon.slug) !== index);
+  if (twice) {
+    throw new Error(`[localeHome] /${locale}: ${twice.review.slug} é o segundo guia de ${twice.entry.coupon.brand} na data, e os cards dos idiomas não têm rótulo.`);
+  }
+
+  const featured = getCouponHubShelves(locale).featured.map(({ coupon }) => coupon.slug);
+  const rank = newestArticleRank(listed);
+  const orderOf = (slug: string) => {
+    const index = featured.indexOf(slug);
+    return index >= 0 ? index : featured.length + (rank.get(slug) ?? listed.length);
+  };
+  const guides: HomeEventGuide[] = picked
+    .sort((a, b) => orderOf(a.entry.coupon.slug) - orderOf(b.entry.coupon.slug))
+    .map(({ review, entry }) => ({
+      slug: review.slug,
+      href: getReviewCanonicalPathname(review),
+      title: review.title,
+      name: entry.coupon.brand,
+      mark: getStoreMark(entry.coupon),
+      discount: hubDiscount(locale, entry),
+    }));
+
+  const copy = LOCALE_EVENT_COPY[locale];
+  const days = getCountdownDays(event.dayAt, now);
+  const dayFormat = new Intl.DateTimeFormat(LOCALES[locale].htmlLang, {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    timeZone: 'America/Sao_Paulo',
+  });
+  return {
+    id: event.id,
+    title: copy.title,
+    titleOf: copy.title,
+    theme: event.theme,
+    description: copy.description,
+    dayDate: formatIsoDay(event.dayAt),
+    dayLabel: dayFormat.format(new Date(event.dayAt)),
+    countdownLabel:
+      days > 1 ? fillTemplate(copy.countdown.days, { days }) : days === 1 ? copy.countdown.tomorrow : days === 0 ? copy.countdown.today : copy.countdown.last,
+    cards: [],
+    guides,
+    guideLabels: { suffix: copy.guideSuffix, showAll: fillTemplate(copy.showAll, { total: guides.length }), showLess: copy.showLess },
+  };
+}
+
+export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubReviews, now = new Date()) {
   const copy = getLocaleHomeCopy(locale);
   const stores = getLocaleHomeStoreTabs(locale, reviews);
   if (stores.length === 0) {
@@ -205,6 +295,7 @@ export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubRevie
     stores,
     latest: getLocaleHomeLatest(locale, reviews),
     latestAllHref: getReviewHubPath(locale),
+    event: getLocaleHomeEvent(locale, reviews, now),
   };
 }
 

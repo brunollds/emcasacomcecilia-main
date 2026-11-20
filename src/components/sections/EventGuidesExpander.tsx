@@ -7,12 +7,14 @@ import { useState, type ReactNode } from 'react';
 // partir de md, todos aparecem e o botão some. Só monta com mais guias do que cabem no celular. Sem imports de dados: entra no bundle da home.
 export function EventGuidesExpander({
   listId,
-  total,
+  showAllLabel,
+  showLessLabel,
   focusRing,
   children,
 }: {
   listId: string;
-  total: number;
+  showAllLabel: string;
+  showLessLabel: string;
   focusRing: string;
   children: ReactNode;
 }) {
@@ -27,7 +29,7 @@ export function EventGuidesExpander({
         onClick={() => setOpen((value) => !value)}
         className={`mx-4 min-h-11 cursor-pointer self-start rounded-full border-2 border-current px-4 text-sm font-extrabold md:hidden ${focusRing}`}
       >
-        {open ? 'Mostrar menos' : `Mostrar todos os ${total} guias`}
+        {open ? showLessLabel : showAllLabel}
       </button>
     </div>
   );
