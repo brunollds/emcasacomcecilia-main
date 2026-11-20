@@ -10,9 +10,9 @@ Leituras de 20/11/2026:
 - Google Trends (Brasil, 12 meses);
 - site, `products.json` e fichas, políticas e Reclame Aqui no navegador do app, sem login e sem carrinho.
 
-**Nenhuma pauta tem GO.**
+**GO do Bruno em 20/11/2026 no pacote todo (BI1 a BI6): briefings na seção 1 da Fila.**
 
-## 1. Pautas propostas (sem GO)
+## 1. Pacote inicial (GO em 20/11, com briefing)
 
 | Código | Pauta | Slug sugerido | Modelo | Busca (autocompletar de 20/11) |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ Perfil `reclameaqui.com.br/empresa/biobio-cosmeticos/`:
 - **Uso próprio:** a Cecília não usou a BioBio (Bruno, 20/11). BI3 e BI4 são pelo rótulo e pela ficha, sem "testamos" fora do checkout.
 - **Black Friday:** a parceira não mandou regra. A BI2 diz que o código entrou sobre o preço do Black Month no teste
   (o protetor já estava com 25% na vitrine), sem datas nem regulamento.
-- **Falta:** o GO.
+- **GO no pacote todo** (BI1 a BI6), 20/11.
