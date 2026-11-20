@@ -19,7 +19,7 @@
   "metaDescription": "Veja como abrir o link de indicação da Starlink, achar o valor no pedido e receber a recompensa depois de cumprir as condições do programa.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/starlink/starlink-indicacao-como-usar-capa.webp",
@@ -58,6 +58,7 @@
       "heading": "Quanto rende e quando cai",
       "paragraphs": [
         "Na tela brasileira com a nossa indicação, a Starlink mostrou R$ 200 de recompensa para quem assina. Quem indica também recebe o mesmo valor, em dinheiro ou em crédito de serviço.",
+        "Quem mora em Portugal também pode usar o link: no pedido português com a nossa indicação, a Starlink mostrou 45 € para quem assina, em dinheiro ou como crédito de serviço. Em Moçambique, a Starlink vende pelo site, e o valor aparece no pedido. Em Angola, ela ainda não vende o serviço.",
         "A assinatura precisa ficar ativa e em dia por dois ciclos mensais completos. A central de ajuda diz que a emissão pode começar a partir de 60 dias da ativação, conforme o país, a conta e a verificação de identidade.",
         "A forma padrão é crédito na fatura. Se a conta oferecer pagamento em dinheiro, abra Indicações no site pelo navegador, escolha o método de recompensa e conclua a identificação e o cadastro bancário na Stripe."
       ]
@@ -80,7 +81,8 @@
     {
       "heading": "E a oferta da Black Friday?",
       "paragraphs": [
-        "Na tela do Residencial Max que consultamos, a indicação apareceu junto dos 30% na mensalidade. Veja a [conta da Black Friday Starlink](/reviews/black-friday-starlink) e consulte a oferta do seu endereço."
+        "Na tela do Residencial Max que consultamos, a indicação apareceu junto dos 30% na mensalidade. Veja a [conta da Black Friday Starlink](/reviews/black-friday-starlink) e consulte a oferta do seu endereço.",
+        "Em Portugal, o pedido com a nossa indicação também trazia os 30% de desconto nos planos de serviço, com prazo para o registo. No Residencial 100 Mbps, o kit saía com custo inicial de 0 €, em aluguel: quem cancela devolve o equipamento."
       ]
     },
     {
@@ -97,7 +99,8 @@
         "Quando cai a recompensa da Starlink? A central de ajuda informa que a emissão pode começar a partir de 60 dias da ativação, se a indicação cumprir as condições do programa.",
         "A indicação vale no Mercado Livre? O programa exige a compra diretamente em starlink.com pelo link.",
         "Já fui cliente, posso usar o link? A recompensa é para quem assina a Starlink pela primeira vez.",
-        "O link de indicação funciona fora do Brasil? Funciona. Pela central de ajuda da Starlink, a indicação vale na maioria dos países onde ela vende, e o valor depende do país em que a pessoa se cadastra. Nos Estados Unidos, o pedido com o nosso link mostrou US$ 100 para quem assina."
+        "O link de indicação funciona fora do Brasil? Funciona. Pela central de ajuda da Starlink, a indicação vale na maioria dos países onde ela vende, e o valor depende do país em que a pessoa se cadastra. Nos Estados Unidos, o pedido com o nosso link mostrou US$ 100 para quem assina.",
+        "O link vale em Portugal, Angola e Moçambique? Em Portugal, sim: o pedido com o nosso link mostrou 45 € para quem assina, em dinheiro ou como crédito de serviço, junto dos 30% de desconto nos planos. Em Moçambique, a Starlink vende em starlink.com, e o valor aparece no pedido antes de pagar. Em Angola, a Starlink ainda não vende o serviço."
       ]
     }
   ],
