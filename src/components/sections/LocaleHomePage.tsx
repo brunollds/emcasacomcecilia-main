@@ -1,4 +1,5 @@
 import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
+import { HomeEvent } from '@/components/sections/HomeEvent';
 import { HomeLatest } from '@/components/sections/HomeLatest';
 import { HomeStoreStories } from '@/components/sections/HomeStoreStories';
 import { CECILIA_TAB_ID } from '@/lib/homeStoreTabs';
@@ -7,7 +8,8 @@ import { serializeJsonLd } from '@/lib/jsonLd';
 import { getLocaleHomeJsonLd, type LocaleHomeContent } from '@/lib/localeHome';
 
 // A home de cada idioma tem a mesma ordem da home em português, que abre na vitrine: a Cecília primeiro (quem
-// chega de fora cai no artigo e abre a home para ver quem está por trás do site), depois "Acabou de sair". Não
+// chega de fora cai no artigo e abre a home para ver quem está por trás do site), na reta final de uma data comercial a
+// seção dela, e depois "Acabou de sair". Não
 // importa next/font (o teste roda em tsx): a rota passa as fontes pelo className.
 export function LocaleHomePage({ content, className = '' }: { content: LocaleHomeContent; className?: string }) {
   return (
@@ -26,6 +28,12 @@ export function LocaleHomePage({ content, className = '' }: { content: LocaleHom
           defaultTabId={CECILIA_TAB_ID}
         />
       </div>
+
+      {content.event ? (
+        <div className="pb-8 md:pb-10">
+          <HomeEvent event={content.event} />
+        </div>
+      ) : null}
 
       <div className="pb-8 md:pb-10">
         <HomeLatest articles={content.latest} copy={content.copy} allHref={content.latestAllHref} />

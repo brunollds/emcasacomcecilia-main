@@ -49,6 +49,7 @@ import {
   LOCALE_HOME_LOCALES,
   getHomeLanguageLinks,
   getLocaleHomeContent,
+  getLocaleHomeEvent,
   getLocaleHomePath,
   getLocaleHomeStores,
 } from '../src/lib/localeHome';
@@ -3711,20 +3712,57 @@ const damieTab = homeExpected.tabs.find(({ slug }) => slug === 'damie');
 if (damieTab) assert.equal(damieTab.storePageUrl, '/cupons/damie', 'a aba da DAMIE leva a /cupons/damie');
 assert.deepEqual(homeProblems(homeBody, homeExpected), [], '/: home');
 
+// A Black Friday na home de um idioma, pela hora em que a página foi gerada: na reta final, a seção fica entre a vitrine
+// e o "Acabou de sair", com um link por guia, na ordem dos dados e no idioma, sem botão nem "Ver tudo"; fora dela, nada.
+function localeEventProblems(body: string, locale: string, event: ReturnType<typeof getLocaleHomeEvent>): string[] {
+  const problems: string[] = [];
+  const at = body.indexOf(EVENT_SECTION);
+  if (!event) {
+    if (at >= 0) problems.push('seção de data comercial fora da reta final');
+    return problems;
+  }
+  if (!(at > body.indexOf('role="tablist"') && at < body.indexOf(LATEST_SECTION))) {
+    problems.push('a seção de data comercial não fica entre a vitrine e o "Acabou de sair"');
+  }
+  const section = between(body, EVENT_SECTION, [LATEST_SECTION]);
+  const links = (section.match(/href="[^"]+"/g) ?? []).join(' ');
+  if (links !== (event.guides ?? []).map((guide) => hrefOf(guide.href)).join(' ')) problems.push('guias, ordem ou link a mais na seção');
+  if (!(event.guides ?? []).every((guide) => guide.href.startsWith(`/${locale}/reviews/`))) problems.push('guia fora do idioma');
+  if (/<button\b/.test(section) !== (event.guides ?? []).length > MOBILE_VISIBLE_GUIDES) problems.push('o botão de mostrar todos não segue o número de guias');
+  if (!section.includes(escapeHtml(event.description))) problems.push('sem a descrição do idioma');
+  return problems;
+}
+
 // A home de cada idioma tem a mesma vitrine e o mesmo "Acabou de sair", com o mesmo movimento.
 for (const locale of LOCALE_HOME_LOCALES) {
   const pagePath = getLocaleHomePath(locale);
   const file = builtFile(`${SITE_URL}${pagePath}`);
   assert.ok(file, `${pagePath}: página não gerada no build`);
   const body = bodyOf(read(file));
-  const content = getLocaleHomeContent(locale, publishedReviews);
+  const builtAt = fs.statSync(file).mtime;
+  const content = getLocaleHomeContent(locale, publishedReviews, builtAt);
   const expected = {
     stripIds: ['cecilia', ...content.stores.map(({ slug }) => `loja-${slug}`)],
     labels: getHomeCopy(locale),
     latestCount: content.latest.length,
   };
   assert.deepEqual(shelfMotionProblems(body, expected), [], `${pagePath}: vitrine e "Acabou de sair"`);
+  assert.deepEqual(localeEventProblems(body, locale, content.event), [], `${pagePath}: Black Friday`);
   if (locale !== 'en') continue;
+  // Controle da Black Friday: sem um guia, com a seção depois do "Acabou de sair" ou sem ela na reta final.
+  if (content.event?.guides) {
+    const lastGuide = hrefOf(content.event.guides[content.event.guides.length - 1].href);
+    const eventAt = body.indexOf(EVENT_SECTION);
+    const latestAt = body.indexOf(LATEST_SECTION);
+    for (const mutated of [
+      body.slice(0, eventAt) + body.slice(eventAt, latestAt).replace(lastGuide, 'href="/outra"') + body.slice(latestAt),
+      body.replace(EVENT_SECTION, 'aria-labelledby="titulo-outra"'),
+      body.replace(EVENT_SECTION, 'aria-labelledby="titulo-outra"').replace('<footer', `<section ${EVENT_SECTION}></section><footer`),
+    ]) {
+      assert.notEqual(mutated, body, `${pagePath}: o controle da Black Friday não achou o trecho`);
+      assert.notDeepEqual(localeEventProblems(mutated, locale, content.event), [], `${pagePath}: o controle da Black Friday passou`);
+    }
+  }
   // Controle: sem o marca-texto, sem a cascata ou com a faixa quebrando em linhas, a home não passa.
   for (const mutated of [
     body.replace('<span class="marca-texto">', '<span>'),

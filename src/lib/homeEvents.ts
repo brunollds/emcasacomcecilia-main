@@ -82,7 +82,11 @@ export type ResolvedHomeEvent = {
   // Só durante a reta final (boost): todos os guias, compactos, e o aviso de temporada dos códigos.
   guides?: HomeEventGuide[];
   seasonNotice?: string;
+  // No idioma da home: o fim do nome do link de cada guia, para leitor de tela, e o botão do celular.
+  guideLabels: HomeEventGuideLabels;
 };
+
+export type HomeEventGuideLabels = { suffix: string; showAll: string; showLess: string };
 
 export type EventHubPageData = {
   hub: string;
@@ -261,13 +265,18 @@ export function formatEventDay(iso: string, withYear = false): string {
 }
 
 // O mesmo dia do rótulo, como AAAA-MM-DD, para o <time dateTime>.
-function formatIsoDay(iso: string): string {
+export function formatIsoDay(iso: string): string {
   const { year, month, day } = saoPauloDay(new Date(iso));
   return `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
 }
 
+// Quantos dias faltam até a data, contados em dias de Brasília: negativo depois dela.
+export function getCountdownDays(dayAt: string, now: Date): number {
+  return saoPauloDay(new Date(dayAt)).index - saoPauloDay(now).index;
+}
+
 export function getCountdownLabel(dayAt: string, now: Date): string {
-  const days = saoPauloDay(new Date(dayAt)).index - saoPauloDay(now).index;
+  const days = getCountdownDays(dayAt, now);
   if (days > 1) return `faltam ${days} dias`;
   if (days === 1) return 'é amanhã';
   if (days === 0) return 'é hoje';
@@ -343,6 +352,16 @@ function isBoosted(event: HomeEventEntry, now: Date): event is HomeEventEntry & 
   return event.boost !== undefined && now.getTime() < Date.parse(event.boost.endsAt);
 }
 
+// A data aberta e em reta final, já validada. As homes dos outros idiomas só mostram a seção nesse período.
+export function getBoostedHomeEvent(
+  config: unknown,
+  reviews: readonly StoreReview[],
+  now: Date
+): (HomeEventEntry & { boost: HomeEventBoost }) | null {
+  const event = parseHomeEvents(config, reviews).find((item) => isOpen(item, now));
+  return event && isBoosted(event, now) ? event : null;
+}
+
 // A capa do artigo mais novo da edição, com o desempate do site (data e depois id). O card traz a
 // capa já resolvida, mas não a data; sem capa em nenhum card, vale o logo do site.
 function getSocialImage(cards: readonly HomeEventCard[], reviews: readonly StoreReview[]): SocialImage {
@@ -384,6 +403,11 @@ export function resolveActiveHomeEvent(
     cards: toCards({ ...event, articleSlugs: event.articleSlugs.slice(0, HOME_CARD_LIMIT) }, reviews, stores),
     ...(boosted ? { guides: boosted.guides } : {}),
     ...(boosted?.takesSeasonNotice && notice?.inHtml ? { seasonNotice: notice.text } : {}),
+    guideLabels: {
+      suffix: `, guia ${event.titleOf}`,
+      showAll: `Mostrar todos os ${boosted?.guides.length ?? 0} guias`,
+      showLess: 'Mostrar menos',
+    },
   };
 }
 

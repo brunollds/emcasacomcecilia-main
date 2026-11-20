@@ -50,6 +50,10 @@ const DESKTOP_COLUMNS = ['', 'lg:grid-cols-2', 'lg:grid-cols-2', 'lg:grid-cols-3
 
 const GUIDES_LIST_ID = 'guias-data-comercial';
 
+// Ideogramas e hangul ficam fora da fonte condensada e saem mais largos: o título menor não quebra no meio da palavra
+// no celular ("ブラックフライ / デー").
+const WIDE_SCRIPT = /[\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]/;
+
 export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
   const theme = EVENT_THEME_CLASSES[event.theme];
 
@@ -62,7 +66,7 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
           <div className="flex min-w-0 flex-[1_1_220px] flex-col gap-2 md:flex-[1_1_420px]">
             <h2
               id="titulo-data-comercial"
-              className={`font-condensada text-[44px] leading-[0.95] font-black font-stretch-extra-condensed md:text-[64px] ${theme.title}`}
+              className={`font-condensada leading-[0.95] font-black font-stretch-extra-condensed ${WIDE_SCRIPT.test(event.title) ? 'text-[32px] md:text-[56px]' : 'text-[44px] md:text-[64px]'} ${theme.title}`}
             >
               {event.title}
             </h2>
@@ -86,11 +90,16 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
               <p className="px-4 text-[13px] leading-[1.4] font-bold md:px-0">{event.seasonNotice}</p>
             ) : null}
             {event.guides.length > MOBILE_VISIBLE_GUIDES ? (
-              <EventGuidesExpander listId={GUIDES_LIST_ID} total={event.guides.length} focusRing={theme.focus}>
-                <EventGuideList guides={event.guides} titleOf={event.titleOf} focusRing={theme.focus} />
+              <EventGuidesExpander
+                listId={GUIDES_LIST_ID}
+                showAllLabel={event.guideLabels.showAll}
+                showLessLabel={event.guideLabels.showLess}
+                focusRing={theme.focus}
+              >
+                <EventGuideList guides={event.guides} suffix={event.guideLabels.suffix} focusRing={theme.focus} />
               </EventGuidesExpander>
             ) : (
-              <EventGuideList guides={event.guides} titleOf={event.titleOf} focusRing={theme.focus} />
+              <EventGuideList guides={event.guides} suffix={event.guideLabels.suffix} focusRing={theme.focus} />
             )}
           </>
         ) : (
@@ -126,7 +135,7 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
 
 // A grade da reta final. No celular, do 13º guia em diante esperam o botão do EventGuidesExpander (o grupo `guias`);
 // sem o botão (12 guias ou menos), nenhum fica escondido.
-function EventGuideList({ guides, titleOf, focusRing }: { guides: HomeEventGuide[]; titleOf: string; focusRing: string }) {
+function EventGuideList({ guides, suffix, focusRing }: { guides: HomeEventGuide[]; suffix: string; focusRing: string }) {
   return (
     <ul
       id={GUIDES_LIST_ID}
@@ -137,7 +146,7 @@ function EventGuideList({ guides, titleOf, focusRing }: { guides: HomeEventGuide
           key={guide.slug}
           className={`flex min-w-0 ${index >= MOBILE_VISIBLE_GUIDES ? 'max-md:group-data-[aberto=false]/guias:hidden' : ''}`}
         >
-          <EventGuideCard guide={guide} titleOf={titleOf} focusRing={focusRing} />
+          <EventGuideCard guide={guide} suffix={suffix} focusRing={focusRing} />
         </li>
       ))}
     </ul>
@@ -147,7 +156,7 @@ function EventGuideList({ guides, titleOf, focusRing }: { guides: HomeEventGuide
 // O card compacto da reta final: um link só, sem capa nem código. O nome do link começa pelo texto visível (WCAG
 // 2.5.3) e termina num trecho para leitor de tela. Sem prefetch: são dezenas de links na primeira tela. A bolinha usa
 // o mesmo sizes da vitrine, para reaproveitar a imagem que ela já baixou.
-function EventGuideCard({ guide, titleOf, focusRing }: { guide: HomeEventGuide; titleOf: string; focusRing: string }) {
+function EventGuideCard({ guide, suffix, focusRing }: { guide: HomeEventGuide; suffix: string; focusRing: string }) {
   return (
     <TrackedHomeLink
       href={guide.href}
@@ -167,7 +176,7 @@ function EventGuideCard({ guide, titleOf, focusRing }: { guide: HomeEventGuide; 
         <span className="text-sm leading-[1.2] font-extrabold break-words">{guide.name}</span>
         {guide.discount ? <span className="text-xs leading-[1.3] font-bold">{guide.discount}</span> : null}
         {guide.label ? <span className="text-xs leading-[1.3] text-marinho-suave">{guide.label}</span> : null}
-        <span className="sr-only">, guia {titleOf}</span>
+        <span className="sr-only">{suffix}</span>
       </span>
     </TrackedHomeLink>
   );
