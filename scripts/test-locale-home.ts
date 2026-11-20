@@ -19,7 +19,7 @@ import {
   isCertificateValid,
 } from '@/lib/ceciliaCredentials';
 import { publishedReviews } from '@/lib/data';
-import { getStoreCode, newestArticleRank } from '@/lib/homeStores';
+import { getStoreCode, getStoreMark, newestArticleRank } from '@/lib/homeStores';
 import { LOCALE_KEYS } from '@/lib/i18n/locales';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import {
@@ -80,6 +80,12 @@ for (const locale of LOCALE_HOME_LOCALES) {
     assert.ok(store.storeUrl.startsWith('https://'), `${locale}/${store.slug}: link de loja sem https`);
     const entry = hubEntries.find(({ coupon }) => coupon.slug === store.slug);
     assert.equal(store.code, entry && getStoreCode(entry.coupon), `${locale}/${store.slug}: código diferente do hub`);
+    // A bolinha é a mesma do PT: a marca própria (bubble), com o fundo e o round, e o logo só para quem não tem.
+    assert.deepEqual(
+      { logo: store.logo, ...(store.bubble ? { bubble: store.bubble } : {}), initials: store.initials },
+      entry && getStoreMark(entry.coupon),
+      `${locale}/${store.slug}: bolinha diferente da do PT`
+    );
   }
 }
 
@@ -88,6 +94,8 @@ const yesStyle = en.stores.find((store) => store.slug === 'yesstyle');
 assert.ok(yesStyle, 'en: sem a aba da YesStyle');
 assert.equal(yesStyle.discount, `${COUPON_HUB_COPY.en.upTo} 5% OFF`, 'en: desconto da YesStyle sem o "up to"');
 assert.equal(yesStyle.code, 'CECILIA010', 'en: código da YesStyle');
+const starlink = en.stores.find((store) => store.slug === 'starlink');
+assert.ok(starlink?.bubble?.round && starlink.bubble.background === '#000000', 'en: a bolinha da Starlink não é a do PT (fundo preto e round)');
 
 // O painel: quem é a Cecília, o selo e o e-mail; nada do bloco do PT (sobre, WhatsApp). "Acabou de sair" com até 5.
 for (const locale of LOCALE_HOME_LOCALES) {
