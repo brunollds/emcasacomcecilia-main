@@ -16,10 +16,14 @@ guias de Black Friday daquele idioma, como a home PT leva aos 42 dela.
 - Os guias em **cards compactos** (decisão do Bruno, depois do Gemini): bolinha da loja, nome, desconto da página da
   loja no idioma (o mesmo texto do hub de cupons, com o "up to" da YesStyle) e o trecho para leitor de tela. Cards
   com capa repetiriam a capa da Starlink, que também está no "Acabou de sair" dos 9 idiomas.
-- Hoje são 5 guias por idioma: YesStyle, Hostinger, Starlink, Proton e SHEIN.
+- Hoje são 5 guias por idioma: YesStyle, Starlink, Hostinger, Proton e SHEIN.
 - **Ordem** (decisão do Bruno): os destaques do hub de cupons primeiro, na ordem do hub (YesStyle, depois
   `isHubFeaturedStore`), e o resto pelo artigo mais novo, a regra das bolinhas. Com os dados de hoje: YesStyle,
-  Hostinger, Starlink, Proton e SHEIN.
+  Starlink, Hostinger, Proton e SHEIN (o hub mostra a Starlink antes da Hostinger; o ChatGPT recomendou manter a
+  ordem do hub, fonte única).
+- Os textos dos idiomas ficam por edição (`id` da data): outra data ou outro ano sem textos não aparece fora do PT.
+  Guia de várias lojas fica de fora (o card mostra uma loja só). Ajustes do Gemini: "dans {days} jours" no francês,
+  "Ratgeber" e "Partner-Shops" no alemão, como o resto da home alemã.
 - **Sem "Ver tudo"** (decisão do Bruno): a página `/black-friday` só existe em PT, e a seção já mostra todos os guias
   do idioma.
 - **Sem aviso de temporada**: o aviso fala de lojas PT com cupom; das 5, só a Hostinger tem cupom de checkout.

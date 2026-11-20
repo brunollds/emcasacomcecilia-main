@@ -13,6 +13,7 @@ import { HomeLatest } from '@/components/sections/HomeLatest';
 import { PT_HOME_CHROME, type HomeChromeCopy } from '@/components/sections/homeCopy';
 import { getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import { getCouponHubEntries, getCouponHubShelves } from '@/lib/couponHub';
+import { MOBILE_VISIBLE_GUIDES } from '@/lib/homeEvents';
 import {
   CECILIA_FULL_NAME,
   CECILIA_PERSON_ID,
@@ -35,7 +36,7 @@ import {
 import { SITE_URL } from '@/lib/pageSeo';
 import { getPublishedReviewsForLocale } from '@/lib/review-hubs';
 import { isListedInPortuguese } from '@/lib/reviewDiscovery';
-import { reviewHasStore } from '@/lib/reviewStores';
+import { getSingleStoreSlug } from '@/lib/reviewStores';
 import homeEventsConfig from '../content/home-events.json';
 
 // A home de cada idioma é a da home em português com os textos e os artigos do idioma. Aqui: os 16 textos de
@@ -149,7 +150,7 @@ const ptGuideFamilies = boostedEvent.articleSlugs.map(
 const PT_EVENT = { suffix: ', guia da Black Friday', showLess: 'Mostrar menos', description: boostedEvent.description };
 const COUPON_WORDS = /cup[oó]n|coupon|gutschein|クーポン|쿠폰|優惠券|优惠券/i;
 for (const locale of LOCALE_HOME_LOCALES) {
-  const copy = LOCALE_EVENT_COPY[locale];
+  const copy = LOCALE_EVENT_COPY[boostedEvent.id][locale];
   for (const text of [copy.title, copy.description, copy.guideSuffix, copy.showAll, copy.showLess, ...Object.values(copy.countdown)]) {
     assert.ok(text.trim(), `${locale}: texto da Black Friday vazio`);
     assert.doesNotMatch(text, COUPON_WORDS, `${locale}: a seção chama de cupom o que pode ser código de recompensa ou indicação`);
@@ -173,7 +174,8 @@ for (const locale of LOCALE_HOME_LOCALES) {
   const hubSlugs = getCouponHubEntries(locale).map(({ coupon }) => coupon.slug);
   const expectedFamilies = [...new Set(ptGuideFamilies)].filter((family) => {
     const review = family ? listed.find((item) => item.translationKey === family) : undefined;
-    return review !== undefined && hubSlugs.some((slug) => reviewHasStore(review, slug));
+    const store = review ? getSingleStoreSlug(review) : undefined;
+    return store !== undefined && hubSlugs.includes(store);
   });
   const event = getLocaleHomeEvent(locale, publishedReviews, IN_STRETCH);
   assert.ok(event?.guides, `${locale}: sem a Black Friday em 25/11`);
@@ -209,10 +211,16 @@ for (const locale of LOCALE_HOME_LOCALES) {
   const text = decode(html.replace(/<[^>]+>/g, ' '));
   assert.equal(html.match(new RegExp(`href="/${locale}/reviews/`, 'g'))?.length, event.guides.length, `${locale}: links dos guias`);
   assert.equal(html.match(/href="/g)?.length, event.guides.length, `${locale}: link a mais na seção`);
-  assert.ok(!html.includes('<button') && !html.includes('data-reveal'), `${locale}: botão ou data-reveal na seção`);
+  assert.ok(!html.includes('data-reveal'), `${locale}: data-reveal na seção`);
+  assert.equal(html.includes('<button'), event.guides.length > MOBILE_VISIBLE_GUIDES, `${locale}: o botão não segue o número de guias`);
   assert.equal(text.split(copy.guideSuffix).length - 1, event.guides.length, `${locale}: trecho do leitor de tela`);
   assert.ok(text.includes(copy.title) && text.includes(copy.description) && text.includes(event.dayLabel), `${locale}: título, descrição ou dia`);
-  assert.doesNotMatch(text, /guia d|Mostrar|faltam|lojas parceiras|Black Friday 2026 das/, `${locale}: texto em português na seção`);
+  assert.doesNotMatch(text, /guia d|Mostrar todos os|faltam|lojas parceiras|Black Friday 2026 das/, `${locale}: texto em português na seção`);
+}
+// Outra edição (outra data ou outro ano) sem textos nos idiomas não aparece fora do PT.
+const otherEdition = { events: homeEventsConfig.events.map((item) => (item === boostedEvent ? { ...item, id: 'natal-2026' } : item)) };
+for (const locale of LOCALE_HOME_LOCALES) {
+  assert.equal(getLocaleHomeEvent(locale, publishedReviews, IN_STRETCH, otherEdition), null, `${locale}: edição sem textos no idioma`);
 }
 
 assert.equal(getHomeLanguageLinks()['x-default'], `${SITE_URL}/en`);

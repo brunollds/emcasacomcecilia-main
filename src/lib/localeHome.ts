@@ -35,7 +35,7 @@ import { SITE_URL, absoluteUrl } from '@/lib/pageSeo';
 import { getPublishedReviewsForLocale, getReviewHubPath } from '@/lib/review-hubs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { isListedInPortuguese } from '@/lib/reviewDiscovery';
-import { getReviewStoreLabel, reviewHasStore } from '@/lib/reviewStores';
+import { getReviewStoreLabel, getSingleStoreSlug, reviewHasStore } from '@/lib/reviewStores';
 
 // A home de cada idioma fora do português (/en, /ja…): o mesmo desenho da home em português (vitrine com a
 // Cecília e as lojas, e "Acabou de sair"), com os textos e os artigos do idioma. Quem monta é o servidor:
@@ -212,7 +212,9 @@ export function getLocaleHomeEvent(
   config: unknown = homeEventsConfig
 ): ResolvedHomeEvent | null {
   const event = getBoostedHomeEvent(config, reviews, now);
-  if (!event) return null;
+  // A edição sem textos nos idiomas (outra data, outro ano) não aparece fora do PT.
+  const copy = event ? LOCALE_EVENT_COPY[event.id]?.[locale] : undefined;
+  if (!event || !copy) return null;
 
   const listed = getPublishedReviewsForLocale(locale, reviews);
   const entries = getCouponHubEntries(locale);
@@ -222,7 +224,9 @@ export function getLocaleHomeEvent(
     const family = reviews.find((item) => item.slug === slug && isListedInPortuguese(item))?.translationKey;
     if (!family || families.has(family)) continue;
     const review = listed.find((item) => item.translationKey === family);
-    const entry = review && entries.find(({ coupon }) => reviewHasStore(review, coupon.slug));
+    // O guia de várias lojas fica de fora: o card mostra uma loja só, e a primeira da lista não é a principal.
+    const store = review && getSingleStoreSlug(review);
+    const entry = store ? entries.find(({ coupon }) => coupon.slug === store) : undefined;
     if (!review || !entry) continue;
     families.add(family);
     picked.push({ review, entry });
@@ -251,7 +255,6 @@ export function getLocaleHomeEvent(
       discount: hubDiscount(locale, entry),
     }));
 
-  const copy = LOCALE_EVENT_COPY[locale];
   const days = getCountdownDays(event.dayAt, now);
   const dayFormat = new Intl.DateTimeFormat(LOCALES[locale].htmlLang, {
     weekday: 'long',

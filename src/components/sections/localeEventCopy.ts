@@ -1,7 +1,8 @@
 import type { TranslatedLocale } from '@/lib/couponTranslations';
 
-// Os textos da seção da data comercial (a Black Friday) nas homes dos 9 idiomas. O dia sai do Intl; o resto daqui.
-// `{days}` e `{total}` são trocados pelo número.
+// Os textos da seção da data comercial nas homes dos 9 idiomas, por edição (o `id` em content/home-events.json): uma
+// data sem textos aqui não aparece fora do PT. O dia sai do Intl; o resto daqui. `{days}` e `{total}` são trocados pelo
+// número.
 export type LocaleEventCopy = {
   title: string;
   description: string;
@@ -11,7 +12,7 @@ export type LocaleEventCopy = {
   showLess: string;
 };
 
-export const LOCALE_EVENT_COPY: Record<TranslatedLocale, LocaleEventCopy> = {
+const BLACK_FRIDAY_2026: Record<TranslatedLocale, LocaleEventCopy> = {
   en: {
     title: 'Black Friday',
     description: 'The 2026 Black Friday guides for our partner stores: the dates, the deals and how to get each store’s discount.',
@@ -31,17 +32,17 @@ export const LOCALE_EVENT_COPY: Record<TranslatedLocale, LocaleEventCopy> = {
   fr: {
     title: 'Black Friday',
     description: 'Les guides du Black Friday 2026 des boutiques partenaires : les dates, les offres et comment profiter de la réduction de chaque boutique.',
-    countdown: { days: 'encore {days} jours', tomorrow: 'c’est demain', today: 'c’est aujourd’hui', last: 'derniers jours' },
+    countdown: { days: 'dans {days} jours', tomorrow: 'c’est demain', today: 'c’est aujourd’hui', last: 'derniers jours' },
     guideSuffix: ', guide du Black Friday',
     showAll: 'Afficher les {total} guides',
     showLess: 'Afficher moins',
   },
   de: {
     title: 'Black Friday',
-    description: 'Die Black-Friday-Guides 2026 der Partnershops: die Termine, die Angebote und wie man den Rabatt jedes Shops nutzt.',
+    description: 'Die Black-Friday-Ratgeber 2026 der Partner-Shops: die Termine, die Angebote und wie Sie den Rabatt jedes Shops nutzen.',
     countdown: { days: 'noch {days} Tage', tomorrow: 'schon morgen', today: 'heute', last: 'letzte Tage' },
-    guideSuffix: ', Black-Friday-Guide',
-    showAll: 'Alle {total} Guides anzeigen',
+    guideSuffix: ', Black-Friday-Ratgeber',
+    showAll: 'Alle {total} Ratgeber anzeigen',
     showLess: 'Weniger anzeigen',
   },
   it: {
@@ -63,7 +64,7 @@ export const LOCALE_EVENT_COPY: Record<TranslatedLocale, LocaleEventCopy> = {
   ko: {
     title: '블랙프라이데이',
     description: '제휴 스토어의 2026 블랙프라이데이 가이드: 일정, 혜택, 스토어별 할인을 받는 방법을 모았습니다.',
-    countdown: { days: '{days}일 남음', tomorrow: '내일입니다', today: '오늘입니다', last: '마지막 기회' },
+    countdown: { days: '{days}일 남음', tomorrow: '내일입니다', today: '오늘입니다', last: '마지막 며칠' },
     guideSuffix: ', 블랙프라이데이 가이드',
     showAll: '가이드 {total}개 모두 보기',
     showLess: '간략히 보기',
@@ -84,4 +85,8 @@ export const LOCALE_EVENT_COPY: Record<TranslatedLocale, LocaleEventCopy> = {
     showAll: '显示全部 {total} 篇指南',
     showLess: '收起',
   },
+};
+
+export const LOCALE_EVENT_COPY: Record<string, Record<TranslatedLocale, LocaleEventCopy>> = {
+  'black-friday-2026': BLACK_FRIDAY_2026,
 };
