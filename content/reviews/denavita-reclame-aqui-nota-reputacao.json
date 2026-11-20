@@ -23,9 +23,9 @@
   "coupon": "EMCASA",
   "affiliate": "denavita",
   "type": "Análise de Reputação",
-  "title": "Denavita no Reclame Aqui: a nota, os atrasos na entrega e como a loja responde",
+  "title": "Denavita no Reclame Aqui: nota, atrasos e tempo de resposta",
   "seoTitle": "Denavita no Reclame Aqui: nota e reclamações",
-  "description": "A nota Ótima da Denavita no Reclame Aqui, por que o atraso na entrega lidera as queixas, quanto a loja resolve, em quanto tempo responde e o que fazer antes de comprar.",
+  "description": "Veja a nota da Denavita no Reclame Aqui, o tempo médio de resposta, o que aparece nas queixas de entrega e quais dados guardar se precisar falar com a loja.",
   "metaDescription": "EMCASA dá 10% OFF na Denavita. Veja a nota da loja no Reclame Aqui, o que mais gera reclamação, quanto ela resolve e o que fazer antes de comprar.",
   "image": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-capa.webp",
   "imageAlt": "Pote de NAC+ com cápsulas, em foto da Denavita com o logo da marca, os textos «Reclame Aqui / Nota e queixas» e o código EMCASA.",
@@ -51,16 +51,16 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "No Reclame Aqui, a Denavita tem reputação Ótima, nota 8,5, com todas as reclamações respondidas e nove em dez resolvidas entre as avaliadas. O atraso na entrega, porém, é quase metade dos problemas registrados, e a loja leva em média cerca de cinco dias e meio para responder. Antes de comprar, confira o prazo pelo CEP."
+        "A Denavita teve nota 8,5 e reputação Ótima no Reclame Aqui de maio a outubro de 2026. O perfil mostrava resposta a todas as 108 reclamações do semestre, em média após 5 dias e 14 horas. Na aba geral, que reúne até três anos, atraso na entrega era a queixa mais citada."
       ]
     },
     {
       "heading": "A nota em números",
       "paragraphs": [
-        "A reputação é Ótima nos seis meses que a tabela cobre. Os índices de resolvidas e de quem voltaria a fazer negócio valem só para as reclamações avaliadas, 58 das 108, e não para o total."
+        "A tabela reúne os indicadores observados no [perfil da Denavita](https://www.reclameaqui.com.br/empresa/denavita/) para o semestre de maio a outubro."
       ],
       "comparisonTable": {
-        "caption": "Perfil da Denavita no Reclame Aqui, de 01/05/2026 a 31/10/2026.",
+        "caption": "Indicadores da Denavita no semestre consultado.",
         "headers": [
           "Indicador",
           "Seis meses"
@@ -71,7 +71,7 @@
             "Ótima"
           ],
           [
-            "Nota média",
+            "Nota de reputação",
             "8,5"
           ],
           [
@@ -109,7 +109,7 @@
         ]
       },
       "postParagraphs": [
-        "São duas notas diferentes: a reputação, 8,5, é a do Reclame Aqui para a empresa, e a nota do consumidor, 7,21, é a média de quem avaliou o atendimento."
+        "Das 108 reclamações, 58 foram avaliadas. O índice de solução e a intenção de voltar a comprar se referem às avaliadas. A nota 8,5 é a reputação calculada pelo Reclame Aqui. A nota 7,21 é a média dada pelos consumidores que avaliaram."
       ]
     },
     {
@@ -122,23 +122,13 @@
     {
       "heading": "O que mais gera reclamação",
       "paragraphs": [
-        "A entrega lidera. No histórico geral do perfil, que soma até três anos, o problema “Atraso na entrega” aparece em 46,18% do total: quase metade.",
-        "O perfil também classifica as reclamações por categoria e por produto: “Produtos Naturais” tem 26,97% e “Suplementos vitamínicos”, 27,24%. São recortes diferentes das mesmas reclamações, então não se somam.",
-        "A nota Ótima e o atraso convivem no mesmo perfil: a nota descreve como a empresa trata as reclamações, e o atraso diz o que mais gera reclamação. Quem compra pela internet deve olhar o prazo antes de pagar."
-      ]
-    },
-    {
-      "heading": "Como a loja responde",
-      "paragraphs": [
-        "No recorte de seis meses, todas as reclamações têm resposta e nenhuma aguarda. A resposta leva em média 5 dias e 14 horas, quase cinco dias e meio.",
-        "Entre as 58 avaliadas, 91,4% constam como resolvidas, e 79,3% voltariam a fazer negócio. Ou seja, cerca de um em cada cinco não voltaria."
+        "O perfil registrava atraso na entrega em 46,18% dos problemas da aba geral. Essa aba reúne até três anos. Para saber a frequência de atraso por pedido seria preciso conhecer o número de pedidos e entregas da loja."
       ]
     },
     {
       "heading": "Qual perfil é o da Denavita",
       "paragraphs": [
-        "O perfil é da empresa, não de cada produto. Chama-se Denavita, tem o selo de Empresa Verificada e aparece em Alimentos e Bebidas, na categoria Suplementos Alimentares e Fórmulas, onde está em 25º lugar. Está no Reclame Aqui há 3 anos.",
-        "O CNPJ do perfil é 43.777.011/0001-95, o da matriz. O do rodapé do site é o da filial, e os dois têm a mesma raiz, 43.777.011. Quem vende e como conferir os números estão em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
+        "O perfil tem selo de Empresa Verificada e informa o CNPJ 43.777.011/0001-95. O rodapé da loja exibe outro número. Veja [quem vende e como conferir os CNPJs](/reviews/denavita-e-confiavel)."
       ],
       "images": [
         {
@@ -151,46 +141,30 @@
       ]
     },
     {
-      "heading": "Antes de comprar",
+      "heading": "Como documentar a previsão de entrega",
       "paragraphs": [
-        "Como o atraso lidera as queixas, o que pesa antes de pagar é o prazo:"
-      ],
-      "bullets": [
-        "Compre pelo site oficial, denavita.com.br.",
-        "Confira o prazo de entrega pelo CEP, no checkout, e anote a data.",
-        "Guarde o comprovante e o número do pedido e acompanhe o rastreio desde o primeiro dia.",
-        "O site anuncia frete grátis em compras a partir de R$ 199,90; confira a opção de envio no checkout."
-      ],
-      "postParagraphs": [
-        "Mais sobre quem vende, o site oficial e a entrega em [Denavita é confiável?](/reviews/denavita-e-confiavel). O que dá para saber dos produtos está em [Denavita é boa?](/reviews/denavita-e-boa)."
+        "Informe o CEP para ver a estimativa de entrega. Guarde uma captura da previsão, o número do pedido e o comprovante de pagamento para acompanhar o pedido e cobrar a entrega se o prazo passar."
       ]
     },
     {
       "heading": "Como reclamar",
       "paragraphs": [
-        "Antes do Reclame Aqui, fale com a loja. A loja informa: o portal de trocas tem dois prazos, com devolução em voucher ou reembolso do valor pago pelo item."
-      ],
-      "bullets": [
-        "Problema com o pedido (faltou item, produto errado, danificado, sem lacre ou fora da validade): 30 dias depois da entrega.",
-        "Desistência: 7 dias, com o produto lacrado."
-      ],
-      "postParagraphs": [
-        "Para pedido que passou do prazo do checkout, fale com a central de atendimento, com o número do pedido à mão. Se a loja não resolver, procure o Reclame Aqui e o Procon do seu estado."
+        "Se estiver esperando a entrega, fale com a [central da Denavita](https://app.goconnect360.com.br/hc/denavita) e guarde o protocolo. Para produto errado, avaria ou desistência, use o [portal de trocas](https://trocas-gobeaute.devgogroup.com/denavita).",
+        "Se a loja não resolver, você pode registrar a reclamação no Reclame Aqui ou consultar o Procon do seu estado."
       ]
     },
     {
-      "heading": "O que a nota diz para quem vai comprar",
+      "heading": "Onde conferir o perfil atualizado",
       "paragraphs": [
-        "A Denavita responde a todas as reclamações e resolve nove em cada dez das avaliadas; o que mais dá problema é a entrega. Para quem compra, isso quer dizer conferir o prazo pelo CEP e guardar o comprovante.",
-        "Se a compra fizer sentido, o [cupom Denavita](/cupons/denavita) EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, em todas as formas de pagamento."
+        "O [perfil da Denavita](https://www.reclameaqui.com.br/empresa/denavita/) mostra os dados mais recentes. O [cupom Denavita](/cupons/denavita) EMCASA dá 10% OFF no site oficial."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Denavita é confiável no Reclame Aqui? No recorte de seis meses, o perfil tem reputação Ótima e nota 8,5. Isso descreve o atendimento às reclamações, não a qualidade ou o efeito dos produtos, e o atraso na entrega é o problema mais registrado.",
-        "Qual a nota da Denavita no Reclame Aqui? A nota é 8,5, com reputação Ótima, no recorte de seis meses. A nota média do consumidor é 7,21.",
-        "A Denavita atrasa a entrega? É o problema mais registrado: 46,18% no histórico geral do perfil, que cobre até três anos. O prazo do seu pedido sai pelo CEP, no checkout.",
+        "Como é o atendimento da Denavita no Reclame Aqui? No recorte de seis meses consultado, a reputação era Ótima, com nota 8,5. O índice de solução foi de 91,4% entre as avaliadas.",
+        "Qual é a nota da Denavita no Reclame Aqui? No semestre consultado, a nota de reputação foi 8,5, e a nota média de quem avaliou o atendimento foi 7,21.",
+        "A Denavita atrasa a entrega? Atraso na entrega foi a queixa mais citada na aba geral, que cobre até três anos. Confira o prazo do seu pedido no checkout pelo CEP.",
         "Como falar com a Denavita? Pela central de atendimento e pelo portal de trocas da loja. Se não houver solução, procure o Reclame Aqui ou o Procon."
       ]
     }

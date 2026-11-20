@@ -1,0 +1,279 @@
+{
+  "id": 1116,
+  "slug": "denavita-e-boa",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "denavita",
+  "type": "Guia de Marca",
+  "title": "Denavita é boa? O que a marca vende, o que as fichas informam e quanto custa por dia",
+  "seoTitle": "Denavita é boa? Produtos, fichas e preço por dia",
+  "description": "O que a Denavita vende, o que as fichas dos produtos informam, quanto custa cada dia de uso com o cupom e quando o kit compensa, sem promessa de resultado.",
+  "metaDescription": "EMCASA dá 10% OFF na Denavita. Veja o que a marca vende, o que as fichas informam, quanto custa cada dia de uso e para quem faz sentido.",
+  "image": "/images/reviews/denavita/denavita-e-boa-capa.webp",
+  "imageAlt": "Potes de Tons e uma mão segurando uma cápsula, em foto da Denavita com o logo da marca, os textos «É boa? Preço por dia» e o código EMCASA.",
+  "cta": {
+    "text": "Se a Denavita faz sentido para você, abra o site oficial pelo botão. O código entra no checkout, no campo “Tem um cupom?”, e a linha Cupom de desconto confirma o valor.",
+    "label": "Ir para a Denavita",
+    "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Não usamos os produtos: o texto segue as fichas da loja. Somos parceiros da Denavita e podemos receber comissão pelo link e pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "laranja-moro-denavita"
+    },
+    {
+      "slug": "denavita-e-confiavel"
+    },
+    {
+      "slug": "cupom-denavita-como-usar"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer suplementos de uso diário e a conta por dia pesa na escolha.",
+      "Você compra o que vai usar dentro do prazo depois de aberto, em avulso ou em kit."
+    ],
+    "skipIf": [
+      "Você procura resultado garantido: nenhuma ficha promete isso, e nós também não.",
+      "Você precisa de um prazo de entrega certo: a entrega é o ponto de atenção da loja no Reclame Aqui.",
+      "Você tem alergia a algum item do “pode conter” da ficha ou toma remédio e ainda não falou com o médico."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Denavita vende suplementos em cápsula e em pó, a maior parte em kits. Não usamos os produtos e não dizemos se funcionam: o que dá para conferir é a ficha de cada um e a conta. O guia mostra quanto custa cada dia de uso com o EMCASA, que dá 10% OFF, e para quem a marca faz sentido."
+      ]
+    },
+    {
+      "heading": "O que a Denavita vende",
+      "paragraphs": [
+        "Cápsula de laranja moro, magnésio, coenzima Q10, NAC com polivitamínico, creatina, colágeno em pó, vinagre de maçã em gomas, chá em pó. O site oficial tem mais de 50 produtos, e a maior parte são kits, que juntam vários potes do mesmo produto ou produtos diferentes.",
+        "A própria loja se apresenta com números: “5 anos”, “5.000.000 tratamentos entregues” e “100.000 clientes satisfeitos”. São contagens dela. O que pesa na compra está nos capítulos abaixo: a ficha de cada produto e quanto ele custa por dia."
+      ]
+    },
+    {
+      "heading": "A Denavita é boa? O que dá para conferir",
+      "paragraphs": [
+        "Responder sim ou não pediria saber como o seu corpo reage a cada produto, e nenhuma ficha mostra isso. Então vamos pelo que dá para conferir.",
+        "Está à vista no site: a composição, a dose por dia, a quantidade do pote, o prazo para consumir depois de aberto, o preço e as regras de troca. É o que as tabelas abaixo usam.",
+        "É da loja, e fica como dela: os números de tempo de casa e de clientes e o selo de ingredientes “100% naturais”.",
+        "Não temos uso próprio de nenhum produto. Por isso este guia não diz se funciona, não compara resultado e não tem nota."
+      ]
+    },
+    {
+      "heading": "O que cada ficha diz",
+      "paragraphs": [
+        "A loja informa: a dose, a quantidade e a composição abaixo, nas páginas de produto. Na embalagem que chegar, vale o rótulo."
+      ],
+      "bullets": [
+        "**Laranja Moro:** uma cápsula por dia, 30 cápsulas. Por cápsula, 400 mg de Morosil®, 200 mg de café verde e 35 µg de picolinato de cromo. A cápsula é vegetal. A página não informa a quantidade de cafeína do café verde: confira no rótulo. A conversa sobre a busca por emagrecimento está no [guia do Laranja Moro pelo rótulo](/reviews/laranja-moro-denavita).",
+        "**Tons – Equilíbrio:** uma cápsula por dia, com refeição, 30 cápsulas. Coenzima Q10, pinho marítimo e vitamina A. A cápsula é de gelatina.",
+        "**Trio Magnésio:** duas cápsulas por dia, 60 cápsulas. Bisglicinato, taurato e malato de magnésio. A ficha traz “pode conter soja, peixe, crustáceos, pinoli e ovo”, e a cápsula é de gelatina, com dióxido de titânio como corante.",
+        "**NAC + Polivitamínico A a Z:** duas cápsulas por dia, 60 cápsulas.",
+        "**Coenzima Q10, Ômega 3 e Vitamina E:** uma cápsula por dia, 30 cápsulas.",
+        "**Jejoom, Digestino e Colágeno em Pó:** pós de dose diária. O Jejoom leva 6 g em 100 ml, o Digestino 6 g em 200 ml e o colágeno 12 g em 200 ml."
+      ],
+      "postParagraphs": [
+        "Depois de aberto, a ficha pede consumo preferencialmente em 30 dias no Laranja Moro, no Tons, na Coenzima Q10, no Jejoom e no colágeno, e em 60 dias no Trio Magnésio e na NAC. Esse prazo conta na hora de escolher o kit."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/denavita/denavita-e-boa-nac.webp",
+          "alt": "Pote de NAC + Polivitamínico da Denavita em foto oficial da loja",
+          "caption": "O pote de NAC + Polivitamínico, de 60 cápsulas. Foto: Denavita",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "A Denavita vale a pena? Quanto custa cada dia",
+      "paragraphs": [
+        "Conta nossa, com a dose e a quantidade da ficha: o preço do pote dividido pelos dias que ele dura, com e sem o EMCASA. O cupom dá 10% OFF e, no nosso teste, entrou sobre o preço promocional da vitrine."
+      ],
+      "comparisonTable": {
+        "caption": "Preços de vitrine em 19/11, no cartão, sem frete e sem Pix. Com EMCASA: 10% sobre o preço de vitrine. Por dia, na dose da ficha.",
+        "headers": [
+          "Produto",
+          "Dose da ficha",
+          "Vitrine",
+          "Com EMCASA",
+          "Por dia (vitrine)",
+          "Por dia (EMCASA)"
+        ],
+        "rows": [
+          [
+            "Laranja Moro, 30 cápsulas",
+            "1 cápsula",
+            "R$ 76,90",
+            "R$ 69,21",
+            "R$ 2,56",
+            "R$ 2,31"
+          ],
+          [
+            "Tons – Equilíbrio, 30 cápsulas",
+            "1 cápsula",
+            "R$ 79,90",
+            "R$ 71,91",
+            "R$ 2,66",
+            "R$ 2,40"
+          ],
+          [
+            "Trio Magnésio, 60 cápsulas",
+            "2 cápsulas",
+            "R$ 46,90",
+            "R$ 42,21",
+            "R$ 1,56",
+            "R$ 1,41"
+          ],
+          [
+            "NAC + Polivitamínico, 60 cápsulas",
+            "2 cápsulas",
+            "R$ 49,90",
+            "R$ 44,91",
+            "R$ 1,66",
+            "R$ 1,50"
+          ],
+          [
+            "Coenzima Q10, Ômega 3 e Vitamina E, 30 cápsulas",
+            "1 cápsula",
+            "R$ 65,90",
+            "R$ 59,31",
+            "R$ 2,20",
+            "R$ 1,98"
+          ],
+          [
+            "Creatina 100% Pura, 250 g (83 doses)",
+            "3 g",
+            "R$ 98,90",
+            "R$ 89,01",
+            "R$ 1,19",
+            "R$ 1,07"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O Trio Magnésio e a NAC têm o menor preço por dia entre os de cápsula: o pote de 60 dura 30 dias com duas cápsulas, e custa menos que os potes de 30 cápsulas. A creatina é a mais barata por dia, e a única da tabela cujo pote passa de dois meses.",
+        "Jejoom, Digestino e Colágeno em Pó não entram na tabela: para a conta deles, divida o preço pelo número de doses que a embalagem informa.",
+        "Se você toma menos que a dose da ficha, o pote dura mais, e o prazo depois de aberto pode vencer antes de ele acabar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/denavita/denavita-e-boa-creatina.webp",
+          "alt": "Pote de Creatina 100% Pura de 250 g da Denavita em foto oficial da loja",
+          "caption": "A creatina rende 83 doses de 3 g por pote. Foto: Denavita",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Avulso ou kit: quando compensa",
+      "paragraphs": [
+        "O kit baixa o preço de cada pote, e as fichas de alguns avulsos mostram quanto. Pelos preços das fichas, sem o cupom:"
+      ],
+      "comparisonTable": {
+        "caption": "Opções das fichas, preço de vitrine no cartão, sem cupom e sem frete. Por dia, na dose da ficha de cada produto.",
+        "headers": [
+          "Opção",
+          "Preço",
+          "Por pote",
+          "Por dia"
+        ],
+        "rows": [
+          [
+            "Laranja Moro, 1 pote",
+            "R$ 76,90",
+            "R$ 76,90",
+            "R$ 2,56"
+          ],
+          [
+            "Laranja Moro, Compre 2 Leve 3",
+            "R$ 153,80",
+            "R$ 51,27",
+            "R$ 1,71"
+          ],
+          [
+            "Laranja Moro, Compre 3 Leve 5",
+            "R$ 230,70",
+            "R$ 46,14",
+            "R$ 1,54"
+          ],
+          [
+            "Trio Magnésio, Leve 3 e Pague 2",
+            "R$ 93,80",
+            "R$ 31,27",
+            "R$ 1,04"
+          ],
+          [
+            "NAC + Polivitamínico, Compre 2 Leve 3",
+            "R$ 99,80",
+            "R$ 33,27",
+            "R$ 1,11"
+          ],
+          [
+            "Coenzima Q10, Compre 2 Leve 3",
+            "R$ 131,80",
+            "R$ 43,93",
+            "R$ 1,46"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O kit só compensa se você vai usar todos os potes. O prazo de 30 ou 60 dias conta depois de aberto, então abra um pote de cada vez. Para quem já usa todo dia e vai continuar, o kit reduz o custo de cada dia.",
+        "O [cupom Denavita](/cupons/denavita) EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, em todas as formas de pagamento. No nosso teste, os 10% entraram sobre kits e o desconto se manteve no Pix. No Leve 3, Pague 2 e no Compre 2 Leve 3, confira o desconto no resumo antes de pagar."
+      ]
+    },
+    {
+      "heading": "Entrega e reputação",
+      "paragraphs": [
+        "No Reclame Aqui, a Denavita tem reputação Ótima, nota 8,5. O atraso na entrega, porém, é o problema mais registrado: 46,18% no histórico geral do perfil. Os números estão na [análise da nota no Reclame Aqui](/reviews/denavita-reclame-aqui-nota-reputacao), e o que fazer para se proteger, em [Denavita é confiável?](/reviews/denavita-e-confiavel).",
+        "O site anuncia frete grátis em compras a partir de R$ 199,90. O prazo de cada pedido sai pelo CEP, no checkout."
+      ]
+    },
+    {
+      "heading": "O que não dá para saber",
+      "paragraphs": [
+        "Se o produto funciona no seu caso, como o seu corpo reage e como ele se combina com algum remédio: nada disso está na ficha.",
+        "Quem toma remédio, está grávida ou amamenta, ou tem alguma condição de saúde, deve falar com médico ou nutricionista antes de começar. Sobre registro e notificação na Anvisa, só o rótulo da embalagem diz."
+      ]
+    },
+    {
+      "heading": "Para quem a Denavita faz sentido",
+      "paragraphs": [
+        "Pela conta, o dia sai de cerca de R$ 1 a R$ 2,40 com o EMCASA, e a creatina, o Trio Magnésio e a NAC estão na ponta mais barata. Faz sentido para quem já sabe o que quer tomar, usa todo dia e compra o tamanho que termina dentro do prazo depois de aberto.",
+        "Se você procura resultado garantido ou precisa de um prazo de entrega certo, a Denavita não é a compra mais segura. A ficha não garante o primeiro, e o histórico de atraso pesa no segundo."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Denavita é uma marca boa? Este guia não responde com sim ou não. O que dá para conferir é a ficha dos produtos, o preço por dia e as regras de troca, e o que pesa contra é o atraso na entrega no Reclame Aqui.",
+        "Os produtos da Denavita funcionam? Este guia não afirma resultado. A loja descreve cada produto na ficha, e dúvidas de uso vão para o médico ou o nutricionista.",
+        "Qual o produto mais vendido da Denavita? Não temos números de venda da loja. O Laranja Moro é o produto mais buscado junto com o nome da marca.",
+        "Vale mais a pena comprar o kit? Só se você vai usar todos os potes dentro do prazo depois de aberto. As tabelas acima mostram o custo por dia de cada opção.",
+        "A Denavita tem cupom? Sim, o EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, em todas as formas de pagamento."
+      ]
+    }
+  ]
+}
