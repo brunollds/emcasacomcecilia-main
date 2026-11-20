@@ -1,8 +1,9 @@
 import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/cardImage';
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { getCouponStorePath } from '@/lib/couponTranslations';
-import { codeLinkLabel, getStoreCode, type StoreReview } from '@/lib/homeStores';
-import { getTabAnchor } from '@/lib/homeStoreTabs';
+import { getPendingCodeSeasonNotice, storeTakesCodeSeasonNotice } from '@/lib/codeSeasonNotice';
+import { codeLinkLabel, getStoreCode, getStoreMark, type StoreReview } from '@/lib/homeStores';
+import { getTabAnchor, type HomeStoreTab } from '@/lib/homeStoreTabs';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type SocialImage } from '@/lib/pageSeo';
 import { getListedPortugueseReviews, isListedInPortuguese, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
@@ -26,6 +27,27 @@ export type HomeEventEntry = {
   endsAt: string;
   description: string;
   articleSlugs: string[];
+  boost?: HomeEventBoost;
+};
+
+// Reta final da data (a Black Friday de 2026, até 30/11): até `endsAt`, a home sobe a seção para logo abaixo da
+// vitrine, tira as Receitas e mostra todos os guias em cards compactos. Depois, tudo volta sozinho, sem deploy.
+// `labels` distingue os guias de uma loja com mais de um e nomeia o guia sem loja ativa.
+export type HomeEventBoost = {
+  endsAt: string;
+  labels: Record<string, string>;
+};
+
+// O card compacto da reta final: a bolinha da loja (a casa, sem loja ativa), o nome, o desconto da página da loja e,
+// quando o guia precisa, o rótulo do arquivo.
+export type HomeEventGuide = {
+  slug: string;
+  href: string;
+  title: string;
+  name: string;
+  mark?: Pick<HomeStoreTab, 'logo' | 'bubble' | 'initials'>;
+  discount?: string;
+  label?: string;
 };
 
 export type HomeEventCard = {
@@ -46,6 +68,7 @@ export type HomeEventCard = {
 export type ResolvedHomeEvent = {
   id: string;
   title: string;
+  titleOf: string;
   theme: EventTheme;
   description: string;
   dayDate: string;
@@ -53,6 +76,9 @@ export type ResolvedHomeEvent = {
   countdownLabel: string;
   hubLink?: { href: string; label: string };
   cards: HomeEventCard[];
+  // Só durante a reta final (boost): todos os guias, compactos, e o aviso de temporada dos códigos.
+  guides?: HomeEventGuide[];
+  seasonNotice?: string;
 };
 
 export type EventHubPageData = {
@@ -72,7 +98,8 @@ export type EventHubPageData = {
 
 const HOME_CARD_LIMIT = 4;
 const REQUIRED_KEYS = ['id', 'title', 'titleOf', 'theme', 'dayAt', 'startsAt', 'endsAt', 'description', 'articleSlugs'];
-const OPTIONAL_KEYS = ['hub'];
+const OPTIONAL_KEYS = ['hub', 'boost'];
+const BOOST_KEYS = ['endsAt', 'labels'];
 const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const ISO_WITH_OFFSET_RE = /^(\d{4}-\d{2}-\d{2})T(?:[01]\d|2[0-3]):[0-5]\d:[0-5]\d(?:\.\d+)?(Z|[+-]\d{2}:\d{2})$/;
 const WEEKDAYS = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
@@ -152,6 +179,7 @@ function parseEntry(candidate: unknown, index: number): HomeEventEntry {
   const dayAt = parseInstant(entry.dayAt, `${context}.dayAt`);
   if (startsAt >= endsAt) fail(`${context}: startsAt precisa vir antes de endsAt`);
   if (dayAt < startsAt || dayAt >= endsAt) fail(`${context}: dayAt fora da janela`);
+  const boost = entry.boost === undefined ? undefined : parseBoost(entry.boost, `${context}.boost`, startsAt, endsAt, articleSlugs as string[]);
 
   return {
     id,
@@ -164,7 +192,25 @@ function parseEntry(candidate: unknown, index: number): HomeEventEntry {
     endsAt: entry.endsAt as string,
     description: description.trim(),
     articleSlugs: articleSlugs as string[],
+    ...(boost ? { boost } : {}),
   };
+}
+
+function parseBoost(value: unknown, context: string, startsAt: number, endsAt: number, articleSlugs: string[]): HomeEventBoost {
+  if (value === null || typeof value !== 'object' || Array.isArray(value)) fail(`${context}: objeto inválido`);
+  const boost = value as Record<string, unknown>;
+  const extras = Object.keys(boost).filter((key) => !BOOST_KEYS.includes(key));
+  if (extras.length > 0) fail(`${context}: chaves não permitidas (${extras.join(', ')})`);
+  const boostEndsAt = parseInstant(boost.endsAt, `${context}.endsAt`);
+  if (boostEndsAt <= startsAt || boostEndsAt > endsAt) fail(`${context}.endsAt fora da janela da data`);
+
+  const labels = boost.labels ?? {};
+  if (labels === null || typeof labels !== 'object' || Array.isArray(labels)) fail(`${context}.labels inválido`);
+  for (const [slug, label] of Object.entries(labels)) {
+    if (!articleSlugs.includes(slug)) fail(`${context}.labels: ${slug} não está em articleSlugs`);
+    if (!isNonEmptyString(label)) fail(`${context}.labels.${slug} vazio`);
+  }
+  return { endsAt: boost.endsAt as string, labels: labels as Record<string, string> };
 }
 
 // Valida o arquivo inteiro. Um erro aqui para o build: a home e o test:home-events chamam isto.
@@ -250,6 +296,44 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
   });
 }
 
+// O card compacto. O desconto é o da página da loja (nunca o de um código com prazo, que fica no painel da vitrine).
+// O guia sem loja ativa, ou de loja com mais de um guia na data, precisa de rótulo: sem ele, dois cards iguais.
+// O aviso de temporada entra se algum guia é de loja com cupom (storeTakesCodeSeasonNotice).
+function toGuides(
+  event: HomeEventEntry,
+  boost: HomeEventBoost,
+  reviews: readonly StoreReview[],
+  stores: readonly Coupon[]
+): { guides: HomeEventGuide[]; takesSeasonNotice: boolean } {
+  const entries = event.articleSlugs.map((slug) => {
+    const review = reviews.find((item) => item.slug === slug && isListedInPortuguese(item));
+    const store = isMultiStoreReview(review) ? undefined : getReviewStores(review, stores)[0];
+    return { slug, review, store };
+  });
+  const guidesPerStore = new Map<string, number>();
+  for (const { store } of entries) if (store) guidesPerStore.set(store.slug, (guidesPerStore.get(store.slug) ?? 0) + 1);
+
+  const guides = entries.map(({ slug, review, store }) => {
+    const label = boost.labels[slug];
+    const needsLabel = !store || (guidesPerStore.get(store.slug) ?? 0) > 1;
+    if (needsLabel && !label) fail(`${event.id}.boost.labels: ${slug} precisa de rótulo (loja com mais de um guia, ou sem loja ativa)`);
+    const name = store?.brand ?? getReviewStoreLabel(review, stores) ?? label;
+    return {
+      slug,
+      href: `/reviews/${slug}`,
+      title: review.title,
+      name,
+      ...(store ? { mark: getStoreMark(store), discount: store.discount } : {}),
+      ...(label && label !== name ? { label } : {}),
+    };
+  });
+  return { guides, takesSeasonNotice: entries.some(({ store }) => store !== undefined && storeTakesCodeSeasonNotice(store)) };
+}
+
+function isBoosted(event: HomeEventEntry, now: Date): event is HomeEventEntry & { boost: HomeEventBoost } {
+  return event.boost !== undefined && now.getTime() < Date.parse(event.boost.endsAt);
+}
+
 // A capa do artigo mais novo da edição, com o desempate do site (data e depois id). O card traz a
 // capa já resolvida, mas não a data; sem capa em nenhum card, vale o logo do site.
 function getSocialImage(cards: readonly HomeEventCard[], reviews: readonly StoreReview[]): SocialImage {
@@ -265,7 +349,8 @@ function isOpen(event: HomeEventEntry, now: Date): boolean {
   return Date.parse(event.startsAt) <= now.getTime() && now.getTime() < Date.parse(event.endsAt);
 }
 
-// A home renderiza de novo a cada 5 minutos (revalidate = 300): a seção entra e sai nesse prazo.
+// A home renderiza de novo a cada 5 minutos (revalidate = 300): a seção e a reta final entram e saem no primeiro
+// acesso depois do prazo, que recebe ainda a versão guardada enquanto o servidor gera a nova.
 export function resolveActiveHomeEvent(
   config: unknown,
   reviews: readonly StoreReview[],
@@ -274,10 +359,13 @@ export function resolveActiveHomeEvent(
 ): ResolvedHomeEvent | null {
   const event = parseHomeEvents(config, reviews).find((item) => isOpen(item, now));
   if (!event) return null;
+  const boosted = isBoosted(event, now) ? toGuides(event, event.boost, reviews, stores) : undefined;
+  const notice = getPendingCodeSeasonNotice(now.getTime());
 
   return {
     id: event.id,
     title: event.title,
+    titleOf: event.titleOf,
     theme: event.theme,
     description: event.description,
     dayDate: formatIsoDay(event.dayAt),
@@ -285,6 +373,8 @@ export function resolveActiveHomeEvent(
     countdownLabel: getCountdownLabel(event.dayAt, now),
     hubLink: event.hub ? { href: `/${event.hub}`, label: `Ver tudo ${event.titleOf}` } : undefined,
     cards: toCards({ ...event, articleSlugs: event.articleSlugs.slice(0, HOME_CARD_LIMIT) }, reviews, stores),
+    ...(boosted ? { guides: boosted.guides } : {}),
+    ...(boosted?.takesSeasonNotice && notice?.inHtml ? { seasonNotice: notice.text } : {}),
   };
 }
 
