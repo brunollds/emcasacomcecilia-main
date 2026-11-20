@@ -1,15 +1,19 @@
 import type { CSSProperties } from 'react';
 import Image from 'next/image';
+import { House } from 'lucide-react';
 import { TrackedHomeLink, TrackedHomeTabLink, type HomeRoutePlacement } from '@/components/TrackedHomeLink';
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { ScrollRow } from '@/components/ui/ScrollRow';
+import { StoreMark } from '@/components/ui/StoreMark';
+import { EventGuidesExpander } from '@/components/sections/EventGuidesExpander';
 import { cardImageLook } from '@/lib/cardImage';
-import type { EventTheme, HomeEventCard, ResolvedHomeEvent } from '@/lib/homeEvents';
+import type { EventTheme, HomeEventCard, HomeEventGuide, ResolvedHomeEvent } from '@/lib/homeEvents';
 
 // Data comercial na home, entre "Acabou de sair" e "Receitas": só aparece com uma data em campanha
 // (content/home-events.json). Os cards não mostram código; "Ver o código" leva à aba da loja na
-// vitrine, onde o código fica. A página da data (/black-friday) reusa o EventCard.
+// vitrine, onde o código fica. A página da data (/black-friday) reusa o EventCard. Na reta final (boost),
+// a seção sobe para logo abaixo da vitrine e troca os 4 cards por todos os guias em cards compactos.
 
 type EventPlacement = Extract<HomeRoutePlacement, 'home_event' | 'event_hub'>;
 
@@ -44,6 +48,10 @@ export const EVENT_THEME_CLASSES: Record<
 // A partir de 1024 px, uma coluna por card, até 4; com 1 card, ele ocupa metade.
 const DESKTOP_COLUMNS = ['', 'lg:grid-cols-2', 'lg:grid-cols-2', 'lg:grid-cols-3', 'lg:grid-cols-4'];
 
+// Na reta final, o celular abre com os primeiros guias; o resto vem pelo botão.
+export const MOBILE_VISIBLE_GUIDES = 12;
+const GUIDES_LIST_ID = 'guias-data-comercial';
+
 export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
   const theme = EVENT_THEME_CLASSES[event.theme];
 
@@ -74,19 +82,42 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
           </div>
         </div>
 
-        <ScrollRow
-          className={`flex snap-x gap-3 overflow-x-auto scroll-px-4 px-4 pt-1 pb-1.5 md:grid md:snap-none md:grid-cols-2 md:gap-[18px] md:overflow-visible md:p-0 ${DESKTOP_COLUMNS[event.cards.length]}`}
-        >
-          {event.cards.map((card, index) => (
-            <li
-              key={card.slug}
-              className="revela flex w-60 shrink-0 snap-start md:w-auto"
-              style={{ '--i': index } as CSSProperties}
-            >
-              <EventCard card={card} placement="home_event" focusRing={theme.focus} />
-            </li>
-          ))}
-        </ScrollRow>
+        {event.guides ? (
+          <>
+            {event.seasonNotice ? (
+              <p className="px-4 text-[13px] leading-[1.4] font-bold md:px-0">{event.seasonNotice}</p>
+            ) : null}
+            <EventGuidesExpander listId={GUIDES_LIST_ID} total={event.guides.length} focusRing={theme.focus}>
+              <ul
+                id={GUIDES_LIST_ID}
+                className="grid grid-cols-2 gap-2.5 px-4 sm:grid-cols-3 md:gap-3 md:px-0 lg:grid-cols-5 xl:grid-cols-6"
+              >
+                {event.guides.map((guide, index) => (
+                  <li
+                    key={guide.slug}
+                    className={`flex min-w-0 ${index >= MOBILE_VISIBLE_GUIDES ? 'max-md:group-data-[aberto=false]:hidden' : ''}`}
+                  >
+                    <EventGuideCard guide={guide} titleOf={event.titleOf} focusRing={theme.focus} />
+                  </li>
+                ))}
+              </ul>
+            </EventGuidesExpander>
+          </>
+        ) : (
+          <ScrollRow
+            className={`flex snap-x gap-3 overflow-x-auto scroll-px-4 px-4 pt-1 pb-1.5 md:grid md:snap-none md:grid-cols-2 md:gap-[18px] md:overflow-visible md:p-0 ${DESKTOP_COLUMNS[event.cards.length]}`}
+          >
+            {event.cards.map((card, index) => (
+              <li
+                key={card.slug}
+                className="revela flex w-60 shrink-0 snap-start md:w-auto"
+                style={{ '--i': index } as CSSProperties}
+              >
+                <EventCard card={card} placement="home_event" focusRing={theme.focus} />
+              </li>
+            ))}
+          </ScrollRow>
+        )}
 
         {event.hubLink ? (
           <TrackedHomeLink
@@ -100,6 +131,35 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
         ) : null}
       </div>
     </RevealSection>
+  );
+}
+
+// O card compacto da reta final: um link só, sem capa nem código. O nome do link começa pelo texto visível (WCAG
+// 2.5.3) e termina num trecho para leitor de tela. Sem prefetch: são dezenas de links na primeira tela. A bolinha usa
+// o mesmo sizes da vitrine, para reaproveitar a imagem que ela já baixou.
+function EventGuideCard({ guide, titleOf, focusRing }: { guide: HomeEventGuide; titleOf: string; focusRing: string }) {
+  return (
+    <TrackedHomeLink
+      href={guide.href}
+      prefetch={false}
+      placement="home_event"
+      linkLabel={guide.title}
+      className={`flex min-w-0 flex-1 items-center gap-2.5 rounded-[10px] border-2 border-marinho bg-white p-2.5 text-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-0.5 ${focusRing}`}
+    >
+      <span className="relative flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-full border-2 border-marinho bg-creme">
+        {guide.mark ? (
+          <StoreMark tab={guide.mark} imageClassName="h-[53%] w-[74%]" sizes="60px" loading="lazy" />
+        ) : (
+          <House aria-hidden="true" className="size-[46%] text-marinho" strokeWidth={2.25} />
+        )}
+      </span>
+      <span className="flex min-w-0 flex-col">
+        <span className="text-sm leading-[1.2] font-extrabold break-words">{guide.name}</span>
+        {guide.discount ? <span className="text-xs leading-[1.3] font-bold">{guide.discount}</span> : null}
+        {guide.label ? <span className="text-xs leading-[1.3] text-marinho-suave">{guide.label}</span> : null}
+        <span className="sr-only">, guia {titleOf}</span>
+      </span>
+    </TrackedHomeLink>
   );
 }
 

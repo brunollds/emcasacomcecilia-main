@@ -3428,10 +3428,14 @@ type HomeExpectations = {
   tabs: ReturnType<typeof getHomeStoreTabs>;
   latest: ReturnType<typeof getHomeLatest>;
   hasEvent: boolean;
+  // Na reta final da data (boost), a faixa sobe para logo depois da vitrine, com os guias em cards compactos, e as
+  // receitas saem da home.
+  guides: NonNullable<ReturnType<typeof resolveActiveHomeEvent>>['guides'];
   recipeCount: number;
 };
 
 const LATEST_SECTION = 'aria-labelledby="titulo-acabou-de-sair"';
+const EVENT_SECTION = 'aria-labelledby="titulo-data-comercial"';
 const LOWER_SECTIONS = ['titulo-receitas', 'titulo-explore-a-casa', 'titulo-ultimos-videos'];
 const WHATSAPP_LINK = /<a [^>]*href="https:\/\/chat\.whatsapp\.com\/[^"]+"[^>]*>/;
 const hrefOf = (url: string) => `href="${url.replace(/&/g, '&amp;')}"`;
@@ -3445,8 +3449,9 @@ function between(html: string, start: string, ends: string[]) {
   return html.slice(from, Number.isFinite(to) ? to : undefined);
 }
 
-// Um painel da vitrine (`cecilia` ou `loja-<slug>`): vai até o próximo painel ou até o "Acabou de sair".
-const panelIn = (html: string, id: string) => between(html, `id="painel-${id}"`, ['id="painel-loja-', LATEST_SECTION]);
+// Um painel da vitrine (`cecilia` ou `loja-<slug>`): vai até o próximo painel, até a faixa da data (na reta final ela
+// vem logo depois da vitrine) ou até o "Acabou de sair".
+const panelIn = (html: string, id: string) => between(html, `id="painel-${id}"`, ['id="painel-loja-', EVENT_SECTION, LATEST_SECTION]);
 // Os nós de texto, um por trecho entre tags: igualdade com um nó confere código, oferta e dica sem pegar
 // o título de um artigo que os cite (CECI em CECILIA, 5% OFF em 15% OFF).
 const textNodes = (html: string) => html.split(/<[^>]+>/).map((text) => decodeHtml(text).trim());
@@ -3603,7 +3608,7 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   }
 
   // "Acabou de sair": os 5 mais novos e o link para /reviews, sem código e sem botão de copiar.
-  const latest = between(body, LATEST_SECTION, ['aria-labelledby="titulo-data-comercial"', ...LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`)]);
+  const latest = between(body, LATEST_SECTION, [EVENT_SECTION, ...LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`)]);
   check(latest !== '', 'sem o "Acabou de sair"');
   for (const article of expected.latest) {
     check(latest.includes(hrefOf(article.href)), `Acabou de sair: sem ${article.href}`);
@@ -3621,14 +3626,19 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
 
   // Data comercial: a faixa só existe com uma data em campanha.
   check(
-    body.includes('aria-labelledby="titulo-data-comercial"') === expected.hasEvent,
+    body.includes(EVENT_SECTION) === expected.hasEvent,
     expected.hasEvent ? 'sem a faixa da data em campanha' : 'faixa de data comercial sem campanha'
   );
 
   // Seções de baixo, na ordem, depois do "Acabou de sair".
   const at = (id: string) => body.indexOf(`aria-labelledby="${id}"`);
   const positions = LOWER_SECTIONS.map(at).filter((index) => index >= 0);
-  check(at('titulo-receitas') > body.indexOf(LATEST_SECTION) && at('titulo-explore-a-casa') >= 0, 'sem a faixa de receitas ou o Explore a casa');
+  if (expected.guides) {
+    check(at('titulo-receitas') < 0 && !body.includes('href="/receitas/'), 'reta final: com a faixa de receitas');
+    check(at('titulo-explore-a-casa') > body.indexOf(LATEST_SECTION), 'sem o Explore a casa depois do "Acabou de sair"');
+  } else {
+    check(at('titulo-receitas') > body.indexOf(LATEST_SECTION) && at('titulo-explore-a-casa') >= 0, 'sem a faixa de receitas ou o Explore a casa');
+  }
   check(positions.every((index, order) => order === 0 || index > positions[order - 1]), 'seções de baixo fora de ordem');
   // A última seção de baixo acaba no rodapé, que também linka a DAMIE e o Dicas & Ofertas.
   const sectionOf = (id: string) =>
@@ -3637,9 +3647,11 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
       '<footer',
     ]);
 
-  const recipesSection = sectionOf('titulo-receitas');
-  check(textOf(recipesSection).includes(`${expected.recipeCount} receitas prontas para fazer`), 'Receitas: sem o total de receitas');
-  check((recipesSection.match(/href="\/receitas\/[^"]+"/g) ?? []).length === 4, 'Receitas: sem 4 links de receita');
+  if (!expected.guides) {
+    const recipesSection = sectionOf('titulo-receitas');
+    check(textOf(recipesSection).includes(`${expected.recipeCount} receitas prontas para fazer`), 'Receitas: sem o total de receitas');
+    check((recipesSection.match(/href="\/receitas\/[^"]+"/g) ?? []).length === 4, 'Receitas: sem 4 links de receita');
+  }
   check(!/href="\/receitas\?categoria=|href="\/categorias"/.test(body), 'home com atalho de categoria de receita');
 
   const explore = sectionOf('titulo-explore-a-casa');
@@ -3654,13 +3666,22 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   // O marca-texto em cada título das seções de baixo (e no "Acabou de sair"), e nada escondido pela
   // rolagem no HTML do servidor.
   for (const id of LOWER_SECTIONS) {
-    if (at(id) < 0 && id === 'titulo-ultimos-videos') continue;
+    if (at(id) < 0 && (id === 'titulo-ultimos-videos' || (id === 'titulo-receitas' && expected.guides))) continue;
     check(new RegExp(`<h2 id="${id}"[^>]*><span class="marca-texto[ "]`).test(body), `${id}: título sem o marca-texto`);
   }
 
-  // A faixa da data também entra pela rolagem.
-  if (expected.hasEvent) {
-    const event = between(body, 'aria-labelledby="titulo-data-comercial"', LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`));
+  // A faixa da data também entra pela rolagem. Na reta final, ela fica entre a vitrine e o "Acabou de sair", com um
+  // link por guia, na ordem do arquivo, e sem a entrada da rolagem nos cards compactos.
+  if (expected.guides) {
+    const event = between(body, EVENT_SECTION, [LATEST_SECTION]);
+    check(body.indexOf(EVENT_SECTION) < body.indexOf(LATEST_SECTION), 'reta final: a faixa da data não vem antes do "Acabou de sair"');
+    check(body.indexOf(EVENT_SECTION) > body.indexOf('role="tablist"'), 'reta final: a faixa da data antes da vitrine');
+    const guideLinks = (event.match(/href="\/reviews\/[^"]+"/g) ?? []).join(' ');
+    check(guideLinks === expected.guides.map((guide) => hrefOf(guide.href)).join(' '), 'reta final: guias ou ordem diferentes dos do arquivo');
+    check(!event.match(REVEAL_CARD), 'reta final: cards compactos com a entrada da rolagem');
+    check(event.includes(`Mostrar todos os ${expected.guides.length} guias`), 'reta final: sem o botão de mostrar todos');
+  } else if (expected.hasEvent) {
+    const event = between(body, EVENT_SECTION, LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`));
     check((event.match(REVEAL_CARD) ?? []).length > 0, 'faixa da data: cards sem a entrada da rolagem (revela)');
   }
 
@@ -3673,10 +3694,12 @@ const homeBody = bodyOf(read(homeFile));
 assertPartnerBadge('/', homeBody);
 // O código com prazo da vitrine e a faixa da data valem pela hora em que a página foi gerada, não pela de agora.
 const homeBuiltAt = fs.statSync(homeFile).mtime;
+const homeEvent = resolveActiveHomeEvent(homeEventsConfig, publishedReviews, homeBuiltAt);
 const homeExpected: HomeExpectations = {
   tabs: getHomeStoreTabs(publishedReviews, getActiveCoupons(), homeBuiltAt.getTime()),
   latest: getHomeLatest(publishedReviews),
-  hasEvent: resolveActiveHomeEvent(homeEventsConfig, publishedReviews, homeBuiltAt) !== null,
+  hasEvent: homeEvent !== null,
+  guides: homeEvent?.guides,
   recipeCount: recipes.length,
 };
 // Com a DAMIE ativa, a aba dela leva à página de cupom, não ao subdomínio (Bruno, 08/10).
@@ -3762,7 +3785,17 @@ const brokenHomes = [
   homeBody.replace(WHATSAPP_LINK, (tag) => tag.replace(' target="_blank"', '').replace(' rel="noopener noreferrer"', '')),
   homeBody.split(hrefOf(homeExpected.latest[0].href)).join('href="/outra"'),
   homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><button>Copiar</button`),
-  homeBody.replace('aria-labelledby="titulo-receitas"', 'aria-labelledby="titulo-outra"'),
+  ...(homeExpected.guides
+    ? [
+        // Na reta final: a faixa das receitas de volta, um guia a menos e a faixa da data depois do "Acabou de sair".
+        homeBody.replace(LATEST_SECTION, `aria-labelledby="titulo-receitas"></section><section ${LATEST_SECTION}`),
+        homeBody.replace(hrefOf(homeExpected.guides[homeExpected.guides.length - 1].href), 'href="/outra"'),
+        homeBody.replace(EVENT_SECTION, 'aria-labelledby="titulo-outra"').replace('<footer', `<section ${EVENT_SECTION}></section><footer`),
+      ]
+    : [
+        homeBody.replace('aria-labelledby="titulo-receitas"', 'aria-labelledby="titulo-outra"'),
+        homeBody.replace(/<h2 id="titulo-receitas"([^>]*)><span class="marca-texto[^"]*">/, '<h2 id="titulo-receitas"$1><span>'),
+      ]),
   // O menu também linka a DAMIE: troca todos, senão a mutação pegaria só o do menu.
   homeBody.split(hrefOf(brandLinks.damie)).join('href="/outra"'),
   ...forStore('shein', [homeBody.split('Código de indicação').join('Cupom')]),
@@ -3777,7 +3810,6 @@ const brokenHomes = [
     const explore = homeBody.slice(exploreAt, endAt).split(hrefOf(brandLinks.dicas)).join('href="/outra"');
     return homeBody.slice(0, exploreAt) + explore + homeBody.slice(endAt);
   })(),
-  homeBody.replace(/<h2 id="titulo-receitas"([^>]*)><span class="marca-texto[^"]*">/, '<h2 id="titulo-receitas"$1><span>'),
   homeBody.replace('aria-labelledby="titulo-explore-a-casa"', 'data-reveal="pending" aria-labelledby="titulo-explore-a-casa"'),
   // O primeiro card com `revela` da home é o primeiro da lista do celular do "Acabou de sair".
   homeBody.replace('<li class="revela ', '<li class="'),
