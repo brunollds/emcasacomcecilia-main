@@ -10,7 +10,7 @@ import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.sh
 import sitemap from '@/app/sitemap';
 
 import { EventHubView } from '@/components/sections/EventHubView';
-import { EVENT_THEME_CLASSES, EventCard, HomeEvent, MOBILE_VISIBLE_GUIDES } from '@/components/sections/HomeEvent';
+import { EVENT_THEME_CLASSES, EventCard, HomeEvent } from '@/components/sections/HomeEvent';
 import { CODE_SEASON_NOTICE } from '@/lib/codeSeasonNotice';
 import { COUPONS, getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
@@ -19,11 +19,13 @@ import {
   getCountdownLabel,
   getEventHubPage,
   getEventHubPaths,
+  MOBILE_VISIBLE_GUIDES,
   parseHomeEvents,
   resolveActiveHomeEvent,
 } from '@/lib/homeEvents';
 import { getStoreMark, type StoreReview } from '@/lib/homeStores';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
+import { getListedPortugueseReviews } from '@/lib/reviewDiscovery';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl } from '@/lib/pageSeo';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
@@ -436,6 +438,7 @@ const invalidBoost: Array<[string, unknown, RegExp]> = [
   ['boost antes da data', boosted({ endsAt: '2026-10-31T00:00:00-03:00' }), /boost\.endsAt fora da janela da data/],
   ['rótulo de artigo fora da lista', boosted({ labels: { 'natal-damie': 'Natal' } }), /natal-damie não está em articleSlugs/],
   ['rótulo vazio', boosted({ labels: { ...BOOST_LABELS, 'bf-dolce': ' ' } }), /labels\.bf-dolce vazio/],
+  ['rótulos nulos', boosted({ labels: null }), /boost\.labels inválido/],
 ];
 for (const [name, value, message] of invalidBoost) {
   assert.throws(() => parseHomeEvents({ events: [value] }, finalReviews), message, name);
@@ -453,6 +456,28 @@ for (const slug of ['bf-damie', 'bf-damie-poltrona', 'bf-sem-loja', 'bf-kopenhag
     `${slug}: loja com dois guias, sem loja ou loja pausada pede rótulo`
   );
 }
+
+assert.throws(
+  () =>
+    resolveActiveHomeEvent(
+      { events: [boosted({ labels: { ...BOOST_LABELS, 'bf-damie-poltrona': 'Guia geral' } })] },
+      finalReviews,
+      at('2026-11-20T12:00:00-03:00'),
+      stores
+    ),
+  /bf-damie-poltrona repete a loja e o rótulo/,
+  'dois guias da mesma loja com o mesmo rótulo'
+);
+assert.equal(
+  resolveActiveHomeEvent(
+    { events: [boosted({ labels: { ...BOOST_LABELS, 'bf-damie': '  Guia geral ' } })] },
+    finalReviews,
+    at('2026-11-20T12:00:00-03:00'),
+    stores
+  )?.guides?.[0].label,
+  'Guia geral',
+  'o rótulo sai sem os espaços das pontas'
+);
 
 const finalStretch = resolveActiveHomeEvent({ events: [boosted()] }, finalReviews, at('2026-11-20T12:00:00-03:00'), stores);
 assert.ok(finalStretch?.guides, 'antes do boost.endsAt, a reta final');
@@ -510,7 +535,8 @@ assert.ok(!/<h3/.test(finalHtml), 'sem título dentro dos cards');
 assert.equal(finalHtml.match(/<span class="sr-only">, guia da Black Friday<\/span>/g)?.length, 6, 'o trecho para leitor de tela');
 assert.ok(finalText.includes(CODE_SEASON_NOTICE.text), 'o aviso de temporada acima da grade');
 assert.ok(!finalHtml.includes('<code') && !/cupom|copiar/i.test(finalText), 'a reta final não mostra código nem fala em cupom');
-assert.match(finalHtml, /<button[^>]*aria-expanded="false"[^>]*aria-controls="guias-data-comercial"/);
+// Com 12 guias ou menos, todos cabem no celular: sem botão e nenhum escondido.
+assert.ok(!finalHtml.includes('<button') && !finalHtml.includes('/guias:hidden'), 'poucos guias: sem o botão de mostrar todos');
 assert.match(finalHtml, /<ul id="guias-data-comercial"/);
 assert.match(finalHtml, /href="\/black-friday"[^>]*>Ver tudo da Black Friday</);
 assert.ok(!/loading="eager"/.test(finalHtml), 'as bolinhas carregam sob demanda');
@@ -526,9 +552,23 @@ assert.deepEqual(
 const guideKeys = realFinal.guides.map(({ name, label }) => `${name}|${label ?? ''}`);
 assert.equal(new Set(guideKeys).size, guideKeys.length, 'nenhum card repete loja e rótulo');
 const realHtml = renderWithImages(createElement(HomeEvent, { event: realFinal }));
-const hiddenOnPhone = realHtml.match(/<li class="flex min-w-0 max-md:group-data-\[aberto=false\]:hidden">/g)?.length ?? 0;
+assert.match(realHtml, /<div class="group\/guias[^"]*" data-aberto="false">/);
+assert.match(realHtml, /<button[^>]*aria-expanded="false"[^>]*aria-controls="guias-data-comercial"/);
+const hiddenOnPhone = realHtml.match(/<li class="flex min-w-0 max-md:group-data-\[aberto=false\]\/guias:hidden">/g)?.length ?? 0;
 assert.equal(hiddenOnPhone, realFinal.guides.length - MOBILE_VISIBLE_GUIDES, 'no celular, do 13º em diante esperam o botão');
 assert.ok(realHtml.includes(`Mostrar todos os ${realFinal.guides.length} guias`));
+// Guia de Black Friday publicado em PT e fora da lista: só um aviso, para lembrar de pô-lo na home. O brinde da Skelt
+// saiu de propósito (a promoção acabou).
+const OUT_OF_HOME = new Set(['brindes-skelt-black-friday-cupom']);
+const listed = new Set(realFinal.guides.map(({ slug }) => slug));
+const mentionsBlackFriday = (text: string) => /black ?friday/i.test(text.replace(/-/g, ' '));
+const unlisted = getListedPortugueseReviews(publishedReviews)
+  .filter((item) => item.type === 'Guia de Black Friday' || mentionsBlackFriday(item.slug) || mentionsBlackFriday(item.title))
+  .map(({ slug }) => slug)
+  .filter((slug) => !listed.has(slug) && !OUT_OF_HOME.has(slug));
+if (unlisted.length > 0) {
+  console.warn(`⚠️  Guias de Black Friday fora de content/home-events.json (articleSlugs): ${unlisted.join(', ')}`);
+}
 assert.equal(
   resolveActiveHomeEvent(realConfig, publishedReviews, at('2026-12-01T00:00:00-03:00'), getActiveCoupons()),
   null,

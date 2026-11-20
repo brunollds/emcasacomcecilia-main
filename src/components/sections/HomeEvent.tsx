@@ -8,7 +8,7 @@ import { ScrollRow } from '@/components/ui/ScrollRow';
 import { StoreMark } from '@/components/ui/StoreMark';
 import { EventGuidesExpander } from '@/components/sections/EventGuidesExpander';
 import { cardImageLook } from '@/lib/cardImage';
-import type { EventTheme, HomeEventCard, HomeEventGuide, ResolvedHomeEvent } from '@/lib/homeEvents';
+import { MOBILE_VISIBLE_GUIDES, type EventTheme, type HomeEventCard, type HomeEventGuide, type ResolvedHomeEvent } from '@/lib/homeEvents';
 
 // Data comercial na home, entre "Acabou de sair" e "Receitas": só aparece com uma data em campanha
 // (content/home-events.json). Os cards não mostram código; "Ver o código" leva à aba da loja na
@@ -48,8 +48,6 @@ export const EVENT_THEME_CLASSES: Record<
 // A partir de 1024 px, uma coluna por card, até 4; com 1 card, ele ocupa metade.
 const DESKTOP_COLUMNS = ['', 'lg:grid-cols-2', 'lg:grid-cols-2', 'lg:grid-cols-3', 'lg:grid-cols-4'];
 
-// Na reta final, o celular abre com os primeiros guias; o resto vem pelo botão.
-export const MOBILE_VISIBLE_GUIDES = 12;
 const GUIDES_LIST_ID = 'guias-data-comercial';
 
 export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
@@ -87,21 +85,13 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
             {event.seasonNotice ? (
               <p className="px-4 text-[13px] leading-[1.4] font-bold md:px-0">{event.seasonNotice}</p>
             ) : null}
-            <EventGuidesExpander listId={GUIDES_LIST_ID} total={event.guides.length} focusRing={theme.focus}>
-              <ul
-                id={GUIDES_LIST_ID}
-                className="grid grid-cols-2 gap-2.5 px-4 sm:grid-cols-3 md:gap-3 md:px-0 lg:grid-cols-5 xl:grid-cols-6"
-              >
-                {event.guides.map((guide, index) => (
-                  <li
-                    key={guide.slug}
-                    className={`flex min-w-0 ${index >= MOBILE_VISIBLE_GUIDES ? 'max-md:group-data-[aberto=false]:hidden' : ''}`}
-                  >
-                    <EventGuideCard guide={guide} titleOf={event.titleOf} focusRing={theme.focus} />
-                  </li>
-                ))}
-              </ul>
-            </EventGuidesExpander>
+            {event.guides.length > MOBILE_VISIBLE_GUIDES ? (
+              <EventGuidesExpander listId={GUIDES_LIST_ID} total={event.guides.length} focusRing={theme.focus}>
+                <EventGuideList guides={event.guides} titleOf={event.titleOf} focusRing={theme.focus} />
+              </EventGuidesExpander>
+            ) : (
+              <EventGuideList guides={event.guides} titleOf={event.titleOf} focusRing={theme.focus} />
+            )}
           </>
         ) : (
           <ScrollRow
@@ -131,6 +121,26 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
         ) : null}
       </div>
     </RevealSection>
+  );
+}
+
+// A grade da reta final. No celular, do 13º guia em diante esperam o botão do EventGuidesExpander (o grupo `guias`);
+// sem o botão (12 guias ou menos), nenhum fica escondido.
+function EventGuideList({ guides, titleOf, focusRing }: { guides: HomeEventGuide[]; titleOf: string; focusRing: string }) {
+  return (
+    <ul
+      id={GUIDES_LIST_ID}
+      className="grid grid-cols-2 gap-2.5 px-4 sm:grid-cols-3 md:gap-3 md:px-0 lg:grid-cols-5 xl:grid-cols-6"
+    >
+      {guides.map((guide, index) => (
+        <li
+          key={guide.slug}
+          className={`flex min-w-0 ${index >= MOBILE_VISIBLE_GUIDES ? 'max-md:group-data-[aberto=false]/guias:hidden' : ''}`}
+        >
+          <EventGuideCard guide={guide} titleOf={titleOf} focusRing={focusRing} />
+        </li>
+      ))}
+    </ul>
   );
 }
 

@@ -38,7 +38,7 @@ import { publishedReviews, recipes, type Review } from '../src/lib/data';
 import { isFaqHeading } from '../src/lib/faq';
 import { getArticleStoreBanners, getStorePageBanners, isArticleBannerHref, isStoreBannerLive, placeStoreBanners, type StoreBanner, type StoreBannerSlot } from '../src/lib/storeBanners';
 import { isInternalLink } from '../src/lib/internalLinks';
-import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
+import { MOBILE_VISIBLE_GUIDES, getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { MOBILE_VISIBLE_ARTICLES } from '../src/lib/homeStoreTabs';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
@@ -3679,7 +3679,11 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
     const guideLinks = (event.match(/href="\/reviews\/[^"]+"/g) ?? []).join(' ');
     check(guideLinks === expected.guides.map((guide) => hrefOf(guide.href)).join(' '), 'reta final: guias ou ordem diferentes dos do arquivo');
     check(!event.match(REVEAL_CARD), 'reta final: cards compactos com a entrada da rolagem');
-    check(event.includes(`Mostrar todos os ${expected.guides.length} guias`), 'reta final: sem o botão de mostrar todos');
+    // O botão só existe com mais guias do que cabem no celular.
+    check(
+      event.includes(`Mostrar todos os ${expected.guides.length} guias`) === expected.guides.length > MOBILE_VISIBLE_GUIDES,
+      'reta final: o botão de mostrar todos não segue o número de guias'
+    );
   } else if (expected.hasEvent) {
     const event = between(body, EVENT_SECTION, LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`));
     check((event.match(REVEAL_CARD) ?? []).length > 0, 'faixa da data: cards sem a entrada da rolagem (revela)');
@@ -3789,7 +3793,13 @@ const brokenHomes = [
     ? [
         // Na reta final: a faixa das receitas de volta, um guia a menos e a faixa da data depois do "Acabou de sair".
         homeBody.replace(LATEST_SECTION, `aria-labelledby="titulo-receitas"></section><section ${LATEST_SECTION}`),
-        homeBody.replace(hrefOf(homeExpected.guides[homeExpected.guides.length - 1].href), 'href="/outra"'),
+        // Só dentro da faixa: o mesmo guia aparece antes, no painel da loja na vitrine.
+        (() => {
+          const eventAt = homeBody.indexOf(EVENT_SECTION);
+          const endAt = homeBody.indexOf(LATEST_SECTION, eventAt);
+          const lastGuide = hrefOf(homeExpected.guides[homeExpected.guides.length - 1].href);
+          return homeBody.slice(0, eventAt) + homeBody.slice(eventAt, endAt).replace(lastGuide, 'href="/outra"') + homeBody.slice(endAt);
+        })(),
         homeBody.replace(EVENT_SECTION, 'aria-labelledby="titulo-outra"').replace('<footer', `<section ${EVENT_SECTION}></section><footer`),
       ]
     : [

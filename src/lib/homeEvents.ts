@@ -33,6 +33,9 @@ export type HomeEventEntry = {
 // Reta final da data (a Black Friday de 2026, até 30/11): até `endsAt`, a home sobe a seção para logo abaixo da
 // vitrine, tira as Receitas e mostra todos os guias em cards compactos. Depois, tudo volta sozinho, sem deploy.
 // `labels` distingue os guias de uma loja com mais de um e nomeia o guia sem loja ativa.
+// Na reta final, o celular abre com os primeiros guias; o resto vem pelo botão de mostrar todos.
+export const MOBILE_VISIBLE_GUIDES = 12;
+
 export type HomeEventBoost = {
   endsAt: string;
   labels: Record<string, string>;
@@ -204,13 +207,15 @@ function parseBoost(value: unknown, context: string, startsAt: number, endsAt: n
   const boostEndsAt = parseInstant(boost.endsAt, `${context}.endsAt`);
   if (boostEndsAt <= startsAt || boostEndsAt > endsAt) fail(`${context}.endsAt fora da janela da data`);
 
-  const labels = boost.labels ?? {};
+  const labels = boost.labels === undefined ? {} : boost.labels;
   if (labels === null || typeof labels !== 'object' || Array.isArray(labels)) fail(`${context}.labels inválido`);
+  const trimmed: Record<string, string> = {};
   for (const [slug, label] of Object.entries(labels)) {
     if (!articleSlugs.includes(slug)) fail(`${context}.labels: ${slug} não está em articleSlugs`);
     if (!isNonEmptyString(label)) fail(`${context}.labels.${slug} vazio`);
+    trimmed[slug] = label.trim();
   }
-  return { endsAt: boost.endsAt as string, labels: labels as Record<string, string> };
+  return { endsAt: boost.endsAt as string, labels: trimmed };
 }
 
 // Valida o arquivo inteiro. Um erro aqui para o build: a home e o test:home-events chamam isto.
@@ -327,6 +332,10 @@ function toGuides(
       ...(label && label !== name ? { label } : {}),
     };
   });
+  // Dois cards iguais (mesma loja e mesmo rótulo) não se distinguem na grade.
+  const keys = guides.map(({ name, label }) => `${name}|${label ?? ''}`);
+  const repeated = guides.find((_, index) => keys.indexOf(keys[index]) !== index);
+  if (repeated) fail(`${event.id}.boost.labels: ${repeated.slug} repete a loja e o rótulo de outro guia`);
   return { guides, takesSeasonNotice: entries.some(({ store }) => store !== undefined && storeTakesCodeSeasonNotice(store)) };
 }
 
