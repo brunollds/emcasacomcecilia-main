@@ -206,6 +206,8 @@ export type AffiliateLinkOffer = CouponBase & {
   linkInstructions?: string[];
   // Aviso no fim de "Como acessar a oferta"; sem ele a página usa o aviso padrão de link.
   linkNote?: string;
+  // A frase acima do botão no recorte e no cartão de /cupons; sem ela, a padrão ("Sem cupom para copiar…").
+  cutoutNote?: string;
 };
 
 export type Coupon = CouponCodeOffer | AffiliateLinkOffer;
@@ -5387,7 +5389,8 @@ const STORE_COUPONS: Coupon[] = [
     discount: 'R$ 200 de bônus',
     offerTypeLabel: 'indicação',
     offerTypeLabelPlural: 'indicações',
-    offerActionLabel: 'Assinar pelo link de indicação',
+    offerActionLabel: 'Receba seus R$ 200',
+    cutoutNote: 'Aplicado automaticamente pelo link da Cecília.',
     category: 'Internet via satélite',
     hubCategory: 'diversos',
     hubCard: 'reduzido',
@@ -5406,7 +5409,7 @@ const STORE_COUPONS: Coupon[] = [
       'Os R$ 200 não são desconto no pedido: entram depois de dois meses de assinatura, e o pedido segue com o preço e as promoções que a Starlink mostrar no dia',
     lastVerified: '2026-11-19',
     linkInstructions: [
-      'Toque em “Assinar pelo link de indicação”: o link da Cecília abre o site oficial da Starlink, sem código para copiar.',
+      'Toque em “Receba seus R$ 200”: o link da Cecília abre o site oficial da Starlink, sem código para copiar.',
       'Informe o endereço, escolha um plano Residencial ou Viagem e faça o pedido pelo próprio link: pedido sem o link, por revendedor ou em marketplace não conta como indicação, e ela não pode ser incluída depois.',
       'Pague o primeiro mês e ative o kit.',
       'Com dois meses de assinatura, os R$ 200 entram na conta, por padrão como crédito descontado da fatura seguinte.',

@@ -351,7 +351,9 @@ export function HubCouponCard({
           </>
         ) : (
           <>
-            <p className="text-[13px] font-bold leading-[18px]">{labels.noCode}</p>
+            <p className="text-[13px] font-bold leading-[18px]">
+              {(coupon.offerMode === 'affiliate-link' && coupon.cutoutNote) || labels.noCode}
+            </p>
             <CouponStoreLink
               href={coupon.offerUrl}
               brand={coupon.brand}

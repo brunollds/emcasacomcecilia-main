@@ -356,7 +356,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
 
           {affiliateLinkOffer && (
             <>
-              <p className="text-center text-[15px] font-bold leading-[22px]">{copy.noCodeToCopy}</p>
+              <p className="text-center text-[15px] font-bold leading-[22px]">{affiliateLinkOffer.cutoutNote || copy.noCodeToCopy}</p>
               <CouponStoreLink
                 href={coupon.offerUrl}
                 brand={coupon.brand}

@@ -50,6 +50,8 @@ export type AffiliateOfferTranslation = OfferTranslationBase & {
   offerActionLabel: string;
   linkInstructions: string[];
   linkNote: string;
+  // Obrigatório quando o cupom em PT tem cutoutNote.
+  cutoutNote?: string;
   // Obrigatório quando o cupom em PT tem productLinks: os mesmos endereços, na mesma ordem, com o nome e a descrição do
   // idioma.
   productLinks?: ProductLink[];
@@ -3704,7 +3706,8 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     discount: 'Referral reward',
     offerTypeLabel: 'referral',
     offerTypeLabelPlural: 'referrals',
-    offerActionLabel: 'Sign up with the referral link',
+    offerActionLabel: 'Get your referral bonus',
+    cutoutNote: "Applied automatically through Cecília's link.",
     category: 'Satellite internet',
     shortDescription: 'a referral reward for new Starlink customers who sign up through Cecília\'s link',
     longDescription:
@@ -3764,7 +3767,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       },
     ],
     linkInstructions: [
-      'Tap “Sign up with the referral link”: Cecília\'s link opens Starlink\'s official site, with no code to copy.',
+      'Tap “Get your referral bonus”: Cecília\'s link opens Starlink\'s official site, with no code to copy.',
       'Enter your address, pick a Residential or Roam plan and place the order through the link itself: an order without the link, from a reseller or on a marketplace does not count as a referral, and it cannot be added later.',
       'Pay the first month and activate the kit.',
       'After two months of service, the reward appears in your account, by default as credit taken off the next bill.',
@@ -3776,7 +3779,8 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     discount: 'Recompensa por referido',
     offerTypeLabel: 'referido',
     offerTypeLabelPlural: 'referidos',
-    offerActionLabel: 'Regístrate con el enlace de referido',
+    offerActionLabel: 'Recibe tu recompensa por referido',
+    cutoutNote: 'Se aplica automáticamente con el enlace de Cecília.',
     category: 'Internet por satélite',
     shortDescription: 'una recompensa por referido para los nuevos clientes de Starlink que se registran con el enlace de Cecília',
     longDescription:
@@ -3836,7 +3840,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       },
     ],
     linkInstructions: [
-      'Toca “Regístrate con el enlace de referido”: el enlace de Cecília abre el sitio oficial de Starlink, sin código que copiar.',
+      'Toca “Recibe tu recompensa por referido”: el enlace de Cecília abre el sitio oficial de Starlink, sin código que copiar.',
       'Introduce tu dirección, elige un plan Residential o Roam y haz el pedido con el propio enlace: un pedido sin el enlace, de un revendedor o en un marketplace no cuenta como referido, y no se puede añadir después.',
       'Paga el primer mes y activa el kit.',
       'Tras dos meses de servicio, la recompensa aparece en tu cuenta, por defecto como crédito que se descuenta de la siguiente factura.',
@@ -3848,7 +3852,8 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     discount: 'Récompense de parrainage',
     offerTypeLabel: 'parrainage',
     offerTypeLabelPlural: 'parrainages',
-    offerActionLabel: 'S\'inscrire avec le lien de parrainage',
+    offerActionLabel: 'Recevez votre récompense de parrainage',
+    cutoutNote: 'Appliqué automatiquement via le lien de Cecília.',
     category: 'Internet par satellite',
     shortDescription: 'une récompense de parrainage pour les nouveaux clients Starlink qui s\'inscrivent avec le lien de Cecília',
     longDescription:
@@ -3908,7 +3913,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       },
     ],
     linkInstructions: [
-      'Appuyez sur «\u00a0S\'inscrire avec le lien de parrainage\u00a0»\u00a0: le lien de Cecília ouvre le site officiel de Starlink, sans code à copier.',
+      'Appuyez sur «\u00a0Recevez votre récompense de parrainage\u00a0»\u00a0: le lien de Cecília ouvre le site officiel de Starlink, sans code à copier.',
       'Saisissez votre adresse, choisissez une offre Residential ou Roam et passez la commande via le lien lui-même\u00a0: une commande sans le lien, chez un revendeur ou sur une place de marché ne compte pas comme parrainage, et il ne peut pas être ajouté ensuite.',
       'Payez le premier mois et activez le kit.',
       'Après deux mois de service, la récompense apparaît dans votre compte, par défaut sous forme de crédit déduit de la prochaine facture.',
@@ -3920,7 +3925,8 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     discount: 'Empfehlungsprämie',
     offerTypeLabel: 'Empfehlung',
     offerTypeLabelPlural: 'Empfehlungen',
-    offerActionLabel: 'Mit dem Empfehlungslink anmelden',
+    offerActionLabel: 'Hol dir deine Empfehlungsprämie',
+    cutoutNote: 'Wird automatisch über Cecílias Link angewendet.',
     category: 'Satelliteninternet',
     shortDescription: 'eine Empfehlungsprämie für neue Starlink-Kunden, die sich über Cecílias Link anmelden',
     longDescription:
@@ -3980,7 +3986,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       },
     ],
     linkInstructions: [
-      'Tippe auf „Mit dem Empfehlungslink anmelden“: Cecílias Link öffnet die offizielle Starlink-Seite, ganz ohne Code zum Kopieren.',
+      'Tippe auf „Hol dir deine Empfehlungsprämie“: Cecílias Link öffnet die offizielle Starlink-Seite, ganz ohne Code zum Kopieren.',
       'Gib deine Adresse ein, wähle einen Residential- oder Roam-Tarif und schließe die Bestellung über den Link selbst ab: Eine Bestellung ohne den Link, bei einem Wiederverkäufer oder auf einem Marktplatz zählt nicht als Empfehlung und lässt sich nicht nachträglich hinzufügen.',
       'Zahle den ersten Monat und aktiviere das Kit.',
       'Nach zwei Monaten Nutzung erscheint die Prämie in deinem Konto, standardmäßig als Guthaben, das von der nächsten Rechnung abgezogen wird.',
@@ -3992,7 +3998,8 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     discount: 'Premio referral',
     offerTypeLabel: 'referral',
     offerTypeLabelPlural: 'referral',
-    offerActionLabel: 'Iscriviti con il link referral',
+    offerActionLabel: 'Ricevi il tuo premio referral',
+    cutoutNote: 'Applicato automaticamente con il link di Cecília.',
     category: 'Internet satellitare',
     shortDescription: 'un premio referral per i nuovi clienti Starlink che si iscrivono con il link di Cecília',
     longDescription:
@@ -4052,7 +4059,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       },
     ],
     linkInstructions: [
-      'Tocca “Iscriviti con il link referral”: il link di Cecília apre il sito ufficiale di Starlink, senza codice da copiare.',
+      'Tocca “Ricevi il tuo premio referral”: il link di Cecília apre il sito ufficiale di Starlink, senza codice da copiare.',
       'Inserisci il tuo indirizzo, scegli un piano Residential o Roam e fai l\'ordine proprio tramite il link: un ordine senza il link, da un rivenditore o su un marketplace non conta come referral, e non si può aggiungere dopo.',
       'Paga il primo mese e attiva il kit.',
       'Dopo due mesi di servizio, il premio compare nel tuo account, per impostazione predefinita come credito scalato dalla fattura successiva.',
@@ -4064,7 +4071,8 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     discount: '추천 보상',
     offerTypeLabel: '추천',
     offerTypeLabelPlural: '추천',
-    offerActionLabel: '추천 링크로 가입하기',
+    offerActionLabel: '추천 보상 받기',
+    cutoutNote: 'Cecília의 링크로 자동 적용됩니다.',
     category: '위성 인터넷',
     shortDescription: 'Cecília의 링크로 가입하는 Starlink 신규 고객을 위한 추천 보상',
     longDescription:
@@ -4124,7 +4132,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       },
     ],
     linkInstructions: [
-      '“추천 링크로 가입하기”를 누르세요. Cecília의 링크가 Starlink 공식 사이트를 열며, 복사할 코드는 없습니다.',
+      '“추천 보상 받기”를 누르세요. Cecília의 링크가 Starlink 공식 사이트를 열며, 복사할 코드는 없습니다.',
       '주소를 입력하고 Residential 또는 Roam 요금제를 선택한 뒤, 반드시 그 링크로 주문하세요. 링크 없이, 재판매업체에서, 또는 마켓플레이스에서 한 주문은 추천으로 인정되지 않으며 나중에 추가할 수 없습니다.',
       '첫 달 요금을 결제하고 키트를 활성화하세요.',
       '2개월간 서비스를 이용하면 보상이 계정에 표시되며, 기본적으로 다음 청구서에서 차감되는 크레딧으로 지급됩니다.',
@@ -4136,7 +4144,8 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     discount: '紹介特典',
     offerTypeLabel: '紹介',
     offerTypeLabelPlural: '紹介',
-    offerActionLabel: '紹介リンクから登録する',
+    offerActionLabel: '紹介特典を受け取る',
+    cutoutNote: 'Cecília のリンクから自動で適用されます。',
     category: '衛星インターネット',
     shortDescription: 'Cecília のリンクから登録する Starlink の新規のお客様向け紹介特典',
     longDescription:
@@ -4196,7 +4205,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       },
     ],
     linkInstructions: [
-      '「紹介リンクから登録する」をタップします。Cecília のリンクから Starlink の公式サイトが開き、コピーするコードはありません。',
+      '「紹介特典を受け取る」をタップします。Cecília のリンクから Starlink の公式サイトが開き、コピーするコードはありません。',
       '住所を入力し、Residential または Roam のプランを選んで、そのリンクから注文します。リンクなしの注文、再販業者やマーケットプレイスでの購入は紹介と認められず、あとから追加することもできません。',
       '最初の 1 か月分を支払い、キットを有効にします。',
       '2 か月間サービスを利用すると、特典がアカウントに表示されます。標準では、次回の請求額から差し引かれるクレジットとして付与されます。',
@@ -4208,7 +4217,8 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     discount: '推薦獎勵',
     offerTypeLabel: '推薦',
     offerTypeLabelPlural: '推薦',
-    offerActionLabel: '透過推薦連結註冊',
+    offerActionLabel: '領取推薦獎勵',
+    cutoutNote: '透過 Cecília 的連結自動套用。',
     category: '衛星互聯網',
     shortDescription: '透過 Cecília 的連結註冊的 Starlink 新客戶可獲得的推薦獎勵',
     longDescription:
@@ -4268,7 +4278,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       },
     ],
     linkInstructions: [
-      '點按「透過推薦連結註冊」：Cecília 的連結會開啟 Starlink 官方網站，無需複製代碼。',
+      '點按「領取推薦獎勵」：Cecília 的連結會開啟 Starlink 官方網站，無需複製代碼。',
       '輸入地址，選擇 Residential 或 Roam 方案，並透過該連結本身下單：沒有使用連結、向經銷商購買或在市集平台購買的訂單不計作推薦，之後也無法補上。',
       '支付第一個月的費用並啟用套件。',
       '使用服務滿兩個月後，獎勵會顯示在你的帳戶中，預設以抵免額形式從下一期帳單中扣除。',
@@ -4280,7 +4290,8 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     discount: '推荐奖励',
     offerTypeLabel: '推荐',
     offerTypeLabelPlural: '推荐',
-    offerActionLabel: '通过推荐链接注册',
+    offerActionLabel: '领取推荐奖励',
+    cutoutNote: '通过 Cecília 的链接自动应用。',
     category: '卫星互联网',
     shortDescription: '通过 Cecília 的链接注册的 Starlink 新客户可获得的推荐奖励',
     longDescription:
@@ -4340,7 +4351,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
       },
     ],
     linkInstructions: [
-      '点按“通过推荐链接注册”：Cecília 的链接会打开 Starlink 官方网站，无需复制代码。',
+      '点按“领取推荐奖励”：Cecília 的链接会打开 Starlink 官方网站，无需复制代码。',
       '输入地址，选择 Residential 或 Roam 套餐，并通过该链接本身下单：没有使用链接、向经销商购买或在市集平台购买的订单不计作推荐，之后也无法补上。',
       '支付第一个月的费用并激活套件。',
       '使用服务满两个月后，奖励会显示在你的账户中，默认以抵扣额形式从下一期账单中扣除。',
@@ -4431,6 +4442,10 @@ export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, l
     const urls = (linkText.productLinks ?? []).map((item) => item.url).join(' ');
     if (ptUrls !== urls) {
       throw new Error(`${where}: os productLinks da tradução precisam dos mesmos endereços do cupom em PT, na mesma ordem.`);
+    }
+    // Sem ela, a frase do PT sairia na página do idioma.
+    if (coupon.cutoutNote && !linkText.cutoutNote) {
+      throw new Error(`${where}: a tradução precisa de cutoutNote como o cupom em PT.`);
     }
     // O print, a legenda dele e os vídeos do PT não passam para o idioma: valem os da tradução, ou nenhum.
     return { ...coupon, ...linkText, ...shared, monthlyHighlight: undefined, cartPrint: text.cartPrint, videos: text.videos };
