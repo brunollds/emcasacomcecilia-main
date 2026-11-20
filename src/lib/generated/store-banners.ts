@@ -890,23 +890,22 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-02"
   },
   {
-    "id": "skelt-esquenta-black-friday-2026",
+    "id": "skelt-flash-sale-2026",
     "affiliate": "skelt",
     "slot": "top",
     "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
     "art": {
       "kind": "bag"
     },
-    "startsAt": "2026-11-05T00:00:00-03:00",
     "copy": {
       "pt": {
-        "headline": "Esquenta da Black Friday da Skelt",
-        "text": "Campanha da própria Skelt. As condições aparecem no site da loja.",
+        "headline": "Flash Sale da Skelt: 20% OFF em todo o site e brinde Body Splash Mystic Bloom",
+        "text": "Campanha da própria Skelt. O brinde vale em compras acima de R$ 249; as condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Coleção \"BF - Live 05/11\" de skelt.com.br; início informado pelo Bruno (02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Guia para creators da Skelt, e-mail do programa repassado pelo Bruno em 20/11/2026 (\"Flash Sale: 20% OFF em todo o site, brinde Body Splash Mystic Bloom em compras acima de R$ 249\"); o aviso não traz data de fim, e a home da loja mostrava um contador até a meia-noite de 20/11",
+    "verifiedAt": "2026-11-20"
   },
   {
     "id": "skelt-november-glow-2026",
