@@ -5394,7 +5394,7 @@ const STORE_COUPONS: Coupon[] = [
     category: 'Internet via satélite',
     hubCategory: 'diversos',
     hubCard: 'reduzido',
-    shortDescription: 'R$ 200 para quem assina a Starlink pela primeira vez pelo link de indicação da Cecília',
+    shortDescription: 'cliente novo: receba R$ 200 do programa oficial de indicação da Starlink pelo link da Cecília',
     longDescription:
       'Cliente novo: receba R$ 200 do programa oficial de indicação da Starlink assinando pelo link da Cecília. A indicação só conta no pedido feito pelo link, em starlink.com, nos planos Residencial e Viagem, e o valor entra depois de dois meses de assinatura, por padrão como crédito na fatura. A Starlink dá 30 dias de teste com reembolso integral.',
     metaTitle: 'Cupom Starlink? Indicação de R$ 200 pelo link da Cecília',

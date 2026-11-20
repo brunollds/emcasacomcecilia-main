@@ -3709,7 +3709,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     offerActionLabel: 'Get your referral bonus',
     cutoutNote: "Applied automatically through Cecília's link.",
     category: 'Satellite internet',
-    shortDescription: 'a referral reward for new Starlink customers who sign up through Cecília\'s link',
+    shortDescription: 'new customer: get your bonus from Starlink\'s official referral program through Cecília\'s link',
     longDescription:
       'New customer: get your bonus from Starlink\'s official referral program by signing up through Cecília\'s link. The referral only counts on orders placed through the link on starlink.com, for Residential and Roam plans, and the bonus arrives after two months of service, as service credit or, where Starlink offers it, as cash. The amount depends on the country: in the United States, for example, it is $100. Starlink offers a full refund of the kit and the first month if you return it within 30 days.',
     metaTitle: 'Starlink referral code? Get your bonus via Cecília\'s link',
@@ -3782,7 +3782,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     offerActionLabel: 'Recibe tu recompensa por referido',
     cutoutNote: 'Se aplica automáticamente con el enlace de Cecília.',
     category: 'Internet por satélite',
-    shortDescription: 'una recompensa por referido para los nuevos clientes de Starlink que se registran con el enlace de Cecília',
+    shortDescription: 'cliente nuevo: recibe tu recompensa del programa oficial de referidos de Starlink con el enlace de Cecília',
     longDescription:
       'Cliente nuevo: recibe tu recompensa del programa oficial de referidos de Starlink registrándote con el enlace de Cecília. El referido solo cuenta en los pedidos hechos a través del enlace en starlink.com, para los planes Residential y Roam, y la recompensa llega tras dos meses de servicio, como crédito de servicio o, donde Starlink lo ofrece, en efectivo. El importe depende del país: en Estados Unidos, por ejemplo, son 100 dólares. Starlink ofrece el reembolso completo del kit y del primer mes si lo devuelves en 30 días.',
     metaTitle: '¿Código de referido Starlink? Recompensa con el enlace de Cecília',
@@ -3855,7 +3855,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     offerActionLabel: 'Recevez votre récompense de parrainage',
     cutoutNote: 'Appliqué automatiquement via le lien de Cecília.',
     category: 'Internet par satellite',
-    shortDescription: 'une récompense de parrainage pour les nouveaux clients Starlink qui s\'inscrivent avec le lien de Cecília',
+    shortDescription: 'nouveau client\u00a0: obtenez votre récompense du programme de parrainage officiel de Starlink via le lien de Cecília',
     longDescription:
       'Nouveau client\u00a0: obtenez votre récompense du programme de parrainage officiel de Starlink en vous inscrivant avec le lien de Cecília. Le parrainage ne compte que pour les commandes passées via le lien sur starlink.com, pour les offres Residential et Roam, et la récompense arrive après deux mois de service, sous forme de crédit de service ou, là où Starlink le propose, en argent. Le montant dépend du pays\u00a0: aux États-Unis, par exemple, il est de 100 dollars. Starlink propose le remboursement intégral du kit et du premier mois si vous le retournez sous 30 jours.',
     metaTitle: 'Code parrainage Starlink\u00a0? Récompense via le lien de Cecília',
@@ -3928,7 +3928,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     offerActionLabel: 'Hol dir deine Empfehlungsprämie',
     cutoutNote: 'Wird automatisch über Cecílias Link angewendet.',
     category: 'Satelliteninternet',
-    shortDescription: 'eine Empfehlungsprämie für neue Starlink-Kunden, die sich über Cecílias Link anmelden',
+    shortDescription: 'Neukunde: Hol dir deine Prämie aus dem offiziellen Empfehlungsprogramm von Starlink über Cecílias Link',
     longDescription:
       'Neukunde: Hol dir deine Prämie aus dem offiziellen Empfehlungsprogramm von Starlink, indem du dich über Cecílias Link anmeldest. Die Empfehlung zählt nur bei Bestellungen über den Link auf starlink.com, für Residential- und Roam-Tarife, und die Prämie kommt nach zwei Monaten Nutzung, als Servicegutschrift oder, wo Starlink es anbietet, als Bargeld. Die Höhe hängt vom Land ab: In den Vereinigten Staaten sind es zum Beispiel 100 $. Starlink bietet die volle Erstattung von Kit und erstem Monat an, wenn du es innerhalb von 30 Tagen zurückschickst.',
     metaTitle: 'Starlink-Empfehlungscode? Deine Prämie über Cecílias Link',
@@ -4001,7 +4001,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     offerActionLabel: 'Ricevi il tuo premio referral',
     cutoutNote: 'Applicato automaticamente con il link di Cecília.',
     category: 'Internet satellitare',
-    shortDescription: 'un premio referral per i nuovi clienti Starlink che si iscrivono con il link di Cecília',
+    shortDescription: 'nuovo cliente: ottieni il tuo premio dal programma referral ufficiale di Starlink con il link di Cecília',
     longDescription:
       'Nuovo cliente: ottieni il tuo premio dal programma referral ufficiale di Starlink iscrivendoti con il link di Cecília. Il referral conta solo per gli ordini fatti tramite il link su starlink.com, per i piani Residential e Roam, e il premio arriva dopo due mesi di servizio, come credito di servizio o, dove Starlink lo offre, in denaro. L\'importo dipende dal paese: negli Stati Uniti, per esempio, è di 100 dollari. Starlink offre il rimborso completo del kit e del primo mese se lo restituisci entro 30 giorni.',
     metaTitle: 'Codice referral Starlink? Il tuo premio con il link di Cecília',
@@ -4074,7 +4074,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     offerActionLabel: '추천 보상 받기',
     cutoutNote: 'Cecília의 링크로 자동 적용됩니다.',
     category: '위성 인터넷',
-    shortDescription: 'Cecília의 링크로 가입하는 Starlink 신규 고객을 위한 추천 보상',
+    shortDescription: '신규 고객이라면 Cecília의 링크로 Starlink 공식 추천 프로그램의 보상을 받아 보세요',
     longDescription:
       '신규 고객이라면 Cecília의 링크로 가입해 Starlink 공식 추천 프로그램의 보상을 받아 보세요. 추천은 starlink.com에서 이 링크를 통해 주문한 건에만 인정되며 Residential과 Roam 요금제가 대상입니다. 보상은 2개월간 서비스를 이용한 뒤 서비스 크레딧으로, Starlink가 제공하는 지역에서는 현금으로 지급됩니다. 금액은 국가마다 다르며, 예를 들어 미국에서는 100달러입니다. 30일 이내에 반품하면 Starlink가 키트와 첫 달 요금을 전액 환불합니다.',
     metaTitle: 'Starlink 추천 코드? Cecília의 링크로 보상 받기',
@@ -4147,7 +4147,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     offerActionLabel: '紹介特典を受け取る',
     cutoutNote: 'Cecília のリンクから自動で適用されます。',
     category: '衛星インターネット',
-    shortDescription: 'Cecília のリンクから登録する Starlink の新規のお客様向け紹介特典',
+    shortDescription: '新規のお客様は、Cecília のリンクから Starlink 公式の紹介プログラムの特典を受け取れます',
     longDescription:
       '新規のお客様は、Cecília のリンクから登録して、Starlink 公式の紹介プログラムの特典を受け取りましょう。紹介が対象になるのは、starlink.com でこのリンク経由で注文した場合のみで、Residential と Roam のプランが対象です。特典は 2 か月間サービスを利用した後に、サービスクレジットとして、または Starlink が対応している地域では現金で届きます。金額は国によって異なり、たとえばアメリカでは 100 ドルです。30 日以内に返品すれば、Starlink がキットと最初の 1 か月分を全額返金します。',
     metaTitle: 'Starlink 紹介コード？Cecília のリンクで特典を受け取る',
@@ -4220,7 +4220,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     offerActionLabel: '領取推薦獎勵',
     cutoutNote: '透過 Cecília 的連結自動套用。',
     category: '衛星互聯網',
-    shortDescription: '透過 Cecília 的連結註冊的 Starlink 新客戶可獲得的推薦獎勵',
+    shortDescription: '新客戶透過 Cecília 的連結，領取 Starlink 官方推薦計畫的獎勵',
     longDescription:
       '新客戶請透過 Cecília 的連結註冊，領取 Starlink 官方推薦計畫的獎勵。推薦僅適用於在 starlink.com 透過該連結下的訂單，且限 Residential 和 Roam 方案，獎勵會在使用服務滿兩個月後發放，形式為服務抵免額，在 Starlink 提供的地區也可選擇現金。金額因國家而異，例如在美國為 100 美元。如在 30 天內退貨，Starlink 會全額退還套件和第一個月的費用。',
     metaTitle: 'Starlink 推薦碼？透過 Cecília 的連結領取獎勵',
@@ -4293,7 +4293,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     offerActionLabel: '领取推荐奖励',
     cutoutNote: '通过 Cecília 的链接自动应用。',
     category: '卫星互联网',
-    shortDescription: '通过 Cecília 的链接注册的 Starlink 新客户可获得的推荐奖励',
+    shortDescription: '新客户通过 Cecília 的链接，领取 Starlink 官方推荐计划的奖励',
     longDescription:
       '新客户请通过 Cecília 的链接注册，领取 Starlink 官方推荐计划的奖励。推荐仅适用于在 starlink.com 通过该链接下的订单，且限 Residential 和 Roam 套餐，奖励会在使用服务满两个月后发放，形式为服务抵扣额，在 Starlink 提供的地区也可选择现金。金额因国家而异，例如在美国为 100 美元。如在 30 天内退货，Starlink 会全额退还套件和第一个月的费用。',
     metaTitle: 'Starlink 推荐码？通过 Cecília 的链接领取奖励',
@@ -4361,9 +4361,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
   },
 };
 
+// `hubFeatured`: a loja vai aos Destaques do hub de cada idioma, ao lado da YesStyle (Bruno, 20/11/2026). O PT
+// segue o `featured` de couponsData.ts.
 export type CouponTranslation =
-  | { offerMode: 'affiliate-link'; offerUrl?: string; locales: Record<TranslatedLocale, AffiliateOfferTranslation> }
-  | { offerMode: 'discount-code'; offerUrl?: string; locales: Record<TranslatedLocale, CodeOfferTranslation> };
+  | { offerMode: 'affiliate-link'; offerUrl?: string; hubFeatured?: boolean; locales: Record<TranslatedLocale, AffiliateOfferTranslation> }
+  | { offerMode: 'discount-code'; offerUrl?: string; hubFeatured?: boolean; locales: Record<TranslatedLocale, CodeOfferTranslation> };
 
 const COUPON_TRANSLATIONS: Record<string, CouponTranslation> = {
   shein: {
@@ -4377,15 +4379,20 @@ const COUPON_TRANSLATIONS: Record<string, CouponTranslation> = {
   temu: { offerMode: 'affiliate-link', locales: TEMU_TRANSLATIONS },
   aliexpress: { offerMode: 'affiliate-link', locales: ALIEXPRESS_TRANSLATIONS },
   proton: { offerMode: 'affiliate-link', locales: PROTON_TRANSLATIONS },
-  starlink: { offerMode: 'affiliate-link', locales: STARLINK_TRANSLATIONS },
+  starlink: { offerMode: 'affiliate-link', hubFeatured: true, locales: STARLINK_TRANSLATIONS },
   hostinger: {
     // O SONAR20 no site internacional (em inglês): o link de indicação leva o mesmo código. O PT segue no /br, e
     // o testNote daqui só cita o teste do site global.
     offerMode: 'discount-code',
+    hubFeatured: true,
     offerUrl: 'https://www.hostinger.com/?REFERRALCODE=SONAR20',
     locales: HOSTINGER_TRANSLATIONS,
   },
 };
+
+export function isHubFeaturedStore(slug: string): boolean {
+  return Boolean(COUPON_TRANSLATIONS[slug]?.hubFeatured);
+}
 
 export function getCouponStorePath(slug: string, locale: Locale) {
   return locale === 'pt' ? `/cupons/${slug}` : `/${locale}/coupons/${slug}`;

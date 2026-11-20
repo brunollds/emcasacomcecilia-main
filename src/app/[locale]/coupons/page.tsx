@@ -160,6 +160,8 @@ export default async function LocalizedCouponsHub({ params }: CouponsHubProps) {
                   upTo={upTo}
                   variant={index === 0 ? 'lead' : 'featured'}
                   stampOrder={index}
+                  // Com três destaques, a YesStyle ocupa a coluna da esquerda e as outras duas se empilham à direita.
+                  className={index === 0 && featured.length > 2 ? 'md:row-span-2' : ''}
                 />
               ))}
             </div>
