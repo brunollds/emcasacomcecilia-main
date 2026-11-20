@@ -374,3 +374,21 @@ oficial; item 1.3, condições "independentes das demais campanhas"; 1.4, sem pr
   "qual barra escolher". A BO5 não repete a comparação entre marcas: no máximo uma frase com link.
 - `barra-de-proteina-mais-mu-qual-escolher` (25/10): só Mais Mu.
 - Nenhum artigo do site fala da BOLD.
+
+## 10. Diagnóstico de vendas e as pautas BO7 e BO8 (20/11/2026)
+
+Pedido do Bruno (20/11): mais de 24 h com a página e os artigos no ar e nenhuma venda.
+
+- **A causa principal está no site da loja, não nos artigos.** Na home, cada cartão de produto mostra "30% OFF · CUPOM
+  PREBLACK · COM CUPOM" com o preço calculado (no whey, 34% a 38%). O regulamento da Pré-Black (item 4.1) diz: cupons de
+  30% em anúncios e de 20% de influenciadores. Quem chega pelo nosso link vê um código 10 pontos maior e troca.
+- **O código da loja também vale no BOLD Club** (teste do Bruno, 20/11). A assinatura não é vantagem do CECILIA15.
+- **Brindes:** o exemplo 3.5 do regulamento mostra que, com R$ 350 em produtos, 20% leva a coqueteleira e 30% não. Só vira
+  argumento citando o cupom da loja, o que a decisão de 18/11 não permite; e 30% ainda economiza mais. Não usar.
+- **O que fica com o Bruno:** pedir à BOLD o CECILIA15 a 30% enquanto durar a campanha dos anúncios, ou um benefício só
+  nosso; retestar o percentual em 23/11, quando a Pré-Black acaba.
+- **Cobertura dos artigos:** os seis no ar já tratam de Mercado Livre, assinatura, brindes e "cupom de influenciadora"
+  (FAQ de `/cupons/bold`). Faltavam o whey e a escolha da gramatura da barra: BO7 e BO8, com GO do Bruno em 20/11.
+- **Whey (páginas de 20/11):** 3W (concentrado, isolado e hidrolisado), 30 g por dose com 22 g de proteína, 118 kcal,
+  0 g de açúcar adicionado, contém lactose e glúten. 900 g R$ 329,00 (30 doses, R$ 10,97 por dose); 450 g R$ 189,00 (15
+  doses, R$ 12,60); 10 sachês R$ 139,00. Contas no briefing [[whey-bold-e-bom]].
