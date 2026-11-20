@@ -1,0 +1,172 @@
+{
+  "id": 1118,
+  "slug": "denavita-reclame-aqui-nota-reputacao",
+  "locale": "pt",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "bodyDatesReason": "reclame-aqui",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "denavita",
+  "type": "Análise de Reputação",
+  "title": "Denavita no Reclame Aqui: nota, atrasos e tempo de resposta",
+  "seoTitle": "Denavita no Reclame Aqui: nota e reclamações",
+  "description": "Veja a nota da Denavita no Reclame Aqui, o tempo médio de resposta, o que aparece nas queixas de entrega e quais dados guardar se precisar falar com a loja.",
+  "metaDescription": "EMCASA dá 10% OFF na Denavita. Veja a nota da loja no Reclame Aqui, o que mais gera reclamação, quanto ela resolve e o que fazer antes de comprar.",
+  "image": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-capa.webp",
+  "imageAlt": "Pote de NAC+ com cápsulas, em foto da Denavita com o logo da marca, os textos «Reclame Aqui / Nota e queixas» e o código EMCASA.",
+  "cta": {
+    "text": "Se a Denavita faz sentido para a sua compra, abra o site oficial pelo botão, monte o carrinho e, no checkout, digite EMCASA no campo “Tem um cupom?” e clique em “Adicionar”.",
+    "label": "Ir para a Denavita",
+    "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Dados do perfil público da Denavita no Reclame Aqui. Somos parceiros da Denavita e podemos receber comissão pelo link e pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "denavita-e-confiavel"
+    },
+    {
+      "slug": "denavita-e-boa"
+    },
+    {
+      "slug": "cupom-denavita-como-usar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Denavita teve nota 8,5 e reputação Ótima no Reclame Aqui de maio a outubro de 2026. O perfil mostrava resposta a todas as 108 reclamações do semestre, em média após 5 dias e 14 horas. Na aba geral, que reúne até três anos, atraso na entrega era a queixa mais citada."
+      ]
+    },
+    {
+      "heading": "A nota em números",
+      "paragraphs": [
+        "A tabela reúne os indicadores observados no [perfil da Denavita](https://www.reclameaqui.com.br/empresa/denavita/) para o semestre de maio a outubro."
+      ],
+      "comparisonTable": {
+        "caption": "Indicadores da Denavita no semestre consultado.",
+        "headers": [
+          "Indicador",
+          "Seis meses"
+        ],
+        "rows": [
+          [
+            "Reputação",
+            "Ótima"
+          ],
+          [
+            "Nota de reputação",
+            "8,5"
+          ],
+          [
+            "Reclamações recebidas",
+            "108"
+          ],
+          [
+            "Respondidas",
+            "100%"
+          ],
+          [
+            "Aguardando resposta",
+            "0"
+          ],
+          [
+            "Resolvidas, entre as avaliadas",
+            "91,4%"
+          ],
+          [
+            "Voltariam a fazer negócio, entre as avaliadas",
+            "79,3%"
+          ],
+          [
+            "Avaliadas",
+            "58"
+          ],
+          [
+            "Nota média do consumidor",
+            "7,21"
+          ],
+          [
+            "Tempo médio de resposta",
+            "5 dias e 14 horas"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Das 108 reclamações, 58 foram avaliadas. O índice de solução e a intenção de voltar a comprar se referem às avaliadas. A nota 8,5 é a reputação calculada pelo Reclame Aqui. A nota 7,21 é a média dada pelos consumidores que avaliaram."
+      ]
+    },
+    {
+      "heading": "De Boa para Ótima",
+      "paragraphs": [
+        "A reputação subiu no período. Em maio, junho e julho, o perfil ficou em Boa, e em agosto, setembro e outubro passou a Ótima.",
+        "Sem o número de pedidos da loja, os 108 registros não mostram a proporção de compras com problema."
+      ]
+    },
+    {
+      "heading": "O que mais gera reclamação",
+      "paragraphs": [
+        "O perfil registrava atraso na entrega em 46,18% dos problemas da aba geral. Essa aba reúne até três anos. Para saber a frequência de atraso por pedido seria preciso conhecer o número de pedidos e entregas da loja."
+      ]
+    },
+    {
+      "heading": "Qual perfil é o da Denavita",
+      "paragraphs": [
+        "O perfil tem selo de Empresa Verificada e informa o CNPJ 43.777.011/0001-95. O rodapé da loja exibe outro número. Veja [quem vende e como conferir os CNPJs](/reviews/denavita-e-confiavel)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
+          "alt": "Pacote de Digestino da Denavita sobre toalha xadrez, com garrafa e abacaxi, em foto oficial da loja",
+          "caption": "Digestino, um dos produtos da Denavita. Foto: Denavita",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Como documentar a previsão de entrega",
+      "paragraphs": [
+        "Informe o CEP para ver a estimativa de entrega. Guarde uma captura da previsão, o número do pedido e o comprovante de pagamento para acompanhar o pedido e cobrar a entrega se o prazo passar."
+      ]
+    },
+    {
+      "heading": "Como reclamar",
+      "paragraphs": [
+        "Se estiver esperando a entrega, fale com a [central da Denavita](https://app.goconnect360.com.br/hc/denavita) e guarde o protocolo. Para produto errado, avaria ou desistência, use o [portal de trocas](https://trocas-gobeaute.devgogroup.com/denavita).",
+        "Se a loja não resolver, você pode registrar a reclamação no Reclame Aqui ou consultar o Procon do seu estado."
+      ]
+    },
+    {
+      "heading": "Onde conferir o perfil atualizado",
+      "paragraphs": [
+        "O [perfil da Denavita](https://www.reclameaqui.com.br/empresa/denavita/) mostra os dados mais recentes. O [cupom Denavita](/cupons/denavita) EMCASA dá 10% OFF no site oficial."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Como é o atendimento da Denavita no Reclame Aqui? No recorte de seis meses consultado, a reputação era Ótima, com nota 8,5. O índice de solução foi de 91,4% entre as avaliadas.",
+        "Qual é a nota da Denavita no Reclame Aqui? No semestre consultado, a nota de reputação foi 8,5, e a nota média de quem avaliou o atendimento foi 7,21.",
+        "A Denavita atrasa a entrega? Atraso na entrega foi a queixa mais citada na aba geral, que cobre até três anos. Confira o prazo do seu pedido no checkout pelo CEP.",
+        "Como falar com a Denavita? Pela central de atendimento e pelo portal de trocas da loja. Se não houver solução, procure o Reclame Aqui ou o Procon."
+      ]
+    }
+  ]
+}

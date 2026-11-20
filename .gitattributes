@@ -96,6 +96,7 @@ public/images/about/partners/simple-organic-icon.png -text export-ignore
 public/images/about/partners/simple-organic.png -text export-ignore
 public/images/about/partners/skelt-icon.png -text export-ignore
 public/images/about/partners/skelt.png -text export-ignore
+public/images/about/partners/starlink.png -text export-ignore
 public/images/about/partners/tempero-do-anjo.webp -text export-ignore
 public/images/about/partners/temu.png -text export-ignore
 public/images/about/partners/toda-up-icon.png -text export-ignore
@@ -139,6 +140,7 @@ public/images/logos/bolinhas/rituaria.png -text export-ignore
 public/images/logos/bolinhas/shein.png -text export-ignore
 public/images/logos/bolinhas/simple-organic.png -text export-ignore
 public/images/logos/bolinhas/skelt.png -text export-ignore
+public/images/logos/bolinhas/starlink.png -text export-ignore
 public/images/logos/bolinhas/temu.png -text export-ignore
 public/images/logos/bolinhas/toda-up.png -text export-ignore
 public/images/logos/bolinhas/yesstyle.png -text export-ignore
@@ -179,6 +181,7 @@ public/images/logos/watermarks/rituaria.webp -text export-ignore
 public/images/logos/watermarks/shein.webp -text export-ignore
 public/images/logos/watermarks/simple-organic.webp -text export-ignore
 public/images/logos/watermarks/skelt.webp -text export-ignore
+public/images/logos/watermarks/starlink.webp -text export-ignore
 public/images/logos/watermarks/temu.webp -text export-ignore
 public/images/logos/watermarks/toda-up.webp -text export-ignore
 public/images/logos/watermarks/yesstyle.webp -text export-ignore
@@ -837,6 +840,22 @@ public/images/reviews/damie/valley-inflow-ou-damie-capa-v2.webp -text export-ign
 public/images/reviews/damie/valley-inflow-ou-damie-damie-sofa-e-caixa.webp -text export-ignore
 public/images/reviews/damie/valley-inflow-ou-damie-garantia-teste-devolucao-prazo.webp -text export-ignore
 public/images/reviews/damie/valley-inflow-ou-damie-precos-cartao.webp -text export-ignore
+public/images/reviews/denavita/black-friday-denavita-capa.webp -text export-ignore
+public/images/reviews/denavita/black-friday-denavita-laranja-moro-3-potes.webp -text export-ignore
+public/images/reviews/denavita/cupom-denavita-checkout-com-cupom.webp -text export-ignore
+public/images/reviews/denavita/cupom-denavita-como-usar-capa.webp -text export-ignore
+public/images/reviews/denavita/cupom-denavita-como-usar-trio-magnesio.webp -text export-ignore
+public/images/reviews/denavita/cupom-denavita-primeira-compra-capa.webp -text export-ignore
+public/images/reviews/denavita/cupom-denavita-primeira-compra-tons.webp -text export-ignore
+public/images/reviews/denavita/denavita-e-boa-capa.webp -text export-ignore
+public/images/reviews/denavita/denavita-e-boa-creatina.webp -text export-ignore
+public/images/reviews/denavita/denavita-e-boa-nac.webp -text export-ignore
+public/images/reviews/denavita/denavita-e-confiavel-capa.webp -text export-ignore
+public/images/reviews/denavita/denavita-e-confiavel-creatina-potes.webp -text export-ignore
+public/images/reviews/denavita/denavita-reclame-aqui-digestino.webp -text export-ignore
+public/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-capa.webp -text export-ignore
+public/images/reviews/denavita/laranja-moro-denavita-capa.webp -text export-ignore
+public/images/reviews/denavita/laranja-moro-denavita-pote.webp -text export-ignore
 public/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp -text export-ignore
 public/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp -text export-ignore
 public/images/reviews/dolcegusto/adaptador-neo-start-hero-oficial.webp -text export-ignore

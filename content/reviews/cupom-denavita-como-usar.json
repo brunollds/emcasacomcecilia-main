@@ -1,0 +1,173 @@
+{
+  "id": 1113,
+  "slug": "cupom-denavita-como-usar",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "denavita",
+  "type": "Guia & Cupons",
+  "title": "Cupom Denavita: como aplicar o EMCASA no checkout e com o que ele soma",
+  "seoTitle": "Como usar o cupom EMCASA na Denavita, 10% OFF",
+  "description": "Veja onde aplicar EMCASA no checkout da Denavita, quanto ele descontou em três carrinhos com avulsos e kits e como conferir o preço final com entrega pelo CEP.",
+  "metaDescription": "O cupom EMCASA dá 10% OFF na Denavita. Veja onde aplicar no checkout, a conta do nosso teste com produtos em promoção, o frete grátis e as trocas.",
+  "image": "/images/reviews/denavita/cupom-denavita-como-usar-capa.webp",
+  "imageAlt": "Pote de Laranja Moro sobre fatias de laranja vermelha, em foto da Denavita com o logo da marca, os textos «Como aplicar o cupom» e o código EMCASA.",
+  "cta": {
+    "text": "Abra o site oficial da Denavita, monte o carrinho e vá para o checkout. No resumo do pedido, digite EMCASA em Tem um cupom?, clique em Adicionar e confira a linha Cupom de desconto antes de pagar.",
+    "label": "Ir para a Denavita",
+    "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Cupom testado no checkout do site oficial. Não usamos os produtos. Somos parceiros da Denavita e podemos receber comissão pelo link e pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "black-friday-denavita"
+    },
+    {
+      "slug": "cupom-denavita-primeira-compra"
+    },
+    {
+      "slug": "laranja-moro-denavita"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Use EMCASA para ter 10% OFF no site da Denavita, na primeira compra ou se já for cliente. No checkout, abra “Tem um cupom?” e clique em “Adicionar” antes de informar o CPF. O desconto entrou sobre o preço dos produtos e dos kits testados e se manteve no Pix."
+      ]
+    },
+    {
+      "heading": "Onde aplicar o cupom na Denavita",
+      "paragraphs": [
+        "Copie EMCASA na [página do cupom Denavita](/cupons/denavita). No caminho que testamos, o campo aparece no resumo do checkout, antes de informar o CPF."
+      ],
+      "bullets": [
+        "Escolha os produtos no site oficial e adicione ao carrinho.",
+        "Clique em Finalizar compra. O checkout abre em seguro.denavita.com.br.",
+        "No resumo do pedido, digite EMCASA no campo “Tem um cupom?”, tudo junto, sem espaço.",
+        "Clique em “Adicionar” e veja a linha “Cupom de desconto”, em Descontos, com o valor abatido.",
+        "Só depois siga para a identificação, a entrega e o pagamento."
+      ],
+      "postParagraphs": [
+        "Confirme a linha “Cupom de desconto” no resumo do pedido e veja quanto foi abatido dos produtos."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/denavita/cupom-denavita-como-usar-trio-magnesio.webp",
+          "alt": "Pote de Trio Magnésio da Denavita deitado, com cápsulas saindo",
+          "caption": "O Trio Magnésio, um dos produtos do site. Foto: Denavita",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Quanto o cupom tira: a conta do teste",
+      "paragraphs": [
+        "Em 19/11, os três carrinhos receberam 10% de desconto sobre o preço exibido no checkout. No pedido com dois kits, o desconto de R$ 39,98 se manteve quando foi escolhido Pix."
+      ],
+      "comparisonTable": {
+        "caption": "Três carrinhos testados no site oficial, antes do frete.",
+        "headers": [
+          "Carrinho",
+          "Produtos",
+          "EMCASA: 10% OFF",
+          "Produtos com o cupom"
+        ],
+        "rows": [
+          [
+            "Laranja Moro Morosil, Picolinato de Cromo e Café Verde",
+            "R$ 76,90",
+            "R$ 7,69",
+            "R$ 69,21"
+          ],
+          [
+            "Jejoom Shot Matinal, Trio Magnésio e Laranja Moro",
+            "R$ 218,70",
+            "R$ 21,87",
+            "R$ 196,83"
+          ],
+          [
+            "Kit Vida Fit e Turbo Metabolismo",
+            "R$ 399,80",
+            "R$ 39,98",
+            "R$ 359,82"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Para comparar com seu pedido, use o subtotal de produtos e a linha de desconto. Confira o frete à parte."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/denavita/cupom-denavita-checkout-com-cupom.webp",
+          "alt": "Resumo do checkout da Denavita com o código EMCASA no campo Tem um cupom?: desconto de R$ 39,98 sobre R$ 399,80 em produtos e total de R$ 359,82",
+          "caption": "Resumo do checkout da Denavita com o EMCASA aplicado no carrinho dos dois kits.",
+          "objectFit": "contain",
+          "aspectRatio": 0.54
+        }
+      ]
+    },
+    {
+      "heading": "Soma com promoção, kits e Pix?",
+      "paragraphs": [
+        "O desconto entrou no avulso em promoção e no carrinho com Kit Vida Fit e Turbo Metabolismo. No Leve 3, Pague 2, o resumo do nosso teste mostrou os 10% do EMCASA, sem um abatimento separado da oferta por quantidade.",
+        "Para “Leve 3, Pague 2”, “Compre 2 Leve 3” e outras quantidades, compare o subtotal antes e depois do código e confira quais descontos aparecem juntos. Veja [as ofertas que a Denavita anuncia](/reviews/black-friday-denavita)."
+      ]
+    },
+    {
+      "heading": "Frete, prazo e parcelamento",
+      "paragraphs": [
+        "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, com asterisco. Informe o CEP, aplique o cupom e confira o total com a entrega no checkout.",
+        "O parcelamento no cartão varia pelo pedido. Veja as opções no checkout e, se estiver comprando para uma data certa, guarde a previsão de entrega. [Prazos e atendimento da Denavita](/reviews/denavita-e-confiavel)"
+      ]
+    },
+    {
+      "heading": "Trocas e devolução",
+      "paragraphs": [
+        "Para desistência ou produto entregue com problema, abra uma solicitação no [portal de trocas da Denavita](https://trocas-gobeaute.devgogroup.com/denavita) com o número do pedido. Em compra online, o [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm#art49) prevê sete dias a partir do recebimento para desistir."
+      ]
+    },
+    {
+      "heading": "Se o código não entrar",
+      "paragraphs": [
+        "Se o desconto não aparecer, confira três coisas antes de pagar."
+      ],
+      "bullets": [
+        "**O campo.** Abra “Tem um cupom?” no resumo do checkout em seguro.denavita.com.br.",
+        "**A grafia.** EMCASA, tudo junto, sem espaço antes ou depois.",
+        "**A linha Cupom de desconto.** Sem o valor abatido no resumo, o código não entrou."
+      ],
+      "postParagraphs": [
+        "Para o código em vigor, veja a página do [cupom Denavita](/cupons/denavita). O EMCASA é do site oficial da Denavita: é no checkout dele que o código entra."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Onde coloco o cupom na Denavita? No checkout, abra “Tem um cupom?”, cole EMCASA e clique em “Adicionar”. Confira na linha “Cupom de desconto” se os 10% entraram.",
+        "O cupom EMCASA vale no Pix? No nosso teste, o desconto de 10% se manteve quando selecionamos Pix no pedido com Kit Vida Fit e Turbo Metabolismo.",
+        "Qual é o frete grátis da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. Confira o frete para o seu CEP depois de aplicar o cupom no checkout.",
+        "O cupom vale no Mercado Livre? O EMCASA é do site oficial da Denavita: é no checkout da loja, em seguro.denavita.com.br, que o código entra.",
+        "O cupom vale no Laranja Moro? Vale: no nosso teste, o Laranja Moro em promoção ganhou os 10%. A conta está no quadro acima, e o produto tem guia próprio: [Laranja Moro Denavita](/reviews/laranja-moro-denavita)."
+      ]
+    }
+  ]
+}

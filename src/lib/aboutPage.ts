@@ -94,6 +94,7 @@ const PARTNERS: AboutPartner[] = [
   { name: 'Gocase', src: '/images/about/partners/gocase.png', href: 'https://www.gocase.com.br' },
   { name: 'Cola e Decora', src: '/images/about/partners/colaedecora.png', href: 'https://www.lojacolaedecora.com.br' },
   { name: 'Denavita', src: '/images/about/partners/denavita.png', href: 'https://www.denavita.com.br' },
+  { name: 'Starlink', src: '/images/about/partners/starlink.png', href: 'https://www.starlink.com/br' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });

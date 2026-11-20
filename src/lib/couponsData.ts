@@ -43,8 +43,8 @@ export type CouponHubCategory = (typeof COUPON_HUB_CATEGORIES)[number]['id'];
 // A marca da loja na bolinha (a vitrine da home e as bolinhas de /reviews): o símbolo num PNG ou WebP de 512 × 512 com
 // fundo transparente, centralizado e com a margem óptica no próprio arquivo (regra no docs/GUIA-MIDIA-EDITORIAL.md).
 // `background` (#rrggbb) só quando o fundo é parte da marca; sem ele, o disco é creme.
-// `round`: a marca já é um selo redondo (a Dolce Gusto) e ocupa o disco quase inteiro, em vez dos 64% de um logo
-// que precisa de margem.
+// `round`: a marca ocupa o disco quase inteiro, em vez dos 64% de um logo que precisa de margem: o selo redondo da
+// Dolce Gusto e o letreiro largo da Starlink, que não tem símbolo à parte.
 export type CouponBubble = { src: string; background?: string; round?: boolean };
 
 interface CouponBase {
@@ -5133,6 +5133,11 @@ const STORE_COUPONS: Coupon[] = [
     bubble: { src: '/images/logos/bolinhas/denavita-folhas.png', background: '#54B101' },
     brandWatermark: '/images/logos/watermarks/denavita.webp',
     brandColor: '#54B101',
+    cartPrint: {
+      src: '/images/reviews/denavita/cupom-denavita-checkout-com-cupom.webp',
+      alt: 'Resumo do checkout da Denavita com o código EMCASA no campo Tem um cupom?: desconto de R$ 39,98 sobre R$ 399,80 em produtos e total de R$ 359,82',
+      aspectRatio: 0.54,
+    },
     code: 'EMCASA',
     codeFieldLabel: 'Tem um cupom?',
     discount: '10% OFF',
@@ -5142,7 +5147,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'reduzido',
     shortDescription: 'todo o site da Denavita, inclusive os produtos em promoção',
     longDescription:
-      'O cupom Denavita EMCASA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: no nosso teste, os 10% entraram sobre vitaminas e suplementos que já estavam com desconto. Vale em todas as formas de pagamento.',
+      'O cupom Denavita EMCASA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços em promoção: nos nossos testes, os 10% entraram sobre vitaminas, suplementos e kits que já estavam com desconto. Vale em todas as formas de pagamento, inclusive no Pix.',
     metaTitle: 'Cupom Denavita: 10% OFF com EMCASA',
     metaTitleMonth: true,
     metaDescription:
@@ -5152,18 +5157,18 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Pode ser usado por clientes novos e antigos',
     shipping:
       'O site anuncia frete grátis em compras a partir de R$ 199,90, com regras próprias; o valor do frete e o prazo saem no checkout depois do CEP',
-    // O "Leve 3, Pague 2" do carrinho ainda não foi testado com o cupom (pede identificação): só os preços em promoção.
-    combinable: 'Soma com as promoções de preço do site e vale com todas as formas de pagamento',
+    // O "Leve 3, Pague 2" do carrinho não apareceu junto com o cupom em nenhum teste: só os preços em promoção.
+    combinable: 'Soma com as promoções de preço do site e vale com todas as formas de pagamento, inclusive o Pix',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, a Laranja Moro de R$ 129,90 por R$ 76,90 também ganhou os 10%' },
-      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
+      { benefit: 'pix', stacks: 'sim', condition: 'No teste, o desconto do cupom se manteve com o Pix escolhido' },
       { benefit: 'frete', stacks: 'depende', condition: 'O site anuncia frete grátis a partir de R$ 199,90; confira a opção no checkout depois do CEP' },
     ],
-    paymentPerks: ['Parcelamento no cartão de crédito, com 3x sem juros nos produtos da vitrine'],
+    paymentPerks: ['Parcelamento em até 12x no cartão de crédito, como mostra o resumo do checkout'],
     lastVerified: '2026-11-19',
     testedAt: '2026-11-19',
     testNote:
-      'Num carrinho com a Laranja Moro Morosil, Picolinato de Cromo e Café Verde em promoção, de R$ 129,90 por R$ 76,90, o EMCASA tirou R$ 7,69 e o total caiu para R$ 69,21. Com o Jejoom Shot Matinal, de R$ 94,90, e o Trio Magnésio, de R$ 46,90, no mesmo carrinho, os R$ 218,70 em produtos ganharam R$ 21,87 de desconto, 10%, e o total ficou em R$ 196,83.',
+      'Num carrinho com a Laranja Moro Morosil, Picolinato de Cromo e Café Verde em promoção, de R$ 129,90 por R$ 76,90, o EMCASA tirou R$ 7,69 e o total caiu para R$ 69,21. Com o Jejoom Shot Matinal, de R$ 94,90, e o Trio Magnésio, de R$ 46,90, no mesmo carrinho, os R$ 218,70 em produtos ganharam R$ 21,87 de desconto, 10%, e o total ficou em R$ 196,83. Num carrinho com o Kit Vida Fit e o Turbo Metabolismo, de R$ 199,90 cada, o código tirou R$ 39,98 dos R$ 399,80, e o total caiu para R$ 359,82; com o Pix escolhido, o desconto se manteve.',
     codeInstructions: [
       'Copie o código EMCASA no card acima.',
       'Acesse o site oficial da Denavita pelo botão indicado, adicione os produtos ao carrinho e clique em Finalizar compra.',
@@ -5182,6 +5187,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom Denavita soma com os produtos em promoção?',
         answer:
           'Sim. No nosso teste, a Laranja Moro estava em promoção, de R$ 129,90 por R$ 76,90, e o cupom tirou os 10% dela também: R$ 7,69, com o total em R$ 69,21.',
+      },
+      {
+        question: 'O cupom EMCASA vale no Pix?',
+        answer:
+          'Vale. No nosso teste, o desconto do cupom se manteve com o Pix escolhido. No cartão de crédito, o resumo do checkout mostra o parcelamento em até 12x.',
       },
       {
         question: 'O cupom Denavita vale na primeira compra?',
@@ -5239,7 +5249,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'no site oficial',
-      note: 'Soma com os preços em promoção do site',
+      note: 'Soma com os preços em promoção do site e com o Pix',
     },
     status: 'ativo',
     featured: false,
@@ -5356,6 +5366,97 @@ const STORE_COUPONS: Coupon[] = [
       scope: 'em todos os planos',
       note: 'Vale na compra nova, para clientes novos e antigos, em planos mensais ou anuais; a renovação sai sem desconto',
     },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'affiliate-link',
+    slug: 'starlink',
+    brand: 'Starlink',
+    officialUrl: 'https://www.starlink.com/br',
+    // Link de indicação da conta do Bruno, como veio dele (19/11/2026): R$ 200 para quem assina pela primeira vez, e o
+    // mesmo valor para quem indicou. Não editar nem conferir clicando: a indicação só conta para o pedido feito pelo link.
+    offerUrl: 'https://starlink.com/?referral=RC-DF-17132118-63432-88',
+    brandIcon: 'S',
+    brandLogo: '/images/about/partners/starlink.png',
+    brandLogoAlt: 'Marca Starlink',
+    // O letreiro é largo e não tem símbolo à parte: ocupa o disco preto quase inteiro, como o selo da Dolce Gusto.
+    bubble: { src: '/images/logos/bolinhas/starlink.png', background: '#000000', round: true },
+    brandWatermark: '/images/logos/watermarks/starlink.webp',
+    brandColor: '#000000',
+    discount: 'R$ 200 de bônus',
+    offerTypeLabel: 'indicação',
+    offerTypeLabelPlural: 'indicações',
+    offerActionLabel: 'Assinar pelo link de indicação',
+    category: 'Internet via satélite',
+    hubCategory: 'diversos',
+    hubCard: 'reduzido',
+    shortDescription: 'R$ 200 para quem assina a Starlink pela primeira vez pelo link de indicação da Cecília',
+    longDescription:
+      'Quem assina a Starlink pela primeira vez pelo link de indicação da Cecília recebe R$ 200 depois de dois meses de assinatura, por padrão como crédito na fatura. Vale nos planos Residencial e Viagem pedidos em starlink.com, sem código para copiar. O pedido sai pelo preço que a Starlink mostra no dia, e ela dá 30 dias de teste com reembolso integral.',
+    metaTitle: 'Indicação Starlink: R$ 200 pelo link da Cecília',
+    metaDescription:
+      'Indicação Starlink: R$ 200 para quem assina pela primeira vez pelo link da Cecília, em crédito na fatura depois de dois meses. Residencial e Viagem.',
+    eligibleCategories:
+      'Primeira assinatura de um plano Residencial (Lite, 100 Mbps, 200 Mbps, Residencial e Máx) ou Viagem (100 GB, 300 GB e Ilimitado), pedida em starlink.com pelo link',
+    validity: 'Indicação ativa enquanto o programa de indicação da Starlink estiver valendo; o valor é o que a Starlink paga no Brasil',
+    reusable: 'Só para quem nunca foi cliente da Starlink: clientes atuais e antigos não recebem o valor',
+    shipping: 'O preço do kit e da entrega aparece no pedido, em starlink.com, depois do endereço',
+    combinable:
+      'Os R$ 200 não são desconto no pedido: entram depois de dois meses de assinatura, e o pedido segue com o preço e as promoções que a Starlink mostrar no dia',
+    lastVerified: '2026-11-19',
+    linkInstructions: [
+      'Toque em “Assinar pelo link de indicação”: o link da Cecília abre o site oficial da Starlink, sem código para copiar.',
+      'Informe o endereço, escolha um plano Residencial ou Viagem e faça o pedido pelo próprio link: pedido sem o link, por revendedor ou em marketplace não conta como indicação, e ela não pode ser incluída depois.',
+      'Pague o primeiro mês e ative o kit.',
+      'Com dois meses de assinatura, os R$ 200 entram na conta, por padrão como crédito descontado da fatura seguinte.',
+    ],
+    linkNote:
+      'A indicação vale só para quem nunca foi cliente da Starlink e só no pedido feito em starlink.com pelo link. Quem indicou recebe o mesmo valor.',
+    aboutBrand:
+      'A Starlink é a internet via satélite da SpaceX, com planos residenciais e de viagem e um kit de configuração plug and play. No Brasil, o pedido é feito em starlink.com, com 30 dias de teste e reembolso integral. Esta página traz o link de indicação da Cecília: quem assina por ele pela primeira vez recebe R$ 200, e o Em Casa com Cecília recebe o mesmo valor, sem custo adicional para quem assina.',
+    faqs: [
+      {
+        question: 'Tem cupom de desconto da Starlink?',
+        answer:
+          'Não há código para colar: o benefício é o link de indicação da Cecília. Quem assina a Starlink pela primeira vez por ele recebe R$ 200 depois de dois meses de assinatura, por padrão como crédito na fatura.',
+      },
+      {
+        question: 'Como funciona a indicação da Starlink?',
+        answer:
+          'Pela central de ajuda da Starlink, lida em 19/11/2026, quem assina pelo link e quem indicou recebem o mesmo valor depois que a nova assinatura completa dois meses; no Brasil, R$ 200. Por padrão, o valor entra como crédito de serviço e é descontado da fatura seguinte. Onde a Starlink oferece, dá para trocar por dinheiro na aba Indicações da conta.',
+      },
+      {
+        question: 'Quem pode receber os R$ 200 da indicação?',
+        answer:
+          'Quem nunca foi cliente da Starlink e assina um plano Residencial ou Viagem em starlink.com pelo link. Clientes atuais e antigos não recebem, e kits de revendedor, compras em marketplace e transferências de conta não entram.',
+      },
+      {
+        question: 'O link de indicação da Starlink vale fora do Brasil?',
+        answer:
+          'Vale. Pela central de ajuda da Starlink, a indicação funciona na maioria dos países onde a Starlink está disponível, sempre com o pedido feito em starlink.com pelo link. O valor depende do país em que a pessoa se cadastra: os R$ 200 valem para o Brasil, e em outro país o valor pode ser diferente.',
+      },
+      {
+        question: 'Comprei a Starlink sem o link. Dá para incluir a indicação depois?',
+        answer:
+          'Não. Pela central de ajuda da Starlink, a indicação só é registrada quando o pedido é feito pelo link; pedido sem ele, ou pelo link de outra pessoa, não pode ser ajustado depois.',
+      },
+      {
+        question: 'A Starlink tem período de teste?',
+        answer:
+          'Tem. Pela página da Starlink lida em 19/11/2026, são 30 dias de teste: se não ficar satisfeito, a Starlink devolve o valor integral.',
+      },
+      {
+        question: 'Preciso copiar algum código para receber os R$ 200?',
+        answer:
+          'Não. Basta fazer o pedido em starlink.com pelo botão desta página: o link já leva a indicação, e o valor aparece depois na aba Indicações da sua conta Starlink.',
+      },
+      {
+        question: 'Assinar pelo link apoia o Em Casa com Cecília?',
+        answer:
+          'Sim. Pelo programa da Starlink, quem indicou recebe o mesmo valor de quem assina, sem custo adicional para você.',
+      },
+    ],
     status: 'ativo',
     featured: false,
   },

@@ -1,0 +1,198 @@
+{
+  "id": 1115,
+  "slug": "laranja-moro-denavita",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "19 de novembro de 2026",
+  "publishedAtISO": "2026-11-19",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "denavita",
+  "type": "Guia de Produto",
+  "title": "Laranja Moro Denavita: o que tem na cápsula, como a loja manda tomar e quanto custa por dia",
+  "seoTitle": "Laranja Moro Denavita: composição, como tomar e preço",
+  "description": "O que tem em cada cápsula do Laranja Moro da Denavita, se é Morosil, como a loja manda tomar, o que ela diz e não diz e quanto custa por dia com o cupom.",
+  "metaDescription": "O EMCASA dá 10% OFF na Denavita, inclusive no Laranja Moro. Veja o que tem na cápsula, como a loja manda tomar e quanto custa por dia.",
+  "image": "/images/reviews/denavita/laranja-moro-denavita-capa.webp",
+  "imageAlt": "Pote de Laranja Moro sobre laranjas, com uma mão segurando meia laranja vermelha, em foto da Denavita com o logo da marca, os textos «Laranja Moro pelo rótulo» e o código EMCASA.",
+  "cta": {
+    "text": "Se o Laranja Moro faz sentido para você, abra o site oficial da Denavita pelo botão. O código EMCASA entra no checkout, no campo Tem um cupom?.",
+    "label": "Ir para a Denavita",
+    "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Não usamos o produto: o texto segue a página da loja. Somos parceiros da Denavita e podemos receber comissão pelo link e pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "denavita-e-boa"
+    },
+    {
+      "slug": "cupom-denavita-como-usar"
+    },
+    {
+      "slug": "denavita-e-confiavel"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer um suplemento com Morosil® em uma cápsula por dia e sabe que ele não substitui alimentação equilibrada.",
+      "A conta por dia, na opção que você escolheu, cabe no seu orçamento."
+    ],
+    "skipIf": [
+      "Você procura um remédio para emagrecer: nesse caso, a conversa é com médico ou nutricionista.",
+      "Você evita cafeína e ainda não conferiu a quantidade no rótulo da embalagem.",
+      "Você toma remédio, está grávida ou amamentando e ainda não falou com o médico."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O Laranja Moro da Denavita traz, por cápsula, 400 mg de Morosil®, café verde e picolinato de cromo, e a loja manda tomar uma por dia: o pote de 30 dura um mês. Ela diz que o Morosil® é estudado como suporte à gestão de peso, sem substituir a alimentação. O EMCASA tira 10%; a conta por dia está abaixo."
+      ]
+    },
+    {
+      "heading": "O que tem na cápsula",
+      "paragraphs": [
+        "O produto se chama Laranja Moro Morosil®, Picolinato de Cromo e Café Verde, em pote de 30 cápsulas. A loja informa estas quantidades por cápsula:"
+      ],
+      "comparisonTable": {
+        "caption": "Quantidades por cápsula, como a loja informa na página do produto.",
+        "headers": [
+          "Ativo",
+          "Por cápsula"
+        ],
+        "rows": [
+          [
+            "Morosil® (extrato de laranja moro)",
+            "400 mg"
+          ],
+          [
+            "Extrato de café verde",
+            "200 mg"
+          ],
+          [
+            "Ácido clorogênico",
+            "100 mg"
+          ],
+          [
+            "Antocianinas",
+            "3,6 mg"
+          ],
+          [
+            "Picolinato de cromo",
+            "35 µg"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Os ingredientes listados são extrato de laranja moro (Citrus sinensis L. Osbeck), extrato de café verde, picolinato de cromo e os antiumectantes fosfato tricálcico, dióxido de silício e talco. A cápsula é de hidroxipropilmetilcelulose, vegana, e a página diz que o produto não contém glúten."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/denavita/laranja-moro-denavita-pote.webp",
+          "alt": "Pote de Laranja Moro Morosil, Picolinato de Cromo e Café Verde da Denavita, frente do rótulo, em fundo branco",
+          "caption": "A frente do pote do Laranja Moro. Foto: Denavita",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Laranja moro é Morosil?",
+      "paragraphs": [
+        "Quase: laranja moro é a fruta, e Morosil® é o nome de marca de um extrato dela. A loja o descreve como extrato de laranja moro padronizado em antocianinas, e este produto usa 400 mg dele por cápsula, com o café verde e o cromo.",
+        "Por isso “laranja moro” e “Morosil” aparecem juntos na busca. Aqui, o Morosil® está no nome do produto."
+      ]
+    },
+    {
+      "heading": "Como tomar",
+      "paragraphs": [
+        "A dose da loja é uma cápsula por dia. A página não indica horário nem se é com ou sem refeição: confira essa orientação no rótulo da embalagem que chegar. Depois de aberto, a loja manda consumir preferencialmente em 30 dias."
+      ]
+    },
+    {
+      "heading": "O que a loja diz, e o que ela não diz",
+      "paragraphs": [
+        "A página do produto traz duas frases sobre o que ele faz: “o cromo auxilia no metabolismo de proteínas, carboidratos e gorduras” e “O Morosil® é estudado como suporte à gestão de peso. Suplemento não substitui alimentação equilibrada e hábitos saudáveis.”",
+        "O que ela não diz: quanto de cafeína tem o café verde. As fotos mostram só a frente do pote, então, se você evita cafeína, confira a quantidade no rótulo da embalagem antes de tomar. As advertências também são as do rótulo."
+      ]
+    },
+    {
+      "heading": "Sobre a busca por emagrecimento",
+      "paragraphs": [
+        "Este guia não diz se o Laranja Moro emagrece, nem fala em quilos ou em prazo. O que a loja escreve está na seção anterior: suporte à gestão de peso, sem substituir alimentação equilibrada e hábitos saudáveis. Quem quer emagrecer deve falar com médico ou nutricionista."
+      ]
+    },
+    {
+      "heading": "Quanto custa por dia",
+      "paragraphs": [
+        "Conta nossa: com uma cápsula por dia, cada pote de 30 dura 30 dias, e o preço por dia sai do total dividido pelos dias de uso. O [cupom Denavita](/cupons/denavita) entra no resumo do checkout, e no pote avulso o nosso teste confirmou os 10%. Nas opções de leve mais, confira o desconto do cupom no resumo antes de pagar."
+      ],
+      "comparisonTable": {
+        "caption": "Preços da página do Laranja Moro em 19/11, sem frete. Pote de 30 cápsulas, uma por dia.",
+        "headers": [
+          "Opção",
+          "Total",
+          "Por dia, sem o cupom",
+          "Por dia, com o EMCASA"
+        ],
+        "rows": [
+          [
+            "1 unidade",
+            "R$ 76,90",
+            "R$ 2,56",
+            "R$ 2,31 (total de R$ 69,21)"
+          ],
+          [
+            "Compre 2 Leve 3",
+            "R$ 153,80",
+            "R$ 1,71",
+            "confira no resumo"
+          ],
+          [
+            "Compre 3 Leve 5",
+            "R$ 230,70",
+            "R$ 1,54",
+            "confira no resumo"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Para o passo a passo do código, veja [como usar o cupom na Denavita](/reviews/cupom-denavita-como-usar)."
+      ]
+    },
+    {
+      "heading": "Antes de comprar",
+      "paragraphs": [
+        "Quem toma remédio, está grávida ou amamentando, ou tem alguma condição de saúde, deve falar com o médico ou nutricionista antes de tomar qualquer suplemento. Crianças também ficam nessa regra.",
+        "A faixa do site anuncia frete grátis em compras a partir de R$ 199,90, com asterisco: o total entregue e o prazo saem no checkout, depois do CEP. As trocas passam pelo portal de trocas da loja: 30 dias depois da entrega para problema com o pedido (faltou item, produto errado, produto danificado, sem lacre ou fora da validade) e 7 dias para desistir, com o produto lacrado. A devolução sai em voucher ou reembolso no valor pago pelo item.",
+        "Antes de comprar, vale saber que atraso na entrega é o problema mais citado no Reclame Aqui da Denavita. A nota e o que mais gera reclamação estão em [Denavita no Reclame Aqui](/reviews/denavita-reclame-aqui-nota-reputacao).",
+        "A loja tem mais produtos além deste; para comparar o catálogo pelo preço por dia, veja [Denavita é boa?](/reviews/denavita-e-boa)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Laranja Moro Denavita é bom? Este guia não avalia efeito. O que dá para conferir é a composição, a dose e o preço por dia, nas seções acima, e o que o rótulo da embalagem diz.",
+        "Como tomar o Laranja Moro da Denavita? A loja manda tomar uma cápsula por dia. Para horário e advertências, confira o rótulo da embalagem.",
+        "Laranja moro é o mesmo que Morosil? Morosil® é o nome de marca de um extrato de laranja moro. Este produto usa 400 mg dele por cápsula, junto com café verde e picolinato de cromo.",
+        "O Laranja Moro da Denavita tem cafeína? A loja lista extrato de café verde, 200 mg por cápsula, mas a página não informa a quantidade de cafeína. Confira no rótulo da embalagem.",
+        "Quanto tempo dura um pote? Com uma cápsula por dia, 30 dias. A loja manda consumir preferencialmente em 30 dias depois de aberto."
+      ]
+    }
+  ]
+}
