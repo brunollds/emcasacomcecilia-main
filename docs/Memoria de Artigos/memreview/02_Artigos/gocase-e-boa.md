@@ -98,3 +98,10 @@ por arrependimento. Conferir as frases contra as fichas.
 | Bolsas, capinhas, copo | A loja informa: | fichas | ler no dia |
 | O ebook | - | não lido | ler no dia |
 | "Não vaza", "não sua", "resiste a quedas" | - | ficha | não escrever como nosso |
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/gocase/gocase-e-boa-capa-v2.webp` (`imageFit: contain`), SHA-256 `d303fad5bb350d3da57a600169b828bc1b03755c287a88c307571cf8464c2c4d`.
+- **Alt:** Modelo carrega no ombro uma Tote Daily clara da Gocase, em ambiente externo, em imagem oficial da loja. A capa traz o logo Gocase e a chamada “Vale a pena?”, com o cupom CECILIAA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/62/FOTOS-SELECIONADAS.json`.
+- **Lote 62 do piloto de capas (sequência 21 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/62/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-23-HEROES-23-PAGINAS-SEQUENCIA-21-CLAUDE.zip` (`lotes/62/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/gocase/gocase-e-boa-capa.webp`) fica no CDN, sem uso como capa.

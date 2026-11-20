@@ -78,3 +78,10 @@ Sem quadro `decision`.
 | Frete por estado; exceções | A loja informa: | Central de Ajuda | verificado; reler |
 | Troca de personalizado só por defeito | A loja informa: | Central de Ajuda | verificado |
 | Cupom de boas-vindas da loja | - | fora | não escrever |
+
+## Capa v2 (19/11/2026)
+
+- **Capa:** `/images/reviews/gocase/cupom-gocase-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `b63b96dc904f88ce4c241d444b753a651903c39f8f98edc18cdbc7c2e312b418`.
+- **Alt:** Garrafa térmica Urban preta da Gocase com alça e a inscrição de exemplo “SEU NOME”, em imagem oficial montada sobre uma bancada ilustrativa. A capa traz o logo Gocase e a chamada “Cupom na primeira compra”, com o cupom CECILIAA.
+- **Origem:** a descrita no alt, sem subtítulo; fonte, hash e enquadramento em `lotes/62/FOTOS-SELECIONADAS.json`.
+- **Lote 62 do piloto de capas (sequência 21 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/62/revisao-terra/REVISAO-LOCALIZADA.json`):** entregue em `docs/auditoria-capas/ENTREGA-23-HEROES-23-PAGINAS-SEQUENCIA-21-CLAUDE.zip` (`lotes/62/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/gocase/cupom-gocase-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.
