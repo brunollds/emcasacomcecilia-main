@@ -1115,6 +1115,10 @@ public/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa.webp -text 
 public/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-pack-sopa-da-vovo.webp -text export-ignore
 public/images/reviews/holyfoods/cupom-holyfoods-risoto-al-mare.webp -text export-ignore
 public/images/reviews/holyfoods/cupom-holyfoods-sopa-low-carb.webp -text export-ignore
+public/images/reviews/holyfoods/holyfoods-como-preparar-capa.webp -text export-ignore
+public/images/reviews/holyfoods/holyfoods-como-preparar-mac.webp -text export-ignore
+public/images/reviews/holyfoods/holyfoods-como-preparar-risoto.webp -text export-ignore
+public/images/reviews/holyfoods/holyfoods-como-preparar-sopa.webp -text export-ignore
 public/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp -text export-ignore
 public/images/reviews/holyfoods/holyfoods-e-boa-capa.webp -text export-ignore
 public/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp -text export-ignore
@@ -1122,6 +1126,11 @@ public/images/reviews/holyfoods/holyfoods-e-confiavel-canja-da-mamae.webp -text 
 public/images/reviews/holyfoods/holyfoods-e-confiavel-capa-v2.webp -text export-ignore
 public/images/reviews/holyfoods/holyfoods-e-confiavel-capa.webp -text export-ignore
 public/images/reviews/holyfoods/holyfoods-e-confiavel-risoto-de-queijo.webp -text export-ignore
+public/images/reviews/holyfoods/holyfoods-ou-mexidona-capa.webp -text export-ignore
+public/images/reviews/holyfoods/holyfoods-ou-mexidona-mac.webp -text export-ignore
+public/images/reviews/holyfoods/holyfoods-ou-mexidona-risoto.webp -text export-ignore
+public/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa.webp -text export-ignore
+public/images/reviews/holyfoods/holyfoods-projeto-21-dias-pack.webp -text export-ignore
 public/images/reviews/holyfoods/holyfoods-reclame-aqui-capa.webp -text export-ignore
 public/images/reviews/holyfoods/holyfoods-reclame-aqui-nota-reputacao-capa-v2.webp -text export-ignore
 public/images/reviews/holyfoods/holyfoods-reclame-aqui-pack-sopa-low-carb-saches.webp -text export-ignore
@@ -2052,6 +2061,8 @@ public/images/reviews/manteiga/manteiga-batida-processador.webp -text export-ign
 public/images/reviews/manteiga/manteiga-batida-resultado.webp -text export-ignore
 public/images/reviews/manteiga/manteiga-gordura-leite-ilustracao.webp -text export-ignore
 public/images/reviews/manteiga/minha-experiencia-manteiga-batida-aerada-capa-v2.webp -text export-ignore
+public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-411.webp -text export-ignore
+public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa.webp -text export-ignore
 public/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp -text export-ignore
 public/images/reviews/max-titanium/black-friday-max-titanium-capa-discover.webp -text export-ignore
 public/images/reviews/max-titanium/black-friday-max-titanium-capa-v2.webp -text export-ignore
@@ -2066,6 +2077,11 @@ public/images/reviews/max-titanium/cupom-max-titanium-como-usar-capa-v2.webp -te
 public/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa-v2.webp -text export-ignore
 public/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa.webp -text export-ignore
 public/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-top-whey-3w-sabor.webp -text export-ignore
+public/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-1-4kg.webp -text export-ignore
+public/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa.webp -text export-ignore
+public/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-zero-lactose.webp -text export-ignore
+public/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa.webp -text export-ignore
+public/images/reviews/max-titanium/kit-max-titanium-quando-compensa-horus.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-confiavel-capa.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-cupom-01-carrinho-sem-cupom.webp -text export-ignore
@@ -2113,6 +2129,8 @@ public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-night-
 public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp -text export-ignore
 public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp -text export-ignore
 public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp -text export-ignore
+public/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa.webp -text export-ignore
+public/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-shot-dry.webp -text export-ignore
 public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-capa-v2.webp -text export-ignore
 public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-capa.webp -text export-ignore
 public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey-tabela.webp -text export-ignore

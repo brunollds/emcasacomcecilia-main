@@ -1,0 +1,246 @@
+{
+  "id": 1190,
+  "slug": "holyfoods-como-preparar",
+  "locale": "pt",
+  "title": "Como preparar HolyFoods: sopa, risoto e mac, com a água e o tempo de cada ficha",
+  "seoTitle": "Como preparar HolyFoods: sopa, risoto e mac",
+  "type": "Guia de Preparo",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Quanta água e quanto tempo pedem a sopa, o risoto e o mac da HolyFoods no fogão e no micro-ondas, com o aviso sobre a água do sachê de pack e de kit da sopa.",
+  "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. Como preparar sopa, risoto e mac: a água, o tempo e o fogão ou micro-ondas de cada ficha.",
+  "publishedAt": "20 de novembro de 2026",
+  "publishedAtISO": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/holyfoods/holyfoods-como-preparar-capa.webp",
+  "imageAlt": "Prato da Sopa da Vovó da HolyFoods. A capa diz «Como preparar HolyFoods» e mostra o código EMCASA.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Siga a ficha do produto que chegou se você quer o ponto certo, porque a água muda de uma linha para outra.",
+      "Escolha risoto ou mac se você quer a opção do micro-ondas: a ficha da sopa indica só o fogão.",
+      "Leia a ficha do sachê se você comprou pack ou kit de sopa: ele pede 450 ml, não a água do pacote maior."
+    ],
+    "skipIf": [
+      "Não leve a sopa ao micro-ondas: a ficha dela indica só o fogão.",
+      "Não use no sachê de pack ou de kit a água do pacote maior: a loja pede 450 ml por sachê.",
+      "Passe o Mac Queijo, o Mac Alfredo e o Risoto de Queijo se você evita leite ou lactose; confira a embalagem que chegar."
+    ]
+  },
+  "cta": {
+    "text": "Se a HolyFoods faz sentido para você, entre pelo botão e, na tela Finalizar compra, cole o código EMCASA. Confira os 15% na linha de desconto antes de pagar.",
+    "label": "Ir para a HolyFoods",
+    "url": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "sponsored": true
+  },
+  "coupon": "EMCASA",
+  "affiliate": "holyfoods",
+  "editorialNote": "Feito pelo rótulo e pelo site da loja. A Cecília preparou um risoto e o Mac Queijo em vídeo, antes da parceria. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "holyfoods-e-boa"
+    },
+    {
+      "slug": "holyfoods-e-confiavel"
+    },
+    {
+      "slug": "holyfoods-projeto-21-dias"
+    },
+    {
+      "slug": "cupom-holyfoods-como-usar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Veja o formato antes de medir a água. O sachê de sopa pede 450 ml. A sopa avulsa pede 1,1 ou 1,2 litro, conforme o sabor. Risoto e mac têm medidas próprias para o fogão e o micro-ondas nas fichas de produto. Se o seu rótulo trouxer outra instrução, siga a embalagem."
+      ]
+    },
+    {
+      "heading": "Antes de cozinhar: sachê, sopa, risoto ou mac",
+      "paragraphs": [
+        "Veja primeiro o que você tem na mão. A sopa vem em dois formatos: o pacote avulso, maior, e o sachê individual, menor, que vem no pack e no kit. Risoto e mac vêm em caixa ou embalagem própria. A água muda entre eles, então guarde a embalagem até acertar o ponto.",
+        "A loja informa: guarde o produto fechado, em ambiente seco e fresco, sem odores e sem insetos. No Mac Queijo, a ficha pede também longe do sol e do calor. Os preparos abaixo seguem a ficha de cada produto; se a embalagem que chegar disser outra coisa, vale a embalagem.",
+        "O [cupom HolyFoods](/cupons/holyfoods) EMCASA dá 15% OFF e se digita na tela Finalizar compra. Para saber se vale a pena por produto, veja o [HolyFoods é boa?](/reviews/holyfoods-e-boa), e para o pack e o kit de sopa, o [Projeto 21 Dias](/reviews/holyfoods-projeto-21-dias)."
+      ],
+      "comparisonTable": {
+        "caption": "Água por embalagem ou sachê, conforme a ficha de cada produto.",
+        "headers": [
+          "Formato",
+          "Água quente",
+          "Tempo no fogão",
+          "Micro-ondas"
+        ],
+        "rows": [
+          [
+            "Sopa avulsa",
+            "1,1 ou 1,2 litro, conforme a sopa",
+            "15 a 20 minutos",
+            "Não consta na ficha"
+          ],
+          [
+            "Sachê de sopa do pack ou do kit",
+            "450 ml por sachê",
+            "15 a 20 minutos",
+            "Não consta na ficha"
+          ],
+          [
+            "Risoto",
+            "400 ml para começar",
+            "18 a 20 minutos",
+            "300 ml"
+          ],
+          [
+            "Mac",
+            "500 ml",
+            "15 a 20 minutos",
+            "400 ml"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/holyfoods/holyfoods-como-preparar-sopa.webp",
+          "alt": "Embalagem da Sopa da Vovó da HolyFoods, em foto oficial da loja",
+          "caption": "Sopa da Vovó: o pacote avulso e o sachê do pack não usam a mesma água. Foto: HolyFoods.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+        }
+      ]
+    },
+    {
+      "heading": "Sopa HolyFoods: fogão, água e tempo",
+      "paragraphs": [
+        "Use o conteúdo inteiro do pacote avulso em água quente, em fogo médio, com a panela de tampa semiaberta, mexendo de vez em quando. A Sopa da Vovó e a Sopa Detox pedem 1,2 litro de água, e a Low Carb e a Canja da Mamãe pedem 1,1 litro.",
+        "O sachê do pack e do kit é outra conta: um sachê para 450 ml de água quente, também em fogo médio e de tampa semiaberta. A loja avisa que não se usa a quantidade de água dos pacotes maiores. A ficha da sopa indica só o fogão, sem preparo no micro-ondas."
+      ],
+      "comparisonTable": {
+        "caption": "Sopa no fogão, pela ficha da loja: água quente por pacote avulso e por sachê, em fogo médio.",
+        "headers": [
+          "Sopa",
+          "Pacote avulso",
+          "Sachê do pack ou do kit"
+        ],
+        "rows": [
+          [
+            "Sopa da Vovó",
+            "1,2 litro, 15 minutos",
+            "450 ml, 15 a 20 minutos"
+          ],
+          [
+            "Sopa Low Carb",
+            "1,1 litro, 20 minutos",
+            "450 ml, 15 a 20 minutos"
+          ],
+          [
+            "Canja da Mamãe",
+            "1,1 litro, 20 minutos",
+            "450 ml, 15 a 20 minutos"
+          ],
+          [
+            "Sopa Detox",
+            "1,2 litro, 20 minutos",
+            "Não tem pack nem kit"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Como sugestão da loja, dá para refogar alho e cebola com azeite antes de pôr a água, e acrescentar frango refogado ou um ovo na Vovó, carne moída na Low Carb e ovos cozidos na Detox e na Canja. É opcional: o preparo da tabela já basta."
+      ]
+    },
+    {
+      "heading": "Risoto HolyFoods: fogão ou micro-ondas",
+      "paragraphs": [
+        "Nas fichas de Funghi, Al Mare e Queijo, o risoto começa com 400 ml no fogão e ganha mais água conforme ela evapora. O tempo de referência é de 18 a 20 minutos. A FAQ da HolyFoods cita 600 ml adicionados aos poucos para o preparo indicado na embalagem. Se a sua embalagem trouxer essa medida, siga a instrução dela.",
+        "As fichas de produto também descrevem o micro-ondas: misture o conteúdo com 300 ml de água em recipiente próprio, aqueça em potência alta por 10 minutos, misture e volte por mais 5. Confira a instrução do seu rótulo."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/holyfoods/holyfoods-como-preparar-risoto.webp",
+          "alt": "Embalagem do Risoto Funghi da HolyFoods, em foto oficial da loja",
+          "caption": "Risoto Funghi: a ficha dá 400 ml no fogão e 300 ml no micro-ondas. Foto: HolyFoods.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+        }
+      ]
+    },
+    {
+      "heading": "Mac HolyFoods: fogão ou micro-ondas",
+      "paragraphs": [
+        "No fogão, ferva 500 ml de água, junte todo o conteúdo do pacote e sal, e cozinhe de 15 a 20 minutos, mexendo. No micro-ondas, use 400 ml de água. O Mac Queijo e o Mac Alfredo levam 9 minutos e mais 6; o Mac Bolonha e o Mac Caipira levam 12 minutos e mais 6.",
+        "O Mac Queijo e o Mac Alfredo levam leite e lactose, assim como o Risoto de Queijo; o Risoto Al Mare leva peixe e camarão. O Risoto Funghi pode conter leite, soja, ovos, peixes, crustáceos, aveia e amendoim. Confira as linhas contém e pode conter da embalagem que chegar."
+      ],
+      "comparisonTable": {
+        "caption": "Mac no micro-ondas, com 400 ml de água, pela ficha de cada produto.",
+        "headers": [
+          "Mac",
+          "Primeira etapa",
+          "Segunda etapa"
+        ],
+        "rows": [
+          [
+            "Mac Queijo e Mac Alfredo",
+            "9 minutos",
+            "mais 6 minutos"
+          ],
+          [
+            "Mac Bolonha e Mac Caipira",
+            "12 minutos",
+            "mais 6 minutos"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/holyfoods/holyfoods-como-preparar-mac.webp",
+          "alt": "Embalagem do Mac Queijo da HolyFoods, em foto oficial da loja",
+          "caption": "Mac Queijo: 500 ml no fogão ou 400 ml no micro-ondas. Foto: HolyFoods.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+        }
+      ]
+    },
+    {
+      "heading": "Como a Cecília fez em vídeo",
+      "paragraphs": [
+        "No vídeo, a Cecília abre [um kit da HolyFoods comprado no TikTok Shop](/videos/risoto-holyfoods-kit-tiktok-shop) e prepara um risoto na panela de indução com 400 ml de água e um pouco de manteiga.",
+        "No outro, [o Mac Queijo na panela](/videos/mac-queijo-holyfoods-na-panela), ela prepara o macarrão do pacote ao prato. Os dois vídeos são de antes da parceria com a HolyFoods."
+      ]
+    },
+    {
+      "heading": "Erros de preparo para evitar",
+      "bullets": [
+        "Usar a água do pacote grande no sachê de pack ou de kit: a loja pede 450 ml por sachê.",
+        "Tentar a sopa no micro-ondas: a ficha da sopa indica só o fogão.",
+        "Pesar a mão no sal logo de início: a ficha pede sal a gosto, e o risoto ainda pode levar manteiga e parmesão.",
+        "Esperar o risoto secar no fogão: a ficha manda acrescentar água aos poucos conforme ela evapora.",
+        "Seguir o tempo sem olhar o ponto no micro-ondas: a ficha manda ajustar o tempo ou a água."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Dá para preparar risoto HolyFoods no micro-ondas? As fichas de produto descrevem um preparo com 300 ml de água, em duas etapas de 10 e 5 minutos. Confira a orientação da embalagem antes de começar.",
+        "Sopa HolyFoods se faz no micro-ondas? A ficha da sopa indica só o fogão, em fogo médio, com a panela de tampa semiaberta.",
+        "Dá para fazer o sachê com a água do pacote? Não. A loja pede 450 ml de água quente por sachê e avisa para não usar a quantidade dos pacotes maiores.",
+        "Precisa pôr sal? A ficha diz sal a gosto: comece com pouco e acerte no fim.",
+        "Quanto tempo leva o Mac HolyFoods? No fogão, de 15 a 20 minutos mexendo. No micro-ondas, 9 minutos e mais 6 no Queijo e no Alfredo, ou 12 minutos e mais 6 no Bolonha e no Caipira."
+      ]
+    }
+  ]
+}

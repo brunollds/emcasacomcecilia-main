@@ -75043,6 +75043,158 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-como-preparar-capa.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-como-preparar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82708,
+      "sha256": "d4a05e69744058555c37697207afd1674cf2d136b5be6362b3325ce0df24d301",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-como-preparar-capa.webp",
+      "storage_filename": "holyfoods-como-preparar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-como-preparar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-como-preparar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-como-preparar-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d4a05e69744058555c37697207afd1674cf2d136b5be6362b3325ce0df24d301/holyfoods-como-preparar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d4a05e69744058555c37697207afd1674cf2d136b5be6362b3325ce0df24d301/holyfoods-como-preparar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:54.808Z",
+      "verification_etag_or_digest": "d4a05e69744058555c37697207afd1674cf2d136b5be6362b3325ce0df24d301",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-como-preparar-mac.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-como-preparar-mac.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 164588,
+      "sha256": "f4f4273b1e3663b898cd9429663f40f3ac33fe12530c64199e689e25da3920c4",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-como-preparar-mac.webp",
+      "storage_filename": "holyfoods-como-preparar-mac.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-como-preparar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-como-preparar.json",
+          "line": 208,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-como-preparar-mac.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f4f4273b1e3663b898cd9429663f40f3ac33fe12530c64199e689e25da3920c4/holyfoods-como-preparar-mac.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4f4273b1e3663b898cd9429663f40f3ac33fe12530c64199e689e25da3920c4/holyfoods-como-preparar-mac.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:55.199Z",
+      "verification_etag_or_digest": "f4f4273b1e3663b898cd9429663f40f3ac33fe12530c64199e689e25da3920c4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-como-preparar-risoto.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-como-preparar-risoto.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 218944,
+      "sha256": "9c460e9ec4505da0c8820c1f0a05b4f45def64f44c5256806af2690936c4c3c3",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-como-preparar-risoto.webp",
+      "storage_filename": "holyfoods-como-preparar-risoto.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-como-preparar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-como-preparar.json",
+          "line": 171,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-como-preparar-risoto.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9c460e9ec4505da0c8820c1f0a05b4f45def64f44c5256806af2690936c4c3c3/holyfoods-como-preparar-risoto.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9c460e9ec4505da0c8820c1f0a05b4f45def64f44c5256806af2690936c4c3c3/holyfoods-como-preparar-risoto.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:55.644Z",
+      "verification_etag_or_digest": "9c460e9ec4505da0c8820c1f0a05b4f45def64f44c5256806af2690936c4c3c3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-como-preparar-sopa.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-como-preparar-sopa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 140182,
+      "sha256": "2c16fb99c2b6b2621fc67d941079b8a8ff0037fc82d91da2f0bfede8dd7b823a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-como-preparar-sopa.webp",
+      "storage_filename": "holyfoods-como-preparar-sopa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-como-preparar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-como-preparar.json",
+          "line": 114,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-como-preparar-sopa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2c16fb99c2b6b2621fc67d941079b8a8ff0037fc82d91da2f0bfede8dd7b823a/holyfoods-como-preparar-sopa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2c16fb99c2b6b2621fc67d941079b8a8ff0037fc82d91da2f0bfede8dd7b823a/holyfoods-como-preparar-sopa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:56.021Z",
+      "verification_etag_or_digest": "2c16fb99c2b6b2621fc67d941079b8a8ff0037fc82d91da2f0bfede8dd7b823a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp",
       "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp",
       "media_kind": "image",
@@ -75292,6 +75444,196 @@
       "uploaded_at": null,
       "verified_at": "2026-11-05T14:48:18.740Z",
       "verification_etag_or_digest": "9cbbd1cd0f7d20e0701f3afb2dcb5f281544bc15912008872b2a9552c1ca4e44",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-ou-mexidona-capa.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 130684,
+      "sha256": "c8a1d2c93a142b86f3871b7ee8e0c9eab456a2f9cd2c2b32800170385bf4ca9f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-ou-mexidona-capa.webp",
+      "storage_filename": "holyfoods-ou-mexidona-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-ou-mexidona.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-ou-mexidona.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c8a1d2c93a142b86f3871b7ee8e0c9eab456a2f9cd2c2b32800170385bf4ca9f/holyfoods-ou-mexidona-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c8a1d2c93a142b86f3871b7ee8e0c9eab456a2f9cd2c2b32800170385bf4ca9f/holyfoods-ou-mexidona-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:56.370Z",
+      "verification_etag_or_digest": "c8a1d2c93a142b86f3871b7ee8e0c9eab456a2f9cd2c2b32800170385bf4ca9f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-ou-mexidona-mac.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-ou-mexidona-mac.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69724,
+      "sha256": "5ce2ef8b58b0938f24eba0f4bd89735459ae01e810febd27a2aa47bec742f467",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-ou-mexidona-mac.webp",
+      "storage_filename": "holyfoods-ou-mexidona-mac.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-ou-mexidona.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-ou-mexidona.json",
+          "line": 267,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-ou-mexidona-mac.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5ce2ef8b58b0938f24eba0f4bd89735459ae01e810febd27a2aa47bec742f467/holyfoods-ou-mexidona-mac.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5ce2ef8b58b0938f24eba0f4bd89735459ae01e810febd27a2aa47bec742f467/holyfoods-ou-mexidona-mac.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:56.750Z",
+      "verification_etag_or_digest": "5ce2ef8b58b0938f24eba0f4bd89735459ae01e810febd27a2aa47bec742f467",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-ou-mexidona-risoto.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-ou-mexidona-risoto.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 160776,
+      "sha256": "b741ba3cee94be3bf0481d1d4e118959ccbb0a596467b367952bb10502791f1d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-ou-mexidona-risoto.webp",
+      "storage_filename": "holyfoods-ou-mexidona-risoto.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-ou-mexidona.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-ou-mexidona.json",
+          "line": 206,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-ou-mexidona-risoto.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b741ba3cee94be3bf0481d1d4e118959ccbb0a596467b367952bb10502791f1d/holyfoods-ou-mexidona-risoto.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b741ba3cee94be3bf0481d1d4e118959ccbb0a596467b367952bb10502791f1d/holyfoods-ou-mexidona-risoto.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:57.134Z",
+      "verification_etag_or_digest": "b741ba3cee94be3bf0481d1d4e118959ccbb0a596467b367952bb10502791f1d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73794,
+      "sha256": "254012d525e6455771cdeaf5a1e90d68a87e7fb526cac002d686ad0c2ed63a7a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-projeto-21-dias-capa.webp",
+      "storage_filename": "holyfoods-projeto-21-dias-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-projeto-21-dias.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-projeto-21-dias.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/254012d525e6455771cdeaf5a1e90d68a87e7fb526cac002d686ad0c2ed63a7a/holyfoods-projeto-21-dias-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/254012d525e6455771cdeaf5a1e90d68a87e7fb526cac002d686ad0c2ed63a7a/holyfoods-projeto-21-dias-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:57.451Z",
+      "verification_etag_or_digest": "254012d525e6455771cdeaf5a1e90d68a87e7fb526cac002d686ad0c2ed63a7a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-projeto-21-dias-pack.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-pack.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79656,
+      "sha256": "f20382c995cc35e812762c8a8b348b4493761d96db6a70a87feb34198bb2a26d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-projeto-21-dias-pack.webp",
+      "storage_filename": "holyfoods-projeto-21-dias-pack.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-projeto-21-dias.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-projeto-21-dias.json",
+          "line": 119,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-pack.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f20382c995cc35e812762c8a8b348b4493761d96db6a70a87feb34198bb2a26d/holyfoods-projeto-21-dias-pack.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f20382c995cc35e812762c8a8b348b4493761d96db6a70a87feb34198bb2a26d/holyfoods-projeto-21-dias-pack.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:57.764Z",
+      "verification_etag_or_digest": "f20382c995cc35e812762c8a8b348b4493761d96db6a70a87feb34198bb2a26d",
       "verification_status": "verified"
     },
     {
@@ -116800,6 +117142,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-411.webp",
+      "local_url": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-411.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54270,
+      "sha256": "2aeedb0d84325ba528e72571158bae2d234dc0c6aff84fa529a61f4fa880e8ba",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bcaa-max-titanium-qual-escolher-411.webp",
+      "storage_filename": "bcaa-max-titanium-qual-escolher-411.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bcaa-max-titanium-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bcaa-max-titanium-qual-escolher.json",
+          "line": 159,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-411.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2aeedb0d84325ba528e72571158bae2d234dc0c6aff84fa529a61f4fa880e8ba/bcaa-max-titanium-qual-escolher-411.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2aeedb0d84325ba528e72571158bae2d234dc0c6aff84fa529a61f4fa880e8ba/bcaa-max-titanium-qual-escolher-411.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:58.066Z",
+      "verification_etag_or_digest": "2aeedb0d84325ba528e72571158bae2d234dc0c6aff84fa529a61f4fa880e8ba",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43770,
+      "sha256": "62dd2929b2f55127095282150f21951ce9fc680b47008027312127a0e28edb73",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bcaa-max-titanium-qual-escolher-capa.webp",
+      "storage_filename": "bcaa-max-titanium-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bcaa-max-titanium-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bcaa-max-titanium-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/62dd2929b2f55127095282150f21951ce9fc680b47008027312127a0e28edb73/bcaa-max-titanium-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/62dd2929b2f55127095282150f21951ce9fc680b47008027312127a0e28edb73/bcaa-max-titanium-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:58.385Z",
+      "verification_etag_or_digest": "62dd2929b2f55127095282150f21951ce9fc680b47008027312127a0e28edb73",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp",
       "local_url": "/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp",
       "media_kind": "image",
@@ -117381,6 +117799,196 @@
       "uploaded_at": null,
       "verified_at": "2026-11-12T21:14:01.492Z",
       "verification_etag_or_digest": "20f9cea700c12bd815bd54e265652ed67fee07ee8310432e0d579258fec7c03a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-1-4kg.webp",
+      "local_url": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-1-4kg.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64684,
+      "sha256": "1835256a2c7abe4e26790bfd4eb13c8612ad4fc3df3009df9ec582e87d4a7fcc",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hipercalorico-max-titanium-mass-17500-1-4kg.webp",
+      "storage_filename": "hipercalorico-max-titanium-mass-17500-1-4kg.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hipercalorico-max-titanium-mass-17500.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hipercalorico-max-titanium-mass-17500.json",
+          "line": 152,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-1-4kg.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1835256a2c7abe4e26790bfd4eb13c8612ad4fc3df3009df9ec582e87d4a7fcc/hipercalorico-max-titanium-mass-17500-1-4kg.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1835256a2c7abe4e26790bfd4eb13c8612ad4fc3df3009df9ec582e87d4a7fcc/hipercalorico-max-titanium-mass-17500-1-4kg.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:58.724Z",
+      "verification_etag_or_digest": "1835256a2c7abe4e26790bfd4eb13c8612ad4fc3df3009df9ec582e87d4a7fcc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa.webp",
+      "local_url": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60528,
+      "sha256": "5e4880ed9bb87ccfb46dc382e02445a4207e301260b0fae4ef8a16a772601ce4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hipercalorico-max-titanium-mass-17500-capa.webp",
+      "storage_filename": "hipercalorico-max-titanium-mass-17500-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hipercalorico-max-titanium-mass-17500.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hipercalorico-max-titanium-mass-17500.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5e4880ed9bb87ccfb46dc382e02445a4207e301260b0fae4ef8a16a772601ce4/hipercalorico-max-titanium-mass-17500-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5e4880ed9bb87ccfb46dc382e02445a4207e301260b0fae4ef8a16a772601ce4/hipercalorico-max-titanium-mass-17500-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:59.092Z",
+      "verification_etag_or_digest": "5e4880ed9bb87ccfb46dc382e02445a4207e301260b0fae4ef8a16a772601ce4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-zero-lactose.webp",
+      "local_url": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-zero-lactose.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59906,
+      "sha256": "f2602650060a835441a67c7a6049f6b3a5e93b849127c4d230b2db81424dd2a6",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hipercalorico-max-titanium-mass-17500-zero-lactose.webp",
+      "storage_filename": "hipercalorico-max-titanium-mass-17500-zero-lactose.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hipercalorico-max-titanium-mass-17500.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hipercalorico-max-titanium-mass-17500.json",
+          "line": 168,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-zero-lactose.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f2602650060a835441a67c7a6049f6b3a5e93b849127c4d230b2db81424dd2a6/hipercalorico-max-titanium-mass-17500-zero-lactose.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f2602650060a835441a67c7a6049f6b3a5e93b849127c4d230b2db81424dd2a6/hipercalorico-max-titanium-mass-17500-zero-lactose.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:59.480Z",
+      "verification_etag_or_digest": "f2602650060a835441a67c7a6049f6b3a5e93b849127c4d230b2db81424dd2a6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa.webp",
+      "local_url": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62174,
+      "sha256": "1b9ae872792aa705ca7f7382b751cb1c796a2c660bedbf8d06516c918e0ba390",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-max-titanium-quando-compensa-capa.webp",
+      "storage_filename": "kit-max-titanium-quando-compensa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-max-titanium-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-max-titanium-quando-compensa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1b9ae872792aa705ca7f7382b751cb1c796a2c660bedbf8d06516c918e0ba390/kit-max-titanium-quando-compensa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1b9ae872792aa705ca7f7382b751cb1c796a2c660bedbf8d06516c918e0ba390/kit-max-titanium-quando-compensa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:30:59.832Z",
+      "verification_etag_or_digest": "1b9ae872792aa705ca7f7382b751cb1c796a2c660bedbf8d06516c918e0ba390",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/kit-max-titanium-quando-compensa-horus.webp",
+      "local_url": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-horus.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53496,
+      "sha256": "970819dc65dd0743b1ab6caf2537340c8db1a4d844aa68f763114e18015caae3",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-max-titanium-quando-compensa-horus.webp",
+      "storage_filename": "kit-max-titanium-quando-compensa-horus.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-max-titanium-quando-compensa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-max-titanium-quando-compensa.json",
+          "line": 213,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-horus.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/970819dc65dd0743b1ab6caf2537340c8db1a4d844aa68f763114e18015caae3/kit-max-titanium-quando-compensa-horus.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/970819dc65dd0743b1ab6caf2537340c8db1a4d844aa68f763114e18015caae3/kit-max-titanium-quando-compensa-horus.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:31:00.142Z",
+      "verification_etag_or_digest": "970819dc65dd0743b1ab6caf2537340c8db1a4d844aa68f763114e18015caae3",
       "verification_status": "verified"
     },
     {
@@ -119469,6 +120077,82 @@
       "uploaded_at": null,
       "verified_at": "2026-10-29T02:03:56.501Z",
       "verification_etag_or_digest": "d0082cea1714f34d4cd753ef331b7d22ae3d17e2c6df14283452d409f755f80d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60844,
+      "sha256": "7457491605a2989f6a2489e37e22159ab196cf6cf698163e7c579e33f9dc5d09",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "termogenico-max-titanium-qual-escolher-capa.webp",
+      "storage_filename": "termogenico-max-titanium-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/termogenico-max-titanium-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/termogenico-max-titanium-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7457491605a2989f6a2489e37e22159ab196cf6cf698163e7c579e33f9dc5d09/termogenico-max-titanium-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7457491605a2989f6a2489e37e22159ab196cf6cf698163e7c579e33f9dc5d09/termogenico-max-titanium-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:31:00.447Z",
+      "verification_etag_or_digest": "7457491605a2989f6a2489e37e22159ab196cf6cf698163e7c579e33f9dc5d09",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-shot-dry.webp",
+      "local_url": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-shot-dry.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69964,
+      "sha256": "8259b702d9a10f3b3ca1e7d24d33c3d0761d41f64d1d058c40dc087cc5eb7fe5",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "termogenico-max-titanium-qual-escolher-shot-dry.webp",
+      "storage_filename": "termogenico-max-titanium-qual-escolher-shot-dry.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/termogenico-max-titanium-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/termogenico-max-titanium-qual-escolher.json",
+          "line": 100,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-shot-dry.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8259b702d9a10f3b3ca1e7d24d33c3d0761d41f64d1d058c40dc087cc5eb7fe5/termogenico-max-titanium-qual-escolher-shot-dry.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8259b702d9a10f3b3ca1e7d24d33c3d0761d41f64d1d058c40dc087cc5eb7fe5/termogenico-max-titanium-qual-escolher-shot-dry.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-20T21:31:00.744Z",
+      "verification_etag_or_digest": "8259b702d9a10f3b3ca1e7d24d33c3d0761d41f64d1d058c40dc087cc5eb7fe5",
       "verification_status": "verified"
     },
     {

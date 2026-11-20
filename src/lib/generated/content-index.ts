@@ -193351,7 +193351,7 @@ export const reviewsData: unknown[] = [
           "**Whey:** 100% Whey, Top Whey 3W, Whey Pro, IsoWhey e Super Whey, no resumo abaixo. O Super Whey é uma mistura com carboidrato, não um whey de dose baixa.",
           "**Creatina:** potes de 100 g a 500 g e a Creapure, de 250 g. A conta de cada pote está em [creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote).",
           "**Pré-treino:** Hórus, Égide e o Night Train, sem cafeína, comparados em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
-          "**Glutamina e BCAA:** a glutamina tem guia em [glutamina: qual escolher](/reviews/glutamina-qual-escolher-black-skull-max-probiotica). O BCAA vem em cápsulas e em pó para beber, e ainda não tem guia aqui.",
+          "**Glutamina e BCAA:** a glutamina tem guia em [glutamina: qual escolher](/reviews/glutamina-qual-escolher-black-skull-max-probiotica). O BCAA vem em cápsulas e em pó para beber, e o [guia do BCAA Max Titanium](/reviews/bcaa-max-titanium-qual-escolher) compara os dois formatos.",
           "**Hipercalórico:** o Mass Titanium 17500, que também tem versão zero lactose.",
           "**Snacks:** barras de proteína, como a Top Whey Bar e a Power Protein Bar."
         ]
@@ -193396,7 +193396,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Creatina.** O pote de 500 g é o mais barato por grama, e o selo Creapure só existe no pote de 250 g. Os números estão em [creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote).",
           "**Pré-treino.** O Hórus e o Égide mudam na cafeína e no preço por dose, e o Night Train é o que não tem cafeína. A tabela de cada um está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
-          "**Glutamina e BCAA.** O guia de [glutamina](/reviews/glutamina-qual-escolher-black-skull-max-probiotica) traz o rótulo e o preço por 100 g do pote de 300 g da Max. O BCAA segue sem comparação aqui: confira a tabela da página antes de comprar."
+          "**Glutamina e BCAA.** O guia de [glutamina](/reviews/glutamina-qual-escolher-black-skull-max-probiotica) traz o rótulo e o preço por 100 g do pote de 300 g da Max. O BCAA tem os dois formatos comparados no [guia do BCAA](/reviews/bcaa-max-titanium-qual-escolher)."
         ]
       },
       {
@@ -288694,6 +288694,1774 @@ export const reviewsData: unknown[] = [
           "Qual barra BOLD tem mais proteína? A BOLD 21 g, com 21 g por barra. O Crunch declara 18 g, a 14 g declara 14 g, e o Wafer e o Tube, 10 g cada.",
           "Qual sabor da barra BOLD tem menos açúcar? Nas tabelas usadas neste guia, o Bombom Crocante 14 g tem o menor valor, 1,6 g de açúcares totais; o maior é o do Chocomalte 21 g, com 5,3 g.",
           "Quantas barras vêm na caixa da BOLD? As caixas das cinco linhas têm 12 unidades."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1188,
+    "slug": "holyfoods-projeto-21-dias",
+    "locale": "pt",
+    "title": "Projeto 21 Dias HolyFoods: o que vem no kit, quanto custa por sachê e como preparar",
+    "seoTitle": "Projeto 21 Dias HolyFoods: o que vem e quanto custa",
+    "type": "Guia de Kit",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que vem no kit de 21 sachês de sopa, a tabela de cada sabor, quanto custa cada sachê contra o pack e como preparar, com o preço já com o cupom EMCASA.",
+    "metaDescription": "O EMCASA dá 15% OFF na HolyFoods. Projeto 21 Dias: o que vem no kit, a tabela de cada sachê, o preço por sachê e como preparar.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa.webp",
+    "imageAlt": "Embalagem do Projeto 21 Dias da HolyFoods com imagens dos três sabores. A capa diz «Projeto 21 Dias vale a pena?» e mostra o código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve o kit se você quer começar pelos três sabores sem escolher um a um.",
+        "Leve o pack se você já sabe qual sopa vai repetir: o sachê é o mesmo e sai mais barato.",
+        "Leve qualquer um dos dois se você aceita 15 a 20 minutos de fogão por sachê."
+      ],
+      "skipIf": [
+        "Passe se você procura prato pronto, só de esquentar: todo sachê pede panela.",
+        "Passe o kit se o preço por sachê é o que decide: o pack do mesmo sachê custa menos.",
+        "Passe se você espera do kit um resultado de dieta: o rótulo só declara calorias e nutrientes, e essa conversa é com nutricionista."
+      ]
+    },
+    "cta": {
+      "text": "Se o kit faz sentido para você, entre pelo botão e, na tela Finalizar compra, cole o código EMCASA em Inserir cupom de desconto. Confira os 15% na linha de desconto antes de pagar.",
+      "label": "Ir para a HolyFoods",
+      "url": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "holyfoods",
+    "editorialNote": "Feito pelo rótulo e pelo site da loja. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "holyfoods-e-boa"
+      },
+      {
+        "slug": "holyfoods-e-confiavel"
+      },
+      {
+        "slug": "cupom-holyfoods-como-usar"
+      },
+      {
+        "slug": "black-friday-holyfoods"
+      },
+      {
+        "slug": "holyfoods-como-preparar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Projeto 21 Dias reúne sete sachês de cada sopa: Vovó, Low Carb e Canja da Mamãe. Na oferta, o pack de um sabor e o Projeto 30 Dias custam menos por sachê. O de 21 exige um gasto menor para levar os três sabores. Todos levam água quente e preparo no fogão."
+        ]
+      },
+      {
+        "heading": "O que vem no Projeto 21 Dias",
+        "paragraphs": [
+          "A loja informa que são 21 sachês individuais: sete da Sopa da Vovó, sete da Sopa Low Carb e sete da Canja da Mamãe. Você prepara um por vez e escolhe em quais dias usar.",
+          "No kit e nos packs, os sachês pesam 43 g na Vovó, 50 g na Low Carb e 44 g na Canja. As listas de ingredientes podem mudar: a página do pack da Vovó inclui mandioquinha e alho-poró, ausentes na lista do kit. Nos três sabores do kit, a ficha declara derivados de soja. Confira os avisos de alergênicos na embalagem do sabor escolhido."
+        ]
+      },
+      {
+        "heading": "Quanto custa cada sachê, com o EMCASA",
+        "paragraphs": [
+          "O Projeto 21 Dias tem o menor total entre as duas opções com três sabores. O Projeto 30 Dias custa mais no pedido, mas cobra menos por sachê e traz dez unidades de cada sabor."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de 20/11, sem frete. No Projeto 21 Dias, o valor com EMCASA é o total que o checkout mostrou; no pack e no Projeto 30 Dias, é a conta de 15% sobre o preço da campanha.",
+          "headers": [
+            "Opção",
+            "Preço da campanha",
+            "Por sachê",
+            "Com EMCASA"
+          ],
+          "rows": [
+            [
+              "[Projeto 21 Dias](https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 102,90",
+              "R$ 4,90",
+              "R$ 87,47 no checkout"
+            ],
+            [
+              "[Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 41,93",
+              "R$ 4,19",
+              "R$ 35,64 pela conta"
+            ],
+            [
+              "[Projeto 30 Dias](https://www.holyfoods.com.br/products/projeto-30-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 125,79",
+              "R$ 4,19",
+              "R$ 106,92 pela conta"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No teste no checkout, o Projeto 21 Dias fechou em R$ 87,47 com o EMCASA, R$ 4,17 por sachê. No pack e no Projeto 30 Dias, os mesmos 15% dariam R$ 3,56 por sachê. Confira no checkout quanto o código tira do seu pedido e quanto fica com o frete.",
+          "Preço de lista por sachê: R$ 7,00 no Projeto 21 Dias e R$ 5,99 no pack e no Projeto 30 Dias. O kit maior empata por sachê com o pack de um sabor.",
+          "Se você quer começar por uma sopa, o [guia da HolyFoods](/reviews/holyfoods-e-boa) compara as versões avulsas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-pack.webp",
+            "alt": "Pack Sopa da Vovó da HolyFoods com dez sachês, em foto oficial da loja",
+            "caption": "Pack Sopa da Vovó: dez sachês de 43 g, com a mesma tabela do sachê do kit. Foto: HolyFoods.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ],
+        "links": [
+          {
+            "label": "cupom HolyFoods",
+            "href": "/cupons/holyfoods"
+          }
+        ]
+      },
+      {
+        "heading": "O que a tabela de cada sachê diz sobre calorias",
+        "paragraphs": [
+          "O rótulo diz o que cada sachê traz seco, antes de levar água e sal. É essa a base da tabela abaixo: o peso do sachê, 43, 50 e 44 g. Ela não é a mesma base da tabela de 250 g de sopa pronta do artigo de HolyFoods é boa, e por isso os números diferem."
+        ],
+        "comparisonTable": {
+          "caption": "Por sachê seco (43, 50 e 44 g), pela tabela de cada sabor. Açúcares adicionados: 0 nos três.",
+          "headers": [
+            "Sachê",
+            "Calorias",
+            "Carboidratos",
+            "Proteína",
+            "Fibra",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "Sopa da Vovó, 43 g",
+              "118 kcal",
+              "24 g",
+              "3,1 g",
+              "2,2 g",
+              "54 mg"
+            ],
+            [
+              "Sopa Low Carb, 50 g",
+              "175 kcal",
+              "31 g",
+              "10 g",
+              "7,6 g",
+              "19 mg"
+            ],
+            [
+              "Canja da Mamãe, 44 g",
+              "111 kcal",
+              "17 g",
+              "6,7 g",
+              "1,9 g",
+              "50 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Low Carb declara mais calorias, proteína e fibra por sachê; a Canja, menos calorias; a Vovó, mais sódio. O que você acrescenta na panela, como sal, ovo ou frango, entra por fora dessa conta."
+        ]
+      },
+      {
+        "heading": "Como preparar um sachê",
+        "paragraphs": [
+          "A ficha do kit indica o fogão, um sachê por vez:"
+        ],
+        "bullets": [
+          "Coloque todo o conteúdo do sachê numa panela com 450 ml de água quente e acerte o sal a gosto.",
+          "Cozinhe de 15 a 20 minutos em fogo médio, com a panela semiaberta, mexendo de vez em quando, até o caldo encorpar.",
+          "Pela ficha, cada sachê rende cerca de 300 g de sopa."
+        ],
+        "postParagraphs": [
+          "A loja avisa para não usar a água dos pacotes maiores: a sopa avulsa pede de 1,1 a 1,2 litro por pacote, e o sachê, 450 ml. Os outros formatos, como risoto e mac, estão no [guia de preparo da HolyFoods](/reviews/holyfoods-como-preparar)."
+        ]
+      },
+      {
+        "heading": "Kit ou pack: para quem vale cada um",
+        "bullets": [
+          "Quer levar os três sabores gastando menos no pedido: Projeto 21 Dias.",
+          "Quer levar os três sabores pagando menos por sachê: Projeto 30 Dias. Para repetir um sabor, escolha o pack desse sabor.",
+          "Quer provar uma sopa só gastando pouco: o avulso, que está comparado no artigo de HolyFoods é boa.",
+          "Não tem de 15 a 20 minutos de fogão: nenhum dos dois resolve, porque todo sachê é cozido na panela.",
+          "Precisa excluir um ingrediente: leia a lista e os alérgenos de cada sabor antes de comprar o kit, que traz os três."
+        ],
+        "emphasis": "O número que decide é o preço por sachê. No kit você paga pela variedade; quem já escolheu o sabor paga menos no pack."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Projeto 21 Dias emagrece? A tabela mostra de 111 a 175 kcal por sachê seco, e só. O resultado de uma dieta depende do resto da alimentação, e a orientação individual é de nutricionista ou médico.",
+          "O cupom EMCASA entra no Projeto 21 Dias? Entra. No teste no checkout, o código tirou 15% do preço do kit, que já estava com os 30% da campanha. Digite em Inserir cupom de desconto, na tela Finalizar compra, e confira a linha de desconto antes de pagar.",
+          "Dá para comprar um sabor só do Projeto 21 Dias? No kit, não: ele traz sete sachês de cada um dos três sabores. Para um sabor só, a loja vende o pack de sopa, com dez sachês.",
+          "Precisa de sal na sopa do Projeto 21 Dias? A loja indica sal a gosto na panela. Como o sal muda o sódio do prato, a tabela do sachê não cobre o que você acrescentar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1189,
+    "slug": "holyfoods-ou-mexidona",
+    "locale": "pt",
+    "title": "HolyFoods ou Mexidona: sopas, risotos e macs pela tabela e pelo preço por 100 g",
+    "seoTitle": "HolyFoods ou Mexidona: sopas, risotos e macs pelo rótulo",
+    "type": "Comparativo de Marcas",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Sopa, risoto e mac das duas marcas na mesma base: porção, proteína, sódio e preço por 100 g de mistura, com e sem a campanha da HolyFoods e com o EMCASA.",
+    "metaDescription": "O EMCASA dá 15% OFF na HolyFoods. HolyFoods ou Mexidona? Sopa, risoto e mac pelo rótulo: porção, proteína, sódio e preço por 100 g de mistura.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa.webp",
+    "imageAlt": "Prato de Risoto Funghi da HolyFoods com uma colher. A capa diz «HolyFoods ou Mexidona?» e mostra o código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve a HolyFoods se você quer a proteína declarada mais barata com a campanha no ar e prefere uma embalagem que já é uma refeição.",
+        "Leve a Mexidona se você quer o risoto de queijo anunciado como zero lactose ou o mac com mais proteína e menos sódio na tabela.",
+        "Leve a Mexidona também se você prefere um pacote que rende várias porções e um mac de preparo curto."
+      ],
+      "skipIf": [
+        "Passe o Risoto de Queijo e o Mac Queijo da HolyFoods se você evita lactose: os dois levam leite.",
+        "Passe a Mexidona se a sua conta é o preço por proteína com a campanha da HolyFoods no ar.",
+        "Passe a HolyFoods se você vai comprar o risoto depois da campanha: a preço de lista, o da Mexidona sai mais barato."
+      ]
+    },
+    "cta": {
+      "text": "Se a HolyFoods faz sentido para você, entre pelo botão e, na tela Finalizar compra, cole o código EMCASA. Confira os 15% na linha de desconto antes de pagar.",
+      "label": "Ir para a HolyFoods",
+      "url": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "holyfoods",
+    "editorialNote": "Feito pelo rótulo e pelo site da loja. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "holyfoods-e-boa"
+      },
+      {
+        "slug": "cupom-holyfoods-como-usar"
+      },
+      {
+        "slug": "black-friday-holyfoods"
+      },
+      {
+        "slug": "holyfoods-como-preparar"
+      },
+      {
+        "slug": "holyfoods-projeto-21-dias"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Com o EMCASA e a campanha, a HolyFoods sai mais barata por 100 g de mistura nos pares comparados. Fora da campanha, a Mexidona ganha nessa conta no risoto. O Mac Frango da Mexidona declara mais proteína por pacote. A Mexidona declara zero lactose no seu risoto sabor queijo."
+        ]
+      },
+      {
+        "heading": "Como as duas vendem, e o que isso muda na conta",
+        "paragraphs": [
+          "Um pacote de sopa ou risoto da Mexidona pode render várias porções. As embalagens de risoto e mac da HolyFoods rendem uma porção cada. Para comparar o que você paga, divida pelo peso da mistura seca. Use a conta por proteína apenas se essa for a sua prioridade.",
+          "As tabelas de cada produto da HolyFoods estão no [HolyFoods é boa?](/reviews/holyfoods-e-boa). Aqui entram só os que têm par na Mexidona."
+        ],
+        "comparisonTable": {
+          "caption": "Cada loja informa: porção e rendimento declarados na página de cada produto.",
+          "headers": [
+            "Família",
+            "HolyFoods",
+            "Mexidona"
+          ],
+          "rows": [
+            [
+              "Sopa",
+              "Pacote avulso de 130 g de mistura, 1 litro em 4 porções de 250 g (Vovó)",
+              "Pacote de 130 g, 3 pratos de 250 ml (Sopa Amarela); 3 porções de 53 g (Sopa da Nona)"
+            ],
+            [
+              "Risoto",
+              "1 embalagem de 120 g de mistura, 1 porção pronta de 320 g",
+              "Pacote de 180 g, cerca de 3 porções de 60 g, até 800 g prontos"
+            ],
+            [
+              "Mac",
+              "1 embalagem de 115 a 132 g de mistura, 1 porção pronta de 380 g",
+              "Pacote de 100 g, 1 prato de cerca de 450 g"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Sopa: Vovó e Low Carb contra Sopa Amarela e Sopa da Nona",
+        "paragraphs": [
+          "A Mexidona tem uma sopa de massa de arroz e batata, a Sopa Amarela, e uma de lentilha, a Sopa da Nona. Os pares mais próximos na HolyFoods são a Sopa da Vovó, com macarrão de arroz, e a Low Carb, com lentilha vermelha e quinoa."
+        ],
+        "comparisonTable": {
+          "caption": "Valores por porção da ficha. O peso da mistura seca varia conforme o produto.",
+          "headers": [
+            "Sopa",
+            "Mistura por porção",
+            "Proteína",
+            "Fibra"
+          ],
+          "rows": [
+            [
+              "Sopa da Vovó (HolyFoods)",
+              "33 g",
+              "2,5 g",
+              "1,9 g"
+            ],
+            [
+              "Sopa Amarela (Mexidona)",
+              "43 g",
+              "3,6 g",
+              "2,6 g"
+            ],
+            [
+              "Sopa Low Carb (HolyFoods)",
+              "38 g",
+              "7,7 g",
+              "5,7 g"
+            ],
+            [
+              "Sopa da Nona (Mexidona)",
+              "53 g",
+              "9,5 g",
+              "9,2 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As porções incluem quantidades diferentes de mistura. A Sopa da Nona declara mais proteína e fibra por porção que a Low Carb, e a porção da Nona também leva mais mistura.",
+          "Os números de sódio das quatro sopas comparadas vão de 15 a 63 mg por porção, antes do sal do preparo.",
+          "Na Sopa Amarela, a tabela da página traz 1,4 g de açúcares adicionados na coluna de 100 ml e zero na da porção: confira a embalagem."
+        ]
+      },
+      {
+        "heading": "Risoto: a proteína da porção e a do pacote",
+        "paragraphs": [
+          "O Risoto de Queijo da HolyFoods leva leite e queijos. A Mexidona apresenta o seu Risoto Sabor Queijo como zero lactose e anuncia 20 g de proteína no pacote. A tabela declara 7 g por porção de 60 g. No preço por 20 g de proteína, usei o total informado para o pacote."
+        ],
+        "comparisonTable": {
+          "caption": "Valores por pacote inteiro. Para o risoto da Mexidona, calorias e sódio são a estimativa de três porções. Os 20 g de proteína por pacote vêm da descrição da loja.",
+          "headers": [
+            "Risoto",
+            "Calorias",
+            "Proteína",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "Risoto de Queijo (HolyFoods)",
+              "452 kcal",
+              "20 g",
+              "208 mg"
+            ],
+            [
+              "Risoto Funghi (HolyFoods)",
+              "398 kcal",
+              "20 g",
+              "82 mg"
+            ],
+            [
+              "Risoto Sabor Queijo (Mexidona)",
+              "Cerca de 642 kcal",
+              "20 g",
+              "Cerca de 141 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Uma porção da Mexidona declara 214 kcal e 7 g de proteína. O pacote rende cerca de três porções. Uma embalagem da HolyFoods rende uma porção, com 398 a 452 kcal e 20 g de proteína, conforme o sabor.",
+          "A Mexidona também faz o Risoto de Cogumelos, que declara 212 kcal, 6,7 g de proteína e 58 mg de sódio por porção de 60 g, cerca de 20 g no pacote, a mesma proteína do Funghi."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-ou-mexidona-risoto.webp",
+            "alt": "Risoto Funghi da HolyFoods, em foto oficial da loja",
+            "caption": "Risoto Funghi: uma embalagem, uma porção pronta de 320 g. Foto: HolyFoods.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Mac: proteína, sódio e tempo de panela",
+        "paragraphs": [
+          "O par do Mac Frango da Mexidona na HolyFoods é o Mac Caipira, que também leva frango. A tabela traz os dois mais o Mac Queijo, o da foto da HolyFoods, na mesma base: a embalagem ou o pacote inteiro."
+        ],
+        "comparisonTable": {
+          "caption": "Por embalagem ou pacote inteiro, pela tabela de cada produto.",
+          "headers": [
+            "Mac",
+            "Calorias",
+            "Proteína",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "Mac Queijo (HolyFoods)",
+              "395 kcal",
+              "20 g",
+              "318 mg"
+            ],
+            [
+              "Mac Caipira (HolyFoods)",
+              "308 kcal",
+              "20 g",
+              "321 mg"
+            ],
+            [
+              "Mac Frango (Mexidona)",
+              "362 kcal",
+              "24 g",
+              "213 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Mac Frango declara mais proteína e menos sódio que os dois da HolyFoods. Em calorias, fica entre eles. O Mac Cogumelo da Mexidona, vegetariano segundo a página, declara 23 g de proteína e 257 mg de sódio no pacote.",
+          "O preparo também é outro. No fogão, a Mexidona manda cozinhar a massa por 4 minutos em fogo médio e mexer por 1 a 2 minutos com o molho; a HolyFoods pede 15 a 20 minutos mexendo. O passo a passo da HolyFoods está no [Como preparar HolyFoods](/reviews/holyfoods-como-preparar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-ou-mexidona-mac.webp",
+            "alt": "Mac Queijo da HolyFoods, em foto oficial da loja",
+            "caption": "Mac Queijo: uma embalagem rende uma porção pronta de 380 g. Foto: HolyFoods.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa com a campanha da HolyFoods",
+        "paragraphs": [
+          "Compare o preço da HolyFoods com e sem EMCASA e o da Mexidona no Pix. Os pares são Vovó e Sopa Amarela, os dois risotos de queijo e Mac Queijo e Mac Frango."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de 20/11, em R$, antes do frete. A conta simula 15% de EMCASA na HolyFoods e 5% de Pix na Mexidona. Os preços são arredondados por pacote antes da divisão.",
+          "headers": [
+            "Conta",
+            "HolyFoods em oferta",
+            "Oferta + EMCASA",
+            "Mexidona no Pix"
+          ],
+          "rows": [
+            [
+              "Sopa, por 100 g de mistura (Vovó e Sopa Amarela, 130 g)",
+              "10,72",
+              "9,11",
+              "14,55"
+            ],
+            [
+              "Risoto, por 100 g de mistura (120 g e 180 g)",
+              "11,61",
+              "9,87",
+              "10,51"
+            ],
+            [
+              "Mac, por 100 g de mistura (Queijo, 132 g; Mac Frango, 100 g)",
+              "10,55",
+              "8,97",
+              "18,91"
+            ],
+            [
+              "Risoto, por 20 g de proteína declarada",
+              "13,93",
+              "11,84",
+              "18,91"
+            ],
+            [
+              "Mac, por 20 g de proteína declarada (Mac Frango, 24 g)",
+              "13,93",
+              "11,84",
+              "15,76"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o EMCASA, o risoto da HolyFoods fica abaixo do da Mexidona no Pix mesmo por 100 g de mistura. Sem o código, a Mexidona ganha nessa unidade."
+        ],
+        "links": [
+          {
+            "label": "cupom HolyFoods",
+            "href": "/cupons/holyfoods"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa sem a campanha da HolyFoods",
+        "paragraphs": [
+          "Os preços de lista permitem ver o que muda se a campanha acabar e o EMCASA continuar disponível."
+        ],
+        "comparisonTable": {
+          "caption": "Em R$, antes do frete. A conta usa o preço de lista da HolyFoods, com e sem 15% de EMCASA, e simula 5% de Pix na Mexidona. Arredondamento por pacote.",
+          "headers": [
+            "Conta",
+            "HolyFoods de lista",
+            "Lista + EMCASA",
+            "Mexidona no Pix"
+          ],
+          "rows": [
+            [
+              "Sopa, por 100 g de mistura (Vovó e Sopa Amarela, 130 g)",
+              "15,31",
+              "13,02",
+              "14,55"
+            ],
+            [
+              "Risoto, por 100 g de mistura (120 g e 180 g)",
+              "16,58",
+              "14,10",
+              "10,51"
+            ],
+            [
+              "Mac, por 100 g de mistura (Queijo, 132 g; Mac Frango, 100 g)",
+              "15,08",
+              "12,82",
+              "18,91"
+            ],
+            [
+              "Risoto, por 20 g de proteína declarada",
+              "19,90",
+              "16,92",
+              "18,91"
+            ],
+            [
+              "Mac, por 20 g de proteína declarada (Mac Frango, 24 g)",
+              "19,90",
+              "16,92",
+              "15,76"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nesse cenário, com o EMCASA, a Mexidona fica abaixo no risoto por 100 g de mistura e no mac por 20 g de proteína declarada. A HolyFoods ainda vence no risoto por 20 g de proteína declarada e, pelo peso da mistura, na sopa e no mac.",
+          "A Mexidona informa 5% de desconto no Pix. O cashback vale para outra compra. Compare os totais entregues no seu CEP."
+        ]
+      },
+      {
+        "heading": "O que as listas de ingredientes mostram",
+        "paragraphs": [
+          "Lactose separa os dois queijos. O Risoto de Queijo, o Mac Queijo e o Mac Alfredo da HolyFoods levam leite e lactose. A lista do Risoto Sabor Queijo da Mexidona não traz leite, e a página o anuncia como zero lactose; confira os alérgenos na embalagem.",
+          "Nos risotos e macs comparados aqui, as duas marcas adicionam fonte de proteína à receita. A HolyFoods usa colágeno e, no Mac Caipira, também proteína isolada de ervilha; a Mexidona usa proteína isolada de ervilha, e o Risoto de Cogumelos também leva proteína isolada de arroz. A massa do Mac Queijo da HolyFoods traz corantes e emulsificante; a lista da massa do Mac Frango traz farinhas de arroz, proteína de ervilha, fécula e gomas xantana e guar.",
+          "Nas duas marcas o preparo pede sal a gosto, então o sódio das tabelas vale para o produto sem o sal que você puser. Nas listas da Mexidona comparadas aqui não há conservante declarado, como nas da HolyFoods.",
+          "Nas duas, leia a linha pode conter. A Sopa da Nona declara que pode conter aveia, amendoim, soja e castanhas, e o Risoto Funghi da HolyFoods, derivados de leite, soja, ovos, peixes, crustáceos, aveia e amendoim. As duas informam que não contêm glúten."
+        ]
+      },
+      {
+        "heading": "Qual escolher: o que pesa em cada perfil",
+        "paragraphs": [
+          "Escolha pelo formato, pelas informações do rótulo e pelo preço do dia."
+        ],
+        "bullets": [
+          "Quer pagar menos por 20 g de proteína declarada no risoto: HolyFoods com EMCASA, inclusive na simulação sem campanha.",
+          "Quer uma embalagem que já é uma refeição: HolyFoods. A Mexidona vende pacote de três porções no risoto e na sopa.",
+          "Quer evitar lactose no risoto de queijo: Mexidona, que anuncia zero lactose; confira a embalagem.",
+          "Quer o mac com menos sódio e mais proteína na tabela, e o preparo mais curto: Mexidona.",
+          "Vai comprar fora da campanha: com EMCASA, a Mexidona ganha por 100 g no risoto e por 20 g de proteína declarada no mac."
+        ],
+        "emphasis": "Com EMCASA fora da campanha, o risoto da Mexidona custa menos por peso da mistura. O risoto da HolyFoods custa menos por 20 g de proteína declarada."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Mexidona é saudável? O rótulo mostra calorias, proteína, fibra e sódio por porção, e isso não basta para avaliar uma dieta. Para orientação individual, converse com nutricionista ou médico.",
+          "A HolyFoods é melhor que a Mexidona? Com a campanha e o EMCASA, a HolyFoods custa menos por peso da mistura nos três pares. A Mexidona declara mais proteína no Mac Frango e anuncia zero lactose no risoto sabor queijo.",
+          "O cupom EMCASA vale na Mexidona? Não. O EMCASA é o código da HolyFoods, com 15% OFF, digitado na tela Finalizar compra da própria HolyFoods.",
+          "Quanta proteína tem nos produtos da Mexidona? A tabela do risoto de queijo declara 7 g por porção de 60 g, e a loja informa 20 g no pacote. O Mac Frango declara 24 g no pacote, que rende um prato."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1190,
+    "slug": "holyfoods-como-preparar",
+    "locale": "pt",
+    "title": "Como preparar HolyFoods: sopa, risoto e mac, com a água e o tempo de cada ficha",
+    "seoTitle": "Como preparar HolyFoods: sopa, risoto e mac",
+    "type": "Guia de Preparo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quanta água e quanto tempo pedem a sopa, o risoto e o mac da HolyFoods no fogão e no micro-ondas, com o aviso sobre a água do sachê de pack e de kit da sopa.",
+    "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. Como preparar sopa, risoto e mac: a água, o tempo e o fogão ou micro-ondas de cada ficha.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/holyfoods/holyfoods-como-preparar-capa.webp",
+    "imageAlt": "Prato da Sopa da Vovó da HolyFoods. A capa diz «Como preparar HolyFoods» e mostra o código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Siga a ficha do produto que chegou se você quer o ponto certo, porque a água muda de uma linha para outra.",
+        "Escolha risoto ou mac se você quer a opção do micro-ondas: a ficha da sopa indica só o fogão.",
+        "Leia a ficha do sachê se você comprou pack ou kit de sopa: ele pede 450 ml, não a água do pacote maior."
+      ],
+      "skipIf": [
+        "Não leve a sopa ao micro-ondas: a ficha dela indica só o fogão.",
+        "Não use no sachê de pack ou de kit a água do pacote maior: a loja pede 450 ml por sachê.",
+        "Passe o Mac Queijo, o Mac Alfredo e o Risoto de Queijo se você evita leite ou lactose; confira a embalagem que chegar."
+      ]
+    },
+    "cta": {
+      "text": "Se a HolyFoods faz sentido para você, entre pelo botão e, na tela Finalizar compra, cole o código EMCASA. Confira os 15% na linha de desconto antes de pagar.",
+      "label": "Ir para a HolyFoods",
+      "url": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "holyfoods",
+    "editorialNote": "Feito pelo rótulo e pelo site da loja. A Cecília preparou um risoto e o Mac Queijo em vídeo, antes da parceria. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "holyfoods-e-boa"
+      },
+      {
+        "slug": "holyfoods-e-confiavel"
+      },
+      {
+        "slug": "holyfoods-projeto-21-dias"
+      },
+      {
+        "slug": "cupom-holyfoods-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Veja o formato antes de medir a água. O sachê de sopa pede 450 ml. A sopa avulsa pede 1,1 ou 1,2 litro, conforme o sabor. Risoto e mac têm medidas próprias para o fogão e o micro-ondas nas fichas de produto. Se o seu rótulo trouxer outra instrução, siga a embalagem."
+        ]
+      },
+      {
+        "heading": "Antes de cozinhar: sachê, sopa, risoto ou mac",
+        "paragraphs": [
+          "Veja primeiro o que você tem na mão. A sopa vem em dois formatos: o pacote avulso, maior, e o sachê individual, menor, que vem no pack e no kit. Risoto e mac vêm em caixa ou embalagem própria. A água muda entre eles, então guarde a embalagem até acertar o ponto.",
+          "A loja informa: guarde o produto fechado, em ambiente seco e fresco, sem odores e sem insetos. No Mac Queijo, a ficha pede também longe do sol e do calor. Os preparos abaixo seguem a ficha de cada produto; se a embalagem que chegar disser outra coisa, vale a embalagem.",
+          "O [cupom HolyFoods](/cupons/holyfoods) EMCASA dá 15% OFF e se digita na tela Finalizar compra. Para saber se vale a pena por produto, veja o [HolyFoods é boa?](/reviews/holyfoods-e-boa), e para o pack e o kit de sopa, o [Projeto 21 Dias](/reviews/holyfoods-projeto-21-dias)."
+        ],
+        "comparisonTable": {
+          "caption": "Água por embalagem ou sachê, conforme a ficha de cada produto.",
+          "headers": [
+            "Formato",
+            "Água quente",
+            "Tempo no fogão",
+            "Micro-ondas"
+          ],
+          "rows": [
+            [
+              "Sopa avulsa",
+              "1,1 ou 1,2 litro, conforme a sopa",
+              "15 a 20 minutos",
+              "Não consta na ficha"
+            ],
+            [
+              "Sachê de sopa do pack ou do kit",
+              "450 ml por sachê",
+              "15 a 20 minutos",
+              "Não consta na ficha"
+            ],
+            [
+              "Risoto",
+              "400 ml para começar",
+              "18 a 20 minutos",
+              "300 ml"
+            ],
+            [
+              "Mac",
+              "500 ml",
+              "15 a 20 minutos",
+              "400 ml"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-como-preparar-sopa.webp",
+            "alt": "Embalagem da Sopa da Vovó da HolyFoods, em foto oficial da loja",
+            "caption": "Sopa da Vovó: o pacote avulso e o sachê do pack não usam a mesma água. Foto: HolyFoods.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Sopa HolyFoods: fogão, água e tempo",
+        "paragraphs": [
+          "Use o conteúdo inteiro do pacote avulso em água quente, em fogo médio, com a panela de tampa semiaberta, mexendo de vez em quando. A Sopa da Vovó e a Sopa Detox pedem 1,2 litro de água, e a Low Carb e a Canja da Mamãe pedem 1,1 litro.",
+          "O sachê do pack e do kit é outra conta: um sachê para 450 ml de água quente, também em fogo médio e de tampa semiaberta. A loja avisa que não se usa a quantidade de água dos pacotes maiores. A ficha da sopa indica só o fogão, sem preparo no micro-ondas."
+        ],
+        "comparisonTable": {
+          "caption": "Sopa no fogão, pela ficha da loja: água quente por pacote avulso e por sachê, em fogo médio.",
+          "headers": [
+            "Sopa",
+            "Pacote avulso",
+            "Sachê do pack ou do kit"
+          ],
+          "rows": [
+            [
+              "Sopa da Vovó",
+              "1,2 litro, 15 minutos",
+              "450 ml, 15 a 20 minutos"
+            ],
+            [
+              "Sopa Low Carb",
+              "1,1 litro, 20 minutos",
+              "450 ml, 15 a 20 minutos"
+            ],
+            [
+              "Canja da Mamãe",
+              "1,1 litro, 20 minutos",
+              "450 ml, 15 a 20 minutos"
+            ],
+            [
+              "Sopa Detox",
+              "1,2 litro, 20 minutos",
+              "Não tem pack nem kit"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Como sugestão da loja, dá para refogar alho e cebola com azeite antes de pôr a água, e acrescentar frango refogado ou um ovo na Vovó, carne moída na Low Carb e ovos cozidos na Detox e na Canja. É opcional: o preparo da tabela já basta."
+        ]
+      },
+      {
+        "heading": "Risoto HolyFoods: fogão ou micro-ondas",
+        "paragraphs": [
+          "Nas fichas de Funghi, Al Mare e Queijo, o risoto começa com 400 ml no fogão e ganha mais água conforme ela evapora. O tempo de referência é de 18 a 20 minutos. A FAQ da HolyFoods cita 600 ml adicionados aos poucos para o preparo indicado na embalagem. Se a sua embalagem trouxer essa medida, siga a instrução dela.",
+          "As fichas de produto também descrevem o micro-ondas: misture o conteúdo com 300 ml de água em recipiente próprio, aqueça em potência alta por 10 minutos, misture e volte por mais 5. Confira a instrução do seu rótulo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-como-preparar-risoto.webp",
+            "alt": "Embalagem do Risoto Funghi da HolyFoods, em foto oficial da loja",
+            "caption": "Risoto Funghi: a ficha dá 400 ml no fogão e 300 ml no micro-ondas. Foto: HolyFoods.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Mac HolyFoods: fogão ou micro-ondas",
+        "paragraphs": [
+          "No fogão, ferva 500 ml de água, junte todo o conteúdo do pacote e sal, e cozinhe de 15 a 20 minutos, mexendo. No micro-ondas, use 400 ml de água. O Mac Queijo e o Mac Alfredo levam 9 minutos e mais 6; o Mac Bolonha e o Mac Caipira levam 12 minutos e mais 6.",
+          "O Mac Queijo e o Mac Alfredo levam leite e lactose, assim como o Risoto de Queijo; o Risoto Al Mare leva peixe e camarão. O Risoto Funghi pode conter leite, soja, ovos, peixes, crustáceos, aveia e amendoim. Confira as linhas contém e pode conter da embalagem que chegar."
+        ],
+        "comparisonTable": {
+          "caption": "Mac no micro-ondas, com 400 ml de água, pela ficha de cada produto.",
+          "headers": [
+            "Mac",
+            "Primeira etapa",
+            "Segunda etapa"
+          ],
+          "rows": [
+            [
+              "Mac Queijo e Mac Alfredo",
+              "9 minutos",
+              "mais 6 minutos"
+            ],
+            [
+              "Mac Bolonha e Mac Caipira",
+              "12 minutos",
+              "mais 6 minutos"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-como-preparar-mac.webp",
+            "alt": "Embalagem do Mac Queijo da HolyFoods, em foto oficial da loja",
+            "caption": "Mac Queijo: 500 ml no fogão ou 400 ml no micro-ondas. Foto: HolyFoods.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Como a Cecília fez em vídeo",
+        "paragraphs": [
+          "No vídeo, a Cecília abre [um kit da HolyFoods comprado no TikTok Shop](/videos/risoto-holyfoods-kit-tiktok-shop) e prepara um risoto na panela de indução com 400 ml de água e um pouco de manteiga.",
+          "No outro, [o Mac Queijo na panela](/videos/mac-queijo-holyfoods-na-panela), ela prepara o macarrão do pacote ao prato. Os dois vídeos são de antes da parceria com a HolyFoods."
+        ]
+      },
+      {
+        "heading": "Erros de preparo para evitar",
+        "bullets": [
+          "Usar a água do pacote grande no sachê de pack ou de kit: a loja pede 450 ml por sachê.",
+          "Tentar a sopa no micro-ondas: a ficha da sopa indica só o fogão.",
+          "Pesar a mão no sal logo de início: a ficha pede sal a gosto, e o risoto ainda pode levar manteiga e parmesão.",
+          "Esperar o risoto secar no fogão: a ficha manda acrescentar água aos poucos conforme ela evapora.",
+          "Seguir o tempo sem olhar o ponto no micro-ondas: a ficha manda ajustar o tempo ou a água."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Dá para preparar risoto HolyFoods no micro-ondas? As fichas de produto descrevem um preparo com 300 ml de água, em duas etapas de 10 e 5 minutos. Confira a orientação da embalagem antes de começar.",
+          "Sopa HolyFoods se faz no micro-ondas? A ficha da sopa indica só o fogão, em fogo médio, com a panela de tampa semiaberta.",
+          "Dá para fazer o sachê com a água do pacote? Não. A loja pede 450 ml de água quente por sachê e avisa para não usar a quantidade dos pacotes maiores.",
+          "Precisa pôr sal? A ficha diz sal a gosto: comece com pouco e acerte no fim.",
+          "Quanto tempo leva o Mac HolyFoods? No fogão, de 15 a 20 minutos mexendo. No micro-ondas, 9 minutos e mais 6 no Queijo e no Alfredo, ou 12 minutos e mais 6 no Bolonha e no Caipira."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1191,
+    "slug": "hipercalorico-max-titanium-mass-17500",
+    "locale": "pt",
+    "title": "Hipercalórico Max Titanium: Mass 17500 de 3 kg, 1,4 kg ou “zero lactose”, pelo rótulo e pelo preço",
+    "seoTitle": "Hipercalórico Max Titanium Mass 17500: rótulo e preço",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O Mass Titanium 17500 vem em 3 kg, 1,4 kg e “zero lactose”. Veja porção, calorias, carboidrato e proteína de cada um e quanto custa 100 g de proteína no cartão.",
+    "metaDescription": "Com o MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. Mass 17500 de 3 kg, 1,4 kg e “zero lactose” pelo rótulo e pelo preço por 100 g de proteína.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa.webp",
+    "imageAlt": "Refil do Mass Titanium 17500 de 3 kg, em foto da Max Titanium com o logo da marca, os textos «Hipercalórico / Max Titanium» e o código MAX10EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Compare o refil de 3 kg se você quer o menor custo por proteína entre as três versões: no quadro, ele tem o menor valor por 100 g de proteína.",
+        "Compare o refil de 1,4 kg se prefere uma embalagem menor e aceita pagar mais por proteína; confira a advertência de idade da ficha dele.",
+        "Compare o “zero lactose” se você procura um produto com “Lactose: não contém” na ficha, lendo antes a lista de ingredientes e os alergênicos da embalagem que chegar."
+      ],
+      "skipIf": [
+        "Passe no “zero lactose” se você precisa evitar o leite por inteiro: a lista traz proteína isolada do soro do leite e a ficha diz que contém derivados de leite.",
+        "Passe nas três versões se você tem condição de saúde, está grávida ou amamentando: o 3 kg traz a advertência para gestantes e lactantes, e a decisão é de médico ou nutricionista."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Mass Titanium 17500 na Max Titanium e aplique o código MAX10EMCASACOMCECILIA, de até 10% de desconto conforme o produto, no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Podemos receber comissão pelo cupom. Ninguém da equipe provou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "whey-max-titanium-qual-escolher"
+      },
+      {
+        "slug": "max-titanium-e-boa"
+      },
+      {
+        "slug": "max-titanium-ou-growth"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual Mass Titanium 17500 comparar",
+        "paragraphs": [
+          "O Mass Titanium 17500 tem três versões: refil de 3 kg, refil de 1,4 kg e o “zero lactose” de 2,4 kg. Pela proteína do rótulo, o de 3 kg sai mais barato, mas o “zero lactose” tem outra lista de ingredientes. O MAX10EMCASACOMCECILIA dá até 10% OFF; a conta e as advertências de cada um estão abaixo."
+        ]
+      },
+      {
+        "heading": "Três embalagens com o mesmo nome",
+        "paragraphs": [
+          "O Mass Titanium 17500 tem refis de 3 kg e 1,4 kg e uma versão de 2,4 kg chamada “zero lactose”. O refil de 3 kg custa menos por 100 g de proteína declarada. A versão “zero lactose” tem outra fórmula e declara derivados de leite e soja.",
+          "O 3 kg também aparece no [comparativo da Max com outra marca](/reviews/max-titanium-ou-growth), com o preço no Pix de outra data. Aqui a Max fica sozinha, e o “Zero Lactose” do menu da loja, que não é whey, ganha o capítulo dele mais abaixo."
+        ]
+      },
+      {
+        "heading": "Como ler o rótulo do hipercalórico",
+        "paragraphs": [
+          "O rótulo diz: a porção é de 160 g, o que a loja descreve como 5 dosadores, e a tabela traz calorias, carboidrato e proteína dessa porção. A proteína é a mesma nas três versões, 17 g; o carboidrato fica entre 132 e 135 g, o que dá 7,8 a 7,9 g de carboidrato para cada grama de proteína.",
+          "A tabela do 3 kg diz que a embalagem tem “cerca de 19” porções, e a do 1,4 kg diz “cerca de 9”. Para comparar os tamanhos, dividimos o peso da embalagem pelos 160 g da porção: 18,75, 8,75 e 15 porções. Quanto você usa por dia é com o rótulo ou com o profissional, e a conta de preço não supõe nenhuma quantidade diária."
+        ]
+      },
+      {
+        "heading": "As três versões e o preço por 100 g de proteína",
+        "paragraphs": [
+          "Conta nossa, com o rótulo e o preço de cartão da loja: a proteína da embalagem é o número de porções vezes 17 g, e o preço por 100 g de proteína é o preço dividido por essa quantidade, vezes 100. Quanto menor o resultado, menor o custo da proteína declarada. A última coluna divide o preço pelas calorias declaradas da embalagem."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de cartão de 20 de novembro de 2026, sem cupom e sem Pix; entre parênteses, o preço de lista. A conta usa o peso da embalagem: 3 kg são 18,75 porções de 160 g, 1,4 kg são 8,75 e 2,4 kg são 15. No 1,4 kg, os valores são os de baunilha e chocolate.",
+          "headers": [
+            "Versão",
+            "Porção de 160 g: calorias, carboidrato, proteína",
+            "Preço de cartão",
+            "R$ por 100 g de proteína",
+            "R$ por 1.000 kcal"
+          ],
+          "rows": [
+            [
+              "[Refil 3 kg](https://www.maxtitanium.com.br/masstitanium3kg/p)",
+              "609 a 619 kcal, 133 a 135 g, 17 g",
+              "R$ 118,89 (de R$ 149,90)",
+              "R$ 37,30",
+              "R$ 10,24 a R$ 10,41"
+            ],
+            [
+              "[Refil 1,4 kg](https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p)",
+              "612 a 619 kcal, 133 a 135 g, 17 g",
+              "R$ 69,89 (de R$ 99,90)",
+              "R$ 46,98",
+              "R$ 12,90 a R$ 13,05"
+            ],
+            [
+              "[“Zero lactose” 2,4 kg](https://www.maxtitanium.com.br/mass-titanium-17500-zero-lactose/p)",
+              "604 kcal, 132 a 134 g, 17 g",
+              "R$ 129,89 (de R$ 159,90)",
+              "R$ 50,94",
+              "R$ 14,34"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pelos números do quadro, o 3 kg tem o menor custo por 100 g de proteína e por 1.000 kcal. O 1,4 kg custa menos por embalagem, mas mais por proteína, e o “zero lactose” é o mais caro nas duas contas. A conta mede preço por grama de proteína declarada, não a qualidade da fórmula.",
+          "O Pix muda pouco esse quadro. A faixa do site fala em até 5% no Pix e no boleto, mas a página do 3 kg mostra 3% a menos no Pix: R$ 115,32 contra R$ 118,89 no cartão."
+        ]
+      },
+      {
+        "heading": "Refil de 3 kg: os cinco sabores",
+        "paragraphs": [
+          "O refil de 3 kg sai em baunilha, chocolate, leite condensado, morango e vitamina de frutas, e os cinco estavam à venda. A proteína é de 17 g em todos; calorias e açúcares mudam de sabor para sabor, como mostra a tabela de cada um:"
+        ],
+        "bullets": [
+          "Baunilha: 619 kcal, 135 g de carboidrato e 31 g de açúcares totais.",
+          "Leite condensado: 615 kcal, 134 g de carboidrato e 30 g de açúcares totais.",
+          "Vitamina de frutas: 615 kcal, 134 g de carboidrato e 30 g de açúcares totais.",
+          "Chocolate: 612 kcal, 133 g de carboidrato e 25 g de açúcares totais.",
+          "Morango: 609 kcal, 134 g de carboidrato e 22 g de açúcares totais."
+        ],
+        "postParagraphs": [
+          "Em todos, os açúcares adicionados são 11 g por porção, e o sódio fica entre 287 e 298 mg. Os ingredientes da baunilha são maltodextrina, proteína concentrada do soro do leite (WPC), clara de ovo desidratada, colágeno hidrolisado, aromatizante e sucralose; chocolate e morango acrescentam cacau em pó e corantes, respectivamente.",
+          "A loja informa: o modo de preparo é bater 160 g em 250 mL de leite integral, desnatado ou água mineral, e a medida no dosador pode variar com a densidade do pó. Os alergênicos dizem “contém leite e ovo, pode conter soja, contém lactose”. A advertência do 3 kg diz que o produto não deve ser consumido por gestantes, lactantes e crianças. Confira a embalagem que chegar."
+        ]
+      },
+      {
+        "heading": "Refil de 1,4 kg: mesma tabela, outra advertência",
+        "paragraphs": [
+          "Baunilha e chocolate do 1,4 kg têm os mesmos valores dos de 3 kg: 619 e 612 kcal por porção. Para os outros sabores, a ficha diz “até 619 kcal por porção, dependendo do sabor”, e os ingredientes são os do 3 kg. Os cinco sabores também estavam à venda.",
+          "O que muda é a ficha. Os alergênicos dizem “contém derivados de leite e ovo, pode conter soja, lactose: contém”, e a recomendação de uso termina em “indicado para maiores de 19 anos”. A frase sobre gestantes, lactantes e crianças, que está no 3 kg, não aparece na ficha do 1,4 kg. Como as duas fichas divergem, vale ler o rótulo da embalagem que chegar e falar com um profissional em caso de dúvida."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-1-4kg.webp",
+          "alt": "Refil do Mass Titanium 17500 de 1,4 kg da Max Titanium.",
+          "caption": "Refil de 1,4 kg. Foto: Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "O “zero lactose” de 2,4 kg: o que o rótulo diz",
+        "paragraphs": [
+          "“Zero lactose” é o nome do produto. Na ficha, o campo de alergênicos diz “contém derivados de leite e soja, pode conter derivados de ovo, lactose: não contém”. Os ingredientes da versão chocolate trazem proteína isolada da soja e proteína isolada do soro do leite (WPI), além de maltodextrina, waxy maize, colágeno hidrolisado e uma mistura de vitaminas e minerais. Ou seja, a lista traz derivados de leite, e a ficha não deixa de dizer isso.",
+          "A tabela também é diferente da do refil: são 604 kcal por porção, 10 g de açúcares totais (contra 22 a 31 g no 3 kg) e sódio de 173 a 178 mg. A ficha manda misturar 160 g em 250 mL de água gelada ou leite desnatado e consumir uma porção ao dia, ou conforme orientação profissional. A advertência dele é a geral: não é um medicamento, não exceder a recomendação diária da embalagem e manter fora do alcance de crianças.",
+          "O “zero lactose” aparece em chocolate e morango. Se você precisa excluir leite ou lactose, confira a declaração de alergênicos da embalagem escolhida. Para comparar os wheys da marca, veja o [guia de whey da Max Titanium](/reviews/whey-max-titanium-qual-escolher)."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-zero-lactose.webp",
+          "alt": "Mass Titanium 17500 Zero Lactose de 2,4 kg da Max Titanium.",
+          "caption": "Mass Titanium 17500 “zero lactose” de 2,4 kg. Foto: Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/mass-titanium-17500-zero-lactose/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Cupom MAX10EMCASACOMCECILIA: até 10%, conforme o produto",
+        "paragraphs": [
+          "O [cupom Max Titanium](/cupons/max-titanium) dá até 10% e o percentual varia por produto. Digite o MAX10EMCASACOMCECILIA no campo “Cupom de desconto” do carrinho e confira a linha de desconto antes de pagar. Não testamos o carrinho com o Mass Titanium; nos kits e no BCAA da loja, que testamos, o carrinho mostrou cerca de 2%, então não conte com 10% sem ver.",
+          "As contas do quadro ficam sem cupom. Use o valor que o resumo do pedido mostrar."
+        ]
+      },
+      {
+        "heading": "Qual Mass Titanium 17500 escolher",
+        "emphasis": "Pelo rótulo e pelo preço, o refil de 3 kg tem o menor custo por 100 g de proteína entre as três versões. O 1,4 kg serve a quem quer a embalagem menor, e o “zero lactose” tem outra lista, que pede leitura do rótulo.",
+        "bullets": [
+          "Quer o menor custo por proteína: o refil de 3 kg, com R$ 37,30 por 100 g de proteína no quadro. Escolha o sabor pela tabela, porque calorias e açúcares mudam.",
+          "Quer uma embalagem menor: refil de 1,4 kg. Os valores de baunilha e chocolate coincidem com os mesmos sabores do refil de 3 kg. Confira as advertências na sua embalagem.",
+          "Procura “zero lactose”: o produto de 2,4 kg, de chocolate ou morango. Leia a lista de ingredientes e os alergênicos da embalagem que chegar, porque ela traz derivados de leite.",
+          "Precisa de orientação individual sobre quantidade, alergênicos ou restrições? Leve a embalagem a um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual Mass Titanium 17500 tem menos carboidrato por grama de proteína? Pelas tabelas, as três ficam entre 7,8 e 7,9 g de carboidrato por grama de proteína. A diferença está no preço por proteína, no açúcar e na lista de ingredientes.",
+          "A Max Titanium tem hipercalórico sem lactose? O produto “zero lactose” de 2,4 kg diz “lactose: não contém” na ficha, e a mesma ficha diz que contém derivados de leite e soja. Quem precisa evitar lactose ou leite lê a embalagem que chegar e fala com médico ou nutricionista.",
+          "O hipercalórico da Max Titanium é bom? O guia compara rótulo e preço, não efeito nem sabor. Pelo rótulo, as três versões trazem 17 g de proteína por porção de 160 g. Para a marca em geral, veja [Max Titanium é boa?](/reviews/max-titanium-e-boa).",
+          "Para que serve o Mass Titanium 17500? É um hipercalórico em pó. A tabela mostra as calorias por porção. A lista de ingredientes mostra as fontes de carboidrato e proteína de cada versão.",
+          "Qual hipercalórico da Max sai mais barato por proteína? O refil de 3 kg; depois vêm o 1,4 kg e o “zero lactose”. Os valores estão no quadro de preço por 100 g de proteína e mudam com o preço do dia."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1192,
+    "slug": "termogenico-max-titanium-qual-escolher",
+    "locale": "pt",
+    "title": "Termogênico Max Titanium: 2Hot, Shot Dry ou Shot Thermo, pela cafeína do rótulo e pelo preço por porção",
+    "seoTitle": "Termogênico Max Titanium: cafeína e preço por porção",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Pelo rótulo, o 2Hot tem 70 mg de cafeína por porção e o Shot Dry, 75 mg. Veja o preço por porção, a soma de cafeína por dia e o que o rótulo do Shot Thermo Max, esgotado, declara.",
+    "metaDescription": "Com o código MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. 2Hot e Shot Dry comparados pela cafeína do rótulo e pelo preço por porção.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa.webp",
+    "imageAlt": "Pote do 2Hot 200 g, em foto da Max Titanium com o logo da marca, os textos «Termogênico / Max Titanium» e o código MAX10EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Olhe o 2Hot se quer o termogênico de pó com a menor cafeína por porção do quadro, 70 mg, e a porção mais barata. Lembre que a embalagem pede duas porções por dia.",
+        "Olhe o Shot Dry se prefere uma porção só por dia, com 75 mg de cafeína, e aceita pagar mais por porção."
+      ],
+      "skipIf": [
+        "Passe nos três se você é gestante, lactante ou criança: o Shot Dry e o Shot Thermo Max dizem que não devem consumir, e o 2Hot manda consultar o médico antes.",
+        "Passe também se tem sensibilidade à cafeína ou toma outro estimulante, e fale antes com um médico ou nutricionista."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual termogênico da Max Titanium",
+        "paragraphs": [
+          "O 2Hot custa menos por porção. Pela frequência descrita nas fichas, o Shot Dry de maracujá custa menos por dia e soma menos cafeína. A tabela compara os dois pós e o Shot Thermo Max em cápsulas. Confira o rótulo do sabor escolhido e considere também a cafeína que você consome em outras bebidas."
+        ]
+      },
+      {
+        "heading": "Antes de comparar: cafeína soma e nem todo mundo deve tomar",
+        "paragraphs": [
+          "Os três termogênicos da Max Titanium que entram aqui trazem cafeína na tabela nutricional. Café, chá, refrigerante e outras bebidas também somam cafeína ao seu dia, e a página de cada produto traz a quantidade de uso por dia. Não passe dela, e siga a da embalagem que chegar.",
+          "As advertências do rótulo variam. O 2Hot pede que crianças, gestantes, nutrizes, idosos e portadores de enfermidades consultem o médico antes e não recomenda o consumo com bebida alcoólica. O Shot Dry e o Shot Thermo Max dizem que não devem ser consumidos por gestantes, lactantes e crianças.",
+          "Quem tem sensibilidade à cafeína, gestantes e quem toma estimulante fala antes com um profissional de saúde. O guia compara o rótulo e o preço, e não diz o que o produto faz no corpo."
+        ]
+      },
+      {
+        "heading": "Os três produtos pelo rótulo",
+        "paragraphs": [
+          "A tabela traz o que está escrito na tabela nutricional da página de cada produto. A porção muda de um para outro: um dosador raso de pó no 2Hot, um dosador no Shot Dry e duas cápsulas no Shot Thermo Max."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Porção",
+            "Cafeína por porção",
+            "Porções na embalagem",
+            "Calorias por porção"
+          ],
+          "rows": [
+            [
+              "[2Hot 200 g](https://www.maxtitanium.com.br/2hot-200g/p)",
+              "6 g (1 dosador raso)",
+              "70 mg",
+              "cerca de 33",
+              "8 kcal"
+            ],
+            [
+              "[Shot Dry 150 g](https://www.maxtitanium.com.br/shot-dry-150g-/p)",
+              "5 g (1 dosador)",
+              "75 mg",
+              "30",
+              "16 kcal"
+            ],
+            [
+              "[Shot Thermo Max 60 cápsulas](https://www.maxtitanium.com.br/shot-thermo-max-60-caps/p)",
+              "2 cápsulas (1,4 g)",
+              "140 mg",
+              "30",
+              "não declarada"
+            ]
+          ],
+          "caption": "Cafeína por porção declarada. Para o Shot Dry, os valores são os do sabor maracujá."
+        },
+        "postParagraphs": [
+          "O mg por porção não basta para comparar: a embalagem do 2Hot pede duas porções por dia, e a do Shot Dry, uma. A soma do dia está mais abaixo."
+        ]
+      },
+      {
+        "heading": "2Hot, Shot Dry e Shot Thermo Max: o que o rótulo diz de cada um",
+        "paragraphs": [
+          "O [2Hot](https://www.maxtitanium.com.br/2hot-200g/p) é um pó de 200 g. A ficha declara taurina, glucoronolactona e cafeína. O aviso de alergênicos diz que pode conter leite, ovo e soja. A linha lista abacaxi com hortelã, guaraná com açaí, limão, tangerina e uva. Confira a disponibilidade do sabor.",
+          "O [Shot Dry](https://www.maxtitanium.com.br/shot-dry-150g-/p) vem em pote de 150 g. A tabela deste guia é a do maracujá. A ficha informa que o produto não contém lactose. A linha também tem frutas vermelhas. Confira o rótulo do sabor escolhido."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-shot-dry.webp",
+          "alt": "Pote do Shot Dry 150 g da Max Titanium, em foto oficial da loja",
+          "caption": "Foto: Max Titanium. Shot Dry 150 g.",
+          "href": "https://www.maxtitanium.com.br/shot-dry-150g-/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "postParagraphs": [
+          "O [Shot Thermo Max](https://www.maxtitanium.com.br/shot-thermo-max-60-caps/p) vem em 60 cápsulas, com porção de 2 cápsulas e 140 mg de cafeína. A tabela declara ainda 710 mg de taurina, 190 mg de L-carnitina, 185 µg de cromo e 140 mg de compostos fenólicos. Ele está esgotado, e por isso fica sem conta de preço aqui."
+        ]
+      },
+      {
+        "heading": "Quanto custa cada porção",
+        "paragraphs": [
+          "Conta nossa: o preço de cartão da página dividido pelo número de porções da tabela nutricional, sem cupom."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço de cartão",
+            "Porções",
+            "Por porção"
+          ],
+          "rows": [
+            [
+              "[2Hot 200 g](https://www.maxtitanium.com.br/2hot-200g/p)",
+              "R$ 79,90 (de R$ 99,90)",
+              "cerca de 33",
+              "R$ 2,42"
+            ],
+            [
+              "[Shot Dry 150 g](https://www.maxtitanium.com.br/shot-dry-150g-/p)",
+              "R$ 89,89 (de R$ 99,90)",
+              "30",
+              "R$ 3,00"
+            ]
+          ],
+          "caption": "Preços de cartão de 20 de novembro de 2026, sem cupom e sem Pix; entre parênteses, o preço de lista. Porções da tabela nutricional de cada produto."
+        },
+        "postParagraphs": [
+          "O 2Hot sai R$ 0,58 mais barato por porção que o Shot Dry, e tem 5 mg a menos de cafeína por porção. A conta é por porção de cada rótulo, não por efeito: o 2Hot rende mais porções na embalagem, e o Shot Dry tem uma porção só por dia na ficha. Pelo uso da ficha, são duas porções por dia no 2Hot, R$ 4,84, contra uma no Shot Dry, R$ 3,00.",
+          "O código MAX10EMCASACOMCECILIA dá até 10%, conforme o produto; nos kits e no BCAA da loja, o carrinho mostrou cerca de 2%. Confira a linha de desconto antes de pagar. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "Cafeína por dia pela ficha",
+        "paragraphs": [
+          "A conta abaixo usa só a quantidade de uso que a ficha de cada produto traz, uma por vez. Ela não soma produtos diferentes e não inclui café e outras bebidas, que também somam cafeína. Quem já toma café conta a cafeína dele à parte."
+        ],
+        "bullets": [
+          "2Hot: a ficha pede uma porção pela manhã e outra antes do almoço, ou a orientação de um profissional. São 2 porções, 140 mg de cafeína.",
+          "Shot Dry: a ficha pede uma porção por dia, ou a orientação de um nutricionista ou médico. São 75 mg de cafeína.",
+          "Shot Thermo Max: a ficha pede 2 cápsulas por dia, ou a orientação de um nutricionista ou médico. São 140 mg de cafeína."
+        ],
+        "postParagraphs": [
+          "Escolher dois deles no mesmo dia soma a cafeína dos dois, e a ficha não prevê isso. Para qualquer quantidade diferente da ficha, a orientação é de um médico ou nutricionista, e não nossa. O Hórus e o Égide, pré-treinos da marca, também têm cafeína, com outra porção e outra conta: veja o guia de [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide)."
+        ]
+      },
+      {
+        "heading": "Qual escolher: 2Hot, Shot Dry ou Shot Thermo Max",
+        "paragraphs": [
+          "A escolha é de rótulo e de preço, depois de falar com um profissional de saúde se você se enquadra em alguma das advertências."
+        ],
+        "bullets": [
+          "Menor cafeína por porção: 2Hot, com 70 mg. O Shot Dry tem 75 mg e o Shot Thermo Max, 140 mg.",
+          "Menor preço por porção: 2Hot, a R$ 2,42, contra R$ 3,00 do Shot Dry.",
+          "Prefere cápsula a pó: o Shot Thermo Max é o único em cápsulas, mas está esgotado.",
+          "Menor custo e menor total de cafeína por dia, pela frequência informada nas fichas: Shot Dry de maracujá.",
+          "Sem cafeína: nenhum dos três. Todos declaram cafeína na tabela."
+        ],
+        "postParagraphs": [
+          "Se o preço ou o estoque mudar, a conta muda. Refaça a divisão com o preço do dia antes de comprar."
+        ],
+        "emphasis": "Por porção, o 2Hot tem menos cafeína e custa menos. Pelo uso que a embalagem pede, duas porções por dia no 2Hot e uma no Shot Dry, a conta se inverte: o Shot Dry soma menos cafeína e custa menos por dia."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Termogênico da Max Titanium tem cafeína? Tem. Pelo rótulo, o 2Hot declara 70 mg por porção, o Shot Dry, 75 mg, e o Shot Thermo Max, 140 mg por 2 cápsulas.",
+          "Qual termogênico da Max Titanium tem mais cafeína? Dos três, o Shot Thermo Max, com 140 mg por porção de 2 cápsulas, mas ele está esgotado. Entre os que estão à venda, o Shot Dry tem 75 mg e o 2Hot, 70 mg.",
+          "Termogênico da Max Titanium sem cafeína existe? Não entre os três deste guia: todos declaram cafeína na tabela. Para ler outra linha, confira a tabela nutricional na página de cada produto.",
+          "O 2Hot é bom? Se você compara por porção, ele custa menos que o Shot Dry. Se compara pelo total diário das fichas, o Shot Dry sai mais barato e soma menos cafeína.",
+          "Quanto custa a porção do Shot Dry? Mais que a do 2Hot. O valor está na tabela de preço por porção, feita com o preço da embalagem de 150 g e as 30 porções do rótulo.",
+          "Termogênico tem efeito no corpo? O guia não trata disso: ele compara o rótulo e o preço. Quem tem uma meta de saúde ou de corpo fala com um médico ou nutricionista.",
+          "Qual o código da Max Titanium? É o MAX10EMCASACOMCECILIA, de até 10% OFF, conforme o produto. Veja as condições na [página do cupom](/cupons/max-titanium)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os termogênicos na loja oficial da Max Titanium e aplique MAX10EMCASACOMCECILIA no carrinho. O desconto é de até 10% e varia por produto.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Podemos receber comissão pelo cupom. Ninguém da equipe provou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "pre-treino-max-titanium-horus-ou-egide"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar"
+      },
+      {
+        "slug": "whey-max-titanium-qual-escolher"
+      }
+    ]
+  },
+  {
+    "id": 1193,
+    "slug": "kit-max-titanium-quando-compensa",
+    "locale": "pt",
+    "title": "Kit Max Titanium: quando compensa mais que comprar avulso",
+    "seoTitle": "Kit Max Titanium: quando compensa (conta por item)",
+    "type": "Guia de Kit",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Kit ou avulso na Max Titanium: a conta por item, com o preço de cartão do dia, mostra quais kits de whey e creatina custam menos, quais custam o mesmo e como o frete entra.",
+    "metaDescription": "Com o cupom MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. Kit ou avulso: a conta por item de whey e creatina, o kit de brinde e o frete por região.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa.webp",
+    "imageAlt": "Kit Whey Pro 1 kg com Creatina 500 g, em foto da Max Titanium com o logo da marca, os textos «Kit Max Titanium / compensa?» e o código MAX10EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Compare o kit de Whey Pro 1 kg com Creatina 500 g se quer os dois itens: ele custa menos que os avulsos e menos que o kit com a creatina de 300 g.",
+        "Considere o kit de Creatina 500 g com Hórus 150 g de brinde se o Hórus já estava na sua lista: o preço do kit é o da creatina sozinha."
+      ],
+      "skipIf": [
+        "Passe nos kits que custam o mesmo que os avulsos se você quer outro sabor ou tamanho: o avulso dá a mesma conta com mais escolha.",
+        "Passe no kit se o seu pedido não chega ao frete grátis da sua região: o kit não muda essa regra, o valor do pedido muda."
+      ]
+    },
+    "pros": [
+      "O kit de Whey Pro 1 kg com Creatina 500 g custa menos que os avulsos somados no mesmo preço de cartão",
+      "Os kits com a creatina de 500 g e os kits Whey Blend fecham mais baratos que a soma dos avulsos",
+      "Tudo no mesmo pedido, com uma conta simples por item",
+      "O cupom entra nos kits: o carrinho aplicou o desconto nos dois que testamos"
+    ],
+    "cons": [
+      "Vários kits de whey e creatina custam o mesmo que os avulsos",
+      "No carrinho, o cupom deu cerca de 2% nos kits e no BCAA que testamos, não 10%",
+      "O preço riscado e o percentual de OFF do kit medem contra o preço antigo, não contra o avulso de hoje",
+      "Estoque e sabor mudam por variante, e alguns kits estavam esgotados"
+    ],
+    "cta": {
+      "text": "Veja os kits da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% de desconto, no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Podemos receber comissão pelo cupom. Ninguém da equipe provou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "creatina-max-titanium-qual-pote"
+      },
+      {
+        "slug": "whey-max-titanium-qual-escolher"
+      },
+      {
+        "slug": "pre-treino-max-titanium-horus-ou-egide"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar"
+      },
+      {
+        "slug": "max-titanium-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: quando o kit Max Titanium compensa",
+        "paragraphs": [
+          "Só em alguns kits. Seis combinações de whey e creatina custam menos que os avulsos somados, e a de Whey Pro com creatina de 500 g é a que mais economiza. Em vários outros kits a soma dá igual, então o kit só junta o pedido. A conta usa o preço de cartão do dia."
+        ]
+      },
+      {
+        "heading": "Como comparar o kit com os avulsos",
+        "paragraphs": [
+          "Some o preço atual dos avulsos no mesmo sabor, tamanho e forma de pagamento. No kit de Whey Pro com Creatina 500 g, a loja mostra R$ 241,80 como referência. Os dois itens avulsos saíam por R$ 179,80 no mesmo dia. É esse valor que entra na comparação.",
+          "Conta nossa: somamos os avulsos do mesmo item e do mesmo tamanho, ao preço de cartão, sem Pix, sem cupom e sem frete, e comparamos com o menor preço do kit entre as variantes disponíveis. Uma unidade de cada item. Quanto maior a diferença, mais o kit ajuda.",
+          "Os avulsos aparecem com a ficha completa em [creatina Max Titanium: qual pote](/reviews/creatina-max-titanium-qual-pote) e [whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Kits que custam menos que os avulsos",
+        "paragraphs": [
+          "Seis kits de whey e creatina fecham abaixo da soma dos avulsos. Em todos, o kit entrega os mesmos itens por menos."
+        ],
+        "comparisonTable": {
+          "caption": "Cartão, em 20 de novembro de 2026, antes do cupom e do frete. Avulsos do mesmo tamanho. No Double Tasty, a economia vale para chocolate, baunilha e morango.",
+          "headers": [
+            "Kit",
+            "Preço do kit",
+            "Avulsos somados",
+            "Diferença"
+          ],
+          "rows": [
+            [
+              "[Whey Pro 1 kg + Creatina 500 g](https://www.maxtitanium.com.br/kit-whey-pro-creatina-500g/p)",
+              "R$ 159,80",
+              "R$ 179,80",
+              "R$ 20,00 (11%)"
+            ],
+            [
+              "[Creatina 500 g + 100% Whey Double Tasty](https://www.maxtitanium.com.br/kit-doubletasty-creatina500g/p)",
+              "R$ 266,90",
+              "R$ 280,29",
+              "R$ 13,39 (5%)"
+            ],
+            [
+              "[Whey Blend 900 g + Creatina 300 g](https://www.maxtitanium.com.br/kit-whey-blend-900g-creatina-300g/p)",
+              "R$ 128,90",
+              "R$ 138,90",
+              "R$ 10,00 (7%)"
+            ],
+            [
+              "[Whey Blend 1,8 kg + Creatina 300 g](https://www.maxtitanium.com.br/kit-whey-blend-1-8g-nova-formula---creatina-300g-1/p)",
+              "R$ 198,90",
+              "R$ 208,90",
+              "R$ 10,00 (5%)"
+            ],
+            [
+              "[Femini Whey 900 g + Creatina 300 g](https://www.maxtitanium.com.br/kit-creatina-300g---femini-whey-900g/p)",
+              "R$ 179,90",
+              "R$ 189,90",
+              "R$ 10,00 (5%)"
+            ],
+            [
+              "[Top Whey 3W + Sabor 900 g + Creatina 300 g](https://www.maxtitanium.com.br/kit-creatina-300g-topwhey3w-sabor-/p)",
+              "R$ 238,90",
+              "R$ 248,90",
+              "R$ 10,00 (4%)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O kit de Whey Pro com Creatina 500 g lidera em reais e em percentual. Ele também custa R$ 10,00 menos que o kit de Whey Pro 1 kg com Creatina 300 g, que sai a R$ 169,80, e traz o pote maior de creatina.",
+          "Nos outros cinco kits, a diferença é de R$ 10,00 a R$ 13,39. É um desconto pequeno, que vale se o whey do kit é o que você já ia comprar."
+        ]
+      },
+      {
+        "heading": "Kits que custam o mesmo que os avulsos",
+        "paragraphs": [
+          "Nos kits abaixo, a soma dos avulsos fecha no mesmo valor do kit, com no máximo um centavo de diferença. Aqui o kit não economiza: ele só coloca dois itens num clique."
+        ],
+        "comparisonTable": {
+          "caption": "Mesma leitura e mesma base do quadro anterior. Preço do kit igual à soma dos avulsos de mesmo tamanho.",
+          "headers": [
+            "Kit",
+            "Preço do kit"
+          ],
+          "rows": [
+            [
+              "[Creatina 300 g + 100% Whey Pote 900 g](https://www.maxtitanium.com.br/kit-creatina-300g-100--whey-pote-900g/p)",
+              "R$ 270,29"
+            ],
+            [
+              "[100% Whey Refil 900 g + Creatina 300 g](https://www.maxtitanium.com.br/kit-100---whey--creatina/p)",
+              "R$ 256,29"
+            ],
+            [
+              "[Whey Protein 1 kg + Creatina 300 g](https://www.maxtitanium.com.br/kit-creatina-300g---whey-pro-1kg/p)",
+              "R$ 169,80"
+            ],
+            [
+              "[2x Creatina 300 g + Whey Pro 1 kg](https://www.maxtitanium.com.br/kit-2x-creatina-1x-whey-pro-1kg/p)",
+              "R$ 229,70"
+            ],
+            [
+              "[Creatina 300 g + Top Whey 3W Performance 900 g](https://www.maxtitanium.com.br/kit-creatina-300g---top-whey-3w---performance-900g/p)",
+              "R$ 333,45"
+            ],
+            [
+              "[Creatina 300 g + Top Whey 3W Performance 1,8 kg](https://www.maxtitanium.com.br/kit-creatina-300g---top-whey-3w--performance-1-8kg/p)",
+              "R$ 579,76"
+            ],
+            [
+              "[Creatina 300 g + Pré-treino Hórus 300 g](https://www.maxtitanium.com.br/kit-creatina-300g---pre-treino-horus-300g/p)",
+              "R$ 148,78"
+            ],
+            [
+              "[Creatina 300 g + Pré-treino Égide 300 g](https://www.maxtitanium.com.br/kit-creatina-300g---pre-treino-egide-300g/p)",
+              "R$ 149,80"
+            ],
+            [
+              "[100% Whey 900 g + Hórus 300 g](https://www.maxtitanium.com.br/kit-intensidade-100-whey-horus/p)",
+              "R$ 299,28"
+            ],
+            [
+              "[100% Whey 900 g + Égide 150 g](https://www.maxtitanium.com.br/kitforca-disposicao/p)",
+              "R$ 264,29"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nesses kits, vale o avulso quando você quer outro sabor ou outro tamanho: o kit fecha o sabor da linha, e o avulso dá a mesma conta com mais escolha. Para os pré-treinos, a comparação entre Hórus e Égide está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide)."
+        ]
+      },
+      {
+        "heading": "Kit de Creatina 500 g com Hórus 150 g de brinde",
+        "paragraphs": [
+          "O kit de Creatina 500 g com Pré-treino Hórus 150 g de brinde custa R$ 69,90, o mesmo preço da creatina de 500 g sozinha. O Hórus de 150 g avulso custa R$ 46,89. Pelo nome do kit, o Hórus é o brinde, e o carrinho confirmou: o total mostrou R$ 69,90, sem cobrança à parte.",
+          "A conta, então, é a do brinde: quem já ia comprar a creatina de 500 g leva o Hórus de 150 g por esse mesmo valor. O Hórus é um pré-treino com 150 mg de cafeína por dose no rótulo; a porção e as advertências estão no rótulo da embalagem que chegar, e o guia dele está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
+          "O kit tem variantes por sabor, e algumas estavam sem estoque. Escolha o sabor antes de fechar a conta."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-horus.webp",
+          "alt": "Kit Creatina 500 g com Pré-treino Hórus 150 g de brinde, da Max Titanium.",
+          "caption": "Kit Creatina 500 g + Hórus 150 g de brinde. Foto: Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/kit-creatina-500g-horus-150g-brinde/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Cupom nos kits: cerca de 2% no carrinho",
+        "paragraphs": [
+          "O código MAX10EMCASACOMCECILIA dá até 10% OFF, conforme o produto. Nos kits e no BCAA que levamos ao carrinho, sem finalizar, o desconto foi de cerca de 2%: o kit de Whey Pro com Creatina 500 g foi de R$ 159,80 para R$ 156,60, e o kit de Creatina 500 g com Hórus de brinde, de R$ 69,90 para R$ 68,50.",
+          "Por isso, nenhuma conta deste guia usa 10% nos kits. Confira o percentual no resumo do pedido antes de pagar. As regras do código estão em [cupom Max Titanium](/cupons/max-titanium), e o guia de [como usar o cupom](/reviews/cupom-max-titanium-como-usar) explica o campo do carrinho."
+        ]
+      },
+      {
+        "heading": "Frete grátis pelo valor do pedido",
+        "paragraphs": [
+          "A política de frete da loja dá frete grátis por região a partir de um valor mínimo de pedido, contado depois do cupom. Vale o total do carrinho, seja kit ou avulso. Um kit mais barato que os avulsos pode, por isso, ficar abaixo do mínimo que os avulsos alcançariam."
+        ],
+        "comparisonTable": {
+          "caption": "Mínimo do pedido para frete grátis por região, segundo a política de frete da loja. O valor conta depois do cupom.",
+          "headers": [
+            "Região",
+            "Mínimo do pedido"
+          ],
+          "rows": [
+            [
+              "São Paulo capital",
+              "R$ 104,00"
+            ],
+            [
+              "Sudeste",
+              "R$ 134,00"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 204,00"
+            ],
+            [
+              "Sul",
+              "R$ 249,00"
+            ],
+            [
+              "Nordeste",
+              "R$ 299,00"
+            ],
+            [
+              "Norte",
+              "R$ 599,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Depois do cupom testado, o kit de Whey Pro com Creatina 500 g passava dos mínimos da capital paulista e do Sudeste. Já o kit de Whey Blend 900 g com Creatina 300 g passava apenas do mínimo da capital, pelo valor antes do cupom. Compare o total entregue no seu CEP: a loja aplica a gratuidade à opção de menor preço, e o Sedex é cobrado."
+        ]
+      },
+      {
+        "heading": "Kits esgotados e o que não existe no site",
+        "paragraphs": [
+          "No catálogo consultado, quatro kits com Creatina 100 g estavam indisponíveis. Confira o estoque da combinação e do sabor escolhidos antes de fechar a conta.",
+          "O site não tem kit com BCAA nem um kit chamado “completo” com whey, creatina e BCAA. Para essa combinação, monte o carrinho com os avulsos; o BCAA tem guia próprio em [BCAA Max Titanium: qual escolher](/reviews/bcaa-max-titanium-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Qual kit escolher",
+        "emphasis": "Só o kit de Whey Pro 1 kg com Creatina 500 g economiza mais que uns poucos reais, e o de Creatina 500 g com Hórus de brinde é o caso especial. Nos demais, a soma dos avulsos dá igual ou quase.",
+        "bullets": [
+          "Quer whey e creatina juntos: o kit de Whey Pro 1 kg com Creatina 500 g é o que mais economiza na conta de hoje.",
+          "Já ia comprar a creatina de 500 g e usa pré-treino: o kit com o Hórus de 150 g de brinde sai pelo preço da creatina.",
+          "Quer outro whey da linha, outro sabor ou outro tamanho: compre avulso. Nos kits iguais à soma, o avulso dá a mesma conta.",
+          "Mora fora do Sudeste: some o pedido inteiro antes de decidir, porque o frete grátis depende do valor do carrinho.",
+          "Dúvida sobre dose, alergênicos ou uso: leia o rótulo da embalagem que chegar e fale com médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Kit Max Titanium é mais barato que comprar separado? Em seis combinações de whey e creatina, sim; a diferença de cada uma está na primeira tabela. Em outros kits, a soma dos avulsos dá o mesmo valor. A conta usa o avulso do dia, não o preço riscado.",
+          "O cupom vale no kit? No carrinho, o código MAX10EMCASACOMCECILIA foi aplicado nos kits que testamos, com cerca de 2%. Ele dá até 10% conforme o produto; confira no resumo do pedido.",
+          "O kit tem frete grátis? O frete grátis depende do valor do pedido na sua região, depois do cupom. O kit não muda a regra, e a tabela de mínimos está no guia.",
+          "Tem kit com BCAA? Não. Nenhum kit da Max tem BCAA, e não há um kit chamado completo com whey, creatina e BCAA. Monte o carrinho com os avulsos.",
+          "O kit com Hórus de brinde cobra o Hórus? Não. O carrinho mostrou para o kit o mesmo preço da creatina de 500 g sozinha. Confira o sabor e o total antes de pagar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1194,
+    "slug": "bcaa-max-titanium-qual-escolher",
+    "locale": "pt",
+    "title": "BCAA Max Titanium: 2400 em cápsulas ou 4:1:1 em pó, pelo rótulo e pelo preço por dose",
+    "seoTitle": "BCAA Max Titanium: 2400 em cápsulas ou 4:1:1 em pó",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O BCAA 2400 em cápsulas e o 4:1:1 em pó têm porções diferentes. Veja o que cada tabela declara e quanto custa a porção e o grama de BCAA declarado em cada pote.",
+    "metaDescription": "Com o cupom MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. BCAA 2400 em cápsulas e 4:1:1 em pó comparados pelo rótulo e pelo preço por dose.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa.webp",
+    "imageAlt": "Pote de BCAA 2400 da Max Titanium, em foto da Max Titanium com o logo da marca, os textos «BCAA / Max Titanium» e o código MAX10EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Compare o BCAA 2400 em cápsulas se você prefere não preparar bebida e quer escolher o pote pelo número de porções: o de 200 cápsulas tem o menor preço por grama declarado entre os potes de cápsula.",
+        "Compare o 4:1:1 em pó se você prefere beber a porção misturada em água e aceita o carboidrato e a vitamina B6 que a tabela do pó traz."
+      ],
+      "skipIf": [
+        "Passe no pote de 60 cápsulas se o que pesa é o custo: é o de maior preço por porção e por grama declarado.",
+        "Passe no pó se você não quer carboidrato nem vitamina B6 na porção: a tabela das cápsulas não traz nenhum dos dois."
+      ]
+    },
+    "pros": [
+      "Tabela nutricional publicada na página de cada BCAA, com a porção e os miligramas de cada aminoácido",
+      "O pote de 200 cápsulas e o pó 4:1:1 têm o mesmo preço por grama de BCAA declarado no quadro",
+      "Dois formatos, cápsula e pó, para quem não quer preparar bebida ou prefere preparar",
+      "Cupom de até 10%, conforme o produto"
+    ],
+    "cons": [
+      "O cupom não chega a 10% em todo produto: no BCAA 2400 de 100 cápsulas o carrinho mostrou cerca de 2%",
+      "Cada porção são quatro cápsulas, e o pote de 60 tem só 15 porções",
+      "O pó 4:1:1 traz carboidrato e vitamina B6 na porção, o que a cápsula não traz"
+    ],
+    "cta": {
+      "text": "Veja os BCAA da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% de desconto, no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Podemos receber comissão pelo cupom. Ninguém da equipe provou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "whey-max-titanium-qual-escolher"
+      },
+      {
+        "slug": "creatina-max-titanium-qual-pote"
+      },
+      {
+        "slug": "pre-treino-max-titanium-horus-ou-egide"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar"
+      },
+      {
+        "slug": "max-titanium-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual BCAA da Max Titanium comprar",
+        "paragraphs": [
+          "O BCAA 2400 de 200 cápsulas e o 4:1:1 em pó empatam no preço por grama dos aminoácidos declarados. O pote de 200 cápsulas rende 50 porções, e o pó rende 40. A escolha é entre quatro cápsulas por porção ou um pó com sabor para misturar em água."
+        ]
+      },
+      {
+        "heading": "Dois formatos, duas tabelas",
+        "paragraphs": [
+          "O BCAA 2400 vem em cápsulas, em potes de 60, 100 e 200. A porção do rótulo é de 2,4 g, que são quatro cápsulas, com 980 mg de L-leucina, 710 mg de L-isoleucina e 710 mg de L-valina. A tabela não traz proteína nem quantidade significativa de calorias, carboidratos, gorduras, fibras ou sódio.",
+          "O BCAA 4:1:1 Drink é um pó de 280 g, com porção de 7 g, um dosador. A tabela do sabor limão traz 2.000 mg de L-leucina, 500 mg de L-isoleucina e 500 mg de L-valina, o que dá a razão 4:1:1 do nome. Traz também 15 kcal, 3,7 g de carboidratos, 0,2 g de açúcares e vitamina B6 em 1,3 mg, 100% do valor diário.",
+          "A porção do 2400 soma 2.400 mg de leucina, isoleucina e valina. O 4:1:1 nomeia a proporção dos três aminoácidos. Para as outras linhas, veja [Max Titanium é boa?](/reviews/max-titanium-e-boa)."
+        ]
+      },
+      {
+        "heading": "Preço por porção e por grama de BCAA declarado",
+        "paragraphs": [
+          "Conta nossa: o preço por porção é o preço do pote ÷ o número de porções do rótulo. O preço por grama de BCAA declarado é o preço por porção ÷ a soma de leucina, isoleucina e valina da porção (2,4 g nas cápsulas, 3 g no pó). Os preços são de cartão, sem cupom e sem Pix."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de cartão lidos no site em 20 de novembro de 2026; entre parênteses, o preço de lista quando diferente. Porções e aminoácidos das tabelas nutricionais de cada produto. A tabela do pó é a do sabor limão.",
+          "headers": [
+            "Produto",
+            "Porção do rótulo",
+            "Porções no pote",
+            "Preço do pote",
+            "R$ por porção",
+            "R$ por g de BCAA declarado"
+          ],
+          "rows": [
+            [
+              "[BCAA 2400, 60 cápsulas](https://www.maxtitanium.com.br/bcaa-2400-pote-com-60-capsulas/p)",
+              "4 cápsulas (2,4 g)",
+              "15",
+              "R$ 49,36",
+              "R$ 3,29",
+              "R$ 1,37"
+            ],
+            [
+              "[BCAA 2400, 100 cápsulas](https://www.maxtitanium.com.br/bcaa-2400-pote-com-100-capsulas/p)",
+              "4 cápsulas (2,4 g)",
+              "25",
+              "R$ 59,89 (de R$ 74,90)",
+              "R$ 2,40",
+              "R$ 1,00"
+            ],
+            [
+              "[BCAA 2400, 200 cápsulas](https://www.maxtitanium.com.br/bcaa-2400mg-pote-com-200-capsulas/p)",
+              "4 cápsulas (2,4 g)",
+              "50",
+              "R$ 99,88",
+              "R$ 2,00",
+              "R$ 0,83"
+            ],
+            [
+              "[BCAA 4:1:1 Drink, 280 g](https://www.maxtitanium.com.br/411-bcaa-drink-280g-max-titanium/p)",
+              "7 g (3 g de BCAA)",
+              "40",
+              "R$ 99,88",
+              "R$ 2,50",
+              "R$ 0,83"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O pote de 200 cápsulas custa menos por porção. O pó declara mais aminoácidos por porção, e os dois empatam por grama declarado."
+        ]
+      },
+      {
+        "heading": "BCAA 2400 em cápsulas: 60, 100 ou 200",
+        "paragraphs": [
+          "As três embalagens têm a mesma tabela. O que muda é o número de porções, e por isso o preço de cada uma: o pote de 60 tem 15 porções e é o mais caro por porção, o de 100 tem 25, e o de 200 tem 50.",
+          "A loja informa: a descrição do produto traz o selo “PURE AMINO ACID by Ajinomoto Co.®”.",
+          "Se a decisão for pelo custo e o pote de 200 não estiver à venda, o de 100 cápsulas é o seguinte do quadro."
+        ]
+      },
+      {
+        "heading": "BCAA 4:1:1 em pó: porção, preparo e sabor",
+        "paragraphs": [
+          "A página manda misturar 7 g, um dosador, em 200 mL de água gelada. O pote de 280 g rende 40 porções. Os sabores listados são laranja, limão e uva. Os números deste guia são os do sabor limão; confira a tabela do sabor que escolher.",
+          "Quem escolhe o pó leva junto 3,7 g de carboidrato e a vitamina B6 da porção, mais o preparo da bebida. Quem escolhe a cápsula troca isso pela rotina de engolir quatro cápsulas. A lista de alergênicos de cada sabor está na embalagem: leia antes de comprar."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-411.webp",
+          "alt": "Pote de 280 g do BCAA 4:1:1 Drink da Max Titanium.",
+          "caption": "BCAA 4:1:1 Drink 280 g. Foto: Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/411-bcaa-drink-280g-max-titanium/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Quanto tomar: o que o rótulo diz",
+        "paragraphs": [
+          "A porção do 2400 corresponde a quatro cápsulas. No 4:1:1, a porção declarada corresponde a um dosador de 7 g.",
+          "Quem tem condição de saúde, toma medicamento, está grávida ou amamentando, ou quer mudar a quantidade da embalagem, fala antes com médico ou nutricionista. Leia as advertências e a faixa de idade impressas na embalagem que chegar."
+        ]
+      },
+      {
+        "heading": "Cupom MAX10EMCASACOMCECILIA: até 10%, por produto",
+        "paragraphs": [
+          "O cupom MAX10EMCASACOMCECILIA dá até 10%, conforme o produto. No BCAA o percentual foi menor: no carrinho, sem finalizar a compra, o BCAA 2400 de 100 cápsulas foi de R$ 59,89 para R$ 58,69, cerca de 2%. Com esse valor, a porção sai a R$ 2,35 e o grama declarado a R$ 0,98.",
+          "Não testamos o código nos outros tamanhos nem no pó, então não conte com 10% neles: o resumo do pedido mostra o desconto real. A página mostra 3% a menos no Pix sobre o preço do cartão. As regras do código estão em [cupom Max Titanium](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "Qual BCAA escolher",
+        "emphasis": "Pelo preço por grama de BCAA declarado, o pote de 200 cápsulas e o pó 4:1:1 empatam, e o pote de 60 cápsulas é o mais caro. A escolha entre cápsula e pó fica com a rotina e o sabor.",
+        "bullets": [
+          "Quer escolher pelo custo na cápsula: o pote de 200 tem o menor preço por porção.",
+          "Prefere não preparar bebida: BCAA 2400 em cápsulas, de 100 ou de 200, pelo número de porções que você quer no pote.",
+          "Prefere beber a porção misturada em água: BCAA 4:1:1 em pó. Confira a tabela do sabor escolhido, a lista de alergênicos e a vitamina B6 e o carboidrato da porção.",
+          "Para orientação individual, leve a embalagem com as advertências a um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "BCAA 2400 e 4:1:1 são a mesma coisa? Os dois declaram L-leucina, L-isoleucina e L-valina. O 2400 traz 980, 710 e 710 mg em quatro cápsulas; o 4:1:1 traz 2.000, 500 e 500 mg em 7 g de pó, no sabor limão.",
+          "O que a tabela do BCAA declara? A porção, os três aminoácidos em miligramas e, nas cápsulas, nenhuma quantidade significativa de calorias ou carboidratos. O pó declara 15 kcal, 3,7 g de carboidratos e vitamina B6.",
+          "Qual a porção do BCAA Max Titanium? Quatro cápsulas (2,4 g) no 2400 e um dosador de 7 g no 4:1:1. Quantidade por dia, para quem tem condição de saúde, é com médico ou nutricionista.",
+          "Qual pote de BCAA 2400 custa menos por porção? O de 200 cápsulas, no preço de cartão do quadro; depois vem o de 100.",
+          "O cupom dá 10% no BCAA? Dá até 10%, conforme o produto. No BCAA 2400 de 100 cápsulas o carrinho mostrou cerca de 2%."
         ]
       }
     ]

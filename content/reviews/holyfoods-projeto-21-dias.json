@@ -1,0 +1,218 @@
+{
+  "id": 1188,
+  "slug": "holyfoods-projeto-21-dias",
+  "locale": "pt",
+  "title": "Projeto 21 Dias HolyFoods: o que vem no kit, quanto custa por sachê e como preparar",
+  "seoTitle": "Projeto 21 Dias HolyFoods: o que vem e quanto custa",
+  "type": "Guia de Kit",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "O que vem no kit de 21 sachês de sopa, a tabela de cada sabor, quanto custa cada sachê contra o pack e como preparar, com o preço já com o cupom EMCASA.",
+  "metaDescription": "O EMCASA dá 15% OFF na HolyFoods. Projeto 21 Dias: o que vem no kit, a tabela de cada sachê, o preço por sachê e como preparar.",
+  "publishedAt": "20 de novembro de 2026",
+  "publishedAtISO": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa.webp",
+  "imageAlt": "Embalagem do Projeto 21 Dias da HolyFoods com imagens dos três sabores. A capa diz «Projeto 21 Dias vale a pena?» e mostra o código EMCASA.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Leve o kit se você quer começar pelos três sabores sem escolher um a um.",
+      "Leve o pack se você já sabe qual sopa vai repetir: o sachê é o mesmo e sai mais barato.",
+      "Leve qualquer um dos dois se você aceita 15 a 20 minutos de fogão por sachê."
+    ],
+    "skipIf": [
+      "Passe se você procura prato pronto, só de esquentar: todo sachê pede panela.",
+      "Passe o kit se o preço por sachê é o que decide: o pack do mesmo sachê custa menos.",
+      "Passe se você espera do kit um resultado de dieta: o rótulo só declara calorias e nutrientes, e essa conversa é com nutricionista."
+    ]
+  },
+  "cta": {
+    "text": "Se o kit faz sentido para você, entre pelo botão e, na tela Finalizar compra, cole o código EMCASA em Inserir cupom de desconto. Confira os 15% na linha de desconto antes de pagar.",
+    "label": "Ir para a HolyFoods",
+    "url": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "sponsored": true
+  },
+  "coupon": "EMCASA",
+  "affiliate": "holyfoods",
+  "editorialNote": "Feito pelo rótulo e pelo site da loja. Podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "holyfoods-e-boa"
+    },
+    {
+      "slug": "holyfoods-e-confiavel"
+    },
+    {
+      "slug": "cupom-holyfoods-como-usar"
+    },
+    {
+      "slug": "black-friday-holyfoods"
+    },
+    {
+      "slug": "holyfoods-como-preparar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O Projeto 21 Dias reúne sete sachês de cada sopa: Vovó, Low Carb e Canja da Mamãe. Na oferta, o pack de um sabor e o Projeto 30 Dias custam menos por sachê. O de 21 exige um gasto menor para levar os três sabores. Todos levam água quente e preparo no fogão."
+      ]
+    },
+    {
+      "heading": "O que vem no Projeto 21 Dias",
+      "paragraphs": [
+        "A loja informa que são 21 sachês individuais: sete da Sopa da Vovó, sete da Sopa Low Carb e sete da Canja da Mamãe. Você prepara um por vez e escolhe em quais dias usar.",
+        "No kit e nos packs, os sachês pesam 43 g na Vovó, 50 g na Low Carb e 44 g na Canja. As listas de ingredientes podem mudar: a página do pack da Vovó inclui mandioquinha e alho-poró, ausentes na lista do kit. Nos três sabores do kit, a ficha declara derivados de soja. Confira os avisos de alergênicos na embalagem do sabor escolhido."
+      ]
+    },
+    {
+      "heading": "Quanto custa cada sachê, com o EMCASA",
+      "paragraphs": [
+        "O Projeto 21 Dias tem o menor total entre as duas opções com três sabores. O Projeto 30 Dias custa mais no pedido, mas cobra menos por sachê e traz dez unidades de cada sabor."
+      ],
+      "comparisonTable": {
+        "caption": "Preços de 20/11, sem frete. No Projeto 21 Dias, o valor com EMCASA é o total que o checkout mostrou; no pack e no Projeto 30 Dias, é a conta de 15% sobre o preço da campanha.",
+        "headers": [
+          "Opção",
+          "Preço da campanha",
+          "Por sachê",
+          "Com EMCASA"
+        ],
+        "rows": [
+          [
+            "[Projeto 21 Dias](https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 102,90",
+            "R$ 4,90",
+            "R$ 87,47 no checkout"
+          ],
+          [
+            "[Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 41,93",
+            "R$ 4,19",
+            "R$ 35,64 pela conta"
+          ],
+          [
+            "[Projeto 30 Dias](https://www.holyfoods.com.br/products/projeto-30-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "R$ 125,79",
+            "R$ 4,19",
+            "R$ 106,92 pela conta"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "No teste no checkout, o Projeto 21 Dias fechou em R$ 87,47 com o EMCASA, R$ 4,17 por sachê. No pack e no Projeto 30 Dias, os mesmos 15% dariam R$ 3,56 por sachê. Confira no checkout quanto o código tira do seu pedido e quanto fica com o frete.",
+        "Preço de lista por sachê: R$ 7,00 no Projeto 21 Dias e R$ 5,99 no pack e no Projeto 30 Dias. O kit maior empata por sachê com o pack de um sabor.",
+        "Se você quer começar por uma sopa, o [guia da HolyFoods](/reviews/holyfoods-e-boa) compara as versões avulsas."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-pack.webp",
+          "alt": "Pack Sopa da Vovó da HolyFoods com dez sachês, em foto oficial da loja",
+          "caption": "Pack Sopa da Vovó: dez sachês de 43 g, com a mesma tabela do sachê do kit. Foto: HolyFoods.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+        }
+      ],
+      "links": [
+        {
+          "label": "cupom HolyFoods",
+          "href": "/cupons/holyfoods"
+        }
+      ]
+    },
+    {
+      "heading": "O que a tabela de cada sachê diz sobre calorias",
+      "paragraphs": [
+        "O rótulo diz o que cada sachê traz seco, antes de levar água e sal. É essa a base da tabela abaixo: o peso do sachê, 43, 50 e 44 g. Ela não é a mesma base da tabela de 250 g de sopa pronta do artigo de HolyFoods é boa, e por isso os números diferem."
+      ],
+      "comparisonTable": {
+        "caption": "Por sachê seco (43, 50 e 44 g), pela tabela de cada sabor. Açúcares adicionados: 0 nos três.",
+        "headers": [
+          "Sachê",
+          "Calorias",
+          "Carboidratos",
+          "Proteína",
+          "Fibra",
+          "Sódio"
+        ],
+        "rows": [
+          [
+            "Sopa da Vovó, 43 g",
+            "118 kcal",
+            "24 g",
+            "3,1 g",
+            "2,2 g",
+            "54 mg"
+          ],
+          [
+            "Sopa Low Carb, 50 g",
+            "175 kcal",
+            "31 g",
+            "10 g",
+            "7,6 g",
+            "19 mg"
+          ],
+          [
+            "Canja da Mamãe, 44 g",
+            "111 kcal",
+            "17 g",
+            "6,7 g",
+            "1,9 g",
+            "50 mg"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A Low Carb declara mais calorias, proteína e fibra por sachê; a Canja, menos calorias; a Vovó, mais sódio. O que você acrescenta na panela, como sal, ovo ou frango, entra por fora dessa conta."
+      ]
+    },
+    {
+      "heading": "Como preparar um sachê",
+      "paragraphs": [
+        "A ficha do kit indica o fogão, um sachê por vez:"
+      ],
+      "bullets": [
+        "Coloque todo o conteúdo do sachê numa panela com 450 ml de água quente e acerte o sal a gosto.",
+        "Cozinhe de 15 a 20 minutos em fogo médio, com a panela semiaberta, mexendo de vez em quando, até o caldo encorpar.",
+        "Pela ficha, cada sachê rende cerca de 300 g de sopa."
+      ],
+      "postParagraphs": [
+        "A loja avisa para não usar a água dos pacotes maiores: a sopa avulsa pede de 1,1 a 1,2 litro por pacote, e o sachê, 450 ml. Os outros formatos, como risoto e mac, estão no [guia de preparo da HolyFoods](/reviews/holyfoods-como-preparar)."
+      ]
+    },
+    {
+      "heading": "Kit ou pack: para quem vale cada um",
+      "bullets": [
+        "Quer levar os três sabores gastando menos no pedido: Projeto 21 Dias.",
+        "Quer levar os três sabores pagando menos por sachê: Projeto 30 Dias. Para repetir um sabor, escolha o pack desse sabor.",
+        "Quer provar uma sopa só gastando pouco: o avulso, que está comparado no artigo de HolyFoods é boa.",
+        "Não tem de 15 a 20 minutos de fogão: nenhum dos dois resolve, porque todo sachê é cozido na panela.",
+        "Precisa excluir um ingrediente: leia a lista e os alérgenos de cada sabor antes de comprar o kit, que traz os três."
+      ],
+      "emphasis": "O número que decide é o preço por sachê. No kit você paga pela variedade; quem já escolheu o sabor paga menos no pack."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O Projeto 21 Dias emagrece? A tabela mostra de 111 a 175 kcal por sachê seco, e só. O resultado de uma dieta depende do resto da alimentação, e a orientação individual é de nutricionista ou médico.",
+        "O cupom EMCASA entra no Projeto 21 Dias? Entra. No teste no checkout, o código tirou 15% do preço do kit, que já estava com os 30% da campanha. Digite em Inserir cupom de desconto, na tela Finalizar compra, e confira a linha de desconto antes de pagar.",
+        "Dá para comprar um sabor só do Projeto 21 Dias? No kit, não: ele traz sete sachês de cada um dos três sabores. Para um sabor só, a loja vende o pack de sopa, com dez sachês.",
+        "Precisa de sal na sopa do Projeto 21 Dias? A loja indica sal a gosto na panela. Como o sal muda o sódio do prato, a tabela do sachê não cobre o que você acrescentar."
+      ]
+    }
+  ]
+}
