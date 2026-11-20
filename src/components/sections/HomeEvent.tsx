@@ -130,7 +130,7 @@ function EventGuideList({ guides, titleOf, focusRing }: { guides: HomeEventGuide
   return (
     <ul
       id={GUIDES_LIST_ID}
-      className="grid grid-cols-2 gap-2.5 px-4 sm:grid-cols-3 md:gap-3 md:px-0 lg:grid-cols-5 xl:grid-cols-6"
+      className="grid grid-cols-2 gap-2.5 px-4 sm:grid-cols-3 md:gap-3 md:px-0 lg:grid-cols-4 xl:grid-cols-5"
     >
       {guides.map((guide, index) => (
         <li
@@ -154,9 +154,9 @@ function EventGuideCard({ guide, titleOf, focusRing }: { guide: HomeEventGuide; 
       prefetch={false}
       placement="home_event"
       linkLabel={guide.title}
-      className={`flex min-w-0 flex-1 items-center gap-2.5 rounded-[10px] border-2 border-marinho bg-white p-2.5 text-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-0.5 ${focusRing}`}
+      className={`flex min-w-0 flex-1 items-center gap-2 rounded-[10px] border-2 border-marinho bg-white p-2 md:gap-2.5 md:p-2.5 text-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-0.5 ${focusRing}`}
     >
-      <span className="relative flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-full border-2 border-marinho bg-creme">
+      <span className="relative flex size-9 shrink-0 md:size-11 items-center justify-center overflow-hidden rounded-full border-2 border-marinho bg-creme">
         {guide.mark ? (
           <StoreMark tab={guide.mark} imageClassName="h-[53%] w-[74%]" sizes="60px" loading="lazy" />
         ) : (

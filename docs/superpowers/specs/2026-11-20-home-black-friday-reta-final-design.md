@@ -188,3 +188,10 @@ Decisões do Bruno depois da revisão:
 - **Fim do destaque:** fim de 30/11/2026, para cobrir a Cyber Monday (`boost.endsAt` = `2026-12-01T00:00:00-03:00`,
   o mesmo instante do fim da campanha). Isso substitui a decisão 4 do começo: não há período com a seção de 4 cards
   depois do destaque; em 01/12 a seção some e as Receitas voltam.
+
+Depois da revisão do código (20/11/2026):
+
+- **Insider nos 12 primeiros:** a "Seleção da Cecília" (`promocao-insider-selecao-com-cupom`) no lugar do "Masculino",
+  que desce para depois do "Feminino".
+- **Grade:** a sugestão do Gemini, 2 colunas no celular, 3 a partir de `sm`, 4 a partir de `lg` e 5 a partir de `xl`;
+  no celular, a bolinha cai para 36 px e o card fica mais justo (`p-2`, `gap-2`), para o texto ganhar espaço.
