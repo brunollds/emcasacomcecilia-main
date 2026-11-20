@@ -5463,6 +5463,133 @@ const STORE_COUPONS: Coupon[] = [
     status: 'ativo',
     featured: false,
   },
+  {
+    offerMode: 'discount-code',
+    slug: 'biobio',
+    brand: 'BioBio',
+    officialUrl: 'https://biobio.com.br/',
+    // A parceria não tem link próprio (Bruno, 20/11/2026): o botão abre o site oficial.
+    offerUrl: 'https://biobio.com.br/',
+    brandIcon: 'BB',
+    brandLogo: '/images/about/partners/biobio.png',
+    brandLogoAlt: 'Marca BioBio',
+    // O letreiro é largo e não tem símbolo à parte: ocupa o disco laranja quase inteiro, como o da Starlink.
+    bubble: { src: '/images/logos/bolinhas/biobio.png', background: '#F09604', round: true },
+    brandWatermark: '/images/logos/watermarks/biobio.webp',
+    brandColor: '#F09604',
+    cartPrint: {
+      src: '/images/reviews/biobio/cupom-biobio-checkout-com-cupom.webp',
+      alt: 'Resumo da compra no checkout da BioBio com o cupom EMCASABIOBIO aplicado: desconto de R$ 10,49 sobre R$ 104,93, total de R$ 94,44 e 10% de cashback para a próxima compra',
+      aspectRatio: 0.64,
+    },
+    code: 'EMCASABIOBIO',
+    codeFieldLabel: 'Cupom (opcional)',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Protetor solar, maquiagem com FPS e skincare naturais',
+    hubCategory: 'beleza',
+    shortDescription: 'protetor solar, maquiagem com FPS e skincare da BioBio, inclusive os produtos em promoção',
+    longDescription:
+      'O cupom BioBio EMCASABIOBIO dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções e com o cashback da loja: no nosso teste, os 10% entraram num protetor solar que já estava em promoção, e o checkout seguiu mostrando os 10% de cashback para a próxima compra.',
+    metaTitle: 'Cupom BioBio: 10% OFF com EMCASABIOBIO',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom BioBio: EMCASABIOBIO dá 10% OFF em protetor solar e maquiagem com FPS, soma com promoção e com o cashback da loja. Testado no checkout.',
+    eligibleCategories: 'Produtos do site oficial da BioBio, inclusive os que estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping: 'Frete grátis para o Sul e o Sudeste em compras acima de R$ 279, segundo a loja; nas outras regiões e abaixo disso, o frete sai pelo CEP',
+    combinable: 'Soma com as promoções do site e com o cashback de 10% da loja',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, o protetor de R$ 139,90 por R$ 104,93 também ganhou os 10%' },
+      { benefit: 'cashback', stacks: 'sim', condition: 'Com o cupom, o checkout seguiu mostrando os 10% de cashback para a próxima compra; a loja diz que saldo e cupom entram na mesma compra' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix e nas outras formas de pagamento; desconto próprio no Pix é critério da loja' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis para o Sul e o Sudeste acima de R$ 279, segundo a loja; abaixo disso e nas outras regiões, o frete sai pelo CEP' },
+    ],
+    paymentPerks: ['Até 8x sem juros no cartão de crédito'],
+    lastVerified: '2026-11-20',
+    testedAt: '2026-11-20',
+    testNote:
+      'Num carrinho com o Protetor Solar 100% Físico e Mineral (Sunnature FPS 30) em promoção, de R$ 139,90 por R$ 104,93, o EMCASABIOBIO tirou R$ 10,49, 10% do pedido, e o total caiu para R$ 94,44. O resumo da compra seguiu mostrando os 10% de cashback para a próxima compra.',
+    codeInstructions: [
+      'Copie o código EMCASABIOBIO no card acima.',
+      'Acesse o site oficial da BioBio pelo botão indicado, adicione os produtos ao carrinho e clique em Finalizar compra.',
+      'No Resumo da compra, ao lado dos seus dados, clique em Inserir cupom de desconto, digite o código no campo Cupom (opcional) e clique em Adicionar.',
+      'Confira a linha Cupom de desconto, com o valor, e o total antes de seguir para a entrega e o pagamento.',
+    ],
+    aboutBrand:
+      'A BioBio é uma marca brasileira de dermocosméticos de origem natural e veganos: protetores solares minerais, maquiagens com FPS em bastão, como a base multifuncional e o BBS, pó facial com FPS e skincare, vendidos no site oficial. O cupom EMCASABIOBIO é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, também sobre os produtos em promoção.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom EMCASABIOBIO dá na BioBio?',
+        answer:
+          '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 10,49 de um protetor solar de R$ 104,93, e o resumo da compra mostrou o valor na linha Cupom de desconto.',
+      },
+      {
+        question: 'O cupom BioBio vale na primeira compra?',
+        answer: 'Sim. O EMCASABIOBIO vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'Qual cupom BioBio vale para quem já é cliente?',
+        answer: 'O EMCASABIOBIO. Ele dá 10% no site oficial para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O EMCASABIOBIO é cupom de influenciadora da BioBio?',
+        answer: 'Sim. EMCASABIOBIO é o cupom do Em Casa com Cecília na BioBio e dá 10% OFF no site oficial.',
+      },
+      {
+        question: 'O cupom BioBio soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste, o Protetor Solar 100% Físico e Mineral estava em promoção, de R$ 139,90 por R$ 104,93, e o cupom tirou os 10% dele também.',
+      },
+      {
+        question: 'O cupom BioBio soma com o cashback?',
+        answer:
+          'Soma. Com o EMCASABIOBIO aplicado, o resumo da compra seguiu mostrando 10% de cashback para a próxima compra, e a página de cashback da loja diz que saldo e cupom entram na mesma compra. Segundo a loja, o cashback vale em pedidos a partir de R$ 99,90, e o saldo fica disponível por 45 dias.',
+      },
+      {
+        question: 'O cupom EMCASABIOBIO está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o EMCASABIOBIO foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na BioBio?',
+        answer:
+          'No checkout do site oficial, que abre pelo botão Finalizar compra do carrinho: no Resumo da compra, clique em Inserir cupom de desconto, digite EMCASABIOBIO no campo Cupom (opcional) e clique em Adicionar. O cupom entra antes mesmo de você preencher os dados de entrega.',
+      },
+      {
+        question: 'Tem cupom BioBio na Black Friday?',
+        answer:
+          'Tem. O cupom BioBio EMCASABIOBIO dá 10% OFF no site oficial e, no nosso teste de novembro, entrou também num protetor solar em promoção do Black Month da loja.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete, mas a loja dá frete grátis para o Sul e o Sudeste em compras acima de R$ 279. Nas outras regiões, e abaixo desse valor, o frete aparece no checkout depois do CEP.',
+      },
+      {
+        question: 'Como funciona a troca na BioBio?',
+        answer:
+          'Pela política da loja, a desistência pode ser pedida em até 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O pedido é feito pelo e-mail sac@biobio.com.br ou pelo WhatsApp do SAC, com o número do pedido.',
+      },
+      {
+        question: 'O que fazer se o cupom EMCASABIOBIO não funcionar?',
+        answer:
+          'Confira se o código foi digitado inteiro, sem espaços, no campo Cupom (opcional) do resumo da compra, e se clicou em Adicionar. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'Soma com os preços em promoção e com o cashback da loja',
+    },
+    status: 'ativo',
+    featured: false,
+  },
 ];
 
 export const COUPONS: Coupon[] = STORE_COUPONS.map(withMercadoLivreCouponsFaq);

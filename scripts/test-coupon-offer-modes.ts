@@ -107,6 +107,7 @@ const newPartners = [
   { slug: 'gocase', code: 'CECILIAA', discountNumber: 5, hubCategory: 'diversos', offerUrl: 'https://gocase.gogroup.com.br/emcasacomcecilia' },
   { slug: 'colaedecora', code: 'EMCASACOMCECILIA', discountNumber: 10, hubCategory: 'casa', offerUrl: 'https://www.lojacolaedecora.com.br/' },
   { slug: 'denavita', code: 'EMCASA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://denavita.gogroup.com.br/emcasacomcecilia' },
+  { slug: 'biobio', code: 'EMCASABIOBIO', discountNumber: 10, hubCategory: 'beleza', offerUrl: 'https://biobio.com.br/' },
 ] as const;
 for (const partner of newPartners) {
   const store = getCouponBySlug(partner.slug);
@@ -411,8 +412,8 @@ assert.deepEqual(getPendingLimitedCodes(linkWithWindows, Date.parse('2026-01-06T
 
 // A abertura da página de loja responde "tem cupom <loja>?": começa por "O cupom <loja>" e, nas lojas em que o código vale
 // para cliente novo e antigo, diz isso cedo (Bruno, 12/11/2026, a partir do teste da Insider no Perplexity).
-const storeNameFirst = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'skelt', 'bagaggio', 'toda-up', 'simple-organic', 'holyfoods', 'petz', 'prohall', 'la-ganexa', 'baw', 'lamazonie', 'rituaria', 'adaptogen', 'barbours', 'bold', 'pinkcheeks', 'gocase', 'colaedecora', 'denavita', 'hostinger'];
-const newAndReturning = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'skelt', 'toda-up', 'simple-organic', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'bagaggio', 'holyfoods', 'petz', 'prohall', 'la-ganexa', 'baw', 'lamazonie', 'rituaria', 'adaptogen', 'barbours', 'bold', 'pinkcheeks', 'gocase', 'colaedecora', 'denavita', 'hostinger'];
+const storeNameFirst = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'skelt', 'bagaggio', 'toda-up', 'simple-organic', 'holyfoods', 'petz', 'prohall', 'la-ganexa', 'baw', 'lamazonie', 'rituaria', 'adaptogen', 'barbours', 'bold', 'pinkcheeks', 'gocase', 'colaedecora', 'denavita', 'hostinger', 'biobio'];
+const newAndReturning = ['damie', 'dolce-gusto', 'nestle-nutre', 'i-wanna-sleep', 'skelt', 'toda-up', 'simple-organic', 'letseatit', 'insider', 'probiotica', 'max-titanium', 'dr-peanut', 'black-skull', 'clea-store', 'belive', 'mais-mu', 'bagaggio', 'holyfoods', 'petz', 'prohall', 'la-ganexa', 'baw', 'lamazonie', 'rituaria', 'adaptogen', 'barbours', 'bold', 'pinkcheeks', 'gocase', 'colaedecora', 'denavita', 'hostinger', 'biobio'];
 for (const slug of storeNameFirst) {
   const coupon = getCouponBySlug(slug);
   assert.ok(coupon?.longDescription.startsWith(`O cupom ${coupon.brand} `), `${slug}: a abertura começa por "O cupom ${coupon?.brand}"`);
@@ -534,4 +535,4 @@ for (const coupon of COUPONS) {
   }
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Prohall, La Ganexa, BAW Clothing, L'Amazonie, Rituária, Adaptogen, Barbour's Beauty, BOLD Snacks, Pink Cheeks, Gocase, Cola e Decora, Denavita, Hostinger, Starlink e prateleiras do hub conferidos.");
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Prohall, La Ganexa, BAW Clothing, L'Amazonie, Rituária, Adaptogen, Barbour's Beauty, BOLD Snacks, Pink Cheeks, Gocase, Cola e Decora, Denavita, Hostinger, Starlink, BioBio e prateleiras do hub conferidos.");
