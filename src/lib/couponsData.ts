@@ -5424,7 +5424,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Como funciona a indicação da Starlink?',
         answer:
-          'Pela central de ajuda da Starlink, lida em 19/11/2026, quem assina pelo link e quem indicou recebem o mesmo valor depois que a nova assinatura completa dois meses; no Brasil, R$ 200. Por padrão, o valor entra como crédito de serviço e é descontado da fatura seguinte. Onde a Starlink oferece, dá para trocar por dinheiro na aba Indicações da conta.',
+          'Pela central de ajuda da Starlink, lida em 19/11/2026, quem assina pelo link e quem indicou recebem o mesmo valor depois que a nova assinatura completa dois meses. No Brasil, o valor é R$ 200. Por padrão, o valor entra como crédito de serviço e é descontado da fatura seguinte. Onde a Starlink oferece, dá para trocar por dinheiro na aba Indicações da conta.',
       },
       {
         question: 'Quem pode receber os R$ 200 da indicação?',
