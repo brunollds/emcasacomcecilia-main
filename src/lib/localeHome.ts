@@ -19,7 +19,7 @@ import { brandLinks } from '@/lib/brandLinks';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getStoreCodeKind } from '@/lib/couponsData';
 import { TRANSLATED_LOCALES } from '@/lib/couponTranslations';
-import { CECILIA_PHOTO, getStoreCode, newestArticleRank, type HomeLatestArticle } from '@/lib/homeStores';
+import { CECILIA_PHOTO, getStoreCode, getStoreMark, newestArticleRank, type HomeLatestArticle } from '@/lib/homeStores';
 import type { HomeStoreArticle, HomeStoreTab } from '@/lib/homeStoreTabs';
 import { LOCALES } from '@/lib/i18n/locales';
 import { SITE_URL, absoluteUrl } from '@/lib/pageSeo';
@@ -112,8 +112,7 @@ export function getLocaleHomeStoreTabs(locale: LocaleHomeLocale, reviews: HubRev
       return {
         slug: coupon.slug,
         brand: coupon.brand,
-        logo: coupon.brandLogo ? resolveMediaUrl(coupon.brandLogo) : undefined,
-        initials: coupon.brandIcon,
+        ...getStoreMark(coupon),
         label: code ? getCodeTitle(sidebar, kind, coupon.brand) : coupon.brand,
         code,
         copyAria: code ? labels.copyCoupon(code) : '',
