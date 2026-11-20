@@ -9,7 +9,7 @@ revisao_geral_ate: "2026-12-19"
 # Dossiê Factual: Starlink
 
 Loja de link de indicação, cadastrada em 19/11/2026 a pedido do Bruno ("adicionar a starlink como link de indicação
-(oferece R$200,00 para novos usuarios)"). Página `/cupons/starlink`, só em português. Internet via satélite da SpaceX,
+(oferece R$200,00 para novos usuarios)"). Página `/cupons/starlink` e, desde 19/11/2026 (com o GO do Bruno, #1265), `/<idioma>/coupons/starlink` nos 9 outros idiomas, com o mesmo link (`INTERNATIONAL_STORES`); fora do PT, o valor muda por país, e o exemplo é o dos EUA (US$ 100). Internet via satélite da SpaceX,
 com pedido em `starlink.com/br`. Não é afiliação com comissão: é o programa de indicação de cliente da Starlink, na conta
 do Bruno. Quem assina pelo link e quem indicou recebem o mesmo valor.
 
