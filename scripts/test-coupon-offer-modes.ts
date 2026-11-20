@@ -207,6 +207,17 @@ assert.equal(
   'https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers'
 );
 
+// Starlink (19/11/2026): indicação por link, sem código. Os R$ 200 não são desconto no pedido, e a página não cita
+// preço de plano nem promoção da Starlink, que mudam sem aviso.
+const starlink = getCouponBySlug('starlink');
+assert.ok(starlink && starlink.offerMode === 'affiliate-link', 'Starlink deve existir como affiliate-link');
+assert.equal('code' in starlink, false);
+assert.equal(starlink.offerUrl, 'https://starlink.com/?referral=RC-DF-17132118-63432-88');
+const starlinkShown = [starlink.longDescription, starlink.metaDescription, starlink.combinable, starlink.linkNote, ...(starlink.linkInstructions ?? []), ...starlink.faqs.flatMap((faq) => [faq.question, faq.answer])].join(' ');
+assert.doesNotMatch(starlinkShown, /R\$ ?(?!200\b)\d/, 'starlink: valor em reais que não é o da indicação');
+assert.doesNotMatch(starlinkShown, /\bcupom (Starlink|da Starlink) [A-Z0-9]/, 'starlink: a indicação não tem código');
+assert.ok(starlink.metaDescription.length <= 155, 'starlink: metaDescription longa');
+
 // Hostinger (29/10/2026): programa de agências do Bruno. O SONAR20 vale digitado no carrinho e também vai no
 // link de indicação; o código antigo (SONARDEOFERTAS) não pode sobrar em lugar nenhum.
 const hostinger = getCouponBySlug('hostinger');
@@ -507,7 +518,7 @@ for (const coupon of COUPONS) {
 for (const slug of ['dolce-gusto', 'nestle-nutre']) {
   const coupon = getCouponBySlug(slug);
   const shown = [coupon?.reusable, coupon?.longDescription, coupon?.metaDescription, coupon?.eligibleCategories, coupon?.combinable, coupon?.offerMode === 'discount-code' ? coupon.testNote : '', ...(coupon?.faqs ?? []).flatMap((faq) => [faq.question, faq.answer])].join(' ');
-  assert.doesNotMatch(shown, /(3|três) (usos|vezes)/i, `${slug}: a página cita o limite de usos do CECI`);
+  assert.doesNotMatch(shown, /\b(3|três) (usos|vezes)\b/i, `${slug}: a página cita o limite de usos do CECI`);
 }
 
 // A pergunta "está funcionando hoje?" não repete a data do teste: ela envelhece a cada teste novo (a da Insider chamava
@@ -523,4 +534,4 @@ for (const coupon of COUPONS) {
   }
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Prohall, La Ganexa, BAW Clothing, L'Amazonie, Rituária, Adaptogen, Barbour's Beauty, BOLD Snacks, Pink Cheeks, Gocase, Cola e Decora, Denavita, Hostinger e prateleiras do hub conferidos.");
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Prohall, La Ganexa, BAW Clothing, L'Amazonie, Rituária, Adaptogen, Barbour's Beauty, BOLD Snacks, Pink Cheeks, Gocase, Cola e Decora, Denavita, Hostinger, Starlink e prateleiras do hub conferidos.");

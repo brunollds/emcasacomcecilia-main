@@ -43,8 +43,8 @@ export type CouponHubCategory = (typeof COUPON_HUB_CATEGORIES)[number]['id'];
 // A marca da loja na bolinha (a vitrine da home e as bolinhas de /reviews): o símbolo num PNG ou WebP de 512 × 512 com
 // fundo transparente, centralizado e com a margem óptica no próprio arquivo (regra no docs/GUIA-MIDIA-EDITORIAL.md).
 // `background` (#rrggbb) só quando o fundo é parte da marca; sem ele, o disco é creme.
-// `round`: a marca já é um selo redondo (a Dolce Gusto) e ocupa o disco quase inteiro, em vez dos 64% de um logo
-// que precisa de margem.
+// `round`: a marca ocupa o disco quase inteiro, em vez dos 64% de um logo que precisa de margem: o selo redondo da
+// Dolce Gusto e o letreiro largo da Starlink, que não tem símbolo à parte.
 export type CouponBubble = { src: string; background?: string; round?: boolean };
 
 interface CouponBase {
@@ -5366,6 +5366,97 @@ const STORE_COUPONS: Coupon[] = [
       scope: 'em todos os planos',
       note: 'Vale na compra nova, para clientes novos e antigos, em planos mensais ou anuais; a renovação sai sem desconto',
     },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'affiliate-link',
+    slug: 'starlink',
+    brand: 'Starlink',
+    officialUrl: 'https://www.starlink.com/br',
+    // Link de indicação da conta do Bruno, como veio dele (19/11/2026): R$ 200 para quem assina pela primeira vez, e o
+    // mesmo valor para quem indicou. Não editar nem conferir clicando: a indicação só conta para o pedido feito pelo link.
+    offerUrl: 'https://starlink.com/?referral=RC-DF-17132118-63432-88',
+    brandIcon: 'S',
+    brandLogo: '/images/about/partners/starlink.png',
+    brandLogoAlt: 'Marca Starlink',
+    // O letreiro é largo e não tem símbolo à parte: ocupa o disco preto quase inteiro, como o selo da Dolce Gusto.
+    bubble: { src: '/images/logos/bolinhas/starlink.png', background: '#000000', round: true },
+    brandWatermark: '/images/logos/watermarks/starlink.webp',
+    brandColor: '#000000',
+    discount: 'R$ 200 de bônus',
+    offerTypeLabel: 'indicação',
+    offerTypeLabelPlural: 'indicações',
+    offerActionLabel: 'Assinar pelo link de indicação',
+    category: 'Internet via satélite',
+    hubCategory: 'diversos',
+    hubCard: 'reduzido',
+    shortDescription: 'R$ 200 para quem assina a Starlink pela primeira vez pelo link de indicação da Cecília',
+    longDescription:
+      'Quem assina a Starlink pela primeira vez pelo link de indicação da Cecília recebe R$ 200 depois de dois meses de assinatura, por padrão como crédito na fatura. Vale nos planos Residencial e Viagem pedidos em starlink.com, sem código para copiar. O pedido sai pelo preço que a Starlink mostra no dia, e ela dá 30 dias de teste com reembolso integral.',
+    metaTitle: 'Indicação Starlink: R$ 200 pelo link da Cecília',
+    metaDescription:
+      'Indicação Starlink: R$ 200 para quem assina pela primeira vez pelo link da Cecília, em crédito na fatura depois de dois meses. Residencial e Viagem.',
+    eligibleCategories:
+      'Primeira assinatura de um plano Residencial (Lite, 100 Mbps, 200 Mbps, Residencial e Máx) ou Viagem (100 GB, 300 GB e Ilimitado), pedida em starlink.com pelo link',
+    validity: 'Indicação ativa enquanto o programa de indicação da Starlink estiver valendo; o valor é o que a Starlink paga no Brasil',
+    reusable: 'Só para quem nunca foi cliente da Starlink: clientes atuais e antigos não recebem o valor',
+    shipping: 'O preço do kit e da entrega aparece no pedido, em starlink.com, depois do endereço',
+    combinable:
+      'Os R$ 200 não são desconto no pedido: entram depois de dois meses de assinatura, e o pedido segue com o preço e as promoções que a Starlink mostrar no dia',
+    lastVerified: '2026-11-19',
+    linkInstructions: [
+      'Toque em “Assinar pelo link de indicação”: o link da Cecília abre o site oficial da Starlink, sem código para copiar.',
+      'Informe o endereço, escolha um plano Residencial ou Viagem e faça o pedido pelo próprio link: pedido sem o link, por revendedor ou em marketplace não conta como indicação, e ela não pode ser incluída depois.',
+      'Pague o primeiro mês e ative o kit.',
+      'Com dois meses de assinatura, os R$ 200 entram na conta, por padrão como crédito descontado da fatura seguinte.',
+    ],
+    linkNote:
+      'A indicação vale só para quem nunca foi cliente da Starlink e só no pedido feito em starlink.com pelo link. Quem indicou recebe o mesmo valor.',
+    aboutBrand:
+      'A Starlink é a internet via satélite da SpaceX, com planos residenciais e de viagem e um kit de configuração plug and play. No Brasil, o pedido é feito em starlink.com, com 30 dias de teste e reembolso integral. Esta página traz o link de indicação da Cecília: quem assina por ele pela primeira vez recebe R$ 200, e o Em Casa com Cecília recebe o mesmo valor, sem custo adicional para quem assina.',
+    faqs: [
+      {
+        question: 'Tem cupom de desconto da Starlink?',
+        answer:
+          'Não há código para colar: o benefício é o link de indicação da Cecília. Quem assina a Starlink pela primeira vez por ele recebe R$ 200 depois de dois meses de assinatura, por padrão como crédito na fatura.',
+      },
+      {
+        question: 'Como funciona a indicação da Starlink?',
+        answer:
+          'Pela central de ajuda da Starlink, lida em 19/11/2026, quem assina pelo link e quem indicou recebem o mesmo valor depois que a nova assinatura completa dois meses; no Brasil, R$ 200. Por padrão, o valor entra como crédito de serviço e é descontado da fatura seguinte. Onde a Starlink oferece, dá para trocar por dinheiro na aba Indicações da conta.',
+      },
+      {
+        question: 'Quem pode receber os R$ 200 da indicação?',
+        answer:
+          'Quem nunca foi cliente da Starlink e assina um plano Residencial ou Viagem em starlink.com pelo link. Clientes atuais e antigos não recebem, e kits de revendedor, compras em marketplace e transferências de conta não entram.',
+      },
+      {
+        question: 'O link de indicação da Starlink vale fora do Brasil?',
+        answer:
+          'Vale. Pela central de ajuda da Starlink, a indicação funciona na maioria dos países onde a Starlink está disponível, sempre com o pedido feito em starlink.com pelo link. O valor depende do país em que a pessoa se cadastra: os R$ 200 valem para o Brasil, e em outro país o valor pode ser diferente.',
+      },
+      {
+        question: 'Comprei a Starlink sem o link. Dá para incluir a indicação depois?',
+        answer:
+          'Não. Pela central de ajuda da Starlink, a indicação só é registrada quando o pedido é feito pelo link; pedido sem ele, ou pelo link de outra pessoa, não pode ser ajustado depois.',
+      },
+      {
+        question: 'A Starlink tem período de teste?',
+        answer:
+          'Tem. Pela página da Starlink lida em 19/11/2026, são 30 dias de teste: se não ficar satisfeito, a Starlink devolve o valor integral.',
+      },
+      {
+        question: 'Preciso copiar algum código para receber os R$ 200?',
+        answer:
+          'Não. Basta fazer o pedido em starlink.com pelo botão desta página: o link já leva a indicação, e o valor aparece depois na aba Indicações da sua conta Starlink.',
+      },
+      {
+        question: 'Assinar pelo link apoia o Em Casa com Cecília?',
+        answer:
+          'Sim. Pelo programa da Starlink, quem indicou recebe o mesmo valor de quem assina, sem custo adicional para você.',
+      },
+    ],
     status: 'ativo',
     featured: false,
   },
