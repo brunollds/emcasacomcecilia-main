@@ -3,7 +3,7 @@ import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { COUPON_HUB_COPY, PT_COUPON_HUB_TEXT, type CouponHubText } from '@/components/coupons/couponHubCopy';
 import { getYesStylePage } from '@/components/coupons/yesstyleCopy';
 import { getCouponBySlug, type Coupon } from '@/lib/couponsData';
-import { getCouponStorePath, getLocalizedCoupon, getTranslatedCouponSlugs, type TranslatedLocale } from '@/lib/couponTranslations';
+import { getCouponStorePath, getLocalizedCoupon, getTranslatedCouponSlugs, isHubFeaturedStore, type TranslatedLocale } from '@/lib/couponTranslations';
 import { getYesStyleLocaleConfig } from '@/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { absoluteUrl, SITE_URL } from '@/lib/pageSeo';
@@ -85,9 +85,12 @@ export function getCouponHubEntries(locale: TranslatedLocale): CouponHubEntry[] 
   return [{ coupon: getYesStyleHubCoupon(locale), href: getYesStyleLocaleConfig(locale).hubPath, upTo: true }, ...stores];
 }
 
+// Destaques: a YesStyle e as lojas com `hubFeatured`; o resto vai à prateleira.
 export function getCouponHubShelves(locale: TranslatedLocale) {
-  const [featured, ...shelf] = getCouponHubEntries(locale);
-  return { featured: featured ? [featured] : [], shelf };
+  const [yesstyle, ...stores] = getCouponHubEntries(locale);
+  const featured = stores.filter(({ coupon }) => isHubFeaturedStore(coupon.slug));
+  const shelf = stores.filter(({ coupon }) => !isHubFeaturedStore(coupon.slug));
+  return { featured: [yesstyle, ...featured], shelf };
 }
 
 // A data do mês da oferta é a conferência mais recente entre as lojas que o hub mostra.
