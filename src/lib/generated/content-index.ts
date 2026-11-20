@@ -138898,6 +138898,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual Skelt bronzeia mais? Segundo a Skelt, o Mousse Autobronzeador Dark e a [Água Autobronzeadora Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 129,90 cada) têm o tom 2x mais intenso que as versões tradicionais.",
+          "Skelt: melhor água ou mousse? Para quem está começando, o mousse: ele tem cor-guia, e a Skelt o marca como nível iniciante. A água é incolor, indicada pela loja para quem já tem prática, e diminui a chance de manchar a roupa. Intensidade, duração e rendimento são parecidos; a comparação completa está no capítulo Mousse ou água, acima.",
           "Qual Skelt não mancha a roupa? Nenhum garante que não mancha. Água, Água Dark e Gel são incolores, sem cor-guia; na página da Água, a Skelt diz que isso diminui a chance de manchar a roupa, e os três pedem mais experiência na aplicação. Em qualquer produto, espere secar antes de se vestir.",
           "Quanto tempo o autobronzeador Skelt leva para fazer efeito? Depende do produto: no Mousse, 3 a 5 horas dão bronze médio e 6 a 8 horas, bronze forte; no Gel, 4 e 8 horas; no Bifásico, 8 horas. Depois do banho, a marca diz que a cor leva 24 horas para se desenvolver por completo.",
           "Quanto tempo dura o bronzeado? Segundo a Skelt, de 7 a 12 dias nos autobronzeadores de corpo.",
