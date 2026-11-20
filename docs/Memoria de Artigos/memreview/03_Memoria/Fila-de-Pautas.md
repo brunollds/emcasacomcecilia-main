@@ -31,8 +31,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | BI4 | Base BioBio em bastão: os 8 tons, o FPS 33 e como escolher a cor | BioBio (EMCASABIOBIO, 10%, sem link) | PT | [[base-biobio-bastao-cores]]; fatos em [[biobio-fatos-2011]] (20/11) | Briefing com GO do Bruno em 20/11; espera a redação |
 | BI5 | BioBio é confiável? Quem vende, Reclame Aqui (pouco volume), entrega e trocas | BioBio (EMCASABIOBIO, 10%, sem link) | PT | [[biobio-e-confiavel]]; fatos em [[biobio-fatos-2011]] (20/11) | Briefing com GO do Bruno em 20/11; espera a redação |
 | BI6 | Cupom BioBio primeira compra (série de primeira compra) | BioBio (EMCASABIOBIO, 10%, sem link) | PT | [[cupom-biobio-primeira-compra]]; fatos em [[biobio-fatos-2011]] (20/11) | Briefing com GO do Bruno em 20/11; espera a redação |
-| BO7 | Whey BOLD é bom? O rótulo do 3W, 450 g ou 900 g e o preço por dose com o cupom (lacuna do diagnóstico de vendas) | BOLD Snacks (CECILIA15) | PT | [[whey-bold-e-bom]]; fatos em [[bold-fatos-1811]] (seção 10, 20/11) | Briefing com GO do Bruno em 20/11; espera a redação |
-| BO8 | Barra BOLD 21 g ou 14 g? A tabela de cada linha e o preço por proteína (sem repetir o veredito da BO5) | BOLD Snacks (CECILIA15) | PT | [[barra-bold-21g-ou-14g]]; fatos em [[bold-fatos-1811]] (seção 10, 20/11) | Briefing com GO do Bruno em 20/11; espera a redação |
+| BO7 | Whey BOLD é bom? O rótulo do 3W, 450 g ou 900 g e o preço por dose com o cupom (lacuna do diagnóstico de vendas) | BOLD Snacks (CECILIA15) | PT | [[whey-bold-e-bom]]; fatos em [[bold-fatos-1811]] (seção 10, 20/11) | Redigida em 20/11, no PR com a BO8; espera deploy |
+| BO8 | Barra BOLD 21 g ou 14 g? A tabela de cada linha e o preço por proteína (sem repetir o veredito da BO5) | BOLD Snacks (CECILIA15) | PT | [[barra-bold-21g-ou-14g]]; fatos em [[bold-fatos-1811]] (seção 10, 20/11) | Redigida em 20/11, no PR com a BO7; espera deploy |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -267,7 +267,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | Artigo | Mudança | Origem |
 |---|---|---|
 | Família `proton-vpn-e-confiavel` (PN2, 10 idiomas) | Fora do PT, a reputação dos parceiros internacionais sai do Trustpilot (SHEIN, Hostinger e YesStyle), mas nenhuma versão da PN2 cita o Trustpilot. Ler o perfil da Proton no Trustpilot no dia (nota, número de avaliações, se o perfil é reivindicado e se a empresa convida clientes) e pôr uma seção nos 9 idiomas, com o Reclame Aqui seguindo só no PT. Sem avaliação individual. Pedido do Bruno: "depois" | Pesquisa da Starlink, 19/11 |
-| `barra-bold-e-boa` (BO5) | Na seção "14 g, Crunch, Wafer ou Tube: por onde escolher", uma frase com link para a BO8 (`barra-bold-21g-ou-14g`) quando ela for ao ar | BO8, 20/11 |
+| `barra-bold-e-boa` (BO5) | Na seção "14 g, Crunch, Wafer ou Tube: por onde escolher", uma frase com link para a BO8 (`barra-bold-21g-ou-14g`) quando ela for ao ar: **feito no mesmo PR da BO8 (20/11)** | BO8, 20/11 |
 | `yesstyle-ou-stylekorean` (SK1, 10 idiomas) | **Na Black Friday:** reler preços e notas. A frase dos convites e o link da SK2 já estão no ar | Fatos da SK2, 09/11 |
 | `hostinger-renovacao-cupom-sonar20` (e o quadro `-barras-` dos 10 idiomas) | Conferir o prazo da renovação: a página de planos diz "Renovação automática… pelo mesmo período", mas o carrinho diz "Renova após 48 meses por R$ 23,99/mês a cada 12 meses" (Single, 06/11). O quadro diz "renova pelo mesmo período". Ler o carrinho de novo e, se o carrinho valer, corrigir o texto e o quadro | Redação da H9, 06/11 |
 | `camiseta-feminina-insider-qual-escolher` e `camiseta-insider-qual-escolher` | Cupom na Daily: o feminino diz "confira no carrinho", o masculino diz que a Daily não aceita cupom. Só mudar com o teste no carrinho (conflito 5 da R7). O resto da linha da R7 (lavagem com link, notas, Core e 2 cm, dossiê) saiu no PR de 06/11 | Rodada R7, 05/11 |

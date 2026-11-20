@@ -1,0 +1,377 @@
+{
+  "id": 1186,
+  "slug": "whey-bold-e-bom",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "20 de novembro de 2026",
+  "publishedAtISO": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIA15",
+  "affiliate": "bold",
+  "type": "Guia de Marca",
+  "title": "Whey BOLD é bom? O rótulo do 3W, 450 g ou 900 g e o preço por dose com o cupom",
+  "seoTitle": "Whey BOLD é bom? Rótulo, 450 g ou 900 g e preço",
+  "description": "O que o rótulo do whey BOLD 3W mostra, quanta proteína vem em cada dose, se compensa o pacote de 450 g, o de 900 g ou o sachê e quanto sai com o código.",
+  "metaDescription": "CECILIA15 dá 20% OFF no whey BOLD. Veja o rótulo do 3W, a proteína por dose, 450 g ou 900 g e o preço por dose com o código.",
+  "image": "/images/reviews/bold/whey-bold-e-bom-capa.webp",
+  "imageAlt": "Pacote do Whey BOLD Chocolate ao Leite de 900 g ao lado de um copo de shake, com pedaços de chocolate, fundo de azulejo vermelho, em foto da BOLD Snacks com o logo da marca, os textos «Whey BOLD é bom?» e o código CECILIA15.",
+  "cta": {
+    "text": "Se o whey serve para a sua compra, abra o site oficial pelo botão. O código entra no checkout, no campo Código de desconto ou cartão-presente.",
+    "label": "Ir para a BOLD Snacks",
+    "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com as páginas e os rótulos do site oficial, sem uso do produto; só o código foi testado no carrinho. Somos parceiros da BOLD Snacks e podemos receber comissão pelo link e pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "barra-bold-e-boa"
+    },
+    {
+      "slug": "barra-bold-21g-ou-14g"
+    },
+    {
+      "slug": "cupom-bold-snacks-como-usar"
+    },
+    {
+      "slug": "black-friday-bold-snacks"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer 22 g de proteína por dose de 30 g, sem açúcar adicionado, e vai usar o pacote de 900 g até o fim, que é o formato que sai mais barato por dose.",
+      "Você aceita lactose e glúten na declaração do rótulo e, pela conta por 100 g de proteína com o código, o preço cabe para você."
+    ],
+    "skipIf": [
+      "Você tem intolerância à lactose ou doença celíaca: o rótulo declara os dois, e a conversa é com o seu médico ou nutricionista.",
+      "Sua régua é o menor preço por proteína: há wheys dos nossos outros artigos que custam menos por 100 g, como mostra a comparação com outras marcas."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O whey BOLD é um 3W, com proteína do soro do leite concentrada, isolada e hidrolisada. A tabela traz 22 g de proteína por dose de 30 g e 0 g de açúcar adicionado. O rótulo declara lactose e glúten. O pacote de 900 g sai mais barato por dose, e o cupom CECILIA15 deu 20% no nosso teste."
+      ]
+    },
+    {
+      "heading": "O que tem no pacote do whey BOLD",
+      "paragraphs": [
+        "A dose é de 30 g, um dosador, em 200 ml de água ou de leite. No Chocolate ao Leite, a tabela da dose mostra 118 kcal, 2,7 g de carboidratos, 2,2 g de açúcares totais (0 g adicionados), 22 g de proteínas, 2 g de gorduras totais, 1,3 g de saturadas e 46 mg de sódio.",
+        "Pela nossa conta, 22 g em 30 g são 73,3 g de proteína a cada 100 g de pó. Essa porcentagem é a base de todas as contas de preço deste guia.",
+        "A lista de ingredientes traz proteína de soro do leite concentrada, isolada e hidrolisada, espessantes goma guar e goma xantana, o edulcorante sucralose e aromatizantes, mais o que muda de sabor para sabor, como o cacau em pó do Chocolate ao Leite. Na página, a loja pede para consumir o preparo na hora e, depois de aberto, o pacote em até 180 dias."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bold/whey-bold-e-bom-tabela-nutricional.webp",
+          "alt": "Pacote do Whey BOLD Chocolate ao Leite com a tabela nutricional e a lista de ingredientes impressas ao lado, em foto da BOLD Snacks",
+          "caption": "Whey BOLD Chocolate ao Leite com a tabela nutricional e os ingredientes impressos ao lado; a imagem traz 117 kcal, e a tabela em texto da página, 118. Foto: BOLD Snacks.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "O whey BOLD tem lactose e glúten?",
+      "paragraphs": [
+        "O rótulo diz: “contém derivados de leite”, “contém lactose” e “contém glúten”. A lista de “pode conter” traz amêndoa, amendoim, avelãs, castanha-de-caju, castanha-do-pará e soja.",
+        "O Doce de Leite tem alerta diferente: “contém derivados de leite e soja”, com um asterisco que a página explica como ingrediente usado na instantaneização da proteína do soro, e o “pode conter” inclui também aveia, centeio, cevada e trigo. Quem tem doença celíaca, intolerância à lactose ou alergia confere o alerta impresso no pacote do sabor escolhido e fala com o médico ou o nutricionista."
+      ]
+    },
+    {
+      "heading": "O que é whey 3W",
+      "paragraphs": [
+        "3W é o nome comercial de um whey que mistura três formas da proteína do soro do leite: concentrada, isolada e hidrolisada, que passam por processos diferentes depois de separadas do leite.",
+        "No whey BOLD, a lista cita concentrada, isolada e hidrolisada, nessa ordem. O rótulo não traz quanto há de cada uma, então o 3W aqui diz de que a mistura é feita, não que ela seja melhor ou pior que um whey só concentrado. O que vale para comparar é a proteína da tabela: 22 g por dose."
+      ]
+    },
+    {
+      "heading": "450 g, 900 g ou sachê: qual compensa",
+      "paragraphs": [
+        "A loja informa: o pacote de 900 g tem 30 doses e custa R$ 329,00; o de 450 g tem 15 doses e custa R$ 189,00; o kit com 10 sachês de 30 g custa R$ 139,00. Os valores são de compra única, em 20/11. A própria loja mostra R$ 10,97 por dose no 900 g e R$ 12,60 no 450 g, e a conta bate."
+      ],
+      "comparisonTable": {
+        "caption": "Compra única, sem frete e sem código. A dose é de 30 g, com 22 g de proteína. Por 100 g de proteína: preço ÷ (doses × 22) × 100.",
+        "headers": [
+          "Formato",
+          "Doses de 30 g",
+          "Preço",
+          "Por dose",
+          "Por 100 g de proteína"
+        ],
+        "rows": [
+          [
+            "Pacote de 900 g",
+            "30",
+            "R$ 329,00",
+            "R$ 10,97",
+            "R$ 49,85"
+          ],
+          [
+            "Pacote de 450 g",
+            "15",
+            "R$ 189,00",
+            "R$ 12,60",
+            "R$ 57,27"
+          ],
+          [
+            "Kit com 10 sachês de 30 g",
+            "10",
+            "R$ 139,00",
+            "R$ 13,90",
+            "R$ 63,18"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Conta nossa: dois pacotes de 450 g custam R$ 378,00 para 30 doses, R$ 49,00 a mais que o pacote de 900 g. O de 450 g serve para conhecer o produto antes de levar o maior; o de 900 g serve para quem vai consumir as 30 doses. O sachê é o mais caro por dose e o mais fácil de levar na bolsa."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bold/whey-bold-e-bom-450g.webp",
+          "alt": "Pacote de 450 g do Whey BOLD Doce de Leite com os selos 450 gramas, 22 g de proteína e 15 doses, em foto da BOLD Snacks",
+          "caption": "Pacote de 450 g, Doce de Leite, com os selos de 450 gramas, 22 g de proteína e 15 doses. Foto: BOLD Snacks.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/bold/whey-bold-e-bom-sache.webp",
+          "alt": "Display com 10 sachês de whey BOLD, com os selos 10 unidades, 22 g de proteína e 5 sabores, em foto da BOLD Snacks",
+          "caption": "Display com 10 sachês, com os selos de 10 unidades, 22 g de proteína e 5 sabores. Foto: BOLD Snacks.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Quanto custa a proteína do whey BOLD perto de outros wheys",
+      "paragraphs": [
+        "A comparação usa só números que já publicamos, na mesma conta de preço por 100 g de proteína e sem código. Os preços dos outros artigos foram lidos entre o fim de outubro e o começo de novembro; abra o link antes de decidir."
+      ],
+      "comparisonTable": {
+        "caption": "Preço de venda de cada artigo indicado, sem cupom e sem Pix, e preço por 100 g de proteína. O whey BOLD vem em pacote; nas outras marcas, a linha diz se é pote ou refil.",
+        "headers": [
+          "Whey",
+          "Artigo",
+          "Por 100 g de proteína"
+        ],
+        "rows": [
+          [
+            "Max Titanium 100% Whey, refil de 900 g",
+            "[Whey Max Titanium](/reviews/whey-max-titanium-qual-escolher)",
+            "R$ 31,17"
+          ],
+          [
+            "Max Titanium 100% Whey, pote de 900 g",
+            "[Whey Max Titanium](/reviews/whey-max-titanium-qual-escolher)",
+            "R$ 33,40"
+          ],
+          [
+            "Max Titanium Top Whey 3W + Performance, 900 g",
+            "[Whey Max Titanium](/reviews/whey-max-titanium-qual-escolher)",
+            "R$ 37,99"
+          ],
+          [
+            "Probiótica 100% Pure Whey Zero Lactose, 900 g",
+            "[Whey Probiótica](/reviews/whey-probiotica-qual-escolher)",
+            "R$ 38,41"
+          ],
+          [
+            "Probiótica 100% Pure Whey, refil de 900 g",
+            "[Whey Probiótica](/reviews/whey-probiotica-qual-escolher)",
+            "R$ 39,28"
+          ],
+          [
+            "Black Skull 3W Core, 900 g",
+            "[Whey Black Skull](/reviews/whey-black-skull-qual-escolher)",
+            "R$ 41,04"
+          ],
+          [
+            "Probiótica 100% Pure Whey, pote de 900 g",
+            "[Whey Probiótica](/reviews/whey-probiotica-qual-escolher)",
+            "R$ 42,08"
+          ],
+          [
+            "BOLD Whey 3W, pacote de 900 g",
+            "Este guia",
+            "R$ 49,85"
+          ],
+          [
+            "Dr. Peanut 100% Whey, pote de 900 g",
+            "[Whey Dr. Peanut e Max Titanium](/reviews/whey-dr-peanut-max-titanium)",
+            "R$ 49,86"
+          ],
+          [
+            "Mais Mu concentrado, refil de 900 g (Brownie e Cookies'n Cream)",
+            "[Whey Mais Mu](/reviews/whey-mais-mu-qual-escolher)",
+            "R$ 53,84"
+          ],
+          [
+            "BOLD Whey 3W, pacote de 450 g",
+            "Este guia",
+            "R$ 57,27"
+          ],
+          [
+            "Mais Mu concentrado, pote de 450 g (Baunilha)",
+            "[Whey Mais Mu](/reviews/whey-mais-mu-qual-escolher)",
+            "R$ 61,53"
+          ],
+          [
+            "BOLD Whey 3W, kit de 10 sachês",
+            "Este guia",
+            "R$ 63,18"
+          ],
+          [
+            "Mais Mu sachê, caixa de 15 (Chocolate com Coco)",
+            "[Whey Mais Mu](/reviews/whey-mais-mu-qual-escolher)",
+            "R$ 79,95"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Sem código, o pacote de 900 g da BOLD fica acima do Max Titanium, da Probiótica e do Black Skull da tabela, em pote ou refil,, no mesmo valor do Dr. Peanut e abaixo do refil da Mais Mu. No pacote de 450 g e no sachê, a BOLD custa menos por proteína que os formatos equivalentes da Mais Mu.",
+        "Com os 20% do CECILIA15, o pacote de 900 g cai para R$ 39,88 por 100 g de proteína. As outras lojas também têm código nosso, de até 10%, e as contas com eles estão no [melhor whey em 2026](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+      ]
+    },
+    {
+      "heading": "Os cinco sabores do whey BOLD",
+      "paragraphs": [
+        "A loja vende o pacote de 900 g em cinco sabores, todos com 22 g de proteína em 30 g. A página traz a tabela de cada um, e elas diferem em calorias, carboidratos e gorduras."
+      ],
+      "comparisonTable": {
+        "caption": "Tabela da dose de 30 g de cada sabor do pacote de 900 g, segundo a página da loja. Açúcares adicionados: 0 g em todos.",
+        "headers": [
+          "Sabor",
+          "Calorias",
+          "Carboidratos",
+          "Açúcares totais",
+          "Proteínas",
+          "Gorduras totais",
+          "Sódio"
+        ],
+        "rows": [
+          [
+            "Chocolate ao Leite",
+            "118 kcal",
+            "2,7 g",
+            "2,2 g",
+            "22 g",
+            "2 g",
+            "46 mg"
+          ],
+          [
+            "Cookies & Cream",
+            "121 kcal",
+            "3,4 g",
+            "2,3 g",
+            "22 g",
+            "2,1 g",
+            "49 mg"
+          ],
+          [
+            "Doce de Leite",
+            "122 kcal",
+            "4,5 g",
+            "2,2 g",
+            "22 g",
+            "1,8 g",
+            "46 mg"
+          ],
+          [
+            "Milkshake de Baunilha",
+            "117 kcal",
+            "2,7 g",
+            "2,3 g",
+            "22 g",
+            "2 g",
+            "48 mg"
+          ],
+          [
+            "Mousse de Morango",
+            "120 kcal",
+            "3,5 g",
+            "2,2 g",
+            "22 g",
+            "1,9 g",
+            "48 mg"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Os ingredientes mudam pouco: o Chocolate leva cacau em pó; o Cookies & Cream, biscoito triturado de cacau zero açúcares; o Doce de Leite, os corantes caramelo IV e amarelo crepúsculo; o Mousse de Morango, morango desidratado, o corante carmim e ácido cítrico. Todos usam sucralose. Sabor, textura e como o pó se mistura não foram avaliados neste guia, porque não usamos o produto."
+      ]
+    },
+    {
+      "heading": "O whey BOLD na assinatura BOLD Club",
+      "paragraphs": [
+        "No BOLD Club, o pacote de 900 g custa R$ 279,65, com entrega mensal ou a cada 2 meses. Pela nossa conta, são R$ 9,32 por dose e R$ 42,37 por 100 g de proteína, sem código. A loja pede permanência mínima de 2 ciclos. O 450 g e os sachês não mostram preço de assinatura.",
+        "Comparar a assinatura com a compra única pede atenção: o pacote de 900 g com os 20% do CECILIA15, pela nossa conta, sai a R$ 263,20, abaixo do preço da assinatura. Não testamos o CECILIA15 na assinatura do whey. Se for assinar, confira o resumo do carrinho para ver se o código entrou."
+      ]
+    },
+    {
+      "heading": "Anvisa e quantas doses por dia",
+      "paragraphs": [
+        "A embalagem do whey BOLD traz “suplemento alimentar” e “proteína em pó”. A página do produto não mostra número da Anvisa, e este guia não afirma nada além da categoria impressa. Quem quiser confirmar a situação do produto pergunta à loja.",
+        "A loja define a dose em 30 g. Quantas doses por dia cabem na sua rotina é assunto da orientação do rótulo e do seu nutricionista ou médico, não deste guia."
+      ]
+    },
+    {
+      "heading": "O cupom CECILIA15 no whey BOLD",
+      "paragraphs": [
+        "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo. O nome tem 15, e o desconto do nosso teste foi de 20%, dentro da Pré-Black da loja. No carrinho, o whey de 450 g foi de R$ 189,00 para R$ 151,20, em 18/11. As contas de 20% no pacote de 900 g e nos sachês são nossas, não passaram pelo carrinho.",
+        "O percentual pode mudar quando a campanha acabar, então confira o resumo antes de pagar. Vale um cupom por pedido. O código entra no campo Código de desconto ou cartão-presente do checkout."
+      ],
+      "comparisonTable": {
+        "caption": "Cálculo nosso com 20% de desconto sobre o preço do pacote ou do kit. Só o pacote de 450 g passou pelo carrinho.",
+        "headers": [
+          "Formato",
+          "Com CECILIA15",
+          "Por dose",
+          "Por 100 g de proteína"
+        ],
+        "rows": [
+          [
+            "Pacote de 900 g",
+            "R$ 263,20",
+            "R$ 8,77",
+            "R$ 39,88"
+          ],
+          [
+            "Pacote de 450 g",
+            "R$ 151,20",
+            "R$ 10,08",
+            "R$ 45,82"
+          ],
+          [
+            "Kit com 10 sachês",
+            "R$ 111,20",
+            "R$ 11,12",
+            "R$ 50,55"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Whey BOLD é bom? Pelo rótulo, ele entrega 22 g de proteína em 30 g, sem açúcar adicionado, e o 900 g sai mais barato por dose que os outros formatos. Por 100 g de proteína, há wheys mais baratos nos nossos artigos. Sabor e textura não foram avaliados.",
+        "Whey BOLD é isolado ou concentrado? É um 3W: a lista traz proteína do soro do leite concentrada, isolada e hidrolisada, sem a proporção de cada uma.",
+        "Quantas doses tem o whey BOLD de 900 g? A loja informa 30 doses de 30 g. O pacote de 450 g tem 15 doses, e o kit de sachês, 10.",
+        "Whey BOLD tem lactose? O rótulo declara “contém lactose” e “contém glúten”. Quem tem intolerância ou doença celíaca confere o alerta impresso no pacote e fala com o profissional de saúde.",
+        "Tem cupom para o whey BOLD? O CECILIA15 vale no site oficial e deu 20% no nosso teste de carrinho no pacote de 450 g. O percentual pode mudar depois da campanha, então confira o resumo antes de pagar."
+      ]
+    }
+  ]
+}

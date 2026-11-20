@@ -267280,7 +267280,8 @@ export const reviewsData: unknown[] = [
           "**Outros formatos:** Crunch declara 18 g de proteína; Wafer e Tube, 10 g cada. A composição e o preço por proteína mudam entre eles."
         ],
         "postParagraphs": [
-          "As tabelas seguintes separam composição e preço. No fim, o veredito reúne o que muda a escolha entre as linhas."
+          "As tabelas seguintes separam composição e preço. No fim, o veredito reúne o que muda a escolha entre as linhas.",
+          "A tabela de cada sabor, o preço por proteína de cada linha e a proteína a cada 100 kcal estão no guia [Barra BOLD 21 g ou 14 g?](/reviews/barra-bold-21g-ou-14g)."
         ]
       },
       {
@@ -287772,6 +287773,927 @@ export const reviewsData: unknown[] = [
           "O cupom vale para quem já comprou? Vale. O EMCASABIOBIO dá 10% OFF para quem é cliente novo e para quem já comprou na BioBio.",
           "A primeira compra já gera cashback? A loja informa que compras a partir de R$ 99,90, com o frete contando, geram 10% de volta como saldo. Confira o valor no resumo do seu pedido.",
           "Tem frete grátis na primeira compra? A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. Informe o CEP e confira o frete no checkout antes de pagar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1186,
+    "slug": "whey-bold-e-bom",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA15",
+    "affiliate": "bold",
+    "type": "Guia de Marca",
+    "title": "Whey BOLD é bom? O rótulo do 3W, 450 g ou 900 g e o preço por dose com o cupom",
+    "seoTitle": "Whey BOLD é bom? Rótulo, 450 g ou 900 g e preço",
+    "description": "O que o rótulo do whey BOLD 3W mostra, quanta proteína vem em cada dose, se compensa o pacote de 450 g, o de 900 g ou o sachê e quanto sai com o código.",
+    "metaDescription": "CECILIA15 dá 20% OFF no whey BOLD. Veja o rótulo do 3W, a proteína por dose, 450 g ou 900 g e o preço por dose com o código.",
+    "image": "/images/reviews/bold/whey-bold-e-bom-capa.webp",
+    "imageAlt": "Pacote do Whey BOLD Chocolate ao Leite de 900 g ao lado de um copo de shake, com pedaços de chocolate, fundo de azulejo vermelho, em foto da BOLD Snacks com o logo da marca, os textos «Whey BOLD é bom?» e o código CECILIA15.",
+    "cta": {
+      "text": "Se o whey serve para a sua compra, abra o site oficial pelo botão. O código entra no checkout, no campo Código de desconto ou cartão-presente.",
+      "label": "Ir para a BOLD Snacks",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as páginas e os rótulos do site oficial, sem uso do produto; só o código foi testado no carrinho. Somos parceiros da BOLD Snacks e podemos receber comissão pelo link e pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "barra-bold-e-boa"
+      },
+      {
+        "slug": "barra-bold-21g-ou-14g"
+      },
+      {
+        "slug": "cupom-bold-snacks-como-usar"
+      },
+      {
+        "slug": "black-friday-bold-snacks"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer 22 g de proteína por dose de 30 g, sem açúcar adicionado, e vai usar o pacote de 900 g até o fim, que é o formato que sai mais barato por dose.",
+        "Você aceita lactose e glúten na declaração do rótulo e, pela conta por 100 g de proteína com o código, o preço cabe para você."
+      ],
+      "skipIf": [
+        "Você tem intolerância à lactose ou doença celíaca: o rótulo declara os dois, e a conversa é com o seu médico ou nutricionista.",
+        "Sua régua é o menor preço por proteína: há wheys dos nossos outros artigos que custam menos por 100 g, como mostra a comparação com outras marcas."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O whey BOLD é um 3W, com proteína do soro do leite concentrada, isolada e hidrolisada. A tabela traz 22 g de proteína por dose de 30 g e 0 g de açúcar adicionado. O rótulo declara lactose e glúten. O pacote de 900 g sai mais barato por dose, e o cupom CECILIA15 deu 20% no nosso teste."
+        ]
+      },
+      {
+        "heading": "O que tem no pacote do whey BOLD",
+        "paragraphs": [
+          "A dose é de 30 g, um dosador, em 200 ml de água ou de leite. No Chocolate ao Leite, a tabela da dose mostra 118 kcal, 2,7 g de carboidratos, 2,2 g de açúcares totais (0 g adicionados), 22 g de proteínas, 2 g de gorduras totais, 1,3 g de saturadas e 46 mg de sódio.",
+          "Pela nossa conta, 22 g em 30 g são 73,3 g de proteína a cada 100 g de pó. Essa porcentagem é a base de todas as contas de preço deste guia.",
+          "A lista de ingredientes traz proteína de soro do leite concentrada, isolada e hidrolisada, espessantes goma guar e goma xantana, o edulcorante sucralose e aromatizantes, mais o que muda de sabor para sabor, como o cacau em pó do Chocolate ao Leite. Na página, a loja pede para consumir o preparo na hora e, depois de aberto, o pacote em até 180 dias."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/whey-bold-e-bom-tabela-nutricional.webp",
+            "alt": "Pacote do Whey BOLD Chocolate ao Leite com a tabela nutricional e a lista de ingredientes impressas ao lado, em foto da BOLD Snacks",
+            "caption": "Whey BOLD Chocolate ao Leite com a tabela nutricional e os ingredientes impressos ao lado; a imagem traz 117 kcal, e a tabela em texto da página, 118. Foto: BOLD Snacks.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "O whey BOLD tem lactose e glúten?",
+        "paragraphs": [
+          "O rótulo diz: “contém derivados de leite”, “contém lactose” e “contém glúten”. A lista de “pode conter” traz amêndoa, amendoim, avelãs, castanha-de-caju, castanha-do-pará e soja.",
+          "O Doce de Leite tem alerta diferente: “contém derivados de leite e soja”, com um asterisco que a página explica como ingrediente usado na instantaneização da proteína do soro, e o “pode conter” inclui também aveia, centeio, cevada e trigo. Quem tem doença celíaca, intolerância à lactose ou alergia confere o alerta impresso no pacote do sabor escolhido e fala com o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "O que é whey 3W",
+        "paragraphs": [
+          "3W é o nome comercial de um whey que mistura três formas da proteína do soro do leite: concentrada, isolada e hidrolisada, que passam por processos diferentes depois de separadas do leite.",
+          "No whey BOLD, a lista cita concentrada, isolada e hidrolisada, nessa ordem. O rótulo não traz quanto há de cada uma, então o 3W aqui diz de que a mistura é feita, não que ela seja melhor ou pior que um whey só concentrado. O que vale para comparar é a proteína da tabela: 22 g por dose."
+        ]
+      },
+      {
+        "heading": "450 g, 900 g ou sachê: qual compensa",
+        "paragraphs": [
+          "A loja informa: o pacote de 900 g tem 30 doses e custa R$ 329,00; o de 450 g tem 15 doses e custa R$ 189,00; o kit com 10 sachês de 30 g custa R$ 139,00. Os valores são de compra única, em 20/11. A própria loja mostra R$ 10,97 por dose no 900 g e R$ 12,60 no 450 g, e a conta bate."
+        ],
+        "comparisonTable": {
+          "caption": "Compra única, sem frete e sem código. A dose é de 30 g, com 22 g de proteína. Por 100 g de proteína: preço ÷ (doses × 22) × 100.",
+          "headers": [
+            "Formato",
+            "Doses de 30 g",
+            "Preço",
+            "Por dose",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Pacote de 900 g",
+              "30",
+              "R$ 329,00",
+              "R$ 10,97",
+              "R$ 49,85"
+            ],
+            [
+              "Pacote de 450 g",
+              "15",
+              "R$ 189,00",
+              "R$ 12,60",
+              "R$ 57,27"
+            ],
+            [
+              "Kit com 10 sachês de 30 g",
+              "10",
+              "R$ 139,00",
+              "R$ 13,90",
+              "R$ 63,18"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: dois pacotes de 450 g custam R$ 378,00 para 30 doses, R$ 49,00 a mais que o pacote de 900 g. O de 450 g serve para conhecer o produto antes de levar o maior; o de 900 g serve para quem vai consumir as 30 doses. O sachê é o mais caro por dose e o mais fácil de levar na bolsa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/whey-bold-e-bom-450g.webp",
+            "alt": "Pacote de 450 g do Whey BOLD Doce de Leite com os selos 450 gramas, 22 g de proteína e 15 doses, em foto da BOLD Snacks",
+            "caption": "Pacote de 450 g, Doce de Leite, com os selos de 450 gramas, 22 g de proteína e 15 doses. Foto: BOLD Snacks.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/bold/whey-bold-e-bom-sache.webp",
+            "alt": "Display com 10 sachês de whey BOLD, com os selos 10 unidades, 22 g de proteína e 5 sabores, em foto da BOLD Snacks",
+            "caption": "Display com 10 sachês, com os selos de 10 unidades, 22 g de proteína e 5 sabores. Foto: BOLD Snacks.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa a proteína do whey BOLD perto de outros wheys",
+        "paragraphs": [
+          "A comparação usa só números que já publicamos, na mesma conta de preço por 100 g de proteína e sem código. Os preços dos outros artigos foram lidos entre o fim de outubro e o começo de novembro; abra o link antes de decidir."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda de cada artigo indicado, sem cupom e sem Pix, e preço por 100 g de proteína. O whey BOLD vem em pacote; nas outras marcas, a linha diz se é pote ou refil.",
+          "headers": [
+            "Whey",
+            "Artigo",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Max Titanium 100% Whey, refil de 900 g",
+              "[Whey Max Titanium](/reviews/whey-max-titanium-qual-escolher)",
+              "R$ 31,17"
+            ],
+            [
+              "Max Titanium 100% Whey, pote de 900 g",
+              "[Whey Max Titanium](/reviews/whey-max-titanium-qual-escolher)",
+              "R$ 33,40"
+            ],
+            [
+              "Max Titanium Top Whey 3W + Performance, 900 g",
+              "[Whey Max Titanium](/reviews/whey-max-titanium-qual-escolher)",
+              "R$ 37,99"
+            ],
+            [
+              "Probiótica 100% Pure Whey Zero Lactose, 900 g",
+              "[Whey Probiótica](/reviews/whey-probiotica-qual-escolher)",
+              "R$ 38,41"
+            ],
+            [
+              "Probiótica 100% Pure Whey, refil de 900 g",
+              "[Whey Probiótica](/reviews/whey-probiotica-qual-escolher)",
+              "R$ 39,28"
+            ],
+            [
+              "Black Skull 3W Core, 900 g",
+              "[Whey Black Skull](/reviews/whey-black-skull-qual-escolher)",
+              "R$ 41,04"
+            ],
+            [
+              "Probiótica 100% Pure Whey, pote de 900 g",
+              "[Whey Probiótica](/reviews/whey-probiotica-qual-escolher)",
+              "R$ 42,08"
+            ],
+            [
+              "BOLD Whey 3W, pacote de 900 g",
+              "Este guia",
+              "R$ 49,85"
+            ],
+            [
+              "Dr. Peanut 100% Whey, pote de 900 g",
+              "[Whey Dr. Peanut e Max Titanium](/reviews/whey-dr-peanut-max-titanium)",
+              "R$ 49,86"
+            ],
+            [
+              "Mais Mu concentrado, refil de 900 g (Brownie e Cookies'n Cream)",
+              "[Whey Mais Mu](/reviews/whey-mais-mu-qual-escolher)",
+              "R$ 53,84"
+            ],
+            [
+              "BOLD Whey 3W, pacote de 450 g",
+              "Este guia",
+              "R$ 57,27"
+            ],
+            [
+              "Mais Mu concentrado, pote de 450 g (Baunilha)",
+              "[Whey Mais Mu](/reviews/whey-mais-mu-qual-escolher)",
+              "R$ 61,53"
+            ],
+            [
+              "BOLD Whey 3W, kit de 10 sachês",
+              "Este guia",
+              "R$ 63,18"
+            ],
+            [
+              "Mais Mu sachê, caixa de 15 (Chocolate com Coco)",
+              "[Whey Mais Mu](/reviews/whey-mais-mu-qual-escolher)",
+              "R$ 79,95"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sem código, o pacote de 900 g da BOLD fica acima do Max Titanium, da Probiótica e do Black Skull da tabela, em pote ou refil,, no mesmo valor do Dr. Peanut e abaixo do refil da Mais Mu. No pacote de 450 g e no sachê, a BOLD custa menos por proteína que os formatos equivalentes da Mais Mu.",
+          "Com os 20% do CECILIA15, o pacote de 900 g cai para R$ 39,88 por 100 g de proteína. As outras lojas também têm código nosso, de até 10%, e as contas com eles estão no [melhor whey em 2026](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+        ]
+      },
+      {
+        "heading": "Os cinco sabores do whey BOLD",
+        "paragraphs": [
+          "A loja vende o pacote de 900 g em cinco sabores, todos com 22 g de proteína em 30 g. A página traz a tabela de cada um, e elas diferem em calorias, carboidratos e gorduras."
+        ],
+        "comparisonTable": {
+          "caption": "Tabela da dose de 30 g de cada sabor do pacote de 900 g, segundo a página da loja. Açúcares adicionados: 0 g em todos.",
+          "headers": [
+            "Sabor",
+            "Calorias",
+            "Carboidratos",
+            "Açúcares totais",
+            "Proteínas",
+            "Gorduras totais",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "Chocolate ao Leite",
+              "118 kcal",
+              "2,7 g",
+              "2,2 g",
+              "22 g",
+              "2 g",
+              "46 mg"
+            ],
+            [
+              "Cookies & Cream",
+              "121 kcal",
+              "3,4 g",
+              "2,3 g",
+              "22 g",
+              "2,1 g",
+              "49 mg"
+            ],
+            [
+              "Doce de Leite",
+              "122 kcal",
+              "4,5 g",
+              "2,2 g",
+              "22 g",
+              "1,8 g",
+              "46 mg"
+            ],
+            [
+              "Milkshake de Baunilha",
+              "117 kcal",
+              "2,7 g",
+              "2,3 g",
+              "22 g",
+              "2 g",
+              "48 mg"
+            ],
+            [
+              "Mousse de Morango",
+              "120 kcal",
+              "3,5 g",
+              "2,2 g",
+              "22 g",
+              "1,9 g",
+              "48 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os ingredientes mudam pouco: o Chocolate leva cacau em pó; o Cookies & Cream, biscoito triturado de cacau zero açúcares; o Doce de Leite, os corantes caramelo IV e amarelo crepúsculo; o Mousse de Morango, morango desidratado, o corante carmim e ácido cítrico. Todos usam sucralose. Sabor, textura e como o pó se mistura não foram avaliados neste guia, porque não usamos o produto."
+        ]
+      },
+      {
+        "heading": "O whey BOLD na assinatura BOLD Club",
+        "paragraphs": [
+          "No BOLD Club, o pacote de 900 g custa R$ 279,65, com entrega mensal ou a cada 2 meses. Pela nossa conta, são R$ 9,32 por dose e R$ 42,37 por 100 g de proteína, sem código. A loja pede permanência mínima de 2 ciclos. O 450 g e os sachês não mostram preço de assinatura.",
+          "Comparar a assinatura com a compra única pede atenção: o pacote de 900 g com os 20% do CECILIA15, pela nossa conta, sai a R$ 263,20, abaixo do preço da assinatura. Não testamos o CECILIA15 na assinatura do whey. Se for assinar, confira o resumo do carrinho para ver se o código entrou."
+        ]
+      },
+      {
+        "heading": "Anvisa e quantas doses por dia",
+        "paragraphs": [
+          "A embalagem do whey BOLD traz “suplemento alimentar” e “proteína em pó”. A página do produto não mostra número da Anvisa, e este guia não afirma nada além da categoria impressa. Quem quiser confirmar a situação do produto pergunta à loja.",
+          "A loja define a dose em 30 g. Quantas doses por dia cabem na sua rotina é assunto da orientação do rótulo e do seu nutricionista ou médico, não deste guia."
+        ]
+      },
+      {
+        "heading": "O cupom CECILIA15 no whey BOLD",
+        "paragraphs": [
+          "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo. O nome tem 15, e o desconto do nosso teste foi de 20%, dentro da Pré-Black da loja. No carrinho, o whey de 450 g foi de R$ 189,00 para R$ 151,20, em 18/11. As contas de 20% no pacote de 900 g e nos sachês são nossas, não passaram pelo carrinho.",
+          "O percentual pode mudar quando a campanha acabar, então confira o resumo antes de pagar. Vale um cupom por pedido. O código entra no campo Código de desconto ou cartão-presente do checkout."
+        ],
+        "comparisonTable": {
+          "caption": "Cálculo nosso com 20% de desconto sobre o preço do pacote ou do kit. Só o pacote de 450 g passou pelo carrinho.",
+          "headers": [
+            "Formato",
+            "Com CECILIA15",
+            "Por dose",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Pacote de 900 g",
+              "R$ 263,20",
+              "R$ 8,77",
+              "R$ 39,88"
+            ],
+            [
+              "Pacote de 450 g",
+              "R$ 151,20",
+              "R$ 10,08",
+              "R$ 45,82"
+            ],
+            [
+              "Kit com 10 sachês",
+              "R$ 111,20",
+              "R$ 11,12",
+              "R$ 50,55"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Whey BOLD é bom? Pelo rótulo, ele entrega 22 g de proteína em 30 g, sem açúcar adicionado, e o 900 g sai mais barato por dose que os outros formatos. Por 100 g de proteína, há wheys mais baratos nos nossos artigos. Sabor e textura não foram avaliados.",
+          "Whey BOLD é isolado ou concentrado? É um 3W: a lista traz proteína do soro do leite concentrada, isolada e hidrolisada, sem a proporção de cada uma.",
+          "Quantas doses tem o whey BOLD de 900 g? A loja informa 30 doses de 30 g. O pacote de 450 g tem 15 doses, e o kit de sachês, 10.",
+          "Whey BOLD tem lactose? O rótulo declara “contém lactose” e “contém glúten”. Quem tem intolerância ou doença celíaca confere o alerta impresso no pacote e fala com o profissional de saúde.",
+          "Tem cupom para o whey BOLD? O CECILIA15 vale no site oficial e deu 20% no nosso teste de carrinho no pacote de 450 g. O percentual pode mudar depois da campanha, então confira o resumo antes de pagar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1187,
+    "slug": "barra-bold-21g-ou-14g",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA15",
+    "affiliate": "bold",
+    "type": "Guia de Compra",
+    "title": "Barra BOLD 21 g ou 14 g? A tabela de cada linha, Crunch, Wafer e Tube, e o preço por proteína",
+    "seoTitle": "Barra BOLD 21 g ou 14 g? Tabela e preço por linha",
+    "description": "A barra BOLD 21 g, a 14 g, o Crunch, o Wafer e o Tube lado a lado: proteína, calorias e açúcares de cada sabor e quanto custa a proteína com o código.",
+    "metaDescription": "CECILIA15 dá 20% OFF na BOLD Snacks. Veja a tabela nutricional da barra BOLD 21 g, 14 g, Crunch, Wafer e Tube, sabor a sabor, e quanto custa a proteína.",
+    "image": "/images/reviews/bold/barra-bold-21g-ou-14g-capa.webp",
+    "imageAlt": "Duas mãos segurando a Caixa Mista da BOLD 14 g sobre fundo azul, em foto da BOLD Snacks com o logo da marca, os textos «Barra BOLD 21 g ou 14 g?» e o código CECILIA15.",
+    "cta": {
+      "text": "Se uma das linhas serve para a sua compra, abra o site oficial pelo botão. O código entra no checkout, no campo Código de desconto ou cartão-presente.",
+      "label": "Ir para a BOLD Snacks",
+      "url": "https://www.boldsnacks.com.br/discount/CECILIA15",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as tabelas e os preços das páginas da loja, sem uso dos produtos; só o código foi testado no checkout. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "barra-bold-e-boa"
+      },
+      {
+        "slug": "whey-bold-e-bom"
+      },
+      {
+        "slug": "cupom-bold-snacks-como-usar"
+      },
+      {
+        "slug": "black-friday-bold-snacks"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "A 21 g: você quer pagar menos por grama de proteína declarada e aceita uma barra maior, de 60 g.",
+        "A 14 g: você prefere uma unidade menor, de 40 g, e aceita pagar um pouco mais por proteína."
+      ],
+      "skipIf": [
+        "Você precisa evitar lactose ou glúten: o rótulo de todas as linhas declara os dois."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A BOLD 21 g é a barra de 60 g com 21 g de proteína e a mais barata por proteína entre as barras da marca. A 14 g é a barra de 40 g, com 14 g de proteína e menos calorias por unidade. O Crunch fica no meio, com 18 g, e o Wafer e o Tube trazem 10 g. Todas contêm glúten e lactose."
+        ]
+      },
+      {
+        "heading": "As cinco linhas lado a lado",
+        "paragraphs": [
+          "A BOLD vende cinco linhas de barra, todas em caixas de 12 unidades. A tabela mostra o tamanho da barra, a proteína declarada, a faixa de calorias dos sabores e se o colágeno hidrolisado aparece nos ingredientes. Para saber se a barra é boa, veja o guia [Barra BOLD é boa?](/reviews/barra-bold-e-boa); aqui o foco é a gramatura e a tabela de cada linha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-caixa-21g.webp",
+            "alt": "Caixa Mista da BOLD 21 g com as barras e a caixa de 12 unidades sobre fundo amarelo",
+            "caption": "Caixa Mista da BOLD 21 g. Foto: BOLD Snacks.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "comparisonTable": {
+          "caption": "Valores por barra, das tabelas nutricionais de cada sabor. No BOLD 14 g, a página do Cookies Black não traz a tabela; o Tube entra só com Pistache e Speculoos.",
+          "headers": [
+            "Linha",
+            "Barra",
+            "Proteína",
+            "Calorias",
+            "Açúcares totais",
+            "Colágeno nos ingredientes"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g",
+              "60 g",
+              "21 g",
+              "215 a 239 kcal",
+              "1,8 g a 5,3 g",
+              "Sim"
+            ],
+            [
+              "BOLD 14 g",
+              "40 g",
+              "14 g",
+              "151 a 161 kcal",
+              "1,6 g a 3,6 g",
+              "Sim"
+            ],
+            [
+              "Crunch",
+              "60 g",
+              "18 g",
+              "209 a 215 kcal",
+              "1,8 g a 2,2 g",
+              "Sim"
+            ],
+            [
+              "Wafer",
+              "40 g",
+              "10 g",
+              "192 a 202 kcal",
+              "2,1 g a 2,8 g",
+              "Não"
+            ],
+            [
+              "Tube",
+              "40 g",
+              "10 g",
+              "183 a 186 kcal",
+              "2,0 g a 2,1 g",
+              "Não"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "BOLD 21 g ou 14 g: proteína, calorias e preço",
+        "paragraphs": [
+          "A diferença começa no tamanho. A 21 g pesa 60 g e declara 21 g de proteína; a 14 g pesa 40 g e declara 14 g. A proporção de proteína no peso da barra é a mesma, 35%, e muda o quanto você leva de uma vez.",
+          "Nas calorias, a 21 g vai de 215 a 239 kcal e a 14 g, de 151 a 161 kcal. Pela nossa conta sobre as tabelas, as duas ficam perto uma da outra na proteína por caloria: de 8,8 g a 9,8 g de proteína a cada 100 kcal na 21 g e de 8,7 g a 9,3 g na 14 g.",
+          "No preço, a caixa da 21 g custa mais e a barra sai a R$ 14,92, contra R$ 10,75 da 14 g. Por proteína declarada, a conta se inverte: R$ 71,03 por 100 g de proteína na 21 g e R$ 76,79 na 14 g, sem código. Se o que pesa é a proteína pelo preço, a 21 g; se você quer um lanche menor para levar na bolsa, a 14 g.",
+          "As duas linhas trazem colágeno hidrolisado nos ingredientes, e a loja não informa quanto da proteína vem dele. O preço por proteína compara o número do rótulo, não a origem."
+        ]
+      },
+      {
+        "heading": "Crunch, Wafer e Tube: o que muda",
+        "paragraphs": [
+          "O Crunch tem 60 g, 18 g de proteína e de 209 a 215 kcal. Na proteína por barra, fica entre a 21 g e a 14 g; no custo por proteína, acima das duas: R$ 82,87 por 100 g, sem código. A lista de ingredientes abre com crispies de proteína de soja isolada, e o colágeno hidrolisado também aparece.",
+          "O Wafer e o Tube têm 40 g e 10 g de proteína. Os dois têm mais gordura que proteína: 12 g a 13 g de gordura por barra contra 10 g de proteína. Na proteína por caloria, ficam em cerca de 5 g a cada 100 kcal, contra 8,4 g a 9,8 g nas linhas de 21 g, 14 g e Crunch. Custam menos por barra, R$ 9,92, e mais por proteína, R$ 99,17 por 100 g. Nenhum dos dois traz colágeno nos ingredientes.",
+          "Se a conta por proteína manda, esses dois ficam atrás. Eles servem a quem escolheu o formato, um doce com proteína, e aceita pagar mais por grama."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-crunch.webp",
+            "alt": "Barras BOLD Crunch sobre cadernos coloridos",
+            "caption": "Barras BOLD Crunch. Foto: BOLD Snacks.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-wafer.webp",
+            "alt": "Quatro barras BOLD Wafer empilhadas",
+            "caption": "Barras BOLD Wafer. Foto: BOLD Snacks.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/bold/barra-bold-21g-ou-14g-tube.webp",
+            "alt": "Caixa do BOLD Tube com uma barra ao lado",
+            "caption": "Caixa e barra do BOLD Tube. Foto: BOLD Snacks.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Tabela sabor a sabor: BOLD 21 g",
+        "paragraphs": [
+          "Todos os sabores da 21 g declaram 21 g de proteína por barra de 60 g. O que muda é caloria, açúcar, gordura e fibra."
+        ],
+        "comparisonTable": {
+          "caption": "Valores por barra de 60 g, das tabelas de cada sabor. As gorduras saturadas ficaram de fora: a página do Chocomalte traz um valor maior que a gordura total.",
+          "headers": [
+            "Sabor",
+            "Calorias",
+            "Carboidratos",
+            "Açúcares totais",
+            "Gorduras",
+            "Fibra"
+          ],
+          "rows": [
+            [
+              "Bombom Crocante",
+              "232 kcal",
+              "18 g",
+              "2,4 g",
+              "9,5 g",
+              "4,1 g"
+            ],
+            [
+              "Chocomalte",
+              "239 kcal",
+              "19 g",
+              "5,3 g",
+              "10 g",
+              "3 g"
+            ],
+            [
+              "Cookies Black",
+              "235 kcal",
+              "15 g",
+              "1,8 g",
+              "11 g",
+              "4,2 g"
+            ],
+            [
+              "Cookies & Cream",
+              "228 kcal",
+              "18 g",
+              "2,6 g",
+              "9,2 g",
+              "4,1 g"
+            ],
+            [
+              "Doce de Leite",
+              "229 kcal",
+              "20 g",
+              "3,8 g",
+              "8,3 g",
+              "3,4 g"
+            ],
+            [
+              "Trufa de Chocolate",
+              "230 kcal",
+              "18 g",
+              "2,6 g",
+              "9,3 g",
+              "4,4 g"
+            ],
+            [
+              "Mousse de Maracujá",
+              "215 kcal",
+              "20 g",
+              "4,1 g",
+              "7,3 g",
+              "4,8 g"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Tabela sabor a sabor: BOLD 14 g",
+        "paragraphs": [
+          "A 14 g tem barra de 40 g e 14 g de proteína em todos os sabores. O Cookies Black existe nesta linha, mas a página dele não traz a tabela nutricional, e por isso não entra abaixo."
+        ],
+        "comparisonTable": {
+          "caption": "Valores por barra de 40 g, das tabelas de cada sabor.",
+          "headers": [
+            "Sabor",
+            "Calorias",
+            "Carboidratos",
+            "Açúcares totais",
+            "Gorduras",
+            "Fibra"
+          ],
+          "rows": [
+            [
+              "Bombom Crocante",
+              "154 kcal",
+              "12 g",
+              "1,6 g",
+              "6,3 g",
+              "2,8 g"
+            ],
+            [
+              "Chocomalte",
+              "161 kcal",
+              "13 g",
+              "3,6 g",
+              "6,9 g",
+              "1,4 g"
+            ],
+            [
+              "Cookies & Cream",
+              "153 kcal",
+              "13 g",
+              "3,1 g",
+              "5,9 g",
+              "2,2 g"
+            ],
+            [
+              "Doce de Leite",
+              "151 kcal",
+              "13 g",
+              "2,5 g",
+              "5,5 g",
+              "2,4 g"
+            ],
+            [
+              "Trufa de Chocolate",
+              "151 kcal",
+              "12 g",
+              "3,1 g",
+              "6 g",
+              "2,4 g"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Tabela sabor a sabor: Crunch, Wafer e Tube",
+        "paragraphs": [
+          "O Crunch declara 18 g de proteína por barra de 60 g; o Wafer e o Tube, 10 g por barra de 40 g. No Tube, as páginas do Avelã, do Paçoca e da Trufa de Chocolate trazem a mesma tabela nos três sabores; por isso o Tube entra só com Pistache e Speculoos."
+        ],
+        "comparisonTable": {
+          "caption": "Valores por barra, das tabelas de cada sabor.",
+          "headers": [
+            "Sabor",
+            "Proteína",
+            "Calorias",
+            "Carboidratos",
+            "Açúcares totais",
+            "Gorduras",
+            "Fibra"
+          ],
+          "rows": [
+            [
+              "Crunch Brigadeiro",
+              "18 g",
+              "215 kcal",
+              "17 g",
+              "2 g",
+              "9,8 g",
+              "5,3 g"
+            ],
+            [
+              "Crunch Cookies & Cream",
+              "18 g",
+              "210 kcal",
+              "17 g",
+              "2,2 g",
+              "9,5 g",
+              "5,4 g"
+            ],
+            [
+              "Crunch Morango & Chantilly",
+              "18 g",
+              "209 kcal",
+              "17 g",
+              "1,8 g",
+              "9,6 g",
+              "6,5 g"
+            ],
+            [
+              "Wafer Avelã",
+              "10 g",
+              "200 kcal",
+              "13 g",
+              "2,2 g",
+              "13 g",
+              "2,2 g"
+            ],
+            [
+              "Wafer Chocolate ao Leite",
+              "10 g",
+              "194 kcal",
+              "14 g",
+              "2,1 g",
+              "12 g",
+              "2,6 g"
+            ],
+            [
+              "Wafer Chocolate Branco",
+              "10 g",
+              "202 kcal",
+              "14 g",
+              "2,8 g",
+              "13 g",
+              "1,5 g"
+            ],
+            [
+              "Wafer Speculoos",
+              "10 g",
+              "192 kcal",
+              "14 g",
+              "2,8 g",
+              "12 g",
+              "1,6 g"
+            ],
+            [
+              "Tube Pistache",
+              "10 g",
+              "183 kcal",
+              "11 g",
+              "2 g",
+              "12 g",
+              "2,6 g"
+            ],
+            [
+              "Tube Speculoos",
+              "10 g",
+              "186 kcal",
+              "11 g",
+              "2,1 g",
+              "12 g",
+              "2 g"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Quanto custa a proteína de cada linha",
+        "paragraphs": [
+          "A conta é o preço da caixa dividido por 12 barras e pela proteína declarada de cada uma. Com o código, aplicamos 20% sobre o preço da caixa. Só a Caixa Mista da 21 g passou pelo carrinho (de R$ 179,00 para R$ 143,20); nas outras linhas, os 20% são conta nossa."
+        ],
+        "comparisonTable": {
+          "caption": "A loja informa: preços de compra única na vitrine em 20/11, caixa de 12 unidades, sem frete. Por barra e por 100 g de proteína são cálculos nossos.",
+          "headers": [
+            "Linha",
+            "Caixa",
+            "Por barra",
+            "Por 100 g de proteína",
+            "Caixa com CECILIA15",
+            "Por 100 g de proteína com CECILIA15"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g",
+              "R$ 179,00",
+              "R$ 14,92",
+              "R$ 71,03",
+              "R$ 143,20",
+              "R$ 56,83"
+            ],
+            [
+              "BOLD 14 g",
+              "R$ 129,00",
+              "R$ 10,75",
+              "R$ 76,79",
+              "R$ 103,20",
+              "R$ 61,43"
+            ],
+            [
+              "Crunch",
+              "R$ 179,00",
+              "R$ 14,92",
+              "R$ 82,87",
+              "R$ 143,20",
+              "R$ 66,30"
+            ],
+            [
+              "Wafer",
+              "R$ 119,00",
+              "R$ 9,92",
+              "R$ 99,17",
+              "R$ 95,20",
+              "R$ 79,33"
+            ],
+            [
+              "Tube",
+              "R$ 119,00",
+              "R$ 9,92",
+              "R$ 99,17",
+              "R$ 95,20",
+              "R$ 79,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o código, a barra sai a R$ 11,93 na 21 g e no Crunch, R$ 8,60 na 14 g e R$ 7,93 no Wafer e no Tube. A ordem entre as linhas não muda.",
+          "No mesmo dia, a caixa de Doce de Leite 14 g estava a R$ 99,00, e as outras de 14 g, a R$ 129,00. É o preço do dia desse sabor, e a tabela acima usa o das demais. A R$ 99,00, a caixa dá R$ 58,93 por 100 g de proteína, sem código.",
+          "Quem compara com outras marcas pode ver o guia [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Caixa avulsa, mista ou assinatura",
+        "paragraphs": [
+          "A compra avulsa tem o preço da tabela acima, e a loja vende as linhas em caixas por sabor e em caixas mistas. A Caixa Mista da 21 g e a da 14 g seguem o preço da linha. A Caixa Mix, que junta linhas diferentes, custa R$ 159,00, ou R$ 13,25 por barra; como mistura proteínas diferentes, não calculamos o preço por proteína.",
+          "A assinatura da loja, o BOLD Club, tem entrega mensal ou a cada dois meses. A loja informa 15% sobre os produtos e permanência mínima de dois ciclos de cobrança depois do prazo de arrependimento. No Wafer, o preço de assinatura da página, R$ 114,90, fica cerca de 3% abaixo da compra única, não 15%. Os preços de assinatura por caixa estão na tabela:"
+        ],
+        "comparisonTable": {
+          "caption": "Preço da caixa de 12 unidades na assinatura. O por barra é cálculo nosso, sem código.",
+          "headers": [
+            "Linha",
+            "Compra única",
+            "Assinatura",
+            "Por barra na assinatura"
+          ],
+          "rows": [
+            [
+              "BOLD 21 g",
+              "R$ 179,00",
+              "R$ 152,00",
+              "R$ 12,67"
+            ],
+            [
+              "BOLD 14 g",
+              "R$ 129,00",
+              "R$ 109,00",
+              "R$ 9,08"
+            ],
+            [
+              "Crunch",
+              "R$ 179,00",
+              "R$ 152,00",
+              "R$ 12,67"
+            ],
+            [
+              "Wafer",
+              "R$ 119,00",
+              "R$ 114,90",
+              "R$ 9,58"
+            ],
+            [
+              "Tube",
+              "R$ 119,00",
+              "R$ 101,00",
+              "R$ 8,42"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No nosso teste, o código valeu numa caixa de 21 g da assinatura: de R$ 152,00 para R$ 121,60. Não testamos as outras linhas na assinatura.",
+          "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo, e um por pedido. O nome tem 15, e o desconto do nosso teste foi de 20%, dentro da Pré-Black da loja, que vai até 22/11. O percentual pode mudar depois da campanha, então confira o resumo antes de pagar."
+        ]
+      },
+      {
+        "heading": "Glúten, lactose e quantas por dia",
+        "paragraphs": [
+          "O alerta de alérgicos de todos os sabores diz “contém lactose” e “contém glúten”, com leite e soja e uma lista de “pode conter”. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde. Nas páginas que trazem a recomendação, a loja indica uso adulto, a partir de 19 anos, de até duas unidades ao dia ou conforme orientação profissional. O açúcar e os adoçantes das barras estão no guia [Barra BOLD é boa?](/reviews/barra-bold-e-boa)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença da barra BOLD 21 g para a 14 g? A 21 g pesa 60 g e declara 21 g de proteína, de 215 a 239 kcal. A 14 g pesa 40 g e declara 14 g de proteína, de 151 a 161 kcal. A 21 g custa menos por 100 g de proteína declarada.",
+          "Quantas calorias tem a barra BOLD? Depende da linha e do sabor: de 151 a 161 kcal na 14 g, de 215 a 239 kcal na 21 g, de 209 a 215 kcal no Crunch, de 192 a 202 kcal no Wafer e de 183 a 186 kcal no Tube, nos sabores com tabela.",
+          "Qual barra BOLD tem mais proteína? A BOLD 21 g, com 21 g por barra. O Crunch declara 18 g, a 14 g declara 14 g, e o Wafer e o Tube, 10 g cada.",
+          "Qual sabor da barra BOLD tem menos açúcar? Nas tabelas usadas neste guia, o Bombom Crocante 14 g tem o menor valor, 1,6 g de açúcares totais; o maior é o do Chocomalte 21 g, com 5,3 g.",
+          "Quantas barras vêm na caixa da BOLD? As caixas das cinco linhas têm 12 unidades."
         ]
       }
     ]
