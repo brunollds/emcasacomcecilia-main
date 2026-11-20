@@ -3712,7 +3712,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'a referral reward for new Starlink customers who sign up through Cecília\'s link',
     longDescription:
       'New Starlink customers who sign up through Cecília\'s referral link get a reward after two months of service, as service credit or, where Starlink offers it, as cash. The amount depends on the country: in the United States, for example, it is $100. It works on Residential and Roam plans ordered on starlink.com, with no code to copy. The order keeps the price Starlink shows that day, and Starlink offers a full refund of the kit and the first month if you return it within 30 days.',
-    metaTitle: 'Starlink referral: a reward with Cecília\'s link',
+    metaTitle: 'Starlink referral code? Get your bonus via Cecília\'s link',
     metaDescription:
       'Starlink referral: new customers who sign up through Cecília\'s link get a reward after two months, as credit or cash. Residential and Roam plans.',
     eligibleCategories: 'First subscription to a Residential or Roam plan, ordered on starlink.com through the link',
@@ -3785,7 +3785,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'una recompensa por referido para los nuevos clientes de Starlink que se registran con el enlace de Cecília',
     longDescription:
       'Los nuevos clientes de Starlink que se registran con el enlace de referido de Cecília reciben una recompensa tras dos meses de servicio, como crédito de servicio o, donde Starlink lo ofrece, en efectivo. El importe depende del país: en Estados Unidos, por ejemplo, son 100 dólares. Vale para los planes Residential y Roam contratados en starlink.com, sin código que copiar. El pedido mantiene el precio que Starlink muestra ese día, y Starlink ofrece el reembolso completo del kit y del primer mes si lo devuelves en 30 días.',
-    metaTitle: 'Referido de Starlink: recompensa con el enlace de Cecília',
+    metaTitle: '¿Código de referido Starlink? Recompensa con el enlace de Cecília',
     metaDescription:
       'Referido de Starlink: los nuevos clientes que se registran con el enlace de Cecília reciben una recompensa a los dos meses, en crédito o efectivo.',
     eligibleCategories: 'Primera suscripción a un plan Residential o Roam, contratada en starlink.com con el enlace',
@@ -3858,7 +3858,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'une récompense de parrainage pour les nouveaux clients Starlink qui s\'inscrivent avec le lien de Cecília',
     longDescription:
       'Les nouveaux clients Starlink qui s\'inscrivent avec le lien de parrainage de Cecília reçoivent une récompense après deux mois de service, sous forme de crédit de service ou, là où Starlink le propose, en argent. Le montant dépend du pays\u00a0: aux États-Unis, par exemple, il est de 100 dollars. Elle s\'applique aux offres Residential et Roam commandées sur starlink.com, sans code à copier. La commande conserve le prix affiché par Starlink ce jour-là, et Starlink propose le remboursement intégral du kit et du premier mois si vous le retournez sous 30 jours.',
-    metaTitle: 'Parrainage Starlink\u00a0: récompense avec le lien de Cecília',
+    metaTitle: 'Code parrainage Starlink\u00a0? Récompense via le lien de Cecília',
     metaDescription:
       'Parrainage Starlink\u00a0: les nouveaux clients inscrits via le lien de Cecília reçoivent une récompense après deux mois, en crédit ou en argent.',
     eligibleCategories: 'Premier abonnement à une offre Residential ou Roam, commandé sur starlink.com via le lien',
@@ -3931,7 +3931,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'eine Empfehlungsprämie für neue Starlink-Kunden, die sich über Cecílias Link anmelden',
     longDescription:
       'Neue Starlink-Kunden, die sich über Cecílias Empfehlungslink anmelden, erhalten nach zwei Monaten Nutzung eine Prämie, als Servicegutschrift oder, wo Starlink es anbietet, als Bargeld. Die Höhe hängt vom Land ab: In den Vereinigten Staaten sind es zum Beispiel 100 $. Sie gilt für Residential- und Roam-Tarife, die auf starlink.com bestellt werden, ganz ohne Code zum Kopieren. Die Bestellung behält den Preis, den Starlink an dem Tag anzeigt, und Starlink bietet die volle Erstattung von Kit und erstem Monat an, wenn du es innerhalb von 30 Tagen zurückschickst.',
-    metaTitle: 'Starlink-Empfehlung: Prämie mit Cecílias Link',
+    metaTitle: 'Starlink-Empfehlungscode? Deine Prämie über Cecílias Link',
     metaDescription:
       'Starlink-Empfehlung: Neue Kunden, die sich über Cecílias Link anmelden, erhalten nach zwei Monaten eine Prämie als Guthaben oder Bargeld. Residential und Roam.',
     eligibleCategories: 'Erstes Abo eines Residential- oder Roam-Tarifs, über den Link auf starlink.com bestellt',
@@ -4004,7 +4004,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'un premio referral per i nuovi clienti Starlink che si iscrivono con il link di Cecília',
     longDescription:
       'I nuovi clienti Starlink che si iscrivono con il link referral di Cecília ricevono un premio dopo due mesi di servizio, come credito di servizio o, dove Starlink lo offre, in denaro. L\'importo dipende dal paese: negli Stati Uniti, per esempio, è di 100 dollari. Vale per i piani Residential e Roam ordinati su starlink.com, senza codice da copiare. L\'ordine mantiene il prezzo che Starlink mostra quel giorno, e Starlink offre il rimborso completo del kit e del primo mese se lo restituisci entro 30 giorni.',
-    metaTitle: 'Referral Starlink: premio con il link di Cecília',
+    metaTitle: 'Codice referral Starlink? Il tuo premio con il link di Cecília',
     metaDescription:
       'Referral Starlink: i nuovi clienti che si iscrivono con il link di Cecília ricevono un premio dopo due mesi, in credito o denaro. Piani Residential e Roam.',
     eligibleCategories: 'Primo abbonamento a un piano Residential o Roam, ordinato su starlink.com tramite il link',
@@ -4077,7 +4077,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'Cecília의 링크로 가입하는 Starlink 신규 고객을 위한 추천 보상',
     longDescription:
       'Cecília의 추천 링크로 가입한 Starlink 신규 고객은 2개월간 서비스를 이용하면 서비스 크레딧으로, Starlink가 제공하는 지역에서는 현금으로 보상을 받습니다. 금액은 국가마다 다르며, 예를 들어 미국에서는 100달러입니다. starlink.com에서 주문하는 Residential과 Roam 요금제에 적용되며, 복사할 코드는 없습니다. 주문에는 그날 Starlink가 표시하는 가격이 그대로 적용되며, 30일 이내에 반품하면 Starlink가 키트와 첫 달 요금을 전액 환불합니다.',
-    metaTitle: 'Starlink 추천: Cecília의 링크로 받는 보상',
+    metaTitle: 'Starlink 추천 코드? Cecília의 링크로 보상 받기',
     metaDescription:
       'Starlink 추천: Cecília의 링크로 가입한 신규 고객은 2개월 후 크레딧 또는 현금으로 보상을 받습니다. Residential, Roam 요금제.',
     eligibleCategories: '링크를 통해 starlink.com에서 주문한 Residential 또는 Roam 요금제의 첫 구독',
@@ -4150,7 +4150,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: 'Cecília のリンクから登録する Starlink の新規のお客様向け紹介特典',
     longDescription:
       'Cecília の紹介リンクから登録した Starlink の新規のお客様は、2 か月間サービスを利用すると、サービスクレジットとして、または Starlink が対応している地域では現金で特典を受け取れます。金額は国によって異なり、たとえばアメリカでは 100 ドルです。starlink.com で注文する Residential と Roam のプランが対象で、コピーするコードはありません。注文には、その日に Starlink が表示する価格がそのまま適用され、30 日以内に返品すれば Starlink がキットと最初の 1 か月分を全額返金します。',
-    metaTitle: 'Starlink の紹介特典：Cecília のリンクで受け取る',
+    metaTitle: 'Starlink 紹介コード？Cecília のリンクで特典を受け取る',
     metaDescription:
       'Starlink の紹介特典：Cecília のリンクから登録した新規のお客様は、2 か月後にクレジットまたは現金で特典を受け取れます。Residential と Roam プラン。',
     eligibleCategories: 'リンク経由で starlink.com から注文した Residential または Roam プランの初回契約',
@@ -4223,7 +4223,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '透過 Cecília 的連結註冊的 Starlink 新客戶可獲得的推薦獎勵',
     longDescription:
       '透過 Cecília 的推薦連結註冊的 Starlink 新客戶，在使用服務滿兩個月後可獲得獎勵，形式為服務抵免額，在 Starlink 提供的地區也可選擇現金。金額因國家而異，例如在美國為 100 美元。適用於在 starlink.com 訂購的 Residential 和 Roam 方案，無需複製任何代碼。訂單沿用 Starlink 當天顯示的價格，如在 30 天內退貨，Starlink 會全額退還套件和第一個月的費用。',
-    metaTitle: 'Starlink 推薦：透過 Cecília 的連結領取獎勵',
+    metaTitle: 'Starlink 推薦碼？透過 Cecília 的連結領取獎勵',
     metaDescription:
       'Starlink 推薦：透過 Cecília 的連結註冊的新客戶，滿兩個月後可獲得抵免額或現金獎勵。適用於 Residential 和 Roam 方案。',
     eligibleCategories: '透過連結在 starlink.com 訂購的 Residential 或 Roam 方案的首次訂閱',
@@ -4296,7 +4296,7 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
     shortDescription: '通过 Cecília 的链接注册的 Starlink 新客户可获得的推荐奖励',
     longDescription:
       '通过 Cecília 的推荐链接注册的 Starlink 新客户，在使用服务满两个月后可获得奖励，形式为服务抵扣额，在 Starlink 提供的地区也可选择现金。金额因国家而异，例如在美国为 100 美元。适用于在 starlink.com 订购的 Residential 和 Roam 套餐，无需复制任何代码。订单沿用 Starlink 当天显示的价格，如在 30 天内退货，Starlink 会全额退还套件和第一个月的费用。',
-    metaTitle: 'Starlink 推荐：通过 Cecília 的链接领取奖励',
+    metaTitle: 'Starlink 推荐码？通过 Cecília 的链接领取奖励',
     metaDescription:
       'Starlink 推荐：通过 Cecília 的链接注册的新客户，满两个月后可获得抵扣额或现金奖励。适用于 Residential 和 Roam 套餐。',
     eligibleCategories: '通过链接在 starlink.com 订购的 Residential 或 Roam 套餐的首次订阅',
