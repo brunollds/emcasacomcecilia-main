@@ -4,22 +4,28 @@ import { resolve } from 'node:path';
 
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
+import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
+import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
 import sitemap from '@/app/sitemap';
 
 import { EventHubView } from '@/components/sections/EventHubView';
 import { EVENT_THEME_CLASSES, EventCard, HomeEvent } from '@/components/sections/HomeEvent';
-import { COUPONS, type Coupon } from '@/lib/couponsData';
+import { CODE_SEASON_NOTICE } from '@/lib/codeSeasonNotice';
+import { COUPONS, getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import {
   formatEventDay,
   getCountdownLabel,
   getEventHubPage,
   getEventHubPaths,
+  MOBILE_VISIBLE_GUIDES,
   parseHomeEvents,
   resolveActiveHomeEvent,
 } from '@/lib/homeEvents';
-import type { StoreReview } from '@/lib/homeStores';
+import { getStoreMark, type StoreReview } from '@/lib/homeStores';
+import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
+import { getListedPortugueseReviews } from '@/lib/reviewDiscovery';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl } from '@/lib/pageSeo';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
@@ -411,4 +417,165 @@ for (const name of hubRoutes) {
   assert.equal(sitemapPaths.has(`/${name}`), realHubPaths.includes(`/${name}`), `/${name} no sitemap só com edição`);
 }
 
-console.log(`✅ homeEvents: validação (${invalid.length} casos), janela, contagem, home (dados e HTML), página da data e a capa dela, rotas e sitemap passaram.`);
+// As bolinhas da reta final são next/image de hosts do CDN.
+const imageConfig: ImageConfigComplete = { ...imageConfigDefault, remotePatterns: IMAGE_REMOTE_PATTERNS as RemotePattern[] };
+const renderWithImages = (element: ReturnType<typeof createElement>) =>
+  renderToStaticMarkup(createElement(ImageConfigContext.Provider, { value: imageConfig }, element));
+
+// Reta final (boost): até boost.endsAt, todos os guias em cards compactos; depois, os 4 cards de sempre.
+const finalReviews = [...reviews, review(11, 'bf-damie-poltrona', 'damie')];
+const BOOST_LABELS = { 'bf-damie': 'Guia geral', 'bf-damie-poltrona': 'Poltrona do papai', 'bf-sem-loja': 'Presentes', 'bf-kopenhagen': 'Chocolates' };
+const boosted = (boost: Record<string, unknown> = {}) =>
+  event({
+    articleSlugs: ['bf-damie', 'bf-magalu', 'bf-sem-loja', 'bf-kopenhagen', 'bf-dolce', 'bf-damie-poltrona'],
+    boost: { endsAt: '2026-11-29T00:00:00-03:00', labels: BOOST_LABELS, ...boost },
+  });
+const invalidBoost: Array<[string, unknown, RegExp]> = [
+  ['boost não é objeto', event({ boost: [] }), /boost: objeto inválido/],
+  ['chave a mais no boost', boosted({ endAt: 'x' }), /boost: chaves não permitidas \(endAt\)/],
+  ['boost sem fuso', boosted({ endsAt: '2026-11-29T00:00:00' }), /boost\.endsAt: data ISO 8601 com fuso explícito/],
+  ['boost depois da data', boosted({ endsAt: '2026-12-02T00:00:00-03:00' }), /boost\.endsAt fora da janela da data/],
+  ['boost antes da data', boosted({ endsAt: '2026-10-31T00:00:00-03:00' }), /boost\.endsAt fora da janela da data/],
+  ['rótulo de artigo fora da lista', boosted({ labels: { 'natal-damie': 'Natal' } }), /natal-damie não está em articleSlugs/],
+  ['rótulo vazio', boosted({ labels: { ...BOOST_LABELS, 'bf-dolce': ' ' } }), /labels\.bf-dolce vazio/],
+  ['rótulos nulos', boosted({ labels: null }), /boost\.labels inválido/],
+];
+for (const [name, value, message] of invalidBoost) {
+  assert.throws(() => parseHomeEvents({ events: [value] }, finalReviews), message, name);
+}
+assert.equal(
+  parseHomeEvents({ events: [boosted({ endsAt: '2026-12-01T00:00:00-03:00' })] }, finalReviews).length,
+  1,
+  'o boost pode ir até o fim da data'
+);
+for (const slug of ['bf-damie', 'bf-damie-poltrona', 'bf-sem-loja', 'bf-kopenhagen']) {
+  const labels = Object.fromEntries(Object.entries(BOOST_LABELS).filter(([key]) => key !== slug));
+  assert.throws(
+    () => resolveActiveHomeEvent({ events: [boosted({ labels })] }, finalReviews, at('2026-11-20T12:00:00-03:00'), stores),
+    new RegExp(`${slug} precisa de rótulo`),
+    `${slug}: loja com dois guias, sem loja ou loja pausada pede rótulo`
+  );
+}
+
+assert.throws(
+  () =>
+    resolveActiveHomeEvent(
+      { events: [boosted({ labels: { ...BOOST_LABELS, 'bf-damie-poltrona': 'Guia geral' } })] },
+      finalReviews,
+      at('2026-11-20T12:00:00-03:00'),
+      stores
+    ),
+  /bf-damie-poltrona repete a loja e o rótulo/,
+  'dois guias da mesma loja com o mesmo rótulo'
+);
+assert.equal(
+  resolveActiveHomeEvent(
+    { events: [boosted({ labels: { ...BOOST_LABELS, 'bf-damie': '  Guia geral ' } })] },
+    finalReviews,
+    at('2026-11-20T12:00:00-03:00'),
+    stores
+  )?.guides?.[0].label,
+  'Guia geral',
+  'o rótulo sai sem os espaços das pontas'
+);
+
+const finalStretch = resolveActiveHomeEvent({ events: [boosted()] }, finalReviews, at('2026-11-20T12:00:00-03:00'), stores);
+assert.ok(finalStretch?.guides, 'antes do boost.endsAt, a reta final');
+assert.equal(finalStretch.titleOf, 'da Black Friday');
+assert.deepEqual(
+  finalStretch.guides.map(({ slug }) => slug),
+  ['bf-damie', 'bf-magalu', 'bf-sem-loja', 'bf-kopenhagen', 'bf-dolce', 'bf-damie-poltrona'],
+  'todos os guias, na ordem do arquivo'
+);
+const guideOf = (slug: string) => finalStretch.guides?.find((guide) => guide.slug === slug);
+const damieStore = stores.find(({ slug }) => slug === 'damie');
+assert.ok(damieStore);
+assert.deepEqual(guideOf('bf-damie'), {
+  slug: 'bf-damie',
+  href: '/reviews/bf-damie',
+  title: 'Título bf-damie',
+  name: 'DAMIE',
+  mark: getStoreMark(damieStore),
+  discount: damieStore.discount,
+  label: 'Guia geral',
+});
+assert.equal(guideOf('bf-damie-poltrona')?.label, 'Poltrona do papai', 'o segundo guia da loja se distingue pelo rótulo');
+for (const guide of finalStretch.guides) {
+  const shop = stores.find(({ brand }) => brand === guide.name);
+  if (shop) assert.equal(guide.discount, shop.discount, `${guide.slug}: o desconto da página da loja`);
+}
+assert.equal(guideOf('bf-magalu')?.label, undefined, 'loja com um guia só: sem rótulo');
+assert.deepEqual(guideOf('bf-sem-loja'), { slug: 'bf-sem-loja', href: '/reviews/bf-sem-loja', title: 'Título bf-sem-loja', name: 'Presentes' });
+assert.equal(guideOf('bf-kopenhagen')?.mark, undefined, 'loja pausada: a casa no lugar da bolinha');
+assert.equal(guideOf('bf-kopenhagen')?.name, 'Chocolates');
+assert.equal(finalStretch.seasonNotice, CODE_SEASON_NOTICE.text, 'com loja de cupom e o aviso no ar, o aviso entra');
+assert.equal(
+  resolveActiveHomeEvent({ events: [boosted()] }, finalReviews, at('2026-11-10T12:00:00-03:00'), stores)?.seasonNotice,
+  undefined,
+  'antes do aviso de temporada, sem aviso'
+);
+assert.equal(
+  resolveActiveHomeEvent({ events: [boosted()] }, finalReviews, at('2026-11-28T23:59:59-03:00'), stores)?.guides?.length,
+  6,
+  'o último segundo ainda é reta final'
+);
+const afterBoost = resolveActiveHomeEvent({ events: [boosted()] }, finalReviews, at('2026-11-29T00:00:00-03:00'), stores);
+assert.equal(afterBoost?.guides, undefined, 'no boost.endsAt, a home volta aos cards de sempre');
+assert.equal(afterBoost?.seasonNotice, undefined);
+assert.equal(afterBoost?.cards.length, 4);
+
+// O HTML da reta final: um link por guia, sem capa, sem código e sem título nos cards; o nome do link começa pelo texto
+// visível e termina no trecho para leitor de tela.
+const finalHtml = renderWithImages(createElement(HomeEvent, { event: finalStretch }));
+const finalText = finalHtml.replace(/<[^>]+>/g, ' ');
+assert.equal(finalHtml.match(/href="\/reviews\//g)?.length, 6, 'um link por guia');
+assert.ok(!finalHtml.includes('href="/#loja-'), 'sem "Ver o código" nos cards compactos');
+assert.ok(!finalHtml.includes('revela'), 'sem a revelação na rolagem nos cards compactos');
+assert.ok(!/<h3/.test(finalHtml), 'sem título dentro dos cards');
+assert.equal(finalHtml.match(/<span class="sr-only">, guia da Black Friday<\/span>/g)?.length, 6, 'o trecho para leitor de tela');
+assert.ok(finalText.includes(CODE_SEASON_NOTICE.text), 'o aviso de temporada acima da grade');
+assert.ok(!finalHtml.includes('<code') && !/cupom|copiar/i.test(finalText), 'a reta final não mostra código nem fala em cupom');
+// Com 12 guias ou menos, todos cabem no celular: sem botão e nenhum escondido.
+assert.ok(!finalHtml.includes('<button') && !finalHtml.includes('/guias:hidden'), 'poucos guias: sem o botão de mostrar todos');
+assert.match(finalHtml, /<ul id="guias-data-comercial"/);
+assert.match(finalHtml, /href="\/black-friday"[^>]*>Ver tudo da Black Friday</);
+assert.ok(!/loading="eager"/.test(finalHtml), 'as bolinhas carregam sob demanda');
+
+// O arquivo de verdade: na reta final, os guias, os 12 primeiros escolhidos pelo Bruno e todo rótulo que falta.
+const realFinal = resolveActiveHomeEvent(realConfig, publishedReviews, at('2026-11-25T12:00:00-03:00'), getActiveCoupons());
+assert.ok(realFinal?.guides, 'a Black Friday de 2026 está na reta final em 25/11');
+assert.deepEqual(
+  realFinal.guides.slice(0, MOBILE_VISIBLE_GUIDES).map(({ name }) => name),
+  ['DAMIE', 'Dolce Gusto', 'Insider', 'I Wanna Sleep', 'Hostinger', 'Petz', 'Bagaggio', 'Toda Up', "Let's Eat It", 'Skelt', 'SHEIN', 'YesStyle'],
+  'os 12 primeiros no celular'
+);
+const guideKeys = realFinal.guides.map(({ name, label }) => `${name}|${label ?? ''}`);
+assert.equal(new Set(guideKeys).size, guideKeys.length, 'nenhum card repete loja e rótulo');
+const realHtml = renderWithImages(createElement(HomeEvent, { event: realFinal }));
+assert.match(realHtml, /<div class="group\/guias[^"]*" data-aberto="false">/);
+assert.match(realHtml, /<button[^>]*aria-expanded="false"[^>]*aria-controls="guias-data-comercial"/);
+const hiddenOnPhone = realHtml.match(/<li class="flex min-w-0 max-md:group-data-\[aberto=false\]\/guias:hidden">/g)?.length ?? 0;
+assert.equal(hiddenOnPhone, realFinal.guides.length - MOBILE_VISIBLE_GUIDES, 'no celular, do 13º em diante esperam o botão');
+assert.ok(realHtml.includes(`Mostrar todos os ${realFinal.guides.length} guias`));
+// Guia de Black Friday publicado em PT e fora da lista: só um aviso, para lembrar de pô-lo na home. O brinde da Skelt
+// saiu de propósito (a promoção acabou).
+const OUT_OF_HOME = new Set(['brindes-skelt-black-friday-cupom']);
+const listed = new Set(realFinal.guides.map(({ slug }) => slug));
+const mentionsBlackFriday = (text: string) => /black ?friday/i.test(text.replace(/-/g, ' '));
+const unlisted = getListedPortugueseReviews(publishedReviews)
+  .filter((item) => item.type === 'Guia de Black Friday' || mentionsBlackFriday(item.slug) || mentionsBlackFriday(item.title))
+  .map(({ slug }) => slug)
+  .filter((slug) => !listed.has(slug) && !OUT_OF_HOME.has(slug));
+if (unlisted.length > 0) {
+  console.warn(`⚠️  Guias de Black Friday fora de content/home-events.json (articleSlugs): ${unlisted.join(', ')}`);
+}
+assert.equal(
+  resolveActiveHomeEvent(realConfig, publishedReviews, at('2026-12-01T00:00:00-03:00'), getActiveCoupons()),
+  null,
+  'em 01/12 a Black Friday sai da home'
+);
+
+console.log(
+  `✅ homeEvents: validação (${invalid.length + invalidBoost.length} casos), janela, contagem, home (dados e HTML), reta final, página da data e a capa dela, rotas e sitemap passaram.`
+);
+

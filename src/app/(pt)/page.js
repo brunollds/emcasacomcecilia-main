@@ -47,10 +47,18 @@ export const metadata = {
 
 export default async function Home() {
   const activeEvent = resolveActiveHomeEvent(homeEventsConfig, publishedReviews, new Date());
+  // Reta final da data (boost em content/home-events.json): a seção sobe para logo abaixo da vitrine e as Receitas
+  // saem. No fim do prazo, a home volta sozinha à ordem de sempre.
+  const finalStretch = Boolean(activeEvent?.guides);
   const [featuredOffers, popularRecipeSlugs] = await Promise.all([
     getFeaturedOffers(),
-    getPopularRecipeSlugs(),
+    finalStretch ? [] : getPopularRecipeSlugs(),
   ]);
+  const eventSection = activeEvent ? (
+    <div className="pb-8 md:pb-10">
+      <HomeEvent event={activeEvent} />
+    </div>
+  ) : null;
 
   // As seções de cima ganham aqui o espaço de baixo; as de baixo trazem o delas.
   return (
@@ -67,20 +75,19 @@ export default async function Home() {
         />
       </div>
 
+      {/* Data comercial na reta final: logo abaixo da vitrine */}
+      {finalStretch ? eventSection : null}
+
       {/* Acabou de sair: os 5 artigos mais novos */}
       <div className="pb-8 md:pb-10">
         <HomeLatest articles={getHomeLatest(publishedReviews)} copy={getHomeCopy('pt')} allHref="/reviews" />
       </div>
 
       {/* Data comercial: só durante uma campanha (content/home-events.json) */}
-      {activeEvent ? (
-        <div className="pb-8 md:pb-10">
-          <HomeEvent event={activeEvent} />
-        </div>
-      ) : null}
+      {finalStretch ? null : eventSection}
 
-      {/* Receitas da Cecília */}
-      <PopularRecipes popularSlugs={popularRecipeSlugs} />
+      {/* Receitas da Cecília, fora da home na reta final de uma data */}
+      {finalStretch ? null : <PopularRecipes popularSlugs={popularRecipeSlugs} />}
 
       {/* Explore a casa, com as ofertas do dia no card do Dicas & Ofertas */}
       <MyLinks offers={featuredOffers} />
