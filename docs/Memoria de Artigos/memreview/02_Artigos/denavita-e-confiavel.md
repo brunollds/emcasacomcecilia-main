@@ -9,7 +9,7 @@ category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redação (Job 2); ler o rótulo antes"
 bloqueado_por: "-"
@@ -118,3 +118,17 @@ Sem quadro `decision`.
 | Reclame Aqui: números e atraso 46,18% | Conta nossa: | perfil, 19/11 | verificado; reler após 01/12 |
 | Trocas 30 e 7 dias | A loja informa: | portal, 19/11 | verificado |
 | Anvisa | O rótulo diz: | rótulo e Anvisa | ler no dia |
+
+## Redação, revisão e mídia (19/11/2026, sessão de artigos)
+
+**Job 2.** Escrito em `content/reviews/denavita-e-confiavel.json` (id 1117), pelo briefing e pelas leituras do dia.
+
+**Job 3 (Fable 5.2, uma rodada para os sete).** Aprovado com ajustes, aplicados pelo próprio revisor: bastidor fora, contas por dia refeitas (todas batem), Anvisa só pelo rótulo (o capítulo da DV3 perdeu a descrição das regras, que não estava nos fatos), frase do médico uma vez por capítulo pertinente, CNPJ neutro. O título da DV6 passou a destacar o Leve 3, Pague 2 (testado) e os kits.
+
+**Fatos novos do Bruno (19/11).** No teste dele (print no #1256), o EMCASA entrou sobre dois kits (Kit Vida Fit + Turbo Metabolismo, R$ 399,80 → −R$ 39,98 → R$ 359,82) e se manteve no Pix; o resumo mostrou só a linha do cupom, sem o "Leve 3, Pague 2", que fica como "confira no resumo" (revisão do #1256). A Cecília não tem produto da Denavita.
+
+**Job 4.** Só PT. Âncora "cupom Denavita" para `/cupons/denavita` uma vez; `cta` com o link da GoGroup do `couponsData.ts`, nunca aberto.
+
+**Job 6.** Capa no painel lateral verde (logo num quadro branco, chamada, código EMCASA), fotos oficiais do Shopify da loja, só de produto, sem pessoas e sem o selo "Piscou perdeu"; "Foto: Denavita" nas legendas. As 15 imagens novas foram ao CDN com o sim do Bruno em 19/11 (folha `FOLHA-APROVACAO-DV.jpg`).
+
+Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.
