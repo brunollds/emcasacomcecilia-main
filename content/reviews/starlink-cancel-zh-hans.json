@@ -1,0 +1,115 @@
+{
+  "id": 1177,
+  "slug": "starlink-cancel-zh-hans",
+  "translationKey": "starlink-fidelidade",
+  "locale": "zh-hans",
+  "title": "Starlink 有合约吗？取消服务、归还设备和退款",
+  "seoTitle": "Starlink 有合约吗？取消与退货",
+  "type": "实用指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "如何在订单里确认 Starlink 的合约、设备归还和退款条件，以及在账户中取消订阅。",
+  "metaDescription": "查看 Starlink 订单中的合约、设备归还和退款条件，以及怎样取消订阅。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-cancel-zh-hans-capa.webp",
+  "imageAlt": "雪地里木屋前的 Starlink 天线，旁边有人在工作。封面写着“合约与取消”。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Starlink 的合约和设备条件因市场而异。订购前确认是否有最低合约期限，设备是租用还是购买，以及取消时是否须归还。退款金额、归还期限和期限起算日，以你所在地区的订单条款为准。"
+      ]
+    },
+    {
+      "heading": "订单页怎么写",
+      "paragraphs": [
+        "我们在 2026 年 11 月 20 日读取了几个国家的订购页。有的国家把套件列为租用，取消服务时要退回；在意大利，页面直接写着没有合约；还有的国家，套件要购买。",
+        "中文版没有固定的参考国家，所以我们不写具体金额。输入你的地址，到订单页的硬件一栏确认你属于哪一种。"
+      ]
+    },
+    {
+      "heading": "归还和退款条件",
+      "paragraphs": [
+        "查看订单条款中的归还期限、起算日期和设备状态要求。退款前是否要先取消，以及套件、月费和运费哪些可退，都应在自己的订单中核对。",
+        "取消订阅会停止之后的扣款。请向 Starlink 支持确认如何同时办理套件退回，并保存寄送凭证。",
+        "通过[Starlink 推荐链接](/zh-hans/coupons/starlink)下单时，也请在订单页确认退货政策。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Starlink 标准套件的组成：天线、路由器、底座和线缆",
+        "caption": "退货时要寄回的套件：天线、路由器、底座和线缆。Starlink 官方照片。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "怎么取消",
+      "paragraphs": [
+        "在 Starlink 账户的首页，打开“你的订阅”。在套餐旁边选择“管理”，再选择“取消服务”。界面名称以你的语言版本为准。",
+        "如果想避免进入下一个周期，要在计费日 UTC 00:00 之前完成更改。帮助中心说明，服务会保持到已付费周期结束。想改变主意，可以在首页点“恢复”。取消后能否恢复，取决于所在区域的可用性。"
+      ],
+      "bullets": [
+        "登录 Starlink 网站账户，在“首页”选择“你的订阅”。",
+        "在套餐旁边点击“管理”，再点击“取消服务”。",
+        "计费按 UTC 时间。更改要在计费日 UTC 00:00 之前完成，否则只对下一个周期生效。请自己换算成当地时间。",
+        "服务保持到已付费的日期，之后的扣款会停止。",
+        "更改生效前，可以在首页顶部的提示里点“恢复”。",
+        "取消之后可能无法立刻恢复，取决于你所在区域的可用性。"
+      ],
+      "postParagraphs": [
+        "取消服务本身不会退回套件。请在账户中确认是否还须提交归还申请。"
+      ]
+    },
+    {
+      "heading": "优惠价与更换套餐",
+      "paragraphs": [
+        "取消、更换套餐或暂停后优惠价会怎样，以你自己订单里的条款为准。标准价格可能调整。"
+      ]
+    },
+    {
+      "heading": "取消后仍在扣款怎么办",
+      "paragraphs": [
+        "如果仍在扣款，带着订单号、取消日期和工单编号（如有）联系 Starlink。想了解其他用户的反馈，见[Starlink 在 Trustpilot 上的评价](/zh-hans/reviews/starlink-trustpilot-zh-hans)。如果你不认识这笔交易，也可以联系发卡行或银行。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "Starlink 有合约吗？因国家而异。订单页会写明套件是租用还是购买，有的国家，比如意大利，写的是没有合约。",
+        "取消 Starlink 有违约金吗？以你的订单页为准。中文版不写具体金额，请在确认取消之前核对适用条件。",
+        "Starlink 可以随时取消吗？可以在账户里提交。如果订单里有合约条款，提前退出前请先核对。",
+        "可以归还设备并退款吗？请核对你所在地区的订单条款，确认归还期限、设备条件和可退款项。",
+        "取消要在什么时候之前操作？计费按 UTC 时间，要在计费日 UTC 00:00 之前完成，否则下个周期照常扣款。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-worth-it-zh-hans"
+    },
+    {
+      "slug": "starlink-black-friday-zh-hans"
+    },
+    {
+      "slug": "starlink-trustpilot-zh-hans"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1135,
+  "slug": "starlink-permanencia-cancelar",
+  "translationKey": "starlink-fidelidade",
+  "locale": "es",
+  "title": "¿Tiene Starlink permanencia? Kit en alquiler, 30 días de prueba y cómo cancelar",
+  "seoTitle": "¿Starlink tiene permanencia? Kit y cancelación",
+  "type": "Guía práctica",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Mira qué dice el pedido sobre el kit en alquiler, qué hay que devolver al cancelar, cómo funciona la prueba de 30 días y los pasos para cancelar desde tu cuenta.",
+  "metaDescription": "Starlink: kit en alquiler que se devuelve al cancelar y prueba de 30 días con reembolso. Mira los pasos para cancelar desde la cuenta.",
+  "publishedAt": "20 de noviembre de 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-permanencia-cancelar-capa.webp",
+  "imageAlt": "Antena Starlink en la nieve frente a un chalé con una persona trabajando. La portada dice «Contrato y cancelación».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "En el pedido de Starlink que consultamos en España, el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas el servicio. El pedido ofrece una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro de ese plazo, se reembolsan el kit y el primer mes."
+      ]
+    },
+    {
+      "heading": "Qué dice el pedido sobre el contrato",
+      "paragraphs": [
+        "En la pantalla de pedido que leímos el 20 de noviembre de 2026, con una dirección de Madrid, el hardware aparece como alquiler: coste inicial de 0 € y tarifa mensual del kit de 0 €. La frase del pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
+        "No leímos en esa pantalla ninguna cláusula de permanencia ni penalización por cancelar antes de un plazo. Eso no prueba que no exista en tu caso, así que confirma el resumen de tu pedido antes de pagar."
+      ]
+    },
+    {
+      "heading": "Los 30 días de prueba",
+      "paragraphs": [
+        "Para pedir el reembolso del kit y del primer mes en las condiciones de la oferta, cancela el servicio y devuelve el equipo en buen estado dentro de los 30 días.",
+        "Cancelar la suscripción detiene los cobros futuros según el ciclo. Con el soporte de Starlink, confirma cómo abrir también la devolución del kit y guarda el justificante del envío.",
+        "El [enlace de referido de Starlink](/es/coupons/starlink) abre el mismo pedido en el sitio oficial. Comprueba las condiciones de devolución en el resumen del tuyo antes de pagar."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Piezas del kit Starlink Standard: antena, router, soporte y cables",
+        "caption": "El kit que vuelve en la devolución: antena, router, soporte y cables. Foto de Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Cómo cancelar",
+      "paragraphs": [
+        "En la página de inicio de tu cuenta de Starlink, abre «Tu suscripción». Junto al plan, elige «Gestionar» y después «Cancelar servicio».",
+        "Si quieres evitar un nuevo ciclo, haz el cambio antes de las 00:00 UTC del día de facturación. La facturación sigue el horario UTC, así que consulta qué hora local es en tu zona.",
+        "Según el centro de ayuda, el servicio sigue activo hasta el final del periodo pagado. Si cambias de idea antes de que termine, busca «Reanudar» en la página de inicio. Reactivar después de cancelar depende de la disponibilidad en la zona."
+      ],
+      "bullets": [
+        "Entra en tu cuenta en el sitio de Starlink y, en la página «Inicio», elige «Tu suscripción».",
+        "Junto al plan, pulsa «Gestionar» y después «Cancelar servicio».",
+        "La facturación sigue el horario UTC. El cambio tiene que hacerse antes de las 00:00 UTC del día de facturación, o solo valdrá para el ciclo siguiente.",
+        "El servicio sigue activo hasta la fecha ya pagada, y no se generan más cobros.",
+        "Antes de que el cambio surta efecto, puedes dar marcha atrás con «Reanudar», en el aviso «Tu plan de servicio terminará el…», en la parte superior de «Inicio».",
+        "Después de cancelar, puede que no sea posible reactivar enseguida. Depende de la disponibilidad en tu zona."
+      ],
+      "postParagraphs": [
+        "Cancelar el servicio no devuelve el kit por sí solo. La devolución tiene su propia regla, descrita arriba."
+      ]
+    },
+    {
+      "heading": "La instalación profesional y el reembolso",
+      "paragraphs": [
+        "La instalación profesional del Residencial 100 Mbps es opcional y costaba 172 € en el pedido de Madrid. Con el Max era gratuita. Antes de contratarla, confirma en tu pedido si forma parte de lo que se reembolsa dentro de la prueba."
+      ]
+    },
+    {
+      "heading": "Si el cobro continúa",
+      "paragraphs": [
+        "Si el cobro continúa, abre una solicitud en Starlink con el número de pedido, la fecha de la cancelación y el número de caso, si lo hay.",
+        "En [la lectura de Trustpilot](/es/reviews/starlink-trustpilot-opiniones) está lo que se dice del soporte. Si no reconoces el cargo, contacta también con el emisor de tu tarjeta o con tu banco."
+      ]
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿Tiene Starlink permanencia? En el pedido consultado en España el kit iba en alquiler, sin coste inicial ni cuota. Confirma en el resumen de tu pedido si hay otras condiciones.",
+        "¿Hay que devolver el kit al cancelar? Sí. El pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
+        "¿Puedo cancelar Starlink en cualquier momento? La solicitud se hace desde la cuenta. Comprueba en tu pedido si hay alguna condición para cancelar antes de cierto plazo.",
+        "¿Se puede devolver Starlink en 30 días? El pedido ofrece una prueba de 30 días: cancela y devuelve el kit en buen estado dentro del plazo para el reembolso del kit y del primer mes.",
+        "¿Qué pasa si cancelo y me arrepiento? Busca «Reanudar» en la página de inicio antes de que termine el periodo pagado. Reactivar después depende de la disponibilidad."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Basado en la pantalla de pedido y el centro de ayuda de Starlink. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-vale-la-pena"
+    },
+    {
+      "slug": "starlink-black-friday-oferta"
+    },
+    {
+      "slug": "starlink-trustpilot-opiniones"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1171,
+  "slug": "starlink-cancel-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "starlink-fidelidade",
+  "title": "Starlink 有合約嗎？取消服務、歸還設備與退款",
+  "seoTitle": "Starlink 有合約嗎？取消與退款",
+  "type": "實用指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "查看 Starlink 訂購頁的合約與設備條件、如何取消訂閱，以及歸還或退款前要確認哪些費用。",
+  "metaDescription": "確認 Starlink 訂購頁的綁約、設備歸還及退款條件，並查看如何取消訂閱。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-cancel-zh-hant-capa.webp",
+  "imageAlt": "Starlink 天線立在雪地的木屋前，有人在屋內工作。封面文字為「合約與取消」。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Starlink 的合約和設備條件因地區而異。訂購前請確認是否有最低合約期限、硬體是租賃或購買，以及取消時是否須歸還。退款金額、起算日期和設備歸還期限，請以你所在地的訂購條款為準。"
+      ]
+    },
+    {
+      "heading": "有沒有綁約",
+      "paragraphs": [
+        "我們在 2026 年 11 月 20 日查看了多個國家的官方訂購頁。有的寫明硬體租賃、取消時須歸還，有的寫明無合約，也有的是硬體購買。",
+        "所以沒有一個適用所有地區的答案。付款前，請在你地址的訂購頁找設備一欄，看費用與取消條件。從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結即可。"
+      ]
+    },
+    {
+      "heading": "歸還與退款條件",
+      "paragraphs": [
+        "先在訂購頁確認歸還的起算日期、期限和設備狀態要求。設備、首月訂閱費與運費是否可退，請看你所在地的訂購條款。",
+        "取消訂閱只會停止後續扣款。請透過 Starlink 客服確認如何一併辦理設備歸還，並保存寄送憑證。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink 標準套件：天線、路由器、底座與線材",
+          "caption": "歸還時要送回的套件：天線、路由器、底座與線材。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ]
+    },
+    {
+      "heading": "如何取消",
+      "paragraphs": [
+        "在帳戶首頁開啟「你的訂閱」，點方案旁的「管理」，再選「取消服務」。介面名稱以你的語言版本為準。",
+        "要避開下一個週期，請在扣款日 00:00 UTC 之前完成變更。依說明中心，服務會維持到已付費期間結束。"
+      ],
+      "bullets": [
+        "登入 Starlink 帳戶，在首頁選擇「你的訂閱」。",
+        "點方案旁的「管理」，再選「取消服務」。",
+        "計費依 UTC 時間。變更必須在扣款日 00:00 UTC 之前完成，否則只對下一個週期生效。",
+        "服務維持到已付費的日期，之後不再扣款。",
+        "變更生效前改變主意，可以在首頁頂端的提示中選「恢復」。",
+        "取消後可能無法立刻重新啟用，要看你所在地區的供應情況。"
+      ],
+      "postParagraphs": [
+        "取消服務不會自動歸還設備。請在帳戶中確認是否還須另外申請歸還。"
+      ]
+    },
+    {
+      "heading": "促銷價與更換方案",
+      "paragraphs": [
+        "取消、更換方案或暫停後促銷價會怎樣，以你自己訂單上的條款為準。標準價格可能調整。"
+      ]
+    },
+    {
+      "heading": "取消後仍被扣款",
+      "paragraphs": [
+        "如果取消後仍被扣款，請聯絡 Starlink，附上訂單編號、取消日期，以及案件編號（如果有）。如果你不認得這筆交易，也可以聯絡發卡銀行。口碑背景可看[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Starlink 有合約嗎？依地區不同。請在你地址的訂購頁，看設備一欄是租賃、購買，還是標示無合約。",
+        "Starlink 隨時可以取消嗎？可以在帳戶中提出取消。如果你的訂單有合約，提前退出前請先看適用的條件。",
+        "取消後要歸還硬體嗎？訂購頁寫明租賃的地區，取消時須歸還。設備是購買的地區則依訂單條款。",
+        "可以歸還設備並退款嗎？請查看訂購條款，確認所在地的歸還期限、設備條件及可退款項。",
+        "取消後服務還能用嗎？服務維持到已付費期間結束，之後不再扣款。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-worth-it-zh-hant"
+    },
+    {
+      "slug": "starlink-black-friday-zh-hant"
+    },
+    {
+      "slug": "starlink-trustpilot-zh-hant"
+    }
+  ]
+}

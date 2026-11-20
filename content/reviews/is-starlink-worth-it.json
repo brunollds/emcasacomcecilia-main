@@ -1,0 +1,165 @@
+{
+  "id": 1128,
+  "slug": "is-starlink-worth-it",
+  "translationKey": "starlink-vale-a-pena",
+  "locale": "en",
+  "title": "Is Starlink worth it? The monthly cost and who it makes sense for",
+  "seoTitle": "Is Starlink worth it? Plan prices and the kit",
+  "type": "Buying Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Compare the monthly cost of Starlink with the connection that already reaches your home. See the plan prices by address, the rental kit and how to check where the dish can go.",
+  "metaDescription": "Is Starlink worth it? Plan prices by address, the rental kit, who it suits and when fiber or cellular comes out ahead.",
+  "publishedAt": "November 20, 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/is-starlink-worth-it-capa.webp",
+  "imageAlt": "Starlink dish attached to the eave of a house, with mountains behind it. The cover asks “Worth it?” and reads “Home internet”.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Starlink can be worth it in rural areas and homes where no stable connection reaches you. If reliable fiber or cable already arrives, compare the total cost before you switch. Add the monthly prices at your address to any installation fee, and use the Starlink app to see where the dish can go."
+      ]
+    },
+    {
+      "heading": "What the plans cost",
+      "paragraphs": [
+        "We read the public order page for one address, Reno, Nevada, on November 20, 2026. The hardware was a rental with $0 upfront and $0 a month, and the page shows 30% off service plans in select areas."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plan, Reno, Nevada",
+          "Per month",
+          "Kit"
+        ],
+        "rows": [
+          [
+            "Residential 100 Mbps",
+            "$38.50",
+            "$0 rental"
+          ],
+          [
+            "Max",
+            "$91",
+            "$0 rental"
+          ]
+        ],
+        "caption": "Monthly price as shown, before taxes, the optional installation and any referral reward. We did not record how long the promotional price lasts."
+      },
+      "postParagraphs": [
+        "Residential 100 Mbps included the Starlink V5 with the Router Mini. Max came with the Standard rental kit and $0 professional installation. For 100 Mbps, professional installation was optional, at $99. Prices change with the address you enter, so make this calculation on your own order page.",
+        "Work out the cost before the reward. In the Nevada screenshot with our link, the order displayed a $100 referral offer subject to eligibility. See the [Starlink referral page](/en/coupons/starlink)."
+      ]
+    },
+    {
+      "heading": "Where to put the dish",
+      "paragraphs": [
+        "Before you buy, pick a spot with a wide view of the sky. Branches and roofs in the field of view can cause interruptions. Use the Starlink app at the planned spot and run the obstruction check."
+      ],
+      "links": [
+        {
+          "label": "How to check for obstructions in the app",
+          "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "House with a Starlink dish installed on the roof",
+        "caption": "Dish on a roof with open sky. Photo from Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "When to compare with fiber or cellular",
+      "paragraphs": [
+        "If stable fiber or cable already reaches you, compare the installation, the monthly bills and any equipment fee of each offer. For a cellular home plan, add the price of the device you would need and check that the data allowance fits your household."
+      ]
+    },
+    {
+      "heading": "Speed and gaming",
+      "paragraphs": [
+        "Residential plans advertise a download speed, but real performance can vary with location and time of day. For online games, watch the response time and the interruptions too.",
+        "In its specifications, Starlink publishes a typical latency of 25 to 60 ms on land. That is the company's own reference, with no measurement at the address we checked."
+      ],
+      "links": [
+        {
+          "label": "Starlink performance specifications",
+          "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+        }
+      ]
+    },
+    {
+      "heading": "Rental kit and leaving",
+      "paragraphs": [
+        "The kit on the order page is a rental, and you have to return it if you cancel. The [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) covers the return rules and the 30-day refund."
+      ]
+    },
+    {
+      "heading": "What customers complain about",
+      "paragraphs": [
+        "The Starlink profile on Trustpilot has a TrustScore of 1.6, and the most common complaints are support that is hard to reach and bills that rise. Save a screenshot of the offer on your order to compare with the invoice. See [our reading of the Trustpilot reviews](/en/reviews/starlink-trustpilot-reviews)."
+      ]
+    },
+    {
+      "heading": "Our experience so far",
+      "paragraphs": [
+        "We have signed up for Starlink, but we do not have usage experience yet. Speed, installation and day-to-day quality will go into an update of this article when we do."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Is Starlink worth it in a city? With stable fiber at your address, compare installation, monthly bills and any equipment fee before you switch.",
+        "Is Starlink better than fiber? Without good fiber at your location, it is worth pricing Starlink and checking for open sky to mount the dish. If both are available, compare stability and cost at your address.",
+        "Is Starlink good for gaming? Test the latency and the interruptions at your own address. The typical range Starlink publishes is a general reference.",
+        "Do I have to buy the Starlink kit? On the Reno order page the hardware was a rental with $0 upfront and $0 a month, and you return it if you cancel.",
+        "How much does Starlink cost per month? On the Reno order page, Residential 100 Mbps was $38.50 and Max was $91 a month. The price changes with the address."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "No stable fiber or cable reaches your address and cellular home internet is weak there.",
+      "You are fine with a rental kit that goes back if you cancel, and you will check the price on your own order page."
+    ],
+    "skipIf": [
+      "Stable fiber or cable already reaches you, so Starlink would only add a second bill.",
+      "You depend on online gaming with fast response, and the company does not promise a latency figure for your address."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Enter your address on the Starlink site and check the plan, the kit and the monthly price before you pay.",
+    "label": "See plans at my address",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Prices read on the official order page, without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-contract-cancel-refund"
+    },
+    {
+      "slug": "starlink-black-friday-deal"
+    },
+    {
+      "slug": "starlink-referral-link-how-it-works"
+    }
+  ]
+}

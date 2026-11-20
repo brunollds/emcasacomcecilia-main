@@ -1,0 +1,156 @@
+{
+  "id": 1131,
+  "slug": "starlink-trustpilot-reviews",
+  "translationKey": "starlink-reputation",
+  "locale": "en",
+  "title": "Starlink on Trustpilot: a 1.6 score from 871 reviews and what people complain about",
+  "seoTitle": "Starlink on Trustpilot: score and complaints",
+  "type": "Reputation Analysis",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "See the TrustScore, how the star ratings split and which complaints come up most on the Starlink profile on Trustpilot. Learn how to raise a problem with the company.",
+  "metaDescription": "Starlink on Trustpilot: a 1.6 TrustScore from 871 reviews. See the most common complaints and how to take a problem to the company.",
+  "publishedAt": "November 20, 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-trustpilot-reviews-capa.webp",
+  "imageAlt": "Starlink dish on a roof under a stormy sky, with lightning behind it. The cover reads “Trustpilot: the score”.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Starlink Development, the Trustpilot profile for starlink.com, shows a TrustScore of 1.6 out of 5 from 871 reviews. Of those reviews, 71% give one star. Trustpilot’s automated summary highlights difficulty reaching support and reports of rising bills. This profile covers reviews from different markets."
+      ]
+    },
+    {
+      "heading": "The score and how the stars split",
+      "paragraphs": [
+        "We read the public Starlink Development profile on November 20, 2026. Trustpilot labels the score “Bad”."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Indicator",
+          "starlink.com on Trustpilot"
+        ],
+        "rows": [
+          [
+            "TrustScore",
+            "1.6 out of 5"
+          ],
+          [
+            "Reviews",
+            "871"
+          ],
+          [
+            "5 stars",
+            "17%"
+          ],
+          [
+            "4 stars",
+            "2%"
+          ],
+          [
+            "3 stars",
+            "3%"
+          ],
+          [
+            "2 stars",
+            "7%"
+          ],
+          [
+            "1 star",
+            "71%"
+          ]
+        ],
+        "caption": "Reading of the public profile. The profile is unclaimed."
+      }
+    },
+    {
+      "heading": "How to read a Trustpilot score",
+      "paragraphs": [
+        "The profile is unclaimed, which means the company has not taken it over on the platform. Trustpilot also notes that the company has no history of asking customers for reviews, so the reviews may not be representative. The score reflects the people who chose to leave a review."
+      ]
+    },
+    {
+      "heading": "Which profile is the real Starlink?",
+      "paragraphs": [
+        "Look for “Starlink Development” with starlink.com listed as its website. Some similarly named profiles point to other domains."
+      ]
+    },
+    {
+      "heading": "What people complain about most",
+      "paragraphs": [
+        "Trustpilot’s automated summary of 355 recent reviews highlights difficulty reaching support, monthly bill increases, and extra charges. Opinions on speed are mixed. Some reviewers praise the connection."
+      ]
+    },
+    {
+      "heading": "What this means if you subscribe",
+      "paragraphs": [
+        "Check your invoice every month against the price on your order. Save a screenshot of the offer from the day you ordered, and check the conditions of the promotional price on your order.",
+        "The rental kit and return rules are in the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+        "alt": "Starlink dish attached to the roof of a wooden house",
+        "caption": "Residential dish installed. Photo from Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.8079
+      }
+    },
+    {
+      "heading": "Before you subscribe",
+      "paragraphs": [
+        "Before you subscribe, check the site and the terms. How to recognize the official site and the look-alike profiles is in [is Starlink legit?](/en/reviews/is-starlink-legit).",
+        "If you decide to subscribe, the [Starlink referral](/en/coupons/starlink) page has the link and the program rules."
+      ]
+    },
+    {
+      "heading": "How to raise a problem",
+      "paragraphs": [
+        "Open a support ticket on the Starlink website or in the app and keep the case number. If the bill does not match your order, send the price that showed on the offer along with the invoice. If you do not recognize a charge, contact your card issuer or bank too."
+      ],
+      "links": [
+        {
+          "label": "Starlink profile on Trustpilot",
+          "href": "https://www.trustpilot.com/review/starlink.com"
+        }
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "What is Starlink's score on Trustpilot? The starlink.com profile has a TrustScore of 1.6 from 871 reviews, and 71% of them are one star.",
+        "Which Starlink profile should I check? Look for the profile whose domain is starlink.com. Others use the name with different domains.",
+        "What do people complain about most? Support that is hard to reach, rising monthly bills and extra costs, according to Trustpilot's summary of recent reviews.",
+        "How do I raise a problem with Starlink? Open a ticket on the website or in the app and keep the case number. If the problem continues, contact your card issuer or bank about any charge you do not recognize."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Data from the public Trustpilot profiles. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+  "relatedArticles": [
+    {
+      "slug": "is-starlink-legit"
+    },
+    {
+      "slug": "starlink-contract-cancel-refund"
+    },
+    {
+      "slug": "is-starlink-worth-it"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": 1150,
+  "slug": "starlink-link-invito",
+  "translationKey": "starlink-indicacao",
+  "locale": "it",
+  "title": "Link di invito Starlink: come si usa e quando arriva la ricompensa",
+  "seoTitle": "Invito Starlink: come usare il link e ricevere",
+  "type": "Guida al codice invito",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Apri il link sul sito ufficiale e controlla la ricompensa nell'ordine prima di pagare. Scopri chi può usarlo, quando arriva l'importo e come scegliere tra credito e denaro.",
+  "metaDescription": "Come aprire il link di invito Starlink, trovare il valore nell'ordine e ricevere la ricompensa dopo aver rispettato le condizioni del programma.",
+  "publishedAt": "20 novembre 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-link-invito-capa.webp",
+  "imageAlt": "Antenna Starlink installata sul tetto sotto un cielo azzurro. La copertina dice «Link di invito» e «Ricompensa per i nuovi utenti qui, dopo 2 mesi».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Risposta rapida",
+      "paragraphs": [
+        "Apri il link di invito di Starlink e inserisci il tuo indirizzo. Prima di pagare, cerca la conferma dell'invito applicato e controlla il valore della ricompensa nell'ordine. Il programma vale per i nuovi clienti, e la ricompensa arriva dopo due cicli mensili completi, in credito di servizio o in denaro dove disponibile."
+      ]
+    },
+    {
+      "heading": "Come usare il link, passo dopo passo",
+      "paragraphs": [
+        "Apri il link dalla [pagina dell'invito Starlink](/it/coupons/starlink) e inserisci l'indirizzo in cui userai il servizio.",
+        "Controlla l'avviso prima di pagare. Starlink spiega che l'invito deve risultare nell'ordine originale."
+      ],
+      "bullets": [
+        "Scegli nell'ordine un piano Residenziale o Viaggio idoneo.",
+        "Cerca l'avviso che conferma l'invito applicato e controlla la ricompensa e il totale da pagare.",
+        "Completa l'ordine sul sito di Starlink. Il kit è a noleggio e l'ordine che abbiamo letto a Milano mostrava un totale di 19 € da pagare oggi.",
+        "Attiva il kit e segui la prima fattura. Pagare il primo mese e attivare l'apparecchio fanno parte dei requisiti dell'invito."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antenna Starlink Standard e router",
+        "caption": "Antenna e router di Starlink. Foto di Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Quanto vale e quando arriva",
+      "paragraphs": [
+        "Il valore dipende dal paese in cui ti registri e compare nel tuo account, per questo non lo indichiamo qui. Chi invita riceve lo stesso importo, in denaro o in credito di servizio.",
+        "L'abbonamento deve restare attivo e in regola per due cicli mensili completi. Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, secondo il paese, l'account e la verifica dell'identità.",
+        "La forma standard è il credito in fattura. Se il tuo account offre il pagamento in denaro, apri Inviti dal sito, da browser, scegli il metodo di ricompensa e completa identificazione e dati bancari su Stripe."
+      ]
+    },
+    {
+      "heading": "Chi può usarlo",
+      "bullets": [
+        "Chi si abbona deve essere un nuovo cliente. Clienti attuali ed ex clienti non ricevono la ricompensa.",
+        "Chi invita deve avere un piano Residenziale o Viaggio attivo. I piani Prioritario, Enterprise e Commerciale non danno ricompensa.",
+        "Il link vale per gli ordini fatti su starlink.com. Acquisti da rivenditori, marketplace e trasferimenti di account restano fuori."
+      ]
+    },
+    {
+      "heading": "Starlink ha un coupon?",
+      "paragraphs": [
+        "Non c'è un codice da digitare. Il link porta l'invito direttamente nell'ordine, quindi basta cercare l'avviso di conferma sullo schermo prima di pagare."
+      ]
+    },
+    {
+      "heading": "E l'offerta del Black Friday?",
+      "paragraphs": [
+        "Nell'ordine che abbiamo letto a Milano compariva il 50% di sconto sui piani per 3 mesi, con scadenza al 30 novembre. Guarda [i conti del Black Friday Starlink](/it/reviews/starlink-black-friday-offerta) e controlla nell'ordine per il tuo indirizzo se compaiono sia l'offerta sia l'invito."
+      ]
+    },
+    {
+      "heading": "Come seguire la ricompensa",
+      "paragraphs": [
+        "Nella sezione Inviti del sito o dell'app puoi seguire lo stato di chi si è abbonato dal tuo link. Starlink avvisa via email quando qualcuno fa l'ordine. Un invito può passare dalla verifica di idoneità prima di generare la ricompensa."
+      ]
+    },
+    {
+      "heading": "Domande frequenti",
+      "bullets": [
+        "Come funziona l'invito di Starlink? Fai l'ordine su starlink.com dal link, controlla che l'invito risulti applicato, attiva il kit e mantieni il servizio in regola per due cicli mensili completi.",
+        "Quanto vale l'invito di Starlink? Il valore dipende dal paese e compare nel tuo account. Controllalo nell'ordine prima di pagare.",
+        "Quando arriva la ricompensa di Starlink? Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, se l'invito rispetta le condizioni del programma.",
+        "L'invito vale se compro da un rivenditore? Il programma richiede l'acquisto diretto su starlink.com tramite il link.",
+        "Sono già stato cliente, posso usare il link? La ricompensa è per chi si abbona a Starlink per la prima volta.",
+        "Il link di invito funziona anche in Italia? Secondo il centro assistenza, l'invito vale nella maggior parte dei paesi in cui Starlink vende. Il valore cambia da paese a paese e si vede nell'account."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Controlla la ricompensa che compare nell'ordine per il tuo indirizzo prima di pagare.",
+    "label": "Vedi l'invito nell'ordine",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-black-friday-offerta"
+    },
+    {
+      "slug": "starlink-conviene"
+    },
+    {
+      "slug": "starlink-contratto-disdetta"
+    }
+  ]
+}

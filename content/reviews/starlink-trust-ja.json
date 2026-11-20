@@ -1,0 +1,114 @@
+{
+  "id": 1160,
+  "slug": "starlink-trust-ja",
+  "translationKey": "starlink-trust-guide",
+  "locale": "ja",
+  "title": "Starlinkは信頼できる？ 公式サイトの見分け方と、販売元の確認",
+  "seoTitle": "Starlinkは信頼できる？ 公式サイトと偽サイト",
+  "type": "エディトリアル",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Starlinkの公式サイトと正規販売店の一覧、フィッシングの注意が、誰から買うのかの確認に役立ちます。キットの支払いの前に確認することをまとめました。",
+  "metaDescription": "Starlinkの公式サイトの見分け方、正規販売店の一覧の探し方、同じ名前の別ドメインのTrustpilotページを区別する方法を解説します。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-trust-ja-capa.webp",
+  "imageAlt": "木組みの構造物に固定されたスタンドに取り付けられたStarlinkのアンテナ。表紙には「信頼できる？」と書かれています。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "StarlinkはSpaceXの衛星インターネットサービスで、公式サイトはstarlink.comです。キットをサイト以外で買う場合は、Starlinkの正規販売店の一覧を確認し、出品の販売元を支払いの前に確かめてください。Trustpilotで評価を見るときは、ドメインがstarlink.comのページを選びます。"
+      ]
+    },
+    {
+      "heading": "Starlinkとは何者で、誰が売るのか",
+      "paragraphs": [
+        "Starlinkは公式サイトで販売しています。Trustpilotでは、ドメインがstarlink.comのページが、カテゴリ「インターネットサービスプロバイダー」で登録されています。",
+        "[Starlinkは買う価値があるか](/ja/reviews/starlink-worth-it-ja)では、価格、設置、代わりになる回線を、あなたの住所で比べる方法を紹介しています。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Starlink Standardのアンテナとルーター",
+        "caption": "Starlinkのアンテナとルーター。写真：Starlink",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "公式サイトの見分け方",
+      "paragraphs": [
+        "ブラウザにstarlink.comと入力して開きます。情報を入れたり支払ったりする前に、アドレスがstarlink.comのままか確認してください。"
+      ]
+    },
+    {
+      "heading": "Trustpilotで、どのページがStarlinkか",
+      "paragraphs": [
+        "ドメインがstarlink.comのページが、Starlinkです。同じ名前のページは、ほかにもあります。ukstarlink.comとstarlink.omのページがそうで、これらはstarlink.comではありません。",
+        "運営会社の評判を見るときは、ドメインがstarlink.comのページを見てください。"
+      ]
+    },
+    {
+      "heading": "販売店とマーケットプレイス",
+      "paragraphs": [
+        "Starlinkは、正規の販売店の一覧を公開しています。有名なマーケットプレイスでも、出品の販売元を確認してください。",
+        "[Starlinkの紹介](/ja/coupons/starlink)の対象は、starlink.comでリンクから直接行う、資格のある注文です。販売店でキットを買う場合に、あとから足すことはできません。"
+      ]
+    },
+    {
+      "heading": "Starlinkの名前を使ったメッセージ",
+      "paragraphs": [
+        "Starlinkのヘルプセンターには、フィッシングに関する注意が載っています。Starlinkの名前で広告やメッセージが届いたら、支払いや情報の入力の前に、starlink.comで内容を確認してください。"
+      ]
+    },
+    {
+      "heading": "Trustpilotの数字",
+      "paragraphs": [
+        "ドメインがstarlink.comのページは、スコア1.6で、871件のレビューがあります。Trustpilotは、このページを会社が管理者として登録していない「Unclaimed profile」と表示しています。",
+        "[評判の詳しい読み方](/ja/reviews/starlink-trustpilot-ja)で、数字、不満の内容、レビューの偏りを説明しています。"
+      ]
+    },
+    {
+      "heading": "購入後に残しておくもの",
+      "bullets": [
+        "注文番号、決済で表示された価格、確認のメールを保存してください。食い違いがあれば、サイトかアプリからサポートに連絡します。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "Starlinkは信頼できますか？ StarlinkはSpaceXの衛星インターネットサービスです。公式サイトのstarlink.comと、ドメインがstarlink.comのTrustpilotページを確認してください。",
+        "Starlinkの公式サイトはどこですか？ starlink.comです。",
+        "販売元が正規かどうか、どう確認しますか？ Starlinkの販売店の一覧を見て、支払いの前に出品の販売元を確認します。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "公式サイト、ヘルプセンター、Trustpilotの公開ページを確認しました。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-trustpilot-ja"
+    },
+    {
+      "slug": "starlink-referral-ja"
+    },
+    {
+      "slug": "starlink-worth-it-ja"
+    }
+  ]
+}

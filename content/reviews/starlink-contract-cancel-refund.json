@@ -1,0 +1,111 @@
+{
+  "id": 1129,
+  "slug": "starlink-contract-cancel-refund",
+  "translationKey": "starlink-fidelidade",
+  "locale": "en",
+  "title": "Does Starlink have a contract? The rental kit, how to cancel and the 30-day refund",
+  "seoTitle": "Does Starlink have a contract? Cancel and refund",
+  "type": "Practical Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "See how the Starlink kit is offered as a rental, what you must return when you cancel, how to cancel from your account and how the 30-day refund works.",
+  "metaDescription": "Starlink offers the kit as a rental you return if you cancel. See the 30-day refund, how to cancel in your account and what changes afterward.",
+  "publishedAt": "November 20, 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-contract-cancel-refund-capa.webp",
+  "imageAlt": "Starlink dish in the snow in front of a chalet with a person working inside. The cover reads “Contract and cancelling”.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "On the order page we read for Reno, Nevada, the Starlink kit was a rental with $0 upfront and $0 a month, and the page says you have to return it if you cancel the service. The offer describes a refund of the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date, as stated on that order."
+      ]
+    },
+    {
+      "heading": "Rental kit, not a purchase",
+      "paragraphs": [
+        "On the order page we read on November 20, 2026, the hardware was listed as a rental, with $0 upfront and $0 a month. The page states that if you cancel the service, you will have to return your Starlink hardware rental.",
+        "We did not see an early cancellation fee on the page we read. Check the summary of your own order before you pay, since the terms can change with the plan and the address."
+      ]
+    },
+    {
+      "heading": "The 30 days to return it",
+      "paragraphs": [
+        "To ask for the refund of the kit and the first month under the offer, cancel the service and return the equipment undamaged within 30 days of the payment due date shown on that order.",
+        "Cancelling the subscription stops future charges according to the billing cycle. Through Starlink support, check how to open the kit return too, and keep the shipping receipt.",
+        "The [Starlink referral](/en/coupons/starlink) link opens the same order on the official site. Check the rental and return terms on your own order summary before you pay."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Parts of the Starlink Standard kit: dish, router, stand and cables",
+        "caption": "The kit that goes back on a return: dish, router, stand and cables. Photo from Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "How to cancel",
+      "paragraphs": [
+        "On the home page of your Starlink account, open “Your subscription”. Next to the plan, select “Manage” and then “Cancel Service”.",
+        "To avoid a new billing cycle, make the change before 00:00 UTC on your billing date.",
+        "According to the help center, the service stays active until the end of the paid period. If you change your mind before it ends, look for “Resume” on the home page. Reactivating after a cancellation depends on availability in your area."
+      ],
+      "bullets": [
+        "Sign in to your account on the Starlink website and, on the “Home” page, select “Your subscription”.",
+        "Next to the plan, click “Manage” and then “Cancel Service”.",
+        "Billing follows UTC. The change has to be made before 00:00 UTC on the billing date, or it only counts for the next cycle.",
+        "The service stays active until the date already paid, and no further charges follow.",
+        "Before the change takes effect, you can back out with “Resume”, in the “Your service plan will end on...” alert at the top of the “Home” page.",
+        "After cancelling, you may not be able to reactivate right away. Reactivation depends on availability in your area."
+      ],
+      "postParagraphs": [
+        "Cancelling the service does not return the kit by itself. Returning the kit within 30 days has its own rule, described above."
+      ]
+    },
+    {
+      "heading": "If the charges continue",
+      "paragraphs": [
+        "If you are still charged, open a ticket with Starlink and include the order number, the cancellation date and the case number, if you have one. If you do not recognize a transaction, contact your card issuer or bank as well.",
+        "Check [Starlink's reputation on Trustpilot](/en/reviews/starlink-trustpilot-reviews) to see what other customers report about billing and support."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Does Starlink have a contract? On the order page we read, the kit was a rental with $0 upfront and $0 a month. Confirm the terms on the summary of your own order.",
+        "What is the fee to cancel Starlink? We did not see an early cancellation fee on the page we read. Check the summary of your order before you confirm the cancellation.",
+        "Can I cancel Starlink at any time? You can request it from your account. Cancelling stops future charges, and you have to return the rented hardware.",
+        "Do I have to send the Starlink kit back? The page says that if you cancel the service, you will have to return your Starlink hardware rental.",
+        "Can I return Starlink within 30 days? The offer describes a refund of the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date, as stated on that order."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Based on the Starlink order page and help center. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+  "relatedArticles": [
+    {
+      "slug": "is-starlink-worth-it"
+    },
+    {
+      "slug": "starlink-black-friday-deal"
+    },
+    {
+      "slug": "starlink-trustpilot-reviews"
+    }
+  ]
+}

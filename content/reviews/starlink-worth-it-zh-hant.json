@@ -1,0 +1,175 @@
+{
+  "id": 1170,
+  "slug": "starlink-worth-it-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "starlink-vale-a-pena",
+  "title": "Starlink 值得買嗎？12 個月成本怎麼算，適合哪些人",
+  "seoTitle": "Starlink 值得買嗎？12 個月成本",
+  "type": "購買指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "比較 Starlink 十二個月的總成本與你家現有的網路。看設備、合約如何依地址而異，以及怎麼確認天線的安裝位置。",
+  "metaDescription": "Starlink 值得買嗎？十二個月成本怎麼算、設備與合約依地址不同，以及什麼情況下光纖或 4G 更划算。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-worth-it-zh-hant-capa.webp",
+  "imageAlt": "Starlink 天線固定在房屋屋簷，背景是群山。封面文字為「值得買嗎？」與「在家上網」。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "在缺少穩定網路的鄉間住家，Starlink 可能值得。如果已經有可靠的光纖，換之前先比較十二個月的總成本：把設備加上你地址的月費，確認有沒有合約，再用 Starlink 應用程式評估天線能裝在哪裡。"
+      ]
+    },
+    {
+      "heading": "十二個月成本怎麼算",
+      "paragraphs": [
+        "價格依國家與地址而異，這裡不列金額。請在 starlink.com 輸入你的地址，把訂購頁的數字填進下表。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "成本項目",
+          "你要確認的事"
+        ],
+        "rows": [
+          [
+            "設備",
+            "租賃還是購買，取消時是否須歸還"
+          ],
+          [
+            "月費",
+            "所選方案的月費，以及促銷價維持幾個月"
+          ],
+          [
+            "安裝",
+            "自行安裝，還是另付專業安裝"
+          ],
+          [
+            "合約",
+            "訂購頁是否要求最短期限或提前退出的費用"
+          ],
+          [
+            "優惠",
+            "當天應付總額，以及推薦獎勵何時入帳"
+          ]
+        ],
+        "caption": "把設備加上十二個月月費，並先不計推薦獎勵。"
+      },
+      "postParagraphs": [
+        "先在不含推薦獎勵的情況下算，再看獎勵能抵多少。獎勵說明見[推薦連結指南](/zh-hant/coupons/starlink)。"
+      ]
+    },
+    {
+      "heading": "天線裝在哪裡",
+      "paragraphs": [
+        "購買前，先選一個天空視野開闊的位置。樹枝與屋頂擋在視線內，可能造成中斷。請到預定位置，用 Starlink 應用程式檢查障礙物。"
+      ],
+      "links": [
+        {
+          "label": "如何用應用程式檢查障礙物",
+          "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "裝有 Starlink 天線的屋頂",
+          "caption": "天空開闊的屋頂天線。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      ]
+    },
+    {
+      "heading": "什麼時候該和光纖或 4G 比較",
+      "paragraphs": [
+        "如果已經有穩定的光纖，請把每個方案的安裝費、月費與可能的合約加起來比較。4G 則要加上你需要的設備費用，並確認流量夠全家使用。"
+      ]
+    },
+    {
+      "heading": "速度與遊戲",
+      "paragraphs": [
+        "住宅方案標示下載速度，但實際表現會因地點與時段而異。玩線上遊戲時，也要看延遲與中斷。",
+        "Starlink 在規格頁公布陸地上的典型延遲為 25 到 60 毫秒。這是官方參考值，我們沒有在訂購地址實測。"
+      ],
+      "links": [
+        {
+          "label": "Starlink 效能規格",
+          "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+        }
+      ]
+    },
+    {
+      "heading": "合約與退出",
+      "paragraphs": [
+        "在訂購頁確認硬體是租賃或購買、取消時是否須歸還，以及當地的退款條件。詳見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "用戶的抱怨",
+      "paragraphs": [
+        "Starlink 在 Trustpilot 的評分偏低，最常見的抱怨是客服難以聯絡，以及月費與額外費用上漲。請保留訂購頁的優惠畫面，和帳單對照。詳見[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "我們目前的使用經驗",
+      "paragraphs": [
+        "我們已經訂閱 Starlink，但還沒有使用經驗。速度、安裝與日常品質，會在有了之後更新到本文。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "住在市區值得買 Starlink 嗎？如果地址已有穩定光纖，換之前請比較安裝費、月費與合約。",
+        "Starlink 比光纖好嗎？沒有好光纖的地方，值得詢價並確認天空是否開闊。兩者都有時，比較你地址的穩定度與成本。",
+        "Starlink 適合玩遊戲嗎？請在你的地址測試延遲與中斷。官方公布的典型延遲只是一般參考。",
+        "Starlink 流量沒有上限嗎？Starlink 標示住宅方案流量不限。請看訂購頁的方案速度限制。",
+        "Starlink 一個月多少錢？依國家與地址而異。請輸入你的地址，以訂購頁顯示的價格為準。"
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你的地址沒有好的光纖，4G 訊號也不理想。",
+      "你接受訂購頁寫明的合約條件，也知道價格依地址而變。"
+    ],
+    "skipIf": [
+      "你的地址已有穩定光纖，不必另外負擔設備或合約。",
+      "你需要反應很快的線上遊戲，而官方公布的延遲只是參考值，沒有你地址的實測。"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "在 Starlink 官方網站輸入地址，付款前先確認方案、設備與月費。",
+    "label": "查看我的地址的方案",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-cancel-zh-hant"
+    },
+    {
+      "slug": "starlink-black-friday-zh-hant"
+    },
+    {
+      "slug": "starlink-referral-zh-hant"
+    }
+  ]
+}

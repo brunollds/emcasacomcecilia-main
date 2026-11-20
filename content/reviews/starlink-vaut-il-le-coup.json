@@ -1,0 +1,173 @@
+{
+  "id": 1140,
+  "slug": "starlink-vaut-il-le-coup",
+  "translationKey": "starlink-vale-a-pena",
+  "locale": "fr",
+  "title": "Starlink vaut-il le coup ? Les prix par forfait et pour qui il a du sens",
+  "seoTitle": "Starlink vaut-il le coup ? Prix et kit loué",
+  "type": "Guide d'achat",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Comparez le coût mensuel de Starlink avec la connexion qui arrive chez vous. Voyez les prix par forfait, le kit loué et comment vérifier où poser l'antenne.",
+  "metaDescription": "Starlink vaut-il le coup ? Prix par forfait, kit loué, pour qui il a du sens et quand la fibre ou la 4G reviennent moins cher.",
+  "publishedAt": "20 novembre 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-vaut-il-le-coup-capa.webp",
+  "imageAlt": "Antenne Starlink fixée à l'avant-toit d'une maison, avec des montagnes au fond. La couverture demande « Vaut-il le coup ? » et indique « Internet à la maison ».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Starlink peut valoir le coup dans les maisons où il manque une connexion stable. Si une fibre fiable arrive déjà chez vous, comparez le coût total avant de changer. Additionnez les mensualités de votre adresse et les frais d'installation éventuels, puis utilisez l'application Starlink pour vérifier où l'antenne peut aller."
+      ]
+    },
+    {
+      "heading": "Combien cela coûte",
+      "paragraphs": [
+        "Nous avons lu ces prix le 20 novembre 2026 sur la page de commande officielle, pour une adresse à Paris, avec l'offre de 30 % sur les forfaits. Le kit est loué à 0 € au départ et 0 € par mois, à renvoyer si vous annulez."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Forfait",
+          "Par mois",
+          "Kit",
+          "Installation professionnelle"
+        ],
+        "rows": [
+          [
+            "Résidentiel 100 Mbit/s",
+            "24,50 €",
+            "Loué, 0 €",
+            "172 €, optionnelle"
+          ],
+          [
+            "Résidentiel 200 Mbit/s",
+            "31,50 €",
+            "Loué, 0 €",
+            "172 €, optionnelle"
+          ],
+          [
+            "Résidentiel Max",
+            "45,50 €",
+            "Loué, 0 €",
+            "Gratuite"
+          ]
+        ],
+        "caption": "Prix mensuels avec l'offre de 30 %. Le total à payer le jour de la commande était de 19 €."
+      },
+      "postParagraphs": [
+        "La page lue ne dit pas combien de temps dure la réduction, donc n'extrapolez pas ces prix sur 12 mois sans vérifier la durée affichée sur votre commande. Faites le calcul d'abord sans la récompense du [parrainage Starlink](/fr/coupons/starlink), puis ajoutez-la si votre commande l'affiche."
+      ]
+    },
+    {
+      "heading": "Où poser l'antenne",
+      "paragraphs": [
+        "Avant de souscrire, choisissez un point avec une vue dégagée sur le ciel. Branches et toits dans le champ de vision peuvent provoquer des coupures. Utilisez l'application Starlink à l'endroit prévu pour l'antenne et lancez la vérification des obstacles."
+      ],
+      "links": [
+        {
+          "label": "Comment vérifier les obstacles dans l'application",
+          "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Maison avec l'antenne Starlink installée sur le toit",
+        "caption": "L'antenne installée sur un toit, ciel dégagé. Photo Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "Quand comparer avec la fibre ou la 4G",
+      "paragraphs": [
+        "Si une fibre stable arrive déjà, comparez l'installation, les mensualités et les éventuels engagements de chaque offre. Pour la 4G, ajoutez le prix du matériel dont vous aurez besoin et vérifiez que le forfait a assez de données pour la maison."
+      ]
+    },
+    {
+      "heading": "Débit et jeux en ligne",
+      "paragraphs": [
+        "Les forfaits résidentiels annoncent un débit descendant, mais la performance varie selon le lieu et l'heure. Pour le jeu en ligne, regardez aussi le temps de réponse et les coupures.",
+        "Starlink publie dans ses spécifications une latence typique de 25 à 60 ms au sol. C'est une référence de l'entreprise, sans mesure à l'adresse de notre commande."
+      ],
+      "links": [
+        {
+          "label": "Spécifications de performance de Starlink",
+          "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+        }
+      ]
+    },
+    {
+      "heading": "Matériel loué et résiliation",
+      "paragraphs": [
+        "Le kit est loué, et la commande demande de renvoyer le matériel si vous annulez. Le remboursement du kit et du premier mois s'applique si vous annulez et renvoyez le kit en bon état dans les 30 jours. Notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier) détaille la marche à suivre."
+      ]
+    },
+    {
+      "heading": "Ce que disent les clients",
+      "paragraphs": [
+        "Le profil starlink.com sur Trustpilot affiche 1,6 sur 5, et les plaintes visent surtout le support et la facturation. Faites une capture de l'offre de votre commande pour la comparer à la facture. Voyez [la lecture de Trustpilot](/fr/reviews/starlink-trustpilot-avis)."
+      ]
+    },
+    {
+      "heading": "Notre expérience jusqu'ici",
+      "paragraphs": [
+        "Nous avons déjà souscrit à Starlink, mais nous n'avons pas encore d'expérience d'usage. Débit, installation et qualité au quotidien feront l'objet d'une mise à jour de cet article, quand nous les aurons."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Starlink vaut-il le coup en ville ? Avec une fibre stable à l'adresse, comparez l'installation, les mensualités et les engagements avant de changer.",
+        "Starlink est-il meilleur que la fibre ? Sans bonne fibre sur place, cela vaut la peine de demander un tarif Starlink et de vérifier que le ciel est dégagé. Si les deux sont disponibles, comparez la stabilité et le coût à votre adresse.",
+        "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
+        "Starlink est-il illimité ? Vérifiez sur la commande les conditions du forfait qui s'affiche, notamment les limites de débit.",
+        "Combien coûte Starlink par mois ? Pour une adresse à Paris, la commande affichait 24,50 € pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec l'offre en cours. Le prix change selon l'adresse."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Vous n'avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
+      "Vous acceptez de louer le matériel et de le renvoyer si vous partez, et vous lisez le prix de votre adresse sur la commande."
+    ],
+    "skipIf": [
+      "Vous avez déjà une fibre stable à votre adresse, sans matériel à renvoyer.",
+      "Vous jouez en ligne et avez besoin d'une latence très basse, que la page lue ne garantit pas."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Saisissez votre adresse sur le site de Starlink et vérifiez le forfait, le kit et la mensualité avant de payer.",
+    "label": "Voir les forfaits à mon adresse",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Prix relevés sur la page de commande officielle. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-engagement-resilier"
+    },
+    {
+      "slug": "starlink-black-friday-offre"
+    },
+    {
+      "slug": "starlink-lien-parrainage"
+    }
+  ]
+}

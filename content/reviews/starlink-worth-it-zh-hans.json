@@ -1,0 +1,169 @@
+{
+  "id": 1176,
+  "slug": "starlink-worth-it-zh-hans",
+  "translationKey": "starlink-vale-a-pena",
+  "locale": "zh-hans",
+  "title": "Starlink 值得买吗？12 个月的账怎么算，适合谁",
+  "seoTitle": "Starlink 值得买吗？12 个月的账",
+  "type": "购买指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "把 Starlink 的 12 个月总成本，和你家已经有的网络放在一起比较。看看套件、月费、合约和天线安装位置怎么确认。",
+  "metaDescription": "Starlink 值得买吗？套件加 12 个月月费怎么算、适合哪些家庭，以及什么时候光纤或 4G 更合适。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-worth-it-zh-hans-capa.webp",
+  "imageAlt": "固定在房屋屋檐上的 Starlink 天线，背景是群山。封面问“值得买吗？”，下面写着“家用网络”。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "在没有稳定网络的乡村住宅，Starlink 可能值得买。如果家里已经有可靠的光纤，换之前先比较 12 个月的总成本：套件加上你所在地址的月费，再看有没有合约，并用 Starlink 应用确认天线能装在哪里。"
+      ]
+    },
+    {
+      "heading": "12 个月要花多少",
+      "paragraphs": [
+        "价格因国家和地址而异，中文版没有固定的参考国家，所以我们不列数字。下面这张表列出你需要从订单页读出的几项。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "要加总的项目",
+          "在哪里看"
+        ],
+        "rows": [
+          [
+            "套件",
+            "订单页的“硬件”。在有些国家是租用，在有些国家要购买"
+          ],
+          [
+            "月费",
+            "订单页所选套餐，注意优惠期限"
+          ],
+          [
+            "安装",
+            "订单页可选的专业安装，单独列价"
+          ],
+          [
+            "优惠期结束后",
+            "订单页如果没写，就按标准价格另行确认"
+          ]
+        ],
+        "caption": "把套件和 12 个月的月费加起来，再减去优惠。算的时候先不要计入推荐奖励。"
+      },
+      "postParagraphs": [
+        "先不含奖励算一遍，再看订单里带推荐链接时显示的奖励，满足规则之后才会发放。见[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
+      ]
+    },
+    {
+      "heading": "天线装在哪里",
+      "paragraphs": [
+        "购买前，先选一个能看到开阔天空的位置。视野里的树枝和屋顶可能造成中断。到打算装天线的位置打开 Starlink 应用，做障碍物检查。"
+      ],
+      "links": [
+        {
+          "label": "如何用应用检查障碍物",
+          "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "房屋屋顶上安装好的 Starlink 天线",
+        "caption": "天线装在屋顶，视野开阔。Starlink 官方照片。",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "什么时候和光纤或 4G 比较",
+      "paragraphs": [
+        "如果已经有稳定的光纤，就把各家方案的安装费、月费和可能的合约加起来比较。对 4G，要加上你需要买的设备，并确认流量够全家用。"
+      ]
+    },
+    {
+      "heading": "速度与游戏",
+      "paragraphs": [
+        "家用套餐会标注下载速度，但实际表现会因地点和时段而不同。玩在线游戏时，还要看延迟和中断。",
+        "Starlink 在规格说明里给出陆地上的典型延迟为 25 至 60 毫秒。这是公司给的参考，我们没有在订单地址实测。"
+      ],
+      "links": [
+        {
+          "label": "Starlink 性能规格",
+          "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+        }
+      ]
+    },
+    {
+      "heading": "合约与退出",
+      "paragraphs": [
+        "在订单里核对是否有合约、套件是否须归还，以及退回和退款的条件。具体步骤见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "用户抱怨什么",
+      "paragraphs": [
+        "Starlink 在 Trustpilot 上的评分是 1.6，共 871 条评价，我们读到的集中抱怨是客服难联系和费用上涨。这个页面的评价未必有代表性。见[Trustpilot 评价解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "我们的使用体验",
+      "paragraphs": [
+        "我们已经订购了 Starlink，但还没有使用体验。速度、安装和日常稳定性，会在有了之后补进这篇文章。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "在城市里值得买 Starlink 吗？如果地址上有稳定的光纤，换之前先比较安装费、月费和合约。",
+        "Starlink 比光纤好吗？没有好光纤时，值得查一下价格并确认能不能看到开阔天空。两者都有时，比较稳定性和成本。",
+        "Starlink 适合玩游戏吗？请在你的地址测延迟和中断。Starlink 公布的典型范围只是通用参考。",
+        "Starlink 是不限量的吗？Starlink 说家用套餐不限数据量。请看订单页所选套餐的速度限制。",
+        "Starlink 每月多少钱？因国家和地址而异。输入地址，在订单页上读出所选套餐的月费。"
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你的地址没有好光纤，4G 也很弱。",
+      "你能接受订单上写明的套件和合约条件，并知道价格会随地址变化。"
+    ],
+    "skipIf": [
+      "你的地址已有稳定光纤，不用买套件，也没有合约。",
+      "你要玩延迟要求高的在线游戏，而我们读到的页面没有公布实测延迟。"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "在 Starlink 官网输入你的地址，付款前确认套餐、套件和月费。",
+    "label": "查看我所在地址的套餐",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-cancel-zh-hans"
+    },
+    {
+      "slug": "starlink-black-friday-zh-hans"
+    },
+    {
+      "slug": "starlink-referral-zh-hans"
+    }
+  ]
+}

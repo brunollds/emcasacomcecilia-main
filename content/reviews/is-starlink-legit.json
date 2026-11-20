@@ -1,0 +1,114 @@
+{
+  "id": 1130,
+  "slug": "is-starlink-legit",
+  "translationKey": "starlink-trust-guide",
+  "locale": "en",
+  "title": "Is Starlink legit? How to find the official site and check who is selling",
+  "seoTitle": "Is Starlink legit? Official site and scams",
+  "type": "Editorial",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "The official Starlink site and the list of authorized retailers show you who you are buying from. See what to check, and which look-alike profiles to ignore, before you pay.",
+  "metaDescription": "See how to recognize the official Starlink site, spot look-alike profiles on Trustpilot and check the list of authorized retailers.",
+  "publishedAt": "November 20, 2026",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/is-starlink-legit-capa.webp",
+  "imageAlt": "Starlink dish mounted on a bracket attached to a wooden structure. The cover asks “Is it legit?”.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Starlink is the satellite internet service from SpaceX, and its official site is starlink.com. If you buy hardware anywhere else, check Starlink's list of authorized retailers and look up who the seller behind the listing is before you pay. Starlink also publishes a notice on phishing in its help center."
+      ]
+    },
+    {
+      "heading": "Who Starlink is and where it sells",
+      "paragraphs": [
+        "Starlink sells through its official site. The order pages we read for this series are on starlink.com, where the plan, the kit and the total due are shown before payment.",
+        "Our analysis of [when Starlink is worth it](/en/reviews/is-starlink-worth-it) shows how to compare price, installation and alternatives at your address."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Starlink Standard dish and the router",
+        "caption": "Starlink dish and router. Photo from Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "How to recognize the official site",
+      "paragraphs": [
+        "Type starlink.com into your browser. Before you enter any details or pay, check that you are still on starlink.com.",
+        "If anyone asks you to pay by message or outside the order page, confirm with Starlink support before you go on."
+      ]
+    },
+    {
+      "heading": "Look-alike profiles with the Starlink name",
+      "paragraphs": [
+        "On Trustpilot, the profile for starlink.com is called “Starlink Development”. Other profiles use the name too, with different domains, such as ukstarlink.com and starlink.om. They are not starlink.com. Judge the company by the profile that points to starlink.com."
+      ]
+    },
+    {
+      "heading": "Retailers and marketplaces",
+      "paragraphs": [
+        "Starlink keeps a list of authorized retailers. Even on a well-known marketplace, check who the seller of the listing is.",
+        "The [Starlink referral](/en/coupons/starlink) applies to eligible orders placed through the link directly on starlink.com. It cannot be added to a kit bought at a retailer."
+      ],
+      "links": [
+        {
+          "label": "Starlink list of authorized retailers",
+          "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+        }
+      ]
+    },
+    {
+      "heading": "What customer reviews show",
+      "paragraphs": [
+        "On Trustpilot, the starlink.com profile has a TrustScore of 1.6 from 871 reviews, and the profile is unclaimed. Reviewers often point to support that is hard to reach.",
+        "Our [full reading of the Trustpilot profile](/en/reviews/starlink-trustpilot-reviews) has the numbers and what people complain about most."
+      ]
+    },
+    {
+      "heading": "What to keep after you buy",
+      "bullets": [
+        "Keep the order number, the price shown at checkout and the confirmation email. If something does not match, contact support through the website or the app."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Is Starlink legit? Starlink is the satellite internet service from SpaceX. Check that you are on starlink.com, and use the list of authorized retailers if you buy elsewhere.",
+        "What is the official Starlink website? The official site is starlink.com.",
+        "How do I confirm that a seller is authorized? See the Starlink list of authorized retailers and check who the seller of the listing is before you pay."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Based on the official site, the help center and the public Trustpilot profiles. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-trustpilot-reviews"
+    },
+    {
+      "slug": "starlink-referral-link-how-it-works"
+    },
+    {
+      "slug": "is-starlink-worth-it"
+    }
+  ]
+}

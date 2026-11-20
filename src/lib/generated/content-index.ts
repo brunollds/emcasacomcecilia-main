@@ -278293,6 +278293,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 1120,
     "slug": "starlink-indicacao-como-usar",
+    "translationKey": "starlink-indicacao",
+    "locale": "pt",
     "title": "Link de indicação da Starlink: como usar e quando cai a recompensa",
     "seoTitle": "Indicação Starlink: como usar o link e receber",
     "type": "Guia do Código de Indicação",
@@ -278416,6 +278418,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 1121,
     "slug": "black-friday-starlink",
+    "translationKey": "starlink-black-friday",
+    "locale": "pt",
     "title": "Black Friday Starlink 2026: kit e 1º mês do Max ficam em R$ 23,30 após a recompensa",
     "seoTitle": "Black Friday Starlink 2026: Max com kit a R$ 49",
     "type": "Guia de Black Friday",
@@ -278578,6 +278582,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 1122,
     "slug": "starlink-vale-a-pena",
+    "translationKey": "starlink-vale-a-pena",
+    "locale": "pt",
     "title": "Starlink vale a pena? A conta de 12 meses e para quem faz sentido",
     "seoTitle": "Starlink vale a pena? A conta de 12 meses",
     "type": "Guia de Compra",
@@ -278743,6 +278749,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 1123,
     "slug": "starlink-fidelidade-como-cancelar",
+    "translationKey": "starlink-fidelidade",
+    "locale": "pt",
     "title": "Starlink tem fidelidade? O contrato de 12 meses, a multa e os 30 dias para devolver",
     "seoTitle": "Starlink tem fidelidade? Multa de até 1.099 reais",
     "type": "Guia Prático",
@@ -278869,6 +278877,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 1124,
     "slug": "starlink-e-confiavel",
+    "translationKey": "starlink-trust-guide",
+    "locale": "pt",
     "title": "Starlink é confiável? Como achar o site oficial e conferir quem vende",
     "seoTitle": "Starlink é confiável? Site oficial e golpes",
     "type": "Editorial",
@@ -278986,6 +278996,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 1125,
     "slug": "starlink-reclame-aqui-nota-reputacao",
+    "translationKey": "starlink-reputation",
+    "locale": "pt",
     "title": "Starlink no Reclame Aqui: a nota, a queda de Ótima para Boa e o que mais gera reclamação",
     "seoTitle": "Starlink no Reclame Aqui: nota e reclamações",
     "type": "Análise de Reputação",
@@ -279141,6 +279153,7538 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "starlink-vale-a-pena"
+      }
+    ]
+  },
+  {
+    "id": 1126,
+    "slug": "starlink-referral-link-how-it-works",
+    "translationKey": "starlink-indicacao",
+    "locale": "en",
+    "title": "Starlink referral link: how to use it and when the $100 reward arrives",
+    "seoTitle": "Starlink referral link: how to use it and get paid",
+    "type": "Referral Code Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Open the link on the official site and check the reward on your order before you pay. See who qualifies, when the money arrives and how to choose between credit and cash.",
+    "metaDescription": "See how to open the Starlink referral link, find the reward on your order and collect it after you meet the program's conditions.",
+    "publishedAt": "November 20, 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-referral-link-how-it-works-capa.webp",
+    "imageAlt": "Starlink dish mounted on a roof under a blue sky. The cover reads “Referral link” and “$100 for new users here, after 2 months”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Open the Starlink referral link and enter your address. Before you pay, look for the confirmation that the code was applied and check the reward amount on the order. The program is for new customers, and the reward is released after two full monthly cycles, as service credit or as cash where that option is offered."
+        ]
+      },
+      {
+        "heading": "How to use the link, step by step",
+        "paragraphs": [
+          "Open the link from the [Starlink referral page](/en/coupons/starlink) and enter the address where you will use the service."
+        ],
+        "postParagraphs": [
+          "Check the notice before you pay. Starlink says the referral has to be on the original order."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Order screen on the official Starlink site with the message Referral Code Applied, saying that by signing up with this code you and your friend get $100 each, as cash or service credit",
+          "caption": "Order on the official site with the referral link applied (Nevada).",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        },
+        "bullets": [
+          "Pick an eligible Residential or Roam plan on the order.",
+          "Look for the “Referral Code Applied” notice and check the reward and the total due.",
+          "Finish the order on starlink.com.",
+          "Activate the kit and watch your first invoice. Paying the first month and activating the equipment are part of the referral requirements."
+        ]
+      },
+      {
+        "heading": "How much it pays and when",
+        "paragraphs": [
+          "On the order we saw in Nevada with our link, Starlink showed $100 for the person who signs up. The person who refers also gets the same amount, in cash or as service credit.",
+          "The subscription has to stay active and paid up for two full monthly cycles. The help center says issuance can start from 60 days after activation, depending on the country, the account and the identity check.",
+          "The default is credit on your invoice. If your account offers cash, open Referrals on the website in a browser and choose the reward method there."
+        ]
+      },
+      {
+        "heading": "Who can use it",
+        "bullets": [
+          "The person who signs up has to be a new customer. Current and former customers do not get the reward.",
+          "The person who refers has to be an active customer on a Residential or Roam plan. Priority, Enterprise and Commercial plans do not earn the reward.",
+          "The reward applies to new Residential and Roam subscriptions."
+        ]
+      },
+      {
+        "heading": "Does Starlink have a coupon code?",
+        "paragraphs": [
+          "The link already carries the referral code to your order, so there is nothing to type. Before you pay, look for the confirmation on the screen.",
+          "The program counts orders placed on starlink.com through the link. Purchases from retailers or marketplaces and account transfers are outside the referral."
+        ]
+      },
+      {
+        "heading": "What about the Black Friday offer?",
+        "paragraphs": [
+          "The Black Friday discount on service plans and the referral reward are two separate lines to check on the order. See the [Starlink Black Friday math](/en/reviews/starlink-black-friday-deal) and look at the offer for your own address."
+        ]
+      },
+      {
+        "heading": "How to track a referral",
+        "paragraphs": [
+          "In the Referrals tab of the website or the app, you can follow the status of everyone who signed up through your link. Starlink sends an email when someone places an order. A referral may go through an eligibility check before it produces a reward."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "How does the Starlink referral work? Place the order on starlink.com through the link. Check that the referral shows as applied, activate the kit and keep the service active and paid for two full monthly cycles.",
+          "How much is the Starlink referral worth? On the Nevada order with our link, $100 showed up for the person who signs up. Check the amount on your own order.",
+          "When does the Starlink referral reward arrive? The help center says issuance can start from 60 days after activation, if the referral meets the program conditions.",
+          "Does the referral work on a retailer or marketplace order? The program requires the purchase to be made directly on starlink.com through the link.",
+          "I used Starlink before. Can I use the link? The reward is for people who subscribe to Starlink for the first time.",
+          "Does the referral work in other countries? The help center says it works in most countries where Starlink sells, and the amount depends on the country where you sign up. In the US, our link showed $100."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Check the reward your order shows for your address before you pay.",
+      "label": "See the referral on the order",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "We read the help center and the Starlink order page without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-black-friday-deal"
+      },
+      {
+        "slug": "is-starlink-worth-it"
+      },
+      {
+        "slug": "starlink-contract-cancel-refund"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1127,
+    "slug": "starlink-black-friday-deal",
+    "translationKey": "starlink-black-friday",
+    "locale": "en",
+    "title": "Starlink Black Friday 2026: what the Nevada offer costs",
+    "seoTitle": "Starlink Black Friday 2026: 30% off service in select areas",
+    "type": "Black Friday Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "On the order page for Reno, Nevada, Starlink showed $21.65 due today and plans from $38.50 a month. See how the referral reward fits in and how to check your address.",
+    "metaDescription": "In Reno, Starlink showed 30% off service, a $0 rental kit and plans from $38.50 a month. See what the order costs and check your own address.",
+    "publishedAt": "November 20, 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-black-friday-deal-capa.webp",
+    "imageAlt": "Starlink dish on the roof of a cabin at dusk. The cover reads “Black Friday 2026” and “30% off plans”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "A Reno, Nevada, order showed 30% off service plans, a $0 rental kit and $21.65 due at checkout. Plans started at $38.50 a month. The order shown with our link listed a separate $100 referral reward. Check your address for the offer and confirm the reward rules before paying."
+        ]
+      },
+      {
+        "heading": "What you pay and when the reward lands",
+        "paragraphs": [
+          "We read the order page for Reno, Nevada, on November 20, 2026, without completing a purchase. It showed $21.65 due today. Residential 100 Mbps was listed at $38.50 a month, with the Starlink V5 and Router Mini included, and Max at $91 a month. The hardware was a rental, $0 upfront and $0 a month.",
+          "The screenshot with our link showed $20 plus taxes due at checkout and a $100 referral offer. Two months at the price displayed for 100 Mbps would be $77. Check your actual bills and any upfront charges before calculating how much of that cost an eligible reward would cover."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Order page, Reno, Nevada",
+            "Amount"
+          ],
+          "rows": [
+            [
+              "Total due today",
+              "$21.65"
+            ],
+            [
+              "Residential 100 Mbps, per month",
+              "$38.50"
+            ],
+            [
+              "Max, per month",
+              "$91"
+            ],
+            [
+              "Hardware rental, upfront and monthly",
+              "$0 and $0"
+            ],
+            [
+              "Optional professional installation, 100 Mbps",
+              "$99"
+            ],
+            [
+              "Referral reward on the Nevada order with our link, after two monthly cycles",
+              "$100"
+            ]
+          ],
+          "caption": "Values as shown on the order page. We did not record how long the promotional price lasts or what the plan costs afterward."
+        },
+        "postParagraphs": [
+          "To get the reward, the referral has to be eligible and the service has to stay active and paid up for two full monthly cycles. Starlink offers credit on the invoice and, depending on the account, payment in cash."
+        ]
+      },
+      {
+        "heading": "What the order looks like",
+        "paragraphs": [
+          "The screenshot shows “Referral Code Applied” and a displayed offer of $100 each for the new customer and the referrer. Starlink checks eligibility before the reward is paid.",
+          "To check your own offer, open the link, enter your address and look for the same notice before you pay. See whether the order shows the reward and the monthly price."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Order screen on the official Starlink site with the message Referral Code Applied, saying that by signing up with this code you and your friend get $100 each, as cash or service credit",
+          "caption": "Order on the official site with the referral link applied (Nevada).",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "What is it worth to refer someone?",
+        "paragraphs": [
+          "After you subscribe you can refer other people, and the person who refers gets the same amount, in cash or as service credit. The person you refer has to complete the required cycles before the reward is paid.",
+          "See [how the referral program works](/en/reviews/starlink-referral-link-how-it-works) and check in your account what each referral is worth."
+        ]
+      },
+      {
+        "heading": "Does the offer apply at your address?",
+        "paragraphs": [
+          "The 30% applies in select areas and depends on the address you enter. Put in yours and compare the monthly price, the kit, the installation and how long the promotion runs. The order page for Reno said the kit ships within one week."
+        ]
+      },
+      {
+        "heading": "Rental kit, cancelling and the refund",
+        "paragraphs": [
+          "The Nevada order says rented equipment must be returned if you cancel. Its refund terms describe canceling service and returning the kit undamaged within 30 days of the payment due date. See the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
+        ]
+      },
+      {
+        "heading": "What comes after the promotion?",
+        "paragraphs": [
+          "We did not read the plan price once the promotional period ends. Before you pay, check the order page for how long the 30% runs and what the standard price is."
+        ]
+      },
+      {
+        "heading": "How to use the link",
+        "paragraphs": [
+          "Open the link and type the address where you will install the dish. Pick the plan, check that the referral shows as applied and save a screenshot of the offer before you pay.",
+          "The [Starlink referral page](/en/coupons/starlink) has the link and the program rules."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Does Starlink have a Black Friday deal? The order page we read shows 30% off service plans in select areas for those who sign up before the end of the month, with a $0 rental kit.",
+          "Does the referral stack with the offer? The plan offer and the referral are separate lines on the order. The Nevada order with our link showed the $100 referral next to a total due of $20 plus taxes. The reward depends on eligibility and two full monthly cycles.",
+          "How much do you pay when you order? The Reno order page showed $21.65 due today. The first monthly bill follows after that.",
+          "Is the Starlink kit free? The page lists it as a rental with $0 upfront and $0 a month. If you cancel, you have to return it.",
+          "How long does the offer run? Starlink advertises it until the end of November. Enter your address on the order page to see whether it is available."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "The order opens on the Starlink site. Check the plan price, the kit terms and the referral value before you pay.",
+      "label": "Check the offer at my address",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Prices read on the official order page, without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-link-how-it-works"
+      },
+      {
+        "slug": "is-starlink-worth-it"
+      },
+      {
+        "slug": "starlink-contract-cancel-refund"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1128,
+    "slug": "is-starlink-worth-it",
+    "translationKey": "starlink-vale-a-pena",
+    "locale": "en",
+    "title": "Is Starlink worth it? The monthly cost and who it makes sense for",
+    "seoTitle": "Is Starlink worth it? Plan prices and the kit",
+    "type": "Buying Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Compare the monthly cost of Starlink with the connection that already reaches your home. See the plan prices by address, the rental kit and how to check where the dish can go.",
+    "metaDescription": "Is Starlink worth it? Plan prices by address, the rental kit, who it suits and when fiber or cellular comes out ahead.",
+    "publishedAt": "November 20, 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/is-starlink-worth-it-capa.webp",
+    "imageAlt": "Starlink dish attached to the eave of a house, with mountains behind it. The cover asks “Worth it?” and reads “Home internet”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Starlink can be worth it in rural areas and homes where no stable connection reaches you. If reliable fiber or cable already arrives, compare the total cost before you switch. Add the monthly prices at your address to any installation fee, and use the Starlink app to see where the dish can go."
+        ]
+      },
+      {
+        "heading": "What the plans cost",
+        "paragraphs": [
+          "We read the public order page for one address, Reno, Nevada, on November 20, 2026. The hardware was a rental with $0 upfront and $0 a month, and the page shows 30% off service plans in select areas."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan, Reno, Nevada",
+            "Per month",
+            "Kit"
+          ],
+          "rows": [
+            [
+              "Residential 100 Mbps",
+              "$38.50",
+              "$0 rental"
+            ],
+            [
+              "Max",
+              "$91",
+              "$0 rental"
+            ]
+          ],
+          "caption": "Monthly price as shown, before taxes, the optional installation and any referral reward. We did not record how long the promotional price lasts."
+        },
+        "postParagraphs": [
+          "Residential 100 Mbps included the Starlink V5 with the Router Mini. Max came with the Standard rental kit and $0 professional installation. For 100 Mbps, professional installation was optional, at $99. Prices change with the address you enter, so make this calculation on your own order page.",
+          "Work out the cost before the reward. In the Nevada screenshot with our link, the order displayed a $100 referral offer subject to eligibility. See the [Starlink referral page](/en/coupons/starlink)."
+        ]
+      },
+      {
+        "heading": "Where to put the dish",
+        "paragraphs": [
+          "Before you buy, pick a spot with a wide view of the sky. Branches and roofs in the field of view can cause interruptions. Use the Starlink app at the planned spot and run the obstruction check."
+        ],
+        "links": [
+          {
+            "label": "How to check for obstructions in the app",
+            "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "House with a Starlink dish installed on the roof",
+          "caption": "Dish on a roof with open sky. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "When to compare with fiber or cellular",
+        "paragraphs": [
+          "If stable fiber or cable already reaches you, compare the installation, the monthly bills and any equipment fee of each offer. For a cellular home plan, add the price of the device you would need and check that the data allowance fits your household."
+        ]
+      },
+      {
+        "heading": "Speed and gaming",
+        "paragraphs": [
+          "Residential plans advertise a download speed, but real performance can vary with location and time of day. For online games, watch the response time and the interruptions too.",
+          "In its specifications, Starlink publishes a typical latency of 25 to 60 ms on land. That is the company's own reference, with no measurement at the address we checked."
+        ],
+        "links": [
+          {
+            "label": "Starlink performance specifications",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "Rental kit and leaving",
+        "paragraphs": [
+          "The kit on the order page is a rental, and you have to return it if you cancel. The [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) covers the return rules and the 30-day refund."
+        ]
+      },
+      {
+        "heading": "What customers complain about",
+        "paragraphs": [
+          "The Starlink profile on Trustpilot has a TrustScore of 1.6, and the most common complaints are support that is hard to reach and bills that rise. Save a screenshot of the offer on your order to compare with the invoice. See [our reading of the Trustpilot reviews](/en/reviews/starlink-trustpilot-reviews)."
+        ]
+      },
+      {
+        "heading": "Our experience so far",
+        "paragraphs": [
+          "We have signed up for Starlink, but we do not have usage experience yet. Speed, installation and day-to-day quality will go into an update of this article when we do."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is Starlink worth it in a city? With stable fiber at your address, compare installation, monthly bills and any equipment fee before you switch.",
+          "Is Starlink better than fiber? Without good fiber at your location, it is worth pricing Starlink and checking for open sky to mount the dish. If both are available, compare stability and cost at your address.",
+          "Is Starlink good for gaming? Test the latency and the interruptions at your own address. The typical range Starlink publishes is a general reference.",
+          "Do I have to buy the Starlink kit? On the Reno order page the hardware was a rental with $0 upfront and $0 a month, and you return it if you cancel.",
+          "How much does Starlink cost per month? On the Reno order page, Residential 100 Mbps was $38.50 and Max was $91 a month. The price changes with the address."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "No stable fiber or cable reaches your address and cellular home internet is weak there.",
+        "You are fine with a rental kit that goes back if you cancel, and you will check the price on your own order page."
+      ],
+      "skipIf": [
+        "Stable fiber or cable already reaches you, so Starlink would only add a second bill.",
+        "You depend on online gaming with fast response, and the company does not promise a latency figure for your address."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Enter your address on the Starlink site and check the plan, the kit and the monthly price before you pay.",
+      "label": "See plans at my address",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Prices read on the official order page, without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-contract-cancel-refund"
+      },
+      {
+        "slug": "starlink-black-friday-deal"
+      },
+      {
+        "slug": "starlink-referral-link-how-it-works"
+      }
+    ]
+  },
+  {
+    "id": 1129,
+    "slug": "starlink-contract-cancel-refund",
+    "translationKey": "starlink-fidelidade",
+    "locale": "en",
+    "title": "Does Starlink have a contract? The rental kit, how to cancel and the 30-day refund",
+    "seoTitle": "Does Starlink have a contract? Cancel and refund",
+    "type": "Practical Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "See how the Starlink kit is offered as a rental, what you must return when you cancel, how to cancel from your account and how the 30-day refund works.",
+    "metaDescription": "Starlink offers the kit as a rental you return if you cancel. See the 30-day refund, how to cancel in your account and what changes afterward.",
+    "publishedAt": "November 20, 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-contract-cancel-refund-capa.webp",
+    "imageAlt": "Starlink dish in the snow in front of a chalet with a person working inside. The cover reads “Contract and cancelling”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "On the order page we read for Reno, Nevada, the Starlink kit was a rental with $0 upfront and $0 a month, and the page says you have to return it if you cancel the service. The offer describes a refund of the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date, as stated on that order."
+        ]
+      },
+      {
+        "heading": "Rental kit, not a purchase",
+        "paragraphs": [
+          "On the order page we read on November 20, 2026, the hardware was listed as a rental, with $0 upfront and $0 a month. The page states that if you cancel the service, you will have to return your Starlink hardware rental.",
+          "We did not see an early cancellation fee on the page we read. Check the summary of your own order before you pay, since the terms can change with the plan and the address."
+        ]
+      },
+      {
+        "heading": "The 30 days to return it",
+        "paragraphs": [
+          "To ask for the refund of the kit and the first month under the offer, cancel the service and return the equipment undamaged within 30 days of the payment due date shown on that order.",
+          "Cancelling the subscription stops future charges according to the billing cycle. Through Starlink support, check how to open the kit return too, and keep the shipping receipt.",
+          "The [Starlink referral](/en/coupons/starlink) link opens the same order on the official site. Check the rental and return terms on your own order summary before you pay."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Parts of the Starlink Standard kit: dish, router, stand and cables",
+          "caption": "The kit that goes back on a return: dish, router, stand and cables. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "How to cancel",
+        "paragraphs": [
+          "On the home page of your Starlink account, open “Your subscription”. Next to the plan, select “Manage” and then “Cancel Service”.",
+          "To avoid a new billing cycle, make the change before 00:00 UTC on your billing date.",
+          "According to the help center, the service stays active until the end of the paid period. If you change your mind before it ends, look for “Resume” on the home page. Reactivating after a cancellation depends on availability in your area."
+        ],
+        "bullets": [
+          "Sign in to your account on the Starlink website and, on the “Home” page, select “Your subscription”.",
+          "Next to the plan, click “Manage” and then “Cancel Service”.",
+          "Billing follows UTC. The change has to be made before 00:00 UTC on the billing date, or it only counts for the next cycle.",
+          "The service stays active until the date already paid, and no further charges follow.",
+          "Before the change takes effect, you can back out with “Resume”, in the “Your service plan will end on...” alert at the top of the “Home” page.",
+          "After cancelling, you may not be able to reactivate right away. Reactivation depends on availability in your area."
+        ],
+        "postParagraphs": [
+          "Cancelling the service does not return the kit by itself. Returning the kit within 30 days has its own rule, described above."
+        ]
+      },
+      {
+        "heading": "If the charges continue",
+        "paragraphs": [
+          "If you are still charged, open a ticket with Starlink and include the order number, the cancellation date and the case number, if you have one. If you do not recognize a transaction, contact your card issuer or bank as well.",
+          "Check [Starlink's reputation on Trustpilot](/en/reviews/starlink-trustpilot-reviews) to see what other customers report about billing and support."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Does Starlink have a contract? On the order page we read, the kit was a rental with $0 upfront and $0 a month. Confirm the terms on the summary of your own order.",
+          "What is the fee to cancel Starlink? We did not see an early cancellation fee on the page we read. Check the summary of your order before you confirm the cancellation.",
+          "Can I cancel Starlink at any time? You can request it from your account. Cancelling stops future charges, and you have to return the rented hardware.",
+          "Do I have to send the Starlink kit back? The page says that if you cancel the service, you will have to return your Starlink hardware rental.",
+          "Can I return Starlink within 30 days? The offer describes a refund of the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date, as stated on that order."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Based on the Starlink order page and help center. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "relatedArticles": [
+      {
+        "slug": "is-starlink-worth-it"
+      },
+      {
+        "slug": "starlink-black-friday-deal"
+      },
+      {
+        "slug": "starlink-trustpilot-reviews"
+      }
+    ]
+  },
+  {
+    "id": 1130,
+    "slug": "is-starlink-legit",
+    "translationKey": "starlink-trust-guide",
+    "locale": "en",
+    "title": "Is Starlink legit? How to find the official site and check who is selling",
+    "seoTitle": "Is Starlink legit? Official site and scams",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "The official Starlink site and the list of authorized retailers show you who you are buying from. See what to check, and which look-alike profiles to ignore, before you pay.",
+    "metaDescription": "See how to recognize the official Starlink site, spot look-alike profiles on Trustpilot and check the list of authorized retailers.",
+    "publishedAt": "November 20, 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/is-starlink-legit-capa.webp",
+    "imageAlt": "Starlink dish mounted on a bracket attached to a wooden structure. The cover asks “Is it legit?”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Starlink is the satellite internet service from SpaceX, and its official site is starlink.com. If you buy hardware anywhere else, check Starlink's list of authorized retailers and look up who the seller behind the listing is before you pay. Starlink also publishes a notice on phishing in its help center."
+        ]
+      },
+      {
+        "heading": "Who Starlink is and where it sells",
+        "paragraphs": [
+          "Starlink sells through its official site. The order pages we read for this series are on starlink.com, where the plan, the kit and the total due are shown before payment.",
+          "Our analysis of [when Starlink is worth it](/en/reviews/is-starlink-worth-it) shows how to compare price, installation and alternatives at your address."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink Standard dish and the router",
+          "caption": "Starlink dish and router. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "How to recognize the official site",
+        "paragraphs": [
+          "Type starlink.com into your browser. Before you enter any details or pay, check that you are still on starlink.com.",
+          "If anyone asks you to pay by message or outside the order page, confirm with Starlink support before you go on."
+        ]
+      },
+      {
+        "heading": "Look-alike profiles with the Starlink name",
+        "paragraphs": [
+          "On Trustpilot, the profile for starlink.com is called “Starlink Development”. Other profiles use the name too, with different domains, such as ukstarlink.com and starlink.om. They are not starlink.com. Judge the company by the profile that points to starlink.com."
+        ]
+      },
+      {
+        "heading": "Retailers and marketplaces",
+        "paragraphs": [
+          "Starlink keeps a list of authorized retailers. Even on a well-known marketplace, check who the seller of the listing is.",
+          "The [Starlink referral](/en/coupons/starlink) applies to eligible orders placed through the link directly on starlink.com. It cannot be added to a kit bought at a retailer."
+        ],
+        "links": [
+          {
+            "label": "Starlink list of authorized retailers",
+            "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
+        ]
+      },
+      {
+        "heading": "What customer reviews show",
+        "paragraphs": [
+          "On Trustpilot, the starlink.com profile has a TrustScore of 1.6 from 871 reviews, and the profile is unclaimed. Reviewers often point to support that is hard to reach.",
+          "Our [full reading of the Trustpilot profile](/en/reviews/starlink-trustpilot-reviews) has the numbers and what people complain about most."
+        ]
+      },
+      {
+        "heading": "What to keep after you buy",
+        "bullets": [
+          "Keep the order number, the price shown at checkout and the confirmation email. If something does not match, contact support through the website or the app."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is Starlink legit? Starlink is the satellite internet service from SpaceX. Check that you are on starlink.com, and use the list of authorized retailers if you buy elsewhere.",
+          "What is the official Starlink website? The official site is starlink.com.",
+          "How do I confirm that a seller is authorized? See the Starlink list of authorized retailers and check who the seller of the listing is before you pay."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Based on the official site, the help center and the public Trustpilot profiles. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trustpilot-reviews"
+      },
+      {
+        "slug": "starlink-referral-link-how-it-works"
+      },
+      {
+        "slug": "is-starlink-worth-it"
+      }
+    ]
+  },
+  {
+    "id": 1131,
+    "slug": "starlink-trustpilot-reviews",
+    "translationKey": "starlink-reputation",
+    "locale": "en",
+    "title": "Starlink on Trustpilot: a 1.6 score from 871 reviews and what people complain about",
+    "seoTitle": "Starlink on Trustpilot: score and complaints",
+    "type": "Reputation Analysis",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "See the TrustScore, how the star ratings split and which complaints come up most on the Starlink profile on Trustpilot. Learn how to raise a problem with the company.",
+    "metaDescription": "Starlink on Trustpilot: a 1.6 TrustScore from 871 reviews. See the most common complaints and how to take a problem to the company.",
+    "publishedAt": "November 20, 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trustpilot-reviews-capa.webp",
+    "imageAlt": "Starlink dish on a roof under a stormy sky, with lightning behind it. The cover reads “Trustpilot: the score”.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Starlink Development, the Trustpilot profile for starlink.com, shows a TrustScore of 1.6 out of 5 from 871 reviews. Of those reviews, 71% give one star. Trustpilot’s automated summary highlights difficulty reaching support and reports of rising bills. This profile covers reviews from different markets."
+        ]
+      },
+      {
+        "heading": "The score and how the stars split",
+        "paragraphs": [
+          "We read the public Starlink Development profile on November 20, 2026. Trustpilot labels the score “Bad”."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicator",
+            "starlink.com on Trustpilot"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "1.6 out of 5"
+            ],
+            [
+              "Reviews",
+              "871"
+            ],
+            [
+              "5 stars",
+              "17%"
+            ],
+            [
+              "4 stars",
+              "2%"
+            ],
+            [
+              "3 stars",
+              "3%"
+            ],
+            [
+              "2 stars",
+              "7%"
+            ],
+            [
+              "1 star",
+              "71%"
+            ]
+          ],
+          "caption": "Reading of the public profile. The profile is unclaimed."
+        }
+      },
+      {
+        "heading": "How to read a Trustpilot score",
+        "paragraphs": [
+          "The profile is unclaimed, which means the company has not taken it over on the platform. Trustpilot also notes that the company has no history of asking customers for reviews, so the reviews may not be representative. The score reflects the people who chose to leave a review."
+        ]
+      },
+      {
+        "heading": "Which profile is the real Starlink?",
+        "paragraphs": [
+          "Look for “Starlink Development” with starlink.com listed as its website. Some similarly named profiles point to other domains."
+        ]
+      },
+      {
+        "heading": "What people complain about most",
+        "paragraphs": [
+          "Trustpilot’s automated summary of 355 recent reviews highlights difficulty reaching support, monthly bill increases, and extra charges. Opinions on speed are mixed. Some reviewers praise the connection."
+        ]
+      },
+      {
+        "heading": "What this means if you subscribe",
+        "paragraphs": [
+          "Check your invoice every month against the price on your order. Save a screenshot of the offer from the day you ordered, and check the conditions of the promotional price on your order.",
+          "The rental kit and return rules are in the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Starlink dish attached to the roof of a wooden house",
+          "caption": "Residential dish installed. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "Before you subscribe",
+        "paragraphs": [
+          "Before you subscribe, check the site and the terms. How to recognize the official site and the look-alike profiles is in [is Starlink legit?](/en/reviews/is-starlink-legit).",
+          "If you decide to subscribe, the [Starlink referral](/en/coupons/starlink) page has the link and the program rules."
+        ]
+      },
+      {
+        "heading": "How to raise a problem",
+        "paragraphs": [
+          "Open a support ticket on the Starlink website or in the app and keep the case number. If the bill does not match your order, send the price that showed on the offer along with the invoice. If you do not recognize a charge, contact your card issuer or bank too."
+        ],
+        "links": [
+          {
+            "label": "Starlink profile on Trustpilot",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "What is Starlink's score on Trustpilot? The starlink.com profile has a TrustScore of 1.6 from 871 reviews, and 71% of them are one star.",
+          "Which Starlink profile should I check? Look for the profile whose domain is starlink.com. Others use the name with different domains.",
+          "What do people complain about most? Support that is hard to reach, rising monthly bills and extra costs, according to Trustpilot's summary of recent reviews.",
+          "How do I raise a problem with Starlink? Open a ticket on the website or in the app and keep the case number. If the problem continues, contact your card issuer or bank about any charge you do not recognize."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Data from the public Trustpilot profiles. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "relatedArticles": [
+      {
+        "slug": "is-starlink-legit"
+      },
+      {
+        "slug": "starlink-contract-cancel-refund"
+      },
+      {
+        "slug": "is-starlink-worth-it"
+      }
+    ]
+  },
+  {
+    "id": 1132,
+    "slug": "starlink-enlace-referido-como-funciona",
+    "translationKey": "starlink-indicacao",
+    "locale": "es",
+    "title": "Enlace de referido de Starlink: cómo usarlo y cuándo llega la recompensa",
+    "seoTitle": "Referido Starlink: cómo usar el enlace y cobrar",
+    "type": "Guía del código de referido",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Abre el enlace en el sitio oficial y comprueba la recompensa en el pedido antes de pagar. Mira quién puede usarlo, cuándo llega la recompensa y cómo elegir entre crédito y dinero.",
+    "metaDescription": "Mira cómo abrir el enlace de referido de Starlink, ver el valor en el pedido y recibir la recompensa tras cumplir las condiciones del programa.",
+    "publishedAt": "20 de noviembre de 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-enlace-referido-como-funciona-capa.webp",
+    "imageAlt": "Antena Starlink instalada en un tejado bajo un cielo azul. La portada dice «Enlace de referido» y «Recompensa para nuevos usuarios aquí, después de 2 meses».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Abre el enlace de referido de Starlink, introduce tu dirección y, antes de pagar, comprueba que el pedido muestra el referido aplicado y el valor de la recompensa. El programa es para clientes nuevos. La recompensa llega tras dos ciclos mensuales completos, en crédito de servicio o en dinero cuando tu cuenta ofrezca esa opción."
+        ]
+      },
+      {
+        "heading": "Cómo usar el enlace, paso a paso",
+        "paragraphs": [
+          "Abre el enlace desde la [página del enlace de referido de Starlink](/es/coupons/starlink) e introduce la dirección donde vas a usar el servicio. No hay ningún código que escribir, porque el enlace lleva el referido al pedido."
+        ],
+        "postParagraphs": [
+          "Revisa el aviso antes de pagar. Starlink indica que el referido tiene que constar en el pedido original."
+        ],
+        "bullets": [
+          "Elige en el pedido un plan Residencial o de viaje que sea elegible.",
+          "Busca el aviso de referido aplicado y comprueba la recompensa y el total a pagar.",
+          "Termina el pedido en el sitio de Starlink. En el pedido de Madrid que consultamos, el total a pagar hoy era de 19 €.",
+          "Activa el kit y revisa la primera factura. Pagar el primer mes y activar el equipo forman parte de los requisitos del programa."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Antena Starlink fijada al tejado de una casa de madera",
+          "caption": "Antena residencial instalada. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "Cuánto vale y cuándo llega",
+        "paragraphs": [
+          "El valor depende del país en el que te registras y aparece en tu pedido y en tu cuenta. Quien invita también recibe el mismo valor, en dinero o en crédito de servicio.",
+          "La suscripción tiene que seguir activa y al día durante dos ciclos mensuales completos. El centro de ayuda dice que la emisión puede empezar a partir de 60 días desde la activación, según el país, la cuenta y la verificación de identidad.",
+          "La forma habitual es el crédito en la factura. Si tu cuenta ofrece pago en dinero, abre Referidos en el sitio desde el navegador, elige el método de recompensa."
+        ]
+      },
+      {
+        "heading": "Quién puede usarlo",
+        "bullets": [
+          "Quien se suscribe tiene que ser cliente nuevo. Un cliente actual o antiguo no recibe la recompensa.",
+          "Quien invita tiene que ser cliente activo de un plan Residencial o de viaje. Los planes Prioritario, Enterprise y Comercial no generan recompensa.",
+          "Para quien se suscribe valen los planes Residencial, incluido el Max, y los de viaje."
+        ]
+      },
+      {
+        "heading": "¿Hay un cupón de Starlink?",
+        "paragraphs": [
+          "El enlace ya lleva el referido al pedido. Antes de pagar, busca el aviso de confirmación en la pantalla.",
+          "El programa registra las compras hechas en starlink.com a través del enlace. Las compras en distribuidores, en marketplaces y las transferencias de cuenta quedan fuera."
+        ]
+      },
+      {
+        "heading": "¿Y la oferta de Black Friday?",
+        "paragraphs": [
+          "En España, el pedido que consultamos mostraba un 30 % de descuento en los planes de servicio, para contratar antes del 30 de noviembre. Mira el [cálculo del Black Friday de Starlink](/es/reviews/starlink-black-friday-oferta) y comprueba la oferta de tu dirección."
+        ]
+      },
+      {
+        "heading": "Cómo seguirlo",
+        "paragraphs": [
+          "En la pestaña Referidos del sitio o de la aplicación puedes ver el estado de quien se suscribió con tu enlace. Starlink avisa por correo cuando alguien hace el pedido. Un referido puede pasar por una verificación de elegibilidad antes de generar recompensa."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Cómo funciona el referido de Starlink? Haz el pedido en starlink.com a través del enlace. Comprueba el referido aplicado, activa el kit y mantén el servicio elegible al día durante dos ciclos mensuales completos.",
+          "¿Cuánto vale el referido de Starlink? Depende del país y aparece en tu pedido. Compruébalo antes de pagar.",
+          "¿Cuándo llega la recompensa de Starlink? El centro de ayuda indica que la emisión puede empezar a partir de 60 días desde la activación, si el referido cumple las condiciones del programa.",
+          "¿Vale el referido si compro en un distribuidor o marketplace? El programa exige comprar directamente en starlink.com a través del enlace.",
+          "Ya fui cliente, ¿puedo usar el enlace? La recompensa es para quien se suscribe a Starlink por primera vez.",
+          "¿Funciona el enlace en España? Según el centro de ayuda de Starlink, el referido vale en la mayoría de los países donde vende, y el valor depende del país en que te registras. Compruébalo en tu pedido."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Comprueba la recompensa que aparece en el pedido para tu dirección antes de pagar.",
+      "label": "Ver el referido en el pedido",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Consultamos el centro de ayuda y la pantalla de pedido de Starlink. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-black-friday-oferta"
+      },
+      {
+        "slug": "starlink-vale-la-pena"
+      },
+      {
+        "slug": "starlink-permanencia-cancelar"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1133,
+    "slug": "starlink-black-friday-oferta",
+    "translationKey": "starlink-black-friday",
+    "locale": "es",
+    "title": "Black Friday Starlink 2026 en España: 30 % en el servicio y kit en alquiler a 0 €",
+    "seoTitle": "Black Friday Starlink 2026: 30 % y kit en alquiler a 0 €",
+    "type": "Guía de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "En Madrid, el pedido mostraba el Max a 45,50 € al mes, el kit en alquiler a 0 € y 19 € a pagar hoy. Mira cómo entra la recompensa del referido y cómo comprobar tu dirección.",
+    "metaDescription": "Starlink con 30 % en los planes y kit en alquiler a 0 € en España. Mira la cuenta del primer pedido y cómo entra la recompensa del referido.",
+    "publishedAt": "20 de noviembre de 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-black-friday-oferta-capa.webp",
+    "imageAlt": "Antena Starlink en el tejado de una cabaña al atardecer. La portada dice «Black Friday 2026» y «Planes: 30 % de descuento».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "El pedido que consultamos en Madrid mostraba un 30 % de descuento en el servicio, 19 € a pagar ese día y un kit en alquiler a 0 €. El equipo se devuelve al cancelar. Si tu pedido muestra una recompensa por referido, comprueba las condiciones antes de contar con ella."
+        ]
+      },
+      {
+        "heading": "Qué pagas en el primer pedido",
+        "paragraphs": [
+          "Estas son las cifras que mostró el pedido oficial para una dirección de Madrid, el 20 de noviembre, sin completar la compra. El kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas el servicio. La instalación profesional del Residencial 100 Mbps es opcional y cuesta 172 €, y con el Max es gratuita."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Pedido en Madrid",
+            "Valor mostrado"
+          ],
+          "rows": [
+            [
+              "Total a pagar hoy",
+              "19 €"
+            ],
+            [
+              "Kit en alquiler (coste inicial y cuota mensual)",
+              "0 € y 0 € al mes"
+            ],
+            [
+              "Residencial 100 Mbps, por mes",
+              "24,50 €"
+            ],
+            [
+              "Max, por mes",
+              "45,50 €"
+            ],
+            [
+              "Instalación profesional, Residencial 100 Mbps (opcional)",
+              "172 €"
+            ],
+            [
+              "Instalación profesional, Max",
+              "0 €"
+            ]
+          ],
+          "caption": "Cifras del pedido en starlink.com con la oferta de la Black Friday activa. La duración del precio con descuento no aparecía en la lectura."
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antena Starlink Standard y el router",
+          "caption": "Antena y router de Starlink. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Cómo entra la recompensa en la cuenta",
+        "paragraphs": [
+          "Si abres el pedido con un enlace de referido, la pantalla muestra el valor de la recompensa para tu país. Ese valor no es el mismo en todas partes y no lo damos aquí, porque no lo vimos en una cuenta española.",
+          "Suma el importe inicial y las mensualidades que debas abonar hasta que llegue la recompensa, sin contar dos veces ninguna cuota. Resta la recompensa solo si tu pedido cumple las condiciones.",
+          "La suscripción tiene que seguir activa y al día durante dos ciclos mensuales completos, y la recompensa llega en crédito de servicio o, si tu cuenta lo ofrece, en dinero."
+        ]
+      },
+      {
+        "heading": "¿Cuánto vale invitar a otra persona?",
+        "paragraphs": [
+          "Cuando ya eres cliente, también puedes invitar a otras personas. Quien invita recibe el mismo valor, en dinero o en crédito de servicio, siempre que la persona invitada complete los ciclos exigidos.",
+          "Mira [cómo funciona el programa de referidos](/es/reviews/starlink-enlace-referido-como-funciona) y comprueba en tu cuenta cuánto vale cada referido."
+        ]
+      },
+      {
+        "heading": "¿Vale la oferta en tu dirección?",
+        "paragraphs": [
+          "La oferta se muestra por dirección. En la consulta de Madrid, el pedido ofrecía una prueba de 30 días y una entrega de 1 a 2 semanas. En otras zonas de España el plazo y los planes disponibles pueden cambiar, así que introduce tu dirección en el pedido y guarda la pantalla antes de pagar."
+        ]
+      },
+      {
+        "heading": "Kit en alquiler y devolución",
+        "paragraphs": [
+          "El pedido informa de que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. Con la prueba de 30 días, el reembolso del kit y del primer mes exige cancelar y devolver el equipo en buen estado dentro de los 30 días. Mira la [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+        ]
+      },
+      {
+        "heading": "Cómo usar el enlace",
+        "paragraphs": [
+          "Abre el enlace e introduce la dirección donde vas a instalar la antena. Elige el plan, comprueba el referido aplicado y guarda la oferta que aparece antes de pagar.",
+          "En la [página del referido de Starlink](/es/coupons/starlink) están el enlace y las reglas del programa."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Tiene Starlink Black Friday? En España, el pedido oficial mostraba un 30 % de descuento en los planes de servicio, con el kit en alquiler a 0 €, en zonas seleccionadas.",
+          "¿Se suma el referido a la oferta? Comprueba en el pedido de tu dirección si aparecen las dos. La recompensa depende de la elegibilidad y de dos ciclos mensuales completos.",
+          "¿Cuánto se cobra en el pedido? En el pedido de Madrid que consultamos, el total a pagar hoy era de 19 €. Comprueba en tu pantalla qué incluye ese total.",
+          "¿Cuánto cuestan el Residencial y el Max al mes? En esa consulta, 24,50 € el Residencial 100 Mbps y 45,50 € el Max. Cambian según la dirección.",
+          "¿Hasta cuándo vale la oferta? El pedido pide contratar como muy tarde el 30 de noviembre. Introduce tu dirección para ver si está disponible."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "El pedido se abre en el sitio de Starlink. Comprueba el precio del plan, el kit y el valor del referido antes de pagar.",
+      "label": "Consultar la oferta en mi dirección",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial, sin completar la compra. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-enlace-referido-como-funciona"
+      },
+      {
+        "slug": "starlink-vale-la-pena"
+      },
+      {
+        "slug": "starlink-permanencia-cancelar"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1134,
+    "slug": "starlink-vale-la-pena",
+    "translationKey": "starlink-vale-a-pena",
+    "locale": "es",
+    "title": "¿Vale la pena Starlink? Cuánto cuesta al mes, el kit en alquiler y para quién tiene sentido",
+    "seoTitle": "¿Vale la pena Starlink? Precio, kit y para quién",
+    "type": "Guía de compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Compara el coste mensual de Starlink con la conexión que llega a tu casa. Mira el precio por dirección, el kit en alquiler y cómo comprobar dónde instalar la antena.",
+    "metaDescription": "¿Vale la pena Starlink? Precios por dirección, kit en alquiler, para quién tiene sentido y cuándo la fibra o el 4G salen mejor.",
+    "publishedAt": "20 de noviembre de 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-vale-la-pena-capa.webp",
+    "imageAlt": "Antena Starlink fijada al alero de una casa, con montañas al fondo. La portada pregunta «¿Vale la pena?» y dice «Internet en casa».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Starlink puede valer la pena en casas y fincas donde falta una conexión estable. Si ya llega una fibra fiable, compara el coste de varios meses antes de cambiar. Suma las mensualidades de tu dirección, mira qué hay que devolver al cancelar y usa la aplicación de Starlink para comprobar dónde puede ir la antena."
+        ]
+      },
+      {
+        "heading": "Cuánto cuesta al mes",
+        "paragraphs": [
+          "Consultamos el pedido oficial para una dirección pública de Madrid, con la oferta de la Black Friday activa. Los precios cambian según la dirección, así que tómalos como un ejemplo."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "Por mes",
+            "Kit en alquiler",
+            "Instalación profesional"
+          ],
+          "rows": [
+            [
+              "Residencial 100 Mbps",
+              "24,50 €",
+              "0 € y 0 € al mes",
+              "172 € (opcional)"
+            ],
+            [
+              "Max",
+              "45,50 €",
+              "0 € y 0 € al mes",
+              "0 €"
+            ]
+          ],
+          "caption": "Precios del pedido en Madrid. El pedido no mostraba cuánto dura el precio con descuento, así que comprueba la duración en el tuyo."
+        },
+        "postParagraphs": [
+          "Antes de decidir, haz la cuenta sin la recompensa del referido: multiplica la mensualidad por los meses que piensas quedarte y suma la instalación si la quieres. La recompensa depende del país y llega tras cumplir las reglas del programa. Mira el [enlace de referido de Starlink](/es/coupons/starlink)."
+        ]
+      },
+      {
+        "heading": "Dónde instalar la antena",
+        "paragraphs": [
+          "Antes de contratar, elige un punto con vista abierta al cielo. Las ramas y los tejados en el campo de visión pueden causar cortes. Usa la aplicación de Starlink en el punto previsto para la antena y haz la comprobación de obstáculos."
+        ],
+        "links": [
+          {
+            "label": "Cómo comprobar obstáculos en la aplicación",
+            "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Casa con la antena Starlink instalada en el tejado",
+          "caption": "Antena instalada en el tejado, con el cielo abierto. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Cuándo comparar con fibra o 4G",
+        "paragraphs": [
+          "Si ya llega una fibra estable, compara la suma de instalación, cuotas y condiciones de cada propuesta. Para el 4G, incluye el precio del equipo que necesites y comprueba que el plan tiene datos suficientes para la casa."
+        ]
+      },
+      {
+        "heading": "Velocidad y juegos",
+        "paragraphs": [
+          "Los planes residenciales anuncian velocidad de bajada, pero el rendimiento puede variar según el lugar y la hora. En los juegos en línea, fíjate también en el tiempo de respuesta y en los cortes.",
+          "Starlink publica en sus especificaciones una latencia típica de 25 a 60 ms en tierra. Es una referencia de la empresa, sin medición en la dirección de nuestro pedido."
+        ],
+        "links": [
+          {
+            "label": "Especificaciones de rendimiento de Starlink",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "Kit en alquiler y baja",
+        "paragraphs": [
+          "En el pedido de Madrid el kit va en alquiler: 0 € de coste inicial, 0 € al mes y devolución del equipo si cancelas el servicio. La [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar) explica también la prueba de 30 días."
+        ]
+      },
+      {
+        "heading": "Qué cuentan los clientes",
+        "paragraphs": [
+          "El perfil de starlink.com en Trustpilot tiene una nota de 1,6 sobre 5 y no está reclamado por la empresa. Entre las quejas más comunes están el soporte difícil de contactar y las subidas de cuota. Guarda una captura de la oferta del pedido para compararla con la factura. Mira la [lectura de Trustpilot](/es/reviews/starlink-trustpilot-opiniones)."
+        ]
+      },
+      {
+        "heading": "Nuestra experiencia hasta ahora",
+        "paragraphs": [
+          "Ya hemos contratado Starlink, pero todavía no tenemos experiencia de uso. La velocidad, la instalación y la calidad del día a día entrarán en una actualización de este artículo cuando existan."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Vale la pena Starlink en la ciudad? Con fibra estable en tu dirección, compara instalación, cuotas y condiciones antes de cambiar.",
+          "¿Es mejor Starlink que la fibra? Sin buena fibra en el lugar, merece la pena pedir precio a Starlink y comprobar que hay cielo abierto para instalar. Si hay ambas, compara estabilidad y coste en tu dirección.",
+          "¿Es buena Starlink para jugar? Prueba la latencia y los cortes en tu dirección. La latencia típica que publica Starlink es una referencia general.",
+          "¿Cuánto cuesta Starlink al mes? En la consulta de Madrid, 24,50 € el Residencial 100 Mbps y 45,50 € el Max, con la oferta activa. El precio cambia según la dirección."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "No tienes una fibra buena en tu dirección y el 4G tampoco responde bien.",
+        "Te vale un kit en alquiler que tendrás que devolver si cancelas, y sabes que el precio cambia según la dirección."
+      ],
+      "skipIf": [
+        "Tienes una fibra estable en tu dirección y no quieres instalar una antena ni devolver un equipo.",
+        "Necesitas jugar en línea con respuesta rápida, y la empresa solo publica una latencia típica en general."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Introduce tu dirección en el sitio de Starlink y comprueba plan, kit y mensualidad antes de pagar.",
+      "label": "Ver planes en mi dirección",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-permanencia-cancelar"
+      },
+      {
+        "slug": "starlink-black-friday-oferta"
+      },
+      {
+        "slug": "starlink-enlace-referido-como-funciona"
+      }
+    ]
+  },
+  {
+    "id": 1135,
+    "slug": "starlink-permanencia-cancelar",
+    "translationKey": "starlink-fidelidade",
+    "locale": "es",
+    "title": "¿Tiene Starlink permanencia? Kit en alquiler, 30 días de prueba y cómo cancelar",
+    "seoTitle": "¿Starlink tiene permanencia? Kit y cancelación",
+    "type": "Guía práctica",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mira qué dice el pedido sobre el kit en alquiler, qué hay que devolver al cancelar, cómo funciona la prueba de 30 días y los pasos para cancelar desde tu cuenta.",
+    "metaDescription": "Starlink: kit en alquiler que se devuelve al cancelar y prueba de 30 días con reembolso. Mira los pasos para cancelar desde la cuenta.",
+    "publishedAt": "20 de noviembre de 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-permanencia-cancelar-capa.webp",
+    "imageAlt": "Antena Starlink en la nieve frente a un chalé con una persona trabajando. La portada dice «Contrato y cancelación».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "En el pedido de Starlink que consultamos en España, el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas el servicio. El pedido ofrece una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro de ese plazo, se reembolsan el kit y el primer mes."
+        ]
+      },
+      {
+        "heading": "Qué dice el pedido sobre el contrato",
+        "paragraphs": [
+          "En la pantalla de pedido que leímos el 20 de noviembre de 2026, con una dirección de Madrid, el hardware aparece como alquiler: coste inicial de 0 € y tarifa mensual del kit de 0 €. La frase del pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
+          "No leímos en esa pantalla ninguna cláusula de permanencia ni penalización por cancelar antes de un plazo. Eso no prueba que no exista en tu caso, así que confirma el resumen de tu pedido antes de pagar."
+        ]
+      },
+      {
+        "heading": "Los 30 días de prueba",
+        "paragraphs": [
+          "Para pedir el reembolso del kit y del primer mes en las condiciones de la oferta, cancela el servicio y devuelve el equipo en buen estado dentro de los 30 días.",
+          "Cancelar la suscripción detiene los cobros futuros según el ciclo. Con el soporte de Starlink, confirma cómo abrir también la devolución del kit y guarda el justificante del envío.",
+          "El [enlace de referido de Starlink](/es/coupons/starlink) abre el mismo pedido en el sitio oficial. Comprueba las condiciones de devolución en el resumen del tuyo antes de pagar."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Piezas del kit Starlink Standard: antena, router, soporte y cables",
+          "caption": "El kit que vuelve en la devolución: antena, router, soporte y cables. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Cómo cancelar",
+        "paragraphs": [
+          "En la página de inicio de tu cuenta de Starlink, abre «Tu suscripción». Junto al plan, elige «Gestionar» y después «Cancelar servicio».",
+          "Si quieres evitar un nuevo ciclo, haz el cambio antes de las 00:00 UTC del día de facturación. La facturación sigue el horario UTC, así que consulta qué hora local es en tu zona.",
+          "Según el centro de ayuda, el servicio sigue activo hasta el final del periodo pagado. Si cambias de idea antes de que termine, busca «Reanudar» en la página de inicio. Reactivar después de cancelar depende de la disponibilidad en la zona."
+        ],
+        "bullets": [
+          "Entra en tu cuenta en el sitio de Starlink y, en la página «Inicio», elige «Tu suscripción».",
+          "Junto al plan, pulsa «Gestionar» y después «Cancelar servicio».",
+          "La facturación sigue el horario UTC. El cambio tiene que hacerse antes de las 00:00 UTC del día de facturación, o solo valdrá para el ciclo siguiente.",
+          "El servicio sigue activo hasta la fecha ya pagada, y no se generan más cobros.",
+          "Antes de que el cambio surta efecto, puedes dar marcha atrás con «Reanudar», en el aviso «Tu plan de servicio terminará el…», en la parte superior de «Inicio».",
+          "Después de cancelar, puede que no sea posible reactivar enseguida. Depende de la disponibilidad en tu zona."
+        ],
+        "postParagraphs": [
+          "Cancelar el servicio no devuelve el kit por sí solo. La devolución tiene su propia regla, descrita arriba."
+        ]
+      },
+      {
+        "heading": "La instalación profesional y el reembolso",
+        "paragraphs": [
+          "La instalación profesional del Residencial 100 Mbps es opcional y costaba 172 € en el pedido de Madrid. Con el Max era gratuita. Antes de contratarla, confirma en tu pedido si forma parte de lo que se reembolsa dentro de la prueba."
+        ]
+      },
+      {
+        "heading": "Si el cobro continúa",
+        "paragraphs": [
+          "Si el cobro continúa, abre una solicitud en Starlink con el número de pedido, la fecha de la cancelación y el número de caso, si lo hay.",
+          "En [la lectura de Trustpilot](/es/reviews/starlink-trustpilot-opiniones) está lo que se dice del soporte. Si no reconoces el cargo, contacta también con el emisor de tu tarjeta o con tu banco."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Tiene Starlink permanencia? En el pedido consultado en España el kit iba en alquiler, sin coste inicial ni cuota. Confirma en el resumen de tu pedido si hay otras condiciones.",
+          "¿Hay que devolver el kit al cancelar? Sí. El pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
+          "¿Puedo cancelar Starlink en cualquier momento? La solicitud se hace desde la cuenta. Comprueba en tu pedido si hay alguna condición para cancelar antes de cierto plazo.",
+          "¿Se puede devolver Starlink en 30 días? El pedido ofrece una prueba de 30 días: cancela y devuelve el kit en buen estado dentro del plazo para el reembolso del kit y del primer mes.",
+          "¿Qué pasa si cancelo y me arrepiento? Busca «Reanudar» en la página de inicio antes de que termine el periodo pagado. Reactivar después depende de la disponibilidad."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Basado en la pantalla de pedido y el centro de ayuda de Starlink. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-vale-la-pena"
+      },
+      {
+        "slug": "starlink-black-friday-oferta"
+      },
+      {
+        "slug": "starlink-trustpilot-opiniones"
+      }
+    ]
+  },
+  {
+    "id": 1136,
+    "slug": "starlink-es-fiable",
+    "translationKey": "starlink-trust-guide",
+    "locale": "es",
+    "title": "¿Es fiable Starlink? Cómo reconocer el sitio oficial y comprobar quién vende",
+    "seoTitle": "¿Es fiable Starlink? Sitio oficial y estafas",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "El sitio oficial de Starlink y la lista de distribuidores autorizados ayudan a comprobar a quién compras. Mira qué revisar antes de pagar el kit y cómo detectar sitios falsos.",
+    "metaDescription": "Cómo reconocer el sitio oficial de Starlink, usar la lista de distribuidores autorizados y evitar perfiles y sitios que usan su nombre.",
+    "publishedAt": "20 de noviembre de 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-es-fiable-capa.webp",
+    "imageAlt": "Antena Starlink instalada en un soporte fijado a una estructura de madera. La portada pregunta «¿Es fiable?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Starlink es el servicio de internet por satélite de SpaceX y su sitio oficial es starlink.com. Si compras el kit fuera del sitio, consulta la lista de distribuidores autorizados de Starlink y comprueba quién es el vendedor del anuncio antes de pagar. En Trustpilot hay perfiles con el nombre Starlink que no son starlink.com."
+        ]
+      },
+      {
+        "heading": "Quién es Starlink y quién vende",
+        "paragraphs": [
+          "Starlink vende a través de su sitio oficial. El perfil de Trustpilot que apunta a starlink.com se llama «Starlink Development» y la empresa no lo ha reclamado.",
+          "El análisis de [cuándo vale la pena Starlink](/es/reviews/starlink-vale-la-pena) muestra cómo comparar precio, instalación y alternativas en tu dirección."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antena Starlink Standard y el router",
+          "caption": "Antena y router de Starlink. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Cómo reconocer el sitio oficial",
+        "paragraphs": [
+          "Escribe starlink.com en el navegador. Antes de dar datos o pagar, comprueba que sigues dentro de starlink.com.",
+          "En el pedido oficial que consultamos había Klarna como opción para financiar el kit. Si te piden pagar por mensaje o fuera del pedido, confirma con el soporte de Starlink antes de seguir."
+        ]
+      },
+      {
+        "heading": "Mensajes que usan el nombre Starlink",
+        "paragraphs": [
+          "El centro de ayuda de Starlink tiene un aviso sobre phishing. Si recibes un anuncio o un mensaje a nombre de Starlink, confirma en starlink.com antes de pagar o dar datos. Si te lleva a otra dirección, no introduzcas nada y vuelve a entrar escribiendo la dirección tú mismo."
+        ]
+      },
+      {
+        "heading": "Perfiles con otro dominio",
+        "paragraphs": [
+          "En el perfil de starlink.com, Trustpilot muestra también «Uk Starlink», con la dirección ukstarlink.com, y «Starlink», con starlink.om. Son otros dominios y no son starlink.com, así que no los uses para juzgar a la operadora ni para comprar."
+        ]
+      },
+      {
+        "heading": "Distribuidores y marketplaces",
+        "paragraphs": [
+          "Starlink mantiene una lista de distribuidores autorizados en su centro de ayuda. Incluso en un marketplace conocido, comprueba quién es el vendedor del anuncio.",
+          "El [enlace de referido de Starlink](/es/coupons/starlink) vale para pedidos elegibles hechos a través del enlace directamente en starlink.com. No se puede añadir a la compra de un kit en un distribuidor."
+        ]
+      },
+      {
+        "heading": "Qué muestra Trustpilot",
+        "paragraphs": [
+          "El perfil de starlink.com en Trustpilot tiene una nota de 1,6 sobre 5 y 871 opiniones, y la empresa no lo ha reclamado. La [lectura completa de Trustpilot](/es/reviews/starlink-trustpilot-opiniones) trae los números y las quejas más comunes."
+        ]
+      },
+      {
+        "heading": "Qué guardar después de comprar",
+        "bullets": [
+          "Guarda el número de pedido, el precio que apareció en el pago y el correo de confirmación. Si hay diferencias, contacta con el soporte desde el sitio o la aplicación."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Es fiable Starlink? Starlink es el servicio de internet por satélite de SpaceX. Comprueba que compras en starlink.com y no te fíes de perfiles con otro dominio.",
+          "¿Cuál es el sitio oficial de Starlink? El sitio oficial es starlink.com.",
+          "¿Cómo sé si un vendedor está autorizado? Consulta la lista de distribuidores autorizados de Starlink y comprueba el vendedor del anuncio antes de pagar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Basado en el sitio oficial, el centro de ayuda y los perfiles públicos de Trustpilot. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trustpilot-opiniones"
+      },
+      {
+        "slug": "starlink-enlace-referido-como-funciona"
+      },
+      {
+        "slug": "starlink-vale-la-pena"
+      }
+    ]
+  },
+  {
+    "id": 1137,
+    "slug": "starlink-trustpilot-opiniones",
+    "translationKey": "starlink-reputation",
+    "locale": "es",
+    "title": "Starlink en Trustpilot: nota 1,6, perfil sin reclamar y qué quejas aparecen",
+    "seoTitle": "Starlink en Trustpilot: nota y opiniones",
+    "type": "Análisis de reputación",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mira la nota, cuántas opiniones tiene el perfil de starlink.com en Trustpilot y qué quejas resume la plataforma. Y cómo reclamar si tu cobro no coincide con el pedido.",
+    "metaDescription": "Starlink en Trustpilot: 1,6 de 5 con 871 opiniones en el perfil de starlink.com. Mira las quejas más comunes y cómo reclamar.",
+    "publishedAt": "20 de noviembre de 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trustpilot-opiniones-capa.webp",
+    "imageAlt": "Antena Starlink instalada en un tejado bajo un cielo de tormenta, con un rayo al fondo. La portada dice «Trustpilot: la nota».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "El perfil de starlink.com en Trustpilot tiene un TrustScore de 1,6 sobre 5 con 871 opiniones, y el 71 % son de una estrella. Trustpilot lo marca como perfil sin reclamar y avisa de que la empresa no ha invitado a sus clientes a opinar, así que las opiniones pueden no ser representativas. Para consultar a la operadora, busca el perfil que apunta a starlink.com."
+        ]
+      },
+      {
+        "heading": "La nota y su contexto",
+        "paragraphs": [
+          "Trustpilot lo califica como «Bad». Es una plataforma abierta, en la que cualquiera puede opinar. La nota refleja a quienes decidieron dejar una opinión."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "Starlink en Trustpilot"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "1,6 de 5"
+            ],
+            [
+              "Opiniones en total",
+              "871"
+            ],
+            [
+              "5 estrellas",
+              "17 %"
+            ],
+            [
+              "4 estrellas",
+              "2 %"
+            ],
+            [
+              "3 estrellas",
+              "3 %"
+            ],
+            [
+              "2 estrellas",
+              "7 %"
+            ],
+            [
+              "1 estrella",
+              "71 %"
+            ]
+          ],
+          "caption": "Lectura del perfil de starlink.com en Trustpilot, el 20 de noviembre de 2026."
+        }
+      },
+      {
+        "heading": "Qué resume Trustpilot",
+        "paragraphs": [
+          "Trustpilot genera un resumen automático a partir de 355 opiniones recientes. La queja más común es un soporte difícil de contactar, con solo un chatbot. También aparecen subidas de la cuota mensual y costes extra.",
+          "Sobre el producto y la velocidad, las opiniones son mixtas, y algunas elogian la conexión rápida. No citamos opiniones individuales."
+        ]
+      },
+      {
+        "heading": "Cómo identificar el perfil de la operadora",
+        "paragraphs": [
+          "Busca el perfil cuyo dominio es starlink.com, que aparece como «Starlink Development», en la categoría Internet Service Provider. Trustpilot lo marca como «Unclaimed profile».",
+          "En la sección «People also looked at» hay otros perfiles con el nombre, «Uk Starlink» (ukstarlink.com) y «Starlink» (starlink.om). Son otros dominios y no son starlink.com."
+        ]
+      },
+      {
+        "heading": "Qué significa para quien se suscribe",
+        "paragraphs": [
+          "Quien se suscribe debería revisar la factura cada mes y compararla con el precio que apareció en el pedido, porque las subidas de cuota son una de las quejas. Qué pasa con el precio de la oferta al cambiar de plan, cancelar o suspender figura en las condiciones de tu propio pedido.",
+          "Las condiciones del kit en alquiler y de la devolución están en la [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Antena Starlink fijada al tejado de una casa de madera",
+          "caption": "Antena residencial instalada. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "Antes de suscribirte",
+        "paragraphs": [
+          "Antes de suscribirte, revisa el sitio y las condiciones. Cómo reconocer el sitio oficial y los perfiles que usan el nombre está en [¿es fiable Starlink?](/es/reviews/starlink-es-fiable).",
+          "Si vas a suscribirte, la página del [enlace de referido de Starlink](/es/coupons/starlink) tiene el enlace y las reglas del programa."
+        ]
+      },
+      {
+        "heading": "Cómo reclamar",
+        "paragraphs": [
+          "Abre una solicitud en el sitio o en la aplicación de Starlink y guarda el número de caso. Si el cobro no coincide con el pedido, envía el valor que apareció en la oferta y la factura. Si no reconoces el cargo, contacta también con el emisor de tu tarjeta o con tu banco."
+        ],
+        "links": [
+          {
+            "label": "Perfil de starlink.com en Trustpilot",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Qué nota tiene Starlink en Trustpilot? El perfil de starlink.com tiene un TrustScore de 1,6 sobre 5 con 871 opiniones.",
+          "¿Qué perfil de Starlink debo consultar? El que tiene el dominio starlink.com. Los perfiles de ukstarlink.com y starlink.om no son starlink.com.",
+          "¿Qué quejas son las más comunes? Según el resumen de Trustpilot, un soporte difícil de contactar y las subidas de la cuota mensual y los costes extra.",
+          "¿Cómo reclamar a Starlink? Abre una solicitud desde el sitio o la aplicación y guarda el número de caso. Si no reconoces un cargo, contacta con el emisor de tu tarjeta."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Datos del perfil público de Trustpilot. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-es-fiable"
+      },
+      {
+        "slug": "starlink-permanencia-cancelar"
+      },
+      {
+        "slug": "starlink-vale-la-pena"
+      }
+    ]
+  },
+  {
+    "id": 1138,
+    "slug": "starlink-lien-parrainage",
+    "translationKey": "starlink-indicacao",
+    "locale": "fr",
+    "title": "Lien de parrainage Starlink : comment l'utiliser et quand la récompense arrive",
+    "seoTitle": "Parrainage Starlink : utiliser le lien et être récompensé",
+    "type": "Guide du code de parrainage",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Ouvrez le lien sur le site officiel et vérifiez la récompense sur la commande avant de payer. Qui peut l'utiliser, quand le montant arrive, crédit de service ou argent.",
+    "metaDescription": "Comment ouvrir le lien de parrainage Starlink, trouver le montant sur la commande et recevoir la récompense une fois les conditions du programme remplies.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-lien-parrainage-capa.webp",
+    "imageAlt": "Antenne Starlink installée sur un toit sous un ciel bleu. La couverture indique « Lien de parrainage » et « Récompense pour les nouveaux utilisateurs ici, après 2 mois ».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Ouvrez le lien de parrainage Starlink et saisissez votre adresse. Avant de payer, repérez la confirmation que le parrainage est appliqué et lisez le montant de la récompense sur la commande. Elle s'adresse aux nouveaux clients et arrive après deux cycles mensuels complets, en crédit de service ou en argent quand le compte propose cette option."
+        ]
+      },
+      {
+        "heading": "Comment utiliser le lien, pas à pas",
+        "paragraphs": [
+          "Ouvrez le lien depuis la [page du parrainage Starlink](/fr/coupons/starlink) et indiquez l'adresse où vous utiliserez le service."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Maison avec l'antenne Starlink installée sur le toit",
+          "caption": "L'antenne installée sur un toit, ciel dégagé. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        },
+        "bullets": [
+          "Choisissez un forfait Résidentiel ou Voyage éligible sur la commande.",
+          "Repérez le message indiquant que le parrainage est appliqué, puis vérifiez la récompense et le total à payer.",
+          "Finalisez la commande sur le site de Starlink.",
+          "Activez le kit et surveillez la première facture. Payer le premier mois et activer le matériel font partie des conditions du parrainage."
+        ],
+        "postParagraphs": [
+          "Contrôlez ce point avant de payer. Starlink indique que le parrainage doit figurer sur la commande initiale."
+        ]
+      },
+      {
+        "heading": "Combien cela rapporte et quand la récompense arrive",
+        "paragraphs": [
+          "Le montant dépend du pays où la personne s'inscrit et s'affiche sur la commande ou dans le compte. Celui qui parraine reçoit la même somme, en argent ou en crédit de service.",
+          "L'abonnement doit rester actif et à jour pendant deux cycles mensuels complets. Le centre d'aide de Starlink indique que le versement peut commencer à partir de 60 jours après l'activation, selon le pays, le compte et la vérification d'identité.",
+          "Le crédit sur la facture est le mode par défaut. Si votre compte propose le paiement en argent, ouvrez l'onglet Parrainages depuis le navigateur, choisissez le mode de récompense."
+        ]
+      },
+      {
+        "heading": "Qui peut en profiter",
+        "bullets": [
+          "La personne qui s'abonne doit être un nouveau client. Un client actuel ou ancien ne reçoit pas la récompense.",
+          "Celui qui parraine doit avoir un forfait Résidentiel ou Voyage actif. Les forfaits Prioritaire, Entreprise et Commercial ne donnent pas de récompense.",
+          "Le programme compte les commandes passées sur starlink.com via le lien. Les achats chez un revendeur ou sur une place de marché n'entrent pas dans le parrainage."
+        ]
+      },
+      {
+        "heading": "Y a-t-il un code promo Starlink ?",
+        "paragraphs": [
+          "Il n'y a pas de code à saisir. Le lien apporte le parrainage à la commande, et c'est le message de confirmation à l'écran qui compte avant de payer."
+        ]
+      },
+      {
+        "heading": "Et l'offre Black Friday ?",
+        "paragraphs": [
+          "La page de commande officielle annonçait 30 % de réduction sur les forfaits pour les inscriptions avant le 30 novembre. Le parrainage et l'offre sont deux lignes distinctes. Regardez sur votre commande si les deux apparaissent. Le détail est dans notre [calcul de la Black Friday Starlink](/fr/reviews/starlink-black-friday-offre)."
+        ]
+      },
+      {
+        "heading": "Comment suivre un parrainage",
+        "paragraphs": [
+          "Dans l'onglet Parrainages du site ou de l'application, suivez l'état des personnes inscrites par votre lien. Starlink prévient par e-mail quand quelqu'un passe commande. Un parrainage peut passer par une vérification d'éligibilité avant de donner droit à la récompense."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Comment fonctionne le parrainage Starlink ? Passez commande sur starlink.com via le lien, vérifiez que le parrainage est appliqué, activez le kit et gardez le service éligible en règle pendant deux cycles mensuels complets.",
+          "Combien vaut le parrainage Starlink ? Le montant dépend du pays et s'affiche sur la commande. Vérifiez-le avant de payer.",
+          "Quand la récompense arrive-t-elle ? Le centre d'aide indique que le versement peut commencer à partir de 60 jours après l'activation, si le parrainage remplit les conditions du programme.",
+          "Le parrainage fonctionne-t-il chez un revendeur ? Le programme exige un achat directement sur starlink.com via le lien.",
+          "J'ai déjà été client, puis-je utiliser le lien ? La récompense est réservée à ceux qui souscrivent à Starlink pour la première fois.",
+          "Faut-il saisir un code ? Non. Le lien applique le parrainage, et la confirmation apparaît sur la commande."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Vérifiez sur la commande la récompense affichée pour votre adresse avant de payer.",
+      "label": "Voir le parrainage sur la commande",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Nous avons consulté le centre d'aide et la page de commande de Starlink. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-black-friday-offre"
+      },
+      {
+        "slug": "starlink-vaut-il-le-coup"
+      },
+      {
+        "slug": "starlink-engagement-resilier"
+      }
+    ]
+  },
+  {
+    "id": 1139,
+    "slug": "starlink-black-friday-offre",
+    "translationKey": "starlink-black-friday",
+    "locale": "fr",
+    "title": "Black Friday Starlink 2026 : 30 % sur les forfaits, kit loué à 0 € et la récompense du parrainage",
+    "seoTitle": "Black Friday Starlink 2026 : 30 % et kit loué à 0 €",
+    "type": "Guide Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Sur la commande officielle, 24,50 € par mois pour le 100 Mbit/s et un kit loué à 0 €. Voyez comment le parrainage entre dans le calcul et comment vérifier votre adresse.",
+    "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €, en zones sélectionnées. Voyez le calcul avec le parrainage et vérifiez votre adresse.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-black-friday-offre-capa.webp",
+    "imageAlt": "Antenne Starlink sur le toit d'une cabane au crépuscule. La couverture indique « Black Friday 2026 » et « Forfaits : 30 % de réduction ».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "L'offre de fin novembre donne 30 % de réduction sur les forfaits Starlink, avec un kit loué à 0 €, dans certaines zones. Le calcul à faire est celui de la première commande, puis de la récompense du parrainage qui arrive après deux mois. Le kit et les premiers mois ne deviennent presque gratuits que si le montant affiché sur votre commande couvre les premières mensualités."
+        ]
+      },
+      {
+        "heading": "Ce que vous payez le jour de la commande",
+        "paragraphs": [
+          "Sur la page de commande officielle, lue le 20 novembre 2026 pour une adresse à Paris, le total à payer ce jour-là était de 19 €. Le kit est loué : 0 € au départ et 0 € par mois, à renvoyer en cas d'annulation. Les mensualités viennent ensuite.",
+          "L'installation professionnelle est optionnelle sur le 100 et le 200 Mbit/s, à 172 €, et gratuite sur le Max."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "Par mois",
+            "Kit",
+            "Installation professionnelle"
+          ],
+          "rows": [
+            [
+              "Résidentiel 100 Mbit/s",
+              "24,50 €",
+              "Loué, 0 €",
+              "172 €, optionnelle"
+            ],
+            [
+              "Résidentiel 200 Mbit/s",
+              "31,50 €",
+              "Loué, 0 €",
+              "172 €, optionnelle"
+            ],
+            [
+              "Résidentiel Max",
+              "45,50 €",
+              "Loué, 0 €",
+              "Gratuite"
+            ]
+          ],
+          "caption": "Prix de la commande officielle avec l'offre de 30 %, sans lien de parrainage. Le prix peut changer selon l'adresse."
+        }
+      },
+      {
+        "heading": "Quand la récompense du parrainage entre dans le calcul",
+        "paragraphs": [
+          "Avec le lien de parrainage, la commande affiche la récompense du nouveau client. Elle n'est versée qu'après deux cycles mensuels complets, en crédit de service ou en argent, et le montant dépend du pays. Lisez-le sur votre commande, nous ne donnons pas de chiffre ici.",
+          "Deux mensualités au prix affiché représenteraient 49 € pour le 100 Mbit/s ou 91 € pour le Max. Vérifiez aussi les 19 € affichés à la commande et les frais éventuels. Déduisez la récompense de ce que vous aurez effectivement payé si le parrainage est éligible."
+        ]
+      },
+      {
+        "heading": "Que rapporte le fait de parrainer quelqu'un ?",
+        "paragraphs": [
+          "Après avoir souscrit, vous pouvez parrainer d'autres personnes, et celui qui parraine reçoit aussi la même somme, en argent ou en crédit de service. La personne parrainée doit compléter les cycles exigés. Le [fonctionnement du programme](/fr/reviews/starlink-lien-parrainage) est détaillé dans notre guide du lien."
+        ]
+      },
+      {
+        "heading": "L'offre est-elle valable à votre adresse ?",
+        "paragraphs": [
+          "La page d'accueil annonce « à partir de 24,50 € » avec la mention « dans certaines zones ». L'offre dépend donc de l'adresse saisie. Faites la vérification sur la commande avant de payer, et gardez la capture du prix affiché."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenne Starlink Standard et routeur",
+          "caption": "L'antenne et le routeur Starlink. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Remboursement et retour du kit",
+        "paragraphs": [
+          "La commande indique un remboursement intégral du kit et du premier mois si vous annulez le service et renvoyez le kit en bon état dans les 30 jours. Les étapes sont dans notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier)."
+        ]
+      },
+      {
+        "heading": "Et après la promotion ?",
+        "paragraphs": [
+          "La page lue ne détaille pas le tarif après la période promotionnelle. Vérifiez sur votre commande combien de temps dure la réduction et quel est le prix ensuite avant de payer."
+        ]
+      },
+      {
+        "heading": "Comment utiliser le lien",
+        "paragraphs": [
+          "Ouvrez le lien et saisissez l'adresse d'installation de l'antenne. Choisissez le forfait, vérifiez le parrainage appliqué et faites une capture de l'offre affichée avant de payer. La [page du parrainage Starlink](/fr/coupons/starlink) réunit le lien et les règles du programme."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Starlink fait-il le Black Friday ? L'offre de fin novembre donne 30 % sur les forfaits, avec un kit loué à 0 €, dans certaines zones.",
+          "Le parrainage se cumule-t-il avec l'offre ? Ce sont deux mécanismes distincts. La récompense dépend de l'éligibilité et de deux cycles mensuels complets. Vérifiez sur votre commande que les deux apparaissent.",
+          "Combien paie-t-on le jour de la commande ? Le total à payer lu pour une adresse à Paris était de 19 €, le kit étant loué à 0 €.",
+          "Le kit est-il à rendre ? Oui, le matériel est loué et doit être renvoyé si vous annulez le service.",
+          "Jusqu'à quand dure l'offre ? Starlink annonce la fin novembre. Saisissez votre adresse sur la commande pour voir si elle est disponible."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "La commande s'ouvre sur le site de Starlink. Vérifiez le prix du forfait, le kit loué et le montant du parrainage avant de payer.",
+      "label": "Consulter l'offre à mon adresse",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Prix relevés sur la page de commande officielle, sans finaliser d'achat. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-lien-parrainage"
+      },
+      {
+        "slug": "starlink-vaut-il-le-coup"
+      },
+      {
+        "slug": "starlink-engagement-resilier"
+      }
+    ]
+  },
+  {
+    "id": 1140,
+    "slug": "starlink-vaut-il-le-coup",
+    "translationKey": "starlink-vale-a-pena",
+    "locale": "fr",
+    "title": "Starlink vaut-il le coup ? Les prix par forfait et pour qui il a du sens",
+    "seoTitle": "Starlink vaut-il le coup ? Prix et kit loué",
+    "type": "Guide d'achat",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Comparez le coût mensuel de Starlink avec la connexion qui arrive chez vous. Voyez les prix par forfait, le kit loué et comment vérifier où poser l'antenne.",
+    "metaDescription": "Starlink vaut-il le coup ? Prix par forfait, kit loué, pour qui il a du sens et quand la fibre ou la 4G reviennent moins cher.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-vaut-il-le-coup-capa.webp",
+    "imageAlt": "Antenne Starlink fixée à l'avant-toit d'une maison, avec des montagnes au fond. La couverture demande « Vaut-il le coup ? » et indique « Internet à la maison ».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Starlink peut valoir le coup dans les maisons où il manque une connexion stable. Si une fibre fiable arrive déjà chez vous, comparez le coût total avant de changer. Additionnez les mensualités de votre adresse et les frais d'installation éventuels, puis utilisez l'application Starlink pour vérifier où l'antenne peut aller."
+        ]
+      },
+      {
+        "heading": "Combien cela coûte",
+        "paragraphs": [
+          "Nous avons lu ces prix le 20 novembre 2026 sur la page de commande officielle, pour une adresse à Paris, avec l'offre de 30 % sur les forfaits. Le kit est loué à 0 € au départ et 0 € par mois, à renvoyer si vous annulez."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "Par mois",
+            "Kit",
+            "Installation professionnelle"
+          ],
+          "rows": [
+            [
+              "Résidentiel 100 Mbit/s",
+              "24,50 €",
+              "Loué, 0 €",
+              "172 €, optionnelle"
+            ],
+            [
+              "Résidentiel 200 Mbit/s",
+              "31,50 €",
+              "Loué, 0 €",
+              "172 €, optionnelle"
+            ],
+            [
+              "Résidentiel Max",
+              "45,50 €",
+              "Loué, 0 €",
+              "Gratuite"
+            ]
+          ],
+          "caption": "Prix mensuels avec l'offre de 30 %. Le total à payer le jour de la commande était de 19 €."
+        },
+        "postParagraphs": [
+          "La page lue ne dit pas combien de temps dure la réduction, donc n'extrapolez pas ces prix sur 12 mois sans vérifier la durée affichée sur votre commande. Faites le calcul d'abord sans la récompense du [parrainage Starlink](/fr/coupons/starlink), puis ajoutez-la si votre commande l'affiche."
+        ]
+      },
+      {
+        "heading": "Où poser l'antenne",
+        "paragraphs": [
+          "Avant de souscrire, choisissez un point avec une vue dégagée sur le ciel. Branches et toits dans le champ de vision peuvent provoquer des coupures. Utilisez l'application Starlink à l'endroit prévu pour l'antenne et lancez la vérification des obstacles."
+        ],
+        "links": [
+          {
+            "label": "Comment vérifier les obstacles dans l'application",
+            "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Maison avec l'antenne Starlink installée sur le toit",
+          "caption": "L'antenne installée sur un toit, ciel dégagé. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Quand comparer avec la fibre ou la 4G",
+        "paragraphs": [
+          "Si une fibre stable arrive déjà, comparez l'installation, les mensualités et les éventuels engagements de chaque offre. Pour la 4G, ajoutez le prix du matériel dont vous aurez besoin et vérifiez que le forfait a assez de données pour la maison."
+        ]
+      },
+      {
+        "heading": "Débit et jeux en ligne",
+        "paragraphs": [
+          "Les forfaits résidentiels annoncent un débit descendant, mais la performance varie selon le lieu et l'heure. Pour le jeu en ligne, regardez aussi le temps de réponse et les coupures.",
+          "Starlink publie dans ses spécifications une latence typique de 25 à 60 ms au sol. C'est une référence de l'entreprise, sans mesure à l'adresse de notre commande."
+        ],
+        "links": [
+          {
+            "label": "Spécifications de performance de Starlink",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "Matériel loué et résiliation",
+        "paragraphs": [
+          "Le kit est loué, et la commande demande de renvoyer le matériel si vous annulez. Le remboursement du kit et du premier mois s'applique si vous annulez et renvoyez le kit en bon état dans les 30 jours. Notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier) détaille la marche à suivre."
+        ]
+      },
+      {
+        "heading": "Ce que disent les clients",
+        "paragraphs": [
+          "Le profil starlink.com sur Trustpilot affiche 1,6 sur 5, et les plaintes visent surtout le support et la facturation. Faites une capture de l'offre de votre commande pour la comparer à la facture. Voyez [la lecture de Trustpilot](/fr/reviews/starlink-trustpilot-avis)."
+        ]
+      },
+      {
+        "heading": "Notre expérience jusqu'ici",
+        "paragraphs": [
+          "Nous avons déjà souscrit à Starlink, mais nous n'avons pas encore d'expérience d'usage. Débit, installation et qualité au quotidien feront l'objet d'une mise à jour de cet article, quand nous les aurons."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Starlink vaut-il le coup en ville ? Avec une fibre stable à l'adresse, comparez l'installation, les mensualités et les engagements avant de changer.",
+          "Starlink est-il meilleur que la fibre ? Sans bonne fibre sur place, cela vaut la peine de demander un tarif Starlink et de vérifier que le ciel est dégagé. Si les deux sont disponibles, comparez la stabilité et le coût à votre adresse.",
+          "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
+          "Starlink est-il illimité ? Vérifiez sur la commande les conditions du forfait qui s'affiche, notamment les limites de débit.",
+          "Combien coûte Starlink par mois ? Pour une adresse à Paris, la commande affichait 24,50 € pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec l'offre en cours. Le prix change selon l'adresse."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous n'avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
+        "Vous acceptez de louer le matériel et de le renvoyer si vous partez, et vous lisez le prix de votre adresse sur la commande."
+      ],
+      "skipIf": [
+        "Vous avez déjà une fibre stable à votre adresse, sans matériel à renvoyer.",
+        "Vous jouez en ligne et avez besoin d'une latence très basse, que la page lue ne garantit pas."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Saisissez votre adresse sur le site de Starlink et vérifiez le forfait, le kit et la mensualité avant de payer.",
+      "label": "Voir les forfaits à mon adresse",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Prix relevés sur la page de commande officielle. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-engagement-resilier"
+      },
+      {
+        "slug": "starlink-black-friday-offre"
+      },
+      {
+        "slug": "starlink-lien-parrainage"
+      }
+    ]
+  },
+  {
+    "id": 1141,
+    "slug": "starlink-engagement-resilier",
+    "translationKey": "starlink-fidelidade",
+    "locale": "fr",
+    "title": "Starlink a-t-il un engagement ? Kit loué, résiliation et les 30 jours pour le renvoyer",
+    "seoTitle": "Starlink : engagement, résiliation et retour du kit",
+    "type": "Guide pratique",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Le kit Starlink est loué et doit être renvoyé si vous annulez. Voyez comment résilier depuis le compte, la date limite de facturation et les 30 jours pour être remboursé.",
+    "metaDescription": "Starlink : kit loué à renvoyer en cas d'annulation, remboursement du kit et du premier mois sous 30 jours, et comment résilier depuis votre compte.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-engagement-resilier-capa.webp",
+    "imageAlt": "Antenne Starlink dans la neige devant un chalet où une personne travaille. La couverture indique « Engagement et résiliation ».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Sur la commande lue pour une adresse à Paris, le matériel Starlink est loué : 0 € au départ, 0 € par mois, à renvoyer si vous annulez le service. La commande prévoit le remboursement intégral du kit et du premier mois si vous annulez et renvoyez le kit en bon état dans les 30 jours. Nous n'avons relevé ni durée d'engagement ni frais de résiliation dans ce que nous avons lu, alors cherchez-les dans le récapitulatif de votre commande."
+        ]
+      },
+      {
+        "heading": "Ce que dit la commande",
+        "paragraphs": [
+          "Sur la page de commande que nous avons lue le 20 novembre 2026, le matériel apparaît comme loué. La ligne du kit indique un coût initial de 0 € et des frais mensuels de 0 €, avec l'obligation de retourner le matériel si vous annulez.",
+          "Nous n'avons pas relevé de durée d'engagement ni de pénalité de sortie sur cette page. Cela ne vaut que pour ce que nous avons lu, et la condition de votre commande peut différer : relisez le récapitulatif avant de confirmer."
+        ]
+      },
+      {
+        "heading": "Les 30 jours pour renvoyer",
+        "paragraphs": [
+          "Pour demander le remboursement du kit et du premier mois dans les conditions de l'offre, annulez le service et renvoyez le matériel en bon état dans les 30 jours.",
+          "Annuler l'abonnement arrête les prélèvements à venir selon le cycle. Avec le support de Starlink, vérifiez comment lancer aussi le retour du kit et gardez la preuve d'expédition.",
+          "Le [lien de parrainage Starlink](/fr/coupons/starlink) ouvre la même commande sur le site officiel. Vérifiez la politique de retour sur le récapitulatif avant de payer."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Éléments du kit Starlink Standard : antenne, routeur, support et câbles",
+          "caption": "Le matériel à renvoyer : antenne, routeur, support et câbles. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Comment résilier",
+        "paragraphs": [
+          "Sur la page d'accueil de votre compte Starlink, ouvrez « Votre abonnement ». À côté du forfait, choisissez « Gérer », puis « Annuler le service ». Les intitulés peuvent varier légèrement selon la langue de l'interface.",
+          "Pour éviter un nouveau cycle, faites la démarche avant 00 h 00 UTC le jour de facturation. À Paris en novembre, cela correspond à 1 h du matin ce jour-là.",
+          "D'après le centre d'aide, le service reste actif jusqu'à la fin de la période payée. Si vous changez d'avis avant la fin, cherchez « Reprendre » sur la page d'accueil. La réactivation après une annulation dépend de la disponibilité dans la zone."
+        ],
+        "bullets": [
+          "Connectez-vous à votre compte sur le site de Starlink et, sur la page « Accueil », sélectionnez « Votre abonnement ».",
+          "À côté du forfait, cliquez sur « Gérer », puis sur « Annuler le service ».",
+          "La facturation suit l'heure UTC. Le changement doit être fait avant 00 h 00 UTC le jour de facturation, sinon il ne s'applique qu'au cycle suivant.",
+          "Le service reste actif jusqu'à la date déjà payée, et aucun prélèvement ne suit.",
+          "Tant que le changement n'est pas effectif, vous pouvez y renoncer avec « Reprendre », dans l'alerte en haut de la page « Accueil ».",
+          "Après une annulation, la réactivation immédiate n'est pas toujours possible : elle dépend de la disponibilité dans votre zone."
+        ],
+        "postParagraphs": [
+          "Annuler le service ne lance pas le retour du kit. Le retour sous 30 jours a sa propre règle, décrite plus haut."
+        ],
+        "links": [
+          {
+            "label": "Comment annuler le service ? (centre d'aide de Starlink)",
+            "href": "https://starlink.com/fr/support/article/9d43bef2-36fe-bcd1-9f6a-e0304e9cf22e"
+          }
+        ]
+      },
+      {
+        "heading": "Si le prélèvement continue",
+        "paragraphs": [
+          "Si la facturation continue, ouvrez une demande auprès de Starlink avec le numéro de commande, la date de l'annulation et le numéro de dossier, s'il y en a un. Voyez aussi [ce que disent les avis sur Trustpilot](/fr/reviews/starlink-trustpilot-avis). Si vous ne reconnaissez pas la transaction, contactez aussi l'émetteur de votre carte ou votre banque."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Starlink a-t-il un engagement ? Sur la commande lue pour une adresse à Paris, nous n'avons relevé aucune durée d'engagement. Vérifiez le récapitulatif de votre commande avant de payer.",
+          "Faut-il renvoyer le matériel Starlink ? Oui. Le kit est loué, et la commande demande de le retourner si vous annulez le service.",
+          "Peut-on annuler Starlink à tout moment ? La demande se fait depuis le compte. Pour éviter un nouveau cycle, faites-la avant 00 h 00 UTC le jour de facturation.",
+          "Peut-on rendre Starlink sous 30 jours ? La commande prévoit le remboursement du kit et du premier mois si le service est annulé et le kit renvoyé en bon état dans les 30 jours.",
+          "Que se passe-t-il à la date de fin du service ? Le service reste actif jusqu'à la fin de la période déjà payée."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Rédigé d'après la page de commande et le centre d'aide de Starlink. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-vaut-il-le-coup"
+      },
+      {
+        "slug": "starlink-black-friday-offre"
+      },
+      {
+        "slug": "starlink-trustpilot-avis"
+      }
+    ]
+  },
+  {
+    "id": 1142,
+    "slug": "starlink-est-il-fiable",
+    "translationKey": "starlink-trust-guide",
+    "locale": "fr",
+    "title": "Starlink est-il fiable ? Reconnaître le site officiel et vérifier qui vend",
+    "seoTitle": "Starlink est-il fiable ? Site officiel et arnaques",
+    "type": "Éditorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Le site officiel de Starlink et la liste des revendeurs autorisés montrent à qui vous achetez. Voyez ce qu'il faut vérifier avant de payer le kit ou l'abonnement.",
+    "metaDescription": "Comment reconnaître le site officiel de Starlink, éviter l'hameçonnage et consulter la liste des revendeurs autorisés avant de payer.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-est-il-fiable-capa.webp",
+    "imageAlt": "Antenne Starlink installée sur un support fixé à une structure en bois. La couverture demande « Est-il fiable ? ».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Starlink est le service d'internet par satellite de SpaceX, et son site officiel est starlink.com. Si vous achetez le kit ailleurs, consultez la liste des revendeurs autorisés de Starlink et vérifiez qui est le vendeur de l'annonce avant de payer."
+        ]
+      },
+      {
+        "heading": "Qui est Starlink et qui vend",
+        "paragraphs": [
+          "Starlink vend son service et son matériel sur son site officiel. Le profil Trustpilot de l'entreprise pointe vers le domaine starlink.com.",
+          "Notre analyse [Starlink vaut-il le coup ?](/fr/reviews/starlink-vaut-il-le-coup) montre comment comparer prix, installation et alternatives à votre adresse."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenne Starlink Standard et routeur",
+          "caption": "L'antenne et le routeur Starlink. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Comment reconnaître le site officiel",
+        "paragraphs": [
+          "Tapez starlink.com dans le navigateur. Avant de saisir vos données ou de payer, vérifiez que vous êtes toujours dans le domaine starlink.com.",
+          "Si on vous demande de payer par message ou en dehors de la commande, vérifiez auprès du support de Starlink avant d'aller plus loin."
+        ]
+      },
+      {
+        "heading": "Messages qui utilisent le nom Starlink",
+        "paragraphs": [
+          "Le centre d'aide de Starlink publie un avertissement sur l'hameçonnage. Si vous recevez une annonce ou un message au nom de Starlink, confirmez sur starlink.com avant de payer ou de communiquer vos données. Ouvrez toujours le site en tapant l'adresse vous-même."
+        ]
+      },
+      {
+        "heading": "Revendeurs et places de marché",
+        "paragraphs": [
+          "Starlink tient une liste de revendeurs autorisés. Même sur une place de marché connue, vérifiez le vendeur de l'annonce.",
+          "Le [parrainage Starlink](/fr/coupons/starlink) s'applique aux commandes éligibles passées via le lien directement sur starlink.com. On ne peut pas l'ajouter à un kit acheté chez un revendeur."
+        ],
+        "links": [
+          {
+            "label": "Liste des revendeurs autorisés par Starlink",
+            "href": "https://starlink.com/fr/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
+        ]
+      },
+      {
+        "heading": "Les profils qui portent le même nom",
+        "paragraphs": [
+          "Sur Trustpilot, d'autres profils portent le nom Starlink, avec les domaines ukstarlink.com et starlink.om. Ce ne sont pas des profils de starlink.com. Pour juger l'opérateur, consultez celui du domaine officiel."
+        ]
+      },
+      {
+        "heading": "Ce que montre Trustpilot",
+        "paragraphs": [
+          "Le profil de starlink.com n'est pas revendiqué par l'entreprise et affiche une note de 1,6 sur 5. Les chiffres, les plaintes les plus fréquentes et les limites de cette lecture sont dans notre [analyse de Trustpilot](/fr/reviews/starlink-trustpilot-avis)."
+        ]
+      },
+      {
+        "heading": "Que garder après la commande",
+        "bullets": [
+          "Gardez le numéro de commande, le prix affiché au paiement et l'e-mail de confirmation. En cas d'écart, contactez le support depuis le site ou l'application."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Starlink est-il fiable ? Starlink est le service d'internet par satellite de SpaceX. Vérifiez que vous êtes sur starlink.com et lisez le profil du domaine officiel sur Trustpilot.",
+          "Quel est le site officiel de Starlink ? C'est starlink.com. Vérifiez le domaine avant de saisir vos données ou de payer.",
+          "Comment savoir si un vendeur est autorisé ? Consultez la liste des revendeurs de Starlink et vérifiez le vendeur de l'annonce avant de payer."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Rédigé d'après le site officiel, le centre d'aide et les profils publics sur Trustpilot. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trustpilot-avis"
+      },
+      {
+        "slug": "starlink-lien-parrainage"
+      },
+      {
+        "slug": "starlink-vaut-il-le-coup"
+      }
+    ]
+  },
+  {
+    "id": 1143,
+    "slug": "starlink-trustpilot-avis",
+    "translationKey": "starlink-reputation",
+    "locale": "fr",
+    "title": "Starlink sur Trustpilot : la note de 1,6, les 871 avis et ce que disent les plaintes",
+    "seoTitle": "Starlink sur Trustpilot : la note et les avis",
+    "type": "Analyse de réputation",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Voyez la note, le nombre d'avis et les plaintes qui reviennent sur le profil Trustpilot de starlink.com, et ce que reflètent ces chiffres pour quelqu'un qui hésite à s'abonner.",
+    "metaDescription": "Starlink sur Trustpilot : note de 1,6 sur 5, 871 avis, profil non revendiqué. Voyez les plaintes fréquentes et les limites de ces chiffres.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trustpilot-avis-capa.webp",
+    "imageAlt": "Antenne Starlink installée sur un toit sous un ciel d'orage, avec un éclair. La couverture indique « Trustpilot : la note ».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Le profil Trustpilot de starlink.com affiche 1,6 sur 5, jugé « mauvais » par la plateforme, pour 871 avis, dont 71 % à une étoile. Le profil n'est pas revendiqué et l'entreprise n'a pas invité ses clients à laisser un avis, donc ces chiffres reflètent ceux qui ont choisi de laisser un avis. Pour consulter l'opérateur, cherchez le profil du domaine starlink.com."
+        ]
+      },
+      {
+        "heading": "La note et la répartition",
+        "paragraphs": [
+          "Nous avons lu le profil le 20 novembre 2026. Le profil, nommé Starlink Development, appartient à la catégorie fournisseur d'accès à internet."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicateur",
+            "Profil starlink.com"
+          ],
+          "rows": [
+            [
+              "Note Trustpilot",
+              "1,6 sur 5, « mauvais »"
+            ],
+            [
+              "Nombre d'avis",
+              "871"
+            ],
+            [
+              "5 étoiles",
+              "17 %"
+            ],
+            [
+              "4 étoiles",
+              "2 %"
+            ],
+            [
+              "3 étoiles",
+              "3 %"
+            ],
+            [
+              "2 étoiles",
+              "7 %"
+            ],
+            [
+              "1 étoile",
+              "71 %"
+            ]
+          ],
+          "caption": "Lecture du profil Trustpilot de starlink.com. La répartition porte sur les 871 avis."
+        }
+      },
+      {
+        "heading": "Pourquoi ces chiffres sont limités",
+        "paragraphs": [
+          "Trustpilot signale que l'entreprise n'a jamais invité ses clients à laisser un avis, ce qui peut rendre les avis peu représentatifs. Le profil n'est pas non plus revendiqué par l'entreprise."
+        ]
+      },
+      {
+        "heading": "Comment identifier le bon profil",
+        "paragraphs": [
+          "Cherchez « Starlink Development », le profil dont le site indiqué est starlink.com. D'autres profils au nom proche renvoient vers d'autres domaines."
+        ]
+      },
+      {
+        "heading": "Ce que les plaintes ont en commun",
+        "paragraphs": [
+          "Le résumé généré par Trustpilot, établi sur 355 avis récents, retient comme plainte la plus fréquente un support difficile à joindre, avec un chatbot pour seul interlocuteur. Il cite aussi des hausses de la facturation mensuelle et des coûts supplémentaires. Le produit et le débit reçoivent des avis partagés, et certains clients louent la connexion rapide."
+        ]
+      },
+      {
+        "heading": "Ce que cela veut dire pour qui s'abonne",
+        "paragraphs": [
+          "Comparez chaque mois la facture avec le prix affiché sur la commande, et gardez la capture de l'offre. Les règles du matériel loué et de l'annulation sont dans notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Antenne Starlink fixée au toit d'une maison en bois",
+          "caption": "Antenne résidentielle installée. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "Avant de souscrire",
+        "paragraphs": [
+          "Avant de souscrire, vérifiez le site et la commande. Comment reconnaître le site officiel et les profils qui portent le même nom est expliqué dans [Starlink est-il fiable ?](/fr/reviews/starlink-est-il-fiable).",
+          "Si vous souscrivez, la [page du parrainage Starlink](/fr/coupons/starlink) réunit le lien et les règles du programme."
+        ]
+      },
+      {
+        "heading": "Comment contacter Starlink et laisser un avis",
+        "paragraphs": [
+          "Ouvrez une demande depuis le site ou l'application de Starlink et gardez le numéro de dossier. Si la facturation diffère de la commande, envoyez le prix affiché à l'offre et la facture. Pour donner votre avis, passez par le profil du domaine starlink.com sur Trustpilot."
+        ],
+        "links": [
+          {
+            "label": "Profil Trustpilot de starlink.com",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Quelle est la note de Starlink sur Trustpilot ? Le profil du domaine starlink.com affiche 1,6 sur 5, pour 871 avis, avec 71 % d'avis à une étoile.",
+          "Quel profil Starlink faut-il consulter ? Celui dont le domaine est starlink.com. Les profils ukstarlink.com et starlink.om sont d'autres sites.",
+          "Les avis Trustpilot représentent-ils tous les clients ? Pas forcément. L'entreprise n'a pas invité ses clients à laisser un avis, donc les avis peuvent ne pas être représentatifs."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Données du profil public de Trustpilot. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-est-il-fiable"
+      },
+      {
+        "slug": "starlink-engagement-resilier"
+      },
+      {
+        "slug": "starlink-vaut-il-le-coup"
+      }
+    ]
+  },
+  {
+    "id": 1144,
+    "slug": "starlink-empfehlungslink",
+    "translationKey": "starlink-indicacao",
+    "locale": "de",
+    "title": "Starlink-Empfehlungslink: So nutzen Sie ihn und wann die Prämie kommt",
+    "seoTitle": "Starlink-Empfehlungslink: Nutzung und Prämie",
+    "type": "Empfehlungscode-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Öffnen Sie den Link auf der offiziellen Seite und prüfen Sie die Prämie in der Bestellung, bevor Sie zahlen. Wer teilnehmen kann, wann der Betrag kommt, Guthaben oder Auszahlung.",
+    "metaDescription": "So öffnen Sie den Starlink-Empfehlungslink, finden den Betrag in der Bestellung und erhalten die Prämie, sobald die Bedingungen des Programms erfüllt sind.",
+    "publishedAt": "20. November 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-empfehlungslink-capa.webp",
+    "imageAlt": "Starlink-Antenne auf einem Dach unter blauem Himmel. Auf dem Titelbild stehen «Empfehlungslink» und «Prämie für Neukunden hier, nach 2 Monaten».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Schnelle Antwort",
+        "paragraphs": [
+          "Öffnen Sie den Empfehlungslink von Starlink und geben Sie Ihre Adresse ein. Prüfen Sie vor dem Bezahlen, ob der Hinweis auf den angewendeten Empfehlungscode erscheint, und lesen Sie die Prämie in der Bestellung ab. Das Programm gilt für Neukunden, und die Prämie wird nach zwei vollen Monatszyklen ausgezahlt, als Servicegutschrift oder, wo angeboten, als Auszahlung."
+        ]
+      },
+      {
+        "heading": "So nutzen Sie den Link, Schritt für Schritt",
+        "paragraphs": [
+          "Öffnen Sie den Link über die [Seite zur Starlink-Empfehlung](/de/coupons/starlink) und geben Sie die Adresse ein, an der Sie den Dienst nutzen möchten."
+        ],
+        "postParagraphs": [
+          "Prüfen Sie den Hinweis, bevor Sie bezahlen. Laut Starlink muss die Empfehlung in der ursprünglichen Bestellung stehen."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Haus mit einer auf dem Dach installierten Starlink-Antenne",
+          "caption": "Antenne auf dem Dach mit freiem Himmel. Foto von Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        },
+        "bullets": [
+          "Wählen Sie in der Bestellung einen berechtigten Tarif für Privathaushalt oder Reise.",
+          "Suchen Sie den Hinweis, dass der Empfehlungscode angewendet wurde, und lesen Sie Prämie und Gesamtbetrag ab.",
+          "Schließen Sie die Bestellung auf der Starlink-Seite ab. Den Betrag am Bestelltag zeigt die Bestellseite selbst.",
+          "Aktivieren Sie das Kit und behalten Sie die erste Rechnung im Blick. Die erste Zahlung und die Aktivierung der Hardware gehören zu den Voraussetzungen der Empfehlung."
+        ]
+      },
+      {
+        "heading": "Wie viel es bringt und wann es kommt",
+        "paragraphs": [
+          "Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag, als Geld oder als Servicegutschrift.",
+          "Das Abonnement muss zwei volle Monatszyklen aktiv und bezahlt bleiben. Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, je nach Land, Konto und Identitätsprüfung.",
+          "Standard ist die Gutschrift auf der Rechnung. Bietet Ihr Konto eine Auszahlung in Geld an, öffnen Sie die Empfehlungen im Browser, wählen die Auszahlungsmethode und schließen Identifikation und Bankangaben bei Stripe ab."
+        ]
+      },
+      {
+        "heading": "Wer teilnehmen kann",
+        "bullets": [
+          "Wer abonniert, muss Neukunde sein. Bestandskunden und frühere Kunden erhalten den Betrag nicht.",
+          "Wer empfiehlt, muss aktiver Kunde mit einem Tarif für Privathaushalt oder Reise sein. Priority-, Enterprise- und Geschäftstarife erhalten keine Prämie.",
+          "Für Neukunden zählen die Tarife für Privathaushalt und Reise, die in der Bestellung angezeigt werden."
+        ]
+      },
+      {
+        "heading": "Gibt es einen Starlink-Gutschein?",
+        "paragraphs": [
+          "Der Link bringt den Empfehlungscode bereits in die Bestellung, und es gibt keinen Code zum Eintippen. Suchen Sie vor dem Bezahlen den Bestätigungshinweis auf dem Bildschirm.",
+          "Das Programm erfasst Käufe auf starlink.com über den Link. Käufe bei Händlern oder auf Marktplätzen und Kontoübertragungen zählen nicht."
+        ]
+      },
+      {
+        "heading": "Und das Black-Friday-Angebot?",
+        "paragraphs": [
+          "In Deutschland zeigte die Bestellseite zuletzt 50 % Rabatt auf Tarife für Privathaushalt und Reise, für 3 Monate. Ob Angebot und Empfehlung in Ihrer Bestellung gemeinsam erscheinen, sehen Sie vor dem Bezahlen. Die Rechnung dazu steht im [Leitfaden zum Black-Friday-Angebot](/de/reviews/starlink-black-friday-angebot)."
+        ]
+      },
+      {
+        "heading": "So verfolgen Sie den Stand",
+        "paragraphs": [
+          "Auf der Registerkarte Empfehlungen auf der Website oder in der App sehen Sie, wer über Ihren Link abonniert hat. Starlink schickt eine E-Mail, wenn jemand die Bestellung aufgibt. Eine Empfehlung kann eine Berechtigungsprüfung durchlaufen, bevor eine Prämie entsteht."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Wie funktioniert die Starlink-Empfehlung? Bestellen Sie auf starlink.com über den Link, prüfen Sie die angewendete Empfehlung, aktivieren Sie das Kit und halten Sie den Dienst zwei volle Monatszyklen aktiv und bezahlt.",
+          "Wie viel bringt die Starlink-Empfehlung? Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag.",
+          "Wann kommt die Starlink-Prämie? Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, wenn die Empfehlung die Bedingungen des Programms erfüllt.",
+          "Gilt die Empfehlung bei einem Händler oder Marktplatz? Das Programm verlangt den Kauf direkt auf starlink.com über den Link.",
+          "Ich war schon Kunde, kann ich den Link nutzen? Die Prämie gilt für alle, die Starlink zum ersten Mal abonnieren.",
+          "Funktioniert der Empfehlungslink in Deutschland? Laut Hilfecenter von Starlink gilt die Empfehlung in den meisten Ländern, in denen Starlink verkauft, und der Betrag hängt vom Land ab, in dem Sie sich anmelden. Ob sie für Ihre Adresse gilt, zeigt der Hinweis in der Bestellung."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Prüfen Sie die Prämie, die Ihre Bestellung für Ihre Adresse anzeigt, bevor Sie bezahlen.",
+      "label": "Empfehlung in der Bestellung ansehen",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Wir haben das Hilfecenter und die Bestellseite von Starlink gelesen. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-black-friday-angebot"
+      },
+      {
+        "slug": "lohnt-sich-starlink"
+      },
+      {
+        "slug": "starlink-vertrag-kuendigen"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1145,
+    "slug": "starlink-black-friday-angebot",
+    "translationKey": "starlink-black-friday",
+    "locale": "de",
+    "title": "Starlink Black Friday 2026: 50 % Rabatt für 3 Monate und die Rechnung für Berlin",
+    "seoTitle": "Starlink Black Friday 2026: 50 % für 3 Monate",
+    "type": "Black-Friday-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "In Berlin zeigte Starlink 50 % auf Privathaushalt und Reise für 3 Monate, Kit zur Miete für 0 €. Wir rechnen die ersten Monate und zeigen, wie die Empfehlungsprämie dazukommt.",
+    "metaDescription": "Starlink Black Friday: 50 % auf Privathaushalt und Reise für 3 Monate, Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
+    "publishedAt": "20. November 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-black-friday-angebot-capa.webp",
+    "imageAlt": "Starlink-Antenne auf dem Dach einer Hütte am Abend. Auf dem Titelbild stehen «Black Friday 2026» und «50 % für 3 Monate».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Schnelle Antwort",
+        "paragraphs": [
+          "In Deutschland zeigte die Bestellseite 50 % Rabatt auf die Tarife für Privathaushalt und Reise, für 3 Monate und bei Anmeldung bis Ende November. Das Kit ist gemietet, mit 0 € Vorauszahlung, und geht bei Kündigung zurück. Die Empfehlungsprämie kommt erst nach zwei vollen Monatszyklen dazu, und ihren Betrag zeigt Ihre Bestellung."
+        ]
+      },
+      {
+        "heading": "Was Sie zahlen und was die Prämie ändert",
+        "paragraphs": [
+          "Wir haben die Bestellseite für eine Adresse in Berlin am 20. November 2026 gelesen, ohne Empfehlungslink und ohne den Kauf abzuschließen. Der Tarif Privathaushalt mit 100 Mbit/s kostete 17,50 € im Monat, mit 200 Mbit/s 27,50 € und der Max 37,50 €. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat. Als Betrag für den Bestelltag zeigte die Seite 19 €.",
+          "Die Prämie der Empfehlung steht in keiner dieser Zahlen. Wie hoch sie für Ihr Land ist, sehen Sie in der Bestellung mit dem Link, und sie wird erst gutgeschrieben, wenn der Dienst zwei volle Monatszyklen aktiv und bezahlt war."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Privathaushalt in Berlin",
+            "Pro Monat im Aktionszeitraum",
+            "Summe für 3 Monate"
+          ],
+          "rows": [
+            [
+              "100 Mbit/s",
+              "17,50 €",
+              "52,50 €"
+            ],
+            [
+              "200 Mbit/s",
+              "27,50 €",
+              "82,50 €"
+            ],
+            [
+              "Max",
+              "37,50 €",
+              "112,50 €"
+            ],
+            [
+              "Kit zur Miete",
+              "0 € Vorauszahlung, 0 € im Monat",
+              "0 €"
+            ],
+            [
+              "Professionelle Montage, optional bei 100 und 200 Mbit/s",
+              "einmalig 172 €",
+              "172 €"
+            ]
+          ],
+          "caption": "Preise von der Bestellseite für Berlin. Die Summen über 3 Monate sind unsere Rechnung mit dem Aktionspreis. Was danach gilt, haben wir nicht erfasst."
+        },
+        "postParagraphs": [
+          "Beim Max zeigte die Seite die professionelle Montage mit 0 €. Die Prämie braucht eine berechtigte Empfehlung, und Starlink zahlt sie als Servicegutschrift oder, wo das Konto es anbietet, als Auszahlung."
+        ]
+      },
+      {
+        "heading": "So sieht es in der Bestellung aus",
+        "paragraphs": [
+          "Um Ihr Angebot zu prüfen, öffnen Sie den Link, geben die Adresse ein und suchen den Hinweis auf den angewendeten Empfehlungscode, bevor Sie bezahlen. Achten Sie darauf, ob die Bestellung die Prämie und die Bedingungen des Monatspreises zeigt."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Starlink-Antenne am Dach eines Holzhauses",
+          "caption": "Antenne für Privathaushalte, installiert. Foto von Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "Was es bringt, andere zu empfehlen",
+        "paragraphs": [
+          "Wer abonniert hat, kann selbst weiterempfehlen, und wer empfiehlt, erhält denselben Betrag, als Geld oder als Servicegutschrift. Die empfohlene Person muss die geforderten Monatszyklen vollständig erfüllen.",
+          "Wie das Programm im Einzelnen funktioniert, steht im [Ratgeber zum Empfehlungslink](/de/reviews/starlink-empfehlungslink). Den Betrag für jede Empfehlung sehen Sie in Ihrem Konto."
+        ]
+      },
+      {
+        "heading": "Gilt das Angebot an Ihrer Adresse?",
+        "paragraphs": [
+          "Die Aktion gilt für ausgewählte Gebiete. Auf der Startseite stand der Preis ab 17,50 € für diese Gebiete. Ob Ihre Adresse dazugehört, sagt erst die Bestellung nach der Eingabe der Adresse. Vergleichen Sie die Kosten der Tarife an Ihrer Adresse mit der Dauer jedes Angebots."
+        ]
+      },
+      {
+        "heading": "Kündigung und Rückgabe des Kits",
+        "paragraphs": [
+          "Das Kit ist gemietet. Wenn Sie den Dienst kündigen, müssen Sie es zurückgeben. Die Bestellseite nennt die Erstattung von Kit und erstem Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückschicken. Mehr dazu im [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
+        ]
+      },
+      {
+        "heading": "Und nach den 3 Monaten?",
+        "paragraphs": [
+          "Welcher Preis nach den 3 Aktionsmonaten gilt, haben wir auf der Bestellseite nicht erfasst. Prüfen Sie ihn vor dem Bezahlen und rechnen Sie mit diesem Preis, wenn Sie länger bleiben wollen.",
+          "Was bei einem Tarifwechsel, einer Kündigung oder einer Sperrung mit dem Aktionspreis geschieht, steht in den Bedingungen Ihrer Bestellung."
+        ]
+      },
+      {
+        "heading": "So nutzen Sie den Link",
+        "paragraphs": [
+          "Öffnen Sie den Link und geben Sie die Adresse ein, an der Sie die Antenne installieren. Wählen Sie den Tarif, prüfen Sie die angewendete Empfehlung und notieren Sie das Angebot, das vor dem Bezahlen erscheint.",
+          "Auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink) stehen der Link und die Regeln des Programms."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Gibt es bei Starlink einen Black Friday? Die Bestellseite für Berlin zeigte 50 % Rabatt auf die Tarife Privathaushalt und Reise für 3 Monate, mit Kit zur Miete für 0 €.",
+          "Lässt sich die Empfehlung mit dem Angebot kombinieren? Prüfen Sie in der Bestellung für Ihre Adresse, ob beide erscheinen. Die Prämie hängt von der Berechtigung und von zwei vollen Monatszyklen ab.",
+          "Wie viel wird bei der Bestellung berechnet? Die Bestellseite für Berlin zeigte 19 € als Betrag für den Bestelltag.",
+          "Muss ich das Kit kaufen? Die Seite zeigte das Kit zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat. Bei Kündigung muss es zurückgeschickt werden.",
+          "Wie lange läuft das Angebot? Laut Starlink endet das Angebot am 30. November. Geben Sie Ihre Adresse in der Bestellung ein, um zu sehen, ob sie dort gilt."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Die Bestellung öffnet sich auf der Starlink-Seite. Prüfen Sie Tarifpreis, Rückgabe des Kits und Prämie, bevor Sie bezahlen.",
+      "label": "Angebot für meine Adresse prüfen",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Die Summen über 3 Monate sind Rechnungen von uns. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-empfehlungslink"
+      },
+      {
+        "slug": "lohnt-sich-starlink"
+      },
+      {
+        "slug": "starlink-vertrag-kuendigen"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1146,
+    "slug": "lohnt-sich-starlink",
+    "translationKey": "starlink-vale-a-pena",
+    "locale": "de",
+    "title": "Lohnt sich Starlink? Die Rechnung für die ersten Monate und für wen es passt",
+    "seoTitle": "Lohnt sich Starlink? Kosten und Eignung",
+    "type": "Kaufratgeber",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Vergleichen Sie die Starlink-Kosten der ersten Monate mit dem Anschluss, der bei Ihnen ankommt. Kit zur Miete, Montage, Rückgabe und wie Sie den Standort der Antenne prüfen.",
+    "metaDescription": "Lohnt sich Starlink? Die Kosten der ersten Monate mit Kit-Miete, Preise nach Adresse, für wen es passt und wann Glasfaser oder Mobilfunk besser sind.",
+    "publishedAt": "20. November 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/lohnt-sich-starlink-capa.webp",
+    "imageAlt": "Starlink-Antenne an der Traufe eines Hauses, dahinter Berge. Das Titelbild fragt «Lohnt es sich?» und nennt «Internet für zu Hause».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Schnelle Antwort",
+        "paragraphs": [
+          "Starlink kann sich auf dem Land und in Häusern lohnen, in denen keine stabile Verbindung ankommt. Wenn bereits zuverlässige Glasfaser verfügbar ist, vergleichen Sie die Kosten, bevor Sie wechseln. Rechnen Sie die Monatspreise Ihrer Adresse zusammen, prüfen Sie Kit-Miete und Rückgabe und testen Sie mit der Starlink-App, wo die Antenne stehen kann."
+        ]
+      },
+      {
+        "heading": "Was es in den ersten Monaten kostet",
+        "paragraphs": [
+          "Am 20. November 2026 haben wir die Bestellseite für eine Adresse in Berlin gelesen. Sie zeigte 50 % Rabatt auf die Tarife für Privathaushalt für 3 Monate. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Privathaushalt in Berlin",
+            "Pro Monat im Aktionszeitraum",
+            "Kit",
+            "Summe für 3 Monate"
+          ],
+          "rows": [
+            [
+              "100 Mbit/s",
+              "17,50 €",
+              "0 € (Miete)",
+              "52,50 €"
+            ],
+            [
+              "200 Mbit/s",
+              "27,50 €",
+              "0 € (Miete)",
+              "82,50 €"
+            ],
+            [
+              "Max",
+              "37,50 €",
+              "0 € (Miete)",
+              "112,50 €"
+            ]
+          ],
+          "caption": "Kit plus 3 Monatsbeträge nach den angezeigten Preisen. Summen vor der Empfehlungsprämie und vor möglichen Kosten außerhalb der Standardinstallation."
+        },
+        "postParagraphs": [
+          "Die professionelle Montage ist bei 100 und 200 Mbit/s optional und kostete 172 €, beim Max 0 €. Den Preis nach den 3 Aktionsmonaten haben wir nicht erfasst, deshalb rechnen wir kein volles Jahr aus. Prüfen Sie ihn in Ihrer Bestellung, bevor Sie bezahlen.",
+          "Rechnen Sie an Ihrer Adresse zuerst ohne die Prämie. Bei unserer Empfehlung zeigt die Bestellung die Prämie, die nach den Regeln des Programms gutgeschrieben wird. Mehr auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
+        ]
+      },
+      {
+        "heading": "Wo die Antenne stehen kann",
+        "paragraphs": [
+          "Wählen Sie vor dem Kauf einen Punkt mit freiem Blick zum Himmel. Äste und Dächer im Sichtfeld können Unterbrechungen verursachen. Nutzen Sie die Starlink-App an dem Punkt, den Sie für die Antenne vorsehen, und lassen Sie die Hinderniskontrolle laufen."
+        ],
+        "links": [
+          {
+            "label": "So prüfen Sie Hindernisse in der App",
+            "href": "https://starlink.com/de/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Haus mit einer auf dem Dach installierten Starlink-Antenne",
+          "caption": "Antenne auf dem Dach mit freiem Himmel. Foto von Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Wann Sie Glasfaser oder Mobilfunk vergleichen sollten",
+        "paragraphs": [
+          "Wenn schon stabile Glasfaser ankommt, vergleichen Sie die Summe aus Einrichtung, Monatspreisen und einer möglichen Mindestlaufzeit jedes Angebots. Rechnen Sie beim Mobilfunk das Gerät ein, das Sie brauchen, und prüfen Sie, ob das Datenvolumen für den Haushalt reicht."
+        ]
+      },
+      {
+        "heading": "Geschwindigkeit und Spiele",
+        "paragraphs": [
+          "Die Tarife für Privathaushalte nennen eine Download-Geschwindigkeit, aber die Leistung kann je nach Ort und Uhrzeit schwanken. Achten Sie bei Online-Spielen auch auf die Reaktionszeit und auf Unterbrechungen.",
+          "Starlink nennt in den Spezifikationen eine typische Spanne von 25 bis 60 ms an Land. Das ist eine Angabe des Unternehmens, ohne Messung an der Adresse unserer Bestellung."
+        ],
+        "links": [
+          {
+            "label": "Leistungsspezifikationen von Starlink",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "Kit-Miete und Ausstieg",
+        "paragraphs": [
+          "Das Kit ist gemietet und geht bei Kündigung zurück. Die Bestellseite nennt die Erstattung von Kit und erstem Monat bei Kündigung und Rückgabe innerhalb von 30 Tagen. Der [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen) erklärt die Rückgabe Schritt für Schritt."
+        ]
+      },
+      {
+        "heading": "Was Kunden beanstanden",
+        "paragraphs": [
+          "Das Trustpilot-Profil der Domain starlink.com steht bei einem TrustScore von 1,6, bei vielen Beschwerden zu Support und Rechnung. Bewahren Sie das Angebot der Bestellung auf, um es mit der Rechnung zu vergleichen. Lesen Sie dazu [die Auswertung der Trustpilot-Bewertungen](/de/reviews/starlink-trustpilot-bewertungen)."
+        ]
+      },
+      {
+        "heading": "Unsere Erfahrung bisher",
+        "paragraphs": [
+          "Wir haben Starlink abonniert, aber noch keine Nutzungserfahrung. Geschwindigkeit, Installation und Alltag fließen in eine Aktualisierung dieses Artikels ein, sobald es sie gibt."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Lohnt sich Starlink in der Stadt? Bei stabiler Glasfaser an der Adresse vergleichen Sie Einrichtung, Monatspreise und Laufzeit, bevor Sie wechseln.",
+          "Ist Starlink besser als Glasfaser? Ohne gute Glasfaser vor Ort lohnt es sich, Starlink für die Adresse zu prüfen, samt freier Sicht zum Himmel. Sind beide verfügbar, vergleichen Sie Stabilität und Kosten an Ihrer Adresse.",
+          "Ist Starlink gut zum Spielen? Testen Sie Reaktionszeit und Unterbrechungen an Ihrer Adresse. Die typische Spanne, die Starlink nennt, ist ein allgemeiner Richtwert.",
+          "Wie viel kostet Starlink im Monat? Die Bestellseite für Berlin zeigte im Aktionszeitraum 17,50 € für 100 Mbit/s, 27,50 € für 200 Mbit/s und 37,50 € für den Max. Der Preis hängt von der Adresse ab.",
+          "Muss ich das Kit kaufen? Die Bestellseite zeigte das Kit zur Miete, ohne Vorauszahlung. Bei Kündigung muss es zurückgeschickt werden."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "An Ihrer Adresse kommt keine brauchbare Glasfaser an, und auch das Mobilfunknetz ist schwach.",
+        "Sie wollen das Kit mieten und prüfen vor dem Bezahlen, welcher Preis nach den Aktionsmonaten gilt."
+      ],
+      "skipIf": [
+        "Bei Ihnen liegt bereits ein stabiler Glasfaseranschluss, und Sie brauchen kein Kit.",
+        "Sie spielen online mit sehr kurzer Reaktionszeit, und Starlink nennt dafür nur eine typische Spanne, keine Messung an Ihrer Adresse."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Geben Sie Ihre Adresse auf der Starlink-Seite ein und prüfen Sie Tarif, Kit und Monatspreis, bevor Sie bezahlen.",
+      "label": "Tarife für meine Adresse ansehen",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-vertrag-kuendigen"
+      },
+      {
+        "slug": "starlink-black-friday-angebot"
+      },
+      {
+        "slug": "starlink-empfehlungslink"
+      }
+    ]
+  },
+  {
+    "id": 1147,
+    "slug": "starlink-vertrag-kuendigen",
+    "translationKey": "starlink-fidelidade",
+    "locale": "de",
+    "title": "Hat Starlink eine Vertragslaufzeit? Kit-Miete, Kündigung und die 30 Tage zur Rückgabe",
+    "seoTitle": "Starlink kündigen: Kit-Rückgabe und 30 Tage",
+    "type": "Anleitung",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Das Kit ist bei der Bestellung in Berlin gemietet und geht bei Kündigung zurück. Sehen Sie, wie Sie im Konto kündigen, was die 30 Tage bedeuten und worauf Sie achten sollten.",
+    "metaDescription": "Starlink kündigen in Deutschland: Das Kit ist zur Miete und geht zurück. Die 30 Tage für die Erstattung und die Schritte im Konto.",
+    "publishedAt": "20. November 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-vertrag-kuendigen-capa.webp",
+    "imageAlt": "Starlink-Antenne im Schnee vor einer Hütte, in der jemand arbeitet. Auf dem Titelbild steht «Vertrag und Kündigung».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Schnelle Antwort",
+        "paragraphs": [
+          "Die Bestellseite für Berlin zeigte das Kit als Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat, und bei Kündigung muss es zurückgeschickt werden. Starlink nennt die Erstattung von Kit und erstem Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückgeben. Eine Mindestvertragslaufzeit oder eine Gebühr für die vorzeitige Kündigung haben wir in den gelesenen Angaben nicht gefunden, prüfen Sie deshalb Ihre Bestellung."
+        ]
+      },
+      {
+        "heading": "Kit zur Miete statt Kauf",
+        "paragraphs": [
+          "Auf der Bestellseite, die wir am 20. November 2026 für Berlin gelesen haben, stand beim Kit eine Vorauszahlung von 0 € und eine monatliche Kit-Gebühr von 0 €. Dazu der Hinweis, dass Sie die gemietete Starlink-Hardware bei Kündigung zurückgeben müssen.",
+          "Für andere Adressen oder Tarife haben wir die Bedingungen nicht gelesen. Die Bestellung für Ihre Adresse zeigt, welche gelten."
+        ]
+      },
+      {
+        "heading": "Gibt es eine Mindestlaufzeit?",
+        "paragraphs": [
+          "In den Angaben der Bestellseite für Berlin haben wir keine Mindestvertragslaufzeit und keine Gebühr für den vorzeitigen Ausstieg gefunden. Das ist keine Zusage von Starlink. Lesen Sie die Zusammenfassung Ihrer Bestellung, bevor Sie abschließen, und fragen Sie den Support, wenn etwas offen bleibt."
+        ]
+      },
+      {
+        "heading": "Die 30 Tage zur Rückgabe",
+        "paragraphs": [
+          "Die Bestellseite nennt eine Frist von 30 Tagen. Um die Erstattung von Kit und erstem Monat unter den Bedingungen des Angebots zu erhalten, kündigen Sie den Dienst und senden das Kit innerhalb dieser Frist unbeschädigt zurück.",
+          "Die Kündigung des Abonnements stoppt die künftigen Abbuchungen im Rahmen des Abrechnungszyklus. Klären Sie mit dem Starlink-Support, wie Sie auch die Rückgabe des Kits einleiten, und bewahren Sie den Versandbeleg auf.",
+          "Der Link der [Starlink-Empfehlung](/de/coupons/starlink) führt zur selben Bestellung auf der offiziellen Seite. Die Rückgabebedingungen prüfen Sie dort, bevor Sie bezahlen."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Teile des Starlink-Standard-Kits: Antenne, Router, Halterung und Kabel",
+          "caption": "Das Kit, das bei der Rückgabe zurückgeht: Antenne, Router, Halterung und Kabel. Foto von Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "So kündigen Sie",
+        "paragraphs": [
+          "Öffnen Sie auf der Startseite Ihres Starlink-Kontos „Ihr Abonnement“. Wählen Sie neben dem Tarif „Verwalten“ und dann „Dienst kündigen“.",
+          "Wenn Sie einen neuen Zyklus vermeiden wollen, nehmen Sie die Änderung vor 00:00 Uhr UTC am Abrechnungstag vor. Im November entspricht das 01:00 Uhr in Berlin.",
+          "Laut Hilfecenter bleibt der Dienst bis zum Ende des bezahlten Zeitraums aktiv. Überlegen Sie es sich vorher anders, suchen Sie auf der Startseite nach „Fortsetzen“. Ob eine Reaktivierung nach der Kündigung möglich ist, hängt von der Verfügbarkeit im Gebiet ab."
+        ],
+        "bullets": [
+          "Melden Sie sich im Konto auf der Starlink-Seite an und wählen Sie auf der Startseite „Ihr Abonnement“.",
+          "Klicken Sie neben dem Tarif auf „Verwalten“ und dann auf „Dienst kündigen“.",
+          "Die Abrechnung folgt der UTC-Zeit. Die Änderung muss vor 00:00 Uhr UTC am Abrechnungstag erfolgen, sonst gilt sie erst für den nächsten Zyklus.",
+          "Der Dienst bleibt bis zum bereits bezahlten Datum aktiv, und das Abonnement fällt aus den künftigen Abbuchungen.",
+          "Bevor die Änderung greift, können Sie sich unter „Fortsetzen“ umentscheiden, im Hinweis „Ihr Servicetarif endet am …“ oben auf der Startseite.",
+          "Nach der Kündigung ist eine Reaktivierung möglicherweise nicht sofort möglich. Sie hängt von der Verfügbarkeit in Ihrem Gebiet ab."
+        ],
+        "postParagraphs": [
+          "Mit der Kündigung des Dienstes ist das Kit noch nicht zurückgegeben. Für die Rückgabe innerhalb von 30 Tagen gilt die oben beschriebene eigene Regel."
+        ],
+        "links": [
+          {
+            "label": "Wie kündige ich den Dienst? (Hilfecenter von Starlink)",
+            "href": "https://starlink.com/de/support/article/9d43bef2-36fe-bcd1-9f6a-e0304e9cf22e"
+          }
+        ]
+      },
+      {
+        "heading": "Aktionspreis und Tarifwechsel",
+        "paragraphs": [
+          "Der Aktionspreis für Berlin galt für 3 Monate. Was bei einer Kündigung, einem Tarifwechsel oder einer Sperrung mit dem Aktionspreis passiert, haben wir für Deutschland nicht gelesen. Fragen Sie das vor der Änderung bei Starlink nach."
+        ]
+      },
+      {
+        "heading": "Wenn weiter abgebucht wird",
+        "paragraphs": [
+          "Wird weiter abgebucht, eröffnen Sie bei Starlink eine Anfrage mit der Bestellnummer, dem Datum der Kündigung und der Vorgangsnummer, falls vorhanden.",
+          "Was Kunden zum Thema Rechnung und Support berichten, steht in der [Auswertung der Trustpilot-Bewertungen](/de/reviews/starlink-trustpilot-bewertungen). Erkennen Sie eine Abbuchung nicht, wenden Sie sich auch an Ihre Bank."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Hat Starlink eine Vertragslaufzeit? In den gelesenen Angaben der Bestellseite für Berlin haben wir keine gefunden. Prüfen Sie die Zusammenfassung Ihrer Bestellung.",
+          "Was kostet es, Starlink zu kündigen? Eine Gebühr für die Kündigung haben wir in den gelesenen Angaben nicht gefunden. Das Kit muss bei Kündigung zurückgeschickt werden.",
+          "Kann ich Starlink jederzeit kündigen? Die Kündigung geht über das Konto. Der Dienst bleibt bis zum Ende des bezahlten Zeitraums aktiv.",
+          "Muss ich das Kit zurückgeben? Die Bestellseite für Berlin zeigte das Kit zur Miete. Bei Kündigung muss es zurückgeschickt werden.",
+          "Kann ich Starlink innerhalb von 30 Tagen zurückgeben? Das Angebot nennt die Erstattung von Kit und erstem Monat, wenn der Dienst gekündigt wird und das Kit innerhalb von 30 Tagen unbeschädigt zurückgeht."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Mit der Bestellseite und dem Hilfecenter von Starlink erstellt. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "relatedArticles": [
+      {
+        "slug": "lohnt-sich-starlink"
+      },
+      {
+        "slug": "starlink-black-friday-angebot"
+      },
+      {
+        "slug": "starlink-trustpilot-bewertungen"
+      }
+    ]
+  },
+  {
+    "id": 1148,
+    "slug": "ist-starlink-serioes",
+    "translationKey": "starlink-trust-guide",
+    "locale": "de",
+    "title": "Ist Starlink seriös? So finden Sie die offizielle Seite und prüfen, wer verkauft",
+    "seoTitle": "Ist Starlink seriös? Offizielle Seite und Fälschungen",
+    "type": "Redaktionell",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Die offizielle Seite von Starlink und das Trustpilot-Profil der Domain helfen zu prüfen, bei wem Sie kaufen. Das sollten Sie vor dem Bezahlen für das Kit kontrollieren.",
+    "metaDescription": "So erkennen Sie die offizielle Seite von Starlink, das Trustpilot-Profil der Domain starlink.com und die Liste der autorisierten Händler.",
+    "publishedAt": "20. November 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/ist-starlink-serioes-capa.webp",
+    "imageAlt": "Starlink-Antenne auf einer Halterung an einer Holzkonstruktion. Das Titelbild fragt «Ist Starlink seriös?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Schnelle Antwort",
+        "paragraphs": [
+          "Starlink ist der Satelliteninternetdienst von SpaceX. Die offizielle Website ist starlink.com. Wenn Sie das Kit anderswo kaufen, prüfen Sie zuerst die Liste der autorisierten Händler und den Verkäufer des Angebots. Auf Trustpilot finden Sie die Bewertungen unter „Starlink Development“ mit starlink.com als Website."
+        ]
+      },
+      {
+        "heading": "Wer Starlink ist und wer verkauft",
+        "paragraphs": [
+          "Starlink verkauft über die offizielle Seite. Der Dienst gehört zu SpaceX, und die Bestellung läuft auf starlink.com.",
+          "Die Auswertung [lohnt sich Starlink?](/de/reviews/lohnt-sich-starlink) zeigt, wie Sie Preis, Installation und Alternativen an Ihrer Adresse vergleichen."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink-Standard-Antenne und Router",
+          "caption": "Antenne und Router von Starlink. Foto von Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "So erkennen Sie die offizielle Seite",
+        "paragraphs": [
+          "Geben Sie starlink.com im Browser ein. Prüfen Sie, bevor Sie Daten eingeben oder bezahlen, dass Sie sich weiterhin auf starlink.com befinden."
+        ]
+      },
+      {
+        "heading": "Welches Trustpilot-Profil ist das von Starlink?",
+        "paragraphs": [
+          "Das Profil „Starlink Development“ gehört zur Domain starlink.com, in der Kategorie Internetanbieter. Es ist bei Trustpilot nicht beansprucht. Bei Trustpilot tauchen außerdem Profile mit dem Namen auf, die zu anderen Domains gehören, nämlich ukstarlink.com und starlink.om. Das sind nicht starlink.com."
+        ]
+      },
+      {
+        "heading": "Händler und Marktplätze",
+        "paragraphs": [
+          "Starlink führt eine Liste autorisierter Händler. Prüfen Sie auch auf einem bekannten Marktplatz, wer das Angebot verkauft.",
+          "Die [Starlink-Empfehlung](/de/coupons/starlink) gilt für berechtigte Bestellungen über den Link direkt auf starlink.com. Sie lässt sich nicht nachträglich zu einem Kit aus dem Handel hinzufügen."
+        ],
+        "links": [
+          {
+            "label": "Liste der von Starlink autorisierten Händler",
+            "href": "https://starlink.com/de/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
+        ]
+      },
+      {
+        "heading": "Nachrichten, die den Namen Starlink nutzen",
+        "paragraphs": [
+          "Das Hilfecenter von Starlink enthält einen Hinweis zu Phishing. Erreicht Sie eine Anzeige oder Nachricht im Namen von Starlink, bestätigen Sie das Angebot auf starlink.com, bevor Sie bezahlen oder Daten weitergeben."
+        ]
+      },
+      {
+        "heading": "Was Trustpilot zeigt",
+        "paragraphs": [
+          "Am 20. November 2026 stand das Profil bei einem TrustScore von 1,6 von 5, bei 871 Bewertungen. Das Profil ist nicht beansprucht.",
+          "Die [vollständige Auswertung der Bewertungen](/de/reviews/starlink-trustpilot-bewertungen) bringt die Zahlen, die häufigsten Beschwerden und die Grenzen dieser Zahl."
+        ]
+      },
+      {
+        "heading": "Was Sie nach dem Kauf aufbewahren sollten",
+        "bullets": [
+          "Bewahren Sie Bestellnummer, den im Checkout angezeigten Preis und die Bestätigungs-E-Mail auf. Gibt es eine Abweichung, wenden Sie sich über die Website oder die App an den Support."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Ist Starlink seriös? Starlink ist der Satelliteninternetdienst von SpaceX. Prüfen Sie die Seite starlink.com und das Trustpilot-Profil, das zur Domain starlink.com gehört.",
+          "Wie lautet die offizielle Seite von Starlink? Die offizielle Seite ist starlink.com.",
+          "Wie erkenne ich, ob ein Verkäufer autorisiert ist? Sehen Sie in die Händlerliste von Starlink und prüfen Sie den Verkäufer des Angebots, bevor Sie bezahlen."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Mit der offiziellen Website, dem Hilfecenter und den öffentlichen Profilen bei Trustpilot erstellt. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trustpilot-bewertungen"
+      },
+      {
+        "slug": "starlink-empfehlungslink"
+      },
+      {
+        "slug": "lohnt-sich-starlink"
+      }
+    ]
+  },
+  {
+    "id": 1149,
+    "slug": "starlink-trustpilot-bewertungen",
+    "translationKey": "starlink-reputation",
+    "locale": "de",
+    "title": "Starlink bei Trustpilot: TrustScore 1,6 und was Kunden am häufigsten beanstanden",
+    "seoTitle": "Starlink bei Trustpilot: Bewertung und Beschwerden",
+    "type": "Reputationsanalyse",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Der TrustScore, wie viele Menschen bewertet haben und welche Beschwerden im Trustpilot-Profil der Domain starlink.com auftauchen. Dazu, wie Sie selbst reklamieren.",
+    "metaDescription": "Starlink bei Trustpilot: TrustScore 1,6 bei 871 Bewertungen im Profil der Domain starlink.com. Häufigste Beschwerden und wie Sie reklamieren.",
+    "publishedAt": "20. November 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trustpilot-bewertungen-capa.webp",
+    "imageAlt": "Starlink-Antenne auf einem Dach unter Gewitterhimmel mit einem Blitz im Hintergrund. Das Titelbild nennt «Trustpilot: die Bewertung».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Schnelle Antwort",
+        "paragraphs": [
+          "Das Trustpilot-Profil der Domain starlink.com steht bei einem TrustScore von 1,6 von 5 und 871 Bewertungen. 71 % der Bewertungen vergeben einen Stern, 17 % fünf Sterne. Das Profil ist nicht beansprucht, und das Unternehmen hat Kunden laut Profil bisher nicht zu Bewertungen eingeladen."
+        ]
+      },
+      {
+        "heading": "Die Zahl und ihr Gewicht",
+        "paragraphs": [
+          "Wir haben das Profil am 20. November 2026 gelesen. Trustpilot ordnet den Wert als „Bad“ ein. Die Zahl zeigt, was Menschen dort geschrieben haben, und nicht, wie es allen Kunden geht."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indikator",
+            "Starlink bei Trustpilot"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "1,6 von 5"
+            ],
+            [
+              "Bewertungen insgesamt",
+              "871"
+            ],
+            [
+              "5 Sterne",
+              "17 %"
+            ],
+            [
+              "4 Sterne",
+              "2 %"
+            ],
+            [
+              "3 Sterne",
+              "3 %"
+            ],
+            [
+              "2 Sterne",
+              "7 %"
+            ],
+            [
+              "1 Stern",
+              "71 %"
+            ]
+          ],
+          "caption": "Stand des Profils starlink.com bei unserer Lektüre."
+        }
+      },
+      {
+        "heading": "Was die Zahl aussagt und was nicht",
+        "paragraphs": [
+          "Der TrustScore stammt von Trustpilot. Das Profil ist nicht beansprucht, und laut Trustpilot hat das Unternehmen Kunden nicht zu Bewertungen eingeladen. Deshalb sind die Bewertungen möglicherweise nicht repräsentativ. Aussagen darüber, wie oft Starlink antwortet oder Probleme löst, haben wir im Profil nicht gelesen."
+        ]
+      },
+      {
+        "heading": "Wie Sie das Profil des Anbieters erkennen",
+        "paragraphs": [
+          "Suchen Sie das Profil „Starlink Development“ mit der Domain starlink.com, in der Kategorie Internetanbieter. Bei Trustpilot erscheinen auch „Uk Starlink“ (ukstarlink.com) und „Starlink“ (starlink.om). Beide gehören zu anderen Domains und sind nicht starlink.com."
+        ]
+      },
+      {
+        "heading": "Was am häufigsten beanstandet wird",
+        "paragraphs": [
+          "Trustpilot fasst die 355 jüngsten Bewertungen mit einer KI-Zusammenfassung zusammen. Die häufigste Beschwerde betrifft den Support, der sich kaum erreichen lasse und oft nur über einen Chatbot laufe. Dazu kommen höhere monatliche Beträge und zusätzliche Kosten. Zu Produkt und Geschwindigkeit sind die Meinungen gemischt, einige loben die schnelle Verbindung."
+        ]
+      },
+      {
+        "heading": "Was das für Abonnenten bedeutet",
+        "paragraphs": [
+          "Wer abonniert, sollte jede Rechnung mit dem Preis aus der Bestellung vergleichen. Der Aktionspreis in Deutschland galt laut Bestellseite für 3 Monate. Den Preis danach haben wir nicht erfasst.",
+          "Zur Kündigung und zur Rückgabe des Kits lesen Sie den [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Starlink-Antenne am Dach eines Holzhauses",
+          "caption": "Antenne für Privathaushalte, installiert. Foto von Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "Vor dem Abschluss",
+        "paragraphs": [
+          "Prüfen Sie vor dem Abschluss die Seite und die Bestellung. Wie Sie die offizielle Seite und die Profile mit dem Namen erkennen, steht in [ist Starlink seriös?](/de/reviews/ist-starlink-serioes).",
+          "Wenn Sie abonnieren wollen, finden Sie Link und Regeln auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
+        ]
+      },
+      {
+        "heading": "So reklamieren Sie",
+        "paragraphs": [
+          "Eröffnen Sie eine Anfrage auf der Website oder in der App von Starlink und bewahren Sie die Vorgangsnummer auf. Weicht die Abbuchung von der Bestellung ab, senden Sie den im Angebot angezeigten Betrag und die Rechnung mit."
+        ],
+        "links": [
+          {
+            "label": "Offizielle Kontakte von Starlink",
+            "href": "https://starlink.com/de/support/article/bdb63773-e93b-74e8-8e12-2da2fb6d534e"
+          },
+          {
+            "label": "Trustpilot-Profil der Domain starlink.com",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Wie ist die Bewertung von Starlink bei Trustpilot? Das Profil der Domain starlink.com steht bei einem TrustScore von 1,6 von 5 und 871 Bewertungen.",
+          "Welches Profil von Starlink sollte ich ansehen? Suchen Sie „Starlink Development“ mit der Domain starlink.com. Profile mit ukstarlink.com oder starlink.om sind nicht starlink.com.",
+          "Wie reklamiere ich bei Starlink? Eröffnen Sie eine Anfrage über die Website oder die App und bewahren Sie die Vorgangsnummer auf. Erkennen Sie eine Abbuchung nicht, wenden Sie sich außerdem an Ihre Bank."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Daten aus den öffentlichen Profilen bei Trustpilot. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "relatedArticles": [
+      {
+        "slug": "ist-starlink-serioes"
+      },
+      {
+        "slug": "starlink-vertrag-kuendigen"
+      },
+      {
+        "slug": "lohnt-sich-starlink"
+      }
+    ]
+  },
+  {
+    "id": 1150,
+    "slug": "starlink-link-invito",
+    "translationKey": "starlink-indicacao",
+    "locale": "it",
+    "title": "Link di invito Starlink: come si usa e quando arriva la ricompensa",
+    "seoTitle": "Invito Starlink: come usare il link e ricevere",
+    "type": "Guida al codice invito",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Apri il link sul sito ufficiale e controlla la ricompensa nell'ordine prima di pagare. Scopri chi può usarlo, quando arriva l'importo e come scegliere tra credito e denaro.",
+    "metaDescription": "Come aprire il link di invito Starlink, trovare il valore nell'ordine e ricevere la ricompensa dopo aver rispettato le condizioni del programma.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-link-invito-capa.webp",
+    "imageAlt": "Antenna Starlink installata sul tetto sotto un cielo azzurro. La copertina dice «Link di invito» e «Ricompensa per i nuovi utenti qui, dopo 2 mesi».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Apri il link di invito di Starlink e inserisci il tuo indirizzo. Prima di pagare, cerca la conferma dell'invito applicato e controlla il valore della ricompensa nell'ordine. Il programma vale per i nuovi clienti, e la ricompensa arriva dopo due cicli mensili completi, in credito di servizio o in denaro dove disponibile."
+        ]
+      },
+      {
+        "heading": "Come usare il link, passo dopo passo",
+        "paragraphs": [
+          "Apri il link dalla [pagina dell'invito Starlink](/it/coupons/starlink) e inserisci l'indirizzo in cui userai il servizio.",
+          "Controlla l'avviso prima di pagare. Starlink spiega che l'invito deve risultare nell'ordine originale."
+        ],
+        "bullets": [
+          "Scegli nell'ordine un piano Residenziale o Viaggio idoneo.",
+          "Cerca l'avviso che conferma l'invito applicato e controlla la ricompensa e il totale da pagare.",
+          "Completa l'ordine sul sito di Starlink. Il kit è a noleggio e l'ordine che abbiamo letto a Milano mostrava un totale di 19 € da pagare oggi.",
+          "Attiva il kit e segui la prima fattura. Pagare il primo mese e attivare l'apparecchio fanno parte dei requisiti dell'invito."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenna Starlink Standard e router",
+          "caption": "Antenna e router di Starlink. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Quanto vale e quando arriva",
+        "paragraphs": [
+          "Il valore dipende dal paese in cui ti registri e compare nel tuo account, per questo non lo indichiamo qui. Chi invita riceve lo stesso importo, in denaro o in credito di servizio.",
+          "L'abbonamento deve restare attivo e in regola per due cicli mensili completi. Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, secondo il paese, l'account e la verifica dell'identità.",
+          "La forma standard è il credito in fattura. Se il tuo account offre il pagamento in denaro, apri Inviti dal sito, da browser, scegli il metodo di ricompensa e completa identificazione e dati bancari su Stripe."
+        ]
+      },
+      {
+        "heading": "Chi può usarlo",
+        "bullets": [
+          "Chi si abbona deve essere un nuovo cliente. Clienti attuali ed ex clienti non ricevono la ricompensa.",
+          "Chi invita deve avere un piano Residenziale o Viaggio attivo. I piani Prioritario, Enterprise e Commerciale non danno ricompensa.",
+          "Il link vale per gli ordini fatti su starlink.com. Acquisti da rivenditori, marketplace e trasferimenti di account restano fuori."
+        ]
+      },
+      {
+        "heading": "Starlink ha un coupon?",
+        "paragraphs": [
+          "Non c'è un codice da digitare. Il link porta l'invito direttamente nell'ordine, quindi basta cercare l'avviso di conferma sullo schermo prima di pagare."
+        ]
+      },
+      {
+        "heading": "E l'offerta del Black Friday?",
+        "paragraphs": [
+          "Nell'ordine che abbiamo letto a Milano compariva il 50% di sconto sui piani per 3 mesi, con scadenza al 30 novembre. Guarda [i conti del Black Friday Starlink](/it/reviews/starlink-black-friday-offerta) e controlla nell'ordine per il tuo indirizzo se compaiono sia l'offerta sia l'invito."
+        ]
+      },
+      {
+        "heading": "Come seguire la ricompensa",
+        "paragraphs": [
+          "Nella sezione Inviti del sito o dell'app puoi seguire lo stato di chi si è abbonato dal tuo link. Starlink avvisa via email quando qualcuno fa l'ordine. Un invito può passare dalla verifica di idoneità prima di generare la ricompensa."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Come funziona l'invito di Starlink? Fai l'ordine su starlink.com dal link, controlla che l'invito risulti applicato, attiva il kit e mantieni il servizio in regola per due cicli mensili completi.",
+          "Quanto vale l'invito di Starlink? Il valore dipende dal paese e compare nel tuo account. Controllalo nell'ordine prima di pagare.",
+          "Quando arriva la ricompensa di Starlink? Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, se l'invito rispetta le condizioni del programma.",
+          "L'invito vale se compro da un rivenditore? Il programma richiede l'acquisto diretto su starlink.com tramite il link.",
+          "Sono già stato cliente, posso usare il link? La ricompensa è per chi si abbona a Starlink per la prima volta.",
+          "Il link di invito funziona anche in Italia? Secondo il centro assistenza, l'invito vale nella maggior parte dei paesi in cui Starlink vende. Il valore cambia da paese a paese e si vede nell'account."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Controlla la ricompensa che compare nell'ordine per il tuo indirizzo prima di pagare.",
+      "label": "Vedi l'invito nell'ordine",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-black-friday-offerta"
+      },
+      {
+        "slug": "starlink-conviene"
+      },
+      {
+        "slug": "starlink-contratto-disdetta"
+      }
+    ]
+  },
+  {
+    "id": 1151,
+    "slug": "starlink-black-friday-offerta",
+    "translationKey": "starlink-black-friday",
+    "locale": "it",
+    "title": "Black Friday Starlink 2026 in Italia: 50% per 3 mesi e la ricompensa dell'invito",
+    "seoTitle": "Black Friday Starlink 2026: 50% per 3 mesi",
+    "type": "Guida al Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, kit a noleggio a 0 € e 19 € da pagare oggi. Vedi come l'invito entra nei conti e come controllare il tuo indirizzo.",
+    "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e offerta fino al 30 novembre. Controlla il tuo indirizzo e l'invito.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-black-friday-offerta-capa.webp",
+    "imageAlt": "Antenna Starlink sul tetto di una baita al tramonto. La copertina dice «Black Friday 2026» e «50% per 3 mesi».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Nell'ordine consultato a Milano, Starlink mostrava il 50% di sconto per 3 mesi e il kit a noleggio a 0 €. La pagina riportava «Nessun contratto» e il kit va restituito se disdici. Controlla le condizioni per il tuo indirizzo e verifica se l'invito risulta idoneo."
+        ]
+      },
+      {
+        "heading": "Quanto paghi e quando entra la ricompensa",
+        "paragraphs": [
+          "Il 20 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano, in piazza del Duomo, senza completare l'acquisto. Il Residenziale 100 Mbps compariva a 17,50 € al mese con il 50% di sconto per 3 mesi, per un totale di 52,50 € di canone promozionale. Il totale da pagare oggi era di 19 €.",
+          "Il kit si prende a noleggio, con 0 € iniziali e 0 € al mese, e va restituito se annulli il servizio. Il valore della ricompensa dell'invito dipende dal paese e compare nel tuo account. L'importo italiano non l'abbiamo letto, quindi non calcoliamo un totale finale. Quando lo conosci, sottrailo a quello che paghi. Solo con quel conto davanti si può dire se il primo periodo costa quasi nulla."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Ordine a Milano",
+            "Valore letto"
+          ],
+          "rows": [
+            [
+              "Sconto sui piani",
+              "50% per 3 mesi"
+            ],
+            [
+              "Residenziale 100 Mbps al mese, con l'offerta",
+              "17,50 €"
+            ],
+            [
+              "Max al mese, prezzo mostrato nell'ordine",
+              "32,50 €"
+            ],
+            [
+              "Kit a noleggio",
+              "0 € iniziali, 0 € al mese"
+            ],
+            [
+              "Installazione professionale (100 Mbps)",
+              "172 €, facoltativa"
+            ],
+            [
+              "Installazione professionale (Max)",
+              "Gratuita"
+            ],
+            [
+              "Totale da pagare oggi",
+              "19 €"
+            ]
+          ],
+          "caption": "Valori dell'ordine letto a Milano. Il prezzo dopo i 3 mesi non compariva nella pagina che abbiamo letto."
+        },
+        "postParagraphs": [
+          "Per ricevere la ricompensa, l'invito deve essere idoneo e il servizio deve restare attivo e in regola per due cicli mensili completi. Starlink offre credito in fattura e, secondo l'account, pagamento in denaro."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Componenti del kit Starlink Standard: antenna, router, base e cavi",
+          "caption": "Il kit a noleggio: antenna, router, base e cavi. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Come compare nell'ordine",
+        "paragraphs": [
+          "Per controllare la tua offerta, apri il link, inserisci l'indirizzo e cerca l'avviso che conferma l'invito applicato prima di pagare. Guarda se l'ordine mostra il valore della ricompensa e le condizioni dei 3 mesi di sconto."
+        ]
+      },
+      {
+        "heading": "Quanto vale invitare un'altra persona",
+        "paragraphs": [
+          "Dopo esserti abbonato puoi invitare altre persone, e chi invita riceve lo stesso importo, in denaro o in credito di servizio. La persona invitata deve completare i cicli richiesti.",
+          "Vedi [come funziona il programma di invito](/it/reviews/starlink-link-invito) e controlla nel tuo account quanto vale ogni invito."
+        ]
+      },
+      {
+        "heading": "L'offerta vale al tuo indirizzo?",
+        "paragraphs": [
+          "Il banner di Starlink parla di aree selezionate e di iscrizione entro il 30 novembre. Il prezzo e lo sconto cambiano con l'indirizzo, quindi l'offerta che leggi qui potrebbe non comparire per te.",
+          "Il Residenziale 200 Mbps non mostrava un prezzo nella nostra lettura. Se ti interessa, confrontalo nell'ordine con la durata di ogni offerta."
+        ]
+      },
+      {
+        "heading": "Contratto e restituzione",
+        "paragraphs": [
+          "L'ordine che abbiamo letto indicava «Nessun contratto» e una prova di 30 giorni. Se annulli e restituisci il kit in buone condizioni entro 30 giorni, il kit e il primo mese vengono rimborsati. Vedi la [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta)."
+        ]
+      },
+      {
+        "heading": "E dopo i 3 mesi?",
+        "paragraphs": [
+          "Lo sconto riguarda 3 mesi. Il prezzo che si applica dopo non compariva nella pagina che abbiamo letto, quindi controllalo nell'ordine prima di pagare e tienilo a mente per il conto di un anno."
+        ]
+      },
+      {
+        "heading": "Come usare il link",
+        "paragraphs": [
+          "Apri il link e digita l'indirizzo in cui installerai l'antenna. Scegli il piano, controlla l'invito applicato e conserva l'offerta che compare prima di pagare.",
+          "Nella pagina dell'[invito Starlink](/it/coupons/starlink) trovi il link e le regole del programma."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Starlink ha un'offerta per il Black Friday? In Italia l'ordine mostrava il 50% di sconto sui piani Residenziale e Viaggio per 3 mesi, con iscrizione entro il 30 novembre, nelle aree selezionate.",
+          "L'invito si somma all'offerta? Controlla nell'ordine per il tuo indirizzo se compaiono entrambi. La ricompensa dell'invito dipende dall'idoneità e da due cicli mensili completi, e il valore si vede nel tuo account.",
+          "Quanto si paga nell'ordine? A Milano, il totale da pagare oggi era di 19 €, con il kit a noleggio a 0 €.",
+          "C'è un vincolo contrattuale? L'ordine indicava «Nessun contratto», con 30 giorni di prova e restituzione del kit se annulli.",
+          "Fino a quando dura l'offerta? Starlink indica il 30 novembre. Inserisci l'indirizzo nell'ordine per vedere se è disponibile."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "L'ordine si apre sul sito di Starlink. Controlla il prezzo, i 3 mesi di sconto e il valore dell'invito prima di pagare.",
+      "label": "Controlla l'offerta al mio indirizzo",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-link-invito"
+      },
+      {
+        "slug": "starlink-conviene"
+      },
+      {
+        "slug": "starlink-contratto-disdetta"
+      }
+    ]
+  },
+  {
+    "id": 1152,
+    "slug": "starlink-conviene",
+    "translationKey": "starlink-vale-a-pena",
+    "locale": "it",
+    "title": "Starlink conviene? Cosa si paga e per chi ha senso",
+    "seoTitle": "Starlink conviene? Prezzi e per chi ha senso",
+    "type": "Guida all'acquisto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Confronta il costo di Starlink con la connessione che arriva a casa tua. Vedi prezzo e kit per indirizzo, l'assenza di contratto e come verificare dove installare l'antenna.",
+    "metaDescription": "Starlink conviene? Prezzi per indirizzo, kit a noleggio, nessun contratto, per chi ha senso e quando fibra o 4G sono la scelta migliore.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-conviene-capa.webp",
+    "imageAlt": "Antenna Starlink fissata alla grondaia di una casa, con le montagne sullo sfondo. La copertina chiede «Conviene?» e dice «Internet a casa».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Starlink può convenire in campagna e nelle case dove manca una connessione stabile. Se arriva già una fibra affidabile, confronta il totale dei primi mesi prima di cambiare. Somma il canone del tuo indirizzo, controlla cosa prevede il kit e usa l'app di Starlink per capire dove si può installare l'antenna."
+        ]
+      },
+      {
+        "heading": "Quanto costa",
+        "paragraphs": [
+          "Il 20 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano. Con l'offerta in corso, il 50% di sconto sui piani per 3 mesi, i prezzi erano questi."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piano a Milano",
+            "Al mese",
+            "Kit",
+            "Installazione professionale"
+          ],
+          "rows": [
+            [
+              "Residenziale 100 Mbps",
+              "17,50 €, per i primi 3 mesi",
+              "A noleggio, 0 €",
+              "172 €, facoltativa"
+            ],
+            [
+              "Max",
+              "32,50 €",
+              "A noleggio, 0 €",
+              "Gratuita"
+            ]
+          ],
+          "caption": "Prezzi mostrati nell'ordine con l'offerta in corso. Il totale da pagare oggi era di 19 €."
+        },
+        "postParagraphs": [
+          "Non calcoliamo un totale a 12 mesi, perché il prezzo dopo i 3 mesi di sconto non compariva nella pagina che abbiamo letto. Controllalo nel tuo ordine e fai il conto con la durata che appare. Fai il conto prima senza la ricompensa dell'invito, il cui valore dipende dal paese e si vede nell'account. Vedi l'[invito Starlink](/it/coupons/starlink)."
+        ]
+      },
+      {
+        "heading": "Dove installare l'antenna",
+        "paragraphs": [
+          "Prima di comprare, scegli un punto con il cielo aperto. Rami e tetti nel campo visivo possono causare interruzioni. Usa l'app di Starlink nel punto previsto per l'antenna e fai la verifica degli ostacoli."
+        ],
+        "links": [
+          {
+            "label": "Come controllare gli ostacoli nell'app",
+            "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Casa con l'antenna Starlink installata sul tetto",
+          "caption": "Antenna installata sul tetto, con il cielo aperto. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Quando confrontare con fibra o 4G",
+        "paragraphs": [
+          "Se arriva già una fibra stabile, confronta installazione, canoni ed eventuali vincoli di ogni proposta. Per il 4G, aggiungi il prezzo dell'apparecchio che ti serve e controlla che il piano abbia abbastanza dati per la casa."
+        ]
+      },
+      {
+        "heading": "Velocità e giochi",
+        "paragraphs": [
+          "I piani residenziali dichiarano una velocità di download, ma le prestazioni possono variare con il luogo e l'orario. Nei giochi online guarda anche il tempo di risposta e le interruzioni.",
+          "Starlink pubblica nelle specifiche un intervallo tipico da 25 a 60 ms a terra. È un riferimento dell'azienda, senza misurazione al nostro indirizzo."
+        ],
+        "links": [
+          {
+            "label": "Specifiche di prestazione di Starlink",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "Contratto e uscita",
+        "paragraphs": [
+          "L'ordine che abbiamo letto indicava «Nessun contratto», con il kit a noleggio e una prova di 30 giorni. Se annulli devi restituire il kit. La [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta) spiega anche le condizioni di rimborso."
+        ]
+      },
+      {
+        "heading": "Cosa dicono i clienti",
+        "paragraphs": [
+          "Su Trustpilot il profilo di Starlink ha un punteggio di 1,6 su 5, e non è un profilo rivendicato dall'azienda. Le lamentele più citate riguardano l'assistenza e i costi in fattura. Conserva l'offerta dell'ordine per confrontarla con la fattura. Leggi [l'analisi di Trustpilot](/it/reviews/starlink-trustpilot-recensioni)."
+        ]
+      },
+      {
+        "heading": "La nostra esperienza finora",
+        "paragraphs": [
+          "Abbiamo già attivato l'abbonamento a Starlink, ma non c'è ancora esperienza d'uso. Velocità, installazione e qualità nella vita di ogni giorno entreranno in un aggiornamento di questo articolo, quando ci saranno."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Starlink conviene in città? Con una fibra stabile all'indirizzo, confronta installazione, canoni e vincoli prima di cambiare.",
+          "Starlink è meglio della fibra? Senza una buona fibra, vale la pena controllare l'offerta di Starlink per l'indirizzo e che ci sia il cielo aperto per l'antenna. Se hai entrambe, confronta stabilità e costo al tuo indirizzo.",
+          "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L'intervallo tipico che Starlink pubblica è un riferimento generale.",
+          "Quanto costa Starlink al mese? Nell'ordine letto a Milano, il Residenziale 100 Mbps costava 17,50 € e il Max 32,50 €, con l'offerta in corso. Il valore cambia con l'indirizzo."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Non hai una buona fibra all'indirizzo e anche il 4G è debole.",
+        "Ti va bene un kit a noleggio da restituire se annulli e sai che i prezzi cambiano con l'indirizzo."
+      ],
+      "skipIf": [
+        "Hai già una fibra stabile in casa e non ti serve un kit da installare e poi restituire.",
+        "Giochi online e ti serve un tempo di risposta garantito, che Starlink non garantisce per il tuo indirizzo."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone prima di pagare.",
+      "label": "Vedi i piani al mio indirizzo",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-contratto-disdetta"
+      },
+      {
+        "slug": "starlink-black-friday-offerta"
+      },
+      {
+        "slug": "starlink-link-invito"
+      }
+    ]
+  },
+  {
+    "id": 1153,
+    "slug": "starlink-contratto-disdetta",
+    "translationKey": "starlink-fidelidade",
+    "locale": "it",
+    "title": "Starlink ha un contratto? Kit a noleggio, 30 giorni per restituire e come annullare",
+    "seoTitle": "Starlink ha un contratto? Disdetta e rimborso",
+    "type": "Guida pratica",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Vedi cosa prevede l'ordine italiano: nessun contratto, kit a noleggio da restituire, 30 giorni di prova con rimborso e i passaggi per annullare l'abbonamento dall'account.",
+    "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dal tuo account.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-contratto-disdetta-capa.webp",
+    "imageAlt": "Antenna Starlink sulla neve davanti a un chalet con una persona che lavora. La copertina dice «Contratto e disdetta».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "L'ordine consultato a Milano riportava «Nessun contratto». Il kit a noleggio va restituito se disdici il servizio. L'ordine descrive una prova di 30 giorni con rimborso del kit e del primo mese, se annulli e restituisci l'attrezzatura senza danni entro il termine previsto."
+        ]
+      },
+      {
+        "heading": "Quando c'è un vincolo",
+        "paragraphs": [
+          "Nell'ordine per un indirizzo di Milano, letto il 20 novembre 2026, non compariva nessun vincolo contrattuale. L'ordine diceva «Nessun contratto». Il kit risultava a noleggio, con 0 € iniziali e 0 € al mese.",
+          "Le condizioni possono cambiare con il paese e con l'offerta. Controlla il riepilogo del tuo ordine prima di confermare e non dare per scontato che valga lo stesso per ogni indirizzo."
+        ]
+      },
+      {
+        "heading": "La restituzione del kit",
+        "paragraphs": [
+          "L'ordine dice che il kit è a noleggio e che, se annulli il servizio, devi restituirlo. Fai attenzione alla tempistica e conserva la ricevuta di spedizione.",
+          "Il link dell'[invito Starlink](/it/coupons/starlink) porta allo stesso ordine sul sito ufficiale. Le condizioni di restituzione si controllano lì, prima di pagare."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Componenti del kit Starlink Standard: antenna, router, base e cavi",
+          "caption": "Il kit che torna indietro: antenna, router, base e cavi. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "I 30 giorni per il rimborso",
+        "paragraphs": [
+          "L'ordine indica un termine di 30 giorni. Per chiedere il rimborso del kit e del primo mese nelle condizioni dell'offerta, annulla il servizio e restituisci l'apparecchio senza danni entro quel termine.",
+          "Annullare l'abbonamento ferma gli addebiti futuri secondo il ciclo, ma il kit va restituito a parte. Chiedi all'assistenza di Starlink come avviare anche il reso."
+        ]
+      },
+      {
+        "heading": "Come annullare",
+        "paragraphs": [
+          "Nella schermata iniziale del tuo account Starlink apri «Il tuo abbonamento». Accanto al piano scegli «Gestisci» e poi «Annulla servizio». I nomi esatti possono cambiare con la lingua dell'app.",
+          "Per evitare un nuovo ciclo, fai la modifica prima delle 00:00 UTC del giorno di fatturazione. In Italia, d'inverno, sono le 01:00 di quel giorno. Secondo il centro assistenza, il servizio resta attivo fino alla fine del periodo pagato."
+        ],
+        "bullets": [
+          "Accedi al tuo account sul sito di Starlink e, nella pagina iniziale, apri «Il tuo abbonamento».",
+          "Accanto al piano, scegli «Gestisci» e poi «Annulla servizio».",
+          "La fatturazione segue l'ora UTC. La modifica deve arrivare prima delle 00:00 UTC del giorno di fatturazione, altrimenti vale solo per il ciclo successivo.",
+          "Il servizio resta attivo fino alla data già pagata e l'abbonamento esce dagli addebiti futuri.",
+          "Se cambi idea prima della fine, cerca «Riprendi» nell'avviso in cima alla pagina iniziale.",
+          "Dopo l'annullamento, potrebbe non essere possibile riattivare subito. La riattivazione dipende dalla disponibilità nella tua zona."
+        ],
+        "postParagraphs": [
+          "L'annullamento del servizio e la restituzione del kit sono due passaggi diversi. Fai attenzione a completarli entrambi nei 30 giorni se vuoi il rimborso."
+        ]
+      },
+      {
+        "heading": "Prezzo promozionale e cambio di piano",
+        "paragraphs": [
+          "Cosa succede al prezzo promozionale se cambi piano, annulli o vieni sospeso è scritto nelle condizioni del tuo ordine. Leggile prima di cambiare piano."
+        ]
+      },
+      {
+        "heading": "Se l'addebito continua",
+        "paragraphs": [
+          "Se l'addebito continua, apri una richiesta a Starlink con il numero dell'ordine, la data dell'annullamento e il numero della richiesta, se c'è. Leggi [l'analisi di Trustpilot](/it/reviews/starlink-trustpilot-recensioni) per sapere cosa dicono i clienti dell'assistenza. Se non riconosci la transazione, contatta anche l'emittente della carta o la banca."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Starlink ha un contratto? Nell'ordine italiano che abbiamo letto compariva «Nessun contratto», con il kit a noleggio e una prova di 30 giorni.",
+          "Si può annullare Starlink in qualsiasi momento? La richiesta si fa dall'account. Il servizio resta attivo fino alla fine del periodo pagato.",
+          "Devo restituire il kit? Il kit è a noleggio e, se annulli il servizio, va restituito.",
+          "Si può restituire Starlink entro 30 giorni? Sì, secondo l'ordine: se annulli e restituisci il kit senza danni entro 30 giorni, il kit e il primo mese vengono rimborsati.",
+          "Cosa succede dopo l'annullamento? Il servizio resta attivo fino alla data già pagata. Se cambi idea prima, cerca «Riprendi» nella pagina iniziale."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-conviene"
+      },
+      {
+        "slug": "starlink-black-friday-offerta"
+      },
+      {
+        "slug": "starlink-trustpilot-recensioni"
+      }
+    ]
+  },
+  {
+    "id": 1154,
+    "slug": "starlink-e-affidabile",
+    "translationKey": "starlink-trust-guide",
+    "locale": "it",
+    "title": "Starlink è affidabile? Come trovare il sito ufficiale e controllare chi vende",
+    "seoTitle": "Starlink è affidabile? Sito ufficiale e truffe",
+    "type": "Editoriale",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Il sito ufficiale di Starlink e il profilo su Trustpilot aiutano a capire da chi compri. Scopri cosa controllare prima di pagare il kit e quali profili con lo stesso nome evitare.",
+    "metaDescription": "Come riconoscere il sito ufficiale di Starlink, distinguere i profili Trustpilot con lo stesso nome e consultare l'elenco dei rivenditori autorizzati.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-e-affidabile-capa.webp",
+    "imageAlt": "Antenna Starlink installata su un supporto fissato a una struttura di legno. La copertina chiede «È affidabile?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Starlink è il servizio di internet via satellite di SpaceX, e il sito ufficiale è starlink.com. Se compri il kit altrove, consulta l'elenco dei rivenditori autorizzati di Starlink e controlla chi è il venditore dell'annuncio prima di pagare. Su Trustpilot esistono profili con lo stesso nome ma altri domini, che non sono starlink.com."
+        ]
+      },
+      {
+        "heading": "Chi è Starlink e chi vende",
+        "paragraphs": [
+          "Starlink vende dal sito ufficiale. L'analisi su [quando Starlink conviene](/it/reviews/starlink-conviene) mostra come confrontare prezzo, installazione e alternative al tuo indirizzo."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenna Starlink Standard e router",
+          "caption": "Antenna e router di Starlink. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Come riconoscere il sito ufficiale",
+        "paragraphs": [
+          "Digita starlink.com nel browser. Prima di inserire dati o pagare, controlla di essere ancora dentro starlink.com."
+        ]
+      },
+      {
+        "heading": "Quale profilo Trustpilot è quello di Starlink?",
+        "paragraphs": [
+          "Il profilo che punta a starlink.com si chiama «Starlink Development» e non è rivendicato dall'azienda. Trustpilot mostra anche altri profili con il nome Starlink, per esempio ukstarlink.com e starlink.om. Sono altri domini e non sono starlink.com. Per giudicare l'azienda guarda quello di starlink.com."
+        ]
+      },
+      {
+        "heading": "Rivenditori e marketplace",
+        "paragraphs": [
+          "Starlink mantiene un elenco di rivenditori autorizzati nel centro assistenza. Anche su un marketplace noto, controlla il venditore dell'annuncio.",
+          "L'[invito Starlink](/it/coupons/starlink) vale per gli ordini idonei fatti dal link direttamente su starlink.com. Non si può aggiungere all'acquisto del kit da un rivenditore."
+        ]
+      },
+      {
+        "heading": "Messaggi che usano il nome Starlink",
+        "paragraphs": [
+          "Il centro assistenza di Starlink pubblica un avviso sul phishing. Se ricevi un annuncio o un messaggio a nome di Starlink, verifica su starlink.com prima di pagare o di dare i tuoi dati."
+        ]
+      },
+      {
+        "heading": "Cosa mostra Trustpilot",
+        "paragraphs": [
+          "Il profilo di starlink.com ha un TrustScore di 1,6 su 5, con 871 recensioni. Trustpilot segnala che l'azienda non ha mai invitato i clienti a recensire, quindi i voti possono non essere rappresentativi.",
+          "L'[analisi completa di Trustpilot](/it/reviews/starlink-trustpilot-recensioni) riporta i numeri e le lamentele più frequenti."
+        ]
+      },
+      {
+        "heading": "Cosa conservare dopo l'acquisto",
+        "bullets": [
+          "Conserva il numero dell'ordine, il prezzo che compariva al checkout e l'email di conferma. In caso di differenze, contatta l'assistenza dal sito o dall'app."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Starlink è affidabile? Starlink è il servizio di internet via satellite di SpaceX. Controlla il sito starlink.com e il profilo Trustpilot di quel dominio.",
+          "Qual è il sito ufficiale di Starlink? Il sito ufficiale è starlink.com.",
+          "Come capisco se un venditore è autorizzato? Consulta l'elenco dei rivenditori di Starlink e controlla il venditore dell'annuncio prima di pagare."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Realizzato con il sito ufficiale, il centro assistenza e i profili pubblici su Trustpilot. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trustpilot-recensioni"
+      },
+      {
+        "slug": "starlink-link-invito"
+      },
+      {
+        "slug": "starlink-conviene"
+      }
+    ]
+  },
+  {
+    "id": 1155,
+    "slug": "starlink-trustpilot-recensioni",
+    "translationKey": "starlink-reputation",
+    "locale": "it",
+    "title": "Starlink su Trustpilot: il voto, la distribuzione delle stelle e le lamentele più frequenti",
+    "seoTitle": "Starlink su Trustpilot: voto e lamentele",
+    "type": "Analisi della reputazione",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Vedi il TrustScore, quante recensioni ci sono, come si distribuiscono le stelle e cosa lamentano i clienti nel profilo di starlink.com. Scopri anche come fare reclamo.",
+    "metaDescription": "Starlink su Trustpilot: TrustScore 1,6 su 5 con 871 recensioni. Vedi come si distribuiscono i voti, le lamentele più frequenti e come reclamare.",
+    "publishedAt": "20 novembre 2026",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trustpilot-recensioni-capa.webp",
+    "imageAlt": "Antenna Starlink installata su un tetto sotto un cielo di tempesta con un fulmine sullo sfondo. La copertina dice «Trustpilot: il voto».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Il profilo di starlink.com su Trustpilot ha un TrustScore di 1,6 su 5, con 871 recensioni. Il 71% sono da una stella e il 17% da cinque. Il profilo non è rivendicato dall'azienda e Trustpilot avverte che i voti possono non essere rappresentativi."
+        ]
+      },
+      {
+        "heading": "Il voto e la distribuzione",
+        "paragraphs": [
+          "Il 20 novembre 2026 abbiamo letto la pagina pubblica."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicatore",
+            "Profilo di starlink.com"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "1,6 su 5"
+            ],
+            [
+              "Recensioni totali",
+              "871"
+            ],
+            [
+              "5 stelle",
+              "17%"
+            ],
+            [
+              "4 stelle",
+              "2%"
+            ],
+            [
+              "3 stelle",
+              "3%"
+            ],
+            [
+              "2 stelle",
+              "7%"
+            ],
+            [
+              "1 stella",
+              "71%"
+            ]
+          ],
+          "caption": "Lettura della pagina pubblica del profilo su Trustpilot."
+        }
+      },
+      {
+        "heading": "Cosa significa «non rivendicato»",
+        "paragraphs": [
+          "Trustpilot mostra il profilo come non rivendicato, cioè l'azienda non lo gestisce direttamente. Segnala anche che l'azienda non ha mai invitato i clienti a lasciare recensioni. Chi scrive è quindi chi ha scelto di farlo da solo."
+        ]
+      },
+      {
+        "heading": "Come riconoscere il profilo giusto",
+        "paragraphs": [
+          "Cerca il profilo con dominio starlink.com. Trustpilot mostra anche profili con lo stesso nome ma altri domini, per esempio ukstarlink.com e starlink.om. Non sono starlink.com e non si riferiscono al sito ufficiale."
+        ]
+      },
+      {
+        "heading": "Cosa lamentano di più",
+        "paragraphs": [
+          "Il riassunto di Trustpilot, basato su 355 recensioni recenti, indica come lamentela più comune l'assistenza difficile da raggiungere, spesso solo con un chatbot. Compaiono anche aumenti del canone mensile e costi extra. Sul prodotto e sulla velocità i pareri sono misti, e alcuni apprezzano la connessione veloce.",
+          "Il riassunto è una sintesi di Trustpilot, e non si può dire quanti clienti incontrino questi problemi in tutto."
+        ]
+      },
+      {
+        "heading": "Cosa significa per chi si abbona",
+        "paragraphs": [
+          "Chi si abbona dovrebbe controllare la fattura ogni mese e confrontarla con il prezzo mostrato nell'ordine. Cosa succede al prezzo promozionale se cambi piano, annulli o vieni sospeso è scritto nelle condizioni del tuo ordine.",
+          "Le regole su contratto e disdetta sono nella [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Antenna Starlink fissata al tetto di una casa di legno",
+          "caption": "Antenna residenziale installata. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "Prima di abbonarti",
+        "paragraphs": [
+          "Prima di abbonarti, controlla il sito e le condizioni. Come riconoscere il sito ufficiale e i profili che usano il nome è spiegato in [Starlink è affidabile?](/it/reviews/starlink-e-affidabile).",
+          "Se vuoi abbonarti, la pagina dell'[invito Starlink](/it/coupons/starlink) ha il link e le regole del programma."
+        ]
+      },
+      {
+        "heading": "Come fare reclamo",
+        "paragraphs": [
+          "Apri una richiesta dal sito o dall'app di Starlink e conserva il numero della richiesta. Se l'addebito differisce dall'ordine, invia l'importo che compariva nell'offerta e la fattura. Se non riconosci un addebito, contatta anche l'emittente della carta o la banca."
+        ],
+        "links": [
+          {
+            "label": "Profilo di starlink.com su Trustpilot",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Qual è il voto di Starlink su Trustpilot? Il profilo di starlink.com ha un TrustScore di 1,6 su 5, con 871 recensioni.",
+          "Quale profilo di Starlink devo consultare? Quello con dominio starlink.com. Altri profili con lo stesso nome, come ukstarlink.com e starlink.om, sono altri domini.",
+          "Come faccio reclamo a Starlink? Apri una richiesta dal sito o dall'app e conserva il numero della richiesta. Se non riconosci un addebito, contatta anche l'emittente della carta o la banca."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Dati dal profilo pubblico su Trustpilot. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-e-affidabile"
+      },
+      {
+        "slug": "starlink-contratto-disdetta"
+      },
+      {
+        "slug": "starlink-conviene"
+      }
+    ]
+  },
+  {
+    "id": 1156,
+    "slug": "starlink-referral-ja",
+    "translationKey": "starlink-indicacao",
+    "locale": "ja",
+    "title": "Starlinkの紹介リンクの使い方と、特典が入る時期",
+    "seoTitle": "Starlink紹介リンクの使い方と特典の受け取り方",
+    "type": "紹介コードガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "公式サイトで紹介リンクを開き、支払いの前に注文画面で特典額を確認します。対象になる人、特典が入る時期、クレジットと現金の選び方をまとめました。",
+    "metaDescription": "Starlinkの紹介リンクの開き方、注文画面での特典額の見つけ方、プログラムの条件を満たしたあとに特典を受け取る流れを解説します。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-referral-ja-capa.webp",
+    "imageAlt": "青空の下、屋根に設置されたStarlinkのアンテナ。表紙には「紹介リンク」と「ここから新規登録で特典、2か月後に付与」と書かれています。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "Starlinkの紹介リンクを開き、設置する住所を入力します。支払いの前に、紹介コードが適用された表示と、注文画面の特典額を確認してください。対象は新規のお客様で、特典は毎月の請求サイクルが2回完了したあとに、サービスクレジットか、利用できる場合は現金で付与されます。"
+        ]
+      },
+      {
+        "heading": "リンクの使い方、手順",
+        "paragraphs": [
+          "[Starlinkの紹介ページ](/ja/coupons/starlink)からリンクを開き、サービスを使う住所を入力します。"
+        ],
+        "postParagraphs": [
+          "支払いの前に表示を確認してください。Starlinkは、紹介が最初の注文に含まれている必要があると案内しています。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "木造の家の屋根に取り付けられたStarlinkのアンテナ",
+          "caption": "住宅用のアンテナ。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        },
+        "bullets": [
+          "注文画面で、対象のホームまたはトラベルのプランを選びます。",
+          "紹介コードが適用されたという表示を探し、特典額と当日のお支払い額を確認します。",
+          "Starlinkのサイトで注文を完了します。",
+          "キットを有効化し、最初の請求を確認します。最初の月の支払いと機器の有効化は、紹介の条件に含まれます。"
+        ]
+      },
+      {
+        "heading": "特典の額と付与の時期",
+        "paragraphs": [
+          "特典の額は、登録する国によって変わり、注文画面とアカウントに表示されます。紹介した人にも、同じ額が現金かサービスクレジットで入ります。",
+          "契約は、毎月の請求サイクル2回分をきちんと支払って有効な状態で続ける必要があります。ヘルプセンターによると、付与は有効化から60日後以降に始まることがあり、国、アカウント、本人確認によって変わります。",
+          "標準の受け取り方法は請求へのクレジットです。アカウントに現金での受け取りが表示される場合は、サイトのブラウザ版で「紹介」を開き、特典の受け取り方法を選びます。"
+        ]
+      },
+      {
+        "heading": "対象になる人",
+        "bullets": [
+          "登録する人は新規のお客様である必要があります。現在のお客様や過去のお客様には特典が付きません。",
+          "紹介する人は、ホームまたはトラベルの対象プランを利用中のお客様である必要があります。プライオリティ、エンタープライズ、ビジネス向けのプランは特典の対象外です。",
+          "特典が付くのは、starlink.comでこのリンクから注文した場合です。"
+        ]
+      },
+      {
+        "heading": "Starlinkにクーポンはある？",
+        "paragraphs": [
+          "紹介はリンクで、入力するコードはありません。リンクを開くと紹介コードが注文に反映されます。支払いの前に、画面の確認表示を探してください。",
+          "プログラムが記録するのは、starlink.comでリンクから行った注文です。販売店やマーケットプレイスでの購入、アカウントの譲渡は紹介の対象外です。"
+        ]
+      },
+      {
+        "heading": "ブラックフライデーのオファーとは？",
+        "paragraphs": [
+          "Starlinkはトップページで対象のプランとキットの50%オフを案内していました。東京駅の住所で確認したホームプランの初回支払いは[ブラックフライデーのガイド](/ja/reviews/starlink-black-friday-ja)にまとめています。割引と紹介特典の表示は、ご自身の住所で確認してください。"
+        ]
+      },
+      {
+        "heading": "状況の確認方法",
+        "paragraphs": [
+          "サイトまたはアプリの「紹介」タブで、あなたのリンクから登録した人の状況を確認できます。誰かが注文すると、Starlinkからメールが届きます。紹介は、特典が発生する前に資格の確認を受けることがあります。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Starlinkの紹介はどう使いますか？ リンクからstarlink.comで注文し、紹介が適用された表示を確認します。キットを有効化し、毎月の請求サイクル2回分をきちんと支払って続けます。",
+          "Starlinkの紹介特典はいくらですか？ 額は登録する国で決まります。注文画面とアカウントに表示された額を確認してください。",
+          "Starlinkの紹介特典はいつ入りますか？ ヘルプセンターによると、紹介が条件を満たしていれば、有効化から60日後以降に付与が始まることがあります。",
+          "販売店や通販サイトで買ったキットでも使えますか？ プログラムの対象は、starlink.comでリンクから行った注文です。",
+          "以前に契約したことがあっても使えますか？ 特典は、Starlinkを初めて契約する人のためのものです。",
+          "紹介した人も特典をもらえますか？ はい。紹介した人にも、同じ額が現金かサービスクレジットで入ります。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "支払いの前に、あなたの住所で注文画面に表示される特典額を確認してください。",
+      "label": "注文画面で紹介を確認する",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Starlinkのヘルプセンターと注文画面を確認しました。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-black-friday-ja"
+      },
+      {
+        "slug": "starlink-worth-it-ja"
+      },
+      {
+        "slug": "starlink-cancel-ja"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1157,
+    "slug": "starlink-black-friday-ja",
+    "translationKey": "starlink-black-friday",
+    "locale": "ja",
+    "title": "Starlink ブラックフライデー2026：50%オフの案内と東京での初回支払い",
+    "seoTitle": "Starlink ブラックフライデー2026：50%オフの内訳",
+    "type": "ブラックフライデーガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "東京の住所では、Starlinkのトップページにプランとキットの50%オフが出ました。本日のお支払い、紹介特典の入る時期、住所ごとの確認方法を整理します。",
+    "metaDescription": "Starlinkがプランとキットの50%オフを案内。東京の注文画面では初回支払いが3,000円でした。対象地域と適用期限を注文画面で確認する方法を紹介します。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-black-friday-ja-capa.webp",
+    "imageAlt": "夕暮れの小屋の屋根に設置されたStarlinkのアンテナ。表紙には「ブラックフライデー2026」と「プランとキットが50%オフ」と書かれています。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "Starlinkのトップページでは、対象のプランとキットの50%オフを案内していました。東京駅の住所で確認したホームプランは月額3,550円、初回支払いは3,000円でした。対象プランや申込期限、紹介特典が表示されるかは、設置先の住所を入力して確認してください。"
+        ]
+      },
+      {
+        "heading": "いくら払い、特典はいつ入るか",
+        "paragraphs": [
+          "注文画面ではホームプランが月額3,550円、トップページではROAMが月額3,460円と表示されました。Starlink Miniキットはレンタルで、初期のハードウェア費用と月額のキット料金はどちらも0円です。キャンセルするときは、キットを返却します。",
+          "日本の紹介特典の金額は、この注文画面では確認できませんでした。公式サイトの案内では、申込期限は11月30日です。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "東京駅の住所での注文画面",
+            "表示された内容"
+          ],
+          "rows": [
+            [
+              "ホームプランの月額",
+              "3,550円"
+            ],
+            [
+              "ROAMの月額（トップページ）",
+              "3,460円"
+            ],
+            [
+              "キットの初期費用",
+              "0円（レンタル）"
+            ],
+            [
+              "キットの月額料金",
+              "0円"
+            ],
+            [
+              "本日のお支払い額",
+              "3,000円"
+            ],
+            [
+              "無料トライアル",
+              "30日間"
+            ],
+            [
+              "発送",
+              "1〜2週間"
+            ]
+          ],
+          "caption": "11月20日に、紹介リンクなしで、東京駅の住所で読んだ注文画面です。ROAMの行だけトップページの表示です。50%オフが何か月続くかは、画面に表示されていませんでした。"
+        },
+        "postParagraphs": [
+          "特典を受け取るには、紹介が資格を満たし、サービスが有効な状態で、請求サイクルが2回完了している必要があります。受け取り方は、サービスクレジットか、アカウントによっては現金です。"
+        ]
+      },
+      {
+        "heading": "注文画面での見え方",
+        "paragraphs": [
+          "リンクを開き、アンテナを設置する住所を入力します。プランを選んだら、紹介が適用された表示と、特典額、月額の条件を、支払いの前に探してください。",
+          "表示された月額が50%オフ適用後の金額なのか、割引が何か月続くのかは、私たちが読んだ画面からは分かりませんでした。支払いの前に、あなたの画面で確認してください。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standardキットの部品。アンテナ、ルーター、スタンド、ケーブル",
+          "caption": "Standardキットの内容。アンテナ、ルーター、スタンド、ケーブル。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "ほかの人を紹介すると？",
+        "paragraphs": [
+          "契約したあとは、ほかの人を紹介することもできます。紹介した人にも、同じ額が現金かサービスクレジットで入ります。紹介された人は、特典に必要な請求サイクルを完了する必要があります。",
+          "[紹介プログラムの仕組み](/ja/reviews/starlink-referral-ja)を読み、アカウントで1件あたりの額を確認してください。"
+        ]
+      },
+      {
+        "heading": "お住まいの住所で出るか",
+        "paragraphs": [
+          "オファーは住所ごとに出る場合と出ない場合があります。ホームページの表示にも、一部の地域限定という注記があります。同じ日でも、入力する住所で画面が変わることがあります。",
+          "住所を入力して、50%オフの表示、月額、本日のお支払い額、割引の期間を、並べて確認してください。"
+        ]
+      },
+      {
+        "heading": "キャンセルと返金",
+        "paragraphs": [
+          "注文画面には、キャンセルしてキットを破損のない状態で30日以内に返却すると、キットと最初の月の料金が全額返金されると書かれています。[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)に、手順をまとめています。"
+        ]
+      },
+      {
+        "heading": "リンクの使い方",
+        "paragraphs": [
+          "リンクを開き、アンテナを設置する住所を入力します。プランを選び、紹介が適用されていることを確認して、支払いの前に表示されるオファーを控えておきます。",
+          "リンクと条件は、[Starlinkの紹介ページ](/ja/coupons/starlink)にあります。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Starlinkにブラックフライデーのセールはありますか？ 公式サイトは対象プランとキットの50%オフを案内していました。対象は設置先の住所とプランで確認できます。",
+          "紹介はオファーと併用できますか？ 両方が表示されるかは、あなたの注文画面で確認してください。紹介の特典額は国ごとに違い、注文画面とアカウントに表示されます。特典は、資格を満たし、請求サイクルが2回完了したあとに付与されます。",
+          "注文時にいくら請求されますか？ 東京駅の住所で読んだ画面では、本日のお支払いは3,000円でした。",
+          "キットはレンタルですか？ 読んだ画面では、初期費用0円、月額0円のレンタルで、キャンセル時に返却する条件でした。",
+          "申込期限はいつですか？ キャンペーン案内と料金欄で期限が異なることがあります。設置先の住所を入力し、選んだプランの注文画面で確認してください。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "注文はStarlinkのサイトで開きます。支払いの前に、月額、キットの条件、紹介の特典額を確認してください。",
+      "label": "住所でオファーを確認する",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "公式サイトの注文画面で価格を確認しました。購入は完了していません。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-ja"
+      },
+      {
+        "slug": "starlink-worth-it-ja"
+      },
+      {
+        "slug": "starlink-cancel-ja"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1158,
+    "slug": "starlink-worth-it-ja",
+    "translationKey": "starlink-vale-a-pena",
+    "locale": "ja",
+    "title": "Starlinkは買う価値がある？ 費用の見方と、向いている人",
+    "seoTitle": "Starlinkは買う価値がある？ 費用と向き不向き",
+    "type": "購入ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Starlinkの月額とキットの費用を、自宅に届く回線と比べる方法を紹介します。住所ごとの価格の見方、解約の条件、設置場所の確認方法もまとめました。",
+    "metaDescription": "Starlinkは買う価値がある？ 東京の注文画面の価格、レンタルキット、向いている人と、光回線や4Gのほうが合う場合を整理します。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-worth-it-ja-capa.webp",
+    "imageAlt": "山を背景に、家の軒先に取り付けられたStarlinkのアンテナ。表紙には「買う価値はある？」と「自宅のインターネット」と書かれています。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "安定した回線が届かない家や別荘では、Starlinkは選択肢になります。すでに信頼できる光回線があるなら、乗り換える前に費用を比べてください。月額とキットの費用を足し、住所ごとの価格と契約の条件を確認し、アンテナを置ける場所はStarlinkのアプリで調べます。"
+        ]
+      },
+      {
+        "heading": "費用はいくらになるか",
+        "paragraphs": [
+          "11月20日に、東京駅の住所で公開の注文画面を読みました。Starlinkのトップページには、サービスプランとキット本体が50%オフになるオファーが11月30日まで表示され、東京駅の住所の注文画面にはホームとトラベル向けプランの50%オフが出ていました。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "東京駅の住所",
+            "表示された内容"
+          ],
+          "rows": [
+            [
+              "ホームプランの月額",
+              "3,550円"
+            ],
+            [
+              "ROAMの月額（トップページ）",
+              "3,460円"
+            ],
+            [
+              "キットの初期費用",
+              "0円（レンタル）"
+            ],
+            [
+              "キットの月額料金",
+              "0円"
+            ],
+            [
+              "本日のお支払い額",
+              "3,000円"
+            ]
+          ],
+          "caption": "公式のトップページと注文画面の表示。50%オフの期間は画面にありませんでした。特典、追加の設置費用、税金は含みません。"
+        },
+        "postParagraphs": [
+          "50%オフが何か月続くかが分からないため、12か月の総額は計算していません。あなたの注文画面で、割引の期間と、割引後の月額を確認してください。",
+          "費用を見積もるときは、まず特典を引かずに計算します。紹介リンクの特典額は国で変わり、注文画面に表示されます。[Starlinkの紹介ページ](/ja/coupons/starlink)を参照してください。"
+        ]
+      },
+      {
+        "heading": "アンテナの設置場所",
+        "paragraphs": [
+          "購入の前に、空が大きく開けた場所を選びます。視界に枝や屋根があると、接続が途切れることがあります。アンテナを置く予定の場所でStarlinkのアプリを使い、障害物の確認をしてください。"
+        ],
+        "links": [
+          {
+            "label": "アプリで障害物を確認する方法",
+            "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "屋根にStarlinkのアンテナが設置された家",
+          "caption": "空が開けた屋根に設置したアンテナ。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "光回線や4Gと比べるとき",
+        "paragraphs": [
+          "すでに安定した光回線が届くなら、各社の工事費、月額、契約期間の条件を足して比べます。4Gを選ぶ場合は、必要な機器の価格を加え、データ容量が家庭に足りるかを確認します。"
+        ]
+      },
+      {
+        "heading": "速度とゲーム",
+        "paragraphs": [
+          "住宅向けのプランはダウンロード速度を掲げていますが、実際の速度は場所と時間帯で変わります。オンラインゲームでは、応答時間と途切れも見てください。",
+          "Starlinkは仕様で、地上での一般的な応答時間を25〜60msと公表しています。これは同社の目安で、私たちの注文住所での測定ではありません。"
+        ],
+        "links": [
+          {
+            "label": "Starlinkの性能仕様",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "契約と解約",
+        "paragraphs": [
+          "読んだ注文画面では、キットは初期費用0円、月額0円のレンタルで、キャンセル時に返却する条件でした。30日以内にキャンセルして返却すると、キットと最初の月の料金が返金されます。詳しくは[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)を見てください。"
+        ]
+      },
+      {
+        "heading": "利用者の不満",
+        "paragraphs": [
+          "StarlinkのTrustpilotのページは、スコア1.6、871件のレビューです。サポートにつながりにくいことや、毎月の請求の増額が目立ちます。注文画面のオファーを控えて、請求書と見比べてください。[Trustpilotの読み方](/ja/reviews/starlink-trustpilot-ja)も参考にしてください。"
+        ]
+      },
+      {
+        "heading": "私たちの体験",
+        "paragraphs": [
+          "私たちはStarlinkを契約しましたが、まだ使った体験はありません。速度、設置、日々の品質は、実際に使えるようになってから、この記事を更新して書きます。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "都市部でもStarlinkは買う価値がありますか？ 住所に安定した光回線が届くなら、乗り換える前に、工事費、月額、契約の条件を比べてください。",
+          "Starlinkは光回線より良いですか？ 良い光回線がない場所なら、Starlinkの価格を住所で確認し、アンテナを置ける開けた空があるか調べる価値があります。どちらも使えるなら、住所での安定性と費用を比べてください。",
+          "Starlinkはゲームに向いていますか？ あなたの住所で応答時間と途切れを試してください。Starlinkが公表する一般的な範囲は、全体の目安です。",
+          "Starlinkの月額はいくらですか？ 東京駅の住所で読んだ画面では、ホームプランが月額3,550円でした。月額は住所で変わります。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "住所に良い光回線がなく、4Gも弱いなら、候補に入れてください。",
+        "月額が住所で変わることを理解し、注文画面の条件を支払いの前に確認できるなら、向いています。"
+      ],
+      "skipIf": [
+        "住所に安定した光回線があり、すでに費用や契約に不満がないなら、見送って構いません。",
+        "速い応答が必要なオンラインゲームが目的なら、私たちが読んだページに応答時間の実測がなく、判断材料が足りません。"
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Starlinkのサイトで住所を入力し、支払いの前にプラン、キット、月額を確認してください。",
+      "label": "住所でプランを見る",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "公式サイトの注文画面で価格を確認しました。購入は完了していません。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-ja"
+      },
+      {
+        "slug": "starlink-black-friday-ja"
+      },
+      {
+        "slug": "starlink-referral-ja"
+      }
+    ]
+  },
+  {
+    "id": 1159,
+    "slug": "starlink-cancel-ja",
+    "translationKey": "starlink-fidelidade",
+    "locale": "ja",
+    "title": "Starlinkに契約縛りはある？ レンタルキット、解約の手順、30日間の返却",
+    "seoTitle": "Starlinkの解約と返却：レンタルキットと30日間",
+    "type": "使い方ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "東京の注文画面で読んだキットの条件、解約の手順、30日以内に返却したときの返金をまとめました。契約や解約の条件は、支払いの前に画面で確認します。",
+    "metaDescription": "Starlinkの解約の手順、レンタルキットの返却、30日以内の返金を解説します。契約期間の条件は、注文画面で支払いの前に確認してください。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-cancel-ja-capa.webp",
+    "imageAlt": "雪の中、仕事をする人がいる山小屋の前に置かれたStarlinkのアンテナ。表紙には「契約とキャンセル」と書かれています。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "東京駅の住所で読んだ注文画面では、キットは初期費用0円、月額0円のレンタルで、サービスをキャンセルするときはキットを返却する条件でした。キャンセルしてキットを破損のない状態で30日以内に返却すると、キットと最初の月の料金が全額返金されます。契約期間や解約の費用は、注文画面で支払いの前に確認してください。"
+        ]
+      },
+      {
+        "heading": "契約の条件はどこで見るか",
+        "paragraphs": [
+          "契約期間や、途中で解約したときの費用は、国と注文によって変わります。私たちが東京駅の住所で読んだ画面では、キットの条件はレンタルと返却でした。契約期間と解約の費用は、読んだ画面で確認できませんでした。",
+          "注文画面の機器の行と、利用規約の表示を、支払いの前に読んでください。迷うときは、Starlinkのサポートに聞いてから注文します。"
+        ]
+      },
+      {
+        "heading": "30日間の返却",
+        "paragraphs": [
+          "注文画面には、30日以内の返却という期間が書かれています。オファーの条件で、キットと最初の月の料金の返金を受けるには、サービスをキャンセルし、機器を破損のない状態で、この期間内に返却します。",
+          "サービスをキャンセルすると、以後の請求はサイクルに合わせて止まります。キットの返却の手続きはサポートで確認し、発送の控えを残してください。",
+          "[Starlinkの紹介ページ](/ja/coupons/starlink)のリンクも、公式サイトの同じ注文画面を開きます。返却の条件は、支払いの前にその画面で確認してください。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standardキットの部品。アンテナ、ルーター、スタンド、ケーブル",
+          "caption": "返却するキット。アンテナ、ルーター、スタンド、ケーブル。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "解約の手順",
+        "paragraphs": [
+          "Starlinkのアカウントのホームで、ご契約のプランを開きます。プランの横の「管理」から「サービスをキャンセル」を選びます。",
+          "次の請求サイクルを避けたいときは、請求日のUTC 0:00より前に変更します。日本時間では午前9時にあたります。",
+          "ヘルプセンターによると、サービスは支払い済みの期間の終わりまで使えます。期間が終わる前に気が変わったら、ホームの「再開」を探してください。キャンセル後に再び有効にできるかは、その地域で使えるかによります。"
+        ],
+        "bullets": [
+          "Starlinkのサイトでアカウントにログインし、ホームのページでご契約のプランを開きます。",
+          "プランの横の「管理」を選び、次に「サービスをキャンセル」を選びます。",
+          "請求はUTCの時刻で動きます。変更は、請求日のUTC 0:00より前に済ませないと、次のサイクルからの扱いになります。日本時間では、請求日の午前9時にあたります。",
+          "サービスは支払い済みの日まで使え、サブスクリプションは以後の請求から外れます。",
+          "変更が有効になる前なら、ホームのページ上部にある「サービスプランは…で終了します」の表示から「再開」できます。",
+          "キャンセルのあとは、すぐには再開できない場合があります。再開は、その地域で使えるかによります。"
+        ],
+        "postParagraphs": [
+          "サービスをキャンセルしても、キットは自動では返却されません。30日以内の返却には、上で書いた別のルールがあります。"
+        ]
+      },
+      {
+        "heading": "割引価格とプランの変更",
+        "paragraphs": [
+          "キャンセル、プランの変更、停止をしたときに割引価格がどうなるかは、注文画面の条件に書かれています。変更の前に確認してください。"
+        ]
+      },
+      {
+        "heading": "請求が止まらないとき",
+        "paragraphs": [
+          "請求が続くときは、注文番号、キャンセルの日付、あれば受付番号を添えて、Starlinkに問い合わせます。",
+          "[StarlinkのTrustpilotの読み方](/ja/reviews/starlink-trustpilot-ja)で、利用者の声を確認できます。身に覚えのない請求なら、カード会社にも連絡してください。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Starlinkに契約縛りはありますか？ 東京駅の住所で読んだ画面では、キットはレンタルで、キャンセル時に返却する条件でした。契約期間は、注文画面で確認してください。",
+          "Starlinkを解約するといくらかかりますか？ 読んだ画面では、解約の費用の表示を確認できませんでした。キャンセルを確定する前に、あなたの注文の条件を確認してください。",
+          "Starlinkはいつでも解約できますか？ アカウントから申請できます。契約期間が表示されている場合は、その条件を確認してください。",
+          "Starlink Miniにも契約期間はありますか？ 私たちが読んだ画面では、Miniキットは初期ハードウェア費用なしと表示されていました。契約の条件は、注文の概要で確認してください。",
+          "Starlinkは30日以内に返却できますか？ オファーには、サービスをキャンセルしてキットを破損のない状態で30日以内に返すと、キットと最初の月の料金が返金されると書かれています。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Starlinkの注文画面とヘルプセンターで確認しました。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-worth-it-ja"
+      },
+      {
+        "slug": "starlink-black-friday-ja"
+      },
+      {
+        "slug": "starlink-trustpilot-ja"
+      }
+    ]
+  },
+  {
+    "id": 1160,
+    "slug": "starlink-trust-ja",
+    "translationKey": "starlink-trust-guide",
+    "locale": "ja",
+    "title": "Starlinkは信頼できる？ 公式サイトの見分け方と、販売元の確認",
+    "seoTitle": "Starlinkは信頼できる？ 公式サイトと偽サイト",
+    "type": "エディトリアル",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Starlinkの公式サイトと正規販売店の一覧、フィッシングの注意が、誰から買うのかの確認に役立ちます。キットの支払いの前に確認することをまとめました。",
+    "metaDescription": "Starlinkの公式サイトの見分け方、正規販売店の一覧の探し方、同じ名前の別ドメインのTrustpilotページを区別する方法を解説します。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trust-ja-capa.webp",
+    "imageAlt": "木組みの構造物に固定されたスタンドに取り付けられたStarlinkのアンテナ。表紙には「信頼できる？」と書かれています。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "StarlinkはSpaceXの衛星インターネットサービスで、公式サイトはstarlink.comです。キットをサイト以外で買う場合は、Starlinkの正規販売店の一覧を確認し、出品の販売元を支払いの前に確かめてください。Trustpilotで評価を見るときは、ドメインがstarlink.comのページを選びます。"
+        ]
+      },
+      {
+        "heading": "Starlinkとは何者で、誰が売るのか",
+        "paragraphs": [
+          "Starlinkは公式サイトで販売しています。Trustpilotでは、ドメインがstarlink.comのページが、カテゴリ「インターネットサービスプロバイダー」で登録されています。",
+          "[Starlinkは買う価値があるか](/ja/reviews/starlink-worth-it-ja)では、価格、設置、代わりになる回線を、あなたの住所で比べる方法を紹介しています。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink Standardのアンテナとルーター",
+          "caption": "Starlinkのアンテナとルーター。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "公式サイトの見分け方",
+        "paragraphs": [
+          "ブラウザにstarlink.comと入力して開きます。情報を入れたり支払ったりする前に、アドレスがstarlink.comのままか確認してください。"
+        ]
+      },
+      {
+        "heading": "Trustpilotで、どのページがStarlinkか",
+        "paragraphs": [
+          "ドメインがstarlink.comのページが、Starlinkです。同じ名前のページは、ほかにもあります。ukstarlink.comとstarlink.omのページがそうで、これらはstarlink.comではありません。",
+          "運営会社の評判を見るときは、ドメインがstarlink.comのページを見てください。"
+        ]
+      },
+      {
+        "heading": "販売店とマーケットプレイス",
+        "paragraphs": [
+          "Starlinkは、正規の販売店の一覧を公開しています。有名なマーケットプレイスでも、出品の販売元を確認してください。",
+          "[Starlinkの紹介](/ja/coupons/starlink)の対象は、starlink.comでリンクから直接行う、資格のある注文です。販売店でキットを買う場合に、あとから足すことはできません。"
+        ]
+      },
+      {
+        "heading": "Starlinkの名前を使ったメッセージ",
+        "paragraphs": [
+          "Starlinkのヘルプセンターには、フィッシングに関する注意が載っています。Starlinkの名前で広告やメッセージが届いたら、支払いや情報の入力の前に、starlink.comで内容を確認してください。"
+        ]
+      },
+      {
+        "heading": "Trustpilotの数字",
+        "paragraphs": [
+          "ドメインがstarlink.comのページは、スコア1.6で、871件のレビューがあります。Trustpilotは、このページを会社が管理者として登録していない「Unclaimed profile」と表示しています。",
+          "[評判の詳しい読み方](/ja/reviews/starlink-trustpilot-ja)で、数字、不満の内容、レビューの偏りを説明しています。"
+        ]
+      },
+      {
+        "heading": "購入後に残しておくもの",
+        "bullets": [
+          "注文番号、決済で表示された価格、確認のメールを保存してください。食い違いがあれば、サイトかアプリからサポートに連絡します。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Starlinkは信頼できますか？ StarlinkはSpaceXの衛星インターネットサービスです。公式サイトのstarlink.comと、ドメインがstarlink.comのTrustpilotページを確認してください。",
+          "Starlinkの公式サイトはどこですか？ starlink.comです。",
+          "販売元が正規かどうか、どう確認しますか？ Starlinkの販売店の一覧を見て、支払いの前に出品の販売元を確認します。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "公式サイト、ヘルプセンター、Trustpilotの公開ページを確認しました。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trustpilot-ja"
+      },
+      {
+        "slug": "starlink-referral-ja"
+      },
+      {
+        "slug": "starlink-worth-it-ja"
+      }
+    ]
+  },
+  {
+    "id": 1161,
+    "slug": "starlink-trustpilot-ja",
+    "translationKey": "starlink-reputation",
+    "locale": "ja",
+    "title": "StarlinkのTrustpilot評価：スコア1.6と、多い不満の内容",
+    "seoTitle": "StarlinkのTrustpilot評価と不満の内容",
+    "type": "評判分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "starlink.comのTrustpilotページのスコア、レビュー数、評価の内訳、多い不満を確認します。レビューの偏りと、問題があったときの連絡先も紹介します。",
+    "metaDescription": "StarlinkのTrustpilot評価はスコア1.6、レビュー871件。評価の内訳、多い不満、レビューの偏りに注意する理由を解説します。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trustpilot-ja-capa.webp",
+    "imageAlt": "雷が光る嵐の空の下、屋根に設置されたStarlinkのアンテナ。表紙には「Trustpilot：評価」と書かれています。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "starlink.comのTrustpilotページは、スコア1.6で、871件のレビューがあります。5つ星が17%、1つ星が71%です。このページは会社が管理者として登録しておらず、会社がお客様にレビューを依頼した履歴もないため、全利用者の声を代表しているとは限りません。"
+        ]
+      },
+      {
+        "heading": "スコアと評価の内訳",
+        "paragraphs": [
+          "Trustpilotは、このスコアを「Bad」と表示しています。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "指標",
+            "starlink.comのページ"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "1.6（Bad）"
+            ],
+            [
+              "レビュー数",
+              "871件"
+            ],
+            [
+              "5つ星",
+              "17%"
+            ],
+            [
+              "4つ星",
+              "2%"
+            ],
+            [
+              "3つ星",
+              "3%"
+            ],
+            [
+              "2つ星",
+              "7%"
+            ],
+            [
+              "1つ星",
+              "71%"
+            ]
+          ],
+          "caption": "11月20日に読んだTrustpilotのページ。個別のレビューは引用していません。"
+        }
+      },
+      {
+        "heading": "ページの偏りに注意する理由",
+        "paragraphs": [
+          "Trustpilotは、このページを会社が登録していない（Unclaimed）と表示しています。また、会社がお客様にレビューを依頼した履歴がないため、レビューは利用者全体を代表していない可能性がある、と注意しています。",
+          "スコアは、投稿した人の声として読んでください。"
+        ]
+      },
+      {
+        "heading": "どのページがStarlinkか",
+        "paragraphs": [
+          "Trustpilotでは、ウェブサイトにstarlink.comが記載された「Starlink Development」を確認してください。似た名前で別のドメインを載せているページもあります。"
+        ]
+      },
+      {
+        "heading": "多い不満の内容",
+        "paragraphs": [
+          "Trustpilotは、直近355件のレビューについてAIによる要約を表示しています。いちばん多い不満は、チャットボットだけでサポートにつながらないことです。月額の請求の増額と、追加の費用も挙げられています。",
+          "製品と速度の評価は分かれています。接続が速いと評価する声もあります。"
+        ]
+      },
+      {
+        "heading": "契約する人にとっての意味",
+        "paragraphs": [
+          "契約する人は、毎月の請求書を、注文画面で見た価格と比べてください。割引の期間と条件は日本の画面では読めていないので、あなたの注文画面で確認してください。",
+          "契約とキャンセルの条件は、[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)にまとめました。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "木造の家の屋根に取り付けられたStarlinkのアンテナ",
+          "caption": "住宅用のアンテナ。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "契約の前に",
+        "paragraphs": [
+          "契約の前に、サイトと条件を確認してください。公式サイトと、同じ名前のページの見分け方は、[Starlinkは信頼できるか](/ja/reviews/starlink-trust-ja)にあります。",
+          "契約するなら、リンクと条件は[Starlinkの紹介ページ](/ja/coupons/starlink)にあります。"
+        ]
+      },
+      {
+        "heading": "問題があったときの連絡",
+        "paragraphs": [
+          "Starlinkのサイトかアプリでサポートに連絡し、受付番号を残してください。請求が注文と違うときは、オファーに表示された金額と請求書を送ります。",
+          "ほかの利用者の様子を見たいときは、ドメインがstarlink.comのTrustpilotページを探してください。"
+        ],
+        "links": [
+          {
+            "label": "TrustpilotのStarlink（starlink.com）のページ",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "StarlinkのTrustpilotのスコアはいくつですか？ starlink.comのページは、スコア1.6（Bad）、レビュー871件でした。",
+          "どのTrustpilotページを見ればよいですか？ ドメインがstarlink.comのページです。ukstarlink.comやstarlink.omのページは、starlink.comではありません。",
+          "Starlinkへの不満で多いのは何ですか？ Trustpilotの要約では、チャットボットだけでサポートにつながらないこと、月額の増額、追加の費用が挙げられています。",
+          "このスコアは全利用者の声ですか？ 全利用者の声とは限りません。ページは会社が管理者として登録しておらず、会社がお客様にレビューを依頼した履歴もないと、Trustpilotは表示しています。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Trustpilotの公開ページを確認しました。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trust-ja"
+      },
+      {
+        "slug": "starlink-cancel-ja"
+      },
+      {
+        "slug": "starlink-worth-it-ja"
+      }
+    ]
+  },
+  {
+    "id": 1162,
+    "slug": "starlink-referral-ko",
+    "locale": "ko",
+    "translationKey": "starlink-indicacao",
+    "title": "스타링크 추천 링크 사용법과 보상이 들어오는 시점",
+    "seoTitle": "스타링크 추천 링크 사용법과 보상 시점",
+    "type": "추천 코드 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "공식 사이트에서 링크를 열고, 결제 전에 주문 화면에서 보상을 확인하세요. 누가 쓸 수 있는지, 보상이 언제 들어오는지, 크레딧과 현금 중 무엇을 받는지 정리했습니다.",
+    "metaDescription": "스타링크 추천 링크를 여는 방법, 주문 화면에서 보상을 확인하는 방법, 프로그램 조건을 채운 뒤 보상을 받는 순서를 설명합니다.",
+    "publishedAt": "2026년 11월 20일",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-referral-ko-capa.webp",
+    "imageAlt": "하늘이 파란 날 지붕에 설치된 스타링크 안테나. 표지에는 ‘추천 링크’와 ‘이곳의 신규 이용자 보상, 2개월 후 지급’이라고 적혀 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "스타링크 추천 링크를 열고 설치할 주소를 입력하세요. 결제 전에 추천이 적용되었다는 안내와 주문 화면의 보상 금액을 확인합니다. 프로그램은 신규 고객에게 적용되고, 보상은 월 결제 주기를 두 번 채운 뒤 지급되며, 지급 방식은 크레딧이고 계정에서 현금이 가능하면 현금도 고를 수 있습니다."
+        ]
+      },
+      {
+        "heading": "링크 사용 순서",
+        "paragraphs": [
+          "[스타링크 추천 안내 페이지](/ko/coupons/starlink)에서 링크를 열고, 서비스를 쓸 주소를 입력합니다."
+        ],
+        "postParagraphs": [
+          "결제 전에 안내문을 확인하세요. 스타링크는 추천이 최초 주문에 포함되어 있어야 한다고 설명합니다."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "목조 주택 지붕에 설치된 스타링크 안테나",
+          "caption": "주택에 설치된 스타링크 안테나. 스타링크 제공 사진.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        },
+        "bullets": [
+          "주문 화면에서 대상이 되는 가정용 또는 여행용 요금제를 고릅니다.",
+          "추천 코드가 적용되었다는 안내를 찾고, 보상 금액과 오늘 결제할 총액을 확인합니다.",
+          "스타링크 공식 사이트에서 결제를 마칩니다.",
+          "키트를 활성화하고 첫 청구서를 확인합니다. 첫 달 요금 결제와 장비 활성화는 추천 조건에 포함됩니다."
+        ]
+      },
+      {
+        "heading": "보상 금액과 지급 시점",
+        "paragraphs": [
+          "보상 금액은 가입자가 등록한 국가에 따라 달라지고, 계정과 주문 화면에 표시됩니다. 저희는 한국 주문 화면의 보상 금액을 확인하지 못했으니, 주소를 입력해 직접 확인하세요. 추천한 사람도 같은 금액을 현금 또는 서비스 크레딧으로 받습니다.",
+          "구독은 월 결제 주기를 두 번 완전히 채울 때까지 유지되고 연체가 없어야 합니다. 고객센터는 지급이 활성화 후 60일부터 시작될 수 있다고 안내하며, 국가와 계정, 본인 확인에 따라 달라집니다.",
+          "기본 방식은 청구서 크레딧입니다. 계정에서 현금 지급이 가능하면, 웹 브라우저에서 추천 메뉴를 열어 보상 방식을 고르고 본인 확인과 계좌 등록을 마치면 됩니다."
+        ]
+      },
+      {
+        "heading": "누가 쓸 수 있나요",
+        "bullets": [
+          "가입하는 사람은 신규 고객이어야 합니다. 현재 고객이나 예전 고객에게는 보상이 없습니다.",
+          "추천하는 사람은 가정용 또는 여행용 요금제를 쓰는 활성 고객이어야 합니다. 우선순위, 엔터프라이즈, 비즈니스 요금제는 보상 대상이 아닙니다.",
+          "가입자에게 적용되는 요금제는 가정용(라이트, 100Mbps, 200Mbps, 맥스 등)과 여행용(100GB, 300GB, 무제한)입니다. 국가별 이름은 주문 화면에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "스타링크 쿠폰이 있나요?",
+        "paragraphs": [
+          "추천은 링크로 작동하므로 따로 입력할 코드가 없고, 링크가 추천 정보를 주문으로 가져갑니다. 결제 전에 적용 안내가 화면에 있는지 확인하세요.",
+          "프로그램은 starlink.com에서 링크로 한 구매만 집계합니다. 리셀러나 마켓플레이스 구매, 계정 이전은 추천에서 제외됩니다."
+        ]
+      },
+      {
+        "heading": "블랙프라이데이 할인과 함께 쓸 수 있나요?",
+        "paragraphs": [
+          "스타링크는 대상 하드웨어와 서비스의 50% 할인을 안내했습니다. 서울의 주문 화면은 [블랙프라이데이 스타링크 가이드](/ko/reviews/starlink-black-friday-ko)에서 확인할 수 있습니다. 신청 기한과 추천 보상은 본인 주소의 주문에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "추천 현황 확인",
+        "paragraphs": [
+          "사이트나 앱의 추천 탭에서 링크로 가입한 사람의 진행 상태를 볼 수 있습니다. 누군가 주문하면 스타링크가 이메일로 알려 줍니다. 추천은 보상이 생기기 전에 자격 확인을 거칠 수 있습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "스타링크 추천은 어떻게 작동하나요? 링크를 통해 starlink.com에서 주문하세요. 추천 적용을 확인하고, 키트를 활성화한 뒤, 월 결제 주기 두 번 동안 서비스를 정상 유지하면 됩니다.",
+          "스타링크 추천 보상은 얼마인가요? 국가에 따라 다르고 주문 화면에 표시됩니다. 한국 금액은 주소를 입력해 직접 확인하세요.",
+          "보상은 언제 들어오나요? 고객센터에 따르면 활성화 후 60일부터 지급이 시작될 수 있으며, 추천이 프로그램 조건을 충족해야 합니다.",
+          "추천 링크는 마켓플레이스나 리셀러 구매에도 적용되나요? 프로그램은 starlink.com에서 링크로 직접 구매할 것을 요구합니다.",
+          "예전에 스타링크를 썼는데 링크를 쓸 수 있나요? 보상은 스타링크에 처음 가입하는 사람에게 해당됩니다.",
+          "추천 링크는 한국에서도 되나요? 스타링크 고객센터에 따르면 판매 국가 대부분에서 추천이 유효하며, 보상은 가입자가 등록한 국가에 따라 정해집니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "결제 전에 내 주소의 주문 화면에서 추천 보상을 확인하세요.",
+      "label": "주문 화면에서 추천 확인",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-black-friday-ko"
+      },
+      {
+        "slug": "starlink-worth-it-ko"
+      },
+      {
+        "slug": "starlink-cancel-ko"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1163,
+    "slug": "starlink-black-friday-ko",
+    "locale": "ko",
+    "translationKey": "starlink-black-friday",
+    "title": "블랙프라이데이 스타링크 2026: 하드웨어와 서비스 50% 할인, 주문 화면 계산",
+    "seoTitle": "블랙프라이데이 스타링크 2026: 50% 할인",
+    "type": "블랙프라이데이 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "서울시청 주소로 확인한 주문 화면에서 미니 키트는 16만 원, 오늘 결제액은 19만 2천 원으로 표시됐습니다. 월 요금과 추천 보상은 주문에서 따로 확인하세요.",
+    "metaDescription": "스타링크가 대상 하드웨어와 서비스에 50% 할인을 안내합니다. 서울 주문 화면에 표시된 초기 결제액과 월 요금, 내 주소의 신청 조건을 확인하세요.",
+    "publishedAt": "2026년 11월 20일",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-black-friday-ko-capa.webp",
+    "imageAlt": "해 질 녘 오두막 지붕에 설치된 스타링크 안테나. 표지에는 ‘블랙프라이데이 2026’과 ‘하드웨어와 서비스 50% 할인’이라고 적혀 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "스타링크가 한국에서 대상 하드웨어와 서비스의 50% 할인을 안내했습니다. 서울시청 주소로 확인한 결제액은 19만 2천 원이었고, 키트는 구매 방식이었습니다. 신청 기한과 추천 보상 대상 여부는 본인 주소의 주문 화면에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "오늘 내는 돈과 보상이 들어오는 시점",
+        "paragraphs": [
+          "서울시청 주소의 주문 화면에 미니 키트 ₩160,000, 주거용 100Mbps 월 ₩34,000, 맥스 월 ₩46,500이 표시됐습니다. 화면에 표시된 오늘 결제액은 ₩192,000이었고 항목별 구성은 확인하지 못했습니다.",
+          "공식 사이트의 캠페인 안내에는 오퍼가 11월 30일에 종료된다고 나옵니다. 할인 적용 기간과 종료 후 월 요금은 본인 주소의 주문 화면에서 확인하세요.",
+          "추천 보상은 자격을 충족하고 월 결제 주기를 두 번 채운 뒤 받을 수 있습니다. 주문에서 금액과 적용 조건을 확인하세요."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "서울시청 주소 기준",
+            "주문 화면에 표시된 값"
+          ],
+          "rows": [
+            [
+              "미니 키트",
+              "₩160,000"
+            ],
+            [
+              "주거용 100Mbps",
+              "월 ₩34,000"
+            ],
+            [
+              "주거용 맥스",
+              "월 ₩46,500"
+            ],
+            [
+              "오늘 결제액 (화면에 표시된 값)",
+              "₩192,000"
+            ]
+          ],
+          "caption": "2026년 11월 20일 읽은 값입니다. 스탠다드 키트 가격과 50% 할인 기간은 읽지 못했습니다."
+        }
+      },
+      {
+        "heading": "주문 화면에서 보이는 것",
+        "paragraphs": [
+          "주소를 입력하면 할인 안내와 요금제 가격, 키트 선택이 나옵니다. 한국 주문 화면에는 한국에서 발행한 카드로만 결제할 수 있다는 공지가 있었고, 배송은 2~3주로 안내되었습니다.",
+          "내 오퍼를 확인하려면 링크를 열고 주소를 입력한 다음, 결제 전에 추천 적용 안내와 보상 금액, 요금 조건을 확인하세요."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "지붕에 스타링크 안테나가 설치된 집",
+          "caption": "하늘이 열린 지붕에 설치한 안테나. 스타링크 제공 사진.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "다른 사람을 추천하면 얼마를 받나요?",
+        "paragraphs": [
+          "가입한 뒤에는 다른 사람을 추천할 수 있고, 추천한 사람도 같은 금액을 현금 또는 서비스 크레딧으로 받습니다. 추천받은 사람이 필요한 결제 주기를 채워야 합니다.",
+          "[추천 프로그램이 어떻게 작동하는지](/ko/reviews/starlink-referral-ko)와 내 계정에서 건당 얼마인지 확인하세요."
+        ]
+      },
+      {
+        "heading": "내 주소에서도 같은 오퍼가 나오나요?",
+        "paragraphs": [
+          "할인은 지역에 따라 다르게 표시될 수 있습니다. 서울시청 주소에서 읽은 값이 다른 주소에 그대로 적용된다고 볼 수는 없습니다. 본인 주소로 주문 화면을 열어 비교하세요."
+        ]
+      },
+      {
+        "heading": "환불과 반납",
+        "paragraphs": [
+          "주문 화면은 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 전액 환불한다고 안내합니다.",
+          "자세한 절차는 [계약과 취소 가이드](/ko/reviews/starlink-cancel-ko)에 있습니다."
+        ]
+      },
+      {
+        "heading": "할인 기간이 끝나면 어떻게 되나요?",
+        "paragraphs": [
+          "저희는 할인이 끝난 뒤의 요금을 읽지 못했습니다. 요금제 변경, 취소, 일시 중지 때 프로모션 가격이 유지되는지는 본인 주문의 약관에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "링크 사용법",
+        "paragraphs": [
+          "링크를 열고 안테나를 설치할 주소를 입력합니다. 요금제를 고르고, 추천 적용을 확인한 뒤, 결제 전에 화면에 뜬 오퍼를 저장해 두세요.",
+          "[스타링크 추천 안내 페이지](/ko/coupons/starlink)에서 링크와 프로그램 규정을 볼 수 있습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "스타링크 블랙프라이데이 할인이 있나요? 한국 페이지는 대상 하드웨어와 서비스의 50% 할인을 안내했습니다. 신청 기한은 본인 주소와 요금제를 선택한 뒤 확인하세요.",
+          "추천 보상은 할인과 함께 쓸 수 있나요? 보상은 추천 조건을 채우면 받고, 금액은 주문 화면에서 확인합니다. 한국 주문에서 두 혜택이 함께 표시되는지는 읽지 못했습니다.",
+          "주문할 때 얼마를 내나요? 서울시청 주소로 미니 키트와 100Mbps를 고른 주문의 결제 금액은 ₩192,000이었습니다.",
+          "키트는 임대인가요, 구매인가요? 한국 주문 화면에서는 키트를 구매하는 방식이었고, 옵션은 미니와 스탠다드였습니다.",
+          "오퍼는 언제까지인가요? 캠페인 안내와 요금 표시의 날짜가 다를 수 있습니다. 주문 화면에서 주소와 요금제를 선택해 확인하세요."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "스타링크 사이트에서 내 주소의 키트 가격, 요금, 추천 보상을 결제 전에 확인하세요.",
+      "label": "내 주소에서 오퍼 확인",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-ko"
+      },
+      {
+        "slug": "starlink-worth-it-ko"
+      },
+      {
+        "slug": "starlink-cancel-ko"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1164,
+    "slug": "starlink-worth-it-ko",
+    "locale": "ko",
+    "translationKey": "starlink-vale-a-pena",
+    "title": "스타링크 가입할 만한가요? 12개월 계산과 어울리는 집",
+    "seoTitle": "스타링크 가입할 만한가요? 12개월 비용",
+    "type": "구매 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "스타링크 12개월 비용을 집에 들어오는 다른 인터넷과 비교하세요. 주소별 키트 가격, 환불 조건, 안테나를 둘 자리를 확인하는 방법을 정리했습니다.",
+    "metaDescription": "스타링크 가입할 만한가요? 키트와 12개월 요금 계산, 주소별 가격, 어울리는 경우와 광랜이나 LTE가 나은 경우를 살펴봅니다.",
+    "publishedAt": "2026년 11월 20일",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-worth-it-ko-capa.webp",
+    "imageAlt": "산을 배경으로 집 처마에 고정된 스타링크 안테나. 표지에는 ‘가입할 만할까?’와 ‘집 인터넷’이라고 적혀 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "광랜이나 안정적인 유선 인터넷이 닿지 않는 집이라면 스타링크가 답이 될 수 있습니다. 이미 믿을 만한 인터넷이 있다면 갈아타기 전에 12개월 총액을 비교하세요. 한국에서는 키트를 구매하므로 키트 값에 월 요금을 더하고, 스타링크 앱으로 안테나를 둘 자리를 점검하세요."
+        ]
+      },
+      {
+        "heading": "12개월 비용",
+        "paragraphs": [
+          "2026년 11월 20일에 서울시청 주소로 공개 주문 화면을 읽었습니다. 이 글의 값은 그 주소에서 나온 것이며, 다른 주소는 다를 수 있습니다."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "서울시청 주소 기준",
+            "가격"
+          ],
+          "rows": [
+            [
+              "주거용 100Mbps",
+              "월 ₩34,000"
+            ],
+            [
+              "주거용 맥스",
+              "월 ₩46,500"
+            ],
+            [
+              "미니 키트",
+              "₩160,000"
+            ],
+            [
+              "미니 키트 + 100Mbps 결제 금액",
+              "₩192,000"
+            ]
+          ],
+          "caption": "주문 화면에 표시된 값입니다. 50% 할인의 적용 기간은 읽지 못했습니다."
+        },
+        "postParagraphs": [
+          "12개월 비용은 키트 값에 12번의 월 요금을 더해 구하되, 할인이 몇 개월인지와 끝난 뒤 요금을 본인 주문 화면에서 읽고 계산하세요. 저희는 두 값을 읽지 못해 총액을 적지 않았습니다.",
+          "계산할 때는 추천 보상을 빼고 먼저 합산하세요. 보상은 조건을 채운 뒤에 들어오는 금액입니다. [스타링크 추천 안내](/ko/coupons/starlink)를 참고하세요."
+        ]
+      },
+      {
+        "heading": "안테나는 어디에 두나요",
+        "paragraphs": [
+          "구매 전에 하늘이 넓게 열린 자리를 고르세요. 시야에 나뭇가지나 지붕이 걸리면 연결이 끊길 수 있습니다. 스타링크 앱을 안테나를 둘 자리에서 열어 장애물 점검을 해 보세요."
+        ],
+        "links": [
+          {
+            "label": "앱으로 장애물 확인하는 방법",
+            "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "지붕에 스타링크 안테나가 설치된 집",
+          "caption": "하늘이 열린 지붕에 설치한 안테나. 스타링크 제공 사진.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "광랜이나 LTE와 비교할 때",
+        "paragraphs": [
+          "안정적인 광랜이 이미 들어온다면, 각 상품의 설치비와 월 요금, 약정을 더해 비교하세요. LTE는 필요한 장비 값을 더하고, 요금제의 데이터 한도가 집에 충분한지 확인하세요."
+        ]
+      },
+      {
+        "heading": "속도와 게임",
+        "paragraphs": [
+          "가정용 요금제는 다운로드 속도를 안내하지만, 위치와 시간대에 따라 성능이 달라질 수 있습니다. 온라인 게임이라면 응답 시간과 끊김도 함께 보세요.",
+          "스타링크는 사양 문서에서 지상 기준 일반 지연 시간을 25~60ms로 공개합니다. 회사가 밝힌 기준값이며, 저희가 주문한 주소에서 잰 값은 아닙니다."
+        ],
+        "links": [
+          {
+            "label": "스타링크 성능 사양",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "환불과 해지",
+        "paragraphs": [
+          "한국 주문 화면은 키트를 구매하는 방식이며, 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 전액 환불한다고 안내합니다. [계약과 취소 가이드](/ko/reviews/starlink-cancel-ko)에 절차가 있습니다."
+        ]
+      },
+      {
+        "heading": "이용자들이 불만을 말하는 부분",
+        "paragraphs": [
+          "트러스트파일럿에서 스타링크 공식 도메인 프로필의 평점은 낮은 편입니다. 지원 연결과 요금 인상이 자주 언급됩니다. 청구서는 주문 화면과 비교하세요. [트러스트파일럿 평점 분석](/ko/reviews/starlink-trustpilot-ko)을 참고하세요."
+        ]
+      },
+      {
+        "heading": "저희가 써 본 경험",
+        "paragraphs": [
+          "저희는 스타링크에 가입했지만 아직 사용 경험은 없습니다. 속도, 설치, 일상에서의 품질은 경험이 쌓이면 이 글에 업데이트하겠습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "도심에서도 스타링크가 가입할 만한가요? 안정적인 유선 인터넷이 있다면 설치비, 월 요금, 약정을 비교한 뒤 바꾸세요.",
+          "스타링크가 광랜보다 나은가요? 좋은 유선 인터넷이 없는 곳이라면 스타링크 견적을 받아 보고, 안테나를 둘 열린 하늘이 있는지 확인하세요. 둘 다 가능하면 안정성과 비용을 주소별로 비교하세요.",
+          "스타링크는 게임에 좋은가요? 본인 주소에서 지연 시간과 끊김을 확인하세요. 스타링크가 공개한 일반 지연 시간은 참고용입니다.",
+          "스타링크는 무제한인가요? 스타링크는 가정용 요금제를 무제한 데이터로 안내합니다. 주문 화면에서 요금제의 속도 제한을 확인하세요.",
+          "스타링크 월 요금은 얼마인가요? 서울시청 주소 기준으로 주거용 100Mbps가 월 ₩34,000, 주거용 맥스가 월 ₩46,500로 표시되었습니다. 주소에 따라 다릅니다."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "집 주소에 쓸 만한 유선 인터넷이 없고, LTE도 신호가 약합니다.",
+        "키트를 구매하는 방식을 받아들이고, 가격이 주소마다 다르다는 점을 알고 있습니다."
+      ],
+      "skipIf": [
+        "안정적인 광랜이 이미 들어오고, 새로 살 장비도 바꿀 이유도 없습니다.",
+        "응답 속도가 빠른 온라인 게임이 꼭 필요한데, 스타링크가 지연 시간을 보장하지 않습니다."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "스타링크 사이트에 주소를 넣고 요금제, 키트, 월 요금을 결제 전에 확인하세요.",
+      "label": "내 주소에서 요금 보기",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-ko"
+      },
+      {
+        "slug": "starlink-black-friday-ko"
+      },
+      {
+        "slug": "starlink-referral-ko"
+      }
+    ]
+  },
+  {
+    "id": 1165,
+    "slug": "starlink-cancel-ko",
+    "locale": "ko",
+    "translationKey": "starlink-fidelidade",
+    "title": "스타링크 약정이 있나요? 키트 구매, 30일 반납, 해지 방법",
+    "seoTitle": "스타링크 약정과 해지, 30일 반납",
+    "type": "실용 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "한국 주문 화면에서 키트는 구매 방식입니다. 30일 안에 반납하면 키트와 첫 달 요금이 환불됩니다. 계정에서 해지하는 순서까지 정리했습니다.",
+    "metaDescription": "스타링크 한국 주문은 키트를 구매하는 방식입니다. 30일 반납 환불 조건과 계정에서 서비스를 해지하는 방법, 결제 주기 기준을 확인하세요.",
+    "publishedAt": "2026년 11월 20일",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-cancel-ko-capa.webp",
+    "imageAlt": "눈 덮인 산장 앞에서 사람이 일하는 모습과 스타링크 안테나. 표지에는 ‘계약과 취소’라고 적혀 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "한국 주문 화면에서 키트는 구매 방식이며, 미니와 스탠다드 중에서 고릅니다. 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 전액 환불받습니다. 약정 기간과 위약금 문구는 주문 요약에서 직접 확인하세요."
+        ]
+      },
+      {
+        "heading": "약정이 있는지 보는 법",
+        "paragraphs": [
+          "2026년 11월 20일에 서울시청 주소로 읽은 주문 화면은 미니 키트를 ₩160,000에 구매하는 방식이었습니다. 키트를 빌려 쓰는 임대 방식이 아니므로, 임대 장비를 돌려주는 조건은 해당하지 않았습니다.",
+          "저희는 계약 기간이나 위약금에 대한 한국 주문 화면의 문구를 확인하지 못했습니다. 결제 전에 주문 요약에서 계약 기간 문구가 있는지 읽으세요."
+        ]
+      },
+      {
+        "heading": "30일 반납",
+        "paragraphs": [
+          "주문 화면에 따르면 30일은 결제일부터 셉니다. 키트와 첫 달 요금의 환불을 받으려면 서비스를 취소하고, 장비를 손상 없이 그 기간 안에 반납하세요.",
+          "구독을 취소하면 이후 청구가 결제 주기에 맞춰 멈춥니다. 키트 반납은 스타링크 지원을 통해 따로 신청하는 방법을 확인하고, 발송 영수증을 보관하세요.",
+          "[스타링크 추천 안내](/ko/coupons/starlink)의 링크는 스타링크 공식 사이트의 같은 주문 화면으로 연결되니, 환불 조건은 결제 전에 그 화면에서 확인하세요."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "스타링크 스탠다드 키트 구성품인 안테나, 라우터, 거치대, 케이블",
+          "caption": "반납하는 키트의 구성품. 스타링크 제공 사진.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "해지하는 방법",
+        "paragraphs": [
+          "스타링크 계정의 홈에서 구독 메뉴를 엽니다. 요금제 옆의 관리를 누르고 서비스 취소를 선택하세요.",
+          "새 결제 주기를 피하려면, 청구일 00:00 UTC 전에 변경해야 합니다. 청구는 UTC 기준으로 이루어집니다.",
+          "고객센터에 따르면 서비스는 이미 낸 기간이 끝날 때까지 유지됩니다. 기간이 끝나기 전에 마음이 바뀌면 홈의 재개 버튼을 찾으세요. 취소 후 재활성화는 해당 지역의 가용 여부에 따라 달라집니다."
+        ],
+        "bullets": [
+          "스타링크 계정에 로그인해 홈에서 구독 메뉴를 엽니다.",
+          "요금제 옆의 관리를 누르고 서비스 취소를 선택합니다.",
+          "청구는 UTC 기준입니다. 청구일 00:00 UTC 전에 변경해야 이번 주기에 반영되고, 그렇지 않으면 다음 주기부터 적용됩니다.",
+          "서비스는 이미 결제된 날짜까지 유지되고, 이후 청구에서 구독이 빠집니다.",
+          "변경이 적용되기 전이라면 홈 상단의 서비스 종료 안내에서 재개를 눌러 되돌릴 수 있습니다.",
+          "취소한 뒤에는 바로 재활성화하지 못할 수 있습니다. 재활성화는 해당 지역의 가용 여부에 달려 있습니다."
+        ],
+        "postParagraphs": [
+          "서비스를 취소하는 것만으로 키트가 반납되지는 않습니다. 30일 반납에는 앞에서 설명한 별도 절차가 있습니다."
+        ]
+      },
+      {
+        "heading": "프로모션 가격과 요금제 변경",
+        "paragraphs": [
+          "요금제 변경, 취소, 일시 중지 때 프로모션 가격이 유지되는지는 본인 주문의 약관에서 확인하세요. 표준 가격은 바뀔 수 있습니다."
+        ]
+      },
+      {
+        "heading": "청구가 계속될 때",
+        "paragraphs": [
+          "청구가 계속되면 주문 번호, 취소한 날짜, 있다면 접수 번호를 들고 스타링크에 문의하세요. 평판은 [트러스트파일럿 분석](/ko/reviews/starlink-trustpilot-ko)에서 볼 수 있습니다. 모르는 결제라면 카드 발급사에도 문의하세요."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "스타링크에 약정이 있나요? 한국 주문 화면에서 키트는 구매 방식이었습니다. 계약 기간 문구는 저희가 확인하지 못했으니, 결제 전에 주문 요약을 읽으세요.",
+          "스타링크를 해지하면 위약금이 있나요? 위약금은 저희가 확인하지 못했습니다. 본인 주문의 조건을 읽은 뒤 해지하세요.",
+          "스타링크는 언제든 해지할 수 있나요? 계정에서 취소를 신청할 수 있고, 청구일 00:00 UTC 전에 해야 이번 주기에 반영됩니다.",
+          "스타링크 미니는 약정이 있나요? 한국 화면에서 미니 키트는 ₩160,000에 구매하는 방식이었습니다. 약정 여부는 주문 요약에서 확인하세요.",
+          "30일 안에 반납할 수 있나요? 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금이 전액 환불됩니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-worth-it-ko"
+      },
+      {
+        "slug": "starlink-black-friday-ko"
+      },
+      {
+        "slug": "starlink-trustpilot-ko"
+      }
+    ]
+  },
+  {
+    "id": 1166,
+    "slug": "starlink-trust-ko",
+    "locale": "ko",
+    "translationKey": "starlink-trust-guide",
+    "title": "스타링크는 믿을 만한가요? 공식 사이트와 판매처를 확인하는 방법",
+    "seoTitle": "스타링크는 믿을 만한가요? 공식 사이트와 사칭",
+    "type": "에디토리얼",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "스타링크 공식 사이트와 공인 리셀러 목록으로 누구에게서 사는지 확인하세요. 키트를 결제하기 전에 점검할 것과 피싱 주의 안내를 정리했습니다.",
+    "metaDescription": "스타링크 공식 사이트를 알아보는 방법, 공인 리셀러 목록 확인, 이름이 같은 다른 도메인 프로필 구별법을 설명합니다.",
+    "publishedAt": "2026년 11월 20일",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trust-ko-capa.webp",
+    "imageAlt": "목조 구조물에 연결된 거치대에 설치된 스타링크 안테나. 표지에는 ‘믿을 만할까?’라고 적혀 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "스타링크는 스페이스X의 위성 인터넷 서비스입니다. 공식 사이트는 starlink.com입니다. 키트를 사이트 밖에서 사려면 스타링크의 공인 리셀러 목록을 확인하고, 결제 전에 광고의 판매자가 누구인지 확인하세요."
+        ]
+      },
+      {
+        "heading": "스타링크는 누가 어디서 파나요",
+        "paragraphs": [
+          "스타링크는 공식 사이트에서 직접 판매합니다. 스타링크의 고객센터는 공인 리셀러 목록도 안내합니다.",
+          "[스타링크 가입이 맞는지](/ko/reviews/starlink-worth-it-ko)는 주소별 가격과 설치 조건을 비교해 보세요."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "스타링크 스탠다드 안테나와 라우터",
+          "caption": "스타링크 안테나와 라우터. 스타링크 제공 사진.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "공식 사이트를 알아보는 법",
+        "paragraphs": [
+          "브라우저에 starlink.com을 직접 입력하세요. 정보를 입력하거나 결제하기 전에, 주소창이 여전히 starlink.com 안에 있는지 확인합니다.",
+          "한국 주문 화면에는 한국에서 발행한 카드로만 결제할 수 있다는 공지가 있었습니다. 메시지로 결제하라거나 주문 밖에서 송금하라는 요구를 받으면, 스타링크 지원에 먼저 확인하세요."
+        ]
+      },
+      {
+        "heading": "스타링크 이름을 쓰는 다른 프로필",
+        "paragraphs": [
+          "트러스트파일럿에는 스타링크 이름을 쓰는 다른 도메인의 프로필도 있습니다. ukstarlink.com과 starlink.om이 그렇고, 둘 다 starlink.com이 아닙니다. 평판을 확인할 때는 starlink.com을 가리키는 프로필을 쓰세요."
+        ]
+      },
+      {
+        "heading": "리셀러와 마켓플레이스",
+        "paragraphs": [
+          "스타링크는 공인 리셀러 목록을 운영합니다. 이름이 알려진 마켓플레이스라도 광고의 판매자를 확인하세요.",
+          "[스타링크 추천](/ko/coupons/starlink)은 starlink.com에서 링크로 직접 한 대상 주문에 적용됩니다. 리셀러에서 키트를 사는 경우에는 추가할 수 없습니다."
+        ]
+      },
+      {
+        "heading": "스타링크 이름을 쓰는 메시지",
+        "paragraphs": [
+          "스타링크 고객센터는 피싱 주의 안내를 공개합니다. 스타링크 이름을 쓴 광고나 메시지를 받으면, 개인정보를 주거나 결제하기 전에 starlink.com에서 같은 안내가 있는지 확인하세요."
+        ]
+      },
+      {
+        "heading": "트러스트파일럿이 보여 주는 것",
+        "paragraphs": [
+          "2026년 11월 20일 기준, starlink.com 프로필의 TrustScore는 1.6이었고, 이 프로필은 회사가 소유를 등록하지 않은(Unclaimed) 상태였습니다. [평점 분석 전체](/ko/reviews/starlink-trustpilot-ko)에 숫자와 가장 많은 불만이 있습니다."
+        ]
+      },
+      {
+        "heading": "결제 후 보관할 것",
+        "bullets": [
+          "주문 번호, 결제 화면에 나온 가격, 확인 이메일을 보관하세요. 차이가 있으면 사이트나 앱에서 지원에 문의하세요."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "스타링크는 믿을 만한가요? 스타링크는 스페이스X의 위성 인터넷 서비스입니다. starlink.com에서 주문하고, 이름을 쓰는 다른 도메인과 구별하세요.",
+          "스타링크 공식 사이트는 어디인가요? starlink.com입니다. 주소창에서 도메인을 확인하세요.",
+          "판매자가 공인인지 어떻게 확인하나요? 스타링크의 공인 리셀러 목록을 보고, 결제 전에 광고의 판매자를 확인하세요."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trustpilot-ko"
+      },
+      {
+        "slug": "starlink-referral-ko"
+      },
+      {
+        "slug": "starlink-worth-it-ko"
+      }
+    ]
+  },
+  {
+    "id": 1167,
+    "slug": "starlink-trustpilot-ko",
+    "locale": "ko",
+    "translationKey": "starlink-reputation",
+    "title": "스타링크 트러스트파일럿 평점: TrustScore 1.6과 가장 많은 불만",
+    "seoTitle": "스타링크 트러스트파일럿 평점과 불만",
+    "type": "평판 분석",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "starlink.com 프로필의 평점, 리뷰 분포, 최근 리뷰에서 가장 많이 나온 불만을 정리했습니다. 비슷한 이름의 다른 도메인 프로필을 구별하는 방법도 담았습니다.",
+    "metaDescription": "스타링크 트러스트파일럿 평점은 1.6, 리뷰 871건입니다. 별점 분포와 자주 나오는 불만, 다른 도메인 프로필 구별법을 확인하세요.",
+    "publishedAt": "2026년 11월 20일",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trustpilot-ko-capa.webp",
+    "imageAlt": "폭풍우 치는 하늘 아래 지붕에 설치된 스타링크 안테나와 번개. 표지에는 ‘트러스트파일럿: 평점’이라고 적혀 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "트러스트파일럿의 starlink.com 프로필은 TrustScore 1.6 ‘Bad’에 리뷰 871건이며, 5점이 17%, 1점이 71%입니다. 회사가 고객에게 리뷰를 요청한 기록이 없어 대표성이 낮을 수 있다고 트러스트파일럿이 표시합니다. 이 숫자는 한 플랫폼의 시점 값이니, 가입 전에 본인 주문 화면을 함께 읽으세요."
+        ]
+      },
+      {
+        "heading": "평점과 분포",
+        "paragraphs": [
+          "2026년 11월 20일에 읽은 프로필의 이름은 Starlink Development이고, 회사가 소유를 등록하지 않은 프로필(Unclaimed profile)이며 분류는 인터넷 서비스 제공업체입니다."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "지표",
+            "starlink.com 프로필"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "1.6 (Bad)"
+            ],
+            [
+              "리뷰 수",
+              "871건"
+            ],
+            [
+              "별 5개",
+              "17%"
+            ],
+            [
+              "별 4개",
+              "2%"
+            ],
+            [
+              "별 3개",
+              "3%"
+            ],
+            [
+              "별 2개",
+              "7%"
+            ],
+            [
+              "별 1개",
+              "71%"
+            ]
+          ],
+          "caption": "트러스트파일럿 프로필을 읽은 값입니다."
+        }
+      },
+      {
+        "heading": "리뷰를 어떻게 읽을까요",
+        "paragraphs": [
+          "트러스트파일럿은 이 회사가 고객에게 리뷰를 요청한 기록이 없다고 안내합니다. 이런 경우 리뷰는 전체 고객을 대표하지 않을 수 있습니다. 평점은 방향을 보는 참고로 쓰세요."
+        ]
+      },
+      {
+        "heading": "어느 프로필이 스타링크인가요",
+        "paragraphs": [
+          "웹사이트가 starlink.com으로 표시된 Starlink Development 프로필을 보세요. 비슷한 이름의 다른 프로필에는 다른 도메인이 표시됩니다."
+        ]
+      },
+      {
+        "heading": "가장 많이 나온 불만",
+        "paragraphs": [
+          "최근 리뷰 355건을 요약한 트러스트파일럿의 AI 요약에서 가장 흔한 불만은 연결되지 않는 지원(챗봇만 연결)이었습니다. 월 청구 금액 인상과 추가 비용도 언급되었습니다. 제품과 속도는 의견이 엇갈렸고, 연결이 빠르다고 칭찬하는 사람도 있었습니다. 저희는 개별 리뷰를 인용하지 않았습니다."
+        ]
+      },
+      {
+        "heading": "가입하는 사람에게 의미하는 것",
+        "paragraphs": [
+          "가입한다면 청구서를 매달 확인하고, 주문 화면에 나온 가격과 비교하세요. 요금제 변경, 취소, 일시 중지 때 프로모션 가격이 유지되는지는 본인 주문의 약관에서 확인하세요.",
+          "환불과 해지 규정은 [계약과 취소 가이드](/ko/reviews/starlink-cancel-ko)에 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "목조 주택 지붕에 설치된 스타링크 안테나",
+          "caption": "주택에 설치된 스타링크 안테나. 스타링크 제공 사진.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "가입 전에",
+        "paragraphs": [
+          "가입 전에 사이트와 조건을 확인하세요. 공식 사이트와 이름을 쓰는 프로필을 구별하는 방법은 [스타링크는 믿을 만한가요?](/ko/reviews/starlink-trust-ko)에 있습니다.",
+          "가입하려면 [스타링크 추천](/ko/coupons/starlink) 페이지에 링크와 프로그램 규정이 있습니다."
+        ]
+      },
+      {
+        "heading": "불만을 제기하려면",
+        "paragraphs": [
+          "스타링크 사이트나 앱에서 문의를 열고 접수 번호를 보관하세요. 청구 금액이 주문과 다르면 오퍼에 나온 금액과 청구서를 함께 보내세요. 평가를 남기고 싶다면 트러스트파일럿의 starlink.com 프로필을 이용하세요."
+        ],
+        "links": [
+          {
+            "label": "트러스트파일럿의 starlink.com 프로필",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "스타링크의 트러스트파일럿 평점은 얼마인가요? starlink.com 프로필은 TrustScore 1.6이고 리뷰는 871건입니다.",
+          "어느 프로필을 봐야 하나요? 도메인이 starlink.com인 프로필을 보세요. ukstarlink.com과 starlink.om은 다른 도메인입니다.",
+          "스타링크에 불만을 제기하려면 어떻게 하나요? 사이트나 앱에서 문의를 열고 접수 번호를 보관하세요. 문제가 계속되면 트러스트파일럿에도 남길 수 있습니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trust-ko"
+      },
+      {
+        "slug": "starlink-cancel-ko"
+      },
+      {
+        "slug": "starlink-worth-it-ko"
+      }
+    ]
+  },
+  {
+    "id": 1168,
+    "slug": "starlink-referral-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "starlink-indicacao",
+    "title": "Starlink 推薦連結怎麼用？獎勵何時入帳",
+    "seoTitle": "Starlink 推薦連結：用法與獎勵",
+    "type": "推薦碼指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "從官方網站開啟連結，付款前在訂購頁確認獎勵金額。了解誰能使用、獎勵何時入帳，以及服務抵免與現金的差別。",
+    "metaDescription": "了解如何開啟 Starlink 推薦連結、在訂購頁找到獎勵金額，並在符合計畫條件後領取獎勵。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-referral-zh-hant-capa.webp",
+    "imageAlt": "Starlink 天線安裝在屋頂上，背景是藍天。封面文字為「推薦連結」與「新用戶在此獲得獎勵，2 個月後入帳」。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "開啟 Starlink 推薦連結並輸入你的地址。付款前，先確認訂購頁顯示推薦已套用，並查看獎勵金額。這個計畫適用於新客戶，獎勵在服務完整計費兩個月後發放，形式為服務抵免，部分地區也提供現金。"
+        ]
+      },
+      {
+        "heading": "使用連結的步驟",
+        "paragraphs": [
+          "從[本站的 Starlink 推薦頁面](/zh-hant/coupons/starlink)開啟連結，輸入你要使用服務的地址。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "Starlink 天線安裝在木屋屋頂上",
+            "caption": "安裝好的住宅用天線。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "bullets": [
+          "在訂購頁選擇符合資格的住宅或旅行方案。",
+          "找到推薦已套用的提示，確認畫面上的獎勵金額與當天應付總額。",
+          "在 Starlink 官方網站完成訂購，並留意訂購頁寫明的各項費用。",
+          "啟用設備並查看第一期帳單。付清第一個月並啟用設備，都是推薦計畫的要求。"
+        ],
+        "postParagraphs": [
+          "付款前請再看一次。Starlink 說明，推薦必須出現在原始訂單上，事後補上無效。"
+        ]
+      },
+      {
+        "heading": "獎勵多少，何時入帳",
+        "paragraphs": [
+          "獎勵金額依你註冊時所在的國家而定，會直接顯示在訂購頁，所以我們不替你列出數字。推薦人也會獲得同樣的金額，形式為現金或服務抵免。",
+          "訂閱必須保持有效並按時付款，滿兩個完整計費週期。Starlink 說明中心指出，獎勵最早從啟用後 60 天起發放，實際時間依國家、帳戶與身分驗證而定。",
+          "預設形式是帳單抵免。如果你的帳戶提供現金，請用瀏覽器登入網站，在「推薦」頁面選擇獎勵方式，並完成身分與銀行資料驗證。"
+        ]
+      },
+      {
+        "heading": "誰可以使用",
+        "bullets": [
+          "訂閱者必須是新客戶。現有客戶或曾經的客戶不會獲得獎勵。",
+          "推薦人必須是住宅或旅行方案的有效客戶。優先、企業與商用方案不享有推薦獎勵。",
+          "訂閱者可選的方案以訂購頁顯示的住宅與旅行方案為準。"
+        ]
+      },
+      {
+        "heading": "Starlink 有優惠碼嗎？",
+        "paragraphs": [
+          "推薦是連結，沒有需要輸入的優惠碼。連結會把推薦資訊帶進訂購頁，付款前請找確認提示。",
+          "計畫只計入在 starlink.com 透過連結下的訂單。經銷商、電商平台購買與帳戶轉移都不在推薦範圍內。"
+        ]
+      },
+      {
+        "heading": "黑色星期五優惠怎麼配合？",
+        "paragraphs": [
+          "推薦獎勵是否和黑色星期五優惠同時顯示，依地址而異。請看[黑色星期五訂單怎麼算](/zh-hant/reviews/starlink-black-friday-zh-hant)，再用你的地址查看。"
+        ]
+      },
+      {
+        "heading": "如何追蹤",
+        "paragraphs": [
+          "在網站或應用程式的「推薦」頁面，可以查看透過你的連結訂閱的人的狀態。有人下單時，Starlink 會寄電子郵件通知。推薦在產生獎勵前，可能還要經過資格審查。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Starlink 推薦怎麼運作？在 starlink.com 透過連結下單，確認推薦已套用，啟用設備，並讓符合資格的服務保持有效、按時付款滿兩個完整計費週期。",
+          "Starlink 推薦獎勵是多少？金額依你註冊的國家而定，並會顯示在訂購頁。請以你自己的訂單畫面為準。",
+          "Starlink 獎勵何時入帳？說明中心指出，獎勵最早從啟用後 60 天起發放，前提是推薦符合計畫條件。",
+          "在電商平台買的設備可以用推薦嗎？不行。計畫要求直接在 starlink.com 透過連結購買。",
+          "我以前是客戶，還能用這個連結嗎？獎勵只給第一次訂閱 Starlink 的人。",
+          "推薦連結在各國都有效嗎？在 Starlink 銷售的多數國家有效，金額依國家而不同。請輸入你的地址，並以訂購頁顯示為準。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "付款前，先在訂購頁確認你的地址適用的獎勵金額。",
+      "label": "在訂單上查看推薦獎勵",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-black-friday-zh-hant"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hant"
+      },
+      {
+        "slug": "starlink-cancel-zh-hant"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1169,
+    "slug": "starlink-black-friday-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "starlink-black-friday",
+    "title": "Starlink 黑色星期五 2026：首單怎麼算，推薦獎勵何時入帳",
+    "seoTitle": "Starlink 黑色星期五 2026：首單怎麼算",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "看 Starlink 黑色星期五優惠如何落在你的地址、推薦獎勵何時入帳，以及用訂購頁的金額算出首單淨成本。",
+    "metaDescription": "Starlink 黑色星期五優惠依地址而異。看首單怎麼算、推薦獎勵何時入帳，以及如何在訂購頁確認。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-black-friday-zh-hant-capa.webp",
+    "imageAlt": "Starlink 天線架在黃昏時分的小木屋屋頂上。封面文字為「黑色星期五 2026」與「依地址查看優惠」。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "首單淨成本等於訂購頁當天應付總額，減去推薦畫面顯示的獎勵。獎勵要等服務完整計費兩個月後才發放，在那之前，到期的月費仍要照付。只有把你地址的金額代入才知道成本是否接近零，因為優惠依地址而異。"
+        ]
+      },
+      {
+        "heading": "首單怎麼算",
+        "paragraphs": [
+          "折扣比例、適用月數和設備費用因市場及服務地址而異。請先在 Starlink 官網輸入安裝地址，確認當地是否提供服務，再查看有沒有適用的優惠和申請期限。",
+          "先把當天應付總額和獎勵入帳前到期的月費加起來。已列在當天總額的費用只算一次。如果訂購符合推薦資格，再扣除可獲得的獎勵。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "要記下的項目",
+            "在訂購頁哪裡看"
+          ],
+          "rows": [
+            [
+              "當天應付總額",
+              "訂購頁的當天應付總額"
+            ],
+            [
+              "硬體是租賃還是購買",
+              "設備一欄的費用與取消條件"
+            ],
+            [
+              "月費與優惠期",
+              "所選方案旁的價格說明"
+            ],
+            [
+              "推薦獎勵金額",
+              "推薦已套用的提示"
+            ],
+            [
+              "優惠截止日",
+              "橫幅與訂購頁的活動說明"
+            ]
+          ],
+          "caption": "以你自己地址的訂購頁為準。"
+        },
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+            "alt": "Starlink 標準天線與路由器",
+            "caption": "Starlink 天線與路由器。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.3316
+          }
+        ]
+      },
+      {
+        "heading": "訂購頁怎麼看",
+        "paragraphs": [
+          "開啟連結，輸入要安裝天線的地址，選擇方案，再找推薦已套用的提示。確認提示出現後，再查看獎勵金額與優惠說明。",
+          "從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結，並看該頁的計畫規則。"
+        ]
+      },
+      {
+        "heading": "推薦他人的獎勵",
+        "paragraphs": [
+          "訂閱之後，你也可以推薦別人。推薦人獲得同樣的金額，形式為現金或服務抵免。被推薦的人需要完成要求的計費週期，獎勵才會發放。",
+          "細節見[推薦連結怎麼用](/zh-hant/reviews/starlink-referral-zh-hant)。實際金額請在你的帳戶中確認。"
+        ]
+      },
+      {
+        "heading": "你的地址適用嗎？",
+        "paragraphs": [
+          "優惠依地址顯示，同一國家的不同地區也可能不同。有些地區標示「僅限部分區域」。換地址重新查一次，看橫幅與訂購頁是否一致。"
+        ]
+      },
+      {
+        "heading": "合約與設備歸還",
+        "paragraphs": [
+          "請在訂購頁確認硬體是租賃或購買、取消時是否須歸還、退回設備的期限，以及哪些費用可退款。",
+          "更多取消規則見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "優惠期結束之後",
+        "paragraphs": [
+          "優惠期結束後，月費通常回到你所在地區的標準價格，這個價格可能調整。更換方案、取消或暫停後促銷價會怎樣，以你自己訂單上的條款為準。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Starlink 有黑色星期五優惠嗎？部分市場及地址有優惠。請在官網輸入安裝地址，查看訂購頁是否顯示活動。",
+          "推薦獎勵能和優惠一起拿嗎？是否同時顯示，請看你地址的訂購頁。獎勵要等符合資格並完整計費兩個月後發放。",
+          "訂購時要付多少？以訂購頁的當天應付總額為準，金額因國家、設備與安裝方式不同。",
+          "硬體有綁約嗎？依地區，硬體可能租賃或購買，請看設備一欄的條款。",
+          "優惠到什麼時候？請以你所在市場的訂購頁為準，分別查看申請截止日和優惠價適用多久。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "訂購頁會在 starlink.com 開啟。付款前，先查看你地址的優惠、合約與推薦獎勵。",
+      "label": "查看我的地址的優惠",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-zh-hant"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hant"
+      },
+      {
+        "slug": "starlink-cancel-zh-hant"
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  {
+    "id": 1170,
+    "slug": "starlink-worth-it-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "starlink-vale-a-pena",
+    "title": "Starlink 值得買嗎？12 個月成本怎麼算，適合哪些人",
+    "seoTitle": "Starlink 值得買嗎？12 個月成本",
+    "type": "購買指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "比較 Starlink 十二個月的總成本與你家現有的網路。看設備、合約如何依地址而異，以及怎麼確認天線的安裝位置。",
+    "metaDescription": "Starlink 值得買嗎？十二個月成本怎麼算、設備與合約依地址不同，以及什麼情況下光纖或 4G 更划算。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-worth-it-zh-hant-capa.webp",
+    "imageAlt": "Starlink 天線固定在房屋屋簷，背景是群山。封面文字為「值得買嗎？」與「在家上網」。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "在缺少穩定網路的鄉間住家，Starlink 可能值得。如果已經有可靠的光纖，換之前先比較十二個月的總成本：把設備加上你地址的月費，確認有沒有合約，再用 Starlink 應用程式評估天線能裝在哪裡。"
+        ]
+      },
+      {
+        "heading": "十二個月成本怎麼算",
+        "paragraphs": [
+          "價格依國家與地址而異，這裡不列金額。請在 starlink.com 輸入你的地址，把訂購頁的數字填進下表。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "成本項目",
+            "你要確認的事"
+          ],
+          "rows": [
+            [
+              "設備",
+              "租賃還是購買，取消時是否須歸還"
+            ],
+            [
+              "月費",
+              "所選方案的月費，以及促銷價維持幾個月"
+            ],
+            [
+              "安裝",
+              "自行安裝，還是另付專業安裝"
+            ],
+            [
+              "合約",
+              "訂購頁是否要求最短期限或提前退出的費用"
+            ],
+            [
+              "優惠",
+              "當天應付總額，以及推薦獎勵何時入帳"
+            ]
+          ],
+          "caption": "把設備加上十二個月月費，並先不計推薦獎勵。"
+        },
+        "postParagraphs": [
+          "先在不含推薦獎勵的情況下算，再看獎勵能抵多少。獎勵說明見[推薦連結指南](/zh-hant/coupons/starlink)。"
+        ]
+      },
+      {
+        "heading": "天線裝在哪裡",
+        "paragraphs": [
+          "購買前，先選一個天空視野開闊的位置。樹枝與屋頂擋在視線內，可能造成中斷。請到預定位置，用 Starlink 應用程式檢查障礙物。"
+        ],
+        "links": [
+          {
+            "label": "如何用應用程式檢查障礙物",
+            "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+            "alt": "裝有 Starlink 天線的屋頂",
+            "caption": "天空開闊的屋頂天線。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.4995
+          }
+        ]
+      },
+      {
+        "heading": "什麼時候該和光纖或 4G 比較",
+        "paragraphs": [
+          "如果已經有穩定的光纖，請把每個方案的安裝費、月費與可能的合約加起來比較。4G 則要加上你需要的設備費用，並確認流量夠全家使用。"
+        ]
+      },
+      {
+        "heading": "速度與遊戲",
+        "paragraphs": [
+          "住宅方案標示下載速度，但實際表現會因地點與時段而異。玩線上遊戲時，也要看延遲與中斷。",
+          "Starlink 在規格頁公布陸地上的典型延遲為 25 到 60 毫秒。這是官方參考值，我們沒有在訂購地址實測。"
+        ],
+        "links": [
+          {
+            "label": "Starlink 效能規格",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "合約與退出",
+        "paragraphs": [
+          "在訂購頁確認硬體是租賃或購買、取消時是否須歸還，以及當地的退款條件。詳見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "用戶的抱怨",
+        "paragraphs": [
+          "Starlink 在 Trustpilot 的評分偏低，最常見的抱怨是客服難以聯絡，以及月費與額外費用上漲。請保留訂購頁的優惠畫面，和帳單對照。詳見[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "我們目前的使用經驗",
+        "paragraphs": [
+          "我們已經訂閱 Starlink，但還沒有使用經驗。速度、安裝與日常品質，會在有了之後更新到本文。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "住在市區值得買 Starlink 嗎？如果地址已有穩定光纖，換之前請比較安裝費、月費與合約。",
+          "Starlink 比光纖好嗎？沒有好光纖的地方，值得詢價並確認天空是否開闊。兩者都有時，比較你地址的穩定度與成本。",
+          "Starlink 適合玩遊戲嗎？請在你的地址測試延遲與中斷。官方公布的典型延遲只是一般參考。",
+          "Starlink 流量沒有上限嗎？Starlink 標示住宅方案流量不限。請看訂購頁的方案速度限制。",
+          "Starlink 一個月多少錢？依國家與地址而異。請輸入你的地址，以訂購頁顯示的價格為準。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你的地址沒有好的光纖，4G 訊號也不理想。",
+        "你接受訂購頁寫明的合約條件，也知道價格依地址而變。"
+      ],
+      "skipIf": [
+        "你的地址已有穩定光纖，不必另外負擔設備或合約。",
+        "你需要反應很快的線上遊戲，而官方公布的延遲只是參考值，沒有你地址的實測。"
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在 Starlink 官方網站輸入地址，付款前先確認方案、設備與月費。",
+      "label": "查看我的地址的方案",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-zh-hant"
+      },
+      {
+        "slug": "starlink-black-friday-zh-hant"
+      },
+      {
+        "slug": "starlink-referral-zh-hant"
+      }
+    ]
+  },
+  {
+    "id": 1171,
+    "slug": "starlink-cancel-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "starlink-fidelidade",
+    "title": "Starlink 有合約嗎？取消服務、歸還設備與退款",
+    "seoTitle": "Starlink 有合約嗎？取消與退款",
+    "type": "實用指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "查看 Starlink 訂購頁的合約與設備條件、如何取消訂閱，以及歸還或退款前要確認哪些費用。",
+    "metaDescription": "確認 Starlink 訂購頁的綁約、設備歸還及退款條件，並查看如何取消訂閱。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-cancel-zh-hant-capa.webp",
+    "imageAlt": "Starlink 天線立在雪地的木屋前，有人在屋內工作。封面文字為「合約與取消」。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink 的合約和設備條件因地區而異。訂購前請確認是否有最低合約期限、硬體是租賃或購買，以及取消時是否須歸還。退款金額、起算日期和設備歸還期限，請以你所在地的訂購條款為準。"
+        ]
+      },
+      {
+        "heading": "有沒有綁約",
+        "paragraphs": [
+          "我們在 2026 年 11 月 20 日查看了多個國家的官方訂購頁。有的寫明硬體租賃、取消時須歸還，有的寫明無合約，也有的是硬體購買。",
+          "所以沒有一個適用所有地區的答案。付款前，請在你地址的訂購頁找設備一欄，看費用與取消條件。從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結即可。"
+        ]
+      },
+      {
+        "heading": "歸還與退款條件",
+        "paragraphs": [
+          "先在訂購頁確認歸還的起算日期、期限和設備狀態要求。設備、首月訂閱費與運費是否可退，請看你所在地的訂購條款。",
+          "取消訂閱只會停止後續扣款。請透過 Starlink 客服確認如何一併辦理設備歸還，並保存寄送憑證。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Starlink 標準套件：天線、路由器、底座與線材",
+            "caption": "歸還時要送回的套件：天線、路由器、底座與線材。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "如何取消",
+        "paragraphs": [
+          "在帳戶首頁開啟「你的訂閱」，點方案旁的「管理」，再選「取消服務」。介面名稱以你的語言版本為準。",
+          "要避開下一個週期，請在扣款日 00:00 UTC 之前完成變更。依說明中心，服務會維持到已付費期間結束。"
+        ],
+        "bullets": [
+          "登入 Starlink 帳戶，在首頁選擇「你的訂閱」。",
+          "點方案旁的「管理」，再選「取消服務」。",
+          "計費依 UTC 時間。變更必須在扣款日 00:00 UTC 之前完成，否則只對下一個週期生效。",
+          "服務維持到已付費的日期，之後不再扣款。",
+          "變更生效前改變主意，可以在首頁頂端的提示中選「恢復」。",
+          "取消後可能無法立刻重新啟用，要看你所在地區的供應情況。"
+        ],
+        "postParagraphs": [
+          "取消服務不會自動歸還設備。請在帳戶中確認是否還須另外申請歸還。"
+        ]
+      },
+      {
+        "heading": "促銷價與更換方案",
+        "paragraphs": [
+          "取消、更換方案或暫停後促銷價會怎樣，以你自己訂單上的條款為準。標準價格可能調整。"
+        ]
+      },
+      {
+        "heading": "取消後仍被扣款",
+        "paragraphs": [
+          "如果取消後仍被扣款，請聯絡 Starlink，附上訂單編號、取消日期，以及案件編號（如果有）。如果你不認得這筆交易，也可以聯絡發卡銀行。口碑背景可看[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Starlink 有合約嗎？依地區不同。請在你地址的訂購頁，看設備一欄是租賃、購買，還是標示無合約。",
+          "Starlink 隨時可以取消嗎？可以在帳戶中提出取消。如果你的訂單有合約，提前退出前請先看適用的條件。",
+          "取消後要歸還硬體嗎？訂購頁寫明租賃的地區，取消時須歸還。設備是購買的地區則依訂單條款。",
+          "可以歸還設備並退款嗎？請查看訂購條款，確認所在地的歸還期限、設備條件及可退款項。",
+          "取消後服務還能用嗎？服務維持到已付費期間結束，之後不再扣款。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-worth-it-zh-hant"
+      },
+      {
+        "slug": "starlink-black-friday-zh-hant"
+      },
+      {
+        "slug": "starlink-trustpilot-zh-hant"
+      }
+    ]
+  },
+  {
+    "id": 1172,
+    "slug": "starlink-trust-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "starlink-trust-guide",
+    "title": "Starlink 可靠嗎？如何找到官方網站，並確認誰在賣",
+    "seoTitle": "Starlink 可靠嗎？官方網站與詐騙",
+    "type": "編輯專題",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "starlink.com 是官方網站，授權零售商清單可以幫你確認賣家。看付款前該核對什麼，以及哪些同名網站和檔案不是官方。",
+    "metaDescription": "看如何認出 Starlink 官方網站 starlink.com、查詢授權零售商清單，並分辨 Trustpilot 上的同名檔案。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trust-zh-hant-capa.webp",
+    "imageAlt": "Starlink 天線裝在固定於木結構的支架上。封面文字為「可靠嗎？」。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink 是 SpaceX 的衛星網路服務，官方網站是 starlink.com。如果在網站以外購買設備，請查看 Starlink 的授權零售商清單，付款前先確認賣家是誰。"
+        ]
+      },
+      {
+        "heading": "Starlink 是誰，誰在賣",
+        "paragraphs": [
+          "Starlink 透過官方網站銷售。看到名稱相似的網站，先看網址是否為 starlink.com。",
+          "[Starlink 值得買嗎](/zh-hant/reviews/starlink-worth-it-zh-hant)說明如何比較成本、安裝與其他選擇。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+            "alt": "Starlink 標準天線與路由器",
+            "caption": "Starlink 天線與路由器。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.3316
+          }
+        ]
+      },
+      {
+        "heading": "如何認出官方網站",
+        "paragraphs": [
+          "在瀏覽器直接輸入 starlink.com。輸入資料或付款前，確認網址列仍停在 starlink.com 之內。",
+          "如果有人要求你透過訊息付款，或在訂單之外付款，請先到官方客服確認。"
+        ]
+      },
+      {
+        "heading": "Trustpilot 上哪個才是 Starlink？",
+        "paragraphs": [
+          "Trustpilot 上網域為 starlink.com 的檔案叫「Starlink Development」，尚未被公司認領。另外有名為「Uk Starlink」（ukstarlink.com）和「Starlink」（starlink.om）的檔案，它們是其他網域，不是 starlink.com。",
+          "查口碑時，請認準網域是 starlink.com 的那一個。"
+        ]
+      },
+      {
+        "heading": "經銷商與電商平台",
+        "paragraphs": [
+          "Starlink 有一份授權零售商清單。即使在知名的電商平台，也要看賣家是誰。",
+          "[Starlink 推薦](/zh-hant/coupons/starlink)適用於直接在 starlink.com 透過連結下的符合資格訂單，無法加到零售通路的設備購買上。"
+        ]
+      },
+      {
+        "heading": "使用 Starlink 名義的訊息",
+        "paragraphs": [
+          "Starlink 說明中心有網路釣魚的提醒。收到以 Starlink 名義發出的廣告或訊息時，請先到 starlink.com 確認，再提供資料或付款。"
+        ]
+      },
+      {
+        "heading": "Trustpilot 顯示了什麼",
+        "paragraphs": [
+          "官方網域的 Trustpilot 檔案評分偏低，而且 Trustpilot 註明公司沒有邀請客戶留評價。完整數字見[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "購買後要保存什麼",
+        "bullets": [
+          "保存訂單編號、結帳時顯示的價格，以及確認郵件。如果與帳單不符，請透過網站或應用程式聯絡客服。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Starlink 可靠嗎？Starlink 是 SpaceX 的衛星網路服務。請確認網址是 starlink.com，並用官方的授權零售商清單確認賣家。",
+          "Starlink 的官方網站是什麼？是 starlink.com。請在瀏覽器直接輸入。",
+          "怎麼確認賣家有授權？查看 Starlink 的授權零售商清單，並在付款前核對賣家名稱。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trustpilot-zh-hant"
+      },
+      {
+        "slug": "starlink-referral-zh-hant"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hant"
+      }
+    ]
+  },
+  {
+    "id": 1173,
+    "slug": "starlink-trustpilot-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "starlink-reputation",
+    "title": "Starlink 在 Trustpilot 的評分：1.6 分，以及最常見的抱怨",
+    "seoTitle": "Starlink Trustpilot 評分與抱怨",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "看 Starlink 在 Trustpilot 的評分、評價數與星等分布，以及最常見的抱怨。附上怎麼辨認官方檔案與提出投訴。",
+    "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 為 1.6，共 871 則評價。看星等分布、最常見的抱怨與怎麼投訴。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trustpilot-zh-hant-capa.webp",
+    "imageAlt": "Starlink 天線裝在暴風雨天空下的屋頂上，背景有閃電。封面文字為「Trustpilot：評分」。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink 在 Trustpilot 的 TrustScore 是 1.6，共有 871 則評價，其中 71% 是一星。這個檔案尚未被公司認領，Trustpilot 也註明公司沒有邀請客戶留評價，所以數字不一定代表全體客戶。查詢時請認準網域為 starlink.com 的檔案。"
+        ]
+      },
+      {
+        "heading": "評分與星等分布",
+        "paragraphs": [
+          "我們在 2026 年 11 月 20 日讀取了網域為 starlink.com 的檔案，類別為網路服務供應商。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "指標",
+            "Trustpilot 檔案"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "1.6，等級為「Bad」"
+            ],
+            [
+              "評價總數",
+              "871"
+            ],
+            [
+              "一星",
+              "71%"
+            ],
+            [
+              "二星",
+              "7%"
+            ],
+            [
+              "三星",
+              "3%"
+            ],
+            [
+              "四星",
+              "2%"
+            ],
+            [
+              "五星",
+              "17%"
+            ]
+          ],
+          "caption": "讀取自網域為 starlink.com 的 Trustpilot 檔案。"
+        },
+        "links": [
+          {
+            "label": "Trustpilot 上的 Starlink 檔案",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
+        ]
+      },
+      {
+        "heading": "怎麼讀這些數字",
+        "paragraphs": [
+          "檔案尚未被認領，Trustpilot 並註明公司沒有邀請客戶留評價。Trustpilot 提醒，這種情況下的評價不一定具代表性。",
+          "評分只是某一時點的紀錄，也不是服務品質的測量。它可以當作提醒，但不能取代你在訂購頁讀到的條件。"
+        ]
+      },
+      {
+        "heading": "如何辨認公司的檔案",
+        "paragraphs": [
+          "請看網域是 starlink.com 的那一個。同一頁還有「Uk Starlink」（ukstarlink.com）和「Starlink」（starlink.om）兩個檔案，它們的網域不是 starlink.com。"
+        ]
+      },
+      {
+        "heading": "最常見的抱怨",
+        "paragraphs": [
+          "Trustpilot 對近期評價做的摘要指出，最常見的抱怨是只能找到聊天機器人、難以聯絡到真人客服，其次是月費上漲與額外費用。產品與速度的評價則好壞參半，有些人稱讚連線快。"
+        ]
+      },
+      {
+        "heading": "對訂閱者意味著什麼",
+        "paragraphs": [
+          "訂閱後請每個月核對帳單，並和訂購頁的價格比較。促銷價在更換方案、取消或暫停後會怎樣，以你自己訂單上的條款為準。",
+          "合約與取消的規則見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "Starlink 天線安裝在木屋屋頂上",
+            "caption": "安裝好的住宅用天線。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ]
+      },
+      {
+        "heading": "訂閱之前",
+        "paragraphs": [
+          "訂閱前，先確認網站和條款。如何認出官方網站，見[Starlink 可靠嗎](/zh-hant/reviews/starlink-trust-zh-hant)。",
+          "要訂閱的話，[本站的 Starlink 頁面](/zh-hant/coupons/starlink)有連結與計畫規則。"
+        ]
+      },
+      {
+        "heading": "如何投訴",
+        "paragraphs": [
+          "請在 Starlink 網站或應用程式開立客服案件，並保存案件編號。如果帳單與訂購頁不符，請附上訂購頁的金額與帳單。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Starlink 在 Trustpilot 的評分是多少？網域為 starlink.com 的檔案，TrustScore 為 1.6，共 871 則評價。",
+          "我該看哪個 Starlink 檔案？請看網域為 starlink.com 的那一個，另有兩個網域不同的同名檔案。",
+          "怎麼向 Starlink 投訴？請透過網站或應用程式開立客服案件並保存案件編號。如果問題持續，可以到 Trustpilot 留下評價。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trust-zh-hant"
+      },
+      {
+        "slug": "starlink-cancel-zh-hant"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hant"
+      }
+    ]
+  },
+  {
+    "id": 1174,
+    "slug": "starlink-referral-zh-hans",
+    "translationKey": "starlink-indicacao",
+    "locale": "zh-hans",
+    "title": "Starlink 推荐链接怎么用，奖励什么时候到账",
+    "seoTitle": "Starlink 推荐链接：用法与奖励到账时间",
+    "type": "推荐码指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "在官网打开推荐链接，付款前先在订单里确认奖励金额。了解谁能使用、奖励何时发放，以及选择服务抵扣还是现金。",
+    "metaDescription": "了解如何打开 Starlink 推荐链接、在订单里确认奖励金额，并在满足计划条件后拿到奖励。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-referral-zh-hans-capa.webp",
+    "imageAlt": "屋顶上安装的 Starlink 天线，背景是蓝天。封面写着“推荐链接”和“新用户在此订购，满 2 个月后获得奖励”。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "打开 Starlink 推荐链接，输入你的地址。付款前，先找到推荐码已应用的提示，并在订单里确认奖励金额。该计划面向新用户，奖励在满两个完整计费周期后发放，形式是服务抵扣，部分国家还提供现金。"
+        ]
+      },
+      {
+        "heading": "推荐链接使用步骤",
+        "paragraphs": [
+          "在[Starlink 推荐页面](/zh-hans/coupons/starlink)打开链接，输入你要使用服务的地址。"
+        ],
+        "bullets": [
+          "在订单中选择符合条件的家用或旅行套餐。",
+          "找到“推荐码已应用”的提示，核对奖励金额和当天应付总额。",
+          "在 Starlink 官网完成订购。",
+          "激活套件，并留意第一张账单。支付首月费用并激活设备，都是推荐计划的条件。"
+        ],
+        "postParagraphs": [
+          "付款前再确认一次。Starlink 说明，推荐必须出现在最初的订单里。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "房屋屋顶上安装好的 Starlink 天线",
+          "caption": "天线装在屋顶，视野开阔。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "奖励有多少，什么时候到账",
+        "paragraphs": [
+          "金额取决于你注册所在的国家，并显示在订单和账户里，所以请以你自己的订单为准，我们不替你估一个数。推荐人也会拿到同样的奖励，形式是现金或服务抵扣。",
+          "订阅需要保持有效并按时付款，满两个完整计费周期。帮助中心说明，发放最早可在激活后 60 天开始，具体取决于国家、账户和身份验证。",
+          "默认方式是抵扣账单。如果你的账户提供现金方式，请在浏览器里打开网站的“推荐”页面，选择奖励方式，并完成身份验证和收款设置。"
+        ]
+      },
+      {
+        "heading": "谁可以使用",
+        "bullets": [
+          "订阅者必须是新用户。现有客户或曾经的客户拿不到奖励。",
+          "推荐人必须是家用或旅行套餐的有效用户。优先级、企业和商用套餐没有推荐奖励。",
+          "适用的套餐以订单页面列出的家用和旅行套餐为准。"
+        ]
+      },
+      {
+        "heading": "Starlink 有优惠码吗？",
+        "paragraphs": [
+          "没有要输入的码。推荐走的是链接，链接会把推荐信息带进订单，你只需要在付款前看到确认提示。",
+          "推荐计划只记录在 starlink.com 通过链接下的订单。通过经销商、电商平台购买，或转让账户，都不算。"
+        ]
+      },
+      {
+        "heading": "黑色星期五优惠能同时用吗？",
+        "paragraphs": [
+          "推荐奖励是否和黑色星期五优惠同时显示，取决于地址。请先看[Starlink 黑色星期五的算法](/zh-hans/reviews/starlink-black-friday-zh-hans)，再用你的地址确认。"
+        ]
+      },
+      {
+        "heading": "如何追踪",
+        "paragraphs": [
+          "在网站或应用的“推荐”页，可以看到通过你的链接订购的人处于什么状态。有人下单时，Starlink 会发邮件通知你。一笔推荐在产生奖励之前，可能要先通过资格审核。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Starlink 推荐计划怎么运作？通过链接在 starlink.com 下单，确认推荐已应用，激活套件，并让符合条件的服务保持有效，满两个完整计费周期。",
+          "Starlink 推荐奖励是多少？金额取决于你注册所在的国家，并显示在订单和账户里。请在付款前核对你自己的订单。",
+          "奖励什么时候到账？帮助中心说明，发放最早可在激活后 60 天开始，前提是满足计划条件。",
+          "在电商平台买的套件能用推荐吗？不能。计划要求直接在 starlink.com 通过链接下单。",
+          "我以前是客户，还能用链接吗？奖励只给第一次订阅 Starlink 的新用户。",
+          "推荐人也有奖励吗？有。推荐人拿到同样的奖励，形式是现金或服务抵扣。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在付款前，先在订单里确认你所在地址的奖励金额。",
+      "label": "在订单里查看推荐",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-black-friday-zh-hans"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hans"
+      },
+      {
+        "slug": "starlink-cancel-zh-hans"
+      }
+    ]
+  },
+  {
+    "id": 1175,
+    "slug": "starlink-black-friday-zh-hans",
+    "translationKey": "starlink-black-friday",
+    "locale": "zh-hans",
+    "title": "Starlink 2026 黑色星期五：先算清首单，再看推荐奖励",
+    "seoTitle": "Starlink 2026 黑色星期五优惠怎么算",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Starlink 的年末优惠按地址显示。看看首单当天要付多少、推荐奖励何时到账，以及怎样在官网订单里确认你的地址有没有。",
+    "metaDescription": "在 Starlink 官网输入安装地址，查看当地是否有黑色星期五优惠、当天应付总额，以及推荐奖励的适用条件。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-black-friday-zh-hans-capa.webp",
+    "imageAlt": "黄昏时小木屋屋顶上的 Starlink 天线。封面写着“黑色星期五 2026”和“按地址查看优惠”。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink 的黑色星期五优惠依服务地址而定。先在官网查看当地是否有优惠，再核对当天应付额、月费和设备费用。如果订单显示推荐奖励，请确认适用条件和发放时间。"
+        ]
+      },
+      {
+        "heading": "不同国家的优惠不一样",
+        "paragraphs": [
+          "我们查看了多个市场的订单页。折扣、期限和设备费用各有不同。请先在 Starlink 官网输入安装地址，查看当地是否提供服务及当时适用的优惠。",
+          "你要做的是打开官网，输入你要安装的地址，再看订单页显示的优惠、套件费用和当天应付总额。"
+        ]
+      },
+      {
+        "heading": "首单怎么算",
+        "paragraphs": [
+          "先记下当天应付总额，再加上奖励发放前应付的月费。已经计入当天总额的款项只算一次。订单符合推荐条件时，再从这笔支出中扣除奖励。",
+          "奖励满两个完整计费周期才发放，期间你还要照常支付到期的月费。"
+        ],
+        "bullets": [
+          "当天应付：订单页上的当天应付总额。",
+          "之后的月费：订单页上所选套餐的月费，注意优惠期限。",
+          "推荐奖励：订单里带推荐提示的那一行，金额因国家而异。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "房屋屋顶上安装好的 Starlink 天线",
+          "caption": "装好的家用天线。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "推荐奖励怎么进入这笔账",
+        "paragraphs": [
+          "通过推荐链接订购后，订单里会出现“推荐码已应用”的提示。奖励发放最早在激活后 60 天，形式是服务抵扣，部分国家还提供现金。推荐人也会拿到同样的奖励。",
+          "详细规则见[Starlink 推荐链接的用法](/zh-hans/reviews/starlink-referral-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "优惠有没有在你的地址上",
+        "paragraphs": [
+          "优惠只在选定地区显示，两个地址的订单页可能不同。输入你的地址再看，别用别人的截图判断。"
+        ]
+      },
+      {
+        "heading": "套件和退货",
+        "paragraphs": [
+          "在部分国家，套件按租用提供，取消服务时要退回；在另一些国家，套件需要购买。订单页会写明是哪一种。",
+          "在订单页确认退回期限、设备状态要求和可退费用。合约和操作步骤见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "优惠结束以后",
+        "paragraphs": [
+          "促销期结束后，月费会变成你所在地区的标准价格。标准价格可能调整。更换套餐、取消或暂停后促销价会怎样，以你自己订单里的条款为准。我们没有读到各国促销期之后的价格，所以不替你预估。"
+        ]
+      },
+      {
+        "heading": "如何使用链接",
+        "paragraphs": [
+          "打开链接，输入要安装天线的地址。选好套餐，确认推荐已应用，并在付款前保存订单里显示的优惠。",
+          "链接和规则也在[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Starlink 有黑色星期五优惠吗？部分市场和地址有优惠。输入安装地址，查看订单页是否显示活动。",
+          "推荐奖励能和优惠叠加吗？是否同时显示，请看你地址的订单页。奖励取决于资格，并要满两个完整计费周期。",
+          "订单当天要付多少？以订单页的当天应付总额为准，因国家和所选套餐而异。",
+          "活动到什么时候？请在你所在市场的订单页查看申请截止日和优惠价的适用期限。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "链接会打开 Starlink 官网。付款前请确认套餐、套件费用和推荐奖励。",
+      "label": "查看我所在地址的优惠",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-zh-hans"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hans"
+      },
+      {
+        "slug": "starlink-cancel-zh-hans"
+      }
+    ]
+  },
+  {
+    "id": 1176,
+    "slug": "starlink-worth-it-zh-hans",
+    "translationKey": "starlink-vale-a-pena",
+    "locale": "zh-hans",
+    "title": "Starlink 值得买吗？12 个月的账怎么算，适合谁",
+    "seoTitle": "Starlink 值得买吗？12 个月的账",
+    "type": "购买指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "把 Starlink 的 12 个月总成本，和你家已经有的网络放在一起比较。看看套件、月费、合约和天线安装位置怎么确认。",
+    "metaDescription": "Starlink 值得买吗？套件加 12 个月月费怎么算、适合哪些家庭，以及什么时候光纤或 4G 更合适。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-worth-it-zh-hans-capa.webp",
+    "imageAlt": "固定在房屋屋檐上的 Starlink 天线，背景是群山。封面问“值得买吗？”，下面写着“家用网络”。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "在没有稳定网络的乡村住宅，Starlink 可能值得买。如果家里已经有可靠的光纤，换之前先比较 12 个月的总成本：套件加上你所在地址的月费，再看有没有合约，并用 Starlink 应用确认天线能装在哪里。"
+        ]
+      },
+      {
+        "heading": "12 个月要花多少",
+        "paragraphs": [
+          "价格因国家和地址而异，中文版没有固定的参考国家，所以我们不列数字。下面这张表列出你需要从订单页读出的几项。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "要加总的项目",
+            "在哪里看"
+          ],
+          "rows": [
+            [
+              "套件",
+              "订单页的“硬件”。在有些国家是租用，在有些国家要购买"
+            ],
+            [
+              "月费",
+              "订单页所选套餐，注意优惠期限"
+            ],
+            [
+              "安装",
+              "订单页可选的专业安装，单独列价"
+            ],
+            [
+              "优惠期结束后",
+              "订单页如果没写，就按标准价格另行确认"
+            ]
+          ],
+          "caption": "把套件和 12 个月的月费加起来，再减去优惠。算的时候先不要计入推荐奖励。"
+        },
+        "postParagraphs": [
+          "先不含奖励算一遍，再看订单里带推荐链接时显示的奖励，满足规则之后才会发放。见[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
+        ]
+      },
+      {
+        "heading": "天线装在哪里",
+        "paragraphs": [
+          "购买前，先选一个能看到开阔天空的位置。视野里的树枝和屋顶可能造成中断。到打算装天线的位置打开 Starlink 应用，做障碍物检查。"
+        ],
+        "links": [
+          {
+            "label": "如何用应用检查障碍物",
+            "href": "https://starlink.com/en-150/support/article/bcbf0078-be81-d345-4bce-ebbcfa196f56"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "房屋屋顶上安装好的 Starlink 天线",
+          "caption": "天线装在屋顶，视野开阔。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "什么时候和光纤或 4G 比较",
+        "paragraphs": [
+          "如果已经有稳定的光纤，就把各家方案的安装费、月费和可能的合约加起来比较。对 4G，要加上你需要买的设备，并确认流量够全家用。"
+        ]
+      },
+      {
+        "heading": "速度与游戏",
+        "paragraphs": [
+          "家用套餐会标注下载速度，但实际表现会因地点和时段而不同。玩在线游戏时，还要看延迟和中断。",
+          "Starlink 在规格说明里给出陆地上的典型延迟为 25 至 60 毫秒。这是公司给的参考，我们没有在订单地址实测。"
+        ],
+        "links": [
+          {
+            "label": "Starlink 性能规格",
+            "href": "https://starlink.com/legal/documents/DOC-1414-37800-64"
+          }
+        ]
+      },
+      {
+        "heading": "合约与退出",
+        "paragraphs": [
+          "在订单里核对是否有合约、套件是否须归还，以及退回和退款的条件。具体步骤见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "用户抱怨什么",
+        "paragraphs": [
+          "Starlink 在 Trustpilot 上的评分是 1.6，共 871 条评价，我们读到的集中抱怨是客服难联系和费用上涨。这个页面的评价未必有代表性。见[Trustpilot 评价解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "我们的使用体验",
+        "paragraphs": [
+          "我们已经订购了 Starlink，但还没有使用体验。速度、安装和日常稳定性，会在有了之后补进这篇文章。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "在城市里值得买 Starlink 吗？如果地址上有稳定的光纤，换之前先比较安装费、月费和合约。",
+          "Starlink 比光纤好吗？没有好光纤时，值得查一下价格并确认能不能看到开阔天空。两者都有时，比较稳定性和成本。",
+          "Starlink 适合玩游戏吗？请在你的地址测延迟和中断。Starlink 公布的典型范围只是通用参考。",
+          "Starlink 是不限量的吗？Starlink 说家用套餐不限数据量。请看订单页所选套餐的速度限制。",
+          "Starlink 每月多少钱？因国家和地址而异。输入地址，在订单页上读出所选套餐的月费。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你的地址没有好光纤，4G 也很弱。",
+        "你能接受订单上写明的套件和合约条件，并知道价格会随地址变化。"
+      ],
+      "skipIf": [
+        "你的地址已有稳定光纤，不用买套件，也没有合约。",
+        "你要玩延迟要求高的在线游戏，而我们读到的页面没有公布实测延迟。"
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "在 Starlink 官网输入你的地址，付款前确认套餐、套件和月费。",
+      "label": "查看我所在地址的套餐",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-zh-hans"
+      },
+      {
+        "slug": "starlink-black-friday-zh-hans"
+      },
+      {
+        "slug": "starlink-referral-zh-hans"
+      }
+    ]
+  },
+  {
+    "id": 1177,
+    "slug": "starlink-cancel-zh-hans",
+    "translationKey": "starlink-fidelidade",
+    "locale": "zh-hans",
+    "title": "Starlink 有合约吗？取消服务、归还设备和退款",
+    "seoTitle": "Starlink 有合约吗？取消与退货",
+    "type": "实用指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "如何在订单里确认 Starlink 的合约、设备归还和退款条件，以及在账户中取消订阅。",
+    "metaDescription": "查看 Starlink 订单中的合约、设备归还和退款条件，以及怎样取消订阅。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-cancel-zh-hans-capa.webp",
+    "imageAlt": "雪地里木屋前的 Starlink 天线，旁边有人在工作。封面写着“合约与取消”。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink 的合约和设备条件因市场而异。订购前确认是否有最低合约期限，设备是租用还是购买，以及取消时是否须归还。退款金额、归还期限和期限起算日，以你所在地区的订单条款为准。"
+        ]
+      },
+      {
+        "heading": "订单页怎么写",
+        "paragraphs": [
+          "我们在 2026 年 11 月 20 日读取了几个国家的订购页。有的国家把套件列为租用，取消服务时要退回；在意大利，页面直接写着没有合约；还有的国家，套件要购买。",
+          "中文版没有固定的参考国家，所以我们不写具体金额。输入你的地址，到订单页的硬件一栏确认你属于哪一种。"
+        ]
+      },
+      {
+        "heading": "归还和退款条件",
+        "paragraphs": [
+          "查看订单条款中的归还期限、起算日期和设备状态要求。退款前是否要先取消，以及套件、月费和运费哪些可退，都应在自己的订单中核对。",
+          "取消订阅会停止之后的扣款。请向 Starlink 支持确认如何同时办理套件退回，并保存寄送凭证。",
+          "通过[Starlink 推荐链接](/zh-hans/coupons/starlink)下单时，也请在订单页确认退货政策。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink 标准套件的组成：天线、路由器、底座和线缆",
+          "caption": "退货时要寄回的套件：天线、路由器、底座和线缆。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "怎么取消",
+        "paragraphs": [
+          "在 Starlink 账户的首页，打开“你的订阅”。在套餐旁边选择“管理”，再选择“取消服务”。界面名称以你的语言版本为准。",
+          "如果想避免进入下一个周期，要在计费日 UTC 00:00 之前完成更改。帮助中心说明，服务会保持到已付费周期结束。想改变主意，可以在首页点“恢复”。取消后能否恢复，取决于所在区域的可用性。"
+        ],
+        "bullets": [
+          "登录 Starlink 网站账户，在“首页”选择“你的订阅”。",
+          "在套餐旁边点击“管理”，再点击“取消服务”。",
+          "计费按 UTC 时间。更改要在计费日 UTC 00:00 之前完成，否则只对下一个周期生效。请自己换算成当地时间。",
+          "服务保持到已付费的日期，之后的扣款会停止。",
+          "更改生效前，可以在首页顶部的提示里点“恢复”。",
+          "取消之后可能无法立刻恢复，取决于你所在区域的可用性。"
+        ],
+        "postParagraphs": [
+          "取消服务本身不会退回套件。请在账户中确认是否还须提交归还申请。"
+        ]
+      },
+      {
+        "heading": "优惠价与更换套餐",
+        "paragraphs": [
+          "取消、更换套餐或暂停后优惠价会怎样，以你自己订单里的条款为准。标准价格可能调整。"
+        ]
+      },
+      {
+        "heading": "取消后仍在扣款怎么办",
+        "paragraphs": [
+          "如果仍在扣款，带着订单号、取消日期和工单编号（如有）联系 Starlink。想了解其他用户的反馈，见[Starlink 在 Trustpilot 上的评价](/zh-hans/reviews/starlink-trustpilot-zh-hans)。如果你不认识这笔交易，也可以联系发卡行或银行。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Starlink 有合约吗？因国家而异。订单页会写明套件是租用还是购买，有的国家，比如意大利，写的是没有合约。",
+          "取消 Starlink 有违约金吗？以你的订单页为准。中文版不写具体金额，请在确认取消之前核对适用条件。",
+          "Starlink 可以随时取消吗？可以在账户里提交。如果订单里有合约条款，提前退出前请先核对。",
+          "可以归还设备并退款吗？请核对你所在地区的订单条款，确认归还期限、设备条件和可退款项。",
+          "取消要在什么时候之前操作？计费按 UTC 时间，要在计费日 UTC 00:00 之前完成，否则下个周期照常扣款。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-worth-it-zh-hans"
+      },
+      {
+        "slug": "starlink-black-friday-zh-hans"
+      },
+      {
+        "slug": "starlink-trustpilot-zh-hans"
+      }
+    ]
+  },
+  {
+    "id": 1178,
+    "slug": "starlink-trust-zh-hans",
+    "translationKey": "starlink-trust-guide",
+    "locale": "zh-hans",
+    "title": "Starlink 靠谱吗？怎么认出官网，怎么确认卖家",
+    "seoTitle": "Starlink 靠谱吗？官网与防骗",
+    "type": "编辑专题",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "官方网站和 Starlink 的授权零售商名单，能帮你确认在向谁买。看看付款前要核对什么，以及如何分辨其他域名的同名页面。",
+    "metaDescription": "了解如何认出 Starlink 官网、查看授权零售商名单，以及识别用了 Starlink 名字的其他域名的评价页。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trust-zh-hans-capa.webp",
+    "imageAlt": "固定在木结构支架上的 Starlink 天线。封面问“靠谱吗？”。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink 是 SpaceX 的卫星互联网服务，官方网站是 starlink.com。如果在官网之外买套件，请查看 Starlink 的授权零售商名单，并在付款前确认广告的真正卖家。"
+        ]
+      },
+      {
+        "heading": "Starlink 是谁，谁在卖",
+        "paragraphs": [
+          "Starlink 通过官方网站销售。你要先确认自己是在 starlink.com 的页面里下单。",
+          "[Starlink 值得买吗](/zh-hans/reviews/starlink-worth-it-zh-hans)一文说明如何在你的地址上比较价格、安装和替代方案。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink 标准天线和路由器",
+          "caption": "Starlink 天线和路由器。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "如何认出官网",
+        "paragraphs": [
+          "在浏览器里输入 starlink.com。填写资料或付款前，请确认你仍然停留在 starlink.com 之内。",
+          "如果有人要求你通过聊天消息付款，或者绕开订单付款，先通过 Starlink 支持确认，再继续。"
+        ]
+      },
+      {
+        "heading": "哪个是 Starlink 的 Trustpilot 页面",
+        "paragraphs": [
+          "域名是 starlink.com 的页面，名称是“Starlink Development”。Trustpilot 上还有用了相近名字的其他页面，一个对应 ukstarlink.com，一个对应 starlink.om。它们不是 starlink.com。看评价前请先核对页面上的域名。"
+        ]
+      },
+      {
+        "heading": "经销商与电商平台",
+        "paragraphs": [
+          "Starlink 有一份授权零售商名单。即使在知名的电商平台上，也要确认广告的卖家。",
+          "[Starlink 推荐页面](/zh-hans/coupons/starlink)适用于直接在 starlink.com 通过链接下的符合条件的订单，不能补加到零售渠道买的套件上。"
+        ],
+        "links": [
+          {
+            "label": "Starlink 授权零售商名单",
+            "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
+        ]
+      },
+      {
+        "heading": "使用 Starlink 名义的信息",
+        "paragraphs": [
+          "Starlink 的帮助中心有防钓鱼的提示。收到以 Starlink 名义发来的广告或消息时，先到 starlink.com 确认，再付款或提供资料。"
+        ]
+      },
+      {
+        "heading": "Trustpilot 上能看到什么",
+        "paragraphs": [
+          "starlink.com 的页面评分 1.6，共 871 条评价，页面没有被公司认领。完整的数字和常见抱怨见[Starlink 的 Trustpilot 评价解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "买完以后要留什么",
+        "bullets": [
+          "保留订单号、结账时显示的价格和确认邮件。如果有出入，请通过网站或应用联系支持。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Starlink 靠谱吗？Starlink 是 SpaceX 的卫星互联网服务。请认准官网 starlink.com。",
+          "Starlink 的官方网站是什么？是 starlink.com。付款前确认你仍然在这个域名里。",
+          "怎么确认卖家是授权的？查看 Starlink 的授权零售商名单，并在付款前确认广告的卖家。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trustpilot-zh-hans"
+      },
+      {
+        "slug": "starlink-referral-zh-hans"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hans"
+      }
+    ]
+  },
+  {
+    "id": 1179,
+    "slug": "starlink-trustpilot-zh-hans",
+    "translationKey": "starlink-reputation",
+    "locale": "zh-hans",
+    "title": "Starlink 在 Trustpilot 上的评分：1.6 分，差评集中在哪里",
+    "seoTitle": "Starlink 的 Trustpilot 评分与差评",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "看看 starlink.com 在 Trustpilot 上的评分、评价数量和星级分布，以及常见抱怨，并了解如何向公司投诉。",
+    "metaDescription": "Starlink 在 Trustpilot 的评分是 1.6，共 871 条评价。看星级分布、常见抱怨，以及为什么这些评价未必有代表性。",
+    "publishedAt": "2026年11月20日",
+    "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-trustpilot-zh-hans-capa.webp",
+    "imageAlt": "暴风雨天空下屋顶上的 Starlink 天线，背景有一道闪电。封面写着“Trustpilot：评分”。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "starlink.com 在 Trustpilot 上的评分是 1.6，标为较差，共 871 条评价。其中 71% 是 1 星。公司没有认领这个页面，也没有邀请客户写评价，所以这些评价未必能代表全体用户。"
+        ]
+      },
+      {
+        "heading": "评分和星级分布",
+        "paragraphs": [
+          "我们在 2026 年 11 月 20 日读取了这个页面。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "指标",
+            "starlink.com"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "1.6，标为较差"
+            ],
+            [
+              "评价总数",
+              "871"
+            ],
+            [
+              "5 星",
+              "17%"
+            ],
+            [
+              "4 星",
+              "2%"
+            ],
+            [
+              "3 星",
+              "3%"
+            ],
+            [
+              "2 星",
+              "7%"
+            ],
+            [
+              "1 星",
+              "71%"
+            ]
+          ],
+          "caption": "读取自 Trustpilot 上域名为 starlink.com 的页面。"
+        }
+      },
+      {
+        "heading": "为什么要谨慎看待",
+        "paragraphs": [
+          "页面标明这家公司没有认领，也没有邀请过客户写评价。Trustpilot 的提示是，这样的评价可能不具代表性。这个分数只能当作一个信号，还不能当结论。"
+        ]
+      },
+      {
+        "heading": "最常见的抱怨",
+        "paragraphs": [
+          "Trustpilot 对 355 条近期评价做了自动摘要。最常见的抱怨是联系不上客服，只能用聊天机器人，还有月费上涨和额外费用。产品和速度的评价不一，也有人称赞连接速度快。我们不引用单条评价。"
+        ]
+      },
+      {
+        "heading": "如何认出对的页面",
+        "paragraphs": [
+          "要看的是域名为 starlink.com 的页面。Trustpilot 上还有 ukstarlink.com 和 starlink.om 的页面，它们不是 starlink.com，评分和评价数量也不同。"
+        ]
+      },
+      {
+        "heading": "这对订阅者意味着什么",
+        "paragraphs": [
+          "订阅之后，每月核对账单，并和订单上显示的价格比较。促销价在更换套餐、取消或暂停后会怎样，以你自己订单里的条款为准。",
+          "合约和取消的规则见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "固定在木屋屋顶上的 Starlink 天线",
+          "caption": "装好的家用天线。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      },
+      {
+        "heading": "订阅之前",
+        "paragraphs": [
+          "订阅之前，先确认网站和条款。如何认出官网，见[Starlink 靠谱吗](/zh-hans/reviews/starlink-trust-zh-hans)。",
+          "如果要订阅，[Starlink 推荐页面](/zh-hans/coupons/starlink)有链接和规则。"
+        ]
+      },
+      {
+        "heading": "怎么投诉",
+        "paragraphs": [
+          "通过 Starlink 网站或应用提交工单，并保存工单编号。如果账单和订单对不上，请把订单里显示的优惠金额和账单一起发给支持。"
+        ],
+        "links": [
+          {
+            "label": "Trustpilot 上 starlink.com 的页面",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Starlink 在 Trustpilot 上多少分？starlink.com 的页面评分是 1.6，标为较差，共 871 条评价。",
+          "应该看 Trustpilot 上的哪个页面？看域名是 starlink.com 的页面。其他域名的页面不是 starlink.com。",
+          "这些评价有代表性吗？公司没有认领页面，也没有邀请客户写评价，所以未必有代表性。",
+          "怎么向 Starlink 投诉？通过网站或应用提交工单并保存编号。问题没有解决，再去 Trustpilot 留下评价。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-trust-zh-hans"
+      },
+      {
+        "slug": "starlink-cancel-zh-hans"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hans"
       }
     ]
   }

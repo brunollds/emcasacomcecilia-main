@@ -1,0 +1,129 @@
+{
+  "id": 1168,
+  "slug": "starlink-referral-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "starlink-indicacao",
+  "title": "Starlink 推薦連結怎麼用？獎勵何時入帳",
+  "seoTitle": "Starlink 推薦連結：用法與獎勵",
+  "type": "推薦碼指南",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "從官方網站開啟連結，付款前在訂購頁確認獎勵金額。了解誰能使用、獎勵何時入帳，以及服務抵免與現金的差別。",
+  "metaDescription": "了解如何開啟 Starlink 推薦連結、在訂購頁找到獎勵金額，並在符合計畫條件後領取獎勵。",
+  "publishedAt": "2026年11月20日",
+  "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-referral-zh-hant-capa.webp",
+  "imageAlt": "Starlink 天線安裝在屋頂上，背景是藍天。封面文字為「推薦連結」與「新用戶在此獲得獎勵，2 個月後入帳」。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "開啟 Starlink 推薦連結並輸入你的地址。付款前，先確認訂購頁顯示推薦已套用，並查看獎勵金額。這個計畫適用於新客戶，獎勵在服務完整計費兩個月後發放，形式為服務抵免，部分地區也提供現金。"
+      ]
+    },
+    {
+      "heading": "使用連結的步驟",
+      "paragraphs": [
+        "從[本站的 Starlink 推薦頁面](/zh-hant/coupons/starlink)開啟連結，輸入你要使用服務的地址。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Starlink 天線安裝在木屋屋頂上",
+          "caption": "安裝好的住宅用天線。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "bullets": [
+        "在訂購頁選擇符合資格的住宅或旅行方案。",
+        "找到推薦已套用的提示，確認畫面上的獎勵金額與當天應付總額。",
+        "在 Starlink 官方網站完成訂購，並留意訂購頁寫明的各項費用。",
+        "啟用設備並查看第一期帳單。付清第一個月並啟用設備，都是推薦計畫的要求。"
+      ],
+      "postParagraphs": [
+        "付款前請再看一次。Starlink 說明，推薦必須出現在原始訂單上，事後補上無效。"
+      ]
+    },
+    {
+      "heading": "獎勵多少，何時入帳",
+      "paragraphs": [
+        "獎勵金額依你註冊時所在的國家而定，會直接顯示在訂購頁，所以我們不替你列出數字。推薦人也會獲得同樣的金額，形式為現金或服務抵免。",
+        "訂閱必須保持有效並按時付款，滿兩個完整計費週期。Starlink 說明中心指出，獎勵最早從啟用後 60 天起發放，實際時間依國家、帳戶與身分驗證而定。",
+        "預設形式是帳單抵免。如果你的帳戶提供現金，請用瀏覽器登入網站，在「推薦」頁面選擇獎勵方式，並完成身分與銀行資料驗證。"
+      ]
+    },
+    {
+      "heading": "誰可以使用",
+      "bullets": [
+        "訂閱者必須是新客戶。現有客戶或曾經的客戶不會獲得獎勵。",
+        "推薦人必須是住宅或旅行方案的有效客戶。優先、企業與商用方案不享有推薦獎勵。",
+        "訂閱者可選的方案以訂購頁顯示的住宅與旅行方案為準。"
+      ]
+    },
+    {
+      "heading": "Starlink 有優惠碼嗎？",
+      "paragraphs": [
+        "推薦是連結，沒有需要輸入的優惠碼。連結會把推薦資訊帶進訂購頁，付款前請找確認提示。",
+        "計畫只計入在 starlink.com 透過連結下的訂單。經銷商、電商平台購買與帳戶轉移都不在推薦範圍內。"
+      ]
+    },
+    {
+      "heading": "黑色星期五優惠怎麼配合？",
+      "paragraphs": [
+        "推薦獎勵是否和黑色星期五優惠同時顯示，依地址而異。請看[黑色星期五訂單怎麼算](/zh-hant/reviews/starlink-black-friday-zh-hant)，再用你的地址查看。"
+      ]
+    },
+    {
+      "heading": "如何追蹤",
+      "paragraphs": [
+        "在網站或應用程式的「推薦」頁面，可以查看透過你的連結訂閱的人的狀態。有人下單時，Starlink 會寄電子郵件通知。推薦在產生獎勵前，可能還要經過資格審查。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Starlink 推薦怎麼運作？在 starlink.com 透過連結下單，確認推薦已套用，啟用設備，並讓符合資格的服務保持有效、按時付款滿兩個完整計費週期。",
+        "Starlink 推薦獎勵是多少？金額依你註冊的國家而定，並會顯示在訂購頁。請以你自己的訂單畫面為準。",
+        "Starlink 獎勵何時入帳？說明中心指出，獎勵最早從啟用後 60 天起發放，前提是推薦符合計畫條件。",
+        "在電商平台買的設備可以用推薦嗎？不行。計畫要求直接在 starlink.com 透過連結購買。",
+        "我以前是客戶，還能用這個連結嗎？獎勵只給第一次訂閱 Starlink 的人。",
+        "推薦連結在各國都有效嗎？在 Starlink 銷售的多數國家有效，金額依國家而不同。請輸入你的地址，並以訂購頁顯示為準。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "付款前，先在訂購頁確認你的地址適用的獎勵金額。",
+    "label": "在訂單上查看推薦獎勵",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-black-friday-zh-hant"
+    },
+    {
+      "slug": "starlink-worth-it-zh-hant"
+    },
+    {
+      "slug": "starlink-cancel-zh-hant"
+    }
+  ],
+  "pros": [],
+  "cons": []
+}
