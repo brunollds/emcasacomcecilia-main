@@ -1921,6 +1921,650 @@ const ALIEXPRESS_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslatio
   },
 };
 
+// O mesmo link de indicação do PT nos 10 idiomas: a indicação vale na maioria dos países onde a Starlink está
+// disponível, e o valor do bônus muda por país (central de ajuda lida em 19/11/2026; prints do Bruno).
+const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
+  en: {
+    discount: 'Referral bonus',
+    offerTypeLabel: 'referral',
+    offerTypeLabelPlural: 'referrals',
+    offerActionLabel: 'Subscribe through the referral link',
+    category: 'Satellite internet',
+    shortDescription: 'a bonus for first-time Starlink subscribers through Cecília\'s referral link',
+    longDescription:
+      'Anyone who subscribes to Starlink for the first time through Cecília\'s referral link receives a bonus after two months of subscription, by default as credit on the bill. The amount depends on the country where you sign up. It works on Residential and Roam plans ordered at starlink.com, with no code to copy, and the order goes through at the price Starlink shows that day.',
+    metaTitle: 'Starlink referral: bonus with Cecília\'s link',
+    metaDescription:
+      'Starlink referral: a bonus for first-time subscribers through Cecília\'s link, as bill credit after two months. Residential and Roam plans.',
+    eligibleCategories: 'First subscription to a Residential or Roam plan, ordered at starlink.com through the link',
+    validity: 'Referral active while Starlink\'s referral program runs; the bonus amount is what Starlink pays in the country of signup',
+    reusable: 'Only for people who have never been Starlink customers: current and former customers do not receive the bonus',
+    shipping: 'The price of the kit and delivery appears in the order at starlink.com, after the address',
+    combinable: 'The bonus is not a discount on the order: it arrives after two months of subscription, and the order keeps the price and promotions Starlink shows that day',
+    aboutBrand:
+      'Starlink is SpaceX\'s satellite internet, with residential and travel plans and a plug-and-play setup kit, in more than 160 countries, territories and other markets. The order is placed at starlink.com. This page carries Cecília\'s referral link: whoever subscribes through it for the first time receives a bonus, and Em Casa com Cecília receives the same amount, at no extra cost to the subscriber.',
+    brandLogoAlt: 'Starlink logo',
+    faqs: [
+      {
+        question: 'Is there a Starlink discount coupon?',
+        answer:
+          'There is no code to paste: the benefit is Cecília\'s referral link. Anyone who subscribes to Starlink for the first time through it receives a bonus after two months of subscription, by default as credit on the bill.',
+      },
+      {
+        question: 'How does the Starlink referral work?',
+        answer:
+          'According to Starlink\'s help center, read on November 19, 2026, the person who subscribes through the link and the person who referred them receive the same amount once the new subscription completes two months. By default, the amount is added as service credit and deducted from the next bill. Where Starlink offers it, it can be exchanged for cash in the Referrals tab of the account.',
+      },
+      {
+        question: 'How much is the Starlink referral bonus?',
+        answer:
+          'It depends on the country where you sign up. Starlink\'s help center gives US$ 100 in the United States as an example, and the amount of each referral appears in your Starlink account.',
+      },
+      {
+        question: 'In which countries does the Starlink referral work?',
+        answer:
+          'According to Starlink\'s help center, in most countries where it is available. The order must be placed at starlink.com through the link, and the amount changes from one country to another.',
+      },
+      {
+        question: 'Who can receive the referral bonus?',
+        answer:
+          'Anyone who has never been a Starlink customer and subscribes to a Residential or Roam plan at starlink.com through the link. Current and former customers do not receive it, and reseller kits, marketplace purchases and account transfers do not count.',
+      },
+      {
+        question: 'I bought Starlink without the link. Can I add the referral later?',
+        answer:
+          'No. According to Starlink\'s help center, the referral is only recorded when the order is placed through the link; an order made without it, or through someone else\'s link, cannot be adjusted afterwards.',
+      },
+      {
+        question: 'Do I need to copy a code to receive the bonus?',
+        answer:
+          'No. Just place the order at starlink.com through the button on this page: the link already carries the referral, and the amount appears afterwards in the Referrals tab of your Starlink account.',
+      },
+      {
+        question: 'Does subscribing through the link support Em Casa com Cecília?',
+        answer:
+          'Yes. Under Starlink\'s program, the person who referred receives the same amount as the one who subscribes, at no extra cost to you.',
+      },
+    ],
+    linkInstructions: [
+      'Tap “Subscribe through the referral link”: Cecília\'s link opens Starlink\'s official site, with no code to copy.',
+      'Enter your address, choose a Residential or Roam plan and place the order through the link itself: an order made without the link, through a reseller or on a marketplace does not count as a referral, and it cannot be added afterwards.',
+      'Pay the first month and activate the kit.',
+      'After two months of subscription, the bonus arrives in your account, by default as credit deducted from the next bill.',
+    ],
+    linkNote:
+      'The referral only works for people who have never been Starlink customers and only for orders placed at starlink.com through the link. The bonus amount depends on the country of signup, and the person who referred receives the same amount.',
+  },
+  es: {
+    discount: 'Bonificación por recomendación',
+    offerTypeLabel: 'recomendación',
+    offerTypeLabelPlural: 'recomendaciones',
+    offerActionLabel: 'Suscríbete con el enlace de recomendación',
+    category: 'Internet por satélite',
+    shortDescription: 'una bonificación para quien se suscribe a Starlink por primera vez con el enlace de recomendación de Cecília',
+    longDescription:
+      'Quien se suscribe a Starlink por primera vez con el enlace de recomendación de Cecília recibe una bonificación tras dos meses de suscripción, por defecto como crédito en la factura. El importe depende del país en el que te registres. Vale para los planes Residential y Roam contratados en starlink.com, sin ningún código que copiar, y el pedido se hace al precio que Starlink muestre ese día.',
+    metaTitle: 'Recomendación Starlink: bonificación con el enlace de Cecília',
+    metaDescription:
+      'Recomendación Starlink: bonificación para quien se suscribe por primera vez con el enlace de Cecília, en crédito en la factura tras dos meses.',
+    eligibleCategories: 'Primera suscripción a un plan Residential o Roam, contratada en starlink.com con el enlace',
+    validity: 'Recomendación activa mientras el programa de recomendación de Starlink esté vigente; el importe de la bonificación es el que Starlink paga en el país de registro',
+    reusable: 'Solo para quien nunca ha sido cliente de Starlink: los clientes actuales y antiguos no reciben la bonificación',
+    shipping: 'El precio del kit y del envío aparece en el pedido, en starlink.com, después de la dirección',
+    combinable: 'La bonificación no es un descuento en el pedido: llega tras dos meses de suscripción, y el pedido mantiene el precio y las promociones que Starlink muestre ese día',
+    aboutBrand:
+      'Starlink es el internet por satélite de SpaceX, con planes residenciales y de viaje y un kit de configuración plug and play, en más de 160 países, territorios y otros mercados. El pedido se hace en starlink.com. Esta página trae el enlace de recomendación de Cecília: quien se suscribe con él por primera vez recibe una bonificación, y Em Casa com Cecília recibe el mismo importe, sin coste adicional para quien se suscribe.',
+    brandLogoAlt: 'Logotipo de Starlink',
+    faqs: [
+      {
+        question: '¿Hay un cupón de descuento de Starlink?',
+        answer:
+          'No hay ningún código que pegar: el beneficio es el enlace de recomendación de Cecília. Quien se suscribe a Starlink por primera vez con él recibe una bonificación tras dos meses de suscripción, por defecto como crédito en la factura.',
+      },
+      {
+        question: '¿Cómo funciona la recomendación de Starlink?',
+        answer:
+          'Según el centro de ayuda de Starlink, consultado el 19 de noviembre de 2026, quien se suscribe con el enlace y quien lo recomendó reciben el mismo importe cuando la nueva suscripción cumple dos meses. Por defecto, el importe se añade como crédito de servicio y se descuenta de la factura siguiente. Donde Starlink lo ofrece, se puede cambiar por dinero en la pestaña Recomendaciones de la cuenta.',
+      },
+      {
+        question: '¿Cuánto es la bonificación de la recomendación de Starlink?',
+        answer:
+          'Depende del país en el que te registres. El centro de ayuda de Starlink da como ejemplo 100 US$ en Estados Unidos, y el importe de cada recomendación aparece en tu cuenta de Starlink.',
+      },
+      {
+        question: '¿En qué países vale la recomendación de Starlink?',
+        answer:
+          'Según el centro de ayuda de Starlink, en la mayoría de los países donde está disponible. El pedido debe hacerse en starlink.com con el enlace, y el importe cambia de un país a otro.',
+      },
+      {
+        question: '¿Quién puede recibir la bonificación de la recomendación?',
+        answer:
+          'Quien nunca ha sido cliente de Starlink y contrata un plan Residential o Roam en starlink.com con el enlace. Los clientes actuales y antiguos no la reciben, y no cuentan los kits de distribuidores, las compras en marketplaces ni las transferencias de cuenta.',
+      },
+      {
+        question: 'Compré Starlink sin el enlace. ¿Puedo añadir la recomendación después?',
+        answer:
+          'No. Según el centro de ayuda de Starlink, la recomendación solo se registra cuando el pedido se hace con el enlace; un pedido sin él, o con el enlace de otra persona, no se puede ajustar después.',
+      },
+      {
+        question: '¿Tengo que copiar algún código para recibir la bonificación?',
+        answer:
+          'No. Basta con hacer el pedido en starlink.com con el botón de esta página: el enlace ya lleva la recomendación, y el importe aparece después en la pestaña Recomendaciones de tu cuenta de Starlink.',
+      },
+      {
+        question: '¿Suscribirme con el enlace apoya a Em Casa com Cecília?',
+        answer:
+          'Sí. Según el programa de Starlink, quien recomienda recibe el mismo importe que quien se suscribe, sin coste adicional para ti.',
+      },
+    ],
+    linkInstructions: [
+      'Pulsa «Suscríbete con el enlace de recomendación»: el enlace de Cecília abre el sitio oficial de Starlink, sin ningún código que copiar.',
+      'Indica tu dirección, elige un plan Residential o Roam y haz el pedido con el propio enlace: un pedido sin el enlace, por un distribuidor o en un marketplace no cuenta como recomendación, y no se puede añadir después.',
+      'Paga el primer mes y activa el kit.',
+      'Con dos meses de suscripción, la bonificación llega a tu cuenta, por defecto como crédito descontado de la factura siguiente.',
+    ],
+    linkNote:
+      'La recomendación vale solo para quien nunca ha sido cliente de Starlink y solo en el pedido hecho en starlink.com con el enlace. El importe de la bonificación depende del país de registro, y quien recomendó recibe el mismo importe.',
+  },
+  fr: {
+    discount: 'Bonus de parrainage',
+    offerTypeLabel: 'parrainage',
+    offerTypeLabelPlural: 'parrainages',
+    offerActionLabel: 'S’abonner via le lien de parrainage',
+    category: 'Internet par satellite',
+    shortDescription: 'un bonus pour qui s\'abonne à Starlink pour la première fois via le lien de parrainage de Cecília',
+    longDescription:
+      'Quiconque s\'abonne à Starlink pour la première fois via le lien de parrainage de Cecília reçoit un bonus après deux mois d\'abonnement, par défaut sous forme de crédit sur la facture. Le montant dépend du pays dans lequel vous vous inscrivez. Il est valable pour les offres Residential et Roam commandées sur starlink.com, sans code à copier, et la commande se fait au prix que Starlink affiche ce jour-là.',
+    metaTitle: 'Parrainage Starlink : bonus avec le lien de Cecília',
+    metaDescription:
+      'Parrainage Starlink : un bonus pour qui s\'abonne pour la première fois via le lien de Cecília, en crédit sur la facture après deux mois.',
+    eligibleCategories: 'Première souscription d\'une offre Residential ou Roam, commandée sur starlink.com via le lien',
+    validity: 'Parrainage actif tant que le programme de parrainage de Starlink est en vigueur ; le montant du bonus est celui que Starlink verse dans le pays d\'inscription',
+    reusable: 'Uniquement pour les personnes qui n\'ont jamais été clientes de Starlink : les clients actuels et anciens ne reçoivent pas le bonus',
+    shipping: 'Le prix du kit et de la livraison apparaît dans la commande, sur starlink.com, après l\'adresse',
+    combinable: 'Le bonus n\'est pas une réduction sur la commande : il arrive après deux mois d\'abonnement, et la commande garde le prix et les promotions que Starlink affiche ce jour-là',
+    aboutBrand:
+      'Starlink est l\'internet par satellite de SpaceX, avec des offres résidentielles et de voyage et un kit d\'installation plug and play, dans plus de 160 pays, territoires et autres marchés. La commande se fait sur starlink.com. Cette page présente le lien de parrainage de Cecília : quiconque s\'abonne par ce lien pour la première fois reçoit un bonus, et Em Casa com Cecília reçoit le même montant, sans surcoût pour l\'abonné.',
+    brandLogoAlt: 'Logo Starlink',
+    faqs: [
+      {
+        question: 'Existe-t-il un code promo Starlink ?',
+        answer:
+          'Il n\'y a aucun code à coller : l\'avantage, c\'est le lien de parrainage de Cecília. Quiconque s\'abonne à Starlink pour la première fois par ce lien reçoit un bonus après deux mois d\'abonnement, par défaut sous forme de crédit sur la facture.',
+      },
+      {
+        question: 'Comment fonctionne le parrainage Starlink ?',
+        answer:
+          'Selon le centre d\'aide de Starlink, consulté le 19 novembre 2026, la personne qui s\'abonne via le lien et celle qui l\'a parrainée reçoivent le même montant lorsque le nouvel abonnement atteint deux mois. Par défaut, le montant est ajouté sous forme de crédit de service et déduit de la facture suivante. Là où Starlink le propose, il peut être échangé contre de l\'argent dans l\'onglet Parrainages du compte.',
+      },
+      {
+        question: 'Quel est le montant du bonus de parrainage Starlink ?',
+        answer:
+          'Cela dépend du pays dans lequel vous vous inscrivez. Le centre d\'aide de Starlink donne en exemple 100 US$ aux États-Unis, et le montant de chaque parrainage apparaît dans votre compte Starlink.',
+      },
+      {
+        question: 'Dans quels pays le parrainage Starlink est-il valable ?',
+        answer:
+          'Selon le centre d\'aide de Starlink, dans la plupart des pays où le service est disponible. La commande doit être faite sur starlink.com via le lien, et le montant varie d\'un pays à l\'autre.',
+      },
+      {
+        question: 'Qui peut recevoir le bonus de parrainage ?',
+        answer:
+          'Toute personne qui n\'a jamais été cliente de Starlink et qui souscrit une offre Residential ou Roam sur starlink.com via le lien. Les clients actuels et anciens ne le reçoivent pas, et les kits de revendeurs, les achats sur une place de marché et les transferts de compte ne comptent pas.',
+      },
+      {
+        question: 'J\'ai acheté Starlink sans le lien. Puis-je ajouter le parrainage ensuite ?',
+        answer:
+          'Non. Selon le centre d\'aide de Starlink, le parrainage n\'est enregistré que lorsque la commande est faite via le lien ; une commande passée sans lui, ou via le lien d\'une autre personne, ne peut pas être modifiée ensuite.',
+      },
+      {
+        question: 'Dois-je copier un code pour recevoir le bonus ?',
+        answer:
+          'Non. Il suffit de passer la commande sur starlink.com avec le bouton de cette page : le lien porte déjà le parrainage, et le montant apparaît ensuite dans l\'onglet Parrainages de votre compte Starlink.',
+      },
+      {
+        question: 'S\'abonner via le lien soutient-il Em Casa com Cecília ?',
+        answer:
+          'Oui. Dans le cadre du programme de Starlink, la personne qui parraine reçoit le même montant que celle qui s\'abonne, sans surcoût pour vous.',
+      },
+    ],
+    linkInstructions: [
+      'Appuyez sur « S’abonner via le lien de parrainage » : le lien de Cecília ouvre le site officiel de Starlink, sans code à copier.',
+      'Indiquez votre adresse, choisissez une offre Residential ou Roam et passez la commande via le lien lui-même : une commande passée sans le lien, via un revendeur ou sur une place de marché ne compte pas comme parrainage, et il ne peut pas être ajouté ensuite.',
+      'Payez le premier mois et activez le kit.',
+      'Après deux mois d\'abonnement, le bonus arrive sur votre compte, par défaut sous forme de crédit déduit de la facture suivante.',
+    ],
+    linkNote:
+      'Le parrainage n\'est valable que pour les personnes qui n\'ont jamais été clientes de Starlink et uniquement pour la commande faite sur starlink.com via le lien. Le montant du bonus dépend du pays d\'inscription, et la personne qui a parrainé reçoit le même montant.',
+  },
+  de: {
+    discount: 'Empfehlungsbonus',
+    offerTypeLabel: 'Empfehlung',
+    offerTypeLabelPlural: 'Empfehlungen',
+    offerActionLabel: 'Über den Empfehlungslink abonnieren',
+    category: 'Internet per Satellit',
+    shortDescription: 'ein Bonus für alle, die Starlink zum ersten Mal über Cecílias Empfehlungslink abonnieren',
+    longDescription:
+      'Wer Starlink zum ersten Mal über Cecílias Empfehlungslink abonniert, erhält nach zwei Monaten Abo einen Bonus, standardmäßig als Guthaben auf der Rechnung. Die Höhe hängt von dem Land ab, in dem du dich anmeldest. Er gilt für die Tarife Residential und Roam, die du auf starlink.com bestellst, ganz ohne Code zum Kopieren, und die Bestellung läuft zum Preis, den Starlink an dem Tag anzeigt.',
+    metaTitle: 'Starlink-Empfehlung: Bonus mit Cecílias Link',
+    metaDescription:
+      'Starlink-Empfehlung: Bonus für alle, die erstmals über Cecílias Link abonnieren, als Rechnungsguthaben nach zwei Monaten. Tarife Residential und Roam.',
+    eligibleCategories: 'Erstes Abo eines Tarifs Residential oder Roam, über den Link auf starlink.com bestellt',
+    validity: 'Empfehlung aktiv, solange das Empfehlungsprogramm von Starlink läuft; die Höhe des Bonus ist die, die Starlink im Land der Anmeldung zahlt',
+    reusable: 'Nur für Personen, die noch nie Starlink-Kunden waren: aktuelle und frühere Kunden erhalten den Bonus nicht',
+    shipping: 'Der Preis für Kit und Lieferung erscheint in der Bestellung auf starlink.com, nach der Adresse',
+    combinable: 'Der Bonus ist kein Rabatt auf die Bestellung: Er kommt nach zwei Monaten Abo, und die Bestellung läuft zum Preis und mit den Aktionen, die Starlink an dem Tag anzeigt',
+    aboutBrand:
+      'Starlink ist das Satelliten-Internet von SpaceX, mit Tarifen für zu Hause und für unterwegs und einem Plug-and-play-Set zur Einrichtung, in mehr als 160 Ländern, Gebieten und anderen Märkten. Bestellt wird auf starlink.com. Diese Seite bringt Cecílias Empfehlungslink: Wer darüber zum ersten Mal abonniert, erhält einen Bonus, und Em Casa com Cecília erhält denselben Betrag – ohne Mehrkosten für dich.',
+    brandLogoAlt: 'Starlink-Logo',
+    faqs: [
+      {
+        question: 'Gibt es einen Starlink-Gutscheincode?',
+        answer:
+          'Es gibt keinen Code zum Einfügen: Der Vorteil ist Cecílias Empfehlungslink. Wer Starlink zum ersten Mal darüber abonniert, erhält nach zwei Monaten Abo einen Bonus, standardmäßig als Guthaben auf der Rechnung.',
+      },
+      {
+        question: 'Wie funktioniert die Starlink-Empfehlung?',
+        answer:
+          'Laut Hilfe-Center von Starlink, gelesen am 19. November 2026, erhalten die Person, die über den Link abonniert, und die Person, die sie empfohlen hat, denselben Betrag, sobald das neue Abo zwei Monate erreicht hat. Standardmäßig wird der Betrag als Serviceguthaben gutgeschrieben und von der nächsten Rechnung abgezogen. Wo Starlink es anbietet, lässt er sich im Tab Empfehlungen des Kontos in Bargeld umtauschen.',
+      },
+      {
+        question: 'Wie hoch ist der Starlink-Empfehlungsbonus?',
+        answer:
+          'Das hängt vom Land ab, in dem du dich anmeldest. Das Hilfe-Center von Starlink nennt als Beispiel 100 US$ in den Vereinigten Staaten, und der Betrag jeder Empfehlung steht in deinem Starlink-Konto.',
+      },
+      {
+        question: 'In welchen Ländern gilt die Starlink-Empfehlung?',
+        answer:
+          'Laut Hilfe-Center von Starlink in den meisten Ländern, in denen Starlink verfügbar ist. Die Bestellung muss über den Link auf starlink.com erfolgen, und der Betrag ist von Land zu Land verschieden.',
+      },
+      {
+        question: 'Wer kann den Empfehlungsbonus erhalten?',
+        answer:
+          'Wer noch nie Starlink-Kunde war und über den Link auf starlink.com einen Tarif Residential oder Roam abonniert. Aktuelle und frühere Kunden erhalten ihn nicht, und Sets von Wiederverkäufern, Käufe auf Marktplätzen und Kontoübertragungen zählen nicht.',
+      },
+      {
+        question: 'Ich habe Starlink ohne den Link gekauft. Kann ich die Empfehlung nachträglich hinzufügen?',
+        answer:
+          'Nein. Laut Hilfe-Center von Starlink wird die Empfehlung nur erfasst, wenn die Bestellung über den Link erfolgt; eine Bestellung ohne Link oder über den Link einer anderen Person lässt sich nachträglich nicht ändern.',
+      },
+      {
+        question: 'Muss ich einen Code kopieren, um den Bonus zu erhalten?',
+        answer:
+          'Nein. Bestelle einfach auf starlink.com über den Button auf dieser Seite: Der Link enthält die Empfehlung bereits, und der Betrag erscheint danach im Tab Empfehlungen deines Starlink-Kontos.',
+      },
+      {
+        question: 'Unterstützt das Abo über den Link Em Casa com Cecília?',
+        answer:
+          'Ja. Nach dem Programm von Starlink erhält die empfehlende Person denselben Betrag wie die, die abonniert – ohne Mehrkosten für dich.',
+      },
+    ],
+    linkInstructions: [
+      'Tippe auf „Über den Empfehlungslink abonnieren“: Cecílias Link öffnet die offizielle Website von Starlink, ganz ohne Code zum Kopieren.',
+      'Gib deine Adresse an, wähle einen Tarif Residential oder Roam und bestelle über den Link selbst: Eine Bestellung ohne den Link, über einen Wiederverkäufer oder auf einem Marktplatz zählt nicht als Empfehlung, und sie lässt sich nachträglich nicht hinzufügen.',
+      'Zahle den ersten Monat und aktiviere das Set.',
+      'Nach zwei Monaten Abo kommt der Bonus auf dein Konto, standardmäßig als Guthaben, das von der nächsten Rechnung abgezogen wird.',
+    ],
+    linkNote:
+      'Die Empfehlung gilt nur für Personen, die noch nie Starlink-Kunden waren, und nur für die Bestellung auf starlink.com über den Link. Die Höhe des Bonus hängt vom Land der Anmeldung ab, und die empfehlende Person erhält denselben Betrag.',
+  },
+  it: {
+    discount: 'Bonus per l\'invito',
+    offerTypeLabel: 'invito',
+    offerTypeLabelPlural: 'inviti',
+    offerActionLabel: 'Abbonati con il link di invito',
+    category: 'Internet via satellite',
+    shortDescription: 'un bonus per chi si abbona a Starlink per la prima volta con il link di invito di Cecília',
+    longDescription:
+      'Chi si abbona a Starlink per la prima volta con il link di invito di Cecília riceve un bonus dopo due mesi di abbonamento, per impostazione predefinita come credito in fattura. L\'importo dipende dal paese in cui ti registri. Vale per i piani Residential e Roam ordinati su starlink.com, senza alcun codice da copiare, e l\'ordine viene fatto al prezzo che Starlink mostra quel giorno.',
+    metaTitle: 'Invito Starlink: bonus con il link di Cecília',
+    metaDescription:
+      'Invito Starlink: un bonus per chi si abbona per la prima volta con il link di Cecília, in credito in fattura dopo due mesi. Piani Residential e Roam.',
+    eligibleCategories: 'Primo abbonamento a un piano Residential o Roam, ordinato su starlink.com con il link',
+    validity: 'Invito attivo finché il programma di inviti di Starlink è in vigore; l\'importo del bonus è quello che Starlink paga nel paese di registrazione',
+    reusable: 'Solo per chi non è mai stato cliente di Starlink: i clienti attuali e passati non ricevono il bonus',
+    shipping: 'Il prezzo del kit e della spedizione compare nell\'ordine, su starlink.com, dopo l\'indirizzo',
+    combinable: 'Il bonus non è uno sconto sull\'ordine: arriva dopo due mesi di abbonamento, e l\'ordine mantiene il prezzo e le promozioni che Starlink mostra quel giorno',
+    aboutBrand:
+      'Starlink è l\'internet via satellite di SpaceX, con piani residenziali e da viaggio e un kit di configurazione plug and play, in più di 160 paesi, territori e altri mercati. L\'ordine si fa su starlink.com. Questa pagina riporta il link di invito di Cecília: chi si abbona con esso per la prima volta riceve un bonus, e Em Casa com Cecília riceve lo stesso importo, senza costi aggiuntivi per chi si abbona.',
+    brandLogoAlt: 'Logo Starlink',
+    faqs: [
+      {
+        question: 'C\'è un coupon sconto per Starlink?',
+        answer:
+          'Non c\'è alcun codice da incollare: il vantaggio è il link di invito di Cecília. Chi si abbona a Starlink per la prima volta con esso riceve un bonus dopo due mesi di abbonamento, per impostazione predefinita come credito in fattura.',
+      },
+      {
+        question: 'Come funziona l\'invito di Starlink?',
+        answer:
+          'Secondo il centro assistenza di Starlink, letto il 19 novembre 2026, chi si abbona con il link e chi ha invitato ricevono lo stesso importo quando il nuovo abbonamento compie due mesi. Per impostazione predefinita, l\'importo viene aggiunto come credito di servizio e scalato dalla fattura successiva. Dove Starlink lo offre, si può convertire in denaro nella scheda Inviti dell\'account.',
+      },
+      {
+        question: 'Quanto vale il bonus dell\'invito di Starlink?',
+        answer:
+          'Dipende dal paese in cui ti registri. Il centro assistenza di Starlink fa come esempio 100 US$ negli Stati Uniti, e l\'importo di ogni invito compare nel tuo account Starlink.',
+      },
+      {
+        question: 'In quali paesi vale l\'invito di Starlink?',
+        answer:
+          'Secondo il centro assistenza di Starlink, nella maggior parte dei paesi in cui è disponibile. L\'ordine deve essere fatto su starlink.com con il link, e l\'importo cambia da un paese all\'altro.',
+      },
+      {
+        question: 'Chi può ricevere il bonus dell\'invito?',
+        answer:
+          'Chi non è mai stato cliente di Starlink e si abbona a un piano Residential o Roam su starlink.com con il link. I clienti attuali e passati non lo ricevono, e non contano i kit dei rivenditori, gli acquisti su marketplace e i trasferimenti di account.',
+      },
+      {
+        question: 'Ho comprato Starlink senza il link. Posso aggiungere l\'invito dopo?',
+        answer:
+          'No. Secondo il centro assistenza di Starlink, l\'invito viene registrato solo quando l\'ordine è fatto con il link; un ordine fatto senza, o con il link di un\'altra persona, non può essere modificato in seguito.',
+      },
+      {
+        question: 'Devo copiare un codice per ricevere il bonus?',
+        answer:
+          'No. Basta fare l\'ordine su starlink.com con il pulsante di questa pagina: il link porta già l\'invito, e l\'importo compare poi nella scheda Inviti del tuo account Starlink.',
+      },
+      {
+        question: 'Abbonarsi con il link sostiene Em Casa com Cecília?',
+        answer:
+          'Sì. Secondo il programma di Starlink, chi ha invitato riceve lo stesso importo di chi si abbona, senza costi aggiuntivi per te.',
+      },
+    ],
+    linkInstructions: [
+      'Tocca “Abbonati con il link di invito”: il link di Cecília apre il sito ufficiale di Starlink, senza alcun codice da copiare.',
+      'Indica il tuo indirizzo, scegli un piano Residential o Roam e fai l\'ordine con il link stesso: un ordine fatto senza il link, tramite un rivenditore o su un marketplace non conta come invito, e non può essere aggiunto in seguito.',
+      'Paga il primo mese e attiva il kit.',
+      'Dopo due mesi di abbonamento, il bonus arriva sul tuo account, per impostazione predefinita come credito scalato dalla fattura successiva.',
+    ],
+    linkNote:
+      'L\'invito vale solo per chi non è mai stato cliente di Starlink e solo per l\'ordine fatto su starlink.com con il link. L\'importo del bonus dipende dal paese di registrazione, e chi ha invitato riceve lo stesso importo.',
+  },
+  ko: {
+    discount: '추천 보너스',
+    offerTypeLabel: '추천',
+    offerTypeLabelPlural: '추천',
+    offerActionLabel: '추천 링크로 가입하기',
+    category: '위성 인터넷',
+    shortDescription: 'Cecília의 추천 링크로 Starlink를 처음 구독하는 분께 드리는 보너스',
+    longDescription:
+      'Cecília의 추천 링크로 Starlink를 처음 구독하면 구독 2개월 후에 보너스를 받으며, 기본적으로 청구서 크레딧으로 지급됩니다. 금액은 가입하는 국가에 따라 다릅니다. starlink.com에서 주문한 Residential 및 Roam 요금제에 적용되며, 복사할 코드는 없고, 주문은 그날 Starlink가 표시하는 가격으로 진행됩니다.',
+    metaTitle: 'Starlink 추천: Cecília 링크로 받는 보너스',
+    metaDescription:
+      'Starlink 추천: Cecília의 링크로 처음 구독하면 2개월 후 청구서 크레딧으로 보너스를 받습니다. Residential 및 Roam 요금제.',
+    eligibleCategories: '링크를 통해 starlink.com에서 주문한 Residential 또는 Roam 요금제의 첫 구독',
+    validity: 'Starlink 추천 프로그램이 운영되는 동안 유효하며, 보너스 금액은 가입 국가에서 Starlink가 지급하는 금액입니다',
+    reusable: 'Starlink 고객이었던 적이 없는 분만 해당됩니다. 현재 고객과 과거 고객은 보너스를 받지 못합니다',
+    shipping: '키트와 배송 가격은 starlink.com의 주문 과정에서 주소를 입력한 뒤 표시됩니다',
+    combinable: '보너스는 주문 할인이 아닙니다. 구독 2개월 후에 지급되며, 주문은 그날 Starlink가 표시하는 가격과 프로모션 그대로 진행됩니다',
+    aboutBrand:
+      'Starlink는 SpaceX의 위성 인터넷으로, 가정용 및 여행용 요금제와 바로 쓸 수 있는 플러그 앤드 플레이 설치 키트를 160개 이상의 국가, 지역 및 기타 시장에서 제공합니다. 주문은 starlink.com에서 합니다. 이 페이지에는 Cecília의 추천 링크가 있습니다. 이 링크로 처음 구독하면 보너스를 받고, Em Casa com Cecília도 같은 금액을 받으며, 구독자에게 추가 비용은 없습니다.',
+    brandLogoAlt: 'Starlink 로고',
+    faqs: [
+      {
+        question: 'Starlink 할인 쿠폰이 있나요?',
+        answer:
+          '붙여넣을 코드는 없습니다. 혜택은 Cecília의 추천 링크입니다. 이 링크로 Starlink를 처음 구독하면 구독 2개월 후에 보너스를 받으며, 기본적으로 청구서 크레딧으로 지급됩니다.',
+      },
+      {
+        question: 'Starlink 추천은 어떻게 작동하나요?',
+        answer:
+          '2026년 11월 19일에 확인한 Starlink 고객센터에 따르면, 링크로 구독한 사람과 추천한 사람은 새 구독이 2개월이 되면 같은 금액을 받습니다. 기본적으로 이 금액은 서비스 크레딧으로 적립되어 다음 청구서에서 차감됩니다. Starlink가 제공하는 지역에서는 계정의 추천 탭에서 현금으로 바꿀 수 있습니다.',
+      },
+      {
+        question: 'Starlink 추천 보너스는 얼마인가요?',
+        answer:
+          '가입하는 국가에 따라 다릅니다. Starlink 고객센터는 예시로 미국의 100달러를 들고 있으며, 각 추천의 금액은 Starlink 계정에 표시됩니다.',
+      },
+      {
+        question: 'Starlink 추천은 어느 국가에서 유효한가요?',
+        answer:
+          'Starlink 고객센터에 따르면 Starlink를 이용할 수 있는 대부분의 국가에서 유효합니다. 주문은 링크를 통해 starlink.com에서 해야 하며, 금액은 국가마다 다릅니다.',
+      },
+      {
+        question: '추천 보너스는 누가 받을 수 있나요?',
+        answer:
+          'Starlink 고객이었던 적이 없고, 링크를 통해 starlink.com에서 Residential 또는 Roam 요금제를 구독하는 분입니다. 현재 고객과 과거 고객은 받지 못하며, 리셀러 키트, 마켓플레이스 구매, 계정 이전은 해당되지 않습니다.',
+      },
+      {
+        question: '링크 없이 Starlink를 구매했습니다. 나중에 추천을 추가할 수 있나요?',
+        answer:
+          '아니요. Starlink 고객센터에 따르면 추천은 링크를 통해 주문했을 때만 등록되며, 링크 없이 하거나 다른 사람의 링크로 한 주문은 나중에 수정할 수 없습니다.',
+      },
+      {
+        question: '보너스를 받으려면 코드를 복사해야 하나요?',
+        answer:
+          '아니요. 이 페이지의 버튼으로 starlink.com에서 주문하기만 하면 됩니다. 링크에 이미 추천이 담겨 있으며, 금액은 나중에 Starlink 계정의 추천 탭에 표시됩니다.',
+      },
+      {
+        question: '링크로 구독하면 Em Casa com Cecília에 도움이 되나요?',
+        answer:
+          '네. Starlink 프로그램에 따라 추천한 사람은 구독한 사람과 같은 금액을 받으며, 구독자에게 추가 비용은 없습니다.',
+      },
+    ],
+    linkInstructions: [
+      '“추천 링크로 가입하기”를 누르세요. Cecília의 링크로 Starlink 공식 사이트가 열리며, 복사할 코드는 없습니다.',
+      '주소를 입력하고 Residential 또는 Roam 요금제를 선택한 뒤 링크 그대로 주문하세요. 링크 없이 하거나 리셀러, 마켓플레이스를 통한 주문은 추천으로 인정되지 않으며, 나중에 추가할 수 없습니다.',
+      '첫 달 요금을 결제하고 키트를 활성화하세요.',
+      '구독 2개월이 지나면 보너스가 계정에 들어오며, 기본적으로 다음 청구서에서 차감되는 크레딧으로 지급됩니다.',
+    ],
+    linkNote:
+      '추천은 Starlink 고객이었던 적이 없는 분에게만, 그리고 링크를 통해 starlink.com에서 한 주문에만 유효합니다. 보너스 금액은 가입 국가에 따라 다르며, 추천한 사람도 같은 금액을 받습니다.',
+  },
+  ja: {
+    discount: '紹介ボーナス',
+    offerTypeLabel: '紹介',
+    offerTypeLabelPlural: '紹介',
+    offerActionLabel: '紹介リンクから申し込む',
+    category: '衛星インターネット',
+    shortDescription: 'Cecília の紹介リンクから Starlink を初めて契約する方へのボーナス',
+    longDescription:
+      'Cecília の紹介リンクから Starlink を初めて契約すると、契約から 2 か月後にボーナスが届きます。初期設定では請求書へのクレジットです。金額は登録する国によって異なります。starlink.com で注文した Residential と Roam のプランが対象で、コピーするコードはなく、注文はその日に Starlink が表示する価格で行われます。',
+    metaTitle: 'Starlink 紹介：Cecília のリンクでボーナス',
+    metaDescription:
+      'Starlink 紹介：Cecília のリンクから初めて契約すると、2 か月後に請求書クレジットでボーナスが届きます。Residential と Roam のプラン。',
+    eligibleCategories: 'リンクから starlink.com で注文した Residential または Roam プランの初回契約',
+    validity: 'Starlink の紹介プログラムが実施されている間は有効です。ボーナスの金額は、登録した国で Starlink が支払う金額です',
+    reusable: 'Starlink のお客様だったことがない方のみ対象です。現在のお客様と過去のお客様はボーナスを受け取れません',
+    shipping: 'キットと配送の価格は、starlink.com の注文で住所を入力した後に表示されます',
+    combinable: 'ボーナスは注文の割引ではありません。契約から 2 か月後に届き、注文はその日に Starlink が表示する価格とプロモーションのままです',
+    aboutBrand:
+      'Starlink は SpaceX の衛星インターネットで、家庭向けと旅行向けのプランと、プラグアンドプレイで使える設定キットを、160 以上の国、地域、その他の市場で提供しています。注文は starlink.com で行います。このページでは Cecília の紹介リンクを紹介しています。リンクから初めて契約するとボーナスが届き、Em Casa com Cecília も同じ金額を受け取りますが、契約者の追加負担はありません。',
+    brandLogoAlt: 'Starlink のロゴ',
+    faqs: [
+      {
+        question: 'Starlink の割引クーポンはありますか？',
+        answer:
+          '貼り付けるコードはありません。特典は Cecília の紹介リンクです。このリンクから Starlink を初めて契約すると、契約から 2 か月後にボーナスが届きます。初期設定では請求書へのクレジットです。',
+      },
+      {
+        question: 'Starlink の紹介はどのような仕組みですか？',
+        answer:
+          '2026年11月19日に確認した Starlink のヘルプセンターによると、リンクから契約した人と紹介した人は、新しい契約が 2 か月になった時点で同じ金額を受け取ります。初期設定では、この金額はサービスクレジットとして付与され、次回の請求書から差し引かれます。Starlink が提供している地域では、アカウントの「紹介」タブで現金に交換できます。',
+      },
+      {
+        question: 'Starlink の紹介ボーナスはいくらですか？',
+        answer:
+          '登録する国によって異なります。Starlink のヘルプセンターでは例として米国の 100 米ドルが挙げられており、各紹介の金額は Starlink アカウントに表示されます。',
+      },
+      {
+        question: 'Starlink の紹介はどの国で有効ですか？',
+        answer:
+          'Starlink のヘルプセンターによると、Starlink が利用できるほとんどの国で有効です。注文はリンクから starlink.com で行う必要があり、金額は国によって異なります。',
+      },
+      {
+        question: '紹介ボーナスは誰が受け取れますか？',
+        answer:
+          'Starlink のお客様だったことがなく、リンクから starlink.com で Residential または Roam プランを契約する方です。現在のお客様と過去のお客様は対象外で、再販業者のキット、マーケットプレイスでの購入、アカウントの移管も対象になりません。',
+      },
+      {
+        question: 'リンクを使わずに Starlink を購入しました。あとから紹介を追加できますか？',
+        answer:
+          'いいえ。Starlink のヘルプセンターによると、紹介はリンクから注文したときだけ登録されます。リンクなし、または他の人のリンクで行った注文は、あとから変更できません。',
+      },
+      {
+        question: 'ボーナスを受け取るために、コードをコピーする必要はありますか？',
+        answer:
+          'いいえ。このページのボタンから starlink.com で注文するだけです。リンクに紹介がすでに含まれており、金額はあとで Starlink アカウントの「紹介」タブに表示されます。',
+      },
+      {
+        question: 'リンクから契約すると Em Casa com Cecília の支援になりますか？',
+        answer:
+          'はい。Starlink のプログラムでは、紹介した人は契約した人と同じ金額を受け取りますが、あなたの追加負担はありません。',
+      },
+    ],
+    linkInstructions: [
+      '「紹介リンクから申し込む」をタップします。Cecília のリンクで Starlink の公式サイトが開くので、コピーするコードはありません。',
+      '住所を入力し、Residential または Roam プランを選んで、そのリンクから注文します。リンクなし、再販業者、マーケットプレイスでの注文は紹介として扱われず、あとから追加することもできません。',
+      '初月分を支払い、キットを有効にします。',
+      '契約から 2 か月たつと、ボーナスがアカウントに届きます。初期設定では、次回の請求書から差し引かれるクレジットです。',
+    ],
+    linkNote:
+      '紹介は、Starlink のお客様だったことがない方が、リンクから starlink.com で行った注文にのみ有効です。ボーナスの金額は登録した国によって異なり、紹介した人も同じ金額を受け取ります。',
+  },
+  'zh-hant': {
+    discount: '推薦獎勵',
+    offerTypeLabel: '推薦',
+    offerTypeLabelPlural: '推薦',
+    offerActionLabel: '透過推薦連結訂閱',
+    category: '衛星互聯網',
+    shortDescription: '透過 Cecília 的推薦連結首次訂閱 Starlink 的獎勵',
+    longDescription:
+      '透過 Cecília 的推薦連結首次訂閱 Starlink，訂閱滿兩個月後可獲得獎勵，預設以帳單抵免額形式發放。金額取決於你註冊所在的國家或地區。適用於在 starlink.com 訂購的 Residential 和 Roam 方案，無需複製任何代碼，訂單按 Starlink 當天顯示的價格處理。',
+    metaTitle: 'Starlink 推薦：透過 Cecília 連結獲得獎勵',
+    metaDescription:
+      'Starlink 推薦：透過 Cecília 的連結首次訂閱，滿兩個月後以帳單抵免額形式獲得獎勵。適用於 Residential 和 Roam 方案。',
+    eligibleCategories: '透過連結在 starlink.com 訂購的 Residential 或 Roam 方案的首次訂閱',
+    validity: 'Starlink 推薦計劃有效期間內均有效；獎勵金額以 Starlink 在註冊所在國家或地區支付的金額為準',
+    reusable: '僅限從未成為 Starlink 客戶的人：現有客戶和過往客戶不會獲得獎勵',
+    shipping: '套件和運送的價格會在 starlink.com 的訂單中、填寫地址之後顯示',
+    combinable: '獎勵不是訂單折扣：訂閱滿兩個月後才發放，訂單仍按 Starlink 當天顯示的價格和優惠處理',
+    aboutBrand:
+      'Starlink 是 SpaceX 的衛星互聯網服務，提供家用和旅行方案，以及即插即用的安裝套件，覆蓋 160 多個國家、地區及其他市場。訂購在 starlink.com 進行。此頁面提供 Cecília 的推薦連結：透過連結首次訂閱的人可獲得獎勵，Em Casa com Cecília 也會獲得相同金額，訂閱者無需支付額外費用。',
+    brandLogoAlt: 'Starlink 標誌',
+    faqs: [
+      {
+        question: 'Starlink 有折扣優惠碼嗎？',
+        answer:
+          '沒有需要貼上的代碼：優惠是 Cecília 的推薦連結。透過連結首次訂閱 Starlink 的人，訂閱滿兩個月後可獲得獎勵，預設以帳單抵免額形式發放。',
+      },
+      {
+        question: 'Starlink 的推薦如何運作？',
+        answer:
+          '根據 2026 年 11 月 19 日查閱的 Starlink 幫助中心，透過連結訂閱的人和推薦人，會在新訂閱滿兩個月後獲得相同金額。預設情況下，該金額會以服務抵免額形式入帳，並從下一期帳單中扣除。在 Starlink 提供此功能的地區，也可以在帳戶的「推薦」分頁兌換為現金。',
+      },
+      {
+        question: 'Starlink 的推薦獎勵是多少？',
+        answer:
+          '取決於你註冊所在的國家或地區。Starlink 幫助中心以美國的 100 美元為例，每筆推薦的金額會顯示在你的 Starlink 帳戶中。',
+      },
+      {
+        question: 'Starlink 的推薦在哪些國家或地區有效？',
+        answer:
+          '根據 Starlink 幫助中心，在 Starlink 提供服務的大多數國家或地區有效。訂單必須透過連結在 starlink.com 提交，金額因國家或地區而異。',
+      },
+      {
+        question: '誰可以獲得推薦獎勵？',
+        answer:
+          '從未成為 Starlink 客戶、並透過連結在 starlink.com 訂閱 Residential 或 Roam 方案的人。現有客戶和過往客戶不會獲得，經銷商套件、在電商平台購買以及帳戶轉讓均不計入。',
+      },
+      {
+        question: '我沒有使用連結就購買了 Starlink，之後可以補上推薦嗎？',
+        answer:
+          '不可以。根據 Starlink 幫助中心，只有透過連結提交訂單時才會登記推薦；沒有使用連結，或使用他人連結提交的訂單，之後無法調整。',
+      },
+      {
+        question: '我需要複製代碼才能獲得獎勵嗎？',
+        answer:
+          '不需要。只要透過此頁面的按鈕在 starlink.com 提交訂單即可：連結已包含推薦資訊，金額稍後會顯示在你 Starlink 帳戶的「推薦」分頁。',
+      },
+      {
+        question: '透過連結訂閱能支持 Em Casa com Cecília 嗎？',
+        answer:
+          '能。根據 Starlink 的計劃，推薦人會獲得與訂閱者相同的金額，你無需支付額外費用。',
+      },
+    ],
+    linkInstructions: [
+      '點選「透過推薦連結訂閱」：Cecília 的連結會開啟 Starlink 官方網站，無需複製任何代碼。',
+      '填寫地址，選擇 Residential 或 Roam 方案，並透過該連結提交訂單：沒有使用連結、透過經銷商或在電商平台提交的訂單不算推薦，之後也無法補上。',
+      '支付第一個月費用並啟用套件。',
+      '訂閱滿兩個月後，獎勵會存入你的帳戶，預設以從下一期帳單扣除的抵免額形式發放。',
+    ],
+    linkNote:
+      '推薦僅適用於從未成為 Starlink 客戶的人，且僅適用於透過連結在 starlink.com 提交的訂單。獎勵金額取決於註冊所在的國家或地區，推薦人會獲得相同金額。',
+  },
+  'zh-hans': {
+    discount: '推荐奖励',
+    offerTypeLabel: '推荐',
+    offerTypeLabelPlural: '推荐',
+    offerActionLabel: '通过推荐链接订阅',
+    category: '卫星互联网',
+    shortDescription: '通过 Cecília 的推荐链接首次订阅 Starlink 的奖励',
+    longDescription:
+      '通过 Cecília 的推荐链接首次订阅 Starlink，订阅满两个月后可获得奖励，默认以账单抵扣额形式发放。金额取决于你注册所在的国家或地区。适用于在 starlink.com 订购的 Residential 和 Roam 方案，无需复制任何代码，订单按 Starlink 当天显示的价格处理。',
+    metaTitle: 'Starlink 推荐：通过 Cecília 链接获得奖励',
+    metaDescription:
+      'Starlink 推荐：通过 Cecília 的链接首次订阅，满两个月后以账单抵扣额形式获得奖励。适用于 Residential 和 Roam 方案。',
+    eligibleCategories: '通过链接在 starlink.com 订购的 Residential 或 Roam 方案的首次订阅',
+    validity: 'Starlink 推荐计划有效期间内均有效；奖励金额以 Starlink 在注册所在国家或地区支付的金额为准',
+    reusable: '仅限从未成为 Starlink 客户的人：现有客户和过往客户不会获得奖励',
+    shipping: '套件和配送的价格会在 starlink.com 的订单中、填写地址之后显示',
+    combinable: '奖励不是订单折扣：订阅满两个月后才发放，订单仍按 Starlink 当天显示的价格和优惠处理',
+    aboutBrand:
+      'Starlink 是 SpaceX 的卫星互联网服务，提供家用和旅行方案，以及即插即用的安装套件，覆盖 160 多个国家、地区及其他市场。订购在 starlink.com 进行。本页提供 Cecília 的推荐链接：通过链接首次订阅的人可获得奖励，Em Casa com Cecília 也会获得相同金额，订阅者无需支付额外费用。',
+    brandLogoAlt: 'Starlink 标志',
+    faqs: [
+      {
+        question: 'Starlink 有折扣优惠码吗？',
+        answer:
+          '没有需要粘贴的代码：优惠是 Cecília 的推荐链接。通过链接首次订阅 Starlink 的人，订阅满两个月后可获得奖励，默认以账单抵扣额形式发放。',
+      },
+      {
+        question: 'Starlink 的推荐如何运作？',
+        answer:
+          '根据 2026 年 11 月 19 日查阅的 Starlink 帮助中心，通过链接订阅的人和推荐人，会在新订阅满两个月后获得相同金额。默认情况下，该金额会以服务抵扣额形式入账，并从下一期账单中扣除。在 Starlink 提供此功能的地区，也可以在账户的“推荐”标签页兑换为现金。',
+      },
+      {
+        question: 'Starlink 的推荐奖励是多少？',
+        answer:
+          '取决于你注册所在的国家或地区。Starlink 帮助中心以美国的 100 美元为例，每笔推荐的金额会显示在你的 Starlink 账户中。',
+      },
+      {
+        question: 'Starlink 的推荐在哪些国家或地区有效？',
+        answer:
+          '根据 Starlink 帮助中心，在 Starlink 提供服务的大多数国家或地区有效。订单必须通过链接在 starlink.com 提交，金额因国家或地区而异。',
+      },
+      {
+        question: '谁可以获得推荐奖励？',
+        answer:
+          '从未成为 Starlink 客户、并通过链接在 starlink.com 订阅 Residential 或 Roam 方案的人。现有客户和过往客户不会获得，经销商套件、在电商平台购买以及账户转让均不计入。',
+      },
+      {
+        question: '我没有使用链接就购买了 Starlink，之后可以补上推荐吗？',
+        answer:
+          '不可以。根据 Starlink 帮助中心，只有通过链接提交订单时才会登记推荐；没有使用链接，或使用他人链接提交的订单，之后无法调整。',
+      },
+      {
+        question: '我需要复制代码才能获得奖励吗？',
+        answer:
+          '不需要。只要通过本页的按钮在 starlink.com 提交订单即可：链接已包含推荐信息，金额稍后会显示在你 Starlink 账户的“推荐”标签页。',
+      },
+      {
+        question: '通过链接订阅能支持 Em Casa com Cecília 吗？',
+        answer:
+          '能。根据 Starlink 的计划，推荐人会获得与订阅者相同的金额，你无需支付额外费用。',
+      },
+    ],
+    linkInstructions: [
+      '点击“通过推荐链接订阅”：Cecília 的链接会打开 Starlink 官方网站，无需复制任何代码。',
+      '填写地址，选择 Residential 或 Roam 方案，并通过该链接提交订单：没有使用链接、通过经销商或在电商平台提交的订单不算推荐，之后也无法补上。',
+      '支付第一个月费用并激活套件。',
+      '订阅满两个月后，奖励会存入你的账户，默认以从下一期账单扣除的抵扣额形式发放。',
+    ],
+    linkNote:
+      '推荐仅适用于从未成为 Starlink 客户的人，且仅适用于通过链接在 starlink.com 提交的订单。奖励金额取决于注册所在的国家或地区，推荐人会获得相同金额。',
+  },
+};
+
 // Os mesmos 5 links de afiliado do PT, um por produto: a Proton é global e leva o visitante ao site no idioma dele.
 const PROTON_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
   en: {
@@ -3713,6 +4357,8 @@ const COUPON_TRANSLATIONS: Record<string, CouponTranslation> = {
   temu: { offerMode: 'affiliate-link', locales: TEMU_TRANSLATIONS },
   aliexpress: { offerMode: 'affiliate-link', locales: ALIEXPRESS_TRANSLATIONS },
   proton: { offerMode: 'affiliate-link', locales: PROTON_TRANSLATIONS },
+  // O link de indicação do PT (starlink.com, sem país) vale fora do Brasil, com o bônus de cada país (Bruno, 19/11/2026).
+  starlink: { offerMode: 'affiliate-link', locales: STARLINK_TRANSLATIONS },
   hostinger: {
     // O SONAR20 no site internacional (em inglês): o link de indicação leva o mesmo código. O PT segue no /br, e
     // o testNote daqui só cita o teste do site global.

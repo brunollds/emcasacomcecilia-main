@@ -36,8 +36,9 @@ export type StoreBanner = {
 };
 
 // Lojas internacionais: o link e o código levam o visitante à loja da região dele, então valem nos 10 idiomas mesmo
-// com host de um país (br.shein.com).
-export const INTERNATIONAL_STORES: ReadonlySet<string> = new Set(['shein', 'yesstyle', 'hostinger', 'proton']);
+// com host de um país (br.shein.com). A Starlink entrou em 19/11/2026: o Bruno confirmou que o link de indicação vale
+// fora do Brasil, com o valor do bônus de cada país.
+export const INTERNATIONAL_STORES: ReadonlySet<string> = new Set(['shein', 'yesstyle', 'hostinger', 'proton', 'starlink']);
 
 // Cada campanha é um arquivo em content/campanhas/<id>.json, juntado pelo scripts/content/build-index.mjs.
 export const STORE_BANNERS: StoreBanner[] = storeBannersData;
