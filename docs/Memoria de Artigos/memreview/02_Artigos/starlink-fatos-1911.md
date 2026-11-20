@@ -9,7 +9,7 @@ Parceira nova (19/11/2026): programa de indicação, sem cupom. A página da loj
 
 Na tela de pedido, os preços foram lidos com dois endereços públicos: a Av. Paulista, 1578 (MASP, São Paulo) e o
 aeroporto de Alto Paraíso de Goiás (GO-118, km 163). **O link de indicação do Bruno (`starlink.com/?referral=…`) não
-foi aberto e não deve ser.** Nenhuma pauta tem GO.
+foi aberto e não deve ser.** **GO do Bruno em 19/11/2026 no pacote todo (SL1 a SL6): briefings na seção 1 da Fila.** A SL2 virou a conta agressiva de tudo junto e a SL1 e a SL2 saem nos 10 idiomas (seção 9).
 
 ## 1. O que o Bruno informou (19/11)
 
@@ -155,7 +155,7 @@ nem reclamação individual. Os dois perfis falsos entram como cuidado, sem link
   black friday" 3, "starlink vale a pena" 3, "starlink reclame aqui" 2. São volumes baixos frente à marca; o
   autocompletar é o sinal melhor.
 
-## 6. Pautas propostas (sem GO)
+## 6. Pautas (GO em 19/11, com briefing)
 
 | Código | Pauta | Slug sugerido | Idiomas | Busca |
 |---|---|---|---|---|
@@ -193,8 +193,20 @@ nem reclamação individual. Os dois perfis falsos entram como cuidado, sem link
 
 ## 8. Perguntas ao Bruno
 
-1. **Kit sem fidelidade:** o "R$ 229 sem fidelidade" está em que plano? Na leitura, o 100 Mbps saiu com o Mini X a
+1. **Print da tela de pedido brasileira com o seu link aplicado:** é a prova de que a indicação soma com os 30%, que a
+   SL2 precisa antes de publicar.
+2. **Kit sem fidelidade:** o "R$ 229 sem fidelidade" está em que plano? Na leitura, o 100 Mbps saiu com o Mini X a
    R$ 299.
-2. **Uso próprio:** vocês usam a Starlink? Isso muda a SL3.
-3. **Mais idiomas:** a SL1 entra nos 10 idiomas, com a Starlink em `INTERNATIONAL_STORES`?
-4. **GO** em quais pautas.
+3. **Uso próprio:** vocês usam a Starlink? Isso muda a SL3.
+
+## 9. Decisões do Bruno (19/11)
+
+- **GO no pacote todo** (SL1 a SL6).
+- **SL2 agressiva:** a conta de kit + 1º mês com 30% − indicação (Max: R$ 49 + R$ 174,30 = R$ 223,30; com os R$ 200,
+  R$ 23,30), e a pessoa também indica outras e abate a mensalidade ou recebe em dinheiro. "Quase de graça" sempre com
+  a conta e as letras miúdas (recompensa depois de 2 meses, contrato de 12 meses, áreas selecionadas).
+- **Fora do Brasil:** o Bruno acredita que o kit com desconto não é só daqui. SL1 e SL2 em 10 idiomas, com a oferta de
+  um país de referência por idioma lida no dia; a Starlink entra em `INTERNATIONAL_STORES` pela sessão do cadastro
+  (confirmação do Bruno de que a indicação funciona fora do país).
+- **Trustpilot:** a reputação fora do PT sai do Trustpilot (pergunta do Bruno). Na Starlink, a família Trustpilot fica
+  no estoque; a falta dele na família da Proton foi para a seção 4 da Fila (#1263).
