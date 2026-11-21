@@ -1,8 +1,9 @@
 {
   "id": 1278,
   "slug": "peitoral-cachorro-que-puxa-petz",
+  "locale": "pt",
   "title": "Peitoral para cachorro que puxa: os modelos da Petz, com preço e medidas",
-  "seoTitle": "Peitoral para cachorro que puxa: modelos Petz",
+  "seoTitle": "Peitoral antipuxão na Petz: SofterWalk e outros modelos",
   "type": "Guia de Escolha",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -13,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Peitorais da Petz com preço, tamanhos e medidas de cada ficha: quais falam em “Inibe puxões” e quais não. Zee.Dog, Spike e Petz, pelo que a loja publica.",
-  "metaDescription": "EMCASA dá 10% OFF na Petz. Veja os peitorais para cachorro que puxa, com tamanho, medida e o que cada ficha diz.",
+  "description": "Compare os sete peitorais da Petz por preço, medidas e posição das argolas: só a linha SofterWalk traz argola frontal no peito, além de FlyHarness, Spike Geo e Pastel Mint.",
+  "metaDescription": "EMCASA dá 10% OFF na Petz. Veja quais peitorais têm argola frontal antipuxão, compare FlyHarness, Spike Geo e Pastel Mint com preços e medidas.",
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
   "draft": false,
@@ -27,100 +28,124 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Se você procura argola na frente do peito, as fichas dos SofterWalk da Zee.Dog descrevem esse encaixe. Compare as medidas do tórax e da frente para o modelo escolhido. Spike Geo e Pastel Mint são opções de menor preço nas fichas consultadas. O FlyHarness se diferencia pelo fecho rápido e pela alça."
+        "Entre os sete peitorais analisados na Petz, apenas os quatro modelos SofterWalk da Zee.Dog trazem argola frontal no peito para inibir puxões. FlyHarness, Spike Geo e Pastel Mint prendem a guia apenas no dorso e entram como alternativas de encaixe rápido ou menor custo. Confira abaixo preços, medidas e pontos de fixação."
       ]
     },
     {
       "heading": "Os modelos lado a lado",
       "paragraphs": [
-        "A tabela reúne quatro SofterWalk, um FlyHarness e dois modelos de entrada. Veja quais têm fixação frontal indicada na ficha e compare o preço no tamanho que serve no seu cachorro."
+        "Este guia reúne quatro modelos SofterWalk (os únicos do conjunto com argola frontal antipuxão), o colete FlyHarness Gotham (alternativa de vestir rápido com um clique e alça superior) e dois peitorais em H de entrada (Spike Geo e Pastel Mint), para você comparar função e preço antes de abrir cada página na Petz."
       ],
       "comparisonTable": {
-        "caption": "Preço da página de cada produto em 21/11/2026, sem CEP. O valor na sacola pode mudar com a região.",
+        "caption": "Preços nas páginas da Petz em 21/11, sem CEP. A coluna do EMCASA simula 10% onde não há oferta maior; Assinatura e cupom não acumulam.",
         "headers": [
           "Modelo",
           "Tamanhos",
           "Preço na página",
-          "O que a ficha informa"
+          "Assinante Petz",
+          "Simulação EMCASA",
+          "Fixação da guia"
         ],
         "rows": [
           [
-            "SofterWalk Gotham (Zee.Dog)",
+            "[SofterWalk Gotham (Zee.Dog)](https://www.petz.com.br/produto/peitoral-anti-puxao-zeedog-softerwalk-gotham-para-caes-182094)",
             "P, M e G",
-            "R$ 179,00 em todos",
-            "Sim: “Inibe puxões”"
+            "R$ 179,00",
+            "R$ 161,10",
+            "R$ 161,10",
+            "Argola frontal no peito + dorso (“Inibe puxões”)"
           ],
           [
-            "SofterWalk Nox (Zee.Dog)",
+            "[SofterWalk Nox (Zee.Dog)](https://www.petz.com.br/produto/peitoral-anti-puxao-zeedog-softerwalk-nox-para-caes-186592)",
             "P, M e G",
-            "R$ 199,00 em todos",
-            "Sim: “Inibe puxões”"
+            "R$ 199,00",
+            "R$ 179,10",
+            "R$ 179,10",
+            "Argola frontal no peito + dorso (“Inibe puxões”)"
           ],
           [
-            "SofterWalk H3D Fly (Zee.Dog)",
+            "[SofterWalk H3D Fly (Zee.Dog)](https://www.petz.com.br/produto/peitoral-anti-puxao-zee-dog-softerwalk-h3d-fly-para-caes-201118)",
             "P, M e G",
-            "R$ 179,00 em todos",
-            "Sim: “Peitoral Antipuxão”"
+            "R$ 179,00",
+            "R$ 161,10",
+            "R$ 161,10",
+            "Argola frontal no peito + dorso (“Peitoral Antipuxão”)"
           ],
           [
-            "SofterWalk Voyage (Zee.Dog)",
+            "[SofterWalk Voyage (Zee.Dog)](https://www.petz.com.br/produto/peitoral-anti-puxao-zee-dog-softerwalk-voyage-para-caes-182101)",
             "P, M e G",
-            "R$ 179,00 em todos",
-            "Sim: “Inibe puxões”"
+            "R$ 179,00",
+            "R$ 161,10",
+            "R$ 161,10",
+            "Argola frontal no peito + dorso (“Inibe puxões”)"
           ],
           [
-            "FlyHarness Gotham (Zee.Dog)",
-            "T1 a T5",
-            "R$ 279,00 em todos",
-            "Não usa a palavra"
+            "[FlyHarness Gotham (Zee.Dog)](https://www.petz.com.br/produto/peitoral-zeedog-flyharness-gotham-para-caes-169609)",
+            "Tam 1 a Tam 5",
+            "R$ 279,00",
+            "R$ 251,10",
+            "R$ 251,10",
+            "Somente argola dorsal + alça de controle (sem argola frontal)"
           ],
           [
-            "Spike Geo",
+            "[Spike Geo](https://www.petz.com.br/produto/peitoral-spike-geo-para-caes-179326)",
             "PP, P, M e G",
-            "De R$ 31,99 (PP) a R$ 49,99 (G)",
-            "Não usa a palavra"
+            "R$ 31,99 (PP) a R$ 49,99 (G)",
+            "10% OFF (PP R$ 28,79)",
+            "R$ 28,79 (PP) a R$ 44,99 (G)",
+            "Duas argolas no dorso, em H (sem argola frontal)"
           ],
           [
-            "Pastel Mint (Petz)",
-            "PP, P, M e G",
-            "PP R$ 28,49 (em oferta), P R$ 32,99, G R$ 39,99",
-            "Não usa a palavra"
+            "[Pastel Mint (Petz)](https://www.petz.com.br/produto/peitoral-petz-pastel-mint-para-caes-179897)",
+            "PP, P e G (M ausente no seletor)",
+            "PP R$ 28,49 (oferta), P R$ 32,99, G R$ 39,99",
+            "Mantém oferta da página",
+            "Mantém oferta da página",
+            "Duas argolas no dorso, em H (sem argola frontal)"
           ]
         ]
       },
       "postParagraphs": [
-        "Nos preços da tabela, o SofterWalk Gotham G custa R$ 129,01 a mais que o Spike Geo G. A ficha do Gotham descreve a argola na frente do peito e a alça de controle. Use a tabela de medidas de cada um antes de comparar a compra.",
-        "O [cupom Petz](/cupons/petz) dá 10% nos itens elegíveis. Num item em oferta, fica o maior desconto. Estes modelos não foram testados no carrinho. Veja [como usar o EMCASA](/reviews/cupom-petz-como-usar)."
+        "Conta nossa, pelos preços da tabela: o SofterWalk Gotham G custa R$ 129,01 a mais que o Spike Geo G, diferença ligada à construção com argola peitoral, alça de neoprene e trava de quatro pontos. A regra do [cupom Petz](/cupons/petz) é manter o maior desconto por item, sem somar percentuais: nos modelos sem desconto maior, o EMCASA aplica 10% na sacola (mesmo percentual do preço de assinante, sem acumular os dois); no Pastel Mint, já com 58% a 60% OFF, a sacola conserva o valor promocional.",
+        "Confira como aplicar o código e somar com retirada em loja no guia de [como usar o EMCASA na Petz](/reviews/cupom-petz-como-usar) e compare compra avulsa vs plano em [Assinatura Petz ou cupom](/reviews/assinatura-petz-ou-cupom)."
       ]
     },
     {
-      "heading": "SofterWalk: o que a ficha descreve",
+      "heading": "SofterWalk: argola frontal e detalhes do modelo",
       "paragraphs": [
-        "A linha SofterWalk, da Zee.Dog, é a que a Petz descreve como peitoral antipuxão. A loja informa nas fichas do Gotham, do Nox e do Voyage: “Perfeito para cães que puxam” e “Inibe puxões”. A do H3D Fly chama o modelo de “Peitoral Antipuxão” e fala em “reduzindo o impacto e desconforto de grandes puxões”.",
-        "As fichas coincidem em quatro pontos:"
+        "A linha SofterWalk concentra os únicos modelos desta lista feitos para prender a guia na frente do peito. A loja informa: nas páginas do Gotham, do Nox e do Voyage, o peitoral é descrito como “Perfeito para cães que puxam” e “Inibe puxões”; na do H3D Fly, o produto aparece como “Peitoral Antipuxão” e fala em reduzir o impacto e o desconforto de grandes puxões.",
+        "Nos quatro modelos, o funcionamento segue a mesma lógica:"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "alt": "Peitoral Zee.Dog SofterWalk Gotham mostrando a argola frontal no peito e a argola dorsal",
+          "caption": "SofterWalk Gotham: argola frontal no peito e argola nas costas. Foto: Zee.Dog / Petz.",
+          "href": "https://www.petz.com.br/produto/peitoral-anti-puxao-zeedog-softerwalk-gotham-para-caes-182094",
+          "objectFit": "contain",
+          "aspectRatio": 2.0548
+        }
       ],
       "bullets": [
-        "**Argola.** “2 opções de argola: no peito e no dorso”. No H3D Fly, a do dorso fica junto da alça de controle, “caso prefira uma configuração de peitoral padrão”.",
-        "**Alça de controle.** Forrada com neoprene no Gotham, no Nox e no Voyage.",
-        "**Ajuste.** “Tiras totalmente reguláveis”.",
-        "**Fecho.** “Sistema de trava em 4 pontos” no Gotham e no Nox; o H3D Fly fala em “super fecho com sistema de trava”."
+        "**Duas argolas em posições opostas:** uma argola frontal no peito para o modo antipuxão e outra dorsal para o passeio tradicional.",
+        "**Alça de controle:** presente no dorso (forrada com neoprene no Gotham, no Nox e no Voyage; no H3D Fly, fica junto da argola traseira).",
+        "**Ajuste e trava:** tiras totalmente reguláveis e fecho com sistema de trava em quatro pontos no Gotham e no Nox (e super fecho com sistema de trava no H3D Fly)."
       ],
       "postParagraphs": [
-        "As fichas não dizem que o peitoral resolve o puxão. O texto fica no que a loja publica.",
-        "Vale para quem quer a argola na frente do peito e a opção de trocar para o dorso. Se o seu cachorro está fora das faixas de medida da tabela abaixo, o SofterWalk não serve, e a ficha não diz o que fazer nesse caso."
+        "Vale para quem precisa da argola peitoral sem abrir mão da argola traseira. Não escolha se o seu cão ficar fora das medidas do P ao G ou se você espera que o acessório substitua treino e condução."
       ]
     },
     {
-      "heading": "Medidas do SofterWalk, modelo a modelo",
+      "heading": "Medidas do SofterWalk e a divergência do Voyage",
       "paragraphs": [
-        "A mesma linha não tem a mesma tabela em todos os modelos. O Gotham e o Nox trazem as mesmas faixas; o Voyage e o H3D Fly têm faixas próprias, e o H3D Fly chama a segunda medida de “regulagem do peito”, não “da frente”. Compare sempre na página do modelo que você vai comprar."
+        "Mesmo dentro da família SofterWalk, as faixas em centímetros mudam entre as versões. O Gotham e o Nox compartilham a mesma grade, o H3D Fly usa medida própria chamada “peito” em vez de “frente”, e a página do Voyage merece atenção extra antes do clique."
       ],
       "comparisonTable": {
-        "caption": "Medidas aproximadas das fichas, em centímetros. A coluna da direita segue o nome que cada ficha usa.",
+        "caption": "Medidas aproximadas das páginas da Petz, em centímetros.",
         "headers": [
           "Modelo e tamanho",
-          "Regulagem do tórax",
-          "Regulagem da frente (peito no H3D Fly)"
+          "Tórax",
+          "Frente (peito no H3D Fly)"
         ],
         "rows": [
           [
@@ -139,17 +164,17 @@
             "25 a 33"
           ],
           [
-            "Voyage, P",
+            "Voyage, P (tabela em texto)",
             "41 a 54",
             "24 a 26"
           ],
           [
-            "Voyage, M",
+            "Voyage, M (tabela em texto)",
             "61 a 80",
             "33 a 40"
           ],
           [
-            "Voyage, G",
+            "Voyage, G (tabela em texto)",
             "78 a 106",
             "42 a 50"
           ],
@@ -171,56 +196,77 @@
         ]
       },
       "postParagraphs": [
-        "No Gotham e no Nox, as faixas de tórax do M e do G se cruzam: de 74 a 79 cm cabem os dois tamanhos. A ficha não diz qual escolher nessa faixa; olhe também a medida da frente, que é de 22 a 31 cm no M e de 25 a 33 cm no G."
+        "No SofterWalk Voyage, há uma divergência dentro da própria página da Petz: a tabela em texto das especificações lista as faixas acima, enquanto a foto 3 da galeria exibe a tabela da versão clássica (48–61 / 58–79 / 74–105 cm de tórax). Se a medida do seu cachorro cair exatamente na fronteira entre dois tamanhos no Voyage, confirme as tiras na entrega antes de tirar a etiqueta.",
+        "Também no Gotham e no Nox, o tórax de 74 a 79 cm cabe tanto no M quanto no G: nesse caso, desempate pela largura da frente."
       ]
     },
     {
-      "heading": "FlyHarness: o que a ficha não diz",
+      "heading": "FlyHarness Gotham: colete sem argola frontal",
       "paragraphs": [
-        "O FlyHarness Gotham é o mais caro da lista. A ficha não usa a palavra antipuxão: fala em “alça de controle para melhor domínio sobre o cachorro”, em “sistema de ajuste rápido com 2 tiras” e em “basta um clique para colocar e tirar”, além de faixa refletiva 360°. Por isso o texto não o chama de antipuxão.",
-        "Os tamanhos vão de T1 a T5, com a regulagem medida no peito."
+        "O [FlyHarness Gotham](https://www.petz.com.br/produto/peitoral-zeedog-flyharness-gotham-para-caes-169609) é o modelo mais caro da lista, mas não é um peitoral antipuxão. Ele tem formato de colete em trama aerada, faixa refletiva 360 graus, ajuste rápido com duas tiras para vestir com um clique e uma alça superior de controle para segurar o cão em aproximações curtas.",
+        "O ponto decisivo da fixação: ele traz apenas argola dorsal e não tem argola frontal no peito. Entre os tamanhos Tam 1 a Tam 5, a única faixa informada na página é a circunferência do peito."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "alt": "Peitoral Zee.Dog FlyHarness Gotham mostrando a alça de controle e argola dorsal",
+          "caption": "FlyHarness Gotham: alça superior e argola apenas nas costas, sem argola no peito. Foto: Zee.Dog / Petz.",
+          "href": "https://www.petz.com.br/produto/peitoral-zeedog-flyharness-gotham-para-caes-169609",
+          "objectFit": "contain",
+          "aspectRatio": 2.0548
+        }
       ],
       "comparisonTable": {
-        "caption": "FlyHarness Gotham, medidas da ficha em centímetros.",
+        "caption": "Medidas publicadas para o FlyHarness Gotham, em centímetros.",
         "headers": [
           "Tamanho",
-          "Regulagem do peito"
+          "Peito"
         ],
         "rows": [
           [
-            "T1",
+            "Tam 1",
             "34 a 45"
           ],
           [
-            "T2",
+            "Tam 2",
             "43 a 65"
           ],
           [
-            "T3",
+            "Tam 3",
             "55 a 77"
           ],
           [
-            "T4",
+            "Tam 4",
             "62 a 86"
           ],
           [
-            "T5",
+            "Tam 5",
             "73 a 103"
           ]
         ]
       },
       "postParagraphs": [
-        "É um modelo para quem gosta do fecho de um clique e da faixa refletiva e não procura a frase sobre puxões na ficha. Quem procura essa frase tem o SofterWalk."
+        "Escolha o FlyHarness se a prioridade for praticidade para vestir, visibilidade noturna e alça de apoio rápido nas costas. Se você quer reduzir trancos pela guia presa no peito, fique na linha SofterWalk."
       ]
     },
     {
       "heading": "Spike Geo e Pastel Mint: a versão de entrada",
       "paragraphs": [
-        "Os dois são regulados no pescoço e na cintura, com duas posições para prender a guia, segundo as fichas. O Pastel Mint, da própria Petz, é feito de poliéster e a ficha cita “textura macia e sedosa”. Nenhuma das duas fichas fala em puxão ou antipuxão.",
-        "Servem a quem quer um peitoral simples para o passeio e gasta menos. Quem escolheu o peitoral pela frase “Inibe puxões” não a encontra aqui."
+        "Tanto o [Spike Geo](https://www.petz.com.br/produto/peitoral-spike-geo-para-caes-179326) quanto o [Pastel Mint](https://www.petz.com.br/produto/peitoral-petz-pastel-mint-para-caes-179897) são peitorais em H tradicionais: nenhum dos dois possui argola frontal no peito nem cita função antipuxão.",
+        "As duas argolas ficam na tira do dorso (costas), uma perto da alça do pescoço e outra próxima à cintura, para variar o encaixe da guia sem puxar pelo peito. No Pastel Mint, o tamanho M estava ausente no seletor da Petz; os tamanhos disponíveis estavam com 58% a 60% OFF (de R$ 69,99 no PP a R$ 99,99 no G)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "alt": "Peitoral Petz Pastel Mint em H aberto exibindo as duas argolas na tira dorsal",
+          "caption": "Pastel Mint aberto: formato em H com duas argolas nas costas e nenhuma no peito. Foto: Petz.",
+          "href": "https://www.petz.com.br/produto/peitoral-petz-pastel-mint-para-caes-179897",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ],
       "comparisonTable": {
-        "caption": "Medidas das fichas, em centímetros.",
+        "caption": "Medidas dos peitorais em H na Petz, em centímetros.",
         "headers": [
           "Modelo e tamanho",
           "Pescoço",
@@ -258,7 +304,7 @@
             "32 a 53"
           ],
           [
-            "Pastel Mint, M",
+            "Pastel Mint, M (ausente no seletor)",
             "37 a 53",
             "42 a 69"
           ],
@@ -268,37 +314,43 @@
             "62 a 107"
           ]
         ]
-      }
+      },
+      "postParagraphs": [
+        "Servem bem para passeios tranquilos gastando pouco, inclusive para filhotes que ainda vão crescer rápido. Para cão que traciona forte o braço, a fixação dorsal tende a facilitar a alavanca do corpo do cachorro."
+      ]
     },
     {
       "heading": "Como medir antes de comprar",
       "paragraphs": [
-        "Meça o tórax e consulte o ponto de medição indicado para o modelo. A ficha de alguns usa “frente do peito” e a de outros usa “pescoço”. Use o desenho ou a orientação da marca antes de aplicar a medida a outra linha.",
-        "Se a medida cair entre dois tamanhos, ou se o cachorro estiver em crescimento, compare as faixas dos dois na página do modelo. Na dúvida sobre o ajuste no seu animal, o veterinário orienta."
+        "O erro mais comum na compra online é medir apenas o tórax ou usar a tabela de uma linha para comprar outra. Nos peitorais SofterWalk, você precisa do contorno do tórax (atrás das patas dianteiras) e da largura frontal no peito, enquanto nos peitorais em H o segundo ponto é o pescoço.",
+        "Regra prática, sem teste nosso, ao passar a fita métrica: meça o cachorro em pé e deixe uma folga de dois dedos entre a fita e o pelo, para a tira não incomodar quando ele caminhar ou trotar."
       ],
-      "image": {
-        "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
-        "alt": "Quadro «Medir antes de comprar»: passar a fita no tórax, medir também o pescoço ou a frente, comparar com a tabela da página do modelo e, entre dois tamanhos, olhar as duas faixas.",
-        "caption": "Quadro: Em Casa com Cecília.",
-        "objectFit": "contain",
-        "aspectRatio": 1
-      }
+      "images": [
+        {
+          "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "alt": "Diagrama oficial Zee.Dog indicando onde passar a fita métrica na frente e no tórax",
+          "caption": "Diagrama oficial da Zee.Dog mostrando onde passar a fita métrica na frente do peito (Frente) e atrás das patas dianteiras (Tórax), com números ilustrativos do tamanho M daquele catálogo (61–80 cm de tórax e 33–40 cm de frente); na página do Gotham na Petz, o M consta como 58–79 cm e 22–31 cm. Fonte: Zee.Dog.",
+          "href": "https://www.petz.com.br/produto/peitoral-anti-puxao-zeedog-softerwalk-gotham-para-caes-182094",
+          "objectFit": "contain",
+          "aspectRatio": 0.8271
+        }
+      ]
     },
     {
       "heading": "Qual peitoral escolher",
       "paragraphs": [
-        "Se você procura a palavra puxão na ficha, os quatro SofterWalk são os que a trazem. O Gotham, o H3D Fly e o Voyage custam o mesmo na página, e o Nox é o mais caro da linha. Escolha pela tabela de medidas, que muda de um modelo para outro.",
-        "Se o orçamento é menor e um peitoral simples basta, o Spike Geo e o Pastel Mint cobrem do PP ao G. O FlyHarness fica para quem quer o fecho rápido e aceita pagar mais por ele. A escolha segue o que cada ficha diz e o seu cachorro na fita métrica."
+        "Se a prioridade é ter argola frontal no peito para ajudar no controle dos puxões, escolha dentro da linha SofterWalk pela tabela do modelo: Gotham, H3D Fly e Voyage empatam no preço, enquanto o Nox custa R$ 20 a mais na vitrine ou R$ 18 a mais na simulação com 10% para os dois.",
+        "Se o seu cachorro já anda sem puxar e você quer vestir em segundos com alça superior e faixa refletiva, o FlyHarness Gotham atende melhor, embora seja o mais caro da tabela. Já para orçamento enxuto ou cão em crescimento sem puxão intenso, o Spike Geo e o Pastel Mint entregam regulagem em H por menos de um terço do valor."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Peitoral antipuxão funciona? A Petz descreve argola frontal nos modelos SofterWalk. Esse é um recurso da ficha. Para escolher pelo ajuste e pela condução do seu cachorro, confirme as medidas e peça orientação de um profissional se precisar.",
-        "Qual peitoral para cachorro que puxa tem na Petz? Pela ficha, os SofterWalk da Zee.Dog, com argola no peito e no dorso; a tabela do início mostra preço e tamanhos.",
-        "Como saber o tamanho do peitoral? Meça o cachorro com fita e compare com a tabela de medidas da página do modelo, que muda de um modelo para outro, até na mesma linha.",
-        "Peitoral Zee.Dog tem cupom? O EMCASA dá 10% nos itens fora de oferta. Confira a linha do desconto na sacola, e veja o passo a passo no guia do cupom.",
-        "O FlyHarness é antipuxão? A ficha não usa essa palavra; ela fala em alça de controle e ajuste com duas tiras."
+        "Quais peitorais da lista têm argola frontal no peito? Apenas os quatro modelos SofterWalk da Zee.Dog (Gotham, Nox, H3D Fly e Voyage) contam com argola peitoral além da argola nas costas.",
+        "O FlyHarness Gotham é peitoral antipuxão? Não pela fixação da guia: ele traz apenas argola dorsal e alça superior de controle, sem argola no peito.",
+        "O Spike Geo e o Pastel Mint têm duas argolas para antipuxão? As duas argolas desses modelos em H ficam na tira do dorso, próximas ao pescoço e à cintura, sem encaixe frontal no peito.",
+        "Por que as medidas do diagrama da Zee.Dog diferem das do Gotham na Petz? O diagrama oficial usa as medidas ilustrativas do M daquele catálogo, enquanto na Petz o Gotham e o Nox usam grade clássica menor; confira sempre a tabela de texto do modelo escolhido.",
+        "O cupom EMCASA funciona em todos os peitorais? A sacola da Petz fica com o maior desconto por item, sem somar percentuais: o EMCASA reduz 10% nos modelos sem desconto maior, enquanto em promoções acima disso, como o Pastel Mint, vale o preço promocional da página."
       ]
     }
   ],
@@ -306,29 +358,32 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você procura a frase sobre puxões na ficha e quer a argola no peito e no dorso: os SofterWalk são os que a trazem.",
-      "Você quer um peitoral simples e gasta menos: o Spike Geo ou o Pastel Mint cobrem do PP ao G."
+      "Você procura um peitoral com argola frontal no peito e quer comparar as faixas de medida reais entre Gotham, Nox, H3D Fly e Voyage.",
+      "Você quer saber o que muda no encaixe antes de pagar mais caro pelo FlyHarness ou economizar no Spike Geo e Pastel Mint."
     ],
     "skipIf": [
-      "Seu cachorro está fora das faixas de medida do modelo que você escolheu, pequeno ou grande demais.",
-      "Você espera uma promessa de resultado no passeio: nenhuma ficha lida a faz."
+      "As medidas de tórax ou frente do seu cachorro ficam fora das grades P a G da linha SofterWalk ou Tam 1 a Tam 5 do FlyHarness.",
+      "Você busca o tamanho M do Pastel Mint imediatamente e ele continuar ausente no seletor da loja."
     ]
   },
   "cta": {
-    "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o código aplicado. O EMCASA vai no campo “Digite seu cupom” da sacola.",
+    "text": "Entre pelo botão para abrir a loja emcasa na Petz e cole o EMCASA no campo “Digite seu cupom” da sacola antes de finalizar.",
     "label": "Ir para a Petz",
     "url": "https://petz.com.br/parceiro/emcasa",
     "sponsored": true
   },
   "coupon": "EMCASA",
   "affiliate": "petz",
-  "editorialNote": "Preços e medidas vêm das fichas da Petz, sem login e sem CEP. Ninguém da equipe usou os peitorais. Somos parceiros da Petz e podemos receber comissão pelo código EMCASA.",
+  "editorialNote": "Dados das páginas da Petz. Ninguém da equipe usou. Somos parceiros e podemos receber comissão pelo EMCASA.",
   "relatedArticles": [
     {
       "slug": "cupom-petz-como-usar"
     },
     {
       "slug": "assinatura-petz-ou-cupom"
+    },
+    {
+      "slug": "enxoval-filhote-cachorro-lista-com-preco"
     },
     {
       "slug": "petz-entrega-expressa-ou-retirar-na-loja"

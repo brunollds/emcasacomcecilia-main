@@ -3,7 +3,7 @@
   "slug": "enxoval-filhote-cachorro-lista-com-preco",
   "locale": "pt",
   "title": "Enxoval do filhote de cachorro: a lista com preço na Petz",
-  "seoTitle": "Enxoval do filhote de cachorro: lista com preço",
+  "seoTitle": "Enxoval de filhote de cachorro na Petz: lista com preços",
   "type": "Lista de Compra",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Lista do enxoval do filhote de cachorro na Petz, item por item, com o preço do dia, o total e o código EMCASA. Ração, comedouro, cama, guia, tapete e caixa de transporte.",
-  "metaDescription": "EMCASA dá 10% OFF na Petz nos itens sem oferta. Veja o enxoval do filhote de cachorro item por item, com o preço do dia, o total e a conta do código.",
+  "description": "Lista do enxoval do filhote de cachorro na Petz, item por item, com preço, total e onde o EMCASA entra. Traz também trocas para cão adulto ou de porte maior.",
+  "metaDescription": "EMCASA dá 10% OFF na Petz. A sacola aplica o maior desconto por item. Veja a lista do enxoval do filhote, com preços e o total.",
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
   "draft": false,
@@ -28,16 +28,16 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O exemplo para um filhote de porte pequeno reúne dez itens na Petz, da ração à caixa de transporte. A conta usa os preços das páginas antes do frete. Compare as medidas do filhote e o que você já tem em casa. O desconto do EMCASA nesta lista é estimado."
+        "Esta lista de referência para filhote de porte pequeno reúne dez itens na Petz, da ração à caixa de transporte, antes do frete. Como a sacola fica com o maior desconto por item, nesta simulação o EMCASA baixou quatro produtos. Compare abaixo os preços, o total e as trocas para porte maior."
       ]
     },
     {
       "heading": "A lista: dez itens, um por categoria",
       "paragraphs": [
-        "Esta é uma lista de referência para um filhote de porte pequeno. Confira as medidas da cama, do peitoral e da caixa antes de comprar. Se você já tem algum item, retire a linha da soma."
+        "Antes de fechar o pedido para um filhote pequeno, vale conferir o desconto de cada produto: a sacola da Petz aplica o maior desconto por item, sem somar cupom com oferta. Abaixo está a lista básica por categoria, com link direto para cada produto; confirme as medidas da cama, do peitoral e da caixa e tire da soma o que você já tiver."
       ],
       "comparisonTable": {
-        "caption": "Preços das páginas da Petz em 21/11/2026, antes de frete e sem CEP. A simulação aplica 10% aos itens sem oferta e mantém o preço dos demais.",
+        "caption": "Preços das páginas da Petz em 21/11, antes do frete e sem CEP. A última coluna simula 10% nos quatro itens sem desconto maior na página.",
         "headers": [
           "Item",
           "Preço da página",
@@ -45,53 +45,53 @@
         ],
         "rows": [
           [
-            "Ração Golden Special Filhotes Porte Pequeno, 3 kg",
+            "[Ração Golden Special Filhotes Porte Pequeno, 3 kg](https://www.petz.com.br/produto/racao-golden-special-para-caes-filhotes-de-porte-pequeno-sabor-frango-e-carne-190441)",
             "R$ 59,99",
             "R$ 53,99"
           ],
           [
-            "Comedouro Chalesco antiderrapante inox, Tam 1",
-            "R$ 16,79 (oferta)",
+            "[Comedouro Chalesco antiderrapante inox, Tam 1](https://www.petz.com.br/produto/comedouro-chalesco-antiderrapante-inox-para-caes-163964)",
+            "R$ 16,79 (30% OFF de R$ 23,99)",
             "R$ 16,79"
           ],
           [
-            "Bebedouro Chalesco automático, 600 ml",
+            "[Bebedouro Chalesco automático, 600 ml](https://www.petz.com.br/produto/bebedouro-automatico-chalesco-para-caes-600-ml-cores-sortidas-77007)",
             "R$ 52,99",
             "R$ 47,69"
           ],
           [
-            "Cama Spike colchonete azul, P",
+            "[Cama Spike colchonete azul, P](https://www.petz.com.br/produto/cama-spike-colchonete-azul-194149)",
             "R$ 109,99",
             "R$ 98,99"
           ],
           [
-            "Peitoral Spike Geo, PP",
+            "[Peitoral Spike Geo, PP](https://www.petz.com.br/produto/peitoral-spike-geo-para-caes-179326)",
             "R$ 31,99",
             "R$ 28,79"
           ],
           [
             "[Guia Toh Corda Preta, 1,20 m](https://www.petz.com.br/produto/guia-toh-corda-preta-para-caes)",
-            "R$ 41,99 (oferta)",
+            "R$ 41,99 (30% OFF de R$ 59,99)",
             "R$ 41,99"
           ],
           [
-            "Tapete higiênico Petz superabsorvente, 30 unidades",
-            "R$ 79,99 (oferta)",
+            "[Tapete higiênico Petz superabsorvente, 30 unidades](https://www.petz.com.br/produto/tapete-higienico-petz-para-caes-superabsorvente-30-unidades-149767)",
+            "R$ 79,99 (27% OFF de R$ 109,99)",
             "R$ 79,99"
           ],
           [
-            "Brinquedo Spike macaco de pelúcia",
-            "R$ 24,99 (oferta)",
+            "[Brinquedo Spike macaco de pelúcia](https://www.petz.com.br/produto/brinquedo-spike-macaco-de-pelucia-para-caes-191238)",
+            "R$ 24,99 (28% OFF de R$ 34,99)",
             "R$ 24,99"
           ],
           [
-            "Escova Chalesco Special Pets, P",
-            "R$ 20,39 (oferta)",
+            "[Escova Chalesco Special Pets, P](https://www.petz.com.br/produto/escova-chalesco-special-pets-72615)",
+            "R$ 20,39 (15% OFF de R$ 23,99)",
             "R$ 20,39"
           ],
           [
-            "Caixa de transporte Furacão Pet Joy, Tam 1",
-            "R$ 48,99 (oferta)",
+            "[Caixa de transporte Furacão Pet Joy, Tam 1](https://www.petz.com.br/produto/caixa-de-transporte-furacao-pet-joy-preta-para-caes-e-gatos-tam-1-175246)",
+            "R$ 48,99 (30% OFF de R$ 69,99)",
             "R$ 48,99"
           ],
           [
@@ -102,64 +102,117 @@
         ]
       },
       "postParagraphs": [
-        "Os preços são os da página do produto, sem CEP. Na sacola, confira a linha do desconto antes de pagar."
-      ],
-      "image": {
-        "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
-        "alt": "Quadro com o total do enxoval do filhote na Petz: R$ 488,10 pelos preços das páginas e R$ 462,60 com o EMCASA, que desconta só os quatro itens fora de oferta.",
-        "caption": "Quadro: Em Casa com Cecília.",
-        "objectFit": "contain",
-        "aspectRatio": 1
-      }
+        "Os valores são das páginas de produto, sem login e sem CEP. Na sacola, o preço pode variar de acordo com a região e o canal de entrega: confira o total antes de finalizar."
+      ]
     },
     {
       "heading": "A conta com o EMCASA",
       "paragraphs": [
-        "A diferença entre as duas colunas é de R$ 25,50, e vem só de quatro itens, os que estavam sem oferta: a ração (de R$ 59,99 para R$ 53,99), o bebedouro (de R$ 52,99 para R$ 47,69), a cama (de R$ 109,99 para R$ 98,99) e o peitoral (de R$ 31,99 para R$ 28,79).",
-        "A regra do [cupom Petz](/cupons/petz) é manter o maior desconto em cada produto, sem somar percentuais. A simulação conservou os preços de oferta. No seu carrinho, confira qual desconto ficou em cada item.",
-        "O cálculo segue os valores consultados. Se a promoção ou o preço para seu CEP mudar, refaça a soma. Veja também [como aplicar o EMCASA na Petz](/reviews/cupom-petz-como-usar)."
+        "Conta nossa, pelos preços da tabela: a diferença de R$ 25,50 entre as duas colunas vem dos quatro produtos que estavam sem desconto maior na vitrine (ração, bebedouro, cama e peitoral), todos detalhados linha a linha acima.",
+        "A regra publicada do [cupom Petz](/cupons/petz) é que a sacola fica com o maior desconto por item, sem somar percentuais. Nesta simulação, como os outros seis produtos já estavam com 15% a 30% OFF, a sacola mantém a oferta neles e o EMCASA entra nos quatro restantes.",
+        "Quem usa a Assinatura Petz também chega ao mesmo 10% OFF nesses quatro itens elegíveis, empatando com o valor simulado, sem acumular com o código. Veja o comparativo completo em [Assinatura Petz ou cupom EMCASA](/reviews/assinatura-petz-ou-cupom) e o passo a passo de sacola em [como aplicar o EMCASA na Petz](/reviews/cupom-petz-como-usar)."
       ]
     },
     {
       "heading": "Ração, comedouro e bebedouro",
+      "paragraphs": [
+        "A escolha do tamanho do pote e do pacote de ração define o quanto você precisa repor nas primeiras semanas."
+      ],
       "bullets": [
-        "Ração: a Golden Special para filhotes de porte pequeno, sabor frango e carne, vem em 3 kg e em 15 kg (R$ 176,99). A ficha traz tabela de consumo por porte e peso. Qual ração dar e em que quantidade, o veterinário decide.",
-        "Comedouro: o Chalesco de inox tem base antiderrapante e três tamanhos. O Tam 1 leva 235 ml e mede 3,5 cm de altura por 6 cm de largura. O Tam 2 leva 480 ml (R$ 29,39) e o Tam 3, 710 ml (R$ 37,09). A ficha não diz para que porte cada tamanho serve.",
-        "Bebedouro: o Chalesco automático leva 600 ml. A ficha diz que o bico garante maior durabilidade e que o bebedouro se usa em garrafas pet de todos os tamanhos."
+        "**Ração:** A loja informa: a Golden Special Filhotes Porte Pequeno, sabor frango e carne, vem em pacotes de 3 kg e de 15 kg (R$ 176,99), com tabela de consumo por peso e idade na página do produto. A marca, a linha e a quantidade diária quem indica é o veterinário.",
+        "**Comedouro:** O Chalesco de aço inoxidável tem base antiderrapante e três tamanhos. O Tam 1 da lista comporta 235 ml e mede 3,5 cm de altura por 6 cm de largura; há ainda o Tam 2 de 480 ml (R$ 29,39) e o Tam 3 de 710 ml (R$ 37,09).",
+        "**Bebedouro:** O Chalesco automático tem capacidade para 600 ml, bico em aço inox acionado ao lamber e presilha ajustável para garrafa PET."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "alt": "Embalagem da Ração Golden Special Filhotes Porte Pequeno, 3 kg, sabor frango e carne",
+          "caption": "Ração Golden Special Filhotes Porte Pequeno, 3 kg: sem desconto maior na vitrine, entra nos 10% OFF da simulação com EMCASA. Foto: Petz.",
+          "href": "https://www.petz.com.br/produto/racao-golden-special-para-caes-filhotes-de-porte-pequeno-sabor-frango-e-carne-190441",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ]
     },
     {
       "heading": "Cama, peitoral e guia",
+      "paragraphs": [
+        "Em vez de coleira de pescoço e caminha fechada que perde o tamanho rápido, a lista prioriza um colchonete fácil de lavar e o conjunto em H com guia reforçada."
+      ],
       "bullets": [
-        "Cama: o colchonete Spike é de fibra de poliéster e, segundo a ficha, é enrolável e pode ser usado em viagens. O tamanho P mede 81 por 66 cm e tem 2 cm de altura. O M (R$ 129,99) mede 105 por 66 cm.",
-        "Peitoral: o Spike Geo PP é regulável no pescoço e na cintura e tem duas posições para prender a guia, segundo a ficha. Os tamanhos seguem em P (R$ 34,99), M (R$ 39,99) e G (R$ 49,99). As medidas de cada tamanho estão na ficha.",
-        "Guia: a Toh Corda Preta de 1,20 m é de corda de polipropileno e fecha por mosquetão, pela ficha. É esse modelo que entra na conta com o peitoral. A guia unificada da Toh já tem a parte da coleira."
+        "**Cama:** A Cama Spike colchonete azul é enrolável e lavável à máquina. No tamanho P, mede 81 × 66 × 2 cm; o tamanho M custa R$ 129,99 e não havia tamanho G disponível na página.",
+        "**Peitoral:** O Spike Geo é um peitoral em H de poliéster, regulável no pescoço e no tórax, com o tamanho PP atendendo de 14 a 37 cm de pescoço e 22 a 46 cm de tórax. Se o cachorro puxa na guia, compare também os modelos com argola frontal no nosso [guia de peitoral para cachorro que puxa](/reviews/peitoral-cachorro-que-puxa-petz).",
+        "**Guia:** A [Guia Toh Corda Preta, 1,20 m](https://www.petz.com.br/produto/guia-toh-corda-preta-para-caes) é feita em polipropileno com miolo de 6 cordas trançadas e mosquetão em Zamac que não enferruja com tração de até 240 kg. Esse é o modelo que combina com o peitoral; a versão unificada da marca já substitui a coleira."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "alt": "Colchonete enrolável Cama Spike Azul para cães",
+          "caption": "Cama Spike colchonete azul, P: modelo enrolável e lavável à máquina. Foto: Petz.",
+          "href": "https://www.petz.com.br/produto/cama-spike-colchonete-azul-194149",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "alt": "Guia Toh Corda Preta com mosquetão em Zamac e pegador de corda",
+          "caption": "Guia Toh Corda Preta, 1,20 m, com mosquetão em Zamac. Foto: Petz.",
+          "href": "https://www.petz.com.br/produto/guia-toh-corda-preta-para-caes",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ]
     },
     {
       "heading": "Tapete, brinquedo, escova e caixa de transporte",
+      "paragraphs": [
+        "Na hora de escolher a caixa de transporte do enxoval, confira primeiro o limite de peso do filhote antes de fechar o pedido; os demais itens de rotina seguem o consumo básico da chegada em casa."
+      ],
       "bullets": [
-        "Tapete higiênico: a embalagem tem 30 unidades. Cada tapete mede 60 por 80 cm, com 60 por 50 cm de área de absorção. A ficha não diz quantos tapetes um filhote usa.",
-        "Brinquedo: o macaco de pelúcia da Spike mede 50 por 12 por 5 cm e tem olhos bordados. A ficha o descreve como perfeito para pets em fase de crescimento e não traz orientação de uso.",
-        "Escova: a Chalesco Special Pets P mede 17 por 5,5 cm. A G (R$ 26,99) mede 23 por 7 cm.",
-        "Caixa de transporte: a Furacão Pet Joy Tam 1 mede 26,5 por 31 por 46 cm. A ficha fala em fácil montagem e diz que a caixa não tem parafusos ou outros objetos perfurantes. Ela não informa o peso máximo do animal, então esse dado fica sem resposta aqui."
+        "**Tapete higiênico:** O pacote da Petz traz 30 unidades no tamanho M (60 × 80 cm, área de absorção de 60 × 50 cm), com fita adesiva no verso e atrativo canino.",
+        "**Brinquedo:** O macaco de pelúcia da Spike é de poliéster, mede 50 × 12 × 5 cm, tem olhos bordados e apito interno. Supervisione o uso se o filhote costuma rasgar pelúcias.",
+        "**Escova:** A Chalesco Special Pets P mede 17 × 5,5 cm e tem dupla face, com um lado em cerdas de aço inox e o outro de cerdas de pelo.",
+        "**Caixa de transporte:** A Furacão Pet Joy Tam 1 mede 26,5 × 31 × 46 cm, suporta até 5 kg, fecha com quatro travas laterais sem parafusos e não segue padrão IATA para porão de avião."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "alt": "Caixa de transporte Furacão Pet Joy Preta Tam 1 com travas laterais e abertura frontal",
+          "caption": "Caixa Furacão Pet Joy Tam 1: até 5 kg, sem parafusos e fora do padrão IATA. Foto: Petz.",
+          "href": "https://www.petz.com.br/produto/caixa-de-transporte-furacao-pet-joy-preta-para-caes-e-gatos-tam-1-175246",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Se o cachorro for adulto ou de porte médio e grande",
+      "paragraphs": [
+        "Se você já adotou um cão adulto ou espera um filhote de porte médio ou grande, ração e caixa de transporte são os dois itens que mudam de categoria e mais mexem no orçamento.",
+        "Regra prática, sem teste nosso, ao montar o enxoval em casa: compre a caixa de transporte pensando no tamanho previsto do cão e confira se ele consegue ficar em pé e dar uma volta completa lá dentro, para não perder o acessório em poucas semanas."
+      ],
+      "bullets": [
+        "**Filhote de raça grande:** A [Ração Golden Mega Filhotes Raças Grandes Frango e Arroz 15 kg](https://www.petz.com.br/produto/racao-golden-caes-filhotes-racas-grandes-sabor-frango-e-arroz-15kg-71349) aparece por R$ 189,99 (R$ 170,99 na simulação com EMCASA).",
+        "**Cão adulto:** A [Ração Golden Special Adultos Frango e Carne 15 kg](https://www.petz.com.br/produto/racao-golden-special-para-caes-adultos-sabor-frango-e-carne-71343) custa R$ 159,99 (R$ 143,99 na simulação com o código).",
+        "**Caixa intermediária (5 a 10 kg):** A [Caixa Furacão Pet Luxo Tam 3](https://www.petz.com.br/produto/caixa-de-transporte-luxo-furacao-pet-preto-e-azul-95016) estava em oferta de R$ 199,99 por R$ 154,79.",
+        "**Caixa grande com padrão IATA:** A [Caixa Chalesco Gulliver com Rodinhas](https://www.petz.com.br/produto/caixa-de-transporte-chalesco-gulliver-cinza-com-rodinhas-76962) estava de R$ 1.899,99 por R$ 959,00 em oferta, com o tamanho 6 disponível em estoque."
       ]
     },
     {
       "heading": "O que ficou fora da lista",
       "paragraphs": [
-        "Antipulgas, vermífugo e vacina não entram: são decisões de saúde, e quem indica produto e momento é o veterinário. Também deixei de fora a ração de filhote de linha para cães em treinamento e competição, que a ficha descreve para esse uso.",
-        "Para porte médio ou grande, ração, caixa e comedouro mudam de tamanho, e a lista não cobre esses itens. Se a casa já tem parte do enxoval, tire as linhas correspondentes da tabela e refaça a soma."
+        "Antipulgas, vermífugos, vacinas e suplementos ficam fora desta soma porque dependem de avaliação presencial e peso exato em consulta veterinária.",
+        "Se a casa já tem tigelas, cama ou caixa de outro animal, basta remover essas linhas da tabela e refazer a conta com o que realmente falta comprar."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quanto custa o enxoval de um filhote de cachorro na Petz? Os dez itens do exemplo somam cerca de 488 reais antes do frete. Na simulação com o EMCASA, ficam em cerca de 462 reais. O carrinho e o frete dependem do CEP.",
-        "A Petz dá desconto no enxoval? O EMCASA aplica 10% nos itens elegíveis. Em item promocional fica o maior desconto. Veja na sacola quanto ele tirou do seu pedido.",
-        "Qual ração de filhote comprar? A lista usa a Golden Special para filhotes de porte pequeno, cuja ficha traz tabela de consumo por porte e peso. A escolha da ração e a quantidade, na dúvida, são do veterinário.",
-        "Precisa de peitoral ou coleira para filhote? A lista traz o peitoral Spike Geo PP e a guia, e a ficha do peitoral fala em regulagem no pescoço e na cintura. Quando e como sair com o filhote, o veterinário orienta.",
-        "Quantas unidades de tapete higiênico comprar? A embalagem da lista traz 30 unidades. A ficha não diz quantos tapetes um filhote usa, e esse número depende da rotina da casa."
+        "Quanto custa o enxoval de um filhote de cachorro na Petz? Os dez itens para porte pequeno somam cerca de 488 reais pelos preços das páginas e caem para cerca de 463 reais na simulação com o EMCASA antes do frete; cada linha com os centavos está na tabela do início.",
+        "O cupom EMCASA funciona em todo o enxoval da Petz? A regra da Petz é manter o maior desconto por item, sem somar percentuais; nesta simulação, o EMCASA baixou os quatro itens sem desconto maior e a sacola manteve a oferta nos outros seis.",
+        "A Guia Toh Corda Preta enferruja? Na página da Petz, a guia de 1,20 m tem miolo de 6 cordas trançadas e mosquetão em Zamac que não enferruja com tração de até 240 kg.",
+        "Qual caixa de transporte escolher se o filhote passar de 5 kg? A Furacão Pet Joy Tam 1 atende até 5 kg; para 5 a 10 kg, há a Furacão Pet Luxo Tam 3, e para cães maiores ou viagem aérea no padrão IATA, a Chalesco Gulliver.",
+        "Assinatura Petz ou EMCASA sai mais barato nesse enxoval? Nos quatro itens sem desconto maior desta lista, ambos aplicam 10% OFF e empatam no valor, sem acumular entre si."
       ]
     }
   ],
@@ -167,23 +220,23 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "O cachorro vai ser de porte pequeno: a ração da lista é dessa linha, e a conta já traz o total.",
-      "Você quer um ponto de partida com preço de cada item e a explicação de onde o EMCASA entra."
+      "Você está preparando a chegada de um filhote de porte pequeno e quer uma lista fechada com preços individuais e o efeito real do EMCASA.",
+      "Você prefere substituir apenas ração ou caixa de transporte usando os links prontos para cães adultos ou de porte maior."
     ],
     "skipIf": [
-      "O cachorro vai ser de porte médio ou grande: ração, caixa e comedouro mudam de tamanho e de preço.",
-      "A casa já tem parte dos itens: nesse caso, refaça a soma só com o que falta."
+      "A casa já tem a maior parte dos acessórios e você só precisa repor tapete ou ração avulsa.",
+      "Você busca prescrição de antipulgas, vermífugos ou dieta específica, que dependem do veterinário."
     ]
   },
   "cta": {
-    "text": "Abre a loja emcasa da Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+    "text": "Abre a loja emcasa na Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola antes de pagar.",
     "label": "Ir para a Petz",
     "url": "https://petz.com.br/parceiro/emcasa",
     "sponsored": true
   },
   "coupon": "EMCASA",
   "affiliate": "petz",
-  "editorialNote": "Preços lidos nas páginas da Petz, sem login e sem CEP. Não testamos os produtos: o texto segue o que a loja publica. Somos parceiros da Petz e podemos receber comissão pelo código EMCASA.",
+  "editorialNote": "Preços lidos na Petz. Ninguém da equipe usou. Somos parceiros e podemos receber comissão pelo EMCASA.",
   "relatedArticles": [
     {
       "slug": "cupom-petz-como-usar"
