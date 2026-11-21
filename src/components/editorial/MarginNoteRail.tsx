@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState, useCallback } from 'react';
 import { RichMarginNote } from './RichMarginNote';
 import { EditorialNotePill, type EditorialNoteLabels } from './EditorialNotePill';
 import { parseLineAnchor } from '@/lib/pretext/lineAnchorCodec';
+import { isRtl } from '@/components/ui/direction';
 import type { EditorialNoteData } from '@/lib/content';
 
 export interface MarginNoteRailProps {
@@ -19,8 +20,10 @@ export interface MarginNoteRailProps {
   variant?: 'editorial' | 'd2';
 }
 
+const RTL_NOTE_OFFSET = 244 + 24;
+
 /**
- * MarginNoteRail — positions line-anchored editorial notes in the left gutter.
+ * MarginNoteRail — positions line-anchored editorial notes in the start gutter (left in LTR, right in RTL).
  *
  * Wraps a prose section and renders line-anchored notes with adaptive fallbacks:
  * - Mobile (<xl): EditorialNotePill at top of section (visible, discoverable)
@@ -86,11 +89,14 @@ export function MarginNoteRail({
     // Calculate left position of prose element relative to container
     const proseRect = proseRef.current.getBoundingClientRect();
     const containerRect = containerRef.current.getBoundingClientRect();
-    const proseLeftRelative = proseRect.left - containerRect.left;
+    // Em RTL a margem livre é a da direita. O RichMarginNote põe a nota em noteLeft - 244 px (220 da nota e 24 de
+    // folga): com o deslocamento, a nota fica 24 px à direita do texto.
+    const rtl = isRtl(proseRef.current);
+    const proseLeftRelative = rtl ? proseRect.right - containerRect.left + RTL_NOTE_OFFSET : proseRect.left - containerRect.left;
     setNoteLeft(proseLeftRelative);
 
-    // Check if there's real gutter space (left distance to viewport edge)
-    const gutterSpace = proseRect.left; // Distance to viewport left in px
+    // Check if there's real gutter space (distance to the viewport edge on the start side)
+    const gutterSpace = rtl ? document.documentElement.clientWidth - proseRect.right : proseRect.left;
 
     // Gate: only show margin notes if gutter >= 250px AND we're in a large viewport
     // RichMarginNote handles the <lg fallback; this rail adds the >=lg-but-no-space fallback
@@ -125,12 +131,7 @@ export function MarginNoteRail({
     setLinePositions(positions);
   }, [anchoredNotes]);
 
-  // Measure on mount
-  useEffect(() => {
-    resolveLineTop();
-  }, [resolveLineTop]);
-
-  // Re-measure on resize
+  // Mede na montagem e a cada mudança de tamanho: o ResizeObserver já chama o callback logo depois do observe.
   useEffect(() => {
     if (!proseRef.current) return;
 

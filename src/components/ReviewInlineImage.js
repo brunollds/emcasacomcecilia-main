@@ -5,6 +5,7 @@ import { createPortal } from 'react-dom';
 import { useState, useCallback, useEffect, useRef } from 'react';
 import { ArrowUpRight, Maximize2, X, ChevronLeft, ChevronRight } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { isRtl, scrollByReading } from '@/components/ui/direction';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { useReviewMediaBlur } from '@/components/review/useReviewMediaBlur';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
@@ -22,7 +23,7 @@ function useInlineCarouselScroll() {
       gapRef.current = parseInt(getComputedStyle(track).gap || '16', 10);
     }
     const cardWidth = firstCard?.offsetWidth || 280;
-    track.scrollBy({ left: direction * (cardWidth + gapRef.current), behavior: 'smooth' });
+    scrollByReading(track, direction * (cardWidth + gapRef.current), 'smooth');
   }, []);
 
   return { trackRef, scrollByCard };
@@ -176,7 +177,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCaro
             className={`block rounded-[1.25rem] ${FOCUS_RING}`}
           >
             {media}
-            <span className="absolute bottom-3 left-3 inline-flex items-center gap-1 rounded-full border-2 border-marinho bg-amarelo-cupom px-3 py-1.5 text-xs font-extrabold text-marinho shadow-[2px_2px_0_var(--color-marinho)] transition-transform group-hover:-translate-y-px">
+            <span className="absolute bottom-3 start-3 inline-flex items-center gap-1 rounded-full border-2 border-marinho bg-amarelo-cupom px-3 py-1.5 text-xs font-extrabold text-marinho shadow-[2px_2px_0_var(--color-marinho)] transition-transform group-hover:-translate-y-px">
               {copy.viewProduct(storeOf(product, image))}
               <ArrowUpRight aria-hidden="true" className="h-3.5 w-3.5" />
             </span>
@@ -184,7 +185,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCaro
           <button
             type="button"
             onClick={(event) => onOpen(index, event.currentTarget)}
-            className={`absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity hover:opacity-100 ${FOCUS_RING}`}
+            className={`absolute bottom-3 end-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity hover:opacity-100 ${FOCUS_RING}`}
             aria-label={copy.enlargeNamed(image.alt)}
           >
             <Maximize2 aria-hidden="true" className="h-3.5 w-3.5" />
@@ -200,7 +201,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCaro
           aria-label={copy.enlargeNamed(image.alt)}
         >
           {media}
-          <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
+          <span className="absolute bottom-3 end-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
             <Maximize2 className="h-3.5 w-3.5" />
             {copy.enlarge}
           </span>
@@ -239,13 +240,15 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy, product
         return;
       }
 
-      if (event.key === 'ArrowLeft' && images.length > 1) {
+      // As setas seguem a leitura: em RTL, a da esquerda vai para a próxima foto.
+      const rtl = isRtl(dialog);
+      if (event.key === (rtl ? 'ArrowRight' : 'ArrowLeft') && images.length > 1) {
         event.preventDefault();
         onPrev();
         return;
       }
 
-      if (event.key === 'ArrowRight' && images.length > 1) {
+      if (event.key === (rtl ? 'ArrowLeft' : 'ArrowRight') && images.length > 1) {
         event.preventDefault();
         onNext();
         return;
@@ -300,7 +303,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy, product
           e.stopPropagation();
           onClose();
         }}
-        className="absolute right-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))] z-50 flex h-11 w-11 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95"
+        className="absolute end-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))] rtl:end-[max(0.75rem,env(safe-area-inset-left))] z-50 flex h-11 w-11 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95"
         aria-label={copy.closeImage}
       >
         <X className="h-6 w-6" />
@@ -350,10 +353,10 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy, product
             className="rounded-full bg-white/10 px-4 py-2 text-sm font-bold hover:bg-white/20"
             aria-label={copy.previousImage}
           >
-            ←
+            <span className="inline-block rtl:-scale-x-100">←</span>
           </button>
           <span className="text-sm">
-            {currentIndex + 1} / {images.length}
+            <bdi dir="ltr">{currentIndex + 1} / {images.length}</bdi>
           </span>
           <button
             type="button"
@@ -364,7 +367,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy, product
             className="rounded-full bg-white/10 px-4 py-2 text-sm font-bold hover:bg-white/20"
             aria-label={copy.nextImage}
           >
-            →
+            <span className="inline-block rtl:-scale-x-100">→</span>
           </button>
         </div>
       )}
@@ -428,8 +431,8 @@ export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt',
     <>
       {isMulti ? (
         <div className="relative mt-6">
-          <div className="pointer-events-none absolute inset-y-0 left-0 z-[1] hidden w-10 bg-gradient-to-r from-white to-transparent sm:block" />
-          <div className="pointer-events-none absolute inset-y-0 right-0 z-[1] hidden w-10 bg-gradient-to-l from-white to-transparent sm:block" />
+          <div className="pointer-events-none absolute inset-y-0 start-0 z-[1] hidden w-10 bg-gradient-to-r from-white to-transparent sm:block rtl:bg-gradient-to-l" />
+          <div className="pointer-events-none absolute inset-y-0 end-0 z-[1] hidden w-10 bg-gradient-to-l from-white to-transparent sm:block rtl:bg-gradient-to-r" />
 
           <div
             ref={trackRef}
@@ -456,18 +459,18 @@ export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt',
               <button
                 type="button"
                 onClick={() => scrollByCard(-1)}
-                className="absolute left-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-marinho sm:inline-flex"
+                className="absolute start-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-marinho sm:inline-flex"
                 aria-label={copy.previousImage}
               >
-                <ChevronLeft size={16} />
+                <ChevronLeft size={16} className="rtl:-scale-x-100" />
               </button>
               <button
                 type="button"
                 onClick={() => scrollByCard(1)}
-                className="absolute right-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-marinho sm:inline-flex"
+                className="absolute end-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-marinho sm:inline-flex"
                 aria-label={copy.nextImage}
               >
-                <ChevronRight size={16} />
+                <ChevronRight size={16} className="rtl:-scale-x-100" />
               </button>
               <p className="mt-2 text-center text-xs text-gray-500 sm:hidden">
                 {copy.swipePhotos(images.length)}

@@ -4,6 +4,7 @@ import { createContext, useContext, useId, useLayoutEffect, useMemo, useRef, use
 import { Check, Copy } from 'lucide-react';
 import { AnimatedTextHighlight } from '@/components/editorial';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
+import { isRtl } from '@/components/ui/direction';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { CouponCodeKind } from '@/lib/couponsData';
 import { getArticleCopy } from './articleCopy';
@@ -76,7 +77,8 @@ export function ArticleCodeCopyProvider({
 
 const VIEWPORT_GUTTER = 12;
 
-// O aviso depois de copiar, logo abaixo do código e alinhado a ele; volta para dentro da tela quando o código está na borda.
+// O aviso depois de copiar, logo abaixo do código e alinhado ao início dele; volta para dentro da tela quando o código
+// está na borda.
 function CopiedBubble({ text }: { text: string }) {
   const ref = useRef<HTMLSpanElement>(null);
 
@@ -85,15 +87,16 @@ function CopiedBubble({ text }: { text: string }) {
     if (!bubble) return;
     const { left, right } = bubble.getBoundingClientRect();
     const limit = document.documentElement.clientWidth - VIEWPORT_GUTTER;
+    // O deslocamento é físico (positivo, para a direita); a margem do início, em RTL, é a da direita e empurra ao contrário.
     const shift = left < VIEWPORT_GUTTER ? VIEWPORT_GUTTER - left : right > limit ? limit - right : 0;
-    bubble.style.marginLeft = `${shift}px`;
+    bubble.style.marginInlineStart = `${isRtl(bubble) ? -shift : shift}px`;
   }, []);
 
   return (
     <span
       ref={ref}
       aria-hidden="true"
-      className="absolute top-full left-0 z-20 mt-2 flex w-max max-w-[min(18rem,calc(100vw-2rem))] items-start gap-1.5 rounded-lg border-2 border-marinho bg-white px-3 py-2 text-left font-sans text-[13px] leading-[18px] font-bold whitespace-normal text-verde-escuro shadow-medium"
+      className="absolute top-full start-0 z-20 mt-2 flex w-max max-w-[min(18rem,calc(100vw-2rem))] items-start gap-1.5 rounded-lg border-2 border-marinho bg-white px-3 py-2 text-start font-sans text-[13px] leading-[18px] font-bold whitespace-normal text-verde-escuro shadow-medium"
     >
       <Check className="mt-px h-4 w-4 shrink-0" />
       {text}
@@ -120,14 +123,14 @@ function CopyableCode({ highlighted, state }: { highlighted: ReactNode; state: C
         className={`relative cursor-pointer rounded-sm whitespace-nowrap text-marinho ${FOCUS_RING}`}
         copiedChildren={
           <>
-            {highlighted}
-            <Check aria-hidden="true" className="ml-1 inline h-[0.9em] w-[0.9em] align-[-0.1em] text-verde-escuro" />
+            <bdi dir="ltr">{highlighted}</bdi>
+            <Check aria-hidden="true" className="ms-1 inline h-[0.9em] w-[0.9em] align-[-0.1em] text-verde-escuro" />
             {activeId === id && <CopiedBubble text={copiedHint} />}
           </>
         }
       >
-        {highlighted}
-        <Copy aria-hidden="true" className="ml-1 inline h-[0.9em] w-[0.9em] align-[-0.1em]" />
+        <bdi dir="ltr">{highlighted}</bdi>
+        <Copy aria-hidden="true" className="ms-1 inline h-[0.9em] w-[0.9em] align-[-0.1em]" />
       </CopyCodeButton>
     </span>
   );
@@ -156,10 +159,10 @@ export function HighlightCoupon({ text, copyable = true }: HighlightCouponProps)
               return item ? (
                 <CopyableCode highlighted={highlighted} state={{ ...item, activeId: copy.activeId, setActiveId: copy.setActiveId }} />
               ) : (
-                highlighted
+                <bdi dir="ltr">{highlighted}</bdi>
               );
             }
-          : undefined
+          : (_term, highlighted) => <bdi dir="ltr">{highlighted}</bdi>
       }
     />
   );

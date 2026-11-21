@@ -5,6 +5,7 @@ import { createPortal } from 'react-dom';
 import { useState, useRef, useCallback, useEffect, type ReactNode } from 'react';
 import { ChevronLeft, ChevronRight, Maximize2, Play, ImageIcon, X } from 'lucide-react';
 import { SectionHeadingReveal } from '@/components/editorial/SectionHeadingReveal';
+import { isRtl, scrollByReading } from '@/components/ui/direction';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { ROW_ARROW, rowScrollBehavior } from '@/components/ui/useRowScroll';
 import type { Locale } from '@/lib/i18n/locales';
@@ -92,6 +93,7 @@ function PhotoLightbox({
 }) {
   const current = images[active];
   const copy = getGalleryCopy(locale);
+  const dialogRef = useRef<HTMLDivElement>(null);
   const closeButtonRef = useRef<HTMLButtonElement>(null);
   const browsable = images.length > 1;
 
@@ -105,11 +107,13 @@ function PhotoLightbox({
         event.preventDefault();
         onClose();
       }
-      if (event.key === 'ArrowLeft') {
+      // As setas seguem a leitura: em RTL, a da esquerda vai para a próxima foto.
+      const rtl = dialogRef.current ? isRtl(dialogRef.current) : false;
+      if (event.key === (rtl ? 'ArrowRight' : 'ArrowLeft')) {
         event.preventDefault();
         onPrevious();
       }
-      if (event.key === 'ArrowRight') {
+      if (event.key === (rtl ? 'ArrowLeft' : 'ArrowRight')) {
         event.preventDefault();
         onNext();
       }
@@ -144,6 +148,7 @@ function PhotoLightbox({
 
   return createPortal(
     <div
+      ref={dialogRef}
       className="fixed inset-0 z-[100] flex min-h-[100dvh] items-center justify-center overscroll-contain bg-black/90 px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-[max(0.75rem,env(safe-area-inset-top))]"
       role="dialog"
       aria-modal="true"
@@ -154,7 +159,7 @@ function PhotoLightbox({
         type="button"
         onClick={onClose}
         data-lightbox-control
-        className={`${lightboxButton} right-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))]`}
+        className={`${lightboxButton} end-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))] rtl:end-[max(0.75rem,env(safe-area-inset-left))]`}
         aria-label={copy.closeImage}
       >
         <X className="h-6 w-6" />
@@ -169,10 +174,10 @@ function PhotoLightbox({
               onPrevious();
             }}
             data-lightbox-control
-            className={`${lightboxButton} left-4 top-1/2 hidden -translate-y-1/2 md:flex`}
+            className={`${lightboxButton} start-4 top-1/2 hidden -translate-y-1/2 md:flex`}
             aria-label={copy.previousImage}
           >
-            <ChevronLeft className="h-6 w-6" />
+            <ChevronLeft className="h-6 w-6 rtl:-scale-x-100" />
           </button>
 
           <button
@@ -182,10 +187,10 @@ function PhotoLightbox({
               onNext();
             }}
             data-lightbox-control
-            className={`${lightboxButton} right-4 top-1/2 hidden -translate-y-1/2 md:flex`}
+            className={`${lightboxButton} end-4 top-1/2 hidden -translate-y-1/2 md:flex`}
             aria-label={copy.nextImage}
           >
-            <ChevronRight className="h-6 w-6" />
+            <ChevronRight className="h-6 w-6 rtl:-scale-x-100" />
           </button>
         </>
       )}
@@ -240,7 +245,7 @@ function PhotoCard({
       type="button"
       data-gallery-card={single ? undefined : ''}
       onClick={() => onOpen(index)}
-      className={`group relative overflow-hidden rounded-[10px] border-2 border-marinho bg-creme text-left text-marinho ${
+      className={`group relative overflow-hidden rounded-[10px] border-2 border-marinho bg-creme text-start text-marinho ${
         single ? SINGLE_CARD : CAROUSEL_CARD
       } ${contain ? 'self-start' : ''} ${FOCUS_RING}`}
       aria-label={copy.enlargeImage(index + 1)}
@@ -258,7 +263,7 @@ function PhotoCard({
         {!contain && (
           <>
             <div className="absolute inset-0 bg-gradient-to-b from-transparent via-marinho/5 to-marinho/30" />
-            <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full border-2 border-marinho bg-white px-3 py-1 text-xs font-extrabold uppercase tracking-[0.12em] text-marinho">
+            <span className="absolute bottom-3 end-3 inline-flex items-center gap-1.5 rounded-full border-2 border-marinho bg-white px-3 py-1 text-xs font-extrabold uppercase tracking-[0.12em] text-marinho">
               <Maximize2 className="h-3.5 w-3.5" />
               {copy.enlarge}
             </span>
@@ -352,7 +357,7 @@ function Carousel({
       gapRef.current = parseInt(getComputedStyle(track).gap || '16', 10);
     }
     const cardWidth = firstCard?.offsetWidth || 280;
-    track.scrollBy({ left: direction * (cardWidth + gapRef.current), behavior: rowScrollBehavior() });
+    scrollByReading(track, direction * (cardWidth + gapRef.current), rowScrollBehavior());
   }, []);
 
   if (count === 1) return <div className="flex justify-center py-2">{children}</div>;
@@ -369,10 +374,10 @@ function Carousel({
 
       <div className="mt-4 flex items-center justify-center gap-3">
         <button type="button" onClick={() => scrollByCard(-1)} className={ROW_ARROW} aria-label={previousLabel}>
-          <ChevronLeft size={18} />
+          <ChevronLeft size={18} className="rtl:-scale-x-100" />
         </button>
         <button type="button" onClick={() => scrollByCard(1)} className={ROW_ARROW} aria-label={nextLabel}>
-          <ChevronRight size={18} />
+          <ChevronRight size={18} className="rtl:-scale-x-100" />
         </button>
       </div>
 
