@@ -138596,10 +138596,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os 7 autobronzeadores da Skelt lado a lado: cor-guia, intensidade, tempo de ação, nível e preço por ml em 23/10/2026. Mousse ou água, Dark ou normal, gel, bifásico e kits.",
-    "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF na Skelt. Qual autobronzeador comprar: mousse, água, Dark, gel e bifásico por cor-guia, intensidade e preço por ml.",
+    "metaDescription": "SKEMCASACOMCECILIA anunciado com 10%. Nos mousses testados, deu 5%. Compare mousse, água, gel e kits Skelt por cor-guia, intensidade e preço.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa-v2.webp",
@@ -138610,7 +138610,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual autobronzeador Skelt comprar",
         "paragraphs": [
-          "Para a primeira aplicação, o Kit Iniciante é a escolha: o mousse tem cor-guia para mostrar onde você passou, e a luva vem junta. Água e Gel são incolores e a Skelt os indica a quem já sabe aplicar; para mais intensidade, as Dark são de nível expert. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
+          "Para quem está começando, o Kit Iniciante traz mousse com cor-guia e luva. Água e gel são incolores, e a Skelt os indica a quem já tem prática. Na campanha consultada, os kits Dark saíram mais caros que os avulsos. Compare os preços do seu pedido antes de escolher."
         ]
       },
       {
@@ -138713,7 +138713,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A principal diferença é a cor-guia. O mousse tem: a ficha descreve a cor-guia explicada acima. A água é incolor e não tem cor-guia. Por isso a Skelt marca o mousse como nível iniciante e a água como nível expert: sem a cor visível, é mais fácil deixar uma região sem passar e criar mancha, e a loja indica a água \"para os mais experientes\".",
           "A água também traz a vantagem que a loja destaca: por ser incolor, diminui a chance de manchar a roupa. Nos mousses com cor-guia, a Skelt avisa (na página do Mousse Dark e no kit do Mousse) que, durante a secagem, suor e atrito podem transferir a cor-guia para o tecido. Em qualquer um dos dois, espere secar antes de se vestir.",
-          "O resto é parecido. A intensidade nos dois é de leve a média, a duração, de 7 a 12 dias, e o rendimento, de 5 a 8 aplicações. O preço de venda é o mesmo, R$ 119,90, com 140 ml no mousse e 150 ml na água (R$ 0,86 e R$ 0,80 por ml). Na página do mousse, ácido lático e aloe vera na fórmula; na da água, ácido hialurônico e aloe vera. A luva aplicadora não vem em nenhum dos dois.",
+          "O resto é parecido. A intensidade nos dois é de leve a média, a duração, de 7 a 12 dias, e o rendimento, de 5 a 8 aplicações. Na tabela de outubro, o preço era o mesmo, R$ 119,90, com 140 ml no mousse e 150 ml na água (R$ 0,86 e R$ 0,80 por ml). Na página do mousse, ácido lático e aloe vera na fórmula; na da água, ácido hialurônico e aloe vera. A luva aplicadora não vem em nenhum dos dois.",
           "Na dúvida, a regra da própria marca resolve: quem nunca usou autobronzeador fica com o mousse, e a água é para quem já sabe aplicar e quer um produto incolor. Os tempos de ação estão na tabela; na água, a página manda seguir o tempo indicado na embalagem."
         ],
         "images": [
@@ -138784,55 +138784,57 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Kit ou produto avulso: a conta",
+        "heading": "Kit com luva ou itens avulsos",
         "paragraphs": [
-          "Nenhum autobronzeador Skelt vem com luva quando é comprado avulso: a ficha de cada um avisa que a [Luva Aplicadora (Tanning Mitt)](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) não está inclusa e a chama de essencial para uma aplicação mais rápida, uniforme e sem falhas. A luva custava R$ 34,90. Os kits já trazem a luva.",
-          "O [Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Mousse + Luva) custava R$ 111,26, contra R$ 154,80 do Mousse Autobronzeador (R$ 119,90) mais a luva comprados separados: R$ 43,54 a menos. O [Kit Iniciante Dark](https://www.skelt.com.br/kitiniciantedark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Mousse Dark + Luva) custava R$ 137,62, contra R$ 164,80 do [Mousse Autobronzeador Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 129,90) mais a luva: R$ 27,18 a menos. O [Kit Bronze & Glow Mousse](https://www.skelt.com.br/kitbronzeeglowmousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Mousse, Luva e Iluminador Corporal) custava R$ 191,78.",
-          "A tabela aplica o cupom SKEMCASACOMCECILIA, de 10% em todo o site, sobre o preço do dia, e depois os 5% do Pix da loja sobre o total já com o cupom. Pela nossa conta, os valores ficam assim:"
+          "Os autobronzeadores avulsos da comparação vêm sem luva. Some a [luva aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) apenas se precisar comprar uma. Ela custava R$ 27,92 na campanha consultada.",
+          "O Kit Iniciante e o Expert Bifásico custavam menos que os respectivos avulsos. O Expert com água tradicional empatou. Nos kits Dark, os avulsos ficaram abaixo durante a campanha.",
+          "Os preços de lista dão outro resultado. Sem a campanha, os kits Dark da comparação custavam um pouco menos que os itens separados. Confira o total na sacola."
         ],
         "comparisonTable": {
+          "caption": "Preços da campanha consultada em 20/11, sem cupom, Pix ou eventual desconto progressivo na sacola.",
           "headers": [
-            "Compra",
-            "Preço em 23/10/2026",
-            "Com o cupom de 10%",
-            "Com cupom e Pix de 5%"
+            "Kit",
+            "Preço do kit",
+            "Soma dos avulsos",
+            "Diferença"
           ],
           "rows": [
             [
-              "Mousse + Luva, avulsos",
-              "R$ 154,80",
-              "R$ 139,32",
-              "R$ 132,35"
-            ],
-            [
               "Kit Iniciante (Mousse + Luva)",
-              "R$ 111,26",
-              "R$ 100,13",
-              "R$ 95,13"
-            ],
-            [
-              "Mousse Dark + Luva, avulsos",
-              "R$ 164,80",
-              "R$ 148,32",
-              "R$ 140,90"
+              "R$ 104,72",
+              "R$ 123,84",
+              "Kit R$ 19,12 abaixo"
             ],
             [
               "Kit Iniciante Dark (Mousse Dark + Luva)",
-              "R$ 137,62",
-              "R$ 123,86",
-              "R$ 117,67"
+              "R$ 129,52",
+              "R$ 92,87",
+              "Avulsos R$ 36,65 abaixo"
             ],
             [
-              "Kit Bronze & Glow Mousse (Mousse + Luva + Iluminador Corporal)",
-              "R$ 191,78",
-              "R$ 172,60",
-              "R$ 163,97"
+              "Kit Expert (Água + Luva)",
+              "R$ 123,84",
+              "R$ 123,84",
+              "Empate"
+            ],
+            [
+              "Kit Expert Água Dark + Luva",
+              "R$ 129,52",
+              "R$ 92,87",
+              "Avulsos R$ 36,65 abaixo"
+            ],
+            [
+              "Kit Expert Bifásico (Bifásico + Luva)",
+              "R$ 105,52",
+              "R$ 123,84",
+              "Kit R$ 18,32 abaixo"
             ]
           ]
         },
         "postParagraphs": [
-          "Valores calculados por nós a partir dos preços do site, arredondados para o centavo. Preço e promoção mudam, então confira no carrinho. O cupom vale também em produto em promoção e em kit, soma com o Pix e a Skelt aceita um cupom por pedido. As condições estão em [cupons da Skelt](/cupons/skelt).",
-          "Para ter uma ordem de grandeza do preço por aplicação, divida o frasco pelo rendimento que a marca declara. O Mousse (R$ 119,90, de 5 a 8 aplicações) sai de cerca de R$ 15 a R$ 24 por aplicação, e, com cupom e Pix, de cerca de R$ 13 a R$ 21. O Mousse Dark (R$ 129,90, de 5 a 8) fica entre R$ 16 e R$ 26. O Gel (R$ 98,90, de 6 a 8) fica entre R$ 12 e R$ 16. É só uma estimativa: o rendimento depende de quanta área você cobre e de quanto produto usa, e a ficha do Bifásico não informa o rendimento."
+          "O SKEMCASACOMCECILIA segue anunciado como 10% OFF. No teste de novembro, com a campanha no ar, o desconto observado foi de 5% nos produtos testados. Os kits ficaram sem teste novo. Veja as condições do [cupom Skelt](/cupons/skelt).",
+          "A Skelt declara de 5 a 8 aplicações no Mousse avulso e no Kit Iniciante. A página do Kit Bronze & Glow Mousse declara de 8 a 12. Use a indicação do frasco que chegar.",
+          "No preço da campanha, por aplicação estimada a partir do rendimento do frasco avulso, o Mousse fica entre R$ 11,99 e R$ 19,18. O Mousse Dark fica entre R$ 8,12 e R$ 12,99. O Gel fica entre R$ 6,18 e R$ 8,24."
         ],
         "images": [
           {
@@ -138843,6 +138845,47 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 1
           }
         ]
+      },
+      {
+        "heading": "Kits Bronze & Glow com iluminador",
+        "paragraphs": [
+          "Esta conta usa o preço do iluminador corporal avulso da Skelt. Confira se o kit traz o mesmo produto e tamanho antes de comparar."
+        ],
+        "comparisonTable": {
+          "caption": "Mesma data e base da tabela de kits com luva.",
+          "headers": [
+            "Kit",
+            "Preço do kit",
+            "Soma dos avulsos",
+            "Diferença"
+          ],
+          "rows": [
+            [
+              "Kit Bronze & Glow Mousse (Mousse + Luva + Iluminador)",
+              "R$ 180,50",
+              "R$ 203,76",
+              "Kit R$ 23,26 abaixo"
+            ],
+            [
+              "Kit Bronze & Glow Mousse Dark",
+              "R$ 201,44",
+              "R$ 172,79",
+              "Avulsos R$ 28,65 abaixo"
+            ],
+            [
+              "Kit Bronze & Glow Água (Água + Luva + Iluminador)",
+              "R$ 180,50",
+              "R$ 203,76",
+              "Kit R$ 23,26 abaixo"
+            ],
+            [
+              "Kit Bronze & Glow Água Dark",
+              "R$ 205,30",
+              "R$ 172,79",
+              "Avulsos R$ 32,51 abaixo"
+            ]
+          ]
+        }
       },
       {
         "heading": "Como aplicar sem manchar (o que a Skelt orienta)",
@@ -138880,20 +138923,20 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual autobronzeador Skelt escolher",
-        "emphasis": "Pelos números da tabela, para quem nunca usou a escolha é o Kit Iniciante, porque ele sai R$ 43,54 a menos que o mousse e a luva comprados separados.",
+        "emphasis": "O Mousse tradicional tem cor-guia. Se você precisa da luva, compare os dois preços no quadro do Kit Iniciante.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "A escolha por perfil, com os preços do site oficial. A intensidade e a duração são as que a Skelt informa na ficha de cada produto."
         ],
         "bullets": [
-          "Nunca usou autobronzeador: [Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 111,26. Traz o mousse com cor-guia e a [luva aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), que não vem nos autobronzeadores avulsos.",
-          "Quer mais cor e já usou: [Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 129,90, que a Skelt diz ser 2x mais intenso que o tradicional. Com a luva junto, o [Kit Iniciante Dark](https://www.skelt.com.br/kitiniciantedark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 137,62.",
+          "Para começar, o kit com Mousse tradicional traz cor-guia e luva. Compare com os avulsos no quadro de kits.",
+          "Para um tom mais intenso, a Skelt indica o Mousse Dark. Se precisa de luva, compare o kit com os avulsos no quadro de preços.",
           "Tem medo de manchar a roupa e já sabe aplicar: [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 119,90, incolor e sem cor-guia.",
           "Quer gastar menos para conhecer ou levar na viagem: [Mini Mousse](https://www.skelt.com.br/mini-autobronzeador-em-mousse-/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), R$ 58,90, com 45 ml (por ml, é o mais caro dos sete).",
           "Quer o que aparecia em primeiro na ordem de mais vendidos da Skelt: o [Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), por R$ 119,90, com ação de 8 horas e fragrância de body splash (Grand Bahama). A página não informa se tem cor-guia, então aplique com luva e movimentos circulares."
         ],
         "postParagraphs": [
-          "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Skelt. As condições estão na [página do cupom Skelt](/cupons/skelt), e a conta dos kits com cupom e Pix fica no capítulo dos kits."
+          "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA. No teste da campanha, ele tirou 5% nos mousses. Confira o desconto antes de pagar."
         ]
       },
       {
@@ -138911,7 +138954,7 @@ export const reviewsData: unknown[] = [
           "Autobronzeador faz mal? A Skelt declara a linha vegana e cruelty-free e marca o Mousse, a Água, o Gel e o Bifásico como dermatologicamente testados. Com pele sensível, alergia ou gestação, fale com o dermatologista antes de usar.",
           "Como tirar o autobronzeador? Com o Removedor de Autobronzeador, que a Skelt indica para bronzes aplicados há mais de 3 dias, ou esperando a cor sair naturalmente.",
           "Para hoje, qual usar? O [Bronzeado Instantâneo](https://www.skelt.com.br/bronzeado-instantaneo/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), uma maquiagem corporal que dura de 12 a 24 horas, segundo a marca (R$ 99,90). A diferença para o autobronzeador está no [guia do bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador).",
-          "O cupom vale nos kits e soma com o Pix? Sim: o cupom SKEMCASACOMCECILIA, de 10%, vale em kits e soma com os 5% do Pix, e a Skelt aceita um cupom por pedido. Veja as condições em [cupons da Skelt](/cupons/skelt) e o passo a passo em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar).",
+          "O cupom vale nos kits e soma com o Pix? A página do [cupom Skelt](/cupons/skelt) descreve essas condições. Os kits ficaram sem teste novo durante esta campanha. Confira se os descontos aparecem no resumo da sacola.",
           "Comprei na farmácia, o cupom vale? Não. O cupom SKEMCASACOMCECILIA vale só no site oficial da Skelt."
         ]
       },
@@ -138930,7 +138973,8 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe o Dark se é a primeira vez: a Skelt o marca como nível expert.",
-        "Passe o autobronzeador avulso se você ainda não tem a luva aplicadora: ela não vem nele."
+        "Passe o autobronzeador avulso se você ainda não tem a luva aplicadora: ela não vem nele.",
+        "Passe os kits Dark enquanto a promoção dos avulsos durar: o autobronzeador Dark e a luva comprados separados saem abaixo do kit."
       ]
     },
     "pros": [],
@@ -195766,7 +195810,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic é boa? Niacinamida a 10%, duas vitaminas C, retinol a 0,3% e bakuchiol, pelo rótulo.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/simple-organic-e-boa-capa-v2.webp",
@@ -195909,7 +195953,7 @@ export const reviewsData: unknown[] = [
           "O nome engana em um dos três: a Solução Retinol-Like não tem retinol. O ativo é o bakuchiol a 1%, que a marca chama de alternativa vegetal ao retinol, e a composição não traz retinol. Quem quer retinol vai ao Ultra Sérum Retinol, que traz, impresso no frasco, 0,3% de retinol e 0,5% de squalane; o texto da página não repete esses números, então o lugar de ler é o rótulo na foto do produto.",
           "A Solução Exossomos + PDRN + Peptídeos é a mais cara das soluções: PDRN vegano, exossomos de centella asiática e peptídeos, sem o volume na página. É o produto para quem já sabe o que procura por esses nomes e aceita pagar o maior preço da linha; para quem está começando na marca, não é por aqui.",
           "Niacinamida, PDRN e Retinol-Like aparecem nas buscas junto de \"reclame aqui\". As reclamações recentes do perfil da loja falam de conta-gotas que chega quebrado ou torto, não de fórmula; o artigo sobre o Reclame Aqui, mais abaixo, traz as queixas e o que fazer ao receber.",
-          "O Retinol-Like serve para quem quer evitar retinol e ainda assim ter um ativo com a concentração escrita. O Ultra Sérum Retinol, para quem quer retinol com a dose no frasco e pelo preço de entrada da marca. A página do Retinol-Like manda gestante e lactante ao médico; com retinol, a regra é a mesma: na dúvida, o dermatologista."
+          "O Retinol-Like serve para quem quer evitar retinol e ainda assim ter um ativo com a concentração escrita. O Ultra Sérum Retinol, para quem quer retinol com a dose no frasco e pelo preço de entrada da marca. O horário de uso e o preço de cada um estão em [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol). A página do Retinol-Like manda gestante e lactante ao médico; com retinol, a regra é a mesma: na dúvida, o dermatologista."
         ],
         "images": [
           {
@@ -196364,7 +196408,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt. Autobronzeador, body splash e hidratante pelo rótulo, preço e frete: para quem compensa.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/skelt-e-boa-capa-v2.webp",
@@ -196389,7 +196433,7 @@ export const reviewsData: unknown[] = [
           "**Body splash:** dez fragrâncias em frasco de 100 mL, mais os trios e os kits de miniaturas.",
           "**Hidratação corporal:** body cream de 200 g, creme para mãos de 75 g e os duos com body splash.",
           "**Maquiagem corporal:** iluminador, bronzeado instantâneo, glow stick e a luva aplicadora.",
-          "**Protetor solar:** um só, o Protetor Solar com Instant Bronzer, em FPS 8, 15 e 30, a R$ 89,90 de lista. Escolha pelo FPS, não pelo bronzer do nome; qual fator usar, quem diz é o dermatologista.",
+          "**Protetor solar.** Na consulta, só o Instant Bronzer FPS 8 estava à venda. O [guia do protetor solar Skelt](/reviews/protetor-solar-skelt-instant-bronzer) mostra as versões e a orientação da Sociedade Brasileira de Dermatologia sobre o FPS no dia a dia.",
           "**Kits e combos:** 55, do Kit Iniciante aos conjuntos de fragrância."
         ],
         "postParagraphs": [
@@ -292322,6 +292366,1661 @@ export const reviewsData: unknown[] = [
           "Como usar o tônico Force Hair? Segundo a página, no couro cabeludo limpo e seco ou levemente úmido, com massagem, sem enxaguar e todos os dias. Em caso de irritação, a página manda suspender o uso.",
           "Qual a composição da Force Hair? Nos anúncios do tônico e do shampoo, a Prohall lista óleo de patauá, óleo de rícino, biotina e Blend BeauPlex. Confira a composição completa no rótulo de cada item.",
           "Quanto custa a Force Hair da Prohall? Na consulta, o tônico era o item avulso de menor preço. O kit tinha shampoo, máscara e tônico. A tabela mostra os preços e indica a estimativa com o cupom."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1203,
+    "slug": "protetor-solar-skelt-instant-bronzer",
+    "locale": "pt",
+    "title": "Protetor solar Skelt: o que a marca vende hoje, FPS a FPS",
+    "seoTitle": "Protetor solar Skelt: FPS, preço e o que está à venda",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Só o FPS 8 do protetor solar Skelt Instant Bronzer estava em estoque na consulta. Veja a diferença entre disponibilidade, proteção, modo de uso e preço.",
+    "metaDescription": "SKEMCASACOMCECILIA anunciado com 10%. No teste do Instant Bronzer FPS 8 da Skelt, entraram 5%. Veja as versões e a orientação de FPS.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-capa.webp",
+    "imageAlt": "Mão segurando o frasco amarelo do Protetor Solar com Instant Bronzer FPS 8 da Skelt contra o céu azul, em foto da Skelt com o logo da marca, os textos «Protetor solar / Instant Bronzer» e o código SKEMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve o FPS 8 se esse é o fator que você já usa: é o único à venda hoje.",
+        "Leve se escolhe pelo que a marca declara: toque seco, resistência à água e a fragrância Summer Vibes."
+      ],
+      "skipIf": [
+        "Passe se precisa do FPS 15 ou do FPS 30: os dois estão esgotados.",
+        "Passe se quer cor garantida: a página não diz que o protetor deixa cor na pele."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Skelt com o cupom",
+      "text": "Veja as versões e confirme o FPS indicado para você antes de fechar o pedido. Confira no carrinho o desconto do SKEMCASACOMCECILIA.",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pela Skelt.",
+    "relatedArticles": [
+      {
+        "slug": "autobronzeador-skelt-como-usar"
+      },
+      {
+        "slug": "autobronzeador-skelt-qual-escolher"
+      },
+      {
+        "slug": "skelt-e-boa"
+      },
+      {
+        "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador"
+      },
+      {
+        "slug": "cupom-skelt-como-usar"
+      },
+      {
+        "slug": "skelt-ou-panvel-glow"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na consulta à Skelt, só o Instant Bronzer FPS 8 estava à venda. A marca também tem versões FPS 15 e 30. Para a proteção solar do dia a dia, a Sociedade Brasileira de Dermatologia orienta usar FPS 30 ou superior. Escolha o fator antes de comparar preço ou estoque."
+        ]
+      },
+      {
+        "heading": "Quais versões a Skelt tinha em estoque",
+        "paragraphs": [
+          "O Protetor Solar com Instant Bronzer é vendido em frasco de 170 ml e tem três versões: FPS 8, 15 e 30. Summer Vibes é a fragrância. Na consulta, só o FPS 8 estava à venda.",
+          "Hoje só o FPS 8 está à venda. O FPS 15 e o FPS 30 estão esgotados, assim como o Acelerador de Bronzeado e os kits Summer Vibes que juntam protetor e acelerador. A linha Summer Vibes não tem outro protetor além dele. Estoque de loja muda: confira a página antes de contar com um fator."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda em 20/11, de campanha da Skelt. A última coluna é o total do carrinho com o código, sem frete.",
+          "headers": [
+            "Produto",
+            "Situação",
+            "Preço de venda",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "[Protetor Solar com Instant Bronzer FPS 8](https://www.skelt.com.br/protetor-solar-com-instant-bronzer/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "À venda",
+              "R$ 71,92",
+              "R$ 68,32"
+            ],
+            [
+              "Protetor Solar com Instant Bronzer FPS 15",
+              "Esgotado",
+              "-",
+              "-"
+            ],
+            [
+              "Protetor Solar com Instant Bronzer FPS 30",
+              "Esgotado",
+              "-",
+              "-"
+            ],
+            [
+              "Acelerador de Bronzeado Summer Vibes",
+              "Esgotado",
+              "-",
+              "-"
+            ],
+            [
+              "Kits Summer Vibes (protetor e acelerador)",
+              "Esgotado",
+              "-",
+              "-"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O SKEMCASACOMCECILIA tirou 5% no carrinho do FPS 8 durante a campanha: de R$ 71,92 por R$ 68,32, antes do frete. A [página do cupom Skelt](/cupons/skelt) anuncia 10%. Confira o desconto no resumo do seu pedido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-fps8.webp",
+            "alt": "Frasco amarelo do Protetor Solar com Instant Bronzer FPS 8 da Skelt, de 170 ml, com válvula pump",
+            "caption": "O FPS 8, o único à venda. Foto: Skelt.",
+            "href": "https://www.skelt.com.br/protetor-solar-com-instant-bronzer/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "O que a Skelt diz do protetor",
+        "paragraphs": [
+          "A Skelt descreve o acabamento como seco e declara resistência à água. A página consultada não informa a duração dessa resistência. O modo de uso da marca pede reaplicação após nadar, suar ou se secar com toalha.",
+          "Serve a quem quer o protetor da marca, com a fragrância Summer Vibes, e aceita o que a página diz. Quem precisa saber por quanto tempo ele resiste à água não encontra esse dado na página."
+        ]
+      },
+      {
+        "heading": "Instant Bronzer: o que o nome promete e o que a página não diz",
+        "paragraphs": [
+          "A fórmula do FPS 8 lista corantes. A Skelt não descreve a intensidade nem confirma cor imediata na pele. O [Bronzeado Instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) é a maquiagem corporal da linha. Para ver como a Skelt orienta o uso de mousse e água, consulte o [guia de autobronzeadores](/reviews/autobronzeador-skelt-qual-escolher).",
+          "Protetor também não é autobronzeador: o autobronzeador é outro produto da marca, e o [guia de como usar o autobronzeador Skelt](/reviews/autobronzeador-skelt-como-usar) lembra que ele não substitui o protetor solar. Para escolher entre mousse, água e gel, veja o [guia dos autobronzeadores](/reviews/autobronzeador-skelt-qual-escolher). Para cor que dura de 12 a 24 horas, a Skelt vende o Bronzeado Instantâneo, maquiagem corporal, que o [comparativo com o autobronzeador](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) explica."
+        ]
+      },
+      {
+        "heading": "Como aplicar, pelo modo de uso da Skelt",
+        "paragraphs": [
+          "O modo de uso da página cabe em cinco passos:"
+        ],
+        "bullets": [
+          "Agite o frasco antes de usar.",
+          "Aplique antes da exposição ao sol, com a pele seca.",
+          "Passe abundantemente por todo o corpo.",
+          "Reaplique a cada 2 horas.",
+          "Reaplique também depois de suor intenso, de nadar, de tomar banho ou de se secar com toalha."
+        ]
+      },
+      {
+        "heading": "FPS 8, 15 ou 30: o que a página informa",
+        "paragraphs": [
+          "A [Sociedade Brasileira de Dermatologia](https://www.sbd.org.br/doencas/envelhecimento/) recomenda protetor com FPS 30 ou maior para o uso diário. Se o fator indicado para você não estiver à venda na Skelt, procure um protetor com o fator adequado de outra linha.",
+          "Para comprar hoje, a escolha já vem feita pelo estoque: só o FPS 8 está à venda. Quem queria o FPS 15 ou o FPS 30 precisa esperar a loja repor."
+        ]
+      },
+      {
+        "heading": "Acelerador e kits Summer Vibes: esgotados",
+        "paragraphs": [
+          "O Acelerador de Bronzeado Summer Vibes e os três kits que o juntam ao protetor estão esgotados e aparecem na tabela sem preço. Quando voltarem, vale o aviso da própria loja: o acelerador não tem fator de proteção e não deve ser usado sem protetor solar."
+        ]
+      },
+      {
+        "heading": "O que conferir antes de comprar",
+        "paragraphs": [
+          "Confira o FPS na frente da embalagem ou na variação selecionada na loja. Depois veja prazo, estoque e valor final. Para quem busca um efeito de cor, o guia de [bronzeado instantâneo e autobronzeador](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) mostra a diferença entre os produtos de cor da marca."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual FPS a Skelt vende hoje? Só o FPS 8 está à venda. O FPS 15 e o FPS 30 estão esgotados; o preço e a situação de cada um estão na tabela do primeiro capítulo.",
+          "O protetor da Skelt deixa cor? A Skelt lista corantes na composição do FPS 8. A página consultada não explica se a cor aparece de imediato na pele.",
+          "Quando reaplicar o protetor da Skelt? A página manda reaplicar a cada 2 horas e depois de suor intenso, de nadar, de tomar banho ou de se secar com toalha.",
+          "Summer Vibes é outro protetor? Não. É o nome da fragrância do mesmo protetor com Instant Bronzer; o acelerador e os kits Summer Vibes estão esgotados.",
+          "FPS 8 serve para o dia a dia? A Sociedade Brasileira de Dermatologia orienta escolher um protetor de FPS 30 ou superior para a proteção diária."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1204,
+    "slug": "skelt-ou-panvel-glow",
+    "title": "Skelt ou Panvel Glow: qual autobronzeador escolher",
+    "seoTitle": "Skelt ou Panvel Glow: qual autobronzeador escolher",
+    "type": "Comparativo de Beleza",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "locale": "pt",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O mousse e as águas da Panvel Glow saem mais baratos nos pares comparados. Veja os preços por 100 ml e quando a cor-guia do mousse Skelt pesa na escolha.",
+    "metaDescription": "SKEMCASACOMCECILIA anunciado com 10%. Nos mousses testados, deu 5%. Compare Skelt e Panvel Glow por 100 ml e veja onde há cor-guia.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/skelt-ou-panvel-glow-capa.webp",
+    "imageAlt": "Frasco do Mousse Autobronzeador Skelt de 140 ml sobre fundo amarelo, em foto da Skelt com o logo da marca, os textos «Skelt ou Panvel Glow? / Preço por 100 ml» e o código SKEMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Nos pares da tabela, a Panvel Glow custa menos por 100 ml. O mousse da Skelt tem cor-guia, que mostra onde você já passou. Na Skelt, o cupom SKEMCASACOMCECILIA tirou 5% nos dois mousses testados. As águas ficaram sem teste de cupom."
+        ]
+      },
+      {
+        "heading": "Mousse ou água: o que cada marca vende",
+        "paragraphs": [
+          "As duas marcas têm mousse e água nos pares deste guia. Compare mousse com mousse e água com água. Os frascos têm tamanhos diferentes, então a tabela seguinte traz o preço por 100 ml."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Critério",
+            "Skelt",
+            "Panvel Glow"
+          ],
+          "rows": [
+            [
+              "Tons nestes pares",
+              "Mousse e água nas versões tradicional e Dark",
+              "Mousse comparado de cor média a escura; água nos tons Médio e Escuro"
+            ],
+            [
+              "Duração declarada",
+              "7 a 12 dias",
+              "Até 7 dias na ficha do Mousse Glow comparado"
+            ],
+            [
+              "Cor-guia",
+              "Mousse com cor-guia; águas e gel incolores",
+              "Água Escuro incolor; no mousse, confira a ficha"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/skelt/skelt-ou-panvel-glow-mousse.webp",
+            "alt": "Frasco branco com listras douradas do Mousse Autobronzeador da Skelt, de 140 ml",
+            "caption": "Mousse Autobronzeador. Foto: Skelt.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/skelt/skelt-ou-panvel-glow-agua-dark.webp",
+            "alt": "Frasco com listras roxas da Água Autobronzeadora Dark da Skelt, de 150 ml",
+            "caption": "Água Autobronzeadora Dark. Foto: Skelt.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa o mousse por 100 ml",
+        "paragraphs": [
+          "Os preços por 100 ml partem do valor e do volume de cada frasco. As duas lojas estavam com ofertas. Para a Skelt, o preço com cupom aparece apenas onde o carrinho foi testado."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço do frasco",
+            "Por 100 ml",
+            "Por 100 ml com cupom"
+          ],
+          "rows": [
+            [
+              "[Skelt Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) 140 ml",
+              "R$ 95,92",
+              "R$ 68,51",
+              "R$ 65,09"
+            ],
+            [
+              "Panvel Glow Mousse 150 ml",
+              "R$ 44,99",
+              "R$ 29,99",
+              "Cupom só na Skelt"
+            ],
+            [
+              "[Skelt Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) 140 ml",
+              "R$ 64,95",
+              "R$ 46,39",
+              "R$ 44,07"
+            ]
+          ],
+          "caption": "Preço de venda no site de cada marca em 20/11, antes de frete e luva. A última coluna usa o valor do carrinho da Skelt, só onde houve teste."
+        },
+        "postParagraphs": [
+          "O SKEMCASACOMCECILIA segue anunciado como 10% na página de cupons. Nos carrinhos dos dois mousses Skelt, o desconto foi de 5% na campanha. Os valores acima usam esse teste.",
+          "O Mousse Panvel Glow ficou em R$ 29,99 por 100 ml. O Skelt tradicional ficou em R$ 65,09 com o cupom."
+        ]
+      },
+      {
+        "heading": "Quanto custa a água por 100 ml",
+        "comparisonTable": {
+          "caption": "Mesma data e base da tabela de mousse. As águas da Skelt ficaram sem teste do cupom.",
+          "headers": [
+            "Produto",
+            "Preço do frasco",
+            "Por 100 ml",
+            "Por 100 ml com cupom"
+          ],
+          "rows": [
+            [
+              "[Skelt Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) 150 ml",
+              "R$ 95,92",
+              "R$ 63,95",
+              "Não testado"
+            ],
+            [
+              "Panvel Glow Água Médio 150 ml",
+              "R$ 44,99",
+              "R$ 29,99",
+              "Cupom só na Skelt"
+            ],
+            [
+              "[Skelt Água Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) 150 ml",
+              "R$ 64,95",
+              "R$ 43,30",
+              "Não testado"
+            ],
+            [
+              "Panvel Glow Água Escuro 150 ml",
+              "R$ 57,99",
+              "R$ 38,66",
+              "Cupom só na Skelt"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Onde a Panvel ganha",
+        "paragraphs": [
+          "A Panvel Glow tem o menor preço por 100 ml nos pares deste guia. A ficha do mousse indica cor média a escura e efeito em 3 a 5 horas. A Água Escuro é incolor e lista pantenol, ácido hialurônico e aloe vera.",
+          "O resto é o que a Panvel diz na ficha: o mousse tem cor média a escura, efeito em 3 a 5 horas, duração de até 7 dias e caramelo na fórmula. A Água Escuro é incolor, vegana, desenvolve a cor em até 24 horas e lista pantenol, ácido hialurônico e aloe vera."
+        ]
+      },
+      {
+        "heading": "Quais recursos pesam a favor da Skelt",
+        "paragraphs": [
+          "O mousse Skelt mostra onde o produto já foi aplicado. A marca também vende luva, removedor e kits para montar a compra na mesma loja."
+        ],
+        "bullets": [
+          "**Duração declarada.** A Skelt indica 7 a 12 dias nas fichas comparadas. A Panvel informa até 7 dias para o mousse. São estimativas das duas marcas.",
+          "**Duas intensidades.** Mousse e água têm a versão comum e a Dark. A Água Dark traz ácido hialurônico e vitamina C na descrição da Skelt.",
+          "**Cor-guia no mousse.** O Mousse Autobronzeador tem cor-guia, e a Skelt o indica para quem está começando.",
+          "**A linha na mesma loja.** Bifásico, removedor, luva aplicadora e kits. O guia [Autobronzeador Skelt: qual escolher](/reviews/autobronzeador-skelt-qual-escolher) mostra cada um, e o passo a passo do removedor está em [como tirar o autobronzeador da Skelt](/reviews/removedor-autobronzeador-skelt-como-tirar)."
+        ]
+      },
+      {
+        "heading": "Quem nunca usou autobronzeador",
+        "paragraphs": [
+          "A cor-guia mostra onde você já passou, e o mousse da Skelt tem. As águas da Skelt são incolores e a marca as indica a quem já tem prática. Na Panvel, a Água Escuro também é incolor; no mousse, veja na ficha se há cor-guia antes de contar com ela.",
+          "Regra prática, sem teste nosso, com produto que pode passar para o tecido enquanto seca: espere secar antes de vestir a roupa. Autobronzeador não substitui protetor solar. Na dúvida sobre a sua pele, o dermatologista."
+        ]
+      },
+      {
+        "heading": "Onde comprar e como usar o código",
+        "paragraphs": [
+          "A Skelt se compra no site oficial, pelo botão deste artigo. A Panvel Glow é da Panvel, e o caminho é a página dela: o código da Skelt não vale lá.",
+          "Cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola e confira a linha de desconto no resumo do pedido antes de pagar. As condições estão na página do [cupom Skelt](/cupons/skelt), e o passo a passo com imagens, em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "O veredito por perfil, pelos números da tabela."
+        ],
+        "bullets": [
+          "**O preço por 100 ml manda:** Panvel Glow, no mousse ou na água.",
+          "**Quer uma água escura:** a Água Escuro da Panvel fica em R$ 38,66 por 100 ml. A Skelt Dark sai a R$ 43,30 antes do cupom, que ficou sem teste nesse produto.",
+          "**Quer enxergar onde passou:** o mousse da Skelt, que tem cor-guia. No mousse da Panvel, confira a ficha.",
+          "**Luva, removedor e kits na mesma compra:** Skelt, que tem a linha toda no mesmo site."
+        ],
+        "postParagraphs": [
+          "Para comparar a Skelt com outra marca, veja [Skelt ou Best Bronze](/reviews/skelt-ou-best-bronze); para a água de 150 ml da Mantecorp, [Skelt ou Episol Gold](/reviews/skelt-ou-episol-gold)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Skelt ou Panvel Glow, qual escolher? Nos pares de mousse e água, a Panvel custa menos por 100 ml. Se você quer cor-guia confirmada na ficha, a Skelt descreve esse recurso no Mousse Autobronzeador.",
+          "Qual dura mais, Skelt ou Panvel Glow? A Skelt declara de 7 a 12 dias e a Panvel Glow, até 7 dias no mousse comparado. As cifras vêm das respectivas fichas.",
+          "A Panvel Glow é marca da Panvel? Sim, é a linha de autobronzeadores da própria farmácia, vendida no site dela.",
+          "Qual tem cor-guia? A Skelt tem no Mousse Autobronzeador, e as águas dela são incolores. Na Panvel, a Água Escuro é incolor, e no mousse vale conferir a ficha.",
+          "O SKEMCASACOMCECILIA vale na Panvel? Não: o código é do site da Skelt e vale só lá."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Panvel Glow se o preço por 100 ml decide a compra e uma cor média a escura serve.",
+        "Leve a Skelt se você quer escolher entre a intensidade comum e a Dark, ou comprar luva e removedor na mesma loja."
+      ],
+      "skipIf": [
+        "Passe a água incolor se você nunca aplicou e quer ver onde já passou.",
+        "Passe a Skelt se a conta por 100 ml é o único critério: em todas as comparações da tabela ela custa mais."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Skelt pelo botão, escolha o autobronzeador e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Comissão pela Skelt; a Panvel não é parceira. Não usamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "autobronzeador-skelt-qual-escolher"
+      },
+      {
+        "slug": "skelt-ou-best-bronze"
+      },
+      {
+        "slug": "skelt-ou-episol-gold"
+      },
+      {
+        "slug": "cupom-skelt-como-usar"
+      },
+      {
+        "slug": "removedor-autobronzeador-skelt-como-tirar"
+      },
+      {
+        "slug": "skelt-e-confiavel"
+      }
+    ]
+  },
+  {
+    "id": 1205,
+    "slug": "simple-organic-retinol-like-ou-retinol",
+    "locale": "pt",
+    "title": "Retinol ou Retinol-Like na Simple Organic: qual sérum escolher",
+    "seoTitle": "Retinol ou Retinol-Like: qual escolher na Simple Organic",
+    "type": "Comparativo de Skincare",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O Ultra Sérum Retinol e a Solução Retinol-Like não têm o mesmo ativo nem o mesmo horário de uso. Veja o que a loja declara em cada página e quanto cada um custa com o código.",
+    "metaDescription": "Com o S-EMCASACOMCECILIA, 5% OFF na Simple Organic. Retinol ou Retinol-Like: o ativo, o horário de uso e o preço de cada sérum lado a lado.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa.webp",
+    "imageAlt": "Frascos do Ultra Sérum Retinol e da Solução Retinol-Like lado a lado, em foto da Simple Organic com o logo da marca, os textos «Retinol ou / Retinol-Like» e o código S-EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve o Ultra Sérum Retinol se quer retinol com a dose impressa no frasco e aceita usá-lo só à noite, com protetor solar todas as manhãs.",
+        "Leve a Solução Retinol-Like se não quer retinol e prefere um ativo que a loja diz poder ser usado de dia, sempre com protetor por cima."
+      ],
+      "skipIf": [
+        "Não leve o Ultra Sérum Retinol se precisa de um sérum para a rotina da manhã: a loja o indica exclusivamente para a noite.",
+        "Não leve a Solução Retinol-Like achando que ela é retinol: o ativo declarado é o bakuchiol, a 1%.",
+        "Não leve nenhum dos dois sem falar antes com o médico se está grávida ou amamentando."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Simple Organic com o cupom",
+      "text": "Entre pelo link da parceria: a loja abre com o S-EMCASACOMCECILIA, de 5% OFF na loja online, já aplicado. Confira a linha do desconto no carrinho antes de pagar.",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom da Simple Organic.",
+    "relatedArticles": [
+      {
+        "slug": "simple-organic-e-boa"
+      },
+      {
+        "slug": "simple-organic-ou-principia"
+      },
+      {
+        "slug": "simple-organic-rotina-de-uso"
+      },
+      {
+        "slug": "simple-organic-vitamina-c-ou-niacinamida"
+      },
+      {
+        "slug": "kit-skincare-presente-simple-organic"
+      },
+      {
+        "slug": "cupom-simple-organic-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Ultra Sérum tem retinol a 0,3%, e a Simple Organic indica o uso à noite. A Solução Retinol-Like tem bakuchiol a 1%, e o FAQ da marca permite uso diurno com protetor solar. Os dois frascos têm 30 mL e listam fragrância."
+        ]
+      },
+      {
+        "heading": "Retinol ou Retinol-Like: são a mesma coisa?",
+        "paragraphs": [
+          "O nome Retinol-Like identifica a solução com bakuchiol. O frasco com retinol é o Ultra Sérum. As fichas trazem horários diferentes para cada produto."
+        ],
+        "comparisonTable": {
+          "caption": "Pelas páginas de cada produto na Simple Organic.",
+          "headers": [
+            "Item",
+            "Ultra Sérum Retinol",
+            "Solução Retinol-Like"
+          ],
+          "rows": [
+            [
+              "Ativo declarado",
+              "Retinol 0,3% e squalane 0,5%",
+              "Bakuchiol 1%, sem retinol"
+            ],
+            [
+              "Horário que a loja indica",
+              "Exclusivamente à noite",
+              "Pode usar de dia"
+            ],
+            [
+              "Protetor solar",
+              "Pela manhã, todos os dias de uso",
+              "Finalizar sempre com protetor"
+            ],
+            [
+              "Volume",
+              "30 mL",
+              "30 mL"
+            ],
+            [
+              "Fragrância na composição",
+              "Sim, Parfum",
+              "Sim, Parfum"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A lista de ativos da marca, o PDRN e o resto da linha estão no guia [Simple Organic é boa?](/reviews/simple-organic-e-boa)."
+        ]
+      },
+      {
+        "heading": "Retinol-Like: para que serve?",
+        "paragraphs": [
+          "A Solução Retinol-Like tem 1% de bakuchiol em um frasco de 30 mL. Na ficha, a Simple Organic indica três gotas e cita peles oleosas, acneicas e maduras. Use as orientações da embalagem do produto que você comprou.",
+          "O que dá para afirmar pela página é o que está na ficha: bakuchiol a 1%, 30 mL, indicada pela loja para peles oleosas, acneicas e maduras, com algumas gotas no rosto massageadas até a absorção. A ficha fala em 3 gotas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-solucao-retinol-like.webp",
+            "alt": "Frasco de vidro bege da Solução Retinol-Like da Simple Organic, com conta-gotas prateado, em foto oficial do produto",
+            "caption": "Solução Retinol-Like, 30 mL. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/solucao-retinol-like"
+          }
+        ]
+      },
+      {
+        "heading": "Retinol-Like pode usar de dia?",
+        "paragraphs": [
+          "O FAQ da Simple Organic permite usar o Retinol-Like durante o dia e orienta finalizar com protetor solar. Para o Ultra Sérum Retinol, o FAQ indica uso exclusivamente noturno.",
+          "Isso vale só para a Solução. O Ultra Sérum Retinol tem a resposta oposta na própria página: à pergunta se pode ser usado de dia e de noite, a loja responde que não, que ele é indicado exclusivamente para a noite. Usar o Ultra de manhã por achar que é igual ao Retinol-Like é a armadilha desta comparação."
+        ]
+      },
+      {
+        "heading": "Retinol da Simple Organic: como usar",
+        "paragraphs": [
+          "Para o Ultra Sérum Retinol, estas são as orientações que a loja escreve na página e nos kits em que ele aparece:"
+        ],
+        "bullets": [
+          "Use à noite, na pele limpa e seca, e nunca de dia.",
+          "De manhã, passe protetor solar todos os dias, durante todo o período de uso do retinol.",
+          "Pele sensível: a loja pede cautela e, de preferência, orientação profissional, começando com menos aplicações por semana.",
+          "Se a rotina tem ácidos esfoliantes ou outros retinoides, a loja manda alternar os dias de aplicação.",
+          "Hidratante e produtos de reforço da barreira entram bem na rotina, segundo a loja."
+        ],
+        "postParagraphs": [
+          "A ordem entre este sérum e os outros produtos da marca está em [Simple Organic: rotina e ordem de uso](/reviews/simple-organic-rotina-de-uso)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+            "alt": "Frasco âmbar do Ultra Sérum Retinol da Simple Organic, com rótulo preto e conta-gotas, em foto oficial da marca",
+            "caption": "Ultra Sérum Retinol, de 30 mL. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
+          }
+        ]
+      },
+      {
+        "heading": "Gestante pode usar Retinol-Like ou retinol?",
+        "paragraphs": [
+          "A [Academia Americana de Dermatologia](https://www.aad.org/public/everyday-care/skin-care-secrets/routine/pregnancy-skin-care) orienta evitar produtos com retinol durante a gestação. Para o Retinol-Like e para o uso desses produtos durante a amamentação, converse com o profissional que acompanha você."
+        ]
+      },
+      {
+        "heading": "Bakuchiol ou retinol: qual o melhor?",
+        "paragraphs": [
+          "Se fragrância é um critério de compra, os dois produtos listam Parfum. O [comparativo com a Principia](/reviews/simple-organic-ou-principia) mostra o que aparece na composição dos frascos da outra marca.",
+          "A Solução Retinol-Like lista perfume (Parfum) na composição. Para quem evita fragrância no sérum, a comparação com outra marca está em [Simple Organic ou Principia](/reviews/simple-organic-ou-principia)."
+        ]
+      },
+      {
+        "heading": "Quanto custa cada um com o código",
+        "paragraphs": [
+          "Os dois têm 30 mL, então o preço por mililitro compara direto. O Ultra Sérum Retinol sai mais barato por mL, hoje e com o código."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de 20/11, de campanha da Clean Friday, que mudam quando ela acaba. Com o código, é a conta de 5% sobre o preço do dia.",
+          "headers": [
+            "Produto",
+            "Preço do dia",
+            "Simulação com 5%",
+            "Por mL com 5%"
+          ],
+          "rows": [
+            [
+              "Ultra Sérum Retinol, 30 mL",
+              "R$ 41,40",
+              "R$ 39,33",
+              "R$ 1,31"
+            ],
+            [
+              "Solução Retinol-Like, 30 mL",
+              "R$ 59,40",
+              "R$ 56,43",
+              "R$ 1,88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: o [cupom Simple Organic](/cupons/simple-organic) é o S-EMCASACOMCECILIA, de 5% OFF na loja online, e os valores acima são o preço do dia menos 5%. Confira a linha do desconto no carrinho antes de pagar. A política da loja diz que o cupom não soma com promoção, mas nos nossos testes anteriores ele entrou em item promocional; o [passo a passo do cupom](/reviews/cupom-simple-organic-como-usar) mostra os carrinhos.",
+          "Os preços da campanha estão no [guia da Black Friday da Simple Organic](/reviews/black-friday-simple-organic)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Escolha pelo horário e pelo ativo, não pelo nome."
+        ],
+        "bullets": [
+          "Quer retinol, com a dose impressa e uso só à noite: Ultra Sérum Retinol.",
+          "Não quer retinol e quer um sérum que a loja libera para o dia, com protetor por cima: Solução Retinol-Like.",
+          "Quer pagar menos por mL: o Ultra Sérum Retinol.",
+          "Evita fragrância no sérum: os dois frascos listam Parfum."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quanto de retinol tem o Ultra Sérum Retinol? Tem retinol a 0,3%, segundo a loja. A Solução Retinol-Like não tem retinol: o ativo dela é o bakuchiol, a 1%.",
+          "Retinol-Like da Simple Organic, como usar? A loja manda aplicar algumas gotas no rosto e massagear até a absorção, finalizando com protetor solar. O capítulo sobre o dia traz a resposta da loja sobre o horário.",
+          "O que é o Retinol-Like? É uma solução de bakuchiol a 1% que a loja apresenta como alternativa vegetal ao retinol. O capítulo \"para que serve\" mostra o que a página declara.",
+          "Retinol-Like pode usar de dia? A loja responde que sim, com protetor solar por cima. O Ultra Sérum Retinol, ao contrário, a loja indica só à noite."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1206,
+    "slug": "simple-organic-vitamina-c-ou-niacinamida",
+    "locale": "pt",
+    "title": "Vitamina C ou niacinamida na Simple Organic: qual escolher, para quê e em que ordem",
+    "seoTitle": "Vitamina C ou niacinamida na Simple Organic: qual escolher",
+    "type": "Comparativo de Skincare",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Vitamina C ou niacinamida: o que a página de cada uma declara, para qual objetivo serve, o que a loja não diz sobre a ordem de uso e quanto custa cada frasco com o código.",
+    "metaDescription": "Com o S-EMCASACOMCECILIA, 5% OFF na Simple Organic. Vitamina C ou niacinamida: qual escolher, o que a loja diz da ordem de uso e o preço do frasco.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa.webp",
+    "imageAlt": "Frascos do Ultra Sérum Vitamina C e do Ultra Sérum Niacinamida lado a lado, em foto da Simple Organic com o logo da marca, os textos «Vitamina C ou / niacinamida?» e o código S-EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve a Solução Vitamina C se o que te interessa é o que a página liga a manchas.",
+        "Leve o Ultra Sérum Niacinamida se o que te interessa é o que a página liga a oleosidade e tom, e perfume na fórmula não te incomoda."
+      ],
+      "skipIf": [
+        "Passe do Ultra Sérum Niacinamida se evita fragrância no rosto: a composição lista Parfum.",
+        "Pergunte à loja antes de montar a rotina se quer usar os dois juntos: nenhuma página informa qual vem primeiro."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Simple Organic com o cupom",
+      "text": "Entre pelo link da parceria: a loja abre com o S-EMCASACOMCECILIA, de 5% OFF na loja online, já aplicado. Confira a linha do desconto no carrinho antes de pagar.",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom da Simple Organic.",
+    "relatedArticles": [
+      {
+        "slug": "simple-organic-e-boa"
+      },
+      {
+        "slug": "simple-organic-ou-principia"
+      },
+      {
+        "slug": "simple-organic-rotina-de-uso"
+      },
+      {
+        "slug": "simple-organic-para-acne"
+      },
+      {
+        "slug": "cupom-simple-organic-como-usar"
+      },
+      {
+        "slug": "kit-skincare-presente-simple-organic"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Simple Organic vende duas fórmulas de vitamina C e um Ultra Sérum com niacinamida a 10%. Na ficha, a marca associa a niacinamida à oleosidade e ao tom da pele. Se pretende usar vitamina C e niacinamida juntas, a marca não informa qual vem primeiro."
+        ]
+      },
+      {
+        "heading": "Vitamina C ou niacinamida: qual o melhor?",
+        "paragraphs": [
+          "Veja a fórmula e o horário de cada frasco. As duas vitaminas C usam ingredientes diferentes, e os percentuais não indicam por si só qual seria melhor para a sua pele."
+        ],
+        "comparisonTable": {
+          "caption": "O que a página de cada produto informa.",
+          "headers": [
+            "Produto",
+            "Ativo",
+            "Quando usar",
+            "Volume"
+          ],
+          "rows": [
+            [
+              "[Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c)",
+              "10% de vitamina C (ascorbil fosfato de sódio), com ácido ferúlico",
+              "Dia e noite, após a higienização e antes do hidratante",
+              "30 mL, pela página do kit Rotina Pele Iluminada"
+            ],
+            [
+              "[Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c)",
+              "Vitamina C a 15% (ascorbyl glucoside)",
+              "Dia e noite, após a limpeza, 3 gotas",
+              "30 mL"
+            ],
+            [
+              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida)",
+              "Niacinamida a 10%",
+              "Diariamente, após a limpeza, 3 gotas",
+              "30 mL"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os percentuais não se comparam de uma vitamina C para a outra, porque os derivados são diferentes. O guia [Simple Organic é boa?](/reviews/simple-organic-e-boa) explica as duas fórmulas, e o [comparativo com a Principia](/reviews/simple-organic-ou-principia) põe a vitamina C e a niacinamida ao lado de outra marca."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+            "alt": "Frasco do Ultra Sérum Vitamina C da Simple Organic, em foto oficial da marca",
+            "caption": "Ultra Sérum Vitamina C. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-vitamina-c"
+          }
+        ]
+      },
+      {
+        "heading": "Vitamina C ou niacinamida para manchas",
+        "paragraphs": [
+          "A Simple Organic apresenta a Solução Vitamina C para quem quer cuidar da aparência de manchas e associa a niacinamida à uniformidade do tom. Se uma mancha mudou ou persiste, converse com o dermatologista. Na rotina diurna, siga a orientação de usar protetor solar.",
+          "Mancha tem causas diferentes, e algumas pedem diagnóstico. Na dúvida, o dermatologista."
+        ]
+      },
+      {
+        "heading": "Vitamina C ou niacinamida para pele oleosa",
+        "paragraphs": [
+          "A página do Ultra Sérum Niacinamida diz que ele controla a oleosidade. A da vitamina C não fala disso. O ponto de atenção é o perfume: o Ultra Sérum Niacinamida lista Parfum na composição, e isso pesa para quem evita fragrância no rosto.",
+          "Se a dúvida é espinha, e não só brilho, o guia da [Simple Organic para acne](/reviews/simple-organic-para-acne) mostra o que cada produto da loja declara."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+            "alt": "Frasco de 30 mL do Ultra Sérum Niacinamida da Simple Organic, em foto oficial da marca",
+            "caption": "Ultra Sérum Niacinamida, de 30 mL. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-niacinamida"
+          }
+        ]
+      },
+      {
+        "heading": "Vitamina C e niacinamida juntos",
+        "paragraphs": [
+          "A loja vende as duas num kit, a Dupla Best-Seller, com niacinamida e vitamina C de 30 mL cada, segundo a descrição do kit. A página não deixa claro qual frasco vem dentro, se Solução ou Ultra Sérum. As páginas dos produtos avulsos não trazem instrução de uso em conjunto.",
+          "Os kits de skincare da loja estão no guia de [kit ou avulsos na Simple Organic](/reviews/kit-skincare-presente-simple-organic)."
+        ]
+      },
+      {
+        "heading": "Vitamina C ou niacinamida: qual usar primeiro",
+        "paragraphs": [
+          "A ficha do Ultra Sérum Vitamina C diz para aplicar após a limpeza e antes do hidratante. A Solução Vitamina C e o Ultra Sérum Niacinamida também entram depois da limpeza. A loja não dá uma ordem entre eles. Se você usa mais de um sérum, confira a instrução do kit ou consulte o atendimento.",
+          "O [guia de rotina](/reviews/simple-organic-rotina-de-uso) mostra a ordem que a marca indica em outras combinações.",
+          "Se você vai usar os dois, o guia de [rotina e ordem de uso](/reviews/simple-organic-rotina-de-uso) mostra o que a loja diz da sequência dos outros produtos. Para a ordem entre estes dois, o atendimento da loja é quem pode responder."
+        ]
+      },
+      {
+        "heading": "Os nomes na prateleira: Solução ou Ultra Sérum",
+        "paragraphs": [
+          "A loja tem duas vitaminas C e uma niacinamida, e os nomes confundem. A Solução Niacinamida aparece em kits, mas hoje só o Ultra Sérum Niacinamida está à venda avulso: a página dele diz que é a mesma fórmula da Solução, em embalagem nova.",
+          "As duas vitaminas C não são a mesma fórmula. A Solução e o Ultra Sérum têm derivado e concentração diferentes."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-solucao-vitamina-c.webp",
+            "alt": "Frasco da Solução Vitamina C da Simple Organic, em foto oficial da marca",
+            "caption": "Solução Vitamina C, de 30 mL. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/solucao-vitamina-c"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa cada um com o código",
+        "paragraphs": [
+          "Os preços abaixo são de campanha: a loja anuncia a Clean Friday até 30/11, e o preço de venda do dia é o que entra na conta. Sobre ele, o [cupom Simple Organic](/cupons/simple-organic) S-EMCASACOMCECILIA dá 5% OFF na loja online."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda de 20/11, na Clean Friday. Com o código, 5% sobre o preço do dia.",
+          "headers": [
+            "Produto",
+            "Volume",
+            "Preço do dia",
+            "Simulação com 5%"
+          ],
+          "rows": [
+            [
+              "Ultra Sérum Vitamina C",
+              "30 mL",
+              "R$ 41,40",
+              "R$ 39,33"
+            ],
+            [
+              "Solução Vitamina C",
+              "30 mL",
+              "R$ 59,40",
+              "R$ 56,43"
+            ],
+            [
+              "Ultra Sérum Niacinamida",
+              "30 mL",
+              "R$ 41,40",
+              "R$ 39,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: por mL, os dois Ultra Séruns saem a R$ 1,38 pelo preço do dia e R$ 1,31 com o código; a Solução Vitamina C, a R$ 1,98 e R$ 1,88. O volume do Ultra Sérum Vitamina C vem da página do kit Rotina Pele Iluminada, porque a ficha do produto não traz.",
+          "A política da loja diz que o cupom não soma com promoção, e nos testes do guia de [como usar o cupom](/reviews/cupom-simple-organic-como-usar) ele entrou sobre o preço promocional. Confira a linha do desconto no carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Para comparar o preço, os frascos têm 30 mL. A Solução Vitamina C custa mais por mL na campanha. No Ultra Sérum Vitamina C, esse volume vem da descrição do kit."
+        ],
+        "bullets": [
+          "Procura o que a página liga a manchas: a Solução Vitamina C.",
+          "Procura o que a página liga a oleosidade e tom: o Ultra Sérum Niacinamida.",
+          "Evita fragrância no rosto: os três produtos da tabela listam Parfum na composição.",
+          "Quer a vitamina C mais barata por mL: o Ultra Sérum Vitamina C.",
+          "Quer usar os dois: a loja não diz a ordem, então veja a rotina de uso e pergunte ao atendimento."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Vitamina C ou niacinamida primeiro? A loja não diz. A página do Ultra Sérum Vitamina C manda aplicar após a higienização e antes do hidratante, e a da niacinamida, após a limpeza, mas nenhuma informa qual vem antes entre as duas. O capítulo da ordem mostra o que cada página diz.",
+          "Vitamina C e niacinamida juntos? A loja vende os dois num kit, a Dupla Best-Seller, mas as páginas dos produtos avulsos não trazem instrução de uso em conjunto. O capítulo dos dois juntos mostra o que a loja informa.",
+          "A niacinamida da Simple Organic pode usar de dia? A página manda usar diariamente, após a limpeza, e a loja diz que ela serve de manhã e à noite.",
+          "A niacinamida da Simple Organic pode usar na gravidez? A loja manda gestantes e lactantes consultarem o médico antes de usar os produtos.",
+          "O cupom Simple Organic vale nesses produtos? O S-EMCASACOMCECILIA dá 5% OFF na loja online. Como a política da loja diz que o cupom não soma com promoção, confira a linha do desconto no carrinho antes de pagar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1207,
+    "slug": "simple-organic-rotina-de-uso",
+    "locale": "pt",
+    "title": "Rotina Simple Organic: a ordem de uso e o que cada produto diz sobre manhã e noite",
+    "seoTitle": "Rotina Simple Organic: ordem de uso de manhã e à noite",
+    "type": "Guia de Rotina",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Veja a ordem dos produtos da Simple Organic nos kits e quando cada ficha indica o uso. O Balm Antiolheiras muda de posição conforme a rotina descrita pela marca.",
+    "metaDescription": "Com o S-EMCASACOMCECILIA, 5% OFF na Simple Organic. Ordem de uso e o que cada produto declara de manhã e à noite, com a fonte de cada linha.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa.webp",
+    "imageAlt": "Kit Rotina Básica da Simple Organic, com gel de limpeza, sérum de niacinamida e balm de olhos, em foto da Simple Organic com o logo da marca, os textos «Ordem de uso / manhã e noite» e o código S-EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve este guia para a compra se você já escolheu os produtos e quer saber a ordem e o horário de cada um, com a fonte na página da loja.",
+        "Leve o guia se vai usar retinol, ácido salicílico ou mandélico: os três só entram à noite, pelas páginas."
+      ],
+      "skipIf": [
+        "Passe se você precisa de uma ordem única para todos os frascos. A sequência varia entre kits e fichas.",
+        "Passe se precisa de orientação de pele, protetor ou gestação: isso é com o dermatologista."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Simple Organic com o cupom",
+      "text": "Entre pelo link da parceria: a loja abre com o S-EMCASACOMCECILIA, de 5% OFF na loja online, já aplicado. Confira a linha do desconto no carrinho antes de pagar.",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom da Simple Organic.",
+    "relatedArticles": [
+      {
+        "slug": "simple-organic-retinol-like-ou-retinol"
+      },
+      {
+        "slug": "simple-organic-vitamina-c-ou-niacinamida"
+      },
+      {
+        "slug": "simple-organic-para-acne"
+      },
+      {
+        "slug": "kit-skincare-presente-simple-organic"
+      },
+      {
+        "slug": "simple-organic-e-boa"
+      },
+      {
+        "slug": "cupom-simple-organic-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Nos kits da Simple Organic que trazem gel de limpeza, ele costuma abrir a rotina. Depois vêm sérum ou solução e um hidratante ou balm, conforme o kit. O Ultra Sérum Retinol e o Salicílico ficam para a noite pelas fichas. O lugar do Balm Antiolheiras muda conforme a combinação."
+        ]
+      },
+      {
+        "heading": "Simple Organic: qual a ordem de uso?",
+        "paragraphs": [
+          "Comece pela página do produto ou do kit que você usa. Nos kits com gel de limpeza, a loja inicia pelo gel. Depois entram os séruns ou soluções e a finalização prevista para aquela combinação."
+        ],
+        "bullets": [
+          "Limpeza primeiro. Nos kits, o gel entra sobre a pele úmida e é enxaguado; o resto vai com a pele seca ou limpa e seca.",
+          "Soluções e séruns depois da limpeza. A Solução Vitamina C, a Gaba e o Oxyresveratrol pedem \"após a limpeza da pele\"; o Ultra Sérum Vitamina C, \"após a higienização e antes do hidratante\"; o Ultra Sérum Ácido Hialurônico, depois da higienização e antes do hidratante, com a pele levemente úmida.",
+          "Hidratante e balm depois dos séruns. O Balm CB.2 diz \"com a pele higienizada após as nossas Soluções e Séruns\".",
+          "Entre as soluções, a página do Oxyresveratrol traz uma regra: a sequência vai \"do mais leve para as texturas mais densas\"."
+        ],
+        "postParagraphs": [
+          "A Solução Gaba tem uma instrução própria: ser o primeiro produto aplicado depois da limpeza, ou entrar depois da Green Water, um produto que não está à venda no site agora. Entre dois séruns, como vitamina C e niacinamida, nenhuma página diz qual vem primeiro; essa dúvida está em [Simple Organic: vitamina C ou niacinamida?](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
+        ]
+      },
+      {
+        "heading": "Séruns e ácidos: manhã ou noite?",
+        "paragraphs": [
+          "Entre os Ultra Séruns, três são só da noite pela página: o Retinol, o Ácido Salicílico e o Ácido Mandélico. Os outros três servem de dia e de noite."
+        ],
+        "comparisonTable": {
+          "caption": "Texto de cada página de produto.",
+          "headers": [
+            "Produto",
+            "Manhã",
+            "Noite",
+            "O que a página diz"
+          ],
+          "rows": [
+            [
+              "Ultra Sérum Vitamina C",
+              "Sim, com protetor por cima",
+              "Sim",
+              "Ficha: \"Uso diurno e noturno\". FAQ: aplicar depois da higienização e antes do hidratante; de dia, finalizar com protetor"
+            ],
+            [
+              "Ultra Sérum Niacinamida",
+              "Diário",
+              "Diário",
+              "Ficha: \"Diariamente, após a limpeza da pele\", sem separar manhã e noite"
+            ],
+            [
+              "Ultra Sérum Ácido Hialurônico",
+              "Sim",
+              "Sim",
+              "Ficha: \"Diariamente, de manhã e à noite\""
+            ],
+            [
+              "Ultra Sérum Retinol",
+              "Não, só protetor solar",
+              "Sim",
+              "FAQ: \"indicado exclusivamente para uso noturno\""
+            ],
+            [
+              "Ultra Sérum Ácido Salicílico",
+              "Não",
+              "Sim",
+              "Ficha: \"Exclusivamente à noite\""
+            ],
+            [
+              "Ultra Sérum Ácido Mandélico",
+              "Não",
+              "Sim",
+              "A ficha indica uso exclusivo à noite. O FAQ responde que não é para o dia."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Soluções: manhã ou noite?",
+        "paragraphs": [
+          "A tabela reproduz o horário informado pela marca. Para o Retinol-Like, a indicação de uso diurno vem do FAQ. Para o PDRN, confira também a página do kit."
+        ],
+        "comparisonTable": {
+          "caption": "Texto de cada página de produto.",
+          "headers": [
+            "Produto",
+            "Manhã",
+            "Noite",
+            "O que a página diz"
+          ],
+          "rows": [
+            [
+              "Solução Vitamina C",
+              "Sim",
+              "Sim",
+              "Ficha: \"Uso diurno e noturno, após a limpeza da pele\""
+            ],
+            [
+              "Solução Retinol-Like",
+              "Sim, com protetor por cima",
+              "Sim",
+              "FAQ: \"Posso usar a Solução Retinol-Like de dia? Sim, com certeza!\""
+            ],
+            [
+              "Solução Gaba",
+              "Sim",
+              "Sim",
+              "Ficha: uso diurno e noturno, após a limpeza; primeiro produto ou depois da Green Water"
+            ],
+            [
+              "Solução Oxyresveratrol",
+              "Sim",
+              "Sim",
+              "Ficha: uso diurno e noturno, após a limpeza. FAQ: \"Não há restrição para o uso\""
+            ],
+            [
+              "Solução Poliglutâmico",
+              "Sim",
+              "Sim",
+              "Ficha: \"Uso diurno e noturno\""
+            ],
+            [
+              "Solução Hero",
+              "Diário",
+              "Diário",
+              "Ficha: \"Diariamente, após a limpeza\""
+            ],
+            [
+              "Solução Exossomos + PDRN + Peptídeos",
+              "A ficha cita manhã",
+              "A ficha cita noite",
+              "Nos kits, a sequência varia. Confira a página da combinação."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Limpeza, balms e hidratantes: manhã ou noite?",
+        "paragraphs": [
+          "Gel de limpeza e balms são de dia e de noite pela ficha. Os dois hidratantes faciais da tabela dizem só \"diariamente\"."
+        ],
+        "comparisonTable": {
+          "caption": "Texto de cada página de produto.",
+          "headers": [
+            "Produto",
+            "Manhã",
+            "Noite",
+            "O que a página diz"
+          ],
+          "rows": [
+            [
+              "Gel de Limpeza Suave",
+              "Sim",
+              "Sim",
+              "Ficha: \"Uso diurno e noturno\""
+            ],
+            [
+              "Gel de Limpeza Profunda",
+              "Sim",
+              "Sim",
+              "Ficha: \"Uso diurno e noturno\". FAQ: pode ser usado todos os dias"
+            ],
+            [
+              "Balm CB.2",
+              "Sim",
+              "Sim",
+              "Ficha: \"Uso diurno e noturno\", depois das Soluções e Séruns"
+            ],
+            [
+              "Balm Antiolheiras",
+              "Sim",
+              "Sim",
+              "A ficha pede aplicação após hidratantes e óleos. No kit de pele sensível, vem antes do hidratante."
+            ],
+            [
+              "Hidratante Facial Antioleosidade",
+              "Diário",
+              "Diário",
+              "Ficha: \"Diariamente\", depois da limpeza e dos cuidados específicos"
+            ],
+            [
+              "Hidratante Facial Calmante Multirreparador",
+              "Diário",
+              "Diário",
+              "Ficha: \"Diariamente\""
+            ],
+            [
+              "Super Balm Antiacne",
+              "Sim",
+              "Sim",
+              "Uso localizado na área desejada, segundo a ficha"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Retinol Simple Organic: como usar",
+        "paragraphs": [
+          "A ficha do Ultra Sérum Retinol indica uso à noite e pede protetor solar nas manhãs durante todo o período de uso. Compare os dois frascos no guia [Retinol-Like ou retinol](/reviews/simple-organic-retinol-like-ou-retinol).",
+          "A escolha entre ele e a Solução Retinol-Like está em [Simple Organic: Retinol-Like ou retinol?](/reviews/simple-organic-retinol-like-ou-retinol)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+            "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Ultra Sérum Retinol: só à noite, pela página da loja. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
+          }
+        ]
+      },
+      {
+        "heading": "Ácidos e retinol na mesma rotina",
+        "paragraphs": [
+          "A loja pede alternar os dias de aplicação quando o retinol convive com ácidos esfoliantes ou outros retinoides, e o FAQ do Salicílico pede uso alternado com outros ácidos esfoliantes. O Ácido Hialurônico, diário de manhã e à noite pela ficha, não aparece nessa regra.",
+          "A página do Salicílico pede que gestantes consultem um profissional de saúde antes de usar qualquer cosmético. Para a rotina de quem tem espinhas, veja [Simple Organic para acne](/reviews/simple-organic-para-acne)."
+        ]
+      },
+      {
+        "heading": "Rotina com os kits da loja",
+        "paragraphs": [
+          "Os kits mostram a ordem de uso melhor que as fichas soltas. Quando há gel, ele abre a rotina, e o balm ou o hidratante fecha."
+        ],
+        "comparisonTable": {
+          "caption": "Ordem como a página de cada kit traz.",
+          "headers": [
+            "Kit",
+            "Ordem declarada",
+            "Horário"
+          ],
+          "rows": [
+            [
+              "Rotina Básica",
+              "Gel Suave, Ultra Sérum Niacinamida, Balm Antiolheiras",
+              "Manhã e noite"
+            ],
+            [
+              "Rotina Pele Iluminada",
+              "Gel Suave, Ultra Sérum Vitamina C, Balm Antiolheiras",
+              "Manhã e noite"
+            ],
+            [
+              "Rotina Hidratação Intensa",
+              "Gel Suave, Ultra Sérum Ácido Hialurônico, Balm Antiolheiras",
+              "Manhã e noite"
+            ],
+            [
+              "Rotina Pele Madura",
+              "Gel Suave, Ultra Sérum Retinol, Balm Antiolheiras",
+              "Retinol só à noite"
+            ],
+            [
+              "Rotina Anti-idade",
+              "Solução PDRN, Ultra Sérum Retinol, Balm Antiolheiras",
+              "Retinol só à noite"
+            ],
+            [
+              "Rotina Noturna de Regeneração",
+              "Gel Suave, Solução PDRN, Ultra Sérum Retinol",
+              "Noite; protetor de manhã"
+            ],
+            [
+              "Rotina pele sensível",
+              "Gel Suave, Balm Antiolheiras, Hidratante Calmante",
+              "Protetor solar de dia"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Rotina Noturna, a página manda aguardar a absorção completa do PDRN antes do retinol. Para escolher entre os kits como presente, o caminho é [kit de skincare Simple Organic: o que vale](/reviews/kit-skincare-presente-simple-organic)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+            "alt": "Kit Rotina Pele Iluminada da Simple Organic, com gel de limpeza, sérum de vitamina C e balm, em foto oficial da loja",
+            "caption": "Rotina Pele Iluminada: gel, sérum de vitamina C e balm, nessa ordem, pela página. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/kit-pele-iluminada"
+          }
+        ]
+      },
+      {
+        "heading": "Protetor solar: a loja manda usar e não vende",
+        "paragraphs": [
+          "Os kits com uso diurno orientam finalizar com protetor solar. A Simple Organic não tinha protetor solar no catálogo consultado. Se o seu produto pede esse passo, inclua o protetor que você já usa ou siga a orientação do seu dermatologista."
+        ]
+      },
+      {
+        "heading": "Onde a orientação depende do produto ou kit",
+        "paragraphs": [
+          "No Balm Antiolheiras, a posição muda de um cadastro para o outro. Para PDRN e Super Balm, as frases explicam partes diferentes da rotina."
+        ],
+        "bullets": [
+          "**Balm Antiolheiras.** A ficha do avulso coloca o balm depois de hidratantes e óleos. No kit de pele sensível, ele vem antes do hidratante.",
+          "**PDRN.** O modo de uso da Rotina Anti-idade cita a manhã. A Rotina Noturna coloca o mesmo sérum à noite, antes do retinol. A ficha geral menciona manhã e noite.",
+          "**Super Balm Antiacne.** A ficha usa “pontual” para indicar a região onde se aplica. No campo de frequência, orienta uso diário de manhã e à noite."
+        ],
+        "postParagraphs": [
+          "Se a ordem importa para a sua rotina, vale perguntar à loja pelo atendimento do site antes de comprar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+            "alt": "Stick do Balm Antiolheiras da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Balm Antiolheiras: a ficha e os kits dão ordens diferentes. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/balm-antiolheiras"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custam os produtos da rotina",
+        "paragraphs": [
+          "A Simple Organic está na Clean Friday, e os preços abaixo são os de venda da campanha. O cupom da parceria, o S-EMCASACOMCECILIA, dá 5% OFF no site."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de 20/11, de campanha. Com o código, 5% sobre o preço do dia.",
+          "headers": [
+            "Produto",
+            "Preço do dia",
+            "Simulação com 5%"
+          ],
+          "rows": [
+            [
+              "Gel de Limpeza Suave",
+              "R$ 29,50",
+              "R$ 28,03"
+            ],
+            [
+              "Ultra Sérum Vitamina C",
+              "R$ 41,40",
+              "R$ 39,33"
+            ],
+            [
+              "Ultra Sérum Retinol",
+              "R$ 41,40",
+              "R$ 39,33"
+            ],
+            [
+              "Balm Antiolheiras",
+              "R$ 41,40",
+              "R$ 39,33"
+            ],
+            [
+              "Balm CB.2",
+              "R$ 47,40",
+              "R$ 45,03"
+            ],
+            [
+              "Rotina Pele Iluminada (kit)",
+              "R$ 112,30",
+              "R$ 106,69"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: a coluna do código é o preço do dia menos 5%; confira a linha do desconto no carrinho antes de pagar. A política da loja diz que o cupom não soma com promoção, mas os testes em kit e em item em promoção deram os 5%, e o passo a passo está em [Como usar o cupom S-EMCASACOMCECILIA na Simple Organic](/reviews/cupom-simple-organic-como-usar). O botão desta página abre a loja com o [cupom Simple Organic](/cupons/simple-organic) já aplicado."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Simple Organic, como usar? A loja não publica uma rotina única: cada página diz quando o produto entra. Limpeza primeiro, depois solução ou sérum, depois balm ou hidratante; as tabelas deste guia trazem a fonte de cada linha.",
+          "Retinol like pode usar de dia? Pode, diz a loja: a página da Solução Retinol-Like responde \"Sim, com certeza!\" e pede protetor solar por cima. O Ultra Sérum Retinol é outro produto e é só da noite.",
+          "Niacinamida Simple Organic pode usar de dia? A ficha do Ultra Sérum Niacinamida diz \"Diariamente, após a limpeza da pele\", sem separar manhã e noite; no kit Rotina Básica, a loja o indica de manhã e à noite.",
+          "Gaba Simple Organic pode usar de dia? Pode: a ficha da Solução Gaba diz uso diurno e noturno, após a limpeza da pele.",
+          "Eye balm Simple Organic, como usar? A ficha do Balm Antiolheiras diz uso diurno e noturno, \"após hidratantes e óleos\". Nos kits, ele vem depois do sérum ou antes do hidratante, conforme o kit."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1208,
+    "slug": "simple-organic-para-acne",
+    "locale": "pt",
+    "title": "Simple Organic para acne: o que cada produto declara e quanto custa",
+    "seoTitle": "Simple Organic para acne: o que cada produto declara",
+    "type": "Guia de Skincare",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os produtos da Simple Organic para pele oleosa e com espinhas: os ativos que cada página declara, como a loja manda usar, o preço e quando procurar o dermatologista.",
+    "metaDescription": "O S-EMCASACOMCECILIA dá 5% OFF na Simple Organic. Produtos para pele oleosa e espinhas, o que cada página declara e quando procurar dermatologista.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/simple-organic-para-acne-capa.webp",
+    "imageAlt": "Kit Acne, poros e cravos da Simple Organic, com gel de limpeza, sérum de ácido salicílico e hidratante, em foto da Simple Organic com o logo da marca, os textos «Simple Organic / para acne» e o código S-EMCASACOMCECILIA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve o Ultra Sérum Ácido Salicílico se já quer ácido salicílico a 2% e aceita usá-lo só à noite, alternando com outros ácidos.",
+        "Leve o Gel de Limpeza Profunda se prefere o ácido salicílico no passo da limpeza, que a loja indica de manhã e à noite.",
+        "Leve os adesivos se quer um produto de aplicação pontual, com ácido salicílico, niacinamida e óleo de melaleuca."
+      ],
+      "skipIf": [
+        "Procure o dermatologista antes de comprar se a acne é persistente ou inflamada: nenhum produto desta lista faz o papel da consulta.",
+        "Passe do Ultra Sérum Ácido Salicílico se já usa outro ácido esfoliante toda noite: a loja manda alternar os dois.",
+        "Espere a consulta se está grávida ou amamentando: a loja manda falar com um profissional de saúde antes de iniciar qualquer produto."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Simple Organic com o cupom",
+      "text": "Entre pelo link da parceria: a loja abre com o S-EMCASACOMCECILIA, de 5% OFF na loja online, já aplicado. Confira a linha do desconto no carrinho antes de pagar.",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom da Simple Organic.",
+    "relatedArticles": [
+      {
+        "slug": "simple-organic-e-boa"
+      },
+      {
+        "slug": "simple-organic-vitamina-c-ou-niacinamida"
+      },
+      {
+        "slug": "simple-organic-retinol-like-ou-retinol"
+      },
+      {
+        "slug": "simple-organic-rotina-de-uso"
+      },
+      {
+        "slug": "kit-skincare-presente-simple-organic"
+      },
+      {
+        "slug": "cupom-simple-organic-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Ultra Sérum Ácido Salicílico da Simple Organic tem 2% de salicílico e uso noturno pela ficha. A marca também vende gel de limpeza, balm e adesivos para aplicação localizada. Compare o que cada rótulo declara. Se a acne persiste, dói ou deixa marcas, procure um dermatologista."
+        ]
+      },
+      {
+        "heading": "Simple Organic para acne: quais produtos a marca vende",
+        "paragraphs": [
+          "Compare primeiro o formato. O gel é de enxágue. O sérum entra à noite segundo a marca. O balm e os adesivos são usados no local. As fichas mostram onde os ativos se repetem entre esses e os outros produtos."
+        ],
+        "comparisonTable": {
+          "caption": "Ativos e horário como a página de cada produto informa.",
+          "headers": [
+            "Produto",
+            "Ativos declarados",
+            "Como a loja manda usar"
+          ],
+          "rows": [
+            [
+              "[Ultra Sérum Ácido Salicílico](https://simpleorganic.com.br/products/ultra-serum-acido-salicilico), 30 mL",
+              "Ácido salicílico 2%, ácido kójico 1,5% e alfa arbutin 0,5%",
+              "Exclusivamente à noite"
+            ],
+            [
+              "[Super Balm Antiacne](https://simpleorganic.com.br/products/super-balm-antiacne), em bastão",
+              "Melaleuca, copaíba e niacinamida",
+              "Aplicação localizada; ficha indica manhã e noite"
+            ],
+            [
+              "[Adesivos Bye Bye Acne](https://simpleorganic.com.br/products/adesivos-secativos-para-espinhas), 24 unidades",
+              "Ácido salicílico, niacinamida e óleo de melaleuca, em hidrocoloide",
+              "Diariamente, de manhã e à noite"
+            ],
+            [
+              "[Gel de Limpeza Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda), 350 g",
+              "Ácidos salicílico, lático e glicólico, zinco e glicerina",
+              "Uso diurno e noturno; pode ser usado todos os dias"
+            ],
+            [
+              "[Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade), 40 g",
+              "Niacinamida, zinco PCA, aloe e glicerina; perfume na composição",
+              "Diariamente, depois da limpeza"
+            ],
+            [
+              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida), 30 mL",
+              "Niacinamida 10%; perfume na composição",
+              "Diariamente, depois da limpeza"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Máscara de Argila Control também é da linha, mas está esgotada e fica fora da conta."
+        ]
+      },
+      {
+        "heading": "Ativos que aparecem em mais de um produto",
+        "paragraphs": [
+          "Ler o rótulo antes de montar a rotina evita repetir o mesmo ativo sem querer. Pelas páginas da loja, quatro ativos se repetem."
+        ],
+        "bullets": [
+          "Ácido salicílico: no Ultra Sérum a 2%, no Gel de Limpeza Profunda e nos adesivos. Só o sérum declara a concentração.",
+          "Niacinamida: no Super Balm, nos adesivos, no hidratante e no Ultra Sérum Niacinamida, que tem 10%.",
+          "Óleo de melaleuca: no Super Balm e nos adesivos.",
+          "Zinco: no gel e no hidratante, na forma de zinco PCA no hidratante."
+        ],
+        "postParagraphs": [
+          "O ácido salicílico aparece no gel, no sérum e nos adesivos. Confira as instruções de cada produto se for incluir mais de um na rotina. Veja também [a ordem dos produtos da Simple Organic](/reviews/simple-organic-rotina-de-uso)."
+        ]
+      },
+      {
+        "heading": "Ácido salicílico na Simple Organic",
+        "paragraphs": [
+          "A ficha do Ultra Sérum indica uso noturno e descreve uma adaptação gradual. A marca orienta alternar com outros ácidos esfoliantes. O Gel de Limpeza Profunda também lista ácidos e vem com o sérum no Duo Tchau Acne. Confira as instruções de cada embalagem antes de combinar os produtos.",
+          "O Gel de Limpeza Profunda também leva ácidos, e a loja o indica para uso de manhã e à noite. A loja vende os dois juntos no Duo Tchau Acne; o uso alternado que ela pede é entre o sérum e outros ácidos esfoliantes."
+        ]
+      },
+      {
+        "heading": "Niacinamida nos produtos de acne",
+        "paragraphs": [
+          "A niacinamida aparece em quatro produtos desta linha, e a única concentração informada é a do Ultra Sérum Niacinamida, 10%. No Super Balm, nos adesivos e no hidratante, a página cita o ativo sem a porcentagem. Do hidratante, a loja diz que \"ajuda a reduzir o excesso de oleosidade\".",
+          "Se a dúvida é a niacinamida contra a vitamina C, ou o que a loja informa sobre a ordem entre as duas, o guia [vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida) cobre a comparação. Para o resto da linha, veja [Simple Organic é boa?](/reviews/simple-organic-e-boa)."
+        ]
+      },
+      {
+        "heading": "Adesivo para espinha: o que a página declara",
+        "paragraphs": [
+          "Os adesivos de hidrocoloide vêm em duas cartelas de 12. A ficha lista ácido salicílico, niacinamida e óleo de melaleuca. A Simple Organic orienta colar sobre a pele limpa e seca e pressionar. O FAQ da marca permite usar enquanto dorme.",
+          "O modo de uso da página tem quatro passos: tirar o filme, aplicar sobre a pele limpa e seca, colar e pressionar. A ficha indica uso diário, de manhã e à noite, a loja diz que dá para usar maquiagem por cima e responde, no FAQ, que pode dormir com o adesivo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-para-acne-adesivos-bye-bye-acne.webp",
+            "alt": "Caixa dos Adesivos Secativos Bye Bye Acne da Simple Organic, com a foto de duas pessoas e o texto «BYE BYE ACNE», em foto oficial",
+            "caption": "Adesivos Bye Bye Acne: 24 unidades em duas cartelas. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/adesivos-secativos-para-espinhas"
+          }
+        ]
+      },
+      {
+        "heading": "Super Balm Antiacne: o que a página diz",
+        "paragraphs": [
+          "O Super Balm é um bastão com melaleuca, copaíba e niacinamida. A ficha da Simple Organic separa as instruções por campo. A quantidade é para aplicação localizada, e a frequência indicada é de manhã e à noite."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-para-acne-super-balm-antiacne.webp",
+            "alt": "Super Balm Antiacne da Simple Organic, em bastão, em foto oficial",
+            "caption": "Super Balm Antiacne, em bastão. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/super-balm-antiacne"
+          }
+        ]
+      },
+      {
+        "heading": "Kits de acne: o que vem em cada um",
+        "paragraphs": [
+          "Três kits cruzam com esta linha. O Duo Tchau Acne traz o Gel de Limpeza Profunda de 350 g e o Ultra Sérum Ácido Salicílico de 30 mL, e a página diz: gel de manhã e à noite, salicílico exclusivamente à noite. O Acne, poros e cravos soma o Hidratante Facial Antioleosidade de 40 g: a ordem da página é o gel na pele úmida, depois o salicílico conforme as orientações dele e depois o hidratante, com protetor solar durante o dia.",
+          "O terceiro, Acne e Oleosidade sob controle, traz a Solução Niacinamida e a Solução Retinol-Like. A loja diz que o Ultra Sérum Niacinamida é a mesma fórmula da Solução Niacinamida, em embalagem nova. O Retinol-Like tem o bakuchiol como ativo, e a diferença para o retinol está no guia [Retinol-Like ou retinol na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol). Para escolher entre kit e avulsos em geral, veja o guia de [kit de skincare](/reviews/kit-skincare-presente-simple-organic)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-para-acne-duo-tchau-acne.webp",
+            "alt": "Duo Tchau Acne da Simple Organic, com o gel de limpeza e o sérum, em foto oficial",
+            "caption": "Duo Tchau Acne: gel de limpeza e sérum de ácido salicílico. Foto: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/kit-tchau-acne"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa, com o código",
+        "paragraphs": [
+          "Os preços da tabela são de campanha, da Clean Friday. Conta nossa, com 5% sobre o preço do dia de cada linha: o resultado é a coluna do código, e a linha do desconto no carrinho é a que confirma. Somando os avulsos pelo preço do dia, o Duo Tchau Acne custa o mesmo que o gel e o sérum separados, e o kit Acne, poros e cravos sai R$ 6,90 mais barato que os três avulsos.",
+          "A política da loja diz que o cupom não soma com promoção, mas nos testes que fizemos em outras compras o cupom entrou em item em promoção. O que vale é o resumo do pedido: o [guia do cupom](/reviews/cupom-simple-organic-como-usar) mostra como conferir. Para comprar com o [cupom Simple Organic](/cupons/simple-organic), pelo link da parceria ou colando o código no carrinho, o frete é grátis a partir de R$ 99 em produtos, contados depois do desconto."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia em 20/11, de campanha, e o mesmo preço menos 5% do código.",
+          "headers": [
+            "Produto",
+            "Preço do dia",
+            "Simulação com 5%"
+          ],
+          "rows": [
+            [
+              "Adesivos Bye Bye Acne",
+              "R$ 23,40",
+              "R$ 22,23"
+            ],
+            [
+              "Hidratante Antioleosidade",
+              "R$ 27,00",
+              "R$ 25,65"
+            ],
+            [
+              "Gel de Limpeza Profunda",
+              "R$ 29,50",
+              "R$ 28,03"
+            ],
+            [
+              "Ultra Sérum Ácido Salicílico",
+              "R$ 41,40",
+              "R$ 39,33"
+            ],
+            [
+              "Ultra Sérum Niacinamida",
+              "R$ 41,40",
+              "R$ 39,33"
+            ],
+            [
+              "Super Balm Antiacne",
+              "R$ 47,40",
+              "R$ 45,03"
+            ],
+            [
+              "Duo Tchau Acne",
+              "R$ 70,90",
+              "R$ 67,36"
+            ],
+            [
+              "Acne, poros e cravos",
+              "R$ 91,00",
+              "R$ 86,45"
+            ],
+            [
+              "Acne e Oleosidade sob controle",
+              "R$ 128,00",
+              "R$ 121,60"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Quando procurar o dermatologista",
+        "paragraphs": [
+          "Acne persistente, dolorida, com espinhas inflamadas ou que deixa marcas é assunto para o dermatologista, antes de qualquer produto desta lista. Uma loja de cosméticos não faz diagnóstico, e este guia também não.",
+          "Quem está grávida deve seguir o aviso da página do Ultra Sérum Ácido Salicílico: consultar um profissional de saúde antes de iniciar o uso de qualquer produto cosmético. Amamentando, a pergunta ao profissional é a mesma. Pele que arde, descama muito ou piora depois de um produto novo pede pausa e a mesma conversa."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Simple Organic para acne funciona? As fichas informam ingredientes e instruções de uso. Para acne persistente, dolorida ou que deixa marcas, procure um dermatologista.",
+          "Super Balm Antiacne serve para espinha? A Simple Organic vende o balm para uso localizado. A ficha orienta aplicar na região desejada, de manhã e à noite.",
+          "Niacinamida da Simple Organic serve para acne? A loja declara niacinamida em quatro produtos desta linha, e só o Ultra Sérum Niacinamida informa a concentração. O capítulo de niacinamida traz o que cada página diz.",
+          "Os adesivos Bye Bye Acne podem ser usados dormindo? A página responde que sim e diz que dá para usar maquiagem por cima. O capítulo do adesivo traz o modo de uso."
         ]
       }
     ]

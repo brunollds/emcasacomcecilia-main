@@ -153750,6 +153750,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-para-acne-adesivos-bye-bye-acne.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-para-acne-adesivos-bye-bye-acne.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42884,
+      "sha256": "2ff7dac7b1041842f9a092d767b0a11bab59781bf3b45bf1ee3bd8e5dbeeeae0",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-para-acne-adesivos-bye-bye-acne.webp",
+      "storage_filename": "simple-organic-para-acne-adesivos-bye-bye-acne.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-para-acne.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-para-acne.json",
+          "line": 163,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-adesivos-bye-bye-acne.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293906,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-adesivos-bye-bye-acne.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2ff7dac7b1041842f9a092d767b0a11bab59781bf3b45bf1ee3bd8e5dbeeeae0/simple-organic-para-acne-adesivos-bye-bye-acne.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2ff7dac7b1041842f9a092d767b0a11bab59781bf3b45bf1ee3bd8e5dbeeeae0/simple-organic-para-acne-adesivos-bye-bye-acne.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:45.341Z",
+      "verification_etag_or_digest": "2ff7dac7b1041842f9a092d767b0a11bab59781bf3b45bf1ee3bd8e5dbeeeae0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-para-acne-capa.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-para-acne-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63554,
+      "sha256": "5a042dd1e1cda3c8e0ae29389aad9beeed899ebec8ffb666e1dfb4494e1ee1fe",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-para-acne-capa.webp",
+      "storage_filename": "simple-organic-para-acne-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-para-acne.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-para-acne.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293766,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5a042dd1e1cda3c8e0ae29389aad9beeed899ebec8ffb666e1dfb4494e1ee1fe/simple-organic-para-acne-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5a042dd1e1cda3c8e0ae29389aad9beeed899ebec8ffb666e1dfb4494e1ee1fe/simple-organic-para-acne-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:45.671Z",
+      "verification_etag_or_digest": "5a042dd1e1cda3c8e0ae29389aad9beeed899ebec8ffb666e1dfb4494e1ee1fe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-para-acne-duo-tchau-acne.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-para-acne-duo-tchau-acne.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39602,
+      "sha256": "81c30886698118391a8b7dc8211f3217ec72ce2736baf4f9ab8fe9f98f8d064d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-para-acne-duo-tchau-acne.webp",
+      "storage_filename": "simple-organic-para-acne-duo-tchau-acne.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-para-acne.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-para-acne.json",
+          "line": 196,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-duo-tchau-acne.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293939,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-duo-tchau-acne.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/81c30886698118391a8b7dc8211f3217ec72ce2736baf4f9ab8fe9f98f8d064d/simple-organic-para-acne-duo-tchau-acne.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/81c30886698118391a8b7dc8211f3217ec72ce2736baf4f9ab8fe9f98f8d064d/simple-organic-para-acne-duo-tchau-acne.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:45.985Z",
+      "verification_etag_or_digest": "81c30886698118391a8b7dc8211f3217ec72ce2736baf4f9ab8fe9f98f8d064d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-para-acne-super-balm-antiacne.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-para-acne-super-balm-antiacne.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14768,
+      "sha256": "437455bff760d40cc0dec9c6a3618f77ac281e5a141d3f7fb37714982f9a995f",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-para-acne-super-balm-antiacne.webp",
+      "storage_filename": "simple-organic-para-acne-super-balm-antiacne.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-para-acne.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-para-acne.json",
+          "line": 179,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-super-balm-antiacne.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293922,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-super-balm-antiacne.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/437455bff760d40cc0dec9c6a3618f77ac281e5a141d3f7fb37714982f9a995f/simple-organic-para-acne-super-balm-antiacne.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/437455bff760d40cc0dec9c6a3618f77ac281e5a141d3f7fb37714982f9a995f/simple-organic-para-acne-super-balm-antiacne.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:46.349Z",
+      "verification_etag_or_digest": "437455bff760d40cc0dec9c6a3618f77ac281e5a141d3f7fb37714982f9a995f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
       "local_url": "/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
       "media_kind": "image",
@@ -153850,6 +154034,297 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47532,
+      "sha256": "fb2066292481ebdef7dde538debe3ddf894f43f2884d8a2156220107f674d4eb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-retinol-like-ou-retinol-capa.webp",
+      "storage_filename": "simple-organic-retinol-like-ou-retinol-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-retinol-like-ou-retinol.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-retinol-like-ou-retinol.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292847,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fb2066292481ebdef7dde538debe3ddf894f43f2884d8a2156220107f674d4eb/simple-organic-retinol-like-ou-retinol-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fb2066292481ebdef7dde538debe3ddf894f43f2884d8a2156220107f674d4eb/simple-organic-retinol-like-ou-retinol-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:46.651Z",
+      "verification_etag_or_digest": "fb2066292481ebdef7dde538debe3ddf894f43f2884d8a2156220107f674d4eb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-solucao-retinol-like.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-solucao-retinol-like.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26362,
+      "sha256": "c45eb5d36cf7abf6c79e01aad47d637792e27d6b69d2964e062bfb4b67761699",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-retinol-like-ou-retinol-solucao-retinol-like.webp",
+      "storage_filename": "simple-organic-retinol-like-ou-retinol-solucao-retinol-like.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-retinol-like-ou-retinol.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-retinol-like-ou-retinol.json",
+          "line": 128,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-solucao-retinol-like.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292952,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-solucao-retinol-like.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c45eb5d36cf7abf6c79e01aad47d637792e27d6b69d2964e062bfb4b67761699/simple-organic-retinol-like-ou-retinol-solucao-retinol-like.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c45eb5d36cf7abf6c79e01aad47d637792e27d6b69d2964e062bfb4b67761699/simple-organic-retinol-like-ou-retinol-solucao-retinol-like.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:46.986Z",
+      "verification_etag_or_digest": "c45eb5d36cf7abf6c79e01aad47d637792e27d6b69d2964e062bfb4b67761699",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18860,
+      "sha256": "72375606898726f20b46de8631f9450e15435048b59f4ff1ec631a09dead93fb",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+      "storage_filename": "simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-retinol-like-ou-retinol.json",
+        "content/reviews/simple-organic-rotina-de-uso.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-retinol-like-ou-retinol.json",
+          "line": 161,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/simple-organic-rotina-de-uso.json",
+          "line": 269,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292985,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293573,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/72375606898726f20b46de8631f9450e15435048b59f4ff1ec631a09dead93fb/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/72375606898726f20b46de8631f9450e15435048b59f4ff1ec631a09dead93fb/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:47.272Z",
+      "verification_etag_or_digest": "72375606898726f20b46de8631f9450e15435048b59f4ff1ec631a09dead93fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15780,
+      "sha256": "72dfa28bf5c0f63be83d3973af5666e60aaf22bb44b6622d2cef324a45a2296d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+      "storage_filename": "simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-rotina-de-uso.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-rotina-de-uso.json",
+          "line": 370,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293674,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/72dfa28bf5c0f63be83d3973af5666e60aaf22bb44b6622d2cef324a45a2296d/simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/72dfa28bf5c0f63be83d3973af5666e60aaf22bb44b6622d2cef324a45a2296d/simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:47.533Z",
+      "verification_etag_or_digest": "72dfa28bf5c0f63be83d3973af5666e60aaf22bb44b6622d2cef324a45a2296d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56230,
+      "sha256": "588023a40fe8bcd83ca086dcff94c45eeb83009344bcdb3f689cebce27007b8e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-rotina-de-uso-capa.webp",
+      "storage_filename": "simple-organic-rotina-de-uso-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-rotina-de-uso.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-rotina-de-uso.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293327,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/588023a40fe8bcd83ca086dcff94c45eeb83009344bcdb3f689cebce27007b8e/simple-organic-rotina-de-uso-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/588023a40fe8bcd83ca086dcff94c45eeb83009344bcdb3f689cebce27007b8e/simple-organic-rotina-de-uso-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:47.848Z",
+      "verification_etag_or_digest": "588023a40fe8bcd83ca086dcff94c45eeb83009344bcdb3f689cebce27007b8e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41946,
+      "sha256": "1b7970bc530594cb92187c517376056ee7761fca2b08851d5d71dbb175e2770a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+      "storage_filename": "simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-rotina-de-uso.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-rotina-de-uso.json",
+          "line": 340,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293644,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1b7970bc530594cb92187c517376056ee7761fca2b08851d5d71dbb175e2770a/simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1b7970bc530594cb92187c517376056ee7761fca2b08851d5d71dbb175e2770a/simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:48.127Z",
+      "verification_etag_or_digest": "1b7970bc530594cb92187c517376056ee7761fca2b08851d5d71dbb175e2770a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/simple-organic-site-oficial-home.webp",
       "local_url": "/images/reviews/simple-organic/simple-organic-site-oficial-home.webp",
       "media_kind": "image",
@@ -153939,6 +154414,190 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T21:10:51.184Z",
       "verification_etag_or_digest": "ae912332451b7ff27e65f29ed52d647267e3af87e0a98355832f5bde3031d0fc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46182,
+      "sha256": "1c01ba85f83b57ab9cb5a3970a0d5dead404ca2cf8ef8dd9eed021e54f39b57c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-vitamina-c-ou-niacinamida-capa.webp",
+      "storage_filename": "simple-organic-vitamina-c-ou-niacinamida-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293085,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1c01ba85f83b57ab9cb5a3970a0d5dead404ca2cf8ef8dd9eed021e54f39b57c/simple-organic-vitamina-c-ou-niacinamida-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1c01ba85f83b57ab9cb5a3970a0d5dead404ca2cf8ef8dd9eed021e54f39b57c/simple-organic-vitamina-c-ou-niacinamida-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:48.451Z",
+      "verification_etag_or_digest": "1c01ba85f83b57ab9cb5a3970a0d5dead404ca2cf8ef8dd9eed021e54f39b57c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-solucao-vitamina-c.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-solucao-vitamina-c.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25108,
+      "sha256": "76e9fddace799ca6ced292838a89defb75d623126c47cb86de081245b01eb06e",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-vitamina-c-ou-niacinamida-solucao-vitamina-c.webp",
+      "storage_filename": "simple-organic-vitamina-c-ou-niacinamida-solucao-vitamina-c.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+          "line": 170,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-solucao-vitamina-c.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293232,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-solucao-vitamina-c.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/76e9fddace799ca6ced292838a89defb75d623126c47cb86de081245b01eb06e/simple-organic-vitamina-c-ou-niacinamida-solucao-vitamina-c.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/76e9fddace799ca6ced292838a89defb75d623126c47cb86de081245b01eb06e/simple-organic-vitamina-c-ou-niacinamida-solucao-vitamina-c.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:48.753Z",
+      "verification_etag_or_digest": "76e9fddace799ca6ced292838a89defb75d623126c47cb86de081245b01eb06e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17156,
+      "sha256": "a91d70daa75036e56679762e0aa3cd9806f23f782edfadfdd3cbbe620b9be336",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+      "storage_filename": "simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+          "line": 138,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293200,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a91d70daa75036e56679762e0aa3cd9806f23f782edfadfdd3cbbe620b9be336/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a91d70daa75036e56679762e0aa3cd9806f23f782edfadfdd3cbbe620b9be336/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-niacinamida.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:49.013Z",
+      "verification_etag_or_digest": "a91d70daa75036e56679762e0aa3cd9806f23f782edfadfdd3cbbe620b9be336",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23878,
+      "sha256": "576d1deabdf5d44bb145464980721bd73912167fd1cd071dc16525964a793c45",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+      "storage_filename": "simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+          "line": 114,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293176,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/576d1deabdf5d44bb145464980721bd73912167fd1cd071dc16525964a793c45/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/576d1deabdf5d44bb145464980721bd73912167fd1cd071dc16525964a793c45/simple-organic-vitamina-c-ou-niacinamida-ultra-serum-vitamina-c.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:49.313Z",
+      "verification_etag_or_digest": "576d1deabdf5d44bb145464980721bd73912167fd1cd071dc16525964a793c45",
       "verification_status": "verified"
     },
     {
@@ -156599,6 +157258,98 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T16:45:08.751Z",
       "verification_etag_or_digest": "ef109ff023c9c6af026290fc5ed8f55febe131974b54c998f98171216bc34179",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-capa.webp",
+      "local_url": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85922,
+      "sha256": "757b86afab0d693bf138af9a5b3e2fe1b372015c299770d5839d866e33000d64",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "protetor-solar-skelt-instant-bronzer-capa.webp",
+      "storage_filename": "protetor-solar-skelt-instant-bronzer-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/protetor-solar-skelt-instant-bronzer.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/protetor-solar-skelt-instant-bronzer.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292395,
+          "column": 15,
+          "literal": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/757b86afab0d693bf138af9a5b3e2fe1b372015c299770d5839d866e33000d64/protetor-solar-skelt-instant-bronzer-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/757b86afab0d693bf138af9a5b3e2fe1b372015c299770d5839d866e33000d64/protetor-solar-skelt-instant-bronzer-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:49.636Z",
+      "verification_etag_or_digest": "757b86afab0d693bf138af9a5b3e2fe1b372015c299770d5839d866e33000d64",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-fps8.webp",
+      "local_url": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-fps8.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21694,
+      "sha256": "1aaa141a208db1d3c657774611e534a703930cfc648d77b82e32d0104754ee1b",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "protetor-solar-skelt-instant-bronzer-fps8.webp",
+      "storage_filename": "protetor-solar-skelt-instant-bronzer-fps8.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/protetor-solar-skelt-instant-bronzer.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/protetor-solar-skelt-instant-bronzer.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-fps8.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292499,
+          "column": 21,
+          "literal": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-fps8.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1aaa141a208db1d3c657774611e534a703930cfc648d77b82e32d0104754ee1b/protetor-solar-skelt-instant-bronzer-fps8.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1aaa141a208db1d3c657774611e534a703930cfc648d77b82e32d0104754ee1b/protetor-solar-skelt-instant-bronzer-fps8.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:49.974Z",
+      "verification_etag_or_digest": "1aaa141a208db1d3c657774611e534a703930cfc648d77b82e32d0104754ee1b",
       "verification_status": "verified"
     },
     {
@@ -179286,6 +180037,144 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T03:23:04.507Z",
       "verification_etag_or_digest": "f526ea74d3ae1db0c8835430abbb0cfa88eebbf8bc9e1baa526390073f39f184",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-ou-panvel-glow-agua-dark.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-panvel-glow-agua-dark.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24080,
+      "sha256": "2aaa9b9196b5b7bf4a31ee8c9d408c45d9560dc53c4fffe775fe60d9a99c6c41",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-panvel-glow-agua-dark.webp",
+      "storage_filename": "skelt-ou-panvel-glow-agua-dark.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-panvel-glow.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-panvel-glow.json",
+          "line": 73,
+          "column": 19,
+          "literal": "/images/reviews/skelt/skelt-ou-panvel-glow-agua-dark.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292638,
+          "column": 21,
+          "literal": "/images/reviews/skelt/skelt-ou-panvel-glow-agua-dark.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2aaa9b9196b5b7bf4a31ee8c9d408c45d9560dc53c4fffe775fe60d9a99c6c41/skelt-ou-panvel-glow-agua-dark.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2aaa9b9196b5b7bf4a31ee8c9d408c45d9560dc53c4fffe775fe60d9a99c6c41/skelt-ou-panvel-glow-agua-dark.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:50.231Z",
+      "verification_etag_or_digest": "2aaa9b9196b5b7bf4a31ee8c9d408c45d9560dc53c4fffe775fe60d9a99c6c41",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-ou-panvel-glow-capa.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-panvel-glow-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99182,
+      "sha256": "28e72eec62a6ec3ec8c649ebea639e3a105ed1dce1db2b21a125dcd9075ffe40",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-panvel-glow-capa.webp",
+      "storage_filename": "skelt-ou-panvel-glow-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-panvel-glow.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-panvel-glow.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-ou-panvel-glow-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292588,
+          "column": 15,
+          "literal": "/images/reviews/skelt/skelt-ou-panvel-glow-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/28e72eec62a6ec3ec8c649ebea639e3a105ed1dce1db2b21a125dcd9075ffe40/skelt-ou-panvel-glow-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/28e72eec62a6ec3ec8c649ebea639e3a105ed1dce1db2b21a125dcd9075ffe40/skelt-ou-panvel-glow-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:50.574Z",
+      "verification_etag_or_digest": "28e72eec62a6ec3ec8c649ebea639e3a105ed1dce1db2b21a125dcd9075ffe40",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-ou-panvel-glow-mousse.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-panvel-glow-mousse.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19620,
+      "sha256": "2cef63f3e3cdc91df8e7fbbfee6d9a7f7f60288ff283e8f95b4ab87e7dff8195",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-panvel-glow-mousse.webp",
+      "storage_filename": "skelt-ou-panvel-glow-mousse.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-panvel-glow.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-panvel-glow.json",
+          "line": 65,
+          "column": 19,
+          "literal": "/images/reviews/skelt/skelt-ou-panvel-glow-mousse.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292630,
+          "column": 21,
+          "literal": "/images/reviews/skelt/skelt-ou-panvel-glow-mousse.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2cef63f3e3cdc91df8e7fbbfee6d9a7f7f60288ff283e8f95b4ab87e7dff8195/skelt-ou-panvel-glow-mousse.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2cef63f3e3cdc91df8e7fbbfee6d9a7f7f60288ff283e8f95b4ab87e7dff8195/skelt-ou-panvel-glow-mousse.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T02:55:50.863Z",
+      "verification_etag_or_digest": "2cef63f3e3cdc91df8e7fbbfee6d9a7f7f60288ff283e8f95b4ab87e7dff8195",
       "verification_status": "verified"
     },
     {
