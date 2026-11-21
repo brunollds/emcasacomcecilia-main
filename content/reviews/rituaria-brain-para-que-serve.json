@@ -13,6 +13,7 @@
   },
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
+  "updatedAt": "2026-11-21",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -22,10 +23,10 @@
   "coupon": "EMCASA",
   "affiliate": "rituaria",
   "type": "Guia de Produto",
-  "title": "Rituária Brain+: o que vem no frasco, como o rótulo orienta e quanto custa",
-  "seoTitle": "Rituária Brain+: composição e preço por dia",
-  "description": "O Brain+ da Rituária pela página da loja: composição com doses, o modo de uso de 2 cápsulas ao dia, a fórmula sem cafeína e o preço por dia de uso com o EMCASA.",
-  "metaDescription": "EMCASA dá 10% OFF na Rituária. Veja o que a loja informa do Brain+: composição, sem cafeína e 2 cápsulas ao dia.",
+  "title": "Rituária Brain+: para que serve, o que vem no frasco e quanto custa",
+  "seoTitle": "Rituária Brain+ para que serve? Composição e preço",
+  "description": "O Brain+ da Rituária pela página da loja: para que serve, composição com doses, 2 cápsulas ao dia, fórmula sem cafeína e o preço por dia com o EMCASA.",
+  "metaDescription": "EMCASA dá 10% OFF na Rituária. Brain+: para que serve segundo a loja, composição, sem cafeína e quanto sai por dia no avulso e nos kits.",
   "image": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa-v2.webp",
   "imageAlt": "Frasco âmbar do Brain+ da Rituária, com rótulo lilás, em cenário ilustrado lilás. A capa pergunta «O que tem no frasco?» e mostra o cupom EMCASA.",
   "cta": {
@@ -54,36 +55,47 @@
     "skipIf": [
       "Você toma remédio, está grávida ou amamenta e ainda não falou com o médico.",
       "Você tem alergia a soja: a página informa que a fórmula contém derivados de soja.",
-      "Você espera o resultado que a loja descreve. A página informa, mas não demonstra o efeito."
+      "Você procura tratamento para um problema de saúde: suplemento alimentar não substitui alimentação equilibrada, diagnóstico nem tratamento médico."
     ]
   },
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Brain+ da Rituária vem com 60 cápsulas. A página informa fórmula sem cafeína e orienta duas cápsulas ao dia, o que rende 30 dias por frasco. A tabela mostra quanto custou o avulso com EMCASA e quanto isso dá por dia. Confira a composição e os avisos do rótulo."
+        "O Brain+ é um suplemento alimentar em cápsulas que a Rituária vende para foco, sem cafeína. Cada frasco tem 60 cápsulas e a loja orienta duas ao dia, o que dá 30 dias. O EMCASA tira 10% no checkout; pela regra do Leve 3, Pague 2, três avulsos custam menos que o kit 3x, mesmo sem o cupom."
       ]
     },
     {
-      "heading": "O que o Brain+ tem, segundo a página",
+      "heading": "O que tem no Brain+",
       "paragraphs": [
-        "A página da [Rituária para o Brain+](https://www.rituaria.com.br/pages/brain-plus) lista 100 mg de fosfatidilserina, 300 mg de L-tirosina, 300 mg de taurina e 100 mg de colina. São as quantidades informadas pela marca.",
+        "A página da [Rituária para o Brain+](https://www.rituaria.com.br/pages/brain-plus) lista, por porção de 2 cápsulas: 100 mg de fosfatidilserina, 300 mg de L-tirosina, 300 mg de taurina, 100 mg de colina, 5 mg de vitamina B6 (385% do valor diário) e 9,94 mcg de vitamina B12 (414%).",
         "A lista de ingredientes traz taurina, L-tirosina, fosfatidilserina de lecitina de soja, bitartarato de colina, cloridrato de piridoxina (vitamina B6), metilcobalamina (B12) e o antiumectante dióxido de silício. A cápsula é de HPMC, com corante natural clorofila.",
-        "A loja avisa que a fórmula “contém derivados de soja”, não contém glúten e é vegana. As vitaminas B6 e B12 aparecem sem dose em texto, e a tabela nutricional com os percentuais de valor diário não vem escrita na página. Se você precisa dessas quantidades, confira o rótulo do frasco."
+        "A loja avisa que a fórmula “contém derivados de soja”, não contém glúten e é vegana. A tabela nutricional, que está entre as fotos do produto, informa 30 porções por frasco."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/rituaria/rituaria-brain-para-que-serve-tabela-nutricional.webp",
+          "alt": "Tabela nutricional do Brain+ da Rituária ao lado do frasco: 30 porções de 1,1 g (2 cápsulas), com L-tirosina, vitaminas B6 e B12, colina, taurina e fosfatidilserina",
+          "caption": "Tabela nutricional do Brain+, com 30 porções de 2 cápsulas. Foto: Rituária.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.rituaria.com.br/products/brain-nootropico"
+        }
       ]
     },
     {
-      "heading": "Como ler a proposta do Brain+",
+      "heading": "Para que serve o Brain+, segundo a loja",
       "paragraphs": [
-        "A Rituária apresenta o Brain+ como suplemento sem cafeína. Use a lista de ingredientes e as quantidades do rótulo para comparar produtos. Para alegações de efeito em foco ou concentração, a [Anvisa orienta atenção à publicidade de suplementos](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/cuidado-com-a-propaganda-enganosa/)."
+        "A Rituária vende o Brain+ como suplemento alimentar para foco e concentração, sem cafeína: o nome do produto na loja é “Nootrópico para melhora do foco sem cafeína”. A página diz que as vitaminas B6 e B12 “auxiliam no funcionamento do sistema nervoso e no metabolismo energético”. Essas indicações são da loja; não tomamos o produto.",
+        "Para comparar com outros suplementos, use a lista de ingredientes e as quantidades por porção. As [perguntas frequentes da Anvisa sobre suplementos alimentares](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/perguntas-frequentes) explicam como ler o rótulo."
       ]
     },
     {
       "heading": "Como tomar o Brain+",
       "paragraphs": [
-        "O modo de uso que a marca publica para o avulso é de duas cápsulas ao dia com água.",
-        "O rótulo do frasco avulso mostra 60 cápsulas de 550 mg cada. Com 2 por dia, são 30 dias, o que bate com o “30 dias” do título da página. Essa conta é nossa.",
-        "Essa informação serve para estimar o rendimento e o custo diário. Siga o rótulo da embalagem e procure orientação profissional antes de iniciar o uso se toma medicamentos ou tem uma condição de saúde."
+        "O modo de uso publicado pela marca é de 2 cápsulas ao dia com um copo de água, de preferência pela manhã.",
+        "O rótulo do frasco exibe 60 cápsulas de 550 mg cada. Conta nossa: com 2 cápsulas ao dia, cada frasco rende 30 dias, o que bate com os “30 dias” do título da página.",
+        "Siga o rótulo da embalagem. Se você usa medicamentos ou tem alguma condição de saúde, fale com médico ou nutricionista antes de começar."
       ],
       "images": [
         {
@@ -103,7 +115,7 @@
         "O checkout também mostra um aviso da loja de 5% de desconto no Pix, que não entra nas contas deste capítulo."
       ],
       "comparisonTable": {
-        "caption": "Preços de venda da página em 21/11/2026. Por dia: conta nossa, com 2 cápsulas ao dia e 30 dias por frasco avulso. O desconto do EMCASA foi testado só no Brain+ avulso.",
+        "caption": "Preços da página em 21/11/2026. O avulso foi testado no checkout; nos kits, o valor com EMCASA é conta nossa de 10% sobre o preço da página, com 60 cápsulas por frasco e 2 ao dia. Na linha dos três avulsos com a promoção, o valor por dia é sem cupom (R$ 139,80 ÷ 90), porque não testamos o EMCASA junto com ela.",
         "headers": [
           "Opção",
           "Preço na página",
@@ -112,51 +124,76 @@
         ],
         "rows": [
           [
-            "Brain+ avulso, 30 dias",
+            "[Brain+ avulso, 30 dias](https://www.rituaria.com.br/products/brain-nootropico)",
             "R$ 69,90",
             "R$ 62,91",
             "R$ 2,10"
           ],
           [
-            "2x Brain+",
+            "[3 avulsos no Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2)",
+            "R$ 139,80",
+            "Confira no checkout",
+            "R$ 1,55 (sem cupom)"
+          ],
+          [
+            "[2x Brain+](https://www.rituaria.com.br/products/2x-formula-brain-60-dias-60-capsulas)",
             "R$ 139,90",
-            "Confira no checkout",
-            "Sem cálculo"
+            "R$ 125,91",
+            "R$ 2,10"
           ],
           [
-            "3x Brain+",
+            "[3x Brain+](https://www.rituaria.com.br/products/3x-formula-brain-90-dias-90-capsulas)",
             "R$ 189,90",
-            "Confira no checkout",
-            "Sem cálculo"
+            "R$ 170,91",
+            "R$ 1,90"
           ],
           [
-            "Kit Performance Masculina (Nutri Men + Brain+)",
+            "[Kit Performance Masculina (Nutri Men + Brain+)](https://www.rituaria.com.br/products/kit-performance-masculina-nutri-men-brain-1)",
             "R$ 124,90",
-            "Confira no checkout",
-            "Sem cálculo"
+            "R$ 112,41",
+            "Dois produtos"
           ]
         ]
       },
       "postParagraphs": [
-        "A página comercial apresenta opções para 60 e 90 dias, mas os títulos dos kits falam em 60 e 90 cápsulas. O avulso tem 60 cápsulas para 30 dias. Confirme com a Rituária a quantidade total de cápsulas antes de comparar o custo diário dos kits.",
-        "Sem o cupom, o avulso dá cerca de R$ 2,33 por dia. A loja também mostra “2x R$ 34,95 sem juros” no avulso."
+        "Os títulos dos kits falam em “60 cápsulas” no 2x e “90 cápsulas” no 3x, mas as fotos mostram dois e três frascos de 60 cápsulas. A conta por dia usa as fotos: 120 cápsulas no 2x e 180 no 3x. O kit 2x custa praticamente o mesmo que dois avulsos; o 3x baixa o custo por dia.",
+        "O Kit Performance Masculina reúne dois produtos distintos: um frasco de Nutri Men (60 cápsulas de 500 mg) e um frasco de Brain+ (60 cápsulas de 550 mg). Como o preço cobre os dois suplementos juntos, não dividimos o total apenas pelos dias do Brain+.",
+        "Sem cupom, o avulso dá cerca de R$ 2,33 por dia. Enquanto durar a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2) da loja, vale mais levar três avulsos do que o kit 3x: o Brain+ avulso está na coleção, e a regra da página é que, com três suplementos no carrinho, o de menor valor sai de graça. Pela regra da promoção, sem o EMCASA, três frascos saem por R$ 139,80, contra R$ 189,90 do kit. Os kits ficam fora da promoção, e a página não informa até quando ela vale. Confira no checkout se o EMCASA entra junto com a promoção."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-2x.webp",
+          "alt": "Dois frascos do Brain+ da Rituária lado a lado, o kit 2x vendido como 60 dias",
+          "caption": "Kit 2x: dois frascos de 60 cápsulas. Foto: Rituária.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.rituaria.com.br/products/2x-formula-brain-60-dias-60-capsulas"
+        },
+        {
+          "src": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-performance.webp",
+          "alt": "Kit Performance Masculina da Rituária: um frasco de Nutri Men e um de Brain+",
+          "caption": "Kit Performance Masculina: Nutri Men e Brain+. Foto: Rituária.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.rituaria.com.br/products/kit-performance-masculina-nutri-men-brain-1"
+        }
       ]
     },
     {
       "heading": "Antes de começar",
       "paragraphs": [
-        "A página indica o produto para pessoas de 19 anos ou mais. Durante a gestação ou amamentação, confirme com o profissional que acompanha você antes de usar.",
-        "Leve a lista de ingredientes e o rótulo para a consulta. A fórmula declara derivados de soja.",
-        "Ao receber o frasco, leia o rótulo inteiro e compare com o que a página informa."
+        "A página destina o produto a pessoas de 19 anos ou mais. Durante a gestação ou amamentação, confirme com o profissional que acompanha você antes de usar.",
+        "Leve a lista de ingredientes e o rótulo para a consulta, lembrando que a fórmula declara derivados de soja."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O que a página informa sobre o Brain+? A Rituária apresenta um suplemento em cápsulas sem cafeína. As quantidades informadas pela marca estão na seção de composição.",
+        "Para que serve o Brain+ da Rituária? A loja vende o Brain+ como suplemento alimentar para foco e concentração, sem cafeína. A indicação é da loja; suplemento alimentar não trata nem previne doenças.",
         "O Brain+ tem cafeína? A página traz o selo “livre de cafeína” e o título fala em fórmula sem cafeína.",
-        "Como tomar o Brain+? A orientação publicada pela Rituária é de duas cápsulas ao dia com água para o avulso. Confira as instruções na embalagem.",
+        "Como tomar o Brain+? A orientação publicada pela Rituária é de 2 cápsulas ao dia com um copo de água, de preferência pela manhã.",
         "Gestante pode tomar o Brain+? Converse com quem acompanha a gestação ou a amamentação antes de usar o suplemento.",
+        "Vale mais o kit 3x ou três frascos avulsos? Com a promoção Leve 3, Pague 2 da loja no ar, três avulsos saem mais baratos que o kit 3x, porque o terceiro frasco sai de graça. Sem a promoção, o kit 3x tem o menor custo por dia.",
         "Tem cupom para o Brain+? O EMCASA dá 10% OFF na Rituária e foi aplicado no carrinho do Brain+ avulso. Digite o código no campo de cupom do checkout e confira a linha do desconto antes de pagar."
       ]
     }
