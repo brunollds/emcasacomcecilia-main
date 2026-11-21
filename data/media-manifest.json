@@ -40941,6 +40941,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+      "local_url": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43592,
+      "sha256": "a32fa7de1fae712619d7138c2d3ed80463444dafcc851bae2c319ee676462ff1",
+      "width": 800,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+      "storage_filename": "tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+          "line": 146,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309551,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a32fa7de1fae712619d7138c2d3ed80463444dafcc851bae2c319ee676462ff1/tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a32fa7de1fae712619d7138c2d3ed80463444dafcc851bae2c319ee676462ff1/tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:07.685Z",
+      "verification_etag_or_digest": "a32fa7de1fae712619d7138c2d3ed80463444dafcc851bae2c319ee676462ff1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
       "local_url": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
       "media_kind": "image",
@@ -43343,6 +43389,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-600.webp",
+      "local_url": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-600.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 3956,
+      "sha256": "872f7fb69e344564bf95f64f1e6e9888dcf95aed277707b04006f4bd03ee043c",
+      "width": 350,
+      "height": 532,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "garrafa-termica-qual-escolher-parceiras-dual-600.webp",
+      "storage_filename": "garrafa-termica-qual-escolher-parceiras-dual-600.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+          "line": 183,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-600.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310990,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-600.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/872f7fb69e344564bf95f64f1e6e9888dcf95aed277707b04006f4bd03ee043c/garrafa-termica-qual-escolher-parceiras-dual-600.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/872f7fb69e344564bf95f64f1e6e9888dcf95aed277707b04006f4bd03ee043c/garrafa-termica-qual-escolher-parceiras-dual-600.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:07.914Z",
+      "verification_etag_or_digest": "872f7fb69e344564bf95f64f1e6e9888dcf95aed277707b04006f4bd03ee043c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
       "local_url": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
       "media_kind": "image",
@@ -45257,6 +45349,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-blue-ocean-glow.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-blue-ocean-glow.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12478,
+      "sha256": "10e31ef1cbbd9a088b34ba346e6eb6e0b0795ce490a619413d0ba77e456b3ecf",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-inspiracoes-blue-ocean-glow.webp",
+      "storage_filename": "barbours-body-splash-inspiracoes-blue-ocean-glow.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-inspiracoes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-inspiracoes.json",
+          "line": 410,
+          "column": 19,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-blue-ocean-glow.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310520,
+          "column": 21,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-blue-ocean-glow.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/10e31ef1cbbd9a088b34ba346e6eb6e0b0795ce490a619413d0ba77e456b3ecf/barbours-body-splash-inspiracoes-blue-ocean-glow.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/10e31ef1cbbd9a088b34ba346e6eb6e0b0795ce490a619413d0ba77e456b3ecf/barbours-body-splash-inspiracoes-blue-ocean-glow.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:08.170Z",
+      "verification_etag_or_digest": "10e31ef1cbbd9a088b34ba346e6eb6e0b0795ce490a619413d0ba77e456b3ecf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-bold-homme.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-bold-homme.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18356,
+      "sha256": "dd6512cb5136943c35cb5d7f0238931ea0e5859b210e55c92770c75dd1b4e71d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-inspiracoes-bold-homme.webp",
+      "storage_filename": "barbours-body-splash-inspiracoes-bold-homme.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-inspiracoes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-inspiracoes.json",
+          "line": 359,
+          "column": 19,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-bold-homme.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310469,
+          "column": 21,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-bold-homme.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dd6512cb5136943c35cb5d7f0238931ea0e5859b210e55c92770c75dd1b4e71d/barbours-body-splash-inspiracoes-bold-homme.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dd6512cb5136943c35cb5d7f0238931ea0e5859b210e55c92770c75dd1b4e71d/barbours-body-splash-inspiracoes-bold-homme.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:08.432Z",
+      "verification_etag_or_digest": "dd6512cb5136943c35cb5d7f0238931ea0e5859b210e55c92770c75dd1b4e71d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-capa-v2.webp",
       "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-capa-v2.webp",
       "media_kind": "image",
@@ -45441,6 +45625,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-pure-grace.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-pure-grace.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12516,
+      "sha256": "be0ae4b76060b098a11e1c8c80e34e478cac27e73c3fc34606401ebc1c499b3a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-inspiracoes-pure-grace.webp",
+      "storage_filename": "barbours-body-splash-inspiracoes-pure-grace.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-inspiracoes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-inspiracoes.json",
+          "line": 303,
+          "column": 19,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-pure-grace.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310413,
+          "column": 21,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-pure-grace.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/be0ae4b76060b098a11e1c8c80e34e478cac27e73c3fc34606401ebc1c499b3a/barbours-body-splash-inspiracoes-pure-grace.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/be0ae4b76060b098a11e1c8c80e34e478cac27e73c3fc34606401ebc1c499b3a/barbours-body-splash-inspiracoes-pure-grace.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:08.657Z",
+      "verification_etag_or_digest": "be0ae4b76060b098a11e1c8c80e34e478cac27e73c3fc34606401ebc1c499b3a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-soft-breeze.webp",
       "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-soft-breeze.webp",
       "media_kind": "image",
@@ -45484,6 +45714,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T16:32:39.028Z",
       "verification_etag_or_digest": "bff68646e5c17f57f5c15dec12ac234fe5c9545a6d095d28d1a46aaf33f4d2c9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-vanilla-rum.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-vanilla-rum.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27518,
+      "sha256": "7534ea2c3706acba9fde2cd5dce7b352aba63049e25bc9183e3979a7b5f722fe",
+      "width": 1012,
+      "height": 1012,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-inspiracoes-vanilla-rum.webp",
+      "storage_filename": "barbours-body-splash-inspiracoes-vanilla-rum.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-inspiracoes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-inspiracoes.json",
+          "line": 242,
+          "column": 19,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-vanilla-rum.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310352,
+          "column": 21,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-vanilla-rum.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7534ea2c3706acba9fde2cd5dce7b352aba63049e25bc9183e3979a7b5f722fe/barbours-body-splash-inspiracoes-vanilla-rum.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7534ea2c3706acba9fde2cd5dce7b352aba63049e25bc9183e3979a7b5f722fe/barbours-body-splash-inspiracoes-vanilla-rum.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:08.900Z",
+      "verification_etag_or_digest": "7534ea2c3706acba9fde2cd5dce7b352aba63049e25bc9183e3979a7b5f722fe",
       "verification_status": "verified"
     },
     {
@@ -138056,6 +138332,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-2x.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-2x.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73834,
+      "sha256": "80559fe3ffeb4af89705a64417ef0bd9f480fa974116ebd35ee983300534ee48",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-brain-para-que-serve-kit-2x.webp",
+      "storage_filename": "rituaria-brain-para-que-serve-kit-2x.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-brain-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-brain-para-que-serve.json",
+          "line": 165,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-2x.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309803,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-2x.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/80559fe3ffeb4af89705a64417ef0bd9f480fa974116ebd35ee983300534ee48/rituaria-brain-para-que-serve-kit-2x.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/80559fe3ffeb4af89705a64417ef0bd9f480fa974116ebd35ee983300534ee48/rituaria-brain-para-que-serve-kit-2x.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:09.716Z",
+      "verification_etag_or_digest": "80559fe3ffeb4af89705a64417ef0bd9f480fa974116ebd35ee983300534ee48",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-performance.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-performance.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67640,
+      "sha256": "4efa45f001780e875346ed189754cca0e251eac5899271d109c1182d41ee44d3",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-brain-para-que-serve-kit-performance.webp",
+      "storage_filename": "rituaria-brain-para-que-serve-kit-performance.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-brain-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-brain-para-que-serve.json",
+          "line": 173,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-performance.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309811,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-performance.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4efa45f001780e875346ed189754cca0e251eac5899271d109c1182d41ee44d3/rituaria-brain-para-que-serve-kit-performance.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4efa45f001780e875346ed189754cca0e251eac5899271d109c1182d41ee44d3/rituaria-brain-para-que-serve-kit-performance.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:10.008Z",
+      "verification_etag_or_digest": "4efa45f001780e875346ed189754cca0e251eac5899271d109c1182d41ee44d3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-brain-para-que-serve-tabela-nutricional.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-brain-para-que-serve-tabela-nutricional.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80766,
+      "sha256": "6b3a6375c494a43ad50f0c141db19d7616e58f022ca303019dececaa2e0df286",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-brain-para-que-serve-tabela-nutricional.webp",
+      "storage_filename": "rituaria-brain-para-que-serve-tabela-nutricional.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-brain-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-brain-para-que-serve.json",
+          "line": 77,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-tabela-nutricional.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309715,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-tabela-nutricional.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6b3a6375c494a43ad50f0c141db19d7616e58f022ca303019dececaa2e0df286/rituaria-brain-para-que-serve-tabela-nutricional.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6b3a6375c494a43ad50f0c141db19d7616e58f022ca303019dececaa2e0df286/rituaria-brain-para-que-serve-tabela-nutricional.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:10.265Z",
+      "verification_etag_or_digest": "6b3a6375c494a43ad50f0c141db19d7616e58f022ca303019dececaa2e0df286",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/rituaria/rituaria-e-boa-4mag.webp",
       "local_url": "/images/reviews/rituaria/rituaria-e-boa-4mag.webp",
       "media_kind": "image",
@@ -186628,6 +187042,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-flip-pro.webp",
+      "local_url": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-flip-pro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27092,
+      "sha256": "87e7ff299990ce12deee5abcc182e97e5838dd427e1ba64ca15bd1ca32e63fce",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "garrafa-termica-qual-escolher-parceiras-flip-pro.webp",
+      "storage_filename": "garrafa-termica-qual-escolher-parceiras-flip-pro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-flip-pro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310962,
+          "column": 21,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-flip-pro.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/87e7ff299990ce12deee5abcc182e97e5838dd427e1ba64ca15bd1ca32e63fce/garrafa-termica-qual-escolher-parceiras-flip-pro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/87e7ff299990ce12deee5abcc182e97e5838dd427e1ba64ca15bd1ca32e63fce/garrafa-termica-qual-escolher-parceiras-flip-pro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:09.152Z",
+      "verification_etag_or_digest": "87e7ff299990ce12deee5abcc182e97e5838dd427e1ba64ca15bd1ca32e63fce",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-fresh.webp",
       "local_url": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-fresh.webp",
       "media_kind": "image",
@@ -186671,6 +187131,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T16:32:39.617Z",
       "verification_etag_or_digest": "e28d449c33f6c7636c7db86b4c29257ce9c00c493accc58eaf1b084310b4e7ef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro-v2.webp",
+      "local_url": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47154,
+      "sha256": "50109e27433a66dce52ff11d60f184d2b2c01b3f6ca9931e00d1f770779e10bb",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "garrafa-termica-qual-escolher-parceiras-quadro-v2.webp",
+      "storage_filename": "garrafa-termica-qual-escolher-parceiras-quadro-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+          "line": 128,
+          "column": 19,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310935,
+          "column": 21,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/50109e27433a66dce52ff11d60f184d2b2c01b3f6ca9931e00d1f770779e10bb/garrafa-termica-qual-escolher-parceiras-quadro-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50109e27433a66dce52ff11d60f184d2b2c01b3f6ca9931e00d1f770779e10bb/garrafa-termica-qual-escolher-parceiras-quadro-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:01:09.428Z",
+      "verification_etag_or_digest": "50109e27433a66dce52ff11d60f184d2b2c01b3f6ca9931e00d1f770779e10bb",
       "verification_status": "verified"
     },
     {
