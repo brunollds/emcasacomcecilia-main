@@ -309810,11 +309810,11 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "PNK-EMCASACOMCECILIA",
     "affiliate": "pinkcheeks",
-    "title": "Pink Stick: qual cor escolher entre as nove, do 5 KM ao 100 KM ULTRA",
-    "seoTitle": "Pink Stick: qual cor escolher pela distância",
+    "title": "Pink Stick: como escolher entre oito tons e a versão incolor",
+    "seoTitle": "Pink Stick da Pink Cheeks: qual cor escolher?",
     "type": "Guia de Escolha",
-    "description": "Os nove tons do Pink Stick, do 5 KM incolor ao 100 KM ULTRA, com o FPS e o FPUVA da ficha e o que a loja informa sobre água e suor. O que a página não diz também está aqui.",
-    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF no Pink Stick. Veja as nove cores, do 5 KM ao 100 KM ULTRA, e o que a ficha diz sobre FPS, FPUVA e suor.",
+    "description": "Os oito tons com cor e a versão 5 KM incolor do Pink Stick, com preços, gramaturas e o que a marca informa sobre suor, olhos, reaplicação e o cupom PNK-EMCASACOMCECILIA.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Veja os 8 tons com cor e o 5 KM incolor do Pink Stick, preços e o que a marca diz sobre o suor.",
     "image": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
     "imageAlt": "Oito tonalidades do Pink Stick da Pink Cheeks aplicadas em dois antebraços sobre fundo azul. A capa pergunta «Qual cor escolher?» e mostra o cupom PNK-EMCASACOMCECILIA.",
     "cta": {
@@ -309823,7 +309823,7 @@ export const reviewsData: unknown[] = [
       "url": "https://pinkcheeks.com.br/",
       "sponsored": true
     },
-    "editorialNote": "Não usamos o Pink Stick: o texto segue o que a Pink Cheeks publica no site, com atribuição. Somos parceiros da Pink Cheeks e podemos receber comissão pelo cupom.",
+    "editorialNote": "Não usamos o Pink Stick; dados das páginas da Pink Cheeks. Somos parceiros e podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
         "slug": "pinkcheeks-e-boa"
@@ -309833,97 +309833,140 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "pinkcheeks-e-confiavel"
+      },
+      {
+        "slug": "black-friday-pinkcheeks"
       }
     ],
     "decision": {
       "takeIf": [
-        "Você quer um bastão com cor e aceita escolher o tom pelas fotos da loja, já que a página não diz qual combina com cada pele.",
-        "Você quer a ficha com FPS 90 e FPUVA 70 e vai olhar o 5 KM, que a loja marca como sem cor, ou um dos oito tons com cor."
+        "Você procura protetor em bastão com FPS 90 e FPUVA 70 em um dos oito tons com cor ou na versão 5 KM incolor.",
+        "Você aceita escolher a cor pelas paletas oficiais da marca e pela ferramenta Prove Virtualmente, já que as páginas não trazem guia escrito de subtom."
       ],
       "skipIf": [
-        "Você quer a cobertura que a ficha do Pro Stick compara à de uma base: ele tem seis tons e FPS 96.",
-        "Você quer um bastão transparente, sem escolher tom: o Clear Stick tem FPS 70, FPUVA 50 e uma versão só."
+        "Você quer alta cobertura semelhante à de base e acabamento mate: nesse caso, compare o Pro Stick FPS 96 com seis tons.",
+        "Você prefere bastão transparente focado em toque seco: o Clear Stick tem FPS 70, FPUVA 50 e embalagem de 12 g."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Quer um Pink Stick sem cor? A Pink Cheeks identifica o 5 KM como incolor. Os outros oito são vendidos com cor. As distâncias nomeiam as versões. Para escolher entre os tons, compare as fotos e use a prova virtual da loja como referência. A ficha informa FPS 90 e FPUVA 70."
+          "O Pink Stick tem oito tons com cor, nomeados por distâncias de corrida, e o 5 KM incolor. Como a marca não detalha subtons em texto, a decisão depende das paletas oficiais e da prova virtual do site. Abaixo estão os nove links, a comparação com Pro Stick e Clear Stick e os dados sobre suor."
         ]
       },
       {
         "heading": "Os nove tons do Pink Stick",
         "paragraphs": [
-          "A Pink Cheeks vende cada tom como uma página própria, e todos aparecem disponíveis no site. A página do 21 KM diz: “Tem 9 tonalidades — do 5KM ao 100KM ULTRA — incluindo uma incolor.” A incolor é o 5 KM, que o site marca como “Sem Cor”. Os outros oito levam a marca “Com Cor”."
+          "Se você busca proteção solar em bastão para treinar ao ar livre sem perder praticidade, o primeiro passo no Pink Stick é escolher entre os oito tons com cor (do 10 KM ao 100 KM ULTRA) e o 5 KM incolor (Sem Cor), já que os nomes usam distâncias de corrida sem guia escrito de subtom (quente, frio ou neutro).",
+          "Junto da tabela, reunimos as duas paletas oficiais da loja, com aplicação nos rostos e nos antebraços, e a foto do bastão 5 KM incolor, além dos links diretos para conferir cada página e usar o botão externo “Prove virtualmente”."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+            "alt": "Oito rostos com o Pink Stick, cada um com o nome da cor, de 10 KM a 100 KM, e um rosto com a indicação INCOLOR, em foto da Pink Cheeks",
+            "caption": "Paleta oficial nos rostos: oito tons com cor e o 5 KM incolor. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
+            "alt": "Amostras de tons do Pink Stick em dois braços, em foto da Pink Cheeks",
+            "caption": "Amostras aplicadas em dois tons de pele nos antebraços. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+            "alt": "Bastão Pink Stick 5 KM incolor FPS 90 FPUVA 70 com amostra sem pigmento ao lado",
+            "caption": "Pink Stick 5 KM incolor, sem pigmento. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
         ],
         "comparisonTable": {
-          "caption": "Preço de venda de cada tom no site da Pink Cheeks em 21/11/2026, antes do frete.",
+          "caption": "Preços nas páginas da Pink Cheeks em 21/11, antes do frete.",
           "headers": [
             "Tom",
-            "Marcação no site",
-            "Preço"
+            "Tipo",
+            "Preço atual",
+            "Preço riscado"
           ],
           "rows": [
             [
-              "5 KM",
-              "Sem Cor",
-              "R$ 99,90"
+              "[5 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km)",
+              "Incolor na linha",
+              "R$ 99,90",
+              "R$ 129,90"
             ],
             [
-              "10 KM",
-              "Com Cor",
-              "R$ 99,90"
+              "[10 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-10km)",
+              "Com cor",
+              "R$ 99,90",
+              "R$ 129,90"
             ],
             [
-              "15 KM",
-              "Com Cor",
-              "R$ 99,90"
+              "[15 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-15km)",
+              "Com cor",
+              "R$ 99,90",
+              "R$ 129,90"
             ],
             [
-              "21 KM",
-              "Com Cor",
-              "R$ 99,90"
+              "[21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km)",
+              "Com cor",
+              "R$ 99,90",
+              "R$ 129,90"
             ],
             [
-              "42 KM",
-              "Com Cor",
-              "R$ 99,90"
+              "[42 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-42km)",
+              "Com cor",
+              "R$ 99,90",
+              "R$ 129,90"
             ],
             [
-              "42 KM RIO",
-              "Com Cor",
-              "R$ 99,90"
+              "[42 KM RIO](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-42km-rio)",
+              "Com cor",
+              "R$ 99,90",
+              "R$ 129,90"
             ],
             [
-              "60 KM ULTRA",
-              "Com Cor",
-              "R$ 99,90"
+              "[60 KM ULTRA](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-60km-ultra)",
+              "Com cor",
+              "R$ 99,90",
+              "R$ 129,90"
             ],
             [
-              "80 KM ULTRA",
-              "Com Cor",
-              "R$ 99,90"
+              "[80 KM ULTRA](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-80km-ultra)",
+              "Com cor",
+              "R$ 99,90",
+              "R$ 129,90"
             ],
             [
-              "100 KM ULTRA",
-              "Com Cor",
-              "R$ 99,90"
+              "[100 KM ULTRA](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-100km-ultra)",
+              "Com cor",
+              "R$ 99,90",
+              "R$ 129,90"
             ]
           ]
-        }
+        },
+        "postParagraphs": [
+          "Todos os nove tons custavam o mesmo valor na loja, então o preço não muda a escolha da cor."
+        ]
       },
       {
-        "heading": "Cor pelo nome da corrida",
+        "heading": "Como comparar sem guia de subtom",
         "paragraphs": [
-          "Os nomes remetem à corrida, segundo a loja. A distância identifica o produto. Na hora de escolher, use as fotos e amostras de cada página para comparar os tons na pele. A loja também oferece o botão de prova virtual.",
-          "O [guia Pink Cheeks é boa?](/reviews/pinkcheeks-e-boa) reúne amostras identificadas por tom. Compare mais de uma foto, pois a luz e a tela mudam a aparência da cor."
+          "Como o texto das páginas não informa se o 21 KM puxa mais para o rosado ou para o amarelado do que o 42 KM, vale cruzar três referências antes de comprar: olhar a tabela de rostos e a foto dos antebraços acima, abrir o provador “Prove virtualmente” na página da cor escolhida e evitar decidir por apenas uma foto de estúdio.",
+          "Quem prefere evitar pigmento, seja por barba, por variação de bronzeado ao longo do ano ou para não sujar gola e toalha, resolve direto no 5 KM incolor, mantendo o mesmo fator de proteção das versões com cor."
         ],
         "images": [
           {
             "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
             "alt": "Modelo aplicando o Pink Stick no rosto, com etiquetas da loja sobre FPS 90, acabamento natural, textura leve e cobertura média",
-            "caption": "Foto do Pink Stick 21 KM na página da loja. Foto: Pink Cheeks.",
+            "caption": "Aplicação do Pink Stick 21 KM na página da loja. Foto: Pink Cheeks.",
             "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km",
             "objectFit": "contain",
             "aspectRatio": 1
@@ -309933,84 +309976,84 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pink Stick, Pro Stick ou Clear Stick",
         "paragraphs": [
-          "Os três são bastões faciais da mesma loja, e a diferença está na ficha. A loja descreve o Pro Stick como “corrige imperfeições do tom e da textura com cobertura semelhante à de base e 6 opções de tons”, com acabamento mate. O Clear Stick é descrito como “completamente transparente” e de “toque seco”. Do Pink Stick, a ficha fala em cor e nada mais sobre cobertura além das etiquetas da foto.",
-          "Na foto da loja, a embalagem do Pro Stick mostra 16 g, e a do Clear Stick, 12 g. A página do Pink Stick não traz o peso em texto."
+          "Se nenhuma das cores do Pink Stick parecer certa ou se você procura outro acabamento, a Pink Cheeks vende outros dois bastões faciais com propostas e gramaturas diferentes visíveis nos frascos.",
+          "O [Pro Stick (tom PRO15)](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro15) tem seis tons ([PRO10](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro10), PRO15, [PRO20](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro20), [PRO30](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro30), [PRO40](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro40) e [PRO50](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro50)) e cobertura comparada pela loja à de uma base, com acabamento mate. Já o [Clear Stick](https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g) é um bastão transparente com foco em toque seco, sem opção de cor. Veja também o comparativo completo das linhas em [Pink Cheeks é boa?](/reviews/pinkcheeks-e-boa)."
         ],
-        "comparisonTable": {
-          "caption": "O que a ficha de cada bastão informa. Preço de venda do site.",
-          "headers": [
-            "Bastão",
-            "FPS e FPUVA",
-            "Cor",
-            "Preço"
-          ],
-          "rows": [
-            [
-              "Pink Stick",
-              "90 e 70",
-              "Nove tons, o 5 KM sem cor",
-              "R$ 99,90"
-            ],
-            [
-              "Pro Stick",
-              "96 e 43",
-              "Seis tons",
-              "R$ 99,90"
-            ],
-            [
-              "Clear Stick",
-              "70 e 50",
-              "Transparente, sem tons",
-              "R$ 109,90"
-            ]
-          ]
-        },
         "images": [
           {
             "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
             "alt": "Pro Stick aberto, com embalagem branca e amarela com FPS 96 e FPUVA 43 e uma amostra de cor marrom-clara ao lado",
-            "caption": "Pro Stick, tom PRO15, na página da loja. Foto: Pink Cheeks.",
+            "caption": "Pro Stick, opção de alta cobertura com seis tons. Foto: Pink Cheeks.",
             "href": "https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro15",
             "objectFit": "contain",
             "aspectRatio": 1
           },
           {
             "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
-            "alt": "Clear Stick em embalagem transparente com rótulo branco, FPS 70, FPUVA 50 e 12 g",
-            "caption": "Clear Stick na página da loja. Foto: Pink Cheeks.",
+            "alt": "Clear Stick em embalagem transparente com rótulo branco, FPS 70 e FPUVA 50",
+            "caption": "Clear Stick, bastão transparente de toque seco. Foto: Pink Cheeks.",
             "href": "https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g",
             "objectFit": "contain",
             "aspectRatio": 1
           }
+        ],
+        "comparisonTable": {
+          "caption": "Especificações visíveis nos frascos e páginas da Pink Cheeks.",
+          "headers": [
+            "Bastão",
+            "FPS e FPUVA",
+            "Peso no frasco",
+            "Cores e preço no site"
+          ],
+          "rows": [
+            [
+              "Pink Stick",
+              "FPS 90 e FPUVA 70",
+              "15,5 g",
+              "8 com cor + 5 KM incolor (preço na tabela inicial)"
+            ],
+            [
+              "Pro Stick",
+              "FPS 96 e FPUVA 43",
+              "16 g",
+              "6 tons (PRO10 a PRO50) · R$ 99,90"
+            ],
+            [
+              "Clear Stick",
+              "FPS 70 e FPUVA 50",
+              "12 g",
+              "Transparente · R$ 109,90 (de R$ 139,90)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Suor, calor no carro e como remover o Pink Stick",
+        "paragraphs": [
+          "A loja informa: na página oficial do Pink Stick, o bastão tem resistência comprovada à água e ao suor por duas horas e foi formulado para treinos intensos, sem escorrer nem incomodar os olhos. Nas versões com cor, a Pink Cheeks afirma que o pigmento também protege contra luz azul.",
+          "Para manter o desempenho e evitar que a barra amoleça fora de uso, vale seguir três cuidados práticos que constam na página e no FAQ oficial da Pink Cheeks:"
+        ],
+        "bullets": [
+          "**Calor no carro:** o alerta oficial pede explicitamente: “não deixe seu stick no carro. Leve com você!”, porque o calor dentro do carro amolece o bastão.",
+          "**Reaplicação e rendimento:** a marca orienta reaplicar a cada duas horas durante a exposição ao sol, ou após sudorese intensa, nadar, banhar-se ou secar-se com toalha. No FAQ oficial, o rendimento médio informado é de cerca de 60 aplicações.",
+          "**Remoção em duas etapas e avisos de rótulo:** para retirar no fim do dia, a página indica usar demaquilante, água micelar ou cleansing oil, seguido de sabonete facial. O rótulo lembra que o produto não oferece proteção contra insolação e recomenda consultar um médico para uso em crianças menores de seis meses."
         ]
       },
       {
-        "heading": "Derrete com o suor?",
+        "heading": "Qual escolher e quanto sai com o cupom",
         "paragraphs": [
-          "A [Pink Cheeks](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km) declara resistência à água e ao suor por duas horas. A página consultada não apresenta o relatório do teste. Confira a orientação de reaplicação no rótulo.",
-          "No Pro Stick, a loja fala em “2 horas de resistência à água comprovada”. A ficha do Clear Stick diz que ele “oferece resistência à água e ao suor”, sem informar horas."
-        ]
-      },
-      {
-        "heading": "Reaplicação e aplicação",
-        "paragraphs": [
-          "O modo de uso publicado pela marca pede reaplicação a cada duas horas durante a exposição ao sol e depois de suor intenso ou permanência prolongada na água. Confira as instruções no rótulo do seu bastão.",
-          "Para espalhar o Pro Stick, a loja diz que dá para usar “com esponja, pincel ou com os próprios dedos”. O rótulo também avisa que o produto “não oferece nenhuma proteção contra a insolação” e orienta consultar um médico para crianças menores de 6 meses."
-        ]
-      },
-      {
-        "heading": "Quanto sai com o código",
-        "paragraphs": [
-          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo. Não montamos um carrinho com o Pink Stick, então a conta final é a do seu: confira a linha “Desconto no pedido” antes de pagar. O passo a passo e o teste que fizemos estão no [guia do cupom Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
+          "Fique no Pink Stick se você quer cobertura leve a média nos treinos ao ar livre (escolhendo entre 10 KM e 100 KM ULTRA) ou prefere abrir mão do pigmento no 5 KM incolor. Troque para o Pro Stick se quiser efeito mais próximo ao de base com acabamento mate, ou vá de Clear Stick se buscar um bastão totalmente transparente, de toque seco e embalagem menor.",
+          "Conta nossa, pelos preços das páginas: o [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial para clientes novos e antigos. Partindo do preço promocional da Tabela 1, uma simulação de 10% levaria o Pink Stick a R$ 89,91 (economia de R$ 9,99). Essa conta é uma simulação sem teste de carrinho para esse bastão; antes de pagar, confira a linha “Desconto no pedido” no checkout para confirmar se os 10% somam ao preço promocional do dia. O frete é grátis na Entrega Normal a partir de R$ 199 (e a barra promocional exibia frete grátis acima de 3 itens), com parcelamento em até 5x sem juros no cartão e Pix aceito sem desconto percentual anunciado. Veja o passo a passo da tela de pagamento em [como usar o cupom Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual cor do Pink Stick escolher? A loja nomeia os nove tons por distâncias de corrida e não diz qual combina com cada pele. A escolha fica com as fotos da loja e com o botão “Prove virtualmente”.",
-          "O Pink Stick derrete com o suor? A Pink Cheeks declara resistência à água e ao suor por duas horas. O rótulo também pede reaplicação durante a exposição e depois de transpiração excessiva.",
-          "Qual a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90, FPUVA 70 e nove tons. O Pro Stick tem FPS 96, FPUVA 43 e seis tons, com cobertura que a loja compara à de uma base.",
-          "O Pink Stick tem versão sem cor? Sim. O 5 KM é o tom que a loja marca como “Sem Cor” e descreve como incolor."
+          "Qual cor do Pink Stick escolher se não conheço meu subtom? Como a loja não descreve subtons em texto, compare as fotos de rosto e antebraço reunidas neste guia e use a ferramenta Prove Virtualmente na página de cada tom antes de fechar o pedido.",
+          "Qual versão do Pink Stick não tem cor? O 5 KM é a única opção sem pigmento da linha Pink Stick, marcada como incolor na loja, com o mesmo fator de proteção e tamanho das versões com cor.",
+          "Pink Stick derrete ou arde nos olhos durante o treino? A Pink Cheeks informa resistência comprovada à água e ao suor por duas horas, sem escorrer nem incomodar os olhos, e orienta não deixar o bastão dentro do carro.",
+          "Quantas aplicações rende um Pink Stick e como tirar do rosto? O FAQ oficial estima cerca de 60 aplicações por bastão, e a marca orienta remoção em duas etapas no fim do dia, detalhada no capítulo de suor e remoção acima.",
+          "O cupom PNK-EMCASACOMCECILIA funciona no Pink Stick em promoção? O código dá 10% OFF no site oficial para clientes novos e antigos, mas como o Pink Stick está com preço promocional na página, confira a linha Desconto no pedido no checkout antes de pagar."
         ]
       }
     ]
@@ -310430,8 +310473,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 1274,
     "slug": "como-colocar-senha-mala-bagaggio",
-    "title": "Senha da mala Bagaggio: o que a loja informa e como falar com o atendimento",
-    "seoTitle": "Senha da mala Bagaggio: como colocar e o que fazer",
+    "title": "Como colocar senha na mala Bagaggio com cadeado TSA",
+    "seoTitle": "Como colocar senha na mala Bagaggio com cadeado TSA",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -310442,8 +310485,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Bagaggio não publica passo a passo de senha. Veja que cadeado cada modelo traz, o que a página do produto diz e o caminho do chat se você esqueceu a combinação.",
-    "metaDescription": "CECILIA10 dá 10% OFF na Bagaggio. Veja que cadeado a sua mala tem e como pedir ajuda com a senha ao atendimento da loja.",
+    "description": "Passo a passo oficial da Bagaggio para configurar a senha do cadeado TSA embutido com botão de reset, o que fazer nos outros modelos e quando acionar o chat.",
+    "metaDescription": "Veja como configurar o cadeado TSA embutido da mala Bagaggio com CECILIA10 (10% OFF no site), os outros modelos e quando chamar o suporte.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
     "draft": false,
@@ -310457,160 +310500,174 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Veja se o cadeado da sua mala Bagaggio abre com chave ou combinação. O cadeado pode vir preso à mala, como em modelos Detroit. Se você precisa definir, trocar ou recuperar a senha, leve o modelo e uma foto do cadeado ao chat da Bagaggio."
+          "No cadeado TSA embutido da Bagaggio com botão de reset, a senha de fábrica é 0-0-0: abra a trava, pressione o botão A com um objeto pontiagudo até o estalo, gire os discos para a nova combinação e encaixe os zíperes. Modelos sem botão, cadeados avulsos e senha esquecida seguem orientações diferentes abaixo."
         ]
       },
       {
-        "heading": "Que cadeado a sua mala tem?",
+        "heading": "Como identificar o cadeado da sua mala",
         "paragraphs": [
-          "Antes de procurar senha, descubra qual dos três cadeados você tem, porque cada um tem uma pergunta diferente para o atendimento. Para achar a página do seu, procure no site da Bagaggio o nome do cadeado ou da mala, como \"TSA com Segredo 4 Dígitos\" ou \"Detroit\"."
+          "Antes de mexer nos números, olhe de perto o cadeado da sua mala ou mochila para confirmar qual dos três formatos está com você. Mudar a senha do jeito errado pode travar o mecanismo com um código desconhecido."
         ],
         "bullets": [
-          "De chave: a página do cadeado TSA com chave diz que ele acompanha duas chaves e dispensa a configuração de senhas. Não tem combinação para esquecer.",
-          "De segredo numérico: as páginas descrevem uma combinação de 3 ou 4 dígitos que você mesmo define, e a do 4 dígitos Roxo diz que ela pode ser alterada sempre que você quiser.",
-          "Embutido na mala: a linha Detroit é descrita como \"cadeado com senha embutido\", e em alguns modelos como \"cadeado embutido\". O termo muda de um modelo para outro, então use o que está na página da sua mala."
+          "**Cadeado TSA embutido com botão de reset:** fica preso ao corpo da mala (como na linha [Detroit](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p)), com três discos numéricos, fechadura de chave TSA (exclusiva de agentes de aeroporto) e um furinho ou botão rebaixado marcado como reset na lateral ou na frente.",
+          "**Cadeado embutido sem botão de reset:** traz uma trava deslizante ou alavanca de abertura ao lado dos discos, sem o furinho lateral para apertar com caneta.",
+          "**Cadeado avulso (segredo ou chave):** comprado à parte para passar pelos puxadores do zíper. Os modelos de chave dispensam combinação; nos de segredo de três ou quatro dígitos ou cabo de aço, as instruções vêm na embalagem."
         ],
-        "image": {
-          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
-          "alt": "Cadeado TSA com chave, preto, da Bagaggio, em foto oficial de produto",
-          "caption": "Cadeado TSA com Chave Preto, que a página diz vir com duas chaves. Foto: Bagaggio.",
-          "href": "https://www.bagaggio.com.br/cadeado-tsa-com-chave-preto-/p",
-          "objectFit": "contain",
-          "aspectRatio": 1
-        }
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+            "alt": "Detalhe do cadeado embutido da mala de bordo Detroit preta da Bagaggio, com o disco de combinação à vista, ao lado das medidas da mala",
+            "caption": "Detalhe do cadeado com senha embutido da Mala de Bordo Detroit Preta. Foto: Bagaggio.",
+            "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Passo a passo do cadeado TSA embutido com botão de reset",
+        "paragraphs": [
+          "A loja informa: se o seu cadeado TSA embutido tem botão A de reset, a senha de fábrica é 0-0-0 e só muda com a trava aberta. Veja a ordem exata do [guia oficial da Bagaggio](https://www.bagaggio.com.br/blog/cadeado-tsa-embutido-na-mala-como-configurar-o-seu):"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+            "alt": "Diagrama do guia oficial da Bagaggio indicando o botão A de reset e os discos numéricos",
+            "caption": "Diagrama indicando o botão A de reset e os discos de combinação. Fonte: Bagaggio (O Guia).",
+            "href": "https://www.bagaggio.com.br/blog/cadeado-tsa-embutido-na-mala-como-configurar-o-seu",
+            "objectFit": "contain",
+            "aspectRatio": 2.952
+          }
+        ],
+        "bullets": [
+          "**Passo 1: Coloque a combinação atual (0-0-0 de fábrica):** na primeira configuração, alinhe os três discos em 0-0-0 e abra o cadeado para liberar os encaixes. Se você já usava outra senha, coloque a combinação atual.",
+          "**Passo 2: Aperte o botão A de reset:** com um objeto pontiagudo (ponta de caneta ou clipe), pressione com firmeza o botão A na lateral ou na parte frontal do cadeado até ouvir um estalo (“clack”).",
+          "**Passo 3: Escolha a nova senha nos discos:** com o botão travado na posição de ajuste, gire os discos numéricos para formar os três dígitos desejados.",
+          "**Passo 4: Feche e anote o código:** finalize fechando o cadeado ou encaixando os zíperes como pede o modelo da mala. Faça um teste rápido de abertura ainda com a mala vazia e anote a combinação em local seguro."
+        ],
+        "postParagraphs": [
+          "Lembrete sobre a marca TSA: o miolo de chave ao lado dos números não vem com chave para você abrir. Ele segue o padrão da Transportation Security Administration para permitir que agentes alfandegários abram e fechem a bagagem em inspeções internacionais sem cortar o zíper."
+        ]
+      },
+      {
+        "heading": "Outros modelos, cadeados avulsos e senha esquecida",
+        "paragraphs": [
+          "Nem toda mala ou trava da loja usa o furinho com botão A. Nos cadeados avulsos vendidos pela marca, o próprio guia oficial avisa que o passo a passo específico acompanha a embalagem do produto; já em malas com trava embutida diferente desse padrão, o caminho seguro é consultar o manual da mala ou confirmar o procedimento com o atendimento oficial da loja antes de alterar os discos.",
+          "Se você já perdeu a combinação e o cadeado fechou, não force os puxadores do zíper. O termo da marca (resumido em [garantia vitalícia da Bagaggio](/reviews/bagaggio-garantia-vitalicia)) cobre apenas defeitos de fabricação e exclui senha de cadeado perdida. Nesses casos, fale com o [atendimento da Bagaggio](https://www.bagaggio.com.br/institucional/fale-conosco) pelo chat do site (segunda a sexta, das 9h às 18h) levando o nome exato ou a etiqueta e uma foto do cadeado da sua mala."
+        ]
       },
       {
         "heading": "O que cada tipo custa e o que a página diz",
         "paragraphs": [
-          "A loja separa os cadeados avulsos por tipo. A tabela traz sete deles, com a descrição da página de cada um."
+          "Se a mala não tem trava embutida, se você perdeu a senha de um cadeado antigo ou quer travar bolsos extras da mochila, a Bagaggio vende sete modelos avulsos entre versões de chave e de combinação numérica. Atenção apenas ao modelo mais barato com chave TSA, que estava sem estoque hoje no site."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+            "alt": "Cadeado TSA com chave, preto, da Bagaggio, em foto oficial de produto",
+            "caption": "Cadeado TSA com Chave Preto: acompanha duas chaves e dispensa memorizar senha. Foto: Bagaggio.",
+            "href": "https://www.bagaggio.com.br/cadeado-tsa-com-chave-preto-/p",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+            "alt": "Cadeado avulso Bagaggio TSA com segredo de 3 dígitos (rosa)",
+            "caption": "Cadeado para Mala TSA com Segredo 3 dígitos Rosa. Foto: Bagaggio.",
+            "href": "https://www.bagaggio.com.br/cadeado-para-mala-tsa-com-segredo-3-digitos-rosa/p",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+            "alt": "Cadeado avulso Bagaggio TSA com cabo de aço flexível e senha ajustável (preto)",
+            "caption": "Cadeado TSA com Cabo de Aço Preto: haste flexível para passar por zíperes mais largos. Foto: Bagaggio.",
+            "href": "https://www.bagaggio.com.br/cadeado-tsa-com-cabo-de-aco-preto-/p",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
         ],
         "comparisonTable": {
-          "caption": "Preço de venda no site, 21/11",
+          "caption": "Preços e disponibilidade nas páginas da Bagaggio em 21/11, antes do frete.",
           "headers": [
             "Cadeado",
-            "Como abre, segundo a página",
-            "Preço"
+            "Abertura e sistema TSA",
+            "Preço na página"
           ],
           "rows": [
             [
-              "TSA com Chave Preto",
-              "Chave, com TSA",
-              "R$ 59,90"
+              "[Cadeado TSA com Chave Preto](https://www.bagaggio.com.br/cadeado-tsa-com-chave-preto-/p)",
+              "Chave (2 chaves), com TSA",
+              "R$ 59,90 (de R$ 79,90)"
             ],
             [
-              "Para Mala com Chave TSA Preto",
+              "[Cadeado para Mala com Chave TSA Preto](https://www.bagaggio.com.br/cadeado-para-mala-com-chave-tsa-preto-/p)",
               "Chave, com TSA",
-              "R$ 39,90"
+              "R$ 39,90 (indisponível hoje)"
             ],
             [
-              "Para Mala Bagaggio com Chave Preto",
+              "[Cadeado para Mala Bagaggio com Chave Preto](https://www.bagaggio.com.br/cadeado-para-mala-bagaggio-com-chave-preto-/p)",
               "Chave, sem TSA na página",
               "R$ 59,90"
             ],
             [
-              "Para Mala TSA com Segredo 3 Dígitos Rosa",
-              "Combinação de 3 dígitos, com TSA",
-              "R$ 49,90"
+              "[Cadeado para Mala TSA com Segredo 3 dígitos Rosa](https://www.bagaggio.com.br/cadeado-para-mala-tsa-com-segredo-3-digitos-rosa/p)",
+              "Senha de 3 dígitos, com TSA",
+              "R$ 49,90 (de R$ 69,90)"
             ],
             [
-              "TSA com Segredo 4 Dígitos Roxo",
-              "Combinação de 4 dígitos, com TSA",
+              "[Cadeado para Mala TSA com Segredo 4 Dígitos Roxo](https://www.bagaggio.com.br/cadeado-para-mala-tsa-com-segredo-4--digitos-roxo-/p)",
+              "Senha de 4 dígitos, com TSA",
               "R$ 79,90"
             ],
             [
-              "TSA com Cabo de Aço Preto",
-              "Senha numérica ajustável, com TSA",
-              "R$ 89,90"
+              "[Cadeado TSA com Cabo de Aço Preto](https://www.bagaggio.com.br/cadeado-tsa-com-cabo-de-aco-preto-/p)",
+              "Senha ajustável com cabo flexível, com TSA",
+              "R$ 89,90 (de R$ 119,90)"
             ],
             [
-              "Para Mala com 4 Dígitos Alloy Preto",
-              "Combinação de 4 dígitos, sem TSA na página",
+              "[Cadeado para Mala com 4 Dígitos Alloy Preto](https://www.bagaggio.com.br/cadeado-para-mala-com-4-digitos-alloy-preto/p)",
+              "Senha de 4 dígitos, sem TSA na página",
               "R$ 59,90"
             ]
           ]
         },
         "postParagraphs": [
-          "O cabo de aço dispensa a chave e é o mais caro da lista. Se a ideia é trocar um cadeado que você não consegue abrir, o de chave é o único em que nenhuma combinação entra na conta."
-        ]
-      },
-      {
-        "heading": "O que significa a marca TSA no cadeado",
-        "paragraphs": [
-          "Segundo as fichas da Bagaggio, o sistema TSA permite acesso aos agentes de inspeção de bagagem. Para encontrar a orientação certa para a sua mala, informe ao atendimento o modelo e se o cadeado é de chave ou de combinação."
-        ]
-      },
-      {
-        "heading": "Esqueci a senha: o que fazer em cada caso",
-        "paragraphs": [
-          "A [página de atendimento da Bagaggio](https://www.bagaggio.com.br/institucional/fale-conosco) orienta usar o chat do site, de segunda a sexta, das 9h às 18h. Abra o ícone de chat no canto inferior da página. Tenha o nome do modelo ou a etiqueta da mala e diga se quer configurar, trocar ou recuperar a senha."
-        ],
-        "bullets": [
-          "Cadeado de segredo numérico: abra o chat com o nome do modelo e pergunte como a Bagaggio orienta recuperar ou trocar a combinação. A resposta é do atendimento, e a loja não a publica.",
-          "Cadeado embutido: leve o nome da mala, como aparece na página dela, e pergunte o mesmo. O cadeado faz parte da mala, então a pergunta é sobre a mala.",
-          "Cadeado de chave: sem combinação, a dúvida vira outra. Se perdeu a chave, a pergunta ao chat é como conseguir outra, e pode ser que a resposta seja trocar o cadeado."
-        ],
-        "postParagraphs": [
-          "Sobre garantia: o Termo da loja, resumido no artigo sobre a [garantia vitalícia da Bagaggio](/reviews/bagaggio-garantia-vitalicia), cobre vício de fabricação e deixa a senha de cadeado perdida fora da cobertura. Esquecer a combinação, então, é assunto para o atendimento, não para a garantia."
-        ],
-        "image": {
-          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
-          "alt": "Detalhe do cadeado embutido da mala de bordo Detroit preta da Bagaggio, com o disco de combinação à vista, ao lado das medidas da mala",
-          "caption": "Detalhe do cadeado embutido da Mala de Bordo Detroit Preta, em imagem da loja. Foto: Bagaggio.",
-          "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p",
-          "objectFit": "contain",
-          "aspectRatio": 1
-        }
-      },
-      {
-        "heading": "Os três tipos num quadro",
-        "paragraphs": [
-          "Para guardar no celular e abrir o chat já sabendo o que perguntar."
-        ],
-        "image": {
-          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
-          "alt": "Quadro «Qual é o seu cadeado?»: de chave, sem combinação; de segredo, com 3 ou 4 dígitos; embutido, preso ao corpo da mala; TSA, acesso do agente na inspeção; para trocar ou recuperar a senha, o chat da Bagaggio, de segunda a sexta, das 9h às 18h.",
-          "caption": "Quadro: Em Casa com Cecília.",
-          "objectFit": "contain",
-          "aspectRatio": 1
-        }
-      },
-      {
-        "heading": "Parceria e cupom",
-        "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras com o CECILIA10. O [cupom Bagaggio](/cupons/bagaggio) dá 10% OFF em todo o site, em todas as formas de pagamento. Num cadeado novo, confira a linha do desconto no carrinho. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+          "Conta nossa, pelos preços da tabela: o [cupom Bagaggio](/cupons/bagaggio) CECILIA10 dá 10% OFF em todas as formas de pagamento, inclusive em ofertas, e soma com os 5% do Pix. No TSA 3 dígitos Rosa de R$ 49,90, tira R$ 4,99 e baixa para R$ 44,91 antes do frete; veja [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Bagaggio tem manual do cadeado? Não encontramos manual nem vídeo de senha nas páginas de ajuda e de perguntas frequentes da loja. Veja o capítulo sobre o que fazer em cada caso.",
-          "Esqueci a senha, a Bagaggio troca o cadeado? A loja não publica essa resposta. O atendimento pelo chat do site decide, e o horário está no capítulo sobre senha esquecida.",
-          "O que significa TSA no cadeado? As fichas da Bagaggio identificam um sistema de acesso para agentes de inspeção de bagagem. Para dúvidas sobre a senha da sua mala, procure o chat com o nome do modelo.",
-          "O cupom Bagaggio vale para o cadeado? O CECILIA10 vale em todo o site. Confira a linha do desconto no carrinho com o cadeado dentro."
+          "Qual é a senha padrão de fábrica da mala Bagaggio? Nos cadeados TSA embutidos descritos no guia oficial da Bagaggio, a combinação inicial de fábrica é 0-0-0.",
+          "Como resetar a senha do cadeado TSA embutido com botão A? Coloque 0-0-0 (ou a senha atual) para abrir, aperte firme o botão A até ouvir o estalo e gire os discos para a nova senha; os detalhes e o diagrama estão no passo a passo acima.",
+          "O cadeado TSA vem com chave junto da mala? Não nos modelos de senha: a fechadura ao lado dos discos serve exclusivamente para agentes de segurança aeroportuária usarem chave mestra oficial em inspeções.",
+          "Esqueci a senha da mala Bagaggio: a garantia vitalícia cobre? Não. O termo da marca exclui senha de cadeado perdida; nesses casos, procure o chat de atendimento no Fale Conosco da Bagaggio com o modelo e foto do cadeado.",
+          "O cupom CECILIA10 funciona nos cadeados e malas da Bagaggio? Sim. O CECILIA10 aplica 10% OFF em todo o site oficial da marca e acumula com o desconto do Pix."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Você tem cadeado de segredo numérico ou embutido na mala e esqueceu a combinação.",
-        "Você quer saber o tipo do seu cadeado antes de abrir o chat da loja."
+        "Sua mala Bagaggio tem cadeado TSA embutido com botão A de reset e você quer definir ou trocar a combinação com segurança.",
+        "Você precisa escolher um cadeado avulso de reposição ou entender quando falar com o atendimento se perdeu a senha."
       ],
       "skipIf": [
-        "Você procura um passo a passo para trocar a senha sozinho: a Bagaggio não publica.",
-        "O seu cadeado é de chave: não há combinação para recuperar."
+        "O cadeado já travou com uma senha desconhecida e você não lembra os dígitos: evite forçar o zíper e acione o chat da marca.",
+        "Seu cadeado usa chave tradicional e não combinações numéricas."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho para ganhar 10% OFF.",
+      "text": "Se for comprar mala ou cadeado no site oficial da Bagaggio, cole o CECILIA10 no campo Cupom de desconto do carrinho para ter 10% OFF.",
       "label": "Ir para a Bagaggio com o cupom",
       "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
       "sponsored": true
     },
     "coupon": "CECILIA10",
     "affiliate": "bagaggio",
-    "editorialNote": "Feito com as páginas dos cadeados e a de atendimento da Bagaggio, sem usar nenhum cadeado. Podemos receber comissão pelas compras com o CECILIA10.",
+    "editorialNote": "Feito com o guia e páginas da Bagaggio. Ninguém da equipe testou. Podemos receber comissão pelo CECILIA10.",
     "relatedArticles": [
       {
         "slug": "bagaggio-garantia-vitalicia"
@@ -310623,6 +310680,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "bagaggio-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "mala-de-bordo-bagaggio-qual-compensa"
       }
     ]
   },
@@ -310822,6 +310882,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 1276,
     "slug": "lets-eat-it-loja-fisica-endereco",
+    "locale": "pt",
     "title": "Let's Eat It tem loja física? Endereço, horário e o que dá para fazer na Casa Let's",
     "seoTitle": "Let's Eat It tem loja física? Endereço e horário",
     "type": "Guia Prático",
@@ -310834,8 +310895,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Casa Let’s fica na Avenida Pacaembu, 1105, em São Paulo, com ambientes decorados e uma seleção que muda. Veja horários, o que tem lá e quando compensa comprar no site.",
-    "metaDescription": "No site da Let’s Eat It, o MAUAD dá 5% OFF no catálogo todo. Veja o endereço e os horários da Casa Let’s, em São Paulo, e onde compensa comprar.",
+    "description": "A Casa Let's fica na Av. Pacaembu, 1105, em São Paulo, sem retirada de pedidos online, mas com troca e devolução presencial. Veja horários, ambientes e quando o site compensa.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF no site da Let's Eat It. Veja o endereço e horários da Casa Let's em São Paulo, troca presencial e onde compensa comprar.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
     "draft": false,
@@ -310848,132 +310909,141 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim. A Casa Let’s fica na Avenida Pacaembu, 1105, em São Paulo, e abre de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h. Ela expõe uma seleção que muda, sem o catálogo inteiro do site e sem retirada de pedido online. Para o catálogo completo com entrega, o MAUAD dá 5% no site."
+          "Sim. A Casa Let's fica na Avenida Pacaembu, 1105, em São Paulo, abre sem agendamento e aceita troca e devolução de pedidos online para quem está em São Paulo, sem retirada. No site, com catálogo completo, o cupom MAUAD dá 5% OFF; na loja física, o código não vale e a Casa aplica desconto próprio no caixa."
         ]
       },
       {
-        "heading": "Onde fica a Casa Let’s e como falar com ela",
+        "heading": "Onde fica a Casa Let’s, horários e telefones",
         "paragraphs": [
-          "A Casa Let’s fica na Avenida Pacaembu, 1105, no bairro do Pacaembu, em São Paulo (SP), CEP 01234-001. O mapa está na [página oficial da Casa Let’s](https://letseatit.com.br/pages/casa-lets).",
-          "Os contatos da Casa são o WhatsApp (11) 97488-2876 e o e-mail casa@letseatit.com.br. O link de WhatsApp das perguntas frequentes da mesma página leva a outro número, o (11) 96570-0375, que é o do atendimento do site. Para saber se uma peça está exposta, use o da Casa.",
-          "A página não diz se há estacionamento no local. Se for de carro, pergunte antes pelo WhatsApp."
+          "A Casa Let’s fica na Avenida Pacaembu, 1105, no bairro do Pacaembu, em São Paulo (SP), CEP 01234-001. O [link oficial no Google Maps](https://maps.app.goo.gl/F3MrY1kEdo2eNN289) está divulgado pela própria marca.",
+          "A loja informa: na [página oficial da Casa Let’s](https://letseatit.com.br/pages/casa-lets), o atendimento vai de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h (fechado aos domingos e feriados), com WhatsApp da Casa em (11) 97488-2876 e e-mail casa@letseatit.com.br.",
+          "Já o atendimento online (SAC), listado na página [Fale Conosco](https://letseatit.com.br/pages/fale-conosco) e no rodapé do site, funciona de segunda a sexta, das 9h às 18h, pelo WhatsApp (11) 96570-0375 e pelo e-mail suporte@letseatit.com.br. Antes de ir à Casa perto de feriados, vale confirmar pelo WhatsApp do espaço e perguntar sobre estacionamento, já que a página não informa vagas no local."
         ],
         "comparisonTable": {
+          "caption": "Horários e contatos publicados nas páginas da Let’s Eat It.",
           "headers": [
-            "Dia",
-            "Horário da Casa"
+            "Canal",
+            "Horário de atendimento",
+            "Contato indicado"
           ],
           "rows": [
             [
-              "Segunda a sexta",
-              "9h às 18h"
+              "Casa Let’s (loja física)",
+              "Seg. a sex., 9h às 18h; sáb., 10h às 14h; dom. e feriados fechado",
+              "WhatsApp (11) 97488-2876 · casa@letseatit.com.br"
             ],
             [
-              "Sábado",
-              "10h às 14h"
-            ],
-            [
-              "Domingo",
-              "Fechado"
-            ],
-            [
-              "Feriados",
-              "Fechado"
+              "Atendimento online (SAC)",
+              "Seg. a sex., 9h às 18h",
+              "WhatsApp (11) 96570-0375 · suporte@letseatit.com.br"
             ]
-          ],
-          "caption": "Horário informado pela Casa Let’s. A página não traz o calendário de feriados."
-        },
-        "postParagraphs": [
-          "Esse horário é da loja física. Perto de feriados, confirme pelo WhatsApp da Casa antes de sair."
-        ]
+          ]
+        }
       },
       {
         "heading": "O que tem na Casa Let’s",
         "paragraphs": [
-          "A página descreve a Casa como ambientes decorados, cada um montado como cena para você imaginar em casa:"
+          "A marca apresenta a Casa como um espaço com seis ambientes montados para você ver materiais, tamanhos e combinações ao vivo, sem precisar agendar horário e com entrada liberada para pets (com água fresca e cantinho de descanso), além do serviço de consultoria do Concierge Let’s Eat It."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+            "alt": "Mesa posta montada na Casa Let’s com louças, guardanapos bordados, jogos americanos e taças",
+            "caption": "Mesa posta montada na Casa Let’s. Foto: Let’s Eat It (página oficial da Casa Let’s).",
+            "objectFit": "contain",
+            "aspectRatio": 0.75
+          },
+          {
+            "src": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+            "alt": "Balcão e prateleiras da copa da Casa Let’s com panelas e utensílios expostos",
+            "caption": "Copa da Casa Let’s com panelas e utensílios expostos. Foto: Let’s Eat It (página oficial da Casa Let’s).",
+            "objectFit": "contain",
+            "aspectRatio": 1.5
+          }
         ],
         "bullets": [
-          "Mesa posta: louças, linhos, cristais e flores. A equipe monta a composição com você antes de levar.",
-          "Sala e cozinha: panelas, utensílios e acessórios de cozinha arrumados como cenário.",
-          "Quarto: roupa de cama, enxoval e perfume de ambiente.",
-          "Banho e ritual: aromas e óleos para experimentar na pele.",
-          "Recepção: café fresco, espumante gelado, água e um canto para sentar."
+          "**Mesa posta:** louças, linhos, cristais e flores dispostos em cenário, com apoio da equipe para montar composições na hora.",
+          "**Sala / Estar:** peças de ambientação e objetos de receber expostos em contexto de casa.",
+          "**Cozinha / Copa:** panelas e utensílios organizados em prateleiras e bancadas.",
+          "**Spa (Banho & ritual):** aromas, óleos e toalhas para testar na pele; as massagens do espaço não são abertas ao público geral e ficam restritas a clientes selecionados e convidados.",
+          "**Quarto / Dormitório:** itens de roupa de cama e enxoval.",
+          "**Recepção:** café fresco, espumante gelado e água para receber quem chega."
         ],
         "postParagraphs": [
-          "Não precisa agendar: a página diz que você pode passar em qualquer horário de funcionamento. A Casa aceita pet, com água fresca e um cantinho para ele descansar. A loja também oferece o Concierge Let’s Eat It, um serviço de compras com atendimento de consultoras de vendas.",
-          "As massagens do spa não são abertas ao público geral. A página diz que elas ficam para clientes selecionados e convidados da Casa."
+          "Como o espaço físico trabalha com uma seleção rotativa que muda toda semana, a Casa não expõe o catálogo completo da loja online. Se você já tem um modelo, cor ou aparelho de jantar específico em mente, mande o nome da peça para o WhatsApp da Casa antes de sair."
         ]
       },
       {
-        "heading": "Uma seleção que muda: por que a Casa não tem tudo do site",
+        "heading": "Retirada de pedido, troca e devolução presencial",
         "paragraphs": [
-          "A pergunta “os produtos do site estão todos na Casa?” tem resposta na própria página: não. A Casa trabalha com uma seleção que, segundo a loja, rotaciona toda semana. A ideia é que cada visita mostre peças diferentes.",
-          "Isso serve para quem quer sentir textura, ver cores juntas e montar uma mesa com a equipe. Para quem já sabe o que quer, como uma panela Le Creuset numa cor e num tamanho, um aparelho de jantar completo ou um jogo de toalhas, a visita pode não ter a peça. Antes de ir, mande o nome do produto ao WhatsApp da Casa.",
-          "Também não dá para comprar no site e buscar na Casa. A política de frete diz que, no momento, não é possível retirar pedidos lá: tudo é enviado ao endereço do pedido."
+          "Para quem compra no site e mora em São Paulo, não dá para retirar o pedido na Casa, mas já é possível trocar ou devolver presencialmente:"
+        ],
+        "bullets": [
+          "**Retirada de pedido online (não disponível):** a [política de frete](https://letseatit.com.br/pages/politica-de-frete) diz que não é possível comprar no site e retirar o pedido na Casa Let’s. Todas as compras online seguem para o endereço informado.",
+          "**Troca e devolução presencial (permitidas em SP):** a [política de reembolso](https://letseatit.com.br/pages/politica-de-reembolso) confirma que moradores de São Paulo podem levar peças compradas no site para trocar ou devolver pessoalmente na Casa Let’s em horário comercial. A troca é feita na hora em horário comercial; no reembolso, o prazo segue o padrão do site (Pix em até 3 dias úteis, cartão em 5 a 10 dias úteis ou crédito em loja imediato e sem prazo de validade, válido tanto no site quanto na Casa)."
+        ],
+        "postParagraphs": [
+          "Regra prática, sem teste nosso, antes de levar uma troca presencial até a Avenida Pacaembu: envie o número do pedido e pergunte no WhatsApp da Casa se o item desejado na substituição está disponível na seleção daquela semana."
         ]
       },
       {
         "heading": "Casa Let’s ou site: onde compensa comprar",
         "paragraphs": [
-          "Na maioria das compras, o site resolve mais. Ele tem o catálogo inteiro, entrega no endereço do pedido e aceita o MAUAD, que dá 5% e soma com as promoções do site, com a pré-venda e com o desconto de 5% que muitos produtos têm no Pix.",
-          "Le Creuset e Trussardi pesam nessa conta. A Casa deixa as duas marcas fora do desconto que dá no caixa. No site, o MAUAD vale no catálogo; no nosso teste de 18/11, ele entrou numa panela Le Creuset em pré-venda, como mostra o print abaixo."
+          "A decisão entre ir até o Pacaembu ou pedir pelo site depende principalmente da marca que você quer levar e do desconto de cada canal. A loja física dá um desconto próprio no caixa nas compras presenciais, mas deixa Le Creuset e Trussardi fora dele, além de não aceitar o código MAUAD.",
+          "No site oficial, o catálogo completo fica disponível e o [cupom Let’s Eat It](/cupons/letseatit) MAUAD vale em todo o site, acumulando com promoções, pré-venda e o desconto do Pix que muitos produtos têm, inclusive em Le Creuset e Trussardi.",
+          "Conta nossa, conferindo o teste de 02/10 registrado no checkout do site: com uma panela Le Creuset Signature em pré-venda e um jogo de xícaras Wolff em promoção (subtotal de R$ 3.582,10), o MAUAD abateu R$ 179,10 (5%) e fechou os produtos em R$ 3.403,00 antes do frete, como mostra o print abaixo."
         ],
-        "comparisonTable": {
-          "caption": "Condições informadas pela Let’s Eat It no site e na página da Casa. Confira o total antes de pagar.",
-          "headers": [
-            "O que comparar",
-            "Site da Let’s Eat It",
-            "Casa Let’s"
-          ],
-          "rows": [
-            [
-              "Variedade",
-              "Catálogo completo, com cores, tamanhos e jogos",
-              "Seleção exposta que muda; confirme a peça pelo WhatsApp"
-            ],
-            [
-              "Le Creuset e Trussardi",
-              "Entram no MAUAD, que vale no site todo",
-              "Fora do desconto da Casa"
-            ],
-            [
-              "Desconto",
-              "MAUAD, 5%, soma com promoções, pré-venda e Pix",
-              "15% no caixa, só no que está exposto e fora as duas marcas"
-            ],
-            [
-              "Recebimento",
-              "Entrega no endereço do pedido",
-              "Leva na hora; não retira pedido do site"
-            ],
-            [
-              "Experiência",
-              "Compra a qualquer hora, com fotos e ficha",
-              "Mesa posta com a equipe, aromas, café e pet bem-vindo"
-            ]
-          ]
-        },
         "images": [
           {
             "src": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
             "alt": "Checkout do site da Let’s Eat It com uma panela Le Creuset Signature em pré-venda e um jogo de xícaras Wolff no carrinho, o MAUAD aplicado e a linha Desconto no pedido",
-            "caption": "O MAUAD aplicado no checkout do site, com uma panela Le Creuset em pré-venda no carrinho. Print: Em Casa com Cecília.",
+            "caption": "Checkout do site oficial com o código MAUAD aplicado numa panela Le Creuset em pré-venda e jogo de xícaras Wolff. Print: Em Casa com Cecília.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 0.9578
           }
         ],
+        "comparisonTable": {
+          "caption": "Diferenças práticas entre comprar na Casa Let’s e no site oficial.",
+          "headers": [
+            "O que comparar",
+            "Site (letseatit.com.br)",
+            "Casa Let’s (São Paulo)"
+          ],
+          "rows": [
+            [
+              "Estoque e variedade",
+              "Catálogo completo de cores, jogos e tamanhos",
+              "Seleção rotativa semanal; confirme a peça pelo WhatsApp"
+            ],
+            [
+              "Desconto padrão",
+              "MAUAD (5% OFF), soma com promoções, pré-venda e 5% do Pix",
+              "15% presencial no caixa (MAUAD não vale na loja física)"
+            ],
+            [
+              "Le Creuset e Trussardi",
+              "Entram no MAUAD normalmente",
+              "Fora do desconto presencial da Casa"
+            ],
+            [
+              "Pedidos do site",
+              "Entrega no endereço do pedido",
+              "Sem retirada de pedido online; aceita troca e devolução presencial em SP"
+            ]
+          ]
+        },
         "postParagraphs": [
-          "Para comprar no site, digite MAUAD no campo Código de desconto e confira a linha do desconto no resumo antes de pagar. As regras do código estão no [cupom Let’s Eat It](/cupons/letseatit), e o passo a passo, em [como usar o MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
+          "Para usar o código no checkout online, digite MAUAD em “Código de desconto” seguindo o passo a passo de [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Let's Eat It tem loja física e onde fica? Tem, a Casa Let’s, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h; a página não informa estacionamento.",
-          "A Casa Let's tem todos os produtos do site? Não. A seleção da Casa muda, e o catálogo completo fica no site; para saber se uma peça está exposta, chame o WhatsApp da Casa.",
-          "Dá para retirar pedido do site na Casa Let's? Não. A política de frete diz que, no momento, os pedidos do site são enviados ao endereço informado.",
-          "Vale mais a pena comprar na Casa Let's ou no site? Para ver acabamentos e montar uma mesa com a equipe, a Casa ajuda. Para variedade, Le Creuset, Trussardi e o MAUAD somado a promoções e ao Pix, o site compensa mais.",
-          "O cupom MAUAD vale na loja física da Let's Eat It? Não. O MAUAD vale só no site, onde dá 5%; a Casa tem um desconto próprio no caixa, que deixa de fora Le Creuset e Trussardi."
+          "Onde fica a Casa Let's e qual é o horário de funcionamento? Fica na Avenida Pacaembu, 1105, em São Paulo (SP), aberta de segunda a sexta das 9h às 18h e aos sábados das 10h às 14h (fechada aos domingos e feriados). Já o atendimento online (SAC) funciona de segunda a sexta, das 9h às 18h.",
+          "Dá para retirar pedido do site na Casa Let's? Não. A política de frete informa que não há retirada presencial de compras feitas no site.",
+          "Posso trocar ou devolver um pedido do site na Casa Let's? Sim, para quem está em São Paulo. A troca é feita na hora em horário comercial, e o reembolso ou crédito em loja sem validade segue os prazos da política oficial.",
+          "O cupom MAUAD vale na loja física da Let's Eat It? Não. O MAUAD vale apenas nas compras pelo site oficial; na Casa Let's, a equipe aplica um desconto presencial no caixa que não inclui Le Creuset nem Trussardi.",
+          "Precisa agendar visita ou pode levar pet na Casa Let's? Não precisa agendar visita em horário de funcionamento, e o espaço é pet-friendly, oferecendo água fresca e cantinho para descanso."
         ]
       }
     ],
@@ -310981,18 +311051,18 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você está em São Paulo e quer ver texturas, toalhas e uma mesa posta montada com a equipe antes de comprar.",
-        "Você topa perguntar antes pelo WhatsApp se a peça que procura está exposta."
+        "Você está em São Paulo, quer ver louças, linhos e panelas ao vivo nos seis ambientes ou precisa trocar presencialmente um pedido do site.",
+        "Você quer aproveitar o desconto presencial no caixa em marcas fora de Le Creuset e Trussardi."
       ],
       "skipIf": [
-        "Você quer Le Creuset ou Trussardi com desconto: a Casa deixa as duas fora do dela, e no site o MAUAD vale no catálogo todo.",
-        "Você precisa de uma peça, cor ou jogo específico, ou quer somar o cupom com promoções e Pix.",
-        "Você mora fora de São Paulo ou queria retirar na Casa um pedido do site."
+        "Você quer Le Creuset ou Trussardi com desconto: a Casa deixa as duas marcas fora do desconto dela, e no site o MAUAD vale no catálogo todo.",
+        "Você precisa retirar no local uma compra feita pela internet, opção indisponível na política de frete.",
+        "Você busca uma peça específica do site sem confirmar antes pelo WhatsApp se ela faz parte da seleção da semana."
       ]
     },
     "cta": {
       "label": "Ir para a Let's Eat It com o código",
-      "text": "Entre no site oficial da Let's Eat It e digite o código MAUAD no campo \"Código de desconto\" do checkout: 5% em todo o site, em todas as formas de pagamento, somando com o Pix. Confira a linha do desconto antes de pagar.",
+      "text": "Entre no site oficial da Let's Eat It e digite MAUAD no campo \"Código de desconto\" do checkout para ter 5% OFF em todas as formas de pagamento, somando com promoções e Pix.",
       "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
       "sponsored": true
     },
@@ -311022,7 +311092,7 @@ export const reviewsData: unknown[] = [
     "slug": "enxoval-filhote-cachorro-lista-com-preco",
     "locale": "pt",
     "title": "Enxoval do filhote de cachorro: a lista com preço na Petz",
-    "seoTitle": "Enxoval do filhote de cachorro: lista com preço",
+    "seoTitle": "Enxoval de filhote de cachorro na Petz: lista com preços",
     "type": "Lista de Compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -311033,8 +311103,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Lista do enxoval do filhote de cachorro na Petz, item por item, com o preço do dia, o total e o código EMCASA. Ração, comedouro, cama, guia, tapete e caixa de transporte.",
-    "metaDescription": "EMCASA dá 10% OFF na Petz nos itens sem oferta. Veja o enxoval do filhote de cachorro item por item, com o preço do dia, o total e a conta do código.",
+    "description": "Lista do enxoval do filhote de cachorro na Petz, item por item, com preço, total e onde o EMCASA entra. Traz também trocas para cão adulto ou de porte maior.",
+    "metaDescription": "EMCASA dá 10% OFF na Petz. A sacola aplica o maior desconto por item. Veja a lista do enxoval do filhote, com preços e o total.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
     "draft": false,
@@ -311047,16 +311117,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O exemplo para um filhote de porte pequeno reúne dez itens na Petz, da ração à caixa de transporte. A conta usa os preços das páginas antes do frete. Compare as medidas do filhote e o que você já tem em casa. O desconto do EMCASA nesta lista é estimado."
+          "Esta lista de referência para filhote de porte pequeno reúne dez itens na Petz, da ração à caixa de transporte, antes do frete. Como a sacola fica com o maior desconto por item, nesta simulação o EMCASA baixou quatro produtos. Compare abaixo os preços, o total e as trocas para porte maior."
         ]
       },
       {
         "heading": "A lista: dez itens, um por categoria",
         "paragraphs": [
-          "Esta é uma lista de referência para um filhote de porte pequeno. Confira as medidas da cama, do peitoral e da caixa antes de comprar. Se você já tem algum item, retire a linha da soma."
+          "Antes de fechar o pedido para um filhote pequeno, vale conferir o desconto de cada produto: a sacola da Petz aplica o maior desconto por item, sem somar cupom com oferta. Abaixo está a lista básica por categoria, com link direto para cada produto; confirme as medidas da cama, do peitoral e da caixa e tire da soma o que você já tiver."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas da Petz em 21/11/2026, antes de frete e sem CEP. A simulação aplica 10% aos itens sem oferta e mantém o preço dos demais.",
+          "caption": "Preços das páginas da Petz em 21/11, antes do frete e sem CEP. A última coluna simula 10% nos quatro itens sem desconto maior na página.",
           "headers": [
             "Item",
             "Preço da página",
@@ -311064,53 +311134,53 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Ração Golden Special Filhotes Porte Pequeno, 3 kg",
+              "[Ração Golden Special Filhotes Porte Pequeno, 3 kg](https://www.petz.com.br/produto/racao-golden-special-para-caes-filhotes-de-porte-pequeno-sabor-frango-e-carne-190441)",
               "R$ 59,99",
               "R$ 53,99"
             ],
             [
-              "Comedouro Chalesco antiderrapante inox, Tam 1",
-              "R$ 16,79 (oferta)",
+              "[Comedouro Chalesco antiderrapante inox, Tam 1](https://www.petz.com.br/produto/comedouro-chalesco-antiderrapante-inox-para-caes-163964)",
+              "R$ 16,79 (30% OFF de R$ 23,99)",
               "R$ 16,79"
             ],
             [
-              "Bebedouro Chalesco automático, 600 ml",
+              "[Bebedouro Chalesco automático, 600 ml](https://www.petz.com.br/produto/bebedouro-automatico-chalesco-para-caes-600-ml-cores-sortidas-77007)",
               "R$ 52,99",
               "R$ 47,69"
             ],
             [
-              "Cama Spike colchonete azul, P",
+              "[Cama Spike colchonete azul, P](https://www.petz.com.br/produto/cama-spike-colchonete-azul-194149)",
               "R$ 109,99",
               "R$ 98,99"
             ],
             [
-              "Peitoral Spike Geo, PP",
+              "[Peitoral Spike Geo, PP](https://www.petz.com.br/produto/peitoral-spike-geo-para-caes-179326)",
               "R$ 31,99",
               "R$ 28,79"
             ],
             [
               "[Guia Toh Corda Preta, 1,20 m](https://www.petz.com.br/produto/guia-toh-corda-preta-para-caes)",
-              "R$ 41,99 (oferta)",
+              "R$ 41,99 (30% OFF de R$ 59,99)",
               "R$ 41,99"
             ],
             [
-              "Tapete higiênico Petz superabsorvente, 30 unidades",
-              "R$ 79,99 (oferta)",
+              "[Tapete higiênico Petz superabsorvente, 30 unidades](https://www.petz.com.br/produto/tapete-higienico-petz-para-caes-superabsorvente-30-unidades-149767)",
+              "R$ 79,99 (27% OFF de R$ 109,99)",
               "R$ 79,99"
             ],
             [
-              "Brinquedo Spike macaco de pelúcia",
-              "R$ 24,99 (oferta)",
+              "[Brinquedo Spike macaco de pelúcia](https://www.petz.com.br/produto/brinquedo-spike-macaco-de-pelucia-para-caes-191238)",
+              "R$ 24,99 (28% OFF de R$ 34,99)",
               "R$ 24,99"
             ],
             [
-              "Escova Chalesco Special Pets, P",
-              "R$ 20,39 (oferta)",
+              "[Escova Chalesco Special Pets, P](https://www.petz.com.br/produto/escova-chalesco-special-pets-72615)",
+              "R$ 20,39 (15% OFF de R$ 23,99)",
               "R$ 20,39"
             ],
             [
-              "Caixa de transporte Furacão Pet Joy, Tam 1",
-              "R$ 48,99 (oferta)",
+              "[Caixa de transporte Furacão Pet Joy, Tam 1](https://www.petz.com.br/produto/caixa-de-transporte-furacao-pet-joy-preta-para-caes-e-gatos-tam-1-175246)",
+              "R$ 48,99 (30% OFF de R$ 69,99)",
               "R$ 48,99"
             ],
             [
@@ -311121,64 +311191,117 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os preços são os da página do produto, sem CEP. Na sacola, confira a linha do desconto antes de pagar."
-        ],
-        "image": {
-          "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
-          "alt": "Quadro com o total do enxoval do filhote na Petz: R$ 488,10 pelos preços das páginas e R$ 462,60 com o EMCASA, que desconta só os quatro itens fora de oferta.",
-          "caption": "Quadro: Em Casa com Cecília.",
-          "objectFit": "contain",
-          "aspectRatio": 1
-        }
+          "Os valores são das páginas de produto, sem login e sem CEP. Na sacola, o preço pode variar de acordo com a região e o canal de entrega: confira o total antes de finalizar."
+        ]
       },
       {
         "heading": "A conta com o EMCASA",
         "paragraphs": [
-          "A diferença entre as duas colunas é de R$ 25,50, e vem só de quatro itens, os que estavam sem oferta: a ração (de R$ 59,99 para R$ 53,99), o bebedouro (de R$ 52,99 para R$ 47,69), a cama (de R$ 109,99 para R$ 98,99) e o peitoral (de R$ 31,99 para R$ 28,79).",
-          "A regra do [cupom Petz](/cupons/petz) é manter o maior desconto em cada produto, sem somar percentuais. A simulação conservou os preços de oferta. No seu carrinho, confira qual desconto ficou em cada item.",
-          "O cálculo segue os valores consultados. Se a promoção ou o preço para seu CEP mudar, refaça a soma. Veja também [como aplicar o EMCASA na Petz](/reviews/cupom-petz-como-usar)."
+          "Conta nossa, pelos preços da tabela: a diferença de R$ 25,50 entre as duas colunas vem dos quatro produtos que estavam sem desconto maior na vitrine (ração, bebedouro, cama e peitoral), todos detalhados linha a linha acima.",
+          "A regra publicada do [cupom Petz](/cupons/petz) é que a sacola fica com o maior desconto por item, sem somar percentuais. Nesta simulação, como os outros seis produtos já estavam com 15% a 30% OFF, a sacola mantém a oferta neles e o EMCASA entra nos quatro restantes.",
+          "Quem usa a Assinatura Petz também chega ao mesmo 10% OFF nesses quatro itens elegíveis, empatando com o valor simulado, sem acumular com o código. Veja o comparativo completo em [Assinatura Petz ou cupom EMCASA](/reviews/assinatura-petz-ou-cupom) e o passo a passo de sacola em [como aplicar o EMCASA na Petz](/reviews/cupom-petz-como-usar)."
         ]
       },
       {
         "heading": "Ração, comedouro e bebedouro",
+        "paragraphs": [
+          "A escolha do tamanho do pote e do pacote de ração define o quanto você precisa repor nas primeiras semanas."
+        ],
         "bullets": [
-          "Ração: a Golden Special para filhotes de porte pequeno, sabor frango e carne, vem em 3 kg e em 15 kg (R$ 176,99). A ficha traz tabela de consumo por porte e peso. Qual ração dar e em que quantidade, o veterinário decide.",
-          "Comedouro: o Chalesco de inox tem base antiderrapante e três tamanhos. O Tam 1 leva 235 ml e mede 3,5 cm de altura por 6 cm de largura. O Tam 2 leva 480 ml (R$ 29,39) e o Tam 3, 710 ml (R$ 37,09). A ficha não diz para que porte cada tamanho serve.",
-          "Bebedouro: o Chalesco automático leva 600 ml. A ficha diz que o bico garante maior durabilidade e que o bebedouro se usa em garrafas pet de todos os tamanhos."
+          "**Ração:** A loja informa: a Golden Special Filhotes Porte Pequeno, sabor frango e carne, vem em pacotes de 3 kg e de 15 kg (R$ 176,99), com tabela de consumo por peso e idade na página do produto. A marca, a linha e a quantidade diária quem indica é o veterinário.",
+          "**Comedouro:** O Chalesco de aço inoxidável tem base antiderrapante e três tamanhos. O Tam 1 da lista comporta 235 ml e mede 3,5 cm de altura por 6 cm de largura; há ainda o Tam 2 de 480 ml (R$ 29,39) e o Tam 3 de 710 ml (R$ 37,09).",
+          "**Bebedouro:** O Chalesco automático tem capacidade para 600 ml, bico em aço inox acionado ao lamber e presilha ajustável para garrafa PET."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+            "alt": "Embalagem da Ração Golden Special Filhotes Porte Pequeno, 3 kg, sabor frango e carne",
+            "caption": "Ração Golden Special Filhotes Porte Pequeno, 3 kg: sem desconto maior na vitrine, entra nos 10% OFF da simulação com EMCASA. Foto: Petz.",
+            "href": "https://www.petz.com.br/produto/racao-golden-special-para-caes-filhotes-de-porte-pequeno-sabor-frango-e-carne-190441",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
         ]
       },
       {
         "heading": "Cama, peitoral e guia",
+        "paragraphs": [
+          "Em vez de coleira de pescoço e caminha fechada que perde o tamanho rápido, a lista prioriza um colchonete fácil de lavar e o conjunto em H com guia reforçada."
+        ],
         "bullets": [
-          "Cama: o colchonete Spike é de fibra de poliéster e, segundo a ficha, é enrolável e pode ser usado em viagens. O tamanho P mede 81 por 66 cm e tem 2 cm de altura. O M (R$ 129,99) mede 105 por 66 cm.",
-          "Peitoral: o Spike Geo PP é regulável no pescoço e na cintura e tem duas posições para prender a guia, segundo a ficha. Os tamanhos seguem em P (R$ 34,99), M (R$ 39,99) e G (R$ 49,99). As medidas de cada tamanho estão na ficha.",
-          "Guia: a Toh Corda Preta de 1,20 m é de corda de polipropileno e fecha por mosquetão, pela ficha. É esse modelo que entra na conta com o peitoral. A guia unificada da Toh já tem a parte da coleira."
+          "**Cama:** A Cama Spike colchonete azul é enrolável e lavável à máquina. No tamanho P, mede 81 × 66 × 2 cm; o tamanho M custa R$ 129,99 e não havia tamanho G disponível na página.",
+          "**Peitoral:** O Spike Geo é um peitoral em H de poliéster, regulável no pescoço e no tórax, com o tamanho PP atendendo de 14 a 37 cm de pescoço e 22 a 46 cm de tórax. Se o cachorro puxa na guia, compare também os modelos com argola frontal no nosso [guia de peitoral para cachorro que puxa](/reviews/peitoral-cachorro-que-puxa-petz).",
+          "**Guia:** A [Guia Toh Corda Preta, 1,20 m](https://www.petz.com.br/produto/guia-toh-corda-preta-para-caes) é feita em polipropileno com miolo de 6 cordas trançadas e mosquetão em Zamac que não enferruja com tração de até 240 kg. Esse é o modelo que combina com o peitoral; a versão unificada da marca já substitui a coleira."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+            "alt": "Colchonete enrolável Cama Spike Azul para cães",
+            "caption": "Cama Spike colchonete azul, P: modelo enrolável e lavável à máquina. Foto: Petz.",
+            "href": "https://www.petz.com.br/produto/cama-spike-colchonete-azul-194149",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+            "alt": "Guia Toh Corda Preta com mosquetão em Zamac e pegador de corda",
+            "caption": "Guia Toh Corda Preta, 1,20 m, com mosquetão em Zamac. Foto: Petz.",
+            "href": "https://www.petz.com.br/produto/guia-toh-corda-preta-para-caes",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
         ]
       },
       {
         "heading": "Tapete, brinquedo, escova e caixa de transporte",
+        "paragraphs": [
+          "Na hora de escolher a caixa de transporte do enxoval, confira primeiro o limite de peso do filhote antes de fechar o pedido; os demais itens de rotina seguem o consumo básico da chegada em casa."
+        ],
         "bullets": [
-          "Tapete higiênico: a embalagem tem 30 unidades. Cada tapete mede 60 por 80 cm, com 60 por 50 cm de área de absorção. A ficha não diz quantos tapetes um filhote usa.",
-          "Brinquedo: o macaco de pelúcia da Spike mede 50 por 12 por 5 cm e tem olhos bordados. A ficha o descreve como perfeito para pets em fase de crescimento e não traz orientação de uso.",
-          "Escova: a Chalesco Special Pets P mede 17 por 5,5 cm. A G (R$ 26,99) mede 23 por 7 cm.",
-          "Caixa de transporte: a Furacão Pet Joy Tam 1 mede 26,5 por 31 por 46 cm. A ficha fala em fácil montagem e diz que a caixa não tem parafusos ou outros objetos perfurantes. Ela não informa o peso máximo do animal, então esse dado fica sem resposta aqui."
+          "**Tapete higiênico:** O pacote da Petz traz 30 unidades no tamanho M (60 × 80 cm, área de absorção de 60 × 50 cm), com fita adesiva no verso e atrativo canino.",
+          "**Brinquedo:** O macaco de pelúcia da Spike é de poliéster, mede 50 × 12 × 5 cm, tem olhos bordados e apito interno. Supervisione o uso se o filhote costuma rasgar pelúcias.",
+          "**Escova:** A Chalesco Special Pets P mede 17 × 5,5 cm e tem dupla face, com um lado em cerdas de aço inox e o outro de cerdas de pelo.",
+          "**Caixa de transporte:** A Furacão Pet Joy Tam 1 mede 26,5 × 31 × 46 cm, suporta até 5 kg, fecha com quatro travas laterais sem parafusos e não segue padrão IATA para porão de avião."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+            "alt": "Caixa de transporte Furacão Pet Joy Preta Tam 1 com travas laterais e abertura frontal",
+            "caption": "Caixa Furacão Pet Joy Tam 1: até 5 kg, sem parafusos e fora do padrão IATA. Foto: Petz.",
+            "href": "https://www.petz.com.br/produto/caixa-de-transporte-furacao-pet-joy-preta-para-caes-e-gatos-tam-1-175246",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Se o cachorro for adulto ou de porte médio e grande",
+        "paragraphs": [
+          "Se você já adotou um cão adulto ou espera um filhote de porte médio ou grande, ração e caixa de transporte são os dois itens que mudam de categoria e mais mexem no orçamento.",
+          "Regra prática, sem teste nosso, ao montar o enxoval em casa: compre a caixa de transporte pensando no tamanho previsto do cão e confira se ele consegue ficar em pé e dar uma volta completa lá dentro, para não perder o acessório em poucas semanas."
+        ],
+        "bullets": [
+          "**Filhote de raça grande:** A [Ração Golden Mega Filhotes Raças Grandes Frango e Arroz 15 kg](https://www.petz.com.br/produto/racao-golden-caes-filhotes-racas-grandes-sabor-frango-e-arroz-15kg-71349) aparece por R$ 189,99 (R$ 170,99 na simulação com EMCASA).",
+          "**Cão adulto:** A [Ração Golden Special Adultos Frango e Carne 15 kg](https://www.petz.com.br/produto/racao-golden-special-para-caes-adultos-sabor-frango-e-carne-71343) custa R$ 159,99 (R$ 143,99 na simulação com o código).",
+          "**Caixa intermediária (5 a 10 kg):** A [Caixa Furacão Pet Luxo Tam 3](https://www.petz.com.br/produto/caixa-de-transporte-luxo-furacao-pet-preto-e-azul-95016) estava em oferta de R$ 199,99 por R$ 154,79.",
+          "**Caixa grande com padrão IATA:** A [Caixa Chalesco Gulliver com Rodinhas](https://www.petz.com.br/produto/caixa-de-transporte-chalesco-gulliver-cinza-com-rodinhas-76962) estava de R$ 1.899,99 por R$ 959,00 em oferta, com o tamanho 6 disponível em estoque."
         ]
       },
       {
         "heading": "O que ficou fora da lista",
         "paragraphs": [
-          "Antipulgas, vermífugo e vacina não entram: são decisões de saúde, e quem indica produto e momento é o veterinário. Também deixei de fora a ração de filhote de linha para cães em treinamento e competição, que a ficha descreve para esse uso.",
-          "Para porte médio ou grande, ração, caixa e comedouro mudam de tamanho, e a lista não cobre esses itens. Se a casa já tem parte do enxoval, tire as linhas correspondentes da tabela e refaça a soma."
+          "Antipulgas, vermífugos, vacinas e suplementos ficam fora desta soma porque dependem de avaliação presencial e peso exato em consulta veterinária.",
+          "Se a casa já tem tigelas, cama ou caixa de outro animal, basta remover essas linhas da tabela e refazer a conta com o que realmente falta comprar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quanto custa o enxoval de um filhote de cachorro na Petz? Os dez itens do exemplo somam cerca de 488 reais antes do frete. Na simulação com o EMCASA, ficam em cerca de 462 reais. O carrinho e o frete dependem do CEP.",
-          "A Petz dá desconto no enxoval? O EMCASA aplica 10% nos itens elegíveis. Em item promocional fica o maior desconto. Veja na sacola quanto ele tirou do seu pedido.",
-          "Qual ração de filhote comprar? A lista usa a Golden Special para filhotes de porte pequeno, cuja ficha traz tabela de consumo por porte e peso. A escolha da ração e a quantidade, na dúvida, são do veterinário.",
-          "Precisa de peitoral ou coleira para filhote? A lista traz o peitoral Spike Geo PP e a guia, e a ficha do peitoral fala em regulagem no pescoço e na cintura. Quando e como sair com o filhote, o veterinário orienta.",
-          "Quantas unidades de tapete higiênico comprar? A embalagem da lista traz 30 unidades. A ficha não diz quantos tapetes um filhote usa, e esse número depende da rotina da casa."
+          "Quanto custa o enxoval de um filhote de cachorro na Petz? Os dez itens para porte pequeno somam cerca de 488 reais pelos preços das páginas e caem para cerca de 463 reais na simulação com o EMCASA antes do frete; cada linha com os centavos está na tabela do início.",
+          "O cupom EMCASA funciona em todo o enxoval da Petz? A regra da Petz é manter o maior desconto por item, sem somar percentuais; nesta simulação, o EMCASA baixou os quatro itens sem desconto maior e a sacola manteve a oferta nos outros seis.",
+          "A Guia Toh Corda Preta enferruja? Na página da Petz, a guia de 1,20 m tem miolo de 6 cordas trançadas e mosquetão em Zamac que não enferruja com tração de até 240 kg.",
+          "Qual caixa de transporte escolher se o filhote passar de 5 kg? A Furacão Pet Joy Tam 1 atende até 5 kg; para 5 a 10 kg, há a Furacão Pet Luxo Tam 3, e para cães maiores ou viagem aérea no padrão IATA, a Chalesco Gulliver.",
+          "Assinatura Petz ou EMCASA sai mais barato nesse enxoval? Nos quatro itens sem desconto maior desta lista, ambos aplicam 10% OFF e empatam no valor, sem acumular entre si."
         ]
       }
     ],
@@ -311186,23 +311309,23 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "O cachorro vai ser de porte pequeno: a ração da lista é dessa linha, e a conta já traz o total.",
-        "Você quer um ponto de partida com preço de cada item e a explicação de onde o EMCASA entra."
+        "Você está preparando a chegada de um filhote de porte pequeno e quer uma lista fechada com preços individuais e o efeito real do EMCASA.",
+        "Você prefere substituir apenas ração ou caixa de transporte usando os links prontos para cães adultos ou de porte maior."
       ],
       "skipIf": [
-        "O cachorro vai ser de porte médio ou grande: ração, caixa e comedouro mudam de tamanho e de preço.",
-        "A casa já tem parte dos itens: nesse caso, refaça a soma só com o que falta."
+        "A casa já tem a maior parte dos acessórios e você só precisa repor tapete ou ração avulsa.",
+        "Você busca prescrição de antipulgas, vermífugos ou dieta específica, que dependem do veterinário."
       ]
     },
     "cta": {
-      "text": "Abre a loja emcasa da Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+      "text": "Abre a loja emcasa na Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola antes de pagar.",
       "label": "Ir para a Petz",
       "url": "https://petz.com.br/parceiro/emcasa",
       "sponsored": true
     },
     "coupon": "EMCASA",
     "affiliate": "petz",
-    "editorialNote": "Preços lidos nas páginas da Petz, sem login e sem CEP. Não testamos os produtos: o texto segue o que a loja publica. Somos parceiros da Petz e podemos receber comissão pelo código EMCASA.",
+    "editorialNote": "Preços lidos na Petz. Ninguém da equipe usou. Somos parceiros e podemos receber comissão pelo EMCASA.",
     "relatedArticles": [
       {
         "slug": "cupom-petz-como-usar"
@@ -311224,8 +311347,9 @@ export const reviewsData: unknown[] = [
   {
     "id": 1278,
     "slug": "peitoral-cachorro-que-puxa-petz",
+    "locale": "pt",
     "title": "Peitoral para cachorro que puxa: os modelos da Petz, com preço e medidas",
-    "seoTitle": "Peitoral para cachorro que puxa: modelos Petz",
+    "seoTitle": "Peitoral antipuxão na Petz: SofterWalk e outros modelos",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -311236,8 +311360,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Peitorais da Petz com preço, tamanhos e medidas de cada ficha: quais falam em “Inibe puxões” e quais não. Zee.Dog, Spike e Petz, pelo que a loja publica.",
-    "metaDescription": "EMCASA dá 10% OFF na Petz. Veja os peitorais para cachorro que puxa, com tamanho, medida e o que cada ficha diz.",
+    "description": "Compare os sete peitorais da Petz por preço, medidas e posição das argolas: só a linha SofterWalk traz argola frontal no peito, além de FlyHarness, Spike Geo e Pastel Mint.",
+    "metaDescription": "EMCASA dá 10% OFF na Petz. Veja quais peitorais têm argola frontal antipuxão, compare FlyHarness, Spike Geo e Pastel Mint com preços e medidas.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
     "draft": false,
@@ -311250,100 +311374,124 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Se você procura argola na frente do peito, as fichas dos SofterWalk da Zee.Dog descrevem esse encaixe. Compare as medidas do tórax e da frente para o modelo escolhido. Spike Geo e Pastel Mint são opções de menor preço nas fichas consultadas. O FlyHarness se diferencia pelo fecho rápido e pela alça."
+          "Entre os sete peitorais analisados na Petz, apenas os quatro modelos SofterWalk da Zee.Dog trazem argola frontal no peito para inibir puxões. FlyHarness, Spike Geo e Pastel Mint prendem a guia apenas no dorso e entram como alternativas de encaixe rápido ou menor custo. Confira abaixo preços, medidas e pontos de fixação."
         ]
       },
       {
         "heading": "Os modelos lado a lado",
         "paragraphs": [
-          "A tabela reúne quatro SofterWalk, um FlyHarness e dois modelos de entrada. Veja quais têm fixação frontal indicada na ficha e compare o preço no tamanho que serve no seu cachorro."
+          "Este guia reúne quatro modelos SofterWalk (os únicos do conjunto com argola frontal antipuxão), o colete FlyHarness Gotham (alternativa de vestir rápido com um clique e alça superior) e dois peitorais em H de entrada (Spike Geo e Pastel Mint), para você comparar função e preço antes de abrir cada página na Petz."
         ],
         "comparisonTable": {
-          "caption": "Preço da página de cada produto em 21/11/2026, sem CEP. O valor na sacola pode mudar com a região.",
+          "caption": "Preços nas páginas da Petz em 21/11, sem CEP. A coluna do EMCASA simula 10% onde não há oferta maior; Assinatura e cupom não acumulam.",
           "headers": [
             "Modelo",
             "Tamanhos",
             "Preço na página",
-            "O que a ficha informa"
+            "Assinante Petz",
+            "Simulação EMCASA",
+            "Fixação da guia"
           ],
           "rows": [
             [
-              "SofterWalk Gotham (Zee.Dog)",
+              "[SofterWalk Gotham (Zee.Dog)](https://www.petz.com.br/produto/peitoral-anti-puxao-zeedog-softerwalk-gotham-para-caes-182094)",
               "P, M e G",
-              "R$ 179,00 em todos",
-              "Sim: “Inibe puxões”"
+              "R$ 179,00",
+              "R$ 161,10",
+              "R$ 161,10",
+              "Argola frontal no peito + dorso (“Inibe puxões”)"
             ],
             [
-              "SofterWalk Nox (Zee.Dog)",
+              "[SofterWalk Nox (Zee.Dog)](https://www.petz.com.br/produto/peitoral-anti-puxao-zeedog-softerwalk-nox-para-caes-186592)",
               "P, M e G",
-              "R$ 199,00 em todos",
-              "Sim: “Inibe puxões”"
+              "R$ 199,00",
+              "R$ 179,10",
+              "R$ 179,10",
+              "Argola frontal no peito + dorso (“Inibe puxões”)"
             ],
             [
-              "SofterWalk H3D Fly (Zee.Dog)",
+              "[SofterWalk H3D Fly (Zee.Dog)](https://www.petz.com.br/produto/peitoral-anti-puxao-zee-dog-softerwalk-h3d-fly-para-caes-201118)",
               "P, M e G",
-              "R$ 179,00 em todos",
-              "Sim: “Peitoral Antipuxão”"
+              "R$ 179,00",
+              "R$ 161,10",
+              "R$ 161,10",
+              "Argola frontal no peito + dorso (“Peitoral Antipuxão”)"
             ],
             [
-              "SofterWalk Voyage (Zee.Dog)",
+              "[SofterWalk Voyage (Zee.Dog)](https://www.petz.com.br/produto/peitoral-anti-puxao-zee-dog-softerwalk-voyage-para-caes-182101)",
               "P, M e G",
-              "R$ 179,00 em todos",
-              "Sim: “Inibe puxões”"
+              "R$ 179,00",
+              "R$ 161,10",
+              "R$ 161,10",
+              "Argola frontal no peito + dorso (“Inibe puxões”)"
             ],
             [
-              "FlyHarness Gotham (Zee.Dog)",
-              "T1 a T5",
-              "R$ 279,00 em todos",
-              "Não usa a palavra"
+              "[FlyHarness Gotham (Zee.Dog)](https://www.petz.com.br/produto/peitoral-zeedog-flyharness-gotham-para-caes-169609)",
+              "Tam 1 a Tam 5",
+              "R$ 279,00",
+              "R$ 251,10",
+              "R$ 251,10",
+              "Somente argola dorsal + alça de controle (sem argola frontal)"
             ],
             [
-              "Spike Geo",
+              "[Spike Geo](https://www.petz.com.br/produto/peitoral-spike-geo-para-caes-179326)",
               "PP, P, M e G",
-              "De R$ 31,99 (PP) a R$ 49,99 (G)",
-              "Não usa a palavra"
+              "R$ 31,99 (PP) a R$ 49,99 (G)",
+              "10% OFF (PP R$ 28,79)",
+              "R$ 28,79 (PP) a R$ 44,99 (G)",
+              "Duas argolas no dorso, em H (sem argola frontal)"
             ],
             [
-              "Pastel Mint (Petz)",
-              "PP, P, M e G",
-              "PP R$ 28,49 (em oferta), P R$ 32,99, G R$ 39,99",
-              "Não usa a palavra"
+              "[Pastel Mint (Petz)](https://www.petz.com.br/produto/peitoral-petz-pastel-mint-para-caes-179897)",
+              "PP, P e G (M ausente no seletor)",
+              "PP R$ 28,49 (oferta), P R$ 32,99, G R$ 39,99",
+              "Mantém oferta da página",
+              "Mantém oferta da página",
+              "Duas argolas no dorso, em H (sem argola frontal)"
             ]
           ]
         },
         "postParagraphs": [
-          "Nos preços da tabela, o SofterWalk Gotham G custa R$ 129,01 a mais que o Spike Geo G. A ficha do Gotham descreve a argola na frente do peito e a alça de controle. Use a tabela de medidas de cada um antes de comparar a compra.",
-          "O [cupom Petz](/cupons/petz) dá 10% nos itens elegíveis. Num item em oferta, fica o maior desconto. Estes modelos não foram testados no carrinho. Veja [como usar o EMCASA](/reviews/cupom-petz-como-usar)."
+          "Conta nossa, pelos preços da tabela: o SofterWalk Gotham G custa R$ 129,01 a mais que o Spike Geo G, diferença ligada à construção com argola peitoral, alça de neoprene e trava de quatro pontos. A regra do [cupom Petz](/cupons/petz) é manter o maior desconto por item, sem somar percentuais: nos modelos sem desconto maior, o EMCASA aplica 10% na sacola (mesmo percentual do preço de assinante, sem acumular os dois); no Pastel Mint, já com 58% a 60% OFF, a sacola conserva o valor promocional.",
+          "Confira como aplicar o código e somar com retirada em loja no guia de [como usar o EMCASA na Petz](/reviews/cupom-petz-como-usar) e compare compra avulsa vs plano em [Assinatura Petz ou cupom](/reviews/assinatura-petz-ou-cupom)."
         ]
       },
       {
-        "heading": "SofterWalk: o que a ficha descreve",
+        "heading": "SofterWalk: argola frontal e detalhes do modelo",
         "paragraphs": [
-          "A linha SofterWalk, da Zee.Dog, é a que a Petz descreve como peitoral antipuxão. A loja informa nas fichas do Gotham, do Nox e do Voyage: “Perfeito para cães que puxam” e “Inibe puxões”. A do H3D Fly chama o modelo de “Peitoral Antipuxão” e fala em “reduzindo o impacto e desconforto de grandes puxões”.",
-          "As fichas coincidem em quatro pontos:"
+          "A linha SofterWalk concentra os únicos modelos desta lista feitos para prender a guia na frente do peito. A loja informa: nas páginas do Gotham, do Nox e do Voyage, o peitoral é descrito como “Perfeito para cães que puxam” e “Inibe puxões”; na do H3D Fly, o produto aparece como “Peitoral Antipuxão” e fala em reduzir o impacto e o desconforto de grandes puxões.",
+          "Nos quatro modelos, o funcionamento segue a mesma lógica:"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+            "alt": "Peitoral Zee.Dog SofterWalk Gotham mostrando a argola frontal no peito e a argola dorsal",
+            "caption": "SofterWalk Gotham: argola frontal no peito e argola nas costas. Foto: Zee.Dog / Petz.",
+            "href": "https://www.petz.com.br/produto/peitoral-anti-puxao-zeedog-softerwalk-gotham-para-caes-182094",
+            "objectFit": "contain",
+            "aspectRatio": 2.0548
+          }
         ],
         "bullets": [
-          "**Argola.** “2 opções de argola: no peito e no dorso”. No H3D Fly, a do dorso fica junto da alça de controle, “caso prefira uma configuração de peitoral padrão”.",
-          "**Alça de controle.** Forrada com neoprene no Gotham, no Nox e no Voyage.",
-          "**Ajuste.** “Tiras totalmente reguláveis”.",
-          "**Fecho.** “Sistema de trava em 4 pontos” no Gotham e no Nox; o H3D Fly fala em “super fecho com sistema de trava”."
+          "**Duas argolas em posições opostas:** uma argola frontal no peito para o modo antipuxão e outra dorsal para o passeio tradicional.",
+          "**Alça de controle:** presente no dorso (forrada com neoprene no Gotham, no Nox e no Voyage; no H3D Fly, fica junto da argola traseira).",
+          "**Ajuste e trava:** tiras totalmente reguláveis e fecho com sistema de trava em quatro pontos no Gotham e no Nox (e super fecho com sistema de trava no H3D Fly)."
         ],
         "postParagraphs": [
-          "As fichas não dizem que o peitoral resolve o puxão. O texto fica no que a loja publica.",
-          "Vale para quem quer a argola na frente do peito e a opção de trocar para o dorso. Se o seu cachorro está fora das faixas de medida da tabela abaixo, o SofterWalk não serve, e a ficha não diz o que fazer nesse caso."
+          "Vale para quem precisa da argola peitoral sem abrir mão da argola traseira. Não escolha se o seu cão ficar fora das medidas do P ao G ou se você espera que o acessório substitua treino e condução."
         ]
       },
       {
-        "heading": "Medidas do SofterWalk, modelo a modelo",
+        "heading": "Medidas do SofterWalk e a divergência do Voyage",
         "paragraphs": [
-          "A mesma linha não tem a mesma tabela em todos os modelos. O Gotham e o Nox trazem as mesmas faixas; o Voyage e o H3D Fly têm faixas próprias, e o H3D Fly chama a segunda medida de “regulagem do peito”, não “da frente”. Compare sempre na página do modelo que você vai comprar."
+          "Mesmo dentro da família SofterWalk, as faixas em centímetros mudam entre as versões. O Gotham e o Nox compartilham a mesma grade, o H3D Fly usa medida própria chamada “peito” em vez de “frente”, e a página do Voyage merece atenção extra antes do clique."
         ],
         "comparisonTable": {
-          "caption": "Medidas aproximadas das fichas, em centímetros. A coluna da direita segue o nome que cada ficha usa.",
+          "caption": "Medidas aproximadas das páginas da Petz, em centímetros.",
           "headers": [
             "Modelo e tamanho",
-            "Regulagem do tórax",
-            "Regulagem da frente (peito no H3D Fly)"
+            "Tórax",
+            "Frente (peito no H3D Fly)"
           ],
           "rows": [
             [
@@ -311362,17 +311510,17 @@ export const reviewsData: unknown[] = [
               "25 a 33"
             ],
             [
-              "Voyage, P",
+              "Voyage, P (tabela em texto)",
               "41 a 54",
               "24 a 26"
             ],
             [
-              "Voyage, M",
+              "Voyage, M (tabela em texto)",
               "61 a 80",
               "33 a 40"
             ],
             [
-              "Voyage, G",
+              "Voyage, G (tabela em texto)",
               "78 a 106",
               "42 a 50"
             ],
@@ -311394,56 +311542,77 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Gotham e no Nox, as faixas de tórax do M e do G se cruzam: de 74 a 79 cm cabem os dois tamanhos. A ficha não diz qual escolher nessa faixa; olhe também a medida da frente, que é de 22 a 31 cm no M e de 25 a 33 cm no G."
+          "No SofterWalk Voyage, há uma divergência dentro da própria página da Petz: a tabela em texto das especificações lista as faixas acima, enquanto a foto 3 da galeria exibe a tabela da versão clássica (48–61 / 58–79 / 74–105 cm de tórax). Se a medida do seu cachorro cair exatamente na fronteira entre dois tamanhos no Voyage, confirme as tiras na entrega antes de tirar a etiqueta.",
+          "Também no Gotham e no Nox, o tórax de 74 a 79 cm cabe tanto no M quanto no G: nesse caso, desempate pela largura da frente."
         ]
       },
       {
-        "heading": "FlyHarness: o que a ficha não diz",
+        "heading": "FlyHarness Gotham: colete sem argola frontal",
         "paragraphs": [
-          "O FlyHarness Gotham é o mais caro da lista. A ficha não usa a palavra antipuxão: fala em “alça de controle para melhor domínio sobre o cachorro”, em “sistema de ajuste rápido com 2 tiras” e em “basta um clique para colocar e tirar”, além de faixa refletiva 360°. Por isso o texto não o chama de antipuxão.",
-          "Os tamanhos vão de T1 a T5, com a regulagem medida no peito."
+          "O [FlyHarness Gotham](https://www.petz.com.br/produto/peitoral-zeedog-flyharness-gotham-para-caes-169609) é o modelo mais caro da lista, mas não é um peitoral antipuxão. Ele tem formato de colete em trama aerada, faixa refletiva 360 graus, ajuste rápido com duas tiras para vestir com um clique e uma alça superior de controle para segurar o cão em aproximações curtas.",
+          "O ponto decisivo da fixação: ele traz apenas argola dorsal e não tem argola frontal no peito. Entre os tamanhos Tam 1 a Tam 5, a única faixa informada na página é a circunferência do peito."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+            "alt": "Peitoral Zee.Dog FlyHarness Gotham mostrando a alça de controle e argola dorsal",
+            "caption": "FlyHarness Gotham: alça superior e argola apenas nas costas, sem argola no peito. Foto: Zee.Dog / Petz.",
+            "href": "https://www.petz.com.br/produto/peitoral-zeedog-flyharness-gotham-para-caes-169609",
+            "objectFit": "contain",
+            "aspectRatio": 2.0548
+          }
         ],
         "comparisonTable": {
-          "caption": "FlyHarness Gotham, medidas da ficha em centímetros.",
+          "caption": "Medidas publicadas para o FlyHarness Gotham, em centímetros.",
           "headers": [
             "Tamanho",
-            "Regulagem do peito"
+            "Peito"
           ],
           "rows": [
             [
-              "T1",
+              "Tam 1",
               "34 a 45"
             ],
             [
-              "T2",
+              "Tam 2",
               "43 a 65"
             ],
             [
-              "T3",
+              "Tam 3",
               "55 a 77"
             ],
             [
-              "T4",
+              "Tam 4",
               "62 a 86"
             ],
             [
-              "T5",
+              "Tam 5",
               "73 a 103"
             ]
           ]
         },
         "postParagraphs": [
-          "É um modelo para quem gosta do fecho de um clique e da faixa refletiva e não procura a frase sobre puxões na ficha. Quem procura essa frase tem o SofterWalk."
+          "Escolha o FlyHarness se a prioridade for praticidade para vestir, visibilidade noturna e alça de apoio rápido nas costas. Se você quer reduzir trancos pela guia presa no peito, fique na linha SofterWalk."
         ]
       },
       {
         "heading": "Spike Geo e Pastel Mint: a versão de entrada",
         "paragraphs": [
-          "Os dois são regulados no pescoço e na cintura, com duas posições para prender a guia, segundo as fichas. O Pastel Mint, da própria Petz, é feito de poliéster e a ficha cita “textura macia e sedosa”. Nenhuma das duas fichas fala em puxão ou antipuxão.",
-          "Servem a quem quer um peitoral simples para o passeio e gasta menos. Quem escolheu o peitoral pela frase “Inibe puxões” não a encontra aqui."
+          "Tanto o [Spike Geo](https://www.petz.com.br/produto/peitoral-spike-geo-para-caes-179326) quanto o [Pastel Mint](https://www.petz.com.br/produto/peitoral-petz-pastel-mint-para-caes-179897) são peitorais em H tradicionais: nenhum dos dois possui argola frontal no peito nem cita função antipuxão.",
+          "As duas argolas ficam na tira do dorso (costas), uma perto da alça do pescoço e outra próxima à cintura, para variar o encaixe da guia sem puxar pelo peito. No Pastel Mint, o tamanho M estava ausente no seletor da Petz; os tamanhos disponíveis estavam com 58% a 60% OFF (de R$ 69,99 no PP a R$ 99,99 no G)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+            "alt": "Peitoral Petz Pastel Mint em H aberto exibindo as duas argolas na tira dorsal",
+            "caption": "Pastel Mint aberto: formato em H com duas argolas nas costas e nenhuma no peito. Foto: Petz.",
+            "href": "https://www.petz.com.br/produto/peitoral-petz-pastel-mint-para-caes-179897",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
         ],
         "comparisonTable": {
-          "caption": "Medidas das fichas, em centímetros.",
+          "caption": "Medidas dos peitorais em H na Petz, em centímetros.",
           "headers": [
             "Modelo e tamanho",
             "Pescoço",
@@ -311481,7 +311650,7 @@ export const reviewsData: unknown[] = [
               "32 a 53"
             ],
             [
-              "Pastel Mint, M",
+              "Pastel Mint, M (ausente no seletor)",
               "37 a 53",
               "42 a 69"
             ],
@@ -311491,37 +311660,43 @@ export const reviewsData: unknown[] = [
               "62 a 107"
             ]
           ]
-        }
+        },
+        "postParagraphs": [
+          "Servem bem para passeios tranquilos gastando pouco, inclusive para filhotes que ainda vão crescer rápido. Para cão que traciona forte o braço, a fixação dorsal tende a facilitar a alavanca do corpo do cachorro."
+        ]
       },
       {
         "heading": "Como medir antes de comprar",
         "paragraphs": [
-          "Meça o tórax e consulte o ponto de medição indicado para o modelo. A ficha de alguns usa “frente do peito” e a de outros usa “pescoço”. Use o desenho ou a orientação da marca antes de aplicar a medida a outra linha.",
-          "Se a medida cair entre dois tamanhos, ou se o cachorro estiver em crescimento, compare as faixas dos dois na página do modelo. Na dúvida sobre o ajuste no seu animal, o veterinário orienta."
+          "O erro mais comum na compra online é medir apenas o tórax ou usar a tabela de uma linha para comprar outra. Nos peitorais SofterWalk, você precisa do contorno do tórax (atrás das patas dianteiras) e da largura frontal no peito, enquanto nos peitorais em H o segundo ponto é o pescoço.",
+          "Regra prática, sem teste nosso, ao passar a fita métrica: meça o cachorro em pé e deixe uma folga de dois dedos entre a fita e o pelo, para a tira não incomodar quando ele caminhar ou trotar."
         ],
-        "image": {
-          "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
-          "alt": "Quadro «Medir antes de comprar»: passar a fita no tórax, medir também o pescoço ou a frente, comparar com a tabela da página do modelo e, entre dois tamanhos, olhar as duas faixas.",
-          "caption": "Quadro: Em Casa com Cecília.",
-          "objectFit": "contain",
-          "aspectRatio": 1
-        }
+        "images": [
+          {
+            "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+            "alt": "Diagrama oficial Zee.Dog indicando onde passar a fita métrica na frente e no tórax",
+            "caption": "Diagrama oficial da Zee.Dog mostrando onde passar a fita métrica na frente do peito (Frente) e atrás das patas dianteiras (Tórax), com números ilustrativos do tamanho M daquele catálogo (61–80 cm de tórax e 33–40 cm de frente); na página do Gotham na Petz, o M consta como 58–79 cm e 22–31 cm. Fonte: Zee.Dog.",
+            "href": "https://www.petz.com.br/produto/peitoral-anti-puxao-zeedog-softerwalk-gotham-para-caes-182094",
+            "objectFit": "contain",
+            "aspectRatio": 0.8271
+          }
+        ]
       },
       {
         "heading": "Qual peitoral escolher",
         "paragraphs": [
-          "Se você procura a palavra puxão na ficha, os quatro SofterWalk são os que a trazem. O Gotham, o H3D Fly e o Voyage custam o mesmo na página, e o Nox é o mais caro da linha. Escolha pela tabela de medidas, que muda de um modelo para outro.",
-          "Se o orçamento é menor e um peitoral simples basta, o Spike Geo e o Pastel Mint cobrem do PP ao G. O FlyHarness fica para quem quer o fecho rápido e aceita pagar mais por ele. A escolha segue o que cada ficha diz e o seu cachorro na fita métrica."
+          "Se a prioridade é ter argola frontal no peito para ajudar no controle dos puxões, escolha dentro da linha SofterWalk pela tabela do modelo: Gotham, H3D Fly e Voyage empatam no preço, enquanto o Nox custa R$ 20 a mais na vitrine ou R$ 18 a mais na simulação com 10% para os dois.",
+          "Se o seu cachorro já anda sem puxar e você quer vestir em segundos com alça superior e faixa refletiva, o FlyHarness Gotham atende melhor, embora seja o mais caro da tabela. Já para orçamento enxuto ou cão em crescimento sem puxão intenso, o Spike Geo e o Pastel Mint entregam regulagem em H por menos de um terço do valor."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Peitoral antipuxão funciona? A Petz descreve argola frontal nos modelos SofterWalk. Esse é um recurso da ficha. Para escolher pelo ajuste e pela condução do seu cachorro, confirme as medidas e peça orientação de um profissional se precisar.",
-          "Qual peitoral para cachorro que puxa tem na Petz? Pela ficha, os SofterWalk da Zee.Dog, com argola no peito e no dorso; a tabela do início mostra preço e tamanhos.",
-          "Como saber o tamanho do peitoral? Meça o cachorro com fita e compare com a tabela de medidas da página do modelo, que muda de um modelo para outro, até na mesma linha.",
-          "Peitoral Zee.Dog tem cupom? O EMCASA dá 10% nos itens fora de oferta. Confira a linha do desconto na sacola, e veja o passo a passo no guia do cupom.",
-          "O FlyHarness é antipuxão? A ficha não usa essa palavra; ela fala em alça de controle e ajuste com duas tiras."
+          "Quais peitorais da lista têm argola frontal no peito? Apenas os quatro modelos SofterWalk da Zee.Dog (Gotham, Nox, H3D Fly e Voyage) contam com argola peitoral além da argola nas costas.",
+          "O FlyHarness Gotham é peitoral antipuxão? Não pela fixação da guia: ele traz apenas argola dorsal e alça superior de controle, sem argola no peito.",
+          "O Spike Geo e o Pastel Mint têm duas argolas para antipuxão? As duas argolas desses modelos em H ficam na tira do dorso, próximas ao pescoço e à cintura, sem encaixe frontal no peito.",
+          "Por que as medidas do diagrama da Zee.Dog diferem das do Gotham na Petz? O diagrama oficial usa as medidas ilustrativas do M daquele catálogo, enquanto na Petz o Gotham e o Nox usam grade clássica menor; confira sempre a tabela de texto do modelo escolhido.",
+          "O cupom EMCASA funciona em todos os peitorais? A sacola da Petz fica com o maior desconto por item, sem somar percentuais: o EMCASA reduz 10% nos modelos sem desconto maior, enquanto em promoções acima disso, como o Pastel Mint, vale o preço promocional da página."
         ]
       }
     ],
@@ -311529,29 +311704,32 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você procura a frase sobre puxões na ficha e quer a argola no peito e no dorso: os SofterWalk são os que a trazem.",
-        "Você quer um peitoral simples e gasta menos: o Spike Geo ou o Pastel Mint cobrem do PP ao G."
+        "Você procura um peitoral com argola frontal no peito e quer comparar as faixas de medida reais entre Gotham, Nox, H3D Fly e Voyage.",
+        "Você quer saber o que muda no encaixe antes de pagar mais caro pelo FlyHarness ou economizar no Spike Geo e Pastel Mint."
       ],
       "skipIf": [
-        "Seu cachorro está fora das faixas de medida do modelo que você escolheu, pequeno ou grande demais.",
-        "Você espera uma promessa de resultado no passeio: nenhuma ficha lida a faz."
+        "As medidas de tórax ou frente do seu cachorro ficam fora das grades P a G da linha SofterWalk ou Tam 1 a Tam 5 do FlyHarness.",
+        "Você busca o tamanho M do Pastel Mint imediatamente e ele continuar ausente no seletor da loja."
       ]
     },
     "cta": {
-      "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o código aplicado. O EMCASA vai no campo “Digite seu cupom” da sacola.",
+      "text": "Entre pelo botão para abrir a loja emcasa na Petz e cole o EMCASA no campo “Digite seu cupom” da sacola antes de finalizar.",
       "label": "Ir para a Petz",
       "url": "https://petz.com.br/parceiro/emcasa",
       "sponsored": true
     },
     "coupon": "EMCASA",
     "affiliate": "petz",
-    "editorialNote": "Preços e medidas vêm das fichas da Petz, sem login e sem CEP. Ninguém da equipe usou os peitorais. Somos parceiros da Petz e podemos receber comissão pelo código EMCASA.",
+    "editorialNote": "Dados das páginas da Petz. Ninguém da equipe usou. Somos parceiros e podemos receber comissão pelo EMCASA.",
     "relatedArticles": [
       {
         "slug": "cupom-petz-como-usar"
       },
       {
         "slug": "assinatura-petz-ou-cupom"
+      },
+      {
+        "slug": "enxoval-filhote-cachorro-lista-com-preco"
       },
       {
         "slug": "petz-entrega-expressa-ou-retirar-na-loja"

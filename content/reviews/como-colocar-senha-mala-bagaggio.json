@@ -1,8 +1,8 @@
 {
   "id": 1274,
   "slug": "como-colocar-senha-mala-bagaggio",
-  "title": "Senha da mala Bagaggio: o que a loja informa e como falar com o atendimento",
-  "seoTitle": "Senha da mala Bagaggio: como colocar e o que fazer",
+  "title": "Como colocar senha na mala Bagaggio com cadeado TSA",
+  "seoTitle": "Como colocar senha na mala Bagaggio com cadeado TSA",
   "type": "Guia Prático",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Bagaggio não publica passo a passo de senha. Veja que cadeado cada modelo traz, o que a página do produto diz e o caminho do chat se você esqueceu a combinação.",
-  "metaDescription": "CECILIA10 dá 10% OFF na Bagaggio. Veja que cadeado a sua mala tem e como pedir ajuda com a senha ao atendimento da loja.",
+  "description": "Passo a passo oficial da Bagaggio para configurar a senha do cadeado TSA embutido com botão de reset, o que fazer nos outros modelos e quando acionar o chat.",
+  "metaDescription": "Veja como configurar o cadeado TSA embutido da mala Bagaggio com CECILIA10 (10% OFF no site), os outros modelos e quando chamar o suporte.",
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
   "draft": false,
@@ -28,160 +28,174 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Veja se o cadeado da sua mala Bagaggio abre com chave ou combinação. O cadeado pode vir preso à mala, como em modelos Detroit. Se você precisa definir, trocar ou recuperar a senha, leve o modelo e uma foto do cadeado ao chat da Bagaggio."
+        "No cadeado TSA embutido da Bagaggio com botão de reset, a senha de fábrica é 0-0-0: abra a trava, pressione o botão A com um objeto pontiagudo até o estalo, gire os discos para a nova combinação e encaixe os zíperes. Modelos sem botão, cadeados avulsos e senha esquecida seguem orientações diferentes abaixo."
       ]
     },
     {
-      "heading": "Que cadeado a sua mala tem?",
+      "heading": "Como identificar o cadeado da sua mala",
       "paragraphs": [
-        "Antes de procurar senha, descubra qual dos três cadeados você tem, porque cada um tem uma pergunta diferente para o atendimento. Para achar a página do seu, procure no site da Bagaggio o nome do cadeado ou da mala, como \"TSA com Segredo 4 Dígitos\" ou \"Detroit\"."
+        "Antes de mexer nos números, olhe de perto o cadeado da sua mala ou mochila para confirmar qual dos três formatos está com você. Mudar a senha do jeito errado pode travar o mecanismo com um código desconhecido."
       ],
       "bullets": [
-        "De chave: a página do cadeado TSA com chave diz que ele acompanha duas chaves e dispensa a configuração de senhas. Não tem combinação para esquecer.",
-        "De segredo numérico: as páginas descrevem uma combinação de 3 ou 4 dígitos que você mesmo define, e a do 4 dígitos Roxo diz que ela pode ser alterada sempre que você quiser.",
-        "Embutido na mala: a linha Detroit é descrita como \"cadeado com senha embutido\", e em alguns modelos como \"cadeado embutido\". O termo muda de um modelo para outro, então use o que está na página da sua mala."
+        "**Cadeado TSA embutido com botão de reset:** fica preso ao corpo da mala (como na linha [Detroit](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p)), com três discos numéricos, fechadura de chave TSA (exclusiva de agentes de aeroporto) e um furinho ou botão rebaixado marcado como reset na lateral ou na frente.",
+        "**Cadeado embutido sem botão de reset:** traz uma trava deslizante ou alavanca de abertura ao lado dos discos, sem o furinho lateral para apertar com caneta.",
+        "**Cadeado avulso (segredo ou chave):** comprado à parte para passar pelos puxadores do zíper. Os modelos de chave dispensam combinação; nos de segredo de três ou quatro dígitos ou cabo de aço, as instruções vêm na embalagem."
       ],
-      "image": {
-        "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
-        "alt": "Cadeado TSA com chave, preto, da Bagaggio, em foto oficial de produto",
-        "caption": "Cadeado TSA com Chave Preto, que a página diz vir com duas chaves. Foto: Bagaggio.",
-        "href": "https://www.bagaggio.com.br/cadeado-tsa-com-chave-preto-/p",
-        "objectFit": "contain",
-        "aspectRatio": 1
-      }
+      "images": [
+        {
+          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "alt": "Detalhe do cadeado embutido da mala de bordo Detroit preta da Bagaggio, com o disco de combinação à vista, ao lado das medidas da mala",
+          "caption": "Detalhe do cadeado com senha embutido da Mala de Bordo Detroit Preta. Foto: Bagaggio.",
+          "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Passo a passo do cadeado TSA embutido com botão de reset",
+      "paragraphs": [
+        "A loja informa: se o seu cadeado TSA embutido tem botão A de reset, a senha de fábrica é 0-0-0 e só muda com a trava aberta. Veja a ordem exata do [guia oficial da Bagaggio](https://www.bagaggio.com.br/blog/cadeado-tsa-embutido-na-mala-como-configurar-o-seu):"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "alt": "Diagrama do guia oficial da Bagaggio indicando o botão A de reset e os discos numéricos",
+          "caption": "Diagrama indicando o botão A de reset e os discos de combinação. Fonte: Bagaggio (O Guia).",
+          "href": "https://www.bagaggio.com.br/blog/cadeado-tsa-embutido-na-mala-como-configurar-o-seu",
+          "objectFit": "contain",
+          "aspectRatio": 2.952
+        }
+      ],
+      "bullets": [
+        "**Passo 1: Coloque a combinação atual (0-0-0 de fábrica):** na primeira configuração, alinhe os três discos em 0-0-0 e abra o cadeado para liberar os encaixes. Se você já usava outra senha, coloque a combinação atual.",
+        "**Passo 2: Aperte o botão A de reset:** com um objeto pontiagudo (ponta de caneta ou clipe), pressione com firmeza o botão A na lateral ou na parte frontal do cadeado até ouvir um estalo (“clack”).",
+        "**Passo 3: Escolha a nova senha nos discos:** com o botão travado na posição de ajuste, gire os discos numéricos para formar os três dígitos desejados.",
+        "**Passo 4: Feche e anote o código:** finalize fechando o cadeado ou encaixando os zíperes como pede o modelo da mala. Faça um teste rápido de abertura ainda com a mala vazia e anote a combinação em local seguro."
+      ],
+      "postParagraphs": [
+        "Lembrete sobre a marca TSA: o miolo de chave ao lado dos números não vem com chave para você abrir. Ele segue o padrão da Transportation Security Administration para permitir que agentes alfandegários abram e fechem a bagagem em inspeções internacionais sem cortar o zíper."
+      ]
+    },
+    {
+      "heading": "Outros modelos, cadeados avulsos e senha esquecida",
+      "paragraphs": [
+        "Nem toda mala ou trava da loja usa o furinho com botão A. Nos cadeados avulsos vendidos pela marca, o próprio guia oficial avisa que o passo a passo específico acompanha a embalagem do produto; já em malas com trava embutida diferente desse padrão, o caminho seguro é consultar o manual da mala ou confirmar o procedimento com o atendimento oficial da loja antes de alterar os discos.",
+        "Se você já perdeu a combinação e o cadeado fechou, não force os puxadores do zíper. O termo da marca (resumido em [garantia vitalícia da Bagaggio](/reviews/bagaggio-garantia-vitalicia)) cobre apenas defeitos de fabricação e exclui senha de cadeado perdida. Nesses casos, fale com o [atendimento da Bagaggio](https://www.bagaggio.com.br/institucional/fale-conosco) pelo chat do site (segunda a sexta, das 9h às 18h) levando o nome exato ou a etiqueta e uma foto do cadeado da sua mala."
+      ]
     },
     {
       "heading": "O que cada tipo custa e o que a página diz",
       "paragraphs": [
-        "A loja separa os cadeados avulsos por tipo. A tabela traz sete deles, com a descrição da página de cada um."
+        "Se a mala não tem trava embutida, se você perdeu a senha de um cadeado antigo ou quer travar bolsos extras da mochila, a Bagaggio vende sete modelos avulsos entre versões de chave e de combinação numérica. Atenção apenas ao modelo mais barato com chave TSA, que estava sem estoque hoje no site."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "alt": "Cadeado TSA com chave, preto, da Bagaggio, em foto oficial de produto",
+          "caption": "Cadeado TSA com Chave Preto: acompanha duas chaves e dispensa memorizar senha. Foto: Bagaggio.",
+          "href": "https://www.bagaggio.com.br/cadeado-tsa-com-chave-preto-/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "alt": "Cadeado avulso Bagaggio TSA com segredo de 3 dígitos (rosa)",
+          "caption": "Cadeado para Mala TSA com Segredo 3 dígitos Rosa. Foto: Bagaggio.",
+          "href": "https://www.bagaggio.com.br/cadeado-para-mala-tsa-com-segredo-3-digitos-rosa/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "alt": "Cadeado avulso Bagaggio TSA com cabo de aço flexível e senha ajustável (preto)",
+          "caption": "Cadeado TSA com Cabo de Aço Preto: haste flexível para passar por zíperes mais largos. Foto: Bagaggio.",
+          "href": "https://www.bagaggio.com.br/cadeado-tsa-com-cabo-de-aco-preto-/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ],
       "comparisonTable": {
-        "caption": "Preço de venda no site, 21/11",
+        "caption": "Preços e disponibilidade nas páginas da Bagaggio em 21/11, antes do frete.",
         "headers": [
           "Cadeado",
-          "Como abre, segundo a página",
-          "Preço"
+          "Abertura e sistema TSA",
+          "Preço na página"
         ],
         "rows": [
           [
-            "TSA com Chave Preto",
-            "Chave, com TSA",
-            "R$ 59,90"
+            "[Cadeado TSA com Chave Preto](https://www.bagaggio.com.br/cadeado-tsa-com-chave-preto-/p)",
+            "Chave (2 chaves), com TSA",
+            "R$ 59,90 (de R$ 79,90)"
           ],
           [
-            "Para Mala com Chave TSA Preto",
+            "[Cadeado para Mala com Chave TSA Preto](https://www.bagaggio.com.br/cadeado-para-mala-com-chave-tsa-preto-/p)",
             "Chave, com TSA",
-            "R$ 39,90"
+            "R$ 39,90 (indisponível hoje)"
           ],
           [
-            "Para Mala Bagaggio com Chave Preto",
+            "[Cadeado para Mala Bagaggio com Chave Preto](https://www.bagaggio.com.br/cadeado-para-mala-bagaggio-com-chave-preto-/p)",
             "Chave, sem TSA na página",
             "R$ 59,90"
           ],
           [
-            "Para Mala TSA com Segredo 3 Dígitos Rosa",
-            "Combinação de 3 dígitos, com TSA",
-            "R$ 49,90"
+            "[Cadeado para Mala TSA com Segredo 3 dígitos Rosa](https://www.bagaggio.com.br/cadeado-para-mala-tsa-com-segredo-3-digitos-rosa/p)",
+            "Senha de 3 dígitos, com TSA",
+            "R$ 49,90 (de R$ 69,90)"
           ],
           [
-            "TSA com Segredo 4 Dígitos Roxo",
-            "Combinação de 4 dígitos, com TSA",
+            "[Cadeado para Mala TSA com Segredo 4 Dígitos Roxo](https://www.bagaggio.com.br/cadeado-para-mala-tsa-com-segredo-4--digitos-roxo-/p)",
+            "Senha de 4 dígitos, com TSA",
             "R$ 79,90"
           ],
           [
-            "TSA com Cabo de Aço Preto",
-            "Senha numérica ajustável, com TSA",
-            "R$ 89,90"
+            "[Cadeado TSA com Cabo de Aço Preto](https://www.bagaggio.com.br/cadeado-tsa-com-cabo-de-aco-preto-/p)",
+            "Senha ajustável com cabo flexível, com TSA",
+            "R$ 89,90 (de R$ 119,90)"
           ],
           [
-            "Para Mala com 4 Dígitos Alloy Preto",
-            "Combinação de 4 dígitos, sem TSA na página",
+            "[Cadeado para Mala com 4 Dígitos Alloy Preto](https://www.bagaggio.com.br/cadeado-para-mala-com-4-digitos-alloy-preto/p)",
+            "Senha de 4 dígitos, sem TSA na página",
             "R$ 59,90"
           ]
         ]
       },
       "postParagraphs": [
-        "O cabo de aço dispensa a chave e é o mais caro da lista. Se a ideia é trocar um cadeado que você não consegue abrir, o de chave é o único em que nenhuma combinação entra na conta."
-      ]
-    },
-    {
-      "heading": "O que significa a marca TSA no cadeado",
-      "paragraphs": [
-        "Segundo as fichas da Bagaggio, o sistema TSA permite acesso aos agentes de inspeção de bagagem. Para encontrar a orientação certa para a sua mala, informe ao atendimento o modelo e se o cadeado é de chave ou de combinação."
-      ]
-    },
-    {
-      "heading": "Esqueci a senha: o que fazer em cada caso",
-      "paragraphs": [
-        "A [página de atendimento da Bagaggio](https://www.bagaggio.com.br/institucional/fale-conosco) orienta usar o chat do site, de segunda a sexta, das 9h às 18h. Abra o ícone de chat no canto inferior da página. Tenha o nome do modelo ou a etiqueta da mala e diga se quer configurar, trocar ou recuperar a senha."
-      ],
-      "bullets": [
-        "Cadeado de segredo numérico: abra o chat com o nome do modelo e pergunte como a Bagaggio orienta recuperar ou trocar a combinação. A resposta é do atendimento, e a loja não a publica.",
-        "Cadeado embutido: leve o nome da mala, como aparece na página dela, e pergunte o mesmo. O cadeado faz parte da mala, então a pergunta é sobre a mala.",
-        "Cadeado de chave: sem combinação, a dúvida vira outra. Se perdeu a chave, a pergunta ao chat é como conseguir outra, e pode ser que a resposta seja trocar o cadeado."
-      ],
-      "postParagraphs": [
-        "Sobre garantia: o Termo da loja, resumido no artigo sobre a [garantia vitalícia da Bagaggio](/reviews/bagaggio-garantia-vitalicia), cobre vício de fabricação e deixa a senha de cadeado perdida fora da cobertura. Esquecer a combinação, então, é assunto para o atendimento, não para a garantia."
-      ],
-      "image": {
-        "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
-        "alt": "Detalhe do cadeado embutido da mala de bordo Detroit preta da Bagaggio, com o disco de combinação à vista, ao lado das medidas da mala",
-        "caption": "Detalhe do cadeado embutido da Mala de Bordo Detroit Preta, em imagem da loja. Foto: Bagaggio.",
-        "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p",
-        "objectFit": "contain",
-        "aspectRatio": 1
-      }
-    },
-    {
-      "heading": "Os três tipos num quadro",
-      "paragraphs": [
-        "Para guardar no celular e abrir o chat já sabendo o que perguntar."
-      ],
-      "image": {
-        "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
-        "alt": "Quadro «Qual é o seu cadeado?»: de chave, sem combinação; de segredo, com 3 ou 4 dígitos; embutido, preso ao corpo da mala; TSA, acesso do agente na inspeção; para trocar ou recuperar a senha, o chat da Bagaggio, de segunda a sexta, das 9h às 18h.",
-        "caption": "Quadro: Em Casa com Cecília.",
-        "objectFit": "contain",
-        "aspectRatio": 1
-      }
-    },
-    {
-      "heading": "Parceria e cupom",
-      "paragraphs": [
-        "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras com o CECILIA10. O [cupom Bagaggio](/cupons/bagaggio) dá 10% OFF em todo o site, em todas as formas de pagamento. Num cadeado novo, confira a linha do desconto no carrinho. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+        "Conta nossa, pelos preços da tabela: o [cupom Bagaggio](/cupons/bagaggio) CECILIA10 dá 10% OFF em todas as formas de pagamento, inclusive em ofertas, e soma com os 5% do Pix. No TSA 3 dígitos Rosa de R$ 49,90, tira R$ 4,99 e baixa para R$ 44,91 antes do frete; veja [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Bagaggio tem manual do cadeado? Não encontramos manual nem vídeo de senha nas páginas de ajuda e de perguntas frequentes da loja. Veja o capítulo sobre o que fazer em cada caso.",
-        "Esqueci a senha, a Bagaggio troca o cadeado? A loja não publica essa resposta. O atendimento pelo chat do site decide, e o horário está no capítulo sobre senha esquecida.",
-        "O que significa TSA no cadeado? As fichas da Bagaggio identificam um sistema de acesso para agentes de inspeção de bagagem. Para dúvidas sobre a senha da sua mala, procure o chat com o nome do modelo.",
-        "O cupom Bagaggio vale para o cadeado? O CECILIA10 vale em todo o site. Confira a linha do desconto no carrinho com o cadeado dentro."
+        "Qual é a senha padrão de fábrica da mala Bagaggio? Nos cadeados TSA embutidos descritos no guia oficial da Bagaggio, a combinação inicial de fábrica é 0-0-0.",
+        "Como resetar a senha do cadeado TSA embutido com botão A? Coloque 0-0-0 (ou a senha atual) para abrir, aperte firme o botão A até ouvir o estalo e gire os discos para a nova senha; os detalhes e o diagrama estão no passo a passo acima.",
+        "O cadeado TSA vem com chave junto da mala? Não nos modelos de senha: a fechadura ao lado dos discos serve exclusivamente para agentes de segurança aeroportuária usarem chave mestra oficial em inspeções.",
+        "Esqueci a senha da mala Bagaggio: a garantia vitalícia cobre? Não. O termo da marca exclui senha de cadeado perdida; nesses casos, procure o chat de atendimento no Fale Conosco da Bagaggio com o modelo e foto do cadeado.",
+        "O cupom CECILIA10 funciona nos cadeados e malas da Bagaggio? Sim. O CECILIA10 aplica 10% OFF em todo o site oficial da marca e acumula com o desconto do Pix."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Você tem cadeado de segredo numérico ou embutido na mala e esqueceu a combinação.",
-      "Você quer saber o tipo do seu cadeado antes de abrir o chat da loja."
+      "Sua mala Bagaggio tem cadeado TSA embutido com botão A de reset e você quer definir ou trocar a combinação com segurança.",
+      "Você precisa escolher um cadeado avulso de reposição ou entender quando falar com o atendimento se perdeu a senha."
     ],
     "skipIf": [
-      "Você procura um passo a passo para trocar a senha sozinho: a Bagaggio não publica.",
-      "O seu cadeado é de chave: não há combinação para recuperar."
+      "O cadeado já travou com uma senha desconhecida e você não lembra os dígitos: evite forçar o zíper e acione o chat da marca.",
+      "Seu cadeado usa chave tradicional e não combinações numéricas."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho para ganhar 10% OFF.",
+    "text": "Se for comprar mala ou cadeado no site oficial da Bagaggio, cole o CECILIA10 no campo Cupom de desconto do carrinho para ter 10% OFF.",
     "label": "Ir para a Bagaggio com o cupom",
     "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
     "sponsored": true
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as páginas dos cadeados e a de atendimento da Bagaggio, sem usar nenhum cadeado. Podemos receber comissão pelas compras com o CECILIA10.",
+  "editorialNote": "Feito com o guia e páginas da Bagaggio. Ninguém da equipe testou. Podemos receber comissão pelo CECILIA10.",
   "relatedArticles": [
     {
       "slug": "bagaggio-garantia-vitalicia"
@@ -194,6 +208,9 @@
     },
     {
       "slug": "bagaggio-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "mala-de-bordo-bagaggio-qual-compensa"
     }
   ]
 }

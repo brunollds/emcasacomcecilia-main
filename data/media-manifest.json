@@ -42369,20 +42369,64 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/como-colocar-senha-mala-bagaggio.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
           "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
-          "line": 45,
-          "column": 17,
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42462,
+          "column": 23,
+          "literal": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42462,
+          "column": 29,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42463,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42489,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42496,
+          "column": 23,
           "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
           "authority": "source"
         },
         {
           "file": "src/lib/generated/content-index.ts",
-          "line": 310474,
-          "column": 19,
+          "line": 310566,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3240,
+          "column": 4,
           "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
           "authority": "generated"
         }
@@ -42415,7 +42459,10 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/como-colocar-senha-mala-bagaggio.json",
-        "docs/Memoria de Artigos/memreview/02_Artigos/como-colocar-senha-mala-bagaggio.md"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/como-colocar-senha-mala-bagaggio.md",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -42426,11 +42473,60 @@
           "authority": "source"
         },
         {
+          "file": "data/media-manifest.json",
+          "line": 42508,
+          "column": 23,
+          "literal": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42508,
+          "column": 29,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42509,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42535,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42542,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+          "authority": "source"
+        },
+        {
           "file": "docs/Memoria de Artigos/memreview/02_Artigos/como-colocar-senha-mala-bagaggio.md",
           "line": 159,
           "column": 14,
           "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
           "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310495,
+          "column": 15,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3265,
+          "column": 4,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+          "authority": "generated"
         }
       ],
       "remote_key": "v1/image/e61a6eb797135e8f67481a98abe7a4353efca80d1e3019382627a15270e721c2/como-colocar-senha-mala-bagaggio-capa-v2.webp",
@@ -42460,21 +42556,57 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/como-colocar-senha-mala-bagaggio.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/como-colocar-senha-mala-bagaggio.md",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
-          "line": 23,
-          "column": 13,
+          "file": "data/media-manifest.json",
+          "line": 42554,
+          "column": 23,
+          "literal": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42554,
+          "column": 29,
           "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 310452,
-          "column": 15,
+          "file": "data/media-manifest.json",
+          "line": 42555,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42581,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42588,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/como-colocar-senha-mala-bagaggio.md",
+          "line": 162,
+          "column": 347,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3241,
+          "column": 4,
           "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
           "authority": "generated"
         }
@@ -42507,20 +42639,64 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/como-colocar-senha-mala-bagaggio.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
           "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
-          "line": 127,
-          "column": 17,
+          "line": 46,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42600,
+          "column": 23,
+          "literal": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42600,
+          "column": 29,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42601,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42627,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42634,
+          "column": 23,
           "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
           "authority": "source"
         },
         {
           "file": "src/lib/generated/content-index.ts",
-          "line": 310556,
-          "column": 19,
+          "line": 310518,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3242,
+          "column": 4,
           "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
           "authority": "generated"
         }
@@ -42552,21 +42728,49 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/como-colocar-senha-mala-bagaggio.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
-          "line": 141,
-          "column": 17,
+          "file": "data/media-manifest.json",
+          "line": 42701,
+          "column": 23,
+          "literal": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42701,
+          "column": 29,
           "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 310570,
-          "column": 19,
+          "file": "data/media-manifest.json",
+          "line": 42702,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42728,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42735,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3243,
+          "column": 4,
           "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
           "authority": "generated"
         }
@@ -110443,29 +110647,80 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/cupom-mauad-lets-eat-it-como-usar.json",
+        "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+        "data/media-manifest.json",
         "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/cupom-mauad-lets-eat-it-como-usar.json",
-          "line": 22,
-          "column": 13,
+          "file": "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+          "line": 117,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 118106,
+          "column": 23,
+          "literal": "public/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 118106,
+          "column": 29,
+          "literal": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 118107,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 118134,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 118141,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 118148,
+          "column": 23,
           "literal": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
           "authority": "source"
         },
         {
           "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
-          "line": 84,
+          "line": 101,
           "column": 4,
           "literal": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
           "authority": "source"
         },
         {
           "file": "src/lib/generated/content-index.ts",
-          "line": 49870,
-          "column": 15,
+          "line": 310998,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 338,
+          "column": 4,
           "literal": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
           "authority": "generated"
         }
@@ -112448,13 +112703,51 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/lets-eat-it-loja-fisica-endereco.json",
-        "docs/Memoria de Artigos/memreview/02_Artigos/lets-eat-it-loja-fisica-endereco.md"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/lets-eat-it-loja-fisica-endereco.md",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
           "file": "content/reviews/lets-eat-it-loja-fisica-endereco.json",
-          "line": 22,
+          "line": 23,
           "column": 13,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120248,
+          "column": 23,
+          "literal": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120248,
+          "column": 29,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120249,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120275,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120282,
+          "column": 23,
           "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
           "authority": "source"
         },
@@ -112464,6 +112757,20 @@
           "column": 14,
           "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
           "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310904,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3279,
+          "column": 4,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+          "authority": "generated"
         }
       ],
       "remote_key": "v1/image/f88fba844ef9208daedb5f801fc86c51e30b8006115f14e3416f2524d24ea093/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
@@ -112493,21 +112800,57 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/lets-eat-it-loja-fisica-endereco.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/lets-eat-it-loja-fisica-endereco.md",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/lets-eat-it-loja-fisica-endereco.json",
-          "line": 22,
-          "column": 13,
+          "file": "data/media-manifest.json",
+          "line": 120294,
+          "column": 23,
+          "literal": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120294,
+          "column": 29,
           "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 310843,
-          "column": 15,
+          "file": "data/media-manifest.json",
+          "line": 120295,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120321,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120328,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/lets-eat-it-loja-fisica-endereco.md",
+          "line": 166,
+          "column": 347,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3252,
+          "column": 4,
           "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
           "authority": "generated"
         }
@@ -112539,21 +112882,49 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/lets-eat-it-loja-fisica-endereco.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/lets-eat-it-loja-fisica-endereco.json",
-          "line": 127,
-          "column": 19,
+          "file": "data/media-manifest.json",
+          "line": 120450,
+          "column": 23,
+          "literal": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120450,
+          "column": 29,
           "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 310948,
+          "file": "data/media-manifest.json",
+          "line": 120451,
           "column": 21,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120477,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120484,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3253,
+          "column": 4,
           "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
           "authority": "generated"
         }
@@ -127884,7 +128255,10 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
-        "docs/Memoria de Artigos/memreview/02_Artigos/enxoval-filhote-cachorro-lista-com-preco.md"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/enxoval-filhote-cachorro-lista-com-preco.md",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -127895,11 +128269,60 @@
           "authority": "source"
         },
         {
+          "file": "data/media-manifest.json",
+          "line": 136680,
+          "column": 23,
+          "literal": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136680,
+          "column": 29,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136681,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136707,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136714,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
           "file": "docs/Memoria de Artigos/memreview/02_Artigos/enxoval-filhote-cachorro-lista-com-preco.md",
           "line": 123,
           "column": 14,
           "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
           "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311112,
+          "column": 15,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3280,
+          "column": 4,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+          "authority": "generated"
         }
       ],
       "remote_key": "v1/image/78a2041ccd01cbd327d0a94aa532b01e1b95545ff67ee900def8bbadaea7c3e5/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
@@ -127929,21 +128352,57 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/enxoval-filhote-cachorro-lista-com-preco.md",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
-          "line": 23,
-          "column": 13,
+          "file": "data/media-manifest.json",
+          "line": 136726,
+          "column": 23,
+          "literal": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136726,
+          "column": 29,
           "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 311041,
-          "column": 15,
+          "file": "data/media-manifest.json",
+          "line": 136727,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136753,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136760,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/enxoval-filhote-cachorro-lista-com-preco.md",
+          "line": 126,
+          "column": 347,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3254,
+          "column": 4,
           "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
           "authority": "generated"
         }
@@ -127975,21 +128434,49 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
-          "line": 108,
-          "column": 17,
+          "file": "data/media-manifest.json",
+          "line": 136827,
+          "column": 23,
+          "literal": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136827,
+          "column": 29,
           "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 311126,
-          "column": 19,
+          "file": "data/media-manifest.json",
+          "line": 136828,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136854,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136861,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3255,
+          "column": 4,
           "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
           "authority": "generated"
         }
@@ -128022,13 +128509,51 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/peitoral-cachorro-que-puxa-petz.json",
-        "docs/Memoria de Artigos/memreview/02_Artigos/peitoral-cachorro-que-puxa-petz.md"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/peitoral-cachorro-que-puxa-petz.md",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
           "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
-          "line": 22,
+          "line": 23,
           "column": 13,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136928,
+          "column": 23,
+          "literal": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136928,
+          "column": 29,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136929,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136955,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136962,
+          "column": 23,
           "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
           "authority": "source"
         },
@@ -128038,6 +128563,20 @@
           "column": 14,
           "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
           "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311369,
+          "column": 15,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3281,
+          "column": 4,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+          "authority": "generated"
         }
       ],
       "remote_key": "v1/image/a4d78a5d3e7ed41cc3af11e820453e803262658abe12525c4ac5690d6e249e31/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
@@ -128067,21 +128606,57 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/peitoral-cachorro-que-puxa-petz.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/peitoral-cachorro-que-puxa-petz.md",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
-          "line": 22,
-          "column": 13,
+          "file": "data/media-manifest.json",
+          "line": 136974,
+          "column": 23,
+          "literal": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136974,
+          "column": 29,
           "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 311244,
-          "column": 15,
+          "file": "data/media-manifest.json",
+          "line": 136975,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137001,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137008,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/peitoral-cachorro-que-puxa-petz.md",
+          "line": 131,
+          "column": 347,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3256,
+          "column": 4,
           "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
           "authority": "generated"
         }
@@ -128113,21 +128688,49 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/peitoral-cachorro-que-puxa-petz.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
-          "line": 280,
-          "column": 17,
+          "file": "data/media-manifest.json",
+          "line": 137130,
+          "column": 23,
+          "literal": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137130,
+          "column": 29,
           "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 311502,
-          "column": 19,
+          "file": "data/media-manifest.json",
+          "line": 137131,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137157,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137164,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3257,
+          "column": 4,
           "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
           "authority": "generated"
         }
@@ -129302,7 +129905,10 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/pink-stick-qual-cor-escolher.json",
-        "docs/Memoria de Artigos/memreview/02_Artigos/pink-stick-qual-cor-escolher.md"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/pink-stick-qual-cor-escolher.md",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -129313,11 +129919,60 @@
           "authority": "source"
         },
         {
+          "file": "data/media-manifest.json",
+          "line": 138483,
+          "column": 23,
+          "literal": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138483,
+          "column": 29,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138484,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138510,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138517,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
           "file": "docs/Memoria de Artigos/memreview/02_Artigos/pink-stick-qual-cor-escolher.md",
           "line": 149,
           "column": 14,
           "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
           "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309818,
+          "column": 15,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3282,
+          "column": 4,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+          "authority": "generated"
         }
       ],
       "remote_key": "v1/image/b2c3947de4c206e93f749c8a100770da7e21a5318775af0ff292ab183b3358be/pink-stick-qual-cor-escolher-capa-v2.webp",
@@ -129347,21 +130002,57 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/pink-stick-qual-cor-escolher.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/pink-stick-qual-cor-escolher.md",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/pink-stick-qual-cor-escolher.json",
-          "line": 29,
-          "column": 13,
+          "file": "data/media-manifest.json",
+          "line": 138529,
+          "column": 23,
+          "literal": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138529,
+          "column": 29,
           "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 309818,
-          "column": 15,
+          "file": "data/media-manifest.json",
+          "line": 138530,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138556,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138563,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/pink-stick-qual-cor-escolher.md",
+          "line": 152,
+          "column": 347,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3258,
+          "column": 4,
           "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
           "authority": "generated"
         }
@@ -129394,20 +130085,64 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/pink-stick-qual-cor-escolher.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
           "file": "content/reviews/pink-stick-qual-cor-escolher.json",
-          "line": 189,
+          "line": 203,
           "column": 19,
           "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 309978,
+          "file": "data/media-manifest.json",
+          "line": 138575,
+          "column": 23,
+          "literal": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138575,
+          "column": 29,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138576,
           "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138602,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138609,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309992,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3259,
+          "column": 4,
           "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
           "authority": "generated"
         }
@@ -129440,20 +130175,64 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/pink-stick-qual-cor-escolher.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
           "file": "content/reviews/pink-stick-qual-cor-escolher.json",
-          "line": 135,
+          "line": 178,
           "column": 19,
           "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 309924,
+          "file": "data/media-manifest.json",
+          "line": 138621,
+          "column": 23,
+          "literal": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138621,
+          "column": 29,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138622,
           "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138648,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138655,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309967,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3260,
+          "column": 4,
           "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
           "authority": "generated"
         }
@@ -129486,20 +130265,64 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/pink-stick-qual-cor-escolher.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
           "file": "content/reviews/pink-stick-qual-cor-escolher.json",
-          "line": 181,
+          "line": 195,
           "column": 19,
           "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 309970,
+          "file": "data/media-manifest.json",
+          "line": 138667,
+          "column": 23,
+          "literal": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138667,
+          "column": 29,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138668,
           "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138694,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138701,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309984,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3261,
+          "column": 4,
           "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
           "authority": "generated"
         }
@@ -129623,21 +130446,80 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
+        "content/reviews/pink-stick-qual-cor-escolher.json",
         "content/reviews/pinkcheeks-e-boa.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/pinkcheeks-e-boa.json",
-          "line": 97,
+          "file": "content/reviews/pink-stick-qual-cor-escolher.json",
+          "line": 85,
           "column": 19,
           "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 274286,
+          "file": "content/reviews/pinkcheeks-e-boa.json",
+          "line": 93,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138805,
+          "column": 23,
+          "literal": "public/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138805,
+          "column": 29,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138806,
           "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138832,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138839,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274633,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309874,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 2990,
+          "column": 4,
           "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
           "authority": "generated"
         }
@@ -129669,21 +130551,80 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
+        "content/reviews/pink-stick-qual-cor-escolher.json",
         "content/reviews/pinkcheeks-e-boa.json",
-        "src/lib/generated/content-index.ts"
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
-          "file": "content/reviews/pinkcheeks-e-boa.json",
-          "line": 104,
+          "file": "content/reviews/pink-stick-qual-cor-escolher.json",
+          "line": 77,
           "column": 19,
           "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
           "authority": "source"
         },
         {
-          "file": "src/lib/generated/content-index.ts",
-          "line": 274293,
+          "file": "content/reviews/pinkcheeks-e-boa.json",
+          "line": 100,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138851,
+          "column": 23,
+          "literal": "public/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138851,
+          "column": 29,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138852,
           "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138878,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138885,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 274640,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309866,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 2991,
+          "column": 4,
           "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
           "authority": "generated"
         }
@@ -190053,6 +190994,1378 @@
       "verified_at": "2026-11-20T03:21:19.273Z",
       "verification_etag_or_digest": "c96f9719d444b00d06da1784b096659ba32968e3c7b507001a62bdc15ffe12c0",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+      "local_url": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26294,
+      "sha256": "5b0ec2ba1b381c31c4e413640d7ca23f6dd58d773fcb200468daa89b3fbd593b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+      "storage_filename": "como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-colocar-senha-mala-bagaggio.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
+          "line": 102,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42352,
+          "column": 23,
+          "literal": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42352,
+          "column": 29,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42353,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42380,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42387,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42394,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310574,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3311,
+          "column": 4,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5b0ec2ba1b381c31c4e413640d7ca23f6dd58d773fcb200468daa89b3fbd593b/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5b0ec2ba1b381c31c4e413640d7ca23f6dd58d773fcb200468daa89b3fbd593b/como-colocar-senha-mala-bagaggio-cadeado-3-digitos-rosa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.446Z",
+      "verification_etag_or_digest": "5b0ec2ba1b381c31c4e413640d7ca23f6dd58d773fcb200468daa89b3fbd593b",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+      "local_url": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13958,
+      "sha256": "2c08e975833eff5b9f8f1f5babadfc2446808dc2e0ad7d67c6c905efaee050ec",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+      "storage_filename": "como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-colocar-senha-mala-bagaggio.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
+          "line": 110,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42407,
+          "column": 23,
+          "literal": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42407,
+          "column": 29,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42408,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42435,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42442,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42449,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310582,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3312,
+          "column": 4,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2c08e975833eff5b9f8f1f5babadfc2446808dc2e0ad7d67c6c905efaee050ec/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2c08e975833eff5b9f8f1f5babadfc2446808dc2e0ad7d67c6c905efaee050ec/como-colocar-senha-mala-bagaggio-cadeado-cabo-aco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.447Z",
+      "verification_etag_or_digest": "2c08e975833eff5b9f8f1f5babadfc2446808dc2e0ad7d67c6c905efaee050ec",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+      "local_url": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8166,
+      "sha256": "56cb576eea89c443f68564d688b94b8f942fbb8b368dd17d14cb21871dd52f65",
+      "width": 800,
+      "height": 271,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+      "storage_filename": "como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-colocar-senha-mala-bagaggio.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
+          "line": 62,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42646,
+          "column": 23,
+          "literal": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42646,
+          "column": 29,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42647,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42674,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42681,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 42688,
+          "column": 23,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310534,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3313,
+          "column": 4,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/56cb576eea89c443f68564d688b94b8f942fbb8b368dd17d14cb21871dd52f65/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/56cb576eea89c443f68564d688b94b8f942fbb8b368dd17d14cb21871dd52f65/como-colocar-senha-mala-bagaggio-diagrama-tsa-reset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.447Z",
+      "verification_etag_or_digest": "56cb576eea89c443f68564d688b94b8f942fbb8b368dd17d14cb21871dd52f65",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78472,
+      "sha256": "6faa63c1ecec8cea12815c5a7502eab19c9fb3453a5928b55514d1f3b2b7e611",
+      "width": 1200,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+      "storage_filename": "lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+          "line": 76,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120340,
+          "column": 23,
+          "literal": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120340,
+          "column": 29,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120341,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120368,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120375,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120382,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310957,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3314,
+          "column": 4,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6faa63c1ecec8cea12815c5a7502eab19c9fb3453a5928b55514d1f3b2b7e611/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6faa63c1ecec8cea12815c5a7502eab19c9fb3453a5928b55514d1f3b2b7e611/lets-eat-it-loja-fisica-endereco-casa-copa-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "6faa63c1ecec8cea12815c5a7502eab19c9fb3453a5928b55514d1f3b2b7e611",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 323490,
+      "sha256": "6bddf786dfc12983afb9562c9def45d7312f0b0f4df97bc29650d7e861d1bed0",
+      "width": 1200,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+      "storage_filename": "lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+          "line": 69,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120395,
+          "column": 23,
+          "literal": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120395,
+          "column": 29,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120396,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120423,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120430,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 120437,
+          "column": 23,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310950,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3315,
+          "column": 4,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6bddf786dfc12983afb9562c9def45d7312f0b0f4df97bc29650d7e861d1bed0/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6bddf786dfc12983afb9562c9def45d7312f0b0f4df97bc29650d7e861d1bed0/lets-eat-it-loja-fisica-endereco-casa-mesa-posta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "6bddf786dfc12983afb9562c9def45d7312f0b0f4df97bc29650d7e861d1bed0",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+      "local_url": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33460,
+      "sha256": "8c0f6230bd5ae028bfda38623541bd6fdca255f1c1d1eb14584be5088a48593c",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+      "storage_filename": "enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+          "line": 179,
+          "column": 19,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136570,
+          "column": 23,
+          "literal": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136570,
+          "column": 29,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136571,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136598,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136605,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136612,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311268,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3316,
+          "column": 4,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8c0f6230bd5ae028bfda38623541bd6fdca255f1c1d1eb14584be5088a48593c/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8c0f6230bd5ae028bfda38623541bd6fdca255f1c1d1eb14584be5088a48593c/enxoval-filhote-cachorro-lista-com-preco-caixa-transporte.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "8c0f6230bd5ae028bfda38623541bd6fdca255f1c1d1eb14584be5088a48593c",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+      "local_url": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30764,
+      "sha256": "dc9b75251b6c8265a4dae331e2e938c8c9ff95ecae0144037d9f18c665683874",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+      "storage_filename": "enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+          "line": 149,
+          "column": 19,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136625,
+          "column": 23,
+          "literal": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136625,
+          "column": 29,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136626,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136653,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136660,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136667,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311238,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3317,
+          "column": 4,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dc9b75251b6c8265a4dae331e2e938c8c9ff95ecae0144037d9f18c665683874/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dc9b75251b6c8265a4dae331e2e938c8c9ff95ecae0144037d9f18c665683874/enxoval-filhote-cachorro-lista-com-preco-cama-colchonete.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "dc9b75251b6c8265a4dae331e2e938c8c9ff95ecae0144037d9f18c665683874",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+      "local_url": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22948,
+      "sha256": "a29f3429921793e6795e21cb9ecf210761d4e1f5ea341e0d37d005273282a067",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+      "storage_filename": "enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+          "line": 157,
+          "column": 19,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136772,
+          "column": 23,
+          "literal": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136772,
+          "column": 29,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136773,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136800,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136807,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136814,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311246,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3318,
+          "column": 4,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a29f3429921793e6795e21cb9ecf210761d4e1f5ea341e0d37d005273282a067/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a29f3429921793e6795e21cb9ecf210761d4e1f5ea341e0d37d005273282a067/enxoval-filhote-cachorro-lista-com-preco-guia-toh.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "a29f3429921793e6795e21cb9ecf210761d4e1f5ea341e0d37d005273282a067",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+      "local_url": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45726,
+      "sha256": "62c924090a561937414bb4a20078f3df45cba7d7006aad34024f1dd40da0e007",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+      "storage_filename": "enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+          "line": 128,
+          "column": 19,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136873,
+          "column": 23,
+          "literal": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136873,
+          "column": 29,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136874,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136901,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136908,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 136915,
+          "column": 23,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311217,
+          "column": 21,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3319,
+          "column": 4,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/62c924090a561937414bb4a20078f3df45cba7d7006aad34024f1dd40da0e007/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/62c924090a561937414bb4a20078f3df45cba7d7006aad34024f1dd40da0e007/enxoval-filhote-cachorro-lista-com-preco-racao-golden.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "62c924090a561937414bb4a20078f3df45cba7d7006aad34024f1dd40da0e007",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+      "local_url": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25260,
+      "sha256": "231bc6e9978460daaccae9f7e6b84fbe7b470fa41cd3c9bbff734e58de2b0cc7",
+      "width": 1200,
+      "height": 584,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+      "storage_filename": "peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+          "line": 211,
+          "column": 19,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137020,
+          "column": 23,
+          "literal": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137020,
+          "column": 29,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137021,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137048,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137055,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137062,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311557,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3320,
+          "column": 4,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/231bc6e9978460daaccae9f7e6b84fbe7b470fa41cd3c9bbff734e58de2b0cc7/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/231bc6e9978460daaccae9f7e6b84fbe7b470fa41cd3c9bbff734e58de2b0cc7/peitoral-cachorro-que-puxa-petz-flyharness-detalhe.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "231bc6e9978460daaccae9f7e6b84fbe7b470fa41cd3c9bbff734e58de2b0cc7",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+      "local_url": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53498,
+      "sha256": "1a4900cc27cf310ca7bb7ad80453c9393462e0b988dd4e00847c3a0e7f6dac39",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+      "storage_filename": "peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+          "line": 260,
+          "column": 19,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137075,
+          "column": 23,
+          "literal": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137075,
+          "column": 29,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137076,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137103,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137110,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137117,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311606,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3321,
+          "column": 4,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1a4900cc27cf310ca7bb7ad80453c9393462e0b988dd4e00847c3a0e7f6dac39/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1a4900cc27cf310ca7bb7ad80453c9393462e0b988dd4e00847c3a0e7f6dac39/peitoral-cachorro-que-puxa-petz-pastel-mint-h.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "1a4900cc27cf310ca7bb7ad80453c9393462e0b988dd4e00847c3a0e7f6dac39",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+      "local_url": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14784,
+      "sha256": "d7e044c23c914b28abec3a77c498d50c93de2ee745f9b71051934152d6f39377",
+      "width": 1200,
+      "height": 584,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+      "storage_filename": "peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+          "line": 121,
+          "column": 19,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137176,
+          "column": 23,
+          "literal": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137176,
+          "column": 29,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137177,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137204,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137211,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137218,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311467,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3322,
+          "column": 4,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d7e044c23c914b28abec3a77c498d50c93de2ee745f9b71051934152d6f39377/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d7e044c23c914b28abec3a77c498d50c93de2ee745f9b71051934152d6f39377/peitoral-cachorro-que-puxa-petz-softerwalk-argolas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "d7e044c23c914b28abec3a77c498d50c93de2ee745f9b71051934152d6f39377",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+      "local_url": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13782,
+      "sha256": "e854a7733cd9f31615cba481b6c36343894c3e585888e9530359cd55dc1e955d",
+      "width": 1100,
+      "height": 1330,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+      "storage_filename": "peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+          "line": 330,
+          "column": 19,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137231,
+          "column": 23,
+          "literal": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137231,
+          "column": 29,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137232,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137259,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137266,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 137273,
+          "column": 23,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311676,
+          "column": 21,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3323,
+          "column": 4,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e854a7733cd9f31615cba481b6c36343894c3e585888e9530359cd55dc1e955d/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e854a7733cd9f31615cba481b6c36343894c3e585888e9530359cd55dc1e955d/peitoral-cachorro-que-puxa-petz-softerwalk-medidas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "e854a7733cd9f31615cba481b6c36343894c3e585888e9530359cd55dc1e955d",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+      "local_url": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22564,
+      "sha256": "994bc1cd7a63146c3719d6d3983e41c30bcf4582f89098efe77a1624dc351f75",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pink-stick-qual-cor-escolher-5km-incolor.webp",
+      "storage_filename": "pink-stick-qual-cor-escolher-5km-incolor.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pink-stick-qual-cor-escolher.json",
+        "data/media-manifest.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pink-stick-qual-cor-escolher.json",
+          "line": 93,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138428,
+          "column": 23,
+          "literal": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138428,
+          "column": 29,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138429,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138456,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138463,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-manifest.json",
+          "line": 138470,
+          "column": 23,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309882,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3324,
+          "column": 4,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-5km-incolor.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/994bc1cd7a63146c3719d6d3983e41c30bcf4582f89098efe77a1624dc351f75/pink-stick-qual-cor-escolher-5km-incolor.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/994bc1cd7a63146c3719d6d3983e41c30bcf4582f89098efe77a1624dc351f75/pink-stick-qual-cor-escolher-5km-incolor.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:50:42.448Z",
+      "verification_etag_or_digest": "994bc1cd7a63146c3719d6d3983e41c30bcf4582f89098efe77a1624dc351f75",
+      "verification_status": "verified",
+      "staged": true
     }
   ]
 }
