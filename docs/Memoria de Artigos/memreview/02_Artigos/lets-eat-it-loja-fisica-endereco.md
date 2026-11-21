@@ -11,8 +11,8 @@ type: "Guia Prático"
 anexo_tipo: "Anexo-Casa-Malas"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisão do Bruno sobre a sobreposição com lets-eat-it-e-boa, depois redação (Job 2)"
-bloqueado_por: "decisão de formato (ver Dúvidas); cupom presencial sem confirmação"
+proxima_acao: "redação (Job 2)"
+bloqueado_por: "-"
 data_criacao: "2026-11-21"
 pauta_id: "L17"
 i18n_cluster: null
@@ -26,6 +26,8 @@ coupon: "MAUAD"
 ---
 
 # Briefing de Pauta: a Let's Eat It tem loja física? (L17)
+
+**Decisão do Bruno (21/11/2026): artigo próprio.** Para não competir com `lets-eat-it-e-boa`, este artigo é o dono da busca "loja física" e "endereço": título, H2 e FAQ falam da Casa Let's. No `lets-eat-it-e-boa`, o trecho da Casa fica em uma ou duas frases, com link para este artigo (mudança de artigo no ar, junto da publicação). O MAUAD na loja física continua sem confirmação: não escrever que vale. Telefone: o da página da Casa, com a data da leitura; sábado conferido no dia.
 
 GO do Bruno em 21/11/2026. Busca de 21/11 (autocompletar): "let's eat it loja física", "tem loja física", "lets eat it
 endereço", "let's eat it loja - casa let's fotos". A cupomtiff cita Av. Pacaembu, 1105, Pacaembu, SP, CEP 01234-001 e
