@@ -48165,6 +48165,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/biobio/base-biobio-bastao-cores-capa-v2.webp",
+      "local_url": "/images/reviews/biobio/base-biobio-bastao-cores-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80888,
+      "sha256": "343a8f4b30381cd88a94a89d526ae846a93eb7c373bf278ee6624aa86081942d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "base-biobio-bastao-cores-capa-v2.webp",
+      "storage_filename": "base-biobio-bastao-cores-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/base-biobio-bastao-cores.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/base-biobio-bastao-cores.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/base-biobio-bastao-cores.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/biobio/base-biobio-bastao-cores-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/base-biobio-bastao-cores.md",
+          "line": 97,
+          "column": 14,
+          "literal": "/images/reviews/biobio/base-biobio-bastao-cores-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/343a8f4b30381cd88a94a89d526ae846a93eb7c373bf278ee6624aa86081942d/base-biobio-bastao-cores-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/343a8f4b30381cd88a94a89d526ae846a93eb7c373bf278ee6624aa86081942d/base-biobio-bastao-cores-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.712Z",
+      "verification_etag_or_digest": "343a8f4b30381cd88a94a89d526ae846a93eb7c373bf278ee6624aa86081942d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/biobio/base-biobio-bastao-cores-capa.webp",
       "local_url": "/images/reviews/biobio/base-biobio-bastao-cores-capa.webp",
       "media_kind": "image",
@@ -48249,6 +48295,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/biobio/biobio-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/biobio/biobio-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91924,
+      "sha256": "6dffc35d0121619a1210057bce2580470f5a7b84dda481dee714f4801cf6819a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "biobio-e-confiavel-capa-v2.webp",
+      "storage_filename": "biobio-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/biobio-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/biobio-e-confiavel.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/biobio-e-confiavel.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/biobio/biobio-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/biobio-e-confiavel.md",
+          "line": 108,
+          "column": 14,
+          "literal": "/images/reviews/biobio/biobio-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6dffc35d0121619a1210057bce2580470f5a7b84dda481dee714f4801cf6819a/biobio-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6dffc35d0121619a1210057bce2580470f5a7b84dda481dee714f4801cf6819a/biobio-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.713Z",
+      "verification_etag_or_digest": "6dffc35d0121619a1210057bce2580470f5a7b84dda481dee714f4801cf6819a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/biobio/biobio-e-confiavel-capa.webp",
       "local_url": "/images/reviews/biobio/biobio-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -48274,6 +48366,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T18:15:41.450Z",
       "verification_etag_or_digest": "19657f8bfcba7932c998b760fb101b2eb6cf3545bf7df15e859b0b43c67b76ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/biobio/black-friday-biobio-capa-v2.webp",
+      "local_url": "/images/reviews/biobio/black-friday-biobio-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 150688,
+      "sha256": "511c362d8c916a458c57f8671d0caa5fb48ae928050139b8e9b4e15b04dd4619",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-biobio-capa-v2.webp",
+      "storage_filename": "black-friday-biobio-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-biobio.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-biobio.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-biobio.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/biobio/black-friday-biobio-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-biobio.md",
+          "line": 92,
+          "column": 14,
+          "literal": "/images/reviews/biobio/black-friday-biobio-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/511c362d8c916a458c57f8671d0caa5fb48ae928050139b8e9b4e15b04dd4619/black-friday-biobio-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/511c362d8c916a458c57f8671d0caa5fb48ae928050139b8e9b4e15b04dd4619/black-friday-biobio-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.713Z",
+      "verification_etag_or_digest": "511c362d8c916a458c57f8671d0caa5fb48ae928050139b8e9b4e15b04dd4619",
       "verification_status": "verified"
     },
     {
@@ -48361,6 +48499,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/biobio/cupom-biobio-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/biobio/cupom-biobio-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66238,
+      "sha256": "5443f7d694028a78df2f403b6fbff5774521016e170956dcded49b4556310fc2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-biobio-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-biobio-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-biobio-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-biobio-como-usar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-biobio-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/biobio/cupom-biobio-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-biobio-como-usar.md",
+          "line": 123,
+          "column": 14,
+          "literal": "/images/reviews/biobio/cupom-biobio-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5443f7d694028a78df2f403b6fbff5774521016e170956dcded49b4556310fc2/cupom-biobio-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5443f7d694028a78df2f403b6fbff5774521016e170956dcded49b4556310fc2/cupom-biobio-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.713Z",
+      "verification_etag_or_digest": "5443f7d694028a78df2f403b6fbff5774521016e170956dcded49b4556310fc2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/biobio/cupom-biobio-como-usar-capa.webp",
       "local_url": "/images/reviews/biobio/cupom-biobio-como-usar-capa.webp",
       "media_kind": "image",
@@ -48417,6 +48601,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/biobio/cupom-biobio-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/biobio/cupom-biobio-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85882,
+      "sha256": "0d9752305dbfd38057cc1710a74983388a39ab3e322141f650d2f5c19147f171",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-biobio-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-biobio-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-biobio-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-biobio-primeira-compra.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-biobio-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/biobio/cupom-biobio-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-biobio-primeira-compra.md",
+          "line": 82,
+          "column": 14,
+          "literal": "/images/reviews/biobio/cupom-biobio-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0d9752305dbfd38057cc1710a74983388a39ab3e322141f650d2f5c19147f171/cupom-biobio-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0d9752305dbfd38057cc1710a74983388a39ab3e322141f650d2f5c19147f171/cupom-biobio-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.713Z",
+      "verification_etag_or_digest": "0d9752305dbfd38057cc1710a74983388a39ab3e322141f650d2f5c19147f171",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/biobio/cupom-biobio-primeira-compra-capa.webp",
       "local_url": "/images/reviews/biobio/cupom-biobio-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -48442,6 +48672,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T18:15:42.844Z",
       "verification_etag_or_digest": "07798e631998938ff2a3326d01fca9f2385dc9e76192dac9698d19912036e093",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/biobio/protetor-solar-biobio-e-bom-capa-v2.webp",
+      "local_url": "/images/reviews/biobio/protetor-solar-biobio-e-bom-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 168444,
+      "sha256": "fd16d29ec9b863a6402f47bc19e62ecd2de39ec81018581bca57a1131a8f6341",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "protetor-solar-biobio-e-bom-capa-v2.webp",
+      "storage_filename": "protetor-solar-biobio-e-bom-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/protetor-solar-biobio-e-bom.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/protetor-solar-biobio-e-bom.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/protetor-solar-biobio-e-bom.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/biobio/protetor-solar-biobio-e-bom-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/protetor-solar-biobio-e-bom.md",
+          "line": 104,
+          "column": 14,
+          "literal": "/images/reviews/biobio/protetor-solar-biobio-e-bom-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fd16d29ec9b863a6402f47bc19e62ecd2de39ec81018581bca57a1131a8f6341/protetor-solar-biobio-e-bom-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fd16d29ec9b863a6402f47bc19e62ecd2de39ec81018581bca57a1131a8f6341/protetor-solar-biobio-e-bom-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.713Z",
+      "verification_etag_or_digest": "fd16d29ec9b863a6402f47bc19e62ecd2de39ec81018581bca57a1131a8f6341",
       "verification_status": "verified"
     },
     {
@@ -76101,6 +76377,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-como-preparar-capa-v2.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-como-preparar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 132136,
+      "sha256": "41a84ed093b18c209116888a4c919daa2db31ae71ef13be40b9739b01296bf9f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-como-preparar-capa-v2.webp",
+      "storage_filename": "holyfoods-como-preparar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-como-preparar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/holyfoods-como-preparar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-como-preparar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-como-preparar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/holyfoods-como-preparar.md",
+          "line": 205,
+          "column": 14,
+          "literal": "/images/reviews/holyfoods/holyfoods-como-preparar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/41a84ed093b18c209116888a4c919daa2db31ae71ef13be40b9739b01296bf9f/holyfoods-como-preparar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/41a84ed093b18c209116888a4c919daa2db31ae71ef13be40b9739b01296bf9f/holyfoods-como-preparar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.713Z",
+      "verification_etag_or_digest": "41a84ed093b18c209116888a4c919daa2db31ae71ef13be40b9739b01296bf9f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/holyfoods/holyfoods-como-preparar-capa.webp",
       "local_url": "/images/reviews/holyfoods/holyfoods-como-preparar-capa.webp",
       "media_kind": "image",
@@ -76505,6 +76827,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-ou-mexidona-capa-v2.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76448,
+      "sha256": "990d1f82a5d62b851d2d72bd80a9b0323a2b04cde917dd50a6fb9a5fcd61abfa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-ou-mexidona-capa-v2.webp",
+      "storage_filename": "holyfoods-ou-mexidona-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-ou-mexidona.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/holyfoods-ou-mexidona.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-ou-mexidona.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/holyfoods-ou-mexidona.md",
+          "line": 214,
+          "column": 14,
+          "literal": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/990d1f82a5d62b851d2d72bd80a9b0323a2b04cde917dd50a6fb9a5fcd61abfa/holyfoods-ou-mexidona-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/990d1f82a5d62b851d2d72bd80a9b0323a2b04cde917dd50a6fb9a5fcd61abfa/holyfoods-ou-mexidona-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.713Z",
+      "verification_etag_or_digest": "990d1f82a5d62b851d2d72bd80a9b0323a2b04cde917dd50a6fb9a5fcd61abfa",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/holyfoods/holyfoods-ou-mexidona-capa.webp",
       "local_url": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa.webp",
       "media_kind": "image",
@@ -76616,6 +76984,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T21:30:57.134Z",
       "verification_etag_or_digest": "b741ba3cee94be3bf0481d1d4e118959ccbb0a596467b367952bb10502791f1d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa-v2.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 242576,
+      "sha256": "b24d658ea2f9f25aadc7ba19cd89670619ca7320f435c9b33fc60cc7d0ad5d86",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-projeto-21-dias-capa-v2.webp",
+      "storage_filename": "holyfoods-projeto-21-dias-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-projeto-21-dias.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/holyfoods-projeto-21-dias.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-projeto-21-dias.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/holyfoods-projeto-21-dias.md",
+          "line": 194,
+          "column": 14,
+          "literal": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b24d658ea2f9f25aadc7ba19cd89670619ca7320f435c9b33fc60cc7d0ad5d86/holyfoods-projeto-21-dias-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b24d658ea2f9f25aadc7ba19cd89670619ca7320f435c9b33fc60cc7d0ad5d86/holyfoods-projeto-21-dias-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.713Z",
+      "verification_etag_or_digest": "b24d658ea2f9f25aadc7ba19cd89670619ca7320f435c9b33fc60cc7d0ad5d86",
       "verification_status": "verified"
     },
     {
@@ -109480,6 +109894,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 146568,
+      "sha256": "d0c43f7a1e5ea868a4c41415a8b262d21b02e235a325342f3999358b6545bb77",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "aparelho-de-jantar-quantas-pecas-escolher-capa-v2.webp",
+      "storage_filename": "aparelho-de-jantar-quantas-pecas-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/aparelho-de-jantar-quantas-pecas-escolher.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/aparelho-de-jantar-quantas-pecas-escolher.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/aparelho-de-jantar-quantas-pecas-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/aparelho-de-jantar-quantas-pecas-escolher.md",
+          "line": 200,
+          "column": 14,
+          "literal": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d0c43f7a1e5ea868a4c41415a8b262d21b02e235a325342f3999358b6545bb77/aparelho-de-jantar-quantas-pecas-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d0c43f7a1e5ea868a4c41415a8b262d21b02e235a325342f3999358b6545bb77/aparelho-de-jantar-quantas-pecas-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "d0c43f7a1e5ea868a4c41415a8b262d21b02e235a325342f3999358b6545bb77",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
       "local_url": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
       "media_kind": "image",
@@ -110329,6 +110789,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T00:20:21.264Z",
       "verification_etag_or_digest": "6afe615e93efa1c43164db26807cf508013fe04c2479d024e284b786098f5dc8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72610,
+      "sha256": "fa5925b5b63218d00d9d213615af23371d9e9040113062d80f9a16ecf5b9629e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "faqueiro-wolff-qual-escolher-capa-v2.webp",
+      "storage_filename": "faqueiro-wolff-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/faqueiro-wolff-qual-escolher.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/faqueiro-wolff-qual-escolher.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/faqueiro-wolff-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/faqueiro-wolff-qual-escolher.md",
+          "line": 207,
+          "column": 14,
+          "literal": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fa5925b5b63218d00d9d213615af23371d9e9040113062d80f9a16ecf5b9629e/faqueiro-wolff-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fa5925b5b63218d00d9d213615af23371d9e9040113062d80f9a16ecf5b9629e/faqueiro-wolff-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "fa5925b5b63218d00d9d213615af23371d9e9040113062d80f9a16ecf5b9629e",
       "verification_status": "verified"
     },
     {
@@ -111492,6 +111998,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74446,
+      "sha256": "e3f450285ed88a64d57c0c323fd860c8b8c86fc87e01a07d9fd3d82126523fb5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-travessa-qual-escolher-capa-v2.webp",
+      "storage_filename": "le-creuset-travessa-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-travessa-qual-escolher.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/le-creuset-travessa-qual-escolher.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-travessa-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/le-creuset-travessa-qual-escolher.md",
+          "line": 204,
+          "column": 14,
+          "literal": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e3f450285ed88a64d57c0c323fd860c8b8c86fc87e01a07d9fd3d82126523fb5/le-creuset-travessa-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e3f450285ed88a64d57c0c323fd860c8b8c86fc87e01a07d9fd3d82126523fb5/le-creuset-travessa-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "e3f450285ed88a64d57c0c323fd860c8b8c86fc87e01a07d9fd3d82126523fb5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa.webp",
       "local_url": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -112095,6 +112647,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-12T02:03:30.759Z",
       "verification_etag_or_digest": "91be8934773f173d1def30b566d99cf929ab24c7314b8c04af3a0ac9c41cf355",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 288380,
+      "sha256": "99156d666c395211702d2502c36ce6a901b89a9e95034bd5d737ecaea3ea273a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa-v2.webp",
+      "storage_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/mesa-posta-ano-novo-o-que-precisa-quanto-custa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/mesa-posta-ano-novo-o-que-precisa-quanto-custa.md",
+          "line": 234,
+          "column": 14,
+          "literal": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/99156d666c395211702d2502c36ce6a901b89a9e95034bd5d737ecaea3ea273a/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/99156d666c395211702d2502c36ce6a901b89a9e95034bd5d737ecaea3ea273a/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "99156d666c395211702d2502c36ce6a901b89a9e95034bd5d737ecaea3ea273a",
       "verification_status": "verified"
     },
     {
@@ -118908,6 +119506,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72980,
+      "sha256": "2afa6be9a2e0d3ab11798566b026b9363a847c93b3a96ac2051284789d862cdb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bcaa-max-titanium-qual-escolher-capa-v2.webp",
+      "storage_filename": "bcaa-max-titanium-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bcaa-max-titanium-qual-escolher.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/bcaa-multivitaminico-max-titanium.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bcaa-max-titanium-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/bcaa-multivitaminico-max-titanium.md",
+          "line": 271,
+          "column": 14,
+          "literal": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2afa6be9a2e0d3ab11798566b026b9363a847c93b3a96ac2051284789d862cdb/bcaa-max-titanium-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2afa6be9a2e0d3ab11798566b026b9363a847c93b3a96ac2051284789d862cdb/bcaa-max-titanium-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "2afa6be9a2e0d3ab11798566b026b9363a847c93b3a96ac2051284789d862cdb",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa.webp",
       "local_url": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -119568,6 +120212,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 92528,
+      "sha256": "ea136528aa0bcf553943115db458a239ec1957cfa4557afde01c0d727767b593",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hipercalorico-max-titanium-mass-17500-capa-v2.webp",
+      "storage_filename": "hipercalorico-max-titanium-mass-17500-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hipercalorico-max-titanium-mass-17500.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/hipercalorico-max-titanium-mass-17500.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hipercalorico-max-titanium-mass-17500.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/hipercalorico-max-titanium-mass-17500.md",
+          "line": 226,
+          "column": 14,
+          "literal": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ea136528aa0bcf553943115db458a239ec1957cfa4557afde01c0d727767b593/hipercalorico-max-titanium-mass-17500-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea136528aa0bcf553943115db458a239ec1957cfa4557afde01c0d727767b593/hipercalorico-max-titanium-mass-17500-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "ea136528aa0bcf553943115db458a239ec1957cfa4557afde01c0d727767b593",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa.webp",
       "local_url": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa.webp",
       "media_kind": "image",
@@ -119641,6 +120331,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T21:30:59.480Z",
       "verification_etag_or_digest": "f2602650060a835441a67c7a6049f6b3a5e93b849127c4d230b2db81424dd2a6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86484,
+      "sha256": "81d106d7ec9efeec59cbfeaeae4216e54c28cba3b42bf9c79d8399d60db6a79a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "kit-max-titanium-quando-compensa-capa-v2.webp",
+      "storage_filename": "kit-max-titanium-quando-compensa-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/kit-max-titanium-quando-compensa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/kit-max-titanium-quando-compensa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/kit-max-titanium-quando-compensa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/kit-max-titanium-quando-compensa.md",
+          "line": 306,
+          "column": 14,
+          "literal": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/81d106d7ec9efeec59cbfeaeae4216e54c28cba3b42bf9c79d8399d60db6a79a/kit-max-titanium-quando-compensa-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/81d106d7ec9efeec59cbfeaeae4216e54c28cba3b42bf9c79d8399d60db6a79a/kit-max-titanium-quando-compensa-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "81d106d7ec9efeec59cbfeaeae4216e54c28cba3b42bf9c79d8399d60db6a79a",
       "verification_status": "verified"
     },
     {
@@ -121881,6 +122617,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-29T02:03:56.501Z",
       "verification_etag_or_digest": "d0082cea1714f34d4cd753ef331b7d22ae3d17e2c6df14283452d409f755f80d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93906,
+      "sha256": "ff41b0941461657b63cb46e095871aef51080feaa7ee637e91c159c2d9b85f57",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "termogenico-max-titanium-qual-escolher-capa-v2.webp",
+      "storage_filename": "termogenico-max-titanium-qual-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/termogenico-max-titanium-qual-escolher.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/termogenico-max-titanium-qual-escolher.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/termogenico-max-titanium-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/termogenico-max-titanium-qual-escolher.md",
+          "line": 225,
+          "column": 14,
+          "literal": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ff41b0941461657b63cb46e095871aef51080feaa7ee637e91c159c2d9b85f57/termogenico-max-titanium-qual-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ff41b0941461657b63cb46e095871aef51080feaa7ee637e91c159c2d9b85f57/termogenico-max-titanium-qual-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "ff41b0941461657b63cb46e095871aef51080feaa7ee637e91c159c2d9b85f57",
       "verification_status": "verified"
     },
     {
@@ -133393,6 +134175,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/biomask-prohall-para-que-serve-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/biomask-prohall-para-que-serve-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64980,
+      "sha256": "31fa5ce7cd418a839eb6d99c886ef37511f7185accc5be6b8f459bf2de6a9a15",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "biomask-prohall-para-que-serve-capa-v2.webp",
+      "storage_filename": "biomask-prohall-para-que-serve-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/biomask-prohall-para-que-serve.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/prohall-biomask-force-hair.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/biomask-prohall-para-que-serve.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/biomask-prohall-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/prohall-biomask-force-hair.md",
+          "line": 209,
+          "column": 14,
+          "literal": "/images/reviews/prohall/biomask-prohall-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/31fa5ce7cd418a839eb6d99c886ef37511f7185accc5be6b8f459bf2de6a9a15/biomask-prohall-para-que-serve-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/31fa5ce7cd418a839eb6d99c886ef37511f7185accc5be6b8f459bf2de6a9a15/biomask-prohall-para-que-serve-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "31fa5ce7cd418a839eb6d99c886ef37511f7185accc5be6b8f459bf2de6a9a15",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/biomask-prohall-para-que-serve-capa.webp",
       "local_url": "/images/reviews/prohall/biomask-prohall-para-que-serve-capa.webp",
       "media_kind": "image",
@@ -134133,6 +134961,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T00:29:43.985Z",
       "verification_etag_or_digest": "fec46c104582e5698722f924e0c64c3808c8177a38503b31ced4198b75a664fc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/force-hair-prohall-para-que-serve-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/force-hair-prohall-para-que-serve-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 109146,
+      "sha256": "b6507fd2758eae35331eb2eb95b317ba60bf4f14e0464ad4e79b1046d778ef2d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "force-hair-prohall-para-que-serve-capa-v2.webp",
+      "storage_filename": "force-hair-prohall-para-que-serve-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/force-hair-prohall-para-que-serve.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/prohall-biomask-force-hair.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/force-hair-prohall-para-que-serve.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/force-hair-prohall-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/prohall-biomask-force-hair.md",
+          "line": 216,
+          "column": 14,
+          "literal": "/images/reviews/prohall/force-hair-prohall-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b6507fd2758eae35331eb2eb95b317ba60bf4f14e0464ad4e79b1046d778ef2d/force-hair-prohall-para-que-serve-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b6507fd2758eae35331eb2eb95b317ba60bf4f14e0464ad4e79b1046d778ef2d/force-hair-prohall-para-que-serve-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "b6507fd2758eae35331eb2eb95b317ba60bf4f14e0464ad4e79b1046d778ef2d",
       "verification_status": "verified"
     },
     {
@@ -135108,6 +135982,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/select-one-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/select-one-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72492,
+      "sha256": "bcfba1f0ff5f051248c953e467923c2dad260c6665386f2e11b72ba1a781ce6e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "select-one-como-usar-capa-v2.webp",
+      "storage_filename": "select-one-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/select-one-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/select-one-como-usar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/select-one-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/select-one-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/select-one-como-usar.md",
+          "line": 201,
+          "column": 14,
+          "literal": "/images/reviews/prohall/select-one-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bcfba1f0ff5f051248c953e467923c2dad260c6665386f2e11b72ba1a781ce6e/select-one-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bcfba1f0ff5f051248c953e467923c2dad260c6665386f2e11b72ba1a781ce6e/select-one-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "bcfba1f0ff5f051248c953e467923c2dad260c6665386f2e11b72ba1a781ce6e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/select-one-como-usar-capa.webp",
       "local_url": "/images/reviews/prohall/select-one-como-usar-capa.webp",
       "media_kind": "image",
@@ -135219,6 +136139,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T00:09:20.018Z",
       "verification_etag_or_digest": "1d90c614f2f22354518802fc8fc91aba890e2ac0f22b0ccd6665411e53de408a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/select-one-ou-burix-one-capa-v2.webp",
+      "local_url": "/images/reviews/prohall/select-one-ou-burix-one-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56680,
+      "sha256": "a68de3ffab26b13a67e7cbd522e14804911615e78ff0cf30237b407efbf80026",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "select-one-ou-burix-one-capa-v2.webp",
+      "storage_filename": "select-one-ou-burix-one-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/select-one-ou-burix-one.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/select-one-ou-burix-one.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/select-one-ou-burix-one.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/select-one-ou-burix-one-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/select-one-ou-burix-one.md",
+          "line": 198,
+          "column": 14,
+          "literal": "/images/reviews/prohall/select-one-ou-burix-one-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a68de3ffab26b13a67e7cbd522e14804911615e78ff0cf30237b407efbf80026/select-one-ou-burix-one-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a68de3ffab26b13a67e7cbd522e14804911615e78ff0cf30237b407efbf80026/select-one-ou-burix-one-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T20:56:41.714Z",
+      "verification_etag_or_digest": "a68de3ffab26b13a67e7cbd522e14804911615e78ff0cf30237b407efbf80026",
       "verification_status": "verified"
     },
     {

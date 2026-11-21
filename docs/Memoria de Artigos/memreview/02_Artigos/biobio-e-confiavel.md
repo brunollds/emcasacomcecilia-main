@@ -102,3 +102,10 @@ Sem quadro `decision`.
 | Atraso na entrega 25% (até 3 anos) | Conta nossa: | perfil, 20/11 | verificado |
 | Trocas 7 e 30 dias | A loja informa: | política, 20/11 | verificado |
 | Loja física, Mercado Livre | - | não lidos | conferir no dia |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/biobio/biobio-e-confiavel-capa-v2.webp` (`imageFit: contain`), SHA-256 `6dffc35d0121619a1210057bce2580470f5a7b84dda481dee714f4801cf6819a`.
+- **Alt:** Em foto institucional da BioBio, mulher de vestido laranja sorri ao lado de um bastão cenográfico gigante da marca. A capa pergunta «É confiável?» e mostra o cupom EMCASABIOBIO.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 68 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/68/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/68/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/biobio/biobio-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

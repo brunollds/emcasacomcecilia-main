@@ -117,3 +117,10 @@ Capa com o logo, o código e "como usar", com foto oficial do protetor ou da bas
 | Cashback 10%, "vale com cupom" | A loja informa: | página Cashback, 20/11 | verificado |
 | Frete grátis Sul/Sudeste acima de R$ 279 | A loja informa: | faixa, 20/11 | verificado; conferir no checkout |
 | Cupom de primeira compra da loja, Renata Meins | - | fora | não escrever |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/biobio/cupom-biobio-como-usar-capa-v2.webp` (`imageFit: contain`), SHA-256 `5443f7d694028a78df2f403b6fbff5774521016e170956dcded49b4556310fc2`.
+- **Alt:** Tubo e caixa do protetor Sunnature Facial da BioBio em foto de catálogo. A capa pergunta «Como usar o cupom?» e mostra o código EMCASABIOBIO.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 68 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/68/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/68/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/biobio/cupom-biobio-como-usar-capa.webp`) fica no CDN, sem uso como capa.

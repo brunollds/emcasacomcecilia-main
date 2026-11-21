@@ -198,3 +198,10 @@ Sem navegador. Tudo por `products.json`.
 
 ## Decisões do Bruno (<data>)
 *(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa-v2.webp` (`imageFit: contain`), SHA-256 `e3f450285ed88a64d57c0c323fd860c8b8c86fc87e01a07d9fd3d82126523fb5`.
+- **Alt:** Travessa Signature vermelha da Le Creuset em duas fotos, uma com as duas alças à vista e outra servindo um assado. A capa pergunta «Travessa Le Creuset: qual escolher?».
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`. Montagem aprovada da travessa Signature em duas fotos, conforme `APROVACOES-VISUAIS.json`.
+- **Lote 67 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/67/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/67/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

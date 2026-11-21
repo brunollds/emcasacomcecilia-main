@@ -208,3 +208,10 @@ Sem navegador. Leituras por `curl`: `products.json` da HolyFoods; páginas de pr
 
 ## Decisões do Bruno (<data>)
 *(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/holyfoods/holyfoods-ou-mexidona-capa-v2.webp` (`imageFit: contain`), SHA-256 `990d1f82a5d62b851d2d72bd80a9b0323a2b04cde917dd50a6fb9a5fcd61abfa`.
+- **Alt:** Colher com Risoto de Queijo da HolyFoods sobre uma tigela do mesmo risoto, com a caixa da mistura ao fundo. A capa pergunta «HolyFoods ou Mexidona?» e mostra o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 69 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/69/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/69/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/holyfoods/holyfoods-ou-mexidona-capa.webp`) fica no CDN, sem uso como capa.

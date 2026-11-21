@@ -76,3 +76,10 @@ Sem quadro `decision`.
 | Cashback a partir de R$ 99,90 | A loja informa: | página Cashback, 20/11 | verificado |
 | Frete grátis Sul/Sudeste acima de R$ 279 | A loja informa: | faixa, 20/11 | verificado; conferir |
 | Cupom de primeira compra da loja | - | fora | não escrever |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/biobio/cupom-biobio-primeira-compra-capa-v2.webp` (`imageFit: contain`), SHA-256 `0d9752305dbfd38057cc1710a74983388a39ab3e322141f650d2f5c19147f171`.
+- **Alt:** Mão segura a Base Multifuncional em bastão, o BBS e o Pó Facial Sunnature da BioBio, em foto de catálogo sobre fundo bege. A capa traz «Cupom na primeira compra» e o código EMCASABIOBIO.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 68 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/68/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/68/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/biobio/cupom-biobio-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

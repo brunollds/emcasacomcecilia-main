@@ -86,3 +86,10 @@ Sem quadro `decision`.
 | Cupom sobre preço promocional, cashback mantido | Conta nossa: | teste, 20/11 | verificado |
 | Cupom sobre kits | - | sem teste | não afirmar |
 | Datas da campanha | - | não informadas | não escrever |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/biobio/black-friday-biobio-capa-v2.webp` (`imageFit: contain`), SHA-256 `511c362d8c916a458c57f8671d0caa5fb48ae928050139b8e9b4e15b04dd4619`.
+- **Alt:** Modelo segura o Pó Facial da BioBio e aproxima a esponja da bochecha, em foto oficial com fundo alaranjado. A capa traz «Black Month» e o cupom EMCASABIOBIO.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 68 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/68/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/68/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/biobio/black-friday-biobio-capa.webp`) fica no CDN, sem uso como capa.

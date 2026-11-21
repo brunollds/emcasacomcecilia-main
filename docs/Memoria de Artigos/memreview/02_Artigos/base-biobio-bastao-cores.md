@@ -91,3 +91,10 @@ bastão" média 20, com "corretivo em bastão" +50%.
 | Cobertura média e construível | A loja informa: | ficha | só atribuído |
 | Guia de tons | A loja informa: | ficha/fotos | ler no dia |
 | Uso próprio | - | sem | não escrever |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/biobio/base-biobio-bastao-cores-capa-v2.webp` (`imageFit: contain`), SHA-256 `343a8f4b30381cd88a94a89d526ae846a93eb7c373bf278ee6624aa86081942d`.
+- **Alt:** Duas modelos mostram as bases em bastão Avelã #100 e Cacau #600 da BioBio em fotos do catálogo. A capa pergunta «Qual é seu tom?» e mostra o cupom EMCASABIOBIO.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 68 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/68/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/68/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/biobio/base-biobio-bastao-cores-capa.webp`) fica no CDN, sem uso como capa.

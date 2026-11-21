@@ -300,3 +300,10 @@ Demanda medida: nenhum export de Search Console ou Bing com termo de kit da Max 
 
 ## Decisões do Bruno (pendente)
 *(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa-v2.webp` (`imageFit: contain`), SHA-256 `81d106d7ec9efeec59cbfeaeae4216e54c28cba3b42bf9c79d8399d60db6a79a`.
+- **Alt:** Pote azul de Whey Double Tasty sabor Chocolate e pote preto de Creatina da Max Titanium em uma composição azul. A capa pergunta «Kit ou avulso?» e mostra o cupom MAX10EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`. O alt identifica o whey Double Tasty sabor Chocolate (recorte revisado do lote 69).
+- **Lote 69 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/69/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/69/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa.webp`) fica no CDN, sem uso como capa.

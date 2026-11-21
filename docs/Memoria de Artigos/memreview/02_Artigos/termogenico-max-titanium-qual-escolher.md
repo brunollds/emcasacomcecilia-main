@@ -219,3 +219,10 @@ Fora da pauta (não entram na tabela): Pack 2x e 3x Fire Black; kits com "queima
 - **Dose:** Fire Black de 400 mg por porção. Se for ao ar, o aviso de limite é obrigatório na resposta rápida.
 - **Esgotamento:** Shot Thermo, Fire White, Shot Dry (um sabor) e 2Hot (um sabor) estão esgotados. Reler no dia de publicar; o artigo não pode recomendar produto esgotado.
 - **Fonte EFSA:** sem o texto final, o valor de 400 mg/dia e 200 mg de dose única não entra como fato.
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa-v2.webp` (`imageFit: contain`), SHA-256 `ff41b0941461657b63cb46e095871aef51080feaa7ee637e91c159c2d9b85f57`.
+- **Alt:** Pote laranja de Shot Dry e frasco vermelho de Shot Thermo da Max Titanium sobre bancada ilustrada. A capa pergunta «Termogênicos: qual escolher?» e mostra o cupom MAX10EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 69 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/69/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/69/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

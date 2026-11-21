@@ -220,3 +220,10 @@ Fonte de todas as linhas de rótulo e de catálogo: tabelas em imagem e API VTEX
 - **Preço muda:** o 3 kg e o zero lactose estão com preço de cartão de 20/11; o Black Friday (até 30/11) pode mudar. Reler no dia de publicar.
 - **Divergência de ficha:** se o artigo sair sem a advertência de cada tamanho, repete o erro de texto da loja. Ver pergunta 3.
 - **Alegação:** o texto de venda da loja usa "ganho de peso", "massa", "energia", "aporte". Nada disso passa para o artigo, nem entre aspas, nem na legenda.
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa-v2.webp` (`imageFit: contain`), SHA-256 `ea136528aa0bcf553943115db458a239ec1957cfa4557afde01c0d727767b593`.
+- **Alt:** Dois refis vermelhos de Mass Titanium 17500 da Max Titanium, um de 1,4 kg e outro Zero Lactose de 2,4 kg, em bancada ilustrada. A capa pergunta «Mass 17500: qual versão?» e mostra o cupom MAX10EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 69 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/69/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/69/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa.webp`) fica no CDN, sem uso como capa.

@@ -98,3 +98,10 @@ Trends: "protetor solar mineral" média 67 (12 meses).
 | Idade do Kids | O rótulo diz: | rótulo | ler no dia |
 | "Luz azul", "evita envelhecimento" | A loja informa: | ficha | só atribuído |
 | Uso próprio | - | sem | não escrever |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/biobio/protetor-solar-biobio-e-bom-capa-v2.webp` (`imageFit: contain`), SHA-256 `fd16d29ec9b863a6402f47bc19e62ecd2de39ec81018581bca57a1131a8f6341`.
+- **Alt:** Tubo dourado do Sunnature Facial ao lado de uma foto do protetor Sunnature Kids em um cenário de acampamento em miniatura. A capa pergunta «Protetor solar é bom?» e mostra o cupom EMCASABIOBIO.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 68 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/68/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/68/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/biobio/protetor-solar-biobio-e-bom-capa.webp`) fica no CDN, sem uso como capa.
