@@ -112,7 +112,7 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
   ar: {
     copy: 'نسخ',
     copied: 'تم النسخ',
-    copyCoupon: (coupon) => `انسخ الرمز ⁦${coupon}⁩`,
+    copyCoupon: (coupon) => `انسخ الرمز ${coupon}`,
     copyAndGo: 'انسخ واذهب إلى المتجر',
     copyOnly: 'انسخ الرمز فقط',
     goHint: (kind) => (kind === 'reward' ? 'يبقى الرمز منسوخًا: الصقه فقط في حقل Reward Code.' : 'يبقى الرمز منسوخًا: الصقه فقط عند إتمام الشراء.'),

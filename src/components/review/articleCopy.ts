@@ -759,11 +759,11 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenResume: 'متابعة',
     listenStop: 'إيقاف',
     adLabel: 'إعلان',
-    bannerCodeHint: (code, brand) => `ابحث عن ⁦${code}⁩ في تطبيق ${brand}.`,
+    bannerCodeHint: (code, brand) => `ابحث عن ${code} في تطبيق ${brand}.`,
     decisionLabel: 'اشتره أو تجاوزه',
     decisionTakeIf: 'اشتره إذا',
     decisionSkipIf: 'تجاوزه إذا',
-    limitedCodeLine: (code, discount, lastDay) => `حتى ${lastDay}: ${discount} مع ⁦${code}⁩`,
+    limitedCodeLine: (code, discount, lastDay) => `حتى ${lastDay}: ${discount} مع ${code}`,
   },
 };
 

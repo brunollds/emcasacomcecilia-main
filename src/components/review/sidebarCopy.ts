@@ -250,7 +250,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     couponLabel: (brand) => (brand ? `كود خصم ${brand}` : 'كود الخصم'),
     rewardCodeLabel: (brand) => (brand ? `رمز المكافأة ${brand}` : 'رمز المكافأة'),
     referralCodeLabel: (brand) => `رمز الإحالة ${brand}`,
-    copiedStatus: (code) => `تم نسخ الرمز ⁦${code}⁩.`,
+    copiedStatus: (code) => `تم نسخ الرمز ${code}.`,
     relatedTitle: 'اقرأ أيضًا',
     tocTitle: 'في هذا الدليل',
     copyHint: 'انسخه قبل الذهاب إلى المتجر.',
