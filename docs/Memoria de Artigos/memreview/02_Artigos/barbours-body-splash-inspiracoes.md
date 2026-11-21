@@ -9,10 +9,10 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Fragrâncias"
 anexo_tipo: "Anexo-Beleza"
-status: "estoque"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "fora do primeiro lote (Bruno, 18/11); espera o Bruno chamar"
-bloqueado_por: "merge do #1152 (página /cupons/barbours)"
+proxima_acao: "redação (Job 2)"
+bloqueado_por: "-"
 data_criacao: "2026-11-18"
 pauta_id: "BB6"
 i18n_cluster: null
@@ -26,6 +26,8 @@ coupon: "CECILIALINHARES"
 ---
 
 # Briefing de Pauta: a inspiração de cada body splash da Barbour's (BB6)
+
+**GO do Bruno em 21/11/2026** (lote modelado nos artigos da cupomtiff). Autocompletar de 21/11 confirma a busca: "barbours inspiração" com jadore, masculino, 212, la vie est belle, pure grace, delina, libre, light blue e chloe. Reler a tabela da seção 4 de [[barbours-fatos-1811]] no dia: a loja pode ter mudado a lista.
 
 Liberada pelo Bruno em 18/11/2026 (o dossiê pedia decisão dele para citar perfumes de outras marcas). **Fora do primeiro lote:** o Bruno decidiu em 18/11 fazer primeiro BB1 a BB5 e a Black Friday; este briefing fica pronto, no estoque. É a busca de
 produto mais forte da marca. **As regras do pacote estão em [[cupom-barbours-como-usar]] (BB1) e valem aqui;** a
