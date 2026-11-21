@@ -93,10 +93,10 @@ export function HomeCeciliaPanel({ copy, eager = false }: { copy: CeciliaPanelCo
     >
       {/* Os ícones que flutuavam no antigo Hero, atrás do conteúdo. */}
       <div aria-hidden="true" className="pointer-events-none absolute inset-0 -z-10 overflow-hidden text-white/5 select-none">
-        <Leaf size={120} strokeWidth={1} className="absolute top-[15%] left-[5%] motion-safe:animate-[float-delayed_12s_ease-in-out_infinite]" />
-        <UtensilsCrossed size={80} strokeWidth={1} className="absolute bottom-[20%] left-[45%] motion-safe:animate-[float_8s_ease-in-out_infinite]" />
-        <Coffee size={100} strokeWidth={1} className="absolute top-[40%] left-[85%] motion-safe:animate-[float-delayed_12s_ease-in-out_infinite]" />
-        <Leaf size={140} strokeWidth={0.5} className="absolute right-[5%] bottom-[10%] rotate-45 motion-safe:animate-[float_8s_ease-in-out_infinite]" />
+        <Leaf size={120} strokeWidth={1} className="absolute top-[15%] start-[5%] motion-safe:animate-[float-delayed_12s_ease-in-out_infinite]" />
+        <UtensilsCrossed size={80} strokeWidth={1} className="absolute bottom-[20%] start-[45%] motion-safe:animate-[float_8s_ease-in-out_infinite]" />
+        <Coffee size={100} strokeWidth={1} className="absolute top-[40%] start-[85%] motion-safe:animate-[float-delayed_12s_ease-in-out_infinite]" />
+        <Leaf size={140} strokeWidth={0.5} className="absolute end-[5%] bottom-[10%] rotate-45 motion-safe:animate-[float_8s_ease-in-out_infinite]" />
       </div>
 
       <h2
@@ -140,7 +140,7 @@ export function HomeCeciliaPanel({ copy, eager = false }: { copy: CeciliaPanelCo
               <li className="flex min-w-0 items-center gap-2">
                 <Mail aria-hidden="true" className="size-4 shrink-0 text-amarelo-cupom" />
                 <a href={profile.mailto} className={`min-w-0 break-all underline underline-offset-[3px] ${FOCUS_RING_ON_DARK}`}>
-                  {profile.email}
+                  <bdi dir="ltr">{profile.email}</bdi>
                 </a>
               </li>
             </ul>
@@ -174,7 +174,7 @@ export function HomeCeciliaPanel({ copy, eager = false }: { copy: CeciliaPanelCo
               className={`flex min-h-11 items-center gap-2 rounded-full bg-laranja px-4 text-[13px] font-extrabold text-marinho md:min-h-12 md:px-[22px] md:text-[15px] ${FOCUS_RING_ON_DARK}`}
             >
               {pt.aboutLabel}
-              <ArrowRight aria-hidden="true" className="hidden size-[18px] md:block" strokeWidth={2.4} />
+              <ArrowRight aria-hidden="true" className="hidden size-[18px] md:block rtl:-scale-x-100" strokeWidth={2.4} />
             </TrackedHomeLink>
             {socials}
           </div>
@@ -187,7 +187,7 @@ export function HomeCeciliaPanel({ copy, eager = false }: { copy: CeciliaPanelCo
             rel="noopener noreferrer"
             placement="home_cecilia"
             linkLabel={pt.whatsappLabel}
-            className={`flex max-w-fit items-center gap-3 rounded-xl border-[1.5px] border-white/25 bg-white/5 py-2.5 pr-4 pl-2.5 hover:border-laranja motion-safe:animate-[pulse-subtle_3s_ease-in-out_2s_1] motion-safe:transition motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 ${FOCUS_RING_ON_DARK}`}
+            className={`flex max-w-fit items-center gap-3 rounded-xl border-[1.5px] border-white/25 bg-white/5 py-2.5 pe-4 ps-2.5 hover:border-laranja motion-safe:animate-[pulse-subtle_3s_ease-in-out_2s_1] motion-safe:transition motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 ${FOCUS_RING_ON_DARK}`}
           >
             <span aria-hidden="true" className="flex size-10 shrink-0 items-center justify-center rounded-full bg-[#25d366] text-marinho">
               <MessageCircle className="size-5" />

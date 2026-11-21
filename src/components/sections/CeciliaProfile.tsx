@@ -80,14 +80,14 @@ export function CeciliaPhotoCard({ instagramFollowers, copy, placement, eager = 
           sizes="(min-width: 1024px) 316px, (min-width: 768px) 168px, 106px"
           className="object-cover motion-safe:animate-[ken-burns_24s_ease-in-out_infinite]"
         />
-        <span className="absolute top-2.5 left-2.5 hidden items-center gap-2 rounded-full bg-white/95 py-[5px] pr-3 pl-[5px] text-marinho shadow-[0_2px_6px_rgb(0_0_0/0.2)] lg:flex">
+        <span className="absolute top-2.5 start-2.5 hidden items-center gap-2 rounded-full bg-white/95 py-[5px] pe-3 ps-[5px] text-marinho shadow-[0_2px_6px_rgb(0_0_0/0.2)] lg:flex">
           <span aria-hidden="true" className="flex size-7 items-center justify-center rounded-full bg-marinho text-amarelo-cupom">
             <SocialIcon name="Instagram" className="size-[15px]" />
           </span>
-          <span className="text-xs font-extrabold">@emcasacomcecilia</span>
+          <span dir="ltr" className="text-xs font-extrabold">@emcasacomcecilia</span>
         </span>
         {instagramFollowers ? (
-          <span className="absolute right-1.5 bottom-1.5 rounded-full bg-marinho px-2 py-1 text-[11px] font-extrabold text-white lg:right-2.5 lg:bottom-2.5 lg:px-2.5 lg:py-1.5 lg:text-xs">
+          <span className="absolute end-1.5 bottom-1.5 rounded-full bg-marinho px-2 py-1 text-[11px] font-extrabold text-white lg:end-2.5 lg:bottom-2.5 lg:px-2.5 lg:py-1.5 lg:text-xs">
             {instagramFollowers}
             <span className="sr-only lg:not-sr-only">{` ${copy.followers}`}</span>
           </span>
@@ -132,7 +132,7 @@ export function CeciliaStats({ stats }: { stats: readonly CeciliaSocialStat[] })
       {stats.map(({ name, followers }, index) => (
         <div
           key={name}
-          className={`flex flex-col-reverse px-2 ${index === 0 ? 'pl-0 text-left' : 'border-l border-white/15 text-center'}`}
+          className={`flex flex-col-reverse px-2 ${index === 0 ? 'ps-0 text-start' : 'border-s border-white/15 text-center'}`}
         >
           <dt className="mt-1 text-xs font-semibold text-white/60">{name}</dt>
           <dd className={`font-condensada text-2xl leading-none font-black font-stretch-extra-condensed lg:text-3xl ${STAT_COLOR[name]}`}>
