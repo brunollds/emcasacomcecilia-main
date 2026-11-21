@@ -85,6 +85,14 @@ const BLACK_FRIDAY_2026: Record<TranslatedLocale, LocaleEventCopy> = {
     showAll: '显示全部 {total} 篇指南',
     showLess: '收起',
   },
+  ar: {
+    title: 'الجمعة البيضاء',
+    description: 'أدلة الجمعة البيضاء (بلاك فرايدي) 2026 للمتاجر الشريكة: المواعيد والعروض وطريقة الاستفادة من خصم كل متجر.',
+    countdown: { days: 'الأيام المتبقية: {days}', tomorrow: 'غدًا', today: 'اليوم', last: 'الأيام الأخيرة' },
+    guideSuffix: '، دليل الجمعة البيضاء',
+    showAll: 'عرض جميع الأدلة ({total})',
+    showLess: 'عرض أقل',
+  },
 };
 
 export const LOCALE_EVENT_COPY: Record<string, Record<TranslatedLocale, LocaleEventCopy>> = {
