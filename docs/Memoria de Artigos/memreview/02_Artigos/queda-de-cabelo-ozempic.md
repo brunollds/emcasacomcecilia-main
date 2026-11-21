@@ -72,3 +72,10 @@ GO do Bruno em 20/11/2026 (um artigo por marca). **Regras do pacote em [[queda-d
 | Eflúvio passa em alguns meses | Segundo a SBD: | SBD | verificado (20/11) |
 | Para que serve cada kit | A loja indica: | páginas | reler |
 | Antiqueda, crescimento, vitamina | - | - | **não escrever** |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/prohall/queda-de-cabelo-ozempic-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `de3beefc012351930e37c5b626389a24338a6b5e74479995d630bf567e03c308`.
+- **Alt:** Um pote aberto e outro fechado da máscara Encorpax Molecular Restore da Prohall, com o creme visível. A capa traz a chamada «Ozempic e queda de cabelo».
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-45-ROTAS-E-ALTS.json`.
+- **Lote 70 do piloto de capas (sequência 24 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/70/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-24-CLAUDE.zip` (`lotes/70/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/queda-de-cabelo-ozempic-capa.webp`) fica no CDN, sem uso como capa.

@@ -107,3 +107,10 @@ Sem quadro `decision`.
 | Para que serve cada kit | A loja indica: | páginas, 20/11 | reler |
 | Crescimento, menos queda, antiqueda | - | páginas | **não escrever** |
 | Vitamina, suplemento, exame | - | - | **não escrever** |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/prohall/queda-de-cabelo-mounjaro-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `130e0a0e6c9389faeb71ebc1607080fbdf08e73365d6345a421a1426d6da3c40`.
+- **Alt:** Spray vermelho Absolut One da Prohall fotografado na diagonal. A capa traz a chamada «Mounjaro e queda de cabelo».
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-45-ROTAS-E-ALTS.json`.
+- **Lote 70 do piloto de capas (sequência 24 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/70/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-24-CLAUDE.zip` (`lotes/70/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/queda-de-cabelo-mounjaro-capa.webp`) fica no CDN, sem uso como capa.

@@ -106,3 +106,10 @@ Sem quadro `decision`.
 **Job 6.** Capa no painel lateral verde (logo num quadro branco, chamada, código EMCASA), fotos oficiais do Shopify da loja, só de produto, sem pessoas e sem o selo "Piscou perdeu"; "Foto: Denavita" nas legendas. As 15 imagens novas foram ao CDN com o sim do Bruno em 19/11 (folha `FOLHA-APROVACAO-DV.jpg`).
 
 Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `10947514aadc7b42657932145dc3ba95ea637d168711a6c5282971948cf498be`.
+- **Alt:** Ilustração de uma caixa de entrega ao lado de um celular e um caderno. A capa traz «Reclame Aqui: nota e queixas» e o cupom EMCASA.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-45-ROTAS-E-ALTS.json`.
+- **Lote 71 do piloto de capas (sequência 24 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/71/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-24-CLAUDE.zip` (`lotes/71/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.
