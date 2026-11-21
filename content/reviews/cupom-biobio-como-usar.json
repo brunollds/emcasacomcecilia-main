@@ -13,6 +13,7 @@
   },
   "publishedAt": "20 de novembro de 2026",
   "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -24,7 +25,7 @@
   "type": "Guia & Cupons",
   "title": "Cupom BioBio: como aplicar o EMCASABIOBIO no checkout e com o que ele soma",
   "seoTitle": "Como usar o cupom EMCASABIOBIO na BioBio",
-  "description": "Onde aplicar o cupom EMCASABIOBIO na BioBio, a conta do nosso teste com produto em promoção, como ele soma com o cashback, o frete grátis e as trocas.",
+  "description": "Onde aplicar o cupom EMCASABIOBIO na BioBio, a conta do nosso teste com produto e kit, como ele soma com o cashback e a promoção, o frete grátis e as trocas.",
   "metaDescription": "O cupom EMCASABIOBIO dá 10% OFF na BioBio. Veja onde aplicar no checkout, a conta do nosso teste com promoção e cashback, o frete grátis e as trocas.",
   "image": "/images/reviews/biobio/cupom-biobio-como-usar-capa-v2.webp",
   "imageAlt": "Tubo e caixa do protetor Sunnature Facial da BioBio em foto de catálogo. A capa pergunta «Como usar o cupom?» e mostra o código EMCASABIOBIO.",
@@ -81,26 +82,28 @@
     {
       "heading": "Quanto o cupom tira: a conta do teste",
       "paragraphs": [
-        "Em 20/11 colocamos no carrinho o Protetor Solar 100% Físico e Mineral, que a vitrine vendia a R$ 104,93. Com o EMCASABIOBIO, o checkout abateu 10% desse valor."
+        "Testamos dois carrinhos no site oficial. No primeiro, o [Protetor Solar 100% Físico e Mineral Sunnature Facial FPS 30](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30) estava a R$ 104,93, o mesmo preço da página em 21 de novembro de 2026, e o checkout abateu 10% desse valor. No segundo, o cupom entrou sobre a [Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica), um kit de base e BBS."
       ],
       "comparisonTable": {
-        "caption": "Um carrinho testado no site oficial, antes do frete.",
+        "caption": "Dois carrinhos testados no site oficial, antes do frete.",
         "headers": [
           "Item",
-          "Valor"
+          "Na vitrine",
+          "Cupom de 10%",
+          "Com o EMCASABIOBIO"
         ],
         "rows": [
           [
-            "Protetor Solar 100% Físico e Mineral, na vitrine",
-            "R$ 104,93"
-          ],
-          [
-            "EMCASABIOBIO: 10% OFF",
-            "R$ 10,49"
-          ],
-          [
-            "Produto com o cupom",
+            "[Protetor Solar 100% Físico e Mineral](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30)",
+            "R$ 104,93",
+            "R$ 10,49",
             "R$ 94,44"
+          ],
+          [
+            "[Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica)",
+            "R$ 199,80",
+            "R$ 19,98",
+            "R$ 179,82"
           ]
         ]
       },
@@ -111,23 +114,23 @@
     {
       "heading": "Soma com a promoção e com o cashback?",
       "paragraphs": [
-        "Soma com os dois. O protetor do teste já estava em promoção e recebeu os 10%, e o resumo da compra seguiu mostrando 10% de cashback para a próxima compra.",
-        "A loja informa: o cashback devolve 10% como saldo nas compras a partir de R$ 99,90, com o frete contando para esse mínimo. O saldo cai depois do pagamento, vale por 45 dias e paga até metade do valor dos produtos num pedido a partir de R$ 100. Ele abate os produtos, não o frete, e a própria página diz que saldo e cupom entram na mesma compra. Para usar, ligue “Usar saldo de Cashback” na etapa de pagamento da compra seguinte.",
-        "Conta nossa: o total do teste, R$ 94,44, ficou abaixo dos R$ 99,90 antes do frete, e o aviso de 10% de cashback continuou no resumo. Como o frete conta para o mínimo, confira o saldo no resumo do seu pedido. Nos kits, não testamos o cupom: confira a linha de desconto antes de pagar."
+        "Soma com os dois. O protetor do teste já estava em promoção e recebeu os 10%, e o resumo da compra seguiu mostrando 10% de cashback para a próxima compra. No kit foi igual: o cupom somou com o desconto do kit e o aviso de cashback continuou.",
+        "A loja informa: o cashback devolve 10% como saldo nas compras a partir de R$ 99,90, com o frete contando para esse mínimo. O saldo cai depois do pagamento, vale por 45 dias e paga até metade do valor dos produtos num pedido a partir de R$ 100. Ele abate os produtos, não o frete, e a própria página diz que saldo e cupom entram na mesma compra. Para usar, ligue “Usar saldo de Cashback” na etapa de pagamento da compra seguinte. O pedido em que você usa saldo aceita o cupom, mas não gera cashback novo.",
+        "Conta nossa: o total do protetor, R$ 94,44, ficou abaixo dos R$ 99,90 antes do frete, e o aviso de 10% de cashback continuou no resumo. Como o frete conta para o mínimo, confira o saldo no resumo do seu pedido."
       ]
     },
     {
       "heading": "Frete, prazo e parcelamento",
       "paragraphs": [
-        "Segundo a loja, o frete é grátis para o Sul e o Sudeste em compras acima de R$ 279. Fora dessas regiões ou abaixo desse valor, informe o CEP e veja o total com a entrega no checkout, que também mostra o prazo.",
-        "O parcelamento anunciado é de até 8x sem juros no cartão. Acima disso, confira as condições no checkout. O atraso na entrega é o problema mais citado contra a loja no Reclame Aqui: veja o que isso significa em [BioBio é confiável?](/reviews/biobio-e-confiavel)."
+        "Segundo a loja, o frete é grátis para o Sul e o Sudeste em compras acima de R$ 279. Fora dessas regiões ou abaixo desse valor, informe o CEP no checkout para conferir prazo e frete antes de pagar.",
+        "O parcelamento anunciado é de até 8x sem juros no cartão. Acima disso, confira as condições no checkout. Os dados da empresa e como achar o site oficial estão em [BioBio é confiável?](/reviews/biobio-e-confiavel)."
       ]
     },
     {
       "heading": "Trocas e devolução",
       "paragraphs": [
-        "A [política de troca da BioBio](https://biobio.com.br/pages/politica-de-troca) dá sete dias corridos a partir do recebimento para trocar ou desistir, com o produto na embalagem original, sem uso e com o lacre intacto. O reembolso sai em até 10 dias úteis.",
-        "Para produto com defeito, avise em até 30 dias corridos, com fotos. A loja analisa em até dois dias úteis e oferece troca, vale-troca ou reembolso, com postagem reversa."
+        "A política de troca da BioBio, que fica no rodapé do site oficial, dá sete dias corridos a partir do recebimento para trocar ou desistir, com o produto na embalagem original, sem uso e com o lacre intacto. O reembolso sai em até 10 dias úteis.",
+        "Para produto com defeito, avise em até 30 dias corridos, com fotos. A loja analisa em até dois dias úteis e oferece troca, vale-troca ou reembolso, com postagem reversa. O guia [BioBio é confiável?](/reviews/biobio-e-confiavel) traz mais sobre trocas e atendimento."
       ]
     },
     {
@@ -149,6 +152,7 @@
       "bullets": [
         "Onde coloco o cupom na BioBio? No Resumo da compra do checkout, clique em “Inserir cupom de desconto”, digite EMCASABIOBIO em “Cupom (opcional)” e clique em “Adicionar”. Confira a linha “Cupom de desconto” antes de pagar.",
         "O cupom soma com o cashback? Soma. No nosso teste, o resumo mostrou os 10% de cashback para a próxima compra com o cupom aplicado, e a loja diz que saldo e cupom entram na mesma compra.",
+        "O cupom vale nos kits? Vale. No nosso teste, a Dupla Make Prática, de R$ 199,80, saiu por R$ 179,82 com o EMCASABIOBIO, e o cashback continuou.",
         "O cupom vale na Black Friday? Vale: no nosso teste, o código entrou sobre um produto já em promoção. Veja o que está em oferta na [Black Friday da BioBio](/reviews/black-friday-biobio).",
         "Qual o frete grátis da BioBio? A loja anuncia frete grátis para o Sul e o Sudeste em compras acima de R$ 279. Confira o frete para o seu CEP no checkout.",
         "O cupom vale para quem já comprou? Vale. O EMCASABIOBIO é para clientes novos e antigos."

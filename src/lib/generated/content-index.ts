@@ -286756,6 +286756,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -286767,7 +286768,7 @@ export const reviewsData: unknown[] = [
     "type": "Guia & Cupons",
     "title": "Cupom BioBio: como aplicar o EMCASABIOBIO no checkout e com o que ele soma",
     "seoTitle": "Como usar o cupom EMCASABIOBIO na BioBio",
-    "description": "Onde aplicar o cupom EMCASABIOBIO na BioBio, a conta do nosso teste com produto em promoção, como ele soma com o cashback, o frete grátis e as trocas.",
+    "description": "Onde aplicar o cupom EMCASABIOBIO na BioBio, a conta do nosso teste com produto e kit, como ele soma com o cashback e a promoção, o frete grátis e as trocas.",
     "metaDescription": "O cupom EMCASABIOBIO dá 10% OFF na BioBio. Veja onde aplicar no checkout, a conta do nosso teste com promoção e cashback, o frete grátis e as trocas.",
     "image": "/images/reviews/biobio/cupom-biobio-como-usar-capa-v2.webp",
     "imageAlt": "Tubo e caixa do protetor Sunnature Facial da BioBio em foto de catálogo. A capa pergunta «Como usar o cupom?» e mostra o código EMCASABIOBIO.",
@@ -286824,26 +286825,28 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom tira: a conta do teste",
         "paragraphs": [
-          "Em 20/11 colocamos no carrinho o Protetor Solar 100% Físico e Mineral, que a vitrine vendia a R$ 104,93. Com o EMCASABIOBIO, o checkout abateu 10% desse valor."
+          "Testamos dois carrinhos no site oficial. No primeiro, o [Protetor Solar 100% Físico e Mineral Sunnature Facial FPS 30](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30) estava a R$ 104,93, o mesmo preço da página em 21 de novembro de 2026, e o checkout abateu 10% desse valor. No segundo, o cupom entrou sobre a [Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica), um kit de base e BBS."
         ],
         "comparisonTable": {
-          "caption": "Um carrinho testado no site oficial, antes do frete.",
+          "caption": "Dois carrinhos testados no site oficial, antes do frete.",
           "headers": [
             "Item",
-            "Valor"
+            "Na vitrine",
+            "Cupom de 10%",
+            "Com o EMCASABIOBIO"
           ],
           "rows": [
             [
-              "Protetor Solar 100% Físico e Mineral, na vitrine",
-              "R$ 104,93"
-            ],
-            [
-              "EMCASABIOBIO: 10% OFF",
-              "R$ 10,49"
-            ],
-            [
-              "Produto com o cupom",
+              "[Protetor Solar 100% Físico e Mineral](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30)",
+              "R$ 104,93",
+              "R$ 10,49",
               "R$ 94,44"
+            ],
+            [
+              "[Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica)",
+              "R$ 199,80",
+              "R$ 19,98",
+              "R$ 179,82"
             ]
           ]
         },
@@ -286854,23 +286857,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Soma com a promoção e com o cashback?",
         "paragraphs": [
-          "Soma com os dois. O protetor do teste já estava em promoção e recebeu os 10%, e o resumo da compra seguiu mostrando 10% de cashback para a próxima compra.",
-          "A loja informa: o cashback devolve 10% como saldo nas compras a partir de R$ 99,90, com o frete contando para esse mínimo. O saldo cai depois do pagamento, vale por 45 dias e paga até metade do valor dos produtos num pedido a partir de R$ 100. Ele abate os produtos, não o frete, e a própria página diz que saldo e cupom entram na mesma compra. Para usar, ligue “Usar saldo de Cashback” na etapa de pagamento da compra seguinte.",
-          "Conta nossa: o total do teste, R$ 94,44, ficou abaixo dos R$ 99,90 antes do frete, e o aviso de 10% de cashback continuou no resumo. Como o frete conta para o mínimo, confira o saldo no resumo do seu pedido. Nos kits, não testamos o cupom: confira a linha de desconto antes de pagar."
+          "Soma com os dois. O protetor do teste já estava em promoção e recebeu os 10%, e o resumo da compra seguiu mostrando 10% de cashback para a próxima compra. No kit foi igual: o cupom somou com o desconto do kit e o aviso de cashback continuou.",
+          "A loja informa: o cashback devolve 10% como saldo nas compras a partir de R$ 99,90, com o frete contando para esse mínimo. O saldo cai depois do pagamento, vale por 45 dias e paga até metade do valor dos produtos num pedido a partir de R$ 100. Ele abate os produtos, não o frete, e a própria página diz que saldo e cupom entram na mesma compra. Para usar, ligue “Usar saldo de Cashback” na etapa de pagamento da compra seguinte. O pedido em que você usa saldo aceita o cupom, mas não gera cashback novo.",
+          "Conta nossa: o total do protetor, R$ 94,44, ficou abaixo dos R$ 99,90 antes do frete, e o aviso de 10% de cashback continuou no resumo. Como o frete conta para o mínimo, confira o saldo no resumo do seu pedido."
         ]
       },
       {
         "heading": "Frete, prazo e parcelamento",
         "paragraphs": [
-          "Segundo a loja, o frete é grátis para o Sul e o Sudeste em compras acima de R$ 279. Fora dessas regiões ou abaixo desse valor, informe o CEP e veja o total com a entrega no checkout, que também mostra o prazo.",
-          "O parcelamento anunciado é de até 8x sem juros no cartão. Acima disso, confira as condições no checkout. O atraso na entrega é o problema mais citado contra a loja no Reclame Aqui: veja o que isso significa em [BioBio é confiável?](/reviews/biobio-e-confiavel)."
+          "Segundo a loja, o frete é grátis para o Sul e o Sudeste em compras acima de R$ 279. Fora dessas regiões ou abaixo desse valor, informe o CEP no checkout para conferir prazo e frete antes de pagar.",
+          "O parcelamento anunciado é de até 8x sem juros no cartão. Acima disso, confira as condições no checkout. Os dados da empresa e como achar o site oficial estão em [BioBio é confiável?](/reviews/biobio-e-confiavel)."
         ]
       },
       {
         "heading": "Trocas e devolução",
         "paragraphs": [
-          "A [política de troca da BioBio](https://biobio.com.br/pages/politica-de-troca) dá sete dias corridos a partir do recebimento para trocar ou desistir, com o produto na embalagem original, sem uso e com o lacre intacto. O reembolso sai em até 10 dias úteis.",
-          "Para produto com defeito, avise em até 30 dias corridos, com fotos. A loja analisa em até dois dias úteis e oferece troca, vale-troca ou reembolso, com postagem reversa."
+          "A política de troca da BioBio, que fica no rodapé do site oficial, dá sete dias corridos a partir do recebimento para trocar ou desistir, com o produto na embalagem original, sem uso e com o lacre intacto. O reembolso sai em até 10 dias úteis.",
+          "Para produto com defeito, avise em até 30 dias corridos, com fotos. A loja analisa em até dois dias úteis e oferece troca, vale-troca ou reembolso, com postagem reversa. O guia [BioBio é confiável?](/reviews/biobio-e-confiavel) traz mais sobre trocas e atendimento."
         ]
       },
       {
@@ -286892,6 +286895,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Onde coloco o cupom na BioBio? No Resumo da compra do checkout, clique em “Inserir cupom de desconto”, digite EMCASABIOBIO em “Cupom (opcional)” e clique em “Adicionar”. Confira a linha “Cupom de desconto” antes de pagar.",
           "O cupom soma com o cashback? Soma. No nosso teste, o resumo mostrou os 10% de cashback para a próxima compra com o cupom aplicado, e a loja diz que saldo e cupom entram na mesma compra.",
+          "O cupom vale nos kits? Vale. No nosso teste, a Dupla Make Prática, de R$ 199,80, saiu por R$ 179,82 com o EMCASABIOBIO, e o cashback continuou.",
           "O cupom vale na Black Friday? Vale: no nosso teste, o código entrou sobre um produto já em promoção. Veja o que está em oferta na [Black Friday da BioBio](/reviews/black-friday-biobio).",
           "Qual o frete grátis da BioBio? A loja anuncia frete grátis para o Sul e o Sudeste em compras acima de R$ 279. Confira o frete para o seu CEP no checkout.",
           "O cupom vale para quem já comprou? Vale. O EMCASABIOBIO é para clientes novos e antigos."
@@ -286914,6 +286918,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "bodyDatesReason": "campanha",
@@ -286925,8 +286930,8 @@ export const reviewsData: unknown[] = [
     "affiliate": "biobio",
     "type": "Guia de Black Friday",
     "title": "Black Friday BioBio 2026: o Black Month de até 50% OFF com o cupom EMCASABIOBIO",
-    "seoTitle": "Black Friday BioBio 2026: cupom e Black Month",
-    "description": "O que a BioBio colocou no Black Month de 2026, quanto o cupom EMCASABIOBIO tira sobre o preço promocional, o cashback que continua e o que conferir nos kits.",
+    "seoTitle": "Black Friday BioBio 2026: até 50% + cupom EMCASABIOBIO",
+    "description": "O que a BioBio colocou no Black Month de 2026, quanto o cupom EMCASABIOBIO tira sobre o preço promocional, o cashback que continua e a conta nos kits.",
     "metaDescription": "O EMCASABIOBIO dá 10% OFF na BioBio, também no Black Month de até 50% OFF. Veja o que está em oferta, a conta com o cupom e o cashback e os kits.",
     "image": "/images/reviews/biobio/black-friday-biobio-capa-v2.webp",
     "imageAlt": "Modelo segura o Pó Facial da BioBio e aproxima a esponja da bochecha, em foto oficial com fundo alaranjado. A capa traz «Black Month» e o cupom EMCASABIOBIO.",
@@ -286952,54 +286957,55 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BioBio está no Black Month, com até 50% OFF e parcelamento em até 8x sem juros. O EMCASABIOBIO tirou mais 10% sobre o preço já promocional no nosso teste, e o cashback da loja continuou no pedido. Nos kits, confira o desconto no resumo antes de pagar."
+          "A BioBio está no Black Month, com até 50% OFF e parcelamento em até 8x sem juros. O EMCASABIOBIO tirou mais 10% sobre o preço já promocional no nosso teste, inclusive na Dupla Make Prática, e o cashback da loja continuou no pedido."
         ]
       },
       {
         "heading": "O que a BioBio colocou em oferta",
         "paragraphs": [
           "“Black Month” é o nome da campanha da loja. A faixa da home anuncia até 50% OFF e 8x sem juros, e a vitrine marca a economia de cada produto. A BioBio não divulgou data de início nem de fim, nem um regulamento da campanha.",
-          "A vitrine de 20/11 mostrava estes preços:"
+          "Estes eram os preços da página de cada produto em 21 de novembro de 2026, sem o cupom. Para saber mais de cada um, veja o [guia dos protetores](/reviews/protetor-solar-biobio-e-bom) e o [guia da base em bastão](/reviews/base-biobio-bastao-cores)."
         ],
         "comparisonTable": {
-          "caption": "Preços da vitrine da BioBio, sem o cupom.",
+          "caption": "Preços da BioBio no Black Month, sem o cupom.",
           "headers": [
             "Produto",
-            "Preço na vitrine"
+            "Preço na loja"
           ],
           "rows": [
             [
-              "Protetor Solar 100% Físico e Mineral",
+              "[Protetor Solar 100% Físico e Mineral](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30)",
               "R$ 104,93"
             ],
             [
-              "Base Multifuncional em Bastão",
+              "[Base Multifuncional em Bastão](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
               "a partir de R$ 111,92"
             ],
             [
-              "BBS Blush, Batom e Sombra",
+              "[BBS Blush, Batom e Sombra](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63)",
               "a partir de R$ 59,94"
             ],
             [
-              "Lip Oil Gloss BioPlump",
+              "[Lip Oil Gloss BioPlump](https://biobio.com.br/products/lip-oil-gloss-bioplump)",
               "R$ 64,45"
             ],
             [
-              "Bastão Anti Inchaço",
+              "[Bastão Anti Inchaço](https://biobio.com.br/products/bastao-anti-inchaco)",
               "R$ 74,94"
             ],
             [
-              "Kit Dupla Make Prática",
+              "[Kit Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica)",
               "R$ 199,80"
             ],
             [
-              "Kit Trio Essencial",
+              "[Kit Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio)",
               "R$ 294,70"
             ]
           ]
         },
         "postParagraphs": [
-          "A vitrine mostra a economia do protetor em 25%, a do BBS em até 40%, a do Bastão Anti Inchaço em 40% e a do Lip Oil Gloss em 50%. Esses percentuais são da loja, e o preço do dia é o que vale: confira na página do produto antes de comprar."
+          "A loja marca a economia do protetor em 25%, a do BBS em até 40%, a do Bastão Anti Inchaço em 40% e a do Lip Oil Gloss em 50%. Esses percentuais são da loja, e o preço do dia é o que vale: confira na página do produto antes de comprar.",
+          "O Lip Oil Gloss BioPlump, que a loja marca com 50% de economia, está à venda na cor Açaí, e o Pitanga aparece esgotado. O Bastão Anti Inchaço tem 40%."
         ],
         "images": [
           {
@@ -287008,38 +287014,58 @@ export const reviewsData: unknown[] = [
             "caption": "A base em bastão e o BBS, que a loja vende também em kit. Foto: BioBio",
             "objectFit": "contain",
             "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/biobio/black-friday-biobio-lip-oil.webp",
+            "alt": "Lip Oil Gloss BioPlump Açaí da BioBio ao lado da caixa do produto",
+            "caption": "O Lip Oil Gloss BioPlump na cor Açaí, com a caixa. Foto: BioBio",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/biobio/black-friday-biobio-bastao-anti-inchaco.webp",
+            "alt": "Bastão Anti Inchaço da BioBio ao lado da caixa do produto",
+            "caption": "O Bastão Anti Inchaço, com a caixa. Foto: BioBio",
+            "objectFit": "contain",
+            "aspectRatio": 1
           }
         ]
       },
       {
         "heading": "Quanto fica com o cupom",
         "paragraphs": [
-          "No teste, o EMCASABIOBIO entrou sobre o protetor que já estava em promoção: R$ 104,93 na vitrine, R$ 10,49 de desconto e R$ 94,44 com o cupom.",
-          "Conta nossa: aplicando os mesmos 10% a mais dois preços da vitrine do dia, chegamos aos valores abaixo. São cálculos, não carrinhos testados no checkout."
+          "No teste, o EMCASABIOBIO entrou sobre o protetor que já estava em promoção: R$ 104,93 na página, R$ 10,49 de desconto e R$ 94,44 com o cupom. Entrou também na Dupla Make Prática, de R$ 199,80 para R$ 179,82.",
+          "Nos outros itens, a conta é a nossa: os mesmos 10% sobre o preço atual da página. São cálculos, não carrinhos testados no checkout."
         ],
         "comparisonTable": {
-          "caption": "O teste e dois cálculos sobre a vitrine, antes do frete.",
+          "caption": "Dois testes no checkout e dois cálculos, antes do frete.",
           "headers": [
             "Produto",
-            "Vitrine",
+            "Preço na loja",
             "EMCASABIOBIO: 10% OFF",
             "Com o cupom"
           ],
           "rows": [
             [
-              "Protetor Solar Mineral (teste no checkout)",
+              "[Protetor Solar Mineral](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30) (teste no checkout)",
               "R$ 104,93",
               "R$ 10,49",
               "R$ 94,44"
             ],
             [
-              "BBS, menor preço da vitrine (cálculo)",
+              "[Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica) (teste no checkout)",
+              "R$ 199,80",
+              "R$ 19,98",
+              "R$ 179,82"
+            ],
+            [
+              "[BBS](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63), menor preço (cálculo)",
               "R$ 59,94",
               "R$ 5,99",
               "R$ 53,95"
             ],
             [
-              "Base em bastão, tom #600 (cálculo)",
+              "[Base em bastão](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33), tom #600 (cálculo)",
               "R$ 111,92",
               "R$ 11,19",
               "R$ 100,73"
@@ -287053,31 +287079,32 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E o cashback?",
         "paragraphs": [
-          "O cashback seguiu no pedido do teste: o resumo mostrou 10% para a próxima compra, e a página da loja diz que saldo e cupom entram na mesma compra. A loja informa: os 10% voltam como saldo nas compras a partir de R$ 99,90, com o frete contando para esse mínimo, e o saldo cai depois do pagamento.",
-          "Para usar, ligue “Usar saldo de Cashback” na etapa de pagamento da compra seguinte. O saldo vale por 45 dias, paga até metade do valor dos produtos num pedido a partir de R$ 100 e não abate o frete. O total do teste, R$ 94,44, ficou abaixo do mínimo antes do frete: confira o saldo no resumo do seu pedido."
+          "O cashback seguiu no pedido do teste: o resumo mostrou 10% para a próxima compra, tanto no protetor quanto no kit, e a página da loja diz que saldo e cupom entram na mesma compra. A loja informa que os 10% voltam como saldo nas compras a partir de R$ 99,90, com o frete contando para esse mínimo, e que o saldo cai depois do pagamento.",
+          "Para usar, ligue “Usar saldo de Cashback” na etapa de pagamento da compra seguinte. O saldo vale por 45 dias, paga até metade do valor dos produtos num pedido a partir de R$ 100 e não abate o frete."
         ]
       },
       {
         "heading": "Kits ou avulso?",
         "paragraphs": [
-          "A Dupla Make Prática junta a base em bastão e o BBS. Avulsos, pela vitrine, os dois somam entre R$ 171,86 (menor preço de cada um) e R$ 211,02 (maior preço de cada um), contra R$ 199,80 do kit. A diferença depende do tom e da cor que você escolher, então compare com os itens do seu carrinho. No menor preço de cada um, o avulso sai mais barato que o kit; nos tons e cores mais caros, o kit ganha.",
-          "Não testamos o cupom nos kits. Monte o carrinho, aplique o EMCASABIOBIO e confira a linha “Cupom de desconto” no resumo antes de pagar. Se precisar trocar, a loja diz que a troca e a devolução de um kit valem para todos os itens dele."
+          "A [Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica) junta a base em bastão e o BBS. Avulsos, pelos preços da página, os dois somam entre R$ 171,86 (menor preço de cada um) e R$ 211,02 (maior preço de cada um), contra R$ 199,80 do kit. Com o EMCASABIOBIO, o kit fica em R$ 179,82, e os avulsos, entre R$ 154,67 e R$ 189,92.",
+          "Na conta, o avulso ganha quando você escolhe tom e cor dos mais baratos, como o #600 Cacau com o BBS Amora. O kit compensa nos tons e nas cores mais caros: no par que testamos, base #100 Avelã e BBS Mamão Papaia, os avulsos somam R$ 205,23 e o kit sai R$ 5,43 abaixo. Com o EMCASABIOBIO nos dois carrinhos, os avulsos ficam em R$ 184,71 e o kit em R$ 179,82, uma diferença de R$ 4,89 antes do frete. Monte os dois carrinhos e compare com os itens que você escolheria.",
+          "Já o [Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio), com BBS, pó facial e base, custa R$ 294,70 e vai a R$ 265,23 com o cupom, no mesmo cálculo de 10%. Se precisar trocar, a loja diz que a troca e a devolução de um kit valem para todos os itens dele."
         ]
       },
       {
         "heading": "Frete e prazo",
         "paragraphs": [
-          "Segundo a loja, o frete é grátis para o Sul e o Sudeste em compras acima de R$ 279. Nas outras regiões e abaixo desse valor, o frete sai pelo CEP, e o prazo aparece no checkout.",
-          "Na Black Friday, vale olhar o prazo antes de pagar: o atraso na entrega é a queixa mais citada contra a loja no Reclame Aqui. Veja o quadro completo em [BioBio é confiável?](/reviews/biobio-e-confiavel)."
+          "Segundo a loja, o frete é grátis para o Sul e o Sudeste em compras acima de R$ 279. Nas outras regiões e abaixo desse valor, o frete sai pelo CEP.",
+          "Informe o CEP no checkout para conferir prazo e frete antes de pagar. Quem quer conhecer a empresa antes de comprar encontra os dados em [BioBio é confiável?](/reviews/biobio-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A BioBio tem Black Friday? A loja chama a campanha de Black Month e anuncia até 50% OFF e 8x sem juros. Os preços variam por produto e por tom ou cor, então confira a vitrine.",
+          "A BioBio tem Black Friday? A loja chama a campanha de Black Month e anuncia até 50% OFF e 8x sem juros. Os preços variam por produto e por tom ou cor, então confira a página de cada item.",
           "O cupom soma com o Black Month? Soma. No nosso teste, o EMCASABIOBIO tirou 10% de um protetor que já estava em promoção, e o cashback da loja continuou no pedido.",
           "Até quando vai a promoção? A BioBio não informou a data de fim do Black Month. Se você quer um produto em oferta, não deixe para o último dia: confira o preço na página antes de pagar.",
-          "O cupom vale nos kits? O teste foi com um produto avulso. No kit, aplique o EMCASABIOBIO no resumo da compra e confira a linha “Cupom de desconto” antes de pagar."
+          "O cupom vale nos kits? Vale. Na Dupla Make Prática, o EMCASABIOBIO tirou 10% do preço do kit, de R$ 199,80 para R$ 179,82, e o cashback continuou. Confira a linha “Cupom de desconto” no resumo antes de pagar."
         ]
       }
     ]
@@ -287107,7 +287134,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "biobio",
     "type": "Guia de Marca",
     "title": "Protetor solar BioBio é bom? O mineral FPS 30, o infantil FPS 50 e o que a loja informa",
-    "seoTitle": "Protetor solar BioBio é bom? Mineral e infantil",
+    "seoTitle": "Protetor solar BioBio é bom? Mineral FPS 30 e Kids FPS 50",
     "description": "O que a loja informa do protetor solar BioBio mineral FPS 30 e do infantil FPS 50 em bastão, quanto custam com o cupom e para quem cada um faz sentido.",
     "metaDescription": "EMCASABIOBIO dá 10% OFF no protetor solar BioBio. Veja o que a loja informa do mineral FPS 30 e do infantil FPS 50 e para quem serve.",
     "image": "/images/reviews/biobio/protetor-solar-biobio-e-bom-capa-v2.webp",
@@ -287137,22 +287164,21 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você vai entrar na água ou suar muito: a loja diz que o Facial não é resistente à água.",
-        "Você reage a óleos essenciais, ou está grávida ou amamentando e ainda não falou com o médico sobre o Facial.",
-        "Você precisa receber numa data fixa e a estimativa do CEP passa dela."
+        "Você reage a óleos essenciais, ou está grávida ou amamentando e ainda não falou com o médico sobre o Facial."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BioBio tem dois protetores de filtros minerais, pelas especificações da loja. O Sunnature Facial FPS 30 é sem cor e não resiste à água; o Kids FPS 50, em bastão, resiste à água e ao suor por até 40 minutos e é indicado a partir de 6 meses. Rosto fora da água, o Facial; criança na água, o Kids."
+          "A BioBio tem dois protetores de filtros minerais, segundo a loja. O Sunnature Facial FPS 30 é sem cor e não resiste à água; o Kids FPS 50, em bastão, resiste à água e ao suor por até 40 minutos e é indicado a partir de 6 meses. Rosto fora da água, o Facial; criança na água, o Kids."
         ]
       },
       {
         "heading": "Mineral, físico, 100%: o que a BioBio quer dizer",
         "paragraphs": [
           "A BioBio chama o Facial de protetor solar 100% físico e mineral e o Kids de 100% mineral. Nos dois, os filtros listados são óxido de zinco e dióxido de titânio, e a loja diz que os do Facial não são nano.",
-          "A tabela põe os dois lado a lado com o que a página de cada produto informa."
+          "A tabela põe lado a lado o [Sunnature Facial FPS 30](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30) e o [Sunnature Kids FPS 50](https://biobio.com.br/products/sunnature-kids-biobio-fps-50), com o que a página de cada produto informa."
         ],
         "comparisonTable": {
           "caption": "Especificações da página de cada produto na loja.",
@@ -287180,7 +287206,7 @@ export const reviewsData: unknown[] = [
             [
               "Conteúdo",
               "50 g",
-              "Confira na embalagem"
+              "13 g, no rótulo da embalagem"
             ],
             [
               "Água e suor",
@@ -287198,18 +287224,14 @@ export const reviewsData: unknown[] = [
               "A cada 2 horas ou depois de água, suor intenso ou toalha"
             ]
           ]
-        },
-        "postParagraphs": [
-          "Qual filtro serve para a sua pele quem responde é o dermatologista. A tabela só mostra o que a loja escreve."
-        ]
+        }
       },
       {
         "heading": "Sunnature Facial FPS 30: rosto, sozinho ou antes da maquiagem",
         "paragraphs": [
           "O Facial é para o rosto de quem quer um protetor sem cor. A loja o indica para todos os tipos de pele, inclusive as oleosas, e diz que pode ir sozinho ou antes da maquiagem, como primer.",
-          "A loja informa: toque seco, efeito blur e um véu leve na pele, com baixo resíduo branco.",
-          "O cheiro vem de óleos essenciais de lavanda, capim-limão e alecrim. Quem reage a óleo essencial deve conferir a composição antes de comprar, como a própria loja orienta. Na gravidez e na amamentação, ela manda conversar com o médico.",
-          "A página ainda atribui ao Facial proteção contra a luz azul e prevenção de manchas e de melasma, e fala em 99,01% de ingredientes de origem natural e produto vegano. São palavras da loja.",
+          "Pela loja, o toque é seco, com efeito blur e um véu leve na pele, com baixo resíduo branco. A página ainda fala em proteção contra a luz azul, prevenção de manchas e de melasma, 99,01% de ingredientes de origem natural e produto vegano.",
+          "O cheiro vem de óleos essenciais de lavanda, capim-limão e alecrim. Quem reage a óleo essencial deve conferir a composição antes de comprar, e na gravidez e na amamentação a loja manda conversar com o médico.",
           "Passo a passo da página do produto:"
         ],
         "bullets": [
@@ -287232,7 +287254,7 @@ export const reviewsData: unknown[] = [
         "heading": "Sunnature Kids FPS 50: bastão para criança a partir de 6 meses",
         "paragraphs": [
           "O Kids serve a quem quer um bastão de FPS 50 para a criança que vai à praia, à piscina ou ao parquinho. Para esse uso, a página dá FPS 50, UVA 25 e resistência à água e ao suor por até 40 minutos. A loja também o chama de dermatologicamente testado.",
-          "A idade é a da página: a loja indica o Kids para crianças a partir de 6 meses e para todos os tipos de pele. Para bebês menores de 6 meses, ela manda consultar o pediatra antes do uso. Na dúvida, em qualquer idade, o pediatra.",
+          "A loja indica o Kids para crianças a partir de 6 meses e para todos os tipos de pele. Para bebês menores de 6 meses, ela manda consultar o pediatra antes do uso.",
           "A loja descreve o Chameleon Effect: o bastão começa branco e se adapta ao tom da pele ao espalhar, e ela avisa que no começo a pele fica bege. Passo a passo da página:"
         ],
         "bullets": [
@@ -287241,7 +287263,7 @@ export const reviewsData: unknown[] = [
           "Reaplique a cada 2 horas ou depois de água, suor intenso ou toalha."
         ],
         "postParagraphs": [
-          "Confira o peso do bastão na embalagem antes de comparar o preço com o do Facial."
+          "O bastão tem 13 g, bem menos que os 50 g do Facial, e isso pesa na conta por grama da tabela de preços."
         ],
         "images": [
           {
@@ -287256,66 +287278,85 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Com cor, sem cor ou em bastão: o que a BioBio tem",
         "paragraphs": [
-          "Quem procura protetor com cor não encontra no Facial, que é sem cor. O Kids é em bastão, e a loja diz que ele pega o tom da pele ao espalhar.",
-          "Com cor mesmo, a BioBio vende maquiagens com FPS: a [base multifuncional em bastão FPS 33](/reviews/base-biobio-bastao-cores), o BBS (blush, batom e sombra) FPS 63 e o pó facial FPS 42. Se uma maquiagem com FPS basta como protetor do dia, pergunte ao dermatologista."
+          "Quem procura protetor com cor não encontra no Facial, que é sem cor. O Kids é em bastão, e a loja diz que ele pega o tom da pele ao espalhar. Com cor mesmo, a BioBio vende maquiagens com FPS. Uma forma rápida de escolher pela rotina:"
+        ],
+        "bullets": [
+          "Pele sem cor, no rosto: [Sunnature Facial FPS 30](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30).",
+          "Criança ou dia de água: [Sunnature Kids FPS 50](https://biobio.com.br/products/sunnature-kids-biobio-fps-50).",
+          "Cor cremosa e acabamento mate: [base multifuncional em bastão FPS 33](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33), com o [guia da base](/reviews/base-biobio-bastao-cores).",
+          "Lábios e bochechas: [BBS (blush, batom e sombra) FPS 63](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63).",
+          "Retoque e selagem: [Pó Translúcido Facial FPS 42](https://biobio.com.br/products/po-translucido-facial-sunnature-fps-42)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/protetor-solar-biobio-e-bom-linha-completa.webp",
+            "alt": "A linha de maquiagem com FPS da BioBio espalhada: base em bastão, BBS, pó facial e caixas",
+            "caption": "A linha de maquiagem com FPS da BioBio. Foto: BioBio",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
         ]
       },
       {
         "heading": "Quanto custam com o cupom",
         "paragraphs": [
-          "Conta nossa: o EMCASABIOBIO tira 10% do preço da vitrine. No Facial, o desconto saiu do checkout; no Kids, é estimativa, então confira a linha Cupom de desconto no resumo. O [cupom BioBio](/cupons/biobio) vale para cliente novo e antigo e entra no campo Cupom (opcional), como mostra o [passo a passo do checkout](/reviews/cupom-biobio-como-usar)."
+          "Conta nossa: o EMCASABIOBIO tira 10% do preço atual da página, que são os de 21 de novembro de 2026, antes do frete. No Facial, o desconto saiu do checkout no nosso teste; no Kids, é a conta de 10%, então confira a linha Cupom de desconto no resumo. O [cupom BioBio](/cupons/biobio) vale para cliente novo e antigo e entra no campo Cupom (opcional), como mostra o [passo a passo do checkout](/reviews/cupom-biobio-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços da vitrine em 20/11, antes do frete. A vitrine muda com as campanhas da loja.",
+          "caption": "Preços atuais da página, antes do frete. A página muda com as campanhas da loja.",
           "headers": [
             "Produto",
-            "Vitrine",
+            "Preço",
             "Com EMCASABIOBIO",
-            "Por grama, vitrine e com o código"
+            "Por grama, preço e com o código"
           ],
           "rows": [
             [
-              "Sunnature Facial FPS 30, 50 g",
+              "[Sunnature Facial FPS 30, 50 g](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30)",
               "R$ 104,93",
               "R$ 94,44",
               "R$ 2,10 e R$ 1,89"
             ],
             [
-              "Sunnature Kids FPS 50",
+              "[Sunnature Kids FPS 50, 13 g](https://biobio.com.br/products/sunnature-kids-biobio-fps-50)",
               "R$ 97,93",
               "R$ 88,14",
-              "Peso na embalagem"
+              "R$ 7,53 e R$ 6,78"
             ]
           ]
         },
         "postParagraphs": [
-          "No teste com o Facial, o resumo da compra seguiu mostrando os 10% de cashback para a próxima compra, com o cupom aplicado. A loja anuncia até 8x sem juros. As ofertas da campanha da loja estão na [Black Friday da BioBio](/reviews/black-friday-biobio)."
+          "O Kids sai mais caro por grama porque o bastão tem 13 g; a comparação justa é pelo uso, já que o Facial é tubo para o rosto e o Kids é bastão resistente à água. No teste com o Facial, o resumo da compra seguiu mostrando os 10% de cashback para a próxima compra, com o cupom aplicado. A loja anuncia até 8x sem juros.",
+          "As ofertas da campanha da loja estão na [Black Friday da BioBio](/reviews/black-friday-biobio)."
         ]
       },
       {
         "heading": "Entrega e troca",
         "paragraphs": [
           "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279; nas outras regiões e abaixo disso, o frete sai pelo CEP, no checkout. Para trocar ou desistir, são 7 dias corridos do recebimento, com a embalagem original, sem uso e com o lacre inviolado.",
-          "O atraso na entrega responde por cerca de um quarto dos problemas registrados no Reclame Aqui. Veja em [BioBio é confiável?](/reviews/biobio-e-confiavel) antes de comprar com data marcada."
+          "Informe o CEP no checkout para conferir prazo e frete antes de pagar. Para saber mais sobre a loja, veja [BioBio é confiável?](/reviews/biobio-e-confiavel)."
         ]
       },
       {
         "heading": "Qual escolher: Facial ou Kids",
         "paragraphs": [
-          "Os dois não se trocam. Para o rosto de adulto fora da água, o Facial é o que a loja indica. Para criança de 6 meses ou mais, com água e suor, é o Kids. Com menos de 6 meses, o pediatra decide antes. Para o adulto com dúvida de pele, o dermatologista."
+          "Os dois não se trocam, e a escolha sai da rotina.",
+          "Escolha o Facial se o uso é no rosto de adulto, fora da água, sozinho ou antes da maquiagem, e você quer um protetor sem cor de toque seco. Escolha o Kids se é para criança de 6 meses ou mais que vai pegar água e suor, ou se você prefere um bastão para passar com os dedos e levar na bolsa.",
+          "Com menos de 6 meses, o pediatra decide antes. Quem quer cor e FPS no mesmo produto vai para a base, o BBS ou o pó, como na seção anterior."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O protetor solar BioBio é bom? Pelas especificações da loja, o Facial tem FPS 30 e UVA 16, e o Kids, FPS 50 e UVA 25, os dois com filtros minerais. Como cada um se comporta na sua pele só o uso mostra; com dúvida ou pele sensível, fale com o dermatologista.",
+          "O protetor solar BioBio é bom? Pelas especificações da loja, o Facial tem FPS 30 e UVA 16, e o Kids, FPS 50 e UVA 25, os dois com filtros minerais. Como cada um se comporta na sua pele só o uso mostra; em caso de pele sensível, fale com o dermatologista.",
           "O protetor BioBio é mineral? A loja descreve o Facial como 100% físico e mineral e o Kids como 100% mineral, com óxido de zinco e dióxido de titânio.",
           "O protetor BioBio tem cor? O Facial é sem cor, segundo a loja. O Kids começa branco e, diz a loja, se adapta ao tom da pele ao espalhar. Com cor mesmo, veja a [base em bastão](/reviews/base-biobio-bastao-cores).",
-          "O Sunnature Kids pode ser usado em bebê? A página indica o Kids a partir de 6 meses. Abaixo disso, consulte o pediatra antes. Na dúvida, o pediatra.",
+          "O Sunnature Kids pode ser usado em bebê? A página indica o Kids a partir de 6 meses; abaixo dessa idade, consulte o pediatra antes de usar.",
           "O protetor BioBio é resistente à água? O Kids é, por até 40 minutos, diz a loja, e pede reaplicação depois de água, suor intenso ou toalha. O Facial não é: reaplique depois de suar ou de molhar o rosto."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-21"
   },
   {
     "id": 1183,
@@ -287371,22 +287412,21 @@ export const reviewsData: unknown[] = [
         "Você já sabe seu subtom e sua profundidade e vai escolher o tom pelo guia da loja ou pelo WhatsApp."
       ],
       "skipIf": [
-        "Sua pele é muito seca e você não quer passar hidratante antes: a loja avisa que ela pede isso.",
-        "Você precisa de um tom escuro e ainda não tirou a dúvida com a loja: os dois mais escuros não têm descrição na página de tons.",
-        "Você precisa receber numa data fixa e a estimativa do CEP passa dela."
+        "Sua pele é muito seca e você não quer passar hidratante antes, que é o que a loja pede.",
+        "Você prefere um acabamento hidratante ou luminoso: a base é mate e de toque seco."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A base multifuncional em bastão da BioBio tem FPS 33 com filtros físicos e acabamento mate, segundo a loja. A loja lista oito tons e descreve seis, e diz que a cobertura sobe em camadas. O que pesa é acertar o tom, porque a troca pede produto sem uso; veja o guia de tons abaixo."
+          "A base multifuncional em bastão da BioBio tem FPS 33 com filtros físicos e acabamento mate, segundo a loja. São oito tons, do #100 ao #800, e os dois mais escuros estão esgotados na página. A cobertura sobe em camadas, e o EMCASABIOBIO dá 10% OFF, inclusive nos kits, como a Dupla Make Prática no nosso teste."
         ]
       },
       {
         "heading": "Para quem é a base em bastão",
         "paragraphs": [
-          "A loja vende a base como peça multifuncional: base, corretivo e contorno no mesmo bastão, de 14 g. Serve a quem quer carregar uma peça só: dá para espalhar com os dedos, a esponja ou o pincel.",
+          "A loja vende a [base multifuncional em bastão](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33) como peça única: base, corretivo e contorno no mesmo bastão, de 14 g, em tubo de papel. Serve a quem quer carregar uma peça só: dá para espalhar com os dedos, a esponja ou o pincel.",
           "A loja descreve acabamento mate e toque seco, e uma cobertura que começa leve e sobe em camadas. Em pele muito seca, ela manda passar hidratante antes. Ela também avisa que, logo depois de aplicar, o produto pode sair na mão ou na gola, e que finalizar com pó ajuda a fixar."
         ],
         "comparisonTable": {
@@ -287421,89 +287461,113 @@ export const reviewsData: unknown[] = [
               "Vegana e livre de crueldade, nas palavras dela"
             ]
           ]
-        }
+        },
+        "images": [
+          {
+            "src": "/images/reviews/biobio/base-biobio-bastao-cores-bastao.webp",
+            "alt": "O bastão da base BioBio aberto, ao lado da tampa, mostrando a base em formato de bastão",
+            "caption": "O bastão da base aberto, ao lado da tampa. Foto: BioBio",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
       },
       {
         "heading": "Os oito tons da base BioBio",
         "paragraphs": [
-          "A loja lista oito tons, do #100 Avelã ao #800 Baru. A ficha do produto fala em 6 tons e as especificações, em #100 a #600. Os dois mais escuros, #700 Tâmara e #800 Baru, não têm descrição na página [Encontre seu tom](https://biobio.com.br/pages/encontre-seu-tom)."
+          "A loja lista oito tons na [página da base](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33), do #100 Avelã ao #800 Baru. A descrição oficial fala em 6 tons, e a página [Encontre seu tom](https://biobio.com.br/pages/encontre-seu-tom) só descreve os seis primeiros. O #700 Tâmara e o #800 Baru aparecem na lista de tons, esgotados e sem descrição de profundidade ou subtom.",
+          "Os preços abaixo são os da página em 21 de novembro de 2026, antes do frete. A coluna com o código é a conta de 10% sobre o preço atual, que já é o da promoção."
         ],
         "comparisonTable": {
-          "caption": "Profundidade e subtom como a loja descreve em Encontre seu tom. Preços da vitrine em 20/11, antes do frete; a coluna com o código é estimativa.",
+          "caption": "Profundidade e subtom como a loja descreve em Encontre seu tom. Preço atual da página, antes do frete.",
           "headers": [
             "Tom",
             "Profundidade",
             "Subtom",
-            "Vitrine",
+            "Preço",
             "Com EMCASABIOBIO"
           ],
           "rows": [
             [
-              "#100 Avelã",
+              "[#100 Avelã](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
               "Muito claro",
               "Neutro",
               "R$ 120,31",
               "R$ 108,28"
             ],
             [
-              "#200 Amêndoa",
+              "[#200 Amêndoa](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
               "Claro médio",
               "Neutro",
               "R$ 123,11",
               "R$ 110,80"
             ],
             [
-              "#300 Castanha",
+              "[#300 Castanha](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
               "Claro médio",
               "Quente",
               "R$ 123,11",
               "R$ 110,80"
             ],
             [
-              "#400 Mascavo",
+              "[#400 Mascavo](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
               "Médio",
               "Quente, neutro ou oliva",
               "R$ 123,11",
               "R$ 110,80"
             ],
             [
-              "#500 Canela",
+              "[#500 Canela](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
               "Médio escuro",
               "Neutro",
               "R$ 120,31",
               "R$ 108,28"
             ],
             [
-              "#600 Cacau",
+              "[#600 Cacau](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
               "Escuro",
               "Frio",
               "R$ 111,92",
               "R$ 100,73"
             ],
             [
-              "#700 Tâmara",
-              "Sem descrição na página de tons",
+              "[#700 Tâmara](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
+              "Sem descrição na loja",
               "Sem descrição",
-              "Veja na página do produto",
-              "Veja no resumo"
+              "R$ 123,11 (esgotado)",
+              "Esgotado"
             ],
             [
-              "#800 Baru",
-              "Sem descrição na página de tons",
+              "[#800 Baru](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
+              "Sem descrição na loja",
               "Sem descrição",
-              "Veja na página do produto",
-              "Veja no resumo"
+              "R$ 123,11 (esgotado)",
+              "Esgotado"
             ]
           ]
         },
         "postParagraphs": [
-          "Quem precisa de um dos dois tons mais escuros deve chamar a loja pelo WhatsApp antes de comprar."
+          "Quem precisa de um dos dois tons mais escuros pode perguntar à loja pelo WhatsApp se eles voltam e qual é o subtom de cada um."
         ],
         "images": [
           {
-            "src": "/images/reviews/biobio/base-biobio-bastao-cores-tons-no-braco.webp",
-            "alt": "Braço com seis tons da base BioBio riscados, do #100 ao #600, em fundo cinza",
-            "caption": "Seis tons riscados no braço, do #100 ao #600. A cor na foto e na tela é só referência. Foto: BioBio",
+            "src": "/images/reviews/biobio/base-biobio-bastao-cores-oito-tons-no-braco.webp",
+            "alt": "Braço com os oito tons da base BioBio riscados, do #100 ao #800, com o bastão ao lado",
+            "caption": "Os oito tons riscados no braço, do #100 ao #800. A cor na foto e na tela é só referência. Foto: BioBio",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/biobio/base-biobio-bastao-cores-tom-700.webp",
+            "alt": "Modelo de pele retinta usando a base em bastão BioBio no tom #700 Tâmara",
+            "caption": "O tom #700 Tâmara em modelo de pele retinta. Foto: BioBio",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/biobio/base-biobio-bastao-cores-tom-800.webp",
+            "alt": "Modelo de pele retinta usando a base em bastão BioBio no tom #800 Baru",
+            "caption": "O tom #800 Baru em modelo de pele retinta. Foto: BioBio",
             "objectFit": "contain",
             "aspectRatio": 1
           }
@@ -287513,8 +287577,8 @@ export const reviewsData: unknown[] = [
         "heading": "Como escolher a cor",
         "paragraphs": [
           "A loja tem um teste em dois passos na página Encontre seu tom. Primeiro a profundidade da pele: clara, clara-média, média-escura ou escura. Depois o subtom: quente, frio ou neutro. Para o subtom, ela sugere olhar as veias do pulso, ver se fica melhor o dourado ou o prateado e como a pele reage ao sol.",
-          "A loja informa: entre dois tons, o teste indica primeiro o mais claro, e o tom vizinho serve de contorno ou corretivo. A cor da tela é só referência, e ela oferece ajuda pelo WhatsApp com selfie em luz natural.",
-          "A troca de tom é de até 7 dias, com o produto sem uso. Como a troca pede o produto sem uso, tire a dúvida do tom pelo WhatsApp antes de pedir."
+          "Entre dois tons, o teste indica primeiro o mais claro, e o tom vizinho serve de contorno ou corretivo. A cor da tela é só referência, e a loja oferece ajuda pelo WhatsApp com selfie em luz natural.",
+          "A troca de tom é de até 7 dias, com o produto sem uso, então vale tirar a dúvida pelo WhatsApp antes de pedir."
         ]
       },
       {
@@ -287526,57 +287590,72 @@ export const reviewsData: unknown[] = [
           "Deslize o bastão na testa, nas bochechas, no nariz e no queixo.",
           "Esfume com os dedos, a esponja ou o pincel, do centro para fora.",
           "Dê batidinhas onde quiser mais cobertura.",
-          "Reaplique a cada 2 horas; por cima da maquiagem, a loja indica o Pó Facial FPS 42."
+          "Reaplique a cada 2 horas; por cima da maquiagem, a loja indica o [Pó Facial FPS 42](https://biobio.com.br/products/po-translucido-facial-sunnature-fps-42)."
         ]
       },
       {
         "heading": "O FPS 33 da base substitui o protetor solar?",
         "paragraphs": [
-          "O que a loja entrega é o FPS 33, o UVA 25 e a orientação de reaplicar a cada 2 horas. Se a base basta como único protetor do dia, pergunte ao dermatologista. O protetor dedicado da marca está em [Protetor solar BioBio é bom?](/reviews/protetor-solar-biobio-e-bom)."
+          "A base traz FPS 33, UVA 25 e a orientação de reaplicar a cada 2 horas. Isso ajuda na proteção do dia a dia e na reaplicação por cima da maquiagem, mas a quantidade de base que a gente passa costuma ser menor do que a camada generosa de um protetor solar.",
+          "Por isso, para exposição direta ao sol, a base entra por cima do protetor facial, e não no lugar dele. O protetor dedicado da marca está em [Protetor solar BioBio é bom?](/reviews/protetor-solar-biobio-e-bom). Se a dúvida for sobre a sua pele, o dermatologista responde melhor."
         ]
       },
       {
         "heading": "Quanto custa com o cupom",
         "paragraphs": [
-          "Conta nossa: o EMCASABIOBIO tira 10% do preço da vitrine, e o valor de cada tom está na tabela dos tons. No teste do [cupom BioBio](/cupons/biobio), os 10% entraram num produto que já estava em promoção. O passo a passo do checkout está em [como usar o cupom](/reviews/cupom-biobio-como-usar)."
+          "Conta nossa: o EMCASABIOBIO tira 10% do preço atual da página, e o valor de cada tom está na tabela dos tons. Testamos o [cupom BioBio](/cupons/biobio) numa Dupla Make Prática: os 10% entraram sobre o preço do kit e o cashback para a próxima compra continuou. O passo a passo do checkout está em [como usar o cupom](/reviews/cupom-biobio-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Kits da vitrine com a base, pelo preço da página.",
+          "caption": "Kits com a base, pelo preço atual da página. Só a Dupla Make Prática foi conferida no checkout; nos outros, é a conta de 10%.",
           "headers": [
             "Kit",
-            "Vitrine"
+            "Preço",
+            "Com EMCASABIOBIO"
           ],
           "rows": [
             [
-              "Dupla Make Prática (base e BBS)",
-              "R$ 199,80"
+              "[Dupla Make Prática (base e BBS)](https://biobio.com.br/products/dupla-make-pratica)",
+              "R$ 199,80",
+              "R$ 179,82"
             ],
             [
-              "Kit Base e Pó Facial",
-              "R$ 224,80"
+              "[Kit Base e Pó Facial (Dupla Essencial)](https://biobio.com.br/products/kit-base-po-facial-dupla-essencial)",
+              "R$ 224,80",
+              "R$ 202,32"
             ],
             [
-              "Trio Essencial",
-              "R$ 294,70"
+              "[Trio Essencial (BBS, pó facial e base)](https://biobio.com.br/products/trio-essencial-biobio)",
+              "R$ 294,70",
+              "R$ 265,23"
             ]
           ]
         },
         "postParagraphs": [
-          "Nos kits, confira no resumo da compra se os 10% entraram e quais tons e cores você escolheu. Para saber se o kit compensa, some os preços avulsos dos itens que você escolheria e compare. A loja informa que a troca ou devolução de kit vale para todos os itens.",
-          "O frete grátis anunciado vale para o Sul e o Sudeste acima de R$ 279, e o parcelamento é de até 8x sem juros. O atraso na entrega responde por cerca de um quarto dos problemas registrados no Reclame Aqui: veja em [BioBio é confiável?](/reviews/biobio-e-confiavel) antes de comprar com data marcada. As ofertas da campanha da loja estão na [Black Friday da BioBio](/reviews/black-friday-biobio)."
+          "Nos kits, confira no resumo da compra se os 10% entraram e quais tons e cores você escolheu. Para saber se o kit compensa, some os preços avulsos dos itens que você escolheria e compare. A troca ou devolução de kit vale para todos os itens, diz a loja.",
+          "O frete grátis anunciado vale para o Sul e o Sudeste acima de R$ 279, e o parcelamento é de até 8x sem juros. Informe o CEP no checkout para conferir prazo e frete antes de pagar; se quiser ver mais sobre a loja, leia [BioBio é confiável?](/reviews/biobio-e-confiavel). As ofertas da campanha estão na [Black Friday da BioBio](/reviews/black-friday-biobio)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/base-biobio-bastao-cores-trio-essencial.webp",
+            "alt": "O Trio Essencial da BioBio, com o BBS, o pó facial e a base em bastão",
+            "caption": "O Trio Essencial: BBS, pó facial e base. Foto: BioBio",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quais as cores da base BioBio? A loja lista oito tons, do #100 Avelã ao #800 Baru, e descreve seis. A tabela dos tons traz profundidade e subtom de cada um.",
-          "A base BioBio tem protetor solar? Tem FPS 33 e UVA 25, segundo a loja. Se ela substitui o protetor, veja o capítulo sobre o FPS e fale com o dermatologista.",
+          "Quais as cores da base BioBio? A loja lista oito tons, do #100 Avelã ao #800 Baru. Os seis primeiros têm profundidade e subtom na tabela; o #700 e o #800 estão esgotados e sem descrição na página.",
+          "A base BioBio tem protetor solar? Tem FPS 33 e UVA 25, segundo a loja. Para sol direto, ela entra por cima do protetor facial; veja o capítulo sobre o FPS.",
           "Qual tom da base BioBio escolher? Use o teste de profundidade e subtom da loja e, em dúvida entre dois, comece pelo mais claro, como ela indica. O WhatsApp da loja ajuda com uma selfie em luz natural.",
           "A base BioBio serve de corretivo? A loja a vende como base, corretivo e contorno no mesmo bastão.",
-          "Quanto custa a base BioBio? Depende do tom; os valores estão na tabela dos tons, e o EMCASABIOBIO dá 10% OFF."
+          "Quanto custa a base BioBio? Entre R$ 111,92 e R$ 123,11, conforme o tom, e o EMCASABIOBIO dá 10% OFF; a tabela dos tons traz o valor de cada um. Os kits com a base saem a partir de R$ 179,82 com o código."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-21"
   },
   {
     "id": 1184,
@@ -287593,6 +287672,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "bodyDatesReason": "reclame-aqui",
@@ -287631,29 +287711,29 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BioBio tem CNPJ ativo em Curitiba e reputação Boa no Reclame Aqui, com todas as reclamações respondidas, em média, em 1 dia e 17 horas. São poucas reclamações, então a nota diz menos do que a de um perfil grande. Atraso na entrega é a queixa mais comum. Compre pelo site oficial e confira o prazo pelo CEP."
+          "A BioBio tem CNPJ ativo em Curitiba e reputação Boa no Reclame Aqui, com 31 reclamações em 12 meses, todas respondidas em média em 1 dia e 17 horas. É um volume baixo, e o atraso na entrega é o tema mais citado entre elas. Compre pelo site oficial e informe o CEP no checkout para ver o prazo."
         ]
       },
       {
         "heading": "Quem vende a BioBio",
         "paragraphs": [
           "O rodapé do site identifica a BioBio Cosméticos Naturais Ltda, CNPJ 50.300.951/0001-54. Na consulta pública do CNPJ, a empresa aparece ativa, com matriz em Curitiba (PR), aberta em abril de 2023, no comércio varejista de cosméticos. Os telefones do site também são de Curitiba.",
-          "Para conferir você mesmo, use o [serviço de consulta do CNPJ](https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas) com o número do rodapé. Pela página “Conheça a BioBio”, a marca é de Talita e Thiago."
+          "Para conferir você mesmo, use o serviço de consulta de CNPJ da Receita Federal com o número do rodapé. Pela página “Conheça a BioBio”, a marca é de Talita e Thiago."
         ]
       },
       {
         "heading": "O que o Reclame Aqui mostra da BioBio",
         "paragraphs": [
-          "No [perfil da BioBio](https://www.reclameaqui.com.br/empresa/biobio-cosmeticos/), a empresa aparece como verificada e no Reclame Aqui há 3 anos. O site exibe no rodapé o selo “Verificada por” do Reclame Aqui."
+          "No perfil da BioBio no Reclame Aqui, que você encontra buscando o nome da marca no site deles, a empresa aparece como verificada e no Reclame Aqui há 3 anos. O site exibe no rodapé o selo “Verificada por” do Reclame Aqui."
         ],
         "bullets": [
           "Nota Boa, 7,2, nos últimos 12 meses até outubro de 2026.",
           "31 reclamações, 100% respondidas, em média em 1 dia e 17 horas.",
           "Das 19 reclamações avaliadas, 63,2% foram resolvidas, e 63,2% dos consumidores voltariam a comprar. A nota do consumidor é 6,74.",
-          "Atraso na entrega é o problema mais citado, com 25% das queixas (a aba que cobre até 3 anos)."
+          "Atraso na entrega é o tema mais citado, com 25% das queixas (a aba que cobre até 3 anos)."
         ],
         "postParagraphs": [
-          "São 31 reclamações em 12 meses, e de junho a outubro o perfil ficou sem índice por ter poucas reclamações. Com um volume tão pequeno, a nota Boa diz menos do que a de uma loja com milhares de registros, e uma ou duas ocorrências mudam as porcentagens. O que a contagem confirma é que há reclamações de entrega e que a loja responde a todas."
+          "31 reclamações em 12 meses é um volume baixo, e a empresa respondeu todas, em média, em menos de dois dias. De junho a outubro o perfil ficou sem índice justamente por ter poucas reclamações. Com tão poucos registros, uma ou duas ocorrências mudam as porcentagens, então a nota Boa é um bom sinal, mas pesa menos do que a de uma loja com milhares de registros. Entre as queixas, a de entrega é a mais frequente, e a loja respondeu a todas."
         ]
       },
       {
@@ -287664,19 +287744,19 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/biobio/biobio-e-confiavel-bbs.webp",
-            "alt": "Cinco bastões abertos do BBS, blush, batom e sombra, em cores diferentes, em foto oficial da BioBio",
-            "caption": "BBS, um dos produtos vendidos no site oficial. Foto: BioBio",
+            "src": "/images/reviews/biobio/biobio-e-confiavel-rodape-site-oficial.webp",
+            "alt": "Coluna SAC do rodapé de biobio.com.br: WhatsApp de segunda a sexta, das 9h às 17h, o e-mail sac@biobio.com.br e a razão social BioBio Cosméticos naturais LTDA, CNPJ 50.300.951/0001-54",
+            "caption": "O SAC e o CNPJ no rodapé do site oficial.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 0.81
           }
         ]
       },
       {
         "heading": "Entrega, trocas e reembolso",
         "paragraphs": [
-          "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. O prazo depende do CEP: informe-o no checkout antes de pagar e guarde a previsão mostrada para o seu pedido. Como atraso é a queixa mais comum, compare essa previsão com a data em que você precisa receber.",
-          "A política de trocas da loja diz que, para desistir, o prazo é de 7 dias corridos do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O reembolso sai em até 10 dias úteis, ou há troca. Em compra online, o [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm#art49) também prevê sete dias.",
+          "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. O prazo depende do CEP: informe-o no checkout antes de pagar e guarde a previsão mostrada para o seu pedido.",
+          "A política de trocas da loja diz que, para desistir, o prazo é de 7 dias corridos do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O reembolso sai em até 10 dias úteis, ou há troca. Em compra online, o art. 49 do Código de Defesa do Consumidor também prevê sete dias.",
           "Se o produto chegar com defeito, avise em até 30 dias corridos, com fotos. A loja analisa em até 2 dias úteis e oferece troca, vale-troca ou reembolso, com postagem reversa. Nos kits, a troca ou a devolução vale para todos os itens. No cartão, a loja pede o estorno na hora, e o crédito na fatura depende do banco."
         ],
         "bullets": [
@@ -287686,11 +287766,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como se proteger numa compra online",
         "bullets": [
-          "Compre pelo site oficial e confira o endereço do checkout.",
-          "Guarde o número do pedido, o comprovante e a previsão de entrega.",
-          "Anote o prazo de 7 dias para desistir a partir do dia em que o pedido chegar.",
-          "Se o prazo passar ou o pedido vier com problema, fale primeiro com o SAC e guarde o protocolo.",
-          "Se não resolver, reclame no perfil da empresa no Reclame Aqui ou procure o Procon."
+          "Compre pelo site oficial, biobio.com.br, e confira que o checkout abre em seguro.biobio.com.br.",
+          "Guarde o número do pedido, o comprovante e a previsão de entrega que o CEP mostrou.",
+          "Se quiser agilizar uma troca por avaria, grave a abertura da embalagem."
         ],
         "postParagraphs": [
           "Para produtos de pele, o rótulo e o dermatologista são a referência sobre se algo serve para você. O [guia dos protetores da BioBio](/reviews/protetor-solar-biobio-e-bom) reúne o que a loja informa de cada um."
@@ -287699,17 +287777,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde aplicar o cupom",
         "paragraphs": [
-          "Se decidir comprar, o [cupom BioBio](/cupons/biobio) EMCASABIOBIO dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente. Veja [em qual tela digitar o código](/reviews/cupom-biobio-como-usar) e o que muda [na primeira compra](/reviews/cupom-biobio-primeira-compra)."
+          "Se decidir comprar, o [cupom BioBio](/cupons/biobio) EMCASABIOBIO dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente. Veja [em qual tela digitar o código](/reviews/cupom-biobio-como-usar) e o que muda [na primeira compra](/reviews/cupom-biobio-primeira-compra). Para escolher o que levar, há o guia da [base em bastão](/reviews/base-biobio-bastao-cores) e o das [ofertas do Black Month](/reviews/black-friday-biobio)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A BioBio é confiável? A empresa tem CNPJ ativo em Curitiba e reputação Boa no Reclame Aqui, com todas as reclamações respondidas, mas o perfil tem poucas reclamações e atraso na entrega é a queixa mais comum. Compre pelo site oficial e confira o prazo pelo CEP.",
+          "A BioBio é confiável? A empresa tem CNPJ ativo em Curitiba e reputação Boa no Reclame Aqui, com 31 reclamações em 12 meses, todas respondidas. O volume é baixo e o atraso na entrega é o tema mais citado entre elas. Compre pelo site oficial e informe o CEP no checkout para ver o prazo.",
           "Qual a nota da BioBio no Reclame Aqui? Nos últimos 12 meses do perfil, a nota era Boa, 7,2, com 31 reclamações. De junho a outubro, o perfil ficou sem índice por ter poucas reclamações.",
           "Qual o site oficial da BioBio? É o biobio.com.br, e o resumo da compra abre em seguro.biobio.com.br. O rodapé tem o selo de verificação do Reclame Aqui.",
           "A BioBio tem loja física? A loja vende pelo site oficial e tem programa de revenda, indicado no rodapé. Para saber se há ponto de venda perto de você, fale com o SAC.",
-          "Como trocar um produto da BioBio? Para desistir, peça em até 7 dias corridos do recebimento, com o produto lacrado e sem uso. Para defeito, avise em até 30 dias corridos, com fotos, pelo SAC por e-mail ou WhatsApp."
+          "Como trocar um produto da BioBio? Para desistir, a política da BioBio dá 7 dias corridos do recebimento, com o produto lacrado e sem uso. Em compra online, o art. 49 do Código de Defesa do Consumidor também garante sete dias para desistir. Para defeito, avise em até 30 dias corridos, com fotos, pelo SAC por e-mail ou WhatsApp."
         ]
       }
     ]
@@ -287729,6 +287807,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -287739,7 +287818,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "biobio",
     "type": "Guia & Cupons",
     "title": "Cupom BioBio primeira compra: o EMCASABIOBIO no primeiro pedido",
-    "seoTitle": "Cupom BioBio primeira compra: 10% OFF",
+    "seoTitle": "Cupom BioBio primeira compra: EMCASABIOBIO dá 10% OFF",
     "description": "O EMCASABIOBIO vale na primeira compra da BioBio e nas seguintes: onde aplicar no checkout, o cashback que já vale para a segunda, o frete e as trocas.",
     "metaDescription": "O EMCASABIOBIO dá 10% OFF na primeira compra da BioBio e nas seguintes. Veja onde aplicar, o cashback, o frete grátis e por onde começar.",
     "image": "/images/reviews/biobio/cupom-biobio-primeira-compra-capa-v2.webp",
@@ -287772,27 +287851,72 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale na primeira compra? E depois?",
         "paragraphs": [
-          "Vale nas duas. O EMCASABIOBIO dá 10% OFF no site oficial para quem compra pela primeira vez e para quem já é cliente, em qualquer forma de pagamento. Está na página do [cupom BioBio](/cupons/biobio), onde você copia o código.",
-          "No teste, o código entrou sobre um protetor solar que já estava em promoção na vitrine e deixou o cashback da loja no resumo. Dá para usá-lo no primeiro pedido e de novo nos seguintes."
+          "A BioBio vende protetores solares minerais e maquiagem com FPS no site oficial. Antes do primeiro pedido, veja os dados da empresa, a entrega e as trocas em [BioBio é confiável?](/reviews/biobio-e-confiavel).",
+          "O EMCASABIOBIO vale nas duas situações: dá 10% OFF no site oficial para quem compra pela primeira vez e para quem já é cliente, em qualquer forma de pagamento. Está na página do [cupom BioBio](/cupons/biobio), onde você copia o código.",
+          "No teste, o código entrou sobre um protetor solar que já estava em promoção e sobre um kit, e o cashback da loja continuou no resumo nos dois casos. Dá para usá-lo no primeiro pedido e de novo nos seguintes."
         ]
       },
       {
         "heading": "Primeira compra: o que saber antes de pagar",
         "paragraphs": [
           "No checkout, o cupom entra no resumo da compra, antes de você preencher a identificação. Confira a linha do desconto e só então siga.",
-          "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. O prazo depende do CEP: informe-o antes de pagar e guarde a previsão. Atraso na entrega é a queixa mais comum no Reclame Aqui da BioBio, e o guia [BioBio é confiável?](/reviews/biobio-e-confiavel) reúne esse ponto e os demais antes de você comprar. O parcelamento anunciado é de até 8x sem juros."
+          "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. Informe o CEP no checkout para conferir prazo e frete antes de pagar. O parcelamento anunciado é de até 8x sem juros."
         ],
         "bullets": [
-          "A loja informa: a primeira compra a partir de R$ 99,90, com o frete contando, gera 10% de volta como saldo de cashback. O saldo vale por 45 dias, paga até 50% do valor dos produtos em pedidos a partir de R$ 100 e não abate o frete.",
-          "Conta nossa: o total do nosso teste, R$ 94,44, fica abaixo de R$ 99,90 antes do frete. Mesmo assim o resumo mostrou os 10% de cashback, e por isso vale conferir o valor no resumo do seu pedido.",
+          "Cashback: a loja informa que a primeira compra a partir de R$ 99,90, com o frete contando, gera 10% de volta como saldo para a segunda. O saldo vale por 45 dias, paga até 50% do valor dos produtos em pedidos a partir de R$ 100 e não abate o frete.",
+          "No nosso teste, o resumo mostrou o aviso de 10% de cashback com o cupom aplicado, num produto avulso e num kit. Confira o valor no resumo do seu pedido.",
           "Para desistir, a loja dá 7 dias corridos do recebimento, com o produto lacrado e sem uso. Em caso de defeito, o aviso vai até 30 dias corridos, com fotos."
         ]
       },
       {
         "heading": "Por onde começar na BioBio",
         "paragraphs": [
-          "A loja vende protetores solares, a base multifuncional em bastão, o BBS (blush, batom e sombra), o pó facial e kits. Para ver o que a loja informa de cada protetor, veja o [guia dos protetores solares da BioBio](/reviews/protetor-solar-biobio-e-bom). Para a base, o [guia dos tons da base em bastão](/reviews/base-biobio-bastao-cores) explica a página “Encontre seu tom”.",
-          "Nos kits, confira no resumo da compra se o desconto do cupom entrou."
+          "Para quem está começando, estes são os cinco itens de entrada. Os preços são os da página da loja em 21 de novembro de 2026, e o desconto do EMCASABIOBIO é de 10% sobre o preço que a página mostra.",
+          "Para ver o que a loja informa de cada protetor, veja o [guia dos protetores solares da BioBio](/reviews/protetor-solar-biobio-e-bom). Para a base, o [guia dos tons da base em bastão](/reviews/base-biobio-bastao-cores) explica a página “Encontre seu tom”."
+        ],
+        "comparisonTable": {
+          "caption": "Os cinco itens de entrada da BioBio e o preço com o cupom.",
+          "headers": [
+            "Produto",
+            "Na página",
+            "Com o EMCASABIOBIO",
+            "Para quê"
+          ],
+          "rows": [
+            [
+              "[Sunnature Facial FPS 30](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30)",
+              "R$ 104,93",
+              "R$ 94,44",
+              "Protetor mineral do rosto, sem cor"
+            ],
+            [
+              "[Sunnature Kids FPS 50](https://biobio.com.br/products/sunnature-kids-biobio-fps-50)",
+              "R$ 97,93",
+              "R$ 88,14",
+              "Protetor em bastão para criança, resistente à água e ao suor por até 40 minutos, segundo a loja"
+            ],
+            [
+              "[Base em bastão FPS 33](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
+              "R$ 111,92 a R$ 123,11, conforme o tom",
+              "R$ 100,73 a R$ 110,80",
+              "Cor e FPS num bastão só"
+            ],
+            [
+              "[BBS FPS 63](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63)",
+              "A partir de R$ 59,94, conforme a cor",
+              "A partir de R$ 53,95",
+              "Blush, batom e sombra num produto só"
+            ],
+            [
+              "[Pó Translúcido Facial FPS 42](https://biobio.com.br/products/po-translucido-facial-sunnature-fps-42)",
+              "R$ 114,31",
+              "R$ 102,88",
+              "Retoque e selagem da make"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Quem prefere levar mais de um item pode olhar os kits. A [Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica), com base e BBS, custa R$ 199,80 na página e saiu por R$ 179,82 com o EMCASABIOBIO no nosso teste. O [Kit Base e Pó Facial](https://biobio.com.br/products/kit-base-po-facial-dupla-essencial) está a R$ 224,80 e o [Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio), a R$ 294,70."
         ],
         "images": [
           {
@@ -287808,18 +287932,28 @@ export const reviewsData: unknown[] = [
         "heading": "Como aplicar o cupom no primeiro pedido",
         "bullets": [
           "Monte o carrinho no site oficial e clique em Finalizar compra.",
-          "No resumo da compra, digite EMCASABIOBIO no campo Cupom (opcional), tudo junto, e clique em Adicionar.",
+          "No resumo da compra, clique em “Inserir cupom de desconto”, digite EMCASABIOBIO no campo Cupom (opcional), tudo junto, e clique em Adicionar.",
           "Veja a linha do desconto no resumo e só então siga para a identificação."
         ],
         "postParagraphs": [
-          "O [guia de como usar o cupom da BioBio](/reviews/cupom-biobio-como-usar) mostra a tela e a conta do nosso teste."
+          "O [guia de como usar o cupom da BioBio](/reviews/cupom-biobio-como-usar) mostra a conta do nosso teste."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/cupom-biobio-checkout-com-cupom.webp",
+            "alt": "Resumo da compra no checkout da BioBio com o cupom EMCASABIOBIO aplicado: desconto de R$ 10,49 sobre R$ 104,93, total de R$ 94,44 e 10% de cashback para a próxima compra",
+            "caption": "Resumo da compra da BioBio com o EMCASABIOBIO aplicado e o cashback para a próxima compra.",
+            "objectFit": "contain",
+            "aspectRatio": 0.64
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom de primeira compra na BioBio? Para a primeira compra, use o EMCASABIOBIO: 10% OFF no site oficial, aplicado no resumo da compra, antes da identificação.",
+          "Como conseguir desconto na primeira compra na BioBio? Use o cupom EMCASABIOBIO para ter 10% OFF no primeiro pedido e também nos seguintes, aplicado no resumo da compra antes da identificação. Ele acumula com promoções vigentes e mantém o cashback em pedidos elegíveis.",
           "O cupom vale para quem já comprou? Vale. O EMCASABIOBIO dá 10% OFF para quem é cliente novo e para quem já comprou na BioBio.",
+          "O cupom vale nos kits? Vale. No nosso teste, a Dupla Make Prática, de R$ 199,80, saiu por R$ 179,82 com o EMCASABIOBIO, e o cashback continuou no resumo.",
           "A primeira compra já gera cashback? A loja informa que compras a partir de R$ 99,90, com o frete contando, geram 10% de volta como saldo. Confira o valor no resumo do seu pedido.",
           "Tem frete grátis na primeira compra? A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. Informe o CEP e confira o frete no checkout antes de pagar."
         ]

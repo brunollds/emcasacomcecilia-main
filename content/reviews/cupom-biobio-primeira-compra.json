@@ -13,6 +13,7 @@
   },
   "publishedAt": "20 de novembro de 2026",
   "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -23,7 +24,7 @@
   "affiliate": "biobio",
   "type": "Guia & Cupons",
   "title": "Cupom BioBio primeira compra: o EMCASABIOBIO no primeiro pedido",
-  "seoTitle": "Cupom BioBio primeira compra: 10% OFF",
+  "seoTitle": "Cupom BioBio primeira compra: EMCASABIOBIO dá 10% OFF",
   "description": "O EMCASABIOBIO vale na primeira compra da BioBio e nas seguintes: onde aplicar no checkout, o cashback que já vale para a segunda, o frete e as trocas.",
   "metaDescription": "O EMCASABIOBIO dá 10% OFF na primeira compra da BioBio e nas seguintes. Veja onde aplicar, o cashback, o frete grátis e por onde começar.",
   "image": "/images/reviews/biobio/cupom-biobio-primeira-compra-capa-v2.webp",
@@ -56,27 +57,72 @@
     {
       "heading": "Vale na primeira compra? E depois?",
       "paragraphs": [
-        "Vale nas duas. O EMCASABIOBIO dá 10% OFF no site oficial para quem compra pela primeira vez e para quem já é cliente, em qualquer forma de pagamento. Está na página do [cupom BioBio](/cupons/biobio), onde você copia o código.",
-        "No teste, o código entrou sobre um protetor solar que já estava em promoção na vitrine e deixou o cashback da loja no resumo. Dá para usá-lo no primeiro pedido e de novo nos seguintes."
+        "A BioBio vende protetores solares minerais e maquiagem com FPS no site oficial. Antes do primeiro pedido, veja os dados da empresa, a entrega e as trocas em [BioBio é confiável?](/reviews/biobio-e-confiavel).",
+        "O EMCASABIOBIO vale nas duas situações: dá 10% OFF no site oficial para quem compra pela primeira vez e para quem já é cliente, em qualquer forma de pagamento. Está na página do [cupom BioBio](/cupons/biobio), onde você copia o código.",
+        "No teste, o código entrou sobre um protetor solar que já estava em promoção e sobre um kit, e o cashback da loja continuou no resumo nos dois casos. Dá para usá-lo no primeiro pedido e de novo nos seguintes."
       ]
     },
     {
       "heading": "Primeira compra: o que saber antes de pagar",
       "paragraphs": [
         "No checkout, o cupom entra no resumo da compra, antes de você preencher a identificação. Confira a linha do desconto e só então siga.",
-        "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. O prazo depende do CEP: informe-o antes de pagar e guarde a previsão. Atraso na entrega é a queixa mais comum no Reclame Aqui da BioBio, e o guia [BioBio é confiável?](/reviews/biobio-e-confiavel) reúne esse ponto e os demais antes de você comprar. O parcelamento anunciado é de até 8x sem juros."
+        "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. Informe o CEP no checkout para conferir prazo e frete antes de pagar. O parcelamento anunciado é de até 8x sem juros."
       ],
       "bullets": [
-        "A loja informa: a primeira compra a partir de R$ 99,90, com o frete contando, gera 10% de volta como saldo de cashback. O saldo vale por 45 dias, paga até 50% do valor dos produtos em pedidos a partir de R$ 100 e não abate o frete.",
-        "Conta nossa: o total do nosso teste, R$ 94,44, fica abaixo de R$ 99,90 antes do frete. Mesmo assim o resumo mostrou os 10% de cashback, e por isso vale conferir o valor no resumo do seu pedido.",
+        "Cashback: a loja informa que a primeira compra a partir de R$ 99,90, com o frete contando, gera 10% de volta como saldo para a segunda. O saldo vale por 45 dias, paga até 50% do valor dos produtos em pedidos a partir de R$ 100 e não abate o frete.",
+        "No nosso teste, o resumo mostrou o aviso de 10% de cashback com o cupom aplicado, num produto avulso e num kit. Confira o valor no resumo do seu pedido.",
         "Para desistir, a loja dá 7 dias corridos do recebimento, com o produto lacrado e sem uso. Em caso de defeito, o aviso vai até 30 dias corridos, com fotos."
       ]
     },
     {
       "heading": "Por onde começar na BioBio",
       "paragraphs": [
-        "A loja vende protetores solares, a base multifuncional em bastão, o BBS (blush, batom e sombra), o pó facial e kits. Para ver o que a loja informa de cada protetor, veja o [guia dos protetores solares da BioBio](/reviews/protetor-solar-biobio-e-bom). Para a base, o [guia dos tons da base em bastão](/reviews/base-biobio-bastao-cores) explica a página “Encontre seu tom”.",
-        "Nos kits, confira no resumo da compra se o desconto do cupom entrou."
+        "Para quem está começando, estes são os cinco itens de entrada. Os preços são os da página da loja em 21 de novembro de 2026, e o desconto do EMCASABIOBIO é de 10% sobre o preço que a página mostra.",
+        "Para ver o que a loja informa de cada protetor, veja o [guia dos protetores solares da BioBio](/reviews/protetor-solar-biobio-e-bom). Para a base, o [guia dos tons da base em bastão](/reviews/base-biobio-bastao-cores) explica a página “Encontre seu tom”."
+      ],
+      "comparisonTable": {
+        "caption": "Os cinco itens de entrada da BioBio e o preço com o cupom.",
+        "headers": [
+          "Produto",
+          "Na página",
+          "Com o EMCASABIOBIO",
+          "Para quê"
+        ],
+        "rows": [
+          [
+            "[Sunnature Facial FPS 30](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30)",
+            "R$ 104,93",
+            "R$ 94,44",
+            "Protetor mineral do rosto, sem cor"
+          ],
+          [
+            "[Sunnature Kids FPS 50](https://biobio.com.br/products/sunnature-kids-biobio-fps-50)",
+            "R$ 97,93",
+            "R$ 88,14",
+            "Protetor em bastão para criança, resistente à água e ao suor por até 40 minutos, segundo a loja"
+          ],
+          [
+            "[Base em bastão FPS 33](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
+            "R$ 111,92 a R$ 123,11, conforme o tom",
+            "R$ 100,73 a R$ 110,80",
+            "Cor e FPS num bastão só"
+          ],
+          [
+            "[BBS FPS 63](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63)",
+            "A partir de R$ 59,94, conforme a cor",
+            "A partir de R$ 53,95",
+            "Blush, batom e sombra num produto só"
+          ],
+          [
+            "[Pó Translúcido Facial FPS 42](https://biobio.com.br/products/po-translucido-facial-sunnature-fps-42)",
+            "R$ 114,31",
+            "R$ 102,88",
+            "Retoque e selagem da make"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Quem prefere levar mais de um item pode olhar os kits. A [Dupla Make Prática](https://biobio.com.br/products/dupla-make-pratica), com base e BBS, custa R$ 199,80 na página e saiu por R$ 179,82 com o EMCASABIOBIO no nosso teste. O [Kit Base e Pó Facial](https://biobio.com.br/products/kit-base-po-facial-dupla-essencial) está a R$ 224,80 e o [Trio Essencial](https://biobio.com.br/products/trio-essencial-biobio), a R$ 294,70."
       ],
       "images": [
         {
@@ -92,18 +138,28 @@
       "heading": "Como aplicar o cupom no primeiro pedido",
       "bullets": [
         "Monte o carrinho no site oficial e clique em Finalizar compra.",
-        "No resumo da compra, digite EMCASABIOBIO no campo Cupom (opcional), tudo junto, e clique em Adicionar.",
+        "No resumo da compra, clique em “Inserir cupom de desconto”, digite EMCASABIOBIO no campo Cupom (opcional), tudo junto, e clique em Adicionar.",
         "Veja a linha do desconto no resumo e só então siga para a identificação."
       ],
       "postParagraphs": [
-        "O [guia de como usar o cupom da BioBio](/reviews/cupom-biobio-como-usar) mostra a tela e a conta do nosso teste."
+        "O [guia de como usar o cupom da BioBio](/reviews/cupom-biobio-como-usar) mostra a conta do nosso teste."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/biobio/cupom-biobio-checkout-com-cupom.webp",
+          "alt": "Resumo da compra no checkout da BioBio com o cupom EMCASABIOBIO aplicado: desconto de R$ 10,49 sobre R$ 104,93, total de R$ 94,44 e 10% de cashback para a próxima compra",
+          "caption": "Resumo da compra da BioBio com o EMCASABIOBIO aplicado e o cashback para a próxima compra.",
+          "objectFit": "contain",
+          "aspectRatio": 0.64
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Tem cupom de primeira compra na BioBio? Para a primeira compra, use o EMCASABIOBIO: 10% OFF no site oficial, aplicado no resumo da compra, antes da identificação.",
+        "Como conseguir desconto na primeira compra na BioBio? Use o cupom EMCASABIOBIO para ter 10% OFF no primeiro pedido e também nos seguintes, aplicado no resumo da compra antes da identificação. Ele acumula com promoções vigentes e mantém o cashback em pedidos elegíveis.",
         "O cupom vale para quem já comprou? Vale. O EMCASABIOBIO dá 10% OFF para quem é cliente novo e para quem já comprou na BioBio.",
+        "O cupom vale nos kits? Vale. No nosso teste, a Dupla Make Prática, de R$ 199,80, saiu por R$ 179,82 com o EMCASABIOBIO, e o cashback continuou no resumo.",
         "A primeira compra já gera cashback? A loja informa que compras a partir de R$ 99,90, com o frete contando, geram 10% de volta como saldo. Confira o valor no resumo do seu pedido.",
         "Tem frete grátis na primeira compra? A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. Informe o CEP e confira o frete no checkout antes de pagar."
       ]
