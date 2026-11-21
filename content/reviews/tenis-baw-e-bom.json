@@ -1,0 +1,240 @@
+{
+  "id": 1214,
+  "slug": "tenis-baw-e-bom",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "21 de novembro de 2026",
+  "publishedAtISO": "2026-11-21",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "BAWEMCASACOMCECILIA",
+  "affiliate": "baw",
+  "title": "Tênis BAW é bom? Os modelos, preço, numeração e o que cada ficha diz",
+  "seoTitle": "Tênis BAW é bom? Modelos, preço e numeração",
+  "type": "Guia de Escolha",
+  "description": "Os tênis da BAW lado a lado: Truck, Grip Mad, Baseline e os outros, com preço, numeração e o que cada ficha descreve, e qual deles lembra o estilo da Vans.",
+  "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW. Veja os tênis Truck, Grip Mad e Baseline: preço, numeração, o que cada ficha diz e se parece com Vans.",
+  "image": "/images/reviews/baw/tenis-baw-e-bom-capa.webp",
+  "imageAlt": "Tênis Grip Mad off white e Tênis Truck preto da BAW, um acima do outro, em fotos da BAW com o logo da marca, os textos «Tênis BAW / modelos e preços» e o código BAWEMCASACOMCECILIA.",
+  "cta": {
+    "text": "Se um tênis da BAW faz sentido para você, abra o site oficial pelo botão, confira a ficha e a numeração do modelo e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho.",
+    "label": "Ir para a BAW",
+    "url": "https://www.bawclothing.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Feito com as páginas dos produtos, sem uso dos calçados. Podemos receber comissão pelo cupom da BAW.",
+  "relatedArticles": [
+    {
+      "slug": "sandalia-linus-baw"
+    },
+    {
+      "slug": "baw-ou-pace"
+    },
+    {
+      "slug": "baw-clothing-e-boa"
+    },
+    {
+      "slug": "cupom-baw-como-usar"
+    },
+    {
+      "slug": "black-friday-baw"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer um tênis de lona com camurça e sola de borracha, e a ficha do Grip Mad responde ao que você procura.",
+      "Você quer o Truck e aceita a ficha com entressola de PU, sola TR e lingueta em ripstop, sem tabela de medidas.",
+      "Você compara o número com um tênis seu e aceita crédito na loja se precisar trocar."
+    ],
+    "skipIf": [
+      "Você precisa de um tênis para treino ou caminhada longa, porque a loja não descreve uso esportivo em nenhuma ficha.",
+      "Você só compra calçado depois de provar, já que a troca vira crédito e não dá para trocar só por outro número."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A BAW vende seis modelos de tênis de estilo urbano, da faixa de entrada ao Truck. Só o Grip Mad e o Truck têm ficha com material e sola; os outros quatro não descrevem nada. A numeração vai até o 44 em três deles. Pesa na escolha a troca, que vira crédito na loja. O BAWEMCASACOMCECILIA dá 10% OFF."
+      ]
+    },
+    {
+      "heading": "Os seis modelos lado a lado",
+      "paragraphs": [
+        "Na [vitrine de calçados da BAW](https://www.bawclothing.com.br/calcados/) há seis modelos de tênis, além de slides e da sandália da collab com a Linus, que tem [artigo próprio](/reviews/sandalia-linus-baw). A tabela traz o que cada página informa. Onde a ficha está vazia, a loja não diz nada sobre material ou sola."
+      ],
+      "comparisonTable": {
+        "caption": "Preços de venda do dia 20 de novembro de 2026, nas páginas da loja. O preço riscado fica de fora.",
+        "headers": [
+          "Modelo",
+          "Preço",
+          "Numeração na página",
+          "O que a ficha diz"
+        ],
+        "rows": [
+          [
+            "[Thunder preto](https://www.bawclothing.com.br/tenis-baw-thunder-151236)",
+            "R$ 169,00",
+            "36 a 41, sem o 40",
+            "Página sem descrição"
+          ],
+          [
+            "[Grip Mad off white](https://www.bawclothing.com.br/tenis-grip-mad-150379)",
+            "R$ 239,00",
+            "33 a 44",
+            "Lona, camurça, sola de borracha TR, tabela de medidas"
+          ],
+          [
+            "[Baseline preto](https://www.bawclothing.com.br/tenis-baw-baseline-151235) (duas páginas)",
+            "R$ 259,00 e R$ 279,00",
+            "35 a 43",
+            "Página sem descrição"
+          ],
+          [
+            "[Audacity](https://www.bawclothing.com.br/tenis-baw-audacity-151247)",
+            "R$ 279,00",
+            "35 a 43",
+            "Página sem descrição"
+          ],
+          [
+            "[Session Revival](https://www.bawclothing.com.br/tenis-session-revival-150404)",
+            "R$ 369,00",
+            "33 a 44",
+            "Página sem descrição"
+          ],
+          [
+            "[Grip Mad preto](https://www.bawclothing.com.br/tenis-grip-mad-150399)",
+            "R$ 369,00",
+            "33 a 44",
+            "Mesma ficha do off white"
+          ],
+          [
+            "[Truck preto](https://www.bawclothing.com.br/tenis-truck-150200)",
+            "R$ 389,00",
+            "33 a 44",
+            "Entressola de PU, sola TR, lingueta em ripstop"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O [cupom BAW](/cupons/baw) é o BAWEMCASACOMCECILIA, de 10% OFF. Confira a linha do desconto no carrinho antes de pagar. As condições estão em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar)."
+      ]
+    },
+    {
+      "heading": "Truck: o que a ficha descreve",
+      "paragraphs": [
+        "É o tênis mais caro da linha. A loja descreve entressola de PU, sola TR com textura “inspirada em mapas topográficos” e lingueta em ripstop, e diz que o tênis é criado e produzido no Brasil.",
+        "A página tem uma divergência: o título da tabela de medidas diz 35 a 43, sem as medidas, e a grade de tamanhos vai do 33 ao 44. Antes de fechar, confira com o atendimento da BAW qual faixa vale e quais são as medidas."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+          "alt": "Tênis Truck preto da BAW visto de perfil, com cabedal cinza-escuro, sola clara com cravos e detalhe roxo no calcanhar, em foto oficial da loja",
+          "caption": "Tênis Truck, na cor preta. A ficha informa sola TR e entressola de PU. Foto: BAW.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.bawclothing.com.br/tenis-truck-150200"
+        }
+      ]
+    },
+    {
+      "heading": "Grip Mad: lona, camurça e a tabela de medidas",
+      "paragraphs": [
+        "A ficha do Grip Mad descreve um tênis de lona com traseiro e biqueira em camurça, costuras contrastantes, sola de borracha TR, espumas internas, cadarço de chenile, etiqueta na lingueta e um “B®” bordado. É a única ficha de tênis da BAW com tabela de medidas preenchida: o 33 tem 24 cm e o 44 tem 35 cm.",
+        "A mesma ficha traz “Composição: Couro e Borracha”, o que não bate com o tênis de lona descrito no começo. Para saber do que o par é feito, pergunte ao atendimento antes de comprar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+          "alt": "Tênis Grip Mad off white da BAW visto de perfil, em lona clara com costuras escuras, B® bordado na lateral e sola alta frisada, em foto oficial da loja",
+          "caption": "Tênis Grip Mad, na cor off white. A ficha descreve lona e camurça. Foto: BAW.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.bawclothing.com.br/tenis-grip-mad-150379"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Tênis Grip Mad off white",
+            "url": "https://www.bawclothing.com.br/tenis-grip-mad-150379",
+            "howTo": "Nossa sugestão é usar com jeans reto e camiseta lisa, deixando o tênis claro como destaque do visual.",
+            "occasion": "Dia a dia e passeio.",
+            "pairsWith": [
+              {
+                "label": "jeans reto"
+              },
+              {
+                "label": "camiseta branca"
+              },
+              {
+                "label": "meia curta"
+              }
+            ]
+          },
+          {
+            "piece": "Tênis Truck preto",
+            "url": "https://www.bawclothing.com.br/tenis-truck-150200",
+            "howTo": "Nossa sugestão é um visual todo escuro: calça de moletom ou jeans preto, com uma jaqueta leve por cima.",
+            "occasion": "Dia a dia e programas de noite.",
+            "pairsWith": [
+              {
+                "label": "calça de moletom"
+              },
+              {
+                "label": "jeans preto"
+              },
+              {
+                "label": "jaqueta leve"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Thunder, Baseline, Audacity e Session Revival",
+      "paragraphs": [
+        "Os quatro têm nome, preço e grade, e a descrição está vazia. A loja não informa material, sola nem medidas.",
+        "O Thunder é o mais barato da linha. A grade dele pula o 40, então confira se o seu número está disponível. O Baseline preto aparece em duas páginas, com preços diferentes. O Audacity e o Baseline vão do 35 ao 43, e o Session Revival vai do 33 ao 44."
+      ]
+    },
+    {
+      "heading": "Tênis tipo Vans: onde a BAW entra",
+      "paragraphs": [
+        "Quem procura um tênis parecido com os da Vans costuma pensar em lona, perfil baixo e visual de skate.",
+        "Dos modelos da BAW, o Grip Mad é o que tem uma ficha nessa linha: lona, camurça, cadarço e sola de borracha, que a loja descreve como TR, e não como vulcanizada. O preço das duas cores está na tabela do começo. A comparação com outra marca nacional de streetwear está em [BAW ou Pace?](/reviews/baw-ou-pace)."
+      ]
+    },
+    {
+      "heading": "Qual número escolher",
+      "paragraphs": [
+        "Só o Grip Mad traz medidas, de 24 cm no 33 a 35 cm no 44. Nos outros modelos a página não traz medida nenhuma. Nesse caso, compare com um tênis que você já usa e confira a numeração no atendimento da BAW antes de fechar.",
+        "Pense na regra de troca. Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), o prazo é de 7 dias corridos do recebimento, com o produto sem uso, com etiqueta e na embalagem original. A troca vira crédito no valor pago, na conta do CPF da compra, e a loja não troca por outro número. Na devolução, o reembolso volta pela mesma forma de pagamento."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Tênis BAW é bom? Pelas páginas, só dá para saber material e sola no Grip Mad e no Truck; os outros quatro modelos estão sem descrição. Ninguém da equipe usou os tênis, então não avaliamos conforto nem durabilidade.",
+        "Tênis BAW é masculino ou feminino? As fichas do Grip Mad e do Truck não indicam público, e a home da BAW diz que a coleção é “feita para homens e mulheres”. Na grade, Grip Mad, Truck e Session Revival vão do 33 ao 44.",
+        "Qual a numeração do tênis BAW? Grip Mad, Truck e Session Revival vão do 33 ao 44; Baseline e Audacity, do 35 ao 43; Thunder, do 36 ao 41, sem o 40. No Truck, a tabela de medidas fala em 35 a 43, então confira antes de comprar.",
+        "Tênis BAW parece Vans? No estilo, o Grip Mad é o modelo dessa linha: a ficha descreve lona, camurça, cadarço e sola de borracha TR. Não comparamos acabamento nem qualidade.",
+        "Tem cupom para tênis BAW? Sim, o BAWEMCASACOMCECILIA dá 10% OFF na BAW. Não o testamos nestes modelos, então confira a linha do desconto no carrinho."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": 1215,
+  "slug": "baw-ou-pace",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "21 de novembro de 2026",
+  "publishedAtISO": "2026-11-21",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "BAWEMCASACOMCECILIA",
+  "affiliate": "baw",
+  "title": "BAW ou Pace? Preço, peças, tênis e para quem é cada marca de streetwear",
+  "seoTitle": "BAW ou Pace? Preço, tênis e para quem é cada uma",
+  "type": "Comparativo",
+  "description": "BAW e Pace lado a lado: quanto custam camiseta, calça e tênis em cada marca, o que as fichas dos tênis dizem e para quem faz mais sentido cada uma delas.",
+  "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW. BAW ou Pace: veja quanto custam camiseta, calça e tênis em cada marca e para quem cada uma faz mais sentido.",
+  "image": "/images/reviews/baw/baw-ou-pace-capa.webp",
+  "imageAlt": "Tênis Truck preto da BAW visto de perto, com cabedal escuro e sola clara com cravos, em foto da BAW com o logo da marca, os textos «BAW ou Pace? / preço e tênis» e o código BAWEMCASACOMCECILIA.",
+  "cta": {
+    "text": "Se a faixa de preço da BAW serve para você, abra o site oficial pelo botão, escolha a peça e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho.",
+    "label": "Ir para a BAW Clothing",
+    "url": "https://www.bawclothing.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Comissão pelo cupom da BAW; a Pace não é parceira. Não usamos os produtos.",
+  "relatedArticles": [
+    {
+      "slug": "tenis-baw-e-bom"
+    },
+    {
+      "slug": "baw-clothing-e-boa"
+    },
+    {
+      "slug": "cupom-baw-como-usar"
+    },
+    {
+      "slug": "sandalia-linus-baw"
+    },
+    {
+      "slug": "baw-clothing-e-confiavel"
+    },
+    {
+      "slug": "black-friday-baw"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer pagar menos por camiseta, calça e tênis, já que a BAW parte de preços bem mais baixos.",
+      "Você quer usar o BAWEMCASACOMCECILIA, que dá 10% OFF no site da BAW."
+    ],
+    "skipIf": [
+      "Seu orçamento para tênis é maior e você procura o modelo vulcanizado em borracha natural ou o tabi, que estão nas fichas da Pace.",
+      "Você quer uma marca vendida em loja de moda internacional: segundo a ELLE Brasil, a Pace está na Dover Street Market Paris."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "BAW e Pace são marcas brasileiras de streetwear em faixas de preço diferentes. A BAW tem camisetas e tênis de entrada. A Pace é premium, com tênis de preço bem mais alto e venda também fora do país, segundo a imprensa. Quem decide pelo preço fica com a BAW, e o BAWEMCASACOMCECILIA dá 10% OFF."
+      ]
+    },
+    {
+      "heading": "Quanto custa cada uma",
+      "paragraphs": [
+        "Para comparar, a tabela põe o mesmo tipo de peça lado a lado. Na BAW, camiseta e calça entram com uma peça de exemplo; na Pace, com a faixa de preço do site."
+      ],
+      "comparisonTable": {
+        "caption": "Preço de venda nos sites oficiais, sem o valor riscado e antes do frete. Tênis da BAW e peças da Pace em 20 de novembro de 2026; camiseta e calça da BAW em 16 de novembro. Na Pace, o preço da primeira variante de cada produto.",
+        "headers": [
+          "Tipo de peça",
+          "BAW",
+          "Pace"
+        ],
+        "rows": [
+          [
+            "Camiseta",
+            "Camiseta Regular Goth 3.0, R$ 59",
+            "De R$ 249 a R$ 360"
+          ],
+          [
+            "Calça",
+            "Calça Track BAW Tag, de R$ 149 a R$ 219, conforme a cor",
+            "De R$ 780 a R$ 10.000"
+          ],
+          [
+            "Tênis",
+            "De R$ 169 a R$ 389",
+            "De R$ 679 a R$ 1.650"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O tênis mais barato da Pace custa R$ 290 a mais que o mais caro da BAW. São duas faixas, e a escolha depende de quanto você quer gastar e do que procura em cada peça.",
+        "A Pace também tem jaquetas, que ficaram fora da tabela. Os preços de cada marca mudam por cor e por campanha, então confirme na página antes de fechar."
+      ]
+    },
+    {
+      "heading": "Tênis BAW e tênis Pace",
+      "paragraphs": [
+        "A BAW tem seis modelos de tênis no site. Aqui vão três deles, mais três da Pace, com o que cada ficha diz. Os seis, com a ficha de cada um, estão em [Tênis BAW é bom?](/reviews/tenis-baw-e-bom)."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Modelo",
+          "Preço",
+          "Numeração",
+          "O que a ficha diz"
+        ],
+        "rows": [
+          [
+            "BAW Thunder preto",
+            "R$ 169",
+            "36 a 41, sem o 40",
+            "Ficha vazia"
+          ],
+          [
+            "BAW Grip Mad off white",
+            "R$ 239",
+            "33 a 44",
+            "Lona, traseiro e biqueira em camurça, sola de borracha TR"
+          ],
+          [
+            "BAW Truck preto",
+            "R$ 389",
+            "33 a 44",
+            "Entressola de PU, sola TR, lingueta em ripstop"
+          ],
+          [
+            "Pace Yacht-Rubber Leather High",
+            "R$ 679",
+            "34 a 44",
+            "Vulcanizado, 100% borracha natural brasileira, couro legítimo"
+          ],
+          [
+            "Pace BR-01 V2",
+            "R$ 1.199",
+            "35 a 45",
+            "Vulcanizado, em canvas ou couro"
+          ],
+          [
+            "Pace Yoshi's Tabi V2",
+            "R$ 1.100 a R$ 1.200",
+            "34 a 45",
+            "Dedo separado, montado à mão"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "As fichas descrevem construções diferentes: sola TR e entressola de PU na BAW, vulcanizado em borracha natural na Pace.",
+        "Três páginas da BAW pedem conferência antes de fechar. A ficha do Grip Mad fala em lona e camurça e traz “Composição: Couro e Borracha”. A tabela de medidas do Truck é de 35 a 43, e a página vende de 33 a 44. A grade do Thunder pula o 40.",
+        "A Pace tem ainda o XP Duckboot, com solado Vibram, e os modelos Texaco Boots V2 e Bunny Tomo V2, que ficaram fora da tabela."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+          "alt": "Tênis Grip Mad off white da BAW visto de perfil, em lona clara com costuras escuras, B® bordado na lateral e sola alta frisada, em foto oficial da loja",
+          "caption": "Tênis Grip Mad, na cor off white. Foto: BAW.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.bawclothing.com.br/tenis-grip-mad-150379"
+        },
+        {
+          "src": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+          "alt": "Tênis Truck preto da BAW visto de perfil, com cabedal cinza-escuro, sola clara com cravos e detalhe roxo no calcanhar, em foto oficial da loja",
+          "caption": "Tênis Truck, na cor preta. Foto: BAW.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.bawclothing.com.br/tenis-truck-150200"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Tênis Grip Mad off white",
+            "url": "https://www.bawclothing.com.br/tenis-grip-mad-150379",
+            "howTo": "Sugestão nossa: calça jeans reta e camiseta branca, deixando o tênis claro como ponto de destaque.",
+            "occasion": "Dia a dia.",
+            "pairsWith": [
+              {
+                "label": "calça jeans reta"
+              },
+              {
+                "label": "camiseta branca"
+              },
+              {
+                "label": "meia branca"
+              }
+            ]
+          },
+          {
+            "piece": "Tênis Truck preto",
+            "url": "https://www.bawclothing.com.br/tenis-truck-150200",
+            "howTo": "Sugestão nossa: calça de moletom cinza e moletom de capuz, tudo em tons neutros.",
+            "occasion": "Dia a dia e passeio.",
+            "pairsWith": [
+              {
+                "label": "calça de moletom cinza"
+              },
+              {
+                "label": "moletom de capuz"
+              },
+              {
+                "label": "meia preta"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Quem faz cada marca",
+      "paragraphs": [
+        "A BAW se apresenta no site como “uma marca de roupa streetwear brasileira”, fundada em 2014. Tem camisetas, moletons, calças, tênis e slides. De quem é a marca hoje está em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+        "Segundo a ELLE Brasil, a Pace é uma marca paulistana, criada em 2017, que começou com foco em calçados. A mesma revista diz que é a primeira etiqueta brasileira na Dover Street Market Paris. Segundo a Hypebeast, ela lançou uma colaboração com a ASICS no Gel-Kayano 12.1.",
+        "Pelo site oficial, a Pace tem camisetas, calças, jaquetas e calçados."
+      ]
+    },
+    {
+      "heading": "Onde comprar",
+      "paragraphs": [
+        "Cada marca vende no próprio site. Para a BAW, o endereço é [bawclothing.com.br](https://www.bawclothing.com.br/). A Pace não é parceira nossa, e por isso não há link nem código dela aqui.",
+        "Na BAW, o [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF e se digita no campo de cupom do carrinho. Confira a linha do desconto no resumo do pedido. As condições estão no guia [como usar o cupom da BAW](/reviews/cupom-baw-como-usar). O Pix tem desconto próprio na BAW, e o valor final aparece no resumo do pedido."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "BAW ou Pace, qual é mais barata? A BAW. Os tênis dela vão de R$ 169 a R$ 389, e os da Pace, de R$ 679 a R$ 1.650. Camiseta e calça estão na tabela do começo.",
+        "A Pace é marca brasileira? Segundo a ELLE Brasil, é uma marca paulistana, criada em 2017.",
+        "Quanto custa um tênis Pace? Os calçados do site oficial vão de R$ 679 a R$ 1.650.",
+        "Tem cupom para a BAW? Tem: o BAWEMCASACOMCECILIA dá 10% OFF no site da BAW. Para a Pace não temos cupom."
+      ]
+    }
+  ]
+}
