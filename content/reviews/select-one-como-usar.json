@@ -1,0 +1,150 @@
+{
+  "id": 1200,
+  "slug": "select-one-como-usar",
+  "locale": "pt",
+  "title": "Select One: como é a aplicação no salão e o que perguntar antes",
+  "seoTitle": "Select One: como é a aplicação no salão",
+  "type": "Guia Prático",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "A Prohall orienta que a Select One seja aplicada por cabeleireiro. Veja o que acontece no salão e o que perguntar se você tem cachos ou fez química recentemente.",
+  "metaDescription": "A Select One é de uso profissional. Veja como é a sessão no salão, por que o teste de mecha importa e o que perguntar ao cabeleireiro.",
+  "publishedAt": "20 de novembro de 2026",
+  "publishedAtISO": "2026-11-20",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/prohall/select-one-como-usar-capa.webp",
+  "imageAlt": "Frasco branco de 1 litro da Select One, com rótulo azul, entre cocos abertos e sobre fundo lilás, em foto da Prohall com o logo da marca e os textos «Select One / aplicação no salão».",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Você vai ser atendida por um cabeleireiro e quer saber o que perguntar antes da aplicação.",
+      "Você fez química recentemente e quer entender o intervalo que a loja pede."
+    ],
+    "skipIf": [
+      "Você pensa em aplicar em casa: a loja diz que a Select One não serve para isso.",
+      "Você está grávida ou amamentando e ainda não falou com o médico."
+    ]
+  },
+  "cta": {
+    "text": "Se o seu cabeleireiro indicar a Select One, a página oficial da Prohall traz o modo de uso e as precauções do fabricante.",
+    "label": "Ir para a Prohall",
+    "url": "https://lojaprohall.com.br/",
+    "sponsored": true
+  },
+  "affiliate": "prohall",
+  "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pela loja.",
+  "relatedArticles": [
+    {
+      "slug": "select-one-ou-burix-one"
+    },
+    {
+      "slug": "prohall-e-boa"
+    },
+    {
+      "slug": "prohall-e-confiavel"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Select One é de uso profissional, segundo a Prohall. Na sessão, o cabeleireiro avalia o fio e faz os testes antes de aplicar o produto. Conte se você descoloriu, fez outra química ou quer preservar os cachos. Isso ajuda o profissional a decidir se o procedimento faz sentido para você."
+      ]
+    },
+    {
+      "heading": "Antes de marcar, conte o histórico do seu cabelo",
+      "paragraphs": [
+        "A Prohall orienta aplicação por cabeleireiro habilitado. Na primeira conversa, conte o que já usou no cabelo e pergunte como o profissional vai testar a reação do fio antes do procedimento.",
+        "Por isso este guia não ensina a aplicar. Ele mostra o que o fabricante descreve, para você entender o que acontece na cadeira e saber o que perguntar. Quem vai aplicar, e como, é decisão do profissional.",
+        "Não usamos o produto: tudo aqui é o que a Prohall publica na página da Select One."
+      ]
+    },
+    {
+      "heading": "O que acontece durante a sessão",
+      "paragraphs": [
+        "Pelas orientações da Prohall, o cabeleireiro faz os testes antes de aplicar. A sessão inclui lavagem, aplicação da Select One, enxágue, escova e prancha. No final, a marca orienta usar a Equalize Mask."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/prohall/select-one-como-usar-equalize-mask-300g.webp",
+          "alt": "Pote bordô da Equalize Mask de 300 g da Prohall, em fundo branco, em foto oficial da loja",
+          "caption": "Equalize Mask 300 g, a máscara que a página manda aplicar no fim. Foto: Prohall.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://lojaprohall.com.br/products/mascara-reconstrutora-neutralizante-equalize-mask-300g"
+        }
+      ]
+    },
+    {
+      "heading": "Por que a etapa térmica depende do fio",
+      "paragraphs": [
+        "A Prohall descreve limites diferentes para fios resistentes e para fios descoloridos, platinados ou sensibilizados. Pergunte ao cabeleireiro como o teste de mecha muda a decisão para o seu cabelo."
+      ]
+    },
+    {
+      "heading": "Química antes: colorido, descolorido e alisado",
+      "paragraphs": [
+        "Se você coloriu, descoloriu ou alisou recentemente, diga ao cabeleireiro qual produto usou e quando. A Prohall orienta que o profissional avalie a compatibilidade e faça o teste de mecha antes de aplicar.",
+        "Se você mexeu no cabelo há pouco tempo, diga isso ao cabeleireiro antes de marcar. É o dado que muda a conversa, e ele é quem decide se espera."
+      ]
+    },
+    {
+      "heading": "Cabelo cacheado: o que a página diz",
+      "paragraphs": [
+        "Segundo a página, a Select One pode ser usada em cabelo cacheado, mas a etapa térmica tende a relaxar os cachos e a reduzir o volume. Quem gosta do cacho como está deve levar essa informação para a conversa.",
+        "Pergunte ao profissional o que esperar no seu cabelo e o que ele sugere para quem quer manter os cachos."
+      ]
+    },
+    {
+      "heading": "Gestante e lactante",
+      "paragraphs": [
+        "Durante a gestação ou amamentação, a página orienta conversar com o médico antes de marcar. A avaliação médica vem antes do teste de mecha.",
+        "Sem a liberação do médico, não há o que combinar com o cabeleireiro. A página não afirma que o produto é seguro nesse período: ela manda perguntar a quem acompanha você."
+      ]
+    },
+    {
+      "heading": "A duração que a Prohall informa",
+      "paragraphs": [
+        "A Prohall anuncia duração de 3 a 5 meses, dependendo dos cuidados depois da química. Pergunte ao cabeleireiro quais cuidados ele recomenda e quanto produto o seu cabelo costuma pedir.",
+        "O quanto cada frasco rende depende de quem aplica. Pergunte ao cabeleireiro quanto produto o seu cabelo costuma pedir."
+      ]
+    },
+    {
+      "heading": "Perguntas para o profissional, antes de marcar",
+      "paragraphs": [
+        "Leve esta lista para a conversa:"
+      ],
+      "bullets": [
+        "Você faz o teste de alergia e o de mechas antes de aplicar?",
+        "Qual é o diagnóstico do meu cabelo, e quanto tempo de ação você pretende usar?",
+        "A que temperatura você vai passar a prancha no meu tipo de fio?",
+        "Meu cabelo tem química recente. É preciso esperar mais antes de aplicar?",
+        "O que acontece com os meus cachos depois da etapa térmica?",
+        "Que cuidados eu devo ter depois, para a aplicação durar o que a loja informa?",
+        "Você aplica a Equalize Mask no fim, como a página manda?"
+      ],
+      "postParagraphs": [
+        "Para comparar os frascos, veja [Select One ou Burix One](/reviews/select-one-ou-burix-one). O [guia da Prohall](/reviews/prohall-e-boa) reúne as outras linhas."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Select One pode usar em grávida? A Prohall orienta procurar o médico antes de marcar a aplicação. O profissional de saúde avalia o seu caso.",
+        "Como é a aplicação da Select One? A Prohall descreve teste de mecha, lavagem, aplicação, enxágue, escova, prancha e finalização com a Equalize Mask. A sessão é conduzida pelo cabeleireiro.",
+        "Select One pode usar em casa? A Prohall orienta aplicação por cabeleireiro habilitado."
+      ]
+    }
+  ]
+}

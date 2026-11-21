@@ -237463,7 +237463,7 @@ export const reviewsData: unknown[] = [
             [
               "Fios enfraquecidos",
               "[Force Hair](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
-              "Shampoo, máscara e tônico “fortificante”, indicados pela marca para fios com queda e quebra"
+              "Shampoo, máscara e tônico de uso diário no couro cabeludo"
             ]
           ]
         },
@@ -237485,7 +237485,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "São os produtos mais buscados da marca e os que mais pedem atenção ao modo de uso. Select One e Burix One são descritos pela Prohall como tratamentos antifrizz ativados por calor; o Btx Blend Repair, como selagem que age por 40 a 60 minutos e é enxaguada.",
           "Os rótulos trazem a indicação de uso profissional. A política da loja diz que produtos de uso profissional devem ser usados conforme as instruções do fabricante, e o FAQ dela recomenda o teste de mecha antes de aplicar sobre outra química.",
-          "Não usamos os produtos, por isso este guia não diz quanto alisa nem quanto dura. Para dúvida de composição ou de saúde, valem o rótulo e um profissional."
+          "Não usamos os produtos, por isso este guia não diz quanto alisa nem quanto dura. Para dúvida de composição ou de saúde, valem o rótulo e um profissional. A diferença entre as duas, com o preço por ml, está em [Select One ou Burix One](/reviews/select-one-ou-burix-one), e o que acontece no salão, em [Select One: como usar](/reviews/select-one-como-usar)."
         ],
         "images": [
           {
@@ -237501,7 +237501,7 @@ export const reviewsData: unknown[] = [
         "heading": "Os tratamentos de rotina",
         "paragraphs": [
           "A Absolut One é a linha de lavagem: shampoo, condicionador e máscara, que a marca indica para hidratação, maciez e brilho. Os cronogramas reúnem três máscaras, uma para cada etapa: hidratação, nutrição e reconstrução.",
-          "A Force Hair tem shampoo, máscara e tônico, indicados pela marca para fios enfraquecidos. A página fala em crescimento e em redução de queda; são declarações do fabricante, sem teste nosso."
+          "A Force Hair reúne shampoo, máscara e tônico. A Prohall descreve o tônico como produto de uso diário no couro cabeludo, sem enxágue. Veja os itens e o modo de uso no [guia Force Hair](/reviews/force-hair-prohall-para-que-serve)."
         ]
       },
       {
@@ -290463,6 +290463,1861 @@ export const reviewsData: unknown[] = [
           "Qual a porção do BCAA Max Titanium? Quatro cápsulas (2,4 g) no 2400 e um dosador de 7 g no 4:1:1. Quantidade por dia, para quem tem condição de saúde, é com médico ou nutricionista.",
           "Qual pote de BCAA 2400 custa menos por porção? O de 200 cápsulas, no preço de cartão do quadro; depois vem o de 100.",
           "O cupom dá 10% no BCAA? Dá até 10%, conforme o produto. No BCAA 2400 de 100 cápsulas o carrinho mostrou cerca de 2%."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1195,
+    "slug": "aparelho-de-jantar-quantas-pecas-escolher",
+    "locale": "pt",
+    "title": "Aparelho de jantar: 16, 30 ou 42 peças, para quantas pessoas cada um serve",
+    "seoTitle": "Aparelho de jantar de 16, 30 ou 42 peças: quantas pessoas?",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Aparelho de jantar de 16, 30 ou 42 peças: para quantas pessoas cada um serve, o que vem em cada conjunto e o que a Let's Eat It vende hoje, com os cuidados e o preço.",
+    "metaDescription": "MAUAD dá 5% OFF na Let's Eat It: aparelho de jantar de 30 peças serve seis pessoas? Veja o que vem nos de 16, 30 e 42 peças.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
+    "imageAlt": "Tigelas e pratos azul-petróleo do aparelho Bio Oceano, da Porto Brasil, com comida servida sobre mesa clara, em foto da Let's Eat It com o logo da marca, os textos «Aparelho de jantar / quantas peças?» e o cupom MAUAD.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, com desconto no Pix quando oferecido pela loja.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
+    "relatedArticles": [
+      {
+        "slug": "porto-brasil-e-boa"
+      },
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
+      },
+      {
+        "slug": "mesa-posta-dia-a-dia-o-que-comprar"
+      },
+      {
+        "slug": "black-friday-letseatit"
+      },
+      {
+        "slug": "faqueiro-wolff-qual-escolher"
+      },
+      {
+        "slug": "mesa-posta-ano-novo-o-que-precisa-quanto-custa"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve um conjunto de 30 peças se são seis pessoas e você usa prato raso, de sobremesa, fundo e xícara com pires.",
+        "Leve o de 42 peças se a mesa de seis também pede xícara de chá e você aceita lavar à mão.",
+        "Leve dois conjuntos de 30 se a mesa passa de seis pessoas."
+      ],
+      "skipIf": [
+        "Passe o de 42 se a lava-louças ou o micro-ondas fazem parte da rotina: a ficha proíbe os dois.",
+        "Passe o Porto Brasil se não pode esperar: os três à venda estão em pré-venda.",
+        "Passe os de 30 e de 42 se a mesa é de duas ou quatro pessoas: sobra peça."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Nos conjuntos deste guia, o aparelho de 16 peças serve quatro pessoas. Os de 30 e 42 servem seis. O de 42 acrescenta uma xícara de chá com pires por pessoa. Na Let's Eat It, os Porto Brasil de 30 estão em pré-venda. Confira a previsão se você precisa da louça para uma ocasião."
+        ]
+      },
+      {
+        "heading": "Quantas peças por pessoa: o que conta como peça",
+        "paragraphs": [
+          "Prato, xícara e pires entram na contagem, cada um como uma peça. Por isso a conta certa é por lugar à mesa: some o que cada pessoa usa e multiplique pelo número de convidados."
+        ],
+        "bullets": [
+          "16 peças: quatro por pessoa (prato raso, de sobremesa, cumbuca e caneca) servem quatro pessoas.",
+          "30 peças: cinco por pessoa (raso, sobremesa, fundo, xícara de café e pires) servem seis pessoas.",
+          "42 peças: sete por pessoa (raso, fundo, sobremesa, xícara de café com pires e xícara de chá com pires) servem seis pessoas."
+        ],
+        "postParagraphs": [
+          "A divisão por lugar sai das listas de peças das páginas da loja, que nem sempre dizem para quantas pessoas o conjunto serve."
+        ]
+      },
+      {
+        "heading": "Porto Brasil de 30 peças: o que vem e para quantas pessoas",
+        "paragraphs": [
+          "O conjunto de 30 peças da Porto Brasil traz seis pratos rasos, seis de sobremesa, seis fundos e seis xícaras de café com seis pires. A loja informa: o texto de venda do [Bio Oceano](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e os dos outros dois Porto Brasil de 30 peças dizem que o conjunto serve até seis pessoas.",
+          "Os três Porto Brasil de 30 peças à venda estão em pré-venda, com envio a partir de cerca de 15 dias, contados da confirmação do pedido, segundo a página. O Bio Oceano e o [Petroleum](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custam R$ 798,00 cada, e o [Bio Latte](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 778,84.",
+          "O Bio Oceano e o Bio Latte têm as mesmas medidas: raso de 27,5 cm, sobremesa de 21,5 cm, fundo de 22,5 cm e xícara de café de 120 ml. O Petroleum é um pouco menor: raso de 26,5 cm, sobremesa de 19,5 cm e fundo de 21 cm, com 600 ml, e a xícara de café também tem 120 ml.",
+          "O material é cerâmica stoneware. A ficha diz que pode ir à lava-louças, ao forno, ao micro-ondas e ao freezer, com variação térmica aconselhada de cerca de 180 °C. O que isso muda no uso, e a diferença para a porcelana, está em [a louça Porto Brasil é boa?](/reviews/porto-brasil-e-boa).",
+          "Para ver o conjunto dentro de uma mesa de seis, com talheres e taças, a faixa completa da [mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) usa o Porto Brasil de 30 peças."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-porto-petroleum.webp",
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "alt": "Aparelho de jantar Petroleum Night Sky, da Porto Brasil, empilhado sobre madeira: pratos azuis manchados e xícaras pretas com pires",
+            "caption": "Aparelho de Jantar Stoneware Petroleum Night Sky 30 peças, Porto Brasil. Foto: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custam os conjuntos para seis",
+        "paragraphs": [
+          "Os três Porto Brasil de 30 peças e os dois Grecco de 42 servem seis pessoas. A tabela separa o preço do dia da estimativa com o cupom. O conjunto de 16 peças estava esgotado na consulta."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda lido em 20 de novembro de 2026. Conta nossa: 5% do código MAUAD sobre o preço do dia.",
+          "headers": [
+            "Conjunto",
+            "Peças por lugar",
+            "Preço no cartão",
+            "Com MAUAD"
+          ],
+          "rows": [
+            [
+              "[Bio Oceano 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "5",
+              "R$ 798,00",
+              "R$ 758,10"
+            ],
+            [
+              "[Petroleum 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "5",
+              "R$ 798,00",
+              "R$ 758,10"
+            ],
+            [
+              "[Bio Latte 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "5",
+              "R$ 778,84",
+              "R$ 739,90"
+            ],
+            [
+              "[Grecco azul 42 peças, L'Hermitage](https://letseatit.com.br/products/aparelho-de-jantar-grecco-42-pcs-porcelana-azul-com-filete-dourado-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "7",
+              "R$ 1.164,00",
+              "R$ 1.105,80"
+            ],
+            [
+              "[Grecco verde 42 peças, L'Hermitage](https://letseatit.com.br/products/aparelho-de-jantar-grecco-42pcs-porcelana-verde-com-filete-dourado-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "7",
+              "R$ 1.349,00",
+              "R$ 1.281,55"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Dividido por seis lugares e já com o código, o Porto Brasil de 30 peças sai a partir de R$ 123,32 por pessoa (Bio Latte), e o Grecco de 42, a partir de R$ 184,30 (azul). O de 42 custa mais e traz a xícara de chá, em porcelana, mas não serve mais gente."
+        ]
+      },
+      {
+        "heading": "Grecco de 42 peças: porcelana com filete dourado",
+        "paragraphs": [
+          "Os dois [Grecco](https://letseatit.com.br/products/aparelho-de-jantar-grecco-42-pcs-porcelana-azul-com-filete-dourado-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) da L'Hermitage trazem seis pratos rasos de 27,6 cm, seis fundos de 22,9 cm, seis de sobremesa de 21 cm, seis xícaras de café de 80 ml e seis de chá de 180 ml, todas com pires. Estão disponíveis em azul e em [verde](https://letseatit.com.br/products/aparelho-de-jantar-grecco-42pcs-porcelana-verde-com-filete-dourado-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), os dois com filete dourado.",
+          "A ficha dos dois Grecco orienta lavar à mão e manter fora do micro-ondas. A seção de material diz porcelana. A descrição cita New Bone China e usa o nome de outra linha da L’Hermitage. Confirme o material com a loja se isso decidir a compra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-grecco-azul.webp",
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-grecco-42-pcs-porcelana-azul-com-filete-dourado-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "alt": "Três pratos brancos de borda azul em grega com filete dourado e duas xícaras com pires do aparelho Grecco, da L'Hermitage, sobre fundo branco",
+            "caption": "Aparelho de Jantar Grecco 42 peças, porcelana azul com filete dourado, L'Hermitage. Foto: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Quando o de 30 não basta",
+        "paragraphs": [
+          "Passou de seis pessoas, nenhum destes conjuntos fecha a conta sozinho: o de 42 também é para seis. As saídas são somar um segundo conjunto ou completar com pratos de outra linha. Dois Bio Oceano custam R$ 1.596,00, ou R$ 1.516,20 com o código, para até doze pessoas, na mesma conta de 5%.",
+          "Para quatro pessoas ou menos, o de 30 sobra, e o conjunto de 16 peças segue fora de venda. Para duas pessoas, a conta de peça por peça está em [mesa posta do dia a dia](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
+        ]
+      },
+      {
+        "heading": "Cupom MAUAD e como conferir a compra",
+        "paragraphs": [
+          "O [cupom Let's Eat It](/cupons/letseatit), MAUAD, dá 5% no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Confira no carrinho como os dois descontos aparecem antes de pagar.",
+          "O estoque muda em poucos dias, e o envio a partir de cerca de 15 dias não é data de entrega: confira o prazo do seu CEP no carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Existe aparelho de jantar Porto Brasil de 20 peças? Na consulta à Let's Eat It, encontramos os de 30 peças da Porto Brasil. O conjunto menor, de 16 peças, estava esgotado.",
+          "Aparelho de jantar de 30 peças serve quantas pessoas? No Porto Brasil do guia, são seis lugares. Cada pessoa tem prato raso, de sobremesa e fundo, mais xícara de café e pires.",
+          "Aparelho de jantar de 16 peças serve quantas pessoas? O conjunto de 16 peças citado no guia serve quatro pessoas, com prato raso, prato de sobremesa, cumbuca e caneca por lugar.",
+          "O aparelho de jantar Porto Brasil vai ao micro-ondas? A ficha diz que o stoneware da marca pode ir ao micro-ondas, ao forno, ao freezer e à lava-louças, respeitando o manuseio. Os detalhes estão em [a louça Porto Brasil é boa?](/reviews/porto-brasil-e-boa).",
+          "Aparelho de jantar de 42 peças serve quantas pessoas? O Grecco serve seis. Além dos três pratos por lugar, traz xícaras de café e de chá, cada uma com pires."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1196,
+    "slug": "faqueiro-wolff-qual-escolher",
+    "locale": "pt",
+    "title": "Faqueiro Wolff: 24, 54, 101 ou 130 peças, para quantas pessoas e qual linha escolher",
+    "seoTitle": "Faqueiro Wolff de 24, 54, 101 ou 130 peças: qual escolher?",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Faqueiro Wolff de 24, 54, 101 ou 130 peças: o que vem em cada tamanho, para quantas pessoas serve, as linhas Viena, Firenze, Avalon e Berna e o preço por peça.",
+    "metaDescription": "MAUAD dá 5% OFF na Let's Eat It. Compare os faqueiros Wolff de 24, 54, 101 e 130 peças pelo número de lugares, pelos talheres e pelo preço.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa.webp",
+    "imageAlt": "Faca, garfo e colher do faqueiro Viena da Wolff sobre prato de cerâmica caramelo, guardanapo branco e sousplat de palha, em foto da Let's Eat It com o logo da marca, os textos «Faqueiro Wolff / qual escolher?» e o cupom MAUAD.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para seis lugares, o Wolff de 24 peças cobre a mesa e o chá. O de 54 serve oito e inclui talheres de sobremesa. O de 101 serve doze. O de 130 também serve doze e acrescenta peças para peixe e assado. As fichas avisam que o estojo não acompanha o faqueiro."
+        ]
+      },
+      {
+        "heading": "Quantas pessoas cada tamanho serve",
+        "paragraphs": [
+          "A Wolff vende o faqueiro pelo total de peças, e a página de cada um traz a lista do que vem dentro. A conta de pessoas é nossa: é a quantidade de facas, garfos e colheres de mesa de cada faqueiro. A loja só escreve o número de pessoas em alguns, como o Berna.",
+          "Na prática, quatro tamanhos cobrem as linhas Viena, Firenze, Avalon e Berna:"
+        ],
+        "bullets": [
+          "24 peças: 6 colheres de mesa, 6 garfos de mesa, 6 facas de mesa e 6 colheres de chá. Seis pessoas, sem talher de sobremesa.",
+          "54 peças: 8 facas, 8 garfos e 8 colheres de mesa, 8 colheres e 8 garfos de sobremesa, 8 colheres de chá ou café e 6 talheres de servir. Oito pessoas, com sobremesa.",
+          "101 peças: 12 de cada talher de mesa, de sobremesa (garfo, colher e faca), de chá e de café, mais 5 talheres de servir. Doze pessoas.",
+          "130 peças: o de 101 mais 12 facas e 12 garfos de peixe e 5 peças de servir peixe, molho e assado. Doze pessoas, com jantar de peixe e assado."
+        ],
+        "postParagraphs": [
+          "Escolha pelos talheres que você usa à mesa, não só pelo número do título. O 24 não traz nada de sobremesa, e quem recebe oito com doce no fim precisa olhar o 54. Há também Wolff de 30 peças, para seis pessoas: o Avalon e o Berna Dourado estão no [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa), com a composição de cada um."
+        ]
+      },
+      {
+        "heading": "Faqueiro de 24 peças: para seis, sem talher de sobremesa",
+        "paragraphs": [
+          "O 24 peças tem 6 colheres de mesa, 6 garfos, 6 facas e 6 colheres de chá, diz a ficha. Está nas linhas [Firenze](https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Firenze Dourado](https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-firenze-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). Não traz garfo, colher nem faca de sobremesa, e a colher de chá é o único talher pequeno.",
+          "Serve para o dia a dia de seis pessoas e para quem já tem talheres de sobremesa em casa. Os preços estão na tabela de preço por peça, mais abaixo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-firenze-24-pecas.webp",
+            "alt": "Garfo, faca, colher de mesa e colher menor do faqueiro Firenze da Wolff, em aço inox, em pé sobre fundo branco",
+            "caption": "Faqueiro Firenze, 24 peças, Wolff. Foto: Let's Eat It.",
+            "href": "https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Faqueiro de 54 peças: para oito, com sobremesa",
+        "paragraphs": [
+          "O 54 peças traz 8 facas, 8 garfos e 8 colheres de mesa, 8 colheres e 8 garfos de sobremesa e 8 colheres de chá ou café. Acompanham seis peças de servir: concha, colher para servir, colher e garfo para salada, colher de açúcar e espátula para bolo. As fichas do [Viena](https://letseatit.com.br/products/faqueiro-54-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), do [Firenze](https://letseatit.com.br/products/faqueiro-54-pecas-aco-inox-firenze-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e do [Firenze Dourado](https://letseatit.com.br/products/faqueiro-54-pecas-aco-inox-firenze-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) trazem a mesma lista.",
+          "Em relação ao 24, são dois lugares a mais, o talher de sobremesa e as peças de servir. Não traz faca de sobremesa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-viena-54-pecas.webp",
+            "alt": "Talheres de aço inox do faqueiro Viena da Wolff amontoados sobre pratos azul-petróleo",
+            "caption": "Faqueiro Viena, 54 peças, Wolff. Foto: Let's Eat It.",
+            "href": "https://letseatit.com.br/products/faqueiro-54-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Faqueiro de 101 peças: para doze, com talheres de servir",
+        "paragraphs": [
+          "O 101 peças tem 12 garfos, 12 colheres e 12 facas de mesa, 12 colheres, 12 garfos e 12 facas de sobremesa, 12 colheres de chá e 12 colheres de café. Vêm também 1 garfo e 1 colher de salada, 1 concha de sopa, 1 colher de arroz e 1 colher de açúcar.",
+          "São sete versões à venda: [Viena](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Viena Dourado](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-viena-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Firenze Dourado](https://letseatit.com.br/products/faqueiro-firenze-dourado-101-pecas-aco-inox-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Firenze Champanhe](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-firenze-champanhe-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Avalon](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Avalon Dourado](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Berna](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-101-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). As fichas trazem a mesma divisão de 12 e de 1. O Berna troca a colher de arroz por uma colher para servir, e a loja escreve que ele vem pronto para servir até 12 pessoas.",
+          "Perto do 54, o 101 tem doze de cada em vez de oito, a faca de sobremesa e colheres de chá e de café separadas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-viena-dourado-101-pecas.webp",
+            "alt": "Talheres dourados do faqueiro Viena Dourado da Wolff sobre pratos brancos de borda dourada e sousplat de palha",
+            "caption": "Faqueiro Viena Dourado, 101 peças, Wolff. Foto: Let's Eat It.",
+            "href": "https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-viena-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Faqueiro de 130 peças: só o Avalon Dourado está à venda",
+        "paragraphs": [
+          "O [Avalon Dourado de 130 peças](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem o que o 101 tem e mais 12 facas de peixe, 12 garfos de peixe, 1 garfo de servir peixe, 1 espátula de peixe, 1 concha de molho, 1 faca de assado e 1 garfo de assado. Custa R$ 2.769,90.",
+          "É o tamanho para quem recebe doze com peixe e assado à mesa. Os outros 130 da Wolff, o Avalon liso, o Berna e o Pisa, estão esgotados."
+        ]
+      },
+      {
+        "heading": "Preços dos faqueiros para seis ou oito",
+        "paragraphs": [
+          "Dividimos o preço no cartão pelo número de peças do faqueiro. Compare os modelos para o mesmo número de lugares antes de usar o preço por peça para decidir."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda e preço por peça lidos em 20 de novembro de 2026",
+          "headers": [
+            "Faqueiro",
+            "Peças",
+            "Preço no cartão",
+            "Por peça"
+          ],
+          "rows": [
+            [
+              "[Firenze 24 peças](https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "24",
+              "R$ 239,00",
+              "R$ 9,96"
+            ],
+            [
+              "[Firenze Dourado 24 peças](https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-firenze-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "24",
+              "R$ 369,90",
+              "R$ 15,41"
+            ],
+            [
+              "[Viena 54 peças](https://letseatit.com.br/products/faqueiro-54-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "54",
+              "R$ 519,00",
+              "R$ 9,61"
+            ],
+            [
+              "[Firenze 54 peças](https://letseatit.com.br/products/faqueiro-54-pecas-aco-inox-firenze-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "54",
+              "R$ 539,00",
+              "R$ 9,98"
+            ],
+            [
+              "[Firenze Dourado 54 peças](https://letseatit.com.br/products/faqueiro-54-pecas-aco-inox-firenze-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "54",
+              "R$ 829,00",
+              "R$ 15,35"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Firenze de 24 e no de 54, o dourado custa cerca de R$ 5,40 a mais por peça. As fichas trazem a mesma lista de talheres para cada tamanho."
+        ]
+      },
+      {
+        "heading": "Preços dos faqueiros para doze",
+        "comparisonTable": {
+          "caption": "Mesma consulta e forma de pagamento da tabela anterior.",
+          "headers": [
+            "Faqueiro",
+            "Peças",
+            "Preço no cartão",
+            "Por peça"
+          ],
+          "rows": [
+            [
+              "[Viena 101 peças](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "101",
+              "R$ 1.039,90",
+              "R$ 10,30"
+            ],
+            [
+              "[Viena Dourado 101 peças](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-viena-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "101",
+              "R$ 1.499,00",
+              "R$ 14,84"
+            ],
+            [
+              "[Firenze Dourado 101 peças](https://letseatit.com.br/products/faqueiro-firenze-dourado-101-pecas-aco-inox-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "101",
+              "R$ 1.589,00",
+              "R$ 15,73"
+            ],
+            [
+              "[Avalon 101 peças](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "101",
+              "R$ 1.598,00",
+              "R$ 15,82"
+            ],
+            [
+              "[Firenze Champanhe 101 peças](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-firenze-champanhe-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "101",
+              "R$ 1.599,00",
+              "R$ 15,83"
+            ],
+            [
+              "[Berna 101 peças](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-101-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "101",
+              "R$ 1.698,00",
+              "R$ 16,81"
+            ],
+            [
+              "[Avalon Dourado 101 peças](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "101",
+              "R$ 2.229,90",
+              "R$ 22,08"
+            ],
+            [
+              "[Avalon Dourado 130 peças](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "130",
+              "R$ 2.769,90",
+              "R$ 21,31"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Viena liso é o de 101 peças com menor preço por peça na tabela. O Viena Dourado custa R$ 14,84 por peça, ante R$ 10,30 no liso. No Avalon, a diferença é de R$ 6,26 por peça."
+        ]
+      },
+      {
+        "heading": "Cuidados que a ficha pede",
+        "paragraphs": [
+          "A loja informa: o faqueiro não é aconselhável em freezer, micro-ondas, forno ou fogão. Pode ir à máquina de lavar louça, desde que se sigam as recomendações da ficha."
+        ],
+        "bullets": [
+          "Lave logo depois do uso, porque o contato prolongado com alguns resíduos pode causar manchas e pontos de corrosão.",
+          "Não deixe as peças de molho e não use detergente clorado.",
+          "Seque com pano macio logo depois de lavar e evite guardar em lugar úmido.",
+          "Na lava-louças, tire os talheres logo depois do enxágue e seque à mão."
+        ],
+        "postParagraphs": [
+          "O estojo não acompanha nenhum dos faqueiros, segundo a ficha. O Avalon e o Berna vêm numa caixa de papelão pardo própria para guardar os talheres. Nos Viena e Firenze, o título fala em caixa litografada, mas a ficha avisa que o estojo não vem."
+        ]
+      },
+      {
+        "heading": "Qual tamanho para qual mesa",
+        "paragraphs": [
+          "Para seis pessoas, o de 24 cobre a mesa e o chá. Se você já quer talher de sobremesa para seis, o guia de Natal traz dois faqueiros de 30 com garfos de bolo. O de 54 serve oito e acrescenta colheres de sobremesa. Para doze, escolha o de 101. O de 130 faz sentido para quem serve peixe e assado com frequência.",
+          "A linha e o acabamento ficam por último, porque mexem no preço e a lista de talheres quase não muda. Quem quer o faqueiro completo para um Natal de seis pode olhar o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa), e quem compara com outra marca encontra o [faqueiro Laguiole La Maison](/reviews/faqueiro-laguiole-la-maison-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Cupom e Pix",
+        "paragraphs": [
+          "No site da Let's Eat It, o cupom MAUAD dá 5% no checkout, vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Conta nossa, com 5% sobre o preço do dia: o Viena de 54 peças, de R$ 519,00, ficaria em R$ 493,05, e o Firenze de 24 peças, de R$ 239,00, em R$ 227,05. O valor final aparece no carrinho."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O faqueiro Wolff de 54 peças serve quantas pessoas? A ficha traz 8 facas, 8 garfos e 8 colheres de mesa, 8 colheres e 8 garfos de sobremesa e 8 colheres de chá ou café. Pela conta de talheres, são oito pessoas.",
+          "O faqueiro Wolff de 101 peças serve quantas pessoas? A ficha traz 12 de cada talher de mesa, de sobremesa, de chá e de café. Pela conta de talheres, são doze pessoas, e o Berna diz que vem pronto para servir até 12.",
+          "Existe faqueiro Wolff de 130 peças à venda? Sim, o Avalon Dourado. Os outros de 130 da Wolff estão esgotados.",
+          "O faqueiro Wolff vai na lava-louças? A ficha diz que pode, desde que se sigam as recomendações: tirar os talheres logo depois do enxágue, secar à mão e não usar detergente clorado.",
+          "O faqueiro Wolff vai ao micro-ondas ou ao forno? A ficha diz que não é aconselhável, e o mesmo vale para freezer e fogão.",
+          "O faqueiro Wolff vem com estojo? A ficha diz que não acompanha estojo."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve o 24 peças se são seis pessoas no dia a dia e você não precisa de talher de sobremesa.",
+        "Leve o 54 peças se são oito pessoas e a sobremesa vai à mesa com talher próprio.",
+        "Leve o 101 ou o 130 peças se são doze pessoas, e o 130 só se peixe e assado entram no cardápio."
+      ],
+      "skipIf": [
+        "Passe o 24 peças se você recebe com sobremesa: ele não traz talher para ela.",
+        "Passe o 101 peças se a mesa é de seis ou oito pessoas: sobram talheres, e o 24 e o 54 custam menos.",
+        "Passe o dourado se o preço por peça pesa: ele custa mais que o liso na mesma linha."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, com desconto no Pix quando oferecido pela loja.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
+    "relatedArticles": [
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
+      },
+      {
+        "slug": "faqueiro-laguiole-la-maison-qual-escolher"
+      },
+      {
+        "slug": "mesa-posta-dia-a-dia-o-que-comprar"
+      },
+      {
+        "slug": "aparelho-de-jantar-quantas-pecas-escolher"
+      },
+      {
+        "slug": "mesa-posta-ano-novo-o-que-precisa-quanto-custa"
+      },
+      {
+        "slug": "black-friday-letseatit"
+      }
+    ]
+  },
+  {
+    "id": 1197,
+    "slug": "mesa-posta-ano-novo-o-que-precisa-quanto-custa",
+    "locale": "pt",
+    "title": "Mesa posta de Ano Novo para seis pessoas: o que precisa, quanto custa e como montar",
+    "seoTitle": "Mesa posta de Ano Novo: o que precisa e quanto custa",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mesa posta de Ano Novo para seis pessoas em três faixas de preço, com pratos, talheres e taças em dourado, bege e verde, e a conta de cada lugar, do básico ao aparelho completo.",
+    "metaDescription": "Mesa posta de Ano Novo para 6 com o cupom MAUAD de 5% OFF: três faixas de preço, com pratos, talheres e taças, e a conta de cada lugar.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa.webp",
+    "imageAlt": "Mesa de madeira escura posta com o aparelho Grecco verde de filete dourado, taças de cristal, velas acesas e orquídeas brancas, em foto da Let's Eat It com o logo da marca, os textos «Mesa posta / de Ano Novo» e o cupom MAUAD.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para seis pessoas, comece pelos pratos que você já tem. A mesa básica usa louça bege, talheres dourados e taças de vinho. A intermediária combina prato raso e fundo e deixa a sobremesa por sua conta. A completa traz o Grecco verde de 42 peças. Confira o frete e a chegada antes de fechar."
+        ]
+      },
+      {
+        "heading": "O que reaproveitar da mesa de Natal",
+        "paragraphs": [
+          "Se você já montou a mesa de Natal, comece pela louça que sobrou. Taças com filete dourado ou um jogo de talheres mudam a mesa sem exigir uma compra completa.",
+          "As três listas abaixo são combinações nossas com peças da Let's Eat It. Há mais opções no [guia da mesa de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) e no [guia da mesa do dia a dia](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
+        ]
+      },
+      {
+        "heading": "Cores: uma base neutra e um brilho",
+        "paragraphs": [
+          "Para combinar com o que você tem em casa, escolha onde quer o dourado. Na mesa básica ele aparece nos talheres e na borda da taça. A intermediária tem pratos brancos com riscos verdes. Na completa, o próprio aparelho de jantar já traz cor e filete dourado.",
+          "Para quem prefere prata, a vitrine trazia o Très Classique azul de 42 peças em pré-venda. A ficha orienta manter o aparelho fora do micro-ondas e lavar à mão."
+        ]
+      },
+      {
+        "heading": "As três faixas para seis pessoas",
+        "paragraphs": [
+          "A conta é para seis lugares, com um prato raso, um talher completo e uma taça por lugar. Os preços são de venda e mudam com promoção; o frete fica de fora, porque é calculado pelo CEP."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de venda no site em 20/11, sem frete.",
+          "headers": [
+            "Mesa para seis",
+            "Sem cupom",
+            "Com MAUAD",
+            "Por lugar com MAUAD"
+          ],
+          "rows": [
+            [
+              "1, básica",
+              "R$ 957,50",
+              "R$ 909,63",
+              "R$ 151,61"
+            ],
+            [
+              "2, intermediária",
+              "R$ 1.781,70",
+              "R$ 1.692,62",
+              "R$ 282,10"
+            ],
+            [
+              "3, completa",
+              "R$ 3.062,90",
+              "R$ 2.909,76",
+              "R$ 484,96"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa, com os 5% do cupom MAUAD sobre o total de cada faixa: confira o valor final no checkout. Guardanapo, sousplat, centro e velas não entram nas faixas. Use os de casa ou os da mesa de Natal."
+        ]
+      },
+      {
+        "heading": "Faixa 1: mesa básica, em bege e dourado",
+        "paragraphs": [
+          "Para quem recebe seis pessoas e quer brilho sem gastar muito: o dourado fica no talher e nas taças, e a louça segue em tons neutros."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Qtd. comprada",
+            "Preço unitário",
+            "Subtotal"
+          ],
+          "rows": [
+            [
+              "[Jogo 6 Pratos Rasos Cerâmica Bege com Filete Amassada 27 cm, Scalla](https://letseatit.com.br/products/jogo-6-pratos-rasos-ceramica-bege-com-filete-amassada-27cm-scalla?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 237,00",
+              "R$ 237,00"
+            ],
+            [
+              "[Jogo 6 Pratos de Sobremesa Cerâmica Bolinha Off White 20 cm, Scalla](https://letseatit.com.br/products/jogo-6-pratos-de-sobremesa-ceramica-bolinha-off-white-20cm-scalla?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 209,90",
+              "R$ 209,90"
+            ],
+            [
+              "[Faqueiro 24 Peças Aço Inox Firenze Dourado, Wolff](https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-firenze-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 369,90",
+              "R$ 369,90"
+            ],
+            [
+              "[Jogo 2 Taças para Vinho Vidro Cristalino Borda Dourada Lines 380 ml, Wolff](https://letseatit.com.br/products/jogo-2-tacas-para-vinho-vidro-cristalino-borda-dourada-lines-380ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "3",
+              "R$ 46,90",
+              "R$ 140,70"
+            ],
+            [
+              "Total",
+              "—",
+              "—",
+              "R$ 957,50"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O faqueiro Firenze Dourado traz 24 peças: 6 colheres de mesa, 6 garfos, 6 facas e 6 colheres de chá. Não tem garfo nem colher de sobremesa, e vem sem estojo. As taças Lines são de vinho, de 380 ml, em jogos de duas, então são três jogos para os seis lugares. Para o brinde com espumante, a linha tem taça de champanhe de 300 ml, em jogo de 2 a R$ 112,90. Trocar os três jogos soma R$ 198,00 à faixa.",
+          "Os pratos rasos Scalla Bege têm 27 cm, e a página manda não usar no micro-ondas nem na lava-louças: lave à mão. A página dos pratos de sobremesa Bolinha Off White, de 20 cm, não traz cuidados. Pergunte à loja antes de pôr na máquina. Quem prefere tudo da mesma linha encontra o aparelho Scalla Bege de 30 peças por R$ 846,00, com 6 pratos rasos, 6 de sobremesa, 6 fundos e 6 xícaras de chá com pires."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-scalla-bege.webp",
+            "alt": "Pilha de pratos rasos claros de borda caramelo, com quatro garfos em cima, vista de cima",
+            "caption": "Jogo de 6 pratos rasos Bege com Filete Amassada, 27 cm, Scalla. Foto: Let's Eat It.",
+            "href": "https://letseatit.com.br/products/jogo-6-pratos-rasos-ceramica-bege-com-filete-amassada-27cm-scalla?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Mesa intermediária com filete dourado",
+        "paragraphs": [
+          "Para quem quer louça com filete dourado e taça de cristal e já tem seis pratos de sobremesa em casa. Esta faixa não inclui prato de sobremesa: o jogo Donatella está em pré-venda por R$ 519,90, e com ele a faixa iria a R$ 2.301,60 sem frete."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Qtd. comprada",
+            "Preço unitário",
+            "Subtotal"
+          ],
+          "rows": [
+            [
+              "[Jogo 6 Pratos Rasos Cerâmica Donatella Filete Ouro 29 cm, Alleanza](https://letseatit.com.br/products/jogo-6-pratos-rasos-ceramica-donatella-filete-ouro-29cm-alleanza?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 554,90",
+              "R$ 554,90"
+            ],
+            [
+              "[Jogo 6 Pratos Fundo Donatella Cerâmica Filete Ouro 25 cm, Alleanza](https://letseatit.com.br/products/jogo-6-pratos-fundo-donatella-ceramica-filete-ouro-25cm-alleanza?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 532,90",
+              "R$ 532,90"
+            ],
+            [
+              "[Faqueiro 30 Peças Aço Inox Avalon Dourado, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-dourado-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 549,00",
+              "R$ 549,00"
+            ],
+            [
+              "[Jogo 6 Taças Vinho Branco Crex Optic 480 ml Cristal Ecológico, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 144,90",
+              "R$ 144,90"
+            ],
+            [
+              "Total",
+              "—",
+              "—",
+              "R$ 1.781,70"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os pratos Donatella são de cerâmica, com 29 cm o raso e 25 cm o fundo. A página fala em filete de ouro, e a foto mostra também a borda de riscos verdes com pontinhos amarelos: olhe a foto antes de combinar com o resto da mesa. A página diz que a louça vai ao micro-ondas e à lava-louças, exceto as peças filetadas a ouro, que é o caso: lave à mão.",
+          "O faqueiro Avalon Dourado traz 30 peças: 6 garfos de mesa, 6 colheres de mesa, 6 facas, 6 colheres de chá e 6 garfos de bolo. Não tem colher de sobremesa e vem sem estojo. As taças Crex Optic, de cristal ecológico, têm 480 ml. O título da loja diz vinho branco, e a página as indica para espumantes e champanhes. Elas não vão à lava-louças."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-donatella.webp",
+            "alt": "Prato raso branco com riscos verdes na borda, pontinhos amarelos e filete dourado, sobre fundo branco",
+            "caption": "Prato raso Donatella Filete Ouro, 29 cm, Alleanza. Foto: Let's Eat It.",
+            "href": "https://letseatit.com.br/products/jogo-6-pratos-rasos-ceramica-donatella-filete-ouro-29cm-alleanza?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Mesa completa com o Grecco verde",
+        "paragraphs": [
+          "Esta combinação reúne o aparelho Grecco verde, o faqueiro Firenze Dourado e as taças Angela. O aparelho já inclui xícaras e pratos de sobremesa."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Qtd. comprada",
+            "Preço unitário",
+            "Subtotal"
+          ],
+          "rows": [
+            [
+              "[Aparelho de Jantar Grecco 42 Pçs Porcelana Verde com Filete Dourado, L'Hermitage](https://letseatit.com.br/products/aparelho-de-jantar-grecco-42pcs-porcelana-verde-com-filete-dourado-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 1.349,00",
+              "R$ 1.349,00"
+            ],
+            [
+              "[Faqueiro 54 Peças Aço Inox Firenze Dourado, Wolff](https://letseatit.com.br/products/faqueiro-54-pecas-aco-inox-firenze-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 829,00",
+              "R$ 829,00"
+            ],
+            [
+              "[Jogo 6 Taças para Vinho em Cristal com Borda Dourada Bohemia Angela 350 ml](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-em-cristal-com-borda-dourada-bohemia-angela-350ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 884,90",
+              "R$ 884,90"
+            ],
+            [
+              "Total",
+              "—",
+              "—",
+              "R$ 3.062,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Grecco serve seis e traz prato raso, fundo e de sobremesa, mais xícaras de café e de chá com pires. A ficha orienta lavar à mão e manter fora do micro-ondas. A loja usa “porcelana” no campo de material e “New Bone China” na descrição.",
+          "O faqueiro Firenze Dourado de 54 peças traz 8 de cada: facas, garfos e colheres de mesa, colheres e garfos de sobremesa e colheres de chá ou café, mais peças de servir. Para seis pessoas, sobram duas de cada. As taças Angela, de cristal com borda dourada, têm 350 ml e são de vinho. O modelo de champanhe da mesma linha está esgotado."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-tacas-angela-borda-dourada.webp",
+            "alt": "Taça de vinho de cristal lapidada em riscos verticais, com borda dourada, sobre mesa clara",
+            "caption": "Taça Angela, cristal com borda dourada, 350 ml, Bohemia. Foto: Let's Eat It.",
+            "href": "https://letseatit.com.br/products/jogo-6-tacas-para-vinho-em-cristal-com-borda-dourada-bohemia-angela-350ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Como montar cada lugar",
+        "paragraphs": [
+          "Monte cada lugar com prato, talheres, taça e guardanapo. Deixe o centro de mesa e as velas para o fim."
+        ],
+        "bullets": [
+          "Ponha o prato raso no centro do lugar, a uns dois dedos da beira da mesa. Nas faixas 2 e 3, o prato fundo vai sobre o raso, se houver sopa.",
+          "Garfo à esquerda do prato. Faca à direita, com o fio virado para o prato, e a colher de mesa ao lado dela.",
+          "Se tiver talher de sobremesa, coloque acima do prato. O faqueiro da faixa 1 traz colher de chá. O da faixa 2 traz garfo de bolo e o da faixa 3, garfo e colher de sobremesa.",
+          "A taça fica acima da faca, à direita do prato.",
+          "O guardanapo vai à esquerda do garfo ou sobre o prato.",
+          "O centro e as velas entram por último, baixos, para ver quem está em frente, e longe do guardanapo."
+        ]
+      },
+      {
+        "heading": "Cupom MAUAD e o prazo de chegada",
+        "paragraphs": [
+          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Confira no checkout como os dois aparecem. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "Os 5% são sobre o subtotal, sem o frete, que é calculado pelo CEP. Itens em pré-venda, como o jogo de sobremesa Donatella, têm prazo de envio próprio. Para a mesa chegar antes da virada, confira o prazo do seu CEP no checkout antes de pagar e feche o pedido com folga."
+        ]
+      },
+      {
+        "heading": "Qual faixa escolher",
+        "paragraphs": [
+          "Se já tem seis pratos rasos e seis de sobremesa, na mesa básica o faqueiro e as taças somam R$ 510,60 antes do código. Se precisa comprar louça, confira o menu antes de gastar: a intermediária inclui prato fundo e a completa acrescenta pratos de sobremesa, xícaras e pires.",
+          "Os pratos Scalla Bege, os Donatella com filete e o Grecco pedem lavagem à mão, segundo as fichas."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Let's Eat It tem mesa posta de Ano Novo? Não há coleção de Ano Novo na loja. As três faixas são montagens nossas, com peças em dourado, bege, off white e verde.",
+          "Dá para montar mesa branca e dourada? Em parte. Os pratos Donatella da faixa 2 têm fundo branco e filete dourado, mas a borda traz riscos verdes, e a loja não tem hoje aparelho branco liso de seis lugares. O off white mais perto do liso está nos pratos de sobremesa da faixa 1.",
+          "Precisa de seis pratos de sobremesa? Um por pessoa é a conta de seis lugares. As faixas 1 e 3 trazem; a 2 não, e a sobremesa pode vir em taça ou no prato fundo.",
+          "Como fazer uma mesa posta de Ano Novo simples? Comece pela faixa 1 ou use a louça que você já tem e acrescente só o brilho: talher dourado e taças. O capítulo das cores explica a regra de uma base neutra e um brilho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, com desconto no Pix quando oferecido pela loja.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
+    "relatedArticles": [
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
+      },
+      {
+        "slug": "mesa-posta-dia-a-dia-o-que-comprar"
+      },
+      {
+        "slug": "faqueiro-wolff-qual-escolher"
+      },
+      {
+        "slug": "aparelho-de-jantar-quantas-pecas-escolher"
+      },
+      {
+        "slug": "black-friday-letseatit"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Monte a faixa 1 se quer brilho com pouca louça nova e aceita lavar os pratos à mão.",
+        "Leve a faixa 3 se prefere comprar louça, talher e taça de uma vez e aceita a mesa verde."
+      ],
+      "skipIf": [
+        "Passe a faixa 2 se você não tem seis pratos de sobremesa e não quer esperar a pré-venda.",
+        "Passe as três faixas se a mesa precisa ser branca e lisa: a loja não tem esse aparelho com estoque."
+      ]
+    }
+  },
+  {
+    "id": 1198,
+    "slug": "le-creuset-travessa-qual-escolher",
+    "locale": "pt",
+    "title": "Travessa Le Creuset: qual tamanho escolher, com ou sem tampa e o que a ficha diz do forno",
+    "seoTitle": "Travessa Le Creuset: tamanho, tampa e forno",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "description": "Compare as travessas Le Creuset Heritage e Signature pelo material, tamanho e uso no forno. Veja as opções com tampa no catálogo e quais pedem pré-venda.",
+    "metaDescription": "MAUAD dá 5% OFF na Let's Eat It. Compare as travessas Le Creuset Heritage e Signature por tamanho, material, forno e uso no micro-ondas.",
+    "image": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa.webp",
+    "imageAlt": "Travessa retangular branca da Le Creuset com um assado coberto de rodelas de laranja, sobre grade de metal, em foto da Let's Eat It com o logo da marca, os textos «Travessa Le Creuset / qual escolher?» e o cupom MAUAD.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja as cores e os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, com desconto no Pix quando oferecido pela loja.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
+    "relatedArticles": [
+      {
+        "slug": "le-creuset-qual-tamanho-escolher"
+      },
+      {
+        "slug": "le-creuset-vale-a-pena"
+      },
+      {
+        "slug": "le-creuset-original-como-saber"
+      },
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
+      },
+      {
+        "slug": "black-friday-letseatit"
+      },
+      {
+        "slug": "mesa-posta-ano-novo-o-que-precisa-quanto-custa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Heritage retangular tem modelos de 19 a 32 cm, em cerâmica para forno. A Signature de ferro fundido vai também ao fogão, segundo a ficha. Meça a prateleira do forno e deixe folga para as alças. Na Let's Eat It, as opções com tampa estavam esgotadas na consulta."
+        ]
+      },
+      {
+        "heading": "Tamanhos e preços na Let's Eat It",
+        "paragraphs": [
+          "A seleção vai de travessas de cerâmica de 19 a 36 cm às Signature de 33 e 37 cm, descritas na ficha como ferro fundido esmaltado. A loja identifica alguns modelos como pré-venda. Confira o prazo da cor escolhida antes de comprar."
+        ],
+        "comparisonTable": {
+          "caption": "Cores e preços de venda lidos em 20 de novembro de 2026. O preço do dia varia com a cor, e as cores à venda mudam de um dia para o outro.",
+          "headers": [
+            "Formato e tamanho",
+            "Cores à venda",
+            "Preço do dia"
+          ],
+          "rows": [
+            [
+              "Retangular 19 cm",
+              "Bleu Riviera e Vermelha",
+              "R$ 349"
+            ],
+            [
+              "Quadrada 23 cm",
+              "Meringue e Bleu Riviera",
+              "R$ 258,30 na Meringue; R$ 399 na Bleu Riviera"
+            ],
+            [
+              "Clássica retangular 25 cm (pré-venda na vitrine)",
+              "Azure",
+              "R$ 363,30"
+            ],
+            [
+              "Retangular 26 cm",
+              "Nectar, Rose Quartz, Shell Pink, Branco, Flint, Meringue e Cotton",
+              "R$ 317,40 na Nectar; R$ 370,30 na Rose Quartz e na Shell Pink; R$ 529 nas outras"
+            ],
+            [
+              "Canelada 28 cm",
+              "Bleu Riviera",
+              "R$ 370,30"
+            ],
+            [
+              "Retangular 32 cm",
+              "Mist Grey, Azul Caribe, Nectar, Branco, Shell Pink e Bleu Riviera",
+              "R$ 496,30 na Mist Grey, na Azul Caribe e na Nectar; R$ 709 nas outras"
+            ],
+            [
+              "Redonda Ruffle 36 cm (pré-venda na vitrine)",
+              "Shell Pink e Branca",
+              "R$ 517,30"
+            ],
+            [
+              "Signature com alças 33 cm (ferro fundido)",
+              "Vermelha",
+              "R$ 1.869"
+            ],
+            [
+              "Signature com alças 37 cm (ferro fundido)",
+              "Laranja",
+              "R$ 2.239"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-heritage-branca-26cm.webp",
+            "alt": "Travessa retangular Heritage branca de 26 cm da Le Creuset, vazia, com alças caneladas, sobre fundo branco",
+            "caption": "Travessa retangular Heritage branca de 26 cm, Le Creuset. Foto: Let's Eat It.",
+            "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-branca-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Como escolher o tamanho sem conta de pessoas",
+        "paragraphs": [
+          "A ficha da loja não diz para quantas pessoas cada travessa serve, então a escolha parte do que você mais leva ao forno e do espaço que tem.",
+          "A medida que decide primeiro é a da prateleira do forno: a travessa precisa entrar com folga para você tirá-la com as duas mãos. Depois pesa o lugar onde ela vai ficar guardada e a mesa onde será servida."
+        ],
+        "bullets": [
+          "19 cm: a menor retangular, para uma porção pequena ou para acompanhar a travessa grande.",
+          "23 cm quadrada e 25 cm retangular: o meio da escala.",
+          "26 e 32 cm retangulares: os dois tamanhos com mais cores à venda. A ficha da de 26 cm dá 8 cm de altura, 19 de largura e 26 de comprimento, e a de 32 cm é a maior das retangulares Heritage.",
+          "28 cm canelada e 36 cm Ruffle: formatos de borda trabalhada. A ficha indica a canelada para tortas e doces, e a Ruffle, rasa, com 4 cm de altura, para servir queijos e aperitivos."
+        ],
+        "emphasis": "Eu mediria a prateleira do forno e a travessa que você já usa antes de escolher o tamanho. Se a atual aperta, o próximo tamanho da tabela é o caminho.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "Heritage ou Signature: qual linha escolher",
+        "paragraphs": [
+          "A Heritage reúne os modelos de cerâmica de 19 a 32 cm da comparação. A Signature tem alças largas para levar a peça ao forno e à mesa.",
+          "Para assar e levar à mesa, a Heritage custa menos. Se você também cozinha no fogão, a ficha da Signature descreve ferro fundido esmaltado e compatibilidade com todos os cooktops. Nos dois tamanhos, o título da loja inclui “cerâmica”. Confirme o material do anúncio escolhido se você pretende usar a peça no fogão."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-signature-vermelha-33cm.webp",
+            "alt": "Travessa retangular Signature vermelha da Le Creuset, com interior creme e alças em arco, vista de lado sobre fundo branco",
+            "caption": "Travessa retangular com alças Signature vermelha de 33 cm, Le Creuset. Foto: Let's Eat It.",
+            "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-signature-vermelha-33cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "O que a ficha diz de forno, freezer, micro-ondas e lava-louças",
+        "paragraphs": [
+          "A Le Creuset informa que a Heritage retangular suporta de −22 °C a 260 °C. A peça vai ao freezer, ao forno, ao micro-ondas e à lava-louças. A marca orienta deixar esfriar antes de lavar e manter a cerâmica fora do fogo direto."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Linha",
+            "Forno",
+            "Micro-ondas e freezer",
+            "Lava-louças"
+          ],
+          "rows": [
+            [
+              "Heritage retangular",
+              "Faixa publicada de −22 °C a 260 °C",
+              "Indicados pela Le Creuset",
+              "Sim"
+            ],
+            [
+              "Signature com alças, vermelha de 33 cm",
+              "Forno seguro até 260°C; compatível com todos os cooktops",
+              "Fora do micro-ondas; freezer não informado",
+              "Seguro para lava-louças"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha da Ruffle redonda repete a faixa térmica. A canelada de 28 cm e a Clássica de 25 cm têm indicação de forno na loja. Antes de usar no modo grill, consulte a orientação da peça. Na Signature de 33 e de 37 cm, a loja informa forno até 260 °C e uso em lava-louças.",
+          "Essas fichas são das travessas. O que a marca diz das panelas de ferro fundido, inclusive do micro-ondas, está em [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena)."
+        ]
+      },
+      {
+        "heading": "Onde procurar uma travessa com tampa",
+        "paragraphs": [
+          "Na data da consulta, as travessas com tampa estavam esgotadas na Let's Eat It. A seleção incluía retangulares de 32 e 33 cm, a oval para peixe de 34 cm e a oval de 3,8 L."
+        ]
+      },
+      {
+        "heading": "Cor: azul, branca ou outra",
+        "paragraphs": [
+          "O azul aparece em vários tamanhos: Bleu Riviera na de 19 cm, na quadrada de 23 cm, na canelada de 28 cm e na de 32 cm, mais a Azul Caribe na de 32 cm e a Azure na Clássica de 25 cm. O branco está na de 26 cm, na de 32 cm e na Ruffle de 36 cm.",
+          "A cor também mexe no preço do dia: a retangular de 26 cm custa R$ 317,40 na Nectar e R$ 529 na Branco, e a de 32 cm custa R$ 496,30 na Mist Grey e R$ 709 na Branco. Se formato e tamanho já estão decididos, vale olhar as outras cores do mesmo tamanho antes de fechar."
+        ]
+      },
+      {
+        "heading": "Onde comprar e o cupom",
+        "paragraphs": [
+          "A Le Creuset está na Let's Eat It, e as condições estão na página do [cupom Let's Eat It](/cupons/letseatit). O código MAUAD dá 5% no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento.",
+          "Conta nossa, 5% sobre o preço do dia e sem frete: a retangular Heritage branca de 26 cm, de R$ 529, sai por R$ 502,55 com o cupom.",
+          "Para escolher panela redonda por litros, veja [Le Creuset 20 ou 24 cm](/reviews/le-creuset-qual-tamanho-escolher). Para conferir se a peça é original e onde comprar, leia [Le Creuset original: como saber](/reviews/le-creuset-original-como-saber)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Travessa Le Creuset pode ir no forno? Sim. A Le Creuset informa a faixa de −22 °C a 260 °C para a Heritage retangular. Na Signature de ferro fundido, a ficha da loja indica forno até 260 °C.",
+          "Travessa Le Creuset com tampa tem para comprar? As retangulares, as ovais para peixe e as ovais de 3,8 L estavam esgotadas na Let's Eat It na data da consulta.",
+          "Existe travessa de peixe Le Creuset? A Let's Eat It lista uma oval de 34 cm com tampa. As três cores estavam esgotadas na consulta.",
+          "Travessa Le Creuset vai ao micro-ondas e à lava-louças? A Heritage de cerâmica vai aos dois, segundo a Le Creuset. A Signature de ferro fundido vai à lava-louças e deve ficar fora do micro-ondas.",
+          "Qual tamanho de travessa Le Creuset escolher? A ficha não dá número de pessoas nem litros. Meça a prateleira do forno e compare com a travessa que você já usa; a de 26 cm tem mais cores à venda, e a de 32 cm é a maior da Heritage retangular.",
+          "Quanto custa uma travessa Le Creuset? A Heritage retangular e quadrada vai de cerca de R$ 260 a R$ 709 conforme tamanho e cor, e a Signature com alças custa de R$ 1.869 a R$ 2.239."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Heritage se você quer uma travessa de cerâmica que a loja libera para forno, micro-ondas, freezer e lava-louças.",
+        "Leve a Signature com alças se você quer ferro fundido esmaltado, que a ficha libera também para o fogão."
+      ],
+      "skipIf": [
+        "Passe se a travessa precisa de tampa: nenhuma está à venda hoje.",
+        "Passe a Signature se você procura uma travessa de cerâmica: a ficha a descreve como ferro fundido esmaltado."
+      ]
+    }
+  },
+  {
+    "id": 1199,
+    "slug": "select-one-ou-burix-one",
+    "locale": "pt",
+    "title": "Select One ou Burix One: qual escolher, pelo que a Prohall declara e pelo preço por ml",
+    "seoTitle": "Select One ou Burix One: qual escolher",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Select One e Burix One lado a lado, pelo que a Prohall publica: o que cada página declara, tamanhos, preço do dia e preço por ml, sem veredito de resultado.",
+    "metaDescription": "O CECILIAMC dá até 10% na Prohall; nos testes, 7%. Select One ou Burix One: o que cada página declara e quanto sai o ml.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/select-one-ou-burix-one-capa.webp",
+    "imageAlt": "Frasco branco de rótulo azul da Select One e frasco marrom de rótulo verde da Burix One, os dois de 300 ml, lado a lado em fundo branco, em foto da Prohall com o logo da marca, os textos «Select One ou Burix One?» e o código CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você tem um cabeleireiro que aplica antifrizz térmico e quer comparar tamanho e preço por ml antes de comprar.",
+        "Você já sabe qual das duas o seu profissional usa e quer o frasco que sai mais barato por ml."
+      ],
+      "skipIf": [
+        "Você quer saber qual das duas alisa mais: a loja não compara as duas.",
+        "Você não tem quem aplique: as duas são de uso profissional, e a aplicação é do cabeleireiro."
+      ]
+    },
+    "cta": {
+      "text": "Se a comparação ajudou, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      },
+      {
+        "slug": "prohall-e-confiavel"
+      },
+      {
+        "slug": "select-one-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Select One e a Burix One são de uso profissional. O preço empata no frasco de 120 ml. No de 300 ml, a Select One sai mais barata. No de 1 L, a diferença é menor. As fichas da Prohall descrevem o uso de cada produto e deixam o resultado da comparação em aberto."
+        ]
+      },
+      {
+        "heading": "Select One e Burix One: o que cada página descreve",
+        "paragraphs": [
+          "A tabela reúne as descrições da Prohall. Os dois produtos exigem aplicação profissional, com teste de alergia e de mecha antes."
+        ],
+        "comparisonTable": {
+          "caption": "O que a Prohall publica na página de cada produto no site oficial.",
+          "headers": [
+            "Item",
+            "Select One",
+            "Burix One"
+          ],
+          "rows": [
+            [
+              "Nome na página",
+              "Máscara Antifrizz Um Só Passo",
+              "Reestruturação Molecular Tanino Orgânica"
+            ],
+            [
+              "Como a loja descreve",
+              "Alinhamento antifrizz de um passo só",
+              "Tratamento antifrizz térmico de longa duração"
+            ],
+            [
+              "Ativos listados",
+              "Lumini System, óleo de coco, colágeno hidrolisado e ácido lático",
+              "Buriti, Lumini System, ácido tânico e biotina"
+            ],
+            [
+              "Uso",
+              "Profissional, não hipoalergênico",
+              "Profissional"
+            ],
+            [
+              "Declaração sobre formol",
+              "A Prohall afirma que a Select One não é formulada com formol",
+              "A página da Burix One de 300 ml traz “sem formol”"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Prohall indica a Equalize Mask após os dois procedimentos. Para a Select One, estima duração de 3 a 5 meses conforme os cuidados posteriores. A página consultada da Burix One não especifica duração."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/select-one-ou-burix-one-select-one-1l.webp",
+            "alt": "Frasco branco de 1 litro da Select One da Prohall, com rótulo azul, em foto oficial da loja",
+            "caption": "Select One Um Só Passo 1 L. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/select-one-um-so-passo-1l-344426850"
+          },
+          {
+            "src": "/images/reviews/prohall/select-one-ou-burix-one-burix-one-1l.webp",
+            "alt": "Frasco marrom de 1 litro da Burix One da Prohall, com rótulo verde, em foto oficial da loja",
+            "caption": "Burix One 1 L. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/reestruturacao-molecular-tanino-organica-burix-one-1l"
+          }
+        ]
+      },
+      {
+        "heading": "Qual alisa mais? A loja não compara",
+        "paragraphs": [
+          "As fichas tratam de controle do frizz e alinhamento. A da Select One atribui a intensidade do alisamento à curvatura do fio, ao diagnóstico e à etapa térmica. Se o objetivo é conservar parte dos cachos, diga isso ao profissional antes de escolher."
+        ]
+      },
+      {
+        "heading": "Preço por ml: 120 ml, 300 ml e 1 L",
+        "paragraphs": [
+          "Conta nossa: o preço de venda do dia dividido pelo volume da embalagem, arredondado para o centavo. Os valores da loja mudam, então confira na página antes de decidir."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda na loja em 20 de novembro de 2026, sem o cupom. Preço por ml = preço dividido pelo volume.",
+          "headers": [
+            "Tamanho",
+            "Select One",
+            "Burix One"
+          ],
+          "rows": [
+            [
+              "120 ml",
+              "R$ 46,90 (R$ 0,39 por ml)",
+              "R$ 46,90 (R$ 0,39 por ml)"
+            ],
+            [
+              "300 ml",
+              "R$ 79,90 (R$ 0,27 por ml)",
+              "R$ 99,90 (R$ 0,33 por ml)"
+            ],
+            [
+              "1 L",
+              "R$ 219,90 (R$ 0,22 por ml)",
+              "R$ 229,90 (R$ 0,23 por ml)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O 120 ml custa o mesmo nas duas. A diferença aparece no 300 ml, em que a Select One sai R$ 20 mais barata, e quase some no 1 L, em que são R$ 10 de diferença em um litro. Nas duas, quanto maior o frasco, menor o preço por ml."
+        ]
+      },
+      {
+        "heading": "O que sai no carrinho com o CECILIAMC",
+        "paragraphs": [
+          "O CECILIAMC é o código da Cecília na Prohall: até 10%, digitado em “Tem um cupom?” no checkout. As condições do [cupom Prohall](/cupons/prohall) estão na página da loja no nosso site, e o passo a passo de onde digitar, em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar).",
+          "No teste, um frasco de 300 ml de cada linha somou R$ 179,80. O CECILIAMC tirou R$ 12,58 (7%) e deixou o pedido em R$ 167,22 antes do frete. Dividindo o desconto proporcionalmente, são R$ 74,31 pela Select One e R$ 92,91 pela Burix One."
+        ]
+      },
+      {
+        "heading": "Uso profissional: o que isso quer dizer para você",
+        "paragraphs": [
+          "As precauções das duas páginas trazem a indicação de uso profissional. Para a Select One, a loja é direta: não é para uso em casa, e a aplicação deve ser feita por cabeleireiro habilitado, que faz o teste de alergia e o de mecha antes.",
+          "Por isso o preço do 1 L, que parece o melhor por ml, só faz sentido para quem aplica em vários clientes. Na gestação e na amamentação, as duas páginas mandam procurar orientação antes: médica, na da Select One, e de um especialista, na da Burix One. Química recente no cabelo é conversa com o profissional que vai aplicar."
+        ]
+      },
+      {
+        "heading": "Kit com as duas de 300 ml",
+        "paragraphs": [
+          "A loja vende um kit com a Burix One de 300 ml e a Select One de 300 ml por R$ 174,90 no dia da consulta. Comprando separado, as duas saem R$ 4,90 mais caras. É a conta de quem já decidiu usar as duas; para quem ainda compara, o kit não responde qual escolher."
+        ]
+      },
+      {
+        "heading": "Quem leva qual",
+        "paragraphs": [
+          "Se o cabeleireiro já trabalha com uma das duas, pergunte qual cabe no seu caso antes de comprar. No mesmo tamanho de 300 ml, a Select One custa R$ 20 a menos. Para outras linhas, veja [Prohall é boa?](/reviews/prohall-e-boa)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual alisa mais, Select One ou Burix One? A Prohall não compara as duas e nós não usamos nenhuma. A página da Select One diz que o resultado depende da curvatura, do diagnóstico do profissional e do calor.",
+          "Qual a melhor, Select One ou Burix One? Pelo preço, a Select One sai mais barata no 300 ml e as duas ficam quase iguais no 1 L. Pelo resultado, não há dado: quem decide é o cabeleireiro que aplica.",
+          "O que a Prohall declara sobre formol na Select One e na Burix One? A página da Select One diz que ela não é formulada com formol. A página da Burix One de 300 ml também traz a declaração “sem formol”. São declarações da loja. Confira o rótulo do item e consulte a Anvisa pelo nome ou número do processo.",
+          "Select One e Burix One são para usar em casa? As páginas trazem a indicação de uso profissional, e a da Select One diz que a aplicação deve ser feita por cabeleireiro habilitado."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1200,
+    "slug": "select-one-como-usar",
+    "locale": "pt",
+    "title": "Select One: como é a aplicação no salão e o que perguntar antes",
+    "seoTitle": "Select One: como é a aplicação no salão",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Prohall orienta que a Select One seja aplicada por cabeleireiro. Veja o que acontece no salão e o que perguntar se você tem cachos ou fez química recentemente.",
+    "metaDescription": "A Select One é de uso profissional. Veja como é a sessão no salão, por que o teste de mecha importa e o que perguntar ao cabeleireiro.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/select-one-como-usar-capa.webp",
+    "imageAlt": "Frasco branco de 1 litro da Select One, com rótulo azul, entre cocos abertos e sobre fundo lilás, em foto da Prohall com o logo da marca e os textos «Select One / aplicação no salão».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você vai ser atendida por um cabeleireiro e quer saber o que perguntar antes da aplicação.",
+        "Você fez química recentemente e quer entender o intervalo que a loja pede."
+      ],
+      "skipIf": [
+        "Você pensa em aplicar em casa: a loja diz que a Select One não serve para isso.",
+        "Você está grávida ou amamentando e ainda não falou com o médico."
+      ]
+    },
+    "cta": {
+      "text": "Se o seu cabeleireiro indicar a Select One, a página oficial da Prohall traz o modo de uso e as precauções do fabricante.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pela loja.",
+    "relatedArticles": [
+      {
+        "slug": "select-one-ou-burix-one"
+      },
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "prohall-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Select One é de uso profissional, segundo a Prohall. Na sessão, o cabeleireiro avalia o fio e faz os testes antes de aplicar o produto. Conte se você descoloriu, fez outra química ou quer preservar os cachos. Isso ajuda o profissional a decidir se o procedimento faz sentido para você."
+        ]
+      },
+      {
+        "heading": "Antes de marcar, conte o histórico do seu cabelo",
+        "paragraphs": [
+          "A Prohall orienta aplicação por cabeleireiro habilitado. Na primeira conversa, conte o que já usou no cabelo e pergunte como o profissional vai testar a reação do fio antes do procedimento.",
+          "Por isso este guia não ensina a aplicar. Ele mostra o que o fabricante descreve, para você entender o que acontece na cadeira e saber o que perguntar. Quem vai aplicar, e como, é decisão do profissional.",
+          "Não usamos o produto: tudo aqui é o que a Prohall publica na página da Select One."
+        ]
+      },
+      {
+        "heading": "O que acontece durante a sessão",
+        "paragraphs": [
+          "Pelas orientações da Prohall, o cabeleireiro faz os testes antes de aplicar. A sessão inclui lavagem, aplicação da Select One, enxágue, escova e prancha. No final, a marca orienta usar a Equalize Mask."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/select-one-como-usar-equalize-mask-300g.webp",
+            "alt": "Pote bordô da Equalize Mask de 300 g da Prohall, em fundo branco, em foto oficial da loja",
+            "caption": "Equalize Mask 300 g, a máscara que a página manda aplicar no fim. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/mascara-reconstrutora-neutralizante-equalize-mask-300g"
+          }
+        ]
+      },
+      {
+        "heading": "Por que a etapa térmica depende do fio",
+        "paragraphs": [
+          "A Prohall descreve limites diferentes para fios resistentes e para fios descoloridos, platinados ou sensibilizados. Pergunte ao cabeleireiro como o teste de mecha muda a decisão para o seu cabelo."
+        ]
+      },
+      {
+        "heading": "Química antes: colorido, descolorido e alisado",
+        "paragraphs": [
+          "Se você coloriu, descoloriu ou alisou recentemente, diga ao cabeleireiro qual produto usou e quando. A Prohall orienta que o profissional avalie a compatibilidade e faça o teste de mecha antes de aplicar.",
+          "Se você mexeu no cabelo há pouco tempo, diga isso ao cabeleireiro antes de marcar. É o dado que muda a conversa, e ele é quem decide se espera."
+        ]
+      },
+      {
+        "heading": "Cabelo cacheado: o que a página diz",
+        "paragraphs": [
+          "Segundo a página, a Select One pode ser usada em cabelo cacheado, mas a etapa térmica tende a relaxar os cachos e a reduzir o volume. Quem gosta do cacho como está deve levar essa informação para a conversa.",
+          "Pergunte ao profissional o que esperar no seu cabelo e o que ele sugere para quem quer manter os cachos."
+        ]
+      },
+      {
+        "heading": "Gestante e lactante",
+        "paragraphs": [
+          "Durante a gestação ou amamentação, a página orienta conversar com o médico antes de marcar. A avaliação médica vem antes do teste de mecha.",
+          "Sem a liberação do médico, não há o que combinar com o cabeleireiro. A página não afirma que o produto é seguro nesse período: ela manda perguntar a quem acompanha você."
+        ]
+      },
+      {
+        "heading": "A duração que a Prohall informa",
+        "paragraphs": [
+          "A Prohall anuncia duração de 3 a 5 meses, dependendo dos cuidados depois da química. Pergunte ao cabeleireiro quais cuidados ele recomenda e quanto produto o seu cabelo costuma pedir.",
+          "O quanto cada frasco rende depende de quem aplica. Pergunte ao cabeleireiro quanto produto o seu cabelo costuma pedir."
+        ]
+      },
+      {
+        "heading": "Perguntas para o profissional, antes de marcar",
+        "paragraphs": [
+          "Leve esta lista para a conversa:"
+        ],
+        "bullets": [
+          "Você faz o teste de alergia e o de mechas antes de aplicar?",
+          "Qual é o diagnóstico do meu cabelo, e quanto tempo de ação você pretende usar?",
+          "A que temperatura você vai passar a prancha no meu tipo de fio?",
+          "Meu cabelo tem química recente. É preciso esperar mais antes de aplicar?",
+          "O que acontece com os meus cachos depois da etapa térmica?",
+          "Que cuidados eu devo ter depois, para a aplicação durar o que a loja informa?",
+          "Você aplica a Equalize Mask no fim, como a página manda?"
+        ],
+        "postParagraphs": [
+          "Para comparar os frascos, veja [Select One ou Burix One](/reviews/select-one-ou-burix-one). O [guia da Prohall](/reviews/prohall-e-boa) reúne as outras linhas."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Select One pode usar em grávida? A Prohall orienta procurar o médico antes de marcar a aplicação. O profissional de saúde avalia o seu caso.",
+          "Como é a aplicação da Select One? A Prohall descreve teste de mecha, lavagem, aplicação, enxágue, escova, prancha e finalização com a Equalize Mask. A sessão é conduzida pelo cabeleireiro.",
+          "Select One pode usar em casa? A Prohall orienta aplicação por cabeleireiro habilitado."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1201,
+    "slug": "biomask-prohall-para-que-serve",
+    "locale": "pt",
+    "title": "Biomask Prohall: para que serve, como usar e quanto custa cada tamanho",
+    "seoTitle": "Biomask Prohall: para que serve, como usar e preço",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A linha Biomask da Prohall: o que a loja indica para a máscara, o shampoo, o condicionador e a ampola, o modo de uso de cada uma e o preço por grama de cada tamanho.",
+    "metaDescription": "CECILIAMC dá até 10% na Prohall. Veja como usar a máscara Biomask e a ampola e compare o preço do pote de 500 g, do de 300 g e do sachê.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/biomask-prohall-para-que-serve-capa.webp",
+    "imageAlt": "Pote cinza-esverdeado da máscara Biomask de 500 g, em fundo branco, em foto da Prohall com o logo da marca, os textos «Biomask Prohall / para que serve?» e o código CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você já decidiu por uma máscara de hidratação e quer comparar o preço por grama de cada tamanho.",
+        "Você quer seguir o passo a passo que a própria loja publica, com shampoo, máscara e ampola."
+      ],
+      "skipIf": [
+        "Você quer saber se funciona no seu cabelo: este guia não traz resultado de uso.",
+        "Você precisa da composição completa: as páginas não trazem a lista inteira de ingredientes."
+      ]
+    },
+    "cta": {
+      "text": "Se a Biomask faz sentido para o seu cabelo, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      },
+      {
+        "slug": "force-hair-prohall-para-que-serve"
+      },
+      {
+        "slug": "prohall-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Prohall indica a máscara Biomask para cabelo seco e danificado. A indicação dos potes é deixar agir por cinco minutos. O sachê tem outra orientação de tempo, e a ampola precisa ser diluída. Se você já usa a máscara com frequência, o pote de 500 g tem o menor preço por grama."
+        ]
+      },
+      {
+        "heading": "Quanto custam os potes e o sachê Biomask",
+        "paragraphs": [
+          "A loja vende a máscara como hidratação para cabelo seco e danificado e a indica para todos os tipos de cabelo, com química ou em transição. Os ativos que ela lista são proteína de trigo e manteiga de karité, sem quantidade.",
+          "Em volta da máscara, a linha tem shampoo e condicionador de 300 ml, com óleo de coco e ácido lático como ativos listados, e a ampola de 15 ml. A máscara vem em pote de 300 g e de 500 g e em sachê de 50 g. Existe ainda uma mini máscara de 50 g, fora da tabela."
+        ],
+        "comparisonTable": {
+          "caption": "Preços na Prohall em 20 de novembro de 2026, antes de aplicar o cupom.",
+          "headers": [
+            "Máscara",
+            "Tamanho",
+            "Preço no site",
+            "Preço por g"
+          ],
+          "rows": [
+            [
+              "[Máscara Biomask](https://lojaprohall.com.br/products/mascara-ultra-hidratante-biomask-explosao-de-brilho-300g)",
+              "300 g",
+              "R$ 59,90",
+              "R$ 0,20 por g"
+            ],
+            [
+              "[Máscara Biomask](https://lojaprohall.com.br/products/mascara-ultra-hidratante-biomask-professional-500g)",
+              "500 g",
+              "R$ 74,90",
+              "R$ 0,15 por g"
+            ],
+            [
+              "[Sachê Biomask](https://lojaprohall.com.br/products/sache-mascara-de-hidratacao-biomask)",
+              "50 g",
+              "R$ 11,90",
+              "R$ 0,24 por g"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/prohall/biomask-prohall-para-que-serve-mascara-500g.webp",
+            "alt": "Pote cinza-esverdeado da máscara Biomask de 500 g da Prohall, com tampa da mesma cor, em foto oficial da loja",
+            "caption": "Máscara Biomask 500 g, o maior pote da linha. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/mascara-ultra-hidratante-biomask-professional-500g"
+          }
+        ]
+      },
+      {
+        "heading": "Shampoo, condicionador e ampola Biomask",
+        "comparisonTable": {
+          "caption": "Mesma consulta de preços da tabela anterior.",
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Preço no site"
+          ],
+          "rows": [
+            [
+              "[Shampoo Biomask](https://lojaprohall.com.br/products/shampoo-home-care-biomask-300ml)",
+              "300 ml",
+              "R$ 44,90"
+            ],
+            [
+              "[Condicionador Biomask](https://lojaprohall.com.br/products/condicionador-home-care-biomask-300ml)",
+              "300 ml",
+              "R$ 44,90"
+            ],
+            [
+              "[Ampola Biomask](https://lojaprohall.com.br/products/ampola-hidratacao-intensa-biomask-15ml)",
+              "15 ml",
+              "R$ 22,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Como usar a máscara Biomask",
+        "paragraphs": [
+          "A loja informa: a máscara entra depois do shampoo da própria linha, de 1 a 2 vezes por semana. A página manda este passo a passo."
+        ],
+        "bullets": [
+          "Lave o cabelo com o shampoo Biomask.",
+          "Com os fios úmidos, aplique a máscara mecha por mecha.",
+          "Penteie até uniformizar o produto.",
+          "Deixe agir por 5 minutos e enxágue."
+        ],
+        "postParagraphs": [
+          "A página traz ainda a precaução de uso externo: em caso de irritação, suspender o uso e consultar um especialista. O shampoo tem um teste de contato indicado pela loja, no antebraço ou atrás da orelha, por 20 minutos, antes de usar."
+        ]
+      },
+      {
+        "heading": "Ampola Biomask: como diluir e usar",
+        "paragraphs": [
+          "Segundo a Prohall, misture partes iguais de água e de ampola em um recipiente não metálico. Aplique no cabelo limpo e úmido. Após cinco minutos, enxágue por completo.",
+          "A loja remete ao rótulo para a lista de ingredientes da ampola."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/biomask-prohall-para-que-serve-ampola.webp",
+            "alt": "Ampola de vidro de 15 ml da Biomask da Prohall, em fundo branco, em foto oficial da loja",
+            "caption": "Ampola Biomask 15 ml, que se mistura com água em partes iguais. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/ampola-hidratacao-intensa-biomask-15ml"
+          }
+        ]
+      },
+      {
+        "heading": "Sachê ou pote: a diferença por grama",
+        "paragraphs": [
+          "O pote de 500 g é o mais barato por grama, e o sachê, o mais caro: entre os dois, a diferença é de R$ 0,09 por grama.",
+          "O sachê serve a quem quer só conhecer o produto ou levar na mala. Pela página, ele é usado do comprimento às pontas, evitando a raiz, de 5 a 10 minutos. Já o pote de 500 g só compensa se você for usar a máscara de 1 a 2 vezes por semana, como a loja indica, até o fim.",
+          "No shampoo, a loja diz que o frasco de 300 ml rende cerca de 2 meses de uso diário. É a estimativa dela, que não conferimos."
+        ]
+      },
+      {
+        "heading": "O que a loja não publica sobre a Biomask",
+        "paragraphs": [
+          "As páginas dos produtos não trazem a lista completa de ingredientes (a composição que vem no rótulo), a quantidade de cada ativo nem estudo sobre a linha. Por isso este guia fica no modo de uso e no preço.",
+          "Quem tem alergia ou sensibilidade deve ler o rótulo do pote antes de usar. Para dúvida de saúde do couro cabeludo ou do fio, vale a orientação de um profissional. Quem procura a linha com tônico de couro cabeludo encontra a descrição no guia da [Force Hair](/reviews/force-hair-prohall-para-que-serve)."
+        ]
+      },
+      {
+        "heading": "Qual tamanho levar e quanto sai com o código",
+        "paragraphs": [
+          "O pote de 500 g custa menos por grama. O sachê tem o menor preço para experimentar e leva a orientação de uso na própria embalagem.",
+          "O CECILIAMC vale até 10% na Prohall, e nos nossos testes o carrinho mostrou 7%. Conta nossa: com os 7% dos testes, o pote de 500 g, de R$ 74,90, ficaria em cerca de R$ 69,66. É estimativa; o valor certo aparece no resumo do pedido. O código é digitado em “Tem um cupom?”, no checkout, e as condições estão na página do [cupom Prohall](/cupons/prohall). O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Biomask Prohall serve para quê? A Prohall vende a Biomask como linha de hidratação. Indica a máscara para cabelo seco ou danificado e cita fios com química ou em transição.",
+          "Biomask Prohall: como usar a máscara? Depois do shampoo Biomask, com os fios úmidos, aplique mecha por mecha, penteie até uniformizar, deixe 5 minutos e enxágue. A loja indica de 1 a 2 vezes por semana.",
+          "Ampola Biomask: como usar? A Prohall orienta misturar partes iguais de água e de ampola em um recipiente não metálico. Aplique nos fios limpos e úmidos, deixe cinco minutos e enxágue.",
+          "Qual a composição da Biomask? As páginas listam só alguns ativos: proteína de trigo e manteiga de karité na máscara, óleo de coco e ácido lático no shampoo e no condicionador. A lista completa está no rótulo.",
+          "Quanto custa a máscara Biomask? Depende do tamanho: há pote de 300 g, pote de 500 g e sachê de 50 g, com os preços na tabela do início. O pote de 500 g é o mais barato por grama."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1202,
+    "slug": "force-hair-prohall-para-que-serve",
+    "locale": "pt",
+    "title": "Force Hair Prohall: o que vem na linha, como usar e quanto custa",
+    "seoTitle": "Force Hair Prohall: o que vem na linha, como usar e preço",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que vem na linha Force Hair da Prohall, como a página manda usar o tônico, o shampoo e a máscara e o preço de cada item no site, sem promessa de resultado.",
+    "metaDescription": "CECILIAMC dá até 10% na Prohall; nos testes, 7%. Force Hair: o que vem na linha, como usar o tônico, o shampoo e a máscara e o preço de cada um.",
+    "publishedAt": "20 de novembro de 2026",
+    "publishedAtISO": "2026-11-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/force-hair-prohall-para-que-serve-capa.webp",
+    "imageAlt": "Shampoo e máscara Force Hair em frascos brancos de 500 ml com rótulo roxo e o tônico em spray, em fundo branco, em foto da Prohall com o logo da marca, os textos «Force Hair Prohall / o que vem na linha» e o código CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer ver o que vem em cada item da linha e quanto custa por ml antes de abrir a loja.",
+        "Você já decidiu usar um tônico de couro cabeludo e quer saber como a página manda aplicar."
+      ],
+      "skipIf": [
+        "Sua dúvida é queda de cabelo: esse assunto é de dermatologista, não de loja.",
+        "Você espera um resultado garantido: este guia não promete nenhum."
+      ]
+    },
+    "cta": {
+      "text": "Se a linha Force Hair faz sentido para você, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "biomask-prohall-para-que-serve"
+      },
+      {
+        "slug": "prohall-e-confiavel"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Force Hair reúne tônico de uso diário para o couro cabeludo, shampoo e máscara. A Prohall orienta enxaguar o shampoo e a máscara e deixar o tônico no couro cabeludo. Você pode comprar os três avulsos ou em kit. Confira o tamanho do tônico na lista de itens do kit."
+        ]
+      },
+      {
+        "heading": "O que vem na linha Force Hair",
+        "paragraphs": [
+          "São três produtos, vendidos separados ou juntos no kit. A tabela mostra o passo da rotina de cada um e o que a página manda fazer. Para a visão das outras linhas da marca, veja [Prohall é boa?](/reviews/prohall-e-boa)."
+        ],
+        "comparisonTable": {
+          "caption": "O que a página de cada produto descreve no site oficial. A coluna da direita é o modo de uso do fabricante.",
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Passo da rotina",
+            "Como a página manda usar"
+          ],
+          "rows": [
+            [
+              "[Tônico Force Hair](https://lojaprohall.com.br/products/tonico-force-hair-crescimento-capilar-acelerado-120ml)",
+              "120 ml",
+              "Couro cabeludo, sem enxágue",
+              "Leave-in de uso diário, no couro cabeludo limpo e seco ou levemente úmido, com massagem"
+            ],
+            [
+              "[Shampoo Force Hair](https://lojaprohall.com.br/products/shampoo-de-crescimento-fortificante-force-hair-500ml)",
+              "500 ml",
+              "Lavagem",
+              "Em cabelo molhado, massageando o couro cabeludo, enxaguar e repetir se preciso"
+            ],
+            [
+              "[Máscara Force Hair](https://lojaprohall.com.br/products/mascara-de-crescimento-fortificante-force-hair-500ml)",
+              "500 ml",
+              "Tratamento",
+              "Do comprimento às pontas, com massagem, por 5 a 10 minutos, e enxaguar"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Prohall identifica o shampoo como de uso profissional. No kit, a loja lista shampoo e máscara de 500 ml cada e tônico de 120 g. O anúncio do tônico avulso informa 120 ml."
+        ]
+      },
+      {
+        "heading": "Tônico Force Hair: como a página manda usar",
+        "paragraphs": [
+          "O tônico é o item que diferencia a linha: é um leave-in, ou seja, não se enxágua. A página manda aplicar no couro cabeludo limpo e seco ou levemente úmido, massagear e usar todos os dias.",
+          "Os ativos que a loja lista são óleo de patauá, óleo de rícino, biotina e o Blend BeauPlex, que reúne as vitaminas C, E, B3, B5 e B6. A loja não informa a quantidade de nenhum deles.",
+          "Nas precauções, a página diz que o uso é externo e que, em caso de irritação, o uso deve ser suspenso."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/force-hair-prohall-para-que-serve-tonico.webp",
+            "alt": "Frasco spray branco do Tônico Force Hair de 120 ml da Prohall, em foto oficial da loja",
+            "caption": "Tônico Force Hair 120 ml. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/tonico-force-hair-crescimento-capilar-acelerado-120ml"
+          }
+        ]
+      },
+      {
+        "heading": "Como a Prohall orienta usar o shampoo e a máscara",
+        "paragraphs": [
+          "O shampoo vai em cabelo molhado, com massagem no couro cabeludo, e se enxágua; a página diz que pode ser repetido se for preciso. Os ativos listados são os mesmos do tônico.",
+          "A máscara vai do comprimento às pontas, com massagem, e fica de 5 a 10 minutos antes do enxágue. A precaução da página é direta: em caso de irritação, suspender o uso e procurar orientação médica."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/force-hair-prohall-para-que-serve-mascara.webp",
+            "alt": "Frasco branco da Máscara Force Hair de 500 ml da Prohall, com rótulo roxo, em foto oficial da loja",
+            "caption": "Máscara Force Hair 500 ml. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/mascara-de-crescimento-fortificante-force-hair-500ml"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa cada item da linha",
+        "paragraphs": [
+          "Os preços no site são de cada embalagem. A estimativa com CECILIAMC usa os 7% observados nos carrinhos testados. Confira quanto o código tira no seu pedido."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda na Prohall em 20 de novembro de 2026 e estimativa com o cupom.",
+          "headers": [
+            "Item",
+            "Preço no site",
+            "Estimativa com 7%"
+          ],
+          "rows": [
+            [
+              "Tônico Force Hair 120 ml",
+              "R$ 24,90",
+              "R$ 23,16"
+            ],
+            [
+              "Shampoo Force Hair 500 ml",
+              "R$ 49,90",
+              "R$ 46,41"
+            ],
+            [
+              "Máscara Force Hair 500 ml",
+              "R$ 79,90",
+              "R$ 74,31"
+            ],
+            [
+              "Kit com shampoo, máscara e tônico",
+              "R$ 99,90",
+              "R$ 92,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O kit custa R$ 99,90. Os três anúncios avulsos somam R$ 154,70. Antes de usar essa diferença para decidir, confirme com a Prohall se o tônico do kit, descrito como 120 g, é o mesmo que o avulso de 120 ml.",
+          "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10%; nos nossos testes, o carrinho mostrou 7%. O código é digitado em “Tem um cupom?”, no checkout. O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        ]
+      },
+      {
+        "heading": "O que a página não publica",
+        "paragraphs": [
+          "A Prohall lista alguns ativos nos anúncios. A composição completa e as quantidades ficam para conferir no rótulo. Para queixas persistentes do couro cabeludo, procure um dermatologista.",
+          "Queda de cabelo é assunto de dermatologista. Quem tem queixa de queda, falhas ou irritação no couro cabeludo deve começar pela consulta, e não pela compra de um produto de loja."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Force Hair Prohall é bom? O que dá para conferir nas fichas é a diferença de uso. O tônico fica no couro cabeludo. O shampoo e a máscara são enxaguados. A equipe não testou a linha.",
+          "Force Hair funciona? A equipe não testou a linha. Se você tem uma queixa no couro cabeludo, converse com um dermatologista antes de escolher o produto.",
+          "Como usar o tônico Force Hair? Segundo a página, no couro cabeludo limpo e seco ou levemente úmido, com massagem, sem enxaguar e todos os dias. Em caso de irritação, a página manda suspender o uso.",
+          "Qual a composição da Force Hair? Nos anúncios do tônico e do shampoo, a Prohall lista óleo de patauá, óleo de rícino, biotina e Blend BeauPlex. Confira a composição completa no rótulo de cada item.",
+          "Quanto custa a Force Hair da Prohall? Na consulta, o tônico era o item avulso de menor preço. O kit tinha shampoo, máscara e tônico. A tabela mostra os preços e indica a estimativa com o cupom."
         ]
       }
     ]
