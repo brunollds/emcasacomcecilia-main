@@ -1,0 +1,7 @@
+[
+  {
+    "file": "src/components/review/ReviewGallerySection.tsx",
+    "match": "<Play className=\"ml-0.5",
+    "reason": "centralização ótica do triângulo do Play dentro do círculo: o ícone não espelha, então o deslocamento fica físico"
+  }
+]
