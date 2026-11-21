@@ -111,3 +111,10 @@ crunch tabela nutricional", "bold tube calorias", "bold wafer tabela".
 | Por barra, por 100 g de proteína, por 100 kcal, com 20% | Conta nossa: | tabelas e vitrine | refazer no dia |
 | Código na assinatura | Conta nossa: | teste do Bruno, 18/11 | verificado (caixa de barras) |
 | Sabor e textura | A loja informa: | páginas | só atribuído |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/bold/barra-bold-21g-ou-14g-capa-v2.webp` (`imageFit: contain`), SHA-256 `8e15d5580fd4ac72be33393cc498bcab04716e58a9d30a1df868538bd6bd6729`.
+- **Alt:** Caixa aberta de barras BOLD Bombom Crocante de 21 g de proteína, ao lado de uma foto da barra de 14 g na mão. A capa pergunta «Barra BOLD 21 g ou 14 g?» e mostra o cupom CECILIA15.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 66 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/66/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/66/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bold/barra-bold-21g-ou-14g-capa.webp`) fica no CDN, sem uso como capa.

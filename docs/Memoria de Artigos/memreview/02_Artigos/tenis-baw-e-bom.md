@@ -94,3 +94,10 @@ Capa com o logo, o código e o Truck ou o Grip Mad (foto oficial). Corpo: Grip M
 | Divergências das fichas | A ficha diz: | idem | verificado |
 | Conforto, forma, calce | - | - | **não escrever** |
 | Estoque | - | - | **não escrever** |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/baw/tenis-baw-e-bom-capa-v2.webp` (`imageFit: contain`), SHA-256 `bb33edd72cd523e66ebc9ea7ded4119ff160e51c862ca0c384b0dd2730fb274d`.
+- **Alt:** Tênis Grip Mad off-white e Truck preto da BAW em fotos oficiais com ângulos diferentes, sobre cenário ilustrado. A capa pergunta «Tênis BAW é bom?» e mostra o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 65 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/65/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/65/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/tenis-baw-e-bom-capa.webp`) fica no CDN, sem uso como capa.

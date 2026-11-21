@@ -232,3 +232,10 @@ Pergunta central: qual ativo escolher, para que objetivo, e em que ordem usar. A
 1. **Ordem entre os dois:** a loja não diz. Você aceita uma "regra prática, sem teste nosso" de ordem, com a premissa escrita e a fonte pendente, ou o capítulo fica só com a lacuna dita?
 2. **Melasma:** o artigo deixa melasma fora e manda ao dermatologista, sem citar a frase da Duo Best-sellers sobre melasma? Ou aceita a frase como "a loja diz"? A segunda opção fica no limite do que a regra de saúde permite.
 3. **Pele oleosa e acne:** o capítulo de oleosidade fala só do que a niacinamida declara (a loja diz), ou você quer que a SO4 linke a SO9 quando a pessoa tem espinhas?
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa-v2.webp` (`imageFit: contain`), SHA-256 `fb066c690ea128370ed7add6ea0de92c57ff343401e41b1f3dd0f5663116473b`.
+- **Alt:** Frascos da Solução Vitamina C e do Ultra Sérum Niacinamida da Simple Organic em uma composição em azul e amarelo. A capa pergunta «Vitamina C ou niacinamida?» e mostra o cupom S-EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 65 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/65/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/65/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa.webp`) fica no CDN, sem uso como capa.

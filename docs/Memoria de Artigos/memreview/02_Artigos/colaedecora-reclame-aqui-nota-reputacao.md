@@ -105,3 +105,10 @@ Sem quadro `decision`.
 Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.
 
 **Farol (19/11, PR de correção).** Diff de `docs/auditoria-copy-artigos/colaedecora-cd1-cd6-20261119-farol/` aplicado, com os fatos novos conferidos no Chrome em 19/11: o Cercadinho Casal mostra 100 kg no resumo e 200 kg de carga estática nas especificações (o texto manda confirmar com a loja); a FAQ da Nina branca fala em despacho em até 3 dias úteis e entrega de 5 a 15 dias úteis conforme o CEP; o WhatsApp é o mesmo (47) 3326-0084; `/live` existe; o 2º teste (5 cadeiras Theo, R$ 719,55, frete grátis num CEP do Sudeste, Pix pelo mesmo valor) está no dossiê; garantia legal de 90 dias para vício aparente em bem durável (CDC, art. 26). Corrigido sobre o diff: a página de trocas dá 7 dias corridos para troca ou devolução quando o produto "não estiver de acordo com o solicitado", sem falar em desistência; a desistência em 7 dias foi atribuída ao art. 49 do CDC.
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa-v2.webp` (`imageFit: contain`), SHA-256 `51c381aafcf03a4ec6c8e23943c1729c20667bab069ee5ec81d054e9feead081`.
+- **Alt:** Criança em um quarto infantil ao lado da estante branca Bella, em foto da Cola e Decora. A capa traz a chamada «Reclame Aqui» e o cupom EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 66 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/66/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/66/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

@@ -83,3 +83,10 @@ título usa "BAW ou Pace" e o corpo cobre "Pace roupas" e "tênis Pace" nos H2.
 | História, Dover Street Market, ASICS | Segundo a ELLE / a Hypebeast: | links nos fatos | **reler a fonte** |
 | Preços e fichas da BAW | A loja informa: | site, 20/11 | reler |
 | Qualidade, caimento, conforto | - | - | **não escrever** |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/baw/baw-ou-pace-capa-v2.webp` (`imageFit: contain`), SHA-256 `360812ecc4605364ad0a98e85b75a9f61d139e4aed97f106b998eba053058301`.
+- **Alt:** Duas fotos da BAW com modelos vestindo a camiseta branca Regular Goth 3.0, uma de perto e outra de corpo inteiro. A capa pergunta «BAW ou Pace?» e mostra o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 65 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/65/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/65/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/baw-ou-pace-capa.webp`) fica no CDN, sem uso como capa.

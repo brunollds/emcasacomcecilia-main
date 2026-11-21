@@ -81,3 +81,10 @@ para quem já viu a collab.
 | "Mais confortável", "primeira vegana", palmilha | A ficha diz: | idem | só atribuído |
 | Tiras não ajustáveis; tabela de medidas | A ficha diz: | idem | verificado |
 | Material dos slides | - | fichas vazias | **não escrever** |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/baw/sandalia-linus-baw-capa-v2.webp` (`imageFit: contain`), SHA-256 `5f73fc9447d94697e4482e4685154d12a5813d9d23fb8648092fa4f95e52386e`.
+- **Alt:** Sandálias Linus + BAW amarelo, rosa e laranja empilhadas ao lado de uma foto em que a sandália laranja aparece nos pés. A capa mostra o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 65 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/65/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/65/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/sandalia-linus-baw-capa.webp`) fica no CDN, sem uso como capa.

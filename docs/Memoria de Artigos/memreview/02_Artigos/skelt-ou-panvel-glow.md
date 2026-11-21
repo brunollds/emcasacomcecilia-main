@@ -165,3 +165,10 @@ Ver seção 11.
 ## Decisões do Bruno (20/11/2026)
 
 *(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/skelt/skelt-ou-panvel-glow-capa-v2.webp` (`imageFit: contain`), SHA-256 `2b6fd89c69bfce3e38c5f165f7c56ffb0af1802e1ac9f08f4a2b802f9adf2a79`.
+- **Alt:** Frasco da Água Autobronzeadora Incolor da Skelt sobre fundo azul-turquesa. A capa pergunta «Skelt ou Panvel Glow?» e mostra o cupom SKEMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 65 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/65/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/65/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/skelt/skelt-ou-panvel-glow-capa.webp`) fica no CDN, sem uso como capa.

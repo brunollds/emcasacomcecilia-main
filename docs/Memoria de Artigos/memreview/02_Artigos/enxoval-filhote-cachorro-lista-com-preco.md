@@ -117,3 +117,10 @@ e a tabela, que é o que a leitora precisa. Alt de cada imagem diz o que aparece
 - Guia: a Toh é a entrada da categoria com oferta de 30%; a ficha não traz comprimento. Ver se a loja publica antes de
   escrever sobre tamanho.
 - Depois de 01/12: reler todos os preços da tabela e tirar o que mudou.
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp` (`imageFit: contain`), SHA-256 `78a2041ccd01cbd327d0a94aa532b01e1b95545ff67ee900def8bbadaea7c3e5`.
+- **Alt:** Filhotes marrons correndo na grama, em imagem da Petz TV. A capa traz o logo da Petz, a chamada «O que seu filho precisa?» e o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`. Chamada v3 aprovada em `APROVACOES-VISUAIS.json` («O que seu filho precisa?»).
+- **Lote 64 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/64/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/64/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp`) fica no CDN, sem uso como capa.

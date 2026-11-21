@@ -162,3 +162,10 @@ oficial). A tabela não foi lida; a foto só entra depois da leitura.
   ler a tabela da imagem pelo navegador? É leitura de página, sem download de arquivo. (3) O Tasty Isolate Juice é
   proteína bovina: entra na conta ou fica fora da tabela?
 
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp` (`imageFit: contain`), SHA-256 `7a850f281f357ac8a859d2c9376c3d8976e2570bab25f7f11459584a91d3f905`.
+- **Alt:** Potes Tasty Iso Banana e Tasty Iso Pure da Adaptogen em um cenário ilustrado de tons dourados. A capa pergunta «Tasty Iso vale a pena?» e mostra o cupom CECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 64 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/64/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/64/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa.webp`) fica no CDN, sem uso como capa.

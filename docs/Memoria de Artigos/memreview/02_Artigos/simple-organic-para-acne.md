@@ -241,3 +241,10 @@ Pauta pedida pelo Bruno em 20/11/2026. O ID SO9 é proposto: a Fila tem SO1 a SO
 3. **Colaboração do adesivo:** a página diz que o adesivo é de uma colaboração com outra marca. O artigo cita o nome dessa marca, ou só diz "colaboração com outra marca, edição limitada"?
 4. **Kit "Acne e Oleosidade sob controle" e o nome "Solução Niacinamida":** o kit diz "Solução Niacinamida", que não aparece à venda avulsa no catálogo de 20/11. A página do Ultra Sérum Niacinamida diz que é a mesma fórmula. O artigo trata o kit como a SO4 trata, ou você quer checagem antes?
 5. **Super Balm, diário ou pontual:** a própria página diz as duas coisas. O artigo mostra o conflito, ou escolhe uma das duas?
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/simple-organic-para-acne-capa-v2.webp` (`imageFit: contain`), SHA-256 `21ed4d1d6e65b9a3be4f1ff44e70d597682fdd3b1fcbed2d179a6996d3aacf00`.
+- **Alt:** Gel de limpeza e sérum do Duo Tchau Acne ao lado dos adesivos Bye Bye Acne, da Simple Organic, em uma composição lilás. A capa traz a chamada «Skincare para acne» e o cupom S-EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 65 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/65/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/65/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/simple-organic/simple-organic-para-acne-capa.webp`) fica no CDN, sem uso como capa.

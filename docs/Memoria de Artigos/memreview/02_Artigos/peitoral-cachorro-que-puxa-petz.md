@@ -122,3 +122,10 @@ só se houver foto própria. Alt diz o que aparece.
 - Ver a ordem da categoria: a leitura usou a relevância padrão e a primeira página. Se o artigo disser "os mais vendidos",
   refazer a ordenação na loja.
 - Depois de 01/12: reler preços e campanha.
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp` (`imageFit: contain`), SHA-256 `a4d78a5d3e7ed41cc3af11e820453e803262658abe12525c4ac5690d6e249e31`.
+- **Alt:** Cão marrom de perfil com peitoral preto Zee.Dog SofterWalk Gotham e a guia presa à argola frontal. A capa traz o logo da Petz, a chamada «Qual peitoral combina com seu cachorro?» e o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`. Chamada v3 aprovada em `APROVACOES-VISUAIS.json` («Qual peitoral combina com seu cachorro?»).
+- **Lote 64 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/64/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/64/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp`) fica no CDN, sem uso como capa.
