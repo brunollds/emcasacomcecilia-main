@@ -83,6 +83,13 @@ const shareCopy: Record<Locale, ShareCopy> = {
     copyLink: '复制链接',
     copied: '已复制！',
   },
+  ar: {
+    share: 'شارك:',
+    shareOn: (network) => `المشاركة على ${network}`,
+    shareByEmail: 'المشاركة عبر البريد الإلكتروني',
+    copyLink: 'نسخ الرابط',
+    copied: 'تم النسخ!',
+  },
 };
 
 export function getShareCopy(locale: Locale): ShareCopy {

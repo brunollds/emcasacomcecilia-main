@@ -86,6 +86,7 @@ const STORE_LABELS: Record<Locale, { pair: (a: string, b: string) => string; man
   ja: { pair: (a, b) => `${a} と ${b}`, many: (n) => `提携ストア ${n} 店` },
   'zh-hant': { pair: (a, b) => `${a} 和 ${b}`, many: (n) => `${n} 家合作商店` },
   'zh-hans': { pair: (a, b) => `${a} 和 ${b}`, many: (n) => `${n} 家合作商店` },
+  ar: { pair: (a, b) => `${a} و ${b}`, many: (n) => `${n} من المتاجر الشريكة` },
 };
 
 export function getReviewStoreLabel(

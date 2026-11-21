@@ -72,6 +72,12 @@ const REVIEW_HUB_COPY: Record<ReviewHubLocale, ReviewHubCopy> = {
     metaDescription:
       'Em Casa com Cecília 的 YesStyle、SHEIN 和 Hostinger 指南与评测：商店是否可靠、配送、费用、促销，以及我们代码的使用方法。',
   },
+  ar: {
+    title: 'الأدلة والمراجعات',
+    description: 'أدلة عملية ومراجعات مستقلة اخترناها لك.',
+    metaDescription:
+      'أدلة ومراجعات من Em Casa com Cecília عن YesStyle و SHEIN و Hostinger: هل كل متجر موثوق، والشحن والرسوم والعروض، وكيفية استخدام رموزنا.',
+  },
 };
 
 export function getReviewHubPath(locale: ReviewHubLocale): string {
