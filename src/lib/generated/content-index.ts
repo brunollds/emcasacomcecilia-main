@@ -105143,8 +105143,8 @@ export const reviewsData: unknown[] = [
           "Conta nossa, pelos preços de tabela e pelas tabelas nutricionais das lojas, arredondada no centavo:"
         ],
         "image": {
-          "src": "/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
-          "alt": "Quadro com o preço no Pix em 18/10/2026: whey por 100 g de proteína, Growth Concentrado R$ 26,34 e Max 100% Whey Refil R$ 30,24; creatina por 100 g, Growth refil R$ 14,98, Max 500 g R$ 16,98 e Max 300 g R$ 18,67; hipercalórico por 1.000 kcal, Max Mass Titanium 3 kg R$ 9,81 e Growth Big Mass Pro 3 kg R$ 15,04",
+          "src": "/images/reviews/max-titanium/max-titanium-ou-growth-quadro-precos.webp",
+          "alt": "Quadro com o preço no Pix em 18/10/2026: whey por 100 g de proteína, Growth Concentrado R$ 26,34 e Max 100% Whey Refil R$ 30,24; creatina por 100 g, Max 500 g R$ 13,56 (relida em 20/11/2026), Growth refil R$ 14,98 e Max 300 g R$ 18,67; hipercalórico por 1.000 kcal, Max Mass Titanium 3 kg R$ 9,81 e Growth Big Mass Pro 3 kg R$ 15,04",
           "caption": "O preço de whey, creatina e hipercalórico nas duas lojas, no Pix, nos sites oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
@@ -120012,8 +120012,8 @@ export const reviewsData: unknown[] = [
           "As contas são estas, arredondadas no centavo:"
         ],
         "image": {
-          "src": "/images/reviews/max-titanium/max-titanium-ou-dux-capa.webp",
-          "alt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Max 100% Whey Refil R$ 30,24 e IsoWhey R$ 40,56, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Max 500 g R$ 16,98 e 300 g R$ 18,67, Dux 300 g R$ 20,55 e 600 g R$ 21,83",
+          "src": "/images/reviews/max-titanium/max-titanium-ou-dux-quadro-precos.webp",
+          "alt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Max 100% Whey Refil R$ 30,24 e IsoWhey R$ 40,56, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Max 500 g R$ 13,56 (relida em 20/11/2026) e 300 g R$ 18,67, Dux 300 g R$ 20,55 e 600 g R$ 21,83",
           "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
