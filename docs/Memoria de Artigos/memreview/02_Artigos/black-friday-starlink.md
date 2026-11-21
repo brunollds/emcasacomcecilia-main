@@ -133,3 +133,22 @@ Sem quadro `decision`.
 | Oferta e valor por país (9 idiomas) | A loja informa: | pedido do país, no dia | ler no dia |
 | Limite de indicações | - | termos não lidos | ler antes da seção 3 |
 | Kit R$ 229 sem fidelidade | - | não confirmado | não escrever |
+
+## Capa v2 nos 11 idiomas (21/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-45-ROTAS-E-ALTS.json`.
+- **Lote 72 do piloto de capas (sequência 24 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/72/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-24-CLAUDE.zip` (`lotes/72/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `black-friday-starlink` | `/images/reviews/starlink/black-friday-starlink-hero-pt-v2.webp` | Antena Starlink branca no telhado de uma casa sob um céu estrelado. A capa pergunta quanto custam as ofertas de Black Friday. |
+| en | `starlink-black-friday-deal` | `/images/reviews/starlink/black-friday-starlink-hero-en-v2.webp` | A white Starlink dish on a roof under a starry sky. The cover asks what the Black Friday offers cost. |
+| es | `starlink-black-friday-oferta` | `/images/reviews/starlink/black-friday-starlink-hero-es-v2.webp` | Antena blanca de Starlink en un tejado bajo un cielo estrellado. La portada pregunta cuánto cuestan las ofertas del Black Friday. |
+| fr | `starlink-black-friday-offre` | `/images/reviews/starlink/black-friday-starlink-hero-fr-v2.webp` | Antenne Starlink blanche sur un toit sous un ciel étoilé. La couverture demande combien coûtent les offres du Black Friday. |
+| de | `starlink-black-friday-angebot` | `/images/reviews/starlink/black-friday-starlink-hero-de-v2.webp` | Eine weiße Starlink-Antenne auf einem Dach unter einem Sternenhimmel. Das Titelbild fragt, was die Black-Friday-Angebote kosten. |
+| it | `starlink-black-friday-offerta` | `/images/reviews/starlink/black-friday-starlink-hero-it-v2.webp` | Antenna Starlink bianca sul tetto sotto un cielo stellato. La copertina chiede quanto costano le offerte del Black Friday. |
+| ja | `starlink-black-friday-ja` | `/images/reviews/starlink/black-friday-starlink-hero-ja-v2.webp` | 星空の下、屋根に設置された白いStarlinkアンテナ。表紙はブラックフライデーの費用を問いかける。 |
+| ko | `starlink-black-friday-ko` | `/images/reviews/starlink/black-friday-starlink-hero-ko-v2.webp` | 별이 빛나는 하늘 아래 지붕에 설치된 흰색 스타링크 안테나. 표지에는 블랙프라이데이 행사 비용에 관한 질문이 적혀 있다. |
+| zh-hans | `starlink-black-friday-zh-hans` | `/images/reviews/starlink/black-friday-starlink-hero-zh-hans-v2.webp` | 星空下，屋顶上装着一台白色的 Starlink 天线。封面询问黑色星期五的优惠要花多少钱。 |
+| zh-hant | `starlink-black-friday-zh-hant` | `/images/reviews/starlink/black-friday-starlink-hero-zh-hant-v2.webp` | 星空下，屋頂上裝著一台白色的 Starlink 天線。封面詢問黑色星期五的優惠要花多少錢。 |
+| ar | `starlink-black-friday-ar` | `/images/reviews/starlink/black-friday-starlink-hero-ar-v2.webp` | هوائي Starlink أبيض مثبت على سقف منزل تحت سماء مرصعة بالنجوم. يسأل الغلاف عن تكلفة عروض الجمعة البيضاء. |

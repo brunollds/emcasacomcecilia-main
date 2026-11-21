@@ -92,3 +92,22 @@ contra. Dizer isso sem nota nem estrela, com o quadro `decision`.
 | Dados ilimitados | A loja informa: | home, 19/11 | verificado |
 | Latência | - | não lida | só com a página |
 | Uso próprio | - | sem | não escrever |
+
+## Capa v2 nos 11 idiomas (21/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-45-ROTAS-E-ALTS.json`.
+- **Lote 72 do piloto de capas (sequência 24 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/72/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-24-CLAUDE.zip` (`lotes/72/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `starlink-vale-a-pena` | `/images/reviews/starlink/starlink-vale-a-pena-hero-pt-v2.webp` | Casa com antena Starlink no telhado ao anoitecer, sob um céu rosado com a Lua. A capa pergunta se a Starlink vale a pena. |
+| en | `is-starlink-worth-it` | `/images/reviews/starlink/starlink-vale-a-pena-hero-en-v2.webp` | A house with a Starlink dish on the roof beneath a pink evening sky with the moon. The cover asks whether Starlink is worth it. |
+| es | `starlink-vale-la-pena` | `/images/reviews/starlink/starlink-vale-a-pena-hero-es-v2.webp` | Casa con una antena Starlink en el tejado al atardecer, bajo un cielo rosado con la luna. La portada pregunta si Starlink vale la pena. |
+| fr | `starlink-vaut-il-le-coup` | `/images/reviews/starlink/starlink-vale-a-pena-hero-fr-v2.webp` | Maison équipée d’une antenne Starlink sur le toit, sous un ciel rose avec la lune. La couverture demande si Starlink vaut le coup. |
+| de | `lohnt-sich-starlink` | `/images/reviews/starlink/starlink-vale-a-pena-hero-de-v2.webp` | Ein Haus mit Starlink-Antenne auf dem Dach unter einem rosafarbenen Abendhimmel mit Mond. Das Titelbild fragt, ob sich Starlink lohnt. |
+| it | `starlink-conviene` | `/images/reviews/starlink/starlink-vale-a-pena-hero-it-v2.webp` | Una casa con antenna Starlink sul tetto sotto un cielo rosa al tramonto, con la luna. La copertina chiede se Starlink conviene. |
+| ja | `starlink-worth-it-ja` | `/images/reviews/starlink/starlink-vale-a-pena-hero-ja-v2.webp` | 月が浮かぶ夕暮れの空と、屋根にStarlinkアンテナのある家。表紙はStarlinkを利用する価値があるかを問いかける。 |
+| ko | `starlink-worth-it-ko` | `/images/reviews/starlink/starlink-vale-a-pena-hero-ko-v2.webp` | 달이 뜬 분홍빛 저녁 하늘 아래 지붕에 스타링크 안테나가 설치된 집. 표지에는 가입할 만한지에 관한 질문이 적혀 있다. |
+| zh-hans | `starlink-worth-it-zh-hans` | `/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hans-v2.webp` | 粉色暮空中有一轮月亮，一栋房子的屋顶上装着 Starlink 天线。封面询问 Starlink 是否值得买。 |
+| zh-hant | `starlink-worth-it-zh-hant` | `/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hant-v2.webp` | 粉色暮空中有一輪月亮，一棟房子的屋頂上裝著 Starlink 天線。封面詢問 Starlink 是否值得買。 |
+| ar | `starlink-worth-it-ar` | `/images/reviews/starlink/starlink-vale-a-pena-hero-ar-v2.webp` | منزل عليه هوائي Starlink تحت سماء وردية يظهر فيها القمر عند الغروب. يسأل الغلاف عما إذا كانت الخدمة تستحق الاشتراك. |

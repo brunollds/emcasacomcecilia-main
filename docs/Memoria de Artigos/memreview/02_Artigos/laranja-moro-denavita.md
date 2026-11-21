@@ -140,3 +140,10 @@ Capa com foto oficial do pote, logo e código. Corpo (mínimo 1): foto oficial d
 **Job 6.** Capa no painel lateral verde (logo num quadro branco, chamada, código EMCASA), fotos oficiais do Shopify da loja, só de produto, sem pessoas e sem o selo "Piscou perdeu"; "Foto: Denavita" nas legendas. As 15 imagens novas foram ao CDN com o sim do Bruno em 19/11 (folha `FOLHA-APROVACAO-DV.jpg`).
 
 Gates: validate:content, test:review-i18n, test:internal-links, test:article-d2, test:site-search, validate:video e o build completo verdes.
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/denavita/laranja-moro-denavita-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `5ceed2c7c0516bdbf23abb19b8fa9cdede878866e2d6eddc3bbd197ae241ffa9`.
+- **Alt:** Pote de Laranja Moro da Denavita entre fatias de laranja vermelha e cápsulas, em foto do catálogo. A capa pergunta «Laranja Moro: o que tem?» e mostra o cupom EMCASA.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-45-ROTAS-E-ALTS.json`.
+- **Lote 71 do piloto de capas (sequência 24 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/71/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-24-CLAUDE.zip` (`lotes/71/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/denavita/laranja-moro-denavita-capa.webp`) fica no CDN, sem uso como capa.
