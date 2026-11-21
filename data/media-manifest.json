@@ -135575,6 +135575,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp",
+      "local_url": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 114366,
+      "sha256": "7623bf807da1d4a9bf8b1ce2eafdaec255c8727578aa518bf2dfe80a1274e8a9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp",
+      "storage_filename": "cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cabelo-fino-e-fraco-qual-linha-prohall.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cabelo-fino-e-fraco-qual-linha-prohall.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cabelo-fino-e-fraco-qual-linha-prohall.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cabelo-fino-e-fraco-qual-linha-prohall.md",
+          "line": 100,
+          "column": 14,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294706,
+          "column": 15,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7623bf807da1d4a9bf8b1ce2eafdaec255c8727578aa518bf2dfe80a1274e8a9/cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7623bf807da1d4a9bf8b1ce2eafdaec255c8727578aa518bf2dfe80a1274e8a9/cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.001Z",
+      "verification_etag_or_digest": "7623bf807da1d4a9bf8b1ce2eafdaec255c8727578aa518bf2dfe80a1274e8a9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
       "local_url": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
       "media_kind": "image",
@@ -136571,6 +136625,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-mounjaro-hero-pt-v2.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-mounjaro-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120054,
+      "sha256": "130e0a0e6c9389faeb71ebc1607080fbdf08e73365d6345a421a1426d6da3c40",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-mounjaro-hero-pt-v2.webp",
+      "storage_filename": "queda-de-cabelo-mounjaro-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-mounjaro.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/queda-de-cabelo-mounjaro.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-mounjaro.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/queda-de-cabelo-mounjaro.md",
+          "line": 113,
+          "column": 14,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294050,
+          "column": 15,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/130e0a0e6c9389faeb71ebc1607080fbdf08e73365d6345a421a1426d6da3c40/queda-de-cabelo-mounjaro-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/130e0a0e6c9389faeb71ebc1607080fbdf08e73365d6345a421a1426d6da3c40/queda-de-cabelo-mounjaro-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "130e0a0e6c9389faeb71ebc1607080fbdf08e73365d6345a421a1426d6da3c40",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/queda-de-cabelo-mounjaro-mascara-force-hair.webp",
       "local_url": "/images/reviews/prohall/queda-de-cabelo-mounjaro-mascara-force-hair.webp",
       "media_kind": "image",
@@ -136724,6 +136832,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-o-que-fazer-hero-pt-v2.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-o-que-fazer-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 281162,
+      "sha256": "7f20991ffed13ce9a1dcd28ec9a59b1fc51d5e3c524fa5a10120c9c6aaa72bc9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-o-que-fazer-hero-pt-v2.webp",
+      "storage_filename": "queda-de-cabelo-o-que-fazer-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-o-que-fazer.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/queda-de-cabelo-o-que-fazer.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-o-que-fazer.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-o-que-fazer-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/queda-de-cabelo-o-que-fazer.md",
+          "line": 86,
+          "column": 14,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-o-que-fazer-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294539,
+          "column": 15,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-o-que-fazer-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7f20991ffed13ce9a1dcd28ec9a59b1fc51d5e3c524fa5a10120c9c6aaa72bc9/queda-de-cabelo-o-que-fazer-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f20991ffed13ce9a1dcd28ec9a59b1fc51d5e3c524fa5a10120c9c6aaa72bc9/queda-de-cabelo-o-que-fazer-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "7f20991ffed13ce9a1dcd28ec9a59b1fc51d5e3c524fa5a10120c9c6aaa72bc9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/queda-de-cabelo-ozempic-capa.webp",
       "local_url": "/images/reviews/prohall/queda-de-cabelo-ozempic-capa.webp",
       "media_kind": "image",
@@ -136767,6 +136929,60 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T03:02:03.338Z",
       "verification_etag_or_digest": "0993865e5f44b071a61873d78d0c8afb98a2b824492b8ea0de4fb0d695e22b3e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-ozempic-hero-pt-v2.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-ozempic-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97922,
+      "sha256": "de3beefc012351930e37c5b626389a24338a6b5e74479995d630bf567e03c308",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-ozempic-hero-pt-v2.webp",
+      "storage_filename": "queda-de-cabelo-ozempic-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-ozempic.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/queda-de-cabelo-ozempic.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-ozempic.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-ozempic-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/queda-de-cabelo-ozempic.md",
+          "line": 78,
+          "column": 14,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-ozempic-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294223,
+          "column": 15,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-ozempic-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/de3beefc012351930e37c5b626389a24338a6b5e74479995d630bf567e03c308/queda-de-cabelo-ozempic-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/de3beefc012351930e37c5b626389a24338a6b5e74479995d630bf567e03c308/queda-de-cabelo-ozempic-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "de3beefc012351930e37c5b626389a24338a6b5e74479995d630bf567e03c308",
       "verification_status": "verified"
     },
     {
@@ -136859,6 +137075,60 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T03:02:03.926Z",
       "verification_etag_or_digest": "05a1d28148c4663c593ff911d0399d7ac33c8753b8ab2ac4aecbcf152e1b5ca1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-wegovy-hero-pt-v2.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-wegovy-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76718,
+      "sha256": "48a50bfbbd299b671d299fcfda9e69e95bd4755844b6f4b78863fd5c99dbdee3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-wegovy-hero-pt-v2.webp",
+      "storage_filename": "queda-de-cabelo-wegovy-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-wegovy.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/queda-de-cabelo-wegovy.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-wegovy.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-wegovy-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/queda-de-cabelo-wegovy.md",
+          "line": 76,
+          "column": 14,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-wegovy-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294377,
+          "column": 15,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-wegovy-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/48a50bfbbd299b671d299fcfda9e69e95bd4755844b6f4b78863fd5c99dbdee3/queda-de-cabelo-wegovy-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/48a50bfbbd299b671d299fcfda9e69e95bd4755844b6f4b78863fd5c99dbdee3/queda-de-cabelo-wegovy-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "48a50bfbbd299b671d299fcfda9e69e95bd4755844b6f4b78863fd5c99dbdee3",
       "verification_status": "verified"
     },
     {
@@ -187271,6 +187541,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/black-friday-denavita-hero-pt-v2.webp",
+      "local_url": "/images/reviews/denavita/black-friday-denavita-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 115434,
+      "sha256": "ce176482769685f916e66f64b6580b784d44c2849826347133ce377bd1c0ccc9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-denavita-hero-pt-v2.webp",
+      "storage_filename": "black-friday-denavita-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-denavita.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-denavita.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-denavita.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/denavita/black-friday-denavita-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-denavita.md",
+          "line": 120,
+          "column": 14,
+          "literal": "/images/reviews/denavita/black-friday-denavita-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277368,
+          "column": 15,
+          "literal": "/images/reviews/denavita/black-friday-denavita-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ce176482769685f916e66f64b6580b784d44c2849826347133ce377bd1c0ccc9/black-friday-denavita-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ce176482769685f916e66f64b6580b784d44c2849826347133ce377bd1c0ccc9/black-friday-denavita-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "ce176482769685f916e66f64b6580b784d44c2849826347133ce377bd1c0ccc9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/denavita/black-friday-denavita-laranja-moro-3-potes.webp",
       "local_url": "/images/reviews/denavita/black-friday-denavita-laranja-moro-3-potes.webp",
       "media_kind": "image",
@@ -187363,6 +187687,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/cupom-denavita-como-usar-hero-pt-v2.webp",
+      "local_url": "/images/reviews/denavita/cupom-denavita-como-usar-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98702,
+      "sha256": "7e353e818aa321f4df2446dd283c12839a1aa18685ad4b359278dd1b693fc995",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-denavita-como-usar-hero-pt-v2.webp",
+      "storage_filename": "cupom-denavita-como-usar-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-denavita-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-denavita-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-denavita-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/cupom-denavita-como-usar-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-denavita-como-usar.md",
+          "line": 157,
+          "column": 14,
+          "literal": "/images/reviews/denavita/cupom-denavita-como-usar-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277194,
+          "column": 15,
+          "literal": "/images/reviews/denavita/cupom-denavita-como-usar-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7e353e818aa321f4df2446dd283c12839a1aa18685ad4b359278dd1b693fc995/cupom-denavita-como-usar-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7e353e818aa321f4df2446dd283c12839a1aa18685ad4b359278dd1b693fc995/cupom-denavita-como-usar-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "7e353e818aa321f4df2446dd283c12839a1aa18685ad4b359278dd1b693fc995",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/denavita/cupom-denavita-como-usar-trio-magnesio.webp",
       "local_url": "/images/reviews/denavita/cupom-denavita-como-usar-trio-magnesio.webp",
       "media_kind": "image",
@@ -187452,6 +187830,60 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T23:41:17.321Z",
       "verification_etag_or_digest": "f1e3c63642174166c82d94bcf87dba504df84eccb8c96f111c5599c8149f0432",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/cupom-denavita-primeira-compra-hero-pt-v2.webp",
+      "local_url": "/images/reviews/denavita/cupom-denavita-primeira-compra-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123004,
+      "sha256": "e6b9b939128cfa94be5637cd52bc80dc10925185620897eadfa33bb28c6401b3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-denavita-primeira-compra-hero-pt-v2.webp",
+      "storage_filename": "cupom-denavita-primeira-compra-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-denavita-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-denavita-primeira-compra.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-denavita-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/cupom-denavita-primeira-compra-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-denavita-primeira-compra.md",
+          "line": 96,
+          "column": 14,
+          "literal": "/images/reviews/denavita/cupom-denavita-primeira-compra-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278257,
+          "column": 15,
+          "literal": "/images/reviews/denavita/cupom-denavita-primeira-compra-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e6b9b939128cfa94be5637cd52bc80dc10925185620897eadfa33bb28c6401b3/cupom-denavita-primeira-compra-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e6b9b939128cfa94be5637cd52bc80dc10925185620897eadfa33bb28c6401b3/cupom-denavita-primeira-compra-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "e6b9b939128cfa94be5637cd52bc80dc10925185620897eadfa33bb28c6401b3",
       "verification_status": "verified"
     },
     {
@@ -187593,6 +188025,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/denavita-e-boa-hero-pt-v2.webp",
+      "local_url": "/images/reviews/denavita/denavita-e-boa-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86712,
+      "sha256": "76c33ba89f610ab4dcfcaaee2ecac335c8576a2f5550a6074635a6122f775a12",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-e-boa-hero-pt-v2.webp",
+      "storage_filename": "denavita-e-boa-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/denavita-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/denavita-e-boa-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/denavita-e-boa.md",
+          "line": 153,
+          "column": 14,
+          "literal": "/images/reviews/denavita/denavita-e-boa-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277715,
+          "column": 15,
+          "literal": "/images/reviews/denavita/denavita-e-boa-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/76c33ba89f610ab4dcfcaaee2ecac335c8576a2f5550a6074635a6122f775a12/denavita-e-boa-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/76c33ba89f610ab4dcfcaaee2ecac335c8576a2f5550a6074635a6122f775a12/denavita-e-boa-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "76c33ba89f610ab4dcfcaaee2ecac335c8576a2f5550a6074635a6122f775a12",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/denavita/denavita-e-boa-nac.webp",
       "local_url": "/images/reviews/denavita/denavita-e-boa-nac.webp",
       "media_kind": "image",
@@ -187731,6 +188217,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/denavita-e-confiavel-hero-pt-v2.webp",
+      "local_url": "/images/reviews/denavita/denavita-e-confiavel-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 167748,
+      "sha256": "a35b0703593e6b0ea9a59af799fa05401918f17f5d23e7df2a70a5c4094a5237",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-e-confiavel-hero-pt-v2.webp",
+      "storage_filename": "denavita-e-confiavel-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/denavita-e-confiavel.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-e-confiavel.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/denavita/denavita-e-confiavel-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/denavita-e-confiavel.md",
+          "line": 138,
+          "column": 14,
+          "literal": "/images/reviews/denavita/denavita-e-confiavel-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277953,
+          "column": 15,
+          "literal": "/images/reviews/denavita/denavita-e-confiavel-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a35b0703593e6b0ea9a59af799fa05401918f17f5d23e7df2a70a5c4094a5237/denavita-e-confiavel-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a35b0703593e6b0ea9a59af799fa05401918f17f5d23e7df2a70a5c4094a5237/denavita-e-confiavel-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "a35b0703593e6b0ea9a59af799fa05401918f17f5d23e7df2a70a5c4094a5237",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
       "local_url": "/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
       "media_kind": "image",
@@ -187823,6 +188363,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
+      "local_url": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 199900,
+      "sha256": "10947514aadc7b42657932145dc3ba95ea637d168711a6c5282971948cf498be",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
+      "storage_filename": "denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/denavita-reclame-aqui-nota-reputacao.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/denavita-reclame-aqui-nota-reputacao.md",
+          "line": 112,
+          "column": 14,
+          "literal": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278086,
+          "column": 15,
+          "literal": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/10947514aadc7b42657932145dc3ba95ea637d168711a6c5282971948cf498be/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/10947514aadc7b42657932145dc3ba95ea637d168711a6c5282971948cf498be/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "10947514aadc7b42657932145dc3ba95ea637d168711a6c5282971948cf498be",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/denavita/laranja-moro-denavita-capa.webp",
       "local_url": "/images/reviews/denavita/laranja-moro-denavita-capa.webp",
       "media_kind": "image",
@@ -187866,6 +188460,60 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T23:41:19.734Z",
       "verification_etag_or_digest": "3515f3603b6c55439f7712f1d71c4558db53ddefc2ccdfc31945a15a811a01f8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/laranja-moro-denavita-hero-pt-v2.webp",
+      "local_url": "/images/reviews/denavita/laranja-moro-denavita-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 135670,
+      "sha256": "5ceed2c7c0516bdbf23abb19b8fa9cdede878866e2d6eddc3bbd197ae241ffa9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "laranja-moro-denavita-hero-pt-v2.webp",
+      "storage_filename": "laranja-moro-denavita-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/laranja-moro-denavita.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/laranja-moro-denavita.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/laranja-moro-denavita.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/laranja-moro-denavita.md",
+          "line": 146,
+          "column": 14,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277536,
+          "column": 15,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5ceed2c7c0516bdbf23abb19b8fa9cdede878866e2d6eddc3bbd197ae241ffa9/laranja-moro-denavita-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5ceed2c7c0516bdbf23abb19b8fa9cdede878866e2d6eddc3bbd197ae241ffa9/laranja-moro-denavita-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "5ceed2c7c0516bdbf23abb19b8fa9cdede878866e2d6eddc3bbd197ae241ffa9",
       "verification_status": "verified"
     },
     {
@@ -187958,6 +188606,600 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T01:48:32.368Z",
       "verification_etag_or_digest": "975245e3b9d0ea860e4e9f913de884f554a372b0362f003986d2982badd13adb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-ar-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-ar-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 202264,
+      "sha256": "1815f11d0e766874cd36b20a7f2e2906ef4ebe3c27cc2c0ca0d45c49dcc61ba3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-ar-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-ar-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-ar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-ar.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-ar-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 154,
+          "column": 38,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-ar-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 304931,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-ar-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1815f11d0e766874cd36b20a7f2e2906ef4ebe3c27cc2c0ca0d45c49dcc61ba3/black-friday-starlink-hero-ar-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1815f11d0e766874cd36b20a7f2e2906ef4ebe3c27cc2c0ca0d45c49dcc61ba3/black-friday-starlink-hero-ar-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "1815f11d0e766874cd36b20a7f2e2906ef4ebe3c27cc2c0ca0d45c49dcc61ba3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-de-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 211116,
+      "sha256": "31c2a29c92fe2a1da585bcc1ec13a2343b7bd59aeb041022b623ab77e73690e6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-de-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-angebot.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-angebot.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-de-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 148,
+          "column": 43,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-de-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 281856,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-de-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/31c2a29c92fe2a1da585bcc1ec13a2343b7bd59aeb041022b623ab77e73690e6/black-friday-starlink-hero-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/31c2a29c92fe2a1da585bcc1ec13a2343b7bd59aeb041022b623ab77e73690e6/black-friday-starlink-hero-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "31c2a29c92fe2a1da585bcc1ec13a2343b7bd59aeb041022b623ab77e73690e6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-en-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 211306,
+      "sha256": "d6c957b61999f25a37bca6c58d9d0721dd0f7c5880ef64eccb0426ddb093de4b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-en-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-deal.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-deal.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-en-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 145,
+          "column": 40,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-en-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 279364,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-en-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d6c957b61999f25a37bca6c58d9d0721dd0f7c5880ef64eccb0426ddb093de4b/black-friday-starlink-hero-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d6c957b61999f25a37bca6c58d9d0721dd0f7c5880ef64eccb0426ddb093de4b/black-friday-starlink-hero-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "d6c957b61999f25a37bca6c58d9d0721dd0f7c5880ef64eccb0426ddb093de4b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-es-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 210330,
+      "sha256": "4b5804aee871ed30787bb83ab284330d4a11bb9acef2011f773c782b4b55c9ce",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-es-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-oferta.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-oferta.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-es-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 146,
+          "column": 42,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-es-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 280195,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-es-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4b5804aee871ed30787bb83ab284330d4a11bb9acef2011f773c782b4b55c9ce/black-friday-starlink-hero-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4b5804aee871ed30787bb83ab284330d4a11bb9acef2011f773c782b4b55c9ce/black-friday-starlink-hero-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "4b5804aee871ed30787bb83ab284330d4a11bb9acef2011f773c782b4b55c9ce",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-fr-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 214854,
+      "sha256": "f79a90f2b50a598832e565de8c939ddcc6412cd740d19479d715910299893f46",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-fr-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-offre.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-offre.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-fr-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 147,
+          "column": 41,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-fr-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 281018,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-fr-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f79a90f2b50a598832e565de8c939ddcc6412cd740d19479d715910299893f46/black-friday-starlink-hero-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f79a90f2b50a598832e565de8c939ddcc6412cd740d19479d715910299893f46/black-friday-starlink-hero-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "f79a90f2b50a598832e565de8c939ddcc6412cd740d19479d715910299893f46",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-it-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 211320,
+      "sha256": "9cd4583b90b57a6eb802ff0492599279212ecf8afeb95344f411dff1f42f5746",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-it-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-offerta.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-offerta.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-it-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 149,
+          "column": 43,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-it-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 282721,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-it-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9cd4583b90b57a6eb802ff0492599279212ecf8afeb95344f411dff1f42f5746/black-friday-starlink-hero-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9cd4583b90b57a6eb802ff0492599279212ecf8afeb95344f411dff1f42f5746/black-friday-starlink-hero-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "9cd4583b90b57a6eb802ff0492599279212ecf8afeb95344f411dff1f42f5746",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-ja-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 212776,
+      "sha256": "104322dd93cbe14fb3181d9ce512cd6b7571cde948bee3c8fa87d5b4fdc0e5c5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-ja-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-ja.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-ja-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 150,
+          "column": 38,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-ja-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 283565,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-ja-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/104322dd93cbe14fb3181d9ce512cd6b7571cde948bee3c8fa87d5b4fdc0e5c5/black-friday-starlink-hero-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/104322dd93cbe14fb3181d9ce512cd6b7571cde948bee3c8fa87d5b4fdc0e5c5/black-friday-starlink-hero-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "104322dd93cbe14fb3181d9ce512cd6b7571cde948bee3c8fa87d5b4fdc0e5c5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-ko-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 208518,
+      "sha256": "239dd74ad203ecc443ce01ce1a9fb4a560f98af1995bc926ca8d785d5ab875c7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-ko-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-ko.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-ko-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 151,
+          "column": 38,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-ko-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 284412,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-ko-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/239dd74ad203ecc443ce01ce1a9fb4a560f98af1995bc926ca8d785d5ab875c7/black-friday-starlink-hero-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/239dd74ad203ecc443ce01ce1a9fb4a560f98af1995bc926ca8d785d5ab875c7/black-friday-starlink-hero-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "239dd74ad203ecc443ce01ce1a9fb4a560f98af1995bc926ca8d785d5ab875c7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-pt-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 211074,
+      "sha256": "af051bdcbdea1fa6bb3728e0b3378fcc09c9ed93bdd6e026226a96e7903341c7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-pt-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-starlink.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-starlink.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 144,
+          "column": 35,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278495,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/af051bdcbdea1fa6bb3728e0b3378fcc09c9ed93bdd6e026226a96e7903341c7/black-friday-starlink-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/af051bdcbdea1fa6bb3728e0b3378fcc09c9ed93bdd6e026226a96e7903341c7/black-friday-starlink-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "af051bdcbdea1fa6bb3728e0b3378fcc09c9ed93bdd6e026226a96e7903341c7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-zh-hans-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 215360,
+      "sha256": "2fae4023d486626cb3fe1efa963d8987c85cd4b945bfc0ab400100289e303ec0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-zh-hans-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-zh-hans.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-zh-hans-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 152,
+          "column": 48,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-zh-hans-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 286083,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-zh-hans-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2fae4023d486626cb3fe1efa963d8987c85cd4b945bfc0ab400100289e303ec0/black-friday-starlink-hero-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2fae4023d486626cb3fe1efa963d8987c85cd4b945bfc0ab400100289e303ec0/black-friday-starlink-hero-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "2fae4023d486626cb3fe1efa963d8987c85cd4b945bfc0ab400100289e303ec0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/black-friday-starlink-hero-zh-hant-v2.webp",
+      "local_url": "/images/reviews/starlink/black-friday-starlink-hero-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 214950,
+      "sha256": "2197bcc2af31fb1e93e10fc13f99ca6c2c2b10b199b4bf83adf6588cc84196de",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-starlink-hero-zh-hant-v2.webp",
+      "storage_filename": "black-friday-starlink-hero-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-zh-hant.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-zh-hant-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-starlink.md",
+          "line": 153,
+          "column": 48,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-zh-hant-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 285244,
+          "column": 15,
+          "literal": "/images/reviews/starlink/black-friday-starlink-hero-zh-hant-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2197bcc2af31fb1e93e10fc13f99ca6c2c2b10b199b4bf83adf6588cc84196de/black-friday-starlink-hero-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2197bcc2af31fb1e93e10fc13f99ca6c2c2b10b199b4bf83adf6588cc84196de/black-friday-starlink-hero-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "2197bcc2af31fb1e93e10fc13f99ca6c2c2b10b199b4bf83adf6588cc84196de",
       "verification_status": "verified"
     },
     {
@@ -188237,6 +189479,600 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-ar-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ar-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33108,
+      "sha256": "67d1a20d9fc81e8fbb48ea274c473b6551ed297441941ca053f4a7e28e5170db",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-ar-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-ar-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-referral-ar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-referral-ar.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ar-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 140,
+          "column": 34,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ar-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 305200,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ar-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/67d1a20d9fc81e8fbb48ea274c473b6551ed297441941ca053f4a7e28e5170db/starlink-indicacao-como-usar-hero-ar-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/67d1a20d9fc81e8fbb48ea274c473b6551ed297441941ca053f4a7e28e5170db/starlink-indicacao-como-usar-hero-ar-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "67d1a20d9fc81e8fbb48ea274c473b6551ed297441941ca053f4a7e28e5170db",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-de-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32454,
+      "sha256": "770b7f5724c3672a84d7dc35b8b5c14ea60a56895c58059f24e2ea6cf7d7147c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-de-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-empfehlungslink.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-empfehlungslink.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-de-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 134,
+          "column": 38,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-de-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 281729,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-de-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/770b7f5724c3672a84d7dc35b8b5c14ea60a56895c58059f24e2ea6cf7d7147c/starlink-indicacao-como-usar-hero-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/770b7f5724c3672a84d7dc35b8b5c14ea60a56895c58059f24e2ea6cf7d7147c/starlink-indicacao-como-usar-hero-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "770b7f5724c3672a84d7dc35b8b5c14ea60a56895c58059f24e2ea6cf7d7147c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-en-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33856,
+      "sha256": "871d156857818d4b396b26dc294c5053a8f68a2d6283c082e4516f2117b3449a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-en-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-referral-link-how-it-works.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-referral-link-how-it-works.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-en-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 131,
+          "column": 49,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-en-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 279237,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-en-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/871d156857818d4b396b26dc294c5053a8f68a2d6283c082e4516f2117b3449a/starlink-indicacao-como-usar-hero-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/871d156857818d4b396b26dc294c5053a8f68a2d6283c082e4516f2117b3449a/starlink-indicacao-como-usar-hero-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "871d156857818d4b396b26dc294c5053a8f68a2d6283c082e4516f2117b3449a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-es-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36108,
+      "sha256": "25b042fd0b92265df9feca00c9be3f8d320fe118726d7b3cc5cec277b9447d00",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-es-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-enlace-referido-como-funciona.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-enlace-referido-como-funciona.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-es-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 132,
+          "column": 52,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-es-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 280068,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-es-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/25b042fd0b92265df9feca00c9be3f8d320fe118726d7b3cc5cec277b9447d00/starlink-indicacao-como-usar-hero-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/25b042fd0b92265df9feca00c9be3f8d320fe118726d7b3cc5cec277b9447d00/starlink-indicacao-como-usar-hero-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "25b042fd0b92265df9feca00c9be3f8d320fe118726d7b3cc5cec277b9447d00",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-fr-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35766,
+      "sha256": "06f26217984e101a6c579a129ed8fd54608a0e9e1645ec81d8ab067701f22aed",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-fr-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-lien-parrainage.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-lien-parrainage.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-fr-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 133,
+          "column": 38,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-fr-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 280892,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-fr-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/06f26217984e101a6c579a129ed8fd54608a0e9e1645ec81d8ab067701f22aed/starlink-indicacao-como-usar-hero-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/06f26217984e101a6c579a129ed8fd54608a0e9e1645ec81d8ab067701f22aed/starlink-indicacao-como-usar-hero-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "06f26217984e101a6c579a129ed8fd54608a0e9e1645ec81d8ab067701f22aed",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-it-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33670,
+      "sha256": "66930d8aac2e730591d419948215a0c6235deec1cfe3c5f924cbc6cc0e403012",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-it-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-link-invito.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-link-invito.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-it-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 135,
+          "column": 34,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-it-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 282597,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-it-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/66930d8aac2e730591d419948215a0c6235deec1cfe3c5f924cbc6cc0e403012/starlink-indicacao-como-usar-hero-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/66930d8aac2e730591d419948215a0c6235deec1cfe3c5f924cbc6cc0e403012/starlink-indicacao-como-usar-hero-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "66930d8aac2e730591d419948215a0c6235deec1cfe3c5f924cbc6cc0e403012",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-ja-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33690,
+      "sha256": "6d567a13113b899f3412c4c5f18f40af7597a3febcf2600fefeb870c2861917b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-ja-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-referral-ja.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-referral-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ja-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 136,
+          "column": 34,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ja-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 283438,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ja-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6d567a13113b899f3412c4c5f18f40af7597a3febcf2600fefeb870c2861917b/starlink-indicacao-como-usar-hero-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6d567a13113b899f3412c4c5f18f40af7597a3febcf2600fefeb870c2861917b/starlink-indicacao-como-usar-hero-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "6d567a13113b899f3412c4c5f18f40af7597a3febcf2600fefeb870c2861917b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-ko-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30898,
+      "sha256": "21de57bce2d7c47d571e07ed5916f38653845f878dcc1b1c304031b1ba732293",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-ko-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-referral-ko.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-referral-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ko-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 137,
+          "column": 34,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ko-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 284285,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-ko-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/21de57bce2d7c47d571e07ed5916f38653845f878dcc1b1c304031b1ba732293/starlink-indicacao-como-usar-hero-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/21de57bce2d7c47d571e07ed5916f38653845f878dcc1b1c304031b1ba732293/starlink-indicacao-como-usar-hero-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "21de57bce2d7c47d571e07ed5916f38653845f878dcc1b1c304031b1ba732293",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-pt-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36956,
+      "sha256": "8a1455d012823688e821edbd5ec23d90df0eba9502728a0bda03af7205959d22",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-pt-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-indicacao-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-indicacao-como-usar.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 130,
+          "column": 42,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278367,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8a1455d012823688e821edbd5ec23d90df0eba9502728a0bda03af7205959d22/starlink-indicacao-como-usar-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8a1455d012823688e821edbd5ec23d90df0eba9502728a0bda03af7205959d22/starlink-indicacao-como-usar-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "8a1455d012823688e821edbd5ec23d90df0eba9502728a0bda03af7205959d22",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hans-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35654,
+      "sha256": "0793cb50caf7705e1a73c244b4a4cd94ac07532d3d980c5361b7238256839496",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-zh-hans-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-referral-zh-hans.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-referral-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hans-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 138,
+          "column": 44,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hans-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 285956,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hans-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0793cb50caf7705e1a73c244b4a4cd94ac07532d3d980c5361b7238256839496/starlink-indicacao-como-usar-hero-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0793cb50caf7705e1a73c244b4a4cd94ac07532d3d980c5361b7238256839496/starlink-indicacao-como-usar-hero-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "0793cb50caf7705e1a73c244b4a4cd94ac07532d3d980c5361b7238256839496",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hant-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36230,
+      "sha256": "0097b8291d747c7b73e03500b0976e65057566e3697b9e2f8ff6dfd307c53ad6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-indicacao-como-usar-hero-zh-hant-v2.webp",
+      "storage_filename": "starlink-indicacao-como-usar-hero-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-referral-zh-hant.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-referral-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hant-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-indicacao-como-usar.md",
+          "line": 139,
+          "column": 44,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hant-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 285115,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hant-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0097b8291d747c7b73e03500b0976e65057566e3697b9e2f8ff6dfd307c53ad6/starlink-indicacao-como-usar-hero-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0097b8291d747c7b73e03500b0976e65057566e3697b9e2f8ff6dfd307c53ad6/starlink-indicacao-como-usar-hero-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "0097b8291d747c7b73e03500b0976e65057566e3697b9e2f8ff6dfd307c53ad6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/starlink/starlink-kit-standard-oficial.webp",
       "local_url": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
       "media_kind": "image",
@@ -188448,6 +190284,600 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T01:48:32.369Z",
       "verification_etag_or_digest": "1235c1a31e5b39fca4081060a19e3723b06bcd627215c0a5b75ea4c0f9d12c1a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-ar-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-ar-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62104,
+      "sha256": "86f3807b3990f39ccbb41c4b661fc6251942572e3f50e9eb7ac2cf4d114f3fb2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-ar-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-ar-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-worth-it-ar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-worth-it-ar.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-ar-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 113,
+          "column": 34,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-ar-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 305597,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-ar-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/86f3807b3990f39ccbb41c4b661fc6251942572e3f50e9eb7ac2cf4d114f3fb2/starlink-vale-a-pena-hero-ar-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/86f3807b3990f39ccbb41c4b661fc6251942572e3f50e9eb7ac2cf4d114f3fb2/starlink-vale-a-pena-hero-ar-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "86f3807b3990f39ccbb41c4b661fc6251942572e3f50e9eb7ac2cf4d114f3fb2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-de-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-de-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60050,
+      "sha256": "0fd3380f4e0710cbc1007b27564003ca1f7e9c40ae037a6a6573c98a9e84746a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-de-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-de-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lohnt-sich-starlink.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lohnt-sich-starlink.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-de-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 107,
+          "column": 33,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-de-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 282016,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-de-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0fd3380f4e0710cbc1007b27564003ca1f7e9c40ae037a6a6573c98a9e84746a/starlink-vale-a-pena-hero-de-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0fd3380f4e0710cbc1007b27564003ca1f7e9c40ae037a6a6573c98a9e84746a/starlink-vale-a-pena-hero-de-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "0fd3380f4e0710cbc1007b27564003ca1f7e9c40ae037a6a6573c98a9e84746a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-en-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-en-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60164,
+      "sha256": "a4ac2f57cb279f3ed5cb382aa6a18406f0ea0eefce338f2036438f576dc36c94",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-en-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-en-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-starlink-worth-it.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-starlink-worth-it.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-en-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 104,
+          "column": 34,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-en-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 279522,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-en-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a4ac2f57cb279f3ed5cb382aa6a18406f0ea0eefce338f2036438f576dc36c94/starlink-vale-a-pena-hero-en-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a4ac2f57cb279f3ed5cb382aa6a18406f0ea0eefce338f2036438f576dc36c94/starlink-vale-a-pena-hero-en-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "a4ac2f57cb279f3ed5cb382aa6a18406f0ea0eefce338f2036438f576dc36c94",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-es-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-es-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60704,
+      "sha256": "3ea71a2e259f30c335266d2f2ac9e4720cc1e2b0e428b693d972649c110f6cb5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-es-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-es-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-vale-la-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-vale-la-pena.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-es-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 105,
+          "column": 35,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-es-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 280344,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-es-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3ea71a2e259f30c335266d2f2ac9e4720cc1e2b0e428b693d972649c110f6cb5/starlink-vale-a-pena-hero-es-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ea71a2e259f30c335266d2f2ac9e4720cc1e2b0e428b693d972649c110f6cb5/starlink-vale-a-pena-hero-es-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "3ea71a2e259f30c335266d2f2ac9e4720cc1e2b0e428b693d972649c110f6cb5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-fr-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-fr-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60190,
+      "sha256": "70125df8730d056013b7b5056367fedf75aebc83186a26d50e54c0cdb4a4648c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-fr-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-fr-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-vaut-il-le-coup.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-vaut-il-le-coup.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-fr-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 106,
+          "column": 38,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-fr-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 281167,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-fr-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/70125df8730d056013b7b5056367fedf75aebc83186a26d50e54c0cdb4a4648c/starlink-vale-a-pena-hero-fr-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/70125df8730d056013b7b5056367fedf75aebc83186a26d50e54c0cdb4a4648c/starlink-vale-a-pena-hero-fr-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "70125df8730d056013b7b5056367fedf75aebc83186a26d50e54c0cdb4a4648c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-it-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-it-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60224,
+      "sha256": "4637463b02f3cb372a538f2d8c5c168c9483f972229a22cf0ce77e5702df7a74",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-it-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-it-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-conviene.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-conviene.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-it-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 108,
+          "column": 31,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-it-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 282883,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-it-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4637463b02f3cb372a538f2d8c5c168c9483f972229a22cf0ce77e5702df7a74/starlink-vale-a-pena-hero-it-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4637463b02f3cb372a538f2d8c5c168c9483f972229a22cf0ce77e5702df7a74/starlink-vale-a-pena-hero-it-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "4637463b02f3cb372a538f2d8c5c168c9483f972229a22cf0ce77e5702df7a74",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-ja-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-ja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63902,
+      "sha256": "74029e5c7630e37fb9f326611fc003d55ea5d76ff02eb5a33c594680312d570f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-ja-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-ja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-worth-it-ja.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-worth-it-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-ja-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 109,
+          "column": 34,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-ja-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 283722,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-ja-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/74029e5c7630e37fb9f326611fc003d55ea5d76ff02eb5a33c594680312d570f/starlink-vale-a-pena-hero-ja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/74029e5c7630e37fb9f326611fc003d55ea5d76ff02eb5a33c594680312d570f/starlink-vale-a-pena-hero-ja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "74029e5c7630e37fb9f326611fc003d55ea5d76ff02eb5a33c594680312d570f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-ko-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-ko-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61428,
+      "sha256": "d4628282a31b2d6b664dd782e31516a6f5050dda062f5375564e97bea933fe38",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-ko-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-ko-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-worth-it-ko.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-worth-it-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-ko-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 110,
+          "column": 34,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-ko-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 284561,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-ko-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d4628282a31b2d6b664dd782e31516a6f5050dda062f5375564e97bea933fe38/starlink-vale-a-pena-hero-ko-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d4628282a31b2d6b664dd782e31516a6f5050dda062f5375564e97bea933fe38/starlink-vale-a-pena-hero-ko-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "d4628282a31b2d6b664dd782e31516a6f5050dda062f5375564e97bea933fe38",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-pt-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60360,
+      "sha256": "3ea0a96dd67368df732f38159f5858b56eab0065d633b2e5fb9b082c562f3425",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-pt-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-vale-a-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-vale-a-pena.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 103,
+          "column": 34,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278659,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-pt-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3ea0a96dd67368df732f38159f5858b56eab0065d633b2e5fb9b082c562f3425/starlink-vale-a-pena-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ea0a96dd67368df732f38159f5858b56eab0065d633b2e5fb9b082c562f3425/starlink-vale-a-pena-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "3ea0a96dd67368df732f38159f5858b56eab0065d633b2e5fb9b082c562f3425",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hans-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hans-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60734,
+      "sha256": "3b5edf87b2b4e28fac281746bc43c10f99f337b8ba26014a073d4cb8d458cdf9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-zh-hans-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-zh-hans-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-worth-it-zh-hans.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-worth-it-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hans-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 111,
+          "column": 44,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hans-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 286210,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hans-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3b5edf87b2b4e28fac281746bc43c10f99f337b8ba26014a073d4cb8d458cdf9/starlink-vale-a-pena-hero-zh-hans-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3b5edf87b2b4e28fac281746bc43c10f99f337b8ba26014a073d4cb8d458cdf9/starlink-vale-a-pena-hero-zh-hans-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "3b5edf87b2b4e28fac281746bc43c10f99f337b8ba26014a073d4cb8d458cdf9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hant-v2.webp",
+      "local_url": "/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hant-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60818,
+      "sha256": "2e6bcfffa52090d02b6189c454771c377936bb7597985d3eeef75dfbdf974d11",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-vale-a-pena-hero-zh-hant-v2.webp",
+      "storage_filename": "starlink-vale-a-pena-hero-zh-hant-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-worth-it-zh-hant.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-worth-it-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hant-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/starlink-vale-a-pena.md",
+          "line": 112,
+          "column": 44,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hant-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 285391,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-vale-a-pena-hero-zh-hant-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2e6bcfffa52090d02b6189c454771c377936bb7597985d3eeef75dfbdf974d11/starlink-vale-a-pena-hero-zh-hant-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2e6bcfffa52090d02b6189c454771c377936bb7597985d3eeef75dfbdf974d11/starlink-vale-a-pena-hero-zh-hant-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T22:31:30.002Z",
+      "verification_etag_or_digest": "2e6bcfffa52090d02b6189c454771c377936bb7597985d3eeef75dfbdf974d11",
       "verification_status": "verified"
     },
     {
