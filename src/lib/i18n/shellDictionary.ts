@@ -222,6 +222,26 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     followAria: '在 {social} 上关注 @emcasacomcecilia',
     listenAudio: '收听文章',
   },
+  ar: {
+    locale: 'ar',
+    tagline: 'وصفات منزلية ومراجعات صادقة',
+    openMenuLabel: 'فتح القائمة',
+    closeMenuLabel: 'إغلاق القائمة',
+    openSearchLabel: 'فتح البحث',
+    closeSearchLabel: 'إغلاق البحث',
+    languageLabel: 'اللغة',
+    homeLabel: 'الرئيسية',
+    reviewHubLabel: 'الأدلة والمراجعات',
+    damieLabel: 'DAMIE',
+    footerRights: 'جميع الحقوق محفوظة.',
+    contactLabel: 'اتصل بنا',
+    footerExploreLabel: 'استكشف',
+    footerHelpLabel: 'المساعدة',
+    privacyLabel: 'الخصوصية',
+    twitterDescription: 'وصفات منزلية مجرَّبة وكوبونات خصم موثَّقة ومراجعات مستحضرات التجميل الكورية بقلم Cecília Mauad.',
+    followAria: 'تابع @emcasacomcecilia على {social}',
+    listenAudio: 'الاستماع إلى المقال',
+  },
 };
 
 export function getShellCopy(localeStr: string): ShellCopy {

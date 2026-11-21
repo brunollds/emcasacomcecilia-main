@@ -70,4 +70,10 @@ export const LANGUAGE_SUGGESTION_COPY: Record<Locale, LanguageSuggestionCopy> = 
     action: '用简体中文阅读',
     dismiss: '关闭',
   },
+  ar: {
+    regionLabel: 'اقتراح اللغة',
+    message: 'هذه الصفحة متاحة أيضًا باللغة العربية.',
+    action: 'القراءة بالعربية',
+    dismiss: 'إغلاق',
+  },
 };

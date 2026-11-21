@@ -135,6 +135,17 @@ const SEARCH_COPY: Record<Locale, SearchCopy> = {
     seeAllLabel: null,
     hubLinkLabel: '查看所有简体中文文章',
   },
+  ar: {
+    placeholder: 'ابحث في المقالات والمتاجر',
+    inputLabel: 'البحث في الموقع',
+    clearLabel: 'مسح البحث',
+    resultCount: (count) => `عدد النتائج: ${count}`,
+    typeLabels: { recipe: 'وصفة', review: 'مقال', store: 'متجر' },
+    noResultsTitle: 'لا توجد نتائج',
+    noResultsHint: (query) => `لا شيء يطابق «${query}». جرّب كلمة أخرى.`,
+    seeAllLabel: null,
+    hubLinkLabel: 'عرض كل المقالات بالعربية',
+  },
 };
 
 export function getSearchCopy(locale: Locale): SearchCopy {
