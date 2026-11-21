@@ -14,6 +14,7 @@ const FAQ_HEADINGS = [
   'よくある',
   '常見問題',
   '常见问题',
+  'الأسئلة الشائعة',
 ];
 
 export interface FaqItem {

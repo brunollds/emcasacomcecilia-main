@@ -4,7 +4,7 @@ import { cardImageFit, cardImageLook } from '@/lib/cardImage';
 import type { Review } from '@/lib/content/types';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { type ReviewHubLocale, getReviewHubCopy } from '@/lib/review-hubs';
-import { LOCALES } from '@/lib/i18n/locales';
+import { getIntlLocale } from '@/lib/i18n/locales';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 type LocalizedReviewHubProps = {
@@ -15,7 +15,7 @@ type LocalizedReviewHubProps = {
 function formatPublishedAt(review: Review, locale: ReviewHubLocale): string {
   if (!review.publishedAtISO) return review.publishedAt;
 
-  return new Intl.DateTimeFormat(LOCALES[locale].htmlLang, {
+  return new Intl.DateTimeFormat(getIntlLocale(locale), {
     dateStyle: 'medium',
     timeZone: 'UTC',
   }).format(new Date(review.publishedAtISO));

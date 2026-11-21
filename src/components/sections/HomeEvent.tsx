@@ -50,9 +50,9 @@ const DESKTOP_COLUMNS = ['', 'lg:grid-cols-2', 'lg:grid-cols-2', 'lg:grid-cols-3
 
 const GUIDES_LIST_ID = 'guias-data-comercial';
 
-// Ideogramas e hangul ficam fora da fonte condensada e saem mais largos: o título menor não quebra no meio da palavra
+// Ideogramas, hangul e árabe ficam fora da fonte condensada e saem mais largos: o título menor não quebra no meio da palavra
 // no celular ("ブラックフライ / デー").
-const WIDE_SCRIPT = /[\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]/;
+const WIDE_SCRIPT = /[\u0600-\u06ff\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]/;
 
 export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
   const theme = EVENT_THEME_CLASSES[event.theme];
