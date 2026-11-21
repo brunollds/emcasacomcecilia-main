@@ -251,3 +251,10 @@ Kits (ordem que a página traz, na sequência de uso):
 2. **Contradições da loja:** o balm (depois do hidratante ou do sérum), o PDRN (só de manhã ou manhã e noite) e o Super Balm (diário ou pontual) estão contraditórios dentro das próprias páginas. O artigo mostra a contradição como "a loja diz X em um lugar e Y em outro", ou você prefere que a tabela escolha uma das duas e marque a outra como lacuna?
 3. **Protetor solar:** o artigo diz que a loja manda usar e não vende, sem marca. Você aprova esse texto?
 4. **Green Water:** a Gaba cita o produto, que não está no catálogo. Aceita o texto "não encontramos o produto no catálogo", ou libera a leitura no navegador antes da redação?
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa-v2.webp` (`imageFit: contain`), SHA-256 `4d7730dd21c11c70aa066de25e9e0fdfef0b41e7ba39d88dec581be3fbdd2faa`.
+- **Alt:** Kit Rotina Pele Iluminada da Simple Organic ao lado de uma foto da marca com uma modelo usando um conta-gotas. A capa traz a pergunta «Skincare em que ordem?» e o cupom S-EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 65 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/65/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/65/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa.webp`) fica no CDN, sem uso como capa.

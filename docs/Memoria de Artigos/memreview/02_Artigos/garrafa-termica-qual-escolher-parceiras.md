@@ -158,3 +158,10 @@ Fora da tabela: Gocase Urban 500 ml, Mini 350 ml, Fun 460 ml e Magsafe 750 ml (n
 4. **Stanley:** pode ser citada só como referência de estilo, em uma frase, sem preço e sem link?
 5. **Fresh 1.200 ml e garantia de 1 ano:** o dossiê de 19/11 está certo, ou vale a página de 21/11?
 6. **Preço de tabela da Bagaggio:** aceita R$ 94,90 (API) ou pede a leitura da ficha de cada cor antes da redação?
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa-v2.webp` (`imageFit: contain`), SHA-256 `3bfe2d8350ba7c91f38e7308dd97197e7bdae374e7ff367d3db582a77b03da98`.
+- **Alt:** Garrafa térmica Fresh rosa da Gocase e Dual azul da Bagaggio lado a lado, cada uma com o logo da loja. A capa pergunta «Garrafa térmica: qual escolher?».
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 64 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/64/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/64/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa.webp`) fica no CDN, sem uso como capa.

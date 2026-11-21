@@ -143,3 +143,10 @@ Corpo (mínimo 1): foto oficial do Pro Stick e do Clear Stick, com crédito da l
 
 1. Se a página de cada tom não disser o que a cor indica, o texto fica só com o nome e a distância? (Recomendado: sim.)
 2. O PK7 é um artigo novo ou um bloco no PK5 (`pinkcheeks-e-boa`)? A lista de tons já está no PK5.
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp` (`imageFit: contain`), SHA-256 `b2c3947de4c206e93f749c8a100770da7e21a5318775af0ff292ab183b3358be`.
+- **Alt:** Oito tonalidades do Pink Stick da Pink Cheeks aplicadas em dois antebraços sobre fundo azul. A capa pergunta «Qual cor escolher?» e mostra o cupom PNK-EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 64 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/64/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/64/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp`) fica no CDN, sem uso como capa.

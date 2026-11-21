@@ -216,3 +216,10 @@ Pergunta central: a busca chama os dois de "retinol". Um tem retinol 0,3% e o ou
 1. **Ciência geral de bakuchiol e retinol:** o artigo pode ter uma frase de "regra prática, sem teste nosso", sem fonte lida, ou espera a fonte pela redação? Sem fonte, o capítulo "Bakuchiol ou retinol: qual o melhor?" fica só com o que a loja diz.
 2. **e-boa:** a seção "Retinol, Retinol-Like e PDRN" passa a linkar a SO3 e encurtar o trecho? Muda o guia de marca, não este artigo.
 3. **Preço com o código em item promocional:** a política diz que o cupom não soma com promoção, mas os testes de 03/11 e 10/11 deram 5% em item em promoção. O artigo mostra o preço com o código como conta nossa, com a ressalva. Você aprova?
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa-v2.webp` (`imageFit: contain`), SHA-256 `a95e3327fe0285a563c60025ffc7fb14609303014ce112d3dd8a42accfbba324`.
+- **Alt:** Ultra Sérum Retinol e Solução Retinol-Like da Simple Organic lado a lado sobre uma bancada ilustrada em tons de areia. A capa pergunta «Retinol ou Retinol-Like?» e mostra o cupom S-EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 65 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/65/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/65/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa.webp`) fica no CDN, sem uso como capa.

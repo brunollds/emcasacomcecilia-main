@@ -153,3 +153,10 @@ Fatos de 21/11/2026 em [[bagaggio-garantia-vitalicia]] (não reabrir). As leitur
 3. **Telefone do RA:** continua fora, como decidido em 22/10?
 4. **Capa:** a foto oficial do cadeado TSA com segredo entra com OK do Bruno, pelo guia de mídia?
 5. **Garantia e senha:** quer que o artigo diga "pergunte ao atendimento se a garantia cobre", ou não toca no tema?
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp` (`imageFit: contain`), SHA-256 `e61a6eb797135e8f67481a98abe7a4353efca80d1e3019382627a15270e721c2`.
+- **Alt:** Cadeado TSA roxo de combinação e cadeado TSA preto de chave, da Bagaggio. A capa traz «Senha da mala Bagaggio» e o cupom CECILIA10.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 64 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/64/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/64/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp`) fica no CDN, sem uso como capa.

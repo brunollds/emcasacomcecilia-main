@@ -150,3 +150,10 @@ tabela resumida.
 | Semelhança de cheiro, fixação, duração | - | sem teste | não escrever |
 | Preço ou economia em relação ao perfume citado | - | não lido | não escrever |
 | "Contratipo", "cópia", "dupe" como afirmação nossa | - | - | não escrever |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/barbours/barbours-body-splash-inspiracoes-capa-v2.webp` (`imageFit: contain`), SHA-256 `5b3bcda252f1111f7c9cff71184e636c3a5fa13f088e0a8455663c3ef79061d3`.
+- **Alt:** Frascos My Sweet Delight, Soft Breeze e Endless Soul da Barbour’s Beauty sobre um cenário ilustrado rosa. A capa pergunta quais são as inspirações dos body splashes e mostra o cupom CECILIALINHARES.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 64 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/64/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/64/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/barbours/barbours-body-splash-inspiracoes-capa.webp`) fica no CDN, sem uso como capa.

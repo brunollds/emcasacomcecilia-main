@@ -40941,6 +40941,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
+      "local_url": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 107614,
+      "sha256": "7a850f281f357ac8a859d2c9376c3d8976e2570bab25f7f11459584a91d3f905",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
+      "storage_filename": "tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tasty-iso-adaptogen-vale-a-pena.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tasty-iso-adaptogen-vale-a-pena.md",
+          "line": 168,
+          "column": 14,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7a850f281f357ac8a859d2c9376c3d8976e2570bab25f7f11459584a91d3f905/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7a850f281f357ac8a859d2c9376c3d8976e2570bab25f7f11459584a91d3f905/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.587Z",
+      "verification_etag_or_digest": "7a850f281f357ac8a859d2c9376c3d8976e2570bab25f7f11459584a91d3f905",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa.webp",
       "local_url": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa.webp",
       "media_kind": "image",
@@ -42346,6 +42392,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T16:32:36.566Z",
       "verification_etag_or_digest": "14e319cd15a9e28fa5c7a691c5e941b1feb29ddd4974523fc00a7fa5349b6b8e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+      "local_url": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55360,
+      "sha256": "e61a6eb797135e8f67481a98abe7a4353efca80d1e3019382627a15270e721c2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-colocar-senha-mala-bagaggio-capa-v2.webp",
+      "storage_filename": "como-colocar-senha-mala-bagaggio-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-colocar-senha-mala-bagaggio.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/como-colocar-senha-mala-bagaggio.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/como-colocar-senha-mala-bagaggio.md",
+          "line": 159,
+          "column": 14,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e61a6eb797135e8f67481a98abe7a4353efca80d1e3019382627a15270e721c2/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e61a6eb797135e8f67481a98abe7a4353efca80d1e3019382627a15270e721c2/como-colocar-senha-mala-bagaggio-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "e61a6eb797135e8f67481a98abe7a4353efca80d1e3019382627a15270e721c2",
       "verification_status": "verified"
     },
     {
@@ -44958,6 +45050,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T16:44:55.665Z",
       "verification_etag_or_digest": "d0b645bb1755cea7fb9d2c4ac5871e0e47b811edb1b2a570e4d4303d82dc91d3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-capa-v2.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63556,
+      "sha256": "5b3bcda252f1111f7c9cff71184e636c3a5fa13f088e0a8455663c3ef79061d3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-inspiracoes-capa-v2.webp",
+      "storage_filename": "barbours-body-splash-inspiracoes-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-inspiracoes.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/barbours-body-splash-inspiracoes.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-inspiracoes.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/barbours-body-splash-inspiracoes.md",
+          "line": 156,
+          "column": 14,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5b3bcda252f1111f7c9cff71184e636c3a5fa13f088e0a8455663c3ef79061d3/barbours-body-splash-inspiracoes-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5b3bcda252f1111f7c9cff71184e636c3a5fa13f088e0a8455663c3ef79061d3/barbours-body-splash-inspiracoes-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "5b3bcda252f1111f7c9cff71184e636c3a5fa13f088e0a8455663c3ef79061d3",
       "verification_status": "verified"
     },
     {
@@ -52277,6 +52415,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bold/barra-bold-21g-ou-14g-capa-v2.webp",
+      "local_url": "/images/reviews/bold/barra-bold-21g-ou-14g-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 160944,
+      "sha256": "8e15d5580fd4ac72be33393cc498bcab04716e58a9d30a1df868538bd6bd6729",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-bold-21g-ou-14g-capa-v2.webp",
+      "storage_filename": "barra-bold-21g-ou-14g-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-bold-21g-ou-14g.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/barra-bold-21g-ou-14g.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-bold-21g-ou-14g.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/bold/barra-bold-21g-ou-14g-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/barra-bold-21g-ou-14g.md",
+          "line": 117,
+          "column": 14,
+          "literal": "/images/reviews/bold/barra-bold-21g-ou-14g-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8e15d5580fd4ac72be33393cc498bcab04716e58a9d30a1df868538bd6bd6729/barra-bold-21g-ou-14g-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8e15d5580fd4ac72be33393cc498bcab04716e58a9d30a1df868538bd6bd6729/barra-bold-21g-ou-14g-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "8e15d5580fd4ac72be33393cc498bcab04716e58a9d30a1df868538bd6bd6729",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bold/barra-bold-21g-ou-14g-capa.webp",
       "local_url": "/images/reviews/bold/barra-bold-21g-ou-14g-capa.webp",
       "media_kind": "image",
@@ -52480,6 +52664,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T19:10:14.770Z",
       "verification_etag_or_digest": "bf1209833b84a5784f4a55aa06bdaac47c87e8f5fd533f9e77431a74d2809d74",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/whey-bold-e-bom-capa-v2.webp",
+      "local_url": "/images/reviews/bold/whey-bold-e-bom-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 158368,
+      "sha256": "0184823bee7e2fef0f53b1cdd716a1dcbb85cfdd9ef44950c12dfed21f7941e7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-bold-e-bom-capa-v2.webp",
+      "storage_filename": "whey-bold-e-bom-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-bold-e-bom.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/whey-bold-e-bom.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-bold-e-bom.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/bold/whey-bold-e-bom-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/whey-bold-e-bom.md",
+          "line": 131,
+          "column": 14,
+          "literal": "/images/reviews/bold/whey-bold-e-bom-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0184823bee7e2fef0f53b1cdd716a1dcbb85cfdd9ef44950c12dfed21f7941e7/whey-bold-e-bom-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0184823bee7e2fef0f53b1cdd716a1dcbb85cfdd9ef44950c12dfed21f7941e7/whey-bold-e-bom-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "0184823bee7e2fef0f53b1cdd716a1dcbb85cfdd9ef44950c12dfed21f7941e7",
       "verification_status": "verified"
     },
     {
@@ -55455,6 +55685,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/colaedecora/black-friday-colaedecora-capa-v2.webp",
+      "local_url": "/images/reviews/colaedecora/black-friday-colaedecora-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 181678,
+      "sha256": "768171e005c5f1f5c999f31f8f24f14dd8e91d1673bf6bdedd5a910f480e52df",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-colaedecora-capa-v2.webp",
+      "storage_filename": "black-friday-colaedecora-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-colaedecora.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-colaedecora.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-colaedecora.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/black-friday-colaedecora-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-colaedecora.md",
+          "line": 114,
+          "column": 14,
+          "literal": "/images/reviews/colaedecora/black-friday-colaedecora-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/768171e005c5f1f5c999f31f8f24f14dd8e91d1673bf6bdedd5a910f480e52df/black-friday-colaedecora-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/768171e005c5f1f5c999f31f8f24f14dd8e91d1673bf6bdedd5a910f480e52df/black-friday-colaedecora-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "768171e005c5f1f5c999f31f8f24f14dd8e91d1673bf6bdedd5a910f480e52df",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/colaedecora/black-friday-colaedecora-capa.webp",
       "local_url": "/images/reviews/colaedecora/black-friday-colaedecora-capa.webp",
       "media_kind": "image",
@@ -55590,6 +55866,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T21:33:04.223Z",
       "verification_etag_or_digest": "af6bff6d16a95eecd5bf75ce64371e3ab9a26fac50e662d2b2c2154fbe6d2057",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa-v2.webp",
+      "local_url": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 196774,
+      "sha256": "013c65098c041258794fd28ba1f91e6afa7e2beed00539ffe3b5cfd15058ebbb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cama-montessoriana-colaedecora-capa-v2.webp",
+      "storage_filename": "cama-montessoriana-colaedecora-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cama-montessoriana-colaedecora.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cama-montessoriana-colaedecora.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cama-montessoriana-colaedecora.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cama-montessoriana-colaedecora.md",
+          "line": 133,
+          "column": 14,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/013c65098c041258794fd28ba1f91e6afa7e2beed00539ffe3b5cfd15058ebbb/cama-montessoriana-colaedecora-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/013c65098c041258794fd28ba1f91e6afa7e2beed00539ffe3b5cfd15058ebbb/cama-montessoriana-colaedecora-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "013c65098c041258794fd28ba1f91e6afa7e2beed00539ffe3b5cfd15058ebbb",
       "verification_status": "verified"
     },
     {
@@ -55731,6 +56053,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-e-confiavel-capa-v2.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-e-confiavel-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99606,
+      "sha256": "7b00a54e326a36f61c0976ee6bf6e51876517bd8f7e5717325d1d25f1fe69e8b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-e-confiavel-capa-v2.webp",
+      "storage_filename": "colaedecora-e-confiavel-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-confiavel.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-e-confiavel.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-e-confiavel.md",
+          "line": 121,
+          "column": 14,
+          "literal": "/images/reviews/colaedecora/colaedecora-e-confiavel-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7b00a54e326a36f61c0976ee6bf6e51876517bd8f7e5717325d1d25f1fe69e8b/colaedecora-e-confiavel-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7b00a54e326a36f61c0976ee6bf6e51876517bd8f7e5717325d1d25f1fe69e8b/colaedecora-e-confiavel-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "7b00a54e326a36f61c0976ee6bf6e51876517bd8f7e5717325d1d25f1fe69e8b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/colaedecora/colaedecora-e-confiavel-capa.webp",
       "local_url": "/images/reviews/colaedecora/colaedecora-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -55869,6 +56237,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95790,
+      "sha256": "51c381aafcf03a4ec6c8e23943c1729c20667bab069ee5ec81d054e9feead081",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "storage_filename": "colaedecora-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/colaedecora-reclame-aqui-nota-reputacao.md",
+          "line": 111,
+          "column": 14,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/51c381aafcf03a4ec6c8e23943c1729c20667bab069ee5ec81d054e9feead081/colaedecora-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/51c381aafcf03a4ec6c8e23943c1729c20667bab069ee5ec81d054e9feead081/colaedecora-reclame-aqui-nota-reputacao-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "51c381aafcf03a4ec6c8e23943c1729c20667bab069ee5ec81d054e9feead081",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa.webp",
       "local_url": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-capa.webp",
       "media_kind": "image",
@@ -55961,6 +56375,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa-v2.webp",
+      "local_url": "/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96372,
+      "sha256": "dfa03fd468710aba77d41b6e58cce48b46a9b9161a314c958703da5ea24b1fbf",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-colaedecora-como-usar-capa-v2.webp",
+      "storage_filename": "cupom-colaedecora-como-usar-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-colaedecora-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-colaedecora-como-usar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-colaedecora-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-colaedecora-como-usar.md",
+          "line": 148,
+          "column": 14,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/dfa03fd468710aba77d41b6e58cce48b46a9b9161a314c958703da5ea24b1fbf/cupom-colaedecora-como-usar-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dfa03fd468710aba77d41b6e58cce48b46a9b9161a314c958703da5ea24b1fbf/cupom-colaedecora-como-usar-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "dfa03fd468710aba77d41b6e58cce48b46a9b9161a314c958703da5ea24b1fbf",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa.webp",
       "local_url": "/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa.webp",
       "media_kind": "image",
@@ -56050,6 +56510,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T21:33:07.243Z",
       "verification_etag_or_digest": "b63426c4f79ba901dfb35d2b46f39f2d888d2fa76bfa7186d7328bf04f61df08",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-capa-v2.webp",
+      "local_url": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 155522,
+      "sha256": "0e9ea9d8b7cce927f417b912e6a2b535ede4e6000f4dc75ae15436924d4306ec",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-colaedecora-primeira-compra-capa-v2.webp",
+      "storage_filename": "cupom-colaedecora-primeira-compra-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-colaedecora-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-colaedecora-primeira-compra.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-colaedecora-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-colaedecora-primeira-compra.md",
+          "line": 94,
+          "column": 14,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-primeira-compra-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0e9ea9d8b7cce927f417b912e6a2b535ede4e6000f4dc75ae15436924d4306ec/cupom-colaedecora-primeira-compra-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e9ea9d8b7cce927f417b912e6a2b535ede4e6000f4dc75ae15436924d4306ec/cupom-colaedecora-primeira-compra-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "0e9ea9d8b7cce927f417b912e6a2b535ede4e6000f4dc75ae15436924d4306ec",
       "verification_status": "verified"
     },
     {
@@ -111370,6 +111876,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 385530,
+      "sha256": "f88fba844ef9208daedb5f801fc86c51e30b8006115f14e3416f2524d24ea093",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+      "storage_filename": "lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/lets-eat-it-loja-fisica-endereco.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/lets-eat-it-loja-fisica-endereco.md",
+          "line": 163,
+          "column": 14,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f88fba844ef9208daedb5f801fc86c51e30b8006115f14e3416f2524d24ea093/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f88fba844ef9208daedb5f801fc86c51e30b8006115f14e3416f2524d24ea093/lets-eat-it-loja-fisica-endereco-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "f88fba844ef9208daedb5f801fc86c51e30b8006115f14e3416f2524d24ea093",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
       "local_url": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
       "media_kind": "image",
@@ -126530,6 +127082,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+      "local_url": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98594,
+      "sha256": "78a2041ccd01cbd327d0a94aa532b01e1b95545ff67ee900def8bbadaea7c3e5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+      "storage_filename": "enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/enxoval-filhote-cachorro-lista-com-preco.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/enxoval-filhote-cachorro-lista-com-preco.md",
+          "line": 123,
+          "column": 14,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/78a2041ccd01cbd327d0a94aa532b01e1b95545ff67ee900def8bbadaea7c3e5/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/78a2041ccd01cbd327d0a94aa532b01e1b95545ff67ee900def8bbadaea7c3e5/enxoval-filhote-cachorro-lista-com-preco-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "78a2041ccd01cbd327d0a94aa532b01e1b95545ff67ee900def8bbadaea7c3e5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
       "local_url": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
       "media_kind": "image",
@@ -126619,6 +127217,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T16:32:41.135Z",
       "verification_etag_or_digest": "931118de4218e023d982b556038a1b1c3eb9207953f68a672ad3b31e03616888",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+      "local_url": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 116434,
+      "sha256": "a4d78a5d3e7ed41cc3af11e820453e803262658abe12525c4ac5690d6e249e31",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+      "storage_filename": "peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/peitoral-cachorro-que-puxa-petz.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/peitoral-cachorro-que-puxa-petz.md",
+          "line": 128,
+          "column": 14,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a4d78a5d3e7ed41cc3af11e820453e803262658abe12525c4ac5690d6e249e31/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a4d78a5d3e7ed41cc3af11e820453e803262658abe12525c4ac5690d6e249e31/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "a4d78a5d3e7ed41cc3af11e820453e803262658abe12525c4ac5690d6e249e31",
       "verification_status": "verified"
     },
     {
@@ -127853,6 +128497,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:13:34.831Z",
       "verification_etag_or_digest": "17632a9e03c8f7a0e4ab65c9d83d969ebb1aa02a63ca0230b37a6245c7c6e087",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 178544,
+      "sha256": "b2c3947de4c206e93f749c8a100770da7e21a5318775af0ff292ab183b3358be",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pink-stick-qual-cor-escolher-capa-v2.webp",
+      "storage_filename": "pink-stick-qual-cor-escolher-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pink-stick-qual-cor-escolher.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/pink-stick-qual-cor-escolher.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pink-stick-qual-cor-escolher.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/pink-stick-qual-cor-escolher.md",
+          "line": 149,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b2c3947de4c206e93f749c8a100770da7e21a5318775af0ff292ab183b3358be/pink-stick-qual-cor-escolher-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b2c3947de4c206e93f749c8a100770da7e21a5318775af0ff292ab183b3358be/pink-stick-qual-cor-escolher-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "b2c3947de4c206e93f749c8a100770da7e21a5318775af0ff292ab183b3358be",
       "verification_status": "verified"
     },
     {
@@ -135318,6 +136008,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T04:56:32.590Z",
       "verification_etag_or_digest": "9943f41ec3dcb966035abc67d0cf7a821840e1d97c7ae6e284f54fb877e5f455",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-brain-para-que-serve-capa-v2.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66100,
+      "sha256": "9254b12abba4f7d52b3409a8b314692b39c50cee7cb7cf20c83df5e9bfff53d1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-brain-para-que-serve-capa-v2.webp",
+      "storage_filename": "rituaria-brain-para-que-serve-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-brain-para-que-serve.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/rituaria-brain-para-que-serve.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-brain-para-que-serve.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/rituaria-brain-para-que-serve.md",
+          "line": 150,
+          "column": 14,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9254b12abba4f7d52b3409a8b314692b39c50cee7cb7cf20c83df5e9bfff53d1/rituaria-brain-para-que-serve-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9254b12abba4f7d52b3409a8b314692b39c50cee7cb7cf20c83df5e9bfff53d1/rituaria-brain-para-que-serve-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "9254b12abba4f7d52b3409a8b314692b39c50cee7cb7cf20c83df5e9bfff53d1",
       "verification_status": "verified"
     },
     {
@@ -155451,6 +156187,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-para-acne-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-para-acne-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73344,
+      "sha256": "21ed4d1d6e65b9a3be4f1ff44e70d597682fdd3b1fcbed2d179a6996d3aacf00",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-para-acne-capa-v2.webp",
+      "storage_filename": "simple-organic-para-acne-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-para-acne.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-para-acne.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-para-acne.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-para-acne.md",
+          "line": 247,
+          "column": 14,
+          "literal": "/images/reviews/simple-organic/simple-organic-para-acne-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/21ed4d1d6e65b9a3be4f1ff44e70d597682fdd3b1fcbed2d179a6996d3aacf00/simple-organic-para-acne-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/21ed4d1d6e65b9a3be4f1ff44e70d597682fdd3b1fcbed2d179a6996d3aacf00/simple-organic-para-acne-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "21ed4d1d6e65b9a3be4f1ff44e70d597682fdd3b1fcbed2d179a6996d3aacf00",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/simple-organic-para-acne-capa.webp",
       "local_url": "/images/reviews/simple-organic/simple-organic-para-acne-capa.webp",
       "media_kind": "image",
@@ -155689,6 +156471,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57460,
+      "sha256": "a95e3327fe0285a563c60025ffc7fb14609303014ce112d3dd8a42accfbba324",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-retinol-like-ou-retinol-capa-v2.webp",
+      "storage_filename": "simple-organic-retinol-like-ou-retinol-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-retinol-like-ou-retinol.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-retinol-like-ou-retinol.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-retinol-like-ou-retinol.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-retinol-like-ou-retinol.md",
+          "line": 222,
+          "column": 14,
+          "literal": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a95e3327fe0285a563c60025ffc7fb14609303014ce112d3dd8a42accfbba324/simple-organic-retinol-like-ou-retinol-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a95e3327fe0285a563c60025ffc7fb14609303014ce112d3dd8a42accfbba324/simple-organic-retinol-like-ou-retinol-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "a95e3327fe0285a563c60025ffc7fb14609303014ce112d3dd8a42accfbba324",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa.webp",
       "local_url": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-capa.webp",
       "media_kind": "image",
@@ -155888,6 +156716,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 112354,
+      "sha256": "4d7730dd21c11c70aa066de25e9e0fdfef0b41e7ba39d88dec581be3fbdd2faa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-rotina-de-uso-capa-v2.webp",
+      "storage_filename": "simple-organic-rotina-de-uso-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-rotina-de-uso.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-rotina-de-uso.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-rotina-de-uso.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-rotina-de-uso.md",
+          "line": 257,
+          "column": 14,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4d7730dd21c11c70aa066de25e9e0fdfef0b41e7ba39d88dec581be3fbdd2faa/simple-organic-rotina-de-uso-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4d7730dd21c11c70aa066de25e9e0fdfef0b41e7ba39d88dec581be3fbdd2faa/simple-organic-rotina-de-uso-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "4d7730dd21c11c70aa066de25e9e0fdfef0b41e7ba39d88dec581be3fbdd2faa",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa.webp",
       "local_url": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa.webp",
       "media_kind": "image",
@@ -156069,6 +156943,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T21:10:51.184Z",
       "verification_etag_or_digest": "ae912332451b7ff27e65f29ed52d647267e3af87e0a98355832f5bde3031d0fc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa-v2.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54804,
+      "sha256": "fb066c690ea128370ed7add6ea0de92c57ff343401e41b1f3dd0f5663116473b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-vitamina-c-ou-niacinamida-capa-v2.webp",
+      "storage_filename": "simple-organic-vitamina-c-ou-niacinamida-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-vitamina-c-ou-niacinamida.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-vitamina-c-ou-niacinamida.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-vitamina-c-ou-niacinamida.md",
+          "line": 238,
+          "column": 14,
+          "literal": "/images/reviews/simple-organic/simple-organic-vitamina-c-ou-niacinamida-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fb066c690ea128370ed7add6ea0de92c57ff343401e41b1f3dd0f5663116473b/simple-organic-vitamina-c-ou-niacinamida-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fb066c690ea128370ed7add6ea0de92c57ff343401e41b1f3dd0f5663116473b/simple-organic-vitamina-c-ou-niacinamida-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "fb066c690ea128370ed7add6ea0de92c57ff343401e41b1f3dd0f5663116473b",
       "verification_status": "verified"
     },
     {
@@ -158913,6 +159833,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T16:45:08.751Z",
       "verification_etag_or_digest": "ef109ff023c9c6af026290fc5ed8f55febe131974b54c998f98171216bc34179",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 138994,
+      "sha256": "c45b48d5a28d2219472461b5a04c17037afcab5d74fdbcbbca86a657644847ef",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "protetor-solar-skelt-instant-bronzer-capa-v2.webp",
+      "storage_filename": "protetor-solar-skelt-instant-bronzer-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/protetor-solar-skelt-instant-bronzer.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/protetor-solar-skelt-instant-bronzer.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/protetor-solar-skelt-instant-bronzer.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/protetor-solar-skelt-instant-bronzer.md",
+          "line": 173,
+          "column": 14,
+          "literal": "/images/reviews/skelt/protetor-solar-skelt-instant-bronzer-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c45b48d5a28d2219472461b5a04c17037afcab5d74fdbcbbca86a657644847ef/protetor-solar-skelt-instant-bronzer-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c45b48d5a28d2219472461b5a04c17037afcab5d74fdbcbbca86a657644847ef/protetor-solar-skelt-instant-bronzer-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "c45b48d5a28d2219472461b5a04c17037afcab5d74fdbcbbca86a657644847ef",
       "verification_status": "verified"
     },
     {
@@ -178732,6 +179698,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/baw/baw-ou-pace-capa-v2.webp",
+      "local_url": "/images/reviews/baw/baw-ou-pace-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68744,
+      "sha256": "360812ecc4605364ad0a98e85b75a9f61d139e4aed97f106b998eba053058301",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-ou-pace-capa-v2.webp",
+      "storage_filename": "baw-ou-pace-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-ou-pace.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/baw-ou-pace.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-ou-pace.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/baw-ou-pace-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/baw-ou-pace.md",
+          "line": 89,
+          "column": 14,
+          "literal": "/images/reviews/baw/baw-ou-pace-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/360812ecc4605364ad0a98e85b75a9f61d139e4aed97f106b998eba053058301/baw-ou-pace-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/360812ecc4605364ad0a98e85b75a9f61d139e4aed97f106b998eba053058301/baw-ou-pace-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "360812ecc4605364ad0a98e85b75a9f61d139e4aed97f106b998eba053058301",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/baw/baw-ou-pace-capa.webp",
       "local_url": "/images/reviews/baw/baw-ou-pace-capa.webp",
       "media_kind": "image",
@@ -179750,6 +180762,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/baw/sandalia-linus-baw-capa-v2.webp",
+      "local_url": "/images/reviews/baw/sandalia-linus-baw-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61618,
+      "sha256": "5f73fc9447d94697e4482e4685154d12a5813d9d23fb8648092fa4f95e52386e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sandalia-linus-baw-capa-v2.webp",
+      "storage_filename": "sandalia-linus-baw-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sandalia-linus-baw.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/sandalia-linus-baw.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sandalia-linus-baw.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/sandalia-linus-baw-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/sandalia-linus-baw.md",
+          "line": 87,
+          "column": 14,
+          "literal": "/images/reviews/baw/sandalia-linus-baw-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5f73fc9447d94697e4482e4685154d12a5813d9d23fb8648092fa4f95e52386e/sandalia-linus-baw-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5f73fc9447d94697e4482e4685154d12a5813d9d23fb8648092fa4f95e52386e/sandalia-linus-baw-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "5f73fc9447d94697e4482e4685154d12a5813d9d23fb8648092fa4f95e52386e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/baw/sandalia-linus-baw-capa.webp",
       "local_url": "/images/reviews/baw/sandalia-linus-baw-capa.webp",
       "media_kind": "image",
@@ -179839,6 +180897,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-21T03:51:20.148Z",
       "verification_etag_or_digest": "88f9adca65b4fb28a1582d732eecbf74e83183fe2227c75284a7d50aa5ef3fdc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/tenis-baw-e-bom-capa-v2.webp",
+      "local_url": "/images/reviews/baw/tenis-baw-e-bom-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84090,
+      "sha256": "bb33edd72cd523e66ebc9ea7ded4119ff160e51c862ca0c384b0dd2730fb274d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tenis-baw-e-bom-capa-v2.webp",
+      "storage_filename": "tenis-baw-e-bom-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tenis-baw-e-bom.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tenis-baw-e-bom.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tenis-baw-e-bom.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tenis-baw-e-bom.md",
+          "line": 100,
+          "column": 14,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bb33edd72cd523e66ebc9ea7ded4119ff160e51c862ca0c384b0dd2730fb274d/tenis-baw-e-bom-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bb33edd72cd523e66ebc9ea7ded4119ff160e51c862ca0c384b0dd2730fb274d/tenis-baw-e-bom-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.588Z",
+      "verification_etag_or_digest": "bb33edd72cd523e66ebc9ea7ded4119ff160e51c862ca0c384b0dd2730fb274d",
       "verification_status": "verified"
     },
     {
@@ -182093,6 +183197,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/skelt-ou-panvel-glow-capa-v2.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-panvel-glow-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 116018,
+      "sha256": "2b6fd89c69bfce3e38c5f165f7c56ffb0af1802e1ac9f08f4a2b802f9adf2a79",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-panvel-glow-capa-v2.webp",
+      "storage_filename": "skelt-ou-panvel-glow-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-panvel-glow.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/skelt-ou-panvel-glow.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-panvel-glow.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-ou-panvel-glow-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/skelt-ou-panvel-glow.md",
+          "line": 171,
+          "column": 14,
+          "literal": "/images/reviews/skelt/skelt-ou-panvel-glow-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2b6fd89c69bfce3e38c5f165f7c56ffb0af1802e1ac9f08f4a2b802f9adf2a79/skelt-ou-panvel-glow-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2b6fd89c69bfce3e38c5f165f7c56ffb0af1802e1ac9f08f4a2b802f9adf2a79/skelt-ou-panvel-glow-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.589Z",
+      "verification_etag_or_digest": "2b6fd89c69bfce3e38c5f165f7c56ffb0af1802e1ac9f08f4a2b802f9adf2a79",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/skelt-ou-panvel-glow-capa.webp",
       "local_url": "/images/reviews/skelt/skelt-ou-panvel-glow-capa.webp",
       "media_kind": "image",
@@ -183476,6 +184626,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:45:43.319Z",
       "verification_etag_or_digest": "b3c4172bc1141a434c39e84f6fea5578238d648d3d9df74a29f0174bba0fee05",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
+      "local_url": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40436,
+      "sha256": "3bfe2d8350ba7c91f38e7308dd97197e7bdae374e7ff367d3db582a77b03da98",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
+      "storage_filename": "garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/garrafa-termica-qual-escolher-parceiras.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/garrafa-termica-qual-escolher-parceiras.md",
+          "line": 164,
+          "column": 14,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3bfe2d8350ba7c91f38e7308dd97197e7bdae374e7ff367d3db582a77b03da98/garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3bfe2d8350ba7c91f38e7308dd97197e7bdae374e7ff367d3db582a77b03da98/garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T18:09:32.589Z",
+      "verification_etag_or_digest": "3bfe2d8350ba7c91f38e7308dd97197e7bdae374e7ff367d3db582a77b03da98",
       "verification_status": "verified"
     },
     {

@@ -125,3 +125,10 @@ formatos.
 | Contas com 20% e por 100 g | Conta nossa: | vitrine, 20/11 | refazer no dia |
 | Código no whey em assinatura | - | sem teste | não afirmar |
 | Sabor, textura, solubilidade | A loja informa: | página | só atribuído |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/bold/whey-bold-e-bom-capa-v2.webp` (`imageFit: contain`), SHA-256 `0184823bee7e2fef0f53b1cdd716a1dcbb85cfdd9ef44950c12dfed21f7941e7`.
+- **Alt:** Pacote azul de Whey BOLD Cookies & Cream com um copo de shake e biscoitos na bancada, em foto oficial. A capa pergunta «Whey BOLD é bom?» e mostra o cupom CECILIA15.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 66 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/66/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/66/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bold/whey-bold-e-bom-capa.webp`) fica no CDN, sem uso como capa.

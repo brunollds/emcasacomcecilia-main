@@ -144,3 +144,10 @@ depois de lida; sem o rótulo, sem foto de tabela.
 - **Perguntas para o Bruno:** (1) O Brain+ entra como produto único ou também no artigo de "Rituária para cabelo" (RT7)?
   (2) Pode usar a frase "sem cafeína" como informação da loja? (3) Quer o cálculo de preço com o EMCASA, depois do teste de
   carrinho do Brain+ na semana de 27/11?
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/rituaria/rituaria-brain-para-que-serve-capa-v2.webp` (`imageFit: contain`), SHA-256 `9254b12abba4f7d52b3409a8b314692b39c50cee7cb7cf20c83df5e9bfff53d1`.
+- **Alt:** Frasco âmbar do Brain+ da Rituária, com rótulo lilás, em cenário ilustrado lilás. A capa pergunta «O que tem no frasco?» e mostra o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`.
+- **Lote 64 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/64/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/64/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/rituaria/rituaria-brain-para-que-serve-capa.webp`) fica no CDN, sem uso como capa.

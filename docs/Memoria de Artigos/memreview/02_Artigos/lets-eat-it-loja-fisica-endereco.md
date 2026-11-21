@@ -157,3 +157,10 @@ Se a foto da fachada não for liberada, a capa é o logo com a fachada desenhada
    do rodapé e do SAC)? Ou os dois, com o rótulo de cada um?
 4. **Sábado:** confirmar com a Casa o horário de sábado (10h às 14h na página da Casa; o fale-conosco não traz sábado).
 5. **Foto da fachada:** a Let's Eat It libera o uso na capa?
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa-v2.webp` (`imageFit: contain`), SHA-256 `f88fba844ef9208daedb5f801fc86c51e30b8006115f14e3416f2524d24ea093`.
+- **Alt:** Fachada da Casa Let’s em São Paulo, com o letreiro na entrada e árvores dos dois lados. A capa traz o logo da Let’s Eat It e a chamada «Casa Let’s: loja física».
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-26-ROTAS-E-ALTS.json`. A capa mostra a fachada da Casa Let's (revisão do #1319 preservada).
+- **Lote 64 do piloto de capas (sequência 22 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/64/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-26-HEROES-26-PAGINAS-SEQUENCIA-22-CLAUDE.zip` (`lotes/64/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp`) fica no CDN, sem uso como capa.
