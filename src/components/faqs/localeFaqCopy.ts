@@ -1382,7 +1382,7 @@ export const LOCALE_FAQ_COPY: Record<TranslatedLocale, FaqLocaleCopy> = {
             link: { label: 'راسلنا بالبريد الإلكتروني', target: 'email' },
           },
           {
-            question: 'هل يُعدّ الرمز CECILIA010 كوبونًا؟',
+            question: 'هل يُعتبر CECILIA010 نوعًا من الكوبونات؟',
             answer:
               'لا. إنه رمز مكافأة يُدخل في حقل Reward Code عند الدفع. ويمكن الجمع بينه وبين كوبونات YesStyle الترويجية المؤهلة، وهذه تُدخل في حقل آخر. تأكد دائمًا من ملخص الطلب أن الخصمين ظاهران فيه.',
             link: { label: 'كيفية استخدام CECILIA010', target: 'yesstyle' },
