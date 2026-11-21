@@ -8,6 +8,14 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Prohall: queda de cabelo e canetas GLP-1 (20/11/2026)
+
+- **Gatilho:** a Prohall abriu a coleção "Kits especiais GLP-1" (Force Hair, Encorpax, Selve Power, Overgrow, Absolut One), dizendo que durante ou depois do uso de GLP-1 os fios ficam mais frágeis ou caem mais. O Bruno quis seguir o enquadramento, para as canetas e para a queda em geral.
+- **Autocompletar:** série completa para Mounjaro, Ozempic, Wegovy e tirzepatida ("o que fazer", "quanto tempo", "como evitar", "o que tomar", "causa"); "queda de cabelo feminina / masculina"; "cabelo fino e ralo o que fazer"; "kit encorpax prohall". Lista na seção 7 de [[queda-de-cabelo-glp1-fatos-2011]].
+- **Fontes:** bulas americanas do Wegovy (3% contra 1%) e da tirzepatida (4% a 5% contra 1%), as duas ligando a queda à perda de peso; SBD sobre o eflúvio telógeno e a automedicação; Anvisa sobre alegação terapêutica em cosmético. Bulas brasileiras e a do Ozempic sem confirmação.
+- **Decisões do Bruno:** um artigo por marca ("as marcas sempre vão ter mais buscas que moléculas"); os produtos são para fios mais fortes, não "antiqueda"; os artigos não discutem medicina nem ciência.
+- **Viraram:** PH12 a PH16 (seção 1 da Fila). Estoque: Capilar Nutri da Rituária.
+
 ## Dolce Gusto: pautas pelo GSC e pelo Trends (19/11/2026)
 
 Pedido do Bruno: avaliar pautas para a Dolce Gusto com o Search Console e o Trends. A loja tem 28 artigos no ar.
