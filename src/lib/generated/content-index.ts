@@ -309418,6 +309418,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -309427,8 +309428,8 @@ export const reviewsData: unknown[] = [
     "coupon": "CECILIA",
     "affiliate": "adaptogen",
     "type": "Guia de Produto",
-    "title": "Tasty Iso vale a pena? O que a página informa e quanto sai por 100 g de proteína",
-    "seoTitle": "Tasty Iso vale a pena? Preço por proteína e rótulo",
+    "title": "Tasty Iso da Adaptogen vale a pena? Rótulo e custo por 100 g de proteína",
+    "seoTitle": "Tasty Iso da Adaptogen vale a pena? Rótulo e preço",
     "description": "O Tasty Iso da Adaptogen pela página oficial: 25 g de proteína por dose, sete sabores, pote de 900 g e o preço por 100 g de proteína com o cupom CECILIA.",
     "metaDescription": "CECILIA dá 10% OFF na Adaptogen. Veja o que a loja informa do Tasty Iso: 25 g de proteína por dose, sabores e o preço por 100 g de proteína.",
     "image": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
@@ -309453,34 +309454,34 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer um isolado que a página descreve como zero lactose em todos os sabores do 900 g e aceita pagar mais por 100 g de proteína.",
+        "Você quer um isolado que a Adaptogen anuncia como zero lactose na maioria dos sabores, confere o rótulo do sabor escolhido e aceita pagar mais por 100 g de proteína.",
         "Você vai conferir o rótulo do lote e do sabor antes de usar."
       ],
       "skipIf": [
         "O seu critério é o menor preço por proteína: na conta, o Tasty Whey 3W e o Gold Whey da marca ficam abaixo.",
-        "Você precisa evitar glúten e escolheria o Cookies & Cream, que a página diz conter glúten.",
-        "Você espera resultado só do suplemento."
+        "Você precisa evitar glúten e escolheria o Cookies & Cream do pote ou o Cookies do Bag, que as páginas dizem conter glúten.",
+        "Você espera resultado apenas do suplemento, sem orientação nutricional."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Tasty Iso declara 25 g de proteína por porção de 30 g no pote de 900 g. No carrinho com CECILIA, custou mais por 100 g de proteína que o Tasty Whey 3W e o Gold Whey. Para escolher pelo tipo de whey ou por uma restrição alimentar, confira a fórmula do sabor."
+          "O Tasty Iso declara 25 g de proteína por dose, e a Adaptogen anuncia zero lactose na maioria dos sabores: confira o rótulo do sabor escolhido. No carrinho com o CECILIA, saiu mais caro por 100 g de proteína que o Tasty Whey 3W e o Gold Whey. Compensa para quem quer o isolado; pelo preço, ganha o Gold Whey."
         ]
       },
       {
         "heading": "O que a página do Tasty Iso 900 g informa",
         "paragraphs": [
-          "A Adaptogen descreve o Tasty Iso como whey isolado e hidrolisado. A tabela do pote de 900 g indica 25 g de proteína em 30 g de pó. Ela traz 30 porções por embalagem.",
-          "A tabela nutricional, que está numa imagem da página, traz 30 porções por pote e, por dose de 30 g, 115 kcal, 1,5 g de carboidratos (0 g de açúcares adicionados), 1 g de gorduras totais e 30 mg de sódio. A lista de ingredientes não aparece em texto na página nem na imagem da tabela: confira no rótulo do pote que chegar."
+          "A Adaptogen descreve o Tasty Iso como whey protein isolado e hidrolisado. A tabela do pote de 900 g indica 25 g de proteína em 30 g de pó e traz 30 porções por embalagem.",
+          "A imagem da tabela nutricional na página mostra, por dose de 30 g, 115 kcal, 1,5 g de carboidratos (0 g de açúcares adicionados), 1 g de gorduras totais e 30 mg de sódio. A lista completa de ingredientes não aparece em texto na página nem na imagem da tabela, então confira no rótulo do pote que chegar."
         ],
         "images": [
           {
             "src": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
             "alt": "Tabela nutricional do Tasty Iso 900 g da Adaptogen: 30 porções por embalagem, porção de 30 g, 25 g de proteínas e 115 kcal",
             "caption": "Tabela nutricional do Tasty Iso 900 g. Foto: Adaptogen.",
-            "href": "https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214",
+            "href": "https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA",
             "objectFit": "contain",
             "aspectRatio": 1
           }
@@ -309489,24 +309490,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sabores, lactose e glúten",
         "paragraphs": [
-          "Os sabores do 900 g são sete: Original, Banana, Baunilha, Chocolate Trufado, Cookies & Cream, Doce de Leite e Morango.",
-          "Na [página do Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214), a Adaptogen declara zero lactose. O Cookies & Cream é descrito como contendo glúten. Os demais aparecem como sem glúten. Se você precisa excluir algum ingrediente, use a declaração de alergênicos e a composição da embalagem do sabor escolhido."
-        ]
-      },
-      {
-        "heading": "O aviso de impressão no rótulo",
-        "paragraphs": [
-          "A página do Tasty Iso Bag de 1,8 kg traz um aviso da loja: houve um problema pontual de impressão em alguns lotes do Tasty Iso. A loja diz que o erro é só da embalagem, restrito à etiqueta e às informações impressas, e não afeta a qualidade do produto.",
-          "O aviso está na página do Bag, e a loja não diz quais lotes foram atingidos. Por isso, na chegada, leia o rótulo do seu pote, confira sabor, lote e validade e, se algo não bater com a página, fale com a loja."
+          "Os sabores do pote de 900 g são sete: Original, Banana, Baunilha, Chocolate Trufado, Cookies & Cream, Doce de Leite e Morango.",
+          "Na [página do Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), a lista de sabores marca zero lactose em todos, embora outro trecho da mesma página fale em “a maioria dos sabores”. O Cookies & Cream é descrito como contendo glúten, e os demais aparecem como sem glúten. Se você precisa excluir algum ingrediente da rotina, confira a declaração de alergênicos e a composição impressa na embalagem do sabor escolhido."
         ]
       },
       {
         "heading": "Os tamanhos da linha Tasty Iso",
         "paragraphs": [
-          "A Adaptogen vende o Tasty Iso em quatro versões. A porção em gramas não está no texto das páginas do Naturalle, do Bag e do Pure: ela vem das imagens das tabelas nutricionais e do rótulo."
+          "A Adaptogen vende o Tasty Iso em quatro apresentações. No Naturalle e no Bag, a porção em gramas só aparece nas imagens das tabelas nutricionais; a página do Pure informa cerca de 30 g no modo de uso."
         ],
         "comparisonTable": {
-          "caption": "A loja informa: preços da vitrine em 21 de novembro de 2026, sem cupom. Pix e cartão aparecem separados; nenhum deles inclui o CECILIA. As porções saem das imagens das tabelas.",
+          "caption": "Preços da vitrine em 21/11/2026, sem cupom. Pix e cartão aparecem separados; nenhum deles inclui o CECILIA. As porções vêm das imagens das tabelas.",
           "headers": [
             "Produto",
             "Pix",
@@ -309515,25 +309509,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Tasty Iso 900 g, 7 sabores",
+              "[Tasty Iso 900 g, 7 sabores](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA)",
               "R$ 372,18",
               "6x de R$ 65,30",
               "30 g; 25 g; 30 porções"
             ],
             [
-              "Tasty Iso Bag 1,8 kg, 4 sabores",
-              "R$ 782,70",
-              "6x de R$ 137,32",
-              "31 g; 25 g; cerca de 58 porções"
+              "[Tasty Iso Bag 1,8 kg, 4 sabores](https://www.adaptogen.com.br/produto/tasty-iso-bag-1-8-kg-4-sabores-150221?parceiro=CECILIA)",
+              "R$ 665,30",
+              "6x de R$ 116,72",
+              "30 g; 25 g; 60 porções (Chocolate Trufado: 31 g; cerca de 58)"
             ],
             [
-              "Tasty Iso Naturalle 450 g, 2 sabores",
+              "[Tasty Iso Naturalle 450 g, 2 sabores](https://www.adaptogen.com.br/produto/tasty-iso-naturalle-450g-2-sabores-150220?parceiro=CECILIA)",
               "R$ 211,84",
               "4x de R$ 55,75",
               "30 g; 25 g; 15 porções"
             ],
             [
-              "Tasty Iso Pure 900 g, sem sabor",
+              "[Tasty Iso Pure 900 g, sem sabor](https://www.adaptogen.com.br/produto/tasty-iso-pure-sem-sabor-150459?parceiro=CECILIA)",
               "R$ 437,86",
               "6x de R$ 76,82",
               "30 g; 25 g; 30 porções"
@@ -309541,26 +309535,35 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O Naturalle, segundo a página, é adoçado com estévia e sem açúcar, glúten ou lactose. A imagem do Pure traz os selos zero lactose, zero glúten e zero adoçante, mas está marcada como imagem ilustrativa, e a página do Pure não repete essas informações em texto."
+          "A página do Naturalle informa que ele é adoçado com estévia e não leva açúcar, glúten ou lactose. A página do Pure informa zero lactose, zero glúten e fórmula sem adição de açúcares ou adoçantes.",
+          "No [Tasty Iso Bag 1,8 kg](https://www.adaptogen.com.br/produto/tasty-iso-bag-1-8-kg-4-sabores-150221?parceiro=CECILIA), a tabela do Chocolate Trufado traz porção de 31 g e cerca de 58 porções; as dos outros três sabores, 30 g e 60 porções. O sabor Cookies contém glúten. A página também avisa de um problema pontual de impressão em alguns lotes, restrito à embalagem e sem efeito na composição; como ela não lista os lotes, confira sabor, tabela e validade no pacote que chegar."
         ],
         "images": [
           {
             "src": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
             "alt": "Pote do Tasty Iso Pure sem sabor da Adaptogen, com 900 g, 30 porções e 25 g de proteína no rótulo",
             "caption": "Tasty Iso Pure, sem sabor. Foto: Adaptogen.",
-            "href": "https://www.adaptogen.com.br/produto/tasty-iso-pure-sem-sabor-150459",
+            "href": "https://www.adaptogen.com.br/produto/tasty-iso-pure-sem-sabor-150459?parceiro=CECILIA",
             "objectFit": "contain",
             "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+            "alt": "Pacote Tasty Iso Bag de 1,8 kg da Adaptogen, sabor Sorvete de Baunilha, com o selo de 60 porções",
+            "caption": "Tasty Iso Bag de 1,8 kg, sabor Sorvete de Baunilha. Foto: Adaptogen.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.adaptogen.com.br/produto/tasty-iso-bag-1-8-kg-4-sabores-150221?parceiro=CECILIA"
           }
         ]
       },
       {
         "heading": "Quanto sai por 100 g de proteína",
         "paragraphs": [
-          "Dividimos o preço de cada pote pela proteína declarada para a embalagem e multiplicamos por 100. O teste usa Banana no Tasty Iso, Banoffee no 3W e Baunilha no Gold. O Pix fica fora. A [ficha oficial do Banoffee](https://adaptogen.com.br/tasty-whey-banoffe-900g/) informa cerca de 26 porções e 24 g de proteína por porção."
+          "Dividimos o preço de cada pote pela proteína total declarada para a embalagem e multiplicamos por 100. O teste de carrinho usa Banana no Tasty Iso, Banoffee no 3W e Baunilha no Gold, sem desconto de Pix. A página do Tasty Whey 3W informa porção de 34 g, cerca de 26 porções e 24 g de proteína, como valores de referência que podem variar conforme o sabor."
         ],
         "comparisonTable": {
-          "caption": "Carrinhos com CECILIA. A conta usa porções por embalagem × gramas de proteína por porção. Para Banoffee 3W, a base foi cerca de 26 porções, com 24 g de proteína cada.",
+          "caption": "Carrinhos com CECILIA. A conta usa porções por embalagem × gramas de proteína por porção. Para o Tasty Whey 3W, a base foi a tabela de referência da página: cerca de 26 porções com 24 g de proteína cada.",
           "headers": [
             "Produto de 900 g",
             "Carrinho com o CECILIA",
@@ -309569,19 +309572,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Tasty Iso",
+              "[Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA)",
               "R$ 352,59",
               "750 g",
               "R$ 47,01"
             ],
             [
-              "Tasty Whey 3W Gourmet",
+              "[Tasty Whey 3W Gourmet](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
               "R$ 243,20",
               "cerca de 624 g",
               "R$ 38,97"
             ],
             [
-              "Gold Whey",
+              "[Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA)",
               "R$ 201,12",
               "630 g",
               "R$ 31,92"
@@ -309589,35 +309592,45 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Por pote, o Tasty Iso dá R$ 11,75 por dose de 25 g de proteína. Na conta, ele sai acima dos outros dois da mesma marca. Isso é preço por proteína declarada; não diz nada sobre sabor, digestão ou resultado.",
-          "Nos outros três tamanhos, o carrinho com o código não entra na conta. Pela mesma conta, no Pix e sem cupom, o preço por 100 g de proteína é de R$ 53,98 no Bag, R$ 56,49 no Naturalle e R$ 58,38 no Pure.",
-          "Os preços da vitrine mudam com campanhas; o [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen) explica como a loja os apresenta."
+          "Por pote de 900 g com o cupom, o Tasty Iso sai a R$ 11,75 por dose de 25 g de proteína. Na conta por proteína declarada, ele fica acima dos outros dois wheys da mesma marca.",
+          "Nos outros três tamanhos do Tasty Iso, os carrinhos com cupom não entraram na medição. Pela mesma conta no preço de Pix sem cupom, o custo por 100 g de proteína fica em R$ 49,62 no pote de 900 g, R$ 44,35 no Bag 1,8 kg (R$ 45,88 no Chocolate Trufado), R$ 56,49 no Naturalle 450 g e R$ 58,38 no Pure 900 g.",
+          "Os valores da vitrine mudam com campanhas; o [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen) explica como a loja exibe os descontos."
         ]
       },
       {
         "heading": "Tasty Whey 3W ou Gold Whey?",
         "paragraphs": [
-          "Para gastar menos por 100 g de proteína, o Gold fica em primeiro nos três carrinhos. O Tasty Iso é a opção desta comparação descrita pela Adaptogen como uma combinação de whey isolado e hidrolisado. Se a lactose pesa na escolha, use a informação do rótulo do sabor escolhido.",
-          "A comparação dos wheys e da creatina da marca está no guia [Adaptogen é boa?](/reviews/adaptogen-e-boa). O passo a passo do código está em [como usar o cupom](/reviews/cupom-adaptogen-como-usar), e a página da loja é a do [cupom Adaptogen](/cupons/adaptogen)."
+          "Para gastar menos por 100 g de proteína, o Gold Whey fica em primeiro nos três carrinhos com CECILIA. O Tasty Iso é a opção desta comparação descrita pela Adaptogen como proteína isolada e hidrolisada, e faz mais sentido quando a lactose pesa na escolha: a página do Tasty Whey 3W informa que ele contém lactose. Confira o rótulo do sabor.",
+          "A comparação entre os wheys e a creatina da marca está em [Adaptogen é boa?](/reviews/adaptogen-e-boa). O passo a passo do código fica em [como usar o cupom](/reviews/cupom-adaptogen-como-usar), e as regras da loja estão na página do [cupom Adaptogen](/cupons/adaptogen)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/adaptogen-gold-whey-900g.webp",
+            "alt": "Pacote do Gold Whey de 900 g da Adaptogen",
+            "caption": "Gold Whey, 900 g. Foto: Adaptogen.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA"
+          }
         ]
       },
       {
         "heading": "Antes de começar um suplemento",
         "paragraphs": [
-          "As porções citadas são as da página e do rótulo e servem às contas de preço, não à indicação de quanto tomar. Quem tem doença renal, está grávida ou amamenta, ou toma algum remédio, fala com o médico antes de começar."
+          "As porções citadas vêm da página e do rótulo e servem para calcular o custo, não para indicar quanto tomar. Quem tem doença renal, está grávida, amamenta ou usa medicamentos deve conversar com médico ou nutricionista antes de iniciar o uso."
         ]
       },
       {
         "heading": "O que não dá para saber daqui",
         "paragraphs": [
-          "Sabor, textura e digestão ficam fora do que a página informa, e este texto não usa avaliações de clientes. A lista de ingredientes do 900 g e os alergênicos além do que o texto dos sabores informa também não estão na página: o rótulo do pote é a fonte."
+          "Sabor, textura e digestão ficam fora do que a página informa, e este guia não usa avaliações de clientes."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O Tasty Iso é isolado ou concentrado? A página o descreve como proteína isolada e hidrolisada, processada a frio.",
-          "O Tasty Iso tem zero lactose? Segundo a página, sim, em todos os sabores do 900 g; o Cookies & Cream contém glúten, e os demais são descritos como sem glúten.",
+          "O Tasty Iso tem zero lactose? A lista de sabores da página do 900 g marca zero lactose em todos, mas outro trecho fala em “a maioria dos sabores”: confira o rótulo do sabor. O Cookies & Cream contém glúten, e os demais são descritos como sem glúten.",
           "Tem cupom para o Tasty Iso? Sim: o cupom CECILIA dá 10% OFF no site da Adaptogen, digitado no campo Cupom de desconto do checkout."
         ]
       }
@@ -309638,6 +309651,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -309647,10 +309661,10 @@ export const reviewsData: unknown[] = [
     "coupon": "EMCASA",
     "affiliate": "rituaria",
     "type": "Guia de Produto",
-    "title": "Rituária Brain+: o que vem no frasco, como o rótulo orienta e quanto custa",
-    "seoTitle": "Rituária Brain+: composição e preço por dia",
-    "description": "O Brain+ da Rituária pela página da loja: composição com doses, o modo de uso de 2 cápsulas ao dia, a fórmula sem cafeína e o preço por dia de uso com o EMCASA.",
-    "metaDescription": "EMCASA dá 10% OFF na Rituária. Veja o que a loja informa do Brain+: composição, sem cafeína e 2 cápsulas ao dia.",
+    "title": "Rituária Brain+: para que serve, o que vem no frasco e quanto custa",
+    "seoTitle": "Rituária Brain+ para que serve? Composição e preço",
+    "description": "O Brain+ da Rituária pela página da loja: para que serve, composição com doses, 2 cápsulas ao dia, fórmula sem cafeína e o preço por dia com o EMCASA.",
+    "metaDescription": "EMCASA dá 10% OFF na Rituária. Brain+: para que serve segundo a loja, composição, sem cafeína e quanto sai por dia no avulso e nos kits.",
     "image": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa-v2.webp",
     "imageAlt": "Frasco âmbar do Brain+ da Rituária, com rótulo lilás, em cenário ilustrado lilás. A capa pergunta «O que tem no frasco?» e mostra o cupom EMCASA.",
     "cta": {
@@ -309679,36 +309693,47 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Você toma remédio, está grávida ou amamenta e ainda não falou com o médico.",
         "Você tem alergia a soja: a página informa que a fórmula contém derivados de soja.",
-        "Você espera o resultado que a loja descreve. A página informa, mas não demonstra o efeito."
+        "Você procura tratamento para um problema de saúde: suplemento alimentar não substitui alimentação equilibrada, diagnóstico nem tratamento médico."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Brain+ da Rituária vem com 60 cápsulas. A página informa fórmula sem cafeína e orienta duas cápsulas ao dia, o que rende 30 dias por frasco. A tabela mostra quanto custou o avulso com EMCASA e quanto isso dá por dia. Confira a composição e os avisos do rótulo."
+          "O Brain+ é um suplemento alimentar em cápsulas que a Rituária vende para foco, sem cafeína. Cada frasco tem 60 cápsulas e a loja orienta duas ao dia, o que dá 30 dias. O EMCASA tira 10% no checkout; pela regra do Leve 3, Pague 2, três avulsos custam menos que o kit 3x, mesmo sem o cupom."
         ]
       },
       {
-        "heading": "O que o Brain+ tem, segundo a página",
+        "heading": "O que tem no Brain+",
         "paragraphs": [
-          "A página da [Rituária para o Brain+](https://www.rituaria.com.br/pages/brain-plus) lista 100 mg de fosfatidilserina, 300 mg de L-tirosina, 300 mg de taurina e 100 mg de colina. São as quantidades informadas pela marca.",
+          "A página da [Rituária para o Brain+](https://www.rituaria.com.br/pages/brain-plus) lista, por porção de 2 cápsulas: 100 mg de fosfatidilserina, 300 mg de L-tirosina, 300 mg de taurina, 100 mg de colina, 5 mg de vitamina B6 (385% do valor diário) e 9,94 mcg de vitamina B12 (414%).",
           "A lista de ingredientes traz taurina, L-tirosina, fosfatidilserina de lecitina de soja, bitartarato de colina, cloridrato de piridoxina (vitamina B6), metilcobalamina (B12) e o antiumectante dióxido de silício. A cápsula é de HPMC, com corante natural clorofila.",
-          "A loja avisa que a fórmula “contém derivados de soja”, não contém glúten e é vegana. As vitaminas B6 e B12 aparecem sem dose em texto, e a tabela nutricional com os percentuais de valor diário não vem escrita na página. Se você precisa dessas quantidades, confira o rótulo do frasco."
+          "A loja avisa que a fórmula “contém derivados de soja”, não contém glúten e é vegana. A tabela nutricional, que está entre as fotos do produto, informa 30 porções por frasco."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/rituaria/rituaria-brain-para-que-serve-tabela-nutricional.webp",
+            "alt": "Tabela nutricional do Brain+ da Rituária ao lado do frasco: 30 porções de 1,1 g (2 cápsulas), com L-tirosina, vitaminas B6 e B12, colina, taurina e fosfatidilserina",
+            "caption": "Tabela nutricional do Brain+, com 30 porções de 2 cápsulas. Foto: Rituária.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/brain-nootropico"
+          }
         ]
       },
       {
-        "heading": "Como ler a proposta do Brain+",
+        "heading": "Para que serve o Brain+, segundo a loja",
         "paragraphs": [
-          "A Rituária apresenta o Brain+ como suplemento sem cafeína. Use a lista de ingredientes e as quantidades do rótulo para comparar produtos. Para alegações de efeito em foco ou concentração, a [Anvisa orienta atenção à publicidade de suplementos](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/cuidado-com-a-propaganda-enganosa/)."
+          "A Rituária vende o Brain+ como suplemento alimentar para foco e concentração, sem cafeína: o nome do produto na loja é “Nootrópico para melhora do foco sem cafeína”. A página diz que as vitaminas B6 e B12 “auxiliam no funcionamento do sistema nervoso e no metabolismo energético”. Essas indicações são da loja; não tomamos o produto.",
+          "Para comparar com outros suplementos, use a lista de ingredientes e as quantidades por porção. As [perguntas frequentes da Anvisa sobre suplementos alimentares](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/perguntas-frequentes) explicam como ler o rótulo."
         ]
       },
       {
         "heading": "Como tomar o Brain+",
         "paragraphs": [
-          "O modo de uso que a marca publica para o avulso é de duas cápsulas ao dia com água.",
-          "O rótulo do frasco avulso mostra 60 cápsulas de 550 mg cada. Com 2 por dia, são 30 dias, o que bate com o “30 dias” do título da página. Essa conta é nossa.",
-          "Essa informação serve para estimar o rendimento e o custo diário. Siga o rótulo da embalagem e procure orientação profissional antes de iniciar o uso se toma medicamentos ou tem uma condição de saúde."
+          "O modo de uso publicado pela marca é de 2 cápsulas ao dia com um copo de água, de preferência pela manhã.",
+          "O rótulo do frasco exibe 60 cápsulas de 550 mg cada. Conta nossa: com 2 cápsulas ao dia, cada frasco rende 30 dias, o que bate com os “30 dias” do título da página.",
+          "Siga o rótulo da embalagem. Se você usa medicamentos ou tem alguma condição de saúde, fale com médico ou nutricionista antes de começar."
         ],
         "images": [
           {
@@ -309728,7 +309753,7 @@ export const reviewsData: unknown[] = [
           "O checkout também mostra um aviso da loja de 5% de desconto no Pix, que não entra nas contas deste capítulo."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda da página em 21/11/2026. Por dia: conta nossa, com 2 cápsulas ao dia e 30 dias por frasco avulso. O desconto do EMCASA foi testado só no Brain+ avulso.",
+          "caption": "Preços da página em 21/11/2026. O avulso foi testado no checkout; nos kits, o valor com EMCASA é conta nossa de 10% sobre o preço da página, com 60 cápsulas por frasco e 2 ao dia. Na linha dos três avulsos com a promoção, o valor por dia é sem cupom (R$ 139,80 ÷ 90), porque não testamos o EMCASA junto com ela.",
           "headers": [
             "Opção",
             "Preço na página",
@@ -309737,51 +309762,76 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Brain+ avulso, 30 dias",
+              "[Brain+ avulso, 30 dias](https://www.rituaria.com.br/products/brain-nootropico)",
               "R$ 69,90",
               "R$ 62,91",
               "R$ 2,10"
             ],
             [
-              "2x Brain+",
+              "[3 avulsos no Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2)",
+              "R$ 139,80",
+              "Confira no checkout",
+              "R$ 1,55 (sem cupom)"
+            ],
+            [
+              "[2x Brain+](https://www.rituaria.com.br/products/2x-formula-brain-60-dias-60-capsulas)",
               "R$ 139,90",
-              "Confira no checkout",
-              "Sem cálculo"
+              "R$ 125,91",
+              "R$ 2,10"
             ],
             [
-              "3x Brain+",
+              "[3x Brain+](https://www.rituaria.com.br/products/3x-formula-brain-90-dias-90-capsulas)",
               "R$ 189,90",
-              "Confira no checkout",
-              "Sem cálculo"
+              "R$ 170,91",
+              "R$ 1,90"
             ],
             [
-              "Kit Performance Masculina (Nutri Men + Brain+)",
+              "[Kit Performance Masculina (Nutri Men + Brain+)](https://www.rituaria.com.br/products/kit-performance-masculina-nutri-men-brain-1)",
               "R$ 124,90",
-              "Confira no checkout",
-              "Sem cálculo"
+              "R$ 112,41",
+              "Dois produtos"
             ]
           ]
         },
         "postParagraphs": [
-          "A página comercial apresenta opções para 60 e 90 dias, mas os títulos dos kits falam em 60 e 90 cápsulas. O avulso tem 60 cápsulas para 30 dias. Confirme com a Rituária a quantidade total de cápsulas antes de comparar o custo diário dos kits.",
-          "Sem o cupom, o avulso dá cerca de R$ 2,33 por dia. A loja também mostra “2x R$ 34,95 sem juros” no avulso."
+          "Os títulos dos kits falam em “60 cápsulas” no 2x e “90 cápsulas” no 3x, mas as fotos mostram dois e três frascos de 60 cápsulas. A conta por dia usa as fotos: 120 cápsulas no 2x e 180 no 3x. O kit 2x custa praticamente o mesmo que dois avulsos; o 3x baixa o custo por dia.",
+          "O Kit Performance Masculina reúne dois produtos distintos: um frasco de Nutri Men (60 cápsulas de 500 mg) e um frasco de Brain+ (60 cápsulas de 550 mg). Como o preço cobre os dois suplementos juntos, não dividimos o total apenas pelos dias do Brain+.",
+          "Sem cupom, o avulso dá cerca de R$ 2,33 por dia. Enquanto durar a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2) da loja, vale mais levar três avulsos do que o kit 3x: o Brain+ avulso está na coleção, e a regra da página é que, com três suplementos no carrinho, o de menor valor sai de graça. Pela regra da promoção, sem o EMCASA, três frascos saem por R$ 139,80, contra R$ 189,90 do kit. Os kits ficam fora da promoção, e a página não informa até quando ela vale. Confira no checkout se o EMCASA entra junto com a promoção."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-2x.webp",
+            "alt": "Dois frascos do Brain+ da Rituária lado a lado, o kit 2x vendido como 60 dias",
+            "caption": "Kit 2x: dois frascos de 60 cápsulas. Foto: Rituária.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/2x-formula-brain-60-dias-60-capsulas"
+          },
+          {
+            "src": "/images/reviews/rituaria/rituaria-brain-para-que-serve-kit-performance.webp",
+            "alt": "Kit Performance Masculina da Rituária: um frasco de Nutri Men e um de Brain+",
+            "caption": "Kit Performance Masculina: Nutri Men e Brain+. Foto: Rituária.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/kit-performance-masculina-nutri-men-brain-1"
+          }
         ]
       },
       {
         "heading": "Antes de começar",
         "paragraphs": [
-          "A página indica o produto para pessoas de 19 anos ou mais. Durante a gestação ou amamentação, confirme com o profissional que acompanha você antes de usar.",
-          "Leve a lista de ingredientes e o rótulo para a consulta. A fórmula declara derivados de soja.",
-          "Ao receber o frasco, leia o rótulo inteiro e compare com o que a página informa."
+          "A página destina o produto a pessoas de 19 anos ou mais. Durante a gestação ou amamentação, confirme com o profissional que acompanha você antes de usar.",
+          "Leve a lista de ingredientes e o rótulo para a consulta, lembrando que a fórmula declara derivados de soja."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O que a página informa sobre o Brain+? A Rituária apresenta um suplemento em cápsulas sem cafeína. As quantidades informadas pela marca estão na seção de composição.",
+          "Para que serve o Brain+ da Rituária? A loja vende o Brain+ como suplemento alimentar para foco e concentração, sem cafeína. A indicação é da loja; suplemento alimentar não trata nem previne doenças.",
           "O Brain+ tem cafeína? A página traz o selo “livre de cafeína” e o título fala em fórmula sem cafeína.",
-          "Como tomar o Brain+? A orientação publicada pela Rituária é de duas cápsulas ao dia com água para o avulso. Confira as instruções na embalagem.",
+          "Como tomar o Brain+? A orientação publicada pela Rituária é de 2 cápsulas ao dia com um copo de água, de preferência pela manhã.",
           "Gestante pode tomar o Brain+? Converse com quem acompanha a gestação ou a amamentação antes de usar o suplemento.",
+          "Vale mais o kit 3x ou três frascos avulsos? Com a promoção Leve 3, Pague 2 da loja no ar, três avulsos saem mais baratos que o kit 3x, porque o terceiro frasco sai de graça. Sem a promoção, o kit 3x tem o menor custo por dia.",
           "Tem cupom para o Brain+? O EMCASA dá 10% OFF na Rituária e foi aplicado no carrinho do Brain+ avulso. Digite o código no campo de cupom do checkout e confira a linha do desconto antes de pagar."
         ]
       }
@@ -310073,6 +310123,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -310115,28 +310166,65 @@ export const reviewsData: unknown[] = [
         "Você quer comparar as fragrâncias pela referência que a própria loja publica, antes de abrir a página de cada produto."
       ],
       "skipIf": [
-        "Você quer a garantia de um cheiro igual ao do perfume citado: a loja diz que a referência não promete isso, e nós não cheiramos os produtos.",
-        "Você precisa de uma duração em horas: este guia não traz teste de fixação."
+        "Você busca garantia de cheiro igual ao do perfume citado: a marca avisa que a referência não promete resultado idêntico.",
+        "Você precisa de duração medida em horas: este guia não traz avaliação de fixação na pele."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A página de cada body splash informa a referência olfativa. My Sweet Delight cita Delina, Very Sexy cita J’adore e Soft Breeze cita Light Blue. As tabelas mostram qual referência aparece em cada página e o preço de venda. A equipe não testou a semelhança das fragrâncias na pele."
+          "A Barbour’s Beauty publica, na página da maioria dos body splashes, o perfume que serve de referência olfativa: My Sweet Delight cita Delina, Very Sexy cita J’adore e Soft Breeze cita Light Blue. A marca avisa que a referência não promete resultado idêntico. No site, o CECILIALINHARES dá 10% OFF."
+        ]
+      },
+      {
+        "heading": "Procurando pelo perfume?",
+        "paragraphs": [
+          "Do perfume que a loja cita para o body splash que o indica, em ordem alfabética:"
+        ],
+        "bullets": [
+          "Acqua di Giò Elixir: Ocean Homme",
+          "Baccarat Rouge 540: Amber Mystic, da coleção Feliz no Simples",
+          "Bleu: Seduction Homme",
+          "Carmina: Rose Intense, da coleção Feliz no Simples",
+          "Chloé Eau de Parfum: Rich",
+          "Coco Mademoiselle: Sienna Glow",
+          "Delina: My Sweet Delight",
+          "Eclaire: Caramel Kiss",
+          "English Pear & Freesia: Good Graces",
+          "Erba Pura: Citrus Nectar, da coleção Feliz no Simples",
+          "Good Girl: Alter Ego",
+          "Idole: Icon",
+          "Imagination: Signature Homme",
+          "J'adore: Very Sexy",
+          "Khamrah: Vanilla Rum",
+          "La Vie est Belle: Living Grace",
+          "Libre: Endless Soul",
+          "Libre Vanille Couture: Golden Vanille, da coleção Feliz no Simples",
+          "Light Blue: Soft Breeze",
+          "L'Interdit: Flowers",
+          "Love, Don’t Be Shy: Kiss in Paradise",
+          "MYSLF: Urban Homme",
+          "Palatine: Pure Grace",
+          "Sauvage: Bold Homme",
+          "Scandal: Affair",
+          "Valaya: Fine Touch",
+          "Yara: Pink Chantilly",
+          "212 VIP Black: Midnight Homme",
+          "212 VIP Rose: Roses"
         ]
       },
       {
         "heading": "De onde vem esta lista",
         "paragraphs": [
-          "A Barbour’s publica as referências na ficha de cada produto. Reunimos os nomes que a loja menciona e os preços da consulta. Use a lista para localizar a versão correspondente.",
-          "A indicação de inspiração descreve a proposta de cada fragrância. A equipe não testou cheiro, fixação ou semelhança com os perfumes citados."
+          "A Barbour’s publica a referência olfativa na página de cada produto, no campo “Fragrância inspirada por”. Reunimos os nomes indicados pela marca e os preços da consulta para você achar a versão correspondente.",
+          "A indicação de inspiração descreve apenas a proposta de cada fragrância. Este guia reúne os nomes, notas e avisos publicados pela Barbour’s Beauty, sem avaliação olfativa ou de fixação."
         ]
       },
       {
         "heading": "Seis body splashes e a referência de cada um",
         "paragraphs": [
-          "São seis fragrâncias florais e frutadas. Na penúltima coluna estão as notas que a página de cada body splash lista; a lista tem mais itens do que cabe aqui, então a seleção é nossa."
+          "São seis fragrâncias florais e frutadas em frasco de 200 ml. Na penúltima coluna estão as principais notas listadas na página de cada body splash."
         ],
         "comparisonTable": {
           "caption": "Preço de venda na página de cada body splash em 21 de novembro de 2026, frasco de 200 ml. A referência é o que a loja indica no campo “Fragrância inspirada por”.",
@@ -310201,13 +310289,21 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1,
             "href": "https://www.thebarboursbeauty.com.br/products/body-splash-soft-breeze-desodorante-colonia-200ml-694828df72f1c"
+          },
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-endless-soul.webp",
+            "alt": "Frasco do body splash Endless Soul, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Body Splash Endless Soul, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-endless-soul-69481e18de96f"
           }
         ]
       },
       {
-        "heading": "Florais e frutados",
+        "heading": "Mais body splashes de 200 ml",
         "paragraphs": [
-          "Além dos seis acima, cinco body splashes florais e frutados trazem a referência no campo. Eles seguem o mesmo formato de 200 ml."
+          "Além dos seis acima, sete body splashes de 200 ml trazem a referência indicada pela marca no mesmo campo."
         ],
         "comparisonTable": {
           "caption": "Referência que a loja indica em cada página.",
@@ -310241,27 +310337,27 @@ export const reviewsData: unknown[] = [
               "[Rich](https://www.thebarboursbeauty.com.br/products/body-splash-rich-deo-colonia-ref-olfativa-chloe-694824730f322)",
               "Chloé Eau de Parfum - Chloé",
               "R$ 39,90"
+            ],
+            [
+              "[Flowers](https://www.thebarboursbeauty.com.br/products/body-splash-flowers-deo-colonia-6947efaa19678)",
+              "L'Interdit - Givenchy",
+              "R$ 39,90"
+            ],
+            [
+              "[Sienna Glow](https://www.thebarboursbeauty.com.br/products/body-splash-sienna-glow-694825eb0737a)",
+              "Coco Mademoiselle - Chanel",
+              "R$ 39,90"
             ]
           ]
         },
         "postParagraphs": [
-          "O Living Grace também existe como perfume para cabelo na loja, e a página dele traz a mesma referência do body splash."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-endless-soul.webp",
-            "alt": "Frasco do body splash Endless Soul, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
-            "caption": "Body Splash Endless Soul, 200 ml. Foto: Barbour's Beauty.",
-            "objectFit": "contain",
-            "aspectRatio": 1,
-            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-endless-soul-69481e18de96f"
-          }
+          "O Living Grace também é vendido na versão [Living Grace perfume para cabelo](https://www.thebarboursbeauty.com.br/products/new-perfume-para-cabelo-finalizador-termoativo-la-vie-694275e1e6ead) (R$ 34,90 na consulta), e a página dele traz a mesma referência do body splash."
         ]
       },
       {
         "heading": "Linha Oriental Sweetness",
         "paragraphs": [
-          "A linha Oriental Sweetness indica perfumes da Lattafa. A página do Vanilla Rum cita, na descrição, notas de rum, canela e baunilha; as outras duas não trazem lista de notas."
+          "A linha Oriental Sweetness indica perfumes da Lattafa. A página do Vanilla Rum lista rum, baunilha e canela como notas principais, e a do Caramel Kiss, caramelo, leite, mel e baunilha cremosa. A do Pink Chantilly não traz lista de notas."
         ],
         "comparisonTable": {
           "caption": "Referência que a loja indica em cada página, com a grafia dela.",
@@ -310284,15 +310380,25 @@ export const reviewsData: unknown[] = [
             [
               "[Caramel Kiss](https://www.thebarboursbeauty.com.br/products/bodysplash-vanilla-kiss-oriental-sweetness-69482e59ed2cb)",
               "Eclaire Lattafa",
-              "R$ 39,90 (esgotado no dia)"
+              "R$ 39,90 (indisponível na consulta)"
             ]
           ]
-        }
+        },
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-vanilla-rum.webp",
+            "alt": "Frasco do body splash Vanilla Rum, de 200 ml, da linha Oriental Sweetness da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Body Splash Vanilla Rum, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/bodysplash-vanilla-rum-oriental-sweetness-69482d78224d4"
+          }
+        ]
       },
       {
         "heading": "Referências de nicho",
         "paragraphs": [
-          "Os quatro body splashes abaixo citam perfumes de nicho. O Amber Mystic também faz parte da coleção Feliz no Simples, da Barbour’s com Theodoro."
+          "Os sete body splashes abaixo citam perfumes de nicho. Quatro são da coleção Feliz no Simples, da Barbour’s com Theodoro."
         ],
         "comparisonTable": {
           "caption": "Referência que a loja indica em cada página, com a grafia dela.",
@@ -310314,24 +310420,49 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Kiss in Paradise](https://www.thebarboursbeauty.com.br/products/body-splash-kiss-in-paradise-desodorante-colonia-200ml)",
-              "Love, Don’t Be Shy — Kilian (grafado “Killian” na página)",
+              "Love, Don’t Be Shy - Kilian (a página grafa “Love don´t be shy by Killian”)",
               "R$ 34,90"
             ],
             [
               "[Amber Mystic, Feliz no Simples](https://www.thebarboursbeauty.com.br/products/body-splash-desodorante-corporal-amber-mystic-feliz-no-simples-barbour-s-by-theodoro-200ml)",
               "Baccarat Rouge 540 MFK",
               "R$ 59,90"
+            ],
+            [
+              "[Citrus Nectar, Feliz no Simples](https://www.thebarboursbeauty.com.br/products/body-splash-desodorante-corporal-citrus-nectar-feliz-no-simples-barbour-s-by-theodoro-200ml)",
+              "Erba Pura Xerjoff",
+              "R$ 59,90"
+            ],
+            [
+              "[Golden Vanille, Feliz no Simples](https://www.thebarboursbeauty.com.br/products/body-splash-desodorante-corporal-golden-vanille-feliz-no-simples-barbour-s-by-theodoro-200ml)",
+              "Libre Vanille Couture YSL",
+              "R$ 59,90"
+            ],
+            [
+              "[Rose Intense, Feliz no Simples](https://www.thebarboursbeauty.com.br/products/body-splash-desodorante-corporal-rose-intense-feliz-no-simples-barbour-s-by-theodoro-200ml)",
+              "Carmina Creed",
+              "R$ 59,90"
             ]
           ]
-        }
+        },
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-pure-grace.webp",
+            "alt": "Frasco do body splash Pure Grace, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Body Splash Pure Grace, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-pure-grace-desodorante-colonia-200ml"
+          }
+        ]
       },
       {
         "heading": "Masculinos (Homme)",
         "paragraphs": [
-          "A linha Homme tem seis body splashes de 200 ml, todos com a referência no campo. As páginas deles não trazem lista de notas."
+          "A linha Homme tem seis body splashes de 200 ml, todos com a referência indicada pela marca no mesmo campo. As notas de cabeça, corpo e fundo estão na aba Notas da Fragrância de cada página."
         ],
         "comparisonTable": {
-          "caption": "Referência que a loja indica em cada página, com a grafia dela.",
+          "caption": "Referência que a loja indica em cada página.",
           "headers": [
             "Body splash",
             "Referência que a loja indica",
@@ -310350,7 +310481,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Ocean Homme](https://www.thebarboursbeauty.com.br/products/body-splash-ocean-homme-desodorante-colonia-200ml)",
-              "Acqua di Giò Elixir — Giorgio Armani",
+              "Acqua di Giò Elixir - Giorgio Armani",
               "R$ 39,90"
             ],
             [
@@ -310369,12 +310500,22 @@ export const reviewsData: unknown[] = [
               "R$ 39,90"
             ]
           ]
-        }
+        },
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-bold-homme.webp",
+            "alt": "Frasco do body splash Bold Homme, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Body Splash Bold Homme, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml"
+          }
+        ]
       },
       {
         "heading": "Os que não trazem perfume de referência",
         "paragraphs": [
-          "Os cinco body splashes da linha Shimmer usam o mesmo campo para uma descrição, não para um perfume. O que a página escreve em cada um está abaixo. Os BB Charm de 34 ml e o Kit Layering não trazem o campo."
+          "Os cinco body splashes da linha Shimmer usam o mesmo campo para uma descrição olfativa, não para um perfume famoso. Já o [BB Charm Rose Bloom, de 34 ml](https://www.thebarboursbeauty.com.br/products/bb-charm-rose-bloom-body-splash-desodorante-corporal-34-ml) (R$ 39,90) e o [kit Linha Layering, com três mini body splashes de 55 ml](https://www.thebarboursbeauty.com.br/products/kit-linha-layering-3-mini-body-splashes-petal-crush-vanilla-dreamer-e-fruity-tale-55ml-cada) (R$ 79,90) não trazem esse campo."
         ],
         "comparisonTable": {
           "caption": "O que o campo traz em cada página, entre aspas.",
@@ -310410,45 +310551,23 @@ export const reviewsData: unknown[] = [
               "R$ 39,90"
             ]
           ]
-        }
-      },
-      {
-        "heading": "Procurando pelo perfume?",
-        "paragraphs": [
-          "Do perfume que a loja cita para o body splash que o indica, em ordem alfabética:"
-        ],
-        "bullets": [
-          "Acqua di Giò Elixir: Ocean Homme",
-          "Baccarat Rouge 540: Amber Mystic, da coleção Feliz no Simples",
-          "Bleu: Seduction Homme",
-          "Chloé Eau de Parfum: Rich",
-          "Delina: My Sweet Delight",
-          "Eclaire: Caramel Kiss",
-          "English Pear & Freesia: Good Graces",
-          "Good Girl: Alter Ego",
-          "Idole: Icon",
-          "Imagination: Signature Homme",
-          "J'adore: Very Sexy",
-          "Khamrah: Vanilla Rum",
-          "La Vie est Belle: Living Grace",
-          "Libre: Endless Soul",
-          "Light Blue: Soft Breeze",
-          "Love don´t be shy: Kiss in Paradise",
-          "MYSLF: Urban Homme",
-          "Palatine: Pure Grace",
-          "Sauvage: Bold Homme",
-          "Scandal: Affair",
-          "Valaya: Fine Touch",
-          "Yara: Pink Chantilly",
-          "212 VIP Black: Midnight Homme",
-          "212 VIP Rose: Roses"
+        },
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-blue-ocean-glow.webp",
+            "alt": "Frasco do Shimmer Body Splash Blue Ocean Glow, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Shimmer Body Splash Blue Ocean Glow, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-blue-ocean-glow-desodorante-colonia-200ml"
+          }
         ]
       },
       {
         "heading": "O que a referência não garante",
         "paragraphs": [
-          "Na nota de referências olfativas, a Barbour’s informa que usa os nomes como referência e que as demais marcas pertencem aos respectivos fabricantes.",
-          "Cada produto nesta lista é vendido pela Barbour’s como desodorante colônia. Compare a referência e as notas da ficha antes de escolher."
+          "Na nota de referências olfativas, a Barbour’s Beauty informa que usa os nomes apenas como referência, que não possui vínculo com as marcas citadas e que a menção de inspiração não promete resultado idêntico ao de outros produtos.",
+          "Os body splashes das tabelas são vendidos pela Barbour’s como desodorante colônia ou desodorante corporal. Compare a referência e as notas da página de cada item antes de escolher."
         ]
       },
       {
@@ -310465,7 +310584,7 @@ export const reviewsData: unknown[] = [
           "E no La Vie est Belle? A página do Living Grace indica o La Vie est Belle, da Lancôme, como referência.",
           "Qual o body splash masculino inspirado no Sauvage? A página do Bold Homme indica o Sauvage, da Dior, como referência.",
           "A Barbour’s tem vínculo com as marcas citadas? A loja diz que não. Na nota de esclarecimento, afirma que não possui vínculos com as marcas mencionadas e que elas pertencem aos respectivos fabricantes.",
-          "Body splash é a mesma coisa que perfume? Na loja, estes frascos são vendidos como desodorante colônia. Os perfumes citados aparecem como referência olfativa."
+          "Body splash é a mesma coisa que perfume? Na loja, estes frascos são vendidos como desodorante colônia ou desodorante corporal. Os perfumes citados aparecem como referência olfativa."
         ]
       }
     ]
@@ -310691,7 +310810,7 @@ export const reviewsData: unknown[] = [
     "slug": "garrafa-termica-qual-escolher-parceiras",
     "locale": "pt",
     "title": "Garrafa térmica: qual escolher entre Gocase e Bagaggio",
-    "seoTitle": "Garrafa térmica: qual escolher, com preço e promessa",
+    "seoTitle": "Garrafa térmica Gocase ou Bagaggio: tamanhos e preços",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -310702,10 +310821,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Fresh e Flip Pro da Gocase, Dual da Bagaggio: capacidade, preço de venda, preço por 100 ml e o que cada ficha promete de frio e calor, sem teste nosso das garrafas.",
-    "metaDescription": "Garrafa térmica da Gocase e da Bagaggio lado a lado: capacidade, preço por 100 ml e o que cada ficha promete de frio e calor, sem teste nosso.",
+    "description": "Fresh e Flip Pro da Gocase, Dual da Bagaggio: capacidade, preço de venda, preço por 100 ml e o que cada página promete de frio e calor, sem teste nosso das garrafas.",
+    "metaDescription": "Gocase: CECILIAA dá 5%. Bagaggio: CECILIA10 dá 10%. Compare tamanhos, preços e conservação das garrafas Fresh, Flip Pro e Dual.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
@@ -310714,12 +310834,12 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Você quer horas declaradas na ficha para bebida gelada e quente, em 650 ou 950 ml: a Fresh da Gocase.",
+        "Você quer horas declaradas na página para bebida gelada e quente, em 650 ou 950 ml: a Fresh da Gocase.",
         "Você quer a menor conta por 100 ml da tabela, em inox e com alça: a Dual com alça de 900 ml da Bagaggio."
       ],
       "skipIf": [
-        "Você vai levar bebida quente: a Gocase indica a Flip Pro só para bebida fria.",
-        "Você quer um número de horas na ficha: a Bagaggio diz só “por horas”."
+        "Você vai levar bebida quente: a Gocase indica a Flip Pro só para bebida fria por causa da tampa.",
+        "Você precisa de um número de horas de conservação na página: a Bagaggio diz apenas “por horas”."
       ]
     },
     "pros": [],
@@ -310750,41 +310870,41 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para café ou chá, as fichas indicam a Fresh da Gocase e a Dual da Bagaggio. A Flip Pro é indicada só para bebidas frias. A Dual azul de 900 ml tem o menor preço por 100 ml na tabela. As horas de conservação são as declaradas por cada loja."
+          "Para levar café ou chá, a Fresh da Gocase e a Dual da Bagaggio aceitam bebidas quentes, enquanto a Flip Pro atende só bebidas frias pela tampa. A Dual com alça azul de 900 ml tem o menor preço por 100 ml da tabela. Só a Gocase declara horas de conservação; a Bagaggio diz apenas “por horas”."
         ]
       },
       {
         "heading": "Antes de escolher: capacidade e uso",
         "paragraphs": [
-          "As garrafas desta comparação vão de 600 a 950 ml. A Gocase compara a Fresh de 650 ml a 3 copos de água e a de 950 ml a 5; a Flip Pro de 750 ml, a quase 4 copos. Esse é o jeito da própria loja de dar a ideia do tamanho.",
-          "Pense em onde a garrafa vai: bolsa, mochila, carro, mesa de trabalho. As fichas da Fresh e da Dual trazem altura ou medida e peso, e vale conferir contra o espaço que você tem. A Flip Pro não traz esses dados na página.",
-          "Outra pergunta antes do preço é a bebida. Café e chá pedem uma garrafa que a loja indique para quente. Água gelada pede horas de frio. A ficha de cada loja responde isso de um jeito diferente, e a seção a seguir mostra como."
+          "As garrafas da tabela vão de 600 a 950 ml. A Gocase compara a Fresh de 650 ml a 3 copos de água e a de 950 ml a 5; a Flip Pro de 750 ml, a quase 4 copos. Esse é o jeito da própria loja de dar noção de volume.",
+          "Pense em onde a garrafa vai rodar: bolsa, mochila, carro ou mesa de trabalho. As páginas da Fresh e da Dual trazem medidas e peso, o que ajuda a conferir o espaço. A da Flip Pro traz altura e diâmetro, sem o peso.",
+          "Outro corte antes do preço é a bebida. Café e chá pedem uma garrafa indicada para quente, enquanto água gelada pede horas de conservação a frio. Cada loja descreve esse desempenho do seu jeito, como mostra a tabela abaixo."
         ]
       },
       {
-        "heading": "Tabela: capacidade, preço e promessa da ficha",
+        "heading": "Tabela: capacidade, preço e conservação declarada",
         "paragraphs": [
-          "Os preços são os de venda das páginas, sem o valor riscado, sem frete e sem desconto de código. A Gocase cobra mais em algumas cores: a loja diz de R$ 20 a R$ 30 de acréscimo, e a tabela traz a cor Clear."
+          "Os preços são os de venda das páginas, sem o valor riscado, sem frete e sem desconto de código. Na Fresh da Gocase, a mesma página reúne 650 ml, 950 ml e 1.200 ml no seletor de tamanho, e o valor muda com a cor: a tabela usa a Branca ou a Preta."
         ],
         "comparisonTable": {
-          "caption": "Conta nossa: preço de venda ÷ capacidade × 100, arredondado em centavos. Preços das páginas em 21 de novembro de 2026.",
+          "caption": "Conta nossa: preço de venda dividido pela capacidade vezes 100, arredondado em centavos. Preços das páginas em 21/11/2026.",
           "headers": [
             "Modelo",
             "Capacidade e preço",
             "Por 100 ml",
-            "O que a ficha diz"
+            "O que a página diz"
           ],
           "rows": [
             [
-              "[Fresh, Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p)",
+              "[Fresh 650 ml branca ou preta, Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p)",
               "650 ml, R$ 119,90",
               "R$ 18,45",
               "Até 24h gelada, até 12h quente"
             ],
             [
-              "Fresh, Gocase",
-              "950 ml, R$ 119,90",
-              "R$ 12,62",
+              "[Fresh 950 ml branca ou preta, Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p)",
+              "950 ml, R$ 139,90",
+              "R$ 14,73",
               "Até 24h gelada, até 12h quente"
             ],
             [
@@ -310794,13 +310914,13 @@ export const reviewsData: unknown[] = [
               "Gelada por até 48h com gelo; indicada somente para bebidas frias"
             ],
             [
-              "[Dual preta, Bagaggio](https://www.bagaggio.com.br/garrafa-termica-dual-600ml-preto/p)",
+              "[Dual preta, Bagaggio](https://www.bagaggio.com.br/garrafa-termica-dual-600ml-preto/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "600 ml, R$ 94,90",
               "R$ 15,82",
-              "Quente ou gelada “por horas”, sem número"
+              "Só a ficha técnica, sem horas de conservação"
             ],
             [
-              "[Dual com alça azul, Bagaggio](https://www.bagaggio.com.br/garrafa-termica-dual-com-alca-900ml-azul/p)",
+              "[Dual com alça azul, Bagaggio](https://www.bagaggio.com.br/garrafa-termica-dual-com-alca-900ml-azul/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "900 ml, R$ 99,90",
               "R$ 11,10",
               "Quente ou gelada “por horas”, sem número"
@@ -310808,11 +310928,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os números de horas da Gocase e o “por horas” da Bagaggio vêm de cada loja, então não dá para dizer qual segura mais. Cada loja descreve do seu jeito, e a tabela só repete o que está escrito."
+          "Os números de horas da Gocase e o “por horas” da Bagaggio são declarações das respectivas lojas, então não permitem comparar qual modelo segura a temperatura por mais tempo na prática."
         ],
         "images": [
           {
-            "src": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro.webp",
+            "src": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro-v2.webp",
             "alt": "Quadro com a conta por 100 ml das cinco garrafas da tabela, da menor para a maior: Dual com alça 900 ml, Fresh 950 ml, Dual 600 ml, Fresh 650 ml e Flip Pro 750 ml",
             "caption": "Quadro: Em Casa com Cecília.",
             "objectFit": "contain",
@@ -310821,12 +310941,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Gocase: Fresh e Flip Pro",
+        "heading": "Gocase: Fresh e Flip Pro (tampas e tamanhos)",
         "paragraphs": [
-          "A ficha da Fresh traz aço inox 304, parede dupla a vácuo, livre de BPA e conservação de até 24h gelada e até 12h quente. A de 650 ml tem 26,8 cm de altura com tampa e 345,50 g vazia; a de 950 ml, 26 cm e 432,50 g. A página lista ainda uma versão de 1.200 ml, com preço próprio.",
-          "A mesma ficha avisa dois limites: a loja não recomenda a Fresh para bebida gaseificada, e a tampa não é de inox, então uma condensação leve nela é normal. O corpo é lavado à mão, e a tampa vai à lava-louças.",
-          "A Flip Pro tem 750 ml, tampa flip que abre com um clique e trava de segurança contra vazamento, segundo a página. A loja diz que ela é “indicada somente para bebidas frias” e explica que a limitação está na tampa, não no isolamento: o mecanismo de sucção e a vedação não são feitos para líquido quente. A página não informa peso, altura nem material.",
-          "Sobre garantia, a página de produto da Fresh diz um ano contra defeito de fabricação e seis meses contra descascamento. A página da linha térmica diz 90 dias contra defeito de fabricação, e a mesma página dá 90 dias para a Flip Pro. As duas informações estão no site da Gocase e divergem, então vale perguntar à loja qual vale para a sua garrafa antes de comprar."
+          "A [Fresh da Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p) é de aço inox 304 com parede dupla a vácuo, livre de BPA, e a loja promete até 24h gelada e até 12h quente. Na Branca e na Preta, a de 650 ml sai a R$ 119,90, a de 950 ml a R$ 139,90 e a de 1.200 ml a R$ 179,90. A Melancia e a Amarela custam R$ 20 a menos nos dois tamanhos menores, e é a Melancia de 650 ml que a página mostra ao abrir.",
+          "A página da Fresh informa ainda 26,8 cm de altura e 345,50 g vazia na versão de 650 ml, contra 26 cm e 432,50 g na de 950 ml. A tampa rosqueável não é de inox, então uma condensação leve nela pode acontecer; a loja recomenda lavar o corpo à mão, permite a tampa na lava-louças e não indica o modelo para bebida gaseificada.",
+          "Já a [Flip Pro da Gocase](https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p) tem 750 ml e muda completamente no bocal: usa tampa flip que abre com um clique, mecanismo de sucção e trava de segurança contra vazamentos. A própria Gocase avisa que ela é “indicada somente para bebidas frias” por causa da tampa, cujo sistema de sucção e vedação não foi feito para líquido quente. A página informa 26,5 cm de altura com a tampa, cerca de 7 cm de diâmetro e corpo em aço inox 304, sem o peso.",
+          "Na garantia, as páginas da Gocase dão prazos diferentes. As de produto da Fresh e da Flip Pro falam em um ano contra defeito de fabricação. Já a página da linha térmica fala em 90 dias contra defeito de fabricação e montagem e 6 meses contra defeito de personalização; em outra pergunta da mesma página, em um ano para problema de conservação de temperatura e 6 meses para descascamento da estampa. Vale confirmar no atendimento qual prazo vale para o seu pedido."
         ],
         "images": [
           {
@@ -310837,24 +310957,42 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1,
             "store": "gocase"
+          },
+          {
+            "src": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-flip-pro.webp",
+            "alt": "Garrafa térmica Flip Pro preta da Gocase, com a tampa flip aberta e os ícones de beber inclinando ou pelo canudo",
+            "caption": "Flip Pro, 750 ml, com a tampa flip. Foto: Gocase.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p",
+            "store": "gocase"
           }
         ]
       },
       {
-        "heading": "Bagaggio: Dual",
+        "heading": "Bagaggio: Dual 600 ml e 900 ml",
         "paragraphs": [
-          "As Dual são de aço inoxidável. A ficha da Dual de 600 ml informa 0,315 kg e 20,5 × 7,2 × 7,2 cm; a Dual com alça de 900 ml, 0,425 kg e, na ficha, aço inoxidável e BPA Free. A Dual de 900 ml sem alça aparece com 23 × 9 × 9 cm.",
-          "Sobre a temperatura, a loja diz que a garrafa “mantém bebidas quentes ou geladas por horas” e, em outro trecho, por “várias horas”. Não há número. A tampa com vedação segura, diz a loja, evita vazamentos.",
-          "O preço muda com a cor. A Dual com alça de 900 ml azul está a R$ 99,90, e a preta, a R$ 129,90; a tabela usa a azul. Cada ficha dos modelos lidos traz garantia de 90 dias."
+          "As garrafas Dual da Bagaggio são de aço inoxidável. A [Dual preta de 600 ml](https://www.bagaggio.com.br/garrafa-termica-dual-600ml-preto/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) marca 0,315 kg e 20,5 × 7,2 × 7,2 cm na página (R$ 94,90 no cartão e R$ 90,16 no Pix). A [Dual com alça de 900 ml azul](https://www.bagaggio.com.br/garrafa-termica-dual-com-alca-900ml-azul/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) tem 23 × 9 × 9 cm, pesa 0,425 kg e sai a R$ 99,90 no cartão (R$ 94,90 no Pix); a página dela diz que é livre de BPA e que a tampa de vedação evita vazamentos.",
+          "Na de 900 ml, a cor muda bastante o preço: a azul com alça sai a R$ 99,90, e a [Dual com alça de 900 ml preta](https://www.bagaggio.com.br/garrafa-termica-dual-com-alca-900ml-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 129,90 no cartão (R$ 123,40 no Pix).",
+          "Sobre conservação térmica, a página da Dual com alça diz apenas que ela mantém bebidas quentes ou geladas “por horas” ou “várias horas”, sem cravar um limite; a da Dual de 600 ml traz só a ficha técnica. As páginas dos três modelos informam garantia de 90 dias."
         ],
         "images": [
           {
             "src": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
             "alt": "Garrafa térmica Dual com alça de 900 ml azul da Bagaggio sobre fundo branco, em foto oficial da página do produto",
             "caption": "Dual com alça, 900 ml, azul. Foto: Bagaggio.",
-            "href": "https://www.bagaggio.com.br/garrafa-termica-dual-com-alca-900ml-azul/p",
+            "href": "https://www.bagaggio.com.br/garrafa-termica-dual-com-alca-900ml-azul/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
             "objectFit": "contain",
             "aspectRatio": 1,
+            "store": "bagaggio"
+          },
+          {
+            "src": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-600.webp",
+            "alt": "Garrafa térmica Dual de 600 ml preta da Bagaggio, com a tampa de alça",
+            "caption": "Dual, 600 ml, preta. Foto: Bagaggio.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6579,
+            "href": "https://www.bagaggio.com.br/garrafa-termica-dual-600ml-preto/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
             "store": "bagaggio"
           }
         ]
@@ -310862,22 +311000,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Códigos de desconto das duas lojas",
         "paragraphs": [
-          "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% no site. As regras e o passo a passo estão no guia do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
-          "Na Bagaggio, o código é CECILIA10 e dá 10%. O resumo está em [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
-          "Se cada código for aplicado aos preços da tabela, a Dual com alça azul de 900 ml fica em R$ 89,91 com CECILIA10, e a Fresh de 950 ml em R$ 113,91 com CECILIAA. São simulações antes do frete. Confira o valor final no carrinho da loja que você escolher."
+          "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% OFF no pedido. As regras e o passo a passo estão na página do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
+          "Na Bagaggio, o código é CECILIA10 e dá 10% OFF em todo o site. O resumo fica em [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+          "Em simulação direta sobre os preços da tabela, a Dual com alça azul de 900 ml cairia para R$ 89,91 com CECILIA10, e a Fresh de 950 ml branca ou preta ficaria em R$ 132,90 com CECILIAA, antes do frete. Confira o valor final no carrinho da loja escolhida antes de pagar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual garrafa térmica escolher? A Dual azul de 900 ml custa menos por 100 ml nos modelos da tabela. Para bebidas quentes com uma indicação de horas na ficha, veja a Fresh. A Flip Pro é para bebidas frias.",
-          "Quanto tempo a garrafa térmica mantém a bebida? Só pelo que cada ficha diz: a Fresh, até 24h gelada e até 12h quente; a Flip Pro, até 48h gelada com gelo; a Dual, “por horas”, sem número. São promessas das lojas, e não dá para compará-las como um teste único.",
-          "Posso pôr bebida quente na Flip Pro? A Gocase diz que ela é indicada somente para bebidas frias, por causa da tampa. Para café ou chá, a ficha da Fresh traz conservação de até 12h quente.",
-          "A garrafa tem garantia? A página da Bagaggio traz 90 dias na ficha de cada modelo lido. Na Gocase, a página da Fresh diz um ano e a página da linha térmica diz 90 dias, e vale confirmar com a loja."
+          "Qual garrafa térmica escolher? A Dual azul com alça de 900 ml custa menos por 100 ml na tabela. Para bebida quente com horas declaradas na página, veja a Fresh. A Flip Pro atende apenas bebidas frias.",
+          "Quanto tempo a garrafa térmica mantém a bebida? A Gocase declara até 24h gelada e até 12h quente na Fresh, e até 48h gelada com gelo na Flip Pro. A Bagaggio informa apenas “por horas” na página da Dual com alça, sem número exato.",
+          "Posso pôr bebida quente na Flip Pro? Não: a Gocase orienta que ela seja usada somente com bebidas frias por causa do mecanismo de sucção e vedação da tampa. Para café ou chá, prefira a Fresh ou a Dual.",
+          "A garrafa tem garantia? A Bagaggio informa 90 dias nas páginas da linha Dual. Na Gocase, as páginas de produto falam em um ano contra defeito de fabricação, e a da linha térmica, em 90 dias para fabricação e montagem, um ano para conservação de temperatura e 6 meses para descascamento da estampa; confirme com a loja."
         ]
       }
-    ],
-    "updatedAt": "2026-11-21"
+    ]
   },
   {
     "id": 1276,

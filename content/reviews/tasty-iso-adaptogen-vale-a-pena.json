@@ -13,6 +13,7 @@
   },
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
+  "updatedAt": "2026-11-21",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -22,8 +23,8 @@
   "coupon": "CECILIA",
   "affiliate": "adaptogen",
   "type": "Guia de Produto",
-  "title": "Tasty Iso vale a pena? O que a página informa e quanto sai por 100 g de proteína",
-  "seoTitle": "Tasty Iso vale a pena? Preço por proteína e rótulo",
+  "title": "Tasty Iso da Adaptogen vale a pena? Rótulo e custo por 100 g de proteína",
+  "seoTitle": "Tasty Iso da Adaptogen vale a pena? Rótulo e preço",
   "description": "O Tasty Iso da Adaptogen pela página oficial: 25 g de proteína por dose, sete sabores, pote de 900 g e o preço por 100 g de proteína com o cupom CECILIA.",
   "metaDescription": "CECILIA dá 10% OFF na Adaptogen. Veja o que a loja informa do Tasty Iso: 25 g de proteína por dose, sabores e o preço por 100 g de proteína.",
   "image": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa-v2.webp",
@@ -48,34 +49,34 @@
   ],
   "decision": {
     "takeIf": [
-      "Você quer um isolado que a página descreve como zero lactose em todos os sabores do 900 g e aceita pagar mais por 100 g de proteína.",
+      "Você quer um isolado que a Adaptogen anuncia como zero lactose na maioria dos sabores, confere o rótulo do sabor escolhido e aceita pagar mais por 100 g de proteína.",
       "Você vai conferir o rótulo do lote e do sabor antes de usar."
     ],
     "skipIf": [
       "O seu critério é o menor preço por proteína: na conta, o Tasty Whey 3W e o Gold Whey da marca ficam abaixo.",
-      "Você precisa evitar glúten e escolheria o Cookies & Cream, que a página diz conter glúten.",
-      "Você espera resultado só do suplemento."
+      "Você precisa evitar glúten e escolheria o Cookies & Cream do pote ou o Cookies do Bag, que as páginas dizem conter glúten.",
+      "Você espera resultado apenas do suplemento, sem orientação nutricional."
     ]
   },
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Tasty Iso declara 25 g de proteína por porção de 30 g no pote de 900 g. No carrinho com CECILIA, custou mais por 100 g de proteína que o Tasty Whey 3W e o Gold Whey. Para escolher pelo tipo de whey ou por uma restrição alimentar, confira a fórmula do sabor."
+        "O Tasty Iso declara 25 g de proteína por dose, e a Adaptogen anuncia zero lactose na maioria dos sabores: confira o rótulo do sabor escolhido. No carrinho com o CECILIA, saiu mais caro por 100 g de proteína que o Tasty Whey 3W e o Gold Whey. Compensa para quem quer o isolado; pelo preço, ganha o Gold Whey."
       ]
     },
     {
       "heading": "O que a página do Tasty Iso 900 g informa",
       "paragraphs": [
-        "A Adaptogen descreve o Tasty Iso como whey isolado e hidrolisado. A tabela do pote de 900 g indica 25 g de proteína em 30 g de pó. Ela traz 30 porções por embalagem.",
-        "A tabela nutricional, que está numa imagem da página, traz 30 porções por pote e, por dose de 30 g, 115 kcal, 1,5 g de carboidratos (0 g de açúcares adicionados), 1 g de gorduras totais e 30 mg de sódio. A lista de ingredientes não aparece em texto na página nem na imagem da tabela: confira no rótulo do pote que chegar."
+        "A Adaptogen descreve o Tasty Iso como whey protein isolado e hidrolisado. A tabela do pote de 900 g indica 25 g de proteína em 30 g de pó e traz 30 porções por embalagem.",
+        "A imagem da tabela nutricional na página mostra, por dose de 30 g, 115 kcal, 1,5 g de carboidratos (0 g de açúcares adicionados), 1 g de gorduras totais e 30 mg de sódio. A lista completa de ingredientes não aparece em texto na página nem na imagem da tabela, então confira no rótulo do pote que chegar."
       ],
       "images": [
         {
           "src": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
           "alt": "Tabela nutricional do Tasty Iso 900 g da Adaptogen: 30 porções por embalagem, porção de 30 g, 25 g de proteínas e 115 kcal",
           "caption": "Tabela nutricional do Tasty Iso 900 g. Foto: Adaptogen.",
-          "href": "https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214",
+          "href": "https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA",
           "objectFit": "contain",
           "aspectRatio": 1
         }
@@ -84,24 +85,17 @@
     {
       "heading": "Sabores, lactose e glúten",
       "paragraphs": [
-        "Os sabores do 900 g são sete: Original, Banana, Baunilha, Chocolate Trufado, Cookies & Cream, Doce de Leite e Morango.",
-        "Na [página do Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214), a Adaptogen declara zero lactose. O Cookies & Cream é descrito como contendo glúten. Os demais aparecem como sem glúten. Se você precisa excluir algum ingrediente, use a declaração de alergênicos e a composição da embalagem do sabor escolhido."
-      ]
-    },
-    {
-      "heading": "O aviso de impressão no rótulo",
-      "paragraphs": [
-        "A página do Tasty Iso Bag de 1,8 kg traz um aviso da loja: houve um problema pontual de impressão em alguns lotes do Tasty Iso. A loja diz que o erro é só da embalagem, restrito à etiqueta e às informações impressas, e não afeta a qualidade do produto.",
-        "O aviso está na página do Bag, e a loja não diz quais lotes foram atingidos. Por isso, na chegada, leia o rótulo do seu pote, confira sabor, lote e validade e, se algo não bater com a página, fale com a loja."
+        "Os sabores do pote de 900 g são sete: Original, Banana, Baunilha, Chocolate Trufado, Cookies & Cream, Doce de Leite e Morango.",
+        "Na [página do Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), a lista de sabores marca zero lactose em todos, embora outro trecho da mesma página fale em “a maioria dos sabores”. O Cookies & Cream é descrito como contendo glúten, e os demais aparecem como sem glúten. Se você precisa excluir algum ingrediente da rotina, confira a declaração de alergênicos e a composição impressa na embalagem do sabor escolhido."
       ]
     },
     {
       "heading": "Os tamanhos da linha Tasty Iso",
       "paragraphs": [
-        "A Adaptogen vende o Tasty Iso em quatro versões. A porção em gramas não está no texto das páginas do Naturalle, do Bag e do Pure: ela vem das imagens das tabelas nutricionais e do rótulo."
+        "A Adaptogen vende o Tasty Iso em quatro apresentações. No Naturalle e no Bag, a porção em gramas só aparece nas imagens das tabelas nutricionais; a página do Pure informa cerca de 30 g no modo de uso."
       ],
       "comparisonTable": {
-        "caption": "A loja informa: preços da vitrine em 21 de novembro de 2026, sem cupom. Pix e cartão aparecem separados; nenhum deles inclui o CECILIA. As porções saem das imagens das tabelas.",
+        "caption": "Preços da vitrine em 21/11/2026, sem cupom. Pix e cartão aparecem separados; nenhum deles inclui o CECILIA. As porções vêm das imagens das tabelas.",
         "headers": [
           "Produto",
           "Pix",
@@ -110,25 +104,25 @@
         ],
         "rows": [
           [
-            "Tasty Iso 900 g, 7 sabores",
+            "[Tasty Iso 900 g, 7 sabores](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA)",
             "R$ 372,18",
             "6x de R$ 65,30",
             "30 g; 25 g; 30 porções"
           ],
           [
-            "Tasty Iso Bag 1,8 kg, 4 sabores",
-            "R$ 782,70",
-            "6x de R$ 137,32",
-            "31 g; 25 g; cerca de 58 porções"
+            "[Tasty Iso Bag 1,8 kg, 4 sabores](https://www.adaptogen.com.br/produto/tasty-iso-bag-1-8-kg-4-sabores-150221?parceiro=CECILIA)",
+            "R$ 665,30",
+            "6x de R$ 116,72",
+            "30 g; 25 g; 60 porções (Chocolate Trufado: 31 g; cerca de 58)"
           ],
           [
-            "Tasty Iso Naturalle 450 g, 2 sabores",
+            "[Tasty Iso Naturalle 450 g, 2 sabores](https://www.adaptogen.com.br/produto/tasty-iso-naturalle-450g-2-sabores-150220?parceiro=CECILIA)",
             "R$ 211,84",
             "4x de R$ 55,75",
             "30 g; 25 g; 15 porções"
           ],
           [
-            "Tasty Iso Pure 900 g, sem sabor",
+            "[Tasty Iso Pure 900 g, sem sabor](https://www.adaptogen.com.br/produto/tasty-iso-pure-sem-sabor-150459?parceiro=CECILIA)",
             "R$ 437,86",
             "6x de R$ 76,82",
             "30 g; 25 g; 30 porções"
@@ -136,26 +130,35 @@
         ]
       },
       "postParagraphs": [
-        "O Naturalle, segundo a página, é adoçado com estévia e sem açúcar, glúten ou lactose. A imagem do Pure traz os selos zero lactose, zero glúten e zero adoçante, mas está marcada como imagem ilustrativa, e a página do Pure não repete essas informações em texto."
+        "A página do Naturalle informa que ele é adoçado com estévia e não leva açúcar, glúten ou lactose. A página do Pure informa zero lactose, zero glúten e fórmula sem adição de açúcares ou adoçantes.",
+        "No [Tasty Iso Bag 1,8 kg](https://www.adaptogen.com.br/produto/tasty-iso-bag-1-8-kg-4-sabores-150221?parceiro=CECILIA), a tabela do Chocolate Trufado traz porção de 31 g e cerca de 58 porções; as dos outros três sabores, 30 g e 60 porções. O sabor Cookies contém glúten. A página também avisa de um problema pontual de impressão em alguns lotes, restrito à embalagem e sem efeito na composição; como ela não lista os lotes, confira sabor, tabela e validade no pacote que chegar."
       ],
       "images": [
         {
           "src": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
           "alt": "Pote do Tasty Iso Pure sem sabor da Adaptogen, com 900 g, 30 porções e 25 g de proteína no rótulo",
           "caption": "Tasty Iso Pure, sem sabor. Foto: Adaptogen.",
-          "href": "https://www.adaptogen.com.br/produto/tasty-iso-pure-sem-sabor-150459",
+          "href": "https://www.adaptogen.com.br/produto/tasty-iso-pure-sem-sabor-150459?parceiro=CECILIA",
           "objectFit": "contain",
           "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-bag-1-8kg.webp",
+          "alt": "Pacote Tasty Iso Bag de 1,8 kg da Adaptogen, sabor Sorvete de Baunilha, com o selo de 60 porções",
+          "caption": "Tasty Iso Bag de 1,8 kg, sabor Sorvete de Baunilha. Foto: Adaptogen.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.adaptogen.com.br/produto/tasty-iso-bag-1-8-kg-4-sabores-150221?parceiro=CECILIA"
         }
       ]
     },
     {
       "heading": "Quanto sai por 100 g de proteína",
       "paragraphs": [
-        "Dividimos o preço de cada pote pela proteína declarada para a embalagem e multiplicamos por 100. O teste usa Banana no Tasty Iso, Banoffee no 3W e Baunilha no Gold. O Pix fica fora. A [ficha oficial do Banoffee](https://adaptogen.com.br/tasty-whey-banoffe-900g/) informa cerca de 26 porções e 24 g de proteína por porção."
+        "Dividimos o preço de cada pote pela proteína total declarada para a embalagem e multiplicamos por 100. O teste de carrinho usa Banana no Tasty Iso, Banoffee no 3W e Baunilha no Gold, sem desconto de Pix. A página do Tasty Whey 3W informa porção de 34 g, cerca de 26 porções e 24 g de proteína, como valores de referência que podem variar conforme o sabor."
       ],
       "comparisonTable": {
-        "caption": "Carrinhos com CECILIA. A conta usa porções por embalagem × gramas de proteína por porção. Para Banoffee 3W, a base foi cerca de 26 porções, com 24 g de proteína cada.",
+        "caption": "Carrinhos com CECILIA. A conta usa porções por embalagem × gramas de proteína por porção. Para o Tasty Whey 3W, a base foi a tabela de referência da página: cerca de 26 porções com 24 g de proteína cada.",
         "headers": [
           "Produto de 900 g",
           "Carrinho com o CECILIA",
@@ -164,19 +167,19 @@
         ],
         "rows": [
           [
-            "Tasty Iso",
+            "[Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA)",
             "R$ 352,59",
             "750 g",
             "R$ 47,01"
           ],
           [
-            "Tasty Whey 3W Gourmet",
+            "[Tasty Whey 3W Gourmet](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
             "R$ 243,20",
             "cerca de 624 g",
             "R$ 38,97"
           ],
           [
-            "Gold Whey",
+            "[Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA)",
             "R$ 201,12",
             "630 g",
             "R$ 31,92"
@@ -184,35 +187,45 @@
         ]
       },
       "postParagraphs": [
-        "Por pote, o Tasty Iso dá R$ 11,75 por dose de 25 g de proteína. Na conta, ele sai acima dos outros dois da mesma marca. Isso é preço por proteína declarada; não diz nada sobre sabor, digestão ou resultado.",
-        "Nos outros três tamanhos, o carrinho com o código não entra na conta. Pela mesma conta, no Pix e sem cupom, o preço por 100 g de proteína é de R$ 53,98 no Bag, R$ 56,49 no Naturalle e R$ 58,38 no Pure.",
-        "Os preços da vitrine mudam com campanhas; o [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen) explica como a loja os apresenta."
+        "Por pote de 900 g com o cupom, o Tasty Iso sai a R$ 11,75 por dose de 25 g de proteína. Na conta por proteína declarada, ele fica acima dos outros dois wheys da mesma marca.",
+        "Nos outros três tamanhos do Tasty Iso, os carrinhos com cupom não entraram na medição. Pela mesma conta no preço de Pix sem cupom, o custo por 100 g de proteína fica em R$ 49,62 no pote de 900 g, R$ 44,35 no Bag 1,8 kg (R$ 45,88 no Chocolate Trufado), R$ 56,49 no Naturalle 450 g e R$ 58,38 no Pure 900 g.",
+        "Os valores da vitrine mudam com campanhas; o [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen) explica como a loja exibe os descontos."
       ]
     },
     {
       "heading": "Tasty Whey 3W ou Gold Whey?",
       "paragraphs": [
-        "Para gastar menos por 100 g de proteína, o Gold fica em primeiro nos três carrinhos. O Tasty Iso é a opção desta comparação descrita pela Adaptogen como uma combinação de whey isolado e hidrolisado. Se a lactose pesa na escolha, use a informação do rótulo do sabor escolhido.",
-        "A comparação dos wheys e da creatina da marca está no guia [Adaptogen é boa?](/reviews/adaptogen-e-boa). O passo a passo do código está em [como usar o cupom](/reviews/cupom-adaptogen-como-usar), e a página da loja é a do [cupom Adaptogen](/cupons/adaptogen)."
+        "Para gastar menos por 100 g de proteína, o Gold Whey fica em primeiro nos três carrinhos com CECILIA. O Tasty Iso é a opção desta comparação descrita pela Adaptogen como proteína isolada e hidrolisada, e faz mais sentido quando a lactose pesa na escolha: a página do Tasty Whey 3W informa que ele contém lactose. Confira o rótulo do sabor.",
+        "A comparação entre os wheys e a creatina da marca está em [Adaptogen é boa?](/reviews/adaptogen-e-boa). O passo a passo do código fica em [como usar o cupom](/reviews/cupom-adaptogen-como-usar), e as regras da loja estão na página do [cupom Adaptogen](/cupons/adaptogen)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/adaptogen/adaptogen-gold-whey-900g.webp",
+          "alt": "Pacote do Gold Whey de 900 g da Adaptogen",
+          "caption": "Gold Whey, 900 g. Foto: Adaptogen.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA"
+        }
       ]
     },
     {
       "heading": "Antes de começar um suplemento",
       "paragraphs": [
-        "As porções citadas são as da página e do rótulo e servem às contas de preço, não à indicação de quanto tomar. Quem tem doença renal, está grávida ou amamenta, ou toma algum remédio, fala com o médico antes de começar."
+        "As porções citadas vêm da página e do rótulo e servem para calcular o custo, não para indicar quanto tomar. Quem tem doença renal, está grávida, amamenta ou usa medicamentos deve conversar com médico ou nutricionista antes de iniciar o uso."
       ]
     },
     {
       "heading": "O que não dá para saber daqui",
       "paragraphs": [
-        "Sabor, textura e digestão ficam fora do que a página informa, e este texto não usa avaliações de clientes. A lista de ingredientes do 900 g e os alergênicos além do que o texto dos sabores informa também não estão na página: o rótulo do pote é a fonte."
+        "Sabor, textura e digestão ficam fora do que a página informa, e este guia não usa avaliações de clientes."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "O Tasty Iso é isolado ou concentrado? A página o descreve como proteína isolada e hidrolisada, processada a frio.",
-        "O Tasty Iso tem zero lactose? Segundo a página, sim, em todos os sabores do 900 g; o Cookies & Cream contém glúten, e os demais são descritos como sem glúten.",
+        "O Tasty Iso tem zero lactose? A lista de sabores da página do 900 g marca zero lactose em todos, mas outro trecho fala em “a maioria dos sabores”: confira o rótulo do sabor. O Cookies & Cream contém glúten, e os demais são descritos como sem glúten.",
         "Tem cupom para o Tasty Iso? Sim: o cupom CECILIA dá 10% OFF no site da Adaptogen, digitado no campo Cupom de desconto do checkout."
       ]
     }
