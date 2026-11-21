@@ -198076,7 +198076,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Entre os avaliadores do recorte usado na tabela, 54% disseram que voltariam a comprar. O índice de solução não mede a satisfação de todos os clientes. No histórico de até 3 anos, produto não recebido é o tema mais citado, seguido das taças. Relatos de falsificação são alegações de consumidores, sem confirmação; a presença no localizador Le Creuset é um dado separado. Guarde a nota fiscal e confira a peça ao receber.",
-          "A política de troca ajuda: 30 dias da entrega para devolver, com reembolso integral ou crédito na loja sem validade, frete grátis na devolução, promoção que também pode ser devolvida e defeito coberto por 90 dias. Há também um texto padrão de reembolso com regras diferentes: se uma regra decidir a sua compra, peça a confirmação por escrito ao atendimento. A loja física é a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h, sem agendamento; quem mora perto troca ali, mas o pedido do site não pode ser retirado lá. O CNPJ completo, as políticas e o que observar antes de comprar estão em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel)."
+          "A política de troca ajuda: 30 dias da entrega para devolver, com reembolso integral ou crédito na loja sem validade, frete grátis na devolução, promoção que também pode ser devolvida e defeito coberto por 90 dias. Há também um texto padrão de reembolso com regras diferentes: se uma regra decidir a sua compra, peça a confirmação por escrito ao atendimento. A loja física é a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo; o horário e o que dá para fazer lá estão em [Let's Eat It tem loja física?](/reviews/lets-eat-it-loja-fisica-endereco). O CNPJ completo, as políticas e o que observar antes de comprar estão em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel)."
         ],
         "images": [
           {
@@ -198106,7 +198106,7 @@ export const reviewsData: unknown[] = [
           "A Let's Eat It é confiável? Sim: empresa ativa com filiais em quatro estados, troca em 30 dias e reputação Boa no Reclame Aqui; o pós-venda resolve, mas pode demorar, como mostra o capítulo de confiança.",
           "A Let's Eat It vende Le Creuset original? A loja está no localizador oficial de revendedores da Le Creuset Brasil, com o endereço da filial de Serra (ES); guarde a nota fiscal, que a marca pede para analisar a garantia.",
           "Tem cupom de primeira compra? A loja não publica cupom de primeira compra; o código MAUAD dá 5% no site, e soma com o desconto do Pix.",
-          "A Let's Eat It tem loja física? Tem, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta sem agendamento; o pedido feito no site não pode ser retirado lá.",
+          "A Let's Eat It tem loja física? Tem, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo. O MAUAD vale só no site. Veja o horário e a condição presencial no [guia da loja física](/reviews/lets-eat-it-loja-fisica-endereco).",
           "A Let's Eat It é boa para presente? É, para presente de casa: aparelho de jantar, taças, faqueiro e Le Creuset, com troca em 30 dias da entrega; confira o prazo de entrega do CEP de quem ganha, no capítulo de frete."
         ]
       }
@@ -309402,5 +309402,2162 @@ export const reviewsData: unknown[] = [
       }
     ],
     "updatedAt": "2026-11-21"
+  },
+  {
+    "id": 1270,
+    "slug": "tasty-iso-adaptogen-vale-a-pena",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIA",
+    "affiliate": "adaptogen",
+    "type": "Guia de Produto",
+    "title": "Tasty Iso vale a pena? O que a página informa e quanto sai por 100 g de proteína",
+    "seoTitle": "Tasty Iso vale a pena? Preço por proteína e rótulo",
+    "description": "O Tasty Iso da Adaptogen pela página oficial: 25 g de proteína por dose, sete sabores, pote de 900 g e o preço por 100 g de proteína com o cupom CECILIA.",
+    "metaDescription": "CECILIA dá 10% OFF na Adaptogen. Veja o que a loja informa do Tasty Iso: 25 g de proteína por dose, sabores e o preço por 100 g de proteína.",
+    "image": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa.webp",
+    "imageAlt": "Pote do Tasty Iso 900 g, sabor banana, em foto da Adaptogen com o logo da marca, os textos «Tasty Iso / vale a pena?» e o código CECILIA.",
+    "cta": {
+      "text": "Se o Tasty Iso faz sentido para a sua compra, abra o site pelo botão, monte o carrinho e digite CECILIA no campo Cupom de desconto do checkout. Confira a linha Cupom no resumo antes de pagar.",
+      "label": "Ir para a Adaptogen",
+      "url": "https://www.adaptogen.com.br/?parceiro=CECILIA",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as páginas oficiais da Adaptogen. Não usamos o produto. Somos parceiros da Adaptogen e podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "adaptogen-e-boa"
+      },
+      {
+        "slug": "cupom-adaptogen-como-usar"
+      },
+      {
+        "slug": "black-friday-adaptogen"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer um isolado que a página descreve como zero lactose em todos os sabores do 900 g e aceita pagar mais por 100 g de proteína.",
+        "Você vai conferir o rótulo do lote e do sabor antes de usar."
+      ],
+      "skipIf": [
+        "O seu critério é o menor preço por proteína: na conta, o Tasty Whey 3W e o Gold Whey da marca ficam abaixo.",
+        "Você precisa evitar glúten e escolheria o Cookies & Cream, que a página diz conter glúten.",
+        "Você espera resultado só do suplemento."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Tasty Iso declara 25 g de proteína por porção de 30 g no pote de 900 g. No carrinho com CECILIA, custou mais por 100 g de proteína que o Tasty Whey 3W e o Gold Whey. Para escolher pelo tipo de whey ou por uma restrição alimentar, confira a fórmula do sabor."
+        ]
+      },
+      {
+        "heading": "O que a página do Tasty Iso 900 g informa",
+        "paragraphs": [
+          "A Adaptogen descreve o Tasty Iso como whey isolado e hidrolisado. A tabela do pote de 900 g indica 25 g de proteína em 30 g de pó. Ela traz 30 porções por embalagem.",
+          "A tabela nutricional, que está numa imagem da página, traz 30 porções por pote e, por dose de 30 g, 115 kcal, 1,5 g de carboidratos (0 g de açúcares adicionados), 1 g de gorduras totais e 30 mg de sódio. A lista de ingredientes não aparece em texto na página nem na imagem da tabela: confira no rótulo do pote que chegar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
+            "alt": "Tabela nutricional do Tasty Iso 900 g da Adaptogen: 30 porções por embalagem, porção de 30 g, 25 g de proteínas e 115 kcal",
+            "caption": "Tabela nutricional do Tasty Iso 900 g. Foto: Adaptogen.",
+            "href": "https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Sabores, lactose e glúten",
+        "paragraphs": [
+          "Os sabores do 900 g são sete: Original, Banana, Baunilha, Chocolate Trufado, Cookies & Cream, Doce de Leite e Morango.",
+          "Na [página do Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214), a Adaptogen declara zero lactose. O Cookies & Cream é descrito como contendo glúten. Os demais aparecem como sem glúten. Se você precisa excluir algum ingrediente, use a declaração de alergênicos e a composição da embalagem do sabor escolhido."
+        ]
+      },
+      {
+        "heading": "O aviso de impressão no rótulo",
+        "paragraphs": [
+          "A página do Tasty Iso Bag de 1,8 kg traz um aviso da loja: houve um problema pontual de impressão em alguns lotes do Tasty Iso. A loja diz que o erro é só da embalagem, restrito à etiqueta e às informações impressas, e não afeta a qualidade do produto.",
+          "O aviso está na página do Bag, e a loja não diz quais lotes foram atingidos. Por isso, na chegada, leia o rótulo do seu pote, confira sabor, lote e validade e, se algo não bater com a página, fale com a loja."
+        ]
+      },
+      {
+        "heading": "Os tamanhos da linha Tasty Iso",
+        "paragraphs": [
+          "A Adaptogen vende o Tasty Iso em quatro versões. A porção em gramas não está no texto das páginas do Naturalle, do Bag e do Pure: ela vem das imagens das tabelas nutricionais e do rótulo."
+        ],
+        "comparisonTable": {
+          "caption": "A loja informa: preços da vitrine em 21 de novembro de 2026, sem cupom. Pix e cartão aparecem separados; nenhum deles inclui o CECILIA. As porções saem das imagens das tabelas.",
+          "headers": [
+            "Produto",
+            "Pix",
+            "Cartão",
+            "Porção e proteína"
+          ],
+          "rows": [
+            [
+              "Tasty Iso 900 g, 7 sabores",
+              "R$ 372,18",
+              "6x de R$ 65,30",
+              "30 g; 25 g; 30 porções"
+            ],
+            [
+              "Tasty Iso Bag 1,8 kg, 4 sabores",
+              "R$ 782,70",
+              "6x de R$ 137,32",
+              "31 g; 25 g; cerca de 58 porções"
+            ],
+            [
+              "Tasty Iso Naturalle 450 g, 2 sabores",
+              "R$ 211,84",
+              "4x de R$ 55,75",
+              "30 g; 25 g; 15 porções"
+            ],
+            [
+              "Tasty Iso Pure 900 g, sem sabor",
+              "R$ 437,86",
+              "6x de R$ 76,82",
+              "30 g; 25 g; 30 porções"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Naturalle, segundo a página, é adoçado com estévia e sem açúcar, glúten ou lactose. A imagem do Pure traz os selos zero lactose, zero glúten e zero adoçante, mas está marcada como imagem ilustrativa, e a página do Pure não repete essas informações em texto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
+            "alt": "Pote do Tasty Iso Pure sem sabor da Adaptogen, com 900 g, 30 porções e 25 g de proteína no rótulo",
+            "caption": "Tasty Iso Pure, sem sabor. Foto: Adaptogen.",
+            "href": "https://www.adaptogen.com.br/produto/tasty-iso-pure-sem-sabor-150459",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Quanto sai por 100 g de proteína",
+        "paragraphs": [
+          "Dividimos o preço de cada pote pela proteína declarada para a embalagem e multiplicamos por 100. O teste usa Banana no Tasty Iso, Banoffee no 3W e Baunilha no Gold. O Pix fica fora. A [ficha oficial do Banoffee](https://adaptogen.com.br/tasty-whey-banoffe-900g/) informa cerca de 26 porções e 24 g de proteína por porção."
+        ],
+        "comparisonTable": {
+          "caption": "Carrinhos com CECILIA. A conta usa porções por embalagem × gramas de proteína por porção. Para Banoffee 3W, a base foi cerca de 26 porções, com 24 g de proteína cada.",
+          "headers": [
+            "Produto de 900 g",
+            "Carrinho com o CECILIA",
+            "Proteína no pote",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Tasty Iso",
+              "R$ 352,59",
+              "750 g",
+              "R$ 47,01"
+            ],
+            [
+              "Tasty Whey 3W Gourmet",
+              "R$ 243,20",
+              "cerca de 624 g",
+              "R$ 38,97"
+            ],
+            [
+              "Gold Whey",
+              "R$ 201,12",
+              "630 g",
+              "R$ 31,92"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Por pote, o Tasty Iso dá R$ 11,75 por dose de 25 g de proteína. Na conta, ele sai acima dos outros dois da mesma marca. Isso é preço por proteína declarada; não diz nada sobre sabor, digestão ou resultado.",
+          "Nos outros três tamanhos, o carrinho com o código não entra na conta. Pela mesma conta, no Pix e sem cupom, o preço por 100 g de proteína é de R$ 53,98 no Bag, R$ 56,49 no Naturalle e R$ 58,38 no Pure.",
+          "Os preços da vitrine mudam com campanhas; o [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen) explica como a loja os apresenta."
+        ]
+      },
+      {
+        "heading": "Tasty Whey 3W ou Gold Whey?",
+        "paragraphs": [
+          "Para gastar menos por 100 g de proteína, o Gold fica em primeiro nos três carrinhos. O Tasty Iso é a opção desta comparação descrita pela Adaptogen como uma combinação de whey isolado e hidrolisado. Se a lactose pesa na escolha, use a informação do rótulo do sabor escolhido.",
+          "A comparação dos wheys e da creatina da marca está no guia [Adaptogen é boa?](/reviews/adaptogen-e-boa). O passo a passo do código está em [como usar o cupom](/reviews/cupom-adaptogen-como-usar), e a página da loja é a do [cupom Adaptogen](/cupons/adaptogen)."
+        ]
+      },
+      {
+        "heading": "Antes de começar um suplemento",
+        "paragraphs": [
+          "As porções citadas são as da página e do rótulo e servem às contas de preço, não à indicação de quanto tomar. Quem tem doença renal, está grávida ou amamenta, ou toma algum remédio, fala com o médico antes de começar."
+        ]
+      },
+      {
+        "heading": "O que não dá para saber daqui",
+        "paragraphs": [
+          "Sabor, textura e digestão ficam fora do que a página informa, e este texto não usa avaliações de clientes. A lista de ingredientes do 900 g e os alergênicos além do que o texto dos sabores informa também não estão na página: o rótulo do pote é a fonte."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Tasty Iso é isolado ou concentrado? A página o descreve como proteína isolada e hidrolisada, processada a frio.",
+          "O Tasty Iso tem zero lactose? Segundo a página, sim, em todos os sabores do 900 g; o Cookies & Cream contém glúten, e os demais são descritos como sem glúten.",
+          "Tem cupom para o Tasty Iso? Sim: o cupom CECILIA dá 10% OFF no site da Adaptogen, digitado no campo Cupom de desconto do checkout."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1271,
+    "slug": "rituaria-brain-para-que-serve",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "rituaria",
+    "type": "Guia de Produto",
+    "title": "Rituária Brain+: o que vem no frasco, como o rótulo orienta e quanto custa",
+    "seoTitle": "Rituária Brain+: composição e preço por dia",
+    "description": "O Brain+ da Rituária pela página da loja: composição com doses, o modo de uso de 2 cápsulas ao dia, a fórmula sem cafeína e o preço por dia de uso com o EMCASA.",
+    "metaDescription": "EMCASA dá 10% OFF na Rituária. Veja o que a loja informa do Brain+: composição, sem cafeína e 2 cápsulas ao dia.",
+    "image": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa.webp",
+    "imageAlt": "Frasco âmbar do Brain+ com rótulo lilás, em foto da Rituária com o logo da marca, os textos «Rituária Brain+ / para que serve» e o código EMCASA.",
+    "cta": {
+      "text": "Veja o rótulo e as opções de embalagem no site da Rituária. No avulso, o EMCASA entrou no teste feito no checkout.",
+      "label": "Ir para a Rituária",
+      "url": "https://www.rituaria.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com a página do produto no site oficial; não tomamos o Brain+. Somos parceiros da Rituária e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "rituaria-e-boa"
+      },
+      {
+        "slug": "cupom-rituaria-como-usar"
+      },
+      {
+        "slug": "black-friday-rituaria"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você procura um suplemento em cápsulas que a loja descreve como livre de cafeína e aceita o modo de uso da página, de 2 cápsulas ao dia.",
+        "Você já conferiu o rótulo do frasco e a composição bate com o que você quer comparar."
+      ],
+      "skipIf": [
+        "Você toma remédio, está grávida ou amamenta e ainda não falou com o médico.",
+        "Você tem alergia a soja: a página informa que a fórmula contém derivados de soja.",
+        "Você espera o resultado que a loja descreve. A página informa, mas não demonstra o efeito."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Brain+ da Rituária vem com 60 cápsulas. A página informa fórmula sem cafeína e orienta duas cápsulas ao dia, o que rende 30 dias por frasco. A tabela mostra quanto custou o avulso com EMCASA e quanto isso dá por dia. Confira a composição e os avisos do rótulo."
+        ]
+      },
+      {
+        "heading": "O que o Brain+ tem, segundo a página",
+        "paragraphs": [
+          "A página da [Rituária para o Brain+](https://www.rituaria.com.br/pages/brain-plus) lista 100 mg de fosfatidilserina, 300 mg de L-tirosina, 300 mg de taurina e 100 mg de colina. São as quantidades informadas pela marca.",
+          "A lista de ingredientes traz taurina, L-tirosina, fosfatidilserina de lecitina de soja, bitartarato de colina, cloridrato de piridoxina (vitamina B6), metilcobalamina (B12) e o antiumectante dióxido de silício. A cápsula é de HPMC, com corante natural clorofila.",
+          "A loja avisa que a fórmula “contém derivados de soja”, não contém glúten e é vegana. As vitaminas B6 e B12 aparecem sem dose em texto, e a tabela nutricional com os percentuais de valor diário não vem escrita na página. Se você precisa dessas quantidades, confira o rótulo do frasco."
+        ]
+      },
+      {
+        "heading": "Como ler a proposta do Brain+",
+        "paragraphs": [
+          "A Rituária apresenta o Brain+ como suplemento sem cafeína. Use a lista de ingredientes e as quantidades do rótulo para comparar produtos. Para alegações de efeito em foco ou concentração, a [Anvisa orienta atenção à publicidade de suplementos](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/cuidado-com-a-propaganda-enganosa/)."
+        ]
+      },
+      {
+        "heading": "Como tomar o Brain+",
+        "paragraphs": [
+          "O modo de uso que a marca publica para o avulso é de duas cápsulas ao dia com água.",
+          "O rótulo do frasco avulso mostra 60 cápsulas de 550 mg cada. Com 2 por dia, são 30 dias, o que bate com o “30 dias” do título da página. Essa conta é nossa.",
+          "Essa informação serve para estimar o rendimento e o custo diário. Siga o rótulo da embalagem e procure orientação profissional antes de iniciar o uso se toma medicamentos ou tem uma condição de saúde."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/rituaria/rituaria-brain-para-que-serve-frasco.webp",
+            "alt": "Frasco âmbar do Brain+ da Rituária com rótulo lilás, que traz a fórmula e 60 cápsulas de 550 mg cada",
+            "caption": "O rótulo do frasco avulso mostra 60 cápsulas de 550 mg cada. Foto: Rituária.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/brain-nootropico"
+          }
+        ]
+      },
+      {
+        "heading": "Preço, kits e preço por dia",
+        "paragraphs": [
+          "No carrinho com um Brain+ avulso, o [cupom Rituária](/cupons/rituaria) EMCASA tirou R$ 6,99 do total de R$ 69,90, e o valor foi para R$ 62,91. Os 10% entram no campo “Tem um cupom?” do checkout; o passo a passo está no [guia do cupom EMCASA](/reviews/cupom-rituaria-como-usar).",
+          "O checkout também mostra um aviso da loja de 5% de desconto no Pix, que não entra nas contas deste capítulo."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de venda da página em 21/11/2026. Por dia: conta nossa, com 2 cápsulas ao dia e 30 dias por frasco avulso. O desconto do EMCASA foi testado só no Brain+ avulso.",
+          "headers": [
+            "Opção",
+            "Preço na página",
+            "Com o EMCASA",
+            "Por dia"
+          ],
+          "rows": [
+            [
+              "Brain+ avulso, 30 dias",
+              "R$ 69,90",
+              "R$ 62,91",
+              "R$ 2,10"
+            ],
+            [
+              "2x Brain+",
+              "R$ 139,90",
+              "Confira no checkout",
+              "Sem cálculo"
+            ],
+            [
+              "3x Brain+",
+              "R$ 189,90",
+              "Confira no checkout",
+              "Sem cálculo"
+            ],
+            [
+              "Kit Performance Masculina (Nutri Men + Brain+)",
+              "R$ 124,90",
+              "Confira no checkout",
+              "Sem cálculo"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A página comercial apresenta opções para 60 e 90 dias, mas os títulos dos kits falam em 60 e 90 cápsulas. O avulso tem 60 cápsulas para 30 dias. Confirme com a Rituária a quantidade total de cápsulas antes de comparar o custo diário dos kits.",
+          "Sem o cupom, o avulso dá cerca de R$ 2,33 por dia. A loja também mostra “2x R$ 34,95 sem juros” no avulso."
+        ]
+      },
+      {
+        "heading": "Antes de começar",
+        "paragraphs": [
+          "A página indica o produto para pessoas de 19 anos ou mais. Durante a gestação ou amamentação, confirme com o profissional que acompanha você antes de usar.",
+          "Leve a lista de ingredientes e o rótulo para a consulta. A fórmula declara derivados de soja.",
+          "Ao receber o frasco, leia o rótulo inteiro e compare com o que a página informa."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O que a página informa sobre o Brain+? A Rituária apresenta um suplemento em cápsulas sem cafeína. As quantidades informadas pela marca estão na seção de composição.",
+          "O Brain+ tem cafeína? A página traz o selo “livre de cafeína” e o título fala em fórmula sem cafeína.",
+          "Como tomar o Brain+? A orientação publicada pela Rituária é de duas cápsulas ao dia com água para o avulso. Confira as instruções na embalagem.",
+          "Gestante pode tomar o Brain+? Converse com quem acompanha a gestação ou a amamentação antes de usar o suplemento.",
+          "Tem cupom para o Brain+? O EMCASA dá 10% OFF na Rituária e foi aplicado no carrinho do Brain+ avulso. Digite o código no campo de cupom do checkout e confira a linha do desconto antes de pagar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1272,
+    "slug": "pink-stick-qual-cor-escolher",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "PNK-EMCASACOMCECILIA",
+    "affiliate": "pinkcheeks",
+    "title": "Pink Stick: qual cor escolher entre as nove, do 5 KM ao 100 KM ULTRA",
+    "seoTitle": "Pink Stick: qual cor escolher pela distância",
+    "type": "Guia de Escolha",
+    "description": "Os nove tons do Pink Stick, do 5 KM incolor ao 100 KM ULTRA, com o FPS e o FPUVA da ficha e o que a loja informa sobre água e suor. O que a página não diz também está aqui.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF no Pink Stick. Veja as nove cores, do 5 KM ao 100 KM ULTRA, e o que a ficha diz sobre FPS, FPUVA e suor.",
+    "image": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+    "imageAlt": "Pink Stick 21 KM aberto, com embalagem branca e laranja e uma amostra da cor ao lado, em foto da Pink Cheeks com o logo da marca, os textos «Pink Stick / qual cor escolher?» e o código PNK-EMCASACOMCECILIA.",
+    "cta": {
+      "text": "Veja os tons do Pink Stick na Pink Cheeks. No checkout, aplique PNK-EMCASACOMCECILIA e confira os 10% OFF.",
+      "label": "Ir para a Pink Cheeks",
+      "url": "https://pinkcheeks.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Não usamos o Pink Stick: o texto segue o que a Pink Cheeks publica no site, com atribuição. Somos parceiros da Pink Cheeks e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "pinkcheeks-e-boa"
+      },
+      {
+        "slug": "cupom-pinkcheeks-como-usar"
+      },
+      {
+        "slug": "pinkcheeks-e-confiavel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer um bastão com cor e aceita escolher o tom pelas fotos da loja, já que a página não diz qual combina com cada pele.",
+        "Você quer a ficha com FPS 90 e FPUVA 70 e vai olhar o 5 KM, que a loja marca como sem cor, ou um dos oito tons com cor."
+      ],
+      "skipIf": [
+        "Você quer a cobertura que a ficha do Pro Stick compara à de uma base: ele tem seis tons e FPS 96.",
+        "Você quer um bastão transparente, sem escolher tom: o Clear Stick tem FPS 70, FPUVA 50 e uma versão só."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Quer um Pink Stick sem cor? A Pink Cheeks identifica o 5 KM como incolor. Os outros oito são vendidos com cor. As distâncias nomeiam as versões. Para escolher entre os tons, compare as fotos e use a prova virtual da loja como referência. A ficha informa FPS 90 e FPUVA 70."
+        ]
+      },
+      {
+        "heading": "Os nove tons do Pink Stick",
+        "paragraphs": [
+          "A Pink Cheeks vende cada tom como uma página própria, e todos aparecem disponíveis no site. A página do 21 KM diz: “Tem 9 tonalidades — do 5KM ao 100KM ULTRA — incluindo uma incolor.” A incolor é o 5 KM, que o site marca como “Sem Cor”. Os outros oito levam a marca “Com Cor”."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda de cada tom no site da Pink Cheeks em 21/11/2026, antes do frete.",
+          "headers": [
+            "Tom",
+            "Marcação no site",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "5 KM",
+              "Sem Cor",
+              "R$ 99,90"
+            ],
+            [
+              "10 KM",
+              "Com Cor",
+              "R$ 99,90"
+            ],
+            [
+              "15 KM",
+              "Com Cor",
+              "R$ 99,90"
+            ],
+            [
+              "21 KM",
+              "Com Cor",
+              "R$ 99,90"
+            ],
+            [
+              "42 KM",
+              "Com Cor",
+              "R$ 99,90"
+            ],
+            [
+              "42 KM RIO",
+              "Com Cor",
+              "R$ 99,90"
+            ],
+            [
+              "60 KM ULTRA",
+              "Com Cor",
+              "R$ 99,90"
+            ],
+            [
+              "80 KM ULTRA",
+              "Com Cor",
+              "R$ 99,90"
+            ],
+            [
+              "100 KM ULTRA",
+              "Com Cor",
+              "R$ 99,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Cor pelo nome da corrida",
+        "paragraphs": [
+          "Os nomes remetem à corrida, segundo a loja. A distância identifica o produto. Na hora de escolher, use as fotos e amostras de cada página para comparar os tons na pele. A loja também oferece o botão de prova virtual.",
+          "O [guia Pink Cheeks é boa?](/reviews/pinkcheeks-e-boa) reúne amostras identificadas por tom. Compare mais de uma foto, pois a luz e a tela mudam a aparência da cor."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+            "alt": "Modelo aplicando o Pink Stick no rosto, com etiquetas da loja sobre FPS 90, acabamento natural, textura leve e cobertura média",
+            "caption": "Foto do Pink Stick 21 KM na página da loja. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Pink Stick, Pro Stick ou Clear Stick",
+        "paragraphs": [
+          "Os três são bastões faciais da mesma loja, e a diferença está na ficha. A loja descreve o Pro Stick como “corrige imperfeições do tom e da textura com cobertura semelhante à de base e 6 opções de tons”, com acabamento mate. O Clear Stick é descrito como “completamente transparente” e de “toque seco”. Do Pink Stick, a ficha fala em cor e nada mais sobre cobertura além das etiquetas da foto.",
+          "Na foto da loja, a embalagem do Pro Stick mostra 16 g, e a do Clear Stick, 12 g. A página do Pink Stick não traz o peso em texto."
+        ],
+        "comparisonTable": {
+          "caption": "O que a ficha de cada bastão informa. Preço de venda do site.",
+          "headers": [
+            "Bastão",
+            "FPS e FPUVA",
+            "Cor",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "Pink Stick",
+              "90 e 70",
+              "Nove tons, o 5 KM sem cor",
+              "R$ 99,90"
+            ],
+            [
+              "Pro Stick",
+              "96 e 43",
+              "Seis tons",
+              "R$ 99,90"
+            ],
+            [
+              "Clear Stick",
+              "70 e 50",
+              "Transparente, sem tons",
+              "R$ 109,90"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+            "alt": "Pro Stick aberto, com embalagem branca e amarela com FPS 96 e FPUVA 43 e uma amostra de cor marrom-clara ao lado",
+            "caption": "Pro Stick, tom PRO15, na página da loja. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro15",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+            "alt": "Clear Stick em embalagem transparente com rótulo branco, FPS 70, FPUVA 50 e 12 g",
+            "caption": "Clear Stick na página da loja. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Derrete com o suor?",
+        "paragraphs": [
+          "A [Pink Cheeks](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km) declara resistência à água e ao suor por duas horas. A página consultada não apresenta o relatório do teste. Confira a orientação de reaplicação no rótulo.",
+          "No Pro Stick, a loja fala em “2 horas de resistência à água comprovada”. A ficha do Clear Stick diz que ele “oferece resistência à água e ao suor”, sem informar horas."
+        ]
+      },
+      {
+        "heading": "Reaplicação e aplicação",
+        "paragraphs": [
+          "O modo de uso publicado pela marca pede reaplicação a cada duas horas durante a exposição ao sol e depois de suor intenso ou permanência prolongada na água. Confira as instruções no rótulo do seu bastão.",
+          "Para espalhar o Pro Stick, a loja diz que dá para usar “com esponja, pincel ou com os próprios dedos”. O rótulo também avisa que o produto “não oferece nenhuma proteção contra a insolação” e orienta consultar um médico para crianças menores de 6 meses."
+        ]
+      },
+      {
+        "heading": "Quanto sai com o código",
+        "paragraphs": [
+          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo. Não montamos um carrinho com o Pink Stick, então a conta final é a do seu: confira a linha “Desconto no pedido” antes de pagar. O passo a passo e o teste que fizemos estão no [guia do cupom Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual cor do Pink Stick escolher? A loja nomeia os nove tons por distâncias de corrida e não diz qual combina com cada pele. A escolha fica com as fotos da loja e com o botão “Prove virtualmente”.",
+          "O Pink Stick derrete com o suor? A Pink Cheeks declara resistência à água e ao suor por duas horas. O rótulo também pede reaplicação durante a exposição e depois de transpiração excessiva.",
+          "Qual a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90, FPUVA 70 e nove tons. O Pro Stick tem FPS 96, FPUVA 43 e seis tons, com cobertura que a loja compara à de uma base.",
+          "O Pink Stick tem versão sem cor? Sim. O 5 KM é o tom que a loja marca como “Sem Cor” e descreve como incolor."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1273,
+    "slug": "barbours-body-splash-inspiracoes",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "CECILIALINHARES",
+    "affiliate": "barbours",
+    "type": "Guia de Fragrâncias",
+    "title": "Body splash Barbour's: o perfume que a loja indica como inspiração de cada fragrância",
+    "seoTitle": "Body splash Barbour's: a inspiração de cada fragrância",
+    "description": "A lista dos body splashes da Barbour's Beauty com a referência olfativa que a própria loja publica em cada página, a linha masculina e o que a marca avisa sobre isso.",
+    "metaDescription": "CECILIALINHARES dá 10% OFF na Barbour's Beauty. Veja a lista dos body splashes e o perfume que a loja indica como inspiração de cada um.",
+    "image": "/images/reviews/barbours/barbours-body-splash-inspiracoes-capa.webp",
+    "imageAlt": "Frascos dos body splashes My Sweet Delight, Soft Breeze e Affair, em fotos da Barbour's Beauty com o logo da marca, os textos «Body splash / inspirações» e o código CECILIALINHARES.",
+    "cta": {
+      "text": "Abra o site pelo botão e escolha o body splash. No checkout, abra Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. Confira a linha Descontos antes de pagar.",
+      "label": "Ir para a Barbour's",
+      "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+      "sponsored": true
+    },
+    "editorialNote": "Lista feita com o que a Barbour's Beauty publica nas páginas de produto. Não recebemos nem usamos os produtos. Podemos receber comissão pelo cupom e pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "barbours-e-boa"
+      },
+      {
+        "slug": "cupom-barbours-como-usar"
+      },
+      {
+        "slug": "barbours-e-confiavel"
+      },
+      {
+        "slug": "barbours-reclame-aqui-nota-reputacao"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você já conhece o perfume de referência e quer ver qual body splash a loja associa a ele.",
+        "Você quer comparar as fragrâncias pela referência que a própria loja publica, antes de abrir a página de cada produto."
+      ],
+      "skipIf": [
+        "Você quer a garantia de um cheiro igual ao do perfume citado: a loja diz que a referência não promete isso, e nós não cheiramos os produtos.",
+        "Você precisa de uma duração em horas: este guia não traz teste de fixação."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A página de cada body splash informa a referência olfativa. My Sweet Delight cita Delina, Very Sexy cita J’adore e Soft Breeze cita Light Blue. As tabelas mostram qual referência aparece em cada página e o preço de venda. A equipe não testou a semelhança das fragrâncias na pele."
+        ]
+      },
+      {
+        "heading": "De onde vem esta lista",
+        "paragraphs": [
+          "A Barbour’s publica as referências na ficha de cada produto. Reunimos os nomes que a loja menciona e os preços da consulta. Use a lista para localizar a versão correspondente.",
+          "A indicação de inspiração descreve a proposta de cada fragrância. A equipe não testou cheiro, fixação ou semelhança com os perfumes citados."
+        ]
+      },
+      {
+        "heading": "Seis body splashes e a referência de cada um",
+        "paragraphs": [
+          "São seis fragrâncias florais e frutadas. Na penúltima coluna estão as notas que a página de cada body splash lista; a lista tem mais itens do que cabe aqui, então a seleção é nossa."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda na página de cada body splash em 21 de novembro de 2026, frasco de 200 ml. A referência é o que a loja indica no campo “Fragrância inspirada por”.",
+          "headers": [
+            "Body splash",
+            "Referência que a loja indica",
+            "Notas que a página lista",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "[My Sweet Delight](https://www.thebarboursbeauty.com.br/products/body-splash-delight-deo-colonia-6947ecad195b8)",
+              "Delina - Parfums de Marly",
+              "Lichia, ruibarbo, bergamota, rosa turca, peônia, cedro e vetiver do Haiti",
+              "R$ 39,90"
+            ],
+            [
+              "[Living Grace](https://www.thebarboursbeauty.com.br/products/body-splash-la-vie-deo-colonia-69480977f018b)",
+              "La Vie est Belle - Lancôme",
+              "Groselha preta, pera, íris, jasmim, flor de laranjeira, pralinê, baunilha e fava tonka",
+              "R$ 39,90"
+            ],
+            [
+              "[Soft Breeze](https://www.thebarboursbeauty.com.br/products/body-splash-soft-breeze-desodorante-colonia-200ml-694828df72f1c)",
+              "Light Blue - Dolce & Gabbana",
+              "Limão siciliano, maçã, bambu, jasmim, rosa branca, almíscar e âmbar",
+              "R$ 39,90"
+            ],
+            [
+              "[Very Sexy](https://www.thebarboursbeauty.com.br/products/body-splash-very-sexy-deo-colonia)",
+              "J'adore - Dior",
+              "Pera, melão, pêssego, jasmim, tuberosa, rosa, baunilha e almíscar, entre outras",
+              "R$ 39,90"
+            ],
+            [
+              "[Endless Soul](https://www.thebarboursbeauty.com.br/products/body-splash-endless-soul-69481e18de96f)",
+              "Libre - YSL",
+              "Mandarina, groselha preta, folha de figo, rosa, peônia, jasmim, baunilha e âmbar",
+              "R$ 39,90"
+            ],
+            [
+              "[Affair](https://www.thebarboursbeauty.com.br/products/body-splash-affair-deo-colonia-6947ebb08b116)",
+              "Scandal - Jean-Paul Gaultier",
+              "Mandarina, mel, gardênia, jasmim, pêssego, caramelo e patchouli, entre outras",
+              "R$ 39,90"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-my-sweet-delight.webp",
+            "alt": "Frasco do body splash My Sweet Delight, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Body Splash My Sweet Delight, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-delight-deo-colonia-6947ecad195b8"
+          },
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-soft-breeze.webp",
+            "alt": "Frasco do body splash Soft Breeze, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Body Splash Soft Breeze, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-soft-breeze-desodorante-colonia-200ml-694828df72f1c"
+          }
+        ]
+      },
+      {
+        "heading": "Florais e frutados",
+        "paragraphs": [
+          "Além dos seis acima, cinco body splashes florais e frutados trazem a referência no campo. Eles seguem o mesmo formato de 200 ml."
+        ],
+        "comparisonTable": {
+          "caption": "Referência que a loja indica em cada página.",
+          "headers": [
+            "Body splash",
+            "Referência que a loja indica",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "[Roses](https://www.thebarboursbeauty.com.br/products/body-splash-roses-deo-col-6947ef11ed6cb)",
+              "212 VIP Rose - C. Herrera",
+              "R$ 39,90"
+            ],
+            [
+              "[Alter Ego](https://www.thebarboursbeauty.com.br/products/body-splash-alter-ego-deo-colonia-6947ceb34346f)",
+              "Good Girl - C. Herrera",
+              "R$ 39,90"
+            ],
+            [
+              "[Good Graces](https://www.thebarboursbeauty.com.br/products/body-splash-good-graces-desodorante-colonia-200ml-69482a05844a2)",
+              "English Pear & Freesia - Jo Malone",
+              "R$ 39,90"
+            ],
+            [
+              "[Icon](https://www.thebarboursbeauty.com.br/products/body-splash-icon-deo-colonia-ref-idole-69482064afdc6)",
+              "Idole - Lancôme",
+              "R$ 39,90"
+            ],
+            [
+              "[Rich](https://www.thebarboursbeauty.com.br/products/body-splash-rich-deo-colonia-ref-olfativa-chloe-694824730f322)",
+              "Chloé Eau de Parfum - Chloé",
+              "R$ 39,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Living Grace também existe como perfume para cabelo na loja, e a página dele traz a mesma referência do body splash."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-endless-soul.webp",
+            "alt": "Frasco do body splash Endless Soul, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+            "caption": "Body Splash Endless Soul, 200 ml. Foto: Barbour's Beauty.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.thebarboursbeauty.com.br/products/body-splash-endless-soul-69481e18de96f"
+          }
+        ]
+      },
+      {
+        "heading": "Linha Oriental Sweetness",
+        "paragraphs": [
+          "A linha Oriental Sweetness indica perfumes da Lattafa. A página do Vanilla Rum cita, na descrição, notas de rum, canela e baunilha; as outras duas não trazem lista de notas."
+        ],
+        "comparisonTable": {
+          "caption": "Referência que a loja indica em cada página, com a grafia dela.",
+          "headers": [
+            "Body splash",
+            "Referência que a loja indica",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "[Vanilla Rum](https://www.thebarboursbeauty.com.br/products/bodysplash-vanilla-rum-oriental-sweetness-69482d78224d4)",
+              "Khamrah Lattafa",
+              "R$ 39,90"
+            ],
+            [
+              "[Pink Chantilly](https://www.thebarboursbeauty.com.br/products/bodysplash-pink-chantilly-oriental-sweetness-69482b6da81dc)",
+              "Yara de Lattafa",
+              "R$ 34,90"
+            ],
+            [
+              "[Caramel Kiss](https://www.thebarboursbeauty.com.br/products/bodysplash-vanilla-kiss-oriental-sweetness-69482e59ed2cb)",
+              "Eclaire Lattafa",
+              "R$ 39,90 (esgotado no dia)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Referências de nicho",
+        "paragraphs": [
+          "Os quatro body splashes abaixo citam perfumes de nicho. O Amber Mystic também faz parte da coleção Feliz no Simples, da Barbour’s com Theodoro."
+        ],
+        "comparisonTable": {
+          "caption": "Referência que a loja indica em cada página, com a grafia dela.",
+          "headers": [
+            "Body splash",
+            "Referência que a loja indica",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "[Pure Grace](https://www.thebarboursbeauty.com.br/products/body-splash-pure-grace-desodorante-colonia-200ml)",
+              "Inspirada em Palatine - Parfums de Marly",
+              "R$ 39,90"
+            ],
+            [
+              "[Fine Touch](https://www.thebarboursbeauty.com.br/products/body-splash-fine-touch-desodorante-colonia-200ml)",
+              "Inspirada em Valaya - Parfums de Marly",
+              "R$ 39,90"
+            ],
+            [
+              "[Kiss in Paradise](https://www.thebarboursbeauty.com.br/products/body-splash-kiss-in-paradise-desodorante-colonia-200ml)",
+              "Love, Don’t Be Shy — Kilian (grafado “Killian” na página)",
+              "R$ 34,90"
+            ],
+            [
+              "[Amber Mystic, Feliz no Simples](https://www.thebarboursbeauty.com.br/products/body-splash-desodorante-corporal-amber-mystic-feliz-no-simples-barbour-s-by-theodoro-200ml)",
+              "Baccarat Rouge 540 MFK",
+              "R$ 59,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Masculinos (Homme)",
+        "paragraphs": [
+          "A linha Homme tem seis body splashes de 200 ml, todos com a referência no campo. As páginas deles não trazem lista de notas."
+        ],
+        "comparisonTable": {
+          "caption": "Referência que a loja indica em cada página, com a grafia dela.",
+          "headers": [
+            "Body splash",
+            "Referência que a loja indica",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "[Bold Homme](https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml)",
+              "Sauvage - Dior",
+              "R$ 39,90"
+            ],
+            [
+              "[Seduction Homme](https://www.thebarboursbeauty.com.br/products/body-splash-seduction-homme-desodorante-colonia-200ml)",
+              "Bleu - Chanel",
+              "R$ 39,90"
+            ],
+            [
+              "[Ocean Homme](https://www.thebarboursbeauty.com.br/products/body-splash-ocean-homme-desodorante-colonia-200ml)",
+              "Acqua di Giò Elixir — Giorgio Armani",
+              "R$ 39,90"
+            ],
+            [
+              "[Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml)",
+              "212 Vip Black - Carolina Herrera",
+              "R$ 34,90"
+            ],
+            [
+              "[Signature Homme](https://www.thebarboursbeauty.com.br/products/body-splash-signature-homme-desodorante-colonia-200ml)",
+              "Imagination - Louis Vuitton",
+              "R$ 34,90"
+            ],
+            [
+              "[Urban Homme](https://www.thebarboursbeauty.com.br/products/body-splash-urban-homme-desodorante-colonia-200ml)",
+              "MYSLF - Yves Saint Laurent",
+              "R$ 39,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Os que não trazem perfume de referência",
+        "paragraphs": [
+          "Os cinco body splashes da linha Shimmer usam o mesmo campo para uma descrição, não para um perfume. O que a página escreve em cada um está abaixo. Os BB Charm de 34 ml e o Kit Layering não trazem o campo."
+        ],
+        "comparisonTable": {
+          "caption": "O que o campo traz em cada página, entre aspas.",
+          "headers": [
+            "Body splash",
+            "O que o campo traz",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "[Blue Ocean Glow](https://www.thebarboursbeauty.com.br/products/body-splash-blue-ocean-glow-desodorante-colonia-200ml)",
+              "“frescor oceânico”",
+              "R$ 39,90"
+            ],
+            [
+              "[Golden Tropic Glow](https://www.thebarboursbeauty.com.br/products/body-splash-golden-tropic-glow-desodorante-colonia-200ml)",
+              "“aroma de ‘verão eterno’”",
+              "R$ 39,90"
+            ],
+            [
+              "[Lavender Lagoon Glow](https://www.thebarboursbeauty.com.br/products/body-splash-lavender-lagoon-glow-desodorante-colonia-200ml)",
+              "“de banho tomado e elegância suave”",
+              "R$ 34,90"
+            ],
+            [
+              "[Moonlight Shimmer](https://www.thebarboursbeauty.com.br/products/body-splash-moonlight-shimmer-desodorante-colonia-200ml)",
+              "“frescor e sofisticação”",
+              "R$ 39,90"
+            ],
+            [
+              "[Pink Sunset Shine](https://www.thebarboursbeauty.com.br/products/body-splash-pink-sunset-shine-desodorante-colonia-200ml)",
+              "“suculência das frutas e a doçura do caramelo”",
+              "R$ 39,90"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Procurando pelo perfume?",
+        "paragraphs": [
+          "Do perfume que a loja cita para o body splash que o indica, em ordem alfabética:"
+        ],
+        "bullets": [
+          "Acqua di Giò Elixir: Ocean Homme",
+          "Baccarat Rouge 540: Amber Mystic, da coleção Feliz no Simples",
+          "Bleu: Seduction Homme",
+          "Chloé Eau de Parfum: Rich",
+          "Delina: My Sweet Delight",
+          "Eclaire: Caramel Kiss",
+          "English Pear & Freesia: Good Graces",
+          "Good Girl: Alter Ego",
+          "Idole: Icon",
+          "Imagination: Signature Homme",
+          "J'adore: Very Sexy",
+          "Khamrah: Vanilla Rum",
+          "La Vie est Belle: Living Grace",
+          "Libre: Endless Soul",
+          "Light Blue: Soft Breeze",
+          "Love don´t be shy: Kiss in Paradise",
+          "MYSLF: Urban Homme",
+          "Palatine: Pure Grace",
+          "Sauvage: Bold Homme",
+          "Scandal: Affair",
+          "Valaya: Fine Touch",
+          "Yara: Pink Chantilly",
+          "212 VIP Black: Midnight Homme",
+          "212 VIP Rose: Roses"
+        ]
+      },
+      {
+        "heading": "O que a referência não garante",
+        "paragraphs": [
+          "Na nota de referências olfativas, a Barbour’s informa que usa os nomes como referência e que as demais marcas pertencem aos respectivos fabricantes.",
+          "Cada produto nesta lista é vendido pela Barbour’s como desodorante colônia. Compare a referência e as notas da ficha antes de escolher."
+        ]
+      },
+      {
+        "heading": "Cupom e frete",
+        "paragraphs": [
+          "O [cupom Barbour's](/cupons/barbours) CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. O passo a passo do checkout está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar).",
+          "Pela central de ajuda da loja, o frete é grátis acima de R$ 119 em São Paulo e de valores maiores nas outras regiões. O frete e o prazo do seu CEP aparecem no checkout."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual body splash da Barbour’s é inspirado no Delina? A página do My Sweet Delight indica o Delina, da Parfums de Marly, como fragrância de referência. A loja avisa que a indicação não promete resultado idêntico.",
+          "E no La Vie est Belle? A página do Living Grace indica o La Vie est Belle, da Lancôme, como referência.",
+          "Qual o body splash masculino inspirado no Sauvage? A página do Bold Homme indica o Sauvage, da Dior, como referência.",
+          "A Barbour’s tem vínculo com as marcas citadas? A loja diz que não. Na nota de esclarecimento, afirma que não possui vínculos com as marcas mencionadas e que elas pertencem aos respectivos fabricantes.",
+          "Body splash é a mesma coisa que perfume? Na loja, estes frascos são vendidos como desodorante colônia. Os perfumes citados aparecem como referência olfativa."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1274,
+    "slug": "como-colocar-senha-mala-bagaggio",
+    "title": "Senha da mala Bagaggio: o que a loja informa e como falar com o atendimento",
+    "seoTitle": "Senha da mala Bagaggio: como colocar e o que fazer",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Bagaggio não publica passo a passo de senha. Veja que cadeado cada modelo traz, o que a página do produto diz e o caminho do chat se você esqueceu a combinação.",
+    "metaDescription": "CECILIA10 dá 10% OFF na Bagaggio. Veja que cadeado a sua mala tem e como pedir ajuda com a senha ao atendimento da loja.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "locale": "pt",
+    "image": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+    "imageAlt": "Cadeado TSA roxo com segredo de 4 dígitos, em foto da Bagaggio com o logo da marca, os textos «Senha da mala / qual é o seu cadeado» e o código CECILIA10.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Veja se o cadeado da sua mala Bagaggio abre com chave ou combinação. O cadeado pode vir preso à mala, como em modelos Detroit. Se você precisa definir, trocar ou recuperar a senha, leve o modelo e uma foto do cadeado ao chat da Bagaggio."
+        ]
+      },
+      {
+        "heading": "Que cadeado a sua mala tem?",
+        "paragraphs": [
+          "Antes de procurar senha, descubra qual dos três cadeados você tem, porque cada um tem uma pergunta diferente para o atendimento. Para achar a página do seu, procure no site da Bagaggio o nome do cadeado ou da mala, como \"TSA com Segredo 4 Dígitos\" ou \"Detroit\"."
+        ],
+        "bullets": [
+          "De chave: a página do cadeado TSA com chave diz que ele acompanha duas chaves e dispensa a configuração de senhas. Não tem combinação para esquecer.",
+          "De segredo numérico: as páginas descrevem uma combinação de 3 ou 4 dígitos que você mesmo define, e a do 4 dígitos Roxo diz que ela pode ser alterada sempre que você quiser.",
+          "Embutido na mala: a linha Detroit é descrita como \"cadeado com senha embutido\", e em alguns modelos como \"cadeado embutido\". O termo muda de um modelo para outro, então use o que está na página da sua mala."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "alt": "Cadeado TSA com chave, preto, da Bagaggio, em foto oficial de produto",
+          "caption": "Cadeado TSA com Chave Preto, que a página diz vir com duas chaves. Foto: Bagaggio.",
+          "href": "https://www.bagaggio.com.br/cadeado-tsa-com-chave-preto-/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "O que cada tipo custa e o que a página diz",
+        "paragraphs": [
+          "A loja separa os cadeados avulsos por tipo. A tabela traz sete deles, com a descrição da página de cada um."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda no site, 21/11",
+          "headers": [
+            "Cadeado",
+            "Como abre, segundo a página",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "TSA com Chave Preto",
+              "Chave, com TSA",
+              "R$ 59,90"
+            ],
+            [
+              "Para Mala com Chave TSA Preto",
+              "Chave, com TSA",
+              "R$ 39,90"
+            ],
+            [
+              "Para Mala Bagaggio com Chave Preto",
+              "Chave, sem TSA na página",
+              "R$ 59,90"
+            ],
+            [
+              "Para Mala TSA com Segredo 3 Dígitos Rosa",
+              "Combinação de 3 dígitos, com TSA",
+              "R$ 49,90"
+            ],
+            [
+              "TSA com Segredo 4 Dígitos Roxo",
+              "Combinação de 4 dígitos, com TSA",
+              "R$ 79,90"
+            ],
+            [
+              "TSA com Cabo de Aço Preto",
+              "Senha numérica ajustável, com TSA",
+              "R$ 89,90"
+            ],
+            [
+              "Para Mala com 4 Dígitos Alloy Preto",
+              "Combinação de 4 dígitos, sem TSA na página",
+              "R$ 59,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cabo de aço dispensa a chave e é o mais caro da lista. Se a ideia é trocar um cadeado que você não consegue abrir, o de chave é o único em que nenhuma combinação entra na conta."
+        ]
+      },
+      {
+        "heading": "O que significa a marca TSA no cadeado",
+        "paragraphs": [
+          "Segundo as fichas da Bagaggio, o sistema TSA permite acesso aos agentes de inspeção de bagagem. Para encontrar a orientação certa para a sua mala, informe ao atendimento o modelo e se o cadeado é de chave ou de combinação."
+        ]
+      },
+      {
+        "heading": "Esqueci a senha: o que fazer em cada caso",
+        "paragraphs": [
+          "A [página de atendimento da Bagaggio](https://www.bagaggio.com.br/institucional/fale-conosco) orienta usar o chat do site, de segunda a sexta, das 9h às 18h. Abra o ícone de chat no canto inferior da página. Tenha o nome do modelo ou a etiqueta da mala e diga se quer configurar, trocar ou recuperar a senha."
+        ],
+        "bullets": [
+          "Cadeado de segredo numérico: abra o chat com o nome do modelo e pergunte como a Bagaggio orienta recuperar ou trocar a combinação. A resposta é do atendimento, e a loja não a publica.",
+          "Cadeado embutido: leve o nome da mala, como aparece na página dela, e pergunte o mesmo. O cadeado faz parte da mala, então a pergunta é sobre a mala.",
+          "Cadeado de chave: sem combinação, a dúvida vira outra. Se perdeu a chave, a pergunta ao chat é como conseguir outra, e pode ser que a resposta seja trocar o cadeado."
+        ],
+        "postParagraphs": [
+          "Sobre garantia: o Termo da loja, resumido no artigo sobre a [garantia vitalícia da Bagaggio](/reviews/bagaggio-garantia-vitalicia), cobre vício de fabricação e deixa a senha de cadeado perdida fora da cobertura. Esquecer a combinação, então, é assunto para o atendimento, não para a garantia."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "alt": "Detalhe do cadeado embutido da mala de bordo Detroit preta da Bagaggio, com o disco de combinação à vista, ao lado das medidas da mala",
+          "caption": "Detalhe do cadeado embutido da Mala de Bordo Detroit Preta, em imagem da loja. Foto: Bagaggio.",
+          "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Os três tipos num quadro",
+        "paragraphs": [
+          "Para guardar no celular e abrir o chat já sabendo o que perguntar."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
+          "alt": "Quadro «Qual é o seu cadeado?»: de chave, sem combinação; de segredo, com 3 ou 4 dígitos; embutido, preso ao corpo da mala; TSA, acesso do agente na inspeção; para trocar ou recuperar a senha, o chat da Bagaggio, de segunda a sexta, das 9h às 18h.",
+          "caption": "Quadro: Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras com o CECILIA10. O [cupom Bagaggio](/cupons/bagaggio) dá 10% OFF em todo o site, em todas as formas de pagamento. Num cadeado novo, confira a linha do desconto no carrinho. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Bagaggio tem manual do cadeado? Não encontramos manual nem vídeo de senha nas páginas de ajuda e de perguntas frequentes da loja. Veja o capítulo sobre o que fazer em cada caso.",
+          "Esqueci a senha, a Bagaggio troca o cadeado? A loja não publica essa resposta. O atendimento pelo chat do site decide, e o horário está no capítulo sobre senha esquecida.",
+          "O que significa TSA no cadeado? As fichas da Bagaggio identificam um sistema de acesso para agentes de inspeção de bagagem. Para dúvidas sobre a senha da sua mala, procure o chat com o nome do modelo.",
+          "O cupom Bagaggio vale para o cadeado? O CECILIA10 vale em todo o site. Confira a linha do desconto no carrinho com o cadeado dentro."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você tem cadeado de segredo numérico ou embutido na mala e esqueceu a combinação.",
+        "Você quer saber o tipo do seu cadeado antes de abrir o chat da loja."
+      ],
+      "skipIf": [
+        "Você procura um passo a passo para trocar a senha sozinho: a Bagaggio não publica.",
+        "O seu cadeado é de chave: não há combinação para recuperar."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho para ganhar 10% OFF.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Feito com as páginas dos cadeados e a de atendimento da Bagaggio, sem usar nenhum cadeado. Podemos receber comissão pelas compras com o CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "bagaggio-garantia-vitalicia"
+      },
+      {
+        "slug": "bagaggio-e-confiavel"
+      },
+      {
+        "slug": "cupom-bagaggio-como-usar"
+      },
+      {
+        "slug": "bagaggio-reclame-aqui-nota-reputacao"
+      }
+    ]
+  },
+  {
+    "id": 1275,
+    "slug": "garrafa-termica-qual-escolher-parceiras",
+    "locale": "pt",
+    "title": "Garrafa térmica: qual escolher entre Gocase e Bagaggio",
+    "seoTitle": "Garrafa térmica: qual escolher, com preço e promessa",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Fresh e Flip Pro da Gocase, Dual da Bagaggio: capacidade, preço de venda, preço por 100 ml e o que cada ficha promete de frio e calor, sem teste nosso das garrafas.",
+    "metaDescription": "Garrafa térmica da Gocase e da Bagaggio lado a lado: capacidade, preço por 100 ml e o que cada ficha promete de frio e calor, sem teste nosso.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa.webp",
+    "imageAlt": "Três garrafas Fresh da Gocase (650, 950 e 1.200 ml) e a garrafa Dual com alça de 900 ml azul da Bagaggio, em fotos das lojas com os logos das duas marcas e os textos «Garrafa térmica / qual escolher?».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Você quer horas declaradas na ficha para bebida gelada e quente, em 650 ou 950 ml: a Fresh da Gocase.",
+        "Você quer a menor conta por 100 ml da tabela, em inox e com alça: a Dual com alça de 900 ml da Bagaggio."
+      ],
+      "skipIf": [
+        "Você vai levar bebida quente: a Gocase indica a Flip Pro só para bebida fria.",
+        "Você quer um número de horas na ficha: a Bagaggio diz só “por horas”."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": [
+      "gocase",
+      "bagaggio"
+    ],
+    "editorialNote": "Feito com as páginas dos sites oficiais, sem usar as garrafas. Somos parceiros da Gocase e da Bagaggio e podemos receber comissão pelas compras feitas pelos nossos links.",
+    "relatedArticles": [
+      {
+        "slug": "gocase-e-boa"
+      },
+      {
+        "slug": "cupom-gocase-como-usar"
+      },
+      {
+        "slug": "bagaggio-e-boa-malas-mochilas"
+      },
+      {
+        "slug": "cupom-bagaggio-como-usar"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para café ou chá, as fichas indicam a Fresh da Gocase e a Dual da Bagaggio. A Flip Pro é indicada só para bebidas frias. A Dual azul de 900 ml tem o menor preço por 100 ml na tabela. As horas de conservação são as declaradas por cada loja."
+        ]
+      },
+      {
+        "heading": "Antes de escolher: capacidade e uso",
+        "paragraphs": [
+          "As garrafas desta comparação vão de 600 a 950 ml. A Gocase compara a Fresh de 650 ml a 3 copos de água e a de 950 ml a 5; a Flip Pro de 750 ml, a quase 4 copos. Esse é o jeito da própria loja de dar a ideia do tamanho.",
+          "Pense em onde a garrafa vai: bolsa, mochila, carro, mesa de trabalho. As fichas da Fresh e da Dual trazem altura ou medida e peso, e vale conferir contra o espaço que você tem. A Flip Pro não traz esses dados na página.",
+          "Outra pergunta antes do preço é a bebida. Café e chá pedem uma garrafa que a loja indique para quente. Água gelada pede horas de frio. A ficha de cada loja responde isso de um jeito diferente, e a seção a seguir mostra como."
+        ]
+      },
+      {
+        "heading": "Tabela: capacidade, preço e promessa da ficha",
+        "paragraphs": [
+          "Os preços são os de venda das páginas, sem o valor riscado, sem frete e sem desconto de código. A Gocase cobra mais em algumas cores: a loja diz de R$ 20 a R$ 30 de acréscimo, e a tabela traz a cor Clear."
+        ],
+        "comparisonTable": {
+          "caption": "Conta nossa: preço de venda ÷ capacidade × 100, arredondado em centavos. Preços das páginas em 21 de novembro de 2026.",
+          "headers": [
+            "Modelo",
+            "Capacidade e preço",
+            "Por 100 ml",
+            "O que a ficha diz"
+          ],
+          "rows": [
+            [
+              "[Fresh, Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p)",
+              "650 ml, R$ 119,90",
+              "R$ 18,45",
+              "Até 24h gelada, até 12h quente"
+            ],
+            [
+              "Fresh, Gocase",
+              "950 ml, R$ 119,90",
+              "R$ 12,62",
+              "Até 24h gelada, até 12h quente"
+            ],
+            [
+              "[Flip Pro, Gocase](https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p)",
+              "750 ml, R$ 149,90",
+              "R$ 19,99",
+              "Gelada por até 48h com gelo; indicada somente para bebidas frias"
+            ],
+            [
+              "[Dual preta, Bagaggio](https://www.bagaggio.com.br/garrafa-termica-dual-600ml-preto/p)",
+              "600 ml, R$ 94,90",
+              "R$ 15,82",
+              "Quente ou gelada “por horas”, sem número"
+            ],
+            [
+              "[Dual com alça azul, Bagaggio](https://www.bagaggio.com.br/garrafa-termica-dual-com-alca-900ml-azul/p)",
+              "900 ml, R$ 99,90",
+              "R$ 11,10",
+              "Quente ou gelada “por horas”, sem número"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os números de horas da Gocase e o “por horas” da Bagaggio vêm de cada loja, então não dá para dizer qual segura mais. Cada loja descreve do seu jeito, e a tabela só repete o que está escrito."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro.webp",
+            "alt": "Quadro com a conta por 100 ml das cinco garrafas da tabela, da menor para a maior: Dual com alça 900 ml, Fresh 950 ml, Dual 600 ml, Fresh 650 ml e Flip Pro 750 ml",
+            "caption": "Quadro: Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Gocase: Fresh e Flip Pro",
+        "paragraphs": [
+          "A ficha da Fresh traz aço inox 304, parede dupla a vácuo, livre de BPA e conservação de até 24h gelada e até 12h quente. A de 650 ml tem 26,8 cm de altura com tampa e 345,50 g vazia; a de 950 ml, 26 cm e 432,50 g. A página lista ainda uma versão de 1.200 ml, com preço próprio.",
+          "A mesma ficha avisa dois limites: a loja não recomenda a Fresh para bebida gaseificada, e a tampa não é de inox, então uma condensação leve nela é normal. O corpo é lavado à mão, e a tampa vai à lava-louças.",
+          "A Flip Pro tem 750 ml, tampa flip que abre com um clique e trava de segurança contra vazamento, segundo a página. A loja diz que ela é “indicada somente para bebidas frias” e explica que a limitação está na tampa, não no isolamento: o mecanismo de sucção e a vedação não são feitos para líquido quente. A página não informa peso, altura nem material.",
+          "Sobre garantia, a página de produto da Fresh diz um ano contra defeito de fabricação e seis meses contra descascamento. A página da linha térmica diz 90 dias contra defeito de fabricação, e a mesma página dá 90 dias para a Flip Pro. As duas informações estão no site da Gocase e divergem, então vale perguntar à loja qual vale para a sua garrafa antes de comprar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-fresh.webp",
+            "alt": "Garrafa térmica Fresh da Gocase, em foto oficial da página do produto",
+            "caption": "Fresh, da linha térmica da Gocase. Foto: Gocase.",
+            "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "store": "gocase"
+          }
+        ]
+      },
+      {
+        "heading": "Bagaggio: Dual",
+        "paragraphs": [
+          "As Dual são de aço inoxidável. A ficha da Dual de 600 ml informa 0,315 kg e 20,5 × 7,2 × 7,2 cm; a Dual com alça de 900 ml, 0,425 kg e, na ficha, aço inoxidável e BPA Free. A Dual de 900 ml sem alça aparece com 23 × 9 × 9 cm.",
+          "Sobre a temperatura, a loja diz que a garrafa “mantém bebidas quentes ou geladas por horas” e, em outro trecho, por “várias horas”. Não há número. A tampa com vedação segura, diz a loja, evita vazamentos.",
+          "O preço muda com a cor. A Dual com alça de 900 ml azul está a R$ 99,90, e a preta, a R$ 129,90; a tabela usa a azul. Cada ficha dos modelos lidos traz garantia de 90 dias."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
+            "alt": "Garrafa térmica Dual com alça de 900 ml azul da Bagaggio sobre fundo branco, em foto oficial da página do produto",
+            "caption": "Dual com alça, 900 ml, azul. Foto: Bagaggio.",
+            "href": "https://www.bagaggio.com.br/garrafa-termica-dual-com-alca-900ml-azul/p",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "store": "bagaggio"
+          }
+        ]
+      },
+      {
+        "heading": "Códigos de desconto das duas lojas",
+        "paragraphs": [
+          "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% no site. As regras e o passo a passo estão no guia do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
+          "Na Bagaggio, o código é CECILIA10 e dá 10%. O resumo está em [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+          "Se cada código for aplicado aos preços da tabela, a Dual com alça azul de 900 ml fica em R$ 89,91 com CECILIA10, e a Fresh de 950 ml em R$ 113,91 com CECILIAA. São simulações antes do frete. Confira o valor final no carrinho da loja que você escolher."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual garrafa térmica escolher? A Dual azul de 900 ml custa menos por 100 ml nos modelos da tabela. Para bebidas quentes com uma indicação de horas na ficha, veja a Fresh. A Flip Pro é para bebidas frias.",
+          "Quanto tempo a garrafa térmica mantém a bebida? Só pelo que cada ficha diz: a Fresh, até 24h gelada e até 12h quente; a Flip Pro, até 48h gelada com gelo; a Dual, “por horas”, sem número. São promessas das lojas, e não dá para compará-las como um teste único.",
+          "Posso pôr bebida quente na Flip Pro? A Gocase diz que ela é indicada somente para bebidas frias, por causa da tampa. Para café ou chá, a ficha da Fresh traz conservação de até 12h quente.",
+          "A garrafa tem garantia? A página da Bagaggio traz 90 dias na ficha de cada modelo lido. Na Gocase, a página da Fresh diz um ano e a página da linha térmica diz 90 dias, e vale confirmar com a loja."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-21"
+  },
+  {
+    "id": 1276,
+    "slug": "lets-eat-it-loja-fisica-endereco",
+    "title": "Let's Eat It tem loja física? Endereço, horário e o que dá para fazer na Casa Let's",
+    "seoTitle": "Let's Eat It tem loja física? Endereço e horário",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Casa Let’s fica na Avenida Pacaembu, 1105, em São Paulo. Veja endereço, horário, desconto no caixa e como usar o MAUAD nas compras pelo site da Let’s Eat It.",
+    "metaDescription": "MAUAD dá 5% no site da Let’s Eat It. Veja o endereço da Casa Let’s, os horários e o desconto próprio para compras presenciais em São Paulo.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+    "imageAlt": "Quadro com o endereço e o horário da Casa Let's (Av. Pacaembu, 1105, São Paulo; segunda a sexta das 9h às 18h, sábado das 10h às 14h), com o logo da Let's Eat It e os textos «Loja física / Casa Let's».",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Casa Let’s fica na Avenida Pacaembu, 1105, em São Paulo. Aos sábados, o horário publicado é das 10h às 14h. A loja anuncia desconto próprio no caixa. O cupom MAUAD dá 5% nas compras pelo site. O pedido online é entregue no endereço informado."
+        ]
+      },
+      {
+        "heading": "Onde fica a Casa Let's",
+        "paragraphs": [
+          "A Casa Let’s fica na Avenida Pacaembu, 1105, bairro Pacaembu, São Paulo (SP), CEP 01234-001. Veja o mapa da [página oficial da Casa Let’s](https://letseatit.com.br/pages/casa-lets).",
+          "Para falar com a Casa, a página dela traz um WhatsApp próprio, o (11) 97488-2876. É por ele que a loja manda perguntar se um produto está lá antes de você ir."
+        ]
+      },
+      {
+        "heading": "Horário de funcionamento",
+        "paragraphs": [
+          "Este é o horário que a página da Casa informa. Ele é da loja física e não vale para o atendimento do site, que tem horário próprio."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Dia",
+            "Horário da Casa"
+          ],
+          "rows": [
+            [
+              "Segunda a sexta",
+              "9h às 18h"
+            ],
+            [
+              "Sábado",
+              "10h às 14h"
+            ],
+            [
+              "Domingo",
+              "Fechado"
+            ],
+            [
+              "Feriados",
+              "Fechado"
+            ]
+          ],
+          "caption": "Horário informado pela Casa Let's. A página não traz calendário de feriados."
+        },
+        "postParagraphs": [
+          "Como a página não lista os feriados, confirme pelo WhatsApp da Casa antes de ir, principalmente perto de datas como o Natal."
+        ]
+      },
+      {
+        "heading": "O que dá para fazer na Casa Let's",
+        "paragraphs": [
+          "Pelo que a página descreve, a Casa é um espaço de ambientes decorados, com sala, cozinha e mesa posta, onde dá para ver a curadoria da loja montada antes de levar. A loja fala em montar a mesa com a equipe e em atendimento dedicado. Também informa que recebe quem chega com café e espumante.",
+          "A visita não precisa de hora marcada. A página diz que o agendamento \"não é obrigatório\" e que você pode passar em qualquer horário de funcionamento. Se quiser ver uma peça específica, o caminho é o WhatsApp da Casa."
+        ]
+      },
+      {
+        "heading": "O que não dá para fazer",
+        "paragraphs": [
+          "Retirar pedido do site. A política de frete diz que, no momento, não é possível retirar pedidos na Casa Let's e que todos os pedidos são enviados para o endereço informado.",
+          "Contar com todos os produtos do site. A própria página diz que a Casa não é a versão física da loja online e que a seleção rotaciona; à pergunta se os produtos do site estão todos lá, a resposta é \"não\". Para ver se um item está na Casa, pergunte no WhatsApp.",
+          "Marcar massagem como cliente comum. A página diz que as massagens não são abertas ao público geral e ficam para clientes selecionados e convidados."
+        ]
+      },
+      {
+        "heading": "Casa Let’s ou site: onde vale o desconto",
+        "paragraphs": [
+          "Se for comprar na Casa Let’s, a equipe aplica a condição presencial no caixa. A página anuncia 15% para compras na Casa, com exceção de Le Creuset e Trussardi. O MAUAD vale apenas no site.",
+          "Se for comprar online, digite MAUAD no campo Código de desconto e confira os 5% no resumo do pedido. Compare o preço final da peça e o frete com o valor que a equipe informar na Casa."
+        ],
+        "comparisonTable": {
+          "caption": "Condições por canal na Let’s Eat It. Confirme o total antes de pagar.",
+          "headers": [
+            "O que comparar",
+            "Casa Let’s",
+            "Site da Let’s Eat It"
+          ],
+          "rows": [
+            [
+              "Desconto",
+              "15% anunciados para compra presencial, exceto Le Creuset e Trussardi",
+              "5% com MAUAD no checkout"
+            ],
+            [
+              "Como aplicar",
+              "A equipe aplica o desconto no caixa",
+              "Digite MAUAD no campo Código de desconto"
+            ],
+            [
+              "O cupom MAUAD funciona?",
+              "Cupom exclusivo do site",
+              "Sim, em compra online"
+            ],
+            [
+              "Recebimento",
+              "Para comprar na Casa, confirme se a peça está lá",
+              "Entrega no endereço do pedido. Sem retirada na Casa"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+            "alt": "Desconto por canal. A Casa Let’s anuncia 15% no caixa, exceto Le Creuset e Trussardi. No site, há cupom de 5% no checkout e entrega no endereço do pedido.",
+            "caption": "Quadro editorial com as condições divulgadas pela Let’s Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.2195121951219512
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver as regras do cupom da Let’s Eat It no site",
+            "href": "/cupons/letseatit"
+          }
+        ]
+      },
+      {
+        "heading": "Pedido do site e a loja física",
+        "paragraphs": [
+          "O site entrega o pedido no endereço informado. Se a ideia é ver uma peça antes de comprar, mande o nome dela para o WhatsApp da Casa: a seleção presencial muda. Para as políticas de entrega e troca, veja [Let’s Eat It é boa?](/reviews/lets-eat-it-e-boa)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Let's Eat It tem loja física? Tem, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, conforme a página oficial da loja.",
+          "Dá para retirar pedido do site na loja física? Não. A política de frete diz que, no momento, não é possível retirar pedidos na Casa Let's.",
+          "Preciso agendar uma visita à Casa Let's? Não é obrigatório: a página diz que você pode passar em qualquer horário de funcionamento.",
+          "A Casa Let's tem todos os produtos do site? Não. A página diz que a Casa não é a versão física do site e que a seleção rotaciona; para confirmar um item, chame no WhatsApp da Casa.",
+          "O cupom MAUAD vale na loja física? O MAUAD dá 5% apenas no site da Let’s Eat It. A Casa Let’s anuncia 15% de desconto próprio no caixa, exceto em Le Creuset e Trussardi."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você vai a São Paulo e quer ver a mesa posta e a curadoria da loja montadas antes de comprar.",
+        "Você quer passar sem hora marcada, dentro do horário que a Casa informa."
+      ],
+      "skipIf": [
+        "Você mora fora de São Paulo e conta com a visita para ver o produto.",
+        "Você quer retirar na Casa um pedido feito no site: a página diz que não é possível.",
+        "Você precisa de um item específico e não perguntou antes: a seleção da Casa muda."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Let's Eat It com o código",
+      "text": "Entre no site oficial da Let's Eat It e digite o código MAUAD no campo \"Código de desconto\" do checkout: 5% em todo o site, em todas as formas de pagamento, somando com o Pix. Confira a linha do desconto antes de pagar.",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Feito com as páginas oficiais da Let's Eat It; não visitamos a Casa. Somos parceiros da Let's Eat It e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "lets-eat-it-e-boa"
+      },
+      {
+        "slug": "lets-eat-it-e-confiavel"
+      },
+      {
+        "slug": "cupom-mauad-lets-eat-it-como-usar"
+      },
+      {
+        "slug": "cupom-letseatit-primeira-compra"
+      },
+      {
+        "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
+      }
+    ]
+  },
+  {
+    "id": 1277,
+    "slug": "enxoval-filhote-cachorro-lista-com-preco",
+    "locale": "pt",
+    "title": "Enxoval do filhote de cachorro: a lista com preço na Petz",
+    "seoTitle": "Enxoval do filhote de cachorro: lista com preço",
+    "type": "Lista de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Lista do enxoval do filhote de cachorro na Petz, item por item, com o preço do dia, o total e o código EMCASA. Ração, comedouro, cama, guia, tapete e caixa de transporte.",
+    "metaDescription": "EMCASA dá 10% OFF na Petz nos itens sem oferta. Veja o enxoval do filhote de cachorro item por item, com o preço do dia, o total e a conta do código.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+    "imageAlt": "Lista do enxoval do filhote (ração, comedouro e bebedouro, cama, peitoral e guia, tapete higiênico, brinquedo, escova e caixa), com o logo da Petz, os textos «Enxoval do filhote / dez itens e o total» e o código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O exemplo para um filhote de porte pequeno reúne dez itens na Petz, da ração à caixa de transporte. A conta usa os preços das páginas antes do frete. Compare as medidas do filhote e o que você já tem em casa. O desconto do EMCASA nesta lista é estimado."
+        ]
+      },
+      {
+        "heading": "A lista: dez itens, um por categoria",
+        "paragraphs": [
+          "Esta é uma lista de referência para um filhote de porte pequeno. Confira as medidas da cama, do peitoral e da caixa antes de comprar. Se você já tem algum item, retire a linha da soma."
+        ],
+        "comparisonTable": {
+          "caption": "Preços das páginas da Petz em 21/11/2026, antes de frete e sem CEP. A simulação aplica 10% aos itens sem oferta e mantém o preço dos demais.",
+          "headers": [
+            "Item",
+            "Preço da página",
+            "Estimativa com EMCASA"
+          ],
+          "rows": [
+            [
+              "Ração Golden Special Filhotes Porte Pequeno, 3 kg",
+              "R$ 59,99",
+              "R$ 53,99"
+            ],
+            [
+              "Comedouro Chalesco antiderrapante inox, Tam 1",
+              "R$ 16,79 (oferta)",
+              "R$ 16,79"
+            ],
+            [
+              "Bebedouro Chalesco automático, 600 ml",
+              "R$ 52,99",
+              "R$ 47,69"
+            ],
+            [
+              "Cama Spike colchonete azul, P",
+              "R$ 109,99",
+              "R$ 98,99"
+            ],
+            [
+              "Peitoral Spike Geo, PP",
+              "R$ 31,99",
+              "R$ 28,79"
+            ],
+            [
+              "Guia Toh corda unificada preta",
+              "R$ 41,99 (oferta)",
+              "R$ 41,99"
+            ],
+            [
+              "Tapete higiênico Petz superabsorvente, 30 unidades",
+              "R$ 79,99 (oferta)",
+              "R$ 79,99"
+            ],
+            [
+              "Brinquedo Spike macaco de pelúcia",
+              "R$ 24,99 (oferta)",
+              "R$ 24,99"
+            ],
+            [
+              "Escova Chalesco Special Pets, P",
+              "R$ 20,39 (oferta)",
+              "R$ 20,39"
+            ],
+            [
+              "Caixa de transporte Furacão Pet Joy, Tam 1",
+              "R$ 48,99 (oferta)",
+              "R$ 48,99"
+            ],
+            [
+              "Total",
+              "R$ 488,10",
+              "R$ 462,60"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços são os da página do produto, sem CEP. Na sacola, confira a linha do desconto antes de pagar."
+        ],
+        "image": {
+          "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+          "alt": "Quadro com o total do enxoval do filhote na Petz: R$ 488,10 pelos preços das páginas e R$ 462,60 com o EMCASA, que desconta só os quatro itens fora de oferta.",
+          "caption": "Quadro: Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "A conta com o EMCASA",
+        "paragraphs": [
+          "A diferença entre as duas colunas é de R$ 25,50, e vem só de quatro itens, os que estavam sem oferta: a ração (de R$ 59,99 para R$ 53,99), o bebedouro (de R$ 52,99 para R$ 47,69), a cama (de R$ 109,99 para R$ 98,99) e o peitoral (de R$ 31,99 para R$ 28,79).",
+          "A regra do [cupom Petz](/cupons/petz) é manter o maior desconto em cada produto, sem somar percentuais. A simulação conservou os preços de oferta. No seu carrinho, confira qual desconto ficou em cada item.",
+          "O cálculo segue os valores consultados. Se a promoção ou o preço para seu CEP mudar, refaça a soma. Veja também [como aplicar o EMCASA na Petz](/reviews/cupom-petz-como-usar)."
+        ]
+      },
+      {
+        "heading": "Ração, comedouro e bebedouro",
+        "bullets": [
+          "Ração: a Golden Special para filhotes de porte pequeno, sabor frango e carne, vem em 3 kg e em 15 kg (R$ 176,99). A ficha traz tabela de consumo por porte e peso. Qual ração dar e em que quantidade, o veterinário decide.",
+          "Comedouro: o Chalesco de inox tem base antiderrapante e três tamanhos. O Tam 1 leva 235 ml e mede 3,5 cm de altura por 6 cm de largura. O Tam 2 leva 480 ml (R$ 29,39) e o Tam 3, 710 ml (R$ 37,09). A ficha não diz para que porte cada tamanho serve.",
+          "Bebedouro: o Chalesco automático leva 600 ml. A ficha diz que o bico garante maior durabilidade e que o bebedouro se usa em garrafas pet de todos os tamanhos."
+        ]
+      },
+      {
+        "heading": "Cama, peitoral e guia",
+        "bullets": [
+          "Cama: o colchonete Spike é de fibra de poliéster e, segundo a ficha, é enrolável e pode ser usado em viagens. O tamanho P mede 81 por 66 cm e tem 2 cm de altura. O M (R$ 129,99) mede 105 por 66 cm.",
+          "Peitoral: o Spike Geo PP é regulável no pescoço e na cintura e tem duas posições para prender a guia, segundo a ficha. Os tamanhos seguem em P (R$ 34,99), M (R$ 39,99) e G (R$ 49,99). As medidas de cada tamanho estão na ficha.",
+          "Guia: a Toh de corda unificada é de polipropileno e mede cerca de 1,10 metro, pela ficha. É um modelo que já traz a parte da coleira; se a ideia é prender no peitoral, procure na loja uma guia com mosquetão."
+        ]
+      },
+      {
+        "heading": "Tapete, brinquedo, escova e caixa de transporte",
+        "bullets": [
+          "Tapete higiênico: a embalagem tem 30 unidades. Cada tapete mede 60 por 80 cm, com 60 por 50 cm de área de absorção. A ficha não diz quantos tapetes um filhote usa.",
+          "Brinquedo: o macaco de pelúcia da Spike mede 50 por 12 por 5 cm e tem olhos bordados. A ficha o descreve como perfeito para pets em fase de crescimento e não traz orientação de uso.",
+          "Escova: a Chalesco Special Pets P mede 17 por 5,5 cm. A G (R$ 26,99) mede 23 por 7 cm.",
+          "Caixa de transporte: a Furacão Pet Joy Tam 1 mede 26,5 por 31 por 46 cm. A ficha fala em fácil montagem e diz que a caixa não tem parafusos ou outros objetos perfurantes. Ela não informa o peso máximo do animal, então esse dado fica sem resposta aqui."
+        ]
+      },
+      {
+        "heading": "O que ficou fora da lista",
+        "paragraphs": [
+          "Antipulgas, vermífugo e vacina não entram: são decisões de saúde, e quem indica produto e momento é o veterinário. Também deixei de fora a ração de filhote de linha para cães em treinamento e competição, que a ficha descreve para esse uso.",
+          "Para porte médio ou grande, ração, caixa e comedouro mudam de tamanho, e a lista não cobre esses itens. Se a casa já tem parte do enxoval, tire as linhas correspondentes da tabela e refaça a soma."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quanto custa o enxoval de um filhote de cachorro na Petz? Os dez itens do exemplo somam cerca de 488 reais antes do frete. Na simulação com o EMCASA, ficam em cerca de 462 reais. O carrinho e o frete dependem do CEP.",
+          "A Petz dá desconto no enxoval? O EMCASA aplica 10% nos itens elegíveis. Em item promocional fica o maior desconto. Veja na sacola quanto ele tirou do seu pedido.",
+          "Qual ração de filhote comprar? A lista usa a Golden Special para filhotes de porte pequeno, cuja ficha traz tabela de consumo por porte e peso. A escolha da ração e a quantidade, na dúvida, são do veterinário.",
+          "Precisa de peitoral ou coleira para filhote? A lista traz o peitoral Spike Geo PP e a guia, e a ficha do peitoral fala em regulagem no pescoço e na cintura. Quando e como sair com o filhote, o veterinário orienta.",
+          "Quantas unidades de tapete higiênico comprar? A embalagem da lista traz 30 unidades. A ficha não diz quantos tapetes um filhote usa, e esse número depende da rotina da casa."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "O cachorro vai ser de porte pequeno: a ração da lista é dessa linha, e a conta já traz o total.",
+        "Você quer um ponto de partida com preço de cada item e a explicação de onde o EMCASA entra."
+      ],
+      "skipIf": [
+        "O cachorro vai ser de porte médio ou grande: ração, caixa e comedouro mudam de tamanho e de preço.",
+        "A casa já tem parte dos itens: nesse caso, refaça a soma só com o que falta."
+      ]
+    },
+    "cta": {
+      "text": "Abre a loja emcasa da Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Preços lidos nas páginas da Petz, sem login e sem CEP. Não testamos os produtos: o texto segue o que a loja publica. Somos parceiros da Petz e podemos receber comissão pelo código EMCASA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "assinatura-petz-ou-cupom"
+      },
+      {
+        "slug": "petz-entrega-expressa-ou-retirar-na-loja"
+      },
+      {
+        "slug": "areia-para-gato-petz-custo-por-quilo"
+      },
+      {
+        "slug": "petz-ou-cobasi"
+      }
+    ]
+  },
+  {
+    "id": 1278,
+    "slug": "peitoral-cachorro-que-puxa-petz",
+    "title": "Peitoral para cachorro que puxa: os modelos da Petz, com preço e medidas",
+    "seoTitle": "Peitoral para cachorro que puxa: modelos Petz",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Peitorais da Petz com preço, tamanhos e medidas de cada ficha: quais falam em “Inibe puxões” e quais não. Zee.Dog, Spike e Petz, pelo que a loja publica.",
+    "metaDescription": "EMCASA dá 10% OFF na Petz. Veja os peitorais para cachorro que puxa, com tamanho, medida e o que cada ficha diz.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+    "imageAlt": "Quadro «O que a ficha diz» (qual modelo cita puxões, medidas de tórax e pescoço, preço por tamanho e como medir), com o logo da Petz, os textos «Cachorro que puxa / qual peitoral» e o código EMCASA.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Se você procura argola na frente do peito, as fichas dos SofterWalk da Zee.Dog descrevem esse encaixe. Compare as medidas do tórax e da frente para o modelo escolhido. Spike Geo e Pastel Mint são opções de menor preço nas fichas consultadas. O FlyHarness se diferencia pelo fecho rápido e pela alça."
+        ]
+      },
+      {
+        "heading": "Os modelos lado a lado",
+        "paragraphs": [
+          "A tabela reúne quatro SofterWalk, um FlyHarness e dois modelos de entrada. Veja quais têm fixação frontal indicada na ficha e compare o preço no tamanho que serve no seu cachorro."
+        ],
+        "comparisonTable": {
+          "caption": "Preço da página de cada produto em 21/11/2026, sem CEP. O valor na sacola pode mudar com a região.",
+          "headers": [
+            "Modelo",
+            "Tamanhos",
+            "Preço na página",
+            "O que a ficha informa"
+          ],
+          "rows": [
+            [
+              "SofterWalk Gotham (Zee.Dog)",
+              "P, M e G",
+              "R$ 179,00 em todos",
+              "Sim: “Inibe puxões”"
+            ],
+            [
+              "SofterWalk Nox (Zee.Dog)",
+              "P, M e G",
+              "R$ 199,00 em todos",
+              "Sim: “Inibe puxões”"
+            ],
+            [
+              "SofterWalk H3D Fly (Zee.Dog)",
+              "P, M e G",
+              "R$ 179,00 em todos",
+              "Sim: “Peitoral Antipuxão”"
+            ],
+            [
+              "SofterWalk Voyage (Zee.Dog)",
+              "P, M e G",
+              "R$ 179,00 em todos",
+              "Sim: “Inibe puxões”"
+            ],
+            [
+              "FlyHarness Gotham (Zee.Dog)",
+              "T1 a T5",
+              "R$ 279,00 em todos",
+              "Não usa a palavra"
+            ],
+            [
+              "Spike Geo",
+              "PP, P, M e G",
+              "De R$ 31,99 (PP) a R$ 49,99 (G)",
+              "Não usa a palavra"
+            ],
+            [
+              "Pastel Mint (Petz)",
+              "PP, P, M e G",
+              "PP R$ 28,49 (em oferta), P R$ 32,99, G R$ 39,99",
+              "Não usa a palavra"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos preços da tabela, o SofterWalk Gotham G custa R$ 129,01 a mais que o Spike Geo G. A ficha do Gotham descreve a argola na frente do peito e a alça de controle. Use a tabela de medidas de cada um antes de comparar a compra.",
+          "O [cupom Petz](/cupons/petz) dá 10% nos itens elegíveis. Num item em oferta, fica o maior desconto. Estes modelos não foram testados no carrinho. Veja [como usar o EMCASA](/reviews/cupom-petz-como-usar)."
+        ]
+      },
+      {
+        "heading": "SofterWalk: o que a ficha descreve",
+        "paragraphs": [
+          "A linha SofterWalk, da Zee.Dog, é a que a Petz descreve como peitoral antipuxão. A loja informa nas fichas do Gotham, do Nox e do Voyage: “Perfeito para cães que puxam” e “Inibe puxões”. A do H3D Fly chama o modelo de “Peitoral Antipuxão” e fala em “reduzindo o impacto e desconforto de grandes puxões”.",
+          "As fichas coincidem em quatro pontos:"
+        ],
+        "bullets": [
+          "**Argola.** “2 opções de argola: no peito e no dorso”. No H3D Fly, a do dorso fica junto da alça de controle, “caso prefira uma configuração de peitoral padrão”.",
+          "**Alça de controle.** Forrada com neoprene no Gotham, no Nox e no Voyage.",
+          "**Ajuste.** “Tiras totalmente reguláveis”.",
+          "**Fecho.** “Sistema de trava em 4 pontos” no Gotham e no Nox; o H3D Fly fala em “super fecho com sistema de trava”."
+        ],
+        "postParagraphs": [
+          "As fichas não dizem que o peitoral resolve o puxão. O texto fica no que a loja publica.",
+          "Vale para quem quer a argola na frente do peito e a opção de trocar para o dorso. Se o seu cachorro está fora das faixas de medida da tabela abaixo, o SofterWalk não serve, e a ficha não diz o que fazer nesse caso."
+        ]
+      },
+      {
+        "heading": "Medidas do SofterWalk, modelo a modelo",
+        "paragraphs": [
+          "A mesma linha não tem a mesma tabela em todos os modelos. O Gotham e o Nox trazem as mesmas faixas; o Voyage e o H3D Fly têm faixas próprias, e o H3D Fly chama a segunda medida de “regulagem do peito”, não “da frente”. Compare sempre na página do modelo que você vai comprar."
+        ],
+        "comparisonTable": {
+          "caption": "Medidas aproximadas das fichas, em centímetros. A coluna da direita segue o nome que cada ficha usa.",
+          "headers": [
+            "Modelo e tamanho",
+            "Regulagem do tórax",
+            "Regulagem da frente (peito no H3D Fly)"
+          ],
+          "rows": [
+            [
+              "Gotham e Nox, P",
+              "48 a 61",
+              "21 a 28"
+            ],
+            [
+              "Gotham e Nox, M",
+              "58 a 79",
+              "22 a 31"
+            ],
+            [
+              "Gotham e Nox, G",
+              "74 a 105",
+              "25 a 33"
+            ],
+            [
+              "Voyage, P",
+              "41 a 54",
+              "24 a 26"
+            ],
+            [
+              "Voyage, M",
+              "61 a 80",
+              "33 a 40"
+            ],
+            [
+              "Voyage, G",
+              "78 a 106",
+              "42 a 50"
+            ],
+            [
+              "H3D Fly, P",
+              "50 a 77,5",
+              "31 a 38,5"
+            ],
+            [
+              "H3D Fly, M",
+              "62,5 a 98",
+              "33,5 a 40"
+            ],
+            [
+              "H3D Fly, G",
+              "66,5 a 105",
+              "36 a 47"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Gotham e no Nox, as faixas de tórax do M e do G se cruzam: de 74 a 79 cm cabem os dois tamanhos. A ficha não diz qual escolher nessa faixa; olhe também a medida da frente, que é de 22 a 31 cm no M e de 25 a 33 cm no G."
+        ]
+      },
+      {
+        "heading": "FlyHarness: o que a ficha não diz",
+        "paragraphs": [
+          "O FlyHarness Gotham é o mais caro da lista. A ficha não usa a palavra antipuxão: fala em “alça de controle para melhor domínio sobre o cachorro”, em “sistema de ajuste rápido com 2 tiras” e em “basta um clique para colocar e tirar”, além de faixa refletiva 360°. Por isso o texto não o chama de antipuxão.",
+          "Os tamanhos vão de T1 a T5, com a regulagem medida no peito."
+        ],
+        "comparisonTable": {
+          "caption": "FlyHarness Gotham, medidas da ficha em centímetros.",
+          "headers": [
+            "Tamanho",
+            "Regulagem do peito"
+          ],
+          "rows": [
+            [
+              "T1",
+              "34 a 45"
+            ],
+            [
+              "T2",
+              "43 a 65"
+            ],
+            [
+              "T3",
+              "55 a 77"
+            ],
+            [
+              "T4",
+              "62 a 86"
+            ],
+            [
+              "T5",
+              "73 a 103"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "É um modelo para quem gosta do fecho de um clique e da faixa refletiva e não procura a frase sobre puxões na ficha. Quem procura essa frase tem o SofterWalk."
+        ]
+      },
+      {
+        "heading": "Spike Geo e Pastel Mint: a versão de entrada",
+        "paragraphs": [
+          "Os dois são regulados no pescoço e na cintura, com duas posições para prender a guia, segundo as fichas. O Pastel Mint, da própria Petz, é feito de poliéster e a ficha cita “textura macia e sedosa”. Nenhuma das duas fichas fala em puxão ou antipuxão.",
+          "Servem a quem quer um peitoral simples para o passeio e gasta menos. Quem escolheu o peitoral pela frase “Inibe puxões” não a encontra aqui."
+        ],
+        "comparisonTable": {
+          "caption": "Medidas das fichas, em centímetros.",
+          "headers": [
+            "Modelo e tamanho",
+            "Pescoço",
+            "Tórax"
+          ],
+          "rows": [
+            [
+              "Spike Geo, PP",
+              "14 a 37",
+              "22 a 46"
+            ],
+            [
+              "Spike Geo, P",
+              "22 a 45",
+              "33 a 50"
+            ],
+            [
+              "Spike Geo, M",
+              "30 a 53",
+              "45 a 66"
+            ],
+            [
+              "Spike Geo, G",
+              "38 a 61",
+              "67 a 102"
+            ],
+            [
+              "Pastel Mint, PP",
+              "23 a 33",
+              "23 a 38"
+            ],
+            [
+              "Pastel Mint, P",
+              "31 a 43",
+              "32 a 53"
+            ],
+            [
+              "Pastel Mint, M",
+              "37 a 53",
+              "42 a 69"
+            ],
+            [
+              "Pastel Mint, G",
+              "45 a 70",
+              "62 a 107"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Como medir antes de comprar",
+        "paragraphs": [
+          "Meça o tórax e consulte o ponto de medição indicado para o modelo. A ficha de alguns usa “frente do peito” e a de outros usa “pescoço”. Use o desenho ou a orientação da marca antes de aplicar a medida a outra linha.",
+          "Se a medida cair entre dois tamanhos, ou se o cachorro estiver em crescimento, compare as faixas dos dois na página do modelo. Na dúvida sobre o ajuste no seu animal, o veterinário orienta."
+        ],
+        "image": {
+          "src": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
+          "alt": "Quadro «Medir antes de comprar»: passar a fita no tórax, medir também o pescoço ou a frente, comparar com a tabela da página do modelo e, entre dois tamanhos, olhar as duas faixas.",
+          "caption": "Quadro: Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Qual peitoral escolher",
+        "paragraphs": [
+          "Se você procura a palavra puxão na ficha, os quatro SofterWalk são os que a trazem. O Gotham, o H3D Fly e o Voyage custam o mesmo na página, e o Nox é o mais caro da linha. Escolha pela tabela de medidas, que muda de um modelo para outro.",
+          "Se o orçamento é menor e um peitoral simples basta, o Spike Geo e o Pastel Mint cobrem do PP ao G. O FlyHarness fica para quem quer o fecho rápido e aceita pagar mais por ele. A escolha segue o que cada ficha diz e o seu cachorro na fita métrica."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Peitoral antipuxão funciona? A Petz descreve argola frontal nos modelos SofterWalk. Esse é um recurso da ficha. Para escolher pelo ajuste e pela condução do seu cachorro, confirme as medidas e peça orientação de um profissional se precisar.",
+          "Qual peitoral para cachorro que puxa tem na Petz? Pela ficha, os SofterWalk da Zee.Dog, com argola no peito e no dorso; a tabela do início mostra preço e tamanhos.",
+          "Como saber o tamanho do peitoral? Meça o cachorro com fita e compare com a tabela de medidas da página do modelo, que muda de um modelo para outro, até na mesma linha.",
+          "Peitoral Zee.Dog tem cupom? O EMCASA dá 10% nos itens fora de oferta. Confira a linha do desconto na sacola, e veja o passo a passo no guia do cupom.",
+          "O FlyHarness é antipuxão? A ficha não usa essa palavra; ela fala em alça de controle e ajuste com duas tiras."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você procura a frase sobre puxões na ficha e quer a argola no peito e no dorso: os SofterWalk são os que a trazem.",
+        "Você quer um peitoral simples e gasta menos: o Spike Geo ou o Pastel Mint cobrem do PP ao G."
+      ],
+      "skipIf": [
+        "Seu cachorro está fora das faixas de medida do modelo que você escolheu, pequeno ou grande demais.",
+        "Você espera uma promessa de resultado no passeio: nenhuma ficha lida a faz."
+      ]
+    },
+    "cta": {
+      "text": "Entre pelo botão: ele abre a loja emcasa dentro da Petz, sem o código aplicado. O EMCASA vai no campo “Digite seu cupom” da sacola.",
+      "label": "Ir para a Petz",
+      "url": "https://petz.com.br/parceiro/emcasa",
+      "sponsored": true
+    },
+    "coupon": "EMCASA",
+    "affiliate": "petz",
+    "editorialNote": "Preços e medidas vêm das fichas da Petz, sem login e sem CEP. Ninguém da equipe usou os peitorais. Somos parceiros da Petz e podemos receber comissão pelo código EMCASA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-petz-como-usar"
+      },
+      {
+        "slug": "assinatura-petz-ou-cupom"
+      },
+      {
+        "slug": "petz-entrega-expressa-ou-retirar-na-loja"
+      },
+      {
+        "slug": "petz-ou-cobasi"
+      }
+    ]
   }
 ];

@@ -40941,6 +40941,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa.webp",
+      "local_url": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77700,
+      "sha256": "687c8fff1d4857300eb57ba72eaaef4593a071b6800787dd67984648e95b32d7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tasty-iso-adaptogen-vale-a-pena-capa.webp",
+      "storage_filename": "tasty-iso-adaptogen-vale-a-pena-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309434,
+          "column": 15,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/687c8fff1d4857300eb57ba72eaaef4593a071b6800787dd67984648e95b32d7/tasty-iso-adaptogen-vale-a-pena-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/687c8fff1d4857300eb57ba72eaaef4593a071b6800787dd67984648e95b32d7/tasty-iso-adaptogen-vale-a-pena-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:35.556Z",
+      "verification_etag_or_digest": "687c8fff1d4857300eb57ba72eaaef4593a071b6800787dd67984648e95b32d7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
+      "local_url": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47134,
+      "sha256": "69bd77569d5b22423bc1c0cf26f20305b54efa09b918718c22e39d3376966a81",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
+      "storage_filename": "tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+          "line": 143,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309548,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/69bd77569d5b22423bc1c0cf26f20305b54efa09b918718c22e39d3376966a81/tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/69bd77569d5b22423bc1c0cf26f20305b54efa09b918718c22e39d3376966a81/tasty-iso-adaptogen-vale-a-pena-pote-pure.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:35.933Z",
+      "verification_etag_or_digest": "69bd77569d5b22423bc1c0cf26f20305b54efa09b918718c22e39d3376966a81",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
+      "local_url": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48762,
+      "sha256": "b13bcfaeb2eddcc5495a0de5b71169103a2c2cfc5d59346d84f38433ceae3863",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
+      "storage_filename": "tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tasty-iso-adaptogen-vale-a-pena.json",
+          "line": 75,
+          "column": 19,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309480,
+          "column": 21,
+          "literal": "/images/reviews/adaptogen/tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b13bcfaeb2eddcc5495a0de5b71169103a2c2cfc5d59346d84f38433ceae3863/tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b13bcfaeb2eddcc5495a0de5b71169103a2c2cfc5d59346d84f38433ceae3863/tasty-iso-adaptogen-vale-a-pena-tabela-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:36.255Z",
+      "verification_etag_or_digest": "b13bcfaeb2eddcc5495a0de5b71169103a2c2cfc5d59346d84f38433ceae3863",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/airfryer-10-fatos-capa-discover.webp",
       "local_url": "/images/reviews/airfryer-10-fatos-capa-discover.webp",
       "media_kind": "image",
@@ -42165,6 +42303,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+      "local_url": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14824,
+      "sha256": "14e319cd15a9e28fa5c7a691c5e941b1feb29ddd4974523fc00a7fa5349b6b8e",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+      "storage_filename": "como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-colocar-senha-mala-bagaggio.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
+          "line": 45,
+          "column": 17,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310474,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/14e319cd15a9e28fa5c7a691c5e941b1feb29ddd4974523fc00a7fa5349b6b8e/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/14e319cd15a9e28fa5c7a691c5e941b1feb29ddd4974523fc00a7fa5349b6b8e/como-colocar-senha-mala-bagaggio-cadeado-chave.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:36.566Z",
+      "verification_etag_or_digest": "14e319cd15a9e28fa5c7a691c5e941b1feb29ddd4974523fc00a7fa5349b6b8e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+      "local_url": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38728,
+      "sha256": "7a8d7154c87e5b2f1909594ca19a768ef6c473c1ae1979813adf3fe0872e5e46",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-colocar-senha-mala-bagaggio-capa.webp",
+      "storage_filename": "como-colocar-senha-mala-bagaggio-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-colocar-senha-mala-bagaggio.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310452,
+          "column": 15,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7a8d7154c87e5b2f1909594ca19a768ef6c473c1ae1979813adf3fe0872e5e46/como-colocar-senha-mala-bagaggio-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7a8d7154c87e5b2f1909594ca19a768ef6c473c1ae1979813adf3fe0872e5e46/como-colocar-senha-mala-bagaggio-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:36.867Z",
+      "verification_etag_or_digest": "7a8d7154c87e5b2f1909594ca19a768ef6c473c1ae1979813adf3fe0872e5e46",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+      "local_url": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60914,
+      "sha256": "0bee872623adfe7003b7d3838d504f8c90f21c6fbb8e0a71c51dab743cb1fbd1",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+      "storage_filename": "como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-colocar-senha-mala-bagaggio.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
+          "line": 127,
+          "column": 17,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310556,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0bee872623adfe7003b7d3838d504f8c90f21c6fbb8e0a71c51dab743cb1fbd1/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0bee872623adfe7003b7d3838d504f8c90f21c6fbb8e0a71c51dab743cb1fbd1/como-colocar-senha-mala-bagaggio-detroit-cadeado-embutido.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:37.199Z",
+      "verification_etag_or_digest": "0bee872623adfe7003b7d3838d504f8c90f21c6fbb8e0a71c51dab743cb1fbd1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
+      "local_url": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51520,
+      "sha256": "0168c4047ab25eff6317642e36351de98694693422417adcde7b5052d929bb45",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "como-colocar-senha-mala-bagaggio-quadro.webp",
+      "storage_filename": "como-colocar-senha-mala-bagaggio-quadro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/como-colocar-senha-mala-bagaggio.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/como-colocar-senha-mala-bagaggio.json",
+          "line": 141,
+          "column": 17,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310570,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/como-colocar-senha-mala-bagaggio-quadro.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0168c4047ab25eff6317642e36351de98694693422417adcde7b5052d929bb45/como-colocar-senha-mala-bagaggio-quadro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0168c4047ab25eff6317642e36351de98694693422417adcde7b5052d929bb45/como-colocar-senha-mala-bagaggio-quadro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:37.498Z",
+      "verification_etag_or_digest": "0168c4047ab25eff6317642e36351de98694693422417adcde7b5052d929bb45",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa-v2.webp",
       "local_url": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa-v2.webp",
       "media_kind": "image",
@@ -42722,6 +43044,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T22:17:12.625Z",
       "verification_etag_or_digest": "29ebe4f7bebf704e352eaa9703811d4d6954f43ebd2220b0f030ae2330584890",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
+      "local_url": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18644,
+      "sha256": "3e357c083d32e441266823279e45feb43a9561c4e30a0f1adf93728e97bdb66a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "garrafa-termica-qual-escolher-parceiras-dual-900.webp",
+      "storage_filename": "garrafa-termica-qual-escolher-parceiras-dual-900.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+          "line": 164,
+          "column": 19,
+          "literal": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310792,
+          "column": 21,
+          "literal": "/images/reviews/bagaggio/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3e357c083d32e441266823279e45feb43a9561c4e30a0f1adf93728e97bdb66a/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3e357c083d32e441266823279e45feb43a9561c4e30a0f1adf93728e97bdb66a/garrafa-termica-qual-escolher-parceiras-dual-900.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:37.864Z",
+      "verification_etag_or_digest": "3e357c083d32e441266823279e45feb43a9561c4e30a0f1adf93728e97bdb66a",
       "verification_status": "verified"
     },
     {
@@ -44590,6 +44958,190 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T16:44:55.665Z",
       "verification_etag_or_digest": "d0b645bb1755cea7fb9d2c4ac5871e0e47b811edb1b2a570e4d4303d82dc91d3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-capa.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62664,
+      "sha256": "cfe852cadcb9322306179595c6afde0cbdcf987de1e9c1963889c2c93e168685",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-inspiracoes-capa.webp",
+      "storage_filename": "barbours-body-splash-inspiracoes-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-inspiracoes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-inspiracoes.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310046,
+          "column": 15,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cfe852cadcb9322306179595c6afde0cbdcf987de1e9c1963889c2c93e168685/barbours-body-splash-inspiracoes-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cfe852cadcb9322306179595c6afde0cbdcf987de1e9c1963889c2c93e168685/barbours-body-splash-inspiracoes-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:38.159Z",
+      "verification_etag_or_digest": "cfe852cadcb9322306179595c6afde0cbdcf987de1e9c1963889c2c93e168685",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-endless-soul.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-endless-soul.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13628,
+      "sha256": "533187d92dd7a6c542c567f2fef644c9378bf4e743d82e1702ff30cb9cf51eaf",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-inspiracoes-endless-soul.webp",
+      "storage_filename": "barbours-body-splash-inspiracoes-endless-soul.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-inspiracoes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-inspiracoes.json",
+          "line": 192,
+          "column": 19,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-endless-soul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310209,
+          "column": 21,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-endless-soul.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/533187d92dd7a6c542c567f2fef644c9378bf4e743d82e1702ff30cb9cf51eaf/barbours-body-splash-inspiracoes-endless-soul.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/533187d92dd7a6c542c567f2fef644c9378bf4e743d82e1702ff30cb9cf51eaf/barbours-body-splash-inspiracoes-endless-soul.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:38.467Z",
+      "verification_etag_or_digest": "533187d92dd7a6c542c567f2fef644c9378bf4e743d82e1702ff30cb9cf51eaf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-my-sweet-delight.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-my-sweet-delight.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16474,
+      "sha256": "cbd153d26252f1d470151057d64bdd1a7dd605e7b86e34120dbad1098e7b5097",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-inspiracoes-my-sweet-delight.webp",
+      "storage_filename": "barbours-body-splash-inspiracoes-my-sweet-delight.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-inspiracoes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-inspiracoes.json",
+          "line": 130,
+          "column": 19,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-my-sweet-delight.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310147,
+          "column": 21,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-my-sweet-delight.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cbd153d26252f1d470151057d64bdd1a7dd605e7b86e34120dbad1098e7b5097/barbours-body-splash-inspiracoes-my-sweet-delight.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cbd153d26252f1d470151057d64bdd1a7dd605e7b86e34120dbad1098e7b5097/barbours-body-splash-inspiracoes-my-sweet-delight.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:38.732Z",
+      "verification_etag_or_digest": "cbd153d26252f1d470151057d64bdd1a7dd605e7b86e34120dbad1098e7b5097",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-inspiracoes-soft-breeze.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-inspiracoes-soft-breeze.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12488,
+      "sha256": "bff68646e5c17f57f5c15dec12ac234fe5c9545a6d095d28d1a46aaf33f4d2c9",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-inspiracoes-soft-breeze.webp",
+      "storage_filename": "barbours-body-splash-inspiracoes-soft-breeze.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-inspiracoes.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-inspiracoes.json",
+          "line": 138,
+          "column": 19,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-soft-breeze.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310155,
+          "column": 21,
+          "literal": "/images/reviews/barbours/barbours-body-splash-inspiracoes-soft-breeze.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bff68646e5c17f57f5c15dec12ac234fe5c9545a6d095d28d1a46aaf33f4d2c9/barbours-body-splash-inspiracoes-soft-breeze.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bff68646e5c17f57f5c15dec12ac234fe5c9545a6d095d28d1a46aaf33f4d2c9/barbours-body-splash-inspiracoes-soft-breeze.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:39.028Z",
+      "verification_etag_or_digest": "bff68646e5c17f57f5c15dec12ac234fe5c9545a6d095d28d1a46aaf33f4d2c9",
       "verification_status": "verified"
     },
     {
@@ -110818,6 +111370,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37904,
+      "sha256": "bf14859efcde774b1d28dee7c443ebd8d98ae968d4c68aa5ac95ecbaad84d78c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-loja-fisica-endereco-capa.webp",
+      "storage_filename": "lets-eat-it-loja-fisica-endereco-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310843,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bf14859efcde774b1d28dee7c443ebd8d98ae968d4c68aa5ac95ecbaad84d78c/lets-eat-it-loja-fisica-endereco-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bf14859efcde774b1d28dee7c443ebd8d98ae968d4c68aa5ac95ecbaad84d78c/lets-eat-it-loja-fisica-endereco-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:40.224Z",
+      "verification_etag_or_digest": "bf14859efcde774b1d28dee7c443ebd8d98ae968d4c68aa5ac95ecbaad84d78c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43352,
+      "sha256": "7d05d54dfc1e0086b2022235536fd2529bde4d07cc19d90b9f2f7fc4e181e29e",
+      "width": 1000,
+      "height": 820,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+      "storage_filename": "lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-loja-fisica-endereco.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310948,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7d05d54dfc1e0086b2022235536fd2529bde4d07cc19d90b9f2f7fc4e181e29e/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7d05d54dfc1e0086b2022235536fd2529bde4d07cc19d90b9f2f7fc4e181e29e/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:40.523Z",
+      "verification_etag_or_digest": "7d05d54dfc1e0086b2022235536fd2529bde4d07cc19d90b9f2f7fc4e181e29e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp",
       "local_url": "/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp",
       "media_kind": "image",
@@ -125886,6 +126530,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+      "local_url": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41046,
+      "sha256": "fd0ae6ad991f45d63c14f97d1d2d88186b9aa0fb78b11fc3a1f96d381be32b85",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+      "storage_filename": "enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311041,
+          "column": 15,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fd0ae6ad991f45d63c14f97d1d2d88186b9aa0fb78b11fc3a1f96d381be32b85/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fd0ae6ad991f45d63c14f97d1d2d88186b9aa0fb78b11fc3a1f96d381be32b85/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:40.842Z",
+      "verification_etag_or_digest": "fd0ae6ad991f45d63c14f97d1d2d88186b9aa0fb78b11fc3a1f96d381be32b85",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+      "local_url": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52894,
+      "sha256": "931118de4218e023d982b556038a1b1c3eb9207953f68a672ad3b31e03616888",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+      "storage_filename": "enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/enxoval-filhote-cachorro-lista-com-preco.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311126,
+          "column": 19,
+          "literal": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/931118de4218e023d982b556038a1b1c3eb9207953f68a672ad3b31e03616888/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/931118de4218e023d982b556038a1b1c3eb9207953f68a672ad3b31e03616888/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:41.135Z",
+      "verification_etag_or_digest": "931118de4218e023d982b556038a1b1c3eb9207953f68a672ad3b31e03616888",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+      "local_url": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44818,
+      "sha256": "1937109037114f1c98167af3b87e053d8707bdf96c97aa00be6194ba1883271b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "peitoral-cachorro-que-puxa-petz-capa.webp",
+      "storage_filename": "peitoral-cachorro-que-puxa-petz-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311244,
+          "column": 15,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1937109037114f1c98167af3b87e053d8707bdf96c97aa00be6194ba1883271b/peitoral-cachorro-que-puxa-petz-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1937109037114f1c98167af3b87e053d8707bdf96c97aa00be6194ba1883271b/peitoral-cachorro-que-puxa-petz-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:41.474Z",
+      "verification_etag_or_digest": "1937109037114f1c98167af3b87e053d8707bdf96c97aa00be6194ba1883271b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
+      "local_url": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41448,
+      "sha256": "3b1065a9d0ed4bca1c7a8b68d2b911f424d2401ee32d61934aede83b50c31629",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "peitoral-cachorro-que-puxa-petz-quadro.webp",
+      "storage_filename": "peitoral-cachorro-que-puxa-petz-quadro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/peitoral-cachorro-que-puxa-petz.json",
+          "line": 280,
+          "column": 17,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 311502,
+          "column": 19,
+          "literal": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-quadro.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3b1065a9d0ed4bca1c7a8b68d2b911f424d2401ee32d61934aede83b50c31629/peitoral-cachorro-que-puxa-petz-quadro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3b1065a9d0ed4bca1c7a8b68d2b911f424d2401ee32d61934aede83b50c31629/peitoral-cachorro-que-puxa-petz-quadro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:41.735Z",
+      "verification_etag_or_digest": "3b1065a9d0ed4bca1c7a8b68d2b911f424d2401ee32d61934aede83b50c31629",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/petz/petz-e-confiavel-capa-v2.webp",
       "local_url": "/images/reviews/petz/petz-e-confiavel-capa-v2.webp",
       "media_kind": "image",
@@ -127025,6 +127853,190 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:13:34.831Z",
       "verification_etag_or_digest": "17632a9e03c8f7a0e4ab65c9d83d969ebb1aa02a63ca0230b37a6245c7c6e087",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+      "local_url": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49414,
+      "sha256": "f7aeef1ccb67cfad4ef722fa2fcf85533931c379594c8579814d6bfd852dc54a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pink-stick-qual-cor-escolher-capa.webp",
+      "storage_filename": "pink-stick-qual-cor-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pink-stick-qual-cor-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pink-stick-qual-cor-escolher.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309818,
+          "column": 15,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f7aeef1ccb67cfad4ef722fa2fcf85533931c379594c8579814d6bfd852dc54a/pink-stick-qual-cor-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f7aeef1ccb67cfad4ef722fa2fcf85533931c379594c8579814d6bfd852dc54a/pink-stick-qual-cor-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:42.068Z",
+      "verification_etag_or_digest": "f7aeef1ccb67cfad4ef722fa2fcf85533931c379594c8579814d6bfd852dc54a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+      "local_url": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30000,
+      "sha256": "d4d62d883d8d570f486d35c767ffbf59abdab4895b1ad88187c73cc66a95cfaf",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pink-stick-qual-cor-escolher-clear-stick.webp",
+      "storage_filename": "pink-stick-qual-cor-escolher-clear-stick.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pink-stick-qual-cor-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pink-stick-qual-cor-escolher.json",
+          "line": 189,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309978,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d4d62d883d8d570f486d35c767ffbf59abdab4895b1ad88187c73cc66a95cfaf/pink-stick-qual-cor-escolher-clear-stick.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d4d62d883d8d570f486d35c767ffbf59abdab4895b1ad88187c73cc66a95cfaf/pink-stick-qual-cor-escolher-clear-stick.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:42.354Z",
+      "verification_etag_or_digest": "d4d62d883d8d570f486d35c767ffbf59abdab4895b1ad88187c73cc66a95cfaf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+      "local_url": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 197422,
+      "sha256": "096c993257083433776f1336dde2daa7610a393a3d0f957c6a9feb690a4e2541",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+      "storage_filename": "pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pink-stick-qual-cor-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pink-stick-qual-cor-escolher.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309924,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/096c993257083433776f1336dde2daa7610a393a3d0f957c6a9feb690a4e2541/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/096c993257083433776f1336dde2daa7610a393a3d0f957c6a9feb690a4e2541/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:42.744Z",
+      "verification_etag_or_digest": "096c993257083433776f1336dde2daa7610a393a3d0f957c6a9feb690a4e2541",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+      "local_url": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27796,
+      "sha256": "483abf92f4652d2dcb93dd236ad15de3884bb34835eb67934e6820603e809a59",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pink-stick-qual-cor-escolher-pro-stick.webp",
+      "storage_filename": "pink-stick-qual-cor-escolher-pro-stick.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pink-stick-qual-cor-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pink-stick-qual-cor-escolher.json",
+          "line": 181,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309970,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/483abf92f4652d2dcb93dd236ad15de3884bb34835eb67934e6820603e809a59/pink-stick-qual-cor-escolher-pro-stick.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/483abf92f4652d2dcb93dd236ad15de3884bb34835eb67934e6820603e809a59/pink-stick-qual-cor-escolher-pro-stick.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:43.037Z",
+      "verification_etag_or_digest": "483abf92f4652d2dcb93dd236ad15de3884bb34835eb67934e6820603e809a59",
       "verification_status": "verified"
     },
     {
@@ -134306,6 +135318,98 @@
       "uploaded_at": null,
       "verified_at": "2026-11-18T04:56:32.590Z",
       "verification_etag_or_digest": "9943f41ec3dcb966035abc67d0cf7a821840e1d97c7ae6e284f54fb877e5f455",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-brain-para-que-serve-capa.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58176,
+      "sha256": "28bc812e546e70a26c75673549f5ed78831b4dcb61a8ffe33dfb630b09457dc2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-brain-para-que-serve-capa.webp",
+      "storage_filename": "rituaria-brain-para-que-serve-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-brain-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-brain-para-que-serve.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309654,
+          "column": 15,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/28bc812e546e70a26c75673549f5ed78831b4dcb61a8ffe33dfb630b09457dc2/rituaria-brain-para-que-serve-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/28bc812e546e70a26c75673549f5ed78831b4dcb61a8ffe33dfb630b09457dc2/rituaria-brain-para-que-serve-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:43.322Z",
+      "verification_etag_or_digest": "28bc812e546e70a26c75673549f5ed78831b4dcb61a8ffe33dfb630b09457dc2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-brain-para-que-serve-frasco.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-brain-para-que-serve-frasco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50248,
+      "sha256": "02c12d713d3f8775495e2ad5636aeef99dec3816cfe63df928b9cf546ec199a7",
+      "width": 529,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-brain-para-que-serve-frasco.webp",
+      "storage_filename": "rituaria-brain-para-que-serve-frasco.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-brain-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-brain-para-que-serve.json",
+          "line": 90,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-frasco.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 309715,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-brain-para-que-serve-frasco.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/02c12d713d3f8775495e2ad5636aeef99dec3816cfe63df928b9cf546ec199a7/rituaria-brain-para-que-serve-frasco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/02c12d713d3f8775495e2ad5636aeef99dec3816cfe63df928b9cf546ec199a7/rituaria-brain-para-que-serve-frasco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:43.635Z",
+      "verification_etag_or_digest": "02c12d713d3f8775495e2ad5636aeef99dec3816cfe63df928b9cf546ec199a7",
       "verification_status": "verified"
     },
     {
@@ -182372,6 +183476,144 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:45:43.319Z",
       "verification_etag_or_digest": "b3c4172bc1141a434c39e84f6fea5578238d648d3d9df74a29f0174bba0fee05",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa.webp",
+      "local_url": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43216,
+      "sha256": "2fa8350f3542e200edf08156236e6b9115282cfea767d53205afce69e2bc76c9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "garrafa-termica-qual-escolher-parceiras-capa.webp",
+      "storage_filename": "garrafa-termica-qual-escolher-parceiras-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310651,
+          "column": 15,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2fa8350f3542e200edf08156236e6b9115282cfea767d53205afce69e2bc76c9/garrafa-termica-qual-escolher-parceiras-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2fa8350f3542e200edf08156236e6b9115282cfea767d53205afce69e2bc76c9/garrafa-termica-qual-escolher-parceiras-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:39.329Z",
+      "verification_etag_or_digest": "2fa8350f3542e200edf08156236e6b9115282cfea767d53205afce69e2bc76c9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-fresh.webp",
+      "local_url": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-fresh.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36586,
+      "sha256": "e28d449c33f6c7636c7db86b4c29257ce9c00c493accc58eaf1b084310b4e7ef",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "garrafa-termica-qual-escolher-parceiras-fresh.webp",
+      "storage_filename": "garrafa-termica-qual-escolher-parceiras-fresh.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+          "line": 145,
+          "column": 19,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-fresh.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310773,
+          "column": 21,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-fresh.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e28d449c33f6c7636c7db86b4c29257ce9c00c493accc58eaf1b084310b4e7ef/garrafa-termica-qual-escolher-parceiras-fresh.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e28d449c33f6c7636c7db86b4c29257ce9c00c493accc58eaf1b084310b4e7ef/garrafa-termica-qual-escolher-parceiras-fresh.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:39.617Z",
+      "verification_etag_or_digest": "e28d449c33f6c7636c7db86b4c29257ce9c00c493accc58eaf1b084310b4e7ef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro.webp",
+      "local_url": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44622,
+      "sha256": "ddfcd3d52ba89ee514a583baf2fe11c350e0573d21fe38d03186e39f10a28146",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "garrafa-termica-qual-escolher-parceiras-quadro.webp",
+      "storage_filename": "garrafa-termica-qual-escolher-parceiras-quadro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/garrafa-termica-qual-escolher-parceiras.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 310755,
+          "column": 21,
+          "literal": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-quadro.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ddfcd3d52ba89ee514a583baf2fe11c350e0573d21fe38d03186e39f10a28146/garrafa-termica-qual-escolher-parceiras-quadro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ddfcd3d52ba89ee514a583baf2fe11c350e0573d21fe38d03186e39f10a28146/garrafa-termica-qual-escolher-parceiras-quadro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T16:32:39.906Z",
+      "verification_etag_or_digest": "ddfcd3d52ba89ee514a583baf2fe11c350e0573d21fe38d03186e39f10a28146",
       "verification_status": "verified"
     },
     {

@@ -1,0 +1,228 @@
+{
+  "id": 1272,
+  "slug": "pink-stick-qual-cor-escolher",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "21 de novembro de 2026",
+  "publishedAtISO": "2026-11-21",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "PNK-EMCASACOMCECILIA",
+  "affiliate": "pinkcheeks",
+  "title": "Pink Stick: qual cor escolher entre as nove, do 5 KM ao 100 KM ULTRA",
+  "seoTitle": "Pink Stick: qual cor escolher pela distância",
+  "type": "Guia de Escolha",
+  "description": "Os nove tons do Pink Stick, do 5 KM incolor ao 100 KM ULTRA, com o FPS e o FPUVA da ficha e o que a loja informa sobre água e suor. O que a página não diz também está aqui.",
+  "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF no Pink Stick. Veja as nove cores, do 5 KM ao 100 KM ULTRA, e o que a ficha diz sobre FPS, FPUVA e suor.",
+  "image": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-capa.webp",
+  "imageAlt": "Pink Stick 21 KM aberto, com embalagem branca e laranja e uma amostra da cor ao lado, em foto da Pink Cheeks com o logo da marca, os textos «Pink Stick / qual cor escolher?» e o código PNK-EMCASACOMCECILIA.",
+  "cta": {
+    "text": "Veja os tons do Pink Stick na Pink Cheeks. No checkout, aplique PNK-EMCASACOMCECILIA e confira os 10% OFF.",
+    "label": "Ir para a Pink Cheeks",
+    "url": "https://pinkcheeks.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Não usamos o Pink Stick: o texto segue o que a Pink Cheeks publica no site, com atribuição. Somos parceiros da Pink Cheeks e podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "pinkcheeks-e-boa"
+    },
+    {
+      "slug": "cupom-pinkcheeks-como-usar"
+    },
+    {
+      "slug": "pinkcheeks-e-confiavel"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer um bastão com cor e aceita escolher o tom pelas fotos da loja, já que a página não diz qual combina com cada pele.",
+      "Você quer a ficha com FPS 90 e FPUVA 70 e vai olhar o 5 KM, que a loja marca como sem cor, ou um dos oito tons com cor."
+    ],
+    "skipIf": [
+      "Você quer a cobertura que a ficha do Pro Stick compara à de uma base: ele tem seis tons e FPS 96.",
+      "Você quer um bastão transparente, sem escolher tom: o Clear Stick tem FPS 70, FPUVA 50 e uma versão só."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Quer um Pink Stick sem cor? A Pink Cheeks identifica o 5 KM como incolor. Os outros oito são vendidos com cor. As distâncias nomeiam as versões. Para escolher entre os tons, compare as fotos e use a prova virtual da loja como referência. A ficha informa FPS 90 e FPUVA 70."
+      ]
+    },
+    {
+      "heading": "Os nove tons do Pink Stick",
+      "paragraphs": [
+        "A Pink Cheeks vende cada tom como uma página própria, e todos aparecem disponíveis no site. A página do 21 KM diz: “Tem 9 tonalidades — do 5KM ao 100KM ULTRA — incluindo uma incolor.” A incolor é o 5 KM, que o site marca como “Sem Cor”. Os outros oito levam a marca “Com Cor”."
+      ],
+      "comparisonTable": {
+        "caption": "Preço de venda de cada tom no site da Pink Cheeks em 21/11/2026, antes do frete.",
+        "headers": [
+          "Tom",
+          "Marcação no site",
+          "Preço"
+        ],
+        "rows": [
+          [
+            "5 KM",
+            "Sem Cor",
+            "R$ 99,90"
+          ],
+          [
+            "10 KM",
+            "Com Cor",
+            "R$ 99,90"
+          ],
+          [
+            "15 KM",
+            "Com Cor",
+            "R$ 99,90"
+          ],
+          [
+            "21 KM",
+            "Com Cor",
+            "R$ 99,90"
+          ],
+          [
+            "42 KM",
+            "Com Cor",
+            "R$ 99,90"
+          ],
+          [
+            "42 KM RIO",
+            "Com Cor",
+            "R$ 99,90"
+          ],
+          [
+            "60 KM ULTRA",
+            "Com Cor",
+            "R$ 99,90"
+          ],
+          [
+            "80 KM ULTRA",
+            "Com Cor",
+            "R$ 99,90"
+          ],
+          [
+            "100 KM ULTRA",
+            "Com Cor",
+            "R$ 99,90"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Cor pelo nome da corrida",
+      "paragraphs": [
+        "Os nomes remetem à corrida, segundo a loja. A distância identifica o produto. Na hora de escolher, use as fotos e amostras de cada página para comparar os tons na pele. A loja também oferece o botão de prova virtual.",
+        "O [guia Pink Cheeks é boa?](/reviews/pinkcheeks-e-boa) reúne amostras identificadas por tom. Compare mais de uma foto, pois a luz e a tela mudam a aparência da cor."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.webp",
+          "alt": "Modelo aplicando o Pink Stick no rosto, com etiquetas da loja sobre FPS 90, acabamento natural, textura leve e cobertura média",
+          "caption": "Foto do Pink Stick 21 KM na página da loja. Foto: Pink Cheeks.",
+          "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Pink Stick, Pro Stick ou Clear Stick",
+      "paragraphs": [
+        "Os três são bastões faciais da mesma loja, e a diferença está na ficha. A loja descreve o Pro Stick como “corrige imperfeições do tom e da textura com cobertura semelhante à de base e 6 opções de tons”, com acabamento mate. O Clear Stick é descrito como “completamente transparente” e de “toque seco”. Do Pink Stick, a ficha fala em cor e nada mais sobre cobertura além das etiquetas da foto.",
+        "Na foto da loja, a embalagem do Pro Stick mostra 16 g, e a do Clear Stick, 12 g. A página do Pink Stick não traz o peso em texto."
+      ],
+      "comparisonTable": {
+        "caption": "O que a ficha de cada bastão informa. Preço de venda do site.",
+        "headers": [
+          "Bastão",
+          "FPS e FPUVA",
+          "Cor",
+          "Preço"
+        ],
+        "rows": [
+          [
+            "Pink Stick",
+            "90 e 70",
+            "Nove tons, o 5 KM sem cor",
+            "R$ 99,90"
+          ],
+          [
+            "Pro Stick",
+            "96 e 43",
+            "Seis tons",
+            "R$ 99,90"
+          ],
+          [
+            "Clear Stick",
+            "70 e 50",
+            "Transparente, sem tons",
+            "R$ 109,90"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp",
+          "alt": "Pro Stick aberto, com embalagem branca e amarela com FPS 96 e FPUVA 43 e uma amostra de cor marrom-clara ao lado",
+          "caption": "Pro Stick, tom PRO15, na página da loja. Foto: Pink Cheeks.",
+          "href": "https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro15",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "alt": "Clear Stick em embalagem transparente com rótulo branco, FPS 70, FPUVA 50 e 12 g",
+          "caption": "Clear Stick na página da loja. Foto: Pink Cheeks.",
+          "href": "https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Derrete com o suor?",
+      "paragraphs": [
+        "A [Pink Cheeks](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km) declara resistência à água e ao suor por duas horas. A página consultada não apresenta o relatório do teste. Confira a orientação de reaplicação no rótulo.",
+        "No Pro Stick, a loja fala em “2 horas de resistência à água comprovada”. A ficha do Clear Stick diz que ele “oferece resistência à água e ao suor”, sem informar horas."
+      ]
+    },
+    {
+      "heading": "Reaplicação e aplicação",
+      "paragraphs": [
+        "O modo de uso publicado pela marca pede reaplicação a cada duas horas durante a exposição ao sol e depois de suor intenso ou permanência prolongada na água. Confira as instruções no rótulo do seu bastão.",
+        "Para espalhar o Pro Stick, a loja diz que dá para usar “com esponja, pincel ou com os próprios dedos”. O rótulo também avisa que o produto “não oferece nenhuma proteção contra a insolação” e orienta consultar um médico para crianças menores de 6 meses."
+      ]
+    },
+    {
+      "heading": "Quanto sai com o código",
+      "paragraphs": [
+        "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo. Não montamos um carrinho com o Pink Stick, então a conta final é a do seu: confira a linha “Desconto no pedido” antes de pagar. O passo a passo e o teste que fizemos estão no [guia do cupom Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual cor do Pink Stick escolher? A loja nomeia os nove tons por distâncias de corrida e não diz qual combina com cada pele. A escolha fica com as fotos da loja e com o botão “Prove virtualmente”.",
+        "O Pink Stick derrete com o suor? A Pink Cheeks declara resistência à água e ao suor por duas horas. O rótulo também pede reaplicação durante a exposição e depois de transpiração excessiva.",
+        "Qual a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90, FPUVA 70 e nove tons. O Pro Stick tem FPS 96, FPUVA 43 e seis tons, com cobertura que a loja compara à de uma base.",
+        "O Pink Stick tem versão sem cor? Sim. O 5 KM é o tom que a loja marca como “Sem Cor” e descreve como incolor."
+      ]
+    }
+  ]
+}
