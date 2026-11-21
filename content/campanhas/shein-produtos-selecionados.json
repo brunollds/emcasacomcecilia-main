@@ -57,6 +57,11 @@
       "headline": "SHEIN 指定商品優惠",
       "text": "SHEIN 精選商品限時折扣，具體條件以 SHEIN 網站為準。",
       "action": "查看活動"
+    },
+    "ar": {
+      "headline": "منتجات مختارة بخصم على SHEIN",
+      "text": "خصومات لفترة محدودة على منتجات اختارتها SHEIN. الشروط موجودة على موقع SHEIN.",
+      "action": "شاهد الحملة"
     }
   },
   "source": "coupon.campaigns da SHEIN em couponsData.ts, migrado em 02/11 (verificado em 24/10)",
