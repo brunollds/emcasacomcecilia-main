@@ -11,7 +11,7 @@ import type {
 } from './types';
 import { CECILIA_PERSON_ID } from '@/lib/ceciliaCredentials';
 import { BRUNO_AUTHOR, CECILIA_AUTHOR } from './authors';
-import { LOCALES, type Locale } from '@/lib/i18n/locales';
+import { getIntlLocale, type Locale } from '@/lib/i18n/locales';
 import { inlineMarkdownToText } from '@/lib/inlineMarkdown';
 
 /**
@@ -331,7 +331,7 @@ export function formatDate(isoDate: string, locale: Locale = 'pt', monthStyle: '
     return isoDate;
   }
 
-  return date.toLocaleDateString(LOCALES[locale].htmlLang, {
+  return date.toLocaleDateString(getIntlLocale(locale), {
     day: 'numeric',
     month: monthStyle,
     year: 'numeric',
