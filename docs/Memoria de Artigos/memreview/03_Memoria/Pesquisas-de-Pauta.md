@@ -8,6 +8,17 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Modelos da cupomtiff: nove pautas de produto e pós-compra (21/11/2026)
+
+- **Gatilho:** o Bruno mandou 10 artigos da cupomtiff (Pink Cheeks, peitoral Zee.Dog, Tasty Iso, Rituária Brain, proposta da Rituária, Pacco Hydra, itens para cachorro, loja da Let's, senha da mala Bagaggio, inspirações da Barbour's) e pediu pautas novas modeladas neles, sem revisão nem pós-Black Friday.
+- **Leitura dos 10 (21/11):** nenhum faz o teste que o título promete ("teste real" e "testamos" sem teste descrito); quase nenhum dá preço; os passos da senha da mala não citam nenhum botão real; o Brain diz 2 cápsulas por dia, e o frasco de 30 dias aponta 1. Todos fecham com o cupom da autora.
+- **Autocompletar (21/11):** "senha mala bagaggio" (esqueci a senha, padrão, resetar, tsa007, detroit) e "cadeado tsa como"; "tasty iso adaptogen" (zero lactose, é bom, tabela nutricional, 1,8 kg); "rituaria brain" (funciona, como tomar, para que serve, composição); "gocase ou stanley", "pacco ou stanley", garrafa Gocase de 500 a 1200 ml; "pink stick" (15, 21 e 42 km, cores, pro stick fps 96); "enxoval cachorro filhote / lista"; "let's eat it loja física"; "barbours inspiração" (jadore, 212, delina, libre, light blue, masculino). Nenhuma sugestão para "peitoral" (parece filtro).
+- **Catálogo:** só a Gocase e a Bagaggio vendem garrafa térmica entre as parceiras. A Bagaggio não publica passo a passo de senha. A Let's Eat It já publica o endereço da Casa em `lets-eat-it-e-boa`.
+- **Ficou de fora:** "A Rituária: a proposta da marca" (o `rituaria-e-boa` já cobre).
+- **Viraram:** G10, GC7, AD9, RT8, PK7, L17, PZ12 e PZ15 (briefings de 21/11), e a BB6 saiu do estoque. Leituras da Petz em [[petz-leituras-pz12-pz15-2111]].
+
+---
+
 ## BAW: calçados e marcas de streetwear (20/11/2026)
 
 - **Gatilho:** artigo da cupomtiff sobre os tênis da BAW (18/10), genérico, sem modelo nem preço. O Bruno quer a apresentação primeiro e depois a busca dos concorrentes.
