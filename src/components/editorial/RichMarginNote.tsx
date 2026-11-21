@@ -98,7 +98,7 @@ export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false
 
         {/* Connector line: dashed line extending toward text column */}
         <div
-          className={`richnote-connector absolute top-1/2 -left-6 w-6 h-px border-t border-dashed ${ink.connector}`}
+          className={`richnote-connector absolute top-1/2 -start-6 w-6 h-px border-t border-dashed ${ink.connector}`}
           aria-hidden="true"
         />
       </aside>
@@ -147,7 +147,7 @@ export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false
 
         {/* Connector line: dashed line extending toward text column */}
         <div
-          className={`richnote-connector absolute top-1/2 -left-6 w-6 h-px border-t border-dashed ${ink.connector}`}
+          className={`richnote-connector absolute top-1/2 -start-6 w-6 h-px border-t border-dashed ${ink.connector}`}
           aria-hidden="true"
         />
       </aside>

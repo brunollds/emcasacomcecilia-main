@@ -34,7 +34,7 @@ export function ArticleRelated({ articles, title, viewAllLabel, viewAllHref }: A
           className={`inline-flex min-h-11 shrink-0 items-center gap-1.5 text-sm font-extrabold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`}
         >
           {viewAllLabel}
-          <ArrowRight aria-hidden="true" className="size-4" />
+          <ArrowRight aria-hidden="true" className="size-4 rtl:-scale-x-100" />
         </TrackedReviewsLink>
       </div>
       {/* O pt-5 dá lugar aos ímãs, que saem do cartão. */}
