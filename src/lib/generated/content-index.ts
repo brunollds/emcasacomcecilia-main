@@ -294024,5 +294024,871 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1209,
+    "slug": "queda-de-cabelo-mounjaro",
+    "locale": "pt",
+    "title": "Queda de cabelo com Mounjaro: o que fazer e como cuidar dos fios nessa fase",
+    "seoTitle": "Queda de cabelo com Mounjaro: o que fazer",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a bula brasileira diz sobre a queda de cabelo com Mounjaro, a rotina para os fios ressecados nessa fase e os produtos da Prohall para deixá-los mais fortes.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Queda de cabelo com Mounjaro: o que a bula diz e como deixar os fios mais fortes.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/queda-de-cabelo-mounjaro-capa.webp",
+    "imageAlt": "Kit Force Hair com shampoo, máscara e tônico, o spray Absolut One e o óleo Overgrow, em fotos da Prohall com o logo da marca, os textos «Cabelo e Mounjaro / kits para os fios» e o cupom CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a rotina fez sentido para os seus fios, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas da Prohall e a bula do medicamento, sem uso dos produtos; não substitui o médico. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "queda-de-cabelo-ozempic"
+      },
+      {
+        "slug": "queda-de-cabelo-wegovy"
+      },
+      {
+        "slug": "cabelo-fino-e-fraco-qual-linha-prohall"
+      },
+      {
+        "slug": "force-hair-prohall-para-que-serve"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      },
+      {
+        "slug": "prohall-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A bula brasileira do Mounjaro (tirzepatida) lista queda de cabelo entre as reações adversas. Quem decide o que fazer é o médico que acompanha o tratamento. Para os fios ressecados e frágeis, rotina suave e a linha certa ajudam; o CECILIAMC dá até 10% OFF na Prohall."
+        ]
+      },
+      {
+        "heading": "Queda de cabelo tem a ver com o Mounjaro?",
+        "paragraphs": [
+          "A bula brasileira do Mounjaro lista queda de cabelo entre as reações adversas, e a bula americana da tirzepatida para controle de peso liga a queda à redução de peso. Segundo a Sociedade Brasileira de Dermatologia, a queda que aparece depois de gatilhos como dietas muito restritivas começa de 2 a 3 meses depois e costuma passar sozinha em alguns meses.",
+          "Converse com o médico que acompanha o tratamento; se a queda for grande ou durar mais, procure um dermatologista. O que tomar e qual vitamina usar, só o médico indica, depois de avaliar você."
+        ]
+      },
+      {
+        "heading": "Cabelo ressecado e fraco: a rotina nessa fase",
+        "paragraphs": [
+          "Enquanto o médico cuida da queda, dá para cuidar do fio. Estes cuidados são de rotina e não prometem parar nada:"
+        ],
+        "bullets": [
+          "Lave com suavidade, massageando o couro cabeludo com a ponta dos dedos, sem esfregar o comprimento.",
+          "Reduza o calor do secador, da chapinha e do babyliss e use protetor térmico quando for usar.",
+          "Dê um intervalo entre as químicas, como alisamento e coloração.",
+          "Penteie do comprimento para a raiz, com o cabelo úmido e um pente de dentes largos.",
+          "Hidrate o comprimento com máscara e passe um óleo ou sérum nas pontas."
+        ],
+        "postParagraphs": [
+          "Os produtos de loja cuidam do fio que quebra e resseca. A queda em si é assunto do médico. Para o calor, a Prohall indica o spray Absolut One como protetor térmico do comprimento e das pontas, com ácido lático e pantenol na fórmula. Para o couro cabeludo, o óleo Overgrow leva óleo de rícino e jojoba e fica 10 minutos antes do enxágue."
+        ]
+      },
+      {
+        "heading": "Kits da Prohall para fios fracos: qual para qual fio",
+        "paragraphs": [
+          "A Prohall reuniu uma coleção para quem usa as canetas e sente o cabelo mais frágil. Os produtos são de cuidado do fio: a loja os indica para fios mais fortes, menos quebradiços e com mais corpo. A comparação entre as três linhas está em [cabelo fino e fraco: qual linha da Prohall escolher](/reviews/cabelo-fino-e-fraco-qual-linha-prohall), e a Force Hair tem guia próprio em [Force Hair Prohall: o que vem na linha](/reviews/force-hair-prohall-para-que-serve)."
+        ],
+        "comparisonTable": {
+          "caption": "O que a página de cada produto indica no site oficial e o preço de venda na Prohall em 20 de novembro de 2026.",
+          "headers": [
+            "Produto",
+            "A Prohall indica para",
+            "Como se usa",
+            "Preço no site"
+          ],
+          "rows": [
+            [
+              "[Kit Force Hair](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
+              "Fios enfraquecidos",
+              "Shampoo, máscara por 5 a 10 minutos e tônico no couro cabeludo",
+              "R$ 99,90"
+            ],
+            [
+              "[Kit Encorpax Molecular Restore](https://lojaprohall.com.br/products/encorpax-molecular-restore-kit-completo)",
+              "Fios finos, sem massa e fragilizados por química",
+              "Quatro etapas: shampoo, máscara por 15 minutos, sérum e leave-in",
+              "R$ 139,90"
+            ],
+            [
+              "[Combo Selve Power](https://lojaprohall.com.br/products/combo-power)",
+              "Fios afinados, para dar densidade e encorpamento sem pesar",
+              "Shampoo e condicionador",
+              "R$ 49,90"
+            ],
+            [
+              "[Óleo Overgrow](https://lojaprohall.com.br/products/oleo-capilar-crescimento-overgrow-prohall)",
+              "Nutrição do couro cabeludo",
+              "Gotas na raiz, 10 minutos antes do enxágue",
+              "R$ 59,90"
+            ],
+            [
+              "[Spray Absolut One](https://lojaprohall.com.br/products/mascara-em-spray-absolut-one-12-beneficios-em-1-200ml)",
+              "Proteção térmica do comprimento e das pontas",
+              "Borrifar no comprimento e nas pontas",
+              "R$ 29,90"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/prohall/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+            "alt": "Frasco spray branco do Tônico Force Hair de 120 ml da Prohall, em foto oficial da loja",
+            "caption": "Tônico Force Hair 120 ml. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/tonico-force-hair-crescimento-capilar-acelerado-120ml"
+          },
+          {
+            "src": "/images/reviews/prohall/queda-de-cabelo-mounjaro-mascara-force-hair.webp",
+            "alt": "Frasco branco da Máscara Force Hair de 500 ml da Prohall, com faixa roxa, em foto oficial da loja",
+            "caption": "Máscara Force Hair 500 ml. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/mascara-de-crescimento-fortificante-force-hair-500ml"
+          }
+        ],
+        "postParagraphs": [
+          "O Force Hair traz os três passos, do shampoo ao tônico. O Encorpax é o mais completo, com quatro etapas. O Selve Power é o mais simples e o mais barato, só shampoo e condicionador. O Overgrow e o Absolut One entram ao lado de qualquer um dos três, um para o couro cabeludo e outro para o calor."
+        ]
+      },
+      {
+        "heading": "Como usar o código",
+        "paragraphs": [
+          "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Abra a loja pelo botão do artigo, monte o carrinho e digite o código em “Tem um cupom?”, no checkout. O percentual varia por produto: confira a linha do desconto antes de pagar. O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Mounjaro faz o cabelo cair? A bula brasileira do Mounjaro lista queda de cabelo entre as reações adversas. Quem avalia o seu caso é o médico que acompanha o tratamento.",
+          "Quanto tempo dura a queda de cabelo com Mounjaro? Segundo a Sociedade Brasileira de Dermatologia, a queda que vem de gatilhos como dietas muito restritivas costuma passar sozinha em alguns meses. Se for grande ou durar mais, procure um dermatologista.",
+          "O que fazer com a queda de cabelo no Mounjaro? Converse com o médico que acompanha o tratamento. Para os fios, vale a rotina suave: lavagem delicada, menos calor, protetor térmico e intervalo entre as químicas.",
+          "Que vitamina tomar para a queda de cabelo com Mounjaro? Só o médico indica o que tomar, depois de avaliar você. A Sociedade Brasileira de Dermatologia orienta não se automedicar para tratar a perda de cabelo.",
+          "Tem cupom na Prohall? Sim, o código CECILIAMC dá até 10% OFF e é digitado no campo de cupom do checkout. Confira a linha do desconto no carrinho antes de pagar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1210,
+    "slug": "queda-de-cabelo-ozempic",
+    "locale": "pt",
+    "title": "Ozempic causa queda de cabelo? O que fazer e como deixar os fios mais fortes",
+    "seoTitle": "Ozempic causa queda de cabelo? O que fazer",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a bula diz sobre Ozempic e queda de cabelo, a rotina para fios finos e fracos nessa fase e a linha da Prohall indicada para dar mais corpo aos fios.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Ozempic e queda de cabelo: o que a bula diz e a rotina para fios finos e fracos nessa fase.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/queda-de-cabelo-ozempic-capa.webp",
+    "imageAlt": "Kit Encorpax Molecular Restore com shampoo, máscara, sérum e leave-in, em foto da Prohall com o logo da marca, os textos «Cabelo e Ozempic / fios finos e fracos» e o cupom CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a linha Encorpax faz sentido para os seus fios, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas da Prohall e a bula do medicamento, sem uso dos produtos; não substitui o médico. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "queda-de-cabelo-wegovy"
+      },
+      {
+        "slug": "queda-de-cabelo-mounjaro"
+      },
+      {
+        "slug": "cabelo-fino-e-fraco-qual-linha-prohall"
+      },
+      {
+        "slug": "force-hair-prohall-para-que-serve"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A bula americana do Ozempic cita queda de cabelo, e a bula brasileira do Wegovy, com a mesma substância, diz que ela foi mais relatada em quem perdeu mais peso. O médico que acompanha o tratamento decide o que fazer. Para fios finos e fracos, a Prohall indica a linha Encorpax, e o CECILIAMC dá até 10% OFF."
+        ]
+      },
+      {
+        "heading": "Ozempic causa queda de cabelo?",
+        "paragraphs": [
+          "A bula americana do Ozempic, a semaglutida para diabetes, lista alopecia entre as reações relatadas depois do lançamento. A bula brasileira do Wegovy, com a mesma substância em dose maior, lista queda de cabelo, diz que os casos foram principalmente leves, que a maioria dos pacientes se recuperou durante a continuação do tratamento e que a queda foi relatada com mais frequência em quem perdeu mais peso. Converse com o médico que acompanha o seu tratamento; se a queda for grande ou durar mais, procure um dermatologista."
+        ]
+      },
+      {
+        "heading": "Fios finos e fracos: a rotina nessa fase",
+        "paragraphs": [
+          "Quando o cabelo parece mais fino e quebra com facilidade, o que está ao seu alcance é reduzir o desgaste do fio. Os cuidados abaixo protegem o fio que quebra; a queda em si é assunto do médico. Para o que a bula do Wegovy diz sobre durante e depois do uso, veja [queda de cabelo com Wegovy](/reviews/queda-de-cabelo-wegovy)."
+        ],
+        "bullets": [
+          "Lave com água morna e massageie o couro cabeludo com as pontas dos dedos, sem esfregar o comprimento.",
+          "Use condicionador ou máscara do comprimento às pontas e enxágue bem.",
+          "Reduza o calor do secador, da chapinha e do babyliss, e passe protetor térmico antes de usar qualquer um.",
+          "Deixe um intervalo maior entre uma química e outra.",
+          "Penteie do comprimento para a raiz, com pente de dentes largos, e devagar."
+        ]
+      },
+      {
+        "heading": "Encorpax, Selve Power ou Force Hair: qual linha para fios finos",
+        "paragraphs": [
+          "A Prohall reuniu esses três itens na coleção GLP-1 da loja. A tabela traz para que a loja indica cada um e o preço de venda. A ordem é a do seu caso: Encorpax e Selve Power primeiro, porque a loja os descreve para fios finos e afinados. Para a escolha entre as três linhas, veja [qual linha da Prohall para cabelo fino e fraco](/reviews/cabelo-fino-e-fraco-qual-linha-prohall); sobre a Force Hair, [o que vem na linha](/reviews/force-hair-prohall-para-que-serve)."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda na Prohall em 20 de novembro de 2026 e o que a página de cada linha indica.",
+          "headers": [
+            "Linha",
+            "A loja indica para",
+            "Como se usa",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "[Encorpax Molecular Restore, kit com 4 itens](https://lojaprohall.com.br/products/encorpax-molecular-restore-kit-completo)",
+              "Fios finos, sem massa, quebradiços e fragilizados por química",
+              "Shampoo, máscara por 15 minutos, sérum e leave-in",
+              "R$ 139,90"
+            ],
+            [
+              "[Selve Power, shampoo e condicionador](https://lojaprohall.com.br/products/combo-power)",
+              "Cabelos afinados, para dar densidade e corpo sem pesar",
+              "Shampoo e condicionador",
+              "R$ 49,90"
+            ],
+            [
+              "[Force Hair, kit com shampoo, máscara e tônico](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
+              "Fios enfraquecidos",
+              "Shampoo, máscara por 5 a 10 minutos e tônico no couro cabeludo",
+              "R$ 99,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Encorpax também se compra por item: shampoo, máscara, sérum e leave-in. Para o calor do secador e da chapinha, a Prohall indica o [spray Absolut One](https://lojaprohall.com.br/products/mascara-em-spray-absolut-one-12-beneficios-em-1-200ml) como protetor térmico."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+            "alt": "Shampoo e condicionador Selve Power da Prohall, em foto oficial da loja",
+            "caption": "Combo Selve Power, shampoo e condicionador. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/combo-power"
+          },
+          {
+            "src": "/images/reviews/prohall/queda-de-cabelo-ozempic-kit-force-hair.webp",
+            "alt": "Kit Force Hair com shampoo, máscara e tônico da Prohall, em foto oficial da loja",
+            "caption": "Kit Force Hair, com shampoo, máscara e tônico. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x"
+          }
+        ]
+      },
+      {
+        "heading": "Como usar o código CECILIAMC",
+        "paragraphs": [
+          "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Entre no site pelo botão do artigo, ponha os itens no carrinho e digite o código em “Tem um cupom?”. Confira a linha do desconto no carrinho antes de pagar; o passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Ozempic causa queda de cabelo? A bula americana do Ozempic lista alopecia entre as reações relatadas depois do lançamento. A bula brasileira do Wegovy, com a mesma substância, também cita queda de cabelo. Converse com o médico que acompanha o tratamento.",
+          "Ozempic afina o cabelo? A bula americana do Ozempic cita alopecia, o nome técnico da queda de cabelo. Se os fios parecem mais finos e fracos, a rotina deste texto reduz o desgaste do fio, e o médico avalia o resto.",
+          "Como evitar a queda de cabelo com Ozempic? Quem avalia isso é o médico que acompanha o tratamento. Para o fio, vale lavar com suavidade, reduzir o calor e espaçar as químicas.",
+          "A queda de cabelo para depois do Ozempic? Segundo a Sociedade Brasileira de Dermatologia, a queda que aparece depois de gatilhos como dietas muito restritivas costuma passar sozinha em alguns meses. Se durar mais, procure um dermatologista.",
+          "Tem cupom na Prohall? Sim, o CECILIAMC dá até 10% OFF. Digite o código no campo de cupom do checkout e confira o desconto no carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1211,
+    "slug": "queda-de-cabelo-wegovy",
+    "locale": "pt",
+    "title": "Queda de cabelo com Wegovy: o que a bula diz e como cuidar dos fios durante e depois",
+    "seoTitle": "Queda de cabelo com Wegovy: o que fazer",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a bula brasileira do Wegovy diz sobre queda de cabelo, o que fazer durante o tratamento e depois de parar e as linhas da Prohall para deixar os fios mais fortes.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Queda de cabelo com Wegovy: o que a bula diz e como cuidar dos fios durante e depois do uso.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/queda-de-cabelo-wegovy-capa.webp",
+    "imageAlt": "Kit Force Hair com shampoo, máscara e tônico e o combo Selve Power com shampoo e condicionador, em fotos da Prohall com o logo da marca, os textos «Cabelo com Wegovy / fios mais fortes» e o cupom CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Force Hair ou a Selve Power fazem sentido para o seu cabelo, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas da Prohall e a bula do medicamento, sem uso dos produtos; não substitui o médico. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "queda-de-cabelo-ozempic"
+      },
+      {
+        "slug": "queda-de-cabelo-mounjaro"
+      },
+      {
+        "slug": "cabelo-fino-e-fraco-qual-linha-prohall"
+      },
+      {
+        "slug": "force-hair-prohall-para-que-serve"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      },
+      {
+        "slug": "prohall-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A bula brasileira do Wegovy lista queda de cabelo entre as reações e diz que os casos foram principalmente leves. Quem decide o que fazer é o médico que acompanha o tratamento. Para os fios, a Prohall indica a Force Hair e a Selve Power; o que cada uma traz e o preço estão abaixo."
+        ]
+      },
+      {
+        "heading": "O que a bula do Wegovy diz sobre o cabelo",
+        "paragraphs": [
+          "A bula brasileira do Wegovy para profissionais de saúde lista queda de cabelo entre as reações. Segundo o texto, os casos foram principalmente leves, a maioria dos pacientes se recuperou durante a continuação do tratamento e a queda foi relatada com mais frequência em quem perdeu mais peso. Segundo a Sociedade Brasileira de Dermatologia, a queda que aparece 2 a 3 meses depois de gatilhos como dietas muito restritivas costuma passar sozinha em alguns meses. Converse com o médico que acompanha o tratamento, que também responde sobre os outros efeitos do Wegovy; se a queda for grande ou durar mais, procure um dermatologista."
+        ]
+      },
+      {
+        "heading": "Durante o tratamento: a rotina dos fios",
+        "paragraphs": [
+          "Os produtos de cabelo cuidam do fio que quebra; a queda em si é assunto do médico. O que dá para fazer em casa é não judiar do que já está lá."
+        ],
+        "bullets": [
+          "Lave com suavidade, sem esfregar o comprimento, e enxágue com água morna em vez de quente.",
+          "Use menos calor: secador mais longe e na temperatura baixa, prancha e babyliss só de vez em quando e com protetor térmico.",
+          "Espace a química (alisamento, coloração, descoloração) o quanto o seu cabeleireiro achar possível.",
+          "Na hora de pentear, comece pelo comprimento e suba até a raiz, sem puxar os nós."
+        ],
+        "postParagraphs": [
+          "Na linha Force Hair, a Prohall indica o shampoo e a máscara para fios enfraquecidos e o tônico para o couro cabeludo, de uso diário e sem enxágue. O passo a passo de cada item está em [Force Hair Prohall: o que vem na linha](/reviews/force-hair-prohall-para-que-serve)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+            "alt": "Frasco spray branco do Tônico Force Hair de 120 ml da Prohall, em foto oficial da loja",
+            "caption": "Tônico Force Hair 120 ml. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/tonico-force-hair-crescimento-capilar-acelerado-120ml"
+          }
+        ]
+      },
+      {
+        "heading": "Depois de parar: quando a queda continua",
+        "paragraphs": [
+          "Se a queda continuar depois que o tratamento acabou, ou passar de alguns meses, o caminho é o dermatologista. A própria SBD pede que ninguém se automedique para tratar a perda de cabelo.",
+          "Enquanto isso, a rotina de cuidado com os fios continua a mesma, com a Force Hair ou a Selve Power."
+        ]
+      },
+      {
+        "heading": "Force Hair ou Selve Power: qual para o seu fio",
+        "paragraphs": [
+          "A Prohall reuniu a coleção [Kits especiais GLP-1](https://lojaprohall.com.br/collections/kits-especiais-glp-1) com as linhas indicadas para fios fragilizados nessa fase. Duas delas servem a este caso. Para escolher entre as linhas da marca, veja também [qual linha Prohall para cabelo fino e fraco](/reviews/cabelo-fino-e-fraco-qual-linha-prohall)."
+        ],
+        "comparisonTable": {
+          "caption": "O que a Prohall indica em cada linha e o preço de venda no site em 20 de novembro de 2026.",
+          "headers": [
+            "Linha",
+            "Para quem a Prohall indica",
+            "O que vem",
+            "Preço no site"
+          ],
+          "rows": [
+            [
+              "[Kit Force Hair](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
+              "Fios enfraquecidos",
+              "Shampoo 500 ml, máscara 500 ml e tônico",
+              "R$ 99,90"
+            ],
+            [
+              "[Combo Selve Power](https://lojaprohall.com.br/products/combo-power)",
+              "Cabelos afinados, para dar densidade e encorpamento sem pesar",
+              "Shampoo 400 ml e condicionador 200 ml",
+              "R$ 49,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se o seu cabelo está fino e sem volume, a Selve Power é a linha que a loja descreve para isso; se está enfraquecido, a Force Hair."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+            "alt": "Frasco branco do Shampoo Force Hair de 500 ml da Prohall, com faixa roxa, em foto oficial da loja",
+            "caption": "Shampoo Force Hair 500 ml. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/shampoo-de-crescimento-fortificante-force-hair-500ml"
+          }
+        ]
+      },
+      {
+        "heading": "Como usar o código",
+        "paragraphs": [
+          "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF no site oficial. O código vai no campo “Tem um cupom?”, no checkout, e o percentual varia por produto: veja a linha do desconto antes de pagar. Onde digitar e o que fazer se o código não entrar estão em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Wegovy faz o cabelo cair? A bula brasileira do Wegovy lista queda de cabelo entre as reações, com casos principalmente leves. Quem avalia o seu caso é o médico que acompanha o tratamento.",
+          "A queda de cabelo do Wegovy volta ao normal? Segundo a bula, a maioria dos pacientes se recuperou durante a continuação do tratamento. Segundo a Sociedade Brasileira de Dermatologia, a queda que aparece depois de gatilhos como dietas muito restritivas costuma passar sozinha em alguns meses. Se não passar, procure um dermatologista.",
+          "Como evitar a queda de cabelo com Wegovy? Isso é com o médico que acompanha o tratamento. Para os fios, a rotina está na seção sobre o tratamento.",
+          "A queda continua depois de parar o Wegovy? Se a queda continuar depois de parar, ou durar mais que alguns meses, procure um dermatologista, que investiga a causa.",
+          "Tem cupom na Prohall? Sim: o CECILIAMC dá até 10% OFF no site oficial. Digite o código no campo de cupom do checkout e confira a linha do desconto no carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1212,
+    "slug": "queda-de-cabelo-o-que-fazer",
+    "locale": "pt",
+    "title": "Queda de cabelo: quando é normal, quando procurar o dermatologista e como fortalecer os fios",
+    "seoTitle": "Queda de cabelo: o que fazer e quando se preocupar",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quantos fios é normal perder por dia, quando a queda de cabelo pede o dermatologista e a rotina e os produtos da Prohall para deixar os fios mais fortes.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Queda de cabelo: quantos fios é normal perder, quando ir ao dermatologista e como fortalecer os fios.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/queda-de-cabelo-o-que-fazer-capa.webp",
+    "imageAlt": "Kit Force Hair com shampoo, máscara e tônico, em foto da Prohall com o logo da marca, os textos «Queda de cabelo / o que fazer» e o cupom CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se uma das linhas faz sentido para os seus fios, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas da Prohall e da Sociedade Brasileira de Dermatologia, sem uso dos produtos; não substitui o médico. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cabelo-fino-e-fraco-qual-linha-prohall"
+      },
+      {
+        "slug": "queda-de-cabelo-mounjaro"
+      },
+      {
+        "slug": "queda-de-cabelo-ozempic"
+      },
+      {
+        "slug": "queda-de-cabelo-wegovy"
+      },
+      {
+        "slug": "force-hair-prohall-para-que-serve"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Perder cerca de 100 a 120 fios por dia é normal, segundo a Sociedade Brasileira de Dermatologia. Queda acentuada ou que dura meses pede o dermatologista, sem automedicação. Para os fios, uma rotina de cuidado e a linha certa ajudam a deixá-los mais fortes, e o CECILIAMC dá até 10% OFF na Prohall."
+        ]
+      },
+      {
+        "heading": "Quantos fios é normal perder por dia",
+        "paragraphs": [
+          "Segundo a Sociedade Brasileira de Dermatologia (SBD), perder cerca de 100 a 120 fios por dia é normal.",
+          "A SBD cita como gatilhos de queda o pós-parto, a febre, as infecções, a cirurgia, as dietas muito restritivas e o estresse, além de fatores genéticos e hormonais. Quando a causa é um desses gatilhos, a SBD diz que a queda aguda costuma durar de dois a quatro meses."
+        ]
+      },
+      {
+        "heading": "Quando procurar o dermatologista",
+        "paragraphs": [
+          "A SBD orienta procurar o dermatologista logo que a queda ficar acentuada. Alguns momentos em que vale não esperar:"
+        ],
+        "bullets": [
+          "Você notou que a queda aumentou muito de uma hora para outra.",
+          "A queda começou depois de parto, cirurgia (inclusive bariátrica) ou de uma dieta para emagrecer.",
+          "A queda segue por meses sem diminuir."
+        ],
+        "postParagraphs": [
+          "Em qualquer um desses casos, a SBD é direta: não se automedique para tratar a perda de cabelo. O que tomar, passar ou fazer é decisão de quem examina você."
+        ]
+      },
+      {
+        "heading": "Cuidados que ajudam os fios",
+        "paragraphs": [
+          "Estes cuidados poupam o fio que já está aí; a queda segue com o dermatologista:"
+        ],
+        "bullets": [
+          "Lavar com suavidade, massageando o couro cabeludo sem esfregar.",
+          "Usar menos calor de secador e chapinha e, quando usar, passar um protetor térmico antes, como o spray Absolut One da Prohall.",
+          "Deixar um intervalo entre uma química e outra.",
+          "Pentear do comprimento para a raiz, com cuidado nos nós."
+        ],
+        "postParagraphs": []
+      },
+      {
+        "heading": "Quem usa as canetas emagrecedoras",
+        "paragraphs": [
+          "Se a queda apareceu junto com o tratamento para emagrecer, o médico que acompanha você é quem orienta. A gente reuniu o cuidado com os fios em um artigo para cada marca: [Mounjaro](/reviews/queda-de-cabelo-mounjaro), [Ozempic](/reviews/queda-de-cabelo-ozempic) e [Wegovy](/reviews/queda-de-cabelo-wegovy)."
+        ]
+      },
+      {
+        "heading": "Fios fracos, finos ou quebradiços: qual linha da Prohall",
+        "paragraphs": [
+          "A tabela mostra para que cada linha é indicada, segundo a Prohall. São produtos de cuidado do fio e não substituem a consulta. Para escolher entre as três com mais calma, veja [qual linha da Prohall para cabelo fino e fraco](/reviews/cabelo-fino-e-fraco-qual-linha-prohall)."
+        ],
+        "comparisonTable": {
+          "caption": "O que a Prohall indica para cada linha e o preço de venda no site em 20 de novembro de 2026.",
+          "headers": [
+            "Linha",
+            "A Prohall indica para",
+            "Preço no site"
+          ],
+          "rows": [
+            [
+              "[Force Hair](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x) (kit com shampoo, máscara e tônico)",
+              "Fios enfraquecidos",
+              "R$ 99,90"
+            ],
+            [
+              "[Encorpax](https://lojaprohall.com.br/products/encorpax-molecular-restore-kit-completo) (kit com shampoo, máscara, sérum e leave-in)",
+              "Fios finos, sem massa e quebradiços, fragilizados por química",
+              "R$ 139,90"
+            ],
+            [
+              "[Selve Power](https://lojaprohall.com.br/products/combo-power) (shampoo e condicionador)",
+              "Fios afinados, sem volume",
+              "R$ 49,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Cada linha também se compra por item, e os preços avulsos estão nas páginas dos produtos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+            "alt": "Frasco branco do Shampoo Force Hair de 500 ml da Prohall, com faixa roxa, em foto oficial da loja",
+            "caption": "Shampoo Force Hair 500 ml. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/shampoo-de-crescimento-fortificante-force-hair-500ml"
+          }
+        ]
+      },
+      {
+        "heading": "Como usar o código",
+        "paragraphs": [
+          "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Ele é digitado no checkout, em “Tem um cupom?”; antes de pagar, veja se a linha do desconto apareceu no carrinho.",
+          "O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quantos fios de cabelo é normal cair por dia? Segundo a Sociedade Brasileira de Dermatologia, perder cerca de 100 a 120 fios por dia é normal.",
+          "Queda de cabelo feminina: o que pode ser? A SBD cita o pós-parto, a febre, a cirurgia, as dietas muito restritivas, o estresse e fatores genéticos e hormonais. Para saber qual é o seu caso, só o dermatologista, e sem se automedicar.",
+          "Queda de cabelo masculina é normal? Perder cerca de 100 a 120 fios por dia é normal, segundo a SBD. Se a queda aumentou ou há dúvida sobre a causa, o dermatologista avalia.",
+          "Queda de cabelo depois de emagrecer passa? A SBD diz que a queda aguda, quando vem de um gatilho como a dieta muito restritiva, costuma durar de dois a quatro meses. Se durar mais, ou se você estiver em tratamento, fale com o médico.",
+          "Shampoo resolve queda de cabelo? Não: a queda é assunto do dermatologista. O shampoo e a máscara cuidam do fio que quebra."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1213,
+    "slug": "cabelo-fino-e-fraco-qual-linha-prohall",
+    "locale": "pt",
+    "title": "Cabelo fino e fraco: Encorpax, Selve Power ou Force Hair, qual linha da Prohall escolher",
+    "seoTitle": "Cabelo fino e fraco: Encorpax, Selve Power ou Force Hair?",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Para que tipo de fio a Prohall indica o Encorpax, o Selve Power e o Force Hair, o que vem em cada kit, como usar e quanto custa cada linha no site oficial.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Encorpax, Selve Power ou Force Hair: para que fio a loja indica cada linha, o que vem em cada kit e o preço.",
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
+    "imageAlt": "Kit Encorpax Molecular Restore com shampoo, máscara, sérum e leave-in e o combo Selve Power com shampoo e condicionador, em foto da Prohall com o logo da marca, os textos «Cabelo fino e fraco / qual linha escolher» e o cupom CECILIAMC.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve o Encorpax se o seu fio é fino, sem massa e fragilizado por química e você aceita uma rotina de 4 etapas.",
+        "Leve o Selve Power se o fio é afinado e sem volume e você quer começar por shampoo e condicionador de uso diário.",
+        "Leve o Force Hair se a sua queixa é de fio enfraquecido e você quer um tônico no couro cabeludo junto com shampoo e máscara."
+      ],
+      "skipIf": [
+        "Passe se a queixa é queda forte: nesse caso, comece pelo dermatologista e não pela loja."
+      ]
+    },
+    "cta": {
+      "text": "Se uma dessas linhas faz sentido para o seu fio, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+      "label": "Ir para a Prohall",
+      "url": "https://lojaprohall.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIAMC",
+    "affiliate": "prohall",
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "force-hair-prohall-para-que-serve"
+      },
+      {
+        "slug": "prohall-e-boa"
+      },
+      {
+        "slug": "queda-de-cabelo-o-que-fazer"
+      },
+      {
+        "slug": "queda-de-cabelo-mounjaro"
+      },
+      {
+        "slug": "select-one-ou-burix-one"
+      },
+      {
+        "slug": "cupom-prohall-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Prohall indica o Encorpax para fios finos e fragilizados por química, o Selve Power para fios afinados e sem corpo no dia a dia e o Force Hair para fios enfraquecidos. O Selve Power é o mais barato para começar. O CECILIAMC dá até 10% OFF na loja."
+        ]
+      },
+      {
+        "heading": "As três linhas lado a lado",
+        "paragraphs": [
+          "A Prohall tem três linhas para cabelo fino e fraco, cada uma para um tipo de fio e com um número diferente de passos. A tabela resume o que a página de cada kit diz.",
+          "Quem pergunta se cabelo fino aguenta progressiva ou botox encontra a conversa nos artigos da [Select One](/reviews/select-one-como-usar) e da [Burix One](/reviews/select-one-ou-burix-one). Aqui o assunto é só a rotina de lavar e cuidar."
+        ],
+        "comparisonTable": {
+          "caption": "O que a página de cada kit descreve no site oficial.",
+          "headers": [
+            "Linha",
+            "A Prohall indica para",
+            "O que vem",
+            "Como se usa"
+          ],
+          "rows": [
+            [
+              "[Encorpax](https://lojaprohall.com.br/products/encorpax-molecular-restore-kit-completo)",
+              "Fios finos, sem massa e quebradiços, fragilizados por química frequente",
+              "Shampoo 300 ml, máscara 300 g, sérum 200 ml e leave-in 120 ml",
+              "4 etapas; máscara por 15 minutos"
+            ],
+            [
+              "[Selve Power](https://lojaprohall.com.br/products/combo-power)",
+              "Cabelo fraco, quebradiço e sem corpo; fios afinados",
+              "Shampoo 400 ml e condicionador 200 ml",
+              "Lavar e condicionar, uso diário"
+            ],
+            [
+              "[Force Hair](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
+              "Fios enfraquecidos",
+              "Shampoo 500 ml, máscara 500 ml e tônico 120 g",
+              "Máscara por 5 a 10 minutos; tônico no couro cabeludo"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Encorpax: o cronograma de 4 etapas",
+        "paragraphs": [
+          "A Prohall indica o Encorpax Molecular Restore para o fio fino que ficou sem massa depois de química frequente. A página fala em repor massa, devolver elasticidade e reduzir a porosidade, e diz que o kit pode ser usado antes ou depois da química.",
+          "A ordem é esta: shampoo no cabelo molhado, com massagem e enxágue completo; máscara no comprimento e nas pontas, mecha a mecha, por 15 minutos; sérum no cabelo úmido, com enxágue; e leave-in sem enxágue, em pouca quantidade. É a rotina mais longa das três, e a única com quatro produtos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
+            "alt": "Kit Encorpax Molecular Restore com shampoo, máscara, sérum e leave-in, em foto oficial da loja",
+            "caption": "Kit Encorpax Molecular Restore. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/encorpax-molecular-restore-kit-completo"
+          }
+        ]
+      },
+      {
+        "heading": "Selve Power: shampoo e condicionador para o dia a dia",
+        "paragraphs": [
+          "O Selve Power é a entrada mais simples. A Prohall descreve o combo como um cuidado para cabelos afinados, que dá densidade e encorpamento do comprimento às pontas sem pesar, e o indica como primeiro passo de uma rotina diária.",
+          "O uso é o de sempre: shampoo massageado no couro cabeludo, enxágue, condicionador no comprimento e nas pontas, alguns minutos e enxágue de novo. O condicionador lista colágeno; a página do shampoo não detalha os ativos.",
+          "Shampoo e condicionador também saem avulsos, para quem só precisa de um dos dois."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+            "alt": "Combo Selve Power com o shampoo de 400 ml e o condicionador de 200 ml, em foto oficial da loja",
+            "caption": "Combo Selve Power, shampoo e condicionador. Foto: Prohall.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://lojaprohall.com.br/products/combo-power"
+          }
+        ]
+      },
+      {
+        "heading": "Force Hair e Overgrow: o tônico e o óleo para o couro cabeludo",
+        "paragraphs": [
+          "O Force Hair é o kit com shampoo, máscara e tônico, indicado pela Prohall para fios enfraquecidos. O uso, os ativos e o preço de cada item estão em [Force Hair Prohall: o que vem na linha](/reviews/force-hair-prohall-para-que-serve).",
+          "O Overgrow vem em sérum, sem enxágue, e em óleo, que fica 10 minutos no couro cabeludo e é enxaguado. A página descreve óleo de rícino e óleo de jojoba e fala em nutrir o couro cabeludo."
+        ]
+      },
+      {
+        "heading": "Quanto custa cada linha",
+        "paragraphs": [
+          "Os preços abaixo são os de venda no site. Conta nossa, pelos preços da tabela: no Encorpax, os quatro avulsos dão R$ 169,60, contra R$ 139,90 do kit; no Selve Power, os dois dão R$ 59,80, contra R$ 49,90 do combo."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda na Prohall em 20 de novembro de 2026, sem cupom.",
+          "headers": [
+            "Linha",
+            "Kit",
+            "Itens avulsos"
+          ],
+          "rows": [
+            [
+              "Encorpax",
+              "R$ 139,90",
+              "Shampoo R$ 44,90; máscara R$ 59,90; sérum R$ 34,90; leave-in R$ 29,90"
+            ],
+            [
+              "Selve Power",
+              "R$ 49,90",
+              "Shampoo R$ 29,90; condicionador R$ 29,90"
+            ],
+            [
+              "Force Hair",
+              "R$ 99,90",
+              "Shampoo R$ 49,90; máscara R$ 79,90; tônico R$ 24,90"
+            ],
+            [
+              "Overgrow",
+              "Sem kit",
+              "Sérum R$ 24,90; óleo R$ 59,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Por ml, o shampoo do Selve Power (400 ml) sai a cerca de R$ 0,07 e o do Encorpax (300 ml), a cerca de R$ 0,15. São fórmulas diferentes.",
+          "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Confira a linha do desconto no carrinho antes de pagar. O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        ]
+      },
+      {
+        "heading": "Quando a queda é o problema",
+        "paragraphs": [
+          "Os produtos cuidam do fio que quebra e fica sem corpo. Queda de cabelo é assunto do dermatologista, e a Sociedade Brasileira de Dermatologia orienta não se automedicar para tratar a perda de cabelo. Se os fios estão caindo mais do que de costume, veja [queda de cabelo: o que fazer](/reviews/queda-de-cabelo-o-que-fazer) e converse com um médico antes de escolher a linha."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual shampoo da Prohall para cabelo fino? A Prohall tem o shampoo do Encorpax, indicado para fios finos e fragilizados por química, e o do Selve Power, para fios afinados e sem corpo. O do Selve Power é o mais em conta e vem em combo com o condicionador.",
+          "Encorpax ou Selve Power? O Encorpax tem quatro etapas e é para o fio que passou por química frequente; o Selve Power tem duas e serve de rotina diária. Se você quer começar simples, o Selve Power. Se o fio está fragilizado por química, o Encorpax.",
+          "Como usar o kit Encorpax? Shampoo no cabelo molhado e enxágue; máscara no comprimento e nas pontas por 15 minutos; sérum no cabelo úmido, com enxágue; leave-in sem enxágue. É o que a página do kit manda fazer.",
+          "Selve Power engrossa o cabelo? A Prohall descreve encorpamento do comprimento e das pontas, sem pesar. Fio novo ela não promete.",
+          "Tem cupom na Prohall? O CECILIAMC dá até 10% OFF. Digite o código no campo de cupom do checkout e confira a linha do desconto no carrinho."
+        ]
+      }
+    ]
   }
 ];
