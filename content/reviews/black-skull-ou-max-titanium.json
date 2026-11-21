@@ -17,7 +17,7 @@
   "metaDescription": "Black Skull ou Max Titanium: CECILIA10 dá 10% na Black Skull e MAX10EMCASACOMCECILIA até 10% na Max. Whey e creatina pelo rótulo e pelo preço por dose.",
   "publishedAt": "16 de outubro de 2026",
   "publishedAtISO": "2026-10-16",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-20",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp",
@@ -259,7 +259,7 @@
         "Na creatina, a régua é a mesma para todos os produtos: cada dose do rótulo tem 5 g de creatina. O que muda é o que vem junto no pote e quanto custa cada dose. Os preços são do catálogo das lojas, antes do cupom. O preço por dose é conta nossa: preço dividido pelas doses do rótulo."
       ],
       "comparisonTable": {
-        "caption": "Preços do catálogo das lojas, antes do cupom. Preço por dose: conta nossa.",
+        "caption": "Preços do catálogo das lojas, antes do cupom. Preço por dose: conta nossa. O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
         "headers": [
           "Marca e produto",
           "Ingredientes",
@@ -300,8 +300,8 @@
             "Max Titanium Creatina 500 g",
             "creatina monohidratada e dióxido de silício",
             "100",
-            "R$ 87,53 (de R$ 115,60)",
-            "R$ 0,88"
+            "R$ 69,90 (de R$ 115,60)",
+            "R$ 0,70"
           ],
           [
             "Max Titanium Creatina 300 g",

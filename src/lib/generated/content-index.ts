@@ -96503,7 +96503,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Skull ou Max Titanium: CECILIA10 dá 10% na Black Skull e MAX10EMCASACOMCECILIA até 10% na Max. Whey e creatina pelo rótulo e pelo preço por dose.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-20",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp",
@@ -96745,7 +96745,7 @@ export const reviewsData: unknown[] = [
           "Na creatina, a régua é a mesma para todos os produtos: cada dose do rótulo tem 5 g de creatina. O que muda é o que vem junto no pote e quanto custa cada dose. Os preços são do catálogo das lojas, antes do cupom. O preço por dose é conta nossa: preço dividido pelas doses do rótulo."
         ],
         "comparisonTable": {
-          "caption": "Preços do catálogo das lojas, antes do cupom. Preço por dose: conta nossa.",
+          "caption": "Preços do catálogo das lojas, antes do cupom. Preço por dose: conta nossa. O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
           "headers": [
             "Marca e produto",
             "Ingredientes",
@@ -96786,8 +96786,8 @@ export const reviewsData: unknown[] = [
               "Max Titanium Creatina 500 g",
               "creatina monohidratada e dióxido de silício",
               "100",
-              "R$ 87,53 (de R$ 115,60)",
-              "R$ 0,88"
+              "R$ 69,90 (de R$ 115,60)",
+              "R$ 0,70"
             ],
             [
               "Max Titanium Creatina 300 g",
@@ -96958,7 +96958,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Probiótica? Mesma fábrica, linhas diferentes: proteína, preço por 100 g e creatina.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-20",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa-v2.webp",
@@ -97116,7 +97116,7 @@ export const reviewsData: unknown[] = [
           "A diferença está nos outros tamanhos e formatos:"
         ],
         "comparisonTable": {
-          "caption": "Preços dos sites oficiais, que mudam com as promoções; o preço por dose é conta nossa (preço dividido pelas porções da tabela).",
+          "caption": "Preços dos sites oficiais, que mudam com as promoções; o preço por dose é conta nossa (preço dividido pelas porções da tabela). O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
           "headers": [
             "Loja",
             "Produto",
@@ -97142,9 +97142,9 @@ export const reviewsData: unknown[] = [
             [
               "Max Titanium",
               "Creatina 500 g",
-              "R$ 87,53 (de R$ 115,60)",
+              "R$ 69,90 (de R$ 115,60)",
               "100 de 5 g",
-              "R$ 0,88"
+              "R$ 0,70"
             ],
             [
               "Max Titanium",
@@ -97191,7 +97191,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Pote maior:** só a Max tem o de 500 g, a dose mais barata das duas lojas, R$ 0,88.",
+          "**Pote maior:** só a Max tem o de 500 g, a dose mais barata das duas lojas, R$ 0,70.",
           "**Pote menor:** a Max tem o de 150 g, e a Probiótica, o de 100 g. Os dois saem mais caros por dose que o de 300 g.",
           "**Sem medir o pó:** só a Probiótica vende sachês de 5 g e cápsulas. A porção das cápsulas é de 3 g em 4 cápsulas, então o preço por porção não se compara direto com o das doses de 5 g.",
           "**Creapure:** as duas lojas vendem uma creatina Creapure, a de 250 g na Max e a de 150 g na Probiótica. É a opção mais cara por dose em cada loja."
@@ -105122,7 +105122,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína e por 1.000 kcal.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-20",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-ou-growth-capa-v2.webp",
@@ -105278,6 +105278,7 @@ export const reviewsData: unknown[] = [
           "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de tabela, sem o cupom; os da Growth são de novembro, e os da Max, de outubro."
         ],
         "comparisonTable": {
+          "caption": "O preço da creatina de 500 g da Max (pote e pack) foi relido depois, em novembro; os demais são da leitura original.",
           "headers": [
             "Produto",
             "Tamanho e doses",
@@ -105294,14 +105295,14 @@ export const reviewsData: unknown[] = [
             [
               "Max Creatina 500 g (pote)",
               "500 g, 100 doses",
-              "R$ 87,53",
-              "R$ 17,51"
+              "R$ 69,90",
+              "R$ 13,98"
             ],
             [
               "Max Pack 2 x Creatina 500 g",
               "1 kg, 200 doses",
-              "R$ 175,06",
-              "R$ 17,51"
+              "R$ 119,80",
+              "R$ 11,98"
             ],
             [
               "Growth Creatina 250 g",
@@ -105324,7 +105325,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 17,51 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). No Pix de outubro, a conta era outra: o refil da Growth saía a R$ 14,98 e o pote de 500 g da Max empatava com o pote da Growth (R$ 16,98). O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar. Com o cupom, o pote de 500 g da Max cai para R$ 15,28, e a Max de 300 g (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96 no Pix de outubro), que tem a mesma dose de 5 g.",
+          "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 13,98 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). O pote de 500 g da Max, no cartão, fica abaixo até do Pix de outubro do refil da Growth (R$ 14,98). O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar. Com o cupom, o pote de 500 g da Max cai para R$ 12,58 sobre o preço de tabela, e a Max de 300 g (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96 no Pix de outubro), que tem a mesma dose de 5 g.",
           "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix de outubro). A diferença é de preço, não de dose.",
           "A creatina 7Belo da Max, com sabor, fica fora desta tabela e aparece contra a gummy da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
         ],
@@ -105471,7 +105472,7 @@ export const reviewsData: unknown[] = [
           "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. A Max chega perto com o cupom (R$ 27,21), mas não passa a Growth.",
           "**Quer o whey de soro do leite que é o par direto da Growth:** o 100% Whey Refil da Max, que com o cupom fica a R$ 27,21 por 100 g de proteína, contra R$ 26,34 da Growth sem cupom.",
           "**Quer isolado e vai usar o cupom:** o IsoWhey 900 g da Max, a R$ 36,51 por 100 g de proteína com o cupom, contra R$ 39,27 da Growth no Pix.",
-          "**Quer a menor conta por grama de creatina:** o pote de 500 g da Max, a R$ 17,51 por 100 g no preço de tabela. No Pix de outubro, o refil da Growth saía a R$ 14,98, e com o cupom o pote da Max (R$ 15,28) ficava perto.",
+          "**Quer a menor conta por grama de creatina:** o pote de 500 g da Max, a R$ 13,98 por 100 g no preço de tabela, abaixo até do Pix de outubro do refil da Growth (R$ 14,98). Com o cupom, cai para R$ 12,58.",
           "**Quer creatina com o selo Creapure declarado pela loja:** a Creatina Creapure 250 g da Max, a R$ 54,28 por 100 g no Pix. É a mais cara das creatinas desta comparação.",
           "**Quer hipercalórico pelo preço por caloria:** o Mass Titanium 17500 Refil 3 kg, a R$ 9,81 por 1.000 kcal no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
           "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 11% mais caro que o Pix. Na Max, a diferença é menor, de cerca de 3%."
@@ -105494,8 +105495,8 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve a Growth se você quer whey concentrado ou creatina refil pelo menor preço por grama.",
-        "Leve a Max se você quer hipercalórico pelo menor preço por caloria.",
+        "Leve a Growth se você quer whey concentrado pelo menor preço por grama de proteína.",
+        "Leve a Max se você quer creatina pelo menor preço por grama ou hipercalórico pelo menor preço por caloria.",
         "Leve o IsoWhey da Max se você compra isolado e vai usar o cupom."
       ],
       "skipIf": [
@@ -119989,7 +119990,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Max Titanium ou Dux, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: whey, creatina, multivitamínico e pré-treino por proteína, por dia e por dose.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-20",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-ou-dux-capa-v2.webp",
@@ -120162,6 +120163,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
+          "caption": "O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
           "headers": [
             "Produto",
             "Doses de 5 g",
@@ -120184,8 +120186,8 @@ export const reviewsData: unknown[] = [
             [
               "[Max Creatina monohidratada](https://www.maxtitanium.com.br/creatine-pote-500g/p), 500 g",
               "100",
-              "R$ 87,53",
-              "R$ 17,51"
+              "R$ 69,90",
+              "R$ 13,98"
             ],
             [
               "Dux Creatina Monohidratada, 600 g",
@@ -120196,8 +120198,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A [creatina de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) fica 9% abaixo da Dux de 300 g por grama, no Pix: R$ 18,67 contra R$ 20,55. O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p) fica 22% abaixo do de 600 g da Dux: R$ 16,98 contra R$ 21,83. O pote de 500 g da Max é o mais barato desta tabela por grama, com ou sem cupom.",
-          "Com o cupom no teto, sobre o Pix, a Max de 300 g cai para R$ 16,81 por 100 g, e a de 500 g, para R$ 15,28."
+          "A [creatina de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) fica 9% abaixo da Dux de 300 g por grama, no Pix: R$ 18,67 contra R$ 20,55. O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p) fica 39% abaixo do de 600 g da Dux no cartão: R$ 13,98 contra R$ 22,98. O pote de 500 g da Max é o mais barato desta tabela por grama, com ou sem cupom.",
+          "Com o cupom no teto, sobre o Pix, a Max de 300 g cai para R$ 16,81 por 100 g, e a de 500 g, sobre o preço do cartão, para R$ 12,58."
         ]
       },
       {
@@ -120348,7 +120350,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**A Max ganha no whey.** Pelo Pix, o [Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) custa 48% a menos por 100 g de proteína que o concentrado da Dux. O [3W](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) custa 49% a menos que o FreshWhey, e o [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p), 45% a menos que o isolado da Dux.",
-          "**A Max ganha na creatina.** A [monohidratada de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) custa 9% a menos por grama que a da Dux, e o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), 22% a menos que o de 600 g. A [Creapure da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custa 38% a menos por grama que a da Dux.",
+          "**A Max ganha na creatina.** A [monohidratada de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) custa 9% a menos por grama que a da Dux, e o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), 39% a menos que o de 600 g no cartão. A [Creapure da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custa 38% a menos por grama que a da Dux.",
           "**A Max ganha no pré-treino por dose.** São R$ 2,81 contra R$ 6,41 no Pix.",
           "**A Max ganha no parcelamento e no frete.** São 6x sem juros no whey, contra 4x da Dux. O frete grátis da Max começa em R$ 134 no Sudeste, e o da Dux, em R$ 250.",
           "**A Dux ganha no multivitamínico por dia.** São R$ 0,84 contra R$ 1,85 no Pix. Uma cápsula da Dux traz 100% do valor diário de várias vitaminas, e a Max pede três. A tabela da Max traz mais minerais.",
@@ -120368,7 +120370,7 @@ export const reviewsData: unknown[] = [
           "Quer o menor preço por 100 g de proteína no whey: o [100% Whey Refil 900 g da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p), a R$ 30,24 no Pix, ou R$ 27,21 com o cupom no teto.",
           "Quer whey de três proteínas, com 40 g por dose: o [Top Whey 3W + Performance 900 g da Max](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p), a R$ 36,85 por 100 g no Pix. Quer o mesmo tipo de proteína com adoçante de stévia e taumatina: o FreshWhey da Dux, a R$ 72,19.",
           "Quer isolado: o [IsoWhey 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) sai a R$ 40,56 por 100 g no Pix, contra R$ 74,01 do isolado da Dux.",
-          "Quer a creatina mais barata por grama: o [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 16,98 por 100 g no Pix. Quer creatina com o selo Creapure: a [Creatina Creapure 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 54,28 por 100 g no Pix, contra R$ 87,05 da Dux.",
+          "Quer a creatina mais barata por grama: o [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 13,98 por 100 g no cartão. Quer creatina com o selo Creapure: a [Creatina Creapure 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 54,28 por 100 g no Pix, contra R$ 87,05 da Dux.",
           "Quer multivitamínico pelo menor custo por dia: o da Dux, com uma cápsula, a R$ 0,84 no Pix. Quer mais minerais na tabela: o [Multimax Complex 90 cápsulas da Max](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p), a R$ 1,85 por dia.",
           "Quer comparar pré-treino por custo da dose: o [Shook Uva da Max](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p) sai a R$ 2,81 no Pix, com 200 mg de cafeína por dose. O Stim Free da Dux sai a R$ 5,68. Se o critério é evitar cafeína, confirme a informação no rótulo e com o fabricante; o preço não resolve essa escolha."
         ],
@@ -120381,7 +120383,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Max Titanium ou Dux: qual é melhor? Depende da linha. Whey e creatina saem mais baratos na Max. O multivitamínico por dia sai mais barato na Dux, e o FreshWhey tem o adoçante que a Max não usa nesses produtos.",
           "Qual é o whey mais barato por 100 g de proteína? O [100% Whey Refil da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p); os valores no Pix e com cupom estão no capítulo de whey concentrado. O Whey Protein Concentrado de 900 g da Dux sai a R$ 58,41 no Pix.",
-          "Qual é a creatina mais barata? O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 16,98 por 100 g no Pix. Entre as monohidratadas da Dux, a de 600 g sai a R$ 21,83 por 100 g no Pix.",
+          "Qual é a creatina mais barata? O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 13,98 por 100 g no cartão. Entre as monohidratadas da Dux, a de 600 g sai a R$ 22,98 por 100 g no cartão.",
           "A Dux é boa marca? Esta comparação responde só pelo rótulo, pela fórmula que a Dux declara e pelo preço. A Dux diz que o concentrado é \"sem blends ou adição de outras proteínas\", com 20 g de proteína em 30 g. O de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
           "A Dux tem cupom? Não oferecemos cupom da Dux: ela não é parceira do site, e o MAX10EMCASACOMCECILIA vale só na Max.",
           "A Dux tem Creapure? A Dux diz que a linha 100% Creapure usa creatina Creapure. A Max também declara o selo na [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p).",
@@ -161250,6 +161252,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Creatina Max Titanium com o MAX10EMCASACOMCECILIA e até 10% OFF: os potes de 100 g, 300 g, 500 g e a Creapure 250 g por 100 g e por dose.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-20",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa-v2.webp",
@@ -161260,7 +161263,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com esse selo, custa 3,2 vezes o valor por grama do pote de 500 g; a escolha depende do desembolso e do selo. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
+          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com esse selo, custa 4 vezes o valor por grama do pote de 500 g; a escolha depende do desembolso e do selo. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -161276,6 +161279,7 @@ export const reviewsData: unknown[] = [
           "Preços do site oficial da Max em 28/10/2026, sem cupom e sem frete. Preço, estoque e promoções mudam; vale o que aparece no site na hora da compra. O preço de lista aparece entre parênteses quando o pote estava em promoção. A porção e o número de porções vêm da tabela nutricional de cada pote, publicada na página do produto."
         ],
         "comparisonTable": {
+          "caption": "O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
           "headers": [
             "Produto",
             "Porções (5 g)",
@@ -161301,9 +161305,9 @@ export const reviewsData: unknown[] = [
             [
               "[Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
               "100",
-              "R$ 87,53 (de R$ 115,60)",
-              "R$ 17,51",
-              "R$ 0,88"
+              "R$ 69,90 (de R$ 115,60)",
+              "R$ 13,98",
+              "R$ 0,70"
             ],
             [
               "[Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p)",
@@ -161315,7 +161319,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A conta por 100 g é preço dividido pelos gramas do pote, vezes 100. O de 500 g fica cerca de 12% abaixo do de 300 g por grama, e o de 100 g é o mais caro entre os sem o selo Creapure. A Creapure de 250 g custa R$ 55,96 por 100 g, 3,2 vezes o de 500 g e 2,8 vezes o de 300 g.",
+          "A conta por 100 g é preço dividido pelos gramas do pote, vezes 100. O de 500 g fica cerca de 30% abaixo do de 300 g por grama, e o de 100 g é o mais caro entre os sem o selo Creapure. A Creapure de 250 g custa R$ 55,96 por 100 g, 4 vezes o de 500 g e 2,8 vezes o de 300 g.",
           "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto no site da Max, e o percentual varia por produto: o carrinho mostra quanto cada item recebeu. Ele soma com as promoções do site e vale em todas as formas de pagamento. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium)."
         ],
         "images": [
@@ -161333,7 +161337,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Só a Creatina Creapure de 250 g traz o selo Creapure, na embalagem e na página do produto. A página diz que a matéria-prima vem da Alemanha, da Alzchem, dona da Creapure. As páginas dos potes de 100 g, 300 g e 500 g não citam Creapure: são creatina monohidratada sem o selo.",
           "Pela tabela nutricional, a dose é a mesma nos quatro potes: 5 g com 5.000 mg de creatina. A Creapure acrescenta a origem da matéria-prima e os testes de pureza do fabricante alemão, diz a página. O rótulo não comprova que uma faça mais efeito que a outra.",
-          "A diferença é de preço. Pela tabela de preços, a Creapure custava R$ 139,89 por 250 g, ou R$ 2,80 por dose. O pote de 500 g sem o selo custava R$ 87,53 pelo dobro de produto, ou R$ 0,88 por dose. Quem quer o selo paga cerca de R$ 1,92 a mais por dose, ou R$ 96 a mais a cada 50 doses."
+          "A diferença é de preço. Pela tabela de preços, a Creapure custava R$ 139,89 por 250 g, ou R$ 2,80 por dose. O pote de 500 g sem o selo custava R$ 69,90 pelo dobro de produto, ou R$ 0,70 por dose. Quem quer o selo paga cerca de R$ 2,10 a mais por dose, ou R$ 105 a mais a cada 50 doses."
         ],
         "images": [
           {
@@ -161382,15 +161386,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual pote compensa",
         "bullets": [
-          "**Menor preço por grama:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 17,51 por 100 g e R$ 0,88 por dose. Rende 100 porções, pouco mais de três meses com uma dose por dia. É a escolha para quem já sabe que vai tomar todo dia.",
-          "**Primeiro pote ou pouco espaço:** o [pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p), a R$ 33,89. Custa quase o dobro por grama do de 500 g, mas é o menor valor para começar e rende 20 porções.",
-          "**Meio-termo:** o [pote de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p) sai a R$ 59,90, ou R$ 1,00 por porção de 5 g. Por grama, fica cerca de 14% acima do de 500 g; o desembolso pelo pote é menor.",
-          "**Quer o selo Creapure:** só a [Creatina Creapure de 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 139,89 e R$ 2,80 por dose. É o único pote da Max com o selo, e custa 3,2 vezes o de 500 g por grama, com a mesma dose de 5.000 mg na tabela."
+          "**Menor preço por grama:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 13,98 por 100 g e R$ 0,70 por dose. Rende 100 porções, pouco mais de três meses com uma dose por dia. É a escolha para quem já sabe que vai tomar todo dia.",
+          "**Primeiro pote ou pouco espaço:** o [pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p), a R$ 33,89. Custa mais que o dobro por grama do de 500 g, mas é o menor valor para começar e rende 20 porções.",
+          "**Meio-termo:** o [pote de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p) sai a R$ 59,90, ou R$ 1,00 por porção de 5 g. Por grama, fica cerca de 43% acima do de 500 g; o desembolso pelo pote é menor.",
+          "**Quer o selo Creapure:** só a [Creatina Creapure de 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 139,89 e R$ 2,80 por dose. É o único pote da Max com o selo, e custa 4 vezes o de 500 g por grama, com a mesma dose de 5.000 mg na tabela."
         ],
         "postParagraphs": [
           "Em qualquer um dos quatro, o cupom MAX10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto. Para ver a creatina da Max ao lado da de outras marcas, com a mesma conta por grama, há o [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e o [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
         ],
-        "emphasis": "O pote de 500 g tem o menor custo por porção de 5 g: R$ 0,88, contra R$ 1,00 no de 300 g."
+        "emphasis": "O pote de 500 g tem o menor custo por porção de 5 g: R$ 0,70, contra R$ 1,00 no de 300 g."
       },
       {
         "heading": "Perguntas frequentes",
@@ -161398,7 +161402,7 @@ export const reviewsData: unknown[] = [
           "A creatina da Max Titanium é boa? Os quatro potes declaram 5.000 mg de creatina por porção de 5 g. Os de 100 g, 300 g e 500 g listam creatina monohidratada e dióxido de silício; a Creapure de 250 g lista só creatina monohidratada. O rótulo, sozinho, não mostra efeito nem qualidade de lote.",
           "A creatina da Max Titanium é Creapure? Só a Creatina Creapure de 250 g, que traz o selo na embalagem e na página e, segundo a ficha, é produzida na Alemanha pela Alzchem. Os potes de 100 g, 300 g e 500 g não declaram o selo nas páginas dos produtos.",
           "A creatina da Max Titanium é pura? Os potes de 100 g, 300 g e 500 g incluem dióxido de silício como antiumectante; a Creapure de 250 g lista só creatina monohidratada. Lista de ingredientes não é laudo de pureza.",
-          "Qual pote de creatina da Max rende mais? O de 500 g: 100 porções de 5 g, a R$ 0,88 por dose. O de 300 g rende 60 porções, a Creapure de 250 g rende 50 e o de 100 g rende 20.",
+          "Qual pote de creatina da Max rende mais? O de 500 g: 100 porções de 5 g, a R$ 0,70 por dose. O de 300 g rende 60 porções, a Creapure de 250 g rende 50 e o de 100 g rende 20.",
           "A creatina de 300 g e a de 500 g da Max são iguais? Pela ficha, sim: os mesmos ingredientes, a mesma porção de 5 g com 5.000 mg de creatina e nenhum dos dois declara Creapure. Muda o número de porções (60 e 100) e o preço por grama, mais baixo no de 500 g."
         ]
       }
@@ -161709,11 +161713,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "No whey, a Max Titanium sai mais barata por 100 g de proteína, e na creatina a Integralmédica fica abaixo no cartão. Veja a comparação pelo rótulo e o veredito por perfil.",
-    "metaDescription": "MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max ou Integralmédica: no whey, a Max sai mais barata por proteína; na creatina, a Integralmédica, no cartão.",
+    "description": "No whey, a Max Titanium sai mais barata por 100 g de proteína; na creatina, só o pouch de 1 kg da Integralmédica fica abaixo no cartão. Veja o veredito por perfil.",
+    "metaDescription": "MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max ou Integralmédica: whey mais barato na Max; na creatina, só o pouch de 1 kg da Integralmédica, no cartão.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-20",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa-v2.webp",
@@ -161724,7 +161728,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No whey, a Max sai mais barata por 100 g de proteína, no 100% Whey Refil, contra o pouch de 900 g da Integralmédica. Na creatina, a Integralmédica fica abaixo no cartão em todos os tamanhos. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max, e o veredito por perfil está em Qual escolher."
+          "No whey, a Max sai mais barata por 100 g de proteína, no 100% Whey Refil, contra o pouch de 900 g da Integralmédica. Na creatina, só o pouch de 1 kg dela fica abaixo da Max de 500 g no cartão. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max; o veredito está em Qual escolher."
         ]
       },
       {
@@ -161850,8 +161854,8 @@ export const reviewsData: unknown[] = [
             [
               "[Max Creatina](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
               "500 g",
-              "R$ 87,53",
-              "R$ 17,51"
+              "R$ 69,90",
+              "R$ 13,98"
             ],
             [
               "Integralmédica Creatina Hardcore pote",
@@ -161872,10 +161876,10 @@ export const reviewsData: unknown[] = [
               "R$ 12,50"
             ]
           ],
-          "caption": "Preços no cartão, sem frete nem cupom; comparação por 100 g de produto."
+          "caption": "Preços no cartão, sem frete nem cupom; comparação por 100 g de produto. O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original."
         },
         "postParagraphs": [
-          "A Integralmédica custava menos nos tamanhos de 300 g e 500 g comparados sem cupom; o pouch de 1 kg tinha o menor custo por grama da tabela. Com o MAX10EMCASACOMCECILIA no teto de 10%, a Max de 500 g ficava em R$ 15,76 por 100 g, abaixo do Hardcore de 500 g; a Max de 300 g, em R$ 17,97, continuava acima da Integralmédica de 300 g. Mesmo no teto, nenhum desses dois potes Max alcançava os R$ 12,50 por 100 g do pouch de 1 kg. Por dose declarada de 5 g, eram R$ 1,00 na Max de 300 g, R$ 0,88 na Max de 500 g e R$ 0,63 no pouch de 1 kg da Integralmédica.",
+          "A Integralmédica custava menos no tamanho de 300 g comparado sem cupom; a Max de 500 g ficava abaixo dos dois potes dela, e o pouch de 1 kg tinha o menor custo por grama da tabela. Com o MAX10EMCASACOMCECILIA no teto de 10%, a Max de 500 g ficava em R$ 12,58 por 100 g; a Max de 300 g, em R$ 17,97, continuava acima da Integralmédica de 300 g. Mesmo no teto, nenhum desses dois potes Max alcançava os R$ 12,50 por 100 g do pouch de 1 kg. Por dose declarada de 5 g, eram R$ 1,00 na Max de 300 g, R$ 0,70 na Max de 500 g e R$ 0,63 no pouch de 1 kg da Integralmédica.",
           "Nas Creapure, a [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custava R$ 139,89, R$ 55,96 por 100 g, com dose de 5 g e 50 porções; a ficha diz que a creatina é produzida na Alemanha pela Alzchem. A Creatina Creapure de 300 g da Integralmédica custava R$ 184,00, R$ 61,33 por 100 g. As duas marcas declaram o selo."
         ]
       },
@@ -161898,20 +161902,20 @@ export const reviewsData: unknown[] = [
           "**Creatina: depende do cupom e do tamanho.**"
         ],
         "bullets": [
-          "Para o menor preço por grama no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 por 100 g, e os potes de 300 g e de 500 g, por R$ 16,67 e R$ 16,60. A Max fica em R$ 19,97 (300 g) e R$ 17,51 (500 g).",
-          "Com o MAX10EMCASACOMCECILIA no teto, o pote de 500 g da Max cai para R$ 15,76 por 100 g e passa à frente do Hardcore de 500 g. Ainda fica acima do pouch de 1 kg da Integralmédica.",
+          "Para o menor preço por grama no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 por 100 g. Entre os potes, a Max de 500 g sai a R$ 13,98, abaixo do Hardcore de 500 g (R$ 16,60) e de 300 g (R$ 16,67); a Max de 300 g fica em R$ 19,97.",
+          "Com o MAX10EMCASACOMCECILIA no teto, o pote de 500 g da Max cai para R$ 12,58 por 100 g, a poucos centavos do pouch de 1 kg da Integralmédica (R$ 12,50).",
           "Nas Creapure, a Max sai mais barata por grama: R$ 55,96 contra R$ 61,33 por 100 g."
         ],
         "postParagraphs": [
           "Se o preço mudar, a conta muda; refaça as contas com o preço do dia."
         ],
-        "emphasis": "Pelos números desta tabela, para whey concentrado a escolha é o 100% Whey Refil da Max, pelo custo de proteína. Na creatina, para o menor preço no cartão a escolha é o pouch de 1 kg da Integralmédica; a Max de 500 g só passa o Hardcore de 500 g com o cupom no teto."
+        "emphasis": "Pelos números desta tabela, para whey concentrado a escolha é o 100% Whey Refil da Max, pelo custo de proteína. Na creatina, para o menor preço no cartão a escolha é o pouch de 1 kg da Integralmédica; entre os potes, a Max de 500 g já sai abaixo do Hardcore sem cupom."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o 100% Whey Refil da Max: R$ 31,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. Com o cupom no teto de 10%, o Refil fica em R$ 28,06. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
-          "Creatina Max Titanium ou Integralmédica, qual é melhor? Pelo preço por 100 g de produto no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 e o Hardcore de 500 g por R$ 16,60, contra R$ 17,51 do pote de 500 g da Max. Com o cupom da Max no teto, o pote de 500 g cai para R$ 15,76, abaixo do Hardcore. Isso compara custo de produto, não eficácia.",
+          "Creatina Max Titanium ou Integralmédica, qual é melhor? Pelo preço por 100 g de produto no cartão, o pouch de 1 kg da Integralmédica, a R$ 12,50. Entre os potes de 500 g, a Max sai a R$ 13,98, contra R$ 16,60 do Hardcore. Com o cupom da Max no teto, o pote de 500 g cai para R$ 12,58. Isso compara custo de produto, não eficácia.",
           "O whey da Integralmédica tem sucralose? Sim. A lista de ingredientes do pouch de 900 g, sabor baunilha, traz edulcorante sucralose. Os wheys concentrados da Max desta comparação também listam sucralose.",
           "Quantas gramas de proteína tem o whey da Max e o da Integralmédica? O 100% Whey da Max, no Refil e no Pote de 900 g, traz 21 g em cada porção de 30 g, e o Whey Pro de 1 kg, 15 g em 40 g. O pouch da Integralmédica, no sabor baunilha, traz 21 g em 30 g; no chocolate e no cookies and cream, 20 g.",
           "A Integralmédica tem cupom? Não neste site. A Integralmédica não é parceira, e o MAX10EMCASACOMCECILIA vale só na Max Titanium."
