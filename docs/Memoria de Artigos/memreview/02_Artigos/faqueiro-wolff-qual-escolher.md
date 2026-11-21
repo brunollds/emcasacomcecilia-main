@@ -201,3 +201,10 @@ Sem navegador. Tudo por `products.json`.
 
 ## Decisões do Bruno (<data>)
 *(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa-v2.webp` (`imageFit: contain`), SHA-256 `fa5925b5b63218d00d9d213615af23371d9e9040113062d80f9a16ecf5b9629e`.
+- **Alt:** Garfo, faca e duas colheres douradas do faqueiro Firenze da Wolff refletidos numa superfície escura. A capa pergunta «Faqueiro Wolff: qual escolher?».
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 67 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/67/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/67/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

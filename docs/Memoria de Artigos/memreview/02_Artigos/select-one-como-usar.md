@@ -195,3 +195,10 @@ GO do Bruno em 20/11/2026 (pauta 2 da rodada). Fatos em `prohall-fatos-2011.md` 
 
 ## Decisões do Bruno (<data>)
 *(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/prohall/select-one-como-usar-capa-v2.webp` (`imageFit: contain`), SHA-256 `bcfba1f0ff5f051248c953e467923c2dad260c6665386f2e11b72ba1a781ce6e`.
+- **Alt:** Mão segura um frasco da Select One da Prohall de cabeça para baixo, com o produto caindo em uma tigela. A capa traz a chamada «Select One no salão».
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 67 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/67/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/67/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/select-one-como-usar-capa.webp`) fica no CDN, sem uso como capa.

@@ -203,3 +203,17 @@ Preço por unidade de medida (conta nossa, 20/11): Biomask 300 g R$ 0,20/g; 500 
 
 ## Decisões do Bruno (<data>)
 *(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+
+## Capa v2 de biomask-prohall-para-que-serve (21/11/2026)
+
+- **Capa:** `/images/reviews/prohall/biomask-prohall-para-que-serve-capa-v2.webp` (`imageFit: contain`), SHA-256 `31fa5ce7cd418a839eb6d99c886ef37511f7185accc5be6b8f459bf2de6a9a15`.
+- **Alt:** Pote da máscara Biomask de 300 g da Prohall ao lado da textura do creme mostrada na palma da mão, em foto oficial. A capa pergunta «Biomask: para que serve?» e mostra o cupom CECILIAMC.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 67 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/67/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/67/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/biomask-prohall-para-que-serve-capa.webp`) fica no CDN, sem uso como capa.
+
+## Capa v2 de force-hair-prohall-para-que-serve (21/11/2026)
+
+- **Capa:** `/images/reviews/prohall/force-hair-prohall-para-que-serve-capa-v2.webp` (`imageFit: contain`), SHA-256 `b6507fd2758eae35331eb2eb95b317ba60bf4f14e0464ad4e79b1046d778ef2d`.
+- **Alt:** Frasco spray do tônico Force Hair da Prohall inclinado sobre uma bancada em tons lilás. A capa pergunta «Force Hair: o que vem na linha?» e mostra o cupom CECILIAMC.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 67 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/67/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/67/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/force-hair-prohall-para-que-serve-capa.webp`) fica no CDN, sem uso como capa.

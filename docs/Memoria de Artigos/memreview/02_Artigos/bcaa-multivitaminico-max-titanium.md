@@ -265,3 +265,10 @@ Dias de uso com uma porção por dia: BCAA 2400 de 60 cápsulas, 15 dias; de 100
 
 ## Decisões do Bruno (pendente)
 *(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+
+## Capa v2 de bcaa-max-titanium-qual-escolher (21/11/2026)
+
+- **Capa:** `/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa-v2.webp` (`imageFit: contain`), SHA-256 `2afa6be9a2e0d3ab11798566b026b9363a847c93b3a96ac2051284789d862cdb`.
+- **Alt:** Potes do BCAA 2400 em cápsulas e do BCAA 4:1:1 Drink em pó, da Max Titanium, em dois painéis de cor. A capa pergunta «BCAA: cápsulas ou pó?» e mostra o cupom MAX10EMCASACOMCECILIA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 69 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/69/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/69/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa.webp`) fica no CDN, sem uso como capa.

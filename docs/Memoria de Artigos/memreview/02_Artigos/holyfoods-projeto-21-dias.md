@@ -188,3 +188,10 @@ Sem navegador. Tudo por `curl`: `products.json` (250 itens), páginas de produto
 
 ## Decisões do Bruno (<data>)
 *(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa-v2.webp` (`imageFit: contain`), SHA-256 `b24d658ea2f9f25aadc7ba19cd89670619ca7320f435c9b33fc60cc7d0ad5d86`.
+- **Alt:** Sachês de Sopa da Vovó, Sopa Low Carb e Canja da Mamãe do Projeto 21 Dias, dispostos na diagonal em foto da HolyFoods. A capa pergunta «Projeto 21 Dias: o que vem?» e mostra o cupom EMCASA.
+- **Origem:** a descrita no alt, sem subtítulo; fontes, hashes e enquadramento no campo `fontes` do `MAPA-21-ROTAS-E-ALTS.json`.
+- **Lote 69 do piloto de capas (sequência 23 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/69/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-21-HEROES-21-PAGINAS-SEQUENCIA-23-CLAUDE.zip` (`lotes/69/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa.webp`) fica no CDN, sem uso como capa.
