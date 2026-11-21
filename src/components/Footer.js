@@ -81,7 +81,7 @@ export default function Footer({ lang = 'pt-BR' }) {
     <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12 print:hidden">
       <div className="mx-auto max-w-7xl">
         <div className="flex flex-col gap-10 border-b border-white/10 pb-8 lg:flex-row lg:justify-between lg:gap-16">
-          <div className="flex flex-col items-center gap-5 text-center lg:items-start lg:text-left">
+          <div className="flex flex-col items-center gap-5 text-center lg:items-start lg:text-start">
             <Link href={homeHref} className="group flex flex-col items-center lg:items-start">
               <SiteName style={{ fontSize: '1.62rem' }} />
               <span className="mt-1 text-[0.65rem] font-medium tracking-[0.3px] text-white/70">{copy.tagline}</span>
@@ -158,7 +158,7 @@ export default function Footer({ lang = 'pt-BR' }) {
           </div>
         </div>
 
-        <div className="flex flex-col items-center gap-3 pt-5 text-center text-sm text-white/60 lg:flex-row lg:items-center lg:justify-between lg:text-left">
+        <div className="flex flex-col items-center gap-3 pt-5 text-center text-sm text-white/60 lg:flex-row lg:items-center lg:justify-between lg:text-start">
           <p>© {currentYear} Em Casa com Cecília. {copy.footerRights}</p>
           <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 lg:justify-start">
             <Link href={CONSENT_PRIVACY_HREF} className={LINK_CLASS}>

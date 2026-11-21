@@ -302,7 +302,7 @@ export function ReviewNotebookTemplate({
                             <tbody className="divide-y divide-marinho/15">
                               {review.productSpec.map((spec, index) => (
                                 <tr key={index}>
-                                  <th scope="row" className="w-2/5 px-5 py-3 text-left align-top font-bold text-marinho-suave md:px-6">
+                                  <th scope="row" className="w-2/5 px-5 py-3 text-start align-top font-bold text-marinho-suave md:px-6">
                                     {spec.key}
                                   </th>
                                   <td className="px-5 py-3 align-top font-semibold text-marinho md:px-6">

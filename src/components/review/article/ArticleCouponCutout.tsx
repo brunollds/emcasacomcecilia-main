@@ -89,7 +89,7 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
     >
       <span
         aria-hidden="true"
-        className={`absolute -top-[15px] left-4 flex h-7 w-7 items-center justify-center rounded-full bg-amarelo-cupom ${code ? 'recorte-tesoura' : ''}`}
+        className={`absolute -top-[15px] start-4 flex h-7 w-7 items-center justify-center rounded-full bg-amarelo-cupom ${code ? 'recorte-tesoura' : ''}`}
       >
         <Scissors className="h-5 w-5" />
       </span>
@@ -98,7 +98,7 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
         <div className="min-w-0 text-center">
           <p className="text-[13px] font-bold leading-[18px] tracking-[0.04em] text-marinho-suave uppercase">{title}</p>
           {code && (
-            <div className="mt-1.5">
+            <div dir="ltr" className="mt-1.5">
               <CutoutCode code={code} />
             </div>
           )}

@@ -31,7 +31,7 @@ export function StackingTable({
           condição embaixo na largura toda. Os roles seguram a tabela para o leitor de tela, porque o
           display: grid na linha tira a semântica em alguns navegadores. */}
       <div className="mt-4 overflow-hidden rounded-xl border-2 border-marinho">
-        <table role="table" className="block w-full border-collapse text-left md:table">
+        <table role="table" className="block w-full border-collapse text-start md:table">
           <caption className="sr-only">{caption}</caption>
           <thead role="rowgroup" className="bg-amarelo-cupom max-md:sr-only">
             <tr role="row" className="border-b-2 border-marinho">

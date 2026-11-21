@@ -154,7 +154,7 @@ export function ReviewLoopVideo({
       <button
         type="button"
         onClick={togglePlayback}
-        className="absolute bottom-3 left-3 z-10 inline-flex min-h-10 items-center gap-2 rounded-full bg-black/70 px-3 py-2 text-xs font-bold uppercase tracking-[0.08em] text-white shadow-md transition-colors hover:bg-black/85 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
+        className="absolute bottom-3 start-3 z-10 inline-flex min-h-10 items-center gap-2 rounded-full bg-black/70 px-3 py-2 text-xs font-bold uppercase tracking-[0.08em] text-white shadow-md transition-colors hover:bg-black/85 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
         aria-label={isPlaying ? labels.pause : labels.play}
       >
         {isPlaying ? <Pause className="h-4 w-4" aria-hidden="true" /> : <Play className="h-4 w-4" aria-hidden="true" />}

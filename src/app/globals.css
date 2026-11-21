@@ -156,10 +156,11 @@ html:lang(ja) {
   scale: 0.86;
 }
 
+/* --bolinha-de: o lado de onde a bolinha entra, o fim da leitura */
 @keyframes bolinha-entra {
   from {
     opacity: 0;
-    translate: 70px 0;
+    translate: var(--bolinha-de, 70px) 0;
   }
 }
 
@@ -194,7 +195,7 @@ html:lang(ja) {
   }
 }
 
-/* No celular as bolinhas entram da direita, uma depois da outra (--i é a posição na faixa). Em /reviews e
+/* No celular as bolinhas entram pelo fim da leitura (da direita; da esquerda em RTL), uma depois da outra (--i é a posição na faixa). Em /reviews e
    nas subpáginas elas ficam num RevealSection abaixo da dobra: a entrada espera a seção chegar à tela e
    começa de novo ao revelar. */
 @media (max-width: 47.99rem) and (prefers-reduced-motion: no-preference) {
@@ -203,10 +204,14 @@ html:lang(ja) {
     animation-delay: calc(var(--i, 0) * 70ms);
   }
 
+  [dir='rtl'] .bolinha {
+    --bolinha-de: -70px;
+  }
+
   [data-reveal='pending'] .bolinha {
     animation: none;
     opacity: 0;
-    translate: 70px 0;
+    translate: var(--bolinha-de, 70px) 0;
   }
 }
 
@@ -256,6 +261,11 @@ html:lang(ja) {
   margin-inline: -0.12em;
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
+}
+
+/* A pintura parte do início da leitura */
+[dir='rtl'] .marca-texto {
+  background-position: 100% 85%;
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
@@ -391,6 +401,15 @@ html:lang(ja) {
     translate: calc(100cqi - 2rem) 0;
     transition: translate 650ms cubic-bezier(0.45, 0, 0.2, 1);
   }
+
+  /* Em RTL a tesoura sai do canto direito e corre para a esquerda, com as lâminas para onde ela corre */
+  [dir='rtl'] .recorte:has([data-copied='true']) .recorte-tesoura {
+    translate: calc(2rem - 100cqi) 0;
+  }
+
+  [dir='rtl'] .recorte-tesoura svg {
+    scale: -1 1;
+  }
 }
 
 /* A chegada (D2.2): o número do topo das lojas carimba ao abrir a página, e o recorte do topo assenta
@@ -417,6 +436,10 @@ html:lang(ja) {
     transform-origin: left bottom;
     animation: etiqueta-carimba 600ms cubic-bezier(0.34, 1.56, 0.64, 1) backwards;
     animation-delay: var(--etiqueta-atraso, 150ms);
+  }
+
+  [dir='rtl'] .etiqueta-entra {
+    transform-origin: right bottom;
   }
 
   .recorte-entra {
@@ -615,6 +638,10 @@ html:lang(ja) {
   border-radius: 0.125rem;
 }
 
+[dir='rtl'] .coupon-highlight {
+  background-position: 100% 88%;
+}
+
 .coupon-highlight-visible {
   background-size: 100% 78%;
 }
@@ -628,6 +655,10 @@ html:lang(ja) {
   background-position: 0 88%;
   background-size: 100% 78%;
   border-radius: 0.125rem;
+}
+
+[dir='rtl'] .marca-codigo {
+  background-position: 100% 88%;
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
@@ -670,6 +701,10 @@ html:lang(ja) {
   border-radius: 9999px;
   transform-origin: left center;
   animation: draw-line 0.6s ease-out forwards;
+}
+
+[dir='rtl'] .editorial-underline {
+  transform-origin: right center;
 }
 
 @keyframes draw-line {
@@ -1083,7 +1118,7 @@ html:lang(ja) {
 
 .header-hamburguer span {
   position: absolute;
-  left: 10px;
+  inset-inline-start: 10px;
   width: 18px;
   height: 2px;
   border-radius: 2px;
@@ -1130,12 +1165,16 @@ html:lang(ja) {
   transform: translateX(-12px);
 }
 
+[dir='rtl'] .header-movel[data-busca-aberta] .header-nome-movel {
+  transform: translateX(12px);
+}
+
 /* Sem position: os resultados do OmniSearch (fullWidthResults) se prendem à .header-linha, na largura da tela */
 .header-busca {
   flex: none;
   width: 0;
   height: 40px;
-  margin-left: auto;
+  margin-inline-start: auto;
   overflow: hidden;
   border-radius: 999px;
   background: #fff;
@@ -1171,7 +1210,7 @@ html:lang(ja) {
   content: '';
   position: absolute;
   inset-block: 0;
-  left: 0;
+  inset-inline-start: 0;
   width: 4px;
   background: #ff6b35;
   transform-origin: top;

@@ -48,7 +48,7 @@ export function CertificateDialog({ image, title, linkLabel, closeLabel }: Certi
         }}
         className="m-auto max-h-[calc(100dvh-2rem)] w-[min(calc(100%-2rem),560px)] overflow-auto overscroll-contain rounded-[14px] border-2 border-marinho bg-white p-0 text-marinho backdrop:bg-marinho/70"
       >
-        <div className="sticky top-0 z-10 flex items-center justify-between gap-3 border-b-2 border-marinho bg-amarelo-cupom py-2 pr-2 pl-4">
+        <div className="sticky top-0 z-10 flex items-center justify-between gap-3 border-b-2 border-marinho bg-amarelo-cupom py-2 pe-2 ps-4">
           <p className="text-sm font-extrabold">{title}</p>
           <button
             type="button"

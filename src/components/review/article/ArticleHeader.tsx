@@ -69,7 +69,7 @@ export function ArticleHeader({
                 </Link>
               </li>
               <li aria-hidden="true" className={`flex ${index === breadcrumbs.length - 1 ? 'max-md:hidden' : ''}`}>
-                <ChevronRight className="h-3.5 w-3.5" />
+                <ChevronRight className="h-3.5 w-3.5 rtl:-scale-x-100" />
               </li>
             </Fragment>
           ))}
@@ -174,7 +174,7 @@ export function ArticleHeader({
             <ShieldCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
             <span className="shrink-0 font-extrabold">{getDisclosureLabel(couponCopyLocale)}</span>
             <span className="min-w-0 flex-1 truncate text-marinho-suave group-open:hidden">{review.editorialNote}</span>
-            <span className="ml-auto shrink-0 font-bold underline underline-offset-[3px] group-open:hidden">{copy.disclosureMore}</span>
+            <span className="ms-auto shrink-0 font-bold underline underline-offset-[3px] group-open:hidden">{copy.disclosureMore}</span>
           </summary>
           <p className="pb-3 leading-relaxed text-marinho-suave">{review.editorialNote}</p>
         </details>

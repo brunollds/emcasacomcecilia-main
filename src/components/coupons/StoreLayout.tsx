@@ -43,7 +43,7 @@ export function StoreHero({
         <BrandWatermark
           src={watermark}
           aboveTheFold
-          className="-right-12 top-[108px] h-[150px] w-[300px] lg:top-10 lg:right-8 lg:h-[170px] lg:w-[340px]"
+          className="-end-12 top-[108px] h-[150px] w-[300px] lg:top-10 lg:end-8 lg:h-[170px] lg:w-[340px]"
         />
         <div className="relative z-10">
           <nav aria-label={breadcrumbLabel}>
@@ -52,7 +52,7 @@ export function StoreHero({
                 <Fragment key={item.path}>
                   {index > 0 && (
                     <li aria-hidden="true" className="flex">
-                      <ChevronRight className="h-3.5 w-3.5" />
+                      <ChevronRight className="h-3.5 w-3.5 rtl:-scale-x-100" />
                     </li>
                   )}
                   {index < breadcrumb.length - 1 ? (
@@ -138,7 +138,7 @@ export function StoreCutout({
     >
       <span
         aria-hidden="true"
-        className={`absolute -top-[15px] left-4 flex h-7 w-7 items-center justify-center rounded-full bg-amarelo-cupom ${copyable ? 'recorte-tesoura' : ''}`}
+        className={`absolute -top-[15px] start-4 flex h-7 w-7 items-center justify-center rounded-full bg-amarelo-cupom ${copyable ? 'recorte-tesoura' : ''}`}
       >
         <Scissors className="h-5 w-5" />
       </span>
@@ -165,9 +165,7 @@ const cutoutCodeSize = (code: string) =>
 
 export function CutoutCode({ code }: { code: string }) {
   return (
-    <code className={`block break-all text-center font-codigo font-extrabold ${cutoutCodeSize(code)}`}>
-      {code}
-    </code>
+    <code dir="ltr" className={`block break-all text-center font-codigo font-extrabold ${cutoutCodeSize(code)}`}>{code}</code>
   );
 }
 
@@ -252,7 +250,7 @@ export function CompactCopyButton({
       placement={placement}
       ariaLabel={ariaLabel}
       copiedStatus={copy.copiedStatus(code)}
-      className={`ml-auto flex min-h-11 items-center gap-2 rounded-lg border-2 border-marinho bg-laranja px-3.5 text-sm font-extrabold text-marinho data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`}
+      className={`ms-auto flex min-h-11 items-center gap-2 rounded-lg border-2 border-marinho bg-laranja px-3.5 text-sm font-extrabold text-marinho data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`}
       copiedChildren={
         <>
           <Check aria-hidden="true" className="h-[18px] w-[18px]" />
@@ -295,11 +293,11 @@ export function RuleList({ rules }: { rules: { icon: LucideIcon; label: string; 
   return (
     <dl className="mt-5 flex flex-col gap-3.5">
       {rules.map(({ icon: Icon, label, value }) => (
-        <div key={label} className="relative min-h-10 pl-[52px]">
+        <div key={label} className="relative min-h-10 ps-[52px]">
           <dt className="text-[13px] font-bold leading-[18px] text-marinho-suave">
             <span
               aria-hidden="true"
-              className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom"
+              className="absolute top-0 start-0 flex h-10 w-10 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom"
             >
               <Icon className="h-5 w-5" />
             </span>
@@ -320,7 +318,7 @@ export function RelatedLink({ href, children }: { href: string; children: ReactN
       className={`flex items-center gap-3 rounded-xl border-2 border-marinho px-3.5 py-3 transition-colors hover:bg-creme ${FOCUS_RING}`}
     >
       <span className="flex min-w-0 flex-1 flex-col gap-1">{children}</span>
-      <ChevronRight aria-hidden="true" className="h-5 w-5 shrink-0" />
+      <ChevronRight aria-hidden="true" className="h-5 w-5 shrink-0 rtl:-scale-x-100" />
     </Link>
   );
 }
@@ -357,6 +355,7 @@ export function LanguageLinks({
               href={href}
               hrefLang={LOCALES[locale].hreflang}
               lang={LOCALES[locale].htmlLang}
+              dir={LOCALES[locale].dir}
               className={`flex min-h-11 items-center underline underline-offset-[3px] ${FOCUS_RING}`}
             >
               {LOCALES[locale].label}

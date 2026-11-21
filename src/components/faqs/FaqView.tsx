@@ -42,7 +42,7 @@ function AnswerLink({ link }: { link: FaqLink }) {
   return (
     <FaqAnchor link={link} className={`inline-flex min-h-11 items-center gap-2 self-start text-[15px] ${TEXT_LINK}`}>
       {link.label}
-      <ArrowRight aria-hidden="true" className="size-4 shrink-0" />
+      <ArrowRight aria-hidden="true" className="size-4 shrink-0 rtl:-scale-x-100" />
     </FaqAnchor>
   );
 }
@@ -125,7 +125,7 @@ export function FaqView({
           <p className="text-[15px] leading-6 font-medium text-marinho-suave">{text.askText}</p>
           <FaqAnchor link={text.askLink} className={`${PRIMARY_PAGE_BUTTON} self-start`}>
             {text.askLink.label}
-            <ArrowRight aria-hidden="true" className="size-[18px]" strokeWidth={2.4} />
+            <ArrowRight aria-hidden="true" className="size-[18px] rtl:-scale-x-100" strokeWidth={2.4} />
           </FaqAnchor>
         </aside>
       </div>
@@ -141,7 +141,7 @@ export function FaqView({
           <div className="flex shrink-0 flex-wrap gap-3">
             <FaqAnchor link={text.newsLink} className={PRIMARY_PAGE_BUTTON}>
               {text.newsLink.label}
-              <ArrowRight aria-hidden="true" className="size-[18px]" strokeWidth={2.4} />
+              <ArrowRight aria-hidden="true" className="size-[18px] rtl:-scale-x-100" strokeWidth={2.4} />
             </FaqAnchor>
             <FaqAnchor link={text.newsSecondary} className={SECONDARY_PAGE_BUTTON}>
               {text.newsSecondary.label}

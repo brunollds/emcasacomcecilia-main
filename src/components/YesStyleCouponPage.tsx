@@ -22,6 +22,7 @@ import {
 import { getYesStyleBreadcrumbItems, resolveYesStylePage } from '@/components/coupons/yesstylePage';
 import { getCouponBySlug } from '@/lib/couponsData';
 import { getHubLanguageLinks } from '@/lib/i18n/clusters/yesstyle';
+import { LOCALES } from '@/lib/i18n/locales';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // As rotas dos 10 idiomas importam daqui a página e os metadados.
@@ -69,7 +70,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
   };
 
   return (
-    <main lang={resolved.htmlLang} className={`${couponFontVariables} min-h-screen bg-white text-marinho`}>
+    <main lang={resolved.htmlLang} dir={LOCALES[resolved.locale].dir} className={`${couponFontVariables} min-h-screen bg-white text-marinho`}>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
@@ -135,14 +136,14 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
                   <article key={promo.id} className="recorte flex flex-col rounded-xl border-2 border-dashed border-marinho p-4">
                     <p className="font-condensada text-[40px] font-black leading-none font-stretch-extra-condensed">{promo.discountLabel}</p>
                     {promo.conditions.length > 0 && (
-                      <ul className="mt-2 list-disc space-y-0.5 pl-[18px] text-sm font-semibold leading-5 text-pretty">
+                      <ul className="mt-2 list-disc space-y-0.5 ps-[18px] text-sm font-semibold leading-5 text-pretty">
                         {promo.conditions.map((condition) => (
                           <li key={condition}>{condition}</li>
                         ))}
                       </ul>
                     )}
                     <div className="mt-3 flex flex-wrap items-center gap-3">
-                      <code className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{promo.code}</code>
+                      <code dir="ltr" className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{promo.code}</code>
                       <CompactCopyButton
                         code={promo.code}
                         brand="YesStyle"

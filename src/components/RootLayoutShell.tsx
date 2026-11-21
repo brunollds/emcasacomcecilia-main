@@ -180,7 +180,7 @@ export function RootLayoutShell({
   };
 
   return (
-    <html lang={lang}>
+    <html lang={lang} dir={LOCALES[loc].dir}>
       <body className={`${montserrat.variable} ${lora.variable} ${caveat.variable} ${kalam.variable} antialiased`}>
         <script
           type="application/ld+json"

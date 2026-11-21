@@ -2972,7 +2972,7 @@ function assertCouponShelf(where: string, section: string, coupons: readonly Cou
     if (decor.magnet) {
       const magnetClasses = classesOf(magnets[0]);
       for (const name of decor.magnet.split(' ')) assert.ok(magnetClasses.includes(name), `${card}: o ímã sem ${name}`);
-      assert.ok(!magnetClasses.includes('-left-3'), `${card}: ímã à esquerda, sobre o número do desconto`);
+      assert.ok(!magnetClasses.includes('-start-3'), `${card}: ímã no início, sobre o número do desconto`);
       assert.ok(!magnetClasses.includes('bg-amarelo-cupom'), `${card}: ímã amarelo, que some na faixa amarela do preço`);
       assert.ok(magnetClasses.includes('pointer-events-none'), `${card}: o ímã sem pointer-events-none`);
       assert.match(magnets[0], /^<span[^>]*\saria-hidden="true"/, `${card}: o ímã sem aria-hidden`);
@@ -2996,22 +2996,22 @@ function assertOthersRow(where: string, section: string) {
 }
 
 // O ímã dos cupons, à direita e sem o amarelo, é uma variante: a home, a home de cada idioma e as Novidades
-// de /reviews seguem com a tabela de antes, com o ímã à esquerda na posição 2.
+// de /reviews seguem com a tabela de antes, com o ímã no início na posição 2.
 assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => cardDecorAt(index)), [
-  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+  { magnet: '-top-3 -end-3 bg-amarelo-cupom', tilt: '-rotate-1' },
   { magnet: null, tilt: '' },
-  { magnet: '-top-3 -left-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
+  { magnet: '-top-3 -start-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
   { magnet: null, tilt: '' },
-  { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
-  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+  { magnet: '-top-3 -end-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
+  { magnet: '-top-3 -end-3 bg-amarelo-cupom', tilt: '-rotate-1' },
 ]);
 assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => couponCardDecorAt(index)), [
-  { magnet: '-top-3 -right-3 bg-marinho', tilt: '-rotate-1' },
+  { magnet: '-top-3 -end-3 bg-marinho', tilt: '-rotate-1' },
   { magnet: null, tilt: '' },
-  { magnet: '-top-3 -right-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
+  { magnet: '-top-3 -end-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
   { magnet: null, tilt: '' },
-  { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
-  { magnet: '-top-3 -right-3 bg-marinho', tilt: '-rotate-1' },
+  { magnet: '-top-3 -end-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
+  { magnet: '-top-3 -end-3 bg-marinho', tilt: '-rotate-1' },
 ]);
 
 for (const category of hubSections.categories) {
@@ -3040,7 +3040,7 @@ for (const [file, shelf] of REVEAL_SHELVES) {
   assert.throws(() => assertRevealShelves(file, source.replaceAll('<RevealSection', '<section'), shelf), /não é um RevealSection/);
 }
 
-// Controles numa prateleira do hub: a posição trocada, o item sem a cascata, o ímã à esquerda (sem a direita,
+// Controles numa prateleira do hub: a posição trocada, o item sem a cascata, o ímã no início (sem a direita,
 // ou com as duas), o ímã amarelo, o cartão sem a sombra do hover, o meio sem o min-w-0, o hover sem
 // motion-safe: e o ímã sem pointer-events-none derrubam a trava.
 {
@@ -3049,9 +3049,9 @@ for (const [file, shelf] of REVEAL_SHELVES) {
   const mutations: [string, RegExp][] = [
     [section.replace('style="--i:0"', 'style="--i:1"'), /sem --i:0/],
     [section.replace('class="revela ', 'class="'), /cartões com a cascata/],
-    [section.replace('-top-3 -right-3', '-top-3 -left-3'), /o ímã sem -right-3/],
-    [section.replace('-top-3 -right-3', '-top-3 -right-3 -left-3'), /ímã à esquerda/],
-    [section.replace('-top-3 -right-3 bg-marinho', '-top-3 -right-3 bg-marinho bg-amarelo-cupom'), /ímã amarelo/],
+    [section.replace('-top-3 -end-3', '-top-3 -start-3'), /o ímã sem -end-3/],
+    [section.replace('-top-3 -end-3', '-top-3 -end-3 -start-3'), /ímã no início/],
+    [section.replace('-top-3 -end-3 bg-marinho', '-top-3 -end-3 bg-marinho bg-amarelo-cupom'), /ímã amarelo/],
     [section.replace('motion-safe:group-hover/cupom:shadow-[4px_4px_0_var(--color-marinho)]', ''), /sem a sombra do hover/],
     [section.replace('group/cupom relative flex min-w-0 flex-1', 'group/cupom relative flex flex-1'), /o meio sem min-w-0/],
     [section.replace('motion-safe:hover:-translate-y-1', 'hover:-translate-y-1'), /o meio sem motion-safe:hover:-translate-y-1/],
@@ -4626,7 +4626,7 @@ if (homeVideos) assertHomeVideoLinks(homeVideos);
 // __next_error__ vazio do bug vercel/next.js#99793, com menu, rodapé, noindex e uma linha por idioma.
 {
   const notFoundHtml = read(path.join(APP_DIR, '_not-found.html'));
-  assert.match(notFoundHtml, /<html lang="pt-BR">/, '404: sem <html lang="pt-BR">');
+  assert.match(notFoundHtml, /<html lang="pt-BR" dir="ltr">/, '404: sem <html lang="pt-BR" dir="ltr">');
   assert.ok(!notFoundHtml.includes('__next_error__'), '404: HTML vazio de erro');
   const expected: Array<[string, string]> = [
     ['menu', '<nav'],

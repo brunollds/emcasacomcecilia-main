@@ -5,6 +5,7 @@ import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { cardDecorAt } from '@/components/ui/cardDecor';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { NotFoundContent } from '@/lib/notFoundPage';
+import { LOCALES } from '@/lib/i18n/locales';
 
 // O 404: a etiqueta, o título com o marca-texto, a busca, os caminhos, os artigos mais novos e, no fim,
 // os outros idiomas, cada linha com o próprio lang. O test:not-found desenha a página fora do Next: a
@@ -51,7 +52,7 @@ export function NotFoundView({ content, search, className = '' }: NotFoundViewPr
                     <span className="text-base font-extrabold">{path.label}</span>
                     <span className="text-[13px] leading-5 font-semibold text-marinho-suave">{path.description}</span>
                   </span>
-                  <ArrowRight aria-hidden="true" className="size-4 shrink-0" />
+                  <ArrowRight aria-hidden="true" className="size-4 shrink-0 rtl:-scale-x-100" />
                 </TrackedHomeLink>
               </li>
             ))}
@@ -89,6 +90,7 @@ export function NotFoundView({ content, search, className = '' }: NotFoundViewPr
             <li
               key={language.locale}
               lang={language.htmlLang}
+              dir={LOCALES[language.locale].dir}
               className="flex flex-col gap-1 border-b-[1.5px] border-marinho/15 py-3"
             >
               <span className="text-xs font-bold text-marinho-suave">{language.name}</span>

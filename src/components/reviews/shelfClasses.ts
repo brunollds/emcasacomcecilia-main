@@ -15,7 +15,7 @@ export const SHELF_TITLE_ID = 'titulo-estante';
 // md, sem o degradê. O espaço antes do ${…} deixa o Tailwind ler a classe de antes.
 export function filterChipRowClass(moreToTheRight: boolean): string {
   return `hide-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 py-1 md:mx-0 md:flex-wrap md:overflow-visible md:px-0 md:[mask-image:none] ${
-    moreToTheRight ? '[mask-image:linear-gradient(to_right,black_85%,transparent)]' : ''
+    moreToTheRight ? '[mask-image:linear-gradient(to_right,black_85%,transparent)] rtl:[mask-image:linear-gradient(to_left,black_85%,transparent)]' : ''
   }`;
 }
 

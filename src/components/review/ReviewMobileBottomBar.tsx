@@ -137,7 +137,7 @@ export function ReviewMobileBottomBar({
           aria-valuenow={progress}
           className="h-[5px] bg-amarelo-cupom"
         >
-          <div className="h-full origin-left bg-marinho" style={{ transform: `scaleX(${progress / 100})` }} />
+          <div className="h-full origin-left bg-marinho rtl:origin-right" style={{ transform: `scaleX(${progress / 100})` }} />
         </div>
         <div className="mx-auto flex max-w-lg items-center gap-2 px-2 pt-2 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
           <button
@@ -147,9 +147,9 @@ export function ReviewMobileBottomBar({
             aria-expanded={sheetOpen}
             aria-controls={sheetId}
             aria-label={copy.openContents(current + 1, total, tocItems[current].heading)}
-            className={`flex min-h-[52px] min-w-0 flex-1 items-center gap-2.5 rounded-[10px] px-1.5 text-left ${FOCUS_RING}`}
+            className={`flex min-h-[52px] min-w-0 flex-1 items-center gap-2.5 rounded-[10px] px-1.5 text-start ${FOCUS_RING}`}
           >
-            <span aria-hidden="true" className="flex shrink-0 items-baseline font-condensada font-black font-stretch-extra-condensed">
+            <span aria-hidden="true" dir="ltr" className="flex shrink-0 items-baseline font-condensada font-black font-stretch-extra-condensed">
               <span className="text-[38px] leading-9">{current + 1}</span>
               <span className="text-xl leading-5">/{total}</span>
             </span>
@@ -167,7 +167,7 @@ export function ReviewMobileBottomBar({
               aria-expanded={sheetOpen}
               aria-controls={sheetId}
               data-dock-codes={codeCount}
-              className={`flex min-h-[52px] max-w-[48%] shrink-0 items-center gap-2 rounded-lg border-2 border-marinho bg-amarelo-cupom px-3 text-left text-sm leading-5 font-extrabold ${FOCUS_RING}`}
+              className={`flex min-h-[52px] max-w-[48%] shrink-0 items-center gap-2 rounded-lg border-2 border-marinho bg-amarelo-cupom px-3 text-start text-sm leading-5 font-extrabold ${FOCUS_RING}`}
             >
               <Ticket aria-hidden="true" className="h-4 w-4 shrink-0" />
               <span className="min-w-0 text-balance">{getViewStoresLabel(copy, storeBlocks ?? [])}</span>
@@ -189,11 +189,11 @@ export function ReviewMobileBottomBar({
               copiedChildren={
                 <>
                   <Check aria-hidden="true" className="h-4 w-4 shrink-0" />
-                  <span className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
+                  <span dir="ltr" className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
                 </>
               }
             >
-              <span className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
+              <span dir="ltr" className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
               <ExternalLink aria-hidden="true" className="h-4 w-4 shrink-0" />
             </CopyAndOpenStoreLink>
           ) : coupon ? (
@@ -208,12 +208,12 @@ export function ReviewMobileBottomBar({
               copiedChildren={
                 <>
                   <Check aria-hidden="true" className="h-4 w-4 shrink-0" />
-                  <span className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
+                  <span dir="ltr" className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
                 </>
               }
             >
               <Scissors aria-hidden="true" className="h-4 w-4 shrink-0" />
-              <span className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
+              <span dir="ltr" className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
             </CopyCodeButton>
           ) : cta ? (
             // Sem código para copiar (loja só de link, como a Proton), o lugar do botão de copiar fica com o link da
@@ -225,11 +225,11 @@ export function ReviewMobileBottomBar({
               linkLabel={cta.label}
               sponsored={cta.sponsored}
               placement="review_mobile_dock"
-              className={`flex min-h-[52px] max-w-[48%] shrink-0 items-center gap-2 rounded-lg border-2 border-marinho bg-laranja px-3 text-left text-sm leading-5 font-extrabold ${FOCUS_RING}`}
+              className={`flex min-h-[52px] max-w-[48%] shrink-0 items-center gap-2 rounded-lg border-2 border-marinho bg-laranja px-3 text-start text-sm leading-5 font-extrabold ${FOCUS_RING}`}
             >
               <span className="line-clamp-2 min-w-0 text-balance">{cta.label}</span>
               {isInternalLink(cta.url) ? (
-                <ArrowRight aria-hidden="true" className="h-4 w-4 shrink-0" />
+                <ArrowRight aria-hidden="true" className="h-4 w-4 shrink-0 rtl:-scale-x-100" />
               ) : (
                 <ExternalLink aria-hidden="true" className="h-4 w-4 shrink-0" />
               )}
@@ -249,7 +249,7 @@ export function ReviewMobileBottomBar({
         onClick={handleSheetClick}
         className={`inset-x-0 top-auto bottom-0 mx-auto my-0 max-h-[calc(100dvh-4rem)] w-full max-w-lg translate-y-full flex-col overflow-hidden rounded-t-[18px] border-2 border-b-0 border-marinho bg-white p-0 text-marinho transition-[translate,overlay,display] transition-discrete duration-200 ease-out backdrop:bg-marinho/55 open:flex open:translate-y-0 starting:open:translate-y-full motion-reduce:transition-none ${couponFontVariables}`}
       >
-        <div className="flex shrink-0 items-center gap-3 border-b-2 border-marinho bg-amarelo-cupom py-2.5 pr-3 pl-4">
+        <div className="flex shrink-0 items-center gap-3 border-b-2 border-marinho bg-amarelo-cupom py-2.5 pe-3 ps-4">
           <h2 id={titleId} className="flex-1 font-condensada text-[40px] leading-10 font-black font-stretch-extra-condensed">
             {copy.contents}
           </h2>
@@ -317,11 +317,11 @@ export function ReviewMobileBottomBar({
             >
               {coupon.offer ? (
                 <>
-                  <BrandWatermark src={coupon.offer.watermark} className="-right-7 top-1 h-20 w-[220px]" />
+                  <BrandWatermark src={coupon.offer.watermark} className="-end-7 top-1 h-20 w-[220px]" />
                   <div className="flex">
                     <div
                       aria-hidden="true"
-                      className="flex w-[92px] shrink-0 items-center justify-center border-r-2 border-marinho bg-amarelo-cupom px-1.5 py-2"
+                      className="flex w-[92px] shrink-0 items-center justify-center border-e-2 border-marinho bg-amarelo-cupom px-1.5 py-2"
                     >
                       <span className="relative z-10">
                         <DiscountFigure discount={coupon.offer.discount} size="stub" />
@@ -345,10 +345,8 @@ export function ReviewMobileBottomBar({
                   )}
                 </>
               )}
-              <div className="relative z-10 flex items-center gap-2.5 border-t-2 border-dashed border-marinho bg-white py-2 pr-2 pl-3.5 has-[[data-copied=true]]:border-solid has-[[data-copied=true]]:border-verde-escuro has-[[data-copied=true]]:bg-verde-claro">
-                <code className="min-w-0 flex-1 font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] break-all text-balance">
-                  {coupon.code}
-                </code>
+              <div className="relative z-10 flex items-center gap-2.5 border-t-2 border-dashed border-marinho bg-white py-2 pe-2 ps-3.5 has-[[data-copied=true]]:border-solid has-[[data-copied=true]]:border-verde-escuro has-[[data-copied=true]]:bg-verde-claro">
+                <code dir="ltr" className="min-w-0 flex-1 font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] break-all text-balance">{coupon.code}</code>
                 <CopyCodeButton
                   code={coupon.code}
                   brand={affiliate}
@@ -396,7 +394,7 @@ export function ReviewMobileBottomBar({
             >
               {cta.label}
               {isInternalLink(cta.url) ? (
-                <ArrowRight aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+                <ArrowRight aria-hidden="true" className="h-[18px] w-[18px] shrink-0 rtl:-scale-x-100" />
               ) : (
                 <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
               )}

@@ -174,7 +174,7 @@ export default function OmniSearch({
     <div ref={searchRef} className={fullWidthResults ? 'w-full' : 'relative w-full'}>
       <div className="relative">
         <Search
-          className={`pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 ${light ? 'text-marinho-suave' : 'text-white/60'}`}
+          className={`pointer-events-none absolute start-3 top-1/2 h-4 w-4 -translate-y-1/2 ${light ? 'text-marinho-suave' : 'text-white/60'}`}
         />
         <input
           ref={inputRef}
@@ -194,7 +194,7 @@ export default function OmniSearch({
           onFocus={handleFocus}
           placeholder={placeholder ?? copy.placeholder}
           aria-label={copy.inputLabel}
-          className={`w-full rounded-full py-2.5 pl-10 pr-9 text-sm transition-all focus:outline-none ${
+          className={`w-full rounded-full py-2.5 ps-10 pe-9 text-sm transition-all focus:outline-none ${
             light
               ? 'border-2 border-marinho bg-white font-semibold text-marinho placeholder-marinho-suave focus:border-laranja'
               : `text-white placeholder-white/50 ${
@@ -209,7 +209,7 @@ export default function OmniSearch({
             type="button"
             onClick={clearQuery}
             aria-label={copy.clearLabel}
-            className={`absolute right-3 top-1/2 -translate-y-1/2 transition-colors ${light ? 'text-marinho-suave hover:text-marinho' : 'text-white/60 hover:text-white'}`}
+            className={`absolute end-3 top-1/2 -translate-y-1/2 transition-colors ${light ? 'text-marinho-suave hover:text-marinho' : 'text-white/60 hover:text-white'}`}
           >
             <X className="h-4 w-4" />
           </button>
@@ -217,7 +217,7 @@ export default function OmniSearch({
       </div>
 
       {isOpen && results.length > 0 && (
-        <div className={`absolute z-[60] overflow-hidden border border-gray-200 bg-white text-left shadow-2xl ${panelPlacement}`}>
+        <div className={`absolute z-[60] overflow-hidden border border-gray-200 bg-white text-start shadow-2xl ${panelPlacement}`}>
           <p className="border-b border-gray-100 bg-gray-50 px-4 py-2 text-xs font-semibold text-gray-500">
             {copy.resultCount(results.length)}
           </p>
@@ -244,7 +244,7 @@ export default function OmniSearch({
                       ].filter(Boolean).join(' · ')}
                     </p>
                   </div>
-                  <ArrowRight className="h-4 w-4 flex-shrink-0 text-gray-300" />
+                  <ArrowRight className="h-4 w-4 flex-shrink-0 text-gray-300 rtl:-scale-x-100" />
                 </Link>
               </li>
             ))}

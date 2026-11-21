@@ -39,7 +39,7 @@ export function ChangelogDetails({ entries, variant = 'default' }: ChangelogDeta
       </summary>
       {/* Rótulo visível só no print: o CSS de impressão oculta todos os <summary> */}
       <p className={styles.printLabel}>Histórico de atualizações</p>
-      <ul className="mt-2 space-y-1.5 pl-4">
+      <ul className="mt-2 space-y-1.5 ps-4">
         {entries.map((entry) => (
           <li key={entry.date + entry.text.slice(0, 20)} className="flex flex-col text-xs">
             <time dateTime={entry.date} className={styles.date}>

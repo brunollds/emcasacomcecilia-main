@@ -143,7 +143,8 @@ export function AmountFigure({ size, value, unit, prefix, currency, suffix = 'OF
           <span className={`font-extrabold ${s.prefix}`}>{prefix}</span>{' '}
         </>
       )}
-      <span className="flex items-start gap-[3px] font-condensada font-black font-stretch-extra-condensed">
+      {/* A linha do número fica em LTR em toda página ("12%", nunca "%12"); em RTL ela encosta no início da leitura */}
+      <span dir="ltr" className="flex items-start gap-[3px] font-condensada font-black font-stretch-extra-condensed rtl:justify-end">
         {currency && (
           <>
             <span className={s.currency}>{currency}</span>{' '}
@@ -189,10 +190,10 @@ export function DiscountFigure({
   return <AmountFigure size={size} value={parts.value} unit={parts.unit} prefix={prefix} currency={parts.currency} />;
 }
 
-// "right-inset" deixa o logo perto da borda direita sem cortar quando a caixa vaza o card.
+// "right-inset" deixa o logo perto da borda direita sem cortar quando a caixa vaza o card. Em RTL, a esquerda.
 const WATERMARK_POSITION = {
-  right: 'object-right',
-  'right-inset': 'object-[88%_center]',
+  right: 'object-right rtl:object-left',
+  'right-inset': 'object-[88%_center] rtl:object-[12%_center]',
   center: 'object-center',
 } as const;
 

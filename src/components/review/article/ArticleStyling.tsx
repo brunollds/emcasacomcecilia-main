@@ -3,6 +3,7 @@
 import { useId, useRef, useState, type KeyboardEvent, type ReactNode } from 'react';
 import { ArrowUpRight, X } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { isRtl } from '@/components/ui/direction';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { ContentSectionStyling, StylingItem } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
@@ -74,11 +75,13 @@ function StylingTabsCard({ item, context }: { item: StylingItem; context: LinkCo
     if (focus) tabs.current[index]?.focus();
   };
 
+  // As setas seguem a leitura: em RTL, a da esquerda vai para a próxima aba.
   const onKeyDown = (event: KeyboardEvent<HTMLButtonElement>, index: number) => {
     const last = panels.length - 1;
+    const rtl = isRtl(event.currentTarget);
     const next =
-      event.key === 'ArrowRight' ? (index === last ? 0 : index + 1)
-      : event.key === 'ArrowLeft' ? (index === 0 ? last : index - 1)
+      event.key === (rtl ? 'ArrowLeft' : 'ArrowRight') ? (index === last ? 0 : index + 1)
+      : event.key === (rtl ? 'ArrowRight' : 'ArrowLeft') ? (index === 0 ? last : index - 1)
       : event.key === 'Home' ? 0
       : event.key === 'End' ? last
       : null;
@@ -99,7 +102,7 @@ function StylingTabsCard({ item, context }: { item: StylingItem; context: LinkCo
           <div
             role="tablist"
             aria-label={context.copy.tipsFor(item.piece)}
-            className="grid border-t-2 border-marinho sm:border-t-0 sm:border-l-2"
+            className="grid border-t-2 border-marinho sm:border-t-0 sm:border-s-2"
             style={{ gridTemplateColumns: `repeat(${panels.length}, minmax(0, 1fr))` }}
           >
             {panels.map((panel, index) => (
@@ -116,7 +119,7 @@ function StylingTabsCard({ item, context }: { item: StylingItem; context: LinkCo
                 tabIndex={index === active ? 0 : -1}
                 onClick={() => select(index, false)}
                 onKeyDown={(event) => onKeyDown(event, index)}
-                className={`relative min-h-12 cursor-pointer border-l-2 border-marinho bg-creme px-1.5 pt-2.5 pb-2 text-[13px] leading-tight font-bold text-marinho-suave wrap-anywhere hyphens-auto first:border-l-0 hover:bg-white hover:text-marinho focus-visible:z-10 aria-selected:bg-white aria-selected:font-extrabold aria-selected:text-marinho aria-selected:before:absolute aria-selected:before:inset-x-0 aria-selected:before:top-0 aria-selected:before:h-[5px] aria-selected:before:bg-laranja sm:text-sm ${FOCUS_RING}`}
+                className={`relative min-h-12 cursor-pointer border-s-2 border-marinho bg-creme px-1.5 pt-2.5 pb-2 text-[13px] leading-tight font-bold text-marinho-suave wrap-anywhere hyphens-auto first:border-s-0 hover:bg-white hover:text-marinho focus-visible:z-10 aria-selected:bg-white aria-selected:font-extrabold aria-selected:text-marinho aria-selected:before:absolute aria-selected:before:inset-x-0 aria-selected:before:top-0 aria-selected:before:h-[5px] aria-selected:before:bg-laranja sm:text-sm ${FOCUS_RING}`}
               >
                 {panel.label}
               </button>
@@ -294,7 +297,7 @@ function PieceName({ item, context }: { item: StylingItem; context: LinkContext 
       className="underline decoration-laranja decoration-2 underline-offset-4"
     >
       {item.piece}
-      <ArrowUpRight aria-hidden="true" className="ml-0.5 inline size-[0.7em] align-[0.05em]" />
+      <ArrowUpRight aria-hidden="true" className="ms-0.5 inline size-[0.7em] align-[0.05em]" />
     </StoreLink>
   );
 }

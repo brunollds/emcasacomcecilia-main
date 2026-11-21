@@ -61,13 +61,13 @@ export function ArticleStoreBlock({ block, locale, copy, reviewSlug, storeLabel 
               className={PATH_LINK}
             >
               {copy.allRules}
-              <ArrowRight aria-hidden="true" className="size-4 shrink-0" />
+              <ArrowRight aria-hidden="true" className="size-4 shrink-0 rtl:-scale-x-100" />
             </TrackedCouponPageLink>
           )}
           {articlesHref && allArticles && (
             <TrackedReviewsLink href={articlesHref} placement="review_store_block" linkLabel={allArticles} className={PATH_LINK}>
               {allArticles}
-              <ArrowRight aria-hidden="true" className="size-4 shrink-0" />
+              <ArrowRight aria-hidden="true" className="size-4 shrink-0 rtl:-scale-x-100" />
             </TrackedReviewsLink>
           )}
         </div>

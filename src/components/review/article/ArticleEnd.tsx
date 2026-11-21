@@ -78,7 +78,7 @@ export function ArticleEnd({
               href={videoPageUrl}
               className={`mt-2 inline-flex items-center gap-2 text-sm font-extrabold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`}
             >
-              {copy.openVideoPage} <ArrowRight size={16} aria-hidden="true" />
+              {copy.openVideoPage} <ArrowRight size={16} aria-hidden="true" className="rtl:-scale-x-100" />
             </Link>
           )}
         </section>

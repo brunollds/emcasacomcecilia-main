@@ -30,7 +30,8 @@ import {
 const FOCUS_INSET = 'focus-visible:outline-3 focus-visible:-outline-offset-3 focus-visible:outline-marinho';
 const TEXT_LINK = `flex min-h-11 items-center text-sm text-marinho underline underline-offset-[3px] ${FOCUS_RING}`;
 // Na troca de aba, o painel novo sai do display:none e entra 48 px pelo lado da bolinha escolhida
-// (.painel-entra e .carimbo no globals.css, por @starting-style).
+// (.painel-entra e .carimbo no globals.css, por @starting-style). O lado já vem físico do HomeStoreStrip, nas duas
+// direções: o --painel-de não se espelha no CSS.
 const PANEL_SHIFT_PX = 48;
 
 // A aba aberta vive no hash da URL. O replaceState não dispara hashchange, então a troca avisa por
@@ -160,7 +161,7 @@ function CodeBanner({ tab, deadline, copy }: { tab: HomeStoreTab; deadline?: str
       aria-labelledby={titleId}
       className="carimbo grid overflow-hidden rounded-[14px] border-2 border-marinho shadow-[0_4px_0_var(--color-marinho)] md:grid-cols-2 lg:shadow-[0_6px_0_var(--color-marinho)]"
     >
-      <div className="relative flex items-center gap-3.5 border-b-[3px] border-dashed border-marinho bg-laranja p-4 md:gap-5 md:border-r-[3px] md:border-b-0 md:px-7 md:py-5">
+      <div className="relative flex items-center gap-3.5 border-b-[3px] border-dashed border-marinho bg-laranja p-4 md:gap-5 md:border-e-[3px] md:border-b-0 md:px-7 md:py-5">
         <span className="relative flex size-16 shrink-0 items-center justify-center overflow-hidden rounded-full border-2 border-marinho bg-creme md:size-[76px]">
           <StoreMark tab={tab} imageClassName="h-1/2 w-[68%]" sizes="(min-width: 768px) 60px, 44px" />
         </span>
@@ -182,15 +183,15 @@ function CodeBanner({ tab, deadline, copy }: { tab: HomeStoreTab; deadline?: str
           </p>
         </div>
         {/* Picotes do cupom, no começo e no fim da linha tracejada. */}
-        <span aria-hidden="true" className="absolute -bottom-3 -left-3 size-[18px] rounded-full border-2 border-marinho bg-white md:-top-3 md:-right-3 md:bottom-auto md:left-auto" />
-        <span aria-hidden="true" className="absolute -right-3 -bottom-3 size-[18px] rounded-full border-2 border-marinho bg-white" />
+        <span aria-hidden="true" className="absolute -bottom-3 -start-3 size-[18px] rounded-full border-2 border-marinho bg-white md:-top-3 md:-end-3 md:bottom-auto md:start-auto" />
+        <span aria-hidden="true" className="absolute -end-3 -bottom-3 size-[18px] rounded-full border-2 border-marinho bg-white" />
       </div>
       <div className="flex flex-col justify-center gap-2 bg-creme px-4 pt-3 pb-3 md:gap-2.5 md:px-6 md:py-4">
         {tab.code ? (
           <div className="group/codigo flex flex-col gap-1.5 md:gap-2">
             <div className="flex items-center justify-between gap-3">
-              <span className="-ml-1 min-w-0 rounded px-1 py-0.5 font-codigo text-lg font-extrabold tracking-[0.02em] break-all text-balance text-marinho group-has-[[data-copied=true]]/codigo:bg-amarelo-cupom motion-safe:transition-colors motion-safe:duration-700 motion-safe:group-has-[[data-copied=true]]/codigo:duration-0 md:text-[30px]">
-                {tab.code}
+              <span className="-ms-1 min-w-0 rounded px-1 py-0.5 font-codigo text-lg font-extrabold tracking-[0.02em] break-all text-balance text-marinho group-has-[[data-copied=true]]/codigo:bg-amarelo-cupom motion-safe:transition-colors motion-safe:duration-700 motion-safe:group-has-[[data-copied=true]]/codigo:duration-0 md:text-[30px]">
+                <bdi dir="ltr">{tab.code}</bdi>
               </span>
               <CopyCodeButton
                 code={tab.code}
@@ -269,7 +270,7 @@ function ArticleStory({ article, index, count, onMove, eager, copy }: ArticleSto
       {count > 1 ? (
         <div aria-hidden="true" className="flex h-1.5 bg-marinho/15">
           {Array.from({ length: count }, (_, step) => (
-            <span key={step} className={`flex-1 border-r border-white last:border-r-0 ${step === index ? 'bg-laranja' : ''}`} />
+            <span key={step} className={`flex-1 border-e border-white last:border-e-0 ${step === index ? 'bg-laranja' : ''}`} />
           ))}
         </div>
       ) : null}
@@ -299,13 +300,13 @@ function ArticleStory({ article, index, count, onMove, eager, copy }: ArticleSto
       {count > 1 ? (
         <div className="flex items-center justify-between border-t-2 border-marinho/15 bg-white px-4 py-3">
           <button type="button" onClick={() => onMove(-1)} aria-label={copy.previousArticle} className={`flex size-11 items-center justify-center rounded-lg text-marinho ${FOCUS_RING}`}>
-            <ChevronLeft aria-hidden="true" className="size-[22px]" />
+            <ChevronLeft aria-hidden="true" className="size-[22px] rtl:-scale-x-100" />
           </button>
           <span aria-live="polite" className="text-[13px] font-bold text-marinho-suave">
-            {index + 1} / {count}
+            <bdi dir="ltr">{index + 1} / {count}</bdi>
           </span>
           <button type="button" onClick={() => onMove(1)} aria-label={copy.nextArticle} className={`flex size-11 items-center justify-center rounded-lg text-marinho ${FOCUS_RING}`}>
-            <ChevronRight aria-hidden="true" className="size-[22px]" />
+            <ChevronRight aria-hidden="true" className="size-[22px] rtl:-scale-x-100" />
           </button>
         </div>
       ) : null}
@@ -331,7 +332,7 @@ function ArticleList({ tab, current, onPick }: { tab: HomeStoreTab; current: num
                 type="button"
                 onClick={() => onPick(index)}
                 aria-current={index === current ? 'true' : undefined}
-                className={`hidden w-full items-center gap-3 px-4 py-3 text-left text-marinho lg:flex ${
+                className={`hidden w-full items-center gap-3 px-4 py-3 text-start text-marinho lg:flex ${
                   index === current ? 'bg-creme' : 'bg-white hover:bg-creme/60'
                 } ${FOCUS_INSET}`}
               >

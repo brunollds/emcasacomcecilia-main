@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { ArrowRight, Check, Copy, ExternalLink } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
+import { hasMoreAtEnd, readingScroll } from '@/components/ui/direction';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { ScrollRow } from '@/components/ui/ScrollRow';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
@@ -30,7 +31,7 @@ const ROW_LINK = `inline-flex min-h-11 items-center gap-1 text-sm font-extrabold
 // O código é o próprio botão de copiar, em largura total: o código longo (MAX10EMCASACOMCECILIA) cabe numa linha sem
 // disputar espaço com um botão ao lado, e todas as lojas usam o mesmo tamanho de letra. Tracejado como o recorte; ao
 // copiar, fica verde (data-copied, porque o botão é ele mesmo o tracejado e o :has() do .recorte não casa com ele).
-const CODE_BUTTON = `flex min-h-11 w-full items-center justify-between gap-2 rounded-lg border-2 border-dashed border-marinho bg-white px-3 py-1.5 text-left font-codigo text-[15px] leading-5 font-extrabold tracking-[0.02em] hover:bg-amarelo-cupom/40 data-[copied=true]:border-solid data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro ${FOCUS_RING}`;
+const CODE_BUTTON = `flex min-h-11 w-full items-center justify-between gap-2 rounded-lg border-2 border-dashed border-marinho bg-white px-3 py-1.5 text-start font-codigo text-[15px] leading-5 font-extrabold tracking-[0.02em] hover:bg-amarelo-cupom/40 data-[copied=true]:border-solid data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro ${FOCUS_RING}`;
 
 // No cartão do topo da loja sem código, o "Ir à loja" ocupa o lugar do código, com a mesma altura e a borda cheia (o
 // tracejado é de quem copia): não sobra um vazio embaixo, e o código dos vizinhos segue alinhado.
@@ -91,8 +92,8 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
             const first = row.firstElementChild;
             if (!first) return;
             const step = first.getBoundingClientRect().width + 12;
-            const atEnd = row.scrollLeft >= row.scrollWidth - row.clientWidth - 2;
-            setCurrent(atEnd ? blocks.length - 1 : Math.round(row.scrollLeft / step));
+            const atEnd = !hasMoreAtEnd(row, 2);
+            setCurrent(atEnd ? blocks.length - 1 : Math.round(readingScroll(row) / step));
           }}
         >
           {rows()}
@@ -139,7 +140,7 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
           <div className="flex flex-wrap items-center gap-x-3.5">
             {/* No cartão estreito (o carrossel do celular e as 4 colunas), o nome ocupa a linha e os links descem; nas 2
                 colunas, o cartão é largo e eles ficam ao lado do nome. */}
-            <p className={`mr-auto min-w-0 py-1 ${carousel ? 'max-md:basis-full @min-[64rem]:basis-full' : ''}`}>
+            <p className={`me-auto min-w-0 py-1 ${carousel ? 'max-md:basis-full @min-[64rem]:basis-full' : ''}`}>
               <span className="block text-[15px] leading-5 font-extrabold">{brand}</span>
               {discount && <span className="block text-[13px] leading-[18px] font-semibold text-marinho-suave">{discount}</span>}
             </p>
@@ -158,7 +159,7 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
                   {/* O texto curto na tela; o leitor de tela ouve "Regras da <loja>", que começa pelo que se vê. */}
                   <span aria-hidden="true">{copy.storeRulesShort}</span>
                   <span className="sr-only">{copy.storeRulesOf(block)}</span>
-                  <ArrowRight aria-hidden="true" className="size-3.5 shrink-0" />
+                  <ArrowRight aria-hidden="true" className="size-3.5 shrink-0 rtl:-scale-x-100" />
                 </TrackedCouponPageLink>
               )}
             </div>
@@ -176,12 +177,12 @@ export function ArticleStoreCodes({ variant, blocks, locale, reviewSlug }: Artic
               // Copiado, só o ✓, da largura do ícone de copiar: o código longo não quebra. A frase vem embaixo.
               copiedChildren={
                 <>
-                  <span className="min-w-0 break-all text-balance">{code}</span>
+                  <span dir="ltr" className="min-w-0 break-all text-balance">{code}</span>
                   <Check aria-hidden="true" className="size-[18px] shrink-0" />
                 </>
               }
             >
-              <span className="min-w-0 break-all text-balance">{code}</span>
+              <span dir="ltr" className="min-w-0 break-all text-balance">{code}</span>
               <Copy aria-hidden="true" className="size-[18px] shrink-0" />
             </CopyCodeButton>
           )}

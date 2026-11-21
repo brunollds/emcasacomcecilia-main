@@ -20,7 +20,7 @@ function AuthorBox({ article, photo, title, body, link }: { article: string; pho
   const linkContent = link && (
     <>
       {link.label}
-      <ArrowRight aria-hidden="true" className="size-4 shrink-0" />
+      <ArrowRight aria-hidden="true" className="size-4 shrink-0 rtl:-scale-x-100" />
     </>
   );
 
