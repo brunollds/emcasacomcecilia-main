@@ -118,6 +118,8 @@ const SHEIN_BRAZIL: Record<TranslatedLocale, string> = {
   ja: 'SHEIN ブラジル',
   'zh-hant': 'SHEIN 巴西站',
   'zh-hans': 'SHEIN 巴西站',
+  // "البرازيل" sozinho: pega "شي إن البرازيل" e "SHEIN البرازيل"; o texto da SHEIN não cita o Brasil.
+  ar: 'البرازيل',
 };
 
 for (const locale of TRANSLATED_LOCALES) {
@@ -365,7 +367,7 @@ for (const locale of TRANSLATED_LOCALES) {
   assert.ok(!/(^|[^\p{L}])até([^\p{L}]|$)/iu.test(getCouponHubItemName(entries[0], locale)), `${locale}: nome do item da YesStyle com "até" em português`);
   assert.ok(getCouponHubItemName(entries[0], locale).includes(upToLabel), `${locale}: nome do item da YesStyle sem o "até" do idioma`);
   assert.equal(yesstyle.offerTypeLabel, getYesStylePage(locale)?.rewardCodeLabel);
-  assert.ok(!/coupon|cupom|cupón|bon|gutschein|buono|쿠폰|クーポン|優惠碼|优惠码/i.test(`${yesstyle.offerTypeLabel} ${yesstyle.shortDescription}`), `${locale}: texto curto da YesStyle chama o código de cupom`);
+  assert.ok(!/coupon|cupom|cupón|bon|gutschein|buono|쿠폰|クーポン|優惠碼|优惠码|كوبون|قسيمة|قسائم|(كود|رمز) (ال)?خصم/i.test(`${yesstyle.offerTypeLabel} ${yesstyle.shortDescription}`), `${locale}: texto curto da YesStyle chama o código de cupom`);
   assert.equal(yesstyle.featuredPitch, undefined, 'featuredPitch é só do PT');
 
   // Texto de fora do PT não pode ter "Brasil" nem o nome do Brasil em português.

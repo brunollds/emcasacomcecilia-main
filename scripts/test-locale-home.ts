@@ -148,13 +148,14 @@ const ptGuideFamilies = boostedEvent.articleSlugs.map(
   (slug) => publishedReviews.find((review) => review.slug === slug && isListedInPortuguese(review))?.translationKey
 );
 const PT_EVENT = { suffix: ', guia da Black Friday', showLess: 'Mostrar menos', description: boostedEvent.description };
-const COUPON_WORDS = /cup[oó]n|coupon|gutschein|クーポン|쿠폰|優惠券|优惠券/i;
+// Árabe: كوبون, قسيمة/قسائم e كود/رمز (ال)خصم.
+const COUPON_WORDS = /cup[oó]n|coupon|gutschein|クーポン|쿠폰|優惠券|优惠券|كوبون|قسيمة|قسائم|(كود|رمز) (ال)?خصم/i;
 for (const locale of LOCALE_HOME_LOCALES) {
   const copy = LOCALE_EVENT_COPY[boostedEvent.id][locale];
   for (const text of [copy.title, copy.description, copy.guideSuffix, copy.showAll, copy.showLess, ...Object.values(copy.countdown)]) {
     assert.ok(text.trim(), `${locale}: texto da Black Friday vazio`);
     assert.doesNotMatch(text, COUPON_WORDS, `${locale}: a seção chama de cupom o que pode ser código de recompensa ou indicação`);
-    assert.doesNotMatch(text, /bra[sz]il|브라질|ブラジル|巴西/i, `${locale}: a seção cita o Brasil`);
+    assert.doesNotMatch(text, /bra[sz]il|브라질|ブラジル|巴西|البرازيل/i, `${locale}: a seção cita o Brasil`);
   }
   assert.notEqual(copy.description, PT_EVENT.description, `${locale}: descrição igual à do PT`);
   assert.notEqual(copy.guideSuffix, PT_EVENT.suffix, `${locale}: trecho do leitor de tela igual ao do PT`);
@@ -224,6 +225,10 @@ for (const locale of LOCALE_HOME_LOCALES) {
 }
 
 assert.equal(getHomeLanguageLinks()['x-default'], `${SITE_URL}/en`);
-assert.equal(LOCALE_KEYS.length, 10, 'os 10 idiomas');
+assert.deepEqual(
+  [...LOCALE_KEYS],
+  ['pt', 'en', 'es', 'fr', 'de', 'it', 'ko', 'ja', 'zh-hant', 'zh-hans', 'ar'],
+  'os idiomas do site, na ordem do registro'
+);
 
 console.log(`✅ test-locale-home: ${LOCALE_HOME_LOCALES.length} homes de idioma, ${CHROME_KEYS.length} textos de interface cada, abas, painel, HTML e a Black Friday conferidos`);

@@ -28,17 +28,23 @@ export const EVERY_STORE_TRANSLATED_CLAIM: Record<TranslatedLocale, RegExp> = {
   ja: /各パートナーショップ|すべてのパートナーショップ|全ての(?:パートナー)?ショップ/,
   'zh-hant': /每[家間]合作商店|所有合作商店/,
   'zh-hans': /每[家间]合作商店|所有合作商店/,
+  // كل متجر (شريك) لديه / جميع المتاجر (الشريكة) لديها
+  ar: /كل متجر (شريك )?(لديه|له)|(جميع|كل) المتاجر (الشريكة )?(لديها|لها)/,
 };
 
 // As palavras de cupom, uma lista só: as do sidebarCopy.ts (couponLabel), os termos genéricos de desconto
 // em coreano e japonês ("할인 코드", "割引コード") e os compostos do alemão. As palavras de código em geral
-// (code, código, codice, 코드, コード) ficam de fora: o CECILIA010 é um código.
+// (code, código, codice, 코드, コード, رمز) ficam de fora: o CECILIA010 é um código. Em árabe, sem fronteira de
+// palavra (o \b não vê letra árabe): كوبون(ات), قسيمة/قسائم e كود/رمز (ال)خصم.
 export const COUPON_WORD_LIST =
-  'cupo[mn]s?|cup[oó]n(?:es)?|coupons?|gutschein\\w*|discount|descuento|desconto|promo|rabatt\\w*|sconto|쿠폰|クーポン|할인|割引|優惠[碼券]|优惠[码券]';
+  'cupo[mn]s?|cup[oó]n(?:es)?|coupons?|gutschein\\w*|discount|descuento|desconto|promo|rabatt\\w*|sconto|쿠폰|クーポン|할인|割引|優惠[碼券]|优惠[码券]' +
+  '|\\u0643\\u0648\\u0628\\u0648\\u0646(?:\\u0627\\u062a)?|\\u0642\\u0633\\u0627\\u0626\\u0645|\\u0642\\u0633\\u064a\\u0645\\u0629|\\u0643\\u0648\\u062f (?:\\u0627\\u0644)?\\u062e\\u0635\\u0645|\\u0631\\u0645\\u0632 (?:\\u0627\\u0644)?\\u062e\\u0635\\u0645';
 
-// "Com outros cupons" nos 10 idiomas: dito do CECILIA010, faria dele um cupom também.
+// "Com outros cupons" nos 11 idiomas: dito do CECILIA010, faria dele um cupom também. Em árabe: كوبونات أخرى,
+// كوبون آخر, قسائم أخرى, قسيمة أخرى.
 export const OTHER_COUPONS =
-  'outros? cupo|other coupon|otros? cup|autres? coupon|(?:anderen|weiteren) gutschein|altr[io] coupon|다른 쿠폰|(?:ほか|他)のクーポン|其他優惠碼|其他优惠码';
+  'outros? cupo|other coupon|otros? cup|autres? coupon|(?:anderen|weiteren) gutschein|altr[io] coupon|다른 쿠폰|(?:ほか|他)のクーポン|其他優惠碼|其他优惠码' +
+  '|\\u0643\\u0648\\u0628\\u0648\\u0646\\u0627\\u062a \\u0623\\u062e\\u0631\\u0649|\\u0643\\u0648\\u0628\\u0648\\u0646 \\u0622\\u062e\\u0631|\\u0642\\u0633\\u0627\\u0626\\u0645 \\u0623\\u062e\\u0631\\u0649|\\u0642\\u0633\\u064a\\u0645\\u0629 \\u0623\\u062e\\u0631\\u0649';
 
 // Rótulo do código igual ao do PT só onde a palavra é a mesma nas duas línguas: "Código de recompensa" é
 // assim em espanhol e em português. Chave: idioma:tipo do código.

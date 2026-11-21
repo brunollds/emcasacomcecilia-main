@@ -255,6 +255,7 @@ const HOSTINGER_NO_COUPON: Record<Locale, RegExp> = {
   ko: /입력할 코드가 없|쿠폰은 필요 없|(이미 )?링크에 들어 있/,
   'zh-hans': /不需要优惠券|没有需要输入的代码|(已经)?(包含)?在链接(中|里)/,
   'zh-hant': /不需要優惠券|沒有需要輸入的代碼|(已經)?(包含)?在連結(中|裡)/,
+  ar: /لا (تحتاج|حاجة) (إلى |ل)?(أي )?(كوبون|قسيمة|كود)|لا (يوجد|توجد) (رمز|كود) (لكتابته|لإدخاله)|لا شيء لكتابته|(موجود|مدمج|مضمن) (بالفعل )?في الرابط|بالفعل في الرابط/,
 };
 
 // Desde 04/11/2026: o SONAR20 dá 20% em toda compra nova, também para quem já é cliente, e nunca na renovação,
@@ -270,6 +271,8 @@ const HOSTINGER_RENEWAL_DISCOUNT: Record<Locale, RegExp> = {
   ko: /갱신(에도|가에도|에서도) (20% )?할인이 적용|20%도 갱신가에 적용/,
   'zh-hans': /(20%|折扣)[^。；]{0,8}续费(时|时也)?也有效|续费也(享|有效)/,
   'zh-hant': /(20%|折扣)[^。；]{0,8}(也)?適用於續(約|訂)|續(約|訂)(時)?也(享|適用|有效)/,
+  // "também" (أيضًا) obrigatório: "o desconto não vale na renovação" passa.
+  ar: /(20 ?%|الرمز|الكود|الكوبون|SONAR20)[^.،؛]{0,30}أيض(ًا|اً|ا) (على|عند|في) التجديد|(20 ?%|الرمز|الكود|الكوبون|SONAR20)[^.،؛]{0,30}(على|عند|في) التجديد أيض(ًا|اً|ا)/i,
 };
 
 function hostingerCopyProblems(review: ReviewSource): string[] {
@@ -297,6 +300,7 @@ const REFERRAL_TERM: Record<Locale, string> = {
   ja: '紹介コード',
   'zh-hant': '推薦碼',
   'zh-hans': '推荐码',
+  ar: 'رمز الإحالة',
 };
 const SHEIN_BRAZIL: Record<Locale, string> = {
   pt: 'SHEIN',
@@ -309,6 +313,8 @@ const SHEIN_BRAZIL: Record<Locale, string> = {
   ja: 'SHEIN ブラジル',
   'zh-hant': 'SHEIN 巴西站',
   'zh-hans': 'SHEIN 巴西站',
+  // "البرازيل" sozinho: pega "شي إن البرازيل" e "SHEIN البرازيل", e o rótulo não tem por que citar o Brasil.
+  ar: 'البرازيل',
 };
 // Os textos da interface do artigo (selo, veredito, ficha, vídeo, galeria, compartilhar) não ficam em
 // português: cada campo difere do PT, salvo as palavras que são as mesmas nas duas línguas. A lista
@@ -358,6 +364,7 @@ const TYPE_SCRIPT: Partial<Record<Locale, RegExp>> = {
   ko: /\p{Script=Hangul}/u,
   'zh-hans': /\p{Script=Han}/u,
   'zh-hant': /\p{Script=Han}/u,
+  ar: /\p{Script=Arabic}/u,
 };
 
 function typeProblems(review: ReviewSource, portugueseType: string | undefined): string[] {
@@ -699,7 +706,7 @@ const storeReferralLabel = (locale: Locale) =>
   // A seção de FAQ vira o acordeão e o FAQPage do schema: o título precisa estar na lista do template
   // e cada item precisa trazer a pergunta e a resposta, senão os dois o deixam de fora. Estes são os
   // títulos que o Job 4 do vault indica.
-  for (const heading of ['Perguntas frequentes', 'Frequently asked questions', 'Preguntas frecuentes', 'Questions fréquentes', 'Häufige Fragen', 'Domande frequenti', '자주 묻는 질문', 'よくある質問', '常見問題', '常见问题']) {
+  for (const heading of ['Perguntas frequentes', 'Frequently asked questions', 'Preguntas frecuentes', 'Questions fréquentes', 'Häufige Fragen', 'Domande frequenti', '자주 묻는 질문', 'よくある質問', '常見問題', '常见问题', 'الأسئلة الشائعة']) {
     assert.equal(isFaqHeading(heading), true, `título de FAQ do Job 4 não reconhecido: ${heading}`);
   }
   assert.equal(isFaqHeading('FAQ: frete e prazo'), true, 'FAQ como palavra é título de FAQ');
@@ -741,6 +748,7 @@ const storeReferralLabel = (locale: Locale) =>
     ko: 'Hostinger 쿠폰은 필요 없습니다.',
     'zh-hans': '不需要优惠券，折扣已经包含在链接中。',
     'zh-hant': '不需要優惠券，折扣已經包含在連結中。',
+    ar: 'لا تحتاج إلى كوبون من Hostinger: الخصم موجود بالفعل في الرابط.',
   };
   for (const [locale, text] of Object.entries(oldHostingerCopy) as [Locale, string][]) {
     assert.equal(hostingerCopyProblems(hostingerFixture(locale, text)).length, 1, `${locale}: frase antiga da Hostinger falha`);
@@ -763,6 +771,7 @@ const storeReferralLabel = (locale: Locale) =>
     ko: '갱신에도 20% 할인이 적용됩니다.',
     'zh-hans': 'SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。',
     'zh-hant': 'SONAR20 的 20% 折扣也適用於續約，請在購物車確認價格。',
+    ar: 'تسري نسبة 20% أيضًا على التجديد؛ تحقق من السعر في سلة التسوق.',
   };
   for (const [locale, text] of Object.entries(renewalDiscountCopy) as [Locale, string][]) {
     assert.equal(hostingerCopyProblems(hostingerFixture(locale, text)).length, 1, `${locale}: desconto na renovação falha`);
