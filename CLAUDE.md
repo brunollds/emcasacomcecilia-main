@@ -20,21 +20,21 @@ npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (
 npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
-npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT; loja ativa de INTERNATIONAL_STORES com página nos 9 idiomas
+npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT; loja ativa de INTERNATIONAL_STORES com página nos 10 idiomas
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (o dia vira às 02:00 GMT, 23h de Brasília)
 npm run test:yesstyle-article-date  # {yesstyle:verifiedAt} nos artigos: o build-index troca pela data da página /cupons/yesstyle no idioma do artigo; marcação que sobra para o build
-npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"; consentimento (store, valor inválido, armazenamento bloqueado, os dois loaders atrás de isTrackingAllowed, textos do aviso nos 10 idiomas)
-npm run test:language-suggestion  # faixa de sugestão de idioma: idioma do navegador → do site (chinês pela escrita), escolha pelo hreflang da página, inglês sem idioma do site, textos dos 10 idiomas e nada de redirecionamento
+npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"; consentimento (store, valor inválido, armazenamento bloqueado, os dois loaders atrás de isTrackingAllowed, textos do aviso nos 11 idiomas)
+npm run test:language-suggestion  # faixa de sugestão de idioma: idioma do navegador → do site (chinês pela escrita), escolha pelo hreflang da página, inglês sem idioma do site, textos dos 11 idiomas e nada de redirecionamento
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas (com a Outros) e a página /reviews/outros, páginas de 12 e 24, medição e os componentes
-npm run test:review-stores   # artigo de várias lojas (`affiliate` em lista, src/lib/reviewStores.ts) nas listagens: abas e ordem das bolinhas da home, /reviews e subpáginas, Outros, rótulo do cartão, busca, relacionados, data comercial, vídeo e snippet; as regras da lista (loja de link e afiliado sem página inclusive; fora do PT, só loja com página no idioma), os blocos e as linhas do artigo nos 10 idiomas e a família nas listagens de cada idioma
+npm run test:review-stores   # artigo de várias lojas (`affiliate` em lista, src/lib/reviewStores.ts) nas listagens: abas e ordem das bolinhas da home, /reviews e subpáginas, Outros, rótulo do cartão, busca, relacionados, data comercial, vídeo e snippet; as regras da lista (loja de link e afiliado sem página inclusive; fora do PT, só loja com página no idioma), os blocos e as linhas do artigo nos 11 idiomas e a família nas listagens de cada idioma
 npm run test:affiliate-stores  # afiliados sem página (src/lib/affiliateStores.ts): slug fora de couponsData.ts e de `outros`, link https, idiomas do site e os helpers
 npm run test:videos-hub      # /videos e as páginas de vídeo: destaque e ordem pela data, chips de loja e ?loja=, duração, origem e botão da loja, Mais vídeos, canal, medição e os componentes
 npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
 npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de ofertas do feed) e vídeos da home, e que o page.js passa as ofertas ao Explore a casa e monta os Vídeos
-npm run test:locale-home     # home de cada idioma (/en, /ja…): textos de interface dos 9 idiomas (16 chaves, sem igual ao PT, Sie e espaço fino), abas das lojas (ordem pelo artigo mais novo, o até da YesStyle), painel, Acabou de sair, validade do certificado da YesStyle e o JSON-LD (só a Person)
+npm run test:locale-home     # home de cada idioma (/en, /ja…): textos de interface dos 10 idiomas (16 chaves, sem igual ao PT, Sie e espaço fino), abas das lojas (ordem pelo artigo mais novo, o até da YesStyle), painel, Acabou de sair, validade do certificado da YesStyle e o JSON-LD (só a Person)
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
-npm run test:not-found       # o 404: título, busca, caminhos, artigos, os 9 idiomas e dynamicParams = false em toda rota dinâmica
+npm run test:not-found       # o 404: título, busca, caminhos, artigos, os 10 idiomas e dynamicParams = false em toda rota dinâmica
 npm run test:institutional  # a /sobre: números dos dados (redes, artigos em PT, lojas ativas, receitas), selo da YesStyle só no prazo, marcas parceiras, trilha = BreadcrumbList, Person e textos proibidos; o /faqs (perguntas, FAQPage = página, atalhos), o /contato (assuntos = rota, escape do e-mail), a /privacidade (13 seções, Clarity, GA com 2 meses, consentimento, sumário, links externos em https, sem [VERIFICAR) e o /buscar (resultados com link e capa, aviso de nada encontrado, noindex)
 npm run test:styling-required  # capítulos de scripts/styling-required.json com o card de estilo: tirar o card de um deles quebra; artigo fora da lista segue sem exigência
 npm run test:recipes         # receitas: o tempo num formato só (formatRecipeTime), a foto só a própria (sem foto: a capa desenhada no cartão de /receitas, da home e do /buscar, e nada de imagem no topo, no JSON-LD nem no og:image), o topo de /receitas e nenhum arquivo cliente importando valores de @/lib/data
@@ -42,11 +42,11 @@ npm run test:covers          # gerador de capas (scripts/media/covers/): faixas,
 npm run covers:render -- <spec.json>   # capas do Discover; modelos no Job 6 do vault (Job-6-Capa-e-Imagens.md)
 npm run covers:check -- <base> content/reviews/<slug>.json   # og:image, capa e alt das páginas que trocaram de capa
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:store-banners   # banners de campanha das lojas nos artigos: prazo (fuso de Brasília), lugar (depois da 1ª seção e antes do FAQ) e dados (loja, link que vale nos 10 idiomas, textos dos 10 idiomas sem o código da loja)
+npm run test:store-banners   # banners de campanha das lojas nos artigos: prazo (fuso de Brasília), lugar (depois da 1ª seção e antes do FAQ) e dados (loja, link que vale nos 11 idiomas, textos dos 11 idiomas sem o código da loja)
 npm run test:article-media   # a mídia que os componentes do artigo recebem pronta: foto em texto e em objeto, lista, vídeo do topo e da seção e galeria, no mapa de mídia e fora dele, com os outros campos preservados
 npm run test:article-d2      # antes do build: cores antigas fora do corpo e do topo dos artigos, relacionados, regras do bloco da loja, dock e sidebar
 npm run test:rtl             # antes do build: nenhum utilitário físico de direção (ml-, pr-, left-, text-right, border-l…) nos componentes das páginas fora do PT, salvo par simétrico, centralização e scripts/rtl-physical-baseline.json (que só encolhe); lang com dir; dir em todo idioma de LOCALES
-npm run test:build-output    # depois do build: o header marca a seção atual (uma vez no computador e uma na gaveta, nenhuma na home; fora do PT, Coupons no hub e nenhum link de loja, e o rodapé com FAQ, contato e mídia kit; textos do PT só no PT, movimento `.header-` só com o movimento liberado), CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, as peças novas do artigo (recorte do topo e bloco da loja só em artigo com loja, bloco do link de afiliado com o `cta.url` em artigo com `cta` e sem loja, 6 relacionados da mesma loja primeiro e logo depois os do `relatedArticles`, galeria sem item repetido, código da loja copiável no texto, corpo e topo sem as cores antigas nem o fundo de caderno), a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), a /reviews/outros (a bolinha da casa por último em /reviews e em Outras lojas, os cartões, nenhum link de cupom e o sitemap), as páginas de data (imagem e JSON-LD), /videos (o destaque, a grade na ordem, os chips, o JSON-LD de lista e nenhum nome de transição no HTML), as páginas de vídeo (trilha igual ao BreadcrumbList, h1 igual ao VideoObject, o player logo depois do h1 no formato do vídeo, a origem, o botão da loja e Mais vídeos), o "Ver todos os vídeos" da home, o tamanho do player no CSS, a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …), o movimento de /cupons e das páginas de loja (o .recorte só nas caixas com botão de copiar, a tesoura que corre, o verde fora do bloco de movimento, a etiqueta e o recorte que assentam sem opacity e as prateleiras em cascata com o ímã à direita) o selo da Hostinger em cada uma das 10 homes, e as homes de cada idioma (hreflang, JSON-LD, sem texto em português, links de loja só os da própria home com sponsored, menu e rodapé inclusive)
+npm run test:build-output    # depois do build: o header marca a seção atual (uma vez no computador e uma na gaveta, nenhuma na home; fora do PT, Coupons no hub e nenhum link de loja, e o rodapé com FAQ, contato e mídia kit; textos do PT só no PT, movimento `.header-` só com o movimento liberado), CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 11 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, as peças novas do artigo (recorte do topo e bloco da loja só em artigo com loja, bloco do link de afiliado com o `cta.url` em artigo com `cta` e sem loja, 6 relacionados da mesma loja primeiro e logo depois os do `relatedArticles`, galeria sem item repetido, código da loja copiável no texto, corpo e topo sem as cores antigas nem o fundo de caderno), a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), a /reviews/outros (a bolinha da casa por último em /reviews e em Outras lojas, os cartões, nenhum link de cupom e o sitemap), as páginas de data (imagem e JSON-LD), /videos (o destaque, a grade na ordem, os chips, o JSON-LD de lista e nenhum nome de transição no HTML), as páginas de vídeo (trilha igual ao BreadcrumbList, h1 igual ao VideoObject, o player logo depois do h1 no formato do vídeo, a origem, o botão da loja e Mais vídeos), o "Ver todos os vídeos" da home, o tamanho do player no CSS, a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …), o movimento de /cupons e das páginas de loja (o .recorte só nas caixas com botão de copiar, a tesoura que corre, o verde fora do bloco de movimento, a etiqueta e o recorte que assentam sem opacity e as prateleiras em cascata com o ímã à direita) o selo da Hostinger em cada uma das 11 homes, e as homes de cada idioma (hreflang, JSON-LD, sem texto em português, links de loja só os da própria home com sponsored, menu e rodapé inclusive)
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -86,7 +86,7 @@ aconteceu:
 | Cupons | `src/lib/couponsData.ts` (união `discount-code \| affiliate-link`) |
 | Afiliados sem página (hoje a Shopee) | `src/lib/affiliateStores.ts`: loja só com o link de afiliado, sem página em `/cupons` nem bolinha; só o artigo de várias lojas lê (o slug só entra em `affiliate` em lista, e a linha da loja é só o nome e o "Ir à loja"). Loja que ganha página vai para `couponsData.ts` |
 | Cupons em outros idiomas (hoje a SHEIN, a Hostinger, a Temu e o AliExpress) | `src/lib/couponTranslations.ts`: só texto e, quando a loja tem, o link internacional (`offerUrl`); códigos, datas e campanhas vêm do cupom em PT. Aceita loja de link e de código (a de código segue a `CODE_FIELD_POLICY`, e texto sem tradução some da página do idioma). Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
-| YesStyle: código de recompensa e cupons da loja | `data/coupons/yesstyle.json`, lido por `src/lib/yesstyleCoupons.ts`. Textos dos 10 idiomas em `src/components/coupons/yesstyleCopy.ts`, juntados aos dados em `yesstylePage.ts`. Manutenção na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
+| YesStyle: código de recompensa e cupons da loja | `data/coupons/yesstyle.json`, lido por `src/lib/yesstyleCoupons.ts`. Textos dos 11 idiomas em `src/components/coupons/yesstyleCopy.ts`, juntados aos dados em `yesstylePage.ts`. Manutenção na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
 | Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` (com o `aspect` de cada vídeo); `/videos` e as páginas de vídeo montadas por `src/lib/videosHub.ts`, regras do navegador em `src/lib/videosShelf.ts` |
 | Links da marca e redes sociais | `src/lib/brandLinks.ts` |
@@ -131,9 +131,9 @@ a gravação da URL das duas ficam em `src/components/ui/useListUrl.tsx` (`isOnL
 
 ### Busca (a lupa do header)
 
-A lupa existe nos 10 idiomas e o campo é o `OmniSearch` (cliente), com os textos em
+A lupa existe nos 11 idiomas e o campo é o `OmniSearch` (cliente), com os textos em
 `src/components/search/searchCopy.ts` e os rótulos da lupa no `ShellCopy`. O PT busca em
-`public/search-index.json` (receitas e artigos) e leva ao `/buscar`. Cada um dos 9 idiomas busca em
+`public/search-index.json` (receitas e artigos) e leva ao `/buscar`. Cada um dos 10 idiomas busca em
 `public/search-index-<locale>.json`, só com as páginas de loja dele e os artigos da lista dele
 (`createLocaleSearchIndex`, em `src/lib/siteSearch.mjs`), sem o `/buscar`: Enter abre o resultado. Os
 índices saem do `node scripts/content/build-index.mjs`, que lê os textos das lojas (TS) com o tsx num
@@ -147,7 +147,7 @@ do PT. Em vez disso, o `LanguageSuggestion` (`src/components/language/`, no `Roo
 quando o idioma do visitante é outro e a página declara a versão dele no hreflang. A regra fica em
 `src/lib/languageSuggestion.ts`: o primeiro idioma do navegador que o site tem decide; sem nenhum, o inglês; site com
 o idioma mas página sem a versão, nada. A faixa lê os `<link rel="alternate" hreflang>` do `<head>` (o mesmo dado do
-SEO), fala no idioma que sugere (`languageSuggestionCopy.ts`, importado direto para os 10 textos não irem ao HTML),
+SEO), fala no idioma que sugere (`languageSuggestionCopy.ts`, importado direto para os 11 textos não irem ao HTML),
 só monta no navegador, espera o aviso de cookies e some para sempre ao fechar ou seguir (`ecc-lang-suggestion-v1`).
 
 ### Analytics e aviso de cookies (LGPD)
@@ -164,7 +164,7 @@ condições de `isTrackingAllowed` (`src/lib/consent.ts`): o host liberado (`sho
   Aparece sem escolha guardada ou quando o botão "Preferências de cookies" do rodapé o reabre
   (`openConsentPreferences`). Recusar e Aceitar têm o mesmo tamanho e o mesmo peso. Quem troca o
   aceite pela recusa recebe a página de novo, porque os scripts não descarregam.
-- Os textos do aviso e do botão do rodapé, nos 10 idiomas, ficam em
+- Os textos do aviso e do botão do rodapé, nos 11 idiomas, ficam em
   `src/components/consent/consentCopy.ts`. A política só existe em português, e fora do PT o link
   avisa o idioma dela.
 
@@ -197,10 +197,12 @@ vídeo, primeiras impressões e uso noturno.
 
 ### Artigos em outros idiomas
 
+O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerda. A base de direção (utilitários lógicos do Tailwind, `src/components/ui/direction.ts`, códigos com `dir="ltr"`, `npm run test:rtl`) está em `docs/superpowers/specs/2026-11-21-arabe-rtl-design.md`; o passo a passo de um idioma novo, em `docs/NOVO-IDIOMA.md`.
+
 - Uma família é o conjunto de JSONs com a mesma `translationKey`, um por idioma, cada um com
   `locale` explícito. A URL sai sozinha: `/reviews/<slug>` em português e `/<locale>/reviews/<slug>`
   nos outros idiomas. Não se cria rota, hreflang nem entrada em `src/lib/i18n/clusters/` para isso.
-- `npm run test:review-i18n`, que roda na build, exige as 10 versões de toda família, com o mesmo
+- `npm run test:review-i18n`, que roda na build, exige as 11 versões de toda família, com o mesmo
   `affiliate` (no artigo de várias lojas, a mesma lista, na mesma ordem, e o mesmo `store` em cada botão de
   seção, foto e peça do card de estilo) e o mesmo `coupon`, e o link da
   página da loja no idioma do artigo: `/cupons/<marca>` em português e `/<locale>/coupons/<marca>` nos outros.
@@ -209,7 +211,7 @@ vídeo, primeiras impressões e uso noturno.
   fora do PT diz que um código ou uma campanha da SHEIN é "da SHEIN Brasil": não existe programa da SHEIN por país.
 - A interface do artigo que não é conteúdo (selo do tipo, veredito e nota, ficha do produto, bloco de
   vídeo, galeria, barra de compartilhar, nome da trilha para o leitor de tela, rótulo e fechar da nota
-  editorial) tem o texto nos 10 idiomas em `articleCopy.ts`, `galleryCopy.ts` (ambos em
+  editorial) tem o texto nos 11 idiomas em `articleCopy.ts`, `galleryCopy.ts` (ambos em
   `src/components/review/`) e `shared/shareCopy.ts`; o dock e a sidebar seguem em `sidebarCopy.ts`.
   Texto novo no artigo vai nesses arquivos, nunca solto no JSX. A nota editorial
   (`EditorialNotePill`, nos componentes de `src/components/editorial/`) é componente de cliente: o
@@ -218,10 +220,10 @@ vídeo, primeiras impressões e uso noturno.
   (`couponStoreCopy.tsx`), e o `test:review-i18n` confere. O `test:review-i18n` barra campo igual ao
   português (salvo a lista de palavras iguais nas duas línguas) e o `test:build-output` barra texto
   em português nas páginas fora do PT e confere o veredito da sidebar e o `<head>` (canonical e
-  hreflang dos 10 idiomas, x-default no inglês) de todo artigo de família. O `type` da review
+  hreflang dos 11 idiomas, x-default no inglês) de todo artigo de família. O `type` da review
   (rótulo do tipo no cabeçalho, na vitrine por idioma e nos relacionados) é conteúdo, mas sai no
   idioma da versão: o `test:review-i18n` barra `type` igual ao do PT, salvo "Editorial" em en e es
-  (`TYPE_SAME_AS_PORTUGUESE`), e, em ja, ko e zh, `type` só em letras latinas. Os termos de cada
+  (`TYPE_SAME_AS_PORTUGUESE`), e, em ja, ko e zh, `type` só em letras latinas; em ar, em escrita árabe. Os termos de cada
   idioma estão na tabela do Job 4 do vault (seção 3, item 4). Os cards de artigos relacionados
   seguem fora dessa conferência.
 - A vitrine em português (`/reviews`, home e busca) só mostra artigos em português, pelo `locale`.
@@ -274,7 +276,7 @@ vídeo, primeiras impressões e uso noturno.
 - `ReviewNotebookTemplate` monta o artigo. A seção atual e o progresso de leitura vêm de
   `useReadingPosition`, que alimenta o `ReviewSidebar` (desktop) e o `ReviewMobileBottomBar`
   (celular: dock `sticky` e gaveta do sumário num `<dialog>` aberto com `showModal()`).
-- Os textos dos dois, nos 10 idiomas, ficam em `src/components/review/sidebarCopy.ts`; o rótulo de
+- Os textos dos dois, nos 11 idiomas, ficam em `src/components/review/sidebarCopy.ts`; o rótulo de
   cópia do código vem de `couponCopyLocale.ts`, e o botão de copiar é o `CopyCodeButton` de
   `CouponActions.tsx` nos dois. `npm run test:build-output` confere a sidebar de cada artigo no
   idioma dele.
@@ -350,7 +352,7 @@ vídeo, primeiras impressões e uso noturno.
   `piece` e ao menos um de `howTo`, `occasion` e `pairsWith` (1 a 4 itens; com `url` é peça da loja, link de
   afiliado com sponsored e `note` opcional; sem `url`, básico do armário), mais `url` da peça e `variants` (cor,
   `swatch` em #rrggbb, `pairsWith` e `avoid`) opcionais; de 1 a 3 peças por seção, sem markdown e sem preço. Os
-  rótulos, nos 10 idiomas, ficam em `src/components/review/stylingCopy.ts`. O `validate:content` confere o dado e o
+  rótulos, nos 11 idiomas, ficam em `src/components/review/stylingCopy.ts`. O `validate:content` confere o dado e o
   `test:build-output`, o card no HTML (modelo, texto das abas fechadas, rótulos do idioma e sponsored). Numa família,
   o `test:review-i18n` exige em toda versão os cards do português, na mesma ordem, com o mesmo modelo, as mesmas
   peças, links, campos e cores, e o como usar, a ocasião e a nota do link traduzidos (nome da peça e básico do
@@ -360,7 +362,7 @@ vídeo, primeiras impressões e uso noturno.
   1 a 3 frases cada, sem markdown e sem "R$"), desenhado por `ArticleDecision` (`src/components/review/article/`, com as
   listas `ProsConsList` dos prós e contras) logo antes do FAQ, acima do banner do meio; sem FAQ, depois da última seção.
   Sem estrelas, nota nem schema de Review; o review de produto não leva o campo (tem os prós e contras), e o
-  `validate:content` barra. Rótulos nos 10 idiomas em `articleCopy.ts` (`decisionLabel`, `decisionTakeIf`, `decisionSkipIf`).
+  `validate:content` barra. Rótulos nos 11 idiomas em `articleCopy.ts` (`decisionLabel`, `decisionTakeIf`, `decisionSkipIf`).
   Numa família, o `test:review-i18n` exige o quadro em toda versão quando o PT tem, com o mesmo número de frases e nenhuma
   igual à do PT; o `test:build-output` confere o lugar, os rótulos, as frases e que nenhuma vai ao JSON-LD.
 - Botões dos links de seção (`section.links`, `ReviewSectionContent`): o link externo com `sponsored` fica laranja, como os
@@ -372,7 +374,7 @@ vídeo, primeiras impressões e uso noturno.
   família, mas toda loja da lista tem de valer no idioma do artigo, e nenhuma linha some num idioma: fora do PT, a loja
   de `couponsData.ts` precisa de página de loja no idioma (`hasTranslatedStorePage`, de `articleStore.ts`: hoje SHEIN,
   Temu, AliExpress e Hostinger), porque as regras e os textos das outras só existem em português, e o afiliado sem
-  página vale só nos `locales` dele. Numa família, portanto, a lista só leva lojas que valem nos 10 idiomas. Fora do
+  página vale só nos `locales` dele. Numa família, portanto, a lista só leva lojas que valem nos 11 idiomas. Fora do
   PT, o bloco de cada loja sai da tradução dela (desconto, regras, link e `/<locale>/coupons/<loja>`), e o cartão do
   artigo nas listagens leva "A e B" ou "N lojas parceiras" no idioma dele (`STORE_LABELS`, em `reviewStores.ts`). As lojas se leem só por
   `src/lib/reviewStores.ts` (`getSingleStoreSlug` dá vazio para a lista: nada usa a primeira). O artigo entra na estante
@@ -388,7 +390,7 @@ vídeo, primeiras impressões e uso noturno.
 - Foto de produto com link: o `href` opcional da imagem da seção (`image` em forma de objeto ou item de `images`,
   `ContentSectionImage`) faz da foto o link de afiliado do produto (`CouponStoreLink`, sponsored, nova aba,
   `review_image`), com o selo "Ver na <loja>" na foto e no lightbox e o nome do link "Ver na <loja>: <alt>" avisando a
-  nova aba (`viewProduct` e `viewProductNamed` de `galleryCopy.ts`, nos 10 idiomas). O "Ampliar" vira um botão à
+  nova aba (`viewProduct` e `viewProductNamed` de `galleryCopy.ts`, nos 11 idiomas). O "Ampliar" vira um botão à
   parte, logo depois do link e fora dele; foto sem `href` segue sendo o botão que amplia. A loja chega ao
   `ReviewInlineImage` pelo `storeBrand` que o template passa às seções. O `validate:content` exige https, o
   `test:review-i18n` o mesmo `href`, foto a foto, em toda versão da família, e o `test:build-output`, o link sponsored
@@ -397,7 +399,7 @@ vídeo, primeiras impressões e uso noturno.
   `docs/CAMPANHAS.md`. Cada campanha é um arquivo em `content/campanhas/<id>.json` (o nome é o `id`), com a fonte (`source`) e a data em que foi vista (`verifiedAt`). O `build-index` junta os arquivos em
   `src/lib/generated/store-banners.ts`, tipado pelo `StoreBanner`, e o `src/lib/storeBanners.ts` guarda só o tipo e
   as regras. Chaveadas pelo `affiliate`, entram sozinhas em todo artigo da loja. A campanha leva só o texto em
-  português (sai só nos artigos em PT e pode levar à loja brasileira, `.com.br` inclusive) ou os 10 idiomas (sai em
+  português (sai só nos artigos em PT e pode levar à loja brasileira, `.com.br` inclusive) ou os 11 idiomas (sai em
   todas as versões, com um link que vale em todas, nunca de um país só, salvo nas lojas internacionais); o
   `test:store-banners` barra o meio-termo. O
   `top` vai logo depois da 1ª seção do corpo, o `mid` logo antes do FAQ (sem FAQ, da última) e o `end` logo depois
@@ -418,7 +420,7 @@ vídeo, primeiras impressões e uso noturno.
   início ou o fim de um prazo não quebra.
   A campanha pode levar o `code` da própria loja (o 37S3442 da SHEIN), nunca o nosso: o banner o mostra com a frase de
   pesquisar no app (`bannerCodeHint`, `articleCopy.ts`). As mesmas campanhas vão à página da loja (`StorePageBanners`,
-  de `src/components/coupons/`, por `getStorePageBanners`): em `/cupons/<loja>`, nas traduzidas e nas 10 da YesStyle,
+  de `src/components/coupons/`, por `getStorePageBanners`): em `/cupons/<loja>`, nas traduzidas e nas 11 da YesStyle,
   todas as da loja que não acabaram e têm o texto do idioma, logo antes das regras ("Regras sem letra miúda"; na
   YesStyle, "como-funcionam"), medidas como `coupon_page_banner`. A antiga seção "Campanhas ativas" (`coupon.campaigns`)
   saiu: campanha da loja é sempre um arquivo de `content/campanhas/`.
@@ -501,13 +503,13 @@ vídeo, primeiras impressões e uso noturno.
 
 ### Home em outros idiomas
 
-- `/<locale>` (`src/app/[locale]/page.tsx`) é a home dos 9 idiomas fora do PT e tem o desenho da home em PT, na mesma ordem: a vitrine (`HomeStoreStories`, com o painel da Cecília e uma aba por loja) e "Acabou de sair" (`HomeLatest`). Receitas, Explore a casa, vídeos e data comercial são só do PT. A home abre no painel da Cecília (`defaultTabId`), e não na primeira loja, pela ideia de "confiança primeiro": quem chega de fora cai no artigo e só abre a home para ver quem está por trás do site. O logo, o rodapé, o início da trilha e o seletor de idioma levam a ela (`getShellHomeHref`); `/<locale>/reviews` segue como a lista completa.
+- `/<locale>` (`src/app/[locale]/page.tsx`) é a home dos 10 idiomas fora do PT e tem o desenho da home em PT, na mesma ordem: a vitrine (`HomeStoreStories`, com o painel da Cecília e uma aba por loja) e "Acabou de sair" (`HomeLatest`). Receitas, Explore a casa, vídeos e data comercial são só do PT. A home abre no painel da Cecília (`defaultTabId`), e não na primeira loja, pela ideia de "confiança primeiro": quem chega de fora cai no artigo e só abre a home para ver quem está por trás do site. O logo, o rodapé, o início da trilha e o seletor de idioma levam a ela (`getShellHomeHref`); `/<locale>/reviews` segue como a lista completa.
 - `src/lib/localeHome.ts` monta tudo no servidor: `getLocaleHomeStoreTabs` (a YesStyle e as lojas de `couponTranslations.ts`, na ordem de `getCouponHubEntries`; as bolinhas seguem a regra do PT, a loja do artigo mais novo do idioma primeiro; loja nova traduzida entra sozinha), `getLocaleHomeLatest`, o painel (`CeciliaPanelCopy`, com o bloco `profile`) e `getLocaleHomeJsonLd`. Os textos de interface vêm de `HomeCopy` (`getHomeCopy`, em `src/components/sections/homeCopy.ts`, com o PT) e do bloco `chrome` de `localeHomeCopy.ts`; quem é a Cecília e o certificado, de `ceciliaCredentials.ts`. A vitrine recebe tudo por props: nenhum texto grande vai para o cliente.
 - Link de afiliado na home dos idiomas está liberado. A aba da loja tem "copiar código" e "Ir para a loja" com o link de afiliado da loja no idioma (`offerUrl` localizado; na YesStyle, o mesmo link da página dela) e `rel` sponsored. Os links de loja da home são só os das lojas da própria home: `test:build-output` barra qualquer outro e exige sponsored em cada um. Continuam proibidos o texto em português e o link para página que só existe em PT. O link "Ver a página da loja" vai à página da loja no idioma (`/<locale>/coupons/<slug>`, ou a página da YesStyle).
 - Na aba da YesStyle, o desconto sai com o "até" do idioma (`upTo` de `couponHubCopy.ts`): "up to 5% OFF" em inglês. O código é o de recompensa, CECILIA010, chamado de código e nunca de cupom.
-- O painel da Cecília (`HomeCeciliaPanel`, compartilhado com o PT) muda pelo `copy`: no PT traz "Mais sobre mim" e o grupo de WhatsApp; nos idiomas traz nome, de onde é, desde quando, o e-mail e o selo de Superstar Influencer da YesStyle (`CertificateDialog`, com `validFrom` a `validUntil` de `ceciliaCredentials.ts`). Nos dois, o selo da Hostinger (`HostingerPartnerBadge`, SVG inline, sem link, nome acessível "Hostinger Partner") aparece uma vez: no PT no lugar do selo da YesStyle, nos idiomas ao lado dele. `test:build-output` confere as 10 homes e `test:locale-home` o painel.
-- O JSON-LD da home dos idiomas é só a Person (`@id` da Cecília e as quatro redes em `sameAs`). O FAQPage saiu da home: as perguntas estão em `/<locale>/faq`. O hreflang da raiz e das 9 homes sai de `getHomeLanguageLinks`, com x-default em inglês.
-- O alemão usa "Sie" em toda a interface. Os textos novos nos 9 idiomas são escritos em português e traduzidos (ver a regra no seu relatório de cada fase); `test:locale-home` confere que os 16 textos de interface existem em cada idioma, que nenhum é igual ao do PT e que o francês tem espaço fino antes do dois-pontos.
+- O painel da Cecília (`HomeCeciliaPanel`, compartilhado com o PT) muda pelo `copy`: no PT traz "Mais sobre mim" e o grupo de WhatsApp; nos idiomas traz nome, de onde é, desde quando, o e-mail e o selo de Superstar Influencer da YesStyle (`CertificateDialog`, com `validFrom` a `validUntil` de `ceciliaCredentials.ts`). Nos dois, o selo da Hostinger (`HostingerPartnerBadge`, SVG inline, sem link, nome acessível "Hostinger Partner") aparece uma vez: no PT no lugar do selo da YesStyle, nos idiomas ao lado dele. `test:build-output` confere as 11 homes e `test:locale-home` o painel.
+- O JSON-LD da home dos idiomas é só a Person (`@id` da Cecília e as quatro redes em `sameAs`). O FAQPage saiu da home: as perguntas estão em `/<locale>/faq`. O hreflang da raiz e das 10 homes sai de `getHomeLanguageLinks`, com x-default em inglês.
+- O alemão usa "Sie" em toda a interface. Os textos novos nos 10 idiomas são escritos em português e traduzidos (ver a regra no seu relatório de cada fase); `test:locale-home` confere que os 16 textos de interface existem em cada idioma, que nenhum é igual ao do PT e que o francês tem espaço fino antes do dois-pontos.
 
 ### Páginas de loja (cupons)
 
@@ -522,7 +524,7 @@ vídeo, primeiras impressões e uso noturno.
 - "O que acumula com o cupom" (`#o-que-acumula`, logo depois das regras: a tabela do `stacking` da loja, uma linha
   por benefício e só com fato conferido) e o print do código no carrinho (`cartPrint`, no fim de "Como usar": uma
   imagem mostrada pelo `ReviewInlineImage`, com o "Ampliar", como exemplo e sem data de teste) saem em todo idioma
-  em que a loja tem o dado. Os rótulos estão nos 10 idiomas de `couponStoreCopy.tsx`. Fora do PT os dois campos
+  em que a loja tem o dado. Os rótulos estão nos 11 idiomas de `couponStoreCopy.tsx`. Fora do PT os dois campos
   são `translate` na `CODE_FIELD_POLICY`: a tradução traz só as linhas vistas no site que a página do idioma abre
   (na Hostinger, o global) e o print desse site em inglês (`-en.webp`), com o alt do idioma; o `article` da tradução dá o link do passo a
   passo no idioma da página (na Hostinger o print é uma imagem desse artigo, com o mesmo alt);
@@ -565,7 +567,7 @@ vídeo, primeiras impressões e uso noturno.
   o dock aparece depois que o recorte `#cupom` sobe e sai da tela. A tabela "O que acumula" (`StackingTable`) e o
   print do código aplicado (`CartPrintFigure`) são os mesmos nas duas, de `src/components/coupons/StoreEvidence.tsx`.
   Na YesStyle, as linhas e o print vêm do `stacking` e do `cartPrint` de cada idioma de `yesstyleCopy.ts` (as mesmas
-  quatro combinações nos 10; o print é o do app, em inglês, com o alt e o link do artigo do app no idioma da página):
+  quatro combinações nos 11; o print é o do app, em inglês, com o alt e o link do artigo do app no idioma da página):
   linha nova só com fonte (os termos dos cupons da loja ou um teste nosso), e a legenda do print diz que é o código
   de recompensa, sem data nem valor. Loja de link não tem código no carrinho: o `cartPrint` dela leva `caption` própria (a SHEIN,
   com o 4CW5Y na busca), e o `test:coupon-offer-modes` cobra.
@@ -577,7 +579,7 @@ vídeo, primeiras impressões e uso noturno.
   da própria YesStyle. Nenhum texto ou `aria-label` pode chamá-lo de cupom nem falar em usá-lo
   "com outros cupons". Os rótulos de cópia compartilhados dizem "código" (`couponCopyLocale.ts`); o
   que nomeia o tipo do código lê da loja em `couponsData.ts`: o `codeKind: 'reward'` no dock dos
-  artigos, nos 10 idiomas, e o `offerTypeLabel` nos cards e na ItemList de `/cupons`.
+  artigos, nos 11 idiomas, e o `offerTypeLabel` nos cards e na ItemList de `/cupons`.
   `npm run test:build-output` confere toda página que cita o código, inclusive o nome dos cards que
   o mostram e a home, que mostra o código no painel da YesStyle.
 - O aviso de temporada (`src/lib/codeSeasonNotice.ts`, componente `CodeSeasonNotice`) é a linha "Na Black Friday,
@@ -589,7 +591,7 @@ vídeo, primeiras impressões e uso noturno.
   checkout, e também não é cupom. `getStoreCodeKind` (`couponsData.ts`) dá o tipo do código de um
   artigo (`reward`, `referral` ou nenhum); o dock, a sidebar e os recortes do artigo o usam por
   `getCodeTitle` e `getCodeHints` (`sidebarCopy.ts`) e `copiedHint` (`articleCopy.ts`),
-  com o termo que a página da loja já usa em cada idioma, sem país. O `test:review-i18n` confere os rótulos nos 10
+  com o termo que a página da loja já usa em cada idioma, sem país. O `test:review-i18n` confere os rótulos nos 11
   idiomas (e barra "SHEIN Brasil" e as traduções fora do PT; o `test:coupon-translations`, na página traduzida da
   loja) e o `test:build-output`,
   em toda página, o tipo no dock e na sidebar.
@@ -609,6 +611,7 @@ Font is Montserrat loaded via `next/font/local` in `RootLayoutShell.tsx` as `--f
 Todas as fontes (Montserrat, Lora, Caveat e Kalam no `RootLayoutShell.tsx`; Archivo e JetBrains Mono no `CouponBlocks.tsx`) são
 arquivos em `src/fonts/` (subset latino do Google Fonts, OFL), lidos por `next/font/local`: o build não baixa fonte, porque uma
 falha de rede no servidor da Hostinger ao buscar o Google Fonts derrubava o deploy. Não voltar para `next/font/google`.
+A fonte do árabe (Noto Sans Arabic, em `src/fonts/`) só carrega em `/ar`; o `--font-arabic` vem primeiro nas pilhas de fontes, limitado pelo `unicode-range`.
 
 Código de cupom que pode quebrar linha usa `break-all text-balance`: as linhas saem do mesmo
 tamanho, sem sobrar uma ou duas letras sozinhas. O `text-balance` não age sobre `wrap-anywhere`.
@@ -680,7 +683,7 @@ nome no HTML, e a miniatura voa até ela. O HTML de `/videos` não leva nenhum n
 | `/faqs` | `src/app/(pt)/faqs/page.tsx` (`FaqView`, sem JavaScript; perguntas em `src/lib/faqPage.ts`, a mesma lista do `FAQPage`) |
 | `/privacidade` | `src/app/(pt)/privacidade/page.tsx` (`PrivacyView`, sem JavaScript; o texto da política em `src/lib/privacyPage.ts`) |
 | `/buscar` | `src/app/(pt)/buscar/page.tsx` (`SearchView`, noindex; o campo é o `OmniSearch` com o termo em `defaultValue`; resultados e capas em `src/lib/searchPage.ts`, sobre a busca de `src/lib/siteSearch.mjs`) |
-| 404 | `src/app/global-not-found.js` (uma página só para o site todo: PT em destaque e os 9 idiomas embaixo; `NotFoundView` e `src/lib/notFoundPage.ts`) |
+| 404 | `src/app/global-not-found.js` (uma página só para o site todo: PT em destaque e os 10 idiomas embaixo; `NotFoundView` e `src/lib/notFoundPage.ts`) |
 
 **404 e rotas dinâmicas.** `notFound()` chamado durante a requisição devolve um HTML vazio
 (`<html id="__next_error__">`, bug vercel/next.js#99793), e a página só aparece depois do JavaScript.
