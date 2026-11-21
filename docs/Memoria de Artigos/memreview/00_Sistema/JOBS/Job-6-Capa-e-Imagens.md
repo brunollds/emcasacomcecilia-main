@@ -47,7 +47,8 @@ loja e o assunto.
 6. **Códigos e textos proibidos na capa:**
    - O `CECILIA010` (YesStyle) é código de recompensa e o `4CW5Y` (SHEIN) é código de indicação: nunca
      chamá-los de cupom, também na capa e no alt.
-   - O MAUAD (Let's Eat It e Belive) é sobrenome da Cecília: não vai na capa.
+   - O MAUAD (Let's Eat It e Belive) é sobrenome da Cecília: na capa, só com "Cupom" antes ("Cupom MAUAD"),
+     nunca sozinho, e o alt diz "o cupom MAUAD" (decisão do Bruno, 20/11/2026).
    - Hostinger: a capa pode mostrar os 20% só se o texto do artigo disser que valem no primeiro período.
    - Nenhum desconto, preço ou nota que o artigo não confirme.
 7. **Família de 10 idiomas:** uma imagem serve as 10 versões, então a faixa não leva texto em português.

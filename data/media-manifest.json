@@ -108422,6 +108422,120 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
+      "local_url": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100698,
+      "sha256": "e5d3efe299f1f27eadf9603daa0f7e5950dc36efa4bcfa3082fd8bf33ebbad23",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
+      "storage_filename": "aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/aparelho-de-jantar-quantas-pecas-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/aparelho-de-jantar-quantas-pecas-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e5d3efe299f1f27eadf9603daa0f7e5950dc36efa4bcfa3082fd8bf33ebbad23/aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e5d3efe299f1f27eadf9603daa0f7e5950dc36efa4bcfa3082fd8bf33ebbad23/aparelho-de-jantar-quantas-pecas-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:13.930Z",
+      "verification_etag_or_digest": "e5d3efe299f1f27eadf9603daa0f7e5950dc36efa4bcfa3082fd8bf33ebbad23",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-grecco-azul.webp",
+      "local_url": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-grecco-azul.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72348,
+      "sha256": "848074809c9215f664e4b878c7ee1deb0bd69eaef7f131483315756c6029f30a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "aparelho-de-jantar-quantas-pecas-escolher-grecco-azul.webp",
+      "storage_filename": "aparelho-de-jantar-quantas-pecas-escolher-grecco-azul.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/aparelho-de-jantar-quantas-pecas-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/aparelho-de-jantar-quantas-pecas-escolher.json",
+          "line": 170,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-grecco-azul.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/848074809c9215f664e4b878c7ee1deb0bd69eaef7f131483315756c6029f30a/aparelho-de-jantar-quantas-pecas-escolher-grecco-azul.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/848074809c9215f664e4b878c7ee1deb0bd69eaef7f131483315756c6029f30a/aparelho-de-jantar-quantas-pecas-escolher-grecco-azul.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:14.231Z",
+      "verification_etag_or_digest": "848074809c9215f664e4b878c7ee1deb0bd69eaef7f131483315756c6029f30a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-porto-petroleum.webp",
+      "local_url": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-porto-petroleum.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 145734,
+      "sha256": "0bb68ab10a4c8f8a5803e52edeae67cf8e5b4450148c26676ec974ea030a2e48",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "aparelho-de-jantar-quantas-pecas-escolher-porto-petroleum.webp",
+      "storage_filename": "aparelho-de-jantar-quantas-pecas-escolher-porto-petroleum.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/aparelho-de-jantar-quantas-pecas-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/aparelho-de-jantar-quantas-pecas-escolher.json",
+          "line": 96,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/aparelho-de-jantar-quantas-pecas-escolher-porto-petroleum.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0bb68ab10a4c8f8a5803e52edeae67cf8e5b4450148c26676ec974ea030a2e48/aparelho-de-jantar-quantas-pecas-escolher-porto-petroleum.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0bb68ab10a4c8f8a5803e52edeae67cf8e5b4450148c26676ec974ea030a2e48/aparelho-de-jantar-quantas-pecas-escolher-porto-petroleum.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:14.578Z",
+      "verification_etag_or_digest": "0bb68ab10a4c8f8a5803e52edeae67cf8e5b4450148c26676ec974ea030a2e48",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/black-friday-letseatit-banner-sintonia.webp",
       "local_url": "/images/reviews/letseatit/black-friday-letseatit-banner-sintonia.webp",
       "media_kind": "image",
@@ -109157,6 +109271,158 @@
       "uploaded_at": null,
       "verified_at": "2026-10-30T00:20:21.264Z",
       "verification_etag_or_digest": "6afe615e93efa1c43164db26807cf508013fe04c2479d024e284b786098f5dc8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119020,
+      "sha256": "adc2077891156a48a70b2f39df76bee302de0f8e829ef2c8b649849af868dcaf",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "faqueiro-wolff-qual-escolher-capa.webp",
+      "storage_filename": "faqueiro-wolff-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/faqueiro-wolff-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/faqueiro-wolff-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/adc2077891156a48a70b2f39df76bee302de0f8e829ef2c8b649849af868dcaf/faqueiro-wolff-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/adc2077891156a48a70b2f39df76bee302de0f8e829ef2c8b649849af868dcaf/faqueiro-wolff-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:14.905Z",
+      "verification_etag_or_digest": "adc2077891156a48a70b2f39df76bee302de0f8e829ef2c8b649849af868dcaf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/faqueiro-wolff-qual-escolher-firenze-24-pecas.webp",
+      "local_url": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-firenze-24-pecas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23470,
+      "sha256": "ca8598ceadf8b30a346e3baa29eb3f49c3406b6663d1350a13e1ad4fab782b7c",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "faqueiro-wolff-qual-escolher-firenze-24-pecas.webp",
+      "storage_filename": "faqueiro-wolff-qual-escolher-firenze-24-pecas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/faqueiro-wolff-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/faqueiro-wolff-qual-escolher.json",
+          "line": 58,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-firenze-24-pecas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ca8598ceadf8b30a346e3baa29eb3f49c3406b6663d1350a13e1ad4fab782b7c/faqueiro-wolff-qual-escolher-firenze-24-pecas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ca8598ceadf8b30a346e3baa29eb3f49c3406b6663d1350a13e1ad4fab782b7c/faqueiro-wolff-qual-escolher-firenze-24-pecas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:15.241Z",
+      "verification_etag_or_digest": "ca8598ceadf8b30a346e3baa29eb3f49c3406b6663d1350a13e1ad4fab782b7c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/faqueiro-wolff-qual-escolher-viena-54-pecas.webp",
+      "local_url": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-viena-54-pecas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 105248,
+      "sha256": "79ca908192d0cc9096fc996757b3f7608fa78b1a5195a3ef4dda8769a0a00d0d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "faqueiro-wolff-qual-escolher-viena-54-pecas.webp",
+      "storage_filename": "faqueiro-wolff-qual-escolher-viena-54-pecas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/faqueiro-wolff-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/faqueiro-wolff-qual-escolher.json",
+          "line": 75,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-viena-54-pecas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/79ca908192d0cc9096fc996757b3f7608fa78b1a5195a3ef4dda8769a0a00d0d/faqueiro-wolff-qual-escolher-viena-54-pecas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/79ca908192d0cc9096fc996757b3f7608fa78b1a5195a3ef4dda8769a0a00d0d/faqueiro-wolff-qual-escolher-viena-54-pecas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:15.557Z",
+      "verification_etag_or_digest": "79ca908192d0cc9096fc996757b3f7608fa78b1a5195a3ef4dda8769a0a00d0d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/faqueiro-wolff-qual-escolher-viena-dourado-101-pecas.webp",
+      "local_url": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-viena-dourado-101-pecas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 133974,
+      "sha256": "a16f0dd737676b4c9d1b7db63b50c830601ada4e97fa4df3e07d2660082db44d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "faqueiro-wolff-qual-escolher-viena-dourado-101-pecas.webp",
+      "storage_filename": "faqueiro-wolff-qual-escolher-viena-dourado-101-pecas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/faqueiro-wolff-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/faqueiro-wolff-qual-escolher.json",
+          "line": 93,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/faqueiro-wolff-qual-escolher-viena-dourado-101-pecas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a16f0dd737676b4c9d1b7db63b50c830601ada4e97fa4df3e07d2660082db44d/faqueiro-wolff-qual-escolher-viena-dourado-101-pecas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a16f0dd737676b4c9d1b7db63b50c830601ada4e97fa4df3e07d2660082db44d/faqueiro-wolff-qual-escolher-viena-dourado-101-pecas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:15.823Z",
+      "verification_etag_or_digest": "a16f0dd737676b4c9d1b7db63b50c830601ada4e97fa4df3e07d2660082db44d",
       "verification_status": "verified"
     },
     {
@@ -110168,6 +110434,120 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 147472,
+      "sha256": "8f12ff2cbcc3687f6241c2c4735f548fba13e1e87037c19aa50dd8faca04ac62",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-travessa-qual-escolher-capa.webp",
+      "storage_filename": "le-creuset-travessa-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-travessa-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-travessa-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8f12ff2cbcc3687f6241c2c4735f548fba13e1e87037c19aa50dd8faca04ac62/le-creuset-travessa-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8f12ff2cbcc3687f6241c2c4735f548fba13e1e87037c19aa50dd8faca04ac62/le-creuset-travessa-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:16.133Z",
+      "verification_etag_or_digest": "8f12ff2cbcc3687f6241c2c4735f548fba13e1e87037c19aa50dd8faca04ac62",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/le-creuset-travessa-qual-escolher-heritage-branca-26cm.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-heritage-branca-26cm.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17830,
+      "sha256": "553bbc8c31ee46762628e836ae96bf83cfd09f8770b45025d83445eb09708c6f",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-travessa-qual-escolher-heritage-branca-26cm.webp",
+      "storage_filename": "le-creuset-travessa-qual-escolher-heritage-branca-26cm.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-travessa-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-travessa-qual-escolher.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-heritage-branca-26cm.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/553bbc8c31ee46762628e836ae96bf83cfd09f8770b45025d83445eb09708c6f/le-creuset-travessa-qual-escolher-heritage-branca-26cm.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/553bbc8c31ee46762628e836ae96bf83cfd09f8770b45025d83445eb09708c6f/le-creuset-travessa-qual-escolher-heritage-branca-26cm.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:16.370Z",
+      "verification_etag_or_digest": "553bbc8c31ee46762628e836ae96bf83cfd09f8770b45025d83445eb09708c6f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/le-creuset-travessa-qual-escolher-signature-vermelha-33cm.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-signature-vermelha-33cm.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14394,
+      "sha256": "0a157793b2c7e4da58a77d37f33eddff083de4f77792e3bc5a139e5bcf8a4c87",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-travessa-qual-escolher-signature-vermelha-33cm.webp",
+      "storage_filename": "le-creuset-travessa-qual-escolher-signature-vermelha-33cm.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-travessa-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-travessa-qual-escolher.json",
+          "line": 159,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-travessa-qual-escolher-signature-vermelha-33cm.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0a157793b2c7e4da58a77d37f33eddff083de4f77792e3bc5a139e5bcf8a4c87/le-creuset-travessa-qual-escolher-signature-vermelha-33cm.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0a157793b2c7e4da58a77d37f33eddff083de4f77792e3bc5a139e5bcf8a4c87/le-creuset-travessa-qual-escolher-signature-vermelha-33cm.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:16.591Z",
+      "verification_etag_or_digest": "0a157793b2c7e4da58a77d37f33eddff083de4f77792e3bc5a139e5bcf8a4c87",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/le-creuset-vale-a-pena-capa-v2.webp",
       "local_url": "/images/reviews/letseatit/le-creuset-vale-a-pena-capa-v2.webp",
       "media_kind": "image",
@@ -110519,6 +110899,158 @@
       "uploaded_at": null,
       "verified_at": "2026-11-12T02:03:30.759Z",
       "verification_etag_or_digest": "91be8934773f173d1def30b566d99cf929ab24c7314b8c04af3a0ac9c41cf355",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 177550,
+      "sha256": "17c2fdfd1f41a44df83a9e4c1b23900d4f36844ab38000b3060242e5cabceb1f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa.webp",
+      "storage_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/17c2fdfd1f41a44df83a9e4c1b23900d4f36844ab38000b3060242e5cabceb1f/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/17c2fdfd1f41a44df83a9e4c1b23900d4f36844ab38000b3060242e5cabceb1f/mesa-posta-ano-novo-o-que-precisa-quanto-custa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:16.908Z",
+      "verification_etag_or_digest": "17c2fdfd1f41a44df83a9e4c1b23900d4f36844ab38000b3060242e5cabceb1f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-donatella.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-donatella.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85412,
+      "sha256": "9b60dc9235e4ea9430cec1c449a42e09d4f1b5d31ef6a292ffa4e05c6b7ff7fa",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-donatella.webp",
+      "storage_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-donatella.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json",
+          "line": 217,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-donatella.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9b60dc9235e4ea9430cec1c449a42e09d4f1b5d31ef6a292ffa4e05c6b7ff7fa/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-donatella.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9b60dc9235e4ea9430cec1c449a42e09d4f1b5d31ef6a292ffa4e05c6b7ff7fa/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-donatella.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:17.220Z",
+      "verification_etag_or_digest": "9b60dc9235e4ea9430cec1c449a42e09d4f1b5d31ef6a292ffa4e05c6b7ff7fa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-scalla-bege.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-scalla-bege.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50444,
+      "sha256": "d2fd71443b065e5ccb371feff09ba56c3982548b28c901a5f9c9fe16428aea28",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-scalla-bege.webp",
+      "storage_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-scalla-bege.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-scalla-bege.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d2fd71443b065e5ccb371feff09ba56c3982548b28c901a5f9c9fe16428aea28/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-scalla-bege.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d2fd71443b065e5ccb371feff09ba56c3982548b28c901a5f9c9fe16428aea28/mesa-posta-ano-novo-o-que-precisa-quanto-custa-pratos-rasos-scalla-bege.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:17.476Z",
+      "verification_etag_or_digest": "d2fd71443b065e5ccb371feff09ba56c3982548b28c901a5f9c9fe16428aea28",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-tacas-angela-borda-dourada.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-tacas-angela-borda-dourada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56704,
+      "sha256": "81df7a256bd7e858677e0168467e39e6728a56edf3f022dfbf7ff22a5459e522",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-tacas-angela-borda-dourada.webp",
+      "storage_filename": "mesa-posta-ano-novo-o-que-precisa-quanto-custa-tacas-angela-borda-dourada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-ano-novo-o-que-precisa-quanto-custa.json",
+          "line": 277,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-ano-novo-o-que-precisa-quanto-custa-tacas-angela-borda-dourada.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/81df7a256bd7e858677e0168467e39e6728a56edf3f022dfbf7ff22a5459e522/mesa-posta-ano-novo-o-que-precisa-quanto-custa-tacas-angela-borda-dourada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/81df7a256bd7e858677e0168467e39e6728a56edf3f022dfbf7ff22a5459e522/mesa-posta-ano-novo-o-que-precisa-quanto-custa-tacas-angela-borda-dourada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:17.750Z",
+      "verification_etag_or_digest": "81df7a256bd7e858677e0168467e39e6728a56edf3f022dfbf7ff22a5459e522",
       "verification_status": "verified"
     },
     {
@@ -131045,6 +131577,120 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/biomask-prohall-para-que-serve-ampola.webp",
+      "local_url": "/images/reviews/prohall/biomask-prohall-para-que-serve-ampola.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15430,
+      "sha256": "9e3ac1d149f861b5151861993a145fcb1b8bfd3debab52f688673af0b60c4e49",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "biomask-prohall-para-que-serve-ampola.webp",
+      "storage_filename": "biomask-prohall-para-que-serve-ampola.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/biomask-prohall-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/biomask-prohall-para-que-serve.json",
+          "line": 156,
+          "column": 19,
+          "literal": "/images/reviews/prohall/biomask-prohall-para-que-serve-ampola.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9e3ac1d149f861b5151861993a145fcb1b8bfd3debab52f688673af0b60c4e49/biomask-prohall-para-que-serve-ampola.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9e3ac1d149f861b5151861993a145fcb1b8bfd3debab52f688673af0b60c4e49/biomask-prohall-para-que-serve-ampola.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:17.993Z",
+      "verification_etag_or_digest": "9e3ac1d149f861b5151861993a145fcb1b8bfd3debab52f688673af0b60c4e49",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/biomask-prohall-para-que-serve-capa.webp",
+      "local_url": "/images/reviews/prohall/biomask-prohall-para-que-serve-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31086,
+      "sha256": "9b7b5468e31d070d15b65faef418f00f853f7208f5b597440200b48fe1de6981",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "biomask-prohall-para-que-serve-capa.webp",
+      "storage_filename": "biomask-prohall-para-que-serve-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/biomask-prohall-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/biomask-prohall-para-que-serve.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/biomask-prohall-para-que-serve-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9b7b5468e31d070d15b65faef418f00f853f7208f5b597440200b48fe1de6981/biomask-prohall-para-que-serve-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9b7b5468e31d070d15b65faef418f00f853f7208f5b597440200b48fe1de6981/biomask-prohall-para-que-serve-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:18.254Z",
+      "verification_etag_or_digest": "9b7b5468e31d070d15b65faef418f00f853f7208f5b597440200b48fe1de6981",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/biomask-prohall-para-que-serve-mascara-500g.webp",
+      "local_url": "/images/reviews/prohall/biomask-prohall-para-que-serve-mascara-500g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19354,
+      "sha256": "b9b5595f07510bae8765ea99ef113db391b91b029b45ed57492275eb4a825e35",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "biomask-prohall-para-que-serve-mascara-500g.webp",
+      "storage_filename": "biomask-prohall-para-que-serve-mascara-500g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/biomask-prohall-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/biomask-prohall-para-que-serve.json",
+          "line": 124,
+          "column": 19,
+          "literal": "/images/reviews/prohall/biomask-prohall-para-que-serve-mascara-500g.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b9b5595f07510bae8765ea99ef113db391b91b029b45ed57492275eb4a825e35/biomask-prohall-para-que-serve-mascara-500g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b9b5595f07510bae8765ea99ef113db391b91b029b45ed57492275eb4a825e35/biomask-prohall-para-que-serve-mascara-500g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:18.483Z",
+      "verification_etag_or_digest": "b9b5595f07510bae8765ea99ef113db391b91b029b45ed57492275eb4a825e35",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp",
       "local_url": "/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp",
       "media_kind": "image",
@@ -131559,6 +132205,120 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/force-hair-prohall-para-que-serve-capa.webp",
+      "local_url": "/images/reviews/prohall/force-hair-prohall-para-que-serve-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50534,
+      "sha256": "bcd486df0b36207c941effa74d47ef9fc6f708139191790736867006ac2980cd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "force-hair-prohall-para-que-serve-capa.webp",
+      "storage_filename": "force-hair-prohall-para-que-serve-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/force-hair-prohall-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/force-hair-prohall-para-que-serve.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/force-hair-prohall-para-que-serve-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bcd486df0b36207c941effa74d47ef9fc6f708139191790736867006ac2980cd/force-hair-prohall-para-que-serve-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bcd486df0b36207c941effa74d47ef9fc6f708139191790736867006ac2980cd/force-hair-prohall-para-que-serve-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:18.768Z",
+      "verification_etag_or_digest": "bcd486df0b36207c941effa74d47ef9fc6f708139191790736867006ac2980cd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/force-hair-prohall-para-que-serve-mascara.webp",
+      "local_url": "/images/reviews/prohall/force-hair-prohall-para-que-serve-mascara.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20870,
+      "sha256": "b8c2483f9b6dcfa1784e62d8cd96be4cdf6e1e6d157983c3f36b00aecc78869b",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "force-hair-prohall-para-que-serve-mascara.webp",
+      "storage_filename": "force-hair-prohall-para-que-serve-mascara.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/force-hair-prohall-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/force-hair-prohall-para-que-serve.json",
+          "line": 120,
+          "column": 19,
+          "literal": "/images/reviews/prohall/force-hair-prohall-para-que-serve-mascara.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b8c2483f9b6dcfa1784e62d8cd96be4cdf6e1e6d157983c3f36b00aecc78869b/force-hair-prohall-para-que-serve-mascara.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b8c2483f9b6dcfa1784e62d8cd96be4cdf6e1e6d157983c3f36b00aecc78869b/force-hair-prohall-para-que-serve-mascara.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:19.028Z",
+      "verification_etag_or_digest": "b8c2483f9b6dcfa1784e62d8cd96be4cdf6e1e6d157983c3f36b00aecc78869b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/force-hair-prohall-para-que-serve-tonico.webp",
+      "local_url": "/images/reviews/prohall/force-hair-prohall-para-que-serve-tonico.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16532,
+      "sha256": "ea84a13ec5dd0b4a1953947dc8938e824f3cffb348aee2405bf483d5cfd0f9bd",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "force-hair-prohall-para-que-serve-tonico.webp",
+      "storage_filename": "force-hair-prohall-para-que-serve-tonico.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/force-hair-prohall-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/force-hair-prohall-para-que-serve.json",
+          "line": 103,
+          "column": 19,
+          "literal": "/images/reviews/prohall/force-hair-prohall-para-que-serve-tonico.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ea84a13ec5dd0b4a1953947dc8938e824f3cffb348aee2405bf483d5cfd0f9bd/force-hair-prohall-para-que-serve-tonico.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea84a13ec5dd0b4a1953947dc8938e824f3cffb348aee2405bf483d5cfd0f9bd/force-hair-prohall-para-que-serve-tonico.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:19.248Z",
+      "verification_etag_or_digest": "ea84a13ec5dd0b4a1953947dc8938e824f3cffb348aee2405bf483d5cfd0f9bd",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/prohall-e-boa-capa-v2.webp",
       "local_url": "/images/reviews/prohall/prohall-e-boa-capa-v2.webp",
       "media_kind": "image",
@@ -132016,6 +132776,196 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T00:29:43.986Z",
       "verification_etag_or_digest": "ae03ddc66a11d6e19e48935909e576236f73b2ed40f76267c52fa2351b3ca3c3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/select-one-como-usar-capa.webp",
+      "local_url": "/images/reviews/prohall/select-one-como-usar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110038,
+      "sha256": "3ecefd849e2e673e3a89b200b6a7049688ec1d0c01f4ce123d3f68cb7b190efe",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "select-one-como-usar-capa.webp",
+      "storage_filename": "select-one-como-usar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/select-one-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/select-one-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/select-one-como-usar-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3ecefd849e2e673e3a89b200b6a7049688ec1d0c01f4ce123d3f68cb7b190efe/select-one-como-usar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ecefd849e2e673e3a89b200b6a7049688ec1d0c01f4ce123d3f68cb7b190efe/select-one-como-usar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:19.523Z",
+      "verification_etag_or_digest": "3ecefd849e2e673e3a89b200b6a7049688ec1d0c01f4ce123d3f68cb7b190efe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/select-one-como-usar-equalize-mask-300g.webp",
+      "local_url": "/images/reviews/prohall/select-one-como-usar-equalize-mask-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22730,
+      "sha256": "ae1bbac75c616ff8a217d0cb18254f0a420e5bf9ea00f5a9068540c49de0535c",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "select-one-como-usar-equalize-mask-300g.webp",
+      "storage_filename": "select-one-como-usar-equalize-mask-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/select-one-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/select-one-como-usar.json",
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/prohall/select-one-como-usar-equalize-mask-300g.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ae1bbac75c616ff8a217d0cb18254f0a420e5bf9ea00f5a9068540c49de0535c/select-one-como-usar-equalize-mask-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ae1bbac75c616ff8a217d0cb18254f0a420e5bf9ea00f5a9068540c49de0535c/select-one-como-usar-equalize-mask-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:19.775Z",
+      "verification_etag_or_digest": "ae1bbac75c616ff8a217d0cb18254f0a420e5bf9ea00f5a9068540c49de0535c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/select-one-ou-burix-one-burix-one-1l.webp",
+      "local_url": "/images/reviews/prohall/select-one-ou-burix-one-burix-one-1l.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18694,
+      "sha256": "1d90c614f2f22354518802fc8fc91aba890e2ac0f22b0ccd6665411e53de408a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "select-one-ou-burix-one-burix-one-1l.webp",
+      "storage_filename": "select-one-ou-burix-one-burix-one-1l.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/select-one-ou-burix-one.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/select-one-ou-burix-one.json",
+          "line": 92,
+          "column": 19,
+          "literal": "/images/reviews/prohall/select-one-ou-burix-one-burix-one-1l.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1d90c614f2f22354518802fc8fc91aba890e2ac0f22b0ccd6665411e53de408a/select-one-ou-burix-one-burix-one-1l.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1d90c614f2f22354518802fc8fc91aba890e2ac0f22b0ccd6665411e53de408a/select-one-ou-burix-one-burix-one-1l.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:20.018Z",
+      "verification_etag_or_digest": "1d90c614f2f22354518802fc8fc91aba890e2ac0f22b0ccd6665411e53de408a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/select-one-ou-burix-one-capa.webp",
+      "local_url": "/images/reviews/prohall/select-one-ou-burix-one-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39328,
+      "sha256": "61823d07fb42d632a944438e1ebec8729a0c406854cdc1b556dd42c324f28f25",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "select-one-ou-burix-one-capa.webp",
+      "storage_filename": "select-one-ou-burix-one-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/select-one-ou-burix-one.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/select-one-ou-burix-one.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/select-one-ou-burix-one-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/61823d07fb42d632a944438e1ebec8729a0c406854cdc1b556dd42c324f28f25/select-one-ou-burix-one-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/61823d07fb42d632a944438e1ebec8729a0c406854cdc1b556dd42c324f28f25/select-one-ou-burix-one-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:20.276Z",
+      "verification_etag_or_digest": "61823d07fb42d632a944438e1ebec8729a0c406854cdc1b556dd42c324f28f25",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/select-one-ou-burix-one-select-one-1l.webp",
+      "local_url": "/images/reviews/prohall/select-one-ou-burix-one-select-one-1l.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22882,
+      "sha256": "08a7f26ffe8cd8a187fd83bf1ba4f5ba13dd1e9ccd17bef85d71188da5303050",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "select-one-ou-burix-one-select-one-1l.webp",
+      "storage_filename": "select-one-ou-burix-one-select-one-1l.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/select-one-ou-burix-one.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/select-one-ou-burix-one.json",
+          "line": 84,
+          "column": 19,
+          "literal": "/images/reviews/prohall/select-one-ou-burix-one-select-one-1l.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/08a7f26ffe8cd8a187fd83bf1ba4f5ba13dd1e9ccd17bef85d71188da5303050/select-one-ou-burix-one-select-one-1l.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/08a7f26ffe8cd8a187fd83bf1ba4f5ba13dd1e9ccd17bef85d71188da5303050/select-one-ou-burix-one-select-one-1l.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:09:20.535Z",
+      "verification_etag_or_digest": "08a7f26ffe8cd8a187fd83bf1ba4f5ba13dd1e9ccd17bef85d71188da5303050",
       "verification_status": "verified"
     },
     {
