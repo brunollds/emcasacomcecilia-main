@@ -177628,6 +177628,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/baw/baw-ou-pace-capa.webp",
+      "local_url": "/images/reviews/baw/baw-ou-pace-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120756,
+      "sha256": "80cd8e9c7ee1320e6a059120bfd1d516d6f965464a1fe26a0c41e13b473bff0a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-ou-pace-capa.webp",
+      "storage_filename": "baw-ou-pace-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-ou-pace.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-ou-pace.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/baw-ou-pace-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295162,
+          "column": 15,
+          "literal": "/images/reviews/baw/baw-ou-pace-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/80cd8e9c7ee1320e6a059120bfd1d516d6f965464a1fe26a0c41e13b473bff0a/baw-ou-pace-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/80cd8e9c7ee1320e6a059120bfd1d516d6f965464a1fe26a0c41e13b473bff0a/baw-ou-pace-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:51:19.231Z",
+      "verification_etag_or_digest": "80cd8e9c7ee1320e6a059120bfd1d516d6f965464a1fe26a0c41e13b473bff0a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/baw/baw-clothing-e-boa-calca-track-baw-tag.webp",
       "local_url": "/images/reviews/baw/baw-clothing-e-boa-calca-track-baw-tag.webp",
       "media_kind": "image",
@@ -178551,6 +178597,312 @@
       "uploaded_at": null,
       "verified_at": "2026-11-17T16:39:32.933Z",
       "verification_etag_or_digest": "f02ef6358a377db658c672f53b2412e988f145e139cfb018f0406a51548dea55",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/sandalia-linus-baw-amarelo-fluor.webp",
+      "local_url": "/images/reviews/baw/sandalia-linus-baw-amarelo-fluor.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20856,
+      "sha256": "8646fe3d656a31fc78377b205799acefd40937aeefff635baa60e5957e25d7b5",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sandalia-linus-baw-amarelo-fluor.webp",
+      "storage_filename": "sandalia-linus-baw-amarelo-fluor.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sandalia-linus-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sandalia-linus-baw.json",
+          "line": 125,
+          "column": 19,
+          "literal": "/images/reviews/baw/sandalia-linus-baw-amarelo-fluor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295507,
+          "column": 21,
+          "literal": "/images/reviews/baw/sandalia-linus-baw-amarelo-fluor.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8646fe3d656a31fc78377b205799acefd40937aeefff635baa60e5957e25d7b5/sandalia-linus-baw-amarelo-fluor.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8646fe3d656a31fc78377b205799acefd40937aeefff635baa60e5957e25d7b5/sandalia-linus-baw-amarelo-fluor.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:51:19.542Z",
+      "verification_etag_or_digest": "8646fe3d656a31fc78377b205799acefd40937aeefff635baa60e5957e25d7b5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/sandalia-linus-baw-capa.webp",
+      "local_url": "/images/reviews/baw/sandalia-linus-baw-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 109216,
+      "sha256": "80725515dd1747e9b43daff86092035ad914c8126adbe9f4c638fb42f960ee21",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sandalia-linus-baw-capa.webp",
+      "storage_filename": "sandalia-linus-baw-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sandalia-linus-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sandalia-linus-baw.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/sandalia-linus-baw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295411,
+          "column": 15,
+          "literal": "/images/reviews/baw/sandalia-linus-baw-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/80725515dd1747e9b43daff86092035ad914c8126adbe9f4c638fb42f960ee21/sandalia-linus-baw-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/80725515dd1747e9b43daff86092035ad914c8126adbe9f4c638fb42f960ee21/sandalia-linus-baw-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:51:19.893Z",
+      "verification_etag_or_digest": "80725515dd1747e9b43daff86092035ad914c8126adbe9f4c638fb42f960ee21",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/sandalia-linus-baw-slide-goth.webp",
+      "local_url": "/images/reviews/baw/sandalia-linus-baw-slide-goth.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21596,
+      "sha256": "88f9adca65b4fb28a1582d732eecbf74e83183fe2227c75284a7d50aa5ef3fdc",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sandalia-linus-baw-slide-goth.webp",
+      "storage_filename": "sandalia-linus-baw-slide-goth.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sandalia-linus-baw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sandalia-linus-baw.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/baw/sandalia-linus-baw-slide-goth.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295537,
+          "column": 21,
+          "literal": "/images/reviews/baw/sandalia-linus-baw-slide-goth.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/88f9adca65b4fb28a1582d732eecbf74e83183fe2227c75284a7d50aa5ef3fdc/sandalia-linus-baw-slide-goth.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/88f9adca65b4fb28a1582d732eecbf74e83183fe2227c75284a7d50aa5ef3fdc/sandalia-linus-baw-slide-goth.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:51:20.148Z",
+      "verification_etag_or_digest": "88f9adca65b4fb28a1582d732eecbf74e83183fe2227c75284a7d50aa5ef3fdc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/tenis-baw-e-bom-capa.webp",
+      "local_url": "/images/reviews/baw/tenis-baw-e-bom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 93170,
+      "sha256": "4d178c19854d9ee3956b94e0e49feff6e5ecbf946cb20004ad422c1e374ceb53",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tenis-baw-e-bom-capa.webp",
+      "storage_filename": "tenis-baw-e-bom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tenis-baw-e-bom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tenis-baw-e-bom.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294922,
+          "column": 15,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4d178c19854d9ee3956b94e0e49feff6e5ecbf946cb20004ad422c1e374ceb53/tenis-baw-e-bom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4d178c19854d9ee3956b94e0e49feff6e5ecbf946cb20004ad422c1e374ceb53/tenis-baw-e-bom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:51:20.452Z",
+      "verification_etag_or_digest": "4d178c19854d9ee3956b94e0e49feff6e5ecbf946cb20004ad422c1e374ceb53",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+      "local_url": "/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68778,
+      "sha256": "0825027e27b69dc313ca4827b078f2f947126c83f2dc2865cb166e025bf1b3f6",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tenis-baw-e-bom-grip-mad-off-white.webp",
+      "storage_filename": "tenis-baw-e-bom-grip-mad-off-white.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-ou-pace.json",
+        "content/reviews/tenis-baw-e-bom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-ou-pace.json",
+          "line": 168,
+          "column": 19,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tenis-baw-e-bom.json",
+          "line": 160,
+          "column": 19,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295053,
+          "column": 21,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295301,
+          "column": 21,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0825027e27b69dc313ca4827b078f2f947126c83f2dc2865cb166e025bf1b3f6/tenis-baw-e-bom-grip-mad-off-white.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0825027e27b69dc313ca4827b078f2f947126c83f2dc2865cb166e025bf1b3f6/tenis-baw-e-bom-grip-mad-off-white.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:51:20.749Z",
+      "verification_etag_or_digest": "0825027e27b69dc313ca4827b078f2f947126c83f2dc2865cb166e025bf1b3f6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+      "local_url": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56108,
+      "sha256": "f8d3b1875ebf60698a70a43e4f99b2de2ab1f21728b1c5589d9adcc0784181f1",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tenis-baw-e-bom-truck-preto.webp",
+      "storage_filename": "tenis-baw-e-bom-truck-preto.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-ou-pace.json",
+        "content/reviews/tenis-baw-e-bom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-ou-pace.json",
+          "line": 176,
+          "column": 19,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tenis-baw-e-bom.json",
+          "line": 143,
+          "column": 19,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295036,
+          "column": 21,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295309,
+          "column": 21,
+          "literal": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f8d3b1875ebf60698a70a43e4f99b2de2ab1f21728b1c5589d9adcc0784181f1/tenis-baw-e-bom-truck-preto.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f8d3b1875ebf60698a70a43e4f99b2de2ab1f21728b1c5589d9adcc0784181f1/tenis-baw-e-bom-truck-preto.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:51:21.075Z",
+      "verification_etag_or_digest": "f8d3b1875ebf60698a70a43e4f99b2de2ab1f21728b1c5589d9adcc0784181f1",
       "verification_status": "verified"
     },
     {

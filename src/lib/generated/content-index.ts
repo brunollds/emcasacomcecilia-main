@@ -294890,5 +294890,714 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1214,
+    "slug": "tenis-baw-e-bom",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "BAWEMCASACOMCECILIA",
+    "affiliate": "baw",
+    "title": "Tênis BAW é bom? Os modelos, preço, numeração e o que cada ficha diz",
+    "seoTitle": "Tênis BAW é bom? Modelos, preço e numeração",
+    "type": "Guia de Escolha",
+    "description": "Os tênis da BAW lado a lado: Truck, Grip Mad, Baseline e os outros, com preço, numeração e o que cada ficha descreve, e qual deles lembra o estilo da Vans.",
+    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW. Veja os tênis Truck, Grip Mad e Baseline: preço, numeração, o que cada ficha diz e se parece com Vans.",
+    "image": "/images/reviews/baw/tenis-baw-e-bom-capa.webp",
+    "imageAlt": "Tênis Grip Mad off white e Tênis Truck preto da BAW, um acima do outro, em fotos da BAW com o logo da marca, os textos «Tênis BAW / modelos e preços» e o código BAWEMCASACOMCECILIA.",
+    "cta": {
+      "text": "Se um tênis da BAW faz sentido para você, abra o site oficial pelo botão, confira a ficha e a numeração do modelo e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho.",
+      "label": "Ir para a BAW",
+      "url": "https://www.bawclothing.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos calçados. Podemos receber comissão pelo cupom da BAW.",
+    "relatedArticles": [
+      {
+        "slug": "sandalia-linus-baw"
+      },
+      {
+        "slug": "baw-ou-pace"
+      },
+      {
+        "slug": "baw-clothing-e-boa"
+      },
+      {
+        "slug": "cupom-baw-como-usar"
+      },
+      {
+        "slug": "black-friday-baw"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer um tênis de lona com camurça e sola de borracha, e a ficha do Grip Mad responde ao que você procura.",
+        "Você quer o Truck e aceita a ficha com entressola de PU, sola TR e lingueta em ripstop, sem tabela de medidas.",
+        "Você compara o número com um tênis seu e aceita crédito na loja se precisar trocar."
+      ],
+      "skipIf": [
+        "Você precisa de um tênis para treino ou caminhada longa, porque a loja não descreve uso esportivo em nenhuma ficha.",
+        "Você só compra calçado depois de provar, já que a troca vira crédito e não dá para trocar só por outro número."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A BAW vende seis modelos de tênis de estilo urbano, da faixa de entrada ao Truck. Só o Grip Mad e o Truck têm ficha com material e sola; os outros quatro não descrevem nada. A numeração vai até o 44 em três deles. Pesa na escolha a troca, que vira crédito na loja. O BAWEMCASACOMCECILIA dá 10% OFF."
+        ]
+      },
+      {
+        "heading": "Os seis modelos lado a lado",
+        "paragraphs": [
+          "Na [vitrine de calçados da BAW](https://www.bawclothing.com.br/calcados/) há seis modelos de tênis, além de slides e da sandália da collab com a Linus, que tem [artigo próprio](/reviews/sandalia-linus-baw). A tabela traz o que cada página informa. Onde a ficha está vazia, a loja não diz nada sobre material ou sola."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de venda do dia 20 de novembro de 2026, nas páginas da loja. O preço riscado fica de fora.",
+          "headers": [
+            "Modelo",
+            "Preço",
+            "Numeração na página",
+            "O que a ficha diz"
+          ],
+          "rows": [
+            [
+              "[Thunder preto](https://www.bawclothing.com.br/tenis-baw-thunder-151236)",
+              "R$ 169,00",
+              "36 a 41, sem o 40",
+              "Página sem descrição"
+            ],
+            [
+              "[Grip Mad off white](https://www.bawclothing.com.br/tenis-grip-mad-150379)",
+              "R$ 239,00",
+              "33 a 44",
+              "Lona, camurça, sola de borracha TR, tabela de medidas"
+            ],
+            [
+              "[Baseline preto](https://www.bawclothing.com.br/tenis-baw-baseline-151235) (duas páginas)",
+              "R$ 259,00 e R$ 279,00",
+              "35 a 43",
+              "Página sem descrição"
+            ],
+            [
+              "[Audacity](https://www.bawclothing.com.br/tenis-baw-audacity-151247)",
+              "R$ 279,00",
+              "35 a 43",
+              "Página sem descrição"
+            ],
+            [
+              "[Session Revival](https://www.bawclothing.com.br/tenis-session-revival-150404)",
+              "R$ 369,00",
+              "33 a 44",
+              "Página sem descrição"
+            ],
+            [
+              "[Grip Mad preto](https://www.bawclothing.com.br/tenis-grip-mad-150399)",
+              "R$ 369,00",
+              "33 a 44",
+              "Mesma ficha do off white"
+            ],
+            [
+              "[Truck preto](https://www.bawclothing.com.br/tenis-truck-150200)",
+              "R$ 389,00",
+              "33 a 44",
+              "Entressola de PU, sola TR, lingueta em ripstop"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O [cupom BAW](/cupons/baw) é o BAWEMCASACOMCECILIA, de 10% OFF. Confira a linha do desconto no carrinho antes de pagar. As condições estão em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar)."
+        ]
+      },
+      {
+        "heading": "Truck: o que a ficha descreve",
+        "paragraphs": [
+          "É o tênis mais caro da linha. A loja descreve entressola de PU, sola TR com textura “inspirada em mapas topográficos” e lingueta em ripstop, e diz que o tênis é criado e produzido no Brasil.",
+          "A página tem uma divergência: o título da tabela de medidas diz 35 a 43, sem as medidas, e a grade de tamanhos vai do 33 ao 44. Antes de fechar, confira com o atendimento da BAW qual faixa vale e quais são as medidas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+            "alt": "Tênis Truck preto da BAW visto de perfil, com cabedal cinza-escuro, sola clara com cravos e detalhe roxo no calcanhar, em foto oficial da loja",
+            "caption": "Tênis Truck, na cor preta. A ficha informa sola TR e entressola de PU. Foto: BAW.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.bawclothing.com.br/tenis-truck-150200"
+          }
+        ]
+      },
+      {
+        "heading": "Grip Mad: lona, camurça e a tabela de medidas",
+        "paragraphs": [
+          "A ficha do Grip Mad descreve um tênis de lona com traseiro e biqueira em camurça, costuras contrastantes, sola de borracha TR, espumas internas, cadarço de chenile, etiqueta na lingueta e um “B®” bordado. É a única ficha de tênis da BAW com tabela de medidas preenchida: o 33 tem 24 cm e o 44 tem 35 cm.",
+          "A mesma ficha traz “Composição: Couro e Borracha”, o que não bate com o tênis de lona descrito no começo. Para saber do que o par é feito, pergunte ao atendimento antes de comprar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+            "alt": "Tênis Grip Mad off white da BAW visto de perfil, em lona clara com costuras escuras, B® bordado na lateral e sola alta frisada, em foto oficial da loja",
+            "caption": "Tênis Grip Mad, na cor off white. A ficha descreve lona e camurça. Foto: BAW.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.bawclothing.com.br/tenis-grip-mad-150379"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Tênis Grip Mad off white",
+              "url": "https://www.bawclothing.com.br/tenis-grip-mad-150379",
+              "howTo": "Nossa sugestão é usar com jeans reto e camiseta lisa, deixando o tênis claro como destaque do visual.",
+              "occasion": "Dia a dia e passeio.",
+              "pairsWith": [
+                {
+                  "label": "jeans reto"
+                },
+                {
+                  "label": "camiseta branca"
+                },
+                {
+                  "label": "meia curta"
+                }
+              ]
+            },
+            {
+              "piece": "Tênis Truck preto",
+              "url": "https://www.bawclothing.com.br/tenis-truck-150200",
+              "howTo": "Nossa sugestão é um visual todo escuro: calça de moletom ou jeans preto, com uma jaqueta leve por cima.",
+              "occasion": "Dia a dia e programas de noite.",
+              "pairsWith": [
+                {
+                  "label": "calça de moletom"
+                },
+                {
+                  "label": "jeans preto"
+                },
+                {
+                  "label": "jaqueta leve"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Thunder, Baseline, Audacity e Session Revival",
+        "paragraphs": [
+          "Os quatro têm nome, preço e grade, e a descrição está vazia. A loja não informa material, sola nem medidas.",
+          "O Thunder é o mais barato da linha. A grade dele pula o 40, então confira se o seu número está disponível. O Baseline preto aparece em duas páginas, com preços diferentes. O Audacity e o Baseline vão do 35 ao 43, e o Session Revival vai do 33 ao 44."
+        ]
+      },
+      {
+        "heading": "Tênis tipo Vans: onde a BAW entra",
+        "paragraphs": [
+          "Quem procura um tênis parecido com os da Vans costuma pensar em lona, perfil baixo e visual de skate.",
+          "Dos modelos da BAW, o Grip Mad é o que tem uma ficha nessa linha: lona, camurça, cadarço e sola de borracha, que a loja descreve como TR, e não como vulcanizada. O preço das duas cores está na tabela do começo. A comparação com outra marca nacional de streetwear está em [BAW ou Pace?](/reviews/baw-ou-pace)."
+        ]
+      },
+      {
+        "heading": "Qual número escolher",
+        "paragraphs": [
+          "Só o Grip Mad traz medidas, de 24 cm no 33 a 35 cm no 44. Nos outros modelos a página não traz medida nenhuma. Nesse caso, compare com um tênis que você já usa e confira a numeração no atendimento da BAW antes de fechar.",
+          "Pense na regra de troca. Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), o prazo é de 7 dias corridos do recebimento, com o produto sem uso, com etiqueta e na embalagem original. A troca vira crédito no valor pago, na conta do CPF da compra, e a loja não troca por outro número. Na devolução, o reembolso volta pela mesma forma de pagamento."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tênis BAW é bom? Pelas páginas, só dá para saber material e sola no Grip Mad e no Truck; os outros quatro modelos estão sem descrição. Ninguém da equipe usou os tênis, então não avaliamos conforto nem durabilidade.",
+          "Tênis BAW é masculino ou feminino? As fichas do Grip Mad e do Truck não indicam público, e a home da BAW diz que a coleção é “feita para homens e mulheres”. Na grade, Grip Mad, Truck e Session Revival vão do 33 ao 44.",
+          "Qual a numeração do tênis BAW? Grip Mad, Truck e Session Revival vão do 33 ao 44; Baseline e Audacity, do 35 ao 43; Thunder, do 36 ao 41, sem o 40. No Truck, a tabela de medidas fala em 35 a 43, então confira antes de comprar.",
+          "Tênis BAW parece Vans? No estilo, o Grip Mad é o modelo dessa linha: a ficha descreve lona, camurça, cadarço e sola de borracha TR. Não comparamos acabamento nem qualidade.",
+          "Tem cupom para tênis BAW? Sim, o BAWEMCASACOMCECILIA dá 10% OFF na BAW. Não o testamos nestes modelos, então confira a linha do desconto no carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1215,
+    "slug": "baw-ou-pace",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "BAWEMCASACOMCECILIA",
+    "affiliate": "baw",
+    "title": "BAW ou Pace? Preço, peças, tênis e para quem é cada marca de streetwear",
+    "seoTitle": "BAW ou Pace? Preço, tênis e para quem é cada uma",
+    "type": "Comparativo",
+    "description": "BAW e Pace lado a lado: quanto custam camiseta, calça e tênis em cada marca, o que as fichas dos tênis dizem e para quem faz mais sentido cada uma delas.",
+    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW. BAW ou Pace: veja quanto custam camiseta, calça e tênis em cada marca e para quem cada uma faz mais sentido.",
+    "image": "/images/reviews/baw/baw-ou-pace-capa.webp",
+    "imageAlt": "Tênis Truck preto da BAW visto de perto, com cabedal escuro e sola clara com cravos, em foto da BAW com o logo da marca, os textos «BAW ou Pace? / preço e tênis» e o código BAWEMCASACOMCECILIA.",
+    "cta": {
+      "text": "Se a faixa de preço da BAW serve para você, abra o site oficial pelo botão, escolha a peça e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho.",
+      "label": "Ir para a BAW Clothing",
+      "url": "https://www.bawclothing.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Comissão pelo cupom da BAW; a Pace não é parceira. Não usamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "tenis-baw-e-bom"
+      },
+      {
+        "slug": "baw-clothing-e-boa"
+      },
+      {
+        "slug": "cupom-baw-como-usar"
+      },
+      {
+        "slug": "sandalia-linus-baw"
+      },
+      {
+        "slug": "baw-clothing-e-confiavel"
+      },
+      {
+        "slug": "black-friday-baw"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer pagar menos por camiseta, calça e tênis, já que a BAW parte de preços bem mais baixos.",
+        "Você quer usar o BAWEMCASACOMCECILIA, que dá 10% OFF no site da BAW."
+      ],
+      "skipIf": [
+        "Seu orçamento para tênis é maior e você procura o modelo vulcanizado em borracha natural ou o tabi, que estão nas fichas da Pace.",
+        "Você quer uma marca vendida em loja de moda internacional: segundo a ELLE Brasil, a Pace está na Dover Street Market Paris."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "BAW e Pace são marcas brasileiras de streetwear em faixas de preço diferentes. A BAW tem camisetas e tênis de entrada. A Pace é premium, com tênis de preço bem mais alto e venda também fora do país, segundo a imprensa. Quem decide pelo preço fica com a BAW, e o BAWEMCASACOMCECILIA dá 10% OFF."
+        ]
+      },
+      {
+        "heading": "Quanto custa cada uma",
+        "paragraphs": [
+          "Para comparar, a tabela põe o mesmo tipo de peça lado a lado. Na BAW, camiseta e calça entram com uma peça de exemplo; na Pace, com a faixa de preço do site."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda nos sites oficiais, sem o valor riscado e antes do frete. Tênis da BAW e peças da Pace em 20 de novembro de 2026; camiseta e calça da BAW em 16 de novembro. Na Pace, o preço da primeira variante de cada produto.",
+          "headers": [
+            "Tipo de peça",
+            "BAW",
+            "Pace"
+          ],
+          "rows": [
+            [
+              "Camiseta",
+              "Camiseta Regular Goth 3.0, R$ 59",
+              "De R$ 249 a R$ 360"
+            ],
+            [
+              "Calça",
+              "Calça Track BAW Tag, de R$ 149 a R$ 219, conforme a cor",
+              "De R$ 780 a R$ 10.000"
+            ],
+            [
+              "Tênis",
+              "De R$ 169 a R$ 389",
+              "De R$ 679 a R$ 1.650"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O tênis mais barato da Pace custa R$ 290 a mais que o mais caro da BAW. São duas faixas, e a escolha depende de quanto você quer gastar e do que procura em cada peça.",
+          "A Pace também tem jaquetas, que ficaram fora da tabela. Os preços de cada marca mudam por cor e por campanha, então confirme na página antes de fechar."
+        ]
+      },
+      {
+        "heading": "Tênis BAW e tênis Pace",
+        "paragraphs": [
+          "A BAW tem seis modelos de tênis no site. Aqui vão três deles, mais três da Pace, com o que cada ficha diz. Os seis, com a ficha de cada um, estão em [Tênis BAW é bom?](/reviews/tenis-baw-e-bom)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Preço",
+            "Numeração",
+            "O que a ficha diz"
+          ],
+          "rows": [
+            [
+              "BAW Thunder preto",
+              "R$ 169",
+              "36 a 41, sem o 40",
+              "Ficha vazia"
+            ],
+            [
+              "BAW Grip Mad off white",
+              "R$ 239",
+              "33 a 44",
+              "Lona, traseiro e biqueira em camurça, sola de borracha TR"
+            ],
+            [
+              "BAW Truck preto",
+              "R$ 389",
+              "33 a 44",
+              "Entressola de PU, sola TR, lingueta em ripstop"
+            ],
+            [
+              "Pace Yacht-Rubber Leather High",
+              "R$ 679",
+              "34 a 44",
+              "Vulcanizado, 100% borracha natural brasileira, couro legítimo"
+            ],
+            [
+              "Pace BR-01 V2",
+              "R$ 1.199",
+              "35 a 45",
+              "Vulcanizado, em canvas ou couro"
+            ],
+            [
+              "Pace Yoshi's Tabi V2",
+              "R$ 1.100 a R$ 1.200",
+              "34 a 45",
+              "Dedo separado, montado à mão"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As fichas descrevem construções diferentes: sola TR e entressola de PU na BAW, vulcanizado em borracha natural na Pace.",
+          "Três páginas da BAW pedem conferência antes de fechar. A ficha do Grip Mad fala em lona e camurça e traz “Composição: Couro e Borracha”. A tabela de medidas do Truck é de 35 a 43, e a página vende de 33 a 44. A grade do Thunder pula o 40.",
+          "A Pace tem ainda o XP Duckboot, com solado Vibram, e os modelos Texaco Boots V2 e Bunny Tomo V2, que ficaram fora da tabela."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp",
+            "alt": "Tênis Grip Mad off white da BAW visto de perfil, em lona clara com costuras escuras, B® bordado na lateral e sola alta frisada, em foto oficial da loja",
+            "caption": "Tênis Grip Mad, na cor off white. Foto: BAW.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.bawclothing.com.br/tenis-grip-mad-150379"
+          },
+          {
+            "src": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
+            "alt": "Tênis Truck preto da BAW visto de perfil, com cabedal cinza-escuro, sola clara com cravos e detalhe roxo no calcanhar, em foto oficial da loja",
+            "caption": "Tênis Truck, na cor preta. Foto: BAW.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.bawclothing.com.br/tenis-truck-150200"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Tênis Grip Mad off white",
+              "url": "https://www.bawclothing.com.br/tenis-grip-mad-150379",
+              "howTo": "Sugestão nossa: calça jeans reta e camiseta branca, deixando o tênis claro como ponto de destaque.",
+              "occasion": "Dia a dia.",
+              "pairsWith": [
+                {
+                  "label": "calça jeans reta"
+                },
+                {
+                  "label": "camiseta branca"
+                },
+                {
+                  "label": "meia branca"
+                }
+              ]
+            },
+            {
+              "piece": "Tênis Truck preto",
+              "url": "https://www.bawclothing.com.br/tenis-truck-150200",
+              "howTo": "Sugestão nossa: calça de moletom cinza e moletom de capuz, tudo em tons neutros.",
+              "occasion": "Dia a dia e passeio.",
+              "pairsWith": [
+                {
+                  "label": "calça de moletom cinza"
+                },
+                {
+                  "label": "moletom de capuz"
+                },
+                {
+                  "label": "meia preta"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Quem faz cada marca",
+        "paragraphs": [
+          "A BAW se apresenta no site como “uma marca de roupa streetwear brasileira”, fundada em 2014. Tem camisetas, moletons, calças, tênis e slides. De quem é a marca hoje está em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+          "Segundo a ELLE Brasil, a Pace é uma marca paulistana, criada em 2017, que começou com foco em calçados. A mesma revista diz que é a primeira etiqueta brasileira na Dover Street Market Paris. Segundo a Hypebeast, ela lançou uma colaboração com a ASICS no Gel-Kayano 12.1.",
+          "Pelo site oficial, a Pace tem camisetas, calças, jaquetas e calçados."
+        ]
+      },
+      {
+        "heading": "Onde comprar",
+        "paragraphs": [
+          "Cada marca vende no próprio site. Para a BAW, o endereço é [bawclothing.com.br](https://www.bawclothing.com.br/). A Pace não é parceira nossa, e por isso não há link nem código dela aqui.",
+          "Na BAW, o [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF e se digita no campo de cupom do carrinho. Confira a linha do desconto no resumo do pedido. As condições estão no guia [como usar o cupom da BAW](/reviews/cupom-baw-como-usar). O Pix tem desconto próprio na BAW, e o valor final aparece no resumo do pedido."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "BAW ou Pace, qual é mais barata? A BAW. Os tênis dela vão de R$ 169 a R$ 389, e os da Pace, de R$ 679 a R$ 1.650. Camiseta e calça estão na tabela do começo.",
+          "A Pace é marca brasileira? Segundo a ELLE Brasil, é uma marca paulistana, criada em 2017.",
+          "Quanto custa um tênis Pace? Os calçados do site oficial vão de R$ 679 a R$ 1.650.",
+          "Tem cupom para a BAW? Tem: o BAWEMCASACOMCECILIA dá 10% OFF no site da BAW. Para a Pace não temos cupom."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1216,
+    "slug": "sandalia-linus-baw",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "21 de novembro de 2026",
+    "publishedAtISO": "2026-11-21",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "BAWEMCASACOMCECILIA",
+    "affiliate": "baw",
+    "title": "Sandália Linus + BAW: cores, numeração e preço, e os slides da BAW",
+    "seoTitle": "Sandália Linus + BAW: cores, numeração e preço",
+    "type": "Guia de Escolha",
+    "description": "A Sandália Linus + BAW em detalhes: o PVC microexpandido, as cores, a tabela de medidas por par de números, as tiras que não se ajustam e os slides BAW e Goth.",
+    "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW. Veja a Sandália Linus + BAW: cores, tabela de medidas, tiras fixas e os slides BAW e Goth da loja.",
+    "image": "/images/reviews/baw/sandalia-linus-baw-capa.webp",
+    "imageAlt": "Sandálias Linus da collab com a BAW em amarelo, laranja e rosa, dispostas em círculo, em foto da BAW com o logo da marca, os textos «Sandália Linus / cores e medidas» e o código BAWEMCASACOMCECILIA.",
+    "cta": {
+      "text": "Se a Sandália Linus + BAW faz sentido para você, abra o site oficial pelo botão, confira a tabela de medidas na página do produto e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho.",
+      "label": "Ir para a BAW Clothing",
+      "url": "https://www.bawclothing.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Feito com as páginas dos produtos, sem uso dos calçados. Podemos receber comissão pelo cupom da BAW.",
+    "relatedArticles": [
+      {
+        "slug": "tenis-baw-e-bom"
+      },
+      {
+        "slug": "baw-ou-pace"
+      },
+      {
+        "slug": "cupom-baw-como-usar"
+      },
+      {
+        "slug": "baw-clothing-e-boa"
+      },
+      {
+        "slug": "black-friday-baw"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer a versão da collab Linus + BAW e aceita que as tiras não se ajustam.",
+        "Você mediu o comprimento do pé e conferiu na tabela o par de números que cobre a sua medida.",
+        "Você procura um calçado aberto de um material só, como a página descreve."
+      ],
+      "skipIf": [
+        "Você precisa regular a tira no pé para se sentir firme.",
+        "Você quer um relato de uso antes de comprar: a página promete conforto, mas ninguém da equipe usou a sandália."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Sandália Linus + BAW é a collab das duas marcas, feita de PVC microexpandido, em três cores e numeração dupla, de 33/34 a 43/44. As tiras não se ajustam. A BAW também vende os slides BAW e Goth, com a ficha vazia. O BAWEMCASACOMCECILIA dá 10% OFF na loja."
+        ]
+      },
+      {
+        "heading": "O que é a collab",
+        "paragraphs": [
+          "A ficha apresenta a coleção como “uma troca genuína entre duas marcas”: o lifestyle sustentável da Linus e o streetwear da BAW. A sandália é “100% de PVC microexpandido”, criada e produzida no Brasil, segundo a página.",
+          "A ficha faz três promessas: “a primeira sandália de plástico vegana do Brasil”, “a sandália mais confortável que já experimentou” e “palmilha anatômica única”. São palavras da loja, sem teste nosso."
+        ]
+      },
+      {
+        "heading": "Cores e preço",
+        "paragraphs": [
+          "A sandália tem três cores na página: amarelo flúor, laranja flúor e rosa pink. Os slides entram na mesma tabela porque completam os calçados abertos da loja."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de venda das páginas em 20 de novembro de 2026.",
+          "headers": [
+            "Calçado",
+            "Numeração",
+            "Preço da página"
+          ],
+          "rows": [
+            [
+              "[Sandália Linus, amarelo flúor](https://www.bawclothing.com.br/sandalia-linus-153608)",
+              "33/34 a 43/44",
+              "R$ 169,00"
+            ],
+            [
+              "[Sandália Linus, laranja flúor](https://www.bawclothing.com.br/sandalia-linus-153607)",
+              "33/34 a 43/44",
+              "R$ 199,00"
+            ],
+            [
+              "[Sandália Linus, rosa pink](https://www.bawclothing.com.br/sandalia-linus-153609)",
+              "33/34 a 43/44",
+              "R$ 199,00"
+            ],
+            [
+              "[Slide BAW](https://www.bawclothing.com.br/slide-baw-154154)",
+              "33/34 a 39/40",
+              "R$ 239,00"
+            ],
+            [
+              "[Slide Goth](https://www.bawclothing.com.br/slide-goth-151255)",
+              "33/34 a 43/44",
+              "R$ 99,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A cor amarelo flúor está mais barata que as outras duas na página. O código BAWEMCASACOMCECILIA dá 10% OFF; confira a linha do cupom no carrinho. Como ele funciona está no [guia do cupom da BAW](/reviews/cupom-baw-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/sandalia-linus-baw-amarelo-fluor.webp",
+            "alt": "Sandália Linus + BAW amarelo flúor vista de perfil, com duas tiras e fivela moldada, em foto oficial da loja",
+            "caption": "Sandália Linus + BAW, na cor amarelo flúor. Foto: BAW.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.bawclothing.com.br/sandalia-linus-153608"
+          }
+        ]
+      },
+      {
+        "heading": "Tabela de medidas e as tiras que não se ajustam",
+        "paragraphs": [
+          "Este é o ponto que mais muda a compra: a ficha avisa que as tiras não são ajustáveis, para a sandália seguir de um material só e, segundo a loja, “100% reciclável”. Sem ajuste nas tiras, o par de números precisa ser o certo.",
+          "A tabela da página dá, para cada par de números, a circunferência, o comprimento e a largura do pé. O 33/34 corresponde a um pé de 21,5 cm de comprimento, e o 43/44, a 29,5 cm. Meça o seu pé e procure na tabela da página a linha que cobre a medida. Se ficar entre dois pares, a ficha não diz qual escolher: pergunte ao atendimento da BAW antes de fechar."
+        ]
+      },
+      {
+        "heading": "Como limpar",
+        "paragraphs": [
+          "A ficha manda limpar com água, sabão neutro e escovinha."
+        ]
+      },
+      {
+        "heading": "Slide BAW e Slide Goth",
+        "paragraphs": [
+          "A página do Slide BAW e a do Slide Goth trazem preço e numeração, mas a descrição está vazia: não há material, medidas nem informação de modelagem. A loja não diz do que são feitos, nem que algum deles é de espuma.",
+          "Se a escolha for por um desses dois, confira na página antes de fechar e peça as medidas ao atendimento da BAW. Para ver o que mais a loja vende em calçados, veja [O tênis da BAW é bom?](/reviews/tenis-baw-e-bom)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/sandalia-linus-baw-slide-goth.webp",
+            "alt": "Slide Goth preto da BAW, com letras góticas brancas na tira, em foto oficial da loja",
+            "caption": "Slide Goth. Foto: BAW.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.bawclothing.com.br/slide-goth-151255"
+          }
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Sandália Linus + BAW",
+              "url": "https://www.bawclothing.com.br/sandalia-linus-153608",
+              "howTo": "Nossa sugestão é usar a cor flúor como destaque do look e manter o resto em tons neutros, como bermuda preta e camiseta off white.",
+              "occasion": "Dia a dia e passeio de verão.",
+              "pairsWith": [
+                {
+                  "label": "bermuda preta"
+                },
+                {
+                  "label": "camiseta off white"
+                },
+                {
+                  "label": "meia branca"
+                }
+              ]
+            },
+            {
+              "piece": "Slide Goth",
+              "url": "https://www.bawclothing.com.br/slide-goth-151255",
+              "howTo": "Como sugestão, combine com bermuda de moletom e camiseta lisa, para ficar em casa ou sair sem trocar de roupa.",
+              "occasion": "Casa e programas sem formalidade.",
+              "pairsWith": [
+                {
+                  "label": "bermuda de moletom"
+                },
+                {
+                  "label": "camiseta lisa"
+                },
+                {
+                  "label": "meia branca"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Antes de fechar a compra",
+        "paragraphs": [
+          "Escolha o par de números pela tabela da página, com o pé medido. Se o par não servir, a troca na BAW vira crédito na loja, e a regra está em [Tênis BAW é bom?](/reviews/tenis-baw-e-bom). Digite o código no campo de cupom do carrinho e confira a linha do desconto antes de pagar. As condições estão na página do [cupom BAW](/cupons/baw)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Sandália Linus da BAW é a mesma da Linus? É a collab Linus + BAW, vendida no site da BAW. A ficha diz que a sandália é criada e produzida no Brasil.",
+          "A Sandália Linus é confortável? A ficha promete conforto, mas ninguém da equipe usou a sandália. Não dá para confirmar.",
+          "Qual número escolher na Sandália Linus? Meça o comprimento do pé e procure na tabela da página o par de números que cobre a medida, porque as tiras não se ajustam. O 33/34 corresponde a 21,5 cm e o 43/44, a 29,5 cm.",
+          "O Slide BAW é unissex? A página não diz, e a ficha está vazia. A grade vai do 33/34 ao 39/40.",
+          "Tem cupom para a Sandália Linus + BAW? O BAWEMCASACOMCECILIA dá 10% OFF na BAW. Não testamos o desconto neste produto, então confira a linha do cupom no carrinho."
+        ]
+      }
+    ]
   }
 ];
