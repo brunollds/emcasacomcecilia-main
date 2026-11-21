@@ -9,7 +9,7 @@ export function CodeSeasonNotice({ notice, className }: { notice: Notice; classN
     <div data-nosnippet="" data-code-season-notice="">
       <CampaignWindow from={notice.startsAt} until={notice.endsAt} hiddenInHtml={!notice.inHtml}>
         <p
-          className={`flex items-start justify-center gap-2 border-t-2 border-marinho/15 pt-2.5 text-left text-[13px] font-bold leading-[18px] text-marinho ${className}`}
+          className={`flex items-start justify-center gap-2 border-t-2 border-marinho/15 pt-2.5 text-start text-[13px] font-bold leading-[18px] text-marinho ${className}`}
         >
           <Info aria-hidden="true" className="mt-px h-4 w-4 shrink-0" />
           <span className="min-w-0 text-pretty">{notice.text}</span>

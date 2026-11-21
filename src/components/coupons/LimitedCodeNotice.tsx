@@ -36,7 +36,7 @@ export function LimitedCodeNotices({
         </p>
         <p className="mt-1 font-condensada text-[40px] font-black leading-none font-stretch-extra-condensed">{item.discount}</p>
         <div className="mt-3 flex flex-wrap items-center gap-3">
-          <code className="font-codigo text-[26px] font-extrabold tracking-[0.06em] break-all text-balance">{item.code}</code>
+          <code dir="ltr" className="font-codigo text-[26px] font-extrabold tracking-[0.06em] break-all text-balance">{item.code}</code>
           <CompactCopyButton
             code={item.code}
             brand={brand}
