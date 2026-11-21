@@ -291,6 +291,18 @@ for (const file of components) {
 for (const [key, config] of Object.entries(LOCALES)) {
   if (config.dir !== 'ltr' && config.dir !== 'rtl') errors.push(`src/lib/i18n/locales.ts: o idioma ${key} não tem dir 'ltr' ou 'rtl'`);
 }
+if (LOCALES.ar.dir !== 'rtl') errors.push(`src/lib/i18n/locales.ts: o árabe não está com dir 'rtl'`);
+
+// Idioma da direita para a esquerda (árabe, hoje) tem a regra de tipografia no globals.css: sem espaçamento entre
+// letras, que quebra as ligaduras, e sem maiúsculas.
+const GLOBALS_CSS = 'src/app/globals.css';
+const css = stripComments(fs.readFileSync(GLOBALS_CSS, 'utf8'));
+for (const [key, config] of Object.entries(LOCALES)) {
+  if (config.dir !== 'rtl') continue;
+  const lang = config.htmlLang.replace(/[.*+?^${}()|[\]\\-]/g, '\\$&');
+  const rule = new RegExp(`:lang\\(${lang}\\)\\s*\\{[^}]*letter-spacing:\\s*normal;[^}]*text-transform:\\s*none`);
+  if (!rule.test(css)) errors.push(`${GLOBALS_CSS}: o idioma ${key} é rtl e falta a regra :lang(${config.htmlLang}) com letter-spacing: normal e text-transform: none`);
+}
 
 if (errors.length > 0) {
   console.error(`❌ test:rtl: ${errors.length} problema(s)\n${errors.map((e) => `  - ${e}`).join('\n')}`);

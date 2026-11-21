@@ -24,6 +24,7 @@ const FOOTER_HELP_LABELS: Record<string, string> = {
   ja: 'ヘルプ',
   'zh-hant': '幫助',
   'zh-hans': '帮助',
+  ar: 'المساعدة',
 };
 
 // O menu e o rodapé são cliente: o shellMenu lê os rótulos de sectionLabels e não pode importar os textos
@@ -35,7 +36,7 @@ for (const heavy of ['couponStoreCopy', 'localeFaqCopy']) {
 
 assert.deepEqual(
   LOCALE_KEYS.map((locale) => LOCALES[locale].shortLabel),
-  ['BR', 'US', 'ES', 'FR', 'DE', 'IT', 'KR', 'JP', 'HK', 'CN'],
+  ['BR', 'US', 'ES', 'FR', 'DE', 'IT', 'KR', 'JP', 'HK', 'CN', 'AR'],
 );
 assert.equal(new Set(LOCALE_KEYS.map((locale) => LOCALES[locale].shortLabel)).size, LOCALE_KEYS.length);
 
