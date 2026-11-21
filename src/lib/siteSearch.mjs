@@ -19,9 +19,18 @@ export const SEARCH_PAGE_METADATA = {
 
 // Sem acento e em minúsculas, dos dois lados: "sofa" acha "sofá", como na estante de /reviews. O NFC do
 // fim junta de novo o que o NFD separou e o filtro não tirou: a sílaba coreana e o dakuten japonês
-// voltam a ser um caractere só, e "か" não acha "が".
+// voltam a ser um caractere só, e "か" não acha "が". No árabe saem os sinais de vogal e o tatweel, e as
+// formas do alef, o alef maqsura e o ta marbuta viram a letra comum, como o leitor costuma digitar.
 export function foldSearchText(text) {
-  return text.normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').toLowerCase();
+  return text
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/[\u064B-\u065F\u0670\u0640]/g, '')
+    .normalize('NFC')
+    .replace(/[\u0623\u0625\u0622]/g, '\u0627')
+    .replace(/\u0649/g, '\u064A')
+    .replace(/\u0629/g, '\u0647')
+    .toLowerCase();
 }
 
 // O índice que o campo baixa: o do PT (receitas e artigos) ou o de um idioma (artigos e lojas).

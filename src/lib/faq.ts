@@ -28,9 +28,9 @@ export function isFaqHeading(heading: string | undefined): boolean {
   return /\bfaq\b/.test(h) || FAQ_HEADINGS.some((fragment) => h.includes(fragment));
 }
 
-// Item do FAQ: a pergunta até o "?" ("？" em chinês e japonês) e a resposta logo depois.
+// Item do FAQ: a pergunta até o "?" ("？" em chinês e japonês, o U+061F em árabe) e a resposta logo depois.
 export function parseFaqBullet(bullet: string): FaqItem | null {
-  const match = bullet.match(/^([^\?？]+[\?？])\s*(.+)$/);
+  const match = bullet.match(/^([^\?？\u061F]+[\?？\u061F])\s*(.+)$/);
   return match ? { question: match[1].trim(), answer: match[2].trim() } : null;
 }
 

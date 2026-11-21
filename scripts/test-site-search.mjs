@@ -197,6 +197,12 @@ assert.equal(foldSearchText('가방'), '가방');
 assert.equal(foldSearchText('가방').length, 2);
 assert.equal(foldSearchText('ガイド'), 'ガイド');
 assert.equal(foldSearchText('指南與評測'), '指南與評測');
+
+// Árabe: sem os sinais de vogal e o tatweel, e as formas do alef, o alef maqsura e o ta marbuta como a letra comum.
+assert.equal(foldSearchText('\u0645\u064F\u0646\u064E\u062A\u064E\u062C'), '\u0645\u0646\u062A\u062C', 'sem os sinais de vogal');
+assert.equal(foldSearchText('\u0643\u0640\u0640\u0648\u062F'), '\u0643\u0648\u062F', 'sem o tatweel');
+assert.equal(foldSearchText('\u0623\u0632\u064A\u0627\u0621 \u0625\u0636\u0627\u0641\u064A \u0622\u0645\u0646'), '\u0627\u0632\u064A\u0627\u0621 \u0627\u0636\u0627\u0641\u064A \u0627\u0645\u0646', 'alef com hamza ou madda');
+assert.equal(foldSearchText('\u0645\u0633\u062A\u0634\u0641\u0649 \u0645\u0631\u0627\u062C\u0639\u0629'), '\u0645\u0633\u062A\u0634\u0641\u064A \u0645\u0631\u0627\u062C\u0639\u0647', 'alef maqsura e ta marbuta');
 const cjkFixture = [
   { id: 'ko', title: '한국 배송 가이드', terms: foldSearchText('한국 배송 가이드') },
   { id: 'ja', title: '日本への配送ガイド', terms: foldSearchText('日本への配送ガイド') },
