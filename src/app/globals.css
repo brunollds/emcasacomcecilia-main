@@ -95,8 +95,9 @@ html:lang(ja) {
   text-transform: none;
 }
 
-/* Os títulos grandes condensados usam entrelinha abaixo de 1 (leading-[0.9]…), e as linhas em árabe colidem. */
-:lang(ar) .font-condensada[class*="leading-[0."] {
+/* Os textos condensados usam entrelinha perto de 1 (leading-[0.9], leading-[38px] a 40px…), e as linhas em árabe
+   colidem. A linha do número do desconto (dir="ltr") fica de fora. */
+:lang(ar) .font-condensada:not([dir="ltr"]) {
   line-height: 1.3;
 }
 

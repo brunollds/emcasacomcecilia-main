@@ -417,7 +417,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
     ],
     transparency:
       'قد تمنح بعض الروابط Em Casa com Cecília عمولة، دون أي تكلفة إضافية عليك. يساعدنا هذا النموذج في إبقاء مراجعاتنا وأدلتنا مجانية، مع الشفافية بشأن العلامات التجارية الشريكة.',
-    metaTitle: 'كوبونات وأكواد خصم YesStyle و SHEIN و Hostinger من Cecília',
+    metaTitle: 'كوبونات Cecília: أكواد خصم سارية',
     metaDescription:
       'أكواد خصم سارية من المتاجر الشريكة: قيمة الخصم في كل رمز، وقواعده، وهل يُجمع مع عروض المتجر.',
     yesstyleNote: 'خصم يصل إلى {percent}% على طلبك الأول، في حقل Reward Code.',

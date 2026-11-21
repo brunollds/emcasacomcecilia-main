@@ -24,7 +24,8 @@ export function scrollByReading(scroller: HTMLElement, amount: number, behavior:
 }
 
 export function scrollToReading(scroller: HTMLElement, position: number, behavior: ScrollBehavior): void {
-  scroller.scrollTo({ left: isRtl(scroller) ? -position : position, behavior });
+  // Em RTL o scrollLeft vai de 0 a negativo: posição abaixo de 0 não pode virar deslocamento para fora do início.
+  scroller.scrollTo({ left: isRtl(scroller) ? -Math.max(0, position) : position, behavior });
 }
 
 // Distância do início do conteúdo que rola até o início do filho, pelo offsetLeft: ignora o transform da entrada das
