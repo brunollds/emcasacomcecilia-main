@@ -118,11 +118,11 @@ function ReturnNoticeBanner({ notice }: { notice: OpenNotice }) {
       role="status"
       data-return-notice=""
       style={notice.codeFont ? ({ '--font-jetbrains-mono': notice.codeFont } as CSSProperties) : undefined}
-      className="fixed inset-x-3 top-3 z-[70] mx-auto flex max-w-md items-start gap-3 rounded-xl border-2 border-verde-escuro bg-verde-claro p-3.5 text-left text-verde-escuro shadow-large motion-safe:animate-[slide-up_0.25s_ease-out]"
+      className="fixed inset-x-3 top-3 z-[70] mx-auto flex max-w-md items-start gap-3 rounded-xl border-2 border-verde-escuro bg-verde-claro p-3.5 text-start text-verde-escuro shadow-large motion-safe:animate-[slide-up_0.25s_ease-out]"
     >
       <Check aria-hidden="true" className="mt-1 h-6 w-6 shrink-0" />
       <div className="min-w-0 flex-1">
-        <p className="font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] break-all">{notice.code}</p>
+        <p dir="ltr" className="font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] break-all">{notice.code}</p>
         <p className="mt-0.5 text-[15px] leading-5 font-bold">{notice.text}</p>
       </div>
       <button
@@ -305,7 +305,7 @@ export function CouponDock({
             }
           >
             <Scissors aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-            <span className={`min-w-0 flex-1 break-all text-balance leading-5 ${dockCodeSize(copyAction.code)}`}>{copyAction.code}</span>
+            <span dir="ltr" className={`min-w-0 flex-1 break-all text-balance leading-5 ${dockCodeSize(copyAction.code)}`}>{copyAction.code}</span>
             {/* Abaixo de 360px o ícone sai para o código caber em duas linhas; a tesoura já indica a cópia. */}
             <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0 max-[360px]:hidden" />
           </CopyCodeButton>

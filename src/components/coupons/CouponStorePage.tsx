@@ -422,7 +422,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               <p className={`mt-4 ${BODY_TEXT}`}>{copy.tiersIntro}</p>
               {/* O código fica inteiro numa coluna própria; a rolagem só entra abaixo de ~330px. */}
               <div className="mt-4 overflow-x-auto rounded-xl border-2 border-marinho">
-                <table className="w-full border-collapse text-left">
+                <table className="w-full border-collapse text-start">
                   <caption className="sr-only">{copy.tiersCaption(coupon.brand)}</caption>
                   <thead className="bg-amarelo-cupom">
                     <tr className="border-b-2 border-marinho">
@@ -455,12 +455,12 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                             className={`inline-flex min-h-11 items-center gap-2 whitespace-nowrap rounded-lg border-2 border-dashed border-marinho bg-white px-2.5 font-codigo text-xs font-extrabold text-marinho data-[copied=true]:border-solid data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro ${FOCUS_RING}`}
                             copiedChildren={
                               <>
-                                {tier.code}
+                                <bdi dir="ltr">{tier.code}</bdi>
                                 <Check aria-hidden="true" className="h-4 w-4 shrink-0" />
                               </>
                             }
                           >
-                            {tier.code}
+                            <bdi dir="ltr">{tier.code}</bdi>
                             <Copy aria-hidden="true" className="h-4 w-4 shrink-0" />
                           </CopyCodeButton>
                         </td>
@@ -528,7 +528,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               <SectionHeading id="indicacao">{coupon.referral.label}</SectionHeading>
               <div className="recorte mt-5 rounded-xl border-2 border-dashed border-marinho p-4">
                 <div className="flex flex-wrap items-center gap-3">
-                  <code className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{coupon.referral.code}</code>
+                  <code dir="ltr" className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{coupon.referral.code}</code>
                   <CompactCopyButton
                     code={coupon.referral.code}
                     brand={coupon.brand}
@@ -589,7 +589,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           {failedCopy && (
             <section aria-labelledby="nao-funcionou">
               <SectionHeading id="nao-funcionou">{failedCopy.title}</SectionHeading>
-              <ul className={`mt-4 list-disc space-y-2 pl-5 ${BODY_TEXT}`}>
+              <ul className={`mt-4 list-disc space-y-2 ps-5 ${BODY_TEXT}`}>
                 <li>{failedCopy.field(codeFieldLabel)}</li>
                 <li>{failedCopy.eligible(coupon.eligibleCategories)}</li>
                 <li>
@@ -625,7 +625,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                       <group.icon aria-hidden className="size-4 shrink-0" />
                       {perksCopy.groups[group.kind]}
                     </h3>
-                    <ul className={`mt-2 list-disc space-y-1.5 pl-5 ${BODY_TEXT}`}>
+                    <ul className={`mt-2 list-disc space-y-1.5 ps-5 ${BODY_TEXT}`}>
                       {group.items.map((item) => (
                         <li key={item}>{item}</li>
                       ))}
@@ -709,7 +709,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                     className="flex flex-wrap items-center gap-x-3 gap-y-1 rounded-xl border-2 border-marinho/15 px-4 py-3 text-sm"
                   >
                     <span className="text-xs font-bold text-marinho-suave">{item.date}</span>
-                    <code className="font-codigo text-[13px] font-extrabold">{item.code}</code>
+                    <code dir="ltr" className="font-codigo text-[13px] font-extrabold">{item.code}</code>
                     <span className="font-extrabold">{item.discount}</span>
                     {item.note && <span className="text-marinho-suave">{item.note}</span>}
                   </li>

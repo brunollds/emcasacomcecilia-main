@@ -111,7 +111,7 @@ export function OtherCouponCard({ coupon, index }: { coupon: Coupon; index: numb
           </span>
           <span className="relative z-10 flex min-h-11 items-center justify-between gap-2 px-2.5 py-0.5">
             <span className="text-sm font-extrabold leading-[18px]">{coupon.brand}</span>
-            <ChevronRight aria-hidden="true" className="h-4 w-4 shrink-0" />
+            <ChevronRight aria-hidden="true" className="h-4 w-4 shrink-0 rtl:-scale-x-100" />
           </span>
           {note && (
             <span className="relative z-10 mx-2.5 mt-auto mb-2.5 rounded-lg border-2 border-dashed border-marinho bg-white px-2.5 py-2 text-xs font-bold leading-4">
@@ -120,16 +120,14 @@ export function OtherCouponCard({ coupon, index }: { coupon: Coupon; index: numb
           )}
         </Link>
         {code && (
-          <div className="recorte relative z-10 mx-2.5 mb-2.5 flex items-center gap-1.5 rounded-lg border-2 border-dashed border-marinho bg-white pl-2.5">
-            <code className={`min-w-0 flex-1 break-all text-balance font-codigo font-extrabold leading-5 text-marinho ${otherCodeSize(code)}`}>
-              {code}
-            </code>
+          <div className="recorte relative z-10 mx-2.5 mb-2.5 flex items-center gap-1.5 rounded-lg border-2 border-dashed border-marinho bg-white ps-2.5">
+            <code dir="ltr" className={`min-w-0 flex-1 break-all text-balance font-codigo font-extrabold leading-5 text-marinho ${otherCodeSize(code)}`}>{code}</code>
             <CopyCodeButton
               code={code}
               brand={coupon.brand}
               placement="coupon_page_others"
               ariaLabel={`Copiar o código ${code} da ${coupon.brand}`}
-              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-r-md bg-laranja text-marinho focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white"
+              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-e-md bg-laranja text-marinho focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white"
               copiedChildren={<Check aria-hidden="true" className="h-[18px] w-[18px]" />}
             >
               <Copy aria-hidden="true" className="h-[18px] w-[18px]" />
@@ -171,7 +169,7 @@ const HUB_ACTION =
 
 const FEATURED_CUTOUT = {
   cutout: 'mx-3 mt-3.5 mb-3 rounded-[10px]',
-  codeLayout: 'flex items-center gap-2.5 pt-3 pr-2 pb-2.5 pl-3.5',
+  codeLayout: 'flex items-center gap-2.5 pt-3 pe-2 pb-2.5 ps-3.5',
   code: 'min-w-0 flex-1 text-[22px] leading-7 tracking-[0.04em]',
   action: 'min-h-12 shrink-0 border-2 border-marinho px-[18px] text-[15px] data-[copied=true]:border-verde-escuro',
 } as const;
@@ -185,7 +183,7 @@ const HUB_CARDS = {
     brand: 'text-[22px] leading-[26px]',
     chevron: 'h-[22px] w-[22px]',
     note: 'text-[13px] leading-[18px]',
-    watermark: '-right-9 top-[18px] h-[110px] w-[270px] lg:top-6 lg:right-4 lg:h-[130px] lg:w-[360px]',
+    watermark: '-end-9 top-[18px] h-[110px] w-[270px] lg:top-6 lg:end-4 lg:h-[130px] lg:w-[360px]',
     watermarkAlign: 'right',
     ...FEATURED_CUTOUT,
   },
@@ -197,7 +195,7 @@ const HUB_CARDS = {
     brand: 'text-[19px] leading-[26px]',
     chevron: 'h-[22px] w-[22px]',
     note: 'text-[13px] leading-[18px]',
-    watermark: '-right-6 top-2.5 h-[150px] w-[150px]',
+    watermark: '-end-6 top-2.5 h-[150px] w-[150px]',
     watermarkAlign: 'right',
     ...FEATURED_CUTOUT,
   },
@@ -212,7 +210,7 @@ const HUB_CARDS = {
     watermark: '-left-[6%] top-1.5 h-[150px] w-[112%]',
     watermarkAlign: 'right-inset',
     cutout: 'mx-2.5 mt-3.5 mb-2.5 rounded-lg',
-    codeLayout: 'flex items-center gap-2.5 pt-3 pr-2 pb-2.5 pl-3',
+    codeLayout: 'flex items-center gap-2.5 pt-3 pe-2 pb-2.5 ps-3',
     code: 'min-w-0 flex-1 text-lg leading-6',
     action: 'min-h-11 shrink-0 px-3.5 text-sm',
   },
@@ -301,7 +299,7 @@ export function HubCouponCard({
             <h3 className={`min-w-0 font-extrabold underline-offset-[3px] group-hover/card:underline ${v.brand}`}>
               {coupon.brand}
             </h3>
-            <ChevronRight aria-hidden="true" className={`shrink-0 ${v.chevron}`} />
+            <ChevronRight aria-hidden="true" className={`shrink-0 rtl:-scale-x-100 ${v.chevron}`} />
           </div>
           {variant === 'lead' && coupon.featuredPitch && (
             <p className="text-[15px] font-bold leading-[22px]">{coupon.featuredPitch}</p>
@@ -318,13 +316,13 @@ export function HubCouponCard({
       >
         <span
           aria-hidden="true"
-          className={`absolute -top-[11px] left-2 flex bg-white px-[3px] ${code ? 'recorte-tesoura recorte-tesoura-papel' : ''}`}
+          className={`absolute -top-[11px] start-2 flex bg-white px-[3px] ${code ? 'recorte-tesoura recorte-tesoura-papel' : ''}`}
         >
           <Scissors className="h-4 w-4" />
         </span>
         {code ? (
           <>
-            <code className={`font-codigo font-extrabold text-marinho break-all text-balance ${v.code}`}>{code}</code>
+            <code dir="ltr" className={`font-codigo font-extrabold text-marinho break-all text-balance ${v.code}`}>{code}</code>
             <CopyCodeButton
               code={code}
               brand={coupon.brand}
