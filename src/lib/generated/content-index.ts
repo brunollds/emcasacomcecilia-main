@@ -267714,7 +267714,7 @@ export const reviewsData: unknown[] = [
     "id": 1073,
     "slug": "calcinha-para-academia",
     "locale": "pt",
-    "title": "Calcinha para academia: Insider ou Toda Up para treinar de legging?",
+    "title": "Calcinha para academia: o que conferir para evitar marcas na legging",
     "seoTitle": "Calcinha para academia: Insider ou Toda Up?",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
@@ -268031,7 +268031,7 @@ export const reviewsData: unknown[] = [
     "id": 1074,
     "slug": "alternativas-a-donna-carioca",
     "locale": "pt",
-    "title": "Alternativas à Donna Carioca: onde pagar menos, achar outro tamanho ou comprar uma peça só",
+    "title": "Alternativas à Donna Carioca: peças mais baratas, variedade de modelos e mais tamanhos",
     "seoTitle": "Alternativas à Donna Carioca: 3 lojas de moda fitness",
     "type": "Comparativo de Moda Fitness",
     "category": "guias-praticos-utilidade",
@@ -311088,7 +311088,7 @@ export const reviewsData: unknown[] = [
               "R$ 28,79"
             ],
             [
-              "Guia Toh corda unificada preta",
+              "[Guia Toh Corda Preta, 1,20 m](https://www.petz.com.br/produto/guia-toh-corda-preta-para-caes)",
               "R$ 41,99 (oferta)",
               "R$ 41,99"
             ],
@@ -311151,7 +311151,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Cama: o colchonete Spike é de fibra de poliéster e, segundo a ficha, é enrolável e pode ser usado em viagens. O tamanho P mede 81 por 66 cm e tem 2 cm de altura. O M (R$ 129,99) mede 105 por 66 cm.",
           "Peitoral: o Spike Geo PP é regulável no pescoço e na cintura e tem duas posições para prender a guia, segundo a ficha. Os tamanhos seguem em P (R$ 34,99), M (R$ 39,99) e G (R$ 49,99). As medidas de cada tamanho estão na ficha.",
-          "Guia: a Toh de corda unificada é de polipropileno e mede cerca de 1,10 metro, pela ficha. É um modelo que já traz a parte da coleira; se a ideia é prender no peitoral, procure na loja uma guia com mosquetão."
+          "Guia: a Toh Corda Preta de 1,20 m é de corda de polipropileno e fecha por mosquetão, pela ficha. É esse modelo que entra na conta com o peitoral. A guia unificada da Toh já tem a parte da coleira."
         ]
       },
       {
