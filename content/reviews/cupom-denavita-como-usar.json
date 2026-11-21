@@ -24,7 +24,7 @@
   "type": "Guia & Cupons",
   "title": "Cupom Denavita: como aplicar o EMCASA no checkout e com o que ele soma",
   "seoTitle": "Como usar o cupom EMCASA na Denavita, 10% OFF",
-  "description": "Veja onde aplicar EMCASA no checkout da Denavita, quanto ele descontou em três carrinhos com avulsos e kits e como conferir o preço final com entrega pelo CEP.",
+  "description": "Veja onde aplicar EMCASA no checkout da Denavita, quanto ele descontou em quatro carrinhos com avulsos e kits e como conferir o preço final com entrega pelo CEP.",
   "metaDescription": "O cupom EMCASA dá 10% OFF na Denavita. Veja onde aplicar no checkout, a conta do nosso teste com produtos em promoção, o frete grátis e as trocas.",
   "image": "/images/reviews/denavita/cupom-denavita-como-usar-hero-pt-v2.webp",
   "imageAlt": "Mão segura o pote de Trio Magnésio da Denavita ao lado do recorte do checkout com EMCASA no campo de cupom. A capa pergunta como aplicar o cupom.",
@@ -50,7 +50,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Use EMCASA para ter 10% OFF no site da Denavita, na primeira compra ou se já for cliente. No checkout, abra “Tem um cupom?” e clique em “Adicionar” antes de informar o CPF. O desconto entrou sobre o preço dos produtos e dos kits testados e se manteve no Pix."
+        "Use EMCASA para ter 10% OFF no site da Denavita, na primeira compra ou se já for cliente. No checkout, abra “Tem um cupom?” e clique em “Adicionar” antes de informar o CPF. O desconto entrou nos produtos e nos kits testados, no Pix e no cartão em até 12x."
       ]
     },
     {
@@ -81,10 +81,10 @@
     {
       "heading": "Quanto o cupom tira: a conta do teste",
       "paragraphs": [
-        "Em 19/11, os três carrinhos receberam 10% de desconto sobre o preço exibido no checkout. No pedido com dois kits, o desconto de R$ 39,98 se manteve quando foi escolhido Pix."
+        "Nos testes de 19 e 21 de novembro, os quatro carrinhos receberam 10% de desconto sobre o preço exibido no checkout. No pedido com dois kits, o desconto de R$ 39,98 se manteve quando foi escolhido Pix."
       ],
       "comparisonTable": {
-        "caption": "Três carrinhos testados no site oficial, antes do frete.",
+        "caption": "Quatro carrinhos testados no site oficial, antes do frete.",
         "headers": [
           "Carrinho",
           "Produtos",
@@ -93,22 +93,28 @@
         ],
         "rows": [
           [
-            "Laranja Moro Morosil, Picolinato de Cromo e Café Verde",
+            "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps) (Morosil, Picolinato de Cromo e Café Verde)",
             "R$ 76,90",
             "R$ 7,69",
             "R$ 69,21"
           ],
           [
-            "Jejoom Shot Matinal, Trio Magnésio e Laranja Moro",
+            "[Jejoom Shot Matinal](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio) e [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
             "R$ 218,70",
             "R$ 21,87",
             "R$ 196,83"
           ],
           [
-            "Kit Vida Fit e Turbo Metabolismo",
+            "[Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)",
             "R$ 399,80",
             "R$ 39,98",
             "R$ 359,82"
+          ],
+          [
+            "[Kit Queridinhos Denavita](https://www.denavita.com.br/products/kit-queridinhos-denavita), [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)",
+            "R$ 659,70",
+            "R$ 65,97",
+            "R$ 593,73"
           ]
         ]
       },
@@ -128,21 +134,21 @@
     {
       "heading": "Soma com promoção, kits e Pix?",
       "paragraphs": [
-        "O desconto entrou no avulso em promoção e no carrinho com Kit Vida Fit e Turbo Metabolismo. No Leve 3, Pague 2, o resumo do nosso teste mostrou os 10% do EMCASA, sem um abatimento separado da oferta por quantidade.",
-        "Para “Leve 3, Pague 2”, “Compre 2 Leve 3” e outras quantidades, compare o subtotal antes e depois do código e confira quais descontos aparecem juntos. Veja [as ofertas que a Denavita anuncia](/reviews/black-friday-denavita)."
+        "O desconto entrou no avulso em promoção, no carrinho com [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo) e no de três kits, e se manteve no Pix.",
+        "As opções por quantidade são variantes na página de cada produto: Compre 2 Leve 3 e Compre 3 Leve 5 no [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Leve 3 e Pague 2 no [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio). Testamos o EMCASA em avulsos e em kits; nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar. Veja [as ofertas que a Denavita anuncia](/reviews/black-friday-denavita)."
       ]
     },
     {
       "heading": "Frete, prazo e parcelamento",
       "paragraphs": [
-        "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, com asterisco. Informe o CEP, aplique o cupom e confira o total com a entrega no checkout.",
-        "O parcelamento no cartão varia pelo pedido. Veja as opções no checkout e, se estiver comprando para uma data certa, guarde a previsão de entrega. [Prazos e atendimento da Denavita](/reviews/denavita-e-confiavel)"
+        "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP, aplique o cupom e confira o prazo e o total com a entrega no checkout.",
+        "O pagamento pode ser em até 12x no cartão ou no Pix, com o EMCASA aplicado nos dois. Mais sobre entrega e atendimento em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
       ]
     },
     {
       "heading": "Trocas e devolução",
       "paragraphs": [
-        "Para desistência ou produto entregue com problema, abra uma solicitação no [portal de trocas da Denavita](https://trocas-gobeaute.devgogroup.com/denavita) com o número do pedido. Em compra online, o [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm#art49) prevê sete dias a partir do recebimento para desistir."
+        "A loja informa 30 dias depois da entrega para problema com o pedido e 7 dias para desistir, com o produto lacrado, pelo portal de trocas da Denavita. O passo a passo está em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
       ]
     },
     {
@@ -164,10 +170,12 @@
       "bullets": [
         "Onde coloco o cupom na Denavita? No checkout, abra “Tem um cupom?”, cole EMCASA e clique em “Adicionar”. Confira na linha “Cupom de desconto” se os 10% entraram.",
         "O cupom EMCASA vale no Pix? No nosso teste, o desconto de 10% se manteve quando selecionamos Pix no pedido com Kit Vida Fit e Turbo Metabolismo.",
+        "Dá para parcelar com o cupom? Sim. O checkout mostra o parcelamento em até 12x no cartão, e o Pix também aceita o código.",
         "Qual é o frete grátis da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. Confira o frete para o seu CEP depois de aplicar o cupom no checkout.",
         "O cupom vale no Mercado Livre? O EMCASA é do site oficial da Denavita: é no checkout da loja, em seguro.denavita.com.br, que o código entra.",
-        "O cupom vale no Laranja Moro? Vale: no nosso teste, o Laranja Moro em promoção ganhou os 10%. A conta está no quadro acima, e o produto tem guia próprio: [Laranja Moro Denavita](/reviews/laranja-moro-denavita)."
+        "O cupom vale no Laranja Moro? Vale: no nosso teste, o [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps) em promoção ganhou os 10%. A conta está no quadro acima, e o produto tem guia próprio: [Laranja Moro Denavita](/reviews/laranja-moro-denavita)."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-21"
 }
