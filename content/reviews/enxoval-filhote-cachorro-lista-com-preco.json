@@ -1,0 +1,204 @@
+{
+  "id": 1277,
+  "slug": "enxoval-filhote-cachorro-lista-com-preco",
+  "locale": "pt",
+  "title": "Enxoval do filhote de cachorro: a lista com preço na Petz",
+  "seoTitle": "Enxoval do filhote de cachorro: lista com preço",
+  "type": "Lista de Compra",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Lista do enxoval do filhote de cachorro na Petz, item por item, com o preço do dia, o total e o código EMCASA. Ração, comedouro, cama, guia, tapete e caixa de transporte.",
+  "metaDescription": "EMCASA dá 10% OFF na Petz nos itens sem oferta. Veja o enxoval do filhote de cachorro item por item, com o preço do dia, o total e a conta do código.",
+  "publishedAt": "21 de novembro de 2026",
+  "publishedAtISO": "2026-11-21",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-capa.webp",
+  "imageAlt": "Lista do enxoval do filhote (ração, comedouro e bebedouro, cama, peitoral e guia, tapete higiênico, brinquedo, escova e caixa), com o logo da Petz, os textos «Enxoval do filhote / dez itens e o total» e o código EMCASA.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O exemplo para um filhote de porte pequeno reúne dez itens na Petz, da ração à caixa de transporte. A conta usa os preços das páginas antes do frete. Compare as medidas do filhote e o que você já tem em casa. O desconto do EMCASA nesta lista é estimado."
+      ]
+    },
+    {
+      "heading": "A lista: dez itens, um por categoria",
+      "paragraphs": [
+        "Esta é uma lista de referência para um filhote de porte pequeno. Confira as medidas da cama, do peitoral e da caixa antes de comprar. Se você já tem algum item, retire a linha da soma."
+      ],
+      "comparisonTable": {
+        "caption": "Preços das páginas da Petz em 21/11/2026, antes de frete e sem CEP. A simulação aplica 10% aos itens sem oferta e mantém o preço dos demais.",
+        "headers": [
+          "Item",
+          "Preço da página",
+          "Estimativa com EMCASA"
+        ],
+        "rows": [
+          [
+            "Ração Golden Special Filhotes Porte Pequeno, 3 kg",
+            "R$ 59,99",
+            "R$ 53,99"
+          ],
+          [
+            "Comedouro Chalesco antiderrapante inox, Tam 1",
+            "R$ 16,79 (oferta)",
+            "R$ 16,79"
+          ],
+          [
+            "Bebedouro Chalesco automático, 600 ml",
+            "R$ 52,99",
+            "R$ 47,69"
+          ],
+          [
+            "Cama Spike colchonete azul, P",
+            "R$ 109,99",
+            "R$ 98,99"
+          ],
+          [
+            "Peitoral Spike Geo, PP",
+            "R$ 31,99",
+            "R$ 28,79"
+          ],
+          [
+            "Guia Toh corda unificada preta",
+            "R$ 41,99 (oferta)",
+            "R$ 41,99"
+          ],
+          [
+            "Tapete higiênico Petz superabsorvente, 30 unidades",
+            "R$ 79,99 (oferta)",
+            "R$ 79,99"
+          ],
+          [
+            "Brinquedo Spike macaco de pelúcia",
+            "R$ 24,99 (oferta)",
+            "R$ 24,99"
+          ],
+          [
+            "Escova Chalesco Special Pets, P",
+            "R$ 20,39 (oferta)",
+            "R$ 20,39"
+          ],
+          [
+            "Caixa de transporte Furacão Pet Joy, Tam 1",
+            "R$ 48,99 (oferta)",
+            "R$ 48,99"
+          ],
+          [
+            "Total",
+            "R$ 488,10",
+            "R$ 462,60"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Os preços são os da página do produto, sem CEP. Na sacola, confira a linha do desconto antes de pagar."
+      ],
+      "image": {
+        "src": "/images/reviews/petz/enxoval-filhote-cachorro-lista-com-preco-quadro.webp",
+        "alt": "Quadro com o total do enxoval do filhote na Petz: R$ 488,10 pelos preços das páginas e R$ 462,60 com o EMCASA, que desconta só os quatro itens fora de oferta.",
+        "caption": "Quadro: Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
+    },
+    {
+      "heading": "A conta com o EMCASA",
+      "paragraphs": [
+        "A diferença entre as duas colunas é de R$ 25,50, e vem só de quatro itens, os que estavam sem oferta: a ração (de R$ 59,99 para R$ 53,99), o bebedouro (de R$ 52,99 para R$ 47,69), a cama (de R$ 109,99 para R$ 98,99) e o peitoral (de R$ 31,99 para R$ 28,79).",
+        "A regra do [cupom Petz](/cupons/petz) é manter o maior desconto em cada produto, sem somar percentuais. A simulação conservou os preços de oferta. No seu carrinho, confira qual desconto ficou em cada item.",
+        "O cálculo segue os valores consultados. Se a promoção ou o preço para seu CEP mudar, refaça a soma. Veja também [como aplicar o EMCASA na Petz](/reviews/cupom-petz-como-usar)."
+      ]
+    },
+    {
+      "heading": "Ração, comedouro e bebedouro",
+      "bullets": [
+        "Ração: a Golden Special para filhotes de porte pequeno, sabor frango e carne, vem em 3 kg e em 15 kg (R$ 176,99). A ficha traz tabela de consumo por porte e peso. Qual ração dar e em que quantidade, o veterinário decide.",
+        "Comedouro: o Chalesco de inox tem base antiderrapante e três tamanhos. O Tam 1 leva 235 ml e mede 3,5 cm de altura por 6 cm de largura. O Tam 2 leva 480 ml (R$ 29,39) e o Tam 3, 710 ml (R$ 37,09). A ficha não diz para que porte cada tamanho serve.",
+        "Bebedouro: o Chalesco automático leva 600 ml. A ficha diz que o bico garante maior durabilidade e que o bebedouro se usa em garrafas pet de todos os tamanhos."
+      ]
+    },
+    {
+      "heading": "Cama, peitoral e guia",
+      "bullets": [
+        "Cama: o colchonete Spike é de fibra de poliéster e, segundo a ficha, é enrolável e pode ser usado em viagens. O tamanho P mede 81 por 66 cm e tem 2 cm de altura. O M (R$ 129,99) mede 105 por 66 cm.",
+        "Peitoral: o Spike Geo PP é regulável no pescoço e na cintura e tem duas posições para prender a guia, segundo a ficha. Os tamanhos seguem em P (R$ 34,99), M (R$ 39,99) e G (R$ 49,99). As medidas de cada tamanho estão na ficha.",
+        "Guia: a Toh de corda unificada é de polipropileno e mede cerca de 1,10 metro, pela ficha. É um modelo que já traz a parte da coleira; se a ideia é prender no peitoral, procure na loja uma guia com mosquetão."
+      ]
+    },
+    {
+      "heading": "Tapete, brinquedo, escova e caixa de transporte",
+      "bullets": [
+        "Tapete higiênico: a embalagem tem 30 unidades. Cada tapete mede 60 por 80 cm, com 60 por 50 cm de área de absorção. A ficha não diz quantos tapetes um filhote usa.",
+        "Brinquedo: o macaco de pelúcia da Spike mede 50 por 12 por 5 cm e tem olhos bordados. A ficha o descreve como perfeito para pets em fase de crescimento e não traz orientação de uso.",
+        "Escova: a Chalesco Special Pets P mede 17 por 5,5 cm. A G (R$ 26,99) mede 23 por 7 cm.",
+        "Caixa de transporte: a Furacão Pet Joy Tam 1 mede 26,5 por 31 por 46 cm. A ficha fala em fácil montagem e diz que a caixa não tem parafusos ou outros objetos perfurantes. Ela não informa o peso máximo do animal, então esse dado fica sem resposta aqui."
+      ]
+    },
+    {
+      "heading": "O que ficou fora da lista",
+      "paragraphs": [
+        "Antipulgas, vermífugo e vacina não entram: são decisões de saúde, e quem indica produto e momento é o veterinário. Também deixei de fora a ração de filhote de linha para cães em treinamento e competição, que a ficha descreve para esse uso.",
+        "Para porte médio ou grande, ração, caixa e comedouro mudam de tamanho, e a lista não cobre esses itens. Se a casa já tem parte do enxoval, tire as linhas correspondentes da tabela e refaça a soma."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Quanto custa o enxoval de um filhote de cachorro na Petz? Os dez itens do exemplo somam cerca de 488 reais antes do frete. Na simulação com o EMCASA, ficam em cerca de 462 reais. O carrinho e o frete dependem do CEP.",
+        "A Petz dá desconto no enxoval? O EMCASA aplica 10% nos itens elegíveis. Em item promocional fica o maior desconto. Veja na sacola quanto ele tirou do seu pedido.",
+        "Qual ração de filhote comprar? A lista usa a Golden Special para filhotes de porte pequeno, cuja ficha traz tabela de consumo por porte e peso. A escolha da ração e a quantidade, na dúvida, são do veterinário.",
+        "Precisa de peitoral ou coleira para filhote? A lista traz o peitoral Spike Geo PP e a guia, e a ficha do peitoral fala em regulagem no pescoço e na cintura. Quando e como sair com o filhote, o veterinário orienta.",
+        "Quantas unidades de tapete higiênico comprar? A embalagem da lista traz 30 unidades. A ficha não diz quantos tapetes um filhote usa, e esse número depende da rotina da casa."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "O cachorro vai ser de porte pequeno: a ração da lista é dessa linha, e a conta já traz o total.",
+      "Você quer um ponto de partida com preço de cada item e a explicação de onde o EMCASA entra."
+    ],
+    "skipIf": [
+      "O cachorro vai ser de porte médio ou grande: ração, caixa e comedouro mudam de tamanho e de preço.",
+      "A casa já tem parte dos itens: nesse caso, refaça a soma só com o que falta."
+    ]
+  },
+  "cta": {
+    "text": "Abre a loja emcasa da Petz, sem o cupom aplicado. Cole o EMCASA no campo “Digite seu cupom” da sacola.",
+    "label": "Ir para a Petz",
+    "url": "https://petz.com.br/parceiro/emcasa",
+    "sponsored": true
+  },
+  "coupon": "EMCASA",
+  "affiliate": "petz",
+  "editorialNote": "Preços lidos nas páginas da Petz, sem login e sem CEP. Não testamos os produtos: o texto segue o que a loja publica. Somos parceiros da Petz e podemos receber comissão pelo código EMCASA.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-petz-como-usar"
+    },
+    {
+      "slug": "assinatura-petz-ou-cupom"
+    },
+    {
+      "slug": "petz-entrega-expressa-ou-retirar-na-loja"
+    },
+    {
+      "slug": "areia-para-gato-petz-custo-por-quilo"
+    },
+    {
+      "slug": "petz-ou-cobasi"
+    }
+  ]
+}
