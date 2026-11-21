@@ -128,6 +128,17 @@ const stylingCopy: Record<Locale, StylingCopy> = {
     tips: '穿搭建议',
     tipsFor: (piece) => `穿搭建议：${piece}`,
   },
+  ar: {
+    howTo: 'طريقة الارتداء',
+    occasion: 'المناسبة',
+    pairsWith: 'ينسجم مع',
+    closet: 'من خزانتك',
+    byColor: 'حسب اللون',
+    avoid: 'تجنّب:',
+    newTab: '(يفتح في علامة تبويب جديدة)',
+    tips: 'نصائح التنسيق',
+    tipsFor: (piece) => `نصائح التنسيق: ${piece}`,
+  },
 };
 
 export function getStylingCopy(locale: Locale): StylingCopy {
