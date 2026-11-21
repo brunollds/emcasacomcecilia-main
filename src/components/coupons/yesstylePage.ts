@@ -174,17 +174,20 @@ export function resolveYesStylePage(
     : getLatestYesStyleVerifiedAtISO();
 
   const formattedDate = formatIsoDateUTC(latestVerifiedAtISO, page.language);
+  // O Intl do árabe cerca o número de marcas de direção (U+200E, U+200F, U+061C), que vão parar no texto copiado e
+  // no snippet; a página já isola número e código pela direção do bloco.
+  const stripBidiMarks = (text: string) => text.replace(/[\u200e\u200f\u061c]/g, '');
   const formatPercent = (value: number) =>
-    new Intl.NumberFormat(page.language, { style: 'percent' }).format(value / 100);
+    stripBidiMarks(new Intl.NumberFormat(page.language, { style: 'percent' }).format(value / 100));
   // O valor leva o código da moeda (USD 79): com o "$" sozinho, quem está no Canadá ou na Austrália
   // pode ler como a moeda local.
   const formatMoney = (value: number, currency: string) =>
-    new Intl.NumberFormat(page.language, {
+    stripBidiMarks(new Intl.NumberFormat(page.language, {
       style: 'currency',
       currency,
       currencyDisplay: 'code',
       trailingZeroDisplay: 'stripIfInteger',
-    }).format(value);
+    }).format(value));
   const regionNames = new Intl.DisplayNames([page.language], { type: 'region' });
   const formatList = new Intl.ListFormat(page.language, { type: 'conjunction' });
 

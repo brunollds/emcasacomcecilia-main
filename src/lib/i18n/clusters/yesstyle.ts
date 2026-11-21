@@ -110,6 +110,15 @@ const yesStyleCluster = {
         { key: 'kbeauty', slug: 'yesstyle-kbeauty-guide-zh-hans', path: '/zh-hans/reviews/yesstyle-kbeauty-guide-zh-hans' },
       ],
     },
+    ar: {
+      hubPath: '/ar/coupons/yesstyle',
+      articles: [
+        { key: 'reward', slug: 'yesstyle-reward-code-cecilia010-ar', path: '/ar/reviews/yesstyle-reward-code-cecilia010-ar' },
+        { key: 'guide', slug: 'yesstyle-valid-coupon-guide-ar', path: '/ar/reviews/yesstyle-valid-coupon-guide-ar' },
+        { key: 'trust', slug: 'yesstyle-trust-guide-ar', path: '/ar/reviews/yesstyle-trust-guide-ar' },
+        { key: 'kbeauty', slug: 'yesstyle-kbeauty-guide-ar', path: '/ar/reviews/yesstyle-kbeauty-guide-ar' },
+      ],
+    },
   },
 } satisfies Cluster & { locales: Record<Locale, ClusterLocaleConfig> };
 
