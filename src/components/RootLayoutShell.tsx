@@ -62,6 +62,8 @@ const notoSansArabic = localFont({
   weight: '100 900',
   display: 'swap',
   preload: false,
+  // Sem o reserva gerado (Arial com size-adjust): ele cobriria todo o texto, o latino inclusive, à frente da Montserrat.
+  adjustFontFallback: false,
   declarations: [
     {
       prop: 'unicode-range',
