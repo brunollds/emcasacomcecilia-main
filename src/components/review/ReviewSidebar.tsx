@@ -274,7 +274,7 @@ export function ReviewSidebar({
                   <ArrowRight
                     aria-hidden="true"
                     size={14}
-                    className="mt-[3px] shrink-0 motion-safe:transition-transform motion-safe:group-hover:translate-x-0.5"
+                    className="mt-[3px] shrink-0 motion-safe:transition-transform motion-safe:group-hover:translate-x-0.5 rtl:-scale-x-100 rtl:motion-safe:group-hover:-translate-x-0.5"
                   />
                   {article.title}
                 </Link>

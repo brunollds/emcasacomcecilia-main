@@ -95,7 +95,7 @@ export function ReviewVerdictCard({ review, kind }: ReviewVerdictCardProps): Rea
       {(hasVerdict || hasRating) && (
         <div className="relative overflow-hidden rounded-2xl border-2 border-marinho bg-white text-marinho">
           {showSeal && (
-            <span className="absolute top-3 right-3 z-10 max-w-[150px] -rotate-3 rounded-full border-2 border-marinho bg-amarelo-cupom px-3 py-1 text-center text-xs leading-tight font-extrabold print:hidden sm:top-4 sm:right-4 sm:max-w-none">
+            <span className="absolute top-3 end-3 z-10 max-w-[150px] -rotate-3 rounded-full border-2 border-marinho bg-amarelo-cupom px-3 py-1 text-center text-xs leading-tight font-extrabold print:hidden sm:top-4 sm:end-4 sm:max-w-none">
               {copy.approvedSeal}
             </span>
           )}
