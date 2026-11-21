@@ -39,6 +39,14 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - Avaliações públicas com nota, número e fonte; tabela de medidas; composição; política de troca.
 - Contador e faixa de urgência do site são estratégia de marketing, não data de fim de promoção.
 
+### Cobrir o tema inteiro e não enfraquecer o CTA (lição da L17, 21/11/2026)
+A L17 (`lets-eat-it-loja-fisica-endereco`) saiu melhor que a da concorrente, mas fraca: o briefing resumiu a página da Casa Let's "pelo texto da página" em três ambientes, deixou de fora o pet-friendly, o concierge, o e-mail da Casa e as marcas fora do desconto presencial, e deu ao desconto da loja física um capítulo próprio. O artigo acabou destacando o canal que concorre com o nosso link e escondendo onde o site com o código ganha. Daqui em diante:
+- **Inventário da fonte oficial.** A página que é o tema do artigo (loja física, programa, produto, política) é lida inteira: abas, acordeões, FAQ e rodapé. O briefing traz a lista de **todos** os fatos dela, marcando o que entra e o que fica de fora e por quê. Nada de "pelo texto da página" seguido de um resumo. "A página não diz X" só depois de buscar X no texto inteiro.
+- **O CTA é o nosso canal.** O artigo leva ao link de afiliado e ao código. Canal que concorre com ele (loja física, desconto presencial, cupom ou programa da própria loja, app com condição própria, marketplace sem afiliado) aparece **uma vez**, no comparativo, com as travas que a fonte dá (exclusões, seleção, região, horário). Nunca na resposta rápida, no subtítulo, no título de capítulo, num quadro ou numa imagem.
+- **Onde o nosso canal ganha, com fato.** O briefing lista, com a fonte, o que o site com o código tem e o outro canal não: marcas ou itens excluídos lá, acúmulo do código com promoção, pré-venda e Pix, catálogo completo, entrega no país. Essa lista vira a tabela de comparação e o quadro `decision`.
+- **Justiça continua.** Se o outro canal ganha num cenário real (ver a peça antes, montar a mesa com a equipe), o texto diz, no comparativo e no `decision`, sem virar manchete.
+- **Revisão do briefing escrito por subagente.** Conferir formato não basta: abrir a fonte de novo e procurar o que ficou de fora, fato por fato.
+
 ### Preço
 - A data da leitura fica no briefing e, no artigo, uma vez, na legenda da tabela de preço; o `editorialNote` não leva data (REGRAS-GLOBAIS, seção 7). A releitura no dia de publicar continua.
 - Só o preço de venda do dia. Não calcular "X% OFF" sobre o preço riscado: há catálogo que marca quase tudo como promoção.
