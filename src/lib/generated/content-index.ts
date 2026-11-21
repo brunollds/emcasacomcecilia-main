@@ -310834,8 +310834,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Casa Let’s fica na Avenida Pacaembu, 1105, em São Paulo. Veja endereço, horário, desconto no caixa e como usar o MAUAD nas compras pelo site da Let’s Eat It.",
-    "metaDescription": "MAUAD dá 5% no site da Let’s Eat It. Veja o endereço da Casa Let’s, os horários e o desconto próprio para compras presenciais em São Paulo.",
+    "description": "A Casa Let’s fica na Avenida Pacaembu, 1105, em São Paulo, com ambientes decorados e uma seleção que muda. Veja horários, o que tem lá e quando compensa comprar no site.",
+    "metaDescription": "No site da Let’s Eat It, o MAUAD dá 5% OFF no catálogo todo. Veja o endereço e os horários da Casa Let’s, em São Paulo, e onde compensa comprar.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
     "draft": false,
@@ -310848,20 +310848,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Casa Let’s fica na Avenida Pacaembu, 1105, em São Paulo. Aos sábados, o horário publicado é das 10h às 14h. A loja anuncia desconto próprio no caixa. O cupom MAUAD dá 5% nas compras pelo site. O pedido online é entregue no endereço informado."
+          "Sim. A Casa Let’s fica na Avenida Pacaembu, 1105, em São Paulo, e abre de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h. Ela expõe uma seleção que muda, sem o catálogo inteiro do site e sem retirada de pedido online. Para o catálogo completo com entrega, o MAUAD dá 5% no site."
         ]
       },
       {
-        "heading": "Onde fica a Casa Let's",
+        "heading": "Onde fica a Casa Let’s e como falar com ela",
         "paragraphs": [
-          "A Casa Let’s fica na Avenida Pacaembu, 1105, bairro Pacaembu, São Paulo (SP), CEP 01234-001. Veja o mapa da [página oficial da Casa Let’s](https://letseatit.com.br/pages/casa-lets).",
-          "Para falar com a Casa, a página dela traz um WhatsApp próprio, o (11) 97488-2876. É por ele que a loja manda perguntar se um produto está lá antes de você ir."
-        ]
-      },
-      {
-        "heading": "Horário de funcionamento",
-        "paragraphs": [
-          "Este é o horário que a página da Casa informa. Ele é da loja física e não vale para o atendimento do site, que tem horário próprio."
+          "A Casa Let’s fica na Avenida Pacaembu, 1105, no bairro do Pacaembu, em São Paulo (SP), CEP 01234-001. O mapa está na [página oficial da Casa Let’s](https://letseatit.com.br/pages/casa-lets).",
+          "Os contatos da Casa são o WhatsApp (11) 97488-2876 e o e-mail casa@letseatit.com.br. O link de WhatsApp das perguntas frequentes da mesma página leva a outro número, o (11) 96570-0375, que é o do atendimento do site. Para saber se uma peça está exposta, use o da Casa.",
+          "A página não diz se há estacionamento no local. Se for de carro, pergunte antes pelo WhatsApp."
         ],
         "comparisonTable": {
           "headers": [
@@ -310886,93 +310881,99 @@ export const reviewsData: unknown[] = [
               "Fechado"
             ]
           ],
-          "caption": "Horário informado pela Casa Let's. A página não traz calendário de feriados."
+          "caption": "Horário informado pela Casa Let’s. A página não traz o calendário de feriados."
         },
         "postParagraphs": [
-          "Como a página não lista os feriados, confirme pelo WhatsApp da Casa antes de ir, principalmente perto de datas como o Natal."
+          "Esse horário é da loja física. Perto de feriados, confirme pelo WhatsApp da Casa antes de sair."
         ]
       },
       {
-        "heading": "O que dá para fazer na Casa Let's",
+        "heading": "O que tem na Casa Let’s",
         "paragraphs": [
-          "Pelo que a página descreve, a Casa é um espaço de ambientes decorados, com sala, cozinha e mesa posta, onde dá para ver a curadoria da loja montada antes de levar. A loja fala em montar a mesa com a equipe e em atendimento dedicado. Também informa que recebe quem chega com café e espumante.",
-          "A visita não precisa de hora marcada. A página diz que o agendamento \"não é obrigatório\" e que você pode passar em qualquer horário de funcionamento. Se quiser ver uma peça específica, o caminho é o WhatsApp da Casa."
+          "A página descreve a Casa como ambientes decorados, cada um montado como cena para você imaginar em casa:"
+        ],
+        "bullets": [
+          "Mesa posta: louças, linhos, cristais e flores. A equipe monta a composição com você antes de levar.",
+          "Sala e cozinha: panelas, utensílios e acessórios de cozinha arrumados como cenário.",
+          "Quarto: roupa de cama, enxoval e perfume de ambiente.",
+          "Banho e ritual: aromas e óleos para experimentar na pele.",
+          "Recepção: café fresco, espumante gelado, água e um canto para sentar."
+        ],
+        "postParagraphs": [
+          "Não precisa agendar: a página diz que você pode passar em qualquer horário de funcionamento. A Casa aceita pet, com água fresca e um cantinho para ele descansar. A loja também oferece o Concierge Let’s Eat It, um serviço de compras com atendimento de consultoras de vendas.",
+          "As massagens do spa não são abertas ao público geral. A página diz que elas ficam para clientes selecionados e convidados da Casa."
         ]
       },
       {
-        "heading": "O que não dá para fazer",
+        "heading": "Uma seleção que muda: por que a Casa não tem tudo do site",
         "paragraphs": [
-          "Retirar pedido do site. A política de frete diz que, no momento, não é possível retirar pedidos na Casa Let's e que todos os pedidos são enviados para o endereço informado.",
-          "Contar com todos os produtos do site. A própria página diz que a Casa não é a versão física da loja online e que a seleção rotaciona; à pergunta se os produtos do site estão todos lá, a resposta é \"não\". Para ver se um item está na Casa, pergunte no WhatsApp.",
-          "Marcar massagem como cliente comum. A página diz que as massagens não são abertas ao público geral e ficam para clientes selecionados e convidados."
+          "A pergunta “os produtos do site estão todos na Casa?” tem resposta na própria página: não. A Casa trabalha com uma seleção que, segundo a loja, rotaciona toda semana. A ideia é que cada visita mostre peças diferentes.",
+          "Isso serve para quem quer sentir textura, ver cores juntas e montar uma mesa com a equipe. Para quem já sabe o que quer, como uma panela Le Creuset numa cor e num tamanho, um aparelho de jantar completo ou um jogo de toalhas, a visita pode não ter a peça. Antes de ir, mande o nome do produto ao WhatsApp da Casa.",
+          "Também não dá para comprar no site e buscar na Casa. A política de frete diz que, no momento, não é possível retirar pedidos lá: tudo é enviado ao endereço do pedido."
         ]
       },
       {
-        "heading": "Casa Let’s ou site: onde vale o desconto",
+        "heading": "Casa Let’s ou site: onde compensa comprar",
         "paragraphs": [
-          "Se for comprar na Casa Let’s, a equipe aplica a condição presencial no caixa. A página anuncia 15% para compras na Casa, com exceção de Le Creuset e Trussardi. O MAUAD vale apenas no site.",
-          "Se for comprar online, digite MAUAD no campo Código de desconto e confira os 5% no resumo do pedido. Compare o preço final da peça e o frete com o valor que a equipe informar na Casa."
+          "Na maioria das compras, o site resolve mais. Ele tem o catálogo inteiro, entrega no endereço do pedido e aceita o MAUAD, que dá 5% e soma com as promoções do site, com a pré-venda e com o desconto de 5% que muitos produtos têm no Pix.",
+          "Le Creuset e Trussardi pesam nessa conta. A Casa deixa as duas marcas fora do desconto que dá no caixa. No site, o MAUAD vale no catálogo; no nosso teste de 18/11, ele entrou numa panela Le Creuset em pré-venda, como mostra o print abaixo."
         ],
         "comparisonTable": {
-          "caption": "Condições por canal na Let’s Eat It. Confirme o total antes de pagar.",
+          "caption": "Condições informadas pela Let’s Eat It no site e na página da Casa. Confira o total antes de pagar.",
           "headers": [
             "O que comparar",
-            "Casa Let’s",
-            "Site da Let’s Eat It"
+            "Site da Let’s Eat It",
+            "Casa Let’s"
           ],
           "rows": [
             [
+              "Variedade",
+              "Catálogo completo, com cores, tamanhos e jogos",
+              "Seleção exposta que muda; confirme a peça pelo WhatsApp"
+            ],
+            [
+              "Le Creuset e Trussardi",
+              "Entram no MAUAD, que vale no site todo",
+              "Fora do desconto da Casa"
+            ],
+            [
               "Desconto",
-              "15% anunciados para compra presencial, exceto Le Creuset e Trussardi",
-              "5% com MAUAD no checkout"
-            ],
-            [
-              "Como aplicar",
-              "A equipe aplica o desconto no caixa",
-              "Digite MAUAD no campo Código de desconto"
-            ],
-            [
-              "O cupom MAUAD funciona?",
-              "Cupom exclusivo do site",
-              "Sim, em compra online"
+              "MAUAD, 5%, soma com promoções, pré-venda e Pix",
+              "15% no caixa, só no que está exposto e fora as duas marcas"
             ],
             [
               "Recebimento",
-              "Para comprar na Casa, confirme se a peça está lá",
-              "Entrega no endereço do pedido. Sem retirada na Casa"
+              "Entrega no endereço do pedido",
+              "Leva na hora; não retira pedido do site"
+            ],
+            [
+              "Experiência",
+              "Compra a qualquer hora, com fotos e ficha",
+              "Mesa posta com a equipe, aromas, café e pet bem-vindo"
             ]
           ]
         },
         "images": [
           {
-            "src": "/images/reviews/letseatit/lets-eat-it-loja-fisica-endereco-quadro-loja-site.webp",
-            "alt": "Desconto por canal. A Casa Let’s anuncia 15% no caixa, exceto Le Creuset e Trussardi. No site, há cupom de 5% no checkout e entrega no endereço do pedido.",
-            "caption": "Quadro editorial com as condições divulgadas pela Let’s Eat It.",
+            "src": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
+            "alt": "Checkout do site da Let’s Eat It com uma panela Le Creuset Signature em pré-venda e um jogo de xícaras Wolff no carrinho, o MAUAD aplicado e a linha Desconto no pedido",
+            "caption": "O MAUAD aplicado no checkout do site, com uma panela Le Creuset em pré-venda no carrinho. Print: Em Casa com Cecília.",
             "objectFit": "contain",
-            "aspectRatio": 1.2195121951219512
+            "aspectRatio": 1
           }
         ],
-        "links": [
-          {
-            "label": "Ver as regras do cupom da Let’s Eat It no site",
-            "href": "/cupons/letseatit"
-          }
-        ]
-      },
-      {
-        "heading": "Pedido do site e a loja física",
-        "paragraphs": [
-          "O site entrega o pedido no endereço informado. Se a ideia é ver uma peça antes de comprar, mande o nome dela para o WhatsApp da Casa: a seleção presencial muda. Para as políticas de entrega e troca, veja [Let’s Eat It é boa?](/reviews/lets-eat-it-e-boa)."
+        "postParagraphs": [
+          "Para comprar no site, digite MAUAD no campo Código de desconto e confira a linha do desconto no resumo antes de pagar. As regras do código estão no [cupom Let’s Eat It](/cupons/letseatit), e o passo a passo, em [como usar o MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Let's Eat It tem loja física? Tem, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, conforme a página oficial da loja.",
-          "Dá para retirar pedido do site na loja física? Não. A política de frete diz que, no momento, não é possível retirar pedidos na Casa Let's.",
-          "Preciso agendar uma visita à Casa Let's? Não é obrigatório: a página diz que você pode passar em qualquer horário de funcionamento.",
-          "A Casa Let's tem todos os produtos do site? Não. A página diz que a Casa não é a versão física do site e que a seleção rotaciona; para confirmar um item, chame no WhatsApp da Casa.",
-          "O cupom MAUAD vale na loja física? O MAUAD dá 5% apenas no site da Let’s Eat It. A Casa Let’s anuncia 15% de desconto próprio no caixa, exceto em Le Creuset e Trussardi."
+          "A Let's Eat It tem loja física e onde fica? Tem, a Casa Let’s, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h; a página não informa estacionamento.",
+          "A Casa Let's tem todos os produtos do site? Não. A seleção da Casa muda, e o catálogo completo fica no site; para saber se uma peça está exposta, chame o WhatsApp da Casa.",
+          "Dá para retirar pedido do site na Casa Let's? Não. A política de frete diz que, no momento, os pedidos do site são enviados ao endereço informado.",
+          "Vale mais a pena comprar na Casa Let's ou no site? Para ver acabamentos e montar uma mesa com a equipe, a Casa ajuda. Para variedade, Le Creuset, Trussardi e o MAUAD somado a promoções e ao Pix, o site compensa mais.",
+          "O cupom MAUAD vale na loja física da Let's Eat It? Não. O MAUAD vale só no site, onde dá 5%; a Casa tem um desconto próprio no caixa, que deixa de fora Le Creuset e Trussardi."
         ]
       }
     ],
@@ -310980,13 +310981,13 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você vai a São Paulo e quer ver a mesa posta e a curadoria da loja montadas antes de comprar.",
-        "Você quer passar sem hora marcada, dentro do horário que a Casa informa."
+        "Você está em São Paulo e quer ver texturas, toalhas e uma mesa posta montada com a equipe antes de comprar.",
+        "Você topa perguntar antes pelo WhatsApp se a peça que procura está exposta."
       ],
       "skipIf": [
-        "Você mora fora de São Paulo e conta com a visita para ver o produto.",
-        "Você quer retirar na Casa um pedido feito no site: a página diz que não é possível.",
-        "Você precisa de um item específico e não perguntou antes: a seleção da Casa muda."
+        "Você quer Le Creuset ou Trussardi com desconto: a Casa deixa as duas fora do dela, e no site o MAUAD vale no catálogo todo.",
+        "Você precisa de uma peça, cor ou jogo específico, ou quer somar o cupom com promoções e Pix.",
+        "Você mora fora de São Paulo ou queria retirar na Casa um pedido do site."
       ]
     },
     "cta": {
