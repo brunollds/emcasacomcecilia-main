@@ -1,0 +1,387 @@
+{
+  "id": 1248,
+  "slug": "shein-vs-aliexpress-ar",
+  "locale": "ar",
+  "translationKey": "shein-vs-aliexpress",
+  "title": "SHEIN أم AliExpress: كيف تختار (الشحن ومدة التسليم والإرجاع وضريبة الاستيراد)",
+  "seoTitle": "SHEIN أم AliExpress: أيهما تختار؟",
+  "type": "مقارنة",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "SHEIN وAliExpress جنبًا إلى جنب في المملكة المتحدة: الشحن ومدة التسليم والإرجاع وضريبة الاستيراد كما ينشرها كل متجر، وما تتحقق منه في كل قائمة قبل الدفع.",
+  "metaDescription": "رمز 4CW5Y يمنح خصمًا على عروض مختارة من SHEIN. SHEIN أم AliExpress في المملكة المتحدة: الشحن والإرجاع والضريبة جنبًا إلى جنب، وما تتحقق منه.",
+  "publishedAt": "21 نوفمبر 2026",
+  "publishedAtISO": "2026-11-21",
+  "updatedAt": "2026-11-21",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/shein-ou-aliexpress-capa-en.webp",
+  "imageAlt": "أربع قطع في صور المتجرين: فستان أسود مضلّع وقميص مخطط من AliExpress، وفستان كريمي من الحياكة وقميص مخطط من SHEIN، بجانب السؤال: SHEIN أم AliExpress؟",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "اختر AliExpress إذا كانت القطعة التي تريدها تُباع هناك وتُظهر صفحتها إرجاعًا مجانيًا وموعد تسليم متوقعًا يناسبك."
+    ],
+    "skipIf": [
+      "تجنب AliExpress إذا كانت القائمة تترك مهلة الإرجاع أو تكلفته أو عنوانه غير واضحة وكنت تحتاج إلى إرجاع القطعة إن لم تناسبك."
+    ]
+  },
+  "affiliate": [
+    "shein",
+    "aliexpress"
+  ],
+  "editorialNote": "هذا المقال تحريري. قد نحصل على عمولة على روابط SHEIN وAliExpress. لم يستخدم أحد من الفريق القطع المعروضة.",
+  "relatedArticles": [
+    {
+      "slug": "shein-vs-temu-ar"
+    },
+    {
+      "slug": "shein-trust-guide-ar"
+    },
+    {
+      "slug": "shein-referral-code-ar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "الإجابة السريعة",
+      "paragraphs": [
+        "في المملكة المتحدة، تقبل SHEIN إرجاع معظم المنتجات المؤهلة خلال 30 يومًا من الاستلام، إلى جانب الحقوق القانونية. أما AliExpress فتعرض مهلًا مختلفة للإرجاع بحسب البائع والقائمة؛ قارن المهلة وتكلفة الإرجاع وموعد التسليم المقدَّر لمشترياتك. وفي SHEIN، ابحث عن رمز الإحالة 4CW5Y في التطبيق أو على الموقع للحصول على خصم على عروض مختارة."
+      ]
+    },
+    {
+      "heading": "SHEIN وAliExpress جنبًا إلى جنب في المملكة المتحدة",
+      "image": {
+        "src": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+        "alt": "الصفحة الرئيسية لموقع SHEIN في المملكة المتحدة (shein.co.uk) تعرض حملة اليوم",
+        "caption": "الصفحة الرئيسية لموقع SHEIN في المملكة المتحدة (shein.co.uk)، مع حملة اليوم.",
+        "objectFit": "contain"
+      },
+      "paragraphs": [
+        "هما شركتان مختلفتان. [SHEIN](https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20) تصف نفسها بأنها متجر تجزئة للأزياء ونمط الحياة، تأسست عام 2012، وتبيع ملابس بعلامتها الخاصة ومنتجات من شبكة موردين. و[AliExpress](https://s.click.aliexpress.com/e/_c37RSyBR) هو السوق الدولي لمجموعة علي بابا: تُعرض كل قطعة من بائع له شحنه ومدة تسليمه وشروط إرجاعه."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "المعيار",
+          "SHEIN",
+          "AliExpress"
+        ],
+        "rows": [
+          [
+            "الشحن",
+            "عادي: £3 لما دون £39، ومجاني ابتداءً من £39. سريع: £9",
+            "يحدده كل عرض؛ مجاني في القطعة التي فتحناها"
+          ],
+          [
+            "مدة التسليم المنشورة",
+            "عادي: من 5 إلى 8 أيام عمل",
+            "توقع كل عرض، مع عدد الأيام التي يُضمن بعدها استرداد المبلغ إذا لم يصل الطرد (35 يومًا في القطعة التي فتحناها)"
+          ],
+          [
+            "الإرجاع",
+            "14 يومًا بحكم القانون من الاستلام؛ ومعظم المنتجات حتى 30 يومًا بعد الاستلام بحسب سياسة SHEIN؛ والإرجاع الأول في كل طلب مجاني، ثم يُخصم £2.50 من المبلغ المسترد",
+            "من الشراء حتى 15 يومًا بعد التسليم مع بائع محلي؛ و90 يومًا من الطلب مع بائع في الخارج؛ وإرجاع مجاني في القطعة التي فتحناها لمدة 90 يومًا"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "في SHEIN، يعرض الجدول ما ينشره المتجر للمملكة المتحدة. وفي AliExpress، يعرض الجدول سياسة الإرجاع في المملكة المتحدة وما أظهرته صفحة قطعة واحدة في 17 نوفمبر 2026: فالشحن والتوقع ومدة الإرجاع المجاني تخص تلك القائمة، وقد تختلف قائمة أخرى. ومن دون فحص المنتجات لوجهة واحدة، لا يمكننا القول أيهما يصل أولًا. قارن التقديرات لطلبك؛ فأمثلة AliExpress في هذا الجدول لا تضمن شروط القطع النموذجية أدناه."
+      ]
+    },
+    {
+      "heading": "ما تتحقق منه في المتجرين قبل الشراء",
+      "paragraphs": [
+        "في AliExpress الشروط هي شروط القائمة، وتعرض صفحة المنتج كلًّا منها قبل الدفع. وفي SHEIN يتبع الشحن والإرجاع سياسة المتجر، وملابس اللانجري والملابس الداخلية ومجوهرات الزينة لا تُرجع إلا خلال الأيام الـ14. قبل الشراء، تحقق من:"
+      ],
+      "bullets": [
+        "**من يبيع القطعة:** في AliExpress اسم متجر البائع وتقييماته؛ وفي SHEIN تعرض صفحة المنتج أيضًا من يبيع والتقييمات.",
+        "**الشحن وموعد التسليم المتوقع**، وهما في AliExpress يتغيران بحسب القائمة ومكان شحن القطعة.",
+        "**تاريخ استرداد المبلغ المضمون** في AliExpress: إذا لم يصل الطرد بحلوله، يمكنك طلب استرداد المبلغ كاملًا.",
+        "**هل للقطعة إرجاع مجاني** ولكم يومًا. وبدونه، يتحمل المشتري تكلفة الإرجاع لتغيير الرأي في AliExpress.",
+        "**الإجمالي**، مع الشحن وأي ضرائب، في نهاية الدفع في كل متجر، وأن يكون اسمك وعنوانك صحيحين في الطلب."
+      ],
+      "postParagraphs": [
+        "لمعرفة من يدير SHEIN وما الذي يؤثر في سمعتها، اقرأ [هل SHEIN موثوقة وآمنة؟](/ar/reviews/shein-trust-guide-ar)."
+      ]
+    },
+    {
+      "heading": "ضريبة الاستيراد والجمارك",
+      "paragraphs": [
+        "تختلف ضريبة الاستيراد من بلد إلى آخر. تقول SHEIN في موقعها البريطاني إن العملاء في المملكة المتحدة لا يحتاجون إلى التعامل مع الجمارك. وتعرض صفحة AliExpress للقطعة التي فتحناها تنبيهًا بأن الطلبات من خارج الاتحاد الأوروبي قد تتحمل ضريبة القيمة المضافة ورسومًا جمركية. قبل أن تدفع، تحقق عند الدفع في كل متجر مما إذا كان الإجمالي يشمل الضرائب، وقارن هذا الرقم النهائي لا سعر القطعة وحده."
+      ]
+    },
+    {
+      "heading": "الإرجاع: قاعدة SHEIN ومهل AliExpress",
+      "bullets": [
+        "**SHEIN:** 14 يومًا بحكم القانون من الاستلام، وبحسب سياسة SHEIN معظم المنتجات حتى 30 يومًا بعد الاستلام؛ وملابس اللانجري والملابس الداخلية ومجوهرات الزينة لا تُرجع إلا خلال الأيام الـ14. الإرجاع الأول في كل طلب مجاني؛ ومن الثاني تخصم SHEIN £2.50 من المبلغ المسترد.",
+        "**AliExpress، مهلة الإرجاع:** من الشراء حتى 15 يومًا بعد التسليم مع بائع محلي، و90 يومًا من الطلب مع بائع في الخارج. وفي حال تغيير الرأي تدفع تكلفة الإرجاع، إلا إذا أعلنت صفحة المنتج إرجاعًا مجانيًا (في القطعة التي فتحناها، لمدة 90 يومًا).",
+        "**AliExpress، المعيب أو التالف أو المخالف للوصف:** يدفع البائع تكلفة الإرجاع. وإذا لم يصل الطرد بحلول تاريخ استرداد المبلغ المضمون، يمكنك طلب استرداد كامل."
+      ],
+      "postParagraphs": [
+        "في حالات الإرجاع لتغيير الرأي، تشترط السياسات التي رجعنا إليها أن تكون الملابس جديدة وغير ملبوسة وغير مغسولة وعليها بطاقتها؛ وتشترط AliExpress أيضًا ملصق النظافة. ومهلة SHEIN تسري على المنتجات التي تقبل الإرجاع؛ أما في AliExpress فالإرجاع المجاني يخص القائمة، فتحقق من الصفحة قبل الدفع."
+      ]
+    },
+    {
+      "heading": "أيهما تختار: ما الذي تزنه",
+      "paragraphs": [
+        "تقبل SHEIN إرجاع معظم المنتجات المؤهلة خلال 30 يومًا من الاستلام. وتذكر AliExpress 15 يومًا بعد التسليم للبائعين المحليين و90 يومًا من الطلب للبائعين في الخارج، بينما تختلف شروط الإرجاع المجاني بحسب القائمة. تبدأ هذه المهل من تواريخ مختلفة: تحقق من الوقت المتبقي بعد الوصول، ومن يدفع تكلفة الإرجاع، وإلى أين يُرسل. اختر بناءً على هذه الشروط وموعد التسليم المقدَّر والتكلفة النهائية."
+      ]
+    },
+    {
+      "heading": "ماذا يبيع كل منهما: عيّنة",
+      "paragraphs": [
+        "اخترنا قطعتين متشابهتين، واحدة من كل متجر، في ثماني فئات من الملابس والإكسسوارات. إنهما قطعتان مختلفتان من الفئة نفسها: تُظهر العيّنة نوع القطع الذي تجده في كل متجر، دون مقارنة السعر أو الجودة."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-pijama.webp",
+          "alt": "عارضة ترتدي توب بيجامة أحمر بحمالات رفيعة وشورت بدانتيل عند خط العنق، في صورة من AliExpress",
+          "caption": "AliExpress: توب بيجامة بحمالات رفيعة وشورت، بدانتيل عند خط العنق",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2IwOmpF",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-pijama.webp",
+          "alt": "عارضة ترتدي طقم بيجامة وردي من توب بحمالات وشورت بطبعة قلوب حمراء، في صورة من SHEIN",
+          "caption": "SHEIN: بيجامة توب وشورت بطبعة قلوب.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camisa-listrada.webp",
+          "alt": "عارضة ترتدي قميصًا بأكمام طويلة وخطوط زرقاء وبيضاء، بأكمام مطوية وجيب على الصدر، في صورة من AliExpress",
+          "caption": "AliExpress: قميص مخطط بأكمام طويلة وجيب",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ztzRzr",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camisa-listrada.webp",
+          "alt": "عارضة ترتدي قميصًا بأكمام طويلة وخطوط زرقاء فاتحة بقصّة أوسع، في صورة من SHEIN",
+          "caption": "SHEIN: قميص مخطط بأكمام طويلة، بقصّة أوسع.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-camiseta.webp",
+          "alt": "عارضة ترتدي بلوزة ساتان كحلية بأكمام قصيرة مطوية وياقة مستديرة، في صورة من AliExpress",
+          "caption": "AliExpress: بلوزة ساتان بأكمام قصيرة، بقصّة أوسع",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c2ulsYCh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-camiseta.webp",
+          "alt": "عارضة ترتدي تيشيرت أبيض بياقة V وبنطال جينز، في صورة من SHEIN",
+          "caption": "SHEIN: تيشيرت قطني أبيض بياقة V.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-vestido.webp",
+          "alt": "عارضة ترتدي فستانًا أسود قصيرًا مضلّعًا بياقة عالية وأكمام طويلة، في صورة من AliExpress",
+          "caption": "AliExpress: فستان قصير مضلّع بياقة عالية وأكمام طويلة",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4NO4eSN",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-vestido.webp",
+          "alt": "عارضة ترتدي فستانًا كريميًا بأكمام قصيرة من الحياكة المضلّعة، في صورة من SHEIN",
+          "caption": "SHEIN: فستان كريمي من الحياكة بأكمام قصيرة.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-bolsa.webp",
+          "alt": "حقيبة كتف سوداء مبطّنة بحزام قماشي وسلسلة ذهبية على الجانب، في صورة من AliExpress",
+          "caption": "AliExpress: حقيبة كتف مبطّنة بسلسلة ذهبية",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4l4snAh",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-bolsa.webp",
+          "alt": "حقيبة كتف بنية داكنة من خامة صناعية ناعمة، على كتف عارضة، في صورة من SHEIN",
+          "caption": "SHEIN: حقيبة كتف من خامة صناعية ناعمة.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-legging.webp",
+          "alt": "عارضة ترتدي ليغنز أزرق بلا خياطة بخصر متقاطع، في صورة من AliExpress",
+          "caption": "AliExpress: ليغنز بلا خياطة بخصر متقاطع",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c39SAC9x",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-legging.webp",
+          "alt": "عارضة جالسة ترتدي ليغنز بلا خياطة بلون رمادي مائل إلى الأزرق، في صورة من SHEIN",
+          "caption": "SHEIN: ليغنز بلا خياطة.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-jeans.webp",
+          "alt": "عارضة ترتدي جينز واسع الساقين قصيرًا بتمزقات وحافة غير مخيطة، في صورة من AliExpress",
+          "caption": "AliExpress: جينز واسع الساقين قصير، بتمزقات",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c3LfJg8p",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-jeans.webp",
+          "alt": "عارضة ترتدي جينز واسع الساقين بلون أزرق فاتح، في صورة من SHEIN",
+          "caption": "SHEIN: جينز واسع الساقين.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C",
+          "store": "shein"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-aliexpress-calcado.webp",
+          "alt": "حذاء رياضي بني وكريمي بثلاثة أحزمة مطاطية وإغلاق بالفيلكرو، في صورة من AliExpress",
+          "caption": "AliExpress: حذاء رياضي بأحزمة مطاطية وإغلاق بالفيلكرو",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://s.click.aliexpress.com/e/_c4qgkqgv",
+          "store": "aliexpress"
+        },
+        {
+          "src": "/images/reviews/shein/amostra-shein-calcado.webp",
+          "alt": "زوج من الأحذية المسطحة السوداء بمقدمة مدببة على قطعة قماش بيضاء، في صورة من SHEIN",
+          "caption": "SHEIN: حذاء مسطح بمقدمة مدببة.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C",
+          "store": "shein"
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "الفئة",
+          "AliExpress",
+          "SHEIN"
+        ],
+        "rows": [
+          [
+            "البيجامات",
+            "[توب بيجامة بحمالات رفيعة وشورت، بدانتيل عند خط العنق](https://s.click.aliexpress.com/e/_c2IwOmpF)",
+            "[بيجامة توب وشورت مخطط بقلوب](https://onelink.shein.com/61/68i3kz52zlzg?ismg_ol=83mgXIVH95t_01_KOC-C)"
+          ],
+          [
+            "القميص",
+            "[قميص مخطط بأكمام طويلة وجيب](https://s.click.aliexpress.com/e/_c2ztzRzr)",
+            "[قميص مخطط بأكمام طويلة، بقصّة أوسع](https://onelink.shein.com/61/68i3u6m9wtu3?ismg_ol=58e5BDlnA6a_01_KOC-C)"
+          ],
+          [
+            "البلوزات",
+            "[بلوزة ساتان بأكمام قصيرة، بقصّة أوسع](https://s.click.aliexpress.com/e/_c2ulsYCh)",
+            "[تيشيرت قطني أبيض بياقة V](https://onelink.shein.com/61/68i3xmx80ad6?ismg_ol=BOTPrRk4DU2_01_KOC-C)"
+          ],
+          [
+            "الفستان",
+            "[فستان قصير مضلّع بياقة عالية وأكمام طويلة](https://s.click.aliexpress.com/e/_c4NO4eSN)",
+            "[فستان كريمي من الحياكة بأكمام قصيرة](https://onelink.shein.com/61/68i46kj8u9on?ismg_ol=DEZeqQsjVHL_01_KOC-C)"
+          ],
+          [
+            "الحقيبة",
+            "[حقيبة كتف مبطّنة بسلسلة ذهبية](https://s.click.aliexpress.com/e/_c4l4snAh)",
+            "[حقيبة كتف من خامة صناعية ناعمة](https://onelink.shein.com/61/68i49f4v4koy?ismg_ol=I2PjNFbarVy_01_KOC-C)"
+          ],
+          [
+            "ملابس رياضية",
+            "[ليغنز بلا خياطة بخصر متقاطع](https://s.click.aliexpress.com/e/_c39SAC9x)",
+            "[ليغنز بلا خياطة](https://onelink.shein.com/61/68i4gpjyof53?ismg_ol=78WNClCInlx_01_KOC-C)"
+          ],
+          [
+            "الجينز",
+            "[جينز واسع الساقين قصير، بتمزقات](https://s.click.aliexpress.com/e/_c3LfJg8p)",
+            "[جينز واسع الساقين](https://onelink.shein.com/61/68i4kbs0n03i?ismg_ol=Hph7L1VBC3A_01_KOC-C)"
+          ],
+          [
+            "الأحذية",
+            "[حذاء رياضي بأحزمة مطاطية وإغلاق بالفيلكرو](https://s.click.aliexpress.com/e/_c4qgkqgv)",
+            "[حذاء مسطح بمقدمة مدببة](https://onelink.shein.com/61/68i4p1go7i8b?ismg_ol=CMFknDzOrhZ_01_KOC-C)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "عناوين القوائم في المتجرين طويلة ومحشوة بكلمات البحث؛ وتستخدم العيّنة اسمًا مختصرًا. القماش والقياسات واسم البائع في صفحة المنتج."
+      ]
+    },
+    {
+      "heading": "الشراكة ورمز الإحالة",
+      "paragraphs": [
+        "Cecília شريكة تسويق بالعمولة لدى SHEIN وAliExpress، وقد تحصل على عمولة على المشتريات التي تتم عبر الروابط في هذا المقال، دون أي تكلفة إضافية عليك. وهذا لا يغيّر الجواب: فالاختيار يعتمد على ما تشتريه.",
+        "4CW5Y هو رمز الإحالة الخاص بـ Cecília في SHEIN، وهو يمنحك خصمًا فعلًا على مجموعة من منتجات SHEIN وعروضها؛ أما المقدار والقطع المشمولة فتقرره SHEIN. افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو على الموقع، لا في خانة الكوبون. وليس لدى AliExpress رمز خاص بنا."
+      ],
+      "links": [
+        {
+          "label": "اطّلع على رمز الإحالة 4CW5Y وعروض SHEIN",
+          "href": "/ar/coupons/shein"
+        },
+        {
+          "label": "رمز إحالة SHEIN: أين تُدخله وكيف يعمل",
+          "href": "/ar/reviews/shein-referral-code-ar"
+        },
+        {
+          "label": "افتح AliExpress",
+          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+          "sponsored": true,
+          "store": "aliexpress"
+        },
+        {
+          "label": "SHEIN أم Temu: كيف تختار",
+          "href": "/ar/reviews/shein-vs-temu-ar"
+        },
+        {
+          "label": "كيف تعمل AliExpress: القواعد والرابط",
+          "href": "/ar/coupons/aliexpress"
+        }
+      ]
+    },
+    {
+      "heading": "الأسئلة الشائعة",
+      "bullets": [
+        "هل SHEIN وAliExpress الشيء نفسه؟ لا. تصف SHEIN نفسها بأنها متجر أزياء بعلامة خاصة، تأسس عام 2012؛ أما AliExpress فهو السوق الدولي لمجموعة علي بابا، حيث لكل بائع متجره.",
+        "أيهما أسرع وصولًا، SHEIN أم AliExpress؟ يعتمد على الطلب، وفي AliExpress على القائمة. تنشر SHEIN من 5 إلى 8 أيام عمل للتسليم العادي في المملكة المتحدة، وتعرض AliExpress توقعًا لكل قطعة. قارن بينهما قبل الدفع.",
+        "أيهما أرخص، SHEIN أم AliExpress؟ يعتمد على القطعة والبائع. ما يغيّر الإجمالي هو الشحن وضريبة الاستيراد، وفي SHEIN خصم رمز الإحالة. قارن الإجمالي في نهاية الدفع.",
+        "هل AliExpress آمنةلشراء الملابس؟ تنص سياسة AliExpress على استرداد كامل إذا لم يصل الطرد بحلول التاريخ المضمون، وتقبل إرجاع الملابس الجديدة وغير الملبوسة وعليها بطاقتها.",
+        "هل يمنح 4CW5Y خصمًا؟ نعم. هو رمز الإحالة الخاص بـ Cecília في SHEIN، ويمنح خصمًا على مجموعة من المنتجات والعروض؛ أما المقدار والقطع المشمولة فتقرره SHEIN. ابحث عن الرمز في التطبيق أو على الموقع، لا في خانة الكوبون."
+      ]
+    }
+  ]
+}

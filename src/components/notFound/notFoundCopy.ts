@@ -21,4 +21,5 @@ export const NOT_FOUND_TITLE: Record<TranslatedLocale, string> = {
   ja: 'このページは存在しません',
   'zh-hant': '這個頁面不存在',
   'zh-hans': '这个页面不存在',
+  ar: 'هذه الصفحة غير موجودة',
 };

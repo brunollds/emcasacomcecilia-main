@@ -879,12 +879,15 @@ for (const { pagePath, store } of couponStorePages) {
 // falar em usá-lo com outros cupons, o que faria dele um cupom também. A terceira regra para no fim
 // da frase: "Com outro cupom, não" logo depois do código fala do cupom da loja.
 const rewardCode = getPrimaryRewardCode().code;
-const COUPON_WORDS = 'cupom|cupons|cupón|cupones|coupons?|gutscheine?|쿠폰|クーポン|優惠碼|优惠码';
+// Em árabe: كوبون(ات), قسيمة/قسائم e كود/رمز (ال)خصم; o fim da frase também no ؟ e no ؛.
+const COUPON_WORDS =
+  'cupom|cupons|cupón|cupones|coupons?|gutscheine?|쿠폰|クーポン|優惠碼|优惠码' +
+  '|\\u0643\\u0648\\u0628\\u0648\\u0646(?:\\u0627\\u062a)?|\\u0642\\u0633\\u064a\\u0645\\u0629|\\u0642\\u0633\\u0627\\u0626\\u0645|(?:\\u0643\\u0648\\u062f|\\u0631\\u0645\\u0632) (?:\\u0627\\u0644)?\\u062e\\u0635\\u0645';
 const REWARD_CODE_AS_COUPON = new RegExp(
   [
     `(?:${COUPON_WORDS})(?: de \\S+)?[:：]? ?${rewardCode}`,
     `${rewardCode}[ -]?(?:${COUPON_WORDS})`,
-    `${rewardCode}[^.。?？!！;；]{0,60}(?:${OTHER_COUPONS})`,
+    `${rewardCode}[^.。?？!！;；\\u061f\\u061b]{0,60}(?:${OTHER_COUPONS})`,
   ].join('|'),
   'iu'
 );

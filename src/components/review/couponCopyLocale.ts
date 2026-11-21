@@ -109,6 +109,15 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     goHint: (kind) => (kind === 'reward' ? '代码已复制，粘贴到 Reward Code 栏位即可。' : '代码已复制，结账时粘贴即可。'),
     closeNotice: '关闭提示',
   },
+  ar: {
+    copy: 'نسخ',
+    copied: 'تم النسخ',
+    copyCoupon: (coupon) => `انسخ الرمز ${coupon}`,
+    copyAndGo: 'انسخ واذهب إلى المتجر',
+    copyOnly: 'انسخ الرمز فقط',
+    goHint: (kind) => (kind === 'reward' ? 'يبقى الرمز منسوخًا: الصقه فقط في حقل Reward Code.' : 'يبقى الرمز منسوخًا: الصقه فقط عند إتمام الشراء.'),
+    closeNotice: 'إغلاق التنبيه',
+  },
 };
 
 export function getCouponCopyLabels(locale: CouponCopyLocale = 'pt'): CouponCopyLabels {
@@ -118,5 +127,5 @@ export function getCouponCopyLabels(locale: CouponCopyLocale = 'pt'): CouponCopy
 
 export function isStepHeading(heading?: string): boolean {
   if (!heading) return false;
-  return /^(\d+[\.\)]\s+|(Passo|Paso|Étape|Schritt|Step|ステップ|단계|步驟|步骤)\s*\d+|\d+\s*단계)/i.test(heading);
+  return /^(\d+[\.\)]\s+|(Passo|Paso|Étape|Schritt|Step|ステップ|단계|步驟|步骤|(?:\u0627\u0644)?\u062e\u0637\u0648\u0629)\s*\d+|\d+\s*단계)/i.test(heading);
 }

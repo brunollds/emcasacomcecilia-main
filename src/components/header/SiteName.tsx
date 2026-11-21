@@ -15,7 +15,9 @@ const ACCENT = 'border-b-2 border-[#ff6b35]/80 pb-0.5 text-[#ff6b35] group-hover
 // O nome do site do header: o tamanho vem de quem usa (computador ou celular); cores e formato, sempre estes.
 export default function SiteName({ className, style }: SiteNameProps) {
   return (
+    // A marca em letras latinas fica na ordem dela também no /ar: sem dir, o inline-flex inverteria as quatro partes.
     <span
+      dir="ltr"
       className={className}
       style={{
         fontWeight: 800,

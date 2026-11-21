@@ -104,6 +104,15 @@ export const CONSENT_COPY: Record<Locale, ConsentCopy> = {
     accept: '接受',
     preferences: 'Cookie 偏好设置',
   },
+  ar: {
+    regionLabel: 'إشعار ملفات تعريف الارتباط',
+    message:
+      'نستخدم ملفات تعريف الارتباط (الكوكيز) الخاصة بـ Google Analytics وMicrosoft Clarity لفهم كيفية استخدام الموقع. لا يتم تفعيلها إلا إذا وافقت.',
+    privacyLabel: 'سياسة الخصوصية (بالبرتغالية)',
+    decline: 'رفض',
+    accept: 'قبول',
+    preferences: 'تفضيلات ملفات تعريف الارتباط',
+  },
 };
 
 export function getConsentCopy(locale: Locale): ConsentCopy {

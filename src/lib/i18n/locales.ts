@@ -1,8 +1,10 @@
-export type Locale = 'pt' | 'en' | 'es' | 'fr' | 'de' | 'it' | 'ko' | 'ja' | 'zh-hant' | 'zh-hans';
+export type Locale = 'pt' | 'en' | 'es' | 'fr' | 'de' | 'it' | 'ko' | 'ja' | 'zh-hant' | 'zh-hans' | 'ar';
 
 export interface LocaleConfig {
   locale: Locale;
   htmlLang: string;
+  // Locale passed to Intl when it differs from htmlLang (Arabic keeps the digits 0-9).
+  intlLocale?: string;
   hreflang: string;
   openGraphLocale: string;
   label: string;
@@ -22,6 +24,7 @@ export const LOCALES: Record<Locale, LocaleConfig> = {
   ja: { locale: 'ja', htmlLang: 'ja', hreflang: 'ja', openGraphLocale: 'ja_JP', label: '日本語', shortLabel: 'JP', flag: '🇯🇵', dir: 'ltr' },
   'zh-hant': { locale: 'zh-hant', htmlLang: 'zh-Hant', hreflang: 'zh-Hant', openGraphLocale: 'zh_HK', label: '繁體中文', shortLabel: 'HK', flag: '🇭🇰', dir: 'ltr' },
   'zh-hans': { locale: 'zh-hans', htmlLang: 'zh-Hans', hreflang: 'zh-Hans', openGraphLocale: 'zh_CN', label: '简体中文', shortLabel: 'CN', flag: '🇨🇳', dir: 'ltr' },
+  ar: { locale: 'ar', htmlLang: 'ar', intlLocale: 'ar-u-nu-latn', hreflang: 'ar', openGraphLocale: 'ar_AR', label: 'العربية', shortLabel: 'AR', flag: '🌐', dir: 'rtl' },
 };
 
 export const LOCALE_KEYS: Locale[] = [...RUNTIME_LOCALE_KEYS] as Locale[];
@@ -32,6 +35,11 @@ export function getLocaleConfig(localeStr: string): LocaleConfig {
     throw new Error(`[locales] Locale inválido ou não registrado: "${localeStr}"`);
   }
   return config;
+}
+
+export function getIntlLocale(locale: Locale): string {
+  const config = LOCALES[locale];
+  return config.intlLocale ?? config.htmlLang;
 }
 
 export function findLocaleByHtmlLang(htmlLang: string): Locale | null {

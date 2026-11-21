@@ -30,7 +30,7 @@ import {
 } from '@/lib/homeEvents';
 import { CECILIA_PHOTO, getStoreCode, getStoreMark, newestArticleRank, type HomeLatestArticle } from '@/lib/homeStores';
 import type { HomeStoreArticle, HomeStoreTab } from '@/lib/homeStoreTabs';
-import { LOCALES } from '@/lib/i18n/locales';
+import { LOCALES, getIntlLocale } from '@/lib/i18n/locales';
 import { SITE_URL, absoluteUrl } from '@/lib/pageSeo';
 import { getPublishedReviewsForLocale, getReviewHubPath } from '@/lib/review-hubs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
@@ -82,7 +82,7 @@ export function getLocaleHomeFacts(locale: LocaleHomeLocale, stores: LocaleHomeS
     name: CECILIA_FULL_NAME,
     since: CECILIA_SINCE,
     email: brandLinks.contactEmail,
-    stores: new Intl.ListFormat(LOCALES[locale].htmlLang, { style: 'long', type: 'conjunction' }).format(
+    stores: new Intl.ListFormat(getIntlLocale(locale), { style: 'long', type: 'conjunction' }).format(
       stores.map((store) => store.brand)
     ),
   };
@@ -147,7 +147,7 @@ export function getLocaleHomeStoreTabs(locale: LocaleHomeLocale, reviews: HubRev
 }
 
 export function getLocaleHomeLatest(locale: LocaleHomeLocale, reviews: HubReviews): HomeLatestArticle[] {
-  const dateFormat = new Intl.DateTimeFormat(LOCALES[locale].htmlLang, { dateStyle: 'medium', timeZone: 'UTC' });
+  const dateFormat = new Intl.DateTimeFormat(getIntlLocale(locale), { dateStyle: 'medium', timeZone: 'UTC' });
   return getPublishedReviewsForLocale(locale, reviews)
     .slice(0, LATEST_LIMIT)
     .map((review) => ({
@@ -159,7 +159,7 @@ export function getLocaleHomeLatest(locale: LocaleHomeLocale, reviews: HubReview
 
 function getLocaleCeciliaPanel(locale: LocaleHomeLocale, facts: ReturnType<typeof getLocaleHomeFacts>): CeciliaPanelCopy {
   const copy = getLocaleHomeCopy(locale);
-  const longDate = new Intl.DateTimeFormat(LOCALES[locale].htmlLang, { dateStyle: 'long', timeZone: 'UTC' });
+  const longDate = new Intl.DateTimeFormat(getIntlLocale(locale), { dateStyle: 'long', timeZone: 'UTC' });
   return {
     titleTop: copy.heroTitleTop,
     titleBottom: copy.heroTitleBottom,
@@ -256,7 +256,7 @@ export function getLocaleHomeEvent(
     }));
 
   const days = getCountdownDays(event.dayAt, now);
-  const dayFormat = new Intl.DateTimeFormat(LOCALES[locale].htmlLang, {
+  const dayFormat = new Intl.DateTimeFormat(getIntlLocale(locale), {
     weekday: 'long',
     month: 'long',
     day: 'numeric',

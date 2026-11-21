@@ -54,6 +54,24 @@ const kalam = localFont({
   display: 'swap',
 });
 
+// Só as páginas em árabe ligam a variável (no <html>); nas outras a família não entra em nenhuma pilha e o arquivo
+// não é baixado. O unicode-range limita o download a texto em árabe mesmo no /ar.
+const notoSansArabic = localFont({
+  src: '../fonts/noto-sans-arabic-arabic.woff2',
+  variable: '--font-arabic',
+  weight: '100 900',
+  display: 'swap',
+  preload: false,
+  // Sem o reserva gerado (Arial com size-adjust): ele cobriria todo o texto, o latino inclusive, à frente da Montserrat.
+  adjustFontFallback: false,
+  declarations: [
+    {
+      prop: 'unicode-range',
+      value: 'U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC',
+    },
+  ],
+});
+
 export function getLocaleMetadata(localeStr: string) {
   const loc = findLocaleByHtmlLang(localeStr) || 'pt';
 
@@ -125,6 +143,7 @@ export function RootLayoutShell({
     ja: 'Japanese',
     'zh-hant': 'Traditional Chinese',
     'zh-hans': 'Simplified Chinese',
+    ar: 'Arabic',
   };
 
   const contactLanguages = Array.from(new Set(['Portuguese', languageNames[loc]]));
@@ -180,7 +199,7 @@ export function RootLayoutShell({
   };
 
   return (
-    <html lang={lang} dir={LOCALES[loc].dir}>
+    <html lang={lang} dir={LOCALES[loc].dir} className={loc === 'ar' ? notoSansArabic.variable : undefined}>
       <body className={`${montserrat.variable} ${lora.variable} ${caveat.variable} ${kalam.variable} antialiased`}>
         <script
           type="application/ld+json"

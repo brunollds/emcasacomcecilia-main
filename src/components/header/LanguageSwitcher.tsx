@@ -89,16 +89,19 @@ export default function LanguageSwitcher({ localeKey, label, mobile = false }: L
                 dir={config.dir}
                 aria-current={isActive ? 'page' : undefined}
                 onClick={() => setIsLanguageOpen(false)}
-                className={`flex items-center gap-2 rounded-lg px-2.5 py-2 text-sm transition-colors ${
+                className={`block rounded-lg px-2.5 py-2 text-sm transition-colors ${
                   isActive
                     ? 'bg-white/12 font-bold text-white'
                     : 'font-medium text-white/78 hover:bg-white/8 hover:text-white'
                 }`}
               >
-                <span aria-hidden="true">{config.flag}</span>
-                <span className="min-w-0 flex-1 truncate">{config.label}</span>
-                <span className="text-[0.65rem] font-bold tracking-[0.08em] text-white/45">
-                  {config.shortLabel}
+                {/* The row follows the menu's direction, so an RTL language keeps its flag in the same column. */}
+                <span dir={activeLocale.dir} className="flex items-center gap-2">
+                  <span aria-hidden="true">{config.flag}</span>
+                  <span className="min-w-0 flex-1 truncate">{config.label}</span>
+                  <span className="text-[0.65rem] font-bold tracking-[0.08em] text-white/45">
+                    {config.shortLabel}
+                  </span>
                 </span>
               </Link>
             );

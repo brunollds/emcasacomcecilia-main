@@ -704,6 +704,67 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionSkipIf: '这些情况可以跳过',
     limitedCodeLine: (code, discount, lastDay) => `至${lastDay}：使用 ${code} 享 ${discount}`,
   },
+  ar: {
+    kindLabel: { produto: 'مراجعة منتج', guia: 'دليل', editorial: 'مقال تحريري' },
+    verdictTitle: 'رأي Cecília',
+    editorialNoteTitle: 'ملاحظة تحريرية',
+    editorialNoteClose: 'إغلاق',
+    ratingLabel: (stars) => `التقييم ${stars} من 5 نجوم`,
+    recommendation: { recomendo: '✓ أنصح به', 'com ressalvas': 'مع تحفظات', 'não recomendo': 'لا أنصح به' },
+    approvedSeal: 'معتمد من Cecília',
+    scoreTitle: 'تقييم Cecília',
+    verdictHeading: 'الحكم',
+    rated: 'التقييم',
+    strengths: 'نقاط القوة',
+    cautions: 'نقاط تستحق الانتباه',
+    finalVerdictLink: 'نسخ رابط الحكم النهائي',
+    productSheet: 'بطاقة المنتج',
+    productSheetOpen: 'فتح',
+    productSheetClose: 'إغلاق',
+    productSheetCaption: 'المواصفات التقنية للمنتج الذي تمت مراجعته',
+    productSheetLink: 'نسخ رابط بطاقة المنتج',
+    sectionLinkCopied: 'تم نسخ الرابط!',
+    relatedVideo: 'فيديو ذو صلة',
+    watchOnYoutube: 'شاهد الفيديو كاملًا على YouTube',
+    openVideoPage: 'افتح صفحة الفيديو المخصصة',
+    videoPause: 'إيقاف الفيديو مؤقتًا',
+    videoPlay: 'تشغيل الفيديو',
+    videoUnsupported: 'متصفحك لا يدعم الفيديو.',
+    demoVideo: (title) => `فيديو توضيحي: ${title}`,
+    breadcrumbLabel: 'مسار التنقل',
+    ruleVerifiedLabel: 'تم التحقق في',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `تم النسخ. الصقه الآن في حقل Reward Code لدى ${brand}.`
+        : kind === 'referral'
+          ? `تم النسخ. ابحث الآن عن رمز الإحالة في تطبيق ${brand} أو موقعه.`
+          : `تم النسخ. الصقه الآن عند إتمام الشراء في ${brand}.`,
+    storeBlockTitle: ({ brand }) => `التسوّق من ${brand}`,
+    allRules: 'عرض جميع القواعد',
+    storeCodesTitle: 'رموز هذا المقال',
+    storeListTitle: 'متاجر هذا المقال',
+    storeRulesOf: ({ brand }) => `قواعد ${brand}`,
+    storeGoShort: 'إلى المتجر',
+    storeRulesShort: 'القواعد',
+    allStoreArticles: (count, { brand }) => `كل مقالات ${brand} (${count})`,
+    authorBoxTitle: 'مرحبًا، أنا Cecília',
+    authorBoxBody: 'أشارك ما أجرّبه في المنزل، ورموز المتاجر الشريكة.',
+    authorBoxLink: 'تعرّف على Cecília',
+    brunoBoxTitle: 'مرحبًا، أنا Bruno',
+    brunoBoxBody: 'زوج Cecília والنصف الآخر من Em Casa: خلف الكاميرا وأمام الحاسوب.',
+    brunoBoxLink: null,
+    disclosureMore: 'اقرأ المزيد',
+    listenShort: 'استمع',
+    listenPause: 'إيقاف مؤقت',
+    listenResume: 'متابعة',
+    listenStop: 'إيقاف',
+    adLabel: 'إعلان',
+    bannerCodeHint: (code, brand) => `ابحث عن ${code} في تطبيق ${brand}.`,
+    decisionLabel: 'اشتره أو تجاوزه',
+    decisionTakeIf: 'اشتره إذا',
+    decisionSkipIf: 'تجاوزه إذا',
+    limitedCodeLine: (code, discount, lastDay) => `حتى ${lastDay}: ${discount} مع ${code}`,
+  },
 };
 
 export function getArticleCopy(locale: Locale): ArticleCopy {
@@ -817,6 +878,14 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     verdictToc: '最终评价',
     viewAll: '查看全部',
   },
+  ar: {
+    publishedAt: 'نُشر في',
+    updatedAt: 'حُدّث في',
+    readTime: (m) => `وقت القراءة: ${m} د`,
+    relatedArticles: 'مقالات ذات صلة',
+    verdictToc: 'الحكم النهائي',
+    viewAll: 'عرض الكل',
+  },
 };
 
 export function getTemplateUi(locale: CouponCopyLocale): TemplateUi {
@@ -835,6 +904,7 @@ export function getDisclosureLabel(locale: CouponCopyLocale): string {
     ja: '広告・アフィリエイトについて',
     'zh-hant': '聯盟行銷揭露',
     'zh-hans': '联盟营销披露',
+    ar: 'الشفافية التحريرية',
   };
 
   return labels[locale];

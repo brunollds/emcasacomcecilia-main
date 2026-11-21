@@ -1,0 +1,200 @@
+{
+  "id": 1267,
+  "slug": "yesstyle-vs-stylevana-ar",
+  "locale": "ar",
+  "translationKey": "yesstyle-vs-alternatives",
+  "title": "YesStyle مقابل Stylevana: مقارنة الإرجاع والشحن المجاني ورمز المكافأة، مع Olive Young وStyleKorean وJolse",
+  "seoTitle": "YesStyle مقابل Stylevana: الإرجاع والشحن المجاني ورمز المكافأة",
+  "type": "مقارنة متاجر",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "مقارنة بين YesStyle وStylevana وOlive Young وStyleKorean وJolse: مهل الإرجاع والشحن المجاني ورمز المكافأة CECILIA010، اعتمادًا على الصفحات الرسمية لكل متجر.",
+  "metaDescription": "YesStyle أم Stylevana؟ الإرجاع والشحن المجاني في StyleKorean ورمز المكافأة CECILIA010، مع Olive Young وStyleKorean وJolse، من الصفحات الرسمية.",
+  "publishedAt": "21 نوفمبر 2026",
+  "publishedAtISO": "2026-11-21",
+  "draft": false,
+  "isNew": true,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-v2.webp",
+  "imageAlt": "Cecília تحمل أنبوب كريم Abib PDRN Volume Fill-it الذي أرسلته YesStyle",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "الإجابة السريعة",
+      "paragraphs": [
+        "ليس هناك متجر هو الأفضل للجميع: يتغير الاختيار بتغير البلد وبما يقبله المتجر عند الإرجاع. تأكد أولًا من أنه يشحن إلى عنوانك، ثم قارن الإرجاع: لا يقبل أيٌّ من المتاجر الخمسة منتج تجميل مفتوحًا بسبب العدول عن الشراء. وتتيح YesStyle وStylevana كلتاهما 14 يومًا بعد التسليم لطلب الإرجاع."
+      ]
+    },
+    {
+      "heading": "الإرجاع والمنتجات المفتوحة",
+      "paragraphs": [
+        "في المتاجر الخمسة كلها، لا يمكن إرجاع منتج تجميل مفتوح بسبب العدول عن الشراء. ما يتغير هو المهلة وما يقبله كل متجر."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+        "alt": "رسم توضيحي لصندوق مفتوح وسهم إرجاع، وعلامة X في الزاوية",
+        "caption": "في YesStyle وStylevana وOlive Young Global وStyleKorean وJolse، لا يمكن إرجاع منتج تجميل مفتوح بسبب العدول عن الشراء.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "comparisonTable": {
+        "caption": "مهلة الإرجاع وما يقبله كل متجر وطريقة الاسترداد، من الصفحات الرسمية.",
+        "headers": [
+          "المتجر",
+          "مهلة الطلب",
+          "ما يُقبل وما لا يُقبل",
+          "طريقة الاسترداد"
+        ],
+        "rows": [
+          [
+            "YesStyle",
+            "14 يومًا بعد التسليم، مع رقم RMA",
+            "لا تُقبل منتجات التجميل المفتوحة ولا المكملات",
+            "رصيد في المتجر؛ أو إلى وسيلة الدفع إن طلبتَ ذلك"
+          ],
+          [
+            "Stylevana",
+            "14 يومًا بعد التسليم",
+            "عيب أو منتج خاطئ أو عدول عن الشراء؛ ومنتجات التجميل فقط إن كانت جديدة ومختومة وغير مستخدمة",
+            "رصيد في المتجر؛ ولا يُسترد الشحن الأصلي"
+          ],
+          [
+            "Olive Young Global",
+            "30 يومًا بعد التسليم",
+            "المنتجات المعيبة أو الخاطئة فقط؛ ولا تبديل",
+            "إلى وسيلة الدفع، ويتحمل المتجر شحن الإرجاع"
+          ],
+          [
+            "StyleKorean",
+            "14 يوم عمل",
+            "منتج مختوم وغير مستخدم؛ ولا إرجاع بسبب الحساسية",
+            "نقاط أو وسيلة الدفع، مع خصم الشحن"
+          ],
+          [
+            "Jolse",
+            "7 أيام بعد التسليم، مع صور",
+            "المنتجات المعيبة أو الخاطئة أو الناقصة فقط؛ ولا تُقبل المنتجات المفتوحة أو المستخدمة",
+            "بعد عودة المنتج إلى كوريا"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "StyleKorean: الشحن وحد الطلب والإرجاع",
+      "paragraphs": [
+        "في StyleKorean يُحتسب الشحن بحسب الوزن وتغادر الطلبات من مستودع في كوريا. ينطبق الشحن المجاني على منتجات التجميل فقط، ووفق الجدول في صفحة الشحن يبدأ بين 60 و100 دولار أمريكي بحسب البلد. وسقف الطلب 500 دولار أمريكي دون احتساب الشحن. ويتطلب الإرجاع بسبب العدول عن الشراء منتجًا مختومًا وغير مستخدم، وتُخصم تكلفة الشحن من المبلغ المسترد.",
+        "لترى StyleKorean جنبًا إلى جنب مع YesStyle، بالأسعار والشحن والضريبة والإرجاع، اقرأ [YesStyle مقابل StyleKorean: أيهما يستحق لمحفظتك؟ مقارنة مباشرة](/ar/reviews/yesstyle-vs-stylekorean-ar)."
+      ],
+      "links": [
+        {
+          "label": "صفحة الشحن في StyleKorean",
+          "href": "https://www.stylekorean.com/en/cs/shipping-delivery"
+        }
+      ]
+    },
+    {
+      "heading": "ماذا يقول كل متجر عن الأصالة",
+      "paragraphs": [
+        "كل متجر يقول ما يلي؛ وهذه ادعاءاتهم هم، دون تدقيق مستقل."
+      ],
+      "bullets": [
+        "**YesStyle:** منتجات أصلية، من موزّع معتمد لأكثر من 400 علامة كورية. ومن يدير المتجر وما ينبغي التحقق منه قبل الشراء في دليل الثقة.",
+        "**Stylevana:** منتجات أصلية، من موردين موثوقين وموزعين معتمدين.",
+        "**Olive Young Global:** المنتجات الأصلية نفسها الموجودة في متاجرها في كوريا، حيث لها أكثر من 1,400 متجر.",
+        "**StyleKorean:** منتجات أصلية، من العلامة نفسها أو من موردين موثوقين في كوريا."
+      ],
+      "links": [
+        {
+          "label": "هل YesStyle موثوق؟ ما الذي تتحقق منه قبل الشراء",
+          "href": "/ar/reviews/yesstyle-trust-guide-ar"
+        }
+      ]
+    },
+    {
+      "heading": "ما الذي تتحقق منه قبل الاختيار",
+      "bullets": [
+        "**هل يشحن المتجر إلى بلدي؟** ابحث عن بلدك في صفحة الشحن لدى المتجر، مع تكلفة الشحن ومدة التوصيل؛ وما تنشره YesStyle لبلدك في دليل الشحن.",
+        "**من يدفع الضريبة؟** انظر هل هي مشمولة في السعر، أم تُفرض عند الدفع، أم بعد وصول الطرد، وهل يعيدها المتجر.",
+        "**ماذا يقبل المتجر عند الإرجاع؟** قارن مهلة طلب الإرجاع وطريقة الاسترداد."
+      ],
+      "links": [
+        {
+          "label": "هل تشحن YesStyle إلى بلدك؟ مدة التوصيل وتكلفة الشحن والضريبة",
+          "href": "/ar/reviews/yesstyle-shipping-by-country-ar"
+        }
+      ],
+      "postParagraphs": [
+        "ولمعرفة Olive Young بلدًا بلدًا، مع الشحن المجاني والضريبة والإرجاع وبرنامج العضوية، راجع [YesStyle أم Olive Young](/ar/reviews/yesstyle-vs-olive-young-ar)."
+      ]
+    },
+    {
+      "heading": "هل YesStyle وSHEIN شيء واحد؟",
+      "paragraphs": [
+        "لا. لا تظهر YesStyle في قائمة علامات مجموعة SHEIN، التي تضم SHEIN وDAZY وROMWE وMOTF وANEWSTA وMUSERA وGLOWMODE وARALINA، وتقول YesStyle إنها تتبع YesAsia Holdings في هونغ كونغ."
+      ]
+    },
+    {
+      "heading": "الشراكة ورمز المكافأة",
+      "paragraphs": [
+        "CECILIA010 هو رمز المكافأة الخاص بـ Cecília في YesStyle: يُكتب في حقل Reward Code المنفصل عند الدفع، لا في خانة الكوبون، ويمنح حتى 5% خصمًا على أول عملية شراء و2% على التالية، ويجتمع مع كوبونات المتجر. الكوبونات الحالية في [كوبونات YesStyle ورمز المكافأة](/ar/coupons/yesstyle). وليس لدينا رمز خاص بنا في المتاجر الأخرى في هذه المقارنة."
+      ],
+      "links": [
+        {
+          "label": "اطّلع على كوبونات YesStyle لهذا اليوم ورمز المكافأة CECILIA010",
+          "href": "/ar/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "أيها تختار",
+      "bullets": [
+        "للحسم: قارن المهلة وما يقبله كل متجر في جدول الإرجاع أعلاه.",
+        "في أي بلد: راجع الصفحة الرسمية لكل متجر عن الشحن ومن يدفع الضريبة وما يقبله عند الإرجاع قبل إتمام الطلب."
+      ]
+    },
+    {
+      "heading": "الأسئلة الشائعة",
+      "bullets": [
+        "أيهما أفضل، YesStyle أم Stylevana؟ يتوقف ذلك على البلد وعلى حاجتك؛ وفي الإرجاع، يقارن الجدول أعلاه المهلة وما يقبله كل متجر.",
+        "هل YesStyle هي SHEIN نفسها؟ لا: لا تظهر YesStyle في قائمة علامات مجموعة SHEIN، وتقول YesStyle إنها تتبع YesAsia Holdings في هونغ كونغ.",
+        "ما حد الطلب في StyleKorean؟ 500 دولار أمريكي للطلب الواحد دون احتساب الشحن؛ وفوق ذلك يطلب المتجر تقسيمه إلى طلبين.",
+        "هل يمكنني إرجاع منتج تجميل مفتوح؟ ليس بسبب العدول عن الشراء، في أي من المتاجر الخمسة؛ وتقبل Stylevana العدول عن الشراء فقط إذا كان المنتج جديدًا ومختومًا وغير مستخدم.",
+        "أين يُكتب رمز المكافأة في YesStyle؟ يُكتب CECILIA010 في حقل Reward Code المنفصل عند الدفع، لا في خانة الكوبون، ويجتمع مع كوبونات المتجر نفسه. الكوبونات الحالية في صفحة YesStyle هنا على الموقع."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "راجع الشحن والضريبة لعنوانك عند الدفع والصق CECILIA010 في حقل Reward Code",
+    "label": "اذهب إلى YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "قد نحصل على عمولة من YesStyle. لم نختبر المتاجر الأخرى: قواعدها مأخوذة من الصفحات الرسمية.",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-vs-olive-young-ar"
+    },
+    {
+      "slug": "yesstyle-shipping-by-country-ar"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ar"
+    },
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ar"
+    }
+  ],
+  "updatedAt": "2026-11-21"
+}

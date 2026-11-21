@@ -240,6 +240,26 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
     viewCodes: (count) => `查看优惠码 (${count})`,
     viewStores: (count) => `查看商店 (${count})`,
   },
+  ar: {
+    contents: 'الفهرس',
+    openContents: (current, total, heading) => `فتح الفهرس. القسم ${current} من ${total}: ${heading}`,
+    position: (current, total) => `${current} من ${total}`,
+    closeContents: 'إغلاق الفهرس',
+    sectionsNav: 'أقسام المقال',
+    readingProgress: 'تقدّم القراءة',
+    couponLabel: (brand) => (brand ? `كود خصم ${brand}` : 'كود الخصم'),
+    rewardCodeLabel: (brand) => (brand ? `رمز المكافأة ${brand}` : 'رمز المكافأة'),
+    referralCodeLabel: (brand) => `رمز الإحالة ${brand}`,
+    copiedStatus: (code) => `تم نسخ الرمز ${code}.`,
+    relatedTitle: 'اقرأ أيضًا',
+    tocTitle: 'في هذا الدليل',
+    copyHint: 'انسخه قبل الذهاب إلى المتجر.',
+    copiedHint: 'تم نسخ الرمز. الصقه في الحقل المناسب عند إتمام الشراء.',
+    referralCopyHint: ({ brand }) => `انسخه ثم ابحث عنه في تطبيق ${brand} أو موقعه.`,
+    referralCopiedHint: ({ brand }) => `تم نسخ الرمز. ابحث عنه في تطبيق ${brand} أو موقعه.`,
+    viewCodes: (count) => `عرض الرموز (${count})`,
+    viewStores: (count) => `عرض المتاجر (${count})`,
+  },
 };
 
 export function getSidebarCopy(locale: Locale): SidebarCopy {

@@ -9,4 +9,5 @@ export const LOCALE_KEYS = [
   'ja',
   'zh-hant',
   'zh-hans',
+  'ar',
 ];

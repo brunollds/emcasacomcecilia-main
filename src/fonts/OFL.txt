@@ -1,4 +1,4 @@
-Montserrat, Lora, Caveat, Kalam, Archivo and JetBrains Mono are licensed under the SIL Open Font License, Version 1.1.
+Montserrat, Lora, Caveat, Kalam, Archivo, JetBrains Mono and Noto Sans Arabic are licensed under the SIL Open Font License, Version 1.1.
 Copyright notices: see each family's repository at https://github.com/google/fonts (ofl/<family>/OFL.txt).
 
 -----------------------------------------------------------

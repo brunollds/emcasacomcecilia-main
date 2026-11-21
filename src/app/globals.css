@@ -45,13 +45,17 @@
   --color-ring: var(--ring);
 
   /* Fontes */
-  --font-sans: var(--font-montserrat), system-ui, -apple-system, sans-serif;
-  --font-heading: var(--font-montserrat), system-ui, -apple-system, sans-serif;
-  --font-editorial: var(--font-lora), Georgia, 'Times New Roman', serif;
-  --font-handwritten: var(--font-caveat), 'Brush Script MT', cursive;
-  --font-hand-title: var(--font-kalam), var(--font-caveat), 'Comic Sans MS', cursive;
+  /* --font-arabic só existe no /ar (a classe vai no <html>) e vem à frente: o unicode-range dela só pega as letras
+     árabes, e o resto cai na latina. Atrás da latina ela nunca seria usada, porque o reserva que o next/font gera
+     ("montserrat Fallback", o Arial do aparelho) cobre o árabe. Fora do /ar o var() cai em ecc-sem-arabe, nome
+     que não existe e o navegador pula. */
+  --font-sans: var(--font-arabic, ecc-sem-arabe), var(--font-montserrat), system-ui, -apple-system, sans-serif;
+  --font-heading: var(--font-arabic, ecc-sem-arabe), var(--font-montserrat), system-ui, -apple-system, sans-serif;
+  --font-editorial: var(--font-arabic, ecc-sem-arabe), var(--font-lora), Georgia, 'Times New Roman', serif;
+  --font-handwritten: var(--font-arabic, ecc-sem-arabe), var(--font-caveat), 'Brush Script MT', cursive;
+  --font-hand-title: var(--font-arabic, ecc-sem-arabe), var(--font-kalam), var(--font-caveat), 'Comic Sans MS', cursive;
   /* Carregadas só nas páginas de cupom; o fallback dentro do var() evita herdar a Montserrat fora delas */
-  --font-condensada: var(--font-archivo, 'Arial Narrow'), 'Arial Narrow', sans-serif;
+  --font-condensada: var(--font-arabic, ecc-sem-arabe), var(--font-archivo, 'Arial Narrow'), 'Arial Narrow', sans-serif;
   --font-codigo: var(--font-jetbrains-mono, ui-monospace), ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 
   /* Shadows */
@@ -67,7 +71,7 @@ body {
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-montserrat), sans-serif;
+  font-family: var(--font-arabic, ecc-sem-arabe), var(--font-montserrat), sans-serif;
 }
 
 /* Coreano quebra nos espaços, como no impresso; o padrão do navegador parte a palavra ao meio
@@ -81,6 +85,22 @@ html:lang(ko) {
 html:lang(ja) {
   line-break: strict;
   word-break: auto-phrase;
+}
+
+/* Árabe: o espaçamento entre letras quebra as ligaduras e a escrita não tem maiúsculas. As regras ficam fora de
+   @layer, como as de cima: o CSS sem camada vence os utilitários do Tailwind (tracking-*, uppercase, leading-*),
+   que ficam em @layer utilities, sem !important. :lang(ar) pega cada elemento em árabe e deixa de fora o que leva
+   outro lang dentro da página (as linhas do seletor de idioma). A fonte árabe (--font-arabic) está nas pilhas de
+   fonte do @theme e do body, logo depois da latina de cada uma. */
+:lang(ar) {
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+/* Os textos condensados usam entrelinha perto de 1 (leading-[0.9], leading-[38px] a 40px…), e as linhas em árabe
+   colidem. A linha do número do desconto (dir="ltr") fica de fora. */
+:lang(ar) .font-condensada:not([dir="ltr"]) {
+  line-height: 1.3;
 }
 
 /* 🎬 Animações */
@@ -480,15 +500,15 @@ html:lang(ja) {
 
 /* Referenciam as vars do next/font direto: as vars do @theme inline não existem em runtime */
 .font-editorial {
-  font-family: var(--font-lora), Georgia, 'Times New Roman', serif;
+  font-family: var(--font-arabic, ecc-sem-arabe), var(--font-lora), Georgia, 'Times New Roman', serif;
 }
 
 .font-handwritten {
-  font-family: var(--font-caveat), 'Brush Script MT', cursive;
+  font-family: var(--font-arabic, ecc-sem-arabe), var(--font-caveat), 'Brush Script MT', cursive;
 }
 
 .font-hand-title {
-  font-family: var(--font-kalam), var(--font-caveat), 'Comic Sans MS', cursive;
+  font-family: var(--font-arabic, ecc-sem-arabe), var(--font-kalam), var(--font-caveat), 'Comic Sans MS', cursive;
 }
 
 /* 📓 Template "caderno de família" — Fase 3C */

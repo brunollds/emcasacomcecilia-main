@@ -61,4 +61,9 @@ export const SECTION_LABELS: Record<Locale, SectionLabels> = {
     faqTitle: '常见问题',
     mediaKitLabel: '查看Media Kit（葡萄牙文）',
   },
+  ar: {
+    couponsLabel: 'الكوبونات',
+    faqTitle: 'الأسئلة الشائعة',
+    mediaKitLabel: 'عرض الملف الإعلامي (بالبرتغالية)',
+  },
 };

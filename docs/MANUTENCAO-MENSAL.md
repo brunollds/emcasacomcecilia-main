@@ -163,7 +163,7 @@ Para cada oferta ativa, reconferir:
   grátis e a retirada do `stacking`. Só entra o que foi lido na página da loja; número de parcelas que só aparece
   num produto, ou que diverge entre páginas, fica de fora. Reconferir na rodada mensal, com o `shipping`;
 - `cartPrint`: o print do código aplicado no carrinho, no fim de "Como usar". Fora do PT (hoje a SHEIN e a
-  Hostinger, em `couponTranslations.ts`), o print é o do site em inglês (arquivo `-en.webp`, um só para os nove
+  Hostinger, em `couponTranslations.ts`), o print é o do site em inglês (arquivo `-en.webp`, um só para os dez
   idiomas, com o alt de cada um e o link do artigo no idioma da página: o do código de indicação na SHEIN e o
   do cupom SONAR20 na Hostinger, que leva o mesmo print na seção "Onde colar o código"), e a tabela "O que acumula" só leva o que foi visto nesse
   site: print ou linha do site brasileiro não passa para outro idioma. É
@@ -215,8 +215,8 @@ Para cada oferta ativa, reconferir:
 | `lejour` | Lejour | indicação por link, sem código | tabela de planos no dossiê | Conferir preços, taxas e saques dos planos Basic, Premium e Pro, que a FAQ cita com data. A indicação não dá desconto: nenhum texto pode chamá-la de cupom. Não editar o link. |
 | `temu` | Temu | link de afiliado, sem código | — | Reler a página de envio (R$ 15 abaixo de R$ 69, grátis acima, 17 a 30 dias) e a política de devolução (90 dias da compra, 1ª grátis, depois R$ 35), que a FAQ cita com data, e na central de ajuda as formas de pagamento e o imposto do Remessa Conforme (até US$ 50 e acima). O link não dá desconto: nenhum texto promete percentual nem cita cupom da loja. Não abrir nem editar o link. |
 | `aliexpress` | AliExpress | link de afiliado, sem código | — | Reler a linha "Brasil" da política de devolução (7 dias por desistência; 30 ou 90 com defeito), que a FAQ cita com data. Frete e prazo são de cada anúncio: a página não cita valor. Reler também a janela "Imposto de importação" de uma página de produto; formas de pagamento só no checkout, com login, e a FAQ não lista nenhuma. O link não dá desconto: nenhum texto promete percentual nem cita cupom da loja. Não abrir nem editar o link. |
-| `proton` | Proton | links de afiliado por produto, sem código | — | **Black Friday (desde 18/11/2026):** a página diz "até 75% OFF em todas as linhas pelos links da Cecília" (`discount`, abertura, título, snippet, produtos, 2 FAQs e `linkNote`, nos 10 idiomas), pelo relato do Bruno sobre o que o link abre; a página pública mostrava até 70%. Quando a campanha acabar, voltar esses campos ao texto sem desconto e apagar o banner `proton-black-friday-2026`. Reler a garantia de 30 dias e as exceções (dinheiro e transferência), o plano grátis (VPN: 1 aparelho e 10 países; conta: e-mail e 5 GB no Drive), o VPN Plus (10 aparelhos, mais de 140 países) e as formas de pagamento, que a FAQ cita com data, nos 10 idiomas. Os 5 links (`offerUrl` e `productLinks`) não se editam nem se clicam. Dossiê: `01_Parceiros/Proton.md`. |
-| `starlink` | Starlink | indicação por link, sem código | link de indicação da conta do Bruno `starlink.com/?referral=RC-DF-…` em `offerUrl` (nunca abrir nem editar) | R$ 200 para quem assina pela primeira vez (valor do Bruno, 19/11/2026; a central de ajuda diz só que o valor depende do país e aparece na conta), pago depois de 2 meses, por padrão como crédito na fatura; quem indicou recebe o mesmo. Reler a central de ajuda ("A Starlink tem um programa de indicação?", `/br/support/article/eee7e99e-…`): planos elegíveis (Residencial Lite, 100 Mbps, 200 Mbps, Residencial e Máx; Viagem 100 GB, 300 GB e Ilimitado), só cliente novo, só pedido em starlink.com pelo link. Reler o teste de 30 dias com reembolso integral, que a FAQ cita com data. Se o Bruno avisar valor novo, trocar `discount`, abertura, título, snippet, `linkInstructions`, `aboutBrand` e 4 FAQs. A página não cita preço de plano nem promoção da Starlink. **Internacional desde 19/11/2026** (#1265: `COUPON_TRANSLATIONS` e `INTERNATIONAL_STORES`, com o GO do Bruno): o mesmo link nos 10 idiomas; fora do PT o valor muda por país, e o exemplo é o dos EUA (US$ 100, do pedido de Nevada com o link). Fora do PT a página cita o reembolso de 30 dias do kit e do 1º mês: reler junto. Valor novo do Brasil só mexe no PT. Dossiê: `01_Parceiros/Starlink.md`. |
+| `proton` | Proton | links de afiliado por produto, sem código | — | **Black Friday (desde 18/11/2026):** a página diz "até 75% OFF em todas as linhas pelos links da Cecília" (`discount`, abertura, título, snippet, produtos, 2 FAQs e `linkNote`, nos 11 idiomas), pelo relato do Bruno sobre o que o link abre; a página pública mostrava até 70%. Quando a campanha acabar, voltar esses campos ao texto sem desconto e apagar o banner `proton-black-friday-2026`. Reler a garantia de 30 dias e as exceções (dinheiro e transferência), o plano grátis (VPN: 1 aparelho e 10 países; conta: e-mail e 5 GB no Drive), o VPN Plus (10 aparelhos, mais de 140 países) e as formas de pagamento, que a FAQ cita com data, nos 11 idiomas. Os 5 links (`offerUrl` e `productLinks`) não se editam nem se clicam. Dossiê: `01_Parceiros/Proton.md`. |
+| `starlink` | Starlink | indicação por link, sem código | link de indicação da conta do Bruno `starlink.com/?referral=RC-DF-…` em `offerUrl` (nunca abrir nem editar) | R$ 200 para quem assina pela primeira vez (valor do Bruno, 19/11/2026; a central de ajuda diz só que o valor depende do país e aparece na conta), pago depois de 2 meses, por padrão como crédito na fatura; quem indicou recebe o mesmo. Reler a central de ajuda ("A Starlink tem um programa de indicação?", `/br/support/article/eee7e99e-…`): planos elegíveis (Residencial Lite, 100 Mbps, 200 Mbps, Residencial e Máx; Viagem 100 GB, 300 GB e Ilimitado), só cliente novo, só pedido em starlink.com pelo link. Reler o teste de 30 dias com reembolso integral, que a FAQ cita com data. Se o Bruno avisar valor novo, trocar `discount`, abertura, título, snippet, `linkInstructions`, `aboutBrand` e 4 FAQs. A página não cita preço de plano nem promoção da Starlink. **Internacional desde 19/11/2026** (#1265: `COUPON_TRANSLATIONS` e `INTERNATIONAL_STORES`, com o GO do Bruno): o mesmo link nos 11 idiomas; fora do PT o valor muda por país, e o exemplo é o dos EUA (US$ 100, do pedido de Nevada com o link). Fora do PT a página cita o reembolso de 30 dias do kit e do 1º mês: reler junto. Valor novo do Brasil só mexe no PT. Dossiê: `01_Parceiros/Starlink.md`. |
 | `max-titanium` | Max Titanium | `MAX10EMCASACOMCECILIA` | — | Como na Probiótica: o desconto chega a 10% e varia por produto; testar com um carrinho misto e manter o aviso "pode ser menor" no destaque, nas regras e na FAQ. Conferir se os brindes do carrinho continuam com o cupom. |
 | `clea-store` | Cléa Store | `CSEMCASACOMCECILIA` | — | Testar os 10% com um item em promoção e conferir que o pedido segue gerando cashback e a faixa de frete grátis (R$ 599 em 14/10/2026). |
 | `belive` | Belive | `MAUAD` | — | Testar os 10% com um item em oferta e conferir que o total no Pix ainda tira os 5% e as faixas de frete grátis por região em belivebefree.com.br/regras-de-frete (16/10/2026: R$ 170 em SP, MG, RJ, DF e GO, R$ 250 no Sul, R$ 300 nos demais). O MAUAD é o mesmo da Let's Eat It: testar nas duas lojas. |
@@ -240,7 +240,7 @@ Para cada oferta ativa, reconferir:
 | `colaedecora` | Cola e Decora | `EMCASACOMCECILIA` | site oficial em `offerUrl` (a parceria não tem link próprio) | Testar os 10% pelo caminho do cliente (Loja Integrada): "comprar" no produto, o carrinho abre ao lado; "aplicar" ao lado de "Tem um cupom?", digitar e "aplicar"; aceito, aparece "Cupom aplicado: EMCASACOMCECILIA (10% OFF)" e, no checkout, "Cupom ativo" no resumo (o checkout pede e-mail logo em seguida: parar ali). Reler o frete grátis (R$ 599 em `/pagina/frete-gratis.html`, que diz "todo o Brasil"; a gaveta do carrinho disse "Para as regiões Sul e Sudeste" em 19/11), o parcelamento (10x sem juros na faixa do site) e a troca em `/pagina/trocas-e-devolucoes`. A loja anuncia um cupom próprio de primeira compra no topo do site: não citar. Pix lido no 2º teste de 19/11 (Bruno, 5 cadeiras a R$ 799,50 → R$ 719,55 no Pix, frete grátis): o cupom segue no Pix, sem desconto próprio. |
 | `denavita` | Denavita | `EMCASA` | link de afiliado da GoGroup `denavita.gogroup.com.br/emcasacomcecilia` em `offerUrl` (nunca abrir o link) | Testar os 10% pelo caminho do cliente no site oficial (Shopify): "Adicionar ao carrinho" no produto, gaveta, "Finalizar compra"; o checkout próprio (`seguro.denavita.com.br`) aplica o cupom no resumo antes da identificação: campo "Tem um cupom?", "Adicionar", linha "Cupom de desconto" em Descontos. A extensão lê o texto do checkout, mas não tira print dele. Parar no pedido de nome, e-mail e CPF. O teste do Bruno de 19/11 confirmou o Pix (o print do resumo é dele); o "Leve 3, Pague 2" não apareceu junto com o cupom no resumo. Pendente: a página de regras do frete grátis (R$ 199,90 com asterisco; `/pages/regras-de-frete-gratis` caiu num erro em 19/11). Parcelamento: faixa e checkout "até 12x", produto "até 10x", vitrine 3x sem juros (a página diz até 12x, sem juros nem taxa). A loja tem cupom próprio de primeira compra e roleta: não citar. Troca pela central de ajuda (goconnect360): 7 dias para desistência, caixa fechada; 30 para defeito. |
 | `biobio` | BioBio | `EMCASABIOBIO` | site oficial `biobio.com.br` em `offerUrl` (a parceria não tem link próprio) | Testar os 10% pelo caminho do cliente: "Adicionar ao carrinho" no produto, gaveta, "Finalizar compra"; o checkout próprio (`seguro.biobio.com.br`) aplica o cupom no Resumo da compra antes da identificação: "Inserir cupom de desconto", campo "Cupom (opcional)", "Adicionar", linha "Cupom de desconto" em Descontos. A extensão lê o texto do checkout, mas não tira print dele (o da página é do Bruno). Parar no pedido de nome, e-mail, CPF e WhatsApp. Reler a página Cashback (10% a partir de R$ 99,90, "Vale com cupom"), o frete grátis Sul/Sudeste acima de R$ 279 e o parcelamento (8x) na faixa da home, a troca em Trocas e Devoluções (7 dias). O cupom vale no Pix (regra das parcerias; percentual do Pix é da loja e não entra na página). A loja tem cupom próprio de primeira compra (pop-up e faixa do checkout): não citar. Dossiê: `01_Parceiros/BioBio.md`. |
-| `hostinger` | Hostinger | `SONAR20` | link de indicação com o mesmo código em `offerUrl` (`/br` no PT; global `hostinger.com/?REFERRALCODE=SONAR20` nos 9 idiomas de `couponTranslations.ts`) | Programa de agências desde 29/10/2026: 20% em todos os planos, mensais e anuais, para clientes novos e antigos. Testar com o plano Startup, que não entra no link de indicação (o desconto não se confunde com a indicação já gravada no navegador): carrinho, "Tem um cupom de desconto?", SONAR20, nos períodos de 1 e 48 meses no `/br`. O `testNote` das páginas fora do PT só pode citar teste feito no site global (em dólar, campo "Have a coupon code?"). Regra que mudar, mudar também nos 9 idiomas. Não editar os links. |
+| `hostinger` | Hostinger | `SONAR20` | link de indicação com o mesmo código em `offerUrl` (`/br` no PT; global `hostinger.com/?REFERRALCODE=SONAR20` nos 10 idiomas de `couponTranslations.ts`) | Programa de agências desde 29/10/2026: 20% em todos os planos, mensais e anuais, para clientes novos e antigos. Testar com o plano Startup, que não entra no link de indicação (o desconto não se confunde com a indicação já gravada no navegador): carrinho, "Tem um cupom de desconto?", SONAR20, nos períodos de 1 e 48 meses no `/br`. O `testNote` das páginas fora do PT só pode citar teste feito no site global (em dólar, campo "Have a coupon code?"). Regra que mudar, mudar também nos 10 idiomas. Não editar os links. |
 | `shein` | SHEIN | oferta por link | `referral` e `campaigns` | Revalidar links, códigos de busca, público e prazo de cada campanha. |
 | `kopenhagen` | Kopenhagen | `CECILIA10` | — | Está pausada: não linkar nem reativar sem confirmação da parceria. |
 
@@ -308,14 +308,14 @@ Ficaram sem dado, por leitura que não fechou. Reler na rodada de 01/12/2026:
 - **Prints em inglês (14/11/2026, Chrome, sem login):** o carrinho global da Hostinger (`hostinger.com`, em dólar,
   plano Startup de 48 meses com o preço de Black Friday: US$ 383,52 → US$ 306,82 com o `SONAR20`, linha "Coupon
   savings applied" de US$ 76,70) e a busca do `us.shein.com` com o `4CW5Y`, que levou a uma página de seleção ("My
-  Picks for You") com preços em dólar. São os prints das páginas dos nove idiomas. Na Hostinger fora do PT, a
+  Picks for You") com preços em dólar. São os prints das páginas dos dez idiomas. Na Hostinger fora do PT, a
   tabela só tem a linha das promoções; parcelas e meios de pagamento do site global não foram lidos.
 - **SHEIN, busca do 4CW5Y no app:** o print de `/cupons/shein` é o do site no celular, sem login (o mesmo do artigo
   `codigo-de-indicacao-shein`). Falta o print da busca no aplicativo, que pede a conta do Bruno; quando vier, entra
   com nome novo de arquivo e o `lastVerified` só avança se a página do código for relida no mesmo dia.
 - **FAQ de Black Friday:** 29 lojas têm, desde 12/11 (a Rituária desde 17/11, a Adaptogen, a Barbour's e a BOLD desde 18/11, a Pink Cheeks, a Gocase, a Cola e Decora e a Denavita desde 19/11), as perguntas "Tem cupom <Loja> na Black Friday?" e
   "O cupom <Loja> vale na Black Friday?" (Lejour, YesStyle e SHEIN ficaram de fora; a Hostinger tem só a segunda,
-  porque pergunta nova no PT pede a mesma nas 9 traduções da loja). São sazonais: na rodada de
+  porque pergunta nova no PT pede a mesma nas 10 traduções da loja). São sazonais: na rodada de
   01/12, tirar ou reescrever para o que valer depois da campanha. Skelt e Bagaggio seguem sem teste com campanha
   no ar, e Probiótica, Max Titanium, Mais Mu, Black Skull, Toda Up e Dr. Peanut mandam conferir o carrinho:
   testar na semana da Black Friday e trocar a resposta pelo resultado. O guia `black-friday-<loja>` responde a
@@ -331,7 +331,7 @@ Ficaram sem dado, por leitura que não fechou. Reler na rodada de 01/12/2026:
 
 ### Parceiro internacional
 
-Loja nova só em `src/lib/couponsData.ts` fica só em português, sem erro nenhum. Para a loja sair nos 9 outros idiomas, a
+Loja nova só em `src/lib/couponsData.ts` fica só em português, sem erro nenhum. Para a loja sair nos 10 outros idiomas, a
 entrada em `COUPON_TRANSLATIONS` é obrigatória.
 
 **Antes, com o Bruno:** se o parceiro é mesmo internacional (entrega fora do Brasil, com o programa valendo para quem
@@ -339,21 +339,21 @@ compra de fora) e qual link vale fora do português. Sem essa resposta, a loja e
 
 1. Cadastrar a loja em `src/lib/couponsData.ts`, como qualquer outra.
 2. Acrescentar a entrada em `COUPON_TRANSLATIONS` (`src/lib/couponTranslations.ts`), com o `offerMode` igual ao do PT, os
-   textos dos 9 idiomas e, se a loja tiver um diferente do brasileiro, o link internacional em `offerUrl`. Loja com faixas
+   textos dos 10 idiomas e, se a loja tiver um diferente do brasileiro, o link internacional em `offerUrl`. Loja com faixas
    (`tiers`) não aceita tradução. Na loja de código, a `CODE_FIELD_POLICY` decide o que herda do PT.
-3. Textos: a sessão escreve o português, o Sonnet gera os 9 idiomas e a sessão revisa. Nenhum texto fora do PT cita o
+3. Textos: a sessão escreve o português, o Sonnet gera os 10 idiomas e a sessão revisa. Nenhum texto fora do PT cita o
    Brasil; alemão com "du" nas páginas de loja, como o resto delas (Bruno, 15/11/2026; os artigos seguem com "Sie"); francês com espaço sem quebra (NBSP) antes de `:`, `;`, `?` e `%`.
 4. Só com a confirmação do Bruno de que a loja corrige o link e o código para a região do visitante, nos links que a
    parceria usa (e de que a oferta vale para quem compra de fora), pôr o slug em `INTERNATIONAL_STORES`
-   (`src/lib/storeBanners.ts`). Essa lista libera link de um país só nas campanhas dos 10 idiomas, e ter link internacional
-   ou vender fora do Brasil não prova isso. Sem a confirmação, a loja não entra na lista: as páginas dos 9 idiomas saem do
-   mesmo jeito, e as campanhas dos 10 idiomas levam um link que valha em todos. Na lista, o `test:coupon-translations` barra
-   loja ativa sem página nos 9 idiomas.
+   (`src/lib/storeBanners.ts`). Essa lista libera link de um país só nas campanhas dos 11 idiomas, e ter link internacional
+   ou vender fora do Brasil não prova isso. Sem a confirmação, a loja não entra na lista: as páginas dos 10 idiomas saem do
+   mesmo jeito, e as campanhas dos 11 idiomas levam um link que valha em todos. Na lista, o `test:coupon-translations` barra
+   loja ativa sem página nos 10 idiomas.
 5. "O que acumula" e o print fora do PT não entram sozinhos: cada um só sai na página do idioma se a tradução trouxer
    o dado (`stacking` na loja de código, `cartPrint` nas duas). Vale só o que foi visto no site que a página do idioma
    abre (o global, não o brasileiro): as linhas da tabela vêm de teste ou regra lida nesse site, e o print é uma captura
-   dele em inglês, sem login e sem concluir compra, em arquivo `-en.webp` (um só para os nove idiomas, com o alt de cada
-   um; na loja de link, também a legenda própria). Se a loja tem o artigo do passo a passo nos 10 idiomas, pôr o print
+   dele em inglês, sem login e sem concluir compra, em arquivo `-en.webp` (um só para os dez idiomas, com o alt de cada
+   um; na loja de link, também a legenda própria). Se a loja tem o artigo do passo a passo nos 11 idiomas, pôr o print
    também no artigo e o `article` de cada idioma na tradução, para a página ganhar o link. Os vídeos seguem a mesma regra: a seção sai no idioma
    se a tradução trouxer `videos`, com o título no idioma; os do PT não passam. "Vantagens além do cupom" e "Por que o
    cupom não funcionou?" seguem só em português. Registrar no dossiê a data, o site, a moeda e
@@ -366,16 +366,16 @@ compra de fora) e qual link vale fora do português. Sem essa resposta, a loja e
 
 **Fica à parte:**
 
-- Artigos: a bolinha da loja mostra o aviso de loja sem artigo até existir artigo traduzido. Cada família precisa das 10
+- Artigos: a bolinha da loja mostra o aviso de loja sem artigo até existir artigo traduzido. Cada família precisa das 11
   versões (`test:review-i18n`). A pauta vai à sessão de artigos, com a tradução já pedida.
-- Campanhas: `content/campanhas/` leva só o português ou os 10 idiomas (`docs/CAMPANHAS.md`).
+- Campanhas: `content/campanhas/` leva só o português ou os 11 idiomas (`docs/CAMPANHAS.md`).
 - As perguntas fixas do FAQ dos idiomas e os destaques do hub são escolha editorial: a loja nova não muda nenhum deles.
 
 ## 3. YesStyle: fonte factual e campanhas curtas
 
 Fonte factual: `data/coupons/yesstyle.json`  
 Adapter tipado e getters: `src/lib/yesstyleCoupons.ts`  
-Textos das 10 páginas: `src/components/coupons/yesstyleCopy.ts`
+Textos das 11 páginas: `src/components/coupons/yesstyleCopy.ts`
 
 O CECILIA010 é **código de recompensa**, não cupom: vai no campo Reward Code e soma com os
 cupons da própria YesStyle (MIDS26 e afins), que vão no campo Coupon Code, vencem e seguem a
@@ -386,7 +386,7 @@ O código de recompensa e os cupons promocionais têm ciclos diferentes. **Os cu
 trocam a cada 3 dias, mais ou menos** (FINDS26, MIDS26, 1010VIBES, FALL26, COOL26, SIMPLE26 e
 BASIC26VIP só em outubro de 2026), então não cabem na rotina mensal: o cupom novo aparece na faixa
 roxa do topo de yesstyle.com, e a troca entra no JSON no dia em que o anterior vence, antes das 23h
-de Brasília (ver abaixo). Por isso os títulos e descrições das 10 páginas falam dos "cupons ativos"
+de Brasília (ver abaixo). Por isso os títulos e descrições das 11 páginas falam dos "cupons ativos"
 sem citar código nem mês; o mês e o código ficam só na lista, que sai do JSON. O CECILIA010 segue a
 rotina mensal: os percentuais (5% na primeira compra e 2% nas seguintes) estão na página
 `yesstyle.com/en/influencers.html` ("How much commission can I earn?"), conferida em 24/10/2026.
@@ -437,8 +437,8 @@ crescente de valor e de desconto. Modelo, com o MIDS26 de outubro de 2026:
 ```
 
 As regras que valem para todos os cupons (quem pode usar, combinação, prazo e frete) não ficam
-no JSON: estão em `policyRules`, nos 10 idiomas de `yesstyleCopy.ts`. Se a política da YesStyle
-mudar, atualize os 10.
+no JSON: estão em `policyRules`, nos 11 idiomas de `yesstyleCopy.ts`. Se a política da YesStyle
+mudar, atualize os 11.
 
 A página em português tem ainda a tabela "O que acumula na YesStyle" (`stacking`) e o print do código aplicado
 (`cartPrint`), no PT de `yesstyleCopy.ts`. As quatro linhas da tabela saem dos termos dos cupons da loja (relidos em
@@ -458,7 +458,7 @@ deve herdar a data de uma promoção curta só para aparentar nova verificação
 maior data das ofertas ativas, portanto o status incorreto também contamina metadata e sitemap
 dos hubs YesStyle.
 
-A mesma data entra no texto dos artigos da YesStyle nos 10 idiomas ("a lista foi conferida em…"): o
+A mesma data entra no texto dos artigos da YesStyle nos 11 idiomas ("a lista foi conferida em…"): o
 `node scripts/content/build-index.mjs` troca o `{yesstyle:verifiedAt}` por ela. Cupom novo muda essa
 data, então o PR do cupom leva o `src/lib/generated/content-index.ts` regenerado; sem ele, o
 `npm run deploy:prepare` para com "mudanças locais" depois do build (foi o caso do YESREADY26, #479 e #480).
@@ -466,8 +466,8 @@ data, então o PR do cupom leva o `src/lib/generated/content-index.ts` regenerad
 Os cupons da YesStyle não são banners. As campanhas da loja nos artigos, como a Black Friday,
 seguem o `docs/CAMPANHAS.md`.
 
-Ao alterar essa fonte, conferir a página PT e os nove hubs internacionais (`/en`, `/es`, `/fr`,
-`/de`, `/it`, `/ko`, `/ja`, `/zh-hant` e `/zh-hans`). Traduções não podem inventar regras
+Ao alterar essa fonte, conferir a página PT e os dez hubs internacionais (`/en`, `/es`, `/fr`,
+`/de`, `/it`, `/ko`, `/ja`, `/zh-hant`, `/zh-hans` e `/ar`). Traduções não podem inventar regras
 diferentes da fonte factual.
 
 **Frete e prazo nos artigos.** As famílias `yesstyle-trust` e `yesstyle-reward-code` citam o
@@ -475,7 +475,7 @@ frete grátis e o prazo dos países de cada idioma, tirados da tabela
 `https://www.yesstyle.com/en/shipping-rates-delivery/help/section.html/hsi.732` (os dados ficam
 no HTML da página; não use o seletor de destino). Todo mês, conferir a linha "This Shipping Rate
 table is effective starting …": se a data mudou, comparar os países abaixo e atualizar os
-10 idiomas das duas famílias e o `updatedAt`.
+11 idiomas das duas famílias e o `updatedAt`.
 
 | Idioma | Países citados |
 |---|---|
@@ -567,7 +567,7 @@ Confirmar no JSON:
 - link interno relativo e editorialmente justificado para a página da loja no idioma do
   artigo;
 - `isNew: true` só na versão em português;
-- artigo da YesStyle ou da SHEIN: as 10 versões da família, pelo contrato da seção 3 do Job 4
+- artigo da YesStyle ou da SHEIN: as 11 versões da família, pelo contrato da seção 3 do Job 4
   do vault (`docs/Memoria de Artigos/memreview/00_Sistema/JOBS/Job-4-Conformacao-JSON.md`).
 
 Não incluir `MAUAD` (Let's Eat It) nos termos de `HighlightCoupon` nem de

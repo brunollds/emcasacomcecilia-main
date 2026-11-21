@@ -395,6 +395,12 @@ export const storeBannersData: StoreBanner[] = [
         "text": "Hostinger官方活動，價格和條件以Hostinger網站為準。",
         "action": "查看活動",
         "tag": "最高"
+      },
+      "ar": {
+        "headline": "الجمعة البيضاء من Hostinger: خصم يصل إلى 85%",
+        "text": "حملة من Hostinger نفسها. الأسعار والشروط موجودة على موقع Hostinger.",
+        "action": "شاهد الحملة",
+        "tag": "حتى"
       }
     },
     "source": "Página hostinger.com/br/black-friday: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026\" (04/11/2026); home hostinger.com com \"Up to 85% off\" e \"Special offer • 85% off\", lida no navegador em 18/11/2026",
@@ -748,6 +754,11 @@ export const storeBannersData: StoreBanner[] = [
         "headline": "Proton 黑色星期五：最高可省75%",
         "text": "Proton官方活動，方案與價格以Proton網站為準，並以所在國家的貨幣顯示。",
         "action": "查看活動"
+      },
+      "ar": {
+        "headline": "الجمعة البيضاء من Proton: خصم يصل إلى 75%",
+        "text": "حملة من Proton نفسها. الباقات والأسعار موجودة على موقعها، بعملة بلدك.",
+        "action": "شاهد الحملة"
       }
     },
     "source": "Oferta de até 75% OFF informada pelo Bruno em 18/11/2026; a faixa de proton.me/pt-br/pricing mostrava Black Friday -70% e selo -50% no Mail Plus e no Unlimited em 17/11, sem data de fim",
@@ -841,6 +852,12 @@ export const storeBannersData: StoreBanner[] = [
         "text": "SHEIN官方活動，具體條件以SHEIN網站為準。",
         "action": "查看活動",
         "tag": "最高"
+      },
+      "ar": {
+        "headline": "SHEIN 11.11: خصم يصل إلى 90% على أكثر من 800,000 منتج",
+        "text": "حملة من SHEIN نفسها. الشروط موجودة على موقع SHEIN.",
+        "action": "شاهد الحملة",
+        "tag": "حتى"
       }
     },
     "source": "Mensagem da campanha (Mega Promoção 11.11, #SHEIN1111) e link enviados pelo Bruno em 07/11/2026; a loja mostra \"termina em 38 dias\", sem data fixa",
@@ -916,6 +933,12 @@ export const storeBannersData: StoreBanner[] = [
         "text": "SHEIN官方活動，具體條件以SHEIN網站為準。",
         "action": "查看活動",
         "tag": "最高"
+      },
+      "ar": {
+        "headline": "أول مرة على SHEIN؟ خصم يصل إلى 50% للمستخدمين الجدد",
+        "text": "حملة من SHEIN نفسها. الشروط موجودة على موقع SHEIN.",
+        "action": "شاهد الحملة",
+        "tag": "حتى"
       }
     },
     "source": "Link e código enviados pelo Bruno em 02/11 (antes no coupon.campaigns da SHEIN)",
@@ -980,6 +1003,11 @@ export const storeBannersData: StoreBanner[] = [
         "headline": "SHEIN 指定商品優惠",
         "text": "SHEIN 精選商品限時折扣，具體條件以 SHEIN 網站為準。",
         "action": "查看活動"
+      },
+      "ar": {
+        "headline": "منتجات مختارة بخصم على SHEIN",
+        "text": "خصومات لفترة محدودة على منتجات اختارتها SHEIN. الشروط موجودة على موقع SHEIN.",
+        "action": "شاهد الحملة"
       }
     },
     "source": "coupon.campaigns da SHEIN em couponsData.ts, migrado em 02/11 (verificado em 24/10)",
@@ -1168,6 +1196,12 @@ export const storeBannersData: StoreBanner[] = [
         "text": "YesStyle官方活動，具體條件以YesStyle網站為準。",
         "action": "查看活動",
         "tag": "最高"
+      },
+      "ar": {
+        "headline": "تخفيضات الجمعة البيضاء من YesStyle: خصم يصل إلى 67%",
+        "text": "حملة من YesStyle نفسها. الشروط موجودة على موقع YesStyle.",
+        "action": "شاهد الحملة",
+        "tag": "حتى"
       }
     },
     "source": "Black Friday Sale até 50% OFF, informado pelo Bruno (02/11/2026); home da YesStyle com \"Black Friday Sale: Up to 67% OFF\", lida no navegador em 18/11/2026",

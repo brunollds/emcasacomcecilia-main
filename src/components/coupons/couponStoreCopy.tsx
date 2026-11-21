@@ -1395,4 +1395,131 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       link: (discount, { brand }) => `${brand}：${discount}（通过指定链接）`,
     },
   },
+  ar: {
+    dateLocale: 'ar-u-nu-latn',
+    // O formato numérico do árabe vem com marcas de direção e fica ambíguo; com o mês escrito não há dúvida.
+    shortDate: { day: 'numeric', month: 'long', year: 'numeric' },
+    breadcrumbLabel: 'مسار التنقل',
+    homeLabel: 'Em Casa com Cecília',
+    couponsLabel: SECTION_LABELS.ar.couponsLabel,
+    otherLanguagesLabel: 'لغات أخرى',
+    offerType: { code: 'كوبون', link: 'عرض' },
+    offerTypePlural: { code: 'كوبونات', link: 'عروض' },
+    heroTitle: (offerType, brand) => `${offerType} ${brand}:`,
+    heroCode: (code) => `باستخدام ${code}`,
+    cutoutLabel: {
+      code: (offerType, brand) => `رمز ${offerType} ${brand}`,
+      link: (offerType, brand) => `كيف تحصل على ${offerType} ${brand}`,
+    },
+    copyAndGo: couponCopyLabels.ar.copyAndGo,
+    codeCopied: 'تم نسخ الرمز',
+    copyOnly: couponCopyLabels.ar.copyOnly,
+    copy: 'انسخ',
+    copied: 'تم النسخ',
+    copyCodeAria: (code) => `انسخ الرمز ${code}`,
+    copiedStatus: (code) => `تم نسخ الرمز ${code}.`,
+    copiedAndOpenedStatus: (code) => `تم نسخ الرمز ${code}. فُتح المتجر في علامة تبويب جديدة.`,
+    tiersSummary: (count, first, last) =>
+      `عدد الرموز ${count}: من خصم ${first.discount} على الطلبات ابتداءً من ${first.minPurchase} إلى خصم ${last.discount} ابتداءً من ${last.minPurchase}.`,
+    chooseMyTier: 'اختر فئتي',
+    chooseTier: 'اختر الفئة',
+    goToStore: 'اذهب إلى المتجر',
+    viewOffer: 'شاهد العرض',
+    noCodeToCopy: 'لا يوجد كوبون للنسخ: يُفتح العرض عبر رابط Cecília.',
+    seeReferralCode: 'عرض رمز الإحالة',
+    verifiedOn: (date) => `تم التحقق في ${date}`,
+    testTitle: 'كيف اختبرنا الكوبون',
+    testedBy: (date) => `اختبره فريق Em Casa com Cecília في ${date}.`,
+    stacking: {
+      title: 'ما الذي يُجمع مع الكوبون',
+      caption: (brand) => `ما يُجمع مع كوبون ${brand}`,
+      headers: { benefit: 'الميزة', stacks: 'هل يُجمع؟', condition: 'الشرط' },
+      benefits: {
+        promocoes: 'العروض الترويجية',
+        assinatura: 'الاشتراك',
+        retirada: 'الاستلام من المتجر',
+        pix: 'Pix',
+        cashback: 'استرداد نقدي (كاش باك)',
+        'outro-cupom': 'كوبون آخر',
+        frete: 'شحن مجاني',
+      },
+      answers: { sim: 'نعم', nao: 'لا', depende: 'حسب الحالة' },
+      rulesPointer: 'تعرّف على ما يُجمع مع الكوبون',
+    },
+    cartPrint: { caption: 'مثال على الرمز بعد تطبيقه في السلة. تتغير القيم بحسب الطلب.', stepsLabel: 'شاهد الخطوات مدعومة بالصور' },
+    videos: {
+      title: 'الفيديوهات',
+      platforms: { youtube: 'YouTube', instagram: 'Instagram', tiktok: 'TikTok', facebook: 'Facebook' },
+      watchOn: (platform) => `شاهد على ${platform}`,
+      newTab: 'يُفتح في علامة تبويب جديدة',
+    },
+    highlight: {
+      code: ({ offerType, brand, code, discount, scope, monthYear }) =>
+        `${offerType} ${brand} محدَّث: ${code} — ${discount} ${scope} (${monthYear}).`,
+      link: ({ brand, discount, scope, monthYear }) => `تحديث عرض ${brand}: ${discount} ${scope} (${monthYear}).`,
+      note: (note) => `${note}. تحقق من الشروط والسعر النهائي قبل إتمام الشراء.`,
+    },
+    tiersTitle: (brand) => `فئات خصم ${brand}`,
+    tiersIntro:
+      'اختر الرمز الذي يناسب إجمالي سلتك: كلما ارتفعت الفئة التي تبلغها زاد الخصم. اضغط على الرمز لنسخه.',
+    tiersCaption: (brand) => `فئات كوبونات ${brand}: الخصم والحد الأدنى للشراء والرمز`,
+    tiersHeaders: { discount: 'الخصم', code: 'الرمز' },
+    tiersMinPurchase: (minPurchase) => `ابتداءً من ${minPurchase}`,
+    rulesTitle: 'قواعد واضحة بلا بنود خفية',
+    rules: {
+      eligible: 'يسري على',
+      combinable: 'هل يُجمع مع عروض أخرى؟',
+      validity: 'الصلاحية',
+      reusable: 'الاستخدام أكثر من مرة',
+      shipping: 'الشحن',
+    },
+    referralVerified: (date) => `تم التحقق في ${date}.`,
+    howToTitle: {
+      code: (offerType, code) => `كيف تستخدم ${offerType} ${code}`,
+      link: ({ brand }) => `كيف تحصل على عرض ${brand}`,
+    },
+    instructions: {
+      code: ({ code, brand, discount }) => [
+        `انسخ الرمز ${code} من البطاقة أعلاه.`,
+        `افتح متجر ${brand} عبر الزر المخصص.`,
+        'أضف المنتجات التي تريدها إلى السلة.',
+        'الصق الرمز في خانة الكوبون/الخصم قبل إتمام الطلب.',
+        `تأكد من ظهور خصم ${discount} في ملخص الطلب.`,
+      ],
+      link: ({ brand }) => [
+        `افتح عرض ${brand} عبر الزر المخصص.`,
+        'راجع المنتجات والشروط في صفحة المتجر.',
+        'تحقق من السعر النهائي قبل إتمام الشراء.',
+      ],
+    },
+    defaultCodeField: 'خانة الكوبون/الخصم',
+    codeFieldNote: (field) => <>الخانة الصحيحة: {field}. راجع ملخص الطلب دائمًا قبل الدفع.</>,
+    defaultLinkNote:
+      'يُفتح هذا العرض عبر الرابط المحدد ولا يحتاج إلى رمز. تحقق من الشروط في المتجر قبل الدفع.',
+    productLinks: { title: (brand) => `روابط ${brand} حسب المنتج`, cta: (name) => `شاهد ${name}` },
+    aboutTitle: ({ brand }) => `عن ${brand}`,
+    relatedTitle: 'اقرأ قبل الشراء',
+    relatedType: { review: 'مراجعة', post: 'مقال' },
+    faqTitle: {
+      code: (offerTypePlural, brand) => `الأسئلة الشائعة عن ${offerTypePlural} ${brand}`,
+      link: (offerTypePlural, { brand }) => `الأسئلة الشائعة عن ${offerTypePlural} ${brand}`,
+    },
+    historyTitle: (brand) => `سجل كوبونات ${brand}`,
+    historyIntro: (code) => <>كوبونات سابقة استُخدمت في هذه الشراكة. الكوبون الساري حاليًا هو {code}.</>,
+    otherCouponsTitle: 'كوبونات أخرى',
+    transparencyTitle: 'الشفافية',
+    transparency: {
+      code: (offerType, code) => (
+        <>
+          قد تحتوي هذه الصفحة على روابط تسويق بالعمولة. عندما تشتري باستخدام {offerType} {code} أو تفتح المتجر عبر
+          الرابط المحدد، قد يحصل Em Casa com Cecília على عمولة من العلامة التجارية، دون أي تكلفة إضافية عليك.
+        </>
+      ),
+      link: 'تحتوي هذه الصفحة على رابط تسويق بالعمولة. عندما تفتح العرض وتشتري عبر الرابط المحدد، قد يحصل Em Casa com Cecília على عمولة من العلامة التجارية، دون أي تكلفة إضافية عليك.',
+    },
+    offerName: {
+      code: ({ discount, brand, offerType, code }) => `${discount} من ${brand} مع ${offerType} ${code}`,
+      link: (discount, { brand }) => `${discount} من ${brand} عبر الرابط المحدد`,
+    },
+  },
 };

@@ -21,12 +21,14 @@ const labels: Record<ContentLocale, string> = {
   ja: 'ほかの言語で読む:',
   'zh-hant': '以其他語言閱讀此內容：',
   'zh-hans': '使用其他语言阅读此内容：',
+  ar: 'اقرأ هذا المحتوى بلغات أخرى:',
 };
 
 const languageNames: Record<ContentLocale, string> = {
   pt: 'Português', en: 'English', es: 'Español', fr: 'Français', de: 'Deutsch',
   it: 'Italiano',
   ko: '한국어', ja: '日本語', 'zh-hant': '繁體中文', 'zh-hans': '简体中文',
+  ar: 'العربية',
 };
 
 // Os outros idiomas do artigo, no topo dele (o seletor do menu é outro, no Navbar).

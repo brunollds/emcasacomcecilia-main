@@ -291,6 +291,31 @@ for (const file of components) {
 for (const [key, config] of Object.entries(LOCALES)) {
   if (config.dir !== 'ltr' && config.dir !== 'rtl') errors.push(`src/lib/i18n/locales.ts: o idioma ${key} não tem dir 'ltr' ou 'rtl'`);
 }
+if (LOCALES.ar.dir !== 'rtl') errors.push(`src/lib/i18n/locales.ts: o árabe não está com dir 'rtl'`);
+
+// Idioma da direita para a esquerda (árabe, hoje) tem a regra de tipografia no globals.css: sem espaçamento entre
+// letras, que quebra as ligaduras, e sem maiúsculas.
+const GLOBALS_CSS = 'src/app/globals.css';
+const css = stripComments(fs.readFileSync(GLOBALS_CSS, 'utf8'));
+for (const [key, config] of Object.entries(LOCALES)) {
+  if (config.dir !== 'rtl') continue;
+  const lang = config.htmlLang.replace(/[.*+?^${}()|[\]\\-]/g, '\\$&');
+  const rule = new RegExp(`:lang\\(${lang}\\)\\s*\\{[^}]*letter-spacing:\\s*normal;[^}]*text-transform:\\s*none`);
+  if (!rule.test(css)) errors.push(`${GLOBALS_CSS}: o idioma ${key} é rtl e falta a regra :lang(${config.htmlLang}) com letter-spacing: normal e text-transform: none`);
+}
+
+// Isolante bidi (U+2066/U+2069) em volta de código vai junto quando alguém seleciona o texto à mão ou quando uma IA lê o
+// FAQPage, e o código falha no checkout. Na página, o código já sai num elemento com dir="ltr".
+const BIDI_ISOLATES = /[\u2066\u2069]/;
+const textFiles = (dir: string, ext: RegExp): string[] =>
+  fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) return entry.name === 'generated' ? [] : textFiles(full, ext);
+    return ext.test(entry.name) ? [full] : [];
+  });
+for (const file of [...textFiles('src', /\.(ts|tsx|js|mjs)$/), ...textFiles('content', /\.json$/)]) {
+  if (BIDI_ISOLATES.test(fs.readFileSync(file, 'utf8'))) errors.push(`${file}: isolante bidi (U+2066/U+2069) no texto`);
+}
 
 if (errors.length > 0) {
   console.error(`❌ test:rtl: ${errors.length} problema(s)\n${errors.map((e) => `  - ${e}`).join('\n')}`);

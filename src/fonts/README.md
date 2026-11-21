@@ -12,9 +12,10 @@ depender de rede (o `next/font/google` baixava as fontes em todo build). São os
 | `kalam-latin-400.woff2`, `kalam-latin-700.woff2` | Kalam | 400 e 700 | `RootLayoutShell.tsx` |
 | `archivo-latin.woff2` | Archivo (variável, com o eixo de largura 62–125%) | 100–900 | `coupons/CouponBlocks.tsx` |
 | `jetbrains-mono-latin-800.woff2` | JetBrains Mono | 800 | `coupons/CouponBlocks.tsx` |
+| `noto-sans-arabic-arabic.woff2` | Noto Sans Arabic (variável, subset árabe do Google Fonts pelo pacote `@fontsource-variable/noto-sans-arabic@5.2.10`, baixado em 21/11/2026) | 100–900 | `RootLayoutShell.tsx`, só nas páginas em árabe |
 
 O subset latino cobre português, inglês, espanhol, francês, alemão e italiano. Coreano, japonês e chinês usam as fontes
-do sistema, como antes.
+do sistema, como antes. O árabe usa a Noto Sans Arabic, carregada só quando o idioma da página é `ar`.
 
 Todas as famílias são distribuídas sob a SIL Open Font License 1.1 (texto em `OFL.txt`), que permite usar, embutir e
 redistribuir as fontes com o aviso de licença. Fontes: fonts.google.com e o repositório de cada família (github.com/google/fonts).
