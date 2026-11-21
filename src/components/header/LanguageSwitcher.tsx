@@ -73,7 +73,7 @@ export default function LanguageSwitcher({ localeKey, label, mobile = false }: L
           className={`z-[70] overflow-y-auto rounded-xl border border-white/15 bg-[#132342] p-1.5 shadow-2xl shadow-black/35 ${
             mobile
               ? 'mt-2 grid max-h-[18rem] grid-cols-2 gap-1'
-              : 'absolute right-0 top-[calc(100%+0.55rem)] max-h-[24rem] min-w-52'
+              : 'absolute end-0 top-[calc(100%+0.55rem)] max-h-[24rem] min-w-52'
           }`}
         >
           {LOCALE_KEYS.map((locale) => {
@@ -86,6 +86,7 @@ export default function LanguageSwitcher({ localeKey, label, mobile = false }: L
                 href={getShellHomeHref(locale)}
                 hrefLang={config.hreflang}
                 lang={config.htmlLang}
+                dir={config.dir}
                 aria-current={isActive ? 'page' : undefined}
                 onClick={() => setIsLanguageOpen(false)}
                 className={`flex items-center gap-2 rounded-lg px-2.5 py-2 text-sm transition-colors ${

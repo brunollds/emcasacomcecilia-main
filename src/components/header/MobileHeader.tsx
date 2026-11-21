@@ -28,7 +28,7 @@ const SEARCH_ID = 'header-busca-movel';
 const NAME_TAP_MS = 450;
 
 const BIG_ROW =
-  'relative flex w-full items-center justify-between border-b border-white/10 px-4 py-3.5 text-left text-[15px] font-extrabold uppercase tracking-[0.1em]';
+  'relative flex w-full items-center justify-between border-b border-white/10 px-4 py-3.5 text-start text-[15px] font-extrabold uppercase tracking-[0.1em]';
 const bigRowTone = (isActive: boolean) => (isActive ? 'header-atual bg-white/6 text-white' : 'text-white/85');
 
 const cascade = (index: number) => ({ '--i': index }) as CSSProperties;
@@ -175,7 +175,7 @@ export default function MobileHeader({ locale, menu, active, copy, isPt, scrolle
                     className={`${BIG_ROW} ${bigRowTone(isActive)}`}
                   >
                     {item.label}
-                    <ChevronRight aria-hidden="true" className="header-seta h-4 w-4" />
+                    <span className="inline-flex rtl:-scale-x-100"><ChevronRight aria-hidden="true" className="header-seta h-4 w-4" /></span>
                   </button>
                   <div
                     id={CATEGORIES_ID}
@@ -184,7 +184,7 @@ export default function MobileHeader({ locale, menu, active, copy, isPt, scrolle
                     inert={!categoriesOpen}
                   >
                     <div className="min-h-0 overflow-hidden">
-                      <ul aria-label={menu.reviewsListLabel} className="pb-[5px] pl-7 pr-4 pt-[3px]">
+                      <ul aria-label={menu.reviewsListLabel} className="pb-[5px] ps-7 pe-4 pt-[3px]">
                         {children.map((child) => (
                           <li key={child.id}>
                             <Link
@@ -214,7 +214,7 @@ export default function MobileHeader({ locale, menu, active, copy, isPt, scrolle
                 style={cascade(index)}
               >
                 {item.label}
-                <ChevronRight aria-hidden="true" className="h-4 w-4 opacity-60" />
+                <ChevronRight aria-hidden="true" className="h-4 w-4 opacity-60 rtl:-scale-x-100" />
               </Link>
             );
           })}

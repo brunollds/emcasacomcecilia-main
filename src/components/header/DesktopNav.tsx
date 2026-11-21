@@ -138,7 +138,7 @@ export default function DesktopNav({ locale, menu, active, copy, isPt }: Desktop
     <ul
       id={`header-lista-${id}`}
       aria-label={label ?? undefined}
-      className="header-lista absolute left-0 top-[calc(100%+0.55rem)] z-[70] min-w-56 list-none rounded-xl border border-white/15 bg-[#132342] p-1.5 shadow-2xl shadow-black/35"
+      className="header-lista absolute start-0 top-[calc(100%+0.55rem)] z-[70] min-w-56 list-none rounded-xl border border-white/15 bg-[#132342] p-1.5 shadow-2xl shadow-black/35"
     >
       {items.map((item) => (
         <li key={item.id}>
@@ -278,7 +278,7 @@ export default function DesktopNav({ locale, menu, active, copy, isPt }: Desktop
         )}
       </div>
 
-      <nav className="ml-4 flex flex-shrink-0 items-center gap-4">
+      <nav className="ms-4 flex flex-shrink-0 items-center gap-4">
         {isPt && (
           <Link
             href={brandLinks.damie}
@@ -297,7 +297,7 @@ export default function DesktopNav({ locale, menu, active, copy, isPt }: Desktop
             className="flex items-center gap-1.5 rounded-full bg-[#ff6b35] px-4 py-2 text-sm font-semibold text-white transition-all hover:bg-[#ff5722]"
           >
             {menu.dicasLabels.short}
-            <ArrowRight className="h-3.5 w-3.5" />
+            <ArrowRight className="h-3.5 w-3.5 rtl:-scale-x-100" />
           </Link>
         )}
         <LanguageSwitcher localeKey={locale} label={copy.languageLabel} />
