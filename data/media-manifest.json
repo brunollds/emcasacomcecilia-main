@@ -119080,6 +119080,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-dux-quadro-precos.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-dux-quadro-precos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84994,
+      "sha256": "4462408da810b78858c2da9e96e04967563763a54ad0d1748807d56a4275ecd6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-dux-quadro-precos.webp",
+      "storage_filename": "max-titanium-ou-dux-quadro-precos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-dux.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-dux.json",
+          "line": 42,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-dux-quadro-precos.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4462408da810b78858c2da9e96e04967563763a54ad0d1748807d56a4275ecd6/max-titanium-ou-dux-quadro-precos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4462408da810b78858c2da9e96e04967563763a54ad0d1748807d56a4275ecd6/max-titanium-ou-dux-quadro-precos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:59:33.485Z",
+      "verification_etag_or_digest": "4462408da810b78858c2da9e96e04967563763a54ad0d1748807d56a4275ecd6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-capa-discover.webp",
       "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-capa-discover.webp",
       "media_kind": "image",
@@ -119345,6 +119383,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T02:37:57.464Z",
       "verification_etag_or_digest": "eee10b2aa87491afbe0b839fd8cee66d8cd8a04c49121ee4b6b3c92b7d587053",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-quadro-precos.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-quadro-precos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67078,
+      "sha256": "796e019a1bc71471af069eee05ffbbabd343fe115f8a13a882c94b5a42246644",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-quadro-precos.webp",
+      "storage_filename": "max-titanium-ou-growth-quadro-precos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 41,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-quadro-precos.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/796e019a1bc71471af069eee05ffbbabd343fe115f8a13a882c94b5a42246644/max-titanium-ou-growth-quadro-precos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/796e019a1bc71471af069eee05ffbbabd343fe115f8a13a882c94b5a42246644/max-titanium-ou-growth-quadro-precos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T00:59:33.773Z",
+      "verification_etag_or_digest": "796e019a1bc71471af069eee05ffbbabd343fe115f8a13a882c94b5a42246644",
       "verification_status": "verified"
     },
     {
