@@ -66,7 +66,7 @@ const COMPARISON_WRAPPER = [
 
 // Cada coluna tem piso de largura próprio (a tabela em si só tem w-full): 7 colunas de células curtas
 // cabem na coluna do artigo e só a tabela mais larga que ela rola. No papel o piso sai, para não cortar.
-const COMPARISON_CELL = 'align-top border-marinho/15 sm:border-r sm:last:border-r-0';
+const COMPARISON_CELL = 'align-top border-marinho/15 sm:border-e sm:last:border-e-0';
 
 const COMPARISON_COLUMN_MIN_WIDTH = 'sm:min-w-[6rem] print:min-w-0';
 
@@ -74,11 +74,11 @@ const COMPARISON_COLUMN_MIN_WIDTH = 'sm:min-w-[6rem] print:min-w-0';
 const STRIPE_OPAQUE = 'sm:bg-[#f5f6f7]';
 
 const COMPARISON_STICKY_CELL =
-  'sm:sticky sm:left-0 sm:z-10 sm:min-w-[7.5rem] sm:max-w-[12rem] print:min-w-0 sm:shadow-[4px_0_6px_-4px_rgb(15_29_58/0.16)]';
+  'sm:sticky sm:start-0 sm:z-10 sm:min-w-[7.5rem] sm:max-w-[12rem] print:min-w-0 sm:shadow-[4px_0_6px_-4px_rgb(15_29_58/0.16)]';
 
-const COMPARISON_HEAD_CELL = `${COMPARISON_CELL} text-left font-heading text-[0.68rem] font-black uppercase leading-snug tracking-[0.08em] text-marinho-suave sm:border-b-2 sm:border-b-marinho`;
+const COMPARISON_HEAD_CELL = `${COMPARISON_CELL} text-start font-heading text-[0.68rem] font-black uppercase leading-snug tracking-[0.08em] text-marinho-suave sm:border-b-2 sm:border-b-marinho`;
 
-const COMPARISON_ROW_HEAD_CELL = `${COMPARISON_CELL} ${COMPARISON_STICKY_CELL} text-left font-bold text-marinho sm:border-b max-sm:block max-sm:pb-2 max-sm:text-base max-sm:leading-snug`;
+const COMPARISON_ROW_HEAD_CELL = `${COMPARISON_CELL} ${COMPARISON_STICKY_CELL} text-start font-bold text-marinho sm:border-b max-sm:block max-sm:pb-2 max-sm:text-base max-sm:leading-snug`;
 
 const COMPARISON_DATA_CELL = `${COMPARISON_CELL} ${COMPARISON_COLUMN_MIN_WIDTH} text-marinho sm:border-b max-sm:block max-sm:border-t max-sm:py-2 max-sm:before:mb-0.5 max-sm:before:block max-sm:before:font-heading max-sm:before:text-[0.68rem] max-sm:before:font-bold max-sm:before:uppercase max-sm:before:leading-snug max-sm:before:tracking-[0.1em] max-sm:before:text-marinho-suave max-sm:before:content-[attr(data-label)]`;
 
@@ -160,7 +160,7 @@ export function ReviewSectionContent({
           lineHeight={30}
           minWidth={260}
           maxWidthRatio={0.9}
-          className="rounded-r-xl border-l-[6px] border-marinho bg-amarelo-cupom/25 px-5 py-4"
+          className="rounded-e-xl border-s-[6px] border-marinho bg-amarelo-cupom/25 px-5 py-4"
         >
           <blockquote className="m-0 font-editorial text-lg italic leading-relaxed text-marinho">
             &quot;<HighlightCoupon text={section.emphasis} />&quot;
@@ -232,7 +232,7 @@ export function ReviewSectionContent({
           role={comparisonScrolls ? 'region' : undefined}
           aria-label={comparisonScrolls ? comparisonCaption : undefined}
         >
-          <table role="table" className="border-separate border-spacing-0 text-left text-sm max-sm:block sm:w-full">
+          <table role="table" className="border-separate border-spacing-0 text-start text-sm max-sm:block sm:w-full">
             <caption className="sr-only">{comparisonCaption}</caption>
             <thead role="rowgroup" className="max-sm:sr-only">
               <tr role="row" className="bg-white">
@@ -338,7 +338,7 @@ export function ReviewSectionContent({
 
           <div className="hidden md:block">
             <div className="grid grid-cols-2 border-b-2 border-marinho">
-              <div className={`border-r-2 ${PROS_HEADING}`}>
+              <div className={`border-e-2 ${PROS_HEADING}`}>
                 Prós
               </div>
               <div className={CONS_HEADING}>
@@ -352,7 +352,7 @@ export function ReviewSectionContent({
                   delay={Math.min(rowIndex * 0.04, 0.28)}
                   className="grid md:grid-cols-2"
                 >
-                  <div className={`min-h-14 md:border-r-2 md:border-marinho ${PROS_CONS_CELL}`}>
+                  <div className={`min-h-14 md:border-e-2 md:border-marinho ${PROS_CONS_CELL}`}>
                     {row.pro ? (
                       <>
                         <span className="font-bold text-verde-escuro">+</span>
@@ -426,7 +426,7 @@ export function ReviewSectionContent({
 
       {section.couponTiers && section.couponTiers.length > 0 && (
         <div className="mt-6 overflow-x-auto rounded-2xl border-2 border-marinho bg-white">
-          <table className="w-full min-w-[480px] border-collapse text-left text-sm">
+          <table className="w-full min-w-[480px] border-collapse text-start text-sm">
             <caption className="sr-only">Faixas de cupom: código, desconto e compra mínima</caption>
             <thead>
               <tr className="border-b-2 border-marinho">

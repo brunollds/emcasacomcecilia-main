@@ -111,7 +111,7 @@ export function GuideTimeline({ steps, sectionIds, reviewTitle, locale = 'pt' }:
     <div className="relative">
       <div
         aria-hidden="true"
-        className="absolute left-5 top-0 bottom-0 w-0.5 bg-marinho/15 md:left-6"
+        className="absolute start-5 top-0 bottom-0 w-0.5 bg-marinho/15 md:start-6"
       />
 
       <div className="space-y-10">
@@ -126,11 +126,11 @@ export function GuideTimeline({ steps, sectionIds, reviewTitle, locale = 'pt' }:
               key={step.heading || `step-${index}`}
               ref={(el) => { itemRefs.current[index] = el; }}
               id={sectionId}
-              className="relative scroll-mt-32 pl-14 transition-all duration-300 ease-in-out md:pl-16 lg:scroll-mt-28"
+              className="relative scroll-mt-32 ps-14 transition-all duration-300 ease-in-out md:ps-16 lg:scroll-mt-28"
             >
               <div
                 aria-hidden="true"
-                className={`absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-full border-2 font-condensada text-xl font-black font-stretch-extra-condensed transition-all duration-300 motion-reduce:transition-none md:h-12 md:w-12 md:text-2xl ${
+                className={`absolute start-0 top-0 flex h-10 w-10 items-center justify-center rounded-full border-2 font-condensada text-xl font-black font-stretch-extra-condensed transition-all duration-300 motion-reduce:transition-none md:h-12 md:w-12 md:text-2xl ${
                   isActive
                     ? 'border-marinho bg-amarelo-cupom text-marinho motion-safe:scale-110'
                     : 'border-marinho/30 bg-white text-marinho-suave'
