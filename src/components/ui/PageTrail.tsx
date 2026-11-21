@@ -24,7 +24,7 @@ export function PageTrail({ trail, label = getArticleCopy('pt').breadcrumbLabel 
                   {item.name}
                 </Link>
               )}
-              {last ? null : <span aria-hidden="true">›</span>}
+              {last ? null : <span aria-hidden="true" className="rtl:-scale-x-100">›</span>}
             </li>
           );
         })}

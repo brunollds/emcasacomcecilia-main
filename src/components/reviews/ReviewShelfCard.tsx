@@ -107,7 +107,7 @@ export function ReviewShelfCard({
       {/* Último filho do link: o nome acessível começa pelo título, não por "Novo". Fica no canto da foto por
           posição absoluta, em relação ao link. */}
       {showNewBadge && article.isNew ? (
-        <span className="absolute top-2 left-2 z-10 rounded-full border-2 border-marinho bg-laranja px-2.5 py-0.5 text-[11px] font-extrabold text-marinho">
+        <span className="absolute top-2 start-2 z-10 rounded-full border-2 border-marinho bg-laranja px-2.5 py-0.5 text-[11px] font-extrabold text-marinho">
           Novo
         </span>
       ) : null}

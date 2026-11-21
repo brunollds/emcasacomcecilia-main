@@ -5,7 +5,7 @@ export type CardDecor = { magnet: string | null; tilt: string };
 
 type MagnetSide = 'left' | 'right';
 type Decor = { magnet: { side: MagnetSide; color: string } | null; tilt: string };
-const MAGNET_SIDE: Record<MagnetSide, string> = { left: '-top-3 -left-3', right: '-top-3 -right-3' };
+const MAGNET_SIDE: Record<MagnetSide, string> = { left: '-top-3 -start-3', right: '-top-3 -end-3' };
 
 const DECOR: Decor[] = [
   { magnet: { side: 'right', color: 'bg-amarelo-cupom' }, tilt: '-rotate-1' },
