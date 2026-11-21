@@ -1,0 +1,439 @@
+{
+  "id": 1207,
+  "slug": "simple-organic-rotina-de-uso",
+  "locale": "pt",
+  "title": "Rotina Simple Organic: a ordem de uso e o que cada produto diz sobre manhã e noite",
+  "seoTitle": "Rotina Simple Organic: ordem de uso de manhã e à noite",
+  "type": "Guia de Rotina",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Veja a ordem dos produtos da Simple Organic nos kits e quando cada ficha indica o uso. O Balm Antiolheiras muda de posição conforme a rotina descrita pela marca.",
+  "metaDescription": "Com o S-EMCASACOMCECILIA, 5% OFF na Simple Organic. Ordem de uso e o que cada produto declara de manhã e à noite, com a fonte de cada linha.",
+  "publishedAt": "21 de novembro de 2026",
+  "publishedAtISO": "2026-11-21",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-capa.webp",
+  "imageAlt": "Kit Rotina Básica da Simple Organic, com gel de limpeza, sérum de niacinamida e balm de olhos, em foto da Simple Organic com o logo da marca, os textos «Ordem de uso / manhã e noite» e o código S-EMCASACOMCECILIA.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Leve este guia para a compra se você já escolheu os produtos e quer saber a ordem e o horário de cada um, com a fonte na página da loja.",
+      "Leve o guia se vai usar retinol, ácido salicílico ou mandélico: os três só entram à noite, pelas páginas."
+    ],
+    "skipIf": [
+      "Passe se você precisa de uma ordem única para todos os frascos. A sequência varia entre kits e fichas.",
+      "Passe se precisa de orientação de pele, protetor ou gestação: isso é com o dermatologista."
+    ]
+  },
+  "cta": {
+    "label": "Ir para a Simple Organic com o cupom",
+    "text": "Entre pelo link da parceria: a loja abre com o S-EMCASACOMCECILIA, de 5% OFF na loja online, já aplicado. Confira a linha do desconto no carrinho antes de pagar.",
+    "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+    "sponsored": true
+  },
+  "coupon": "S-EMCASACOMCECILIA",
+  "affiliate": "simple-organic",
+  "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom da Simple Organic.",
+  "relatedArticles": [
+    {
+      "slug": "simple-organic-retinol-like-ou-retinol"
+    },
+    {
+      "slug": "simple-organic-vitamina-c-ou-niacinamida"
+    },
+    {
+      "slug": "simple-organic-para-acne"
+    },
+    {
+      "slug": "kit-skincare-presente-simple-organic"
+    },
+    {
+      "slug": "simple-organic-e-boa"
+    },
+    {
+      "slug": "cupom-simple-organic-como-usar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Nos kits da Simple Organic que trazem gel de limpeza, ele costuma abrir a rotina. Depois vêm sérum ou solução e um hidratante ou balm, conforme o kit. O Ultra Sérum Retinol e o Salicílico ficam para a noite pelas fichas. O lugar do Balm Antiolheiras muda conforme a combinação."
+      ]
+    },
+    {
+      "heading": "Simple Organic: qual a ordem de uso?",
+      "paragraphs": [
+        "Comece pela página do produto ou do kit que você usa. Nos kits com gel de limpeza, a loja inicia pelo gel. Depois entram os séruns ou soluções e a finalização prevista para aquela combinação."
+      ],
+      "bullets": [
+        "Limpeza primeiro. Nos kits, o gel entra sobre a pele úmida e é enxaguado; o resto vai com a pele seca ou limpa e seca.",
+        "Soluções e séruns depois da limpeza. A Solução Vitamina C, a Gaba e o Oxyresveratrol pedem \"após a limpeza da pele\"; o Ultra Sérum Vitamina C, \"após a higienização e antes do hidratante\"; o Ultra Sérum Ácido Hialurônico, depois da higienização e antes do hidratante, com a pele levemente úmida.",
+        "Hidratante e balm depois dos séruns. O Balm CB.2 diz \"com a pele higienizada após as nossas Soluções e Séruns\".",
+        "Entre as soluções, a página do Oxyresveratrol traz uma regra: a sequência vai \"do mais leve para as texturas mais densas\"."
+      ],
+      "postParagraphs": [
+        "A Solução Gaba tem uma instrução própria: ser o primeiro produto aplicado depois da limpeza, ou entrar depois da Green Water, um produto que não está à venda no site agora. Entre dois séruns, como vitamina C e niacinamida, nenhuma página diz qual vem primeiro; essa dúvida está em [Simple Organic: vitamina C ou niacinamida?](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
+      ]
+    },
+    {
+      "heading": "Séruns e ácidos: manhã ou noite?",
+      "paragraphs": [
+        "Entre os Ultra Séruns, três são só da noite pela página: o Retinol, o Ácido Salicílico e o Ácido Mandélico. Os outros três servem de dia e de noite."
+      ],
+      "comparisonTable": {
+        "caption": "Texto de cada página de produto.",
+        "headers": [
+          "Produto",
+          "Manhã",
+          "Noite",
+          "O que a página diz"
+        ],
+        "rows": [
+          [
+            "Ultra Sérum Vitamina C",
+            "Sim, com protetor por cima",
+            "Sim",
+            "Ficha: \"Uso diurno e noturno\". FAQ: aplicar depois da higienização e antes do hidratante; de dia, finalizar com protetor"
+          ],
+          [
+            "Ultra Sérum Niacinamida",
+            "Diário",
+            "Diário",
+            "Ficha: \"Diariamente, após a limpeza da pele\", sem separar manhã e noite"
+          ],
+          [
+            "Ultra Sérum Ácido Hialurônico",
+            "Sim",
+            "Sim",
+            "Ficha: \"Diariamente, de manhã e à noite\""
+          ],
+          [
+            "Ultra Sérum Retinol",
+            "Não, só protetor solar",
+            "Sim",
+            "FAQ: \"indicado exclusivamente para uso noturno\""
+          ],
+          [
+            "Ultra Sérum Ácido Salicílico",
+            "Não",
+            "Sim",
+            "Ficha: \"Exclusivamente à noite\""
+          ],
+          [
+            "Ultra Sérum Ácido Mandélico",
+            "Não",
+            "Sim",
+            "A ficha indica uso exclusivo à noite. O FAQ responde que não é para o dia."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Soluções: manhã ou noite?",
+      "paragraphs": [
+        "A tabela reproduz o horário informado pela marca. Para o Retinol-Like, a indicação de uso diurno vem do FAQ. Para o PDRN, confira também a página do kit."
+      ],
+      "comparisonTable": {
+        "caption": "Texto de cada página de produto.",
+        "headers": [
+          "Produto",
+          "Manhã",
+          "Noite",
+          "O que a página diz"
+        ],
+        "rows": [
+          [
+            "Solução Vitamina C",
+            "Sim",
+            "Sim",
+            "Ficha: \"Uso diurno e noturno, após a limpeza da pele\""
+          ],
+          [
+            "Solução Retinol-Like",
+            "Sim, com protetor por cima",
+            "Sim",
+            "FAQ: \"Posso usar a Solução Retinol-Like de dia? Sim, com certeza!\""
+          ],
+          [
+            "Solução Gaba",
+            "Sim",
+            "Sim",
+            "Ficha: uso diurno e noturno, após a limpeza; primeiro produto ou depois da Green Water"
+          ],
+          [
+            "Solução Oxyresveratrol",
+            "Sim",
+            "Sim",
+            "Ficha: uso diurno e noturno, após a limpeza. FAQ: \"Não há restrição para o uso\""
+          ],
+          [
+            "Solução Poliglutâmico",
+            "Sim",
+            "Sim",
+            "Ficha: \"Uso diurno e noturno\""
+          ],
+          [
+            "Solução Hero",
+            "Diário",
+            "Diário",
+            "Ficha: \"Diariamente, após a limpeza\""
+          ],
+          [
+            "Solução Exossomos + PDRN + Peptídeos",
+            "A ficha cita manhã",
+            "A ficha cita noite",
+            "Nos kits, a sequência varia. Confira a página da combinação."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Limpeza, balms e hidratantes: manhã ou noite?",
+      "paragraphs": [
+        "Gel de limpeza e balms são de dia e de noite pela ficha. Os dois hidratantes faciais da tabela dizem só \"diariamente\"."
+      ],
+      "comparisonTable": {
+        "caption": "Texto de cada página de produto.",
+        "headers": [
+          "Produto",
+          "Manhã",
+          "Noite",
+          "O que a página diz"
+        ],
+        "rows": [
+          [
+            "Gel de Limpeza Suave",
+            "Sim",
+            "Sim",
+            "Ficha: \"Uso diurno e noturno\""
+          ],
+          [
+            "Gel de Limpeza Profunda",
+            "Sim",
+            "Sim",
+            "Ficha: \"Uso diurno e noturno\". FAQ: pode ser usado todos os dias"
+          ],
+          [
+            "Balm CB.2",
+            "Sim",
+            "Sim",
+            "Ficha: \"Uso diurno e noturno\", depois das Soluções e Séruns"
+          ],
+          [
+            "Balm Antiolheiras",
+            "Sim",
+            "Sim",
+            "A ficha pede aplicação após hidratantes e óleos. No kit de pele sensível, vem antes do hidratante."
+          ],
+          [
+            "Hidratante Facial Antioleosidade",
+            "Diário",
+            "Diário",
+            "Ficha: \"Diariamente\", depois da limpeza e dos cuidados específicos"
+          ],
+          [
+            "Hidratante Facial Calmante Multirreparador",
+            "Diário",
+            "Diário",
+            "Ficha: \"Diariamente\""
+          ],
+          [
+            "Super Balm Antiacne",
+            "Sim",
+            "Sim",
+            "Uso localizado na área desejada, segundo a ficha"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Retinol Simple Organic: como usar",
+      "paragraphs": [
+        "A ficha do Ultra Sérum Retinol indica uso à noite e pede protetor solar nas manhãs durante todo o período de uso. Compare os dois frascos no guia [Retinol-Like ou retinol](/reviews/simple-organic-retinol-like-ou-retinol).",
+        "A escolha entre ele e a Solução Retinol-Like está em [Simple Organic: Retinol-Like ou retinol?](/reviews/simple-organic-retinol-like-ou-retinol)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
+          "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, em foto oficial do produto no site da marca",
+          "caption": "Ultra Sérum Retinol: só à noite, pela página da loja. Foto: Simple Organic.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
+        }
+      ]
+    },
+    {
+      "heading": "Ácidos e retinol na mesma rotina",
+      "paragraphs": [
+        "A loja pede alternar os dias de aplicação quando o retinol convive com ácidos esfoliantes ou outros retinoides, e o FAQ do Salicílico pede uso alternado com outros ácidos esfoliantes. O Ácido Hialurônico, diário de manhã e à noite pela ficha, não aparece nessa regra.",
+        "A página do Salicílico pede que gestantes consultem um profissional de saúde antes de usar qualquer cosmético. Para a rotina de quem tem espinhas, veja [Simple Organic para acne](/reviews/simple-organic-para-acne)."
+      ]
+    },
+    {
+      "heading": "Rotina com os kits da loja",
+      "paragraphs": [
+        "Os kits mostram a ordem de uso melhor que as fichas soltas. Quando há gel, ele abre a rotina, e o balm ou o hidratante fecha."
+      ],
+      "comparisonTable": {
+        "caption": "Ordem como a página de cada kit traz.",
+        "headers": [
+          "Kit",
+          "Ordem declarada",
+          "Horário"
+        ],
+        "rows": [
+          [
+            "Rotina Básica",
+            "Gel Suave, Ultra Sérum Niacinamida, Balm Antiolheiras",
+            "Manhã e noite"
+          ],
+          [
+            "Rotina Pele Iluminada",
+            "Gel Suave, Ultra Sérum Vitamina C, Balm Antiolheiras",
+            "Manhã e noite"
+          ],
+          [
+            "Rotina Hidratação Intensa",
+            "Gel Suave, Ultra Sérum Ácido Hialurônico, Balm Antiolheiras",
+            "Manhã e noite"
+          ],
+          [
+            "Rotina Pele Madura",
+            "Gel Suave, Ultra Sérum Retinol, Balm Antiolheiras",
+            "Retinol só à noite"
+          ],
+          [
+            "Rotina Anti-idade",
+            "Solução PDRN, Ultra Sérum Retinol, Balm Antiolheiras",
+            "Retinol só à noite"
+          ],
+          [
+            "Rotina Noturna de Regeneração",
+            "Gel Suave, Solução PDRN, Ultra Sérum Retinol",
+            "Noite; protetor de manhã"
+          ],
+          [
+            "Rotina pele sensível",
+            "Gel Suave, Balm Antiolheiras, Hidratante Calmante",
+            "Protetor solar de dia"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Na Rotina Noturna, a página manda aguardar a absorção completa do PDRN antes do retinol. Para escolher entre os kits como presente, o caminho é [kit de skincare Simple Organic: o que vale](/reviews/kit-skincare-presente-simple-organic)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-kit-pele-iluminada.webp",
+          "alt": "Kit Rotina Pele Iluminada da Simple Organic, com gel de limpeza, sérum de vitamina C e balm, em foto oficial da loja",
+          "caption": "Rotina Pele Iluminada: gel, sérum de vitamina C e balm, nessa ordem, pela página. Foto: Simple Organic.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://simpleorganic.com.br/products/kit-pele-iluminada"
+        }
+      ]
+    },
+    {
+      "heading": "Protetor solar: a loja manda usar e não vende",
+      "paragraphs": [
+        "Os kits com uso diurno orientam finalizar com protetor solar. A Simple Organic não tinha protetor solar no catálogo consultado. Se o seu produto pede esse passo, inclua o protetor que você já usa ou siga a orientação do seu dermatologista."
+      ]
+    },
+    {
+      "heading": "Onde a orientação depende do produto ou kit",
+      "paragraphs": [
+        "No Balm Antiolheiras, a posição muda de um cadastro para o outro. Para PDRN e Super Balm, as frases explicam partes diferentes da rotina."
+      ],
+      "bullets": [
+        "**Balm Antiolheiras.** A ficha do avulso coloca o balm depois de hidratantes e óleos. No kit de pele sensível, ele vem antes do hidratante.",
+        "**PDRN.** O modo de uso da Rotina Anti-idade cita a manhã. A Rotina Noturna coloca o mesmo sérum à noite, antes do retinol. A ficha geral menciona manhã e noite.",
+        "**Super Balm Antiacne.** A ficha usa “pontual” para indicar a região onde se aplica. No campo de frequência, orienta uso diário de manhã e à noite."
+      ],
+      "postParagraphs": [
+        "Se a ordem importa para a sua rotina, vale perguntar à loja pelo atendimento do site antes de comprar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-balm-antiolheiras.webp",
+          "alt": "Stick do Balm Antiolheiras da Simple Organic, em foto oficial do produto no site da marca",
+          "caption": "Balm Antiolheiras: a ficha e os kits dão ordens diferentes. Foto: Simple Organic.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://simpleorganic.com.br/products/balm-antiolheiras"
+        }
+      ]
+    },
+    {
+      "heading": "Quanto custam os produtos da rotina",
+      "paragraphs": [
+        "A Simple Organic está na Clean Friday, e os preços abaixo são os de venda da campanha. O cupom da parceria, o S-EMCASACOMCECILIA, dá 5% OFF no site."
+      ],
+      "comparisonTable": {
+        "caption": "Preços de 20/11, de campanha. Com o código, 5% sobre o preço do dia.",
+        "headers": [
+          "Produto",
+          "Preço do dia",
+          "Simulação com 5%"
+        ],
+        "rows": [
+          [
+            "Gel de Limpeza Suave",
+            "R$ 29,50",
+            "R$ 28,03"
+          ],
+          [
+            "Ultra Sérum Vitamina C",
+            "R$ 41,40",
+            "R$ 39,33"
+          ],
+          [
+            "Ultra Sérum Retinol",
+            "R$ 41,40",
+            "R$ 39,33"
+          ],
+          [
+            "Balm Antiolheiras",
+            "R$ 41,40",
+            "R$ 39,33"
+          ],
+          [
+            "Balm CB.2",
+            "R$ 47,40",
+            "R$ 45,03"
+          ],
+          [
+            "Rotina Pele Iluminada (kit)",
+            "R$ 112,30",
+            "R$ 106,69"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Conta nossa: a coluna do código é o preço do dia menos 5%; confira a linha do desconto no carrinho antes de pagar. A política da loja diz que o cupom não soma com promoção, mas os testes em kit e em item em promoção deram os 5%, e o passo a passo está em [Como usar o cupom S-EMCASACOMCECILIA na Simple Organic](/reviews/cupom-simple-organic-como-usar). O botão desta página abre a loja com o [cupom Simple Organic](/cupons/simple-organic) já aplicado."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Simple Organic, como usar? A loja não publica uma rotina única: cada página diz quando o produto entra. Limpeza primeiro, depois solução ou sérum, depois balm ou hidratante; as tabelas deste guia trazem a fonte de cada linha.",
+        "Retinol like pode usar de dia? Pode, diz a loja: a página da Solução Retinol-Like responde \"Sim, com certeza!\" e pede protetor solar por cima. O Ultra Sérum Retinol é outro produto e é só da noite.",
+        "Niacinamida Simple Organic pode usar de dia? A ficha do Ultra Sérum Niacinamida diz \"Diariamente, após a limpeza da pele\", sem separar manhã e noite; no kit Rotina Básica, a loja o indica de manhã e à noite.",
+        "Gaba Simple Organic pode usar de dia? Pode: a ficha da Solução Gaba diz uso diurno e noturno, após a limpeza da pele.",
+        "Eye balm Simple Organic, como usar? A ficha do Balm Antiolheiras diz uso diurno e noturno, \"após hidratantes e óleos\". Nos kits, ele vem depois do sérum ou antes do hidratante, conforme o kit."
+      ]
+    }
+  ]
+}
