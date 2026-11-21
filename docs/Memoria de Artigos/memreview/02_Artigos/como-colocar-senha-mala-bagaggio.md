@@ -11,7 +11,7 @@ type: "Guia Prático"
 anexo_tipo: "-"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "redação (Job 2), depois do GO do Bruno sobre o formato (seção 9)"
+proxima_acao: "redação (Job 2)"
 bloqueado_por: "-"
 data_criacao: "2026-11-21"
 pauta_id: "G10"
@@ -26,6 +26,8 @@ coupon: "CECILIA10"
 ---
 
 # Briefing: senha da mala Bagaggio (G10)
+
+**Formato decidido pelo Bruno (21/11/2026): guia de identificação com o atendimento.** O artigo ensina a identificar o cadeado de cada linha pela ficha e leva ao chat do site para trocar ou recuperar a senha. Nada de passo a passo inventado nem de "senha padrão 000"; ninguém pergunta ao chat por nós.
 
 GO do Bruno em 21/11/2026. Pauta: "Como colocar senha na mala Bagaggio, esqueci a senha e cadeado TSA". Slug sugerido:
 `como-colocar-senha-mala-bagaggio`. Irmãos no cluster: [[bagaggio-garantia-vitalicia]] (o que a garantia cobre),
