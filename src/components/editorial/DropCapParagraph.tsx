@@ -36,7 +36,7 @@ export function DropCapParagraph({
       <span className="sr-only">{firstLetter}</span>
       <span
         aria-hidden="true"
-        className={`float-left mr-3 mt-1 font-editorial text-5xl font-bold leading-[0.85] ${ink.cap} md:text-6xl lg:text-7xl`}
+        className={`float-start me-3 mt-1 font-editorial text-5xl font-bold leading-[0.85] ${ink.cap} md:text-6xl lg:text-7xl`}
       >
         {firstLetter}
       </span>
