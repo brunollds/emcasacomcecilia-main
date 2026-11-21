@@ -131997,6 +131997,159 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
+      "local_url": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58214,
+      "sha256": "a090163e179d23136bc33ed9376b19cdda6b0e3d854e4ec5e0bec9cd4951a817",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
+      "storage_filename": "cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cabelo-fino-e-fraco-qual-linha-prohall.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cabelo-fino-e-fraco-qual-linha-prohall.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293007,
+          "column": 15,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a090163e179d23136bc33ed9376b19cdda6b0e3d854e4ec5e0bec9cd4951a817/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a090163e179d23136bc33ed9376b19cdda6b0e3d854e4ec5e0bec9cd4951a817/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:01.290Z",
+      "verification_etag_or_digest": "a090163e179d23136bc33ed9376b19cdda6b0e3d854e4ec5e0bec9cd4951a817",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+      "local_url": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28204,
+      "sha256": "95f912e33de1e5eaa55bcdec2d914dcc45adbe0c1bb2fa4118ecb9c96973d021",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+      "storage_filename": "cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cabelo-fino-e-fraco-qual-linha-prohall.json",
+        "content/reviews/queda-de-cabelo-ozempic.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cabelo-fino-e-fraco-qual-linha-prohall.json",
+          "line": 137,
+          "column": 19,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/queda-de-cabelo-ozempic.json",
+          "line": 120,
+          "column": 19,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292621,
+          "column": 21,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293121,
+          "column": 21,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/95f912e33de1e5eaa55bcdec2d914dcc45adbe0c1bb2fa4118ecb9c96973d021/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/95f912e33de1e5eaa55bcdec2d914dcc45adbe0c1bb2fa4118ecb9c96973d021/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:01.575Z",
+      "verification_etag_or_digest": "95f912e33de1e5eaa55bcdec2d914dcc45adbe0c1bb2fa4118ecb9c96973d021",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
+      "local_url": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51534,
+      "sha256": "e3bde58f309c8d5bf35d9295598db63335abeae1daf7420cc270ccc44d566912",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
+      "storage_filename": "cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cabelo-fino-e-fraco-qual-linha-prohall.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cabelo-fino-e-fraco-qual-linha-prohall.json",
+          "line": 119,
+          "column": 19,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293103,
+          "column": 21,
+          "literal": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e3bde58f309c8d5bf35d9295598db63335abeae1daf7420cc270ccc44d566912/cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e3bde58f309c8d5bf35d9295598db63335abeae1daf7420cc270ccc44d566912/cabelo-fino-e-fraco-qual-linha-prohall-kit-encorpax.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:01.920Z",
+      "verification_etag_or_digest": "e3bde58f309c8d5bf35d9295598db63335abeae1daf7420cc270ccc44d566912",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
       "local_url": "/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
       "media_kind": "image",
@@ -132852,6 +133005,404 @@
       "uploaded_at": null,
       "verified_at": "2026-11-13T00:29:43.986Z",
       "verification_etag_or_digest": "ae03ddc66a11d6e19e48935909e576236f73b2ed40f76267c52fa2351b3ca3c3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-mounjaro-capa.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-mounjaro-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59396,
+      "sha256": "8ce9da1b6b8976a3bebe30d4a4342329136b51207f58764f1d998b147b12858b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-mounjaro-capa.webp",
+      "storage_filename": "queda-de-cabelo-mounjaro-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-mounjaro.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-mounjaro.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292351,
+          "column": 15,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8ce9da1b6b8976a3bebe30d4a4342329136b51207f58764f1d998b147b12858b/queda-de-cabelo-mounjaro-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8ce9da1b6b8976a3bebe30d4a4342329136b51207f58764f1d998b147b12858b/queda-de-cabelo-mounjaro-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:02.206Z",
+      "verification_etag_or_digest": "8ce9da1b6b8976a3bebe30d4a4342329136b51207f58764f1d998b147b12858b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-mounjaro-mascara-force-hair.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-mounjaro-mascara-force-hair.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20870,
+      "sha256": "b8c2483f9b6dcfa1784e62d8cd96be4cdf6e1e6d157983c3f36b00aecc78869b",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-mounjaro-mascara-force-hair.webp",
+      "storage_filename": "queda-de-cabelo-mounjaro-mascara-force-hair.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-mounjaro.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-mounjaro.json",
+          "line": 144,
+          "column": 19,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-mascara-force-hair.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292472,
+          "column": 21,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-mascara-force-hair.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b8c2483f9b6dcfa1784e62d8cd96be4cdf6e1e6d157983c3f36b00aecc78869b/queda-de-cabelo-mounjaro-mascara-force-hair.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b8c2483f9b6dcfa1784e62d8cd96be4cdf6e1e6d157983c3f36b00aecc78869b/queda-de-cabelo-mounjaro-mascara-force-hair.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:02.496Z",
+      "verification_etag_or_digest": "b8c2483f9b6dcfa1784e62d8cd96be4cdf6e1e6d157983c3f36b00aecc78869b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16532,
+      "sha256": "ea84a13ec5dd0b4a1953947dc8938e824f3cffb348aee2405bf483d5cfd0f9bd",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+      "storage_filename": "queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-mounjaro.json",
+        "content/reviews/queda-de-cabelo-wegovy.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-mounjaro.json",
+          "line": 136,
+          "column": 19,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/queda-de-cabelo-wegovy.json",
+          "line": 87,
+          "column": 19,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292464,
+          "column": 21,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292742,
+          "column": 21,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ea84a13ec5dd0b4a1953947dc8938e824f3cffb348aee2405bf483d5cfd0f9bd/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea84a13ec5dd0b4a1953947dc8938e824f3cffb348aee2405bf483d5cfd0f9bd/queda-de-cabelo-mounjaro-tonico-force-hair.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:02.765Z",
+      "verification_etag_or_digest": "ea84a13ec5dd0b4a1953947dc8938e824f3cffb348aee2405bf483d5cfd0f9bd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-o-que-fazer-capa.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-o-que-fazer-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50252,
+      "sha256": "06e38640b18c3b9c6b22f9f328f8905f51012a2ac10d08996ca2cb1e2bfb3fba",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-o-que-fazer-capa.webp",
+      "storage_filename": "queda-de-cabelo-o-que-fazer-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-o-que-fazer.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-o-que-fazer.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-o-que-fazer-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292840,
+          "column": 15,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-o-que-fazer-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/06e38640b18c3b9c6b22f9f328f8905f51012a2ac10d08996ca2cb1e2bfb3fba/queda-de-cabelo-o-que-fazer-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/06e38640b18c3b9c6b22f9f328f8905f51012a2ac10d08996ca2cb1e2bfb3fba/queda-de-cabelo-o-que-fazer-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:03.025Z",
+      "verification_etag_or_digest": "06e38640b18c3b9c6b22f9f328f8905f51012a2ac10d08996ca2cb1e2bfb3fba",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-ozempic-capa.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-ozempic-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54902,
+      "sha256": "0993865e5f44b071a61873d78d0c8afb98a2b824492b8ea0de4fb0d695e22b3e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-ozempic-capa.webp",
+      "storage_filename": "queda-de-cabelo-ozempic-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-ozempic.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-ozempic.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-ozempic-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292524,
+          "column": 15,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-ozempic-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0993865e5f44b071a61873d78d0c8afb98a2b824492b8ea0de4fb0d695e22b3e/queda-de-cabelo-ozempic-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0993865e5f44b071a61873d78d0c8afb98a2b824492b8ea0de4fb0d695e22b3e/queda-de-cabelo-ozempic-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:03.338Z",
+      "verification_etag_or_digest": "0993865e5f44b071a61873d78d0c8afb98a2b824492b8ea0de4fb0d695e22b3e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-ozempic-kit-force-hair.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-ozempic-kit-force-hair.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50796,
+      "sha256": "d071093af01390cfd45c4589abe26326d6dfd108d40fbc0a76c58f25dfd3e179",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-ozempic-kit-force-hair.webp",
+      "storage_filename": "queda-de-cabelo-ozempic-kit-force-hair.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-ozempic.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-ozempic.json",
+          "line": 128,
+          "column": 19,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-ozempic-kit-force-hair.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292629,
+          "column": 21,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-ozempic-kit-force-hair.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d071093af01390cfd45c4589abe26326d6dfd108d40fbc0a76c58f25dfd3e179/queda-de-cabelo-ozempic-kit-force-hair.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d071093af01390cfd45c4589abe26326d6dfd108d40fbc0a76c58f25dfd3e179/queda-de-cabelo-ozempic-kit-force-hair.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:03.619Z",
+      "verification_etag_or_digest": "d071093af01390cfd45c4589abe26326d6dfd108d40fbc0a76c58f25dfd3e179",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-wegovy-capa.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-wegovy-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57322,
+      "sha256": "05a1d28148c4663c593ff911d0399d7ac33c8753b8ab2ac4aecbcf152e1b5ca1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-wegovy-capa.webp",
+      "storage_filename": "queda-de-cabelo-wegovy-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-wegovy.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-wegovy.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-wegovy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292678,
+          "column": 15,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-wegovy-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/05a1d28148c4663c593ff911d0399d7ac33c8753b8ab2ac4aecbcf152e1b5ca1/queda-de-cabelo-wegovy-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/05a1d28148c4663c593ff911d0399d7ac33c8753b8ab2ac4aecbcf152e1b5ca1/queda-de-cabelo-wegovy-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:03.926Z",
+      "verification_etag_or_digest": "05a1d28148c4663c593ff911d0399d7ac33c8753b8ab2ac4aecbcf152e1b5ca1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+      "local_url": "/images/reviews/prohall/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20910,
+      "sha256": "c054d29feb0f725e52022fcec0f95eff19d93633ef41254ac804ae5b852ac58a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+      "storage_filename": "queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/queda-de-cabelo-o-que-fazer.json",
+        "content/reviews/queda-de-cabelo-wegovy.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/queda-de-cabelo-o-que-fazer.json",
+          "line": 140,
+          "column": 19,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/queda-de-cabelo-wegovy.json",
+          "line": 136,
+          "column": 19,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292791,
+          "column": 21,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292957,
+          "column": 21,
+          "literal": "/images/reviews/prohall/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c054d29feb0f725e52022fcec0f95eff19d93633ef41254ac804ae5b852ac58a/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c054d29feb0f725e52022fcec0f95eff19d93633ef41254ac804ae5b852ac58a/queda-de-cabelo-wegovy-shampoo-force-hair.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T03:02:04.215Z",
+      "verification_etag_or_digest": "c054d29feb0f725e52022fcec0f95eff19d93633ef41254ac804ae5b852ac58a",
       "verification_status": "verified"
     },
     {
