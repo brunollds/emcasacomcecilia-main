@@ -87,6 +87,7 @@ export default function LanguageSuggestion() {
       role="region"
       aria-label={copy.regionLabel}
       lang={LOCALES[locale].htmlLang}
+      dir={LOCALES[locale].dir}
       className="fixed inset-x-4 bottom-[max(1rem,env(safe-area-inset-bottom))] z-50 rounded-xl border-2 border-marinho bg-white p-4 text-marinho shadow-[4px_4px_0_var(--color-marinho)] motion-safe:animate-[slide-up_0.3s_ease-out] sm:inset-x-6 sm:bottom-6 sm:mx-auto sm:flex sm:max-w-2xl sm:items-center sm:gap-4 print:hidden"
     >
       <p className="text-sm leading-relaxed font-semibold sm:flex-1">{copy.message}</p>

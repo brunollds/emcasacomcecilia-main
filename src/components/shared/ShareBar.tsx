@@ -131,7 +131,7 @@ export function ShareBar({ url, title, contentType, imageUrl, locale = 'pt' }: S
 
   return (
     <div className="flex flex-wrap items-center gap-2 rounded-2xl bg-[#f4f1ea] p-3.5 print:hidden">
-      <span className="mr-0.5 text-sm text-[#4a5568]">{copy.share}</span>
+      <span className="me-0.5 text-sm text-[#4a5568]">{copy.share}</span>
 
       {networks.map(({ key, label, Icon, ...rest }) => (
         <button
@@ -162,7 +162,7 @@ export function ShareBar({ url, title, contentType, imageUrl, locale = 'pt' }: S
       <button
         type="button"
         onClick={handleCopy}
-        className="ml-auto flex items-center gap-1.5 rounded-lg border border-[#0f1419]/12 bg-white px-3.5 py-2 text-sm font-medium text-[#0f1419]"
+        className="ms-auto flex items-center gap-1.5 rounded-lg border border-[#0f1419]/12 bg-white px-3.5 py-2 text-sm font-medium text-[#0f1419]"
       >
         <LinkIcon size={16} className="text-[#4a5568]" />
         {copy.copyLink}

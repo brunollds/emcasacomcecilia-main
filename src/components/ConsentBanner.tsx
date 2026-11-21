@@ -72,7 +72,7 @@ export default function ConsentBanner({ copy }: { copy: ConsentCopy }) {
       role="region"
       aria-label={copy.regionLabel}
       tabIndex={-1}
-      className="fixed inset-x-4 bottom-[max(1rem,env(safe-area-inset-bottom))] z-50 rounded-xl border-2 border-marinho bg-white p-4 text-marinho shadow-[4px_4px_0_var(--color-marinho)] outline-none motion-safe:animate-[slide-up_0.3s_ease-out] sm:right-auto sm:left-6 sm:w-[min(640px,calc(100%-3rem))] sm:p-5 print:hidden"
+      className="fixed inset-x-4 bottom-[max(1rem,env(safe-area-inset-bottom))] z-50 rounded-xl border-2 border-marinho bg-white p-4 text-marinho shadow-[4px_4px_0_var(--color-marinho)] outline-none motion-safe:animate-[slide-up_0.3s_ease-out] sm:end-auto sm:start-6 sm:w-[min(640px,calc(100%-3rem))] sm:p-5 print:hidden"
     >
       <p className="text-sm leading-relaxed">
         {copy.message}{' '}
