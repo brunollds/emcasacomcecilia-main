@@ -12,6 +12,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { StoreMark } from '@/components/ui/StoreMark';
 import { useBubbleTilt } from '@/components/ui/useBubbleTilt';
+import { isRtl, readingOffset, readingScroll, scrollByReading, scrollToReading } from '@/components/ui/direction';
 import { ROW_ARROW, rowScrollBehavior, useRowScroll } from '@/components/ui/useRowScroll';
 import type { HomeCopy } from '@/components/sections/homeCopy';
 import { CECILIA_TAB_ID, getTabAnchor, getTabOrder, parseTabHash, type HomeStoreTab } from '@/lib/homeStoreTabs';
@@ -19,12 +20,12 @@ import { CECILIA_TAB_ID, getTabAnchor, getTabOrder, parseTabHash, type HomeStore
 // A faixa de bolinhas da vitrine, no padrão de abas: a da Cecília e uma por loja. A faixa é uma linha só
 // que rola na horizontal, no celular e no computador: a bolinha seguinte aparece pela metade, um degradê
 // em cada borda some quando não há mais para aquele lado e, a partir de md, uma seta em cada ponta anda
-// a faixa (as setas ficam fora do tablist, que só pode ter abas). No celular as bolinhas entram da direita
-// na carga (.bolinha no globals.css) e a faixa dá um empurrãozinho uma vez por sessão. As imagens das
+// a faixa (as setas ficam fora do tablist, que só pode ter abas). No celular as bolinhas entram pelo fim da
+// leitura na carga (.bolinha no globals.css) e a faixa dá um empurrãozinho uma vez por sessão. As imagens das
 // bolinhas carregam já (loading="eager", sem fetchpriority, que é da imagem do story): a faixa está
 // sempre na primeira tela.
 
-// O lado de onde o painel novo entra: 1 pela direita, -1 pela esquerda.
+// O lado físico de onde o painel novo entra: 1 pela direita, -1 pela esquerda (o --painel-de é um translate).
 export type TabDirection = 1 | -1;
 
 const NUDGE_PX = 96;
@@ -59,7 +60,7 @@ type HomeStoreStripProps = {
 
 export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect, copy }: HomeStoreStripProps) {
   const order = getTabOrder(tabs.map(({ slug }) => slug));
-  const { trackRef: stripRef, moreToTheRight, moreToTheLeft, scrollTrack } = useRowScroll<HTMLDivElement>(tabs);
+  const { trackRef: stripRef, moreAtEnd, moreAtStart, scrollTrack } = useRowScroll<HTMLDivElement>(tabs);
   const tabRefs = useRef(new Map<string, HTMLButtonElement>());
   // Qualquer toque, roda do mouse ou tecla na faixa cancela o empurrãozinho.
   const touched = useRef(false);
@@ -69,10 +70,7 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect, copy }:
     const strip = stripRef.current;
     const tab = tabRefs.current.get(selected);
     if (!strip || !tab || strip.scrollWidth <= strip.clientWidth) return;
-    strip.scrollTo({
-      left: tab.offsetLeft - (strip.clientWidth - tab.offsetWidth) / 2,
-      behavior: rowScrollBehavior(),
-    });
+    scrollToReading(strip, readingOffset(strip, tab) - (strip.clientWidth - tab.offsetWidth) / 2, rowScrollBehavior());
   }, [selected, stripRef]);
 
   // O empurrãozinho, depois da entrada das bolinhas (só no celular): só com a faixa no começo, sem
@@ -87,12 +85,12 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect, copy }:
       window.setTimeout(() => {
         // Aberta numa aba de fundo, ninguém vê: não gasta o empurrãozinho da sessão.
         if (document.visibilityState !== 'visible') return;
-        if (touched.current || strip.scrollLeft > 0 || strip.scrollWidth <= strip.clientWidth) return;
+        if (touched.current || readingScroll(strip) > 0 || strip.scrollWidth <= strip.clientWidth) return;
         markNudged();
-        strip.scrollBy({ left: NUDGE_PX, behavior: 'smooth' });
+        scrollByReading(strip, NUDGE_PX, 'smooth');
         timers.push(
           window.setTimeout(() => {
-            if (!touched.current) strip.scrollTo({ left: 0, behavior: 'smooth' });
+            if (!touched.current) scrollToReading(strip, 0, 'smooth');
           }, NUDGE_BACK_MS)
         );
       }, NUDGE_DELAY_MS)
@@ -104,19 +102,29 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect, copy }:
     touched.current = true;
   }
 
-  // Com o clique, o lado é a posição da bolinha nova em relação à atual.
-  function select(tabId: string) {
-    onSelect(tabId, order.indexOf(tabId) > order.indexOf(selected) ? 1 : -1);
+  // O lado físico do fim da leitura: a direita em LTR, a esquerda em RTL.
+  function forwardSide(): TabDirection {
+    return stripRef.current && isRtl(stripRef.current) ? -1 : 1;
   }
 
-  // Padrão de abas: setas andam (e voltam ao começo), Home e End vão às pontas. A tecla dá o lado.
+  // Com o clique, o lado é a posição da bolinha nova em relação à atual.
+  function select(tabId: string) {
+    const forward = forwardSide();
+    onSelect(tabId, order.indexOf(tabId) > order.indexOf(selected) ? forward : -forward as TabDirection);
+  }
+
+  // Padrão de abas: setas andam (e voltam ao começo), Home e End vão às pontas. A tecla dá o lado. Em RTL a
+  // próxima loja é a da seta para a esquerda.
   function onTabKeyDown(event: KeyboardEvent<HTMLButtonElement>) {
     const at = order.indexOf(selected);
+    const forward = forwardSide();
+    const back = -forward as TabDirection;
+    const [nextKey, previousKey] = forward === 1 ? ['ArrowRight', 'ArrowLeft'] : ['ArrowLeft', 'ArrowRight'];
     const moves: Partial<Record<string, [number, TabDirection]>> = {
-      ArrowRight: [at + 1, 1],
-      ArrowLeft: [at - 1, -1],
-      Home: [0, -1],
-      End: [order.length - 1, 1],
+      [nextKey]: [at + 1, forward],
+      [previousKey]: [at - 1, back],
+      Home: [0, back],
+      End: [order.length - 1, forward],
     };
     const move = moves[event.key];
     if (!move) return;
@@ -171,32 +179,32 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect, copy }:
       </div>
       <span
         aria-hidden="true"
-        className={`pointer-events-none absolute inset-y-0 left-0 w-12 bg-linear-to-r from-white to-transparent motion-safe:transition-opacity motion-safe:duration-200 max-md:hidden ${
-          moreToTheLeft ? 'opacity-100' : 'opacity-0'
+        className={`pointer-events-none absolute inset-y-0 start-0 w-12 bg-linear-to-r from-white to-transparent motion-safe:transition-opacity motion-safe:duration-200 max-md:hidden rtl:bg-linear-to-l ${
+          moreAtStart ? 'opacity-100' : 'opacity-0'
         }`}
       />
       <span
         aria-hidden="true"
-        className={`pointer-events-none absolute inset-y-0 right-0 w-12 bg-linear-to-l from-white to-transparent motion-safe:transition-opacity motion-safe:duration-200 ${
-          moreToTheRight ? 'opacity-100' : 'opacity-0'
+        className={`pointer-events-none absolute inset-y-0 end-0 w-12 bg-linear-to-l from-white to-transparent motion-safe:transition-opacity motion-safe:duration-200 rtl:bg-linear-to-r ${
+          moreAtEnd ? 'opacity-100' : 'opacity-0'
         }`}
       />
       {/* As setas ficam no centro dos discos (80 px + 6 px de folga em cima) e somem quando não há para onde ir. */}
       <button
         type="button"
-        onClick={() => scrollTrack('left')}
+        onClick={() => scrollTrack('start')}
         aria-label={copy.previousStores}
-        className={`${ROW_ARROW} absolute top-6 left-1 max-md:hidden ${moreToTheLeft ? '' : 'invisible'}`}
+        className={`${ROW_ARROW} absolute top-6 start-1 max-md:hidden ${moreAtStart ? '' : 'invisible'}`}
       >
-        <ChevronLeft aria-hidden="true" className="size-5" />
+        <ChevronLeft aria-hidden="true" className="size-5 rtl:-scale-x-100" />
       </button>
       <button
         type="button"
-        onClick={() => scrollTrack('right')}
+        onClick={() => scrollTrack('end')}
         aria-label={copy.nextStores}
-        className={`${ROW_ARROW} absolute top-6 right-1 max-md:hidden ${moreToTheRight ? '' : 'invisible'}`}
+        className={`${ROW_ARROW} absolute top-6 end-1 max-md:hidden ${moreAtEnd ? '' : 'invisible'}`}
       >
-        <ChevronRight aria-hidden="true" className="size-5" />
+        <ChevronRight aria-hidden="true" className="size-5 rtl:-scale-x-100" />
       </button>
     </div>
   );
