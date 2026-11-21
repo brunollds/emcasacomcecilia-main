@@ -17,7 +17,7 @@
   "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína e por 1.000 kcal.",
   "publishedAt": "18 de outubro de 2026",
   "publishedAtISO": "2026-10-18",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-20",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/max-titanium/max-titanium-ou-growth-capa-v2.webp",
@@ -173,6 +173,7 @@
         "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de tabela, sem o cupom; os da Growth são de novembro, e os da Max, de outubro."
       ],
       "comparisonTable": {
+        "caption": "O preço da creatina de 500 g da Max (pote e pack) foi relido depois, em novembro; os demais são da leitura original.",
         "headers": [
           "Produto",
           "Tamanho e doses",
@@ -189,14 +190,14 @@
           [
             "Max Creatina 500 g (pote)",
             "500 g, 100 doses",
-            "R$ 87,53",
-            "R$ 17,51"
+            "R$ 69,90",
+            "R$ 13,98"
           ],
           [
             "Max Pack 2 x Creatina 500 g",
             "1 kg, 200 doses",
-            "R$ 175,06",
-            "R$ 17,51"
+            "R$ 119,80",
+            "R$ 11,98"
           ],
           [
             "Growth Creatina 250 g",
@@ -219,7 +220,7 @@
         ]
       },
       "postParagraphs": [
-        "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 17,51 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). No Pix de outubro, a conta era outra: o refil da Growth saía a R$ 14,98 e o pote de 500 g da Max empatava com o pote da Growth (R$ 16,98). O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar. Com o cupom, o pote de 500 g da Max cai para R$ 15,28, e a Max de 300 g (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96 no Pix de outubro), que tem a mesma dose de 5 g.",
+        "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 13,98 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). O pote de 500 g da Max, no cartão, fica abaixo até do Pix de outubro do refil da Growth (R$ 14,98). O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar. Com o cupom, o pote de 500 g da Max cai para R$ 12,58 sobre o preço de tabela, e a Max de 300 g (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96 no Pix de outubro), que tem a mesma dose de 5 g.",
         "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix de outubro). A diferença é de preço, não de dose.",
         "A creatina 7Belo da Max, com sabor, fica fora desta tabela e aparece contra a gummy da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
       ],
@@ -366,7 +367,7 @@
         "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. A Max chega perto com o cupom (R$ 27,21), mas não passa a Growth.",
         "**Quer o whey de soro do leite que é o par direto da Growth:** o 100% Whey Refil da Max, que com o cupom fica a R$ 27,21 por 100 g de proteína, contra R$ 26,34 da Growth sem cupom.",
         "**Quer isolado e vai usar o cupom:** o IsoWhey 900 g da Max, a R$ 36,51 por 100 g de proteína com o cupom, contra R$ 39,27 da Growth no Pix.",
-        "**Quer a menor conta por grama de creatina:** o pote de 500 g da Max, a R$ 17,51 por 100 g no preço de tabela. No Pix de outubro, o refil da Growth saía a R$ 14,98, e com o cupom o pote da Max (R$ 15,28) ficava perto.",
+        "**Quer a menor conta por grama de creatina:** o pote de 500 g da Max, a R$ 13,98 por 100 g no preço de tabela, abaixo até do Pix de outubro do refil da Growth (R$ 14,98). Com o cupom, cai para R$ 12,58.",
         "**Quer creatina com o selo Creapure declarado pela loja:** a Creatina Creapure 250 g da Max, a R$ 54,28 por 100 g no Pix. É a mais cara das creatinas desta comparação.",
         "**Quer hipercalórico pelo preço por caloria:** o Mass Titanium 17500 Refil 3 kg, a R$ 9,81 por 1.000 kcal no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
         "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 11% mais caro que o Pix. Na Max, a diferença é menor, de cerca de 3%."
@@ -389,8 +390,8 @@
   ],
   "decision": {
     "takeIf": [
-      "Leve a Growth se você quer whey concentrado ou creatina refil pelo menor preço por grama.",
-      "Leve a Max se você quer hipercalórico pelo menor preço por caloria.",
+      "Leve a Growth se você quer whey concentrado pelo menor preço por grama de proteína.",
+      "Leve a Max se você quer creatina pelo menor preço por grama ou hipercalórico pelo menor preço por caloria.",
       "Leve o IsoWhey da Max se você compra isolado e vai usar o cupom."
     ],
     "skipIf": [
