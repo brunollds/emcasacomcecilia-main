@@ -1406,7 +1406,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     offerType: { code: 'كوبون', link: 'عرض' },
     offerTypePlural: { code: 'كوبونات', link: 'عروض' },
     heroTitle: (offerType, brand) => `${offerType} ${brand}:`,
-    heroCode: (code) => `باستخدام ⁦${code}⁩`,
+    heroCode: (code) => `باستخدام ${code}`,
     cutoutLabel: {
       code: (offerType, brand) => `رمز ${offerType} ${brand}`,
       link: (offerType, brand) => `كيف تحصل على ${offerType} ${brand}`,
@@ -1416,11 +1416,11 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     copyOnly: couponCopyLabels.ar.copyOnly,
     copy: 'انسخ',
     copied: 'تم النسخ',
-    copyCodeAria: (code) => `انسخ الرمز ⁦${code}⁩`,
-    copiedStatus: (code) => `تم نسخ الرمز ⁦${code}⁩.`,
-    copiedAndOpenedStatus: (code) => `تم نسخ الرمز ⁦${code}⁩. فُتح المتجر في علامة تبويب جديدة.`,
+    copyCodeAria: (code) => `انسخ الرمز ${code}`,
+    copiedStatus: (code) => `تم نسخ الرمز ${code}.`,
+    copiedAndOpenedStatus: (code) => `تم نسخ الرمز ${code}. فُتح المتجر في علامة تبويب جديدة.`,
     tiersSummary: (count, first, last) =>
-      `عدد الرموز ${count}: من خصم ⁦${first.discount}⁩ على الطلبات ابتداءً من ⁦${first.minPurchase}⁩ إلى خصم ⁦${last.discount}⁩ ابتداءً من ⁦${last.minPurchase}⁩.`,
+      `عدد الرموز ${count}: من خصم ${first.discount} على الطلبات ابتداءً من ${first.minPurchase} إلى خصم ${last.discount} ابتداءً من ${last.minPurchase}.`,
     chooseMyTier: 'اختر فئتي',
     chooseTier: 'اختر الفئة',
     goToStore: 'اذهب إلى المتجر',
@@ -1455,7 +1455,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     highlight: {
       code: ({ offerType, brand, code, discount, scope, monthYear }) =>
-        `${offerType} ${brand} محدَّث: ⁦${code}⁩ — ${discount} ${scope} (${monthYear}).`,
+        `${offerType} ${brand} محدَّث: ${code} — ${discount} ${scope} (${monthYear}).`,
       link: ({ brand, discount, scope, monthYear }) => `تحديث عرض ${brand}: ${discount} ${scope} (${monthYear}).`,
       note: (note) => `${note}. تحقق من الشروط والسعر النهائي قبل إتمام الشراء.`,
     },
@@ -1475,16 +1475,16 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
     },
     referralVerified: (date) => `تم التحقق في ${date}.`,
     howToTitle: {
-      code: (offerType, code) => `كيف تستخدم ${offerType} ⁦${code}⁩`,
+      code: (offerType, code) => `كيف تستخدم ${offerType} ${code}`,
       link: ({ brand }) => `كيف تحصل على عرض ${brand}`,
     },
     instructions: {
       code: ({ code, brand, discount }) => [
-        `انسخ الرمز ⁦${code}⁩ من البطاقة أعلاه.`,
+        `انسخ الرمز ${code} من البطاقة أعلاه.`,
         `افتح متجر ${brand} عبر الزر المخصص.`,
         'أضف المنتجات التي تريدها إلى السلة.',
         'الصق الرمز في خانة الكوبون/الخصم قبل إتمام الطلب.',
-        `تأكد من ظهور خصم ⁦${discount}⁩ في ملخص الطلب.`,
+        `تأكد من ظهور خصم ${discount} في ملخص الطلب.`,
       ],
       link: ({ brand }) => [
         `افتح عرض ${brand} عبر الزر المخصص.`,
@@ -1518,7 +1518,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
       link: 'تحتوي هذه الصفحة على رابط تسويق بالعمولة. عندما تفتح العرض وتشتري عبر الرابط المحدد، قد يحصل Em Casa com Cecília على عمولة من العلامة التجارية، دون أي تكلفة إضافية عليك.',
     },
     offerName: {
-      code: ({ discount, brand, offerType, code }) => `${discount} من ${brand} مع ${offerType} ⁦${code}⁩`,
+      code: ({ discount, brand, offerType, code }) => `${discount} من ${brand} مع ${offerType} ${code}`,
       link: (discount, { brand }) => `${discount} من ${brand} عبر الرابط المحدد`,
     },
   },

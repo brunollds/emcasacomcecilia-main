@@ -412,7 +412,7 @@ export const COUPON_HUB_COPY: Record<TranslatedLocale, CouponHubCopy> = {
       {
         question: 'ماذا لو لم يعمل الرمز؟',
         answer:
-          'تأكد من أن المنتج مؤهل ومن أنك كتبت الرمز بشكل صحيح. وإذا استمر عدم عمله، فراسلنا على ⁦contato@emcasacomcecilia.com⁩ لنراجع المعلومة.',
+          'تأكد من أن المنتج مؤهل ومن أنك كتبت الرمز بشكل صحيح. وإذا استمر عدم عمله، فراسلنا على contato@emcasacomcecilia.com لنراجع المعلومة.',
       },
     ],
     transparency:
