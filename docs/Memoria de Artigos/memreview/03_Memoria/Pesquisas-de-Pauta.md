@@ -8,6 +8,14 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## BAW: calçados e marcas de streetwear (20/11/2026)
+
+- **Gatilho:** artigo da cupomtiff sobre os tênis da BAW (18/10), genérico, sem modelo nem preço. O Bruno quer a apresentação primeiro e depois a busca dos concorrentes.
+- **Catálogo:** 13 calçados, 6 modelos de tênis (Thunder, Grip Mad, Baseline, Audacity, Session Revival, Truck), slides BAW e Goth e a Sandália Linus, collab Linus + BAW. Só o Grip Mad, o Truck e a Linus têm ficha.
+- **Trends (conta do Bruno, 12 meses):** "sandalia linus" 18, "tenis baw" 5, "slide baw" 2, "tenis tipo vans" 1; noutra comparação, "tenis vans" 63 e "tenis all star" 18. Relacionadas em ascensão de "baw clothing": Pace (+600%), Carnan (+300%), Youcom (+140%), "cupom baw clothing" (+110%), Dust (+100%).
+- **Leitura:** disputar a busca da Vans rende pouco; comparar com marcas de streetwear do mesmo público rende mais. A Pace é premium (tênis de R$ 679 a R$ 1.650).
+- **Viraram:** BW7, BW8 e BW9. Fatos em [[baw-calcados-fatos-2011]]. Próxima rodada da BAW: Carnan, Youcom e Dust.
+
 ## Prohall: queda de cabelo e canetas GLP-1 (20/11/2026)
 
 - **Gatilho:** a Prohall abriu a coleção "Kits especiais GLP-1" (Force Hair, Encorpax, Selve Power, Overgrow, Absolut One), dizendo que durante ou depois do uso de GLP-1 os fios ficam mais frágeis ou caem mais. O Bruno quis seguir o enquadramento, para as canetas e para a queda em geral.
