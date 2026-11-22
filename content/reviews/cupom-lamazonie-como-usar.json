@@ -13,6 +13,8 @@
   },
   "publishedAt": "16 de novembro de 2026",
   "publishedAtISO": "2026-11-16",
+  "updatedAt": "2026-11-22",
+  "bodyDatesReason": "campanha",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -43,14 +45,17 @@
       "slug": "lamazonie-reclame-aqui-nota-reputacao"
     },
     {
-      "slug": "cupom-la-ganexa-como-usar"
+      "slug": "cupom-lamazonie-primeira-compra"
+    },
+    {
+      "slug": "black-friday-lamazonie"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O cupom CECILIA dá 5% OFF na L'Amazonie, para cliente novo e antigo. No teste, funcionou no checkout aberto pelo botão Finalizar compra. Digite em Tem um cupom?, clique em Adicionar e confira o desconto. Soma com o Pix e, no carrinho testado, entrou também em um kit em promoção."
+        "O cupom CECILIA dá 5% OFF na L'Amazonie, para cliente novo e antigo. No teste, funcionou no checkout aberto pelo botão Finalizar compra, no campo Tem um cupom?, sobre um kit em promoção e sobre a oferta de Black Friday. A loja anuncia 3% no Pix; não testamos o Pix junto com o cupom."
       ]
     },
     {
@@ -88,28 +93,34 @@
     {
       "heading": "Quanto o cupom tira: a conta do nosso teste",
       "paragraphs": [
-        "Em 16 de novembro de 2026, montamos um carrinho com dois itens. O Sérum para crescimento de Cílios e Sobrancelhas custava R$ 159,00. O Kit 2 Protetores Solares de Tratamento FPS 99 custava R$ 249,00. Dois protetores avulsos, a R$ 159,00 cada, sairiam mais caros.",
-        "Com o código, os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. A linha Descontos mostrou R$ 20,40. São 5% sobre os produtos do carrinho, inclusive sobre o kit."
+        "Em 16/11 montamos um carrinho com dois itens. O [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas) custava R$ 159,00. O [Kit 2 Protetores Solares de Tratamento FPS 99](https://www.lamazonie.com.br/products/kit-2-protetores-solar-facial-stick) custava R$ 249,00. Dois protetores avulsos, a R$ 159,00 cada, sairiam mais caros.",
+        "Com o código, os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. A linha Descontos mostrou R$ 20,40. São 5% sobre os produtos do carrinho, inclusive sobre o kit.",
+        "No teste de 22/11, repetimos o caminho com a oferta de Black Friday de [sérum de sobrancelhas com o protetor solar incolor FPS 99 de presente](https://www.lamazonie.com.br/products/bf-serum-sobrancelhas-protetor-gratis), a R$ 159,00. No checkout seguro.lamazonie.com.br, o CECILIA foi aceito (“Cupom adicionado”), e o total foi de R$ 159,00 para R$ 151,05, com desconto de R$ 7,95. Paramos antes dos dados pessoais, então o frete não foi calculado."
       ]
     },
     {
       "heading": "O cupom soma com kit, promoção e Pix?",
       "paragraphs": [
-        "Com kit em promoção, somou no nosso teste. Os 5% saíram do preço do kit, que já era menor que o de dois avulsos. Foi um kit testado, então confira a linha Descontos no seu carrinho.",
-        "No Pix, a loja dá 3% de desconto, e o checkout avisa “Você ganhou 3% de desconto pagando com Pix”. Esse desconto é da forma de pagamento e vem à parte do desconto do código. Não chegamos à etapa do pagamento no teste, então escolha o Pix e confira o total do resumo antes de pagar."
+        "Com kit em promoção, somou no nosso teste. Os 5% saíram do preço do kit, que já era menor que o de dois avulsos. Na oferta de Black Friday do sérum, de 22/11, o código também entrou sobre o preço da oferta. Foram dois itens testados, então confira a linha Descontos no seu carrinho.",
+        "Sobre o Pix, o que sabemos é o que a loja anuncia: o checkout mostra “Você ganhou 3% de desconto pagando com Pix”. Não testamos o Pix junto com o cupom, porque paramos antes do pagamento. Escolha a forma de pagamento e confira o total do resumo antes de concluir.",
+        "Por isso, não trate os dois percentuais como um número só. O desconto do código é o que você vê na linha Descontos; o que o Pix muda no total só aparece na etapa do pagamento."
       ]
     },
     {
       "heading": "Frete: olhe o total entregue",
       "paragraphs": [
         "O desconto do código é sobre os produtos. A loja informa frete grátis acima de R$ 199 para quase todo o Brasil e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima.",
-        "Um sérum sozinho, a R$ 159,00, fica abaixo dos R$ 199, e a página do produto sugere levar mais uma unidade para ganhar o frete. Antes de decidir, simule com o seu CEP e compare o total entregue, produtos mais frete, nas duas quantidades. Confira também o frete depois de aplicar o código."
+        "Um sérum sozinho, a R$ 159,00, fica abaixo dos R$ 199, e a página do [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas) sugere levar mais uma unidade para ganhar o frete. Antes de decidir, simule com o seu CEP e compare o total entregue, produtos mais frete, nas duas quantidades.",
+        "Confira também o frete depois de aplicar o código: ele muda o total do carrinho e pode mudar se você passou ou não do mínimo da loja. Não vimos como a loja conta esse mínimo, antes ou depois do desconto, então a simulação com o CEP é o que decide.",
+        "Quem compra o kit de protetores, a R$ 249,00, já passa dos R$ 199 antes do código; no total de dois itens do nosso teste, a conta ficou bem acima disso."
       ]
     },
     {
       "heading": "Cashback é crédito para depois",
       "paragraphs": [
-        "O checkout anuncia 15% de cashback para a próxima compra. Segundo a loja, é um crédito com validade para um pedido futuro, separado do preço que você paga hoje. Não testamos o uso desse crédito. Para a compra de agora, o que conta é o total do resumo."
+        "O checkout anuncia 15% de cashback para a próxima compra. Segundo a loja, é um crédito com validade para um pedido futuro, que vale só em compras no site e cobre até 30% desse pedido.",
+        "Ele aparece como uma linha à parte no resumo, e não muda o preço que você paga hoje. Não testamos o uso desse crédito, e a loja não escreve como ele convive com o código de desconto, por isso tratamos os dois como coisas separadas.",
+        "Para a compra de agora, o que conta é o total do resumo: confira a linha Descontos e o valor final antes de pagar."
       ]
     },
     {
@@ -126,7 +137,9 @@
     {
       "heading": "Vale para quem já é cliente?",
       "paragraphs": [
-        "Vale. O CECILIA serve para o primeiro pedido e para os seguintes. O mesmo código existe em outra loja parceira, a La Ganexa, com outro percentual ([como usar o CECILIA na La Ganexa](/reviews/cupom-la-ganexa-como-usar)). Na L'Amazonie, são 5%."
+        "Vale. O CECILIA serve para o primeiro pedido e para os seguintes, então dá para usar de novo em cada compra no site oficial. Em cada pedido, repita o caminho: Finalizar compra, campo Tem um cupom?, Adicionar e conferir a linha Descontos.",
+        "O mesmo código existe em outra loja parceira, a La Ganexa, com outro percentual ([como usar o CECILIA na La Ganexa](/reviews/cupom-la-ganexa-como-usar)). Na L'Amazonie, são 5%: não leve a porcentagem de uma loja para a outra.",
+        "Se você ainda vai escolher o que comprar, o guia de [primeira compra](/reviews/cupom-lamazonie-primeira-compra) e o da [Black Friday](/reviews/black-friday-lamazonie) mostram os preços e as ofertas do site."
       ]
     },
     {
@@ -134,7 +147,8 @@
       "bullets": [
         "Onde coloco o cupom na L'Amazonie? No checkout aberto pelo botão “Finalizar compra”, no campo “Tem um cupom?” do resumo. Clique em “Adicionar” e confira a linha Descontos.",
         "Por que aparece “Insira um código de desconto válido”? No nosso teste, a mensagem apareceu quando digitamos o código na página lamazonie.com.br/checkout, no campo “Código de desconto”. Volte ao carrinho, clique em “Finalizar compra” e use o campo “Tem um cupom?”.",
-        "O cupom vale nos kits em promoção? No nosso teste, valeu. Os 5% entraram sobre o preço de um kit de protetores.",
+        "O cupom vale nos kits em promoção? No nosso teste, valeu. Os 5% entraram sobre o preço de um kit de protetores e sobre a oferta de Black Friday do sérum de sobrancelhas.",
+        "O cupom soma com o Pix? A loja anuncia 3% de desconto no Pix, mas não testamos o Pix junto com o cupom. Confira o total do resumo na etapa do pagamento.",
         "O cupom vale no Mercado Livre? Não. O código vale no site oficial da L'Amazonie. Em marketplace, vale o preço do anúncio.",
         "O cupom CECILIA vale para quem já é cliente? Vale, no primeiro pedido e nos seguintes."
       ]

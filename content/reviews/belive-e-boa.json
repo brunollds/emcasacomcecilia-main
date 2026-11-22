@@ -2,7 +2,7 @@
   "id": 786,
   "slug": "belive-e-boa",
   "title": "Belive é boa? Os doces sem açúcar, os salgadinhos, os pães e o que vale comprar da marca",
-  "seoTitle": "Belive é boa? Brownie, salgadinho, pão sem glúten pelo rótulo",
+  "seoTitle": "Belive é boa? Doces, salgadinhos e pães sem glúten",
   "type": "Guia de Marca",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -17,7 +17,7 @@
   "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Doces, snacks e pães sem glúten pelo rótulo, preço e frete por região: para quem compensa.",
   "publishedAt": "3 de novembro de 2026",
   "publishedAtISO": "2026-11-03",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/belive/belive-e-boa-capa-v2.webp",
@@ -42,7 +42,7 @@
         "**Panetone e chocotone:** dois panetones zero açúcar e os kits de 3, de época.",
         "**Salgadinhos e snacks:** o snack proteico, o snack de arroz, o salgadinho de milho de 25 g, os GoodSoy e os chips de batata-doce e de mandioca.",
         "**Pães:** pão de forma tradicional, multigrãos e de batata-doce, pãezinhos de batata, cebola, cenoura e brioche de coco, e bisnaguinha.",
-        "**Combos e kits:** caixas de 10, combos de 4 pacotes de pão, kits de lanche escolar e os \"Completão\" de 25 a 40 unidades."
+        "**Combos e kits:** caixas de 10, combos de 4 pacotes de pão, kits de lanche escolar (como o [Kit Lanche Escolar de 25 bolinhos](https://belivebefree.com.br/produto/kit-lanche-escolar-bolinho-sem-gluten-belive/)) e os combos de doces, de 16 a 40 unidades, como o [Combo Doces 16](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-belive/) e o [Combo Doces Completão 30](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-completao-belive/)."
       ],
       "postParagraphs": [
         "Os GoodSoy são de outra marca do mesmo grupo, criada antes da Belive e feita na mesma fábrica; a loja os vende junto com os dela."
@@ -57,7 +57,7 @@
         "headers": [
           "Produto",
           "Unidade",
-          "Preço de lista",
+          "Preço no site",
           "Kit de 10"
         ],
         "rows": [
@@ -65,62 +65,63 @@
             "[Brownie de Chocolate Sem Açúcar](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
             "40 g",
             "R$ 6,97",
-            "R$ 69,70"
+            "[R$ 64,82](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)"
           ],
           [
             "[Brownie Proteico Double Chocolate Sem Açúcar](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
             "40 g",
             "R$ 7,97",
-            "R$ 79,70"
+            "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)"
           ],
           [
             "[Pão de Mel Sem Açúcar](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/)",
             "45 g",
             "R$ 7,97",
-            "R$ 79,70"
+            "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-pao-de-mel-fit-sem-gluten-sem-acucar-sem-leite-belive/)"
           ],
           [
             "[Pão de Mel Proteico Sem Açúcar](https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/)",
             "45 g",
             "R$ 8,49",
-            "R$ 84,90"
+            "[R$ 78,96](https://belivebefree.com.br/produto/kit-10-pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/)"
           ],
           [
             "[Bolinho de Chocolate Sem Açúcar](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/)",
             "40 g",
             "R$ 5,39",
-            "R$ 53,90"
+            "[R$ 50,13](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/)"
           ],
           [
             "[Bolinho de Cenoura com Cobertura, linha Special](https://belivebefree.com.br/produto/bolinho-de-cenoura-com-cobertura-de-chocolate-sem-gluten-sem-acucar-sem-leite-belive/)",
             "45 g",
             "R$ 6,97",
-            "R$ 69,70"
+            "[R$ 64,82](https://belivebefree.com.br/produto/kit-10-bolinhos-de-cenoura-com-cobertura-de-chocolate-sem-gluten-sem-acucar-sem-leite-belive/)"
           ],
           [
             "[Bolinho para Criança, brigadeiro ou morango](https://belivebefree.com.br/produto/bolinho-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
             "45 g",
             "R$ 6,97",
-            "R$ 69,70"
+            "[R$ 64,82](https://belivebefree.com.br/produto/kit-10-bolinhos-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)"
           ],
           [
             "[Cookie de Chocolate Sem Açúcar](https://belivebefree.com.br/produto/cookie-de-chocolate-fit-sem-gluten-sem-acucar-sem-leite-belive/)",
             "pacote com 4",
             "R$ 8,97",
-            "R$ 89,70"
+            "[R$ 83,42](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-fit-sem-gluten-sem-acucar-sem-leite-belive/)"
           ],
           [
-            "[Bolo de Cenoura com Cobertura, inteiro](https://belivebefree.com.br/produto/bolo-de-cenoura-com-cobertura-de-chocolate-sem-gluten-sem-acucar-sem-leite-belive/)",
+            "[Bolo de Chocolate, inteiro](https://belivebefree.com.br/produto/bolo-de-chocolate-sem-gluten-sem-acucar-sem-leite-sem-lactose-belive/)",
             "1 bolo",
-            "R$ 34,90",
+            "R$ 31,90",
             "—"
           ]
         ],
-        "caption": "Preço de lista do site em 03/11, sem o código. A loja vendia a maior parte da linha com desconto de promoção no dia, e o preço riscado da página é o desta tabela."
+        "caption": "Preços do site na consulta de 22/11, sem o MAUAD e sem o desconto do Pix."
       },
       "postParagraphs": [
-        "Conta nossa, pelos preços de lista da tabela: o kit de 10 custa o mesmo que 10 unidades avulsas. O kit só sai mais barato por unidade quando está em promoção, e no dia estava, em toda a linha; confira o preço riscado antes de levar a caixa pensando que ela já é o desconto.",
-        "Atenção ao nome parecido: o Brownie Proteico Double Chocolate \"Sem Glúten Sem Lactose\" não é sem açúcar, e a lista de ingredientes dele começa por açúcar. O sem açúcar é o \"Sem Açúcar Sem Glúten Sem Leite\". O bolinho para criança, de 45 g, tem mais calorias e mais gordura saturada que o bolinho adulto de 40 g, e o Kit Lanche Escolar de 25 bolinhos não traz nenhum kids: são os adultos de 40 g.",
+        "Pelos preços da tabela, o kit de 10 sai cerca de 7% mais barato por unidade que o avulso: no brownie de chocolate, 10 unidades avulsas somam R$ 69,70 e o kit custa R$ 64,82. Vale levar a caixa quando você já ia comprar essa quantidade.",
+        "A linha tem outros sabores, todos também em kit de 10. Os brownies [Fit Chocolate com Coco](https://belivebefree.com.br/produto/brownie-fit-chocolate-com-coco-sem-acucar-sem-gluten-sem-leite-belive/) e [Doce de Leite](https://belivebefree.com.br/produto/brownie-de-doce-de-leite-sem-acucar-sem-gluten-sem-leite-belive/) custam R$ 6,97; o de [Chocolate com Nozes](https://belivebefree.com.br/produto/brownie-sem-acucar-sem-gluten-sem-leite-chocolate-com-nozes-belive/), R$ 7,49; e os proteicos [Caramelo Salgado](https://belivebefree.com.br/produto/brownie-proteico-caramelo-salgado-sem-acucar-sem-gluten-sem-leite-belive/), [Cappuccino](https://belivebefree.com.br/produto/brownie-proteico-cappuccino-sem-acucar-sem-gluten-sem-leite-belive/) e [Chocolate com Avelã](https://belivebefree.com.br/produto/brownie-proteico-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/), R$ 7,97. O [bolinho para criança de morango](https://belivebefree.com.br/produto/bolinho-para-crianca-sabor-morango-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/) custa R$ 6,97, como o de brigadeiro.",
+        "Atenção ao nome parecido: o Brownie Proteico Double Chocolate \"Sem Glúten Sem Lactose\" não é sem açúcar, e a lista de ingredientes dele começa por açúcar. O sem açúcar é o \"Sem Açúcar Sem Glúten Sem Leite\". O bolinho para criança, de 45 g, tem mais calorias e mais gordura saturada que o bolinho adulto de 40 g, e o [Kit Lanche Escolar de 25 bolinhos](https://belivebefree.com.br/produto/kit-lanche-escolar-bolinho-sem-gluten-belive/) não traz nenhum kids: são os adultos de 40 g.",
         "Os doces servem a quem quer um doce pronto, embalado por unidade, sem glúten e sem leite. Não escolha pelo \"sem açúcar\" se o que você controla é carboidrato: o rótulo não separa o maltitol da linha de carboidratos, e a conta para o seu caso é com o nutricionista."
       ],
       "images": [
@@ -141,28 +142,28 @@
       "comparisonTable": {
         "headers": [
           "Produto",
-          "Preço de lista"
+          "Preço no site"
         ],
         "rows": [
           [
             "[Panetone Zero Açúcar de Chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/)",
-            "R$ 64,90"
+            "R$ 59,90"
           ],
           [
             "[Panetone Zero Açúcar de Frutas Cristalizadas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/)",
-            "R$ 64,90"
+            "R$ 59,90"
           ],
           [
             "[Kit 3 Chocotones](https://belivebefree.com.br/produto/oferta-especial-kit-3-chocotones-sem-gluten-sem-acucar-sem-leite-belive/)",
-            "R$ 194,70"
+            "R$ 175,90"
           ],
           [
             "[Kit 1 Panetone de Frutas + 2 Chocotones](https://belivebefree.com.br/produto/kit-panetone-chocotones-sem-gluten-zero-acucar-belive/)",
-            "R$ 194,70"
+            "R$ 175,90"
           ],
           [
             "[Kit 3 Panetones de Frutas](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/)",
-            "R$ 194,70"
+            "R$ 175,90"
           ]
         ]
       },
@@ -180,7 +181,7 @@
         "headers": [
           "Produto",
           "Pacote",
-          "Preço de lista",
+          "Preço no site",
           "Combo"
         ],
         "rows": [
@@ -188,36 +189,36 @@
             "[Snack Proteico, 4 sabores](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/)",
             "35 g",
             "R$ 7,97",
-            "16 por R$ 127,52"
+            "[16 por R$ 119,90](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/)"
           ],
           [
             "[Snack de Arroz, 4 sabores](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-snack-de-arroz-belive/)",
             "35 g",
             "R$ 5,19",
-            "20 por R$ 103,80"
+            "[20 por R$ 95,90](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/)"
           ],
           [
             "[Salgadinho de milho com vitaminas, 4 sabores](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-com-vitaminas-belive-25g/)",
             "25 g",
             "R$ 3,97",
-            "30 por R$ 144,86"
+            "[30 por R$ 131,90](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-lactose-sem-leite-belive-30-unid/)"
           ],
           [
             "[GoodSoy, 7 sabores](https://belivebefree.com.br/produto/goodsoy-snacks-salgadinho-de-queijo-sem-gluten-sem-leite-sem-lactose/)",
             "25 g",
             "R$ 3,97",
-            "20 por R$ 79,40"
+            "[20 por R$ 74,90](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-snacks-goodsoy/)"
           ],
           [
             "[Chips de batata-doce e de mandioca, 5 sabores](https://belivebefree.com.br/produto/chips-de-batata-doce-sem-gluten-belive-temperados-com-sal-rosa-do-himalaia/)",
             "50 g",
             "R$ 7,97",
-            "18 por R$ 143,46"
+            "[18 por R$ 131,90](https://belivebefree.com.br/produto/combo-chips-de-batata-doce-e-mandioca-sem-gluten-com-temperos-naturais-belive/)"
           ]
         ]
       },
       "postParagraphs": [
-        "Por grama de proteína o proteico sai bem mais barato que o de arroz, mesmo custando mais o pacote. A tabela de alérgenos da loja marca derivados de soja nos oito snacks de 35 g e não marca leite em nenhum. Para a lancheira, o pacote de 25 g é a porção pequena; para a bolsa de academia, o proteico; para o petisco de receber gente, o chips. Não escolha o snack proteico esperando menos calorias: ele tem quase as mesmas do de arroz."
+        "O snack proteico tem quatro sabores: [Queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Presunto](https://belivebefree.com.br/produto/snack-proteico-sabor-presunto-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Cebola e Salsa](https://belivebefree.com.br/produto/snack-proteico-sabor-cebola-e-salsa-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) e [Barbecue](https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/). Por grama de proteína o proteico sai bem mais barato que o de arroz, mesmo custando mais o pacote. A tabela de alérgenos da loja marca derivados de soja nos oito snacks de 35 g e não marca leite em nenhum. Para a lancheira, o pacote de 25 g é a porção pequena; para a bolsa de academia, o proteico; para o petisco de receber gente, o chips. Não escolha o snack proteico esperando menos calorias: ele tem quase as mesmas do de arroz."
       ],
       "images": [
         {
@@ -238,7 +239,7 @@
         "headers": [
           "Produto",
           "Pacote",
-          "Preço de lista",
+          "Preço no site",
           "Combo de 4 pacotes"
         ],
         "rows": [
@@ -246,54 +247,54 @@
             "[Pão de forma tradicional](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/)",
             "400 g",
             "R$ 22,90",
-            "R$ 91,60"
+            "[R$ 83,90](https://belivebefree.com.br/produto/combo-pao-sem-gluten-sem-lactose-sem-leite-tradicionais-belive/)"
           ],
           [
             "[Pão de forma multigrãos](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-multigraos-belive/)",
             "400 g",
             "R$ 22,90",
-            "R$ 91,60"
+            "[R$ 83,90](https://belivebefree.com.br/produto/combo-pao-sem-gluten-sem-lactose-sem-leite-multigraos-belive/)"
           ],
           [
             "[Pão de forma de batata-doce](https://belivebefree.com.br/produto/pao-de-batata-doce-pao-de-forma-sem-gluten-sem-lactose-sem-leite-belive-400g/)",
             "400 g",
             "R$ 22,90",
-            "R$ 91,60"
+            "[R$ 83,90](https://belivebefree.com.br/produto/combo-pao-de-batata-doce-pao-de-forma-sem-gluten-sem-lactose-sem-leite-belive-4-pacotes/)"
           ],
           [
             "[Pão de batata, pãozinho](https://belivebefree.com.br/produto/pao-de-batata-sem-gluten-sem-leite-sem-lactose-paozinho-belive/)",
             "198 g, cerca de 9",
             "R$ 20,90",
-            "R$ 83,60"
+            "[R$ 76,90](https://belivebefree.com.br/produto/combo-pao-de-batata-sem-gluten-sem-leite-sem-lactose-belive-4-pacotes/)"
           ],
           [
             "[Pão de cebola, pãozinho](https://belivebefree.com.br/produto/pao-de-cebola-sem-gluten-sem-lactose-sem-leite-belive/)",
             "pacote",
             "R$ 20,90",
-            "R$ 83,60"
+            "[R$ 76,90](https://belivebefree.com.br/produto/combo-pao-de-cebola-sem-gluten-sem-lactose-sem-leite-belive/)"
           ],
           [
             "[Pão de cenoura, pãozinho](https://belivebefree.com.br/produto/pao-de-cenoura-sem-gluten-sem-leite-zero-lactose-belive-200g/)",
             "200 g",
             "R$ 20,90",
-            "R$ 83,60"
+            "[R$ 76,90](https://belivebefree.com.br/produto/combo-pao-de-cenoura-sem-gluten-sem-leite-zero-lactose-belive-4-pacotes/)"
           ],
           [
             "[Brioche de coco, pão doce](https://belivebefree.com.br/produto/pao-brioche-de-coco-pao-doce-sem-gluten-sem-leite-zero-lactose-belive-200g/)",
             "200 g, cerca de 8",
             "R$ 20,90",
-            "R$ 83,60"
+            "[R$ 76,90](https://belivebefree.com.br/produto/combo-pao-doce-de-coco-brioche-sem-gluten-sem-leite-zero-lactose-belive-4-pacotes/)"
           ],
           [
             "[Bisnaguinha tradicional](https://belivebefree.com.br/produto/bisnaguinha-sem-gluten-sem-lactose-sem-leite-com-vitaminas-tradicional-belive/)",
             "200 g, cerca de 7",
             "R$ 20,90",
-            "R$ 83,60"
+            "[R$ 76,90](https://belivebefree.com.br/produto/combo-bisnaguinha-sem-gluten-sem-leite-com-vitaminas-tradicional-belive/)"
           ]
         ]
       },
       "postParagraphs": [
-        "O combo de quatro custa, em lista, o mesmo que quatro pacotes avulsos; compare a oferta do dia e a quantidade que você quer. O Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. Cada pão tem tabela nutricional em imagem e ingredientes nas abas da página. O multigrãos leva castanha-do-pará; quem evita castanhas deve ler o aviso de alérgenos do produto escolhido antes de comprar. O pão de forma atende ao uso diário; pãozinho e bisnaguinha são opções para lancheira e café. Compare o total com frete antes de aumentar a quantidade."
+        "O combo de quatro pacotes sai cerca de 8% mais barato que quatro pacotes avulsos; o [combo de seis pãezinhos de batata](https://belivebefree.com.br/produto/combo-pao-de-batata-sem-gluten-sem-leite-sem-lactose-belive-6-pacotes-2/) custa R$ 112,90. O [Kit Pães Completão](https://belivebefree.com.br/produto/kit-paes-sem-gluten-sem-lactose-sem-leite-completao-belive-10-pacotes/), com 11 pacotes variados, custa R$ 182,90. Cada pão tem tabela nutricional em imagem e ingredientes nas abas da página. O multigrãos leva castanha-do-pará; quem evita castanhas deve ler o aviso de alérgenos do produto escolhido antes de comprar. O pão de forma atende ao uso diário; pãozinho e bisnaguinha são opções para lancheira e café. Compare o total com frete antes de aumentar a quantidade."
       ],
       "images": [
         {
@@ -311,12 +312,6 @@
         "Com o código da Belive, todo o site sai 10% mais barato, em todas as formas de pagamento, na primeira compra e nas seguintes, e o desconto soma com as promoções da loja e com os 5% do Pix. No teste do cupom, um carrinho com quatro combos em oferta, de R$ 576,82, caiu para R$ 519,14 com o código e para R$ 493,18 no Pix. O código vai no campo \"Código do cupom\" do carrinho, com o botão \"Aplicar cupom\"; a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
         "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout. O frete grátis considera o subtotal antes do código. Compare o custo do frete com o de acrescentar produtos que você realmente vai consumir.",
         "A Belive também vende no [Mercado Livre](https://meli.la/2xDjP2k), onde o código não vale e o preço é o do anúncio. Compare a mesma quantidade e os mesmos produtos, incluindo frete. No site oficial, aplique o código e a condição de pagamento escolhida antes de comparar o total."
-      ]
-    },
-    {
-      "heading": "Dá para confiar na Belive",
-      "paragraphs": [
-        "Dá. A loja é da NHD Foods Indústria, Comércio, Importação e Exportação Ltda., com CNPJ, razão social, trocas e frete publicados no site e unidades em Uberaba (MG). No Reclame Aqui, o perfil tinha nota 8,1, Ótima, na janela de abril a setembro. Foram 39 reclamações recebidas e 15 avaliadas nessa aba; o índice de resolução era 80% entre as avaliadas. CNPJ, reconhecimento do site oficial, trocas e frete estão em [Belive é confiável?](/reviews/belive-e-confiavel); os períodos e a amostra do Reclame Aqui estão no guia listado ao fim."
       ]
     },
     {

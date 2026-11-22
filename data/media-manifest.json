@@ -46803,6 +46803,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/belive-reclame-aqui-principais-problemas-2026-11.webp",
+      "local_url": "/images/reviews/belive/belive-reclame-aqui-principais-problemas-2026-11.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12394,
+      "sha256": "e288f03abf56b8b0dfaeaefe92867a12ea18fa558960cd6b6752ad31508b1e20",
+      "width": 627,
+      "height": 412,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "belive-reclame-aqui-principais-problemas-2026-11.webp",
+      "storage_filename": "belive-reclame-aqui-principais-problemas-2026-11.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/belive-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/belive-reclame-aqui-nota-reputacao.json",
+          "line": 194,
+          "column": 19,
+          "literal": "/images/reviews/belive/belive-reclame-aqui-principais-problemas-2026-11.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e288f03abf56b8b0dfaeaefe92867a12ea18fa558960cd6b6752ad31508b1e20/belive-reclame-aqui-principais-problemas-2026-11.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e288f03abf56b8b0dfaeaefe92867a12ea18fa558960cd6b6752ad31508b1e20/belive-reclame-aqui-principais-problemas-2026-11.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:05.812Z",
+      "verification_etag_or_digest": "e288f03abf56b8b0dfaeaefe92867a12ea18fa558960cd6b6752ad31508b1e20",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/belive-reclame-aqui-principais-problemas.webp",
       "local_url": "/images/reviews/belive/belive-reclame-aqui-principais-problemas.webp",
       "media_kind": "image",
@@ -47251,6 +47289,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/black-friday-belive-combo-doces-completao.webp",
+      "local_url": "/images/reviews/belive/black-friday-belive-combo-doces-completao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 136104,
+      "sha256": "bcba95a533f6bf2c2a00d30fb0662ed04010c0cd15df65f5b4bd029270d9fd67",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-belive-combo-doces-completao.webp",
+      "storage_filename": "black-friday-belive-combo-doces-completao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-belive.json",
+          "line": 133,
+          "column": 19,
+          "literal": "/images/reviews/belive/black-friday-belive-combo-doces-completao.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bcba95a533f6bf2c2a00d30fb0662ed04010c0cd15df65f5b4bd029270d9fd67/black-friday-belive-combo-doces-completao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bcba95a533f6bf2c2a00d30fb0662ed04010c0cd15df65f5b4bd029270d9fd67/black-friday-belive-combo-doces-completao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:06.208Z",
+      "verification_etag_or_digest": "bcba95a533f6bf2c2a00d30fb0662ed04010c0cd15df65f5b4bd029270d9fd67",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/black-friday-belive-panetone-frutas.webp",
+      "local_url": "/images/reviews/belive/black-friday-belive-panetone-frutas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102376,
+      "sha256": "5cccb4bd8354f168d45882d0a906c3de59b96c95b7b46c88ebcdae6a6018b33f",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-belive-panetone-frutas.webp",
+      "storage_filename": "black-friday-belive-panetone-frutas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-belive.json",
+          "line": 190,
+          "column": 19,
+          "literal": "/images/reviews/belive/black-friday-belive-panetone-frutas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5cccb4bd8354f168d45882d0a906c3de59b96c95b7b46c88ebcdae6a6018b33f/black-friday-belive-panetone-frutas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5cccb4bd8354f168d45882d0a906c3de59b96c95b7b46c88ebcdae6a6018b33f/black-friday-belive-panetone-frutas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:06.556Z",
+      "verification_etag_or_digest": "5cccb4bd8354f168d45882d0a906c3de59b96c95b7b46c88ebcdae6a6018b33f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
       "local_url": "/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
       "media_kind": "image",
@@ -47441,6 +47555,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-bolinho-chocolate.webp",
+      "local_url": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-bolinho-chocolate.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102672,
+      "sha256": "b007dbf7a97b15a62c1ee9b23bf84701e7fc79a1af726bb5d66a81395c1d36fb",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bolinho-sem-acucar-belive-ou-suavipan-bolinho-chocolate.webp",
+      "storage_filename": "bolinho-sem-acucar-belive-ou-suavipan-bolinho-chocolate.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bolinho-sem-acucar-belive-ou-suavipan.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bolinho-sem-acucar-belive-ou-suavipan.json",
+          "line": 48,
+          "column": 19,
+          "literal": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-bolinho-chocolate.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b007dbf7a97b15a62c1ee9b23bf84701e7fc79a1af726bb5d66a81395c1d36fb/bolinho-sem-acucar-belive-ou-suavipan-bolinho-chocolate.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b007dbf7a97b15a62c1ee9b23bf84701e7fc79a1af726bb5d66a81395c1d36fb/bolinho-sem-acucar-belive-ou-suavipan-bolinho-chocolate.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:06.922Z",
+      "verification_etag_or_digest": "b007dbf7a97b15a62c1ee9b23bf84701e7fc79a1af726bb5d66a81395c1d36fb",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
       "local_url": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
       "media_kind": "image",
@@ -47522,6 +47674,82 @@
       "uploaded_at": null,
       "verified_at": "2026-10-18T03:15:40.746Z",
       "verification_etag_or_digest": "1b4176125fd4a27f5b4576e72aae1068bc2d9e500603663fbfd5acb4483917d3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/brownie-sem-acucar-belive-brownie-chocolate.webp",
+      "local_url": "/images/reviews/belive/brownie-sem-acucar-belive-brownie-chocolate.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99378,
+      "sha256": "722fc844289e76020ab373de0cf840cbe59a941b72c34e0b83075e31ea54e954",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brownie-sem-acucar-belive-brownie-chocolate.webp",
+      "storage_filename": "brownie-sem-acucar-belive-brownie-chocolate.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brownie-sem-acucar-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brownie-sem-acucar-belive.json",
+          "line": 48,
+          "column": 19,
+          "literal": "/images/reviews/belive/brownie-sem-acucar-belive-brownie-chocolate.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/722fc844289e76020ab373de0cf840cbe59a941b72c34e0b83075e31ea54e954/brownie-sem-acucar-belive-brownie-chocolate.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/722fc844289e76020ab373de0cf840cbe59a941b72c34e0b83075e31ea54e954/brownie-sem-acucar-belive-brownie-chocolate.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:07.230Z",
+      "verification_etag_or_digest": "722fc844289e76020ab373de0cf840cbe59a941b72c34e0b83075e31ea54e954",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/brownie-sem-acucar-belive-brownie-proteico-double-chocolate.webp",
+      "local_url": "/images/reviews/belive/brownie-sem-acucar-belive-brownie-proteico-double-chocolate.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62524,
+      "sha256": "d99bf38a1de5dd3069182e67d674561bfe75ffd17eef6beb603496e2a46f04f4",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brownie-sem-acucar-belive-brownie-proteico-double-chocolate.webp",
+      "storage_filename": "brownie-sem-acucar-belive-brownie-proteico-double-chocolate.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brownie-sem-acucar-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brownie-sem-acucar-belive.json",
+          "line": 313,
+          "column": 19,
+          "literal": "/images/reviews/belive/brownie-sem-acucar-belive-brownie-proteico-double-chocolate.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d99bf38a1de5dd3069182e67d674561bfe75ffd17eef6beb603496e2a46f04f4/brownie-sem-acucar-belive-brownie-proteico-double-chocolate.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d99bf38a1de5dd3069182e67d674561bfe75ffd17eef6beb603496e2a46f04f4/brownie-sem-acucar-belive-brownie-proteico-double-chocolate.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:07.593Z",
+      "verification_etag_or_digest": "d99bf38a1de5dd3069182e67d674561bfe75ffd17eef6beb603496e2a46f04f4",
       "verification_status": "verified"
     },
     {
@@ -48111,6 +48339,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/doces-sem-acucar-para-diabeticos-bolinho-baunilha.webp",
+      "local_url": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-bolinho-baunilha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80970,
+      "sha256": "3de2c9dc784da1a5ed53c180ec8028a3f1fc84c953b5a40dfbe41d37df309b13",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "doces-sem-acucar-para-diabeticos-bolinho-baunilha.webp",
+      "storage_filename": "doces-sem-acucar-para-diabeticos-bolinho-baunilha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/doces-sem-acucar-para-diabeticos.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/doces-sem-acucar-para-diabeticos.json",
+          "line": 121,
+          "column": 19,
+          "literal": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-bolinho-baunilha.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3de2c9dc784da1a5ed53c180ec8028a3f1fc84c953b5a40dfbe41d37df309b13/doces-sem-acucar-para-diabeticos-bolinho-baunilha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3de2c9dc784da1a5ed53c180ec8028a3f1fc84c953b5a40dfbe41d37df309b13/doces-sem-acucar-para-diabeticos-bolinho-baunilha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:07.865Z",
+      "verification_etag_or_digest": "3de2c9dc784da1a5ed53c180ec8028a3f1fc84c953b5a40dfbe41d37df309b13",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/doces-sem-acucar-para-diabeticos-brownie-proteico-avela.webp",
+      "local_url": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-brownie-proteico-avela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85948,
+      "sha256": "31275928d564003fa96cdf47b478b650b8ede4b3e74bc559ac72993964394152",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "doces-sem-acucar-para-diabeticos-brownie-proteico-avela.webp",
+      "storage_filename": "doces-sem-acucar-para-diabeticos-brownie-proteico-avela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/doces-sem-acucar-para-diabeticos.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/doces-sem-acucar-para-diabeticos.json",
+          "line": 114,
+          "column": 19,
+          "literal": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-brownie-proteico-avela.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/31275928d564003fa96cdf47b478b650b8ede4b3e74bc559ac72993964394152/doces-sem-acucar-para-diabeticos-brownie-proteico-avela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/31275928d564003fa96cdf47b478b650b8ede4b3e74bc559ac72993964394152/doces-sem-acucar-para-diabeticos-brownie-proteico-avela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:08.195Z",
+      "verification_etag_or_digest": "31275928d564003fa96cdf47b478b650b8ede4b3e74bc559ac72993964394152",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa-v2.webp",
       "local_url": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa-v2.webp",
       "media_kind": "image",
@@ -48200,6 +48504,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-18T03:15:40.747Z",
       "verification_etag_or_digest": "6be945091e58990d95dd255d7591c16eb00a67f1fede681e097ff35d0f92cb63",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/doces-sem-acucar-para-diabeticos-cookie-chocolate-avela.webp",
+      "local_url": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-cookie-chocolate-avela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 117890,
+      "sha256": "79f535f00d97ea93eb398b33dcf3387889b5882543dc5fdee430250f4457b15b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "doces-sem-acucar-para-diabeticos-cookie-chocolate-avela.webp",
+      "storage_filename": "doces-sem-acucar-para-diabeticos-cookie-chocolate-avela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/doces-sem-acucar-para-diabeticos.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/doces-sem-acucar-para-diabeticos.json",
+          "line": 128,
+          "column": 19,
+          "literal": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-cookie-chocolate-avela.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/79f535f00d97ea93eb398b33dcf3387889b5882543dc5fdee430250f4457b15b/doces-sem-acucar-para-diabeticos-cookie-chocolate-avela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/79f535f00d97ea93eb398b33dcf3387889b5882543dc5fdee430250f4457b15b/doces-sem-acucar-para-diabeticos-cookie-chocolate-avela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:08.529Z",
+      "verification_etag_or_digest": "79f535f00d97ea93eb398b33dcf3387889b5882543dc5fdee430250f4457b15b",
       "verification_status": "verified"
     },
     {
@@ -48406,6 +48748,120 @@
       "uploaded_at": null,
       "verified_at": "2026-10-18T03:15:40.747Z",
       "verification_etag_or_digest": "6cd2b6dcf604cafa4b40d68ec047493862f34a35f9427fc925de5be81250877e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/pao-de-mel-sem-acucar-belive-pao-de-mel-proteico.webp",
+      "local_url": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-pao-de-mel-proteico.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80696,
+      "sha256": "d5c67ee7eed496156ff6d424b2b1393617004765ffa267782af8ca24bfc19a19",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pao-de-mel-sem-acucar-belive-pao-de-mel-proteico.webp",
+      "storage_filename": "pao-de-mel-sem-acucar-belive-pao-de-mel-proteico.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pao-de-mel-sem-acucar-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pao-de-mel-sem-acucar-belive.json",
+          "line": 55,
+          "column": 19,
+          "literal": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-pao-de-mel-proteico.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d5c67ee7eed496156ff6d424b2b1393617004765ffa267782af8ca24bfc19a19/pao-de-mel-sem-acucar-belive-pao-de-mel-proteico.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d5c67ee7eed496156ff6d424b2b1393617004765ffa267782af8ca24bfc19a19/pao-de-mel-sem-acucar-belive-pao-de-mel-proteico.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:08.851Z",
+      "verification_etag_or_digest": "d5c67ee7eed496156ff6d424b2b1393617004765ffa267782af8ca24bfc19a19",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/pao-de-mel-sem-acucar-belive-pao-de-mel-zero.webp",
+      "local_url": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-pao-de-mel-zero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77546,
+      "sha256": "3d0255958c84fa8c43dd57149fa76540014a35db511aa3a28dd26d512f6c363a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pao-de-mel-sem-acucar-belive-pao-de-mel-zero.webp",
+      "storage_filename": "pao-de-mel-sem-acucar-belive-pao-de-mel-zero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pao-de-mel-sem-acucar-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pao-de-mel-sem-acucar-belive.json",
+          "line": 48,
+          "column": 19,
+          "literal": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-pao-de-mel-zero.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3d0255958c84fa8c43dd57149fa76540014a35db511aa3a28dd26d512f6c363a/pao-de-mel-sem-acucar-belive-pao-de-mel-zero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3d0255958c84fa8c43dd57149fa76540014a35db511aa3a28dd26d512f6c363a/pao-de-mel-sem-acucar-belive-pao-de-mel-zero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:09.179Z",
+      "verification_etag_or_digest": "3d0255958c84fa8c43dd57149fa76540014a35db511aa3a28dd26d512f6c363a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/salgadinho-proteico-qual-escolher-belive-snack-proteico.webp",
+      "local_url": "/images/reviews/belive/salgadinho-proteico-qual-escolher-belive-snack-proteico.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 125100,
+      "sha256": "dca394d2a094f1d91493bd324297208313b5431a8693ce4ae9144e25808ab350",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "salgadinho-proteico-qual-escolher-belive-snack-proteico.webp",
+      "storage_filename": "salgadinho-proteico-qual-escolher-belive-snack-proteico.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/salgadinho-proteico-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/salgadinho-proteico-qual-escolher.json",
+          "line": 145,
+          "column": 19,
+          "literal": "/images/reviews/belive/salgadinho-proteico-qual-escolher-belive-snack-proteico.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/dca394d2a094f1d91493bd324297208313b5431a8693ce4ae9144e25808ab350/salgadinho-proteico-qual-escolher-belive-snack-proteico.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dca394d2a094f1d91493bd324297208313b5431a8693ce4ae9144e25808ab350/salgadinho-proteico-qual-escolher-belive-snack-proteico.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:09.486Z",
+      "verification_etag_or_digest": "dca394d2a094f1d91493bd324297208313b5431a8693ce4ae9144e25808ab350",
       "verification_status": "verified"
     },
     {
@@ -77564,6 +78020,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-mac-bolonha.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-mac-bolonha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39830,
+      "sha256": "09e10ba435ad9c957e5201c99a31db34b98740252e46b6f7b46bb02dca275987",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-e-boa-mac-bolonha.webp",
+      "storage_filename": "holyfoods-e-boa-mac-bolonha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-e-boa.json",
+          "line": 253,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-boa-mac-bolonha.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/09e10ba435ad9c957e5201c99a31db34b98740252e46b6f7b46bb02dca275987/holyfoods-e-boa-mac-bolonha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/09e10ba435ad9c957e5201c99a31db34b98740252e46b6f7b46bb02dca275987/holyfoods-e-boa-mac-bolonha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:08:12.509Z",
+      "verification_etag_or_digest": "09e10ba435ad9c957e5201c99a31db34b98740252e46b6f7b46bb02dca275987",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp",
       "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp",
       "media_kind": "image",
@@ -77607,6 +78101,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-10T22:48:52.491Z",
       "verification_etag_or_digest": "f094ee72c5e4f45ab0de5e23822a2cbf28646b6341b8809468d2ef130e5a09b2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-sopa-detox.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-sopa-detox.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45434,
+      "sha256": "ddc89224bf332964f32f79a3a4d2fdf203fdb067d7dd2a241674f472ae56dad3",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-e-boa-sopa-detox.webp",
+      "storage_filename": "holyfoods-e-boa-sopa-detox.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-e-boa.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-boa-sopa-detox.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ddc89224bf332964f32f79a3a4d2fdf203fdb067d7dd2a241674f472ae56dad3/holyfoods-e-boa-sopa-detox.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ddc89224bf332964f32f79a3a4d2fdf203fdb067d7dd2a241674f472ae56dad3/holyfoods-e-boa-sopa-detox.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:08:12.824Z",
+      "verification_etag_or_digest": "ddc89224bf332964f32f79a3a4d2fdf203fdb067d7dd2a241674f472ae56dad3",
       "verification_status": "verified"
     },
     {
@@ -78011,6 +78543,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T21:30:57.764Z",
       "verification_etag_or_digest": "f20382c995cc35e812762c8a8b348b4493761d96db6a70a87feb34198bb2a26d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-projeto-21-dias-tres-sopas.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-tres-sopas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 124262,
+      "sha256": "870e90049e8cc4f171717142617da6e28b03c2238b6cc7276d3f75d7898e5fcf",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-projeto-21-dias-tres-sopas.webp",
+      "storage_filename": "holyfoods-projeto-21-dias-tres-sopas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-projeto-21-dias.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-projeto-21-dias.json",
+          "line": 83,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-tres-sopas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/870e90049e8cc4f171717142617da6e28b03c2238b6cc7276d3f75d7898e5fcf/holyfoods-projeto-21-dias-tres-sopas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/870e90049e8cc4f171717142617da6e28b03c2238b6cc7276d3f75d7898e5fcf/holyfoods-projeto-21-dias-tres-sopas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:08:13.143Z",
+      "verification_etag_or_digest": "870e90049e8cc4f171717142617da6e28b03c2238b6cc7276d3f75d7898e5fcf",
       "verification_status": "verified"
     },
     {
@@ -184406,6 +184976,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/alternativas-a-bendu-belive-snack-proteico-barbecue.webp",
+      "local_url": "/images/reviews/belive/alternativas-a-bendu-belive-snack-proteico-barbecue.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 116144,
+      "sha256": "7f20fe6d2a5e5bf74fa33ad1f6735ef8e890a8163fd01ceb50efa199f2f06b5c",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-bendu-belive-snack-proteico-barbecue.webp",
+      "storage_filename": "alternativas-a-bendu-belive-snack-proteico-barbecue.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-bendu.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-bendu.json",
+          "line": 109,
+          "column": 19,
+          "literal": "/images/reviews/belive/alternativas-a-bendu-belive-snack-proteico-barbecue.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7f20fe6d2a5e5bf74fa33ad1f6735ef8e890a8163fd01ceb50efa199f2f06b5c/alternativas-a-bendu-belive-snack-proteico-barbecue.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f20fe6d2a5e5bf74fa33ad1f6735ef8e890a8163fd01ceb50efa199f2f06b5c/alternativas-a-bendu-belive-snack-proteico-barbecue.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:00:05.502Z",
+      "verification_etag_or_digest": "7f20fe6d2a5e5bf74fa33ad1f6735ef8e890a8163fd01ceb50efa199f2f06b5c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/cupom-toda-up-teste-bearamos-10.webp",
       "local_url": "/images/reviews/toda-up/cupom-toda-up-teste-bearamos-10.webp",
       "media_kind": "image",
@@ -197396,6 +198004,236 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22398,
+      "sha256": "55ba98f3009d6489ae73d7dcea2b164c70de7952e57e25771bcdfa28bbbd3802",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "storage_filename": "pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-e-boa.json",
+          "line": 141,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 275058,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/55ba98f3009d6489ae73d7dcea2b164c70de7952e57e25771bcdfa28bbbd3802/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55ba98f3009d6489ae73d7dcea2b164c70de7952e57e25771bcdfa28bbbd3802/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:25:40.589Z",
+      "verification_etag_or_digest": "55ba98f3009d6489ae73d7dcea2b164c70de7952e57e25771bcdfa28bbbd3802",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75262,
+      "sha256": "c0eebad0f5b44bacbec672544dd8da9e494e5c8bbd30bb839c52ca019af3cc54",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "storage_filename": "pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-e-boa.json",
+          "line": 158,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 275075,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c0eebad0f5b44bacbec672544dd8da9e494e5c8bbd30bb839c52ca019af3cc54/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c0eebad0f5b44bacbec672544dd8da9e494e5c8bbd30bb839c52ca019af3cc54/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:25:40.589Z",
+      "verification_etag_or_digest": "c0eebad0f5b44bacbec672544dd8da9e494e5c8bbd30bb839c52ca019af3cc54",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56252,
+      "sha256": "9784cd4a480a6d270fa80b6bde80a46ca5d788ec954d9bcb5c31639340579632",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "storage_filename": "pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-reclame-aqui-nota-reputacao.json",
+          "line": 199,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 275427,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9784cd4a480a6d270fa80b6bde80a46ca5d788ec954d9bcb5c31639340579632/pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9784cd4a480a6d270fa80b6bde80a46ca5d788ec954d9bcb5c31639340579632/pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:25:40.589Z",
+      "verification_etag_or_digest": "9784cd4a480a6d270fa80b6bde80a46ca5d788ec954d9bcb5c31639340579632",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+      "local_url": "/images/reviews/lamazonie/black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 6218,
+      "sha256": "dcf07d5d0fdd984ee09ace50ea261efaf3d1df458130dc8ce271842d50da394a",
+      "width": 392,
+      "height": 376,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+      "storage_filename": "black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-lamazonie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-lamazonie.json",
+          "line": 222,
+          "column": 19,
+          "literal": "/images/reviews/lamazonie/black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 250230,
+          "column": 21,
+          "literal": "/images/reviews/lamazonie/black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dcf07d5d0fdd984ee09ace50ea261efaf3d1df458130dc8ce271842d50da394a/black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dcf07d5d0fdd984ee09ace50ea261efaf3d1df458130dc8ce271842d50da394a/black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:44:05.389Z",
+      "verification_etag_or_digest": "dcf07d5d0fdd984ee09ace50ea261efaf3d1df458130dc8ce271842d50da394a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+      "local_url": "/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20836,
+      "sha256": "037fde6886823bcfce8735ec35762af4d95ad276b95cbde5ca43716ba77c5725",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+      "storage_filename": "cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-lamazonie-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-lamazonie-primeira-compra.json",
+          "line": 93,
+          "column": 19,
+          "literal": "/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 249969,
+          "column": 21,
+          "literal": "/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/037fde6886823bcfce8735ec35762af4d95ad276b95cbde5ca43716ba77c5725/cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/037fde6886823bcfce8735ec35762af4d95ad276b95cbde5ca43716ba77c5725/cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:44:05.390Z",
+      "verification_etag_or_digest": "037fde6886823bcfce8735ec35762af4d95ad276b95cbde5ca43716ba77c5725",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/simple-organic/alternativas-a-creamy-dupla-limpeza-diaria.webp",
       "local_url": "/images/reviews/simple-organic/alternativas-a-creamy-dupla-limpeza-diaria.webp",
       "media_kind": "image",
@@ -197437,7 +198275,7 @@
       "remote_key": "v1/image/d106468e21958c5c677b732252d61e31dc83c6ae7b958f3624ff96c02cc556b5/alternativas-a-creamy-dupla-limpeza-diaria.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d106468e21958c5c677b732252d61e31dc83c6ae7b958f3624ff96c02cc556b5/alternativas-a-creamy-dupla-limpeza-diaria.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T05:26:04.996Z",
+      "verified_at": "2026-11-22T05:52:08.580Z",
       "verification_etag_or_digest": "d106468e21958c5c677b732252d61e31dc83c6ae7b958f3624ff96c02cc556b5",
       "verification_status": "verified"
     },
@@ -197483,7 +198321,7 @@
       "remote_key": "v1/image/86ffeee895193dd4f993c129584a995378c127a2a5232811f54cb0da1b16868a/alternativas-a-creamy-ultra-serum-niacinamida.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/86ffeee895193dd4f993c129584a995378c127a2a5232811f54cb0da1b16868a/alternativas-a-creamy-ultra-serum-niacinamida.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verified_at": "2026-11-22T05:52:08.581Z",
       "verification_etag_or_digest": "86ffeee895193dd4f993c129584a995378c127a2a5232811f54cb0da1b16868a",
       "verification_status": "verified"
     },
@@ -197529,7 +198367,7 @@
       "remote_key": "v1/image/ce4668e96a6643e4eea3ff35feaeaf18191316be143bd92103f21b896d021d8f/alternativas-a-creamy-ultra-serum-retinol.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ce4668e96a6643e4eea3ff35feaeaf18191316be143bd92103f21b896d021d8f/alternativas-a-creamy-ultra-serum-retinol.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verified_at": "2026-11-22T05:52:08.581Z",
       "verification_etag_or_digest": "ce4668e96a6643e4eea3ff35feaeaf18191316be143bd92103f21b896d021d8f",
       "verification_status": "verified"
     },
@@ -197575,7 +198413,7 @@
       "remote_key": "v1/image/7060c182fd15ebf7d3875797a7f18ce8cccfbf143b41a6be8f45aa84b7b3889d/cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7060c182fd15ebf7d3875797a7f18ce8cccfbf143b41a6be8f45aa84b7b3889d/cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verified_at": "2026-11-22T05:52:08.581Z",
       "verification_etag_or_digest": "7060c182fd15ebf7d3875797a7f18ce8cccfbf143b41a6be8f45aa84b7b3889d",
       "verification_status": "verified"
     },
@@ -197621,7 +198459,7 @@
       "remote_key": "v1/image/52d4ecbe468d4efe7bc24f74336995e028b40f0f7c15b5b3f056f54d8c3dec1f/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/52d4ecbe468d4efe7bc24f74336995e028b40f0f7c15b5b3f056f54d8c3dec1f/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verified_at": "2026-11-22T05:52:08.581Z",
       "verification_etag_or_digest": "52d4ecbe468d4efe7bc24f74336995e028b40f0f7c15b5b3f056f54d8c3dec1f",
       "verification_status": "verified"
     },
@@ -197667,7 +198505,7 @@
       "remote_key": "v1/image/613e046d205d73fa6ae266ff808e0589688ac39b1ae5948560716826fc546b82/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/613e046d205d73fa6ae266ff808e0589688ac39b1ae5948560716826fc546b82/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verified_at": "2026-11-22T05:52:08.581Z",
       "verification_etag_or_digest": "613e046d205d73fa6ae266ff808e0589688ac39b1ae5948560716826fc546b82",
       "verification_status": "verified"
     },
@@ -197713,7 +198551,7 @@
       "remote_key": "v1/image/e5733c61b8217158d7b0b9f7ee52c419526e9c712949a12ba859d6dd91e614aa/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e5733c61b8217158d7b0b9f7ee52c419526e9c712949a12ba859d6dd91e614aa/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verified_at": "2026-11-22T05:52:08.581Z",
       "verification_etag_or_digest": "e5733c61b8217158d7b0b9f7ee52c419526e9c712949a12ba859d6dd91e614aa",
       "verification_status": "verified"
     },
@@ -197759,7 +198597,7 @@
       "remote_key": "v1/image/39ddca9fd8e9d4ec22e05cd6b17ddb6154fb4e5d5f52dec33470d5c38bbbca05/simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/39ddca9fd8e9d4ec22e05cd6b17ddb6154fb4e5d5f52dec33470d5c38bbbca05/simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verified_at": "2026-11-22T05:52:08.581Z",
       "verification_etag_or_digest": "39ddca9fd8e9d4ec22e05cd6b17ddb6154fb4e5d5f52dec33470d5c38bbbca05",
       "verification_status": "verified"
     }
