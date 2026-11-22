@@ -17,6 +17,7 @@
   "metaDescription": "O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, testado no carrinho. Veja como aplicar, o cashback e o frete grátis.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/clea-store/cupom-clea-store-como-usar-capa-v2.webp",
@@ -87,14 +88,15 @@
     {
       "heading": "1. Entre no site da Cléa Store",
       "paragraphs": [
-        "Use o botão da Cléa Store desta página para abrir o site oficial, o cleastore.com.br. O código você digita no carrinho, no passo 3."
+        "Use o botão da Cléa Store desta página para abrir o site oficial, o cleastore.com.br. O código você digita no carrinho, no passo 3.",
+        "No site, as peças ficam em categorias, e cada página de produto traz preço, parcelamento, tabela de medidas e provador virtual. Como o desconto vem do código digitado no carrinho, ele vale em qualquer peça que você colocar na sacola. Com várias peças no pedido, a linha “Desconto” do resumo mostra o valor total abatido."
       ]
     },
     {
       "heading": "2. Monte o carrinho",
       "paragraphs": [
         "Escolha as peças e abra o carrinho. A tela mostra os itens e, ao lado, o \"Resumo do pedido\", com o campo \"Cupom de desconto\", o subtotal e o total.",
-        "No nosso teste, de 14/10/2026, o carrinho tinha um item: o Kit 3 T-Shirts Oversized Classic. O kit estava em promoção naquele dia, de R$ 387,00 por R$ 258,00: era o preço de promoção do dia, não o preço atual do kit. Nessa tela, a loja mostrava \"Receba até R$ 25,80 de cashback\".",
+        "No nosso teste, de 14/10/2026, o carrinho tinha um item: o [Kit 3 T-Shirts Oversized Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951). O kit estava de R$ 387,00 por R$ 258,00, e essa é a conta do teste. Na consulta de novembro, a loja mostrava o mesmo kit de R$ 387,00 por R$ 258,00, com 33% OFF. Nessa tela, a loja mostrava \"Receba até R$ 25,80 de cashback\".",
         "O frete é calculado pelo CEP, no link \"Calcular\" da linha \"Entrega\", no resumo do pedido."
       ],
       "image": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
@@ -106,7 +108,9 @@
     {
       "heading": "3. Digite CSEMCASACOMCECILIA no campo do cupom",
       "paragraphs": [
-        "No \"Resumo do pedido\", clique em \"Adicionar\" ao lado de \"Cupom de desconto\", digite **CSEMCASACOMCECILIA** e confirme. Copiar o código pelo botão desta página evita erro de digitação."
+        "No \"Resumo do pedido\", clique em \"Adicionar\" ao lado de \"Cupom de desconto\", digite **CSEMCASACOMCECILIA** e confirme. Copiar o código pelo botão desta página evita erro de digitação.",
+        "Os termos de uso da loja preveem um voucher por pedido. Se outro código já estiver aplicado, troque pelo CSEMCASACOMCECILIA antes de pagar. O código vale na primeira compra e nas seguintes.",
+        "Depois de confirmar, o resumo troca o campo por “Cupom aplicado” e passa a mostrar a linha “Desconto”. Se ela não aparecer, o código não foi aceito, e vale conferir se o carrinho continua com as peças e se não há outro cupom no lugar."
       ]
     },
     {
@@ -187,20 +191,22 @@
       "paragraphs": [
         "A faixa do site anunciava \"frete grátis acima de R$ 599\". O cupom em si não dá frete grátis: o frete grátis é uma regra da loja. O pedido do nosso teste, de R$ 232,20, ficou abaixo desse valor.",
         "Se o seu carrinho está perto dos R$ 599, confira o frete no carrinho antes de pagar.",
-        "O CSEMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. O rodapé do site listava cartão em até 6x sem juros ou Pix."
+        "O CSEMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. Nos termos de uso, a loja aceita cartão de crédito ou Pix, com parcelamento em até 12x, sendo até 4x sem juros e parcela mínima de R$ 10. A loja não dá desconto extra no Pix, então o código vale igual pagando com Pix ou cartão. A página do kit mostra, por exemplo, 3x de R$ 86,00 sem juros."
       ]
     },
     {
       "heading": "O que comprar com o cupom",
       "paragraphs": [
-        "O cupom vale em todo o site: [alfaiataria](/reviews/alfaiataria-verao-clea-store), blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
+        "O cupom vale em todo o site: [alfaiataria](/reviews/alfaiataria-verao-clea-store), blusas, camisas, vestidos, conjuntos, t-shirts e acessórios.",
+        "Entre as camisetas, a loja vende a [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189), os kits de 3 (o [Kit 3 T-Shirts Oversized Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951), o [Colorful](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-colorful-4421) e o [Intense](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-intense-4422)) e a [Camiseta Comfort Algodão Peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434). Nos bodies, o [Body Regata Second Skin Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045) e o [Body Tule Gola Alta Second Skin](https://www.cleastore.com.br/produto/body-tule-gola-alta-second-skin-tule-4019) estão entre os modelos Second Skin.",
+        "Na alfaiataria, as peças são vendidas separadas: o [Blazer Oversized Alfaiataria Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305), o [Colete Frente Única Linho Bege](https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221) e a [Calça Feminina Alfaiataria em Linho Vermelha](https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-em-linho-vermelha-4414) são produtos diferentes, com grade própria, e a montagem do conjunto é sua. O código é o mesmo para todas, e o guia de [bodies Second Skin](/reviews/body-clea-store-second-skin-qual-escolher) ajuda a escolher o modelo."
       ]
     },
     {
       "heading": "Se precisar devolver um produto comprado com cupom",
       "paragraphs": [
         "A Cléa Store tem devolução grátis. Pela política da loja, cupom, cashback e frete grátis não são reembolsados; na dúvida sobre o valor, confirme com o atendimento antes de enviar.",
-        "O quadro completo de prazos e do passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel). Os números da loja no Reclame Aqui estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
+        "A política de troca e devolução da loja dá 30 dias corridos após o recebimento para devolver, e 90 dias em caso de defeito. O pedido sai pelo formulário do site, e a loja manda um código de postagem dos Correios válido por 7 dias. A peça volta na embalagem original, com a nota fiscal. O reembolso pode ser em crédito na loja (válido por 360 dias), estorno via Pix em até 6 dias úteis ou estorno no cartão, que leva de 30 a 60 dias conforme a operadora. Cupom, cashback e frete grátis não são reembolsados."
       ]
     },
     {
@@ -219,7 +225,8 @@
         "O cupom da Cléa Store soma com as promoções? Sim. No nosso teste, o 10% valeu sobre o preço promocional.",
         "O cupom da Cléa Store soma com o cashback? O pedido com cupom mostrou cashback previsto de até R$ 23,22 para outra compra, sem abater o total de R$ 232,20 no teste.",
         "Posso usar dois cupons no mesmo pedido? Não. Os termos da loja dizem que cada cliente pode usar apenas um voucher por pedido.",
-        "O cupom dá frete grátis? Não. O frete grátis é uma regra da loja, que anunciava frete grátis acima de R$ 599. O frete é calculado pelo CEP, no carrinho."
+        "O cupom dá frete grátis? Não. O frete grátis é uma regra da loja, que anunciava frete grátis acima de R$ 599. O frete é calculado pelo CEP, no carrinho.",
+        "Posso pagar com Pix ou parcelar usando o cupom? Sim. O código vale com Pix ou cartão. A loja aceita parcelamento em até 12x, sendo até 4x sem juros, com parcela mínima de R$ 10, e não dá desconto extra no Pix."
       ]
     }
   ]

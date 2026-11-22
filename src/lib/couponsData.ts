@@ -2603,14 +2603,14 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções vigentes do site e com o cashback da loja, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço de campanha e de promoção dos produtos' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Vale pagando no Pix; a Cléa Store não dá desconto extra no Pix, então o abatimento é o dos 10% do cupom' },
       { benefit: 'cashback', stacks: 'sim', condition: 'O pedido com o cupom continua gerando cashback, calculado sobre o valor já com o desconto' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 599, segundo o aviso do site; abaixo disso, o frete é calculado no checkout' },
     ],
     paymentPerks: [
       'Até 12x no cartão, sendo até 4x sem juros, com parcela mínima de R$ 10',
     ],
-    lastVerified: '2026-11-12',
+    lastVerified: '2026-11-21',
     testedAt: '2026-11-08',
     testNote:
       'Aplicamos o CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic, de R$ 387,00 por R$ 199,00 na campanha, e o carrinho caiu para R$ 179,10. Com um vestido de R$ 697,00, a R$ 487,90 com 30% OFF, o subtotal de R$ 686,90 teve R$ 68,69 de desconto e fechou em R$ 618,21: os 10% entraram sobre os preços da campanha.',
@@ -2624,7 +2624,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CSEMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
         answer:
-          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido. A loja não dá desconto extra no Pix: o abatimento é o do cupom. No cartão, são até 12x, sendo até 4x sem juros, com parcela mínima de R$ 10.',
       },
       {
         question: 'O cupom CSEMCASACOMCECILIA vale na primeira compra na Cléa Store?',
@@ -2649,7 +2649,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 10% entraram num kit de t-shirts que já estava com preço de campanha: de R$ 199,00 por R$ 179,10.',
+          'Sim. No nosso teste mais recente, os 10% entraram num kit de t-shirts que já estava com preço de campanha: de R$ 199,00 por R$ 179,10. O preço do kit muda com as campanhas; na consulta de 21/11/2026, ele estava de R$ 387,00 por R$ 258,00.',
       },
       {
         question: 'O cupom soma com o cashback da Cléa Store?',
@@ -2667,6 +2667,11 @@ const STORE_COUPONS: Coupon[] = [
           'O site anuncia frete grátis acima de R$ 599. Abaixo disso, o frete é calculado pela loja no checkout.',
       },
       {
+        question: 'Como funciona a troca e a devolução na Cléa Store?',
+        answer:
+          'Pela política da loja, a devolução pode ser pedida em até 30 dias corridos depois do recebimento, e o produto com defeito, em até 90 dias. O pedido é feito pelo formulário do site, e a loja manda um código de postagem dos Correios válido por 7 dias. A peça volta na embalagem original, com a nota fiscal, e o brinde volta junto quando a devolução é total. O reembolso pode ser em crédito na loja, válido por 360 dias, por Pix em até 6 dias úteis ou como estorno no cartão; cashback, cupons e frete grátis não são reembolsados.',
+      },
+      {
         question: 'O que fazer se o cupom CSEMCASACOMCECILIA não funcionar?',
         answer:
           'Confira se o código foi digitado sem espaços no campo de cupom do site oficial da Cléa Store. Ele vale em todos os produtos e soma com as promoções e com o cashback da loja; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
@@ -2674,7 +2679,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Cléa Store na Black Friday?',
         answer:
-          'Tem. O cupom Cléa Store CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+          'Tem. O cupom Cléa Store CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano. Na Black Friday, a loja também dá uma T-shirt Oversized de brinde para quem compra qualquer peça, e o cupom vale no mesmo pedido.',
       },
       {
         question: 'O cupom Cléa Store vale na Black Friday?',
@@ -2691,6 +2696,15 @@ const STORE_COUPONS: Coupon[] = [
       scope: 'em todo o site',
       note: 'Vale com todas as formas de pagamento e soma com as promoções e o cashback',
     },
+    relatedContent: [
+      { title: 'Cléa Store é boa? Camisetas, bodies e alfaiataria', url: '/reviews/clea-store-e-boa', type: 'review', publishedAt: '2026-11-04' },
+      { title: 'Cupom Cléa Store na primeira compra', url: '/reviews/cupom-clea-store-primeira-compra', type: 'review', publishedAt: '2026-11-12' },
+      { title: 'Camiseta Cléa Store é boa? Tecido, kits e preço', url: '/reviews/camiseta-clea-store-e-boa', type: 'review', publishedAt: '2026-10-23' },
+      { title: 'Body Cléa Store Second Skin: qual escolher', url: '/reviews/body-clea-store-second-skin-qual-escolher', type: 'review', publishedAt: '2026-10-20' },
+      { title: 'Alfaiataria de verão na Cléa Store', url: '/reviews/alfaiataria-verao-clea-store', type: 'review', publishedAt: '2026-10-25' },
+      { title: 'Looks com camiseta básica feminina', url: '/reviews/looks-com-camiseta-basica-feminina', type: 'review', publishedAt: '2026-11-11' },
+      { title: 'Cléa Store no Reclame Aqui: nota e reclamações', url: '/reviews/clea-store-reclame-aqui-nota-reputacao', type: 'review', publishedAt: '2026-10-14' },
+    ],
     status: 'ativo',
     featured: false,
   },
