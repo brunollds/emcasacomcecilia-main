@@ -135,12 +135,17 @@ assert.equal(same.couponPageHref, `/cupons/${store.slug}`);
   }
 }
 
-// Loja só de link (sem código): recorte recebe cutoutNote no idioma do artigo.
+// Loja só de link (sem código): recorte recebe cutoutNote no idioma do artigo e (na Proton) os 5 productLinks.
 {
   const protonBlockPt = getArticleStoreBlock({ ...base, affiliate: 'proton', coupon: undefined } as never, 'pt')!;
   const protonBlockEn = getArticleStoreBlock({ ...base, locale: 'en', affiliate: 'proton', coupon: undefined } as never, 'en')!;
+  const protonBlockAr = getArticleStoreBlock({ ...base, locale: 'ar', affiliate: 'proton', coupon: undefined } as never, 'ar')!;
   assert.ok(protonBlockPt.cutoutNote, 'proton PT sem cutoutNote');
   assert.ok(protonBlockEn.cutoutNote && protonBlockEn.cutoutNote !== protonBlockPt.cutoutNote, 'proton EN sem cutoutNote traduzido');
+  assert.equal(protonBlockPt.productLinks?.length, 5, 'proton PT deve trazer os 5 productLinks');
+  assert.equal(protonBlockEn.productLinks?.length, 5, 'proton EN deve trazer os 5 productLinks');
+  assert.equal(protonBlockAr.productLinks?.length, 5, 'proton AR deve trazer os 5 productLinks');
+  assert.notEqual(protonBlockEn.productLinks![0].description, protonBlockPt.productLinks![0].description, 'proton EN sem descrição traduzida');
 }
 
 // contentSectionsToPlainText (botão Ouvir + tempo de leitura): inclui postParagraphs e accordionBlock, sem markdown cru.

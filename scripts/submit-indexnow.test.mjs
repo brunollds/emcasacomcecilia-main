@@ -1,10 +1,11 @@
 import assert from 'node:assert/strict';
 import { execFileSync, spawnSync } from 'node:child_process';
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
+import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import test from 'node:test';
 import { fileURLToPath } from 'node:url';
+import { parseActiveCouponSlugsFromSource } from './submit-indexnow.mjs';
 
 const SCRIPT = fileURLToPath(new URL('./submit-indexnow.mjs', import.meta.url));
 const BASE_URL = 'https://emcasacomcecilia.com';
@@ -223,4 +224,20 @@ test('--since coleta URLs alteradas num repositório temporário e filtra afilia
   } finally {
     rmSync(tempDir, { recursive: true, force: true });
   }
+});
+
+test('parseActiveCouponSlugsFromSource independe de indentação, quebras de linha ou chaves aninhadas', () => {
+  const reformatted = [
+    '// Comentário com STORE_COUPONS = [{ slug: "falso", offerMode: "discount-code", status: "ativo" }]',
+    'const STORE_COUPONS: Coupon[] = [{status:"ativo",faqs:[{question:"status: \'pausado\'",answer:`slug: \'falso\' ${1 + 1}`}],slug:"belive",offerMode:"discount-code"},',
+    '\t{\n\t\tslug: \'kopenhagen\',\n\t\tofferMode: \'discount-code\',\n\t\tstatus: \'pausado\'\n\t},',
+    '{offerMode:\'affiliate-link\',slug:\'proton\',productLinks:[{name:\'VPN\',url:\'https://x\',description:\'status: "pausado"\'}],status:\'ativo\'}];',
+  ].join('\n');
+  assert.deepEqual([...parseActiveCouponSlugsFromSource(reformatted)], ['belive', 'proton']);
+
+  const realSource = readFileSync(fileURLToPath(new URL('../src/lib/couponsData.ts', import.meta.url)), 'utf8');
+  const realSlugs = parseActiveCouponSlugsFromSource(realSource);
+  assert.ok(realSlugs.has('belive') && realSlugs.has('proton') && realSlugs.has('yesstyle'));
+  assert.ok(!realSlugs.has('kopenhagen'));
+  assert.ok(realSlugs.size >= 40);
 });
