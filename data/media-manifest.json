@@ -196417,6 +196417,251 @@
       "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "279b5473869ce6fefb52c8f5d56fda54077a88221d028cebae07f47a6c81eac4",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-e-confiavel-rodape-site-lescent.webp",
+      "local_url": "/images/reviews/barbours/barbours-e-confiavel-rodape-site-lescent.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12088,
+      "sha256": "0cca52ae5497cb4c318c98feb2fbc4c270470f24b11a0f68cf20acc6d4bd4aa2",
+      "width": 640,
+      "height": 118,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-e-confiavel-rodape-site-lescent.webp",
+      "storage_filename": "barbours-e-confiavel-rodape-site-lescent.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-e-confiavel.json",
+          "line": 79,
+          "column": 19,
+          "literal": "/images/reviews/barbours/barbours-e-confiavel-rodape-site-lescent.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 265297,
+          "column": 21,
+          "literal": "/images/reviews/barbours/barbours-e-confiavel-rodape-site-lescent.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0cca52ae5497cb4c318c98feb2fbc4c270470f24b11a0f68cf20acc6d4bd4aa2/barbours-e-confiavel-rodape-site-lescent.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0cca52ae5497cb4c318c98feb2fbc4c270470f24b11a0f68cf20acc6d4bd4aa2/barbours-e-confiavel-rodape-site-lescent.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T02:49:55.187Z",
+      "verification_etag_or_digest": "0cca52ae5497cb4c318c98feb2fbc4c270470f24b11a0f68cf20acc6d4bd4aa2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa-v3.webp",
+      "local_url": "/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa-v3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47748,
+      "sha256": "f1ee6a751d268231d64dfec34421b45f90c7073fe7dccb9def722e37fe880292",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-reclame-aqui-nota-reputacao-capa-v3.webp",
+      "storage_filename": "barbours-reclame-aqui-nota-reputacao-capa-v3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-reclame-aqui-nota-reputacao.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa-v3.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 265392,
+          "column": 15,
+          "literal": "/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa-v3.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f1ee6a751d268231d64dfec34421b45f90c7073fe7dccb9def722e37fe880292/barbours-reclame-aqui-nota-reputacao-capa-v3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f1ee6a751d268231d64dfec34421b45f90c7073fe7dccb9def722e37fe880292/barbours-reclame-aqui-nota-reputacao-capa-v3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T02:49:55.188Z",
+      "verification_etag_or_digest": "f1ee6a751d268231d64dfec34421b45f90c7073fe7dccb9def722e37fe880292",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/black-friday-barbours-banner-black-week-kit-3.webp",
+      "local_url": "/images/reviews/barbours/black-friday-barbours-banner-black-week-kit-3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57244,
+      "sha256": "4be65905f4ca036f8ab8d8b7219bf309654e90cd0a9976ebc7dfe66584bed88a",
+      "width": 1600,
+      "height": 459,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-barbours-banner-black-week-kit-3.webp",
+      "storage_filename": "black-friday-barbours-banner-black-week-kit-3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-barbours.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-barbours.json",
+          "line": 82,
+          "column": 19,
+          "literal": "/images/reviews/barbours/black-friday-barbours-banner-black-week-kit-3.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 265127,
+          "column": 21,
+          "literal": "/images/reviews/barbours/black-friday-barbours-banner-black-week-kit-3.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4be65905f4ca036f8ab8d8b7219bf309654e90cd0a9976ebc7dfe66584bed88a/black-friday-barbours-banner-black-week-kit-3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4be65905f4ca036f8ab8d8b7219bf309654e90cd0a9976ebc7dfe66584bed88a/black-friday-barbours-banner-black-week-kit-3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T02:49:55.188Z",
+      "verification_etag_or_digest": "4be65905f4ca036f8ab8d8b7219bf309654e90cd0a9976ebc7dfe66584bed88a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+      "local_url": "/images/reviews/barbours/cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48180,
+      "sha256": "9f88800dd67fe694209c3b8b8eb4c4a48b9c82d27cdb6c3c5604edb4300164d8",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+      "storage_filename": "cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-barbours.json",
+        "content/reviews/cupom-barbours-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-barbours.json",
+          "line": 123,
+          "column": 19,
+          "literal": "/images/reviews/barbours/cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-barbours-como-usar.json",
+          "line": 120,
+          "column": 19,
+          "literal": "/images/reviews/barbours/cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264950,
+          "column": 21,
+          "literal": "/images/reviews/barbours/cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 265168,
+          "column": 21,
+          "literal": "/images/reviews/barbours/cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9f88800dd67fe694209c3b8b8eb4c4a48b9c82d27cdb6c3c5604edb4300164d8/cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f88800dd67fe694209c3b8b8eb4c4a48b9c82d27cdb6c3c5604edb4300164d8/cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T02:49:55.188Z",
+      "verification_etag_or_digest": "9f88800dd67fe694209c3b8b8eb4c4a48b9c82d27cdb6c3c5604edb4300164d8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/cupom-barbours-primeira-compra-kit-necessaire-my-sweet-delight.webp",
+      "local_url": "/images/reviews/barbours/cupom-barbours-primeira-compra-kit-necessaire-my-sweet-delight.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79682,
+      "sha256": "04c690ec354104772f059b3669e959caa93de607208577a413cb0e8ed7f3311f",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-barbours-primeira-compra-kit-necessaire-my-sweet-delight.webp",
+      "storage_filename": "cupom-barbours-primeira-compra-kit-necessaire-my-sweet-delight.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-barbours-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-barbours-primeira-compra.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/barbours/cupom-barbours-primeira-compra-kit-necessaire-my-sweet-delight.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 265858,
+          "column": 21,
+          "literal": "/images/reviews/barbours/cupom-barbours-primeira-compra-kit-necessaire-my-sweet-delight.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/04c690ec354104772f059b3669e959caa93de607208577a413cb0e8ed7f3311f/cupom-barbours-primeira-compra-kit-necessaire-my-sweet-delight.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/04c690ec354104772f059b3669e959caa93de607208577a413cb0e8ed7f3311f/cupom-barbours-primeira-compra-kit-necessaire-my-sweet-delight.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T02:49:55.188Z",
+      "verification_etag_or_digest": "04c690ec354104772f059b3669e959caa93de607208577a413cb0e8ed7f3311f",
+      "verification_status": "verified"
     }
   ]
 }
