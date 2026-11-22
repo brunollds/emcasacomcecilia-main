@@ -29,6 +29,7 @@ checkout próprio em `seguro.denavita.com.br`, como a Barbour's, também da GoGr
 | Parcelamento: faixa e resumo do checkout "até 12x no cartão", produto "até 10x", vitrine 3x sem juros | condicao_comercial_volatil | Faixa, checkout, página de produto e vitrine | 2026-11-19 | 2026-12-19 | A página diz "até 12x", como o checkout, sem falar de juros | Média |
 | "Leve 3, Pague 2" no carrinho e "Até 40% OFF em todo o site" na faixa | condicao_comercial_volatil | Gaveta do carrinho e faixa | 2026-11-19 | 2026-12-01 | Soma com o cupom não vista: no teste 3 o resumo só mostrou o cupom (10% exatos). Perguntar ao Bruno o que ele viu | Média |
 | Cupom próprio de primeira compra (10%) e roleta de cupom no pop-up | condicao_comercial_volatil | Página de produto e pop-up | 2026-11-19 | 2026-12-19 | Não citar | Alta |
+| Códigos anunciados por aí com 15% e 20% não passam de 10% | condicao_comercial_volatil | Prints do Bruno, 22/11/2026, carrinho de R$ 226,80 (Trio de Favoritos + Tons Equilíbrio) | 2026-11-22 | 2026-12-22 | VITA15 e VITA20: "Cupom inválido". PRIMEIRACOMPRA (cupom de primeira compra da loja) e TIFF (código do cupomtiff) tiraram R$ 22,68, 10%, como o EMCASA. A página só nomeia VITA15 e VITA20; os outros dois ficam fora (cupom da loja e concorrente). Sem linha de desconto progressivo nesse carrinho, embora a IA do Google cite 5% acima de R$ 149,90: não citar | Alta |
 
 ---
 
@@ -48,6 +49,7 @@ checkout próprio em `seguro.denavita.com.br`, como a Barbour's, também da GoGr
 - Testar pelo caminho do cliente: "Adicionar ao carrinho" no produto, gaveta, "Finalizar compra". O checkout pede nome,
   e-mail, CPF e celular logo no começo: parar ali. O cupom já aparece no resumo.
 - Não citar o cupom de primeira compra da loja nem a roleta.
+- FAQ de `/cupons/denavita` responde aos códigos de 15% e 20% da resposta da IA do Google (Bruno, 22/11/2026): nomeia só os inválidos (VITA15, VITA20), nunca PRIMEIRACOMPRA nem TIFF.
 - Nos artigos, usar `affiliate: "denavita"`, `coupon: "EMCASA"` (o código) e link relativo para `/cupons/denavita`, com a
   âncora exata "cupom Denavita".
 
