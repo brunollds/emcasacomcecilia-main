@@ -85,43 +85,43 @@
         ],
         "rows": [
           [
-            "[Thunder preto](https://www.bawclothing.com.br/tenis-baw-thunder-151236)",
+            "[Thunder preto](https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236)",
             "R$ 169,00",
             "36 a 41, sem o 40",
             "Página sem descrição"
           ],
           [
-            "[Grip Mad off white](https://www.bawclothing.com.br/tenis-grip-mad-150379)",
+            "[Grip Mad off white](https://www.bawclothing.com.br/produto/tenis-grip-mad-150379)",
             "R$ 239,00",
             "33 a 44",
             "Lona, camurça, sola de borracha TR, tabela de medidas"
           ],
           [
-            "[Baseline preto](https://www.bawclothing.com.br/tenis-baw-baseline-151235) (duas páginas)",
+            "[Baseline preto](https://www.bawclothing.com.br/produto/tenis-baw-baseline-151235) (duas páginas)",
             "R$ 259,00 e R$ 279,00",
             "35 a 43",
             "Página sem descrição"
           ],
           [
-            "[Audacity](https://www.bawclothing.com.br/tenis-baw-audacity-151247)",
+            "[Audacity](https://www.bawclothing.com.br/produto/tenis-baw-audacity-151247)",
             "R$ 279,00",
             "35 a 43",
             "Página sem descrição"
           ],
           [
-            "[Session Revival](https://www.bawclothing.com.br/tenis-session-revival-150404)",
+            "[Session Revival](https://www.bawclothing.com.br/produto/tenis-session-revival-150404)",
             "R$ 369,00",
             "33 a 44",
             "Página sem descrição"
           ],
           [
-            "[Grip Mad preto](https://www.bawclothing.com.br/tenis-grip-mad-150399)",
+            "[Grip Mad preto](https://www.bawclothing.com.br/produto/tenis-grip-mad-150399)",
             "R$ 369,00",
             "33 a 44",
             "Mesma ficha do off white"
           ],
           [
-            "[Truck preto](https://www.bawclothing.com.br/tenis-truck-150200)",
+            "[Truck preto](https://www.bawclothing.com.br/produto/tenis-truck-150200)",
             "R$ 389,00",
             "33 a 44",
             "Entressola de PU, sola TR, lingueta em ripstop"
@@ -145,7 +145,7 @@
           "caption": "Tênis Truck, na cor preta. A ficha informa sola TR e entressola de PU. Foto: BAW.",
           "objectFit": "contain",
           "aspectRatio": 1,
-          "href": "https://www.bawclothing.com.br/tenis-truck-150200"
+          "href": "https://www.bawclothing.com.br/produto/tenis-truck-150200"
         }
       ]
     },
@@ -162,7 +162,7 @@
           "caption": "Tênis Grip Mad, na cor off white. A ficha descreve lona e camurça. Foto: BAW.",
           "objectFit": "contain",
           "aspectRatio": 1,
-          "href": "https://www.bawclothing.com.br/tenis-grip-mad-150379"
+          "href": "https://www.bawclothing.com.br/produto/tenis-grip-mad-150379"
         }
       ],
       "styling": {
@@ -170,7 +170,7 @@
         "items": [
           {
             "piece": "Tênis Grip Mad off white",
-            "url": "https://www.bawclothing.com.br/tenis-grip-mad-150379",
+            "url": "https://www.bawclothing.com.br/produto/tenis-grip-mad-150379",
             "howTo": "Nossa sugestão é usar com jeans reto e camiseta lisa, deixando o tênis claro como destaque do visual.",
             "occasion": "Dia a dia e passeio.",
             "pairsWith": [
@@ -187,7 +187,7 @@
           },
           {
             "piece": "Tênis Truck preto",
-            "url": "https://www.bawclothing.com.br/tenis-truck-150200",
+            "url": "https://www.bawclothing.com.br/produto/tenis-truck-150200",
             "howTo": "Nossa sugestão é um visual todo escuro: calça de moletom ou jeans preto, com uma jaqueta leve por cima.",
             "occasion": "Dia a dia e programas de noite.",
             "pairsWith": [
@@ -224,6 +224,9 @@
       "paragraphs": [
         "Só o Grip Mad traz medidas, de 24 cm no 33 a 35 cm no 44. Nos outros modelos a página não traz medida nenhuma. Nesse caso, compare com um tênis que você já usa e confira a numeração no atendimento da BAW antes de fechar.",
         "Pense na regra de troca. Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), o prazo é de 7 dias corridos do recebimento, com o produto sem uso, com etiqueta e na embalagem original. A troca vira crédito no valor pago, na conta do CPF da compra, e a loja não troca por outro número. Na devolução, o reembolso volta pela mesma forma de pagamento."
+      ],
+      "postParagraphs": [
+        "Para comprar com o código, o passo a passo do carrinho está em [como usar o cupom BAW](/reviews/cupom-baw-como-usar), e as condições ficam na página do [cupom BAW Clothing](/cupons/baw)."
       ]
     },
     {

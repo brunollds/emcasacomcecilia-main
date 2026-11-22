@@ -13,6 +13,7 @@
   },
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -87,12 +88,12 @@
         "rows": [
           [
             "Camiseta",
-            "Camiseta Regular Goth 3.0, R$ 59",
+            "[Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), R$ 59",
             "De R$ 249 a R$ 360"
           ],
           [
             "Calça",
-            "Calça Track BAW Tag, de R$ 149 a R$ 219, conforme a cor",
+            "[Calça Track BAW Tag](https://www.bawclothing.com.br/produto/calca-track-baw-tag-153886), de R$ 149 a R$ 219, conforme a cor",
             "De R$ 780 a R$ 10.000"
           ],
           [
@@ -121,19 +122,19 @@
         ],
         "rows": [
           [
-            "BAW Thunder preto",
+            "[BAW Thunder preto](https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236)",
             "R$ 169",
             "36 a 41, sem o 40",
             "Ficha vazia"
           ],
           [
-            "BAW Grip Mad off white",
+            "[BAW Grip Mad off white](https://www.bawclothing.com.br/produto/tenis-grip-mad-150379)",
             "R$ 239",
             "33 a 44",
             "Lona, traseiro e biqueira em camurça, sola de borracha TR"
           ],
           [
-            "BAW Truck preto",
+            "[BAW Truck preto](https://www.bawclothing.com.br/produto/tenis-truck-150200)",
             "R$ 389",
             "33 a 44",
             "Entressola de PU, sola TR, lingueta em ripstop"
@@ -170,7 +171,7 @@
           "caption": "Tênis Grip Mad, na cor off white. Foto: BAW.",
           "objectFit": "contain",
           "aspectRatio": 1,
-          "href": "https://www.bawclothing.com.br/tenis-grip-mad-150379"
+          "href": "https://www.bawclothing.com.br/produto/tenis-grip-mad-150379"
         },
         {
           "src": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
@@ -178,7 +179,7 @@
           "caption": "Tênis Truck, na cor preta. Foto: BAW.",
           "objectFit": "contain",
           "aspectRatio": 1,
-          "href": "https://www.bawclothing.com.br/tenis-truck-150200"
+          "href": "https://www.bawclothing.com.br/produto/tenis-truck-150200"
         }
       ],
       "styling": {
@@ -186,7 +187,7 @@
         "items": [
           {
             "piece": "Tênis Grip Mad off white",
-            "url": "https://www.bawclothing.com.br/tenis-grip-mad-150379",
+            "url": "https://www.bawclothing.com.br/produto/tenis-grip-mad-150379",
             "howTo": "Sugestão nossa: calça jeans reta e camiseta branca, deixando o tênis claro como ponto de destaque.",
             "occasion": "Dia a dia.",
             "pairsWith": [
@@ -203,7 +204,7 @@
           },
           {
             "piece": "Tênis Truck preto",
-            "url": "https://www.bawclothing.com.br/tenis-truck-150200",
+            "url": "https://www.bawclothing.com.br/produto/tenis-truck-150200",
             "howTo": "Sugestão nossa: calça de moletom cinza e moletom de capuz, tudo em tons neutros.",
             "occasion": "Dia a dia e passeio.",
             "pairsWith": [
@@ -224,7 +225,7 @@
     {
       "heading": "Quem faz cada marca",
       "paragraphs": [
-        "A BAW se apresenta no site como “uma marca de roupa streetwear brasileira”, fundada em 2014. Tem camisetas, moletons, calças, tênis e slides. De quem é a marca hoje está em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+        "A BAW se apresenta no site como “uma marca de roupa streetwear brasileira”, fundada em 2014. Tem camisetas, moletons, calças, tênis e slides.",
         "Segundo a ELLE Brasil, a Pace é uma marca paulistana, criada em 2017, que começou com foco em calçados. A mesma revista diz que é a primeira etiqueta brasileira na Dover Street Market Paris. Segundo a Hypebeast, ela lançou uma colaboração com a ASICS no Gel-Kayano 12.1.",
         "Pelo site oficial, a Pace tem camisetas, calças, jaquetas e calçados."
       ]

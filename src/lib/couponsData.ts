@@ -4076,26 +4076,26 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site e o app da BAW Clothing, com todas as formas de pagamento',
     longDescription:
       'O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF em todo o site e no aplicativo, para quem compra pela primeira vez e para quem já é cliente. Na primeira compra, é o mesmo desconto do FIRSTBAW, o cupom de primeira compra da loja. Soma com as promoções e com os 5% do Pix, em qualquer forma de pagamento.',
-    metaTitle: 'Cupom BAW Clothing: 10% OFF com BAWEMCASACOMCECILIA',
+    metaTitle: 'Cupom BAW: 10% OFF com BAWEMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
       'Cupom BAW Clothing: BAWEMCASACOMCECILIA dá 10% OFF em todo o site e no app, para cliente novo ou antigo, e soma com as promoções e os 5% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial e do aplicativo da BAW Clothing, inclusive os que já estão em promoção',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado por clientes novos e antigos',
-    shipping: 'Frete e prazo calculados no carrinho pelo CEP, segundo a política de entrega da loja; o prazo conta a partir do faturamento do pedido',
+    shipping: 'Frete grátis a partir de R$ 399, segundo o aviso do site; abaixo disso, frete e prazo calculados no carrinho pelo CEP, a partir do faturamento do pedido',
     combinable:
-      'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento e no aplicativo; o cupom não dá frete grátis',
+      'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento e no aplicativo; o frete grátis depende do valor do pedido, não do cupom',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 10% entraram numa camiseta em promoção de Black Friday' },
       { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja dá 5% de desconto, que soma com o código' },
-      { benefit: 'frete', stacks: 'nao', condition: 'O frete sai pelo CEP, à parte do cupom' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 399, segundo o aviso do site; abaixo disso, o frete sai pelo CEP, à parte do cupom' },
     ],
     paymentPerks: [
       'Até 10x sem juros no cartão, com parcela mínima de R$ 50',
       'Programa de fidelidade BAWPOINTS, com pontos e cashback para quem se cadastra no site',
     ],
-    lastVerified: '2026-11-17',
+    lastVerified: '2026-11-22',
     testedAt: '2026-11-17',
     testNote:
       'Num carrinho com duas camisetas, a Regular Locally Grown pelo preço cheio de R$ 89,00 e a Regular Goth 3.0 em promoção de Black Friday, de R$ 89,00 por R$ 59,00, o BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 e o total caiu para R$ 133,20: os 10% entraram também sobre a peça em promoção. O frete, calculado pelo CEP, ficou de fora do desconto. Em 17/11/2026, o BAWEMCASACOMCECILIA e o FIRSTBAW, o cupom de primeira compra da própria BAW, deram o mesmo desconto no mesmo carrinho, no aplicativo e no site. No site, com a Camiseta Regular Logo e a Camiseta Regular Pima, os dois tiraram R$ 20,80 de R$ 208,00, e o total ficou em R$ 187,20.',
@@ -4156,7 +4156,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom BAW Clothing na Black Friday?',
         answer:
-          'Tem. O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+          'Tem. O cupom BAW Clothing BAWEMCASACOMCECILIA dá 10% OFF no site oficial, em todas as formas de pagamento, e é o mesmo código do resto do ano. Na Black Friday, a BAW anuncia peças com até 80% OFF, e os 10% do código entram sobre o preço da campanha.',
       },
       {
         question: 'O cupom BAW Clothing vale na Black Friday?',
@@ -4166,7 +4166,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'Não. O frete e o prazo saem no carrinho pelo CEP, à parte do cupom. No nosso teste, para um CEP da cidade de São Paulo, o frete foi de R$ 10,62, com entrega em até 4 dias úteis.',
+          'O cupom não dá frete grátis: o site anuncia frete grátis a partir de R$ 399, e abaixo disso o frete e o prazo saem no carrinho pelo CEP. No nosso teste, com um carrinho abaixo desse valor e um CEP da cidade de São Paulo, o frete foi de R$ 10,62, com entrega em até 4 dias úteis.',
       },
       {
         question: 'Como funciona a troca na BAW Clothing?',
@@ -4188,6 +4188,15 @@ const STORE_COUPONS: Coupon[] = [
       scope: 'em todo o site e no app',
       note: 'Soma com os preços em promoção do site e com os 5% do Pix',
     },
+    relatedContent: [
+      { title: 'BAW Clothing é boa? Tecidos, medidas e cuidados', url: '/reviews/baw-clothing-e-boa', type: 'review', publishedAt: '2026-11-16' },
+      { title: 'Cupom BAW na primeira compra', url: '/reviews/cupom-baw-primeira-compra', type: 'review', publishedAt: '2026-11-16' },
+      { title: 'Como usar o cupom BAWEMCASACOMCECILIA', url: '/reviews/cupom-baw-como-usar', type: 'review', publishedAt: '2026-11-16' },
+      { title: 'Tênis BAW é bom? Modelos, preço e numeração', url: '/reviews/tenis-baw-e-bom', type: 'review', publishedAt: '2026-11-21' },
+      { title: 'Sandália Linus + BAW: cores e numeração', url: '/reviews/sandalia-linus-baw', type: 'review', publishedAt: '2026-11-21' },
+      { title: 'BAW ou Pace? Preço, peças e tênis', url: '/reviews/baw-ou-pace', type: 'review', publishedAt: '2026-11-21' },
+      { title: 'BAW Clothing no Reclame Aqui: nota e reclamações', url: '/reviews/baw-clothing-reclame-aqui-nota-reputacao', type: 'review', publishedAt: '2026-11-16' },
+    ],
     status: 'ativo',
     featured: false,
   },
