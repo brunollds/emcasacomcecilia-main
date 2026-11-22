@@ -15,6 +15,7 @@ import { getStoreCode } from '@/lib/homeStores';
 import { isInternalLink } from '@/lib/internalLinks';
 import { DropCapParagraph } from '@/components/editorial/DropCapParagraph';
 import { AnimatedTextHighlight } from '@/components/editorial/AnimatedTextHighlight';
+import { HighlightCoupon } from '@/components/review/HighlightCoupon';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import { buildSchemaAuthors } from '@/lib/content';
@@ -455,11 +456,24 @@ assert.ok(!dropCap('**Preços de hoje:** veja a tabela.').includes('aria-hidden'
 assert.ok(dropCap('**Preços de hoje:** veja a tabela.').includes('[**Preços de hoje:** veja a tabela.]'), 'parágrafo que abre com negrito perdeu a marcação');
 assert.ok(dropCap('Hoje no site.').includes('aria-hidden="true"'), 'parágrafo comum sem capitular');
 
-// Link externo no texto (tabela, parágrafo, FAQ) vai a loja parceira: sai com sponsored; o interno, sem rel.
+// Link do texto (tabela, parágrafo, FAQ) para loja parceira sai com sponsored; para outro site, só com noopener; o interno, sem rel.
 const inline = renderToStaticMarkup(
-  createElement(AnimatedTextHighlight, { text: '[Caneca](https://letseatit.com.br/products/caneca) e [cupom](/cupons/letseatit)', variant: 'd2' })
+  createElement(AnimatedTextHighlight, { text: '[Caneca](https://letseatit.com.br/products/caneca), [CDC](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) e [cupom](/cupons/letseatit)', variant: 'd2' })
 );
 assert.ok(inline.includes('href="https://letseatit.com.br/products/caneca" target="_blank" rel="sponsored noopener noreferrer"'), 'link externo do texto sem sponsored');
+assert.ok(
+  inline.includes('href="https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm" target="_blank" rel="noopener noreferrer"'),
+  'link público do texto saiu com sponsored'
+);
+// A célula de tabela passa pelo HighlightCoupon, que desenha o mesmo link.
+const tableCell = renderToStaticMarkup(
+  createElement(HighlightCoupon, { text: '[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)' })
+);
+assert.ok(tableCell.includes('rel="sponsored noopener noreferrer"'), 'link de loja em célula de tabela sem sponsored');
+assert.ok(
+  renderToStaticMarkup(createElement(HighlightCoupon, { text: '[perfil](https://www.reclameaqui.com.br/empresa/denavita/)' })).includes('rel="noopener noreferrer"'),
+  'Reclame Aqui em célula de tabela saiu com sponsored'
+);
 assert.ok(/href="\/cupons\/letseatit"(?![^>]*rel=)/.test(inline), 'link interno do texto ganhou rel');
 
 console.log(`✅ artigo D2: relacionados, bloco da loja, textos novos, trilha, galeria, a regra da barra do celular (${dockCases.length} casos) e o topo do artigo`);
