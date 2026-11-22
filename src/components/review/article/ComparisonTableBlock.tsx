@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { ContentSection } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
+import { keepCurrencyTogether } from '@/lib/keepCurrencyTogether';
 import { HighlightCoupon } from '../HighlightCoupon';
 import { getNotebookCopy } from '../notebookCopy';
 
@@ -13,11 +14,6 @@ export type ComparisonTableBlockProps = {
   reviewTitle: string;
   locale?: Locale;
 };
-
-// Nas células da tabela, "R$ 419" não quebra entre o R$ e o número (espaço não separável).
-function keepCurrencyTogether(text: string): string {
-  return text.replace(/R\$ (?=\d)/g, 'R$\u00a0');
-}
 
 const COMPARISON_WRAPPER_BASE = [
   'overflow-x-auto rounded-2xl border-2 border-marinho bg-white',

@@ -11,7 +11,6 @@ export type ArticleMetricsProps = {
 };
 
 // Faixa de indicadores movida por JSON (Reclame Aqui, Trustpilot, medições técnicas).
-// Generaliza o antigo ReputacaoMetricas fixo da DAMIE, mantendo estética de caderno e 100% visível no SSR.
 export function ArticleMetrics({ metrics, locale = 'pt' }: ArticleMetricsProps) {
   const copy = getNotebookCopy(locale);
   const count = metrics.items.length;
@@ -38,14 +37,16 @@ export function ArticleMetrics({ metrics, locale = 'pt' }: ArticleMetricsProps) 
               {item.label}
             </dt>
             <dd className="mt-1.5">
-              <span className="font-condensada text-[28px] leading-none font-black font-stretch-extra-condensed text-marinho">
-                {item.value}
-              </span>
-              {item.unit && (
-                <span className="ms-0.5 text-sm font-bold text-marinho-suave">
-                  {item.unit}
+              <bdi dir="ltr" className="inline-baseline">
+                <span className="font-condensada text-[28px] leading-none font-black font-stretch-extra-condensed text-marinho">
+                  {item.value}
                 </span>
-              )}
+                {item.unit && (
+                  <span className="ms-0.5 text-sm font-bold text-marinho-suave">
+                    {item.unit}
+                  </span>
+                )}
+              </bdi>
               {item.note && (
                 <span className="mt-1 block text-xs leading-snug font-medium text-marinho-suave">
                   {item.note}

@@ -11,7 +11,7 @@ import { FOCUS_RING } from '@/components/ui/focusRing';
 import { getFaqItems, isFaqHeading } from '@/lib/faq';
 import type { Locale } from '@/lib/i18n/locales';
 import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
-import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
+import { PadroesReclamacao } from './ReputacaoMetricas';
 import { ReviewSectionVideo } from './ReviewSectionVideo';
 import { TrackedCouponPageLink } from './TrackedCouponPageLink';
 import { ArticleChecklist } from './article/ArticleChecklist';
@@ -420,12 +420,6 @@ export function ReviewSectionContent({
               </a>
             );
           })}
-        </div>
-      )}
-
-      {section.widget === 'ReputacaoMetricas' && (
-        <div className="mt-6">
-          <ReputacaoMetricas />
         </div>
       )}
 

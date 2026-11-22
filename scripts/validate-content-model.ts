@@ -250,8 +250,12 @@ function getSimulatorProblems(simulator: ContentSectionSimulator): string[] {
     }
     const lines = Array.isArray(sc?.lines) ? sc.lines : [];
     if (lines.length < 1 || lines.length > 6) problems.push(`cenário "${label || '?'}": ${lines.length} linhas (de 1 a 6)`);
+    const lineLabels = new Set<string>();
     for (const line of lines) {
-      if (!line?.label?.trim() || !line?.value?.trim()) problems.push(`cenário "${label || '?'}": linha sem label ou value`);
+      const lineLabel = line?.label?.trim();
+      if (!lineLabel || !line?.value?.trim()) problems.push(`cenário "${label || '?'}": linha sem label ou value`);
+      else if (lineLabels.has(lineLabel)) problems.push(`cenário "${label || '?'}": linha repetida: ${lineLabel}`);
+      else lineLabels.add(lineLabel);
       if (line?.value && /\]\(|\*\*/.test(line.value)) problems.push(`cenário "${label || '?'}": markdown em value "${line.value}"`);
     }
   }
@@ -290,6 +294,16 @@ function getSimulatorProblems(simulator: ContentSectionSimulator): string[] {
   }
   if (getSimulatorProblems({ scenarios: [{ label: 'Único', lines: [{ label: 'Item', value: 'R$ 10' }], totalValue: 'R$ 10' }] }).length === 0) {
     report('simulator com 1 cenário passou');
+  }
+  if (
+    getSimulatorProblems({
+      scenarios: [
+        { label: 'No Pix', lines: [{ label: 'Produto', value: 'R$ 100' }, { label: 'Produto', value: '-R$ 10' }], totalValue: 'R$ 90' },
+        { label: 'No cartão', lines: [{ label: 'Produto', value: 'R$ 100' }], totalValue: 'R$ 100' },
+      ],
+    }).length === 0
+  ) {
+    report('simulator com linha repetida no mesmo cenário passou');
   }
 }
 

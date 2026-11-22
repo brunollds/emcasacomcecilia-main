@@ -549,6 +549,7 @@ assert.ok(/href="\/cupons\/letseatit"(?![^>]*rel=)/.test(inline), 'link interno 
     })
   );
   assert.ok(metricsHtml.includes('data-article="metrics"') && metricsHtml.includes('aria-label="Key metrics"'), 'ArticleMetrics sem marcação');
+  assert.ok(metricsHtml.includes('<bdi dir="ltr"'), 'ArticleMetrics sem bdi dir="ltr" para valores em RTL');
   assert.ok(metricsHtml.includes('8.9') && metricsHtml.includes('/10') && metricsHtml.includes('240 verified reviews.'), 'ArticleMetrics perdeu dados no SSR');
 
   const tableHtml = renderToStaticMarkup(
@@ -613,6 +614,7 @@ assert.ok(/href="\/cupons\/letseatit"(?![^>]*rel=)/.test(inline), 'link interno 
     })
   );
   assert.ok(simHtml.includes('data-article="simulator"') && simHtml.includes('role="tablist"'), 'ArticleSimulator sem tablist');
+  assert.ok(simHtml.includes('<bdi dir="ltr">-R$\u00a019,00</bdi>') && simHtml.includes('<bdi dir="ltr">R$\u00a081,00</bdi>'), 'ArticleSimulator sem bdi dir="ltr" nos valores em árabe');
   assert.ok(simHtml.includes('R$\u00a081,00') && simHtml.includes('R$\u00a090,00'), 'ArticleSimulator omitiu cenário fechado do HTML inicial');
 
   const notebookPlain = contentSectionsToPlainText([

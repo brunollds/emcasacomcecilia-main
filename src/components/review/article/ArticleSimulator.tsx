@@ -5,6 +5,7 @@ import { isRtl } from '@/components/ui/direction';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { ContentSectionSimulator } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
+import { keepCurrencyTogether } from '@/lib/keepCurrencyTogether';
 import { HighlightCoupon } from '../HighlightCoupon';
 import { getNotebookCopy } from '../notebookCopy';
 
@@ -12,10 +13,6 @@ export type ArticleSimulatorProps = {
   simulator: ContentSectionSimulator;
   locale?: Locale;
 };
-
-function keepCurrencyTogether(text: string): string {
-  return text.replace(/R\$ (?=\d)/g, 'R$\u00a0');
-}
 
 // Simulador rápido de cenários reais verificados no carrinho (ex.: "Pix + cupom" vs "Cartão" ou faixas de compra).
 // Todos os cenários saem no HTML inicial (abas escondidas com `hidden`), garantindo indexação integral.
@@ -127,7 +124,7 @@ export function ArticleSimulator({ simulator, locale = 'pt' }: ArticleSimulatorP
                   <HighlightCoupon text={line.label} />
                 </dt>
                 <dd className="shrink-0 text-sm font-extrabold">
-                  {keepCurrencyTogether(line.value)}
+                  <bdi dir="ltr">{keepCurrencyTogether(line.value)}</bdi>
                 </dd>
               </div>
             ))}
@@ -138,7 +135,7 @@ export function ArticleSimulator({ simulator, locale = 'pt' }: ArticleSimulatorP
               {scenario.totalLabel || copy.simulatorTotalLabel}
             </span>
             <span className="font-condensada text-[26px] leading-none font-black font-stretch-extra-condensed text-marinho">
-              {keepCurrencyTogether(scenario.totalValue)}
+              <bdi dir="ltr">{keepCurrencyTogether(scenario.totalValue)}</bdi>
             </span>
           </div>
 
