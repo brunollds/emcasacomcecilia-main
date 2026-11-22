@@ -276972,7 +276972,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No semestre de maio a outubro de 2026, a loja recebeu 53 reclamações e respondeu a 84,9% delas. A reputação é Boa, com nota 7,1, e 88,9% das reclamações aparecem como resolvidas. O tempo médio de resposta foi de 18 dias e 17 horas, e 44,4% dos consumidores que avaliaram dizem que voltariam a comprar.",
+          "No semestre de maio a outubro de 2026, a loja recebeu 53 reclamações e respondeu a 84,9% delas. A reputação é Boa, com nota 7,1, e 88,9% das reclamações finalizadas e avaliadas aparecem como resolvidas. O tempo médio de resposta foi de 18 dias e 17 horas, e 44,4% dos consumidores que avaliaram dizem que voltariam a comprar.",
           "Na aba geral, que reúne até três anos, atraso na entrega é o problema mais citado, com 50% das queixas. A [análise da nota e dos indicadores](/reviews/colaedecora-reclame-aqui-nota-reputacao) explica cada número."
         ]
       },
@@ -277107,7 +277107,7 @@ export const reviewsData: unknown[] = [
           "A tabela reúne os indicadores do [perfil da Cola e Decora](https://www.reclameaqui.com.br/empresa/cola-e-decora/) no semestre de maio a outubro."
         ],
         "comparisonTable": {
-          "caption": "Perfil da Cola e Decora no Reclame Aqui, de 1º de maio a 31 de outubro de 2026. Os índices de solução e de quem voltaria a fazer negócio valem para as 19 reclamações avaliadas.",
+          "caption": "Perfil da Cola e Decora no Reclame Aqui, de 1º de maio a 31 de outubro de 2026. O perfil mostra 19 reclamações avaliadas; os índices de solução e de quem voltaria a fazer negócio são calculados pela plataforma sobre as reclamações finalizadas e avaliadas, não sobre as 53.",
           "headers": [
             "Indicador",
             "Últimos 6 meses"
@@ -277173,14 +277173,14 @@ export const reviewsData: unknown[] = [
           "Reputação Boa no semestre. De maio a agosto, a faixa era Ótima.",
           "A empresa está no Reclame Aqui há 5 anos.",
           "A loja respondeu 84,9% das reclamações do semestre.",
-          "Entre as 19 reclamações avaliadas, 88,9% aparecem como resolvidas. A base é pequena, então o índice oscila com poucos casos."
+          "O perfil mostra 19 reclamações avaliadas e índice de solução de 88,9%, calculado sobre as reclamações finalizadas e avaliadas. A base é pequena, então o índice oscila com poucos casos."
         ]
       },
       {
         "heading": "Pontos de atenção e principais queixas",
         "paragraphs": [
           "O tempo médio de resposta, 18 dias e 17 horas, é longo para quem espera um móvel. Das 53 do semestre, 8 ainda aguardavam resposta.",
-          "Das 19 avaliadas, 44,4% dizem que voltariam a fazer negócio, e a nota média dada pelos consumidores é 6,28. São os dois pontos mais fracos do perfil no semestre.",
+          "Entre as reclamações finalizadas e avaliadas, 44,4% dizem que voltariam a fazer negócio, e a nota média dada pelos consumidores é 6,28. São os dois pontos mais fracos do perfil no semestre.",
           "As 53 reclamações recebidas são um número absoluto. Sem o total de pedidos da loja, ele não vira proporção.",
           "Os motivos de reclamação que o perfil lista para o semestre são produto danificado e atraso na entrega.",
           "Na aba Geral, que soma até três anos, atraso na entrega é o problema mais citado, com 50% das queixas. A categoria mais frequente é a de móveis infantis, com 25,45%."
@@ -277216,7 +277216,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual a nota da Cola e Decora no Reclame Aqui? No semestre consultado, a nota foi 7,1 e a reputação, Boa, depois de meses como Ótima. A nota muda com o tempo, então confira o perfil.",
           "A Cola e Decora tem selo RA1000 ou Empresa Verificada? Não. O perfil mostra reputação Boa, sem esses selos.",
-          "A Cola e Decora responde e resolve as reclamações? Respondeu 84,9% das 53 do semestre, em média em 18 dias e 17 horas. Entre as 19 avaliadas, 88,9% aparecem como resolvidas.",
+          "A Cola e Decora responde e resolve as reclamações? Respondeu 84,9% das 53 do semestre, em média em 18 dias e 17 horas. Entre as reclamações finalizadas e avaliadas, 88,9% aparecem como resolvidas.",
           "A Cola e Decora atrasa a entrega? Atraso na entrega é o problema mais citado na aba Geral do Reclame Aqui. Simule o prazo pelo CEP e guarde a previsão.",
           "Existe cupom para a Cola e Decora? Sim, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo."
         ]
