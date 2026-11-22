@@ -3223,7 +3223,7 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Calculado pelo CEP no carrinho, sem faixa de frete grátis para entrega em casa; a retirada numa loja Bagaggio próxima sai sem custo, conforme a disponibilidade',
+      'Calculado pelo CEP no carrinho, sem um mínimo geral para frete grátis; alguns produtos entram em promoção de frete grátis, e a retirada numa loja Bagaggio próxima sai sem custo, conforme a disponibilidade',
     combinable:
       'Soma com as promoções vigentes do site, inclusive o Outlet, e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, porque a loja aceita um por pedido',
     stacking: [
@@ -3310,7 +3310,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Quanto custa o frete da Bagaggio?',
         answer:
-          'O frete é calculado pelo CEP no carrinho, e o site não tem faixa de frete grátis para entrega em casa. Na nossa simulação, a entrega de uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32. A retirada numa loja Bagaggio próxima sai sem custo, conforme a disponibilidade.',
+          'O frete é calculado pelo CEP no carrinho, pelo peso e pelo volume. Não encontramos um mínimo geral para frete grátis, mas a loja pode pôr produtos em promoção de frete grátis; o carrinho mostra o valor pelo CEP. Na nossa simulação, a entrega de uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32. A retirada numa loja Bagaggio próxima sai sem custo, conforme a disponibilidade.',
       },
       {
         question: 'Posso desistir da compra feita com o cupom?',

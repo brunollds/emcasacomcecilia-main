@@ -173,7 +173,7 @@
     {
       "heading": "Frete e retirada em loja",
       "paragraphs": [
-        "O frete é calculado pelo CEP no carrinho, e a marca diz que entrega em todo o país. Na nossa simulação, a entrega de uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32, e a retirada numa loja Bagaggio saiu sem custo. O site não publica faixa de frete grátis.",
+        "O frete é calculado pelo CEP no carrinho, e a marca diz que entrega em todo o país. Na nossa simulação, a entrega de uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32, e a retirada numa loja Bagaggio saiu sem custo. Não encontramos um mínimo geral para frete grátis; alguns produtos entram em promoção de frete grátis.",
         "Na retirada em loja, o pedido fica pronto em até 3 horas depois da aprovação, segundo a loja. Espere o aviso de pedido pronto e confirme no atendimento até quando pode buscá-lo. A retirada só é feita pelo titular da compra, com documento original com foto."
       ],
       "image": {
@@ -236,7 +236,7 @@
         "A garantia vitalícia da Bagaggio vale para todas as malas? Não. Ela vale só para as malas da marca Bagaggio compradas depois do início do programa. Mochilas, bolsas e outras marcas ficam de fora.",
         "Posso trocar ou devolver um produto da Bagaggio? Sim, dentro das regras da loja. Na compra pelo site, a lei dá 7 dias corridos depois do recebimento para desistir, e a devolução é feita pelo Troque Fácil.",
         "Quando o reembolso cai? No cartão, o estorno pode aparecer em até duas faturas. No boleto, o crédito sai em até 10 dias úteis depois do recebimento do produto.",
-        "A Bagaggio tem frete grátis? Não encontramos faixa de frete grátis para entrega em casa. O frete é calculado pelo CEP no carrinho: na nossa simulação, uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32, e a retirada em loja saiu sem custo.",
+        "A Bagaggio tem frete grátis? Não encontramos um mínimo geral para frete grátis; alguns produtos entram em promoção de frete grátis. O frete é calculado pelo CEP no carrinho: na nossa simulação, uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32, e a retirada em loja saiu sem custo.",
         "Qual é o atendimento da Bagaggio? O atendimento é feito pelo chat do site, de segunda a sexta, das 9h às 18h. Para troca, desistência e garantia, o e-mail é atendimento@bagaggio.com.br.",
         "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive no Outlet. A loja aceita um cupom por pedido, e ele soma com o Pix de 5%.",
         "Tem produtos da Bagaggio no Mercado Livre? Sim, a [vitrine da Cecília no Mercado Livre](https://meli.la/2KeydkG) tem produtos da marca. O cupom não vale lá; vale o preço do anúncio."

@@ -137105,7 +137105,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e retirada em loja",
         "paragraphs": [
-          "O frete é calculado pelo CEP no carrinho, e a marca diz que entrega em todo o país. Na nossa simulação, a entrega de uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32, e a retirada numa loja Bagaggio saiu sem custo. O site não publica faixa de frete grátis.",
+          "O frete é calculado pelo CEP no carrinho, e a marca diz que entrega em todo o país. Na nossa simulação, a entrega de uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32, e a retirada numa loja Bagaggio saiu sem custo. Não encontramos um mínimo geral para frete grátis; alguns produtos entram em promoção de frete grátis.",
           "Na retirada em loja, o pedido fica pronto em até 3 horas depois da aprovação, segundo a loja. Espere o aviso de pedido pronto e confirme no atendimento até quando pode buscá-lo. A retirada só é feita pelo titular da compra, com documento original com foto."
         ],
         "image": {
@@ -137168,7 +137168,7 @@ export const reviewsData: unknown[] = [
           "A garantia vitalícia da Bagaggio vale para todas as malas? Não. Ela vale só para as malas da marca Bagaggio compradas depois do início do programa. Mochilas, bolsas e outras marcas ficam de fora.",
           "Posso trocar ou devolver um produto da Bagaggio? Sim, dentro das regras da loja. Na compra pelo site, a lei dá 7 dias corridos depois do recebimento para desistir, e a devolução é feita pelo Troque Fácil.",
           "Quando o reembolso cai? No cartão, o estorno pode aparecer em até duas faturas. No boleto, o crédito sai em até 10 dias úteis depois do recebimento do produto.",
-          "A Bagaggio tem frete grátis? Não encontramos faixa de frete grátis para entrega em casa. O frete é calculado pelo CEP no carrinho: na nossa simulação, uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32, e a retirada em loja saiu sem custo.",
+          "A Bagaggio tem frete grátis? Não encontramos um mínimo geral para frete grátis; alguns produtos entram em promoção de frete grátis. O frete é calculado pelo CEP no carrinho: na nossa simulação, uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32, e a retirada em loja saiu sem custo.",
           "Qual é o atendimento da Bagaggio? O atendimento é feito pelo chat do site, de segunda a sexta, das 9h às 18h. Para troca, desistência e garantia, o e-mail é atendimento@bagaggio.com.br.",
           "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive no Outlet. A loja aceita um cupom por pedido, e ele soma com o Pix de 5%.",
           "Tem produtos da Bagaggio no Mercado Livre? Sim, a [vitrine da Cecília no Mercado Livre](https://meli.la/2KeydkG) tem produtos da marca. O cupom não vale lá; vale o preço do anúncio."
@@ -137232,7 +137232,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio - Loja Virtual está com reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,0, e Ruim nos 12 meses, com nota 5,8. No semestre, respondeu a todas as reclamações; atraso na entrega é a queixa mais citada. O [cupom Bagaggio](/cupons/bagaggio) CECILIA10 dá 10% OFF no site."
+          "A Bagaggio - Loja Virtual está com reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,0, e Ruim nos 12 meses, com nota 5,8. No semestre, respondeu a todas as reclamações; na aba Geral, atraso na entrega lidera as queixas. O [cupom Bagaggio](/cupons/bagaggio) CECILIA10 dá 10% OFF no site."
         ]
       },
       {
@@ -137355,7 +137355,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pontos positivos",
         "paragraphs": [
           "O semestre mais recente é o melhor da série: a reputação subiu de Boa, com nota 7,9, na leitura de outubro, para Ótima, com nota 8,0. A loja respondeu a 100% das 1.107 reclamações dos últimos 6 meses e não tinha nenhuma aguardando resposta nessa aba.",
-          "O tempo de resposta também caiu: 7 dias e 4 horas no semestre, contra 34 dias e 18 horas na janela de 12 meses. Entre as 619 reclamações avaliadas no semestre, 93% foram dadas como resolvidas e 61,2% dos clientes disseram que voltariam a fazer negócio.",
+          "O tempo médio de resposta foi de 7 dias e 4 horas no semestre e de 34 dias e 18 horas na janela de 12 meses, que inclui o semestre. Entre as 619 reclamações avaliadas no semestre, 93% foram dadas como resolvidas e 61,2% dos clientes disseram que voltariam a fazer negócio.",
           "O volume de queixas diminuiu. A aba de 12 meses tem 5.528 reclamações, e a de 6 meses, 1.107: os seis meses anteriores somaram cerca de 4.420, perto de 740 por mês, contra cerca de 185 por mês no semestre atual. A conta é nossa, com as duas abas, e são números absolutos: sem o total de pedidos da loja, não dá para calcular uma taxa de reclamação.",
           "O perfil está no Reclame Aqui há 18 anos, tem o selo Empresa Verificada e aparecia em 18º lugar no ranking Melhor empresa da categoria Bolsas, Malas e Mochilas."
         ]
