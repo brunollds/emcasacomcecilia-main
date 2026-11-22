@@ -64,7 +64,7 @@
     {
       "heading": "Quanto o cupom tira: a conta dos carrinhos testados",
       "paragraphs": [
-        "Em 18/11, montamos dois carrinhos no site oficial e lemos o resumo do checkout com o cupom CECILIA na Adaptogen aplicado.",
+        "Montamos dois carrinhos no site oficial e lemos o resumo do checkout com o cupom CECILIA na Adaptogen aplicado. Repetimos o da creatina em 22/11, com o mesmo resultado.",
         "Os dois carrinhos estavam com os preços da [Black Friday da Adaptogen](/reviews/black-friday-adaptogen), e os 10% entraram sobre eles. O preço de vitrine muda, então o resumo do checkout é o que vale: confira o seu total nele antes de pagar."
       ],
       "comparisonTable": {
@@ -77,13 +77,13 @@
         ],
         "rows": [
           [
-            "Creatina Flavor 300 g",
+            "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA)",
             "R$ 97,75",
             "− R$ 9,78",
             "R$ 87,97"
           ],
           [
-            "Creatina Flavor 300 g e HIT Protein Bag 900 g",
+            "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) e [HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA)",
             "R$ 244,93",
             "− R$ 24,49",
             "R$ 220,44"
@@ -113,22 +113,14 @@
       ],
       "postParagraphs": [
         "Se o código não entrar, o [guia de como usar](/reviews/cupom-adaptogen-como-usar) tem o que conferir: o campo, a grafia e a linha Cupom."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
-          "alt": "Resumo do checkout da Adaptogen com o cupom CECILIA no campo Cupom de desconto, o aviso Cupom aplicado, a linha Cupom − R$ 24,49 e o total de R$ 220,44",
-          "caption": "O CECILIA aplicado no checkout da Adaptogen, no nosso teste. A linha Cupom mostra quanto saiu do pedido.",
-          "objectFit": "contain",
-          "aspectRatio": 0.58
-        }
       ]
     },
     {
       "heading": "E na segunda compra?",
       "paragraphs": [
-        "Na segunda compra, digite o mesmo CECILIA no mesmo campo do checkout: o código vale para cliente novo e antigo.",
-        "A loja informa que o Adapto Cash devolve 3% do valor da compra em crédito para as próximas. A página do programa não fala de cupom."
+        "Na segunda compra, digite o mesmo CECILIA no mesmo campo do checkout: o código vale para cliente novo e antigo, sem exigir pedido anterior nem cadastro à parte. Depois de Aplicar, confira o aviso Cupom aplicado e a linha Cupom no resumo, como no primeiro pedido.",
+        "O desconto também vale sobre produto em promoção: nos nossos testes, os 10% entraram sobre o preço da Black Friday. Se o preço do carrinho mudar de um pedido para o outro, o que vale é o total que o resumo mostra naquele dia.",
+        "A loja anuncia 5% de desconto no Pix e no boleto, e o CECILIA vale também nessas modalidades e soma com esse desconto; a etapa de pagamento pede login e não foi aberta nos nossos testes. A loja informa ainda que o Adapto Cash devolve 3% do valor da compra em crédito para as próximas. A página do programa não fala de cupom."
       ]
     },
     {

@@ -69,8 +69,8 @@
       "heading": "O que a Adaptogen põe na Black Friday",
       "paragraphs": [
         "A Adaptogen tem uma coleção própria para a Black Friday, com 57 produtos: whey, creatina, pré-treino, aminoácidos, vitaminas e roupas. Ela aparece no menu Black Friday da home. O banner da home traz a frase “Black Friday começou, até 50% OFF”.",
-        "Nenhum suplemento que lemos estava com 50% de desconto. Entre os itens que lemos estão a Creatina Flavor 300 g, o HIT Protein Bag 900 g, o Gold Whey 900 g, o Tasty Whey 3W Gourmet 900 g e o Tasty Iso 900 g, além do Panic Pré Treino e da jaqueta de moletom, que ficou 35% abaixo do preço riscado.",
-        "A coleção não traz regulamento nem data de fim. Para ver a lista inteira, abra a coleção pelo link abaixo."
+        "Nenhum suplemento que lemos estava com 50% de desconto. Entre os itens que lemos estão a [Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA), o [HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA), o [Gold Whey 900 g](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), o [Tasty Whey 3W Gourmet 900 g](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e o [Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), além do Panic Pré Treino e da jaqueta de moletom, que ficou 35% abaixo do preço riscado.",
+        "A coleção não traz regulamento nem data de fim. O banner da home diz “até 50% OFF” e as fichas em promoção levam o selo “Black Friday”: o percentual de cada produto é o que está na ficha dele. Para ver a lista inteira, abra a coleção pelo link abaixo."
       ],
       "links": [
         {
@@ -95,40 +95,40 @@
         ],
         "rows": [
           [
-            "Tasty Whey 3W Gourmet 900 g",
+            "[Tasty Whey 3W Gourmet 900 g](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
             "R$ 317,90",
-            "R$ 270,20",
+            "R$ 270,22",
             "R$ 256,71"
           ],
           [
-            "Gold Whey 900 g",
+            "[Gold Whey 900 g](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA)",
             "R$ 262,90",
-            "R$ 223,48",
+            "R$ 223,47",
             "R$ 212,30"
           ],
           [
-            "HIT Protein Bag 900 g",
+            "[HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA)",
             "R$ 173,15",
             "R$ 147,18",
             "R$ 139,82"
           ],
           [
-            "Tasty Iso 900 g",
+            "[Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA)",
             "R$ 460,90",
-            "R$ 391,80",
+            "R$ 391,77",
             "R$ 372,18"
           ],
           [
-            "Creatina Flavor 300 g",
+            "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA)",
             "R$ 115,00",
             "R$ 97,75",
             "R$ 92,86"
           ],
           [
-            "Creatina Platinum Series 300 g",
-            "R$ 79,00",
-            "R$ 67,15",
-            "R$ 63,79"
+            "[Creatina Platinum Series](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA)",
+            "R$ 35,10",
+            "R$ 29,84",
+            "não lido"
           ]
         ]
       },
@@ -158,7 +158,7 @@
     {
       "heading": "O cupom entra por cima? A conta de dois carrinhos",
       "paragraphs": [
-        "Em 18/11, testamos o cupom CECILIA na Adaptogen no checkout, sem login e sem finalizar a compra. Montamos dois carrinhos com itens da campanha, com os preços do cartão, e olhamos o resumo com o cupom aplicado."
+        "Testamos o cupom CECILIA na Adaptogen no checkout, sem login e sem finalizar a compra, em 18/11, e repetimos o carrinho da creatina em 22/11, com o mesmo resultado. Montamos dois carrinhos com itens da campanha, com os preços do cartão, e olhamos o resumo com o cupom aplicado."
       ],
       "comparisonTable": {
         "caption": "Teste no checkout, sem login e sem finalizar a compra. Preços do cartão da campanha e sem frete.",
@@ -170,13 +170,13 @@
         ],
         "rows": [
           [
-            "Creatina Flavor 300 g (Limonada)",
+            "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) (Limonada)",
             "R$ 97,75",
             "− R$ 9,78",
             "R$ 87,97"
           ],
           [
-            "Creatina + HIT Protein Bag 900 g (Baunilha)",
+            "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) + [HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) (Baunilha)",
             "R$ 244,93",
             "− R$ 24,49",
             "R$ 220,44"
@@ -185,29 +185,22 @@
       },
       "postParagraphs": [
         "Conta nossa: o cupom tirou 10% do total dos produtos, já com os preços da campanha. Somou nos nossos testes."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
-          "alt": "Resumo do pedido na Adaptogen com CECILIA aplicado, a linha Cupom de R$ 24,49 e o total de R$ 220,44",
-          "caption": "Resumo do segundo carrinho no checkout: o aviso Cupom aplicado, a linha Cupom − R$ 24,49 e o total de R$ 220,44.",
-          "objectFit": "contain",
-          "aspectRatio": 0.58
-        }
       ]
     },
     {
       "heading": "Como aplicar o cupom",
       "paragraphs": [
-        "O cupom CECILIA na Adaptogen entra no checkout, no campo “Cupom de desconto”. Digite CECILIA, clique em “Aplicar” e espere o aviso “Cupom aplicado”. A linha Cupom aparece no resumo.",
-        "O passo a passo, campo a campo, está em [como usar o cupom CECILIA na Adaptogen](/reviews/cupom-adaptogen-como-usar). As condições do código estão na página do [cupom Adaptogen](/cupons/adaptogen). O link da loja não aplica o código sozinho."
+        "O cupom CECILIA na Adaptogen entra no checkout, que abre quando você clica em Finalizar Compra na sacola. No resumo do pedido há o campo “Cupom de desconto”: digite CECILIA, clique em “Aplicar” e espere o aviso “Cupom aplicado”. A linha Cupom aparece no resumo, com o valor abatido.",
+        "O botão desta página leva à loja, mas não aplica o código sozinho: quem entra por ele ainda digita o CECILIA. Como a campanha muda o preço da vitrine, o total que vale é o do resumo, com a linha Cupom e o frete do seu CEP. Se o aviso não aparecer, confira a grafia, tudo junto e sem espaço, e se o campo é o de cupom.",
+        "O passo a passo, campo a campo, está em [como usar o cupom CECILIA na Adaptogen](/reviews/cupom-adaptogen-como-usar). As condições do código estão na página do [cupom Adaptogen](/cupons/adaptogen)."
       ]
     },
     {
       "heading": "Pix, boleto e Adapto Cash",
       "paragraphs": [
-        "O CECILIA vale também no Pix e no boleto, modalidades para as quais a loja anuncia 5% de desconto. Confira os dois descontos no resumo antes de pagar. Nos nossos testes, vimos a aplicação do cupom; a etapa de pagamento, que pede login, não foi aberta.",
-        "A loja informa 3% do valor da compra em crédito para as próximas compras, pelo Adapto Cash. É uma vantagem da loja, e a página do programa não fala de cupom."
+        "A loja anuncia 5% de desconto no Pix e no boleto, e o CECILIA vale também nessas modalidades e soma com esse desconto. Confira os dois descontos no resumo antes de pagar. Nos nossos testes, vimos a aplicação do cupom; a etapa de pagamento, que pede login, não foi aberta, então não damos um total com Pix e cupom juntos.",
+        "No cartão, a faixa da home e a página de formas de pagamento falam em até 6x sem juros, com parcela mínima de R$ 50. O Pix também pode ser parcelado, em até 4x sem juros, com a mesma parcela mínima.",
+        "A loja informa ainda 3% do valor da compra em crédito para as próximas compras, pelo Adapto Cash. É uma vantagem da loja, e a página do programa não fala de cupom: se ele soma com o CECILIA, não vimos."
       ]
     },
     {
@@ -255,10 +248,11 @@
       "bullets": [
         "A Adaptogen tem Black Friday? Tem uma coleção própria no site, com 57 produtos, e um banner na home. A loja não publica regulamento nem data de fim.",
         "O cupom CECILIA vale na Black Friday da Adaptogen? Nos nossos testes, somou com os preços da campanha. Confira a linha Cupom no resumo do checkout antes de pagar.",
-        "O cupom soma com o Pix? O CECILIA vale também no Pix, modalidade para a qual a loja anuncia 5% de desconto. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento.",
+        "O cupom soma com o Pix? O CECILIA vale também no Pix e soma com os 5% que a loja anuncia para essa modalidade. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento.",
         "Até quando vai a Black Friday da Adaptogen? A loja não informa data de fim na coleção. Confira a campanha no dia da compra.",
         "O cupom vale no Mercado Livre? O código é do site oficial da Adaptogen. Não conferimos os marketplaces, então não afirmamos nada sobre eles."
       ]
     }
-  ]
+  ],
+  "bodyDatesReason": "campanha"
 }
