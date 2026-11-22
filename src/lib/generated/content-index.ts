@@ -98911,11 +98911,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Belive é vendida pela NHD Foods, tem site oficial com CNPJ ativo e tinha reputação Ótima no Reclame Aqui em 16/10/2026. Veja trocas, arrependimento e frete grátis por região.",
+    "description": "A Belive é vendida pela NHD Foods, tem site oficial com CNPJ ativo e reputação Ótima no Reclame Aqui nos últimos 6 meses. Veja trocas, arrependimento e frete grátis por região.",
     "metaDescription": "Quem vende a Belive, o CNPJ, as trocas e o frete, com o cupom MAUAD de 10% OFF no site oficial.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/belive-e-confiavel-capa-v2.webp",
@@ -98925,7 +98925,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "CNPJ ativo nos dados públicos, o mesmo do rodapé do site, com matriz e filial em Uberaba (MG)",
       "7 dias corridos para desistir da compra, com o frete de devolução por conta da Belive",
-      "Reputação Ótima no Reclame Aqui, com nota 8,1, em outubro",
+      "Reputação Ótima no Reclame Aqui na aba de 6 meses, com nota 8,2, e Boa em 12 meses",
       "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO, contado sem o cupom",
       "Pix com 5% de desconto, que soma com o cupom MAUAD"
     ],
@@ -98960,7 +98960,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Belive é operada pela NHD Foods, tem CNPJ ativo e tinha reputação Ótima no Reclame Aqui entre abril e setembro. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF no site oficial."
+          "A Belive é operada pela NHD Foods e tem CNPJ ativo. No Reclame Aqui, a reputação é Ótima na aba de 6 meses, com nota 8,2, e Boa em 12 meses. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução. O cupom Belive MAUAD dá 10% OFF no site oficial."
         ]
       },
       {
@@ -99033,7 +99033,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O site não publica prazo para o reembolso nem para comunicar defeito. Por isso, abra o pedido no SAC logo que perceber o problema e guarde a nota. Se a caixa chegar violada, o site orienta recusar a entrega no ato. A embalagem original é exigência da FAQ da loja: se o produto já foi aberto, escreva ao SAC e guarde a resposta por escrito. Se houver recusa do pedido por causa da embalagem, procure orientação do órgão de defesa do consumidor."
+          "O site não publica prazo para o reembolso nem para comunicar defeito. Por isso, abra o pedido no SAC logo que perceber o problema e guarde a nota. Se a caixa chegar violada, o site orienta recusar a entrega no ato. A embalagem original é exigência da FAQ da loja: se o produto já foi aberto, escreva ao SAC e guarde a resposta por escrito. Se a loja recusar a troca por causa da embalagem, responda pelo mesmo canal com as fotos e a data de recebimento: o prazo de 7 dias do CDC vale para compra pelo site."
         ]
       },
       {
@@ -99070,7 +99070,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "No Reclame Aqui, o perfil “Belive Be Free” tinha selo **Ótima** e nota **8,1** nos últimos seis meses, em outubro. Os números detalhados de reclamações respondidas e índice de solução estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
+          "No perfil Belive Be Free, a reputação é Ótima na aba de 6 meses, com nota 8,2, e Boa na aba de 12 meses, com nota 7,6. A Belive respondeu 100% das reclamações nas quatro abas do perfil, e o tempo médio de resposta no semestre foi de 1 dia e 6 horas.",
+          "Entre as reclamações finalizadas e avaliadas, 81,3% aparecem como resolvidas no semestre e 77,4% em 12 meses. Esses índices valem só para quem avaliou: são 16 avaliadas no semestre e 31 em 12 meses, base pequena. As 37 reclamações do semestre e as 71 de 12 meses são números absolutos, e sem o total de pedidos não viram proporção.",
+          "O perfil está no Reclame Aqui há 10 anos e não tem os selos Empresa Verificada nem RA1000. Na aba Geral, que soma até três anos, a categoria mais citada é \"Não encontrei meu problema\", com 30,12%, e o atraso na entrega aparece com 4,22% entre os problemas nomeados.",
+          "A tabela completa, com as quatro abas, está no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -99091,14 +99094,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Belive?",
         "paragraphs": [
-          "Do ponto de vista de confiança, sim. A empresa responsável tem CNPJ ativo e regras públicas de compra, e a reputação era Ótima no recorte de abril a setembro. Use esses dados junto com o preço, o frete e as condições de atendimento; eles não garantem a entrega nem a sua satisfação.",
+          "Do ponto de vista de confiança, sim. A empresa responsável tem CNPJ ativo e regras públicas de compra, e a reputação é Ótima na janela de 6 meses do Reclame Aqui, Boa em 12. Use esses dados junto com o preço, o frete e as condições de atendimento; eles não garantem a entrega nem a sua satisfação.",
           "Três pontos mudam a conta. Se você mora fora de SP, MG, RJ, DF, GO e do Sul, o pedido precisa passar de R$ 300 para ter frete grátis. O site não publica prazo para defeito, então guarde nota e fotos desde a entrega. E o reembolso não tem prazo publicado."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável? Do ponto de vista cadastral, sim: a NHD Foods tem CNPJ ativo, políticas públicas e reputação Ótima no recorte de abril a setembro. Isso avalia a loja, mas não garante o resultado de toda compra.",
+          "A Belive é confiável? Do ponto de vista cadastral, sim: a NHD Foods tem CNPJ ativo, políticas públicas e reputação Ótima na aba de 6 meses do Reclame Aqui, Boa em 12 meses. Isso avalia a loja, mas não garante o resultado de toda compra.",
           "A Belive é uma empresa de verdade? Sim. A NHD Foods Indústria, Comércio, Importação e Exportação Ltda. tem matriz e filial ativas nos dados públicos de CNPJ.",
           "Qual é o CNPJ da Belive? O do rodapé do site é 21.541.988/0002-57, da filial. A matriz é 21.541.988/0001-76.",
           "O site da Belive é seguro? O endereço oficial é belivebefree.com.br e usa conexão segura. Ainda assim, confira o domínio antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
@@ -99113,8 +99116,8 @@ export const reviewsData: unknown[] = [
     "id": 450,
     "slug": "belive-reclame-aqui-nota-reputacao",
     "bodyDatesReason": "reclame-aqui",
-    "title": "Belive no Reclame Aqui: nota e reputação",
-    "seoTitle": "Belive no Reclame Aqui: nota e reclamações",
+    "title": "Belive no Reclame Aqui: nota, reputação e reclamações",
+    "seoTitle": "Belive no Reclame Aqui: nota, reputação e reclamações",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -99125,11 +99128,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui: nota 8,1 em 6 meses e 80% de resolução entre as avaliadas. Veja o que gera queixa e o que fazer.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF no site da Belive. No Reclame Aqui, a reputação era Ótima em outubro de 2026, com nota 8,1 em 6 meses.",
+    "description": "Reputação Ótima e nota 8,2 na aba de 6 meses, Boa e 7,6 em 12 meses: o que o Reclame Aqui mostra da Belive, o que gera queixa e o que conferir antes de comprar.",
+    "metaDescription": "O cupom Belive MAUAD dá 10% OFF no site oficial. Veja a nota 8,2 da Belive no Reclame Aqui, a resposta às reclamações e as principais queixas.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/belive-reclame-aqui-nota-reputacao-capa-v2.webp",
@@ -99137,16 +99140,16 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Reputação Ótima, nota 8,1, na janela de abril a setembro de 2026",
-      "100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025",
-      "80% de resolução entre as reclamações avaliadas nas abas de 6 e 12 meses",
-      "Tempo médio de resposta de 1 dia e 2 horas nos últimos 6 meses"
+      "Reputação Ótima, nota 8,2, na aba de 6 meses",
+      "100% das reclamações respondidas nas quatro abas, com nenhuma aguardando resposta",
+      "Tempo médio de resposta de 1 dia e 6 horas no semestre",
+      "Perfil com 10 anos no Reclame Aqui e 7º lugar entre as melhores de Alimentos Diet e Light"
     ],
     "cons": [
-      "Nos 12 meses, a reputação cai para Boa (nota 7,8) e só 70% de quem avaliou voltaria a comprar",
-      "Nota média do consumidor de 7 nos 6 meses e 6,6 nos 12 meses",
-      "Responder não é resolver: entre as avaliadas, a resolução ficou entre 75% e 80% nas três janelas",
-      "Só 15 das 39 reclamações dos últimos 6 meses foram avaliadas"
+      "Em 12 meses a reputação é Boa, com nota 7,6 e 67,7% de quem avaliou dizendo que voltaria a comprar",
+      "A nota média dos consumidores (7,06 no semestre, 6,42 em 12 meses) fica abaixo da nota da plataforma",
+      "Base pequena: só 16 reclamações avaliadas no semestre",
+      "O perfil não tem o selo Empresa Verificada nem o RA1000"
     ],
     "cta": {
       "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom MAUAD, de 10% OFF em todo o site.",
@@ -99172,167 +99175,173 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com a leitura certa: a Belive tinha reputação Ótima no Reclame Aqui nos 6 meses até setembro, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. O [cupom Belive](/cupons/belive) traz o código MAUAD, 10% OFF em tudo no site oficial."
+          "A Belive tem reputação Ótima no Reclame Aqui na aba de 6 meses, com nota 8,2, e Boa em 12 meses, com nota 7,6. Respondeu 100% das reclamações nas quatro abas, mas a base de avaliadas é pequena. O perfil não tem Empresa Verificada nem RA1000. O cupom Belive MAUAD dá 10% OFF no site oficial."
         ]
       },
       {
-        "heading": "Por que olhar o Reclame Aqui antes de comprar na Belive",
+        "heading": "A nota e os indicadores do período",
         "paragraphs": [
-          "Para quem compra pela primeira vez, o Reclame Aqui mostra se a Belive responde, quantas reclamações ela resolve e se quem reclamou voltaria a comprar. Os números abaixo mudam todo dia, então vale abrir o perfil de novo antes de pagar."
-        ]
-      },
-      {
-        "heading": "Os números da Belive no Reclame Aqui",
-        "paragraphs": [
-          "O perfil se chama Belive Be Free e está na categoria Alimentos e Bebidas, Alimentos Diet e Light. O selo de reputação era Ótima. A tabela traz as três abas que o perfil mostra, cada uma com o seu período:"
+          "A tabela reúne os indicadores do [perfil Belive Be Free](https://www.reclameaqui.com.br/empresa/belive-be-free/) em quatro abas do Reclame Aqui. Cada coluna é uma janela diferente, descrita na legenda, e as janelas se sobrepõem em parte: os números de uma coluna não se somam com os de outra."
         ],
         "comparisonTable": {
-          "caption": "Perfil Belive Be Free no Reclame Aqui, abas de 6 meses, de 12 meses e de 2025, em 16/10/2026",
+          "caption": "Perfil Belive Be Free no Reclame Aqui. Janelas: 6 meses, de maio a outubro de 2026; 12 meses, de novembro de 2025 a outubro de 2026; 2025, de janeiro a dezembro de 2025; Geral, de novembro de 2023 a novembro de 2026. Os índices de solução e de quem voltaria a fazer negócio são calculados pela plataforma sobre as reclamações finalizadas e avaliadas, não sobre todas as recebidas.",
           "headers": [
             "Indicador",
-            "6 meses (01/04 a 30/09/2026)",
-            "12 meses (01/10/2025 a 30/09/2026)",
-            "2025 (01/01 a 31/12/2025)"
+            "6 meses",
+            "12 meses",
+            "2025",
+            "Geral (até 3 anos)"
           ],
           "rows": [
             [
               "Reputação",
-              "Ótima, nota 8,1",
-              "Boa, nota 7,8",
-              "Boa, nota 7,5"
+              "Ótima",
+              "Boa",
+              "Boa",
+              "Boa"
+            ],
+            [
+              "Nota",
+              "8,2",
+              "7,6",
+              "7,5",
+              "7,5"
             ],
             [
               "Reclamações recebidas",
-              "39",
-              "70",
-              "59"
+              "37",
+              "71",
+              "59",
+              "165"
             ],
             [
               "Respondidas",
               "100%",
               "100%",
+              "100%",
               "100%"
             ],
             [
-              "Aguardando",
+              "Aguardando resposta",
+              "0",
               "0",
               "0",
               "0"
             ],
             [
-              "Resolvidas entre as avaliadas",
-              "80%",
-              "80%",
-              "75%"
-            ],
-            [
-              "Voltariam a fazer negócio",
-              "80%",
-              "70%",
-              "68,8%"
-            ],
-            [
-              "Reclamações avaliadas",
-              "15",
-              "30",
-              "32"
-            ],
-            [
-              "Nota do consumidor",
-              "7",
-              "6,6",
-              "6,22"
-            ],
-            [
               "Tempo médio de resposta",
-              "1 dia e 2 horas",
-              "1 dia e 13 horas",
-              "1 dia e 23 horas"
+              "1 dia e 6 horas",
+              "1 dia e 15 horas",
+              "1 dia e 23 horas",
+              "3 dias e 18 horas"
+            ],
+            [
+              "Avaliadas",
+              "16",
+              "31",
+              "32",
+              "89"
+            ],
+            [
+              "Resolvidas, entre as avaliadas",
+              "81,3%",
+              "77,4%",
+              "75%",
+              "77,5%"
+            ],
+            [
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "81,3%",
+              "67,7%",
+              "68,8%",
+              "66,3%"
+            ],
+            [
+              "Nota média do consumidor",
+              "7,06",
+              "6,42",
+              "6,22",
+              "6,29"
             ]
           ]
         },
-        "postParagraphs": [
-          "Os 6 meses são a janela mais forte. Nos 12 meses, a nota cai para 7,8 e o \"voltariam\" para 70%. Em 2025, ficaram em 7,5 e 68,8%.",
-          "Na aba de 6 meses, 15 das 39 reclamações recebidas tinham avaliação. É entre essas avaliadas que se calculam a resolução, a nota do consumidor e a intenção de voltar a comprar. Esses índices descrevem quem reclamou e avaliou no Reclame Aqui; não representam todos os clientes da Belive."
-        ],
-        "image": "/images/reviews/belive/belive-reclame-aqui-6-e-12-meses.webp",
-        "imageAlt": "Abas de 6 e 12 meses do perfil Belive Be Free no Reclame Aqui: 6 meses com reputação Ótima e nota 8,1, 12 meses com reputação Boa e nota 7,8, com os números marcados em amarelo",
-        "imageCaption": "Abas de 6 e de 12 meses do perfil \"Belive Be Free\". O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.679
-      },
-      {
-        "heading": "O que mais aparece nas reclamações",
-        "paragraphs": [
-          "Na lista de principais problemas do perfil, com reclamações de até 3 anos, aparecem duas linhas:"
-        ],
-        "bullets": [
-          "**Categoria:** \"Não encontrei meu problema\", com 30,67%.",
-          "**Problema:** atraso na entrega, com 4,29%."
-        ],
-        "postParagraphs": [
-          "A categoria mais citada não diz qual é o problema. Entre os problemas nomeados no resumo do perfil, o atraso na entrega aparece com 4,29%."
-        ],
-        "image": "/images/reviews/belive/belive-reclame-aqui-principais-problemas.webp",
-        "imageAlt": "Principais problemas comentados no perfil Belive Be Free no Reclame Aqui: categoria \"Não encontrei meu problema\" com 30,67% e atraso na entrega com 4,29%",
-        "imageCaption": "Principais problemas comentados no perfil \"Belive Be Free\", com reclamações de até 3 anos. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.5242
-      },
-      {
-        "heading": "Como a Belive responde",
-        "paragraphs": [
-          "O perfil diz que a Belive respondeu todas as reclamações nas três janelas. Para quem comprou, o que pesa é a resolução, e o perfil não diz o que aconteceu com as reclamações que não foram resolvidas.",
-          "No site, o atendimento é pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/. A loja informa prazo de resposta de até 24 horas úteis, sem contar fins de semana e feriados. É prazo da loja, não garantia de solução."
-        ],
-        "image": {
-          "src": "/images/reviews/belive/belive-reclame-aqui-capa.webp",
-          "alt": "Topo do perfil Belive Be Free no Reclame Aqui, com o selo de reputação Ótima e a aba de 6 meses com nota 8,1",
-          "caption": "O topo do perfil da Belive no Reclame Aqui e a aba de 6 meses, com nota 8,1.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Se o seu pedido der problema: o que fazer",
-        "paragraphs": [
-          "Se o pedido der problema, estes são os caminhos:"
-        ],
-        "bullets": [
-          "**Caixa violada, aberta, rasgada ou muito amassada:** a Belive orienta recusar o recebimento para facilitar a troca. Se você já recebeu a caixa, fotografe o estado dela e registre o problema no atendimento.",
-          "**Produto com defeito:** fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br. A FAQ informa que a loja analisa a ocorrência e pode negar a troca se identificar mau uso ou não conseguir verificar o problema; guarde o protocolo e as fotos.",
-          "**Item faltando ou trocado, rastreio ou endereço, erro ao finalizar ou cancelamento:** use o formulário e escolha o assunto entre Pedidos do site, Produtos e qualidade ou Outros. O formulário pede nome, e-mail, CPF cadastrado e número do pedido. Em caso de qualidade, pede também nome e sabor, lote e validade, e fotos de todos os itens recebidos com as caixas abertas.",
-          "**Se o formulário não servir:** escreva para sac@nhdfoods.com.br ou ligue para (34) 3317-6487.",
-          "**Arrependimento:** são 7 dias corridos a partir do recebimento, com nota fiscal, por pedido formal ao SAC. A FAQ pede o produto na embalagem original, sem sinal de uso ou violação; se ele já foi aberto, escreva ao SAC e guarde a resposta por escrito. O frete da devolução fica por conta da Belive, e o valor volta depois da análise interna. Se houver recusa por causa da embalagem, procure orientação do órgão de defesa do consumidor. A loja não publica prazo para o reembolso."
+        "links": [
+          {
+            "label": "Ver perfil da Belive no Reclame Aqui →",
+            "href": "https://www.reclameaqui.com.br/empresa/belive-be-free/"
+          }
         ]
       },
       {
-        "heading": "Parceria e cupom",
+        "heading": "O que a nota e a reputação medem, e o que não medem",
         "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom **MAUAD**. O cupom dá 10% em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. Vale na primeira compra. No Mercado Livre, onde a Belive também vende, o cupom não vale. Para a confiança na empresa, veja [Belive é confiável?](/reviews/belive-e-confiavel). Os detalhes do cupom estão na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho, em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+          "A nota mede como a empresa atende as reclamações feitas na plataforma: se responde, se resolve e como o consumidor avalia o atendimento. Ela não mede a qualidade nem o sabor dos produtos, e muda com o tempo. A faixa Ótima, com nota 8,2, aparece só na janela de 6 meses; nos 12 meses, em 2025 e na aba Geral, a faixa é Boa, com notas entre 7,5 e 7,6. Cada reputação vale para a sua janela.",
+          "A nota da plataforma também não é a nota média do consumidor. Esta é a média que quem reclamou deu ao atendimento depois de finalizar a reclamação: 7,06 no semestre, 6,42 em 12 meses, 6,22 em 2025 e 6,29 na aba Geral, abaixo da nota da plataforma em todas as janelas.",
+          "O perfil não tem o selo Empresa Verificada nem o RA1000, a reputação mais alta do Reclame Aqui. Por isso este artigo não mostra recorte de selo: o que o perfil prova está na tabela."
         ]
       },
       {
-        "heading": "Como usar esses números antes de comprar",
+        "heading": "Pontos positivos identificados",
         "paragraphs": [
-          "Sim, com a leitura certa: o melhor resultado está na aba de 6 meses, com nota 8,1, mas a resolução ficou em 80% entre as avaliadas e a amostra é pequena. Uma nota Ótima não garante o resultado do seu pedido."
+          "O perfil mostra estes pontos a favor da Belive:"
         ],
         "bullets": [
-          "Compare os períodos: nos 12 meses, a nota era 7,8 e 70% de quem avaliou disse que voltaria a comprar.",
-          "Abra o perfil antes de pagar para conferir se os índices mudaram.",
-          "Se já houve problema com o pedido, use os canais acima e guarde o protocolo.",
-          "Para saber quem vende e conhecer as regras da loja, continue em [Belive é confiável?](/reviews/belive-e-confiavel)."
+          "Reputação Ótima, com nota 8,2, na aba de 6 meses.",
+          "A empresa respondeu 100% das reclamações nas quatro abas, e nenhuma aguardava resposta.",
+          "O tempo médio de resposta no semestre foi de 1 dia e 6 horas.",
+          "No semestre, 81,3% das reclamações finalizadas e avaliadas aparecem como resolvidas, e 81,3% de quem avaliou diz que voltaria a fazer negócio. Os dois índices valem só para as 16 avaliadas, não para todos os clientes.",
+          "O perfil está no Reclame Aqui há 10 anos e aparece em 7º lugar no ranking de melhor empresa na categoria Alimentos Diet e Light."
+        ],
+        "postParagraphs": [
+          "As 37 reclamações do semestre, as 71 de 12 meses, as 59 de 2025 e as 165 da aba Geral são números absolutos. Sem o total de pedidos da Belive, eles não viram proporção, e este artigo não diz que são poucas nem muitas. A base de avaliadas também é pequena: 16 no semestre e 31 em 12 meses, o que faz um ou dois casos mexerem nos percentuais."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "Na aba de 12 meses, a reputação é Boa, com nota 7,6. Nessa janela, o perfil mostra 31 reclamações avaliadas, com 77,4% de solução e 67,7% de quem avaliou dizendo que voltaria a fazer negócio. Responder todas não significa resolver todas: entre as avaliadas, a solução ficou entre 75% e 81,3% nas três primeiras abas.",
+          "O tempo de resposta também varia: 1 dia e 6 horas no semestre, 1 dia e 15 horas em 12 meses, 1 dia e 23 horas em 2025 e 3 dias e 18 horas na aba Geral.",
+          "Os motivos mais citados saem da aba Geral, que soma até três anos e não é a mesma janela dos números acima. Nela, a categoria mais citada é \"Não encontrei meu problema\", com 30,12% das reclamações, e entre os problemas nomeados o atraso na entrega aparece com 4,22%. A categoria mais citada não diz qual foi o problema."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/belive-reclame-aqui-principais-problemas-2026-11.webp",
+            "alt": "Principais problemas comentados no perfil Belive Be Free no Reclame Aqui, na aba Geral: categoria Não encontrei meu problema com 30,12% e atraso na entrega com 4,22%",
+            "caption": "Principais problemas comentados no perfil, na aba Geral, que soma até três anos: \"Não encontrei meu problema\", com 30,12%, e atraso na entrega, com 4,22%. Fonte: Reclame Aqui.",
+            "objectFit": "contain",
+            "aspectRatio": 1.5218
+          }
+        ]
+      },
+      {
+        "heading": "Como a Belive responde e o que conferir antes de comprar",
+        "paragraphs": [
+          "Para ter certeza de que está no perfil certo, confira o CNPJ 21.541.988/0002-57, o mesmo do rodapé de belivebefree.com.br. A compra deve ser feita no domínio oficial.",
+          "O atendimento da loja é pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/, pelo e-mail sac@nhdfoods.com.br ou pelo telefone (34) 3317-6487. A loja informa prazo de resposta de até 24 horas úteis, sem contar fins de semana e feriados. É prazo da loja, não garantia de solução.",
+          "O que guardar e fazer em cada caso:"
+        ],
+        "bullets": [
+          "**Caixa violada, aberta ou rasgada:** a Belive orienta recusar o recebimento. Se já recebeu, fotografe a caixa e abra o atendimento no mesmo dia.",
+          "**Produto com defeito:** fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br. Guarde o protocolo e as fotos.",
+          "**Pedido atrasado, item faltando ou erro de endereço:** use o formulário, com nome, e-mail, CPF cadastrado e número do pedido, e guarde o código de rastreio.",
+          "**Arrependimento:** são 7 dias corridos a partir do recebimento, com a nota fiscal, por pedido formal ao SAC. A loja pede o produto na embalagem original; se já foi aberto, escreva ao SAC e guarde a resposta por escrito."
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar na Belive?",
+        "paragraphs": [
+          "De um lado, a Belive tem reputação Ótima no semestre, respondeu todas as reclamações em pouco mais de um dia em média e resolveu 81,3% das avaliadas. Do outro, em 12 meses a reputação é Boa, só 67,7% de quem avaliou voltaria a comprar e a base de avaliadas é pequena.",
+          "Para quem já decidiu pelos produtos, o caminho é comprar no site oficial, conferir o frete pelo CEP e guardar nota e número do pedido. O [cupom Belive](/cupons/belive) MAUAD dá 10% OFF em todo o site, e o passo a passo está em [como usar o cupom MAUAD na Belive](/reviews/cupom-belive-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável segundo o Reclame Aqui? Sim, com a leitura certa: em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. Nos 6 meses, só 15 das 39 reclamações recebidas tinham avaliação.",
-          "Qual a nota da Belive no Reclame Aqui? Em outubro, a nota era 8,1 nos últimos 6 meses, 7,8 nos últimos 12 meses e 7,5 em 2025.",
-          "A Belive responde às reclamações? Em outubro, as três abas mostravam 100% respondidas. A resolução, calculada entre as avaliadas, ficou em 80% nas abas de 6 e 12 meses e 75% em 2025.",
-          "O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.",
-          "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a nota fiscal, por pedido formal ao SAC; a loja pede o produto na embalagem original. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
-          "O pedido da Belive pode ser cancelado? Pode, quando o pagamento não é autorizado ou não é identificado no prazo, nos casos de boleto ou Pix. Nesse caso, peça a revisão ao SAC."
+          "Qual a nota da Belive no Reclame Aqui? Na aba de 6 meses, 8,2, com reputação Ótima. Na aba de 12 meses, 7,6, com reputação Boa. A nota muda com o tempo, então confira o perfil.",
+          "A Belive tem selo RA1000 ou Empresa Verificada? Não. O perfil Belive Be Free mostra reputação Ótima no semestre e Boa nas outras janelas, sem os dois selos.",
+          "A Belive responde e resolve as reclamações? Respondeu 100% nas quatro abas, em 1 dia e 6 horas em média no semestre. Entre as reclamações finalizadas e avaliadas, 81,3% aparecem como resolvidas no semestre e 77,4% em 12 meses.",
+          "Qual é a principal reclamação da Belive? Na aba Geral, que soma até três anos, a categoria mais citada é \"Não encontrei meu problema\", com 30,12%. Entre os problemas nomeados, o atraso na entrega aparece com 4,22%.",
+          "Existe cupom para a Belive? Sim, o [cupom Belive](/cupons/belive) MAUAD dá 10% OFF no site oficial, para cliente novo e antigo, e soma com o desconto do Pix. Não vale no Mercado Livre."
         ]
       }
     ]
@@ -99341,7 +99350,7 @@ export const reviewsData: unknown[] = [
     "id": 451,
     "slug": "cupom-belive-como-usar",
     "title": "Como usar o cupom da Belive e o que ele soma",
-    "seoTitle": "Como usar o cupom da Belive: passo a passo",
+    "seoTitle": "Como usar o cupom MAUAD na Belive: 10% OFF + 5% no Pix",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -99356,7 +99365,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código MAUAD dá 10% OFF em todo o site da Belive. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-12",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/cupom-belive-como-usar-capa-v2.webp",
@@ -99365,13 +99374,13 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "10% OFF em todo o site, em todas as formas de pagamento",
-      "Soma com as promoções do site e com o desconto de 5% do Pix",
+      "Soma com as promoções do site e com o desconto de 5% do Pix: 14,5% sobre os produtos, não 15%",
       "Vale na primeira compra e para quem já comprou na loja",
       "O frete grátis conta o valor antes do cupom: o MAUAD não faz perder o frete"
     ],
     "cons": [
       "Não vale no Mercado Livre, onde a Belive vende pelo preço do anúncio",
-      "O frete grátis depende da região: acima de R$ 170, R$ 250 ou R$ 300",
+      "O frete grátis depende da região: acima de R$ 170, R$ 250 ou R$ 300, contado antes do cupom",
       "O teste de checkout foi com quatro itens em oferta: o valor exato é o do resumo do pedido"
     ],
     "cta": {
@@ -99446,7 +99455,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto sai com o cupom: a conta do nosso teste",
         "paragraphs": [
-          "Refizemos o teste em 11/11/2026: num combo de seis pacotes de pão de batata em oferta, de R$ 106,59, o MAUAD tirou R$ 10,66 e o total caiu para R$ 95,93. A tabela mostra o primeiro teste, com quatro itens e o Pix:"
+          "Refizemos o teste em 11/11/2026: num [combo de seis pacotes de pão de batata](https://belivebefree.com.br/produto/combo-pao-de-batata-sem-gluten-sem-leite-sem-lactose-belive-6-pacotes-2/) em oferta, de R$ 106,59, o MAUAD tirou R$ 10,66 e o total caiu para R$ 95,93. A tabela mostra o primeiro teste, com quatro itens e o Pix:"
         ],
         "comparisonTable": {
           "caption": "Teste de checkout do cupom MAUAD no site da Belive",
@@ -99456,19 +99465,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Combo Doces COMPLETÃO 30 un. (em oferta)",
+              "[Combo Doces COMPLETÃO 30 un.](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-completao-belive/) (em oferta)",
               "R$ 179,90"
             ],
             [
-              "Combo Experimentação COMPLETÃO 40 un. (em oferta)",
+              "[Combo Experimentação COMPLETÃO 40 un.](https://belivebefree.com.br/produto/combo-experimentacao-completao-produtos-sem-gluten-sem-lactose-sem-leite-belive-e-goodsoy/) (em oferta)",
               "R$ 217,90"
             ],
             [
-              "Kit 10 Brownies Proteicos Double Chocolate (em oferta)",
+              "[Kit 10 Brownies Proteicos Double Chocolate](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) (em oferta)",
               "R$ 74,12"
             ],
             [
-              "Combo Doces 16 un. (em oferta)",
+              "[Combo Doces 16 un.](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-belive/) (em oferta)",
               "R$ 104,90"
             ],
             [
@@ -99491,25 +99500,19 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Sem o cupom, o mesmo carrinho saía por R$ 547,98 no Pix. Com o MAUAD e o Pix, o pedido ficou R$ 54,80 mais barato do que só no Pix (conta nossa)."
-        ],
-        "image": {
-          "src": "/images/reviews/belive/cupom-belive-capa.webp",
-          "alt": "Carrinho da Belive com o código MAUAD aplicado, o desconto de R$ 57,68 e o total de R$ 519,14",
-          "caption": "O carrinho do teste com o código aplicado: desconto de R$ 57,68 e total de R$ 519,14.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "O Pix dá mais 5% sobre o total já com cupom",
         "paragraphs": [
-          "No teste, o desconto de 5% do Pix entrou depois dos 10% do MAUAD, sobre o valor restante. Por isso a redução sobre o subtotal é de 14,5%, e não de 15%, como daria a soma simples. O total observado está na tabela acima."
+          "O desconto de 5% do Pix entra depois dos 10% do MAUAD, sobre o valor que sobrou. Os dois são sucessivos: 0,90 vezes 0,95 dá 0,855, ou seja, 14,5% de desconto sobre o valor dos produtos, e não 15%, como daria a soma simples. No carrinho do teste, R$ 576,82 viraram R$ 493,18.",
+          "Num teste mais recente, o [Kit 3 Panetones](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/) custava R$ 175,90. Com o MAUAD, caiu R$ 17,59, para R$ 158,31, e o total no Pix, com os 5%, ficou em R$ 150,39."
         ]
       },
       {
         "heading": "Frete grátis: o valor que conta é o de antes do cupom",
         "paragraphs": [
-          "O frete grátis da Belive depende do valor do pedido e da região. A página de regras de frete dava estes valores em 16/10/2026:"
+          "O frete grátis da Belive depende do valor do pedido e da região. A página de regras de frete da loja traz estes valores:"
         ],
         "comparisonTable": {
           "caption": "Valor de pedido para frete grátis da Belive por região, segundo a página de regras de frete",
@@ -99533,7 +99536,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O limite conta o valor do carrinho sem o cupom. Aplicar o MAUAD baixa o total, mas não tira o frete grátis que o carrinho já tinha. A faixa \"frete grátis a partir de R$170\" que aparece na home vale só para SP, MG, RJ, DF e GO. Confira o frete com o seu CEP no carrinho antes de pagar."
+          "O limite conta o valor do carrinho sem o cupom. Aplicar o MAUAD baixa o total, mas não tira o frete grátis que o carrinho já tinha: no teste de 22/11, com CEP de São Paulo, o Kit 3 Panetones de R$ 175,90 caiu para R$ 158,31 com o cupom, abaixo dos R$ 170, e o frete econômico seguiu grátis. A faixa \"frete grátis a partir de R$170\" que aparece na home vale só para SP, MG, RJ, DF e GO. Confira o frete com o seu CEP no carrinho antes de pagar."
         ]
       },
       {
@@ -99589,13 +99592,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisar devolver um produto comprado com cupom",
         "paragraphs": [
-          "O cupom não muda a regra de devolução. O arrependimento vale por 7 dias corridos a partir do recebimento: escreva dentro do prazo para sac@nhdfoods.com.br, com a nota fiscal. A FAQ da loja pede o produto sem uso, sem violação e na embalagem original; se ele já foi aberto, escreva ao SAC antes de postar. O frete da devolução é por conta da Belive. O prazo de reembolso não aparece no site, então confirme por e-mail antes de postar. Para defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. A loja não troca produto com indício de má manipulação ou mau uso, nem quando a ocorrência não puder ser identificada. Telefone da loja: (34) 3317-6487. O quadro completo está em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
+          "O cupom não muda a regra de devolução. O arrependimento vale por 7 dias corridos a partir do recebimento (art. 49 do Código de Defesa do Consumidor): escreva dentro do prazo para sac@nhdfoods.com.br, com a nota fiscal. Em caso de defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail, ou use o formulário do site."
         ]
       },
       {
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
-          "Se você já ia comprar na Belive, vale aplicar o MAUAD: são 10% em todo o site, em qualquer forma de pagamento. No Pix, os 5% adicionais incidem sobre o valor já descontado. Confira o total e o frete pelo CEP antes de pagar. Para avaliar a loja, veja [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao); as condições do código estão na [página do cupom Belive](/cupons/belive)."
+          "Se você já ia comprar na Belive, vale aplicar o MAUAD: são 10% em todo o site, em qualquer forma de pagamento. No Pix, os 5% adicionais incidem sobre o valor já descontado, o que dá 14,5% no total. Confira o total e o frete pelo CEP antes de pagar. As condições do código estão na [página do cupom Belive](/cupons/belive)."
         ]
       },
       {
@@ -99627,11 +99630,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Na Black November da Belive, o desconto aparece na sacola e varia por produto. Veja o que levar em doces, salgadinhos, pães e panetone, e a conta com o MAUAD e o Pix.",
+    "description": "A Black November da Belive anuncia até 30% OFF no site. Veja o que levar em doces, salgadinhos, pães e panetone, avulso ou kit, e a conta com o cupom MAUAD e o Pix.",
     "metaDescription": "O cupom MAUAD dá 10% OFF na Belive e soma com o Pix. Black Friday 2026: o que comprar em doces, salgadinhos, pães e panetone, avulso ou em kit.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/black-friday-belive-capa-v2.webp",
@@ -99639,16 +99642,16 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento, e entrou sobre os preços da Black November",
-      "Soma com o Pix de 5%: pela nossa conta, os dois juntos tiram 14,5% do preço da sacola",
-      "Pães sem glúten de R$ 22,90 por R$ 16,03 na sacola, com 30% da campanha",
-      "O frete grátis conta o valor antes do cupom: nossa sacola de R$ 175,79 seguiu com frete zero depois do MAUAD",
+      "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento",
+      "Soma com o Pix de 5%: os dois, um depois do outro, tiram 14,5% do valor dos produtos",
+      "Kits e combos de doces, snacks e pães saem cerca de 7% mais baratos que as unidades somadas",
+      "O frete grátis conta o valor antes do cupom: o Kit 3 Panetones seguiu com frete zero depois do MAUAD",
       "Cartão em até 2x sem juros, boleto e Pix"
     ],
     "cons": [
-      "O preço da campanha só aparece inteiro na sacola: a vitrine mostra o preço cheio e o valor no Pix",
-      "Kit e combo nem sempre saem mais baratos: nos snacks e nos pães, a unidade avulsa custava menos",
+      "O \"até 30%\" da campanha é o teto: o desconto muda de produto para produto",
       "A loja não publicou data de fim nem regra da Black November",
+      "No kit de 3 panetones, a economia sobre três avulsos é pequena",
       "Frete grátis só a partir de R$ 250 no Sul e R$ 300 nos demais estados"
     ],
     "cta": {
@@ -99673,16 +99676,16 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Resposta rápida: Black Friday Belive 2026",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black November da Belive segue no ar, e o desconto varia por produto: na nossa sacola, foi de 5% nos doces avulsos a 30% nos pães sem glúten. O cupom MAUAD tira mais 10% e soma com o Pix. Antes de levar kit ou combo, compare com a unidade: nos snacks e nos pães, o avulso saiu mais barato."
+          "A Black November da Belive anuncia até 30% OFF em todo o site e desconto extra no Pix. O cupom Belive MAUAD tira mais 10% e soma com o Pix, num total de 14,5% sobre os produtos. Pelos preços de página, o kit de 10 sai cerca de 7% mais barato que dez unidades."
         ]
       },
       {
         "heading": "O que está no ar na Black November da Belive",
         "paragraphs": [
-          "A Belive segue em Black November. As faixas do site anunciam até 30% de desconto em todo o site, desconto extra de 5% no Pix, pães sem glúten \"com o menor preço do ano\", lanche escolar em oferta e frete grátis acima de R$ 170.",
-          "A loja não publicou data de fim nem regra da campanha; a Black Friday do calendário é em 27 de novembro. O \"até 30%\" é o teto, e o desconto é por produto. Um detalhe muda a leitura dos preços: em vários produtos, a vitrine mostra o preço cheio e só o valor no Pix, e o preço da campanha aparece na sacola. Os preços das seções abaixo são os da sacola, em meados de novembro."
+          "A faixa do site da Belive anuncia a Black November: até 30% OFF em todo o site e desconto extra no Pix. A loja não publicou data de fim nem regra da campanha; a Black Friday do calendário é em 27 de novembro. O \"até 30%\" é o teto, e o desconto muda por produto.",
+          "Os preços deste artigo são os de página dos produtos, na consulta de 22/11. A campanha pode baixar o valor na sacola, e o total final, com cupom e Pix, aparece nela antes do pagamento."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp",
@@ -99698,47 +99701,56 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Doces sem açúcar: avulso ou kit de 10",
         "paragraphs": [
-          "Pão de mel e brownie são os doces de unidade da Belive, cada um em versão comum e proteica. A tabela mostra o preço da sacola e a nossa conta com o MAUAD e o Pix, um desconto sobre o outro."
+          "Pão de mel e brownie são os doces de unidade da Belive, cada um em versão comum e proteica. A tabela mostra o preço da unidade e do kit de 10 e a nossa conta com o MAUAD e o Pix, um desconto sobre o outro."
         ],
         "comparisonTable": {
-          "caption": "Doces sem açúcar da Belive na nossa leitura de novembro: preço na sacola e conta com o cupom MAUAD (10%) e o Pix (5%), por unidade.",
+          "caption": "Doces sem açúcar da Belive nos preços de página: unidade e kit de 10, e conta por unidade do kit com o cupom MAUAD (10%) e o Pix (5%).",
           "headers": [
             "Doce",
-            "Unidade na sacola",
-            "Kit de 10 na sacola",
+            "Unidade",
+            "Kit de 10",
             "Por unidade no kit, com MAUAD e Pix"
           ],
           "rows": [
             [
               "[Pão de mel sem açúcar](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/), 45 g",
-              "R$ 7,57",
-              "R$ 74,12",
+              "R$ 7,97",
+              "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-pao-de-mel-fit-sem-gluten-sem-acucar-sem-leite-belive/)",
               "R$ 6,34"
             ],
             [
               "[Pão de mel proteico](https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/), 45 g",
-              "R$ 8,07",
-              "R$ 78,96",
+              "R$ 8,49",
+              "[R$ 78,96](https://belivebefree.com.br/produto/kit-10-pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/)",
               "R$ 6,75"
             ],
             [
               "[Brownie de chocolate sem açúcar](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), 40 g",
-              "R$ 6,62",
-              "R$ 64,82",
+              "R$ 6,97",
+              "[R$ 64,82](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
               "R$ 5,54"
             ],
             [
               "[Brownie proteico Double Chocolate sem açúcar](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), 40 g",
-              "R$ 7,57",
-              "R$ 74,12",
+              "R$ 7,97",
+              "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
               "R$ 6,34"
             ]
           ]
         },
         "bullets": [
-          "**Comum ou proteico:** pela tabela nutricional, o [pão de mel comum](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/) tem 2 g de proteína por unidade, e o proteico, 6 g. No brownie, a [versão de chocolate](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) tem 1,8 g, e o [proteico Double Chocolate](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), 6 g. A diferença de preço é de R$ 0,50 a R$ 0,95 por unidade na sacola.",
-          "**Unidade:** para provar um sabor antes de levar dez. Com a campanha, a unidade avulsa está 5% abaixo do preço cheio.",
-          "**Kit de 10:** cada unidade sai cerca de 2% mais barata que a avulsa. A economia é pequena: o kit serve a quem vai consumir dez unidades do mesmo sabor."
+          "**Comum ou proteico:** pela tabela nutricional, o [pão de mel comum](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/) tem 2 g de proteína por unidade, e o [proteico](https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/), 6 g. No brownie, a [versão de chocolate](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) tem 1,8 g, e o [proteico Double Chocolate](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), 6 g. A diferença de preço é de R$ 0,52 a R$ 1,00 por unidade.",
+          "**Unidade:** para provar um sabor antes de levar dez.",
+          "**Kit de 10:** cada unidade sai cerca de 7% mais barata que a avulsa. A economia é pequena: o kit serve a quem vai consumir dez unidades do mesmo sabor.",
+          "**Combos de doces:** o [Combo Doces 16](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-belive/) custa R$ 104,90, ou R$ 6,56 por unidade, e o [Combo Doces COMPLETÃO 30](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-completao-belive/) custa R$ 179,90, ou R$ 6,00 por unidade."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/black-friday-belive-combo-doces-completao.webp",
+            "alt": "Pilha de embalagens de brownies, bolinhos e pães de mel da Belive, em foto oficial do combo Doces COMPLETÃO",
+            "caption": "Brownies, bolinhos e pães de mel da Belive, como no Combo Doces COMPLETÃO. Foto oficial da Belive.",
+            "objectFit": "square"
+          }
         ],
         "postParagraphs": [
           "Sabores e rótulos estão em [Pão de mel sem açúcar da Belive: comum ou proteico](/reviews/pao-de-mel-sem-acucar-belive), [Brownie sem açúcar da Belive: sabores, rótulo e preço por unidade](/reviews/brownie-sem-acucar-belive) e [Cookies sem açúcar da Belive: qual sabor escolher](/reviews/cookies-sem-acucar-belive). Para quem acompanha a glicemia, o que olhar no rótulo está em [Doces sem açúcar para diabéticos](/reviews/doces-sem-acucar-para-diabeticos)."
@@ -99750,32 +99762,32 @@ export const reviewsData: unknown[] = [
           "São dois salgadinhos de 35 g com propostas diferentes. O Snack Proteico tem 10 g de proteína por pacote, de proteína isolada de soja. O Snack de Arroz tem cerca de 3 g e custa menos."
         ],
         "comparisonTable": {
-          "caption": "Salgadinhos de 35 g da Belive na nossa leitura de novembro: preço na sacola, avulso e em combo, e conta com o cupom MAUAD (10%) e o Pix (5%).",
+          "caption": "Salgadinhos de 35 g da Belive nos preços de página: avulso e em combo, e conta com o cupom MAUAD (10%) e o Pix (5%).",
           "headers": [
             "Salgadinho",
-            "Unidade na sacola",
-            "Combo na sacola",
-            "Menor preço por unidade, com MAUAD e Pix"
+            "Unidade",
+            "Combo",
+            "Por unidade no combo, com MAUAD e Pix"
           ],
           "rows": [
             [
               "Snack Proteico, 10 g de proteína",
-              "R$ 6,38",
-              "R$ 102,02 com 16 (R$ 6,38 cada)",
-              "R$ 5,45, avulso ou no combo"
+              "R$ 7,97",
+              "[R$ 119,90 com 16](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/) (R$ 7,49 cada)",
+              "R$ 6,41"
             ],
             [
               "Snack de Arroz, cerca de 3 g de proteína",
-              "R$ 4,67",
-              "R$ 95,90 com 20 (R$ 4,80 cada)",
-              "R$ 3,99, avulso"
+              "R$ 5,19",
+              "[R$ 95,90 com 20](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/) (R$ 4,80 cada)",
+              "R$ 4,10"
             ]
           ]
         },
         "bullets": [
-          "**Snack Proteico:** para quem quer proteína no lanche. A unidade está com 20% da campanha, e o [combo de 16](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/) custa exatamente 16 unidades avulsas.",
-          "**Snack de Arroz:** o salgadinho do dia a dia, mais barato. Com os 10% da campanha na unidade, o pacote avulso está saindo por menos que no [combo de 20](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/).",
-          "**Combos:** vêm com os quatro sabores em quantidades fixas. Como o preço por unidade empata ou perde para o avulso, monte a sacola com os sabores e a quantidade que você quer."
+          "**Snack Proteico:** para quem quer proteína no lanche. O [pacote avulso](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) custa R$ 7,97, e o [combo de 16](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/) sai a R$ 7,49 por pacote.",
+          "**Snack de Arroz:** o salgadinho do dia a dia, mais barato. O [pacote avulso](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-snack-de-arroz-belive/) custa R$ 5,19, e o [combo de 20](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/) sai a R$ 4,80 por pacote.",
+          "**Combos:** vêm com os quatro sabores em quantidades fixas. Se você quer só um sabor, monte a sacola com o avulso e confira o total."
         ],
         "postParagraphs": [
           "A comparação pelo rótulo está em [Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
@@ -99784,10 +99796,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lancheira, pães e panetone",
         "bullets": [
-          "[Bolinho sem açúcar, 40 g](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/): R$ 5,12 a unidade e R$ 50,13 o [kit de 10](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/) na sacola. Com MAUAD e Pix, o kit sai por R$ 42,86, ou R$ 4,29 por bolinho.",
-          "[Kit Lanche Escolar com 25 bolinhos](https://belivebefree.com.br/produto/kit-lanche-escolar-bolinho-sem-gluten-belive/): R$ 124,90 na sacola e R$ 106,79 com MAUAD e Pix, R$ 4,27 por bolinho. O preço por unidade é quase o do kit de 10: escolha pela quantidade que a lancheira consome antes do vencimento.",
-          "[Pão sem glúten Tradicional](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/) ou [Multigrãos](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-multigraos-belive/): de R$ 22,90 por R$ 16,03 na sacola, com 30% da campanha, e R$ 13,71 com MAUAD e Pix. O [combo de 4 pacotes tradicionais](https://belivebefree.com.br/produto/combo-pao-sem-gluten-sem-lactose-sem-leite-tradicionais-belive/) estava a R$ 82,44, mais caro que quatro pacotes avulsos, que somavam R$ 64,12.",
-          "[Panetone de frutas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/) ou [de chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/), 420 g: R$ 59,90, contra R$ 64,90 no começo de novembro, e R$ 51,21 com MAUAD e Pix. O kit de 3 custa R$ 179,70, o mesmo que três avulsos; a vantagem do kit é passar do mínimo do frete grátis de R$ 170 em SP, MG, RJ, DF e GO."
+          "[Bolinho sem açúcar, 40 g](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/): R$ 5,39 a unidade e R$ 50,13 o [kit de 10](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/). Com MAUAD e Pix, o kit sai por R$ 42,86, ou R$ 4,29 por bolinho.",
+          "[Kit Lanche Escolar com 25 bolinhos](https://belivebefree.com.br/produto/kit-lanche-escolar-bolinho-sem-gluten-belive/): R$ 124,90 e R$ 106,79 com MAUAD e Pix, R$ 4,27 por bolinho. O preço por unidade é quase o do kit de 10: escolha pela quantidade que a lancheira consome antes do vencimento.",
+          "[Pão sem glúten Tradicional](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/) ou [Multigrãos](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-multigraos-belive/): R$ 22,90 o pacote, ou R$ 19,58 com MAUAD e Pix. O [combo de 4 pacotes tradicionais](https://belivebefree.com.br/produto/combo-pao-sem-gluten-sem-lactose-sem-leite-tradicionais-belive/) custa R$ 83,90, contra R$ 91,60 de quatro avulsos.",
+          "[Panetone de frutas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/) ou [de chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/), 420 g: R$ 59,90 cada, ou R$ 51,21 com MAUAD e Pix. O [kit de 3 panetones](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/), o [de 3 chocotones](https://belivebefree.com.br/produto/oferta-especial-kit-3-chocotones-sem-gluten-sem-acucar-sem-leite-belive/) e o [kit de 1 panetone e 2 chocotones](https://belivebefree.com.br/produto/kit-panetone-chocotones-sem-gluten-zero-acucar-belive/) custam R$ 175,90, R$ 3,80 a menos que três avulsos. O kit também passa do mínimo de R$ 170 do frete grátis em SP, MG, RJ, DF e GO."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/black-friday-belive-panetone-frutas.webp",
+            "alt": "Fatia do panetone de frutas da Belive, com amêndoas, e as caixas do panetone ao fundo, em foto oficial",
+            "caption": "Panetone de frutas da Belive, zero açúcar e sem glúten. Foto oficial da Belive.",
+            "objectFit": "square"
+          }
         ],
         "postParagraphs": [
           "Os guias de cada produto: [Bolinho kids da Belive para a lancheira](/reviews/bolinho-kids-belive-lancheira), [Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um](/reviews/bolinho-sem-acucar-belive-ou-suavipan) e [Panetone Belive é bom? Chocotone, zero açúcar e sem glúten pelo rótulo](/reviews/panetone-belive-e-bom)."
@@ -99813,17 +99833,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de referência",
         "paragraphs": [
-          "A tabela registra preços de página de outubro, com o preço riscado entre parênteses quando havia. A coluna Pix aplica 5%; a coluna MAUAD aplica 10%; a última aplica primeiro o cupom e depois o Pix, como no teste de checkout."
+          "A tabela registra os preços de página na consulta de 22/11, com o preço riscado entre parênteses quando havia. A coluna Pix aplica 5%; a coluna MAUAD aplica 10%; a última aplica primeiro o cupom e depois o Pix, como no teste de checkout."
         ],
-        "image": {
-          "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
-          "alt": "Embalagens de cinco doces sem açúcar da Belive: bolinho de baunilha, brownie de chocolate, brownie proteico de chocolate com avelã, pão de mel e bolo de chocolate",
-          "caption": "Bolinho, brownies, pão de mel e bolo sem açúcar da Belive, alguns dos produtos da tabela.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "comparisonTable": {
-          "caption": "Preços de página dos produtos da Belive em 16 de outubro de 2026, com Pix, MAUAD e os dois somados.",
+          "caption": "Preços de página dos produtos da Belive na consulta de 22/11, com Pix, MAUAD e os dois sucessivos.",
           "headers": [
             "Produto",
             "Preço de página",
@@ -99862,10 +99875,10 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Bolinho de chocolate fit sem açúcar](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/), 1 un.",
-              "R$ 4,58 (de R$ 5,39)",
-              "R$ 4,35",
-              "R$ 4,12",
-              "R$ 3,91"
+              "R$ 5,39",
+              "R$ 5,12",
+              "R$ 4,85",
+              "R$ 4,61"
             ],
             [
               "[Kit com 10 bolinhos de chocolate fit sem açúcar](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/)",
@@ -99883,58 +99896,57 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Salgadinho de queijo snack de arroz](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-snack-de-arroz-belive/), 35 g",
-              "R$ 4,15 (de R$ 5,19)",
-              "R$ 3,94",
-              "R$ 3,74",
-              "R$ 3,55"
+              "R$ 5,19",
+              "R$ 4,93",
+              "R$ 4,67",
+              "R$ 4,44"
+            ],
+            [
+              "[Panetone de frutas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/), 420 g",
+              "R$ 59,90 (de R$ 64,90)",
+              "R$ 56,91",
+              "R$ 53,91",
+              "R$ 51,21"
             ]
           ]
         },
         "postParagraphs": [
-          "Em meados de novembro, contra essa tabela: o [brownie de chocolate](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) avulso caiu para R$ 6,62 na sacola e o [pão sem glúten tradicional](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/), para R$ 16,03. O [kit com 10 brownies](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/), o [kit com 10 bolinhos](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/) e o [combo de 20 snacks de arroz](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/) seguem no mesmo preço. O [bolinho de chocolate](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/) avulso, que estava em oferta relâmpago, foi a R$ 5,12, e o [snack de arroz de queijo](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-snack-de-arroz-belive/), a R$ 4,67: os dois subiram em relação a outubro. Não relemos o [pãozinho de batata](https://belivebefree.com.br/produto/pao-de-batata-sem-gluten-sem-leite-sem-lactose-paozinho-belive/).",
           "Compare o mesmo produto e a mesma quantidade, com o total depois de cupom, forma de pagamento e frete. Um percentual maior sobre o preço riscado não garante uma compra mais barata."
         ]
       },
       {
         "heading": "Quanto fica com o MAUAD e com o Pix",
         "paragraphs": [
-          "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento. Ele soma com as ofertas do site e com o Pix de 5%. Vale na primeira compra. Não vale no Mercado Livre, onde a Belive também vende.",
-          "No teste de checkout, o carrinho tinha quatro combos e kits com selo de oferta:"
+          "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento, para cliente novo e antigo. Ele soma com as ofertas do site e com o Pix de 5%, e não vale no Mercado Livre, onde a Belive também vende.",
+          "Os dois descontos são sucessivos: 10% sobre o preço e depois 5% sobre o que sobrou, 0,90 vezes 0,95, que dá 14,5% sobre o valor dos produtos. No carrinho de 22/11, o [Kit 3 Panetones](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/) ficou assim:"
         ],
-        "image": {
-          "src": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
-          "alt": "Resumo do pedido da Belive depois do cupom, com o desconto de R$ 57,68, o total de R$ 519,14 e o total no Pix de R$ 493,18 marcados em amarelo",
-          "caption": "O resumo do pedido do teste: desconto de R$ 57,68, total de R$ 519,14 e Pix de R$ 493,18. O marca-texto amarelo é nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 1.2403
-        },
         "comparisonTable": {
-          "caption": "Teste de checkout na Belive, com quatro combos e kits em oferta.",
+          "caption": "Teste de checkout do cupom MAUAD no site da Belive, com o Kit 3 Panetones.",
           "headers": [
             "Etapa",
             "Valor"
           ],
           "rows": [
             [
-              "Subtotal dos produtos em oferta",
-              "R$ 576,82"
+              "Kit 3 Panetones, preço do site",
+              "R$ 175,90"
             ],
             [
-              "Subtotal no Pix, sem cupom",
-              "R$ 547,98"
+              "Desconto do MAUAD, 10%",
+              "-R$ 17,59"
             ],
             [
-              "Com MAUAD (desconto de R$ 57,68)",
-              "R$ 519,14"
+              "Total com o MAUAD",
+              "R$ 158,31"
             ],
             [
-              "Com MAUAD e Pix",
-              "R$ 493,18"
+              "Total no Pix, com os 5% sobre o valor restante",
+              "R$ 150,39"
             ]
           ]
         },
         "postParagraphs": [
-          "O cupom entrou sobre o preço de oferta de cada item, e a regra do MAUAD é somar com as ofertas do site e com o Pix. Com a Black November no ar, testamos o cupom num produto da campanha: quatro [pães de cenoura](https://belivebefree.com.br/produto/pao-de-cenoura-sem-gluten-sem-leite-zero-lactose-belive-200g/), a R$ 58,52 com os 30% da Black Friday, caíram para R$ 52,67 com o MAUAD e para R$ 50,04 no Pix. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+          "O cupom entrou sobre o preço do kit, e o \"Total no PIX (5% de desconto)\" do carrinho mostrou o valor da última linha. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
         ]
       },
       {
@@ -99942,20 +99954,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O frete grátis depende do estado. A página de regras de frete dá o valor mínimo do pedido:"
         ],
-        "image": {
-          "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
-          "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a faixa de frete grátis e a vitrine de doces, snacks e pães sem glúten",
-          "caption": "A página inicial da Belive, com a faixa do frete grátis acima de R$ 170 e dos 5% extra no Pix.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "bullets": [
           "SP, MG, RJ, DF e GO: a partir de R$ 170.",
           "Sul: a partir de R$ 250.",
           "Demais estados: a partir de R$ 300."
         ],
         "postParagraphs": [
-          "O mínimo conta o valor da sacola antes do cupom. No nosso teste de novembro, com um CEP da capital paulista, uma sacola de R$ 175,79 tinha frete grátis; com o MAUAD, o total caiu para R$ 158,21, e o envio econômico seguiu a R$ 0,00, com prazo de 7 dias úteis.",
+          "O mínimo conta o valor da sacola antes do cupom. No teste de 22/11, com um CEP de São Paulo, o Kit 3 Panetones de R$ 175,90 tinha frete grátis; com o MAUAD, o total caiu para R$ 158,31, e o frete econômico seguiu grátis.",
           "A faixa do topo do site fala em frete grátis a partir de R$ 170: esse valor vale para SP, MG, RJ, DF e GO. Confira o frete do seu CEP no carrinho, e só complete a sacola para chegar ao mínimo com produto que já estava na sua lista.",
           "A loja aceita cartão em até 2x sem juros, boleto e Pix."
         ]
@@ -99963,30 +99968,29 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Na Black November: o que conferir",
         "bullets": [
-          "Coloque o produto na sacola para ver o preço da campanha: a vitrine pode mostrar só o preço cheio.",
-          "Compare a unidade avulsa com o kit ou combo, pelo preço por unidade da sacola.",
+          "Coloque o produto na sacola para ver o preço final: o da campanha pode ser menor que o da página.",
+          "Compare a unidade avulsa com o kit ou combo, pelo preço por unidade.",
           "Digite o MAUAD e confira a linha de descontos.",
           "Confira o frete pelo CEP antes de pagar.",
           "Escolha o Pix por último, para ver o total final."
         ],
         "postParagraphs": [
-          "Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). A loja pede o produto na embalagem original, sem uso e sem violação, com a nota fiscal; essa exigência é da política da loja. O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo. O valor é devolvido depois da análise interna, e nesse caso o frete é por conta da Belive.",
-          "Em caso de defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. Não há troca quando há indício de má manipulação ou mau uso, ou quando não dá para identificar a ocorrência. A loja não publica prazo de reembolso.",
-          "Vendedora: NHD Foods Indústria, Comércio, Importação e Exportação Ltda. Contato: sac@nhdfoods.com.br e (34) 3317-6487. CNPJ, trocas e reputação estão em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
+          "Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo, com a nota fiscal. Em caso de defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail.",
+          "Vendedora: NHD Foods Indústria, Comércio, Importação e Exportação Ltda. Contato: sac@nhdfoods.com.br e (34) 3317-6487."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Belive? A Black November já está no ar, com até 30% em todo o site e 5% a mais no Pix. A loja não publicou data de fim; a Black Friday do calendário é a última sexta-feira de novembro.",
-          "O cupom MAUAD vale na Black Friday? Vale. O cupom Belive MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. Na nossa sacola de novembro, o cupom tirou 10% do total já com os preços da campanha.",
-          "O MAUAD soma com o Pix? Sim. No teste de checkout, o Pix de 5% entrou depois do cupom.",
+          "Quando começa e quanto dura a Black Friday da Belive? A Black November já está no ar, com até 30% OFF em todo o site e desconto extra no Pix, segundo a faixa da loja. A loja não publicou data de fim; a Black Friday do calendário é a última sexta-feira de novembro.",
+          "O cupom MAUAD vale na Black Friday? Vale. O cupom Belive MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. Ele tira 10% do total, já com os preços da campanha.",
+          "O MAUAD soma com o Pix? Sim. No teste de checkout, o Pix de 5% entrou depois do cupom: no total, 14,5% sobre o valor dos produtos.",
           "O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.",
-          "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais 5% no Pix. O percentual é por produto: na nossa sacola, foi de 5% nos doces avulsos, 10% no Snack de Arroz, 20% no Snack Proteico e 30% nos pães sem glúten.",
-          "Kit da Belive compensa na Black Friday? Depende do produto. Nos doces, o kit de 10 sai cerca de 2% mais barato por unidade que o avulso. No Snack Proteico, o combo de 16 custa o mesmo que 16 avulsos, e no Snack de Arroz e no pão sem glúten, o avulso saiu mais barato que o combo.",
-          "Tem panetone à venda? Tem. Os panetones de frutas e de chocolate custam R$ 59,90 cada, e o kit de 3, R$ 179,70.",
+          "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais desconto extra no Pix, segundo a faixa da loja. O percentual muda por produto, então confira o preço final na sacola.",
+          "Kit da Belive compensa na Black Friday? Pelos preços de página, sim, mas pouco: o kit ou combo de doces, snacks e pães sai cerca de 7% mais barato que as unidades somadas, e o kit de 3 panetones, R$ 3,80 mais barato que três avulsos.",
+          "Tem panetone à venda? Tem. Os panetones de frutas e de chocolate custam R$ 59,90 cada, e o kit de 3, R$ 175,90.",
           "Os produtos da Belive servem para quem tem alergia? Depende da alergia e do produto. A loja declara os produtos sem glúten, sem leite e sem lactose, mas o bloco de alérgicos de cada rótulo lista soja, ovo e, nos panetones, amêndoas. Leia a frase \"ALÉRGICOS\" do sabor que vai comprar.",
-          "O cupom tira o frete grátis? No nosso teste, não: o mínimo contou o valor antes do cupom. Uma sacola de R$ 175,79 seguiu com frete grátis na capital paulista depois de cair para R$ 158,21 com o MAUAD."
+          "O cupom tira o frete grátis? No nosso teste, não: o mínimo contou o valor antes do cupom. O Kit 3 Panetones, de R$ 175,90, seguiu com frete grátis na capital paulista depois de cair para R$ 158,31 com o MAUAD."
         ]
       }
     ]
@@ -103641,9 +103645,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Diet, zero açúcar e sem açúcar não são a mesma coisa, e sem açúcar não quer dizer pouco carboidrato. Veja o que ler no rótulo, com seis doces da Belive como exemplo.",
-    "metaDescription": "Doces sem açúcar para diabéticos, com o cupom MAUAD de 10% OFF na Belive: o que olhar no rótulo e a diferença entre diet, zero e sem adição de açúcar.",
+    "metaDescription": "Doces sem açúcar para diabéticos: o cupom Belive MAUAD dá 10% OFF. O que olhar no rótulo e a diferença entre diet, zero e sem adição de açúcar.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa-v2.webp",
@@ -103662,13 +103667,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A tabela nutricional, a lista de ingredientes e a frente da embalagem respondem coisas diferentes. Leia nesta ordem:"
         ],
-        "image": {
-          "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp",
-          "alt": "Aba Tabela Nutricional da página do pão de mel da Belive, com a informação nutricional por 100 g e por porção de 45 g: 163 kcal, 23 g de carboidratos e 0 g de açúcares totais e adicionados",
-          "caption": "A tabela nutricional do pão de mel da Belive, com a porção de 45 g e os açúcares totais e adicionados. Print da página do produto.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9479
-        },
         "bullets": [
           "**Porção.** Veja a qual coluna cada número pertence: porção ou 100 g. A medida aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Para comparar dois doces, use a mesma porção ou a coluna de 100 g.",
           "**Açúcares totais e açúcares adicionados.** Num doce sem açúcar, as duas linhas mostram 0 g. Os adicionados são os que entraram na receita, e os totais somam também os açúcares próprios dos ingredientes.",
@@ -103733,136 +103731,278 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os seis doces da Belive trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. Glicosídeo de esteviol é o nome técnico do adoçante da stévia. O maltitol vem antes dele na lista, e a ordem da lista segue a quantidade de cada ingrediente. Três dos seis também levam **sorbitol** como umectante: o brownie proteico com avelã, o bolinho de baunilha e o bolo de chocolate. O brownie de chocolate, o cookie e o pão de mel não levam.",
           "A descrição da loja fala em \"adoçado naturalmente com stévia\". O rótulo é mais completo e cita os dois edulcorantes.",
-          "O rótulo não separa o maltitol e o sorbitol da linha de carboidratos. Ele mostra só \"Carboidratos\" e \"Açúcares\", e não diz quanto dos 18 g de um brownie vem de cada ingrediente."
-        ],
-        "image": {
-          "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel.webp",
-          "alt": "Aba Ingredientes da página do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
-          "caption": "A lista de ingredientes do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. O destaque em amarelo é nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 2.7088
-        }
+          "O rótulo não separa o maltitol e o sorbitol da linha de carboidratos. Ele mostra só \"Carboidratos\" e \"Açúcares\", e não diz quanto dos 18 g de um brownie vem de cada ingrediente.",
+          "Um exemplo de lista completa, a do pão de mel: cobertura sabor chocolate amargo (sem açúcar), mix sem glúten (farinha de arroz, amido modificado, fécula de mandioca, quinoa), óleo vegetal (soja e palma), fibra de milho, ovo em pó, fibra solúvel polidextrose, cacau em pó, especiarias, fibra vegetal, sal light, edulcorantes maltitol e glicosídeos de esteviol, emulsificantes mono e diglicerídeo de ácidos graxos e goma xantana, conservantes propionato de cálcio e sorbato de potássio, fermento químico pirofosfato dissódico, acidulante ácido cítrico e aromas. Não contém glúten; contém derivados de soja e ovo."
+        ]
       },
       {
         "heading": "Os seis doces da Belive e o que diz o rótulo",
         "paragraphs": [
-          "Tabelas nutricionais e listas de ingredientes dos produtos, com o preço da unidade no site oficial, sem o cupom."
+          "Resumo dos produtos, com o preço da unidade e do kit de 10 no site oficial, sem o cupom. Os números nutricionais de cada um estão nas duas tabelas seguintes."
         ],
         "images": [
           {
-            "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp",
-            "alt": "Tabela nutricional do brownie de chocolate da Belive: 124 kcal, 18 g de carboidratos e 0 g de açúcares por porção de 40 g",
-            "caption": "Brownie de chocolate: 124 kcal e 0 g de açúcares por unidade de 40 g.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9479
+            "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-brownie-proteico-avela.webp",
+            "alt": "Embalagem do Protein Brownie Chocolate com Avelã da Belive, de 40 g, com 5 g de proteínas e a indicação de zero açúcar",
+            "caption": "O Protein Brownie Chocolate com Avelã, de 40 g. Foto oficial da Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/brownie-proteico-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/"
           },
           {
-            "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-avela.webp",
-            "alt": "Tabela nutricional do brownie proteico de chocolate com avelã da Belive: 144 kcal, 16 g de carboidratos e 0 g de açúcares por porção de 40 g",
-            "caption": "Brownie proteico de chocolate com avelã: 144 kcal e 0 g de açúcares por unidade de 40 g.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9592
+            "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-bolinho-baunilha.webp",
+            "alt": "Bolinho de baunilha com gotas de chocolate da Belive, partido ao meio sobre um prato azul",
+            "caption": "O bolinho de baunilha com gotas de chocolate. Foto oficial da Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/bolinho-de-baunilha-fit-sem-acucar-sem-gluten-sem-leite-belive/"
           },
           {
-            "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-baunilha.webp",
-            "alt": "Tabela nutricional do bolinho de baunilha da Belive: 128 kcal, 18 g de carboidratos e 0 g de açúcares por porção de 40 g",
-            "caption": "Bolinho de baunilha: 128 kcal e 0 g de açúcares por unidade de 40 g.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9592
-          },
-          {
-            "src": "/images/reviews/belive/belive-tabela-nutricional-cookie-chocolate-avela.webp",
-            "alt": "Tabela nutricional do cookie de chocolate e avelã da Belive: 113 kcal, 17 g de carboidratos e 0 g de açúcares por porção de 30 g",
-            "caption": "Cookie de chocolate e avelã: 113 kcal e 0 g de açúcares por porção de 30 g.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9592
-          },
-          {
-            "src": "/images/reviews/belive/belive-tabela-nutricional-bolo-chocolate.webp",
-            "alt": "Tabela nutricional do bolo de chocolate da Belive: 182 kcal, 24 g de carboidratos e 0 g de açúcares por porção de 60 g",
-            "caption": "Bolo de chocolate: 182 kcal e 0 g de açúcares por porção de 60 g (2 fatias).",
-            "objectFit": "contain",
-            "aspectRatio": 0.9592
+            "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-cookie-chocolate-avela.webp",
+            "alt": "Cookies de chocolate e avelã da Belive empilhados, com um deles partido, e a embalagem desfocada ao fundo",
+            "caption": "O cookie de chocolate e avelã. Foto oficial da Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/cookie-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/"
           }
         ],
         "comparisonTable": {
-          "caption": "Preço da unidade no site oficial, sem o cupom, 17/10",
+          "caption": "Preço no site oficial, sem o cupom, na consulta de 22/11.",
           "headers": [
             "Doce",
             "Porção",
-            "Calorias",
-            "Carboidratos",
             "Açúcares",
-            "Fibras",
             "Adoçantes e umectantes",
-            "Preço da unidade"
+            "Preço da unidade",
+            "Kit de 10"
           ],
           "rows": [
             [
-              "Brownie de chocolate",
+              "[Brownie de chocolate](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
               "40 g (1 unid.)",
-              "124 kcal",
-              "18 g",
               "0 g",
-              "5 g",
               "maltitol, glicosídeos de esteviol",
-              "R$ 6,97"
+              "R$ 6,97",
+              "[R$ 64,82](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)"
             ],
             [
-              "Brownie proteico chocolate com avelã",
+              "[Brownie proteico chocolate com avelã](https://belivebefree.com.br/produto/brownie-proteico-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/)",
               "40 g (1 unid.)",
-              "144 kcal",
-              "16 g",
               "0 g",
-              "4,2 g",
               "maltitol, glicosídeos de esteviol, sorbitol",
-              "R$ 7,97"
+              "R$ 7,97",
+              "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/)"
             ],
             [
-              "Bolinho de baunilha",
+              "[Bolinho de baunilha](https://belivebefree.com.br/produto/bolinho-de-baunilha-fit-sem-acucar-sem-gluten-sem-leite-belive/)",
               "40 g (1 unid.)",
-              "128 kcal",
-              "18 g",
               "0 g",
-              "2 g",
               "maltitol, glicosídeos de esteviol, sorbitol",
-              "R$ 4,58 em oferta relâmpago (regular R$ 5,39)"
+              "R$ 5,39",
+              "[R$ 50,13](https://belivebefree.com.br/produto/kit-10-bolinhos-de-baunilha-fit-sem-acucar-sem-gluten-sem-leite-belive/)"
             ],
             [
-              "Cookie de chocolate e avelã",
+              "[Cookie de chocolate e avelã](https://belivebefree.com.br/produto/cookie-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/)",
               "30 g (1 + 4/5 unid.)",
-              "113 kcal",
-              "17 g",
               "0 g",
-              "1,3 g",
               "maltitol, glicosídeo de esteviol",
-              "R$ 8,52 (de R$ 8,97)"
+              "R$ 8,97",
+              "[R$ 83,42](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/)"
             ],
             [
-              "Pão de mel",
+              "[Pão de mel](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/)",
               "45 g (1 unid.)",
-              "163 kcal",
-              "23 g",
               "0 g",
-              "5 g",
               "maltitol, glicosídeos de esteviol",
-              "R$ 7,57 (de R$ 7,97)"
+              "R$ 7,97",
+              "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-pao-de-mel-fit-sem-gluten-sem-acucar-sem-leite-belive/)"
             ],
             [
-              "Bolo de chocolate",
+              "[Bolo de chocolate](https://belivebefree.com.br/produto/bolo-de-chocolate-sem-gluten-sem-acucar-sem-leite-sem-lactose-belive/)",
               "60 g (2 fatias)",
-              "182 kcal",
-              "24 g",
               "0 g",
-              "3,5 g",
               "maltitol, glicosídeos de esteviol, sorbitol",
-              "R$ 28,71 o bolo inteiro (de R$ 31,90)"
+              "R$ 31,90 o bolo inteiro",
+              "sem kit"
             ]
           ]
         },
         "postParagraphs": [
-          "A oferta relâmpago do bolinho, de R$ 4,58, tinha contagem regressiva na página e não confirma um preço atual. Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+          "Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
         ]
+      },
+      {
+        "heading": "A tabela nutricional dos seis, por porção",
+        "paragraphs": [
+          "Todos têm 0 g de açúcares totais e 0 g de adicionados. O que muda de um para o outro é a porção, o carboidrato e a gordura saturada, e por isso a comparação só vale com a mesma porção ou com a coluna de 100 g da tabela seguinte."
+        ],
+        "comparisonTable": {
+          "caption": "Informação nutricional publicada pela Belive na página de cada produto: por porção, com o percentual do valor diário (VD). Açúcares totais e adicionados: 0 g em todos.",
+          "headers": [
+            "Doce",
+            "Calorias",
+            "Carboidratos",
+            "Proteínas",
+            "Gorduras totais",
+            "Gorduras saturadas",
+            "Gorduras trans",
+            "Fibras",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "Brownie de chocolate (40 g)",
+              "124 kcal (6% VD)",
+              "18 g (6% VD)",
+              "1,8 g (4% VD)",
+              "7 g (11% VD)",
+              "1,2 g (6% VD)",
+              "0 g",
+              "5 g (20% VD)",
+              "20 mg (1% VD)"
+            ],
+            [
+              "Brownie proteico chocolate com avelã (40 g)",
+              "144 kcal (7% VD)",
+              "16 g (5% VD)",
+              "5 g (10% VD)",
+              "8,7 g (13% VD)",
+              "2,1 g (11% VD)",
+              "0 g",
+              "4,2 g (17% VD)",
+              "63 mg (3% VD)"
+            ],
+            [
+              "Bolinho de baunilha (40 g)",
+              "128 kcal (6% VD)",
+              "18 g (6% VD)",
+              "1,8 g (4% VD)",
+              "7 g (11% VD)",
+              "3,1 g (16% VD)",
+              "0 g",
+              "2 g (7% VD)",
+              "61 mg (3% VD)"
+            ],
+            [
+              "Cookie de chocolate e avelã (30 g)",
+              "113 kcal (6% VD)",
+              "17 g (6% VD)",
+              "1,4 g (3% VD)",
+              "6 g (9% VD)",
+              "3,7 g (19% VD)",
+              "0 g",
+              "1,3 g (5% VD)",
+              "52 mg (3% VD)"
+            ],
+            [
+              "Pão de mel (45 g)",
+              "163 kcal (8% VD)",
+              "23 g (8% VD)",
+              "2 g (4% VD)",
+              "9,2 g (14% VD)",
+              "5,1 g (26% VD)",
+              "0 g",
+              "5 g (20% VD)",
+              "28 mg (1% VD)"
+            ],
+            [
+              "Bolo de chocolate (60 g, 2 fatias)",
+              "182 kcal (9% VD)",
+              "24 g (8% VD)",
+              "3,3 g (7% VD)",
+              "11 g (17% VD)",
+              "4,5 g (23% VD)",
+              "0 g",
+              "3,5 g (14% VD)",
+              "105 mg (5% VD)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Os mesmos seis, por 100 g",
+        "paragraphs": [
+          "A coluna de 100 g permite comparar doces de porções diferentes."
+        ],
+        "comparisonTable": {
+          "caption": "Os mesmos produtos na coluna de 100 g da tabela da Belive. Açúcares totais e adicionados: 0 g em todos.",
+          "headers": [
+            "Doce",
+            "Calorias",
+            "Carboidratos",
+            "Proteínas",
+            "Gorduras totais",
+            "Gorduras saturadas",
+            "Gorduras trans",
+            "Fibras",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "Brownie de chocolate",
+              "310 kcal",
+              "46 g",
+              "4,5 g",
+              "17 g",
+              "3 g",
+              "0 g",
+              "12 g",
+              "50 mg"
+            ],
+            [
+              "Brownie proteico chocolate com avelã",
+              "360 kcal",
+              "40 g",
+              "12 g",
+              "22 g",
+              "5,2 g",
+              "0 g",
+              "10 g",
+              "158 mg"
+            ],
+            [
+              "Bolinho de baunilha",
+              "321 kcal",
+              "46 g",
+              "4,5 g",
+              "17 g",
+              "7,8 g",
+              "0 g",
+              "4,5 g",
+              "152 mg"
+            ],
+            [
+              "Cookie de chocolate e avelã",
+              "377 kcal",
+              "56 g",
+              "4,6 g",
+              "20 g",
+              "12 g",
+              "0 g",
+              "4,5 g",
+              "173 mg"
+            ],
+            [
+              "Pão de mel",
+              "362 kcal",
+              "50 g",
+              "4,5 g",
+              "20 g",
+              "11 g",
+              "0 g",
+              "11 g",
+              "61 mg"
+            ],
+            [
+              "Bolo de chocolate",
+              "303 kcal",
+              "40 g",
+              "5,5 g",
+              "18 g",
+              "7,4 g",
+              "0 g",
+              "5,9 g",
+              "174 mg"
+            ]
+          ]
+        }
       },
       {
         "heading": "Quando falar com o médico ou nutricionista",
@@ -103873,16 +104013,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar os doces da Belive",
         "paragraphs": [
-          "A Belive vende no site oficial, belivebefree.com.br. O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive).",
-          "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom. Quem quer saber mais sobre a loja antes de comprar pode ler [se a Belive é confiável](/reviews/belive-e-confiavel)."
-        ],
-        "image": {
-          "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
-          "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
-          "caption": "A página inicial da Belive, com a vitrine de doces sem açúcar.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+          "A Belive vende no site oficial, belivebefree.com.br. O cupom Belive **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com o desconto do Pix, em sequência: 10% e depois 5% sobre o que sobrou, ou 14,5% sobre o valor dos produtos. As condições estão na [página do cupom da Belive](/cupons/belive).",
+          "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom."
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -103892,7 +104025,7 @@ export const reviewsData: unknown[] = [
           "Sem adição de açúcar é o mesmo que zero açúcar? Não. \"Sem adição\" quer dizer que não entrou açúcar na receita, mas o doce pode ter os açúcares dos próprios ingredientes. Nesse caso, o rótulo traz a frase \"contém açúcares próprios dos ingredientes\".",
           "Diet quer dizer sem açúcar? Não necessariamente. Diet é o alimento feito para uma dieta com restrição de algum nutriente, que pode ser o açúcar, a gordura ou o sódio.",
           "Doce sem açúcar tem menos calorias? Nem sempre. Compare as calorias da tabela pela mesma porção. O brownie de chocolate da Belive tem 124 kcal em 40 g.",
-          "Onde comprar os doces sem açúcar da Belive? No site oficial, com o cupom MAUAD de 10% OFF em todo o site. As condições estão na página do cupom da Belive."
+          "Onde comprar os doces sem açúcar da Belive? No site oficial, com o cupom Belive MAUAD de 10% OFF em todo o site. As condições estão na página do cupom da Belive."
         ]
       }
     ],
@@ -103935,10 +104068,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os oito brownies sem açúcar da Belive, quatro comuns e quatro proteicos, com o rótulo de cada um, os adoçantes da lista de ingredientes e o preço por unidade e no kit de 10.",
-    "metaDescription": "Brownie sem açúcar da Belive, oito sabores, com o cupom MAUAD de 10% OFF no site: rótulo, adoçantes, carboidratos e preço por unidade e no kit de 10.",
+    "metaDescription": "O cupom Belive MAUAD dá 10% OFF no site. Brownie sem açúcar da Belive, oito sabores: rótulo, adoçantes, carboidratos e preço por unidade e no kit de 10.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/brownie-sem-acucar-belive-capa-v2.webp",
@@ -103949,7 +104082,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. O Double Chocolate Sem Glúten Sem Lactose contém açúcar, e no site oficial o código MAUAD dá 10% OFF."
+          "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. O Double Chocolate Sem Glúten Sem Lactose contém açúcar, e no site oficial o cupom Belive MAUAD dá 10% OFF."
         ]
       },
       {
@@ -103958,11 +104091,20 @@ export const reviewsData: unknown[] = [
           "Estes são os oito que a loja vende como sem açúcar, sem glúten e sem leite, em unidade e em kit de 10:"
         ],
         "bullets": [
-          "**Comuns:** Chocolate; Fit Chocolate com Coco; Chocolate com Nozes; Doce de Leite.",
-          "**Proteicos:** Double Chocolate; Chocolate com Avelã; Cappuccino; Caramelo Salgado."
+          "**Comuns:** [Chocolate](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)); [Fit Chocolate com Coco](https://belivebefree.com.br/produto/brownie-fit-chocolate-com-coco-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-fit-chocolate-com-coco-sem-acucar-sem-gluten-sem-leite-belive/)); [Chocolate com Nozes](https://belivebefree.com.br/produto/brownie-sem-acucar-sem-gluten-sem-leite-chocolate-com-nozes-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-sem-acucar-sem-gluten-sem-leite-chocolate-com-nozes-belive/)); [Doce de Leite](https://belivebefree.com.br/produto/brownie-de-doce-de-leite-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-de-doce-de-leite-sem-acucar-sem-gluten-sem-leite-belive/)).",
+          "**Proteicos:** [Double Chocolate](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)); [Chocolate com Avelã](https://belivebefree.com.br/produto/brownie-proteico-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/)); [Cappuccino](https://belivebefree.com.br/produto/brownie-proteico-cappuccino-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-cappuccino-sem-acucar-sem-gluten-sem-leite-belive/)); [Caramelo Salgado](https://belivebefree.com.br/produto/brownie-proteico-caramelo-salgado-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-caramelo-salgado-sem-acucar-sem-gluten-sem-leite-belive/))."
         ],
         "postParagraphs": [
           "Os kits mistos e os combos da loja também trazem brownies, mas misturam sabores e outros doces. Eles ficam fora das contas deste guia."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/brownie-sem-acucar-belive-brownie-chocolate.webp",
+            "alt": "Brownie de chocolate da Belive inteiro, segurado na mão, sobre a embalagem da marca",
+            "caption": "O brownie de chocolate comum, de 40 g. Foto oficial da Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/"
+          }
         ]
       },
       {
@@ -103973,22 +104115,69 @@ export const reviewsData: unknown[] = [
           "A diferença está na proteína. Os comuns têm de 1,6 g a 2 g de proteína por unidade. Os proteicos têm 5 g ou 6 g, porque a massa leva proteínas isoladas de soja, arroz e, em alguns sabores, ervilha. Os comuns usam farinha de arroz, amido de milho e fécula de mandioca.",
           "O carboidrato muda menos. Os comuns têm de 16 g a 22 g por unidade, e os proteicos, de 13 g a 18 g. As calorias ficam entre 121 kcal e 144 kcal nos oito. O proteico custa R$ 1,00 a mais na unidade e R$ 0,93 a mais por unidade no kit, em relação aos comuns de R$ 6,97."
         ],
-        "images": [
-          {
-            "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp",
-            "alt": "Aba Tabela Nutricional da página do brownie de chocolate da Belive, com 124 kcal, 18 g de carboidratos, 1,8 g de proteínas e 5 g de fibras por porção de 40 g",
-            "caption": "Brownie de chocolate comum: 124 kcal, 1,8 g de proteína e 5 g de fibras por unidade de 40 g. Print da página da Belive.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9479
-          },
-          {
-            "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-double-chocolate.webp",
-            "alt": "Aba Tabela Nutricional da página do brownie proteico Double Chocolate da Belive, com 122 kcal, 13 g de carboidratos, 6 g de proteínas e 5,2 g de fibras por porção de 40 g",
-            "caption": "Brownie proteico Double Chocolate: 122 kcal, 6 g de proteína e 5,2 g de fibras por unidade de 40 g. Print da página da Belive.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9479
-          }
-        ]
+        "postParagraphs": [
+          "Tabelas nutricionais completas dos dois brownies que mais aparecem na busca, por unidade de 40 g, com a coluna de 100 g entre parênteses e o percentual do valor diário (VD) da porção."
+        ],
+        "comparisonTable": {
+          "caption": "Informação nutricional publicada pela Belive na página de cada brownie.",
+          "headers": [
+            "Item",
+            "Chocolate (comum)",
+            "Proteico Double Chocolate"
+          ],
+          "rows": [
+            [
+              "Calorias",
+              "124 kcal (310 kcal), 6% VD",
+              "122 kcal (305 kcal), 6% VD"
+            ],
+            [
+              "Carboidratos",
+              "18 g (46 g), 6% VD",
+              "13 g (33 g), 4% VD"
+            ],
+            [
+              "Açúcares totais",
+              "0 g",
+              "0 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "0 g, 0% VD",
+              "0 g, 0% VD"
+            ],
+            [
+              "Proteínas",
+              "1,8 g (4,5 g), 4% VD",
+              "6 g (15 g), 12% VD"
+            ],
+            [
+              "Gorduras totais",
+              "7 g (17 g), 11% VD",
+              "7,3 g (18 g), 11% VD"
+            ],
+            [
+              "Gorduras saturadas",
+              "1,2 g (3 g), 6% VD",
+              "1,7 g (4,3 g), 9% VD"
+            ],
+            [
+              "Gorduras trans",
+              "0 g (0 g)",
+              "0 g (0 g)"
+            ],
+            [
+              "Fibras",
+              "5 g (12 g), 20% VD",
+              "5,2 g (13 g), 21% VD"
+            ],
+            [
+              "Sódio",
+              "20 mg (50 mg), 1% VD",
+              "52 mg (130 mg), 13% VD"
+            ]
+          ]
+        }
       },
       {
         "heading": "O rótulo dos oito sabores",
@@ -104078,7 +104267,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade e no kit de 10",
         "paragraphs": [
-          "O proteico custa mais por unidade e no kit. Preços do site oficial em 17/10/2026, sem o cupom; o preço por unidade no kit é a conta nossa, o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
+          "O proteico custa mais por unidade e no kit. Preços do site oficial na consulta de 22/11, sem o cupom; o preço por unidade no kit é a conta nossa, o kit dividido por 10. A última coluna aplica o cupom Belive MAUAD (10%) e, depois, os 5% do Pix."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-kit-10-brownies-chocolate-pagina-2026-10-19.webp",
@@ -104120,14 +104309,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com o preço do kit e com os 5% do Pix. Como ele entra no carrinho está no guia de [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições, na [página do cupom da Belive](/cupons/belive).",
-          "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Um kit de 10 sozinho não chega a nenhum desses valores."
+          "O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com o preço do kit e com os 5% do Pix: são descontos em sequência, 10% e depois 5% sobre o que sobrou, ou 14,5% sobre o valor dos produtos. Como ele entra no carrinho está no guia de [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições, na [página do cupom da Belive](/cupons/belive).",
+          "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o mínimo conta antes do cupom. Um kit de 10 sozinho não chega a nenhum desses valores."
         ]
       },
       {
         "heading": "Sem lactose não é sem açúcar",
         "paragraphs": [
-          "O **Brownie Proteico Double Chocolate Sem Glúten Sem Lactose** tem nome parecido com o Proteico Double Chocolate Sem Açúcar, mas não é sem açúcar. A lista de ingredientes começa por açúcar e tem também açúcar mascavo e glucose. A unidade custava R$ 7,49, e o kit de 10, R$ 69,66."
+          "O [Brownie Proteico Double Chocolate Sem Glúten Sem Lactose](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-gluten-sem-lactose-belive/) tem nome parecido com o Proteico Double Chocolate Sem Açúcar, mas leva açúcar na receita. A lista de ingredientes começa por açúcar e tem também açúcar mascavo e glucose. A unidade custava R$ 7,49, e o [kit de 10](https://belivebefree.com.br/produto/kit-10-brownie-proteico-double-chocolate-sem-gluten-sem-lactose-belive/), R$ 69,66."
         ],
         "comparisonTable": {
           "headers": [
@@ -104169,7 +104358,18 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na loja, os dois aparecem lado a lado. Para quem procura sem açúcar, o que separa os dois é a expressão \"Sem Açúcar\" no nome."
+          "Na loja, os dois aparecem lado a lado, e o que separa um do outro é \"Sem Açúcar\" ou \"Sem Lactose\" no nome. A embalagem do Sem Lactose traz o selo frontal \"alto em açúcar adicionado\"; a do Sem Açúcar traz \"zero açúcar\" na frente.",
+          "Sem lactose quer dizer sem o açúcar do leite. O açúcar de mesa, o mascavo e a glucose seguem na receita, e é por isso que a tabela mostra 13 g de açúcares adicionados por unidade, 26% do valor diário, contra 0 g no Sem Açúcar. Quem evita lactose e também quer evitar açúcar confere as duas coisas no rótulo de cada brownie. Na dúvida, o médico ou o nutricionista que acompanha você ajuda a escolher.",
+          "O preço não ajuda a separar os dois: o Sem Lactose custava R$ 7,49 a unidade e R$ 69,66 o kit de 10, contra R$ 7,97 e R$ 74,12 do proteico sem açúcar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/brownie-sem-acucar-belive-brownie-proteico-double-chocolate.webp",
+            "alt": "Embalagem do Protein Brownie Double Chocolate da Belive, de 40 g, com 5 g de proteínas e o selo Alto em açúcar adicionado",
+            "caption": "A embalagem do Protein Brownie Double Chocolate com o selo frontal \"alto em açúcar adicionado\", a versão Sem Lactose. Foto oficial da Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-gluten-sem-lactose-belive/"
+          }
         ]
       },
       {
@@ -104182,16 +104382,10 @@ export const reviewsData: unknown[] = [
         "heading": "Ingredientes, adoçantes e alérgicos",
         "paragraphs": [
           "Os oito trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. A descrição da loja fala em \"adoçado naturalmente com stévia\". O glicosídeo de esteviol é o adoçante da stévia, e o maltitol vem antes dele na lista. Os quatro proteicos também levam sorbitol e glicerol como umectantes. Os comuns levam glicerol.",
-          "Os alérgicos, pela lista de cada página:"
+          "A lista completa do brownie de chocolate e os alérgicos de cada página:"
         ],
-        "image": {
-          "src": "/images/reviews/belive/belive-ingredientes-brownie-chocolate.webp",
-          "alt": "Aba Ingredientes da página do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
-          "caption": "A lista de ingredientes do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. O destaque em amarelo é nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 3.0151
-        },
         "bullets": [
+          "Brownie de chocolate, lista completa: mix sem glúten (farinha de arroz, amido de milho, fécula de mandioca), óleo de soja, fibra solúvel polidextrose, ovo em pó, cacau em pó, edulcorantes maltitol e glicosídeos de esteviol, emulsificantes ésteres de poliglicerol de ácidos graxos, glicerol e goma xantana, conservantes sorbato de potássio e propionato de cálcio, fermento químico pirofosfato dissódico, acidulante ácido cítrico e aromatizantes. Não contém glúten; contém ovo e derivado de soja.",
           "Todos os oito: contêm ovo e derivados de soja. Nenhum contém glúten.",
           "Chocolate com Nozes: contém nozes. Pode conter amêndoa, amendoim, avelã, castanha-de-caju, castanha-do-pará e pistache.",
           "Proteico Chocolate com Avelã: contém avelã. Pode conter amêndoa, amendoim, castanha-de-caju, pistache e nozes.",
@@ -104206,7 +104400,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quais brownies da Belive são sem açúcar? Oito: Chocolate, Fit Chocolate com Coco, Chocolate com Nozes, Doce de Leite e os proteicos Double Chocolate, Chocolate com Avelã, Cappuccino e Caramelo Salgado. Nos totais, sete declaram 0 g de açúcares; o Caramelo Salgado declara 0,1 g.",
           "Quantas calorias tem o brownie sem açúcar da Belive? De 121 kcal a 144 kcal por unidade de 40 g, conforme o sabor. O de chocolate tem 124 kcal.",
-          "Quanto custa o brownie sem açúcar da Belive? Na tabela deste guia, de R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix. Os preços mudam; confira no site.",
+          "Quanto custa o brownie sem açúcar da Belive? Na tabela deste guia, de R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o cupom MAUAD e o Pix. Os preços mudam; confira no site.",
           "Quanta proteína tem o brownie proteico da Belive? De 5 g a 6 g por unidade de 40 g. Os comuns têm de 1,6 g a 2 g.",
           "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo não define a quantidade para cada pessoa. Os oito declaram 0 g de açúcares adicionados e de 13 g a 22 g de carboidratos por unidade; nos totais, o Caramelo Salgado declara 0,1 g e os outros sete, 0 g. Leve o rótulo ao médico ou ao nutricionista que acompanha você.",
           "Qual adoçante o brownie da Belive usa? Maltitol e glicosídeos de esteviol, nos oito sabores sem açúcar. Os proteicos também levam sorbitol."
@@ -104263,10 +104457,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O bolinho de chocolate da Belive e o da Suavipan lado a lado: o que cada embalagem promete, os adoçantes, glúten, leite, alérgicos e o preço por unidade.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Bolinho sem açúcar, Belive ou Suavipan: rótulo de cada um, adoçantes, glúten, leite e preço por unidade.",
+    "metaDescription": "O cupom Belive MAUAD dá 10% OFF em todo o site. Bolinho sem açúcar, Belive ou Suavipan: rótulo de cada um, adoçantes, glúten, leite e preço por unidade.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa-v2.webp",
@@ -104277,7 +104471,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó e não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata; no site oficial da Belive, o código MAUAD dá 10% OFF."
+          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó e não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata; na Belive, o cupom MAUAD dá 10% OFF."
         ]
       },
       {
@@ -104286,11 +104480,20 @@ export const reviewsData: unknown[] = [
           "Dois bolinhos de 40 g, em unidade e em kit, com rótulos diferentes:"
         ],
         "bullets": [
-          "**Belive:** Bolinho de Chocolate Sem Açúcar Sem Glúten Sem Leite, no site oficial da marca, em unidade e em kit de 10.",
+          "**Belive:** [Bolinho de Chocolate Sem Açúcar Sem Glúten Sem Leite](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/), no site oficial da marca, em unidade e em [kit de 10](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/).",
           "**Suavipan:** Bolinho Zero Chocolate com Recheio de Chocolate, em kit de 12 no site oficial da marca e em unidade nas farmácias."
         ],
         "postParagraphs": [
           "Os dois aparecem juntos na busca por \"bolinho sem açúcar\" e por \"bolinho zero açúcar\". A Belive tem outros sabores na mesma linha, como baunilha, coco, laranja e banana, todos com 40 g."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-bolinho-chocolate.webp",
+            "alt": "Bolinho de chocolate da Belive mordido, segurado na mão, com a embalagem rosa ao fundo",
+            "caption": "O bolinho de chocolate da Belive por dentro, com gotas de chocolate. Foto oficial da Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/"
+          }
         ]
       },
       {
@@ -104349,7 +104552,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Preço da unidade",
-              "R$ 4,58 em oferta relâmpago (regular R$ 5,39)",
+              "R$ 5,39",
               "R$ 3,09 na Drogasil"
             ],
             [
@@ -104374,58 +104577,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O rótulo da Belive por bolinho",
         "paragraphs": [
-          "O bolinho da Belive tem 123 kcal, 16 g de carboidratos e 0 g de açúcares por unidade. Tabela da página do produto, porção de 40 g."
+          "O bolinho da Belive tem 123 kcal, 16 g de carboidratos e 0 g de açúcares por unidade. Tabela da página do produto, porção de 40 g, com a coluna de 100 g e o percentual do valor diário (VD) da porção."
         ],
-        "image": {
-          "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-chocolate.webp",
-          "alt": "Aba Tabela Nutricional da página do bolinho de chocolate da Belive, com a informação nutricional por 100 g e por porção de 40 g: 123 kcal, 16 g de carboidratos e 0 g de açúcares totais e adicionados",
-          "caption": "A tabela nutricional do bolinho de chocolate na página do produto da Belive: 123 kcal e 0 g de açúcares por unidade de 40 g.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9479
-        },
         "comparisonTable": {
           "headers": [
             "Item",
-            "Por bolinho (40 g)"
+            "Por bolinho (40 g)",
+            "Por 100 g",
+            "% VD"
           ],
           "rows": [
             [
               "Calorias",
-              "123 kcal"
+              "123 kcal",
+              "307 kcal",
+              "6"
             ],
             [
               "Carboidratos",
-              "16 g"
+              "16 g",
+              "40 g",
+              "5"
             ],
             [
               "Açúcares totais",
-              "0 g"
+              "0 g",
+              "0 g",
+              "-"
             ],
             [
               "Açúcares adicionados",
-              "0 g"
+              "0 g",
+              "0 g",
+              "0"
             ],
             [
               "Proteínas",
-              "2,2 g"
+              "2,2 g",
+              "5,5 g",
+              "4"
             ],
             [
               "Gorduras totais",
-              "7,1 g"
+              "7,1 g",
+              "18 g",
+              "11"
             ],
             [
               "Gorduras saturadas",
-              "3 g"
+              "3 g",
+              "7,5 g",
+              "15"
+            ],
+            [
+              "Gorduras trans",
+              "0 g",
+              "0 g",
+              "0"
             ],
             [
               "Fibras",
-              "2 g"
+              "2 g",
+              "4,9 g",
+              "8"
             ],
             [
               "Sódio",
-              "70 mg"
+              "70 mg",
+              "175 mg",
+              "4"
             ]
-          ]
+          ],
+          "caption": "Informação nutricional do bolinho de chocolate, publicada pela Belive na página do produto."
         },
         "postParagraphs": [
           "A página da Suavipan publica a tabela do bolinho zero de chocolate com recheio: por unidade de 40 g, 98 kcal, 22 g de carboidratos, 2,2 g de proteínas, 3,5 g de gorduras totais, 3,5 g de fibras e 52 mg de sódio, sem a linha de açúcares. Por isso este comparativo compara calorias e carboidratos, mas não açúcares. Confira a tabela da embalagem que chegar na sua mão."
@@ -104436,14 +104659,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os dois bolinhos usam maltitol, mas não são adoçados do mesmo jeito."
         ],
-        "image": {
-          "src": "/images/reviews/belive/belive-ingredientes-bolinho-chocolate.webp",
-          "alt": "Aba Ingredientes da página do bolinho de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol e os umectantes sorbitol e glicerol marcados em amarelo",
-          "caption": "A lista de ingredientes do bolinho de chocolate da Belive: maltitol e glicosídeos de esteviol como edulcorantes, sorbitol e glicerol como umectantes. O destaque em amarelo é nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 2.4641
-        },
         "bullets": [
+          "**Lista completa da Belive:** mix sem glúten (farinha de arroz, amido modificado, farinha integral de soja não transgênica, farinha de quinoa, fécula de mandioca), óleo vegetal (soja e palma), ovo em pó, gotas de chocolate amargo, fibra solúvel polidextrose, cacau em pó, edulcorantes maltitol e glicosídeos de esteviol, umectantes sorbitol e glicerol, emulsificantes mono e diglicerídeos e ésteres de poliglicerol de ácidos graxos e goma xantana, fermento químico pirofosfato dissódico e bicarbonato de sódio, conservantes propionato de cálcio e sorbato de potássio, acidulante ácido cítrico e aromas. Não contém glúten; contém derivados de soja e ovo.",
           "**Belive:** edulcorantes maltitol e glicosídeos de esteviol, com sorbitol e glicerol como umectantes. A descrição da loja fala em stévia; a lista cita os dois edulcorantes.",
           "**Suavipan:** maltitol, sorbitol e glicerina na massa, e sucralose e acessulfame de potássio como edulcorantes. O recheio leva maltodextrina, amido e cacau, além de sorbitol e sucralose. A arte da embalagem diz \"adoçado com maltitol\"."
         ]
@@ -104466,7 +104683,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade",
         "paragraphs": [
-          "Em 17/10/2026, a unidade Suavipan na Drogasil custava menos que a Belive no site oficial. Conta nossa, com o preço de cada kit dividido pelas unidades: entre os kits, a Belive tinha o menor preço por unidade."
+          "Os preços da Belive são os do site oficial na consulta de 22/11. Os da Suavipan, o kit no site da marca e a unidade na Drogasil, são de outubro de 2026 e não foram reconsultados: confira antes de comparar. Conta nossa, com o preço de cada kit dividido pelas unidades: entre os kits, a Belive tinha o menor preço por unidade, e a unidade da Suavipan na Drogasil custava menos que a da Belive."
         ],
         "comparisonTable": {
           "headers": [
@@ -104479,14 +104696,14 @@ export const reviewsData: unknown[] = [
             [
               "Belive, site oficial",
               "Unidade",
-              "R$ 4,58 em oferta relâmpago (regular R$ 5,39)",
-              "R$ 4,58"
+              "R$ 5,39",
+              "R$ 5,39"
             ],
             [
               "Belive, site oficial",
-              "Unidade, com MAUAD e Pix",
-              "R$ 3,92",
-              "R$ 3,92"
+              "Unidade, com o cupom MAUAD e o Pix",
+              "R$ 4,61",
+              "R$ 4,61"
             ],
             [
               "Belive, site oficial",
@@ -104496,7 +104713,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Belive, site oficial",
-              "Kit de 10, com MAUAD e Pix",
+              "Kit de 10, com o cupom MAUAD e o Pix",
               "R$ 42,86",
               "R$ 4,29"
             ],
@@ -104515,8 +104732,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399. Os R$ 3,92 são os R$ 4,58 com o cupom e o Pix aplicados; compare o total com frete no carrinho.",
-          "Na Belive, o cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive). O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. A Suavipan não tem cupom nosso."
+          "Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dava 5% no Pix no site oficial e frete grátis a partir de R$ 399 na consulta que fizemos. Os R$ 4,61 são os R$ 5,39 com o cupom e o Pix aplicados; compare o total com frete no carrinho.",
+          "Na Belive, o cupom Belive **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix, em sequência: 10% e depois 5% sobre o que sobrou, ou 14,5% sobre o valor dos produtos. As condições estão na [página do cupom da Belive](/cupons/belive). O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o mínimo conta antes do cupom. A Suavipan não tem cupom nosso."
         ]
       },
       {
@@ -104541,7 +104758,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quer um bolinho sem açúcar, sem glúten e sem leite: o da Belive. O da Suavipan é zero adição de açúcar, leva farinha de trigo e leite em pó, e o rótulo avisa que ele contém açúcares próprios dos ingredientes.",
           "Quer conferir os números antes de comprar: a tabela da Belive mostra 0 g de açúcares e 16 g de carboidratos em 40 g. A da Suavipan mostra 22 g de carboidratos em 40 g e não traz a linha de açúcares.",
-          "Quer o menor preço por unidade: na Drogasil, a Suavipan saiu a R$ 3,09, contra R$ 4,58 da Belive em oferta relâmpago, que pode acabar a qualquer hora. Com o MAUAD e o Pix, a unidade da Belive cai para R$ 3,92."
+          "Quer o menor preço por unidade: na Drogasil, a Suavipan saiu a R$ 3,09, contra R$ 5,39 da Belive. Com o cupom MAUAD e o Pix, a unidade da Belive cai para R$ 4,61, e o kit de 10 sai a R$ 4,29 por unidade."
         ]
       },
       {
@@ -104550,7 +104767,7 @@ export const reviewsData: unknown[] = [
           "Qual bolinho sem açúcar não tem glúten nem leite, Belive ou Suavipan? O da Belive. A loja declara o bolinho sem glúten, sem leite e sem lactose. O da Suavipan leva farinha de trigo e leite em pó desnatado.",
           "O bolinho da Suavipan é zero açúcar? A embalagem diz \"zero adição de açúcar\", e a lista de ingredientes traz a frase \"contém açúcares próprios dos ingredientes\". A tabela da página da marca não traz a linha de açúcares.",
           "Quantas calorias tem o bolinho sem açúcar da Belive? O de chocolate tem 123 kcal por unidade de 40 g, com 16 g de carboidratos e 0 g de açúcares.",
-          "Qual bolinho sai mais barato? O da Suavipan na farmácia: R$ 3,09 a unidade na Drogasil. A unidade da Belive estava a R$ 4,58 em oferta relâmpago, ou R$ 3,92 com o MAUAD e o Pix.",
+          "Qual bolinho sai mais barato? A unidade da Suavipan na farmácia: R$ 3,09 na Drogasil na nossa consulta. A da Belive custava R$ 5,39, ou R$ 4,61 com o cupom MAUAD e o Pix, e o kit de 10 da Belive sai a R$ 4,29 por unidade com os dois.",
           "Bolinho sem açúcar pode ser comido por quem tem diabetes? O rótulo da Belive mostra 0 g de açúcares e 16 g de carboidratos por bolinho. A quantidade, quem tem diabetes combina com o médico ou o nutricionista."
         ]
       }
@@ -104592,7 +104809,7 @@ export const reviewsData: unknown[] = [
     "id": 469,
     "slug": "pao-de-mel-sem-acucar-belive",
     "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo",
-    "seoTitle": "Pão de mel sem açúcar Belive: rótulo, preço e comum × proteico",
+    "seoTitle": "Pão de mel sem açúcar Belive: comum ou proteico no rótulo",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -104604,9 +104821,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O pão de mel sem açúcar da Belive em duas versões, comum e proteica: o rótulo lado a lado, os ingredientes, o preço por unidade e no kit de 10 e o que dizem as avaliações da loja.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Pão de mel sem açúcar, comum ou proteico: rótulo, ingredientes, preço no kit de 10 e avaliações da loja.",
+    "metaDescription": "O cupom Belive MAUAD dá 10% OFF em todo o site. Pão de mel sem açúcar, comum ou proteico: rótulo, ingredientes, preço no kit de 10 e avaliações da loja.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa-v2.webp",
@@ -104617,7 +104835,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pão de mel proteico da Belive troca carboidrato por proteína: 6 g de proteína e 16 g de carboidratos por unidade, contra 2 g e 23 g do comum. Os dois têm 0 g de açúcares e quase as mesmas calorias. O que pesa é a proteína, e no site oficial o código MAUAD dá 10% OFF."
+          "O pão de mel proteico da Belive troca carboidrato por proteína: 6 g de proteína e 16 g de carboidratos por unidade, contra 2 g e 23 g do comum. Os dois têm 0 g de açúcares e quase as mesmas calorias. O que pesa é a proteína, e no site oficial o cupom Belive MAUAD dá 10% OFF."
         ]
       },
       {
@@ -104626,33 +104844,33 @@ export const reviewsData: unknown[] = [
           "Os dois são sem açúcar, sem glúten e sem leite; o que muda é a massa:"
         ],
         "bullets": [
-          "**Comum:** na loja, \"Pão de Mel Sem Glúten Sem Açúcar Sem Leite\". A massa é de farinha de arroz, amido modificado, fécula de mandioca e quinoa.",
-          "**Proteico:** na loja, \"Pão de Mel Proteico Sem Glúten Sem Açúcar Sem Leite\". A massa troca as farinhas por proteínas isoladas de soja, arroz e ervilha, com farinha integral de sorgo."
+          "**Comum:** na loja, [\"Pão de Mel Sem Glúten Sem Açúcar Sem Leite\"](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/), com [kit de 10](https://belivebefree.com.br/produto/kit-10-pao-de-mel-fit-sem-gluten-sem-acucar-sem-leite-belive/). A massa é de farinha de arroz, amido modificado, fécula de mandioca e quinoa.",
+          "**Proteico:** na loja, [\"Pão de Mel Proteico Sem Glúten Sem Açúcar Sem Leite\"](https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/), com [kit de 10](https://belivebefree.com.br/produto/kit-10-pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/). A massa troca as farinhas por proteínas isoladas de soja, arroz e ervilha, com farinha integral de sorgo."
         ],
         "postParagraphs": [
           "Os dois pesam 45 g por unidade e são vendidos em unidade e em kit de 10."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-pao-de-mel-zero.webp",
+            "alt": "Pães de mel Belive com cobertura de chocolate empilhados, ao lado da embalagem da marca",
+            "caption": "O pão de mel comum, com cobertura de chocolate amargo sem açúcar. Foto oficial da Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/"
+          },
+          {
+            "src": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-pao-de-mel-proteico.webp",
+            "alt": "Embalagem do Protein Pão de Mel Original da Belive, de 45 g, com a indicação de 6 g de proteínas e zero açúcar",
+            "caption": "O Protein Pão de Mel Original, de 45 g, com 6 g de proteína por unidade. Foto oficial da Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/"
+          }
         ]
       },
       {
         "heading": "O rótulo lado a lado",
         "paragraphs": [
-          "Tabelas nutricionais das páginas de produto. Porção de 45 g (1 unidade), com a coluna de 100 g entre parênteses."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp",
-            "alt": "Aba Tabela Nutricional da página do pão de mel da Belive, com a informação nutricional por 100 g e por porção de 45 g: 163 kcal, 23 g de carboidratos e 0 g de açúcares totais e adicionados",
-            "caption": "Pão de mel comum: 163 kcal, 2 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9479
-          },
-          {
-            "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel-proteico.webp",
-            "alt": "Tabela nutricional do Pão de Mel Protein Zero da Belive: por porção de 45 g, 162 kcal, 16 g de carboidratos, 0 g de açúcares totais e adicionados, 6 g de proteínas e 6,2 g de fibras",
-            "caption": "Pão de mel proteico (Protein Zero): 162 kcal, 6 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive.",
-            "objectFit": "contain",
-            "aspectRatio": 1.0213
-          }
+          "Tabelas nutricionais das páginas de produto, nos nomes \"Pão de Mel Zero\" (o comum) e \"Pão de Mel Protein Zero\" (o proteico). Porção de 45 g (1 unidade), com a coluna de 100 g entre parênteses e o percentual do valor diário (VD) da porção."
         ],
         "comparisonTable": {
           "headers": [
@@ -104663,13 +104881,13 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Calorias",
-              "163 kcal (362 kcal)",
-              "162 kcal (360 kcal)"
+              "163 kcal (362 kcal), 8% VD",
+              "162 kcal (360 kcal), 8% VD"
             ],
             [
               "Carboidratos",
-              "23 g (50 g)",
-              "16 g (36 g)"
+              "23 g (50 g), 8% VD",
+              "16 g (36 g), 5% VD"
             ],
             [
               "Açúcares totais",
@@ -104678,35 +104896,41 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Açúcares adicionados",
-              "0 g",
-              "0 g"
+              "0 g, 0% VD",
+              "0 g, 0% VD"
             ],
             [
               "Proteínas",
-              "2 g (4,5 g)",
-              "6 g (13 g)"
+              "2 g (4,5 g), 4% VD",
+              "6 g (13 g), 12% VD"
             ],
             [
               "Gorduras totais",
-              "9,2 g (20 g)",
-              "10 g (22 g)"
+              "9,2 g (20 g), 14% VD",
+              "10 g (22 g), 15% VD"
             ],
             [
               "Gorduras saturadas",
-              "5,1 g (11 g)",
-              "4,8 g (11 g)"
+              "5,1 g (11 g), 26% VD",
+              "4,8 g (11 g), 24% VD"
+            ],
+            [
+              "Gorduras trans",
+              "0 g (0 g)",
+              "0 g (0 g)"
             ],
             [
               "Fibras",
-              "5 g (11 g)",
-              "6,2 g (14 g)"
+              "5 g (11 g), 20% VD",
+              "6,2 g (14 g), 25% VD"
             ],
             [
               "Sódio",
-              "28 mg (61 mg)",
-              "66 mg (147 mg)"
+              "28 mg (61 mg), 1% VD",
+              "66 mg (147 mg), 3% VD"
             ]
-          ]
+          ],
+          "caption": "Informação nutricional publicada pela Belive na página de cada produto."
         },
         "postParagraphs": [
           "O proteico tem 4 g a mais de proteína e 7 g a menos de carboidratos por unidade. As calorias ficam próximas: 162 kcal no proteico e 163 kcal no comum; as gorduras totais são 10 g e 9,2 g."
@@ -104716,27 +104940,11 @@ export const reviewsData: unknown[] = [
         "heading": "O que diz a lista de ingredientes",
         "paragraphs": [
           "Os dois trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. A descrição da loja fala em \"adoçado com stévia\". O glicosídeo de esteviol é o adoçante da stévia, e o maltitol vem antes dele na lista. O proteico também leva sorbitol e glicerol como umectantes. O comum não leva.",
-          "Outros ingredientes, pela lista de cada página:"
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel.webp",
-            "alt": "Aba Ingredientes da página do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
-            "caption": "Ingredientes do pão de mel comum, com os edulcorantes maltitol e glicosídeos de esteviol. O destaque em amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 2.7088
-          },
-          {
-            "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel-proteico.webp",
-            "alt": "Lista de ingredientes do pão de mel proteico da Belive, com os edulcorantes maltitol e glicosídeos de esteviol e os umectantes sorbitol e glicerol marcados em amarelo",
-            "caption": "Ingredientes do pão de mel proteico: os mesmos edulcorantes, mais os umectantes sorbitol e glicerol. O destaque em amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 3.2698
-          }
+          "A lista completa de cada página:"
         ],
         "bullets": [
-          "Comum: cobertura sabor chocolate amargo sem açúcar, mix sem glúten, óleo vegetal de soja e palma, fibra de milho, ovo em pó, polidextrose, cacau em pó, especiarias, fibra vegetal e sal light.",
-          "Proteico: cobertura sabor chocolate amargo, mix sem glúten com proteínas vegetais, óleo de soja, polidextrose, ovo em pó, fibra de tapioca, cacau em pó, extrato de levedura e especiarias."
+          "Comum: cobertura sabor chocolate amargo (sem açúcar), mix sem glúten (farinha de arroz, amido modificado, fécula de mandioca, quinoa), óleo vegetal (soja e palma), fibra de milho, ovo em pó, fibra solúvel polidextrose, cacau em pó, especiarias, fibra vegetal, sal light, edulcorantes maltitol e glicosídeos de esteviol, emulsificantes mono e diglicerídeo de ácidos graxos e goma xantana, conservantes propionato de cálcio e sorbato de potássio, fermento químico pirofosfato dissódico, acidulante ácido cítrico e aromas.",
+          "Proteico: cobertura sabor chocolate amargo, mix sem glúten (proteínas isoladas de soja, arroz e ervilha; farinha integral de sorgo), óleo de soja, fibra solúvel polidextrose, ovo em pó, fibra de tapioca, cacau em pó, extrato de levedura, especiarias, edulcorantes maltitol e glicosídeos de esteviol, umectantes sorbitol e glicerol, emulsificantes mono e diglicerídeos e ésteres de poliglicerol de ácidos graxos e goma xantana, fermento químico pirofosfato dissódico e bicarbonato de sódio, conservantes propionato de cálcio e sorbato de potássio, acidulante ácido cítrico e aromatizantes."
         ],
         "postParagraphs": [
           "Os dois contêm derivados de soja e ovo e não contêm glúten. A loja declara os dois sem leite e sem lactose. Quem tem alergia ou intolerância deve ler o rótulo da embalagem na hora da compra."
@@ -104757,7 +104965,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade e no kit de 10",
         "paragraphs": [
-          "O proteico custa mais por unidade e no kit. Preços do site oficial em 17/10/2026, sem o cupom. Conta nossa: o preço por unidade no kit é o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
+          "O proteico custa mais por unidade e no kit. Preços do site oficial na consulta de 22/11, sem o cupom. Conta nossa: o preço por unidade no kit é o kit dividido por 10. A última coluna aplica o cupom Belive MAUAD (10%) e, depois, os 5% do Pix."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-kit-10-pao-de-mel-pagina-2026-10-19.webp",
@@ -104772,27 +104980,27 @@ export const reviewsData: unknown[] = [
             "Unidade",
             "Kit de 10",
             "Por unidade no kit",
-            "Por unidade no kit com MAUAD e Pix"
+            "Por unidade no kit com o cupom e o Pix"
           ],
           "rows": [
             [
-              "Comum",
-              "R$ 7,57 (de R$ 7,97)",
-              "R$ 74,12 (de R$ 79,70)",
+              "[Comum](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/)",
+              "R$ 7,97",
+              "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-pao-de-mel-fit-sem-gluten-sem-acucar-sem-leite-belive/) (de R$ 79,70)",
               "R$ 7,41",
               "R$ 6,34"
             ],
             [
-              "Proteico",
+              "[Proteico](https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/)",
               "R$ 8,49",
-              "R$ 78,96 (de R$ 84,90)",
+              "[R$ 78,96](https://belivebefree.com.br/produto/kit-10-pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/) (de R$ 84,90)",
               "R$ 7,90",
               "R$ 6,75"
             ]
           ]
         },
         "postParagraphs": [
-          "O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com o preço do kit e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive), e o passo a passo, no guia de [como usar o cupom da Belive](/reviews/cupom-belive-como-usar).",
+          "O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com o preço do kit e com os 5% do Pix: são descontos em sequência, 10% e depois 5% sobre o que sobrou, ou 14,5% sobre o valor dos produtos. As condições estão na [página do cupom da Belive](/cupons/belive), e o passo a passo, no guia de [como usar o cupom da Belive](/reviews/cupom-belive-como-usar).",
           "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom. A loja também vende combos de doces que trazem pão de mel junto com brownies e outros itens."
         ]
       },
@@ -149465,11 +149673,11 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
-    "description": "Cookies sem açúcar da Belive comparados por 100 g, com o rótulo, os adoçantes, os alérgenos e o cupom MAUAD, a partir da loja oficial em 28/10/2026.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Os quatro cookies sem açúcar comparados por 100 g: calorias, proteína, açúcares, alérgenos e preço.",
+    "description": "Cookies sem açúcar da Belive comparados por 100 g: rótulo, adoçantes, alérgenos, kits de 10, preço e o cupom Belive MAUAD, a partir da loja oficial.",
+    "metaDescription": "O cupom Belive MAUAD dá 10% OFF em todo o site. Os quatro cookies sem açúcar comparados por 100 g: calorias, proteína, açúcares, alérgenos e preço.",
     "image": "/images/reviews/belive/cookies-sem-acucar-belive-capa-v2.webp",
     "imageAlt": "Cookies da Belive, com a embalagem do sabor castanhas ao fundo.",
     "imageFit": "contain",
@@ -149510,13 +149718,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g, e no site oficial o código MAUAD dá 10% OFF."
+          "Os quatro cookies sem açúcar da Belive têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. Saem avulsos ou em kit de 10, e no site oficial o cupom Belive MAUAD dá 10% OFF."
         ]
       },
       {
         "heading": "Os quatro cookies sem açúcar",
         "paragraphs": [
-          "A comparação é por 100 g, e o peso do pacote muda a conta. O peso vem do pacote nas fotos oficiais da loja: 67 g, com 4 unidades, no de chocolate, no de baunilha com chocolate e no de castanhas, embora a ficha dos dois primeiros diga 79 g. No de avelã, vale o peso da ficha, 79 g; confira a embalagem."
+          "A comparação é por 100 g, e o peso do pacote muda a conta. A ficha de cada cookie no site mostra 79 g, mas esse é o peso de envio da embalagem, com as dimensões de transporte, e não o peso líquido. O líquido é o impresso no pacote: 67 g, com 4 unidades, no de chocolate, no de baunilha com chocolate e no de castanhas, como mostram as fotos oficiais. Nas fotos da loja não aparece o pacote do de chocolate com avelã, então o peso líquido dele não está confirmado e a conta por 100 g fica em branco; confira a embalagem."
         ],
         "comparisonTable": {
           "headers": [
@@ -149549,9 +149757,9 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Chocolate e avelã](https://belivebefree.com.br/produto/cookie-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/)",
-              "79 g (ficha)",
+              "não confirmado",
               "R$ 8,97",
-              "R$ 11,35",
+              "-",
               "113",
               "1,4 g",
               "0 g"
@@ -149568,13 +149776,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Pix, com 5% de desconto, cada pacote sai por R$ 8,52. O cupom MAUAD dá mais 10% em todas as formas de pagamento e soma com as promoções e com o desconto do Pix.",
+          "No Pix, com 5% de desconto, cada pacote sai por R$ 8,52. O cupom Belive MAUAD dá mais 10% em todas as formas de pagamento e soma com as promoções e com o desconto do Pix, em sequência: 10% e depois 5% sobre o que sobrou, o que dá 14,5% sobre o valor dos produtos.",
           "Se você já procura outros doces sem açúcar da loja, veja [doces sem açúcar](/reviews/doces-sem-acucar-para-diabeticos)."
         ],
         "image": {
           "src": "/images/reviews/belive/cookies-sem-acucar-belive-fotos-2810.webp",
           "alt": "Fotos oficiais da Belive dos cookies sem açúcar de chocolate, baunilha com chocolate, chocolate com avelã e castanhas com chocolate",
-          "caption": "Os quatro cookies sem açúcar; nos pacotes de chocolate, baunilha e castanhas, o peso impresso é 67 g. Fotos oficiais da Belive.",
+          "caption": "Os quatro cookies sem açúcar; nos pacotes de chocolate, baunilha e castanhas, o peso líquido impresso é 67 g. Fotos oficiais da Belive.",
           "objectFit": "contain",
           "aspectRatio": 1
         }
@@ -149582,8 +149790,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto sai cada um",
         "paragraphs": [
-          "Cada pacote custa R$ 8,97 nos quatro sabores, no cartão, em 28/10/2026. O kit traz 10 pacotes de um só sabor, com 4 cookies cada, e custa R$ 83,42 no cartão (de R$ 89,70), ou R$ 79,25 no Pix. Dá cerca de R$ 8,34 por pacote, contra R$ 8,97 do pacote avulso.",
-          "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços podem mudar; confira o total no carrinho."
+          "Na consulta de 22/11, cada pacote custava R$ 8,97 nos quatro sabores, no cartão. O kit traz 10 pacotes de um só sabor, com 4 cookies cada, e custa R$ 83,42 no cartão (de R$ 89,70), ou R$ 79,25 no Pix. Dá cerca de R$ 8,34 por pacote, contra R$ 8,97 do pacote avulso. Os kits de 10: [chocolate](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-fit-sem-gluten-sem-acucar-sem-leite-belive/), [baunilha e chocolate](https://belivebefree.com.br/produto/kit-10-cookies-fit-baunilha-e-chocolate-sem-gluten-sem-acucar-sem-leite-belive/), [chocolate e avelã](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/) e [castanhas e chocolate](https://belivebefree.com.br/produto/kit-10-cookies-sem-gluten-sem-acucar-sem-leite-castanhas-e-chocolate-belive/).",
+          "O cupom Belive MAUAD tira mais 10% do pacote e do kit. O site anuncia a campanha Black November, com \"até 30%\" em todo o site. Os preços podem mudar; confira o total no carrinho."
         ]
       },
       {
@@ -149639,7 +149847,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Pela lista de ingredientes, os adoçantes dos quatro são maltitol e glicosídeos de esteviol. O maltitol é um poliol: entra nos carboidratos, não nos açúcares. Por isso, zero de açúcar não quer dizer zero de carboidrato.",
           "No de castanhas, a lista descreve as gotas de chocolate sem a ressalva \"sem açúcar\". O zero da tabela é o que sustenta o termo, e vale conferir a embalagem.",
-          "Atenção: os cookies Sem Lactose da mesma linha não entram nesta comparação, porque têm açúcar adicionado, de 6,5 a 8,5 g por 30 g."
+          "Atenção: os cookies Sem Lactose da mesma linha não entram nesta comparação, porque têm açúcar adicionado, de 6,5 a 8,5 g por 30 g. Custam R$ 8,49 o pacote e R$ 78,96 o kit de 10, em três sabores: [chocolate](https://belivebefree.com.br/produto/cookie-de-chocolate-sem-gluten-sem-lactose-sem-leite-belive/) ([kit](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-sem-gluten-sem-lactose-sem-leite-belive/)), [baunilha e chocolate](https://belivebefree.com.br/produto/cookie-sem-gluten-sem-lactose-sem-leite-baunilha-e-chocolate-belive/) ([kit](https://belivebefree.com.br/produto/kit-10-cookies-sem-gluten-sem-lactose-sem-leite-baunilha-e-chocolate-belive/)) e [castanhas](https://belivebefree.com.br/produto/cookie-sem-gluten-sem-lactose-sem-leite-castanhas-belive/) ([kit](https://belivebefree.com.br/produto/kit-10-cookies-sem-gluten-sem-lactose-sem-leite-castanhas-belive/))."
         ],
         "image": {
           "src": "/images/reviews/belive/cookies-sem-acucar-belive-tabelas-2810.webp",
@@ -149700,7 +149908,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar com o cupom",
         "paragraphs": [
-          "A compra é no site oficial da Belive. Digite MAUAD no campo “Código do cupom” do carrinho e clique em “Aplicar cupom”. Consulte as condições na [página do cupom Belive](/cupons/belive).",
+          "A compra é no site oficial da Belive. Digite o cupom Belive MAUAD no campo “Código do cupom” do carrinho e clique em “Aplicar cupom”. Consulte as condições na [página do cupom Belive](/cupons/belive).",
           "O frete grátis depende da região e do valor do carrinho: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; acima de R$ 300 nos demais estados.",
           "O passo a passo do cupom está em [cupom da Belive: como usar](/reviews/cupom-belive-como-usar)."
         ]
@@ -149711,7 +149919,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quer mais proteína: o de castanhas e chocolate, com 1,9 g por 30 g. Os outros três têm 1,4 g.",
           "Quer menos calorias por 30 g: o de chocolate, com 108 kcal. O de castanhas é o mais calórico, com 122 kcal.",
-          "Quer o menor preço por 100 g: o de chocolate com avelã, R$ 11,35 pelo peso da ficha (79 g). Os outros três, de 67 g, saem a R$ 13,39.",
+          "Quer o menor preço: os quatro custam o mesmo por pacote, R$ 8,97. Por 100 g, os três de 67 g saem a R$ 13,39; o de chocolate com avelã fica sem conta enquanto o peso líquido dele não for confirmado.",
           "Evita castanhas ou ovo: nenhum dos quatro serve, porque todos trazem os dois."
         ]
       },
@@ -149744,10 +149952,10 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-14",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
-    "description": "Os oito sabores dos snacks proteicos e de arroz da Belive, com preço, rótulo, ingredientes e a conta por grama de proteína, em 28/10/2026.",
+    "description": "Os oito sabores dos snacks proteicos e de arroz da Belive, com preço, rótulo, ingredientes e a conta por grama de proteína, em 22/11/2026.",
     "metaDescription": "Snack proteico ou de arroz da Belive, com o cupom MAUAD de 10% OFF: o proteico tem 10 g de proteína por pacote e o preço por grama.",
     "image": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa-v2.webp",
     "imageAlt": "Montagem de duas fotos oficiais Belive: snack proteico em tigela amarela à esquerda e snack de arroz em tigela branca à direita.",
@@ -149789,13 +149997,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g e sai mais barato por grama de proteína. Os de arroz têm, em média, menos sódio, e no site oficial o código MAUAD dá 10% OFF."
+          "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g. Por isso sai mais barato por grama de proteína. O de arroz tem, em média, menos sódio, e no site oficial da Belive o código MAUAD dá 10% OFF."
         ]
       },
       {
         "heading": "Os oito sabores e o preço",
         "paragraphs": [
-          "No cartão em 28/10/2026, o proteico de 35 g sai a R$ 7,97 e o de arroz a R$ 5,19."
+          "No cartão, na consulta de 22/11/2026, o proteico de 35 g sai a R$ 7,97 e o de arroz a R$ 5,19."
         ],
         "comparisonTable": {
           "headers": [
@@ -149943,8 +150151,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Combo: vale a pena?",
         "bullets": [
-          "Combo de 16 proteicos (4 sabores): R$ 119,90 no cartão e R$ 113,91 no Pix. Dá R$ 7,49 por unidade, 6% abaixo do pacote avulso, e cerca de R$ 0,75 por grama de proteína. A página mostra o preço anterior riscado, R$ 127,52.",
-          "Combo de 20 de arroz (4 sabores): R$ 95,90 no cartão e R$ 91,11 no Pix. Dá R$ 4,80 por unidade, 7,6% abaixo do avulso, e entre R$ 1,60 e R$ 1,65 por grama de proteína. O preço anterior riscado é R$ 103,80."
+          "[Combo de 16 proteicos (4 sabores)](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/): R$ 119,90 no cartão e R$ 113,91 no Pix. Dá R$ 7,49 por unidade, 6% abaixo do pacote avulso, e cerca de R$ 0,75 por grama de proteína. A página mostra o preço anterior riscado, R$ 127,52.",
+          "[Combo de 20 de arroz (4 sabores)](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/): R$ 95,90 no cartão e R$ 91,11 no Pix. Dá R$ 4,80 por unidade, 7,6% abaixo do avulso, e entre R$ 1,60 e R$ 1,65 por grama de proteína. O preço anterior riscado é R$ 103,80."
         ],
         "postParagraphs": [
           "O combo reduz o preço unitário em cerca de 6% a 8%. Por grama de proteína, o proteico continua com menos da metade do custo do arroz; compare quantidade, preços atuais e frete para decidir.",
@@ -150134,7 +150342,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Alergênicos",
         "paragraphs": [
-          "A linha de alergênicos da loja marca ovo e soja para o bolinho kids de brigadeiro. A página e a lista de ingredientes dizem que não contém glúten, e a lista não traz leite, nem a tabela de alergênicos marca leite. Quem tem alergia a ovo ou soja deve conferir a embalagem."
+          "A linha de alergênicos da loja marca ovo e soja para o bolinho kids de brigadeiro. A página e a lista de ingredientes dizem que não contém glúten, e a lista não traz leite, nem a tabela de alergênicos marca leite. Quem tem alergia a ovo ou soja deve conferir a embalagem. Na dúvida sobre o que a criança pode comer, o pediatra é quem responde."
         ]
       },
       {
@@ -150143,7 +150351,7 @@ export const reviewsData: unknown[] = [
           "Os preços abaixo são os de cartão no site da Belive."
         ],
         "comparisonTable": {
-          "caption": "Preço de cartão no site da Belive, 28/10",
+          "caption": "Preço de cartão no site da Belive, conferido em 22/11",
           "headers": [
             "Item",
             "Peso",
@@ -150153,14 +150361,28 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Bolinho kids brigadeiro (ou morango)](https://belivebefree.com.br/produto/bolinho-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
+              "[Bolinho kids brigadeiro](https://belivebefree.com.br/produto/bolinho-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
               "45 g",
               "R$ 6,97",
               "R$ 6,97",
               "R$ 15,49"
             ],
             [
-              "[Kit 10 Bolinhos para Criança (brigadeiro ou morango)](https://belivebefree.com.br/produto/kit-10-bolinhos-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
+              "[Bolinho kids morango](https://belivebefree.com.br/produto/bolinho-para-crianca-sabor-morango-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
+              "45 g",
+              "R$ 6,97",
+              "R$ 6,97",
+              "R$ 15,49"
+            ],
+            [
+              "[Kit 10 Bolinhos para Criança, brigadeiro](https://belivebefree.com.br/produto/kit-10-bolinhos-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
+              "450 g",
+              "R$ 64,82 (de R$ 69,70)",
+              "R$ 6,48",
+              "R$ 14,40"
+            ],
+            [
+              "[Kit 10 Bolinhos para Criança, morango](https://belivebefree.com.br/produto/kit-10-bolinhos-para-crianca-sabor-morango-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
               "450 g",
               "R$ 64,82 (de R$ 69,70)",
               "R$ 6,48",
@@ -150183,7 +150405,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O sabor morango de 45 g também custa R$ 6,97, e o kit de 10 morango tem o mesmo preço. O bolinho adulto Special de chocolate, com cobertura e 45 g, também custa R$ 6,97.",
+          "O morango tem o mesmo preço do brigadeiro, na unidade e no kit de 10. O [bolinho adulto Special de chocolate](https://belivebefree.com.br/produto/bolinho-de-chocolate-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive/), com cobertura e 45 g, também custa R$ 6,97.",
           "No Pix, a página mostra R$ 6,62 para a unidade de 45 g, R$ 61,58 para o kit de 10 e R$ 118,66 para o kit de 25. O cupom MAUAD dá mais 10% no site da Belive e soma com o desconto do Pix. O passo a passo está em [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições do mês, na [página do cupom](/cupons/belive).",
           "A loja anuncia \"Black November, até 30%\" na página inicial. Confira se o desconto vale para estes bolinhos antes de comprar."
         ],
@@ -150198,7 +150420,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O Kit Lanche Escolar não tem bolinho kids",
         "paragraphs": [
-          "O Kit Lanche Escolar Bolinho Sem Açúcar Sem Glúten Sem Leite, com 25 unidades e 1 kg, é vendido como kit de lanche escolar, mas não traz nenhum bolinho kids. Os 25 são da linha adulta, de 40 g: 10 de chocolate, 5 de laranja com gotas de chocolate, 5 de baunilha com gotas de chocolate, 3 de coco com gotas de chocolate e 2 de banana com canela e chia.",
+          "O [Kit Lanche Escolar Bolinho Sem Açúcar Sem Glúten Sem Leite](https://belivebefree.com.br/produto/kit-lanche-escolar-bolinho-sem-gluten-belive/), com 25 unidades e 1 kg, é vendido como kit de lanche escolar, mas não traz nenhum bolinho kids. Os 25 são da linha adulta, de 40 g: 10 de [chocolate](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/), 5 de [laranja](https://belivebefree.com.br/produto/bolinho-de-laranja-fit-sem-acucar-sem-gluten-sem-leite-belive/) com gotas de chocolate, 5 de [baunilha](https://belivebefree.com.br/produto/bolinho-de-baunilha-fit-sem-acucar-sem-gluten-sem-leite-belive/) com gotas de chocolate, 3 de [coco](https://belivebefree.com.br/produto/bolinho-de-coco-fit-sem-acucar-sem-gluten-sem-leite-belive/) com gotas de chocolate e 2 de [banana](https://belivebefree.com.br/produto/bolinho-de-banana-sem-acucar-sem-gluten-sem-leite-belive/) com canela e chia.",
           "O kit custa R$ 124,90 no cartão, ou R$ 4,99 por unidade, menos que o kids de 45 g, mas é outro produto, com outro peso e outra tabela. A tabela do chocolate adulto não representa os outros sabores. Quem procura o kids precisa da unidade de 45 g ou do kit de 10."
         ],
         "image": {
@@ -150213,7 +150435,7 @@ export const reviewsData: unknown[] = [
         "heading": "Veredito",
         "paragraphs": [
           "O rótulo do bolinho kids de brigadeiro mostra um produto de 45 g com 157 kcal, 0,5 g de açúcar total, nenhum açúcar adicionado, ovo e soja nos alergênicos e nenhum leite na lista. Em relação ao adulto de 40 g, ele tem 34 kcal a mais, 2,6 g a mais de gordura saturada e custa R$ 1,58 a mais por unidade no cartão.",
-          "O que o rótulo não mostra: a tabela do sabor morango, a dos sabores do kit de 25, a embalagem física e qualquer aviso sobre polióis. Este texto não recomenda o produto para criança, e os números servem para comparar os rótulos, não para escolher o que vai na lancheira."
+          "O que o rótulo não mostra: a tabela do sabor morango, a dos sabores do kit de 25, a embalagem física e qualquer aviso sobre polióis. Este texto não recomenda o produto para criança, e os números servem para comparar os rótulos, não para escolher o que vai na lancheira. Na dúvida, converse com o pediatra."
         ]
       },
       {
@@ -150226,7 +150448,8 @@ export const reviewsData: unknown[] = [
           "O bolinho kids tem leite? Pela lista de ingredientes e pela tabela de alergênicos da loja, não. A linha marca ovo e soja."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 630,
@@ -195535,7 +195758,7 @@ export const reviewsData: unknown[] = [
     "id": 786,
     "slug": "belive-e-boa",
     "title": "Belive é boa? Os doces sem açúcar, os salgadinhos, os pães e o que vale comprar da marca",
-    "seoTitle": "Belive é boa? Brownie, salgadinho, pão sem glúten pelo rótulo",
+    "seoTitle": "Belive é boa? Doces, salgadinhos e pães sem glúten",
     "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -195550,7 +195773,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Doces, snacks e pães sem glúten pelo rótulo, preço e frete por região: para quem compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/belive-e-boa-capa-v2.webp",
@@ -195575,7 +195798,7 @@ export const reviewsData: unknown[] = [
           "**Panetone e chocotone:** dois panetones zero açúcar e os kits de 3, de época.",
           "**Salgadinhos e snacks:** o snack proteico, o snack de arroz, o salgadinho de milho de 25 g, os GoodSoy e os chips de batata-doce e de mandioca.",
           "**Pães:** pão de forma tradicional, multigrãos e de batata-doce, pãezinhos de batata, cebola, cenoura e brioche de coco, e bisnaguinha.",
-          "**Combos e kits:** caixas de 10, combos de 4 pacotes de pão, kits de lanche escolar e os \"Completão\" de 25 a 40 unidades."
+          "**Combos e kits:** caixas de 10, combos de 4 pacotes de pão, kits de lanche escolar (como o [Kit Lanche Escolar de 25 bolinhos](https://belivebefree.com.br/produto/kit-lanche-escolar-bolinho-sem-gluten-belive/)) e os combos de doces, de 16 a 40 unidades, como o [Combo Doces 16](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-belive/) e o [Combo Doces Completão 30](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-completao-belive/)."
         ],
         "postParagraphs": [
           "Os GoodSoy são de outra marca do mesmo grupo, criada antes da Belive e feita na mesma fábrica; a loja os vende junto com os dela."
@@ -195590,7 +195813,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Unidade",
-            "Preço de lista",
+            "Preço no site",
             "Kit de 10"
           ],
           "rows": [
@@ -195598,62 +195821,63 @@ export const reviewsData: unknown[] = [
               "[Brownie de Chocolate Sem Açúcar](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
               "40 g",
               "R$ 6,97",
-              "R$ 69,70"
+              "[R$ 64,82](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)"
             ],
             [
               "[Brownie Proteico Double Chocolate Sem Açúcar](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
               "40 g",
               "R$ 7,97",
-              "R$ 79,70"
+              "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)"
             ],
             [
               "[Pão de Mel Sem Açúcar](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/)",
               "45 g",
               "R$ 7,97",
-              "R$ 79,70"
+              "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-pao-de-mel-fit-sem-gluten-sem-acucar-sem-leite-belive/)"
             ],
             [
               "[Pão de Mel Proteico Sem Açúcar](https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/)",
               "45 g",
               "R$ 8,49",
-              "R$ 84,90"
+              "[R$ 78,96](https://belivebefree.com.br/produto/kit-10-pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/)"
             ],
             [
               "[Bolinho de Chocolate Sem Açúcar](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/)",
               "40 g",
               "R$ 5,39",
-              "R$ 53,90"
+              "[R$ 50,13](https://belivebefree.com.br/produto/kit-10-bolinhos-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/)"
             ],
             [
               "[Bolinho de Cenoura com Cobertura, linha Special](https://belivebefree.com.br/produto/bolinho-de-cenoura-com-cobertura-de-chocolate-sem-gluten-sem-acucar-sem-leite-belive/)",
               "45 g",
               "R$ 6,97",
-              "R$ 69,70"
+              "[R$ 64,82](https://belivebefree.com.br/produto/kit-10-bolinhos-de-cenoura-com-cobertura-de-chocolate-sem-gluten-sem-acucar-sem-leite-belive/)"
             ],
             [
               "[Bolinho para Criança, brigadeiro ou morango](https://belivebefree.com.br/produto/bolinho-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
               "45 g",
               "R$ 6,97",
-              "R$ 69,70"
+              "[R$ 64,82](https://belivebefree.com.br/produto/kit-10-bolinhos-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)"
             ],
             [
               "[Cookie de Chocolate Sem Açúcar](https://belivebefree.com.br/produto/cookie-de-chocolate-fit-sem-gluten-sem-acucar-sem-leite-belive/)",
               "pacote com 4",
               "R$ 8,97",
-              "R$ 89,70"
+              "[R$ 83,42](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-fit-sem-gluten-sem-acucar-sem-leite-belive/)"
             ],
             [
-              "[Bolo de Cenoura com Cobertura, inteiro](https://belivebefree.com.br/produto/bolo-de-cenoura-com-cobertura-de-chocolate-sem-gluten-sem-acucar-sem-leite-belive/)",
+              "[Bolo de Chocolate, inteiro](https://belivebefree.com.br/produto/bolo-de-chocolate-sem-gluten-sem-acucar-sem-leite-sem-lactose-belive/)",
               "1 bolo",
-              "R$ 34,90",
+              "R$ 31,90",
               "—"
             ]
           ],
-          "caption": "Preço de lista do site em 03/11, sem o código. A loja vendia a maior parte da linha com desconto de promoção no dia, e o preço riscado da página é o desta tabela."
+          "caption": "Preços do site na consulta de 22/11, sem o MAUAD e sem o desconto do Pix."
         },
         "postParagraphs": [
-          "Conta nossa, pelos preços de lista da tabela: o kit de 10 custa o mesmo que 10 unidades avulsas. O kit só sai mais barato por unidade quando está em promoção, e no dia estava, em toda a linha; confira o preço riscado antes de levar a caixa pensando que ela já é o desconto.",
-          "Atenção ao nome parecido: o Brownie Proteico Double Chocolate \"Sem Glúten Sem Lactose\" não é sem açúcar, e a lista de ingredientes dele começa por açúcar. O sem açúcar é o \"Sem Açúcar Sem Glúten Sem Leite\". O bolinho para criança, de 45 g, tem mais calorias e mais gordura saturada que o bolinho adulto de 40 g, e o Kit Lanche Escolar de 25 bolinhos não traz nenhum kids: são os adultos de 40 g.",
+          "Pelos preços da tabela, o kit de 10 sai cerca de 7% mais barato por unidade que o avulso: no brownie de chocolate, 10 unidades avulsas somam R$ 69,70 e o kit custa R$ 64,82. Vale levar a caixa quando você já ia comprar essa quantidade.",
+          "A linha tem outros sabores, todos também em kit de 10. Os brownies [Fit Chocolate com Coco](https://belivebefree.com.br/produto/brownie-fit-chocolate-com-coco-sem-acucar-sem-gluten-sem-leite-belive/) e [Doce de Leite](https://belivebefree.com.br/produto/brownie-de-doce-de-leite-sem-acucar-sem-gluten-sem-leite-belive/) custam R$ 6,97; o de [Chocolate com Nozes](https://belivebefree.com.br/produto/brownie-sem-acucar-sem-gluten-sem-leite-chocolate-com-nozes-belive/), R$ 7,49; e os proteicos [Caramelo Salgado](https://belivebefree.com.br/produto/brownie-proteico-caramelo-salgado-sem-acucar-sem-gluten-sem-leite-belive/), [Cappuccino](https://belivebefree.com.br/produto/brownie-proteico-cappuccino-sem-acucar-sem-gluten-sem-leite-belive/) e [Chocolate com Avelã](https://belivebefree.com.br/produto/brownie-proteico-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/), R$ 7,97. O [bolinho para criança de morango](https://belivebefree.com.br/produto/bolinho-para-crianca-sabor-morango-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/) custa R$ 6,97, como o de brigadeiro.",
+          "Atenção ao nome parecido: o Brownie Proteico Double Chocolate \"Sem Glúten Sem Lactose\" não é sem açúcar, e a lista de ingredientes dele começa por açúcar. O sem açúcar é o \"Sem Açúcar Sem Glúten Sem Leite\". O bolinho para criança, de 45 g, tem mais calorias e mais gordura saturada que o bolinho adulto de 40 g, e o [Kit Lanche Escolar de 25 bolinhos](https://belivebefree.com.br/produto/kit-lanche-escolar-bolinho-sem-gluten-belive/) não traz nenhum kids: são os adultos de 40 g.",
           "Os doces servem a quem quer um doce pronto, embalado por unidade, sem glúten e sem leite. Não escolha pelo \"sem açúcar\" se o que você controla é carboidrato: o rótulo não separa o maltitol da linha de carboidratos, e a conta para o seu caso é com o nutricionista."
         ],
         "images": [
@@ -195674,28 +195898,28 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Preço de lista"
+            "Preço no site"
           ],
           "rows": [
             [
               "[Panetone Zero Açúcar de Chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/)",
-              "R$ 64,90"
+              "R$ 59,90"
             ],
             [
               "[Panetone Zero Açúcar de Frutas Cristalizadas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/)",
-              "R$ 64,90"
+              "R$ 59,90"
             ],
             [
               "[Kit 3 Chocotones](https://belivebefree.com.br/produto/oferta-especial-kit-3-chocotones-sem-gluten-sem-acucar-sem-leite-belive/)",
-              "R$ 194,70"
+              "R$ 175,90"
             ],
             [
               "[Kit 1 Panetone de Frutas + 2 Chocotones](https://belivebefree.com.br/produto/kit-panetone-chocotones-sem-gluten-zero-acucar-belive/)",
-              "R$ 194,70"
+              "R$ 175,90"
             ],
             [
               "[Kit 3 Panetones de Frutas](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/)",
-              "R$ 194,70"
+              "R$ 175,90"
             ]
           ]
         },
@@ -195713,7 +195937,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Pacote",
-            "Preço de lista",
+            "Preço no site",
             "Combo"
           ],
           "rows": [
@@ -195721,36 +195945,36 @@ export const reviewsData: unknown[] = [
               "[Snack Proteico, 4 sabores](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/)",
               "35 g",
               "R$ 7,97",
-              "16 por R$ 127,52"
+              "[16 por R$ 119,90](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/)"
             ],
             [
               "[Snack de Arroz, 4 sabores](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-snack-de-arroz-belive/)",
               "35 g",
               "R$ 5,19",
-              "20 por R$ 103,80"
+              "[20 por R$ 95,90](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-leite-snacks-de-arroz-belive/)"
             ],
             [
               "[Salgadinho de milho com vitaminas, 4 sabores](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-com-vitaminas-belive-25g/)",
               "25 g",
               "R$ 3,97",
-              "30 por R$ 144,86"
+              "[30 por R$ 131,90](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-sem-lactose-sem-leite-belive-30-unid/)"
             ],
             [
               "[GoodSoy, 7 sabores](https://belivebefree.com.br/produto/goodsoy-snacks-salgadinho-de-queijo-sem-gluten-sem-leite-sem-lactose/)",
               "25 g",
               "R$ 3,97",
-              "20 por R$ 79,40"
+              "[20 por R$ 74,90](https://belivebefree.com.br/produto/combo-salgadinhos-sem-gluten-snacks-goodsoy/)"
             ],
             [
               "[Chips de batata-doce e de mandioca, 5 sabores](https://belivebefree.com.br/produto/chips-de-batata-doce-sem-gluten-belive-temperados-com-sal-rosa-do-himalaia/)",
               "50 g",
               "R$ 7,97",
-              "18 por R$ 143,46"
+              "[18 por R$ 131,90](https://belivebefree.com.br/produto/combo-chips-de-batata-doce-e-mandioca-sem-gluten-com-temperos-naturais-belive/)"
             ]
           ]
         },
         "postParagraphs": [
-          "Por grama de proteína o proteico sai bem mais barato que o de arroz, mesmo custando mais o pacote. A tabela de alérgenos da loja marca derivados de soja nos oito snacks de 35 g e não marca leite em nenhum. Para a lancheira, o pacote de 25 g é a porção pequena; para a bolsa de academia, o proteico; para o petisco de receber gente, o chips. Não escolha o snack proteico esperando menos calorias: ele tem quase as mesmas do de arroz."
+          "O snack proteico tem quatro sabores: [Queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Presunto](https://belivebefree.com.br/produto/snack-proteico-sabor-presunto-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Cebola e Salsa](https://belivebefree.com.br/produto/snack-proteico-sabor-cebola-e-salsa-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) e [Barbecue](https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/). Por grama de proteína o proteico sai bem mais barato que o de arroz, mesmo custando mais o pacote. A tabela de alérgenos da loja marca derivados de soja nos oito snacks de 35 g e não marca leite em nenhum. Para a lancheira, o pacote de 25 g é a porção pequena; para a bolsa de academia, o proteico; para o petisco de receber gente, o chips. Não escolha o snack proteico esperando menos calorias: ele tem quase as mesmas do de arroz."
         ],
         "images": [
           {
@@ -195771,7 +195995,7 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Pacote",
-            "Preço de lista",
+            "Preço no site",
             "Combo de 4 pacotes"
           ],
           "rows": [
@@ -195779,54 +196003,54 @@ export const reviewsData: unknown[] = [
               "[Pão de forma tradicional](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/)",
               "400 g",
               "R$ 22,90",
-              "R$ 91,60"
+              "[R$ 83,90](https://belivebefree.com.br/produto/combo-pao-sem-gluten-sem-lactose-sem-leite-tradicionais-belive/)"
             ],
             [
               "[Pão de forma multigrãos](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-multigraos-belive/)",
               "400 g",
               "R$ 22,90",
-              "R$ 91,60"
+              "[R$ 83,90](https://belivebefree.com.br/produto/combo-pao-sem-gluten-sem-lactose-sem-leite-multigraos-belive/)"
             ],
             [
               "[Pão de forma de batata-doce](https://belivebefree.com.br/produto/pao-de-batata-doce-pao-de-forma-sem-gluten-sem-lactose-sem-leite-belive-400g/)",
               "400 g",
               "R$ 22,90",
-              "R$ 91,60"
+              "[R$ 83,90](https://belivebefree.com.br/produto/combo-pao-de-batata-doce-pao-de-forma-sem-gluten-sem-lactose-sem-leite-belive-4-pacotes/)"
             ],
             [
               "[Pão de batata, pãozinho](https://belivebefree.com.br/produto/pao-de-batata-sem-gluten-sem-leite-sem-lactose-paozinho-belive/)",
               "198 g, cerca de 9",
               "R$ 20,90",
-              "R$ 83,60"
+              "[R$ 76,90](https://belivebefree.com.br/produto/combo-pao-de-batata-sem-gluten-sem-leite-sem-lactose-belive-4-pacotes/)"
             ],
             [
               "[Pão de cebola, pãozinho](https://belivebefree.com.br/produto/pao-de-cebola-sem-gluten-sem-lactose-sem-leite-belive/)",
               "pacote",
               "R$ 20,90",
-              "R$ 83,60"
+              "[R$ 76,90](https://belivebefree.com.br/produto/combo-pao-de-cebola-sem-gluten-sem-lactose-sem-leite-belive/)"
             ],
             [
               "[Pão de cenoura, pãozinho](https://belivebefree.com.br/produto/pao-de-cenoura-sem-gluten-sem-leite-zero-lactose-belive-200g/)",
               "200 g",
               "R$ 20,90",
-              "R$ 83,60"
+              "[R$ 76,90](https://belivebefree.com.br/produto/combo-pao-de-cenoura-sem-gluten-sem-leite-zero-lactose-belive-4-pacotes/)"
             ],
             [
               "[Brioche de coco, pão doce](https://belivebefree.com.br/produto/pao-brioche-de-coco-pao-doce-sem-gluten-sem-leite-zero-lactose-belive-200g/)",
               "200 g, cerca de 8",
               "R$ 20,90",
-              "R$ 83,60"
+              "[R$ 76,90](https://belivebefree.com.br/produto/combo-pao-doce-de-coco-brioche-sem-gluten-sem-leite-zero-lactose-belive-4-pacotes/)"
             ],
             [
               "[Bisnaguinha tradicional](https://belivebefree.com.br/produto/bisnaguinha-sem-gluten-sem-lactose-sem-leite-com-vitaminas-tradicional-belive/)",
               "200 g, cerca de 7",
               "R$ 20,90",
-              "R$ 83,60"
+              "[R$ 76,90](https://belivebefree.com.br/produto/combo-bisnaguinha-sem-gluten-sem-leite-com-vitaminas-tradicional-belive/)"
             ]
           ]
         },
         "postParagraphs": [
-          "O combo de quatro custa, em lista, o mesmo que quatro pacotes avulsos; compare a oferta do dia e a quantidade que você quer. O Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. Cada pão tem tabela nutricional em imagem e ingredientes nas abas da página. O multigrãos leva castanha-do-pará; quem evita castanhas deve ler o aviso de alérgenos do produto escolhido antes de comprar. O pão de forma atende ao uso diário; pãozinho e bisnaguinha são opções para lancheira e café. Compare o total com frete antes de aumentar a quantidade."
+          "O combo de quatro pacotes sai cerca de 8% mais barato que quatro pacotes avulsos; o [combo de seis pãezinhos de batata](https://belivebefree.com.br/produto/combo-pao-de-batata-sem-gluten-sem-leite-sem-lactose-belive-6-pacotes-2/) custa R$ 112,90. O [Kit Pães Completão](https://belivebefree.com.br/produto/kit-paes-sem-gluten-sem-lactose-sem-leite-completao-belive-10-pacotes/), com 11 pacotes variados, custa R$ 182,90. Cada pão tem tabela nutricional em imagem e ingredientes nas abas da página. O multigrãos leva castanha-do-pará; quem evita castanhas deve ler o aviso de alérgenos do produto escolhido antes de comprar. O pão de forma atende ao uso diário; pãozinho e bisnaguinha são opções para lancheira e café. Compare o total com frete antes de aumentar a quantidade."
         ],
         "images": [
           {
@@ -195844,12 +196068,6 @@ export const reviewsData: unknown[] = [
           "Com o código da Belive, todo o site sai 10% mais barato, em todas as formas de pagamento, na primeira compra e nas seguintes, e o desconto soma com as promoções da loja e com os 5% do Pix. No teste do cupom, um carrinho com quatro combos em oferta, de R$ 576,82, caiu para R$ 519,14 com o código e para R$ 493,18 no Pix. O código vai no campo \"Código do cupom\" do carrinho, com o botão \"Aplicar cupom\"; a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
           "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout. O frete grátis considera o subtotal antes do código. Compare o custo do frete com o de acrescentar produtos que você realmente vai consumir.",
           "A Belive também vende no [Mercado Livre](https://meli.la/2xDjP2k), onde o código não vale e o preço é o do anúncio. Compare a mesma quantidade e os mesmos produtos, incluindo frete. No site oficial, aplique o código e a condição de pagamento escolhida antes de comparar o total."
-        ]
-      },
-      {
-        "heading": "Dá para confiar na Belive",
-        "paragraphs": [
-          "Dá. A loja é da NHD Foods Indústria, Comércio, Importação e Exportação Ltda., com CNPJ, razão social, trocas e frete publicados no site e unidades em Uberaba (MG). No Reclame Aqui, o perfil tinha nota 8,1, Ótima, na janela de abril a setembro. Foram 39 reclamações recebidas e 15 avaliadas nessa aba; o índice de resolução era 80% entre as avaliadas. CNPJ, reconhecimento do site oficial, trocas e frete estão em [Belive é confiável?](/reviews/belive-e-confiavel); os períodos e a amostra do Reclame Aqui estão no guia listado ao fim."
         ]
       },
       {
@@ -196290,10 +196508,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O panetone Belive é bom? Pelo rótulo, sem glúten, sem leite de vaca e sem açúcar adicionado nos dois sabores: ingredientes, tabela nutricional, o chocotone e o preço com o código.",
-    "metaDescription": "O código MAUAD dá 10% OFF no panetone da Belive. Chocolate e frutas pelo rótulo: ingredientes, tabela nutricional, o que é o chocotone e o preço dos kits.",
+    "metaDescription": "O cupom Belive MAUAD dá 10% OFF no panetone. Chocolate e frutas pelo rótulo: ingredientes, tabela nutricional, o que é o chocotone e o preço dos kits.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/panetone-belive-e-bom-capa-v2.webp",
@@ -196304,13 +196522,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que decide é o carboidrato, e a conta é com o nutricionista; no site oficial, o código MAUAD dá 10% OFF."
+          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que decide é o carboidrato, e a conta é com o nutricionista; no site oficial, o cupom Belive MAUAD dá 10% OFF."
         ]
       },
       {
         "heading": "O que a Belive vende em panetone, e o que é o chocotone",
         "paragraphs": [
-          "São dois panetones e três kits, e nada mais: não existe chocotone avulso. O panetone de chocolate tem recheio de brownie, gotas de chocolate 42% cacau e cobertura sabor chocolate; o de frutas cristalizadas leva uva-passa e amêndoas laminadas. Os dois vêm em caixa de 420 g. Nos kits de 3, a loja chama o de chocolate de \"chocotone\": Kit 3 Chocotones, Kit 1 Panetone Frutas + 2 Chocotones e Kit 3 Panetones Frutas. Quem procura \"chocotone Belive\" está procurando o panetone de chocolate, e a página dele é a mesma.",
+          "São dois panetones e três kits, e nada mais: não existe chocotone avulso. O panetone de chocolate tem recheio de brownie, gotas de chocolate 42% cacau e cobertura sabor chocolate; o de frutas cristalizadas leva uva-passa e amêndoas laminadas. Os dois vêm em caixa de 420 g. Nos kits de 3, a loja chama o de chocolate de \"chocotone\": [Kit 3 Chocotones](https://belivebefree.com.br/produto/oferta-especial-kit-3-chocotones-sem-gluten-sem-acucar-sem-leite-belive/), [Kit 1 Panetone Frutas + 2 Chocotones](https://belivebefree.com.br/produto/kit-panetone-chocotones-sem-gluten-zero-acucar-belive/) e [Kit 3 Panetones Frutas](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/). Quem procura \"chocotone Belive\" está procurando o panetone de chocolate, e a página dele é a mesma.",
           "Para servir, a marca sugere aquecer a fatia no micro-ondas ou na frigideira. É sugestão da loja, não teste nosso."
         ]
       },
@@ -196395,52 +196613,52 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os kits: quanto custa cada panetone",
         "paragraphs": [
-          "O kit não dá desconto: pelos preços de lista da tabela, ele custa o mesmo que três panetones avulsos. Ele reúne três unidades; o misto traz os dois sabores. A vantagem de frete depende do subtotal e da região."
+          "O kit de três sai um pouco mais barato que três avulsos: R$ 175,90 contra R$ 179,70, uma diferença de R$ 3,80. O misto traz os dois sabores. A vantagem de frete depende do subtotal e da região."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
             "Unidades",
-            "Preço de lista"
+            "Preço na loja"
           ],
           "rows": [
             [
               "[Panetone Zero Açúcar de Chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/)",
               "1, de 420 g",
-              "R$ 64,90"
+              "R$ 59,90"
             ],
             [
               "[Panetone Zero Açúcar de Frutas Cristalizadas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/)",
               "1, de 420 g",
-              "R$ 64,90"
+              "R$ 59,90"
             ],
             [
               "[Kit 3 Chocotones](https://belivebefree.com.br/produto/oferta-especial-kit-3-chocotones-sem-gluten-sem-acucar-sem-leite-belive/)",
               "3 de chocolate",
-              "R$ 194,70"
+              "R$ 175,90"
             ],
             [
               "[Kit 1 Panetone de Frutas + 2 Chocotones](https://belivebefree.com.br/produto/kit-panetone-chocotones-sem-gluten-zero-acucar-belive/)",
               "1 de frutas e 2 de chocolate",
-              "R$ 194,70"
+              "R$ 175,90"
             ],
             [
               "[Kit 3 Panetones de Frutas](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/)",
               "3 de frutas",
-              "R$ 194,70"
+              "R$ 175,90"
             ]
           ],
-          "caption": "Preço de lista do site em 03/11, sem o código. No dia, a loja vendia os cinco com desconto de promoção, e o preço riscado da página é o desta tabela."
+          "caption": "Preço da página de cada produto na consulta de 22/11, sem o cupom. O preço riscado era R$ 64,90 nos panetones avulsos e R$ 194,70 nos kits."
         },
         "postParagraphs": [
-          "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o valor é igual nos dois casos. Para um panetone só, compre o avulso; o kit faz sentido para quem quer três unidades."
+          "Para um panetone só, compre o avulso, a R$ 59,90. O kit faz sentido para quem quer três unidades: por panetone, sai a R$ 58,63, e o misto leva um de frutas e dois de chocolate."
         ]
       },
       {
         "heading": "Quanto custa com o código, e o frete",
         "paragraphs": [
-          "Com o código da Belive, o panetone sai 10% mais barato, em todas as formas de pagamento, e o desconto soma com a promoção do dia e com os 5% do Pix. O código vai no campo \"Código do cupom\" do carrinho, e a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
-          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O frete grátis considera o subtotal antes do código. O kit, nos preços de lista, ultrapassa a faixa de R$ 170 dos cinco estados; confirme o valor atual no carrinho. No Sul e no resto do país, ele pede mais itens no carrinho. Compare o frete com o custo de itens extras antes de aumentar o pedido. Os doces, os pães e os salgadinhos estão no guia [Belive é boa?](/reviews/belive-e-boa), e CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
+          "Com o cupom Belive MAUAD, o panetone sai 10% mais barato, em todas as formas de pagamento. O desconto soma com o do Pix: são dois descontos em sequência, 10% e depois 5% sobre o que sobrou, o que dá 14,5% sobre o valor dos produtos. O código vai no campo \"Código do cupom\" do carrinho, e a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
+          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O frete grátis considera o subtotal antes do código. O mínimo conta antes do cupom: no nosso teste, o Kit 3 Panetones (R$ 175,90) foi a R$ 158,31 com o MAUAD e o frete econômico seguiu grátis na faixa dos cinco estados. No Sul e no resto do país, o kit sozinho não chega ao mínimo, e o carrinho pede mais itens. Compare o frete com o custo de itens extras antes de aumentar o pedido. Os doces, os pães e os salgadinhos estão no guia [Belive é boa?](/reviews/belive-e-boa)."
         ]
       },
       {
@@ -196454,7 +196672,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pelos números da tabela, quem escolhe pela gordura saturada fica no de frutas, porque ele tem pouco mais da metade da do de chocolate com quase a mesma quantidade de carboidrato; quem escolhe pela sobremesa fica no de chocolate, porque é o recheado. Para quem conta carboidrato, nenhum dos dois é a resposta sozinho: são 42 g a 43 g por 100 g, e a conta é com o nutricionista. Se você quer três unidades e os dois sabores, há o kit misto."
         ],
-        "emphasis": "Para quem quer três panetones, o kit com um de frutas e dois de chocolate reúne os dois sabores. Nos preços de lista, custava o mesmo por unidade que os avulsos."
+        "emphasis": "Para quem quer três panetones, o kit com um de frutas e dois de chocolate reúne os dois sabores e sai um pouco mais barato por unidade que os avulsos."
       },
       {
         "heading": "Perguntas frequentes",
@@ -196464,7 +196682,7 @@ export const reviewsData: unknown[] = [
           "A Belive tem panetone sem açúcar? Tem, nos dois sabores: zero açúcar adicionado, adoçados com maltitol e glicosídeos de esteviol; o de frutas tem o açúcar da própria fruta, como mostra o capítulo dele.",
           "O panetone Belive tem leite ou glúten? O rótulo diz \"não contém glúten\" e a marca declara os dois sem leite e sem lactose; os dois levam leite de coco em pó e trazem amêndoas, ovo e soja na lista de alérgenos.",
           "O panetone Belive é saudável? O rótulo não responde isso: ele mostra calorias, carboidratos, açúcares e gordura de cada sabor, e a conta para o seu caso é com o nutricionista ou o médico.",
-          "Onde comprar o panetone Belive? No site oficial, avulso ou em kit de 3, com o código da Belive de 10%; o frete grátis muda por região, como mostra o capítulo do preço."
+          "Onde comprar o panetone Belive? No site oficial, avulso ou em kit de 3, com o cupom Belive MAUAD de 10%; o frete grátis muda por região, como mostra o capítulo do preço."
         ]
       }
     ],
@@ -205857,7 +206075,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja vende",
         "paragraphs": [
-          "A loja vende refeições de despensa, como sopas, macarrões e risotos, além de aveia, mel e kits. As refeições exigem preparo; confira o modo e o tempo na embalagem de cada produto. O quadro mostra as linhas e os rendimentos publicados. Os preços estão na loja e, para a campanha, no artigo de Black Friday entre os relacionados."
+          "A loja vende refeições de despensa, como sopas, macarrões e risotos, em avulsos, packs e kits. A Super Aveia, nos dois sabores, estava esgotada na consulta mais recente e por isso não tem link de compra aqui. As refeições exigem preparo; confira o modo e o tempo na embalagem de cada produto. O quadro mostra as linhas e os rendimentos publicados. Os preços estão na loja e, para a campanha, no artigo de Black Friday entre os relacionados."
         ],
         "comparisonTable": {
           "headers": [
@@ -205867,22 +206085,22 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Sopa avulsa](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (Vovó, Low Carb, Detox, Canja da Mamãe)",
+              "Sopa avulsa ([Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Detox](https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz))",
               "1 sachê",
               "1 litro, 4 porções de 250 g depois de pronta"
             ],
             [
-              "[Pack de sopa](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (Vovó, Low Carb, Canja da Mamãe)",
+              "Pack de sopa ([Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz))",
               "10 sachês",
               "10 porções, uma por sachê"
             ],
             [
-              "[Risoto](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (Funghi, Al Mare, Queijo)",
+              "Risoto ([Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz))",
               "1 embalagem",
               "1 refeição, com 20 g de proteína"
             ],
             [
-              "[Mac](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (Queijo, Alfredo, Bolonha, Caipira)",
+              "Mac ([Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz))",
               "1 embalagem",
               "1 refeição, com 20 g de proteína"
             ],
@@ -205918,8 +206136,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega e frete",
         "paragraphs": [
-          "O prazo só fecha no checkout, pelo CEP. Depois da aprovação do pagamento, a loja leva até 3 dias úteis para preparar e postar o pedido, e o transporte, por transportadora contratada, soma a isso. Na Black, o frete grátis depende de um mínimo de compra que muda por estado, e o carrinho mostra a meta da sua região.",
-          "Esse é o ponto que mais pesa. No Reclame Aqui, o problema mais citado no perfil da HolyFoods é \"produto não recebido\", e as reclamações recentes falam de atraso, pedido marcado como entregue sem ter chegado, mercadoria faltando e cancelamento com reembolso. O que fazer:"
+          "O prazo só fecha no checkout, pelo CEP. Depois da aprovação do pagamento, a loja leva até 3 dias úteis para preparar e postar o pedido, e o transporte, por transportadora contratada, soma a isso. Na Black, o frete grátis depende de um mínimo de compra que muda por estado: R$ 199 em SP, R$ 249 em RJ, MG, DF e PR e R$ 289 em GO, SC, ES e RS; nos outros estados, o frete sai pelo CEP no checkout. O pagamento é por Pix ou cartão de crédito, com parcelamento em até 3x sem juros no cartão; hoje a loja não mostra desconto extra no Pix.",
+          "Esse é o ponto que mais pesa. No Reclame Aqui, o problema mais citado na aba Geral do perfil da HolyFoods, que soma até 3 anos, é \"produto não recebido\", e as reclamações recentes falam de atraso, pedido marcado como entregue sem ter chegado, mercadoria faltando e cancelamento com reembolso. O que fazer:"
         ],
         "bullets": [
           "Depois de pagar, guarde o número do pedido e use o \"Rastrear pedido\", no menu do site.",
@@ -205938,13 +206156,13 @@ export const reviewsData: unknown[] = [
           "**Garantia de satisfação, 30 dias corridos.** Vale mesmo com uma unidade aberta ou consumida, desde que as demais estejam fechadas. É sem custo, com reembolso integral dos produtos devolvidos, incluindo a unidade que você provou. O pedido também vai por e-mail."
         ],
         "postParagraphs": [
-          "A condição que muda a compra é a das unidades fechadas: se vai provar, abra uma só e guarde as outras lacradas até decidir. O reembolso volta pelo meio de pagamento da compra: no Pix, em até 7 dias úteis depois de validada a devolução; no cartão, pode aparecer em até duas faturas. Se preferir trocar, o novo item sai em até 30 dias corridos depois de conferida a devolução."
+          "A garantia da loja se soma ao direito legal de 7 dias. A condição que muda a compra é a das unidades fechadas: se vai provar, abra uma só e guarde as outras lacradas até decidir. O reembolso volta pelo meio de pagamento da compra: no Pix, em até 7 dias úteis depois de validada a devolução; no cartão, pode aparecer em até duas faturas. Se preferir trocar, o novo item sai em até 30 dias corridos depois de conferida a devolução."
         ]
       },
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "Em 05/11/2026, a HolyFoods tinha nota 7,5, Boa, na janela de maio a outubro. Das 251 reclamações recebidas, 136 tinham avaliação; entre as avaliadas, 91,1% foram resolvidas e 51,9% declararam intenção de voltar a fazer negócio. Todas as recebidas tinham resposta. Em 2025, a nota era 8,1, Ótima. Os períodos estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
+          "Na consulta de novembro de 2026, a HolyFoods tinha nota 7,6, reputação Boa, na aba de 6 meses. Das 252 reclamações recebidas, 141 tinham avaliação; entre as avaliadas, 91,4% foram resolvidas e 52,1% declararam intenção de voltar a fazer negócio. Todas as recebidas nessa aba tinham resposta. Em 2025, a nota era 8,1, Ótima. Os períodos estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -205957,14 +206175,14 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a HolyFoods e pode receber comissão pelas compras com o código EMCASA, que dá 15% OFF em todo o site da loja online. As condições vigentes estão na página do [cupom HolyFoods](/cupons/holyfoods).",
-          "O código entra só na tela \"Finalizar compra\", em \"Inserir cupom de desconto\", e não no carrinho. O link da parceria, que leva ao site da loja, não aplica o código: copie o EMCASA e cole nessa tela. O passo a passo com as telas está no artigo de como usar o cupom, entre os relacionados.",
+          "O código entra só na tela \"Finalizar compra\", em \"Inserir cupom de desconto\", e não no carrinho. O link da parceria, que leva ao site da loja, não aplica o código: copie o EMCASA e cole nessa tela. Se aparecer outro código já aplicado no resumo, remova-o e cole o EMCASA. O passo a passo com as telas está no artigo de como usar o cupom, entre os relacionados.",
           "A loja está com a Black da Holy, 30% de desconto no site todo, enquanto a campanha estiver no ar. Em carrinhos de sopas, risotos e macarrões avulsos e em packs, o EMCASA entrou por cima dos 30% e tirou exatos 15% do total. O kit da Black entra na sacola como itens avulsos, e fora da campanha a loja tem desconto progressivo por quantidade; nesses dois casos, confira a linha de desconto antes de pagar, e se o EMCASA não aparecer, não conte com ele. Os 30% e os kits estão no [artigo da Black Friday da HolyFoods](/reviews/black-friday-holyfoods)."
         ]
       },
       {
         "heading": "HolyFoods é confiável? O que pesa",
         "paragraphs": [
-          "Pelos dados públicos, dá para comprar: o CNPJ é ativo e igual ao do perfil no Reclame Aqui, o site e o checkout são da própria loja, a política de reembolso está escrita e a garantia de 30 dias aceita unidade provada. Do lado do Reclame Aqui, a empresa responde a todas as reclamações e resolve cerca de nove em cada dez das avaliadas nos últimos 6 meses.",
+          "Pelos dados públicos, dá para comprar: o CNPJ é ativo e igual ao do perfil no Reclame Aqui, o site e o checkout são da própria loja, a política de reembolso está escrita e a garantia de 30 dias aceita unidade provada. Do lado do Reclame Aqui, a empresa responde a todas as reclamações e resolve cerca de nove em cada dez das avaliadas nos últimos 6 meses (91,4%).",
           "O ponto de atenção é a entrega: a queixa mais citada é pedido que não chegou, e a nota de 2025 para cá caiu. Se o prazo importa, compre com folga e use o rastreio. Este artigo fala da loja, não do cardápio: o que comer, e quanto, é conversa com o nutricionista.",
           "Se for comprar, entre pelo holyfoods.com.br, confira o CNPJ no rodapé, guarde o número do pedido e veja o desconto antes de pagar."
         ]
@@ -206014,9 +206232,11 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-holyfoods"
       }
     ],
-    "youtubeUrl": "https://youtube.com/shorts/cSGGCKqv4VU"
+    "youtubeUrl": "https://youtube.com/shorts/cSGGCKqv4VU",
+    "updatedAt": "2026-11-22"
   },
   {
+    "bodyDatesReason": "reclame-aqui",
     "id": 827,
     "slug": "holyfoods-reclame-aqui-nota-reputacao",
     "title": "HolyFoods no Reclame Aqui: nota, reputação e do que as pessoas reclamam",
@@ -206031,9 +206251,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "HolyFoods no Reclame Aqui: reputação Boa nos últimos 6 meses, nota 7,5 e 91,1% das avaliadas resolvidas. Do que as pessoas reclamam e o que fazer se o pedido der problema.",
-    "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. No Reclame Aqui: reputação Boa, nota 7,5, 91,1% das avaliadas resolvidas e as queixas mais comuns.",
+    "description": "HolyFoods no Reclame Aqui: reputação Boa nos últimos 6 meses, nota 7,6 e 91,4% das avaliadas resolvidas. Veja as queixas mais comuns e o que conferir se o pedido atrasar.",
+    "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. No Reclame Aqui: reputação Boa, nota 7,6, 91,4% das avaliadas resolvidas e as queixas mais comuns.",
     "publishedAt": "5 de novembro de 2026",
+    "updatedAt": "2026-11-22",
     "publishedAtISO": "2026-11-05",
     "draft": false,
     "isNew": true,
@@ -206045,20 +206266,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com atenção à entrega: na aba de seis meses, a HolyFoods tem reputação Boa, nota 7,5, todas as reclamações respondidas e 91,1% das avaliadas resolvidas. Pedido não recebido é a maior categoria de reclamações do perfil. Na loja online, o EMCASA dá 15% OFF em todo o site."
+          "Sim, com atenção à entrega: nos 6 meses até outubro de 2026, a HolyFoods tem reputação Boa, nota 7,6, 100% das reclamações respondidas e 91,4% de solução entre as avaliadas. O principal ponto de atenção é a entrega: produto não recebido lidera os problemas da aba Geral. O EMCASA dá 15% OFF no site da loja."
         ]
       },
       {
-        "heading": "Qual perfil olhar",
+        "heading": "A nota e os indicadores do período",
         "paragraphs": [
-          "No Reclame Aqui, a busca por \"holyfoods\", tudo junto, não acha nada; a busca por \"holy foods\", com espaço, acha. O perfil tem o nome HolyFoods, mas o endereço da página é empresa/holysoup, e é esse mesmo: o CNPJ dele é o 50.874.415/0001-62, o mesmo que aparece no rodapé do site da loja.",
-          "Se o CNPJ bate, você está no lugar certo. A empresa, o site oficial e a garantia estão em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel). Aqui ficam os números das reclamações."
-        ]
-      },
-      {
-        "heading": "Os números da HolyFoods",
-        "paragraphs": [
-          "Em 05/11/2026, a aba de 6 meses mostrava o atendimento mais recente. As outras três abas são períodos mais longos e sobrepostos, então compare os indicadores sem tratá-los como grupos independentes."
+          "A tabela reúne as quatro abas do [perfil da HolyFoods no Reclame Aqui](https://www.reclameaqui.com.br/empresa/holysoup/), lidas em novembro de 2026. As janelas se sobrepõem: os 6 meses estão dentro dos 12, e o ano de 2025 e a aba Geral também cobrem períodos em comum. Por isso, compare as colunas sem tratá-las como grupos independentes."
         ],
         "comparisonTable": {
           "headers": [
@@ -206078,52 +206292,59 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nota",
-              "7,5",
-              "7,5",
+              "7,6",
+              "7,6",
               "8,1",
               "7,9"
             ],
             [
               "Reclamações recebidas",
-              "251",
-              "524",
+              "252",
+              "525",
               "292",
-              "1.007"
+              "1.015"
             ],
             [
               "Respondidas",
               "100%",
               "100%",
               "100%",
-              "100%"
+              "99,8%"
             ],
             [
-              "Resolvidas entre as avaliadas",
-              "91,1%",
-              "87%",
+              "Aguardando resposta",
+              "0",
+              "0",
+              "0",
+              "2"
+            ],
+            [
+              "Avaliadas",
+              "141",
+              "313",
+              "218",
+              "675"
+            ],
+            [
+              "Resolvidas, entre as avaliadas",
+              "91,4%",
+              "87,2%",
               "88,1%",
-              "87,8%"
+              "87,7%"
             ],
             [
-              "Intenção de voltar, entre as avaliadas",
-              "51,9%",
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "52,1%",
               "56,7%",
               "67,9%",
-              "63,3%"
-            ],
-            [
-              "Reclamações avaliadas",
-              "136",
-              "308",
-              "218",
-              "666"
+              "63,2%"
             ],
             [
               "Nota média do consumidor",
-              "5,93",
-              "5,98",
+              "5,96",
+              "6",
               "7,11",
-              "6,6"
+              "6,59"
             ],
             [
               "Tempo médio de resposta",
@@ -206133,46 +206354,54 @@ export const reviewsData: unknown[] = [
               "2 dias e 5 h"
             ]
           ],
-          "caption": "Abas do perfil da HolyFoods no Reclame Aqui em 05/11. \"2025\" é o ano inteiro; \"Geral\" é todo o histórico do perfil."
+          "caption": "HolyFoods no Reclame Aqui por aba. 6 meses: de maio a outubro de 2026. 12 meses: de novembro de 2025 a outubro de 2026. 2025: o ano inteiro. Geral: até 3 anos, de novembro de 2023 a novembro de 2026. Resolvidas e voltariam a fazer negócio são calculados sobre as avaliadas."
         },
         "postParagraphs": [
-          "Na aba de seis meses, 136 das 251 recebidas tinham avaliação. A resolução, a intenção de voltar e a nota do consumidor se referem a quem avaliou. A nota de reputação define a faixa Boa; a nota do consumidor é uma medida diferente, mostrada na tabela."
+          "As 252 reclamações dos 6 meses, as 525 de 12 meses e as 1.015 da aba Geral são números absolutos. Sem o total de pedidos da loja, eles não viram taxa de reclamação e não dizem se são muitas ou poucas."
         ]
       },
       {
-        "heading": "O que os períodos mostram",
+        "heading": "O que a nota e a faixa medem (e o que não medem)",
         "paragraphs": [
-          "Os números recentes são melhores em resolução e piores no resto. A aba de 6 meses tem a maior fatia de reclamações resolvidas do perfil, mas também a menor de gente que voltaria a comprar e a menor nota do consumidor.",
-          "Resolvida e \"voltaria\" são perguntas diferentes feitas a quem avalia a reclamação: uma pergunta se o caso foi resolvido; a outra, se a pessoa compraria de novo. Juntas, dizem que muita reclamação se encerra, mas nem sempre a pessoa sai satisfeita com o caminho.",
-          "Os últimos 6 meses já juntam quase tantas reclamações quanto 2025 inteiro, a reputação desceu um degrau, de Ótima para Boa, e caiu a fatia de quem voltaria a comprar. A tabela não explica o porquê. Para quem compra hoje, vale a aba recente; o ano passado mostra que a loja já teve números melhores."
+          "A nota do Reclame Aqui mede como a empresa atende as reclamações registradas na plataforma. Ela não mede o sabor, a composição nem a qualidade dos produtos, e muda com o tempo: confira o perfil no dia em que for comprar.",
+          "Boa e Ótima são as faixas que a plataforma dá à nota do período. A HolyFoods está na Boa nos 6 meses, nos 12 meses e na aba Geral, e na Ótima em 2025. O perfil não exibe o selo Empresa Verificada nem o RA1000: é a ausência de um selo, não uma nota baixa.",
+          "A nota 7,6 é a que a plataforma calcula para o período. A nota média do consumidor, 5,96 nos 6 meses, é outra coisa: é a média que as pessoas deram ao atendimento ao avaliar a reclamação, depois de finalizada. Resolvidas e voltariam a fazer negócio valem só para as avaliadas, 141 nos 6 meses, e não para todos os clientes da loja."
         ]
       },
       {
-        "heading": "Do que as pessoas reclamam",
+        "heading": "Pontos positivos identificados",
         "paragraphs": [
-          "Produto não recebido é a maior categoria do perfil: 29% dos principais problemas, que o Reclame Aqui conta numa janela de até 3 anos, mais longa que a aba de 6 meses. O resto se espalha em categorias menores.",
-          "Lendo os títulos das reclamações mais recentes, os temas se repetem em três grupos: entrega (pedido que não chegou, atraso, pedido que não foi despachado, pedido marcado como entregue pela transportadora sem ter chegado), mercadoria faltando na caixa e pedido de cancelamento com reembolso por falta de entrega. Os títulos mostram o assunto; não dizem quantas pessoas se queixam de cada coisa.",
-          "Regra prática, sem teste nosso, para um pedido de sachês e embalagens fechadas: fotografe a caixa ainda fechada e confira as quantidades antes de guardar na despensa. É a prova que ajuda quando falta item."
-        ]
-      },
-      {
-        "heading": "Como a loja responde",
-        "paragraphs": [
-          "Responde a tudo: nas quatro abas, 100% das reclamações têm resposta da loja. O tempo médio nos últimos 6 meses é de 1 dia e 15 horas, mais lento que em 2025 e mais rápido que na aba de 12 meses.",
-          "A resposta da empresa e a resolução avaliada pelo consumidor são indicadores diferentes. Na janela recente da tabela, a resolução entre avaliadas era mais alta; a intenção de voltar e a nota do consumidor eram menores que nas outras abas."
-        ]
-      },
-      {
-        "heading": "Se o pedido der problema",
-        "paragraphs": [
-          "Comece pelo rastreio e pelo atendimento da loja, com o número do pedido em mãos. Separe o problema de entrega de uma devolução de produto já recebido:"
+          "O perfil mostra estes pontos a favor da HolyFoods:"
         ],
         "bullets": [
-          "**1. Rastreie o pedido.** No menu do site há o \"Rastrear pedido\", que acompanha a entrega. A loja informa: a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o prazo do transporte soma a isso; o prazo e o frete aparecem no checkout, pelo CEP.",
-          "**2. Fale no WhatsApp da loja,** de segunda a sexta, das 9h às 18h.",
-          "**3. Escreva para contato@holyfoods.com.br** com o número do pedido e, se houve avaria, item diferente ou falta, com fotos. Se a embalagem chegar claramente violada, dá para recusá-la na entrega.",
-          "**4. Para produto recebido, veja a devolução aplicável.** O arrependimento vale 7 dias depois do recebimento; a garantia de satisfação vale 30 dias corridos, com uma unidade aberta se as demais estiverem fechadas. Para pedido não entregue, informe a ocorrência ao atendimento em vez de aguardar esses prazos.",
-          "**5. Se o atendimento não resolver, registre a reclamação.** Guarde número do pedido, rastreio e conversas para descrever o ocorrido."
+          "Reputação Boa e nota 7,6 nos 6 meses, e reputação Ótima com nota 8,1 em 2025.",
+          "100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025, sem nenhuma aguardando. Na aba Geral, são 99,8% respondidas e 2 aguardando resposta.",
+          "Tempo médio de resposta de 1 dia e 15 horas nos 6 meses e de 1 dia e 9 horas em 2025.",
+          "Entre as 141 reclamações avaliadas nos 6 meses, 91,4% aparecem como resolvidas. Esse índice vale só para as avaliadas.",
+          "Na aba Geral, 63,2% de quem avaliou diz que voltaria a fazer negócio, também entre as avaliadas.",
+          "O perfil informa que a empresa está no Reclame Aqui há 5 anos e a coloca em 9º lugar no ranking de melhor empresa da categoria Alimentos Diet e Light."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "Nos 6 meses, a nota (7,6), a nota média do consumidor (5,96) e a parcela que voltaria a fazer negócio (52,1% das avaliadas) ficam abaixo das de 2025 (8,1, 7,11 e 67,9%). A tabela mostra a queda, mas não explica o motivo.",
+          "Os principais problemas vêm de outra aba. Na Geral, que soma até 3 anos, o perfil lista: problema Produto não recebido, com 29,26%; produto Outro Tipo de produto/Serviço, com 9,46%; e categoria Não categorizado, com 8,87%. Esses percentuais são da aba Geral e não se aplicam aos 6 meses. O Reclame Aqui publica só o agrupamento, e não quantas pessoas se queixam de cada coisa dentro dele.",
+          "Para quem compra, o recado prático é a entrega: confira o rastreio e as quantidades ao receber, como no próximo capítulo."
+        ]
+      },
+      {
+        "heading": "Como a loja responde e o que conferir antes de comprar",
+        "paragraphs": [
+          "O perfil tem o nome HolyFoods, mas o endereço da página é empresa/holysoup. O CNPJ dele é o 50.874.415/0001-62, o mesmo do rodapé do site da loja. Se a busca por \"holyfoods\" não achar, tente \"holy foods\", com espaço. Quem a loja é, o site oficial e a garantia estão em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel).",
+          "Para um pedido com problema, o caminho começa na própria loja, com o número do pedido em mãos:"
+        ],
+        "bullets": [
+          "**Confira o rastreio.** No menu do site há o \"Rastrear pedido\". A loja informa que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout.",
+          "**Fale com a loja.** Os canais são o WhatsApp, o e-mail contato@holyfoods.com.br e o telefone (11) 4003 8025. Informe o número do pedido e, se houve avaria, item diferente ou falta, mande fotos.",
+          "**Confira a caixa ao receber.** Veja a embalagem, os itens e as quantidades. Se a caixa chegar claramente violada ou avariada e for seguro, recuse-a na entrega e avise a loja.",
+          "**Guarde as provas.** Número do pedido, rastreio, fotos da caixa fechada e das quantidades e as conversas com a loja.",
+          "**Para produto recebido, veja a devolução.** O arrependimento vale 7 dias a partir do recebimento, pelo e-mail da loja com o número do pedido. A garantia de satisfação da loja vale 30 dias corridos, mesmo com uma unidade aberta, e se soma ao direito dos 7 dias."
         ],
         "images": [
           {
@@ -206185,32 +206414,23 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Parceria e cupom",
+        "heading": "Vale a pena comprar na HolyFoods?",
         "paragraphs": [
+          "De um lado, reputação Boa, todas as reclamações dos 6 meses respondidas e 91,4% de solução entre as avaliadas. Do outro, a entrega concentra os problemas da aba Geral, e a nota e a vontade de voltar a comprar caíram em relação a 2025. Dá para comprar com o pedido acompanhado de perto.",
           "O Em Casa com Cecília tem parceria com a HolyFoods e pode receber comissão pelas compras feitas com o EMCASA, o [cupom HolyFoods](/cupons/holyfoods). Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
-          "O cupom dá 15% OFF em todo o site e entra na tela \"Finalizar compra\", no campo \"Inserir cupom de desconto\", não no carrinho. Nos nossos testes, com avulsos e packs que já estavam com os 30% da Black da Holy, o EMCASA entrou por cima da promoção. O kit entra na sacola como os produtos avulsos; de todo jeito, confira a linha de desconto no checkout antes de pagar. O link da parceria não aplica o código: copie o EMCASA e cole na tela de finalizar. O passo a passo está em [Cupom HolyFoods: como usar](/reviews/cupom-holyfoods-como-usar)."
-        ]
-      },
-      {
-        "heading": "Dá para confiar na HolyFoods: o veredito",
-        "paragraphs": [
-          "Dá, com o pedido acompanhado de perto. O perfil está na faixa Boa e responde a todas as reclamações. Entre as avaliadas da aba de seis meses, cerca de nove em cada dez foram resolvidas. A entrega é o principal ponto de atenção, e nota e intenção de voltar estão abaixo das de 2025. A tabela do início traz cada período.",
+          "O cupom dá 15% OFF no site todo e entra só na tela \"Finalizar compra\", em \"Inserir cupom de desconto\", não no carrinho. O link da parceria não aplica o código: copie o EMCASA e cole nessa tela. O passo a passo está em [Cupom HolyFoods: como usar](/reviews/cupom-holyfoods-como-usar).",
           "A Cecília comprou um kit da HolyFoods pelo TikTok Shop antes da parceria: a abertura da caixa e o risoto feito em casa estão no vídeo do fim do artigo."
-        ],
-        "bullets": [
-          "O que conferir no dia: o perfil empresa/holysoup com o nome HolyFoods, o CNPJ 50.874.415/0001-62 e a aba de 6 meses.",
-          "O que guardar: número do pedido, fotos da caixa e das quantidades ao receber e as conversas com a loja.",
-          "Se o atendimento não resolver: registre o ocorrido com número do pedido, rastreio e conversas guardadas."
         ],
         "emphasis": "Loja que responde a tudo e resolve a maior parte das avaliadas passa no teste. O cuidado que fica é com a entrega: acompanhe o pedido do começo ao fim."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "HolyFoods é confiável no Reclame Aqui? Sim, com atenção à entrega: a reputação da aba de seis meses é Boa e a loja responde a todas as reclamações. Os números de cada período estão no capítulo \"Os números da HolyFoods\".",
-          "O perfil holysoup no Reclame Aqui é o da HolyFoods? Sim: o endereço do perfil é empresa/holysoup, mas o nome na página é HolyFoods e o CNPJ é o mesmo do rodapé do site. Para achar, busque \"holy foods\", com espaço.",
-          "O que fazer se o pedido da HolyFoods não chegou? Consulte o rastreio e fale com a loja pelo WhatsApp ou por contato@holyfoods.com.br, com o número do pedido. Se não resolver, guarde os registros para reclamar; a garantia de satisfação trata de produto recebido.",
-          "Quanto tempo a HolyFoods leva para responder no Reclame Aqui? Na aba de seis meses, a média é de 1 dia e 15 horas, e isso não é um prazo garantido."
+          "HolyFoods é confiável no Reclame Aqui? Dá para comprar, com atenção à entrega: a reputação é Boa nos 6 meses, a loja responde a quase todas as reclamações e produto não recebido lidera os problemas da aba Geral.",
+          "Qual a nota da HolyFoods no Reclame Aqui? Nos 6 meses e nos 12 meses, 7,6; em 2025, 8,1; na aba Geral, 7,9. A nota muda com o tempo, então confira o perfil.",
+          "A HolyFoods tem selo Empresa Verificada ou RA1000? O perfil não mostra nenhum dos dois. A reputação aparece como Boa nos 6 meses e como Ótima em 2025.",
+          "A HolyFoods responde e resolve as reclamações? Respondeu 100% nos 6 meses, em média em 1 dia e 15 horas. Entre as 141 avaliadas, 91,4% aparecem como resolvidas; o índice vale só para as avaliadas.",
+          "O que fazer se o pedido da HolyFoods não chegou? Consulte o rastreio e fale com a loja pelo WhatsApp ou por contato@holyfoods.com.br, com o número do pedido. A garantia de 30 dias trata de produto já recebido."
         ]
       }
     ],
@@ -206219,10 +206439,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você acompanha o pedido do pagamento ao recebimento e guarda o número, as fotos e as conversas com a loja.",
-        "O que pesa para você é a loja responder e encerrar a maioria das reclamações."
+        "O que pesa para você é a loja responder e encerrar a maioria das reclamações avaliadas."
       ],
       "skipIf": [
-        "Um atraso ou uma falta de item estraga a compra, porque entrega é a maior queixa do perfil.",
+        "Um atraso ou uma falta de item estraga a compra, porque entrega concentra os problemas do perfil.",
         "A tendência dos últimos meses pesa mais para você do que o histórico: nota e vontade de voltar caíram em relação a 2025."
       ]
     },
@@ -206285,6 +206505,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o EMCASA",
         "paragraphs": [
           "Se a compra é no site oficial da HolyFoods, o [cupom HolyFoods](/cupons/holyfoods) da parceria é o EMCASA: 15% OFF em todo o site, de sopa e macarrão a risoto e pack. A HolyFoods vende refeições para preparar em casa, que se guardam fechadas na despensa; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
+          "O cupom vale para tudo o que a loja vende: as sopas [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os macs [Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os risotos [Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e os packs de sopa, como o [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e o [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz). Na consulta mais recente, cada avulso estava por R$ 13,93 e cada pack por R$ 41,93, já com os 30% da campanha da loja.",
           "Quem busca cupom de primeira compra encontra aqui o nosso código e nenhum outro: o EMCASA é o que a parceria dá, e é o que a linha de desconto vai mostrar. O botão desta página leva à loja, mas não aplica o código: você copia o EMCASA e digita na hora de finalizar.",
           "O desconto sai do preço que está no carrinho. Nos dois testes da Black, os 15% foram aplicados ao preço que já tinha a promoção da loja. Confira o valor descontado e o total antes de pagar.",
           "No vídeo do fim do artigo, a Cecília prepara o Mac Queijo na panela."
@@ -206300,14 +206521,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2. Digite o EMCASA e clique em \"Adicionar\"",
         "paragraphs": [
-          "Na tela da loja, procure \"Inserir cupom de desconto\". Ao clicar, abre o campo \"Código do cupom\": digite EMCASA, sem espaço antes ou depois, e clique em \"Adicionar\". Copiar pelo botão desta página evita erro de digitação."
+          "Na tela da loja, procure \"Inserir cupom de desconto\" no resumo do pedido. Ao clicar, abre o campo \"Código do cupom\": digite EMCASA, sem espaço antes ou depois, e clique em \"Adicionar\". Copiar pelo botão desta página evita erro de digitação. Não use o campo \"Cartão-presente\": ele não aceita o EMCASA.",
+          "Se aparecer outro código já aplicado no resumo, remova-o e cole o EMCASA. No nosso teste mais recente, a tela não trazia nenhum código pré-preenchido; em outro, a loja abriu com um cupom de campanha no campo, e foi preciso tirá-lo."
         ]
       },
       {
         "heading": "3. Confira o desconto antes de pagar",
         "paragraphs": [
           "Confira três coisas no resumo do pedido: a linha de desconto (nos nossos testes, \"Cupom de desconto\" ou \"Descontos\"), o valor de cada item e o total. Quando o código entra, a linha mostra 15% sobre os produtos e o total acompanha. Se a linha não aparece, o preço é o de antes: volte ao passo 2 antes de pagar."
-        ]
+        ],
+        "image": "/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp",
+        "imageAlt": "Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado",
+        "imageCaption": "O EMCASA aplicado no resumo da compra da HolyFoods, num pedido de teste. Os valores mudam conforme o seu pedido.",
+        "imageAspectRatio": 1.341,
+        "imageFit": "contain"
       },
       {
         "heading": "Por que o carrinho não aceita o código",
@@ -206367,7 +206594,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis e kits",
         "paragraphs": [
-          "O cupom não dá frete grátis: o frete grátis é da loja, por um mínimo de cada região, e o EMCASA só tira 15% dos produtos. A loja informa: na Black, o frete é grátis a partir de R$ 199 em SP; R$ 249 em RJ, MG, DF e PR; R$ 289 em GO, SC, ES e RS. Nos demais estados, o frete e o prazo aparecem no checkout. O mínimo conta o preço depois dos descontos dos produtos. Se o seu carrinho está perto do mínimo, olhe a linha do frete no resumo depois de aplicar o código: é ali que a loja mostra se o pedido ganhou o frete.",
+          "O cupom não dá frete grátis: o frete grátis é da loja, por um mínimo de cada região, e o EMCASA só tira 15% dos produtos. A loja informa: na Black, o frete é grátis a partir de R$ 199 em SP; R$ 249 em RJ, MG, DF e PR; R$ 289 em GO, SC, ES e RS. Nos demais estados, o frete e o prazo aparecem no checkout. Não conseguimos confirmar se o mínimo conta o valor antes ou depois do EMCASA: o frete só aparece depois de CPF e endereço, e o valor para o seu CEP está no checkout.",
           "Os kits da Black (Descoberta, Rotina Resolvida e Despensa Cheia) não têm página de produto: o botão da home põe cada item avulso no carrinho. O segundo teste da tabela tem exatamente a composição e o preço do Despensa Cheia, e o código entrou. Os outros dois kits entram do mesmo jeito, como itens avulsos, mas não passaram pelo nosso checkout: a linha de desconto é quem confirma."
         ],
         "images": [
@@ -206378,6 +206605,13 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
           }
+        ]
+      },
+      {
+        "heading": "Pix e parcelamento",
+        "paragraphs": [
+          "A HolyFoods aceita Pix e cartão de crédito. No cartão, o parcelamento vai até 3x sem juros: num pedido de R$ 205,80, por exemplo, o checkout mostrou 3x de R$ 68,60 sem juros.",
+          "Hoje a loja não mostra desconto extra no Pix, então não some um Pix ao EMCASA: o desconto do seu pedido é o dos 15% do cupom, mais a promoção que já estiver no preço. Se a loja passar a mostrar um desconto no Pix, ele aparece na hora do pagamento, e a conta vale o que o checkout mostrar."
         ]
       },
       {
@@ -206393,9 +206627,11 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Digitou no carrinho.** O carrinho lateral não tem campo de cupom. Vá em \"Finalizar compra\" e use \"Inserir cupom de desconto\".",
+          "**Colou no campo \"Cartão-presente\".** Ele só aceita cartão-presente. O EMCASA vai em \"Inserir cupom de desconto\", no campo \"Código do cupom\".",
           "**Esqueceu de clicar em \"Adicionar\".** Só digitar não basta: o desconto aparece no resumo depois do clique.",
           "**Código com espaço.** Digite EMCASA sem espaço antes ou depois. O botão de copiar desta página evita isso.",
           "**Entrou pelo link da parceria e esperou o código pronto.** O link abre a loja, mas não aplica o cupom: copie o EMCASA e digite no checkout.",
+          "**Outro código já aplicado.** Se o resumo mostrar um cupom que você não digitou, remova-o e cole o EMCASA em \"Código do cupom\".",
           "**Aviso de uso.** Se o checkout mostrar aviso de que o cupom já foi usado, a recusa vem da loja: não prometemos que o código vale mais de uma vez no mesmo e-mail.",
           "**Loja física, revenda ou Mercado Livre.** O código é da loja online."
         ],
@@ -206407,7 +206643,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quando o cupom vale a pena",
         "paragraphs": [
           "Na compra pelo site oficial, o EMCASA dá 15% de desconto sobre os produtos. Aplique na tela de finalizar e confira o desconto. Os preços e os kits da campanha estão no [guia de Black Friday da HolyFoods](/reviews/black-friday-holyfoods).",
-          "Passe do cupom quando a compra é na loja física, na revenda ou no Mercado Livre, ou quando o checkout não mostra a linha do desconto. Antes de comprar pela primeira vez, leia [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel), com a empresa, a garantia de 30 dias e a reputação no Reclame Aqui."
+          "Passe do cupom quando a compra é na loja física, na revenda ou no Mercado Livre, ou quando o checkout não mostra a linha do desconto. Para quem compra pela primeira vez, a garantia de satisfação de 30 dias da loja aceita uma unidade aberta, desde que as demais estejam fechadas."
         ],
         "emphasis": "Nos dois testes, o EMCASA descontou R$ 10,47 e R$ 50,19. Para o seu pedido, compare o total com produtos e frete depois de aplicar o código."
       },
@@ -206417,7 +206653,9 @@ export const reviewsData: unknown[] = [
           "Tem cupom de primeira compra na HolyFoods? O nosso é o EMCASA: 15% OFF em todo o site, digitado na tela \"Finalizar compra\". Não prometemos outro código; o passo a passo está acima.",
           "O cupom EMCASA soma com a Black da HolyFoods? Nos nossos testes, sim: o código entrou sobre os 30% da campanha. Os números estão em \"Onde o código valeu\".",
           "O EMCASA vale nos kits da HolyFoods? Os kits entram no carrinho como itens avulsos, e um carrinho com a composição do Despensa Cheia aceitou o código. Confira a linha de desconto no checkout.",
+          "O que faço se já aparecer outro cupom no checkout? Remova o código que estiver aplicado, abra \"Inserir cupom de desconto\", cole o EMCASA em \"Código do cupom\" e clique em \"Adicionar\".",
           "Onde coloco o cupom na HolyFoods? Na tela \"Finalizar compra\", em \"Inserir cupom de desconto\". O carrinho lateral não tem esse campo.",
+          "Posso pagar no Pix ou parcelar na HolyFoods? A loja aceita Pix e cartão de crédito, com parcelamento em até 3x sem juros no cartão. Hoje ela não mostra desconto extra no Pix, então não conte com um Pix somado ao EMCASA.",
           "O cupom vale na loja física ou no Mercado Livre? Não: o EMCASA é da loja online. No Mercado Livre vale o preço do anúncio, que você vê [pelo link da marca](https://meli.la/2mjWEVp)."
         ]
       }
@@ -206454,7 +206692,8 @@ export const reviewsData: unknown[] = [
         "slug": "holyfoods-reclame-aqui-nota-reputacao"
       }
     ],
-    "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw"
+    "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 829,
@@ -206476,7 +206715,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday HolyFoods: use o cupom EMCASA e tire mais 15% por cima dos 30% do site, na tela de finalizar a compra. Veja os kits, o frete e a garantia.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/black-friday-holyfoods-capa-v2.webp",
@@ -206501,7 +206740,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os kits da Black: o que vem em cada um e quanto custa por refeição",
         "paragraphs": [
-          "Kit maior não é desconto maior: os três custam a soma dos avulsos já com os 30%, e o que muda é a quantidade e se vem sopa. Eles ficam na home da loja, na seção \"Escolha seu kit da Black\", e para quem nunca pediu a loja indica o Descoberta. O nome de cada kit abaixo leva à home, porque o kit não tem página própria: o botão \"+ Adicionar\" põe cada item avulso na sacola. O link não aplica o cupom."
+          "Kit maior não é desconto maior: os três custam a soma dos avulsos já com os 30%, e o que muda é a quantidade e se vem sopa. Eles ficam na home da loja, na seção \"Escolha seu kit da Black\", e para quem nunca pediu a loja indica o Descoberta. O nome de cada kit abaixo leva à página de kits da loja, e cada item entra na sacola como avulso. O link não aplica o cupom."
         ],
         "comparisonTable": {
           "headers": [
@@ -206513,21 +206752,21 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Descoberta](https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (8 refeições)",
+              "[Descoberta](https://www.holyfoods.com.br/collections/kits?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz#kit-massas) (8 refeições)",
               "2 [Mac Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 2 [Mac Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 2 [Risoto Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e 2 [Risoto Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 159,20",
               "R$ 111,44",
               "R$ 13,93"
             ],
             [
-              "[Rotina Resolvida](https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (15 refeições)",
+              "[Rotina Resolvida](https://www.holyfoods.com.br/collections/kits?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz#kit-rotina) (15 refeições)",
               "4 Mac Queijo, 3 Mac Alfredo, 3 Risoto Funghi, 3 Risoto Al Mare e 2 [Risoto de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 298,50",
               "R$ 208,95",
               "R$ 13,93"
             ],
             [
-              "[Despensa Cheia](https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (38 refeições)",
+              "[Despensa Cheia](https://www.holyfoods.com.br/collections/kits?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz#kit-despensa) (38 refeições)",
               "1 [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 1 [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 6 Mac Queijo, 4 Mac Alfredo, 4 Risoto Funghi e 4 Risoto Al Mare",
               "R$ 478,00",
               "R$ 334,60",
@@ -206555,7 +206794,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avulsos e packs: o que cada embalagem rende",
         "paragraphs": [
-          "Fora dos kits, sopa avulsa, risoto e mac custam o mesmo na Black, então o que decide é o que cada embalagem rende."
+          "Fora dos kits, as sopas avulsas, o risoto e o mac custam o mesmo na Black, então o que decide é o que cada embalagem rende."
         ],
         "comparisonTable": {
           "headers": [
@@ -206567,6 +206806,18 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 19,90",
+              "R$ 13,93",
+              "1 litro, 4 porções de 250 g"
+            ],
+            [
+              "[Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 19,90",
+              "R$ 13,93",
+              "1 litro, 4 porções de 250 g"
+            ],
+            [
+              "[Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 19,90",
               "R$ 13,93",
               "1 litro, 4 porções de 250 g"
@@ -206588,6 +206839,18 @@ export const reviewsData: unknown[] = [
               "R$ 19,90",
               "R$ 13,93",
               "1 refeição, 380 g"
+            ],
+            [
+              "[Mac Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 19,90",
+              "R$ 13,93",
+              "1 refeição, 20 g de proteína"
+            ],
+            [
+              "[Mac Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 19,90",
+              "R$ 13,93",
+              "1 refeição, 20 g de proteína"
             ]
           ],
           "caption": "Preços da loja no começo de novembro, iguais em meados do mês, com os 30% já no preço; o rendimento é o da página de cada produto."
@@ -206628,12 +206891,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom EMCASA na Black: o que os testes mostraram",
         "paragraphs": [
-          "O EMCASA tirou 15% por cima dos 30% da Black nos quatro testes que fizemos, e só entra numa tela: a de finalizar a compra, no endereço seguro.holyfoods.com.br, que é o checkout da própria loja. No carrinho ele não entra, e o link da parceria também não o aplica: ele abre a loja, mas o código você copia e cola.",
-          "Os quatro testes feitos nessa tela estão na tabela, e o passo a passo vem logo abaixo:"
+          "O EMCASA tirou 15% por cima dos 30% da Black nos cinco testes que fizemos, e só entra numa tela: a de finalizar a compra, no endereço seguro.holyfoods.com.br, que é o checkout da própria loja. No carrinho ele não entra, e o link da parceria também não o aplica: ele abre a loja, mas o código você copia e cola.",
+          "Os cinco testes feitos nessa tela estão na tabela, e o passo a passo vem logo abaixo:"
         ],
         "bullets": [
           "Monte o carrinho com os itens ou com o kit e clique em \"Finalizar compra\".",
           "Na tela seguinte, procure \"Inserir cupom de desconto\".",
+          "Se aparecer outro código já aplicado no resumo, remova-o antes de colar o EMCASA.",
           "Cole o EMCASA em \"Código do cupom\" e clique em \"Adicionar\".",
           "Confira a linha \"Descontos\" antes de pagar."
         ],
@@ -206673,12 +206937,20 @@ export const reviewsData: unknown[] = [
               "R$ 334,60",
               "−R$ 50,19",
               "R$ 284,41"
+            ],
+            [
+              "Projeto 21 Dias",
+              "2 [Projeto 21 Dias](https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 205,80",
+              "−R$ 30,87",
+              "R$ 174,93"
             ]
           ],
-          "caption": "Testes na tela \"Finalizar compra\", em novembro, com os 30% da Black já nos preços. Os carrinhos de sopas e do Despensa Cheia são do começo do mês; os do Descoberta e da Rotina Resolvida, de meados."
+          "caption": "Testes na tela \"Finalizar compra\", em novembro, com os 30% da Black já nos preços. Os carrinhos de sopas e do Despensa Cheia são do começo do mês; os do Descoberta, da Rotina Resolvida e do Projeto 21 Dias, de meados em diante."
         },
         "postParagraphs": [
-          "Nos quatro, o desconto foi de 15% sobre o preço que já tinha os 30%. Como todo kit entra na sacola como itens avulsos, o cupom age do mesmo jeito num kit ou num carrinho montado por você. Com o EMCASA, a massa ou o risoto sai por R$ 11,84 a unidade, e o sachê do pack de sopa, por R$ 3,56. Confira a linha \"Descontos\" no checkout antes de pagar.",
+          "Nos cinco, o desconto foi de 15% sobre o preço que já tinha os 30%. Como todo kit entra na sacola como itens avulsos, o cupom age do mesmo jeito num kit ou num carrinho montado por você. Com o EMCASA, a massa ou o risoto sai por R$ 11,84 a unidade, e o sachê do pack de sopa, por R$ 3,56. Confira a linha \"Descontos\" no checkout antes de pagar.",
+          "Pagamento: a loja aceita Pix ou cartão de crédito, com parcelamento em até 3x sem juros no cartão. Hoje a loja não mostra desconto extra no Pix, então a conta com o cupom é só a dos 15%: não some um Pix ao EMCASA.",
           "Os dois descontos não dão 45%: o preço final fica 40,5% abaixo do de lista. As condições do dia estão na página do [cupom HolyFoods](/cupons/holyfoods), e o passo a passo com as soluções para o código que não entra, em [Como usar o cupom da HolyFoods](/reviews/cupom-holyfoods-como-usar). O EMCASA é da loja online: no Mercado Livre vale o preço do anúncio."
         ]
       },
@@ -206713,9 +206985,9 @@ export const reviewsData: unknown[] = [
           "caption": "Mínimos da campanha da Black, no FAQ da home da loja."
         },
         "postParagraphs": [
-          "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com o cupom, o Descoberta fica em R$ 94,72, a Rotina Resolvida, em R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, em R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. No começo de novembro, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; nos testes do Descoberta e da Rotina Resolvida, o frete não foi lido, porque a loja só o mostra depois da identificação.",
-          "Decida pelo total entregue, com produtos, cupom e frete. Um carrinho pouco abaixo do mínimo pode sair mais caro que o mesmo carrinho com um item a mais, mas só complete com o que você vai comer: confira o frete no resumo, depois de aplicar o EMCASA, com e sem o item extra.",
-          "Frete grátis não é prazo. A política da loja diz que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout. A reclamação mais comum no Reclame Aqui é produto não recebido, e os números estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao). Guarde o número do pedido e use o \"Rastrear pedido\" do menu da loja."
+          "Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. O que não conseguimos confirmar é se o mínimo conta o valor antes ou depois do EMCASA: a loja só mostra o frete depois de CPF e endereço, e nos nossos testes o carrinho não chegou a essa etapa. O valor do frete para o seu CEP aparece no checkout.",
+          "Decida pelo total entregue, com produtos, cupom e frete. Um carrinho pouco abaixo do mínimo pode sair mais caro que o mesmo carrinho com um item a mais, mas só complete com o que você vai comer: no checkout, veja o frete e a linha \"Descontos\" antes de pagar.",
+          "Frete grátis não é prazo. A política da loja diz que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout. Guarde o número do pedido, use o \"Rastrear pedido\" do menu da loja e, ao receber, confira a caixa e as quantidades."
         ]
       },
       {
@@ -206751,10 +207023,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Precisa de cupom para ter os 30% da Black da HolyFoods? Não: os 30% já estão no preço, nos avulsos e nos kits. O EMCASA é um desconto a mais, na tela de finalizar a compra.",
           "Até quando vai a Black Friday da HolyFoods? A loja não publicou a data de fim: vale enquanto a campanha estiver no ar, e o capítulo da campanha diz como conferir.",
-          "O cupom EMCASA vale na Black Friday? Vale. Nos nossos testes, o cupom HolyFoods EMCASA somou com a Black: 15% sobre o preço que já tinha os 30%. O capítulo do cupom traz os quatro carrinhos.",
+          "O cupom EMCASA vale na Black Friday? Vale. Nos nossos testes, o cupom HolyFoods EMCASA somou com a Black: 15% sobre o preço que já tinha os 30%. O capítulo do cupom traz os cinco carrinhos.",
           "O cupom EMCASA vale nos kits da Black da HolyFoods? Vale. Nos nossos testes na tela de finalizar a compra, ele tirou 15% do Descoberta, da Rotina Resolvida e de um carrinho igual ao Despensa Cheia, sobre o preço que já tinha os 30%.",
           "Qual kit da Black da HolyFoods escolher para começar? A loja indica o Descoberta para conhecer a linha; a comparação dos três está no capítulo \"Qual kit levar\".",
           "A HolyFoods tem frete grátis na Black? Tem, a partir de um mínimo que muda por estado; a tabela está no capítulo do frete.",
+          "Preciso remover algum cupom antes de colar o EMCASA? Se aparecer outro código já aplicado no resumo da compra, remova-o e cole o EMCASA em \"Código do cupom\". No nosso teste mais recente, a tela não trazia nenhum código pré-preenchido.",
+          "Dá para pagar no Pix ou parcelar na HolyFoods? A loja aceita Pix e cartão de crédito, com parcelamento em até 3x sem juros no cartão. Hoje ela não mostra desconto extra no Pix, então o desconto do pedido é o dos 30% da Black mais os 15% do EMCASA.",
           "Pack de sopa ou sopa avulsa da HolyFoods: qual sai mais em conta? Por 100 g de mistura seca, o pack sai cerca de 9% abaixo da avulsa. A porção do sachê é maior que a da avulsa, então a comparação por porção engana.",
           "Qual a diferença entre a garantia de 30 dias da HolyFoods e o direito de arrependimento? O arrependimento é da lei: 7 dias corridos do recebimento para desistir da compra online. A garantia é da loja: 30 dias, com uma unidade aberta e as demais fechadas."
         ]
@@ -229145,6 +229419,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. HolyFoods é bom? Sopas, risotos e macs pelo rótulo: proteína, calorias, sódio, ingredientes e preço com o código.",
     "publishedAt": "10 de novembro de 2026",
     "publishedAtISO": "2026-11-10",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp",
@@ -229185,7 +229460,10 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-holyfoods"
       },
       {
-        "slug": "holyfoods-reclame-aqui-nota-reputacao"
+        "slug": "holyfoods-como-preparar"
+      },
+      {
+        "slug": "holyfoods-projeto-21-dias"
       }
     ],
     "contentSections": [
@@ -229226,8 +229504,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Cecília já fez dois deles em vídeo: [um risoto na panela de indução](/videos/risoto-holyfoods-kit-tiktok-shop), com água e um pouco de manteiga, e [o Mac Queijo na panela](/videos/mac-queijo-holyfoods-na-panela).",
-          "A loja mostra nota geral de 4,8 em mais de 25 mil avaliações, publicadas no próprio site. As reclamações fora dele estão no [artigo do Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
+          "A Cecília já fez dois deles em vídeo: [um risoto na panela de indução](/videos/risoto-holyfoods-kit-tiktok-shop), com água e um pouco de manteiga, e [o Mac Queijo na panela](/videos/mac-queijo-holyfoods-na-panela)."
         ]
       },
       {
@@ -229276,11 +229553,11 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/holyfoods/cupom-holyfoods-sopa-low-carb.webp",
-            "alt": "Prato de Sopa Low Carb da HolyFoods com a embalagem ao lado, em foto oficial da loja",
-            "caption": "Sopa Low Carb: o sachê avulso rende quatro porções. Foto: HolyFoods.",
+            "src": "/images/reviews/holyfoods/holyfoods-e-boa-sopa-detox.webp",
+            "alt": "Embalagem da Sopa Detox da HolyFoods, em foto oficial da loja",
+            "caption": "Sopa Detox: 80 kcal por porção preparada de 250 g, a menor da tabela. Foto oficial da HolyFoods.",
             "objectFit": "square",
-            "href": "https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+            "href": "https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
           }
         ]
       },
@@ -229320,15 +229597,6 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "As calorias vão de 398 kcal no Funghi a 452 kcal no de Queijo, com o Al Mare em 421. No fogão, o risoto pede que você mexa durante o cozimento; a ficha também traz uma forma de preparo no micro-ondas. A água e o tempo de cada embalagem estão no guia de [como preparar HolyFoods](/reviews/holyfoods-como-preparar)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/holyfoods/black-friday-holyfoods-risoto-funghi.webp",
-            "alt": "Prato de Risoto Funghi da HolyFoods com a caixa do produto ao fundo, em foto oficial da loja",
-            "caption": "Risoto Funghi: uma caixa, uma porção de 320 g. Foto: HolyFoods.",
-            "objectFit": "square",
-            "href": "https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
-          }
         ]
       },
       {
@@ -229381,6 +229649,13 @@ export const reviewsData: unknown[] = [
             "caption": "Mac Queijo: rende uma porção de 380 g. Foto: HolyFoods.",
             "objectFit": "square",
             "href": "https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-e-boa-mac-bolonha.webp",
+            "alt": "Caixa do Mac Bolonha da HolyFoods, com a indicação de carne e 20 g de proteína, em foto oficial da loja",
+            "caption": "Mac Bolonha: o único dos quatro com carne bovina. Foto oficial da HolyFoods.",
+            "objectFit": "square",
+            "href": "https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
           }
         ]
       },
@@ -229431,7 +229706,7 @@ export const reviewsData: unknown[] = [
           "O EMCASA tira 15% também do preço em promoção. O quadro mostra o valor da compra e o que cada embalagem rende. Para comparar os dois formatos da mesma sopa, o capítulo seguinte usa o peso da mistura."
         ],
         "comparisonTable": {
-          "caption": "Preços de 10/11, com os 30% da campanha da loja e os 15% do EMCASA, sem frete.",
+          "caption": "Preços de 22/11, com os 30% da campanha da loja e os 15% do EMCASA, sem frete.",
           "headers": [
             "Produto",
             "Embalagem e rendimento informado",
@@ -229479,7 +229754,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pack ou sachê avulso de sopa: qual sai mais em conta?",
         "paragraphs": [
-          "O pack custa menos pela mesma quantidade de mistura seca nas três sopas que têm os dois formatos; a Detox não tem pack. O avulso exige menos dinheiro para experimentar. Como os sachês têm tamanhos diferentes, a porção anunciada no card não decide sozinha qual formato compensa."
+          "O pack, como o [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), custa menos pela mesma quantidade de mistura seca nas três sopas que têm os dois formatos; a Detox não tem pack. O avulso exige menos dinheiro para experimentar. Como os sachês têm tamanhos diferentes, a porção anunciada no card não decide sozinha qual formato compensa."
         ],
         "comparisonTable": {
           "caption": "Conta nossa: preço com a campanha e o EMCASA por 100 g de mistura seca, nos pesos da ficha de cada formato.",
@@ -229507,17 +229782,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nesses valores, o pack custa de 8% a 9% menos por 100 g. As listas de ingredientes dos dois formatos são iguais na Low Carb e quase iguais na Canja; na Vovó, a do pack traz mandioquinha e alho poró a mais.",
+          "Nesses valores, o pack custa de 8% a 9% menos por 100 g. As listas de ingredientes dos dois formatos são iguais na Low Carb e quase iguais na Canja; na Vovó, confira a lista de cada página antes de escolher.",
           "Escolha o avulso para provar a receita com menor gasto inicial. O pack faz sentido quando você já quer repetir a mesma sopa."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/holyfoods/black-friday-holyfoods-pack-canja-da-mamae-saches.webp",
-            "alt": "Sachês individuais da Canja da Mamãe da HolyFoods lado a lado, em foto oficial da loja",
-            "caption": "No pack, cada sachê é individual e menor que o avulso. Foto: HolyFoods.",
-            "objectFit": "square",
-            "href": "https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
-          }
         ],
         "links": [
           {
@@ -235473,7 +235739,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "MAUAD dá 10% OFF em todo o site da Belive na primeira compra. O mesmo código vale para quem já comprou e soma com as ofertas e com os 5% do Pix.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/cupom-belive-primeira-compra-capa-v2.webp",
@@ -235509,7 +235775,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Belive primeira compra: qual usar",
         "paragraphs": [
-          "A Belive vende alimentos como pães, doces e snacks na sua loja online. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Belive é confiável?](/reviews/belive-e-confiavel).",
+          "A Belive vende alimentos como pães, doces e snacks na sua loja online.",
           "Use o MAUAD: 10% OFF em todos os produtos do site oficial, inclusive combos e kits. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom Belive](/cupons/belive) da nossa parceria com a marca, testado no carrinho. Pão, doce ou snack: o código é o mesmo."
         ]
@@ -235541,14 +235807,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Abaixo desses valores, o frete é calculado no checkout. A compra é pelo site oficial: a Belive não tem aplicativo, e o código não vale no Mercado Livre.",
+          "Abaixo desses valores, o frete é calculado no checkout. O mínimo conta o valor do carrinho antes do cupom: aplicar o MAUAD não tira o frete grátis que o pedido já tinha. A compra é pelo site oficial: a Belive não tem aplicativo, e o código não vale no Mercado Livre.",
           "Pedido perto do valor da sua região? Aplique o código, informe o CEP e confira no resumo se há cobrança de frete."
         ]
       },
       {
         "heading": "Combo em oferta: quanto fica com o MAUAD",
         "paragraphs": [
-          "O MAUAD entra sobre o preço da oferta. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um combo de seis pacotes de pão de batata ficou assim:"
+          "O MAUAD entra sobre o preço da oferta. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um [combo de seis pacotes de pão de batata](https://belivebefree.com.br/produto/combo-pao-de-batata-sem-gluten-sem-leite-sem-lactose-belive-6-pacotes-2/) ficou assim:"
         ],
         "comparisonTable": {
           "caption": "Combo de seis pacotes de pão de batata: valores do teste no carrinho, antes do Pix e do frete.",
@@ -235576,7 +235842,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os 10% saíram do preço da oferta. No Pix, a loja ainda dá 5% de desconto, que somam com o código: escolha o Pix no pagamento e confira o total."
+          "Os 10% saíram do preço da oferta. No Pix, a loja ainda dá 5% de desconto, que somam com o código: os dois descontos são sucessivos, 10% e depois 5% sobre o que sobrou, o que dá 14,5% sobre o valor dos produtos."
         ],
         "images": [
           {
@@ -235591,7 +235857,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E na segunda compra?",
         "paragraphs": [
-          "O MAUAD vale de novo para quem já comprou, com os mesmos 10% e as mesmas regras. Serve para repor o pão ou montar outro combo no pedido seguinte."
+          "O MAUAD vale de novo para quem já comprou: é o mesmo código, com os mesmos 10% em todo o site, em qualquer forma de pagamento. Cliente novo e cliente antigo usam o mesmo campo \"Código do cupom\", no carrinho.",
+          "Serve para repor o pão, montar outro combo ou levar um kit de doces no pedido seguinte. As regras não mudam: o desconto soma com as ofertas do site e com os 5% do Pix, o frete grátis conta o valor antes do cupom e o código não vale no Mercado Livre.",
+          "Num pedido recorrente, vale conferir de novo o frete da sua região, porque o mínimo muda entre R$ 170, R$ 250 e R$ 300 conforme o estado."
         ]
       },
       {
@@ -235606,19 +235874,14 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O passo a passo com as telas está em [como usar o cupom MAUAD](/reviews/cupom-belive-como-usar)."
-        ],
-        "image": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
-        "imageAlt": "Resumo do pedido da Belive depois do cupom, com o desconto de R$ 57,68, o total de R$ 519,14 e o total no Pix de R$ 493,18 marcados em amarelo.",
-        "imageCaption": "O código aplicado no resumo do pedido da Belive, em outro carrinho de teste, com o total no Pix logo abaixo. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.24
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como conseguir desconto na primeira compra na Belive? O MAUAD dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom Belive vale para quem já é cliente? O mesmo MAUAD, com os mesmos 10%.",
-          "O cupom Belive soma com o Pix? Sim, com os 5% de desconto que a loja dá no Pix.",
+          "O cupom Belive soma com o Pix? Sim. Os 10% do MAUAD entram primeiro e os 5% do Pix, sobre o valor restante: no total são 14,5% sobre o valor dos produtos.",
           "O cupom Belive vale no Mercado Livre? Não. Ele vale no site oficial da Belive.",
           "A Belive tem frete grátis? Sim: em compras acima de R$ 170 em SP, MG, RJ, DF e GO; de R$ 250 no Sul; e de R$ 300 nos demais estados. Abaixo desses valores, o frete é calculado no checkout."
         ]
@@ -235644,7 +235907,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "EMCASA dá 15% OFF em todo o site da HolyFoods na primeira compra, inclusive em produtos já em promoção. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa-v2.webp",
@@ -235680,7 +235943,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom HolyFoods primeira compra: qual usar",
         "paragraphs": [
-          "A HolyFoods vende sopas, risotos e macarrões de despensa, que ficam prontos no fogão em 15 a 20 minutos. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel).",
+          "A HolyFoods vende sopas, risotos e macarrões de despensa, que ficam prontos no fogão em 15 a 20 minutos. Para quem pede pela primeira vez, a loja dá 30 dias de garantia de satisfação, que aceita uma unidade aberta se as demais estiverem fechadas.",
           "Use o EMCASA: 15% OFF em todos os produtos do site oficial, avulsos e kits, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom HolyFoods](/cupons/holyfoods) da nossa parceria com a marca, testado no checkout. Sopa, macarrão ou risoto: o código é o mesmo."
         ]
@@ -235693,7 +235956,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Na tela “Finalizar compra”.** É nela que o campo do cupom aparece. O botão desta página abre a loja sem aplicar o código.",
           "**Campo certo.** Clique em “Inserir cupom de desconto”. O campo “Cartão-presente” não aceita o código.",
-          "**Frete grátis por estado.** O valor mínimo muda conforme o estado, e o carrinho mostra quanto falta para o seu.",
+          "**Frete grátis por estado.** Na campanha da Black, o mínimo é de R$ 199 em SP, R$ 249 em RJ, MG, DF e PR e R$ 289 em GO, SC, ES e RS. Nos outros estados, o frete sai pelo CEP no checkout.",
           "**Só no site oficial.** O código não vale no Mercado Livre."
         ],
         "postParagraphs": [
@@ -235703,7 +235966,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sopas em promoção: preço com o EMCASA",
         "paragraphs": [
-          "O EMCASA entra sobre o preço que a loja já baixou. No teste do cupom de 05/11/2026, registrado na nossa página de cupom, um Pack Sopa da Vovó e duas Sopas Detox, os três com desconto da loja, ficaram assim:"
+          "O EMCASA entra sobre o preço que a loja já baixou. No teste do cupom de 05/11/2026, registrado na nossa página de cupom, um Pack Sopa da Vovó e duas [Sopas Detox](https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os três com desconto da loja, ficaram assim:"
         ],
         "comparisonTable": {
           "caption": "Pack Sopa da Vovó e duas Sopas Detox com desconto da loja: valores do teste no checkout, antes do frete.",
@@ -235727,7 +235990,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os 15% saíram inteiros do preço promocional. O código vale com todas as formas de pagamento; se a loja oferecer desconto no Pix, ele soma com o EMCASA. Confira o total antes de pagar."
+          "Os 15% saíram inteiros do preço promocional. A loja aceita Pix e cartão de crédito, em até 3x sem juros no cartão, e o código vale nas duas formas. Hoje a loja não mostra desconto extra no Pix, então a conta do pedido é a dos 15%. Confira o total antes de pagar."
         ],
         "images": [
           {
@@ -235742,7 +236005,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E na segunda compra?",
         "paragraphs": [
-          "O EMCASA vale de novo para quem já comprou, com os mesmos 15%. Serve para repor a sopa preferida ou provar outro sabor no pedido seguinte."
+          "O EMCASA vale de novo para quem já comprou, com os mesmos 15%. O código não é só de primeira compra: a nossa página de cupom o traz tanto para quem pede pela primeira vez quanto para quem já é cliente, e é o mesmo código nos dois casos.",
+          "Na segunda compra, o caminho é o mesmo: carrinho, \"Finalizar compra\", \"Inserir cupom de desconto\", EMCASA no campo \"Código do cupom\" e \"Adicionar\". Serve para repor a sopa preferida, provar outro sabor ou fechar um pack depois de testar a sopa avulsa.",
+          "Quanto ao número de usos, vale a regra da loja. Se o checkout recusar o código, a recusa vem da loja, e a linha de desconto no resumo é quem confirma se ele entrou. Como em qualquer pedido, o EMCASA só vale no site oficial, e não no Mercado Livre."
         ]
       },
       {
@@ -235756,20 +236021,15 @@ export const reviewsData: unknown[] = [
           "Confira no resumo se o EMCASA foi adicionado e se o desconto apareceu antes de pagar."
         ],
         "postParagraphs": [
-          "O passo a passo com as telas está em [como usar o cupom EMCASA](/reviews/cupom-holyfoods-como-usar)."
-        ],
-        "image": "/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp",
-        "imageAlt": "Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado.",
-        "imageCaption": "O EMCASA aplicado no resumo da compra da HolyFoods, em outro pedido de teste. Os valores mudam conforme o seu pedido.",
-        "imageAspectRatio": 1.341,
-        "imageFit": "contain"
+          "O passo a passo com a tela do resumo da compra está em [como usar o cupom EMCASA](/reviews/cupom-holyfoods-como-usar)."
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como conseguir desconto na primeira compra na HolyFoods? O EMCASA dá 15% em todo o site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom HolyFoods vale para quem já é cliente? O mesmo EMCASA, com os mesmos 15%.",
-          "O cupom HolyFoods soma com produto em promoção? Sim. Os 15% entram sobre o preço que a loja já baixou.",
+          "O cupom HolyFoods soma com produto em promoção? Sim. Os 15% entram sobre o preço que a loja já baixou. No Pix, a loja não mostra desconto extra hoje.",
           "O cupom HolyFoods vale no Mercado Livre? Não. Ele vale no site oficial da HolyFoods.",
           "Onde colar o cupom na HolyFoods? Na tela “Finalizar compra”, em “Inserir cupom de desconto”."
         ]
@@ -244487,14 +244747,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "É a troca mais direta do guia, para quem precisa manter as declarações de zero lactose e sem glúten. Os outros snacks da marca estão no guia [snack proteico ou snack de arroz da Belive](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
+          "É a troca mais direta do guia, para quem precisa manter as declarações de zero lactose e sem glúten. A Belive tem quatro sabores: [Queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Presunto](https://belivebefree.com.br/produto/snack-proteico-sabor-presunto-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Cebola e Salsa](https://belivebefree.com.br/produto/snack-proteico-sabor-cebola-e-salsa-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) e [Barbecue](https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), e vende o [combo de 16 pacotes](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/). Os outros snacks da marca estão no guia [snack proteico ou snack de arroz da Belive](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
         ],
         "images": [
           {
-            "src": "/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
-            "alt": "Pacote de 35 g do Snack Proteico sabor queijo da Belive, salgadinho sem glúten, sem leite e zero lactose",
-            "caption": "Snack proteico sabor queijo, 35 g. Foto oficial da Belive.",
-            "href": "https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/",
+            "src": "/images/reviews/belive/alternativas-a-bendu-belive-snack-proteico-barbecue.webp",
+            "alt": "Tigela de snack proteico sabor barbecue da Belive, com o pacote ao lado",
+            "caption": "Snack proteico sabor barbecue, 35 g. Foto oficial da Belive.",
+            "href": "https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/",
             "objectFit": "square",
             "aspectRatio": 1,
             "store": "belive"
@@ -244578,18 +244838,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O Max tem o menor preço por proteína entre os dois e o tamanho mais próximo do Crispy Wafer. O de 25 g é uma unidade menor. A página do Max não traz a declaração de lactose e glúten: confira a embalagem se isso decide a sua compra."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-tabela-chocowheyfer-max.webp",
-            "alt": "Tabela nutricional da Chocowheyfer Max Chocolate da Mais Mu, porção de 50 g, com 12 g de proteínas",
-            "caption": "Tabela nutricional do Chocowheyfer Max Chocolate. Imagem: Mais Mu.",
-            "href": "https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/",
-            "objectFit": "contain",
-            "aspectRatio": 0.84,
-            "store": "mais-mu"
-          }
+          "O Max tem o menor preço por proteína entre os dois e o tamanho mais próximo do Crispy Wafer: 50 g e 12 g de proteína por unidade, contra 25 g e 6 g do outro. A página do Max não traz a declaração de lactose e glúten: confira a embalagem se isso decide a sua compra."
         ]
       },
       {
@@ -244730,7 +244979,7 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "updatedAt": "2026-11-14"
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 978,
@@ -245147,7 +245396,15 @@ export const reviewsData: unknown[] = [
               "0,6 g de carboidratos; produto feito de queijo"
             ]
           ]
-        }
+        },
+        "paragraphs": [
+          "Os dois snacks atendem ao mesmo desejo, um salgadinho com proteína, mas partem de ingredientes diferentes. O da Belive é feito de proteína isolada de soja e traz mais carboidratos; o da Mais Mu é só queijo parmesão e traz mais gordura. A escolha começa pelo que você precisa evitar: soja ou leite.",
+          "Na Belive, os sabores são [Queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Presunto](https://belivebefree.com.br/produto/snack-proteico-sabor-presunto-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Cebola e Salsa](https://belivebefree.com.br/produto/snack-proteico-sabor-cebola-e-salsa-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) e [Barbecue](https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), todos em pacote de 35 g. Dá para comprar um de cada sabor ou levar o [combo de 16 pacotes](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/), que reúne os quatro."
+        ],
+        "postParagraphs": [
+          "Se o sódio pesa na decisão, comece pelo Cebola e Salsa, que tem o menor valor entre os quatro sabores da Belive; o Presunto tem o maior. Os números por sabor estão na tabela de composição, mais abaixo.",
+          "Quem evita soja fica com o parmesão. Quem evita leite fica com o snack da Belive, pela declaração da loja, e confere o rótulo da embalagem antes de comer."
+        ]
       },
       {
         "heading": "Preço com o código aplicado",
@@ -245183,16 +245440,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Belive: menor custo e declaração de sem leite",
         "paragraphs": [
-          "A Belive usa proteína isolada de soja. A loja declara o snack sem leite, zero lactose e sem glúten, com aviso de derivados de soja. Os sabores são Queijo, Presunto, Cebola e Salsa e Barbecue.",
-          "Há compra avulsa e combo de 16 pacotes com os quatro sabores. Nos preços lidos, o combo sai pelo mesmo valor por pacote que o avulso, na referência e na oferta. Escolha o combo pela quantidade e pela variedade, e confira o desconto do MAUAD no resumo do pedido.",
+          "A Belive usa proteína isolada de soja. A loja declara o snack sem leite, zero lactose e sem glúten, com aviso de derivados de soja. Os sabores são [Queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Presunto](https://belivebefree.com.br/produto/snack-proteico-sabor-presunto-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Cebola e Salsa](https://belivebefree.com.br/produto/snack-proteico-sabor-cebola-e-salsa-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) e [Barbecue](https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/).",
+          "Há compra avulsa e o [combo de 16 pacotes](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/) com os quatro sabores. Nos preços lidos, o combo sai pelo mesmo valor por pacote que o avulso, na referência e na oferta. Escolha o combo pela quantidade e pela variedade, e confira o desconto do MAUAD no resumo do pedido.",
           "Se você está escolhendo entre as linhas da própria marca, veja [snack proteico ou snack de arroz da Belive](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
         ],
         "images": [
           {
-            "src": "/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
-            "alt": "Pacote de 35 g do Snack Proteico sabor queijo da Belive, salgadinho sem glúten, sem leite e zero lactose",
-            "caption": "Snack proteico sabor queijo, 35 g. Foto oficial da Belive.",
-            "href": "https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/",
+            "src": "/images/reviews/belive/salgadinho-proteico-qual-escolher-belive-snack-proteico.webp",
+            "alt": "Bolinhas do snack proteico da Belive numa tigela amarela, com os pacotes dos sabores atrás",
+            "caption": "Snack proteico da Belive, pacotes de 35 g. Foto oficial da Belive.",
+            "href": "https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/",
             "objectFit": "square",
             "aspectRatio": 1,
             "store": "belive"
@@ -245315,7 +245572,7 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "updatedAt": "2026-11-14"
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 980,
@@ -274605,7 +274862,7 @@ export const reviewsData: unknown[] = [
     "title": "Cupom Pink Cheeks: como aplicar o PNK-EMCASACOMCECILIA no checkout e com o que ele soma",
     "seoTitle": "Como usar o cupom PNK-EMCASACOMCECILIA na Pink Cheeks",
     "type": "Guia & Cupons",
-    "description": "Veja onde digitar o cupom PNK-EMCASACOMCECILIA na Pink Cheeks, quanto ele descontou no nosso carrinho com um blush em promoção e como conferir o valor do frete.",
+    "description": "Veja onde digitar o cupom PNK-EMCASACOMCECILIA na Pink Cheeks, quanto ele descontou nos nossos carrinhos com blush, kit e Pink Stick e como conferir o frete.",
     "metaDescription": "O cupom PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks, para cliente novo e antigo. Veja onde digitar no checkout, a conta do teste e o que soma.",
     "image": "/images/reviews/pinkcheeks/cupom-pinkcheeks-como-usar-capa-v2.webp",
     "imageAlt": "Cera azul Pink Cheeks para cabelo ao lado de um halter rosa, em foto oficial sobre fundo alaranjado. A capa traz o logo Pink Cheeks e a chamada “Como aplicar o cupom”, com o cupom PNK-EMCASACOMCECILIA.",
@@ -274660,7 +274917,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom descontou no nosso teste",
         "paragraphs": [
-          "Em 19/11, colocamos no carrinho um pó translúcido pelo preço cheio e um blush Terracota em promoção. O cupom deu 10% sobre os dois produtos."
+          "Em 19/11, colocamos no carrinho um [pó translúcido](https://pinkcheeks.com.br/products/protetor-solar-po-translucido-sport-powder-fps30-fpuva13-5g-1) pelo preço cheio e um [blush Terracota](https://pinkcheeks.com.br/products/blush-all-in-one-fps30-fpuva10-4-5g-terracota) em promoção. O cupom deu 10% sobre os dois produtos."
         ],
         "comparisonTable": {
           "caption": "Carrinho testado no site oficial, antes do frete.",
@@ -274670,11 +274927,11 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Pó Translúcido Sport Powder FPS30",
+              "[Pó Translúcido Sport Powder FPS30](https://pinkcheeks.com.br/products/protetor-solar-po-translucido-sport-powder-fps30-fpuva13-5g-1)",
               "R$ 99,90"
             ],
             [
-              "Blush All In One FPS30, Terracota (em promoção)",
+              "[Blush All In One FPS30, Terracota](https://pinkcheeks.com.br/products/blush-all-in-one-fps30-fpuva10-4-5g-terracota) (em promoção)",
               "R$ 69,90"
             ],
             [
@@ -274704,8 +274961,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Promoção e Pix: o que somou no teste",
         "paragraphs": [
-          "O desconto continuou aplicado quando selecionamos Pix no checkout. Nessa simulação, o valor dos produtos ficou igual.",
-          "Para ver o que a loja anuncia nos kits, leia o [guia da Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks)."
+          "O desconto continuou aplicado quando selecionamos Pix no checkout, e o valor dos produtos ficou igual. A loja não anuncia desconto extra para quem paga no Pix, então a conta é a mesma nas duas formas de pagar.",
+          "No teste de 22/11, o carrinho tinha o [Kit Natação](https://pinkcheeks.com.br/products/kit-natacao), a R$ 134,85 (de R$ 269,70), e o [Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km), a R$ 99,90 (de R$ 129,90). O subtotal foi de R$ 234,75. Com o PNK-EMCASACOMCECILIA no campo “Código de desconto ou cartão-presente”, o checkout abateu R$ 23,47 e o total ficou em R$ 211,28, antes do frete. Os 10% valeram, portanto, sobre preços de Black Friday, num kit e num Pink Stick.",
+          "A conta não muda a regra do campo: o código vai no resumo do checkout, e a linha “Desconto no pedido” mostra quanto saiu. Para ver o que a loja anuncia nos kits, leia o [guia da Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks). Para escolher a cor do bastão, veja o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher)."
         ]
       },
       {
@@ -274724,20 +274982,21 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Se a linha “Desconto no pedido” não aparecer, confira as [condições do cupom Pink Cheeks](/cupons/pinkcheeks) antes de pagar.",
-          "Se é sua primeira compra, veja [quem vende, como a loja entrega e como funcionam as trocas](/reviews/pinkcheeks-e-confiavel)."
+          "Se é a sua primeira compra, o roteiro do [cupom Pink Cheeks na primeira compra](/reviews/cupom-pinkcheeks-primeira-compra) mostra o caminho do carrinho ao pagamento."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Onde coloco o cupom na Pink Cheeks? Clique em “Finalizar pedido”, cole PNK-EMCASACOMCECILIA em “Código de desconto ou cartão-presente” e confira a linha “Desconto no pedido”.",
-          "O cupom soma com produto em promoção? No nosso teste, somou: os 10% entraram sobre um carrinho com um blush em promoção. Confira a linha Desconto no pedido no seu carrinho.",
+          "O cupom soma com produto em promoção? No nosso teste, somou: os 10% entraram sobre um carrinho com um blush em promoção e, em outro teste, sobre um Kit Natação e um Pink Stick em preço de Black Friday. Confira a linha Desconto no pedido no seu carrinho.",
           "O cupom vale para quem já é cliente? Vale. O código serve para cliente novo e antigo.",
           "O cupom vale no Mercado Livre ou na Shopee? O código é do site oficial da Pink Cheeks, pinkcheeks.com.br, e é lá que ele entra.",
           "Qual é o frete grátis da Pink Cheeks? A página de frete informa entrega Normal grátis a partir de R$ 199. A faixa da página inicial anuncia frete grátis acima de três itens. Confira com seu CEP no checkout."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 1096,
@@ -274765,8 +275024,8 @@ export const reviewsData: unknown[] = [
     "title": "Black Friday Pink Cheeks 2026: o que vem nos kits e onde o cupom deu 10%",
     "seoTitle": "Black Friday Pink Cheeks 2026: preços de kits e avulsos",
     "type": "Guia de Black Friday",
-    "description": "Compare os kits da Black Friday da Pink Cheeks pelo que vem em cada um. Veja os preços dos avulsos, em qual promoção o PNK-EMCASACOMCECILIA entrou e como conferir o frete.",
-    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Na Black Friday, o cupom entrou no blush em promoção. Compare os preços dos kits.",
+    "description": "Compare os kits da Black Friday da Pink Cheeks pelo que vem em cada um. Veja os preços dos avulsos, em quais promoções o PNK-EMCASACOMCECILIA entrou e como conferir o frete.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Na Black Friday, o cupom entrou em kit, blush e Pink Stick. Compare os kits.",
     "image": "/images/reviews/pinkcheeks/black-friday-pinkcheeks-capa-v2.webp",
     "imageAlt": "Protetor Bifásico, bastão Redless e Pink Stick do Kit Performance II, em foto oficial montada sobre cenário ilustrativo de pista de corrida. A capa traz o logo Pink Cheeks e a chamada “Black Friday — Kit ou avulsos?”, com o cupom PNK-EMCASACOMCECILIA.",
     "cta": {
@@ -274791,16 +275050,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday da Pink Cheeks, o cupom PNK-EMCASACOMCECILIA deu mais 10% OFF no blush que já estava em promoção no nosso teste. Para escolher entre os kits Natação, Speedo e Performance II, veja o que vem em cada um e o preço anunciado. O desconto adicional nos kits segue sem teste."
+          "Na Black Friday da Pink Cheeks, o cupom PNK-EMCASACOMCECILIA deu 10% OFF sobre preços promocionais no nosso teste, num blush, num kit e num Pink Stick. Para escolher entre os kits Natação, Speedo e Performance II, veja o que vem em cada um e o preço anunciado."
         ]
       },
       {
         "heading": "Kits Natação, Speedo e Performance II: o que vem em cada um",
         "paragraphs": [
-          "Natação e Speedo têm o mesmo protetor facial e o leave-in Speedo. O terceiro item muda: shampoo em pó no Natação e bastão antiatrito no Speedo. Se você quer protetor facial e corporal no mesmo kit, compare o Performance II."
+          "Natação e Speedo têm o mesmo protetor facial e o leave-in Speedo. O terceiro item muda: shampoo em pó no Natação e bastão antiatrito no Speedo. Se você quer protetor facial e corporal no mesmo kit, compare o Performance II.",
+          "Os três kits saem por cerca de metade do preço riscado na loja. Para escolher a cor do Pink Stick que vem no Performance II, o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher) compara os tons."
         ],
         "comparisonTable": {
-          "caption": "Preços anunciados pela Pink Cheeks em 19/11, antes do frete.",
+          "caption": "Preços anunciados pela Pink Cheeks em 22/11, antes do frete.",
           "headers": [
             "Kit",
             "O que vem",
@@ -274808,24 +275068,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Natação",
-              "Protetor facial Speedo, leave-in Swim Speedo e shampoo em pó",
-              "R$ 134,85"
+              "[Natação](https://pinkcheeks.com.br/products/kit-natacao)",
+              "[Protetor facial Speedo](https://pinkcheeks.com.br/products/protetor-solar-facial-fps-96-e-fpuva-60-speedo-14g), [leave-in Swim Speedo](https://pinkcheeks.com.br/products/leave-in-anti-shock-swim-speedo-spray-120ml) e [shampoo em pó](https://pinkcheeks.com.br/products/shampoo-em-po-3-em-1-50g)",
+              "R$ 134,85 (de R$ 269,70)"
             ],
             [
-              "Speedo",
-              "Protetor facial Speedo, leave-in Swim Speedo e antiatrito em bastão Speedo",
-              "R$ 137,35"
+              "[Speedo](https://pinkcheeks.com.br/products/kit-speedo)",
+              "[Protetor facial Speedo](https://pinkcheeks.com.br/products/protetor-solar-facial-fps-96-e-fpuva-60-speedo-14g), [leave-in Swim Speedo](https://pinkcheeks.com.br/products/leave-in-anti-shock-swim-speedo-spray-120ml) e [antiatrito em bastão Speedo](https://pinkcheeks.com.br/products/antiatrito-em-bastao-speedo-b-13g)",
+              "R$ 137,35 (de R$ 274,70)"
             ],
             [
-              "Performance II",
-              "Protetor bifásico, Pink Stick e Redless em bastão",
-              "R$ 174,85"
+              "[Performance II](https://pinkcheeks.com.br/products/kit-performance-ii)",
+              "[Protetor bifásico](https://pinkcheeks.com.br/products/protetor-solar-corporal-facial-bifasico-fps-57-fpuva-30-100ml), [Pink Stick](/reviews/pink-stick-qual-cor-escolher) e [Redless em bastão](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g)",
+              "R$ 174,85 (de R$ 349,70)"
             ]
           ]
         },
         "postParagraphs": [
-          "Se você levaria os três itens, compare o preço do kit com os mesmos produtos avulsos. O Natação custa R$ 2,50 a menos que o Speedo nesta leitura. A escolha entre eles depende de qual terceiro item você usaria."
+          "Se você levaria os três itens, compare o preço do kit com os mesmos produtos avulsos. O Natação custa R$ 2,50 a menos que o Speedo nesta leitura. A escolha entre eles depende de qual terceiro item você usaria.",
+          "No teste de 22/11, o cupom entrou num carrinho com o Kit Natação, e o resultado está no capítulo sobre onde o código deu 10%."
         ],
         "links": [
           {
@@ -274848,7 +275109,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Protetores e blush avulsos: quanto ficariam com o cupom",
         "paragraphs": [
-          "Pink Stick, Pro Stick e Shield 45 g tinham o mesmo preço na vitrine. Se quer só um protetor facial, compare a cobertura do [Pink Stick e do Pro Stick](/reviews/pinkcheeks-e-boa). O Shield da tabela é corporal."
+          "Pink Stick, Pro Stick e Shield 45 g tinham o mesmo preço na vitrine. Se quer só um protetor facial, compare a cobertura do [Pink Stick e do Pro Stick](/reviews/pinkcheeks-e-boa). O Shield da tabela é corporal. Para escolher o tom do Pink Stick, veja o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher)."
         ],
         "comparisonTable": {
           "caption": "Preços da mesma leitura. Última coluna calculada com 10% antes do frete.",
@@ -274859,27 +275120,27 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Pink Stick FPS90",
+              "[Pink Stick FPS90](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km)",
               "R$ 99,90",
               "R$ 89,91"
             ],
             [
-              "Pro Stick FPS96",
+              "[Pro Stick FPS96](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro15)",
               "R$ 99,90",
               "R$ 89,91"
             ],
             [
-              "Protetor Corporal Shield FPS60, 45 g",
+              "[Protetor Corporal Shield FPS60, 45 g](https://pinkcheeks.com.br/products/shield-protetor-corporal-fps60-fpuva50-45g)",
               "R$ 99,90",
               "R$ 89,91"
             ],
             [
-              "Blush All In One FPS30",
+              "[Blush All In One FPS30](https://pinkcheeks.com.br/products/blush-all-in-one-fps30-fpuva10-4-5g-terracota)",
               "R$ 69,90",
               "R$ 62,91"
             ],
             [
-              "Pro Cream FPS96, 14 g",
+              "[Pro Cream FPS96, 14 g](https://pinkcheeks.com.br/products/pro-cream-protetor-solar-multifuncional-fps96-fpuva43-14g-pro15)",
               "a partir de R$ 64,90",
               "a partir de R$ 58,41"
             ]
@@ -274893,30 +275154,37 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
+        ],
+        "postParagraphs": [
+          "A última coluna é só a conta de 10% sobre o preço da vitrine. No teste de 22/11, o checkout aplicou 10% sobre o subtotal inteiro, com um Pink Stick de R$ 99,90 dentro dele, então a estimativa do bastão segue a mesma lógica. O valor final de cada produto aparece na linha “Desconto no pedido” do seu carrinho."
         ]
       },
       {
         "heading": "A oferta do dia",
         "paragraphs": [
-          "Na leitura, a vitrine trazia um contador na oferta do Protetor Corporal Shield. Se veio pela oferta do dia, confira na página inicial qual produto está em destaque e o preço no carrinho."
+          "Na primeira leitura, a vitrine trazia um contador na oferta do [Protetor Corporal Shield](https://pinkcheeks.com.br/products/shield-protetor-corporal-fps60-fpuva50-45g). Na leitura mais recente, o banner da loja anunciava “Black Friday — até 50% OFF em todo o site”, “kits até 50% OFF” e frete grátis nas compras acima de três itens.",
+          "O destaque do dia muda. Se veio pela oferta do dia, abra a página inicial, veja qual produto está em destaque e compare o preço do carrinho com o da tabela acima antes de aplicar o código."
         ]
       },
       {
         "heading": "Onde o cupom deu 10% sobre a promoção",
         "paragraphs": [
-          "No carrinho do teste, um pó translúcido a preço cheio e um blush Terracota em promoção somavam R$ 169,80. O PNK-EMCASACOMCECILIA tirou R$ 16,98 sobre os dois itens. Com o código, os produtos ficaram em R$ 152,82, antes do frete."
+          "No primeiro carrinho do teste, um [pó translúcido](https://pinkcheeks.com.br/products/protetor-solar-po-translucido-sport-powder-fps30-fpuva13-5g-1) a preço cheio e um [blush Terracota](https://pinkcheeks.com.br/products/blush-all-in-one-fps30-fpuva10-4-5g-terracota) em promoção somavam R$ 169,80. O PNK-EMCASACOMCECILIA tirou R$ 16,98 sobre os dois itens, e os produtos ficaram em R$ 152,82, antes do frete.",
+          "No teste de 22/11, o carrinho tinha o [Kit Natação](https://pinkcheeks.com.br/products/kit-natacao), a R$ 134,85 (de R$ 269,70), e o [Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km), a R$ 99,90 (de R$ 129,90). O subtotal foi de R$ 234,75. Com o PNK-EMCASACOMCECILIA no campo “Código de desconto ou cartão-presente”, o checkout abateu R$ 23,47 e o total ficou em R$ 211,28, antes do frete. O desconto de 10% valeu sobre os preços de Black Friday do kit e do Pink Stick."
         ]
       },
       {
         "heading": "Frete na Black Friday",
         "paragraphs": [
-          "A [regra de frete da Pink Cheeks](https://pinkcheeks.com.br/pages/regras-de-frete) informa entrega Normal grátis em compras a partir de R$ 199. Na página inicial, a loja também anuncia frete grátis acima de três itens. Confira com seu CEP quanto fica a entrega depois de aplicar o cupom."
+          "A [regra de frete da Pink Cheeks](https://pinkcheeks.com.br/pages/regras-de-frete) informa entrega Normal grátis em compras a partir de R$ 199. Na página inicial, a loja também anuncia frete grátis acima de três itens. Confira com seu CEP quanto fica a entrega depois de aplicar o cupom.",
+          "No nosso teste de kit, o checkout ainda não calculava o frete, porque não informamos endereço. A [página de pagamentos](https://pinkcheeks.com.br/pages/formas-de-pagamento) lista cartão de crédito em até 5 vezes sem juros, débito e Pix, e o Pix não tem desconto extra."
         ]
       },
       {
         "heading": "Até quando vai a Black Friday da Pink Cheeks",
         "paragraphs": [
-          "A loja ainda não informava uma data de fim nas páginas que consultamos. A [página inicial da Pink Cheeks](https://pinkcheeks.com.br/) mostra os kits que estão em destaque no dia da compra."
+          "A loja não publicava uma data de fim nas páginas que consultamos, nem no banner da página inicial, e por isso não prometemos prazo. A [página inicial da Pink Cheeks](https://pinkcheeks.com.br/) mostra os kits e as ofertas em destaque no dia da compra.",
+          "Se o preço do carrinho for diferente do que está na tabela, vale o do carrinho. Confira a linha Desconto no pedido depois de aplicar o código."
         ]
       },
       {
@@ -274934,13 +275202,14 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Black Friday da Pink Cheeks já começou? A vitrine consultada já anunciava a Black Friday e mostrava kits em promoção. Consulte a página inicial para ver os itens disponíveis.",
-          "O cupom Pink Cheeks vale nos kits de Black Friday? Confirmamos 10% OFF com PNK-EMCASACOMCECILIA num carrinho com um blush em promoção. O desconto nos kits depende do que aparecer no checkout.",
+          "O cupom Pink Cheeks vale nos kits de Black Friday? Sim, no nosso teste. O PNK-EMCASACOMCECILIA deu 10% OFF num carrinho com o Kit Natação e um Pink Stick, de R$ 234,75 para R$ 211,28, antes do frete. Confira a linha Desconto no pedido no seu pedido.",
           "Qual é o frete grátis da Pink Cheeks? A página de frete informa entrega Normal grátis a partir de R$ 199. A faixa da página inicial anuncia frete grátis acima de três itens. Confira com seu CEP no checkout.",
           "Até quando vai a Black Friday da Pink Cheeks? As páginas consultadas não informavam a data de fim da campanha. Consulte a vitrine da marca antes de comprar."
         ]
       }
     ],
-    "bodyDatesReason": "campanha"
+    "bodyDatesReason": "campanha",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 1097,
@@ -274992,7 +275261,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer cobertura leve em bastão e encontrou um tom do Pink Stick que combina com sua pele.",
+        "Você quer cobertura leve a média em bastão e encontrou um tom do Pink Stick que combina com sua pele, ou prefere o 5 KM incolor.",
         "Você prefere comparar os acabamentos antes de comprar. O Pro Stick tem alta cobertura e o Clear Stick é transparente."
       ],
       "skipIf": [
@@ -275004,24 +275273,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Se você quer protetor facial em bastão, a escolha na Pink Cheeks começa pelo acabamento. O Pink Stick tem cobertura leve, o Pro Stick tem alta cobertura e o Clear Stick é transparente. A ficha do Pink Stick informa FPS 90, FPUVA 70 e perfume na fórmula. Compare os tons nas amostras da loja."
+          "Se você quer protetor facial em bastão, a escolha na Pink Cheeks começa pelo acabamento. O Pink Stick tem cobertura leve a média e uma versão 5 KM incolor, o Pro Stick tem alta cobertura e o Clear Stick é transparente. A ficha do Pink Stick informa FPS 90, FPUVA 70 e perfume na fórmula."
         ]
       },
       {
         "heading": "Antes de escolher o bastão",
         "paragraphs": [
-          "Comece pelo acabamento que você quer usar no rosto. Se prefere evitar fragrância, veja a lista de ingredientes da versão que pretende comprar. Para saber quem vende e como são as trocas, leia [Pink Cheeks é confiável?](/reviews/pinkcheeks-e-confiavel)."
+          "Comece pelo acabamento que você quer usar no rosto. O Pink Stick tem oito tons com cor e o 5 KM incolor, o Pro Stick tem seis tons e o Clear Stick não tem cor. Se prefere evitar fragrância, veja a lista de ingredientes da versão que pretende comprar.",
+          "Para comparar todos os tons do Pink Stick, com preço e foto de cada um, use o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher). Aqui o foco é a diferença entre os três bastões."
         ]
       },
       {
         "heading": "Pink Stick: o que o rótulo informa",
         "paragraphs": [
-          "O Pink Stick 21 KM é um protetor facial em bastão com cor. A ficha informa FPS 90, FPUVA 70 e filtros orgânicos e inorgânicos."
+          "O [Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km) é um protetor facial em bastão com cor, de 15,5 g. A ficha informa FPS 90, FPUVA 70 e filtros orgânicos e inorgânicos."
         ],
         "bullets": [
           "Segundo a ficha, a resistência à água e ao suor é de até duas horas. Siga a orientação de reaplicação da embalagem, inclusive após nadar, suar muito ou secar o rosto com toalha.",
           "A lista de ingredientes traz perfume, limoneno e linalol. Vale conferir a composição antes de escolher o tom.",
-          "Para localizar o produto pelo número do processo, veja [como consultar o Pink Stick na Anvisa](/reviews/pinkcheeks-e-confiavel)."
+          "O FAQ da loja estima cerca de 60 aplicações por bastão. Para tirar no fim do dia, a página indica demaquilante, água micelar ou cleansing oil, seguido de sabonete facial."
         ],
         "postParagraphs": [
           "A embalagem avisa que o protetor não protege contra insolação e orienta consultar um médico antes do uso em crianças menores de seis meses."
@@ -275030,53 +275300,38 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparar os tons do Pink Stick",
         "paragraphs": [
-          "Os tons usam nomes de distâncias de corrida, como 10 KM e 42 KM. Veja as amostras em braços e rostos nas fotos da marca. Na ficha, o botão “Prove virtualmente” ajuda a comparar as versões. Confirme o nome do tom escolhido antes de fechar o pedido."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
-            "alt": "Amostras de tons do Pink Stick em dois braços, em foto da Pink Cheeks.",
-            "caption": "Amostras do Pink Stick em dois tons de pele. Foto da Pink Cheeks.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          },
-          {
-            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
-            "alt": "Oito rostos com o Pink Stick, cada um com o nome da cor, de 10 KM a 100 KM, e um rosto com a indicação INCOLOR, em foto da Pink Cheeks",
-            "caption": "Amostras no rosto e a versão incolor, identificadas pela Pink Cheeks.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          }
+          "Os tons usam nomes de distâncias de corrida, como 10 KM e 42 KM, e o [5 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km) é a versão incolor. Veja as amostras em braços e rostos nas fotos da marca. Na ficha, o botão “Prove virtualmente” ajuda a comparar as versões. Confirme o nome do tom escolhido antes de fechar o pedido.",
+          "A loja não descreve subtom em texto, e o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher) reúne os links dos nove tons e o que cruzar antes de decidir."
         ]
       },
       {
         "heading": "Pink Stick, Pro Stick ou Clear Stick",
         "paragraphs": [
-          "Compare o acabamento que a loja informa para cada bastão. Os preços são de 19/11 e a coluna com cupom é uma estimativa de 10% sobre o preço publicado."
+          "Compare o acabamento que a loja informa para cada bastão. Os preços são de 22/11 e a coluna com cupom é uma estimativa de 10% sobre o preço publicado."
         ],
         "comparisonTable": {
           "caption": "Preço por bastão antes do frete.",
           "headers": [
-            "Linha e FPS",
+            "Bastão",
             "Acabamento",
             "Preço no site",
             "Com PNK-EMCASACOMCECILIA"
           ],
           "rows": [
             [
-              "Pink Stick FPS 90",
-              "Cobertura leve",
+              "[Pink Stick](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km), FPS 90 e FPUVA 70, 15,5 g",
+              "Cobertura leve a média; 5 KM incolor",
               "R$ 99,90",
               "R$ 89,91"
             ],
             [
-              "Pro Stick FPS 96",
+              "[Pro Stick](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro15), FPS 96 e FPUVA 43, 16 g",
               "Alta cobertura e acabamento mate",
               "R$ 99,90",
               "R$ 89,91"
             ],
             [
-              "Clear Stick FPS 70",
+              "[Clear Stick](https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g), FPS 70 e FPUVA 50, 12 g",
               "Transparente",
               "R$ 109,90",
               "R$ 98,91"
@@ -275085,19 +275340,41 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Pink Stick e Pro Stick custavam o mesmo na leitura. Para decidir entre os dois, veja quanta cobertura você quer. O Clear Stick é a opção transparente desta comparação.",
-          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial."
+          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial. No teste de 22/11, ele abateu 10% de um carrinho com um Pink Stick de R$ 99,90 e um kit; a coluna acima é a mesma conta aplicada a cada bastão."
         ]
       },
       {
         "heading": "Antiatrito: bastão, spray ou creme",
         "paragraphs": [
-          "Na linha Redless, a Pink Cheeks oferece bastão de 18 g, spray de 35 ml ou 75 ml e creme de 100 g. Se procura a linha por causa do atrito da roupa ou do equipamento, compare a forma de aplicação e o tamanho na ficha de cada versão."
+          "Na linha Redless, a Pink Cheeks oferece o [bastão de 18 g](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g), a R$ 54,90, o [spray de 35 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml), a R$ 52,90, ou de [75 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-75ml), a R$ 69,90, e o [creme Chamois Cream de 100 g](https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1), a R$ 54,90.",
+          "Se procura a linha por causa do atrito da roupa ou do equipamento, compare a forma de aplicação e o tamanho na ficha de cada versão. Os preços acima são os da vitrine, antes do frete."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+            "alt": "Bastão antiatrito Redless da Pink Cheeks, verde-água, ao lado da caixa branca, em foto oficial do produto",
+            "caption": "Redless Antiatrito em Bastão, de 18 g. Imagem: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g"
+          }
         ]
       },
       {
         "heading": "Protetor facial ou corporal",
         "paragraphs": [
-          "Para comparar opções para o corpo, veja as fichas do Shield FPS 60 e do bifásico FPS 57. Para o rosto, a loja também vende um bastão descrito como antioleosidade. Se você tem acne ou sensibilidade e está em dúvida sobre a fórmula, converse com um dermatologista."
+          "Para comparar opções para o corpo, veja as fichas do [Shield FPS 60 e FPUVA 50, de 45 g](https://pinkcheeks.com.br/products/shield-protetor-corporal-fps60-fpuva50-45g), a R$ 99,90, e do [bifásico FPS 57 e FPUVA 30, de 100 ml](https://pinkcheeks.com.br/products/protetor-solar-corporal-facial-bifasico-fps-57-fpuva-30-100ml), também a R$ 99,90, que a loja indica para corpo e rosto.",
+          "Para o rosto, a loja também vende o [protetor facial antioleosidade e antiacne de 18 g](https://pinkcheeks.com.br/products/protetor-solar-facial-antioleosidade-e-antiacne-18g), a R$ 109,90, descrito como bastão. Se você tem acne ou sensibilidade e está em dúvida sobre a fórmula, converse com um dermatologista."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+            "alt": "Bastão Shield, protetor solar corporal FPS 60 FPUVA 50 da Pink Cheeks, sobre a caixa roxa, em foto oficial do produto",
+            "caption": "Shield, o protetor corporal em bastão de 45 g. Imagem: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/shield-protetor-corporal-fps60-fpuva50-45g"
+          }
         ]
       },
       {
@@ -275105,11 +275382,13 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O protetor da Pink Cheeks é físico ou químico? A página do Pink Stick informa que o filtro é de amplo espectro e une filtros orgânicos e inorgânicos, ou seja, os dois tipos.",
           "O Pink Stick é resistente à água? A ficha informa resistência à água e ao suor por até duas horas. Consulte a embalagem para ver quando reaplicar, inclusive após nadar ou suar muito.",
-          "Qual é a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90 e cobertura leve. O Pro Stick tem FPS 96, alta cobertura e acabamento mate.",
+          "Qual é a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90, FPUVA 70 e cobertura leve a média. O Pro Stick tem FPS 96, FPUVA 43, alta cobertura e acabamento mate.",
+          "Existe Pink Stick sem cor? O 5 KM é a versão incolor da linha, com o mesmo FPS 90 e FPUVA 70 das versões com cor, segundo a loja.",
           "O protetor Pink Cheeks é bom para pele oleosa? A indicação da loja para pele oleosa é o protetor antioleosidade e antiacne. Se ele serve à sua pele, quem responde é um dermatologista."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 1098,
@@ -275138,7 +275417,7 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Pink Cheeks é confiável? CNPJ, Reclame Aqui e trocas",
     "type": "Editorial",
     "description": "Confira quem vende no site da Pink Cheeks, o recorte do Reclame Aqui, como consultar o processo do Pink Stick na Anvisa e onde pedir devolução ou falar com o SAC.",
-    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Veja quem vende, a nota no Reclame Aqui e onde pedir devolução ou acionar o SAC.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Veja quem vende, a nota 7,8 no Reclame Aqui e onde pedir devolução ou acionar o SAC.",
     "image": "/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-capa-v2.webp",
     "imageAlt": "Modelo segurando quatro tons de Ultra Balm da Pink Cheeks junto ao rosto, em foto oficial. A capa traz o logo Pink Cheeks e a chamada “É confiável?”, com o cupom PNK-EMCASACOMCECILIA.",
     "cta": {
@@ -275163,21 +275442,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O site da Pink Cheeks identifica a empresa responsável pela venda, com CNPJ e endereço em Leme (SP). No Reclame Aqui, a loja teve nota 7,7 e reputação Boa de maio a outubro de 2026. Antes de comprar, veja como pedir devolução e qual canal atende se o produto chegar com defeito."
+          "O site da Pink Cheeks identifica a empresa responsável pela venda, com CNPJ e endereço em Leme (SP). No Reclame Aqui, a loja tem reputação Boa, nota 7,8, e respondeu a todas as 72 reclamações dos últimos seis meses. Antes de comprar, veja como pedir devolução e qual canal atende se o produto chegar com defeito."
         ]
       },
       {
         "heading": "Quem vende e de onde é",
         "paragraphs": [
           "A empresa que vende no site é a Pink Cheeks Comércio de Cosméticos Ltda. No rodapé constam o CNPJ 23.713.072/0001-81 e o endereço Rua Jambeiro Costa, 2885, Distrito Industrial, Leme (SP).",
-          "A Pink Cheeks vende proteção solar, maquiagem com FPS e produtos antiatrito e para os cabelos."
+          "A Pink Cheeks vende proteção solar, maquiagem com FPS (blush, pó, batom, corretivo e sombra), produtos antiatrito, itens para os cabelos, kits e acessórios. A página inicial da loja diz que a marca nasceu no esporte, há mais de uma década, e foi criada por atletas. O site roda numa loja virtual com checkout padrão, e o pagamento pode ser em cartão, débito ou Pix, com parcelamento em até 5x sem juros, segundo a página de formas de pagamento."
         ]
       },
       {
         "heading": "De quem é a Pink Cheeks?",
         "paragraphs": [
           "A LIVE! comprou 60% da Pink Cheeks em 2026, segundo o [escritório que assessorou a aquisição](https://chambers.com/articles/live-enters-the-beauty-market-through-the-strategic-acquisition-of-pink-cheeks). A própria Pink Cheeks informa em seu site que faz parte do grupo LIVE!.",
-          "Manu Cit assina produtos em colaboração com a Pink Cheeks, como a cera para cabelo e o Duo Stick."
+          "A [cera para cabelo by Manu Cit](https://pinkcheeks.com.br/products/cera-para-cabelo-by-manu-cit-13-5g) e o [Duo Stick by Manu Cit](https://pinkcheeks.com.br/products/duo-stick-coral-e-bronzer-areia-fps-98-fpuva-46-by-manu-cit-2x-6g), que a loja vende em várias cores, são as peças em colaboração com Manu Cit. A loja também reúne as duas linhas em kits, como o [Kit Collabs by Manu Cit](https://pinkcheeks.com.br/products/kit-collabs-by-manu-cit) e o [Kit Favoritos da Manu Cit](https://pinkcheeks.com.br/products/kit-favoritos-manu-cit)."
         ]
       },
       {
@@ -275190,8 +275469,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A reputação em resumo",
         "paragraphs": [
-          "No [perfil da Pink Cheeks no Reclame Aqui](https://www.reclameaqui.com.br/empresa/pink-cheeks-comercio-de-cosmeticos/), o recorte de maio a outubro mostra nota 7,7 e reputação Boa. Houve 72 reclamações, todas respondidas, e 35 foram avaliadas.",
-          "O [guia da Pink Cheeks no Reclame Aqui](/reviews/pinkcheeks-reclame-aqui-nota-reputacao) mostra os demais indicadores e quais queixas mais aparecem."
+          "No [perfil da Pink Cheeks no Reclame Aqui](https://www.reclameaqui.com.br/empresa/pink-cheeks-comercio-de-cosmeticos/), a aba de seis meses mostra reputação Boa, nota 7,8. Houve 72 reclamações, todas respondidas, e 36 foram avaliadas, com solução de 77,8% entre elas. É uma base pequena, e as 72 reclamações não viram taxa sem o total de pedidos da loja.",
+          "Nos 12 meses a reputação é Ótima, com nota 8,0, e o perfil está no Reclame Aqui há 10 anos. Ele não tem o selo de Empresa Verificada nem o RA1000. O [guia da Pink Cheeks no Reclame Aqui](/reviews/pinkcheeks-reclame-aqui-nota-reputacao) mostra a tabela com todas as janelas e quais queixas mais aparecem."
         ]
       },
       {
@@ -275210,7 +275489,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar no site ou em pontos de venda",
         "paragraphs": [
-          "O site oficial é pinkcheeks.com.br. Para comprar presencialmente, use o mapa “Onde encontrar”, no menu da loja, e confira o ponto mais próximo."
+          "O site oficial é pinkcheeks.com.br, e é nele que o cupom vale. Para comprar presencialmente, use o mapa “Onde encontrar”, no menu da loja, e confira o ponto mais próximo da sua cidade.",
+          "Quem compra no site vê o parcelamento, o frete e o prazo no carrinho, antes de pagar. Vale conferir também o nome e o FPS na ficha de cada produto, porque a loja tem protetores e maquiagens com FPS diferentes, como o [protetor facial antioleosidade e antiacne](https://pinkcheeks.com.br/products/protetor-solar-facial-antioleosidade-e-antiacne-18g) da foto abaixo, que a loja declara com FPS99."
         ],
         "images": [
           {
@@ -275218,14 +275498,16 @@ export const reviewsData: unknown[] = [
             "alt": "Bastão protetor antioleosidade FPS99 da Pink Cheeks sobre uma toalha listrada, ao lado de um celular, em foto da Pink Cheeks",
             "caption": "O bastão protetor antioleosidade FPS99, da loja oficial. Foto: Pink Cheeks.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/protetor-solar-facial-antioleosidade-e-antiacne-18g"
           }
         ]
       },
       {
         "heading": "Se decidir comprar pelo site",
         "paragraphs": [
-          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial. O [passo a passo com a tela do checkout](/reviews/cupom-pinkcheeks-como-usar) mostra onde aplicar."
+          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, e o código vai no campo “Código de desconto ou cartão-presente” do checkout. No nosso teste de 22/11, ele valeu sobre um kit e um Pink Stick que já estavam em promoção de Black Friday.",
+          "O [passo a passo com a tela do checkout](/reviews/cupom-pinkcheeks-como-usar) mostra onde aplicar."
         ]
       },
       {
@@ -275237,7 +275519,8 @@ export const reviewsData: unknown[] = [
           "Como pedir devolução à Pink Cheeks? Para desistência de compra online, em até sete dias do recebimento, use o portal de trocas da loja. Para defeito de fabricação, procure o SAC em até 30 dias do recebimento."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 1099,
@@ -275264,10 +275547,10 @@ export const reviewsData: unknown[] = [
     "coupon": "PNK-EMCASACOMCECILIA",
     "affiliate": "pinkcheeks",
     "title": "Pink Cheeks no Reclame Aqui: nota, queixas e como falar com a loja",
-    "seoTitle": "Pink Cheeks no Reclame Aqui: nota e reclamações",
+    "seoTitle": "Pink Cheeks no Reclame Aqui: nota 7,8 e reclamações",
     "type": "Análise de Reputação",
-    "description": "Veja a nota da Pink Cheeks no Reclame Aqui, quantas pessoas avaliaram o atendimento, de que elas reclamaram e onde pedir ajuda se houver problema com a compra.",
-    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Veja a nota no Reclame Aqui, os problemas mais citados e quanto a loja resolve.",
+    "description": "A nota da Pink Cheeks no Reclame Aqui em cinco janelas, o que ela mede, os pontos positivos, o motivo mais citado de reclamação e como falar com a loja se o pedido tiver problema.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Veja a nota 7,8 no Reclame Aqui, as reclamações mais citadas e quanto a loja resolve.",
     "image": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp",
     "imageAlt": "Spray antiatrito Redless da Pink Cheeks junto de um capacete preto, em cena oficial de catálogo. A capa traz o logo Pink Cheeks e a chamada “Reclame Aqui — Nota e queixas”, com o cupom PNK-EMCASACOMCECILIA.",
     "cta": {
@@ -275292,108 +275575,172 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Pink Cheeks teve nota 7,7 e reputação Boa no Reclame Aqui de maio a outubro de 2026. Das 72 reclamações registradas, todas receberam resposta e 35 foram avaliadas. O índice de solução foi de 77,1%. Na aba geral, que cobre até três anos, protetor solar foi o tipo de produto mais citado."
+          "Na consulta de 22/11, a Pink Cheeks tinha reputação Boa, nota 7,8, no Reclame Aqui nos últimos seis meses, com 100% das 72 reclamações respondidas e solução de 77,8% entre as 36 avaliadas. O ponto de atenção é produto com defeito. O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
-        "heading": "A nota em números",
+        "heading": "A nota e os indicadores de cada período",
         "paragraphs": [
-          "A tabela reúne os indicadores do [perfil da Pink Cheeks](https://www.reclameaqui.com.br/empresa/pink-cheeks-comercio-de-cosmeticos/) que consultamos para o recorte de maio a outubro."
+          "Consultamos o [perfil da Pink Cheeks](https://www.reclameaqui.com.br/empresa/pink-cheeks-comercio-de-cosmeticos/) em 22/11 e anotamos as cinco janelas que ele mostra: seis meses, 12 meses, os anos de 2025 e 2024 e a aba Geral, que reúne até três anos. Cada coluna da tabela vem da aba de mesmo nome, e a de seis meses é a mais recente."
         ],
         "comparisonTable": {
-          "caption": "Indicadores da Pink Cheeks no período consultado.",
+          "caption": "Indicadores da Pink Cheeks no Reclame Aqui por aba de período. Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
           "headers": [
             "Indicador",
-            "Últimos 6 meses"
+            "6 meses",
+            "12 meses",
+            "2025",
+            "2024",
+            "Geral"
           ],
           "rows": [
             [
               "Reputação",
-              "Boa"
-            ],
-            [
-              "Nota",
-              "7,7"
+              "Boa, 7,8",
+              "Ótima, 8,0",
+              "Ótima, 8,3",
+              "Boa, 7,7",
+              "Boa, 7,9"
             ],
             [
               "Reclamações recebidas",
-              "72"
+              "72",
+              "114",
+              "71",
+              "101",
+              "288"
             ],
             [
               "Respondidas",
-              "100%"
-            ],
-            [
-              "Índice de solução entre as avaliadas",
-              "77,1%"
-            ],
-            [
-              "Voltariam a fazer negócio",
-              "71,4%"
+              "100%",
+              "100%",
+              "100%",
+              "100%",
+              "99%"
             ],
             [
               "Avaliadas",
-              "35"
+              "36",
+              "63",
+              "41",
+              "53",
+              "149"
+            ],
+            [
+              "Índice de solução, nas avaliadas",
+              "77,8%",
+              "79,4%",
+              "82,9%",
+              "75,5%",
+              "78,5%"
+            ],
+            [
+              "Voltariam a fazer negócio, nas avaliadas",
+              "72,2%",
+              "76,2%",
+              "73,2%",
+              "69,8%",
+              "72,5%"
             ],
             [
               "Nota média do consumidor",
-              "6,49"
+              "6,58",
+              "7,08",
+              "7,78",
+              "6,96",
+              "7,17"
             ],
             [
               "Tempo médio de resposta",
-              "2 dias e 3 horas"
+              "2 dias e 3 horas",
+              "1 dia e 23 horas",
+              "1 dia e 2 horas",
+              "6 dias e 16 horas",
+              "3 dias e 13 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "O Reclame Aqui usa as avaliações de quem reclamou para calcular o índice de solução e o percentual de quem voltaria a comprar. A nota 7,7 é a reputação geral da plataforma. A nota 6,49 é a média das avaliações dos consumidores. [Metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui)"
+          "Na aba Geral, 3 reclamações aguardavam resposta, e é por isso que o índice de respondidas aparece como 99%. Nas demais abas, nenhuma estava sem resposta. O histórico de reputação do perfil começa em Ótima e termina em Boa."
         ]
       },
       {
-        "heading": "Uma base pequena pede cuidado",
+        "heading": "O que a nota mede, e o que não mede",
         "paragraphs": [
-          "As 35 reclamações avaliadas são a base para ler o índice de solução. A tabela ajuda a entender o atendimento desse grupo. O perfil também mostra como a reputação mudou: de Ótima em maio e junho para Boa entre julho e outubro."
+          "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade do protetor solar, da maquiagem ou do antiatrito, e muda conforme novas reclamações entram e são avaliadas. A [metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui) explica o cálculo.",
+          "Há duas notas diferentes no perfil. A de 7,8 é a reputação, calculada pela plataforma com os indicadores da tabela. A de 6,58 é a média das notas que os próprios consumidores deram ao atendimento depois de encerrar a reclamação. A faixa também varia por período: a Pink Cheeks aparece como Ótima nos 12 meses e em 2025 e como Boa nos seis meses, em 2024 e na aba Geral.",
+          "O perfil não tem o selo RA1000, que exige 90% ou mais de solução entre outros critérios, nem o de Empresa Verificada. Isso descreve o que a plataforma reconhece hoje, e a nota e os indicadores acima continuam valendo como leitura do atendimento."
+        ]
+      },
+      {
+        "heading": "Pontos positivos",
+        "paragraphs": [
+          "Estes são os sinais favoráveis que o perfil mostrava na consulta:"
+        ],
+        "bullets": [
+          "**Respostas.** Nos seis meses, 100% das 72 reclamações tiveram resposta, sem nenhuma aguardando. O mesmo vale para as abas de 12 meses, 2025 e 2024.",
+          "**Tempo de resposta.** A loja respondeu, em média, em 2 dias e 3 horas nos seis meses e em 1 dia e 23 horas nos 12 meses.",
+          "**Faixa e nota.** A reputação é Boa nos seis meses (7,8), Ótima nos 12 meses (8,0) e Ótima em 2025 (8,3).",
+          "**Solução, nas avaliadas.** Entre as 36 reclamações avaliadas nos seis meses, 77,8% foram consideradas resolvidas, e 72,2% dos autores disseram que voltariam a fazer negócio.",
+          "**Tempo de casa.** O perfil está no Reclame Aqui há 10 anos."
+        ]
+      },
+      {
+        "heading": "Cuidados na leitura dos números",
+        "paragraphs": [
+          "Sem o total de pedidos da Pink Cheeks no mesmo período, as 72 reclamações dos seis meses são um número absoluto: não viram taxa, e não dá para dizer se são muitas ou poucas para o tamanho da operação.",
+          "Solução e “voltariam a fazer negócio” valem para as 36 reclamações avaliadas, não para todos os clientes. É uma base pequena, em que poucas avaliações mudam o percentual, então o índice mostra tendência e não uma garantia.",
+          "Os indicadores da tabela e os motivos de reclamação da aba Geral também não se misturam: a Geral cobre até três anos, e os seis meses cobrem só o semestre mais recente."
         ]
       },
       {
         "heading": "O que mais gera reclamação",
         "paragraphs": [
-          "Na aba geral, que reúne registros de até três anos, o protetor solar foi o tipo de produto mais citado. Entre os motivos, “Produto com defeito” apareceu com a mesma frequência que “Não encontrei meu problema”. Esses dados abrangem um período maior que o da tabela."
+          "Os motivos saem da aba Geral, que reúne até três anos e 288 reclamações, e não dos seis meses da tabela. Nela, “Produto com defeito” responde por 10,07% dos principais problemas, seguido de “Não encontrei meu problema”, com 9,72%. Na lista por produto, a categoria mais citada é Protetor solar, com 13,54%.",
+          "Como a Pink Cheeks tem o protetor solar como carro-chefe, é natural que ele apareça no topo da lista por produto. O perfil mostra o relato de quem reclamou e a resposta da loja dentro de cada reclamação, e vale ler algumas antes de decidir."
         ]
       },
       {
-        "heading": "O que guardar depois de comprar",
+        "heading": "Como falar com a loja e o que guardar do pedido",
         "paragraphs": [
-          "Guarde o número do pedido, a nota fiscal e o e-mail usado na compra. Se o produto chegar errado, avariado ou com defeito, fotografe o pacote e o item."
+          "Para desistir de uma compra feita no site, use o [portal de trocas e devoluções](https://pinkcheeks.troque.app.br/), com o número do pedido e o e-mail ou CPF da compra. Para defeito de fabricação, a [política da loja](https://pinkcheeks.com.br/policies/refund-policy) dá 30 dias do recebimento para falar com o SAC e preencher o Formulário de Qualidade.",
+          "O que guardar resolve a maior parte dos casos:"
         ],
-        "postParagraphs": [
-          "Se você ainda está decidindo se compra, veja [quem vende e como funcionam as trocas](/reviews/pinkcheeks-e-confiavel)."
+        "bullets": [
+          "**Pedido.** Número do pedido, nota fiscal e o e-mail usado na compra.",
+          "**Produto.** Fotos da embalagem e do item ao abrir, com o lote impresso na embalagem quando houver.",
+          "**Atendimento.** O protocolo e as mensagens trocadas com o SAC."
         ]
       },
       {
-        "heading": "Como reclamar se o pedido der problema",
+        "heading": "Vale a pena comprar na Pink Cheeks?",
         "paragraphs": [
-          "Para desistir de uma compra do site, use o [portal de trocas e devoluções](https://pinkcheeks.troque.app.br/). Para defeito de fabricação, a [política da loja](https://pinkcheeks.com.br/policies/refund-policy) dá 30 dias do recebimento para falar com o SAC e preencher o Formulário de Qualidade.",
-          "Guarde o protocolo. Se o atendimento não resolver, você pode registrar uma reclamação no Reclame Aqui ou procurar o Procon do seu estado."
-        ]
-      },
-      {
-        "heading": "Onde conferir o perfil atualizado",
-        "paragraphs": [
-          "Consulte o [perfil da Pink Cheeks](https://www.reclameaqui.com.br/empresa/pink-cheeks-comercio-de-cosmeticos/) para ver o recorte mais recente e as respostas da loja.",
-          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial."
+          "Pelo Reclame Aqui, a loja responde a todas as reclamações e tem faixa Boa ou Ótima em todas as janelas consultadas, com solução de 77,8% entre as avaliadas nos seis meses. O ponto de atenção é o produto com defeito, o motivo mais citado na aba Geral, e a base de avaliações é pequena. Ao receber o pedido, confira o item e guarde as fotos.",
+          "Se decidir comprar, o [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial. Para saber quem vende e como funcionam as trocas, veja [se a Pink Cheeks é confiável](/reviews/pinkcheeks-e-confiavel), e o passo a passo do checkout está em [como usar o cupom](/reviews/cupom-pinkcheeks-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+            "alt": "Kit Natação da Pink Cheeks com shampoo em pó, leave-in Anti Shock Speedo em spray e protetor solar facial Speedo em bastão, em foto oficial",
+            "caption": "Kit Natação, um dos kits da Black Friday em que o cupom entrou no nosso teste. Imagem: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/kit-natacao"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como é o atendimento da Pink Cheeks no Reclame Aqui? No semestre da nossa leitura, a loja respondeu a todas as 72 reclamações. O índice de solução foi de 77,1%, com 35 reclamações avaliadas.",
-          "Qual é a nota da Pink Cheeks no Reclame Aqui? No recorte de seis meses que consultamos, a nota foi 7,7 e a reputação era Boa. Veja o perfil para conferir a nota atual.",
-          "Quais as reclamações mais comuns da Pink Cheeks? Na aba geral do perfil, produto com defeito e “não encontrei meu problema” lideram as categorias, e o protetor solar é o produto mais citado.",
-          "Como falar com a Pink Cheeks? Use o SAC da loja para relatar defeito. Para desistência de uma compra no site, acesse o portal de trocas e devoluções com o número do pedido."
+          "Qual a nota da Pink Cheeks no Reclame Aqui? Na aba de seis meses, a reputação é Boa, com nota 7,8. Nos 12 meses é Ótima, com 8,0. A média que os consumidores deram ao atendimento nos seis meses é 6,58.",
+          "A Pink Cheeks tem o selo RA1000 ou Empresa Verificada? Não. O perfil não mostra nenhum dos dois selos, mas tem 10 anos de cadastro e responde às reclamações.",
+          "A Pink Cheeks responde e resolve as reclamações? Nos seis meses, respondeu 100% das 72 reclamações, em média em 2 dias e 3 horas. Entre as 36 avaliadas, 77,8% foram consideradas resolvidas.",
+          "Quais as reclamações mais comuns da Pink Cheeks? Na aba Geral, produto com defeito é o principal problema, com 10,07%, e o protetor solar é a categoria mais citada, com 13,54%.",
+          "Tem cupom de desconto na Pink Cheeks? Tem. O código PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, e no nosso teste ele valeu sobre kit e Pink Stick já em promoção."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 1100,
@@ -275453,15 +275800,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde encontrar o desconto na primeira compra",
         "paragraphs": [
-          "A Pink Cheeks é uma marca brasileira de proteção solar, maquiagem com FPS e produtos antiatrito. Se é a sua primeira vez na loja, veja [quem vende e como a Pink Cheeks atende pedidos de troca](/reviews/pinkcheeks-e-confiavel).",
+          "A Pink Cheeks é uma marca brasileira de proteção solar, maquiagem com FPS e produtos antiatrito, feita para quem pratica esporte.",
           "Copie PNK-EMCASACOMCECILIA na [página do cupom Pink Cheeks](/cupons/pinkcheeks). No nosso teste, o checkout abriu sem login e mostrou o desconto antes da identificação. O código atende quem compra pela primeira vez e quem já é cliente."
         ]
       },
       {
         "heading": "O que comparar antes de escolher um produto",
         "paragraphs": [
-          "Para escolher um protetor facial em bastão, comece pelo acabamento. O Pink Stick tem cobertura leve. O Pro Stick tem alta cobertura, e o Clear Stick é transparente. Nosso [guia de produtos da Pink Cheeks](/reviews/pinkcheeks-e-boa) reúne os FPS, as cores e os preços lidos na loja.",
-          "Se procura maquiagem com cor, as imagens da Pink Cheeks mostram como ficam alguns tons do blush All In One em peles diferentes."
+          "Para escolher um protetor facial em bastão, comece pelo acabamento. O [Pink Stick](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km) tem cobertura leve a média, o [Pro Stick](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro15) tem alta cobertura e o [Clear Stick](https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g) é transparente. Nosso [guia de produtos da Pink Cheeks](/reviews/pinkcheeks-e-boa) reúne os FPS, as cores e os preços lidos na loja.",
+          "Se a dúvida é a cor do Pink Stick, o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher) lista os oito tons e o 5 KM incolor. Se procura maquiagem com cor, as imagens da Pink Cheeks mostram como ficam alguns tons do [Blush All In One](https://pinkcheeks.com.br/products/blush-all-in-one-fps30-fpuva10-4-5g-terracota) em peles diferentes."
         ],
         "images": [
           {
@@ -275485,20 +275832,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que conferir sobre Pix, promoção e frete",
+        "heading": "O que conferir sobre Pix, promoção, frete e troca",
         "paragraphs": [
-          "No nosso teste, o código entrou sobre o preço promocional do blush. O desconto continuou aplicado quando selecionamos Pix. Para os kits em oferta, veja [a Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks).",
-          "A [regra de frete da Pink Cheeks](https://pinkcheeks.com.br/pages/regras-de-frete) informa entrega Normal grátis em compras a partir de R$ 199. Na página inicial, a loja também anuncia frete grátis acima de três itens. Confira com seu CEP quanto fica a entrega depois de aplicar o cupom."
-        ]
-      },
-      {
-        "heading": "Como pedir devolução ou acionar o SAC",
-        "paragraphs": [
-          "A [política de trocas da loja](https://pinkcheeks.com.br/policies/refund-policy) pede que o produto esteja lacrado para devolver por arrependimento. Se estiver em dúvida sobre a cor, veja as amostras antes de abrir o produto."
-        ],
-        "bullets": [
-          "**Desistência da compra online.** O prazo é de sete dias do recebimento, com o produto lacrado e a nota fiscal. A política indica o [portal de trocas e devoluções](https://pinkcheeks.troque.app.br/), com o número do pedido e o e-mail ou CPF da compra, e também o SAC com o Formulário de Qualidade.",
-          "**Defeito de fabricação.** Se o defeito aparecer depois da entrega, a [política da Pink Cheeks](https://pinkcheeks.com.br/policies/refund-policy) dá 30 dias do recebimento para falar com o SAC, por e-mail ou WhatsApp, e preencher o Formulário de Qualidade. Guarde a nota fiscal e fotografe o produto."
+          "No nosso teste, o código entrou sobre o preço promocional do blush. O desconto continuou aplicado quando selecionamos Pix. No teste de 22/11, também entrou num carrinho com o [Kit Natação](https://pinkcheeks.com.br/products/kit-natacao) e um [Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km), de R$ 234,75 para R$ 211,28. Para os kits em oferta, veja [a Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks).",
+          "A [regra de frete da Pink Cheeks](https://pinkcheeks.com.br/pages/regras-de-frete) informa entrega Normal grátis em compras a partir de R$ 199. Na página inicial, a loja também anuncia frete grátis acima de três itens. Confira com seu CEP quanto fica a entrega depois de aplicar o cupom.",
+          "Sobre troca, a [política da loja](https://pinkcheeks.com.br/policies/refund-policy) dá sete dias do recebimento para desistir, com o produto lacrado, e 30 dias para falar de defeito, pelo [portal de trocas](https://pinkcheeks.troque.app.br/) ou pelo SAC. Se estiver em dúvida sobre a cor, veja as amostras antes de abrir o produto."
         ]
       },
       {
@@ -275507,10 +275845,11 @@ export const reviewsData: unknown[] = [
           "Qual é o desconto na primeira compra da Pink Cheeks? O cupom PNK-EMCASACOMCECILIA dá 10% OFF no site oficial. Cole o código com o hífen no campo “Código de desconto ou cartão-presente” do checkout.",
           "O cupom Pink Cheeks vale para quem já comprou? O PNK-EMCASACOMCECILIA dá 10% OFF no site oficial também para quem já é cliente.",
           "Preciso criar conta para usar o cupom? No nosso teste, o checkout mostrou o desconto antes de pedir identificação.",
-          "O cupom vale em produto em promoção? No nosso teste, PNK-EMCASACOMCECILIA deu mais 10% sobre o blush em promoção. Para um kit, confira o desconto no seu pedido."
+          "O cupom vale em produto em promoção? No nosso teste, PNK-EMCASACOMCECILIA deu mais 10% sobre o blush em promoção e sobre um carrinho com um kit de Black Friday e um Pink Stick."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 1101,
@@ -289718,6 +290057,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O EMCASA dá 15% OFF na HolyFoods. Projeto 21 Dias: o que vem no kit, a tabela de cada sachê, o preço por sachê e como preparar.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa-v2.webp",
@@ -289774,8 +290114,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que vem no Projeto 21 Dias",
         "paragraphs": [
-          "A loja informa que são 21 sachês individuais: sete da Sopa da Vovó, sete da Sopa Low Carb e sete da Canja da Mamãe. Você prepara um por vez e escolhe em quais dias usar.",
-          "No kit e nos packs, os sachês pesam 43 g na Vovó, 50 g na Low Carb e 44 g na Canja. As listas de ingredientes podem mudar: a página do pack da Vovó inclui mandioquinha e alho-poró, ausentes na lista do kit. Nos três sabores do kit, a ficha declara derivados de soja. Confira os avisos de alergênicos na embalagem do sabor escolhido."
+          "A loja informa que são 21 sachês individuais: sete da [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), sete da [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e sete da [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz). O 21 do nome é a quantidade de sachês do kit. Você prepara um por vez e escolhe em quais dias usar.",
+          "No kit e nos packs, os sachês pesam 43 g na Vovó, 50 g na Low Carb e 44 g na Canja. As listas de ingredientes dos sachês do kit incluem alho-poró, por exemplo na Low Carb e na Canja. Nos três sabores do kit, a ficha declara derivados de soja. Confira os avisos de alergênicos na embalagem do sabor escolhido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-tres-sopas.webp",
+            "alt": "Três pratos de sopa dos sabores do Projeto 21 Dias, com os sachês do kit ao lado, em foto oficial da HolyFoods",
+            "caption": "Projeto 21 Dias: 21 porções individuais, em sachês. Foto oficial da HolyFoods.",
+            "objectFit": "square",
+            "href": "https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
         ]
       },
       {
@@ -289784,7 +290133,7 @@ export const reviewsData: unknown[] = [
           "O Projeto 21 Dias tem o menor total entre as duas opções com três sabores. O Projeto 30 Dias custa mais no pedido, mas cobra menos por sachê e traz dez unidades de cada sabor."
         ],
         "comparisonTable": {
-          "caption": "Preços de 20/11, sem frete. No Projeto 21 Dias, o valor com EMCASA é o total que o checkout mostrou; no pack e no Projeto 30 Dias, é a conta de 15% sobre o preço da campanha.",
+          "caption": "Preços de 22/11, sem frete. No Projeto 21 Dias, o valor com EMCASA é o total que o checkout mostrou; no pack e no Projeto 30 Dias, é a conta de 15% sobre o preço da campanha.",
           "headers": [
             "Opção",
             "Preço da campanha",
@@ -289898,8 +290247,8 @@ export const reviewsData: unknown[] = [
         "heading": "Kit ou pack: para quem vale cada um",
         "bullets": [
           "Quer levar os três sabores gastando menos no pedido: Projeto 21 Dias.",
-          "Quer levar os três sabores pagando menos por sachê: Projeto 30 Dias. Para repetir um sabor, escolha o pack desse sabor.",
-          "Quer provar uma sopa só gastando pouco: o avulso, que está comparado no artigo de HolyFoods é boa.",
+          "Quer levar os três sabores pagando menos por sachê: Projeto 30 Dias. Para repetir um sabor, escolha o pack desse sabor: [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) ou [Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz).",
+          "Quer provar uma sopa só gastando pouco: o avulso, como a [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) ou a [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), que está comparado no artigo de HolyFoods é boa.",
           "Não tem de 15 a 20 minutos de fogão: nenhum dos dois resolve, porque todo sachê é cozido na panela.",
           "Precisa excluir um ingrediente: leia a lista e os alérgenos de cada sabor antes de comprar o kit, que traz os três."
         ],
@@ -289908,7 +290257,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Projeto 21 Dias emagrece? A tabela mostra de 111 a 175 kcal por sachê seco, e só. O resultado de uma dieta depende do resto da alimentação, e a orientação individual é de nutricionista ou médico.",
+          "O que o 21 Dias do nome quer dizer? É o número de sachês do kit, sete de cada sopa, e o nome não promete resultado. A tabela mostra de 111 a 175 kcal por sachê seco, e só. A orientação sobre alimentação é de nutricionista ou médico.",
           "O cupom EMCASA entra no Projeto 21 Dias? Entra. No teste no checkout, o código tirou 15% do preço do kit, que já estava com os 30% da campanha. Digite em Inserir cupom de desconto, na tela Finalizar compra, e confira a linha de desconto antes de pagar.",
           "Dá para comprar um sabor só do Projeto 21 Dias? No kit, não: ele traz sete sachês de cada um dos três sabores. Para um sabor só, a loja vende o pack de sopa, com dez sachês.",
           "Precisa de sal na sopa do Projeto 21 Dias? A loja indica sal a gosto na panela. Como o sal muda o sódio do prato, a tabela do sachê não cobre o que você acrescentar."
@@ -289936,6 +290285,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O EMCASA dá 15% OFF na HolyFoods. HolyFoods ou Mexidona? Sopa, risoto e mac pelo rótulo: porção, proteína, sódio e preço por 100 g de mistura.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa-v2.webp",
@@ -290024,7 +290374,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sopa: Vovó e Low Carb contra Sopa Amarela e Sopa da Nona",
         "paragraphs": [
-          "A Mexidona tem uma sopa de massa de arroz e batata, a Sopa Amarela, e uma de lentilha, a Sopa da Nona. Os pares mais próximos na HolyFoods são a Sopa da Vovó, com macarrão de arroz, e a Low Carb, com lentilha vermelha e quinoa."
+          "A Mexidona tem uma sopa de massa de arroz e batata, a Sopa Amarela, e uma de lentilha, a Sopa da Nona. Os pares mais próximos na HolyFoods são a [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), com macarrão de arroz, e a [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), com lentilha vermelha e quinoa."
         ],
         "comparisonTable": {
           "caption": "Valores por porção da ficha. O peso da mistura seca varia conforme o produto.",
@@ -290070,7 +290420,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risoto: a proteína da porção e a do pacote",
         "paragraphs": [
-          "O Risoto de Queijo da HolyFoods leva leite e queijos. A Mexidona apresenta o seu Risoto Sabor Queijo como zero lactose e anuncia 20 g de proteína no pacote. A tabela declara 7 g por porção de 60 g. No preço por 20 g de proteína, usei o total informado para o pacote."
+          "O [Risoto de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) da HolyFoods leva leite e queijos. A Mexidona apresenta o seu Risoto Sabor Queijo como zero lactose e anuncia 20 g de proteína no pacote. A tabela declara 7 g por porção de 60 g. No preço por 20 g de proteína, usei o total informado para o pacote."
         ],
         "comparisonTable": {
           "caption": "Valores por pacote inteiro. Para o risoto da Mexidona, calorias e sódio são a estimativa de três porções. Os 20 g de proteína por pacote vêm da descrição da loja.",
@@ -290119,7 +290469,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mac: proteína, sódio e tempo de panela",
         "paragraphs": [
-          "O par do Mac Frango da Mexidona na HolyFoods é o Mac Caipira, que também leva frango. A tabela traz os dois mais o Mac Queijo, o da foto da HolyFoods, na mesma base: a embalagem ou o pacote inteiro."
+          "O par do Mac Frango da Mexidona na HolyFoods é o [Mac Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), que também leva frango. A tabela traz os dois mais o Mac Queijo, o da foto da HolyFoods, na mesma base: a embalagem ou o pacote inteiro."
         ],
         "comparisonTable": {
           "caption": "Por embalagem ou pacote inteiro, pela tabela de cada produto.",
@@ -290168,7 +290518,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com a campanha da HolyFoods",
         "paragraphs": [
-          "Compare o preço da HolyFoods com e sem EMCASA e o da Mexidona no Pix. Os pares são Vovó e Sopa Amarela, os dois risotos de queijo e Mac Queijo e Mac Frango."
+          "A HolyFoods está com a Black da Holy, que a loja anuncia como 30% de desconto no site todo, já aplicado nos preços e sem cupom. Nessa conta, sopa, risoto e mac avulsos saem a R$ 13,93, contra R$ 19,90 de lista, e o cartão parcela em até 3x sem juros. A loja não publica data de fim da campanha.",
+          "O EMCASA entra por cima: na tela Finalizar compra, em Inserir cupom de desconto, ele tira 15% do preço que já está com a Black, e o avulso de R$ 13,93 passa a R$ 11,84. O código não entra no carrinho lateral nem no link da loja. Se aparecer outro código já aplicado no checkout, remova e cole o EMCASA. Hoje a loja não mostra desconto extra no Pix, então a conta não soma Pix ao cupom.",
+          "Os pares comparados são Vovó e Sopa Amarela, os dois risotos de queijo e Mac Queijo e Mac Frango. Do lado da Mexidona, a conta usa o preço no Pix."
         ],
         "comparisonTable": {
           "caption": "Preços de 20/11, em R$, antes do frete. A conta simula 15% de EMCASA na HolyFoods e 5% de Pix na Mexidona. Os preços são arredondados por pacote antes da divisão.",
@@ -290275,7 +290627,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que as listas de ingredientes mostram",
         "paragraphs": [
-          "Lactose separa os dois queijos. O Risoto de Queijo, o Mac Queijo e o Mac Alfredo da HolyFoods levam leite e lactose. A lista do Risoto Sabor Queijo da Mexidona não traz leite, e a página o anuncia como zero lactose; confira os alérgenos na embalagem.",
+          "Lactose separa os dois queijos. O Risoto de Queijo, o Mac Queijo e o [Mac Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) da HolyFoods levam leite e lactose. A lista do Risoto Sabor Queijo da Mexidona não traz leite, e a página o anuncia como zero lactose; confira os alérgenos na embalagem.",
           "Nos risotos e macs comparados aqui, as duas marcas adicionam fonte de proteína à receita. A HolyFoods usa colágeno e, no Mac Caipira, também proteína isolada de ervilha; a Mexidona usa proteína isolada de ervilha, e o Risoto de Cogumelos também leva proteína isolada de arroz. A massa do Mac Queijo da HolyFoods traz corantes e emulsificante; a lista da massa do Mac Frango traz farinhas de arroz, proteína de ervilha, fécula e gomas xantana e guar.",
           "Nas duas marcas o preparo pede sal a gosto, então o sódio das tabelas vale para o produto sem o sal que você puser. Nas listas da Mexidona comparadas aqui não há conservante declarado, como nas da HolyFoods.",
           "Nas duas, leia a linha pode conter. A Sopa da Nona declara que pode conter aveia, amendoim, soja e castanhas, e o Risoto Funghi da HolyFoods, derivados de leite, soja, ovos, peixes, crustáceos, aveia e amendoim. As duas informam que não contêm glúten."
@@ -290326,6 +290678,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. Como preparar sopa, risoto e mac: a água, o tempo e o fogão ou micro-ondas de cada ficha.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/holyfoods-como-preparar-capa-v2.webp",
@@ -290406,7 +290759,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Risoto",
-              "400 ml para começar",
+              "400 ml para começar, até cerca de 600 ml aos poucos",
               "18 a 20 minutos",
               "300 ml"
             ],
@@ -290432,8 +290785,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sopa HolyFoods: fogão, água e tempo",
         "paragraphs": [
-          "Use o conteúdo inteiro do pacote avulso em água quente, em fogo médio, com a panela de tampa semiaberta, mexendo de vez em quando. A Sopa da Vovó e a Sopa Detox pedem 1,2 litro de água, e a Low Carb e a Canja da Mamãe pedem 1,1 litro.",
-          "O sachê do pack e do kit é outra conta: um sachê para 450 ml de água quente, também em fogo médio e de tampa semiaberta. A loja avisa que não se usa a quantidade de água dos pacotes maiores. A ficha da sopa indica só o fogão, sem preparo no micro-ondas."
+          "Use o conteúdo inteiro do pacote avulso em água quente, em fogo médio, com a panela de tampa semiaberta, mexendo de vez em quando. A [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e a [Sopa Detox](https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) pedem 1,2 litro de água, com 15 e 20 minutos de fogo. A [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e a [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) pedem 1,1 litro, por 20 minutos.",
+          "O sachê do pack e do kit é outra conta: um sachê para 450 ml de água quente, também em fogo médio e de tampa semiaberta. Isso vale para o [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), o [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), o [Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e os sachês do [Projeto 21 Dias](https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz). Se você fizer mais de um sachê de uma vez, cada um leva os seus 450 ml. A loja avisa que não se usa a quantidade de água dos pacotes maiores.",
+          "Resumindo o passo a passo da ficha: água quente na panela, todo o conteúdo do pacote ou do sachê, fogo médio, tampa semiaberta e o tempo da tabela, mexendo de vez em quando. O sal entra a gosto, no fim. O pacote avulso rende cerca de 1 litro de sopa, em 4 porções de 250 g. A ficha da sopa indica só o fogão, sem preparo no micro-ondas."
         ],
         "comparisonTable": {
           "caption": "Sopa no fogão, pela ficha da loja: água quente por pacote avulso e por sachê, em fogo médio.",
@@ -290472,7 +290826,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risoto HolyFoods: fogão ou micro-ondas",
         "paragraphs": [
-          "Nas fichas de Funghi, Al Mare e Queijo, o risoto começa com 400 ml no fogão e ganha mais água conforme ela evapora. O tempo de referência é de 18 a 20 minutos. A FAQ da HolyFoods cita 600 ml adicionados aos poucos para o preparo indicado na embalagem. Se a sua embalagem trouxer essa medida, siga a instrução dela.",
+          "Nas fichas do [Risoto Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), do [Risoto Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e do [Risoto de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), o preparo no fogão pede 400 ml de água para começar e acrescentar mais aos poucos, conforme ela evapora. A FAQ da HolyFoods fala em 600 ml de água adicionada aos poucos, em 18 a 20 minutos. As duas instruções batem: você começa com 400 ml e completa até chegar perto de 600 ml, sem deixar o risoto secar. Cada embalagem rende uma porção de 320 g pronta. Se a sua embalagem trouxer outra medida, siga a dela.",
           "As fichas de produto também descrevem o micro-ondas: misture o conteúdo com 300 ml de água em recipiente próprio, aqueça em potência alta por 10 minutos, misture e volte por mais 5. Confira a instrução do seu rótulo."
         ],
         "images": [
@@ -290489,7 +290843,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mac HolyFoods: fogão ou micro-ondas",
         "paragraphs": [
-          "No fogão, ferva 500 ml de água, junte todo o conteúdo do pacote e sal, e cozinhe de 15 a 20 minutos, mexendo. No micro-ondas, use 400 ml de água. O Mac Queijo e o Mac Alfredo levam 9 minutos e mais 6; o Mac Bolonha e o Mac Caipira levam 12 minutos e mais 6.",
+          "No fogão, ferva 500 ml de água, junte todo o conteúdo do pacote e sal, e cozinhe de 15 a 20 minutos, mexendo. No micro-ondas, use 400 ml de água. O [Mac Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e o [Mac Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) levam 9 minutos e mais 6; o [Mac Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e o [Mac Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) levam 12 minutos e mais 6.",
           "O Mac Queijo e o Mac Alfredo levam leite e lactose, assim como o Risoto de Queijo; o Risoto Al Mare leva peixe e camarão. O Risoto Funghi pode conter leite, soja, ovos, peixes, crustáceos, aveia e amendoim. Confira as linhas contém e pode conter da embalagem que chegar."
         ],
         "comparisonTable": {
@@ -290544,6 +290898,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Dá para preparar risoto HolyFoods no micro-ondas? As fichas de produto descrevem um preparo com 300 ml de água, em duas etapas de 10 e 5 minutos. Confira a orientação da embalagem antes de começar.",
+          "Risoto HolyFoods leva 400 ml ou 600 ml de água? As duas medidas valem: a ficha manda começar com 400 ml, e a FAQ da loja fala em 600 ml adicionados aos poucos, em 18 a 20 minutos.",
           "Sopa HolyFoods se faz no micro-ondas? A ficha da sopa indica só o fogão, em fogo médio, com a panela de tampa semiaberta.",
           "Dá para fazer o sachê com a água do pacote? Não. A loja pede 450 ml de água quente por sachê e avisa para não usar a quantidade dos pacotes maiores.",
           "Precisa pôr sal? A ficha diz sal a gosto: comece com pouco e acerte no fim.",
@@ -311060,7 +311415,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher e quanto sai com o cupom",
         "paragraphs": [
           "Fique no Pink Stick se você quer cobertura leve a média nos treinos ao ar livre (escolhendo entre 10 KM e 100 KM ULTRA) ou prefere abrir mão do pigmento no 5 KM incolor. Troque para o Pro Stick se quiser efeito mais próximo ao de base com acabamento mate, ou vá de Clear Stick se buscar um bastão totalmente transparente, de toque seco e embalagem menor.",
-          "Conta nossa, pelos preços das páginas: o [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial para clientes novos e antigos. Partindo do preço promocional da Tabela 1, uma simulação de 10% levaria o Pink Stick a R$ 89,91 (economia de R$ 9,99). Essa conta é uma simulação sem teste de carrinho para esse bastão; antes de pagar, confira a linha “Desconto no pedido” no checkout para confirmar se os 10% somam ao preço promocional do dia. O frete é grátis na Entrega Normal a partir de R$ 199 (e a barra promocional exibia frete grátis acima de 3 itens), com parcelamento em até 5x sem juros no cartão e Pix aceito sem desconto percentual anunciado. Veja o passo a passo da tela de pagamento em [como usar o cupom Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
+          "Conta nossa, pelos preços das páginas: o [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial para clientes novos e antigos. No teste de 22/11, o carrinho tinha o Pink Stick 21 KM, a R$ 99,90, e o [Kit Natação](https://pinkcheeks.com.br/products/kit-natacao), a R$ 134,85, com subtotal de R$ 234,75. O código tirou R$ 23,47 e o total ficou em R$ 211,28, ou seja, 10% sobre o carrinho inteiro, com o bastão dentro, a preços de Black Friday. Para o bastão sozinho, 10% de R$ 99,90 daria R$ 89,91, conta nossa a partir do mesmo desconto. Antes de pagar, confira a linha “Desconto no pedido” no checkout. O frete é grátis na Entrega Normal a partir de R$ 199 (e a barra promocional exibia frete grátis acima de 3 itens), com parcelamento em até 5x sem juros no cartão e Pix aceito sem desconto percentual anunciado. Veja o passo a passo da tela de pagamento em [como usar o cupom Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
         ]
       },
       {
@@ -311070,10 +311425,11 @@ export const reviewsData: unknown[] = [
           "Qual versão do Pink Stick não tem cor? O 5 KM é a única opção sem pigmento da linha Pink Stick, marcada como incolor na loja, com o mesmo fator de proteção e tamanho das versões com cor.",
           "Pink Stick derrete ou arde nos olhos durante o treino? A Pink Cheeks informa resistência comprovada à água e ao suor por duas horas, sem escorrer nem incomodar os olhos, e orienta não deixar o bastão dentro do carro.",
           "Quantas aplicações rende um Pink Stick e como tirar do rosto? O FAQ oficial estima cerca de 60 aplicações por bastão, e a marca orienta remoção em duas etapas no fim do dia, detalhada no capítulo de suor e remoção acima.",
-          "O cupom PNK-EMCASACOMCECILIA funciona no Pink Stick em promoção? O código dá 10% OFF no site oficial para clientes novos e antigos, mas como o Pink Stick está com preço promocional na página, confira a linha Desconto no pedido no checkout antes de pagar."
+          "O cupom PNK-EMCASACOMCECILIA funciona no Pink Stick em promoção? Funcionou no nosso teste mais recente: o código deu 10% sobre um carrinho com o Pink Stick 21 KM a R$ 99,90 e um kit, de R$ 234,75 para R$ 211,28. Confira a linha Desconto no pedido no checkout antes de pagar."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 1273,
