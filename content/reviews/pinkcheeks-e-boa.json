@@ -48,7 +48,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Você quer cobertura leve em bastão e encontrou um tom do Pink Stick que combina com sua pele.",
+      "Você quer cobertura leve a média em bastão e encontrou um tom do Pink Stick que combina com sua pele, ou prefere o 5 KM incolor.",
       "Você prefere comparar os acabamentos antes de comprar. O Pro Stick tem alta cobertura e o Clear Stick é transparente."
     ],
     "skipIf": [
@@ -60,24 +60,25 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Se você quer protetor facial em bastão, a escolha na Pink Cheeks começa pelo acabamento. O Pink Stick tem cobertura leve, o Pro Stick tem alta cobertura e o Clear Stick é transparente. A ficha do Pink Stick informa FPS 90, FPUVA 70 e perfume na fórmula. Compare os tons nas amostras da loja."
+        "Se você quer protetor facial em bastão, a escolha na Pink Cheeks começa pelo acabamento. O Pink Stick tem cobertura leve a média e uma versão 5 KM incolor, o Pro Stick tem alta cobertura e o Clear Stick é transparente. A ficha do Pink Stick informa FPS 90, FPUVA 70 e perfume na fórmula."
       ]
     },
     {
       "heading": "Antes de escolher o bastão",
       "paragraphs": [
-        "Comece pelo acabamento que você quer usar no rosto. Se prefere evitar fragrância, veja a lista de ingredientes da versão que pretende comprar. Para saber quem vende e como são as trocas, leia [Pink Cheeks é confiável?](/reviews/pinkcheeks-e-confiavel)."
+        "Comece pelo acabamento que você quer usar no rosto. O Pink Stick tem oito tons com cor e o 5 KM incolor, o Pro Stick tem seis tons e o Clear Stick não tem cor. Se prefere evitar fragrância, veja a lista de ingredientes da versão que pretende comprar.",
+        "Para comparar todos os tons do Pink Stick, com preço e foto de cada um, use o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher). Aqui o foco é a diferença entre os três bastões."
       ]
     },
     {
       "heading": "Pink Stick: o que o rótulo informa",
       "paragraphs": [
-        "O Pink Stick 21 KM é um protetor facial em bastão com cor. A ficha informa FPS 90, FPUVA 70 e filtros orgânicos e inorgânicos."
+        "O [Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km) é um protetor facial em bastão com cor, de 15,5 g. A ficha informa FPS 90, FPUVA 70 e filtros orgânicos e inorgânicos."
       ],
       "bullets": [
         "Segundo a ficha, a resistência à água e ao suor é de até duas horas. Siga a orientação de reaplicação da embalagem, inclusive após nadar, suar muito ou secar o rosto com toalha.",
         "A lista de ingredientes traz perfume, limoneno e linalol. Vale conferir a composição antes de escolher o tom.",
-        "Para localizar o produto pelo número do processo, veja [como consultar o Pink Stick na Anvisa](/reviews/pinkcheeks-e-confiavel)."
+        "O FAQ da loja estima cerca de 60 aplicações por bastão. Para tirar no fim do dia, a página indica demaquilante, água micelar ou cleansing oil, seguido de sabonete facial."
       ],
       "postParagraphs": [
         "A embalagem avisa que o protetor não protege contra insolação e orienta consultar um médico antes do uso em crianças menores de seis meses."
@@ -86,7 +87,8 @@
     {
       "heading": "Como comparar os tons do Pink Stick",
       "paragraphs": [
-        "Os tons usam nomes de distâncias de corrida, como 10 KM e 42 KM. Veja as amostras em braços e rostos nas fotos da marca. Na ficha, o botão “Prove virtualmente” ajuda a comparar as versões. Confirme o nome do tom escolhido antes de fechar o pedido."
+        "Os tons usam nomes de distâncias de corrida, como 10 KM e 42 KM, e o [5 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km) é a versão incolor. Veja as amostras em braços e rostos nas fotos da marca. Na ficha, o botão “Prove virtualmente” ajuda a comparar as versões. Confirme o nome do tom escolhido antes de fechar o pedido.",
+        "A loja não descreve subtom em texto, e o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher) reúne os links dos nove tons e o que cruzar antes de decidir."
       ],
       "images": [
         {
@@ -108,31 +110,31 @@
     {
       "heading": "Pink Stick, Pro Stick ou Clear Stick",
       "paragraphs": [
-        "Compare o acabamento que a loja informa para cada bastão. Os preços são de 19/11 e a coluna com cupom é uma estimativa de 10% sobre o preço publicado."
+        "Compare o acabamento que a loja informa para cada bastão. Os preços são de 22/11 e a coluna com cupom é uma estimativa de 10% sobre o preço publicado."
       ],
       "comparisonTable": {
         "caption": "Preço por bastão antes do frete.",
         "headers": [
-          "Linha e FPS",
+          "Bastão",
           "Acabamento",
           "Preço no site",
           "Com PNK-EMCASACOMCECILIA"
         ],
         "rows": [
           [
-            "Pink Stick FPS 90",
-            "Cobertura leve",
+            "[Pink Stick](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km), FPS 90 e FPUVA 70, 15,5 g",
+            "Cobertura leve a média; 5 KM incolor",
             "R$ 99,90",
             "R$ 89,91"
           ],
           [
-            "Pro Stick FPS 96",
+            "[Pro Stick](https://pinkcheeks.com.br/products/pro-stick-protetor-solar-multifuncional-fps96-pro15), FPS 96 e FPUVA 43, 16 g",
             "Alta cobertura e acabamento mate",
             "R$ 99,90",
             "R$ 89,91"
           ],
           [
-            "Clear Stick FPS 70",
+            "[Clear Stick](https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g), FPS 70 e FPUVA 50, 12 g",
             "Transparente",
             "R$ 109,90",
             "R$ 98,91"
@@ -141,19 +143,21 @@
       },
       "postParagraphs": [
         "Pink Stick e Pro Stick custavam o mesmo na leitura. Para decidir entre os dois, veja quanta cobertura você quer. O Clear Stick é a opção transparente desta comparação.",
-        "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial."
+        "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial. No teste de 22/11, ele abateu 10% de um carrinho com um Pink Stick de R$ 99,90 e um kit; a coluna acima é a mesma conta aplicada a cada bastão."
       ]
     },
     {
       "heading": "Antiatrito: bastão, spray ou creme",
       "paragraphs": [
-        "Na linha Redless, a Pink Cheeks oferece bastão de 18 g, spray de 35 ml ou 75 ml e creme de 100 g. Se procura a linha por causa do atrito da roupa ou do equipamento, compare a forma de aplicação e o tamanho na ficha de cada versão."
+        "Na linha Redless, a Pink Cheeks oferece o [bastão de 18 g](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g), a R$ 54,90, o [spray de 35 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml), a R$ 52,90, ou de [75 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-75ml), a R$ 69,90, e o [creme Chamois Cream de 100 g](https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1), a R$ 54,90.",
+        "Se procura a linha por causa do atrito da roupa ou do equipamento, compare a forma de aplicação e o tamanho na ficha de cada versão. Os preços acima são os da vitrine, antes do frete."
       ]
     },
     {
       "heading": "Protetor facial ou corporal",
       "paragraphs": [
-        "Para comparar opções para o corpo, veja as fichas do Shield FPS 60 e do bifásico FPS 57. Para o rosto, a loja também vende um bastão descrito como antioleosidade. Se você tem acne ou sensibilidade e está em dúvida sobre a fórmula, converse com um dermatologista."
+        "Para comparar opções para o corpo, veja as fichas do [Shield FPS 60 e FPUVA 50, de 45 g](https://pinkcheeks.com.br/products/shield-protetor-corporal-fps60-fpuva50-45g), a R$ 99,90, e do [bifásico FPS 57 e FPUVA 30, de 100 ml](https://pinkcheeks.com.br/products/protetor-solar-corporal-facial-bifasico-fps-57-fpuva-30-100ml), também a R$ 99,90, que a loja indica para corpo e rosto.",
+        "Para o rosto, a loja também vende o [protetor facial antioleosidade e antiacne de 18 g](https://pinkcheeks.com.br/products/protetor-solar-facial-antioleosidade-e-antiacne-18g), a R$ 109,90, descrito como bastão. Se você tem acne ou sensibilidade e está em dúvida sobre a fórmula, converse com um dermatologista."
       ]
     },
     {
@@ -161,9 +165,11 @@
       "bullets": [
         "O protetor da Pink Cheeks é físico ou químico? A página do Pink Stick informa que o filtro é de amplo espectro e une filtros orgânicos e inorgânicos, ou seja, os dois tipos.",
         "O Pink Stick é resistente à água? A ficha informa resistência à água e ao suor por até duas horas. Consulte a embalagem para ver quando reaplicar, inclusive após nadar ou suar muito.",
-        "Qual é a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90 e cobertura leve. O Pro Stick tem FPS 96, alta cobertura e acabamento mate.",
+        "Qual é a diferença entre Pink Stick e Pro Stick? O Pink Stick tem FPS 90, FPUVA 70 e cobertura leve a média. O Pro Stick tem FPS 96, FPUVA 43, alta cobertura e acabamento mate.",
+        "Existe Pink Stick sem cor? O 5 KM é a versão incolor da linha, com o mesmo FPS 90 e FPUVA 70 das versões com cor, segundo a loja.",
         "O protetor Pink Cheeks é bom para pele oleosa? A indicação da loja para pele oleosa é o protetor antioleosidade e antiacne. Se ele serve à sua pele, quem responde é um dermatologista."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-22"
 }

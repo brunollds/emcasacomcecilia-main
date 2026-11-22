@@ -24,7 +24,7 @@
   "title": "Cupom Pink Cheeks: como aplicar o PNK-EMCASACOMCECILIA no checkout e com o que ele soma",
   "seoTitle": "Como usar o cupom PNK-EMCASACOMCECILIA na Pink Cheeks",
   "type": "Guia & Cupons",
-  "description": "Veja onde digitar o cupom PNK-EMCASACOMCECILIA na Pink Cheeks, quanto ele descontou no nosso carrinho com um blush em promoção e como conferir o valor do frete.",
+  "description": "Veja onde digitar o cupom PNK-EMCASACOMCECILIA na Pink Cheeks, quanto ele descontou nos nossos carrinhos com blush, kit e Pink Stick e como conferir o frete.",
   "metaDescription": "O cupom PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks, para cliente novo e antigo. Veja onde digitar no checkout, a conta do teste e o que soma.",
   "image": "/images/reviews/pinkcheeks/cupom-pinkcheeks-como-usar-capa-v2.webp",
   "imageAlt": "Cera azul Pink Cheeks para cabelo ao lado de um halter rosa, em foto oficial sobre fundo alaranjado. A capa traz o logo Pink Cheeks e a chamada “Como aplicar o cupom”, com o cupom PNK-EMCASACOMCECILIA.",
@@ -79,7 +79,7 @@
     {
       "heading": "Quanto o cupom descontou no nosso teste",
       "paragraphs": [
-        "Em 19/11, colocamos no carrinho um pó translúcido pelo preço cheio e um blush Terracota em promoção. O cupom deu 10% sobre os dois produtos."
+        "Em 19/11, colocamos no carrinho um [pó translúcido](https://pinkcheeks.com.br/products/protetor-solar-po-translucido-sport-powder-fps30-fpuva13-5g-1) pelo preço cheio e um [blush Terracota](https://pinkcheeks.com.br/products/blush-all-in-one-fps30-fpuva10-4-5g-terracota) em promoção. O cupom deu 10% sobre os dois produtos."
       ],
       "comparisonTable": {
         "caption": "Carrinho testado no site oficial, antes do frete.",
@@ -89,11 +89,11 @@
         ],
         "rows": [
           [
-            "Pó Translúcido Sport Powder FPS30",
+            "[Pó Translúcido Sport Powder FPS30](https://pinkcheeks.com.br/products/protetor-solar-po-translucido-sport-powder-fps30-fpuva13-5g-1)",
             "R$ 99,90"
           ],
           [
-            "Blush All In One FPS30, Terracota (em promoção)",
+            "[Blush All In One FPS30, Terracota](https://pinkcheeks.com.br/products/blush-all-in-one-fps30-fpuva10-4-5g-terracota) (em promoção)",
             "R$ 69,90"
           ],
           [
@@ -123,8 +123,9 @@
     {
       "heading": "Promoção e Pix: o que somou no teste",
       "paragraphs": [
-        "O desconto continuou aplicado quando selecionamos Pix no checkout. Nessa simulação, o valor dos produtos ficou igual.",
-        "Para ver o que a loja anuncia nos kits, leia o [guia da Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks)."
+        "O desconto continuou aplicado quando selecionamos Pix no checkout, e o valor dos produtos ficou igual. A loja não anuncia desconto extra para quem paga no Pix, então a conta é a mesma nas duas formas de pagar.",
+        "No teste de 22/11, o carrinho tinha o [Kit Natação](https://pinkcheeks.com.br/products/kit-natacao), a R$ 134,85 (de R$ 269,70), e o [Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km), a R$ 99,90 (de R$ 129,90). O subtotal foi de R$ 234,75. Com o PNK-EMCASACOMCECILIA no campo “Código de desconto ou cartão-presente”, o checkout abateu R$ 23,47 e o total ficou em R$ 211,28, antes do frete. Os 10% valeram, portanto, sobre preços de Black Friday, num kit e num Pink Stick.",
+        "A conta não muda a regra do campo: o código vai no resumo do checkout, e a linha “Desconto no pedido” mostra quanto saiu. Para ver o que a loja anuncia nos kits, leia o [guia da Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks). Para escolher a cor do bastão, veja o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher)."
       ]
     },
     {
@@ -143,18 +144,19 @@
       ],
       "postParagraphs": [
         "Se a linha “Desconto no pedido” não aparecer, confira as [condições do cupom Pink Cheeks](/cupons/pinkcheeks) antes de pagar.",
-        "Se é sua primeira compra, veja [quem vende, como a loja entrega e como funcionam as trocas](/reviews/pinkcheeks-e-confiavel)."
+        "Se é a sua primeira compra, o roteiro do [cupom Pink Cheeks na primeira compra](/reviews/cupom-pinkcheeks-primeira-compra) mostra o caminho do carrinho ao pagamento."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Onde coloco o cupom na Pink Cheeks? Clique em “Finalizar pedido”, cole PNK-EMCASACOMCECILIA em “Código de desconto ou cartão-presente” e confira a linha “Desconto no pedido”.",
-        "O cupom soma com produto em promoção? No nosso teste, somou: os 10% entraram sobre um carrinho com um blush em promoção. Confira a linha Desconto no pedido no seu carrinho.",
+        "O cupom soma com produto em promoção? No nosso teste, somou: os 10% entraram sobre um carrinho com um blush em promoção e, em outro teste, sobre um Kit Natação e um Pink Stick em preço de Black Friday. Confira a linha Desconto no pedido no seu carrinho.",
         "O cupom vale para quem já é cliente? Vale. O código serve para cliente novo e antigo.",
         "O cupom vale no Mercado Livre ou na Shopee? O código é do site oficial da Pink Cheeks, pinkcheeks.com.br, e é lá que ele entra.",
         "Qual é o frete grátis da Pink Cheeks? A página de frete informa entrega Normal grátis a partir de R$ 199. A faixa da página inicial anuncia frete grátis acima de três itens. Confira com seu CEP no checkout."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-22"
 }
