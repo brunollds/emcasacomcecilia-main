@@ -198602,6 +198602,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/rituaria/cupom-rituaria-primeira-compra-capilar-nutri.webp",
+      "local_url": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capilar-nutri.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35326,
+      "sha256": "0b35d81a6814ee5ae1567f54b48d7ed7ff5b180fe05467f19f3487e8e2bcb76c",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-rituaria-primeira-compra-capilar-nutri.webp",
+      "storage_filename": "cupom-rituaria-primeira-compra-capilar-nutri.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-rituaria-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-rituaria-primeira-compra.json",
+          "line": 110,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capilar-nutri.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 264339,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capilar-nutri.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0b35d81a6814ee5ae1567f54b48d7ed7ff5b180fe05467f19f3487e8e2bcb76c/cupom-rituaria-primeira-compra-capilar-nutri.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0b35d81a6814ee5ae1567f54b48d7ed7ff5b180fe05467f19f3487e8e2bcb76c/cupom-rituaria-primeira-compra-capilar-nutri.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T19:15:53.336Z",
+      "verification_etag_or_digest": "0b35d81a6814ee5ae1567f54b48d7ed7ff5b180fe05467f19f3487e8e2bcb76c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-checkout-3-brain-leve-3-pague-2-emcasa.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-checkout-3-brain-leve-3-pague-2-emcasa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 6370,
+      "sha256": "2d641590a07f13407d6be81b69130b412f46f54a9992d25d29cd801810f88322",
+      "width": 400,
+      "height": 345,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-checkout-3-brain-leve-3-pague-2-emcasa.webp",
+      "storage_filename": "rituaria-checkout-3-brain-leve-3-pague-2-emcasa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-rituaria.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-rituaria.json",
+          "line": 137,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-checkout-3-brain-leve-3-pague-2-emcasa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263440,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-checkout-3-brain-leve-3-pague-2-emcasa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2d641590a07f13407d6be81b69130b412f46f54a9992d25d29cd801810f88322/rituaria-checkout-3-brain-leve-3-pague-2-emcasa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2d641590a07f13407d6be81b69130b412f46f54a9992d25d29cd801810f88322/rituaria-checkout-3-brain-leve-3-pague-2-emcasa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T19:15:53.337Z",
+      "verification_etag_or_digest": "2d641590a07f13407d6be81b69130b412f46f54a9992d25d29cd801810f88322",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-e-confiavel-mov-nutri.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-e-confiavel-mov-nutri.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33744,
+      "sha256": "e8c10c720cd36ab6805031b3b7c123ef35f12445133f4efd4dc80150ffc74a8a",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-e-confiavel-mov-nutri.webp",
+      "storage_filename": "rituaria-e-confiavel-mov-nutri.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-e-confiavel.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-e-confiavel-mov-nutri.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263873,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-e-confiavel-mov-nutri.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e8c10c720cd36ab6805031b3b7c123ef35f12445133f4efd4dc80150ffc74a8a/rituaria-e-confiavel-mov-nutri.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e8c10c720cd36ab6805031b3b7c123ef35f12445133f4efd4dc80150ffc74a8a/rituaria-e-confiavel-mov-nutri.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T19:15:53.337Z",
+      "verification_etag_or_digest": "e8c10c720cd36ab6805031b3b7c123ef35f12445133f4efd4dc80150ffc74a8a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/rituaria/rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+      "local_url": "/images/reviews/rituaria/rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12544,
+      "sha256": "573bd30e709983bfda1b420788ac6971b0bed488d3e1e5be7166646f2b54afea",
+      "width": 750,
+      "height": 420,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+      "storage_filename": "rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/rituaria-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/rituaria-reclame-aqui-nota-reputacao.json",
+          "line": 145,
+          "column": 19,
+          "literal": "/images/reviews/rituaria/rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 263668,
+          "column": 21,
+          "literal": "/images/reviews/rituaria/rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/573bd30e709983bfda1b420788ac6971b0bed488d3e1e5be7166646f2b54afea/rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/573bd30e709983bfda1b420788ac6971b0bed488d3e1e5be7166646f2b54afea/rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T19:15:53.337Z",
+      "verification_etag_or_digest": "573bd30e709983bfda1b420788ac6971b0bed488d3e1e5be7166646f2b54afea",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/adaptogen/cupom-adaptogen-checkout-cecilia-creatina-flavor.webp",
       "local_url": "/images/reviews/adaptogen/cupom-adaptogen-checkout-cecilia-creatina-flavor.webp",
       "media_kind": "image",
@@ -198651,7 +198835,7 @@
       "remote_key": "v1/image/c67edf89c55bb31888fd3eb73eda044c1c040ae57e733b4543b4adab978ca207/cupom-adaptogen-checkout-cecilia-creatina-flavor.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c67edf89c55bb31888fd3eb73eda044c1c040ae57e733b4543b4adab978ca207/cupom-adaptogen-checkout-cecilia-creatina-flavor.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T19:16:19.891Z",
+      "verified_at": "2026-11-22T20:28:22.651Z",
       "verification_etag_or_digest": "c67edf89c55bb31888fd3eb73eda044c1c040ae57e733b4543b4adab978ca207",
       "verification_status": "verified"
     }
