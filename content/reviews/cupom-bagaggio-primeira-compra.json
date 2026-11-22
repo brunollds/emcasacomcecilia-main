@@ -17,7 +17,7 @@
   "metaDescription": "Para a primeira compra na Bagaggio, use CECILIA10: 10% OFF em todo o site, inclusive no Outlet. O mesmo percentual vale para quem já comprou.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/bagaggio/cupom-bagaggio-primeira-compra-capa-v2.webp",
@@ -34,7 +34,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Cupom testado até a sacola da Bagaggio, sem finalizar. Podemos receber comissão pelo CECILIA10.",
+  "editorialNote": "Preços e cupom conferidos no site da Bagaggio, até a sacola, sem finalizar. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "cupom-bagaggio-como-usar"
@@ -50,13 +50,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para a primeira compra na Bagaggio, use CECILIA10: 10% OFF em todo o site, inclusive no Outlet e em produtos já em promoção. O mesmo percentual vale para quem já comprou, e o código soma com o Pix. Ele é um dos melhores cupons para a primeira compra, no site ou no app."
+        "Para a primeira compra na Bagaggio, use CECILIA10: 10% OFF em todo o site, inclusive no Outlet e em produtos já em promoção. O mesmo percentual vale para quem já comprou, e o código soma com o Pix. Funciona no site e no app."
       ]
     },
     {
       "heading": "Cupom Bagaggio primeira compra: qual usar",
       "paragraphs": [
-        "A Bagaggio vende malas, mochilas e acessórios de viagem, com loja online e aplicativo. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel).",
+        "A Bagaggio vende malas, mochilas e acessórios de viagem, com loja online e aplicativo.",
         "Use o CECILIA10: 10% OFF em todos os produtos do site, Outlet incluso, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes, no site ou no app.",
         "É o [cupom Bagaggio](/cupons/bagaggio) da nossa parceria com a marca, testado até a sacola. Mala, mochila ou acessório: o código é o mesmo."
       ]
@@ -78,10 +78,10 @@
     {
       "heading": "Mala do Outlet: onde entram o código e o Pix",
       "paragraphs": [
-        "O CECILIA10 entra sobre o preço do Outlet. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, uma mala de bordo Downtown ficou assim:"
+        "O CECILIA10 entra sobre o preço do Outlet. No nosso teste na sacola, a [mala de bordo Downtown](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) ficou assim:"
       ],
       "comparisonTable": {
-        "caption": "Mala de bordo Downtown, do Outlet: valores do teste na sacola, antes do Pix e do frete.",
+        "caption": "Mala de bordo Downtown, do Outlet: valores do teste na sacola, antes do frete.",
         "headers": [
           "Etapa",
           "Valor"
@@ -98,11 +98,15 @@
           [
             "Com o CECILIA10",
             "R$ 161,91"
+          ],
+          [
+            "No Pix, depois do código",
+            "R$ 153,81"
           ]
         ]
       },
       "postParagraphs": [
-        "Nesse teste, Outlet e código reduziram juntos o preço inicial da mala em cerca de 35%. O código soma também com os 5% do Pix informados pela loja, aplicados depois dele. Escolha o Pix no pagamento e confira o total."
+        "Nesse teste, Outlet e código reduziram juntos o preço inicial da mala em cerca de 35%, e o Pix tirou mais 5% sobre o total já com o código. Escolha o Pix no pagamento e confira o total."
       ],
       "images": [
         {
@@ -115,15 +119,9 @@
       ]
     },
     {
-      "heading": "E na segunda compra?",
+      "heading": "Onde colar o código e a segunda compra",
       "paragraphs": [
-        "Você pode usar o CECILIA10 de novo: ele dá os mesmos 10% para quem já comprou. Quem levou a mala de bordo agora usa o mesmo código na mochila ou na mala grande da próxima viagem."
-      ]
-    },
-    {
-      "heading": "Onde colar o código",
-      "paragraphs": [
-        "O código vai na sacola, antes de escolher a forma de pagamento:"
+        "O código vai na sacola, antes de escolher a forma de pagamento. Quem já comprou usa o mesmo CECILIA10 e leva os mesmos 10%: quem levou a mala de bordo agora usa o código na mochila ou na mala grande da próxima viagem."
       ],
       "bullets": [
         "Monte a sacola no site ou no aplicativo da Bagaggio.",
@@ -133,11 +131,15 @@
       "postParagraphs": [
         "O passo a passo com as telas da sacola está em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
       ],
-      "image": "/images/reviews/bagaggio/cupom-sacola-com-cupom.webp",
-      "imageAlt": "Sacola da Bagaggio com o CECILIA10 aplicado no campo Cupom de desconto: subtotal de R$ 179,90, descontos de R$ 17,99 e total de R$ 161,91.",
-      "imageCaption": "CECILIA10 aplicado na sacola: a captura mostra o mesmo pedido da tabela.",
-      "imageAspectRatio": 1.3056,
-      "imageFit": "contain"
+      "images": [
+        {
+          "src": "/images/reviews/bagaggio/cupom-sacola-com-cupom.webp",
+          "alt": "Sacola da Bagaggio com o CECILIA10 aplicado no campo Cupom de desconto: subtotal de R$ 179,90, descontos de R$ 17,99 e total de R$ 161,91.",
+          "caption": "CECILIA10 aplicado na sacola, no pedido da tabela acima.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3056
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",

@@ -13,11 +13,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, mas Ruim nos 12 meses até outubro. Veja qual perfil olhar e o que fazer se o seu pedido der problema.",
-  "metaDescription": "Bagaggio no Reclame Aqui, com o cupom CECILIA10 de 10% OFF: Boa de maio a outubro (nota 7,9), Ruim em 12 meses (5,8) e qual perfil olhar.",
+  "description": "A Bagaggio - Loja Virtual está Ótima no Reclame Aqui nos últimos 6 meses e Ruim em 12 meses. Veja os números, as queixas mais citadas e o que conferir antes de comprar.",
+  "metaDescription": "Bagaggio no Reclame Aqui, com o cupom CECILIA10 de 10% OFF: Ótima em 6 meses (nota 8,0), Ruim em 12 meses (5,8) e qual perfil olhar.",
   "publishedAt": "22 de outubro de 2026",
   "publishedAtISO": "2026-10-22",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa-v2.webp",
@@ -28,42 +28,27 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, com nota 7,9, mas Ruim nos 12 meses até outubro, com nota 5,8. No semestre, respondeu a 100% e resolveu 92,5%; para o site, vale o perfil Loja Virtual. O CECILIA10 dá 10% OFF em todo o site; o [cupom Bagaggio](/cupons/bagaggio) traz as regras."
+        "A Bagaggio - Loja Virtual está com reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,0, e Ruim nos 12 meses, com nota 5,8. No semestre, respondeu a todas as reclamações; atraso na entrega é a queixa mais citada. O [cupom Bagaggio](/cupons/bagaggio) CECILIA10 dá 10% OFF no site."
       ]
     },
     {
-      "heading": "Por que olhar o Reclame Aqui antes de comprar",
+      "heading": "A nota e os indicadores do perfil",
       "paragraphs": [
-        "Quando o pedido dá problema, o que outras pessoas viveram com a loja ajuda a decidir antes de comprar. O site atende só pelo chat, de segunda a sexta, das 9h às 18h. O Reclame Aqui mostra quantas reclamações a empresa recebeu, quantas respondeu e resolveu, e quanta gente voltaria a comprar.",
-        "Os números mudam todos os dias. Confira de novo no dia da compra."
-      ]
-    },
-    {
-      "heading": "Qual perfil olhar",
-      "paragraphs": [
-        "Para compras no site, o perfil que vale é o Bagaggio - Loja Virtual. Há mais de um perfil com o nome Bagaggio no Reclame Aqui. Ele tem o CNPJ 08.956.394/0001-68, o mesmo do rodapé do site, e está no Reclame Aqui há 18 anos.",
-        "O perfil tem o selo Empresa Verificada. O selo indica que a empresa passou pela verificação mensal do Reclame Aqui, que confere se ela existe e é a dona do perfil; ele não mede a reputação. No ranking Melhor empresa, na categoria Bolsas, Malas e Mochilas, o perfil estava em 19º lugar.",
-        "O selo RA1000 dos últimos 6 meses, com nota 8,6, é do perfil Bagaggio - Loja Física, e não deste. Antes de ler os números, confira o nome e o CNPJ no topo do perfil. Para a confiança geral na loja, veja [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
-      ]
-    },
-    {
-      "heading": "Os números da Loja Virtual",
-      "paragraphs": [
-        "Leia pela aba de 6 meses, a mais recente: cada coluna é uma aba do perfil."
+        "Os números são do perfil Bagaggio - Loja Virtual, o da loja online, lidos em 22/11/2026. Cada coluna é uma aba do Reclame Aqui: a de 6 meses é a mais recente, e a Geral junta as reclamações dos últimos três anos."
       ],
       "comparisonTable": {
         "headers": [
           "Indicador",
-          "6 meses (01/05/2026 a 31/10/2026)",
-          "12 meses (01/11/2025 a 31/10/2026)",
+          "6 meses",
+          "12 meses",
           "2025",
           "2024",
-          "Geral (últimos 3 anos)"
+          "Geral (3 anos)"
         ],
         "rows": [
           [
             "Reputação",
-            "Boa",
+            "Ótima",
             "Ruim",
             "Regular",
             "Regular",
@@ -71,19 +56,19 @@
           ],
           [
             "Nota",
-            "7,9",
+            "8,0",
             "5,8",
             "6,5",
             "6,7",
-            "6,3"
+            "6,4"
           ],
           [
             "Reclamações recebidas",
-            "1.112",
-            "5.533",
-            "4.408",
+            "1.107",
+            "5.528",
+            "4.407",
             "1.903",
-            "10.681"
+            "10.751"
           ],
           [
             "Respondidas",
@@ -91,31 +76,15 @@
             "91,1%",
             "95,7%",
             "98,4%",
-            "94,8%"
+            "94,6%"
           ],
           [
-            "Resolvidas",
-            "92,5%",
-            "72,2%",
-            "80,9%",
-            "79,6%",
-            "78,1%"
-          ],
-          [
-            "Voltariam a fazer negócio",
-            "61,1%",
-            "33,4%",
-            "42,9%",
-            "46,0%",
-            "40,2%"
-          ],
-          [
-            "Nota média do consumidor",
-            "6,48",
-            "3,65",
-            "4,43",
-            "4,89",
-            "4,31"
+            "Aguardando resposta",
+            "0",
+            "0",
+            "0",
+            "0",
+            "47"
           ],
           [
             "Tempo médio de resposta",
@@ -123,123 +92,117 @@
             "34 dias e 18 horas",
             "29 dias e 13 horas",
             "18 dias e 16 horas",
-            "26 dias e 13 horas"
+            "26 dias e 9 horas"
+          ],
+          [
+            "Avaliadas pelo consumidor",
+            "619",
+            "2.634",
+            "2.214",
+            "1.049",
+            "5.368"
+          ],
+          [
+            "Resolvidas (entre as avaliadas)",
+            "93%",
+            "72,5%",
+            "80,9%",
+            "79,6%",
+            "78,5%"
+          ],
+          [
+            "Voltariam a fazer negócio (entre as avaliadas)",
+            "61,2%",
+            "33,6%",
+            "42,9%",
+            "46%",
+            "40,7%"
+          ],
+          [
+            "Nota média do consumidor",
+            "6,54",
+            "3,68",
+            "4,43",
+            "4,89",
+            "4,38"
           ]
         ]
       },
       "postParagraphs": [
-        "Nos últimos 6 meses, a reputação é Boa. Nos últimos 12 meses, ela ainda está Ruim, porque essa aba inclui os seis meses anteriores, de novembro a abril."
+        "Resolvidas e voltariam a fazer negócio são calculadas só sobre as reclamações que o consumidor avaliou no fim: 619 no semestre, de 1.107 recebidas. Não valem para todos os clientes da loja."
+      ]
+    },
+    {
+      "heading": "O que a nota e o selo medem, e o que não medem",
+      "paragraphs": [
+        "A nota do Reclame Aqui mede como a loja atende as reclamações abertas na plataforma: se responde, em quanto tempo, se resolve e se o cliente voltaria a comprar. Ela não mede a resistência das malas nem a durabilidade de uma mochila, e muda conforme a janela de tempo. Por isso a mesma loja aparece Ótima no semestre e Ruim em 12 meses.",
+        "A nota média do consumidor é outra conta: é a média das notas de 0 a 10 que os clientes deram ao fechar a reclamação. No semestre, ficou em 6,54, abaixo da nota 8,0 da reputação, que também pesa resposta e solução.",
+        "O selo Empresa Verificada indica que a empresa passou pela verificação mensal do Reclame Aqui, que confere se ela existe e se é a dona do perfil. Ele não mede a reputação. O selo RA1000, que exige os melhores índices, não aparece neste perfil: ele é do Bagaggio - Loja Física, que atende as compras feitas nas lojas."
       ],
       "image": {
-        "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-6-e-12-meses-v2.webp",
-        "alt": "Quadro com os números do perfil Bagaggio - Loja Virtual no Reclame Aqui: nos 6 meses até outubro, reputação Boa, nota 7,9, 1.112 reclamações, 100% respondidas, 92,5% resolvidas e 61,1% voltariam a fazer negócio; nos 12 meses até outubro, reputação Ruim, nota 5,8, 5.533 reclamações, 91,1% respondidas, 72,2% resolvidas e 33,4% voltariam",
-        "caption": "Quadro nosso com as abas de 6 e de 12 meses do perfil Bagaggio - Loja Virtual no Reclame Aqui.",
+        "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-empresa-verificada.webp",
+        "alt": "Cabeçalho do perfil Bagaggio - Loja Virtual no Reclame Aqui, na categoria Moda - Bolsas, Malas e Mochilas, com reputação Ótima e o selo Empresa Verificada",
+        "caption": "Topo do perfil Bagaggio - Loja Virtual no Reclame Aqui: a reputação é a dos últimos 6 meses, e o selo é o de Empresa Verificada.",
         "objectFit": "contain",
-        "aspectRatio": 1.7778
+        "aspectRatio": 3.788
       }
     },
     {
-      "heading": "Como a reputação mudou",
+      "heading": "Pontos positivos",
       "paragraphs": [
-        "O histórico de reputação mostra mês a mês: Ruim em abril, maio e junho; Regular em julho; Boa em agosto e setembro. Em novembro, a aba de 6 meses seguia Boa, com nota 7,9.",
-        "O Reclame Aqui não mostra quantas reclamações entraram em cada mês. Mostra só a faixa de reputação. Por isso, o histórico confirma a melhora recente, mas não diz o que a causou."
-      ],
-      "image": {
-        "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-historico-6-meses.webp",
-        "alt": "Quadro com a reputação mês a mês do Bagaggio - Loja Virtual no Reclame Aqui: Ruim em abril, maio e junho; Regular em julho; Boa em agosto e setembro de 2026",
-        "caption": "Quadro nosso com o histórico de reputação do perfil Bagaggio - Loja Virtual no Reclame Aqui. O RA não mostra o número de reclamações por mês.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
-    },
-    {
-      "heading": "O que a conta de reclamações mostra",
-      "paragraphs": [
-        "A conta entre as abas mostra a queda: 5.533 reclamações em 12 meses contra 1.112 nos últimos 6. A diferença, 4.421, corresponde aos seis meses de novembro a abril: cerca de 740 por mês. De maio a outubro, a média caiu para cerca de 185 por mês. A conta é nossa, feita com as duas abas do Reclame Aqui.",
-        "O Reclame Aqui não explica por que esse período teve mais reclamações. Uma hipótese é a Black Friday de 2025 e o Natal, que caem nele. Não temos a contagem mês a mês para confirmar isso. Se a campanha pesa nessa conta, o [calendário da Black Friday da Bagaggio](/reviews/black-friday-bagaggio) está lá."
+        "O semestre mais recente é o melhor da série: a reputação subiu de Boa, com nota 7,9, na leitura de outubro, para Ótima, com nota 8,0. A loja respondeu a 100% das 1.107 reclamações dos últimos 6 meses e não tinha nenhuma aguardando resposta nessa aba.",
+        "O tempo de resposta também caiu: 7 dias e 4 horas no semestre, contra 34 dias e 18 horas na janela de 12 meses. Entre as 619 reclamações avaliadas no semestre, 93% foram dadas como resolvidas e 61,2% dos clientes disseram que voltariam a fazer negócio.",
+        "O volume de queixas diminuiu. A aba de 12 meses tem 5.528 reclamações, e a de 6 meses, 1.107: os seis meses anteriores somaram cerca de 4.420, perto de 740 por mês, contra cerca de 185 por mês no semestre atual. A conta é nossa, com as duas abas, e são números absolutos: sem o total de pedidos da loja, não dá para calcular uma taxa de reclamação.",
+        "O perfil está no Reclame Aqui há 18 anos, tem o selo Empresa Verificada e aparecia em 18º lugar no ranking Melhor empresa da categoria Bolsas, Malas e Mochilas."
       ]
     },
     {
-      "heading": "Os problemas mais citados",
+      "heading": "Pontos de atenção e principais queixas",
       "paragraphs": [
-        "Na aba geral, de até 3 anos, o Reclame Aqui lista as categorias de problema das reclamações. São as categorias do RA, com a contagem e o percentual do perfil:"
+        "A melhora é recente. Na aba de 12 meses, a reputação segue Ruim, com nota 5,8: a loja respondeu a 91,1% das reclamações, e, entre as 2.634 avaliadas, 72,5% foram resolvidas e 33,6% voltariam a fazer negócio. A aba Geral, de três anos, tinha 47 reclamações aguardando resposta.",
+        "Os motivos abaixo vêm da aba Geral, que junta até três anos de reclamações, e não só do semestre. São as categorias de problema do Reclame Aqui, com o número de reclamações de cada uma:"
       ],
       "bullets": [
-        "Atraso na entrega: 3.198 (29,95%)",
-        "Produto não recebido: 2.015 (18,87%)",
-        "Troca-devolução de produto: 889 (8,32%)",
-        "Produto com defeito: 874 (8,18%)",
-        "Estorno do valor pago: 728 (6,82%)",
-        "Produto indisponível: 364 (3,41%)",
-        "Má qualidade: 359 (3,36%)",
-        "Produto errado: 293 (2,74%)",
-        "Propaganda enganosa: 273 (2,56%)",
-        "Não consigo cancelar: 146 (1,37%)"
+        "Atraso na entrega: 3.185, ou 29,64% do total, o motivo mais citado",
+        "Produto não recebido: 2.073",
+        "Produto com defeito: 880",
+        "Troca ou devolução de produto: 867",
+        "Estorno do valor pago: 726",
+        "Produto indisponível: 381",
+        "Má qualidade: 343"
       ],
       "postParagraphs": [
-        "Pelos tipos de produto citados, mochilas aparecem com 32,16% e malas com 29,76%. Os percentuais são os que o Reclame Aqui exibe na aba de 3 anos."
+        "Pelos tipos de produto citados na mesma aba, mochilas aparecem em 3.458 reclamações e malas em 3.149. Entrega e recebimento do pedido somam a maior parte das queixas; defeito e qualidade vêm bem atrás."
       ]
     },
     {
-      "heading": "O que a loja diz sobre si",
+      "heading": "Como a loja responde e o que conferir antes de comprar",
       "paragraphs": [
-        "A FAQ da loja fala em certificações de excelência no Reclame Aqui. Para o perfil Loja Virtual, o Reclame Aqui mostra Ruim nos últimos 12 meses e Regular na aba de 3 anos."
-      ]
-    },
-    {
-      "heading": "Se o pedido der problema",
-      "paragraphs": [
-        "Comece pelos canais da Bagaggio e guarde o protocolo. Se não houver solução, registre a queixa no perfil correspondente à compra."
+        "Antes de ler os números ou registrar uma reclamação, confira o perfil: para compra no site, é o Bagaggio - Loja Virtual, com o CNPJ 08.956.394/0001-68, o mesmo do rodapé do bagaggio.com.br. Compra feita numa loja física vai para o perfil Bagaggio - Loja Física."
       ],
       "bullets": [
-        "Compra pelo site: fale pelo chat do site, de segunda a sexta, das 9h às 18h. Para trocas e garantia, o e-mail é atendimento@bagaggio.com.br.",
-        "Compra em loja física: trocas e garantia podem ser pedidas em qualquer loja Bagaggio.",
-        "Desistência de compra pelo site, em até 7 dias corridos depois do recebimento: pelo Troque Fácil, com o número do pedido e o CPF. A devolução pode virar vale-trocas ou restituição do valor pago.",
-        "Se você pediu cancelamento ou desistiu e o pedido já está com a transportadora, a Bagaggio orienta recusar a entrega. Pela política da loja, o estorno na forma de pagamento ocorre após a volta da mercadoria ao centro de distribuição. Se quiser manter a compra, registre o atraso no atendimento.",
-        "Cartão: o estorno é pedido à administradora e pode cair em até duas faturas. Boleto: o crédito vai para a conta corrente do mesmo CPF da nota, em até 10 dias úteis depois do recebimento do produto.",
-        "Frete: a política da Bagaggio informa reembolso do frete só na devolução integral do pedido. Em devolução parcial, peça o detalhamento dos valores ao atendimento."
-      ],
-      "postParagraphs": [
-        "Se o prazo de entrega passou, guarde o número do pedido e o CPF da compra e registre a data em que o prazo venceu. Esses dados ajudam em qualquer contato com a loja."
+        "Atendimento do site: só pelo chat, de segunda a sexta, das 9h às 18h. Para troca e devolução, o e-mail é atendimento@bagaggio.com.br.",
+        "Desistência em até 7 dias corridos depois do recebimento: pelo Troque Fácil, com o número do pedido e o CPF. O valor volta como vale-troca ou como restituição; no cartão, o estorno pode cair em até duas faturas.",
+        "Frete: é calculado pelo CEP no carrinho, e a retirada numa loja Bagaggio sai sem custo. O prazo de 3 horas da retirada é orientativo: espere a confirmação de que o pedido está pronto.",
+        "Garantia vitalícia: vale para defeito de fabricação nas malas da marca Bagaggio compradas a partir de 29/04/2024. Mochilas, bolsas, carteiras e outras marcas vendidas pela loja ficam fora. O passo a passo está no [guia da garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia).",
+        "Guarde o número do pedido, o prazo de entrega prometido e o protocolo de cada contato. Com o prazo vencido, esses dados sustentam a reclamação no canal da loja e, se for o caso, no perfil certo do Reclame Aqui."
       ]
     },
     {
-      "heading": "Garantia vitalícia, em resumo",
+      "heading": "Vale a pena comprar na Bagaggio?",
       "paragraphs": [
-        "A garantia vitalícia cobre vício de fabricação nas malas da marca Bagaggio compradas a partir de 29/04/2024, sem custo. Mochilas, bolsas e outras marcas vendidas pela loja ficam fora. Na compra pelo site, a garantia é pedida pelo Troque Fácil. Na compra física, procure, de preferência, a loja onde comprou.",
-        "O que a garantia cobre e o que ela deixa de fora estão no [guia da garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia)."
-      ]
-    },
-    {
-      "heading": "Parceria e cupom",
-      "paragraphs": [
-        "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o cupom CECILIA10. Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
-        "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produtos que já estão em promoção. Ele vale com todas as formas de pagamento e soma com o desconto de 5% do Pix. Vale um cupom por pedido.",
-        "Uma Mala de Bordo PP Downtown Preta, do Outlet, saiu de R$ 249,90 para R$ 179,90. Com o cupom, o total foi para R$ 161,91. No Pix, o total ficou em R$ 153,81.",
-        "Na sacola, cole o código no campo Cupom de desconto, e não no campo de código de vendedor ou influenciador. Confira o desconto no resumo antes de escolher a forma de pagamento.",
-        "Os detalhes estão na [página da Bagaggio](/cupons/bagaggio), e o passo a passo, no artigo [Cupom Bagaggio: como usar o CECILIA10 e o que ele soma](/reviews/cupom-bagaggio-como-usar)."
-      ]
-    },
-    {
-      "heading": "Dá para confiar na Bagaggio?",
-      "paragraphs": [
-        "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de maio a outubro, mas a janela de 12 meses até outubro ainda estava Ruim, então a melhora é recente. Essa reputação mostra o atendimento registrado, não o resultado de um novo pedido."
-      ],
-      "bullets": [
-        "Confira se está no perfil Loja Virtual e se o CNPJ corresponde ao site.",
-        "Abra a aba atual antes de comprar, porque os números mudam.",
-        "Para pedido em andamento, guarde o prazo prometido, acompanhe o rastreio e registre o atraso no canal da loja.",
-        "Para saber quem vende e conhecer as políticas de compra, veja [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
+        "Vale, com atenção ao prazo de entrega. O semestre mais recente mostra a loja respondendo a todas as reclamações, mais rápido e resolvendo a maior parte das avaliadas; a janela de 12 meses e os motivos de três anos mostram que entrega e pedido não recebido já foram um problema grande. Se o prazo pesa, a retirada numa loja próxima evita a transportadora.",
+        "Na compra pelo site, o CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet, e soma com os 5% do Pix, que entram depois do cupom. As condições estão na página do [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, no guia [como usar o CECILIA10 na Bagaggio](/reviews/cupom-bagaggio-como-usar)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Bagaggio é confiável segundo o Reclame Aqui? O perfil Loja Virtual mostrava reputação Boa de maio a outubro, com nota 7,9, e Ruim nos 12 meses até outubro, com nota 5,8. Esses números vêm das reclamações registradas no Reclame Aqui e não medem a qualidade das malas.",
-        "Qual perfil da Bagaggio é o da loja? O Bagaggio - Loja Virtual, com o CNPJ 08.956.394/0001-68, que é o mesmo do rodapé do site bagaggio.com.br.",
-        "O que fazer se o pedido da Bagaggio atrasar? Guarde o número do pedido e o CPF, registre a data em que o prazo venceu e fale pelo chat do site, de segunda a sexta, das 9h às 18h.",
-        "A garantia vitalícia vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas depois do início do programa. Mochilas, bolsas e outras marcas vendidas pela loja ficam de fora.",
-        "A Bagaggio responde às reclamações? De maio a outubro, o perfil Loja Virtual respondeu a 100% das reclamações, em 7 dias e 4 horas, em média. Nos 12 meses até outubro, respondeu a 91,1%."
+        "A Bagaggio é confiável segundo o Reclame Aqui? O perfil Bagaggio - Loja Virtual está com reputação Ótima nos últimos 6 meses, com nota 8,0, e Ruim na janela de 12 meses, com nota 5,8. Os números medem o atendimento às reclamações, não a qualidade das malas.",
+        "Qual perfil da Bagaggio no Reclame Aqui é o da loja online? O Bagaggio - Loja Virtual, com o CNPJ 08.956.394/0001-68, o mesmo do rodapé do site. O Bagaggio - Loja Física atende as compras feitas nas lojas.",
+        "A Bagaggio tem o selo RA1000? O perfil da loja online não tem: tem o selo Empresa Verificada. O RA1000 aparece no perfil Bagaggio - Loja Física.",
+        "A Bagaggio responde às reclamações? No semestre mais recente, respondeu a todas, em 7 dias e 4 horas, em média. Na janela de 12 meses, respondeu a 91,1%.",
+        "O que fazer se o pedido da Bagaggio atrasar? Fale pelo chat do site, de segunda a sexta, das 9h às 18h, com o número do pedido e o prazo prometido, e guarde o protocolo. Se não houver solução, registre a reclamação no perfil Bagaggio - Loja Virtual."
       ]
     }
   ],
@@ -253,7 +216,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CECILIA10.",
+  "editorialNote": "Números lidos no perfil público do Reclame Aqui. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "bagaggio-e-confiavel"

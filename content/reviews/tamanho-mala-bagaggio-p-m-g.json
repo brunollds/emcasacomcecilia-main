@@ -18,7 +18,7 @@
   "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio, com o cupom CECILIA10 de 10% OFF: medidas e litros da loja, a ligação entre P, M e G e a mala de mão das companhias.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-capa-v2.webp",
@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na seleção, as malas chamadas de 10 kg têm de 44 a 51 litros; as de 23 kg, de 71 a 91; e as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 × 25 cm. O CECILIA10 dá 10% OFF em todo o site."
+        "As malas de 10 kg da seleção têm de 44 a 51 litros; as de 23 kg, de 71 a 91; as de 32 kg, de 104 a 131. Para cabine, confira as dimensões totais e a regra do bilhete: a Cartagena P passa dos 55 × 35 × 25 cm. O CECILIA10 dá 10% OFF no site."
       ]
     },
     {
@@ -38,7 +38,7 @@
         "A tabela traz uma mala de cada linha em cada faixa. Preço, medida e litros são da loja."
       ],
       "comparisonTable": {
-        "caption": "Malas Bagaggio por faixa: preço do cartão em 30/10",
+        "caption": "Malas Bagaggio por faixa: preço do cartão",
         "headers": [
           "Produto",
           "Preço (cartão)",
@@ -78,7 +78,7 @@
           ],
           [
             "[Mala Média 23 kg ABS 4 Rodas Detroit Preta II](https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
-            "R$ 379,90",
+            "R$ 349,90",
             "R$ 449,90",
             "66 × 41,5 × 26 cm",
             "71,2",
@@ -105,7 +105,7 @@
           ],
           [
             "[Mala Média 23 kg Polipropileno 4 Rodas Cartagena Preta](https://www.bagaggio.com.br/mala-media-23kg-polipropileno-4-rodas-cartagena-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
-            "R$ 549,90",
+            "R$ 499,90",
             "R$ 599,90",
             "67,5 × 46 × 27 cm",
             "83,8",
@@ -113,7 +113,7 @@
             "Não"
           ],
           [
-            "[Mala Grande 32 kg ABS 4 Rodas Detroit Vermelha](https://www.bagaggio.com.br/mala-grande-32-kg-abs-4-rodas-detroit-vermelha/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+            "[Mala Grande 32 kg ABS 4 Rodas Detroit Prata II](https://www.bagaggio.com.br/mala-grande-32-kg-abs-4-rodas-detroit-prata-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
             "R$ 349,90",
             "R$ 499,90",
             "76 × 47,5 × 29 cm",
@@ -132,7 +132,7 @@
           ],
           [
             "[Mala de Viagem Grande 32 kg Polipropileno 4 Rodas Cartagena Preta](https://www.bagaggio.com.br/mala-de-viagem-grande-32kg-polipropileno-4-rodas-cartagena-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
-            "R$ 499,90",
+            "R$ 449,90",
             "R$ 699,90",
             "77,5 × 52 × 32,5 cm",
             "130,9",
@@ -158,28 +158,32 @@
           "alt": "Mala média Detroit II preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
           "caption": "Detroit II Preta, de 23 kg: 66 × 41,5 × 26 cm. Foto oficial da loja.",
           "objectFit": "contain",
-          "aspectRatio": 0.5889
+          "aspectRatio": 0.5889,
+          "href": "https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-detroit-preta-ii/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
         },
         {
           "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-detroit-26.webp",
           "alt": "Mala média Detroit de 26 polegadas preta da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
           "caption": "Detroit de 26 polegadas, de 23 kg: 70,5 × 44,5 × 29 cm. Foto oficial da loja.",
           "objectFit": "contain",
-          "aspectRatio": 0.59
+          "aspectRatio": 0.59,
+          "href": "https://www.bagaggio.com.br/mala-media-23-kg-abs-4-rodas-26--detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
         },
         {
           "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-media.webp",
           "alt": "Mala média Route preta de polipropileno da Bagaggio, de 23 kg, de frente, em foto oficial da loja",
           "caption": "Route Preta, de 23 kg: 66 × 43 × 27 cm. Foto oficial da loja.",
           "objectFit": "contain",
-          "aspectRatio": 0.6033
+          "aspectRatio": 0.6033,
+          "href": "https://www.bagaggio.com.br/mala-route-media-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
         },
         {
           "src": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-grande.webp",
           "alt": "Mala grande Route preta de polipropileno da Bagaggio, de 32 kg, de frente, em foto oficial da loja",
           "caption": "Route Preta, de 32 kg: 76 × 49 × 30 cm. Foto oficial da loja.",
           "objectFit": "contain",
-          "aspectRatio": 0.6033
+          "aspectRatio": 0.6033,
+          "href": "https://www.bagaggio.com.br/mala-route-grande-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
         }
       ]
     },
@@ -212,16 +216,11 @@
       "emphasis": "Para levar na mão, só a de 10 kg pode servir, e nem todas, porque a Cartagena P passa da medida; para uma semana despachando, a de 23 kg dá mais espaço."
     },
     {
-      "heading": "Parceria e cupom",
+      "heading": "Parceria, cupom e garantia",
       "paragraphs": [
-        "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom.",
-        "Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
-      ]
-    },
-    {
-      "heading": "E a garantia?",
-      "paragraphs": [
-        "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024. Detalhes no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+        "O CECILIA10 dá 10% em todo o site oficial da Bagaggio (condições na [página do cupom](/cupons/bagaggio)) e vale em todas as formas de pagamento, com um cupom por pedido. O Pix de 5% entra depois, sobre o total que já tem o cupom.",
+        "No nosso teste de carrinho, a Detroit ABS Preta saiu de R$ 249,90 para R$ 224,91 com o CECILIA10 e para R$ 213,66 no Pix.",
+        "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação. Detalhes no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia). Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
       ]
     },
     {
@@ -230,8 +229,8 @@
         "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? São faixas que a loja usa para malas pequenas, médias e grandes. As dimensões e os litros variam por modelo, e nem toda mala de 10 kg cabe na mão: a Cartagena P passa da medida.",
         "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
         "Qual tamanho de mala comprar para viagem de uma semana? Compare o que você leva com o volume: as médias da seleção têm de 71 a 91 litros. Para cabine, confirme as dimensões totais do modelo e a regra do bilhete; nem toda mala chamada de 10 kg atende à referência.",
-        "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Depende do modelo. A Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, com as rodas incluídas; a Cartagena P passa. Cada companhia decide, então confira antes de viajar e a regra do seu bilhete.",
-        "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Confira o valor final no carrinho."
+        "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Depende do modelo. A Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, com as rodas incluídas; a Cartagena P passa. Cada companhia decide, então confira a regra do seu bilhete antes de viajar.",
+        "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site. No nosso teste, a Detroit ABS Preta foi de cerca de R$ 250 a cerca de R$ 225. Confira o valor final no carrinho."
       ]
     }
   ],
@@ -256,7 +255,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "bagaggio",
-  "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho. Ninguém da equipe usou as malas.",
+  "editorialNote": "Preços, fichas e cupom conferidos no site da Bagaggio, sem usar as malas. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
       "slug": "mala-de-bordo-bagaggio-qual-compensa"

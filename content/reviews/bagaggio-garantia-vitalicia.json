@@ -17,7 +17,7 @@
   "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. A garantia vitalícia vale só para malas da marca: o que cobre, o que não cobre, o passo a passo e o dano no voo.",
   "publishedAt": "22 de outubro de 2026",
   "publishedAtISO": "2026-10-22",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/bagaggio/bagaggio-garantia-vitalicia-capa-v2.webp",
@@ -33,7 +33,7 @@
     {
       "heading": "Mochila tem garantia vitalícia?",
       "paragraphs": [
-        "A resposta é não. A página oficial diz que a garantia vitalícia se aplica exclusivamente às malas da marca Bagaggio. As outras marcas que a página cita, como Travelcross e Swiss One, ficam de fora e seguem a garantia própria de cada fabricante.",
+        "A resposta é não. A página oficial diz que a garantia vitalícia se aplica exclusivamente às malas da marca Bagaggio. Mochila fica de fora mesmo sendo da marca: a [Mochila Feminina Floral Camélia Rosa](https://www.bagaggio.com.br/mochila-feminina-floral-camelia-rosa/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) tem a garantia da etiqueta, não a vitalícia. As outras marcas que a página cita, como Travelcross e Swiss One, também ficam de fora e seguem a garantia do fabricante.",
         "Mochilas, bolsas e carteiras não entram na vitalícia, mesmo quando são da marca. Elas seguem a garantia da etiqueta, que é a garantia da loja, e a garantia legal do Código de Defesa do Consumidor, que existe mesmo sem prazo na etiqueta: para produto durável, são 90 dias, contados da entrega, para reclamar de defeito aparente."
       ],
       "image": {
@@ -41,7 +41,8 @@
         "alt": "Mochila Feminina Floral Camélia Rosa, da marca Bagaggio, em foto oficial da loja",
         "caption": "Mochila Floral Camélia Rosa, da marca Bagaggio: mochila segue a garantia da etiqueta, não a vitalícia. Foto oficial da loja.",
         "objectFit": "portrait",
-        "aspectRatio": 0.7219
+        "aspectRatio": 0.7219,
+        "href": "https://www.bagaggio.com.br/mochila-feminina-floral-camelia-rosa/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
       }
     },
     {
@@ -122,15 +123,6 @@
       "postParagraphs": [
         "A lista de exclusões é a mesma na garantia vitalícia e na garantia comum, de A a L no Termo.",
         "A análise não garante troca, reparo nem devolução do dinheiro. Ela confirma se o defeito é de fabricação, e só depois disso a loja decide o reparo ou a troca."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/bagaggio/garantia-quadro-cobre-nao-cobre.webp",
-          "alt": "Quadro com duas colunas: à esquerda, o que a garantia cobre, como falha de fabricação e defeito de montagem; à direita, o que não cobre, como queda, desgaste das rodas, zíper danificado por uso, manchas e dano no voo",
-          "caption": "Quadro feito por nós, com base na página de garantia da loja.",
-          "objectFit": "contain",
-          "aspectRatio": 1.3333
-        }
       ]
     },
     {
@@ -178,14 +170,16 @@
         ]
       },
       "postParagraphs": [
-        "Nas duas, confirmado o defeito de fabricação, a loja faz o reparo. Se o defeito não tiver conserto, o consumidor escolhe, pela lei: troca por outro da mesma espécie, devolução do valor pago ou abatimento proporcional do preço."
+        "Nas duas, confirmado o defeito de fabricação, a loja faz o reparo. Se o defeito não tiver conserto, o consumidor escolhe, pela lei: troca por outro da mesma espécie, devolução do valor pago ou abatimento proporcional do preço.",
+        "Dois exemplos de mala da marca, com o selo da vitalícia na ficha do site: a [Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e a [Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)."
       ],
       "image": {
         "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
         "alt": "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm",
         "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja. O selo de garantia vitalícia vale para as malas da marca.",
         "objectFit": "square",
-        "aspectRatio": 1.0
+        "aspectRatio": 1.0,
+        "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
       }
     },
     {
@@ -208,13 +202,14 @@
         "alt": "Mulher segurando o celular ao lado de uma mala de bordo Route preta da Bagaggio",
         "caption": "Mala de bordo Route preta. Foto oficial da loja.",
         "objectFit": "square",
-        "aspectRatio": 1.0
+        "aspectRatio": 1.0,
+        "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
       }
     },
     {
-      "heading": "Como acionar, por canal",
+      "heading": "Como acionar a garantia, por canal e fora do Brasil",
       "paragraphs": [
-        "Antes de tudo, a mala e o cliente precisam estar no Brasil. A loja pede a nota fiscal para abrir o pedido de análise."
+        "Antes de tudo, a mala e o cliente precisam estar no Brasil. A loja pede a nota fiscal para abrir o pedido de análise. O atendimento da loja é pelo chat do site, de segunda a sexta, das 9h às 18h, e pelo e-mail atendimento@bagaggio.com.br."
       ],
       "bullets": [
         "Compra pelo site: acesse o [Troque Fácil](https://bagaggio.troquefacil.com.br/) com o número do pedido e o CPF.",
@@ -225,7 +220,8 @@
         "Para a primeira análise, a loja pede fotos: a nota fiscal, o produto por completo (de frente, de costas e dos lados, com o local danificado visível), a descrição clara da avaria e a data em que o defeito foi constatado.",
         "Depois das fotos, a loja analisa se o defeito é coberto. Se aprovado, ela envia por e-mail o procedimento para mandar a mala para inspeção física e informa o prazo de reparo, de até 30 dias. Se recusado, manda um parecer técnico por e-mail. Nesse caso, reparo e frete para a assistência autorizada ficam com o cliente.",
         "Se a mala não tiver conserto, a lei dá a escolha entre troca por outro da mesma espécie, devolução do valor pago e abatimento proporcional do preço. A página de ajuda diz que a troca é feita por voucher, considerando o valor da nota fiscal. O Termo fala em substituição do produto: confirme com a loja como a troca sai no seu caso.",
-        "Se a mala sair de linha e precisar ser trocada, o modelo novo também tem garantia vitalícia, nas mesmas condições."
+        "Se a mala sair de linha e precisar ser trocada, o modelo novo também tem garantia vitalícia, nas mesmas condições.",
+        "Fora do Brasil a garantia não vale: se o defeito aparecer no exterior, o acionamento só começa depois do retorno ao país. A loja não envia peças, não faz coletas e não cobre frete, taxas nem assistências estrangeiras, e esses custos ficam com o cliente."
       ],
       "image": {
         "src": "/images/reviews/bagaggio/garantia-detroit-angulos.webp",
@@ -236,21 +232,9 @@
       }
     },
     {
-      "heading": "Garantia fora do Brasil",
-      "paragraphs": [
-        "A garantia não vale fora do Brasil. Se o defeito aparecer no exterior, o acionamento só começa depois do retorno ao país. A loja não envia peças, não faz coletas e não cobre frete, taxas nem assistências estrangeiras, e esses custos ficam com o cliente."
-      ]
-    },
-    {
-      "heading": "Se o pedido der problema",
-      "paragraphs": [
-        "Se a loja não resolver, o [artigo sobre o Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao) mostra o que os dados públicos dizem sobre o atendimento. Se a sua dúvida é se a loja é confiável, veja a [análise sobre a Bagaggio](/reviews/bagaggio-e-confiavel)."
-      ]
-    },
-    {
       "heading": "Parceria e cupom",
       "paragraphs": [
-        "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o cupom CECILIA10. Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes.",
+        "Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes do CECILIA10.",
         "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produto já com desconto. O Pix de 5% entra depois, sobre o total que já tem o cupom. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido.",
         "Ele vai no campo \"Cupom de desconto\" do resumo, e não no campo de vendedor ou influenciador. Confira as parcelas no checkout.",
         "O passo a passo do cupom e os valores na sacola estão em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
