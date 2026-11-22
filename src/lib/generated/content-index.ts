@@ -247800,7 +247800,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom tira: a conta do nosso teste",
         "paragraphs": [
-          "Em 16 de novembro de 2026, montamos um carrinho com duas camisetas. A BR Regular Locally Grown estava pelo preço cheio de R$ 89,00, e a Regular Goth 3.0, em promoção, de R$ 89,00 por R$ 59,00. O código tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete.",
+          "Em 16 de novembro de 2026, montamos um carrinho com duas camisetas. A [Camiseta BR Regular Locally Grown](https://www.bawclothing.com.br/produto/camiseta-br-regular-locally-grown-154255) estava pelo preço cheio de R$ 89,00, e a [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), em promoção, de R$ 89,00 por R$ 59,00. O código tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete.",
           "São 10% sobre os produtos do carrinho, inclusive sobre a camiseta que já estava em promoção. O código vale em todo o site, e o valor descontado aparece na linha Cupom antes do pagamento."
         ],
         "images": [
@@ -247810,9 +247810,38 @@ export const reviewsData: unknown[] = [
             "caption": "Camiseta Regular Goth 3.0, o modelo em promoção do carrinho do teste, aqui na cor preta. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/camiseta-regular-goth-3-0-151202"
+            "href": "https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151202"
           }
-        ]
+        ],
+        "comparisonTable": {
+          "caption": "Preços do carrinho do teste, sem frete. O desconto de cada camiseta é conta nossa, 10% sobre o preço; o carrinho real mostrou R$ 14,80 na linha Cupom.",
+          "headers": [
+            "Peça",
+            "Preço no teste",
+            "Total dos produtos",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "Camiseta BR Regular Locally Grown",
+              "R$ 89,00",
+              "R$ 89,00",
+              "R$ 80,10"
+            ],
+            [
+              "Camiseta Regular Goth 3.0",
+              "R$ 59,00 (de R$ 89,00)",
+              "R$ 59,00",
+              "R$ 53,10"
+            ],
+            [
+              "Carrinho com as duas",
+              "R$ 148,00",
+              "R$ 148,00",
+              "R$ 133,20"
+            ]
+          ]
+        }
       },
       {
         "heading": "O cupom soma com promoção e com o Pix?",
@@ -247927,20 +247956,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da BAW Clothing já está no site, com o nome “A última Black Friday da BAW” e sem data de fim publicada. O cupom BAWEMCASACOMCECILIA soma com o preço da campanha: dá 10% OFF e, no nosso teste, entrou numa camiseta que já estava em promoção. No Pix, a loja dá 5% de desconto, à parte."
+          "A Black Friday da BAW Clothing está no ar, com o banner “Black Friday até 80% OFF” e moletons com até 50% de desconto na vitrine, sem data de fim publicada. O cupom BAWEMCASACOMCECILIA dá 10% OFF e, no nosso teste, entrou numa camiseta que já estava em promoção. No Pix, a loja dá 5% de desconto, à parte."
         ]
       },
       {
         "heading": "A Black Friday da BAW já começou?",
         "paragraphs": [
-          "Já. O menu do site tem o item Black Friday, que abre a página “A última Black Friday da BAW”, o nome da campanha, com camisetas, moletons e outras peças em preço promocional.",
-          "A loja não publica regulamento nem datas de início e de fim. Como a campanha pode mudar sem aviso, o preço que vale é o da página no dia da compra."
+          "Já. O menu do site tem o item Black Friday, e o banner da home anuncia “Black Friday até 80% OFF”, com camisetas, moletons e outras peças em preço promocional. Os moletons aparecem com até 50% de desconto na vitrine.",
+          "A loja não publica regulamento nem datas de início e de fim. Como a campanha pode mudar sem aviso, o preço que vale é o da página no dia da compra.",
+          "A faixa do site informa frete grátis a partir de R$ 399, 5% OFF no Pix e parcelamento em até 10x sem juros."
         ]
       },
       {
         "heading": "O cupom soma com a Black Friday?",
         "paragraphs": [
-          "Soma. Em 16 de novembro de 2026, montamos um carrinho com a Camiseta Regular Goth 3.0, que estava na campanha de R$ 89,00 por R$ 59,00, e a BR Regular Locally Grown, a R$ 89,00. O BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete: os 10% entraram também sobre a peça em promoção.",
+          "Soma. Em 16 de novembro de 2026, montamos um carrinho com a [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), que estava na campanha de R$ 89,00 por R$ 59,00, e a [Camiseta BR Regular Locally Grown](https://www.bawclothing.com.br/produto/camiseta-br-regular-locally-grown-154255), a R$ 89,00. O BAWEMCASACOMCECILIA tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete: os 10% entraram também sobre a peça em promoção.",
           "No Pix, a BAW dá 5% de desconto, que soma com o código. São dois descontos separados. O passo a passo do campo está em [como usar o cupom BAW](/reviews/cupom-baw-como-usar), e as condições do código, na página do [cupom BAW Clothing](/cupons/baw)."
         ]
       },
@@ -247956,7 +247986,7 @@ export const reviewsData: unknown[] = [
         "heading": "Camiseta Regular Goth 3.0",
         "paragraphs": [
           "É uma das peças do nosso teste e a camiseta estampada de menor preço entre as que lemos: R$ 59,00, de R$ 89,00, na cor preta.",
-          "A descrição mostrava “Não há descrição para este produto”, sem composição nem medidas. Se você quer conferir o tamanho antes da primeira compra, a [Regular Selfie Logo](https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490) publica as medidas de cada tamanho. Na cor off white desta seleção, ela fica R$ 27 a mais com o cupom."
+          "A descrição mostrava “Não há descrição para este produto”, sem composição nem medidas. Se você quer conferir o tamanho antes da primeira compra, a [Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490) publica as medidas de cada tamanho. Na cor off white desta seleção, ela fica R$ 27 a mais com o cupom."
         ],
         "images": [
           {
@@ -247965,7 +247995,7 @@ export const reviewsData: unknown[] = [
             "caption": "Camiseta Regular Goth 3.0, na cor preta. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/camiseta-regular-goth-3-0-151202"
+            "href": "https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151202"
           }
         ]
       },
@@ -247974,7 +248004,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na cor off white, estava a R$ 89,00, de R$ 129,00. Outra cor aparecia a R$ 79,00.",
           "A loja descreve “camiseta regular de algodão com modelagem reta” e publica as medidas de cada tamanho: no M, 70 cm de comprimento e 54 cm de tórax. Para a primeira compra na marca, é a regular em que dá para conferir a medida antes.",
-          "A BR Regular Locally Grown, a outra peça do nosso teste, estava a preço cheio, R$ 89,00 na cor testada, e com a descrição vazia. Nela, o único desconto foi o do código: R$ 80,10."
+          "A [Camiseta BR Regular Locally Grown](https://www.bawclothing.com.br/produto/camiseta-br-regular-locally-grown-154255), a outra peça do nosso teste, estava a preço cheio, R$ 89,00 na cor testada, e com a descrição vazia. Nela, o único desconto foi o do código: R$ 80,10."
         ],
         "images": [
           {
@@ -247983,7 +248013,7 @@ export const reviewsData: unknown[] = [
             "caption": "Camiseta Regular Selfie Logo, na cor off white. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490"
+            "href": "https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490"
           }
         ]
       },
@@ -248000,7 +248030,7 @@ export const reviewsData: unknown[] = [
             "caption": "Camiseta Oversized BAW Subscript, na cor off white. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/camiseta-oversized-baw-subscript-151896"
+            "href": "https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896"
           }
         ]
       },
@@ -248009,7 +248039,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na cor azul-escuro, estava a R$ 139,00, de R$ 249,00. Outras cores apareciam a R$ 179,00, então o preço depende da cor.",
           "A loja descreve “capuz forrado com ajuste por cordões”, bolso canguru e punhos em tecido canelado, em 50% algodão e 50% poliéster. No M, 74 cm de comprimento e 61 cm de tórax.",
-          "O [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151918) estava a R$ 179,00, de R$ 349,00, na cor preta: R$ 161,10 com o código ou R$ 170,05 só com o Pix. A descrição informa 100% algodão e, no M, as mesmas medidas de comprimento e tórax do Basic Label. Com o cupom, custa R$ 36 a mais. O Basic Label pede um gasto menor; o Hoodie é a opção para quem procura essa composição."
+          "O [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918) estava a R$ 179,00, de R$ 349,00, na cor preta: R$ 161,10 com o código ou R$ 170,05 só com o Pix. A descrição informa 100% algodão e, no M, as mesmas medidas de comprimento e tórax do Basic Label. Com o cupom, custa R$ 36 a mais. O Basic Label pede um gasto menor; o Hoodie é a opção para quem procura essa composição."
         ],
         "images": [
           {
@@ -248018,7 +248048,7 @@ export const reviewsData: unknown[] = [
             "caption": "Moletom Basic Label, na cor azul-escuro. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/moletom-basic-label-153707"
+            "href": "https://www.bawclothing.com.br/produto/moletom-basic-label-153707"
           }
         ]
       },
@@ -248027,7 +248057,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na cor amarelo flúor, estava a R$ 149,00, de R$ 349,00. Outras cores apareciam a R$ 199,00 e a R$ 219,00.",
           "É uma jogger de moletom flanelado, 50% algodão e 50% poliéster, com cós de elástico e cordão. A loja fala em moletom “encorpado”, com “proteção térmica para os dias mais frios”: é peça de frio.",
-          "Para o calor, a loja tem a [Bermuda Jeans Regular Logo](https://www.bawclothing.com.br/bermuda-jeans-regular-logo-153450), a R$ 129,00, de R$ 199,00 (R$ 116,10 com o código, R$ 122,55 só com o Pix). É 100% algodão, de modelagem reta e comprimento perto do joelho, na numeração 34 a 52.",
+          "Para o calor, a loja tem a [Bermuda Jeans Regular Logo](https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153450), a R$ 129,00, de R$ 199,00 (R$ 116,10 com o código, R$ 122,55 só com o Pix). É 100% algodão, de modelagem reta e comprimento perto do joelho, na numeração 34 a 52.",
           "A calça informa 40 cm de cintura no M, e a bermuda, 68 cm no 34. Como as páginas não explicam como a medida foi tirada, esses números não se comparam. Antes de usar a tabela para escolher o tamanho, confirme com o atendimento da BAW como cada peça foi medida."
         ],
         "images": [
@@ -248037,7 +248067,7 @@ export const reviewsData: unknown[] = [
             "caption": "Calça Track BAW Tag, na cor amarelo flúor. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/calca-track-baw-tag-151973"
+            "href": "https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973"
           }
         ]
       },
@@ -248046,7 +248076,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na linha infantil, estava a R$ 39,00, de R$ 129,00, na cor azul.",
           "A loja descreve “shorts infantil de algodão e elástico na cintura” e traz as medidas do 04 ao 14. No 04, são 31 cm de comprimento. Criança muda de tamanho rápido: meça um short que serve hoje e compare com a tabela da peça.",
-          "As camisetas BR Kids estavam pelo mesmo preço, R$ 39,00, sem preço “de”, e com a descrição vazia."
+          "As camisetas BR Kids, como a [Camiseta BR Kids BAW Classic Colors](https://www.bawclothing.com.br/produto/camiseta-br-kids-baw-classic-colors-154188) e a [Camiseta BR Kids Flaming BAW](https://www.bawclothing.com.br/produto/camiseta-br-kids-flaming-baw-154189), estavam pelo mesmo preço, R$ 39,00, sem preço “de”, e com a descrição vazia."
         ],
         "images": [
           {
@@ -248055,7 +248085,7 @@ export const reviewsData: unknown[] = [
             "caption": "Shorts Reverse Kids, na cor azul. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/shorts-reverse-kids-151314"
+            "href": "https://www.bawclothing.com.br/produto/shorts-reverse-kids-151314"
           }
         ]
       },
@@ -248064,7 +248094,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Era o tênis de menor preço entre os que lemos: R$ 169,00, de R$ 399,00, no modelo branco da foto.",
           "A descrição não informa material nem medidas para escolher o número. Antes de comprar, peça à BAW a orientação de tamanho desse modelo, principalmente se você ainda não usa o Thunder. A troca é feita por crédito para uma nova compra, e a disponibilidade do número pode mudar.",
-          "Se a sua busca é por um calçado aberto, a [Sandália Linus](https://www.bawclothing.com.br/sandalia-linus-153608), da parceria BAW + Linus, estava a R$ 169,00, de R$ 229,00, na cor amarelo flúor: R$ 152,10 com o código ou R$ 160,55 só com o Pix. A página informa “100% de PVC microexpandido” e traz uma tabela de pé por numeração dupla. É uma opção de sandália e não substitui o Thunder para quem precisa de tênis fechado."
+          "Se a sua busca é por um calçado aberto, a [Sandália Linus](https://www.bawclothing.com.br/produto/sandalia-linus-153608), da parceria BAW + Linus, estava a R$ 169,00, de R$ 229,00, na cor amarelo flúor: R$ 152,10 com o código ou R$ 160,55 só com o Pix. A página informa “100% de PVC microexpandido” e traz uma tabela de pé por numeração dupla. É uma opção de sandália e não substitui o Thunder para quem precisa de tênis fechado."
         ],
         "images": [
           {
@@ -248073,7 +248103,7 @@ export const reviewsData: unknown[] = [
             "caption": "Tênis BAW Thunder, na cor branca. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/tenis-baw-thunder-151236"
+            "href": "https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236"
           }
         ]
       },
@@ -248142,7 +248172,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Tamanho.** As medidas ficam na aba “Descrição” de cada peça, quando a loja publica, com o aviso de variação de até 3%. A loja não tem um guia de tamanhos único.",
           "**Cor.** O preço e os tamanhos disponíveis mudam por cor. Confira o seu tamanho na página, na cor que você quer.",
-          "**Total entregue.** O cupom não dá frete grátis: o frete sai pelo CEP. O que se compara é o total, com os produtos já com o desconto e o frete.",
+          "**Total entregue.** O cupom não dá frete grátis: o frete sai pelo CEP. A faixa do site anuncia frete grátis a partir de R$ 399; confira no carrinho se o seu pedido entra. O que se compara é o total, com os produtos já com o desconto e o frete.",
           "**Prazo.** A página de entrega diz que o prazo conta a partir do faturamento e que, “em períodos promocionais, os prazos de envio podem sofrer alterações”."
         ]
       },
@@ -248164,7 +248194,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E no Mercado Livre?",
         "paragraphs": [
-          "O BAWEMCASACOMCECILIA vale no site oficial e no aplicativo da BAW. Em marketplace, como o Mercado Livre, vale o preço do anúncio, sem o código."
+          "O BAWEMCASACOMCECILIA vale no site oficial e no aplicativo da BAW, e é lá que entram os 10% OFF. Em marketplace, como o Mercado Livre, vale o preço do anúncio, sem o código, e não conferimos o preço de nenhuma peça da BAW por lá.",
+          "O frete e a troca que descrevemos neste guia são os do site da BAW: frete pelo CEP, com frete grátis anunciado a partir de R$ 399, e troca ou devolução pela política da loja. Se for comparar com um anúncio, confira a regra de troca dele e some o frete.",
+          "Para decidir, olhe o total entregue nos dois lugares: no site, o carrinho já mostra o cupom e o frete antes de pagar."
         ]
       },
       {
@@ -248194,6 +248226,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -248203,9 +248236,9 @@ export const reviewsData: unknown[] = [
     "coupon": "BAWEMCASACOMCECILIA",
     "affiliate": "baw",
     "title": "BAW Clothing no Reclame Aqui: nota, reputação e o que mais gera reclamação",
-    "seoTitle": "BAW Clothing no Reclame Aqui: nota e reclamações",
+    "seoTitle": "BAW Clothing no Reclame Aqui: nota 7,3 e reclamações",
     "type": "Análise de Reputação",
-    "description": "A nota da BAW Clothing no Reclame Aqui, as queixas mais citadas e o que conferir sobre entrega, troca por crédito e devolução antes de comprar.",
+    "description": "A nota 7,3 da BAW Clothing no Reclame Aqui, os pontos positivos, as queixas mais citadas e o que conferir sobre entrega, troca e devolução antes de comprar.",
     "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing. Veja a nota no Reclame Aqui, as queixas mais citadas e o que conferir sobre entrega e devolução.",
     "image": "/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp",
     "imageAlt": "Modelo com o moletom BAW All Stars e, ao lado, detalhe ampliado da estampa de estrelas da mesma peça. Fotos oficiais. A capa traz o logo BAW e a chamada “Reclame Aqui — Nota e queixas”, com o cupom BAWEMCASACOMCECILIA.",
@@ -248231,16 +248264,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A BAW Clothing tem reputação Boa e nota 7,3 no Reclame Aqui. Respondeu todas as reclamações do recorte de seis meses. Entre as avaliadas, mais de oito em dez tiveram o problema considerado resolvido, mas pouco mais da metade voltaria a comprar. No histórico geral do perfil, a principal queixa é produto não recebido."
+          "A BAW Clothing tem reputação Boa e nota 7,3 no Reclame Aqui, tanto em seis quanto em doze meses, com 100% das reclamações respondidas e 83,7% resolvidas entre as avaliadas. O ponto de atenção é o tempo de resposta, de mais de oito dias, e produto não recebido na aba geral. O código BAWEMCASACOMCECILIA dá 10% OFF."
         ]
       },
       {
-        "heading": "A nota em números",
+        "heading": "A nota e os indicadores do período",
         "paragraphs": [
-          "O [perfil Baw Clothing no Reclame Aqui](https://www.reclameaqui.com.br/empresa/baw-clothing/) mostra os indicadores por período. Na leitura de 16 de novembro de 2026, os dois recortes mais recentes eram o de seis meses, de maio a outubro de 2026, e o de doze meses, de novembro de 2025 a outubro de 2026."
+          "Consultamos o [perfil Baw Clothing no Reclame Aqui](https://www.reclameaqui.com.br/empresa/baw-clothing/) em 21 de novembro de 2026, nas abas de seis e de doze meses. As duas janelas se sobrepõem: a de doze meses inclui os seis meses da outra. Na aba de seis meses, nenhuma reclamação aguardava resposta."
         ],
         "comparisonTable": {
-          "caption": "Perfil “Baw Clothing” no Reclame Aqui. As janelas de 6 e de 12 meses se sobrepõem.",
+          "caption": "Perfil “Baw Clothing” no Reclame Aqui, abas de 6 e de 12 meses. Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
           "headers": [
             "Indicador",
             "6 meses",
@@ -248268,24 +248301,24 @@ export const reviewsData: unknown[] = [
               "100%"
             ],
             [
+              "Avaliadas",
+              "350",
+              "624"
+            ],
+            [
               "Problema resolvido, entre as avaliadas",
               "83,7%",
               "81,7%"
             ],
             [
-              "Voltariam a fazer negócio",
-              "56,7%",
-              "59,6%"
-            ],
-            [
-              "Avaliadas",
-              "349",
-              "623"
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "56,6%",
+              "59,5%"
             ],
             [
               "Nota média do consumidor",
-              "5,4",
-              "5,66"
+              "5,38",
+              "5,65"
             ],
             [
               "Tempo médio de resposta",
@@ -248293,23 +248326,37 @@ export const reviewsData: unknown[] = [
               "8 dias e 16 horas"
             ]
           ]
-        },
+        }
+      },
+      {
+        "heading": "O que a nota e o selo medem, e o que não medem",
+        "paragraphs": [
+          "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade das peças, o caimento nem a durabilidade, e muda conforme novas reclamações entram e são avaliadas.",
+          "Há duas notas diferentes no perfil. A de 7,3 é a nota geral, calculada pela plataforma, e define a reputação Boa. A de 5,38 (seis meses) e 5,65 (doze meses) é a média que os próprios consumidores deram ao atendimento depois de encerrar a reclamação. Pela [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), o índice de solução e a intenção de voltar a comprar são calculados sobre as reclamações avaliadas, que aqui são menos da metade das recebidas.",
+          "O selo Empresa Verificada reconhece as empresas aprovadas na verificação mensal do Reclame Aqui de que existem de fato. Na nossa consulta, o perfil da BAW não mostrava esse selo. Isso é só uma informação do perfil, e não diz nada sobre a qualidade da loja."
+        ]
+      },
+      {
+        "heading": "Pontos positivos identificados",
+        "paragraphs": [
+          "Estes são os sinais favoráveis que o perfil mostrava:"
+        ],
+        "bullets": [
+          "**Reputação.** Boa, com nota 7,3, tanto na aba de seis meses quanto na de doze.",
+          "**Resposta.** 100% das 843 reclamações de seis meses e das 1.442 de doze meses tiveram resposta, e nenhuma aguardava resposta na aba de seis meses.",
+          "**Solução, entre as avaliadas.** Das 350 reclamações avaliadas em seis meses, 83,7% foram consideradas resolvidas. Em doze meses, 81,7% das 624 avaliadas.",
+          "**Tempo de casa.** O perfil está no Reclame Aqui há 11 anos."
+        ],
         "postParagraphs": [
-          "A nota 7,3 é a avaliação calculada pelo Reclame Aqui, e 5,4 e 5,66 são as médias que os consumidores deram ao atendimento. Pela [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), o índice de solução e a intenção de voltar a comprar são calculados sobre as reclamações avaliadas, que são menos da metade das recebidas."
+          "As 843 reclamações do semestre são um número absoluto. Sem o total de pedidos da loja no mesmo período, esse número não vira proporção, então não dá para dizer se são muitas ou poucas para o tamanho da operação."
         ]
       },
       {
-        "heading": "Como a nota mudou",
+        "heading": "Pontos de atenção e principais queixas",
         "paragraphs": [
-          "No histórico mensal do perfil, a reputação foi Boa em maio, subiu para Ótima em junho e voltou a Boa de julho a outubro. A reputação mudou de um mês para outro, então vale abrir o perfil no dia da compra.",
-          "As abas de 2025 e de 2024 não abriram na nossa leitura."
-        ]
-      },
-      {
-        "heading": "O que mais gera reclamação",
-        "paragraphs": [
-          "Na aba geral do perfil, que soma até três anos, o problema mais citado é “Produto não recebido”, com 25,94% das reclamações. Camisetas são o produto mais citado, com 44,25%, e Moda Masculina é a categoria mais citada, com 40,59%.",
-          "As reclamações mais recentes repetem alguns temas:"
+          "Dois números da aba de seis meses pedem atenção. O tempo médio de resposta é de 8 dias e 18 horas. E, entre as avaliadas, 56,6% dizem que voltariam a fazer negócio com a loja, o índice mais baixo da tabela (59,5% em doze meses).",
+          "Os motivos de reclamação ficam na aba geral do perfil, que soma até três anos, e não nas janelas da tabela. Nessa aba, o problema mais citado é “Produto não recebido”, com 25,93%. Camisetas são o produto mais citado, com 43,96%, e Moda Masculina é a categoria mais citada, com 40,21%.",
+          "As reclamações recentes que consultamos repetem alguns temas:"
         ],
         "bullets": [
           "pedido atrasado e sem rastreio;",
@@ -248319,27 +248366,14 @@ export const reviewsData: unknown[] = [
           "camiseta com qualidade abaixo do esperado."
         ],
         "postParagraphs": [
-          "Esses são os temas encontrados nas reclamações recentes consultadas. São relatos dos consumidores; a leitura não permite estimar a frequência de cada problema nem concluir quem tem razão em cada caso."
+          "São relatos dos consumidores. A leitura não permite estimar a frequência de cada problema nem concluir quem tem razão em cada caso."
         ]
       },
       {
-        "heading": "Os dois lados da nota",
+        "heading": "Como a loja responde e o que conferir antes de comprar",
         "paragraphs": [
-          "De um lado, a BAW respondeu todas as reclamações dos dois recortes, e o índice de solução passa de 80% em ambos.",
-          "Do outro, a resposta leva mais de oito dias, em média, e 56,7% de quem avaliou em seis meses diz que voltaria a comprar (59,6% em doze). A nota média dada pelos consumidores fica em 5,4 e 5,66."
-        ]
-      },
-      {
-        "heading": "Qual perfil é o da BAW",
-        "paragraphs": [
-          "O perfil se chama “Baw Clothing”, está na categoria de e-commerce de moda, aponta para o site bawclothing.com.br e informa que a empresa está no Reclame Aqui há 11 anos.",
-          "O CNPJ que aparece no perfil é 27.238.862/0001-03. O rodapé do site oficial traz outro: WAB COMPANY, CNPJ 58.435.903/0001-85."
-        ]
-      },
-      {
-        "heading": "O que conferir antes de comprar",
-        "paragraphs": [
-          "Entrega, troca e reembolso têm regra publicada pela loja. Vale conhecer antes de pagar:"
+          "O perfil se chama “Baw Clothing”, está na categoria de e-commerce de moda e aponta para o site bawclothing.com.br. O CNPJ que aparece no perfil é 27.238.862/0001-03. O rodapé do site oficial traz WAB COMPANY, CNPJ 58.435.903/0001-85.",
+          "Para falar com a loja, a [central de ajuda da BAW](https://www.bawclothing.com.br/central-de-ajuda) informa atendimento por WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados. Entrega, troca e reembolso têm regra publicada pela loja:"
         ],
         "bullets": [
           "**Prazo.** Simule frete e prazo pelo CEP. Pela política de entrega, o prazo conta do faturamento do pedido, e pedidos de fim de semana são processados no próximo dia útil.",
@@ -248347,10 +248381,12 @@ export const reviewsData: unknown[] = [
           "**Rastreio.** O código de rastreamento chega por e-mail quando o pedido é enviado.",
           "**Endereço e cancelamento.** Para endereço errado, a central de ajuda orienta falar com o atendimento imediatamente. Ela informa que o cancelamento do pedido só é aceito antes da expedição. Se o pedido já foi enviado, consulte o procedimento de devolução descrito abaixo.",
           "**Tamanho.** As medidas ficam na descrição de cada peça, quando a loja publica, e algumas descrições estão vazias. A loja não troca peça por peça, nem mesmo por tamanho, e a troca vira crédito no valor pago.",
-          "**Dinheiro de volta.** Quem quer o reembolso pede a devolução, em até 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original. A primeira troca ou devolução tem frete grátis, e nas seguintes o frete é do cliente."
+          "**Dinheiro de volta.** Quem quer o reembolso pede a devolução, em até 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original. A primeira troca ou devolução tem frete grátis, e nas seguintes o frete é do cliente.",
+          "**Depois da devolução.** Recebida a peça, a loja faz a análise em até 10 dias úteis e segue com a opção escolhida, reembolso ou crédito. No Pix, o reembolso costuma sair em até 10 dias úteis depois da confirmação da devolução. No cartão, o prazo do estorno depende da administradora."
         ],
         "postParagraphs": [
-          "Consulte as páginas de [entrega e frete](https://www.bawclothing.com.br/entrega-e-frete), [trocas e devoluções](https://www.bawclothing.com.br/trocas-e-devolucoes) e a [central de ajuda da BAW](https://www.bawclothing.com.br/central-de-ajuda) para ver as regras completas e acessar os canais da loja."
+          "Consulte as páginas de [entrega e frete](https://www.bawclothing.com.br/entrega-e-frete), [trocas e devoluções](https://www.bawclothing.com.br/trocas-e-devolucoes) e a [central de ajuda da BAW](https://www.bawclothing.com.br/central-de-ajuda) para ver as regras completas e acessar os canais da loja.",
+          "Para pedir troca ou devolução, use o portal indicado na política, com o e-mail ou o CPF da compra, e guarde o número do pedido e as datas."
         ],
         "images": [
           {
@@ -248359,33 +248395,25 @@ export const reviewsData: unknown[] = [
             "caption": "Moletom Hoodie BAW Subscript, na cor preta. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151918"
+            "href": "https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918"
           }
         ]
       },
       {
-        "heading": "Se der problema",
+        "heading": "Vale a pena comprar na BAW Clothing?",
         "paragraphs": [
-          "Para pedir troca ou devolução, acesse o portal indicado na [política da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), com o e-mail ou o CPF da compra. Para falar com a loja, a [central de ajuda](https://www.bawclothing.com.br/central-de-ajuda) informa atendimento por WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados.",
-          "Depois de receber a peça, a loja faz a análise em até 10 dias úteis e segue com a opção escolhida, reembolso ou crédito. No Pix, a política diz que o reembolso costuma sair em até 10 dias úteis depois da confirmação da devolução. No cartão, o prazo do estorno depende da administradora.",
-          "Se a loja não resolver, registre a reclamação no Reclame Aqui com o número do pedido e as datas."
-        ]
-      },
-      {
-        "heading": "O que os números indicam",
-        "paragraphs": [
-          "Nos dois recortes, todas as reclamações receberam resposta. Entre as avaliadas, mais de 80% tiveram o problema considerado resolvido. Ainda assim, produto não recebido lidera as queixas no histórico geral, e o estorno aparece entre os relatos recentes. Antes de pagar, confira o prazo para seu CEP e como pedir crédito ou reembolso.",
-          "De quem é a marca, os CNPJs e as regras de troca em detalhe estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
-          "Se decidir comprar, o código BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo. As condições estão na [página do código da BAW](/cupons/baw)."
+          "Pelo Reclame Aqui, a BAW responde todas as reclamações e a maioria das avaliadas é resolvida, com reputação Boa nos dois recortes. Os pontos fracos são a demora média de mais de oito dias para responder, o produto não recebido no topo da aba geral e o índice de pouco mais da metade que voltaria a comprar. Simule o prazo pelo CEP e acompanhe o rastreio.",
+          "Se decidir comprar, o [código BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo. O passo a passo do carrinho está em [como usar o código da BAW](/reviews/cupom-baw-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A BAW Clothing é confiável no Reclame Aqui? O perfil tem reputação Boa. Todas as reclamações dos recortes de seis e doze meses receberam resposta; entre as avaliadas, mais de 80% tiveram o problema considerado resolvido. No recorte de seis meses, 56,7% de quem avaliou voltaria a comprar.",
-          "A BAW responde as reclamações? Sim. Nos dois recortes lidos, 100% das reclamações tiveram resposta, em pouco mais de oito dias, em média.",
-          "O que fazer se o pedido da BAW não chegou? Confira o rastreio enviado por e-mail e o prazo, que conta do faturamento. Depois, fale com o atendimento da loja pelo WhatsApp, em dias úteis. Sem solução, registre no Reclame Aqui.",
-          "A BAW devolve o dinheiro? Sim, para quem pede a devolução em até 7 dias corridos do recebimento. O reembolso volta pela mesma forma de pagamento da compra. Na troca, o valor vira crédito na loja."
+          "Qual a nota da BAW Clothing no Reclame Aqui? A reputação é Boa, com nota 7,3 nas abas de seis e de doze meses. A média que os consumidores deram ao atendimento é 5,38 em seis meses e 5,65 em doze.",
+          "A BAW Clothing tem o selo Empresa Verificada? Na nossa consulta, o perfil não mostrava o selo. A reputação Boa e a nota 7,3 vêm dos indicadores da plataforma e não dependem dele.",
+          "A BAW responde e resolve as reclamações? Respondeu 100% das reclamações nas abas de seis e de doze meses, em cerca de oito dias, em média. Entre as avaliadas, 83,7% (seis meses) e 81,7% (doze meses) foram consideradas resolvidas.",
+          "O que fazer se o pedido da BAW não chegou? Confira o rastreio enviado por e-mail e o prazo, que conta do faturamento. Depois, fale com o atendimento da loja pelo WhatsApp, em dias úteis, com o número do pedido.",
+          "Tem código de desconto na BAW Clothing? Tem. O BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo."
         ]
       }
     ]
@@ -248405,6 +248433,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -248456,13 +248485,53 @@ export const reviewsData: unknown[] = [
         "heading": "CNPJ e site oficial",
         "paragraphs": [
           "O site oficial é bawclothing.com.br. O rodapé traz a razão social WAB COMPANY e o CNPJ 58.435.903/0001-85.",
-          "O perfil da marca no Reclame Aqui aponta para o mesmo site e mostra outro CNPJ, 27.238.862/0001-03."
-        ]
+          "O perfil da marca no Reclame Aqui aponta para o mesmo site e mostra outro CNPJ, 27.238.862/0001-03. A tabela junta o que cada fonte informa."
+        ],
+        "comparisonTable": {
+          "caption": "Dados da empresa como aparecem no site oficial e no perfil do Reclame Aqui.",
+          "headers": [
+            "Dado",
+            "O que consta",
+            "Onde aparece"
+          ],
+          "rows": [
+            [
+              "Site oficial",
+              "bawclothing.com.br",
+              "Site da loja"
+            ],
+            [
+              "Razão social",
+              "WAB COMPANY",
+              "Rodapé do site"
+            ],
+            [
+              "CNPJ",
+              "58.435.903/0001-85",
+              "Rodapé do site"
+            ],
+            [
+              "CNPJ",
+              "27.238.862/0001-03",
+              "Perfil no Reclame Aqui"
+            ],
+            [
+              "Tempo no Reclame Aqui",
+              "11 anos",
+              "Perfil no Reclame Aqui"
+            ],
+            [
+              "Atendimento",
+              "WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados",
+              "Central de ajuda"
+            ]
+          ]
+        }
       },
       {
         "heading": "A reputação em resumo",
         "paragraphs": [
-          "No Reclame Aqui, a BAW tem reputação Boa e nota 7,3 no recorte de seis meses. Todas as reclamações do período receberam resposta. Entre as avaliadas, 83,7% tiveram o problema considerado resolvido e 56,7% dos consumidores voltariam a comprar. Os números completos, o histórico e as queixas mais comuns estão em [BAW Clothing no Reclame Aqui](/reviews/baw-clothing-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, a BAW tem reputação Boa e nota 7,3 no recorte de seis meses. Todas as reclamações do período receberam resposta. Entre as avaliadas, 83,7% tiveram o problema considerado resolvido e 56,6% dos consumidores voltariam a comprar. Os números completos, o histórico e as queixas mais comuns estão em [BAW Clothing no Reclame Aqui](/reviews/baw-clothing-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -248495,7 +248564,7 @@ export const reviewsData: unknown[] = [
             "caption": "Camiseta Regular Selfie Logo, na cor off white. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490"
+            "href": "https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490"
           }
         ]
       },
@@ -248520,7 +248589,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A BAW Clothing tem loja física?",
         "paragraphs": [
-          "A página “Nossas Lojas” do site estava sem nenhum endereço na nossa leitura. Por isso, este artigo trata só da compra no site e no aplicativo."
+          "A página “Nossas Lojas” do site estava sem nenhum endereço na nossa leitura. Por isso, este artigo trata só da compra no site e no aplicativo, que é onde a BAW publica as condições.",
+          "A faixa do site informa frete grátis a partir de R$ 399, primeira troca grátis, 5% de desconto no Pix e parcelamento em até 10x sem juros. O frete e o prazo de cada pedido saem pelo CEP, no carrinho, e a política de entrega diz que o prazo conta do faturamento.",
+          "Na troca ou na devolução, o pedido pede o código de postagem dos Correios, e a primeira é gratuita. Nas seguintes, o frete é do cliente. A política de trocas e devoluções cita o prazo de 7 dias corridos do recebimento, e as regras completas estão no capítulo sobre crédito e devolução, acima.",
+          "No pagamento, vale a regra do site: Pix com 5% de desconto, mostrado na página de cada produto, ou cartão em até 10 vezes sem juros, com parcela mínima de R$ 50."
         ]
       },
       {
@@ -248536,7 +248608,7 @@ export const reviewsData: unknown[] = [
           "A BAW Clothing é da Reserva ou da Arezzo? Foi do grupo. A Arezzo comprou a marca em 2021, dentro do braço de vestuário liderado pelo fundador da Reserva. Em 2025, a imprensa noticiou a revenda aos fundadores, os irmãos Bruno e Lucas Karra.",
           "Qual é o CNPJ da BAW Clothing? O rodapé do site oficial traz WAB COMPANY, CNPJ 58.435.903/0001-85. O perfil da marca no Reclame Aqui mostra o CNPJ 27.238.862/0001-03.",
           "A BAW troca peça por tamanho? Não diretamente. A troca vira crédito no valor pago, na conta do CPF da compra, e o cliente faz um novo pedido com o tamanho certo.",
-          "A BAW Clothing tem loja física? A página “Nossas Lojas” do site não listava endereços na nossa leitura. A compra tratada aqui é a do site e a do aplicativo.",
+          "A BAW Clothing tem loja física? A página “Nossas Lojas” do site não listava endereços na nossa leitura. A compra tratada aqui é a do site e a do aplicativo, com frete e prazo pelo CEP, primeira troca grátis, Pix com 5% de desconto e parcelamento em até 10x sem juros.",
           "O cupom da BAW vale no Mercado Livre? Não. O código vale no site oficial e no aplicativo. Em marketplace, vale o preço do anúncio."
         ]
       }
@@ -248600,14 +248672,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom BAW primeira compra: qual usar",
         "paragraphs": [
-          "A BAW Clothing é uma marca brasileira de streetwear, com camisetas, moletons, calças e acessórios. Antes do primeiro pedido, veja a trajetória da empresa e os cuidados de compra em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+          "A BAW Clothing é uma marca brasileira de streetwear, com camisetas, moletons, calças e acessórios, vendidos no site oficial e no aplicativo.",
           "Para o desconto, use BAWEMCASACOMCECILIA: 10% OFF em todo o site oficial e no aplicativo. Vale para quem nunca comprou e para quem já é cliente. As condições atuais ficam na [página do código da BAW](/cupons/baw)."
         ]
       },
       {
         "heading": "Quanto o cupom tira na primeira compra",
         "paragraphs": [
-          "No teste de 16 de novembro de 2026, o carrinho tinha duas camisetas. A BR Regular Locally Grown custava R$ 89,00, sem promoção. A Regular Goth 3.0 estava de R$ 89,00 por R$ 59,00.",
+          "No teste de 16 de novembro de 2026, o carrinho tinha duas camisetas. A [Camiseta BR Regular Locally Grown](https://www.bawclothing.com.br/produto/camiseta-br-regular-locally-grown-154255) custava R$ 89,00, sem promoção. A [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220) estava de R$ 89,00 por R$ 59,00.",
           "Com o código, os R$ 148,00 em produtos viraram R$ 133,20, antes do frete. A linha Cupom do resumo mostrou R$ 14,80 de desconto. Os 10% entraram também sobre a camiseta que já estava em promoção."
         ],
         "images": [
@@ -248624,7 +248696,7 @@ export const reviewsData: unknown[] = [
         "heading": "BAWEMCASACOMCECILIA ou FIRSTBAW?",
         "paragraphs": [
           "O FIRSTBAW é o cupom de primeira compra da própria BAW. Em 17 de novembro, testamos os dois códigos no mesmo carrinho, no site e no aplicativo, sem finalizar a compra. O desconto foi o mesmo.",
-          "No site, o carrinho tinha a Camiseta Regular Logo, de R$ 69,00, e a Camiseta Regular Pima, de R$ 139,00. Dos R$ 208,00, cada um dos dois códigos tirou R$ 20,80, e o total ficou em R$ 187,20.",
+          "No site, o carrinho tinha a [Camiseta BR Regular Logo Clothing](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-clothing-153958), de R$ 69,00, e a [Camiseta Regular Pima](https://www.bawclothing.com.br/produto/camiseta-regular-pima-150365), de R$ 139,00. Dos R$ 208,00, cada um dos dois códigos tirou R$ 20,80, e o total ficou em R$ 187,20.",
           "No aplicativo, também com o mesmo carrinho para os dois, o resumo do pedido mostrou o mesmo desconto e o mesmo valor total com o FIRSTBAW e com o BAWEMCASACOMCECILIA.",
           "Você pode usar o BAWEMCASACOMCECILIA desde a primeira compra: no nosso teste, ele deu o mesmo desconto do FIRSTBAW e também vale nos pedidos seguintes."
         ],
@@ -248636,6 +248708,32 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 2.529
           }
+        ],
+        "comparisonTable": {
+          "caption": "Os dois testes, sem frete. No segundo, o total com o código é o mesmo para o BAWEMCASACOMCECILIA e para o FIRSTBAW.",
+          "headers": [
+            "Teste",
+            "Peças e preços",
+            "Total dos produtos",
+            "Com o código"
+          ],
+          "rows": [
+            [
+              "Primeiro",
+              "Camiseta BR Regular Locally Grown, R$ 89,00; Camiseta Regular Goth 3.0, R$ 59,00 (de R$ 89,00)",
+              "R$ 148,00",
+              "R$ 133,20"
+            ],
+            [
+              "Segundo",
+              "Camiseta BR Regular Logo Clothing, R$ 69,00; Camiseta Regular Pima, R$ 139,00",
+              "R$ 208,00",
+              "R$ 187,20"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Um carrinho só com a Camiseta BR Regular Logo Clothing, de R$ 69,00, não aceitou o código. Se a linha Cupom não aparecer no resumo, não pague e confira o carrinho."
         ]
       },
       {
@@ -248654,6 +248752,16 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O código é o mesmo. O BAWEMCASACOMCECILIA vale para cliente novo e para cliente antigo, então é ele que você digita no pedido seguinte.",
           "Em cada pedido, confira a linha Cupom no resumo antes de pagar. Se ela não aparecer, não pague e avise pelo [contato do site](/contato)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+            "alt": "Modelo com a Camiseta Regular Pima preta da BAW Clothing, lisa, em foto oficial da loja",
+            "caption": "Camiseta Regular Pima, uma das peças do teste do código. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/camiseta-regular-pima-150365"
+          }
         ]
       },
       {
@@ -248673,7 +248781,7 @@ export const reviewsData: unknown[] = [
           "**Onde vale.** No site oficial e no aplicativo. Em marketplace, como o Mercado Livre, vale o preço do anúncio."
         ],
         "postParagraphs": [
-          "As regras de entrega, troca e devolução em detalhe estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel)."
+          "As regras de entrega, troca e devolução em detalhe estão na [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes)."
         ]
       },
       {
@@ -248703,6 +248811,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -248758,7 +248867,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a BAW Clothing vende",
         "paragraphs": [
           "O menu do site lista camisetas, moletons, camisas, calças, jaquetas, shorts e saias, além de bolsas, bonés e meias, uma linha infantil, tênis e slides.",
-          "A loja se apresenta como “uma marca de roupa streetwear brasileira”, fundada em 2014, e fala em “estilo sem gênero”. De quem é a marca hoje está em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel)."
+          "A loja se apresenta como “uma marca de roupa streetwear brasileira”, fundada em 2014, e fala em “estilo sem gênero”."
         ]
       },
       {
@@ -248767,12 +248876,12 @@ export const reviewsData: unknown[] = [
           "A composição muda de modelo para modelo, e a descrição de cada peça é a fonte. Camisas, jaquetas e acessórios ficaram fora desta leitura. Nas peças que lemos:"
         ],
         "bullets": [
-          "**Camisetas.** A Regular Selfie Logo e a Oversized BAW Subscript são de algodão, com “modelagem reta” e gola careca, segundo as descrições.",
-          "**Moletons.** O Moletom Basic Label traz 50% algodão e 50% poliéster. O Moletom Hoodie BAW Subscript traz 100% algodão. Os dois têm capuz. O bolso canguru está na descrição do Basic Label e aparece nas fotos do Hoodie.",
-          "**Calça.** A Calça Track BAW Tag é de “moletom flanelado”, com 50% algodão e 50% poliéster, cós com elástico e cordão.",
-          "**Jeans.** A Bermuda Jeans Regular Logo é 100% algodão, com modelagem reta.",
-          "**Infantil.** O Shorts Reverse Kids é de algodão, com elástico na cintura.",
-          "**Sandália.** A Sandália Linus, da parceria BAW + Linus, é de PVC."
+          "**Camisetas.** [Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490) e a [Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896) são de algodão, com “modelagem reta” e gola careca, segundo as descrições.",
+          "**Moletons.** O [Moletom Basic Label](https://www.bawclothing.com.br/produto/moletom-basic-label-153706) traz 50% algodão e 50% poliéster. O [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918) traz 100% algodão. Os dois têm capuz. O bolso canguru está na descrição do Basic Label e aparece nas fotos do Hoodie.",
+          "**Calça.** A [Calça Track BAW Tag](https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973) é de “moletom flanelado”, com 50% algodão e 50% poliéster, cós com elástico e cordão.",
+          "**Jeans.** A [Bermuda Jeans Regular Logo](https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153451) é 100% algodão, com modelagem reta.",
+          "**Infantil.** O [Shorts Reverse Kids](https://www.bawclothing.com.br/produto/shorts-reverse-kids-151312) é de algodão, com elástico na cintura.",
+          "**Sandália.** A [Sandália Linus](https://www.bawclothing.com.br/produto/sandalia-linus-153609), da parceria BAW + Linus, é de PVC."
         ],
         "postParagraphs": [
           "Os dois moletons têm capuz e composições diferentes. Quem faz questão de 100% algodão precisa abrir a descrição do modelo."
@@ -248784,7 +248893,7 @@ export const reviewsData: unknown[] = [
             "caption": "Moletom Hoodie BAW Subscript, na cor preta. A descrição informa 100% algodão. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151918"
+            "href": "https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918"
           }
         ]
       },
@@ -248802,12 +248911,12 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Regular Selfie Logo](https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490)",
+              "[Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490)",
               "70 cm",
               "54 cm"
             ],
             [
-              "[Oversized BAW Subscript](https://www.bawclothing.com.br/camiseta-oversized-baw-subscript-151896)",
+              "[Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896)",
               "72 cm",
               "61 cm"
             ]
@@ -248815,16 +248924,16 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Nessas duas peças, a oversized tem 2 cm a mais de comprimento e 7 cm a mais de tórax que a regular.",
-          "O nome da modelagem não garante a medida. A Camiseta BR Regular Logo, também chamada de regular, traz 76 cm de comprimento e 58 cm de tórax no M, mais que a Regular Selfie Logo. Confira a tabela do modelo que você quer. Antes de comparar com uma camiseta sua, confirme com a BAW como foram tomadas as medidas de tórax; as descrições consultadas não explicam esse método."
+          "O nome da modelagem não garante a medida. A [Camiseta BR Regular Logo](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962), também chamada de regular, traz 76 cm de comprimento e 58 cm de tórax no M, mais que a Regular Selfie Logo. Confira a tabela do modelo que você quer. Antes de comparar com uma camiseta sua, confirme com a BAW como foram tomadas as medidas de tórax; as descrições consultadas não explicam esse método."
         ],
         "images": [
           {
-            "src": "/images/reviews/baw/black-friday-baw-camiseta-selfie-logo.webp",
-            "alt": "Modelo com a Camiseta Regular Selfie Logo off white da BAW Clothing, com o nome da marca pequeno no peito, em foto oficial da loja",
-            "caption": "Camiseta Regular Selfie Logo, na cor off white. Foto: BAW Clothing.",
+            "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-br-regular-logo.webp",
+            "alt": "Modelo com a Camiseta BR Regular Logo preta da BAW Clothing, com o logo pequeno no peito, em foto oficial da loja",
+            "caption": "Camiseta BR Regular Logo, na cor preta. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490"
+            "href": "https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962"
           },
           {
             "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
@@ -248832,7 +248941,7 @@ export const reviewsData: unknown[] = [
             "caption": "Camiseta Oversized BAW Subscript, na cor off white. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/camiseta-oversized-baw-subscript-151896"
+            "href": "https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896"
           }
         ],
         "styling": {
@@ -248840,13 +248949,13 @@ export const reviewsData: unknown[] = [
           "items": [
             {
               "piece": "Camiseta Oversized BAW Subscript",
-              "url": "https://www.bawclothing.com.br/camiseta-oversized-baw-subscript-151896",
+              "url": "https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896",
               "howTo": "Na foto da loja, a oversized aparece com bermuda cargo preta, meia branca e tênis. Nossa sugestão para variar é trocar a cargo pela Bermuda Jeans Regular Logo e usar a camiseta solta.",
               "occasion": "Dia a dia e fim de semana.",
               "pairsWith": [
                 {
                   "label": "Bermuda Jeans Regular Logo",
-                  "url": "https://www.bawclothing.com.br/bermuda-jeans-regular-logo-153450"
+                  "url": "https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153450"
                 },
                 {
                   "label": "bermuda cargo preta"
@@ -248858,13 +248967,13 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Moletom Hoodie BAW Subscript",
-              "url": "https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151918",
+              "url": "https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918",
               "howTo": "Nas fotos da loja, o moletom aparece com shorts de moletom cinza ou bermuda cargo preta. Outra combinação que sugerimos é com a Calça Track amarelo flúor, deixando a cor em destaque na calça.",
               "occasion": "Dia a dia e programas sem formalidade.",
               "pairsWith": [
                 {
                   "label": "Calça Track BAW Tag",
-                  "url": "https://www.bawclothing.com.br/calca-track-baw-tag-151973"
+                  "url": "https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973"
                 },
                 {
                   "label": "shorts de moletom cinza"
@@ -248876,13 +248985,13 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Calça Track BAW Tag",
-              "url": "https://www.bawclothing.com.br/calca-track-baw-tag-151973",
+              "url": "https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973",
               "howTo": "Na foto da loja, a Calça Track amarelo flúor aparece com regata branca e tênis escuro. Nossa sugestão para variar é trocar a regata pela Selfie Logo off white, mantendo a parte de cima em tom claro.",
               "occasion": "Passeio e dia a dia.",
               "pairsWith": [
                 {
                   "label": "Camiseta Regular Selfie Logo",
-                  "url": "https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490"
+                  "url": "https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490"
                 },
                 {
                   "label": "regata branca"
@@ -248898,21 +249007,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Peças sem descrição",
         "paragraphs": [
-          "Várias páginas de produto estavam com a aba “Descrição” vazia na nossa leitura, sem composição e sem medidas. Foi o caso da Camiseta Regular Goth 3.0, de camisetas infantis e de todos os tênis que abrimos.",
+          "Várias páginas de produto estavam com a aba “Descrição” vazia na nossa leitura, sem composição e sem medidas. Foi o caso da [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), de camisetas infantis e de todos os tênis que abrimos.",
           "Para essas peças, a página não dá a medida para conferir antes de pagar. O caminho mais seguro é preferir um modelo com a descrição completa ou pedir as medidas ao atendimento da BAW. Comparar com outra peça de mesmo nome de modelagem ajuda pouco, como mostram as duas “regular” do capítulo anterior."
         ]
       },
       {
         "heading": "O tênis da BAW é bom? O que a página informa",
         "paragraphs": [
-          "A BAW vende tênis e slides. Nos tênis que abrimos, como o BAW Thunder, a descrição estava vazia, sem material e sem tabela de pé. A Sandália Linus trazia a descrição, com material, tiras sem ajuste e tabela por numeração dupla.",
+          "A BAW vende tênis e slides. Nos tênis que abrimos, como o [Tênis BAW Thunder](https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236), a descrição estava vazia, sem material e sem tabela de pé. A [Sandália Linus](https://www.bawclothing.com.br/produto/sandalia-linus-153609) trazia a descrição, com material, tiras sem ajuste e tabela por numeração dupla.",
           "Conforto e durabilidade dependem de uso, e não usamos os calçados."
         ]
       },
       {
         "heading": "Do que os clientes reclamam",
         "paragraphs": [
-          "No Reclame Aqui, a BAW tem reputação Boa e nota 7,3 no recorte de seis meses, com todas as reclamações respondidas. No histórico geral do perfil, a queixa mais citada é produto não recebido, e camisetas são o produto mais citado. Entre os relatos recentes há atraso na entrega, estorno de devolução que não chegou e qualidade abaixo do esperado. Os números completos estão em [BAW Clothing no Reclame Aqui](/reviews/baw-clothing-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, a BAW tem reputação Boa e nota 7,3, tanto no recorte de seis meses quanto no de doze. Respondeu 100% das reclamações dos dois recortes, e 83,7% das avaliadas em seis meses foram consideradas resolvidas.",
+          "Os pontos de atenção também estão no perfil. O tempo médio de resposta é de 8 dias e 18 horas, e 56,6% de quem avaliou em seis meses diz que voltaria a comprar. Na aba geral, que soma até três anos, a queixa mais citada é produto não recebido (25,93%), e camisetas são o produto mais citado (43,96%). Entre os relatos recentes há atraso na entrega, estorno de devolução que não chegou e camiseta com qualidade abaixo do esperado.",
+          "Os índices de solução e de recompra valem só para as reclamações avaliadas, e as queixas são relatos de consumidores: não dá para estimar a frequência de cada uma."
         ]
       },
       {
@@ -248933,7 +249044,7 @@ export const reviewsData: unknown[] = [
             "caption": "Calça Track BAW Tag, na cor amarelo flúor. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/calca-track-baw-tag-151973"
+            "href": "https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973"
           }
         ],
         "comparisonTable": {
@@ -248946,37 +249057,37 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Regular Goth 3.0",
+              "[Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220)",
               "Preta",
               "R$ 59,00",
               "R$ 53,10"
             ],
             [
-              "Regular Selfie Logo",
+              "[Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490)",
               "Off white",
               "R$ 89,00",
               "R$ 80,10"
             ],
             [
-              "Oversized BAW Subscript",
+              "[Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896)",
               "Off white",
               "R$ 89,00",
               "R$ 80,10"
             ],
             [
-              "Moletom Basic Label",
+              "[Moletom Basic Label](https://www.bawclothing.com.br/produto/moletom-basic-label-153706)",
               "Azul-escuro",
               "R$ 139,00",
               "R$ 125,10"
             ],
             [
-              "Moletom Hoodie BAW Subscript",
+              "[Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918)",
               "Preta",
               "R$ 179,00",
               "R$ 161,10"
             ],
             [
-              "Calça Track BAW Tag",
+              "[Calça Track BAW Tag](https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973)",
               "Amarelo flúor",
               "R$ 149,00",
               "R$ 134,10"
@@ -295779,43 +295890,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Thunder preto](https://www.bawclothing.com.br/tenis-baw-thunder-151236)",
+              "[Thunder preto](https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236)",
               "R$ 169,00",
               "36 a 41, sem o 40",
               "Página sem descrição"
             ],
             [
-              "[Grip Mad off white](https://www.bawclothing.com.br/tenis-grip-mad-150379)",
+              "[Grip Mad off white](https://www.bawclothing.com.br/produto/tenis-grip-mad-150379)",
               "R$ 239,00",
               "33 a 44",
               "Lona, camurça, sola de borracha TR, tabela de medidas"
             ],
             [
-              "[Baseline preto](https://www.bawclothing.com.br/tenis-baw-baseline-151235) (duas páginas)",
+              "[Baseline preto](https://www.bawclothing.com.br/produto/tenis-baw-baseline-151235) (duas páginas)",
               "R$ 259,00 e R$ 279,00",
               "35 a 43",
               "Página sem descrição"
             ],
             [
-              "[Audacity](https://www.bawclothing.com.br/tenis-baw-audacity-151247)",
+              "[Audacity](https://www.bawclothing.com.br/produto/tenis-baw-audacity-151247)",
               "R$ 279,00",
               "35 a 43",
               "Página sem descrição"
             ],
             [
-              "[Session Revival](https://www.bawclothing.com.br/tenis-session-revival-150404)",
+              "[Session Revival](https://www.bawclothing.com.br/produto/tenis-session-revival-150404)",
               "R$ 369,00",
               "33 a 44",
               "Página sem descrição"
             ],
             [
-              "[Grip Mad preto](https://www.bawclothing.com.br/tenis-grip-mad-150399)",
+              "[Grip Mad preto](https://www.bawclothing.com.br/produto/tenis-grip-mad-150399)",
               "R$ 369,00",
               "33 a 44",
               "Mesma ficha do off white"
             ],
             [
-              "[Truck preto](https://www.bawclothing.com.br/tenis-truck-150200)",
+              "[Truck preto](https://www.bawclothing.com.br/produto/tenis-truck-150200)",
               "R$ 389,00",
               "33 a 44",
               "Entressola de PU, sola TR, lingueta em ripstop"
@@ -295839,7 +295950,7 @@ export const reviewsData: unknown[] = [
             "caption": "Tênis Truck, na cor preta. A ficha informa sola TR e entressola de PU. Foto: BAW.",
             "objectFit": "contain",
             "aspectRatio": 1,
-            "href": "https://www.bawclothing.com.br/tenis-truck-150200"
+            "href": "https://www.bawclothing.com.br/produto/tenis-truck-150200"
           }
         ]
       },
@@ -295856,7 +295967,7 @@ export const reviewsData: unknown[] = [
             "caption": "Tênis Grip Mad, na cor off white. A ficha descreve lona e camurça. Foto: BAW.",
             "objectFit": "contain",
             "aspectRatio": 1,
-            "href": "https://www.bawclothing.com.br/tenis-grip-mad-150379"
+            "href": "https://www.bawclothing.com.br/produto/tenis-grip-mad-150379"
           }
         ],
         "styling": {
@@ -295864,7 +295975,7 @@ export const reviewsData: unknown[] = [
           "items": [
             {
               "piece": "Tênis Grip Mad off white",
-              "url": "https://www.bawclothing.com.br/tenis-grip-mad-150379",
+              "url": "https://www.bawclothing.com.br/produto/tenis-grip-mad-150379",
               "howTo": "Nossa sugestão é usar com jeans reto e camiseta lisa, deixando o tênis claro como destaque do visual.",
               "occasion": "Dia a dia e passeio.",
               "pairsWith": [
@@ -295881,7 +295992,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Tênis Truck preto",
-              "url": "https://www.bawclothing.com.br/tenis-truck-150200",
+              "url": "https://www.bawclothing.com.br/produto/tenis-truck-150200",
               "howTo": "Nossa sugestão é um visual todo escuro: calça de moletom ou jeans preto, com uma jaqueta leve por cima.",
               "occasion": "Dia a dia e programas de noite.",
               "pairsWith": [
@@ -295918,6 +296029,9 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Só o Grip Mad traz medidas, de 24 cm no 33 a 35 cm no 44. Nos outros modelos a página não traz medida nenhuma. Nesse caso, compare com um tênis que você já usa e confira a numeração no atendimento da BAW antes de fechar.",
           "Pense na regra de troca. Pela [política de trocas e devoluções da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), o prazo é de 7 dias corridos do recebimento, com o produto sem uso, com etiqueta e na embalagem original. A troca vira crédito no valor pago, na conta do CPF da compra, e a loja não troca por outro número. Na devolução, o reembolso volta pela mesma forma de pagamento."
+        ],
+        "postParagraphs": [
+          "Para comprar com o código, o passo a passo do carrinho está em [como usar o cupom BAW](/reviews/cupom-baw-como-usar), e as condições ficam na página do [cupom BAW Clothing](/cupons/baw)."
         ]
       },
       {
@@ -295947,6 +296061,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -296021,12 +296136,12 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Camiseta",
-              "Camiseta Regular Goth 3.0, R$ 59",
+              "[Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), R$ 59",
               "De R$ 249 a R$ 360"
             ],
             [
               "Calça",
-              "Calça Track BAW Tag, de R$ 149 a R$ 219, conforme a cor",
+              "[Calça Track BAW Tag](https://www.bawclothing.com.br/produto/calca-track-baw-tag-153886), de R$ 149 a R$ 219, conforme a cor",
               "De R$ 780 a R$ 10.000"
             ],
             [
@@ -296039,6 +296154,16 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O tênis mais barato da Pace custa R$ 290 a mais que o mais caro da BAW. São duas faixas, e a escolha depende de quanto você quer gastar e do que procura em cada peça.",
           "A Pace também tem jaquetas, que ficaram fora da tabela. Os preços de cada marca mudam por cor e por campanha, então confirme na página antes de fechar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/baw-ou-pace-bermuda-jeans-regular-logo.webp",
+            "alt": "Modelo com a Bermuda Jeans Regular Logo preta da BAW Clothing, camiseta branca e coturno preto, em foto oficial da loja",
+            "caption": "Bermuda Jeans Regular Logo, da BAW. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153451"
+          }
         ]
       },
       {
@@ -296055,19 +296180,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "BAW Thunder preto",
+              "[BAW Thunder preto](https://www.bawclothing.com.br/produto/tenis-baw-thunder-151236)",
               "R$ 169",
               "36 a 41, sem o 40",
               "Ficha vazia"
             ],
             [
-              "BAW Grip Mad off white",
+              "[BAW Grip Mad off white](https://www.bawclothing.com.br/produto/tenis-grip-mad-150379)",
               "R$ 239",
               "33 a 44",
               "Lona, traseiro e biqueira em camurça, sola de borracha TR"
             ],
             [
-              "BAW Truck preto",
+              "[BAW Truck preto](https://www.bawclothing.com.br/produto/tenis-truck-150200)",
               "R$ 389",
               "33 a 44",
               "Entressola de PU, sola TR, lingueta em ripstop"
@@ -296104,7 +296229,7 @@ export const reviewsData: unknown[] = [
             "caption": "Tênis Grip Mad, na cor off white. Foto: BAW.",
             "objectFit": "contain",
             "aspectRatio": 1,
-            "href": "https://www.bawclothing.com.br/tenis-grip-mad-150379"
+            "href": "https://www.bawclothing.com.br/produto/tenis-grip-mad-150379"
           },
           {
             "src": "/images/reviews/baw/tenis-baw-e-bom-truck-preto.webp",
@@ -296112,7 +296237,7 @@ export const reviewsData: unknown[] = [
             "caption": "Tênis Truck, na cor preta. Foto: BAW.",
             "objectFit": "contain",
             "aspectRatio": 1,
-            "href": "https://www.bawclothing.com.br/tenis-truck-150200"
+            "href": "https://www.bawclothing.com.br/produto/tenis-truck-150200"
           }
         ],
         "styling": {
@@ -296120,7 +296245,7 @@ export const reviewsData: unknown[] = [
           "items": [
             {
               "piece": "Tênis Grip Mad off white",
-              "url": "https://www.bawclothing.com.br/tenis-grip-mad-150379",
+              "url": "https://www.bawclothing.com.br/produto/tenis-grip-mad-150379",
               "howTo": "Sugestão nossa: calça jeans reta e camiseta branca, deixando o tênis claro como ponto de destaque.",
               "occasion": "Dia a dia.",
               "pairsWith": [
@@ -296137,7 +296262,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Tênis Truck preto",
-              "url": "https://www.bawclothing.com.br/tenis-truck-150200",
+              "url": "https://www.bawclothing.com.br/produto/tenis-truck-150200",
               "howTo": "Sugestão nossa: calça de moletom cinza e moletom de capuz, tudo em tons neutros.",
               "occasion": "Dia a dia e passeio.",
               "pairsWith": [
@@ -296158,7 +296283,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem faz cada marca",
         "paragraphs": [
-          "A BAW se apresenta no site como “uma marca de roupa streetwear brasileira”, fundada em 2014. Tem camisetas, moletons, calças, tênis e slides. De quem é a marca hoje está em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+          "A BAW se apresenta no site como “uma marca de roupa streetwear brasileira”, fundada em 2014. Tem camisetas, moletons, calças, tênis e slides.",
           "Segundo a ELLE Brasil, a Pace é uma marca paulistana, criada em 2017, que começou com foco em calçados. A mesma revista diz que é a primeira etiqueta brasileira na Dover Street Market Paris. Segundo a Hypebeast, ela lançou uma colaboração com a ASICS no Gel-Kayano 12.1.",
           "Pelo site oficial, a Pace tem camisetas, calças, jaquetas e calçados."
         ]
@@ -296274,27 +296399,27 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Sandália Linus, amarelo flúor](https://www.bawclothing.com.br/sandalia-linus-153608)",
+              "[Sandália Linus, amarelo flúor](https://www.bawclothing.com.br/produto/sandalia-linus-153608)",
               "33/34 a 43/44",
               "R$ 169,00"
             ],
             [
-              "[Sandália Linus, laranja flúor](https://www.bawclothing.com.br/sandalia-linus-153607)",
+              "[Sandália Linus, laranja flúor](https://www.bawclothing.com.br/produto/sandalia-linus-153607)",
               "33/34 a 43/44",
               "R$ 199,00"
             ],
             [
-              "[Sandália Linus, rosa pink](https://www.bawclothing.com.br/sandalia-linus-153609)",
+              "[Sandália Linus, rosa pink](https://www.bawclothing.com.br/produto/sandalia-linus-153609)",
               "33/34 a 43/44",
               "R$ 199,00"
             ],
             [
-              "[Slide BAW](https://www.bawclothing.com.br/slide-baw-154154)",
+              "[Slide BAW](https://www.bawclothing.com.br/produto/slide-baw-154154)",
               "33/34 a 39/40",
               "R$ 239,00"
             ],
             [
-              "[Slide Goth](https://www.bawclothing.com.br/slide-goth-151255)",
+              "[Slide Goth](https://www.bawclothing.com.br/produto/slide-goth-151255)",
               "33/34 a 43/44",
               "R$ 99,00"
             ]
@@ -296310,7 +296435,7 @@ export const reviewsData: unknown[] = [
             "caption": "Sandália Linus + BAW, na cor amarelo flúor. Foto: BAW.",
             "objectFit": "contain",
             "aspectRatio": 1,
-            "href": "https://www.bawclothing.com.br/sandalia-linus-153608"
+            "href": "https://www.bawclothing.com.br/produto/sandalia-linus-153608"
           }
         ]
       },
@@ -296322,9 +296447,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como limpar",
+        "heading": "Como limpar e cuidar da sandália",
         "paragraphs": [
-          "A ficha manda limpar com água, sabão neutro e escovinha."
+          "A ficha da Sandália Linus tem um item “Como cuidar” e diz que a sandália é fácil de limpar. A receita é curta: água, sabão neutro e uma escovinha, e a loja promete que em poucos minutos ela volta a ficar nova.",
+          "A ficha não traz outras orientações, como secagem, exposição ao sol ou produtos de limpeza mais fortes. Sem essas informações, vale ficar no que a loja indica e perguntar ao atendimento da BAW antes de usar outro produto.",
+          "O material descrito na página é PVC microexpandido, de um material só. A limpeza pedida é a mesma para as três cores."
         ]
       },
       {
@@ -296340,7 +296467,7 @@ export const reviewsData: unknown[] = [
             "caption": "Slide Goth. Foto: BAW.",
             "objectFit": "contain",
             "aspectRatio": 1,
-            "href": "https://www.bawclothing.com.br/slide-goth-151255"
+            "href": "https://www.bawclothing.com.br/produto/slide-goth-151255"
           }
         ],
         "styling": {
@@ -296348,7 +296475,7 @@ export const reviewsData: unknown[] = [
           "items": [
             {
               "piece": "Sandália Linus + BAW",
-              "url": "https://www.bawclothing.com.br/sandalia-linus-153608",
+              "url": "https://www.bawclothing.com.br/produto/sandalia-linus-153608",
               "howTo": "Nossa sugestão é usar a cor flúor como destaque do look e manter o resto em tons neutros, como bermuda preta e camiseta off white.",
               "occasion": "Dia a dia e passeio de verão.",
               "pairsWith": [
@@ -296365,7 +296492,7 @@ export const reviewsData: unknown[] = [
             },
             {
               "piece": "Slide Goth",
-              "url": "https://www.bawclothing.com.br/slide-goth-151255",
+              "url": "https://www.bawclothing.com.br/produto/slide-goth-151255",
               "howTo": "Como sugestão, combine com bermuda de moletom e camiseta lisa, para ficar em casa ou sair sem trocar de roupa.",
               "occasion": "Casa e programas sem formalidade.",
               "pairsWith": [

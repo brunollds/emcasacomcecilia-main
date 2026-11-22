@@ -91,27 +91,27 @@
         ],
         "rows": [
           [
-            "[Sandália Linus, amarelo flúor](https://www.bawclothing.com.br/sandalia-linus-153608)",
+            "[Sandália Linus, amarelo flúor](https://www.bawclothing.com.br/produto/sandalia-linus-153608)",
             "33/34 a 43/44",
             "R$ 169,00"
           ],
           [
-            "[Sandália Linus, laranja flúor](https://www.bawclothing.com.br/sandalia-linus-153607)",
+            "[Sandália Linus, laranja flúor](https://www.bawclothing.com.br/produto/sandalia-linus-153607)",
             "33/34 a 43/44",
             "R$ 199,00"
           ],
           [
-            "[Sandália Linus, rosa pink](https://www.bawclothing.com.br/sandalia-linus-153609)",
+            "[Sandália Linus, rosa pink](https://www.bawclothing.com.br/produto/sandalia-linus-153609)",
             "33/34 a 43/44",
             "R$ 199,00"
           ],
           [
-            "[Slide BAW](https://www.bawclothing.com.br/slide-baw-154154)",
+            "[Slide BAW](https://www.bawclothing.com.br/produto/slide-baw-154154)",
             "33/34 a 39/40",
             "R$ 239,00"
           ],
           [
-            "[Slide Goth](https://www.bawclothing.com.br/slide-goth-151255)",
+            "[Slide Goth](https://www.bawclothing.com.br/produto/slide-goth-151255)",
             "33/34 a 43/44",
             "R$ 99,00"
           ]
@@ -127,7 +127,7 @@
           "caption": "Sandália Linus + BAW, na cor amarelo flúor. Foto: BAW.",
           "objectFit": "contain",
           "aspectRatio": 1,
-          "href": "https://www.bawclothing.com.br/sandalia-linus-153608"
+          "href": "https://www.bawclothing.com.br/produto/sandalia-linus-153608"
         }
       ]
     },
@@ -139,9 +139,11 @@
       ]
     },
     {
-      "heading": "Como limpar",
+      "heading": "Como limpar e cuidar da sandália",
       "paragraphs": [
-        "A ficha manda limpar com água, sabão neutro e escovinha."
+        "A ficha da Sandália Linus tem um item “Como cuidar” e diz que a sandália é fácil de limpar. A receita é curta: água, sabão neutro e uma escovinha, e a loja promete que em poucos minutos ela volta a ficar nova.",
+        "A ficha não traz outras orientações, como secagem, exposição ao sol ou produtos de limpeza mais fortes. Sem essas informações, vale ficar no que a loja indica e perguntar ao atendimento da BAW antes de usar outro produto.",
+        "O material descrito na página é PVC microexpandido, de um material só. A limpeza pedida é a mesma para as três cores."
       ]
     },
     {
@@ -157,7 +159,7 @@
           "caption": "Slide Goth. Foto: BAW.",
           "objectFit": "contain",
           "aspectRatio": 1,
-          "href": "https://www.bawclothing.com.br/slide-goth-151255"
+          "href": "https://www.bawclothing.com.br/produto/slide-goth-151255"
         }
       ],
       "styling": {
@@ -165,7 +167,7 @@
         "items": [
           {
             "piece": "Sandália Linus + BAW",
-            "url": "https://www.bawclothing.com.br/sandalia-linus-153608",
+            "url": "https://www.bawclothing.com.br/produto/sandalia-linus-153608",
             "howTo": "Nossa sugestão é usar a cor flúor como destaque do look e manter o resto em tons neutros, como bermuda preta e camiseta off white.",
             "occasion": "Dia a dia e passeio de verão.",
             "pairsWith": [
@@ -182,7 +184,7 @@
           },
           {
             "piece": "Slide Goth",
-            "url": "https://www.bawclothing.com.br/slide-goth-151255",
+            "url": "https://www.bawclothing.com.br/produto/slide-goth-151255",
             "howTo": "Como sugestão, combine com bermuda de moletom e camiseta lisa, para ficar em casa ou sair sem trocar de roupa.",
             "occasion": "Casa e programas sem formalidade.",
             "pairsWith": [

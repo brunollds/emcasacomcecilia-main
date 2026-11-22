@@ -14,6 +14,7 @@
   },
   "publishedAt": "16 de novembro de 2026",
   "publishedAtISO": "2026-11-16",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -23,9 +24,9 @@
   "coupon": "BAWEMCASACOMCECILIA",
   "affiliate": "baw",
   "title": "BAW Clothing no Reclame Aqui: nota, reputação e o que mais gera reclamação",
-  "seoTitle": "BAW Clothing no Reclame Aqui: nota e reclamações",
+  "seoTitle": "BAW Clothing no Reclame Aqui: nota 7,3 e reclamações",
   "type": "Análise de Reputação",
-  "description": "A nota da BAW Clothing no Reclame Aqui, as queixas mais citadas e o que conferir sobre entrega, troca por crédito e devolução antes de comprar.",
+  "description": "A nota 7,3 da BAW Clothing no Reclame Aqui, os pontos positivos, as queixas mais citadas e o que conferir sobre entrega, troca e devolução antes de comprar.",
   "metaDescription": "BAWEMCASACOMCECILIA dá 10% OFF na BAW Clothing. Veja a nota no Reclame Aqui, as queixas mais citadas e o que conferir sobre entrega e devolução.",
   "image": "/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp",
   "imageAlt": "Modelo com o moletom BAW All Stars e, ao lado, detalhe ampliado da estampa de estrelas da mesma peça. Fotos oficiais. A capa traz o logo BAW e a chamada “Reclame Aqui — Nota e queixas”, com o cupom BAWEMCASACOMCECILIA.",
@@ -51,16 +52,16 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A BAW Clothing tem reputação Boa e nota 7,3 no Reclame Aqui. Respondeu todas as reclamações do recorte de seis meses. Entre as avaliadas, mais de oito em dez tiveram o problema considerado resolvido, mas pouco mais da metade voltaria a comprar. No histórico geral do perfil, a principal queixa é produto não recebido."
+        "A BAW Clothing tem reputação Boa e nota 7,3 no Reclame Aqui, tanto em seis quanto em doze meses, com 100% das reclamações respondidas e 83,7% resolvidas entre as avaliadas. O ponto de atenção é o tempo de resposta, de mais de oito dias, e produto não recebido na aba geral. O código BAWEMCASACOMCECILIA dá 10% OFF."
       ]
     },
     {
-      "heading": "A nota em números",
+      "heading": "A nota e os indicadores do período",
       "paragraphs": [
-        "O [perfil Baw Clothing no Reclame Aqui](https://www.reclameaqui.com.br/empresa/baw-clothing/) mostra os indicadores por período. Na leitura de 16 de novembro de 2026, os dois recortes mais recentes eram o de seis meses, de maio a outubro de 2026, e o de doze meses, de novembro de 2025 a outubro de 2026."
+        "Consultamos o [perfil Baw Clothing no Reclame Aqui](https://www.reclameaqui.com.br/empresa/baw-clothing/) em 21 de novembro de 2026, nas abas de seis e de doze meses. As duas janelas se sobrepõem: a de doze meses inclui os seis meses da outra. Na aba de seis meses, nenhuma reclamação aguardava resposta."
       ],
       "comparisonTable": {
-        "caption": "Perfil “Baw Clothing” no Reclame Aqui. As janelas de 6 e de 12 meses se sobrepõem.",
+        "caption": "Perfil “Baw Clothing” no Reclame Aqui, abas de 6 e de 12 meses. Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
         "headers": [
           "Indicador",
           "6 meses",
@@ -88,24 +89,24 @@
             "100%"
           ],
           [
+            "Avaliadas",
+            "350",
+            "624"
+          ],
+          [
             "Problema resolvido, entre as avaliadas",
             "83,7%",
             "81,7%"
           ],
           [
-            "Voltariam a fazer negócio",
-            "56,7%",
-            "59,6%"
-          ],
-          [
-            "Avaliadas",
-            "349",
-            "623"
+            "Voltariam a fazer negócio, entre as avaliadas",
+            "56,6%",
+            "59,5%"
           ],
           [
             "Nota média do consumidor",
-            "5,4",
-            "5,66"
+            "5,38",
+            "5,65"
           ],
           [
             "Tempo médio de resposta",
@@ -113,23 +114,37 @@
             "8 dias e 16 horas"
           ]
         ]
-      },
+      }
+    },
+    {
+      "heading": "O que a nota e o selo medem, e o que não medem",
+      "paragraphs": [
+        "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade das peças, o caimento nem a durabilidade, e muda conforme novas reclamações entram e são avaliadas.",
+        "Há duas notas diferentes no perfil. A de 7,3 é a nota geral, calculada pela plataforma, e define a reputação Boa. A de 5,38 (seis meses) e 5,65 (doze meses) é a média que os próprios consumidores deram ao atendimento depois de encerrar a reclamação. Pela [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), o índice de solução e a intenção de voltar a comprar são calculados sobre as reclamações avaliadas, que aqui são menos da metade das recebidas.",
+        "O selo Empresa Verificada reconhece as empresas aprovadas na verificação mensal do Reclame Aqui de que existem de fato. Na nossa consulta, o perfil da BAW não mostrava esse selo. Isso é só uma informação do perfil, e não diz nada sobre a qualidade da loja."
+      ]
+    },
+    {
+      "heading": "Pontos positivos identificados",
+      "paragraphs": [
+        "Estes são os sinais favoráveis que o perfil mostrava:"
+      ],
+      "bullets": [
+        "**Reputação.** Boa, com nota 7,3, tanto na aba de seis meses quanto na de doze.",
+        "**Resposta.** 100% das 843 reclamações de seis meses e das 1.442 de doze meses tiveram resposta, e nenhuma aguardava resposta na aba de seis meses.",
+        "**Solução, entre as avaliadas.** Das 350 reclamações avaliadas em seis meses, 83,7% foram consideradas resolvidas. Em doze meses, 81,7% das 624 avaliadas.",
+        "**Tempo de casa.** O perfil está no Reclame Aqui há 11 anos."
+      ],
       "postParagraphs": [
-        "A nota 7,3 é a avaliação calculada pelo Reclame Aqui, e 5,4 e 5,66 são as médias que os consumidores deram ao atendimento. Pela [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), o índice de solução e a intenção de voltar a comprar são calculados sobre as reclamações avaliadas, que são menos da metade das recebidas."
+        "As 843 reclamações do semestre são um número absoluto. Sem o total de pedidos da loja no mesmo período, esse número não vira proporção, então não dá para dizer se são muitas ou poucas para o tamanho da operação."
       ]
     },
     {
-      "heading": "Como a nota mudou",
+      "heading": "Pontos de atenção e principais queixas",
       "paragraphs": [
-        "No histórico mensal do perfil, a reputação foi Boa em maio, subiu para Ótima em junho e voltou a Boa de julho a outubro. A reputação mudou de um mês para outro, então vale abrir o perfil no dia da compra.",
-        "As abas de 2025 e de 2024 não abriram na nossa leitura."
-      ]
-    },
-    {
-      "heading": "O que mais gera reclamação",
-      "paragraphs": [
-        "Na aba geral do perfil, que soma até três anos, o problema mais citado é “Produto não recebido”, com 25,94% das reclamações. Camisetas são o produto mais citado, com 44,25%, e Moda Masculina é a categoria mais citada, com 40,59%.",
-        "As reclamações mais recentes repetem alguns temas:"
+        "Dois números da aba de seis meses pedem atenção. O tempo médio de resposta é de 8 dias e 18 horas. E, entre as avaliadas, 56,6% dizem que voltariam a fazer negócio com a loja, o índice mais baixo da tabela (59,5% em doze meses).",
+        "Os motivos de reclamação ficam na aba geral do perfil, que soma até três anos, e não nas janelas da tabela. Nessa aba, o problema mais citado é “Produto não recebido”, com 25,93%. Camisetas são o produto mais citado, com 43,96%, e Moda Masculina é a categoria mais citada, com 40,21%.",
+        "As reclamações recentes que consultamos repetem alguns temas:"
       ],
       "bullets": [
         "pedido atrasado e sem rastreio;",
@@ -139,27 +154,14 @@
         "camiseta com qualidade abaixo do esperado."
       ],
       "postParagraphs": [
-        "Esses são os temas encontrados nas reclamações recentes consultadas. São relatos dos consumidores; a leitura não permite estimar a frequência de cada problema nem concluir quem tem razão em cada caso."
+        "São relatos dos consumidores. A leitura não permite estimar a frequência de cada problema nem concluir quem tem razão em cada caso."
       ]
     },
     {
-      "heading": "Os dois lados da nota",
+      "heading": "Como a loja responde e o que conferir antes de comprar",
       "paragraphs": [
-        "De um lado, a BAW respondeu todas as reclamações dos dois recortes, e o índice de solução passa de 80% em ambos.",
-        "Do outro, a resposta leva mais de oito dias, em média, e 56,7% de quem avaliou em seis meses diz que voltaria a comprar (59,6% em doze). A nota média dada pelos consumidores fica em 5,4 e 5,66."
-      ]
-    },
-    {
-      "heading": "Qual perfil é o da BAW",
-      "paragraphs": [
-        "O perfil se chama “Baw Clothing”, está na categoria de e-commerce de moda, aponta para o site bawclothing.com.br e informa que a empresa está no Reclame Aqui há 11 anos.",
-        "O CNPJ que aparece no perfil é 27.238.862/0001-03. O rodapé do site oficial traz outro: WAB COMPANY, CNPJ 58.435.903/0001-85."
-      ]
-    },
-    {
-      "heading": "O que conferir antes de comprar",
-      "paragraphs": [
-        "Entrega, troca e reembolso têm regra publicada pela loja. Vale conhecer antes de pagar:"
+        "O perfil se chama “Baw Clothing”, está na categoria de e-commerce de moda e aponta para o site bawclothing.com.br. O CNPJ que aparece no perfil é 27.238.862/0001-03. O rodapé do site oficial traz WAB COMPANY, CNPJ 58.435.903/0001-85.",
+        "Para falar com a loja, a [central de ajuda da BAW](https://www.bawclothing.com.br/central-de-ajuda) informa atendimento por WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados. Entrega, troca e reembolso têm regra publicada pela loja:"
       ],
       "bullets": [
         "**Prazo.** Simule frete e prazo pelo CEP. Pela política de entrega, o prazo conta do faturamento do pedido, e pedidos de fim de semana são processados no próximo dia útil.",
@@ -167,10 +169,12 @@
         "**Rastreio.** O código de rastreamento chega por e-mail quando o pedido é enviado.",
         "**Endereço e cancelamento.** Para endereço errado, a central de ajuda orienta falar com o atendimento imediatamente. Ela informa que o cancelamento do pedido só é aceito antes da expedição. Se o pedido já foi enviado, consulte o procedimento de devolução descrito abaixo.",
         "**Tamanho.** As medidas ficam na descrição de cada peça, quando a loja publica, e algumas descrições estão vazias. A loja não troca peça por peça, nem mesmo por tamanho, e a troca vira crédito no valor pago.",
-        "**Dinheiro de volta.** Quem quer o reembolso pede a devolução, em até 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original. A primeira troca ou devolução tem frete grátis, e nas seguintes o frete é do cliente."
+        "**Dinheiro de volta.** Quem quer o reembolso pede a devolução, em até 7 dias corridos do recebimento, com a peça sem uso, com etiqueta e na embalagem original. A primeira troca ou devolução tem frete grátis, e nas seguintes o frete é do cliente.",
+        "**Depois da devolução.** Recebida a peça, a loja faz a análise em até 10 dias úteis e segue com a opção escolhida, reembolso ou crédito. No Pix, o reembolso costuma sair em até 10 dias úteis depois da confirmação da devolução. No cartão, o prazo do estorno depende da administradora."
       ],
       "postParagraphs": [
-        "Consulte as páginas de [entrega e frete](https://www.bawclothing.com.br/entrega-e-frete), [trocas e devoluções](https://www.bawclothing.com.br/trocas-e-devolucoes) e a [central de ajuda da BAW](https://www.bawclothing.com.br/central-de-ajuda) para ver as regras completas e acessar os canais da loja."
+        "Consulte as páginas de [entrega e frete](https://www.bawclothing.com.br/entrega-e-frete), [trocas e devoluções](https://www.bawclothing.com.br/trocas-e-devolucoes) e a [central de ajuda da BAW](https://www.bawclothing.com.br/central-de-ajuda) para ver as regras completas e acessar os canais da loja.",
+        "Para pedir troca ou devolução, use o portal indicado na política, com o e-mail ou o CPF da compra, e guarde o número do pedido e as datas."
       ],
       "images": [
         {
@@ -179,33 +183,25 @@
           "caption": "Moletom Hoodie BAW Subscript, na cor preta. Foto: BAW Clothing.",
           "objectFit": "contain",
           "aspectRatio": 0.667,
-          "href": "https://www.bawclothing.com.br/moletom-hoodie-baw-subscript-151918"
+          "href": "https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918"
         }
       ]
     },
     {
-      "heading": "Se der problema",
+      "heading": "Vale a pena comprar na BAW Clothing?",
       "paragraphs": [
-        "Para pedir troca ou devolução, acesse o portal indicado na [política da BAW](https://www.bawclothing.com.br/trocas-e-devolucoes), com o e-mail ou o CPF da compra. Para falar com a loja, a [central de ajuda](https://www.bawclothing.com.br/central-de-ajuda) informa atendimento por WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados.",
-        "Depois de receber a peça, a loja faz a análise em até 10 dias úteis e segue com a opção escolhida, reembolso ou crédito. No Pix, a política diz que o reembolso costuma sair em até 10 dias úteis depois da confirmação da devolução. No cartão, o prazo do estorno depende da administradora.",
-        "Se a loja não resolver, registre a reclamação no Reclame Aqui com o número do pedido e as datas."
-      ]
-    },
-    {
-      "heading": "O que os números indicam",
-      "paragraphs": [
-        "Nos dois recortes, todas as reclamações receberam resposta. Entre as avaliadas, mais de 80% tiveram o problema considerado resolvido. Ainda assim, produto não recebido lidera as queixas no histórico geral, e o estorno aparece entre os relatos recentes. Antes de pagar, confira o prazo para seu CEP e como pedir crédito ou reembolso.",
-        "De quem é a marca, os CNPJs e as regras de troca em detalhe estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
-        "Se decidir comprar, o código BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo. As condições estão na [página do código da BAW](/cupons/baw)."
+        "Pelo Reclame Aqui, a BAW responde todas as reclamações e a maioria das avaliadas é resolvida, com reputação Boa nos dois recortes. Os pontos fracos são a demora média de mais de oito dias para responder, o produto não recebido no topo da aba geral e o índice de pouco mais da metade que voltaria a comprar. Simule o prazo pelo CEP e acompanhe o rastreio.",
+        "Se decidir comprar, o [código BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo. O passo a passo do carrinho está em [como usar o código da BAW](/reviews/cupom-baw-como-usar)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A BAW Clothing é confiável no Reclame Aqui? O perfil tem reputação Boa. Todas as reclamações dos recortes de seis e doze meses receberam resposta; entre as avaliadas, mais de 80% tiveram o problema considerado resolvido. No recorte de seis meses, 56,7% de quem avaliou voltaria a comprar.",
-        "A BAW responde as reclamações? Sim. Nos dois recortes lidos, 100% das reclamações tiveram resposta, em pouco mais de oito dias, em média.",
-        "O que fazer se o pedido da BAW não chegou? Confira o rastreio enviado por e-mail e o prazo, que conta do faturamento. Depois, fale com o atendimento da loja pelo WhatsApp, em dias úteis. Sem solução, registre no Reclame Aqui.",
-        "A BAW devolve o dinheiro? Sim, para quem pede a devolução em até 7 dias corridos do recebimento. O reembolso volta pela mesma forma de pagamento da compra. Na troca, o valor vira crédito na loja."
+        "Qual a nota da BAW Clothing no Reclame Aqui? A reputação é Boa, com nota 7,3 nas abas de seis e de doze meses. A média que os consumidores deram ao atendimento é 5,38 em seis meses e 5,65 em doze.",
+        "A BAW Clothing tem o selo Empresa Verificada? Na nossa consulta, o perfil não mostrava o selo. A reputação Boa e a nota 7,3 vêm dos indicadores da plataforma e não dependem dele.",
+        "A BAW responde e resolve as reclamações? Respondeu 100% das reclamações nas abas de seis e de doze meses, em cerca de oito dias, em média. Entre as avaliadas, 83,7% (seis meses) e 81,7% (doze meses) foram consideradas resolvidas.",
+        "O que fazer se o pedido da BAW não chegou? Confira o rastreio enviado por e-mail e o prazo, que conta do faturamento. Depois, fale com o atendimento da loja pelo WhatsApp, em dias úteis, com o número do pedido.",
+        "Tem código de desconto na BAW Clothing? Tem. O BAWEMCASACOMCECILIA dá 10% OFF no site oficial e no aplicativo."
       ]
     }
   ]

@@ -13,6 +13,7 @@
   },
   "publishedAt": "16 de novembro de 2026",
   "publishedAtISO": "2026-11-16",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -64,13 +65,53 @@
       "heading": "CNPJ e site oficial",
       "paragraphs": [
         "O site oficial é bawclothing.com.br. O rodapé traz a razão social WAB COMPANY e o CNPJ 58.435.903/0001-85.",
-        "O perfil da marca no Reclame Aqui aponta para o mesmo site e mostra outro CNPJ, 27.238.862/0001-03."
-      ]
+        "O perfil da marca no Reclame Aqui aponta para o mesmo site e mostra outro CNPJ, 27.238.862/0001-03. A tabela junta o que cada fonte informa."
+      ],
+      "comparisonTable": {
+        "caption": "Dados da empresa como aparecem no site oficial e no perfil do Reclame Aqui.",
+        "headers": [
+          "Dado",
+          "O que consta",
+          "Onde aparece"
+        ],
+        "rows": [
+          [
+            "Site oficial",
+            "bawclothing.com.br",
+            "Site da loja"
+          ],
+          [
+            "Razão social",
+            "WAB COMPANY",
+            "Rodapé do site"
+          ],
+          [
+            "CNPJ",
+            "58.435.903/0001-85",
+            "Rodapé do site"
+          ],
+          [
+            "CNPJ",
+            "27.238.862/0001-03",
+            "Perfil no Reclame Aqui"
+          ],
+          [
+            "Tempo no Reclame Aqui",
+            "11 anos",
+            "Perfil no Reclame Aqui"
+          ],
+          [
+            "Atendimento",
+            "WhatsApp, de segunda a sexta, das 9h às 18h, exceto feriados",
+            "Central de ajuda"
+          ]
+        ]
+      }
     },
     {
       "heading": "A reputação em resumo",
       "paragraphs": [
-        "No Reclame Aqui, a BAW tem reputação Boa e nota 7,3 no recorte de seis meses. Todas as reclamações do período receberam resposta. Entre as avaliadas, 83,7% tiveram o problema considerado resolvido e 56,7% dos consumidores voltariam a comprar. Os números completos, o histórico e as queixas mais comuns estão em [BAW Clothing no Reclame Aqui](/reviews/baw-clothing-reclame-aqui-nota-reputacao)."
+        "No Reclame Aqui, a BAW tem reputação Boa e nota 7,3 no recorte de seis meses. Todas as reclamações do período receberam resposta. Entre as avaliadas, 83,7% tiveram o problema considerado resolvido e 56,6% dos consumidores voltariam a comprar. Os números completos, o histórico e as queixas mais comuns estão em [BAW Clothing no Reclame Aqui](/reviews/baw-clothing-reclame-aqui-nota-reputacao)."
       ]
     },
     {
@@ -103,7 +144,7 @@
           "caption": "Camiseta Regular Selfie Logo, na cor off white. Foto: BAW Clothing.",
           "objectFit": "contain",
           "aspectRatio": 0.667,
-          "href": "https://www.bawclothing.com.br/camiseta-regular-selfie-logo-153490"
+          "href": "https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490"
         }
       ]
     },
@@ -128,7 +169,10 @@
     {
       "heading": "A BAW Clothing tem loja física?",
       "paragraphs": [
-        "A página “Nossas Lojas” do site estava sem nenhum endereço na nossa leitura. Por isso, este artigo trata só da compra no site e no aplicativo."
+        "A página “Nossas Lojas” do site estava sem nenhum endereço na nossa leitura. Por isso, este artigo trata só da compra no site e no aplicativo, que é onde a BAW publica as condições.",
+        "A faixa do site informa frete grátis a partir de R$ 399, primeira troca grátis, 5% de desconto no Pix e parcelamento em até 10x sem juros. O frete e o prazo de cada pedido saem pelo CEP, no carrinho, e a política de entrega diz que o prazo conta do faturamento.",
+        "Na troca ou na devolução, o pedido pede o código de postagem dos Correios, e a primeira é gratuita. Nas seguintes, o frete é do cliente. A política de trocas e devoluções cita o prazo de 7 dias corridos do recebimento, e as regras completas estão no capítulo sobre crédito e devolução, acima.",
+        "No pagamento, vale a regra do site: Pix com 5% de desconto, mostrado na página de cada produto, ou cartão em até 10 vezes sem juros, com parcela mínima de R$ 50."
       ]
     },
     {
@@ -144,7 +188,7 @@
         "A BAW Clothing é da Reserva ou da Arezzo? Foi do grupo. A Arezzo comprou a marca em 2021, dentro do braço de vestuário liderado pelo fundador da Reserva. Em 2025, a imprensa noticiou a revenda aos fundadores, os irmãos Bruno e Lucas Karra.",
         "Qual é o CNPJ da BAW Clothing? O rodapé do site oficial traz WAB COMPANY, CNPJ 58.435.903/0001-85. O perfil da marca no Reclame Aqui mostra o CNPJ 27.238.862/0001-03.",
         "A BAW troca peça por tamanho? Não diretamente. A troca vira crédito no valor pago, na conta do CPF da compra, e o cliente faz um novo pedido com o tamanho certo.",
-        "A BAW Clothing tem loja física? A página “Nossas Lojas” do site não listava endereços na nossa leitura. A compra tratada aqui é a do site e a do aplicativo.",
+        "A BAW Clothing tem loja física? A página “Nossas Lojas” do site não listava endereços na nossa leitura. A compra tratada aqui é a do site e a do aplicativo, com frete e prazo pelo CEP, primeira troca grátis, Pix com 5% de desconto e parcelamento em até 10x sem juros.",
         "O cupom da BAW vale no Mercado Livre? Não. O código vale no site oficial e no aplicativo. Em marketplace, vale o preço do anúncio."
       ]
     }

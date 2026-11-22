@@ -197280,6 +197280,120 @@
       "verified_at": "2026-11-22T03:58:10.893Z",
       "verification_etag_or_digest": "51f87087d6fd5eb1d2905784dc040f7e3cb7be88ea907f5722fda6b6c97c6205",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-clothing-e-boa-camiseta-br-regular-logo.webp",
+      "local_url": "/images/reviews/baw/baw-clothing-e-boa-camiseta-br-regular-logo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18492,
+      "sha256": "91bc3f827f8f986c477b59424c57a14058150345170a37288b469773c5394dc4",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-clothing-e-boa-camiseta-br-regular-logo.webp",
+      "storage_filename": "baw-clothing-e-boa-camiseta-br-regular-logo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-clothing-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-clothing-e-boa.json",
+          "line": 133,
+          "column": 19,
+          "literal": "/images/reviews/baw/baw-clothing-e-boa-camiseta-br-regular-logo.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/91bc3f827f8f986c477b59424c57a14058150345170a37288b469773c5394dc4/baw-clothing-e-boa-camiseta-br-regular-logo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/91bc3f827f8f986c477b59424c57a14058150345170a37288b469773c5394dc4/baw-clothing-e-boa-camiseta-br-regular-logo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:35.005Z",
+      "verification_etag_or_digest": "91bc3f827f8f986c477b59424c57a14058150345170a37288b469773c5394dc4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/baw-ou-pace-bermuda-jeans-regular-logo.webp",
+      "local_url": "/images/reviews/baw/baw-ou-pace-bermuda-jeans-regular-logo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17766,
+      "sha256": "a20f5778d015330bde75c274702b4f5000818bdc9c648d79c3e252e6e3cb83ef",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-ou-pace-bermuda-jeans-regular-logo.webp",
+      "storage_filename": "baw-ou-pace-bermuda-jeans-regular-logo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-ou-pace.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-ou-pace.json",
+          "line": 112,
+          "column": 19,
+          "literal": "/images/reviews/baw/baw-ou-pace-bermuda-jeans-regular-logo.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a20f5778d015330bde75c274702b4f5000818bdc9c648d79c3e252e6e3cb83ef/baw-ou-pace-bermuda-jeans-regular-logo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a20f5778d015330bde75c274702b4f5000818bdc9c648d79c3e252e6e3cb83ef/baw-ou-pace-bermuda-jeans-regular-logo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:35.006Z",
+      "verification_etag_or_digest": "a20f5778d015330bde75c274702b4f5000818bdc9c648d79c3e252e6e3cb83ef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+      "local_url": "/images/reviews/baw/cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17164,
+      "sha256": "b8c811b1b43376f062ea01130e119cdcf17210efb0ca758ab5ec9f45bc6ae558",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+      "storage_filename": "cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-baw-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-baw-primeira-compra.json",
+          "line": 142,
+          "column": 19,
+          "literal": "/images/reviews/baw/cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b8c811b1b43376f062ea01130e119cdcf17210efb0ca758ab5ec9f45bc6ae558/cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b8c811b1b43376f062ea01130e119cdcf17210efb0ca758ab5ec9f45bc6ae558/cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:35.006Z",
+      "verification_etag_or_digest": "b8c811b1b43376f062ea01130e119cdcf17210efb0ca758ab5ec9f45bc6ae558",
+      "verification_status": "verified"
     }
   ]
 }

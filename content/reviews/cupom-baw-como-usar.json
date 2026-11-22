@@ -80,7 +80,7 @@
     {
       "heading": "Quanto o cupom tira: a conta do nosso teste",
       "paragraphs": [
-        "Em 16 de novembro de 2026, montamos um carrinho com duas camisetas. A BR Regular Locally Grown estava pelo preço cheio de R$ 89,00, e a Regular Goth 3.0, em promoção, de R$ 89,00 por R$ 59,00. O código tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete.",
+        "Em 16 de novembro de 2026, montamos um carrinho com duas camisetas. A [Camiseta BR Regular Locally Grown](https://www.bawclothing.com.br/produto/camiseta-br-regular-locally-grown-154255) estava pelo preço cheio de R$ 89,00, e a [Camiseta Regular Goth 3.0](https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220), em promoção, de R$ 89,00 por R$ 59,00. O código tirou R$ 14,80 dos R$ 148,00 em produtos, deixando R$ 133,20 antes do frete.",
         "São 10% sobre os produtos do carrinho, inclusive sobre a camiseta que já estava em promoção. O código vale em todo o site, e o valor descontado aparece na linha Cupom antes do pagamento."
       ],
       "images": [
@@ -90,9 +90,38 @@
           "caption": "Camiseta Regular Goth 3.0, o modelo em promoção do carrinho do teste, aqui na cor preta. Foto: BAW Clothing.",
           "objectFit": "contain",
           "aspectRatio": 0.667,
-          "href": "https://www.bawclothing.com.br/camiseta-regular-goth-3-0-151202"
+          "href": "https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151202"
         }
-      ]
+      ],
+      "comparisonTable": {
+        "caption": "Preços do carrinho do teste, sem frete. O desconto de cada camiseta é conta nossa, 10% sobre o preço; o carrinho real mostrou R$ 14,80 na linha Cupom.",
+        "headers": [
+          "Peça",
+          "Preço no teste",
+          "Total dos produtos",
+          "Com o código"
+        ],
+        "rows": [
+          [
+            "Camiseta BR Regular Locally Grown",
+            "R$ 89,00",
+            "R$ 89,00",
+            "R$ 80,10"
+          ],
+          [
+            "Camiseta Regular Goth 3.0",
+            "R$ 59,00 (de R$ 89,00)",
+            "R$ 59,00",
+            "R$ 53,10"
+          ],
+          [
+            "Carrinho com as duas",
+            "R$ 148,00",
+            "R$ 148,00",
+            "R$ 133,20"
+          ]
+        ]
+      }
     },
     {
       "heading": "O cupom soma com promoção e com o Pix?",
