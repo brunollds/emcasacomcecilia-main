@@ -195727,6 +195727,282 @@
       "verification_etag_or_digest": "994bc1cd7a63146c3719d6d3983e41c30bcf4582f89098efe77a1624dc351f75",
       "verification_status": "verified",
       "staged": true
+    },
+    {
+      "source_path": "public/images/reviews/denavita/black-friday-denavita-kit-queridinhos.webp",
+      "local_url": "/images/reviews/denavita/black-friday-denavita-kit-queridinhos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 104808,
+      "sha256": "838916a3f60a4be142fcbf93f6bf0c75ee7e165e70cf808fe9fb94043c0f01d6",
+      "width": 1081,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-denavita-kit-queridinhos.webp",
+      "storage_filename": "black-friday-denavita-kit-queridinhos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-denavita.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-denavita.json",
+          "line": 128,
+          "column": 19,
+          "literal": "/images/reviews/denavita/black-friday-denavita-kit-queridinhos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277474,
+          "column": 21,
+          "literal": "/images/reviews/denavita/black-friday-denavita-kit-queridinhos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/838916a3f60a4be142fcbf93f6bf0c75ee7e165e70cf808fe9fb94043c0f01d6/black-friday-denavita-kit-queridinhos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/838916a3f60a4be142fcbf93f6bf0c75ee7e165e70cf808fe9fb94043c0f01d6/black-friday-denavita-kit-queridinhos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:51:57.426Z",
+      "verification_etag_or_digest": "838916a3f60a4be142fcbf93f6bf0c75ee7e165e70cf808fe9fb94043c0f01d6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/black-friday-denavita-turbo-metabolismo.webp",
+      "local_url": "/images/reviews/denavita/black-friday-denavita-turbo-metabolismo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102870,
+      "sha256": "ddde6eed091128c54a65d5a5f5b6989b6cd61f7dcc8a3532833ca240349d36b2",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-denavita-turbo-metabolismo.webp",
+      "storage_filename": "black-friday-denavita-turbo-metabolismo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-denavita.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-denavita.json",
+          "line": 121,
+          "column": 19,
+          "literal": "/images/reviews/denavita/black-friday-denavita-turbo-metabolismo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277467,
+          "column": 21,
+          "literal": "/images/reviews/denavita/black-friday-denavita-turbo-metabolismo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ddde6eed091128c54a65d5a5f5b6989b6cd61f7dcc8a3532833ca240349d36b2/black-friday-denavita-turbo-metabolismo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ddde6eed091128c54a65d5a5f5b6989b6cd61f7dcc8a3532833ca240349d36b2/black-friday-denavita-turbo-metabolismo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:51:57.427Z",
+      "verification_etag_or_digest": "ddde6eed091128c54a65d5a5f5b6989b6cd61f7dcc8a3532833ca240349d36b2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-e-boa-kit-vida-fit.webp",
+      "local_url": "/images/reviews/denavita/denavita-e-boa-kit-vida-fit.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78038,
+      "sha256": "3cc9c9efc2f3f06f0d4cf31b42bfda19b2ea2ac7ffdefeb78078b6e3cdc6464b",
+      "width": 1081,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-e-boa-kit-vida-fit.webp",
+      "storage_filename": "denavita-e-boa-kit-vida-fit.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-e-boa.json",
+          "line": 217,
+          "column": 19,
+          "literal": "/images/reviews/denavita/denavita-e-boa-kit-vida-fit.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278050,
+          "column": 21,
+          "literal": "/images/reviews/denavita/denavita-e-boa-kit-vida-fit.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3cc9c9efc2f3f06f0d4cf31b42bfda19b2ea2ac7ffdefeb78078b6e3cdc6464b/denavita-e-boa-kit-vida-fit.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3cc9c9efc2f3f06f0d4cf31b42bfda19b2ea2ac7ffdefeb78078b6e3cdc6464b/denavita-e-boa-kit-vida-fit.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:51:57.427Z",
+      "verification_etag_or_digest": "3cc9c9efc2f3f06f0d4cf31b42bfda19b2ea2ac7ffdefeb78078b6e3cdc6464b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-e-confiavel-rodape-site-oficial.webp",
+      "local_url": "/images/reviews/denavita/denavita-e-confiavel-rodape-site-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20274,
+      "sha256": "c2069d2c89f814eed6ae4fef84779c089446cdd40bff53d2285854cc4b9b494b",
+      "width": 1420,
+      "height": 380,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-e-confiavel-rodape-site-oficial.webp",
+      "storage_filename": "denavita-e-confiavel-rodape-site-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-e-confiavel.json",
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/denavita/denavita-e-confiavel-rodape-site-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278176,
+          "column": 21,
+          "literal": "/images/reviews/denavita/denavita-e-confiavel-rodape-site-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c2069d2c89f814eed6ae4fef84779c089446cdd40bff53d2285854cc4b9b494b/denavita-e-confiavel-rodape-site-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c2069d2c89f814eed6ae4fef84779c089446cdd40bff53d2285854cc4b9b494b/denavita-e-confiavel-rodape-site-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:51:57.427Z",
+      "verification_etag_or_digest": "c2069d2c89f814eed6ae4fef84779c089446cdd40bff53d2285854cc4b9b494b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-quadro.webp",
+      "local_url": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-quadro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43372,
+      "sha256": "f7a5d77a05996b3d94e63f26eefa661b449faf23bff0daee80f2f62b96518286",
+      "width": 1200,
+      "height": 690,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-reclame-aqui-nota-reputacao-quadro.webp",
+      "storage_filename": "denavita-reclame-aqui-nota-reputacao-quadro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-reclame-aqui-nota-reputacao.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-quadro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 278352,
+          "column": 21,
+          "literal": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-quadro.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f7a5d77a05996b3d94e63f26eefa661b449faf23bff0daee80f2f62b96518286/denavita-reclame-aqui-nota-reputacao-quadro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f7a5d77a05996b3d94e63f26eefa661b449faf23bff0daee80f2f62b96518286/denavita-reclame-aqui-nota-reputacao-quadro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:51:57.427Z",
+      "verification_etag_or_digest": "f7a5d77a05996b3d94e63f26eefa661b449faf23bff0daee80f2f62b96518286",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/laranja-moro-denavita-laranjas.webp",
+      "local_url": "/images/reviews/denavita/laranja-moro-denavita-laranjas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95088,
+      "sha256": "35141eca379b4fe0e88df1f19525946b65f9860b4c5d2ebfcfd0f1ca364a4a8d",
+      "width": 1081,
+      "height": 1081,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "laranja-moro-denavita-laranjas.webp",
+      "storage_filename": "laranja-moro-denavita-laranjas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/laranja-moro-denavita.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/laranja-moro-denavita.json",
+          "line": 104,
+          "column": 19,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-laranjas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277746,
+          "column": 21,
+          "literal": "/images/reviews/denavita/laranja-moro-denavita-laranjas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/35141eca379b4fe0e88df1f19525946b65f9860b4c5d2ebfcfd0f1ca364a4a8d/laranja-moro-denavita-laranjas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/35141eca379b4fe0e88df1f19525946b65f9860b4c5d2ebfcfd0f1ca364a4a8d/laranja-moro-denavita-laranjas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:51:57.427Z",
+      "verification_etag_or_digest": "35141eca379b4fe0e88df1f19525946b65f9860b4c5d2ebfcfd0f1ca364a4a8d",
+      "verification_status": "verified"
     }
   ]
 }
