@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
 import { relatedOrderProblem } from './related-order';
-import { getArticleStoreBlock, pickArticleLimitedCodes, shortenRule } from '@/lib/articleStore';
+import { getArticleStoreBlock, pickArticleLimitedCodes, shortenRule, storeOwnsCode } from '@/lib/articleStore';
 import { getActiveCoupons, getCouponBySlug, type Coupon } from '@/lib/couponsData';
 import { getSingleStoreSlug } from '@/lib/reviewStores';
 import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
@@ -18,7 +18,7 @@ import { AnimatedTextHighlight } from '@/components/editorial/AnimatedTextHighli
 import { HighlightCoupon } from '@/components/review/HighlightCoupon';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getArticleCopy } from '@/components/review/articleCopy';
-import { buildSchemaAuthors } from '@/lib/content';
+import { buildSchemaAuthors, contentSectionsToPlainText } from '@/lib/content';
 import { BRUNO_AUTHOR, CECILIA_AUTHOR } from '@/lib/content/authors';
 import { ReviewGallerySection } from '@/components/review/ReviewGallerySection';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
@@ -121,6 +121,42 @@ assert.ok(same.rules.length > 0 && same.rules.length <= 3);
 assert.ok(same.rules.every((r) => r.value.length <= 141));
 assert.ok(same.discount);
 assert.equal(same.couponPageHref, `/cupons/${store.slug}`);
+
+// Magalu (faixas): código de faixa (ex.: 10EMCASACOMCECILIA) pertence à loja e mantém desconto e regras no bloco.
+{
+  const magaluStore = getCouponBySlug('magalu')!;
+  assert.ok(storeOwnsCode(magaluStore, '10EMCASACOMCECILIA'), 'Magalu deve reconhecer código de faixa');
+  assert.ok(!storeOwnsCode(magaluStore, 'OUTROCODIGO'), 'Magalu não deve reconhecer código alheio');
+  const magaluReview = publishedReviews.find((r) => r.slug === 'cupom-magalu-em-casa-com-cecilia');
+  if (magaluReview) {
+    const magaluBlock = getArticleStoreBlock(magaluReview, 'pt')!;
+    assert.ok(magaluBlock.discount, 'cupom-magalu: desconto ausente no bloco da loja');
+    assert.ok(magaluBlock.rules.length > 0, 'cupom-magalu: regras ausentes no bloco da loja');
+  }
+}
+
+// Loja só de link (sem código): recorte recebe cutoutNote no idioma do artigo.
+{
+  const protonBlockPt = getArticleStoreBlock({ ...base, affiliate: 'proton', coupon: undefined } as never, 'pt')!;
+  const protonBlockEn = getArticleStoreBlock({ ...base, locale: 'en', affiliate: 'proton', coupon: undefined } as never, 'en')!;
+  assert.ok(protonBlockPt.cutoutNote, 'proton PT sem cutoutNote');
+  assert.ok(protonBlockEn.cutoutNote && protonBlockEn.cutoutNote !== protonBlockPt.cutoutNote, 'proton EN sem cutoutNote traduzido');
+}
+
+// contentSectionsToPlainText (botão Ouvir + tempo de leitura): inclui postParagraphs e accordionBlock, sem markdown cru.
+{
+  const plain = contentSectionsToPlainText([
+    {
+      heading: 'Capítulo',
+      paragraphs: ['Entrada com **negrito**.'],
+      accordionBlock: { heading: 'Detalhes extras', paragraphs: ['Item com [link](/cupons/belive).'] },
+      postParagraphs: ['Fechamento pós-tabela com **destaque**.'],
+    },
+  ]);
+  assert.ok(plain.includes('Detalhes extras') && plain.includes('Item com link.'), 'accordionBlock fora do plainText');
+  assert.ok(plain.includes('Fechamento pós-tabela com destaque.'), 'postParagraphs fora do plainText');
+  assert.ok(!plain.includes('**') && !plain.includes(']('), 'markdown cru sobrou no plainText');
+}
 
 // Rótulos das regras: nos 10 idiomas, e os de fora do PT diferem do PT.
 const ptCopy = getArticleCopy('pt');

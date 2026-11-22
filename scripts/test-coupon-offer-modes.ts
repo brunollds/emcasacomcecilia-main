@@ -349,6 +349,16 @@ assert.equal(getCouponMetaTitle({ metaTitle: 'Cupom X', metaTitleMonth: true }, 
 assert.equal(getCouponMetaTitle({ metaTitle: 'Cupom X', metaTitleMonth: true }, Date.parse('2026-11-20T15:00:00Z')), 'Cupom X (dez/2026)');
 assert.equal(getCouponMetaTitle({ metaTitle: 'Cupom X', metaTitleMonth: true }, Date.parse('2026-12-28T15:00:00Z')), 'Cupom X (jan/2027)');
 assert.equal(getCouponMetaTitle({ metaTitle: 'Cupom X' }, Date.parse('2026-12-28T15:00:00Z')), 'Cupom X');
+assert.equal(
+  getCouponMetaTitle({ metaTitle: 'x'.repeat(49), metaTitleMonth: true }, Date.parse('2026-11-20T15:00:00Z')),
+  `${'x'.repeat(49)} (dez/2026)`,
+  '49 + 11 = 60 cabe com o mês'
+);
+assert.equal(
+  getCouponMetaTitle({ metaTitle: 'x'.repeat(50), metaTitleMonth: true }, Date.parse('2026-11-20T15:00:00Z')),
+  'x'.repeat(50),
+  'acima de 49 caracteres o mês sai para não estourar 60'
+);
 for (const coupon of COUPONS) {
   assert.doesNotMatch(coupon.metaTitle, /\([a-z]{3}\/\d{4}\)$/, `${coupon.slug}: mês fixo no título; use metaTitleMonth`);
   // A data do teste no carrinho fica em "Como testamos", não no snippet.

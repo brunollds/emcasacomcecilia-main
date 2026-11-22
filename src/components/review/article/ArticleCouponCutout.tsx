@@ -76,9 +76,8 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
   const labels = getCouponCopyLabels(locale);
   const title = code ? getCodeTitle(sidebarCopy, codeKind, brand) : brand;
   const copiedHint = getArticleCopy(locale).copiedHint({ slug, brand }, codeKind);
-  // Com código e link da loja, o botão principal copia e abre a loja em nova aba, como nas páginas de loja. O código de
-  // indicação (4CW5Y da SHEIN) se pesquisa no app e segue com o copiar e o link à parte.
-  const copyAndGo = code && storeHref && codeKind !== 'referral' ? { code, storeHref } : undefined;
+  // Com código e link da loja, o botão principal copia e abre a loja em nova aba (na SHEIN, abre já com koc_id e 4CW5Y).
+  const copyAndGo = code && storeHref ? { code, storeHref } : undefined;
 
   return (
     <section
@@ -103,6 +102,11 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
             </div>
           )}
           {discount && <p className="mt-1 text-[15px] font-extrabold leading-[22px] text-balance">{discount}</p>}
+          {!code && block.cutoutNote && (
+            <p className="mt-1.5 text-[13.5px] leading-[19px] font-semibold text-balance text-marinho-suave">
+              {block.cutoutNote}
+            </p>
+          )}
         </div>
 
         <div className={`flex flex-col ${actions}`}>
@@ -146,7 +150,7 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
                 {labels.copyOnly}
               </CopyCodeButton>
               <p className="text-center text-[12.5px] leading-[17px] font-semibold text-marinho-suave group-has-[[data-copied=true]]/recorte:hidden">
-                {labels.goHint(codeKind === 'reward' ? 'reward' : undefined)}
+                {labels.goHint(codeKind)}
               </p>
             </>
           ) : (

@@ -136,3 +136,16 @@ test('sem argumentos, envia a lista padrão', () => {
   assert.equal(result.status, 0, result.stderr);
   assert.deepEqual(result.fetches.map((call) => call.body.urlList), [DEFAULT_URLS]);
 });
+
+test('--since coleta URLs de reviews e cupons alterados no git diff', () => {
+  const missing = run(['--since']);
+  assert.equal(missing.status, 1);
+  assert.deepEqual(missing.fetches, []);
+
+  const result = run(['--dry-run', '--since', 'HEAD~1']);
+  assert.equal(result.status, 0, result.stderr);
+  assert.deepEqual(result.fetches, []);
+  const urls = dryRunPayload(result.stdout).urlList;
+  assert.ok(Array.isArray(urls) && urls.length > 0, 'HEAD~1..HEAD deve resolver URLs alteradas');
+  assert.ok(urls.every((url) => url.startsWith('https://emcasacomcecilia.com/')));
+});

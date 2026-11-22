@@ -44,9 +44,16 @@ export async function generateReviewMetadataBySlug(slug: string, locale?: Locale
 
   const seoDescription = review.metaDescription || review.description;
   const seoTitle = review.seoTitle || review.title;
-  const documentTitle = seoTitle.length <= 42
+  const documentTitle = seoTitle.length <= 38
     ? `${seoTitle} - Em Casa com Cecília`
     : seoTitle;
+  const authorNames = review.authors?.length
+    ? review.authors.map((author) => author.name)
+    : typeof review.author === 'string'
+      ? [review.author]
+      : review.author?.name
+        ? [review.author.name]
+        : undefined;
   const socialImage = review.image
     ? [{ url: new URL(resolveMediaUrl(review.image), 'https://emcasacomcecilia.com').toString(), alt: review.imageAlt || review.title }]
     : undefined;
@@ -66,7 +73,7 @@ export async function generateReviewMetadataBySlug(slug: string, locale?: Locale
       locale: LOCALES[resolveReviewLocale(review.locale)].openGraphLocale,
       publishedTime: review.publishedAtISO,
       modifiedTime: review.updatedAt || review.publishedAtISO,
-      authors: review.authors?.map((author) => author.name),
+      authors: authorNames,
       images: socialImage,
     },
     twitter: {

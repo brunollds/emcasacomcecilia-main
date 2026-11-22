@@ -172,9 +172,8 @@ export function ReviewMobileBottomBar({
               <Ticket aria-hidden="true" className="h-4 w-4 shrink-0" />
               <span className="min-w-0 text-balance">{getViewStoresLabel(copy, storeBlocks ?? [])}</span>
             </button>
-          ) : coupon && cta && !isInternalLink(cta.url) && coupon.kind !== 'referral' ? (
-            // Com código e link externo da loja, o toque copia e abre a loja em nova aba, com o código à vista; o
-            // "Só copiar" fica na gaveta. O código de indicação (4CW5Y) se pesquisa no app e só copia.
+          ) : coupon && cta && !isInternalLink(cta.url) ? (
+            // Com código e link externo da loja (cupom, recompensa ou indicação da SHEIN), o toque copia e abre a loja em nova aba; o "Só copiar" fica na gaveta.
             <CopyAndOpenStoreLink
               code={coupon.code}
               href={cta.url}

@@ -345,6 +345,12 @@ export function ReviewNotebookTemplate({
                             steps={stepSections}
                             sectionIds={sectionIds}
                             reviewTitle={review.title}
+                            kind={kind}
+                            reviewSlug={review.slug}
+                            coupon={review.coupon}
+                            affiliate={storeSlug}
+                            storeBrand={store?.brand}
+                            {...multiStoreProps}
                             locale={couponCopyLocale}
                           />
                         </div>
