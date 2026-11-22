@@ -137161,6 +137161,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. A loja aceita um cupom por pedido, e no Pix ela tira mais 5% depois do cupom.",
           "A Bagaggio é confiável? Sim. A empresa que opera o site tem CNPJ ativo e publica regras de troca, reembolso e garantia. No Reclame Aqui, o perfil da loja virtual é Ótima em 6 meses e Ruim em 12; confira também prazo e condições do pedido.",
           "De qual país é a Bagaggio? A própria marca diz que é brasileira e que foi fundada em 1942 no Rio de Janeiro. A empresa que opera o site está registrada no Brasil, com sede em Duque de Caxias (RJ).",
           "Qual é o CNPJ da Bagaggio? O CNPJ do rodapé do site é 08.956.394/0001-68, da BAG-ONLINE COMERCIO DE BOLSAS LTDA. Confira o número na consulta pública da Receita.",
@@ -137170,7 +137171,6 @@ export const reviewsData: unknown[] = [
           "Quando o reembolso cai? No cartão, o estorno pode aparecer em até duas faturas. No boleto, o crédito sai em até 10 dias úteis depois do recebimento do produto.",
           "A Bagaggio tem frete grátis? Não encontramos um mínimo geral para frete grátis; alguns produtos entram em promoção de frete grátis. O frete é calculado pelo CEP no carrinho: na nossa simulação, uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32, e a retirada em loja saiu sem custo.",
           "Qual é o atendimento da Bagaggio? O atendimento é feito pelo chat do site, de segunda a sexta, das 9h às 18h. Para troca, desistência e garantia, o e-mail é atendimento@bagaggio.com.br.",
-          "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive no Outlet. A loja aceita um cupom por pedido, e ele soma com o Pix de 5%.",
           "Tem produtos da Bagaggio no Mercado Livre? Sim, a [vitrine da Cecília no Mercado Livre](https://meli.la/2KeydkG) tem produtos da marca. O cupom não vale lá; vale o preço do anúncio."
         ]
       }
@@ -137396,15 +137396,15 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena comprar na Bagaggio?",
         "paragraphs": [
           "Vale, com atenção ao prazo de entrega. O semestre mais recente mostra a loja respondendo a todas as reclamações, mais rápido e resolvendo a maior parte das avaliadas; a janela de 12 meses e os motivos de três anos mostram que entrega e pedido não recebido já foram um problema grande. Se o prazo pesa, a retirada numa loja próxima evita a transportadora.",
-          "Na compra pelo site, o CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet, e soma com os 5% do Pix, que entram depois do cupom. As condições estão na página do [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, no guia [como usar o CECILIA10 na Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+          "Na compra pelo site, na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. Ele dá 10% OFF em todo o site, inclusive no Outlet, e soma com os 5% do Pix, que entram depois do cupom. As condições estão na página do [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, no guia [como usar o CECILIA10 na Bagaggio](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom, e ela aceita um cupom por pedido.",
           "A Bagaggio é confiável segundo o Reclame Aqui? O perfil Bagaggio - Loja Virtual está com reputação Ótima nos últimos 6 meses, com nota 8,0, e Ruim na janela de 12 meses, com nota 5,8. Os números medem o atendimento às reclamações, não a qualidade das malas.",
-          "Qual perfil da Bagaggio no Reclame Aqui é o da loja online? O Bagaggio - Loja Virtual, com o CNPJ 08.956.394/0001-68, o mesmo do rodapé do site. O Bagaggio - Loja Física atende as compras feitas nas lojas.",
-          "A Bagaggio tem o selo RA1000? O perfil da loja online não tem: tem o selo Empresa Verificada. O RA1000 aparece no perfil Bagaggio - Loja Física.",
+          "Qual perfil da Bagaggio no Reclame Aqui é o da loja online? O Bagaggio - Loja Virtual, com o CNPJ 08.956.394/0001-68, o mesmo do rodapé do site. Ele tem o selo Empresa Verificada e não o RA1000, que aparece no Bagaggio - Loja Física, o perfil das compras feitas nas lojas.",
           "A Bagaggio responde às reclamações? No semestre mais recente, respondeu a todas, em 7 dias e 4 horas, em média. Na janela de 12 meses, respondeu a 91,1%.",
           "O que fazer se o pedido da Bagaggio atrasar? Fale pelo chat do site, de segunda a sexta, das 9h às 18h, com o número do pedido e o prazo prometido, e guarde o protocolo. Se não houver solução, registre a reclamação no perfil Bagaggio - Loja Virtual."
         ]
@@ -137503,7 +137503,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Confira o resumo e escolha o Pix ou o cartão",
+        "heading": "Confira o resumo e escolha a forma de pagamento",
         "paragraphs": [
           "Quando o cupom entra, o código aparece como etiqueta no campo e a linha de descontos aparece no resumo. Com o CECILIA10 aplicado, a Downtown passa de R$ 179,90 para R$ 161,91, com R$ 17,99 em descontos. No seu pedido, confira subtotal, desconto e total antes de seguir."
         ],
@@ -137586,19 +137586,29 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se você já ia comprar na Bagaggio, o CECILIA10 vale: 10% em todo o site, inclusive no Outlet, e soma com o Pix. Se a compra for pelo Mercado Livre, o cupom não vale lá, então compare o preço do anúncio. Na Black Friday, confira o [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio) antes de aplicar o cupom.",
           "As condições atualizadas do cupom ficam na [página do cupom Bagaggio](/cupons/bagaggio)."
-        ]
+        ],
+        "emphasis": "Se eu já fosse comprar na Bagaggio, eu usaria o CECILIA10 e conferiria a linha do desconto no resumo antes de pagar; no Mercado Livre, eu compararia o preço do anúncio."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Bagaggio? O cupom é CECILIA10, com 10% de desconto em todo o site oficial, inclusive no Outlet.",
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. Cole-o na sacola, no campo Cupom de desconto, e confira o desconto no resumo antes de pagar; no Pix, a loja tira mais 5% depois do cupom.",
           "O cupom Bagaggio soma com o Pix? Sim. O Pix de 5% entra sobre o total que já tem o cupom.",
           "O cupom soma com as promoções da loja? Com o preço do Outlet, sim. Com promoção que traz cupom próprio, não: a loja aceita um cupom por pedido. Compare o total no resumo.",
-          "Tem cupom de primeira compra na Bagaggio? O CECILIA10 dá 10% e vale também para quem já comprou; a loja aceita um cupom por pedido.",
           "O cupom vale no Mercado Livre? Não. O cupom não vale lá, e vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link do Mercado Livre](https://meli.la/2KeydkG)."
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Vai comprar no site oficial da Bagaggio: o cupom dá 10% em todo o site, inclusive no Outlet.",
+        "Quer pagar no Pix: os 5% entram depois, sobre o total que já tem o cupom."
+      ],
+      "skipIf": [
+        "Vai comprar pelo Mercado Livre: o cupom não vale lá, e vale o preço do anúncio.",
+        "Encontrou promoção da loja com cupom próprio: ela não soma com o CECILIA10, então compare o total no resumo."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -137956,7 +137966,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom na sacola: a conta com o Pix",
         "paragraphs": [
           "No nosso teste com a [Mala de Bordo PP Downtown Preta](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), o preço de R$ 179,90 caiu para R$ 161,91 com o CECILIA10, que dá 10% OFF em todo o site, e para R$ 153,81 no Pix. Na [Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), foram R$ 249,90, R$ 224,91 com o cupom e R$ 213,66 no Pix. Os 5% do Pix entram depois do cupom, sobre o total já com o desconto.",
-          "O cupom entra no campo \"Cupom de desconto\" do resumo do pedido. O outro campo, \"Código de vendedor(a) ou influenciador(a)\", não é para ele. O passo a passo está em [Cupom Bagaggio: como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+          "Na sacola, cole o CECILIA10 no campo \"Cupom de desconto\" do resumo do pedido e confira o desconto no resumo antes de pagar. O outro campo, \"Código de vendedor(a) ou influenciador(a)\", não é para ele. O passo a passo está em [Cupom Bagaggio: como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ],
         "bullets": [
           "Pix: os 5% depois do cupom entraram na Detroit, na Downtown, no conjunto Malta e na mochila Explore; confirme a condição do produto escolhido antes de pagar.",
@@ -138002,7 +138012,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Comprar agora ou esperar a sexta?",
+        "heading": "Vale a pena comprar agora ou esperar a sexta?",
         "paragraphs": [
           "Nas malas da tabela, a campanha manteve os preços de venda de outubro, e o CECILIA10 continua tirando 10% sobre o total. A campanha ser anunciada não garante preço menor na sexta. Para avaliar uma oferta nova, compare a mesma variante, a forma de pagamento e o frete.",
           "Se precisa comprar agora, confira a linha de desconto do CECILIA10 e o total no Pix. Para o Leve 3 Pague 2, compare o custo da seleção inteira e veja quais produtos participam; não leve uma peça a mais só pelo slogan. Se pode esperar, guarde o total desta consulta para comparar na sexta. As condições do código estão na [página da Bagaggio](/cupons/bagaggio)."
@@ -138014,13 +138024,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "square",
           "aspectRatio": 1,
           "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-vinho/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
-        }
+        },
+        "emphasis": "Se eu precisasse da mala agora, compraria a Detroit com o CECILIA10 e conferiria o total no Pix; se pudesse esperar, guardaria esta consulta e só trocaria de ideia se o preço de sexta fosse menor."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. Na Black Friday ele tirou 10% sobre o preço de venda nas sacolas que testamos, em mala, conjunto e mochila; confira a linha do desconto antes de pagar.",
           "Quando começa e quanto dura a Black Friday da Bagaggio? O menu do site já traz a Black Friday, com até 70% OFF e Leve 3 Pague 2. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
-          "O cupom CECILIA10 vale na Black Friday? Vale. O cupom Bagaggio CECILIA10 tirou 10% sobre o preço de venda nas sacolas que testamos, em mala, conjunto e mochila. Confira a linha do desconto antes de pagar.",
           "O Leve 3 Pague 2 soma com o cupom? O Kit 3 Mochilas Explore é um produto à parte, que custa o preço de duas mochilas, e nele o CECILIA10 entra com 10%. Para a campanha do menu, confira a linha do desconto na sacola antes de pagar.",
           "Conjunto de malas ou malas avulsas na Black Friday da Bagaggio? Dos sete conjuntos que comparamos, só o Malta branco e marrom ficou abaixo das avulsas. O Malta preto, o Santiago e o Cartagena ficaram acima, e três empataram. Confirme o total na sacola.",
           "Qual a mala de bordo mais barata da Bagaggio na Black Friday? Entre as cinco que comparamos, a Downtown PP, por cerca de R$ 160 com o cupom, da marca Travelcross e sem garantia vitalícia. Com a marca Bagaggio e a garantia, a mais barata da seleção é a Detroit, por cerca de R$ 225 com o cupom.",
@@ -138030,6 +138041,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Precisa de mala agora: a campanha manteve os preços de venda de outubro, e o cupom continua tirando 10%.",
+        "Quer a mala de bordo mais barata da marca Bagaggio com garantia vitalícia: a Detroit."
+      ],
+      "skipIf": [
+        "Pode esperar a sexta e quer comparar a mesma variante, a forma de pagamento e o frete antes de fechar.",
+        "Pensa em conjunto só pelo nome: some as malas avulsas na sacola, porque só o Malta branco e marrom saiu abaixo delas."
+      ]
+    },
     "pros": [
       "O CECILIA10 tirou 10% sobre o preço de venda em todas as sacolas testadas, em mala de bordo, conjunto de malas e mochila",
       "A retirada em loja saiu sem custo nas capitais simuladas, e a entrega em casa de uma mala de bordo ficou entre cerca de R$ 27 e R$ 32",
@@ -138297,31 +138318,50 @@ export const reviewsData: unknown[] = [
           "alt": "Mala Detroit vermelha da Bagaggio fotografada de frente, em ângulo e de lado",
           "caption": "Exemplo de ângulos para as fotos da análise, com fotos oficiais da Detroit vermelha. A loja pede também a foto de costas, a nota fiscal e a avaria visível.",
           "objectFit": "contain",
-          "aspectRatio": 2.1053
+          "aspectRatio": 2.1053,
+          "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-vermelha/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
         }
+      },
+      {
+        "heading": "Vale a pena contar com a garantia vitalícia?",
+        "paragraphs": [
+          "Para mala da marca Bagaggio comprada depois da data de corte do programa, sim: ela cobre vício de fabricação, sem prazo para acabar, desde que a compra tenha nota fiscal em nome do consumidor e a mala esteja no Brasil. Mochila, bolsa, carteira e as outras marcas da loja ficam de fora e seguem a garantia da etiqueta.",
+          "O que a garantia não cobre é o uso: queda, sobrecarga, desgaste das rodas e dano no voo ficam de fora. Guarde a nota fiscal e fotografe a mala antes de despachar."
+        ],
+        "emphasis": "Se a mala é da marca Bagaggio, eu contaria com a garantia vitalícia para defeito de fabricação, mas não para queda, desgaste ou dano no voo, e não para mochila."
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
           "Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes do CECILIA10.",
           "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produto já com desconto. O Pix de 5% entra depois, sobre o total que já tem o cupom. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido.",
-          "Ele vai no campo \"Cupom de desconto\" do resumo, e não no campo de vendedor ou influenciador. Confira as parcelas no checkout.",
+          "Para aplicar, na sacola, cole o CECILIA10 no campo \"Cupom de desconto\" do resumo do pedido, e não no campo de vendedor ou influenciador, e confira o desconto no resumo antes de pagar. Confira as parcelas no checkout.",
           "O passo a passo do cupom e os valores na sacola estão em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom, e ela aceita um cupom por pedido.",
           "A mochila Bagaggio tem garantia vitalícia? Não, pelo texto da loja. A garantia vitalícia vale só para malas da marca Bagaggio. Mochila e bolsa seguem a garantia da etiqueta, além da garantia legal do Código de Defesa do Consumidor.",
           "A garantia vitalícia Bagaggio vale para todas as malas? Não. O programa divulgado vale para malas da marca Bagaggio compradas depois do início do programa, nas condições do termo. Travelcross e Swiss One seguem a garantia do fabricante.",
           "A garantia cobre dano causado pela companhia aérea? Não. A página diz que o dano no voo é responsabilidade da companhia, e orienta a registrar a reclamação no balcão, com o RIB ou PIR. Se o dano só aparecer depois, comunique a companhia por escrito em até sete dias após receber a bagagem.",
           "Como acionar a garantia da Bagaggio? Na compra online, pelo Troque Fácil, com o número do pedido e o CPF. Na compra em loja física, procure a loja da compra ou escreva para atendimento@bagaggio.com.br. Confirme a rota no atendimento antes de enviar a mala.",
           "A garantia vale se eu estiver fora do Brasil? Não. Ela é restrita ao território brasileiro, e o acionamento só começa depois do retorno ao país.",
-          "Posso passar a garantia para outra pessoa? Não. A garantia vale só para o comprador original e não é transferível.",
-          "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site e um cupom por pedido. No Mercado Livre o cupom não vale: lá vale o preço do anúncio. O [link de compra da marca no Mercado Livre](https://meli.la/2KeydkG) abre a vitrine da Cecília por lá."
+          "Posso passar a garantia para outra pessoa? Não. A garantia vale só para o comprador original e não é transferível."
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Vai comprar uma mala da marca Bagaggio e quer cobertura para defeito de fabricação, sem prazo para acabar.",
+        "Guarda a nota fiscal em nome de quem compra e usa a mala no Brasil."
+      ],
+      "skipIf": [
+        "Procura garantia vitalícia para mochila, bolsa, carteira ou linhas de outra marca, como a Travelcross: elas ficam fora.",
+        "Espera cobertura para queda, sobrecarga, desgaste das rodas ou dano causado pela companhia aérea."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -173449,18 +173489,18 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As condições vigentes do cupom ficam na [página do cupom Bagaggio](/cupons/bagaggio).",
           "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produto já com desconto. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido. O Pix de 5% entra depois, sobre o total que já tem o cupom.",
-          "Com mais de uma mala na sacola, confira o desconto no resumo do pedido. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+          "Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. Com mais de uma mala na sacola, confira o desconto no resumo do pedido. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom. Pela conta, a Nova Bahamas Preta fica em cerca de R$ 900 com o código. Condições na [página do cupom Bagaggio](/cupons/bagaggio).",
           "Mala de policarbonato é melhor que ABS? As fichas da Bagaggio não comparam a resistência dos materiais. Entre as fichas da tabela, as três de policarbonato custaram mais e pesaram mais que a Detroit de ABS, com litros parecidos.",
           "Qual a diferença de preço entre ABS, polipropileno e policarbonato na Bagaggio? Entre as malas de bordo de 10 kg deste texto, a de ABS custava cerca de R$ 250, as de polipropileno de R$ 300 a R$ 500 e as de policarbonato de R$ 800 a R$ 1.500.",
           "Mala de policarbonato pesa mais que a de ABS? Nas fichas da tabela, sim. As três de policarbonato de 10 kg pesam de 3,28 kg a 3,52 kg, e a Detroit de ABS pesa 2,61 kg. Isso vale para esses modelos, não para toda mala da marca.",
           "Por que a mesma mala Malta custa preços diferentes por cor? A ficha não explica. A Malta de 10 kg custava cerca de R$ 400 na Preta e R$ 500 na Branca e Marrom, com a mesma medida e o mesmo peso.",
-          "Vale pagar mais pela mala de policarbonato? Só se o material importa para você. Pelas três fichas de policarbonato da tabela, ela não traz mais litros nem menos peso que a Detroit de ABS.",
-          "Tem cupom para a mala de policarbonato Bagaggio? Tem o CECILIA10, de 10% no site, inclusive em produto com desconto. Pela conta, a Nova Bahamas Preta fica em cerca de R$ 900 com o código; confira o desconto no carrinho. Condições na [página do cupom Bagaggio](/cupons/bagaggio)."
+          "Vale pagar mais pela mala de policarbonato? Só se o material importa para você. Pelas três fichas de policarbonato da tabela, ela não traz mais litros nem menos peso que a Detroit de ABS."
         ]
       }
     ],
@@ -173534,9 +173574,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que este guia lê",
+        "heading": "Malas, mochilas e bolsas lado a lado",
         "paragraphs": [
-          "A loja informa material, peso, medidas e garantia de cada produto. Resistência em viagem e conforto no uso não aparecem nas fichas. A bolsa Vegas estava sem estoque quando conferimos."
+          "A loja informa material, peso, medidas e garantia de cada produto. A bolsa Vegas estava sem estoque quando conferimos."
         ],
         "comparisonTable": {
           "headers": [
@@ -173678,29 +173718,41 @@ export const reviewsData: unknown[] = [
           "Para mala da marca, sim, pelo que a ficha mostra: garantia vitalícia e medidas completas. Em mochila e bolsa, confira a garantia de cada página, porque ela tem prazo e varia.",
           "As fichas ajudam a comparar o que é verificável antes da compra: material, peso, medidas, compartimentos e garantia informada.",
           "Para malas, compare os modelos no [guia de malas de bordo](/reviews/mala-de-bordo-bagaggio-qual-compensa). Para levar computador, veja [qual mochila para notebook escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
-        ]
+        ],
+        "emphasis": "Para mala, eu compraria a da marca Bagaggio pela garantia vitalícia e pelas medidas completas; para mochila e bolsa, eu conferiria a garantia de cada página antes de decidir."
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
           "As condições vigentes do CECILIA10 estão na [página do cupom da Bagaggio](/cupons/bagaggio).",
           "Pela regra da loja, o CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto, e a loja aceita um cupom por pedido: promoção com cupom próprio não soma com ele. O Pix de 5% entra sobre o total já com o cupom.",
-          "O cupom vale em mala, conjunto e mochila, como conferimos no carrinho, e também em produto sem promoção. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+          "O cupom vale em mala, conjunto e mochila, como conferimos no carrinho, e também em produto sem promoção. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+          "Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom, e ela aceita um cupom por pedido.",
           "A Bagaggio é boa para malas? As páginas das malas da marca trazem material, peso, medida, cadeado e garantia vitalícia com regulamento. Elas não dizem como a mala se sai na viagem.",
           "A Bagaggio é boa para mochilas? As páginas trazem material, medida e, em parte das linhas, peso e garantia. A garantia das mochilas tem prazo, na maioria de 90 dias ou 3 meses.",
           "A mochila Bagaggio tem garantia vitalícia? Não. O programa vitalício da loja é das malas da marca e não inclui mochilas. Para a mochila, confira a cobertura contratual na ficha e na etiqueta.",
           "A Downtown é Bagaggio ou Travelcross? O cadastro da loja põe a Mala de Bordo PP Downtown na marca Travelcross, embora o campo Marca da página diga Bagaggio. A página dela não traz garantia vitalícia.",
           "A Bagaggio vende Samsonite? Na busca do site, a loja não apresentou produtos Samsonite à venda. O cadastro de uma marca sem anúncios não confirma oferta atual.",
-          "A Bagaggio tem cadeado para mala? Tem. O cadeado com chave é vendido à parte, e algumas malas, como a Detroit e a Route, já trazem cadeado com senha embutido.",
-          "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site pela regra da loja. Ele soma com o Pix de 5%."
+          "A Bagaggio tem cadeado para mala? Tem. O cadeado com chave é vendido à parte, e algumas malas, como a Detroit e a Route, já trazem cadeado com senha embutido."
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quer mala de bordo da marca Bagaggio com garantia vitalícia e medidas completas na ficha.",
+        "Quer comparar material, peso e preço de malas, mochilas e bolsas antes de comprar."
+      ],
+      "skipIf": [
+        "Procura garantia vitalícia para mochila ou bolsa: ela é só das malas da marca.",
+        "Está de olho na Downtown ou na Mochila Tech: a loja as cadastra como Travelcross, fora da vitalícia."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -173883,17 +173935,17 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido. O Pix tira mais 5% sobre o total que já tem o cupom.",
-          "No nosso teste na sacola, o Malta P e M Preta saiu de R$ 1.024,85 para R$ 922,37 e, no Pix, R$ 876,25. Como o cupom é percentual, ele não muda a comparação: pela conta, as duas peças avulsas, de R$ 849,80, ficariam em R$ 764,82 e R$ 726,58. Confira o desconto no resumo do pedido. As condições atualizadas ficam na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo está em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+          "No nosso teste na sacola, o Malta P e M Preta saiu de R$ 1.024,85 para R$ 922,37 e, no Pix, R$ 876,25. Como o cupom é percentual, ele não muda a comparação: pela conta, as duas peças avulsas, de R$ 849,80, ficariam em R$ 764,82 e R$ 726,58. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. As condições atualizadas ficam na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo está em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom. Vale também em conjunto: testamos no Malta P e M.",
           "Conjunto de malas Bagaggio compensa? Só se você precisa de todas as peças e a conta fecha. Dos nove conjuntos em estoque que somamos, um custava menos que as avulsas, quatro custavam igual e quatro custavam mais.",
           "Havia conjunto mais barato que as peças separadas? Um: o Malta P e M Branca e Marrom, pouco abaixo da soma das avulsas, como mostra a tabela.",
           "Qual conjunto saía mais caro que as avulsas? O Malta P e M Preta, cerca de R$ 175 acima: as duas peças avulsas somavam cerca de R$ 850, e o conjunto custava cerca de R$ 1.025.",
           "Conjunto de 3 malas de bordo Bagaggio vale a pena? Pelo preço, não muda nada. O conjunto de três malas de bordo Detroit custava cerca de R$ 750, o mesmo que três malas avulsas de cerca de R$ 250.",
-          "O cupom CECILIA10 vale para conjunto de malas? Vale: testamos no conjunto Malta P e M. O CECILIA10 vale em todo o site, inclusive em produto com desconto. Confira o desconto no resumo do pedido.",
           "Por que o conjunto tem preço de lista maior que a soma das peças? Porque a lista do conjunto é a soma das listas das peças, não dos preços de venda. A comparação que vale é com o preço de venda das peças avulsas."
         ]
       }
@@ -183051,18 +183103,19 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% em todo o site oficial da Bagaggio (condições na [página do cupom](/cupons/bagaggio)). Vale em todas as formas de pagamento, com um cupom por pedido, e o Pix de 5% entra depois, sobre o total que já tem o cupom.",
-          "No nosso teste de carrinho, a Detroit ABS Preta saiu de R$ 249,90 para R$ 224,91 com o CECILIA10 e para R$ 213,66 no Pix. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
+          "No nosso teste de carrinho, a Detroit ABS Preta saiu de R$ 249,90 para R$ 224,91 com o CECILIA10 e para R$ 213,66 no Pix. Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio).",
+          "Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom. No nosso teste, a Detroit ABS Preta foi de R$ 249,90 para R$ 224,91.",
           "Qual é a mala de bordo mais barata da Bagaggio? Entre as de marca Bagaggio, a Detroit ABS de 10 kg, por cerca de R$ 250 no cartão. A Downtown PP custa menos, mas é da Travelcross.",
           "A mala de bordo Downtown é Bagaggio ou Travelcross? A loja a coloca na linha Travelcross. A garantia vitalícia da Bagaggio não vale para ela.",
           "O que significa o selo BORDO da Bagaggio? É uma informação da loja, com ícone de avião. Não garante o embarque, que depende da companhia.",
           "A mala de bordo Bagaggio passa em qualquer companhia aérea? Não há garantia. A Detroit Preta e a Route Preta ficam dentro da medida de 55 × 35 × 25 cm que LATAM, GOL e Azul citam, mas cada companhia decide. Confira antes de viajar.",
-          "Polipropileno ou ABS: qual mala de bordo compensa? Depende do que pesa mais para você. O ABS da Detroit pesa 2,61 kg e tem 44,2 litros; o polipropileno da Route Preta pesa 2,43 kg e tem 45,3 litros.",
-          "Tem cupom para a mala de bordo Bagaggio? Sim, o CECILIA10 dá 10% em todo o site. No nosso teste, a Detroit ABS Preta foi de cerca de R$ 250 a cerca de R$ 225. Confira o valor final no carrinho."
+          "Polipropileno ou ABS: qual mala de bordo compensa? Depende do que pesa mais para você. O ABS da Detroit pesa 2,61 kg e tem 44,2 litros; o polipropileno da Route Preta pesa 2,43 kg e tem 45,3 litros."
         ]
       }
     ],
@@ -183323,7 +183376,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria, cupom e garantia",
         "paragraphs": [
-          "O CECILIA10 dá 10% em todo o site oficial da Bagaggio (condições na [página do cupom](/cupons/bagaggio)) e vale em todas as formas de pagamento, com um cupom por pedido. O Pix de 5% entra depois, sobre o total que já tem o cupom.",
+          "O CECILIA10 dá 10% em todo o site oficial da Bagaggio (condições na [página do cupom](/cupons/bagaggio)) e vale em todas as formas de pagamento, com um cupom por pedido. O Pix de 5% entra depois, sobre o total que já tem o cupom. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar.",
           "No nosso teste de carrinho, a Detroit ABS Preta saiu de R$ 249,90 para R$ 224,91 com o CECILIA10 e para R$ 213,66 no Pix.",
           "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação. Detalhes no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia). Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
         ]
@@ -183331,11 +183384,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No teste de carrinho, a Detroit ABS Preta foi de R$ 249,90 para R$ 224,91.",
           "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? São faixas que a loja usa para malas pequenas, médias e grandes. As dimensões e os litros variam por modelo, e nem toda mala de 10 kg cabe na mão: a Cartagena P passa da medida.",
           "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
           "Qual tamanho de mala comprar para viagem de uma semana? Compare o que você leva com o volume: as médias da seleção têm de 71 a 91 litros. Para cabine, confirme as dimensões totais do modelo e a regra do bilhete; nem toda mala chamada de 10 kg atende à referência.",
-          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Depende do modelo. A Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, com as rodas incluídas; a Cartagena P passa. Cada companhia decide, então confira a regra do seu bilhete antes de viajar.",
-          "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site. No nosso teste, a Detroit ABS Preta foi de cerca de R$ 250 a cerca de R$ 225. Confira o valor final no carrinho."
+          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Depende do modelo. A Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, com as rodas incluídas; a Cartagena P passa. Cada companhia decide, então confira a regra do seu bilhete antes de viajar."
         ]
       }
     ],
@@ -183564,7 +183617,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% no site oficial da Bagaggio, inclusive em Outlet e produto com desconto, e vale em mala, conjunto e mochila. Na nossa conferência no carrinho, a mochila de viagem Explore saiu de R$ 299,90 para R$ 269,91 com o cupom e para R$ 256,41 no Pix, que tira mais 5% sobre o total com cupom.",
-          "A loja aceita um cupom por pedido: quando ela roda promoção com cupom próprio, essa promoção não soma com o CECILIA10. Confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+          "A loja aceita um cupom por pedido: quando ela roda promoção com cupom próprio, essa promoção não soma com o CECILIA10. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
@@ -183584,11 +183637,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive em mochila e no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom.",
           "Qual é a mochila para notebook mais barata da Bagaggio? Pelo cartão, a Horizonte Slim, que a marca anuncia para notebook de até 15,6 polegadas, mas estava sem estoque quando conferimos. Em estoque, a Urban Antifurto. Os preços estão na tabela.",
           "Mochila para notebook da Bagaggio tem garantia vitalícia? Não. A garantia vitalícia da Bagaggio é para as malas da marca. A mochila segue a garantia que a loja indica, de 3 meses, 90 dias ou 3 anos, conforme o modelo.",
           "Couro ou poliéster: qual mochila compensa? Depende do preço e do uso: o couro custa mais que o poliéster, como mostra a tabela. A página não diz qual dura mais.",
-          "Qual mochila cabe notebook de 15,6 polegadas? A Horizonte Slim, pela descrição oficial da marca. A Joá Café aparece com 16 polegadas numa descrição que cita a cor preta; confirme com a loja antes de usar essa medida.",
-          "Tem cupom na Bagaggio? Sim. O CECILIA10 dá 10% em todo o site oficial, com um cupom por pedido. Confira o desconto no resumo do pedido antes de pagar."
+          "Qual mochila cabe notebook de 15,6 polegadas? A Horizonte Slim, pela descrição oficial da marca. A Joá Café aparece com 16 polegadas numa descrição que cita a cor preta; confirme com a loja antes de usar essa medida."
         ]
       }
     ],
@@ -183823,12 +183876,20 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom e Pix",
         "paragraphs": [
           "O CECILIA10 dá 10% no site da Bagaggio, inclusive em produto com desconto, e vale em mala, conjunto e mochila. Na nossa conferência no carrinho, a mochila de viagem Explore saiu de R$ 299,90 para R$ 269,91 com o cupom e para R$ 256,41 no Pix. A regra completa está na [página do cupom Bagaggio](/cupons/bagaggio).",
-          "A loja aceita um cupom por pedido: quando ela roda promoção com cupom próprio, essa promoção não soma com o CECILIA10. No Pix, a loja tira mais 5% sobre o total que já tem o cupom. Confira o resumo do pedido antes de pagar."
+          "A loja aceita um cupom por pedido: quando ela roda promoção com cupom próprio, essa promoção não soma com o CECILIA10. No Pix, a loja tira mais 5% sobre o total que já tem o cupom. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar."
         ]
+      },
+      {
+        "heading": "Qual escolher de presente",
+        "paragraphs": [
+          "A escolha segue quem recebe e o orçamento: as faixas acima trazem de cadeado e garrafa a mochila executiva, e o kit Joá custa o mesmo que a mochila e a carteira compradas separadas. Confira o modelo e o preço na página antes de fechar o pedido."
+        ],
+        "emphasis": "Eu escolheria pelo perfil de quem recebe: para quem viaja, o cadeado ou a garrafa; para quem trabalha, a carteira de couro ou a mochila executiva; e o kit Joá só para quem quer mochila e carteira juntas, já que ele custa o mesmo que as peças soltas."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive em produto com desconto e no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom.",
           "A Bagaggio vende vale-presente? Vende, na página vale-presente do site, com compra virtual num site parceiro de cartões. Valores e regras estão na página do vale-presente.",
           "A Bagaggio tem embalagem para presente? Tem a lata de alumínio para carteira, vendida avulsa no site; o preço está no capítulo de embalagem.",
           "O cupom CECILIA10 vale no Mercado Livre? Não. Ele vale no site oficial da Bagaggio. No Mercado Livre, vale o preço do anúncio, sem o cupom.",
@@ -184009,7 +184070,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto, e vale em mala, conjunto e mochila. Na nossa conferência no carrinho, a mochila de viagem Explore saiu de R$ 299,90 para R$ 269,91 com o cupom e para R$ 256,41 no Pix, que tira mais 5% sobre o total com cupom.",
-          "A loja aceita um cupom por pedido: quando ela roda promoção com cupom próprio, essa promoção não soma com o CECILIA10. Confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio)."
+          "A loja aceita um cupom por pedido: quando ela roda promoção com cupom próprio, essa promoção não soma com o CECILIA10. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio)."
         ]
       },
       {
@@ -184029,11 +184090,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive em mochila escolar e no Outlet, em todas as formas de pagamento. A loja aceita um cupom por pedido.",
           "A Bagaggio tem mochila escolar com rodinha? Sim. Na tabela, a Dra Brinquedos e o Homem Aranha são de rodinhas; os preços estão lá. A loja tem também modelos de rodinhas da Minnie e do Mickey, que estavam sem estoque quando conferimos.",
           "A Bagaggio tem linha KidGo de mochila escolar? Não. Na busca da loja, a KidGo aparece só numa mala de bordo. Confira o catálogo se procura esse nome.",
           "Mochila escolar da Disney ou da Marvel é da Bagaggio? A loja vende, com a marca do personagem informada por ela. Não é linha própria da Bagaggio.",
-          "Qual a garantia da mochila escolar Bagaggio? Depende do modelo: 90 dias em três modelos, e nos outros vale a garantia legal do Código de Defesa do Consumidor.",
-          "Tem cupom para a mochila escolar? Sim. O CECILIA10 dá 10% em todo o site oficial, com um cupom por pedido. Confira o desconto no resumo do pedido antes de pagar."
+          "Qual a garantia da mochila escolar Bagaggio? Depende do modelo: 90 dias em três modelos, e nos outros vale a garantia legal do Código de Defesa do Consumidor."
         ]
       }
     ],
@@ -191983,7 +192044,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive em produto com preço riscado, como a Explore e a Voyage, e vale em mala, conjunto e mochila. A loja aceita um cupom por pedido: quando ela roda promoção com cupom próprio, essa promoção não soma com o CECILIA10. No Pix, a loja tira mais 5% sobre o total com cupom.",
-          "Na nossa conferência no carrinho, a Explore Rose saiu de R$ 299,90 para R$ 269,91 com o cupom e para R$ 256,41 no Pix. Confira o desconto no resumo do pedido antes de pagar. A regra está na página do [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+          "Na nossa conferência no carrinho, a Explore Rose saiu de R$ 299,90 para R$ 269,91 com o cupom e para R$ 256,41 no Pix. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. A regra está na página do [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
       {
@@ -192021,6 +192082,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive em mochila e no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom.",
           "Qual mochila de viagem da Bagaggio vai como bagagem de mão? Todas as cinco cabem na mala pequena de 55 × 35 × 25 cm se ficarem fechadas. Como item pessoal de 45 × 35 × 20 cm, pelas regras da LATAM e da Azul, cabem a Vacuum Airtrack, o kit Royale e a Explore sem expandir.",
           "Mochila de viagem Bagaggio cabe debaixo do assento? A Vacuum Airtrack (44 × 32 × 20 cm), a Explore fechada (45 × 34 × 10 cm) e a Royale (45 × 35 × 13 cm) ficam dentro da medida que LATAM e Azul publicam para o item debaixo do assento. A Voyage e a Donna Grande passam dos 45 cm de altura.",
           "A mochila expansível Explore cabe no avião expandida? Expandida, ela tem 45 × 34 × 25 cm, no limite da mala pequena de 55 × 35 × 25 cm. Como item pessoal, só fechada, com 10 cm de profundidade.",
@@ -226943,7 +227005,8 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA10: desconto na compra da mala",
         "paragraphs": [
           "O CECILIA10 dá 10% no site oficial da Bagaggio e soma com os 5% do Pix, como testamos no carrinho (veja o [cupom Bagaggio](/cupons/bagaggio)). Ele não acumula com outro cupom.",
-          "Nas ofertas de Black Friday, confira no carrinho se o código foi aceito antes de pagar. O [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio) reúne os preços da campanha."
+          "Nas ofertas de Black Friday, confira no carrinho se o código foi aceito antes de pagar. O [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio) reúne os preços da campanha.",
+          "Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar."
         ]
       },
       {
@@ -226952,7 +227015,7 @@ export const reviewsData: unknown[] = [
           "Para alternar entre as três companhias, eu começaria pelas quatro opções do primeiro quadro: a Detroit II se o preço for a prioridade, a Route Média para levar menos peso na própria mala e a My Way de 26 polegadas para uma média maior.",
           "Para uma grande, ficaria com a Hong Kong G e pesaria a mala pronta para não passar da franquia. Vai levar mala na cabine? Veja o [guia da mala de bordo](/reviews/mala-de-bordo-bagaggio-qual-compensa). Pensando em comprar mais de uma? Veja se o [conjunto de malas compensa](/reviews/conjunto-de-malas-bagaggio-compensa)."
         ],
-        "emphasis": "Escolha pela regra do voo e pelo que vai levar, não pelas letras M e G nem pelas polegadas."
+        "emphasis": "Para alternar entre LATAM, GOL e Azul, eu escolheria uma das quatro médias que cabem nas três regras e pesaria a mala pronta antes de sair de casa."
       },
       {
         "heading": "Médias que cabem nas três companhias",
@@ -227265,11 +227328,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom. Nas ofertas de Black Friday, confira no carrinho se o código foi aceito.",
           "Qual é a medida da mala de 23 kg? Na LATAM e na Azul, o limite informado é de 158 cm na soma dos lados. A GOL publica até 80 cm de altura, 50 cm de largura e 28 cm de profundidade.",
           "A mala vazia conta nos 23 kg? Conta: o limite considera a mala e tudo o que está dentro. As médias da Bagaggio pesam de 2,8 a 4,3 kg vazias, então sobram de 18,7 a 20,2 kg.",
           "Posso despachar uma mala de 32 kg com 23 kg? Pode, se o peso total e as medidas atenderem ao voo. A categoria anunciada pela loja não altera a franquia do bilhete.",
-          "O que acontece se a mala passar de 158 cm? Consulte as regras de excesso da companhia para o seu trajeto. Estar abaixo de 23 kg não dispensa uma possível cobrança por dimensão.",
-          "Tem cupom para mala Bagaggio? O CECILIA10 dá 10% e soma com os 5% do Pix. Na Black Friday, confira no carrinho se o código foi aplicado à oferta escolhida."
+          "O que acontece se a mala passar de 158 cm? Consulte as regras de excesso da companhia para o seu trajeto. Estar abaixo de 23 kg não dispensa uma possível cobrança por dimensão."
         ]
       }
     ],
@@ -234225,15 +234288,32 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Vale usar o CECILIA10 na primeira compra?",
+        "paragraphs": [
+          "Vale: são 10% em todo o site, Outlet incluso, em todas as formas de pagamento, e o código é o mesmo no primeiro pedido e nos seguintes. No Pix, a loja ainda tira mais 5% depois do cupom."
+        ],
+        "emphasis": "Se eu fosse fazer o primeiro pedido na Bagaggio, aplicaria o CECILIA10 na sacola e escolheria o Pix, depois de conferir o total no resumo."
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como conseguir desconto na primeira compra na Bagaggio? O CECILIA10 dá 10% em todo o site, no primeiro pedido e nos seguintes.",
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom. Vale no primeiro pedido e nos seguintes, no site ou no app.",
           "Qual cupom Bagaggio vale para quem já é cliente? O mesmo CECILIA10, com os mesmos 10%.",
           "O cupom Bagaggio soma com o Pix? Sim. No Pix, a loja ainda tira o desconto dela depois do código.",
           "O cupom Bagaggio vale no Mercado Livre? Não. Ele vale no site e no aplicativo da loja."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vai fazer o primeiro pedido na Bagaggio, no site ou no aplicativo, e quer os 10% do CECILIA10.",
+        "Já é cliente e vai comprar de novo: o mesmo código vale."
+      ],
+      "skipIf": [
+        "Pretende comprar pelo Mercado Livre, onde o código não vale.",
+        "A sacola já traz outro cupom: ela aceita um código por pedido."
+      ]
+    }
   },
   {
     "id": 916,
@@ -246339,13 +246419,15 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher",
         "paragraphs": [
           "No cartão, a Bagaggio com o CECILIA10 ficou mais barata nos seis pares comparados; na mala grande, a diferença passou de R$ 100 nos dois materiais. No Pix, ganhou nos seis. A menor diferença ficou na mala média: R$ 24,75 no Pix (ABS) e R$ 24,99 no cartão (polipropileno), antes do frete.",
-          "Além do preço, eu daria preferência à Bagaggio pela garantia vitalícia contra defeitos de fabricação. Na Sestini, pediria o prazo da Supergarantia por escrito antes de decidir. Na média e na grande, some também o frete do seu CEP."
+          "Além do preço, eu daria preferência à Bagaggio pela garantia vitalícia contra defeitos de fabricação. Na Sestini, pediria o prazo da Supergarantia por escrito antes de decidir. Na média e na grande, some também o frete do seu CEP.",
+          "Para comprar na Bagaggio, na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar."
         ],
         "emphasis": "Com o CECILIA10, eu ficaria com a Bagaggio: ela ficou mais barata nos seis pares e tem garantia vitalícia contra defeitos de fabricação. Na Sestini, confirmaria o prazo adicional por escrito."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. Na Sestini ele não vale, e o preço da Bagaggio nas tabelas já o inclui.",
           "Bagaggio ou Sestini: qual é mais barata? Com o CECILIA10, de 10% OFF, a Bagaggio ficou mais barata nos seis pares, no cartão e no Pix, antes do frete. A menor diferença ficou na mala média: R$ 24,75 no Pix (ABS) e R$ 24,99 no cartão (polipropileno).",
           "Qual tem garantia maior? A Bagaggio informa garantia vitalícia contra defeitos de fabricação. A Sestini oferece os 90 dias mais a Supergarantia, mas não encontramos o prazo adicional nos documentos dela. Confirme esse prazo com a Sestini antes de comparar a duração das duas.",
           "O cupom da Bagaggio vale na Sestini? Não. O CECILIA10 dá 10% OFF só no site da Bagaggio, em todas as formas de pagamento.",
@@ -311613,17 +311695,18 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O [cupom Bagaggio](/cupons/bagaggio) CECILIA10 dá 10% OFF em todas as formas de pagamento, inclusive em ofertas, e soma com os 5% do Pix. Conta nossa: no TSA 3 dígitos Rosa de R$ 49,90, tira R$ 4,99 e baixa para R$ 44,91 antes do frete; veja [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
-        ]
+          "O [cupom Bagaggio](/cupons/bagaggio) CECILIA10 dá 10% OFF em todas as formas de pagamento, inclusive em ofertas, e soma com os 5% do Pix. Conta nossa: no TSA 3 dígitos Rosa de R$ 49,90, tira R$ 4,99 e baixa para R$ 44,91 antes do frete. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+        ],
+        "emphasis": "Se a sua mala já tem o TSA embutido, eu não compraria cadeado avulso só para trocar a senha: o botão A de reset faz isso. O avulso entra quando a mala não tem trava ou o cadeado antigo se perdeu."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom. Vale em malas e em cadeados.",
           "Qual é a senha padrão de fábrica da mala Bagaggio? Nos cadeados TSA embutidos descritos no guia oficial da Bagaggio, a combinação inicial de fábrica é 0-0-0.",
           "Como resetar a senha do cadeado TSA embutido com botão A? Coloque 0-0-0 (ou a senha atual) para abrir, aperte firme o botão A até ouvir o estalo e gire os discos para a nova senha; os detalhes e o diagrama estão no passo a passo acima.",
           "O cadeado TSA vem com chave junto da mala? Não nos modelos de senha: a fechadura ao lado dos discos serve exclusivamente para agentes de segurança aeroportuária usarem chave mestra oficial em inspeções.",
-          "Esqueci a senha da mala Bagaggio: a garantia vitalícia cobre? Não. O termo da marca exclui senha de cadeado perdida; nesses casos, procure o chat de atendimento no Fale Conosco da Bagaggio com o modelo e foto do cadeado.",
-          "O cupom CECILIA10 funciona nos cadeados e malas da Bagaggio? Sim. O CECILIA10 aplica 10% OFF em todo o site oficial da marca e acumula com o desconto do Pix."
+          "Esqueci a senha da mala Bagaggio: a garantia vitalícia cobre? Não. O termo da marca exclui senha de cadeado perdida; nesses casos, procure o chat de atendimento no Fale Conosco da Bagaggio com o modelo e foto do cadeado."
         ]
       }
     ],
@@ -311853,13 +311936,21 @@ export const reviewsData: unknown[] = [
         "heading": "Códigos de desconto das duas lojas",
         "paragraphs": [
           "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% OFF no pedido. As regras e o passo a passo estão na página do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
-          "Na Bagaggio, o código é CECILIA10 e dá 10% OFF em todo o site. O resumo fica em [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+          "Na Bagaggio, o código é CECILIA10 e dá 10% OFF em todo o site. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. O resumo fica em [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
           "Em simulação direta sobre os preços da tabela, a Dual com alça azul de 900 ml cairia para R$ 89,91 com CECILIA10, e a Fresh de 950 ml branca ou preta ficaria em R$ 132,90 com CECILIAA, antes do frete. Confira o valor final no carrinho da loja escolhida antes de pagar."
         ]
       },
       {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "A escolha depende da bebida e do que você quer comparar: horas de conservação declaradas na página, a Fresh da Gocase; o menor preço por 100 ml da tabela, a Dual azul com alça de 900 ml da Bagaggio; bebida só fria, a Flip Pro. Confira cor e preço na página antes de comprar."
+        ],
+        "emphasis": "Para café ou chá com horas declaradas na página, eu ficaria com a Fresh; para gastar menos por 100 ml, com a Dual azul com alça de 900 ml, e deixaria a Flip Pro para bebida fria."
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. Vale só nas garrafas da Bagaggio; o código da Gocase é outro.",
           "Qual garrafa térmica escolher? A Dual azul com alça de 900 ml custa menos por 100 ml na tabela. Para bebida quente com horas declaradas na página, veja a Fresh. A Flip Pro atende apenas bebidas frias.",
           "Quanto tempo a garrafa térmica mantém a bebida? A Gocase declara até 24h gelada e até 12h quente na Fresh, e até 48h gelada com gelo na Flip Pro. A Bagaggio informa apenas “por horas” na página da Dual com alça, sem número exato.",
           "Posso pôr bebida quente na Flip Pro? Não: a Gocase orienta que ela seja usada somente com bebidas frias por causa do mecanismo de sucção e vedação da tampa. Para café ou chá, prefira a Fresh ou a Dual.",

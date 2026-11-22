@@ -33,9 +33,9 @@
       ]
     },
     {
-      "heading": "O que este guia lê",
+      "heading": "Malas, mochilas e bolsas lado a lado",
       "paragraphs": [
-        "A loja informa material, peso, medidas e garantia de cada produto. Resistência em viagem e conforto no uso não aparecem nas fichas. A bolsa Vegas estava sem estoque quando conferimos."
+        "A loja informa material, peso, medidas e garantia de cada produto. A bolsa Vegas estava sem estoque quando conferimos."
       ],
       "comparisonTable": {
         "headers": [
@@ -177,29 +177,41 @@
         "Para mala da marca, sim, pelo que a ficha mostra: garantia vitalícia e medidas completas. Em mochila e bolsa, confira a garantia de cada página, porque ela tem prazo e varia.",
         "As fichas ajudam a comparar o que é verificável antes da compra: material, peso, medidas, compartimentos e garantia informada.",
         "Para malas, compare os modelos no [guia de malas de bordo](/reviews/mala-de-bordo-bagaggio-qual-compensa). Para levar computador, veja [qual mochila para notebook escolher](/reviews/mochila-notebook-bagaggio-qual-escolher)."
-      ]
+      ],
+      "emphasis": "Para mala, eu compraria a da marca Bagaggio pela garantia vitalícia e pelas medidas completas; para mochila e bolsa, eu conferiria a garantia de cada página antes de decidir."
     },
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
         "As condições vigentes do CECILIA10 estão na [página do cupom da Bagaggio](/cupons/bagaggio).",
         "Pela regra da loja, o CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto, e a loja aceita um cupom por pedido: promoção com cupom próprio não soma com ele. O Pix de 5% entra sobre o total já com o cupom.",
-        "O cupom vale em mala, conjunto e mochila, como conferimos no carrinho, e também em produto sem promoção. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+        "O cupom vale em mala, conjunto e mochila, como conferimos no carrinho, e também em produto sem promoção. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+        "Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom, e ela aceita um cupom por pedido.",
         "A Bagaggio é boa para malas? As páginas das malas da marca trazem material, peso, medida, cadeado e garantia vitalícia com regulamento. Elas não dizem como a mala se sai na viagem.",
         "A Bagaggio é boa para mochilas? As páginas trazem material, medida e, em parte das linhas, peso e garantia. A garantia das mochilas tem prazo, na maioria de 90 dias ou 3 meses.",
         "A mochila Bagaggio tem garantia vitalícia? Não. O programa vitalício da loja é das malas da marca e não inclui mochilas. Para a mochila, confira a cobertura contratual na ficha e na etiqueta.",
         "A Downtown é Bagaggio ou Travelcross? O cadastro da loja põe a Mala de Bordo PP Downtown na marca Travelcross, embora o campo Marca da página diga Bagaggio. A página dela não traz garantia vitalícia.",
         "A Bagaggio vende Samsonite? Na busca do site, a loja não apresentou produtos Samsonite à venda. O cadastro de uma marca sem anúncios não confirma oferta atual.",
-        "A Bagaggio tem cadeado para mala? Tem. O cadeado com chave é vendido à parte, e algumas malas, como a Detroit e a Route, já trazem cadeado com senha embutido.",
-        "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site pela regra da loja. Ele soma com o Pix de 5%."
+        "A Bagaggio tem cadeado para mala? Tem. O cadeado com chave é vendido à parte, e algumas malas, como a Detroit e a Route, já trazem cadeado com senha embutido."
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Quer mala de bordo da marca Bagaggio com garantia vitalícia e medidas completas na ficha.",
+      "Quer comparar material, peso e preço de malas, mochilas e bolsas antes de comprar."
+    ],
+    "skipIf": [
+      "Procura garantia vitalícia para mochila ou bolsa: ela é só das malas da marca.",
+      "Está de olho na Downtown ou na Mochila Tech: a loja as cadastra como Travelcross, fora da vitalícia."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

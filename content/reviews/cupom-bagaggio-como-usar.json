@@ -64,7 +64,7 @@
       ]
     },
     {
-      "heading": "Confira o resumo e escolha o Pix ou o cartão",
+      "heading": "Confira o resumo e escolha a forma de pagamento",
       "paragraphs": [
         "Quando o cupom entra, o código aparece como etiqueta no campo e a linha de descontos aparece no resumo. Com o CECILIA10 aplicado, a Downtown passa de R$ 179,90 para R$ 161,91, com R$ 17,99 em descontos. No seu pedido, confira subtotal, desconto e total antes de seguir."
       ],
@@ -147,19 +147,29 @@
       "paragraphs": [
         "Se você já ia comprar na Bagaggio, o CECILIA10 vale: 10% em todo o site, inclusive no Outlet, e soma com o Pix. Se a compra for pelo Mercado Livre, o cupom não vale lá, então compare o preço do anúncio. Na Black Friday, confira o [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio) antes de aplicar o cupom.",
         "As condições atualizadas do cupom ficam na [página do cupom Bagaggio](/cupons/bagaggio)."
-      ]
+      ],
+      "emphasis": "Se eu já fosse comprar na Bagaggio, eu usaria o CECILIA10 e conferiria a linha do desconto no resumo antes de pagar; no Mercado Livre, eu compararia o preço do anúncio."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Bagaggio? O cupom é CECILIA10, com 10% de desconto em todo o site oficial, inclusive no Outlet.",
+        "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. Cole-o na sacola, no campo Cupom de desconto, e confira o desconto no resumo antes de pagar; no Pix, a loja tira mais 5% depois do cupom.",
         "O cupom Bagaggio soma com o Pix? Sim. O Pix de 5% entra sobre o total que já tem o cupom.",
         "O cupom soma com as promoções da loja? Com o preço do Outlet, sim. Com promoção que traz cupom próprio, não: a loja aceita um cupom por pedido. Compare o total no resumo.",
-        "Tem cupom de primeira compra na Bagaggio? O CECILIA10 dá 10% e vale também para quem já comprou; a loja aceita um cupom por pedido.",
         "O cupom vale no Mercado Livre? Não. O cupom não vale lá, e vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link do Mercado Livre](https://meli.la/2KeydkG)."
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Vai comprar no site oficial da Bagaggio: o cupom dá 10% em todo o site, inclusive no Outlet.",
+      "Quer pagar no Pix: os 5% entram depois, sobre o total que já tem o cupom."
+    ],
+    "skipIf": [
+      "Vai comprar pelo Mercado Livre: o cupom não vale lá, e vale o preço do anúncio.",
+      "Encontrou promoção da loja com cupom próprio: ela não soma com o CECILIA10, então compare o total no resumo."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {

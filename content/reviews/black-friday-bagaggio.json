@@ -329,7 +329,7 @@
       "heading": "Cupom na sacola: a conta com o Pix",
       "paragraphs": [
         "No nosso teste com a [Mala de Bordo PP Downtown Preta](https://www.bagaggio.com.br/mala-de-bordo-pp-8-kg-abs-4-rodas-185-downtown--preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), o preço de R$ 179,90 caiu para R$ 161,91 com o CECILIA10, que dá 10% OFF em todo o site, e para R$ 153,81 no Pix. Na [Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), foram R$ 249,90, R$ 224,91 com o cupom e R$ 213,66 no Pix. Os 5% do Pix entram depois do cupom, sobre o total já com o desconto.",
-        "O cupom entra no campo \"Cupom de desconto\" do resumo do pedido. O outro campo, \"Código de vendedor(a) ou influenciador(a)\", não é para ele. O passo a passo está em [Cupom Bagaggio: como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+        "Na sacola, cole o CECILIA10 no campo \"Cupom de desconto\" do resumo do pedido e confira o desconto no resumo antes de pagar. O outro campo, \"Código de vendedor(a) ou influenciador(a)\", não é para ele. O passo a passo está em [Cupom Bagaggio: como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
       ],
       "bullets": [
         "Pix: os 5% depois do cupom entraram na Detroit, na Downtown, no conjunto Malta e na mochila Explore; confirme a condição do produto escolhido antes de pagar.",
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "heading": "Comprar agora ou esperar a sexta?",
+      "heading": "Vale a pena comprar agora ou esperar a sexta?",
       "paragraphs": [
         "Nas malas da tabela, a campanha manteve os preços de venda de outubro, e o CECILIA10 continua tirando 10% sobre o total. A campanha ser anunciada não garante preço menor na sexta. Para avaliar uma oferta nova, compare a mesma variante, a forma de pagamento e o frete.",
         "Se precisa comprar agora, confira a linha de desconto do CECILIA10 e o total no Pix. Para o Leve 3 Pague 2, compare o custo da seleção inteira e veja quais produtos participam; não leve uma peça a mais só pelo slogan. Se pode esperar, guarde o total desta consulta para comparar na sexta. As condições do código estão na [página da Bagaggio](/cupons/bagaggio)."
@@ -387,13 +387,14 @@
         "objectFit": "square",
         "aspectRatio": 1.0,
         "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-vinho/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
-      }
+      },
+      "emphasis": "Se eu precisasse da mala agora, compraria a Detroit com o CECILIA10 e conferiria o total no Pix; se pudesse esperar, guardaria esta consulta e só trocaria de ideia se o preço de sexta fosse menor."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. Na Black Friday ele tirou 10% sobre o preço de venda nas sacolas que testamos, em mala, conjunto e mochila; confira a linha do desconto antes de pagar.",
         "Quando começa e quanto dura a Black Friday da Bagaggio? O menu do site já traz a Black Friday, com até 70% OFF e Leve 3 Pague 2. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
-        "O cupom CECILIA10 vale na Black Friday? Vale. O cupom Bagaggio CECILIA10 tirou 10% sobre o preço de venda nas sacolas que testamos, em mala, conjunto e mochila. Confira a linha do desconto antes de pagar.",
         "O Leve 3 Pague 2 soma com o cupom? O Kit 3 Mochilas Explore é um produto à parte, que custa o preço de duas mochilas, e nele o CECILIA10 entra com 10%. Para a campanha do menu, confira a linha do desconto na sacola antes de pagar.",
         "Conjunto de malas ou malas avulsas na Black Friday da Bagaggio? Dos sete conjuntos que comparamos, só o Malta branco e marrom ficou abaixo das avulsas. O Malta preto, o Santiago e o Cartagena ficaram acima, e três empataram. Confirme o total na sacola.",
         "Qual a mala de bordo mais barata da Bagaggio na Black Friday? Entre as cinco que comparamos, a Downtown PP, por cerca de R$ 160 com o cupom, da marca Travelcross e sem garantia vitalícia. Com a marca Bagaggio e a garantia, a mais barata da seleção é a Detroit, por cerca de R$ 225 com o cupom.",
@@ -403,6 +404,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Precisa de mala agora: a campanha manteve os preços de venda de outubro, e o cupom continua tirando 10%.",
+      "Quer a mala de bordo mais barata da marca Bagaggio com garantia vitalícia: a Detroit."
+    ],
+    "skipIf": [
+      "Pode esperar a sexta e quer comparar a mesma variante, a forma de pagamento e o frete antes de fechar.",
+      "Pensa em conjunto só pelo nome: some as malas avulsas na sacola, porque só o Malta branco e marrom saiu abaixo delas."
+    ]
+  },
   "pros": [
     "O CECILIA10 tirou 10% sobre o preço de venda em todas as sacolas testadas, em mala de bordo, conjunto de malas e mochila",
     "A retirada em loja saiu sem custo nas capitais simuladas, e a entrega em casa de uma mala de bordo ficou entre cerca de R$ 27 e R$ 32",
