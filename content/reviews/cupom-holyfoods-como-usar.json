@@ -35,6 +35,7 @@
       "heading": "O que é o EMCASA",
       "paragraphs": [
         "Se a compra é no site oficial da HolyFoods, o [cupom HolyFoods](/cupons/holyfoods) da parceria é o EMCASA: 15% OFF em todo o site, de sopa e macarrão a risoto e pack. A HolyFoods vende refeições para preparar em casa, que se guardam fechadas na despensa; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
+        "O cupom vale para tudo o que a loja vende: as sopas [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os macs [Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os risotos [Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e os packs de sopa, como o [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e o [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz). Na consulta mais recente, cada avulso estava por R$ 13,93 e cada pack por R$ 41,93, já com os 30% da campanha da loja.",
         "Quem busca cupom de primeira compra encontra aqui o nosso código e nenhum outro: o EMCASA é o que a parceria dá, e é o que a linha de desconto vai mostrar. O botão desta página leva à loja, mas não aplica o código: você copia o EMCASA e digita na hora de finalizar.",
         "O desconto sai do preço que está no carrinho. Nos dois testes da Black, os 15% foram aplicados ao preço que já tinha a promoção da loja. Confira o valor descontado e o total antes de pagar.",
         "No vídeo do fim do artigo, a Cecília prepara o Mac Queijo na panela."
@@ -50,14 +51,20 @@
     {
       "heading": "2. Digite o EMCASA e clique em \"Adicionar\"",
       "paragraphs": [
-        "Na tela da loja, procure \"Inserir cupom de desconto\". Ao clicar, abre o campo \"Código do cupom\": digite EMCASA, sem espaço antes ou depois, e clique em \"Adicionar\". Copiar pelo botão desta página evita erro de digitação."
+        "Na tela da loja, procure \"Inserir cupom de desconto\" no resumo do pedido. Ao clicar, abre o campo \"Código do cupom\": digite EMCASA, sem espaço antes ou depois, e clique em \"Adicionar\". Copiar pelo botão desta página evita erro de digitação. Não use o campo \"Cartão-presente\": ele não aceita o EMCASA.",
+        "Se aparecer outro código já aplicado no resumo, remova-o e cole o EMCASA. No nosso teste mais recente, a tela não trazia nenhum código pré-preenchido; em outro, a loja abriu com um cupom de campanha no campo, e foi preciso tirá-lo."
       ]
     },
     {
       "heading": "3. Confira o desconto antes de pagar",
       "paragraphs": [
         "Confira três coisas no resumo do pedido: a linha de desconto (nos nossos testes, \"Cupom de desconto\" ou \"Descontos\"), o valor de cada item e o total. Quando o código entra, a linha mostra 15% sobre os produtos e o total acompanha. Se a linha não aparece, o preço é o de antes: volte ao passo 2 antes de pagar."
-      ]
+      ],
+      "image": "/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp",
+      "imageAlt": "Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado",
+      "imageCaption": "O EMCASA aplicado no resumo da compra da HolyFoods, num pedido de teste. Os valores mudam conforme o seu pedido.",
+      "imageAspectRatio": 1.341,
+      "imageFit": "contain"
     },
     {
       "heading": "Por que o carrinho não aceita o código",
@@ -117,7 +124,7 @@
     {
       "heading": "Frete grátis e kits",
       "paragraphs": [
-        "O cupom não dá frete grátis: o frete grátis é da loja, por um mínimo de cada região, e o EMCASA só tira 15% dos produtos. A loja informa: na Black, o frete é grátis a partir de R$ 199 em SP; R$ 249 em RJ, MG, DF e PR; R$ 289 em GO, SC, ES e RS. Nos demais estados, o frete e o prazo aparecem no checkout. O mínimo conta o preço depois dos descontos dos produtos. Se o seu carrinho está perto do mínimo, olhe a linha do frete no resumo depois de aplicar o código: é ali que a loja mostra se o pedido ganhou o frete.",
+        "O cupom não dá frete grátis: o frete grátis é da loja, por um mínimo de cada região, e o EMCASA só tira 15% dos produtos. A loja informa: na Black, o frete é grátis a partir de R$ 199 em SP; R$ 249 em RJ, MG, DF e PR; R$ 289 em GO, SC, ES e RS. Nos demais estados, o frete e o prazo aparecem no checkout. Não conseguimos confirmar se o mínimo conta o valor antes ou depois do EMCASA: o frete só aparece depois de CPF e endereço, e o valor para o seu CEP está no checkout.",
         "Os kits da Black (Descoberta, Rotina Resolvida e Despensa Cheia) não têm página de produto: o botão da home põe cada item avulso no carrinho. O segundo teste da tabela tem exatamente a composição e o preço do Despensa Cheia, e o código entrou. Os outros dois kits entram do mesmo jeito, como itens avulsos, mas não passaram pelo nosso checkout: a linha de desconto é quem confirma."
       ],
       "images": [
@@ -128,6 +135,13 @@
           "objectFit": "square",
           "href": "https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
         }
+      ]
+    },
+    {
+      "heading": "Pix e parcelamento",
+      "paragraphs": [
+        "A HolyFoods aceita Pix e cartão de crédito. No cartão, o parcelamento vai até 3x sem juros: num pedido de R$ 205,80, por exemplo, o checkout mostrou 3x de R$ 68,60 sem juros.",
+        "Hoje a loja não mostra desconto extra no Pix, então não some um Pix ao EMCASA: o desconto do seu pedido é o dos 15% do cupom, mais a promoção que já estiver no preço. Se a loja passar a mostrar um desconto no Pix, ele aparece na hora do pagamento, e a conta vale o que o checkout mostrar."
       ]
     },
     {
@@ -143,9 +157,11 @@
       ],
       "bullets": [
         "**Digitou no carrinho.** O carrinho lateral não tem campo de cupom. Vá em \"Finalizar compra\" e use \"Inserir cupom de desconto\".",
+        "**Colou no campo \"Cartão-presente\".** Ele só aceita cartão-presente. O EMCASA vai em \"Inserir cupom de desconto\", no campo \"Código do cupom\".",
         "**Esqueceu de clicar em \"Adicionar\".** Só digitar não basta: o desconto aparece no resumo depois do clique.",
         "**Código com espaço.** Digite EMCASA sem espaço antes ou depois. O botão de copiar desta página evita isso.",
         "**Entrou pelo link da parceria e esperou o código pronto.** O link abre a loja, mas não aplica o cupom: copie o EMCASA e digite no checkout.",
+        "**Outro código já aplicado.** Se o resumo mostrar um cupom que você não digitou, remova-o e cole o EMCASA em \"Código do cupom\".",
         "**Aviso de uso.** Se o checkout mostrar aviso de que o cupom já foi usado, a recusa vem da loja: não prometemos que o código vale mais de uma vez no mesmo e-mail.",
         "**Loja física, revenda ou Mercado Livre.** O código é da loja online."
       ],
@@ -157,7 +173,7 @@
       "heading": "Quando o cupom vale a pena",
       "paragraphs": [
         "Na compra pelo site oficial, o EMCASA dá 15% de desconto sobre os produtos. Aplique na tela de finalizar e confira o desconto. Os preços e os kits da campanha estão no [guia de Black Friday da HolyFoods](/reviews/black-friday-holyfoods).",
-        "Passe do cupom quando a compra é na loja física, na revenda ou no Mercado Livre, ou quando o checkout não mostra a linha do desconto. Antes de comprar pela primeira vez, leia [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel), com a empresa, a garantia de 30 dias e a reputação no Reclame Aqui."
+        "Passe do cupom quando a compra é na loja física, na revenda ou no Mercado Livre, ou quando o checkout não mostra a linha do desconto. Para quem compra pela primeira vez, a garantia de satisfação de 30 dias da loja aceita uma unidade aberta, desde que as demais estejam fechadas."
       ],
       "emphasis": "Nos dois testes, o EMCASA descontou R$ 10,47 e R$ 50,19. Para o seu pedido, compare o total com produtos e frete depois de aplicar o código."
     },
@@ -167,7 +183,9 @@
         "Tem cupom de primeira compra na HolyFoods? O nosso é o EMCASA: 15% OFF em todo o site, digitado na tela \"Finalizar compra\". Não prometemos outro código; o passo a passo está acima.",
         "O cupom EMCASA soma com a Black da HolyFoods? Nos nossos testes, sim: o código entrou sobre os 30% da campanha. Os números estão em \"Onde o código valeu\".",
         "O EMCASA vale nos kits da HolyFoods? Os kits entram no carrinho como itens avulsos, e um carrinho com a composição do Despensa Cheia aceitou o código. Confira a linha de desconto no checkout.",
+        "O que faço se já aparecer outro cupom no checkout? Remova o código que estiver aplicado, abra \"Inserir cupom de desconto\", cole o EMCASA em \"Código do cupom\" e clique em \"Adicionar\".",
         "Onde coloco o cupom na HolyFoods? Na tela \"Finalizar compra\", em \"Inserir cupom de desconto\". O carrinho lateral não tem esse campo.",
+        "Posso pagar no Pix ou parcelar na HolyFoods? A loja aceita Pix e cartão de crédito, com parcelamento em até 3x sem juros no cartão. Hoje ela não mostra desconto extra no Pix, então não conte com um Pix somado ao EMCASA.",
         "O cupom vale na loja física ou no Mercado Livre? Não: o EMCASA é da loja online. No Mercado Livre vale o preço do anúncio, que você vê [pelo link da marca](https://meli.la/2mjWEVp)."
       ]
     }
@@ -204,5 +222,6 @@
       "slug": "holyfoods-reclame-aqui-nota-reputacao"
     }
   ],
-  "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw"
+  "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw",
+  "updatedAt": "2026-11-22"
 }

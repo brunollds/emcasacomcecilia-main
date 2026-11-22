@@ -205857,7 +205857,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja vende",
         "paragraphs": [
-          "A loja vende refeições de despensa, como sopas, macarrões e risotos, além de aveia, mel e kits. As refeições exigem preparo; confira o modo e o tempo na embalagem de cada produto. O quadro mostra as linhas e os rendimentos publicados. Os preços estão na loja e, para a campanha, no artigo de Black Friday entre os relacionados."
+          "A loja vende refeições de despensa, como sopas, macarrões e risotos, em avulsos, packs e kits. A Super Aveia, nos dois sabores, estava esgotada na consulta mais recente e por isso não tem link de compra aqui. As refeições exigem preparo; confira o modo e o tempo na embalagem de cada produto. O quadro mostra as linhas e os rendimentos publicados. Os preços estão na loja e, para a campanha, no artigo de Black Friday entre os relacionados."
         ],
         "comparisonTable": {
           "headers": [
@@ -205867,22 +205867,22 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Sopa avulsa](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (Vovó, Low Carb, Detox, Canja da Mamãe)",
+              "Sopa avulsa ([Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Detox](https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz))",
               "1 sachê",
               "1 litro, 4 porções de 250 g depois de pronta"
             ],
             [
-              "[Pack de sopa](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (Vovó, Low Carb, Canja da Mamãe)",
+              "Pack de sopa ([Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz))",
               "10 sachês",
               "10 porções, uma por sachê"
             ],
             [
-              "[Risoto](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (Funghi, Al Mare, Queijo)",
+              "Risoto ([Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz))",
               "1 embalagem",
               "1 refeição, com 20 g de proteína"
             ],
             [
-              "[Mac](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (Queijo, Alfredo, Bolonha, Caipira)",
+              "Mac ([Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz))",
               "1 embalagem",
               "1 refeição, com 20 g de proteína"
             ],
@@ -205918,8 +205918,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega e frete",
         "paragraphs": [
-          "O prazo só fecha no checkout, pelo CEP. Depois da aprovação do pagamento, a loja leva até 3 dias úteis para preparar e postar o pedido, e o transporte, por transportadora contratada, soma a isso. Na Black, o frete grátis depende de um mínimo de compra que muda por estado, e o carrinho mostra a meta da sua região.",
-          "Esse é o ponto que mais pesa. No Reclame Aqui, o problema mais citado no perfil da HolyFoods é \"produto não recebido\", e as reclamações recentes falam de atraso, pedido marcado como entregue sem ter chegado, mercadoria faltando e cancelamento com reembolso. O que fazer:"
+          "O prazo só fecha no checkout, pelo CEP. Depois da aprovação do pagamento, a loja leva até 3 dias úteis para preparar e postar o pedido, e o transporte, por transportadora contratada, soma a isso. Na Black, o frete grátis depende de um mínimo de compra que muda por estado: R$ 199 em SP, R$ 249 em RJ, MG, DF e PR e R$ 289 em GO, SC, ES e RS; nos outros estados, o frete sai pelo CEP no checkout. O pagamento é por Pix ou cartão de crédito, com parcelamento em até 3x sem juros no cartão; hoje a loja não mostra desconto extra no Pix.",
+          "Esse é o ponto que mais pesa. No Reclame Aqui, o problema mais citado na aba Geral do perfil da HolyFoods, que soma até 3 anos, é \"produto não recebido\", e as reclamações recentes falam de atraso, pedido marcado como entregue sem ter chegado, mercadoria faltando e cancelamento com reembolso. O que fazer:"
         ],
         "bullets": [
           "Depois de pagar, guarde o número do pedido e use o \"Rastrear pedido\", no menu do site.",
@@ -205938,13 +205938,13 @@ export const reviewsData: unknown[] = [
           "**Garantia de satisfação, 30 dias corridos.** Vale mesmo com uma unidade aberta ou consumida, desde que as demais estejam fechadas. É sem custo, com reembolso integral dos produtos devolvidos, incluindo a unidade que você provou. O pedido também vai por e-mail."
         ],
         "postParagraphs": [
-          "A condição que muda a compra é a das unidades fechadas: se vai provar, abra uma só e guarde as outras lacradas até decidir. O reembolso volta pelo meio de pagamento da compra: no Pix, em até 7 dias úteis depois de validada a devolução; no cartão, pode aparecer em até duas faturas. Se preferir trocar, o novo item sai em até 30 dias corridos depois de conferida a devolução."
+          "A garantia da loja se soma ao direito legal de 7 dias. A condição que muda a compra é a das unidades fechadas: se vai provar, abra uma só e guarde as outras lacradas até decidir. O reembolso volta pelo meio de pagamento da compra: no Pix, em até 7 dias úteis depois de validada a devolução; no cartão, pode aparecer em até duas faturas. Se preferir trocar, o novo item sai em até 30 dias corridos depois de conferida a devolução."
         ]
       },
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "Em 05/11/2026, a HolyFoods tinha nota 7,5, Boa, na janela de maio a outubro. Das 251 reclamações recebidas, 136 tinham avaliação; entre as avaliadas, 91,1% foram resolvidas e 51,9% declararam intenção de voltar a fazer negócio. Todas as recebidas tinham resposta. Em 2025, a nota era 8,1, Ótima. Os períodos estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
+          "Na consulta de novembro de 2026, a HolyFoods tinha nota 7,6, reputação Boa, na aba de 6 meses. Das 252 reclamações recebidas, 141 tinham avaliação; entre as avaliadas, 91,4% foram resolvidas e 52,1% declararam intenção de voltar a fazer negócio. Todas as recebidas nessa aba tinham resposta. Em 2025, a nota era 8,1, Ótima. Os períodos estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -205957,14 +205957,14 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a HolyFoods e pode receber comissão pelas compras com o código EMCASA, que dá 15% OFF em todo o site da loja online. As condições vigentes estão na página do [cupom HolyFoods](/cupons/holyfoods).",
-          "O código entra só na tela \"Finalizar compra\", em \"Inserir cupom de desconto\", e não no carrinho. O link da parceria, que leva ao site da loja, não aplica o código: copie o EMCASA e cole nessa tela. O passo a passo com as telas está no artigo de como usar o cupom, entre os relacionados.",
+          "O código entra só na tela \"Finalizar compra\", em \"Inserir cupom de desconto\", e não no carrinho. O link da parceria, que leva ao site da loja, não aplica o código: copie o EMCASA e cole nessa tela. Se aparecer outro código já aplicado no resumo, remova-o e cole o EMCASA. O passo a passo com as telas está no artigo de como usar o cupom, entre os relacionados.",
           "A loja está com a Black da Holy, 30% de desconto no site todo, enquanto a campanha estiver no ar. Em carrinhos de sopas, risotos e macarrões avulsos e em packs, o EMCASA entrou por cima dos 30% e tirou exatos 15% do total. O kit da Black entra na sacola como itens avulsos, e fora da campanha a loja tem desconto progressivo por quantidade; nesses dois casos, confira a linha de desconto antes de pagar, e se o EMCASA não aparecer, não conte com ele. Os 30% e os kits estão no [artigo da Black Friday da HolyFoods](/reviews/black-friday-holyfoods)."
         ]
       },
       {
         "heading": "HolyFoods é confiável? O que pesa",
         "paragraphs": [
-          "Pelos dados públicos, dá para comprar: o CNPJ é ativo e igual ao do perfil no Reclame Aqui, o site e o checkout são da própria loja, a política de reembolso está escrita e a garantia de 30 dias aceita unidade provada. Do lado do Reclame Aqui, a empresa responde a todas as reclamações e resolve cerca de nove em cada dez das avaliadas nos últimos 6 meses.",
+          "Pelos dados públicos, dá para comprar: o CNPJ é ativo e igual ao do perfil no Reclame Aqui, o site e o checkout são da própria loja, a política de reembolso está escrita e a garantia de 30 dias aceita unidade provada. Do lado do Reclame Aqui, a empresa responde a todas as reclamações e resolve cerca de nove em cada dez das avaliadas nos últimos 6 meses (91,4%).",
           "O ponto de atenção é a entrega: a queixa mais citada é pedido que não chegou, e a nota de 2025 para cá caiu. Se o prazo importa, compre com folga e use o rastreio. Este artigo fala da loja, não do cardápio: o que comer, e quanto, é conversa com o nutricionista.",
           "Se for comprar, entre pelo holyfoods.com.br, confira o CNPJ no rodapé, guarde o número do pedido e veja o desconto antes de pagar."
         ]
@@ -206014,9 +206014,11 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-holyfoods"
       }
     ],
-    "youtubeUrl": "https://youtube.com/shorts/cSGGCKqv4VU"
+    "youtubeUrl": "https://youtube.com/shorts/cSGGCKqv4VU",
+    "updatedAt": "2026-11-22"
   },
   {
+    "bodyDatesReason": "reclame-aqui",
     "id": 827,
     "slug": "holyfoods-reclame-aqui-nota-reputacao",
     "title": "HolyFoods no Reclame Aqui: nota, reputação e do que as pessoas reclamam",
@@ -206031,9 +206033,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "HolyFoods no Reclame Aqui: reputação Boa nos últimos 6 meses, nota 7,5 e 91,1% das avaliadas resolvidas. Do que as pessoas reclamam e o que fazer se o pedido der problema.",
-    "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. No Reclame Aqui: reputação Boa, nota 7,5, 91,1% das avaliadas resolvidas e as queixas mais comuns.",
+    "description": "HolyFoods no Reclame Aqui: reputação Boa nos últimos 6 meses, nota 7,6 e 91,4% das avaliadas resolvidas. Veja as queixas mais comuns e o que conferir se o pedido atrasar.",
+    "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. No Reclame Aqui: reputação Boa, nota 7,6, 91,4% das avaliadas resolvidas e as queixas mais comuns.",
     "publishedAt": "5 de novembro de 2026",
+    "updatedAt": "2026-11-22",
     "publishedAtISO": "2026-11-05",
     "draft": false,
     "isNew": true,
@@ -206045,20 +206048,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com atenção à entrega: na aba de seis meses, a HolyFoods tem reputação Boa, nota 7,5, todas as reclamações respondidas e 91,1% das avaliadas resolvidas. Pedido não recebido é a maior categoria de reclamações do perfil. Na loja online, o EMCASA dá 15% OFF em todo o site."
+          "Sim, com atenção à entrega: nos 6 meses até outubro de 2026, a HolyFoods tem reputação Boa, nota 7,6, 100% das reclamações respondidas e 91,4% de solução entre as avaliadas. O principal ponto de atenção é a entrega: produto não recebido lidera os problemas da aba Geral. O EMCASA dá 15% OFF no site da loja."
         ]
       },
       {
-        "heading": "Qual perfil olhar",
+        "heading": "A nota e os indicadores do período",
         "paragraphs": [
-          "No Reclame Aqui, a busca por \"holyfoods\", tudo junto, não acha nada; a busca por \"holy foods\", com espaço, acha. O perfil tem o nome HolyFoods, mas o endereço da página é empresa/holysoup, e é esse mesmo: o CNPJ dele é o 50.874.415/0001-62, o mesmo que aparece no rodapé do site da loja.",
-          "Se o CNPJ bate, você está no lugar certo. A empresa, o site oficial e a garantia estão em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel). Aqui ficam os números das reclamações."
-        ]
-      },
-      {
-        "heading": "Os números da HolyFoods",
-        "paragraphs": [
-          "Em 05/11/2026, a aba de 6 meses mostrava o atendimento mais recente. As outras três abas são períodos mais longos e sobrepostos, então compare os indicadores sem tratá-los como grupos independentes."
+          "A tabela reúne as quatro abas do [perfil da HolyFoods no Reclame Aqui](https://www.reclameaqui.com.br/empresa/holysoup/), lidas em novembro de 2026. As janelas se sobrepõem: os 6 meses estão dentro dos 12, e o ano de 2025 e a aba Geral também cobrem períodos em comum. Por isso, compare as colunas sem tratá-las como grupos independentes."
         ],
         "comparisonTable": {
           "headers": [
@@ -206078,52 +206074,59 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nota",
-              "7,5",
-              "7,5",
+              "7,6",
+              "7,6",
               "8,1",
               "7,9"
             ],
             [
               "Reclamações recebidas",
-              "251",
-              "524",
+              "252",
+              "525",
               "292",
-              "1.007"
+              "1.015"
             ],
             [
               "Respondidas",
               "100%",
               "100%",
               "100%",
-              "100%"
+              "99,8%"
             ],
             [
-              "Resolvidas entre as avaliadas",
-              "91,1%",
-              "87%",
+              "Aguardando resposta",
+              "0",
+              "0",
+              "0",
+              "2"
+            ],
+            [
+              "Avaliadas",
+              "141",
+              "313",
+              "218",
+              "675"
+            ],
+            [
+              "Resolvidas, entre as avaliadas",
+              "91,4%",
+              "87,2%",
               "88,1%",
-              "87,8%"
+              "87,7%"
             ],
             [
-              "Intenção de voltar, entre as avaliadas",
-              "51,9%",
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "52,1%",
               "56,7%",
               "67,9%",
-              "63,3%"
-            ],
-            [
-              "Reclamações avaliadas",
-              "136",
-              "308",
-              "218",
-              "666"
+              "63,2%"
             ],
             [
               "Nota média do consumidor",
-              "5,93",
-              "5,98",
+              "5,96",
+              "6",
               "7,11",
-              "6,6"
+              "6,59"
             ],
             [
               "Tempo médio de resposta",
@@ -206133,46 +206136,54 @@ export const reviewsData: unknown[] = [
               "2 dias e 5 h"
             ]
           ],
-          "caption": "Abas do perfil da HolyFoods no Reclame Aqui em 05/11. \"2025\" é o ano inteiro; \"Geral\" é todo o histórico do perfil."
+          "caption": "HolyFoods no Reclame Aqui por aba. 6 meses: de maio a outubro de 2026. 12 meses: de novembro de 2025 a outubro de 2026. 2025: o ano inteiro. Geral: até 3 anos, de novembro de 2023 a novembro de 2026. Resolvidas e voltariam a fazer negócio são calculados sobre as avaliadas."
         },
         "postParagraphs": [
-          "Na aba de seis meses, 136 das 251 recebidas tinham avaliação. A resolução, a intenção de voltar e a nota do consumidor se referem a quem avaliou. A nota de reputação define a faixa Boa; a nota do consumidor é uma medida diferente, mostrada na tabela."
+          "As 252 reclamações dos 6 meses, as 525 de 12 meses e as 1.015 da aba Geral são números absolutos. Sem o total de pedidos da loja, eles não viram taxa de reclamação e não dizem se são muitas ou poucas."
         ]
       },
       {
-        "heading": "O que os períodos mostram",
+        "heading": "O que a nota e a faixa medem (e o que não medem)",
         "paragraphs": [
-          "Os números recentes são melhores em resolução e piores no resto. A aba de 6 meses tem a maior fatia de reclamações resolvidas do perfil, mas também a menor de gente que voltaria a comprar e a menor nota do consumidor.",
-          "Resolvida e \"voltaria\" são perguntas diferentes feitas a quem avalia a reclamação: uma pergunta se o caso foi resolvido; a outra, se a pessoa compraria de novo. Juntas, dizem que muita reclamação se encerra, mas nem sempre a pessoa sai satisfeita com o caminho.",
-          "Os últimos 6 meses já juntam quase tantas reclamações quanto 2025 inteiro, a reputação desceu um degrau, de Ótima para Boa, e caiu a fatia de quem voltaria a comprar. A tabela não explica o porquê. Para quem compra hoje, vale a aba recente; o ano passado mostra que a loja já teve números melhores."
+          "A nota do Reclame Aqui mede como a empresa atende as reclamações registradas na plataforma. Ela não mede o sabor, a composição nem a qualidade dos produtos, e muda com o tempo: confira o perfil no dia em que for comprar.",
+          "Boa e Ótima são as faixas que a plataforma dá à nota do período. A HolyFoods está na Boa nos 6 meses, nos 12 meses e na aba Geral, e na Ótima em 2025. O perfil não exibe o selo Empresa Verificada nem o RA1000: é a ausência de um selo, não uma nota baixa.",
+          "A nota 7,6 é a que a plataforma calcula para o período. A nota média do consumidor, 5,96 nos 6 meses, é outra coisa: é a média que as pessoas deram ao atendimento ao avaliar a reclamação, depois de finalizada. Resolvidas e voltariam a fazer negócio valem só para as avaliadas, 141 nos 6 meses, e não para todos os clientes da loja."
         ]
       },
       {
-        "heading": "Do que as pessoas reclamam",
+        "heading": "Pontos positivos identificados",
         "paragraphs": [
-          "Produto não recebido é a maior categoria do perfil: 29% dos principais problemas, que o Reclame Aqui conta numa janela de até 3 anos, mais longa que a aba de 6 meses. O resto se espalha em categorias menores.",
-          "Lendo os títulos das reclamações mais recentes, os temas se repetem em três grupos: entrega (pedido que não chegou, atraso, pedido que não foi despachado, pedido marcado como entregue pela transportadora sem ter chegado), mercadoria faltando na caixa e pedido de cancelamento com reembolso por falta de entrega. Os títulos mostram o assunto; não dizem quantas pessoas se queixam de cada coisa.",
-          "Regra prática, sem teste nosso, para um pedido de sachês e embalagens fechadas: fotografe a caixa ainda fechada e confira as quantidades antes de guardar na despensa. É a prova que ajuda quando falta item."
-        ]
-      },
-      {
-        "heading": "Como a loja responde",
-        "paragraphs": [
-          "Responde a tudo: nas quatro abas, 100% das reclamações têm resposta da loja. O tempo médio nos últimos 6 meses é de 1 dia e 15 horas, mais lento que em 2025 e mais rápido que na aba de 12 meses.",
-          "A resposta da empresa e a resolução avaliada pelo consumidor são indicadores diferentes. Na janela recente da tabela, a resolução entre avaliadas era mais alta; a intenção de voltar e a nota do consumidor eram menores que nas outras abas."
-        ]
-      },
-      {
-        "heading": "Se o pedido der problema",
-        "paragraphs": [
-          "Comece pelo rastreio e pelo atendimento da loja, com o número do pedido em mãos. Separe o problema de entrega de uma devolução de produto já recebido:"
+          "O perfil mostra estes pontos a favor da HolyFoods:"
         ],
         "bullets": [
-          "**1. Rastreie o pedido.** No menu do site há o \"Rastrear pedido\", que acompanha a entrega. A loja informa: a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o prazo do transporte soma a isso; o prazo e o frete aparecem no checkout, pelo CEP.",
-          "**2. Fale no WhatsApp da loja,** de segunda a sexta, das 9h às 18h.",
-          "**3. Escreva para contato@holyfoods.com.br** com o número do pedido e, se houve avaria, item diferente ou falta, com fotos. Se a embalagem chegar claramente violada, dá para recusá-la na entrega.",
-          "**4. Para produto recebido, veja a devolução aplicável.** O arrependimento vale 7 dias depois do recebimento; a garantia de satisfação vale 30 dias corridos, com uma unidade aberta se as demais estiverem fechadas. Para pedido não entregue, informe a ocorrência ao atendimento em vez de aguardar esses prazos.",
-          "**5. Se o atendimento não resolver, registre a reclamação.** Guarde número do pedido, rastreio e conversas para descrever o ocorrido."
+          "Reputação Boa e nota 7,6 nos 6 meses, e reputação Ótima com nota 8,1 em 2025.",
+          "100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025, sem nenhuma aguardando. Na aba Geral, são 99,8% respondidas e 2 aguardando resposta.",
+          "Tempo médio de resposta de 1 dia e 15 horas nos 6 meses e de 1 dia e 9 horas em 2025.",
+          "Entre as 141 reclamações avaliadas nos 6 meses, 91,4% aparecem como resolvidas. Esse índice vale só para as avaliadas.",
+          "Na aba Geral, 63,2% de quem avaliou diz que voltaria a fazer negócio, também entre as avaliadas.",
+          "O perfil informa que a empresa está no Reclame Aqui há 5 anos e a coloca em 9º lugar no ranking de melhor empresa da categoria Alimentos Diet e Light."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "Nos 6 meses, a nota (7,6), a nota média do consumidor (5,96) e a parcela que voltaria a fazer negócio (52,1% das avaliadas) ficam abaixo das de 2025 (8,1, 7,11 e 67,9%). A tabela mostra a queda, mas não explica o motivo.",
+          "Os principais problemas vêm de outra aba. Na Geral, que soma até 3 anos, o perfil lista: problema Produto não recebido, com 29,26%; produto Outro Tipo de produto/Serviço, com 9,46%; e categoria Não categorizado, com 8,87%. Esses percentuais são da aba Geral e não se aplicam aos 6 meses. O Reclame Aqui publica só o agrupamento, e não quantas pessoas se queixam de cada coisa dentro dele.",
+          "Para quem compra, o recado prático é a entrega: confira o rastreio e as quantidades ao receber, como no próximo capítulo."
+        ]
+      },
+      {
+        "heading": "Como a loja responde e o que conferir antes de comprar",
+        "paragraphs": [
+          "O perfil tem o nome HolyFoods, mas o endereço da página é empresa/holysoup. O CNPJ dele é o 50.874.415/0001-62, o mesmo do rodapé do site da loja. Se a busca por \"holyfoods\" não achar, tente \"holy foods\", com espaço. Quem a loja é, o site oficial e a garantia estão em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel).",
+          "Para um pedido com problema, o caminho começa na própria loja, com o número do pedido em mãos:"
+        ],
+        "bullets": [
+          "**Confira o rastreio.** No menu do site há o \"Rastrear pedido\". A loja informa que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout.",
+          "**Fale com a loja.** Os canais são o WhatsApp, o e-mail contato@holyfoods.com.br e o telefone (11) 4003 8025. Informe o número do pedido e, se houve avaria, item diferente ou falta, mande fotos.",
+          "**Confira a caixa ao receber.** Veja a embalagem, os itens e as quantidades. Se a caixa chegar claramente violada ou avariada e for seguro, recuse-a na entrega e avise a loja.",
+          "**Guarde as provas.** Número do pedido, rastreio, fotos da caixa fechada e das quantidades e as conversas com a loja.",
+          "**Para produto recebido, veja a devolução.** O arrependimento vale 7 dias a partir do recebimento, pelo e-mail da loja com o número do pedido. A garantia de satisfação da loja vale 30 dias corridos, mesmo com uma unidade aberta, e se soma ao direito dos 7 dias."
         ],
         "images": [
           {
@@ -206185,32 +206196,23 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Parceria e cupom",
+        "heading": "Vale a pena comprar na HolyFoods?",
         "paragraphs": [
+          "De um lado, reputação Boa, todas as reclamações dos 6 meses respondidas e 91,4% de solução entre as avaliadas. Do outro, a entrega concentra os problemas da aba Geral, e a nota e a vontade de voltar a comprar caíram em relação a 2025. Dá para comprar com o pedido acompanhado de perto.",
           "O Em Casa com Cecília tem parceria com a HolyFoods e pode receber comissão pelas compras feitas com o EMCASA, o [cupom HolyFoods](/cupons/holyfoods). Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
-          "O cupom dá 15% OFF em todo o site e entra na tela \"Finalizar compra\", no campo \"Inserir cupom de desconto\", não no carrinho. Nos nossos testes, com avulsos e packs que já estavam com os 30% da Black da Holy, o EMCASA entrou por cima da promoção. O kit entra na sacola como os produtos avulsos; de todo jeito, confira a linha de desconto no checkout antes de pagar. O link da parceria não aplica o código: copie o EMCASA e cole na tela de finalizar. O passo a passo está em [Cupom HolyFoods: como usar](/reviews/cupom-holyfoods-como-usar)."
-        ]
-      },
-      {
-        "heading": "Dá para confiar na HolyFoods: o veredito",
-        "paragraphs": [
-          "Dá, com o pedido acompanhado de perto. O perfil está na faixa Boa e responde a todas as reclamações. Entre as avaliadas da aba de seis meses, cerca de nove em cada dez foram resolvidas. A entrega é o principal ponto de atenção, e nota e intenção de voltar estão abaixo das de 2025. A tabela do início traz cada período.",
+          "O cupom dá 15% OFF no site todo e entra só na tela \"Finalizar compra\", em \"Inserir cupom de desconto\", não no carrinho. O link da parceria não aplica o código: copie o EMCASA e cole nessa tela. O passo a passo está em [Cupom HolyFoods: como usar](/reviews/cupom-holyfoods-como-usar).",
           "A Cecília comprou um kit da HolyFoods pelo TikTok Shop antes da parceria: a abertura da caixa e o risoto feito em casa estão no vídeo do fim do artigo."
-        ],
-        "bullets": [
-          "O que conferir no dia: o perfil empresa/holysoup com o nome HolyFoods, o CNPJ 50.874.415/0001-62 e a aba de 6 meses.",
-          "O que guardar: número do pedido, fotos da caixa e das quantidades ao receber e as conversas com a loja.",
-          "Se o atendimento não resolver: registre o ocorrido com número do pedido, rastreio e conversas guardadas."
         ],
         "emphasis": "Loja que responde a tudo e resolve a maior parte das avaliadas passa no teste. O cuidado que fica é com a entrega: acompanhe o pedido do começo ao fim."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "HolyFoods é confiável no Reclame Aqui? Sim, com atenção à entrega: a reputação da aba de seis meses é Boa e a loja responde a todas as reclamações. Os números de cada período estão no capítulo \"Os números da HolyFoods\".",
-          "O perfil holysoup no Reclame Aqui é o da HolyFoods? Sim: o endereço do perfil é empresa/holysoup, mas o nome na página é HolyFoods e o CNPJ é o mesmo do rodapé do site. Para achar, busque \"holy foods\", com espaço.",
-          "O que fazer se o pedido da HolyFoods não chegou? Consulte o rastreio e fale com a loja pelo WhatsApp ou por contato@holyfoods.com.br, com o número do pedido. Se não resolver, guarde os registros para reclamar; a garantia de satisfação trata de produto recebido.",
-          "Quanto tempo a HolyFoods leva para responder no Reclame Aqui? Na aba de seis meses, a média é de 1 dia e 15 horas, e isso não é um prazo garantido."
+          "HolyFoods é confiável no Reclame Aqui? Dá para comprar, com atenção à entrega: a reputação é Boa nos 6 meses, a loja responde a quase todas as reclamações e produto não recebido lidera os problemas da aba Geral.",
+          "Qual a nota da HolyFoods no Reclame Aqui? Nos 6 meses e nos 12 meses, 7,6; em 2025, 8,1; na aba Geral, 7,9. A nota muda com o tempo, então confira o perfil.",
+          "A HolyFoods tem selo Empresa Verificada ou RA1000? O perfil não mostra nenhum dos dois. A reputação aparece como Boa nos 6 meses e como Ótima em 2025.",
+          "A HolyFoods responde e resolve as reclamações? Respondeu 100% nos 6 meses, em média em 1 dia e 15 horas. Entre as 141 avaliadas, 91,4% aparecem como resolvidas; o índice vale só para as avaliadas.",
+          "O que fazer se o pedido da HolyFoods não chegou? Consulte o rastreio e fale com a loja pelo WhatsApp ou por contato@holyfoods.com.br, com o número do pedido. A garantia de 30 dias trata de produto já recebido."
         ]
       }
     ],
@@ -206219,10 +206221,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você acompanha o pedido do pagamento ao recebimento e guarda o número, as fotos e as conversas com a loja.",
-        "O que pesa para você é a loja responder e encerrar a maioria das reclamações."
+        "O que pesa para você é a loja responder e encerrar a maioria das reclamações avaliadas."
       ],
       "skipIf": [
-        "Um atraso ou uma falta de item estraga a compra, porque entrega é a maior queixa do perfil.",
+        "Um atraso ou uma falta de item estraga a compra, porque entrega concentra os problemas do perfil.",
         "A tendência dos últimos meses pesa mais para você do que o histórico: nota e vontade de voltar caíram em relação a 2025."
       ]
     },
@@ -206285,6 +206287,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o EMCASA",
         "paragraphs": [
           "Se a compra é no site oficial da HolyFoods, o [cupom HolyFoods](/cupons/holyfoods) da parceria é o EMCASA: 15% OFF em todo o site, de sopa e macarrão a risoto e pack. A HolyFoods vende refeições para preparar em casa, que se guardam fechadas na despensa; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
+          "O cupom vale para tudo o que a loja vende: as sopas [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os macs [Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os risotos [Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e [Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e os packs de sopa, como o [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e o [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz). Na consulta mais recente, cada avulso estava por R$ 13,93 e cada pack por R$ 41,93, já com os 30% da campanha da loja.",
           "Quem busca cupom de primeira compra encontra aqui o nosso código e nenhum outro: o EMCASA é o que a parceria dá, e é o que a linha de desconto vai mostrar. O botão desta página leva à loja, mas não aplica o código: você copia o EMCASA e digita na hora de finalizar.",
           "O desconto sai do preço que está no carrinho. Nos dois testes da Black, os 15% foram aplicados ao preço que já tinha a promoção da loja. Confira o valor descontado e o total antes de pagar.",
           "No vídeo do fim do artigo, a Cecília prepara o Mac Queijo na panela."
@@ -206300,14 +206303,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2. Digite o EMCASA e clique em \"Adicionar\"",
         "paragraphs": [
-          "Na tela da loja, procure \"Inserir cupom de desconto\". Ao clicar, abre o campo \"Código do cupom\": digite EMCASA, sem espaço antes ou depois, e clique em \"Adicionar\". Copiar pelo botão desta página evita erro de digitação."
+          "Na tela da loja, procure \"Inserir cupom de desconto\" no resumo do pedido. Ao clicar, abre o campo \"Código do cupom\": digite EMCASA, sem espaço antes ou depois, e clique em \"Adicionar\". Copiar pelo botão desta página evita erro de digitação. Não use o campo \"Cartão-presente\": ele não aceita o EMCASA.",
+          "Se aparecer outro código já aplicado no resumo, remova-o e cole o EMCASA. No nosso teste mais recente, a tela não trazia nenhum código pré-preenchido; em outro, a loja abriu com um cupom de campanha no campo, e foi preciso tirá-lo."
         ]
       },
       {
         "heading": "3. Confira o desconto antes de pagar",
         "paragraphs": [
           "Confira três coisas no resumo do pedido: a linha de desconto (nos nossos testes, \"Cupom de desconto\" ou \"Descontos\"), o valor de cada item e o total. Quando o código entra, a linha mostra 15% sobre os produtos e o total acompanha. Se a linha não aparece, o preço é o de antes: volte ao passo 2 antes de pagar."
-        ]
+        ],
+        "image": "/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp",
+        "imageAlt": "Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado",
+        "imageCaption": "O EMCASA aplicado no resumo da compra da HolyFoods, num pedido de teste. Os valores mudam conforme o seu pedido.",
+        "imageAspectRatio": 1.341,
+        "imageFit": "contain"
       },
       {
         "heading": "Por que o carrinho não aceita o código",
@@ -206367,7 +206376,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis e kits",
         "paragraphs": [
-          "O cupom não dá frete grátis: o frete grátis é da loja, por um mínimo de cada região, e o EMCASA só tira 15% dos produtos. A loja informa: na Black, o frete é grátis a partir de R$ 199 em SP; R$ 249 em RJ, MG, DF e PR; R$ 289 em GO, SC, ES e RS. Nos demais estados, o frete e o prazo aparecem no checkout. O mínimo conta o preço depois dos descontos dos produtos. Se o seu carrinho está perto do mínimo, olhe a linha do frete no resumo depois de aplicar o código: é ali que a loja mostra se o pedido ganhou o frete.",
+          "O cupom não dá frete grátis: o frete grátis é da loja, por um mínimo de cada região, e o EMCASA só tira 15% dos produtos. A loja informa: na Black, o frete é grátis a partir de R$ 199 em SP; R$ 249 em RJ, MG, DF e PR; R$ 289 em GO, SC, ES e RS. Nos demais estados, o frete e o prazo aparecem no checkout. Não conseguimos confirmar se o mínimo conta o valor antes ou depois do EMCASA: o frete só aparece depois de CPF e endereço, e o valor para o seu CEP está no checkout.",
           "Os kits da Black (Descoberta, Rotina Resolvida e Despensa Cheia) não têm página de produto: o botão da home põe cada item avulso no carrinho. O segundo teste da tabela tem exatamente a composição e o preço do Despensa Cheia, e o código entrou. Os outros dois kits entram do mesmo jeito, como itens avulsos, mas não passaram pelo nosso checkout: a linha de desconto é quem confirma."
         ],
         "images": [
@@ -206378,6 +206387,13 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
           }
+        ]
+      },
+      {
+        "heading": "Pix e parcelamento",
+        "paragraphs": [
+          "A HolyFoods aceita Pix e cartão de crédito. No cartão, o parcelamento vai até 3x sem juros: num pedido de R$ 205,80, por exemplo, o checkout mostrou 3x de R$ 68,60 sem juros.",
+          "Hoje a loja não mostra desconto extra no Pix, então não some um Pix ao EMCASA: o desconto do seu pedido é o dos 15% do cupom, mais a promoção que já estiver no preço. Se a loja passar a mostrar um desconto no Pix, ele aparece na hora do pagamento, e a conta vale o que o checkout mostrar."
         ]
       },
       {
@@ -206393,9 +206409,11 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Digitou no carrinho.** O carrinho lateral não tem campo de cupom. Vá em \"Finalizar compra\" e use \"Inserir cupom de desconto\".",
+          "**Colou no campo \"Cartão-presente\".** Ele só aceita cartão-presente. O EMCASA vai em \"Inserir cupom de desconto\", no campo \"Código do cupom\".",
           "**Esqueceu de clicar em \"Adicionar\".** Só digitar não basta: o desconto aparece no resumo depois do clique.",
           "**Código com espaço.** Digite EMCASA sem espaço antes ou depois. O botão de copiar desta página evita isso.",
           "**Entrou pelo link da parceria e esperou o código pronto.** O link abre a loja, mas não aplica o cupom: copie o EMCASA e digite no checkout.",
+          "**Outro código já aplicado.** Se o resumo mostrar um cupom que você não digitou, remova-o e cole o EMCASA em \"Código do cupom\".",
           "**Aviso de uso.** Se o checkout mostrar aviso de que o cupom já foi usado, a recusa vem da loja: não prometemos que o código vale mais de uma vez no mesmo e-mail.",
           "**Loja física, revenda ou Mercado Livre.** O código é da loja online."
         ],
@@ -206407,7 +206425,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quando o cupom vale a pena",
         "paragraphs": [
           "Na compra pelo site oficial, o EMCASA dá 15% de desconto sobre os produtos. Aplique na tela de finalizar e confira o desconto. Os preços e os kits da campanha estão no [guia de Black Friday da HolyFoods](/reviews/black-friday-holyfoods).",
-          "Passe do cupom quando a compra é na loja física, na revenda ou no Mercado Livre, ou quando o checkout não mostra a linha do desconto. Antes de comprar pela primeira vez, leia [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel), com a empresa, a garantia de 30 dias e a reputação no Reclame Aqui."
+          "Passe do cupom quando a compra é na loja física, na revenda ou no Mercado Livre, ou quando o checkout não mostra a linha do desconto. Para quem compra pela primeira vez, a garantia de satisfação de 30 dias da loja aceita uma unidade aberta, desde que as demais estejam fechadas."
         ],
         "emphasis": "Nos dois testes, o EMCASA descontou R$ 10,47 e R$ 50,19. Para o seu pedido, compare o total com produtos e frete depois de aplicar o código."
       },
@@ -206417,7 +206435,9 @@ export const reviewsData: unknown[] = [
           "Tem cupom de primeira compra na HolyFoods? O nosso é o EMCASA: 15% OFF em todo o site, digitado na tela \"Finalizar compra\". Não prometemos outro código; o passo a passo está acima.",
           "O cupom EMCASA soma com a Black da HolyFoods? Nos nossos testes, sim: o código entrou sobre os 30% da campanha. Os números estão em \"Onde o código valeu\".",
           "O EMCASA vale nos kits da HolyFoods? Os kits entram no carrinho como itens avulsos, e um carrinho com a composição do Despensa Cheia aceitou o código. Confira a linha de desconto no checkout.",
+          "O que faço se já aparecer outro cupom no checkout? Remova o código que estiver aplicado, abra \"Inserir cupom de desconto\", cole o EMCASA em \"Código do cupom\" e clique em \"Adicionar\".",
           "Onde coloco o cupom na HolyFoods? Na tela \"Finalizar compra\", em \"Inserir cupom de desconto\". O carrinho lateral não tem esse campo.",
+          "Posso pagar no Pix ou parcelar na HolyFoods? A loja aceita Pix e cartão de crédito, com parcelamento em até 3x sem juros no cartão. Hoje ela não mostra desconto extra no Pix, então não conte com um Pix somado ao EMCASA.",
           "O cupom vale na loja física ou no Mercado Livre? Não: o EMCASA é da loja online. No Mercado Livre vale o preço do anúncio, que você vê [pelo link da marca](https://meli.la/2mjWEVp)."
         ]
       }
@@ -206454,7 +206474,8 @@ export const reviewsData: unknown[] = [
         "slug": "holyfoods-reclame-aqui-nota-reputacao"
       }
     ],
-    "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw"
+    "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw",
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 829,
@@ -206476,7 +206497,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday HolyFoods: use o cupom EMCASA e tire mais 15% por cima dos 30% do site, na tela de finalizar a compra. Veja os kits, o frete e a garantia.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/black-friday-holyfoods-capa-v2.webp",
@@ -206501,7 +206522,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os kits da Black: o que vem em cada um e quanto custa por refeição",
         "paragraphs": [
-          "Kit maior não é desconto maior: os três custam a soma dos avulsos já com os 30%, e o que muda é a quantidade e se vem sopa. Eles ficam na home da loja, na seção \"Escolha seu kit da Black\", e para quem nunca pediu a loja indica o Descoberta. O nome de cada kit abaixo leva à home, porque o kit não tem página própria: o botão \"+ Adicionar\" põe cada item avulso na sacola. O link não aplica o cupom."
+          "Kit maior não é desconto maior: os três custam a soma dos avulsos já com os 30%, e o que muda é a quantidade e se vem sopa. Eles ficam na home da loja, na seção \"Escolha seu kit da Black\", e para quem nunca pediu a loja indica o Descoberta. O nome de cada kit abaixo leva à página de kits da loja, e cada item entra na sacola como avulso. O link não aplica o cupom."
         ],
         "comparisonTable": {
           "headers": [
@@ -206513,21 +206534,21 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Descoberta](https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (8 refeições)",
+              "[Descoberta](https://www.holyfoods.com.br/collections/kits?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz#kit-massas) (8 refeições)",
               "2 [Mac Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 2 [Mac Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 2 [Risoto Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e 2 [Risoto Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 159,20",
               "R$ 111,44",
               "R$ 13,93"
             ],
             [
-              "[Rotina Resolvida](https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (15 refeições)",
+              "[Rotina Resolvida](https://www.holyfoods.com.br/collections/kits?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz#kit-rotina) (15 refeições)",
               "4 Mac Queijo, 3 Mac Alfredo, 3 Risoto Funghi, 3 Risoto Al Mare e 2 [Risoto de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 298,50",
               "R$ 208,95",
               "R$ 13,93"
             ],
             [
-              "[Despensa Cheia](https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) (38 refeições)",
+              "[Despensa Cheia](https://www.holyfoods.com.br/collections/kits?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz#kit-despensa) (38 refeições)",
               "1 [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 1 [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), 6 Mac Queijo, 4 Mac Alfredo, 4 Risoto Funghi e 4 Risoto Al Mare",
               "R$ 478,00",
               "R$ 334,60",
@@ -206555,7 +206576,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avulsos e packs: o que cada embalagem rende",
         "paragraphs": [
-          "Fora dos kits, sopa avulsa, risoto e mac custam o mesmo na Black, então o que decide é o que cada embalagem rende."
+          "Fora dos kits, as sopas avulsas, o risoto e o mac custam o mesmo na Black, então o que decide é o que cada embalagem rende."
         ],
         "comparisonTable": {
           "headers": [
@@ -206567,6 +206588,18 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 19,90",
+              "R$ 13,93",
+              "1 litro, 4 porções de 250 g"
+            ],
+            [
+              "[Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 19,90",
+              "R$ 13,93",
+              "1 litro, 4 porções de 250 g"
+            ],
+            [
+              "[Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
               "R$ 19,90",
               "R$ 13,93",
               "1 litro, 4 porções de 250 g"
@@ -206588,6 +206621,18 @@ export const reviewsData: unknown[] = [
               "R$ 19,90",
               "R$ 13,93",
               "1 refeição, 380 g"
+            ],
+            [
+              "[Mac Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 19,90",
+              "R$ 13,93",
+              "1 refeição, 20 g de proteína"
+            ],
+            [
+              "[Mac Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 19,90",
+              "R$ 13,93",
+              "1 refeição, 20 g de proteína"
             ]
           ],
           "caption": "Preços da loja no começo de novembro, iguais em meados do mês, com os 30% já no preço; o rendimento é o da página de cada produto."
@@ -206628,12 +206673,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom EMCASA na Black: o que os testes mostraram",
         "paragraphs": [
-          "O EMCASA tirou 15% por cima dos 30% da Black nos quatro testes que fizemos, e só entra numa tela: a de finalizar a compra, no endereço seguro.holyfoods.com.br, que é o checkout da própria loja. No carrinho ele não entra, e o link da parceria também não o aplica: ele abre a loja, mas o código você copia e cola.",
-          "Os quatro testes feitos nessa tela estão na tabela, e o passo a passo vem logo abaixo:"
+          "O EMCASA tirou 15% por cima dos 30% da Black nos cinco testes que fizemos, e só entra numa tela: a de finalizar a compra, no endereço seguro.holyfoods.com.br, que é o checkout da própria loja. No carrinho ele não entra, e o link da parceria também não o aplica: ele abre a loja, mas o código você copia e cola.",
+          "Os cinco testes feitos nessa tela estão na tabela, e o passo a passo vem logo abaixo:"
         ],
         "bullets": [
           "Monte o carrinho com os itens ou com o kit e clique em \"Finalizar compra\".",
           "Na tela seguinte, procure \"Inserir cupom de desconto\".",
+          "Se aparecer outro código já aplicado no resumo, remova-o antes de colar o EMCASA.",
           "Cole o EMCASA em \"Código do cupom\" e clique em \"Adicionar\".",
           "Confira a linha \"Descontos\" antes de pagar."
         ],
@@ -206673,12 +206719,20 @@ export const reviewsData: unknown[] = [
               "R$ 334,60",
               "−R$ 50,19",
               "R$ 284,41"
+            ],
+            [
+              "Projeto 21 Dias",
+              "2 [Projeto 21 Dias](https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
+              "R$ 205,80",
+              "−R$ 30,87",
+              "R$ 174,93"
             ]
           ],
-          "caption": "Testes na tela \"Finalizar compra\", em novembro, com os 30% da Black já nos preços. Os carrinhos de sopas e do Despensa Cheia são do começo do mês; os do Descoberta e da Rotina Resolvida, de meados."
+          "caption": "Testes na tela \"Finalizar compra\", em novembro, com os 30% da Black já nos preços. Os carrinhos de sopas e do Despensa Cheia são do começo do mês; os do Descoberta, da Rotina Resolvida e do Projeto 21 Dias, de meados em diante."
         },
         "postParagraphs": [
-          "Nos quatro, o desconto foi de 15% sobre o preço que já tinha os 30%. Como todo kit entra na sacola como itens avulsos, o cupom age do mesmo jeito num kit ou num carrinho montado por você. Com o EMCASA, a massa ou o risoto sai por R$ 11,84 a unidade, e o sachê do pack de sopa, por R$ 3,56. Confira a linha \"Descontos\" no checkout antes de pagar.",
+          "Nos cinco, o desconto foi de 15% sobre o preço que já tinha os 30%. Como todo kit entra na sacola como itens avulsos, o cupom age do mesmo jeito num kit ou num carrinho montado por você. Com o EMCASA, a massa ou o risoto sai por R$ 11,84 a unidade, e o sachê do pack de sopa, por R$ 3,56. Confira a linha \"Descontos\" no checkout antes de pagar.",
+          "Pagamento: a loja aceita Pix ou cartão de crédito, com parcelamento em até 3x sem juros no cartão. Hoje a loja não mostra desconto extra no Pix, então a conta com o cupom é só a dos 15%: não some um Pix ao EMCASA.",
           "Os dois descontos não dão 45%: o preço final fica 40,5% abaixo do de lista. As condições do dia estão na página do [cupom HolyFoods](/cupons/holyfoods), e o passo a passo com as soluções para o código que não entra, em [Como usar o cupom da HolyFoods](/reviews/cupom-holyfoods-como-usar). O EMCASA é da loja online: no Mercado Livre vale o preço do anúncio."
         ]
       },
@@ -206713,9 +206767,9 @@ export const reviewsData: unknown[] = [
           "caption": "Mínimos da campanha da Black, no FAQ da home da loja."
         },
         "postParagraphs": [
-          "O mínimo considera o preço depois dos descontos dos produtos, e a loja não diz se o EMCASA entra nessa conta. Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. Com o cupom, o Descoberta fica em R$ 94,72, a Rotina Resolvida, em R$ 177,61, abaixo do mínimo de SP, e a Despensa Cheia, em R$ 284,41, abaixo dos R$ 289 de GO, SC, ES e RS. No começo de novembro, um carrinho igual ao da Despensa Cheia saiu com frete grátis a R$ 284,41; nos testes do Descoberta e da Rotina Resolvida, o frete não foi lido, porque a loja só o mostra depois da identificação.",
-          "Decida pelo total entregue, com produtos, cupom e frete. Um carrinho pouco abaixo do mínimo pode sair mais caro que o mesmo carrinho com um item a mais, mas só complete com o que você vai comer: confira o frete no resumo, depois de aplicar o EMCASA, com e sem o item extra.",
-          "Frete grátis não é prazo. A política da loja diz que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout. A reclamação mais comum no Reclame Aqui é produto não recebido, e os números estão em [HolyFoods no Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao). Guarde o número do pedido e use o \"Rastrear pedido\" do menu da loja."
+          "Pelos preços de tabela, o Descoberta fica abaixo dos três mínimos, a Rotina Resolvida passa só o de SP e a Despensa Cheia passa os três. O que não conseguimos confirmar é se o mínimo conta o valor antes ou depois do EMCASA: a loja só mostra o frete depois de CPF e endereço, e nos nossos testes o carrinho não chegou a essa etapa. O valor do frete para o seu CEP aparece no checkout.",
+          "Decida pelo total entregue, com produtos, cupom e frete. Um carrinho pouco abaixo do mínimo pode sair mais caro que o mesmo carrinho com um item a mais, mas só complete com o que você vai comer: no checkout, veja o frete e a linha \"Descontos\" antes de pagar.",
+          "Frete grátis não é prazo. A política da loja diz que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout. Guarde o número do pedido, use o \"Rastrear pedido\" do menu da loja e, ao receber, confira a caixa e as quantidades."
         ]
       },
       {
@@ -206751,10 +206805,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Precisa de cupom para ter os 30% da Black da HolyFoods? Não: os 30% já estão no preço, nos avulsos e nos kits. O EMCASA é um desconto a mais, na tela de finalizar a compra.",
           "Até quando vai a Black Friday da HolyFoods? A loja não publicou a data de fim: vale enquanto a campanha estiver no ar, e o capítulo da campanha diz como conferir.",
-          "O cupom EMCASA vale na Black Friday? Vale. Nos nossos testes, o cupom HolyFoods EMCASA somou com a Black: 15% sobre o preço que já tinha os 30%. O capítulo do cupom traz os quatro carrinhos.",
+          "O cupom EMCASA vale na Black Friday? Vale. Nos nossos testes, o cupom HolyFoods EMCASA somou com a Black: 15% sobre o preço que já tinha os 30%. O capítulo do cupom traz os cinco carrinhos.",
           "O cupom EMCASA vale nos kits da Black da HolyFoods? Vale. Nos nossos testes na tela de finalizar a compra, ele tirou 15% do Descoberta, da Rotina Resolvida e de um carrinho igual ao Despensa Cheia, sobre o preço que já tinha os 30%.",
           "Qual kit da Black da HolyFoods escolher para começar? A loja indica o Descoberta para conhecer a linha; a comparação dos três está no capítulo \"Qual kit levar\".",
           "A HolyFoods tem frete grátis na Black? Tem, a partir de um mínimo que muda por estado; a tabela está no capítulo do frete.",
+          "Preciso remover algum cupom antes de colar o EMCASA? Se aparecer outro código já aplicado no resumo da compra, remova-o e cole o EMCASA em \"Código do cupom\". No nosso teste mais recente, a tela não trazia nenhum código pré-preenchido.",
+          "Dá para pagar no Pix ou parcelar na HolyFoods? A loja aceita Pix e cartão de crédito, com parcelamento em até 3x sem juros no cartão. Hoje ela não mostra desconto extra no Pix, então o desconto do pedido é o dos 30% da Black mais os 15% do EMCASA.",
           "Pack de sopa ou sopa avulsa da HolyFoods: qual sai mais em conta? Por 100 g de mistura seca, o pack sai cerca de 9% abaixo da avulsa. A porção do sachê é maior que a da avulsa, então a comparação por porção engana.",
           "Qual a diferença entre a garantia de 30 dias da HolyFoods e o direito de arrependimento? O arrependimento é da lei: 7 dias corridos do recebimento para desistir da compra online. A garantia é da loja: 30 dias, com uma unidade aberta e as demais fechadas."
         ]
@@ -229145,6 +229201,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. HolyFoods é bom? Sopas, risotos e macs pelo rótulo: proteína, calorias, sódio, ingredientes e preço com o código.",
     "publishedAt": "10 de novembro de 2026",
     "publishedAtISO": "2026-11-10",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp",
@@ -229185,7 +229242,10 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-holyfoods"
       },
       {
-        "slug": "holyfoods-reclame-aqui-nota-reputacao"
+        "slug": "holyfoods-como-preparar"
+      },
+      {
+        "slug": "holyfoods-projeto-21-dias"
       }
     ],
     "contentSections": [
@@ -229226,8 +229286,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Cecília já fez dois deles em vídeo: [um risoto na panela de indução](/videos/risoto-holyfoods-kit-tiktok-shop), com água e um pouco de manteiga, e [o Mac Queijo na panela](/videos/mac-queijo-holyfoods-na-panela).",
-          "A loja mostra nota geral de 4,8 em mais de 25 mil avaliações, publicadas no próprio site. As reclamações fora dele estão no [artigo do Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
+          "A Cecília já fez dois deles em vídeo: [um risoto na panela de indução](/videos/risoto-holyfoods-kit-tiktok-shop), com água e um pouco de manteiga, e [o Mac Queijo na panela](/videos/mac-queijo-holyfoods-na-panela)."
         ]
       },
       {
@@ -229276,11 +229335,11 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/holyfoods/cupom-holyfoods-sopa-low-carb.webp",
-            "alt": "Prato de Sopa Low Carb da HolyFoods com a embalagem ao lado, em foto oficial da loja",
-            "caption": "Sopa Low Carb: o sachê avulso rende quatro porções. Foto: HolyFoods.",
+            "src": "/images/reviews/holyfoods/holyfoods-e-boa-sopa-detox.webp",
+            "alt": "Embalagem da Sopa Detox da HolyFoods, em foto oficial da loja",
+            "caption": "Sopa Detox: 80 kcal por porção preparada de 250 g, a menor da tabela. Foto oficial da HolyFoods.",
             "objectFit": "square",
-            "href": "https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+            "href": "https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
           }
         ]
       },
@@ -229320,15 +229379,6 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "As calorias vão de 398 kcal no Funghi a 452 kcal no de Queijo, com o Al Mare em 421. No fogão, o risoto pede que você mexa durante o cozimento; a ficha também traz uma forma de preparo no micro-ondas. A água e o tempo de cada embalagem estão no guia de [como preparar HolyFoods](/reviews/holyfoods-como-preparar)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/holyfoods/black-friday-holyfoods-risoto-funghi.webp",
-            "alt": "Prato de Risoto Funghi da HolyFoods com a caixa do produto ao fundo, em foto oficial da loja",
-            "caption": "Risoto Funghi: uma caixa, uma porção de 320 g. Foto: HolyFoods.",
-            "objectFit": "square",
-            "href": "https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
-          }
         ]
       },
       {
@@ -229381,6 +229431,13 @@ export const reviewsData: unknown[] = [
             "caption": "Mac Queijo: rende uma porção de 380 g. Foto: HolyFoods.",
             "objectFit": "square",
             "href": "https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-e-boa-mac-bolonha.webp",
+            "alt": "Caixa do Mac Bolonha da HolyFoods, com a indicação de carne e 20 g de proteína, em foto oficial da loja",
+            "caption": "Mac Bolonha: o único dos quatro com carne bovina. Foto oficial da HolyFoods.",
+            "objectFit": "square",
+            "href": "https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
           }
         ]
       },
@@ -229431,7 +229488,7 @@ export const reviewsData: unknown[] = [
           "O EMCASA tira 15% também do preço em promoção. O quadro mostra o valor da compra e o que cada embalagem rende. Para comparar os dois formatos da mesma sopa, o capítulo seguinte usa o peso da mistura."
         ],
         "comparisonTable": {
-          "caption": "Preços de 10/11, com os 30% da campanha da loja e os 15% do EMCASA, sem frete.",
+          "caption": "Preços de 22/11, com os 30% da campanha da loja e os 15% do EMCASA, sem frete.",
           "headers": [
             "Produto",
             "Embalagem e rendimento informado",
@@ -229479,7 +229536,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pack ou sachê avulso de sopa: qual sai mais em conta?",
         "paragraphs": [
-          "O pack custa menos pela mesma quantidade de mistura seca nas três sopas que têm os dois formatos; a Detox não tem pack. O avulso exige menos dinheiro para experimentar. Como os sachês têm tamanhos diferentes, a porção anunciada no card não decide sozinha qual formato compensa."
+          "O pack, como o [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), custa menos pela mesma quantidade de mistura seca nas três sopas que têm os dois formatos; a Detox não tem pack. O avulso exige menos dinheiro para experimentar. Como os sachês têm tamanhos diferentes, a porção anunciada no card não decide sozinha qual formato compensa."
         ],
         "comparisonTable": {
           "caption": "Conta nossa: preço com a campanha e o EMCASA por 100 g de mistura seca, nos pesos da ficha de cada formato.",
@@ -229507,17 +229564,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nesses valores, o pack custa de 8% a 9% menos por 100 g. As listas de ingredientes dos dois formatos são iguais na Low Carb e quase iguais na Canja; na Vovó, a do pack traz mandioquinha e alho poró a mais.",
+          "Nesses valores, o pack custa de 8% a 9% menos por 100 g. As listas de ingredientes dos dois formatos são iguais na Low Carb e quase iguais na Canja; na Vovó, confira a lista de cada página antes de escolher.",
           "Escolha o avulso para provar a receita com menor gasto inicial. O pack faz sentido quando você já quer repetir a mesma sopa."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/holyfoods/black-friday-holyfoods-pack-canja-da-mamae-saches.webp",
-            "alt": "Sachês individuais da Canja da Mamãe da HolyFoods lado a lado, em foto oficial da loja",
-            "caption": "No pack, cada sachê é individual e menor que o avulso. Foto: HolyFoods.",
-            "objectFit": "square",
-            "href": "https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
-          }
         ],
         "links": [
           {
@@ -235644,7 +235692,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "EMCASA dá 15% OFF em todo o site da HolyFoods na primeira compra, inclusive em produtos já em promoção. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa-v2.webp",
@@ -235680,7 +235728,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom HolyFoods primeira compra: qual usar",
         "paragraphs": [
-          "A HolyFoods vende sopas, risotos e macarrões de despensa, que ficam prontos no fogão em 15 a 20 minutos. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel).",
+          "A HolyFoods vende sopas, risotos e macarrões de despensa, que ficam prontos no fogão em 15 a 20 minutos. Para quem pede pela primeira vez, a loja dá 30 dias de garantia de satisfação, que aceita uma unidade aberta se as demais estiverem fechadas.",
           "Use o EMCASA: 15% OFF em todos os produtos do site oficial, avulsos e kits, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom HolyFoods](/cupons/holyfoods) da nossa parceria com a marca, testado no checkout. Sopa, macarrão ou risoto: o código é o mesmo."
         ]
@@ -235693,7 +235741,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Na tela “Finalizar compra”.** É nela que o campo do cupom aparece. O botão desta página abre a loja sem aplicar o código.",
           "**Campo certo.** Clique em “Inserir cupom de desconto”. O campo “Cartão-presente” não aceita o código.",
-          "**Frete grátis por estado.** O valor mínimo muda conforme o estado, e o carrinho mostra quanto falta para o seu.",
+          "**Frete grátis por estado.** Na campanha da Black, o mínimo é de R$ 199 em SP, R$ 249 em RJ, MG, DF e PR e R$ 289 em GO, SC, ES e RS. Nos outros estados, o frete sai pelo CEP no checkout.",
           "**Só no site oficial.** O código não vale no Mercado Livre."
         ],
         "postParagraphs": [
@@ -235703,7 +235751,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sopas em promoção: preço com o EMCASA",
         "paragraphs": [
-          "O EMCASA entra sobre o preço que a loja já baixou. No teste do cupom de 05/11/2026, registrado na nossa página de cupom, um Pack Sopa da Vovó e duas Sopas Detox, os três com desconto da loja, ficaram assim:"
+          "O EMCASA entra sobre o preço que a loja já baixou. No teste do cupom de 05/11/2026, registrado na nossa página de cupom, um Pack Sopa da Vovó e duas [Sopas Detox](https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os três com desconto da loja, ficaram assim:"
         ],
         "comparisonTable": {
           "caption": "Pack Sopa da Vovó e duas Sopas Detox com desconto da loja: valores do teste no checkout, antes do frete.",
@@ -235727,7 +235775,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os 15% saíram inteiros do preço promocional. O código vale com todas as formas de pagamento; se a loja oferecer desconto no Pix, ele soma com o EMCASA. Confira o total antes de pagar."
+          "Os 15% saíram inteiros do preço promocional. A loja aceita Pix e cartão de crédito, em até 3x sem juros no cartão, e o código vale nas duas formas. Hoje a loja não mostra desconto extra no Pix, então a conta do pedido é a dos 15%. Confira o total antes de pagar."
         ],
         "images": [
           {
@@ -235742,7 +235790,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E na segunda compra?",
         "paragraphs": [
-          "O EMCASA vale de novo para quem já comprou, com os mesmos 15%. Serve para repor a sopa preferida ou provar outro sabor no pedido seguinte."
+          "O EMCASA vale de novo para quem já comprou, com os mesmos 15%. O código não é só de primeira compra: a nossa página de cupom o traz tanto para quem pede pela primeira vez quanto para quem já é cliente, e é o mesmo código nos dois casos.",
+          "Na segunda compra, o caminho é o mesmo: carrinho, \"Finalizar compra\", \"Inserir cupom de desconto\", EMCASA no campo \"Código do cupom\" e \"Adicionar\". Serve para repor a sopa preferida, provar outro sabor ou fechar um pack depois de testar a sopa avulsa.",
+          "Quanto ao número de usos, vale a regra da loja. Se o checkout recusar o código, a recusa vem da loja, e a linha de desconto no resumo é quem confirma se ele entrou. Como em qualquer pedido, o EMCASA só vale no site oficial, e não no Mercado Livre."
         ]
       },
       {
@@ -235756,20 +235806,15 @@ export const reviewsData: unknown[] = [
           "Confira no resumo se o EMCASA foi adicionado e se o desconto apareceu antes de pagar."
         ],
         "postParagraphs": [
-          "O passo a passo com as telas está em [como usar o cupom EMCASA](/reviews/cupom-holyfoods-como-usar)."
-        ],
-        "image": "/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp",
-        "imageAlt": "Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado.",
-        "imageCaption": "O EMCASA aplicado no resumo da compra da HolyFoods, em outro pedido de teste. Os valores mudam conforme o seu pedido.",
-        "imageAspectRatio": 1.341,
-        "imageFit": "contain"
+          "O passo a passo com a tela do resumo da compra está em [como usar o cupom EMCASA](/reviews/cupom-holyfoods-como-usar)."
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como conseguir desconto na primeira compra na HolyFoods? O EMCASA dá 15% em todo o site oficial, no primeiro pedido e nos seguintes.",
           "Qual cupom HolyFoods vale para quem já é cliente? O mesmo EMCASA, com os mesmos 15%.",
-          "O cupom HolyFoods soma com produto em promoção? Sim. Os 15% entram sobre o preço que a loja já baixou.",
+          "O cupom HolyFoods soma com produto em promoção? Sim. Os 15% entram sobre o preço que a loja já baixou. No Pix, a loja não mostra desconto extra hoje.",
           "O cupom HolyFoods vale no Mercado Livre? Não. Ele vale no site oficial da HolyFoods.",
           "Onde colar o cupom na HolyFoods? Na tela “Finalizar compra”, em “Inserir cupom de desconto”."
         ]
@@ -289679,6 +289724,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O EMCASA dá 15% OFF na HolyFoods. Projeto 21 Dias: o que vem no kit, a tabela de cada sachê, o preço por sachê e como preparar.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa-v2.webp",
@@ -289735,8 +289781,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que vem no Projeto 21 Dias",
         "paragraphs": [
-          "A loja informa que são 21 sachês individuais: sete da Sopa da Vovó, sete da Sopa Low Carb e sete da Canja da Mamãe. Você prepara um por vez e escolhe em quais dias usar.",
-          "No kit e nos packs, os sachês pesam 43 g na Vovó, 50 g na Low Carb e 44 g na Canja. As listas de ingredientes podem mudar: a página do pack da Vovó inclui mandioquinha e alho-poró, ausentes na lista do kit. Nos três sabores do kit, a ficha declara derivados de soja. Confira os avisos de alergênicos na embalagem do sabor escolhido."
+          "A loja informa que são 21 sachês individuais: sete da [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), sete da [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e sete da [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz). O 21 do nome é a quantidade de sachês do kit. Você prepara um por vez e escolhe em quais dias usar.",
+          "No kit e nos packs, os sachês pesam 43 g na Vovó, 50 g na Low Carb e 44 g na Canja. As listas de ingredientes dos sachês do kit incluem alho-poró, por exemplo na Low Carb e na Canja. Nos três sabores do kit, a ficha declara derivados de soja. Confira os avisos de alergênicos na embalagem do sabor escolhido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-tres-sopas.webp",
+            "alt": "Três pratos de sopa dos sabores do Projeto 21 Dias, com os sachês do kit ao lado, em foto oficial da HolyFoods",
+            "caption": "Projeto 21 Dias: 21 porções individuais, em sachês. Foto oficial da HolyFoods.",
+            "objectFit": "square",
+            "href": "https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          }
         ]
       },
       {
@@ -289745,7 +289800,7 @@ export const reviewsData: unknown[] = [
           "O Projeto 21 Dias tem o menor total entre as duas opções com três sabores. O Projeto 30 Dias custa mais no pedido, mas cobra menos por sachê e traz dez unidades de cada sabor."
         ],
         "comparisonTable": {
-          "caption": "Preços de 20/11, sem frete. No Projeto 21 Dias, o valor com EMCASA é o total que o checkout mostrou; no pack e no Projeto 30 Dias, é a conta de 15% sobre o preço da campanha.",
+          "caption": "Preços de 22/11, sem frete. No Projeto 21 Dias, o valor com EMCASA é o total que o checkout mostrou; no pack e no Projeto 30 Dias, é a conta de 15% sobre o preço da campanha.",
           "headers": [
             "Opção",
             "Preço da campanha",
@@ -289859,8 +289914,8 @@ export const reviewsData: unknown[] = [
         "heading": "Kit ou pack: para quem vale cada um",
         "bullets": [
           "Quer levar os três sabores gastando menos no pedido: Projeto 21 Dias.",
-          "Quer levar os três sabores pagando menos por sachê: Projeto 30 Dias. Para repetir um sabor, escolha o pack desse sabor.",
-          "Quer provar uma sopa só gastando pouco: o avulso, que está comparado no artigo de HolyFoods é boa.",
+          "Quer levar os três sabores pagando menos por sachê: Projeto 30 Dias. Para repetir um sabor, escolha o pack desse sabor: [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) ou [Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz).",
+          "Quer provar uma sopa só gastando pouco: o avulso, como a [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) ou a [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), que está comparado no artigo de HolyFoods é boa.",
           "Não tem de 15 a 20 minutos de fogão: nenhum dos dois resolve, porque todo sachê é cozido na panela.",
           "Precisa excluir um ingrediente: leia a lista e os alérgenos de cada sabor antes de comprar o kit, que traz os três."
         ],
@@ -289869,7 +289924,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Projeto 21 Dias emagrece? A tabela mostra de 111 a 175 kcal por sachê seco, e só. O resultado de uma dieta depende do resto da alimentação, e a orientação individual é de nutricionista ou médico.",
+          "O que o 21 Dias do nome quer dizer? É o número de sachês do kit, sete de cada sopa, e o nome não promete resultado. A tabela mostra de 111 a 175 kcal por sachê seco, e só. A orientação sobre alimentação é de nutricionista ou médico.",
           "O cupom EMCASA entra no Projeto 21 Dias? Entra. No teste no checkout, o código tirou 15% do preço do kit, que já estava com os 30% da campanha. Digite em Inserir cupom de desconto, na tela Finalizar compra, e confira a linha de desconto antes de pagar.",
           "Dá para comprar um sabor só do Projeto 21 Dias? No kit, não: ele traz sete sachês de cada um dos três sabores. Para um sabor só, a loja vende o pack de sopa, com dez sachês.",
           "Precisa de sal na sopa do Projeto 21 Dias? A loja indica sal a gosto na panela. Como o sal muda o sódio do prato, a tabela do sachê não cobre o que você acrescentar."
@@ -289897,6 +289952,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O EMCASA dá 15% OFF na HolyFoods. HolyFoods ou Mexidona? Sopa, risoto e mac pelo rótulo: porção, proteína, sódio e preço por 100 g de mistura.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/holyfoods-ou-mexidona-capa-v2.webp",
@@ -289985,7 +290041,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sopa: Vovó e Low Carb contra Sopa Amarela e Sopa da Nona",
         "paragraphs": [
-          "A Mexidona tem uma sopa de massa de arroz e batata, a Sopa Amarela, e uma de lentilha, a Sopa da Nona. Os pares mais próximos na HolyFoods são a Sopa da Vovó, com macarrão de arroz, e a Low Carb, com lentilha vermelha e quinoa."
+          "A Mexidona tem uma sopa de massa de arroz e batata, a Sopa Amarela, e uma de lentilha, a Sopa da Nona. Os pares mais próximos na HolyFoods são a [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), com macarrão de arroz, e a [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), com lentilha vermelha e quinoa."
         ],
         "comparisonTable": {
           "caption": "Valores por porção da ficha. O peso da mistura seca varia conforme o produto.",
@@ -290031,7 +290087,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risoto: a proteína da porção e a do pacote",
         "paragraphs": [
-          "O Risoto de Queijo da HolyFoods leva leite e queijos. A Mexidona apresenta o seu Risoto Sabor Queijo como zero lactose e anuncia 20 g de proteína no pacote. A tabela declara 7 g por porção de 60 g. No preço por 20 g de proteína, usei o total informado para o pacote."
+          "O [Risoto de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) da HolyFoods leva leite e queijos. A Mexidona apresenta o seu Risoto Sabor Queijo como zero lactose e anuncia 20 g de proteína no pacote. A tabela declara 7 g por porção de 60 g. No preço por 20 g de proteína, usei o total informado para o pacote."
         ],
         "comparisonTable": {
           "caption": "Valores por pacote inteiro. Para o risoto da Mexidona, calorias e sódio são a estimativa de três porções. Os 20 g de proteína por pacote vêm da descrição da loja.",
@@ -290080,7 +290136,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mac: proteína, sódio e tempo de panela",
         "paragraphs": [
-          "O par do Mac Frango da Mexidona na HolyFoods é o Mac Caipira, que também leva frango. A tabela traz os dois mais o Mac Queijo, o da foto da HolyFoods, na mesma base: a embalagem ou o pacote inteiro."
+          "O par do Mac Frango da Mexidona na HolyFoods é o [Mac Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), que também leva frango. A tabela traz os dois mais o Mac Queijo, o da foto da HolyFoods, na mesma base: a embalagem ou o pacote inteiro."
         ],
         "comparisonTable": {
           "caption": "Por embalagem ou pacote inteiro, pela tabela de cada produto.",
@@ -290129,7 +290185,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com a campanha da HolyFoods",
         "paragraphs": [
-          "Compare o preço da HolyFoods com e sem EMCASA e o da Mexidona no Pix. Os pares são Vovó e Sopa Amarela, os dois risotos de queijo e Mac Queijo e Mac Frango."
+          "A HolyFoods está com a Black da Holy, que a loja anuncia como 30% de desconto no site todo, já aplicado nos preços e sem cupom. Nessa conta, sopa, risoto e mac avulsos saem a R$ 13,93, contra R$ 19,90 de lista, e o cartão parcela em até 3x sem juros. A loja não publica data de fim da campanha.",
+          "O EMCASA entra por cima: na tela Finalizar compra, em Inserir cupom de desconto, ele tira 15% do preço que já está com a Black, e o avulso de R$ 13,93 passa a R$ 11,84. O código não entra no carrinho lateral nem no link da loja. Se aparecer outro código já aplicado no checkout, remova e cole o EMCASA. Hoje a loja não mostra desconto extra no Pix, então a conta não soma Pix ao cupom.",
+          "Os pares comparados são Vovó e Sopa Amarela, os dois risotos de queijo e Mac Queijo e Mac Frango. Do lado da Mexidona, a conta usa o preço no Pix."
         ],
         "comparisonTable": {
           "caption": "Preços de 20/11, em R$, antes do frete. A conta simula 15% de EMCASA na HolyFoods e 5% de Pix na Mexidona. Os preços são arredondados por pacote antes da divisão.",
@@ -290236,7 +290294,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que as listas de ingredientes mostram",
         "paragraphs": [
-          "Lactose separa os dois queijos. O Risoto de Queijo, o Mac Queijo e o Mac Alfredo da HolyFoods levam leite e lactose. A lista do Risoto Sabor Queijo da Mexidona não traz leite, e a página o anuncia como zero lactose; confira os alérgenos na embalagem.",
+          "Lactose separa os dois queijos. O Risoto de Queijo, o Mac Queijo e o [Mac Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) da HolyFoods levam leite e lactose. A lista do Risoto Sabor Queijo da Mexidona não traz leite, e a página o anuncia como zero lactose; confira os alérgenos na embalagem.",
           "Nos risotos e macs comparados aqui, as duas marcas adicionam fonte de proteína à receita. A HolyFoods usa colágeno e, no Mac Caipira, também proteína isolada de ervilha; a Mexidona usa proteína isolada de ervilha, e o Risoto de Cogumelos também leva proteína isolada de arroz. A massa do Mac Queijo da HolyFoods traz corantes e emulsificante; a lista da massa do Mac Frango traz farinhas de arroz, proteína de ervilha, fécula e gomas xantana e guar.",
           "Nas duas marcas o preparo pede sal a gosto, então o sódio das tabelas vale para o produto sem o sal que você puser. Nas listas da Mexidona comparadas aqui não há conservante declarado, como nas da HolyFoods.",
           "Nas duas, leia a linha pode conter. A Sopa da Nona declara que pode conter aveia, amendoim, soja e castanhas, e o Risoto Funghi da HolyFoods, derivados de leite, soja, ovos, peixes, crustáceos, aveia e amendoim. As duas informam que não contêm glúten."
@@ -290287,6 +290345,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. Como preparar sopa, risoto e mac: a água, o tempo e o fogão ou micro-ondas de cada ficha.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/holyfoods/holyfoods-como-preparar-capa-v2.webp",
@@ -290367,7 +290426,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Risoto",
-              "400 ml para começar",
+              "400 ml para começar, até cerca de 600 ml aos poucos",
               "18 a 20 minutos",
               "300 ml"
             ],
@@ -290393,8 +290452,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sopa HolyFoods: fogão, água e tempo",
         "paragraphs": [
-          "Use o conteúdo inteiro do pacote avulso em água quente, em fogo médio, com a panela de tampa semiaberta, mexendo de vez em quando. A Sopa da Vovó e a Sopa Detox pedem 1,2 litro de água, e a Low Carb e a Canja da Mamãe pedem 1,1 litro.",
-          "O sachê do pack e do kit é outra conta: um sachê para 450 ml de água quente, também em fogo médio e de tampa semiaberta. A loja avisa que não se usa a quantidade de água dos pacotes maiores. A ficha da sopa indica só o fogão, sem preparo no micro-ondas."
+          "Use o conteúdo inteiro do pacote avulso em água quente, em fogo médio, com a panela de tampa semiaberta, mexendo de vez em quando. A [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e a [Sopa Detox](https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) pedem 1,2 litro de água, com 15 e 20 minutos de fogo. A [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e a [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) pedem 1,1 litro, por 20 minutos.",
+          "O sachê do pack e do kit é outra conta: um sachê para 450 ml de água quente, também em fogo médio e de tampa semiaberta. Isso vale para o [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), o [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), o [Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e os sachês do [Projeto 21 Dias](https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz). Se você fizer mais de um sachê de uma vez, cada um leva os seus 450 ml. A loja avisa que não se usa a quantidade de água dos pacotes maiores.",
+          "Resumindo o passo a passo da ficha: água quente na panela, todo o conteúdo do pacote ou do sachê, fogo médio, tampa semiaberta e o tempo da tabela, mexendo de vez em quando. O sal entra a gosto, no fim. O pacote avulso rende cerca de 1 litro de sopa, em 4 porções de 250 g. A ficha da sopa indica só o fogão, sem preparo no micro-ondas."
         ],
         "comparisonTable": {
           "caption": "Sopa no fogão, pela ficha da loja: água quente por pacote avulso e por sachê, em fogo médio.",
@@ -290433,7 +290493,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risoto HolyFoods: fogão ou micro-ondas",
         "paragraphs": [
-          "Nas fichas de Funghi, Al Mare e Queijo, o risoto começa com 400 ml no fogão e ganha mais água conforme ela evapora. O tempo de referência é de 18 a 20 minutos. A FAQ da HolyFoods cita 600 ml adicionados aos poucos para o preparo indicado na embalagem. Se a sua embalagem trouxer essa medida, siga a instrução dela.",
+          "Nas fichas do [Risoto Funghi](https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), do [Risoto Al Mare](https://www.holyfoods.com.br/products/risoto-al-mare?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e do [Risoto de Queijo](https://www.holyfoods.com.br/products/risoto-de-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), o preparo no fogão pede 400 ml de água para começar e acrescentar mais aos poucos, conforme ela evapora. A FAQ da HolyFoods fala em 600 ml de água adicionada aos poucos, em 18 a 20 minutos. As duas instruções batem: você começa com 400 ml e completa até chegar perto de 600 ml, sem deixar o risoto secar. Cada embalagem rende uma porção de 320 g pronta. Se a sua embalagem trouxer outra medida, siga a dela.",
           "As fichas de produto também descrevem o micro-ondas: misture o conteúdo com 300 ml de água em recipiente próprio, aqueça em potência alta por 10 minutos, misture e volte por mais 5. Confira a instrução do seu rótulo."
         ],
         "images": [
@@ -290450,7 +290510,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mac HolyFoods: fogão ou micro-ondas",
         "paragraphs": [
-          "No fogão, ferva 500 ml de água, junte todo o conteúdo do pacote e sal, e cozinhe de 15 a 20 minutos, mexendo. No micro-ondas, use 400 ml de água. O Mac Queijo e o Mac Alfredo levam 9 minutos e mais 6; o Mac Bolonha e o Mac Caipira levam 12 minutos e mais 6.",
+          "No fogão, ferva 500 ml de água, junte todo o conteúdo do pacote e sal, e cozinhe de 15 a 20 minutos, mexendo. No micro-ondas, use 400 ml de água. O [Mac Queijo](https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e o [Mac Alfredo](https://www.holyfoods.com.br/products/novo-mac-alfredo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) levam 9 minutos e mais 6; o [Mac Bolonha](https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e o [Mac Caipira](https://www.holyfoods.com.br/products/mac-caipira?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) levam 12 minutos e mais 6.",
           "O Mac Queijo e o Mac Alfredo levam leite e lactose, assim como o Risoto de Queijo; o Risoto Al Mare leva peixe e camarão. O Risoto Funghi pode conter leite, soja, ovos, peixes, crustáceos, aveia e amendoim. Confira as linhas contém e pode conter da embalagem que chegar."
         ],
         "comparisonTable": {
@@ -290505,6 +290565,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Dá para preparar risoto HolyFoods no micro-ondas? As fichas de produto descrevem um preparo com 300 ml de água, em duas etapas de 10 e 5 minutos. Confira a orientação da embalagem antes de começar.",
+          "Risoto HolyFoods leva 400 ml ou 600 ml de água? As duas medidas valem: a ficha manda começar com 400 ml, e a FAQ da loja fala em 600 ml adicionados aos poucos, em 18 a 20 minutos.",
           "Sopa HolyFoods se faz no micro-ondas? A ficha da sopa indica só o fogão, em fogo médio, com a panela de tampa semiaberta.",
           "Dá para fazer o sachê com a água do pacote? Não. A loja pede 450 ml de água quente por sachê e avisa para não usar a quantidade dos pacotes maiores.",
           "Precisa pôr sal? A ficha diz sal a gosto: comece com pouco e acerte no fim.",

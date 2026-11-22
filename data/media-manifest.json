@@ -77564,6 +77564,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-mac-bolonha.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-mac-bolonha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39830,
+      "sha256": "09e10ba435ad9c957e5201c99a31db34b98740252e46b6f7b46bb02dca275987",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-e-boa-mac-bolonha.webp",
+      "storage_filename": "holyfoods-e-boa-mac-bolonha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-e-boa.json",
+          "line": 253,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-boa-mac-bolonha.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/09e10ba435ad9c957e5201c99a31db34b98740252e46b6f7b46bb02dca275987/holyfoods-e-boa-mac-bolonha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/09e10ba435ad9c957e5201c99a31db34b98740252e46b6f7b46bb02dca275987/holyfoods-e-boa-mac-bolonha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:08:12.509Z",
+      "verification_etag_or_digest": "09e10ba435ad9c957e5201c99a31db34b98740252e46b6f7b46bb02dca275987",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp",
       "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-mac-queijo.webp",
       "media_kind": "image",
@@ -77607,6 +77645,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-10T22:48:52.491Z",
       "verification_etag_or_digest": "f094ee72c5e4f45ab0de5e23822a2cbf28646b6341b8809468d2ef130e5a09b2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-e-boa-sopa-detox.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-e-boa-sopa-detox.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45434,
+      "sha256": "ddc89224bf332964f32f79a3a4d2fdf203fdb067d7dd2a241674f472ae56dad3",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-e-boa-sopa-detox.webp",
+      "storage_filename": "holyfoods-e-boa-sopa-detox.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-e-boa.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-e-boa-sopa-detox.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ddc89224bf332964f32f79a3a4d2fdf203fdb067d7dd2a241674f472ae56dad3/holyfoods-e-boa-sopa-detox.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ddc89224bf332964f32f79a3a4d2fdf203fdb067d7dd2a241674f472ae56dad3/holyfoods-e-boa-sopa-detox.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:08:12.824Z",
+      "verification_etag_or_digest": "ddc89224bf332964f32f79a3a4d2fdf203fdb067d7dd2a241674f472ae56dad3",
       "verification_status": "verified"
     },
     {
@@ -78011,6 +78087,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T21:30:57.764Z",
       "verification_etag_or_digest": "f20382c995cc35e812762c8a8b348b4493761d96db6a70a87feb34198bb2a26d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/holyfoods/holyfoods-projeto-21-dias-tres-sopas.webp",
+      "local_url": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-tres-sopas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 124262,
+      "sha256": "870e90049e8cc4f171717142617da6e28b03c2238b6cc7276d3f75d7898e5fcf",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "holyfoods-projeto-21-dias-tres-sopas.webp",
+      "storage_filename": "holyfoods-projeto-21-dias-tres-sopas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/holyfoods-projeto-21-dias.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/holyfoods-projeto-21-dias.json",
+          "line": 83,
+          "column": 19,
+          "literal": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-tres-sopas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/870e90049e8cc4f171717142617da6e28b03c2238b6cc7276d3f75d7898e5fcf/holyfoods-projeto-21-dias-tres-sopas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/870e90049e8cc4f171717142617da6e28b03c2238b6cc7276d3f75d7898e5fcf/holyfoods-projeto-21-dias-tres-sopas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:08:13.143Z",
+      "verification_etag_or_digest": "870e90049e8cc4f171717142617da6e28b03c2238b6cc7276d3f75d7898e5fcf",
       "verification_status": "verified"
     },
     {

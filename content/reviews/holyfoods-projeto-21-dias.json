@@ -18,6 +18,7 @@
   "metaDescription": "O EMCASA dá 15% OFF na HolyFoods. Projeto 21 Dias: o que vem no kit, a tabela de cada sachê, o preço por sachê e como preparar.",
   "publishedAt": "20 de novembro de 2026",
   "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-capa-v2.webp",
@@ -74,8 +75,17 @@
     {
       "heading": "O que vem no Projeto 21 Dias",
       "paragraphs": [
-        "A loja informa que são 21 sachês individuais: sete da Sopa da Vovó, sete da Sopa Low Carb e sete da Canja da Mamãe. Você prepara um por vez e escolhe em quais dias usar.",
-        "No kit e nos packs, os sachês pesam 43 g na Vovó, 50 g na Low Carb e 44 g na Canja. As listas de ingredientes podem mudar: a página do pack da Vovó inclui mandioquinha e alho-poró, ausentes na lista do kit. Nos três sabores do kit, a ficha declara derivados de soja. Confira os avisos de alergênicos na embalagem do sabor escolhido."
+        "A loja informa que são 21 sachês individuais: sete da [Sopa da Vovó](https://www.holyfoods.com.br/products/sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), sete da [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) e sete da [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz). O 21 do nome é a quantidade de sachês do kit. Você prepara um por vez e escolhe em quais dias usar.",
+        "No kit e nos packs, os sachês pesam 43 g na Vovó, 50 g na Low Carb e 44 g na Canja. As listas de ingredientes dos sachês do kit incluem alho-poró, por exemplo na Low Carb e na Canja. Nos três sabores do kit, a ficha declara derivados de soja. Confira os avisos de alergênicos na embalagem do sabor escolhido."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/holyfoods/holyfoods-projeto-21-dias-tres-sopas.webp",
+          "alt": "Três pratos de sopa dos sabores do Projeto 21 Dias, com os sachês do kit ao lado, em foto oficial da HolyFoods",
+          "caption": "Projeto 21 Dias: 21 porções individuais, em sachês. Foto oficial da HolyFoods.",
+          "objectFit": "square",
+          "href": "https://www.holyfoods.com.br/products/projeto-21-dias?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+        }
       ]
     },
     {
@@ -84,7 +94,7 @@
         "O Projeto 21 Dias tem o menor total entre as duas opções com três sabores. O Projeto 30 Dias custa mais no pedido, mas cobra menos por sachê e traz dez unidades de cada sabor."
       ],
       "comparisonTable": {
-        "caption": "Preços de 20/11, sem frete. No Projeto 21 Dias, o valor com EMCASA é o total que o checkout mostrou; no pack e no Projeto 30 Dias, é a conta de 15% sobre o preço da campanha.",
+        "caption": "Preços de 22/11, sem frete. No Projeto 21 Dias, o valor com EMCASA é o total que o checkout mostrou; no pack e no Projeto 30 Dias, é a conta de 15% sobre o preço da campanha.",
         "headers": [
           "Opção",
           "Preço da campanha",
@@ -198,8 +208,8 @@
       "heading": "Kit ou pack: para quem vale cada um",
       "bullets": [
         "Quer levar os três sabores gastando menos no pedido: Projeto 21 Dias.",
-        "Quer levar os três sabores pagando menos por sachê: Projeto 30 Dias. Para repetir um sabor, escolha o pack desse sabor.",
-        "Quer provar uma sopa só gastando pouco: o avulso, que está comparado no artigo de HolyFoods é boa.",
+        "Quer levar os três sabores pagando menos por sachê: Projeto 30 Dias. Para repetir um sabor, escolha o pack desse sabor: [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), [Pack Canja da Mamãe](https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) ou [Pack Sopa da Vovó](https://www.holyfoods.com.br/products/pack-sopa-da-vovo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz).",
+        "Quer provar uma sopa só gastando pouco: o avulso, como a [Sopa Low Carb](https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz) ou a [Canja da Mamãe](https://www.holyfoods.com.br/products/canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), que está comparado no artigo de HolyFoods é boa.",
         "Não tem de 15 a 20 minutos de fogão: nenhum dos dois resolve, porque todo sachê é cozido na panela.",
         "Precisa excluir um ingrediente: leia a lista e os alérgenos de cada sabor antes de comprar o kit, que traz os três."
       ],
@@ -208,7 +218,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O Projeto 21 Dias emagrece? A tabela mostra de 111 a 175 kcal por sachê seco, e só. O resultado de uma dieta depende do resto da alimentação, e a orientação individual é de nutricionista ou médico.",
+        "O que o 21 Dias do nome quer dizer? É o número de sachês do kit, sete de cada sopa, e o nome não promete resultado. A tabela mostra de 111 a 175 kcal por sachê seco, e só. A orientação sobre alimentação é de nutricionista ou médico.",
         "O cupom EMCASA entra no Projeto 21 Dias? Entra. No teste no checkout, o código tirou 15% do preço do kit, que já estava com os 30% da campanha. Digite em Inserir cupom de desconto, na tela Finalizar compra, e confira a linha de desconto antes de pagar.",
         "Dá para comprar um sabor só do Projeto 21 Dias? No kit, não: ele traz sete sachês de cada um dos três sabores. Para um sabor só, a loja vende o pack de sopa, com dez sachês.",
         "Precisa de sal na sopa do Projeto 21 Dias? A loja indica sal a gosto na panela. Como o sal muda o sódio do prato, a tabela do sachê não cobre o que você acrescentar."

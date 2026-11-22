@@ -17,7 +17,7 @@
   "metaDescription": "EMCASA dá 15% OFF em todo o site da HolyFoods na primeira compra, inclusive em produtos já em promoção. O mesmo código vale para quem já comprou.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/holyfoods/cupom-holyfoods-primeira-compra-capa-v2.webp",
@@ -53,7 +53,7 @@
     {
       "heading": "Cupom HolyFoods primeira compra: qual usar",
       "paragraphs": [
-        "A HolyFoods vende sopas, risotos e macarrões de despensa, que ficam prontos no fogão em 15 a 20 minutos. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel).",
+        "A HolyFoods vende sopas, risotos e macarrões de despensa, que ficam prontos no fogão em 15 a 20 minutos. Para quem pede pela primeira vez, a loja dá 30 dias de garantia de satisfação, que aceita uma unidade aberta se as demais estiverem fechadas.",
         "Use o EMCASA: 15% OFF em todos os produtos do site oficial, avulsos e kits, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
         "É o [cupom HolyFoods](/cupons/holyfoods) da nossa parceria com a marca, testado no checkout. Sopa, macarrão ou risoto: o código é o mesmo."
       ]
@@ -66,7 +66,7 @@
       "bullets": [
         "**Na tela “Finalizar compra”.** É nela que o campo do cupom aparece. O botão desta página abre a loja sem aplicar o código.",
         "**Campo certo.** Clique em “Inserir cupom de desconto”. O campo “Cartão-presente” não aceita o código.",
-        "**Frete grátis por estado.** O valor mínimo muda conforme o estado, e o carrinho mostra quanto falta para o seu.",
+        "**Frete grátis por estado.** Na campanha da Black, o mínimo é de R$ 199 em SP, R$ 249 em RJ, MG, DF e PR e R$ 289 em GO, SC, ES e RS. Nos outros estados, o frete sai pelo CEP no checkout.",
         "**Só no site oficial.** O código não vale no Mercado Livre."
       ],
       "postParagraphs": [
@@ -76,7 +76,7 @@
     {
       "heading": "Sopas em promoção: preço com o EMCASA",
       "paragraphs": [
-        "O EMCASA entra sobre o preço que a loja já baixou. No teste do cupom de 05/11/2026, registrado na nossa página de cupom, um Pack Sopa da Vovó e duas Sopas Detox, os três com desconto da loja, ficaram assim:"
+        "O EMCASA entra sobre o preço que a loja já baixou. No teste do cupom de 05/11/2026, registrado na nossa página de cupom, um Pack Sopa da Vovó e duas [Sopas Detox](https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), os três com desconto da loja, ficaram assim:"
       ],
       "comparisonTable": {
         "caption": "Pack Sopa da Vovó e duas Sopas Detox com desconto da loja: valores do teste no checkout, antes do frete.",
@@ -100,7 +100,7 @@
         ]
       },
       "postParagraphs": [
-        "Os 15% saíram inteiros do preço promocional. O código vale com todas as formas de pagamento; se a loja oferecer desconto no Pix, ele soma com o EMCASA. Confira o total antes de pagar."
+        "Os 15% saíram inteiros do preço promocional. A loja aceita Pix e cartão de crédito, em até 3x sem juros no cartão, e o código vale nas duas formas. Hoje a loja não mostra desconto extra no Pix, então a conta do pedido é a dos 15%. Confira o total antes de pagar."
       ],
       "images": [
         {
@@ -115,7 +115,9 @@
     {
       "heading": "E na segunda compra?",
       "paragraphs": [
-        "O EMCASA vale de novo para quem já comprou, com os mesmos 15%. Serve para repor a sopa preferida ou provar outro sabor no pedido seguinte."
+        "O EMCASA vale de novo para quem já comprou, com os mesmos 15%. O código não é só de primeira compra: a nossa página de cupom o traz tanto para quem pede pela primeira vez quanto para quem já é cliente, e é o mesmo código nos dois casos.",
+        "Na segunda compra, o caminho é o mesmo: carrinho, \"Finalizar compra\", \"Inserir cupom de desconto\", EMCASA no campo \"Código do cupom\" e \"Adicionar\". Serve para repor a sopa preferida, provar outro sabor ou fechar um pack depois de testar a sopa avulsa.",
+        "Quanto ao número de usos, vale a regra da loja. Se o checkout recusar o código, a recusa vem da loja, e a linha de desconto no resumo é quem confirma se ele entrou. Como em qualquer pedido, o EMCASA só vale no site oficial, e não no Mercado Livre."
       ]
     },
     {
@@ -129,20 +131,15 @@
         "Confira no resumo se o EMCASA foi adicionado e se o desconto apareceu antes de pagar."
       ],
       "postParagraphs": [
-        "O passo a passo com as telas está em [como usar o cupom EMCASA](/reviews/cupom-holyfoods-como-usar)."
-      ],
-      "image": "/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp",
-      "imageAlt": "Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado.",
-      "imageCaption": "O EMCASA aplicado no resumo da compra da HolyFoods, em outro pedido de teste. Os valores mudam conforme o seu pedido.",
-      "imageAspectRatio": 1.341,
-      "imageFit": "contain"
+        "O passo a passo com a tela do resumo da compra está em [como usar o cupom EMCASA](/reviews/cupom-holyfoods-como-usar)."
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Como conseguir desconto na primeira compra na HolyFoods? O EMCASA dá 15% em todo o site oficial, no primeiro pedido e nos seguintes.",
         "Qual cupom HolyFoods vale para quem já é cliente? O mesmo EMCASA, com os mesmos 15%.",
-        "O cupom HolyFoods soma com produto em promoção? Sim. Os 15% entram sobre o preço que a loja já baixou.",
+        "O cupom HolyFoods soma com produto em promoção? Sim. Os 15% entram sobre o preço que a loja já baixou. No Pix, a loja não mostra desconto extra hoje.",
         "O cupom HolyFoods vale no Mercado Livre? Não. Ele vale no site oficial da HolyFoods.",
         "Onde colar o cupom na HolyFoods? Na tela “Finalizar compra”, em “Inserir cupom de desconto”."
       ]
