@@ -13,6 +13,7 @@
   },
   "publishedAt": "16 de novembro de 2026",
   "publishedAtISO": "2026-11-16",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -24,7 +25,7 @@
   "title": "L’Amazonie é boa? O que conferir antes de comprar o sérum de sobrancelhas",
   "seoTitle": "L’Amazonie é boa? O sérum de sobrancelha funciona?",
   "type": "Guia de Marca",
-  "description": "O que a L’Amazonie promete no sérum de sobrancelhas, o que dá para verificar (uso, preço, garantia e devolução) e o que continua sem resposta. Sem uso do produto.",
+  "description": "O que a L’Amazonie promete no sérum de sobrancelhas, o que dá para verificar (uso, preço, composição e garantia) e o que continua sem resposta. Sem uso do produto.",
   "metaDescription": "CECILIA dá 5% OFF na L’Amazonie. Compare os preços dos frascos do sérum de sobrancelhas e confira a composição disponível e as regras da garantia.",
   "image": "/images/reviews/lamazonie/lamazonie-e-boa-capa-v2.webp",
   "imageAlt": "Frasco verde aberto do sérum de sobrancelhas L’Amazonie com a escova e a tampa dourada, em montagem ilustrativa sobre bancada rosada. A capa traz o logo L’Amazonie, a chamada “Sérum de sobrancelhas: vale a pena?” e o cupom CECILIA.",
@@ -34,8 +35,11 @@
     "url": "https://www.lamazonie.com.br/",
     "sponsored": true
   },
-  "editorialNote": "Feito com as páginas e as políticas da loja, a base da Anvisa e o Reclame Aqui, sem uso do produto. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Feito com as páginas e as políticas da loja, sem uso do produto. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
+    {
+      "slug": "cupom-lamazonie-como-usar"
+    },
     {
       "slug": "lamazonie-e-confiavel"
     },
@@ -43,7 +47,7 @@
       "slug": "lamazonie-reclame-aqui-nota-reputacao"
     },
     {
-      "slug": "cupom-lamazonie-como-usar"
+      "slug": "black-friday-lamazonie"
     }
   ],
   "decision": {
@@ -68,9 +72,9 @@
     {
       "heading": "O que a L’Amazonie vende",
       "paragraphs": [
-        "O catálogo do site oficial tem o sérum para crescimento de cílios e sobrancelhas, o sérum clareador de vitamina C20, o protetor solar de tratamento FPS 99, o bastão multifuncional com cor FPS 95, o gel de limpeza de vitamina C e kits com duas ou três unidades.",
+        "O catálogo do site oficial tem o [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), o [Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), o [Protetor Solar de Tratamento FPS 99](https://www.lamazonie.com.br/products/protetor-solar-facial-stick), o [Bastão Multifuncional com Cor FPS 95](https://www.lamazonie.com.br/products/bastao-multifuncional-com-cor-fps-95), o [Gel de Limpeza de Vitamina C 60 g](https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g) e kits com duas ou três unidades.",
         "A marca se apresenta como vegana e cruelty free, com fórmulas sem parabenos e sem perfume, e a página do sérum traz o selo “dermatologicamente testado”. São informações da própria marca.",
-        "Quem vende, os CNPJs e a reputação estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel)."
+        "Na linha facial, o sérum clareador e o gel de limpeza levam vitamina C no nome; o protetor em bastão FPS 99 e o bastão multifuncional com cor FPS 95 são os dois produtos de proteção. O fator e os ativos são os que a loja declara nas páginas, e este guia não testou nenhum deles."
       ]
     },
     {
@@ -116,7 +120,7 @@
     {
       "heading": "Quanto custam um, dois ou três frascos",
       "paragraphs": [
-        "A página informa rendimento de 25 a 30 dias por frasco, com duas aplicações diárias. Dois frascos correspondem, portanto, a 50 a 60 dias nessa estimativa. Já o regulamento da garantia exige dois frascos e 60 dias seguidos: confirme com a loja como cumprir o período se o produto acabar antes. A tabela compara quantidades de compra, com preços de 16 de novembro de 2026."
+        "A página informa rendimento de 25 a 30 dias por frasco, com duas aplicações diárias. Dois frascos correspondem, portanto, a 50 a 60 dias nessa estimativa. Já o regulamento da garantia exige dois frascos e 60 dias seguidos: confirme com a loja como cumprir o período se o produto acabar antes. A tabela compara quantidades de compra, com os preços do site em 16/11."
       ],
       "comparisonTable": {
         "caption": "Preços do site, sem frete. As colunas de CECILIA e Pix são cálculos separados, sobre o preço publicado; não representam os dois descontos juntos.",
@@ -150,35 +154,28 @@
       "postParagraphs": [
         "Antes dos descontos, o preço por frasco é de R$ 159,00 na unidade, R$ 124,50 na opção com dois e R$ 109,67 na opção com três. O menor preço unitário, sozinho, não define quanto comprar.",
         "As opções com dois e três frascos mostram selo de frete grátis na página do produto. A regra geral, porém, exige valor acima de 199 reais na maior parte do país e de 500 reais no Acre, no Piauí, em Rondônia e em Roraima. Confira o resultado para seu CEP depois de aplicar o código.",
-        "Cupom e Pix podem somar, conforme a regra já confirmada para o código. O total com os dois deve ser conferido no resumo do pedido. O passo a passo está em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
+        "A loja anuncia 3% de desconto no Pix, mas não testamos o Pix junto com o cupom: as duas colunas da tabela são contas separadas sobre o preço publicado, e o total real aparece no resumo do pedido. Em 22/11, no checkout da loja, o CECILIA reduziu uma oferta de R$ 159,00 para R$ 151,05. O passo a passo está em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
       ]
     },
     {
       "heading": "A garantia de 60 dias em resumo",
       "paragraphs": [
         "A [Garantia Mais Fios](https://www.lamazonie.com.br/pages/garantia) devolve o valor dos frascos usados, sem o frete, se a foto do dia 60 não mostrar fios novos em relação à do dia 1. Vale para compras no site, uma vez por CPF, e pede dois frascos, 60 dias seguidos de uso, a foto inicial em até 3 dias do recebimento e a final entre o 60º e o 70º dia. A página da garantia não fala de compra com cupom.",
-        "O regulamento permite comprar um frasco e adquirir o segundo no site antes de o primeiro acabar, desde que as demais condições sejam cumpridas. Veja as condições completas e as exclusões em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel)."
+        "O regulamento permite comprar um frasco e adquirir o segundo no site antes de o primeiro acabar, desde que as demais condições sejam cumpridas. No kit de 90 dias, o terceiro frasco lacrado pode ser devolvido. A garantia não vale em marketplace, salão ou revendedora, nem se a região tiver recebido henna, micropigmentação, lápis permanente ou depilação. A análise das fotos leva até 5 dias úteis, e o reembolso sai em até 10 dias úteis, do valor dos frascos usados, sem o frete."
       ]
     },
     {
-      "heading": "O que os clientes dizem, e de onde vem cada número",
+      "heading": "O que os clientes dizem sobre o sérum",
       "paragraphs": [
         "A página exibe nota 4,9 em 261 avaliações e informa que parte dos relatos vem de produtos relacionados agrupados pela loja. Esse conjunto não foi separado aqui por produto; ao ler uma avaliação, confira a qual item ela se refere. Não sabemos como os relatos são coletados ou moderados.",
-        "No Reclame Aqui, a L’Amazonie tem reputação Boa, com todas as reclamações do recorte de seis meses respondidas. A base de avaliações é pequena e, no histórico geral, a queixa mais citada é atraso na entrega. Os números estão em [L’Amazonie no Reclame Aqui](/reviews/lamazonie-reclame-aqui-nota-reputacao)."
-      ]
-    },
-    {
-      "heading": "Regularização e devolução",
-      "paragraphs": [
-        "Os dados abertos da Anvisa trazem dois processos com nomes de séruns de sobrancelha da marca, e o mais recente está classificado como notificado. Só o número impresso no rótulo diz qual deles corresponde ao frasco vendido hoje. Essa consulta trata da regularização para venda e não avalia resultado.",
-        "Para devolução, a [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. Para o arrependimento em compra online, o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que não se exija embalagem inviolada nem se cobre esse frete. O detalhe dos dois pontos está em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel)."
+        "Esse número serve como leitura da página, e não como medida de resultado. Quem quer saber como foi a experiência com o sérum em específico deve procurar as avaliações do próprio item e comparar com as promessas da marca descritas acima."
       ]
     },
     {
       "heading": "Vale comprar o sérum da L’Amazonie?",
       "paragraphs": [
         "Antes de decidir pelo sérum, peça a lista completa de ingredientes e confira as regras da garantia. A página não apresenta estudo do produto que permita confirmar o crescimento de fios; a garantia é um compromisso de reembolso, sujeito às condições descritas acima. Quem precisa de comprovação do resultado antes da compra deve aguardar essa informação.",
-        "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial. As condições estão na [página do cupom da L’Amazonie](/cupons/lamazonie)."
+        "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial, pelo checkout aberto no botão “Finalizar compra”. As condições estão na página do [cupom L’Amazonie](/cupons/lamazonie)."
       ]
     },
     {

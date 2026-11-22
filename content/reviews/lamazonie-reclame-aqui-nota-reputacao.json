@@ -25,7 +25,7 @@
   "title": "L’Amazonie no Reclame Aqui: nota, reputação e o que mais gera reclamação",
   "seoTitle": "L’Amazonie no Reclame Aqui: nota e reclamações",
   "type": "Análise de Reputação",
-  "description": "A nota da L’Amazonie no Reclame Aqui, o tamanho da base por trás dela, as queixas mais citadas e o que conferir sobre entrega e devolução antes de comprar.",
+  "description": "A nota da L’Amazonie no Reclame Aqui em cinco janelas, o tamanho da base por trás dela, as queixas mais citadas e o que conferir sobre entrega e devolução.",
   "metaDescription": "CECILIA dá 5% OFF na L’Amazonie. Veja a nota no Reclame Aqui, as queixas mais citadas e por que a base pequena de avaliações pede cuidado na leitura.",
   "image": "/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp",
   "imageAlt": "Modelo com o protetor solar em bastão com cor da L’Amazonie junto à bochecha, em foto oficial. A capa traz o logo L’Amazonie e a chamada “Reclame Aqui — Nota e queixas”, com o cupom CECILIA.",
@@ -48,104 +48,127 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A L’Amazonie tem reputação Boa e nota 7,0 no Reclame Aqui, com todas as reclamações do recorte de seis meses respondidas. A base é pequena, com 30 reclamações e 16 avaliadas, então cada avaliação nova mexe na nota. No histórico geral do perfil, a queixa mais citada é atraso na entrega."
+        "A L’Amazonie tem reputação Boa, nota 7,2 no Reclame Aqui nos últimos 6 meses, selo Empresa Verificada e 100% das reclamações respondidas. A base é pequena, com 18 avaliadas, e o atraso na entrega lidera os motivos na aba Geral. Se decidir comprar, o [cupom L’Amazonie](/cupons/lamazonie) CECILIA dá 5% OFF."
       ]
     },
     {
-      "heading": "A nota em números",
+      "heading": "A nota e os indicadores do período",
       "paragraphs": [
-        "O [perfil L’Amazonie no Reclame Aqui](https://www.reclameaqui.com.br/empresa/l-amazonie/) mostra os indicadores por período. Na leitura de 16 de novembro de 2026, os dois recortes mais recentes eram o de seis meses, de maio a outubro de 2026, e o de doze meses, de novembro de 2025 a outubro de 2026."
+        "O [perfil L’Amazonie no Reclame Aqui](https://www.reclameaqui.com.br/empresa/l-amazonie/) mostra os indicadores por janela. A tabela traz as cinco que o perfil oferece, lidas em 22/11. As janelas de 6 e de 12 meses se sobrepõem, e a aba Geral soma até três anos."
       ],
       "comparisonTable": {
-        "caption": "Perfil “L’Amazonie” no Reclame Aqui. As janelas de 6 e de 12 meses se sobrepõem.",
+        "caption": "Perfil “L’Amazonie” no Reclame Aqui, lido em 22/11. O perfil não calcula índice para 2024, que teve menos de 10 avaliadas.",
         "headers": [
           "Indicador",
           "6 meses",
-          "12 meses"
+          "12 meses",
+          "2025",
+          "2024",
+          "Geral"
         ],
         "rows": [
           [
             "Reputação",
-            "Boa",
-            "Boa"
-          ],
-          [
-            "Nota",
-            "7,0",
-            "7,4"
+            "Boa 7,2",
+            "Boa 7,5",
+            "Boa 7,6",
+            "Sem índice",
+            "Boa 7,4"
           ],
           [
             "Reclamações recebidas",
             "30",
-            "64"
+            "64",
+            "58",
+            "17",
+            "115"
           ],
           [
             "Respondidas",
             "100%",
+            "100%",
+            "100%",
+            "100%",
             "100%"
-          ],
-          [
-            "Problema resolvido, entre as avaliadas",
-            "75%",
-            "83,8%"
-          ],
-          [
-            "Voltariam a fazer negócio",
-            "56,3%",
-            "56,8%"
-          ],
-          [
-            "Avaliadas",
-            "16",
-            "37"
-          ],
-          [
-            "Nota média do consumidor",
-            "5,44",
-            "5,81"
           ],
           [
             "Tempo médio de resposta",
             "1 dia e 14 horas",
-            "2 dias e 15 horas"
+            "2 dias e 15 horas",
+            "4 dias e 9 horas",
+            "6 dias e 19 horas",
+            "3 dias e 22 horas"
+          ],
+          [
+            "Avaliadas",
+            "18",
+            "39",
+            "31",
+            "8",
+            "60"
+          ],
+          [
+            "Problema resolvido, entre as avaliadas",
+            "77,8%",
+            "84,6%",
+            "86,7%",
+            "–",
+            "84,7%"
+          ],
+          [
+            "Voltariam a fazer negócio",
+            "61,1%",
+            "59%",
+            "60%",
+            "–",
+            "59,3%"
+          ],
+          [
+            "Nota média do consumidor",
+            "5,56",
+            "5,85",
+            "5,83",
+            "–",
+            "5,68"
           ]
         ]
       },
       "postParagraphs": [
-        "As notas 7,0 e 7,4 são calculadas pelo Reclame Aqui, e 5,44 e 5,81 são as médias que os consumidores deram ao atendimento. Pela [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), o índice de solução e a intenção de voltar a comprar são calculados sobre as reclamações avaliadas, que são pouco mais da metade das recebidas."
+        "Os números de recebidas e de avaliadas são absolutos. Sem o total de pedidos da loja, o Reclame Aqui e este artigo não permitem transformar as 30 reclamações de 6 meses em uma proporção das vendas."
       ]
     },
     {
-      "heading": "Por que ler a nota com cuidado",
+      "heading": "O que a nota e o selo medem, e o que não medem",
       "paragraphs": [
-        "O recorte de seis meses tem 30 reclamações, e 16 foram avaliadas por quem reclamou. Como os índices de solução e de intenção de voltar a comprar usam essa base, poucas avaliações novas podem alterar o resultado. O efeito depende de quantas avaliações entram e de quais são as respostas.",
-        "O histórico mensal mostra essa oscilação. O perfil aparece sem índice em maio, junho e julho, com reputação Ótima em agosto e Boa em setembro e outubro.",
-        "O recorte de doze meses tem 37 avaliações e o histórico geral, que soma até três anos, tem 58. São bases um pouco maiores e contam uma história parecida, com mais de 80% de solução entre as avaliadas e de 57% a 58% de intenção de voltar a comprar."
+        "A nota de reputação, como 7,2, é calculada pelo Reclame Aqui a partir de como a empresa atende as reclamações registradas na plataforma. Ela não mede a qualidade do produto, a entrega de quem nunca reclamou nem a experiência de todos os clientes, e muda com o tempo, conforme entram reclamações e avaliações novas. A [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui) explica os critérios.",
+        "A nota média do consumidor, 5,56 no recorte de 6 meses, é outra coisa: é a média que quem reclamou deu ao atendimento recebido. O selo Empresa Verificada, que o perfil exibe, também não é uma avaliação de qualidade do produto. O perfil não mostra o selo RA1000."
       ]
     },
     {
-      "heading": "Como a nota mudou",
+      "heading": "Pontos positivos identificados",
       "paragraphs": [
-        "A aba de 2025 do perfil traz nota 7,6, com 58 reclamações, todas respondidas, 86,7% de solução entre as 31 avaliadas e 60% de consumidores que voltariam a comprar. No histórico geral, a nota é 7,4, com 116 reclamações, 99,1% respondidas e 84,2% de solução entre as avaliadas.",
-        "O tempo de resposta caiu. A média era de 4 dias e 9 horas em 2025 e ficou em 1 dia e 14 horas no recorte de seis meses. O índice de solução fez o caminho contrário, de 86,7% para 75%, sempre sobre poucas avaliações.",
-        "A aba de 2024 não trouxe dados na nossa leitura."
-      ]
-    },
-    {
-      "heading": "O que mais gera reclamação",
-      "paragraphs": [
-        "Na aba geral do perfil, o problema mais citado é “Atraso na entrega”, com 43,1% das reclamações.",
-        "As reclamações mais recentes da página, na data da leitura, tratavam destes temas:"
+        "Estes são os pontos que o perfil mostra a favor da L’Amazonie na leitura de 22/11:"
       ],
       "bullets": [
-        "pedido que não saiu no prazo de envio informado;",
-        "pedido parado em separação;",
-        "compra não recebida e e-mail sem resposta;",
-        "produtos não recebidos;",
-        "sérum que chegou vazio."
+        "**Empresa Verificada.** O perfil tem o selo e informa 5 anos de cadastro no Reclame Aqui.",
+        "**Reputação Boa.** Boa nos recortes de 6 meses (7,2), de 12 meses (7,5) e de 2025 (7,6), e Boa também no Geral (7,4). O histórico do perfil vai de “Sem índice” a “Boa”.",
+        "**100% respondidas.** Todas as reclamações de todas as janelas tiveram resposta da empresa, sem nenhuma aguardando.",
+        "**Tempo de resposta caindo.** A média era de 4 dias e 9 horas em 2025 e ficou em 1 dia e 14 horas nos últimos 6 meses.",
+        "**Solução e intenção de voltar.** Entre as avaliadas, 77,8% tiveram o problema considerado resolvido e 61,1% voltariam a fazer negócio nos últimos 6 meses. Os dois índices valem só para as reclamações avaliadas, e não para todos os clientes."
+      ]
+    },
+    {
+      "heading": "Pontos de atenção e principais queixas",
+      "paragraphs": [
+        "A base é pequena. O recorte de 6 meses tem 30 reclamações e 18 avaliadas, então uma ou duas avaliações novas mudam os índices de solução e de intenção de voltar. A nota 7,2 de agora pode ser outra na próxima leitura, e foi por isso que a tabela mostra as cinco janelas lado a lado.",
+        "A solução caiu na comparação entre janelas, de 86,7% em 2025 para 77,8% nos últimos 6 meses, sempre sobre poucas avaliadas. O ponto mais citado fica na aba Geral, que cobre até três anos e é outro período, diferente do semestre:"
+      ],
+      "bullets": [
+        "**Atraso na entrega:** 43,48% das reclamações da aba Geral.",
+        "**“Não encontrei meu problema”:** 6,96% das reclamações da aba Geral."
       ],
       "postParagraphs": [
-        "Todas tinham resposta da empresa. São relatos dos consumidores; a leitura não permite estimar a frequência de cada problema nem concluir quem tem razão em cada caso."
+        "Os dois percentuais são da aba Geral e não dizem nada sobre o semestre. Também não dizem quem tinha razão em cada caso, porque são relatos de consumidores."
       ]
     },
     {
@@ -153,27 +176,21 @@
       "paragraphs": [
         "A [política de frete da L’Amazonie](https://www.lamazonie.com.br/policies/shipping-policy) informa envio pelos Correios (PAC e SEDEX) e pela Total Express, só para o Brasil. O despacho acontece em até 3 dias úteis depois da compensação do pagamento, que pode levar de 24 a 72 horas. O prazo de entrega só começa a contar depois da postagem.",
         "O código de rastreio chega por e-mail depois do faturamento e fica na conta do cliente, em Meus Pedidos. A página avisa que ele só passa a funcionar quando a agência registra o recebimento do pacote.",
-        "A mesma política diz que o cumprimento do prazo é de responsabilidade dos Correios e da Total Express e pede que o cliente avise a central de atendimento em caso de problema. Dos cinco relatos recentes que lemos, quatro tratam de envio ou de entrega."
+        "A mesma política diz que o cumprimento do prazo é de responsabilidade dos Correios e da Total Express e pede que o cliente avise a central de atendimento em caso de problema. Como o atraso é o motivo mais citado, vale conhecer essas etapas antes de pagar."
       ]
     },
     {
-      "heading": "Qual perfil é o da L’Amazonie",
+      "heading": "Como a loja responde e o que conferir antes de comprar",
       "paragraphs": [
-        "O perfil se chama “L’Amazonie”, tem o selo de empresa verificada, está na categoria de cuidados com a pele (dermocosméticos), aponta para o site lamazonie.com.br e informa que a empresa está no Reclame Aqui há 5 anos.",
-        "O CNPJ que aparece no perfil é 31.469.239/0001-39. O rodapé do site oficial traz outro: ABRAHAO VAREJISTA LTDA, CNPJ 60.522.061/0001-40."
-      ]
-    },
-    {
-      "heading": "O que conferir antes de comprar",
-      "paragraphs": [
-        "Entrega e devolução têm regra publicada pela loja. Vale conhecer antes de pagar:"
+        "O perfil se chama “L’Amazonie”, tem o selo de empresa verificada, está na categoria de cuidados com a pele (dermocosméticos) e aponta para o site lamazonie.com.br. O CNPJ que aparece no perfil do Reclame Aqui é 31.469.239/0001-39. O rodapé do checkout seguro.lamazonie.com.br traz ABRAHAO VAREJISTA LTDA, CNPJ 60.522.061/0001-40.",
+        "Os canais da própria loja são o WhatsApp do rodapé do checkout, (92) 98614-5476, e o e-mail sac@lamazonie.com.br. Tenha em mãos o número do pedido, a data da compra e o código de rastreio. Antes de comprar, confira:"
       ],
       "bullets": [
-        "**Prazo.** Simule frete e entrega pelo CEP. A política separa compensação do pagamento, despacho em até 3 dias úteis e transporte após a postagem. Confirme com a loja se a previsão mostrada no carrinho já inclui todas essas etapas.",
+        "**Prazo.** Simule frete e entrega pelo CEP. A política separa compensação do pagamento, despacho em até 3 dias úteis e transporte após a postagem. Confirme se a previsão mostrada no carrinho já inclui todas essas etapas.",
         "**Data marcada.** Para presente ou viagem, faça a conta com folga. A política cita datas festivas e greves entre os motivos de atraso.",
         "**Endereço.** Se o pacote voltar por endereço errado ou incompleto, o frete do reenvio é cobrado de novo. Quem pede o reembolso nesse caso recebe só o valor dos produtos.",
-        "**Devolução.** A [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. Para o arrependimento em compra online, o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que não se exija embalagem inviolada nem se cobre esse frete. Veja o detalhe em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
-        "**Produto com problema.** A página de devoluções não trata de produto com defeito ou vazio. Se acontecer, fotografe o pacote e o produto no dia em que chegar e fale com a loja."
+        "**Devolução.** A [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. As condições completas estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
+        "**Produto com problema.** A página de devoluções não trata de produto com defeito ou vazio. Se acontecer, fotografe o pacote e o produto no dia em que chegar, guarde o comprovante do pedido e fale com a loja pelos canais acima."
       ],
       "images": [
         {
@@ -187,28 +204,23 @@
       ]
     },
     {
-      "heading": "Se der problema",
+      "heading": "Vale a pena comprar na L’Amazonie?",
       "paragraphs": [
-        "O primeiro canal é o da loja. O rodapé do site informa atendimento por WhatsApp e pelo e-mail sac@lamazonie.com.br, de segunda a sexta, das 9h às 19h, e aos sábados, das 8h às 12h. Tenha em mãos o número do pedido, a data da compra e o código de rastreio.",
-        "Se a loja não resolver, registre a reclamação no Reclame Aqui com esses dados. O Procon do seu estado também atende casos de compra pela internet."
-      ]
-    },
-    {
-      "heading": "O que os números indicam",
-      "paragraphs": [
-        "A L’Amazonie respondeu todas as reclamações dos dois recortes mais recentes, e o tempo médio de resposta é menor do que o de 2025. No recorte de seis meses, uma em cada quatro reclamações avaliadas não teve o problema considerado resolvido, e pouco mais da metade de quem avaliou voltaria a comprar. No histórico geral, a queixa mais citada é atraso na entrega, então a conta do prazo merece atenção antes do pagamento. Como a base é pequena, abra o perfil no dia da compra para ver a nota atual.",
-        "Quem vende, o que a Anvisa mostra sobre o sérum e as condições da garantia de 60 dias estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
-        "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial. As condições estão na [página do cupom da L’Amazonie](/cupons/lamazonie)."
+        "Pelo perfil, a L’Amazonie tem reputação Boa em todas as janelas com índice, selo de empresa verificada, 5 anos de cadastro, todas as reclamações respondidas e um tempo de resposta que caiu de 4 dias e 9 horas para 1 dia e 14 horas. Do outro lado, a base de avaliadas é pequena, a solução ficou em 77,8% nos últimos 6 meses e o atraso na entrega lidera os motivos da aba Geral.",
+        "Na prática, a conta do prazo merece atenção antes do pagamento, e o perfil vale uma abertura no dia da compra para ver a nota atual. Quem vende, o que a Anvisa mostra sobre o sérum e as condições da garantia de 60 dias estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
+        "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial e funciona no checkout seguro.lamazonie.com.br, aberto pelo botão “Finalizar compra” do carrinho. As condições estão na [página do cupom da L’Amazonie](/cupons/lamazonie), e o passo a passo, em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A L’Amazonie é confiável no Reclame Aqui? O perfil tem reputação Boa e todas as reclamações dos recortes de seis e doze meses receberam resposta. No recorte de seis meses, 75% das avaliadas tiveram o problema considerado resolvido e 56,3% de quem avaliou voltaria a comprar. A base é de 16 avaliações.",
-        "A L’Amazonie responde as reclamações? Sim. Nos dois recortes lidos, 100% das reclamações tiveram resposta. No de seis meses, a resposta levou 1 dia e 14 horas, em média.",
-        "O que fazer se o pedido da L’Amazonie não chegou? Confira o rastreio enviado por e-mail e lembre que o prazo conta da postagem, depois de até 3 dias úteis de despacho. Depois, fale com a loja pelo WhatsApp ou pelo e-mail do atendimento. Sem solução, registre no Reclame Aqui ou procure o Procon do seu estado.",
-        "A L’Amazonie devolve o dinheiro? Existe o direito de arrependimento em até sete dias do recebimento na compra online. A política da loja exige caixa lacrada e frete de retorno por conta do cliente; o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que essas exigências não sejam impostas para esse direito. Se houver dificuldade, procure o órgão de defesa do consumidor."
+        "A L’Amazonie é confiável no Reclame Aqui? O perfil tem selo de empresa verificada, 5 anos de cadastro e reputação Boa, com nota 7,2 nos últimos 6 meses. A base é pequena, de 18 avaliadas, e a nota muda com cada avaliação nova.",
+        "O que significa a reputação Boa da L’Amazonie? É a faixa que o Reclame Aqui dá a partir do atendimento às reclamações registradas na plataforma. Ela não mede a qualidade do produto nem a opinião de todos os clientes.",
+        "A L’Amazonie responde as reclamações? Sim. Em todas as janelas do perfil, 100% das reclamações tiveram resposta. A média de resposta nos últimos 6 meses foi de 1 dia e 14 horas, contra 4 dias e 9 horas em 2025.",
+        "O que fazer se o pedido da L’Amazonie não chegou? Confira o rastreio enviado por e-mail e lembre que o prazo conta da postagem, depois de até 3 dias úteis de despacho. Se o código não avançar, fale com a loja pelo WhatsApp (92) 98614-5476 ou pelo e-mail sac@lamazonie.com.br, com o número do pedido.",
+        "O cupom CECILIA vale na L’Amazonie? O CECILIA dá 5% OFF no site oficial e só funciona no checkout seguro.lamazonie.com.br, aberto pelo botão “Finalizar compra” do carrinho, no campo “Tem um cupom?”. Detalhes na [página do cupom da L’Amazonie](/cupons/lamazonie)."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-22"
 }
