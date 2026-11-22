@@ -30,9 +30,9 @@ O redator deve preencher a matriz de claims no rodapé da nota para facilitar a 
 
 ## 4. Fonte canônica e localização
 
-Quando a pauta sai nos 10 idiomas (`modo_i18n: paridade-completa`), o texto PT é a
+Quando a pauta sai nos 11 idiomas (`modo_i18n: paridade-completa`), o texto PT é a
 fonte canônica da família. Marcar no rascunho quais claims são universais e quais
-dependem de país, preço, frete, moeda, disponibilidade ou campanha. As 9 versões
+dependem de país, preço, frete, moeda, disponibilidade ou campanha. As 10 versões
 são escritas no Job 4, a partir do PT aprovado no Job 3: localização editorial, não
 tradução literal, com os fatos de mercado ditos como do mercado de origem (ex.:
 preço em reais na loja brasileira da SHEIN). As versões se ligam ao PT por `translationKey`,
@@ -63,16 +63,16 @@ Quando a conclusão usar uma experiência real, identificar o produto, o context
 
 Em Suplementos-Alimentos e Beleza, manter as restrições de recomendação e de efeitos já definidas nos respectivos anexos. Não usar "eu levaria", "eu tomaria" ou "eu usaria", nem transformar comparação de dados em indicação de uso. "Pelos números da tabela" é uma possibilidade de redação, não uma fórmula obrigatória.
 
-**Cartão de destaque (`emphasis`):** no máximo um por artigo, no capítulo de conclusão. Destaca uma decisão ou interpretação útil que a Cecília assinaria, porque o cartão leva a assinatura dela. Pode ter ou não primeira pessoa; não serve para abrigar dado de loja isolado, regra de cupom ou aviso. Não preencher só para cumprir uma fórmula.
+**Cartão de destaque (`emphasis`):** opcional, no máximo um por artigo (de preferência no capítulo de conclusão). Destaca um julgamento ou conclusão editorial que a Cecília assinaria, porque o cartão leva a assinatura dela. Pode ter ou não primeira pessoa; não serve para abrigar dado de loja isolado, regra de cupom, aviso ou passo a passo de checkout (regras e procedimentos de checkout que mudam a compra entram no corpo, pois o rodapé padrão da loja usa `ArticleStoreBlock` com copy própria). Não preencher só para cumprir uma fórmula: a ausência de `emphasis` por si só não é defeito.
 
 **Ficha, estrelas, prós e contras:** só aparecem em artigo `reviewKind: "produto"`, que exige uso real. Guia não preenche `verdict`, `pros`, `cons` nem `productSpec`: nas guias, a ficha vai na tabela e o "para quem / quando não" no texto.
 
-**Quadro "Leve se / Passe se" (campo `decision` do artigo, desde 01/11/2026):** a decisão num relance, para guia, comparativo e editorial. Artigo de produto não leva (tem prós e contras; o `validate:content` barra).
+**Quadro "Leve se / Passe se" (campo `decision` do artigo, desde 01/11/2026):** a decisão num relance, quando o guia ou comparativo ajuda a escolher e há perfis ou cenários distintos sustentados no texto. Em tutorial de passo a passo, artigo de primeira compra ou página de reputação, avaliar se o quadro acrescenta uma escolha real antes de incluí-lo (sem obrigação mecânica em todo artigo). Artigo de produto não leva (tem prós e contras; o `validate:content` barra).
 - **Formato:** `"decision": { "takeIf": ["…"], "skipIf": ["…"] }`, no nível do artigo. De 1 a 3 frases em cada lista, sem markdown e sem "R$". Os rótulos vêm do site, não do JSON.
 - **Lugar:** o site põe o quadro sozinho, logo antes do FAQ (sem FAQ, depois da última seção). Não entra no sumário, no áudio nem no JSON-LD.
 - **De onde sai:** das frases de "para quem / quando não" dos capítulos, ditas como perfil ou situação do leitor ("Leve se você usa a mala em voo nacional com bagagem de mão"). Nada que o artigo não diga; sem primeira pessoa; em Beleza e Suplementos-Alimentos, sem efeito no corpo.
 - **Não repete a conclusão:** o cartão de destaque traz a decisão; o quadro diz para quem ela serve e para quem não.
-- **Família de 10 idiomas:** se o PT tem o quadro, todas as versões têm, com o mesmo número de frases e nenhuma igual à do PT (`test:review-i18n`). Quadro novo num artigo de família só entra junto com as 9 traduções.
+- **Família de 11 idiomas:** se o PT tem o quadro, todas as versões têm, com o mesmo número de frases e nenhuma igual à do PT (`test:review-i18n`). Quadro novo num artigo de família só entra junto com as 10 traduções.
 
 **Para quem / quando não:** cada produto com capítulo próprio tem uma frase de para quem serve e uma de quando não escolher. Julgamento por perfil é o que a loja não faz: "a Heavy é para quem não quer a camiseta marcando o corpo; se usa por baixo do blazer no calor, fique na Tech".
 

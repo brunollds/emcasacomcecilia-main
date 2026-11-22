@@ -38,6 +38,7 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - Loja oficial do parceiro em marketplace e o preço lá. O `couponsData.ts` pode já ter o link meli.la da marca no FAQ.
 - Avaliações públicas com nota, número e fonte; tabela de medidas; composição; política de troca.
 - Contador e faixa de urgência do site são estratégia de marketing, não data de fim de promoção.
+- **Campanha × banner do parceiro (`content/campanhas/`):** para cada campanha citada na pauta ou em artigo reformado, conferir oferta, código, destino (`href`) e prazo (`endsAt`) tanto no texto quanto no JSON correspondente em `content/campanhas/` (`npm run test:store-banners`). Não cristalizar no artigo condição de esquenta/pré-Black com vencimento iminente sem avisar o prazo.
 
 ### Cobrir o tema inteiro e não enfraquecer o CTA (lição da L17, 21/11/2026)
 A L17 (`lets-eat-it-loja-fisica-endereco`) saiu melhor que a da concorrente, mas fraca: o briefing resumiu a página da Casa Let's "pelo texto da página" em três ambientes, deixou de fora o pet-friendly, o concierge, o e-mail da Casa e as marcas fora do desconto presencial, e deu ao desconto da loja física um capítulo próprio. O artigo acabou destacando o canal que concorre com o nosso link e escondendo onde o site com o código ganha. Daqui em diante:
@@ -71,7 +72,7 @@ A L17 (`lets-eat-it-loja-fisica-endereco`) saiu melhor que a da concorrente, mas
 - Como usar diz como vestir, não repete a ficha. Combina com só leva o que acrescenta: nada de chinelo ou meia genéricos; sem combinação útil, a peça fica só com como usar e ocasião (acessórios, pijamas, roupa íntima).
 - Sem preço e sem markdown no card. Sem dizer que alguém do site usou a peça.
 - Link da peça é o de afiliado (na Insider, o link de criador `creators.insiderstore.com.br/<código>`, conferido pelo redirecionamento até o produto certo). Peça sem link fica sem `url`; esgotada fica fora do card.
-- Família de 10 idiomas: o mesmo card e o mesmo `href` em toda versão, na mesma seção e posição; como usar, ocasião e nota traduzidos. Na SHEIN, o link de produto vale em todo idioma, `onelink.shein.com` ou `br.shein.com` (a SHEIN leva o leitor à loja regional; regra de 02/11); os links de cupom do PT ficam só no PT. O `test:review-i18n` barra a diferença.
+- Família de 11 idiomas: o mesmo card e o mesmo `href` em toda versão, na mesma seção e posição; como usar, ocasião e nota traduzidos. Na SHEIN, o link de produto vale em todo idioma, `onelink.shein.com` ou `br.shein.com` (a SHEIN leva o leitor à loja regional; regra de 02/11); os links de cupom do PT ficam só no PT. O `test:review-i18n` barra a diferença.
 - O briefing traz o card proposto de cada seção para o Bruno aprovar junto com a pauta.
 
 ### Snippet com o código
@@ -114,7 +115,7 @@ Antes de calcular qualquer pontuação, a pauta DEVE passar por todos os 7 port�
 - [ ] **5. Classe Editorial Válida:** Enquadra-se com clareza em uma das 4 classes (`category`)?
 - [ ] **6. Fontes Acessíveis & Atuais:** As fontes foram consultadas recentemente e são estáveis?
 - [ ] **7. Decisão i18n Registrada:** A pauta foi marcada como `somente-pt` ou
-  `paridade-completa` (YesStyle e SHEIN saem nos 10 idiomas), com `translationKey`
+  `paridade-completa` (parceiros multilíngues com família saem nos 11 idiomas, incluindo `ar`), com `translationKey`
   prevista quando abrir uma família? As traduções são localização editorial, não
   tradução automática.
 
@@ -155,8 +156,8 @@ Não há nota de corte: a pauta segue ou para por decisão do Bruno. A nota orie
 ## 6. Output Esperado
 Criar o briefing com o `04_Templates/Template-Briefing-Pauta.md`: primeiro no scratchpad com `status: "briefing"` e, depois das decisões do Bruno, em `02_Artigos/<slug>.md` com `status: "pauta-aprovada"` (fluxo na seção 1).
 
-Quando a pauta pertence a um parceiro multilíngue (hoje YesStyle e SHEIN), ela sai
-nos 10 idiomas: registrar a chave estável do artigo e ligar a pauta à nota em
+Quando a pauta pertence a um parceiro multilíngue em `paridade-completa`, ela sai
+nos 11 idiomas (`pt` + 10 traduções, incluindo `ar`): registrar a chave estável do artigo e ligar a pauta à nota em
 `03_Memoria/Clusters-Multilingues/`. `i18n_cluster` documenta o contexto;
 `translationKey` é a chave que o JSON usa para conectar as versões. Os modos estão
 em `03_Memoria/Clusters-Multilingues/Modelo-Operacional.md`.

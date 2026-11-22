@@ -17,7 +17,7 @@ npm run validate:content               # fica fora do npm run build
 npm run build
 ```
 
-O `npm run build` roda os testes de conteúdo antes do `next build` (entre eles a vitrine em português, os idiomas e as famílias, os links internos, as lojas traduzidas e a validade das ofertas da YesStyle, que derruba a build quando uma oferta ativa vence) e, depois dele, o bundle do navegador, o `<html lang>` e o `test:build-output`. Para iterar mais rápido, cada teste roda solto (ex.: `npm run test:review-i18n`).
+O `npm run build` roda os testes de conteúdo antes do `next build` (entre eles a vitrine em português, os idiomas e as famílias, a direção RTL, os banners de campanha, os links internos, as lojas traduzidas e a validade das ofertas da YesStyle, que derruba a build quando uma oferta ativa vence) e, depois dele, o bundle do navegador, o `<html lang>` e o `test:build-output`. Para iterar mais rápido, cada teste roda solto (ex.: `npm run test:review-i18n`, `npm run test:rtl`, `npm run test:store-banners`).
 
 O `validate:content` também confere o snippet dos artigos em português com `coupon` (`checkSnippet`): a regra do Job 1, "Snippet com o código".
 
@@ -31,10 +31,10 @@ node scripts/media/candidate-proof.mjs   # depois do staging por caminhos explí
 
 Depois do `npm run build`: `node scripts/media/test-review-delivery-html.mjs` e conferir hero, imagens inline, ampliação e carrosséis no navegador (as URLs saem do CDN). Verificar `git config --local --get core.hooksPath` = `.githooks`. Só marcar `pronto-para-deploy` com todos os assets do artigo com `verification_status=verified` e no mapa; upload e deploy exigem GO do Bruno.
 
-Para uma família nos 10 idiomas, rodar também os gates da nota do cluster (por
-exemplo, a prova de mutação da YesStyle). O `test:build-output`, que roda no build,
+Para uma família nos 11 idiomas, rodar também os gates da nota do cluster (por
+exemplo, a prova de mutação da YesStyle) e conferir o HTML árabe (`dir="rtl"`). O `test:build-output`, que roda no build,
 confere o `<head>` de todo artigo de família: o canonical da própria página e o
-hreflang dos 10 idiomas com o `x-default` no inglês. À mão, no HTML gerado de uma
+hreflang dos 11 idiomas com o `x-default` no inglês. À mão, no HTML gerado de uma
 versão, falta só o seletor de idioma antes de atualizar a matriz para `completo`.
 
 Com os gates verdes, a nota vai para `status: pronto-para-deploy`. O deploy é
@@ -49,9 +49,11 @@ ele. O script só aceita URLs de `emcasacomcecilia.com`.
 
 ```powershell
 npm run indexnow:submit -- --dry-run https://emcasacomcecilia.com/reviews/<slug> https://emcasacomcecilia.com/sitemap.xml https://emcasacomcecilia.com/llms.txt
+# Ou, para coletar automaticamente os JSONs alterados desde um commit/ref (incluindo /cupons/<loja> ativa, sitemap.xml e llms.txt):
+npm run indexnow:submit -- --dry-run --since <commit-anterior>
 ```
 
-Família nos 10 idiomas: as 10 URLs, `/reviews/<slug>` em português e
-`/<locale>/reviews/<slug>` nos outros, com o slug de cada versão. Usar sempre a
+Família nos 11 idiomas: as 11 URLs, `/reviews/<slug>` em português e
+`/<locale>/reviews/<slug>` nos outros (incluindo `/ar/reviews/<slug>`), com o slug de cada versão. Usar sempre a
 URL completa: no Git Bash, um caminho que começa com `/` vira caminho do Windows,
 e o script o recusa.

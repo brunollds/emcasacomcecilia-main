@@ -22,8 +22,8 @@ Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integr
 - [ ] **6. Escopo por Locale:** Claims universais estão separados dos fatos de
   país, moeda, entrega, catálogo ou campanha que precisam de rechecagem/localização?
 - [ ] **7. Gate i18n:** A pauta segue o modo registrado no Job 1 (`somente-pt` ou
-  `paridade-completa`)? Em `paridade-completa`, o PT aprovado aqui é a fonte das 9
-  traduções que o Job 4 escreve.
+  `paridade-completa`)? Em `paridade-completa`, o PT aprovado aqui é a fonte das 10
+  traduções (incluindo `ar`) que o Job 4 escreve.
 - [ ] **8. Nome do Código:** Cada código é chamado pelo que ele é na loja? O
   `CECILIA010` da YesStyle é código de recompensa, nunca cupom; o `4CW5Y` da SHEIN é
   código de indicação da SHEIN, nunca "SHEIN Brasil" (regra de 02/11). Não há código de terceiros nem cupom
@@ -47,8 +47,8 @@ O revisor conta no JSON: `contentSections`, FAQ, legendas e tabelas. O `editoria
 | C2 | Datas no corpo | Datas (dd/mm, dd/mm/aaaa, "dia 25 de novembro") em capítulos, FAQ, tabelas, legendas e títulos. O `editorialNote` fica fora | A data da leitura uma vez, na legenda da tabela de preço, e no máximo mais uma; sem data em legenda de foto, célula, título, FAQ ou `editorialNote`. Exceção (nota do Reclame Aqui, fim de campanha, prazo de entrega) não conta, e só vale onde o número muda de sentido sem o período |
 | C3 | "Nota de transparência" no corpo | Busca do título em qualquer bloco do corpo, inclusive FAQ | Zero. A divulgação fica no `editorialNote` (curto, sem data); a data, na legenda da tabela; o método, no vault |
 | C4 | "segundo a loja" | Ocorrências dentro de cada capítulo (cada `##`) | No máximo 1 por capítulo |
-| C5 | "ninguém usou", "ninguém do site usou", "não testamos" | Ocorrências no corpo (fora do `editorialNote`) | Zero. Uma vez só, no capítulo do cupom, e só quando a ressalva muda a compra, com o que fazer |
-| C6 | Número repetido | Cada preço, %, nota ou contagem da tabela: quantas vezes aparece no resto do artigo | O parágrafo não repete o valor da tabela e diz o que ela não diz. O veredito retoma no máximo uma vez o número decisivo. O FAQ não traz valor com centavos e aponta o capítulo |
+| C5 | Falta de uso e limitações no corpo | Ocorrências de "ninguém usou", "ninguém do site usou" ou "não testamos" no corpo (fora do `editorialNote`), e ressalvas de limitação da fonte | Zero para falta de uso no corpo (declarar a falta de uso apenas no `editorialNote`). Se uma limitação mudar a decisão de compra, explicar uma vez, na seção relevante, o que a fonte permite saber e o que o leitor deve conferir |
+| C6 | Número repetido e conta atualizada | Cada preço, %, nota ou contagem da tabela: quantas vezes aparece no resto do artigo, e se as contas na prosa batem com os valores da tabela atual | O parágrafo não repete o valor da tabela e diz o que ela não diz. Se a tabela atualizou preços, a conta por unidade/dose/kit foi refeita com os valores da mesma consulta (sem apagar a conclusão nem manter conta antiga), separando o que foi testado no carrinho do que é simulação. O veredito retoma no máximo uma vez o número decisivo. O FAQ não traz valor com centavos e aponta o capítulo |
 | C7 | Capítulo só de encaminho ou método | Capítulo de uma frase, ou só link para outro artigo, ou que explica "como lemos", "método" ou "como testamos" | Zero. Encaminho vira frase no capítulo vizinho ou item do FAQ |
 | C8 | Foto de produto | Cada produto com capítulo próprio: a foto está nesse capítulo. Se o produto tem link de afiliado, a foto tem `href` igual a ele | Todas; nenhuma foto de produto fora do capítulo dele |
 | C8b | Card de estilo | Em artigo de moda elegível (o briefing lista os capítulos), cada capítulo de peça ou linha disponível | Contém `styling` válido; os itens correspondem às peças tratadas, têm como usar ou ocasião útil e o link certo. Produto indisponível não entra no card. Os capítulos estão em `scripts/styling-required.json` |
@@ -57,8 +57,8 @@ O revisor conta no JSON: `contentSections`, FAQ, legendas e tabelas. O `editoria
 | C11 | Briefing × REGRAS-GLOBAIS | Lê o esqueleto e a resposta rápida planejada do briefing contra `REGRAS-GLOBAIS.md`, seção 6 | Nenhum item contradiz a seção 6 (ex.: R$ ou preço com cupom na resposta rápida). Se contradiz, vale a REGRAS-GLOBAIS e o briefing é corrigido antes da redação |
 | C12 | A primeira frase decide | A primeira frase de cada capítulo (fora FAQ e tabela solta) | Entrega a conclusão de um critério de decisão. Frase que só apresenta o assunto ("A Tech é a camiseta clássica da Insider") falha |
 | C13 | Conclusão e motivo | Ler o fechamento com os dados e perfis discutidos no artigo | A conclusão ajuda a decidir; explicita a situação em que vale; o motivo acrescenta um critério útil sustentado no texto. Não inventa uso, não força vencedora geral e não exige primeira pessoa. Guias de utilidade podem concluir com uma orientação. Uso real diz o produto e o contexto; produto recebido em parceria não vira compra pessoal. Mantém as restrições de Suplementos-Alimentos e Beleza |
-| C13b | Cartão de destaque | Campos `emphasis` no artigo | No máximo 1, com uma decisão ou interpretação útil que a Cecília assinaria. Dado de loja, regra de cupom ou aviso no cartão falha |
-| C13c | Quadro "Leve se / Passe se" | Campo `decision` em guia, comparativo e editorial | Guia de escolha e comparativo têm o quadro; cada frase sai de um "para quem / quando não" do texto, sem R$, sem primeira pessoa e sem efeito no corpo. Artigo de produto não tem |
+| C13b | Cartão de destaque | Campos `emphasis` no artigo | Opcional (0 ou 1). Quando usado, traz julgamento ou conclusão editorial que a Cecília assinaria. Dado de loja isolado, regra de cupom, passo de checkout ou aviso no cartão falha |
+| C13c | Quadro "Leve se / Passe se" | Campo `decision` em guia, comparativo e editorial | Presente quando o guia ou comparativo ajuda a escolher entre perfis ou cenários distintos sustentados no texto (em tutorial passo a passo, primeira compra ou reputação, só se acrescentar escolha real); cada frase sai de um "para quem / quando não" do texto, sem R$, sem primeira pessoa e sem efeito no corpo. Artigo de produto não tem |
 | C14 | Título em forma de pergunta | Cada título de capítulo que é pergunta, contra o banco de perguntas reais do dossiê | Todos estão no banco palavra por palavra. Pergunta fora do banco vira título direto |
 
 ### 2.3 Rótulos permitidos (C9)

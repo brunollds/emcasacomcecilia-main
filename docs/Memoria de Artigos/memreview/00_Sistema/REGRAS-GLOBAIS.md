@@ -47,7 +47,7 @@
 ## 5. Segurança Regulatória & Claims de Saúde
 - **Suplementos e Alimentos (I Wanna Sleep / Nestlé Nutre):**
   - Jamais prometer cura, tratamento ou benefícios não aprovados pela ANVISA.
-  - O texto do artigo não cita a Anvisa (registro, aprovação, proibição ou banimento) e não faz alegação de saúde. A Anvisa serve à pauta como checagem interna, não como argumento no texto; exceção só por decisão do Bruno no artigo.
+  - O texto do artigo não cita a Anvisa (registro, aprovação, proibição ou banimento) e não faz alegação de saúde. A Anvisa serve à pauta como checagem interna, não como argumento no texto; exceção só por decisão do Bruno no artigo. Quando uma exceção for aprovada num artigo (ex.: guia de confiança de cosméticos que ensina a consultar um processo público oficial), delimitar o produto e a fonte oficial, mantendo a distinção entre **notificação**, **registro** e **eficácia comprovada**. Quando o rótulo não traz número de processo no site (ex.: suplemento alimentar dispensado de registro), ater-se aos dados verificáveis do rótulo sem expandir capítulo regulatório.
   - Toda afirmação na matriz de claims deve apontar para uma **fonte exata** (com resolução, trecho do rótulo ou URL oficial). A matriz guarda a fonte completa. No corpo, a fonte aparece **uma vez por artigo**, no capítulo do dado que decide a compra, junto do rótulo de origem da seção 7 ("A loja informa:"); o FAQ e o veredito não a repetem. Alegação de saúde não entra no corpo, com fonte ou sem.
   - Sempre orientar a consulta a um médico ou nutricionista em questões de saúde e posologia.
 
@@ -79,7 +79,7 @@ Vale para artigo novo e para revisão. Os exemplos são trechos da auditoria de 
 ### Quatro rótulos para conhecimento geral
 - **Regra.** Conhecimento geral entra com um dos quatro rótulos, cada um usado uma vez por artigo, onde se aplica:
   - "A loja informa:", para o que vem da loja;
-  - "Conta nossa:", para as nossas contas, dizendo na mesma frase de onde vêm os números (ficha ou rótulo);
+  - "Conta nossa:", para as nossas contas, dizendo na mesma frase de onde vêm os números (ficha, rótulo ou carrinho). Separar o que foi **demonstrado no carrinho** (SKU efetivamente testado no checkout) do que é **simulação aritmética** sobre preço de vitrine de outro kit ou SKU não testado (ex.: `R$ 32,97`/frasco conferido num kit específico vs. a mesma divisão aplicada a outro trio de mesmo preço, que deve ser identificada como simulação);
   - "Regra prática, sem teste nosso:", para conhecimento geral, sempre com a premissa escrita;
   - "Recebi:" ou "Usei:", para experiência real (o produto recebido ou o uso, com quem e por quanto tempo).
 
@@ -98,8 +98,8 @@ Vale para artigo novo e para revisão. Os exemplos são trechos da auditoria de 
 - **Antes (ressalva com a ação):** "Ninguém do site usou o produto no rosto. Este texto repete o que a Skelt indica e não descreve resultado nenhum."
 - **Depois:** "Maquiagem corporal nova no rosto pede cuidado: comece com pouco, numa área pequena, e espere secar antes de julgar o brilho."
 
-### Número uma vez
-- **Regra.** O dado fica na tabela; o parágrafo diz o que a tabela não diz. O veredito pode retomar o número decisivo; o FAQ aponta o capítulo, sem repetir centavos.
+### Número uma vez (e conta refeita quando o dado muda)
+- **Regra.** O dado fica na tabela; o parágrafo diz o que a tabela não diz. O veredito pode retomar o número decisivo; o FAQ aponta o capítulo, sem repetir centavos. Em reforma ou atualização de preços na tabela, **refazer obrigatoriamente a conta e a conclusão na prosa com os valores da mesma consulta**: nunca apagar a leitura por unidade/kit deixando a tabela muda, nem manter no texto a economia calculada sobre preços de outra data (ex.: se 10 avulsos passaram a `R$ 69,70` e o kit a `R$ 64,82`, atualizar a conclusão para a economia atual de `R$ 4,88` antes do cupom e do Pix).
 - **Antes:** "Em 28/10/2026, a reputação era Boa, com nota 7,5 nos seis meses até 30/09/2026, 95,3% das 32.431 reclamações respondidas e 77,8% dadas como resolvidas." (os mesmos números voltam em cinco capítulos)
 - **Depois:** "Dá, com uma condição: guarde o comprovante e o rastreio. A SHEIN responde a quase todas as reclamações e resolve a maior parte. Os números estão no quadro do início."
 
