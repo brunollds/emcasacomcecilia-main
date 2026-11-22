@@ -5058,8 +5058,9 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/pinkcheeks.webp',
     brandColor: '#FF7800',
     cartPrint: {
+      article: 'cupom-pinkcheeks-como-usar',
       src: '/images/reviews/pinkcheeks/cupom-pinkcheeks-checkout-com-cupom.webp',
-      alt: 'Resumo do checkout da Pink Cheeks com o código PNK-EMCASACOMCECILIA aplicado: desconto no pedido de R$ 16,98 sobre R$ 169,80 e total de R$ 152,82',
+      alt: 'Resumo do checkout da Pink Cheeks com dois itens, o código PNK-EMCASACOMCECILIA aplicado, a linha Desconto no pedido de menos R$ 16,98 e o total de R$ 152,82',
       aspectRatio: 0.96,
     },
     code: 'PNK-EMCASACOMCECILIA',
@@ -5071,25 +5072,63 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site da Pink Cheeks, inclusive os produtos em promoção',
     longDescription:
       'O cupom Pink Cheeks PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções: no nosso teste, os 10% entraram num pó translúcido pelo preço cheio e também num blush em promoção de Black Friday. Vale em todas as formas de pagamento.',
-    metaTitle: 'Cupom Pink Cheeks: 10% OFF com PNK-EMCASACOMCECILIA',
+    metaTitle: 'Cupom Pink Cheeks: 10% com PNK-EMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
       'Cupom Pink Cheeks: PNK-EMCASACOMCECILIA dá 10% OFF em protetor solar e maquiagem com FPS, para cliente novo ou antigo. Testado no checkout.',
     eligibleCategories: 'Produtos do site oficial da Pink Cheeks, inclusive os que estão em promoção',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado por clientes novos e antigos',
-    shipping: 'Frete grátis na Entrega Normal em compras a partir de R$ 199, segundo a loja; a Entrega Expressa tem valor e prazo no checkout',
+    shipping: 'Frete grátis na Entrega Normal em compras a partir de R$ 199, segundo a loja; na Black Friday, a faixa do site anuncia frete grátis nas compras acima de 3 itens; a Entrega Expressa tem valor e prazo no checkout',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento, inclusive o Pix',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, o blush de R$ 89,90 por R$ 69,90 também ganhou os 10%' },
       { benefit: 'pix', stacks: 'sim', condition: 'O código seguiu aplicado com o Pix escolhido no checkout; a loja não dá desconto próprio no Pix' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis na Entrega Normal a partir de R$ 199, segundo a loja; abaixo disso e na Expressa, o frete sai pelo CEP' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis na Entrega Normal a partir de R$ 199 ou, na Black Friday, acima de 3 itens, segundo a loja; fora disso e na Expressa, o frete sai pelo CEP' },
     ],
     paymentPerks: ['Até 5x sem juros no cartão de crédito'],
-    lastVerified: '2026-11-19',
-    testedAt: '2026-11-19',
+    relatedContent: [
+      {
+        title: 'Cupom Pink Cheeks: como aplicar o PNK-EMCASACOMCECILIA no checkout e com o que ele soma',
+        url: '/reviews/cupom-pinkcheeks-como-usar',
+        type: 'review',
+        publishedAt: '2026-11-19',
+      },
+      {
+        title: 'Pink Stick: como escolher entre oito tons e a versão incolor',
+        url: '/reviews/pink-stick-qual-cor-escolher',
+        type: 'review',
+        publishedAt: '2026-11-21',
+      },
+      {
+        title: 'Pink Cheeks é boa? Como escolher entre Pink Stick, Pro Stick e Clear Stick',
+        url: '/reviews/pinkcheeks-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-19',
+      },
+      {
+        title: 'Black Friday Pink Cheeks 2026: o que vem nos kits e onde o cupom deu 10%',
+        url: '/reviews/black-friday-pinkcheeks',
+        type: 'review',
+        publishedAt: '2026-11-19',
+      },
+      {
+        title: 'Pink Cheeks é confiável? Quem vende, nota no Reclame Aqui e trocas',
+        url: '/reviews/pinkcheeks-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-11-19',
+      },
+      {
+        title: 'Pink Cheeks no Reclame Aqui: nota, queixas e como falar com a loja',
+        url: '/reviews/pinkcheeks-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-19',
+      },
+    ],
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Num carrinho com o Protetor Solar Pó Translúcido Sport Powder FPS30 pelo preço cheio de R$ 99,90 e o Blush All In One FPS30 Terracota em promoção, de R$ 89,90 por R$ 69,90, o PNK-EMCASACOMCECILIA tirou R$ 16,98 dos R$ 169,80, 10% do pedido, e o total caiu para R$ 152,82. Com o Pix escolhido como pagamento, o código seguiu aplicado e o total não mudou.',
+      'Num carrinho da Black Friday com o Kit Natação, de R$ 269,70 por R$ 134,85, e o Pink Stick 21 KM, de R$ 129,90 por R$ 99,90, o PNK-EMCASACOMCECILIA tirou R$ 23,47 dos R$ 234,75, 10% do pedido, e o total caiu para R$ 211,28: o código entrou sobre os preços promocionais do kit e do bastão. No teste anterior, com o Pix escolhido como pagamento, o código seguiu aplicado e o total não mudou.',
     codeInstructions: [
       'Copie o código PNK-EMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Pink Cheeks pelo botão indicado, adicione os produtos ao carrinho e clique em Finalizar pedido.',
@@ -5150,7 +5189,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'O cupom não mexe no frete, mas a loja dá frete grátis na Entrega Normal em compras a partir de R$ 199. Abaixo disso, e na Entrega Expressa, o valor e o prazo aparecem no checkout depois do CEP.',
+          'O cupom não mexe no frete, mas a loja dá frete grátis na Entrega Normal em compras a partir de R$ 199, e na Black Friday a faixa do site anuncia frete grátis nas compras acima de 3 itens. Fora disso, e na Entrega Expressa, o valor e o prazo aparecem no checkout depois do CEP.',
       },
       {
         question: 'Como funciona a troca na Pink Cheeks?',

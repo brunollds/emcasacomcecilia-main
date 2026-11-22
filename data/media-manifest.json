@@ -198002,6 +198002,144 @@
       "verified_at": "2026-11-22T03:58:35.006Z",
       "verification_etag_or_digest": "b8c811b1b43376f062ea01130e119cdcf17210efb0ca758ab5ec9f45bc6ae558",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22398,
+      "sha256": "55ba98f3009d6489ae73d7dcea2b164c70de7952e57e25771bcdfa28bbbd3802",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "storage_filename": "pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-e-boa.json",
+          "line": 141,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 275058,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/55ba98f3009d6489ae73d7dcea2b164c70de7952e57e25771bcdfa28bbbd3802/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55ba98f3009d6489ae73d7dcea2b164c70de7952e57e25771bcdfa28bbbd3802/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:25:40.589Z",
+      "verification_etag_or_digest": "55ba98f3009d6489ae73d7dcea2b164c70de7952e57e25771bcdfa28bbbd3802",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75262,
+      "sha256": "c0eebad0f5b44bacbec672544dd8da9e494e5c8bbd30bb839c52ca019af3cc54",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "storage_filename": "pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-e-boa.json",
+          "line": 158,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 275075,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c0eebad0f5b44bacbec672544dd8da9e494e5c8bbd30bb839c52ca019af3cc54/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c0eebad0f5b44bacbec672544dd8da9e494e5c8bbd30bb839c52ca019af3cc54/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:25:40.589Z",
+      "verification_etag_or_digest": "c0eebad0f5b44bacbec672544dd8da9e494e5c8bbd30bb839c52ca019af3cc54",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56252,
+      "sha256": "9784cd4a480a6d270fa80b6bde80a46ca5d788ec954d9bcb5c31639340579632",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "storage_filename": "pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-reclame-aqui-nota-reputacao.json",
+          "line": 199,
+          "column": 19,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 275427,
+          "column": 21,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9784cd4a480a6d270fa80b6bde80a46ca5d788ec954d9bcb5c31639340579632/pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9784cd4a480a6d270fa80b6bde80a46ca5d788ec954d9bcb5c31639340579632/pinkcheeks-reclame-aqui-kit-natacao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:25:40.589Z",
+      "verification_etag_or_digest": "9784cd4a480a6d270fa80b6bde80a46ca5d788ec954d9bcb5c31639340579632",
+      "verification_status": "verified"
     }
   ]
 }
