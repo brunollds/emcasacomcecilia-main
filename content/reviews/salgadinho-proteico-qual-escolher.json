@@ -92,7 +92,15 @@
             "0,6 g de carboidratos; produto feito de queijo"
           ]
         ]
-      }
+      },
+      "paragraphs": [
+        "Os dois snacks atendem ao mesmo desejo, um salgadinho com proteína, mas partem de ingredientes diferentes. O da Belive é feito de proteína isolada de soja e traz mais carboidratos; o da Mais Mu é só queijo parmesão e traz mais gordura. A escolha começa pelo que você precisa evitar: soja ou leite.",
+        "Na Belive, os sabores são [Queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Presunto](https://belivebefree.com.br/produto/snack-proteico-sabor-presunto-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Cebola e Salsa](https://belivebefree.com.br/produto/snack-proteico-sabor-cebola-e-salsa-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) e [Barbecue](https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), todos em pacote de 35 g. Dá para comprar um de cada sabor ou levar o [combo de 16 pacotes](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/), que reúne os quatro."
+      ],
+      "postParagraphs": [
+        "Se o sódio pesa na decisão, comece pelo Cebola e Salsa, que tem o menor valor entre os quatro sabores da Belive; o Presunto tem o maior. Os números por sabor estão na tabela de composição, mais abaixo.",
+        "Quem evita soja fica com o parmesão. Quem evita leite fica com o snack da Belive, pela declaração da loja, e confere o rótulo da embalagem antes de comer."
+      ]
     },
     {
       "heading": "Preço com o código aplicado",
@@ -128,16 +136,16 @@
     {
       "heading": "Belive: menor custo e declaração de sem leite",
       "paragraphs": [
-        "A Belive usa proteína isolada de soja. A loja declara o snack sem leite, zero lactose e sem glúten, com aviso de derivados de soja. Os sabores são Queijo, Presunto, Cebola e Salsa e Barbecue.",
-        "Há compra avulsa e combo de 16 pacotes com os quatro sabores. Nos preços lidos, o combo sai pelo mesmo valor por pacote que o avulso, na referência e na oferta. Escolha o combo pela quantidade e pela variedade, e confira o desconto do MAUAD no resumo do pedido.",
+        "A Belive usa proteína isolada de soja. A loja declara o snack sem leite, zero lactose e sem glúten, com aviso de derivados de soja. Os sabores são [Queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Presunto](https://belivebefree.com.br/produto/snack-proteico-sabor-presunto-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Cebola e Salsa](https://belivebefree.com.br/produto/snack-proteico-sabor-cebola-e-salsa-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) e [Barbecue](https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/).",
+        "Há compra avulsa e o [combo de 16 pacotes](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/) com os quatro sabores. Nos preços lidos, o combo sai pelo mesmo valor por pacote que o avulso, na referência e na oferta. Escolha o combo pela quantidade e pela variedade, e confira o desconto do MAUAD no resumo do pedido.",
         "Se você está escolhendo entre as linhas da própria marca, veja [snack proteico ou snack de arroz da Belive](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
       ],
       "images": [
         {
-          "src": "/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
-          "alt": "Pacote de 35 g do Snack Proteico sabor queijo da Belive, salgadinho sem glúten, sem leite e zero lactose",
-          "caption": "Snack proteico sabor queijo, 35 g. Foto oficial da Belive.",
-          "href": "https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/",
+          "src": "/images/reviews/belive/salgadinho-proteico-qual-escolher-belive-snack-proteico.webp",
+          "alt": "Bolinhas do snack proteico da Belive numa tigela amarela, com os pacotes dos sabores atrás",
+          "caption": "Snack proteico da Belive, pacotes de 35 g. Foto oficial da Belive.",
+          "href": "https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/",
           "objectFit": "square",
           "aspectRatio": 1,
           "store": "belive"
@@ -260,5 +268,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-14"
+  "updatedAt": "2026-11-22"
 }
