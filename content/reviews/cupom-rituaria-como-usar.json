@@ -13,6 +13,7 @@
   },
   "publishedAt": "18 de novembro de 2026",
   "publishedAtISO": "2026-11-18",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -50,7 +51,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O cupom EMCASA dá 10% OFF na Rituária, para cliente novo e antigo. Digite o código no campo Tem um cupom? do checkout e clique em Adicionar. Nos nossos testes, ele somou com promoção e com o Leve 3, Pague 2; confira a linha Descontos antes de pagar."
+        "O [cupom Rituária](/cupons/rituaria) EMCASA dá 10% OFF, para cliente novo e antigo. Digite o código no campo Tem um cupom? do checkout, clique em Adicionar e confira a linha Descontos. Nos nossos testes, ele somou com o preço promocional e com o Leve 3, Pague 2."
       ]
     },
     {
@@ -80,7 +81,7 @@
     {
       "heading": "Quanto o cupom tira: a conta dos testes",
       "paragraphs": [
-        "Nos dois carrinhos de 17/11, o EMCASA tirou 10% do total dos produtos. Conta nossa, com os preços de vitrine no momento do teste:"
+        "Nos dois carrinhos de teste, o EMCASA tirou 10% do total dos produtos. Conta nossa, com os preços de vitrine no momento do teste:"
       ],
       "comparisonTable": {
         "caption": "Carrinhos de teste, sem frete",
@@ -92,13 +93,13 @@
         ],
         "rows": [
           [
-            "Capilar Nutri 30 dias + Fórmula Mov Nutri 30 dias",
+            "[Capilar Nutri 30 dias](https://www.rituaria.com.br/products/capilar-nutri) + [Fórmula Mov Nutri 30 dias](https://www.rituaria.com.br/products/formula-mov-nutri)",
             "R$ 119,80",
             "- R$ 11,98",
             "R$ 107,82"
           ],
           [
-            "Fórmula 4Mag 30 dias + Capilar Nutri 30 dias + Fórmula Complexo B 60 dias",
+            "[Fórmula 4Mag 30 dias](https://www.rituaria.com.br/products/formula-4-mag-magnesio) + [Capilar Nutri 30 dias](https://www.rituaria.com.br/products/capilar-nutri) + [Fórmula Complexo B 60 dias](https://www.rituaria.com.br/products/formula-complexo-b)",
             "R$ 154,70",
             "- R$ 15,47",
             "R$ 139,23"
@@ -106,37 +107,23 @@
         ]
       },
       "postParagraphs": [
-        "O desconto sai do total dos produtos, já com o preço promocional de cada um: nos dois carrinhos havia item em promoção, e os 10% entraram também sobre eles."
-      ]
-    },
-    {
-      "heading": "Cupom Rituária 20 ou 15?",
-      "paragraphs": [
-        "O nosso cupom é o EMCASA, de 10%, e ele entra sobre o preço já promocional da vitrine. O desconto que vale na sua compra é o que aparece na linha Descontos do resumo: confira antes de pagar."
+        "O desconto sai do total dos produtos, já com o preço promocional de cada um: nos dois carrinhos havia item em promoção, e os 10% entraram também sobre eles.",
+        "Se você viu por aí um cupom Rituária de 15% ou de 20%, o nosso é o EMCASA, de 10%. A porcentagem que vale na sua compra é a da linha Descontos do resumo do checkout, e não a de um anúncio: confira o valor abatido antes de pagar."
       ]
     },
     {
       "heading": "Soma com promoção e com o Leve 3, Pague 2",
       "paragraphs": [
-        "Sim, somou nos nossos testes: com o preço promocional da vitrine e com a promoção Leve 3, Pague 2.",
-        "A promoção aparece no checkout, não no carrinho, e os três itens do teste estavam na página Leve 3, Pague 2. No dia 18/11, o carrinho com a Fórmula NAC, a 4Mag e o Complexo B foi de R$ 174,70 para R$ 129,80, porque o item de menor valor saiu de graça. Com o EMCASA, o total foi R$ 116,82: os 10% entraram sobre o valor já com o item grátis. No carrinho de três itens do quadro acima, o Capilar Nutri não está na promoção, e nenhum item saiu de graça.",
-        "A página da promoção não diz até quando ela vale. Confira o resumo antes de pagar, e veja o guia da [Black Friday da Rituária](/reviews/black-friday-rituaria) para o que muda na campanha."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/rituaria/black-friday-rituaria-checkout-leve-3-pague-2.webp",
-          "alt": "Resumo do checkout da Rituária com o cupom EMCASA aplicado: três suplementos, o Complexo B a R$ 0,00 e o total de R$ 116,82",
-          "caption": "No teste com três suplementos elegíveis, o Complexo B ficou grátis e o EMCASA tirou mais 10% do valor restante.",
-          "objectFit": "contain",
-          "aspectRatio": 0.54
-        }
+        "Sim, somou nos nossos testes: com o preço promocional da vitrine e com a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2).",
+        "A promoção aparece no checkout, não no carrinho. No teste de 22/11, o carrinho tinha três unidades iguais da [Fórmula Brain+ 30 dias](https://www.rituaria.com.br/products/brain-nootropico), a R$ 69,90 cada: R$ 209,70 em produtos. A promoção (“L3P2 SUPLEMENTOS”) tirou R$ 69,90, e o total foi para R$ 139,80. O EMCASA tirou mais R$ 13,98, que são os 10% sobre os R$ 139,80, e o total ficou em R$ 125,82. Os termos da loja dizem que, se os três produtos forem iguais, um deles sai de graça.",
+        "No carrinho de três itens do quadro acima, o Capilar Nutri não está na promoção, e nenhum item saiu de graça. A página da promoção não diz até quando ela vale. Confira o resumo antes de pagar, e veja o guia da [Black Friday da Rituária](/reviews/black-friday-rituaria) para o que muda na campanha."
       ]
     },
     {
       "heading": "Pix e cashback",
       "paragraphs": [
-        "A loja anuncia 5% no Pix, mas não confirmamos o total final com Pix e EMCASA juntos. Compare o valor exibido antes de gerar o código de pagamento.",
-        "Cashback: a loja informa 10% para a próxima compra. Pelos termos, desconto e cashback não são cumulativos. O checkout mostra o aviso do cashback mesmo com o cupom aplicado, mas isso não quer dizer que os dois valem juntos: na compra com o cupom, não conte com o cashback."
+        "O checkout anuncia 5% de desconto no Pix, e o EMCASA vale com todas as formas de pagamento: o desconto do Pix soma com o cupom. Não calculamos um total com Pix e cupom juntos, porque o nosso teste parou antes da etapa de pagamento. Compare o valor exibido antes de gerar o código de pagamento.",
+        "Cashback: a loja informa 10% para a próxima compra. Pelos termos, desconto e cashback não são cumulativos, e você escolhe um benefício por compra. O checkout mostra o aviso do cashback mesmo com o cupom aplicado, mas isso não quer dizer que os dois valem juntos: na compra com o cupom, não conte com o cashback."
       ]
     },
     {
@@ -184,14 +171,14 @@
         "**A linha Descontos.** Sem o valor abatido no resumo, o código não entrou."
       ],
       "postParagraphs": [
-        "Para o código em vigor, veja a página do [cupom Rituária](/cupons/rituaria). Antes de comprar, vale ler a [nota da Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao)."
+        "Para o código em vigor, veja a página do [cupom Rituária](/cupons/rituaria). Se o desconto não entrar mesmo com tudo certo, guarde o resumo do pedido e fale com a loja pelo WhatsApp (11) 93618-9138 ou pelo e-mail contato@rituaria.com.br."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Onde coloco o cupom na Rituária? No checkout, em seguro.rituaria.com.br, no campo Tem um cupom? do resumo. Clique em Adicionar e confira a linha Descontos.",
-        "O cupom EMCASA soma com o Leve 3, Pague 2? No teste com três suplementos elegíveis, sim: o item de menor valor ficou grátis e o EMCASA tirou 10% do restante. Os três estavam na página da promoção; confira o resumo antes de pagar.",
+        "O cupom EMCASA soma com o Leve 3, Pague 2? Sim, no teste com três Brain+ iguais: a promoção tirou um dos frascos, e o EMCASA tirou 10% do que sobrou, para um total de R$ 125,82. Confira o resumo antes de pagar.",
         "O cupom vale para quem já é cliente? Vale. O EMCASA serve para cliente novo e antigo. Para a primeira compra, veja o [guia da primeira compra na Rituária](/reviews/cupom-rituaria-primeira-compra).",
         "O cupom vale no Mercado Livre? O EMCASA é do site oficial da Rituária, e é no checkout dele que o código entra. No Mercado Livre há anúncios com o nome Rituária, mas não conferimos quem vende cada um.",
         "O cupom soma com o cashback? Pelos termos da loja, desconto e cashback não são cumulativos: é um benefício por compra. Na compra com o cupom, não conte com o cashback."

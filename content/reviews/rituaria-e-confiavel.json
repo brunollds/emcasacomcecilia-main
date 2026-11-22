@@ -46,6 +46,8 @@
       "slug": "cupom-rituaria-como-usar"
     }
   ],
+  "bodyDatesReason": "reclame-aqui",
+  "updatedAt": "2026-11-22",
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -58,6 +60,7 @@
       "paragraphs": [
         "No rodapé do site, a empresa aparece como Beauty Hub Varejo Ltda, com CNPJ 60.453.162/0001-07 e endereço em Serra, no Espírito Santo.",
         "O perfil da marca no Reclame Aqui traz outro número, o CNPJ 60.453.162/0003-79. Os dois têm a mesma raiz, 60.453.162, que é a parte do CNPJ que identifica a empresa.",
+        "Os termos de uso da loja citam uma terceira razão social, a Maga Comércio de Produtos Cosméticos Ltda, CNPJ 38.246.589/0001-85. Não sabemos como ela se relaciona com a Beauty Hub. Para conferir quem vende o seu pedido, olhe a razão social na nota fiscal.",
         "A página Sobre Nós diz que a marca nasceu em 2021, “idealizada pela Gabi”, e se apresenta como marca brasileira de dermocosméticos, suplementos e superfoods.",
         "Para escolher um suplemento, confira também quem fabrica a fórmula e os dados de regularização do produto."
       ],
@@ -74,9 +77,9 @@
     {
       "heading": "O que o Reclame Aqui mostra",
       "paragraphs": [
-        "No recorte de 01/05/2026 a 31/10/2026, a Rituária tinha reputação máxima (RA1000), selo de empresa verificada e todas as reclamações respondidas. Entre as avaliadas, 93,8% constavam como resolvidas.",
-        "O outro lado: a resposta leva, em média, mais de quatro dias, e o problema mais citado na aba geral do perfil é produto não recebido.",
-        "Parte das reclamações recentes fala de devolução, cancelamento e brinde não enviado. A análise completa, com os números e o histórico, está na [nota da Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao)."
+        "Na consulta de 22/11, a aba de seis meses mostrava a Rituária com reputação máxima (RA1000), nota 8,8, selo de empresa verificada e as 708 reclamações respondidas. Entre as 419 avaliadas, 94,2% constavam como resolvidas.",
+        "O outro lado: a resposta leva, em média, 4 dias e 12 horas, e o problema mais citado na aba Geral, de até três anos, é produto não recebido, com 32,23%.",
+        "Sem o total de pedidos, esses números absolutos não viram taxa de reclamação. A análise completa, com as cinco janelas do perfil, está na [nota da Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao)."
       ]
     },
     {
@@ -94,18 +97,19 @@
       "heading": "Site e pagamento: o endereço oficial e as formas de pagar",
       "paragraphs": [
         "O site oficial é rituaria.com.br. O carrinho leva direto ao checkout da própria loja, em seguro.rituaria.com.br, e é lá que o pagamento acontece.",
-        "A loja aceita cartão em até 3 vezes sem juros e Pix. O Pix tem 5% de desconto, mostrado no checkout, à parte do cupom.",
+        "A loja aceita cartão em até 3 vezes sem juros e Pix. O checkout anuncia 5% de desconto no Pix, e o EMCASA vale em todas as formas de pagamento e soma com ele.",
         "A loja também anuncia cashback de 10% para a próxima compra. Pelos termos, desconto e cashback não são cumulativos, e só se pode escolher um benefício por compra.",
         "Antes de pagar, digite o endereço do site na barra do navegador e confira se o checkout está em seguro.rituaria.com.br.",
         "Como o cupom EMCASA entra no checkout, passo a passo, está no [guia de uso do cupom EMCASA](/reviews/cupom-rituaria-como-usar)."
       ],
       "images": [
         {
-          "src": "/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
-          "alt": "Resumo do checkout da Rituária com o cupom EMCASA no campo Tem um cupom?, o aviso Desconto (- R$ 11,98), a linha Descontos e o total de R$ 107,82",
-          "caption": "Resumo do checkout da Rituária com o EMCASA aplicado. A imagem mostra o desconto, não confirma a soma com o Pix.",
+          "src": "/images/reviews/rituaria/rituaria-e-confiavel-mov-nutri.webp",
+          "alt": "Frasco da Fórmula Mov Nutri da Rituária, em foto oficial da loja",
+          "caption": "Fórmula Mov Nutri, vendida no site oficial da Rituária.",
           "objectFit": "contain",
-          "aspectRatio": 0.894
+          "aspectRatio": 1.0,
+          "href": "https://www.rituaria.com.br/products/formula-mov-nutri"
         }
       ]
     },
