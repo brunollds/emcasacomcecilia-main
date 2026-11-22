@@ -515,12 +515,12 @@ export const storeBannersData: StoreBanner[] = [
     "copy": {
       "pt": {
         "headline": "Black November da Lejour: planos Premium e Pro com 50% OFF",
-        "text": "Campanha da própria Lejour. As condições aparecem no site da loja.",
+        "text": "Campanha da própria Lejour até 30/11. No site, o cupom BLACK50 da Lejour dá os 50%; no app, o desconto já aparece no preço.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Página lejour.com.br/black-friday/: \"Black November Lejour · 01 a 30/11\", \"Ofertas válidas de 01 a 30/11/2026\" (04/11/2026)",
-    "verifiedAt": "2026-11-04"
+    "source": "Página lejour.com.br/black-friday/: \"Black November Lejour · 01 a 30/11\", Premium de R$ 99,90 por R$ 49,95, Pro de R$ 199,90 por R$ 99,95, \"No site: aplique o cupom BLACK50\", \"No app: o desconto já aparece no valor\" (21/11/2026)",
+    "verifiedAt": "2026-11-21"
   },
   {
     "id": "lejour-black-week-2026",
@@ -534,13 +534,13 @@ export const storeBannersData: StoreBanner[] = [
     "endsAt": "2026-11-29T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Black Week da Lejour: taxa reduzida na lista de presentes para novos casais",
-        "text": "Campanha da própria Lejour, para novos casais elegíveis. As condições aparecem no site da loja.",
+        "headline": "Black Week da Lejour: taxa da lista de presentes de 3,89% por 1,99%",
+        "text": "Campanha da própria Lejour, para novos casais elegíveis. Segundo a Lejour, a taxa reduzida vale para toda a vida da lista.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Página lejour.com.br/black-friday/: \"Black Week · 23 a 29/11\", \"Taxa promocional válida de 23 a 29/11/2026 para novos casais elegíveis\" (04/11/2026)",
-    "verifiedAt": "2026-11-04"
+    "source": "Página lejour.com.br/black-friday/: \"Black Week · 23 a 29/11\", \"de 3,89% 1,99%\", \"para novos casais elegíveis · taxa vitalícia, vale para toda a vida da lista\" (21/11/2026)",
+    "verifiedAt": "2026-11-21"
   },
   {
     "id": "letseatit-black-friday-2026",

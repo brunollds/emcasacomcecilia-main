@@ -14,9 +14,9 @@
     "url": "/sobre"
   },
   "description": "O que é a Lejour e como funciona: site do casamento e lista de presentes virtuais, as taxas de cada plano, como sacar o dinheiro e qual plano escolher para a sua lista.",
-  "metaDescription": "Lejour: o que é, como funciona a lista de presentes, as taxas (3,89% a 2,99%) e os planos Basic, Premium e Pro, em 14/10/2026.",
+  "metaDescription": "Lejour: o que é, como funciona a lista de presentes, as taxas (3,89% a 2,99%), os planos Basic, Premium e Pro e a Black November.",
   "publishedAt": "14 de outubro de 2026",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": false,
@@ -73,13 +73,13 @@
         "**Na Fast Shop:** o menu do painel tem a área Produtos Fast Shop, e o crédito vale em compras na loja. A página de lista de casamento da Fast Shop diz que as compras feitas com o crédito dão cashback mínimo de 4% para as próximas compras. A condição é da Fast Shop e pode mudar; confira na página dela antes de contar com o valor."
       ],
       "postParagraphs": [
-        "A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\". Mais sobre essa parceria está em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+        "A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\". Não há fonte oficial de compra de uma pela outra."
       ]
     },
     {
       "heading": "A Lejour tem taxa? Quanto custa",
       "paragraphs": [
-        "Tem. A Lejour cobra uma taxa sobre cada presente da lista, e o percentual depende do plano. Em 14/10/2026, a tabela de planos do painel mostrava:"
+        "Tem. A Lejour cobra uma taxa sobre cada presente da lista, e o percentual depende do plano. A tabela de planos do painel mostra:"
       ],
       "postParagraphs": [
         "A coluna de R$ 200 é uma conta nossa, só para dar a dimensão: percentual da tabela aplicado ao valor do presente.",
@@ -115,10 +115,11 @@
     {
       "heading": "Planos Basic, Premium e Pro",
       "paragraphs": [
-        "A Lejour tem três planos. O Basic é gratuito. O Premium e o Pro são pagos uma única vez, valem para sempre (\"vitalício\", na tabela) e podem ser pagos à vista ou em até 12x. Em 14/10/2026, o Premium aparecia por R$ 99,90, riscado de R$ 179,90, e o Pro por R$ 199,90. O preço do Premium é promocional e pode mudar."
+        "A Lejour tem três planos. O Basic é gratuito, com taxa de até 3,89% por presente. O Premium custa R$ 99,90, com taxa de 3,29%, e o Pro custa R$ 199,90, com taxa de 2,99%. Os dois pagos são cobrados uma única vez, valem para sempre (\"vitalício\", na tabela) e podem ser pagos à vista ou em até 12x."
       ],
       "postParagraphs": [
-        "O Premium aparece com o selo \"Mais popular\". Do Premium para o Pro, a diferença está em três pontos: a taxa cai de 3,29% para 2,99%, a tradução passa de inglês e espanhol para vários idiomas, e só o Pro tem inteligência artificial."
+        "O Premium aparece com o selo \"Mais popular\". Do Premium para o Pro, a diferença está em três pontos: a taxa cai de 3,29% para 2,99%, a tradução passa de inglês e espanhol para vários idiomas, e só o Pro tem inteligência artificial.",
+        "Na Black November, de 01 a 30/11, o Premium e o Pro saem pela metade (R$ 49,95 e R$ 99,95). No site, o desconto vem com o BLACK50, que é o cupom da campanha da própria Lejour; no aplicativo, o valor já aparece com o desconto. Na Black Week, de 23 a 29/11, novos casais elegíveis ganham taxa de 1,99% na lista de presentes. Os detalhes e as condições estão em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
       ],
       "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
       "imageAlt": "Tabela de planos do painel da Lejour com Basic, Premium e Pro: preço, taxa da lista de presentes, saques, domínio e recursos de cada plano",
@@ -126,7 +127,7 @@
       "imageFit": "contain",
       "imageAspectRatio": 1.3563,
       "comparisonTable": {
-        "caption": "Planos e condições do painel da Lejour. Premium em preço promocional; confirme os valores disponíveis na sua conta.",
+        "caption": "Planos e condições do painel da Lejour, com preços fora da campanha. Confirme os valores disponíveis na sua conta.",
         "headers": [
           "",
           "Basic",
@@ -137,7 +138,7 @@
           [
             "Preço",
             "Gratuito",
-            "R$ 99,90 (de R$ 179,90), uma vez ou em até 12x",
+            "R$ 99,90, uma vez ou em até 12x",
             "R$ 199,90, uma vez ou em até 12x"
           ],
           [
@@ -204,7 +205,7 @@
       ],
       "postParagraphs": [
         "Na prática, o presente pago no cartão só pode ser sacado 15 dias corridos depois da compra, e o Pix chega em até 1 dia útil depois do pedido de saque.",
-        "A validação de identidade é feita uma única vez, antes do primeiro saque, e o conselho é validar cedo. A segurança do saldo e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+        "A validação de identidade é feita uma única vez, antes do primeiro saque, e o conselho é validar cedo. O saque só vai para uma chave Pix do CPF de quem publicou a lista."
       ],
       "comparisonTable": {
         "caption": "Prazos do presente até o Pix, segundo a central de ajuda da Lejour",
@@ -245,11 +246,11 @@
         "**Basic:** para começar sem custo de plano e avaliar se o site e a lista atendem ao casal. Considere a taxa dos presentes, o domínio opcional e a quantidade de saques além dos dois gratuitos.",
         "**Premium:** compare se o casal quer domínio e os recursos pagos, se pretende fazer vários saques ou se espera que a redução da taxa compense o preço do plano.",
         "**Pro:** considere se os idiomas e os recursos adicionais fazem diferença para os convidados. Pela taxa, compare o custo extra com a diferença de percentual da tabela.",
-        "Na dúvida, comece no Basic: com o Premium em promoção, a R$ 99,90, e o casal pagando a taxa, o plano só compensa a partir de R$ 16.650 em presentes, como mostra a tabela abaixo. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
+        "Na dúvida, comece no Basic: com o Premium a R$ 99,90 e o casal pagando a taxa, o plano só compensa a partir de R$ 16.650 em presentes, como mostra a tabela abaixo. Durante a Black November, com o Premium pela metade, a conta muda; veja em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
       ],
       "postParagraphs": [
         "O cálculo usa o preço do plano dividido pela diferença entre as taxas. No exemplo Basic versus Premium, a diferença é de 0,60 ponto percentual: R$ 99,90 ÷ 0,006. A tabela mostra também as outras duas comparações, sem contar domínio, saques ou recursos extras.",
-        "Se a taxa fica com os convidados, essa redução beneficia os convidados, não o saldo líquido do casal. Nesse caso, avalie o plano pelos recursos e pelos demais custos que ele evita. Se o casal paga a taxa, refaça a conta com o preço efetivamente disponível no painel; o Premium usado neste exemplo estava em promoção."
+        "Se a taxa fica com os convidados, essa redução beneficia os convidados, não o saldo líquido do casal. Nesse caso, avalie o plano pelos recursos e pelos demais custos que ele evita. Se o casal paga a taxa, refaça a conta com o preço efetivamente disponível no painel."
       ],
       "comparisonTable": {
         "caption": "Ponto de equilíbrio pela redução da taxa, calculado com os preços da tabela de planos e supondo que o casal pague a taxa; não inclui domínio, saques ou outros recursos.",
@@ -284,15 +285,15 @@
     {
       "heading": "Indicação do Em Casa com Cecília",
       "paragraphs": [
-        "O botão de cadastro é nosso link de indicação. Se você criar a conta por ele, o Em Casa com Cecília pode receber comissão da Lejour. O link não dá desconto nem benefício extra: não há código para digitar, e o Basic é gratuito com ou sem a indicação.",
-        "As condições da parceria estão em [Lejour no Em Casa com Cecília](/cupons/lejour). Para ver a reputação da empresa antes de decidir, leia [Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/lejour-reclame-aqui-nota-reputacao)."
+        "O botão de cadastro é nosso link de indicação, e não um cupom. Se você criar a conta por ele, o Em Casa com Cecília pode receber comissão da Lejour. O link não dá desconto nem benefício extra: não há código para digitar, e o Basic é gratuito com ou sem a indicação.",
+        "As condições da parceria estão em [Lejour no Em Casa com Cecília](/cupons/lejour). Para comparar com outras plataformas antes de decidir, veja [Lejour ou iCasei](/reviews/lejour-ou-icasei)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "O que é a Lejour? É uma plataforma brasileira de casamento que faz o site do casal e a lista de presentes, com lista de convidados e confirmação de presença.",
-        "A Lejour é gratuita? O Basic não cobra plano para criar site e lista, mas tem taxa de 3,89% por presente. Premium e Pro são pagos uma vez e têm taxa menor; confirme o valor disponível no painel antes de contratar.",
+        "A Lejour é gratuita? O Basic não cobra plano para criar site e lista, mas tem taxa de até 3,89% por presente. Premium e Pro são pagos uma vez e têm taxa menor; confirme o valor disponível no painel antes de contratar.",
         "Qual a taxa da Lejour? Depende do plano; os percentuais estão na tabela de taxas acima. Num presente de R$ 200 no Basic, cerca de R$ 8 pela nossa conta.",
         "Quem paga a taxa da lista de presentes? O casal escolhe: a taxa pode sair do valor que o casal recebe ou ser paga pelos convidados. A opção fica em Configurações, em \"Sobre site e lista\".",
         "Os presentes da Lejour são entregues em casa? Não. Todos os presentes da lista são virtuais: o convidado dá um valor, que vira crédito em dinheiro para o casal usar por Pix ou em produtos da Fast Shop.",
@@ -329,5 +330,6 @@
     {
       "slug": "lista-de-casamento-lejour-como-criar"
     }
-  ]
+  ],
+  "bodyDatesReason": "campanha"
 }

@@ -10,10 +10,10 @@
   "copy": {
     "pt": {
       "headline": "Black November da Lejour: planos Premium e Pro com 50% OFF",
-      "text": "Campanha da própria Lejour. As condições aparecem no site da loja.",
+      "text": "Campanha da própria Lejour até 30/11. No site, o cupom BLACK50 da Lejour dá os 50%; no app, o desconto já aparece no preço.",
       "action": "Ver a campanha"
     }
   },
-  "source": "Página lejour.com.br/black-friday/: \"Black November Lejour · 01 a 30/11\", \"Ofertas válidas de 01 a 30/11/2026\" (04/11/2026)",
-  "verifiedAt": "2026-11-04"
+  "source": "Página lejour.com.br/black-friday/: \"Black November Lejour · 01 a 30/11\", Premium de R$ 99,90 por R$ 49,95, Pro de R$ 199,90 por R$ 99,95, \"No site: aplique o cupom BLACK50\", \"No app: o desconto já aparece no valor\" (21/11/2026)",
+  "verifiedAt": "2026-11-21"
 }

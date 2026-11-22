@@ -16,7 +16,7 @@
   "description": "Lejour, iCasei ou Casar.com: o plano grátis das três cobra 3,89% por presente. Veja taxas, prazos, validade do site e quanto sobra numa lista de R$ 20.000.",
   "metaDescription": "Lejour, iCasei ou Casar.com: grátis, as três cobram 3,89%. Veja taxas, prazos e quanto sobra numa lista de R$ 20 mil (dados de 16/10/2026).",
   "publishedAt": "16 de outubro de 2026",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "publishedAtISO": "2026-10-16",
   "draft": false,
   "isNew": false,
@@ -45,7 +45,7 @@
     {
       "heading": "Lejour, iCasei e Casar.com lado a lado",
       "comparisonTable": {
-        "caption": "Lejour, iCasei e Casar.com lado a lado, 16/10/2026",
+        "caption": "Lejour, iCasei e Casar.com lado a lado",
         "headers": [
           "",
           "Lejour",
@@ -55,7 +55,7 @@
         "rows": [
           [
             "Site",
-            "Basic grátis; Premium R$ 99,90 (de R$ 179,90) e Pro R$ 199,90, pagamento único, à vista ou em até 12x",
+            "Basic grátis; Premium R$ 99,90 e Pro R$ 199,90, pagamento único, à vista ou em até 12x",
             "Basic grátis por 6 meses; Classic de R$ 79,90 a R$ 149,90 e Black de R$ 149,90 a R$ 209,90, de 3 a 12 meses, em até 6x",
             "Grátis, sem plano"
           ],
@@ -110,7 +110,11 @@
         ]
       },
       "postParagraphs": [
-        "Dados dos sites oficiais. O Premium da Lejour estava em promoção, e os preços do iCasei variavam conforme o período contratado."
+        "Dados dos sites oficiais, sem campanha. Em novembro, a Lejour tem preços de campanha nos planos, e os preços do iCasei variam conforme o período contratado."
+      ],
+      "paragraphs": [
+        "As três plataformas começam do mesmo ponto: um plano grátis com taxa de 3,89% por presente. A Lejour baixa a taxa com um plano pago uma vez só (Premium a 3,29% e Pro a 2,99%); o iCasei baixa a taxa por plano e por valor arrecadado, e vende planos com prazo; o Casar.com não tem plano pago, e a taxa é fixa.",
+        "Fora a taxa, o que muda a escolha é o que acontece depois da festa e no caminho do dinheiro: por quanto tempo o site fica no ar para os convidados, quantos saques são grátis, quanto o cartão demora para liberar e que tipo de confirmação de presença vem em cada plano. A tabela reúne esses pontos, e as seções seguintes abrem cada um."
       ]
     },
     {
@@ -120,11 +124,11 @@
         "O **Casar.com** cobra 3,89% de cada presente, sempre. Não há plano pago para baixar a taxa.",
         "Na **Lejour**, a taxa depende do plano. O Basic é grátis e cobra 3,89%. O Premium custa R$ 99,90 e cobra 3,29%. O Pro custa R$ 199,90 e cobra 2,99%. Os planos pagos são de pagamento único, sem mensalidade."
       ],
-      "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
-      "imageAlt": "Tabela de planos do painel da Lejour com Basic, Premium e Pro: preço, taxa da lista de presentes, saques, domínio e recursos de cada plano",
-      "imageCaption": "Tabela de planos do painel da Lejour. O marca-texto amarelo é nosso.",
+      "image": "/images/reviews/lejour/lejour-faq-taxas-por-plano.webp",
+      "imageAlt": "Tabela oficial da central de ajuda da Lejour com a taxa por plano: Basic até 3,89%, Premium 3,29% e Pro 2,99%",
+      "imageCaption": "Central de ajuda da Lejour.",
       "imageFit": "contain",
-      "imageAspectRatio": 1.3563
+      "imageAspectRatio": 2.0678
     },
     {
       "paragraphs": [
@@ -446,7 +450,7 @@
       "heading": "A indicação do Em Casa com Cecília",
       "paragraphs": [
         "A Lejour é parceira do site por indicação. O botão da Lejour nesta página leva ao cadastro com a nossa indicação. O casal não ganha desconto por ele: o plano grátis, os preços dos planos pagos e as taxas são os mesmos para qualquer casal. iCasei e Casar.com não são parceiros do site.",
-        "O passo a passo do cadastro, do site e da lista está em [Como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar). Os dados da parceria ficam na [página da Lejour no Em Casa com Cecília](/cupons/lejour). Para saber quem está por trás da plataforma e como o saldo é guardado, leia [Lejour é confiável?](/reviews/lejour-e-confiavel)."
+        "O passo a passo do cadastro, do site e da lista está em [Como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar). Os dados da parceria ficam na [página da Lejour no Em Casa com Cecília](/cupons/lejour)."
       ]
     },
     {
@@ -454,7 +458,7 @@
       "bullets": [
         "Lejour ou iCasei: qual é melhor? Depende da lista: os grátis das duas cobram 3,89%. O Basic do iCasei dura 6 meses, e a Lejour cobra o plano pago uma vez só.",
         "Lejour ou Casar.com? O Casar.com tem taxa fixa de 3,89% e não tem plano pago. A Lejour baixa a taxa para 3,29% no Premium e 2,99% no Pro.",
-        "Qual site de lista de casamento tem a menor taxa? Entre os três, o Pro da Lejour, com 2,99%, que custa R$ 199,90 no preço de outubro; em novembro, a Lejour tem preços de campanha nos planos. A menor do iCasei é 3,69%, no Black, acima de R$ 8 mil arrecadados.",
+        "Qual site de lista de casamento tem a menor taxa? Entre os três, o Pro da Lejour, com 2,99%, que custa R$ 199,90 fora das campanhas da Lejour. A menor do iCasei é 3,69%, no Black, acima de R$ 8 mil arrecadados.",
         "O iCasei cobra taxa de saque? Não. Segundo a central de ajuda, os resgates são grátis e ilimitados.",
         "A Lejour cobra taxa de saque? No Basic, dois saques são grátis, e os seguintes custam R$ 5 cada. No Premium e no Pro, os saques são ilimitados.",
         "O iCasei é grátis? O Basic é grátis na contratação de 6 meses. Renovar, ou contratar o Classic ou o Black, é pago.",

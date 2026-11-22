@@ -18,7 +18,7 @@
   "metaDescription": "Black Friday Lejour 2026: Premium a R$ 49,95 e Pro a R$ 99,95 em novembro, com o código BLACK50. Veja a taxa de 1,99% e quando o Premium compensa.",
   "publishedAt": "15 de outubro de 2026",
   "publishedAtISO": "2026-10-15",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/lejour/black-friday-lejour-capa-v2.webp",
@@ -71,11 +71,19 @@
     {
       "heading": "O que a Black November da Lejour mostra",
       "paragraphs": [
-        "A página da Black November da Lejour reúne três ofertas. A primeira é a dos planos pagos, com 50% OFF e pagamento único: o Premium vai de R$ 99,90 para R$ 49,95, e o Pro, de R$ 199,90 para R$ 99,95. A segunda é a dos adicionais elegíveis, como o domínio, também pela metade. A terceira é a taxa da lista de presentes.",
-        "O desconto depende do canal. No site, é preciso aplicar o código **BLACK50** nos planos; ele é da própria Lejour e vale para qualquer casal. No app, o desconto aparece direto no valor, sem código. O preço que vale é o que a Lejour mostra na hora de assinar.",
-        "A taxa de 1,99% tem janela própria, a Black Week, de 23 a 29 de novembro. É para novos casais elegíveis e, segundo a página, vale para toda a vida da lista; a taxa padrão do Basic segue 3,89%. Quem pode participar e se a taxa soma com o plano pago estão no regulamento da Lejour, que a página só cita; a página também diz que o valor será revelado no primeiro dia da Black Week. Confirme o 1,99% na Lejour nesse período e leia o regulamento antes de contar com ele.",
+        "A página da Black November da Lejour, de 1 a 30 de novembro, reúne três ofertas. A primeira é a dos planos pagos, com 50% OFF e pagamento único: o Premium vai de R$ 99,90 para R$ 49,95, e o Pro, de R$ 199,90 para R$ 99,95. A segunda é a dos adicionais elegíveis, como o domínio, também pela metade. A terceira é a taxa da lista de presentes.",
+        "O desconto depende do canal. No site, é preciso aplicar o cupom **BLACK50**, o cupom da campanha da própria Lejour, nos planos e nos produtos adicionais elegíveis; ele vale para qualquer casal. No app, o desconto já aparece no valor, sem cupom. O preço que vale é o que a Lejour mostra na hora de assinar.",
+        "A taxa de 1,99% tem janela própria, a Black Week, de 23 a 29 de novembro, e a página já mostra o valor, no lugar dos 3,89% do Basic. É para novos casais elegíveis e, segundo a página, a taxa é vitalícia: vale para toda a vida da lista. Quem pode participar e se a taxa soma com o plano pago estão no regulamento da Lejour, então leia-o antes de contar com a soma das ofertas.",
+        "Nosso link é só uma indicação, sem desconto. Quem quer a indicação e o BLACK50 faz o cadastro pelo link e aplica o BLACK50 no site ao assinar; se as duas condições valem juntas, é o regulamento da Lejour que decide, e não prometemos que somem.",
         "A Black Friday de 2026 cai no fim do mês, mas os planos ficam em oferta durante todo novembro, então não há razão para esperar o dia."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/lejour/black-friday-lejour-planos-black50.webp",
+        "alt": "Página da Black November da Lejour com os cards do Premium a R$ 49,95 e do Pro a R$ 99,95 e o card do cupom BLACK50, com a diferença entre site e app",
+        "caption": "Página da Black November da Lejour.",
+        "objectFit": "contain",
+        "aspectRatio": 1.6844
+      }
     },
     {
       "heading": "Como foi a Black Friday da Lejour em 2025",
@@ -96,7 +104,7 @@
     {
       "heading": "Planos e taxas da Lejour fora da campanha",
       "paragraphs": [
-        "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour em outubro, antes da Black November, e é a régua para saber quanto o 50% tira: os R$ 99,90 do Premium e os R$ 199,90 do Pro são a base da oferta de novembro."
+        "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a da Lejour fora da campanha e é a régua para saber quanto o 50% tira: os R$ 99,90 do Premium e os R$ 199,90 do Pro são a base da oferta de novembro."
       ],
       "comparisonTable": {
         "headers": [
@@ -114,7 +122,7 @@
           ],
           [
             "Premium",
-            "R$ 99,90 (de R$ 179,90)",
+            "R$ 99,90",
             "3,29%",
             "R$ 6,58"
           ],
@@ -125,19 +133,14 @@
             "R$ 5,98"
           ]
         ],
-        "caption": "Planos da Lejour em 13 de outubro de 2026: preço do plano, taxa por presente e a taxa num presente de R$ 200, que é conta nossa."
+        "caption": "Planos da Lejour fora da campanha: preço do plano, taxa por presente e a taxa num presente de R$ 200, que é conta nossa."
       },
       "postParagraphs": [
         "A coluna de R$ 200 é uma conta nossa: o percentual da tabela aplicado ao valor do presente.",
         "O plano pago muda mais que a taxa. No Basic, os saques são gratuitos só até o segundo, e depois custam R$ 5 cada, e o domínio personalizado .site custa R$ 69,90. No Premium e no Pro, os saques são ilimitados e o domínio está incluso.",
         "Quem paga a taxa é uma escolha do casal: ele recebe o presente com a taxa descontada, ou os convidados pagam a taxa por cima do valor do presente. O convidado que parcela no cartão paga, além disso, juros de 3,49% ao mês, que não fazem parte da taxa.",
         "O funcionamento completo da lista, os saques e o crédito da Fast Shop estão em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). Para criar a conta, use o cadastro da [página da Lejour no Em Casa com Cecília](/cupons/lejour): é uma indicação, sem desconto, e pode render comissão ao site, sem custo extra para o casal."
-      ],
-      "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
-      "imageAlt": "Tela de planos da Lejour com Basic, Premium e Pro, com taxa da lista de presentes, saques, domínio e preços de cada plano, com a taxa e os preços do Premium e do Pro destacados em amarelo",
-      "imageCaption": "Tela de planos do painel da Lejour, com os preços e as taxas da tabela abaixo. O marca-texto amarelo é nosso.",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.3563
+      ]
     },
     {
       "heading": "Vale assinar o Premium na Black November?",
@@ -215,7 +218,7 @@
       "paragraphs": [
         "O crédito dos presentes não precisa virar dinheiro. O casal pode sacar por Pix, usar em produtos da Fast Shop ou dividir entre os dois, e o painel da Lejour tem uma área só para os produtos da Fast Shop. A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\".",
         "A página de lista de casamento da Fast Shop diz que as compras feitas com o crédito da lista dão cashback mínimo de 4% para as próximas compras. Pela nossa conta, num crédito de R$ 5.000 usado na loja, 4% são R$ 200 de cashback, e o cashback é para as próximas compras na Fast Shop, não para saque.",
-        "A condição é da Fast Shop, não da Lejour; qualquer oferta maior só vale depois de a loja publicar. Compare o preço do produto na Fast Shop com o de outras lojas antes de usar o crédito, porque o cashback só compensa se o produto não custar mais caro. A segurança dessa parceria e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+        "A condição é da Fast Shop, não da Lejour; qualquer oferta maior só vale depois de a loja publicar. Compare o preço do produto na Fast Shop com o de outras lojas antes de usar o crédito, porque o cashback só compensa se o produto não custar mais caro."
       ],
       "image": {
         "src": "/images/reviews/lejour/black-friday-lejour-home.webp",

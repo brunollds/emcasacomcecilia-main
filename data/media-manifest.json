@@ -109851,6 +109851,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lejour/black-friday-lejour-planos-black50.webp",
+      "local_url": "/images/reviews/lejour/black-friday-lejour-planos-black50.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54096,
+      "sha256": "205120919722d46fb8695e08a318bb2a162b8b4d62572a7dafd5ebda90084555",
+      "width": 1137,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-lejour-planos-black50.webp",
+      "storage_filename": "black-friday-lejour-planos-black50.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-lejour.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-lejour.json",
+          "line": 81,
+          "column": 17,
+          "literal": "/images/reviews/lejour/black-friday-lejour-planos-black50.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 95434,
+          "column": 19,
+          "literal": "/images/reviews/lejour/black-friday-lejour-planos-black50.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/205120919722d46fb8695e08a318bb2a162b8b4d62572a7dafd5ebda90084555/black-friday-lejour-planos-black50.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/205120919722d46fb8695e08a318bb2a162b8b4d62572a7dafd5ebda90084555/black-friday-lejour-planos-black50.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:28:38.594Z",
+      "verification_etag_or_digest": "205120919722d46fb8695e08a318bb2a162b8b4d62572a7dafd5ebda90084555",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
       "local_url": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
       "media_kind": "image",
@@ -110279,6 +110325,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lejour/lejour-faq-taxas-por-plano.webp",
+      "local_url": "/images/reviews/lejour/lejour-faq-taxas-por-plano.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7724,
+      "sha256": "cd285db3d6dd76f5ca58e5cdf2102f0a387278cb560d43487ee6fb49bb748cbc",
+      "width": 763,
+      "height": 369,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-faq-taxas-por-plano.webp",
+      "storage_filename": "lejour-faq-taxas-por-plano.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-ou-icasei.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-ou-icasei.json",
+          "line": 127,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-faq-taxas-por-plano.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 98081,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-faq-taxas-por-plano.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cd285db3d6dd76f5ca58e5cdf2102f0a387278cb560d43487ee6fb49bb748cbc/lejour-faq-taxas-por-plano.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cd285db3d6dd76f5ca58e5cdf2102f0a387278cb560d43487ee6fb49bb748cbc/lejour-faq-taxas-por-plano.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:28:38.855Z",
+      "verification_etag_or_digest": "cd285db3d6dd76f5ca58e5cdf2102f0a387278cb560d43487ee6fb49bb748cbc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lejour/lejour-lista-capa.webp",
       "local_url": "/images/reviews/lejour/lejour-lista-capa.webp",
       "media_kind": "image",
@@ -110623,6 +110715,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lejour/lejour-reclame-aqui-principais-problemas-2026-11.webp",
+      "local_url": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas-2026-11.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12308,
+      "sha256": "ea733c8bb17493f2b0cca872dfee2c95d4442e85e48369e731d6416aed7af856",
+      "width": 612,
+      "height": 405,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-reclame-aqui-principais-problemas-2026-11.webp",
+      "storage_filename": "lejour-reclame-aqui-principais-problemas-2026-11.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+          "line": 174,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas-2026-11.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 90776,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas-2026-11.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ea733c8bb17493f2b0cca872dfee2c95d4442e85e48369e731d6416aed7af856/lejour-reclame-aqui-principais-problemas-2026-11.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea733c8bb17493f2b0cca872dfee2c95d4442e85e48369e731d6416aed7af856/lejour-reclame-aqui-principais-problemas-2026-11.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:28:39.103Z",
+      "verification_etag_or_digest": "ea733c8bb17493f2b0cca872dfee2c95d4442e85e48369e731d6416aed7af856",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
       "local_url": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
       "media_kind": "image",
@@ -110666,6 +110804,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "6b4cbdf47b44967f3157800d89d60fdd6c9587b32eff0d983b6225e0abce4d59",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-reclame-aqui-selos-2026-11.webp",
+      "local_url": "/images/reviews/lejour/lejour-reclame-aqui-selos-2026-11.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9554,
+      "sha256": "05912ee724f3799d6552485a685abc0a0140238b99d06f4f27c41d771070dd68",
+      "width": 700,
+      "height": 168,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-reclame-aqui-selos-2026-11.webp",
+      "storage_filename": "lejour-reclame-aqui-selos-2026-11.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+          "line": 146,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-selos-2026-11.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 90748,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-selos-2026-11.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/05912ee724f3799d6552485a685abc0a0140238b99d06f4f27c41d771070dd68/lejour-reclame-aqui-selos-2026-11.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/05912ee724f3799d6552485a685abc0a0140238b99d06f4f27c41d771070dd68/lejour-reclame-aqui-selos-2026-11.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:28:39.393Z",
+      "verification_etag_or_digest": "05912ee724f3799d6552485a685abc0a0140238b99d06f4f27c41d771070dd68",
       "verification_status": "verified"
     },
     {
