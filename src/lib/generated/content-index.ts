@@ -278352,7 +278352,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem vende a Denavita",
         "paragraphs": [
           "A empresa do rodapé é a Vitalita Comércio e Estratégias Digitais Ltda. A loja exibe 43.777.011/0002-78, com o último dígito diferente do que consta na consulta cadastral.",
-          "O número da filial em Extrema (MG) é 43.777.011/0002-76. O da matriz é 43.777.011/0001-95, o mesmo do perfil da Denavita no Reclame Aqui. Para conferir os estabelecimentos, use o serviço de consulta de CNPJ do portal gov.br.",
+          "O número da filial em Extrema (MG) é 43.777.011/0002-76. O da matriz é 43.777.011/0001-95, o mesmo do perfil da Denavita no Reclame Aqui. Para conferir os estabelecimentos, use o [serviço de consulta de CNPJ do portal gov.br](https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas).",
           "Para saber quem fabrica o suplemento, confira a identificação do fabricante na embalagem."
         ]
       },
@@ -278360,13 +278360,13 @@ export const reviewsData: unknown[] = [
         "heading": "Como conferir a regularização de um suplemento",
         "paragraphs": [
           "A [ficha do Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps) lista a composição, e a embalagem traz a identificação do fabricante e o número informado no rótulo.",
-          "Com o nome do produto e esses dados, você consulta o suplemento no site da Anvisa, que explica como usar o número do registro ou do processo de notificação. Se quiser conferir algo que a página não mostra, a central de atendimento da loja pode enviar uma foto da embalagem."
+          "Com o nome do produto e esses dados, você consulta o suplemento no [site da Anvisa](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/como-saber-se-um-suplemento-alimentar-e-autorizado), que explica como usar o número do registro ou do processo de notificação. Se quiser conferir algo que a página não mostra, a central de atendimento da loja pode enviar uma foto da embalagem."
         ]
       },
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No perfil da Denavita, o recorte de maio a outubro de 2026 mostrava reputação Ótima, nota 8,4, 90% das reclamações resolvidas e 78,3% de consumidores que voltariam a fazer negócio. Todas as 108 reclamações foram respondidas, em média após 5 dias e 14 horas.",
+          "No [perfil da Denavita](https://www.reclameaqui.com.br/empresa/denavita/), o recorte de maio a outubro de 2026 mostrava reputação Ótima, nota 8,4, 90% das reclamações resolvidas e 78,3% de consumidores que voltariam a fazer negócio. Todas as 108 reclamações foram respondidas, em média após 5 dias e 14 horas.",
           "Na aba geral, que cobre até três anos, atraso na entrega foi o assunto mais citado. Veja [os indicadores completos do perfil](/reviews/denavita-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -278396,7 +278396,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como pedir devolução ou relatar um problema",
         "paragraphs": [
-          "Para desistência ou produto entregue com problema, a loja tem um portal de trocas, em que você informa o número do pedido. Em compra online, o art. 49 do Código de Defesa do Consumidor prevê sete dias a partir do recebimento para desistir.",
+          "Para desistência ou produto entregue com problema, a loja tem um portal de trocas, em que você informa o número do pedido. Em compra online, o [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) prevê sete dias a partir do recebimento para desistir.",
           "A central da loja orienta usar o portal em até 30 dias do recebimento para ocorrências como item faltando, errado ou danificado. Guarde a nota fiscal e as fotos do produto e da embalagem."
         ]
       },
@@ -278585,7 +278585,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde conferir o perfil atualizado",
         "paragraphs": [
-          "O perfil da Denavita no Reclame Aqui mostra os dados mais recentes, e os números mudam com o tempo. Para entender quem vende e como conferir o CNPJ, veja [Denavita é confiável?](/reviews/denavita-e-confiavel).",
+          "O [perfil da Denavita no Reclame Aqui](https://www.reclameaqui.com.br/empresa/denavita/) mostra os dados mais recentes, e os números mudam com o tempo. Para entender quem vende e como conferir o CNPJ, veja [Denavita é confiável?](/reviews/denavita-e-confiavel).",
           "Se a dúvida é o que comprar, [Denavita é boa?](/reviews/denavita-e-boa) compara os suplementos pelo rótulo e pelo preço por dia, e o guia da [primeira compra](/reviews/cupom-denavita-primeira-compra) mostra onde aplicar o desconto. O [cupom Denavita](/cupons/denavita) EMCASA dá 10% OFF no site oficial."
         ]
       },
@@ -288141,13 +288141,13 @@ export const reviewsData: unknown[] = [
         "heading": "Quem vende a BioBio",
         "paragraphs": [
           "O rodapé do site identifica a BioBio Cosméticos Naturais Ltda, CNPJ 50.300.951/0001-54. Na consulta pública do CNPJ, a empresa aparece ativa, com matriz em Curitiba (PR), aberta em abril de 2023, no comércio varejista de cosméticos. Os telefones do site também são de Curitiba.",
-          "Para conferir você mesmo, use o serviço de consulta de CNPJ da Receita Federal com o número do rodapé. Pela página “Conheça a BioBio”, a marca é de Talita e Thiago."
+          "Para conferir você mesmo, use o [serviço de consulta de CNPJ da Receita Federal](https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas) com o número do rodapé. Pela página “Conheça a BioBio”, a marca é de Talita e Thiago."
         ]
       },
       {
         "heading": "O que o Reclame Aqui mostra da BioBio",
         "paragraphs": [
-          "No perfil da BioBio no Reclame Aqui, que você encontra buscando o nome da marca no site deles, a empresa aparece como verificada e no Reclame Aqui há 3 anos. O site exibe no rodapé o selo “Verificada por” do Reclame Aqui."
+          "No [perfil da BioBio no Reclame Aqui](https://www.reclameaqui.com.br/empresa/biobio-cosmeticos/), a empresa aparece como verificada e no Reclame Aqui há 3 anos. O site exibe no rodapé o selo “Verificada por” do Reclame Aqui."
         ],
         "bullets": [
           "Nota Boa, 7,2, nos últimos 12 meses até outubro de 2026.",
@@ -288179,7 +288179,7 @@ export const reviewsData: unknown[] = [
         "heading": "Entrega, trocas e reembolso",
         "paragraphs": [
           "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279. O prazo depende do CEP: informe-o no checkout antes de pagar e guarde a previsão mostrada para o seu pedido.",
-          "A política de trocas da loja diz que, para desistir, o prazo é de 7 dias corridos do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O reembolso sai em até 10 dias úteis, ou há troca. Em compra online, o art. 49 do Código de Defesa do Consumidor também prevê sete dias.",
+          "A política de trocas da loja diz que, para desistir, o prazo é de 7 dias corridos do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O reembolso sai em até 10 dias úteis, ou há troca. Em compra online, o [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) também prevê sete dias.",
           "Se o produto chegar com defeito, avise em até 30 dias corridos, com fotos. A loja analisa em até 2 dias úteis e oferece troca, vale-troca ou reembolso, com postagem reversa. Nos kits, a troca ou a devolução vale para todos os itens. No cartão, a loja pede o estorno na hora, e o crédito na fatura depende do banco."
         ],
         "bullets": [
