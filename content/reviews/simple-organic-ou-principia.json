@@ -148,15 +148,6 @@
       "postParagraphs": [
         "Conta nossa, pelos preços das duas lojas: o frasco da Simple Organic sai R$ 19,67 mais barato. A diferença vem da promoção, e o capítulo do preço de referência mostra o que acontece sem ela.",
         "O zinco PCA no mesmo frasco só a Principia traz. Fique com a Simple Organic se o preço do frasco decide e o perfume não pesa; fique com a Principia se você evita fragrância no rosto ou quer o zinco junto."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
-          "alt": "Arte da Simple Organic com o frasco antigo da Solução Niacinamida e o novo Ultra Sérum Niacinamida, sob os dizeres Nova embalagem, mesma fórmula",
-          "caption": "O Ultra Sérum Niacinamida substituiu a Solução Niacinamida com a mesma fórmula, segundo a marca. Imagem: Simple Organic.",
-          "objectFit": "square",
-          "href": "https://simpleorganic.com.br/products/ultra-serum-niacinamida"
-        }
       ]
     },
     {
@@ -190,15 +181,6 @@
       "postParagraphs": [
         "A Simple Organic orienta quem tem pele sensível a usar com cautela, de preferência com orientação profissional, e a começar com menos aplicações por semana. A mesma cautela vale para o retinol da Principia.",
         "O erro comum é comparar com a [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like), da mesma Simple Organic: ela não tem retinol, e o ativo é o bakuchiol, a 1%. Quem procura retinol compara o Ultra Sérum Retinol. A comparação entre os dois está em [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol)."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
-          "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
-          "caption": "Ultra Sérum Retinol: a dose de retinol está impressa no frasco. Foto: Simple Organic.",
-          "objectFit": "square",
-          "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
-        }
       ]
     },
     {
@@ -289,11 +271,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
-          "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
-          "caption": "Gel de Limpeza Suave: sem perfume na lista de ingredientes. Foto: Simple Organic.",
-          "objectFit": "square",
-          "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
+          "src": "/images/reviews/simple-organic/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+          "alt": "Frasco rosa com válvula do Gel de Limpeza Profunda da Simple Organic, em foto oficial do produto",
+          "caption": "Gel de Limpeza Profunda, o gel da linha para pele oleosa. Imagem: Simple Organic.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://simpleorganic.com.br/products/gel-de-limpeza-profunda"
         }
       ]
     },

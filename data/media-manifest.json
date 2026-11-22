@@ -197394,6 +197394,374 @@
       "verified_at": "2026-11-22T03:58:35.006Z",
       "verification_etag_or_digest": "b8c811b1b43376f062ea01130e119cdcf17210efb0ca758ab5ec9f45bc6ae558",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/alternativas-a-creamy-dupla-limpeza-diaria.webp",
+      "local_url": "/images/reviews/simple-organic/alternativas-a-creamy-dupla-limpeza-diaria.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32014,
+      "sha256": "d106468e21958c5c677b732252d61e31dc83c6ae7b958f3624ff96c02cc556b5",
+      "width": 1001,
+      "height": 1001,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-creamy-dupla-limpeza-diaria.webp",
+      "storage_filename": "alternativas-a-creamy-dupla-limpeza-diaria.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-creamy.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-creamy.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/alternativas-a-creamy-dupla-limpeza-diaria.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 229603,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/alternativas-a-creamy-dupla-limpeza-diaria.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d106468e21958c5c677b732252d61e31dc83c6ae7b958f3624ff96c02cc556b5/alternativas-a-creamy-dupla-limpeza-diaria.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d106468e21958c5c677b732252d61e31dc83c6ae7b958f3624ff96c02cc556b5/alternativas-a-creamy-dupla-limpeza-diaria.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:26:04.996Z",
+      "verification_etag_or_digest": "d106468e21958c5c677b732252d61e31dc83c6ae7b958f3624ff96c02cc556b5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-niacinamida.webp",
+      "local_url": "/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-niacinamida.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15680,
+      "sha256": "86ffeee895193dd4f993c129584a995378c127a2a5232811f54cb0da1b16868a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-creamy-ultra-serum-niacinamida.webp",
+      "storage_filename": "alternativas-a-creamy-ultra-serum-niacinamida.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-creamy.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-creamy.json",
+          "line": 98,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-niacinamida.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 229585,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-niacinamida.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/86ffeee895193dd4f993c129584a995378c127a2a5232811f54cb0da1b16868a/alternativas-a-creamy-ultra-serum-niacinamida.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/86ffeee895193dd4f993c129584a995378c127a2a5232811f54cb0da1b16868a/alternativas-a-creamy-ultra-serum-niacinamida.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verification_etag_or_digest": "86ffeee895193dd4f993c129584a995378c127a2a5232811f54cb0da1b16868a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-retinol.webp",
+      "local_url": "/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-retinol.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17196,
+      "sha256": "ce4668e96a6643e4eea3ff35feaeaf18191316be143bd92103f21b896d021d8f",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "alternativas-a-creamy-ultra-serum-retinol.webp",
+      "storage_filename": "alternativas-a-creamy-ultra-serum-retinol.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/alternativas-a-creamy.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/alternativas-a-creamy.json",
+          "line": 80,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-retinol.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 229567,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-retinol.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ce4668e96a6643e4eea3ff35feaeaf18191316be143bd92103f21b896d021d8f/alternativas-a-creamy-ultra-serum-retinol.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ce4668e96a6643e4eea3ff35feaeaf18191316be143bd92103f21b896d021d8f/alternativas-a-creamy-ultra-serum-retinol.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verification_etag_or_digest": "ce4668e96a6643e4eea3ff35feaeaf18191316be143bd92103f21b896d021d8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
+      "local_url": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91224,
+      "sha256": "7060c182fd15ebf7d3875797a7f18ce8cccfbf143b41a6be8f45aa84b7b3889d",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
+      "storage_filename": "cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-simple-organic-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-simple-organic-primeira-compra.json",
+          "line": 167,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 236368,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7060c182fd15ebf7d3875797a7f18ce8cccfbf143b41a6be8f45aa84b7b3889d/cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7060c182fd15ebf7d3875797a7f18ce8cccfbf143b41a6be8f45aa84b7b3889d/cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verification_etag_or_digest": "7060c182fd15ebf7d3875797a7f18ce8cccfbf143b41a6be8f45aa84b7b3889d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119246,
+      "sha256": "52d4ecbe468d4efe7bc24f74336995e028b40f0f7c15b5b3f056f54d8c3dec1f",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+      "storage_filename": "simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-confiavel.json",
+          "line": 209,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 194054,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/52d4ecbe468d4efe7bc24f74336995e028b40f0f7c15b5b3f056f54d8c3dec1f/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/52d4ecbe468d4efe7bc24f74336995e028b40f0f7c15b5b3f056f54d8c3dec1f/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verification_etag_or_digest": "52d4ecbe468d4efe7bc24f74336995e028b40f0f7c15b5b3f056f54d8c3dec1f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25610,
+      "sha256": "613e046d205d73fa6ae266ff808e0589688ac39b1ae5948560716826fc546b82",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+      "storage_filename": "simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-ou-principia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-ou-principia.json",
+          "line": 274,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 228656,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/613e046d205d73fa6ae266ff808e0589688ac39b1ae5948560716826fc546b82/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/613e046d205d73fa6ae266ff808e0589688ac39b1ae5948560716826fc546b82/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verification_etag_or_digest": "613e046d205d73fa6ae266ff808e0589688ac39b1ae5948560716826fc546b82",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46998,
+      "sha256": "e5733c61b8217158d7b0b9f7ee52c419526e9c712949a12ba859d6dd91e614aa",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+      "storage_filename": "simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+          "line": 180,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 194298,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e5733c61b8217158d7b0b9f7ee52c419526e9c712949a12ba859d6dd91e614aa/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e5733c61b8217158d7b0b9f7ee52c419526e9c712949a12ba859d6dd91e614aa/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verification_etag_or_digest": "e5733c61b8217158d7b0b9f7ee52c419526e9c712949a12ba859d6dd91e614aa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21324,
+      "sha256": "39ddca9fd8e9d4ec22e05cd6b17ddb6154fb4e5d5f52dec33470d5c38bbbca05",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
+      "storage_filename": "simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-rotina-de-uso.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-rotina-de-uso.json",
+          "line": 268,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294445,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/39ddca9fd8e9d4ec22e05cd6b17ddb6154fb4e5d5f52dec33470d5c38bbbca05/simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/39ddca9fd8e9d4ec22e05cd6b17ddb6154fb4e5d5f52dec33470d5c38bbbca05/simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T05:26:04.997Z",
+      "verification_etag_or_digest": "39ddca9fd8e9d4ec22e05cd6b17ddb6154fb4e5d5f52dec33470d5c38bbbca05",
+      "verification_status": "verified"
     }
   ]
 }

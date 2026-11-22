@@ -206,11 +206,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
-          "alt": "Bisnaga do Hidratante Facial Super Glow da Simple Organic, em foto oficial do produto no site da marca",
-          "caption": "Hidratante Facial Super Glow, um dos produtos em que o código entrou no teste. O link abre a página do produto; copie o código e cole no carrinho. Foto: Simple Organic.",
-          "objectFit": "square",
-          "href": "https://simpleorganic.com.br/products/hidratante-facial-super-glow"
+          "src": "/images/reviews/simple-organic/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+          "alt": "Mulher sorrindo com a bisnaga do Hidratante Facial Antioleosidade da Simple Organic perto do rosto, em foto oficial do produto",
+          "caption": "Hidratante Facial Antioleosidade, um dos itens do nosso teste do código. Imagem: Simple Organic.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://simpleorganic.com.br/products/hidratante-facial-antioleosidade"
         }
       ]
     },

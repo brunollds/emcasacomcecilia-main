@@ -157,16 +157,6 @@
         "As reclamações mais recentes que listamos na primeira consulta contam o resto da história. Entre as últimas oito, apareceram: conta-gotas de sérum que chegou quebrado ou torto (duas vezes), produto reformulado com embalagem e quantidade novas, pedido de devolução feito no dia do recebimento, pedido que não deu para cancelar junto com tampa de creme que quebra, pedido não recebido e o mesmo produto pela metade do preço logo depois da compra. Todas tinham resposta da loja.",
         "Parte dessas queixas trata de frasco, tampa e reformulação, não só de entrega. Ao receber um sérum, confira o conta-gotas e fotografe o estado em que chegou antes de usar.",
         "Uma das reclamações de conta-gotas veio de compra na loja oficial da Simple na Shopee. O perfil do Reclame Aqui junta pedidos de todos os canais, então a nota não é só do site. Guarde onde comprou: o pedido da Shopee se resolve primeiro na Shopee, e o do site, no atendimento do site."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/simple-organic/simple-organic-ultra-serum-retinol-campanha.webp",
-          "alt": "Foto de campanha da Simple Organic: um modelo segura o frasco do Ultra Sérum Retinol junto do rosto",
-          "caption": "O Ultra Sérum Retinol, um dos produtos que aparecem nas buscas junto de \"reclame aqui\". Foto de campanha: Simple Organic.",
-          "objectFit": "contain",
-          "aspectRatio": 0.8662,
-          "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
-        }
       ]
     },
     {
@@ -176,15 +166,6 @@
         "Quem compra no site resolve o pedido pelos canais da própria Simple Organic. A loja publica que o pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento, por PAC, Sedex ou JadLog, e que em ações grandes, como a Clean Friday, o prazo pode chegar a 5 dias úteis. A troca por preferência e a desistência valem por 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado, pedidas por e-mail ao atendimento com o número do pedido. Defeito é outro caso: peça ao atendimento, com as fotos.",
         "O FAQ do site separa o pedido online do pedido feito numa loja física, que tem WhatsApp e e-mail próprios na página Onde encontrar. Se o seu caso é da loja física, fale com a loja; se é do site, com o atendimento do site. A empresa, o CNPJ, as lojas físicas e as regras de troca estão em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel).",
         "O que guardar do pedido: o número, o CPF da compra, o canal onde comprou (site, Shopee ou loja física) e as fotos do frasco e do conta-gotas como chegaram, tiradas ao abrir a caixa."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
-          "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
-          "caption": "Frasco, tampa e conta-gotas: confira ao receber e fotografe o estado em que chegou. Foto: Simple Organic.",
-          "objectFit": "square",
-          "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
-        }
       ]
     },
     {
@@ -196,11 +177,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
-          "alt": "Bisnaga do Hidratante Facial Super Glow da Simple Organic, em foto oficial do produto no site da marca",
-          "caption": "O cupom entrou neste hidratante no teste; copie o código e confira os 5% no carrinho. Foto: Simple Organic.",
-          "objectFit": "square",
-          "href": "https://simpleorganic.com.br/products/hidratante-facial-super-glow"
+          "src": "/images/reviews/simple-organic/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+          "alt": "Kit Acne, poros e cravos da Simple Organic, com Gel de Limpeza Profunda, sérum em frasco âmbar e Hidratante Antioleosidade, em foto oficial",
+          "caption": "Kit Acne, poros e cravos. Imagem: Simple Organic.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://simpleorganic.com.br/products/acne-poros-e-cravos"
         }
       ]
     },

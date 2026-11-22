@@ -194051,11 +194051,12 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
-            "alt": "Bisnaga do Hidratante Facial Super Glow da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "Hidratante Facial Super Glow, um dos produtos em que o código entrou no teste. O link abre a página do produto; copie o código e cole no carrinho. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/hidratante-facial-super-glow"
+            "src": "/images/reviews/simple-organic/simple-organic-e-confiavel-hidratante-antioleosidade.webp",
+            "alt": "Mulher sorrindo com a bisnaga do Hidratante Facial Antioleosidade da Simple Organic perto do rosto, em foto oficial do produto",
+            "caption": "Hidratante Facial Antioleosidade, um dos itens do nosso teste do código. Imagem: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/hidratante-facial-antioleosidade"
           }
         ]
       },
@@ -194274,16 +194275,6 @@ export const reviewsData: unknown[] = [
           "As reclamações mais recentes que listamos na primeira consulta contam o resto da história. Entre as últimas oito, apareceram: conta-gotas de sérum que chegou quebrado ou torto (duas vezes), produto reformulado com embalagem e quantidade novas, pedido de devolução feito no dia do recebimento, pedido que não deu para cancelar junto com tampa de creme que quebra, pedido não recebido e o mesmo produto pela metade do preço logo depois da compra. Todas tinham resposta da loja.",
           "Parte dessas queixas trata de frasco, tampa e reformulação, não só de entrega. Ao receber um sérum, confira o conta-gotas e fotografe o estado em que chegou antes de usar.",
           "Uma das reclamações de conta-gotas veio de compra na loja oficial da Simple na Shopee. O perfil do Reclame Aqui junta pedidos de todos os canais, então a nota não é só do site. Guarde onde comprou: o pedido da Shopee se resolve primeiro na Shopee, e o do site, no atendimento do site."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/simple-organic/simple-organic-ultra-serum-retinol-campanha.webp",
-            "alt": "Foto de campanha da Simple Organic: um modelo segura o frasco do Ultra Sérum Retinol junto do rosto",
-            "caption": "O Ultra Sérum Retinol, um dos produtos que aparecem nas buscas junto de \"reclame aqui\". Foto de campanha: Simple Organic.",
-            "objectFit": "contain",
-            "aspectRatio": 0.8662,
-            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
-          }
         ]
       },
       {
@@ -194293,15 +194284,6 @@ export const reviewsData: unknown[] = [
           "Quem compra no site resolve o pedido pelos canais da própria Simple Organic. A loja publica que o pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento, por PAC, Sedex ou JadLog, e que em ações grandes, como a Clean Friday, o prazo pode chegar a 5 dias úteis. A troca por preferência e a desistência valem por 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado, pedidas por e-mail ao atendimento com o número do pedido. Defeito é outro caso: peça ao atendimento, com as fotos.",
           "O FAQ do site separa o pedido online do pedido feito numa loja física, que tem WhatsApp e e-mail próprios na página Onde encontrar. Se o seu caso é da loja física, fale com a loja; se é do site, com o atendimento do site. A empresa, o CNPJ, as lojas físicas e as regras de troca estão em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel).",
           "O que guardar do pedido: o número, o CPF da compra, o canal onde comprou (site, Shopee ou loja física) e as fotos do frasco e do conta-gotas como chegaram, tiradas ao abrir a caixa."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
-            "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "Frasco, tampa e conta-gotas: confira ao receber e fotografe o estado em que chegou. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
-          }
         ]
       },
       {
@@ -194313,11 +194295,12 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
-            "alt": "Bisnaga do Hidratante Facial Super Glow da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "O cupom entrou neste hidratante no teste; copie o código e confira os 5% no carrinho. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/hidratante-facial-super-glow"
+            "src": "/images/reviews/simple-organic/simple-organic-reclame-aqui-kit-acne-poros-e-cravos.webp",
+            "alt": "Kit Acne, poros e cravos da Simple Organic, com Gel de Limpeza Profunda, sérum em frasco âmbar e Hidratante Antioleosidade, em foto oficial",
+            "caption": "Kit Acne, poros e cravos. Imagem: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/acne-poros-e-cravos"
           }
         ]
       },
@@ -196164,15 +196147,6 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O ingrediente que decide aqui é o álcool: os dois têm álcool orgânico na fórmula, e quem evita álcool em fragrância já sabe antes de comprar.",
           "O body splash serve para quem quer 100 mL pelo preço de entrada e um frasco para o dia a dia. O perfume de cabelo e corpo é para quem quer a versão com niacinamida e as notas escritas, e aceita comprar sem o volume na página. Os quatro body splashes custam o mesmo: escolha pela descrição da página de cada um."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
-            "alt": "Frasco do Body Splash Blossom Kiss da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "Body Splash Blossom Kiss, um dos quatro de 100 mL, com álcool orgânico na fórmula. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/body-splash-blossom-kiss"
-          }
         ]
       },
       {
@@ -228556,15 +228530,6 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Conta nossa, pelos preços das duas lojas: o frasco da Simple Organic sai R$ 19,67 mais barato. A diferença vem da promoção, e o capítulo do preço de referência mostra o que acontece sem ela.",
           "O zinco PCA no mesmo frasco só a Principia traz. Fique com a Simple Organic se o preço do frasco decide e o perfume não pesa; fique com a Principia se você evita fragrância no rosto ou quer o zinco junto."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
-            "alt": "Arte da Simple Organic com o frasco antigo da Solução Niacinamida e o novo Ultra Sérum Niacinamida, sob os dizeres Nova embalagem, mesma fórmula",
-            "caption": "O Ultra Sérum Niacinamida substituiu a Solução Niacinamida com a mesma fórmula, segundo a marca. Imagem: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/ultra-serum-niacinamida"
-          }
         ]
       },
       {
@@ -228598,15 +228563,6 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A Simple Organic orienta quem tem pele sensível a usar com cautela, de preferência com orientação profissional, e a começar com menos aplicações por semana. A mesma cautela vale para o retinol da Principia.",
           "O erro comum é comparar com a [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like), da mesma Simple Organic: ela não tem retinol, e o ativo é o bakuchiol, a 1%. Quem procura retinol compara o Ultra Sérum Retinol. A comparação entre os dois está em [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
-            "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
-            "caption": "Ultra Sérum Retinol: a dose de retinol está impressa no frasco. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
-          }
         ]
       },
       {
@@ -228697,11 +228653,12 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
-            "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "Gel de Limpeza Suave: sem perfume na lista de ingredientes. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
+            "src": "/images/reviews/simple-organic/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+            "alt": "Frasco rosa com válvula do Gel de Limpeza Profunda da Simple Organic, em foto oficial do produto",
+            "caption": "Gel de Limpeza Profunda, o gel da linha para pele oleosa. Imagem: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-profunda"
           }
         ]
       },
@@ -229605,13 +229562,16 @@ export const reviewsData: unknown[] = [
           "A vantagem é pagar menos pela embalagem. Os formatos e as fórmulas são diferentes, e a mesma concentração declarada não garante o mesmo resultado na pele.",
           "Com o preço de lista de R$ 69 e os mesmos 5% do código, o frasco sairia a R$ 65,55. A simulação usa a lista atual. Quem quer evitar retinol deve olhar a [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like), de bakuchiol: a diferença está em [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol)."
         ],
-        "image": {
-          "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
-          "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
-          "caption": "Ultra Sérum Retinol: concentração de 0,3% declarada no rótulo. Foto: Simple Organic.",
-          "href": "https://simpleorganic.com.br/products/ultra-serum-retinol",
-          "objectFit": "square"
-        }
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-retinol.webp",
+            "alt": "Frasco âmbar com conta-gotas do Ultra Sérum Retinol da Simple Organic, em foto oficial do produto",
+            "caption": "Ultra Sérum Retinol, da linha Ultra Sérum. Imagem: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
+          }
+        ]
       },
       {
         "heading": "No lugar do Niacinamide B: o Ultra Sérum Niacinamida",
@@ -229620,13 +229580,16 @@ export const reviewsData: unknown[] = [
           "A concentração exige outra leitura. A Simple Organic declara 10% de niacinamida. Na página da Creamy, os 20% se referem a um blend com niacinamida, vitamina B12, zinco e pantenol; esse número não informa 20% de niacinamida isolada.",
           "Com o preço de lista de R$ 69 e os mesmos 5% do código, o frasco sairia a R$ 65,55, cerca de R$ 2,19 por ml. A simulação usa a lista atual. Para comparar com a vitamina C da marca, veja [Vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
         ],
-        "image": {
-          "src": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
-          "alt": "Arte da Simple Organic com o frasco antigo da Solução Niacinamida e o novo Ultra Sérum Niacinamida, sob os dizeres Nova embalagem, mesma fórmula",
-          "caption": "O Ultra Sérum Niacinamida substituiu a Solução Niacinamida com a mesma fórmula, segundo a marca. Imagem: Simple Organic.",
-          "href": "https://simpleorganic.com.br/products/ultra-serum-niacinamida",
-          "objectFit": "square"
-        }
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/alternativas-a-creamy-ultra-serum-niacinamida.webp",
+            "alt": "Frasco âmbar com conta-gotas do Ultra Sérum Niacinamida da Simple Organic, em foto oficial do produto",
+            "caption": "Ultra Sérum Niacinamida, na embalagem atual. Imagem: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-niacinamida"
+          }
+        ]
       },
       {
         "heading": "No lugar do Gel de Limpeza: Suave ou Profunda na promoção",
@@ -229635,13 +229598,16 @@ export const reviewsData: unknown[] = [
           "Você paga menos pela embalagem da Simple Organic na oferta atual. Como uma marca informa o conteúdo em gramas e a outra em mililitros, esses valores não demonstram quanto se economiza pela mesma quantidade de produto.",
           "Para escolher entre os dois da Simple Organic, olhe a fórmula: o Suave não leva perfume; o Profunda contém ácidos salicílico, lático e glicólico, além de óleo de hortelã-pimenta."
         ],
-        "image": {
-          "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
-          "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
-          "caption": "Gel de Limpeza Suave: sem perfume na lista de ingredientes. Foto: Simple Organic.",
-          "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave",
-          "objectFit": "square"
-        }
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/alternativas-a-creamy-dupla-limpeza-diaria.webp",
+            "alt": "Dois frascos com válvula, o Gel de Limpeza Suave e o Gel de Limpeza Profunda da Simple Organic, lado a lado, em foto oficial do kit",
+            "caption": "Os dois géis de limpeza, Suave e Profunda, no kit Dupla Limpeza Diária. Imagem: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/dupla-limpeza-diaria"
+          }
+        ]
       },
       {
         "heading": "O cupom da Simple Organic e os descontos da Creamy",
@@ -229936,15 +229902,6 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A loja manda usar o retinol só à noite, com protetor solar todo dia durante o uso, e pede cautela e adaptação em pele sensível. Se a pessoa está grávida, esses três kits não são sugestão nossa. Para a diferença entre o retinol e o Retinol-Like, de bakuchiol, veja [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
-            "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
-            "caption": "Ultra Sérum Retinol: é ele que entra nos três kits. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
-          }
         ]
       },
       {
@@ -236405,6 +236362,16 @@ export const reviewsData: unknown[] = [
           "O S-EMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 5%. Serve para repor o [Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) ou o [Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade) no pedido seguinte, ou para trocar de ativo com um dos [Ultra Séruns](https://simpleorganic.com.br/products/ultra-serum-niacinamida).",
           "A política de cupons da loja diz que cada cupom vale uma vez por pessoa, e a loja pode prender o código ao e-mail da compra. Por isso, na segunda compra, o que decide é a linha do desconto no resumo do pedido: se ela aparecer, os 5% entraram; se não, o preço é o da promoção.",
           "As outras regras são as mesmas do primeiro pedido: o frete grátis começa em R$ 99 e conta depois do desconto, o parcelamento vai até 5x sem juros, com parcela mínima de R$ 30, e o código é só da loja online. Na Clean Friday, o preço de cada item da reposição já vem reduzido pela campanha, e o cupom entra sobre ele; o [guia de Black Friday da Simple Organic](/reviews/black-friday-simple-organic) lista os preços do dia."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-body-splash-dream-cloud.webp",
+            "alt": "Mulher borrifando o Body Splash Dream Cloud da Simple Organic no ombro, em foto oficial do produto",
+            "caption": "Body Splash Dream Cloud, um dos três do Trio Body Splashes. Imagem: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://simpleorganic.com.br/products/body-splash-dream-cloud"
+          }
         ]
       },
       {
@@ -236419,12 +236386,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O passo a passo com as telas está em [como usar o cupom S-EMCASACOMCECILIA](/reviews/cupom-simple-organic-como-usar)."
-        ],
-        "image": "/images/reviews/simple-organic/cupom-simple-organic-checkout-com-cupom.webp",
-        "imageAlt": "Resumo do pedido no checkout da Simple Organic com o código S-EMCASACOMCECILIA aplicado e a linha Desconto no pedido.",
-        "imageCaption": "S-EMCASACOMCECILIA aplicado no kit Rotina Pele Sensível: a captura mostra os mesmos valores da tabela do kit, antes do frete.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.039
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -294480,9 +294442,9 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/simple-organic/simple-organic-retinol-like-ou-retinol-ultra-serum-retinol.webp",
-            "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "Ultra Sérum Retinol: só à noite, pela página da loja. Foto: Simple Organic.",
+            "src": "/images/reviews/simple-organic/simple-organic-rotina-de-uso-ultra-serum-retinol-etapa.webp",
+            "alt": "Arte da Simple Organic com a pergunta Em qual etapa inserir na rotina?, o Ultra Sérum Retinol na etapa 3, séruns, e o uso indicado à noite",
+            "caption": "Na arte da loja, o Ultra Sérum Retinol entra na etapa dos séruns, só à noite. Imagem: Simple Organic.",
             "objectFit": "contain",
             "aspectRatio": 1,
             "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
