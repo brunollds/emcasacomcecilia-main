@@ -262,7 +262,9 @@ nos termos e nas políticas dela antes de virar pergunta.
    Organic): `slug`, `brand`, `officialUrl`, `offerUrl`, `code`, `discount` e `discountNumber`, `category` e
    `hubCategory`, textos (`shortDescription`, `longDescription`, `aboutBrand`), regras (`eligibleCategories`,
    `validity`, `reusable`, `shipping`, `combinable`), `metaTitle` sem mês com `metaTitleMonth: true`,
-   `metaDescription` abrindo com "Cupom <Loja>:" em até 155 caracteres, `lastVerified` e `status`.
+   `metaDescription` abrindo com "Cupom <Loja>:" em até 155 caracteres, `lastVerified` e `status`. O domínio do
+   `officialUrl` e do `offerUrl` entra em `PARTNER_HOSTS` (`src/lib/partnerHosts.ts`), para o link da loja no texto
+   dos artigos sair com sponsored; o `test:partner-hosts` barra a loja que ficar fora.
 2. **Teste no carrinho** (sem login, sem cadastro, sem finalizar compra): `testedAt` e `testNote` com o produto, o
    total antes e depois e o que somou. Sem teste, a loja entra sem os dois e sem a seção "Como testamos o cupom".
    Teste registrado por outra sessão, em artigo ou no vault, vale.

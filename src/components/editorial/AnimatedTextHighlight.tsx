@@ -3,6 +3,7 @@
 import { Fragment, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import { useScrollReveal } from '@/components/ui/RevealSection';
 import { splitInlineMarkdown } from '@/lib/inlineMarkdown';
+import { isPartnerHref } from '@/lib/partnerHosts';
 
 const DEFAULT_TERMS = ['CECILIA12'];
 
@@ -149,8 +150,14 @@ export function AnimatedTextHighlight({
               key={`link-${index}`}
               href={segment.href}
               target={segment.href.startsWith('/') ? undefined : '_blank'}
-              // Link externo no texto é de loja parceira (produto, loja oficial, página da marca): sponsored.
-              rel={segment.href.startsWith('/') ? undefined : 'sponsored noopener noreferrer'}
+              // Só o link para loja parceira ou programa de afiliado é sponsored (src/lib/partnerHosts.ts).
+              rel={
+                segment.href.startsWith('/')
+                  ? undefined
+                  : isPartnerHref(segment.href)
+                    ? 'sponsored noopener noreferrer'
+                    : 'noopener noreferrer'
+              }
               className={styles.link}
             >
               <HighlightedText
