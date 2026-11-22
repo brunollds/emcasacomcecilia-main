@@ -14,10 +14,10 @@
     "url": "/sobre"
   },
   "description": "Os oito brownies sem açúcar da Belive, quatro comuns e quatro proteicos, com o rótulo de cada um, os adoçantes da lista de ingredientes e o preço por unidade e no kit de 10.",
-  "metaDescription": "Brownie sem açúcar da Belive, oito sabores, com o cupom MAUAD de 10% OFF no site: rótulo, adoçantes, carboidratos e preço por unidade e no kit de 10.",
+  "metaDescription": "O cupom Belive MAUAD dá 10% OFF no site. Brownie sem açúcar da Belive, oito sabores: rótulo, adoçantes, carboidratos e preço por unidade e no kit de 10.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/belive/brownie-sem-acucar-belive-capa-v2.webp",
@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. O Double Chocolate Sem Glúten Sem Lactose contém açúcar, e no site oficial o código MAUAD dá 10% OFF."
+        "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. O Double Chocolate Sem Glúten Sem Lactose contém açúcar, e no site oficial o cupom Belive MAUAD dá 10% OFF."
       ]
     },
     {
@@ -37,11 +37,20 @@
         "Estes são os oito que a loja vende como sem açúcar, sem glúten e sem leite, em unidade e em kit de 10:"
       ],
       "bullets": [
-        "**Comuns:** Chocolate; Fit Chocolate com Coco; Chocolate com Nozes; Doce de Leite.",
-        "**Proteicos:** Double Chocolate; Chocolate com Avelã; Cappuccino; Caramelo Salgado."
+        "**Comuns:** [Chocolate](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)); [Fit Chocolate com Coco](https://belivebefree.com.br/produto/brownie-fit-chocolate-com-coco-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-fit-chocolate-com-coco-sem-acucar-sem-gluten-sem-leite-belive/)); [Chocolate com Nozes](https://belivebefree.com.br/produto/brownie-sem-acucar-sem-gluten-sem-leite-chocolate-com-nozes-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-sem-acucar-sem-gluten-sem-leite-chocolate-com-nozes-belive/)); [Doce de Leite](https://belivebefree.com.br/produto/brownie-de-doce-de-leite-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-de-doce-de-leite-sem-acucar-sem-gluten-sem-leite-belive/)).",
+        "**Proteicos:** [Double Chocolate](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)); [Chocolate com Avelã](https://belivebefree.com.br/produto/brownie-proteico-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/)); [Cappuccino](https://belivebefree.com.br/produto/brownie-proteico-cappuccino-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-cappuccino-sem-acucar-sem-gluten-sem-leite-belive/)); [Caramelo Salgado](https://belivebefree.com.br/produto/brownie-proteico-caramelo-salgado-sem-acucar-sem-gluten-sem-leite-belive/) ([kit de 10](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-caramelo-salgado-sem-acucar-sem-gluten-sem-leite-belive/))."
       ],
       "postParagraphs": [
         "Os kits mistos e os combos da loja também trazem brownies, mas misturam sabores e outros doces. Eles ficam fora das contas deste guia."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/belive/brownie-sem-acucar-belive-brownie-chocolate.webp",
+          "alt": "Brownie de chocolate da Belive inteiro, segurado na mão, sobre a embalagem da marca",
+          "caption": "O brownie de chocolate comum, de 40 g. Foto oficial da Belive.",
+          "objectFit": "square",
+          "href": "https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/"
+        }
       ]
     },
     {
@@ -52,22 +61,69 @@
         "A diferença está na proteína. Os comuns têm de 1,6 g a 2 g de proteína por unidade. Os proteicos têm 5 g ou 6 g, porque a massa leva proteínas isoladas de soja, arroz e, em alguns sabores, ervilha. Os comuns usam farinha de arroz, amido de milho e fécula de mandioca.",
         "O carboidrato muda menos. Os comuns têm de 16 g a 22 g por unidade, e os proteicos, de 13 g a 18 g. As calorias ficam entre 121 kcal e 144 kcal nos oito. O proteico custa R$ 1,00 a mais na unidade e R$ 0,93 a mais por unidade no kit, em relação aos comuns de R$ 6,97."
       ],
-      "images": [
-        {
-          "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp",
-          "alt": "Aba Tabela Nutricional da página do brownie de chocolate da Belive, com 124 kcal, 18 g de carboidratos, 1,8 g de proteínas e 5 g de fibras por porção de 40 g",
-          "caption": "Brownie de chocolate comum: 124 kcal, 1,8 g de proteína e 5 g de fibras por unidade de 40 g. Print da página da Belive.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9479
-        },
-        {
-          "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-double-chocolate.webp",
-          "alt": "Aba Tabela Nutricional da página do brownie proteico Double Chocolate da Belive, com 122 kcal, 13 g de carboidratos, 6 g de proteínas e 5,2 g de fibras por porção de 40 g",
-          "caption": "Brownie proteico Double Chocolate: 122 kcal, 6 g de proteína e 5,2 g de fibras por unidade de 40 g. Print da página da Belive.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9479
-        }
-      ]
+      "postParagraphs": [
+        "Tabelas nutricionais completas dos dois brownies que mais aparecem na busca, por unidade de 40 g, com a coluna de 100 g entre parênteses e o percentual do valor diário (VD) da porção."
+      ],
+      "comparisonTable": {
+        "caption": "Informação nutricional publicada pela Belive na página de cada brownie.",
+        "headers": [
+          "Item",
+          "Chocolate (comum)",
+          "Proteico Double Chocolate"
+        ],
+        "rows": [
+          [
+            "Calorias",
+            "124 kcal (310 kcal), 6% VD",
+            "122 kcal (305 kcal), 6% VD"
+          ],
+          [
+            "Carboidratos",
+            "18 g (46 g), 6% VD",
+            "13 g (33 g), 4% VD"
+          ],
+          [
+            "Açúcares totais",
+            "0 g",
+            "0 g"
+          ],
+          [
+            "Açúcares adicionados",
+            "0 g, 0% VD",
+            "0 g, 0% VD"
+          ],
+          [
+            "Proteínas",
+            "1,8 g (4,5 g), 4% VD",
+            "6 g (15 g), 12% VD"
+          ],
+          [
+            "Gorduras totais",
+            "7 g (17 g), 11% VD",
+            "7,3 g (18 g), 11% VD"
+          ],
+          [
+            "Gorduras saturadas",
+            "1,2 g (3 g), 6% VD",
+            "1,7 g (4,3 g), 9% VD"
+          ],
+          [
+            "Gorduras trans",
+            "0 g (0 g)",
+            "0 g (0 g)"
+          ],
+          [
+            "Fibras",
+            "5 g (12 g), 20% VD",
+            "5,2 g (13 g), 21% VD"
+          ],
+          [
+            "Sódio",
+            "20 mg (50 mg), 1% VD",
+            "52 mg (130 mg), 13% VD"
+          ]
+        ]
+      }
     },
     {
       "heading": "O rótulo dos oito sabores",
@@ -157,7 +213,7 @@
     {
       "heading": "Preço por unidade e no kit de 10",
       "paragraphs": [
-        "O proteico custa mais por unidade e no kit. Preços do site oficial em 17/10/2026, sem o cupom; o preço por unidade no kit é a conta nossa, o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
+        "O proteico custa mais por unidade e no kit. Preços do site oficial na consulta de 22/11, sem o cupom; o preço por unidade no kit é a conta nossa, o kit dividido por 10. A última coluna aplica o cupom Belive MAUAD (10%) e, depois, os 5% do Pix."
       ],
       "image": {
         "src": "/images/reviews/belive/belive-kit-10-brownies-chocolate-pagina-2026-10-19.webp",
@@ -199,14 +255,14 @@
         ]
       },
       "postParagraphs": [
-        "O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com o preço do kit e com os 5% do Pix. Como ele entra no carrinho está no guia de [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições, na [página do cupom da Belive](/cupons/belive).",
-        "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Um kit de 10 sozinho não chega a nenhum desses valores."
+        "O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com o preço do kit e com os 5% do Pix: são descontos em sequência, 10% e depois 5% sobre o que sobrou, ou 14,5% sobre o valor dos produtos. Como ele entra no carrinho está no guia de [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições, na [página do cupom da Belive](/cupons/belive).",
+        "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o mínimo conta antes do cupom. Um kit de 10 sozinho não chega a nenhum desses valores."
       ]
     },
     {
       "heading": "Sem lactose não é sem açúcar",
       "paragraphs": [
-        "O **Brownie Proteico Double Chocolate Sem Glúten Sem Lactose** tem nome parecido com o Proteico Double Chocolate Sem Açúcar, mas não é sem açúcar. A lista de ingredientes começa por açúcar e tem também açúcar mascavo e glucose. A unidade custava R$ 7,49, e o kit de 10, R$ 69,66."
+        "O [Brownie Proteico Double Chocolate Sem Glúten Sem Lactose](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-gluten-sem-lactose-belive/) tem nome parecido com o Proteico Double Chocolate Sem Açúcar, mas leva açúcar na receita. A lista de ingredientes começa por açúcar e tem também açúcar mascavo e glucose. A unidade custava R$ 7,49, e o [kit de 10](https://belivebefree.com.br/produto/kit-10-brownie-proteico-double-chocolate-sem-gluten-sem-lactose-belive/), R$ 69,66."
       ],
       "comparisonTable": {
         "headers": [
@@ -248,7 +304,18 @@
         ]
       },
       "postParagraphs": [
-        "Na loja, os dois aparecem lado a lado. Para quem procura sem açúcar, o que separa os dois é a expressão \"Sem Açúcar\" no nome."
+        "Na loja, os dois aparecem lado a lado, e o que separa um do outro é \"Sem Açúcar\" ou \"Sem Lactose\" no nome. A embalagem do Sem Lactose traz o selo frontal \"alto em açúcar adicionado\"; a do Sem Açúcar traz \"zero açúcar\" na frente.",
+        "Sem lactose quer dizer sem o açúcar do leite. O açúcar de mesa, o mascavo e a glucose seguem na receita, e é por isso que a tabela mostra 13 g de açúcares adicionados por unidade, 26% do valor diário, contra 0 g no Sem Açúcar. Quem evita lactose e também quer evitar açúcar confere as duas coisas no rótulo de cada brownie. Na dúvida, o médico ou o nutricionista que acompanha você ajuda a escolher.",
+        "O preço não ajuda a separar os dois: o Sem Lactose custava R$ 7,49 a unidade e R$ 69,66 o kit de 10, contra R$ 7,97 e R$ 74,12 do proteico sem açúcar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/belive/brownie-sem-acucar-belive-brownie-proteico-double-chocolate.webp",
+          "alt": "Embalagem do Protein Brownie Double Chocolate da Belive, de 40 g, com 5 g de proteínas e o selo Alto em açúcar adicionado",
+          "caption": "A embalagem do Protein Brownie Double Chocolate com o selo frontal \"alto em açúcar adicionado\", a versão Sem Lactose. Foto oficial da Belive.",
+          "objectFit": "square",
+          "href": "https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-gluten-sem-lactose-belive/"
+        }
       ]
     },
     {
@@ -261,16 +328,10 @@
       "heading": "Ingredientes, adoçantes e alérgicos",
       "paragraphs": [
         "Os oito trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. A descrição da loja fala em \"adoçado naturalmente com stévia\". O glicosídeo de esteviol é o adoçante da stévia, e o maltitol vem antes dele na lista. Os quatro proteicos também levam sorbitol e glicerol como umectantes. Os comuns levam glicerol.",
-        "Os alérgicos, pela lista de cada página:"
+        "A lista completa do brownie de chocolate e os alérgicos de cada página:"
       ],
-      "image": {
-        "src": "/images/reviews/belive/belive-ingredientes-brownie-chocolate.webp",
-        "alt": "Aba Ingredientes da página do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
-        "caption": "A lista de ingredientes do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. O destaque em amarelo é nosso.",
-        "objectFit": "contain",
-        "aspectRatio": 3.0151
-      },
       "bullets": [
+        "Brownie de chocolate, lista completa: mix sem glúten (farinha de arroz, amido de milho, fécula de mandioca), óleo de soja, fibra solúvel polidextrose, ovo em pó, cacau em pó, edulcorantes maltitol e glicosídeos de esteviol, emulsificantes ésteres de poliglicerol de ácidos graxos, glicerol e goma xantana, conservantes sorbato de potássio e propionato de cálcio, fermento químico pirofosfato dissódico, acidulante ácido cítrico e aromatizantes. Não contém glúten; contém ovo e derivado de soja.",
         "Todos os oito: contêm ovo e derivados de soja. Nenhum contém glúten.",
         "Chocolate com Nozes: contém nozes. Pode conter amêndoa, amendoim, avelã, castanha-de-caju, castanha-do-pará e pistache.",
         "Proteico Chocolate com Avelã: contém avelã. Pode conter amêndoa, amendoim, castanha-de-caju, pistache e nozes.",
@@ -285,7 +346,7 @@
       "bullets": [
         "Quais brownies da Belive são sem açúcar? Oito: Chocolate, Fit Chocolate com Coco, Chocolate com Nozes, Doce de Leite e os proteicos Double Chocolate, Chocolate com Avelã, Cappuccino e Caramelo Salgado. Nos totais, sete declaram 0 g de açúcares; o Caramelo Salgado declara 0,1 g.",
         "Quantas calorias tem o brownie sem açúcar da Belive? De 121 kcal a 144 kcal por unidade de 40 g, conforme o sabor. O de chocolate tem 124 kcal.",
-        "Quanto custa o brownie sem açúcar da Belive? Na tabela deste guia, de R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix. Os preços mudam; confira no site.",
+        "Quanto custa o brownie sem açúcar da Belive? Na tabela deste guia, de R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o cupom MAUAD e o Pix. Os preços mudam; confira no site.",
         "Quanta proteína tem o brownie proteico da Belive? De 5 g a 6 g por unidade de 40 g. Os comuns têm de 1,6 g a 2 g.",
         "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo não define a quantidade para cada pessoa. Os oito declaram 0 g de açúcares adicionados e de 13 g a 22 g de carboidratos por unidade; nos totais, o Caramelo Salgado declara 0,1 g e os outros sete, 0 g. Leve o rótulo ao médico ou ao nutricionista que acompanha você.",
         "Qual adoçante o brownie da Belive usa? Maltitol e glicosídeos de esteviol, nos oito sabores sem açúcar. Os proteicos também levam sorbitol."

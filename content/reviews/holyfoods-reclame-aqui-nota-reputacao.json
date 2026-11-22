@@ -1,4 +1,5 @@
 {
+  "bodyDatesReason": "reclame-aqui",
   "id": 827,
   "slug": "holyfoods-reclame-aqui-nota-reputacao",
   "title": "HolyFoods no Reclame Aqui: nota, reputação e do que as pessoas reclamam",
@@ -13,9 +14,10 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "HolyFoods no Reclame Aqui: reputação Boa nos últimos 6 meses, nota 7,5 e 91,1% das avaliadas resolvidas. Do que as pessoas reclamam e o que fazer se o pedido der problema.",
-  "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. No Reclame Aqui: reputação Boa, nota 7,5, 91,1% das avaliadas resolvidas e as queixas mais comuns.",
+  "description": "HolyFoods no Reclame Aqui: reputação Boa nos últimos 6 meses, nota 7,6 e 91,4% das avaliadas resolvidas. Veja as queixas mais comuns e o que conferir se o pedido atrasar.",
+  "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. No Reclame Aqui: reputação Boa, nota 7,6, 91,4% das avaliadas resolvidas e as queixas mais comuns.",
   "publishedAt": "5 de novembro de 2026",
+  "updatedAt": "2026-11-22",
   "publishedAtISO": "2026-11-05",
   "draft": false,
   "isNew": true,
@@ -27,20 +29,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, com atenção à entrega: na aba de seis meses, a HolyFoods tem reputação Boa, nota 7,5, todas as reclamações respondidas e 91,1% das avaliadas resolvidas. Pedido não recebido é a maior categoria de reclamações do perfil. Na loja online, o EMCASA dá 15% OFF em todo o site."
+        "Sim, com atenção à entrega: nos 6 meses até outubro de 2026, a HolyFoods tem reputação Boa, nota 7,6, 100% das reclamações respondidas e 91,4% de solução entre as avaliadas. O principal ponto de atenção é a entrega: produto não recebido lidera os problemas da aba Geral. O EMCASA dá 15% OFF no site da loja."
       ]
     },
     {
-      "heading": "Qual perfil olhar",
+      "heading": "A nota e os indicadores do período",
       "paragraphs": [
-        "No Reclame Aqui, a busca por \"holyfoods\", tudo junto, não acha nada; a busca por \"holy foods\", com espaço, acha. O perfil tem o nome HolyFoods, mas o endereço da página é empresa/holysoup, e é esse mesmo: o CNPJ dele é o 50.874.415/0001-62, o mesmo que aparece no rodapé do site da loja.",
-        "Se o CNPJ bate, você está no lugar certo. A empresa, o site oficial e a garantia estão em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel). Aqui ficam os números das reclamações."
-      ]
-    },
-    {
-      "heading": "Os números da HolyFoods",
-      "paragraphs": [
-        "Em 05/11/2026, a aba de 6 meses mostrava o atendimento mais recente. As outras três abas são períodos mais longos e sobrepostos, então compare os indicadores sem tratá-los como grupos independentes."
+        "A tabela reúne as quatro abas do [perfil da HolyFoods no Reclame Aqui](https://www.reclameaqui.com.br/empresa/holysoup/), lidas em novembro de 2026. As janelas se sobrepõem: os 6 meses estão dentro dos 12, e o ano de 2025 e a aba Geral também cobrem períodos em comum. Por isso, compare as colunas sem tratá-las como grupos independentes."
       ],
       "comparisonTable": {
         "headers": [
@@ -60,52 +55,59 @@
           ],
           [
             "Nota",
-            "7,5",
-            "7,5",
+            "7,6",
+            "7,6",
             "8,1",
             "7,9"
           ],
           [
             "Reclamações recebidas",
-            "251",
-            "524",
+            "252",
+            "525",
             "292",
-            "1.007"
+            "1.015"
           ],
           [
             "Respondidas",
             "100%",
             "100%",
             "100%",
-            "100%"
+            "99,8%"
           ],
           [
-            "Resolvidas entre as avaliadas",
-            "91,1%",
-            "87%",
+            "Aguardando resposta",
+            "0",
+            "0",
+            "0",
+            "2"
+          ],
+          [
+            "Avaliadas",
+            "141",
+            "313",
+            "218",
+            "675"
+          ],
+          [
+            "Resolvidas, entre as avaliadas",
+            "91,4%",
+            "87,2%",
             "88,1%",
-            "87,8%"
+            "87,7%"
           ],
           [
-            "Intenção de voltar, entre as avaliadas",
-            "51,9%",
+            "Voltariam a fazer negócio, entre as avaliadas",
+            "52,1%",
             "56,7%",
             "67,9%",
-            "63,3%"
-          ],
-          [
-            "Reclamações avaliadas",
-            "136",
-            "308",
-            "218",
-            "666"
+            "63,2%"
           ],
           [
             "Nota média do consumidor",
-            "5,93",
-            "5,98",
+            "5,96",
+            "6",
             "7,11",
-            "6,6"
+            "6,59"
           ],
           [
             "Tempo médio de resposta",
@@ -115,46 +117,54 @@
             "2 dias e 5 h"
           ]
         ],
-        "caption": "Abas do perfil da HolyFoods no Reclame Aqui em 05/11. \"2025\" é o ano inteiro; \"Geral\" é todo o histórico do perfil."
+        "caption": "HolyFoods no Reclame Aqui por aba. 6 meses: de maio a outubro de 2026. 12 meses: de novembro de 2025 a outubro de 2026. 2025: o ano inteiro. Geral: até 3 anos, de novembro de 2023 a novembro de 2026. Resolvidas e voltariam a fazer negócio são calculados sobre as avaliadas."
       },
       "postParagraphs": [
-        "Na aba de seis meses, 136 das 251 recebidas tinham avaliação. A resolução, a intenção de voltar e a nota do consumidor se referem a quem avaliou. A nota de reputação define a faixa Boa; a nota do consumidor é uma medida diferente, mostrada na tabela."
+        "As 252 reclamações dos 6 meses, as 525 de 12 meses e as 1.015 da aba Geral são números absolutos. Sem o total de pedidos da loja, eles não viram taxa de reclamação e não dizem se são muitas ou poucas."
       ]
     },
     {
-      "heading": "O que os períodos mostram",
+      "heading": "O que a nota e a faixa medem (e o que não medem)",
       "paragraphs": [
-        "Os números recentes são melhores em resolução e piores no resto. A aba de 6 meses tem a maior fatia de reclamações resolvidas do perfil, mas também a menor de gente que voltaria a comprar e a menor nota do consumidor.",
-        "Resolvida e \"voltaria\" são perguntas diferentes feitas a quem avalia a reclamação: uma pergunta se o caso foi resolvido; a outra, se a pessoa compraria de novo. Juntas, dizem que muita reclamação se encerra, mas nem sempre a pessoa sai satisfeita com o caminho.",
-        "Os últimos 6 meses já juntam quase tantas reclamações quanto 2025 inteiro, a reputação desceu um degrau, de Ótima para Boa, e caiu a fatia de quem voltaria a comprar. A tabela não explica o porquê. Para quem compra hoje, vale a aba recente; o ano passado mostra que a loja já teve números melhores."
+        "A nota do Reclame Aqui mede como a empresa atende as reclamações registradas na plataforma. Ela não mede o sabor, a composição nem a qualidade dos produtos, e muda com o tempo: confira o perfil no dia em que for comprar.",
+        "Boa e Ótima são as faixas que a plataforma dá à nota do período. A HolyFoods está na Boa nos 6 meses, nos 12 meses e na aba Geral, e na Ótima em 2025. O perfil não exibe o selo Empresa Verificada nem o RA1000: é a ausência de um selo, não uma nota baixa.",
+        "A nota 7,6 é a que a plataforma calcula para o período. A nota média do consumidor, 5,96 nos 6 meses, é outra coisa: é a média que as pessoas deram ao atendimento ao avaliar a reclamação, depois de finalizada. Resolvidas e voltariam a fazer negócio valem só para as avaliadas, 141 nos 6 meses, e não para todos os clientes da loja."
       ]
     },
     {
-      "heading": "Do que as pessoas reclamam",
+      "heading": "Pontos positivos identificados",
       "paragraphs": [
-        "Produto não recebido é a maior categoria do perfil: 29% dos principais problemas, que o Reclame Aqui conta numa janela de até 3 anos, mais longa que a aba de 6 meses. O resto se espalha em categorias menores.",
-        "Lendo os títulos das reclamações mais recentes, os temas se repetem em três grupos: entrega (pedido que não chegou, atraso, pedido que não foi despachado, pedido marcado como entregue pela transportadora sem ter chegado), mercadoria faltando na caixa e pedido de cancelamento com reembolso por falta de entrega. Os títulos mostram o assunto; não dizem quantas pessoas se queixam de cada coisa.",
-        "Regra prática, sem teste nosso, para um pedido de sachês e embalagens fechadas: fotografe a caixa ainda fechada e confira as quantidades antes de guardar na despensa. É a prova que ajuda quando falta item."
-      ]
-    },
-    {
-      "heading": "Como a loja responde",
-      "paragraphs": [
-        "Responde a tudo: nas quatro abas, 100% das reclamações têm resposta da loja. O tempo médio nos últimos 6 meses é de 1 dia e 15 horas, mais lento que em 2025 e mais rápido que na aba de 12 meses.",
-        "A resposta da empresa e a resolução avaliada pelo consumidor são indicadores diferentes. Na janela recente da tabela, a resolução entre avaliadas era mais alta; a intenção de voltar e a nota do consumidor eram menores que nas outras abas."
-      ]
-    },
-    {
-      "heading": "Se o pedido der problema",
-      "paragraphs": [
-        "Comece pelo rastreio e pelo atendimento da loja, com o número do pedido em mãos. Separe o problema de entrega de uma devolução de produto já recebido:"
+        "O perfil mostra estes pontos a favor da HolyFoods:"
       ],
       "bullets": [
-        "**1. Rastreie o pedido.** No menu do site há o \"Rastrear pedido\", que acompanha a entrega. A loja informa: a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o prazo do transporte soma a isso; o prazo e o frete aparecem no checkout, pelo CEP.",
-        "**2. Fale no WhatsApp da loja,** de segunda a sexta, das 9h às 18h.",
-        "**3. Escreva para contato@holyfoods.com.br** com o número do pedido e, se houve avaria, item diferente ou falta, com fotos. Se a embalagem chegar claramente violada, dá para recusá-la na entrega.",
-        "**4. Para produto recebido, veja a devolução aplicável.** O arrependimento vale 7 dias depois do recebimento; a garantia de satisfação vale 30 dias corridos, com uma unidade aberta se as demais estiverem fechadas. Para pedido não entregue, informe a ocorrência ao atendimento em vez de aguardar esses prazos.",
-        "**5. Se o atendimento não resolver, registre a reclamação.** Guarde número do pedido, rastreio e conversas para descrever o ocorrido."
+        "Reputação Boa e nota 7,6 nos 6 meses, e reputação Ótima com nota 8,1 em 2025.",
+        "100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025, sem nenhuma aguardando. Na aba Geral, são 99,8% respondidas e 2 aguardando resposta.",
+        "Tempo médio de resposta de 1 dia e 15 horas nos 6 meses e de 1 dia e 9 horas em 2025.",
+        "Entre as 141 reclamações avaliadas nos 6 meses, 91,4% aparecem como resolvidas. Esse índice vale só para as avaliadas.",
+        "Na aba Geral, 63,2% de quem avaliou diz que voltaria a fazer negócio, também entre as avaliadas.",
+        "O perfil informa que a empresa está no Reclame Aqui há 5 anos e a coloca em 9º lugar no ranking de melhor empresa da categoria Alimentos Diet e Light."
+      ]
+    },
+    {
+      "heading": "Pontos de atenção e principais queixas",
+      "paragraphs": [
+        "Nos 6 meses, a nota (7,6), a nota média do consumidor (5,96) e a parcela que voltaria a fazer negócio (52,1% das avaliadas) ficam abaixo das de 2025 (8,1, 7,11 e 67,9%). A tabela mostra a queda, mas não explica o motivo.",
+        "Os principais problemas vêm de outra aba. Na Geral, que soma até 3 anos, o perfil lista: problema Produto não recebido, com 29,26%; produto Outro Tipo de produto/Serviço, com 9,46%; e categoria Não categorizado, com 8,87%. Esses percentuais são da aba Geral e não se aplicam aos 6 meses. O Reclame Aqui publica só o agrupamento, e não quantas pessoas se queixam de cada coisa dentro dele.",
+        "Para quem compra, o recado prático é a entrega: confira o rastreio e as quantidades ao receber, como no próximo capítulo."
+      ]
+    },
+    {
+      "heading": "Como a loja responde e o que conferir antes de comprar",
+      "paragraphs": [
+        "O perfil tem o nome HolyFoods, mas o endereço da página é empresa/holysoup. O CNPJ dele é o 50.874.415/0001-62, o mesmo do rodapé do site da loja. Se a busca por \"holyfoods\" não achar, tente \"holy foods\", com espaço. Quem a loja é, o site oficial e a garantia estão em [HolyFoods é confiável?](/reviews/holyfoods-e-confiavel).",
+        "Para um pedido com problema, o caminho começa na própria loja, com o número do pedido em mãos:"
+      ],
+      "bullets": [
+        "**Confira o rastreio.** No menu do site há o \"Rastrear pedido\". A loja informa que a preparação para postagem leva até 3 dias úteis depois da aprovação do pagamento, e o transporte soma a isso; o prazo para o seu CEP aparece no checkout.",
+        "**Fale com a loja.** Os canais são o WhatsApp, o e-mail contato@holyfoods.com.br e o telefone (11) 4003 8025. Informe o número do pedido e, se houve avaria, item diferente ou falta, mande fotos.",
+        "**Confira a caixa ao receber.** Veja a embalagem, os itens e as quantidades. Se a caixa chegar claramente violada ou avariada e for seguro, recuse-a na entrega e avise a loja.",
+        "**Guarde as provas.** Número do pedido, rastreio, fotos da caixa fechada e das quantidades e as conversas com a loja.",
+        "**Para produto recebido, veja a devolução.** O arrependimento vale 7 dias a partir do recebimento, pelo e-mail da loja com o número do pedido. A garantia de satisfação da loja vale 30 dias corridos, mesmo com uma unidade aberta, e se soma ao direito dos 7 dias."
       ],
       "images": [
         {
@@ -167,32 +177,23 @@
       ]
     },
     {
-      "heading": "Parceria e cupom",
+      "heading": "Vale a pena comprar na HolyFoods?",
       "paragraphs": [
+        "De um lado, reputação Boa, todas as reclamações dos 6 meses respondidas e 91,4% de solução entre as avaliadas. Do outro, a entrega concentra os problemas da aba Geral, e a nota e a vontade de voltar a comprar caíram em relação a 2025. Dá para comprar com o pedido acompanhado de perto.",
         "O Em Casa com Cecília tem parceria com a HolyFoods e pode receber comissão pelas compras feitas com o EMCASA, o [cupom HolyFoods](/cupons/holyfoods). Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
-        "O cupom dá 15% OFF em todo o site e entra na tela \"Finalizar compra\", no campo \"Inserir cupom de desconto\", não no carrinho. Nos nossos testes, com avulsos e packs que já estavam com os 30% da Black da Holy, o EMCASA entrou por cima da promoção. O kit entra na sacola como os produtos avulsos; de todo jeito, confira a linha de desconto no checkout antes de pagar. O link da parceria não aplica o código: copie o EMCASA e cole na tela de finalizar. O passo a passo está em [Cupom HolyFoods: como usar](/reviews/cupom-holyfoods-como-usar)."
-      ]
-    },
-    {
-      "heading": "Dá para confiar na HolyFoods: o veredito",
-      "paragraphs": [
-        "Dá, com o pedido acompanhado de perto. O perfil está na faixa Boa e responde a todas as reclamações. Entre as avaliadas da aba de seis meses, cerca de nove em cada dez foram resolvidas. A entrega é o principal ponto de atenção, e nota e intenção de voltar estão abaixo das de 2025. A tabela do início traz cada período.",
+        "O cupom dá 15% OFF no site todo e entra só na tela \"Finalizar compra\", em \"Inserir cupom de desconto\", não no carrinho. O link da parceria não aplica o código: copie o EMCASA e cole nessa tela. O passo a passo está em [Cupom HolyFoods: como usar](/reviews/cupom-holyfoods-como-usar).",
         "A Cecília comprou um kit da HolyFoods pelo TikTok Shop antes da parceria: a abertura da caixa e o risoto feito em casa estão no vídeo do fim do artigo."
-      ],
-      "bullets": [
-        "O que conferir no dia: o perfil empresa/holysoup com o nome HolyFoods, o CNPJ 50.874.415/0001-62 e a aba de 6 meses.",
-        "O que guardar: número do pedido, fotos da caixa e das quantidades ao receber e as conversas com a loja.",
-        "Se o atendimento não resolver: registre o ocorrido com número do pedido, rastreio e conversas guardadas."
       ],
       "emphasis": "Loja que responde a tudo e resolve a maior parte das avaliadas passa no teste. O cuidado que fica é com a entrega: acompanhe o pedido do começo ao fim."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "HolyFoods é confiável no Reclame Aqui? Sim, com atenção à entrega: a reputação da aba de seis meses é Boa e a loja responde a todas as reclamações. Os números de cada período estão no capítulo \"Os números da HolyFoods\".",
-        "O perfil holysoup no Reclame Aqui é o da HolyFoods? Sim: o endereço do perfil é empresa/holysoup, mas o nome na página é HolyFoods e o CNPJ é o mesmo do rodapé do site. Para achar, busque \"holy foods\", com espaço.",
-        "O que fazer se o pedido da HolyFoods não chegou? Consulte o rastreio e fale com a loja pelo WhatsApp ou por contato@holyfoods.com.br, com o número do pedido. Se não resolver, guarde os registros para reclamar; a garantia de satisfação trata de produto recebido.",
-        "Quanto tempo a HolyFoods leva para responder no Reclame Aqui? Na aba de seis meses, a média é de 1 dia e 15 horas, e isso não é um prazo garantido."
+        "HolyFoods é confiável no Reclame Aqui? Dá para comprar, com atenção à entrega: a reputação é Boa nos 6 meses, a loja responde a quase todas as reclamações e produto não recebido lidera os problemas da aba Geral.",
+        "Qual a nota da HolyFoods no Reclame Aqui? Nos 6 meses e nos 12 meses, 7,6; em 2025, 8,1; na aba Geral, 7,9. A nota muda com o tempo, então confira o perfil.",
+        "A HolyFoods tem selo Empresa Verificada ou RA1000? O perfil não mostra nenhum dos dois. A reputação aparece como Boa nos 6 meses e como Ótima em 2025.",
+        "A HolyFoods responde e resolve as reclamações? Respondeu 100% nos 6 meses, em média em 1 dia e 15 horas. Entre as 141 avaliadas, 91,4% aparecem como resolvidas; o índice vale só para as avaliadas.",
+        "O que fazer se o pedido da HolyFoods não chegou? Consulte o rastreio e fale com a loja pelo WhatsApp ou por contato@holyfoods.com.br, com o número do pedido. A garantia de 30 dias trata de produto já recebido."
       ]
     }
   ],
@@ -201,10 +202,10 @@
   "decision": {
     "takeIf": [
       "Você acompanha o pedido do pagamento ao recebimento e guarda o número, as fotos e as conversas com a loja.",
-      "O que pesa para você é a loja responder e encerrar a maioria das reclamações."
+      "O que pesa para você é a loja responder e encerrar a maioria das reclamações avaliadas."
     ],
     "skipIf": [
-      "Um atraso ou uma falta de item estraga a compra, porque entrega é a maior queixa do perfil.",
+      "Um atraso ou uma falta de item estraga a compra, porque entrega concentra os problemas do perfil.",
       "A tendência dos últimos meses pesa mais para você do que o histórico: nota e vontade de voltar caíram em relação a 2025."
     ]
   },

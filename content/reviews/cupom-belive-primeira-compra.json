@@ -17,7 +17,7 @@
   "metaDescription": "MAUAD dá 10% OFF em todo o site da Belive na primeira compra. O mesmo código vale para quem já comprou e soma com as ofertas e com os 5% do Pix.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/belive/cupom-belive-primeira-compra-capa-v2.webp",
@@ -53,7 +53,7 @@
     {
       "heading": "Cupom Belive primeira compra: qual usar",
       "paragraphs": [
-        "A Belive vende alimentos como pães, doces e snacks na sua loja online. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Belive é confiável?](/reviews/belive-e-confiavel).",
+        "A Belive vende alimentos como pães, doces e snacks na sua loja online.",
         "Use o MAUAD: 10% OFF em todos os produtos do site oficial, inclusive combos e kits. Ele vale no primeiro pedido e nos seguintes.",
         "É o [cupom Belive](/cupons/belive) da nossa parceria com a marca, testado no carrinho. Pão, doce ou snack: o código é o mesmo."
       ]
@@ -85,14 +85,14 @@
         ]
       },
       "postParagraphs": [
-        "Abaixo desses valores, o frete é calculado no checkout. A compra é pelo site oficial: a Belive não tem aplicativo, e o código não vale no Mercado Livre.",
+        "Abaixo desses valores, o frete é calculado no checkout. O mínimo conta o valor do carrinho antes do cupom: aplicar o MAUAD não tira o frete grátis que o pedido já tinha. A compra é pelo site oficial: a Belive não tem aplicativo, e o código não vale no Mercado Livre.",
         "Pedido perto do valor da sua região? Aplique o código, informe o CEP e confira no resumo se há cobrança de frete."
       ]
     },
     {
       "heading": "Combo em oferta: quanto fica com o MAUAD",
       "paragraphs": [
-        "O MAUAD entra sobre o preço da oferta. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um combo de seis pacotes de pão de batata ficou assim:"
+        "O MAUAD entra sobre o preço da oferta. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um [combo de seis pacotes de pão de batata](https://belivebefree.com.br/produto/combo-pao-de-batata-sem-gluten-sem-leite-sem-lactose-belive-6-pacotes-2/) ficou assim:"
       ],
       "comparisonTable": {
         "caption": "Combo de seis pacotes de pão de batata: valores do teste no carrinho, antes do Pix e do frete.",
@@ -120,7 +120,7 @@
         ]
       },
       "postParagraphs": [
-        "Os 10% saíram do preço da oferta. No Pix, a loja ainda dá 5% de desconto, que somam com o código: escolha o Pix no pagamento e confira o total."
+        "Os 10% saíram do preço da oferta. No Pix, a loja ainda dá 5% de desconto, que somam com o código: os dois descontos são sucessivos, 10% e depois 5% sobre o que sobrou, o que dá 14,5% sobre o valor dos produtos."
       ],
       "images": [
         {
@@ -135,7 +135,9 @@
     {
       "heading": "E na segunda compra?",
       "paragraphs": [
-        "O MAUAD vale de novo para quem já comprou, com os mesmos 10% e as mesmas regras. Serve para repor o pão ou montar outro combo no pedido seguinte."
+        "O MAUAD vale de novo para quem já comprou: é o mesmo código, com os mesmos 10% em todo o site, em qualquer forma de pagamento. Cliente novo e cliente antigo usam o mesmo campo \"Código do cupom\", no carrinho.",
+        "Serve para repor o pão, montar outro combo ou levar um kit de doces no pedido seguinte. As regras não mudam: o desconto soma com as ofertas do site e com os 5% do Pix, o frete grátis conta o valor antes do cupom e o código não vale no Mercado Livre.",
+        "Num pedido recorrente, vale conferir de novo o frete da sua região, porque o mínimo muda entre R$ 170, R$ 250 e R$ 300 conforme o estado."
       ]
     },
     {
@@ -150,19 +152,14 @@
       ],
       "postParagraphs": [
         "O passo a passo com as telas está em [como usar o cupom MAUAD](/reviews/cupom-belive-como-usar)."
-      ],
-      "image": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
-      "imageAlt": "Resumo do pedido da Belive depois do cupom, com o desconto de R$ 57,68, o total de R$ 519,14 e o total no Pix de R$ 493,18 marcados em amarelo.",
-      "imageCaption": "O código aplicado no resumo do pedido da Belive, em outro carrinho de teste, com o total no Pix logo abaixo. O marca-texto amarelo é nosso.",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.24
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Como conseguir desconto na primeira compra na Belive? O MAUAD dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
         "Qual cupom Belive vale para quem já é cliente? O mesmo MAUAD, com os mesmos 10%.",
-        "O cupom Belive soma com o Pix? Sim, com os 5% de desconto que a loja dá no Pix.",
+        "O cupom Belive soma com o Pix? Sim. Os 10% do MAUAD entram primeiro e os 5% do Pix, sobre o valor restante: no total são 14,5% sobre o valor dos produtos.",
         "O cupom Belive vale no Mercado Livre? Não. Ele vale no site oficial da Belive.",
         "A Belive tem frete grátis? Sim: em compras acima de R$ 170 em SP, MG, RJ, DF e GO; de R$ 250 no Sul; e de R$ 300 nos demais estados. Abaixo desses valores, o frete é calculado no checkout."
       ]

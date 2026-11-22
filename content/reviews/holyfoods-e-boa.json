@@ -18,6 +18,7 @@
   "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. HolyFoods é bom? Sopas, risotos e macs pelo rótulo: proteína, calorias, sódio, ingredientes e preço com o código.",
   "publishedAt": "10 de novembro de 2026",
   "publishedAtISO": "2026-11-10",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/holyfoods/holyfoods-e-boa-capa-v2.webp",
@@ -58,7 +59,10 @@
       "slug": "black-friday-holyfoods"
     },
     {
-      "slug": "holyfoods-reclame-aqui-nota-reputacao"
+      "slug": "holyfoods-como-preparar"
+    },
+    {
+      "slug": "holyfoods-projeto-21-dias"
     }
   ],
   "contentSections": [
@@ -99,8 +103,7 @@
         ]
       },
       "postParagraphs": [
-        "A Cecília já fez dois deles em vídeo: [um risoto na panela de indução](/videos/risoto-holyfoods-kit-tiktok-shop), com água e um pouco de manteiga, e [o Mac Queijo na panela](/videos/mac-queijo-holyfoods-na-panela).",
-        "A loja mostra nota geral de 4,8 em mais de 25 mil avaliações, publicadas no próprio site. As reclamações fora dele estão no [artigo do Reclame Aqui](/reviews/holyfoods-reclame-aqui-nota-reputacao)."
+        "A Cecília já fez dois deles em vídeo: [um risoto na panela de indução](/videos/risoto-holyfoods-kit-tiktok-shop), com água e um pouco de manteiga, e [o Mac Queijo na panela](/videos/mac-queijo-holyfoods-na-panela)."
       ]
     },
     {
@@ -149,11 +152,11 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/holyfoods/cupom-holyfoods-sopa-low-carb.webp",
-          "alt": "Prato de Sopa Low Carb da HolyFoods com a embalagem ao lado, em foto oficial da loja",
-          "caption": "Sopa Low Carb: o sachê avulso rende quatro porções. Foto: HolyFoods.",
+          "src": "/images/reviews/holyfoods/holyfoods-e-boa-sopa-detox.webp",
+          "alt": "Embalagem da Sopa Detox da HolyFoods, em foto oficial da loja",
+          "caption": "Sopa Detox: 80 kcal por porção preparada de 250 g, a menor da tabela. Foto oficial da HolyFoods.",
           "objectFit": "square",
-          "href": "https://www.holyfoods.com.br/products/sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+          "href": "https://www.holyfoods.com.br/products/sopa-detox?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
         }
       ]
     },
@@ -193,15 +196,6 @@
       },
       "postParagraphs": [
         "As calorias vão de 398 kcal no Funghi a 452 kcal no de Queijo, com o Al Mare em 421. No fogão, o risoto pede que você mexa durante o cozimento; a ficha também traz uma forma de preparo no micro-ondas. A água e o tempo de cada embalagem estão no guia de [como preparar HolyFoods](/reviews/holyfoods-como-preparar)."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/holyfoods/black-friday-holyfoods-risoto-funghi.webp",
-          "alt": "Prato de Risoto Funghi da HolyFoods com a caixa do produto ao fundo, em foto oficial da loja",
-          "caption": "Risoto Funghi: uma caixa, uma porção de 320 g. Foto: HolyFoods.",
-          "objectFit": "square",
-          "href": "https://www.holyfoods.com.br/products/risoto-funghi?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
-        }
       ]
     },
     {
@@ -254,6 +248,13 @@
           "caption": "Mac Queijo: rende uma porção de 380 g. Foto: HolyFoods.",
           "objectFit": "square",
           "href": "https://www.holyfoods.com.br/products/novo-mac-queijo?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
+        },
+        {
+          "src": "/images/reviews/holyfoods/holyfoods-e-boa-mac-bolonha.webp",
+          "alt": "Caixa do Mac Bolonha da HolyFoods, com a indicação de carne e 20 g de proteína, em foto oficial da loja",
+          "caption": "Mac Bolonha: o único dos quatro com carne bovina. Foto oficial da HolyFoods.",
+          "objectFit": "square",
+          "href": "https://www.holyfoods.com.br/products/mac-bolonha?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
         }
       ]
     },
@@ -304,7 +305,7 @@
         "O EMCASA tira 15% também do preço em promoção. O quadro mostra o valor da compra e o que cada embalagem rende. Para comparar os dois formatos da mesma sopa, o capítulo seguinte usa o peso da mistura."
       ],
       "comparisonTable": {
-        "caption": "Preços de 10/11, com os 30% da campanha da loja e os 15% do EMCASA, sem frete.",
+        "caption": "Preços de 22/11, com os 30% da campanha da loja e os 15% do EMCASA, sem frete.",
         "headers": [
           "Produto",
           "Embalagem e rendimento informado",
@@ -352,7 +353,7 @@
     {
       "heading": "Pack ou sachê avulso de sopa: qual sai mais em conta?",
       "paragraphs": [
-        "O pack custa menos pela mesma quantidade de mistura seca nas três sopas que têm os dois formatos; a Detox não tem pack. O avulso exige menos dinheiro para experimentar. Como os sachês têm tamanhos diferentes, a porção anunciada no card não decide sozinha qual formato compensa."
+        "O pack, como o [Pack Sopa Low Carb](https://www.holyfoods.com.br/products/pack-sopa-low-carb?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz), custa menos pela mesma quantidade de mistura seca nas três sopas que têm os dois formatos; a Detox não tem pack. O avulso exige menos dinheiro para experimentar. Como os sachês têm tamanhos diferentes, a porção anunciada no card não decide sozinha qual formato compensa."
       ],
       "comparisonTable": {
         "caption": "Conta nossa: preço com a campanha e o EMCASA por 100 g de mistura seca, nos pesos da ficha de cada formato.",
@@ -380,17 +381,8 @@
         ]
       },
       "postParagraphs": [
-        "Nesses valores, o pack custa de 8% a 9% menos por 100 g. As listas de ingredientes dos dois formatos são iguais na Low Carb e quase iguais na Canja; na Vovó, a do pack traz mandioquinha e alho poró a mais.",
+        "Nesses valores, o pack custa de 8% a 9% menos por 100 g. As listas de ingredientes dos dois formatos são iguais na Low Carb e quase iguais na Canja; na Vovó, confira a lista de cada página antes de escolher.",
         "Escolha o avulso para provar a receita com menor gasto inicial. O pack faz sentido quando você já quer repetir a mesma sopa."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/holyfoods/black-friday-holyfoods-pack-canja-da-mamae-saches.webp",
-          "alt": "Sachês individuais da Canja da Mamãe da HolyFoods lado a lado, em foto oficial da loja",
-          "caption": "No pack, cada sachê é individual e menor que o avulso. Foto: HolyFoods.",
-          "objectFit": "square",
-          "href": "https://www.holyfoods.com.br/products/pack-canja-da-mamae?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
-        }
       ],
       "links": [
         {

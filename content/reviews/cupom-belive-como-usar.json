@@ -2,7 +2,7 @@
   "id": 451,
   "slug": "cupom-belive-como-usar",
   "title": "Como usar o cupom da Belive e o que ele soma",
-  "seoTitle": "Como usar o cupom da Belive: passo a passo",
+  "seoTitle": "Como usar o cupom MAUAD na Belive: 10% OFF + 5% no Pix",
   "type": "Guia & Cupons",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -17,7 +17,7 @@
   "metaDescription": "O código MAUAD dá 10% OFF em todo o site da Belive. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.",
   "publishedAt": "16 de outubro de 2026",
   "publishedAtISO": "2026-10-16",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/belive/cupom-belive-como-usar-capa-v2.webp",
@@ -26,13 +26,13 @@
   "imageAspect": "landscape",
   "pros": [
     "10% OFF em todo o site, em todas as formas de pagamento",
-    "Soma com as promoções do site e com o desconto de 5% do Pix",
+    "Soma com as promoções do site e com o desconto de 5% do Pix: 14,5% sobre os produtos, não 15%",
     "Vale na primeira compra e para quem já comprou na loja",
     "O frete grátis conta o valor antes do cupom: o MAUAD não faz perder o frete"
   ],
   "cons": [
     "Não vale no Mercado Livre, onde a Belive vende pelo preço do anúncio",
-    "O frete grátis depende da região: acima de R$ 170, R$ 250 ou R$ 300",
+    "O frete grátis depende da região: acima de R$ 170, R$ 250 ou R$ 300, contado antes do cupom",
     "O teste de checkout foi com quatro itens em oferta: o valor exato é o do resumo do pedido"
   ],
   "cta": {
@@ -107,7 +107,7 @@
     {
       "heading": "Quanto sai com o cupom: a conta do nosso teste",
       "paragraphs": [
-        "Refizemos o teste em 11/11/2026: num combo de seis pacotes de pão de batata em oferta, de R$ 106,59, o MAUAD tirou R$ 10,66 e o total caiu para R$ 95,93. A tabela mostra o primeiro teste, com quatro itens e o Pix:"
+        "Refizemos o teste em 11/11/2026: num [combo de seis pacotes de pão de batata](https://belivebefree.com.br/produto/combo-pao-de-batata-sem-gluten-sem-leite-sem-lactose-belive-6-pacotes-2/) em oferta, de R$ 106,59, o MAUAD tirou R$ 10,66 e o total caiu para R$ 95,93. A tabela mostra o primeiro teste, com quatro itens e o Pix:"
       ],
       "comparisonTable": {
         "caption": "Teste de checkout do cupom MAUAD no site da Belive",
@@ -117,19 +117,19 @@
         ],
         "rows": [
           [
-            "Combo Doces COMPLETÃO 30 un. (em oferta)",
+            "[Combo Doces COMPLETÃO 30 un.](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-completao-belive/) (em oferta)",
             "R$ 179,90"
           ],
           [
-            "Combo Experimentação COMPLETÃO 40 un. (em oferta)",
+            "[Combo Experimentação COMPLETÃO 40 un.](https://belivebefree.com.br/produto/combo-experimentacao-completao-produtos-sem-gluten-sem-lactose-sem-leite-belive-e-goodsoy/) (em oferta)",
             "R$ 217,90"
           ],
           [
-            "Kit 10 Brownies Proteicos Double Chocolate (em oferta)",
+            "[Kit 10 Brownies Proteicos Double Chocolate](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/) (em oferta)",
             "R$ 74,12"
           ],
           [
-            "Combo Doces 16 un. (em oferta)",
+            "[Combo Doces 16 un.](https://belivebefree.com.br/produto/combo-doces-sem-acucar-sem-gluten-sem-lactose-sem-leite-belive/) (em oferta)",
             "R$ 104,90"
           ],
           [
@@ -152,25 +152,19 @@
       },
       "postParagraphs": [
         "Sem o cupom, o mesmo carrinho saía por R$ 547,98 no Pix. Com o MAUAD e o Pix, o pedido ficou R$ 54,80 mais barato do que só no Pix (conta nossa)."
-      ],
-      "image": {
-        "src": "/images/reviews/belive/cupom-belive-capa.webp",
-        "alt": "Carrinho da Belive com o código MAUAD aplicado, o desconto de R$ 57,68 e o total de R$ 519,14",
-        "caption": "O carrinho do teste com o código aplicado: desconto de R$ 57,68 e total de R$ 519,14.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
+      ]
     },
     {
       "heading": "O Pix dá mais 5% sobre o total já com cupom",
       "paragraphs": [
-        "No teste, o desconto de 5% do Pix entrou depois dos 10% do MAUAD, sobre o valor restante. Por isso a redução sobre o subtotal é de 14,5%, e não de 15%, como daria a soma simples. O total observado está na tabela acima."
+        "O desconto de 5% do Pix entra depois dos 10% do MAUAD, sobre o valor que sobrou. Os dois são sucessivos: 0,90 vezes 0,95 dá 0,855, ou seja, 14,5% de desconto sobre o valor dos produtos, e não 15%, como daria a soma simples. No carrinho do teste, R$ 576,82 viraram R$ 493,18.",
+        "Num teste mais recente, o [Kit 3 Panetones](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/) custava R$ 175,90. Com o MAUAD, caiu R$ 17,59, para R$ 158,31, e o total no Pix, com os 5%, ficou em R$ 150,39."
       ]
     },
     {
       "heading": "Frete grátis: o valor que conta é o de antes do cupom",
       "paragraphs": [
-        "O frete grátis da Belive depende do valor do pedido e da região. A página de regras de frete dava estes valores em 16/10/2026:"
+        "O frete grátis da Belive depende do valor do pedido e da região. A página de regras de frete da loja traz estes valores:"
       ],
       "comparisonTable": {
         "caption": "Valor de pedido para frete grátis da Belive por região, segundo a página de regras de frete",
@@ -194,7 +188,7 @@
         ]
       },
       "postParagraphs": [
-        "O limite conta o valor do carrinho sem o cupom. Aplicar o MAUAD baixa o total, mas não tira o frete grátis que o carrinho já tinha. A faixa \"frete grátis a partir de R$170\" que aparece na home vale só para SP, MG, RJ, DF e GO. Confira o frete com o seu CEP no carrinho antes de pagar."
+        "O limite conta o valor do carrinho sem o cupom. Aplicar o MAUAD baixa o total, mas não tira o frete grátis que o carrinho já tinha: no teste de 22/11, com CEP de São Paulo, o Kit 3 Panetones de R$ 175,90 caiu para R$ 158,31 com o cupom, abaixo dos R$ 170, e o frete econômico seguiu grátis. A faixa \"frete grátis a partir de R$170\" que aparece na home vale só para SP, MG, RJ, DF e GO. Confira o frete com o seu CEP no carrinho antes de pagar."
       ]
     },
     {
@@ -250,13 +244,13 @@
     {
       "heading": "Se precisar devolver um produto comprado com cupom",
       "paragraphs": [
-        "O cupom não muda a regra de devolução. O arrependimento vale por 7 dias corridos a partir do recebimento: escreva dentro do prazo para sac@nhdfoods.com.br, com a nota fiscal. A FAQ da loja pede o produto sem uso, sem violação e na embalagem original; se ele já foi aberto, escreva ao SAC antes de postar. O frete da devolução é por conta da Belive. O prazo de reembolso não aparece no site, então confirme por e-mail antes de postar. Para defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. A loja não troca produto com indício de má manipulação ou mau uso, nem quando a ocorrência não puder ser identificada. Telefone da loja: (34) 3317-6487. O quadro completo está em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
+        "O cupom não muda a regra de devolução. O arrependimento vale por 7 dias corridos a partir do recebimento (art. 49 do Código de Defesa do Consumidor): escreva dentro do prazo para sac@nhdfoods.com.br, com a nota fiscal. Em caso de defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail, ou use o formulário do site."
       ]
     },
     {
       "heading": "Vale a pena usar o cupom?",
       "paragraphs": [
-        "Se você já ia comprar na Belive, vale aplicar o MAUAD: são 10% em todo o site, em qualquer forma de pagamento. No Pix, os 5% adicionais incidem sobre o valor já descontado. Confira o total e o frete pelo CEP antes de pagar. Para avaliar a loja, veja [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao); as condições do código estão na [página do cupom Belive](/cupons/belive)."
+        "Se você já ia comprar na Belive, vale aplicar o MAUAD: são 10% em todo o site, em qualquer forma de pagamento. No Pix, os 5% adicionais incidem sobre o valor já descontado, o que dá 14,5% no total. Confira o total e o frete pelo CEP antes de pagar. As condições do código estão na [página do cupom Belive](/cupons/belive)."
       ]
     },
     {

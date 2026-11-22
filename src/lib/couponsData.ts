@@ -2737,21 +2737,21 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis por região, segundo as regras de frete da loja: acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados; abaixo disso, o frete é calculado no checkout',
+      'Frete grátis por região, segundo as regras de frete da loja: acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados. O mínimo conta pelo valor dos produtos antes do cupom: no nosso teste, um pedido de R$ 175,90 seguiu com frete grátis em SP depois do MAUAD. Abaixo disso, o frete é calculado no checkout',
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço da oferta' },
-      { benefit: 'pix', stacks: 'sim', condition: 'O carrinho com o cupom ainda ganha os 5% de desconto do Pix' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O Pix tira 5% do total que sobra depois do cupom: os dois juntos dão 14,5% sobre o valor dos produtos' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados, contando o valor antes do cupom' },
     ],
     paymentPerks: [
       'Até 2x sem juros no cartão',
     ],
-    lastVerified: '2026-11-12',
-    testedAt: '2026-11-12',
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Com a Black November no ar, aplicamos o MAUAD em quatro pães de cenoura com o preço da campanha, de R$ 20,90 por R$ 14,63 cada, e o total caiu de R$ 58,52 para R$ 52,67, com R$ 5,85 de desconto: os 10% entraram sobre o preço da campanha, e o Pix ainda tirou os 5% dele. Em 11/11/2026, num combo de seis pacotes de pão de batata em oferta, de R$ 125,40 por R$ 106,59, o total caiu para R$ 95,93.',
+      'Com a Black November no ar, aplicamos o MAUAD num Kit 3 Panetones de R$ 175,90: o cupom tirou R$ 17,59, o total caiu para R$ 158,31 e o total no Pix ficou em R$ 150,39. O frete econômico para São Paulo seguiu grátis depois do cupom, porque o mínimo conta pelo valor dos produtos. Em 11/11/2026, num combo de seis pacotes de pão de batata em oferta, de R$ 125,40 por R$ 106,59, o total caiu para R$ 95,93.',
     codeInstructions: [
       'Copie o código MAUAD no card acima.',
       'Acesse o site oficial da Belive pelo botão indicado e coloque os produtos no carrinho.',
@@ -2760,6 +2760,56 @@ const STORE_COUPONS: Coupon[] = [
     ],
     aboutBrand:
       'A Belive é uma marca brasileira de alimentos sem glúten, sem leite e sem lactose, com doces sem açúcar, snacks, brownies proteicos e pães vendidos no site oficial. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as ofertas e com o desconto de 5% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    relatedContent: [
+      {
+        title: 'Como usar o cupom da Belive e o que ele soma',
+        url: '/reviews/cupom-belive-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+      {
+        title: 'Cupom Belive primeira compra: MAUAD dá 10% OFF e vale nas compras seguintes',
+        url: '/reviews/cupom-belive-primeira-compra',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+      {
+        title: 'Black Friday Belive 2026: o que comprar na Black November, avulso ou kit, e quanto fica com o cupom MAUAD',
+        url: '/reviews/black-friday-belive',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+      {
+        title: 'Belive é boa? Os doces sem açúcar, os salgadinhos, os pães e o que vale comprar da marca',
+        url: '/reviews/belive-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-03',
+      },
+      {
+        title: 'Panetone Belive é bom? Chocotone, zero açúcar e sem glúten pelo rótulo',
+        url: '/reviews/panetone-belive-e-bom',
+        type: 'review',
+        publishedAt: '2026-11-04',
+      },
+      {
+        title: 'Doces sem açúcar para diabéticos: o que olhar no rótulo',
+        url: '/reviews/doces-sem-acucar-para-diabeticos',
+        type: 'review',
+        publishedAt: '2026-10-17',
+      },
+      {
+        title: 'Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar',
+        url: '/reviews/belive-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+      {
+        title: 'Belive no Reclame Aqui: nota, reputação e reclamações',
+        url: '/reviews/belive-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+    ],
     faqs: [
       {
         question: 'O cupom MAUAD vale para todos os produtos da Belive?',
@@ -2773,7 +2823,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD soma com o desconto do Pix?',
         answer:
-          'Sim. No nosso teste, o carrinho com o MAUAD aplicado ainda ganhou os 5% de desconto do Pix: R$ 519,14 viraram R$ 493,18.',
+          'Sim. No nosso teste, o carrinho com o MAUAD aplicado ainda ganhou os 5% de desconto do Pix: R$ 519,14 viraram R$ 493,18. Os descontos são um depois do outro, e não 15% de uma vez: os 10% do cupom e depois 5% sobre o que sobrou dão 14,5% sobre o valor dos produtos.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
@@ -2812,7 +2862,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Belive tem frete grátis?',
         answer:
-          'Sim, com valor mínimo por região. As regras de frete da loja dão frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout.',
+          'Sim, com valor mínimo por região. As regras de frete da loja dão frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O mínimo conta pelo valor dos produtos antes do cupom MAUAD. Abaixo disso, o frete é calculado no checkout.',
+      },
+      {
+        question: 'Dá para trocar ou devolver um pedido da Belive?',
+        answer:
+          'Dá. Na compra pelo site, você pode desistir em até 7 dias corridos depois de receber, como prevê o Código de Defesa do Consumidor. Produto com defeito ou avariado vai pelo SAC da loja, sac@nhdfoods.com.br, ou pelo formulário de contato do site, com o número do pedido e fotos.',
       },
       {
         question: 'O que fazer se o cupom MAUAD não funcionar?',
@@ -3544,7 +3599,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'holyfoods',
-    cartPrint: { src: '/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp', alt: 'Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado', aspectRatio: 1.341 },
+    cartPrint: { article: 'cupom-holyfoods-como-usar', src: '/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp', alt: 'Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado', aspectRatio: 1.341 },
     brand: 'HolyFoods',
     officialUrl: 'https://holyfoods.com.br/',
     offerUrl: 'https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz',
@@ -3570,25 +3625,85 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis a partir de um valor mínimo que muda conforme o estado; o carrinho mostra quanto falta para a sua região, e o prazo aparece no checkout',
-    combinable: 'Soma com as promoções do site, inclusive nos produtos que já estão com desconto, e vale com todas as formas de pagamento',
+      'Frete grátis a partir de R$ 199 em SP, de R$ 249 no RJ, em MG, no DF e no PR e de R$ 289 em GO, SC, ES e RS; nos outros estados, o frete sai pelo CEP no checkout. O carrinho mostra quanto falta para a sua região, e o prazo aparece no checkout',
+    combinable: 'Soma com as promoções do site, inclusive com os 30% da Black da Holy, e vale no Pix e no cartão',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 15% entram sobre os produtos que já estão com desconto da loja' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de um mínimo que muda conforme o estado; o carrinho mostra quanto falta para a sua região' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O EMCASA vale no pagamento por Pix; na consulta mais recente, a loja não dava desconto extra no Pix' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 199 em SP, de R$ 249 no RJ, em MG, no DF e no PR e de R$ 289 em GO, SC, ES e RS; nos outros estados, pelo CEP' },
     ],
-    lastVerified: '2026-11-12',
-    testedAt: '2026-11-12',
+    paymentPerks: [
+      'Até 3x sem juros no cartão',
+      'Pix ou cartão de crédito',
+    ],
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Aplicamos o EMCASA num carrinho com dois Kits Veganos de 10 unidades, R$ 250,60: o cupom tirou R$ 37,59 e o total caiu para R$ 213,01, os 15%. O checkout abriu com um cupom de campanha da própria loja no campo, e foi preciso removê-lo para colocar o EMCASA. Em 05/11/2026, num carrinho de R$ 69,79 com um Pack Sopa da Vovó e duas Sopas Detox, todos já com desconto da loja, o cupom tirou R$ 10,47 e o total caiu para R$ 59,32: os 15% inteiros sobre o preço promocional.',
+      'Com a Black da Holy no ar, aplicamos o EMCASA em dois Projetos 21 Dias, R$ 205,80 já com os 30% da campanha: o cupom tirou R$ 30,87 e o total caiu para R$ 174,93, os 15% inteiros por cima do preço da Black. Em 12/11/2026, o checkout abriu com um cupom de campanha da própria loja no campo, e foi preciso removê-lo para colocar o EMCASA; no teste mais recente, o campo veio vazio. Em 05/11/2026, num carrinho de R$ 69,79 com um Pack Sopa da Vovó e duas Sopas Detox, todos já com desconto da loja, o cupom tirou R$ 10,47 e o total caiu para R$ 59,32: os 15% inteiros sobre o preço promocional.',
     codeInstructions: [
       'Copie o código EMCASA no card acima.',
-      'Acesse o site oficial da HolyFoods pelo botão indicado e coloque os produtos no carrinho.',
-      'Na tela "Finalizar compra", clique em "Inserir cupom de desconto", cole o código no campo "Código do cupom" e clique em "Adicionar".',
+      'Acesse o site oficial da HolyFoods pelo botão indicado, coloque os produtos no carrinho e clique em "Finalizar compra".',
+      'No resumo da compra, clique em "Inserir cupom de desconto", cole o código no campo "Código do cupom" e clique em "Adicionar". Se outro código já estiver aplicado, remova-o antes.',
       'Confira a linha "Cupom de desconto" no resumo da compra antes de pagar.',
     ],
     aboutBrand:
-      'A HolyFoods é uma marca brasileira de refeições prontas para preparar em casa: sopas, macarrões, risotos, aveias, mel e kits, vendidos no site oficial, da Holy Group Ltda (CNPJ 50.874.415/0001-62). O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 15% OFF em todo o site e soma com os preços que já estão em promoção. A recomendação é conferir o resumo da compra antes de pagar.',
+      'A HolyFoods é uma marca brasileira de refeições prontas para preparar em casa: sopas, macarrões, risotos e kits, vendidos no site oficial, da Holy Group Ltda (CNPJ 50.874.415/0001-62). O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 15% OFF em todo o site e soma com os preços que já estão em promoção. A recomendação é conferir o resumo da compra antes de pagar.',
+    relatedContent: [
+      {
+        title: 'Como usar o cupom EMCASA na HolyFoods e onde ele vale',
+        url: '/reviews/cupom-holyfoods-como-usar',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+      {
+        title: 'Cupom HolyFoods primeira compra: EMCASA dá 15% OFF e vale nas compras seguintes',
+        url: '/reviews/cupom-holyfoods-primeira-compra',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+      {
+        title: 'Black Friday HolyFoods 2026: 30% no site todo, os kits da Black e o cupom EMCASA por cima',
+        url: '/reviews/black-friday-holyfoods',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+      {
+        title: 'HolyFoods é boa? Sopas, risotos e macs pelo rótulo, um a um',
+        url: '/reviews/holyfoods-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-10',
+      },
+      {
+        title: 'Como preparar HolyFoods: sopa, risoto e mac, com a água e o tempo de cada ficha',
+        url: '/reviews/holyfoods-como-preparar',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'Projeto 21 Dias HolyFoods: o que vem no kit, quanto custa por sachê e como preparar',
+        url: '/reviews/holyfoods-projeto-21-dias',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'HolyFoods ou Mexidona: sopas, risotos e macs pela tabela e pelo preço por 100 g',
+        url: '/reviews/holyfoods-ou-mexidona',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'HolyFoods é confiável? CNPJ, site oficial, entrega e a garantia de 30 dias',
+        url: '/reviews/holyfoods-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+      {
+        title: 'HolyFoods no Reclame Aqui: nota, reputação e do que as pessoas reclamam',
+        url: '/reviews/holyfoods-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+    ],
     faqs: [
       {
         question: 'O cupom EMCASA vale para todos os produtos da HolyFoods?',
@@ -3627,12 +3742,17 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A HolyFoods tem frete grátis?',
         answer:
-          'Sim, a partir de um valor mínimo que muda conforme o estado. O carrinho mostra quanto falta para o frete grátis na sua região, e o prazo de entrega aparece no checkout.',
+          'Sim, com valor mínimo por região: a partir de R$ 199 em SP, de R$ 249 no RJ, em MG, no DF e no PR e de R$ 289 em GO, SC, ES e RS. Nos outros estados, o frete é calculado pelo CEP no checkout, onde também aparece o prazo.',
       },
       {
         question: 'E se eu não gostar dos produtos?',
         answer:
-          'Pela garantia da loja, você tem 30 dias depois de receber para pedir a devolução: pode provar uma unidade, e as outras voltam fechadas. A devolução é sem custo, com reembolso dos produtos devolvidos.',
+          'Pela garantia da loja, você tem 30 dias depois de receber para pedir a devolução: pode provar uma unidade, e as outras voltam fechadas. A devolução é sem custo, com reembolso dos produtos devolvidos. A garantia vem além do direito de desistir em até 7 dias do recebimento, previsto no Código de Defesa do Consumidor; o pedido vai para contato@holyfoods.com.br, com o número do pedido.',
+      },
+      {
+        question: 'A HolyFoods tem desconto no Pix e parcela no cartão?',
+        answer:
+          'A loja aceita Pix e cartão de crédito e parcela em até 3x sem juros. Na nossa consulta mais recente, o preço no Pix era o mesmo do cartão, sem desconto extra; o EMCASA vale nas duas formas de pagamento.',
       },
       {
         question: 'O cupom EMCASA está funcionando hoje?',
