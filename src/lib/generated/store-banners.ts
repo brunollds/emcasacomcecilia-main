@@ -322,8 +322,8 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver a campanha"
       }
     },
-    "source": "Home de holyfoods.com.br (\"Black da Holy: 30% OFF no site todo\", \"30% OFF já aplicado nos preços\", sem prazo), lida no navegador em 05/11/2026; campanha informada pelo Bruno",
-    "verifiedAt": "2026-11-18"
+    "source": "Home de holyfoods.com.br (\"Black da Holy: 30% OFF no site todo\", \"30% OFF já aplicado nos preços\", sem prazo), lida no navegador em 05/11/2026; campanha informada pelo Bruno. Reconferida em 22/11/2026: a home segue com \"30% OFF já aplicado nos preços\" e os kits \"da Black\", sem prazo",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "hostinger-black-friday-2026",

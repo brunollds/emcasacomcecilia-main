@@ -50,7 +50,7 @@
     "takeIf": [
       "O produto já estava na sua lista antes da campanha.",
       "O total com o frete do seu CEP fecha no resumo do checkout.",
-      "O código aparece na linha Cupom do resumo antes de você pagar."
+      "Você quer somar os 10% do CECILIA ao preço da campanha: nos nossos testes, o código entrou por cima dos preços da Black Friday."
     ],
     "skipIf": [
       "A compra só faz sentido pelo preço riscado, o “de”.",
@@ -185,7 +185,8 @@
       },
       "postParagraphs": [
         "Conta nossa: o cupom tirou 10% do total dos produtos, já com os preços da campanha. Somou nos nossos testes."
-      ]
+      ],
+      "emphasis": "Nos dois carrinhos testados o CECILIA entrou por cima do preço da Black Friday, e quem já tem o produto escolhido deve fechar a conta pelo total com frete que o resumo mostra."
     },
     {
       "heading": "Como aplicar o cupom",
@@ -246,6 +247,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, também sobre os preços da Black Friday. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
         "A Adaptogen tem Black Friday? Tem uma coleção própria no site, com 57 produtos, e um banner na home. A loja não publica regulamento nem data de fim.",
         "O cupom CECILIA vale na Black Friday da Adaptogen? Nos nossos testes, somou com os preços da campanha. Confira a linha Cupom no resumo do checkout antes de pagar.",
         "O cupom soma com o Pix? O CECILIA vale também no Pix e soma com os 5% que a loja anuncia para essa modalidade. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento.",

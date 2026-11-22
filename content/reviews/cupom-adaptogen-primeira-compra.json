@@ -121,7 +121,8 @@
         "Na segunda compra, digite o mesmo CECILIA no mesmo campo do checkout: o código vale para cliente novo e antigo, sem exigir pedido anterior nem cadastro à parte. Depois de Aplicar, confira o aviso Cupom aplicado e a linha Cupom no resumo, como no primeiro pedido.",
         "O desconto também vale sobre produto em promoção: nos nossos testes, os 10% entraram sobre o preço da Black Friday. Se o preço do carrinho mudar de um pedido para o outro, o que vale é o total que o resumo mostra naquele dia.",
         "A loja anuncia 5% de desconto no Pix e no boleto, e o CECILIA vale também nessas modalidades e soma com esse desconto; a etapa de pagamento pede login e não foi aberta nos nossos testes. A loja informa ainda que o Adapto Cash devolve 3% do valor da compra em crédito para as próximas. A página do programa não fala de cupom."
-      ]
+      ],
+      "emphasis": "Não existe código separado para o primeiro pedido: o CECILIA, com 10% OFF, vale na primeira compra e nas seguintes, e o resumo do checkout é a prova do desconto."
     },
     {
       "heading": "Primeiro pedido: o que conferir",
@@ -142,11 +143,22 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Tem cupom Adaptogen de primeira compra? Sim: use CECILIA para ter 10% OFF no site oficial, no campo Cupom de desconto do checkout. Ele também vale nas compras seguintes.",
+        "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
+        "Tem cupom Adaptogen de primeira compra? Sim, e é o mesmo das compras seguintes: o CECILIA vale no primeiro pedido, sem cadastro à parte.",
         "Qual cupom vale para quem já é cliente? O mesmo CECILIA, no mesmo campo do checkout. Confira a linha Cupom no resumo de cada pedido.",
         "O cupom soma com produto em promoção? Nos nossos testes, sim: os 10% entraram sobre o preço promocional dos carrinhos.",
         "Onde coloco o cupom na primeira compra? No campo Cupom de desconto do checkout, depois de colocar os produtos na sacola. Os passos estão na seção de como aplicar."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você vai fazer o primeiro pedido na Adaptogen e já sabe quais produtos quer levar.",
+      "Você já comprou lá e quer saber se o mesmo código serve de novo: serve, sem exigir pedido anterior nem cadastro à parte."
+    ],
+    "skipIf": [
+      "Você procura um cupom exclusivo de primeira compra: o CECILIA é o mesmo para cliente novo e antigo.",
+      "Você ainda não escolheu o produto e quer decidir pelo desconto: o código só entra com itens no carrinho, e o total com frete vem do seu CEP."
+    ]
+  }
 }
