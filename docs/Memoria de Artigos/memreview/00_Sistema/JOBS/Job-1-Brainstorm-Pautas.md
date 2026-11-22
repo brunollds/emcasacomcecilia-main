@@ -91,7 +91,7 @@ A L17 (`lets-eat-it-loja-fisica-endereco`) saiu melhor que a da concorrente, mas
 - Quando a experiência é do Bruno (ex.: cliente da Hostinger desde 2024), o artigo sai assinado por ele, com a experiência dele.
 
 ### Anexo por tipo de artigo
-- Cada pauta indica no briefing (campo `anexo_tipo`) qual anexo de `00_Sistema/JOBS/Anexos/` vale para o tipo do artigo, ou "nenhum".
+- Cada pauta indica no briefing (campo `anexo_tipo`) qual anexo de `00_Sistema/JOBS/Anexos/` vale para o tipo do artigo, ou "nenhum". Pauta de Reclame Aqui ou Trustpilot leva `Anexo-Reputacao.md` (estrutura, travas e a regra da tabela e dos prints) e o briefing já separa, com a aba de cada número, os pontos positivos e os de atenção.
 - Por cima do anexo, a pauta propõe o bloco que só o site tem, na seção 10 do briefing: o julgamento por perfil (para quem serve e quando não escolher), a conta própria (a que o leitor faz com o rótulo ou a ficha, com os pressupostos escritos) e a armadilha (o erro mais comum de quem compra ou usa esse produto).
 
 ### Como a rodada roda (fluxo de 19/10/2026)
