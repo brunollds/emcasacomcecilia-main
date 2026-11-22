@@ -4569,7 +4569,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'rituaria',
-    cartPrint: { src: '/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp', alt: 'Resumo do checkout da Rituária com o cupom EMCASA no campo Tem um cupom?, o aviso Desconto de menos R$ 11,98, a linha Descontos e o total de R$ 107,82', aspectRatio: 0.894 },
+    cartPrint: { article: 'cupom-rituaria-como-usar', src: '/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp', alt: 'Resumo do checkout da Rituária com o cupom EMCASA no campo Tem um cupom?, o aviso Desconto (- R$ 11,98), a linha Descontos e o total de R$ 107,82', aspectRatio: 0.894 },
     brand: 'Rituária',
     officialUrl: 'https://www.rituaria.com.br/',
     // A parceria não tem link próprio (Bruno, 17/11/2026): o botão leva ao site oficial.
@@ -4602,16 +4602,60 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; pelos termos da loja, não junta com o cashback',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 10% entraram no 4Mag e na Fórmula Mov Nutri em promoção' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional e sobre o Leve 3, Pague 2: no teste, os 10% entraram depois da promoção, até com 3 unidades iguais' },
       { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja dá 5% de desconto, que soma com o código' },
       { benefit: 'cashback', stacks: 'nao', condition: 'O cashback de 10% chega como cupom para a compra seguinte, e os termos da loja dizem que desconto e cashback não são cumulativos: um benefício por compra' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 no Sudeste, de R$ 229 no Sul e no Centro-Oeste, de R$ 279 no Nordeste e de R$ 349 no Norte' },
     ],
     paymentPerks: ['Até 3x sem juros no cartão de crédito'],
-    lastVerified: '2026-11-17',
-    testedAt: '2026-11-17',
+    relatedContent: [
+      {
+        title: 'Como usar o cupom EMCASA na Rituária: onde aplicar e com o que acumula',
+        url: '/reviews/cupom-rituaria-como-usar',
+        type: 'review',
+        publishedAt: '2026-11-18',
+      },
+      {
+        title: 'Rituária é boa? Composição, preço por porção e o que conferir',
+        url: '/reviews/rituaria-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-18',
+      },
+      {
+        title: 'Black Friday Rituária 2026: como funciona o Leve 3, Pague 2 e como o cupom entra',
+        url: '/reviews/black-friday-rituaria',
+        type: 'review',
+        publishedAt: '2026-11-18',
+      },
+      {
+        title: 'Rituária Brain+: para que serve, o que vem no frasco e quanto custa',
+        url: '/reviews/rituaria-brain-para-que-serve',
+        type: 'review',
+        publishedAt: '2026-11-21',
+      },
+      {
+        title: 'Cupom Rituária primeira compra: EMCASA dá 10% OFF e vale nas compras seguintes',
+        url: '/reviews/cupom-rituaria-primeira-compra',
+        type: 'review',
+        publishedAt: '2026-11-18',
+      },
+      {
+        title: 'Rituária é confiável? CNPJ, Anvisa, pagamento e trocas',
+        url: '/reviews/rituaria-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-11-18',
+      },
+      {
+        title: 'Rituária no Reclame Aqui: nota, reputação e o que mais gera reclamação',
+        url: '/reviews/rituaria-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-18',
+      },
+    ],
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Num carrinho com a Capilar Nutri - 30 dias pelo preço cheio de R$ 49,90 e a Fórmula Mov Nutri - 30 dias em promoção, de R$ 149,00 por R$ 69,90, o EMCASA tirou R$ 11,98 dos R$ 119,80 e o total caiu para R$ 107,82: os 10% entraram também sobre a fórmula em promoção. Em outro carrinho do mesmo dia, de R$ 154,70, com a Fórmula 4Mag (Magnésio) - 30 dias em promoção, de R$ 99,90 por R$ 59,90, a Capilar Nutri e a Fórmula Complexo B - 60 dias, o desconto foi de R$ 15,47, e o total ficou em R$ 139,23.',
+      'Num carrinho com 3 unidades da Fórmula Brain+ 30 dias, de R$ 69,90 cada, o Leve 3, Pague 2 tirou R$ 69,90 dos R$ 209,70, e o EMCASA tirou mais R$ 13,98 dos R$ 139,80: o total caiu para R$ 125,82, e os 10% entraram depois da promoção, mesmo com os 3 produtos iguais. Num teste anterior, com a Capilar Nutri - 30 dias pelo preço cheio de R$ 49,90 e a Fórmula Mov Nutri - 30 dias em promoção, de R$ 149,00 por R$ 69,90, o código tirou R$ 11,98 dos R$ 119,80 e o total caiu para R$ 107,82.',
     codeInstructions: [
       'Copie o código EMCASA no card acima.',
       'Acesse o site oficial da Rituária pelo botão indicado, coloque os produtos no carrinho e siga para o checkout.',
