@@ -14,9 +14,10 @@
     "url": "/sobre"
   },
   "description": "Diet, zero açúcar e sem açúcar não são a mesma coisa, e sem açúcar não quer dizer pouco carboidrato. Veja o que ler no rótulo, com seis doces da Belive como exemplo.",
-  "metaDescription": "Doces sem açúcar para diabéticos, com o cupom MAUAD de 10% OFF na Belive: o que olhar no rótulo e a diferença entre diet, zero e sem adição de açúcar.",
+  "metaDescription": "Doces sem açúcar para diabéticos: o cupom Belive MAUAD dá 10% OFF. O que olhar no rótulo e a diferença entre diet, zero e sem adição de açúcar.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa-v2.webp",
@@ -35,13 +36,6 @@
       "paragraphs": [
         "A tabela nutricional, a lista de ingredientes e a frente da embalagem respondem coisas diferentes. Leia nesta ordem:"
       ],
-      "image": {
-        "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp",
-        "alt": "Aba Tabela Nutricional da página do pão de mel da Belive, com a informação nutricional por 100 g e por porção de 45 g: 163 kcal, 23 g de carboidratos e 0 g de açúcares totais e adicionados",
-        "caption": "A tabela nutricional do pão de mel da Belive, com a porção de 45 g e os açúcares totais e adicionados. Print da página do produto.",
-        "objectFit": "contain",
-        "aspectRatio": 0.9479
-      },
       "bullets": [
         "**Porção.** Veja a qual coluna cada número pertence: porção ou 100 g. A medida aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Para comparar dois doces, use a mesma porção ou a coluna de 100 g.",
         "**Açúcares totais e açúcares adicionados.** Num doce sem açúcar, as duas linhas mostram 0 g. Os adicionados são os que entraram na receita, e os totais somam também os açúcares próprios dos ingredientes.",
@@ -106,136 +100,278 @@
       "paragraphs": [
         "Os seis doces da Belive trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. Glicosídeo de esteviol é o nome técnico do adoçante da stévia. O maltitol vem antes dele na lista, e a ordem da lista segue a quantidade de cada ingrediente. Três dos seis também levam **sorbitol** como umectante: o brownie proteico com avelã, o bolinho de baunilha e o bolo de chocolate. O brownie de chocolate, o cookie e o pão de mel não levam.",
         "A descrição da loja fala em \"adoçado naturalmente com stévia\". O rótulo é mais completo e cita os dois edulcorantes.",
-        "O rótulo não separa o maltitol e o sorbitol da linha de carboidratos. Ele mostra só \"Carboidratos\" e \"Açúcares\", e não diz quanto dos 18 g de um brownie vem de cada ingrediente."
-      ],
-      "image": {
-        "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel.webp",
-        "alt": "Aba Ingredientes da página do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
-        "caption": "A lista de ingredientes do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. O destaque em amarelo é nosso.",
-        "objectFit": "contain",
-        "aspectRatio": 2.7088
-      }
+        "O rótulo não separa o maltitol e o sorbitol da linha de carboidratos. Ele mostra só \"Carboidratos\" e \"Açúcares\", e não diz quanto dos 18 g de um brownie vem de cada ingrediente.",
+        "Um exemplo de lista completa, a do pão de mel: cobertura sabor chocolate amargo (sem açúcar), mix sem glúten (farinha de arroz, amido modificado, fécula de mandioca, quinoa), óleo vegetal (soja e palma), fibra de milho, ovo em pó, fibra solúvel polidextrose, cacau em pó, especiarias, fibra vegetal, sal light, edulcorantes maltitol e glicosídeos de esteviol, emulsificantes mono e diglicerídeo de ácidos graxos e goma xantana, conservantes propionato de cálcio e sorbato de potássio, fermento químico pirofosfato dissódico, acidulante ácido cítrico e aromas. Não contém glúten; contém derivados de soja e ovo."
+      ]
     },
     {
       "heading": "Os seis doces da Belive e o que diz o rótulo",
       "paragraphs": [
-        "Tabelas nutricionais e listas de ingredientes dos produtos, com o preço da unidade no site oficial, sem o cupom."
+        "Resumo dos produtos, com o preço da unidade e do kit de 10 no site oficial, sem o cupom. Os números nutricionais de cada um estão nas duas tabelas seguintes."
       ],
       "images": [
         {
-          "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp",
-          "alt": "Tabela nutricional do brownie de chocolate da Belive: 124 kcal, 18 g de carboidratos e 0 g de açúcares por porção de 40 g",
-          "caption": "Brownie de chocolate: 124 kcal e 0 g de açúcares por unidade de 40 g.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9479
+          "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-brownie-proteico-avela.webp",
+          "alt": "Embalagem do Protein Brownie Chocolate com Avelã da Belive, de 40 g, com 5 g de proteínas e a indicação de zero açúcar",
+          "caption": "O Protein Brownie Chocolate com Avelã, de 40 g. Foto oficial da Belive.",
+          "objectFit": "square",
+          "href": "https://belivebefree.com.br/produto/brownie-proteico-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/"
         },
         {
-          "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-avela.webp",
-          "alt": "Tabela nutricional do brownie proteico de chocolate com avelã da Belive: 144 kcal, 16 g de carboidratos e 0 g de açúcares por porção de 40 g",
-          "caption": "Brownie proteico de chocolate com avelã: 144 kcal e 0 g de açúcares por unidade de 40 g.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9592
+          "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-bolinho-baunilha.webp",
+          "alt": "Bolinho de baunilha com gotas de chocolate da Belive, partido ao meio sobre um prato azul",
+          "caption": "O bolinho de baunilha com gotas de chocolate. Foto oficial da Belive.",
+          "objectFit": "square",
+          "href": "https://belivebefree.com.br/produto/bolinho-de-baunilha-fit-sem-acucar-sem-gluten-sem-leite-belive/"
         },
         {
-          "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-baunilha.webp",
-          "alt": "Tabela nutricional do bolinho de baunilha da Belive: 128 kcal, 18 g de carboidratos e 0 g de açúcares por porção de 40 g",
-          "caption": "Bolinho de baunilha: 128 kcal e 0 g de açúcares por unidade de 40 g.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9592
-        },
-        {
-          "src": "/images/reviews/belive/belive-tabela-nutricional-cookie-chocolate-avela.webp",
-          "alt": "Tabela nutricional do cookie de chocolate e avelã da Belive: 113 kcal, 17 g de carboidratos e 0 g de açúcares por porção de 30 g",
-          "caption": "Cookie de chocolate e avelã: 113 kcal e 0 g de açúcares por porção de 30 g.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9592
-        },
-        {
-          "src": "/images/reviews/belive/belive-tabela-nutricional-bolo-chocolate.webp",
-          "alt": "Tabela nutricional do bolo de chocolate da Belive: 182 kcal, 24 g de carboidratos e 0 g de açúcares por porção de 60 g",
-          "caption": "Bolo de chocolate: 182 kcal e 0 g de açúcares por porção de 60 g (2 fatias).",
-          "objectFit": "contain",
-          "aspectRatio": 0.9592
+          "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-cookie-chocolate-avela.webp",
+          "alt": "Cookies de chocolate e avelã da Belive empilhados, com um deles partido, e a embalagem desfocada ao fundo",
+          "caption": "O cookie de chocolate e avelã. Foto oficial da Belive.",
+          "objectFit": "square",
+          "href": "https://belivebefree.com.br/produto/cookie-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/"
         }
       ],
       "comparisonTable": {
-        "caption": "Preço da unidade no site oficial, sem o cupom, 17/10",
+        "caption": "Preço no site oficial, sem o cupom, na consulta de 22/11.",
         "headers": [
           "Doce",
           "Porção",
-          "Calorias",
-          "Carboidratos",
           "Açúcares",
-          "Fibras",
           "Adoçantes e umectantes",
-          "Preço da unidade"
+          "Preço da unidade",
+          "Kit de 10"
         ],
         "rows": [
           [
-            "Brownie de chocolate",
+            "[Brownie de chocolate](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
             "40 g (1 unid.)",
-            "124 kcal",
-            "18 g",
             "0 g",
-            "5 g",
             "maltitol, glicosídeos de esteviol",
-            "R$ 6,97"
+            "R$ 6,97",
+            "[R$ 64,82](https://belivebefree.com.br/produto/kit-10-brownies-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)"
           ],
           [
-            "Brownie proteico chocolate com avelã",
+            "[Brownie proteico chocolate com avelã](https://belivebefree.com.br/produto/brownie-proteico-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/)",
             "40 g (1 unid.)",
-            "144 kcal",
-            "16 g",
             "0 g",
-            "4,2 g",
             "maltitol, glicosídeos de esteviol, sorbitol",
-            "R$ 7,97"
+            "R$ 7,97",
+            "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-brownies-proteicos-chocolate-com-avela-sem-acucar-sem-gluten-sem-leite-belive/)"
           ],
           [
-            "Bolinho de baunilha",
+            "[Bolinho de baunilha](https://belivebefree.com.br/produto/bolinho-de-baunilha-fit-sem-acucar-sem-gluten-sem-leite-belive/)",
             "40 g (1 unid.)",
-            "128 kcal",
-            "18 g",
             "0 g",
-            "2 g",
             "maltitol, glicosídeos de esteviol, sorbitol",
-            "R$ 4,58 em oferta relâmpago (regular R$ 5,39)"
+            "R$ 5,39",
+            "[R$ 50,13](https://belivebefree.com.br/produto/kit-10-bolinhos-de-baunilha-fit-sem-acucar-sem-gluten-sem-leite-belive/)"
           ],
           [
-            "Cookie de chocolate e avelã",
+            "[Cookie de chocolate e avelã](https://belivebefree.com.br/produto/cookie-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/)",
             "30 g (1 + 4/5 unid.)",
-            "113 kcal",
-            "17 g",
             "0 g",
-            "1,3 g",
             "maltitol, glicosídeo de esteviol",
-            "R$ 8,52 (de R$ 8,97)"
+            "R$ 8,97",
+            "[R$ 83,42](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/)"
           ],
           [
-            "Pão de mel",
+            "[Pão de mel](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/)",
             "45 g (1 unid.)",
-            "163 kcal",
-            "23 g",
             "0 g",
-            "5 g",
             "maltitol, glicosídeos de esteviol",
-            "R$ 7,57 (de R$ 7,97)"
+            "R$ 7,97",
+            "[R$ 74,12](https://belivebefree.com.br/produto/kit-10-pao-de-mel-fit-sem-gluten-sem-acucar-sem-leite-belive/)"
           ],
           [
-            "Bolo de chocolate",
+            "[Bolo de chocolate](https://belivebefree.com.br/produto/bolo-de-chocolate-sem-gluten-sem-acucar-sem-leite-sem-lactose-belive/)",
             "60 g (2 fatias)",
-            "182 kcal",
-            "24 g",
             "0 g",
-            "3,5 g",
             "maltitol, glicosídeos de esteviol, sorbitol",
-            "R$ 28,71 o bolo inteiro (de R$ 31,90)"
+            "R$ 31,90 o bolo inteiro",
+            "sem kit"
           ]
         ]
       },
       "postParagraphs": [
-        "A oferta relâmpago do bolinho, de R$ 4,58, tinha contagem regressiva na página e não confirma um preço atual. Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+        "Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
       ]
+    },
+    {
+      "heading": "A tabela nutricional dos seis, por porção",
+      "paragraphs": [
+        "Todos têm 0 g de açúcares totais e 0 g de adicionados. O que muda de um para o outro é a porção, o carboidrato e a gordura saturada, e por isso a comparação só vale com a mesma porção ou com a coluna de 100 g da tabela seguinte."
+      ],
+      "comparisonTable": {
+        "caption": "Informação nutricional publicada pela Belive na página de cada produto: por porção, com o percentual do valor diário (VD). Açúcares totais e adicionados: 0 g em todos.",
+        "headers": [
+          "Doce",
+          "Calorias",
+          "Carboidratos",
+          "Proteínas",
+          "Gorduras totais",
+          "Gorduras saturadas",
+          "Gorduras trans",
+          "Fibras",
+          "Sódio"
+        ],
+        "rows": [
+          [
+            "Brownie de chocolate (40 g)",
+            "124 kcal (6% VD)",
+            "18 g (6% VD)",
+            "1,8 g (4% VD)",
+            "7 g (11% VD)",
+            "1,2 g (6% VD)",
+            "0 g",
+            "5 g (20% VD)",
+            "20 mg (1% VD)"
+          ],
+          [
+            "Brownie proteico chocolate com avelã (40 g)",
+            "144 kcal (7% VD)",
+            "16 g (5% VD)",
+            "5 g (10% VD)",
+            "8,7 g (13% VD)",
+            "2,1 g (11% VD)",
+            "0 g",
+            "4,2 g (17% VD)",
+            "63 mg (3% VD)"
+          ],
+          [
+            "Bolinho de baunilha (40 g)",
+            "128 kcal (6% VD)",
+            "18 g (6% VD)",
+            "1,8 g (4% VD)",
+            "7 g (11% VD)",
+            "3,1 g (16% VD)",
+            "0 g",
+            "2 g (7% VD)",
+            "61 mg (3% VD)"
+          ],
+          [
+            "Cookie de chocolate e avelã (30 g)",
+            "113 kcal (6% VD)",
+            "17 g (6% VD)",
+            "1,4 g (3% VD)",
+            "6 g (9% VD)",
+            "3,7 g (19% VD)",
+            "0 g",
+            "1,3 g (5% VD)",
+            "52 mg (3% VD)"
+          ],
+          [
+            "Pão de mel (45 g)",
+            "163 kcal (8% VD)",
+            "23 g (8% VD)",
+            "2 g (4% VD)",
+            "9,2 g (14% VD)",
+            "5,1 g (26% VD)",
+            "0 g",
+            "5 g (20% VD)",
+            "28 mg (1% VD)"
+          ],
+          [
+            "Bolo de chocolate (60 g, 2 fatias)",
+            "182 kcal (9% VD)",
+            "24 g (8% VD)",
+            "3,3 g (7% VD)",
+            "11 g (17% VD)",
+            "4,5 g (23% VD)",
+            "0 g",
+            "3,5 g (14% VD)",
+            "105 mg (5% VD)"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Os mesmos seis, por 100 g",
+      "paragraphs": [
+        "A coluna de 100 g permite comparar doces de porções diferentes."
+      ],
+      "comparisonTable": {
+        "caption": "Os mesmos produtos na coluna de 100 g da tabela da Belive. Açúcares totais e adicionados: 0 g em todos.",
+        "headers": [
+          "Doce",
+          "Calorias",
+          "Carboidratos",
+          "Proteínas",
+          "Gorduras totais",
+          "Gorduras saturadas",
+          "Gorduras trans",
+          "Fibras",
+          "Sódio"
+        ],
+        "rows": [
+          [
+            "Brownie de chocolate",
+            "310 kcal",
+            "46 g",
+            "4,5 g",
+            "17 g",
+            "3 g",
+            "0 g",
+            "12 g",
+            "50 mg"
+          ],
+          [
+            "Brownie proteico chocolate com avelã",
+            "360 kcal",
+            "40 g",
+            "12 g",
+            "22 g",
+            "5,2 g",
+            "0 g",
+            "10 g",
+            "158 mg"
+          ],
+          [
+            "Bolinho de baunilha",
+            "321 kcal",
+            "46 g",
+            "4,5 g",
+            "17 g",
+            "7,8 g",
+            "0 g",
+            "4,5 g",
+            "152 mg"
+          ],
+          [
+            "Cookie de chocolate e avelã",
+            "377 kcal",
+            "56 g",
+            "4,6 g",
+            "20 g",
+            "12 g",
+            "0 g",
+            "4,5 g",
+            "173 mg"
+          ],
+          [
+            "Pão de mel",
+            "362 kcal",
+            "50 g",
+            "4,5 g",
+            "20 g",
+            "11 g",
+            "0 g",
+            "11 g",
+            "61 mg"
+          ],
+          [
+            "Bolo de chocolate",
+            "303 kcal",
+            "40 g",
+            "5,5 g",
+            "18 g",
+            "7,4 g",
+            "0 g",
+            "5,9 g",
+            "174 mg"
+          ]
+        ]
+      }
     },
     {
       "heading": "Quando falar com o médico ou nutricionista",
@@ -246,16 +382,9 @@
     {
       "heading": "Onde comprar os doces da Belive",
       "paragraphs": [
-        "A Belive vende no site oficial, belivebefree.com.br. O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive).",
-        "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom. Quem quer saber mais sobre a loja antes de comprar pode ler [se a Belive é confiável](/reviews/belive-e-confiavel)."
-      ],
-      "image": {
-        "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
-        "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
-        "caption": "A página inicial da Belive, com a vitrine de doces sem açúcar.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
+        "A Belive vende no site oficial, belivebefree.com.br. O cupom Belive **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com o desconto do Pix, em sequência: 10% e depois 5% sobre o que sobrou, ou 14,5% sobre o valor dos produtos. As condições estão na [página do cupom da Belive](/cupons/belive).",
+        "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom."
+      ]
     },
     {
       "heading": "Perguntas frequentes",
@@ -265,7 +394,7 @@
         "Sem adição de açúcar é o mesmo que zero açúcar? Não. \"Sem adição\" quer dizer que não entrou açúcar na receita, mas o doce pode ter os açúcares dos próprios ingredientes. Nesse caso, o rótulo traz a frase \"contém açúcares próprios dos ingredientes\".",
         "Diet quer dizer sem açúcar? Não necessariamente. Diet é o alimento feito para uma dieta com restrição de algum nutriente, que pode ser o açúcar, a gordura ou o sódio.",
         "Doce sem açúcar tem menos calorias? Nem sempre. Compare as calorias da tabela pela mesma porção. O brownie de chocolate da Belive tem 124 kcal em 40 g.",
-        "Onde comprar os doces sem açúcar da Belive? No site oficial, com o cupom MAUAD de 10% OFF em todo o site. As condições estão na página do cupom da Belive."
+        "Onde comprar os doces sem açúcar da Belive? No site oficial, com o cupom Belive MAUAD de 10% OFF em todo o site. As condições estão na página do cupom da Belive."
       ]
     }
   ],

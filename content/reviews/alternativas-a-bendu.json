@@ -102,14 +102,14 @@
         ]
       },
       "postParagraphs": [
-        "É a troca mais direta do guia, para quem precisa manter as declarações de zero lactose e sem glúten. Os outros snacks da marca estão no guia [snack proteico ou snack de arroz da Belive](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
+        "É a troca mais direta do guia, para quem precisa manter as declarações de zero lactose e sem glúten. A Belive tem quatro sabores: [Queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Presunto](https://belivebefree.com.br/produto/snack-proteico-sabor-presunto-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), [Cebola e Salsa](https://belivebefree.com.br/produto/snack-proteico-sabor-cebola-e-salsa-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/) e [Barbecue](https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/), e vende o [combo de 16 pacotes](https://belivebefree.com.br/produto/combo-snacks-proteicos-salgadinhos-sem-gluten-sem-leite-zero-lactose-belive-35g-16-unid/). Os outros snacks da marca estão no guia [snack proteico ou snack de arroz da Belive](/reviews/snack-proteico-ou-snack-de-arroz-belive)."
       ],
       "images": [
         {
-          "src": "/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
-          "alt": "Pacote de 35 g do Snack Proteico sabor queijo da Belive, salgadinho sem glúten, sem leite e zero lactose",
-          "caption": "Snack proteico sabor queijo, 35 g. Foto oficial da Belive.",
-          "href": "https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/",
+          "src": "/images/reviews/belive/alternativas-a-bendu-belive-snack-proteico-barbecue.webp",
+          "alt": "Tigela de snack proteico sabor barbecue da Belive, com o pacote ao lado",
+          "caption": "Snack proteico sabor barbecue, 35 g. Foto oficial da Belive.",
+          "href": "https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/",
           "objectFit": "square",
           "aspectRatio": 1,
           "store": "belive"
@@ -193,18 +193,7 @@
         ]
       },
       "postParagraphs": [
-        "O Max tem o menor preço por proteína entre os dois e o tamanho mais próximo do Crispy Wafer. O de 25 g é uma unidade menor. A página do Max não traz a declaração de lactose e glúten: confira a embalagem se isso decide a sua compra."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-tabela-chocowheyfer-max.webp",
-          "alt": "Tabela nutricional da Chocowheyfer Max Chocolate da Mais Mu, porção de 50 g, com 12 g de proteínas",
-          "caption": "Tabela nutricional do Chocowheyfer Max Chocolate. Imagem: Mais Mu.",
-          "href": "https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/",
-          "objectFit": "contain",
-          "aspectRatio": 0.84,
-          "store": "mais-mu"
-        }
+        "O Max tem o menor preço por proteína entre os dois e o tamanho mais próximo do Crispy Wafer: 50 g e 12 g de proteína por unidade, contra 25 g e 6 g do outro. A página do Max não traz a declaração de lactose e glúten: confira a embalagem se isso decide a sua compra."
       ]
     },
     {
@@ -345,5 +334,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-14"
+  "updatedAt": "2026-11-22"
 }

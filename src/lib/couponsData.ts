@@ -2737,21 +2737,21 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis por região, segundo as regras de frete da loja: acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados; abaixo disso, o frete é calculado no checkout',
+      'Frete grátis por região, segundo as regras de frete da loja: acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados. O mínimo conta pelo valor dos produtos antes do cupom: no nosso teste, um pedido de R$ 175,90 seguiu com frete grátis em SP depois do MAUAD. Abaixo disso, o frete é calculado no checkout',
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço da oferta' },
-      { benefit: 'pix', stacks: 'sim', condition: 'O carrinho com o cupom ainda ganha os 5% de desconto do Pix' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O Pix tira 5% do total que sobra depois do cupom: os dois juntos dão 14,5% sobre o valor dos produtos' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados, contando o valor antes do cupom' },
     ],
     paymentPerks: [
       'Até 2x sem juros no cartão',
     ],
-    lastVerified: '2026-11-12',
-    testedAt: '2026-11-12',
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Com a Black November no ar, aplicamos o MAUAD em quatro pães de cenoura com o preço da campanha, de R$ 20,90 por R$ 14,63 cada, e o total caiu de R$ 58,52 para R$ 52,67, com R$ 5,85 de desconto: os 10% entraram sobre o preço da campanha, e o Pix ainda tirou os 5% dele. Em 11/11/2026, num combo de seis pacotes de pão de batata em oferta, de R$ 125,40 por R$ 106,59, o total caiu para R$ 95,93.',
+      'Com a Black November no ar, aplicamos o MAUAD num Kit 3 Panetones de R$ 175,90: o cupom tirou R$ 17,59, o total caiu para R$ 158,31 e o total no Pix ficou em R$ 150,39. O frete econômico para São Paulo seguiu grátis depois do cupom, porque o mínimo conta pelo valor dos produtos. Em 11/11/2026, num combo de seis pacotes de pão de batata em oferta, de R$ 125,40 por R$ 106,59, o total caiu para R$ 95,93.',
     codeInstructions: [
       'Copie o código MAUAD no card acima.',
       'Acesse o site oficial da Belive pelo botão indicado e coloque os produtos no carrinho.',
@@ -2760,6 +2760,56 @@ const STORE_COUPONS: Coupon[] = [
     ],
     aboutBrand:
       'A Belive é uma marca brasileira de alimentos sem glúten, sem leite e sem lactose, com doces sem açúcar, snacks, brownies proteicos e pães vendidos no site oficial. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as ofertas e com o desconto de 5% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    relatedContent: [
+      {
+        title: 'Como usar o cupom da Belive e o que ele soma',
+        url: '/reviews/cupom-belive-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+      {
+        title: 'Cupom Belive primeira compra: MAUAD dá 10% OFF e vale nas compras seguintes',
+        url: '/reviews/cupom-belive-primeira-compra',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+      {
+        title: 'Black Friday Belive 2026: o que comprar na Black November, avulso ou kit, e quanto fica com o cupom MAUAD',
+        url: '/reviews/black-friday-belive',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+      {
+        title: 'Belive é boa? Os doces sem açúcar, os salgadinhos, os pães e o que vale comprar da marca',
+        url: '/reviews/belive-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-03',
+      },
+      {
+        title: 'Panetone Belive é bom? Chocotone, zero açúcar e sem glúten pelo rótulo',
+        url: '/reviews/panetone-belive-e-bom',
+        type: 'review',
+        publishedAt: '2026-11-04',
+      },
+      {
+        title: 'Doces sem açúcar para diabéticos: o que olhar no rótulo',
+        url: '/reviews/doces-sem-acucar-para-diabeticos',
+        type: 'review',
+        publishedAt: '2026-10-17',
+      },
+      {
+        title: 'Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar',
+        url: '/reviews/belive-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+      {
+        title: 'Belive no Reclame Aqui: nota, reputação e reclamações',
+        url: '/reviews/belive-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+    ],
     faqs: [
       {
         question: 'O cupom MAUAD vale para todos os produtos da Belive?',
@@ -2773,7 +2823,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD soma com o desconto do Pix?',
         answer:
-          'Sim. No nosso teste, o carrinho com o MAUAD aplicado ainda ganhou os 5% de desconto do Pix: R$ 519,14 viraram R$ 493,18.',
+          'Sim. No nosso teste, o carrinho com o MAUAD aplicado ainda ganhou os 5% de desconto do Pix: R$ 519,14 viraram R$ 493,18. Os descontos são um depois do outro, e não 15% de uma vez: os 10% do cupom e depois 5% sobre o que sobrou dão 14,5% sobre o valor dos produtos.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
@@ -2812,7 +2862,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Belive tem frete grátis?',
         answer:
-          'Sim, com valor mínimo por região. As regras de frete da loja dão frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout.',
+          'Sim, com valor mínimo por região. As regras de frete da loja dão frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O mínimo conta pelo valor dos produtos antes do cupom MAUAD. Abaixo disso, o frete é calculado no checkout.',
+      },
+      {
+        question: 'Dá para trocar ou devolver um pedido da Belive?',
+        answer:
+          'Dá. Na compra pelo site, você pode desistir em até 7 dias corridos depois de receber, como prevê o Código de Defesa do Consumidor. Produto com defeito ou avariado vai pelo SAC da loja, sac@nhdfoods.com.br, ou pelo formulário de contato do site, com o número do pedido e fotos.',
       },
       {
         question: 'O que fazer se o cupom MAUAD não funcionar?',
