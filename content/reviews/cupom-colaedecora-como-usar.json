@@ -24,7 +24,7 @@
   "title": "Cupom Cola e Decora: como aplicar o EMCASACOMCECILIA no carrinho e com o que ele soma",
   "seoTitle": "Como usar o cupom EMCASACOMCECILIA na Cola e Decora",
   "type": "Guia & Cupons",
-  "description": "Veja onde aplicar o código EMCASACOMCECILIA na Cola e Decora, quanto ele descontou num quadro e numa prateleira em oferta e como conferir o frete pelo CEP.",
+  "description": "Veja onde aplicar o EMCASACOMCECILIA na Cola e Decora, quanto ele descontou num quadro e numa prateleira em oferta e como conferir o frete e o prazo pelo CEP.",
   "metaDescription": "O cupom EMCASACOMCECILIA dá 10% OFF na Cola e Decora, para cliente novo e antigo. Veja onde aplicar no carrinho, a conta do teste e o frete grátis.",
   "image": "/images/reviews/colaedecora/cupom-colaedecora-como-usar-capa-v2.webp",
   "imageAlt": "Prateleira rosa Theo com livros e quadro Oração Santo Anjo em um quarto infantil, em duas imagens de catálogo da Cola e Decora. A capa pergunta «Como usar o cupom?» e mostra o código EMCASACOMCECILIA.",
@@ -50,13 +50,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Use EMCASACOMCECILIA para ter 10% OFF no site da Cola e Decora, na primeira compra ou se você já é cliente. Depois de clicar em “Comprar”, abra “Tem um cupom?” no carrinho lateral e aplique o código. No nosso teste, ele entrou sobre o preço de oferta de um quadro e uma prateleira."
+        "Use EMCASACOMCECILIA para ter 10% OFF no site da Cola e Decora, na primeira compra ou como cliente antigo. Clique em “Comprar”, abra “Tem um cupom?” no carrinho lateral e aplique o código. No nosso teste, ele entrou sobre o preço de oferta de um quadro e de uma prateleira."
       ]
     },
     {
       "heading": "Onde aplicar o cupom na Cola e Decora",
       "paragraphs": [
-        "Copie EMCASACOMCECILIA na [página do cupom Cola e Decora](/cupons/colaedecora). O campo que usamos fica no carrinho lateral, antes de avançar para o pagamento."
+        "Copie EMCASACOMCECILIA na página do [cupom Cola e Decora](/cupons/colaedecora). O campo que usamos fica no carrinho lateral, antes de avançar para o pagamento."
       ],
       "bullets": [
         "Na página do produto, clique em “Comprar”. O carrinho abre na lateral da tela.",
@@ -79,7 +79,7 @@
     {
       "heading": "Quanto o cupom tirou no nosso teste",
       "paragraphs": [
-        "Em 19/11, o cupom tirou 10% do valor de dois itens que já estavam em oferta. O desconto foi de R$ 13,98, e os produtos ficaram em R$ 125,82, antes do frete."
+        "Montamos um carrinho com o [Quadro Infantil Oração Santo Anjo](https://www.lojacolaedecora.com.br/quadro-infantil-oracao-santo-anjo) e a [Prateleira de Livros 50cm Rosa - Theo](https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa), os dois já em oferta. Em 19/11, o cupom tirou 10% da soma: R$ 13,98 de desconto, e os produtos ficaram em R$ 125,82, antes do frete."
       ],
       "comparisonTable": {
         "caption": "Carrinho testado no site oficial, antes do frete.",
@@ -114,21 +114,41 @@
     {
       "heading": "Onde ver as ofertas da loja",
       "paragraphs": [
-        "Se você está comprando em campanha, confira o aviso “Cupom aplicado” antes de pagar. Veja também [os produtos e preços das Ofertas da Live](/reviews/black-friday-colaedecora)."
+        "A vitrine marca os itens em oferta, e a página [Ofertas da Live](https://www.lojacolaedecora.com.br/live) mostra os da campanha. No nosso teste, o cupom entrou sobre o preço de oferta. A conta abaixo é 10% sobre o preço de vitrine de alguns móveis de entrada."
+      ],
+      "bullets": [
+        "[Prateleira de Livros 50cm Rosa - Theo](https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa): R$ 59,90, ou R$ 53,91 com o código.",
+        "[Cadeira Infantil Branca - Theo](https://www.lojacolaedecora.com.br/cadeira-infantil-branca-theo): R$ 159,90, ou R$ 143,91 com o código.",
+        "[Escadinha Infantil Montessori](https://www.lojacolaedecora.com.br/escadinha-infantil-montessori-branco): R$ 179,90, ou R$ 161,91 com o código.",
+        "[Mesa Infantil Branca - Theo](https://www.lojacolaedecora.com.br/mesa-infantil-branca-theo): R$ 269,90, ou R$ 242,91 com o código.",
+        "[Estante Organizadora Branca - Bella](https://www.lojacolaedecora.com.br/estante-organizadora-branca-bella): R$ 469,90, ou R$ 422,91 com o código."
+      ],
+      "postParagraphs": [
+        "Os preços e as ofertas mudam na loja, então confirme o valor no carrinho. Veja os preços de camas, mesas e prateleiras em [Ofertas da Live da Cola e Decora](/reviews/black-friday-colaedecora)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "alt": "Prateleira de livros Rosa Theo, de 50 cm, com livros infantis, em foto de catálogo da Cola e Decora",
+          "caption": "Prateleira de Livros 50cm Rosa - Theo, um dos itens do nosso teste. Foto: Cola e Decora.",
+          "href": "https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa",
+          "objectFit": "contain"
+        }
       ]
     },
     {
       "heading": "Frete e prazo de entrega",
       "paragraphs": [
-        "A [página de frete da Cola e Decora](https://www.lojacolaedecora.com.br/pagina/frete-gratis.html) anuncia frete grátis em compras acima de R$ 599 para todo o Brasil. No teste, o aviso de frete grátis do carrinho mencionava Sul e Sudeste. Com o cupom aplicado, informe o CEP e confira o valor da entrega antes de pagar.",
-        "Num segundo teste, cinco cadeiras Theo ficaram em R$ 719,55 com o cupom e frete grátis para um CEP do Sudeste. Para outro destino, faça a consulta com o CEP da entrega.",
-        "Para um móvel com data marcada, guarde a previsão exibida no checkout. Veja [como conferir a entrega e acionar a loja se houver atraso](/reviews/colaedecora-e-confiavel)."
+        "A página de frete da loja anuncia frete grátis em compras acima de R$ 599 em produtos, para todo o Brasil. O prazo e a opção de frete grátis aparecem na cotação pelo CEP, então informe o CEP com o cupom já aplicado e confira o valor antes de pagar.",
+        "Num segundo teste, cinco [Cadeiras Infantis Brancas - Theo](https://www.lojacolaedecora.com.br/cadeira-infantil-branca-theo) somaram R$ 799,50 e, com o cupom, ficaram em R$ 719,55 com frete grátis. Para um móvel com data marcada, guarde a previsão exibida no checkout.",
+        "O passo a passo de quem nunca comprou na loja está em [cupom Cola e Decora na primeira compra](/reviews/cupom-colaedecora-primeira-compra). Para escolher uma cama, compare os sete modelos em [camas montessorianas da Cola e Decora](/reviews/cama-montessoriana-colaedecora)."
       ]
     },
     {
       "heading": "Pagamento",
       "paragraphs": [
-        "A loja anuncia até 10 parcelas sem juros no cartão, conforme o valor do pedido. No teste das cinco cadeiras Theo, o valor de R$ 719,55 se manteve quando escolhemos Pix."
+        "No cartão, a loja anuncia até 10 parcelas sem juros, conforme o valor do pedido, e o código continua valendo.",
+        "No Pix, o cupom também segue valendo. Nas cinco cadeiras Theo, o valor de R$ 719,55 foi o mesmo no cartão e no Pix, sem desconto extra de Pix por cima dos 10% do cupom."
       ]
     },
     {
@@ -146,9 +166,10 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Onde coloco o cupom na Cola e Decora? No carrinho lateral, que abre ao clicar em Comprar. Clique em Tem um cupom?, digite EMCASACOMCECILIA e aplique.",
-        "O cupom soma com as ofertas da live? No nosso teste, EMCASACOMCECILIA tirou mais 10% do quadro e da prateleira, que já estavam em oferta. Confira se o aviso de cupom aplicado aparece no seu carrinho.",
+        "O cupom soma com as Ofertas da Live? No nosso teste, EMCASACOMCECILIA tirou mais 10% do quadro e da prateleira, que já estavam em oferta. Confira se o aviso de cupom aplicado aparece no seu carrinho.",
         "O cupom vale para quem já comprou? Vale. O EMCASACOMCECILIA serve para cliente novo e antigo.",
-        "Qual é o frete grátis da Cola e Decora? A página de frete anuncia compras acima de R$ 599 em todo o Brasil. No nosso teste, o aviso do carrinho mencionava Sul e Sudeste. Confira o frete com o seu CEP e o cupom aplicado.",
+        "O cupom vale no Pix? Vale. Nas cinco cadeiras Theo, o total foi R$ 719,55 no cartão e no Pix, sem desconto extra de Pix.",
+        "Qual é o frete grátis da Cola e Decora? Compras acima de R$ 599 em produtos, para todo o Brasil, segundo a página de frete da loja. Confira a opção na cotação pelo seu CEP, com o cupom aplicado.",
         "O cupom vale no Mercado Livre? O código é do site oficial da Cola e Decora, lojacolaedecora.com.br, e é lá que ele entra."
       ]
     }

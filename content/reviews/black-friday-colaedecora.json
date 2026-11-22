@@ -22,9 +22,9 @@
   "coupon": "EMCASACOMCECILIA",
   "affiliate": "colaedecora",
   "title": "Ofertas da Live da Cola e Decora: preços de prateleiras, mesas e camas",
-  "seoTitle": "Ofertas da Live da Cola e Decora: móveis e cupom",
+  "seoTitle": "Ofertas da Live Cola e Decora: móveis e EMCASACOMCECILIA",
   "type": "Guia de Black Friday",
-  "description": "Compare os preços de prateleiras, móveis infantis e camas nas Ofertas da Live da Cola e Decora. Veja onde o EMCASACOMCECILIA entrou e como conferir o total com frete.",
+  "description": "Preços de prateleiras, móveis Theo e camas montessorianas nas Ofertas da Live da Cola e Decora, com a conta do EMCASACOMCECILIA e o que checar no carrinho e no frete.",
   "metaDescription": "EMCASACOMCECILIA dá 10% OFF na Cola e Decora. No teste, entrou em dois itens das Ofertas da Live. Compare preços de prateleiras e camas.",
   "image": "/images/reviews/colaedecora/black-friday-colaedecora-capa-v2.webp",
   "imageAlt": "Mesa infantil branca Theo da Cola e Decora com brinquedos, ao lado de uma cadeira e de enfeites coloridos. A capa traz a chamada «Ofertas da Live» e o cupom EMCASACOMCECILIA.",
@@ -43,23 +43,23 @@
       "slug": "cama-montessoriana-colaedecora"
     },
     {
-      "slug": "colaedecora-e-confiavel"
+      "slug": "cupom-colaedecora-primeira-compra"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Nas Ofertas da Live da Cola e Decora, o cupom EMCASACOMCECILIA deu mais 10% OFF num quadro e numa prateleira que já estavam em promoção. Veja os preços por tipo de móvel e a estimativa com o cupom. Se for comprar uma cama, confirme o desconto e o frete pelo seu CEP no carrinho."
+        "Nas Ofertas da Live da Cola e Decora, o cupom EMCASACOMCECILIA deu mais 10% de desconto sobre um quadro e uma prateleira que já estavam em oferta. O código vale para cliente novo e antigo e entra no carrinho, antes do checkout. No Pix, o valor continua o do carrinho com o cupom, sem um segundo desconto."
       ]
     },
     {
       "heading": "Prateleira, móveis Theo e estante Bella",
       "paragraphs": [
-        "Entre os itens da tabela, a prateleira Theo de 50 cm é a mais barata e entrou no teste do cupom. Cadeira e mesa Theo aparecem separadas. Se pretende levar as duas, compare o total com e sem frete."
+        "A [prateleira de livros Theo de 50 cm](https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa) é o item mais barato da lista e entrou no nosso teste do cupom, junto com o [quadro Oração Santo Anjo](https://www.lojacolaedecora.com.br/quadro-infantil-oracao-santo-anjo). A [cadeira](https://www.lojacolaedecora.com.br/cadeira-infantil-branca-theo) e a [mesa](https://www.lojacolaedecora.com.br/mesa-infantil-branca-theo) Theo são vendidas separadas. Para montar o conjunto, some os dois preços e simule o total com o frete antes de decidir."
       ],
       "comparisonTable": {
-        "caption": "Preços da vitrine em 19/11, antes do frete. Última coluna calculada com 10%.",
+        "caption": "Preços da vitrine, antes do frete. Última coluna calculada com 10% sobre o preço da vitrine.",
         "headers": [
           "Produto",
           "Preço na vitrine",
@@ -67,40 +67,55 @@
         ],
         "rows": [
           [
-            "Prateleira de Livros 50cm Rosa - Theo",
+            "[Prateleira de Livros 50cm Rosa - Theo](https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa)",
             "R$ 59,90",
             "R$ 53,91"
           ],
           [
-            "Cadeira Infantil Branca - Theo",
+            "[Quadro Infantil Oração Santo Anjo](https://www.lojacolaedecora.com.br/quadro-infantil-oracao-santo-anjo)",
+            "R$ 79,90",
+            "R$ 71,91"
+          ],
+          [
+            "[Cadeira Infantil Branca - Theo](https://www.lojacolaedecora.com.br/cadeira-infantil-branca-theo)",
             "R$ 159,90",
             "R$ 143,91"
           ],
           [
-            "Mesa Infantil Branca - Theo",
+            "[Mesa Infantil Branca - Theo](https://www.lojacolaedecora.com.br/mesa-infantil-branca-theo)",
             "R$ 269,90",
             "R$ 242,91"
           ],
           [
-            "Escadinha Montessori",
+            "[Escadinha Infantil Montessori](https://www.lojacolaedecora.com.br/escadinha-infantil-montessori-branco)",
             "R$ 179,90",
             "R$ 161,91"
           ],
           [
-            "Estante Organizadora Bella",
+            "[Estante Organizadora Branca - Bella](https://www.lojacolaedecora.com.br/estante-organizadora-branca-bella)",
             "R$ 469,90",
             "R$ 422,91"
           ]
         ]
-      }
+      },
+      "images": [
+        {
+          "src": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "alt": "Prateleira de Livros 50cm Rosa - Theo da Cola e Decora, com livros infantis expostos",
+          "caption": "Prateleira de Livros 50cm Rosa - Theo. Foto: Cola e Decora.",
+          "href": "https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
     },
     {
-      "heading": "Camas Baixa, Nina e Noah: compare antes de escolher",
+      "heading": "Camas Baixa, Nina, Cercadinho, Noah e Casinha: compare antes de escolher",
       "paragraphs": [
-        "Entre as três camas, a Baixa tem o menor preço na leitura. A Nina tem barras laterais ajustáveis. A Noah tem livreiro e ocupa 200 cm no comprimento. Compare as medidas e o colchão no [guia das camas montessorianas](/reviews/cama-montessoriana-colaedecora)."
+        "A [Baixa](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-baixa) tem o menor preço entre as camas da lista. A [Nina](https://www.lojacolaedecora.com.br/cama-montessoriana-evolutiva-verde-nina) é evolutiva e tem barras laterais ajustáveis. A [Noah](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-com-livreiro-noah) traz livreiro e ocupa 200 cm de comprimento. O [Cercadinho](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-cercado) tem grades em volta do colchão, e a [Casinha](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-casinha) custa o mesmo que a Noah. Medidas, colchão e as outras cores estão no [guia das camas montessorianas](/reviews/cama-montessoriana-colaedecora)."
       ],
       "comparisonTable": {
-        "caption": "Preços da mesma leitura. Última coluna calculada com 10%, antes do frete.",
+        "caption": "Preços da vitrine, antes do frete. Última coluna calculada com 10% sobre o preço da vitrine.",
         "headers": [
           "Cama",
           "Preço na vitrine",
@@ -108,17 +123,27 @@
         ],
         "rows": [
           [
-            "Cama Montessoriana Baixa",
+            "[Cama Montessoriana Baixa](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-baixa)",
             "R$ 699,90",
             "R$ 629,91"
           ],
           [
-            "Cama Montessoriana Evolutiva Nina",
+            "[Cama Montessoriana Evolutiva Nina](https://www.lojacolaedecora.com.br/cama-montessoriana-evolutiva-verde-nina)",
             "R$ 899,00",
             "R$ 809,10"
           ],
           [
-            "Cama Montessoriana com Livreiro Noah",
+            "[Cama Montessoriana Cercadinho](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-cercado)",
+            "R$ 999,00",
+            "R$ 899,10"
+          ],
+          [
+            "[Cama Montessoriana com Livreiro Noah](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-com-livreiro-noah)",
+            "R$ 1.099,00",
+            "R$ 989,10"
+          ],
+          [
+            "[Cama Montessoriana Casinha](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-casinha)",
             "R$ 1.099,00",
             "R$ 989,10"
           ]
@@ -126,9 +151,42 @@
       },
       "images": [
         {
+          "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-baixa.webp",
+          "alt": "Cama Montessoriana Baixa da Cola e Decora vista de cima num quarto infantil, com uma criança deitada no colchão",
+          "caption": "Cama Montessoriana Baixa. Foto: Cola e Decora.",
+          "href": "https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-baixa",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
           "src": "/images/reviews/colaedecora/black-friday-colaedecora-nina.webp",
           "alt": "Cama Montessoriana Evolutiva Nina em verde-água, em fundo branco, com as laterais da cama",
-          "caption": "Cama Evolutiva Nina em verde-água. Confira o preço da cor que escolher. Foto da Cola e Decora.",
+          "caption": "Cama Evolutiva Nina em verde-água. Confira o preço da cor que escolher. Foto: Cola e Decora.",
+          "href": "https://www.lojacolaedecora.com.br/cama-montessoriana-evolutiva-verde-nina",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+          "alt": "Cama Montessoriana Cercadinho da Cola e Decora num quarto, com grades de madeira em volta do colchão",
+          "caption": "Cama Montessoriana Cercadinho. Foto: Cola e Decora.",
+          "href": "https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-cercado",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-noah.webp",
+          "alt": "Cama Montessoriana com Livreiro Noah da Cola e Decora num quarto infantil, com livros no livreiro aos pés da cama",
+          "caption": "Cama Montessoriana com Livreiro Noah. Foto: Cola e Decora.",
+          "href": "https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-com-livreiro-noah",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-casinha.webp",
+          "alt": "Cama Montessoriana Casinha da Cola e Decora, com a estrutura em formato de casinha",
+          "caption": "Cama Montessoriana Casinha. Foto: Cola e Decora.",
+          "href": "https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-casinha",
           "objectFit": "contain",
           "aspectRatio": 1
         }
@@ -137,21 +195,31 @@
     {
       "heading": "Onde conferir as Ofertas da Live",
       "paragraphs": [
-        "A [vitrine das Ofertas da Live](https://www.lojacolaedecora.com.br/live) reúne produtos com selo “Oferta de Live” e “Só hoje”. A loja mostra um contador em algumas fichas. Consulte a oferta do produto para ver o preço do dia."
+        "A [vitrine das Ofertas da Live](https://www.lojacolaedecora.com.br/live) reúne os produtos com o selo “Oferta de Live” e “Só hoje”. Os preços das tabelas acima são os da vitrine na hora da nossa leitura, e a loja pode mudar o valor de um item ao longo do dia.",
+        "Por isso, abra a ficha do produto que você quer, veja o preço que aparece ali e só depois faça a conta com o desconto. No nosso teste, o EMCASACOMCECILIA entrou sobre o preço de oferta de dois itens da Live, como mostramos logo abaixo. Para o caminho completo de compra, veja [como usar o cupom da Cola e Decora](/reviews/cupom-colaedecora-como-usar)."
       ]
     },
     {
       "heading": "O cupom soma com as ofertas?",
       "paragraphs": [
-        "No nosso teste de 19/11, somou. Um quadro infantil e uma prateleira de livros, ambos com preço de campanha, somavam R$ 139,80. O EMCASACOMCECILIA tirou R$ 13,98 e o total dos produtos foi para R$ 125,82, antes do frete.",
-        "O código vale para cliente novo e antigo, e o aviso de cupom aplicado aparece no carrinho lateral."
+        "No nosso teste de 19/11, somou. O [quadro Oração Santo Anjo](https://www.lojacolaedecora.com.br/quadro-infantil-oracao-santo-anjo) e a [prateleira Theo](https://www.lojacolaedecora.com.br/prateleira-de-livros-50cm-rosa), ambos com preço de campanha, somavam R$ 139,80. O EMCASACOMCECILIA tirou R$ 13,98, e o total dos produtos foi para R$ 125,82, antes do frete.",
+        "O código vale para cliente novo e antigo. No pagamento por Pix, o valor continua o do carrinho com o cupom, sem um segundo desconto: cinco cadeiras Theo, que somavam R$ 799,50, ficaram em R$ 719,55 no Pix. A condição completa do código está na página do [cupom Cola e Decora](/cupons/colaedecora)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
+          "alt": "Carrinho da Cola e Decora com o cupom EMCASACOMCECILIA aplicado, desconto de R$ 13,98 sobre R$ 139,80 e subtotal de R$ 125,82",
+          "caption": "O código aplicado no carrinho lateral da Cola e Decora, no nosso teste. Print: Em Casa com Cecília.",
+          "objectFit": "contain"
+        }
       ]
     },
     {
       "heading": "Frete e prazo para comprar com data certa",
       "paragraphs": [
-        "A [página de frete da Cola e Decora](https://www.lojacolaedecora.com.br/pagina/frete-gratis.html) anuncia frete grátis em compras acima de R$ 599 para todo o Brasil. No teste, o aviso de frete grátis do carrinho mencionava Sul e Sudeste. Com o cupom aplicado, informe o CEP e confira o valor da entrega antes de pagar.",
-        "Se estiver comprando um móvel para uma data marcada, use a previsão pelo CEP e reserve tempo para montar. Veja [por que vale guardar o prazo exibido](/reviews/colaedecora-e-confiavel)."
+        "Segundo a página de frete da loja, compras acima de R$ 599 em produtos têm frete grátis para todo o Brasil. No nosso teste com cinco cadeiras Theo, o carrinho mostrou o frete grátis. Em compras menores, o valor da entrega depende do CEP.",
+        "Informe o CEP antes de pagar: o frete e o prazo da sua região saem na cotação, e é nela que a opção de frete grátis aparece. Para móvel com data marcada, reserve também um tempo para a montagem. O pagamento no cartão pode ser parcelado em até 10x sem juros, e a desistência sem uso vale por até 7 dias corridos do recebimento.",
+        "Se a compra for uma cama, veja antes as medidas e o colchão no [guia das camas montessorianas](/reviews/cama-montessoriana-colaedecora)."
       ]
     },
     {
@@ -162,16 +230,17 @@
         "Confira o aviso “Cupom aplicado” e o subtotal antes de seguir para o checkout."
       ],
       "postParagraphs": [
-        "O passo a passo, com o print do carrinho, está em [como usar o cupom da Cola e Decora](/reviews/cupom-colaedecora-como-usar). As condições do código ficam na página do [cupom Cola e Decora](/cupons/colaedecora)."
+        "O passo a passo, com o print do carrinho, está em [como usar o cupom da Cola e Decora](/reviews/cupom-colaedecora-como-usar)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Cola e Decora tem Black Friday? No período que consultamos, a página inicial destacava “Ofertas da Live”. Veja a vitrine da loja para conferir a campanha e os produtos do dia.",
-        "O cupom vale nas Ofertas da Live? No nosso teste, EMCASACOMCECILIA deu 10% OFF sobre o preço de oferta de um quadro e uma prateleira. Confira o aviso de desconto para o seu produto.",
-        "Qual é o frete grátis da Cola e Decora? A página de frete anuncia compras acima de R$ 599 em todo o Brasil. No nosso teste, o aviso do carrinho mencionava Sul e Sudeste. Confira o frete com o seu CEP e o cupom aplicado.",
-        "Quanto tempo demora a entrega da Cola e Decora? O prazo sai pelo CEP, direto no checkout. Antes de comprar para uma data certa, leia [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel)."
+        "A Cola e Decora tem Black Friday? No período que consultamos, a página inicial destacava as “Ofertas da Live”. Veja a [vitrine da Live](https://www.lojacolaedecora.com.br/live) para conferir os produtos do dia.",
+        "O cupom vale nas Ofertas da Live? No nosso teste, o EMCASACOMCECILIA deu 10% OFF sobre o preço de oferta de um quadro e uma prateleira. Confira o aviso de desconto no carrinho do seu produto.",
+        "Qual é o frete grátis da Cola e Decora? Compras acima de R$ 599 em produtos, para todo o Brasil, segundo a página de frete da loja. Abaixo disso, o valor sai pelo CEP, na cotação.",
+        "Quanto tempo demora a entrega? O prazo sai pelo CEP, na cotação do checkout. Simule antes de pagar: o caminho está em [como usar o cupom](/reviews/cupom-colaedecora-como-usar). Se for uma cama, confira também as medidas no [guia das camas montessorianas](/reviews/cama-montessoriana-colaedecora).",
+        "O Pix tem desconto extra? No nosso teste, não: o valor com o Pix foi o mesmo do carrinho com o cupom."
       ]
     }
   ],
