@@ -13,6 +13,17 @@
   },
   "publishedAt": "18 de novembro de 2026",
   "publishedAtISO": "2026-11-18",
+  "decision": {
+    "takeIf": [
+      "Você vai fazer o primeiro pedido na Rituária e quer o desconto do EMCASA já nele, sem esperar a segunda compra.",
+      "Seu carrinho tem produto em promoção ou três suplementos da coleção Leve 3, Pague 2, e você quer saber se o código soma."
+    ],
+    "skipIf": [
+      "Você espera usar o cashback de 10% na mesma compra: desconto e cashback não somam, e vale um benefício por compra.",
+      "Você pretende comprar em anúncio de marketplace: o EMCASA é do site oficial da Rituária.",
+      "O frete grátis da sua região exige um total que o seu pedido não alcança, e o frete muda a conta."
+    ]
+  },
   "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
@@ -126,6 +137,7 @@
     },
     {
       "heading": "Primeiro pedido: o que conferir",
+      "emphasis": "Para a primeira compra, vale usar o EMCASA, o mesmo código das compras seguintes; o que decide se o pedido compensa é o total entregue no seu CEP, com a linha Descontos conferida no resumo.",
       "paragraphs": [
         "Antes de pagar, confira o total entregue, a linha Descontos e as regras de troca da loja."
       ],
@@ -152,7 +164,8 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como conseguir desconto na primeira compra na Rituária? Use EMCASA para ter 10% OFF no site oficial, no campo “Tem um cupom?” do checkout. O mesmo código também vale nas compras seguintes.",
+        "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, também sobre o preço promocional. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
+        "Como conseguir desconto na primeira compra na Rituária? Não há código à parte para cliente novo: o mesmo EMCASA vale já no primeiro pedido, nas compras seguintes e em todas as formas de pagamento.",
         "Qual cupom vale para quem já é cliente? O mesmo EMCASA, sem trocar de código. Confira a linha Descontos no resumo de cada pedido.",
         "O cupom soma com produto em promoção? No nosso teste, sim: os 10% entraram sobre o preço promocional dos produtos. A conta está no capítulo sobre quanto o cupom tira.",
         "Onde coloco o cupom na primeira compra? No campo “Tem um cupom?” do checkout, depois de colocar os produtos no carrinho. Os passos estão no capítulo de como aplicar."

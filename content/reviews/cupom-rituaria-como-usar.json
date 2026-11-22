@@ -13,6 +13,17 @@
   },
   "publishedAt": "18 de novembro de 2026",
   "publishedAtISO": "2026-11-18",
+  "decision": {
+    "takeIf": [
+      "Você já vai comprar na Rituária e quer saber onde digitar o EMCASA e quanto ele tira do pedido.",
+      "Seu carrinho tem produto em promoção ou três itens da coleção Leve 3, Pague 2, e você quer saber se o código soma."
+    ],
+    "skipIf": [
+      "Você conta com o cashback de 10% na mesma compra: desconto e cashback não somam, e vale um benefício por compra.",
+      "Você pretende comprar em anúncio de marketplace: o EMCASA é do site oficial da Rituária.",
+      "Você ainda não simulou o seu CEP, e o frete pode mudar o total entregue."
+    ]
+  },
   "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
@@ -128,6 +139,7 @@
     },
     {
       "heading": "Frete: olhe o total entregue",
+      "emphasis": "Para quem já ia comprar na Rituária, vale digitar o EMCASA, que soma com a promoção e com o Leve 3, Pague 2; o que fecha a decisão é o total entregue no seu CEP, com a linha Descontos conferida no resumo.",
       "paragraphs": [
         "O frete grátis depende do estado, e o mínimo vai de R$ 199 a R$ 349. A loja publica estas faixas para envio pelos Correios (PAC e SEDEX):"
       ],
@@ -177,6 +189,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo Tem um cupom? do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
         "Onde coloco o cupom na Rituária? No checkout, em seguro.rituaria.com.br, no campo Tem um cupom? do resumo. Clique em Adicionar e confira a linha Descontos.",
         "O cupom EMCASA soma com o Leve 3, Pague 2? Sim, no teste com três Brain+ iguais: a promoção tirou um dos frascos, e o EMCASA tirou 10% do que sobrou, para um total de R$ 125,82. Confira o resumo antes de pagar.",
         "O cupom vale para quem já é cliente? Vale. O EMCASA serve para cliente novo e antigo. Para a primeira compra, veja o [guia da primeira compra na Rituária](/reviews/cupom-rituaria-primeira-compra).",

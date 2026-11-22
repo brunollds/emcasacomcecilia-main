@@ -165,7 +165,8 @@
       },
       "postParagraphs": [
         "Informe seu CEP e confira o frete no resumo do pedido antes de pagar."
-      ]
+      ],
+      "emphasis": "Com o produto já escolhido, vale digitar o CECILIA: os 10% entraram sobre o preço da Black Friday, e o que ainda pode mudar a conta é o frete do seu CEP."
     },
     {
       "heading": "Se o código não entrar",
@@ -184,12 +185,23 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Onde coloco o cupom na Adaptogen? No checkout do site oficial, no campo Cupom de desconto do resumo. Clique em Aplicar e confira a linha Cupom.",
+        "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
+        "Onde coloco o cupom na Adaptogen? No checkout, que abre em Finalizar Compra na sacola, dentro do campo Cupom de desconto do resumo. Clique em Aplicar e confira a linha Cupom.",
         "O cupom CECILIA soma com a Black Friday? Nos nossos testes, somou com os preços da campanha. Os preços mudam, então confira a linha Cupom antes de pagar.",
         "O cupom vale para quem já é cliente? Vale. O CECILIA serve para cliente novo e antigo. Quem compra pela primeira vez pode ler o [guia da primeira compra na Adaptogen](/reviews/cupom-adaptogen-primeira-compra).",
         "O cupom vale no Mercado Livre ou na Amazon? O código é do site oficial da Adaptogen e entra no checkout de lá. Não conferimos a venda nos marketplaces, então não dizemos se a marca vende lá.",
         "O cupom soma com o Pix? O CECILIA vale também no Pix e soma com os 5% que a loja anuncia para essa modalidade. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você já escolheu o produto e quer abater 10% no checkout, sendo cliente novo ou antigo.",
+      "Você quer o desconto por cima do preço da Black Friday: nos nossos testes, o código entrou sobre os preços da campanha."
+    ],
+    "skipIf": [
+      "Você procura um cupom de 20% ou 30%: o nosso é de 10%.",
+      "Você precisa de um total fechado sem olhar o frete: o grátis muda com o CEP e com o mínimo da região."
+    ]
+  }
 }

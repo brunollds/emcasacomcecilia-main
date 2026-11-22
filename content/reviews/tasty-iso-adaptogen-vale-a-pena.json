@@ -50,12 +50,12 @@
   "decision": {
     "takeIf": [
       "Você quer um isolado que a Adaptogen anuncia como zero lactose na maioria dos sabores, confere o rótulo do sabor escolhido e aceita pagar mais por 100 g de proteína.",
-      "Você vai conferir o rótulo do lote e do sabor antes de usar."
+      "Você quer evitar lactose e glúten e aceita pagar mais: as páginas do Pure e do Naturalle trazem zero lactose e zero glúten, e o Pure vem sem sabor."
     ],
     "skipIf": [
       "O seu critério é o menor preço por proteína: na conta, o Tasty Whey 3W e o Gold Whey da marca ficam abaixo.",
       "Você precisa evitar glúten e escolheria o Cookies & Cream do pote ou o Cookies do Bag, que as páginas dizem conter glúten.",
-      "Você espera resultado apenas do suplemento, sem orientação nutricional."
+      "Você quer saber de sabor, textura e digestão antes de comprar: este guia fica na composição e no preço."
     ]
   },
   "contentSections": [
@@ -207,7 +207,8 @@
           "aspectRatio": 1,
           "href": "https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA"
         }
-      ]
+      ],
+      "emphasis": "Pelos três carrinhos com o CECILIA, quem decide pelo menor custo por 100 g de proteína leva o Gold Whey, e o Tasty Iso só se justifica para quem quer o isolado e aceita pagar mais por ele."
     },
     {
       "heading": "Antes de começar e o que não dá para saber daqui",
@@ -220,8 +221,9 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "O Tasty Iso é isolado ou concentrado? A página o descreve como proteína isolada e hidrolisada, processada a frio.",
+        "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
         "O Tasty Iso tem zero lactose? A lista de sabores da página do 900 g marca zero lactose em todos, mas outro trecho fala em “a maioria dos sabores”: confira o rótulo do sabor. O Cookies & Cream contém glúten, e os demais são descritos como sem glúten.",
-        "Tem cupom para o Tasty Iso? Sim: o cupom CECILIA dá 10% OFF no site da Adaptogen, digitado no campo Cupom de desconto do checkout."
+        "Tem cupom para o Tasty Iso? Sim, o mesmo para todos os produtos: nos carrinhos de teste, o CECILIA valeu para o Tasty Iso, o Tasty Whey 3W e o Gold Whey."
       ]
     }
   ]

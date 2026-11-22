@@ -262756,6 +262756,17 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "18 de novembro de 2026",
     "publishedAtISO": "2026-11-18",
+    "decision": {
+      "takeIf": [
+        "Você já vai comprar na Rituária e quer saber onde digitar o EMCASA e quanto ele tira do pedido.",
+        "Seu carrinho tem produto em promoção ou três itens da coleção Leve 3, Pague 2, e você quer saber se o código soma."
+      ],
+      "skipIf": [
+        "Você conta com o cashback de 10% na mesma compra: desconto e cashback não somam, e vale um benefício por compra.",
+        "Você pretende comprar em anúncio de marketplace: o EMCASA é do site oficial da Rituária.",
+        "Você ainda não simulou o seu CEP, e o frete pode mudar o total entregue."
+      ]
+    },
     "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
@@ -262871,6 +262882,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Frete: olhe o total entregue",
+        "emphasis": "Para quem já ia comprar na Rituária, vale digitar o EMCASA, que soma com a promoção e com o Leve 3, Pague 2; o que fecha a decisão é o total entregue no seu CEP, com a linha Descontos conferida no resumo.",
         "paragraphs": [
           "O frete grátis depende do estado, e o mínimo vai de R$ 199 a R$ 349. A loja publica estas faixas para envio pelos Correios (PAC e SEDEX):"
         ],
@@ -262920,6 +262932,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo Tem um cupom? do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
           "Onde coloco o cupom na Rituária? No checkout, em seguro.rituaria.com.br, no campo Tem um cupom? do resumo. Clique em Adicionar e confira a linha Descontos.",
           "O cupom EMCASA soma com o Leve 3, Pague 2? Sim, no teste com três Brain+ iguais: a promoção tirou um dos frascos, e o EMCASA tirou 10% do que sobrou, para um total de R$ 125,82. Confira o resumo antes de pagar.",
           "O cupom vale para quem já é cliente? Vale. O EMCASA serve para cliente novo e antigo. Para a primeira compra, veja o [guia da primeira compra na Rituária](/reviews/cupom-rituaria-primeira-compra).",
@@ -263086,6 +263099,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Como o cupom entra",
+        "emphasis": "Para quem já ia levar três suplementos da coleção, o melhor caminho é montar o trio, deixar a promoção tirar o frasco mais barato e só então digitar o EMCASA, que no teste somou com ela.",
         "paragraphs": [
           "No nosso teste, o cupom EMCASA entrou no campo “Tem um cupom?” do checkout, com o botão “Adicionar”. Ele somou com a promoção: os 10% saíram do total que sobrou depois do item grátis, não do total cheio.",
           "Não sabemos se a loja mantém essa ordem até o fim da campanha, nem se a regra muda na semana da Black Friday. O que vale no dia da compra é o que o checkout mostrar.",
@@ -263140,6 +263154,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Rituária tem Black Friday? Não encontramos página com esse nome. A campanha aparece como Black November e Black Rituária, com Leve 3, Pague 2 na coleção de suplementos. A página consultada não publicava data de fim.",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
           "O cupom EMCASA vale no Leve 3, Pague 2? No nosso teste, com três Brain+ iguais, sim: os 10% entraram sobre o total que sobrou depois do item grátis, e o total foi de R$ 125,82. Confira a linha de descontos no checkout antes de pagar.",
           "Por que o carrinho não mostra o desconto? O carrinho mostra o total cheio e segue direto para o checkout próprio, onde a promoção aparece na linha de descontos.",
           "Quais produtos entram no Leve 3, Pague 2? Os suplementos listados na coleção da promoção. Num carrinho anterior, com dois itens da coleção e um Capilar Nutri, que não está nela, nenhum saiu de graça.",
@@ -263375,6 +263390,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Vale a pena comprar na Rituária?",
+        "emphasis": "Pelo Reclame Aqui, dá para comprar no site oficial da Rituária, com a atenção voltada à entrega: guarde o número do pedido, acompanhe o rastreio e confira o total no checkout.",
         "paragraphs": [
           "Pelo Reclame Aqui, a loja responde a todas as reclamações, tem RA1000 em todas as janelas consultadas e solução de 94,2% entre as avaliadas nos seis meses. O ponto de atenção é a entrega: produto não recebido é o motivo mais citado na aba Geral, e a resposta leva mais de quatro dias em média. Ao fazer o pedido, acompanhe o rastreio e guarde as provas.",
           "Se decidir comprar, o [cupom Rituária](/cupons/rituaria) EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, e o passo a passo do checkout está em [como usar o cupom](/reviews/cupom-rituaria-como-usar)."
@@ -263384,10 +263400,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual a nota da Rituária no Reclame Aqui? Na aba de seis meses, a reputação é RA1000, com nota 8,8. Nos 12 meses é RA1000, com 8,7. A média que os consumidores deram ao atendimento nos seis meses é 7,89.",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo, digitado no campo “Tem um cupom?” do checkout. As condições estão na página do [cupom Rituária](/cupons/rituaria).",
           "A Rituária tem o selo RA1000 ou Empresa Verificada? Tem os dois. O RA1000 é a faixa máxima de reputação e o perfil aparece com ele nas cinco janelas. O de Empresa Verificada vem de uma verificação mensal da plataforma, e o perfil está lá há 5 anos.",
           "A Rituária responde e resolve as reclamações? Nos seis meses, respondeu 100% das 708 reclamações, em média em 4 dias e 12 horas. Entre as 419 avaliadas, 94,2% foram consideradas resolvidas.",
-          "O que fazer se o pedido da Rituária não chegou? Confira o rastreio e fale com a loja pelo chat, pelo WhatsApp ou pelo e-mail contato@rituaria.com.br, com o número do pedido à mão. Produto não recebido é o motivo mais citado na aba Geral, com 32,23%.",
-          "Tem cupom de desconto na Rituária? Tem. O código EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, digitado no campo “Tem um cupom?” do checkout."
+          "O que fazer se o pedido da Rituária não chegou? Confira o rastreio e fale com a loja pelo chat, pelo WhatsApp ou pelo e-mail contato@rituaria.com.br, com o número do pedido à mão. Produto não recebido é o motivo mais citado na aba Geral, com 32,23%."
         ]
       }
     ]
@@ -263527,6 +263543,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Dá para confiar: o que está à vista e o que falta conferir",
+        "emphasis": "Pelo que está à vista, dá para comprar no site oficial da Rituária com a atenção voltada à entrega, e a regularização de cada fórmula você confere pelo rótulo antes de pagar.",
         "paragraphs": [
           "O site mostra CNPJ e políticas de compra, e a reputação no Reclame Aqui é a máxima, RA1000. A entrega merece atenção: produto não recebido é a queixa mais citada na aba geral do perfil. Para o produto que você pretende comprar, peça antes os dados do rótulo, porque a regularização de cada fórmula ainda não foi conferida.",
           "Se decidir comprar, o cupom EMCASA dá 10% OFF no site oficial, para cliente novo e antigo. As condições estão na página do [cupom Rituária](/cupons/rituaria). Este artigo é sobre a loja; o que dá para saber dos produtos está em [Rituária é boa?](/reviews/rituaria-e-boa)."
@@ -263536,6 +263553,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Rituária é confiável? Para comprar no site oficial, os dados à vista são o CNPJ no rodapé, a reputação no Reclame Aqui e as regras de troca. O que falta conferir é a Anvisa, produto a produto, pelo rótulo.",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
           "A Rituária é aprovada pela Anvisa? Não confirmamos a regularização dos produtos neste guia. Peça à loja os dados do rótulo, identifique o fabricante e consulte a regularização da fórmula; o texto “Registro na Anvisa” no site não substitui essa consulta.",
           "Qual é o CNPJ da Rituária? O rodapé do site traz 60.453.162/0001-07, da Beauty Hub Varejo Ltda. O perfil no Reclame Aqui traz 60.453.162/0003-79, com a mesma raiz.",
           "A Rituária devolve o dinheiro? Sim, segundo a política da loja: na desistência em até sete dias corridos depois do recebimento, com reembolso integral e frete, desde que o produto esteja completo e sem sinais de uso.",
@@ -263809,6 +263827,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Como escolher entre potes, kits e avulsos",
+        "emphasis": "Pelas tabelas, o menor custo por porção com o EMCASA está no 4Mag de 90 dias, nas 3 Prebióticas e no pote avulso de NAC; o kit maior só compensa se você for usar todas as porções.",
         "paragraphs": [
           "Compare embalagens da mesma fórmula. Os quadros mostram o custo por porção com o EMCASA, usando o rendimento declarado pela loja.",
           "Nos kits 3x de 4Mag e de NAC, o rendimento foi estimado pelos 90 dias anunciados no nome. Antes de escolher pelo custo por porção, confirme quais potes e quantas cápsulas vêm no kit."
@@ -263847,6 +263866,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Rituária é boa? O guia identifica composição, rendimento e custo das embalagens analisadas, com divergências que precisam ser esclarecidas pela loja. Esses dados ajudam a avaliar a compra, mas não demonstram eficácia dos produtos.",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo Tem um cupom? do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
           "A Rituária funciona? Composição e relatos de clientes, sozinhos, não comprovam resultado para o seu caso. Para escolher e usar uma fórmula, confirme o rótulo e procure orientação profissional.",
           "A Rituária vale a pena? Compare embalagens da mesma fórmula pelo custo por porção com o EMCASA e pelo total entregue. No Leve 3, Pague 2, o EMCASA somou com a promoção no nosso teste com três unidades iguais, e vale conferir o total no checkout.",
           "A Rituária emagrece? Não há comprovação de emagrecimento apresentada neste guia, e suplementos não podem ser anunciados com essa alegação.",
@@ -263870,6 +263890,17 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "18 de novembro de 2026",
     "publishedAtISO": "2026-11-18",
+    "decision": {
+      "takeIf": [
+        "Você vai fazer o primeiro pedido na Rituária e quer o desconto do EMCASA já nele, sem esperar a segunda compra.",
+        "Seu carrinho tem produto em promoção ou três suplementos da coleção Leve 3, Pague 2, e você quer saber se o código soma."
+      ],
+      "skipIf": [
+        "Você espera usar o cashback de 10% na mesma compra: desconto e cashback não somam, e vale um benefício por compra.",
+        "Você pretende comprar em anúncio de marketplace: o EMCASA é do site oficial da Rituária.",
+        "O frete grátis da sua região exige um total que o seu pedido não alcança, e o frete muda a conta."
+      ]
+    },
     "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
@@ -263983,6 +264014,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Primeiro pedido: o que conferir",
+        "emphasis": "Para a primeira compra, vale usar o EMCASA, o mesmo código das compras seguintes; o que decide se o pedido compensa é o total entregue no seu CEP, com a linha Descontos conferida no resumo.",
         "paragraphs": [
           "Antes de pagar, confira o total entregue, a linha Descontos e as regras de troca da loja."
         ],
@@ -264009,7 +264041,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como conseguir desconto na primeira compra na Rituária? Use EMCASA para ter 10% OFF no site oficial, no campo “Tem um cupom?” do checkout. O mesmo código também vale nas compras seguintes.",
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, também sobre o preço promocional. Ele entra no campo “Tem um cupom?” do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
+          "Como conseguir desconto na primeira compra na Rituária? Não há código à parte para cliente novo: o mesmo EMCASA vale já no primeiro pedido, nas compras seguintes e em todas as formas de pagamento.",
           "Qual cupom vale para quem já é cliente? O mesmo EMCASA, sem trocar de código. Confira a linha Descontos no resumo de cada pedido.",
           "O cupom soma com produto em promoção? No nosso teste, sim: os 10% entraram sobre o preço promocional dos produtos. A conta está no capítulo sobre quanto o cupom tira.",
           "Onde coloco o cupom na primeira compra? No campo “Tem um cupom?” do checkout, depois de colocar os produtos no carrinho. Os passos estão no capítulo de como aplicar."
@@ -264069,7 +264102,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "O produto já estava na sua lista antes da campanha.",
         "O total com o frete do seu CEP fecha no resumo do checkout.",
-        "O código aparece na linha Cupom do resumo antes de você pagar."
+        "Você quer somar os 10% do CECILIA ao preço da campanha: nos nossos testes, o código entrou por cima dos preços da Black Friday."
       ],
       "skipIf": [
         "A compra só faz sentido pelo preço riscado, o “de”.",
@@ -264204,7 +264237,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Conta nossa: o cupom tirou 10% do total dos produtos, já com os preços da campanha. Somou nos nossos testes."
-        ]
+        ],
+        "emphasis": "Nos dois carrinhos testados o CECILIA entrou por cima do preço da Black Friday, e quem já tem o produto escolhido deve fechar a conta pelo total com frete que o resumo mostra."
       },
       {
         "heading": "Como aplicar o cupom",
@@ -264265,6 +264299,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, também sobre os preços da Black Friday. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
           "A Adaptogen tem Black Friday? Tem uma coleção própria no site, com 57 produtos, e um banner na home. A loja não publica regulamento nem data de fim.",
           "O cupom CECILIA vale na Black Friday da Adaptogen? Nos nossos testes, somou com os preços da campanha. Confira a linha Cupom no resumo do checkout antes de pagar.",
           "O cupom soma com o Pix? O CECILIA vale também no Pix e soma com os 5% que a loja anuncia para essa modalidade. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento.",
@@ -264442,7 +264477,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Informe seu CEP e confira o frete no resumo do pedido antes de pagar."
-        ]
+        ],
+        "emphasis": "Com o produto já escolhido, vale digitar o CECILIA: os 10% entraram sobre o preço da Black Friday, e o que ainda pode mudar a conta é o frete do seu CEP."
       },
       {
         "heading": "Se o código não entrar",
@@ -264461,14 +264497,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Onde coloco o cupom na Adaptogen? No checkout do site oficial, no campo Cupom de desconto do resumo. Clique em Aplicar e confira a linha Cupom.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
+          "Onde coloco o cupom na Adaptogen? No checkout, que abre em Finalizar Compra na sacola, dentro do campo Cupom de desconto do resumo. Clique em Aplicar e confira a linha Cupom.",
           "O cupom CECILIA soma com a Black Friday? Nos nossos testes, somou com os preços da campanha. Os preços mudam, então confira a linha Cupom antes de pagar.",
           "O cupom vale para quem já é cliente? Vale. O CECILIA serve para cliente novo e antigo. Quem compra pela primeira vez pode ler o [guia da primeira compra na Adaptogen](/reviews/cupom-adaptogen-primeira-compra).",
           "O cupom vale no Mercado Livre ou na Amazon? O código é do site oficial da Adaptogen e entra no checkout de lá. Não conferimos a venda nos marketplaces, então não dizemos se a marca vende lá.",
           "O cupom soma com o Pix? O CECILIA vale também no Pix e soma com os 5% que a loja anuncia para essa modalidade. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você já escolheu o produto e quer abater 10% no checkout, sendo cliente novo ou antigo.",
+        "Você quer o desconto por cima do preço da Black Friday: nos nossos testes, o código entrou sobre os preços da campanha."
+      ],
+      "skipIf": [
+        "Você procura um cupom de 20% ou 30%: o nosso é de 10%.",
+        "Você precisa de um total fechado sem olhar o frete: o grátis muda com o CEP e com o mínimo da região."
+      ]
+    }
   },
   {
     "id": 1057,
@@ -264520,13 +264567,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer comparar os produtos pela composição declarada, pelo tamanho da porção e pelo preço com o cupom.",
-        "Você já sabe qual suplemento procura e quer conferir as diferenças entre as linhas antes de comprar."
+        "Você quer comparar whey por custo de proteína: o Gold Whey tem o menor por 100 g entre os três cujas páginas não citam colágeno.",
+        "Você procura um isolado descrito como zero lactose e aceita pagar mais por 100 g de proteína no Tasty Iso."
       ],
       "skipIf": [
-        "Você espera resultado só do suplemento.",
-        "Você tem restrição alimentar e ainda não conferiu o glúten e a lactose do sabor escolhido.",
-        "Você está comparando pacotes sem olhar a proteína por dose."
+        "Você quer saber de sabor e digestão antes de comprar: o guia fica na composição e no preço.",
+        "Você evita glúten e escolheria o Cookies and Cream do Tasty Whey 3W ou do Tasty Iso, que as páginas dizem conter glúten.",
+        "Você pensa em levar o HIT só pelo preço: a loja não informa quanto da proteína vem do colágeno."
       ]
     },
     "contentSections": [
@@ -264761,14 +264808,15 @@ export const reviewsData: unknown[] = [
           "**Procura uma opção declarada zero lactose:** Tasty Iso, segundo a página. Confira o rótulo do sabor escolhido; Cookies and Cream contém glúten.",
           "Considera o [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) pelo preço: ele combina whey e colágeno. A proporção não informada impede calcular quanto se paga pela proteína de whey.",
           "**Creatina saborizada ou sem sabor:** a [Flavor](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) oferece 81 porções com 3 g de creatina; a [Platinum](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA) de 300 g declara 100 porções de 3 g e tem o menor custo por porção entre essas duas."
-        ]
+        ],
+        "emphasis": "Pelos números das tabelas, quem decide pelo menor custo por 100 g de proteína sem colágeno leva o Gold Whey, e o Tasty Iso só compensa para quem quer o isolado zero lactose e aceita pagar mais."
       },
       {
         "heading": "Antes de começar e o que não dá para saber daqui",
         "paragraphs": [
           "As porções citadas são as dos rótulos e servem às contas de preço, não à indicação de quanto tomar.",
           "Quem tem alguma condição de saúde, toma remédio, está grávida ou amamenta fala com médico ou nutricionista antes de usar.",
-          "Sabor e digestão ficam fora: não usamos os produtos, e as páginas que lemos não tinham avaliações de clientes.",
+          "Sabor e digestão ficam fora deste guia, e as páginas que lemos não tinham avaliações de clientes.",
           "A tabela que lemos é a imagem da página. Confira a tabela impressa e a lista de ingredientes da embalagem que chega antes de usar.",
           "A loja informa 7 dias corridos, a contar do recebimento, para desistir da compra, com o produto lacrado, sem uso e com nota fiscal. Para defeito, o prazo é de 30 dias. A expedição sai em até 2 dias úteis depois do pagamento confirmado."
         ]
@@ -264776,11 +264824,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Adaptogen é uma boa marca de whey? Este guia compara composição e preço, sem avaliação de uso. Entre os três produtos cujas páginas não citam colágeno, o Gold tem o menor custo por 100 g de proteína; o Tasty Iso é descrito como zero lactose. O HIT mistura whey e colágeno, sem proporção informada.",
+          "A Adaptogen é uma boa marca de whey? Este guia compara composição e preço. Entre os três produtos cujas páginas não citam colágeno, o Gold tem o menor custo por 100 g de proteína; o Tasty Iso é descrito como zero lactose. O HIT mistura whey e colágeno, sem proporção informada.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
           "O Tasty Whey é isolado ou concentrado? É um 3W, que mistura concentrado, isolado e hidrolisado. A página não diz a proporção de cada um.",
           "O HIT Protein é whey? Segundo a página, é whey concentrado com peptídeos de colágeno hidrolisado. A loja não informa quanto dos 20 g por dose vem do colágeno.",
-          "A creatina da Adaptogen é monohidratada? As páginas da Creatina Flavor e da Platinum Series dizem que sim.",
-          "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout."
+          "A creatina da Adaptogen é monohidratada? As páginas da Creatina Flavor e da Platinum Series dizem que sim."
         ]
       }
     ]
@@ -264908,7 +264956,8 @@ export const reviewsData: unknown[] = [
           "Na segunda compra, digite o mesmo CECILIA no mesmo campo do checkout: o código vale para cliente novo e antigo, sem exigir pedido anterior nem cadastro à parte. Depois de Aplicar, confira o aviso Cupom aplicado e a linha Cupom no resumo, como no primeiro pedido.",
           "O desconto também vale sobre produto em promoção: nos nossos testes, os 10% entraram sobre o preço da Black Friday. Se o preço do carrinho mudar de um pedido para o outro, o que vale é o total que o resumo mostra naquele dia.",
           "A loja anuncia 5% de desconto no Pix e no boleto, e o CECILIA vale também nessas modalidades e soma com esse desconto; a etapa de pagamento pede login e não foi aberta nos nossos testes. A loja informa ainda que o Adapto Cash devolve 3% do valor da compra em crédito para as próximas. A página do programa não fala de cupom."
-        ]
+        ],
+        "emphasis": "Não existe código separado para o primeiro pedido: o CECILIA, com 10% OFF, vale na primeira compra e nas seguintes, e o resumo do checkout é a prova do desconto."
       },
       {
         "heading": "Primeiro pedido: o que conferir",
@@ -264929,13 +264978,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem cupom Adaptogen de primeira compra? Sim: use CECILIA para ter 10% OFF no site oficial, no campo Cupom de desconto do checkout. Ele também vale nas compras seguintes.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
+          "Tem cupom Adaptogen de primeira compra? Sim, e é o mesmo das compras seguintes: o CECILIA vale no primeiro pedido, sem cadastro à parte.",
           "Qual cupom vale para quem já é cliente? O mesmo CECILIA, no mesmo campo do checkout. Confira a linha Cupom no resumo de cada pedido.",
           "O cupom soma com produto em promoção? Nos nossos testes, sim: os 10% entraram sobre o preço promocional dos carrinhos.",
           "Onde coloco o cupom na primeira compra? No campo Cupom de desconto do checkout, depois de colocar os produtos na sacola. Os passos estão na seção de como aplicar."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai fazer o primeiro pedido na Adaptogen e já sabe quais produtos quer levar.",
+        "Você já comprou lá e quer saber se o mesmo código serve de novo: serve, sem exigir pedido anterior nem cadastro à parte."
+      ],
+      "skipIf": [
+        "Você procura um cupom exclusivo de primeira compra: o CECILIA é o mesmo para cliente novo e antigo.",
+        "Você ainda não escolheu o produto e quer decidir pelo desconto: o código só entra com itens no carrinho, e o total com frete vem do seu CEP."
+      ]
+    }
   },
   {
     "id": 1059,
@@ -266265,16 +266325,17 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Por preço de proteína, a Adaptogen fica à frente nos três pares, mesmo com os totais de cartão menores da Dux. Sem o cupom, a diferença calculada é de cerca de 39% no concentrado, 41% no Tasty 3W contra FreshWhey e 27% no isolado; com CECILIA, passa a 45%, 47% e 34%.",
           "A Dux entra na escolha quando você procura uma variação Neutro ou um dos formatos que a página lista. No frete grátis, ela anuncia mínimo menor no Norte e no Nordeste. Compare a variação disponível e o total com CEP antes de decidir; os números não avaliam sabor, digestão ou resultado de uso."
-        ]
+        ],
+        "emphasis": "Pelos números das tabelas, quem decide pelo preço da proteína leva a Adaptogen nos três pares, e a Dux só entra pelo sabor Neutro ou pelos formatos menores e o pote de 1,8 kg."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Adaptogen ou Dux: qual whey tem mais proteína por dose? Pelas tabelas das páginas, a Adaptogen: 21 g no Gold Whey, 24 g no Tasty Whey 3W e 25 g no Tasty Iso. A Dux tem 20 g no concentrado e no FreshWhey, e 24 g no isolado. As doses não têm o mesmo tamanho: a do Tasty Whey 3W é de 34 g e a do isolado da Dux, de 29 g.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento, inclusive Pix e boleto, para os quais a loja anuncia 5%. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor. A Dux não é parceira e não tem cupom nosso.",
           "Qual sai mais barato por 100 g de proteína? Na nossa conta, a Adaptogen, nos três pares, mesmo sem o cupom, e a diferença aumenta com o cupom CECILIA na Adaptogen.",
           "Tasty Whey ou o concentrado da Dux? São tipos de whey diferentes: o Tasty Whey 3W junta concentrado, isolado e hidrolisado, pela página da Adaptogen, e o equivalente na Dux é o FreshWhey. Contra o concentrado da Dux, o Tasty tem 24 g de proteína em 34 g, e o concentrado, 20 g em 30 g; por 100 g de proteína, R$ 42,53 contra R$ 58,48, no cartão.",
-          "Qual das duas tem whey sem lactose? Da Adaptogen, o Tasty Iso, que a página descreve como zero lactose. Os três wheys da Dux desta comparação contêm lactose, pela página dela. Confira o glúten no rótulo do sabor: o Cookies and Cream do Tasty Iso tem glúten.",
-          "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. A Dux não é parceira e não tem cupom nosso."
+          "Qual das duas tem whey sem lactose? Da Adaptogen, o Tasty Iso, que a página descreve como zero lactose. Os três wheys da Dux desta comparação contêm lactose, pela página dela. Confira o glúten no rótulo do sabor: o Cookies and Cream do Tasty Iso tem glúten."
         ]
       }
     ],
@@ -266664,16 +266725,17 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se o critério é custo por proteína nos wheys comparados, a escolha é a Growth. Para zero lactose, ela também tem uma opção declarada e mais barata que o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) nesta conta.",
           "A Adaptogen entra por uma preferência concreta: um sabor anunciado do Tasty, a escolha específica do Tasty Iso ou a proteína de carne da [Beef](https://www.adaptogen.com.br/produto/100-beef-900g-150200?parceiro=CECILIA), que não encontramos no catálogo da Growth. Isso não comprova melhor sabor, digestão ou resultado. Confira o rótulo, a variação disponível e o total entregue antes de decidir."
-        ]
+        ],
+        "emphasis": "Pelos números das tabelas, quem decide pelo menor custo por 100 g de proteína leva a Growth nos quatro pares, e a Adaptogen só entra por preferência concreta: o sabor do Tasty, o Tasty Iso ou a proteína de carne."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Tasty Whey ou Growth: qual tem mais proteína por dose? Entre os dois 3W, a proteína é igual por dose, 24 g, mas a dose da Growth é de 30 g e a da Adaptogen, de 34 g. Por 100 g de pó, o 3W da Growth tem 80 g de proteína, e o Tasty Whey, 71 g, conta nossa com os rótulos.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento, inclusive Pix e boleto, para os quais a loja anuncia 5%. Cole no campo Cupom de desconto do checkout e confira os dois descontos no resumo; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
           "Qual das duas tem whey sem lactose? Da Adaptogen, o Tasty Iso, que a página descreve como zero lactose. Da Growth, o Whey Protein Zero Lactose, com 0 g de lactose pela página; o isolado da Growth contém lactose. Confira o rótulo do sabor: o Cookies and Cream do Tasty Iso tem glúten.",
           "A Growth tem proteína de carne? Não encontramos proteína de carne no site da Growth. A Adaptogen vende a 100% Beef, com 25 g de proteína em cada dose de 32 g.",
-          "Gold Whey ou o concentrado da Growth? Pelo rótulo, são parecidos: 21 g de proteína em 30 g, com 115 kcal no Gold e 121 kcal no concentrado da Growth. Por 100 g de proteína, a Growth sai mais barata: R$ 21,15 contra R$ 35,47 do Gold no cartão, ou R$ 31,93 com o CECILIA.",
-          "Tem cupom para a Adaptogen? Sim: o cupom CECILIA na Adaptogen dá 10% OFF no site oficial, no campo Cupom de desconto do checkout. Ele vale também no Pix e no boleto, para os quais a loja anuncia 5%; confira os dois descontos no resumo."
+          "Gold Whey ou o concentrado da Growth? Pelo rótulo, são parecidos: 21 g de proteína em 30 g, com 115 kcal no Gold e 121 kcal no concentrado da Growth. Por 100 g de proteína, a Growth sai mais barata: R$ 21,15 contra R$ 35,47 do Gold no cartão, ou R$ 31,93 com o CECILIA."
         ]
       }
     ]
@@ -310323,12 +310385,12 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você quer um isolado que a Adaptogen anuncia como zero lactose na maioria dos sabores, confere o rótulo do sabor escolhido e aceita pagar mais por 100 g de proteína.",
-        "Você vai conferir o rótulo do lote e do sabor antes de usar."
+        "Você quer evitar lactose e glúten e aceita pagar mais: as páginas do Pure e do Naturalle trazem zero lactose e zero glúten, e o Pure vem sem sabor."
       ],
       "skipIf": [
         "O seu critério é o menor preço por proteína: na conta, o Tasty Whey 3W e o Gold Whey da marca ficam abaixo.",
         "Você precisa evitar glúten e escolheria o Cookies & Cream do pote ou o Cookies do Bag, que as páginas dizem conter glúten.",
-        "Você espera resultado apenas do suplemento, sem orientação nutricional."
+        "Você quer saber de sabor, textura e digestão antes de comprar: este guia fica na composição e no preço."
       ]
     },
     "contentSections": [
@@ -310480,7 +310542,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 1,
             "href": "https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA"
           }
-        ]
+        ],
+        "emphasis": "Pelos três carrinhos com o CECILIA, quem decide pelo menor custo por 100 g de proteína leva o Gold Whey, e o Tasty Iso só se justifica para quem quer o isolado e aceita pagar mais por ele."
       },
       {
         "heading": "Antes de começar e o que não dá para saber daqui",
@@ -310493,8 +310556,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O Tasty Iso é isolado ou concentrado? A página o descreve como proteína isolada e hidrolisada, processada a frio.",
+          "Qual é o cupom da Adaptogen? É o CECILIA, com 10% OFF no site oficial, para cliente novo e antigo. Cole no campo Cupom de desconto do checkout; a página do [cupom Adaptogen](/cupons/adaptogen) traz o código em vigor.",
           "O Tasty Iso tem zero lactose? A lista de sabores da página do 900 g marca zero lactose em todos, mas outro trecho fala em “a maioria dos sabores”: confira o rótulo do sabor. O Cookies & Cream contém glúten, e os demais são descritos como sem glúten.",
-          "Tem cupom para o Tasty Iso? Sim: o cupom CECILIA dá 10% OFF no site da Adaptogen, digitado no campo Cupom de desconto do checkout."
+          "Tem cupom para o Tasty Iso? Sim, o mesmo para todos os produtos: nos carrinhos de teste, o CECILIA valeu para o Tasty Iso, o Tasty Whey 3W e o Gold Whey."
         ]
       }
     ]
@@ -310587,7 +310651,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para que serve o Brain+, segundo a loja",
         "paragraphs": [
-          "A Rituária vende o Brain+ como suplemento alimentar para foco e concentração, sem cafeína: o nome do produto na loja é “Nootrópico para melhora do foco sem cafeína”. A página diz que as vitaminas B6 e B12 “auxiliam no funcionamento do sistema nervoso e no metabolismo energético”. Essas indicações são da loja; não tomamos o produto.",
+          "A Rituária vende o Brain+ como suplemento alimentar para foco e concentração, sem cafeína: o nome do produto na loja é “Nootrópico para melhora do foco sem cafeína”. A página diz que as vitaminas B6 e B12 “auxiliam no funcionamento do sistema nervoso e no metabolismo energético”. Essas indicações são da loja.",
           "Para comparar com outros suplementos, use a lista de ingredientes e as quantidades por porção. As [perguntas frequentes da Anvisa sobre suplementos alimentares](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/perguntas-frequentes) explicam como ler o rótulo."
         ]
       },
@@ -310611,6 +310675,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Preço, kits e preço por dia",
+        "emphasis": "Com o Leve 3, Pague 2 no ar, três frascos avulsos com o EMCASA têm o menor custo por dia entre as opções da tabela; sem a promoção, o kit 3x é o que baixa esse custo.",
         "paragraphs": [
           "No carrinho com um Brain+ avulso, o [cupom Rituária](/cupons/rituaria) EMCASA tirou R$ 6,99 do total de R$ 69,90, e o valor foi para R$ 62,91. Os 10% entram no campo “Tem um cupom?” do checkout; o passo a passo está no [guia do cupom EMCASA](/reviews/cupom-rituaria-como-usar).",
           "O checkout também mostra um aviso da loja de 5% de desconto no Pix, que não entra nas contas deste capítulo."
@@ -310696,7 +310761,8 @@ export const reviewsData: unknown[] = [
           "Como tomar o Brain+? A orientação publicada pela Rituária é de 2 cápsulas ao dia com um copo de água, de preferência pela manhã.",
           "Gestante pode tomar o Brain+? Converse com quem acompanha a gestação ou a amamentação antes de usar o suplemento.",
           "Vale mais o kit 3x ou três frascos avulsos? Com a promoção Leve 3, Pague 2 da loja no ar, três avulsos saem mais baratos que o kit 3x: no teste, o total foi de R$ 125,82 com o EMCASA, contra R$ 170,91 do kit 3x com o cupom (conta nossa). Sem a promoção, o kit 3x tem o menor custo por dia.",
-          "Tem cupom para o Brain+? O EMCASA dá 10% OFF na Rituária e foi aplicado no carrinho do Brain+ avulso e no de três frascos com o Leve 3, Pague 2. Digite o código no campo de cupom do checkout e confira a linha do desconto antes de pagar."
+          "Qual é o cupom da Rituária? É o EMCASA, com 10% OFF no site oficial, para cliente novo e antigo e em todas as formas de pagamento. Ele entra no campo Tem um cupom? do checkout, e as condições estão na página do [cupom Rituária](/cupons/rituaria).",
+          "Tem cupom para o Brain+? O EMCASA foi aplicado no carrinho do Brain+ avulso, de R$ 69,90 para R$ 62,91, e no de três frascos com o Leve 3, Pague 2, que fechou em R$ 125,82. Confira a linha do desconto no checkout antes de pagar."
         ]
       }
     ]
