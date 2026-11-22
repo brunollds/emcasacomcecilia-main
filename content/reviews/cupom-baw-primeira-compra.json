@@ -136,6 +136,16 @@
       "paragraphs": [
         "O código é o mesmo. O BAWEMCASACOMCECILIA vale para cliente novo e para cliente antigo, então é ele que você digita no pedido seguinte.",
         "Em cada pedido, confira a linha Cupom no resumo antes de pagar. Se ela não aparecer, não pague e avise pelo [contato do site](/contato)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/baw/cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+          "alt": "Modelo com a Camiseta Regular Pima preta da BAW Clothing, lisa, em foto oficial da loja",
+          "caption": "Camiseta Regular Pima, uma das peças do teste do código. Foto: BAW Clothing.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.bawclothing.com.br/produto/camiseta-regular-pima-150365"
+        }
       ]
     },
     {

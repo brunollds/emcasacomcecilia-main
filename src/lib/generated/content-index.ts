@@ -248752,6 +248752,16 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O código é o mesmo. O BAWEMCASACOMCECILIA vale para cliente novo e para cliente antigo, então é ele que você digita no pedido seguinte.",
           "Em cada pedido, confira a linha Cupom no resumo antes de pagar. Se ela não aparecer, não pague e avise pelo [contato do site](/contato)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/cupom-baw-primeira-compra-camiseta-regular-pima.webp",
+            "alt": "Modelo com a Camiseta Regular Pima preta da BAW Clothing, lisa, em foto oficial da loja",
+            "caption": "Camiseta Regular Pima, uma das peças do teste do código. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/camiseta-regular-pima-150365"
+          }
         ]
       },
       {
@@ -248918,12 +248928,12 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/baw/black-friday-baw-camiseta-selfie-logo.webp",
-            "alt": "Modelo com a Camiseta Regular Selfie Logo off white da BAW Clothing, com o nome da marca pequeno no peito, em foto oficial da loja",
-            "caption": "Camiseta Regular Selfie Logo, na cor off white. Foto: BAW Clothing.",
+            "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-br-regular-logo.webp",
+            "alt": "Modelo com a Camiseta BR Regular Logo preta da BAW Clothing, com o logo pequeno no peito, em foto oficial da loja",
+            "caption": "Camiseta BR Regular Logo, na cor preta. Foto: BAW Clothing.",
             "objectFit": "contain",
             "aspectRatio": 0.667,
-            "href": "https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490"
+            "href": "https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962"
           },
           {
             "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
@@ -296144,6 +296154,16 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O tênis mais barato da Pace custa R$ 290 a mais que o mais caro da BAW. São duas faixas, e a escolha depende de quanto você quer gastar e do que procura em cada peça.",
           "A Pace também tem jaquetas, que ficaram fora da tabela. Os preços de cada marca mudam por cor e por campanha, então confirme na página antes de fechar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/baw/baw-ou-pace-bermuda-jeans-regular-logo.webp",
+            "alt": "Modelo com a Bermuda Jeans Regular Logo preta da BAW Clothing, camiseta branca e coturno preto, em foto oficial da loja",
+            "caption": "Bermuda Jeans Regular Logo, da BAW. Foto: BAW Clothing.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153451"
+          }
         ]
       },
       {

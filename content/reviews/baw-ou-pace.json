@@ -106,6 +106,16 @@
       "postParagraphs": [
         "O tênis mais barato da Pace custa R$ 290 a mais que o mais caro da BAW. São duas faixas, e a escolha depende de quanto você quer gastar e do que procura em cada peça.",
         "A Pace também tem jaquetas, que ficaram fora da tabela. Os preços de cada marca mudam por cor e por campanha, então confirme na página antes de fechar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/baw/baw-ou-pace-bermuda-jeans-regular-logo.webp",
+          "alt": "Modelo com a Bermuda Jeans Regular Logo preta da BAW Clothing, camiseta branca e coturno preto, em foto oficial da loja",
+          "caption": "Bermuda Jeans Regular Logo, da BAW. Foto: BAW Clothing.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153451"
+        }
       ]
     },
     {
