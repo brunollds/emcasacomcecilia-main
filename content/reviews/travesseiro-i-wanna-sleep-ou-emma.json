@@ -17,6 +17,7 @@
   "metaDescription": "O cupom CECIEMCASA dá 10% de desconto no site da I Wanna Sleep. Travesseiro I Wanna Sleep ou Emma: altura, firmeza, teste de noites, garantia e preço.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/iwannasleep/travesseiro-i-wanna-sleep-ou-emma-capa-v2.webp",
@@ -33,10 +34,10 @@
     {
       "heading": "Os travesseiros lado a lado",
       "paragraphs": [
-        "Comparamos o Snow, o Coluna Relax e o Original Látex da I Wanna Sleep, quatro modelos da Emma e dois da Ortobom. Preços e condições são dos sites oficiais em 12/10/2026 e mudam com as promoções, então confira o teste e a troca no site de cada marca antes de comprar."
+        "Comparamos o Snow, o Coluna Relax e o Original Látex da I Wanna Sleep, quatro modelos da Emma e dois da Ortobom. Os preços da I Wanna Sleep são os da página da loja em novembro de 2026; os de Emma e Ortobom, dos sites oficiais em outubro de 2026. Todos mudam com as promoções, então confira o teste e a troca no site de cada marca antes de comprar."
       ],
       "comparisonTable": {
-        "caption": "Dados dos sites oficiais em 12/10/2026, sem códigos de desconto. Na Emma, é o preço exibido na lista de travesseiros.",
+        "caption": "I Wanna Sleep: preço da página, com o preço de lista riscado entre parênteses quando há. Emma e Ortobom: sites oficiais, sem códigos de desconto; na Emma, é o preço exibido na lista de travesseiros.",
         "headers": [
           "Modelo",
           "Material",
@@ -47,28 +48,28 @@
         ],
         "rows": [
           [
-            "I Wanna Sleep Snow",
+            "[I Wanna Sleep Snow](https://www.iwannasleep.com.br/products/travesseiro-snow)",
             "Flocos de memory foam, gel e fibra de bambu",
             "Chega com 18 cm; você tira o enchimento",
             "Não informada",
             "30 dias de teste, com crédito para troca",
-            "R$ 347 (de R$ 419) no Regular, de 50 × 70 cm; R$ 390 (de R$ 459) no Plus, de 50 × 90 cm"
+            "R$ 335 (de R$ 419) no Regular, de 50 × 70 cm; até R$ 376 no Plus, de 50 × 90 cm"
           ],
           [
-            "I Wanna Sleep Cervical Coluna Relax",
-            "Ergonômico, com carvão ativado",
+            "[I Wanna Sleep Cervical Coluna Relax](https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1)",
+            "Ergonômico, côncavo ondulado",
             "Não informado",
             "Não informada",
             "30 dias de teste, com crédito para troca",
-            "R$ 214 (de R$ 259)"
+            "R$ 207 (de R$ 259)"
           ],
           [
-            "I Wanna Sleep Original Látex",
+            "[I Wanna Sleep Original Látex](https://www.iwannasleep.com.br/products/travesseiro-iws-original-latex)",
             "100% látex natural",
             "Três alturas fixas: 11, 13 e 15 cm",
             "Não informada",
             "30 dias de teste, com crédito para troca",
-            "R$ 248, R$ 262 e R$ 374, conforme a altura"
+            "De R$ 241 a R$ 361 (de R$ 327), conforme a altura"
           ],
           [
             "Emma Antiestress",
@@ -124,9 +125,9 @@
     {
       "heading": "I Wanna Sleep: Snow, Coluna Relax e Original Látex",
       "paragraphs": [
-        "O Snow chega com a altura máxima, de 18 cm, e você retira os flocos de memory foam até achar a altura mais confortável para você. Ele vem em dois tamanhos: Regular, de 50 × 70 cm, e Plus, de 50 × 90 cm.",
-        "O Original Látex tem três alturas fixas, escolhidas na compra: 11, 13 e 15 cm. O Cervical Coluna Relax é ergonômico, com carvão ativado.",
-        "Para comparar as outras linhas da marca, como as de pluma e o Airgelly, veja o nosso guia das linhas."
+        "O [Snow](https://www.iwannasleep.com.br/products/travesseiro-snow) chega com a altura máxima, de 18 cm, e você retira os flocos de memory foam até achar a altura mais confortável para você. Ele vem em dois tamanhos: Regular, de 50 × 70 cm, e Plus, de 50 × 90 cm, e o preço da página vai de R$ 335 a R$ 376.",
+        "O [Original Látex](https://www.iwannasleep.com.br/products/travesseiro-iws-original-latex) tem três alturas fixas, escolhidas na compra: 11, 13 e 15 cm, a partir de R$ 241. O [Cervical Coluna Relax](https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1) é ergonômico, de formato ondulado, e custa R$ 207.",
+        "O teste de 30 dias vale para os três, e o frete é grátis em compras acima de R$ 150, o que já cobre qualquer um deles sozinho. Para comparar as outras linhas da marca, como as de pluma e o Airgelly, veja o nosso guia das linhas."
       ],
       "images": [
         {
@@ -146,6 +147,21 @@
         {
           "label": "Qual travesseiro escolher? O guia das linhas I Wanna Sleep",
           "href": "/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
+        },
+        {
+          "label": "Travesseiro IWS Snow",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-snow",
+          "sponsored": true
+        },
+        {
+          "label": "Travesseiro IWS Original Látex",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-iws-original-latex",
+          "sponsored": true
+        },
+        {
+          "label": "Cervical Coluna Relax",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1",
+          "sponsored": true
         }
       ]
     },
@@ -167,7 +183,8 @@
       "heading": "Ortobom: preço menor, teste não informado",
       "paragraphs": [
         "Os dois modelos da Ortobom são os mais baratos entre os comparados: Viscopur a R$ 169 e Conforto Regulável a R$ 159. O Viscopur é descrito como viscoelástico e firme; o Conforto Regulável, como fibra siliconada, macio e regulável.",
-        "As páginas dos dois informam garantia de 90 dias e não mencionam noites de teste."
+        "As páginas dos dois informam garantia de 90 dias e não mencionam noites de teste.",
+        "Na prática, a diferença de preço para a I Wanna Sleep é grande, e ela vem junto com uma diferença de política: na Ortobom você paga menos e decide pela ficha, sem um programa de adaptação informado; na I Wanna Sleep, paga mais e ganha 30 dias de teste com crédito para troca. Para quem já sabe que gosta de viscoelástico firme, o Viscopur é uma entrada barata; para quem quer ajustar a altura, o Conforto Regulável é o análogo da Ortobom ao Snow, com duas alturas em vez de flocos soltos."
       ]
     },
     {
@@ -202,7 +219,7 @@
     {
       "heading": "Preço e cupom da I Wanna Sleep",
       "paragraphs": [
-        "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% de desconto no site da marca, e o desconto pode variar de uma campanha para outra. Emma e Ortobom não são parceiras do site, e não temos código para elas."
+        "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% de desconto no site da marca, para cliente novo e antigo, e soma com as promoções e com os 5% do Pix mostrados na página do produto. O desconto pode variar de uma campanha para outra. Com o código, o Snow Regular, por exemplo, sai de R$ 335 para R$ 301,50 pela nossa conta, sem frete. Emma e Ortobom não são parceiras do site, e não temos código para elas."
       ],
       "links": [
         {
@@ -212,13 +229,19 @@
         {
           "label": "Black Friday I Wanna Sleep 2026",
           "href": "/reviews/black-friday-i-wanna-sleep"
+        },
+        {
+          "label": "Ver o Travesseiro IWS Snow na loja",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-snow",
+          "sponsored": true
         }
       ]
     },
     {
       "heading": "Dor no pescoço: procure um profissional",
       "paragraphs": [
-        "Travesseiro é escolha de conforto. Dor no pescoço que não passa, formigamento nos braços ou hérnia cervical pedem a avaliação de um ortopedista ou fisioterapeuta antes da troca."
+        "Travesseiro é escolha de conforto. Dor no pescoço que não passa, formigamento nos braços ou hérnia cervical pedem a avaliação de um ortopedista ou fisioterapeuta antes da troca.",
+        "Sem esse quadro, o caminho é testar: use o travesseiro novo por pelo menos 15 dias, que é o mínimo que a I Wanna Sleep pede para aceitar a troca, e só então decida. Se for mexer na altura, mude pouco de cada vez, tirando ou pondo um pouco de enchimento no Snow ou uma camada na Emma, em vez de trocar de modelo no primeiro desconforto."
       ]
     },
     {

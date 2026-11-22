@@ -121,10 +121,13 @@
     {
       "heading": "Ficha técnica: dose, calorias e conteúdo do pote",
       "paragraphs": [
-        "Estas são as características informadas na página oficial para a Melatonina Gummy IWS:"
+        "Estas são as características informadas na página oficial para a Melatonina Gummy IWS:",
+        "O pote traz 30 gomas sabor maracujá doce, e cada uma tem 0,21 mg de melatonina e 8 kcal. A porção indicada pela marca é 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica. A IWS informa zero açúcar, sem glúten e zero lactose.",
+        "Os 0,21 mg são o limite diário que a Anvisa autoriza em suplemento de melatonina para adultos, então a dose do rótulo não passa disso. A ficha não traz promessa de efeito no sono, e quem tem enfermidade, usa medicamento ou tem dúvida deve consultar um profissional de saúde antes de consumir.",
+        "Os dados abaixo vêm da página oficial do produto. Confira sempre o rótulo do pote que chegar, porque a composição pode mudar."
       ],
       "comparisonTable": {
-        "caption": "Ficha técnica da Melatonina Gummy IWS, página oficial em 26/08/2026",
+        "caption": "Ficha técnica da Melatonina Gummy IWS, página oficial",
         "headers": [
           "Característica",
           "Informação oficial"
@@ -177,7 +180,7 @@
     {
       "heading": "O que vem na compra e como funciona o Sleeptest",
       "paragraphs": [
-        "A unidade do produto corresponde a 1 pote com 30 gummies sabor maracujá doce. A loja também pode oferecer conjuntos com mais potes, mas preço, estoque e composição dos kits são condições comerciais variáveis; confirme tudo no carrinho.",
+        "A unidade do produto corresponde a 1 pote com 30 gummies sabor maracujá doce. A loja também oferece conjuntos com mais potes, mas preço, estoque e composição dos kits mudam: a Gummy e os kits de 3 e 5 potes estavam esgotados na consulta de novembro, então confirme a disponibilidade na página.",
         "O [Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest) da linha de nutrição vale por 30 dias desde a entrega e exige uso mínimo de 15 dias. Dentro dessas condições, a política prevê crédito de troca, não reembolso, com envio pelos Correios. Confira as condições completas na política da IWS."
       ]
     },
@@ -234,32 +237,5 @@
       "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao"
     }
   ],
-  "gallery": [
-    {
-      "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-hero.webp",
-      "alt": "Pote de Melatonina Gummy IWS sabor maracujá doce",
-      "caption": "Apresentação do pote de 30 gomas sabor maracujá doce."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-maracuja.webp",
-      "alt": "Melatonina Gummy IWS com maracujás e gomas",
-      "caption": "O produto combina formato mastigável e sabor maracujá doce."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-como-usar.webp",
-      "alt": "Goma sendo colocada no pote da Melatonina Gummy IWS",
-      "caption": "Cada unidade corresponde à porção diária indicada pela marca."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
-      "alt": "Close da goma de Melatonina IWS entre os dedos",
-      "caption": "A aparência de goma exige cuidado para manter o produto longe de crianças."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-caracteristicas.png",
-      "alt": "Características nutricionais da Melatonina Gummy IWS",
-      "caption": "A marca informa sabor maracujá doce, zero açúcar, ausência de glúten e lactose."
-    }
-  ],
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-22"
 }

@@ -2,7 +2,7 @@
   "id": 227,
   "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
   "title": "Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeira noite",
-  "seoTitle": "Cobertor Igloo IWS é bom? O lado gelado na prática e tamanhos",
+  "seoTitle": "Cobertor Igloo IWS é bom? Dupla face e tamanhos",
   "type": "Editorial",
   "category": "produtos-experiencias",
   "reviewKind": "editorial",
@@ -24,18 +24,6 @@
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
-  "gallery": [
-    {
-      "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
-      "alt": "Ilustração do Cobertor IWS Igloo sobre a cama, com metade em luz azul (lado frio) e metade em luz laranja (lado quente)",
-      "caption": "A proposta dual-face do Igloo: um lado gelado, um lado quente, na mesma peça."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-2.webp",
-      "alt": "Grade com as seis tecnologias do Cobertor IWS Igloo: Ice-Feel Fiber System, Warm-Feel Fiber System, Dual-Face Technology, Silk-Glide Surface, Balance System e Air-Flow System",
-      "caption": "As seis tecnologias da marca por trás do Cobertor IWS Igloo."
-    }
-  ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -86,7 +74,8 @@
     {
       "heading": "Materiais e composição",
       "paragraphs": [
-        "O lado frio é composto por 90% poliamida e 10% elastano. O lado quente é composto por 92% poliéster e 8% elastano. Essa troca de tecido entre as faces é o que muda a sensação térmica, diz a marca."
+        "O lado frio é composto por 90% poliamida e 10% elastano. O lado quente é composto por 92% poliéster e 8% elastano. Essa troca de tecido entre as faces é o que muda a sensação térmica, diz a marca.",
+        "Na prática, cada face é um tecido diferente, e não o mesmo tecido tratado de dois jeitos. É por isso que o toque muda tão rápido quando a peça é virada. A composição vem da ficha da marca e não foi medida por nós; a etiqueta da peça é a referência final."
       ],
       "bullets": []
     },
@@ -98,12 +87,16 @@
       "bullets": [
         "Casal/Queen: 220 × 240 cm, com aproximadamente 2,06 kg.",
         "King/Super King: 240 × 260 cm, com aproximadamente 2,4 kg."
+      ],
+      "postParagraphs": [
+        "Para escolher, compare a medida da peça com a largura do colchão e com a sobra que você quer nas laterais. Em cama de casal, o Casal/Queen cobre com caimento folgado; o King/Super King serve para quem tem cama extralarga ou gosta de bastante sobra. O peso da ficha, perto de 2 kg, ajuda a comparar com o edredom que você já usa."
       ]
     },
     {
       "heading": "Como lavar e cuidar do cobertor",
       "paragraphs": [
-        "Lave o cobertor a no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco. Seque pendurado à sombra, sem secadora, como a marca recomenda."
+        "Lave o cobertor a no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco. Seque pendurado à sombra, sem secadora, como a marca recomenda.",
+        "Por ser uma peça grande, confira se ela cabe na sua máquina com folga antes de lavar. A orientação acima vem da marca; na dúvida, vale a etiqueta da peça que chegou."
       ],
       "bullets": []
     },
@@ -122,15 +115,20 @@
     {
       "heading": "Preço e como comprar",
       "paragraphs": [
-        "Em 24/10/2026, no site oficial, o Igloo custava R$ 997,00 no tamanho Casal/Queen (de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Confira o preço e o estoque atuais na loja.",
-        "No checkout, aplique o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA e confira os 10% de desconto adicional nos produtos elegíveis antes de pagar.",
-        "Para compras pelo site oficial, a marca anuncia teste de 30 dias com crédito para trocar por outro produto. Para receber o dinheiro de volta, o arrependimento de 7 dias corridos após o recebimento é o caminho; confira as condições na [página do Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) antes da compra."
+        "Na consulta de 22/11, a página do Igloo no site oficial mostrava de R$ 931 a R$ 1.101, conforme o tamanho. Confira o preço e o estoque atuais na loja.",
+        "No checkout, aplique o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA e confira os 10% de desconto adicional nos produtos elegíveis antes de pagar. A loja mostra ainda 5% de desconto no Pix na página do produto, que se soma ao cupom.",
+        "A [página do Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) oferece 30 dias de teste com crédito para troca. A política geral do Sleeptest não lista cobertores, então guarde o print da página do produto ao comprar. Para receber o dinheiro de volta, o arrependimento de 7 dias corridos após o recebimento é o caminho."
       ],
       "bullets": [],
       "links": [
         {
           "label": "Ver o cupom vigente para o Cobertor IWS Igloo",
           "href": "/cupons/i-wanna-sleep"
+        },
+        {
+          "label": "Ver o Cobertor IWS Igloo no site oficial",
+          "href": "https://www.iwannasleep.com.br/products/cobertor-iws-igloo",
+          "sponsored": true
         }
       ]
     },
@@ -146,14 +144,15 @@
         "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Ele tem uma face de toque frio e outra de toque quente, e o casal vira a peça conforme a noite muda. Se uma pessoa sente calor e a outra frio ao mesmo tempo, virar o cobertor muda a sensação para os dois, porque não há zonas térmicas separadas na mesma cama.",
         "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? A marca diz que o peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande. Se o peso agrada é questão de preferência.",
         "Posso usar o Cobertor IWS Igloo com lençol ou em contato direto com a pele? A marca descreve a superfície Silk-Glide como sedosa nos dois lados. Como dica nossa, usar lençol por baixo ajuda a manter o cobertor limpo e a lavá-lo só quando for necessário. Quem tem pele sensível deve avaliar o contato direto por conta própria.",
-        "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece [teste de 30 dias em casa](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) para compras feitas pelo site oficial. Se você não se adaptar, recebe um crédito para troca por outro produto do site, e não a devolução do valor em dinheiro. Leia os termos completos da política de teste na página do produto antes de comprar."
+        "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A página do Igloo oferece 30 dias de teste com crédito para trocar por outro produto do site, e não a devolução do valor em dinheiro. A política geral do Sleeptest não lista cobertores, então guarde o print da página do produto ao comprar e confira as condições antes de pagar."
       ]
     }
   ],
   "cta": {
     "text": "Veja o Cobertor IWS Igloo no site oficial e use o cupom CECIEMCASA",
     "label": "Ver produto",
-    "url": "https://www.iwannasleep.com.br/products/cobertor-iws-igloo"
+    "url": "https://www.iwannasleep.com.br/products/cobertor-iws-igloo",
+    "sponsored": true
   },
   "coupon": "CECIEMCASA",
   "affiliate": "i-wanna-sleep",
@@ -164,5 +163,5 @@
       "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
     }
   ],
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-22"
 }

@@ -17,7 +17,7 @@
   "metaDescription": "Melatonina Líquida IWS 30 ml com o cupom CECIEMCASA e 10% OFF: 0,21 mg por gota, sabor maracujá, ingredientes e os cuidados do rótulo.",
   "publishedAt": "20 de agosto de 2026",
   "publishedAtISO": "2026-08-20",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "image": "/images/reviews/iwannasleep/melatonina-liquida-iws-ficha-tecnica-capa-v2.webp",
   "imageAlt": "Frasco conta-gotas de 30 ml da melatonina líquida IWS sabor Maracujá, em imagem promocional da marca diante de maracujás, com o logo IWS, a pergunta “Melatonina IWS: o que diz o rótulo?” e o cupom CECIEMCASA.",
@@ -35,8 +35,9 @@
     {
       "heading": "O que é a Melatonina Líquida IWS",
       "paragraphs": [
-        "É o suplemento alimentar em gotas da linha de sono da I Wanna Sleep: sabor maracujá, frasco de 30 ml.",
-        "A apresentação em gotas permite contar a porção gota a gota e dispensa engolir comprimido ou cápsula."
+        "É o suplemento alimentar em gotas da linha de sono da I Wanna Sleep: sabor maracujá, frasco conta-gotas de 30 ml, com cerca de 750 gotas por unidade.",
+        "A apresentação em gotas permite contar a porção gota a gota e dispensa engolir comprimido ou cápsula. Pelo rótulo, a porção é 1 gota, com 0,21 mg de melatonina, o limite diário que a Anvisa autoriza em suplemento para adultos de 19 anos ou mais.",
+        "Não é medicamento nem tratamento. A marca descreve o produto como sem glúten, sem lactose, sem adição de açúcares e vegano, e quem tem dúvida sobre quantidade ou horário deve falar com um profissional de saúde. Os ingredientes e os cuidados de uso estão nas seções seguintes."
       ],
       "image": "/images/reviews/iwannasleep/melatonina-liquida-maracuja.webp",
       "imageAlt": "Frasco da Melatonina Líquida IWS sabor maracujá sobre fundo de maracujás cortados",
@@ -82,17 +83,32 @@
     {
       "heading": "Preço e kits com o cupom",
       "paragraphs": [
-        "No e-commerce oficial da I Wanna Sleep, a Melatonina Líquida IWS 30ml tem preço de tabela de R$ 87,00 na unidade. A marca vende kits com desconto progressivo, que ficam mais baratos com o cupom de parceria:"
+        "No e-commerce oficial da I Wanna Sleep, na consulta de novembro, a Melatonina Líquida IWS 30 ml estava a R$ 72,00 na unidade (de R$ 87,00). A marca vende kits com desconto progressivo, que ficam mais baratos com o cupom de parceria:"
       ],
       "bullets": [
-        "**Unidade (30ml):** de R$ 87,00 por **R$ 78,30** com o cupom CECIEMCASA (10% de desconto).",
-        "**Kit com 3 unidades (compre 2, leve 3):** de R$ 174,00 por **R$ 156,60** com o cupom CECIEMCASA, ou **R$ 52,20** por frasco.",
-        "**Kit com 5 unidades (compre 3, leve 5):** de R$ 261,00 por **R$ 234,90** com o cupom CECIEMCASA, ou **R$ 46,98** por frasco."
+        "**Unidade (30ml):** R$ 72,00 na página, ou **R$ 64,80** com o cupom CECIEMCASA (10% de desconto).",
+        "**Kit com 3 unidades:** R$ 144,00 na página, ou **R$ 129,60** com o cupom CECIEMCASA, o que dá **R$ 43,20** por frasco.",
+        "**Kit com 5 unidades:** R$ 216,00 na página, ou **R$ 194,40** com o cupom CECIEMCASA, o que dá **R$ 38,88** por frasco."
       ],
       "links": [
         {
           "label": "Ver regras e validade do cupom CECIEMCASA para I Wanna Sleep",
           "href": "/cupons/i-wanna-sleep"
+        },
+        {
+          "label": "Ver a Melatonina Líquida IWS 30 ml (unidade)",
+          "href": "https://www.iwannasleep.com.br/products/melatonina-liquida-maracuja-novo-sabor",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o kit com 3 Melatoninas Líquidas IWS",
+          "href": "https://www.iwannasleep.com.br/products/3-kit-melatonina-liquida-maracuja-novo-sabor",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o kit com 5 Melatoninas Líquidas IWS",
+          "href": "https://www.iwannasleep.com.br/products/5-kit-melatonina-liquida-maracuja-novo-sabor",
+          "sponsored": true
         }
       ]
     },
@@ -121,7 +137,7 @@
         },
         {
           "label": "Acessar a Melatonina Líquida no site oficial da I Wanna Sleep",
-          "href": "https://www.iwannasleep.com.br/products/melatonina-liquida-iws-30ml-maracuja",
+          "href": "https://www.iwannasleep.com.br/products/melatonina-liquida-maracuja-novo-sabor",
           "sponsored": true
         }
       ]
@@ -143,7 +159,7 @@
   "cta": {
     "text": "Conheça a Melatonina Líquida IWS no site oficial e teste o cupom CECIEMCASA",
     "label": "Ver Melatonina Líquida IWS",
-    "url": "https://www.iwannasleep.com.br/products/melatonina-liquida-iws-30ml-maracuja",
+    "url": "https://www.iwannasleep.com.br/products/melatonina-liquida-maracuja-novo-sabor",
     "sponsored": true
   },
   "coupon": "CECIEMCASA",

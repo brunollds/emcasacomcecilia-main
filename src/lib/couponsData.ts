@@ -857,7 +857,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
-      'O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site (colchões, travesseiros e acessórios), para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções da loja. Testado numa máscara de dormir em promoção.',
+      'O cupom I Wanna Sleep CECIEMCASA dá 10% OFF em todo o site (travesseiros, cobertores, pillow top e acessórios), para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções da loja. Testado numa máscara de dormir em promoção.',
     metaTitle: 'Cupom I Wanna Sleep: 10% OFF com CECIEMCASA',
     metaTitleMonth: true,
     metaDescription:
@@ -866,7 +866,7 @@ const STORE_COUPONS: Coupon[] = [
       'Todo o site I Wanna Sleep',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
-    shipping: 'Calculado separadamente, conforme política da loja',
+    shipping: 'Frete grátis acima de R$ 150, exceto colchões, box, baús e cabeceiras, segundo a central de ajuda da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional dos produtos da loja' },
@@ -886,9 +886,107 @@ const STORE_COUPONS: Coupon[] = [
     ],
     testedAt: '2026-11-11',
     testNote:
-      'Aplicamos o CECIEMCASA na Caracol Sleep Mask em promoção, de R$ 177,00 por R$ 160,00, e o total caiu para R$ 144,00, com R$ 16,00 de desconto: os 10% entraram sobre o preço promocional. Em 24/10/2026, num carrinho de R$ 6.163,00 com um box IWS Linen Gray e um kit Pillow Top Magnum, os 10% valeram nos dois itens.',
+      'Aplicamos o CECIEMCASA na Caracol Sleep Mask em promoção, de R$ 177,00 por R$ 160,00, e o total caiu para R$ 144,00, com R$ 16,00 de desconto: os 10% entraram sobre o preço promocional. Em 24/10/2026, num carrinho com um kit Pillow Top Magnum, os 10% também valeram.',
     aboutBrand:
       'A I Wanna Sleep é uma marca focada em produtos para sono, conforto e bem-estar do quarto, como colchões, travesseiros, lençóis e acessórios pensados para rotinas de descanso. O cupom CECIEMCASA entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.',
+    relatedContent: [
+      {
+        title: 'Como usar o cupom CECIEMCASA na I Wanna Sleep: 10% de desconto',
+        url: '/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar',
+        type: 'review',
+        publishedAt: '2026-07-07',
+      },
+      {
+        title: 'Cupom I Wanna Sleep primeira compra: CECIEMCASA dá 10% OFF e vale nas compras seguintes',
+        url: '/reviews/cupom-i-wanna-sleep-primeira-compra',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+      {
+        title: 'Black Friday I Wanna Sleep 2026: o que comprar e o cupom CECIEMCASA',
+        url: '/reviews/black-friday-i-wanna-sleep',
+        type: 'review',
+        publishedAt: '2026-10-10',
+      },
+      {
+        title: 'I Wanna Sleep é boa? Travesseiros, melatonina e o que vale comprar da marca',
+        url: '/reviews/i-wanna-sleep-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-04',
+      },
+      {
+        title: 'I Wanna Sleep é confiável? O que observar antes de comprar',
+        url: '/reviews/i-wanna-sleep-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-08-14',
+      },
+      {
+        title: 'I Wanna Sleep no Reclame Aqui: nota, reclamações e o que os dados mostram',
+        url: '/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-24',
+      },
+      {
+        title: 'Qual travesseiro escolher? Guia das linhas I Wanna Sleep por posição, material e altura',
+        url: '/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep',
+        type: 'review',
+        publishedAt: '2026-09-04',
+      },
+      {
+        title: 'Qual Cobertor Escolher? As opções da I Wanna Sleep',
+        url: '/reviews/qual-cobertor-escolher-guia-linhas-i-wanna-sleep',
+        type: 'review',
+        publishedAt: '2026-09-07',
+      },
+      {
+        title: 'Travesseiro I Wanna Sleep ou Ortobom: qual escolher por material, altura e jeito de dormir',
+        url: '/reviews/i-wanna-sleep-ou-ortobom',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+      {
+        title: 'Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir',
+        url: '/reviews/travesseiro-i-wanna-sleep-ou-emma',
+        type: 'review',
+        publishedAt: '2026-10-12',
+      },
+      {
+        title: 'Pillow Top Magnum IWS vale a pena? Guia para colchão duro',
+        url: '/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas',
+        type: 'review',
+        publishedAt: '2026-10-03',
+      },
+      {
+        title: 'Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeira noite',
+        url: '/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica',
+        type: 'review',
+        publishedAt: '2026-07-16',
+      },
+      {
+        title: 'Melatonina Líquida IWS 30 ml: ficha do rótulo e preço',
+        url: '/reviews/melatonina-liquida-iws-ficha-tecnica',
+        type: 'review',
+        publishedAt: '2026-08-20',
+      },
+      {
+        title: 'Melatonina Gummy IWS: para que serve, como tomar e cuidados',
+        url: '/reviews/melatonina-gummy-iws-para-que-serve-como-tomar',
+        type: 'review',
+        publishedAt: '2026-08-26',
+      },
+      {
+        title: 'SleepSpray Kidz IWS: Como Funciona o Spray para Travesseiro e o Ritual do Sono Infantil',
+        url: '/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono',
+        type: 'review',
+        publishedAt: '2026-09-29',
+      },
+      {
+        title: 'Aliv Head Gel IWS: máscara térmica fria ou quente, como usar e para quem serve',
+        url: '/reviews/aliv-head-gel-iws-mascara-termica-enxaqueca',
+        type: 'review',
+        publishedAt: '2026-08-04',
+      },
+    ],
     faqs: [
       {
         question: 'O cupom CECIEMCASA vale para todos os produtos da I Wanna Sleep?',
@@ -901,9 +999,9 @@ const STORE_COUPONS: Coupon[] = [
           'O CECIEMCASA. Ele dá 10% em todo o site da I Wanna Sleep para quem compra pela primeira vez e para quem já comprou.',
       },
       {
-        question: 'O cupom CECIEMCASA funciona em colchões, travesseiros e acessórios?',
+        question: 'O cupom CECIEMCASA funciona em travesseiros, cobertores e acessórios?',
         answer:
-          'Pode funcionar em colchões, travesseiros e acessórios da I Wanna Sleep. O carrinho mostra se a regra da campanha foi aplicada.',
+          'Sim. Ele vale nos produtos vendidos no site, como travesseiros, cobertores, pillow top, roupa de cama e acessórios. Colchões e box são vendidos nas lojas físicas da I Wanna Sleep, fora do site.',
       },
       {
         question: 'Posso usar o cupom CECIEMCASA mais de uma vez?',
@@ -924,7 +1022,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja oficial.',
+          'Não. O cupom dá desconto nos produtos. Pela central de ajuda da loja, o frete é grátis em compras acima de R$ 150, exceto colchões, box, baús e cabeceiras, e o prazo sai pelo CEP no fechamento da compra.',
       },
       {
         question: 'O cupom CECIEMCASA é cumulativo?',

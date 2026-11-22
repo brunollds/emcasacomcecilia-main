@@ -17,6 +17,7 @@
   "metaDescription": "O cupom CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep. Travesseiros por altura e material, kits, melatonina pelo rótulo e onde comprar.",
   "publishedAt": "4 de novembro de 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/iwannasleep/i-wanna-sleep-e-boa-capa-v2.webp",
@@ -33,16 +34,16 @@
     {
       "heading": "O que a I Wanna Sleep vende",
       "paragraphs": [
-        "Quem chega pelo travesseiro encontra o centro da loja: metade do que o site vende é travesseiro ou kit. A marca é de Belo Horizonte, vende pelo site oficial e em sete lojas na cidade, e se apresenta como uma marca de estilo de vida do sono. Em volta do travesseiro vêm os cobertores, os pijamas Comfty, a roupa de cama de bambu, o spray de travesseiro, os suplementos de melatonina e os apoios de coluna. O box também está à venda no site; o colchão se compra só na loja física, com as consultoras da marca.",
+        "Quem chega pelo travesseiro encontra o centro da loja: metade do que o site vende é travesseiro ou kit. A marca é de Belo Horizonte, vende pelo site oficial e em sete lojas na cidade, e se apresenta como uma marca de estilo de vida do sono. Em volta do travesseiro vêm os cobertores, os pijamas Comfty (todos esgotados na consulta mais recente), a roupa de cama de bambu, o spray de travesseiro, os suplementos de melatonina e os apoios de coluna. Colchão e box têm página no site, mas o botão de compra fica escondido: a loja os deixa para experimentação nas lojas físicas, com as consultoras da marca.",
         "As linhas, com o capítulo de cada uma abaixo:"
       ],
       "bullets": [
-        "**Travesseiros:** dez modelos de cama, do Snow regulável ao Látex de altura fixa, mais os de viagem e o de corpo.",
-        "**Kits:** Snow em caixas de 2 a 10, o kit de 4 cervicais e o kit com o Skin.",
-        "**Cobertores:** Igloo de dupla face, Cozy, Puffer Ultralight e Huggy.",
-        "**Melatonina:** líquida em gotas e em goma, com kits de 3 e de 5.",
-        "**Sono e quarto:** Sleepspray, Calm Floral de Bach, máscara de dormir e a máscara térmica Aliv Head Gel.",
-        "**Cama e pijama:** jogos de cama Bamboo Bao Bao, protetores Protex Bamboo, fronhas e os pijamas Comfty."
+        "**Travesseiros:** dez modelos de cama, do [Snow](https://www.iwannasleep.com.br/products/travesseiro-snow) regulável ao [Látex](https://www.iwannasleep.com.br/products/travesseiro-iws-original-latex) de altura fixa, mais os de viagem ([Snow Mini](https://www.iwannasleep.com.br/products/travesseiro-iws-snow-mini)) e o de corpo ([Snow Body](https://www.iwannasleep.com.br/products/travesseiro-de-corpo-iws-snow-body)).",
+        "**Kits:** [Snow em caixas de 2](https://www.iwannasleep.com.br/products/kit-2-travesseiros-iws-snow) a [10](https://www.iwannasleep.com.br/products/kit-10-trv-iws-snow), o [kit de 4 cervicais Neck Plus Gel](https://www.iwannasleep.com.br/products/kit-4x-trv-cervical-neck-plus-gel) e o [kit com o Skin](https://www.iwannasleep.com.br/products/kit-skin-snow).",
+        "**Cobertores:** [Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) de dupla face, [Cozy](https://www.iwannasleep.com.br/products/cobertor-cozy-iws), [Puffer Ultralight](https://www.iwannasleep.com.br/products/cobertor-puffer-ultralight-™) (esgotado na consulta mais recente) e [Huggy](https://www.iwannasleep.com.br/products/cobertor-iws-huggy).",
+        "**Melatonina:** [líquida em gotas](https://www.iwannasleep.com.br/products/melatonina-liquida-maracuja-novo-sabor) e [em goma](https://www.iwannasleep.com.br/products/melatonina-gummy-iws-maracuja-doce) (esgotada), com kits de [3](https://www.iwannasleep.com.br/products/3-kit-melatonina-liquida-maracuja-novo-sabor) e [5](https://www.iwannasleep.com.br/products/5-kit-melatonina-liquida-maracuja-novo-sabor) da líquida.",
+        "**Sono e quarto:** [Sleepspray](https://www.iwannasleep.com.br/products/sleepspray-iws-60ml), [Calm Floral de Bach](https://www.iwannasleep.com.br/products/calm-floral-de-bach-iws), [máscara de dormir](https://www.iwannasleep.com.br/products/caracol-softseal-sleep-mask) e a máscara térmica [Aliv Head Gel](https://www.iwannasleep.com.br/products/aliv-head-gel-iws).",
+        "**Cama e pijama:** [jogos de cama Bamboo Bao Bao](https://www.iwannasleep.com.br/products/jogo-de-cama-iws-bao-bao), [protetores Protex Bamboo](https://www.iwannasleep.com.br/products/protetor-de-trv-iws-protex-bamboo), [fronhas](https://www.iwannasleep.com.br/products/fronha-bao-bao-1) e os pijamas Comfty, que estavam todos esgotados."
       ]
     },
     {
@@ -55,72 +56,72 @@
         "headers": [
           "Travesseiro",
           "Linha",
-          "Preço de lista",
+          "Preço na página",
           "Na loja"
         ],
         "rows": [
           [
             "[Travesseiro IWS Snow](https://www.iwannasleep.com.br/products/travesseiro-snow)",
             "viscoelástico regulável, Regular 50x70 ou Plus 50x90",
-            "R$ 419 a R$ 459",
+            "R$ 335 a R$ 376",
             "à venda"
           ],
           [
             "[Travesseiro IWS Snow Body](https://www.iwannasleep.com.br/products/travesseiro-de-corpo-iws-snow-body)",
             "de corpo, para abraçar de lado",
-            "R$ 439",
+            "R$ 360",
             "à venda"
           ],
           [
             "[Cervical Neck Plus Charcoal](https://www.iwannasleep.com.br/products/cervical-neck-plus-charcoal)",
             "cervical com carvão ativado",
-            "R$ 419",
+            "R$ 353",
             "à venda"
           ],
           [
             "[Cervical Neck Plus Gel](https://www.iwannasleep.com.br/products/cervical-neck-plus-gel)",
             "cervical com partículas de gel",
-            "R$ 429",
+            "R$ 366",
             "à venda"
           ],
           [
             "[Cervical Coluna Relax](https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1)",
             "cervical ondulado",
-            "R$ 259",
+            "R$ 207",
             "à venda"
           ],
           [
             "[Travesseiro IWS Ergoblu](https://www.iwannasleep.com.br/products/trv-iws-ergoblu)",
             "viscoelástico de perfil baixo",
-            "R$ 367",
+            "R$ 323",
             "à venda"
           ],
           [
             "[Travesseiro IWS Airgelly 2.0](https://www.iwannasleep.com.br/products/travesseiro-airgelly)",
             "lavável por inteiro",
-            "R$ 549",
+            "R$ 455",
             "à venda"
           ],
           [
             "[Travesseiro IWS Original Látex](https://www.iwannasleep.com.br/products/travesseiro-iws-original-latex)",
             "látex, alturas P, M e G",
-            "R$ 327 a R$ 447",
+            "R$ 241 a R$ 361",
             "à venda"
           ],
           [
             "[Travesseiro Magnum Pluma AirFiber](https://www.iwannasleep.com.br/products/trv-magnum-pluma-airfiber-iws)",
             "fibra, toque de pluma",
-            "R$ 267",
+            "R$ 245",
             "à venda"
           ],
           [
             "[Travesseiro IWS Bubble Gel](https://www.iwannasleep.com.br/products/travesseiro-iws-bubble-gel)",
             "viscoelástico com cavidade central",
-            "R$ 397",
-            "à venda"
+            "R$ 365",
+            "esgotado"
           ]
         ],
-        "caption": "Preço de lista do site em 03/11, sem o código. A loja vendia boa parte da linha com desconto de promoção, e o preço riscado da página é o desta tabela."
+        "caption": "Preço da página de cada produto em novembro de 2026, sem o código; a loja mostra ao lado o preço de lista riscado, mais alto que o da tabela. O Bubble Gel estava esgotado."
       },
       "postParagraphs": [
         "O Regular cabe na fronha comum, e o Plus é para a cama King. Quem já sabe a altura e não quer mexer em nada vai no Látex no tamanho certo; quem sente calor à noite olha o Snow, o Ergoblu ou o Neck Plus Gel, que a marca indica para isso. O Airgelly é para quem lava tudo, e o Magnum Pluma, para quem quer travesseiro fofo e moldável sem pena de animal. Deixe o Snow Body para quem dorme de lado e quer apoio para a perna de cima; para a cabeça ele não substitui nenhum da tabela. A comparação completa, posição por posição, está no [guia das linhas de travesseiro](/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep)."
@@ -144,51 +145,51 @@
     {
       "heading": "Kits de travesseiro: a conta por unidade",
       "paragraphs": [
-        "Para comparar kit e avulsos, divida o preço do kit pelo número de peças e confira o preço de cada avulso no mesmo dia. Pela lista de preços, o kit de 10 Snow custava R$ 2.870 e dez Snow Regular avulsos somavam R$ 4.190: R$ 287 por unidade no kit, cerca de um terço a menos. Havia kits de 2, 4, 6 e 8; o kit de 4 Neck Plus estava esgotado, e o kit com o Skin juntava o Snow ao travesseiro de capa lisa. O kit pode fazer sentido ao trocar vários travesseiros; para um só, confira o avulso com o código da parceria."
+        "Para comparar kit e avulsos, divida o preço do kit pelo número de peças e confira o preço de cada avulso no mesmo dia. Na página, o [kit de 10 Snow](https://www.iwannasleep.com.br/products/kit-10-trv-iws-snow) custava R$ 2.644, ou R$ 264,40 por unidade, contra R$ 335 do Snow avulso no menor preço: cerca de um quinto a menos. Havia kits de [2](https://www.iwannasleep.com.br/products/kit-2-travesseiros-iws-snow), [4](https://www.iwannasleep.com.br/products/kit-4-travesseiros-iws-snow), [6](https://www.iwannasleep.com.br/products/kit-6-trv-iws-snow) e [8](https://www.iwannasleep.com.br/products/kit-8-trv-iws-snow) Snow; o [kit de 4 Neck Plus Gel](https://www.iwannasleep.com.br/products/kit-4x-trv-cervical-neck-plus-gel) e o de 4 Neck Plus Charcoal estavam à venda, e o [kit com o Skin](https://www.iwannasleep.com.br/products/kit-skin-snow) juntava o Snow ao travesseiro de capa lisa. O kit pode fazer sentido ao trocar vários travesseiros; para um só, confira o avulso com o código da parceria."
       ]
     },
     {
       "heading": "Cobertores",
       "paragraphs": [
-        "O cobertor da I Wanna Sleep se escolhe pelo clima do quarto e por quem divide a cama, não pela estampa. O Igloo é o de dupla face, com um lado frio e outro quente, e estava esgotado. O Cozy é o fofo, com fibras longas que a marca diz não empelotar. O Puffer Ultralight é o leve, que vira almofada. O Huggy é o de inverno, em fleece com sherpa sintética."
+        "O cobertor da I Wanna Sleep se escolhe pelo clima do quarto e por quem divide a cama, não pela estampa. O [Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) é o de dupla face, com um lado frio e outro quente. O [Cozy](https://www.iwannasleep.com.br/products/cobertor-cozy-iws) é o fofo, com fibras longas que a marca diz não empelotar. O [Puffer Ultralight](https://www.iwannasleep.com.br/products/cobertor-puffer-ultralight-™) é o leve, que vira almofada, e estava esgotado na consulta mais recente. O [Huggy](https://www.iwannasleep.com.br/products/cobertor-iws-huggy) é o de inverno, em fleece com sherpa sintética."
       ],
       "comparisonTable": {
         "headers": [
           "Cobertor",
           "Para quem",
-          "Preço de lista",
+          "Preço na página",
           "Na loja"
         ],
         "rows": [
           [
             "[Cobertor Cozy IWS](https://www.iwannasleep.com.br/products/cobertor-cozy-iws)",
             "toque fofo, cama posta",
-            "R$ 599 a R$ 669",
+            "R$ 497 a R$ 548",
             "à venda"
           ],
           [
             "[Cobertor IWS Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo)",
             "um lado frio, um quente",
-            "R$ 1.099 a R$ 1.299",
+            "R$ 931 a R$ 1.101",
+            "à venda"
+          ],
+          [
+            "[Cobertor Puffer Ultralight IWS](https://www.iwannasleep.com.br/products/cobertor-puffer-ultralight-™)",
+            "leve, vira almofada",
+            "R$ 578 a R$ 598",
             "esgotado"
           ],
           [
-            "Cobertor Puffer Ultralight IWS",
-            "leve, vira almofada",
-            "veja na página",
-            "à venda"
-          ],
-          [
-            "Cobertor Huggy IWS",
+            "[Cobertor Huggy IWS](https://www.iwannasleep.com.br/products/cobertor-iws-huggy)",
             "inverno, sherpa sintética",
-            "veja na página",
+            "R$ 565 a R$ 609",
             "à venda"
           ]
         ],
-        "caption": "Preço de lista, sem o código."
+        "caption": "Preço da página, sem o código; a faixa vai do menor ao maior tamanho."
       },
       "postParagraphs": [
-        "O Igloo tem duas faces para alternar conforme a preferência de temperatura. O Cozy é a opção de toque fofo; o Puffer é leve e vira almofada; o Huggy tem fleece e sherpa sintética. A equipe recebeu o Igloo em parceria; as primeiras impressões estão no artigo dele."
+        "O Igloo tem duas faces para alternar conforme a preferência de temperatura. O Cozy é a opção de toque fofo; o Puffer é leve e vira almofada; o Huggy tem fleece e sherpa sintética. Sobre o teste em casa: as páginas do Igloo e do Huggy prometem 30 dias de teste com crédito para troca, mas a política geral do Sleeptest não lista cobertores, então guarde o print da página do produto ao comprar. A equipe recebeu o Igloo em parceria; as primeiras impressões estão no artigo dele."
       ]
     },
     {
@@ -200,27 +201,27 @@
         "headers": [
           "Produto",
           "Formato",
-          "Preço de lista",
+          "Preço na página",
           "Na loja"
         ],
         "rows": [
           [
             "[Melatonina Líquida IWS 30 mL Maracujá](https://www.iwannasleep.com.br/products/melatonina-liquida-maracuja-novo-sabor)",
             "gotas",
-            "R$ 87",
+            "R$ 72",
             "à venda"
           ],
           [
             "[Melatonina Gummy IWS Maracujá Doce](https://www.iwannasleep.com.br/products/melatonina-gummy-iws-maracuja-doce)",
             "30 gomas",
-            "R$ 97",
+            "R$ 86",
             "esgotada"
           ]
         ],
-        "caption": "Preço de lista, sem o código."
+        "caption": "Preço da página, sem o código; a líquida também sai em kit de 3 (R$ 144) e de 5 frascos (R$ 216)."
       },
       "postParagraphs": [
-        "Escolha a goma se você quer a porção pronta e não quer contar gota; escolha a líquida se prefere não mastigar ou se a goma seguir esgotada. Não escolha nenhuma esperando um resultado prometido: o rótulo diz o que tem e como tomar, e para por aí."
+        "Escolha a goma se você quer a porção pronta e não quer contar gota; escolha a líquida se prefere não mastigar ou se a goma seguir esgotada. Para quem usa a líquida com frequência, há o [kit com 3 frascos](https://www.iwannasleep.com.br/products/3-kit-melatonina-liquida-maracuja-novo-sabor) e o [kit com 5](https://www.iwannasleep.com.br/products/5-kit-melatonina-liquida-maracuja-novo-sabor). Não escolha nenhuma esperando um resultado prometido: o rótulo diz o que tem e como tomar, e para por aí."
       ],
       "images": [
         {
@@ -235,36 +236,36 @@
     {
       "heading": "Sleepspray, Calm e Aliv Head Gel",
       "paragraphs": [
-        "Os acessórios de quarto da I Wanna Sleep são de rotina, não de resultado, e é assim que se compram. O Sleepspray é um spray de 60 mL para o travesseiro e o lençol, não para a pele, com a versão Kidz indicada pela marca a partir de 2 anos, sem melatonina, com camomila, lavanda e laranja doce; a versão adulta leva melatonina na fórmula e não traz faixa etária, então não vai para o quarto da criança. A marca indica de 1 a 3 borrifadas. O Calm é um floral de Bach. A Aliv Head Gel é a máscara térmica de gel em formato de touca, sem velcro, para usar fria ou quente, sempre testando a temperatura antes de encostar na pele."
+        "Os acessórios de quarto da I Wanna Sleep são de rotina, não de resultado, e é assim que se compram. O Sleepspray é um spray de 60 mL para o travesseiro e o lençol, não para a pele, com a versão Kidz indicada pela marca a partir de 2 anos, sem melatonina, com camomila, lavanda e laranja doce; a versão adulta leva melatonina na fórmula e não traz faixa etária, então não vai para o quarto da criança. A marca indica de 1 a 3 borrifadas. O [Calm](https://www.iwannasleep.com.br/products/calm-floral-de-bach-iws) é um floral de Bach. A [Aliv Head Gel](https://www.iwannasleep.com.br/products/aliv-head-gel-iws) é a máscara térmica de gel em formato de touca, sem velcro, para usar fria ou quente, sempre testando a temperatura antes de encostar na pele."
       ],
       "comparisonTable": {
         "headers": [
           "Produto",
           "O que é",
-          "Preço de lista",
+          "Preço na página",
           "Na loja"
         ],
         "rows": [
           [
             "[Sleepspray IWS 60 mL](https://www.iwannasleep.com.br/products/sleepspray-iws-60ml)",
             "spray para tecido",
-            "R$ 127",
+            "R$ 108",
             "à venda"
           ],
           [
-            "Aliv Head Gel IWS",
+            "[Aliv Head Gel IWS](https://www.iwannasleep.com.br/products/aliv-head-gel-iws)",
             "máscara térmica",
-            "veja na página",
+            "R$ 163",
             "à venda"
           ],
           [
-            "Calm Floral de Bach IWS",
+            "[Calm Floral de Bach IWS](https://www.iwannasleep.com.br/products/calm-floral-de-bach-iws)",
             "floral",
-            "veja na página",
+            "R$ 72",
             "à venda"
           ]
         ],
-        "caption": "Preço de lista, sem o código."
+        "caption": "Preço da página, sem o código."
       },
       "postParagraphs": [
         "O spray serve a quem monta um ritual de dormir com cheiro no travesseiro; com criança com asma, rinite ou pele sensível, o pediatra vem antes do frasco, porque a fragrância leva linalol, limoneno e outros componentes de perfume. A máscara é para a pausa com compressa fria ou quente no rosto, e só. Enxaqueca e dor de cabeça que voltam são assunto de médico."
@@ -273,31 +274,31 @@
     {
       "heading": "Cama e pijama: Bamboo Bao Bao, Protex e Comfty",
       "paragraphs": [
-        "A roupa de cama da I Wanna Sleep é a parte cara da loja, e por isso ela se compra depois do travesseiro. Os jogos de cama Bamboo Bao Bao vão de R$ 1.679 a R$ 8.596 de lista, com os kits no topo; os protetores de travesseiro Protex Bamboo, que a marca apresenta como barreira contra suor e ácaros, custam de R$ 127 a R$ 157 de lista, e as fronhas Bao Bao e a capa Snow completam a linha. Os pijamas Comfty são cerca de 20 peças, de R$ 107,90 na camiseta a R$ 384,90 no pijama feminino de manga longa, que estava esgotado. O protetor é a compra pequena que faz sentido junto com o travesseiro, porque a capa do viscoelástico é de lavagem à mão; o jogo de cama é para quem já fechou o resto e quer a linha Bamboo. Quem quer gastar pouco no quarto começa pelo protetor e pelo pijama, não pelo jogo."
+        "A roupa de cama da I Wanna Sleep é a parte cara da loja, e por isso ela se compra depois do travesseiro. O [jogo de cama Bamboo Bao Bao](https://www.iwannasleep.com.br/products/jogo-de-cama-iws-bao-bao) vai de R$ 1.331 a R$ 1.738 na página, conforme o tamanho, e os kits de [2 jogos](https://www.iwannasleep.com.br/products/kit-com-2-jogos-de-cama-bamboo-iws-bao-bao) e de [4 jogos](https://www.iwannasleep.com.br/products/kit-com-4-jogos-de-cama-bamboo-iws-bao-bao) ficam no topo; os [protetores de travesseiro Protex Bamboo](https://www.iwannasleep.com.br/products/protetor-de-trv-iws-protex-bamboo), que a marca apresenta como barreira contra suor e ácaros, custam de R$ 93 a R$ 130, e as [fronhas Bao Bao](https://www.iwannasleep.com.br/products/fronha-bao-bao-1) e a capa Snow completam a linha. Os pijamas Comfty (camisetas, shorts, calças e camisolas) estavam todos esgotados na consulta mais recente, então não há link de compra. O protetor é a compra pequena que faz sentido junto com o travesseiro, porque a capa do viscoelástico é de lavagem à mão; o jogo de cama é para quem já fechou o resto e quer a linha Bamboo. Quem quer gastar pouco no quarto começa pelo protetor, não pelo jogo."
       ]
     },
     {
       "heading": "Onde comprar: site, lojas de Belo Horizonte e o código da parceria",
       "paragraphs": [
-        "Com o CECIEMCASA, todo o site da I Wanna Sleep sai 10% mais barato, em todas as formas de pagamento, e o desconto soma com as promoções da loja e com os 5% do Pix à vista. O código vai no campo de cupom do checkout, em maiúsculas e sem espaço, e o total recalcula antes do pagamento; no teste do cupom, um carrinho com box e kit de pillow top ganhou os 10% nos dois itens. A página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep) tem o passo a passo e as regras. O código não vale no Mercado Livre nem em marketplace: lá o preço é o do anúncio.",
+        "Com o CECIEMCASA, todo o site da I Wanna Sleep sai 10% mais barato, em todas as formas de pagamento, para cliente novo e antigo, e o desconto soma com as promoções da loja e com os 5% do Pix à vista. O código vai no campo de cupom do checkout, em maiúsculas e sem espaço, e o total recalcula antes do pagamento; confira a linha de desconto no resumo do pedido. A página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep) tem o passo a passo e as regras. O código não vale no Mercado Livre nem em marketplace: lá o preço é o do anúncio.",
         "O frete é grátis acima de R$ 150, fora colchão, box, baú e cabeceira, então quase todo travesseiro já passa do mínimo sozinho. O cartão parcela sem juros, e o número de parcelas aparece na página de cada produto. Quem se arrepende tem 7 dias corridos, com o frete da primeira devolução grátis, e o estorno no cartão leva de 30 a 60 dias; a compra do site não se troca nas lojas. O travesseiro ainda tem o Sleeptest de 30 dias, com pelo menos 15 dias de uso e troca por crédito.",
-        "As sete lojas ficam em Belo Horizonte: BH Shopping, Castelo, Del Rey, Só Marcas Outlet, Lourdes, Silviano Brandão e Ponteio. É lá, e só lá, que se compra o colchão, com as consultoras do sono; o site mostra os modelos, mas não vende. Travesseiro, cobertor e o resto da loja vêm pelo site."
+        "As sete lojas ficam em Belo Horizonte: BH Shopping, Castelo, Del Rey, Só Marcas Outlet, Lourdes, Silviano Brandão e Ponteio. É lá que se compra o colchão, com as consultoras do sono, e que se experimenta o box: o site mostra os modelos, mas o botão de compra fica escondido. Travesseiro, cobertor e o resto da loja vêm pelo site."
       ]
     },
     {
       "heading": "Dá para confiar na I Wanna Sleep",
       "paragraphs": [
-        "Dá. A empresa tem CNPJ ativo em Belo Horizonte, sete lojas de rua e shopping, políticas de troca e devolução publicadas e, no Reclame Aqui, a reputação mais alta do site, com todas as reclamações dos últimos seis meses respondidas e a maior parte resolvida; a queixa mais comum é atraso na entrega. A troca de travesseiro pelo Sleeptest pede a etiqueta intacta, então não rasgue nada antes de decidir. Os dados da empresa e o que conferir no domínio estão em [I Wanna Sleep é confiável?](/reviews/i-wanna-sleep-e-confiavel), e as queixas, no guia do Reclame Aqui."
+        "Dá. A empresa tem CNPJ ativo em Belo Horizonte, sete lojas de rua e shopping e políticas de troca e devolução publicadas. No Reclame Aqui, a janela de seis meses tem o selo RA1000, com nota 8,7 e todas as reclamações respondidas; na janela de 12 meses, a reputação é Boa, com nota 7,9. A queixa mais comum na aba geral, de até três anos, é atraso na entrega. A troca de travesseiro pelo Sleeptest pede a etiqueta intacta, então não rasgue nada antes de decidir, e o domínio oficial é iwannasleep.com.br."
       ]
     },
     {
       "heading": "Para quem vale e para quem não vale",
       "bullets": [
         "Para o travesseiro, vale: a linha inteira, com altura e material na página, e o Snow para quem não sabe a altura.",
-        "Para trocar vários travesseiros, compare o preço por unidade do kit com o do avulso no mesmo dia; pela lista de preços, o kit de 10 Snow custava cerca de um terço menos por unidade.",
+        "Para trocar vários travesseiros, compare o preço por unidade do kit com o do avulso no mesmo dia; na página, o kit de 10 Snow saía a R$ 264,40 por unidade, cerca de um quinto menos que o Snow avulso no menor preço.",
         "Para o cobertor, compare o clima do quarto e a preferência de quem usa: o Igloo tem duas faces para alternar; o Cozy tem fibras longas; o Puffer vira almofada; e o Huggy combina fleece com sherpa sintética.",
         "Para a melatonina e o spray, vale só pelo rótulo: porção, modo de uso e o que tem dentro; o efeito não está lá e a conversa é com o médico.",
-        "Não vale para colchão pelo site: o colchão se compra nas lojas de Belo Horizonte.",
+        "Não vale para colchão nem box pelo site: o botão de compra fica escondido e eles se experimentam nas lojas de Belo Horizonte.",
         "Não vale comprar um item só, abaixo do mínimo do frete grátis: aí o frete é pago."
       ],
       "emphasis": "O Snow permite retirar flocos para ajustar a altura em casa. Confira se o material e as dimensões também combinam com o que você procura."
@@ -309,7 +310,7 @@
         "A I Wanna Sleep vale a pena? Vale para quem escolhe o travesseiro pela posição e pelo material e compra pelo site com o código da parceria, que dá 10% e soma com o Pix.",
         "O travesseiro I Wanna Sleep é bom? Depende da posição em que você dorme e da altura de que precisa: o Snow se regula em casa, o Látex vem em três alturas fixas e os cervicais têm contorno para quem dorme de costas ou de lado.",
         "A melatonina da I Wanna Sleep é boa? É um suplemento em gotas ou em goma, e o rótulo traz a porção e o modo de uso; quantidade, horário e tempo de uso são conversa com o médico, como diz o capítulo da melatonina.",
-        "A I Wanna Sleep tem loja em BH? Tem sete, e é nelas que se compra o colchão.",
+        "A I Wanna Sleep tem loja em BH? Tem sete, e é nelas que se compra o colchão e se experimenta o box.",
         "Qual travesseiro I Wanna Sleep escolher? O Snow permite ajustar a altura; o Látex vem nas alturas P, M e G; os três cervicais têm contorno; e o Airgelly pode ser lavado por inteiro. Compare as medidas e o material antes de escolher."
       ]
     }
@@ -323,7 +324,7 @@
       "Você quer cobertor escolhido pelo clima do quarto e por quem divide a cama."
     ],
     "skipIf": [
-      "Você quer colchão para comprar pelo site: colchão só se compra nas lojas de Belo Horizonte.",
+      "Você quer colchão ou box para comprar pelo site: eles só se compram e se experimentam nas lojas de Belo Horizonte.",
       "Você espera da melatonina ou do spray algum efeito: o rótulo traz a porção e o modo de uso, e o resto é conversa com o médico.",
       "Você vai levar um item só, abaixo do mínimo do frete grátis, e paga o frete."
     ]

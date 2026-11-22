@@ -105304,6 +105304,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-principais-problemas-2026-11.webp",
+      "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-principais-problemas-2026-11.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12732,
+      "sha256": "fc48c13ee4c10a7f30dac4361895301dbaae1e1f898ac01b63953ada9c5f179c",
+      "width": 611,
+      "height": 404,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "i-wanna-sleep-reclame-aqui-principais-problemas-2026-11.webp",
+      "storage_filename": "i-wanna-sleep-reclame-aqui-principais-problemas-2026-11.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao.json",
+          "line": 181,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-principais-problemas-2026-11.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 41475,
+          "column": 21,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-principais-problemas-2026-11.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fc48c13ee4c10a7f30dac4361895301dbaae1e1f898ac01b63953ada9c5f179c/i-wanna-sleep-reclame-aqui-principais-problemas-2026-11.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fc48c13ee4c10a7f30dac4361895301dbaae1e1f898ac01b63953ada9c5f179c/i-wanna-sleep-reclame-aqui-principais-problemas-2026-11.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:56:21.392Z",
+      "verification_etag_or_digest": "fc48c13ee4c10a7f30dac4361895301dbaae1e1f898ac01b63953ada9c5f179c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-selo-ra1000-2026-11.webp",
+      "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-selo-ra1000-2026-11.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10694,
+      "sha256": "cc379ee3c7ac78d9de15cb03fc3357feb5b9422c37602d5b9f3e9b865e5b3c06",
+      "width": 620,
+      "height": 146,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "i-wanna-sleep-reclame-aqui-selo-ra1000-2026-11.webp",
+      "storage_filename": "i-wanna-sleep-reclame-aqui-selo-ra1000-2026-11.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao.json",
+          "line": 149,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-selo-ra1000-2026-11.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 41443,
+          "column": 21,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-selo-ra1000-2026-11.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cc379ee3c7ac78d9de15cb03fc3357feb5b9422c37602d5b9f3e9b865e5b3c06/i-wanna-sleep-reclame-aqui-selo-ra1000-2026-11.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cc379ee3c7ac78d9de15cb03fc3357feb5b9422c37602d5b9f3e9b865e5b3c06/i-wanna-sleep-reclame-aqui-selo-ra1000-2026-11.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:56:21.626Z",
+      "verification_etag_or_digest": "cc379ee3c7ac78d9de15cb03fc3357feb5b9422c37602d5b9f3e9b865e5b3c06",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg",
       "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg",
       "media_kind": "image",

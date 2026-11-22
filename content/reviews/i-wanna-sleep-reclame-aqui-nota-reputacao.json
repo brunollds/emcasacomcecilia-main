@@ -13,104 +13,209 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "No Reclame Aqui, de abril a setembro, a loja online da I Wanna Sleep teve reputação RA1000 e nota 8,5. Veja as queixas mais comuns, como o atraso na entrega, antes de comprar.",
-  "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF em todo o site: RA1000 e nota 8,5 entre abril e setembro.",
+  "description": "Selo RA1000 e nota 8,7 na aba de 6 meses, reputação Boa e nota 7,9 em 12 meses: o que o Reclame Aqui mostra da I Wanna Sleep e o que conferir antes de comprar.",
+  "metaDescription": "CECIEMCASA dá 10% OFF na I Wanna Sleep. Veja o selo RA1000, a nota no Reclame Aqui e as principais queixas antes de comprar.",
   "publishedAt": "24 de outubro de 2026",
   "publishedAtISO": "2026-10-24",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-nota-reputacao-capa-v2.webp",
   "imageAlt": "Modelo adulta de pijama rosa e branco abraça o travesseiro Snow Body em U, em foto oficial da I Wanna Sleep, ao lado da chamada sobre o Reclame Aqui.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [],
-  "cons": [],
+  "pros": [
+    "RA1000 na aba de 6 meses, a reputação mais alta do Reclame Aqui",
+    "100% das reclamações respondidas, com tempo médio de resposta de 23 horas no semestre",
+    "93,6% de solução entre as 141 reclamações avaliadas no semestre",
+    "Perfil com 4 anos no Reclame Aqui e 4º lugar entre as melhores de cama, mesa e banho"
+  ],
+  "cons": [
+    "Em 12 meses a reputação é Boa, com nota 7,9 e 67,5% de quem avaliou dizendo que voltaria a comprar",
+    "A nota média dos consumidores (7,75 no semestre, 6,41 em 12 meses) fica abaixo da nota da plataforma",
+    "Atraso na entrega é o problema mais citado na aba Geral",
+    "O perfil não tem o selo Empresa Verificada"
+  ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro, então dá para comprar no site oficial. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil ao comprar. O CECIEMCASA, 10% OFF no site, está no [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+        "A I Wanna Sleep tem o selo RA1000 no Reclame Aqui na aba de 6 meses, com nota 8,7; na aba de 12 meses a reputação é Boa, com nota 7,9. A loja respondeu 100% das reclamações nas duas janelas. O cupom CECIEMCASA dá 10% OFF no site oficial."
       ]
     },
     {
-      "heading": "Por que consultar o Reclame Aqui antes de comprar",
+      "heading": "A nota e os indicadores do Reclame Aqui",
       "paragraphs": [
-        "Produtos de sono — travesseiro, cobertor, colchão — costumam ser uma compra de valor mais alto e de troca mais trabalhosa do que um item qualquer. Antes de recomendar uma marca, vale checar como ela se comporta quando algo dá errado: atraso, produto com defeito, dificuldade de troca. O Reclame Aqui não mostra se a empresa é perfeita — nenhuma é —, mas mostra o padrão dos problemas e, principalmente, se a marca responde quando eles aparecem."
+        "A tabela reúne os indicadores do [perfil da loja online da I Wanna Sleep](https://www.reclameaqui.com.br/empresa/iws-i-wanna-sleep-loja-online/) em quatro abas do Reclame Aqui. Cada coluna é uma janela diferente, descrita na legenda, e os números de uma coluna não se misturam com os de outra."
       ],
-      "bullets": []
-    },
-    {
-      "heading": "Os dados atuais no Reclame Aqui",
-      "paragraphs": [
-        "Os números abaixo são do perfil da loja online (iwannasleep.com.br), o canal do site oficial, com dados de abril a setembro.",
-        "Na janela de abril a setembro de 2026, o perfil tinha RA1000 e nota 8,5/10. Recebeu 189 reclamações, todas respondidas, e nenhuma aguardava resposta. Das 139 avaliadas por quem reclamou, a nota média foi 7,5, e 74,8% disseram que voltariam a fazer negócio. O tempo médio de resposta foi de 1 dia e 1 hora.",
-        "A loja aparece em 5º lugar no ranking da categoria Cama, mesa e banho do Reclame Aqui. O perfil reúne quem reclamou na plataforma, não todos os compradores. A nota é calculada em janela móvel e muda com o tempo, então confira o perfil no dia da compra."
-      ],
-      "bullets": [],
+      "comparisonTable": {
+        "caption": "Perfil da IWS - I wanna sleep (Loja Online) no Reclame Aqui. Janelas: 6 meses, de maio a outubro de 2026; 12 meses, de novembro de 2025 a outubro de 2026; 2025, de janeiro a dezembro de 2025; Geral, de novembro de 2023 a novembro de 2026. Os índices de solução e de quem voltaria a fazer negócio são calculados pela plataforma sobre as reclamações finalizadas e avaliadas, não sobre todas as recebidas.",
+        "headers": [
+          "Indicador",
+          "6 meses",
+          "12 meses",
+          "2025",
+          "Geral (até 3 anos)"
+        ],
+        "rows": [
+          [
+            "Reputação",
+            "RA1000",
+            "Boa",
+            "Ótima",
+            "Ótima"
+          ],
+          [
+            "Nota",
+            "8,7",
+            "7,9",
+            "8,2",
+            "8,2"
+          ],
+          [
+            "Reclamações recebidas",
+            "190",
+            "598",
+            "514",
+            "1.078"
+          ],
+          [
+            "Respondidas",
+            "100%",
+            "100%",
+            "100%",
+            "99,6%"
+          ],
+          [
+            "Aguardando resposta",
+            "0",
+            "0",
+            "0",
+            "4"
+          ],
+          [
+            "Tempo médio de resposta",
+            "23 horas",
+            "1 dia e 4 horas",
+            "1 dia e 9 horas",
+            "1 dia e 9 horas"
+          ],
+          [
+            "Avaliadas",
+            "141",
+            "425",
+            "359",
+            "757"
+          ],
+          [
+            "Resolvidas, entre as avaliadas",
+            "93,6%",
+            "87,7%",
+            "90,5%",
+            "89,4%"
+          ],
+          [
+            "Voltariam a fazer negócio, entre as avaliadas",
+            "75,9%",
+            "67,5%",
+            "74,7%",
+            "72,4%"
+          ],
+          [
+            "Nota média do consumidor",
+            "7,75",
+            "6,41",
+            "6,76",
+            "6,92"
+          ]
+        ]
+      },
       "links": [
         {
           "label": "Ver perfil da loja online no Reclame Aqui →",
           "href": "https://www.reclameaqui.com.br/empresa/iws-i-wanna-sleep-loja-online/"
         }
-      ],
-      "image": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-perfil-2026-10.webp",
-      "imageAlt": "Painel de desempenho da IWS - I wanna sleep (Loja Online) no Reclame Aqui: reputação RA1000, nota 8,5 em seis meses, 189 reclamações recebidas, 100% respondidas e índice de solução de 90,6%",
-      "imageCaption": "O painel da loja online no Reclame Aqui (dados de abril a setembro).",
-      "imageFit": "contain"
-    },
-    {
-      "heading": "Como a reputação chegou ao RA1000",
-      "paragraphs": [
-        "RA1000 é o nível mais alto de reputação no Reclame Aqui e considera indicadores de resposta, solução e avaliação dos consumidores. No histórico de seis meses, a loja online aparecia como Boa de abril a julho, Ótima em agosto e RA1000 em setembro."
-      ],
-      "bullets": []
-    },
-    {
-      "heading": "Padrões mais comuns nas reclamações",
-      "paragraphs": [
-        "No painel de principais problemas do Reclame Aqui, que soma as reclamações dos últimos três anos, atraso na entrega é o problema mais citado (25,19%), e travesseiros são o produto mais citado (48,21%). Nos títulos das reclamações, estes temas se repetem:"
-      ],
-      "bullets": [
-        "Atraso ou problema na entrega, o problema mais citado no painel do Reclame Aqui.",
-        "Qualidade percebida do produto recebido: relatos de itens que não corresponderam à expectativa criada na descrição ou nas fotos do site.",
-        "Comunicação e propaganda: alguns títulos falam em expectativa não atendida, o que reforça a importância de ler a ficha técnica completa antes de comprar."
       ]
     },
     {
-      "heading": "O que fazer antes de comprar",
+      "heading": "O que a nota e o selo RA1000 medem, e o que não medem",
       "paragraphs": [
-        "Pelo padrão das queixas: canal oficial, leitura atenta e comprovante guardado."
+        "O RA1000 é a reputação mais alta do Reclame Aqui. A plataforma a dá às empresas com os melhores índices de resposta, solução e avaliação dos consumidores na janela consultada. No perfil da I Wanna Sleep, o selo aparece na aba padrão de 6 meses.",
+        "A nota mede como a loja atende as reclamações feitas na plataforma. Ela não mede a qualidade do travesseiro nem do cobertor, e muda com o tempo: o RA1000 é do semestre. Na aba de 12 meses a reputação é Boa, com nota 7,9, e em 2025 e na aba Geral ela é Ótima, com 8,2. Cada reputação vale para a sua janela.",
+        "A nota da plataforma também não é a nota média do consumidor. Esta é a média que quem reclamou deu ao atendimento depois de finalizar a reclamação: 7,75 no semestre e 6,41 em 12 meses, abaixo da nota da plataforma nas duas janelas. O perfil não tem o selo Empresa Verificada."
       ],
-      "bullets": [
-        "Compre pelo site oficial (iwannasleep.com.br), que é o canal avaliado neste artigo e onde o cupom vale.",
-        "Leia a página do produto com atenção — materiais, medidas e tecnologias — para o que chegar não frustrar a expectativa.",
-        "Guarde comprovante de pagamento e número do pedido para rastreamento e eventual contato com o suporte.",
-        "Se o produto chegar com problema, acione o suporte logo e guarde a embalagem original até a resolução; na compra pela internet, o arrependimento vale por 7 dias após o recebimento.",
-        "Consulte o perfil atualizado no Reclame Aqui no dia da sua compra — a nota muda com o tempo."
+      "images": [
+        {
+          "src": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-selo-ra1000-2026-11.webp",
+          "alt": "Topo do perfil da IWS - I wanna sleep (Loja Online) no Reclame Aqui, com o selo RA1000 e a indicação de que a loja resolve 93,6% das reclamações",
+          "caption": "O selo RA1000 no topo do perfil da loja online, na aba de 6 meses. Fonte: Reclame Aqui.",
+          "objectFit": "contain",
+          "aspectRatio": 4.2466
+        }
       ]
     },
     {
-      "heading": "Parceria e cupom de desconto",
+      "heading": "Pontos positivos",
       "paragraphs": [
-        "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Com o cupom CECIEMCASA, 10% em todo o site oficial, sem custo a mais para você."
+        "O perfil mostra estes pontos a favor da loja:"
       ],
-      "bullets": [],
+      "bullets": [
+        "Selo RA1000 na aba de 6 meses, com nota 8,7.",
+        "A loja respondeu 100% das reclamações nas abas de 6 meses, 12 meses e 2025, e nenhuma aguardava resposta nas três.",
+        "No semestre, 93,6% das reclamações finalizadas e avaliadas aparecem como resolvidas; o perfil mostra 141 avaliadas na janela. O índice é sobre as avaliadas, não sobre todos os clientes.",
+        "O tempo médio de resposta no semestre foi de 23 horas.",
+        "O perfil está no Reclame Aqui há 4 anos.",
+        "A loja está em 4º lugar no ranking de melhor empresa na categoria cama, mesa e banho."
+      ]
+    },
+    {
+      "heading": "Pontos de atenção e principais queixas",
+      "paragraphs": [
+        "Na aba de 12 meses, a reputação é Boa, com nota 7,9. Nessa janela, o perfil mostra 425 reclamações avaliadas, com 87,7% de solução e 67,5% de quem avaliou dizendo que voltaria a fazer negócio. No semestre, o índice de quem voltaria é 75,9%. São índices sobre as avaliadas, não sobre todos os compradores.",
+        "As 190 reclamações do semestre e as 598 de 12 meses são números absolutos. Sem o total de pedidos da loja, eles não viram proporção, e este artigo não diz que são poucas nem muitas.",
+        "Os motivos mais citados saem da aba Geral, que soma até três anos e não é a mesma janela dos números acima. Nela, atraso na entrega é o problema mais citado, com 25,49% das reclamações. Travesseiros são o produto mais citado, com 47,08%, e a categoria cama, mesa e banho concentra 45,13%.",
+        "O gráfico abaixo mostra esses três recortes, todos da aba Geral."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-principais-problemas-2026-11.webp",
+          "alt": "Painel de principais problemas da IWS - I wanna sleep (Loja Online) no Reclame Aqui, na aba Geral: atraso na entrega como problema mais citado, travesseiros como produto mais citado e cama, mesa e banho como categoria",
+          "caption": "Principais problemas, produtos e categoria na aba Geral, que soma até três anos. Fonte: Reclame Aqui.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5124
+        }
+      ]
+    },
+    {
+      "heading": "Como a I Wanna Sleep responde e o que conferir antes de comprar",
+      "paragraphs": [
+        "Para ter certeza de que está no perfil certo, confira o CNPJ 43.783.630/0001-92, o da loja online. A compra deve ser feita no domínio oficial, iwannasleep.com.br.",
+        "O prazo de entrega sai pelo CEP, no fechamento do pedido, e a loja envia para todo o Brasil. Pela [central de ajuda da loja](https://suporte.iwannasleep.com.br/), o frete é grátis em compras acima de R$ 150, exceto colchões, box, baús e cabeceiras, que não entram nessa regra. Guarde a previsão que apareceu ao pagar.",
+        "O Sleeptest é uma política da marca com regras próprias: travesseiros, pillow top e nutrição têm 30 dias, com uso mínimo de 15 dias, e a troca vira crédito, não devolução do dinheiro. Cobertores não aparecem na política geral, mas as páginas do Igloo e do Huggy prometem 30 dias de teste com crédito; guarde o print da página do produto ao comprar.",
+        "Na compra pelo site, o arrependimento vale por 7 dias corridos a partir do recebimento. Guarde o comprovante e o número do pedido."
+      ],
       "links": [
         {
-          "label": "Ver condições atuais do desconto I Wanna Sleep",
-          "href": "/cupons/i-wanna-sleep"
+          "label": "Política Sleeptest da I Wanna Sleep",
+          "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
         }
+      ]
+    },
+    {
+      "heading": "Vale a pena comprar na I Wanna Sleep?",
+      "paragraphs": [
+        "De um lado, a loja tem RA1000 no semestre, respondeu todas as reclamações, resolveu 93,6% das avaliadas e demora em média 23 horas para responder. Do outro, em 12 meses a reputação é Boa, só 67,5% de quem avaliou voltaria a comprar, e o atraso na entrega lidera as queixas da aba Geral.",
+        "Para travesseiro, cobertor e o resto da linha leve, o caminho é simular o prazo pelo CEP e guardar a previsão. Se decidir comprar, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF no site oficial, e o passo a passo está em [como usar o cupom CECIEMCASA](/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual a nota da I Wanna Sleep no Reclame Aqui? A loja online tem reputação RA1000 e nota 8,5/10 nos últimos seis meses, entre abril e setembro, e 74,8% dos que avaliaram voltariam a fazer negócio.",
-        "O que é o selo RA1000? É a reputação mais alta do Reclame Aqui, dada às empresas com os melhores índices de resposta, solução e avaliação dos consumidores no período. A loja online da I Wanna Sleep chegou a ele em setembro.",
-        "O que mais aparece nas reclamações da I Wanna Sleep? Atraso na entrega é o problema mais citado no painel do Reclame Aqui (25,19% das reclamações dos últimos três anos), e travesseiros são o produto mais citado.",
-        "A I Wanna Sleep resolve as reclamações? Ela respondeu 100% das reclamações de abril a setembro, com tempo médio de resposta de 1 dia e 1 hora. Responder não garante solução: o índice de solução considera só as reclamações finalizadas e avaliadas.",
-        "O cupom CECIEMCASA muda o preço final do produto? Muda, em todo o site oficial: o código dá 10% de desconto, concedido pela marca por meio da parceria com o Em Casa com Cecília. O código e os links podem gerar comissão, sem custo extra para você."
+        "Qual a nota da I Wanna Sleep no Reclame Aqui? Na aba de 6 meses, 8,7, com o selo RA1000. Na aba de 12 meses, 7,9 e reputação Boa. A nota muda com o tempo, então confira o perfil.",
+        "O que é o selo RA1000? É a reputação mais alta do Reclame Aqui, dada às empresas com os melhores índices de resposta, solução e avaliação dos consumidores na janela consultada. No perfil da loja, ele é da aba de 6 meses.",
+        "A I Wanna Sleep responde e resolve as reclamações? Respondeu 100% nas abas de 6 e 12 meses, em média em 23 horas no semestre. Entre as reclamações finalizadas e avaliadas, 93,6% aparecem como resolvidas no semestre e 87,7% em 12 meses.",
+        "A I Wanna Sleep atrasa a entrega? Atraso na entrega é o problema mais citado na aba Geral do Reclame Aqui, com 25,49% das reclamações. Simule o prazo pelo CEP e guarde a previsão.",
+        "Existe cupom para a I Wanna Sleep? Sim, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF no site oficial, para cliente novo e antigo."
       ]
     }
   ],
@@ -129,5 +234,6 @@
     {
       "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
     }
-  ]
+  ],
+  "bodyDatesReason": "reclame-aqui"
 }
