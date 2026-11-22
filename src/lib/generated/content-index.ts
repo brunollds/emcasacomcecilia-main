@@ -234909,7 +234909,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Na primeira compra na Toda Up, use MAUAD: 10% OFF, inclusive em promoção. A Black VIP fica de fora. Vale também para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/toda-up/cupom-toda-up-primeira-compra-capa-v2.webp",
@@ -235042,6 +235042,7 @@ export const reviewsData: unknown[] = [
           "Qual cupom Toda Up vale para quem já é cliente? MAUAD dá 10% nas peças elegíveis, inclusive para quem já comprou. A Black VIP fica de fora enquanto durar a campanha.",
           "O cupom Toda Up soma com produtos em promoção? Sim. A exceção é a Black VIP, enquanto a campanha durar.",
           "O cupom Toda Up vale na Black VIP? Não, enquanto a campanha durar. Com uma peça dela no carrinho, o checkout não aplica o código em nenhum item.",
+          "Os cupons MARESSA e BEARAMOS dão 25% e 15% na Toda Up? No nosso teste, não: os dois deram 10%, o mesmo desconto do MAUAD. No carrinho de R$ 379,80, cada um tirou R$ 37,98. Confira a linha de desconto no resumo do pedido antes de pagar.",
           "Quanto custa o frete da Toda Up? O valor é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog."
         ]
       }
