@@ -219,11 +219,11 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
-          "alt": "Resumo do checkout da L’Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60",
-          "caption": "O CECILIA aplicado no checkout da L’Amazonie, no nosso teste. A linha Descontos mostra quanto saiu do pedido.",
+          "src": "/images/reviews/lamazonie/black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+          "alt": "Resumo do checkout da L’Amazonie com a oferta de Black Friday do sérum de cílios e sobrancelhas, o cupom CECILIA no campo Tem um cupom?, desconto de menos R$ 7,95 e total de R$ 151,05",
+          "caption": "O CECILIA na oferta de Black Friday do sérum, no checkout seguro da loja: R$ 159,00 viraram R$ 151,05.",
           "objectFit": "contain",
-          "aspectRatio": 1.06
+          "aspectRatio": 1.043
         }
       ]
     },

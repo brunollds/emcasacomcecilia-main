@@ -249945,15 +249945,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em 16 de novembro de 2026, montamos um carrinho com um [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), de R$ 159,00, e um [Kit 2 Protetores Solares de Tratamento FPS 99](https://www.lamazonie.com.br/products/kit-2-protetores-solar-facial-stick), de R$ 249,00.",
           "Com o código, os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. A linha Descontos mostrou R$ 20,40. São 5% sobre os produtos do carrinho, inclusive sobre o kit."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
-            "alt": "Resumo do checkout da L’Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60",
-            "caption": "O CECILIA aplicado no checkout da L’Amazonie, no nosso teste. A linha Descontos mostra quanto saiu do pedido.",
-            "objectFit": "contain",
-            "aspectRatio": 1.06
-          }
         ]
       },
       {
@@ -249972,6 +249963,16 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O mesmo código. O CECILIA vale para cliente novo e para cliente antigo, então dá para usar de novo no próximo pedido. Confira sempre a linha Descontos no resumo antes de pagar.",
           "A loja também anuncia 15% de cashback. Segundo a página, vira crédito com validade para a próxima compra no site e cobre até 30% desse pedido. Não testamos o uso desse crédito. Para a compra de agora, o que conta é o total do resumo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+            "alt": "Bisnaga branca do Gel de Limpeza de Vitamina C da L’Amazonie, de 60 g, em foto oficial do produto",
+            "caption": "Gel de Limpeza de Vitamina C, da linha facial. Imagem: L’Amazonie.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g"
+          }
         ]
       },
       {
@@ -250226,11 +250227,11 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
-            "alt": "Resumo do checkout da L’Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60",
-            "caption": "O CECILIA aplicado no checkout da L’Amazonie, no nosso teste. A linha Descontos mostra quanto saiu do pedido.",
+            "src": "/images/reviews/lamazonie/black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+            "alt": "Resumo do checkout da L’Amazonie com a oferta de Black Friday do sérum de cílios e sobrancelhas, o cupom CECILIA no campo Tem um cupom?, desconto de menos R$ 7,95 e total de R$ 151,05",
+            "caption": "O CECILIA na oferta de Black Friday do sérum, no checkout seguro da loja: R$ 159,00 viraram R$ 151,05.",
             "objectFit": "contain",
-            "aspectRatio": 1.06
+            "aspectRatio": 1.043
           }
         ]
       },
