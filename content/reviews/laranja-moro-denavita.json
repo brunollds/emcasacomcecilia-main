@@ -52,7 +52,7 @@
       "Você conferiu o preço por dia e o total com entrega para a opção que quer."
     ],
     "skipIf": [
-      "Você precisa saber quanta cafeína há na cápsula e ainda aguarda o rótulo.",
+      "Você tem sensibilidade à cafeína ou restrição médica e ainda não confirmou o rótulo do pote.",
       "A validade de algum pote do kit é menor que o tempo até você abri-lo e terminar."
     ]
   },
@@ -99,6 +99,13 @@
           "caption": "A frente do pote do Laranja Moro. Foto: Denavita",
           "objectFit": "contain",
           "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/denavita/laranja-moro-denavita-laranjas.webp",
+          "alt": "Pote de Laranja Moro da Denavita sobre laranjas, com uma mão espremendo meia laranja vermelha",
+          "caption": "O Morosil® vem do extrato de laranja moro, a laranja de polpa vermelha. Foto: Denavita",
+          "objectFit": "contain",
+          "aspectRatio": 1
         }
       ]
     },
@@ -111,22 +118,17 @@
     {
       "heading": "Porção e conservação informadas pela Denavita",
       "paragraphs": [
-        "A ficha indica uma cápsula ao dia. Na mesma página, a Denavita orienta tomar logo após a refeição principal. A orientação de conservação informa consumo preferencialmente em 30 dias depois de abrir. Confira as instruções na embalagem que receber."
-      ]
-    },
-    {
-      "heading": "O que conferir sobre a cafeína",
-      "paragraphs": [
-        "A Denavita informa quanto extrato de café verde vai na cápsula. A ficha não quantifica a cafeína. Se esse número muda sua escolha, peça uma foto da tabela e da lista de ingredientes do rótulo antes de comprar."
+        "A ficha indica uma cápsula ao dia. Na mesma página, a Denavita orienta tomar logo após a refeição principal. A orientação de conservação informa consumo preferencialmente em 30 dias depois de abrir. Confira as instruções na embalagem que receber.",
+        "A fórmula leva extrato de café verde, e a ficha não informa os miligramas de cafeína. Quem tem sensibilidade à cafeína confirma no rótulo do pote ou com o atendimento da loja ou um médico."
       ]
     },
     {
       "heading": "Preço por dia no avulso e nos kits",
       "paragraphs": [
-        "Calculamos o preço por dia dividindo o total pelo número de cápsulas, com a porção diária informada pela loja. Na tabela, só o avulso tem valor com EMCASA confirmado no checkout."
+        "Calculamos o preço por dia dividindo o total pelo número de cápsulas, com a porção diária informada pela loja. Os preços são os da página em 21 de novembro de 2026. No avulso, o valor com o EMCASA foi confirmado no checkout. Nas opções por quantidade, a coluna do cupom é a conta de 10% sobre o preço da página."
       ],
       "comparisonTable": {
-        "caption": "Preços à vista da ficha em 19/11, sem frete. Conta pela porção de uma cápsula por dia informada pela loja.",
+        "caption": "Preços à vista da página, sem frete. Conta pela porção de uma cápsula por dia informada pela loja.",
         "headers": [
           "Opção",
           "Total",
@@ -135,34 +137,43 @@
         ],
         "rows": [
           [
-            "1 unidade",
+            "[1 unidade](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
             "R$ 76,90",
             "R$ 2,56",
-            "R$ 2,31 (total de R$ 69,21)"
+            "R$ 2,31 (total de R$ 69,21, confirmado no checkout)"
           ],
           [
-            "Compre 2 Leve 3",
+            "[Compre 2 Leve 3](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
             "R$ 153,80",
             "R$ 1,71",
-            "confira no resumo"
+            "R$ 1,54 (total de R$ 138,42, conta de 10%)"
           ],
           [
-            "Compre 3 Leve 5",
+            "[Compre 3 Leve 5](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
             "R$ 230,70",
             "R$ 1,54",
-            "confira no resumo"
+            "R$ 1,38 (total de R$ 207,63, conta de 10%)"
           ]
         ]
       },
       "postParagraphs": [
-        "No avulso, o desconto reduziu o valor do pote a R$ 69,21. Para as opções de três ou cinco potes, compare o total com frete e confira a validade de todos os potes. Copie o EMCASA na página do [cupom Denavita](/cupons/denavita) ou veja [como aplicar o código](/reviews/cupom-denavita-como-usar)."
+        "Testamos o EMCASA no avulso e em kits: o Kit Vida Fit com o Turbo Metabolismo passou de R$ 399,80 para R$ 359,82 no Pix. Nas opções de três ou cinco potes, confira a linha “Cupom de desconto” no resumo antes de pagar, compare o total com frete e confira a validade de todos os potes. Copie o EMCASA na página do [cupom Denavita](/cupons/denavita) ou veja [como aplicar o código](/reviews/cupom-denavita-como-usar)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/denavita/black-friday-denavita-laranja-moro-3-potes.webp",
+          "alt": "Três potes de Laranja Moro da Denavita lado a lado",
+          "caption": "Três potes do Laranja Moro, o produto das opções de leve mais. Foto: Denavita",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ]
     },
     {
       "heading": "O que conferir antes de comprar",
       "paragraphs": [
         "Se você já escolheu esse suplemento, compare o custo e a quantidade com a validade de todos os potes. Para decidir se deve usar, para dúvidas sobre dose ou para conciliar com medicamentos, fale com médico ou nutricionista.",
-        "A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. Consulte pelo CEP o valor da entrega e a previsão. Veja [quem vende e como funcionam as devoluções](/reviews/denavita-e-confiavel)."
+        "A loja anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja, e o pagamento vai até 12x no cartão ou no Pix. Consulte pelo CEP o valor da entrega e a previsão. Veja [Denavita é confiável?](/reviews/denavita-e-confiavel) para saber quem vende e como funcionam as trocas."
       ]
     },
     {
@@ -171,9 +182,10 @@
         "O que vale conferir no Laranja Moro da Denavita? Compare a composição da ficha com a da embalagem. Se já escolheu a fórmula, use a tabela para comparar o custo por dia do avulso e das opções por quantidade.",
         "O que a Denavita informa sobre o modo de uso do Laranja Moro? A ficha indica uma cápsula ao dia. Na mesma página, a marca orienta tomar logo após a refeição principal. Confira as instruções na embalagem.",
         "Laranja moro é o mesmo que Morosil? Morosil® é o nome de marca de um extrato de laranja moro. Este produto usa 400 mg dele por cápsula, junto com café verde e picolinato de cromo.",
-        "O Laranja Moro da Denavita tem cafeína? A composição traz extrato de café verde. A quantidade de cafeína não aparece na ficha. Se precisa desse valor, peça o rótulo à loja.",
+        "O Laranja Moro da Denavita tem cafeína? A composição traz extrato de café verde, e a ficha não informa a quantidade de cafeína. Se precisa desse valor, confirme no rótulo do pote ou com o atendimento da loja.",
         "Quanto tempo dura um pote? Com uma cápsula por dia, 30 dias. A loja manda consumir preferencialmente em 30 dias depois de aberto."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-21"
 }
