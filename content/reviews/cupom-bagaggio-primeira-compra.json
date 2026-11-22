@@ -142,13 +142,30 @@
       ]
     },
     {
+      "heading": "Vale usar o CECILIA10 na primeira compra?",
+      "paragraphs": [
+        "Vale: são 10% em todo o site, Outlet incluso, em todas as formas de pagamento, e o código é o mesmo no primeiro pedido e nos seguintes. No Pix, a loja ainda tira mais 5% depois do cupom."
+      ],
+      "emphasis": "Se eu fosse fazer o primeiro pedido na Bagaggio, aplicaria o CECILIA10 na sacola e escolheria o Pix, depois de conferir o total no resumo."
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como conseguir desconto na primeira compra na Bagaggio? O CECILIA10 dá 10% em todo o site, no primeiro pedido e nos seguintes.",
+        "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom. Vale no primeiro pedido e nos seguintes, no site ou no app.",
         "Qual cupom Bagaggio vale para quem já é cliente? O mesmo CECILIA10, com os mesmos 10%.",
         "O cupom Bagaggio soma com o Pix? Sim. No Pix, a loja ainda tira o desconto dela depois do código.",
         "O cupom Bagaggio vale no Mercado Livre? Não. Ele vale no site e no aplicativo da loja."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vai fazer o primeiro pedido na Bagaggio, no site ou no aplicativo, e quer os 10% do CECILIA10.",
+      "Já é cliente e vai comprar de novo: o mesmo código vale."
+    ],
+    "skipIf": [
+      "Pretende comprar pelo Mercado Livre, onde o código não vale.",
+      "A sacola já traz outro cupom: ela aceita um código por pedido."
+    ]
+  }
 }

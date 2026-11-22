@@ -228,31 +228,50 @@
         "alt": "Mala Detroit vermelha da Bagaggio fotografada de frente, em ângulo e de lado",
         "caption": "Exemplo de ângulos para as fotos da análise, com fotos oficiais da Detroit vermelha. A loja pede também a foto de costas, a nota fiscal e a avaria visível.",
         "objectFit": "contain",
-        "aspectRatio": 2.1053
+        "aspectRatio": 2.1053,
+        "href": "https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-vermelha/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz"
       }
+    },
+    {
+      "heading": "Vale a pena contar com a garantia vitalícia?",
+      "paragraphs": [
+        "Para mala da marca Bagaggio comprada depois da data de corte do programa, sim: ela cobre vício de fabricação, sem prazo para acabar, desde que a compra tenha nota fiscal em nome do consumidor e a mala esteja no Brasil. Mochila, bolsa, carteira e as outras marcas da loja ficam de fora e seguem a garantia da etiqueta.",
+        "O que a garantia não cobre é o uso: queda, sobrecarga, desgaste das rodas e dano no voo ficam de fora. Guarde a nota fiscal e fotografe a mala antes de despachar."
+      ],
+      "emphasis": "Se a mala é da marca Bagaggio, eu contaria com a garantia vitalícia para defeito de fabricação, mas não para queda, desgaste ou dano no voo, e não para mochila."
     },
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
         "Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes do CECILIA10.",
         "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produto já com desconto. O Pix de 5% entra depois, sobre o total que já tem o cupom. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido.",
-        "Ele vai no campo \"Cupom de desconto\" do resumo, e não no campo de vendedor ou influenciador. Confira as parcelas no checkout.",
+        "Para aplicar, na sacola, cole o CECILIA10 no campo \"Cupom de desconto\" do resumo do pedido, e não no campo de vendedor ou influenciador, e confira o desconto no resumo antes de pagar. Confira as parcelas no checkout.",
         "O passo a passo do cupom e os valores na sacola estão em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. No Pix, a loja tira mais 5% depois do cupom, e ela aceita um cupom por pedido.",
         "A mochila Bagaggio tem garantia vitalícia? Não, pelo texto da loja. A garantia vitalícia vale só para malas da marca Bagaggio. Mochila e bolsa seguem a garantia da etiqueta, além da garantia legal do Código de Defesa do Consumidor.",
         "A garantia vitalícia Bagaggio vale para todas as malas? Não. O programa divulgado vale para malas da marca Bagaggio compradas depois do início do programa, nas condições do termo. Travelcross e Swiss One seguem a garantia do fabricante.",
         "A garantia cobre dano causado pela companhia aérea? Não. A página diz que o dano no voo é responsabilidade da companhia, e orienta a registrar a reclamação no balcão, com o RIB ou PIR. Se o dano só aparecer depois, comunique a companhia por escrito em até sete dias após receber a bagagem.",
         "Como acionar a garantia da Bagaggio? Na compra online, pelo Troque Fácil, com o número do pedido e o CPF. Na compra em loja física, procure a loja da compra ou escreva para atendimento@bagaggio.com.br. Confirme a rota no atendimento antes de enviar a mala.",
         "A garantia vale se eu estiver fora do Brasil? Não. Ela é restrita ao território brasileiro, e o acionamento só começa depois do retorno ao país.",
-        "Posso passar a garantia para outra pessoa? Não. A garantia vale só para o comprador original e não é transferível.",
-        "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site e um cupom por pedido. No Mercado Livre o cupom não vale: lá vale o preço do anúncio. O [link de compra da marca no Mercado Livre](https://meli.la/2KeydkG) abre a vitrine da Cecília por lá."
+        "Posso passar a garantia para outra pessoa? Não. A garantia vale só para o comprador original e não é transferível."
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Vai comprar uma mala da marca Bagaggio e quer cobertura para defeito de fabricação, sem prazo para acabar.",
+      "Guarda a nota fiscal em nome de quem compra e usa a mala no Brasil."
+    ],
+    "skipIf": [
+      "Procura garantia vitalícia para mochila, bolsa, carteira ou linhas de outra marca, como a Travelcross: elas ficam fora.",
+      "Espera cobertura para queda, sobrecarga, desgaste das rodas ou dano causado pela companhia aérea."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
