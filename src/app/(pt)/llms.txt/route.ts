@@ -1,13 +1,15 @@
 import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
-import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
-import { getCouponLanguageLinks, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
+import { getActiveCoupons, getCouponBySlug, type Coupon } from '@/lib/couponsData';
+import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes, isTranslatedLocale } from '@/lib/couponTranslations';
+import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { LOCALES } from '@/lib/i18n/locales';
 import { LOCALE_HOME_LOCALES, getLocaleHomePath } from '@/lib/localeHome';
 import { REVIEW_HUB_LOCALES, getPublishedReviewsForLocale, getReviewHubPath } from '@/lib/review-hubs';
 import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
 import { videoPages } from '@/lib/video-pages';
+import { getPrimaryRewardCode } from '@/lib/yesstyleCoupons';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -31,6 +33,35 @@ function formatLink(label: string, href: string, description?: string): string {
   return `- [${safeLabel}](${href})${suffix}`;
 }
 
+function formatCouponLabel(coupon: Coupon): string {
+  if (coupon.offerMode === 'discount-code') {
+    if (coupon.tiers?.length) {
+      const lastTier = coupon.tiers[coupon.tiers.length - 1];
+      return `${coupon.brand} - ${coupon.tiers.length} faixas de cupom (${coupon.tiers[0].code} a ${lastTier.code})`;
+    }
+    return `${coupon.brand} - ${coupon.offerTypeLabel ?? 'cupom'} ${coupon.code}`;
+  }
+  if (coupon.referral?.code) {
+    return `${coupon.brand} - codigo de indicacao ${coupon.referral.code} e oferta por link`;
+  }
+  return `${coupon.brand} - ${coupon.offerTypeLabel ?? 'oferta por link'}`;
+}
+
+function formatCouponDescription(coupon: Coupon): string {
+  if (coupon.offerMode === 'discount-code') {
+    if (coupon.tiers?.length) {
+      const first = coupon.tiers[0];
+      const last = coupon.tiers[coupon.tiers.length - 1];
+      return `${coupon.discount} (${first.discount} a partir de ${first.minPurchase} ate ${last.discount} a partir de ${last.minPurchase}); ${coupon.shortDescription}; verificado em ${coupon.lastVerified}`;
+    }
+    return `${coupon.discount} (${coupon.shortDescription}); codigo ${coupon.code}; verificado em ${coupon.lastVerified}`;
+  }
+  if (coupon.referral?.code) {
+    return `${coupon.discount} (${coupon.shortDescription}); pesquise ${coupon.referral.code} no app/site ou acesse pelo link indicado; verificado em ${coupon.lastVerified}`;
+  }
+  return `${coupon.discount} (${coupon.shortDescription}); ativado direto pelo link, sem codigo; verificado em ${coupon.lastVerified}`;
+}
+
 function buildLlmsText(): string {
   // A mesma ordem da vitrine: só PT, data mais nova e, no mesmo dia, o id maior primeiro.
   const recentReviews = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedReviews)).slice(0, 20);
@@ -40,6 +71,25 @@ function buildLlmsText(): string {
     .slice(0, 12);
   const activeCoupons = getActiveCoupons()
     .sort((a, b) => b.lastVerified.localeCompare(a.lastVerified));
+  const storeHubLinks = getStoreArticlePageSlugs(publishedReviews, activeCoupons).flatMap((slug) => {
+    const page = getStoreArticlesPage(publishedReviews, slug, activeCoupons);
+    const store = getCouponBySlug(slug);
+    if (!page || !store) return [];
+    const offerSummary = store.offerMode === 'discount-code'
+      ? `${store.offerTypeLabel ?? 'cupom'} ${store.code} (${store.discount})`
+      : store.referral?.code
+        ? `codigo de indicacao ${store.referral.code} (${store.discount})`
+        : `${store.offerTypeLabel ?? 'oferta'} (${store.discount})`;
+    return [
+      formatLink(
+        `${page.brand} (${page.articles.length} artigos)`,
+        `${BASE_URL}${getStoreArticlesPath(slug)}`,
+        `guias, analises e ${offerSummary}`
+      ),
+    ];
+  });
+  const yesStyleReward = getPrimaryRewardCode();
+  const yesStyleSummary = `codigo de recompensa ${yesStyleReward.code} (ate ${yesStyleReward.newCustomerDiscount}% OFF extra na 1a compra e ${yesStyleReward.returningCustomerDiscount}% nas seguintes, cumulativo com cupons YesStyle)`;
   // A página em PT já entra como "YesStyle em portugues"; /pt/coupons/yesstyle não existe.
   const yesStyleLocalizedCoupons = Object.values(YESSTYLE_LOCALES)
     .filter((config) => config.locale !== 'pt')
@@ -47,19 +97,33 @@ function buildLlmsText(): string {
       formatLink(
         `YesStyle reward code (${config.locale})`,
         `${BASE_URL}${config.hubPath}`,
-        'pagina local do codigo de recompensa CECILIA010'
+        `pagina local (${config.locale}) - ${yesStyleSummary}`
       )
     );
-  // Lojas com página em outros idiomas (hoje só a SHEIN): a de PT e as traduzidas.
+  // Lojas com página em outros idiomas: a de PT e as traduzidas, com o benefício e o código de cada idioma.
   const translatedCouponLinks = [...new Set(getTranslatedCouponRoutes().map((route) => route.slug))].flatMap((slug) => {
-    const brand = getCouponBySlug(slug)?.brand ?? slug;
-    return Object.entries(getCouponLanguageLinks(slug)).map(([locale, path]) =>
-      formatLink(
-        `${brand} (${locale})`,
+    const store = getCouponBySlug(slug);
+    const brand = store?.brand ?? slug;
+    return Object.entries(getCouponLanguageLinks(slug)).map(([locale, path]) => {
+      if (locale === 'pt') {
+        return formatLink(
+          `${brand} (${locale})`,
+          `${BASE_URL}${path}`,
+          store ? formatCouponDescription(store) : 'pagina em pt-BR da loja'
+        );
+      }
+      const localized = isTranslatedLocale(locale) ? getLocalizedCoupon(slug, locale) : undefined;
+      const codeBadge = localized?.offerMode === 'discount-code'
+        ? ` (${localized.code})`
+        : store?.offerMode === 'affiliate-link' && store.referral?.code
+          ? ` (${store.referral.code})`
+          : '';
+      return formatLink(
+        `${brand}${codeBadge} (${locale})`,
         `${BASE_URL}${path}`,
-        locale === 'pt' ? 'pagina em pt-BR da loja' : 'pagina local da loja'
-      )
-    );
+        localized ? `${localized.discount} - ${localized.shortDescription}` : 'pagina local da loja'
+      );
+    });
   });
 
   // Os 10 mais novos de cada idioma, na ordem da lista do idioma (/<locale>/reviews).
@@ -71,7 +135,7 @@ function buildLlmsText(): string {
       '',
       formatLink(`Lista completa (${locale})`, `${BASE_URL}${getReviewHubPath(locale)}`),
       ...localeReviews.map((review) =>
-        formatLink(review.title, `${BASE_URL}${getReviewCanonicalPathname(review)}`, review.description)
+        formatLink(review.title, `${BASE_URL}${getReviewCanonicalPathname(review)}`, review.metaDescription || review.description)
       ),
       '',
     ];
@@ -117,10 +181,18 @@ function buildLlmsText(): string {
       formatLink(
         review.title,
         `${BASE_URL}${getReviewCanonicalPathname(review)}`,
-        review.description
+        review.metaDescription || review.description
       )
     ),
     '',
+    ...(storeHubLinks.length > 0
+      ? [
+          '## Guias e analises por loja parceira',
+          '',
+          ...storeHubLinks,
+          '',
+        ]
+      : []),
     '## Receitas em destaque',
     '',
     ...highlightedRecipes.map((recipe) =>
@@ -141,11 +213,9 @@ function buildLlmsText(): string {
     '',
     ...activeCoupons.map((coupon) =>
       formatLink(
-        coupon.offerMode === 'discount-code'
-          ? `${coupon.brand} - ${coupon.offerTypeLabel ?? 'cupom'} ${coupon.code}`
-          : `${coupon.brand} - ${coupon.offerTypeLabel ?? 'oferta por link'}`,
+        formatCouponLabel(coupon),
         `${BASE_URL}/cupons/${coupon.slug}`,
-        `${coupon.discount}; ${coupon.offerMode === 'discount-code' ? 'codigo disponivel' : 'acesso pelo link indicado'}; verificado em ${coupon.lastVerified}`
+        formatCouponDescription(coupon)
       )
     ),
     '',
@@ -159,7 +229,7 @@ function buildLlmsText(): string {
     formatLink(
       'YesStyle em portugues',
       `${BASE_URL}/cupons/yesstyle`,
-      'pagina canonica em pt-BR do codigo de recompensa CECILIA010'
+      `pagina canonica em pt-BR - ${yesStyleSummary}`
     ),
     ...yesStyleLocalizedCoupons,
     ...translatedCouponLinks,

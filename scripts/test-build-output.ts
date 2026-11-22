@@ -1143,22 +1143,32 @@ const withoutRelatedCards = (body: string) => {
   assert.equal(withoutRelatedCards('<ul><li>Editorial</li></ul>'), '<ul><li>Editorial</li></ul>', 'lista comum some da conferência');
 }
 
-// Com código e link da loja (salvo o código de indicação), o botão principal do recorte copia e abre a loja em nova aba:
+// Com código e link da loja, o botão principal do recorte copia e abre a loja em nova aba (cupom, recompensa ou indicação):
 // "Copiar e ir para a loja", "Só copiar o código" e a linha de que o código fica copiado.
-const isCopyAndGo = (block: ArticleStoreBlock) => Boolean(block.code && block.storeHref && block.codeKind !== 'referral');
+const isCopyAndGo = (block: ArticleStoreBlock) => Boolean(block.code && block.storeHref);
 // O recorte do topo do artigo (#cupom-artigo): o tipo do código (cupom, recompensa ou indicação) no idioma do
-// artigo, o código com o botão de copiar e a frase de depois de copiar; sem código, o nome da loja e o link.
+// artigo, o código com o botão de copiar e a frase de depois de copiar; sem código, o nome da loja, o aviso de link e o botão.
 // Fora do PT, nenhum texto dele em português.
 function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock): string[] {
   const texts = cutout.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean);
+  const cutoutNoteOf = (lang: Locale): string | undefined => {
+    if (block.code || !block.cutoutNote) return undefined;
+    if (lang === locale) return block.cutoutNote;
+    const storeSource = lang === 'pt' ? getCouponBySlug(block.slug) : getLocalizedCoupon(block.slug, lang);
+    return storeSource?.offerMode === 'affiliate-link'
+      ? storeSource.cutoutNote || COUPON_STORE_COPY[lang].noCodeToCopy
+      : COUPON_STORE_COPY[lang].noCodeToCopy;
+  };
   const uiOf = (lang: Locale) => {
     const labels = getCouponCopyLabels(lang);
     const actions = isCopyAndGo(block)
-      ? [labels.copyAndGo, labels.copyOnly, labels.goHint(block.codeKind === 'reward' ? 'reward' : undefined)]
+      ? [labels.copyAndGo, labels.copyOnly, labels.goHint(block.codeKind)]
       : [labels.copy];
+    const note = cutoutNoteOf(lang);
     return [
       block.code ? getCodeTitle(getSidebarCopy(lang), block.codeKind, block.brand) : block.brand,
       ...(block.code ? [...actions, getArticleCopy(lang).copiedHint(block, block.codeKind)] : []),
+      ...(note ? [note] : []),
     ];
   };
   const own = uiOf(locale);
@@ -1167,7 +1177,7 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
   if (block.code && !cutout.includes('data-copied=')) problems.push('sem o botão de copiar');
   const copyAndGoLink = /<a\b[^>]*\sdata-copied="[^"]*"[^>]*>/.exec(cutout)?.[0];
   if (isCopyAndGo(block) !== Boolean(copyAndGoLink)) {
-    problems.push(isCopyAndGo(block) ? 'sem o "Copiar e ir para a loja"' : '"Copiar e ir para a loja" sem código ou com código de indicação');
+    problems.push(isCopyAndGo(block) ? 'sem o "Copiar e ir para a loja"' : '"Copiar e ir para a loja" sem código ou sem link da loja');
   }
   if (copyAndGoLink && !/\starget="_blank"/.test(copyAndGoLink)) problems.push('"Copiar e ir para a loja" fora de nova aba');
   if (locale !== 'pt') {
@@ -2010,18 +2020,15 @@ for (const url of articleUrls) {
     assert.ok(!dialog.includes('data-store-codes='), `${pagePath}: linhas de código na gaveta fora do artigo de várias lojas`);
   }
   // Fora do artigo de várias lojas, o dock leva o link da loja da gaveta (o laranja), com o mesmo destino, a mesma aba e o
-  // mesmo rel: sem código, como o próprio link; com código e link externo, como o "copiar e ir" (o código à vista e o
-  // data-copied), salvo o código de indicação, que só copia.
+  // mesmo rel: sem código, como o próprio link; com código e link externo, como o "copiar e ir" (o código à vista e o data-copied).
   const dockLinks = dockHtml.match(/<a\b[^>]*>/g) ?? [];
   const drawerStoreLink = (dialog.match(/<a\b[^>]*>/g) ?? []).find((tag) => classesOf(tag).includes('bg-laranja'));
   const attributeOf = (tag: string, attribute: string) => tag.match(new RegExp(`\s${attribute}="([^"]*)"`))?.[1];
-  const dockStore = getSingleStoreSlug(review) ? getCouponBySlug(getSingleStoreSlug(review)!) : undefined;
   const dockCopyAndGo = Boolean(
-    review.coupon && drawerStoreLink && !isInternalLink(decodeHtml(attributeOf(drawerStoreLink, 'href') ?? '')) &&
-      getStoreCodeKind(dockStore, review.coupon) !== 'referral'
+    review.coupon && drawerStoreLink && !isInternalLink(decodeHtml(attributeOf(drawerStoreLink, 'href') ?? ''))
   );
   if (multiBlocks.length > 0 || !drawerStoreLink || (review.coupon && !dockCopyAndGo)) {
-    assert.deepEqual(dockLinks, [], `${pagePath}: link da loja no dock com várias lojas, sem o link da gaveta ou com código de indicação`);
+    assert.deepEqual(dockLinks, [], `${pagePath}: link da loja no dock com várias lojas ou sem o link externo da gaveta`);
   } else {
     assert.equal(dockLinks.length, 1, `${pagePath}: dock sem o link da loja`);
     const [dockLink] = dockLinks;

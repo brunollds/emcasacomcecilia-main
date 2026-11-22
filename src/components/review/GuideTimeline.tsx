@@ -3,13 +3,20 @@
 import { useEffect, useRef, useState } from 'react';
 import { ReviewSectionContent } from './ReviewSectionContent';
 import { SectionHeadingReveal } from '@/components/editorial';
-import type { ContentSection } from '@/lib/content';
+import type { ContentSection, ReviewKind } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
+import type { MultiStores } from '@/lib/reviewStores';
 
 export interface GuideTimelineProps {
   steps: ContentSection[];
   sectionIds: Map<string, string>;
   reviewTitle: string;
+  kind?: ReviewKind;
+  reviewSlug?: string;
+  coupon?: string;
+  affiliate?: string;
+  storeBrand?: string;
+  multiStores?: MultiStores;
   locale?: Locale;
 }
 
@@ -39,7 +46,18 @@ function getStepTitle(heading?: string): string {
     .trim();
 }
 
-export function GuideTimeline({ steps, sectionIds, reviewTitle, locale = 'pt' }: GuideTimelineProps): React.ReactElement | null {
+export function GuideTimeline({
+  steps,
+  sectionIds,
+  reviewTitle,
+  kind = 'guia',
+  reviewSlug,
+  coupon,
+  affiliate,
+  storeBrand,
+  multiStores,
+  locale = 'pt',
+}: GuideTimelineProps): React.ReactElement | null {
   const [activeIndex, setActiveIndex] = useState<number>(0);
   const itemRefs = useRef<(HTMLElement | null)[]>([]);
   const intersectingMap = useRef<Record<number, boolean>>({});
@@ -145,7 +163,17 @@ export function GuideTimeline({ steps, sectionIds, reviewTitle, locale = 'pt' }:
                 </SectionHeadingReveal>
               )}
 
-              <ReviewSectionContent section={step} reviewTitle={reviewTitle} locale={locale} />
+              <ReviewSectionContent
+                section={step}
+                reviewTitle={reviewTitle}
+                kind={kind}
+                reviewSlug={reviewSlug}
+                coupon={coupon}
+                affiliate={affiliate}
+                storeBrand={storeBrand}
+                multiStores={multiStores}
+                locale={locale}
+              />
             </section>
           );
         })}

@@ -27,6 +27,8 @@ export type ArticleStoreBlock = {
   code?: string;
   codeKind?: CouponCodeKind;
   discount?: string;
+  // Aviso de oferta/indicação direta pelo link nos recortes sem código (Proton, Starlink, AliExpress, Temu, Lejour).
+  cutoutNote?: string;
   rules: Array<{ label: string; value: string }>;
   storeHref?: string;
   // Patrocínio do link da loja: o do cta quando o link é o dele; o link de afiliado da loja é sempre patrocinado.
@@ -133,6 +135,13 @@ function getStoreRules(store: Coupon, source: Coupon | undefined, locale: Coupon
   return [eligible, combinable, { label: articleCopy.ruleVerifiedLabel, value: date }];
 }
 
+// Reconhece o código principal da loja e também qualquer código de faixa (Magalu: 10EMCASACOMCECILIA..100EMCASACOMCECILIA).
+export function storeOwnsCode(store: Coupon, code: string | undefined): boolean {
+  if (!code) return false;
+  if (code === getStoreCode(store)) return true;
+  return Boolean(store.offerMode === 'discount-code' && store.tiers?.some((tier) => tier.code === code));
+}
+
 // `now` decide os códigos com prazo: o build usa a hora dele, e os testes passam uma data fixa.
 export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, now = Date.now()): ArticleStoreBlock | null {
   // O artigo de várias lojas não tem o bloco de uma loja: as linhas de código de cada uma vêm de outro lugar.
@@ -143,12 +152,15 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
 
   const code = review.coupon || undefined;
   const storeCode = getStoreCode(store);
-  const isStoreCode = Boolean(code) && code === storeCode;
+  const isStoreCode = storeOwnsCode(store, code);
 
   // Fora do PT, as regras só existem na tradução da loja; em PT, nos dados da própria loja. Loja com código só
   // mostra as regras quando o código do artigo é o dela; loja sem código (Lejour), sempre.
   const source = locale === 'pt' ? store : isTranslatedLocale(locale) ? getLocalizedCoupon(store.slug, locale) : undefined;
   const rules = isStoreCode || !storeCode ? getStoreRules(store, source, locale) : [];
+  const cutoutNote = !code && source?.offerMode === 'affiliate-link'
+    ? source.cutoutNote || COUPON_STORE_COPY[locale].noCodeToCopy
+    : undefined;
 
   const articleCount = locale === 'pt'
     ? publishedReviews.filter((item) => reviewHasStore(item, store.slug) && isListedInPortuguese(item)).length
@@ -170,6 +182,7 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
     codeKind: getStoreCodeKind(store, code),
     // Fora do PT, só o texto da tradução: o desconto da loja em PT não vai a outro idioma.
     discount: isStoreCode ? source?.discount : undefined,
+    ...(cutoutNote && { cutoutNote }),
     rules: rules.filter((rule) => rule.value).slice(0, MAX_RULES).map((rule) => ({ ...rule, value: shortenRule(rule.value) })),
     storeHref,
     storeSponsored,

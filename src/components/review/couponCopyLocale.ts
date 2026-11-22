@@ -11,7 +11,7 @@ export type CouponCopyLabels = {
   copyAndGo: string;
   copyOnly: string;
   // A linha embaixo do "Copiar e ir para a loja": o código segue copiado na aba da loja.
-  goHint: (kind?: 'reward') => string;
+  goHint: (kind?: 'reward' | 'referral') => string;
   // O X do aviso de quando a pessoa volta da aba da loja.
   closeNotice: string;
 };
@@ -25,7 +25,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `Copiar o código ${coupon}`,
     copyAndGo: 'Copiar e ir para a loja',
     copyOnly: 'Só copiar o código',
-    goHint: (kind) => (kind === 'reward' ? 'O código fica copiado: é só colar no campo Reward Code.' : 'O código fica copiado: é só colar no checkout.'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? 'O código fica copiado: é só colar no campo Reward Code.'
+        : kind === 'referral'
+          ? 'O código fica copiado: pesquise no app ou no site.'
+          : 'O código fica copiado: é só colar no checkout.',
     closeNotice: 'Fechar aviso',
   },
   en: {
@@ -34,7 +39,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `Copy the code ${coupon}`,
     copyAndGo: 'Copy and go to the store',
     copyOnly: 'Just copy the code',
-    goHint: (kind) => (kind === 'reward' ? 'The code stays copied: just paste it in the Reward Code field.' : 'The code stays copied: just paste it at checkout.'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? 'The code stays copied: just paste it in the Reward Code field.'
+        : kind === 'referral'
+          ? 'The code stays copied: search for it in the app or on the website.'
+          : 'The code stays copied: just paste it at checkout.',
     closeNotice: 'Close notice',
   },
   es: {
@@ -43,7 +53,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `Copiar el código ${coupon}`,
     copyAndGo: 'Copiar e ir a la tienda',
     copyOnly: 'Solo copiar el código',
-    goHint: (kind) => (kind === 'reward' ? 'El código queda copiado: solo pégalo en el campo Reward Code.' : 'El código queda copiado: solo pégalo al finalizar la compra.'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? 'El código queda copiado: solo pégalo en el campo Reward Code.'
+        : kind === 'referral'
+          ? 'El código queda copiado: búscalo en la app o en la web.'
+          : 'El código queda copiado: solo pégalo al finalizar la compra.',
     closeNotice: 'Cerrar aviso',
   },
   fr: {
@@ -52,7 +67,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `Copier le code ${coupon}`,
     copyAndGo: 'Copier et aller sur la boutique',
     copyOnly: 'Copier seulement le code',
-    goHint: (kind) => (kind === 'reward' ? 'Le code reste copié : il suffit de le coller dans le champ Reward Code.' : 'Le code reste copié : il suffit de le coller au paiement.'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? 'Le code reste copié : il suffit de le coller dans le champ Reward Code.'
+        : kind === 'referral'
+          ? 'Le code reste copié : recherchez-le dans l’appli ou sur le site.'
+          : 'Le code reste copié : il suffit de le coller au paiement.',
     closeNotice: 'Fermer l\'avis',
   },
   de: {
@@ -61,7 +81,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `Code ${coupon} kopieren`,
     copyAndGo: 'Kopieren und zum Shop',
     copyOnly: 'Nur den Code kopieren',
-    goHint: (kind) => (kind === 'reward' ? 'Der Code bleibt kopiert: einfach ins Feld Reward Code einfügen.' : 'Der Code bleibt kopiert: einfach an der Kasse einfügen.'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? 'Der Code bleibt kopiert: einfach ins Feld Reward Code einfügen.'
+        : kind === 'referral'
+          ? 'Der Code bleibt kopiert: Suchen Sie ihn in der App oder auf der Website.'
+          : 'Der Code bleibt kopiert: einfach an der Kasse einfügen.',
     closeNotice: 'Hinweis schließen',
   },
   it: {
@@ -70,7 +95,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `Copia il codice ${coupon}`,
     copyAndGo: 'Copia e vai al negozio',
     copyOnly: 'Copia solo il codice',
-    goHint: (kind) => (kind === 'reward' ? 'Il codice resta copiato: basta incollarlo nel campo Reward Code.' : 'Il codice resta copiato: basta incollarlo al checkout.'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? 'Il codice resta copiato: basta incollarlo nel campo Reward Code.'
+        : kind === 'referral'
+          ? 'Il codice resta copiato: cercalo nell’app o sul sito.'
+          : 'Il codice resta copiato: basta incollarlo al checkout.',
     closeNotice: 'Chiudi avviso',
   },
   ko: {
@@ -79,7 +109,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `코드 ${coupon} 복사`,
     copyAndGo: '복사하고 스토어로 이동',
     copyOnly: '코드만 복사',
-    goHint: (kind) => (kind === 'reward' ? '코드가 복사된 상태예요. Reward Code 입력란에 붙여 넣기만 하세요.' : '코드가 복사된 상태예요. 결제 화면에 붙여 넣기만 하세요.'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? '코드가 복사된 상태예요. Reward Code 입력란에 붙여 넣기만 하세요.'
+        : kind === 'referral'
+          ? '코드가 복사된 상태예요. 앱이나 웹사이트에서 검색하세요.'
+          : '코드가 복사된 상태예요. 결제 화면에 붙여 넣기만 하세요.',
     closeNotice: '알림 닫기',
   },
   ja: {
@@ -88,7 +123,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `コード ${coupon} をコピー`,
     copyAndGo: 'コピーしてストアへ',
     copyOnly: 'コードだけコピー',
-    goHint: (kind) => (kind === 'reward' ? 'コードはコピーされたままです。Reward Code 欄に貼り付けるだけです。' : 'コードはコピーされたままです。決済画面に貼り付けるだけです。'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? 'コードはコピーされたままです。Reward Code 欄に貼り付けるだけです。'
+        : kind === 'referral'
+          ? 'コードはコピーされたままです。アプリまたはサイトで検索してください。'
+          : 'コードはコピーされたままです。決済画面に貼り付けるだけです。',
     closeNotice: 'お知らせを閉じる',
   },
   'zh-hant': {
@@ -97,7 +137,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `複製代碼 ${coupon}`,
     copyAndGo: '複製並前往商店',
     copyOnly: '只複製代碼',
-    goHint: (kind) => (kind === 'reward' ? '代碼已複製，貼到 Reward Code 欄位即可。' : '代碼已複製，結帳時貼上即可。'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? '代碼已複製，貼到 Reward Code 欄位即可。'
+        : kind === 'referral'
+          ? '代碼已複製，在 App 或網站搜尋即可。'
+          : '代碼已複製，結帳時貼上即可。',
     closeNotice: '關閉提示',
   },
   'zh-hans': {
@@ -106,7 +151,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `复制代码 ${coupon}`,
     copyAndGo: '复制并前往商店',
     copyOnly: '只复制代码',
-    goHint: (kind) => (kind === 'reward' ? '代码已复制，粘贴到 Reward Code 栏位即可。' : '代码已复制，结账时粘贴即可。'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? '代码已复制，粘贴到 Reward Code 栏位即可。'
+        : kind === 'referral'
+          ? '代码已复制，在 App 或网站搜索即可。'
+          : '代码已复制，结账时粘贴即可。',
     closeNotice: '关闭提示',
   },
   ar: {
@@ -115,7 +165,12 @@ export const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     copyCoupon: (coupon) => `انسخ الرمز ${coupon}`,
     copyAndGo: 'انسخ واذهب إلى المتجر',
     copyOnly: 'انسخ الرمز فقط',
-    goHint: (kind) => (kind === 'reward' ? 'يبقى الرمز منسوخًا: الصقه فقط في حقل Reward Code.' : 'يبقى الرمز منسوخًا: الصقه فقط عند إتمام الشراء.'),
+    goHint: (kind) =>
+      kind === 'reward'
+        ? 'يبقى الرمز منسوخًا: الصقه فقط في حقل Reward Code.'
+        : kind === 'referral'
+          ? 'يبقى الرمز منسوخًا: ابحث عنه في التطبيق أو الموقع.'
+          : 'يبقى الرمز منسوخًا: الصقه فقط عند إتمام الشراء.',
     closeNotice: 'إغلاق التنبيه',
   },
 };

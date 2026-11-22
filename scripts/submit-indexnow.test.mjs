@@ -1,5 +1,8 @@
 import assert from 'node:assert/strict';
-import { spawnSync } from 'node:child_process';
+import { execFileSync, spawnSync } from 'node:child_process';
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
 import test from 'node:test';
 import { fileURLToPath } from 'node:url';
 
@@ -18,9 +21,10 @@ function stubFetch() {
 }
 const FETCH_STUB = `data:text/javascript,${encodeURIComponent(`(${stubFetch})();`)}`;
 
-function run(args, env = {}) {
+function run(args, env = {}, cwd = undefined) {
   const result = spawnSync(process.execPath, ['--import', FETCH_STUB, SCRIPT, ...args], {
     encoding: 'utf8',
+    cwd,
     // Um npm_config_dry_run herdado poria todos os casos em ensaio.
     env: { ...process.env, npm_config_dry_run: undefined, ...env },
   });
@@ -135,4 +139,88 @@ test('sem argumentos, envia a lista padrão', () => {
   const result = run([]);
   assert.equal(result.status, 0, result.stderr);
   assert.deepEqual(result.fetches.map((call) => call.body.urlList), [DEFAULT_URLS]);
+});
+
+test('--since coleta URLs alteradas num repositório temporário e filtra afiliados sem página ativa', () => {
+  const missing = run(['--since']);
+  assert.equal(missing.status, 1);
+  assert.deepEqual(missing.fetches, []);
+
+  const tempDir = mkdtempSync(join(tmpdir(), 'ecc-indexnow-test-'));
+  try {
+    const git = (...gitArgs) =>
+      execFileSync('git', gitArgs, { cwd: tempDir, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
+
+    git('init');
+    git('config', 'user.name', 'Test');
+    git('config', 'user.email', 'test@example.com');
+
+    mkdirSync(join(tempDir, 'src/lib'), { recursive: true });
+    mkdirSync(join(tempDir, 'content/reviews'), { recursive: true });
+    mkdirSync(join(tempDir, 'content/receitas'), { recursive: true });
+
+    writeFileSync(
+      join(tempDir, 'src/lib/couponsData.ts'),
+      [
+        'const STORE_COUPONS = [',
+        '  {',
+        "    offerMode: 'discount-code',",
+        "    slug: 'belive',",
+        "    status: 'ativo',",
+        '  },',
+        '  {',
+        "    offerMode: 'discount-code',",
+        "    slug: 'kopenhagen',",
+        "    status: 'pausado',",
+        '  },',
+        '];',
+      ].join('\n'),
+      'utf8'
+    );
+    git('add', '.');
+    git('commit', '-m', 'base');
+
+    writeFileSync(
+      join(tempDir, 'content/reviews/belive-e-boa.json'),
+      JSON.stringify({ slug: 'belive-e-boa', affiliate: 'belive' }),
+      'utf8'
+    );
+    writeFileSync(
+      join(tempDir, 'content/reviews/proton-en.json'),
+      JSON.stringify({ slug: 'proton-en', locale: 'en', affiliate: 'proton' }),
+      'utf8'
+    );
+    writeFileSync(
+      join(tempDir, 'content/reviews/multi-lojas.json'),
+      JSON.stringify({ slug: 'multi-lojas', affiliate: ['shopee', 'kopenhagen', 'belive'] }),
+      'utf8'
+    );
+    writeFileSync(
+      join(tempDir, 'content/reviews/rascunho.json'),
+      JSON.stringify({ slug: 'rascunho', draft: true, affiliate: 'belive' }),
+      'utf8'
+    );
+    writeFileSync(
+      join(tempDir, 'content/receitas/bolo-simples.json'),
+      JSON.stringify({ slug: 'bolo-simples' }),
+      'utf8'
+    );
+    git('add', '.');
+    git('commit', '-m', 'lote de conteúdo');
+
+    const result = run(['--dry-run', '--since', 'HEAD~1'], {}, tempDir);
+    assert.equal(result.status, 0, result.stderr);
+    assert.deepEqual(result.fetches, []);
+    assert.deepEqual(dryRunPayload(result.stdout).urlList, [
+      `${BASE_URL}/receitas/bolo-simples`,
+      `${BASE_URL}/reviews/belive-e-boa`,
+      `${BASE_URL}/cupons/belive`,
+      `${BASE_URL}/reviews/multi-lojas`,
+      `${BASE_URL}/en/reviews/proton-en`,
+      `${BASE_URL}/sitemap.xml`,
+      `${BASE_URL}/llms.txt`,
+    ]);
+  } finally {
+    rmSync(tempDir, { recursive: true, force: true });
+  }
 });

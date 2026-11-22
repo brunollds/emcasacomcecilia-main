@@ -42,7 +42,7 @@ export function EditorialReveal({
   delay = 0,
   distance = 24,
   duration = 600,
-  threshold = 0.1,
+  threshold = 0,
   once = true,
   className = '',
   as: Component = 'div',
@@ -61,17 +61,30 @@ export function EditorialReveal({
   const transitionDelay = normalizeDelay(delay);
 
   useEffect(() => {
+    if (prefersReducedMotion) return undefined;
     const timeoutId = window.setTimeout(() => {
+      const element = ref.current;
+      // O que já está na tela (ou acima dela) nunca passa por opacity: 0.
+      if (element && element.getBoundingClientRect().top < window.innerHeight) {
+        setIsVisible(true);
+      }
       setCanAnimate(true);
     }, 80);
     return () => window.clearTimeout(timeoutId);
-  }, []);
+  }, [prefersReducedMotion]);
 
   useEffect(() => {
-    if (!canAnimate) return undefined;
+    if (!canAnimate || prefersReducedMotion || isVisible) return undefined;
 
     const element = ref.current;
     if (!element) return undefined;
+
+    if (element.getBoundingClientRect().top < window.innerHeight) {
+      window.requestAnimationFrame(() => {
+        setIsVisible(true);
+      });
+      return undefined;
+    }
 
     if (typeof IntersectionObserver === 'undefined') {
       window.requestAnimationFrame(() => {
@@ -80,6 +93,7 @@ export function EditorialReveal({
       return undefined;
     }
 
+    // threshold 0 + margem curta: seções longas no celular (>10x a tela) nunca chegavam a threshold 0.1.
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry?.isIntersecting) {
@@ -91,15 +105,15 @@ export function EditorialReveal({
           setIsVisible(false);
         }
       },
-      { threshold }
+      { threshold, rootMargin: '0px 0px -8% 0px' }
     );
 
     observer.observe(element);
     return () => observer.disconnect();
-  }, [canAnimate, once, threshold, prefersReducedMotion, transitionDelay]);
+  }, [canAnimate, isVisible, once, threshold, prefersReducedMotion, transitionDelay]);
 
   const Tag = Component as React.ElementType;
-  const showImmediately = !canAnimate;
+  const showImmediately = !canAnimate || prefersReducedMotion;
   const effectiveDistance = prefersReducedMotion ? 0 : distance;
 
   const style: React.CSSProperties = {
