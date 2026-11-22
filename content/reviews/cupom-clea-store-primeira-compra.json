@@ -125,6 +125,16 @@
         "O CSEMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 10%. Serve para a próxima peça de alfaiataria, como o [Blazer Oversized Alfaiataria Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305), ou para repor as camisetas, como a [Camiseta Comfort Algodão Peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434) ou a [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189).",
         "A regra de um voucher por pedido continua, então cada compra nova leva um código só. O cashback de 10% em créditos da loja, que vale por 30 dias e é usado no campo “Utilize seu saldo de créditos”, pode entrar na compra seguinte junto com o código.",
         "Se uma compra anterior foi devolvida, lembre que cupom, cashback e frete grátis não são reembolsados. O código em si não muda por causa disso e vale de novo no pedido seguinte."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-trench-coat-caqui.webp",
+          "alt": "Modelo com o trench coat caqui sem mangas da Cléa Store, fechado com cinto, e calça caqui",
+          "caption": "Trench Coat Caqui com Cinto. Imagem: Cléa Store.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.cleastore.com.br/produto/trench-coat-caqui-com-cinto-4415"
+        }
       ]
     },
     {
@@ -139,12 +149,7 @@
       ],
       "postParagraphs": [
         "O passo a passo com as telas está em [como usar o cupom CSEMCASACOMCECILIA](/reviews/cupom-clea-store-como-usar)."
-      ],
-      "image": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
-      "imageAlt": "Checkout da Cléa Store depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o cashback de até R$ 23,22.",
-      "imageCaption": "O código aplicado no checkout da Cléa Store, em outro pedido de teste: a linha “Desconto” e o cashback aparecem no resumo.",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.931
+      ]
     },
     {
       "heading": "Perguntas frequentes",

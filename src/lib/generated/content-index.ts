@@ -92937,11 +92937,11 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A mesma página diz que o pagamento é feito **somente no site da loja**. Se alguém pedir para pagar por outro caminho, não siga com a compra."
         ],
-        "image": "/images/reviews/clea-store/clea-store-rodape-cnpj.webp",
-        "imageAlt": "Rodapé do site cleastore.com.br com o CNPJ 27.310.985/0001-08 marcado em amarelo",
-        "imageCaption": "Rodapé de cleastore.com.br, com o CNPJ. O marca-texto amarelo é nosso.",
+        "image": "/images/reviews/clea-store/clea-store-e-confiavel-rodape-cnpj-2026-11.webp",
+        "imageAlt": "Rodapé do site cleastore.com.br com as bandeiras de cartão e o Pix, o selo 4,8 do Reclame Aqui e o CNPJ 27.310.985/0001-08",
+        "imageCaption": "Rodapé de cleastore.com.br, com o CNPJ da loja.",
         "imageFit": "contain",
-        "imageAspectRatio": 1.848
+        "imageAspectRatio": 2.622
       },
       {
         "heading": "O que a Cléa Store vende",
@@ -93289,13 +93289,13 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Camisetas é só o produto mais citado: os números do perfil não dizem que seja o que mais dá problema, e a camiseta é a peça que a loja mais divulga. Entre as reclamações recentes listadas na consulta, todas respondidas, os temas eram falta de resposta sobre o código de postagem de uma devolução, devolução de uma t-shirt de kit, t-shirt de brinde não recebida, cancelamento por atraso e pedido não recebido sem resposta no WhatsApp. Os títulos são o relato de quem reclamou; a resposta da loja e o desfecho ficam dentro de cada reclamação, no perfil.",
-          "A imagem desta seção é do gráfico de principais problemas do perfil, de uma consulta anterior à da tabela: vale como ilustração de onde olhar, e os percentuais atuais são os da lista acima."
+          "A imagem desta seção mostra o quadro de principais problemas da aba geral, com os mesmos percentuais da lista acima."
         ],
-        "image": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
-        "imageAlt": "Gráfico de principais problemas comentados no perfil da Cléa Store no Reclame Aqui, na aba geral, com a categoria, o problema e o produto mais citados",
-        "imageCaption": "Gráfico de principais problemas da aba geral do perfil, de uma consulta anterior. O marca-texto amarelo é nosso.",
+        "image": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas-2026-11.webp",
+        "imageAlt": "Quadro Principais problemas comentados do perfil da Cléa Store no Reclame Aqui, na aba geral: Moda Feminina com 5,99%, Produto não recebido com 33,18% e Camisetas com 14,29%",
+        "imageCaption": "Principais problemas da aba geral do perfil, que soma até três anos. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
-        "imageAspectRatio": 1.185
+        "imageAspectRatio": 1.863
       },
       {
         "heading": "Como a loja responde e o que conferir antes de comprar",
@@ -95364,18 +95364,12 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
-            "alt": "Checkout da Cléa Store em 14/10/2026 com o Kit 3 T-Shirts Oversized Classic em promoção, de R$ 387,00 por R$ 258,00, antes do cupom, com o cashback de até R$ 25,80 e a linha Cupom de desconto marcados em amarelo",
-            "caption": "Checkout da Cléa Store, antes do cupom: o kit em promoção por R$ 258,00 e o total de R$ 258,00. O marca-texto amarelo é nosso.",
+            "src": "/images/reviews/clea-store/black-friday-clea-store-blusa-peplum-rosa.webp",
+            "alt": "Modelo com a blusa regata de alfaiataria peplum rosa da Cléa Store e calça jeans escura",
+            "caption": "Blusa Regata Alfaiataria Peplum Rosa. Imagem: Cléa Store.",
             "objectFit": "contain",
-            "aspectRatio": 1.1486
-          },
-          {
-            "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
-            "alt": "Checkout da Cléa Store em 14/10/2026 depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o total de R$ 232,20",
-            "caption": "Depois do cupom: desconto de R$ 25,80 sobre os R$ 258,00 e total de R$ 232,20. O marca-texto amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9308
+            "aspectRatio": 0.718,
+            "href": "https://www.cleastore.com.br/produto/blusa-regata-alfaiataria-peplum-rosa-4420"
           }
         ]
       },
@@ -117998,6 +117992,16 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "De um número para o outro, a cintura sobe de 4 a 10 cm e o quadril sobe 8 cm. Se a cintura e o quadril caem em números diferentes, use o provador da página, e se a dúvida continuar a devolução é grátis: a tabela não diz qual medida pesa mais."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas-calca-linho-vermelha.webp",
+            "alt": "Modelo de corpo inteiro com a calça feminina de alfaiataria em linho vermelha da Cléa Store e colete vermelho com cinto",
+            "caption": "Calça Feminina Alfaiataria em Linho Vermelha. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-em-linho-vermelha-4414"
+          }
         ]
       },
       {
@@ -118232,11 +118236,12 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
-            "alt": "Resumo do pedido no site da Cléa Store com o cupom aplicado e R$ 25,80 de desconto num kit de R$ 258",
-            "caption": "Cupom aplicado no carrinho. Print do Em Casa com Cecília.",
+            "src": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-body-tule-gola-alta.webp",
+            "alt": "Modelo com o body de tule gola alta bordô da Cléa Store, de manga longa, e calça jeans escura",
+            "caption": "Body Tule Gola Alta Second Skin, comprado no site com o cupom. Imagem: Cléa Store.",
             "objectFit": "contain",
-            "aspectRatio": 0.9308
+            "aspectRatio": 0.667,
+            "href": "https://www.cleastore.com.br/produto/body-tule-gola-alta-second-skin-tule-4019"
           }
         ]
       },
@@ -197409,11 +197414,12 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
-            "alt": "Modelo com a camiseta oversized off white do Kit 3 T-Shirts Oversized Classic da Cléa Store",
-            "caption": "O Kit Classic: off white, preto e marrom, uma de cada. Imagem: Cléa Store.",
-            "objectFit": "square",
-            "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951"
+            "src": "/images/reviews/clea-store/clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+            "alt": "Caixa The Essentials da Cléa Store com camisetas dobradas em rosa, verde, bege, off white, marrom e preto, foto oficial do Kit 3 T-Shirts Essenciais",
+            "caption": "O Kit 3 T-Shirts Essenciais, em que você escolhe as três cores. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229"
           }
         ],
         "styling": {
@@ -197509,11 +197515,12 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
-            "alt": "Modelo com o body gola alta manga longa Second Skin da Cléa Store",
-            "caption": "O Gola Alta Manga Longa, que a loja indica sozinho ou por baixo do blazer. Imagem: Cléa Store.",
-            "objectFit": "portrait",
-            "href": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047"
+            "src": "/images/reviews/clea-store/clea-store-e-boa-body-ombro-unico.webp",
+            "alt": "Modelo com o body ombro único rosa claro da Cléa Store e calça jeans clara",
+            "caption": "Body Ombro Único com Detalhe nas Costas. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230"
           }
         ],
         "styling": {
@@ -197560,11 +197567,12 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-colete-4221.webp",
-            "alt": "Colete frente única de linho bege da Cléa Store, foto oficial da loja",
-            "caption": "O colete de linho bege: a alfaiataria se monta peça a peça. Imagem: Cléa Store.",
-            "objectFit": "portrait",
-            "href": "https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221"
+            "src": "/images/reviews/clea-store/clea-store-e-boa-calca-alfaiataria-caqui.webp",
+            "alt": "Modelo de corpo inteiro com a calça de alfaiataria caqui da Cléa Store, colete caqui com cinto e blusa clara de manga longa",
+            "caption": "Calça Alfaiataria Caqui, montada com colete e blusa vendidos à parte. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.cleastore.com.br/produto/calca-alfaiataria-caqui-4343"
           }
         ]
       },
@@ -236567,6 +236575,16 @@ export const reviewsData: unknown[] = [
           "O CSEMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 10%. Serve para a próxima peça de alfaiataria, como o [Blazer Oversized Alfaiataria Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305), ou para repor as camisetas, como a [Camiseta Comfort Algodão Peruano](https://www.cleastore.com.br/produto/camiseta-comfort-algodao-peruano-4434) ou a [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189).",
           "A regra de um voucher por pedido continua, então cada compra nova leva um código só. O cashback de 10% em créditos da loja, que vale por 30 dias e é usado no campo “Utilize seu saldo de créditos”, pode entrar na compra seguinte junto com o código.",
           "Se uma compra anterior foi devolvida, lembre que cupom, cashback e frete grátis não são reembolsados. O código em si não muda por causa disso e vale de novo no pedido seguinte."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-trench-coat-caqui.webp",
+            "alt": "Modelo com o trench coat caqui sem mangas da Cléa Store, fechado com cinto, e calça caqui",
+            "caption": "Trench Coat Caqui com Cinto. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.667,
+            "href": "https://www.cleastore.com.br/produto/trench-coat-caqui-com-cinto-4415"
+          }
         ]
       },
       {
@@ -236581,12 +236599,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O passo a passo com as telas está em [como usar o cupom CSEMCASACOMCECILIA](/reviews/cupom-clea-store-como-usar)."
-        ],
-        "image": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
-        "imageAlt": "Checkout da Cléa Store depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o cashback de até R$ 23,22.",
-        "imageCaption": "O código aplicado no checkout da Cléa Store, em outro pedido de teste: a linha “Desconto” e o cashback aparecem no resumo.",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.931
+        ]
       },
       {
         "heading": "Perguntas frequentes",

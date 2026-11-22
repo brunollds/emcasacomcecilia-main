@@ -159,11 +159,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
-          "alt": "Resumo do pedido no site da Cléa Store com o cupom aplicado e R$ 25,80 de desconto num kit de R$ 258",
-          "caption": "Cupom aplicado no carrinho. Print do Em Casa com Cecília.",
+          "src": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-body-tule-gola-alta.webp",
+          "alt": "Modelo com o body de tule gola alta bordô da Cléa Store, de manga longa, e calça jeans escura",
+          "caption": "Body Tule Gola Alta Second Skin, comprado no site com o cupom. Imagem: Cléa Store.",
           "objectFit": "contain",
-          "aspectRatio": 0.9308
+          "aspectRatio": 0.667,
+          "href": "https://www.cleastore.com.br/produto/body-tule-gola-alta-second-skin-tule-4019"
         }
       ]
     },

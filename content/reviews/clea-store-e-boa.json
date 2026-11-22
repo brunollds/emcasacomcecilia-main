@@ -82,11 +82,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
-          "alt": "Modelo com a camiseta oversized off white do Kit 3 T-Shirts Oversized Classic da Cléa Store",
-          "caption": "O Kit Classic: off white, preto e marrom, uma de cada. Imagem: Cléa Store.",
-          "objectFit": "square",
-          "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951"
+          "src": "/images/reviews/clea-store/clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+          "alt": "Caixa The Essentials da Cléa Store com camisetas dobradas em rosa, verde, bege, off white, marrom e preto, foto oficial do Kit 3 T-Shirts Essenciais",
+          "caption": "O Kit 3 T-Shirts Essenciais, em que você escolhe as três cores. Imagem: Cléa Store.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229"
         }
       ],
       "styling": {
@@ -182,11 +183,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
-          "alt": "Modelo com o body gola alta manga longa Second Skin da Cléa Store",
-          "caption": "O Gola Alta Manga Longa, que a loja indica sozinho ou por baixo do blazer. Imagem: Cléa Store.",
-          "objectFit": "portrait",
-          "href": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047"
+          "src": "/images/reviews/clea-store/clea-store-e-boa-body-ombro-unico.webp",
+          "alt": "Modelo com o body ombro único rosa claro da Cléa Store e calça jeans clara",
+          "caption": "Body Ombro Único com Detalhe nas Costas. Imagem: Cléa Store.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230"
         }
       ],
       "styling": {
@@ -233,11 +235,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-colete-4221.webp",
-          "alt": "Colete frente única de linho bege da Cléa Store, foto oficial da loja",
-          "caption": "O colete de linho bege: a alfaiataria se monta peça a peça. Imagem: Cléa Store.",
-          "objectFit": "portrait",
-          "href": "https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221"
+          "src": "/images/reviews/clea-store/clea-store-e-boa-calca-alfaiataria-caqui.webp",
+          "alt": "Modelo de corpo inteiro com a calça de alfaiataria caqui da Cléa Store, colete caqui com cinto e blusa clara de manga longa",
+          "caption": "Calça Alfaiataria Caqui, montada com colete e blusa vendidos à parte. Imagem: Cléa Store.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.cleastore.com.br/produto/calca-alfaiataria-caqui-4343"
         }
       ]
     },

@@ -271,18 +271,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
-          "alt": "Checkout da Cléa Store em 14/10/2026 com o Kit 3 T-Shirts Oversized Classic em promoção, de R$ 387,00 por R$ 258,00, antes do cupom, com o cashback de até R$ 25,80 e a linha Cupom de desconto marcados em amarelo",
-          "caption": "Checkout da Cléa Store, antes do cupom: o kit em promoção por R$ 258,00 e o total de R$ 258,00. O marca-texto amarelo é nosso.",
+          "src": "/images/reviews/clea-store/black-friday-clea-store-blusa-peplum-rosa.webp",
+          "alt": "Modelo com a blusa regata de alfaiataria peplum rosa da Cléa Store e calça jeans escura",
+          "caption": "Blusa Regata Alfaiataria Peplum Rosa. Imagem: Cléa Store.",
           "objectFit": "contain",
-          "aspectRatio": 1.1486
-        },
-        {
-          "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
-          "alt": "Checkout da Cléa Store em 14/10/2026 depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o total de R$ 232,20",
-          "caption": "Depois do cupom: desconto de R$ 25,80 sobre os R$ 258,00 e total de R$ 232,20. O marca-texto amarelo é nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9308
+          "aspectRatio": 0.718,
+          "href": "https://www.cleastore.com.br/produto/blusa-regata-alfaiataria-peplum-rosa-4420"
         }
       ]
     },
