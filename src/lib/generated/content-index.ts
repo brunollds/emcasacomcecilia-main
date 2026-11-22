@@ -275006,22 +275006,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os tons usam nomes de distâncias de corrida, como 10 KM e 42 KM, e o [5 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-5km) é a versão incolor. Veja as amostras em braços e rostos nas fotos da marca. Na ficha, o botão “Prove virtualmente” ajuda a comparar as versões. Confirme o nome do tom escolhido antes de fechar o pedido.",
           "A loja não descreve subtom em texto, e o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher) reúne os links dos nove tons e o que cruzar antes de decidir."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-braco.webp",
-            "alt": "Amostras de tons do Pink Stick em dois braços, em foto da Pink Cheeks.",
-            "caption": "Amostras do Pink Stick em dois tons de pele. Foto da Pink Cheeks.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          },
-          {
-            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
-            "alt": "Oito rostos com o Pink Stick, cada um com o nome da cor, de 10 KM a 100 KM, e um rosto com a indicação INCOLOR, em foto da Pink Cheeks",
-            "caption": "Amostras no rosto e a versão incolor, identificadas pela Pink Cheeks.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          }
         ]
       },
       {
@@ -275068,6 +275052,16 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na linha Redless, a Pink Cheeks oferece o [bastão de 18 g](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g), a R$ 54,90, o [spray de 35 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml), a R$ 52,90, ou de [75 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-75ml), a R$ 69,90, e o [creme Chamois Cream de 100 g](https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1), a R$ 54,90.",
           "Se procura a linha por causa do atrito da roupa ou do equipamento, compare a forma de aplicação e o tamanho na ficha de cada versão. Os preços acima são os da vitrine, antes do frete."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+            "alt": "Bastão antiatrito Redless da Pink Cheeks, verde-água, ao lado da caixa branca, em foto oficial do produto",
+            "caption": "Redless Antiatrito em Bastão, de 18 g. Imagem: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g"
+          }
         ]
       },
       {
@@ -275075,6 +275069,16 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para comparar opções para o corpo, veja as fichas do [Shield FPS 60 e FPUVA 50, de 45 g](https://pinkcheeks.com.br/products/shield-protetor-corporal-fps60-fpuva50-45g), a R$ 99,90, e do [bifásico FPS 57 e FPUVA 30, de 100 ml](https://pinkcheeks.com.br/products/protetor-solar-corporal-facial-bifasico-fps-57-fpuva-30-100ml), também a R$ 99,90, que a loja indica para corpo e rosto.",
           "Para o rosto, a loja também vende o [protetor facial antioleosidade e antiacne de 18 g](https://pinkcheeks.com.br/products/protetor-solar-facial-antioleosidade-e-antiacne-18g), a R$ 109,90, descrito como bastão. Se você tem acne ou sensibilidade e está em dúvida sobre a fórmula, converse com um dermatologista."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-shield-protetor-corporal.webp",
+            "alt": "Bastão Shield, protetor solar corporal FPS 60 FPUVA 50 da Pink Cheeks, sobre a caixa roxa, em foto oficial do produto",
+            "caption": "Shield, o protetor corporal em bastão de 45 g. Imagem: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/shield-protetor-corporal-fps60-fpuva50-45g"
+          }
         ]
       },
       {
@@ -275417,6 +275421,16 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pelo Reclame Aqui, a loja responde a todas as reclamações e tem faixa Boa ou Ótima em todas as janelas consultadas, com solução de 77,8% entre as avaliadas nos seis meses. O ponto de atenção é o produto com defeito, o motivo mais citado na aba Geral, e a base de avaliações é pequena. Ao receber o pedido, confira o item e guarde as fotos.",
           "Se decidir comprar, o [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial. Para saber quem vende e como funcionam as trocas, veja [se a Pink Cheeks é confiável](/reviews/pinkcheeks-e-confiavel), e o passo a passo do checkout está em [como usar o cupom](/reviews/cupom-pinkcheeks-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp",
+            "alt": "Kit Natação da Pink Cheeks com shampoo em pó, leave-in Anti Shock Speedo em spray e protetor solar facial Speedo em bastão, em foto oficial",
+            "caption": "Kit Natação, um dos kits da Black Friday em que o cupom entrou no nosso teste. Imagem: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/kit-natacao"
+          }
         ]
       },
       {
