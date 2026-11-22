@@ -277189,7 +277189,7 @@ export const reviewsData: unknown[] = [
     "type": "Guia & Cupons",
     "title": "Cupom Denavita: como aplicar o EMCASA no checkout e com o que ele soma",
     "seoTitle": "Como usar o cupom EMCASA na Denavita, 10% OFF",
-    "description": "Veja onde aplicar EMCASA no checkout da Denavita, quanto ele descontou em três carrinhos com avulsos e kits e como conferir o preço final com entrega pelo CEP.",
+    "description": "Veja onde aplicar EMCASA no checkout da Denavita, quanto ele descontou em quatro carrinhos com avulsos e kits e como conferir o preço final com entrega pelo CEP.",
     "metaDescription": "O cupom EMCASA dá 10% OFF na Denavita. Veja onde aplicar no checkout, a conta do nosso teste com produtos em promoção, o frete grátis e as trocas.",
     "image": "/images/reviews/denavita/cupom-denavita-como-usar-hero-pt-v2.webp",
     "imageAlt": "Mão segura o pote de Trio Magnésio da Denavita ao lado do recorte do checkout com EMCASA no campo de cupom. A capa pergunta como aplicar o cupom.",
@@ -277215,7 +277215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Use EMCASA para ter 10% OFF no site da Denavita, na primeira compra ou se já for cliente. No checkout, abra “Tem um cupom?” e clique em “Adicionar” antes de informar o CPF. O desconto entrou sobre o preço dos produtos e dos kits testados e se manteve no Pix."
+          "Use EMCASA para ter 10% OFF no site da Denavita, na primeira compra ou se já for cliente. No checkout, abra “Tem um cupom?” e clique em “Adicionar” antes de informar o CPF. O desconto entrou nos produtos e nos kits testados, no Pix e no cartão em até 12x."
         ]
       },
       {
@@ -277246,10 +277246,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom tira: a conta do teste",
         "paragraphs": [
-          "Em 19/11, os três carrinhos receberam 10% de desconto sobre o preço exibido no checkout. No pedido com dois kits, o desconto de R$ 39,98 se manteve quando foi escolhido Pix."
+          "Nos testes de 19 e 21 de novembro, os quatro carrinhos receberam 10% de desconto sobre o preço exibido no checkout. No pedido com dois kits, o desconto de R$ 39,98 se manteve quando foi escolhido Pix."
         ],
         "comparisonTable": {
-          "caption": "Três carrinhos testados no site oficial, antes do frete.",
+          "caption": "Quatro carrinhos testados no site oficial, antes do frete.",
           "headers": [
             "Carrinho",
             "Produtos",
@@ -277258,22 +277258,28 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Laranja Moro Morosil, Picolinato de Cromo e Café Verde",
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps) (Morosil, Picolinato de Cromo e Café Verde)",
               "R$ 76,90",
               "R$ 7,69",
               "R$ 69,21"
             ],
             [
-              "Jejoom Shot Matinal, Trio Magnésio e Laranja Moro",
+              "[Jejoom Shot Matinal](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio) e [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
               "R$ 218,70",
               "R$ 21,87",
               "R$ 196,83"
             ],
             [
-              "Kit Vida Fit e Turbo Metabolismo",
+              "[Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)",
               "R$ 399,80",
               "R$ 39,98",
               "R$ 359,82"
+            ],
+            [
+              "[Kit Queridinhos Denavita](https://www.denavita.com.br/products/kit-queridinhos-denavita), [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)",
+              "R$ 659,70",
+              "R$ 65,97",
+              "R$ 593,73"
             ]
           ]
         },
@@ -277293,21 +277299,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Soma com promoção, kits e Pix?",
         "paragraphs": [
-          "O desconto entrou no avulso em promoção e no carrinho com Kit Vida Fit e Turbo Metabolismo. No Leve 3, Pague 2, o resumo do nosso teste mostrou os 10% do EMCASA, sem um abatimento separado da oferta por quantidade.",
-          "Para “Leve 3, Pague 2”, “Compre 2 Leve 3” e outras quantidades, compare o subtotal antes e depois do código e confira quais descontos aparecem juntos. Veja [as ofertas que a Denavita anuncia](/reviews/black-friday-denavita)."
+          "O desconto entrou no avulso em promoção, no carrinho com [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo) e no de três kits, e se manteve no Pix.",
+          "As opções por quantidade são variantes na página de cada produto: Compre 2 Leve 3 e Compre 3 Leve 5 no [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Leve 3 e Pague 2 no [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio). Testamos o EMCASA em avulsos e em kits; nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar. Veja [as ofertas que a Denavita anuncia](/reviews/black-friday-denavita)."
         ]
       },
       {
         "heading": "Frete, prazo e parcelamento",
         "paragraphs": [
-          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, com asterisco. Informe o CEP, aplique o cupom e confira o total com a entrega no checkout.",
-          "O parcelamento no cartão varia pelo pedido. Veja as opções no checkout e, se estiver comprando para uma data certa, guarde a previsão de entrega. [Prazos e atendimento da Denavita](/reviews/denavita-e-confiavel)"
+          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP, aplique o cupom e confira o prazo e o total com a entrega no checkout.",
+          "O pagamento pode ser em até 12x no cartão ou no Pix, com o EMCASA aplicado nos dois. Mais sobre entrega e atendimento em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
         ]
       },
       {
         "heading": "Trocas e devolução",
         "paragraphs": [
-          "Para desistência ou produto entregue com problema, abra uma solicitação no [portal de trocas da Denavita](https://trocas-gobeaute.devgogroup.com/denavita) com o número do pedido. Em compra online, o [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm#art49) prevê sete dias a partir do recebimento para desistir."
+          "A loja informa 30 dias depois da entrega para problema com o pedido e 7 dias para desistir, com o produto lacrado, pelo portal de trocas da Denavita. O passo a passo está em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
         ]
       },
       {
@@ -277329,12 +277335,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Onde coloco o cupom na Denavita? No checkout, abra “Tem um cupom?”, cole EMCASA e clique em “Adicionar”. Confira na linha “Cupom de desconto” se os 10% entraram.",
           "O cupom EMCASA vale no Pix? No nosso teste, o desconto de 10% se manteve quando selecionamos Pix no pedido com Kit Vida Fit e Turbo Metabolismo.",
+          "Dá para parcelar com o cupom? Sim. O checkout mostra o parcelamento em até 12x no cartão, e o Pix também aceita o código.",
           "Qual é o frete grátis da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. Confira o frete para o seu CEP depois de aplicar o cupom no checkout.",
           "O cupom vale no Mercado Livre? O EMCASA é do site oficial da Denavita: é no checkout da loja, em seguro.denavita.com.br, que o código entra.",
-          "O cupom vale no Laranja Moro? Vale: no nosso teste, o Laranja Moro em promoção ganhou os 10%. A conta está no quadro acima, e o produto tem guia próprio: [Laranja Moro Denavita](/reviews/laranja-moro-denavita)."
+          "O cupom vale no Laranja Moro? Vale: no nosso teste, o [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps) em promoção ganhou os 10%. A conta está no quadro acima, e o produto tem guia próprio: [Laranja Moro Denavita](/reviews/laranja-moro-denavita)."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-21"
   },
   {
     "id": 1114,
@@ -277351,6 +277359,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
+    "updatedAt": "2026-11-21",
     "draft": false,
     "isNew": true,
     "bodyDatesReason": "campanha",
@@ -277362,9 +277371,9 @@ export const reviewsData: unknown[] = [
     "affiliate": "denavita",
     "type": "Guia de Black Friday",
     "title": "Black Friday Denavita 2026: preços dos kits e onde o EMCASA deu 10%",
-    "seoTitle": "Black Friday Denavita 2026: cupom EMCASA e kits",
-    "description": "Compare os preços por pote nas ofertas da Denavita, veja onde o EMCASA deu 10% OFF nos nossos carrinhos e confira como funciona a compra por quantidade e com frete.",
-    "metaDescription": "EMCASA dá 10% OFF na Denavita. O teste confirmou o desconto em avulsos promocionais e dois kits. Veja o que conferir nas ofertas por quantidade.",
+    "seoTitle": "Black Friday Denavita 2026: até 40% + cupom EMCASA",
+    "description": "Compare o preço por pote nas ofertas da Denavita, veja onde o EMCASA deu 10% OFF nos nossos carrinhos e como ficam os kits e as ofertas por quantidade.",
+    "metaDescription": "O EMCASA dá 10% OFF na Denavita, que anuncia até 40% OFF na Black Friday. Veja os kits testados e o preço por pote nas ofertas por quantidade.",
     "image": "/images/reviews/denavita/black-friday-denavita-hero-pt-v2.webp",
     "imageAlt": "Pó caindo acima do pacote vermelho de Jejoom, entre laranjas em foto do catálogo Denavita. A capa traz «Black Friday: kits e ofertas» e o cupom EMCASA.",
     "cta": {
@@ -277389,21 +277398,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday da Denavita, o EMCASA deu 10% OFF nos avulsos promocionais e nos dois kits que testamos. No pedido com os kits, o desconto se manteve no Pix. Para ofertas como Leve 3, Pague 2, confirme no checkout se o desconto por quantidade e o cupom aparecem no mesmo pedido."
+          "A Black Friday da Denavita anuncia até 40% OFF em todo o site, e o EMCASA deu mais 10% OFF nos avulsos promocionais e nos kits que testamos, inclusive no Pix. Nas ofertas por quantidade, ainda não testamos o cupom: calculamos o desconto e você confere a linha do cupom no resumo antes de pagar."
         ]
       },
       {
         "heading": "O que a Denavita colocou em oferta",
         "paragraphs": [
-          "Na vitrine consultada, a Denavita anunciava descontos de até 40%. A coleção de ofertas mostra descontos diretos, kits prontos e opções que mudam o preço conforme a quantidade. Confira qual delas aparece na página do produto antes de montar o carrinho."
+          "A faixa da loja anuncia até 40% OFF em todo o site. A [coleção de suplementos](https://www.denavita.com.br/collections/suplementos-v2) mostra descontos diretos, kits prontos e opções que baixam o preço do pote conforme a quantidade. Os preços deste artigo são os da página em 21 de novembro de 2026 e mudam com a campanha. Quer entender o que cada pote traz antes de escolher? Veja o guia [Denavita é boa?](/reviews/denavita-e-boa)."
         ],
         "bullets": [
-          "**Avulsos e kits prontos.** Confira qual variante e tamanho estão com o preço destacado.",
-          "**Compra por quantidade.** A loja publica [Leve 3, Pague 2](https://www.denavita.com.br/collections/suplementos-v2) e opções como Compre 2 Leve 3 e Compre 3 Leve 5 no Laranja Moro.",
+          "**Avulsos em promoção.** [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), [Jejoom Shot Matinal](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo) e [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio) estão entre os que testamos.",
+          "**Kits prontos.** [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) (Vinagre de Maçã e Laranja Moro), [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo) (Laranja Moro, Trio Magnésio e Vinagre de Maçã) e [Kit Queridinhos Denavita](https://www.denavita.com.br/products/kit-queridinhos-denavita) (Laranja Moro, Jejoom e Coenzima Q10).",
+          "**Compra por quantidade.** Compre 2 Leve 3 e Compre 3 Leve 5 no [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Leve 3 e Pague 2 no [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio) e as opções de 2, 3 e 5 unidades de outros produtos são variantes na página de cada um.",
           "**Oferta 24H.** Quando houver um contador no item, confira a oferta atual na vitrine."
-        ],
-        "postParagraphs": [
-          "A faixa da loja anuncia os descontos e o frete grátis sem usar o nome Black Friday."
         ],
         "images": [
           {
@@ -277418,10 +277425,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde os 10% entraram no checkout",
         "paragraphs": [
-          "Em 19/11, o resumo registrou 10% de desconto do EMCASA nos três pedidos da tabela. No carrinho dos dois kits, os 10% continuaram aplicados com o Pix selecionado."
+          "Em 19/11, o resumo registrou 10% de desconto do EMCASA nos três primeiros pedidos da tabela. No carrinho dos dois kits, os 10% continuaram aplicados com o Pix selecionado. No teste mais recente, feito pelo Bruno no checkout seguro da loja, o cupom também entrou no pedido com os três kits: R$ 659,70 no carrinho e R$ 593,73 depois do EMCASA."
         ],
         "comparisonTable": {
-          "caption": "Carrinhos testados, antes de calcular a entrega.",
+          "caption": "Carrinhos testados no checkout, antes de calcular a entrega.",
           "headers": [
             "Carrinho",
             "Produtos",
@@ -277430,77 +277437,205 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Laranja Moro Morosil, Picolinato de Cromo e Café Verde",
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
               "R$ 76,90",
               "R$ 7,69",
               "R$ 69,21"
             ],
             [
-              "Jejoom Shot Matinal, Trio Magnésio e Laranja Moro",
+              "[Jejoom Shot Matinal](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio) e [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
               "R$ 218,70",
               "R$ 21,87",
               "R$ 196,83"
             ],
             [
-              "Kit Vida Fit e Turbo Metabolismo",
+              "[Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)",
               "R$ 399,80",
               "R$ 39,98",
               "R$ 359,82"
+            ],
+            [
+              "[Kit Queridinhos Denavita](https://www.denavita.com.br/products/kit-queridinhos-denavita), [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)",
+              "R$ 659,70",
+              "R$ 65,97",
+              "R$ 593,73"
             ]
           ]
         },
+        "images": [
+          {
+            "src": "/images/reviews/denavita/black-friday-denavita-turbo-metabolismo.webp",
+            "alt": "Potes de Laranja Moro, Trio Magnésio e Vinagre de Maçã que formam o kit Turbo Metabolismo da Denavita",
+            "caption": "Turbo Metabolismo: Laranja Moro, Trio Magnésio e Vinagre de Maçã. Foto: Denavita",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/denavita/black-friday-denavita-kit-queridinhos.webp",
+            "alt": "Laranja Moro, sachê do Jejoom e Coenzima Q10 do Kit Queridinhos da Denavita",
+            "caption": "Kit Queridinhos: Laranja Moro, Jejoom Shot Matinal e Coenzima Q10. Foto: Denavita",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
         "postParagraphs": [
-          "No Leve 3, Pague 2, o resumo do nosso teste mostrou só a linha do EMCASA. Para confirmar as duas vantagens no mesmo pedido, veja as linhas de desconto no checkout. [Passo a passo do cupom Denavita](/reviews/cupom-denavita-como-usar)"
+          "Confira sempre as linhas de desconto no resumo antes de pagar. [Passo a passo do cupom Denavita](/reviews/cupom-denavita-como-usar)"
         ]
       },
       {
         "heading": "Quanto sai cada pote nas ofertas por quantidade",
         "paragraphs": [
-          "Compare o valor por pote de Laranja Moro e o total pago no pedido. Os preços abaixo são os anunciados, antes de aplicar EMCASA."
+          "Testamos o EMCASA em avulsos e em kits. Nas opções por quantidade, que são variantes na página de cada produto, ainda não testamos o cupom: o valor com EMCASA abaixo é a conta do desconto de 10% sobre o preço da página, e vale conferir a linha Cupom de desconto no resumo antes de pagar."
         ],
         "comparisonTable": {
-          "caption": "Preços da ficha em 19/11, sem cupom e sem frete.",
+          "caption": "Preços da página em 21 de novembro de 2026, sem frete. A última coluna é o cálculo de 10% sobre o total.",
           "headers": [
             "Opção",
             "Total",
-            "Por unidade"
+            "Por pote",
+            "Com EMCASA (total e por pote)"
           ],
           "rows": [
             [
-              "1 unidade",
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), 1 pote",
               "R$ 76,90",
-              "R$ 76,90"
+              "R$ 76,90",
+              "R$ 69,21 (R$ 69,21)"
             ],
             [
-              "Compre 2 Leve 3",
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Compre 2 Leve 3",
               "R$ 153,80",
-              "R$ 51,27"
+              "R$ 51,27",
+              "R$ 138,42 (R$ 46,14)"
             ],
             [
-              "Compre 3 Leve 5",
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Compre 3 Leve 5",
               "R$ 230,70",
-              "R$ 46,14"
+              "R$ 46,14",
+              "R$ 207,63 (R$ 41,53)"
+            ],
+            [
+              "[Tons – Equilíbrio](https://www.denavita.com.br/products/tons), 1 unidade",
+              "R$ 79,90",
+              "R$ 79,90",
+              "R$ 71,91 (R$ 71,91)"
+            ],
+            [
+              "[Tons – Equilíbrio](https://www.denavita.com.br/products/tons), 2 unidades",
+              "R$ 149,90",
+              "R$ 74,95",
+              "R$ 134,91 (R$ 67,46)"
+            ],
+            [
+              "[Tons – Equilíbrio](https://www.denavita.com.br/products/tons), 3 unidades",
+              "R$ 219,90",
+              "R$ 73,30",
+              "R$ 197,91 (R$ 65,97)"
+            ],
+            [
+              "[Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), 1 unidade",
+              "R$ 46,90",
+              "R$ 46,90",
+              "R$ 42,21 (R$ 42,21)"
+            ],
+            [
+              "[Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), 2 unidades",
+              "R$ 89,90",
+              "R$ 44,95",
+              "R$ 80,91 (R$ 40,46)"
+            ],
+            [
+              "[Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), Leve 3 e Pague 2",
+              "R$ 93,80",
+              "R$ 31,27",
+              "R$ 84,42 (R$ 28,14)"
+            ],
+            [
+              "[NAC + Polivitamínico A a Z](https://www.denavita.com.br/products/nac-polivitaminico), 1 unidade",
+              "R$ 49,90",
+              "R$ 49,90",
+              "R$ 44,91 (R$ 44,91)"
+            ],
+            [
+              "[NAC + Polivitamínico A a Z](https://www.denavita.com.br/products/nac-polivitaminico), 2 unidades",
+              "R$ 89,90",
+              "R$ 44,95",
+              "R$ 80,91 (R$ 40,46)"
+            ],
+            [
+              "[NAC + Polivitamínico A a Z](https://www.denavita.com.br/products/nac-polivitaminico), Compre 2 Leve 3",
+              "R$ 99,80",
+              "R$ 33,27",
+              "R$ 89,82 (R$ 29,94)"
+            ],
+            [
+              "[Coenzima Q10, Ômega 3 e Vitamina E](https://www.denavita.com.br/products/coenzima-q10-omega-3-e-selenio-30-caps), 1 unidade",
+              "R$ 65,90",
+              "R$ 65,90",
+              "R$ 59,31 (R$ 59,31)"
+            ],
+            [
+              "[Coenzima Q10, Ômega 3 e Vitamina E](https://www.denavita.com.br/products/coenzima-q10-omega-3-e-selenio-30-caps), Compre 2 Leve 3",
+              "R$ 131,80",
+              "R$ 43,93",
+              "R$ 118,62 (R$ 39,54)"
+            ],
+            [
+              "[Creatina 100% Pura 250 g](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita), 1 unidade",
+              "R$ 98,90",
+              "R$ 98,90",
+              "R$ 89,01 (R$ 89,01)"
+            ],
+            [
+              "[Creatina 100% Pura 250 g](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita), 3 unidades",
+              "R$ 249,90",
+              "R$ 83,30",
+              "R$ 224,91 (R$ 74,97)"
+            ],
+            [
+              "[Creatina 100% Pura 250 g](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita), 5 unidades",
+              "R$ 359,90",
+              "R$ 71,98",
+              "R$ 323,91 (R$ 64,78)"
+            ],
+            [
+              "[Jejoom Shot Matinal](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo), 1 unidade",
+              "R$ 94,90",
+              "R$ 94,90",
+              "R$ 85,41 (R$ 85,41)"
+            ],
+            [
+              "[Jejoom Shot Matinal](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo), 2 unidades",
+              "R$ 165,90",
+              "R$ 82,95",
+              "R$ 149,31 (R$ 74,66)"
+            ],
+            [
+              "[Jejoom Shot Matinal](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo), 3 unidades",
+              "R$ 236,90",
+              "R$ 78,97",
+              "R$ 213,21 (R$ 71,07)"
             ]
           ]
         },
         "postParagraphs": [
-          "Se pretende levar mais de um pote, compare o total com frete e confira a validade de todos os potes. As opções por quantidade têm preço próprio. O desconto extra depende do que o checkout mostrar. [Composição e preço do Laranja Moro](/reviews/laranja-moro-denavita)"
+          "Se pretende levar mais de um pote, compare o total com frete e confira a validade de todos os potes. O carrinho da loja mostra uma barra com quantos produtos faltam para o Leve 3, Pague 2. [Composição e preço do Laranja Moro](/reviews/laranja-moro-denavita)"
         ]
       },
       {
         "heading": "Frete e prazo",
         "paragraphs": [
-          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, com asterisco. Informe o CEP, aplique o cupom e confira o total com a entrega no checkout.",
-          "A página do Laranja Moro também sinaliza frete grátis na opção Compre 3 Leve 5. Confira a área atendida pelo seu CEP antes de decidir quantos potes levar."
+          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP no checkout para ver o prazo e o frete, aplique o cupom e confira o total. O pagamento pode ser em até 12x no cartão ou no Pix.",
+          "A página do Laranja Moro também sinaliza frete grátis na opção Compre 3 Leve 5. Dúvidas sobre quem vende e como funciona a entrega estão em [Denavita é confiável?](/reviews/denavita-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Denavita tem Black Friday? Na leitura do período, a vitrine anunciava descontos de até 40%, kits e ofertas por quantidade. Consulte a página da loja para ver o que está disponível.",
-          "O cupom soma com o Leve 3, Pague 2? O EMCASA deu 10% OFF nos carrinhos testados. O resumo registrou o desconto do cupom. Para confirmar a combinação, confira se o checkout mostra também a promoção por quantidade. Veja o [cupom Denavita](/cupons/denavita).",
+          "A Denavita tem Black Friday? A loja anuncia até 40% OFF em todo o site, com kits e ofertas por quantidade. Consulte a página da loja para ver o que está disponível no dia.",
+          "O cupom soma com o Leve 3, Pague 2? O EMCASA deu 10% OFF nos carrinhos que testamos, com avulsos promocionais e kits. Nas opções por quantidade, ainda não testamos o cupom: confira a linha Cupom de desconto no resumo antes de pagar. Veja o [cupom Denavita](/cupons/denavita).",
           "Até quando vai a promoção? A loja não informou o fim da campanha. Confira a faixa do site no dia da compra.",
-          "Tem frete grátis na Black Friday da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. Confira o frete para o seu CEP depois de aplicar o cupom no checkout."
+          "Tem frete grátis na Black Friday da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Confira o prazo e o frete para o seu CEP no checkout, depois de aplicar o cupom."
         ]
       }
     ]
@@ -277559,7 +277694,7 @@ export const reviewsData: unknown[] = [
         "Você conferiu o preço por dia e o total com entrega para a opção que quer."
       ],
       "skipIf": [
-        "Você precisa saber quanta cafeína há na cápsula e ainda aguarda o rótulo.",
+        "Você tem sensibilidade à cafeína ou restrição médica e ainda não confirmou o rótulo do pote.",
         "A validade de algum pote do kit é menor que o tempo até você abri-lo e terminar."
       ]
     },
@@ -277606,6 +277741,13 @@ export const reviewsData: unknown[] = [
             "caption": "A frente do pote do Laranja Moro. Foto: Denavita",
             "objectFit": "contain",
             "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/denavita/laranja-moro-denavita-laranjas.webp",
+            "alt": "Pote de Laranja Moro da Denavita sobre laranjas, com uma mão espremendo meia laranja vermelha",
+            "caption": "O Morosil® vem do extrato de laranja moro, a laranja de polpa vermelha. Foto: Denavita",
+            "objectFit": "contain",
+            "aspectRatio": 1
           }
         ]
       },
@@ -277618,22 +277760,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Porção e conservação informadas pela Denavita",
         "paragraphs": [
-          "A ficha indica uma cápsula ao dia. Na mesma página, a Denavita orienta tomar logo após a refeição principal. A orientação de conservação informa consumo preferencialmente em 30 dias depois de abrir. Confira as instruções na embalagem que receber."
-        ]
-      },
-      {
-        "heading": "O que conferir sobre a cafeína",
-        "paragraphs": [
-          "A Denavita informa quanto extrato de café verde vai na cápsula. A ficha não quantifica a cafeína. Se esse número muda sua escolha, peça uma foto da tabela e da lista de ingredientes do rótulo antes de comprar."
+          "A ficha indica uma cápsula ao dia. Na mesma página, a Denavita orienta tomar logo após a refeição principal. A orientação de conservação informa consumo preferencialmente em 30 dias depois de abrir. Confira as instruções na embalagem que receber.",
+          "A fórmula leva extrato de café verde, e a ficha não informa os miligramas de cafeína. Quem tem sensibilidade à cafeína confirma no rótulo do pote ou com o atendimento da loja ou um médico."
         ]
       },
       {
         "heading": "Preço por dia no avulso e nos kits",
         "paragraphs": [
-          "Calculamos o preço por dia dividindo o total pelo número de cápsulas, com a porção diária informada pela loja. Na tabela, só o avulso tem valor com EMCASA confirmado no checkout."
+          "Calculamos o preço por dia dividindo o total pelo número de cápsulas, com a porção diária informada pela loja. Os preços são os da página em 21 de novembro de 2026. No avulso, o valor com o EMCASA foi confirmado no checkout. Nas opções por quantidade, a coluna do cupom é a conta de 10% sobre o preço da página."
         ],
         "comparisonTable": {
-          "caption": "Preços à vista da ficha em 19/11, sem frete. Conta pela porção de uma cápsula por dia informada pela loja.",
+          "caption": "Preços à vista da página, sem frete. Conta pela porção de uma cápsula por dia informada pela loja.",
           "headers": [
             "Opção",
             "Total",
@@ -277642,34 +277779,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "1 unidade",
+              "[1 unidade](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
               "R$ 76,90",
               "R$ 2,56",
-              "R$ 2,31 (total de R$ 69,21)"
+              "R$ 2,31 (total de R$ 69,21, confirmado no checkout)"
             ],
             [
-              "Compre 2 Leve 3",
+              "[Compre 2 Leve 3](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
               "R$ 153,80",
               "R$ 1,71",
-              "confira no resumo"
+              "R$ 1,54 (total de R$ 138,42, conta de 10%)"
             ],
             [
-              "Compre 3 Leve 5",
+              "[Compre 3 Leve 5](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps)",
               "R$ 230,70",
               "R$ 1,54",
-              "confira no resumo"
+              "R$ 1,38 (total de R$ 207,63, conta de 10%)"
             ]
           ]
         },
         "postParagraphs": [
-          "No avulso, o desconto reduziu o valor do pote a R$ 69,21. Para as opções de três ou cinco potes, compare o total com frete e confira a validade de todos os potes. Copie o EMCASA na página do [cupom Denavita](/cupons/denavita) ou veja [como aplicar o código](/reviews/cupom-denavita-como-usar)."
+          "Testamos o EMCASA no avulso e em kits: o Kit Vida Fit com o Turbo Metabolismo passou de R$ 399,80 para R$ 359,82 no Pix. Nas opções de três ou cinco potes, confira a linha “Cupom de desconto” no resumo antes de pagar, compare o total com frete e confira a validade de todos os potes. Copie o EMCASA na página do [cupom Denavita](/cupons/denavita) ou veja [como aplicar o código](/reviews/cupom-denavita-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/denavita/black-friday-denavita-laranja-moro-3-potes.webp",
+            "alt": "Três potes de Laranja Moro da Denavita lado a lado",
+            "caption": "Três potes do Laranja Moro, o produto das opções de leve mais. Foto: Denavita",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
         ]
       },
       {
         "heading": "O que conferir antes de comprar",
         "paragraphs": [
           "Se você já escolheu esse suplemento, compare o custo e a quantidade com a validade de todos os potes. Para decidir se deve usar, para dúvidas sobre dose ou para conciliar com medicamentos, fale com médico ou nutricionista.",
-          "A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. Consulte pelo CEP o valor da entrega e a previsão. Veja [quem vende e como funcionam as devoluções](/reviews/denavita-e-confiavel)."
+          "A loja anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja, e o pagamento vai até 12x no cartão ou no Pix. Consulte pelo CEP o valor da entrega e a previsão. Veja [Denavita é confiável?](/reviews/denavita-e-confiavel) para saber quem vende e como funcionam as trocas."
         ]
       },
       {
@@ -277678,11 +277824,12 @@ export const reviewsData: unknown[] = [
           "O que vale conferir no Laranja Moro da Denavita? Compare a composição da ficha com a da embalagem. Se já escolheu a fórmula, use a tabela para comparar o custo por dia do avulso e das opções por quantidade.",
           "O que a Denavita informa sobre o modo de uso do Laranja Moro? A ficha indica uma cápsula ao dia. Na mesma página, a marca orienta tomar logo após a refeição principal. Confira as instruções na embalagem.",
           "Laranja moro é o mesmo que Morosil? Morosil® é o nome de marca de um extrato de laranja moro. Este produto usa 400 mg dele por cápsula, junto com café verde e picolinato de cromo.",
-          "O Laranja Moro da Denavita tem cafeína? A composição traz extrato de café verde. A quantidade de cafeína não aparece na ficha. Se precisa desse valor, peça o rótulo à loja.",
+          "O Laranja Moro da Denavita tem cafeína? A composição traz extrato de café verde, e a ficha não informa a quantidade de cafeína. Se precisa desse valor, confirme no rótulo do pote ou com o atendimento da loja.",
           "Quanto tempo dura um pote? Com uma cápsula por dia, 30 dias. A loja manda consumir preferencialmente em 30 dias depois de aberto."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-21"
   },
   {
     "id": 1116,
@@ -277738,7 +277885,7 @@ export const reviewsData: unknown[] = [
         "Você conferiu a quantidade da embalagem e a validade de cada pote do kit."
       ],
       "skipIf": [
-        "Você precisa receber numa data e a estimativa para o CEP passa desse prazo.",
+        "Você ainda não escolheu o suplemento e procura uma indicação de uso.",
         "Você precisa esclarecer um alergênico da ficha antes de decidir."
       ]
     },
@@ -277746,13 +277893,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Se você já decidiu qual suplemento comprar, compare na Denavita o tamanho do pote, a porção da ficha e o custo diário. Há avulsos e kits. O cupom EMCASA dá 10% OFF, e a tabela mostra o preço estimado com o código. Para o mesmo produto, compare também a validade dos potes e o frete."
+          "Se você já decidiu qual suplemento comprar, compare na Denavita o tamanho do pote, a porção da ficha e o custo diário. Há avulsos, kits e opções por quantidade. O cupom EMCASA dá 10% OFF, e as tabelas mostram o preço estimado com o código. Para o mesmo produto, compare também a validade dos potes e o frete."
         ]
       },
       {
         "heading": "O que a Denavita vende",
         "paragraphs": [
-          "A Denavita vende cápsulas, gomas e suplementos em pó. Entre os avulsos estão Laranja Moro, Trio Magnésio, NAC com polivitamínico e creatina. Alguns kits juntam produtos diferentes. Já as opções de quantidade reúnem vários potes do mesmo produto."
+          "A Denavita vende cápsulas, gomas e suplementos em pó, com compra pelo site oficial. Entre os avulsos estão [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), [NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico) e [Creatina 100% Pura](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita). Há também o shot [Jejoom](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo) e o [Digestino](https://www.denavita.com.br/products/digestino).",
+          "Alguns kits juntam produtos diferentes, como o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo). Já as opções por quantidade reúnem vários potes do mesmo produto e aparecem como variantes na página de cada um. Os preços deste guia são os da página em 21 de novembro de 2026. O pagamento vai até 12x no cartão ou no Pix."
         ]
       },
       {
@@ -277763,7 +277911,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Laranja Moro.** A ficha lista Morosil®, extrato de café verde e picolinato de cromo. A quantidade de cafeína não aparece. Veja a [composição do Laranja Moro](/reviews/laranja-moro-denavita).",
           "**Tons Equilíbrio.** A página lista coenzima Q10, pinho marítimo e vitamina A. A cápsula é de gelatina.",
-          "**Trio Magnésio.** A ficha lista bisglicinato, taurato e malato. O aviso “pode conter” cita soja, peixe, crustáceos, pinoli e ovo."
+          "**Trio Magnésio.** A ficha lista bisglicinato, taurato e malato. O aviso “pode conter” cita soja, peixe, crustáceos, pinoli e ovo.",
+          "**NAC + Polivitamínico.** A ficha informa 300 mg de N-acetil L-cisteína por cápsula, 600 mg nas duas cápsulas diárias, junto com vitaminas e minerais. A cápsula é de gelatina, e o aviso “pode conter” cita soja, peixe, crustáceos, pinoli e ovo. Depois de aberto, o frasco deve ser consumido em até 60 dias."
         ],
         "images": [
           {
@@ -277781,7 +277930,7 @@ export const reviewsData: unknown[] = [
           "Calculamos o custo diário pela porção declarada na ficha. Use o valor para orçar o produto que escolheu. O desconto da tabela é estimado sobre o preço exibido."
         ],
         "comparisonTable": {
-          "caption": "Preços da vitrine em 19/11, no cartão e antes do frete. Porções das fichas da loja.",
+          "caption": "Preços da página e preço com o EMCASA, no cartão e antes do frete. Porções das fichas da loja.",
           "headers": [
             "Produto e dias por pote",
             "Preço anunciado",
@@ -277790,37 +277939,37 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Laranja Moro, 30 cápsulas · 30 dias",
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), 30 cápsulas · 30 dias",
               "R$ 76,90",
               "R$ 69,21",
               "R$ 2,56 → R$ 2,31"
             ],
             [
-              "Tons – Equilíbrio, 30 cápsulas · 30 dias",
+              "[Tons – Equilíbrio](https://www.denavita.com.br/products/tons), 30 cápsulas · 30 dias",
               "R$ 79,90",
               "R$ 71,91",
               "R$ 2,66 → R$ 2,40"
             ],
             [
-              "Trio Magnésio, 60 cápsulas · 30 dias",
+              "[Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), 60 cápsulas · 30 dias",
               "R$ 46,90",
               "R$ 42,21",
               "R$ 1,56 → R$ 1,41"
             ],
             [
-              "NAC + Polivitamínico, 60 cápsulas · 30 dias",
+              "[NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico), 60 cápsulas · 30 dias",
               "R$ 49,90",
               "R$ 44,91",
               "R$ 1,66 → R$ 1,50"
             ],
             [
-              "Coenzima Q10, Ômega 3 e Vitamina E, 30 cápsulas · 30 dias",
+              "[Coenzima Q10, Ômega 3 e Vitamina E](https://www.denavita.com.br/products/coenzima-q10-omega-3-e-selenio-30-caps), 30 cápsulas · 30 dias",
               "R$ 65,90",
               "R$ 59,31",
               "R$ 2,20 → R$ 1,98"
             ],
             [
-              "Creatina 100% Pura, 250 g (83 doses) · 83 dias",
+              "[Creatina 100% Pura](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita), 250 g (83 doses) · 83 dias",
               "R$ 98,90",
               "R$ 89,01",
               "R$ 1,19 → R$ 1,07"
@@ -277843,10 +277992,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avulso ou kit do mesmo produto",
         "paragraphs": [
-          "Compare o kit com o mesmo suplemento avulso. O valor por pote ajuda a ver a diferença. Antes de comprar mais unidades, confira a validade de cada uma."
+          "Compare o kit com o mesmo suplemento avulso. O valor por pote ajuda a ver a diferença. Antes de comprar mais unidades, confira a validade de cada uma. Os kits que juntam produtos diferentes não entram na conta por pote: o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) (Vinagre de Maçã com Ácido Fólico e Laranja Moro) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo) (Laranja Moro, Trio Magnésio e Vinagre de Maçã) saem pelo preço do kit, e o [Kit Queridinhos](https://www.denavita.com.br/products/kit-queridinhos-denavita) soma Laranja Moro, Jejoom e Coenzima Q10."
         ],
         "comparisonTable": {
-          "caption": "Preços de vitrine em 19/11, no cartão, antes do frete e do cupom. Conta diária pela porção declarada nas fichas.",
+          "caption": "Preços da página, no cartão, antes do frete e do cupom. Conta diária pela porção declarada nas fichas.",
           "headers": [
             "Opção",
             "Preço",
@@ -277855,37 +278004,37 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Laranja Moro, 1 pote",
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), 1 pote",
               "R$ 76,90",
               "R$ 76,90",
               "R$ 2,56"
             ],
             [
-              "Laranja Moro, Compre 2 Leve 3",
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Compre 2 Leve 3",
               "R$ 153,80",
               "R$ 51,27",
               "R$ 1,71"
             ],
             [
-              "Laranja Moro, Compre 3 Leve 5",
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Compre 3 Leve 5",
               "R$ 230,70",
               "R$ 46,14",
               "R$ 1,54"
             ],
             [
-              "Trio Magnésio, Leve 3 e Pague 2",
+              "[Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), Leve 3 e Pague 2",
               "R$ 93,80",
               "R$ 31,27",
               "R$ 1,04"
             ],
             [
-              "NAC + Polivitamínico, Compre 2 Leve 3",
+              "[NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico), Compre 2 Leve 3",
               "R$ 99,80",
               "R$ 33,27",
               "R$ 1,11"
             ],
             [
-              "Coenzima Q10, Compre 2 Leve 3",
+              "[Coenzima Q10](https://www.denavita.com.br/products/coenzima-q10-omega-3-e-selenio-30-caps), Compre 2 Leve 3",
               "R$ 131,80",
               "R$ 43,93",
               "R$ 1,46"
@@ -277894,14 +278043,23 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A validade do pote fechado e o prazo depois de abrir são informações diferentes. Confira as duas na embalagem.",
-          "O [cupom Denavita](/cupons/denavita) EMCASA deu 10% OFF no pedido com Kit Vida Fit e Turbo Metabolismo. Para ofertas que mudam o preço pela quantidade, confira o desconto que aparece no checkout."
+          "O [cupom Denavita](/cupons/denavita) EMCASA deu 10% OFF nos produtos avulsos e nos kits que testamos. No teste do Bruno, o Kit Queridinhos, o Kit Vida Fit e o Turbo Metabolismo somavam R$ 659,70 no carrinho e saíram por R$ 593,73 com o EMCASA. Testamos o código em avulsos e em kits. Nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/denavita/denavita-e-boa-kit-vida-fit.webp",
+            "alt": "Kit Vida Fit da Denavita: pote de Vinagre de Maçã com Ácido Fólico e pote de Laranja Moro",
+            "caption": "O Kit Vida Fit junta Vinagre de Maçã com Ácido Fólico e Laranja Moro. Foto: Denavita",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
         ]
       },
       {
         "heading": "Entrega e prazo no checkout",
         "paragraphs": [
-          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, com asterisco. Informe o CEP, aplique o cupom e confira o total com a entrega no checkout.",
-          "Se precisa do pedido para uma data, consulte a previsão pelo seu CEP. Veja [o que o Reclame Aqui registra sobre a entrega](/reviews/denavita-reclame-aqui-nota-reputacao)."
+          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP, aplique o cupom e confira o prazo e o total com a entrega no checkout.",
+          "Para saber quem vende e como funcionam as trocas, veja [Denavita é confiável?](/reviews/denavita-e-confiavel)."
         ]
       },
       {
@@ -277916,10 +278074,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O que dá para comparar nos suplementos da Denavita? Use a composição e a porção da ficha para identificar o produto. Depois compare o custo diário, a quantidade que vem no pote e o frete.",
           "Vale mais a pena comprar o kit? Compare o preço por pote do mesmo produto. O custo unitário pode cair, e vale conferir quanto você vai pagar no pedido e a validade das unidades.",
-          "A Denavita tem cupom? O EMCASA dá 10% OFF no site oficial. Aplique no resumo do checkout e confira o valor do desconto."
+          "A Denavita tem cupom? O EMCASA dá 10% OFF no site oficial, no cartão em até 12x ou no Pix. Aplique no campo “Tem um cupom?” e confira a linha Cupom de desconto no resumo."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-21"
   },
   {
     "id": 1117,
@@ -277947,9 +278106,9 @@ export const reviewsData: unknown[] = [
     "affiliate": "denavita",
     "type": "Editorial",
     "title": "Denavita é confiável? CNPJ, prazo de entrega e trocas",
-    "seoTitle": "Denavita é confiável? Quem vende, Anvisa e trocas",
+    "seoTitle": "Denavita é confiável? CNPJ, reputação Ótima e trocas",
     "description": "Confira quem vende no site da Denavita, como verificar o CNPJ e o rótulo, o que o Reclame Aqui diz sobre entrega e onde pedir devolução se o pedido der problema.",
-    "metaDescription": "EMCASA dá 10% OFF na Denavita. Veja o CNPJ da loja, como conferir o rótulo, o que o Reclame Aqui diz sobre os atrasos e onde pedir troca.",
+    "metaDescription": "EMCASA dá 10% OFF na Denavita. Veja o CNPJ da Vitalita, a reputação Ótima no Reclame Aqui, como conferir o prazo pelo CEP e as trocas.",
     "image": "/images/reviews/denavita/denavita-e-confiavel-hero-pt-v2.webp",
     "imageAlt": "Cinco modelos apresentam suplementos da Denavita em uma foto institucional sobre fundo verde. A capa pergunta «É confiável?» e mostra o cupom EMCASA.",
     "cta": {
@@ -277958,7 +278117,7 @@ export const reviewsData: unknown[] = [
       "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
       "sponsored": true
     },
-    "editorialNote": "Feito com o site oficial, a consulta de CNPJ e o Reclame Aqui. Somos parceiros da Denavita e podemos receber comissão pelo link e pelo cupom.",
+    "editorialNote": "Feito com o site oficial, a consulta de CNPJ e o perfil público no Reclame Aqui. Somos parceiros da Denavita e podemos receber comissão pelo link e pelo cupom.",
     "relatedArticles": [
       {
         "slug": "denavita-reclame-aqui-nota-reputacao"
@@ -277974,29 +278133,29 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Denavita vende pelo site denavita.com.br e identifica a empresa como Vitalita. O CNPJ exibido no rodapé termina em 78, enquanto o da filial termina em 76. No Reclame Aqui, a loja teve reputação Ótima no semestre consultado. Atraso na entrega liderava as queixas da aba geral. Confira o prazo pelo CEP."
+          "A Denavita vende em denavita.com.br pela empresa Vitalita, com checkout em seguro.denavita.com.br. No Reclame Aqui, a loja tem reputação Ótima, com nota 8,4 de 10 no semestre consultado. Antes de pagar, confira o prazo e o frete para o seu CEP no checkout."
         ]
       },
       {
         "heading": "Quem vende a Denavita",
         "paragraphs": [
           "A empresa do rodapé é a Vitalita Comércio e Estratégias Digitais Ltda. A loja exibe 43.777.011/0002-78, com o último dígito diferente do que consta na consulta cadastral.",
-          "O número da filial em Extrema (MG) é 43.777.011/0002-76. O da matriz é 43.777.011/0001-95, o mesmo do [perfil no Reclame Aqui](https://www.reclameaqui.com.br/empresa/denavita/). Use o [serviço de consulta do CNPJ](https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas) para conferir os estabelecimentos.",
+          "O número da filial em Extrema (MG) é 43.777.011/0002-76. O da matriz é 43.777.011/0001-95, o mesmo do perfil da Denavita no Reclame Aqui. Para conferir os estabelecimentos, use o serviço de consulta de CNPJ do portal gov.br.",
           "Para saber quem fabrica o suplemento, confira a identificação do fabricante na embalagem."
         ]
       },
       {
         "heading": "Como conferir a regularização de um suplemento",
         "paragraphs": [
-          "A [ficha do Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps) lista a composição. Para consultar a regularização, use o nome do produto e os dados da embalagem. Procure a identificação do fabricante e o número informado no rótulo.",
-          "O [guia de consulta da Anvisa](https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/como-saber-se-um-suplemento-alimentar-e-autorizado) explica como usar o número do registro ou do processo de notificação. Se faltar informação, peça à loja uma foto legível da embalagem e a identificação do fabricante."
+          "A [ficha do Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps) lista a composição, e a embalagem traz a identificação do fabricante e o número informado no rótulo.",
+          "Com o nome do produto e esses dados, você consulta o suplemento no site da Anvisa, que explica como usar o número do registro ou do processo de notificação. Se quiser conferir algo que a página não mostra, a central de atendimento da loja pode enviar uma foto da embalagem."
         ]
       },
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No [perfil da Denavita](https://www.reclameaqui.com.br/empresa/denavita/), o recorte de maio a outubro de 2026 mostrava reputação Ótima, nota 8,5 e 108 reclamações respondidas. O tempo médio de resposta era de 5 dias e 14 horas.",
-          "Na aba geral, que cobre até três anos, atraso na entrega foi a queixa mais citada. Veja [os indicadores e o que guardar para reclamar](/reviews/denavita-reclame-aqui-nota-reputacao)."
+          "No perfil da Denavita, o recorte de maio a outubro de 2026 mostrava reputação Ótima, nota 8,4, 90% das reclamações resolvidas e 78,3% de consumidores que voltariam a fazer negócio. Todas as 108 reclamações foram respondidas, em média após 5 dias e 14 horas.",
+          "Na aba geral, que cobre até três anos, atraso na entrega foi o assunto mais citado. Veja [os indicadores completos do perfil](/reviews/denavita-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -278009,31 +278168,32 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Site oficial e checkout",
         "paragraphs": [
-          "A loja vende em denavita.com.br. No caminho testado, “Finalizar compra” abriu o resumo em seguro.denavita.com.br. É ali que você confere o pedido e aplica EMCASA."
+          "A loja vende em denavita.com.br, e o rodapé identifica a empresa e as formas de pagamento aceitas. No caminho testado, “Finalizar compra” abriu o resumo em seguro.denavita.com.br. É ali que você confere o pedido e aplica EMCASA.",
+          "Para escolher o que levar, veja [se a Denavita é boa pelo rótulo e pelo preço por dia](/reviews/denavita-e-boa) e [o que saber na primeira compra](/reviews/cupom-denavita-primeira-compra)."
         ],
         "images": [
           {
-            "src": "/images/reviews/denavita/denavita-e-confiavel-creatina-potes.webp",
-            "alt": "Três potes de Creatina 100% Pura da Denavita em foto oficial da loja",
-            "caption": "Potes de Creatina, um dos produtos do site oficial. Foto: Denavita",
+            "src": "/images/reviews/denavita/denavita-e-confiavel-rodape-site-oficial.webp",
+            "alt": "Rodapé do site denavita.com.br com a razão social Vitalita Comércio e Estratégias Digitais Ltda, o CNPJ 43.777.011/0002-78 e os cartões Visa, Mastercard, Amex, Diners, Hipercard e Pix",
+            "caption": "Rodapé do site oficial, com a empresa e as formas de pagamento.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 3.74
           }
         ]
       },
       {
         "heading": "Como pedir devolução ou relatar um problema",
         "paragraphs": [
-          "Para desistência ou produto entregue com problema, abra uma solicitação no [portal de trocas da Denavita](https://trocas-gobeaute.devgogroup.com/denavita) com o número do pedido. Em compra online, o [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm#art49) prevê sete dias a partir do recebimento para desistir.",
+          "Para desistência ou produto entregue com problema, a loja tem um portal de trocas, em que você informa o número do pedido. Em compra online, o art. 49 do Código de Defesa do Consumidor prevê sete dias a partir do recebimento para desistir.",
           "A central da loja orienta usar o portal em até 30 dias do recebimento para ocorrências como item faltando, errado ou danificado. Guarde a nota fiscal e as fotos do produto e da embalagem."
         ]
       },
       {
-        "heading": "O que guardar se a entrega atrasar",
+        "heading": "Se a entrega demorar mais que o previsto",
         "bullets": [
-          "Guarde o número do pedido, a nota fiscal e a previsão de entrega.",
-          "Se o prazo passar, fale com a central de atendimento e guarde o protocolo.",
-          "Se precisar reclamar fora da loja, use o perfil com o CNPJ da matriz ou procure o Procon."
+          "Guarde o número do pedido e a previsão de entrega mostrada no checkout.",
+          "Acompanhe o andamento pelo e-mail do pedido e, se o prazo passar, fale com a central de atendimento da loja.",
+          "Anote o protocolo do atendimento, que facilita o acompanhamento."
         ]
       },
       {
@@ -278045,14 +278205,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Denavita é confiável? O site identifica a empresa como Vitalita, e o perfil do Reclame Aqui teve reputação Ótima no semestre consultado. Antes de pagar, confira o CNPJ e a previsão pelo CEP.",
+          "A Denavita é confiável? O site identifica a empresa como Vitalita, e o perfil do Reclame Aqui tem reputação Ótima no semestre consultado. Antes de pagar, confira o CNPJ e a previsão pelo CEP.",
           "Como verificar um suplemento da Denavita na Anvisa? Confira o fabricante e procure o número na embalagem. Use o registro ou o processo de notificação na consulta de alimentos e suplementos.",
           "Qual o site oficial da Denavita? O site oficial é o denavita.com.br, e o checkout fica em seguro.denavita.com.br.",
-          "A Denavita atrasa a entrega? Atraso foi a queixa mais citada na aba geral do Reclame Aqui. Confira a previsão para o seu CEP e guarde o prazo apresentado no checkout.",
-          "Como devolver um produto da Denavita? Use o portal de trocas com o número do pedido. Para desistência de compra online, o prazo previsto no CDC é de sete dias a partir do recebimento."
+          "Como saber o prazo de entrega da Denavita? Informe o CEP no checkout antes de pagar e guarde a previsão apresentada para o seu pedido.",
+          "Como devolver um produto da Denavita? Use o portal de trocas da loja com o número do pedido. Para desistência de compra online, o prazo previsto no CDC é de sete dias a partir do recebimento."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-21"
   },
   {
     "id": 1118,
@@ -278079,10 +278240,10 @@ export const reviewsData: unknown[] = [
     "coupon": "EMCASA",
     "affiliate": "denavita",
     "type": "Análise de Reputação",
-    "title": "Denavita no Reclame Aqui: nota, atrasos e tempo de resposta",
-    "seoTitle": "Denavita no Reclame Aqui: nota e reclamações",
+    "title": "Denavita no Reclame Aqui: reputação Ótima, tempo de resposta e entregas",
+    "seoTitle": "Denavita no Reclame Aqui: reputação Ótima e respostas",
     "description": "Veja a nota da Denavita no Reclame Aqui, o tempo médio de resposta, o que aparece nas queixas de entrega e quais dados guardar se precisar falar com a loja.",
-    "metaDescription": "EMCASA dá 10% OFF na Denavita. Veja a nota da loja no Reclame Aqui, o que mais gera reclamação, quanto ela resolve e o que fazer antes de comprar.",
+    "metaDescription": "EMCASA dá 10% OFF na Denavita. Veja a reputação da loja no Reclame Aqui, o que mais gera reclamação, quanto ela resolve e o que fazer antes de comprar.",
     "image": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp",
     "imageAlt": "Ilustração de uma caixa de entrega ao lado de um celular e um caderno. A capa traz «Reclame Aqui: nota e queixas» e o cupom EMCASA.",
     "cta": {
@@ -278107,13 +278268,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Denavita teve nota 8,5 e reputação Ótima no Reclame Aqui de maio a outubro de 2026. O perfil mostrava resposta a todas as 108 reclamações do semestre, em média após 5 dias e 14 horas. Na aba geral, que reúne até três anos, atraso na entrega era a queixa mais citada."
+          "A Denavita tem reputação Ótima no Reclame Aqui, com nota 8,4 de 10 e 90% das reclamações resolvidas entre maio e outubro de 2026. Todas as 108 reclamações do semestre foram respondidas, em média após 5 dias e 14 horas. Na aba geral, atraso na entrega é o assunto mais citado."
         ]
       },
       {
         "heading": "A nota em números",
         "paragraphs": [
-          "A tabela reúne os indicadores observados no [perfil da Denavita](https://www.reclameaqui.com.br/empresa/denavita/) para o semestre de maio a outubro."
+          "A tabela reúne os indicadores observados no perfil da Denavita no Reclame Aqui para o semestre de maio a outubro."
         ],
         "comparisonTable": {
           "caption": "Indicadores da Denavita no semestre consultado.",
@@ -278128,7 +278289,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nota de reputação",
-              "8,5"
+              "8,4"
             ],
             [
               "Reclamações recebidas",
@@ -278144,19 +278305,19 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Resolvidas, entre as avaliadas",
-              "91,4%"
+              "90%"
             ],
             [
               "Voltariam a fazer negócio, entre as avaliadas",
-              "79,3%"
+              "78,3%"
             ],
             [
               "Avaliadas",
-              "58"
+              "60"
             ],
             [
               "Nota média do consumidor",
-              "7,21"
+              "7,1"
             ],
             [
               "Tempo médio de resposta",
@@ -278165,7 +278326,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Das 108 reclamações, 58 foram avaliadas. O índice de solução e a intenção de voltar a comprar se referem às avaliadas. A nota 8,5 é a reputação calculada pelo Reclame Aqui. A nota 7,21 é a média dada pelos consumidores que avaliaram."
+          "Das 108 reclamações, 60 foram avaliadas. O índice de solução e a intenção de voltar a comprar se referem às avaliadas. A nota 8,4 é a reputação calculada pelo Reclame Aqui. A nota 7,1 é a média dada pelos consumidores que avaliaram."
         ]
       },
       {
@@ -278178,7 +278339,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais gera reclamação",
         "paragraphs": [
-          "O perfil registrava atraso na entrega em 46,18% dos problemas da aba geral. Essa aba reúne até três anos. Para saber a frequência de atraso por pedido seria preciso conhecer o número de pedidos e entregas da loja."
+          "Na aba geral, que reúne até três anos, atraso na entrega aparece em 46,18% dos problemas registrados, o assunto mais frequente. Para saber a frequência de atraso por pedido, seria preciso conhecer o número de pedidos e entregas da loja."
         ]
       },
       {
@@ -278188,43 +278349,45 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
-            "alt": "Pacote de Digestino da Denavita sobre toalha xadrez, com garrafa e abacaxi, em foto oficial da loja",
-            "caption": "Digestino, um dos produtos da Denavita. Foto: Denavita",
+            "src": "/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-quadro.webp",
+            "alt": "Quadro com os números do perfil da Denavita no Reclame Aqui em seis meses: nota 8,4 de 10, reputação Ótima, 108 reclamações, 100% respondidas, 90% resolvidas, 78,3% voltariam a fazer negócio e tempo de resposta de 5 dias e 14 horas",
+            "caption": "Os números do perfil no Reclame Aqui, nos últimos seis meses.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1.74
           }
         ]
       },
       {
         "heading": "Como documentar a previsão de entrega",
         "paragraphs": [
-          "Informe o CEP para ver a estimativa de entrega. Guarde uma captura da previsão, o número do pedido e o comprovante de pagamento para acompanhar o pedido e cobrar a entrega se o prazo passar."
+          "Informe o CEP no checkout para ver a estimativa de entrega e guarde uma captura da previsão. Com o número do pedido e o comprovante de pagamento, fica simples acompanhar o andamento."
         ]
       },
       {
         "heading": "Como reclamar",
         "paragraphs": [
-          "Se estiver esperando a entrega, fale com a [central da Denavita](https://app.goconnect360.com.br/hc/denavita) e guarde o protocolo. Para produto errado, avaria ou desistência, use o [portal de trocas](https://trocas-gobeaute.devgogroup.com/denavita).",
-          "Se a loja não resolver, você pode registrar a reclamação no Reclame Aqui ou consultar o Procon do seu estado."
+          "Para acompanhar um pedido, fale com a central de atendimento da Denavita e guarde o protocolo. Para produto errado, avaria ou desistência, a loja tem um portal de trocas, em que você informa o número do pedido.",
+          "Se a loja não resolver, o próprio Reclame Aqui recebe a reclamação, e o perfil da Denavita responde pelo mesmo canal."
         ]
       },
       {
         "heading": "Onde conferir o perfil atualizado",
         "paragraphs": [
-          "O [perfil da Denavita](https://www.reclameaqui.com.br/empresa/denavita/) mostra os dados mais recentes. O [cupom Denavita](/cupons/denavita) EMCASA dá 10% OFF no site oficial."
+          "O perfil da Denavita no Reclame Aqui mostra os dados mais recentes, e os números mudam com o tempo. Para entender quem vende e como conferir o CNPJ, veja [Denavita é confiável?](/reviews/denavita-e-confiavel).",
+          "Se a dúvida é o que comprar, [Denavita é boa?](/reviews/denavita-e-boa) compara os suplementos pelo rótulo e pelo preço por dia, e o guia da [primeira compra](/reviews/cupom-denavita-primeira-compra) mostra onde aplicar o desconto. O [cupom Denavita](/cupons/denavita) EMCASA dá 10% OFF no site oficial."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como é o atendimento da Denavita no Reclame Aqui? No recorte de seis meses consultado, a reputação era Ótima, com nota 8,5. O índice de solução foi de 91,4% entre as avaliadas.",
-          "Qual é a nota da Denavita no Reclame Aqui? No semestre consultado, a nota de reputação foi 8,5, e a nota média de quem avaliou o atendimento foi 7,21.",
-          "A Denavita atrasa a entrega? Atraso na entrega foi a queixa mais citada na aba geral, que cobre até três anos. Confira o prazo do seu pedido no checkout pelo CEP.",
-          "Como falar com a Denavita? Pela central de atendimento e pelo portal de trocas da loja. Se não houver solução, procure o Reclame Aqui ou o Procon."
+          "Como é o atendimento da Denavita no Reclame Aqui? No recorte de seis meses consultado, a reputação era Ótima, com nota 8,4. O índice de solução foi de 90% entre as avaliadas.",
+          "Qual é a nota da Denavita no Reclame Aqui? No semestre consultado, a nota de reputação foi 8,4, e a nota média de quem avaliou o atendimento foi 7,1.",
+          "Qual o assunto mais citado nas reclamações da Denavita? Atraso na entrega, na aba geral, que cobre até três anos. Confira o prazo do seu pedido no checkout pelo CEP.",
+          "Como falar com a Denavita? Pela central de atendimento e pelo portal de trocas da loja, com o número do pedido em mãos."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-21"
   },
   {
     "id": 1119,
@@ -278251,9 +278414,9 @@ export const reviewsData: unknown[] = [
     "affiliate": "denavita",
     "type": "Guia & Cupons",
     "title": "Cupom Denavita na primeira compra: 10% OFF com EMCASA",
-    "seoTitle": "Cupom Denavita primeira compra: 10% OFF",
-    "description": "Encontre o EMCASA para a primeira compra na Denavita, confira em que campo aplicar os 10% OFF e veja o que vale checar na entrega e na devolução do seu pedido.",
-    "metaDescription": "O EMCASA dá 10% OFF na primeira compra da Denavita. Veja onde aplicar no checkout, o frete grátis, o prazo pelo CEP e as trocas.",
+    "seoTitle": "Cupom Denavita primeira compra: EMCASA dá 10% OFF",
+    "description": "Veja onde aplicar o EMCASA na primeira compra da Denavita, quanto cada suplemento de entrada sai com os 10% OFF e como conferir o desconto antes de pagar.",
+    "metaDescription": "O EMCASA dá 10% OFF na primeira compra da Denavita e nas seguintes. Veja onde aplicar no checkout, os suplementos mais buscados e os kits.",
     "image": "/images/reviews/denavita/cupom-denavita-primeira-compra-hero-pt-v2.webp",
     "imageAlt": "Potes de Tons da Denavita dispostos na diagonal sobre fundo claro, em foto do catálogo. A capa traz «Cupom na primeira compra» e o código EMCASA.",
     "cta": {
@@ -278278,28 +278441,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na primeira compra no site da Denavita, use EMCASA para ter 10% OFF. O código está na [página do cupom Denavita](/cupons/denavita). No checkout, abra “Tem um cupom?”, cole EMCASA e clique em “Adicionar”. Confira a linha de desconto antes de informar o CPF. O código também vale para quem já é cliente."
+          "Na primeira compra no site da Denavita, use EMCASA para ter 10% OFF. No checkout, abra “Tem um cupom?”, cole EMCASA e clique em “Adicionar”. Confira a linha “Cupom de desconto” antes de informar o CPF. O código também vale para quem já é cliente, no Pix ou no cartão."
         ]
       },
       {
         "heading": "Onde encontrar o desconto da primeira compra",
         "paragraphs": [
-          "A Denavita vende suplementos em cápsulas e em pó, avulsos e em kits. Se é seu primeiro pedido, veja [quem vende, como conferir a entrega e onde pedir devolução](/reviews/denavita-e-confiavel).",
-          "Copie EMCASA na [página do cupom Denavita](/cupons/denavita). Nos testes, o código entrou sobre itens em oferta e dois kits. O desconto se manteve quando selecionamos Pix no pedido dos kits."
+          "A Denavita vende suplementos em cápsulas e em pó, avulsos e em kits, direto no site oficial. Se é seu primeiro pedido, o guia [Denavita é confiável?](/reviews/denavita-e-confiavel) explica quem vende e como funciona a entrega.",
+          "Copie EMCASA na [página do cupom Denavita](/cupons/denavita). Nos testes, o código entrou sobre itens em oferta e sobre kits, e o desconto se manteve no Pix."
         ]
       },
       {
         "heading": "O que conferir antes de fechar o primeiro pedido",
         "paragraphs": [
-          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, com asterisco. Informe o CEP, aplique o cupom e confira o total com a entrega no checkout.",
-          "Para desistência ou produto entregue com problema, abra uma solicitação no [portal de trocas da Denavita](https://trocas-gobeaute.devgogroup.com/denavita) com o número do pedido. Em compra online, o [art. 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm#art49) prevê sete dias a partir do recebimento para desistir."
+          "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP no checkout, aplique o cupom e veja o prazo e o total com a entrega."
         ],
         "bullets": [
-          "**Trocas.** A loja informa que as trocas passam pelo portal de trocas: 30 dias depois da entrega para problema com o pedido (faltou item, produto errado, produto danificado, sem lacre ou fora da validade) e 7 dias para desistir, com o produto lacrado. A devolução sai em voucher ou reembolso no valor pago pelo item.",
-          "**Validade depois de aberto.** Cada produto traz a sua, na página ou no rótulo. No Laranja Moro, a loja manda consumir preferencialmente em 30 dias depois de aberto."
-        ],
-        "postParagraphs": [
-          "Antes de comprar, vale saber que atraso na entrega é o problema mais citado no Reclame Aqui da Denavita. O guia [Denavita é confiável?](/reviews/denavita-e-confiavel) reúne esse e outros pontos para conferir antes de comprar."
+          "**Pagamento.** Até 12x no cartão ou Pix, com o EMCASA aplicado nos dois.",
+          "**Validade depois de aberto.** Cada produto traz a sua, na página ou no rótulo. No Laranja Moro, a loja manda consumir preferencialmente em 30 dias depois de aberto.",
+          "**Entrega e trocas.** O guia [Denavita é confiável?](/reviews/denavita-e-confiavel) reúne o prazo, a política de trocas e quem é a empresa por trás do site."
         ],
         "images": [
           {
@@ -278314,9 +278474,49 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher entre pote avulso e kit",
         "paragraphs": [
-          "Para comparar o mesmo suplemento em mais de um tamanho, confira a quantidade na embalagem, a validade de cada pote e o preço com a entrega. Veja o [preço por dia dos produtos Denavita](/reviews/denavita-e-boa).",
-          "Se veio pelo Morosil®, o [guia do Laranja Moro da Denavita](/reviews/laranja-moro-denavita) reúne a composição da ficha e o preço do pote avulso e dos kits por quantidade."
-        ]
+          "Estes são os suplementos de entrada que mais buscam na Denavita, com o preço da página em 21 de novembro de 2026 e o valor com o EMCASA (10% sobre o preço atual). Confira o frete no checkout.",
+          "Para comparar o preço por dia de cada um, veja o [guia Denavita é boa?](/reviews/denavita-e-boa). Se veio pelo Morosil®, o [guia do Laranja Moro da Denavita](/reviews/laranja-moro-denavita) reúne a composição e as opções por quantidade."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do pote avulso na página da loja, antes do frete, e valor com o EMCASA.",
+          "headers": [
+            "Produto",
+            "Preço na página",
+            "Com EMCASA"
+          ],
+          "rows": [
+            [
+              "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), 30 cápsulas",
+              "R$ 76,90",
+              "R$ 69,21"
+            ],
+            [
+              "[Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio)",
+              "R$ 46,90",
+              "R$ 42,21"
+            ],
+            [
+              "[Tons – Equilíbrio](https://www.denavita.com.br/products/tons)",
+              "R$ 79,90",
+              "R$ 71,91"
+            ],
+            [
+              "[NAC + Polivitamínico A a Z](https://www.denavita.com.br/products/nac-polivitaminico)",
+              "R$ 49,90",
+              "R$ 44,91"
+            ],
+            [
+              "[Coenzima Q10, Ômega 3 e Vitamina E](https://www.denavita.com.br/products/coenzima-q10-omega-3-e-selenio-30-caps)",
+              "R$ 65,90",
+              "R$ 59,31"
+            ],
+            [
+              "[Creatina 100% Pura 250 g](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita)",
+              "R$ 98,90",
+              "R$ 89,01"
+            ]
+          ]
+        }
       },
       {
         "heading": "Como aplicar o cupom no primeiro pedido",
@@ -278326,7 +278526,16 @@ export const reviewsData: unknown[] = [
           "Veja a linha “Cupom de desconto” com o valor abatido e só então siga para a identificação."
         ],
         "postParagraphs": [
-          "O [guia de como usar o cupom Denavita](/reviews/cupom-denavita-como-usar) mostra a tela e os valores dos carrinhos testados."
+          "No nosso teste com três kits ([Kit Queridinhos Denavita](https://www.denavita.com.br/products/kit-queridinhos-denavita), [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo)), o carrinho de R$ 659,70 saiu por R$ 593,73 com o EMCASA. O [guia de como usar o cupom Denavita](/reviews/cupom-denavita-como-usar) mostra a tela e os valores dos carrinhos testados."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/denavita/cupom-denavita-checkout-com-cupom.webp",
+            "alt": "Resumo do checkout da Denavita com o código EMCASA no campo Tem um cupom?: desconto de R$ 39,98 sobre R$ 399,80 em produtos e total de R$ 359,82",
+            "caption": "Resumo do checkout da Denavita com o EMCASA aplicado no carrinho dos dois kits.",
+            "objectFit": "contain",
+            "aspectRatio": 0.54
+          }
         ]
       },
       {
@@ -278334,11 +278543,13 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o desconto na primeira compra da Denavita? Use EMCASA para ter 10% OFF no site oficial. Aplique o código em “Tem um cupom?” no resumo do checkout e clique em “Adicionar”.",
           "O cupom Denavita vale para quem já comprou? O EMCASA dá 10% OFF também para quem já é cliente.",
-          "Tem frete grátis na primeira compra da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, com asterisco. Confira o frete para o seu CEP depois de aplicar o cupom no checkout.",
-          "O cupom soma com o Leve 3, Pague 2? O EMCASA deu 10% OFF nos carrinhos testados. O resumo registrou o desconto do cupom. Para confirmar a combinação, confira se o checkout mostra também a promoção por quantidade."
+          "Tem frete grátis na primeira compra da Denavita? A loja anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Confira o prazo e o frete para o seu CEP depois de aplicar o cupom no checkout.",
+          "Posso parcelar com o cupom? Sim. O checkout mostra o parcelamento em até 12x no cartão, e o Pix também aceita o código.",
+          "O cupom soma com o Leve 3, Pague 2? Testamos o EMCASA em avulsos e em kits. Nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-21"
   },
   {
     "id": 1120,

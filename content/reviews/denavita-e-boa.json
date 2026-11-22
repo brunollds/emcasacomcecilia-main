@@ -52,7 +52,7 @@
       "Você conferiu a quantidade da embalagem e a validade de cada pote do kit."
     ],
     "skipIf": [
-      "Você precisa receber numa data e a estimativa para o CEP passa desse prazo.",
+      "Você ainda não escolheu o suplemento e procura uma indicação de uso.",
       "Você precisa esclarecer um alergênico da ficha antes de decidir."
     ]
   },
@@ -60,13 +60,14 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Se você já decidiu qual suplemento comprar, compare na Denavita o tamanho do pote, a porção da ficha e o custo diário. Há avulsos e kits. O cupom EMCASA dá 10% OFF, e a tabela mostra o preço estimado com o código. Para o mesmo produto, compare também a validade dos potes e o frete."
+        "Se você já decidiu qual suplemento comprar, compare na Denavita o tamanho do pote, a porção da ficha e o custo diário. Há avulsos, kits e opções por quantidade. O cupom EMCASA dá 10% OFF, e as tabelas mostram o preço estimado com o código. Para o mesmo produto, compare também a validade dos potes e o frete."
       ]
     },
     {
       "heading": "O que a Denavita vende",
       "paragraphs": [
-        "A Denavita vende cápsulas, gomas e suplementos em pó. Entre os avulsos estão Laranja Moro, Trio Magnésio, NAC com polivitamínico e creatina. Alguns kits juntam produtos diferentes. Já as opções de quantidade reúnem vários potes do mesmo produto."
+        "A Denavita vende cápsulas, gomas e suplementos em pó, com compra pelo site oficial. Entre os avulsos estão [Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), [Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), [NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico) e [Creatina 100% Pura](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita). Há também o shot [Jejoom](https://www.denavita.com.br/products/jejoom-shot-matinal-para-metabolismo) e o [Digestino](https://www.denavita.com.br/products/digestino).",
+        "Alguns kits juntam produtos diferentes, como o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo). Já as opções por quantidade reúnem vários potes do mesmo produto e aparecem como variantes na página de cada um. Os preços deste guia são os da página em 21 de novembro de 2026. O pagamento vai até 12x no cartão ou no Pix."
       ]
     },
     {
@@ -77,7 +78,8 @@
       "bullets": [
         "**Laranja Moro.** A ficha lista Morosil®, extrato de café verde e picolinato de cromo. A quantidade de cafeína não aparece. Veja a [composição do Laranja Moro](/reviews/laranja-moro-denavita).",
         "**Tons Equilíbrio.** A página lista coenzima Q10, pinho marítimo e vitamina A. A cápsula é de gelatina.",
-        "**Trio Magnésio.** A ficha lista bisglicinato, taurato e malato. O aviso “pode conter” cita soja, peixe, crustáceos, pinoli e ovo."
+        "**Trio Magnésio.** A ficha lista bisglicinato, taurato e malato. O aviso “pode conter” cita soja, peixe, crustáceos, pinoli e ovo.",
+        "**NAC + Polivitamínico.** A ficha informa 300 mg de N-acetil L-cisteína por cápsula, 600 mg nas duas cápsulas diárias, junto com vitaminas e minerais. A cápsula é de gelatina, e o aviso “pode conter” cita soja, peixe, crustáceos, pinoli e ovo. Depois de aberto, o frasco deve ser consumido em até 60 dias."
       ],
       "images": [
         {
@@ -95,7 +97,7 @@
         "Calculamos o custo diário pela porção declarada na ficha. Use o valor para orçar o produto que escolheu. O desconto da tabela é estimado sobre o preço exibido."
       ],
       "comparisonTable": {
-        "caption": "Preços da vitrine em 19/11, no cartão e antes do frete. Porções das fichas da loja.",
+        "caption": "Preços da página e preço com o EMCASA, no cartão e antes do frete. Porções das fichas da loja.",
         "headers": [
           "Produto e dias por pote",
           "Preço anunciado",
@@ -104,37 +106,37 @@
         ],
         "rows": [
           [
-            "Laranja Moro, 30 cápsulas · 30 dias",
+            "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), 30 cápsulas · 30 dias",
             "R$ 76,90",
             "R$ 69,21",
             "R$ 2,56 → R$ 2,31"
           ],
           [
-            "Tons – Equilíbrio, 30 cápsulas · 30 dias",
+            "[Tons – Equilíbrio](https://www.denavita.com.br/products/tons), 30 cápsulas · 30 dias",
             "R$ 79,90",
             "R$ 71,91",
             "R$ 2,66 → R$ 2,40"
           ],
           [
-            "Trio Magnésio, 60 cápsulas · 30 dias",
+            "[Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), 60 cápsulas · 30 dias",
             "R$ 46,90",
             "R$ 42,21",
             "R$ 1,56 → R$ 1,41"
           ],
           [
-            "NAC + Polivitamínico, 60 cápsulas · 30 dias",
+            "[NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico), 60 cápsulas · 30 dias",
             "R$ 49,90",
             "R$ 44,91",
             "R$ 1,66 → R$ 1,50"
           ],
           [
-            "Coenzima Q10, Ômega 3 e Vitamina E, 30 cápsulas · 30 dias",
+            "[Coenzima Q10, Ômega 3 e Vitamina E](https://www.denavita.com.br/products/coenzima-q10-omega-3-e-selenio-30-caps), 30 cápsulas · 30 dias",
             "R$ 65,90",
             "R$ 59,31",
             "R$ 2,20 → R$ 1,98"
           ],
           [
-            "Creatina 100% Pura, 250 g (83 doses) · 83 dias",
+            "[Creatina 100% Pura](https://www.denavita.com.br/products/creatina-monohidratada-creatine-100-pura-micronizada-250g-denavita), 250 g (83 doses) · 83 dias",
             "R$ 98,90",
             "R$ 89,01",
             "R$ 1,19 → R$ 1,07"
@@ -157,10 +159,10 @@
     {
       "heading": "Avulso ou kit do mesmo produto",
       "paragraphs": [
-        "Compare o kit com o mesmo suplemento avulso. O valor por pote ajuda a ver a diferença. Antes de comprar mais unidades, confira a validade de cada uma."
+        "Compare o kit com o mesmo suplemento avulso. O valor por pote ajuda a ver a diferença. Antes de comprar mais unidades, confira a validade de cada uma. Os kits que juntam produtos diferentes não entram na conta por pote: o [Kit Vida Fit](https://www.denavita.com.br/products/kit-vida-fit) (Vinagre de Maçã com Ácido Fólico e Laranja Moro) e o [Turbo Metabolismo](https://www.denavita.com.br/products/turbo-metabolismo) (Laranja Moro, Trio Magnésio e Vinagre de Maçã) saem pelo preço do kit, e o [Kit Queridinhos](https://www.denavita.com.br/products/kit-queridinhos-denavita) soma Laranja Moro, Jejoom e Coenzima Q10."
       ],
       "comparisonTable": {
-        "caption": "Preços de vitrine em 19/11, no cartão, antes do frete e do cupom. Conta diária pela porção declarada nas fichas.",
+        "caption": "Preços da página, no cartão, antes do frete e do cupom. Conta diária pela porção declarada nas fichas.",
         "headers": [
           "Opção",
           "Preço",
@@ -169,37 +171,37 @@
         ],
         "rows": [
           [
-            "Laranja Moro, 1 pote",
+            "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), 1 pote",
             "R$ 76,90",
             "R$ 76,90",
             "R$ 2,56"
           ],
           [
-            "Laranja Moro, Compre 2 Leve 3",
+            "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Compre 2 Leve 3",
             "R$ 153,80",
             "R$ 51,27",
             "R$ 1,71"
           ],
           [
-            "Laranja Moro, Compre 3 Leve 5",
+            "[Laranja Moro](https://www.denavita.com.br/products/laranja-moro-cafe-verde-e-cromo-30-caps), Compre 3 Leve 5",
             "R$ 230,70",
             "R$ 46,14",
             "R$ 1,54"
           ],
           [
-            "Trio Magnésio, Leve 3 e Pague 2",
+            "[Trio Magnésio](https://www.denavita.com.br/products/trio-magnesio), Leve 3 e Pague 2",
             "R$ 93,80",
             "R$ 31,27",
             "R$ 1,04"
           ],
           [
-            "NAC + Polivitamínico, Compre 2 Leve 3",
+            "[NAC + Polivitamínico](https://www.denavita.com.br/products/nac-polivitaminico), Compre 2 Leve 3",
             "R$ 99,80",
             "R$ 33,27",
             "R$ 1,11"
           ],
           [
-            "Coenzima Q10, Compre 2 Leve 3",
+            "[Coenzima Q10](https://www.denavita.com.br/products/coenzima-q10-omega-3-e-selenio-30-caps), Compre 2 Leve 3",
             "R$ 131,80",
             "R$ 43,93",
             "R$ 1,46"
@@ -208,14 +210,23 @@
       },
       "postParagraphs": [
         "A validade do pote fechado e o prazo depois de abrir são informações diferentes. Confira as duas na embalagem.",
-        "O [cupom Denavita](/cupons/denavita) EMCASA deu 10% OFF no pedido com Kit Vida Fit e Turbo Metabolismo. Para ofertas que mudam o preço pela quantidade, confira o desconto que aparece no checkout."
+        "O [cupom Denavita](/cupons/denavita) EMCASA deu 10% OFF nos produtos avulsos e nos kits que testamos. No teste do Bruno, o Kit Queridinhos, o Kit Vida Fit e o Turbo Metabolismo somavam R$ 659,70 no carrinho e saíram por R$ 593,73 com o EMCASA. Testamos o código em avulsos e em kits. Nas opções por quantidade, confira a linha “Cupom de desconto” no resumo antes de pagar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/denavita/denavita-e-boa-kit-vida-fit.webp",
+          "alt": "Kit Vida Fit da Denavita: pote de Vinagre de Maçã com Ácido Fólico e pote de Laranja Moro",
+          "caption": "O Kit Vida Fit junta Vinagre de Maçã com Ácido Fólico e Laranja Moro. Foto: Denavita",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ]
     },
     {
       "heading": "Entrega e prazo no checkout",
       "paragraphs": [
-        "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, com asterisco. Informe o CEP, aplique o cupom e confira o total com a entrega no checkout.",
-        "Se precisa do pedido para uma data, consulte a previsão pelo seu CEP. Veja [o que o Reclame Aqui registra sobre a entrega](/reviews/denavita-reclame-aqui-nota-reputacao)."
+        "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. Informe o CEP, aplique o cupom e confira o prazo e o total com a entrega no checkout.",
+        "Para saber quem vende e como funcionam as trocas, veja [Denavita é confiável?](/reviews/denavita-e-confiavel)."
       ]
     },
     {
@@ -230,8 +241,9 @@
       "bullets": [
         "O que dá para comparar nos suplementos da Denavita? Use a composição e a porção da ficha para identificar o produto. Depois compare o custo diário, a quantidade que vem no pote e o frete.",
         "Vale mais a pena comprar o kit? Compare o preço por pote do mesmo produto. O custo unitário pode cair, e vale conferir quanto você vai pagar no pedido e a validade das unidades.",
-        "A Denavita tem cupom? O EMCASA dá 10% OFF no site oficial. Aplique no resumo do checkout e confira o valor do desconto."
+        "A Denavita tem cupom? O EMCASA dá 10% OFF no site oficial, no cartão em até 12x ou no Pix. Aplique no campo “Tem um cupom?” e confira a linha Cupom de desconto no resumo."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-21"
 }
