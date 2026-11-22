@@ -90369,7 +90369,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a Lejour é uma empresa regular, com CNPJ ativo e parceria com a Fast Shop. Veja como o saque por Pix é protegido e o que pesa antes de criar a sua lista de presentes.",
-    "metaDescription": "A Lejour é confiável? Veja o CNPJ, a parceria com a Fast Shop, como o saque por Pix é protegido e a reputação no Reclame Aqui em 14/10/2026.",
+    "metaDescription": "A Lejour é confiável? Veja o CNPJ, a parceria com a Fast Shop, como o saque por Pix é protegido e a reputação Ótima no Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -90379,10 +90379,10 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "CNPJ ativo na Receita Federal desde 07/11/2017, o mesmo do rodapé do site",
+      "CNPJ ativo na Receita Federal desde 2017, o mesmo do rodapé do site",
       "Parceria com a Fast Shop, que apresenta a lista Lejour + Fast Shop no site dela",
       "Saque por Pix só para o CPF de quem publicou a lista, depois de validar a identidade",
-      "Reputação Ótima no Reclame Aqui nos últimos 12 meses, com nota 9,5",
+      "Reputação Ótima no Reclame Aqui nos últimos 12 meses, com nota 9,8 e selo Empresa Verificada",
       "A central informa que painel e saldo continuam acessíveis após os 90 dias do site público"
     ],
     "cons": [
@@ -90413,7 +90413,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 2.3333,
         "comparisonTable": {
-          "caption": "Dados públicos do CNPJ da Lejour, 14/10/2026",
+          "caption": "Dados públicos do CNPJ da Lejour",
           "headers": [
             "Dado",
             "O que consta"
@@ -90425,7 +90425,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Situação cadastral",
-              "Ativa, desde 07/11/2017"
+              "Ativa, desde novembro de 2017"
             ],
             [
               "Atividade",
@@ -90453,6 +90453,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "o cabeçalho de lejour.com.br traz o logo \"Fast Shop + le jour\";",
           "a Fast Shop tem uma página de lista de casamento que apresenta a \"lista Lejour + Fast Shop\", com depoimentos de casais sobre ela."
+        ],
+        "postParagraphs": [
+          "Na prática, a parceria aparece dentro do painel da Lejour. O casal pode deixar o crédito dos presentes em dinheiro e sacar por Pix, ou usar o crédito em produtos da Fast Shop. Quem escolhe os produtos da Fast Shop recebe cashback mínimo de 4% para as próximas compras, segundo a página de lista de casamento da Fast Shop.",
+          "O exemplo oficial mostra a conta: um presente de R$ 104, com a taxa repassada ao convidado, chega como R$ 100 na conta do casal. Se esses R$ 100 forem gastos em um produto da Fast Shop, voltam R$ 4 de cashback. A condição é da Fast Shop e pode mudar, então confira a página dela antes de contar com o valor."
         ]
       },
       {
@@ -90511,7 +90515,7 @@ export const reviewsData: unknown[] = [
           "**Painel após os 90 dias do site.** A central informa que o site público fica disponível até 90 dias depois do casamento e que o painel permanece ativo por tempo indeterminado, permitindo solicitar o resgate do saldo."
         ],
         "postParagraphs": [
-          "Não encontramos certificação de segurança nem o nome do processador de pagamento publicados. A página \"É seguro utilizar a Lejour?\" da central de ajuda é genérica e diz só que a empresa leva a segurança a sério.",
+          "A central de ajuda da Lejour não traz certificação de segurança nem o nome do processador de pagamento. O que está descrito são as regras de saque acima, e é nelas que o casal pode se apoiar.",
           "Uma atitude sua ajuda e não depende da Lejour: confira que o endereço que você acessa é mesmo lejour.com.br."
         ]
       },
@@ -90530,7 +90534,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "A Lejour tinha reputação Ótima no Reclame Aqui nos últimos 12 meses, com nota 9,5 e 22 reclamações no período, todas respondidas. As abas de seis meses e de 2025 apareciam como \"Sem Reputação\"; o artigo sobre a Lejour no Reclame Aqui explica os recortes e as queixas."
+          "No perfil da Lejour no Reclame Aqui, a reputação dos últimos 12 meses é Ótima, com nota 9,8 e selo Empresa Verificada. Foram 21 reclamações recebidas no período, todas respondidas. Dos 12 casos avaliados pelos consumidores, 100% foram resolvidos e 91,7% dos clientes voltariam a fazer negócio. Os índices valem só para os casos avaliados. A empresa está no Reclame Aqui há 4 anos, e o artigo sobre a Lejour lá explica os recortes e as queixas."
         ],
         "links": [
           {
@@ -90559,7 +90563,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena usar a Lejour?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim. A Lejour tem CNPJ ativo desde 2017 e trabalha com a Fast Shop. A central descreve saque por Pix para o CPF de quem publicou a lista, após validação de identidade, e o perfil no Reclame Aqui tinha reputação Ótima nos últimos 12 meses. Esses dados ajudam a avaliar o serviço, sem garantir o resultado de cada caso. O plano Basic permite começar sem custo de plano e conhecer o formato, com taxa sobre presentes.",
+          "Do ponto de vista da confiança, sim. A Lejour tem CNPJ ativo desde 2017 e trabalha com a Fast Shop. A central descreve saque por Pix para o CPF de quem publicou a lista, após validação de identidade, e o perfil no Reclame Aqui tem reputação Ótima nos últimos 12 meses. Esses dados ajudam a avaliar o serviço, sem garantir o resultado de cada caso. O plano Basic permite começar sem custo de plano e conhecer o formato, com taxa sobre presentes.",
           "A taxa de 3,89% do Basic pesa mais quanto maior a lista; compare com Premium e Pro se a expectativa de presentes em dinheiro for alta. Para pagamento no cartão, a central informa que o crédito fica disponível 15 dias corridos depois da compra. Como o presente vira crédito em dinheiro, avalie se esse formato atende ao casal."
         ]
       },
@@ -90567,8 +90571,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Lejour é confiável? Sim. É uma empresa brasileira com CNPJ ativo desde 2017, que trabalha com a Fast Shop, e o saque dos presentes só sai por Pix para o CPF de quem publicou a lista, depois de validar a identidade.",
-          "A Lejour é da Fast Shop? Não. As duas são parceiras: o logo do site é \"Fast Shop + le jour\", e a Fast Shop apresenta a \"lista Lejour + Fast Shop\" no site dela.",
-          "O site de casamento da Lejour é seguro? A Lejour só libera o saque por Pix para uma chave do mesmo CPF que publicou a lista, com documento com foto e selfie antes do primeiro saque. A página de segurança da empresa é genérica, e não encontramos certificação nem o nome do processador de pagamento publicados.",
+          "A Lejour é da Fast Shop? Não. As duas são parceiras: o logo do site é \"Fast Shop + le jour\", e a Fast Shop apresenta a \"lista Lejour + Fast Shop\" no site dela. O casal pode sacar o crédito por Pix ou usá-lo em produtos da Fast Shop, com cashback mínimo de 4% nas próximas compras.",
+          "O site de casamento da Lejour é seguro? O saque só sai por Pix para uma chave do CPF de quem publicou a lista, e a Lejour valida a identidade, com documento com foto e selfie, antes do primeiro saque. O crédito dos presentes pagos no cartão fica disponível 15 dias corridos depois da compra.",
           "Em quanto tempo o dinheiro dos presentes cai na conta? Presentes pagos por Pix ou boleto ficam disponíveis depois da confirmação do pagamento, e os pagos no cartão, 15 dias corridos depois da compra. O saque por Pix sai em até 1 dia útil.",
           "O site some depois do casamento, e o saldo também? Segundo a central, o site fica público até 90 dias depois do casamento; o painel permanece ativo por tempo indeterminado e permite resgatar o saldo.",
           "Qual é o CNPJ da Lejour? É 29.009.811/0001-35, ativo desde 2017, e aparece no rodapé do site."
@@ -90593,14 +90597,15 @@ export const reviewsData: unknown[] = [
       {
         "slug": "lista-de-casamento-lejour-como-criar"
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "bodyDatesReason": "reclame-aqui",
     "id": 425,
     "slug": "lejour-reclame-aqui-nota-reputacao",
-    "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram",
-    "seoTitle": "Lejour no Reclame Aqui: nota e reclamações",
+    "title": "Lejour no Reclame Aqui: nota 9,8, reputação Ótima e reclamações",
+    "seoTitle": "Lejour no Reclame Aqui: nota 9,8, Ótima e reclamações",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -90611,10 +90616,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Lejour tem reputação Ótima e nota 9,5 nos 12 meses até setembro de 2026, com todas as reclamações respondidas. Veja o que é Sem Reputação e o que fazer se o saque travar.",
-    "metaDescription": "Lejour no Reclame Aqui em 14/10/2026: reputação Ótima, nota 9,5 e 22 reclamações respondidas. Veja o que é \"Sem Reputação\" e o que fazer.",
+    "description": "Lejour tem reputação Ótima e nota 9,8 no Reclame Aqui em 12 meses, com 21 reclamações respondidas. Veja o que o Sem Reputação mede, as queixas e o que conferir no saque.",
+    "metaDescription": "Lejour no Reclame Aqui: reputação Ótima, nota 9,8 em 12 meses e 21 reclamações respondidas. Veja o que é Sem Reputação e as queixas.",
     "publishedAt": "14 de outubro de 2026",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": false,
@@ -90623,77 +90628,62 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Reputação Ótima e nota 9,5 de 10 nos 12 meses até setembro de 2026",
-      "100% das reclamações respondidas nas abas de 6 meses, 12 meses e 2025",
-      "100% das 13 reclamações avaliadas em 12 meses foram resolvidas",
-      "Tempo médio de resposta de 2 dias e 5 horas em 12 meses",
-      "Empresa verificada e avaliações de compra de 5,0 em 5"
+      "Reputação Ótima e nota 9,8 de 10 nos 12 meses até outubro de 2026",
+      "100% das reclamações respondidas nas quatro abas do perfil",
+      "100% das 12 reclamações avaliadas em 12 meses aparecem como resolvidas",
+      "Selo Empresa Verificada e tempo médio de resposta de 2 dias em 12 meses"
     ],
     "cons": [
-      "Volume pequeno: a nota de 12 meses se apoia em 13 reclamações avaliadas",
-      "Abas de 6 meses e de 2025 aparecem como \"Sem Reputação\"",
-      "Mau Atendimento é o problema mais marcado, com 13,64%"
+      "Base pequena: a nota de 12 meses se apoia em 12 reclamações avaliadas",
+      "As abas de 6 meses e de 2025 aparecem como Sem Reputação",
+      "Mau Atendimento é o problema mais marcado na aba Geral, com 13,95%"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Lejour tem reputação Ótima no Reclame Aqui nos últimos 12 meses: todas as 22 reclamações foram respondidas, e as 13 avaliadas pelos consumidores, resolvidas. O volume é pequeno, e a nota mostra poucos casos. Para criar a lista com o nosso link, veja a [indicação da Lejour](/cupons/lejour)."
+          "A Lejour tem reputação Ótima e nota 9,8 no Reclame Aqui nos 12 meses até outubro de 2026, com 21 reclamações recebidas, todas respondidas, e 100% de solução entre as 12 avaliadas. O tempo médio de resposta foi de 2 dias. O link deste artigo é uma indicação, sem cupom e sem desconto."
         ]
       },
       {
-        "heading": "Por que olhar o Reclame Aqui antes de criar a lista",
+        "heading": "A nota e os indicadores do Reclame Aqui",
         "paragraphs": [
-          "Na Lejour, o presente da lista é virtual: o convidado paga, o valor vira crédito em dinheiro no painel do casal, e o casal saca por Pix. Por isso a pergunta que importa antes de criar a conta é o que acontece se algo travar, como um saque que não sai ou um pagamento que não aparece como crédito.",
-          "O Reclame Aqui mostra o que a empresa faz quando alguém reclama: se responde, em quanto tempo, e se o consumidor considera o problema resolvido.",
-          "Em 14/10/2026, olhamos o perfil \"Lejour\" no Reclame Aqui: o topo, as abas de 6 meses, 12 meses e 2025 e a lista de principais problemas. Os números mudam com o tempo, então vale abrir o perfil de novo no dia em que você for criar a lista."
-        ],
-        "links": [
-          {
-            "label": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques",
-            "href": "/reviews/lejour-e-confiavel"
-          }
-        ]
-      },
-      {
-        "heading": "Os números da Lejour no Reclame Aqui",
-        "paragraphs": [
-          "O Reclame Aqui mostra o desempenho por período. Das cinco abas do perfil, estas são as três que contam aqui: 6 meses, 12 meses e 2025, cada uma com o intervalo de datas do rodapé do quadro:"
-        ],
-        "image": {
-          "src": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
-          "alt": "Perfil da Lejour no Reclame Aqui: reputação Ótima, empresa verificada, avaliações de compra 5,0 e o quadro de desempenho dos últimos 12 meses",
-          "caption": "O topo do perfil da Lejour no Reclame Aqui e o quadro de desempenho dos últimos 12 meses.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "postParagraphs": [
-          "O \"--\" aparece no próprio Reclame Aqui, nas abas de 6 meses e de 2025. Só a aba de 12 meses traz esses números.",
-          "Há dois cuidados na leitura. O primeiro é que \"100% resolvidas\" e \"84,6% voltariam\" valem só para as 13 reclamações avaliadas, e quem não volta ao Reclame Aqui para avaliar não entra na conta. O segundo é que 22 reclamações em 12 meses não bastam para afirmar como a Lejour trata qualquer pedido. O que os números mostram é que, nos casos registrados, todos foram respondidos e nenhum estava aguardando resposta."
+          "A tabela reúne os indicadores do [perfil da Lejour](https://www.reclameaqui.com.br/empresa/lejour/) nas quatro abas que o Reclame Aqui mostra. Cada coluna vale para a sua janela, e o \"--\" aparece no próprio perfil quando a plataforma não calcula o índice."
         ],
         "comparisonTable": {
-          "caption": "Lejour no Reclame Aqui por período",
+          "caption": "Lejour no Reclame Aqui por aba. 6 meses: de 1º de maio a 31 de outubro de 2026. 12 meses: de 1º de novembro de 2025 a 31 de outubro de 2026. 2025: o ano inteiro. Geral: até 3 anos, de 21 de novembro de 2023 a 20 de novembro de 2026. Resolvidas e voltariam a fazer negócio são calculados sobre as avaliadas.",
           "headers": [
             "Indicador",
-            "12 meses (01/10/2025 a 30/09/2026)",
-            "6 meses (01/04 a 30/09/2026)",
-            "2025 (ano inteiro)"
+            "6 meses",
+            "12 meses",
+            "2025",
+            "Geral"
           ],
           "rows": [
             [
               "Reputação",
-              "Ótima, nota 9,5/10",
               "Sem Reputação",
-              "Sem Reputação"
+              "Ótima",
+              "Sem Reputação",
+              "Ótima"
+            ],
+            [
+              "Nota",
+              "--",
+              "9,8/10",
+              "--",
+              "9,4/10"
             ],
             [
               "Reclamações recebidas",
-              "22",
-              "13",
-              "10"
+              "11",
+              "21",
+              "10",
+              "43"
             ],
             [
               "Respondidas",
+              "100%",
               "100%",
               "100%",
               "100%"
@@ -90702,140 +90692,126 @@ export const reviewsData: unknown[] = [
               "Aguardando resposta",
               "0",
               "0",
+              "0",
               "0"
             ],
             [
-              "Resolvidas",
+              "Avaliadas",
+              "4",
+              "12",
+              "8",
+              "26"
+            ],
+            [
+              "Resolvidas, entre as avaliadas",
+              "--",
               "100%",
               "--",
-              "--"
+              "96,2%"
             ],
             [
-              "Voltariam a fazer negócio",
-              "84,6%",
+              "Voltariam a fazer negócio, entre as avaliadas",
               "--",
-              "--"
-            ],
-            [
-              "Reclamações avaliadas",
-              "13",
-              "5",
-              "8"
+              "91,7%",
+              "--",
+              "88,5%"
             ],
             [
               "Nota média do consumidor",
-              "9,38",
               "--",
-              "--"
+              "9,75",
+              "--",
+              "9,15"
             ],
             [
               "Tempo médio de resposta",
-              "2 dias e 5 horas",
-              "2 dias e 22 horas",
-              "23 horas"
+              "3 dias",
+              "2 dias",
+              "23 horas",
+              "1 dia e 8 horas"
             ]
           ]
-        }
-      },
-      {
-        "heading": "O que quer dizer \"Sem Reputação\"",
-        "paragraphs": [
-          "\"Sem Reputação\" não é uma nota baixa, nem um aviso do Reclame Aqui contra a empresa. É a ausência de nota. O quadro das abas de 6 meses e de 2025 traz a explicação em duas linhas: \"Essa empresa ainda não possui 10 reclamações avaliadas para calcularmos a reputação.\"",
-          "A conta depende de reclamações avaliadas, e não de reclamações recebidas. Na aba de 6 meses, só 5 das 13 reclamações foram avaliadas pelos consumidores; em 2025, foram 8 das 10. Nenhuma das duas janelas chega a 10 avaliadas, e por isso o perfil aparece sem reputação. Na aba de 12 meses, o número sobe para 13 avaliadas, o Reclame Aqui consegue calcular, e aparece a reputação Ótima."
-        ],
-        "image": "/images/reviews/lejour/lejour-reclame-aqui-aba-6-meses.webp",
-        "imageAlt": "Aba de 6 meses do perfil da Lejour no Reclame Aqui: Sem Reputação, 13 reclamações recebidas e 5 avaliadas",
-        "imageCaption": "Aba de 6 meses do perfil da Lejour no Reclame Aqui: \"Sem Reputação\", 13 reclamações recebidas e 5 avaliadas. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.3221
-      },
-      {
-        "heading": "O que mais aparece nas reclamações da Lejour",
-        "paragraphs": [
-          "Com poucas reclamações, cada uma pesa muito na fatia: o Reclame Aqui destacava três itens de até 3 anos na aba geral:"
-        ],
+        },
         "postParagraphs": [
-          "A leitura é sobre a plataforma e o atendimento: \"Mau Atendimento\" é o problema mais marcado. Nos três itens que o perfil destaca, não aparece saque, pagamento ou estorno. O print mostra um item de cada grupo, e não a lista completa, então isso não quer dizer que nenhuma reclamação tenha tratado de dinheiro.",
-          "O volume é pequeno, e isso pesa nas porcentagens: com tão poucas reclamações, cada uma muda bastante a fatia. O que o Reclame Aqui publica aqui é só o agrupamento, não o texto das reclamações. Por isso, o que dá para tirar daqui é uma pista do que olhar (como o atendimento responde), e não uma estatística sobre quanto dá errado."
+          "As 21 reclamações de 12 meses e as 43 da aba Geral são números absolutos. Sem o total de casais que usam a Lejour, eles não viram proporção."
+        ]
+      },
+      {
+        "heading": "O que a nota, o \"Sem Reputação\" e os selos medem, e o que não medem",
+        "paragraphs": [
+          "A nota do Reclame Aqui mede como a empresa atende as reclamações registradas na plataforma. Ela não mede a qualidade do site de casamento nem da lista de presentes, e muda com o tempo: confira o perfil no dia em que for criar a lista.",
+          "\"Sem Reputação\" não é nota baixa. O Reclame Aqui só calcula a reputação de perfis com 10 reclamações avaliadas ou mais na janela. A Lejour teve 4 avaliadas em 6 meses e 8 em 2025, por isso essas duas abas ficam sem nota. Nos 12 meses foram 12 avaliadas, e a plataforma passa a calcular: reputação Ótima, nota 9,8.",
+          "O perfil mostra reputação Ótima, o selo Empresa Verificada e \"Resolve 100.0% das reclamações\". Pela descrição da própria plataforma, o selo reúne \"empresas aprovadas na nossa verificação mensal, que assegura que a empresa existe e é mais confiável\". A empresa está no Reclame Aqui há 4 anos.",
+          "A nota 9,8 é a que a plataforma calcula. A 9,75 é outra coisa: a média que os consumidores deram ao atendimento ao avaliar a reclamação, depois de finalizada. Resolvidas e voltariam a fazer negócio valem só para as avaliadas, que em 12 meses são 12. É uma base pequena: com tão poucos casos, uma única avaliação muda bastante o percentual."
         ],
-        "image": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
-        "imageAlt": "Principais problemas comentados no perfil da Lejour no Reclame Aqui: Sites e portais, Mau Atendimento e Conteúdo",
-        "imageCaption": "Principais problemas comentados no perfil da Lejour no Reclame Aqui, com reclamações de até 3 anos. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.225,
-        "comparisonTable": {
-          "caption": "Principais agrupamentos de reclamações da Lejour no Reclame Aqui",
-          "headers": [
-            "Agrupamento",
-            "O que mais aparece",
-            "Parcela das reclamações"
-          ],
-          "rows": [
-            [
-              "Categoria",
-              "Sites e portais",
-              "22,73%"
-            ],
-            [
-              "Problema",
-              "Mau Atendimento",
-              "13,64%"
-            ],
-            [
-              "Produto",
-              "Conteúdo",
-              "9,09%"
-            ]
-          ]
+        "image": {
+          "src": "/images/reviews/lejour/lejour-reclame-aqui-selos-2026-11.webp",
+          "alt": "Topo do perfil da Lejour no Reclame Aqui com os selos de reputação Ótima e Empresa Verificada e a nota 5.0 das avaliações de compra",
+          "caption": "Topo do perfil da Lejour no Reclame Aqui, com os selos de reputação Ótima e Empresa Verificada. Fonte: Reclame Aqui.",
+          "objectFit": "contain",
+          "aspectRatio": 4.1667
         }
       },
       {
-        "heading": "Se o saque ou um presente der problema: o que fazer",
+        "heading": "Pontos positivos",
         "paragraphs": [
-          "Antes de abrir qualquer reclamação, confira o que costuma explicar a demora. Os prazos e as regras abaixo são os da central de ajuda da Lejour."
+          "O perfil mostra estes pontos a favor da Lejour:"
         ],
         "bullets": [
-          "**O presente foi pago, mas o crédito não aparece.** No Pix e no boleto, o crédito fica disponível depois da confirmação do pagamento. No cartão, só 15 dias corridos depois da compra.",
-          "**O saque não caiu.** O saque sai por Pix em até 1 dia útil, mas só para uma chave do mesmo CPF de quem publicou a lista, e só depois de a Lejour validar a identidade com documento com foto e selfie. Se a chave estiver em nome de outra pessoa, ou se a validação ainda não foi concluída, o dinheiro não sai.",
-          "**Nada disso explica.** Fale com a Lejour pela opção \"Fale com a gente\", que leva ao atendimento por WhatsApp, e tenha à mão o CPF do titular da lista, a chave Pix usada e a data do pedido de saque ou do presente.",
-          "**O atendimento não resolveu.** Você pode registrar a reclamação no Reclame Aqui e depois avaliar a resposta. Nos últimos 12 meses, a Lejour respondeu às 22 reclamações; isso não garante o resultado de um caso novo."
+          "Reputação Ótima e nota 9,8 de 10 na aba de 12 meses.",
+          "Selo Empresa Verificada e 4 anos de perfil no Reclame Aqui.",
+          "100% das reclamações respondidas nas quatro abas, e nenhuma aguardando resposta.",
+          "Tempo médio de resposta de 2 dias em 12 meses e de 23 horas em 2025.",
+          "Entre as 12 avaliadas em 12 meses, 100% aparecem como resolvidas e 91,7% voltariam a fazer negócio. A base é pequena, então os índices oscilam com poucos casos."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "A base de avaliadas é o principal limite: 12 em 12 meses, 4 em 6 meses e 8 em 2025. Os índices de solução e de quem voltaria a fazer negócio não dizem como a Lejour trata todos os casais.",
+          "Na aba Geral, que soma até 3 anos, são 43 reclamações recebidas e 26 avaliadas, com 96,2% resolvidas e 88,5% de quem avaliou dizendo que voltaria a fazer negócio. Nessa mesma aba, os principais problemas são: categoria Sites e portais, com 20,93%; problema Mau Atendimento, com 13,95%; e produto Conteúdo, com 9,3%.",
+          "O Reclame Aqui publica só o agrupamento, não o texto das reclamações. Por isso o gráfico é uma pista do que conferir, como o atendimento, e não uma estatística de quanto dá errado."
+        ],
+        "image": {
+          "src": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas-2026-11.webp",
+          "alt": "Gráfico de principais problemas da aba Geral do perfil da Lejour no Reclame Aqui, com Sites e portais, Mau Atendimento e Conteúdo",
+          "caption": "Principais problemas do perfil da Lejour, aba Geral (até 3 anos). Fonte: Reclame Aqui.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5111
+        }
+      },
+      {
+        "heading": "Como a Lejour responde e o que conferir antes de criar a lista",
+        "paragraphs": [
+          "Para dúvida ou problema, o caminho é a própria Lejour: a central de ajuda e a opção \"Fale com a gente\", que leva ao atendimento. Tenha à mão o CPF do titular da lista, a chave Pix usada e a data do presente ou do pedido de saque. O CNPJ do perfil é 29.009.811/0001-35.",
+          "Antes de criar a lista, confira o que mais costuma gerar dúvida, com as regras da central de ajuda:"
+        ],
+        "bullets": [
+          "**O presente foi pago, mas o crédito não aparece.** No Pix e no boleto, o crédito é liberado depois da confirmação do pagamento. No cartão, só 15 dias corridos depois da compra.",
+          "**O saque não caiu.** O saque sai por Pix em até 1 dia útil, só para uma chave do mesmo CPF de quem publicou a lista. Se a chave estiver em nome de outra pessoa, o dinheiro não sai. Fim de semana e feriado passam para o próximo dia útil.",
+          "**A taxa da lista.** Ela é descontada no momento do presente, e o casal escolhe se arca com ela ou repassa ao convidado. Fora de campanha, vai até 3,89% no Basic, 3,29% no Premium e 2,99% no Pro.",
+          "**Resgate na Fast Shop.** Pela parceria da lista Lejour + Fast Shop, o resgate em produtos dá cashback mínimo de 4% nas próximas compras, e o resgate em dinheiro tem os 2 primeiros saques gratuitos no Basic."
         ],
         "postParagraphs": [
-          "Guarde o comprovante de cada pagamento de presente e a captura da tela do pedido de saque. Com eles, a reclamação, se precisar chegar ao Reclame Aqui, fica documentada."
+          "Guarde o comprovante de cada presente e a captura do pedido de saque. Para saber quem está por trás da empresa e como funcionam os saques, veja [Lejour é confiável?](/reviews/lejour-e-confiavel)."
         ]
       },
       {
-        "heading": "Indicação do Em Casa com Cecília",
+        "heading": "Vale a pena usar a Lejour pelo link de indicação?",
         "paragraphs": [
-          "O Em Casa com Cecília tem uma parceria com a Lejour. O botão deste artigo leva a um link de indicação: se você criar a conta por ele, o site pode receber uma comissão da Lejour. Para o casal, não muda nada: não há desconto, cupom nem benefício extra, e o plano Basic continua grátis do mesmo jeito. Os números do Reclame Aqui acima são do perfil público da empresa e não dependem da parceria.",
-          "A página da Lejour no Em Casa com Cecília reúne as condições da indicação, e o passo a passo do cadastro está no guia de como montar a lista. Se preferir, entre direto pelo site da Lejour."
-        ],
-        "links": [
-          {
-            "label": "Lejour no Em Casa com Cecília",
-            "href": "/cupons/lejour"
-          },
-          {
-            "label": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes",
-            "href": "/reviews/lista-de-casamento-lejour-como-criar"
-          }
-        ]
-      },
-      {
-        "heading": "Dá para confiar na Lejour pelo Reclame Aqui?",
-        "paragraphs": [
-          "Os números são bons: reputação Ótima, nota 9,5 de 10, 22 reclamações em 12 meses, todas respondidas e todas resolvidas entre as 13 avaliadas.",
-          "A ressalva é o tamanho da amostra. Poucas reclamações avaliadas mostram como a Lejour tratou esses casos, não como ela trata todos. Por isso vale somar o que o artigo sobre a confiança da empresa mostra, como o CNPJ, a parceria com a Fast Shop e as regras do saque por Pix."
+          "De um lado, a Lejour tem reputação Ótima e nota 9,8 em 12 meses, selo Empresa Verificada, todas as reclamações respondidas e 100% de solução entre as 12 avaliadas. Do outro, a base é pequena, duas abas ficam sem reputação e Mau Atendimento lidera os problemas da aba Geral.",
+          "O Em Casa com Cecília tem parceria com a Lejour: o link deste artigo é uma indicação, e o site pode receber comissão. Para o casal, não há desconto nem benefício extra, e o plano Basic segue grátis. Os números do Reclame Aqui são do perfil público e não dependem da parceria.",
+          "As condições da indicação estão na [página da Lejour](/cupons/lejour), e o passo a passo do cadastro, em [como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Lejour é confiável segundo o Reclame Aqui? O perfil tinha reputação Ótima nos últimos 12 meses, com 100% das reclamações respondidas e 100% das avaliadas resolvidas. As reclamações são poucas e a nota se apoia em 13 avaliações, então o número não garante como a empresa trata cada caso. Nem todos os que avaliaram voltariam a fazer negócio (84,6%).",
-          "Qual a nota da Lejour no Reclame Aqui? A reputação é Ótima, com nota 9,5 de 10, na aba de 12 meses. A nota média do consumidor nas reclamações avaliadas é 9,38, e 84,6% dizem que voltariam a fazer negócio. Os números mudam com o tempo.",
-          "Por que a Lejour aparece \"Sem Reputação\"? Nas abas de 6 meses e de 2025, o Reclame Aqui só dá reputação a perfis com 10 reclamações avaliadas ou mais. A Lejour teve menos que isso nas duas janelas, e por isso elas ficam sem nota.",
-          "A Lejour responde às reclamações? Sim: o perfil mostrava 100% das reclamações respondidas nas três abas, com resposta média de 2 dias e 5 horas em 12 meses, 2 dias e 22 horas em 6 meses e 23 horas em 2025.",
-          "O que fazer se o saque da Lejour não cair? O saque sai em até 1 dia útil, então confira se a chave Pix é do mesmo CPF de quem publicou a lista e se a validação de identidade foi concluída. Se estiver tudo certo, fale com a Lejour por \"Fale com a gente\" e, sem solução, abra a reclamação no Reclame Aqui."
+          "Qual a nota da Lejour no Reclame Aqui? Na aba de 12 meses, a reputação é Ótima, com nota 9,8 de 10. Na aba Geral, que soma até 3 anos, a nota é 9,4. A nota muda com o tempo, então confira o perfil.",
+          "A Lejour tem o selo Empresa Verificada? Sim. O perfil mostra o selo Empresa Verificada, que o Reclame Aqui descreve como a aprovação na verificação mensal que assegura que a empresa existe.",
+          "Por que a Lejour aparece como Sem Reputação em algumas abas? O Reclame Aqui só calcula a reputação com 10 reclamações avaliadas ou mais. A Lejour teve 4 avaliadas em 6 meses e 8 em 2025, e 12 em 12 meses.",
+          "A Lejour responde e resolve as reclamações? Respondeu 100% das 21 de 12 meses, em média em 2 dias. Entre as 12 avaliadas, 100% aparecem como resolvidas, e a base é pequena.",
+          "O que fazer se o saque da Lejour não cair? Confira se a chave Pix é do mesmo CPF de quem publicou a lista, lembrando que o saque sai em até 1 dia útil. Se estiver tudo certo, fale com a Lejour por \"Fale com a gente\" e leve o comprovante."
         ]
       }
     ],
@@ -90875,9 +90851,9 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que é a Lejour e como funciona: site do casamento e lista de presentes virtuais, as taxas de cada plano, como sacar o dinheiro e qual plano escolher para a sua lista.",
-    "metaDescription": "Lejour: o que é, como funciona a lista de presentes, as taxas (3,89% a 2,99%) e os planos Basic, Premium e Pro, em 14/10/2026.",
+    "metaDescription": "Lejour: o que é, como funciona a lista de presentes, as taxas (3,89% a 2,99%), os planos Basic, Premium e Pro e a Black November.",
     "publishedAt": "14 de outubro de 2026",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": false,
@@ -90934,13 +90910,13 @@ export const reviewsData: unknown[] = [
           "**Na Fast Shop:** o menu do painel tem a área Produtos Fast Shop, e o crédito vale em compras na loja. A página de lista de casamento da Fast Shop diz que as compras feitas com o crédito dão cashback mínimo de 4% para as próximas compras. A condição é da Fast Shop e pode mudar; confira na página dela antes de contar com o valor."
         ],
         "postParagraphs": [
-          "A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\". Mais sobre essa parceria está em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+          "A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\". Não há fonte oficial de compra de uma pela outra."
         ]
       },
       {
         "heading": "A Lejour tem taxa? Quanto custa",
         "paragraphs": [
-          "Tem. A Lejour cobra uma taxa sobre cada presente da lista, e o percentual depende do plano. Em 14/10/2026, a tabela de planos do painel mostrava:"
+          "Tem. A Lejour cobra uma taxa sobre cada presente da lista, e o percentual depende do plano. A tabela de planos do painel mostra:"
         ],
         "postParagraphs": [
           "A coluna de R$ 200 é uma conta nossa, só para dar a dimensão: percentual da tabela aplicado ao valor do presente.",
@@ -90976,10 +90952,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Planos Basic, Premium e Pro",
         "paragraphs": [
-          "A Lejour tem três planos. O Basic é gratuito. O Premium e o Pro são pagos uma única vez, valem para sempre (\"vitalício\", na tabela) e podem ser pagos à vista ou em até 12x. Em 14/10/2026, o Premium aparecia por R$ 99,90, riscado de R$ 179,90, e o Pro por R$ 199,90. O preço do Premium é promocional e pode mudar."
+          "A Lejour tem três planos. O Basic é gratuito, com taxa de até 3,89% por presente. O Premium custa R$ 99,90, com taxa de 3,29%, e o Pro custa R$ 199,90, com taxa de 2,99%. Os dois pagos são cobrados uma única vez, valem para sempre (\"vitalício\", na tabela) e podem ser pagos à vista ou em até 12x."
         ],
         "postParagraphs": [
-          "O Premium aparece com o selo \"Mais popular\". Do Premium para o Pro, a diferença está em três pontos: a taxa cai de 3,29% para 2,99%, a tradução passa de inglês e espanhol para vários idiomas, e só o Pro tem inteligência artificial."
+          "O Premium aparece com o selo \"Mais popular\". Do Premium para o Pro, a diferença está em três pontos: a taxa cai de 3,29% para 2,99%, a tradução passa de inglês e espanhol para vários idiomas, e só o Pro tem inteligência artificial.",
+          "Na Black November, de 01 a 30/11, o Premium e o Pro saem pela metade (R$ 49,95 e R$ 99,95). No site, o desconto vem com o BLACK50, que é o cupom da campanha da própria Lejour; no aplicativo, o valor já aparece com o desconto. Na Black Week, de 23 a 29/11, novos casais elegíveis ganham taxa de 1,99% na lista de presentes. Os detalhes e as condições estão em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
         ],
         "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
         "imageAlt": "Tabela de planos do painel da Lejour com Basic, Premium e Pro: preço, taxa da lista de presentes, saques, domínio e recursos de cada plano",
@@ -90987,7 +90964,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 1.3563,
         "comparisonTable": {
-          "caption": "Planos e condições do painel da Lejour. Premium em preço promocional; confirme os valores disponíveis na sua conta.",
+          "caption": "Planos e condições do painel da Lejour, com preços fora da campanha. Confirme os valores disponíveis na sua conta.",
           "headers": [
             "",
             "Basic",
@@ -90998,7 +90975,7 @@ export const reviewsData: unknown[] = [
             [
               "Preço",
               "Gratuito",
-              "R$ 99,90 (de R$ 179,90), uma vez ou em até 12x",
+              "R$ 99,90, uma vez ou em até 12x",
               "R$ 199,90, uma vez ou em até 12x"
             ],
             [
@@ -91065,7 +91042,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Na prática, o presente pago no cartão só pode ser sacado 15 dias corridos depois da compra, e o Pix chega em até 1 dia útil depois do pedido de saque.",
-          "A validação de identidade é feita uma única vez, antes do primeiro saque, e o conselho é validar cedo. A segurança do saldo e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+          "A validação de identidade é feita uma única vez, antes do primeiro saque, e o conselho é validar cedo. O saque só vai para uma chave Pix do CPF de quem publicou a lista."
         ],
         "comparisonTable": {
           "caption": "Prazos do presente até o Pix, segundo a central de ajuda da Lejour",
@@ -91106,11 +91083,11 @@ export const reviewsData: unknown[] = [
           "**Basic:** para começar sem custo de plano e avaliar se o site e a lista atendem ao casal. Considere a taxa dos presentes, o domínio opcional e a quantidade de saques além dos dois gratuitos.",
           "**Premium:** compare se o casal quer domínio e os recursos pagos, se pretende fazer vários saques ou se espera que a redução da taxa compense o preço do plano.",
           "**Pro:** considere se os idiomas e os recursos adicionais fazem diferença para os convidados. Pela taxa, compare o custo extra com a diferença de percentual da tabela.",
-          "Na dúvida, comece no Basic: com o Premium em promoção, a R$ 99,90, e o casal pagando a taxa, o plano só compensa a partir de R$ 16.650 em presentes, como mostra a tabela abaixo. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
+          "Na dúvida, comece no Basic: com o Premium a R$ 99,90 e o casal pagando a taxa, o plano só compensa a partir de R$ 16.650 em presentes, como mostra a tabela abaixo. Durante a Black November, com o Premium pela metade, a conta muda; veja em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
         ],
         "postParagraphs": [
           "O cálculo usa o preço do plano dividido pela diferença entre as taxas. No exemplo Basic versus Premium, a diferença é de 0,60 ponto percentual: R$ 99,90 ÷ 0,006. A tabela mostra também as outras duas comparações, sem contar domínio, saques ou recursos extras.",
-          "Se a taxa fica com os convidados, essa redução beneficia os convidados, não o saldo líquido do casal. Nesse caso, avalie o plano pelos recursos e pelos demais custos que ele evita. Se o casal paga a taxa, refaça a conta com o preço efetivamente disponível no painel; o Premium usado neste exemplo estava em promoção."
+          "Se a taxa fica com os convidados, essa redução beneficia os convidados, não o saldo líquido do casal. Nesse caso, avalie o plano pelos recursos e pelos demais custos que ele evita. Se o casal paga a taxa, refaça a conta com o preço efetivamente disponível no painel."
         ],
         "comparisonTable": {
           "caption": "Ponto de equilíbrio pela redução da taxa, calculado com os preços da tabela de planos e supondo que o casal pague a taxa; não inclui domínio, saques ou outros recursos.",
@@ -91145,15 +91122,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Indicação do Em Casa com Cecília",
         "paragraphs": [
-          "O botão de cadastro é nosso link de indicação. Se você criar a conta por ele, o Em Casa com Cecília pode receber comissão da Lejour. O link não dá desconto nem benefício extra: não há código para digitar, e o Basic é gratuito com ou sem a indicação.",
-          "As condições da parceria estão em [Lejour no Em Casa com Cecília](/cupons/lejour). Para ver a reputação da empresa antes de decidir, leia [Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/lejour-reclame-aqui-nota-reputacao)."
+          "O botão de cadastro é nosso link de indicação, e não um cupom. Se você criar a conta por ele, o Em Casa com Cecília pode receber comissão da Lejour. O link não dá desconto nem benefício extra: não há código para digitar, e o Basic é gratuito com ou sem a indicação.",
+          "As condições da parceria estão em [Lejour no Em Casa com Cecília](/cupons/lejour). Para comparar com outras plataformas antes de decidir, veja [Lejour ou iCasei](/reviews/lejour-ou-icasei)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O que é a Lejour? É uma plataforma brasileira de casamento que faz o site do casal e a lista de presentes, com lista de convidados e confirmação de presença.",
-          "A Lejour é gratuita? O Basic não cobra plano para criar site e lista, mas tem taxa de 3,89% por presente. Premium e Pro são pagos uma vez e têm taxa menor; confirme o valor disponível no painel antes de contratar.",
+          "A Lejour é gratuita? O Basic não cobra plano para criar site e lista, mas tem taxa de até 3,89% por presente. Premium e Pro são pagos uma vez e têm taxa menor; confirme o valor disponível no painel antes de contratar.",
           "Qual a taxa da Lejour? Depende do plano; os percentuais estão na tabela de taxas acima. Num presente de R$ 200 no Basic, cerca de R$ 8 pela nossa conta.",
           "Quem paga a taxa da lista de presentes? O casal escolhe: a taxa pode sair do valor que o casal recebe ou ser paga pelos convidados. A opção fica em Configurações, em \"Sobre site e lista\".",
           "Os presentes da Lejour são entregues em casa? Não. Todos os presentes da lista são virtuais: o convidado dá um valor, que vira crédito em dinheiro para o casal usar por Pix ou em produtos da Fast Shop.",
@@ -91190,7 +91167,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "lista-de-casamento-lejour-como-criar"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 427,
@@ -91229,7 +91207,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de começar: decidam no CPF de quem a lista fica",
         "paragraphs": [
-          "A prévia do site tem 3 passos e começa sem login. Refizemos o início com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
+          "A prévia do site tem 3 passos e começa sem login, pelo cadastro da [Lejour no Em Casa com Cecília](/cupons/lejour). Refizemos o início com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
           "O dinheiro dos presentes só sai por Pix para uma chave do mesmo CPF de quem publicou a lista, e a Lejour pede validação de identidade, com documento com foto e selfie, antes do primeiro saque. Por isso, combinem antes quem vai criar a conta e publicar a lista: ela deve ficar no CPF da pessoa que vai receber o dinheiro.",
           "Os detalhes de prazo e segurança do saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
         ]
@@ -91237,7 +91215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Abra a Lejour pelo link e digite os nomes do casal",
         "paragraphs": [
-          "Abra a Lejour pelo botão deste guia. Na tela \"Queremos conhecer vocês\", preencha \"Seu nome\" e \"Nome do seu amor\" como desejam aparecer no site do casal. Esse é o primeiro dos três passos da prévia."
+          "Abra a Lejour pelo botão deste guia, que é uma indicação sem desconto. Na tela \"Queremos conhecer vocês\", preencha \"Seu nome\" e \"Nome do seu amor\" como desejam aparecer no site do casal. Esse é o primeiro dos três passos da prévia, e os nomes aparecem no site logo em seguida."
         ],
         "image": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
         "imageAlt": "Passo 1 do cadastro na Lejour: tela Queremos conhecer vocês, com os campos de nome do casal e o progresso 1/3",
@@ -91248,7 +91226,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2. Escolha a data do casamento",
         "paragraphs": [
-          "Em \"Quando será o grande dia?\", escolha a data no formato dia/mês/ano. A tela informa que vocês podem alterá-la depois, se precisarem."
+          "Em \"Quando será o grande dia?\", escolha a data no formato dia/mês/ano. A tela informa que vocês podem alterá-la depois, se precisarem, então não é preciso esperar a data fechar para começar.",
+          "A data não serve só de enfeite: o site e a lista ficam ativos até 90 dias depois do casamento, e esse prazo parte dela. Se a data mudar, atualizem no painel."
         ],
         "image": "/images/reviews/lejour/lejour-cadastro-02-data-do-casamento.webp",
         "imageAlt": "Passo 2 do cadastro na Lejour: tela Quando será o grande dia, com o campo da data e o aviso de que ela pode ser alterada",
@@ -91259,7 +91238,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Escolha o tema do site",
         "paragraphs": [
-          "Em \"Qual tema vocês mais gostam?\", escolha a opção e confira a prévia com os nomes do casal. A tela informa que o tema pode ser alterado depois."
+          "Em \"Qual tema vocês mais gostam?\", escolha a opção e confira a prévia com os nomes do casal e as quatro cores do tema. A tela informa que o tema pode ser alterado depois.",
+          "Mais tarde, no painel, o botão Temas de \"Personalizar site\" traz as opções de novo, ao lado de Cores, Fontes e Elementos. Por isso, escolham agora o que mais combina com vocês e ajustem com calma depois de criar a conta."
         ],
         "image": {
           "src": "/images/reviews/lejour/lejour-lista-capa.webp",
@@ -91355,7 +91335,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Plano grátis ou pago?",
         "paragraphs": [
-          "Criar a lista e o site é grátis no plano Basic; os planos Premium e Pro são pagos uma vez, baixam a taxa e liberam mais recursos, e a comparação completa está em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). O botão deste guia é de indicação, sem vantagem para o casal: se vocês criarem a conta por ele, o Em Casa com Cecília pode receber uma comissão, mas o plano grátis é o mesmo, não há desconto e não há cupom. As condições estão em [Lejour no Em Casa com Cecília](/cupons/lejour)."
+          "Criar a lista e o site é grátis no plano Basic; os planos Premium e Pro são pagos uma vez, baixam a taxa e liberam mais recursos, e a comparação completa está em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). O botão deste guia é de indicação, sem vantagem para o casal: se vocês criarem a conta por ele, o Em Casa com Cecília pode receber uma comissão, mas o plano grátis é o mesmo, não há desconto e não há cupom. As condições estão em [Lejour no Em Casa com Cecília](/cupons/lejour). Para comparar com outras plataformas, veja [Lejour, iCasei ou Casar.com](/reviews/lejour-ou-icasei); em novembro, os preços dos planos mudam, como conta o guia da [Black Friday Lejour](/reviews/black-friday-lejour)."
         ]
       },
       {
@@ -91389,7 +91369,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "lejour-como-funciona"
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "bodyDatesReason": "reclame-aqui",
@@ -95390,7 +95371,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Lejour 2026: Premium a R$ 49,95 e Pro a R$ 99,95 em novembro, com o código BLACK50. Veja a taxa de 1,99% e quando o Premium compensa.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/lejour/black-friday-lejour-capa-v2.webp",
@@ -95443,11 +95424,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Black November da Lejour mostra",
         "paragraphs": [
-          "A página da Black November da Lejour reúne três ofertas. A primeira é a dos planos pagos, com 50% OFF e pagamento único: o Premium vai de R$ 99,90 para R$ 49,95, e o Pro, de R$ 199,90 para R$ 99,95. A segunda é a dos adicionais elegíveis, como o domínio, também pela metade. A terceira é a taxa da lista de presentes.",
-          "O desconto depende do canal. No site, é preciso aplicar o código **BLACK50** nos planos; ele é da própria Lejour e vale para qualquer casal. No app, o desconto aparece direto no valor, sem código. O preço que vale é o que a Lejour mostra na hora de assinar.",
-          "A taxa de 1,99% tem janela própria, a Black Week, de 23 a 29 de novembro. É para novos casais elegíveis e, segundo a página, vale para toda a vida da lista; a taxa padrão do Basic segue 3,89%. Quem pode participar e se a taxa soma com o plano pago estão no regulamento da Lejour, que a página só cita; a página também diz que o valor será revelado no primeiro dia da Black Week. Confirme o 1,99% na Lejour nesse período e leia o regulamento antes de contar com ele.",
+          "A página da Black November da Lejour, de 1 a 30 de novembro, reúne três ofertas. A primeira é a dos planos pagos, com 50% OFF e pagamento único: o Premium vai de R$ 99,90 para R$ 49,95, e o Pro, de R$ 199,90 para R$ 99,95. A segunda é a dos adicionais elegíveis, como o domínio, também pela metade. A terceira é a taxa da lista de presentes.",
+          "O desconto depende do canal. No site, é preciso aplicar o cupom **BLACK50**, o cupom da campanha da própria Lejour, nos planos e nos produtos adicionais elegíveis; ele vale para qualquer casal. No app, o desconto já aparece no valor, sem cupom. O preço que vale é o que a Lejour mostra na hora de assinar.",
+          "A taxa de 1,99% tem janela própria, a Black Week, de 23 a 29 de novembro, e a página já mostra o valor, no lugar dos 3,89% do Basic. É para novos casais elegíveis e, segundo a página, a taxa é vitalícia: vale para toda a vida da lista. Quem pode participar e se a taxa soma com o plano pago estão no regulamento da Lejour, então leia-o antes de contar com a soma das ofertas.",
+          "Nosso link é só uma indicação, sem desconto. Quem quer a indicação e o BLACK50 faz o cadastro pelo link e aplica o BLACK50 no site ao assinar; se as duas condições valem juntas, é o regulamento da Lejour que decide, e não prometemos que somem.",
           "A Black Friday de 2026 cai no fim do mês, mas os planos ficam em oferta durante todo novembro, então não há razão para esperar o dia."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/lejour/black-friday-lejour-planos-black50.webp",
+          "alt": "Página da Black November da Lejour com os cards do Premium a R$ 49,95 e do Pro a R$ 99,95 e o card do cupom BLACK50, com a diferença entre site e app",
+          "caption": "Página da Black November da Lejour.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6844
+        }
       },
       {
         "heading": "Como foi a Black Friday da Lejour em 2025",
@@ -95468,7 +95457,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Planos e taxas da Lejour fora da campanha",
         "paragraphs": [
-          "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour em outubro, antes da Black November, e é a régua para saber quanto o 50% tira: os R$ 99,90 do Premium e os R$ 199,90 do Pro são a base da oferta de novembro."
+          "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a da Lejour fora da campanha e é a régua para saber quanto o 50% tira: os R$ 99,90 do Premium e os R$ 199,90 do Pro são a base da oferta de novembro."
         ],
         "comparisonTable": {
           "headers": [
@@ -95486,7 +95475,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Premium",
-              "R$ 99,90 (de R$ 179,90)",
+              "R$ 99,90",
               "3,29%",
               "R$ 6,58"
             ],
@@ -95497,19 +95486,14 @@ export const reviewsData: unknown[] = [
               "R$ 5,98"
             ]
           ],
-          "caption": "Planos da Lejour em 13 de outubro de 2026: preço do plano, taxa por presente e a taxa num presente de R$ 200, que é conta nossa."
+          "caption": "Planos da Lejour fora da campanha: preço do plano, taxa por presente e a taxa num presente de R$ 200, que é conta nossa."
         },
         "postParagraphs": [
           "A coluna de R$ 200 é uma conta nossa: o percentual da tabela aplicado ao valor do presente.",
           "O plano pago muda mais que a taxa. No Basic, os saques são gratuitos só até o segundo, e depois custam R$ 5 cada, e o domínio personalizado .site custa R$ 69,90. No Premium e no Pro, os saques são ilimitados e o domínio está incluso.",
           "Quem paga a taxa é uma escolha do casal: ele recebe o presente com a taxa descontada, ou os convidados pagam a taxa por cima do valor do presente. O convidado que parcela no cartão paga, além disso, juros de 3,49% ao mês, que não fazem parte da taxa.",
           "O funcionamento completo da lista, os saques e o crédito da Fast Shop estão em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). Para criar a conta, use o cadastro da [página da Lejour no Em Casa com Cecília](/cupons/lejour): é uma indicação, sem desconto, e pode render comissão ao site, sem custo extra para o casal."
-        ],
-        "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
-        "imageAlt": "Tela de planos da Lejour com Basic, Premium e Pro, com taxa da lista de presentes, saques, domínio e preços de cada plano, com a taxa e os preços do Premium e do Pro destacados em amarelo",
-        "imageCaption": "Tela de planos do painel da Lejour, com os preços e as taxas da tabela abaixo. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.3563
+        ]
       },
       {
         "heading": "Vale assinar o Premium na Black November?",
@@ -95587,7 +95571,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O crédito dos presentes não precisa virar dinheiro. O casal pode sacar por Pix, usar em produtos da Fast Shop ou dividir entre os dois, e o painel da Lejour tem uma área só para os produtos da Fast Shop. A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\".",
           "A página de lista de casamento da Fast Shop diz que as compras feitas com o crédito da lista dão cashback mínimo de 4% para as próximas compras. Pela nossa conta, num crédito de R$ 5.000 usado na loja, 4% são R$ 200 de cashback, e o cashback é para as próximas compras na Fast Shop, não para saque.",
-          "A condição é da Fast Shop, não da Lejour; qualquer oferta maior só vale depois de a loja publicar. Compare o preço do produto na Fast Shop com o de outras lojas antes de usar o crédito, porque o cashback só compensa se o produto não custar mais caro. A segurança dessa parceria e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+          "A condição é da Fast Shop, não da Lejour; qualquer oferta maior só vale depois de a loja publicar. Compare o preço do produto na Fast Shop com o de outras lojas antes de usar o crédito, porque o cashback só compensa se o produto não custar mais caro."
         ],
         "image": {
           "src": "/images/reviews/lejour/black-friday-lejour-home.webp",
@@ -97986,7 +97970,7 @@ export const reviewsData: unknown[] = [
     "description": "Lejour, iCasei ou Casar.com: o plano grátis das três cobra 3,89% por presente. Veja taxas, prazos, validade do site e quanto sobra numa lista de R$ 20.000.",
     "metaDescription": "Lejour, iCasei ou Casar.com: grátis, as três cobram 3,89%. Veja taxas, prazos e quanto sobra numa lista de R$ 20 mil (dados de 16/10/2026).",
     "publishedAt": "16 de outubro de 2026",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "publishedAtISO": "2026-10-16",
     "draft": false,
     "isNew": false,
@@ -98015,7 +97999,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lejour, iCasei e Casar.com lado a lado",
         "comparisonTable": {
-          "caption": "Lejour, iCasei e Casar.com lado a lado, 16/10/2026",
+          "caption": "Lejour, iCasei e Casar.com lado a lado",
           "headers": [
             "",
             "Lejour",
@@ -98025,7 +98009,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Site",
-              "Basic grátis; Premium R$ 99,90 (de R$ 179,90) e Pro R$ 199,90, pagamento único, à vista ou em até 12x",
+              "Basic grátis; Premium R$ 99,90 e Pro R$ 199,90, pagamento único, à vista ou em até 12x",
               "Basic grátis por 6 meses; Classic de R$ 79,90 a R$ 149,90 e Black de R$ 149,90 a R$ 209,90, de 3 a 12 meses, em até 6x",
               "Grátis, sem plano"
             ],
@@ -98080,7 +98064,11 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Dados dos sites oficiais. O Premium da Lejour estava em promoção, e os preços do iCasei variavam conforme o período contratado."
+          "Dados dos sites oficiais, sem campanha. Em novembro, a Lejour tem preços de campanha nos planos, e os preços do iCasei variam conforme o período contratado."
+        ],
+        "paragraphs": [
+          "As três plataformas começam do mesmo ponto: um plano grátis com taxa de 3,89% por presente. A Lejour baixa a taxa com um plano pago uma vez só (Premium a 3,29% e Pro a 2,99%); o iCasei baixa a taxa por plano e por valor arrecadado, e vende planos com prazo; o Casar.com não tem plano pago, e a taxa é fixa.",
+          "Fora a taxa, o que muda a escolha é o que acontece depois da festa e no caminho do dinheiro: por quanto tempo o site fica no ar para os convidados, quantos saques são grátis, quanto o cartão demora para liberar e que tipo de confirmação de presença vem em cada plano. A tabela reúne esses pontos, e as seções seguintes abrem cada um."
         ]
       },
       {
@@ -98090,11 +98078,11 @@ export const reviewsData: unknown[] = [
           "O **Casar.com** cobra 3,89% de cada presente, sempre. Não há plano pago para baixar a taxa.",
           "Na **Lejour**, a taxa depende do plano. O Basic é grátis e cobra 3,89%. O Premium custa R$ 99,90 e cobra 3,29%. O Pro custa R$ 199,90 e cobra 2,99%. Os planos pagos são de pagamento único, sem mensalidade."
         ],
-        "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
-        "imageAlt": "Tabela de planos do painel da Lejour com Basic, Premium e Pro: preço, taxa da lista de presentes, saques, domínio e recursos de cada plano",
-        "imageCaption": "Tabela de planos do painel da Lejour. O marca-texto amarelo é nosso.",
+        "image": "/images/reviews/lejour/lejour-faq-taxas-por-plano.webp",
+        "imageAlt": "Tabela oficial da central de ajuda da Lejour com a taxa por plano: Basic até 3,89%, Premium 3,29% e Pro 2,99%",
+        "imageCaption": "Central de ajuda da Lejour.",
         "imageFit": "contain",
-        "imageAspectRatio": 1.3563
+        "imageAspectRatio": 2.0678
       },
       {
         "paragraphs": [
@@ -98416,7 +98404,7 @@ export const reviewsData: unknown[] = [
         "heading": "A indicação do Em Casa com Cecília",
         "paragraphs": [
           "A Lejour é parceira do site por indicação. O botão da Lejour nesta página leva ao cadastro com a nossa indicação. O casal não ganha desconto por ele: o plano grátis, os preços dos planos pagos e as taxas são os mesmos para qualquer casal. iCasei e Casar.com não são parceiros do site.",
-          "O passo a passo do cadastro, do site e da lista está em [Como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar). Os dados da parceria ficam na [página da Lejour no Em Casa com Cecília](/cupons/lejour). Para saber quem está por trás da plataforma e como o saldo é guardado, leia [Lejour é confiável?](/reviews/lejour-e-confiavel)."
+          "O passo a passo do cadastro, do site e da lista está em [Como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar). Os dados da parceria ficam na [página da Lejour no Em Casa com Cecília](/cupons/lejour)."
         ]
       },
       {
@@ -98424,7 +98412,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Lejour ou iCasei: qual é melhor? Depende da lista: os grátis das duas cobram 3,89%. O Basic do iCasei dura 6 meses, e a Lejour cobra o plano pago uma vez só.",
           "Lejour ou Casar.com? O Casar.com tem taxa fixa de 3,89% e não tem plano pago. A Lejour baixa a taxa para 3,29% no Premium e 2,99% no Pro.",
-          "Qual site de lista de casamento tem a menor taxa? Entre os três, o Pro da Lejour, com 2,99%, que custa R$ 199,90 no preço de outubro; em novembro, a Lejour tem preços de campanha nos planos. A menor do iCasei é 3,69%, no Black, acima de R$ 8 mil arrecadados.",
+          "Qual site de lista de casamento tem a menor taxa? Entre os três, o Pro da Lejour, com 2,99%, que custa R$ 199,90 fora das campanhas da Lejour. A menor do iCasei é 3,69%, no Black, acima de R$ 8 mil arrecadados.",
           "O iCasei cobra taxa de saque? Não. Segundo a central de ajuda, os resgates são grátis e ilimitados.",
           "A Lejour cobra taxa de saque? No Basic, dois saques são grátis, e os seguintes custam R$ 5 cada. No Premium e no Pro, os saques são ilimitados.",
           "O iCasei é grátis? O Basic é grátis na contratação de 6 meses. Renovar, ou contratar o Classic ou o Black, é pago.",

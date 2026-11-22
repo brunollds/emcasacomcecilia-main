@@ -35,7 +35,7 @@
     {
       "heading": "Antes de começar: decidam no CPF de quem a lista fica",
       "paragraphs": [
-        "A prévia do site tem 3 passos e começa sem login. Refizemos o início com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
+        "A prévia do site tem 3 passos e começa sem login, pelo cadastro da [Lejour no Em Casa com Cecília](/cupons/lejour). Refizemos o início com dados de teste, até o painel; da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
         "O dinheiro dos presentes só sai por Pix para uma chave do mesmo CPF de quem publicou a lista, e a Lejour pede validação de identidade, com documento com foto e selfie, antes do primeiro saque. Por isso, combinem antes quem vai criar a conta e publicar a lista: ela deve ficar no CPF da pessoa que vai receber o dinheiro.",
         "Os detalhes de prazo e segurança do saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
       ]
@@ -43,7 +43,7 @@
     {
       "heading": "1. Abra a Lejour pelo link e digite os nomes do casal",
       "paragraphs": [
-        "Abra a Lejour pelo botão deste guia. Na tela \"Queremos conhecer vocês\", preencha \"Seu nome\" e \"Nome do seu amor\" como desejam aparecer no site do casal. Esse é o primeiro dos três passos da prévia."
+        "Abra a Lejour pelo botão deste guia, que é uma indicação sem desconto. Na tela \"Queremos conhecer vocês\", preencha \"Seu nome\" e \"Nome do seu amor\" como desejam aparecer no site do casal. Esse é o primeiro dos três passos da prévia, e os nomes aparecem no site logo em seguida."
       ],
       "image": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
       "imageAlt": "Passo 1 do cadastro na Lejour: tela Queremos conhecer vocês, com os campos de nome do casal e o progresso 1/3",
@@ -54,7 +54,8 @@
     {
       "heading": "2. Escolha a data do casamento",
       "paragraphs": [
-        "Em \"Quando será o grande dia?\", escolha a data no formato dia/mês/ano. A tela informa que vocês podem alterá-la depois, se precisarem."
+        "Em \"Quando será o grande dia?\", escolha a data no formato dia/mês/ano. A tela informa que vocês podem alterá-la depois, se precisarem, então não é preciso esperar a data fechar para começar.",
+        "A data não serve só de enfeite: o site e a lista ficam ativos até 90 dias depois do casamento, e esse prazo parte dela. Se a data mudar, atualizem no painel."
       ],
       "image": "/images/reviews/lejour/lejour-cadastro-02-data-do-casamento.webp",
       "imageAlt": "Passo 2 do cadastro na Lejour: tela Quando será o grande dia, com o campo da data e o aviso de que ela pode ser alterada",
@@ -65,7 +66,8 @@
     {
       "heading": "3. Escolha o tema do site",
       "paragraphs": [
-        "Em \"Qual tema vocês mais gostam?\", escolha a opção e confira a prévia com os nomes do casal. A tela informa que o tema pode ser alterado depois."
+        "Em \"Qual tema vocês mais gostam?\", escolha a opção e confira a prévia com os nomes do casal e as quatro cores do tema. A tela informa que o tema pode ser alterado depois.",
+        "Mais tarde, no painel, o botão Temas de \"Personalizar site\" traz as opções de novo, ao lado de Cores, Fontes e Elementos. Por isso, escolham agora o que mais combina com vocês e ajustem com calma depois de criar a conta."
       ],
       "image": {
         "src": "/images/reviews/lejour/lejour-lista-capa.webp",
@@ -161,7 +163,7 @@
     {
       "heading": "Plano grátis ou pago?",
       "paragraphs": [
-        "Criar a lista e o site é grátis no plano Basic; os planos Premium e Pro são pagos uma vez, baixam a taxa e liberam mais recursos, e a comparação completa está em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). O botão deste guia é de indicação, sem vantagem para o casal: se vocês criarem a conta por ele, o Em Casa com Cecília pode receber uma comissão, mas o plano grátis é o mesmo, não há desconto e não há cupom. As condições estão em [Lejour no Em Casa com Cecília](/cupons/lejour)."
+        "Criar a lista e o site é grátis no plano Basic; os planos Premium e Pro são pagos uma vez, baixam a taxa e liberam mais recursos, e a comparação completa está em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). O botão deste guia é de indicação, sem vantagem para o casal: se vocês criarem a conta por ele, o Em Casa com Cecília pode receber uma comissão, mas o plano grátis é o mesmo, não há desconto e não há cupom. As condições estão em [Lejour no Em Casa com Cecília](/cupons/lejour). Para comparar com outras plataformas, veja [Lejour, iCasei ou Casar.com](/reviews/lejour-ou-icasei); em novembro, os preços dos planos mudam, como conta o guia da [Black Friday Lejour](/reviews/black-friday-lejour)."
       ]
     },
     {
@@ -195,5 +197,6 @@
     {
       "slug": "lejour-como-funciona"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-22"
 }

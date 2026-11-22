@@ -2385,15 +2385,15 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'site do casamento e lista de presentes, com plano gratuito',
     longDescription:
       'Indicação da Cecília para casais que vão montar o site do casamento e a lista de presentes na Lejour. O cadastro é pelo link, e o plano Basic é gratuito.',
-    metaTitle: 'Lejour: lista de casamento grátis e planos — indicação da Cecília',
+    metaTitle: 'Lejour: lista de casamento grátis e planos (indicação)',
     metaDescription:
-      'Lista de casamento e site dos noivos na Lejour: o plano Basic é gratuito, e Premium e Pro são pagos uma vez. Veja as taxas e crie a lista pelo link da Cecília.',
+      'Indicação Lejour: o plano Basic é grátis, e o Premium e o Pro são pagos uma vez. Veja as taxas de 3,89% a 2,99% e crie a lista pelo link da Cecília.',
     eligibleCategories: 'Cadastro de casais no site da Lejour: site do casamento e lista de presentes',
     validity: 'Indicação ativa enquanto a parceria estiver vigente',
     reusable: 'Não se aplica: é um cadastro, não um cupom',
     shipping: 'Não se aplica',
     combinable: 'Não há desconto para somar: o cadastro pelo link é uma indicação, sem benefício extra',
-    lastVerified: '2026-10-13',
+    lastVerified: '2026-11-21',
     linkInstructions: [
       'Abra o cadastro da Lejour pelo botão indicado.',
       'Crie a conta do casal pelo próprio link: a indicação só conta para cadastros feitos por ele.',
@@ -2404,6 +2404,44 @@ const STORE_COUPONS: Coupon[] = [
       'A indicação não dá desconto nem benefício extra: o cadastro e os planos são os mesmos do site da Lejour.',
     aboutBrand:
       'A Lejour é uma plataforma brasileira de casamento: o casal monta o site do evento e a lista de presentes, e os convidados presenteiam pelo próprio site. O plano Basic é gratuito; o Premium e o Pro são pagos uma única vez e baixam a taxa da lista de presentes, liberam saques ilimitados e incluem domínio personalizado. O cadastro pelo link é uma indicação do Em Casa com Cecília: não dá desconto, e as condições são as mesmas do site da Lejour.',
+    relatedContent: [
+      {
+        title: 'O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos',
+        url: '/reviews/lejour-como-funciona',
+        type: 'review',
+        publishedAt: '2026-10-14',
+      },
+      {
+        title: 'Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes',
+        url: '/reviews/lista-de-casamento-lejour-como-criar',
+        type: 'review',
+        publishedAt: '2026-10-14',
+      },
+      {
+        title: 'Lejour, iCasei ou Casar.com: taxas, planos e quanto o casal recebe numa lista de R$ 20 mil',
+        url: '/reviews/lejour-ou-icasei',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+      {
+        title: 'Black Friday Lejour 2026: Black November com planos e adicionais com 50% OFF, e vale assinar o Premium?',
+        url: '/reviews/black-friday-lejour',
+        type: 'review',
+        publishedAt: '2026-10-15',
+      },
+      {
+        title: 'Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques',
+        url: '/reviews/lejour-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-10-14',
+      },
+      {
+        title: 'Lejour no Reclame Aqui: nota 9,8, reputação Ótima e reclamações',
+        url: '/reviews/lejour-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-14',
+      },
+    ],
     faqs: [
       {
         question: 'Tem cupom de desconto da Lejour?',
@@ -2413,12 +2451,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A lista de casamento da Lejour é grátis?',
         answer:
-          'Sim, no plano Basic. Em 13/10/2026, ele não tinha mensalidade, cobrava 3,89% de taxa sobre os presentes e dava até 2 saques gratuitos.',
+          'Sim, no plano Basic. Em 21/11/2026, ele não tinha mensalidade, cobrava até 3,89% de taxa sobre os presentes e dava até 2 saques gratuitos.',
       },
       {
         question: 'Quanto custam os planos Premium e Pro da Lejour?',
         answer:
-          'Em 13/10/2026, o Premium custava R$ 99,90 (de R$ 179,90) e o Pro, R$ 199,90, ambos vitalícios, pagos uma única vez ou em até 12x. A taxa da lista cai para 3,29% no Premium e 2,99% no Pro, os saques ficam ilimitados e o domínio personalizado (.site) vem incluso; no Basic, ele custa R$ 69,90.',
+          'Em 21/11/2026, fora das campanhas, o Premium custava R$ 99,90 e o Pro, R$ 199,90, ambos vitalícios, pagos uma única vez ou em até 12x. A taxa da lista cai para 3,29% no Premium e 2,99% no Pro, os saques ficam ilimitados e o domínio personalizado (.site) vem incluso; no Basic, ele custa R$ 69,90.',
       },
       {
         question: 'Como faço o cadastro pela indicação da Cecília?',
