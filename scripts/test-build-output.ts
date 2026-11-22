@@ -1671,6 +1671,28 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     for (const rule of block.rules) {
       if (!texts.includes(rule.label) || !texts.includes(rule.value)) problems.push(`bloco da loja sem a regra "${rule.label}"`);
     }
+    const productsDiv = single('data-article="produtos-loja"', 'listas de produtos da loja');
+    present(productsDiv, Boolean(block.productLinks?.length), 'os links por produto da loja');
+    if (productsDiv && block.productLinks?.length) {
+      const storeCopy = COUPON_STORE_COPY[expected.locale];
+      const productTexts = shownTextsOf(productsDiv.html);
+      if (!productTexts.includes(storeCopy.productLinks.title(block.brand))) {
+        problems.push(`links por produto sem o título "${storeCopy.productLinks.title(block.brand)}"`);
+      }
+      const productAnchors = [...productsDiv.html.matchAll(/<a\b[^>]*>/g)].map(([tag]) => tag);
+      if (productAnchors.length !== block.productLinks.length) {
+        problems.push(`${productAnchors.length} links por produto em vez de ${block.productLinks.length}`);
+      }
+      for (const item of block.productLinks) {
+        if (!productTexts.includes(item.name) || !productTexts.includes(item.description)) {
+          problems.push(`links por produto sem "${item.name}" ou a descrição`);
+        }
+        if (!hrefs.includes(item.url)) problems.push(`links por produto sem ${item.url}`);
+      }
+      for (const tag of productAnchors) {
+        if (!/\srel="[^"]*\bsponsored\b/.test(tag)) problems.push(`link por produto sem rel="sponsored": ${tag}`);
+      }
+    }
     if (block.couponPageHref ? !hrefs.includes(block.couponPageHref) || !texts.includes(copy.allRules) : texts.includes(copy.allRules)) {
       problems.push('"Ver todas as regras" fora da regra');
     }
@@ -4986,6 +5008,32 @@ assert.ok(ptFaqHead.includes(`rel="canonical" href="${SITE_URL}/faqs"`), '/faqs:
 assert.equal([...ptFaqHead.matchAll(/hreflang="([^"]+)"/gi)].length, LOCALE_KEYS.length + 1, '/faqs: hreflang dos 10 idiomas mais x-default');
 assert.equal(hreflangOf(ptFaqHead, 'pt-BR'), `${SITE_URL}/faqs`, '/faqs: hreflang do português');
 assert.equal(hreflangOf(ptFaqHead, 'x-default'), `${SITE_URL}/en/faq`, '/faqs: x-default');
+
+// robots.txt: libera explicitamente os buscadores e os crawlers de IA, bloqueando /api/ e apontando para o sitemap.xml.
+{
+  const robotsBody = read(path.join(APP_DIR, 'robots.txt.body'));
+  for (const bot of ['*', 'Googlebot', 'Bingbot', 'OAI-SearchBot', 'ChatGPT-User', 'GPTBot', 'PerplexityBot', 'ClaudeBot', 'Google-Extended']) {
+    assert.ok(robotsBody.includes(`User-Agent: ${bot}`), `robots.txt sem User-Agent: ${bot}`);
+  }
+  assert.ok(robotsBody.includes('Disallow: /api/'), 'robots.txt sem Disallow: /api/');
+  assert.ok(robotsBody.includes(`Sitemap: ${SITE_URL}/sitemap.xml`), 'robots.txt sem Sitemap');
+}
+
+// sitemap.xml: lastmod real nas páginas agregadoras com fonte de data e ausente nas páginas sem data verificada.
+{
+  const lastmodOf = (url: string) =>
+    sitemapBody
+      .split('<url>')
+      .find((chunk) => chunk.includes(`<loc>${url}</loc>`))
+      ?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1];
+
+  for (const withDate of [SITE_URL, `${SITE_URL}/reviews`, `${SITE_URL}/videos`, `${SITE_URL}/cupons`, `${SITE_URL}/en`, `${SITE_URL}/en/reviews`, `${SITE_URL}/ar`, `${SITE_URL}/ar/reviews`]) {
+    assert.match(lastmodOf(withDate) ?? '', /^\d{4}-\d{2}-\d{2}/, `sitemap.xml: ${withDate} sem lastmod real`);
+  }
+  for (const withoutDate of [`${SITE_URL}/receitas`, `${SITE_URL}/sobre`, `${SITE_URL}/contato`, `${SITE_URL}/faqs`, `${SITE_URL}/privacidade`, `${SITE_URL}/en/faq`]) {
+    assert.equal(lastmodOf(withoutDate), undefined, `sitemap.xml: ${withoutDate} não deve inventar lastmod`);
+  }
+}
 
 console.log(
   `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos (${multiStoreArticles} de várias lojas, com o "Ver códigos" e as linhas na gaveta, e ${dockStoreLinks} sem código, com o link da loja no dock, e ${dockCopyAndGoLinks} com o "copiar e ir" nele), o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o aviso de temporada em ${codeNoticeCutouts} recortes, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`

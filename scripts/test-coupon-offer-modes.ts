@@ -13,6 +13,7 @@ import {
 } from '../src/lib/couponsData';
 import mediaMap from '../src/lib/generated/media-delivery-map.json';
 import { getBrasiliaDate, getCouponMetaTitle, getOfferMonth } from '../src/lib/offerMonth';
+import { parseActiveCouponSlugsFromSource } from './submit-indexnow.mjs';
 
 const shein = COUPONS.find((coupon) => coupon.slug === 'shein');
 assert.ok(shein && shein.offerMode === 'affiliate-link', 'SHEIN deve existir como affiliate-link');
@@ -534,5 +535,12 @@ for (const coupon of COUPONS) {
     assert.ok(faq.answer.includes('"Como testamos o cupom"'), `${coupon.slug}: "${faq.question}" deve apontar para "Como testamos o cupom"`);
   }
 }
+
+// O leitor de lojas ativas do IndexNow (--since) precisa bater exatamente com getAllActiveCouponSlugs() do módulo real.
+assert.deepEqual(
+  [...parseActiveCouponSlugsFromSource(readFileSync('src/lib/couponsData.ts', 'utf8'))].sort(),
+  [...getAllActiveCouponSlugs()].sort(),
+  'submit-indexnow.mjs: parseActiveCouponSlugsFromSource divergiu de getAllActiveCouponSlugs()'
+);
 
 console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Prohall, La Ganexa, BAW Clothing, L'Amazonie, Rituária, Adaptogen, Barbour's Beauty, BOLD Snacks, Pink Cheeks, Gocase, Cola e Decora, Denavita, Hostinger, Starlink, BioBio e prateleiras do hub conferidos.");
