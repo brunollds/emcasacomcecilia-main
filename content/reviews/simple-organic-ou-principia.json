@@ -18,6 +18,7 @@
   "metaDescription": "Com o S-EMCASACOMCECILIA, 5% OFF na Simple Organic. Niacinamida, retinol, vitamina C e gel lado a lado com a Principia: fórmula, perfume e preço por mL.",
   "publishedAt": "10 de novembro de 2026",
   "publishedAtISO": "2026-11-10",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/simple-organic/simple-organic-ou-principia-capa-v2.webp",
@@ -147,14 +148,6 @@
       "postParagraphs": [
         "Conta nossa, pelos preços das duas lojas: o frasco da Simple Organic sai R$ 19,67 mais barato. A diferença vem da promoção, e o capítulo do preço de referência mostra o que acontece sem ela.",
         "O zinco PCA no mesmo frasco só a Principia traz. Fique com a Simple Organic se o preço do frasco decide e o perfume não pesa; fique com a Principia se você evita fragrância no rosto ou quer o zinco junto."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
-          "alt": "Arte da Simple Organic com o frasco antigo da Solução Niacinamida e o novo Ultra Sérum Niacinamida, sob os dizeres Nova embalagem, mesma fórmula",
-          "caption": "O Ultra Sérum Niacinamida substituiu a Solução Niacinamida com a mesma fórmula, segundo a marca. Imagem: Simple Organic.",
-          "objectFit": "square"
-        }
       ]
     },
     {
@@ -187,15 +180,7 @@
       },
       "postParagraphs": [
         "A Simple Organic orienta quem tem pele sensível a usar com cautela, de preferência com orientação profissional, e a começar com menos aplicações por semana. A mesma cautela vale para o retinol da Principia.",
-        "O erro comum é comparar com a Solução Retinol-Like, da mesma Simple Organic: ela não tem retinol, e o ativo é o bakuchiol, a 1%. Quem procura retinol compara o Ultra Sérum Retinol."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
-          "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
-          "caption": "Ultra Sérum Retinol: a dose de retinol está impressa no frasco. Foto: Simple Organic.",
-          "objectFit": "square"
-        }
+        "O erro comum é comparar com a [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like), da mesma Simple Organic: ela não tem retinol, e o ativo é o bakuchiol, a 1%. Quem procura retinol compara o Ultra Sérum Retinol. A comparação entre os dois está em [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol)."
       ]
     },
     {
@@ -216,7 +201,7 @@
             "[Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c), Simple Organic",
             "Ascorbil fosfato de sódio 10% e ácido ferúlico 0,5%; perfume na lista",
             "R$ 39,33 com o código",
-            "Volume não informado"
+            "Volume não informado pela loja"
           ],
           [
             "VC-10, Principia, 30 mL",
@@ -227,7 +212,7 @@
         ]
       },
       "postParagraphs": [
-        "A Simple Organic não informa o volume desse frasco. Ele custa menos, mas não dá para dizer que rende mais. A Solução Vitamina C, da mesma marca, usa outro derivado em outra concentração e fica fora deste par.",
+        "A Simple Organic não informa o volume desse frasco. Ele custa menos, mas não dá para dizer que rende mais. A [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c), da mesma marca, tem 30 mL (volume informado na página do kit), usa outro derivado em outra concentração e fica fora deste par. Para decidir entre vitamina C e niacinamida na marca, veja [Vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida).",
         "Fique com a Principia se você evita perfume ou quer saber quanto vem no frasco; fique com a Simple Organic se o preço do frasco decide."
       ],
       "images": [
@@ -235,7 +220,8 @@
           "src": "/images/reviews/simple-organic/simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
           "alt": "Frasco do Ultra Sérum Vitamina C da Simple Organic, com o rótulo 10% Vitamina C e 0,5% Ácido Ferúlico, em foto oficial da marca",
           "caption": "O Ultra Sérum Vitamina C traz a concentração no rótulo. Foto: Simple Organic.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://simpleorganic.com.br/products/ultra-serum-vitamina-c"
         }
       ]
     },
@@ -285,10 +271,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
-          "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
-          "caption": "Gel de Limpeza Suave: sem perfume na lista de ingredientes. Foto: Simple Organic.",
-          "objectFit": "square"
+          "src": "/images/reviews/simple-organic/simple-organic-ou-principia-gel-de-limpeza-profunda.webp",
+          "alt": "Frasco rosa com válvula do Gel de Limpeza Profunda da Simple Organic, em foto oficial do produto",
+          "caption": "Gel de Limpeza Profunda, o gel da linha para pele oleosa. Imagem: Simple Organic.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://simpleorganic.com.br/products/gel-de-limpeza-profunda"
         }
       ]
     },
@@ -345,12 +333,12 @@
     {
       "heading": "Qual escolher",
       "paragraphs": [
-        "Sem vencedora em tudo: a escolha sai do que você evita e de quando compra."
+        "Sem vencedora em tudo: a escolha sai do que você evita e de quando compra. Se a dúvida é trocar de marca, [Alternativas à Creamy](/reviews/alternativas-a-creamy) compara a Simple Organic com outra linha de ativos. Para montar a rotina depois da compra, veja [Rotina Simple Organic](/reviews/simple-organic-rotina-de-uso), e, para pele com acne, [Simple Organic para acne](/reviews/simple-organic-para-acne)."
       ],
       "bullets": [
         "Evita perfume no sérum: a Principia, na niacinamida, no retinol e na vitamina C.",
         "Evita perfume no gel: o Gel de Limpeza Suave da Simple Organic.",
-        "Quer o frasco mais barato durante a Clean Friday: a Simple Organic com o código, nos quatro produtos. No custo por mL ou por grama, a conta só fecha na niacinamida, no retinol e nos géis, porque a vitamina C dela não informa o volume.",
+        "Quer o frasco mais barato durante a Clean Friday: a Simple Organic com o código, nos quatro produtos. No custo por mL ou por grama, a conta só fecha na niacinamida, no retinol e nos géis, porque a loja não informa o volume do Ultra Sérum Vitamina C.",
         "Quer zinco junto com a niacinamida: a NC-10 da Principia.",
         "Compra gel em quantidade fora da promoção: o de 500 g da Principia, o mais barato por grama entre os tamanhos dela."
       ],
@@ -365,5 +353,6 @@
         "O Retinol-Like da Simple Organic é retinol? Não: o ativo dele é o bakuchiol, a 1%. O sérum com retinol da marca é o Ultra Sérum Retinol."
       ]
     }
-  ]
+  ],
+  "bodyDatesReason": "campanha"
 }

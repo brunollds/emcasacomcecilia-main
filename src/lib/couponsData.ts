@@ -3476,7 +3476,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'simple-organic',
-    cartPrint: { src: '/images/reviews/simple-organic/cupom-simple-organic-checkout-com-cupom.webp', alt: 'Resumo do pedido no checkout da Simple Organic com o código S-EMCASACOMCECILIA aplicado e a linha Desconto no pedido', aspectRatio: 1.039 },
+    cartPrint: { article: 'cupom-simple-organic-como-usar', src: '/images/reviews/simple-organic/cupom-simple-organic-checkout-com-cupom.webp', alt: 'Resumo do pedido no checkout da Simple Organic com o código S-EMCASACOMCECILIA aplicado e a linha Desconto no pedido', aspectRatio: 1.039 },
     brand: 'Simple Organic',
     officialUrl: 'https://simpleorganic.com.br/',
     // Link da parceria como veio (03/11/2026): abre o site com o cupom aplicado. Com redirect para um produto o
@@ -3496,7 +3496,7 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: 'todo o site Simple Organic, inclusive nos produtos em promoção e nos kits',
     longDescription:
       'O cupom Simple Organic S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes, limpeza facial, maquiagem e body splash no site oficial, para quem compra pela primeira vez e para quem já é cliente, e entra também nos produtos que já estão em promoção e nos kits. Testado num carrinho com kit, produto em promoção e produto a preço cheio.',
-    metaTitle: 'Cupom Simple Organic: 5% OFF em tudo com S-EMCASACOMCECILIA',
+    metaTitle: 'Cupom Simple Organic: 5% com S-EMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
       'Cupom Simple Organic: S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes e maquiagem para cliente novo ou antigo, inclusive em promoção e nos kits.',
@@ -3509,16 +3509,54 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções do site e vale nos kits: nos nossos testes, os 5% entraram sobre o preço promocional de todos os itens do carrinho',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 5% entram sobre o preço promocional e nos kits' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O código vale com qualquer forma de pagamento; no teste, o checkout não mostrou desconto próprio no Pix' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 99 em produtos; o mínimo conta depois do desconto do cupom' },
     ],
     paymentPerks: [
       'Até 5x sem juros no cartão, com parcela mínima de R$ 30',
     ],
-    lastVerified: '2026-11-12',
-    testedAt: '2026-11-12',
+    relatedContent: [
+      {
+        title: 'Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale',
+        url: '/reviews/cupom-simple-organic-como-usar',
+        type: 'review',
+        publishedAt: '2026-11-03',
+      },
+      {
+        title: 'Simple Organic é boa? Os séruns, as soluções e o que vale comprar da marca',
+        url: '/reviews/simple-organic-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-03',
+      },
+      {
+        title: 'Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom',
+        url: '/reviews/black-friday-simple-organic',
+        type: 'review',
+        publishedAt: '2026-11-03',
+      },
+      {
+        title: 'Kit de skincare para presente: como escolher na Simple Organic',
+        url: '/reviews/kit-skincare-presente-simple-organic',
+        type: 'review',
+        publishedAt: '2026-11-10',
+      },
+      {
+        title: 'Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas',
+        url: '/reviews/simple-organic-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-11-03',
+      },
+      {
+        title: 'Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam',
+        url: '/reviews/simple-organic-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-03',
+      },
+    ],
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'No checkout, o S-EMCASACOMCECILIA tirou R$ 4,55 do kit Rotina Pele Sensível em promoção, de R$ 182,00 por R$ 91,00, e o total caiu para R$ 86,45: os 5% entraram sobre o preço promocional. Em 10/11/2026, o código deu 5% nos 11 kits e nos 13 produtos avulsos que testamos, e o frete grátis a partir de R$ 99 contou depois do desconto: o Trio Body Splashes saiu a R$ 99,50 sem o código, com frete grátis, e a R$ 105,41 com ele, com R$ 10,88 de frete.',
+      'No checkout da Clean Friday, com o Hidratante Facial Antioleosidade a R$ 27,00 e o Ultra Sérum Vitamina C a R$ 41,40, o S-EMCASACOMCECILIA tirou R$ 3,42 dos R$ 68,40, 5% do pedido, e o total caiu para R$ 64,98: os 5% entraram sobre os preços já reduzidos. Em testes anteriores, o código deu 5% em 11 kits e 13 produtos avulsos, e o frete grátis a partir de R$ 99 contou depois do desconto: o Trio Body Splashes saiu a R$ 99,50 sem o código, com frete grátis, e a R$ 105,41 com ele, com R$ 10,88 de frete.',
     codeInstructions: [
       'Copie o código S-EMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Simple Organic pelo botão indicado: ele abre a loja com o cupom aplicado. Depois, coloque os produtos no carrinho.',
