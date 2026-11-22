@@ -39,8 +39,8 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "ATÉ"
       }
     },
-    "source": "Página /black-friday de bagaggio.com.br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-18"
+    "source": "Menu do site bagaggio.com.br (\"Até 70% OFF\", conferido em 22/11/2026)",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "bagaggio-leve-3-pague-2",
@@ -57,8 +57,8 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver a campanha"
       }
     },
-    "source": "Banner da home de bagaggio.com.br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Menu do site bagaggio.com.br (\"Leve 3 Pague 2\", conferido em 22/11/2026)",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "baw-black-friday-2026",
