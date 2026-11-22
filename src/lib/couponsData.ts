@@ -3214,7 +3214,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'destaque',
     shortDescription: 'todo o site Bagaggio, com todas as formas de pagamento',
     longDescription:
-      'O cupom Bagaggio CECILIA10 dá 10% OFF em malas, mochilas e acessórios no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções, o Outlet e os 5% do Pix, e vale em todas as formas de pagamento. Testado numa mala de bordo do Outlet.',
+      'O cupom Bagaggio CECILIA10 dá 10% OFF em malas, mochilas e acessórios no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções, o Outlet e os 5% do Pix, e vale em todas as formas de pagamento. Testado em mala, conjunto e mochila.',
     metaTitle: 'Cupom Bagaggio: 10% OFF em tudo com CECILIA10',
     metaTitleMonth: true,
     metaDescription:
@@ -3222,9 +3222,10 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories: 'Todos os produtos do site oficial da Bagaggio, inclusive os do Outlet',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
-    shipping: 'Calculado pelo CEP no carrinho; o site também mostra a retirada em lojas próximas, conforme a disponibilidade',
+    shipping:
+      'Calculado pelo CEP no carrinho, sem um mínimo geral para frete grátis; alguns produtos entram em promoção de frete grátis, e a retirada numa loja Bagaggio próxima sai sem custo, conforme a disponibilidade',
     combinable:
-      'Soma com as promoções vigentes do site, inclusive o Outlet, e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o da promoção de 50% na 2ª peça',
+      'Soma com as promoções vigentes do site, inclusive o Outlet, e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, porque a loja aceita um por pedido',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre as promoções do site, inclusive os produtos do Outlet' },
       { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a Bagaggio tira mais 5% depois do código' },
@@ -3233,10 +3234,10 @@ const STORE_COUPONS: Coupon[] = [
     paymentPerks: [
       'Até 6x sem juros no cartão com parcela mínima de R$ 50, ou até 10x sem juros com parcela mínima de R$ 200',
     ],
-    lastVerified: '2026-11-11',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Aplicamos o CECILIA10 numa mala de bordo Downtown do Outlet, de R$ 249,90 por R$ 179,90, e o total caiu para R$ 161,91, com R$ 17,99 de desconto. Em 22/10/2026, no Pix, a loja tirou mais 5% depois do código, para R$ 153,81.',
+      'Aplicamos o CECILIA10 numa mala de bordo Detroit, de R$ 379,90 por R$ 249,90, e o total caiu para R$ 224,91, com R$ 24,99 de desconto; no Pix, a loja tirou mais 5% depois do código, para R$ 213,66. O código também deu 10% num conjunto de malas Malta P e M e numa mochila Explore. A mala Downtown do print saiu de R$ 179,90 para R$ 161,91. No resumo do pedido, o desconto aparece como "Cupom UGC".',
     codeInstructions: [
       'Copie o código CECILIA10 no card acima.',
       'Acesse o site oficial da Bagaggio pelo botão indicado e coloque os produtos no carrinho.',
@@ -3254,7 +3255,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 10% do cupom entraram numa mala do Outlet que já estava com desconto: de R$ 179,90 por R$ 161,91.',
+          'Sim. No nosso teste mais recente, os 10% do cupom entraram numa mala de bordo Detroit que já estava com desconto: de R$ 249,90 por R$ 224,91.',
       },
       {
         question: 'O cupom CECILIA10 soma com o desconto do Pix?',
@@ -3262,14 +3263,14 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a Bagaggio ainda tira os 5% de desconto dela.',
       },
       {
-        question: 'Posso usar o CECILIA10 junto com a promoção de 50% na 2ª peça?',
+        question: 'O CECILIA10 soma com outra promoção que pede cupom?',
         answer:
-          'Não. A promoção da 2ª peça funciona com outro cupom da loja, que não acumula com outros cupons. Levando duas peças de preço parecido, os 50% na mais barata costumam render mais que os 10%; levando uma, fique com o CECILIA10.',
+          'Não. Quando a Bagaggio roda uma promoção com cupom próprio, esse cupom ocupa o lugar do CECILIA10, porque a loja aceita um cupom por pedido. As promoções sem cupom, com o preço já baixado no site, somam com o CECILIA10.',
       },
       {
         question: 'O cupom Bagaggio vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
-          'Vale, e rende mais: o desconto de primeira compra da própria Bagaggio é de 5%, e o CECILIA10 dá 10% OFF, também para quem já comprou na loja. Como a Bagaggio não acumula cupons no mesmo pedido, os dois não somam: na primeira compra, fique com o CECILIA10.',
+          'Vale. O CECILIA10 dá 10% OFF na primeira compra e também para quem já comprou na loja. A Bagaggio aceita um cupom por pedido, então ele não soma com o cupom de boas-vindas da loja: use um ou outro.',
       },
       {
         question: 'Qual cupom Bagaggio dá 10% para quem já é cliente?',
@@ -3279,7 +3280,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Existe cupom Bagaggio de 15% ou 20%?',
         answer:
-          'Com código, o desconto que testamos é o do CECILIA10: 10% no site oficial, inclusive no Outlet. Não testamos os códigos de 15% ou 20% que aparecem em sites de cupom. O CECILIA10 soma com as promoções e, no Pix, com os 5% da loja: no teste, os 10% entraram sobre uma mala do Outlet, e o Pix tirou mais 5%.',
+          'Com código, o desconto que testamos é o do CECILIA10: 10% no site oficial, inclusive no Outlet. Não testamos os códigos de 15% ou 20% que aparecem em sites de cupom. O CECILIA10 soma com as promoções e, no Pix, com os 5% da loja: no teste, os 10% entraram sobre uma mala de bordo com desconto, e o Pix tirou mais 5%.',
       },
       {
         question: 'O CECILIA10 é cupom de influenciadora?',
@@ -3309,7 +3310,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Quanto custa o frete da Bagaggio?',
         answer:
-          'O frete é calculado pelo CEP no carrinho. O site também mostra a retirada em lojas próximas, conforme a disponibilidade.',
+          'O frete é calculado pelo CEP no carrinho, pelo peso e pelo volume. Não encontramos um mínimo geral para frete grátis, mas a loja pode pôr produtos em promoção de frete grátis; o carrinho mostra o valor pelo CEP. Na nossa simulação, a entrega de uma mala de bordo em capitais ficou entre cerca de R$ 27 e R$ 32. A retirada numa loja Bagaggio próxima sai sem custo, conforme a disponibilidade.',
       },
       {
         question: 'Posso desistir da compra feita com o cupom?',
@@ -3319,7 +3320,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O que fazer se o cupom CECILIA10 não funcionar?',
         answer:
-          'Veja se não há outro cupom no carrinho, como o da promoção de 50% na 2ª peça: a Bagaggio não acumula cupons. O código vai no campo de cupom do carrinho, no site ou no app, sem espaços; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+          'Veja se não há outro cupom no carrinho: a Bagaggio não acumula cupons. O código vai no campo de cupom do carrinho, no site ou no app, sem espaços; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Tem cupom Bagaggio na Black Friday?',
@@ -3335,6 +3336,44 @@ const STORE_COUPONS: Coupon[] = [
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no carrinho quando o cupom é aceito.',
+      },
+    ],
+    relatedContent: [
+      {
+        title: 'Como usar o cupom CECILIA10 na Bagaggio e o que ele soma',
+        url: '/reviews/cupom-bagaggio-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-22',
+      },
+      {
+        title: 'Black Friday Bagaggio 2026: o que comprar, conjuntos e o cupom CECILIA10',
+        url: '/reviews/black-friday-bagaggio',
+        type: 'review',
+        publishedAt: '2026-10-22',
+      },
+      {
+        title: 'Mala de bordo Bagaggio: qual compensa em preço, medida e selo',
+        url: '/reviews/mala-de-bordo-bagaggio-qual-compensa',
+        type: 'review',
+        publishedAt: '2026-10-30',
+      },
+      {
+        title: 'Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar',
+        url: '/reviews/bagaggio-garantia-vitalicia',
+        type: 'review',
+        publishedAt: '2026-10-22',
+      },
+      {
+        title: 'Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia',
+        url: '/reviews/bagaggio-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-10-22',
+      },
+      {
+        title: 'Bagaggio no Reclame Aqui: nota, reputação e principais reclamações',
+        url: '/reviews/bagaggio-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-22',
       },
     ],
     monthlyHighlight: {
