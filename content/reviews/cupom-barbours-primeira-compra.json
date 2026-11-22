@@ -40,7 +40,7 @@
       "slug": "cupom-barbours-como-usar"
     },
     {
-      "slug": "barbours-e-confiavel"
+      "slug": "barbours-body-splash-inspiracoes"
     },
     {
       "slug": "black-friday-barbours"
@@ -56,17 +56,30 @@
     {
       "heading": "Qual cupom usar na primeira compra da Barbour's",
       "paragraphs": [
-        "A Barbour's Beauty vende fragrâncias e cuidados para o corpo, como body splash, perfume para cabelo e hidratantes. Se ainda está conhecendo a marca, veja os dados da empresa e do atendimento em [Barbour's Beauty é confiável?](/reviews/barbours-e-confiavel). Para o primeiro pedido e os seguintes, CECILIALINHARES dá 10% OFF no site oficial.",
-        "Digite CECILIALINHARES no campo Cupom (opcional) do checkout e confira o desconto na linha Descontos antes de pagar.",
-        "A nossa página do [cupom Barbour's](/cupons/barbours) reúne o código e as condições em vigor."
+        "A Barbour's Beauty vende fragrâncias e cuidados para o corpo: body splash, perfume para cabelo, óleo de banho, hidratantes e a linha masculina Homme. Para o primeiro pedido e os seguintes, o código é o mesmo: CECILIALINHARES dá 10% OFF no site oficial.",
+        "Digite o código no campo Cupom (opcional) do checkout e confira o desconto na linha Descontos antes de pagar. A nossa página do [cupom Barbour's](/cupons/barbours) reúne o código e as condições em vigor."
+      ]
+    },
+    {
+      "heading": "Por onde começar",
+      "paragraphs": [
+        "Quem nunca comprou na marca costuma escolher entre um body splash avulso e um kit. O [guia das inspirações de cada body splash](/reviews/barbours-body-splash-inspiracoes) mostra a linha inteira, com as notas de cada fragrância, e ajuda a escolher a primeira.",
+        "Na vitrine da Black Week, estes eram os preços de alguns produtos de entrada:"
+      ],
+      "bullets": [
+        "**Body splash de 200 ml.** O [My Sweet Delight](https://www.thebarboursbeauty.com.br/products/body-splash-delight-deo-colonia-6947ecad195b8), o mais avaliado da loja, sai por R$ 39,90, preço da maior parte dos body splashes.",
+        "**Perfume para cabelo.** O [perfume para cabelo My Sweet Delight](https://www.thebarboursbeauty.com.br/products/perfume-para-cabelo-delight-finalizador-termoativo-ref-olfativa-delina-694803dd48bd6) sai por R$ 34,90.",
+        "**Óleo de banho.** O [Divine Bath My Sweet Delight](https://www.thebarboursbeauty.com.br/products/divine-bath-sabonete-liquido-oleo-de-banho-my-sweet-delight-120ml), de 120 ml, sai por R$ 49,90.",
+        "**Kit para presente.** A [Necessaire + Perfume + Body My Sweet Delight](https://www.thebarboursbeauty.com.br/products/necessaire-perfume-body-my-sweet-delight) sai por R$ 109,90, sem desconto de vitrine."
+      ],
+      "postParagraphs": [
+        "Os 10% do cupom entram sobre esses preços. O valor final é o da linha Descontos no resumo do seu pedido."
       ]
     },
     {
       "heading": "Quanto o cupom tira em dois carrinhos testados",
       "paragraphs": [
-        "Em 18/11, montamos dois carrinhos no checkout do site oficial. Nos dois, o desconto foi de 10% sobre o subtotal dos produtos.",
-        "No primeiro carrinho, o kit estava em promoção e os 10% entraram sobre ele. No segundo, o cupom entrou sobre o kit em promoção e também sobre o kit Necessaire + Perfume + Body My Sweet Delight, a preço cheio.",
-        "O preço de vitrine muda. Vale o que aparece no resumo do checkout do seu pedido."
+        "Em 18 de novembro, montamos dois carrinhos no checkout do site oficial, sem finalizar a compra. Nos dois, o desconto foi de 10% sobre o subtotal dos produtos, inclusive sobre o kit em promoção. No reteste de 21 de novembro, o kit sozinho deu o mesmo resultado."
       ],
       "comparisonTable": {
         "caption": "Valores observados no resumo dos dois carrinhos, sem frete. A entrega depende do CEP.",
@@ -78,25 +91,36 @@
         ],
         "rows": [
           [
-            "Kit Clássicos Masculinos, em promoção",
+            "[Kit Clássicos Masculinos](https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme), de R$ 209,70 por R$ 109,90",
             "R$ 109,90",
             "− R$ 10,99",
             "R$ 98,91"
           ],
           [
-            "Kit Clássicos Masculinos, em promoção, mais o kit Necessaire + Perfume + Body My Sweet Delight",
+            "[Kit Clássicos Masculinos](https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme) + [Necessaire + Perfume + Body My Sweet Delight](https://www.thebarboursbeauty.com.br/products/necessaire-perfume-body-my-sweet-delight)",
             "R$ 219,80",
             "− R$ 21,98",
             "R$ 197,82"
           ]
         ]
       },
+      "postParagraphs": [
+        "O preço de vitrine muda. Vale o que aparece no resumo do checkout do seu pedido."
+      ],
       "images": [
+        {
+          "src": "/images/reviews/barbours/cupom-barbours-primeira-compra-kit-necessaire-my-sweet-delight.webp",
+          "alt": "Kit Necessaire + Perfume + Body My Sweet Delight da Barbour's Beauty: necessaire bege, body splash de 200 ml e perfume, em foto oficial da loja",
+          "caption": "A Necessaire + Perfume + Body My Sweet Delight, o produto pelo preço cheio do segundo carrinho. Foto oficial da loja.",
+          "objectFit": "square",
+          "href": "https://www.thebarboursbeauty.com.br/products/necessaire-perfume-body-my-sweet-delight"
+        },
         {
           "src": "/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp",
           "alt": "Resumo do checkout da Barbour's Beauty com o cupom CECILIALINHARES aplicado e a linha Descontos no pedido",
-          "caption": "Linha Descontos do pedido, com o CECILIALINHARES aplicado.",
-          "objectFit": "contain"
+          "caption": "Linha Descontos do segundo carrinho, com o CECILIALINHARES aplicado.",
+          "objectFit": "contain",
+          "aspectRatio": 0.79
         }
       ]
     },
@@ -112,13 +136,15 @@
         "Confira a linha Descontos no resumo antes de pagar."
       ],
       "postParagraphs": [
-        "Se o código não entrar, confira se digitou certo e volte ao carrinho para clicar em Finalizar a compra."
+        "Se o código não entrar, confira se digitou certo e volte ao carrinho para clicar em Finalizar a compra: o campo do cupom fica no checkout que esse botão abre."
       ]
     },
     {
       "heading": "E na segunda compra?",
       "paragraphs": [
-        "O código é o mesmo. O CECILIALINHARES vale para cliente novo e antigo e entra no mesmo campo Cupom (opcional) do checkout."
+        "O código é o mesmo. O CECILIALINHARES é o cupom da parceria com o Em Casa com Cecília e vale para cliente novo e antigo: não é um desconto de boas-vindas que some depois do primeiro pedido.",
+        "Na recompra, ele também entra sobre o preço de kit em promoção. No nosso teste, o Kit Clássicos Masculinos estava de R$ 209,70 por R$ 109,90, e o cupom tirou mais R$ 10,99, fechando em R$ 98,91.",
+        "O cupom vale no Pix e no cartão. Nas páginas de produto e no começo do checkout, não vimos desconto extra para o Pix; o kit de R$ 109,90 aparecia em até 3x sem juros, e a loja anuncia parcelamento em até 4x conforme o valor."
       ]
     },
     {
@@ -127,14 +153,12 @@
         "Sobre frete, prazo e devolução, a loja informa:"
       ],
       "bullets": [
-        "**Frete.** O valor muda conforme a região e o seu CEP. A tabela por região está no [guia de como usar](/reviews/cupom-barbours-como-usar).",
+        "**Frete.** É grátis acima de um valor que muda por região, de R$ 119 em São Paulo a R$ 259 no Norte. A tabela completa está no [guia de como usar](/reviews/cupom-barbours-como-usar).",
+        "**Frete e cupom.** A barra do carrinho conta o frete grátis pelo valor dos produtos, antes do cupom. A política não diz se o checkout refaz a conta depois do desconto; confira o frete no resumo com o seu CEP.",
         "**Prazo.** Em média, 7 a 10 dias úteis.",
         "**Desistência.** Você pode desistir em até 7 dias do recebimento.",
         "**Pedido enviado.** Segundo a política da loja, recuse a entrega e aguarde a devolução do pacote para o reembolso.",
         "**Trocas.** As trocas são feitas pelo portal da loja."
-      ],
-      "postParagraphs": [
-        "Se quer saber quem está por trás da loja antes de comprar, leia [se a Barbour's Beauty é confiável](/reviews/barbours-e-confiavel)."
       ]
     },
     {
@@ -146,5 +170,6 @@
         "Onde coloco o cupom na primeira compra? Depois de clicar em Finalizar a compra no carrinho, abra Inserir cupom de desconto e digite o código no campo Cupom (opcional)."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-21"
 }

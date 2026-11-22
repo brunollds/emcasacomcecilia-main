@@ -4490,14 +4490,14 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 10% entraram num kit de R$ 209,70 por R$ 109,90' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 119 em SP, de R$ 149 no ES, no RJ e em MG, de R$ 169 no Sul e no Centro-Oeste, de R$ 199 no Nordeste e de R$ 259 no Norte' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix; não vimos desconto extra para o Pix nas páginas de produto nem no começo do checkout' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 119 em SP, R$ 149 no ES, RJ e MG, R$ 169 no Sul e no Centro-Oeste, R$ 199 no Nordeste e R$ 259 no Norte; o carrinho conta o valor antes do cupom' },
     ],
     paymentPerks: ['Até 4x sem juros no cartão de crédito, conforme o valor da compra', 'Pix e cartões Visa, Mastercard, Elo, American Express, Hipercard, Diners, Discover e Aura'],
-    lastVerified: '2026-11-18',
-    testedAt: '2026-11-18',
+    lastVerified: '2026-11-21',
+    testedAt: '2026-11-21',
     testNote:
-      'Num carrinho com o Kit Clássicos Masculinos (Bold Homme, Seduction Homme e Ocean Homme) em promoção, de R$ 209,70 por R$ 109,90, e a Necessaire + Perfume + Body My Sweet Delight pelo preço cheio de R$ 109,90, o CECILIALINHARES tirou R$ 21,98 dos R$ 219,80, e o total caiu para R$ 197,82: os 10% entraram nos dois produtos. Sozinho, o kit em promoção ganhou R$ 10,99 de desconto e saiu por R$ 98,91.',
+      'Num carrinho com o Kit Clássicos Masculinos (Bold Homme, Seduction Homme e Ocean Homme) em promoção, de R$ 209,70 por R$ 109,90, e a Necessaire + Perfume + Body My Sweet Delight pelo preço cheio de R$ 109,90, o CECILIALINHARES tirou R$ 21,98 dos R$ 219,80, e o total caiu para R$ 197,82: os 10% entraram nos dois produtos. Sozinho, o kit em promoção ganhou R$ 10,99 de desconto e saiu por R$ 98,91, resultado que se repetiu no reteste de 21/11, com a Black Week da loja no ar.',
     codeInstructions: [
       'Copie o código CECILIALINHARES no card acima.',
       "Acesse o site oficial da Barbour's Beauty pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar a compra.",
@@ -4520,7 +4520,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: "O cupom CECILIALINHARES vale no Pix na Barbour's?",
         answer:
-          'Vale. O cupom vale com todas as formas de pagamento: a loja aceita Pix e cartão de crédito, com parcelamento em até 4x sem juros conforme o valor da compra.',
+          'Vale. O cupom vale com todas as formas de pagamento: a loja aceita Pix e cartão de crédito, com parcelamento em até 4x sem juros conforme o valor da compra. Nas páginas de produto e no começo do checkout, não vimos desconto extra para o Pix.',
       },
       {
         question: "O cupom Barbour's vale na primeira compra?",
@@ -4563,7 +4563,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'O cupom não mexe no frete, mas a loja dá frete grátis acima de R$ 119 em São Paulo, de R$ 149 no Espírito Santo, no Rio de Janeiro e em Minas Gerais, de R$ 169 no Sul e no Centro-Oeste, de R$ 199 no Nordeste e de R$ 259 no Norte. Abaixo disso, o valor e o prazo aparecem no checkout depois do CEP.',
+          'O cupom não mexe no frete, mas a loja dá frete grátis acima de R$ 119 em São Paulo, de R$ 149 no Espírito Santo, no Rio de Janeiro e em Minas Gerais, de R$ 169 no Sul e no Centro-Oeste, de R$ 199 no Nordeste e de R$ 259 no Norte. A barra do carrinho conta o valor dos produtos antes do cupom; abaixo do mínimo, o valor e o prazo aparecem no checkout depois do CEP.',
       },
       {
         question: "Como funciona a troca na Barbour's?",
@@ -4579,6 +4579,38 @@ const STORE_COUPONS: Coupon[] = [
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    relatedContent: [
+      {
+        title: "Body splash Barbour's: a inspiração de cada fragrância",
+        url: '/reviews/barbours-body-splash-inspiracoes',
+        type: 'review',
+        publishedAt: '2026-11-21',
+      },
+      {
+        title: "Cupom Barbour's Beauty: como aplicar o CECILIALINHARES no checkout e o que soma com ele",
+        url: '/reviews/cupom-barbours-como-usar',
+        type: 'review',
+        publishedAt: '2026-11-18',
+      },
+      {
+        title: "Cupom Barbour's primeira compra: CECILIALINHARES dá 10% OFF e vale nas compras seguintes",
+        url: '/reviews/cupom-barbours-primeira-compra',
+        type: 'review',
+        publishedAt: '2026-11-18',
+      },
+      {
+        title: "Barbour's Beauty é boa? O que a página, as avaliações e o Reclame Aqui mostram",
+        url: '/reviews/barbours-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-18',
+      },
+      {
+        title: "Barbour's Beauty no Reclame Aqui: a nota, o selo RA1000 e o que mais gera reclamação",
+        url: '/reviews/barbours-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-18',
       },
     ],
     monthlyHighlight: {

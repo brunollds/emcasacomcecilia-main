@@ -40,6 +40,9 @@
       "slug": "cupom-barbours-primeira-compra"
     },
     {
+      "slug": "barbours-body-splash-inspiracoes"
+    },
+    {
       "slug": "black-friday-barbours"
     },
     {
@@ -47,9 +50,6 @@
     },
     {
       "slug": "barbours-reclame-aqui-nota-reputacao"
-    },
-    {
-      "slug": "barbours-e-boa"
     }
   ],
   "contentSections": [
@@ -87,7 +87,7 @@
     {
       "heading": "Quanto o cupom tira nos testes",
       "paragraphs": [
-        "Conta nossa: nos dois carrinhos testados em 18 de novembro, o cupom tirou 10% do total dos produtos, como mostra a tabela."
+        "Conta nossa: nos dois carrinhos testados em 18 de novembro, o cupom tirou 10% do total dos produtos, como mostra a tabela. No reteste de 21 de novembro, o kit sozinho deu o mesmo desconto."
       ],
       "comparisonTable": {
         "caption": "Carrinhos testados, com 10% sobre o total dos produtos",
@@ -99,13 +99,13 @@
         ],
         "rows": [
           [
-            "Kit Clássicos Masculinos, em promoção",
+            "[Kit Clássicos Masculinos](https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme), de R$ 209,70 por R$ 109,90",
             "R$ 109,90",
             "− R$ 10,99",
             "R$ 98,91"
           ],
           [
-            "Kit Clássicos Masculinos + kit Necessaire + Perfume + Body My Sweet Delight",
+            "[Kit Clássicos Masculinos](https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme) + [Necessaire + Perfume + Body My Sweet Delight](https://www.thebarboursbeauty.com.br/products/necessaire-perfume-body-my-sweet-delight)",
             "R$ 219,80",
             "− R$ 21,98",
             "R$ 197,82"
@@ -114,20 +114,31 @@
       },
       "postParagraphs": [
         "No seu pedido, o desconto é o que aparece na linha Descontos."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/barbours/cupom-barbours-como-usar-kit-classicos-masculinos.webp",
+          "alt": "Kit Clássicos Masculinos da Barbour's Beauty, com os body splashes Ocean Homme, Bold Homme e Seduction Homme de 200 ml, em foto oficial da loja",
+          "caption": "O Kit Clássicos Masculinos, que entrou nos dois carrinhos do teste. Foto oficial da loja.",
+          "objectFit": "square",
+          "href": "https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme"
+        }
       ]
     },
     {
       "heading": "O cupom soma com promoção e com kit?",
       "paragraphs": [
-        "Nos nossos testes, o cupom somou com a promoção. O primeiro carrinho era um kit que já estava com preço promocional, e os 10% saíram sobre esse preço.",
-        "No segundo carrinho, o kit em promoção entrou junto com o kit Necessaire + Perfume + Body My Sweet Delight, sem promoção, a R$ 109,90. Os 10% saíram sobre os R$ 219,80 do carrinho, nos dois kits.",
+        "Nos nossos testes, o cupom somou com a promoção. O primeiro carrinho era o [Kit Clássicos Masculinos](https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme), que estava de R$ 209,70 por R$ 109,90, e os 10% saíram sobre o preço promocional.",
+        "No segundo carrinho, o kit em promoção entrou junto com a [Necessaire + Perfume + Body My Sweet Delight](https://www.thebarboursbeauty.com.br/products/necessaire-perfume-body-my-sweet-delight), sem promoção, a R$ 109,90. Os 10% saíram sobre os R$ 219,80 do carrinho, nos dois produtos.",
+        "A conta vale também para produto avulso: o iluminador [Golden Glow](https://www.thebarboursbeauty.com.br/products/golden-glow-iluminador-hidratante-desodorante-corporal-115ml), por R$ 39,90 na vitrine, sairia por R$ 35,91 com os 10%, pela conta. Para escolher a fragrância, veja o [guia das inspirações de cada body splash](/reviews/barbours-body-splash-inspiracoes).",
         "Para a primeira compra, veja o [cupom na primeira compra](/reviews/cupom-barbours-primeira-compra). Para a Black Friday, veja [Black Friday na Barbour's](/reviews/black-friday-barbours)."
       ]
     },
     {
       "heading": "Existe cupom Barbour's de 15%?",
       "paragraphs": [
-        "Quem procura cupom Barbour's de 15% encontra, aqui, o nosso de 10%. O CECILIALINHARES vale para cliente novo e antigo e foi o código que entrou nos dois carrinhos testados."
+        "Sites de cupom anunciam códigos de 15% e de 20% para a Barbour's, que nós não testamos. Um código de site agregador pode ter vencido, valer só para uma coleção ou ter sido criado para outra campanha, e o checkout recusa sem dizer o motivo.",
+        "O CECILIALINHARES dá 10% OFF e é o código que testamos: entrou nos dois carrinhos, inclusive sobre um kit em promoção, e vale para cliente novo e antigo. Para saber o desconto exato do seu pedido, aplique o código e confira a linha Descontos antes de pagar."
       ]
     },
     {
@@ -165,13 +176,14 @@
         ]
       },
       "postParagraphs": [
-        "A política não esclarece se o mínimo para frete grátis é contado antes ou depois do cupom. Confira o frete com o seu CEP e o total do pedido; a loja informa prazo médio de 7 a 10 dias úteis."
+        "A barra do carrinho conta o frete grátis pelo valor dos produtos, antes do cupom: com o kit de R$ 109,90, ela avisava que faltavam R$ 10 para o frete grátis. A política não diz se o checkout refaz a conta depois do desconto, então confira o frete com o seu CEP no resumo. A loja informa prazo médio de 7 a 10 dias úteis."
       ]
     },
     {
       "heading": "Pix e cartão",
       "paragraphs": [
-        "A loja informa que aceita Pix e cartão, com até 4x sem juros. O cupom vale com as formas de pagamento da loja."
+        "A loja aceita Pix e cartão, e o cupom vale com as duas formas de pagamento. Nas páginas de produto e no começo do checkout, não vimos desconto extra para o Pix.",
+        "No cartão, o parcelamento sem juros vai até 4x conforme o valor da compra: o kit de R$ 109,90 aparecia em até 3x de R$ 36,63."
       ]
     },
     {
@@ -198,5 +210,6 @@
         "Qual o frete grátis da Barbour's? Depende da região. A loja informa valores de R$ 119 em São Paulo a R$ 259 no Norte, com prazo médio de 7 a 10 dias úteis."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-21"
 }
