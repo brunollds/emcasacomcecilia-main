@@ -16,11 +16,11 @@
   },
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
-  "description": "Cookies sem açúcar da Belive comparados por 100 g, com o rótulo, os adoçantes, os alérgenos e o cupom MAUAD, a partir da loja oficial em 28/10/2026.",
-  "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Os quatro cookies sem açúcar comparados por 100 g: calorias, proteína, açúcares, alérgenos e preço.",
+  "description": "Cookies sem açúcar da Belive comparados por 100 g: rótulo, adoçantes, alérgenos, kits de 10, preço e o cupom Belive MAUAD, a partir da loja oficial.",
+  "metaDescription": "O cupom Belive MAUAD dá 10% OFF em todo o site. Os quatro cookies sem açúcar comparados por 100 g: calorias, proteína, açúcares, alérgenos e preço.",
   "image": "/images/reviews/belive/cookies-sem-acucar-belive-capa-v2.webp",
   "imageAlt": "Cookies da Belive, com a embalagem do sabor castanhas ao fundo.",
   "imageFit": "contain",
@@ -61,13 +61,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Os quatro cookies sem açúcar da Belive são vendidos por pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g, e no site oficial o código MAUAD dá 10% OFF."
+        "Os quatro cookies sem açúcar da Belive têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. Saem avulsos ou em kit de 10, e no site oficial o cupom Belive MAUAD dá 10% OFF."
       ]
     },
     {
       "heading": "Os quatro cookies sem açúcar",
       "paragraphs": [
-        "A comparação é por 100 g, e o peso do pacote muda a conta. O peso vem do pacote nas fotos oficiais da loja: 67 g, com 4 unidades, no de chocolate, no de baunilha com chocolate e no de castanhas, embora a ficha dos dois primeiros diga 79 g. No de avelã, vale o peso da ficha, 79 g; confira a embalagem."
+        "A comparação é por 100 g, e o peso do pacote muda a conta. A ficha de cada cookie no site mostra 79 g, mas esse é o peso de envio da embalagem, com as dimensões de transporte, e não o peso líquido. O líquido é o impresso no pacote: 67 g, com 4 unidades, no de chocolate, no de baunilha com chocolate e no de castanhas, como mostram as fotos oficiais. Nas fotos da loja não aparece o pacote do de chocolate com avelã, então o peso líquido dele não está confirmado e a conta por 100 g fica em branco; confira a embalagem."
       ],
       "comparisonTable": {
         "headers": [
@@ -100,9 +100,9 @@
           ],
           [
             "[Chocolate e avelã](https://belivebefree.com.br/produto/cookie-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/)",
-            "79 g (ficha)",
+            "não confirmado",
             "R$ 8,97",
-            "R$ 11,35",
+            "-",
             "113",
             "1,4 g",
             "0 g"
@@ -119,22 +119,22 @@
         ]
       },
       "postParagraphs": [
-        "No Pix, com 5% de desconto, cada pacote sai por R$ 8,52. O cupom MAUAD dá mais 10% em todas as formas de pagamento e soma com as promoções e com o desconto do Pix.",
+        "No Pix, com 5% de desconto, cada pacote sai por R$ 8,52. O cupom Belive MAUAD dá mais 10% em todas as formas de pagamento e soma com as promoções e com o desconto do Pix, em sequência: 10% e depois 5% sobre o que sobrou, o que dá 14,5% sobre o valor dos produtos.",
         "Se você já procura outros doces sem açúcar da loja, veja [doces sem açúcar](/reviews/doces-sem-acucar-para-diabeticos)."
       ],
       "image": {
         "src": "/images/reviews/belive/cookies-sem-acucar-belive-fotos-2810.webp",
         "alt": "Fotos oficiais da Belive dos cookies sem açúcar de chocolate, baunilha com chocolate, chocolate com avelã e castanhas com chocolate",
-        "caption": "Os quatro cookies sem açúcar; nos pacotes de chocolate, baunilha e castanhas, o peso impresso é 67 g. Fotos oficiais da Belive.",
+        "caption": "Os quatro cookies sem açúcar; nos pacotes de chocolate, baunilha e castanhas, o peso líquido impresso é 67 g. Fotos oficiais da Belive.",
         "objectFit": "contain",
-        "aspectRatio": 1.0
+        "aspectRatio": 1
       }
     },
     {
       "heading": "Quanto sai cada um",
       "paragraphs": [
-        "Cada pacote custa R$ 8,97 nos quatro sabores, no cartão, em 28/10/2026. O kit traz 10 pacotes de um só sabor, com 4 cookies cada, e custa R$ 83,42 no cartão (de R$ 89,70), ou R$ 79,25 no Pix. Dá cerca de R$ 8,34 por pacote, contra R$ 8,97 do pacote avulso.",
-        "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços podem mudar; confira o total no carrinho."
+        "Na consulta de 22/11, cada pacote custava R$ 8,97 nos quatro sabores, no cartão. O kit traz 10 pacotes de um só sabor, com 4 cookies cada, e custa R$ 83,42 no cartão (de R$ 89,70), ou R$ 79,25 no Pix. Dá cerca de R$ 8,34 por pacote, contra R$ 8,97 do pacote avulso. Os kits de 10: [chocolate](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-fit-sem-gluten-sem-acucar-sem-leite-belive/), [baunilha e chocolate](https://belivebefree.com.br/produto/kit-10-cookies-fit-baunilha-e-chocolate-sem-gluten-sem-acucar-sem-leite-belive/), [chocolate e avelã](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/) e [castanhas e chocolate](https://belivebefree.com.br/produto/kit-10-cookies-sem-gluten-sem-acucar-sem-leite-castanhas-e-chocolate-belive/).",
+        "O cupom Belive MAUAD tira mais 10% do pacote e do kit. O site anuncia a campanha Black November, com \"até 30%\" em todo o site. Os preços podem mudar; confira o total no carrinho."
       ]
     },
     {
@@ -190,14 +190,14 @@
       "postParagraphs": [
         "Pela lista de ingredientes, os adoçantes dos quatro são maltitol e glicosídeos de esteviol. O maltitol é um poliol: entra nos carboidratos, não nos açúcares. Por isso, zero de açúcar não quer dizer zero de carboidrato.",
         "No de castanhas, a lista descreve as gotas de chocolate sem a ressalva \"sem açúcar\". O zero da tabela é o que sustenta o termo, e vale conferir a embalagem.",
-        "Atenção: os cookies Sem Lactose da mesma linha não entram nesta comparação, porque têm açúcar adicionado, de 6,5 a 8,5 g por 30 g."
+        "Atenção: os cookies Sem Lactose da mesma linha não entram nesta comparação, porque têm açúcar adicionado, de 6,5 a 8,5 g por 30 g. Custam R$ 8,49 o pacote e R$ 78,96 o kit de 10, em três sabores: [chocolate](https://belivebefree.com.br/produto/cookie-de-chocolate-sem-gluten-sem-lactose-sem-leite-belive/) ([kit](https://belivebefree.com.br/produto/kit-10-cookies-de-chocolate-sem-gluten-sem-lactose-sem-leite-belive/)), [baunilha e chocolate](https://belivebefree.com.br/produto/cookie-sem-gluten-sem-lactose-sem-leite-baunilha-e-chocolate-belive/) ([kit](https://belivebefree.com.br/produto/kit-10-cookies-sem-gluten-sem-lactose-sem-leite-baunilha-e-chocolate-belive/)) e [castanhas](https://belivebefree.com.br/produto/cookie-sem-gluten-sem-lactose-sem-leite-castanhas-belive/) ([kit](https://belivebefree.com.br/produto/kit-10-cookies-sem-gluten-sem-lactose-sem-leite-castanhas-belive/))."
       ],
       "image": {
         "src": "/images/reviews/belive/cookies-sem-acucar-belive-tabelas-2810.webp",
         "alt": "Tabelas nutricionais oficiais dos quatro cookies sem açúcar da Belive, por 30 g",
         "caption": "As tabelas publicadas pela Belive nas fichas dos quatro cookies.",
         "objectFit": "contain",
-        "aspectRatio": 1.0
+        "aspectRatio": 1
       }
     },
     {
@@ -251,7 +251,7 @@
     {
       "heading": "Onde comprar com o cupom",
       "paragraphs": [
-        "A compra é no site oficial da Belive. Digite MAUAD no campo “Código do cupom” do carrinho e clique em “Aplicar cupom”. Consulte as condições na [página do cupom Belive](/cupons/belive).",
+        "A compra é no site oficial da Belive. Digite o cupom Belive MAUAD no campo “Código do cupom” do carrinho e clique em “Aplicar cupom”. Consulte as condições na [página do cupom Belive](/cupons/belive).",
         "O frete grátis depende da região e do valor do carrinho: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; acima de R$ 300 nos demais estados.",
         "O passo a passo do cupom está em [cupom da Belive: como usar](/reviews/cupom-belive-como-usar)."
       ]
@@ -262,7 +262,7 @@
       "bullets": [
         "Quer mais proteína: o de castanhas e chocolate, com 1,9 g por 30 g. Os outros três têm 1,4 g.",
         "Quer menos calorias por 30 g: o de chocolate, com 108 kcal. O de castanhas é o mais calórico, com 122 kcal.",
-        "Quer o menor preço por 100 g: o de chocolate com avelã, R$ 11,35 pelo peso da ficha (79 g). Os outros três, de 67 g, saem a R$ 13,39.",
+        "Quer o menor preço: os quatro custam o mesmo por pacote, R$ 8,97. Por 100 g, os três de 67 g saem a R$ 13,39; o de chocolate com avelã fica sem conta enquanto o peso líquido dele não for confirmado.",
         "Evita castanhas ou ovo: nenhum dos quatro serve, porque todos trazem os dois."
       ]
     },
