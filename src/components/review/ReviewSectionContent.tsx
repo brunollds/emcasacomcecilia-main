@@ -14,7 +14,11 @@ import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
 import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 import { ReviewSectionVideo } from './ReviewSectionVideo';
 import { TrackedCouponPageLink } from './TrackedCouponPageLink';
+import { ArticleChecklist } from './article/ArticleChecklist';
+import { ArticleMetrics } from './article/ArticleMetrics';
+import { ArticleSimulator } from './article/ArticleSimulator';
 import { ArticleStyling } from './article/ArticleStyling';
+import { ComparisonTableBlock } from './article/ComparisonTableBlock';
 import { withoutPausedStoreLinks, type MultiStores } from '@/lib/reviewStores';
 
 export interface ReviewSectionContentProps {
@@ -47,47 +51,6 @@ function shouldRenderTopTenList(section: ContentSection): boolean {
   return allNumbered && (section.bullets.length >= 10 || headingMatches);
 }
 
-// Nas células da tabela, "R$ 419" não quebra entre o R$ e o número (espaço não separável).
-function keepCurrencyTogether(text: string): string {
-  return text.replace(/R\$ (?=\d)/g, 'R$\u00a0');
-}
-
-// Tabela comparativa: de sm para cima é tabela com a primeira coluna fixa; abaixo disso, uma lista de
-// cartões (um por linha) feita com os mesmos th/td, e o rótulo de cada campo sai do data-label.
-// Sombra de "tem mais à direita": a camada fixa (scroll) fica na borda visível e a branca (local) corre
-// com o conteúdo e a cobre quando a rolagem chega ao fim. Passa por baixo das células, por isso as que
-// rolam têm fundo translúcido (as listras em marinho/4 sobre o contêiner branco); só a coluna fixa é opaca.
-const COMPARISON_WRAPPER = [
-  'mt-6 overflow-x-auto rounded-2xl border-2 border-marinho bg-white',
-  'sm:[background-image:linear-gradient(to_left,#fff_35%,transparent),radial-gradient(farthest-side_at_100%_50%,rgb(15_29_58/0.22),transparent)]',
-  'sm:[background-position:right_center] sm:[background-size:2.5rem_100%,0.9rem_100%]',
-  'sm:[background-repeat:no-repeat] sm:[background-attachment:local,scroll]',
-].join(' ');
-
-// Cada coluna tem piso de largura próprio (a tabela em si só tem w-full): 7 colunas de células curtas
-// cabem na coluna do artigo e só a tabela mais larga que ela rola. No papel o piso sai, para não cortar.
-const COMPARISON_CELL = 'align-top border-marinho/15 sm:border-e sm:last:border-e-0';
-
-const COMPARISON_COLUMN_MIN_WIDTH = 'sm:min-w-[6rem] print:min-w-0';
-
-// A listra da coluna fixa: o marinho/4 das linhas sobre o branco, opaco.
-const STRIPE_OPAQUE = 'sm:bg-[#f5f6f7]';
-
-const COMPARISON_STICKY_CELL =
-  'sm:sticky sm:start-0 sm:z-10 sm:min-w-[7.5rem] sm:max-w-[12rem] print:min-w-0 sm:shadow-[4px_0_6px_-4px_rgb(15_29_58/0.16)]';
-
-const COMPARISON_HEAD_CELL = `${COMPARISON_CELL} text-start font-heading text-[0.68rem] font-black uppercase leading-snug tracking-[0.08em] text-marinho-suave sm:border-b-2 sm:border-b-marinho`;
-
-const COMPARISON_ROW_HEAD_CELL = `${COMPARISON_CELL} ${COMPARISON_STICKY_CELL} text-start font-bold text-marinho sm:border-b max-sm:block max-sm:pb-2 max-sm:text-base max-sm:leading-snug`;
-
-const COMPARISON_DATA_CELL = `${COMPARISON_CELL} ${COMPARISON_COLUMN_MIN_WIDTH} text-marinho sm:border-b max-sm:block max-sm:border-t max-sm:py-2 max-sm:before:mb-0.5 max-sm:before:block max-sm:before:font-heading max-sm:before:text-[0.68rem] max-sm:before:font-bold max-sm:before:uppercase max-sm:before:leading-snug max-sm:before:tracking-[0.1em] max-sm:before:text-marinho-suave max-sm:before:content-[attr(data-label)]`;
-
-// Padding e altura de linha de sm para cima; a tabela de 6 colunas ou mais é compacta. O celular (cartões) não muda.
-const COMPARISON_SPACING = {
-  roomy: { head: 'sm:px-4 sm:py-3', body: 'leading-6 sm:px-4 sm:py-3.5' },
-  compact: { head: 'sm:px-3 sm:py-2.5', body: 'leading-6 sm:px-3 sm:py-3 sm:leading-5' },
-} as const;
-
 // Prós e contras: o título de cada coluna (verde e amarelo) e a célula de cada item.
 const PROS_HEADING = 'border-marinho bg-verde-claro px-5 py-3 text-xs font-extrabold uppercase tracking-[0.14em] text-verde-escuro';
 const CONS_HEADING = 'border-marinho bg-amarelo-cupom/40 px-5 py-3 text-xs font-extrabold uppercase tracking-[0.14em] text-marinho';
@@ -103,9 +66,6 @@ const ACCORDION_ICON =
 const SECTION_LINK_SHAPE = `inline-flex min-h-11 items-center gap-1.5 rounded-[10px] border-2 border-marinho px-5 py-2 text-sm font-extrabold text-marinho wrap-anywhere transition-colors ${FOCUS_RING}`;
 const SECTION_LINK = `${SECTION_LINK_SHAPE} bg-white hover:bg-amarelo-cupom`;
 const SECTION_LINK_SPONSORED = `${SECTION_LINK_SHAPE} bg-laranja hover:bg-laranja/85`;
-
-// Tabela de 6 colunas ou mais pode rolar (no tablet ou com célula longa); o contêiner vira região com foco de teclado.
-const COMPARISON_SCROLL_MIN_COLUMNS = 6;
 
 export function ReviewSectionContent({
   section,
@@ -123,9 +83,6 @@ export function ReviewSectionContent({
   // A loja das fotos com link de produto (o "Ver na <loja>" e a medição).
   const imageStore = affiliate && storeBrand ? { slug: affiliate, brand: storeBrand } : undefined;
   const { comparisonTable } = section;
-  const comparisonCaption = comparisonTable?.caption || section.heading || `Tabela comparativa de ${reviewTitle}`;
-  const comparisonScrolls = (comparisonTable?.headers.length ?? 0) >= COMPARISON_SCROLL_MIN_COLUMNS;
-  const comparisonSpacing = COMPARISON_SPACING[comparisonScrolls ? 'compact' : 'roomy'];
   // O botão de loja pausada no artigo de várias lojas sai; os outros links ficam.
   const links = withoutPausedStoreLinks(section.links, multiStores);
   // O título de FAQ decide: os bullets viram o acordeão, com os mesmos itens do FAQPage do schema,
@@ -225,68 +182,15 @@ export function ReviewSectionContent({
         <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} store={imageStore} stores={multiStores} reviewSlug={reviewSlug} />
       )}
 
+      {section.metrics && <ArticleMetrics metrics={section.metrics} locale={locale} />}
+
       {comparisonTable && (
-        <div
-          className={comparisonScrolls ? `${COMPARISON_WRAPPER} ${FOCUS_RING}` : COMPARISON_WRAPPER}
-          tabIndex={comparisonScrolls ? 0 : undefined}
-          role={comparisonScrolls ? 'region' : undefined}
-          aria-label={comparisonScrolls ? comparisonCaption : undefined}
-        >
-          <table role="table" className="border-separate border-spacing-0 text-start text-sm max-sm:block sm:w-full">
-            <caption className="sr-only">{comparisonCaption}</caption>
-            <thead role="rowgroup" className="max-sm:sr-only">
-              <tr role="row" className="bg-white">
-                {comparisonTable.headers.map((header, headerIndex) => (
-                  <th
-                    key={header}
-                    role="columnheader"
-                    scope="col"
-                    className={headerIndex === 0
-                      ? `${COMPARISON_HEAD_CELL} ${comparisonSpacing.head} ${COMPARISON_STICKY_CELL} sm:bg-white`
-                      : `${COMPARISON_HEAD_CELL} ${comparisonSpacing.head} ${COMPARISON_COLUMN_MIN_WIDTH}`}
-                  >
-                    {header}
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody
-              role="rowgroup"
-              className="max-sm:block max-sm:divide-y max-sm:divide-marinho/15 sm:[&>tr:last-child>*]:border-b-0"
-            >
-              {comparisonTable.rows.map((row, rowIndex) => {
-                const isStriped = rowIndex % 2 !== 0;
-                return (
-                  <tr
-                    key={`${row[0]}-${rowIndex}`}
-                    role="row"
-                    className={`max-sm:block max-sm:px-4 max-sm:py-4 ${isStriped ? 'bg-marinho/4' : ''}`}
-                  >
-                    {row.map((cell, cellIndex) => cellIndex === 0 ? (
-                      <th
-                        key={`${cell}-${cellIndex}`}
-                        role="rowheader"
-                        scope="row"
-                        className={`${COMPARISON_ROW_HEAD_CELL} ${comparisonSpacing.body} ${isStriped ? STRIPE_OPAQUE : 'sm:bg-white'}`}
-                      >
-                        <HighlightCoupon text={keepCurrencyTogether(cell)} />
-                      </th>
-                    ) : (
-                      <td
-                        key={`${cell}-${cellIndex}`}
-                        role="cell"
-                        data-label={comparisonTable.headers[cellIndex]}
-                        className={`${COMPARISON_DATA_CELL} ${comparisonSpacing.body}`}
-                      >
-                        <HighlightCoupon text={keepCurrencyTogether(cell)} />
-                      </td>
-                    ))}
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
-        </div>
+        <ComparisonTableBlock
+          comparisonTable={comparisonTable}
+          sectionHeading={section.heading}
+          reviewTitle={reviewTitle}
+          locale={locale}
+        />
       )}
 
       {/* Sem EditorialReveal: advertência legal precisa estar visível desde o primeiro render. */}
@@ -530,6 +434,10 @@ export function ReviewSectionContent({
           <PadroesReclamacao />
         </div>
       )}
+
+      {section.simulator && <ArticleSimulator simulator={section.simulator} locale={locale} />}
+
+      {section.checklist && <ArticleChecklist checklist={section.checklist} locale={locale} />}
 
       {section.accordionBlock && (
         <div className="mt-6">

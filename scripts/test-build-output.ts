@@ -7,6 +7,7 @@ import homeEventsConfig from '../content/home-events.json';
 import { resolveYesStylePage } from '../src/components/coupons/yesstylePage';
 import { COUPON_STORE_COPY } from '../src/components/coupons/couponStoreCopy';
 import { getArticleCopy, getStoreListTitle, getTemplateUi } from '../src/components/review/articleCopy';
+import { getNotebookCopy } from '../src/components/review/notebookCopy';
 import { getStylingCopy } from '../src/components/review/stylingCopy';
 import { getBodySections } from '../src/components/review/bodySections';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
@@ -2302,6 +2303,51 @@ for (const url of articleUrls) {
     const links = card.match(/<a\b[^>]*>/g) ?? [];
     assert.equal(links.length, urls.length, `${pagePath}: card de estilo com ${links.length} links para ${urls.length} endereços`);
     for (const link of links) assert.match(link, /\srel="sponsored noopener noreferrer"/, `${pagePath}: link do card de estilo sem sponsored`);
+  });
+
+  // Os 4 blocos interativos do caderno (metrics, table-filters, checklist, simulator): contagem exata no HTML, rótulos do idioma e 100% do conteúdo no SSR.
+  const nbCopy = getNotebookCopy(locale);
+  const metricsSections = (review.contentSections ?? []).flatMap((section) => (section.metrics ? [section.metrics] : []));
+  const metricsCards = [...body.matchAll(/<section\b[^>]*\sdata-article="metrics"/g)].map(({ index }) => elementAt(body, index));
+  assert.equal(metricsCards.length, metricsSections.length, `${pagePath}: ${metricsCards.length} blocos metrics para ${metricsSections.length} seções`);
+  metricsSections.forEach((metrics, index) => {
+    const text = textOf(metricsCards[index]);
+    for (const item of metrics.items) {
+      assert.ok(text.includes(item.label) && text.includes(item.value), `${pagePath}: metrics ${index + 1} sem "${item.label}" ou "${item.value}"`);
+    }
+  });
+
+  const filterTables = (review.contentSections ?? []).flatMap((section) =>
+    section.comparisonTable?.filters?.length ? [section.comparisonTable] : []
+  );
+  const filterBars = [...body.matchAll(/<div\b[^>]*\sdata-article="table-filters"/g)].map(({ index }) => elementAt(body, index));
+  assert.equal(filterBars.length, filterTables.length, `${pagePath}: ${filterBars.length} barras de filtro para ${filterTables.length} tabelas com filtro`);
+  filterTables.forEach((table, index) => {
+    const barText = textOf(filterBars[index]);
+    assert.ok(barText.includes(nbCopy.tableFilterAll), `${pagePath}: filtro de tabela ${index + 1} sem "${nbCopy.tableFilterAll}"`);
+    for (const filter of table.filters ?? []) {
+      assert.ok(barText.includes(filter.label), `${pagePath}: filtro de tabela ${index + 1} sem "${filter.label}"`);
+    }
+  });
+
+  const checklistSections = (review.contentSections ?? []).flatMap((section) => (section.checklist ? [section.checklist] : []));
+  const checklistBoxes = [...body.matchAll(/<section\b[^>]*\sdata-article="checklist"/g)].map(({ index }) => elementAt(body, index));
+  assert.equal(checklistBoxes.length, checklistSections.length, `${pagePath}: ${checklistBoxes.length} checklists para ${checklistSections.length} seções`);
+  checklistSections.forEach((checklist, index) => {
+    const boxHtml = checklistBoxes[index];
+    assert.ok(!/<button\b[^>]*>(?:(?!<\/button>)[\s\S])*<button\b/.test(boxHtml), `${pagePath}: checklist ${index + 1} com <button> aninhado`);
+    assert.ok(textOf(boxHtml).includes(checklist.title || nbCopy.checklistTitle), `${pagePath}: checklist ${index + 1} sem o título`);
+  });
+
+  const simulatorSections = (review.contentSections ?? []).flatMap((section) => (section.simulator ? [section.simulator] : []));
+  const simulatorBoxes = [...body.matchAll(/<section\b[^>]*\sdata-article="simulator"/g)].map(({ index }) => elementAt(body, index));
+  assert.equal(simulatorBoxes.length, simulatorSections.length, `${pagePath}: ${simulatorBoxes.length} simuladores para ${simulatorSections.length} seções`);
+  simulatorSections.forEach((simulator, index) => {
+    const boxText = textOf(simulatorBoxes[index]);
+    assert.ok(boxText.includes(simulator.title || nbCopy.simulatorTitle), `${pagePath}: simulador ${index + 1} sem o título`);
+    for (const sc of simulator.scenarios) {
+      assert.ok(boxText.includes(sc.label), `${pagePath}: simulador ${index + 1} sem o cenário "${sc.label}"`);
+    }
   });
 
   // O quadro "Leve se / Passe se" (ArticleDecision): só no artigo com `decision`, uma vez, com os títulos do idioma e todas

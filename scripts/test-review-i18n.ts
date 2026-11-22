@@ -5,10 +5,11 @@ import path from 'node:path';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 
-import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale, type ContentSectionStyling, type ReviewDecision } from '@/lib/content';
+import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale, type ComparisonTableFilter, type ContentSectionChecklist, type ContentSectionMetrics, type ContentSectionSimulator, type ContentSectionStyling, type ReviewDecision } from '@/lib/content';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { getArticleCopy, getReviewVideoLabels } from '@/components/review/articleCopy';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
+import { getNotebookCopy } from '@/components/review/notebookCopy';
 import { ArticleStoreCodes } from '@/components/review/article/ArticleStoreCodes';
 import { ReviewHeroImage } from '@/components/review/ReviewHeroImage';
 import { ReviewSectionVideo } from '@/components/review/ReviewSectionVideo';
@@ -37,6 +38,10 @@ interface ReviewSource {
     bullets?: string[];
     links?: Array<{ href?: string; store?: string }>;
     styling?: ContentSectionStyling;
+    metrics?: ContentSectionMetrics;
+    checklist?: ContentSectionChecklist;
+    simulator?: ContentSectionSimulator;
+    comparisonTable?: { filters?: ComparisonTableFilter[] };
     imageAlt?: string;
     imageCaption?: string;
     image?: string | { href?: string; store?: string; alt?: string; caption?: string };
@@ -188,6 +193,26 @@ function decisionFamilyProblems(family: ReviewSource[]): string[] {
   return problems;
 }
 
+// Os 4 blocos do caderno (metrics, comparisonTable.filters, checklist, simulator) numa família: mesma forma do português.
+function notebookBlocksFamilyProblems(family: ReviewSource[]): string[] {
+  const portuguese = family.find((review) => resolveReviewLocale(review.locale) === 'pt');
+  if (!portuguese) return [];
+  const shapeOf = (review: ReviewSource) =>
+    (review.contentSections ?? []).flatMap((section) => {
+      const entry = {
+        metrics: section.metrics ? { count: section.metrics.items.length, summary: Boolean(section.metrics.summary) } : null,
+        filters: section.comparisonTable?.filters?.map((f) => f.rows) ?? null,
+        checklist: section.checklist ? section.checklist.items.length : null,
+        simulator: section.simulator ? section.simulator.scenarios.map((s) => s.lines.length) : null,
+      };
+      return entry.metrics || entry.filters || entry.checklist || entry.simulator ? [entry] : [];
+    });
+  const refShape = JSON.stringify(shapeOf(portuguese));
+  return family
+    .filter((review) => review !== portuguese && JSON.stringify(shapeOf(review)) !== refShape)
+    .map((review) => `${review.slug}: blocos do caderno (metrics, filtros, checklist ou simulator) fora da estrutura do português`);
+}
+
 // A loja e o código numa família: os mesmos em toda versão. No artigo de várias lojas, o `affiliate` é a lista, e ela
 // tem de ser a mesma em todas: as mesmas lojas, na mesma ordem (a ordem das linhas do artigo).
 function storeFamilyProblems(family: ReviewSource[]): string[] {
@@ -333,6 +358,7 @@ const articleUiLeaves = (locale: Locale) => [
   ...uiLeaves(getGalleryCopy(locale), 'gallery'),
   ...uiLeaves(getShareCopy(locale), 'share'),
   ...uiLeaves(getStylingCopy(locale), 'styling'),
+  ...uiLeaves(getNotebookCopy(locale), 'notebook'),
 ];
 const SAME_AS_PORTUGUESE: Partial<Record<Locale, string[]>> = {
   en: ['article.kindLabel.editorial'],
@@ -556,6 +582,7 @@ const storeReferralLabel = (locale: Locale) =>
     assert.deepEqual(sectionLinkStoreFamilyProblems(family), [], `${key}: store dos botões de seção diferente entre as versões`);
     assert.deepEqual(stylingFamilyProblems(family), [], `${key}: card de estilo diferente entre as versões`);
     assert.deepEqual(decisionFamilyProblems(family), [], `${key}: quadro de decisão diferente entre as versões`);
+    assert.deepEqual(notebookBlocksFamilyProblems(family), [], `${key}: blocos do caderno diferentes entre as versões`);
     assert.deepEqual(imageLinkFamilyProblems(family), [], `${key}: link de produto das fotos diferente entre as versões`);
     assert.deepEqual(imageTextFamilyProblems(family), [], `${key}: alt ou legenda de foto igual ao português`);
     const portugueseType = family.find((review) => resolveReviewLocale(review.locale) === 'pt')?.type;

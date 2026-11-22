@@ -15,7 +15,7 @@ import { getStoreCode } from '@/lib/homeStores';
 import { isInternalLink } from '@/lib/internalLinks';
 import { DropCapParagraph } from '@/components/editorial/DropCapParagraph';
 import { AnimatedTextHighlight } from '@/components/editorial/AnimatedTextHighlight';
-import { HighlightCoupon } from '@/components/review/HighlightCoupon';
+import { ArticleCodeCopyProvider, HighlightCoupon } from '@/components/review/HighlightCoupon';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import { buildSchemaAuthors, contentSectionsToPlainText } from '@/lib/content';
@@ -31,6 +31,11 @@ import { publishedReviews } from '@/lib/data';
 import { isDockVisible } from '@/components/review/dockVisibility';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { ChangelogDetails } from '@/components/editorial/ChangelogDetails';
+import { ArticleMetrics } from '@/components/review/article/ArticleMetrics';
+import { ArticleChecklist } from '@/components/review/article/ArticleChecklist';
+import { ArticleSimulator } from '@/components/review/article/ArticleSimulator';
+import { ComparisonTableBlock } from '@/components/review/article/ComparisonTableBlock';
+import { getNotebookCopy } from '@/components/review/notebookCopy';
 
 const mk = (id: number, o: Partial<{ locale: string; affiliate: string; category: string; type: string; publishedAtISO: string }>) =>
   ({ id, slug: `a${id}`, publishedAtISO: '2026-10-01', ...o });
@@ -516,5 +521,110 @@ assert.ok(
   'Reclame Aqui em célula de tabela saiu com sponsored'
 );
 assert.ok(/href="\/cupons\/letseatit"(?![^>]*rel=)/.test(inline), 'link interno do texto ganhou rel');
+
+// Os 4 blocos interativos do caderno (ArticleMetrics, ComparisonTableBlock com filtros, ArticleChecklist e ArticleSimulator):
+// 100% do conteúdo no SSR HTML, zero botões aninhados mesmo com HighlightCoupon copiável, 11 idiomas traduzidos e plainTextBody limpo.
+{
+  const ptNotebook = getNotebookCopy('pt');
+  for (const loc of LOCALE_KEYS) {
+    const nb = getNotebookCopy(loc);
+    assert.ok(nb.tableFilterAll && nb.checklistTitle && nb.simulatorTitle && nb.metricsLabel, `${loc}: notebookCopy incompleto`);
+    if (loc !== 'pt') {
+      assert.notEqual(nb.tableFilterAll, ptNotebook.tableFilterAll, `${loc}: tableFilterAll igual ao PT`);
+      assert.notEqual(nb.checklistTitle, ptNotebook.checklistTitle, `${loc}: checklistTitle igual ao PT`);
+      assert.notEqual(nb.simulatorTitle, ptNotebook.simulatorTitle, `${loc}: simulatorTitle igual ao PT`);
+    }
+  }
+
+  const metricsHtml = renderToStaticMarkup(
+    createElement(ArticleMetrics, {
+      locale: 'en',
+      metrics: {
+        items: [
+          { label: 'Score', value: '8.9', unit: '/10', note: 'last 6 months' },
+          { label: 'Resolved', value: '91%' },
+        ],
+        summary: { badge: 'Great', text: '240 verified reviews.' },
+      },
+    })
+  );
+  assert.ok(metricsHtml.includes('data-article="metrics"') && metricsHtml.includes('aria-label="Key metrics"'), 'ArticleMetrics sem marcação');
+  assert.ok(metricsHtml.includes('8.9') && metricsHtml.includes('/10') && metricsHtml.includes('240 verified reviews.'), 'ArticleMetrics perdeu dados no SSR');
+
+  const tableHtml = renderToStaticMarkup(
+    createElement(ComparisonTableBlock, {
+      locale: 'fr',
+      reviewTitle: 'Snacks',
+      comparisonTable: {
+        headers: ['Produit', 'Profil'],
+        rows: [
+          ['Brownie', 'Sans sucre'],
+          ['Cookie', 'Protéiné'],
+          ['Muffin', 'Sans sucre'],
+        ],
+        filters: [
+          { label: 'Sans sucre', rows: [0, 2] },
+          { label: 'Protéiné', rows: [1] },
+        ],
+      },
+    })
+  );
+  assert.ok(tableHtml.includes('data-article="table-filters"') && tableHtml.includes('Tout afficher'), 'ComparisonTableBlock sem pílulas em FR');
+  assert.ok(tableHtml.includes('Brownie') && tableHtml.includes('Cookie') && tableHtml.includes('Muffin'), 'ComparisonTableBlock escondeu linhas no SSR');
+  assert.ok(!tableHtml.includes(' hidden'), 'ComparisonTableBlock marcou linha como hidden no SSR');
+
+  // Checklist com código da própria loja dentro do item: HighlightCoupon desenha <button> copiável sem aninhar dentro de outro <button>.
+  const checklistHtml = renderToStaticMarkup(
+    createElement(
+      ArticleCodeCopyProvider,
+      {
+        value: {
+          code: 'MAUAD',
+          brand: 'Belive',
+          slug: 'belive',
+          reviewSlug: 'teste-belive',
+          locale: 'pt',
+        },
+      } as never,
+      createElement(ArticleChecklist, {
+        locale: 'pt',
+        checklist: {
+          items: [
+            'Abra a loja e adicione os itens.',
+            'No carrinho, aplique o cupom MAUAD antes do Pix.',
+          ],
+        },
+      })
+    )
+  );
+  assert.ok(checklistHtml.includes('data-article="checklist"') && checklistHtml.includes('role="checkbox"'), 'ArticleChecklist sem role="checkbox"');
+  assert.ok(checklistHtml.includes('data-copied="false"'), 'ArticleChecklist não manteve o botão copiável do HighlightCoupon');
+  assert.ok(!/<button\b[^>]*>(?:(?!<\/button>)[\s\S])*<button\b/.test(checklistHtml), 'ArticleChecklist aninhou <button> dentro de <button>');
+
+  const simHtml = renderToStaticMarkup(
+    createElement(ArticleSimulator, {
+      locale: 'ar',
+      simulator: {
+        scenarios: [
+          { label: 'مع Pix', lines: [{ label: 'المنتج', value: 'R$ 100,00' }, { label: 'الخصم', value: '-R$ 19,00', highlight: true }], totalValue: 'R$ 81,00', note: 'يشمل الخصم.' },
+          { label: 'بالبطاقة', lines: [{ label: 'المنتج', value: 'R$ 100,00' }], totalValue: 'R$ 90,00' },
+        ],
+      },
+    })
+  );
+  assert.ok(simHtml.includes('data-article="simulator"') && simHtml.includes('role="tablist"'), 'ArticleSimulator sem tablist');
+  assert.ok(simHtml.includes('R$\u00a081,00') && simHtml.includes('R$\u00a090,00'), 'ArticleSimulator omitiu cenário fechado do HTML inicial');
+
+  const notebookPlain = contentSectionsToPlainText([
+    {
+      heading: 'Resumo',
+      metrics: { items: [{ label: 'Nota', value: '8,4', unit: '/10' }], summary: { text: 'Em **6 meses**.' } },
+      checklist: { items: ['Use [nosso link](/cupons/belive).'] },
+      simulator: { scenarios: [{ label: 'Pix', lines: [{ label: 'Cupom **MAUAD**', value: '-10%' }], totalValue: 'R$ 90' }] },
+    },
+  ]);
+  assert.ok(notebookPlain.includes('8,4/10') && notebookPlain.includes('Em 6 meses.') && notebookPlain.includes('Use nosso link.') && notebookPlain.includes('Cupom MAUAD: -10%'));
+  assert.ok(!notebookPlain.includes('**') && !notebookPlain.includes(']('), 'markdown cru nos blocos do caderno');
+}
 
 console.log(`✅ artigo D2: relacionados, bloco da loja, textos novos, trilha, galeria, a regra da barra do celular (${dockCases.length} casos) e o topo do artigo`);
