@@ -91,7 +91,8 @@
       "links": [
         {
           "label": "Informações e Instruções da Máscara Aliv Head Gel IWS (Loja Oficial)",
-          "href": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws"
+          "href": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws",
+          "sponsored": true
         }
       ],
       "image": "/images/reviews/iwannasleep/aliv-head-gel-iws-descanso.webp",
@@ -198,5 +199,5 @@
     }
   ],
   "brand": "I Wanna Sleep",
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-22"
 }

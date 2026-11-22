@@ -81,6 +81,21 @@
           "label": "Ver a coleção de travesseiros cervicais da I Wanna Sleep",
           "href": "https://www.iwannasleep.com.br/collections/travesseiro-cervical",
           "sponsored": true
+        },
+        {
+          "label": "Ver o Cervical Coluna Relax® na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Cervical Neck Plus Gel™ na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/cervical-neck-plus-gel",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Neck Plus Charcoal™ na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/cervical-neck-plus-charcoal",
+          "sponsored": true
         }
       ],
       "image": "/images/reviews/iwannasleep/iws-categoria-cervicais-ergonomicos.webp",
@@ -107,12 +122,27 @@
       "bullets": [
         "Snow®: viscoelástico de alta densidade com capa de toque frio que ajuda na troca térmica, uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
         "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. Segundo a I Wanna Sleep, o formato reduz pontos de pressão em até 60%, e o modelo foi pensado para quem sente calor durante a noite;",
-        "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. Ajudam no conforto térmico, no controle de odores e no apoio em diferentes posições de sono."
+        "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. Ajudam no conforto térmico, no controle de odores e no apoio em diferentes posições de sono. Na consulta de novembro, estava esgotado na loja."
       ],
       "links": [
         {
           "label": "Ver a coleção Memory Foam da I Wanna Sleep",
           "href": "https://www.iwannasleep.com.br/collections/travesseiros-de-memory-foam",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Travesseiro Snow® na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-snow",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Ergoblu™ na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/trv-iws-ergoblu",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Bubble Gel® na página da loja (esgotado em novembro)",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-iws-bubble-gel",
           "sponsored": true
         }
       ],
@@ -145,6 +175,11 @@
         {
           "label": "Ver a coleção para alergia da I Wanna Sleep",
           "href": "https://www.iwannasleep.com.br/collections/alergia",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Airgelly® 2.0 na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-airgelly",
           "sponsored": true
         }
       ],
@@ -183,6 +218,21 @@
         {
           "label": "Conhecer a coleção infantil da I Wanna Sleep",
           "href": "https://www.iwannasleep.com.br/collections/kids",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Original Látex® (P, M ou G) na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-iws-original-latex",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Snow® Kids na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-iws-snow-kids",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Apoio de Joelhos Coluna Relax® na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/trv-joelho-coluna-relax",
           "sponsored": true
         }
       ],
@@ -230,6 +280,31 @@
           "label": "Conhecer a coleção de Pluma Natural da I Wanna Sleep",
           "href": "https://www.iwannasleep.com.br/collections/pluma-natural",
           "sponsored": true
+        },
+        {
+          "label": "Ver o Blue Látex na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/trv-blue-latex",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Magnum Pluma AirFiber na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/trv-magnum-pluma-airfiber-iws",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Skin® na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-iws-skin",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Pluma Natural Premium na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-pluma-premium",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Pena e Pluma Natural na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-pena-e-pluma",
+          "sponsored": true
         }
       ],
       "image": "/images/reviews/iwannasleep/iws-categoria-latex.webp",
@@ -268,7 +343,29 @@
       "imageAlt": "Linha de travesseiros para viagem da I Wanna Sleep: Snow Mini e Travel Pillow U",
       "imageCaption": "Linha Viagem: Snow® Mini e as duas versões do Travel Pillow U.",
       "imageFit": "contain",
-      "imageAspectRatio": 2.41
+      "imageAspectRatio": 2.41,
+      "links": [
+        {
+          "label": "Ver o Snow® Mini na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-iws-snow-mini",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Snow® Body na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travesseiro-de-corpo-iws-snow-body",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Travel Pillow U Off Night na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travel-pillow-iws-off-night",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Travel Pillow U Flow na loja oficial",
+          "href": "https://www.iwannasleep.com.br/products/travel-pillow-iws-flow",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Cuidados e durabilidade: capas e protetores",
@@ -299,8 +396,8 @@
           "sponsored": true
         },
         {
-          "label": "Ficha técnica e fotos reais do Travesseiro Snow IWS",
-          "href": "/reviews/i-wanna-sleep-travesseiro-snow-ficha-tecnica"
+          "label": "Ver o que achamos da I Wanna Sleep, com o Snow e o Cervical",
+          "href": "/reviews/i-wanna-sleep-e-boa"
         },
         {
           "label": "Conhecer o Cobertor Igloo frio e quente da IWS",
@@ -357,77 +454,5 @@
       "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca"
     }
   ],
-  "gallery": [
-    {
-      "image": "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
-      "alt": "Coleção de travesseiros I Wanna Sleep",
-      "caption": "Coleção IWS: linhas ergonômicas, viscoelásticas, látex e fibras para cada perfil de sono."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
-      "alt": "Travesseiro Snow com tecido de toque frio",
-      "caption": "Travesseiro Snow: enchimento regulável e capa de toque frio, segundo a fabricante."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/iws-missao-dormir-melhor.webp",
-      "alt": "Ambiente de repouso aconchegante",
-      "caption": "Altura e apoio do travesseiro influenciam a posição da cabeça e do pescoço durante o repouso."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
-      "alt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep",
-      "caption": "Cervical Coluna Relax®: formato côncavo central e curvas onduladas, segundo a fabricante."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
-      "alt": "Travesseiro Airgelly 2.0 da I Wanna Sleep",
-      "caption": "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável (à mão) do catálogo IWS."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
-      "alt": "Detalhe do látex natural do Travesseiro Original Látex",
-      "caption": "Original Látex®: disponível em três alturas (P, M e G)."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/iws-categoria-cervicais-ergonomicos.webp",
-      "alt": "Linha Cervicais e Ergonômicos completa da I Wanna Sleep",
-      "caption": "Linha Cervicais/Ergonômicos: Coluna Relax®, Neck Plus Charcoal™, Neck Plus Gel™ e Ergoblu™."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/iws-categoria-memory-foam.webp",
-      "alt": "Linha Memory Foam completa da I Wanna Sleep",
-      "caption": "Linha Memory Foam: Snow®, Neck Plus Gel™, Ergoblu™ e Bubble Gel®."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/travesseiro-airgelly-render-3d.webp",
-      "alt": "Render 3D do travesseiro Airgelly 2.0",
-      "caption": "Airgelly® 2.0: estrutura vazada que, segundo a fabricante, é lavável à mão em água corrente."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/iws-categoria-regulagem-altura-snow.webp",
-      "alt": "Família Snow da I Wanna Sleep: Snow, Snow Kids, Snow Body e Snow Mini",
-      "caption": "Família Snow®: Snow, Kids e Mini permitem retirar enchimento; o Body, retirar ou reposicionar os flocos."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/iws-categoria-latex.webp",
-      "alt": "Linha Látex da I Wanna Sleep",
-      "caption": "Linha Látex: Original Látex® e Blue Látex."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/iws-categoria-plumas-magnum-skin.webp",
-      "alt": "Linha Fibra da I Wanna Sleep: Magnum Pluma AirFiber e Skin",
-      "caption": "Linha Fibra: Magnum Pluma AirFiber."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/iws-categoria-pluma-natural.webp",
-      "alt": "Linha Pluma Natural da I Wanna Sleep",
-      "caption": "Linha Pluma Natural: Pluma Natural Premium e Pena e Pluma Natural."
-    },
-    {
-      "image": "/images/reviews/iwannasleep/iws-categoria-viagem.webp",
-      "alt": "Linha de travesseiros para viagem da I Wanna Sleep",
-      "caption": "Linha Viagem: Snow® Mini e Travel Pillow U."
-    }
-  ],
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-22"
 }
