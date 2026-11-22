@@ -56579,6 +56579,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/colaedecora/cama-montessoriana-colaedecora-baixa.webp",
+      "local_url": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-baixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 178238,
+      "sha256": "b11db6550951db8d047b97dcf45b5ef4b955ef517349e102fb468716ef5d7895",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cama-montessoriana-colaedecora-baixa.webp",
+      "storage_filename": "cama-montessoriana-colaedecora-baixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-colaedecora.json",
+        "content/reviews/cama-montessoriana-colaedecora.json",
+        "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-colaedecora.json",
+          "line": 154,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-baixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cama-montessoriana-colaedecora.json",
+          "line": 105,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-baixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+          "line": 154,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-baixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276503,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-baixa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276694,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-baixa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277219,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-baixa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b11db6550951db8d047b97dcf45b5ef4b955ef517349e102fb468716ef5d7895/cama-montessoriana-colaedecora-baixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b11db6550951db8d047b97dcf45b5ef4b955ef517349e102fb468716ef5d7895/cama-montessoriana-colaedecora-baixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:58:24.028Z",
+      "verification_etag_or_digest": "b11db6550951db8d047b97dcf45b5ef4b955ef517349e102fb468716ef5d7895",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/colaedecora/cama-montessoriana-colaedecora-bella.webp",
       "local_url": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-bella.webp",
       "media_kind": "image",
@@ -56714,6 +56790,173 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T21:33:04.533Z",
       "verification_etag_or_digest": "4c6d5fe1f5be8565f9740c50a898f49adbaaf947e175054c1014c72b0a75df47",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cama-montessoriana-colaedecora-casinha.webp",
+      "local_url": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-casinha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77586,
+      "sha256": "97ac1dcf1c169e0811d4a5579a25934c4de8d4ff2375e48fff6f53b3c1987d72",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cama-montessoriana-colaedecora-casinha.webp",
+      "storage_filename": "cama-montessoriana-colaedecora-casinha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-colaedecora.json",
+        "content/reviews/cama-montessoriana-colaedecora.json",
+        "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-colaedecora.json",
+          "line": 178,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-casinha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cama-montessoriana-colaedecora.json",
+          "line": 164,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-casinha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+          "line": 168,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-casinha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276527,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-casinha.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276753,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-casinha.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277233,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-casinha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/97ac1dcf1c169e0811d4a5579a25934c4de8d4ff2375e48fff6f53b3c1987d72/cama-montessoriana-colaedecora-casinha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/97ac1dcf1c169e0811d4a5579a25934c4de8d4ff2375e48fff6f53b3c1987d72/cama-montessoriana-colaedecora-casinha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:58:24.318Z",
+      "verification_etag_or_digest": "97ac1dcf1c169e0811d4a5579a25934c4de8d4ff2375e48fff6f53b3c1987d72",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+      "local_url": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 254332,
+      "sha256": "6d7493e936d77aa58a315321a8cbdd848bd58132227a42ad7fa89396d17e82d2",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cama-montessoriana-colaedecora-cercadinho.webp",
+      "storage_filename": "cama-montessoriana-colaedecora-cercadinho.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-colaedecora.json",
+        "content/reviews/cama-montessoriana-colaedecora.json",
+        "content/reviews/colaedecora-e-confiavel.json",
+        "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-colaedecora.json",
+          "line": 170,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cama-montessoriana-colaedecora.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/colaedecora-e-confiavel.json",
+          "line": 111,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+          "line": 161,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276519,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276739,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277012,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277226,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cama-montessoriana-colaedecora-cercadinho.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6d7493e936d77aa58a315321a8cbdd848bd58132227a42ad7fa89396d17e82d2/cama-montessoriana-colaedecora-cercadinho.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6d7493e936d77aa58a315321a8cbdd848bd58132227a42ad7fa89396d17e82d2/cama-montessoriana-colaedecora-cercadinho.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:58:24.645Z",
+      "verification_etag_or_digest": "6d7493e936d77aa58a315321a8cbdd848bd58132227a42ad7fa89396d17e82d2",
       "verification_status": "verified"
     },
     {
@@ -57085,6 +57328,67 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+      "local_url": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29702,
+      "sha256": "82ce11bfa7c201061fd5a41f52ba3edecde78856b5e7251a9955b5f3a0d63175",
+      "width": 318,
+      "height": 943,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+      "storage_filename": "colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colaedecora-e-confiavel.json",
+        "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colaedecora-e-confiavel.json",
+          "line": 72,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276973,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277181,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/82ce11bfa7c201061fd5a41f52ba3edecde78856b5e7251a9955b5f3a0d63175/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/82ce11bfa7c201061fd5a41f52ba3edecde78856b5e7251a9955b5f3a0d63175/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:58:24.905Z",
+      "verification_etag_or_digest": "82ce11bfa7c201061fd5a41f52ba3edecde78856b5e7251a9955b5f3a0d63175",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
       "local_url": "/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp",
       "media_kind": "image",
@@ -57220,6 +57524,127 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T21:33:06.926Z",
       "verification_etag_or_digest": "931a29e1f7c8c5486059722c51f147e95e20e4e32039f930c26e98bb7b6ccd89",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+      "local_url": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47052,
+      "sha256": "3c053c78051a2631079074942d87e0cfd47d896b4d63be6291713432e727be94",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-colaedecora-prateleira-theo-rosa.webp",
+      "storage_filename": "cupom-colaedecora-prateleira-theo-rosa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-colaedecora.json",
+        "content/reviews/cama-montessoriana-colaedecora.json",
+        "content/reviews/colaedecora-e-confiavel.json",
+        "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+        "content/reviews/cupom-colaedecora-como-usar.json",
+        "content/reviews/cupom-colaedecora-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-colaedecora.json",
+          "line": 103,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cama-montessoriana-colaedecora.json",
+          "line": 293,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/colaedecora-e-confiavel.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/colaedecora-reclame-aqui-nota-reputacao.json",
+          "line": 183,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-colaedecora-como-usar.json",
+          "line": 131,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-colaedecora-primeira-compra.json",
+          "line": 95,
+          "column": 19,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276303,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276452,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276882,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277036,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277248,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277375,
+          "column": 21,
+          "literal": "/images/reviews/colaedecora/cupom-colaedecora-prateleira-theo-rosa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3c053c78051a2631079074942d87e0cfd47d896b4d63be6291713432e727be94/cupom-colaedecora-prateleira-theo-rosa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3c053c78051a2631079074942d87e0cfd47d896b4d63be6291713432e727be94/cupom-colaedecora-prateleira-theo-rosa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-21T23:58:25.183Z",
+      "verification_etag_or_digest": "3c053c78051a2631079074942d87e0cfd47d896b4d63be6291713432e727be94",
       "verification_status": "verified"
     },
     {
@@ -195621,7 +196046,7 @@
       "remote_key": "v1/image/3f96b33510c1cdc2e205e311ce86dca67121aebbb83477fe08e29d944b9b77d9/base-biobio-bastao-cores-bastao.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3f96b33510c1cdc2e205e311ce86dca67121aebbb83477fe08e29d944b9b77d9/base-biobio-bastao-cores-bastao.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T00:08:57.403Z",
+      "verified_at": "2026-11-22T00:12:36.952Z",
       "verification_etag_or_digest": "3f96b33510c1cdc2e205e311ce86dca67121aebbb83477fe08e29d944b9b77d9",
       "verification_status": "verified"
     },
@@ -195667,7 +196092,7 @@
       "remote_key": "v1/image/44d0293edca3955033ebe3977a331e7f27d176e816d0a46dd76ad1f8f9faaf10/base-biobio-bastao-cores-oito-tons-no-braco.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/44d0293edca3955033ebe3977a331e7f27d176e816d0a46dd76ad1f8f9faaf10/base-biobio-bastao-cores-oito-tons-no-braco.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T00:08:57.404Z",
+      "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "44d0293edca3955033ebe3977a331e7f27d176e816d0a46dd76ad1f8f9faaf10",
       "verification_status": "verified"
     },
@@ -195713,7 +196138,7 @@
       "remote_key": "v1/image/317fddb6da11bed977bed4011e13189881a418ce4d3fc907ad4fb4a50741c89c/base-biobio-bastao-cores-tom-700.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/317fddb6da11bed977bed4011e13189881a418ce4d3fc907ad4fb4a50741c89c/base-biobio-bastao-cores-tom-700.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T00:08:57.404Z",
+      "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "317fddb6da11bed977bed4011e13189881a418ce4d3fc907ad4fb4a50741c89c",
       "verification_status": "verified"
     },
@@ -195759,7 +196184,7 @@
       "remote_key": "v1/image/e05bbf9b1be9927d638744054f2894470e278557f3a948fa0953cfcceaf3736c/base-biobio-bastao-cores-tom-800.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e05bbf9b1be9927d638744054f2894470e278557f3a948fa0953cfcceaf3736c/base-biobio-bastao-cores-tom-800.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T00:08:57.404Z",
+      "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "e05bbf9b1be9927d638744054f2894470e278557f3a948fa0953cfcceaf3736c",
       "verification_status": "verified"
     },
@@ -195805,7 +196230,7 @@
       "remote_key": "v1/image/c7819128cd830a931be476884e6a094eb799d333eb892faa0cca84ba3785f1ac/base-biobio-bastao-cores-trio-essencial.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c7819128cd830a931be476884e6a094eb799d333eb892faa0cca84ba3785f1ac/base-biobio-bastao-cores-trio-essencial.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T00:08:57.404Z",
+      "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "c7819128cd830a931be476884e6a094eb799d333eb892faa0cca84ba3785f1ac",
       "verification_status": "verified"
     },
@@ -195851,7 +196276,7 @@
       "remote_key": "v1/image/f93d52525a56a2a4b2959500039978dbe5b76c5e6430790bac390889850e42a6/biobio-e-confiavel-rodape-site-oficial.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f93d52525a56a2a4b2959500039978dbe5b76c5e6430790bac390889850e42a6/biobio-e-confiavel-rodape-site-oficial.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T00:08:57.404Z",
+      "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "f93d52525a56a2a4b2959500039978dbe5b76c5e6430790bac390889850e42a6",
       "verification_status": "verified"
     },
@@ -195897,7 +196322,7 @@
       "remote_key": "v1/image/5c77023e46b1b85ed25bba232bec0ab7847fb48d705f61c6ce40fc15f5c8bfe9/black-friday-biobio-bastao-anti-inchaco.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5c77023e46b1b85ed25bba232bec0ab7847fb48d705f61c6ce40fc15f5c8bfe9/black-friday-biobio-bastao-anti-inchaco.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T00:08:57.404Z",
+      "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "5c77023e46b1b85ed25bba232bec0ab7847fb48d705f61c6ce40fc15f5c8bfe9",
       "verification_status": "verified"
     },
@@ -195943,7 +196368,7 @@
       "remote_key": "v1/image/cf06fc18e3765ba0e9d5a51c61ec70326450cc1bf4a97a76c55ae0a4af2b5f68/black-friday-biobio-lip-oil.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cf06fc18e3765ba0e9d5a51c61ec70326450cc1bf4a97a76c55ae0a4af2b5f68/black-friday-biobio-lip-oil.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T00:08:57.404Z",
+      "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "cf06fc18e3765ba0e9d5a51c61ec70326450cc1bf4a97a76c55ae0a4af2b5f68",
       "verification_status": "verified"
     },
@@ -195989,7 +196414,7 @@
       "remote_key": "v1/image/279b5473869ce6fefb52c8f5d56fda54077a88221d028cebae07f47a6c81eac4/protetor-solar-biobio-e-bom-linha-completa.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/279b5473869ce6fefb52c8f5d56fda54077a88221d028cebae07f47a6c81eac4/protetor-solar-biobio-e-bom-linha-completa.webp",
       "uploaded_at": null,
-      "verified_at": "2026-11-22T00:08:57.404Z",
+      "verified_at": "2026-11-22T00:12:36.953Z",
       "verification_etag_or_digest": "279b5473869ce6fefb52c8f5d56fda54077a88221d028cebae07f47a6c81eac4",
       "verification_status": "verified"
     }
