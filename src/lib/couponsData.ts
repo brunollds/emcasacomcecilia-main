@@ -3599,7 +3599,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'holyfoods',
-    cartPrint: { src: '/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp', alt: 'Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado', aspectRatio: 1.341 },
+    cartPrint: { article: 'cupom-holyfoods-como-usar', src: '/images/reviews/holyfoods/cupom-holyfoods-checkout-com-cupom.webp', alt: 'Resumo da compra na HolyFoods com a linha Descontos e o aviso Cupom EMCASA adicionado', aspectRatio: 1.341 },
     brand: 'HolyFoods',
     officialUrl: 'https://holyfoods.com.br/',
     offerUrl: 'https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz',
@@ -3625,25 +3625,85 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis a partir de um valor mínimo que muda conforme o estado; o carrinho mostra quanto falta para a sua região, e o prazo aparece no checkout',
-    combinable: 'Soma com as promoções do site, inclusive nos produtos que já estão com desconto, e vale com todas as formas de pagamento',
+      'Frete grátis a partir de R$ 199 em SP, de R$ 249 no RJ, em MG, no DF e no PR e de R$ 289 em GO, SC, ES e RS; nos outros estados, o frete sai pelo CEP no checkout. O carrinho mostra quanto falta para a sua região, e o prazo aparece no checkout',
+    combinable: 'Soma com as promoções do site, inclusive com os 30% da Black da Holy, e vale no Pix e no cartão',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 15% entram sobre os produtos que já estão com desconto da loja' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de um mínimo que muda conforme o estado; o carrinho mostra quanto falta para a sua região' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O EMCASA vale no pagamento por Pix; na consulta mais recente, a loja não dava desconto extra no Pix' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 199 em SP, de R$ 249 no RJ, em MG, no DF e no PR e de R$ 289 em GO, SC, ES e RS; nos outros estados, pelo CEP' },
     ],
-    lastVerified: '2026-11-12',
-    testedAt: '2026-11-12',
+    paymentPerks: [
+      'Até 3x sem juros no cartão',
+      'Pix ou cartão de crédito',
+    ],
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Aplicamos o EMCASA num carrinho com dois Kits Veganos de 10 unidades, R$ 250,60: o cupom tirou R$ 37,59 e o total caiu para R$ 213,01, os 15%. O checkout abriu com um cupom de campanha da própria loja no campo, e foi preciso removê-lo para colocar o EMCASA. Em 05/11/2026, num carrinho de R$ 69,79 com um Pack Sopa da Vovó e duas Sopas Detox, todos já com desconto da loja, o cupom tirou R$ 10,47 e o total caiu para R$ 59,32: os 15% inteiros sobre o preço promocional.',
+      'Com a Black da Holy no ar, aplicamos o EMCASA em dois Projetos 21 Dias, R$ 205,80 já com os 30% da campanha: o cupom tirou R$ 30,87 e o total caiu para R$ 174,93, os 15% inteiros por cima do preço da Black. Em 12/11/2026, o checkout abriu com um cupom de campanha da própria loja no campo, e foi preciso removê-lo para colocar o EMCASA; no teste mais recente, o campo veio vazio. Em 05/11/2026, num carrinho de R$ 69,79 com um Pack Sopa da Vovó e duas Sopas Detox, todos já com desconto da loja, o cupom tirou R$ 10,47 e o total caiu para R$ 59,32: os 15% inteiros sobre o preço promocional.',
     codeInstructions: [
       'Copie o código EMCASA no card acima.',
-      'Acesse o site oficial da HolyFoods pelo botão indicado e coloque os produtos no carrinho.',
-      'Na tela "Finalizar compra", clique em "Inserir cupom de desconto", cole o código no campo "Código do cupom" e clique em "Adicionar".',
+      'Acesse o site oficial da HolyFoods pelo botão indicado, coloque os produtos no carrinho e clique em "Finalizar compra".',
+      'No resumo da compra, clique em "Inserir cupom de desconto", cole o código no campo "Código do cupom" e clique em "Adicionar". Se outro código já estiver aplicado, remova-o antes.',
       'Confira a linha "Cupom de desconto" no resumo da compra antes de pagar.',
     ],
     aboutBrand:
-      'A HolyFoods é uma marca brasileira de refeições prontas para preparar em casa: sopas, macarrões, risotos, aveias, mel e kits, vendidos no site oficial, da Holy Group Ltda (CNPJ 50.874.415/0001-62). O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 15% OFF em todo o site e soma com os preços que já estão em promoção. A recomendação é conferir o resumo da compra antes de pagar.',
+      'A HolyFoods é uma marca brasileira de refeições prontas para preparar em casa: sopas, macarrões, risotos e kits, vendidos no site oficial, da Holy Group Ltda (CNPJ 50.874.415/0001-62). O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 15% OFF em todo o site e soma com os preços que já estão em promoção. A recomendação é conferir o resumo da compra antes de pagar.',
+    relatedContent: [
+      {
+        title: 'Como usar o cupom EMCASA na HolyFoods e onde ele vale',
+        url: '/reviews/cupom-holyfoods-como-usar',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+      {
+        title: 'Cupom HolyFoods primeira compra: EMCASA dá 15% OFF e vale nas compras seguintes',
+        url: '/reviews/cupom-holyfoods-primeira-compra',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+      {
+        title: 'Black Friday HolyFoods 2026: 30% no site todo, os kits da Black e o cupom EMCASA por cima',
+        url: '/reviews/black-friday-holyfoods',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+      {
+        title: 'HolyFoods é boa? Sopas, risotos e macs pelo rótulo, um a um',
+        url: '/reviews/holyfoods-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-10',
+      },
+      {
+        title: 'Como preparar HolyFoods: sopa, risoto e mac, com a água e o tempo de cada ficha',
+        url: '/reviews/holyfoods-como-preparar',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'Projeto 21 Dias HolyFoods: o que vem no kit, quanto custa por sachê e como preparar',
+        url: '/reviews/holyfoods-projeto-21-dias',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'HolyFoods ou Mexidona: sopas, risotos e macs pela tabela e pelo preço por 100 g',
+        url: '/reviews/holyfoods-ou-mexidona',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'HolyFoods é confiável? CNPJ, site oficial, entrega e a garantia de 30 dias',
+        url: '/reviews/holyfoods-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+      {
+        title: 'HolyFoods no Reclame Aqui: nota, reputação e do que as pessoas reclamam',
+        url: '/reviews/holyfoods-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+    ],
     faqs: [
       {
         question: 'O cupom EMCASA vale para todos os produtos da HolyFoods?',
@@ -3682,12 +3742,17 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A HolyFoods tem frete grátis?',
         answer:
-          'Sim, a partir de um valor mínimo que muda conforme o estado. O carrinho mostra quanto falta para o frete grátis na sua região, e o prazo de entrega aparece no checkout.',
+          'Sim, com valor mínimo por região: a partir de R$ 199 em SP, de R$ 249 no RJ, em MG, no DF e no PR e de R$ 289 em GO, SC, ES e RS. Nos outros estados, o frete é calculado pelo CEP no checkout, onde também aparece o prazo.',
       },
       {
         question: 'E se eu não gostar dos produtos?',
         answer:
-          'Pela garantia da loja, você tem 30 dias depois de receber para pedir a devolução: pode provar uma unidade, e as outras voltam fechadas. A devolução é sem custo, com reembolso dos produtos devolvidos.',
+          'Pela garantia da loja, você tem 30 dias depois de receber para pedir a devolução: pode provar uma unidade, e as outras voltam fechadas. A devolução é sem custo, com reembolso dos produtos devolvidos. A garantia vem além do direito de desistir em até 7 dias do recebimento, previsto no Código de Defesa do Consumidor; o pedido vai para contato@holyfoods.com.br, com o número do pedido.',
+      },
+      {
+        question: 'A HolyFoods tem desconto no Pix e parcela no cartão?',
+        answer:
+          'A loja aceita Pix e cartão de crédito e parcela em até 3x sem juros. Na nossa consulta mais recente, o preço no Pix era o mesmo do cartão, sem desconto extra; o EMCASA vale nas duas formas de pagamento.',
       },
       {
         question: 'O cupom EMCASA está funcionando hoje?',
