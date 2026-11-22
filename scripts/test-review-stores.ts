@@ -399,6 +399,18 @@ for (const block of blocks) {
 }
 assert.deepEqual(getArticleStoreBlocks(base, 'pt', now), [], 'uma loja: nenhum bloco a mais');
 
+// Loja de faixas: o código de uma faixa (10EMCASACOMCECILIA no Magalu) é da loja, com o desconto e o mínimo da faixa e
+// as regras; um código que não é da loja fica sem desconto e sem regras.
+{
+  const magaluTier = getArticleStoreBlock({ ...base, affiliate: 'magalu', coupon: '10EMCASACOMCECILIA', cta: undefined }, 'pt', now);
+  assert.ok(magaluTier, 'magalu: bloco da loja');
+  assert.equal(magaluTier.discount, 'R$ 10 OFF a partir de R$ 499,90', 'magalu: desconto da faixa do código');
+  assert.ok(magaluTier.rules.length > 0, 'magalu: regras com o código de faixa');
+  const foreign = getArticleStoreBlock({ ...base, affiliate: 'magalu', coupon: 'NAOEDAMAGALU', cta: undefined }, 'pt', now);
+  assert.equal(foreign?.discount, undefined, 'código alheio: sem desconto');
+  assert.deepEqual(foreign?.rules, [], 'código alheio: sem regras');
+}
+
 // Código com prazo no artigo de várias lojas: a linha da I Wanna Sleep leva os prazos pendentes dela (o ativo e o
 // agendado), a da outra loja nenhum, e o que venceu sai. O esperado sai dos prazos de couponsData.ts, para a troca ou a
 // limpeza de um prazo não quebrar o build; o caso inventado de prazo ativo e agendado fica no guarda do test:build-output.
