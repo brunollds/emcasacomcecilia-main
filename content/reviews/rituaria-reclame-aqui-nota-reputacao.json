@@ -23,10 +23,10 @@
   "coupon": "EMCASA",
   "affiliate": "rituaria",
   "title": "Rituária no Reclame Aqui: nota, reputação e o que mais gera reclamação",
-  "seoTitle": "Rituária no Reclame Aqui: nota e reclamações",
+  "seoTitle": "Rituária no Reclame Aqui: nota 8,8 e reclamações",
   "type": "Análise de Reputação",
-  "description": "A nota da Rituária no Reclame Aqui, as queixas que mais aparecem, quanto a empresa demora a responder e o que fazer no portal de trocas antes de abrir uma reclamação.",
-  "metaDescription": "O cupom EMCASA dá 10% OFF na Rituária. Antes, veja a nota no Reclame Aqui, o que mais gera reclamação e o que fazer antes de reclamar.",
+  "description": "A nota da Rituária no Reclame Aqui em cinco janelas, o que ela mede, os pontos positivos, o motivo mais citado de reclamação e como falar com a loja.",
+  "metaDescription": "O cupom EMCASA dá 10% OFF na Rituária. Veja a nota 8,8 no Reclame Aqui, o que mais gera reclamação e como falar com a loja.",
   "image": "/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa-v2.webp",
   "imageAlt": "Embalagem de Femme Protein sabor Abacaxi com Hortelã da Rituária, em foto oficial montada sobre uma bancada âmbar ilustrativa. A capa traz o logo Rituária e a chamada “Reclame Aqui — Nota e queixas”, com o cupom EMCASA.",
   "cta": {
@@ -47,120 +47,132 @@
       "slug": "rituaria-e-boa"
     }
   ],
+  "updatedAt": "2026-11-22",
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "No Reclame Aqui, a Rituária tem reputação máxima (RA1000) e nota 8,7 no recorte de maio a outubro de 2026. Segundo o perfil, todas as reclamações foram respondidas e 93,8% das avaliadas constam como resolvidas. Na aba geral, de até três anos, a queixa mais citada é produto não recebido, então vale acompanhar o rastreio desde o primeiro dia."
+        "No Reclame Aqui, a Rituária tem reputação RA1000, nota 8,8 nos últimos seis meses, selo de Empresa Verificada e 100% das 708 reclamações respondidas. O ponto de atenção é produto não recebido, o motivo mais citado na aba Geral. O [cupom Rituária](/cupons/rituaria) EMCASA dá 10% OFF no site oficial."
       ]
     },
     {
-      "heading": "A nota em números",
+      "heading": "A nota e os indicadores de cada período",
       "paragraphs": [
-        "A reputação é a máxima do Reclame Aqui, RA1000, e os números abaixo valem para a janela da tabela. Os índices de resolvidas e de quem voltaria a fazer negócio valem só para as reclamações avaliadas, não para o total."
+        "Consultamos o perfil da Rituária em 22/11 e anotamos as cinco janelas que ele mostra: seis meses, 12 meses, os anos de 2025 e 2024 e a aba Geral, que reúne até três anos. Cada coluna da tabela vem da aba de mesmo nome, e a de seis meses é a mais recente."
       ],
       "comparisonTable": {
-        "caption": "Perfil da Rituária no Reclame Aqui, de 01/05/2026 a 31/10/2026.",
+        "caption": "Indicadores da Rituária no Reclame Aqui por aba de período. Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
         "headers": [
           "Indicador",
-          "Seis meses"
+          "6 meses",
+          "12 meses",
+          "2025",
+          "2024",
+          "Geral"
         ],
         "rows": [
           [
             "Reputação",
-            "RA1000"
-          ],
-          [
-            "Nota média",
-            "8,7"
+            "RA1000, 8,8",
+            "RA1000, 8,7",
+            "RA1000, 8,4",
+            "RA1000, 8,5",
+            "RA1000, 8,6"
           ],
           [
             "Reclamações recebidas",
-            "710"
+            "708",
+            "1.855",
+            "920",
+            "92",
+            "2.597"
           ],
           [
             "Respondidas",
-            "100%"
-          ],
-          [
-            "Resolvidas, entre as avaliadas",
-            "93,8%"
-          ],
-          [
-            "Voltariam a fazer negócio, entre as avaliadas",
-            "78,6%"
+            "100%",
+            "100%",
+            "100%",
+            "100%",
+            "98,7%"
           ],
           [
             "Avaliadas",
-            "418"
+            "419",
+            "1.176",
+            "614",
+            "61",
+            "1.606"
+          ],
+          [
+            "Índice de solução, nas avaliadas",
+            "94,2%",
+            "96%",
+            "95,2%",
+            "96,6%",
+            "95,5%"
+          ],
+          [
+            "Voltariam a fazer negócio, nas avaliadas",
+            "78,7%",
+            "77,1%",
+            "71,1%",
+            "72,4%",
+            "75%"
           ],
           [
             "Nota média do consumidor",
-            "7,87"
+            "7,89",
+            "7,67",
+            "7,18",
+            "7,24",
+            "7,5"
           ],
           [
             "Tempo médio de resposta",
-            "4 dias e 12 horas"
+            "4 dias e 12 horas",
+            "3 dias e 9 horas",
+            "2 dias e 10 horas",
+            "2 dias e 16 horas",
+            "3 dias e 6 horas"
           ]
         ]
       },
       "postParagraphs": [
-        "São duas notas diferentes: 8,7 é a nota média da empresa nos últimos seis meses, e 7,87 é a nota média do consumidor, de quem avaliou."
+        "Na aba Geral, 33 reclamações aguardavam resposta, e é por isso que o índice de respondidas aparece como 98,7%. Nas demais abas, nenhuma estava sem resposta."
       ],
       "images": [
         {
-          "src": "/images/reviews/rituaria/rituaria-reclame-aqui-indicadores.webp",
-          "alt": "Quadro de indicadores do perfil da Rituária no Reclame Aqui, com reputação, nota, reclamações, respostas e índices da aba de seis meses",
-          "caption": "Quadro do perfil da Rituária no Reclame Aqui, aba de seis meses.",
-          "objectFit": "contain",
-          "aspectRatio": 1.2144082332761579
+          "src": "/images/reviews/rituaria/rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+          "alt": "Topo do perfil da Rituária no Reclame Aqui com o selo RA1000 e o selo Empresa Verificada",
+          "caption": "Perfil da Rituária no Reclame Aqui, com o selo RA1000 e a marca de Empresa Verificada.",
+          "objectFit": "cover",
+          "aspectRatio": 1.786
         }
       ]
     },
     {
-      "heading": "Histórico de seis meses",
+      "heading": "O que a nota e o selo medem (e não medem)",
       "paragraphs": [
-        "A reputação não mudou no período. Em todos os meses de maio a outubro, o perfil ficou em RA1000.",
-        "Foram 710 reclamações recebidas e 418 avaliadas nessa janela. Sem o número de pedidos da loja, esses dados não mostram a proporção de compras que tiveram problema.",
-        "Não confunda com o total: a lista de reclamações guarda 2.625 registros ativos, de todas as épocas. Os 710 são só da janela de seis meses."
-      ],
-      "postParagraphs": [
-        "Para acompanhar, abra o perfil antes de comprar. O histórico mês a mês fica na própria página."
+        "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade dos suplementos nem dos séruns, e muda conforme novas reclamações entram e são avaliadas. A [metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui) explica o cálculo.",
+        "Há duas notas diferentes no perfil. A de 8,8 é a reputação da empresa, calculada pela plataforma com os indicadores da tabela. A de 7,89 é a média das notas que os próprios consumidores deram ao atendimento depois de encerrar a reclamação.",
+        "O RA1000 é a faixa máxima de reputação do Reclame Aqui, e a Rituária aparece com ele em todas as cinco janelas. O selo de Empresa Verificada vem de uma verificação mensal, que o Reclame Aqui diz garantir que a empresa existe. Os dois descrevem o atendimento às reclamações, e não o efeito de qualquer produto."
       ]
     },
     {
-      "heading": "O que mais gera reclamação",
+      "heading": "Pontos positivos",
       "paragraphs": [
-        "A entrega lidera. Na aba geral do perfil, que soma até três anos, a categoria “Produto não recebido” aparece em 32,3% das reclamações.",
-        "Nos vinte títulos mais recentes da lista, os temas se repetem. A contagem é só pelo título:"
+        "Estes são os sinais favoráveis que o perfil mostrava na consulta:"
       ],
       "bullets": [
-        "Entrega: pedido não recebido, sem rastreio ou marcado como entregue sem chegar. São nove.",
-        "Promoção e brinde: brinde que não chegou ou veio em quantidade menor do que o prometido na promoção. São três.",
-        "Reação: relato de reação ao produto ou de falta de informação sobre reações. São três, e um cita alergia.",
-        "Devolução, estorno ou cancelamento: pedido de código de devolução, de crédito ou de cancelamento. São três.",
-        "Produto incompleto: suplemento que veio com menos cápsulas. É um.",
-        "Resultado e garantia: cliente diz que não teve resultado e foi cobrado pela garantia. É um."
+        "**Respostas.** Nos seis meses, 100% das 708 reclamações tiveram resposta, sem nenhuma aguardando. O mesmo vale para as abas de 12 meses, 2025 e 2024.",
+        "**Reputação.** A faixa é RA1000 nas cinco janelas, com nota de 8,4 a 8,8.",
+        "**Solução, nas avaliadas.** Entre as 419 reclamações avaliadas nos seis meses, 94,2% foram consideradas resolvidas, e 78,7% dos autores disseram que voltariam a fazer negócio.",
+        "**Empresa Verificada e tempo de casa.** O perfil tem o selo de empresa verificada e está no Reclame Aqui há 5 anos.",
+        "**Ranking.** A Rituária aparece em 5º lugar em Melhor empresa, na categoria Suplementos Alimentares e Fórmulas.",
+        "**Palavra da marca.** A página Sobre nós diz que a Rituária é “uma das marcas mais bem avaliadas do Brasil dentro do Reclame Aqui no segmento de cosméticos e bem-estar”. Essa frase é da loja. O que vale são os números da tabela."
       ],
       "postParagraphs": [
-        "São relatos, sem julgar quem tem razão em cada caso. Como a entrega lidera, guarde o número do pedido e acompanhe o rastreio pelo site desde o primeiro dia. Se o pedido parar, o caminho está no capítulo Antes de reclamar.",
-        "Se você toma remédios, está grávida ou amamenta, converse com médico ou nutricionista antes de usar suplementos."
-      ]
-    },
-    {
-      "heading": "Os dois lados da nota",
-      "paragraphs": [
-        "Segundo o perfil, a empresa responde tudo na janela, mas a espera e a entrega pedem atenção.",
-        "Do lado bom, segundo o perfil, todas as reclamações da janela tiveram resposta, e quase todas as avaliadas constam como resolvidas. A própria marca diz, na página Sobre nós, que é “uma das marcas mais bem avaliadas do Brasil dentro do Reclame Aqui no segmento de cosméticos e bem-estar”. Essa frase é dela. O número que vale é o da tabela.",
-        "Do outro lado, a resposta leva quatro dias e meio em média, e 78,6% de quem avaliou voltaria a fazer negócio. Ou seja, cerca de um em cada cinco não voltaria.",
-        "Como três dos vinte títulos recentes são de promoção ou brinde, confira o carrinho e o resumo do pedido antes de pagar. Se a compra for numa promoção, o [guia da Black Friday na Rituária](/reviews/black-friday-rituaria) mostra como o desconto aparece no checkout."
-      ]
-    },
-    {
-      "heading": "Onde a Rituária aparece no ranking",
-      "paragraphs": [
-        "Em 18 de novembro de 2026, a Rituária estava em 5º lugar em “Melhor empresa” na categoria Suplementos Alimentares e Fórmulas.",
-        "O ranking, a nota e os índices podem mudar. Confira o período de cada indicador e leia a posição como retrato de um dia, dentro dessa categoria."
+        "O ranking é um retrato do dia da consulta, dentro dessa categoria, e não um ranking de eficácia de produtos."
       ],
       "images": [
         {
@@ -173,42 +185,58 @@
       ]
     },
     {
+      "heading": "Pontos de atenção e principais queixas",
+      "paragraphs": [
+        "Os motivos saem da aba Geral, que reúne até três anos e 2.597 reclamações, e não dos seis meses da tabela. Nela, “Produto não recebido” responde por 32,23% dos principais problemas, seguido de “Produtos”, com 13,13%, e “Ecommerce Local”, com 7,32%. Como a entrega lidera, guarde o número do pedido e acompanhe o rastreio pelo site desde o primeiro dia.",
+        "Alguns cuidados na leitura dos números:"
+      ],
+      "bullets": [
+        "Sem o total de pedidos da Rituária no mesmo período, as 708 reclamações dos seis meses são um número absoluto: não viram taxa, e não dá para dizer se são muitas ou poucas para o tamanho da operação.",
+        "Solução e “voltariam a fazer negócio” valem para as 419 reclamações avaliadas, não para todos os clientes. Cerca de um em cada cinco autores avaliadores não voltaria a comprar.",
+        "A resposta leva em média 4 dias e 12 horas nos seis meses, mais que os 2 dias e 10 horas de 2025.",
+        "Os motivos da aba Geral, de até três anos, não se misturam com os indicadores dos seis meses."
+      ],
+      "postParagraphs": [
+        "Se você toma remédio, está grávida ou amamenta, converse com médico ou nutricionista antes de usar suplementos."
+      ]
+    },
+    {
       "heading": "Qual perfil é o da Rituária",
       "paragraphs": [
-        "O perfil é da empresa, não de cada produto. Ele se chama Rituária, tem o selo de empresa verificada e aparece em Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Aponta para rituaria.com.br e está no Reclame Aqui há 5 anos.",
-        "O selo vem de uma verificação mensal, que o Reclame Aqui diz garantir que a empresa existe.",
+        "O perfil é da empresa, não de cada produto. Ele se chama Rituária, tem o selo de empresa verificada e aparece em Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Aponta para rituaria.com.br.",
         "O CNPJ do perfil é 60.453.162/0003-79 e o do rodapé é 60.453.162/0001-07, da Beauty Hub Varejo Ltda, em Serra (ES). Eles têm a mesma raiz, 60.453.162. Quem vende e as regras de troca estão em [a Rituária é confiável?](/reviews/rituaria-e-confiavel)."
       ]
     },
     {
-      "heading": "Antes de reclamar: o que a loja oferece",
+      "heading": "Como a loja responde e o que guardar do pedido",
       "paragraphs": [
-        "Antes do Reclame Aqui, fale com a loja. Para troca ou devolução, use o portal de trocas. A loja informa:"
+        "Se algo der errado com o pedido, o caminho começa nos canais da própria Rituária: o portal de trocas, o chat do site, o Direct do Instagram, o WhatsApp (11) 93618-9138 e o e-mail contato@rituaria.com.br. O atendimento responde de segunda a sexta, das 08h às 17h. A loja informa:"
       ],
       "bullets": [
         "Desistência: 7 dias corridos depois do recebimento, pelo artigo 49 do Código de Defesa do Consumidor. A devolução é grátis e o reembolso é integral, com frete. O produto precisa estar completo e sem sinais de uso.",
         "Defeito, avaria ou produto errado: recuse a entrega se a embalagem estiver violada, o produto avariado ou diferente do pedido. Se perceber depois, fale com a loja em até 30 dias corridos do recebimento.",
         "Insatisfação depois do uso: não há garantia por isso. Leia a descrição do produto antes de comprar.",
-        "Cancelamento: só antes de o pedido ser separado. Depois, o caminho é recusar a entrega ou devolver.",
-        "Atendimento: de segunda a sexta, das 08h às 17h, pelo chat do site ou pelo Direct do Instagram."
+        "Cancelamento: só antes de o pedido ser separado. Depois, o caminho é recusar a entrega ou devolver."
       ],
       "postParagraphs": [
-        "Para pedir a devolução, a loja quer o número do pedido, foto do produto e da embalagem e a nota fiscal: deixe tudo à mão. Se a loja não resolver, procure o Reclame Aqui e o Procon do seu estado. Para o frete por região, veja a [tabela de frete no guia de como usar o cupom](/reviews/cupom-rituaria-como-usar)."
+        "Para pedir a devolução, a loja quer o número do pedido, foto do produto e da embalagem e a nota fiscal. Guarde também os prints do pedido e fotografe a caixa ao receber, antes de abrir. Para o frete por região, veja a [tabela de frete no guia de como usar o cupom](/reviews/cupom-rituaria-como-usar)."
       ]
     },
     {
-      "heading": "Se a compra fizer sentido",
+      "heading": "Vale a pena comprar na Rituária?",
       "paragraphs": [
-        "O cupom EMCASA dá 10% OFF no site oficial da Rituária, para cliente novo e antigo. Antes de pagar, confira o prazo de entrega e a regra de troca. Veja onde o código entra na página do [cupom Rituária](/cupons/rituaria)."
+        "Pelo Reclame Aqui, a loja responde a todas as reclamações, tem RA1000 em todas as janelas consultadas e solução de 94,2% entre as avaliadas nos seis meses. O ponto de atenção é a entrega: produto não recebido é o motivo mais citado na aba Geral, e a resposta leva mais de quatro dias em média. Ao fazer o pedido, acompanhe o rastreio e guarde as provas.",
+        "Se decidir comprar, o [cupom Rituária](/cupons/rituaria) EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, e o passo a passo do checkout está em [como usar o cupom](/reviews/cupom-rituaria-como-usar)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Rituária é confiável no Reclame Aqui? No recorte de seis meses, de maio a outubro, o perfil tem reputação RA1000 e nota 8,7. Isso descreve o atendimento às reclamações, não a qualidade ou o efeito dos produtos.",
-        "A Rituária responde às reclamações? Segundo o perfil, no recorte de seis meses, de maio a outubro, todas estavam respondidas, com tempo médio de 4 dias e 12 horas.",
-        "O que fazer se o pedido da Rituária não chegou? Confira o rastreio e fale com a loja pelo chat ou pelo Direct do Instagram, guardando o número do pedido. Se não houver solução, procure o Reclame Aqui ou o Procon.",
-        "A Rituária devolve o dinheiro? Sim, segundo a política da loja, na desistência em até sete dias corridos após o recebimento. A devolução é gratuita, o reembolso é integral, com frete, e o produto precisa estar completo e sem sinais de uso."
+        "Qual a nota da Rituária no Reclame Aqui? Na aba de seis meses, a reputação é RA1000, com nota 8,8. Nos 12 meses é RA1000, com 8,7. A média que os consumidores deram ao atendimento nos seis meses é 7,89.",
+        "A Rituária tem o selo RA1000 ou Empresa Verificada? Tem os dois. O RA1000 é a faixa máxima de reputação e o perfil aparece com ele nas cinco janelas. O de Empresa Verificada vem de uma verificação mensal da plataforma, e o perfil está lá há 5 anos.",
+        "A Rituária responde e resolve as reclamações? Nos seis meses, respondeu 100% das 708 reclamações, em média em 4 dias e 12 horas. Entre as 419 avaliadas, 94,2% foram consideradas resolvidas.",
+        "O que fazer se o pedido da Rituária não chegou? Confira o rastreio e fale com a loja pelo chat, pelo WhatsApp ou pelo e-mail contato@rituaria.com.br, com o número do pedido à mão. Produto não recebido é o motivo mais citado na aba Geral, com 32,23%.",
+        "Tem cupom de desconto na Rituária? Tem. O código EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, digitado no campo “Tem um cupom?” do checkout."
       ]
     }
   ]

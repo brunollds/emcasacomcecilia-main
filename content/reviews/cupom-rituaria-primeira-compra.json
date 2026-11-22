@@ -13,6 +13,7 @@
   },
   "publishedAt": "18 de novembro de 2026",
   "publishedAtISO": "2026-11-18",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -56,7 +57,7 @@
     {
       "heading": "Qual cupom usar na primeira compra da Rituária",
       "paragraphs": [
-        "A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos. Se você ainda está conhecendo a marca, veja quem vende e as regras de compra em [Rituária é confiável?](/reviews/rituaria-e-confiavel).",
+        "A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos, com loja própria e checkout em seguro.rituaria.com.br.",
         "Para o primeiro pedido, use EMCASA. A loja informa 10% OFF no site oficial, e no nosso teste o desconto entrou sobre o preço promocional. O mesmo código também vale para quem já é cliente.",
         "Na página do [cupom Rituária](/cupons/rituaria) ficam o código e as condições em vigor."
       ]
@@ -64,11 +65,11 @@
     {
       "heading": "Quanto o cupom tira: a conta dos carrinhos testados",
       "paragraphs": [
-        "Conta nossa: pelo resumo do checkout, o EMCASA tirou 10% do total dos dois carrinhos que montamos em 17/11. Nos dois havia produto em promoção, e os 10% entraram sobre o preço promocional.",
+        "Conta nossa: pelo resumo do checkout, o EMCASA tirou 10% do total dos dois carrinhos que montamos. Nos dois havia produto em promoção, e os 10% entraram sobre o preço promocional.",
         "O preço de vitrine pode mudar. O resumo do checkout é o que vale, então confira o seu total nele antes de pagar."
       ],
       "comparisonTable": {
-        "caption": "Os dois carrinhos no checkout da Rituária, sem frete. O total muda com o CEP.",
+        "caption": "Os dois carrinhos no checkout da Rituária, com os preços de vitrine do dia do teste e sem frete. O total muda com o CEP.",
         "headers": [
           "Produtos do carrinho",
           "Subtotal",
@@ -77,13 +78,13 @@
         ],
         "rows": [
           [
-            "Capilar Nutri 30 dias (R$ 49,90) e Fórmula Mov Nutri 30 dias (R$ 69,90)",
+            "[Capilar Nutri 30 dias](https://www.rituaria.com.br/products/capilar-nutri) e [Fórmula Mov Nutri 30 dias](https://www.rituaria.com.br/products/formula-mov-nutri)",
             "R$ 119,80",
             "R$ 11,98",
             "R$ 107,82"
           ],
           [
-            "Fórmula 4Mag 30 dias (R$ 59,90), Capilar Nutri 30 dias (R$ 49,90) e Fórmula Complexo B 60 dias (R$ 44,90)",
+            "[Fórmula 4Mag 30 dias](https://www.rituaria.com.br/products/formula-4-mag-magnesio), [Capilar Nutri 30 dias](https://www.rituaria.com.br/products/capilar-nutri) e [Fórmula Complexo B 60 dias](https://www.rituaria.com.br/products/formula-complexo-b)",
             "R$ 154,70",
             "R$ 15,47",
             "R$ 139,23"
@@ -106,18 +107,20 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
-          "alt": "Resumo do checkout da Rituária com o cupom EMCASA no campo Tem um cupom?, a linha de desconto de R$ 11,98 e o total de R$ 107,82",
-          "caption": "O EMCASA aplicado no checkout da Rituária, no nosso teste. A linha Descontos mostra quanto saiu do pedido.",
+          "src": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capilar-nutri.webp",
+          "alt": "Frasco da Fórmula Capilar Nutri da Rituária, com 30 cápsulas, em foto oficial da loja",
+          "caption": "Capilar Nutri, um dos suplementos do carrinho de teste do EMCASA.",
           "objectFit": "contain",
-          "aspectRatio": 0.894
+          "aspectRatio": 1.0,
+          "href": "https://www.rituaria.com.br/products/capilar-nutri"
         }
       ]
     },
     {
       "heading": "O mesmo código vale na segunda compra",
       "paragraphs": [
-        "Na segunda compra você digita o mesmo EMCASA, no mesmo campo do checkout: o código vale para quem já é cliente.",
+        "Na segunda compra você digita o mesmo EMCASA, no mesmo campo do checkout: o código vale para quem já é cliente, e a loja não pede que o pedido seja o primeiro. Ele vale em qualquer forma de pagamento e também entra sobre o preço promocional.",
+        "Ele também somou com a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2): no teste de 22/11, com três Brain+ iguais, o EMCASA tirou 10% do total que sobrou depois do frasco grátis. Quem volta para comprar de novo pode usar as duas coisas, conferindo o resumo antes de pagar.",
         "A loja também anuncia 10% de cashback para a próxima compra. Pelos termos, desconto e cashback não são cumulativos, e você escolhe um benefício por compra. Na próxima compra, veja no resumo do pedido qual dos dois entrou."
       ]
     },
@@ -134,7 +137,7 @@
         "**Cancelamento.** Só é possível antes de o pedido ser separado. Depois disso, o caminho é recusar a entrega ou devolver o produto, pelo portal de trocas da loja."
       ],
       "postParagraphs": [
-        "A central de ajuda da loja atende de segunda a sexta-feira, das 08h às 17h, e indica o chat do site e o Direct do Instagram. Quem toma remédio, está grávida ou amamenta fala com médico ou nutricionista antes de começar um suplemento."
+        "A central de ajuda da loja atende de segunda a sexta-feira, das 08h às 17h, e indica o chat do site e o Direct do Instagram; há também o WhatsApp (11) 93618-9138 e o e-mail contato@rituaria.com.br. Quem toma remédio, está grávida ou amamenta fala com médico ou nutricionista antes de começar um suplemento."
       ],
       "images": [
         {

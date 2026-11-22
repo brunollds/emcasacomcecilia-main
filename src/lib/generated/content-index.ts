@@ -263128,6 +263128,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "18 de novembro de 2026",
     "publishedAtISO": "2026-11-18",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -263165,7 +263166,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom EMCASA dá 10% OFF na Rituária, para cliente novo e antigo. Digite o código no campo Tem um cupom? do checkout e clique em Adicionar. Nos nossos testes, ele somou com promoção e com o Leve 3, Pague 2; confira a linha Descontos antes de pagar."
+          "O [cupom Rituária](/cupons/rituaria) EMCASA dá 10% OFF, para cliente novo e antigo. Digite o código no campo Tem um cupom? do checkout, clique em Adicionar e confira a linha Descontos. Nos nossos testes, ele somou com o preço promocional e com o Leve 3, Pague 2."
         ]
       },
       {
@@ -263195,7 +263196,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom tira: a conta dos testes",
         "paragraphs": [
-          "Nos dois carrinhos de 17/11, o EMCASA tirou 10% do total dos produtos. Conta nossa, com os preços de vitrine no momento do teste:"
+          "Nos dois carrinhos de teste, o EMCASA tirou 10% do total dos produtos. Conta nossa, com os preços de vitrine no momento do teste:"
         ],
         "comparisonTable": {
           "caption": "Carrinhos de teste, sem frete",
@@ -263207,13 +263208,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Capilar Nutri 30 dias + Fórmula Mov Nutri 30 dias",
+              "[Capilar Nutri 30 dias](https://www.rituaria.com.br/products/capilar-nutri) + [Fórmula Mov Nutri 30 dias](https://www.rituaria.com.br/products/formula-mov-nutri)",
               "R$ 119,80",
               "- R$ 11,98",
               "R$ 107,82"
             ],
             [
-              "Fórmula 4Mag 30 dias + Capilar Nutri 30 dias + Fórmula Complexo B 60 dias",
+              "[Fórmula 4Mag 30 dias](https://www.rituaria.com.br/products/formula-4-mag-magnesio) + [Capilar Nutri 30 dias](https://www.rituaria.com.br/products/capilar-nutri) + [Fórmula Complexo B 60 dias](https://www.rituaria.com.br/products/formula-complexo-b)",
               "R$ 154,70",
               "- R$ 15,47",
               "R$ 139,23"
@@ -263221,37 +263222,23 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O desconto sai do total dos produtos, já com o preço promocional de cada um: nos dois carrinhos havia item em promoção, e os 10% entraram também sobre eles."
-        ]
-      },
-      {
-        "heading": "Cupom Rituária 20 ou 15?",
-        "paragraphs": [
-          "O nosso cupom é o EMCASA, de 10%, e ele entra sobre o preço já promocional da vitrine. O desconto que vale na sua compra é o que aparece na linha Descontos do resumo: confira antes de pagar."
+          "O desconto sai do total dos produtos, já com o preço promocional de cada um: nos dois carrinhos havia item em promoção, e os 10% entraram também sobre eles.",
+          "Se você viu por aí um cupom Rituária de 15% ou de 20%, o nosso é o EMCASA, de 10%. A porcentagem que vale na sua compra é a da linha Descontos do resumo do checkout, e não a de um anúncio: confira o valor abatido antes de pagar."
         ]
       },
       {
         "heading": "Soma com promoção e com o Leve 3, Pague 2",
         "paragraphs": [
-          "Sim, somou nos nossos testes: com o preço promocional da vitrine e com a promoção Leve 3, Pague 2.",
-          "A promoção aparece no checkout, não no carrinho, e os três itens do teste estavam na página Leve 3, Pague 2. No dia 18/11, o carrinho com a Fórmula NAC, a 4Mag e o Complexo B foi de R$ 174,70 para R$ 129,80, porque o item de menor valor saiu de graça. Com o EMCASA, o total foi R$ 116,82: os 10% entraram sobre o valor já com o item grátis. No carrinho de três itens do quadro acima, o Capilar Nutri não está na promoção, e nenhum item saiu de graça.",
-          "A página da promoção não diz até quando ela vale. Confira o resumo antes de pagar, e veja o guia da [Black Friday da Rituária](/reviews/black-friday-rituaria) para o que muda na campanha."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/rituaria/black-friday-rituaria-checkout-leve-3-pague-2.webp",
-            "alt": "Resumo do checkout da Rituária com o cupom EMCASA aplicado: três suplementos, o Complexo B a R$ 0,00 e o total de R$ 116,82",
-            "caption": "No teste com três suplementos elegíveis, o Complexo B ficou grátis e o EMCASA tirou mais 10% do valor restante.",
-            "objectFit": "contain",
-            "aspectRatio": 0.54
-          }
+          "Sim, somou nos nossos testes: com o preço promocional da vitrine e com a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2).",
+          "A promoção aparece no checkout, não no carrinho. No teste de 22/11, o carrinho tinha três unidades iguais da [Fórmula Brain+ 30 dias](https://www.rituaria.com.br/products/brain-nootropico), a R$ 69,90 cada: R$ 209,70 em produtos. A promoção (“L3P2 SUPLEMENTOS”) tirou R$ 69,90, e o total foi para R$ 139,80. O EMCASA tirou mais R$ 13,98, que são os 10% sobre os R$ 139,80, e o total ficou em R$ 125,82. Os termos da loja dizem que, se os três produtos forem iguais, um deles sai de graça.",
+          "No carrinho de três itens do quadro acima, o Capilar Nutri não está na promoção, e nenhum item saiu de graça. A página da promoção não diz até quando ela vale. Confira o resumo antes de pagar, e veja o guia da [Black Friday da Rituária](/reviews/black-friday-rituaria) para o que muda na campanha."
         ]
       },
       {
         "heading": "Pix e cashback",
         "paragraphs": [
-          "A loja anuncia 5% no Pix, mas não confirmamos o total final com Pix e EMCASA juntos. Compare o valor exibido antes de gerar o código de pagamento.",
-          "Cashback: a loja informa 10% para a próxima compra. Pelos termos, desconto e cashback não são cumulativos. O checkout mostra o aviso do cashback mesmo com o cupom aplicado, mas isso não quer dizer que os dois valem juntos: na compra com o cupom, não conte com o cashback."
+          "O checkout anuncia 5% de desconto no Pix, e o EMCASA vale com todas as formas de pagamento: o desconto do Pix soma com o cupom. Não calculamos um total com Pix e cupom juntos, porque o nosso teste parou antes da etapa de pagamento. Compare o valor exibido antes de gerar o código de pagamento.",
+          "Cashback: a loja informa 10% para a próxima compra. Pelos termos, desconto e cashback não são cumulativos, e você escolhe um benefício por compra. O checkout mostra o aviso do cashback mesmo com o cupom aplicado, mas isso não quer dizer que os dois valem juntos: na compra com o cupom, não conte com o cashback."
         ]
       },
       {
@@ -263299,14 +263286,14 @@ export const reviewsData: unknown[] = [
           "**A linha Descontos.** Sem o valor abatido no resumo, o código não entrou."
         ],
         "postParagraphs": [
-          "Para o código em vigor, veja a página do [cupom Rituária](/cupons/rituaria). Antes de comprar, vale ler a [nota da Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao)."
+          "Para o código em vigor, veja a página do [cupom Rituária](/cupons/rituaria). Se o desconto não entrar mesmo com tudo certo, guarde o resumo do pedido e fale com a loja pelo WhatsApp (11) 93618-9138 ou pelo e-mail contato@rituaria.com.br."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Onde coloco o cupom na Rituária? No checkout, em seguro.rituaria.com.br, no campo Tem um cupom? do resumo. Clique em Adicionar e confira a linha Descontos.",
-          "O cupom EMCASA soma com o Leve 3, Pague 2? No teste com três suplementos elegíveis, sim: o item de menor valor ficou grátis e o EMCASA tirou 10% do restante. Os três estavam na página da promoção; confira o resumo antes de pagar.",
+          "O cupom EMCASA soma com o Leve 3, Pague 2? Sim, no teste com três Brain+ iguais: a promoção tirou um dos frascos, e o EMCASA tirou 10% do que sobrou, para um total de R$ 125,82. Confira o resumo antes de pagar.",
           "O cupom vale para quem já é cliente? Vale. O EMCASA serve para cliente novo e antigo. Para a primeira compra, veja o [guia da primeira compra na Rituária](/reviews/cupom-rituaria-primeira-compra).",
           "O cupom vale no Mercado Livre? O EMCASA é do site oficial da Rituária, e é no checkout dele que o código entra. No Mercado Livre há anúncios com o nome Rituária, mas não conferimos quem vende cada um.",
           "O cupom soma com o cashback? Pelos termos da loja, desconto e cashback não são cumulativos: é um benefício por compra. Na compra com o cupom, não conte com o cashback."
@@ -263329,6 +263316,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "18 de novembro de 2026",
     "publishedAtISO": "2026-11-18",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -263340,7 +263328,7 @@ export const reviewsData: unknown[] = [
     "title": "Black Friday Rituária 2026: como funciona o Leve 3, Pague 2 e como o cupom entra",
     "seoTitle": "Black Friday Rituária 2026: Leve 3, Pague 2 e o cupom",
     "type": "Guia de Black Friday",
-    "description": "Como a Rituária vende o Leve 3, Pague 2 na Black November, em que etapa o desconto aparece, a conta de um carrinho testado e o que conferir antes de pagar.",
+    "description": "Como a Rituária vende o Leve 3, Pague 2 na Black November, em que etapa o desconto aparece, a conta de um carrinho testado com o EMCASA e o que conferir antes de pagar.",
     "metaDescription": "EMCASA dá 10% OFF na Rituária. Veja como ele entra no Leve 3, Pague 2 da Black Friday 2026 e o que conferir antes de pagar.",
     "image": "/images/reviews/rituaria/black-friday-rituaria-capa-v2.webp",
     "imageAlt": "Pote oficial da Fórmula Greens e Superfood da Rituária em uma montagem ilustrativa de cozinha, com fatias de maçã verde na bancada. A capa traz o logo Rituária, a chamada “Black Friday — Leve 3, pague 2” e o cupom EMCASA.",
@@ -263385,7 +263373,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a Rituária chama de Black November",
         "paragraphs": [
           "A campanha aparece como Black November na faixa do topo da home e como “Black Rituária” no banner. O benefício anunciado é Leve 3, Pague 2 nos suplementos.",
-          "Não encontramos página de Black Friday na loja. A promoção fica na coleção Leve 3, Pague 2, com a regra de que o item de menor valor sai de graça ao adicionar três suplementos. Para saber o que entra, confira a coleção: o banner fala em todos os suplementos.",
+          "Não encontramos página de Black Friday na loja. A promoção fica na [coleção Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2), com a regra de que o item de menor valor sai de graça ao adicionar três suplementos. Para saber o que entra, confira a coleção: o banner fala em todos os suplementos.",
           "A página consultada não publicava data de fim. Confira a campanha e o resumo do pedido antes de pagar."
         ],
         "images": [
@@ -263402,77 +263390,66 @@ export const reviewsData: unknown[] = [
         "heading": "Onde a promoção aparece",
         "paragraphs": [
           "No teste, o carrinho mostrou o total cheio, sem desconto. Ele segue direto para o checkout próprio, em seguro.rituaria.com.br, onde a promoção e o cupom apareceram.",
-          "Se o carrinho mostrar o total cheio, vá ao checkout antes de achar que a promoção falhou."
+          "A promoção entra no resumo como “L3P2 SUPLEMENTOS”, e o cupom, no campo “Tem um cupom?”, com o botão “Adicionar”. Depois dos dois, o resumo traz o aviso “Desconto” em verde e a linha Descontos com o valor abatido.",
+          "Os termos da loja dizem que, se os três produtos forem iguais, um deles sai de graça. Se o carrinho mostrar o total cheio, vá ao checkout antes de achar que a promoção falhou, e confira se os três itens estão na coleção da promoção."
         ]
       },
       {
         "heading": "A conta de um carrinho de teste",
         "paragraphs": [
-          "No nosso carrinho de teste, com três suplementos da coleção, a promoção tirou o item mais barato e o cupom entrou por cima. A tabela mostra cada passo."
+          "No nosso carrinho de teste, com três unidades iguais da [Fórmula Brain+ 30 dias](https://www.rituaria.com.br/products/brain-nootropico), a promoção tirou um dos frascos e o cupom entrou por cima. A tabela mostra cada passo."
         ],
         "comparisonTable": {
-          "caption": "Teste de 18/11, sem login e sem concluir a compra. Preços da vitrine do dia, sem frete e sem o desconto do Pix.",
+          "caption": "Teste de 22/11. Preços da vitrine do dia, sem frete e sem o desconto do Pix.",
           "headers": [
             "Passo",
             "Valor"
           ],
           "rows": [
             [
-              "Fórmula NAC - 30 dias",
-              "R$ 69,90"
+              "3 × [Fórmula Brain+ 30 dias](https://www.rituaria.com.br/products/brain-nootropico), R$ 69,90 cada",
+              "R$ 209,70"
             ],
             [
-              "Fórmula 4Mag (Magnésio) - 30 dias",
-              "R$ 59,90"
-            ],
-            [
-              "Fórmula Complexo B - 60 dias",
-              "R$ 44,90"
-            ],
-            [
-              "Produtos",
-              "R$ 174,70"
-            ],
-            [
-              "Desconto “L3P2 SUPLEMENTOS”: o Complexo B sai a R$ 0,00",
-              "− R$ 44,90"
+              "Desconto “L3P2 SUPLEMENTOS”: um dos três frascos sai a R$ 0,00",
+              "− R$ 69,90"
             ],
             [
               "Total só com a promoção",
-              "R$ 129,80"
+              "R$ 139,80"
             ],
             [
               "Cupom EMCASA, 10% sobre o total que sobrou",
-              "− R$ 12,98"
+              "− R$ 13,98"
             ],
             [
               "Linha Descontos do resumo (promoção + cupom)",
-              "− R$ 57,88"
+              "− R$ 83,88"
             ],
             [
               "Total com a promoção e o cupom",
-              "R$ 116,82"
+              "R$ 125,82"
             ]
           ]
         },
         "postParagraphs": [
-          "Conta nossa: com os três no carrinho, a promoção tirou o valor do mais barato, e o cupom tirou 10% do que sobrou. A linha Descontos do checkout soma as duas coisas, por isso é maior que o cupom sozinho."
+          "Conta nossa: com os três iguais no carrinho, a promoção tirou o valor de um deles, e o cupom tirou 10% do que sobrou. A linha Descontos do checkout soma as duas coisas, por isso é maior que o cupom sozinho."
         ],
         "images": [
           {
-            "src": "/images/reviews/rituaria/black-friday-rituaria-checkout-leve-3-pague-2.webp",
-            "alt": "Resumo do checkout da Rituária com o cupom EMCASA aplicado: três suplementos, o Complexo B a R$ 0,00 e o total de R$ 116,82",
+            "src": "/images/reviews/rituaria/rituaria-checkout-3-brain-leve-3-pague-2-emcasa.webp",
+            "alt": "Resumo do checkout da Rituária com 3 unidades da Fórmula Brain+ de 30 dias, de R$ 209,70 por R$ 139,80 no Leve 3, Pague 2, o cupom EMCASA com desconto de menos R$ 13,98 e o total de R$ 125,82",
             "caption": "O resumo do checkout com a promoção e o cupom. A linha Descontos soma os dois; a tabela acima traz a quebra.",
             "objectFit": "contain",
-            "aspectRatio": 0.54
+            "aspectRatio": 1.159
           }
         ]
       },
       {
         "heading": "Como a regra funciona, e o que ficou sem teste",
         "paragraphs": [
-          "A regra pede três suplementos da coleção, e o grátis é o mais barato dos três. A página da promoção diz: “Ao adicionar 3 suplementos no seu carrinho, o de menor valor sai de graça”.",
-          "O teste mostrou a regra com três itens, com o mais barato a R$ 0,00. Ficou sem teste o carrinho com quatro ou seis itens: nesse caso, veja no checkout o que saiu de graça antes de pagar.",
+          "A regra pede três suplementos da coleção, e o grátis é o de menor valor. A página da promoção diz: “Ao adicionar 3 suplementos no seu carrinho, o de menor valor sai de graça”.",
+          "O teste mostrou a regra com três unidades iguais, e um dos frascos ficou a R$ 0,00. Com itens diferentes, a página diz que sai o mais barato dos três. Ficou sem teste o carrinho com quatro ou seis itens: nesse caso, veja no checkout o que saiu de graça antes de pagar.",
           "Se você já pretendia comprar os três, o item grátis é um bônus. Não acrescente um suplemento de que não precisa só para completar o trio."
         ],
         "postParagraphs": [
@@ -263490,7 +263467,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pix, cashback e frete",
         "bullets": [
-          "**Pix.** A loja mostra 5% de desconto no pagamento por Pix, à parte do cupom. O nosso teste não chegou ao total com Pix: confira o resumo antes de confirmar o pagamento.",
+          "**Pix.** O checkout anuncia 5% de desconto no pagamento por Pix, e o EMCASA vale com todas as formas de pagamento: o desconto do Pix soma com o cupom. O nosso teste parou antes da etapa de pagamento, então não temos um total com Pix: confira o resumo antes de confirmar.",
           "**Cashback.** A loja anuncia 10% para a próxima compra, em forma de cupom. Pelos termos, desconto e cashback não são cumulativos, e você escolhe um benefício por compra. O aviso aparece no checkout mesmo com o cupom aplicado, mas a regra escrita é essa.",
           "**Frete grátis, por região.** Acima de R$ 199 em SP, ES, RJ e MG; de R$ 229 em PR, SC, RS, DF, GO, MS e MT; de R$ 279 em AL, BA, CE, MA, PB, PI, SE, RN e PE; de R$ 349 em AC, AP, AM, PA, RO, RR e TO. Não encontramos na política se esse valor conta antes ou depois dos descontos."
         ]
@@ -263499,10 +263476,9 @@ export const reviewsData: unknown[] = [
         "heading": "Antes de pagar e depois de receber",
         "bullets": [
           "**Antes de pagar.** Confira a linha de descontos e o total no checkout, e guarde o resumo do pedido.",
-          "**Depois do pedido.** Compare a confirmação da loja com o que chegou, item por item, e fale com a loja logo se faltar algo.",
-          "**Reclamações.** No Reclame Aqui, entre as queixas recentes, há uma com o título “Comprei 2 leve 3 e recebi só 2” e uma de brinde que não foi enviado. Por isso vale guardar o resumo do pedido. A [nota da Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao) traz o quadro completo.",
-          "**Trocas.** Você pode desistir em até 7 dias corridos depois do recebimento, com o produto completo e sem sinais de uso. Defeito, avaria ou produto errado: recuse na entrega ou fale com a loja em até 30 dias corridos. O resto da política está em [a Rituária é confiável?](/reviews/rituaria-e-confiavel).",
-          "**Atendimento.** De segunda a sexta-feira, das 08h às 17h, pelo chat do site ou pelo Direct do Instagram."
+          "**Depois do pedido.** Compare a confirmação da loja com o que chegou, item por item. Tire fotos da caixa ao receber e fale com a loja logo se faltar algo ou vier diferente do pedido.",
+          "**Trocas.** Você pode desistir em até 7 dias corridos depois do recebimento, com o produto completo e sem sinais de uso. Defeito, avaria ou produto errado: recuse na entrega ou fale com a loja em até 30 dias corridos.",
+          "**Atendimento.** WhatsApp (11) 93618-9138 ou e-mail contato@rituaria.com.br. A central de ajuda atende de segunda a sexta-feira, das 08h às 17h, pelo chat do site ou pelo Direct do Instagram."
         ]
       },
       {
@@ -263511,13 +263487,13 @@ export const reviewsData: unknown[] = [
           "A lista abaixo traz os suplementos que aparecem na coleção da promoção. Confira se os três itens do seu carrinho continuam nela e disponíveis."
         ],
         "bullets": [
-          "**Magnésio e minerais:** Fórmula 4Mag (Magnésio) - 30 dias.",
-          "**Intestino e greens:** Fórmula Prebiótica (200 g), Fórmula Greens e Superfood (Maçã Verde) e Fórmula Greens e Superfood (Mate Limão).",
-          "**Vitaminas e multivitamínicos:** Vitamina D3 2.000 UI com TCM, Fórmula Complexo B - 60 dias, Fórmula Femme Nutri - 30 dias e Imuno Shot (Fórmula da Imunidade) 150 g.",
-          "**Antioxidantes e coenzimas:** Fórmula NAC - 30 dias, Fórmula Antioxi Nutri (90 cápsulas), Fórmula Coenzima Q10 - 30 dias e Fórmula Dermactive - 30 dias.",
-          "**Ômegas:** Fórmula Cardio Ômega 3 (Super EPA) - 60 cápsulas e Fórmula Neuro Ômega 3 (Super DHA) - 60 cápsulas.",
-          "**Foco e energia:** Fórmula Brain+ - 30 dias, Juicy Beat (Melancia com Limão) e Maca Peruana 100% PURA.",
-          "**Beleza e outros:** Fórmula Fabulosa (Pele + Unha + Cabelo) - 30 dias, Fórmula Mov Nutri - 30 dias, Femme Protein (Abacaxi com Hortelã) e Gummy Própolis 50 mg - 30 dias."
+          "**Magnésio e minerais:** [Fórmula 4Mag (Magnésio) - 30 dias](https://www.rituaria.com.br/products/formula-4-mag-magnesio).",
+          "**Intestino e greens:** [Fórmula Prebiótica (200 g)](https://www.rituaria.com.br/products/formula-prebiotica), [Fórmula Greens e Superfood (Maçã Verde)](https://www.rituaria.com.br/products/formula-greens-superfood-maca-verde) e [Fórmula Greens e Superfood (Mate Limão)](https://www.rituaria.com.br/products/greens-superfood).",
+          "**Vitaminas e multivitamínicos:** [Vitamina D3 2.000 UI com TCM](https://www.rituaria.com.br/products/vitamina-d3-2000-ui), [Fórmula Complexo B - 60 dias](https://www.rituaria.com.br/products/formula-complexo-b), [Fórmula Femme Nutri - 30 dias](https://www.rituaria.com.br/products/formula-femme-nutri) e [Imuno Shot (Fórmula da Imunidade) 150 g](https://www.rituaria.com.br/products/formula-da-imunidade).",
+          "**Antioxidantes e coenzimas:** [Fórmula NAC - 30 dias](https://www.rituaria.com.br/products/nac), [Fórmula Antioxi Nutri (90 cápsulas)](https://www.rituaria.com.br/products/formulas-antioxi-nutri-90-capsulas), [Fórmula Coenzima Q10 - 30 dias](https://www.rituaria.com.br/products/coenzima-q10) e [Fórmula Dermactive - 30 dias](https://www.rituaria.com.br/products/formula-dermactive).",
+          "**Ômegas:** [Fórmula Cardio Ômega 3 (Super EPA) - 60 cápsulas](https://www.rituaria.com.br/products/cardio-omega-3-super-epa) e [Fórmula Neuro Ômega 3 (Super DHA) - 60 cápsulas](https://www.rituaria.com.br/products/neuro-omega3-super-dha).",
+          "**Foco e energia:** [Fórmula Brain+ - 30 dias](https://www.rituaria.com.br/products/brain-nootropico), [Juicy Beat (Melancia com Limão)](https://www.rituaria.com.br/products/juicy-beat-pre-treino-natural) e [Maca Peruana 100% PURA](https://www.rituaria.com.br/products/maca-peruana-100-pura).",
+          "**Beleza e outros:** [Fórmula Fabulosa (Pele + Unha + Cabelo) - 30 dias](https://www.rituaria.com.br/products/formula-fabulosa), [Fórmula Mov Nutri - 30 dias](https://www.rituaria.com.br/products/formula-mov-nutri), [Femme Protein (Abacaxi com Hortelã)](https://www.rituaria.com.br/products/femme-protein) e [Gummy Própolis 50 mg - 30 dias](https://www.rituaria.com.br/products/propolis-gummy)."
         ],
         "postParagraphs": [
           "Na mesma loja, a coleção “Compre 2, leve 3” tem três kits: 3 Prebióticas, 3 Fórmulas Antioxi Nutri e 3 Fórmulas Fabulosas. Ela não traz regra escrita e não é a promoção do nosso teste: os três kits não estão na lista acima.",
@@ -263536,13 +263512,14 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Rituária tem Black Friday? Não encontramos página com esse nome. A campanha aparece como Black November e Black Rituária, com Leve 3, Pague 2 na coleção de suplementos. A página consultada não publicava data de fim.",
-          "O cupom EMCASA vale no Leve 3, Pague 2? No nosso teste, sim: os 10% entraram sobre o total que sobrou depois do item grátis. Confira a linha de descontos no checkout antes de pagar.",
+          "O cupom EMCASA vale no Leve 3, Pague 2? No nosso teste, com três Brain+ iguais, sim: os 10% entraram sobre o total que sobrou depois do item grátis, e o total foi de R$ 125,82. Confira a linha de descontos no checkout antes de pagar.",
           "Por que o carrinho não mostra o desconto? O carrinho mostra o total cheio e segue direto para o checkout próprio, onde a promoção aparece na linha de descontos.",
           "Quais produtos entram no Leve 3, Pague 2? Os suplementos listados na coleção da promoção. Num carrinho anterior, com dois itens da coleção e um Capilar Nutri, que não está nela, nenhum saiu de graça.",
-          "O cupom soma com o Pix? O Pix tem 5% de desconto à parte, mostrado no checkout. O nosso teste parou antes do pagamento, então veja o total com Pix no resumo antes de confirmar."
+          "O cupom soma com o Pix? Soma: o EMCASA vale com todas as formas de pagamento, e o checkout anuncia 5% de desconto no Pix, à parte do cupom. O nosso teste parou antes do pagamento, então confira o total com Pix no resumo antes de confirmar."
         ]
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 1051,
@@ -263569,10 +263546,10 @@ export const reviewsData: unknown[] = [
     "coupon": "EMCASA",
     "affiliate": "rituaria",
     "title": "Rituária no Reclame Aqui: nota, reputação e o que mais gera reclamação",
-    "seoTitle": "Rituária no Reclame Aqui: nota e reclamações",
+    "seoTitle": "Rituária no Reclame Aqui: nota 8,8 e reclamações",
     "type": "Análise de Reputação",
-    "description": "A nota da Rituária no Reclame Aqui, as queixas que mais aparecem, quanto a empresa demora a responder e o que fazer no portal de trocas antes de abrir uma reclamação.",
-    "metaDescription": "O cupom EMCASA dá 10% OFF na Rituária. Antes, veja a nota no Reclame Aqui, o que mais gera reclamação e o que fazer antes de reclamar.",
+    "description": "A nota da Rituária no Reclame Aqui em cinco janelas, o que ela mede, os pontos positivos, o motivo mais citado de reclamação e como falar com a loja.",
+    "metaDescription": "O cupom EMCASA dá 10% OFF na Rituária. Veja a nota 8,8 no Reclame Aqui, o que mais gera reclamação e como falar com a loja.",
     "image": "/images/reviews/rituaria/rituaria-reclame-aqui-nota-reputacao-capa-v2.webp",
     "imageAlt": "Embalagem de Femme Protein sabor Abacaxi com Hortelã da Rituária, em foto oficial montada sobre uma bancada âmbar ilustrativa. A capa traz o logo Rituária e a chamada “Reclame Aqui — Nota e queixas”, com o cupom EMCASA.",
     "cta": {
@@ -263593,120 +263570,132 @@ export const reviewsData: unknown[] = [
         "slug": "rituaria-e-boa"
       }
     ],
+    "updatedAt": "2026-11-22",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No Reclame Aqui, a Rituária tem reputação máxima (RA1000) e nota 8,7 no recorte de maio a outubro de 2026. Segundo o perfil, todas as reclamações foram respondidas e 93,8% das avaliadas constam como resolvidas. Na aba geral, de até três anos, a queixa mais citada é produto não recebido, então vale acompanhar o rastreio desde o primeiro dia."
+          "No Reclame Aqui, a Rituária tem reputação RA1000, nota 8,8 nos últimos seis meses, selo de Empresa Verificada e 100% das 708 reclamações respondidas. O ponto de atenção é produto não recebido, o motivo mais citado na aba Geral. O [cupom Rituária](/cupons/rituaria) EMCASA dá 10% OFF no site oficial."
         ]
       },
       {
-        "heading": "A nota em números",
+        "heading": "A nota e os indicadores de cada período",
         "paragraphs": [
-          "A reputação é a máxima do Reclame Aqui, RA1000, e os números abaixo valem para a janela da tabela. Os índices de resolvidas e de quem voltaria a fazer negócio valem só para as reclamações avaliadas, não para o total."
+          "Consultamos o perfil da Rituária em 22/11 e anotamos as cinco janelas que ele mostra: seis meses, 12 meses, os anos de 2025 e 2024 e a aba Geral, que reúne até três anos. Cada coluna da tabela vem da aba de mesmo nome, e a de seis meses é a mais recente."
         ],
         "comparisonTable": {
-          "caption": "Perfil da Rituária no Reclame Aqui, de 01/05/2026 a 31/10/2026.",
+          "caption": "Indicadores da Rituária no Reclame Aqui por aba de período. Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
           "headers": [
             "Indicador",
-            "Seis meses"
+            "6 meses",
+            "12 meses",
+            "2025",
+            "2024",
+            "Geral"
           ],
           "rows": [
             [
               "Reputação",
-              "RA1000"
-            ],
-            [
-              "Nota média",
-              "8,7"
+              "RA1000, 8,8",
+              "RA1000, 8,7",
+              "RA1000, 8,4",
+              "RA1000, 8,5",
+              "RA1000, 8,6"
             ],
             [
               "Reclamações recebidas",
-              "710"
+              "708",
+              "1.855",
+              "920",
+              "92",
+              "2.597"
             ],
             [
               "Respondidas",
-              "100%"
-            ],
-            [
-              "Resolvidas, entre as avaliadas",
-              "93,8%"
-            ],
-            [
-              "Voltariam a fazer negócio, entre as avaliadas",
-              "78,6%"
+              "100%",
+              "100%",
+              "100%",
+              "100%",
+              "98,7%"
             ],
             [
               "Avaliadas",
-              "418"
+              "419",
+              "1.176",
+              "614",
+              "61",
+              "1.606"
+            ],
+            [
+              "Índice de solução, nas avaliadas",
+              "94,2%",
+              "96%",
+              "95,2%",
+              "96,6%",
+              "95,5%"
+            ],
+            [
+              "Voltariam a fazer negócio, nas avaliadas",
+              "78,7%",
+              "77,1%",
+              "71,1%",
+              "72,4%",
+              "75%"
             ],
             [
               "Nota média do consumidor",
-              "7,87"
+              "7,89",
+              "7,67",
+              "7,18",
+              "7,24",
+              "7,5"
             ],
             [
               "Tempo médio de resposta",
-              "4 dias e 12 horas"
+              "4 dias e 12 horas",
+              "3 dias e 9 horas",
+              "2 dias e 10 horas",
+              "2 dias e 16 horas",
+              "3 dias e 6 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "São duas notas diferentes: 8,7 é a nota média da empresa nos últimos seis meses, e 7,87 é a nota média do consumidor, de quem avaliou."
+          "Na aba Geral, 33 reclamações aguardavam resposta, e é por isso que o índice de respondidas aparece como 98,7%. Nas demais abas, nenhuma estava sem resposta."
         ],
         "images": [
           {
-            "src": "/images/reviews/rituaria/rituaria-reclame-aqui-indicadores.webp",
-            "alt": "Quadro de indicadores do perfil da Rituária no Reclame Aqui, com reputação, nota, reclamações, respostas e índices da aba de seis meses",
-            "caption": "Quadro do perfil da Rituária no Reclame Aqui, aba de seis meses.",
-            "objectFit": "contain",
-            "aspectRatio": 1.2144082332761579
+            "src": "/images/reviews/rituaria/rituaria-reclame-aqui-ra1000-empresa-verificada.webp",
+            "alt": "Topo do perfil da Rituária no Reclame Aqui com o selo RA1000 e o selo Empresa Verificada",
+            "caption": "Perfil da Rituária no Reclame Aqui, com o selo RA1000 e a marca de Empresa Verificada.",
+            "objectFit": "cover",
+            "aspectRatio": 1.786
           }
         ]
       },
       {
-        "heading": "Histórico de seis meses",
+        "heading": "O que a nota e o selo medem (e não medem)",
         "paragraphs": [
-          "A reputação não mudou no período. Em todos os meses de maio a outubro, o perfil ficou em RA1000.",
-          "Foram 710 reclamações recebidas e 418 avaliadas nessa janela. Sem o número de pedidos da loja, esses dados não mostram a proporção de compras que tiveram problema.",
-          "Não confunda com o total: a lista de reclamações guarda 2.625 registros ativos, de todas as épocas. Os 710 são só da janela de seis meses."
-        ],
-        "postParagraphs": [
-          "Para acompanhar, abra o perfil antes de comprar. O histórico mês a mês fica na própria página."
+          "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade dos suplementos nem dos séruns, e muda conforme novas reclamações entram e são avaliadas. A [metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui) explica o cálculo.",
+          "Há duas notas diferentes no perfil. A de 8,8 é a reputação da empresa, calculada pela plataforma com os indicadores da tabela. A de 7,89 é a média das notas que os próprios consumidores deram ao atendimento depois de encerrar a reclamação.",
+          "O RA1000 é a faixa máxima de reputação do Reclame Aqui, e a Rituária aparece com ele em todas as cinco janelas. O selo de Empresa Verificada vem de uma verificação mensal, que o Reclame Aqui diz garantir que a empresa existe. Os dois descrevem o atendimento às reclamações, e não o efeito de qualquer produto."
         ]
       },
       {
-        "heading": "O que mais gera reclamação",
+        "heading": "Pontos positivos",
         "paragraphs": [
-          "A entrega lidera. Na aba geral do perfil, que soma até três anos, a categoria “Produto não recebido” aparece em 32,3% das reclamações.",
-          "Nos vinte títulos mais recentes da lista, os temas se repetem. A contagem é só pelo título:"
+          "Estes são os sinais favoráveis que o perfil mostrava na consulta:"
         ],
         "bullets": [
-          "Entrega: pedido não recebido, sem rastreio ou marcado como entregue sem chegar. São nove.",
-          "Promoção e brinde: brinde que não chegou ou veio em quantidade menor do que o prometido na promoção. São três.",
-          "Reação: relato de reação ao produto ou de falta de informação sobre reações. São três, e um cita alergia.",
-          "Devolução, estorno ou cancelamento: pedido de código de devolução, de crédito ou de cancelamento. São três.",
-          "Produto incompleto: suplemento que veio com menos cápsulas. É um.",
-          "Resultado e garantia: cliente diz que não teve resultado e foi cobrado pela garantia. É um."
+          "**Respostas.** Nos seis meses, 100% das 708 reclamações tiveram resposta, sem nenhuma aguardando. O mesmo vale para as abas de 12 meses, 2025 e 2024.",
+          "**Reputação.** A faixa é RA1000 nas cinco janelas, com nota de 8,4 a 8,8.",
+          "**Solução, nas avaliadas.** Entre as 419 reclamações avaliadas nos seis meses, 94,2% foram consideradas resolvidas, e 78,7% dos autores disseram que voltariam a fazer negócio.",
+          "**Empresa Verificada e tempo de casa.** O perfil tem o selo de empresa verificada e está no Reclame Aqui há 5 anos.",
+          "**Ranking.** A Rituária aparece em 5º lugar em Melhor empresa, na categoria Suplementos Alimentares e Fórmulas.",
+          "**Palavra da marca.** A página Sobre nós diz que a Rituária é “uma das marcas mais bem avaliadas do Brasil dentro do Reclame Aqui no segmento de cosméticos e bem-estar”. Essa frase é da loja. O que vale são os números da tabela."
         ],
         "postParagraphs": [
-          "São relatos, sem julgar quem tem razão em cada caso. Como a entrega lidera, guarde o número do pedido e acompanhe o rastreio pelo site desde o primeiro dia. Se o pedido parar, o caminho está no capítulo Antes de reclamar.",
-          "Se você toma remédios, está grávida ou amamenta, converse com médico ou nutricionista antes de usar suplementos."
-        ]
-      },
-      {
-        "heading": "Os dois lados da nota",
-        "paragraphs": [
-          "Segundo o perfil, a empresa responde tudo na janela, mas a espera e a entrega pedem atenção.",
-          "Do lado bom, segundo o perfil, todas as reclamações da janela tiveram resposta, e quase todas as avaliadas constam como resolvidas. A própria marca diz, na página Sobre nós, que é “uma das marcas mais bem avaliadas do Brasil dentro do Reclame Aqui no segmento de cosméticos e bem-estar”. Essa frase é dela. O número que vale é o da tabela.",
-          "Do outro lado, a resposta leva quatro dias e meio em média, e 78,6% de quem avaliou voltaria a fazer negócio. Ou seja, cerca de um em cada cinco não voltaria.",
-          "Como três dos vinte títulos recentes são de promoção ou brinde, confira o carrinho e o resumo do pedido antes de pagar. Se a compra for numa promoção, o [guia da Black Friday na Rituária](/reviews/black-friday-rituaria) mostra como o desconto aparece no checkout."
-        ]
-      },
-      {
-        "heading": "Onde a Rituária aparece no ranking",
-        "paragraphs": [
-          "Em 18 de novembro de 2026, a Rituária estava em 5º lugar em “Melhor empresa” na categoria Suplementos Alimentares e Fórmulas.",
-          "O ranking, a nota e os índices podem mudar. Confira o período de cada indicador e leia a posição como retrato de um dia, dentro dessa categoria."
+          "O ranking é um retrato do dia da consulta, dentro dessa categoria, e não um ranking de eficácia de produtos."
         ],
         "images": [
           {
@@ -263719,42 +263708,58 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "Os motivos saem da aba Geral, que reúne até três anos e 2.597 reclamações, e não dos seis meses da tabela. Nela, “Produto não recebido” responde por 32,23% dos principais problemas, seguido de “Produtos”, com 13,13%, e “Ecommerce Local”, com 7,32%. Como a entrega lidera, guarde o número do pedido e acompanhe o rastreio pelo site desde o primeiro dia.",
+          "Alguns cuidados na leitura dos números:"
+        ],
+        "bullets": [
+          "Sem o total de pedidos da Rituária no mesmo período, as 708 reclamações dos seis meses são um número absoluto: não viram taxa, e não dá para dizer se são muitas ou poucas para o tamanho da operação.",
+          "Solução e “voltariam a fazer negócio” valem para as 419 reclamações avaliadas, não para todos os clientes. Cerca de um em cada cinco autores avaliadores não voltaria a comprar.",
+          "A resposta leva em média 4 dias e 12 horas nos seis meses, mais que os 2 dias e 10 horas de 2025.",
+          "Os motivos da aba Geral, de até três anos, não se misturam com os indicadores dos seis meses."
+        ],
+        "postParagraphs": [
+          "Se você toma remédio, está grávida ou amamenta, converse com médico ou nutricionista antes de usar suplementos."
+        ]
+      },
+      {
         "heading": "Qual perfil é o da Rituária",
         "paragraphs": [
-          "O perfil é da empresa, não de cada produto. Ele se chama Rituária, tem o selo de empresa verificada e aparece em Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Aponta para rituaria.com.br e está no Reclame Aqui há 5 anos.",
-          "O selo vem de uma verificação mensal, que o Reclame Aqui diz garantir que a empresa existe.",
+          "O perfil é da empresa, não de cada produto. Ele se chama Rituária, tem o selo de empresa verificada e aparece em Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Aponta para rituaria.com.br.",
           "O CNPJ do perfil é 60.453.162/0003-79 e o do rodapé é 60.453.162/0001-07, da Beauty Hub Varejo Ltda, em Serra (ES). Eles têm a mesma raiz, 60.453.162. Quem vende e as regras de troca estão em [a Rituária é confiável?](/reviews/rituaria-e-confiavel)."
         ]
       },
       {
-        "heading": "Antes de reclamar: o que a loja oferece",
+        "heading": "Como a loja responde e o que guardar do pedido",
         "paragraphs": [
-          "Antes do Reclame Aqui, fale com a loja. Para troca ou devolução, use o portal de trocas. A loja informa:"
+          "Se algo der errado com o pedido, o caminho começa nos canais da própria Rituária: o portal de trocas, o chat do site, o Direct do Instagram, o WhatsApp (11) 93618-9138 e o e-mail contato@rituaria.com.br. O atendimento responde de segunda a sexta, das 08h às 17h. A loja informa:"
         ],
         "bullets": [
           "Desistência: 7 dias corridos depois do recebimento, pelo artigo 49 do Código de Defesa do Consumidor. A devolução é grátis e o reembolso é integral, com frete. O produto precisa estar completo e sem sinais de uso.",
           "Defeito, avaria ou produto errado: recuse a entrega se a embalagem estiver violada, o produto avariado ou diferente do pedido. Se perceber depois, fale com a loja em até 30 dias corridos do recebimento.",
           "Insatisfação depois do uso: não há garantia por isso. Leia a descrição do produto antes de comprar.",
-          "Cancelamento: só antes de o pedido ser separado. Depois, o caminho é recusar a entrega ou devolver.",
-          "Atendimento: de segunda a sexta, das 08h às 17h, pelo chat do site ou pelo Direct do Instagram."
+          "Cancelamento: só antes de o pedido ser separado. Depois, o caminho é recusar a entrega ou devolver."
         ],
         "postParagraphs": [
-          "Para pedir a devolução, a loja quer o número do pedido, foto do produto e da embalagem e a nota fiscal: deixe tudo à mão. Se a loja não resolver, procure o Reclame Aqui e o Procon do seu estado. Para o frete por região, veja a [tabela de frete no guia de como usar o cupom](/reviews/cupom-rituaria-como-usar)."
+          "Para pedir a devolução, a loja quer o número do pedido, foto do produto e da embalagem e a nota fiscal. Guarde também os prints do pedido e fotografe a caixa ao receber, antes de abrir. Para o frete por região, veja a [tabela de frete no guia de como usar o cupom](/reviews/cupom-rituaria-como-usar)."
         ]
       },
       {
-        "heading": "Se a compra fizer sentido",
+        "heading": "Vale a pena comprar na Rituária?",
         "paragraphs": [
-          "O cupom EMCASA dá 10% OFF no site oficial da Rituária, para cliente novo e antigo. Antes de pagar, confira o prazo de entrega e a regra de troca. Veja onde o código entra na página do [cupom Rituária](/cupons/rituaria)."
+          "Pelo Reclame Aqui, a loja responde a todas as reclamações, tem RA1000 em todas as janelas consultadas e solução de 94,2% entre as avaliadas nos seis meses. O ponto de atenção é a entrega: produto não recebido é o motivo mais citado na aba Geral, e a resposta leva mais de quatro dias em média. Ao fazer o pedido, acompanhe o rastreio e guarde as provas.",
+          "Se decidir comprar, o [cupom Rituária](/cupons/rituaria) EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, e o passo a passo do checkout está em [como usar o cupom](/reviews/cupom-rituaria-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Rituária é confiável no Reclame Aqui? No recorte de seis meses, de maio a outubro, o perfil tem reputação RA1000 e nota 8,7. Isso descreve o atendimento às reclamações, não a qualidade ou o efeito dos produtos.",
-          "A Rituária responde às reclamações? Segundo o perfil, no recorte de seis meses, de maio a outubro, todas estavam respondidas, com tempo médio de 4 dias e 12 horas.",
-          "O que fazer se o pedido da Rituária não chegou? Confira o rastreio e fale com a loja pelo chat ou pelo Direct do Instagram, guardando o número do pedido. Se não houver solução, procure o Reclame Aqui ou o Procon.",
-          "A Rituária devolve o dinheiro? Sim, segundo a política da loja, na desistência em até sete dias corridos após o recebimento. A devolução é gratuita, o reembolso é integral, com frete, e o produto precisa estar completo e sem sinais de uso."
+          "Qual a nota da Rituária no Reclame Aqui? Na aba de seis meses, a reputação é RA1000, com nota 8,8. Nos 12 meses é RA1000, com 8,7. A média que os consumidores deram ao atendimento nos seis meses é 7,89.",
+          "A Rituária tem o selo RA1000 ou Empresa Verificada? Tem os dois. O RA1000 é a faixa máxima de reputação e o perfil aparece com ele nas cinco janelas. O de Empresa Verificada vem de uma verificação mensal da plataforma, e o perfil está lá há 5 anos.",
+          "A Rituária responde e resolve as reclamações? Nos seis meses, respondeu 100% das 708 reclamações, em média em 4 dias e 12 horas. Entre as 419 avaliadas, 94,2% foram consideradas resolvidas.",
+          "O que fazer se o pedido da Rituária não chegou? Confira o rastreio e fale com a loja pelo chat, pelo WhatsApp ou pelo e-mail contato@rituaria.com.br, com o número do pedido à mão. Produto não recebido é o motivo mais citado na aba Geral, com 32,23%.",
+          "Tem cupom de desconto na Rituária? Tem. O código EMCASA dá 10% OFF no site oficial, para cliente novo e antigo, digitado no campo “Tem um cupom?” do checkout."
         ]
       }
     ]
@@ -263807,6 +263812,8 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-rituaria-como-usar"
       }
     ],
+    "bodyDatesReason": "reclame-aqui",
+    "updatedAt": "2026-11-22",
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -263819,6 +263826,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "No rodapé do site, a empresa aparece como Beauty Hub Varejo Ltda, com CNPJ 60.453.162/0001-07 e endereço em Serra, no Espírito Santo.",
           "O perfil da marca no Reclame Aqui traz outro número, o CNPJ 60.453.162/0003-79. Os dois têm a mesma raiz, 60.453.162, que é a parte do CNPJ que identifica a empresa.",
+          "Os termos de uso da loja citam uma terceira razão social, a Maga Comércio de Produtos Cosméticos Ltda, CNPJ 38.246.589/0001-85. Não sabemos como ela se relaciona com a Beauty Hub. Para conferir quem vende o seu pedido, olhe a razão social na nota fiscal.",
           "A página Sobre Nós diz que a marca nasceu em 2021, “idealizada pela Gabi”, e se apresenta como marca brasileira de dermocosméticos, suplementos e superfoods.",
           "Para escolher um suplemento, confira também quem fabrica a fórmula e os dados de regularização do produto."
         ],
@@ -263835,9 +263843,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No recorte de 01/05/2026 a 31/10/2026, a Rituária tinha reputação máxima (RA1000), selo de empresa verificada e todas as reclamações respondidas. Entre as avaliadas, 93,8% constavam como resolvidas.",
-          "O outro lado: a resposta leva, em média, mais de quatro dias, e o problema mais citado na aba geral do perfil é produto não recebido.",
-          "Parte das reclamações recentes fala de devolução, cancelamento e brinde não enviado. A análise completa, com os números e o histórico, está na [nota da Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao)."
+          "Na consulta de 22/11, a aba de seis meses mostrava a Rituária com reputação máxima (RA1000), nota 8,8, selo de empresa verificada e as 708 reclamações respondidas. Entre as 419 avaliadas, 94,2% constavam como resolvidas.",
+          "O outro lado: a resposta leva, em média, 4 dias e 12 horas, e o problema mais citado na aba Geral, de até três anos, é produto não recebido, com 32,23%.",
+          "Sem o total de pedidos, esses números absolutos não viram taxa de reclamação. A análise completa, com as cinco janelas do perfil, está na [nota da Rituária no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -263855,18 +263863,19 @@ export const reviewsData: unknown[] = [
         "heading": "Site e pagamento: o endereço oficial e as formas de pagar",
         "paragraphs": [
           "O site oficial é rituaria.com.br. O carrinho leva direto ao checkout da própria loja, em seguro.rituaria.com.br, e é lá que o pagamento acontece.",
-          "A loja aceita cartão em até 3 vezes sem juros e Pix. O Pix tem 5% de desconto, mostrado no checkout, à parte do cupom.",
+          "A loja aceita cartão em até 3 vezes sem juros e Pix. O checkout anuncia 5% de desconto no Pix, e o EMCASA vale em todas as formas de pagamento e soma com ele.",
           "A loja também anuncia cashback de 10% para a próxima compra. Pelos termos, desconto e cashback não são cumulativos, e só se pode escolher um benefício por compra.",
           "Antes de pagar, digite o endereço do site na barra do navegador e confira se o checkout está em seguro.rituaria.com.br.",
           "Como o cupom EMCASA entra no checkout, passo a passo, está no [guia de uso do cupom EMCASA](/reviews/cupom-rituaria-como-usar)."
         ],
         "images": [
           {
-            "src": "/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
-            "alt": "Resumo do checkout da Rituária com o cupom EMCASA no campo Tem um cupom?, o aviso Desconto (- R$ 11,98), a linha Descontos e o total de R$ 107,82",
-            "caption": "Resumo do checkout da Rituária com o EMCASA aplicado. A imagem mostra o desconto, não confirma a soma com o Pix.",
+            "src": "/images/reviews/rituaria/rituaria-e-confiavel-mov-nutri.webp",
+            "alt": "Frasco da Fórmula Mov Nutri da Rituária, em foto oficial da loja",
+            "caption": "Fórmula Mov Nutri, vendida no site oficial da Rituária.",
             "objectFit": "contain",
-            "aspectRatio": 0.894
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/formula-mov-nutri"
           }
         ]
       },
@@ -263924,7 +263933,6 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-18",
     "draft": false,
     "isNew": true,
-    "bodyDatesReason": "reclame-aqui",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -263944,7 +263952,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.rituaria.com.br/",
       "sponsored": true
     },
-    "editorialNote": "Feito com as páginas da loja e o Reclame Aqui, sem uso dos produtos. Quem toma remédio, está grávida ou amamenta fala com o médico. Podemos receber comissão.",
+    "editorialNote": "Feito com as páginas e as políticas da loja, sem uso dos produtos. Quem toma remédio, está grávida ou amamenta fala com o médico. Podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "rituaria-e-confiavel"
@@ -263967,6 +263975,7 @@ export const reviewsData: unknown[] = [
         "Você toma remédio, está grávida ou amamenta e ainda não falou com o médico."
       ]
     },
+    "updatedAt": "2026-11-22",
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -263987,7 +263996,8 @@ export const reviewsData: unknown[] = [
             "alt": "Caixas dos séruns faciais da Rituária, como a Fórmula Uniformizadora, a Hidratante Preenchedora e a Antioxidante, com a palavra skincare",
             "caption": "Os séruns de skincare da Rituária, em imagem da home da loja.",
             "objectFit": "contain",
-            "aspectRatio": 1.1352885525070955
+            "aspectRatio": 1.1352885525070955,
+            "href": "https://www.rituaria.com.br/products/formula-uniformizadora"
           }
         ]
       },
@@ -264008,13 +264018,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O 4Mag: quatro formas de magnésio",
         "paragraphs": [
-          "A loja informa duas cápsulas por dia para o 4Mag. O pote de 30 dias mostra 60 cápsulas, e a embalagem de 90 dias declara 180.",
+          "A loja informa duas cápsulas por dia para o [4Mag](https://www.rituaria.com.br/products/formula-4-mag-magnesio). O pote de 30 dias mostra 60 cápsulas, e a embalagem de 90 dias declara 180.",
           "A imagem nutricional da loja declara, por duas cápsulas, 99 mg de magnésio, 150 mg de L-treonina e 2 mg de vitamina B6. A composição lista malato, bisglicinato, citrato e taurato de magnésio.",
           "A página traz frases como “Auxilia na formação dos ossos e dentes”. São alegações da marca, e não as conferimos.",
           "As massas dos compostos listadas na aba de ingredientes não equivalem à quantidade de magnésio da tabela nutricional. Para comparar com outra fórmula, use a quantidade declarada do mineral por porção."
         ],
         "postParagraphs": [
-          "No quadro do 4Mag, a embalagem de 180 cápsulas tem o menor custo por porção com o cupom, sem contar a promoção. Com o Leve 3, Pague 2, três potes de 30 dias poderiam sair por R$ 107,82 com o EMCASA, sem frete (R$ 1,20 por porção), menos que os R$ 1,30 do pote de 90 dias. Confira o total no checkout: a promoção ainda não foi testada com três unidades do mesmo produto."
+          "No quadro do 4Mag, a embalagem de 180 cápsulas tem o menor custo por porção com o cupom, sem contar a promoção. A conta do Leve 3, Pague 2 mudou depois do nosso teste de 22/11: com três unidades iguais da [Fórmula Brain+](https://www.rituaria.com.br/products/brain-nootropico) de 30 dias, o carrinho foi de R$ 209,70 para R$ 139,80 com a promoção, e o EMCASA tirou mais R$ 13,98, chegando a R$ 125,82. Ou seja, o cupom soma com a campanha, inclusive com três iguais.",
+          "Aplicando a mesma regra ao 4Mag, três potes de 30 dias sairiam por cerca de R$ 95,22 com o EMCASA, sem frete, perto de R$ 1,06 por porção, abaixo dos R$ 1,20 do pote de 90 dias. É uma conta pela regra dos termos da loja, e não um teste com o 4Mag: confira o total no checkout."
         ],
         "images": [
           {
@@ -264022,11 +264033,12 @@ export const reviewsData: unknown[] = [
             "alt": "Imagem oficial da 4Mag da Rituária com o pote e a tabela nutricional",
             "caption": "Imagem nutricional publicada pela loja: duas cápsulas de 4Mag correspondem à porção que declara 99 mg de magnésio.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/formula-4-mag-magnesio"
           }
         ],
         "comparisonTable": {
-          "caption": "Preços de vitrine em 18/11, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de duas cápsulas. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
+          "caption": "Preços de vitrine na consulta mais recente, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de duas cápsulas. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
           "headers": [
             "Embalagem",
             "Vitrine",
@@ -264035,25 +264047,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "4Mag, 30 dias",
-              "R$ 59,90",
-              "R$ 53,91",
-              "R$ 1,80"
+              "[4Mag, 30 dias](https://www.rituaria.com.br/products/formula-4-mag-magnesio)",
+              "R$ 52,90",
+              "R$ 47,61",
+              "R$ 1,59"
             ],
             [
-              "2x 4Mag, 60 dias",
-              "R$ 99,90",
-              "R$ 89,91",
-              "R$ 1,50"
+              "[2x 4Mag, 60 dias](https://www.rituaria.com.br/products/2x-formulas-4mag-magnesio-60-dias)",
+              "R$ 89,90",
+              "R$ 80,91",
+              "R$ 1,35"
             ],
             [
-              "4Mag, 90 dias (180 cápsulas)",
-              "R$ 129,90",
-              "R$ 116,91",
-              "R$ 1,30"
+              "[4Mag, 90 dias (180 cápsulas)](https://www.rituaria.com.br/products/formula-4mag-magnesio-90-dias)",
+              "R$ 119,90",
+              "R$ 107,91",
+              "R$ 1,20"
             ],
             [
-              "3x Fórmulas 4Mag (90 dias) — rendimento estimado",
+              "[3x Fórmulas 4Mag (90 dias)](https://www.rituaria.com.br/products/3x-formulas-4mag-transformacao-em-90-dias) — rendimento estimado",
               "R$ 169,90",
               "R$ 152,91",
               "R$ 1,70"
@@ -264064,7 +264076,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Prebiótica: cinco fibras num pó de 200 g",
         "paragraphs": [
-          "A Prebiótica é vendida em pote de 200 g. A composição lista inulina, goma acácia, psyllium, ágar e FOS, sem informar a quantidade individual de cada fibra.",
+          "A [Prebiótica](https://www.rituaria.com.br/products/formula-prebiotica) é vendida em pote de 200 g. A composição lista inulina, goma acácia, psyllium, ágar e FOS, sem informar a quantidade individual de cada fibra.",
           "A imagem nutricional declara 30 porções de 6,6 g, com 5,8 g de fibras por porção. A imagem de modo de uso da própria página fala em 1 dosador (6 g) ou 2 (12 g).",
           "A conta do quadro usa as 30 porções declaradas na imagem nutricional. Confirme a medida do dosador e a orientação da embalagem antes de usar essa conta como duração do pote."
         ],
@@ -264077,11 +264089,12 @@ export const reviewsData: unknown[] = [
             "alt": "Imagem oficial da Prebiótica da Rituária com o pote e a tabela nutricional",
             "caption": "A tabela nutricional da Prebiótica, em imagem da própria loja.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/formula-prebiotica"
           }
         ],
         "comparisonTable": {
-          "caption": "Preços de vitrine, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de 6,6 g.",
+          "caption": "Preços de vitrine na consulta mais recente, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de 6,6 g.",
           "headers": [
             "Embalagem",
             "Vitrine",
@@ -264090,22 +264103,22 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Prebiótica, 200 g (30 porções)",
-              "R$ 79,90",
-              "R$ 71,91",
-              "R$ 2,40"
+              "[Prebiótica, 200 g (30 porções)](https://www.rituaria.com.br/products/formula-prebiotica)",
+              "R$ 64,90",
+              "R$ 58,41",
+              "R$ 1,95"
             ],
             [
-              "2 Prebióticas (60 porções)",
-              "R$ 139,90",
-              "R$ 125,91",
-              "R$ 2,10"
+              "[2 Prebióticas (60 porções)](https://www.rituaria.com.br/products/2-formula-prebiotica)",
+              "R$ 124,90",
+              "R$ 112,41",
+              "R$ 1,87"
             ],
             [
-              "3 Prebióticas (90 porções)",
-              "R$ 179,90",
-              "R$ 161,91",
-              "R$ 1,80"
+              "[3 Prebióticas (90 porções)](https://www.rituaria.com.br/products/ritual-intestino-saudavel-prebiotica)",
+              "R$ 169,90",
+              "R$ 152,91",
+              "R$ 1,70"
             ]
           ]
         }
@@ -264113,7 +264126,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "NAC: confirme a composição antes de comparar",
         "paragraphs": [
-          "A página apresenta a fórmula como N-acetil-L-cisteína com selênio e molibdênio. A arte nutricional mostra 600 mg de “L-Cisteína”, 68 mcg de selênio e 45 mcg de molibdênio por cápsula; na embalagem da mesma imagem está escrito N-acetil-L-cisteína.",
+          "A página da [NAC](https://www.rituaria.com.br/products/nac) apresenta a fórmula como N-acetil-L-cisteína com selênio e molibdênio. A arte nutricional mostra 600 mg de “L-Cisteína”, 68 mcg de selênio e 45 mcg de molibdênio por cápsula; na embalagem da mesma imagem está escrito N-acetil-L-cisteína.",
           "A nomenclatura da arte e a da embalagem não coincidem. Antes de comparar essa composição com a de outra NAC, peça à loja a confirmação do nome do ativo e uma foto do rótulo.",
           "Para o rendimento, a página informa uma cápsula por dia, e o pote de 30 dias declara 30 cápsulas. Os preços abaixo usam essa quantidade declarada, sem avaliar a adequação do uso."
         ],
@@ -264123,11 +264136,12 @@ export const reviewsData: unknown[] = [
             "alt": "Imagem oficial da NAC da Rituária com o pote e a tabela nutricional",
             "caption": "A arte da loja escreve “L-Cisteína” na tabela e “N-acetil-L-cisteína” na embalagem.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/nac"
           }
         ],
         "comparisonTable": {
-          "caption": "Preços de vitrine, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de uma cápsula. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
+          "caption": "Preços de vitrine na consulta mais recente, no cartão. Simulação com EMCASA: 10% OFF; sem frete, Pix ou Leve 3, Pague 2. Custo por porção de uma cápsula. No kit 3x, o rendimento é estimado pelo nome; confirme o conteúdo antes de comprar.",
           "headers": [
             "Embalagem",
             "Vitrine",
@@ -264136,19 +264150,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "NAC, 30 dias",
-              "R$ 69,90",
-              "R$ 62,91",
-              "R$ 2,10"
+              "[NAC, 30 dias](https://www.rituaria.com.br/products/nac)",
+              "R$ 54,90",
+              "R$ 49,41",
+              "R$ 1,65"
             ],
             [
-              "2x NAC, 60 dias",
+              "[2x NAC, 60 dias](https://www.rituaria.com.br/products/2x-formula-nac-60-dias)",
               "R$ 129,90",
               "R$ 116,91",
               "R$ 1,95"
             ],
             [
-              "3x Fórmula NAC (90 dias) — rendimento estimado",
+              "[3x Fórmula NAC (90 dias)](https://www.rituaria.com.br/products/3x-formula-nac-60-dias-transformacao-em-90-dias) — rendimento estimado",
               "R$ 169,90",
               "R$ 152,91",
               "R$ 1,70"
@@ -264159,8 +264173,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que muda de uma página para outra",
         "paragraphs": [
-          "A mesma NAC aparece com composição diferente em duas páginas de kit. O Trio Essencial diz “Fórmula NAC + Selênio + Zinco (30 cápsulas)”. O Ritual Detox diz “Fórmula NAC + Selênio + Molibdênio”. A página da própria NAC diz N-acetil-L-cisteína, selênio e molibdênio.",
-          "Antes de comprar, peça a confirmação de qual composição corresponde ao produto enviado. O rótulo do produto enviado ajuda a resolver a diferença entre as páginas; não é preciso esperar receber a caixa para perguntar."
+          "A mesma NAC aparece com composição diferente em duas páginas de kit. O [Trio Essencial](https://www.rituaria.com.br/products/trio-essencial) diz “Fórmula NAC + Selênio + Zinco (30 cápsulas)”. O [Ritual Detox](https://www.rituaria.com.br/products/ritual-detox) diz “Fórmula NAC + Selênio + Molibdênio”. As páginas da [NAC de 30 dias](https://www.rituaria.com.br/products/nac) e da [NAC de 90 dias](https://www.rituaria.com.br/products/formula-nac-90-dias) dizem N-acetil-L-cisteína, selênio e molibdênio.",
+          "A divergência continuou na última consulta: o molibdênio aparece nas páginas da NAC e do Ritual Detox, e o zinco, só no Trio Essencial. Não sabemos qual das descrições reflete o frasco que a loja envia, e não vamos adivinhar.",
+          "Na prática, quem compra o kit por causa de um dos dois minerais precisa conferir antes. Peça à loja a confirmação de qual composição corresponde ao produto enviado e uma foto do rótulo. Não é preciso esperar receber a caixa para perguntar.",
+          "Vale o mesmo cuidado em qualquer comparação entre embalagens: o nome comercial parecido não garante a mesma fórmula, e a tabela nutricional de cada página é a referência de cada produto."
         ]
       },
       {
@@ -264170,8 +264186,8 @@ export const reviewsData: unknown[] = [
           "Nos kits 3x de 4Mag e de NAC, o rendimento foi estimado pelos 90 dias anunciados no nome. Antes de escolher pelo custo por porção, confirme quais potes e quantas cápsulas vêm no kit."
         ],
         "postParagraphs": [
-          "Na campanha Leve 3, Pague 2, unidades avulsas elegíveis podem formar outra conta. Os quadros não simulam essa promoção: compare o total do checkout antes de concluir que o kit ou o pote sai mais barato.",
-          "O [cupom Rituária](/cupons/rituaria) EMCASA dá 10% sobre o preço promocional. Não incluímos o desconto do Pix nem o frete nesses cálculos. O teste da combinação com a campanha está no [guia da Black Friday da Rituária](/reviews/black-friday-rituaria)."
+          "Na campanha Leve 3, Pague 2, unidades avulsas elegíveis formam outra conta, e os quadros não a simulam. Os termos da loja dizem que, se os três produtos forem iguais, um deles sai de graça, e o nosso teste de 22/11 com três Brain+ iguais confirmou isso no checkout. Compare o total do checkout antes de concluir que o kit ou o pote sai mais barato.",
+          "O [cupom Rituária](/cupons/rituaria) EMCASA dá 10% sobre o preço promocional e, no teste, somou com a promoção. Não incluímos o desconto do Pix nem o frete nesses cálculos. A conta completa está no [guia da Black Friday da Rituária](/reviews/black-friday-rituaria)."
         ]
       },
       {
@@ -264179,14 +264195,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As notas são altas, mas estão publicadas no site da própria marca. A do 4Mag tem nota 4,8 com 5.829 avaliações, e a da NAC tem 4,8 com 2.025. Não sabemos se o número junta produtos parecidos.",
           "O resumo automático de avaliações da NAC cita pó solto, fragmentos de cápsula, embalagem sem fechamento hermético e preço alto. Como não conferimos os relatos que o geraram, o resumo não mostra com que frequência esses problemas aparecem.",
-          "No Reclame Aqui, entre 01/05/2026 e 31/10/2026, a marca tem reputação máxima, com nota média de 8,7 e 93,8% das reclamações avaliadas como resolvidas. Na aba geral, que cobre até três anos, o problema mais citado é produto não recebido. Entre as reclamações mais recentes da lista, há relatos de reação a produtos da marca, e um de alergia atribuída a um brinde da promoção. Os números estão na [análise da marca no Reclame Aqui](/reviews/rituaria-reclame-aqui-nota-reputacao).",
           "Não encontramos resenha de veículo ou de nutricionista sem código de desconto."
-        ]
-      },
-      {
-        "heading": "Sobre a busca por emagrecimento",
-        "paragraphs": [
-          "Suplementos alimentares não podem ser anunciados com alegação de emagrecimento. A existência dessa categoria no menu da loja não comprova resultado de uma fórmula; dúvidas sobre uso e objetivos de saúde devem ser discutidas com um profissional."
         ]
       },
       {
@@ -264194,13 +264203,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Composição, porção e preço ajudam a comparar a compra, mas não demonstram como uma pessoa vai responder ao produto. Nos casos de divergência mostrados acima, peça à loja o rótulo do produto antes de pagar.",
           "Se comprar fora do site oficial, confira o vendedor e as regras de cada anúncio. Este guia não verificou os vendedores dos marketplaces; o EMCASA vale no site oficial da Rituária.",
+          "Sobre a busca por emagrecimento: suplementos alimentares não podem ser anunciados com alegação de emagrecimento. A existência dessa categoria no menu da loja não comprova resultado de uma fórmula, e dúvidas sobre uso e objetivos de saúde devem ir a um profissional.",
           "Ao receber, compare a embalagem com o pedido e verifique o rótulo antes de abrir. A política de desistência e o portal de trocas estão no capítulo seguinte."
         ]
       },
       {
         "heading": "Registro, troca e devolução",
         "paragraphs": [
-          "A página Sobre nós tem o título “REGISTRO NA ANVISA”, sem número. Para saber se um produto está regularizado, confira o rótulo dele: a [análise de confiança da marca](/reviews/rituaria-e-confiavel) explica o que procurar.",
+          "A página Sobre nós tem o título “REGISTRO NA ANVISA”, sem número. Para saber se um produto está regularizado, confira o rótulo dele e consulte a regularização da fórmula no portal da Anvisa, pelo nome do fabricante que o rótulo traz.",
           "A política da loja permite desistir em 7 dias corridos após o recebimento, com devolução gratuita e reembolso integral com frete, desde que o produto esteja completo e sem sinais de uso. Em caso de defeito, avaria ou produto errado, recuse na entrega ou fale com a loja em até 30 dias corridos após o recebimento. Não há troca por insatisfação depois do uso, e o cancelamento só é possível antes de o pedido ser separado no centro de distribuição.",
           "Leve dúvidas sobre dose e saúde ao médico ou nutricionista, especialmente se você usa medicamentos, está grávida ou amamenta."
         ]
@@ -264210,7 +264220,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Rituária é boa? O guia identifica composição, rendimento e custo das embalagens analisadas, com divergências que precisam ser esclarecidas pela loja. Esses dados ajudam a avaliar a compra, mas não demonstram eficácia dos produtos.",
           "A Rituária funciona? Composição e relatos de clientes, sozinhos, não comprovam resultado para o seu caso. Para escolher e usar uma fórmula, confirme o rótulo e procure orientação profissional.",
-          "A Rituária vale a pena? Compare embalagens da mesma fórmula pelo custo por porção com o EMCASA e pelo total entregue. Se houver Leve 3, Pague 2, confira também a compra de avulsos no checkout.",
+          "A Rituária vale a pena? Compare embalagens da mesma fórmula pelo custo por porção com o EMCASA e pelo total entregue. No Leve 3, Pague 2, o EMCASA somou com a promoção no nosso teste com três unidades iguais, e vale conferir o total no checkout.",
           "A Rituária emagrece? Não há comprovação de emagrecimento apresentada neste guia, e suplementos não podem ser anunciados com essa alegação.",
           "Quem toma remédio pode usar? A compatibilidade depende do medicamento, da composição e da pessoa. Converse com médico ou nutricionista antes de usar suplementos."
         ]
@@ -264232,6 +264242,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "18 de novembro de 2026",
     "publishedAtISO": "2026-11-18",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -264275,7 +264286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual cupom usar na primeira compra da Rituária",
         "paragraphs": [
-          "A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos. Se você ainda está conhecendo a marca, veja quem vende e as regras de compra em [Rituária é confiável?](/reviews/rituaria-e-confiavel).",
+          "A Rituária é uma marca brasileira de suplementos, superfoods e dermocosméticos, com loja própria e checkout em seguro.rituaria.com.br.",
           "Para o primeiro pedido, use EMCASA. A loja informa 10% OFF no site oficial, e no nosso teste o desconto entrou sobre o preço promocional. O mesmo código também vale para quem já é cliente.",
           "Na página do [cupom Rituária](/cupons/rituaria) ficam o código e as condições em vigor."
         ]
@@ -264283,11 +264294,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom tira: a conta dos carrinhos testados",
         "paragraphs": [
-          "Conta nossa: pelo resumo do checkout, o EMCASA tirou 10% do total dos dois carrinhos que montamos em 17/11. Nos dois havia produto em promoção, e os 10% entraram sobre o preço promocional.",
+          "Conta nossa: pelo resumo do checkout, o EMCASA tirou 10% do total dos dois carrinhos que montamos. Nos dois havia produto em promoção, e os 10% entraram sobre o preço promocional.",
           "O preço de vitrine pode mudar. O resumo do checkout é o que vale, então confira o seu total nele antes de pagar."
         ],
         "comparisonTable": {
-          "caption": "Os dois carrinhos no checkout da Rituária, sem frete. O total muda com o CEP.",
+          "caption": "Os dois carrinhos no checkout da Rituária, com os preços de vitrine do dia do teste e sem frete. O total muda com o CEP.",
           "headers": [
             "Produtos do carrinho",
             "Subtotal",
@@ -264296,13 +264307,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Capilar Nutri 30 dias (R$ 49,90) e Fórmula Mov Nutri 30 dias (R$ 69,90)",
+              "[Capilar Nutri 30 dias](https://www.rituaria.com.br/products/capilar-nutri) e [Fórmula Mov Nutri 30 dias](https://www.rituaria.com.br/products/formula-mov-nutri)",
               "R$ 119,80",
               "R$ 11,98",
               "R$ 107,82"
             ],
             [
-              "Fórmula 4Mag 30 dias (R$ 59,90), Capilar Nutri 30 dias (R$ 49,90) e Fórmula Complexo B 60 dias (R$ 44,90)",
+              "[Fórmula 4Mag 30 dias](https://www.rituaria.com.br/products/formula-4-mag-magnesio), [Capilar Nutri 30 dias](https://www.rituaria.com.br/products/capilar-nutri) e [Fórmula Complexo B 60 dias](https://www.rituaria.com.br/products/formula-complexo-b)",
               "R$ 154,70",
               "R$ 15,47",
               "R$ 139,23"
@@ -264325,18 +264336,20 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/rituaria/cupom-rituaria-checkout-com-cupom.webp",
-            "alt": "Resumo do checkout da Rituária com o cupom EMCASA no campo Tem um cupom?, a linha de desconto de R$ 11,98 e o total de R$ 107,82",
-            "caption": "O EMCASA aplicado no checkout da Rituária, no nosso teste. A linha Descontos mostra quanto saiu do pedido.",
+            "src": "/images/reviews/rituaria/cupom-rituaria-primeira-compra-capilar-nutri.webp",
+            "alt": "Frasco da Fórmula Capilar Nutri da Rituária, com 30 cápsulas, em foto oficial da loja",
+            "caption": "Capilar Nutri, um dos suplementos do carrinho de teste do EMCASA.",
             "objectFit": "contain",
-            "aspectRatio": 0.894
+            "aspectRatio": 1,
+            "href": "https://www.rituaria.com.br/products/capilar-nutri"
           }
         ]
       },
       {
         "heading": "O mesmo código vale na segunda compra",
         "paragraphs": [
-          "Na segunda compra você digita o mesmo EMCASA, no mesmo campo do checkout: o código vale para quem já é cliente.",
+          "Na segunda compra você digita o mesmo EMCASA, no mesmo campo do checkout: o código vale para quem já é cliente, e a loja não pede que o pedido seja o primeiro. Ele vale em qualquer forma de pagamento e também entra sobre o preço promocional.",
+          "Ele também somou com a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2): no teste de 22/11, com três Brain+ iguais, o EMCASA tirou 10% do total que sobrou depois do frasco grátis. Quem volta para comprar de novo pode usar as duas coisas, conferindo o resumo antes de pagar.",
           "A loja também anuncia 10% de cashback para a próxima compra. Pelos termos, desconto e cashback não são cumulativos, e você escolhe um benefício por compra. Na próxima compra, veja no resumo do pedido qual dos dois entrou."
         ]
       },
@@ -264353,7 +264366,7 @@ export const reviewsData: unknown[] = [
           "**Cancelamento.** Só é possível antes de o pedido ser separado. Depois disso, o caminho é recusar a entrega ou devolver o produto, pelo portal de trocas da loja."
         ],
         "postParagraphs": [
-          "A central de ajuda da loja atende de segunda a sexta-feira, das 08h às 17h, e indica o chat do site e o Direct do Instagram. Quem toma remédio, está grávida ou amamenta fala com médico ou nutricionista antes de começar um suplemento."
+          "A central de ajuda da loja atende de segunda a sexta-feira, das 08h às 17h, e indica o chat do site e o Direct do Instagram; há também o WhatsApp (11) 93618-9138 e o e-mail contato@rituaria.com.br. Quem toma remédio, está grávida ou amamenta fala com médico ou nutricionista antes de começar um suplemento."
         ],
         "images": [
           {
@@ -310935,7 +310948,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -310952,7 +310965,7 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa-v2.webp",
     "imageAlt": "Frasco âmbar do Brain+ da Rituária, com rótulo lilás, em cenário ilustrado lilás. A capa pergunta «O que tem no frasco?» e mostra o cupom EMCASA.",
     "cta": {
-      "text": "Veja o rótulo e as opções de embalagem no site da Rituária. No avulso, o EMCASA entrou no teste feito no checkout.",
+      "text": "Veja o rótulo e as opções de embalagem no site da Rituária. No avulso e nos três frascos com o Leve 3, Pague 2, o EMCASA entrou nos testes feitos no checkout.",
       "label": "Ir para a Rituária",
       "url": "https://www.rituaria.com.br/",
       "sponsored": true
@@ -310984,7 +310997,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Brain+ é um suplemento alimentar em cápsulas que a Rituária vende para foco, sem cafeína. Cada frasco tem 60 cápsulas e a loja orienta duas ao dia, o que dá 30 dias. O EMCASA tira 10% no checkout; pela regra do Leve 3, Pague 2, três avulsos custam menos que o kit 3x, mesmo sem o cupom."
+          "O Brain+ é um suplemento alimentar em cápsulas que a Rituária vende para foco, sem cafeína. Cada frasco tem 60 cápsulas e a loja orienta duas ao dia, o que dá 30 dias. O [cupom Rituária](/cupons/rituaria) EMCASA tira 10% no checkout e, no nosso teste, somou com o Leve 3, Pague 2 em três frascos."
         ]
       },
       {
@@ -311037,7 +311050,7 @@ export const reviewsData: unknown[] = [
           "O checkout também mostra um aviso da loja de 5% de desconto no Pix, que não entra nas contas deste capítulo."
         ],
         "comparisonTable": {
-          "caption": "Preços da página em 21/11/2026. O avulso foi testado no checkout; nos kits, o valor com EMCASA é conta nossa de 10% sobre o preço da página, com 60 cápsulas por frasco e 2 ao dia. Na linha dos três avulsos com a promoção, o valor por dia é sem cupom (R$ 139,80 ÷ 90), porque não testamos o EMCASA junto com ela.",
+          "caption": "Preços da página no teste de 22/11. O avulso e os três frascos foram testados no checkout; nos kits, o valor com EMCASA é conta nossa de 10% sobre o preço da página, com 60 cápsulas por frasco e 2 ao dia.",
           "headers": [
             "Opção",
             "Preço na página",
@@ -311054,8 +311067,8 @@ export const reviewsData: unknown[] = [
             [
               "[3 avulsos no Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2)",
               "R$ 139,80",
-              "Confira no checkout",
-              "R$ 1,55 (sem cupom)"
+              "R$ 125,82",
+              "R$ 1,40"
             ],
             [
               "[2x Brain+](https://www.rituaria.com.br/products/2x-formula-brain-60-dias-60-capsulas)",
@@ -311080,7 +311093,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Os títulos dos kits falam em “60 cápsulas” no 2x e “90 cápsulas” no 3x, mas as fotos mostram dois e três frascos de 60 cápsulas. A conta por dia usa as fotos: 120 cápsulas no 2x e 180 no 3x. O kit 2x custa praticamente o mesmo que dois avulsos; o 3x baixa o custo por dia.",
           "O Kit Performance Masculina reúne dois produtos distintos: um frasco de Nutri Men (60 cápsulas de 500 mg) e um frasco de Brain+ (60 cápsulas de 550 mg). Como o preço cobre os dois suplementos juntos, não dividimos o total apenas pelos dias do Brain+.",
-          "Sem cupom, o avulso dá cerca de R$ 2,33 por dia. Enquanto durar a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2) da loja, vale mais levar três avulsos do que o kit 3x: o Brain+ avulso está na coleção, e a regra da página é que, com três suplementos no carrinho, o de menor valor sai de graça. Pela regra da promoção, sem o EMCASA, três frascos saem por R$ 139,80, contra R$ 189,90 do kit. Os kits ficam fora da promoção, e a página não informa até quando ela vale. Confira no checkout se o EMCASA entra junto com a promoção."
+          "Sem cupom, o avulso dá cerca de R$ 2,33 por dia. Enquanto durar a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2) da loja, vale mais levar três avulsos do que o kit 3x: o Brain+ avulso está na coleção, e a regra da página é que, com três suplementos no carrinho, o de menor valor sai de graça. Pela regra da promoção, sem o EMCASA, três frascos saem por R$ 139,80, contra R$ 189,90 do kit. Com o cupom, o teste com três Brain+ iguais fechou em R$ 125,82, contra R$ 170,91 do kit 3x com o EMCASA (conta nossa). Os kits ficam fora da promoção, e a página não informa até quando ela vale."
         ],
         "images": [
           {
@@ -311105,7 +311118,8 @@ export const reviewsData: unknown[] = [
         "heading": "Antes de começar",
         "paragraphs": [
           "A página destina o produto a pessoas de 19 anos ou mais. Durante a gestação ou amamentação, confirme com o profissional que acompanha você antes de usar.",
-          "Leve a lista de ingredientes e o rótulo para a consulta, lembrando que a fórmula declara derivados de soja."
+          "A fórmula declara derivados de soja, então quem tem alergia a soja deve evitar. Quem usa medicamentos ou tem alguma condição de saúde também deve falar com médico ou nutricionista antes de começar.",
+          "Suplemento alimentar não substitui alimentação equilibrada, diagnóstico nem tratamento. Siga o modo de uso do rótulo, de 2 cápsulas ao dia, e leve a lista de ingredientes e o rótulo para a consulta."
         ]
       },
       {
@@ -311115,8 +311129,8 @@ export const reviewsData: unknown[] = [
           "O Brain+ tem cafeína? A página traz o selo “livre de cafeína” e o título fala em fórmula sem cafeína.",
           "Como tomar o Brain+? A orientação publicada pela Rituária é de 2 cápsulas ao dia com um copo de água, de preferência pela manhã.",
           "Gestante pode tomar o Brain+? Converse com quem acompanha a gestação ou a amamentação antes de usar o suplemento.",
-          "Vale mais o kit 3x ou três frascos avulsos? Com a promoção Leve 3, Pague 2 da loja no ar, três avulsos saem mais baratos que o kit 3x, porque o terceiro frasco sai de graça. Sem a promoção, o kit 3x tem o menor custo por dia.",
-          "Tem cupom para o Brain+? O EMCASA dá 10% OFF na Rituária e foi aplicado no carrinho do Brain+ avulso. Digite o código no campo de cupom do checkout e confira a linha do desconto antes de pagar."
+          "Vale mais o kit 3x ou três frascos avulsos? Com a promoção Leve 3, Pague 2 da loja no ar, três avulsos saem mais baratos que o kit 3x: no teste, o total foi de R$ 125,82 com o EMCASA, contra R$ 170,91 do kit 3x com o cupom (conta nossa). Sem a promoção, o kit 3x tem o menor custo por dia.",
+          "Tem cupom para o Brain+? O EMCASA dá 10% OFF na Rituária e foi aplicado no carrinho do Brain+ avulso e no de três frascos com o Leve 3, Pague 2. Digite o código no campo de cupom do checkout e confira a linha do desconto antes de pagar."
         ]
       }
     ]

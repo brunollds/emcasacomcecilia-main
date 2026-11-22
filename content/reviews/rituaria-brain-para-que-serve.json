@@ -13,7 +13,7 @@
   },
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -30,7 +30,7 @@
   "image": "/images/reviews/rituaria/rituaria-brain-para-que-serve-capa-v2.webp",
   "imageAlt": "Frasco âmbar do Brain+ da Rituária, com rótulo lilás, em cenário ilustrado lilás. A capa pergunta «O que tem no frasco?» e mostra o cupom EMCASA.",
   "cta": {
-    "text": "Veja o rótulo e as opções de embalagem no site da Rituária. No avulso, o EMCASA entrou no teste feito no checkout.",
+    "text": "Veja o rótulo e as opções de embalagem no site da Rituária. No avulso e nos três frascos com o Leve 3, Pague 2, o EMCASA entrou nos testes feitos no checkout.",
     "label": "Ir para a Rituária",
     "url": "https://www.rituaria.com.br/",
     "sponsored": true
@@ -62,7 +62,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Brain+ é um suplemento alimentar em cápsulas que a Rituária vende para foco, sem cafeína. Cada frasco tem 60 cápsulas e a loja orienta duas ao dia, o que dá 30 dias. O EMCASA tira 10% no checkout; pela regra do Leve 3, Pague 2, três avulsos custam menos que o kit 3x, mesmo sem o cupom."
+        "O Brain+ é um suplemento alimentar em cápsulas que a Rituária vende para foco, sem cafeína. Cada frasco tem 60 cápsulas e a loja orienta duas ao dia, o que dá 30 dias. O [cupom Rituária](/cupons/rituaria) EMCASA tira 10% no checkout e, no nosso teste, somou com o Leve 3, Pague 2 em três frascos."
       ]
     },
     {
@@ -115,7 +115,7 @@
         "O checkout também mostra um aviso da loja de 5% de desconto no Pix, que não entra nas contas deste capítulo."
       ],
       "comparisonTable": {
-        "caption": "Preços da página em 21/11/2026. O avulso foi testado no checkout; nos kits, o valor com EMCASA é conta nossa de 10% sobre o preço da página, com 60 cápsulas por frasco e 2 ao dia. Na linha dos três avulsos com a promoção, o valor por dia é sem cupom (R$ 139,80 ÷ 90), porque não testamos o EMCASA junto com ela.",
+        "caption": "Preços da página no teste de 22/11. O avulso e os três frascos foram testados no checkout; nos kits, o valor com EMCASA é conta nossa de 10% sobre o preço da página, com 60 cápsulas por frasco e 2 ao dia.",
         "headers": [
           "Opção",
           "Preço na página",
@@ -132,8 +132,8 @@
           [
             "[3 avulsos no Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2)",
             "R$ 139,80",
-            "Confira no checkout",
-            "R$ 1,55 (sem cupom)"
+            "R$ 125,82",
+            "R$ 1,40"
           ],
           [
             "[2x Brain+](https://www.rituaria.com.br/products/2x-formula-brain-60-dias-60-capsulas)",
@@ -158,7 +158,7 @@
       "postParagraphs": [
         "Os títulos dos kits falam em “60 cápsulas” no 2x e “90 cápsulas” no 3x, mas as fotos mostram dois e três frascos de 60 cápsulas. A conta por dia usa as fotos: 120 cápsulas no 2x e 180 no 3x. O kit 2x custa praticamente o mesmo que dois avulsos; o 3x baixa o custo por dia.",
         "O Kit Performance Masculina reúne dois produtos distintos: um frasco de Nutri Men (60 cápsulas de 500 mg) e um frasco de Brain+ (60 cápsulas de 550 mg). Como o preço cobre os dois suplementos juntos, não dividimos o total apenas pelos dias do Brain+.",
-        "Sem cupom, o avulso dá cerca de R$ 2,33 por dia. Enquanto durar a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2) da loja, vale mais levar três avulsos do que o kit 3x: o Brain+ avulso está na coleção, e a regra da página é que, com três suplementos no carrinho, o de menor valor sai de graça. Pela regra da promoção, sem o EMCASA, três frascos saem por R$ 139,80, contra R$ 189,90 do kit. Os kits ficam fora da promoção, e a página não informa até quando ela vale. Confira no checkout se o EMCASA entra junto com a promoção."
+        "Sem cupom, o avulso dá cerca de R$ 2,33 por dia. Enquanto durar a promoção [Leve 3, Pague 2](https://www.rituaria.com.br/collections/leve-3-pague-2) da loja, vale mais levar três avulsos do que o kit 3x: o Brain+ avulso está na coleção, e a regra da página é que, com três suplementos no carrinho, o de menor valor sai de graça. Pela regra da promoção, sem o EMCASA, três frascos saem por R$ 139,80, contra R$ 189,90 do kit. Com o cupom, o teste com três Brain+ iguais fechou em R$ 125,82, contra R$ 170,91 do kit 3x com o EMCASA (conta nossa). Os kits ficam fora da promoção, e a página não informa até quando ela vale."
       ],
       "images": [
         {
@@ -183,7 +183,8 @@
       "heading": "Antes de começar",
       "paragraphs": [
         "A página destina o produto a pessoas de 19 anos ou mais. Durante a gestação ou amamentação, confirme com o profissional que acompanha você antes de usar.",
-        "Leve a lista de ingredientes e o rótulo para a consulta, lembrando que a fórmula declara derivados de soja."
+        "A fórmula declara derivados de soja, então quem tem alergia a soja deve evitar. Quem usa medicamentos ou tem alguma condição de saúde também deve falar com médico ou nutricionista antes de começar.",
+        "Suplemento alimentar não substitui alimentação equilibrada, diagnóstico nem tratamento. Siga o modo de uso do rótulo, de 2 cápsulas ao dia, e leve a lista de ingredientes e o rótulo para a consulta."
       ]
     },
     {
@@ -193,8 +194,8 @@
         "O Brain+ tem cafeína? A página traz o selo “livre de cafeína” e o título fala em fórmula sem cafeína.",
         "Como tomar o Brain+? A orientação publicada pela Rituária é de 2 cápsulas ao dia com um copo de água, de preferência pela manhã.",
         "Gestante pode tomar o Brain+? Converse com quem acompanha a gestação ou a amamentação antes de usar o suplemento.",
-        "Vale mais o kit 3x ou três frascos avulsos? Com a promoção Leve 3, Pague 2 da loja no ar, três avulsos saem mais baratos que o kit 3x, porque o terceiro frasco sai de graça. Sem a promoção, o kit 3x tem o menor custo por dia.",
-        "Tem cupom para o Brain+? O EMCASA dá 10% OFF na Rituária e foi aplicado no carrinho do Brain+ avulso. Digite o código no campo de cupom do checkout e confira a linha do desconto antes de pagar."
+        "Vale mais o kit 3x ou três frascos avulsos? Com a promoção Leve 3, Pague 2 da loja no ar, três avulsos saem mais baratos que o kit 3x: no teste, o total foi de R$ 125,82 com o EMCASA, contra R$ 170,91 do kit 3x com o cupom (conta nossa). Sem a promoção, o kit 3x tem o menor custo por dia.",
+        "Tem cupom para o Brain+? O EMCASA dá 10% OFF na Rituária e foi aplicado no carrinho do Brain+ avulso e no de três frascos com o Leve 3, Pague 2. Digite o código no campo de cupom do checkout e confira a linha do desconto antes de pagar."
       ]
     }
   ]
