@@ -17,7 +17,7 @@
   "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Camiseta oversized, bodies e alfaiataria pelo que a loja publica: para quem compensa.",
   "publishedAt": "4 de novembro de 2026",
   "publishedAtISO": "2026-11-04",
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/clea-store/clea-store-e-boa-capa-v2.webp",
@@ -78,15 +78,16 @@
         "caption": "Preço de lista no site, 03/11. A loja põe os kits em promoção com frequência: o preço riscado é o de lista, e o cupom entra sobre o preço do dia."
       },
       "postParagraphs": [
-        "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, pois a promoção do kit nem sempre garante o menor preço por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa)."
+        "Os kits [Colorful](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-colorful-4421), [Intense](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-intense-4422) e [Brazil Edition](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-brazil-edition-4333) custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, pois a promoção do kit nem sempre garante o menor preço por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa)."
       ],
       "images": [
         {
-          "src": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
-          "alt": "Modelo com a camiseta oversized off white do Kit 3 T-Shirts Oversized Classic da Cléa Store",
-          "caption": "O Kit Classic: off white, preto e marrom, uma de cada. Imagem: Cléa Store.",
-          "objectFit": "square",
-          "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951"
+          "src": "/images/reviews/clea-store/clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+          "alt": "Caixa The Essentials da Cléa Store com camisetas dobradas em rosa, verde, bege, off white, marrom e preto, foto oficial do Kit 3 T-Shirts Essenciais",
+          "caption": "O Kit 3 T-Shirts Essenciais, em que você escolhe as três cores. Imagem: Cléa Store.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229"
         }
       ],
       "styling": {
@@ -170,7 +171,7 @@
             "R$ 159,00"
           ],
           [
-            "Body Tule Gola Alta Second Skin",
+            "[Body Tule Gola Alta Second Skin](https://www.cleastore.com.br/produto/body-tule-gola-alta-second-skin-tule-4019)",
             "Gola alta em tule",
             "R$ 159,00"
           ]
@@ -182,11 +183,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
-          "alt": "Modelo com o body gola alta manga longa Second Skin da Cléa Store",
-          "caption": "O Gola Alta Manga Longa, que a loja indica sozinho ou por baixo do blazer. Imagem: Cléa Store.",
-          "objectFit": "portrait",
-          "href": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047"
+          "src": "/images/reviews/clea-store/clea-store-e-boa-body-ombro-unico.webp",
+          "alt": "Modelo com o body ombro único rosa claro da Cléa Store e calça jeans clara",
+          "caption": "Body Ombro Único com Detalhe nas Costas. Imagem: Cléa Store.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230"
         }
       ],
       "styling": {
@@ -233,11 +235,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-colete-4221.webp",
-          "alt": "Colete frente única de linho bege da Cléa Store, foto oficial da loja",
-          "caption": "O colete de linho bege: a alfaiataria se monta peça a peça. Imagem: Cléa Store.",
-          "objectFit": "portrait",
-          "href": "https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221"
+          "src": "/images/reviews/clea-store/clea-store-e-boa-calca-alfaiataria-caqui.webp",
+          "alt": "Modelo de corpo inteiro com a calça de alfaiataria caqui da Cléa Store, colete caqui com cinto e blusa clara de manga longa",
+          "caption": "Calça Alfaiataria Caqui, montada com colete e blusa vendidos à parte. Imagem: Cléa Store.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.cleastore.com.br/produto/calca-alfaiataria-caqui-4343"
         }
       ]
     },
@@ -265,7 +268,16 @@
     {
       "heading": "Dá para confiar na Cléa Store",
       "paragraphs": [
-        "Dá. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No [Reclame Aqui](/reviews/clea-store-reclame-aqui-nota-reputacao), a reputação é Regular nos seis meses (nota 6,9) e Boa nos 12, com o selo de Empresa Verificada, todas as reclamações respondidas e perto de 80% resolvidas; o ponto fraco é que pouco mais da metade de quem avaliou a loja voltaria a comprar. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados. CNPJ, trocas e frete estão em \"Cléa Store é confiável?\", e a análise das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
+        "Dá, com pontos de atenção. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No Reclame Aqui, consultado em 21 de novembro de 2026, o perfil mostrava:"
+      ],
+      "bullets": [
+        "**A favor:** reputação Boa nos 6 meses (nota 7,1) e nos 12 (nota 7,2), selo de Empresa Verificada e 5 anos de perfil na plataforma.",
+        "**A favor:** 100% das reclamações respondidas, com 80% resolvidas entre as avaliadas no semestre, e 4,8 em 5 nas avaliações de compra do RA Reviews.",
+        "**Atenção:** só 58% das reclamações avaliadas terminaram com o consumidor disposto a voltar a comprar, e a nota média do consumidor foi de 5,06.",
+        "**Atenção:** produto não recebido é o problema mais citado na aba geral do perfil, com 33,18%, e o tempo médio de resposta foi de 2 dias e 18 horas."
+      ],
+      "postParagraphs": [
+        "Os índices de solução e de recompra valem para quem reclamou e avaliou, não para todas as compradoras, e a nota mede o atendimento às reclamações, não a qualidade das peças. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados, e a devolução grátis dentro dos 30 dias como rede de segurança."
       ]
     },
     {
@@ -286,7 +298,7 @@
         "A Cléa Store é boa? Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10%; o que pesa é o tamanho e o preço por peça do kit, nos capítulos da camiseta e do cupom.",
         "A camiseta da Cléa é boa? Pelo que a loja publica, a oversized tem corpo 100% algodão, dez cores e tamanhos P, M e G, sem a gramatura na página, e a Comfort tem algodão peruano e caimento regular; o capítulo da camiseta resume e aponta o guia completo.",
         "A Cléa Store tem cupom? Tem: o CSEMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback; o capítulo do cupom mostra onde digitar.",
-        "A Cléa Store é confiável? Sim, com ressalva: CNPJ ativo, dados publicados no site, devolução grátis e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui, com todas as reclamações respondidas, como mostra o capítulo de confiança.",
+        "A Cléa Store é confiável? Sim, com pontos de atenção: CNPJ ativo, dados publicados no site, devolução grátis e reputação Boa nos 6 e nos 12 meses no Reclame Aqui, com todas as reclamações respondidas. Só 58% das reclamações avaliadas terminaram com o consumidor disposto a voltar a comprar, como mostra o capítulo de confiança.",
         "A Cléa Store tem tabela de medidas? Tem, na página de cada peça, no botão \"Tabela de Medidas\", com busto, cintura e quadril em centímetros; o capítulo de tamanho explica como usar."
       ]
     }

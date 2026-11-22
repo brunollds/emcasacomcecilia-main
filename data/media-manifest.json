@@ -196938,6 +196938,348 @@
       "verified_at": "2026-11-22T02:49:55.188Z",
       "verification_etag_or_digest": "04c690ec354104772f059b3669e959caa93de607208577a413cb0e8ed7f3311f",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/black-friday-clea-store-blusa-peplum-rosa.webp",
+      "local_url": "/images/reviews/clea-store/black-friday-clea-store-blusa-peplum-rosa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25550,
+      "sha256": "aead53c6c2c1f2563ee4a47a0511452356fb437b30774e0707e8fe3b5ff92337",
+      "width": 800,
+      "height": 1115,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-clea-store-blusa-peplum-rosa.webp",
+      "storage_filename": "black-friday-clea-store-blusa-peplum-rosa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-clea-store.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-clea-store.json",
+          "line": 274,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/black-friday-clea-store-blusa-peplum-rosa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/aead53c6c2c1f2563ee4a47a0511452356fb437b30774e0707e8fe3b5ff92337/black-friday-clea-store-blusa-peplum-rosa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aead53c6c2c1f2563ee4a47a0511452356fb437b30774e0707e8fe3b5ff92337/black-friday-clea-store-blusa-peplum-rosa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:10.892Z",
+      "verification_etag_or_digest": "aead53c6c2c1f2563ee4a47a0511452356fb437b30774e0707e8fe3b5ff92337",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-e-boa-body-ombro-unico.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-e-boa-body-ombro-unico.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61494,
+      "sha256": "e2e03451b54f50548d4b6e25d3ec382b49f5fcd4f9ccbddc34cc1e534bf44924",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-e-boa-body-ombro-unico.webp",
+      "storage_filename": "clea-store-e-boa-body-ombro-unico.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-e-boa.json",
+          "line": 186,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-e-boa-body-ombro-unico.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e2e03451b54f50548d4b6e25d3ec382b49f5fcd4f9ccbddc34cc1e534bf44924/clea-store-e-boa-body-ombro-unico.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e2e03451b54f50548d4b6e25d3ec382b49f5fcd4f9ccbddc34cc1e534bf44924/clea-store-e-boa-body-ombro-unico.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:10.893Z",
+      "verification_etag_or_digest": "e2e03451b54f50548d4b6e25d3ec382b49f5fcd4f9ccbddc34cc1e534bf44924",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-e-boa-calca-alfaiataria-caqui.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-e-boa-calca-alfaiataria-caqui.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21572,
+      "sha256": "8fb29876f39a462cee8c3824dc9464822e5a13fb13a83b5c7990f8c8791de64e",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-e-boa-calca-alfaiataria-caqui.webp",
+      "storage_filename": "clea-store-e-boa-calca-alfaiataria-caqui.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-e-boa.json",
+          "line": 238,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-e-boa-calca-alfaiataria-caqui.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8fb29876f39a462cee8c3824dc9464822e5a13fb13a83b5c7990f8c8791de64e/clea-store-e-boa-calca-alfaiataria-caqui.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8fb29876f39a462cee8c3824dc9464822e5a13fb13a83b5c7990f8c8791de64e/clea-store-e-boa-calca-alfaiataria-caqui.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:10.893Z",
+      "verification_etag_or_digest": "8fb29876f39a462cee8c3824dc9464822e5a13fb13a83b5c7990f8c8791de64e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29356,
+      "sha256": "a4a00d432b0c56c4078151f8df5472a5ad70801b51d1358884bce5bb399a4636",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+      "storage_filename": "clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-e-boa.json",
+          "line": 85,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a4a00d432b0c56c4078151f8df5472a5ad70801b51d1358884bce5bb399a4636/clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a4a00d432b0c56c4078151f8df5472a5ad70801b51d1358884bce5bb399a4636/clea-store-e-boa-kit-3-t-shirts-essenciais.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:10.893Z",
+      "verification_etag_or_digest": "a4a00d432b0c56c4078151f8df5472a5ad70801b51d1358884bce5bb399a4636",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-e-confiavel-rodape-cnpj-2026-11.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-e-confiavel-rodape-cnpj-2026-11.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15896,
+      "sha256": "f900839259e9156afb9f4ef4e4e2f143a09ac622a46102994c99e4b1c6c0debc",
+      "width": 708,
+      "height": 270,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-e-confiavel-rodape-cnpj-2026-11.webp",
+      "storage_filename": "clea-store-e-confiavel-rodape-cnpj-2026-11.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-e-confiavel.json",
+          "line": 87,
+          "column": 17,
+          "literal": "/images/reviews/clea-store/clea-store-e-confiavel-rodape-cnpj-2026-11.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f900839259e9156afb9f4ef4e4e2f143a09ac622a46102994c99e4b1c6c0debc/clea-store-e-confiavel-rodape-cnpj-2026-11.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f900839259e9156afb9f4ef4e4e2f143a09ac622a46102994c99e4b1c6c0debc/clea-store-e-confiavel-rodape-cnpj-2026-11.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:10.893Z",
+      "verification_etag_or_digest": "f900839259e9156afb9f4ef4e4e2f143a09ac622a46102994c99e4b1c6c0debc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-mercado-livre-ou-site-body-tule-gola-alta.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-body-tule-gola-alta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43980,
+      "sha256": "f4c9922fe5e83c0486e74fcf69d423a23aaddd51086c7521361339cb96f00c64",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-mercado-livre-ou-site-body-tule-gola-alta.webp",
+      "storage_filename": "clea-store-mercado-livre-ou-site-body-tule-gola-alta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-mercado-livre-ou-site.json",
+          "line": 162,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-body-tule-gola-alta.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f4c9922fe5e83c0486e74fcf69d423a23aaddd51086c7521361339cb96f00c64/clea-store-mercado-livre-ou-site-body-tule-gola-alta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4c9922fe5e83c0486e74fcf69d423a23aaddd51086c7521361339cb96f00c64/clea-store-mercado-livre-ou-site-body-tule-gola-alta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:10.893Z",
+      "verification_etag_or_digest": "f4c9922fe5e83c0486e74fcf69d423a23aaddd51086c7521361339cb96f00c64",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas-2026-11.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas-2026-11.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12228,
+      "sha256": "3f640bcac1e888cb5d3e9292a557bcfa5f245234ffb38d2a76493a0def7eb4e0",
+      "width": 762,
+      "height": 409,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-reclame-aqui-principais-problemas-2026-11.webp",
+      "storage_filename": "clea-store-reclame-aqui-principais-problemas-2026-11.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+          "line": 169,
+          "column": 17,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas-2026-11.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3f640bcac1e888cb5d3e9292a557bcfa5f245234ffb38d2a76493a0def7eb4e0/clea-store-reclame-aqui-principais-problemas-2026-11.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3f640bcac1e888cb5d3e9292a557bcfa5f245234ffb38d2a76493a0def7eb4e0/clea-store-reclame-aqui-principais-problemas-2026-11.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:10.893Z",
+      "verification_etag_or_digest": "3f640bcac1e888cb5d3e9292a557bcfa5f245234ffb38d2a76493a0def7eb4e0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-tabela-de-medidas-calca-linho-vermelha.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-tabela-de-medidas-calca-linho-vermelha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17530,
+      "sha256": "9d8a7792a2d7c9a59062ed5383e9f4e7baa2d0e0a693c68a56da70dc456cdb3a",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-tabela-de-medidas-calca-linho-vermelha.webp",
+      "storage_filename": "clea-store-tabela-de-medidas-calca-linho-vermelha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 141,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas-calca-linho-vermelha.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9d8a7792a2d7c9a59062ed5383e9f4e7baa2d0e0a693c68a56da70dc456cdb3a/clea-store-tabela-de-medidas-calca-linho-vermelha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9d8a7792a2d7c9a59062ed5383e9f4e7baa2d0e0a693c68a56da70dc456cdb3a/clea-store-tabela-de-medidas-calca-linho-vermelha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:10.893Z",
+      "verification_etag_or_digest": "9d8a7792a2d7c9a59062ed5383e9f4e7baa2d0e0a693c68a56da70dc456cdb3a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/cupom-clea-store-primeira-compra-trench-coat-caqui.webp",
+      "local_url": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-trench-coat-caqui.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34392,
+      "sha256": "51f87087d6fd5eb1d2905784dc040f7e3cb7be88ea907f5722fda6b6c97c6205",
+      "width": 800,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-clea-store-primeira-compra-trench-coat-caqui.webp",
+      "storage_filename": "cupom-clea-store-primeira-compra-trench-coat-caqui.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-clea-store-primeira-compra.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-clea-store-primeira-compra.json",
+          "line": 131,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/cupom-clea-store-primeira-compra-trench-coat-caqui.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/51f87087d6fd5eb1d2905784dc040f7e3cb7be88ea907f5722fda6b6c97c6205/cupom-clea-store-primeira-compra-trench-coat-caqui.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/51f87087d6fd5eb1d2905784dc040f7e3cb7be88ea907f5722fda6b6c97c6205/cupom-clea-store-primeira-compra-trench-coat-caqui.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-22T03:58:10.893Z",
+      "verification_etag_or_digest": "51f87087d6fd5eb1d2905784dc040f7e3cb7be88ea907f5722fda6b6c97c6205",
+      "verification_status": "verified"
     }
   ]
 }
