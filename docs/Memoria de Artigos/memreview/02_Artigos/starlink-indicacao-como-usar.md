@@ -119,3 +119,22 @@ Capa com o logo e "link de indicação", com foto oficial do kit. Corpo: tela p�
 | Só cliente novo; não vale em marketplace nem revendedor | A loja informa: | central de ajuda, 19/11 | verificado |
 | Funciona fora do país | A loja informa: | chat da Starlink (Bruno) e central de ajuda | verificado |
 | Soma com os 30% no Brasil | - | sem teste | não afirmar |
+
+## Capa v2 nos 11 idiomas (21/11/2026)
+
+- **Capas:** uma por idioma, mesmo enquadramento, chamada e alt próprios de cada idioma (`imageFit: contain`). Fontes e hashes no `MAPA-45-ROTAS-E-ALTS.json`.
+- **Lote 72 do piloto de capas (sequência 24 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/72/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-24-CLAUDE.zip` (`lotes/72/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). As capas anteriores ficam no CDN, sem uso como capa.
+
+| Idioma | Artigo | Capa | Alt |
+| --- | --- | --- | --- |
+| pt | `starlink-indicacao-como-usar` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-pt-v2.webp` | Antena e roteador do kit Starlink Standard 4 X sobre fundo azul. A capa pergunta como usar o link de indicação. |
+| en | `starlink-referral-link-how-it-works` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-en-v2.webp` | The Starlink Standard 4 X dish and router on a blue background. The cover is about using the referral link. |
+| es | `starlink-enlace-referido-como-funciona` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-es-v2.webp` | Antena y router del kit Starlink Standard 4 X sobre fondo azul. La portada trata de cómo usar el enlace de referido. |
+| fr | `starlink-lien-parrainage` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-fr-v2.webp` | Antenne et routeur du kit Starlink Standard 4 X sur fond bleu. La couverture présente le mode d’emploi du lien de parrainage. |
+| de | `starlink-empfehlungslink` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-de-v2.webp` | Antenne und Router des Starlink-Kits Standard 4 X auf blauem Hintergrund. Auf dem Titelbild geht es darum, wie man den Empfehlungslink nutzt. |
+| it | `starlink-link-invito` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-it-v2.webp` | Antenna e router del kit Starlink Standard 4 X su sfondo blu. La copertina presenta la guida all’uso del link di invito. |
+| ja | `starlink-referral-ja` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-ja-v2.webp` | 青い背景に置かれたStarlink Standard 4 Xのアンテナとルーター。表紙のテーマは紹介リンクの使い方。 |
+| ko | `starlink-referral-ko` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-ko-v2.webp` | 파란 배경 위 스타링크 스탠더드 4 X 키트의 안테나와 공유기. 표지에는 추천 링크 사용법이 적혀 있다. |
+| zh-hans | `starlink-referral-zh-hans` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hans-v2.webp` | 蓝色背景上的 Starlink Standard 4 X 套装天线和路由器。封面介绍如何使用推荐链接。 |
+| zh-hant | `starlink-referral-zh-hant` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-zh-hant-v2.webp` | 藍色背景上的 Starlink Standard 4 X 套組天線和路由器。封面介紹如何使用推薦連結。 |
+| ar | `starlink-referral-ar` | `/images/reviews/starlink/starlink-indicacao-como-usar-hero-ar-v2.webp` | هوائي وموجّه من مجموعة Starlink Standard 4 X على خلفية زرقاء. يتناول الغلاف طريقة استخدام رابط الإحالة. |

@@ -1053,25 +1053,6 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-02"
   },
   {
-    "id": "skelt-flash-sale-2026",
-    "affiliate": "skelt",
-    "slot": "top",
-    "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
-    "art": {
-      "kind": "bag"
-    },
-    "endsAt": "2026-11-20T23:59:59-03:00",
-    "copy": {
-      "pt": {
-        "headline": "Flash Sale da Skelt: 20% OFF em todo o site e brinde Body Splash Mystic Bloom",
-        "text": "Campanha da própria Skelt. O brinde vale em compras acima de R$ 249; as condições aparecem no site da loja.",
-        "action": "Ver a campanha"
-      }
-    },
-    "source": "Guia para creators da Skelt, e-mail do programa repassado pelo Bruno em 20/11/2026 (\"Flash Sale: 20% OFF em todo o site, brinde Body Splash Mystic Bloom em compras acima de R$ 249\"); o aviso não traz data de fim; a home da loja mostrava um contador até a meia-noite de 20/11, e o Bruno confirmou que a Flash Sale acaba nessa meia-noite",
-    "verifiedAt": "2026-11-20"
-  },
-  {
     "id": "skelt-november-glow-2026",
     "affiliate": "skelt",
     "slot": "end",
@@ -1090,6 +1071,27 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Barra do topo e página /november-glow de skelt.com.br (\"Desconto progressivo: 10% em 1 item, 15% em 2 itens e 20% em 3 itens ou mais\"), conferidas em 04/11/2026",
     "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "skelt-promo-progressiva-2111",
+    "affiliate": "skelt",
+    "slot": "top",
+    "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+    "art": {
+      "kind": "tag",
+      "value": "25%"
+    },
+    "endsAt": "2026-11-22T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Promo da Skelt: desconto progressivo de 15%, 20% e 25% e brinde Body Splash Mystic Bloom",
+        "text": "Campanha da própria Skelt. O brinde vale em compras acima de R$ 249; as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Guia para creators da Skelt, e-mail \"PROMO SKELT 21 A 22/11\" repassado pelo Bruno em 21/11/2026 (\"Progressiva: três níveis de desconto, 15%, 20% e 25%, + brinde Body Splash Mystic Bloom em compras acima de R$ 249,00\"); o fim em 22/11 vem do título do e-mail, que não traz a hora; a home de skelt.com.br, às 19h18 de 21/11, ainda não mostrava os níveis, só o November Glow com contador até a noite de 21/11",
+    "verifiedAt": "2026-11-21"
   },
   {
     "id": "toda-up-black-november-2026",

@@ -94,3 +94,10 @@ Capa com o logo, o código e os kits Encorpax e Selve Power (fotos oficiais). Co
 | Componentes, tamanhos, tempos | A loja informa: | páginas, 20/11 | reler |
 | Preços e por ml | A loja informa / Conta nossa: | vitrine | refazer no dia |
 | Engrossa, faz crescer, antiqueda | - | páginas | **não escrever** |
+
+## Capa v2 (21/11/2026)
+
+- **Capa:** `/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `7623bf807da1d4a9bf8b1ce2eafdaec255c8727578aa518bf2dfe80a1274e8a9`.
+- **Alt:** Kit Encorpax Molecular Restore e condicionador Selve Power sendo colocado na mão, em duas fotos da Prohall. A capa pergunta qual linha escolher para cabelo fino e mostra o cupom CECILIAMC.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-45-ROTAS-E-ALTS.json`.
+- **Lote 70 do piloto de capas (sequência 24 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/70/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-45-HEROES-45-PAGINAS-SEQUENCIA-24-CLAUDE.zip` (`lotes/70/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp`) fica no CDN, sem uso como capa.
