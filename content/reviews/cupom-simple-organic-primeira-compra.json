@@ -17,7 +17,7 @@
   "metaDescription": "S-EMCASACOMCECILIA dá 5% OFF em todo o site da Simple Organic na primeira compra, inclusive em kits e promoções. Vale também para quem já comprou.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa-v2.webp",
@@ -44,6 +44,9 @@
     },
     {
       "slug": "kit-skincare-presente-simple-organic"
+    },
+    {
+      "slug": "black-friday-simple-organic"
     }
   ],
   "contentSections": [
@@ -56,7 +59,7 @@
     {
       "heading": "Cupom Simple Organic primeira compra: qual usar",
       "paragraphs": [
-        "A Simple Organic vende cosméticos, como produtos de skincare e maquiagem. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel).",
+        "A Simple Organic vende cosméticos, como produtos de skincare e maquiagem.",
         "Use o S-EMCASACOMCECILIA: 5% OFF em todos os produtos da loja online, inclusive nos kits e no que já está em promoção. Ele vale no primeiro pedido e nos seguintes.",
         "É o [cupom Simple Organic](/cupons/simple-organic) da nossa parceria com a marca, testado no checkout. Sérum, hidratante ou maquiagem: o código é o mesmo."
       ]
@@ -78,7 +81,7 @@
     {
       "heading": "Kit em promoção: quanto o código tira",
       "paragraphs": [
-        "O S-EMCASACOMCECILIA entra sobre o preço promocional. No teste do cupom de 12/11/2026, registrado na nossa página de cupom, o kit Rotina Pele Sensível em promoção ficou assim:"
+        "O S-EMCASACOMCECILIA entra sobre o preço promocional. No teste do cupom de 12/11/2026, registrado na nossa página de cupom, o kit [Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel) em promoção ficou assim:"
       ],
       "comparisonTable": {
         "caption": "Kit Rotina Pele Sensível em promoção: valores do teste no checkout, antes do frete.",
@@ -108,7 +111,7 @@
       "postParagraphs": [
         "Os 5% saíram do preço promocional do kit. Com ou sem o código, o valor dos produtos nesse exemplo fica abaixo de R$ 99; informe o CEP para conferir a entrega.",
         "A política de cupons da loja exclui kits e duos e não soma com promoção. Nos nossos testes, kit e duo entraram, mas a regra existe e a loja pode aplicá-la: confira a linha do desconto no seu pedido.",
-        "Se a loja oferecer desconto no Pix, ele soma com o código."
+        "No teste de 22/11, o checkout não mostrou desconto no Pix, então não conte com ele somando ao código. A Clean Friday traz outros preços de kit: veja a tabela no [guia de Black Friday da Simple Organic](/reviews/black-friday-simple-organic)."
       ],
       "images": [
         {
@@ -123,7 +126,7 @@
     {
       "heading": "Quando o cupom muda o frete",
       "paragraphs": [
-        "No teste de 10/11/2026, para o CEP 01310-100, em São Paulo, um Trio Body Splashes ficou assim com o envio mais barato disponível:"
+        "No teste de 10/11/2026, para o CEP 01310-100, em São Paulo, um [Trio Body Splashes Simple](https://simpleorganic.com.br/products/kit-body-splash) ficou assim com o envio mais barato disponível:"
       ],
       "comparisonTable": {
         "caption": "Trio Body Splashes: comparação no CEP de São Paulo testado, com o envio mais barato disponível.",
@@ -155,7 +158,9 @@
     {
       "heading": "E na segunda compra?",
       "paragraphs": [
-        "O S-EMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 5%. Serve para repor o gel de limpeza ou o hidratante no pedido seguinte."
+        "O S-EMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 5%. Serve para repor o [Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) ou o [Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade) no pedido seguinte, ou para trocar de ativo com um dos [Ultra Séruns](https://simpleorganic.com.br/products/ultra-serum-niacinamida).",
+        "A política de cupons da loja diz que cada cupom vale uma vez por pessoa, e a loja pode prender o código ao e-mail da compra. Por isso, na segunda compra, o que decide é a linha do desconto no resumo do pedido: se ela aparecer, os 5% entraram; se não, o preço é o da promoção.",
+        "As outras regras são as mesmas do primeiro pedido: o frete grátis começa em R$ 99 e conta depois do desconto, o parcelamento vai até 5x sem juros, com parcela mínima de R$ 30, e o código é só da loja online. Na Clean Friday, o preço de cada item da reposição já vem reduzido pela campanha, e o cupom entra sobre ele; o [guia de Black Friday da Simple Organic](/reviews/black-friday-simple-organic) lista os preços do dia."
       ]
     },
     {
@@ -187,5 +192,6 @@
         "Preciso digitar o cupom na Simple Organic? Pelo botão desta página, a loja abre com o código aplicado. Se ele não aparecer em “Desconto”, cole no carrinho."
       ]
     }
-  ]
+  ],
+  "bodyDatesReason": "campanha"
 }

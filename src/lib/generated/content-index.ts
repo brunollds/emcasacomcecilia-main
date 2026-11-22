@@ -193862,7 +193862,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Simple Organic é confiável, com o cupom S-EMCASACOMCECILIA de 5% OFF na loja online: CNPJ, trocas, frete, lojas próprias e site oficial.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa-v2.webp",
@@ -194014,7 +194014,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Em campanha grande, como a Clean Friday, a política de frete avisa que o prazo pode crescer. Se o produto é presente com data, conte o despacho e o prazo dos Correios juntos, não só um deles.",
-          "A página de pagamento não fala em desconto no Pix. Quem quer parcelar, parcela no cartão; o Pix vale pela rapidez, não pelo preço."
+          "A página de pagamento não fala em desconto no Pix e, no teste de 22/11, o checkout também não mostrou. Quem quer parcelar, parcela no cartão; o Pix vale pela rapidez, não pelo preço."
         ]
       },
       {
@@ -194037,7 +194037,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Simple Organic no Reclame Aqui",
         "paragraphs": [
-          "O perfil da Simple Organic no Reclame Aqui tinha selo RA1000 no recorte de seis meses, com todas as reclamações respondidas. Entre as finalizadas e avaliadas, cerca de nove em cada dez foram resolvidas, e o atraso na entrega era perto de um quinto das queixas. As notas de cada período e as reclamações mais recentes estão em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao)."
+          "O perfil da Simple Organic no Reclame Aqui, consultado em 22/11/2026, tem reputação Ótima, com nota 8,5 nas abas de 6 e de 12 meses. É um perfil de empresa verificada, com 9 anos de cadastro, em 8º lugar na categoria Maquiagens, e o CNPJ do perfil é o mesmo do rodapé do site. O selo RA1000 já apareceu no histórico, mas hoje não aparece.",
+          "Nos últimos 6 meses, o perfil recebeu 153 reclamações e respondeu a todas, em média em 2 dias e 11 horas. Entre as 86 finalizadas e avaliadas, 89,5% foram consideradas resolvidas. São números absolutos: sem o total de pedidos da loja, não viram proporção. Na aba Geral, que cobre até três anos, o atraso na entrega é a queixa mais citada, com 21,86% dos principais problemas.",
+          "Os conta-gotas quebrados e as dúvidas de prazo e cancelamento aparecem entre as reclamações recentes, e a loja tem política de troca e frete publicada para esses casos. As notas de cada período, o que a nota mede e as reclamações mais recentes estão em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -194060,7 +194062,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Simple Organic é confiável? O que pesa",
         "paragraphs": [
-          "Dá para confiar, com uma condição: compre pelo site oficial e decida em uma semana. Do lado da empresa, a Simple Organic mostra o que quem compra procura: CNPJ ativo no rodapé, o mesmo da consulta pública e do Reclame Aqui, um grupo conhecido por trás (a Hypera Pharma, pela própria marca), lojas próprias em nove cidades, regras de troca, frete e pagamento publicadas e atendimento que responde a todas as reclamações.",
+          "Dá para confiar, com uma condição: compre pelo site oficial e decida em uma semana. Do lado da empresa, a Simple Organic mostra o que quem compra procura: CNPJ ativo no rodapé, o mesmo da consulta pública e do Reclame Aqui, um grupo conhecido por trás (a Hypera Pharma, pela própria marca), lojas próprias em nove cidades, regras de troca, frete e pagamento publicadas e perfil no Reclame Aqui com todas as reclamações respondidas nos últimos 6 meses.",
           "Os pontos de atenção são dois. O prazo de troca e desistência é de 7 dias com o lacre inviolado, e por essa regra produto aberto não volta; o defeito segue outro caminho. E \"vegana\", \"orgânica\" e \"carbono neutralizado\" são frases da marca sobre selos de terceiros, não uma conferência nossa. Isso vale para a loja; se o produto é bom para a sua pele, é outra pergunta, e este texto não a responde.",
           "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e a embalagem, e aplique o código no carrinho do site oficial."
         ],
@@ -194117,7 +194119,7 @@ export const reviewsData: unknown[] = [
     "id": 781,
     "slug": "simple-organic-reclame-aqui-nota-reputacao",
     "title": "Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam",
-    "seoTitle": "Simple Organic no Reclame Aqui: nota e reclamações",
+    "seoTitle": "Simple Organic no Reclame Aqui: nota 8,5 e reclamações",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -194128,11 +194130,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Simple Organic no Reclame Aqui: RA1000 na aba de 6 meses, nota 8,6 e 90,2% de solução entre as finalizadas e avaliadas. Veja as queixas e o que fazer se o pedido der problema.",
-    "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic no Reclame Aqui: RA1000, nota 8,6, 90,2% de solução e as queixas mais comuns.",
+    "description": "Simple Organic no Reclame Aqui: reputação Ótima, nota 8,5 e 89,5% de solução entre as avaliadas dos últimos 6 meses. As queixas e o que conferir antes do pedido.",
+    "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic no Reclame Aqui: nota 8,5, 89,5% de solução e as queixas mais comuns.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/simple-organic-reclame-aqui-nota-reputacao-capa-v2.webp",
@@ -194143,21 +194145,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelo recorte de 6 meses: a Simple Organic tinha RA1000 e nota 8,6 no Reclame Aqui, com todas as reclamações respondidas. O que pesa é o atraso na entrega, a queixa mais comum. No site oficial, o S-EMCASACOMCECILIA dá 5% OFF em tudo."
+          "A Simple Organic tem reputação Ótima, nota 8,5, no Reclame Aqui nos últimos 6 meses, com 100% das reclamações respondidas e 89,5% de solução entre as avaliadas. O ponto de atenção é o atraso na entrega. O selo RA1000 já apareceu no histórico, mas hoje não. No site oficial, o S-EMCASACOMCECILIA dá 5% OFF."
         ]
       },
       {
-        "heading": "Qual perfil olhar",
+        "heading": "A nota e os indicadores do período",
         "paragraphs": [
-          "O perfil certo é o \"Simple Organic\", na página empresa/simple-organic do Reclame Aqui, com o CNPJ 24.692.452/0001-40: o mesmo que aparece no rodapé da loja, em nome da Simple Organic Beauty S.A., de Florianópolis. Se o CNPJ bate, você está no lugar certo.",
-          "Ele é verificado, está no Reclame Aqui há 9 anos e ocupa o 3º lugar em \"Melhor empresa\" na categoria E-commerce - Cosméticos, Beleza e Estética. O selo de verificada diz quem é o dono do perfil; não é nota. A descrição no topo (\"vegana, matéria-prima orgânica, natural, cruelty-free e sem gênero\") é texto da própria empresa, não avaliação do Reclame Aqui.",
-          "A empresa, o CNPJ, as lojas físicas e as regras de troca estão em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel). Aqui ficam só os números das reclamações."
-        ]
-      },
-      {
-        "heading": "Os números da Simple Organic",
-        "paragraphs": [
-          "Em 03/11/2026, a aba de 6 meses tinha a maior nota e o maior índice de solução entre os recortes da tabela. Ela descreve aquela janela, sem garantir o atendimento de um chamado novo."
+          "Consultamos o perfil da Simple Organic no Reclame Aqui em 22/11/2026, nas cinco abas que ele mostra: 6 meses, 12 meses, 2025, 2024 e Geral. O perfil certo é o \"Simple Organic\", na página empresa/simple-organic, com o CNPJ 24.692.452/0001-40, o mesmo do rodapé da loja, em nome da Simple Organic Beauty S.A., de Florianópolis."
         ],
         "comparisonTable": {
           "headers": [
@@ -194171,7 +194165,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Reputação",
-              "RA1000",
+              "Ótima",
               "Ótima",
               "Ótima",
               "Ótima",
@@ -194179,7 +194173,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nota",
-              "8,6",
+              "8,5",
               "8,5",
               "8,0",
               "8,3",
@@ -194191,7 +194185,7 @@ export const reviewsData: unknown[] = [
               "385",
               "516",
               "766",
-              "1.766"
+              "1.738"
             ],
             [
               "Respondidas",
@@ -194202,66 +194196,83 @@ export const reviewsData: unknown[] = [
               "99,9%"
             ],
             [
-              "Índice de solução (finalizadas e avaliadas)",
-              "90,2%",
-              "88,2%",
-              "84,4%",
-              "87,7%",
-              "86,7%"
-            ],
-            [
-              "Voltariam a fazer negócio",
-              "76,8%",
-              "77,7%",
-              "70,1%",
-              "74,3%",
-              "71,8%"
-            ],
-            [
-              "Reclamações avaliadas",
-              "82",
-              "220",
-              "301",
-              "487",
-              "1.042"
-            ],
-            [
-              "Nota média do consumidor",
-              "7,82",
-              "7,7",
-              "6,98",
-              "7,43",
-              "7,18"
-            ],
-            [
               "Tempo médio de resposta",
               "2 dias e 11 h",
               "2 dias e 15 h",
               "2 dias e 5 h",
               "1 dia e 8 h",
-              "3 dias e 2 h"
+              "2 dias e 22 h"
+            ],
+            [
+              "Reclamações avaliadas",
+              "86",
+              "224",
+              "301",
+              "487",
+              "1.022"
+            ],
+            [
+              "Índice de solução (finalizadas e avaliadas)",
+              "89,5%",
+              "87,9%",
+              "84,4%",
+              "87,7%",
+              "86,7%"
+            ],
+            [
+              "Voltariam a fazer negócio (avaliadas)",
+              "74,4%",
+              "76,8%",
+              "70,1%",
+              "74,3%",
+              "72,3%"
+            ],
+            [
+              "Nota média do consumidor",
+              "7,63",
+              "7,63",
+              "6,98",
+              "7,43",
+              "7,23"
             ]
           ],
-          "caption": "Abas do perfil Simple Organic no Reclame Aqui. A aba Geral cobre os últimos 3 anos."
+          "caption": "Abas do perfil Simple Organic no Reclame Aqui, consultadas em 22/11/2026. A aba Geral cobre os últimos 3 anos. Solução e voltariam a fazer negócio contam só as reclamações avaliadas."
         },
         "postParagraphs": [
-          "A nota de reputação é a que define a faixa. A nota média do consumidor é outra conta: a média que quem reclamou deu ao atendimento, e aqui ela fica abaixo da nota de reputação em todas as abas."
+          "Cada coluna descreve a sua janela e não garante o atendimento de um chamado novo. A aba Geral cobre até três anos e não se mistura com o semestre: quando este texto cita um motivo de reclamação, diz de qual aba ele vem."
         ]
       },
       {
-        "heading": "O que a conta entre as abas mostra",
+        "heading": "O que a nota e o selo medem, e o que não medem",
         "paragraphs": [
-          "O percentual que voltaria a comprar era de 76,8% na aba de 6 meses, abaixo dos 77,7% da aba de 12 meses. O histórico mostrava RA1000 em maio, Ótima de junho a setembro e RA1000 em outubro.",
-          "Pelos totais da tabela, as reclamações recebidas caíram de 766 em 2024 para 516 em 2025, cerca de um terço. Os 153 registros da aba de 6 meses são menos da metade dos 385 da aba de 12 meses.",
-          "O recorte de 2025 tinha a menor nota de reputação, a menor disposição de voltar e a menor nota do consumidor da tabela. Confira o perfil no dia da compra."
+          "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede textura, cheiro nem a qualidade dos produtos, e muda conforme novas reclamações entram e são avaliadas.",
+          "A Simple Organic está hoje na faixa Ótima, com nota 8,5 nos 6 e nos 12 meses. O selo RA1000, a reputação mais alta da plataforma, já esteve no histórico do perfil, mas não aparece na consulta de 22/11. Segundo o [Reclame Aqui](https://blog.reclameaqui.com.br/selo-ra1000-muito-mais-credibilidade-na-reputacao/), ele exige cinco critérios ao mesmo tempo na mesma aba: pelo menos 50 avaliações, 90% ou mais de respostas, 90% ou mais de solução, nota do consumidor de 7 ou mais e 70% ou mais de quem voltaria a fazer negócio. Aqui o índice de solução ficou em 89,5% no semestre, abaixo dos 90%.",
+          "Há duas notas diferentes no perfil. A de 8,5 é a nota de reputação, calculada pela plataforma. A de 7,63 é a média que os próprios consumidores deram ao atendimento depois de encerrar a reclamação, e fica abaixo da outra em todas as abas.",
+          "O selo de Empresa Verificada é outra coisa: confirma quem é o dono do perfil, não é nota. A descrição no topo (\"vegana, matéria-prima orgânica, natural, cruelty-free e sem gênero\") é texto da própria empresa, não avaliação do Reclame Aqui."
         ]
       },
       {
-        "heading": "Do que as pessoas reclamam",
+        "heading": "Pontos positivos identificados",
         "paragraphs": [
-          "Atraso na entrega é a queixa mais comum: lidera a lista de principais problemas do perfil, com um pouco mais de um quinto das reclamações. O resto se espalha; nas categorias, a maior fatia é Produtos Naturais, e nos produtos, Cosméticos naturais, que é o que a loja vende.",
-          "As reclamações mais recentes do perfil contam o resto da história. Entre as últimas oito, apareceram: conta-gotas de sérum que chegou quebrado ou torto (duas vezes), produto reformulado com embalagem e quantidade novas, pedido de devolução feito no dia do recebimento, pedido que não deu para cancelar junto com tampa de creme que quebra, pedido não recebido e o mesmo produto pela metade do preço logo depois da compra. Todas tinham resposta da loja.",
-          "Entre as reclamações recentes, parte trata de frasco, tampa e reformulação, não só de entrega. Ao receber um sérum, confira o conta-gotas e fotografe o estado em que chegou antes de usar. Se houver defeito, registre o problema com o canal da compra e guarde os comprovantes.",
+          "Estes são os sinais favoráveis que o perfil mostrava:"
+        ],
+        "bullets": [
+          "**Faixa Ótima nas cinco abas.** Nota 8,5 nos 6 e nos 12 meses, 8,0 em 2025, 8,3 em 2024 e 8,2 na Geral.",
+          "**Empresa Verificada e tempo de casa.** O perfil tem o selo de verificada e está no Reclame Aqui há 9 anos. Na consulta, aparecia em 8º lugar na categoria Maquiagens.",
+          "**Resposta.** 100% das reclamações foram respondidas nas quatro abas mais recentes (6 meses, 12 meses, 2025 e 2024), e 99,9% na Geral, com 2 aguardando. O tempo médio foi de 2 dias e 11 horas no semestre.",
+          "**Solução e recompra, nas avaliadas.** Das 86 reclamações avaliadas nos 6 meses, 89,5% foram consideradas resolvidas, e 74,4% dos autores voltariam a fazer negócio. Os dois índices valem só para quem reclamou e avaliou, não para todos os clientes.",
+          "**Menos reclamações recebidas.** O perfil registrou 766 em 2024 e 516 em 2025. É a comparação de dois números absolutos, sem o total de pedidos de cada ano."
+        ],
+        "postParagraphs": [
+          "As 153 reclamações do semestre, as 385 dos 12 meses e as 1.738 da aba Geral são totais absolutos. Sem o total de pedidos da loja no mesmo período, eles não viram proporção, então não dá para dizer se são muitas ou poucas para o tamanho da operação."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "Os motivos de reclamação ficam na aba Geral, que reúne até três anos, e não no semestre da tabela. Nessa aba, atraso na entrega é a queixa mais comum, com 21,86% dos principais problemas. Nas categorias, a maior fatia é Cosméticos naturais, com 33,72%, seguida de Produtos Naturais, com 29,92%, o que é o que a loja vende.",
+          "As reclamações mais recentes que listamos na primeira consulta contam o resto da história. Entre as últimas oito, apareceram: conta-gotas de sérum que chegou quebrado ou torto (duas vezes), produto reformulado com embalagem e quantidade novas, pedido de devolução feito no dia do recebimento, pedido que não deu para cancelar junto com tampa de creme que quebra, pedido não recebido e o mesmo produto pela metade do preço logo depois da compra. Todas tinham resposta da loja.",
+          "Parte dessas queixas trata de frasco, tampa e reformulação, não só de entrega. Ao receber um sérum, confira o conta-gotas e fotografe o estado em que chegou antes de usar.",
           "Uma das reclamações de conta-gotas veio de compra na loja oficial da Simple na Shopee. O perfil do Reclame Aqui junta pedidos de todos os canais, então a nota não é só do site. Guarde onde comprou: o pedido da Shopee se resolve primeiro na Shopee, e o do site, no atendimento do site."
         ],
         "images": [
@@ -194276,18 +194287,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como a loja responde",
+        "heading": "Como a loja responde e o que conferir antes de comprar",
         "paragraphs": [
-          "Na aba de 6 meses, todas as reclamações tinham resposta, em média 2 dias e 11 horas, contra 1 dia e 8 horas em 2024. As abas de 12 meses, 2025 e 2024 também chegam a 100%; a Geral, a 99,9%.",
-          "Na aba de 6 meses, 82 das 153 reclamações tinham avaliação. O índice de solução, entre as finalizadas e avaliadas, era de 90,2%; 76,8% dos avaliadores voltariam a comprar. A nota do consumidor, que avalia a resposta recebida, era 7,82, abaixo de 8 em todas as abas."
-        ]
-      },
-      {
-        "heading": "Se o pedido der problema",
-        "paragraphs": [
-          "Comece pela loja, com o número do pedido na mão, e só depois vá ao Reclame Aqui. O FAQ do perfil já responde ao que mais aparece: prazo de envio, pedido errado ou com defeito, problema com pedido da loja física, pedido \"não finalizado\" no site e cancelamento. Leia o item do seu caso antes de abrir reclamação; às vezes a resposta já está lá.",
-          "A loja informa: o pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento, por PAC, Sedex ou JadLog, e em ações grandes como a Clean Friday esse prazo pode crescer. A troca voluntária ou a desistência tem 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado, pedida por e-mail ao atendimento com o número do pedido; produto com defeito é outro caso, e se pede ao atendimento com as fotos. O prazo conta do recebimento, não da compra: pedido que ainda não chegou não entra nessa regra, e por isso o cancelamento antes do envio é uma conversa à parte, pelo FAQ.",
-          "Pedido da loja física ou da farmácia tem caminho próprio no FAQ da loja, separado do pedido online. Se nada disso resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil. Guarde o número do pedido, o CPF da compra, a foto do produto como chegou e a data em que o prazo venceu: é o que serve em qualquer canal."
+          "No Reclame Aqui, a loja responde: na aba de 6 meses, o tempo médio foi de 2 dias e 11 horas, contra 1 dia e 8 horas em 2024. A nota do consumidor, que avalia a resposta recebida, foi 7,63 no semestre.",
+          "Quem compra no site resolve o pedido pelos canais da própria Simple Organic. A loja publica que o pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento, por PAC, Sedex ou JadLog, e que em ações grandes, como a Clean Friday, o prazo pode chegar a 5 dias úteis. A troca por preferência e a desistência valem por 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado, pedidas por e-mail ao atendimento com o número do pedido. Defeito é outro caso: peça ao atendimento, com as fotos.",
+          "O FAQ do site separa o pedido online do pedido feito numa loja física, que tem WhatsApp e e-mail próprios na página Onde encontrar. Se o seu caso é da loja física, fale com a loja; se é do site, com o atendimento do site. A empresa, o CNPJ, as lojas físicas e as regras de troca estão em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel).",
+          "O que guardar do pedido: o número, o CPF da compra, o canal onde comprou (site, Shopee ou loja física) e as fotos do frasco e do conta-gotas como chegaram, tiradas ao abrir a caixa."
         ],
         "images": [
           {
@@ -194300,11 +194305,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Parceria e cupom",
+        "heading": "Vale a pena comprar na Simple Organic?",
         "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Simple Organic e pode receber comissão pelas compras feitas com o S-EMCASACOMCECILIA, o [cupom Simple Organic](/cupons/simple-organic). Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
-          "O cupom dá 5% OFF na loja online. Nos nossos testes ele entrou em kit, em duo e em produto que já estava com preço de promoção, embora a política de cupons da loja diga que cupom não soma com promoção nem vale em kit e duo: por isso, confira o desconto no carrinho antes de pagar. O código é da loja online; nas lojas físicas e nas farmácias, não conte com ele. O passo a passo está em [Cupom Simple Organic: como usar](/reviews/cupom-simple-organic-como-usar).",
-          "Entrando pelo botão da parceria, o cupom já vem aplicado na home. Entrando pela página de um produto, como o [Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow), copie o código e cole no campo Desconto do carrinho."
+          "Pelo Reclame Aqui, o atendimento a quem reclama é bom: faixa Ótima nas cinco abas, todas as reclamações respondidas nas quatro mais recentes, solução de 89,5% entre as avaliadas no semestre e menos reclamações em 2025 do que em 2024. Os pontos de atenção são o atraso na entrega, que lidera a aba Geral, e os relatos de conta-gotas quebrado: vale conferir o prazo de despacho e fotografar o frasco ao receber.",
+          "O Em Casa com Cecília tem parceria com a Simple Organic e pode receber comissão pelas compras com o S-EMCASACOMCECILIA, o [cupom Simple Organic](/cupons/simple-organic): 5% OFF na loja online. Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
+          "No teste de 22/11, um carrinho de R$ 68,40 foi a R$ 64,98 com o código, e o checkout não mostrou desconto no Pix. O passo a passo está em [Cupom Simple Organic: como usar](/reviews/cupom-simple-organic-como-usar). Entrando pelo botão da parceria, o código já vem aplicado na home; por página de produto, copie o código e cole no campo de desconto do checkout. O código é da loja online, não das lojas físicas nem das farmácias."
         ],
         "images": [
           {
@@ -194317,25 +194322,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Dá para confiar na Simple Organic: o veredito",
-        "paragraphs": [
-          "Dá, com o comprovante guardado. O perfil tinha RA1000 e nota 8,6 na aba de 6 meses, com todas as reclamações respondidas. Entre as finalizadas e avaliadas, o índice de solução era de 90,2%. Antes de comprar, confira o prazo de entrega; ao receber, fotografe qualquer dano no frasco e guarde o número do pedido para o atendimento."
-        ],
-        "bullets": [
-          "O que conferir no dia: o perfil empresa/simple-organic, o CNPJ 24.692.452/0001-40 no topo e a aba de 6 meses.",
-          "O que guardar: número do pedido, CPF da compra, onde comprou (site, Shopee ou loja física) e a foto do produto ao receber.",
-          "Quando o Reclame Aqui entra: depois do atendimento da loja, com o prazo vencido anotado."
-        ],
-        "emphasis": "Confira o prazo da compra e guarde o comprovante. Os índices de atendimento ajudam a avaliar o histórico; uma foto e o número do pedido ajudam a documentar um problema."
-      },
-      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Simple Organic é confiável? Pelo Reclame Aqui, sim: RA1000 na aba de 6 meses, com todas as reclamações respondidas. Esses índices tratam das reclamações registradas, não da qualidade dos produtos.",
-          "Qual a nota da Simple Organic no Reclame Aqui? Nota 8,6 na aba de 6 meses, 8,5 na de 12 meses e 8,2 na Geral; a tabela do capítulo \"Os números da Simple Organic\" traz as cinco abas.",
-          "Do que as pessoas reclamam da Simple Organic? Atraso na entrega é o problema mais citado; nas reclamações recentes aparecem também conta-gotas quebrado, produto reformulado, devolução sem retorno e pedido que não deu para cancelar.",
-          "A Simple Organic responde às reclamações no Reclame Aqui? Sim: todas as da aba de 6 meses tinham resposta, em média 2 dias e 11 horas. O índice de solução era de 90,2% entre as finalizadas e avaliadas.",
-          "O que fazer se o pedido da Simple Organic atrasar ou chegar com defeito? Fale com o atendimento da loja com o número do pedido e a foto do produto. A troca voluntária ou a desistência tem 7 dias corridos depois do recebimento, com o lacre inviolado; defeito tem prazo próprio e não depende do lacre. Se não resolver, registre no Reclame Aqui."
+          "Qual a nota da Simple Organic no Reclame Aqui? A reputação é Ótima, com nota 8,5 nas abas de 6 e de 12 meses e 8,2 na Geral. A média que os consumidores deram ao atendimento é 7,63 no semestre.",
+          "A Simple Organic tem selo RA1000? Hoje não: o perfil está na faixa Ótima. O selo já apareceu no histórico, e o Reclame Aqui o dá a quem cumpre cinco critérios ao mesmo tempo, entre eles 90% ou mais de solução, que na aba de 6 meses ficou em 89,5%.",
+          "A Simple Organic responde às reclamações no Reclame Aqui? Sim: todas as reclamações das abas de 6 meses, 12 meses, 2025 e 2024 foram respondidas, e 99,9% na Geral. O tempo médio no semestre foi de 2 dias e 11 horas.",
+          "Do que as pessoas reclamam da Simple Organic? Na aba Geral, atraso na entrega é o problema mais citado, com 21,86%. Nas reclamações recentes aparecem também conta-gotas quebrado, produto reformulado e pedido que não deu para cancelar.",
+          "O que fazer se o pedido da Simple Organic atrasar ou chegar com defeito? Fale com o atendimento da loja, com o número do pedido e as fotos do produto e do conta-gotas como chegaram. A troca por preferência e a desistência valem por 7 dias corridos do recebimento, com o lacre inviolado; defeito tem caminho próprio."
         ]
       }
     ],
@@ -194343,8 +194336,8 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você compra na loja online, guarda o número do pedido e aceita esperar alguns dias úteis até o despacho.",
-        "Você olha a reputação recente do perfil e confere os indicadores atuais antes de comprar."
+        "Você compra na loja online, guarda o número do pedido e aceita esperar de 3 a 5 dias úteis até o despacho.",
+        "Você confere a reputação do perfil no dia da compra, porque a faixa e os índices mudam com o tempo."
       ],
       "skipIf": [
         "Um atraso de entrega estraga a compra, porque é a queixa mais comum do perfil.",
@@ -194370,7 +194363,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-simple-organic"
       }
-    ]
+    ],
+    "bodyDatesReason": "reclame-aqui"
   },
   {
     "id": 782,
@@ -194410,49 +194404,31 @@ export const reviewsData: unknown[] = [
           "Se a compra é no site oficial da Simple Organic, o [cupom Simple Organic](/cupons/simple-organic) da parceria é o S-EMCASACOMCECILIA: 5% OFF em todo o site, de sérum e hidratante a limpeza facial, maquiagem e body splash. A Simple Organic se apresenta como marca de beleza limpa e vegana, de Florianópolis, parte da Hypera Pharma desde 2020; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
           "Ele é o código da loja online, simpleorganic.com.br. Para a primeira compra, o código é este mesmo: a parceria não tem um código separado. O que ela dá são os 5%, e é isso que o resumo do pedido vai mostrar.",
           "O desconto sai do preço que está no carrinho. Nos testes, os 5% entraram sobre o preço promocional. Confira a linha do código e o total do seu pedido antes de pagar."
+        ]
+      },
+      {
+        "heading": "Passo a passo: do botão da parceria ao resumo do pedido",
+        "paragraphs": [
+          "**1. Entre pelo botão da parceria.** O caminho mais curto é o botão desta página: ele abre a home da Simple Organic com o S-EMCASACOMCECILIA já aplicado, e o código aparece sozinho no carrinho. Confira que o endereço é simpleorganic.com.br. Link de produto não carrega o cupom, nem os deste texto: se você entrou por um deles, ou já estava no site, copie o código pelo botão e cole no carrinho, no passo 3.",
+          "**2. Monte o carrinho.** O cupom não entra na página do produto: ele aparece no carrinho. Escolha o que você quer e abra o carrinho; o preço da página já traz o desconto da promoção do site, quando há, e é sobre ele que os 5% vão entrar. Para comparar avulsos e kit, use os mesmos produtos e quantidades, uma opção de cada vez no carrinho. Aplique o código e anote o total com frete; depois compare com a outra opção. O guia de [kit ou avulsos na Simple Organic](/reviews/kit-skincare-presente-simple-organic) já traz essa comparação nos kits de skincare que conferimos.",
+          "**3. Confira o código em \"Desconto\" ou cole no checkout.** No carrinho, o campo se chama \"Desconto\"; no checkout, \"Código de desconto ou cartão-presente\". Se você entrou pelo botão, o S-EMCASACOMCECILIA já deve estar lá. Se não estiver, cole o código nesse campo e clique em \"Aplicar\", sem espaço antes ou depois. Copiar pelo botão desta página evita erro de digitação.",
+          "**4. Confira o desconto antes de pagar.** Veja três coisas no resumo do pedido: a linha do cupom, o valor de cada item e o total. Quando o código entra, cada item cai 5% e o total acompanha. Se a linha do cupom não aparece, o preço é o da promoção, sem os 5%: volte ao passo 3 antes de seguir.",
+          "Na hora de pagar, a loja aceita cartão em até 5 vezes sem juros, com parcela mínima de R$ 30, e Pix por QR Code, que vale 2 horas. A página de pagamento não anuncia desconto extra no Pix e, no teste de 22/11, o checkout também não mostrou: não conte com um abatimento no Pix sem ele aparecer no resumo."
         ],
         "images": [
           {
-            "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
-            "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "O preço da página já traz a promoção do site; os 5% do cupom entram depois, no carrinho. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
+            "src": "/images/reviews/simple-organic/cupom-simple-organic-checkout-com-cupom.webp",
+            "alt": "Resumo do pedido no checkout da Simple Organic com o código S-EMCASACOMCECILIA aplicado e a linha Desconto no pedido",
+            "caption": "O código aplicado no checkout: a linha Desconto no pedido mostra quanto saiu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.039
           }
-        ]
-      },
-      {
-        "heading": "1. Entre pelo botão da parceria",
-        "paragraphs": [
-          "O caminho mais curto é o botão desta página: ele abre a home da Simple Organic com o S-EMCASACOMCECILIA já aplicado, e o código aparece sozinho no carrinho. Confira que o endereço é simpleorganic.com.br.",
-          "Link de produto não carrega o cupom, nem os deste texto. Se você entrou por um deles, ou já estava no site, copie o código pelo botão e cole no carrinho, no passo 3."
-        ]
-      },
-      {
-        "heading": "2. Monte o carrinho",
-        "paragraphs": [
-          "O cupom não entra na página do produto: ele aparece no carrinho. Escolha o que você quer e abra o carrinho; o preço da página já traz o desconto da promoção do site, quando há, e é sobre ele que os 5% vão entrar.",
-          "Para comparar avulsos e kit, use os mesmos produtos e quantidades, uma opção de cada vez no carrinho. Aplique o código e anote o total com frete; depois compare com a outra opção. O guia de [kit ou avulsos na Simple Organic](/reviews/kit-skincare-presente-simple-organic) já traz essa comparação nos kits de skincare que conferimos."
-        ]
-      },
-      {
-        "heading": "3. Confira o código em \"Desconto\" ou cole no checkout",
-        "paragraphs": [
-          "No carrinho, o campo se chama \"Desconto\". Se você entrou pelo botão, o S-EMCASACOMCECILIA já deve estar lá. Se não estiver, cole o código nesse campo, ou no campo de cupom do checkout, e clique em \"Aplicar\".",
-          "Cole sem espaço antes ou depois. Copiar pelo botão desta página evita erro de digitação."
-        ]
-      },
-      {
-        "heading": "4. Confira o desconto antes de pagar",
-        "paragraphs": [
-          "Confira três coisas no resumo do pedido: a linha do cupom, o valor de cada item e o total. Quando o código entra, cada item cai 5% e o total acompanha. Se a linha do cupom não aparece, o preço é o da promoção, sem os 5%: volte ao passo 3 antes de seguir.",
-          "Na hora de pagar, a loja aceita cartão em até 5 vezes sem juros, com parcela mínima de R$ 30, e Pix por QR Code, que vale 2 horas. A página de pagamento não anuncia desconto extra no Pix: não conte com um abatimento adicional no Pix sem ele aparecer no resumo."
         ]
       },
       {
         "heading": "Onde o código valeu",
         "paragraphs": [
-          "Nos dois carrinhos de teste, o S-EMCASACOMCECILIA entrou em tudo: produto em promoção, duo e kit. A tabela mostra o preço do site e o preço com o cupom."
+          "Nos três carrinhos de teste, o S-EMCASACOMCECILIA entrou em tudo: produto em promoção, duo e kit. A tabela mostra o preço do site e o preço com o cupom. Alguns itens mudaram desde os primeiros testes: o Hidratante Facial Super Glow está esgotado e os demais seguem no catálogo da loja."
         ],
         "comparisonTable": {
           "headers": [
@@ -194464,33 +194440,40 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "No checkout",
-              "Duo Antimanchas Noturno, já em promoção",
+              "[Duo Antimanchas Noturno](https://simpleorganic.com.br/products/dupla-anti-manchas), já em promoção",
               "R$ 70,90",
               "R$ 67,36"
             ],
             [
               "No checkout",
-              "Hidratante Facial Super Glow, já em promoção",
+              "[Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow), já em promoção (esgotado quando conferimos em 22/11)",
               "R$ 27,00",
               "R$ 25,65"
             ],
             [
               "No checkout",
-              "Ultra Sérum Niacinamida, já em promoção",
+              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida), já em promoção",
               "R$ 41,40",
               "R$ 39,33"
             ],
             [
               "No carrinho",
-              "Kit Rotina Pele Sensível (de R$ 182,00) + Hidratante Facial Super Glow (de R$ 54,00) + Lip Combo People Colour (preço cheio)",
+              "[Kit Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel) (de R$ 182,00) + Hidratante Facial Super Glow (de R$ 54,00, hoje esgotado) + [Lip Combo People Colour](https://simpleorganic.com.br/products/lip-combo-1) (preço cheio)",
               "R$ 182,00 no total",
               "R$ 172,90 no total (−R$ 9,10)"
+            ],
+            [
+              "No checkout, 22/11",
+              "[Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade) + [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c), com preço da Clean Friday",
+              "R$ 68,40",
+              "R$ 64,98 (−R$ 3,42)"
             ]
           ],
-          "caption": "Preços da loja e do resumo do pedido, 03/11, com a Clean Friday no ar."
+          "caption": "Preços da loja e do resumo do pedido, com a Clean Friday no ar: os três primeiros testes são de 03/11, o último de 22/11."
         },
         "postParagraphs": [
-          "Conta nossa: pelos números do resumo, os 5% saíram do preço que já estava na promoção, não do preço riscado. No kit, o desconto da campanha veio primeiro e o cupom tirou 5% do que sobrou."
+          "Conta nossa: pelos números do resumo, os 5% saíram do preço que já estava na promoção, não do preço riscado. No kit, o desconto da campanha veio primeiro e o cupom tirou 5% do que sobrou.",
+          "No teste de 22/11, com o campo \"Código de desconto ou cartão-presente\" do checkout, o S-EMCASACOMCECILIA tirou R$ 3,42 dos R$ 68,40 (5% sobre os preços já reduzidos da Clean Friday) e o total ficou em R$ 64,98, ainda sem o frete, que só é calculado com o endereço. Antes do endereço, o checkout mostrava só o pagamento por cartão de crédito, em 1x de R$ 64,98, sem Pix e sem desconto no Pix."
         ],
         "images": [
           {
@@ -194538,18 +194521,9 @@ export const reviewsData: unknown[] = [
         "heading": "Quando o cupom vale a pena",
         "paragraphs": [
           "Se a compra já ia ser no site da Simple Organic, o cupom vale: 5% a mais sobre o preço que já está lá, sem passo extra além de colar o código. Durante a Clean Friday, até 30/11, o desconto grande é o da campanha, com boa parte do catálogo pela metade; o cupom é o acréscimo, e só se o resumo mostrar. Os preços da campanha estão no [guia de Black Friday da Simple Organic](/reviews/black-friday-simple-organic).",
-          "Passe do cupom quando a compra é na loja física, quando você espera frete grátis só por ele ou quando o resumo não mostra a linha do desconto. Antes de comprar pela primeira vez, leia [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel), com a empresa, o CNPJ e as regras de troca."
+          "Passe do cupom quando a compra é na loja física, quando você espera frete grátis só por ele ou quando o resumo não mostra a linha do desconto."
         ],
-        "emphasis": "No carrinho de R$ 182 do teste, o código descontou R$ 9,10. Confira quanto os 5% reduzem no seu pedido e compare o total com frete.",
-        "images": [
-          {
-            "src": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
-            "alt": "Frasco do Body Splash Blossom Kiss da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "Na Clean Friday, o desconto grande é o da loja; o cupom é o extra. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/body-splash-blossom-kiss"
-          }
-        ]
+        "emphasis": "No carrinho de R$ 182 do teste, o código descontou R$ 9,10. Confira quanto os 5% reduzem no seu pedido e compare o total com frete."
       },
       {
         "heading": "Perguntas frequentes",
@@ -194596,7 +194570,9 @@ export const reviewsData: unknown[] = [
       {
         "slug": "kit-skincare-presente-simple-organic"
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22",
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 783,
@@ -194617,7 +194593,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Simple Organic 2026: o cupom S-EMCASACOMCECILIA dá 5% OFF. A Clean Friday tem até 50% OFF em séruns, hidratante, kits e body splash.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/black-friday-simple-organic-capa-v2.webp",
@@ -194628,14 +194604,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Clean Friday, a Simple Organic anuncia até 50% OFF até o fim de novembro, enquanto durarem os estoques. O S-EMCASACOMCECILIA deu mais 5% nos kits, duos e produtos promocionais testados. Compare o total com frete antes de pagar: perto do mínimo da entrega grátis, o cupom pode aumentar a conta."
+          "Na Clean Friday, os preços da Simple Organic chegam a 50% OFF no site (o banner da home fala em até 40%), enquanto durarem os estoques. O S-EMCASACOMCECILIA deu mais 5% nos kits, duos e produtos promocionais testados. Compare o total com frete antes de pagar: perto do mínimo da entrega grátis, o cupom pode aumentar a conta."
         ]
       },
       {
         "heading": "A Clean Friday: o que é e até quando vale",
         "paragraphs": [
-          "A Clean Friday é a Black Friday da Simple Organic, e ela já está no ar: não precisa esperar a última sexta de novembro para ver o preço baixo. O banner da home anuncia \"tudo com até 50% OFF\", e o desconto já está no preço de cada produto, sem código nenhum.",
-          "A loja informou que a ação vai do fim de outubro até 30/11, enquanto durarem os estoques. Ofertas, preços e condições podem mudar; confira o valor do produto antes de fechar o pedido.",
+          "A Clean Friday é a Black Friday da Simple Organic, e ela já está no ar: não precisa esperar a última sexta de novembro para ver o preço baixo. O banner da home anuncia \"até 40% OFF\" e frete grátis a partir de R$ 99,00, e os preços riscados das páginas chegam a 50%: o desconto já está no preço de cada produto, sem código nenhum.",
+          "A loja informou que a ação vai do fim de outubro até 30/11, enquanto durarem os estoques; o banner da home não publica data de fim. Ofertas, preços e condições podem mudar; confira o valor do produto antes de fechar o pedido.",
           "O \"até\" pesa. Não é tudo pela metade: cada produto tem o próprio corte na página, e a tabela do próximo capítulo mostra onde ele é de 50% e onde fica em 40%. Serve para quem já conhece a linha e quer fechar a rotina num pedido só, e também para quem só quer provar um sérum; nesse caso, o que pesa é o frete, e o capítulo do frete mostra a conta."
         ]
       },
@@ -194662,7 +194638,7 @@ export const reviewsData: unknown[] = [
               "R$ 41,40"
             ],
             [
-              "[Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow)",
+              "[Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade)",
               "R$ 54,00",
               "R$ 27,00"
             ],
@@ -194697,12 +194673,12 @@ export const reviewsData: unknown[] = [
               "R$ 99,50"
             ]
           ],
-          "caption": "Preço no site da Simple Organic, 03/11; o \"de\" é o preço riscado na página do produto."
+          "caption": "Preço no site da Simple Organic na conferência mais recente; o \"de\" é o preço riscado na página do produto."
         },
         "postParagraphs": [
           "Conta nossa, pelos preços \"de\" e \"por\" da tabela: os dois Ultra Sérum e o Primer Blur Effect saem com 40%, o Duo Limpeza + Regeneração com 43%, e os outros cinco com 50%. O \"até 50%\" do banner é o teto, não a regra. Se o item que você quer está em 40%, a diferença para o de 50% não muda a escolha do produto; muda só a conta do frete, mais abaixo.",
           "O preço pode mudar. Compare o valor do produto que você quer com a tabela deste guia e com o preço mostrado na loja no dia da compra.",
-          "Em 15 de novembro, os nove preços da tabela seguiam os mesmos. Só o Hidratante Facial Super Glow estava esgotado; o [Hidratante Facial Calmante Multirreparador](https://simpleorganic.com.br/products/hidratante-facial-calmante-multirreparador) e o [Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioliosidade) saíam pelos mesmos R$ 27,00."
+          "Em 22/11, os preços da tabela seguiam os mesmos da primeira conferência. O Hidratante Facial Super Glow, que estava na lista, está esgotado e saiu da tabela; o [Hidratante Facial Calmante Multirreparador](https://simpleorganic.com.br/products/hidratante-facial-calmante-multirreparador) e o Hidratante Facial Antioleosidade saem pelos mesmos R$ 27,00."
         ],
         "images": [
           {
@@ -194720,7 +194696,7 @@ export const reviewsData: unknown[] = [
           "Na Clean Friday, kit não é sinônimo de desconto maior. A conta abaixo soma os produtos avulsos, pelo preço da campanha, e compara com o conjunto."
         ],
         "comparisonTable": {
-          "caption": "Preços no site da Simple Organic em 15 de novembro, sem o código; a soma dos avulsos é conta nossa",
+          "caption": "Preços no site da Simple Organic na conferência mais recente, sem o código; a soma dos avulsos é conta nossa",
           "headers": [
             "Conjunto",
             "O que vem",
@@ -194761,8 +194737,9 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom na Clean Friday: o que o teste mostrou",
         "paragraphs": [
           "O cupom entrou no carrinho com a Clean Friday no ar, mas a regra escrita da loja diz o contrário; o que vale é a linha de desconto que o seu carrinho mostra antes de pagar. O código é o S-EMCASACOMCECILIA, 5% na loja online da Simple Organic.",
-          "Num carrinho de R$ 182,00, com o kit [Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel), o [Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow) e um [lip combo](https://simpleorganic.com.br/products/lip-combo-1) a preço cheio, o código tirou R$ 9,10, 5% do total. Ele entrou num kit, num duo e em produtos com preço de campanha.",
+          "Num carrinho de R$ 182,00, com o kit [Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel), o [Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow) (hoje esgotado) e um [lip combo](https://simpleorganic.com.br/products/lip-combo-1) a preço cheio, o código tirou R$ 9,10, 5% do total. Ele entrou num kit, num duo e em produtos com preço de campanha.",
           "Na conferência de 15 de novembro, o código seguia entrando na sacola: tirou 5% do [Trio Body Splashes](https://simpleorganic.com.br/products/kit-body-splash), da Rotina Pele Sensível e do [Duo Limpeza + Regeneração](https://simpleorganic.com.br/products/duo-limpeza-regeneracao), os três com preço de campanha.",
+          "No teste de 22/11, um carrinho com o [Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade) (R$ 27,00) e o [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) (R$ 41,40), os dois com preço da Clean Friday, somou R$ 68,40. No campo \"Código de desconto ou cartão-presente\" do checkout, o S-EMCASACOMCECILIA tirou R$ 3,42, 5% sobre esses preços já reduzidos, e o total ficou em R$ 64,98, sem o frete, que só é calculado com o endereço.",
           "Coloque os produtos no carrinho, cole o código no campo \"Desconto\" e confira a linha do cupom antes de decidir. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar), e as condições do dia, na página do [cupom Simple Organic](/cupons/simple-organic).",
           "Nas Lojas Simple e nas farmácias, não conte com o código: ele é da loja online."
         ],
@@ -194779,12 +194756,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e prazo na campanha",
         "paragraphs": [
-          "Na Clean Friday, a loja avisa que o despacho pode ultrapassar os três a cinco dias úteis habituais. O frete grátis segue a partir de R$ 99,00 em produtos, pela faixa do topo do site; abaixo disso, ele é calculado pelo CEP, por PAC, Sedex ou JadLog.",
+          "Na Clean Friday, a loja avisa que o pedido pode levar até 5 dias úteis para ser faturado e despachado, no limite da regra de sempre, de 3 a 5 dias úteis. O frete grátis segue a partir de R$ 99,00 em produtos, pela faixa do topo do site; abaixo disso, ele é calculado pelo CEP, por PAC, Sedex ou JadLog.",
           "O mínimo do frete grátis conta depois do desconto, e é aí que o cupom pode custar caro. No teste de checkout de 10/11, com um CEP de São Paulo, o Trio Body Splashes saiu a R$ 99,50 com frete grátis sem o código. Com o código, os produtos caíram para R$ 94,53, abaixo do mínimo, e entraram R$ 10,88 de frete: R$ 105,41 no total. O cupom tirou R$ 4,97 dos produtos e pôs R$ 5,91 a mais na conta.",
           "Pela cotação da sacola e pela regra do mínimo, a estimativa é que o código reduza o total da Rotina Pele Sensível e do Duo Limpeza + Regeneração. A Rotina fica abaixo de R$ 99 com ou sem o desconto; o Duo continua acima depois dele. Esses dois totais precisam ser confirmados no checkout para o seu CEP.",
           "Compare o total final com e sem o código para o mesmo carrinho, CEP e modalidade de entrega. Se o frete e os demais benefícios permanecerem iguais, o desconto nos produtos reduz o total entregue. O frete muda com o CEP, e completar o carrinho só compensa com item que você já ia comprar.",
           "Para presente com data certa, confira no checkout o prazo para seu CEP e considere margem para eventuais atrasos de despacho ou transporte. Comprar antes dá mais tempo, sem garantir entrega numa data. Se ainda falta decidir o que dar, veja [como escolher um kit de skincare para presente](/reviews/kit-skincare-presente-simple-organic).",
-          "Pagamento: cartão em até 5x sem juros, com parcela mínima de R$ 30, ou Pix com QR Code que vale 2 horas. Para troca por preferência, a loja pede produto sem uso e lacre intacto. Nas compras pela internet, o direito de arrependimento prevê sete dias corridos após o recebimento. Se houver defeito, registre o problema e procure atendimento; no caso de defeito oculto, o prazo de reclamação começa quando ele se torna evidente."
+          "Pagamento: cartão em até 5x sem juros, com parcela mínima de R$ 30, ou Pix com QR Code que vale 2 horas. No teste mais recente, o checkout mostrou só o pagamento por cartão de crédito antes do endereço, sem Pix e sem desconto no Pix. Para troca por preferência, a loja pede produto sem uso e lacre intacto. Nas compras pela internet, o direito de arrependimento prevê sete dias corridos após o recebimento. Se houver defeito, registre o problema e procure atendimento; no caso de defeito oculto, o prazo de reclamação começa quando ele se torna evidente."
         ],
         "images": [
           {
@@ -194829,7 +194806,7 @@ export const reviewsData: unknown[] = [
         "heading": "Comprar agora ou esperar a sexta",
         "paragraphs": [
           "A campanha informa duração até o fim de novembro, sujeita a estoque e mudanças de preço e condições. Não há promessa de corte maior na última sexta; compare o preço do produto desejado quando for comprar.",
-          "Quem já sabe o produto compra quando ele aparece disponível com a etiqueta de 50%. Quem está entre dois usa a tabela como régua e confere o preço do dia. Para confiar na compra: o rodapé do site traz o CNPJ da Simple Organic Beauty S.A., e o perfil da loja no Reclame Aqui tem selo RA1000 nos últimos 6 meses, com todas as reclamações respondidas; os números por período estão em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao). A queixa mais comum lá é atraso na entrega, o que reforça o aviso do prazo.",
+          "Quem já sabe o produto compra quando ele aparece disponível com a etiqueta de 50%. Quem está entre dois usa a tabela como régua e confere o preço do dia. Alguns itens já saíram de estoque, como o Hidratante Facial Super Glow: se o item é o que você quer, confira o estoque antes de esperar a sexta.",
           "Antes de pagar:"
         ],
         "bullets": [
@@ -194844,7 +194821,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Simple Organic tem Black Friday? Tem, com o nome de Clean Friday: o banner da home anuncia tudo com até 50% OFF, e o desconto já está no preço de cada produto.",
+          "A Simple Organic tem Black Friday? Tem, com o nome de Clean Friday: os preços do site chegam a 50% OFF, o banner da home fala em até 40%, e o desconto já está no preço de cada produto.",
           "Quando é a Black Friday da Simple Organic? A Clean Friday já começou e vai até o fim de novembro, enquanto durarem os estoques; a loja não anunciou regra diferente para a sexta.",
           "O cupom S-EMCASACOMCECILIA vale na Black Friday? Vale. Nos testes, o cupom Simple Organic S-EMCASACOMCECILIA deu mais 5% em produtos com preço de campanha, inclusive kits e duos. Confira a linha do código e o total com frete no carrinho.",
           "Kit ou produto avulso na Clean Friday da Simple Organic? Depende do conjunto. A Rotina Pele Sensível sai R$ 6,90 abaixo dos três produtos avulsos e o Trio Body Splashes, R$ 4,00; o Duo Limpeza + Regeneração custa praticamente o mesmo que os dois separados.",
@@ -195929,7 +195906,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic é boa? Niacinamida a 10%, duas vitaminas C, retinol a 0,3% e bakuchiol, pelo rótulo.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/simple-organic-e-boa-capa-v2.webp",
@@ -195981,7 +195958,7 @@ export const reviewsData: unknown[] = [
             [
               "[Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c)",
               "Vitamina C (ascorbil fosfato de sódio) 10% e ácido ferúlico 0,5%, pelo rótulo do frasco",
-              "não declarado",
+              "não informado pela loja",
               "R$ 69,00"
             ],
             [
@@ -196011,7 +195988,7 @@ export const reviewsData: unknown[] = [
             [
               "[Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c)",
               "Ascorbyl glucoside 15%",
-              "não declarado",
+              "30 mL (página do kit)",
               "R$ 99,00"
             ],
             [
@@ -196027,7 +196004,7 @@ export const reviewsData: unknown[] = [
               "R$ 129,00"
             ],
             [
-              "[Solução Hero](https://simpleorganic.com.br/products/solucao-hero), Gaba, Poliglutâmico e Oxyresveratrol",
+              "[Solução Hero](https://simpleorganic.com.br/products/solucao-hero), [Gaba](https://simpleorganic.com.br/products/solucao-gaba), [Poliglutâmico](https://simpleorganic.com.br/products/solucao-poliglutamico) e [Oxyresveratrol](https://simpleorganic.com.br/products/solucao-oxyresveratrol)",
               "Ashwagandha (Hero), ácido aminobutírico (Gaba), ácido poliglutâmico e hidroxiresveratrol (Oxyresveratrol)",
               "não declarado",
               "R$ 99,00"
@@ -196036,8 +196013,8 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista no site da Simple Organic, 03/11; com a Clean Friday no ar, a loja mostra o preço de campanha abaixo dele."
         },
         "postParagraphs": [
-          "Conta nossa, pelos preços de lista e pelos volumes da tabela: o Ultra Sérum de 30 mL sai a R$ 2,30 por mL e a Solução Retinol-Like, a R$ 3,30. Nas páginas que não trazem o volume (as duas vitaminas C, o ácido hialurônico e o PDRN), a conta por mL não fecha, e a comparação fica pelo ativo e pela concentração.",
-          "Na tabela de preços de lista, os Ultra Séruns custam o mesmo e as Soluções custam mais. Use os próximos capítulos para comparar o ativo declarado, a concentração quando publicada e a composição."
+          "Conta nossa, pelos preços de lista e pelos volumes da tabela: o Ultra Sérum de 30 mL sai a R$ 2,30 por mL, e a Solução Retinol-Like e a Solução Vitamina C, a R$ 3,30. Nas páginas que não trazem o volume (o Ultra Sérum Vitamina C, o ácido hialurônico e o PDRN), a conta por mL não fecha, e a comparação fica pelo ativo e pela concentração.",
+          "Na tabela de preços de lista, os Ultra Séruns custam o mesmo e as Soluções custam mais. Use os próximos capítulos para comparar o ativo declarado, a concentração quando publicada e a composição. Para quem procura sérum de ácidos contra cravos e espinhas, o guia [Simple Organic para acne](/reviews/simple-organic-para-acne) separa o que cada produto declara."
         ],
         "images": [
           {
@@ -196052,7 +196029,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A niacinamida da Simple Organic é boa? O que o rótulo diz",
         "paragraphs": [
-          "O Ultra Sérum Niacinamida declara niacinamida a 10%, 30 mL e lista completa de ingredientes na página. Pelos preços de lista e volumes da tabela, custa R$ 2,30 por mL, empatado com os outros Ultra Séruns de 30 mL comparados.",
+          "O [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) declara niacinamida a 10%, 30 mL e lista completa de ingredientes na página. Pelos preços de lista e volumes da tabela, custa R$ 2,30 por mL, empatado com os outros Ultra Séruns de 30 mL comparados.",
           "A loja informa: o Ultra Sérum Niacinamida é \"a mesma fórmula da Solução Niacinamida, agora em uma nova embalagem\", e a composição leva Parfum. O que a página promete para a pele é frase da marca, e este texto não repete.",
           "Regra prática, sem teste nosso, para quem evita perfume em produto de rosto: leia a lista de ingredientes antes de fechar, porque este sérum leva Parfum e a página mostra a lista inteira. Gestante, lactante e quem tem alguma condição de pele: a própria página manda ao médico ou ao dermatologista, e na dúvida é ele quem responde, não o rótulo.",
           "É uma opção para quem procura niacinamida com concentração e volume declarados."
@@ -196061,17 +196038,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A vitamina C da Simple Organic é boa? Duas fórmulas, dois derivados",
         "paragraphs": [
-          "Depende de qual: a marca vende duas vitaminas C que não são o mesmo produto com embalagem nova, e é o rótulo que separa as duas. O Ultra Sérum Vitamina C traz, impresso no frasco, 10% de vitamina C na forma de ascorbil fosfato de sódio e 0,5% de ácido ferúlico. A Solução Vitamina C declara na página 15% de ascorbyl glucoside, outro derivado, e custa mais, pela tabela do capítulo das linhas.",
-          "Os dois são derivados da vitamina C, não o ácido ascórbico puro, e os dois dizem isso no rótulo. O número maior da Solução é de outro derivado, então 15% e 10% não se comparam direto, e o resultado na pele é promessa da página, não resposta deste texto. Nenhum dos dois traz o volume na página, e por isso a conta por mL não fecha aqui: a diferença de preço da tabela é a única conta que existe.",
-          "O Ultra Sérum combina o derivado ascorbil fosfato de sódio, a 10%, com ácido ferúlico; a Solução usa ascorbyl glucoside, a 15%. Não escolha só pelo percentual, porque os derivados são diferentes. Gestantes e lactantes devem conversar com médico ou dermatologista antes de escolher, conforme orientação da página."
+          "Depende de qual: a marca vende duas vitaminas C que não são o mesmo produto com embalagem nova, e é o rótulo que separa as duas. O [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) traz, impresso no frasco, 10% de vitamina C na forma de ascorbil fosfato de sódio e 0,5% de ácido ferúlico. A [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c) declara na página 15% de ascorbyl glucoside, outro derivado, e custa mais, pela tabela do capítulo das linhas.",
+          "Os dois são derivados da vitamina C, não o ácido ascórbico puro, e os dois dizem isso no rótulo. O número maior da Solução é de outro derivado, então 15% e 10% não se comparam direto, e o resultado na pele é promessa da página, não resposta deste texto. A Solução tem 30 mL, volume informado na página do kit em que ela entra, e sai a R$ 3,30 por mL pelo preço de lista. O Ultra Sérum não tem volume informado pela loja, e por isso a conta por mL não fecha para ele: entre os dois, a comparação fica pelo derivado e pela concentração.",
+          "O Ultra Sérum combina o derivado ascorbil fosfato de sódio, a 10%, com ácido ferúlico; a Solução usa ascorbyl glucoside, a 15%. Não escolha só pelo percentual, porque os derivados são diferentes. Gestantes e lactantes devem conversar com médico ou dermatologista antes de escolher, conforme orientação da página. Para decidir entre vitamina C e niacinamida e em que ordem usar, veja [Vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
         ]
       },
       {
         "heading": "Retinol, Retinol-Like e PDRN: o que cada página declara",
         "paragraphs": [
-          "O nome engana em um dos três: a Solução Retinol-Like não tem retinol. O ativo é o bakuchiol a 1%, que a marca chama de alternativa vegetal ao retinol, e a composição não traz retinol. Quem quer retinol vai ao Ultra Sérum Retinol, que traz, impresso no frasco, 0,3% de retinol e 0,5% de squalane; o texto da página não repete esses números, então o lugar de ler é o rótulo na foto do produto.",
-          "A Solução Exossomos + PDRN + Peptídeos é a mais cara das soluções: PDRN vegano, exossomos de centella asiática e peptídeos, sem o volume na página. É o produto para quem já sabe o que procura por esses nomes e aceita pagar o maior preço da linha; para quem está começando na marca, não é por aqui.",
-          "Niacinamida, PDRN e Retinol-Like aparecem nas buscas junto de \"reclame aqui\". As reclamações recentes do perfil da loja falam de conta-gotas que chega quebrado ou torto, não de fórmula; o artigo sobre o Reclame Aqui, mais abaixo, traz as queixas e o que fazer ao receber.",
+          "O nome engana em um dos três: a [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like) não tem retinol. O ativo é o bakuchiol a 1%, que a marca chama de alternativa vegetal ao retinol, e a composição não traz retinol. Quem quer retinol vai ao [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), que traz, impresso no frasco, 0,3% de retinol e 0,5% de squalane; o texto da página não repete esses números, então o lugar de ler é o rótulo na foto do produto.",
+          "A [Solução Exossomos + PDRN + Peptídeos](https://simpleorganic.com.br/products/solucao-pdrn) é a mais cara das soluções: PDRN vegano, exossomos de centella asiática e peptídeos, sem o volume na página. É o produto para quem já sabe o que procura por esses nomes e aceita pagar o maior preço da linha; para quem está começando na marca, não é por aqui.",
           "O Retinol-Like serve para quem quer evitar retinol e ainda assim ter um ativo com a concentração escrita. O Ultra Sérum Retinol, para quem quer retinol com a dose no frasco e pelo preço de entrada da marca. O horário de uso e o preço de cada um estão em [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol). A página do Retinol-Like manda gestante e lactante ao médico; com retinol, a regra é a mesma: na dúvida, o dermatologista."
         ],
         "images": [
@@ -196094,7 +196070,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hidratantes faciais: três de 40 g e um de 80 g",
         "paragraphs": [
-          "Os três hidratantes faciais de 40 g custam o mesmo e se separam pela lista de ativos que a página destaca, então a escolha é pelo rótulo, não pelo preço. O Multifuncional é outro produto: 80 g, com manteigas e óleos no lugar da niacinamida, e um preço acima."
+          "Os três hidratantes faciais de 40 g custam o mesmo e se separam pela lista de ativos que a página destaca, então a escolha é pelo rótulo, não pelo preço. O [Multifuncional](https://simpleorganic.com.br/products/hidratante-multifuncional) é outro produto: 80 g, com manteigas e óleos no lugar da niacinamida, e um preço acima."
         ],
         "comparisonTable": {
           "headers": [
@@ -196111,7 +196087,7 @@ export const reviewsData: unknown[] = [
               "R$ 54,00"
             ],
             [
-              "[Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioliosidade)",
+              "[Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade)",
               "Niacinamida, zinco PCA e aloe",
               "40 g",
               "R$ 54,00"
@@ -196129,17 +196105,17 @@ export const reviewsData: unknown[] = [
               "R$ 95,00"
             ]
           ],
-          "caption": "Preço de lista."
+          "caption": "Preço de lista. O Super Glow estava esgotado quando conferimos, em 22/11."
         },
         "postParagraphs": [
           "Pelos preços de lista e pelos pesos da tabela, o Multifuncional sai mais barato por grama que os três de 40 g (R$ 1,19 contra R$ 1,35), mas o que ele leva é outra lista: manteigas e óleos, com lemongrass na fórmula. Quem quer niacinamida também no hidratante fica num dos três de 40 g; quem quer um pote maior, sem niacinamida, olha o Multifuncional. Os nomes \"Antioleosidade\" e \"Calmante\" são promessas da marca; o que separa os três, de fato, é a lista de ativos da tabela.",
-          "Na dúvida entre os três de 40 g, o Super Glow é o que repete o ativo do sérum mais procurado da marca, a niacinamida, junto do ácido hialurônico; o Calmante leva pantenol e camomila, e o Antioleosidade, zinco PCA. Passe do Multifuncional se você evita óleo essencial no rosto: a fórmula leva o de lemongrass."
+          "Na dúvida entre os de 40 g, o Antioleosidade leva zinco PCA e aloe, e o Calmante, pantenol e camomila. O Super Glow, que repete a niacinamida junto do ácido hialurônico, estava esgotado quando conferimos. Passe do Multifuncional se você evita óleo essencial no rosto: a fórmula leva o de lemongrass. A ordem de uso do hidratante na rotina de manhã e à noite está em [Rotina Simple Organic](/reviews/simple-organic-rotina-de-uso)."
         ],
         "images": [
           {
             "src": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
             "alt": "Bisnaga do Hidratante Facial Super Glow da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "Super Glow, um dos três hidratantes de 40 g: niacinamida, karité e ácido hialurônico. Foto: Simple Organic.",
+            "caption": "Super Glow, um dos três hidratantes de 40 g: niacinamida, karité e ácido hialurônico; esgotado quando conferimos. Foto: Simple Organic.",
             "objectFit": "square",
             "href": "https://simpleorganic.com.br/products/hidratante-facial-super-glow"
           }
@@ -196159,7 +196135,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Body Splash Blossom Kiss](https://simpleorganic.com.br/products/body-splash-blossom-kiss), Dream Cloud, Perfect Matcha e Rebel Scent ALUF",
+              "[Body Splash Blossom Kiss](https://simpleorganic.com.br/products/body-splash-blossom-kiss), [Dream Cloud](https://simpleorganic.com.br/products/body-splash-dream-cloud), [Perfect Matcha](https://simpleorganic.com.br/products/body-splash-perfect-matcha) e [Rebel Scent ALUF](https://simpleorganic.com.br/products/body-splash-rebel-scent-aluf)",
               "A página de cada um traz a própria descrição",
               "100 mL",
               "R$ 69,00"
@@ -196204,13 +196180,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os preços das tabelas são de lista, e em campanha a loja põe o preço do dia abaixo dele, como na Clean Friday que está no ar. Por cima do preço que estiver no carrinho entra o S-EMCASACOMCECILIA: 5% na loja online, o [cupom Simple Organic](/cupons/simple-organic) da parceria.",
           "O código entrou em kit, em duo e em produto com preço de promoção, e os 5% saíram do preço que já estava no carrinho, não do preço riscado. O que confirma é a linha do desconto no resumo do pedido: confira antes de pagar. O link da parceria abre a home da loja com o código aplicado; o link de produto, como os das tabelas, vai sem ele, então copie o código e cole no campo \"Desconto\" do carrinho. O código é da loja online.",
-          "Para um pedido pequeno, compare o total com frete depois de aplicar o código. O mínimo de frete grátis e o valor dos produtos precisam ser confirmados no carrinho. Se você já pretende comprar outro item, simule os dois juntos e compare com o total de uma compra só. Se a compra é para presente, o guia de [kits de skincare da Simple Organic para presente](/reviews/kit-skincare-presente-simple-organic) compara as opções e mostra quando o kit custa o mesmo que os avulsos."
-        ]
-      },
-      {
-        "heading": "A Simple Organic é confiável?",
-        "paragraphs": [
-          "Dá para confiar na loja; o que este guia não responde é se o produto serve à sua pele. A empresa, as lojas físicas, o frete e o pagamento estão em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel), e as notas por período e as reclamações recentes, inclusive as de frasco e conta-gotas, em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao).",
+          "Para um pedido pequeno, compare o total com frete depois de aplicar o código. O frete grátis começa em R$ 99, e o valor conta depois do desconto do código; confirme no carrinho. Se você já pretende comprar outro item, simule os dois juntos e compare com o total de uma compra só. Se a compra é para presente, o guia de [kits de skincare da Simple Organic para presente](/reviews/kit-skincare-presente-simple-organic) compara as opções e mostra quando o kit custa o mesmo que os avulsos.",
           "O que pesa, da loja, é o prazo de troca: 7 dias corridos depois de receber, com o lacre inviolado. Na troca voluntária e na desistência, sérum aberto não volta por essa regra (defeito é outro caso, e abrir o produto não impede de reclamar do vício), e por isso o rótulo se lê antes de comprar, não depois; é o que este guia tenta adiantar."
         ]
       },
@@ -196220,7 +196190,7 @@ export const reviewsData: unknown[] = [
           "Para comparar niacinamida pelo rótulo: o Ultra Sérum declara ativo, concentração e volume. Seu preço por mL empata com o dos outros Ultra Séruns de 30 mL da tabela.",
           "Para comparar as vitaminas C, observe o derivado e a fórmula: o Ultra Sérum traz ácido ferúlico; a Solução usa outro derivado. Não escolha só pelo percentual.",
           "Para retinol, o Ultra Sérum Retinol, com a dose impressa no frasco; para evitar retinol, o Retinol-Like, de bakuchiol.",
-          "No hidratante, um dos três de 40 g para quem quer niacinamida também ali; o Multifuncional para quem quer o pote maior, com manteigas e óleos.",
+          "No hidratante, um dos de 40 g para quem quer niacinamida também ali; o Multifuncional para quem quer o pote maior, com manteigas e óleos.",
           "Não vale esperar comparar tudo por mL: metade das páginas não traz o volume."
         ],
         "emphasis": "Marca que escreve o ativo e a concentração no frasco deixa a escolha com quem compra. O que eu olharia antes de qualquer promessa é essa linha miúda do rótulo."
@@ -196246,7 +196216,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você evita perfume em produto de rosto: a lista do Ultra Sérum Niacinamida leva Parfum.",
-        "Você quer comparar os séruns por mL: as duas vitaminas C, o ácido hialurônico e o PDRN não trazem o volume na página.",
+        "Você quer comparar os séruns por mL: o Ultra Sérum Vitamina C, o ácido hialurônico e o PDRN não trazem o volume na página.",
         "Você vai comprar na loja física ou na farmácia: o código é da loja online."
       ]
     },
@@ -196272,7 +196242,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "kit-skincare-presente-simple-organic"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 788,
@@ -228455,6 +228426,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o S-EMCASACOMCECILIA, 5% OFF na Simple Organic. Niacinamida, retinol, vitamina C e gel lado a lado com a Principia: fórmula, perfume e preço por mL.",
     "publishedAt": "10 de novembro de 2026",
     "publishedAtISO": "2026-11-10",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/simple-organic-ou-principia-capa-v2.webp",
@@ -228590,7 +228562,8 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
             "alt": "Arte da Simple Organic com o frasco antigo da Solução Niacinamida e o novo Ultra Sérum Niacinamida, sob os dizeres Nova embalagem, mesma fórmula",
             "caption": "O Ultra Sérum Niacinamida substituiu a Solução Niacinamida com a mesma fórmula, segundo a marca. Imagem: Simple Organic.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/ultra-serum-niacinamida"
           }
         ]
       },
@@ -228624,14 +228597,15 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A Simple Organic orienta quem tem pele sensível a usar com cautela, de preferência com orientação profissional, e a começar com menos aplicações por semana. A mesma cautela vale para o retinol da Principia.",
-          "O erro comum é comparar com a Solução Retinol-Like, da mesma Simple Organic: ela não tem retinol, e o ativo é o bakuchiol, a 1%. Quem procura retinol compara o Ultra Sérum Retinol."
+          "O erro comum é comparar com a [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like), da mesma Simple Organic: ela não tem retinol, e o ativo é o bakuchiol, a 1%. Quem procura retinol compara o Ultra Sérum Retinol. A comparação entre os dois está em [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol)."
         ],
         "images": [
           {
             "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
             "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
             "caption": "Ultra Sérum Retinol: a dose de retinol está impressa no frasco. Foto: Simple Organic.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
           }
         ]
       },
@@ -228653,7 +228627,7 @@ export const reviewsData: unknown[] = [
               "[Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c), Simple Organic",
               "Ascorbil fosfato de sódio 10% e ácido ferúlico 0,5%; perfume na lista",
               "R$ 39,33 com o código",
-              "Volume não informado"
+              "Volume não informado pela loja"
             ],
             [
               "VC-10, Principia, 30 mL",
@@ -228664,7 +228638,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Simple Organic não informa o volume desse frasco. Ele custa menos, mas não dá para dizer que rende mais. A Solução Vitamina C, da mesma marca, usa outro derivado em outra concentração e fica fora deste par.",
+          "A Simple Organic não informa o volume desse frasco. Ele custa menos, mas não dá para dizer que rende mais. A [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c), da mesma marca, tem 30 mL (volume informado na página do kit), usa outro derivado em outra concentração e fica fora deste par. Para decidir entre vitamina C e niacinamida na marca, veja [Vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida).",
           "Fique com a Principia se você evita perfume ou quer saber quanto vem no frasco; fique com a Simple Organic se o preço do frasco decide."
         ],
         "images": [
@@ -228672,7 +228646,8 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/simple-organic/simple-organic-ou-principia-ultra-serum-vitamina-c.webp",
             "alt": "Frasco do Ultra Sérum Vitamina C da Simple Organic, com o rótulo 10% Vitamina C e 0,5% Ácido Ferúlico, em foto oficial da marca",
             "caption": "O Ultra Sérum Vitamina C traz a concentração no rótulo. Foto: Simple Organic.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/ultra-serum-vitamina-c"
           }
         ]
       },
@@ -228725,7 +228700,8 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
             "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
             "caption": "Gel de Limpeza Suave: sem perfume na lista de ingredientes. Foto: Simple Organic.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
           }
         ]
       },
@@ -228782,12 +228758,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Sem vencedora em tudo: a escolha sai do que você evita e de quando compra."
+          "Sem vencedora em tudo: a escolha sai do que você evita e de quando compra. Se a dúvida é trocar de marca, [Alternativas à Creamy](/reviews/alternativas-a-creamy) compara a Simple Organic com outra linha de ativos. Para montar a rotina depois da compra, veja [Rotina Simple Organic](/reviews/simple-organic-rotina-de-uso), e, para pele com acne, [Simple Organic para acne](/reviews/simple-organic-para-acne)."
         ],
         "bullets": [
           "Evita perfume no sérum: a Principia, na niacinamida, no retinol e na vitamina C.",
           "Evita perfume no gel: o Gel de Limpeza Suave da Simple Organic.",
-          "Quer o frasco mais barato durante a Clean Friday: a Simple Organic com o código, nos quatro produtos. No custo por mL ou por grama, a conta só fecha na niacinamida, no retinol e nos géis, porque a vitamina C dela não informa o volume.",
+          "Quer o frasco mais barato durante a Clean Friday: a Simple Organic com o código, nos quatro produtos. No custo por mL ou por grama, a conta só fecha na niacinamida, no retinol e nos géis, porque a loja não informa o volume do Ultra Sérum Vitamina C.",
           "Quer zinco junto com a niacinamida: a NC-10 da Principia.",
           "Compra gel em quantidade fora da promoção: o de 500 g da Principia, o mais barato por grama entre os tamanhos dela."
         ],
@@ -228802,7 +228778,8 @@ export const reviewsData: unknown[] = [
           "O Retinol-Like da Simple Organic é retinol? Não: o ativo dele é o bakuchiol, a 1%. O sérum com retinol da marca é o Ultra Sérum Retinol."
         ]
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 895,
@@ -229556,7 +229533,7 @@ export const reviewsData: unknown[] = [
     "slug": "alternativas-a-creamy",
     "locale": "pt",
     "title": "Alternativas à Creamy: retinol, niacinamida e gel de limpeza por menos",
-    "seoTitle": "Alternativas à Creamy, com cupom",
+    "seoTitle": "Alternativas à Creamy: retinol, niacinamida e gel",
     "type": "Comparativo de Skincare",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -229571,6 +229548,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "S-EMCASACOMCECILIA dá 5% na Simple Organic. Veja alternativas à Creamy em retinol, niacinamida e gel de limpeza, com preços e diferenças.",
     "publishedAt": "10 de novembro de 2026",
     "publishedAtISO": "2026-11-10",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/alternativas-a-creamy-capa-v3.webp",
@@ -229587,7 +229565,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual produto da Creamy você quer substituir?",
         "paragraphs": [
-          "Para comprar retinol, a alternativa é o Ultra Sérum Retinol. Para niacinamida, o Ultra Sérum Niacinamida. Na limpeza, escolha entre o Gel Suave e o Profunda pelos ingredientes que você procura na fórmula.",
+          "Para comprar retinol, a alternativa é o [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol). Para niacinamida, o [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida). Na limpeza, escolha entre o [Gel Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) e o [Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda) pelos ingredientes que você procura na fórmula.",
           "Preços dos sites em 10 de novembro de 2026, sem frete. Os valores da Simple Organic abaixo incluem a promoção e os 5% do S-EMCASACOMCECILIA."
         ],
         "comparisonTable": {
@@ -229623,9 +229601,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "No lugar do Retinol da Creamy: o Ultra Sérum Retinol",
         "paragraphs": [
-          "As duas marcas declaram 0,3% de retinol. O da Creamy é um creme de 30 g, por R$ 83,99 no preço do dia e R$ 119,99 de lista. O da Simple Organic é um sérum de 30 ml, por R$ 39,33 com o código na promoção atual.",
+          "As duas marcas declaram 0,3% de retinol. O da Creamy é um creme de 30 g, por R$ 83,99 no preço do dia e R$ 119,99 de lista. O [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), da Simple Organic, é um sérum de 30 ml, por R$ 39,33 com o código na promoção atual.",
           "A vantagem é pagar menos pela embalagem. Os formatos e as fórmulas são diferentes, e a mesma concentração declarada não garante o mesmo resultado na pele.",
-          "Com o preço de lista de R$ 69 e os mesmos 5% do código, o frasco sairia a R$ 65,55. A simulação usa a lista atual."
+          "Com o preço de lista de R$ 69 e os mesmos 5% do código, o frasco sairia a R$ 65,55. A simulação usa a lista atual. Quem quer evitar retinol deve olhar a [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like), de bakuchiol: a diferença está em [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol)."
         ],
         "image": {
           "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
@@ -229638,9 +229616,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "No lugar do Niacinamide B: o Ultra Sérum Niacinamida",
         "paragraphs": [
-          "O Ultra Sérum Niacinamida da Simple Organic tem 30 ml e custa R$ 39,33 com o código na promoção atual. O Niacinamide B da Creamy também tem 30 ml e custa R$ 89,99 no dia, com preço de lista de R$ 99,99. Aqui, os volumes permitem comparar o custo por ml: cerca de R$ 1,31 contra R$ 3,00 no preço do dia.",
+          "O [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) da Simple Organic tem 30 ml e custa R$ 39,33 com o código na promoção atual. O Niacinamide B da Creamy também tem 30 ml e custa R$ 89,99 no dia, com preço de lista de R$ 99,99. Aqui, os volumes permitem comparar o custo por ml: cerca de R$ 1,31 contra R$ 3,00 no preço do dia.",
           "A concentração exige outra leitura. A Simple Organic declara 10% de niacinamida. Na página da Creamy, os 20% se referem a um blend com niacinamida, vitamina B12, zinco e pantenol; esse número não informa 20% de niacinamida isolada.",
-          "Com o preço de lista de R$ 69 e os mesmos 5% do código, o frasco sairia a R$ 65,55, cerca de R$ 2,19 por ml. A simulação usa a lista atual."
+          "Com o preço de lista de R$ 69 e os mesmos 5% do código, o frasco sairia a R$ 65,55, cerca de R$ 2,19 por ml. A simulação usa a lista atual. Para comparar com a vitamina C da marca, veja [Vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
         ],
         "image": {
           "src": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
@@ -229679,12 +229657,12 @@ export const reviewsData: unknown[] = [
         "heading": "Qual alternativa faz sentido para a sua compra",
         "emphasis": "Na promoção atual, as três linhas permitem gastar menos na compra com o código da Simple Organic. Escolha a alternativa pelas diferenças de formato, concentração declarada e presença de perfume descritas em cada capítulo.",
         "bullets": [
-          "Retinol: o Ultra Sérum Retinol reduz o desembolso pela embalagem e declara os mesmos 0,3%, em um formato diferente.",
-          "Niacinamida: o Ultra Sérum Niacinamida custa menos por ml, com 10% de niacinamida declarados.",
-          "Limpeza: os géis Suave e Profunda têm menor preço por embalagem na promoção atual; a escolha entre eles depende dos ingredientes que você quer na fórmula."
+          "Retinol: o [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol) reduz o desembolso pela embalagem e declara os mesmos 0,3%, em um formato diferente.",
+          "Niacinamida: o [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) custa menos por ml, com 10% de niacinamida declarados.",
+          "Limpeza: os géis [Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) e [Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda) têm menor preço por embalagem na promoção atual; a escolha entre eles depende dos ingredientes que você quer na fórmula."
         ],
         "postParagraphs": [
-          "Para comparar a Simple Organic com outra marca de ativos, veja [Simple Organic ou Principia](/reviews/simple-organic-ou-principia). Para a marca em si, [Simple Organic é boa?](/reviews/simple-organic-e-boa)."
+          "Para comparar a Simple Organic com outra marca de ativos, veja [Simple Organic ou Principia](/reviews/simple-organic-ou-principia). Para a marca em si, [Simple Organic é boa?](/reviews/simple-organic-e-boa). Para montar a ordem de uso, veja [Rotina Simple Organic](/reviews/simple-organic-rotina-de-uso); para pele com acne, [Simple Organic para acne](/reviews/simple-organic-para-acne)."
         ]
       },
       {
@@ -229733,14 +229711,15 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-simple-organic"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 898,
     "slug": "kit-skincare-presente-simple-organic",
     "locale": "pt",
     "title": "Kit de skincare para presente: como escolher na Simple Organic",
-    "seoTitle": "Kit de skincare para presente: como escolher na Simple Organic",
+    "seoTitle": "Kit skincare para presente Simple Organic: qual escolher",
     "type": "Guia de Presente",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -229755,6 +229734,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "S-EMCASACOMCECILIA dá 5% OFF na Simple Organic. Kit de skincare para presente: como escolher, quando compensa frente aos avulsos e como funciona a troca.",
     "publishedAt": "10 de novembro de 2026",
     "publishedAtISO": "2026-11-10",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/kit-skincare-presente-simple-organic-capa-v2.webp",
@@ -229812,8 +229792,8 @@ export const reviewsData: unknown[] = [
         "heading": "Kits para quem já usa ou pediu um sérum",
         "paragraphs": [
           "Se a pessoa pediu niacinamida, ácido hialurônico ou vitamina C, procure esse produto na tabela. Depois, confira se ela também quer o gel de limpeza e o balm que acompanham alguns kits.",
-          "Os duos reúnem dois produtos. Os trios desta tabela acrescentam o Balm Antiolheiras ao gel e ao sérum. Escolha pelos itens que serão usados; uma caixa com mais produtos pode incluir algo que a pessoa não quer.",
-          "A Dupla Limpeza Diária reúne dois géis. O Gel de Limpeza Profunda contém ácidos, por isso ela fica para quem já conhece esse tipo de produto e quer incluí-lo na rotina."
+          "Os duos reúnem dois produtos. Os trios desta tabela acrescentam o [Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras) ao gel e ao sérum. Escolha pelos itens que serão usados; uma caixa com mais produtos pode incluir algo que a pessoa não quer.",
+          "A Dupla Limpeza Diária reúne dois géis. O [Gel de Limpeza Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda) contém ácidos, por isso ela fica para quem já conhece esse tipo de produto e quer incluí-lo na rotina."
         ],
         "comparisonTable": {
           "caption": "Preços de 10/11, na Clean Friday, com os 5% do S-EMCASACOMCECILIA; frete à parte. Composição pelas páginas dos kits.",
@@ -229826,51 +229806,52 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Duo Glass Skin](https://simpleorganic.com.br/products/kit-glow-hidratante)",
-              "Gel de Limpeza Suave e Ultra Sérum Ácido Hialurônico",
+              "[Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) e [Ultra Sérum Ácido Hialurônico](https://simpleorganic.com.br/products/ultra-serum-acido-hialuronico)",
               "R$ 67,36",
               "Para quem já usa ou pediu ácido hialurônico"
             ],
             [
               "[Duo Rotina Sem Erro](https://simpleorganic.com.br/products/duo-rotina-sem-erro)",
-              "Gel de Limpeza Suave e Niacinamida",
+              "[Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) e Niacinamida",
               "R$ 67,36",
               "A fórmula da niacinamida leva perfume"
             ],
             [
               "[Rotina Básica](https://simpleorganic.com.br/products/kit-rotina-basica)",
-              "Gel Suave, Niacinamida e Balm Antiolheiras",
+              "[Gel Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave), Niacinamida e [Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras)",
               "R$ 106,69",
               "O Duo acima com o balm a mais"
             ],
             [
               "[Rotina Pele Iluminada](https://simpleorganic.com.br/products/kit-pele-iluminada)",
-              "Gel Suave, Ultra Sérum Vitamina C e Balm Antiolheiras",
+              "[Gel Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave), [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) e [Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras)",
               "R$ 106,69",
               "Para quem já usa ou pediu vitamina C"
             ],
             [
               "[Rotina Hidratação Intensa](https://simpleorganic.com.br/products/kit-hidratacao)",
-              "Gel Suave, Ultra Sérum Ácido Hialurônico e Balm Antiolheiras",
+              "[Gel Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave), [Ultra Sérum Ácido Hialurônico](https://simpleorganic.com.br/products/ultra-serum-acido-hialuronico) e [Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras)",
               "R$ 106,69",
               "O Duo Glass Skin com o balm a mais"
             ],
             [
               "[Dupla Limpeza Diária](https://simpleorganic.com.br/products/dupla-limpeza-diaria)",
-              "Gel de Limpeza Suave e Gel de Limpeza Profunda",
+              "[Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) e [Gel de Limpeza Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda)",
               "R$ 56,05",
               "Dois géis; o Profunda contém ácidos salicílico, glicólico e lático"
             ]
           ]
         },
         "postParagraphs": [
-          "Se os nomes confundirem: a niacinamida aparece como \"Solução\" em alguns kits e como \"Ultra Sérum\" no avulso, e a loja diz que é a mesma fórmula, em embalagem nova. O \"Balm de Olhos\" que ainda aparece em textos de kit é o Balm Antiolheiras, de 12 g. O guia [Simple Organic é boa?](/reviews/simple-organic-e-boa) traz o resto da linha."
+          "Se os nomes confundirem: a niacinamida aparece como \"Solução\" em alguns kits e como \"Ultra Sérum\" no avulso, e a loja diz que é a mesma fórmula, em embalagem nova. O \"Balm de Olhos\" que ainda aparece em textos de kit é o Balm Antiolheiras, de 12 g. O guia [Simple Organic é boa?](/reviews/simple-organic-e-boa) traz o resto da linha, e a [Rotina Simple Organic](/reviews/simple-organic-rotina-de-uso) mostra a ordem de uso de cada item."
         ],
         "images": [
           {
             "src": "/images/reviews/simple-organic/kit-skincare-presente-duo-rotina-sem-erro.webp",
             "alt": "Gel de Limpeza Suave e sérum de niacinamida do Duo Rotina Sem Erro da Simple Organic, em foto oficial da loja",
             "caption": "Duo Rotina Sem Erro: Gel de Limpeza Suave e niacinamida. Foto: Simple Organic.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/duo-rotina-sem-erro"
           }
         ]
       },
@@ -229878,7 +229859,7 @@ export const reviewsData: unknown[] = [
         "heading": "Você conhece o perfume ou os tons preferidos",
         "paragraphs": [
           "Se você conhece a fragrância ou as cores que a pessoa usa, escolha a partir delas. O Trio Body Splashes reúne três perfumes; se ela só gosta de um, o frasco avulso permite comprar essa fragrância sem levar as outras duas.",
-          "Nos lápis de boca, confira as mesmas três cores em versão avulsa antes de escolher o kit. A comparação de preços está no capítulo de kits e avulsos."
+          "Nos lápis de boca, o [Kit Lápis de Boca](https://simpleorganic.com.br/products/kit-lapis-de-boca-cafe-coado-suco-de-melancia-cafe-espresso) reúne três cores; confira as mesmas três cores em versão avulsa antes de escolher o kit. A comparação de preços está no capítulo de kits e avulsos."
         ],
         "comparisonTable": {
           "caption": "Preço com a Clean Friday e os 5% do código.",
@@ -229891,7 +229872,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Trio Body Splashes](https://simpleorganic.com.br/products/kit-body-splash)",
-              "Blossom Kiss, Dream Cloud e Perfect Matcha, 100 mL cada",
+              "[Blossom Kiss](https://simpleorganic.com.br/products/body-splash-blossom-kiss), [Dream Cloud](https://simpleorganic.com.br/products/body-splash-dream-cloud) e [Perfect Matcha](https://simpleorganic.com.br/products/body-splash-perfect-matcha), 100 mL cada",
               "R$ 94,53, mais o frete",
               "Sem o código pode sair mais barato: veja o capítulo do frete"
             ],
@@ -229914,14 +229895,15 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/simple-organic/kit-skincare-presente-trio-body-splashes.webp",
             "alt": "Frascos de body splash Blossom Kiss, Dream Cloud e Perfect Matcha da Simple Organic, em foto oficial da loja",
             "caption": "Trio Body Splashes: três perfumes de 100 mL. Foto: Simple Organic.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/kit-body-splash"
           }
         ]
       },
       {
         "heading": "A pessoa já usa ou pediu retinol",
         "paragraphs": [
-          "Estes três kits levam o Ultra Sérum Retinol, com 0,3% de retinol. Só entram se a pessoa já usa ou pediu. \"Pele Madura\" e \"Anti-idade\" são nomes comerciais, e idade ou parentesco não servem de critério para escolher."
+          "Estes três kits levam o [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), com 0,3% de retinol. Só entram se a pessoa já usa ou pediu. \"Pele Madura\" e \"Anti-idade\" são nomes comerciais, e idade ou parentesco não servem de critério para escolher."
         ],
         "comparisonTable": {
           "caption": "Composição pela página de cada kit; preço com a Clean Friday e os 5% do código.",
@@ -229934,33 +229916,34 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "[Rotina Pele Madura](https://simpleorganic.com.br/products/rotina-pele-madura)",
-              "Gel Suave, Ultra Sérum Retinol e Balm Antiolheiras",
+              "Gel Suave, Ultra Sérum Retinol e [Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras)",
               "R$ 106,69",
               "O caminho mais barato com retinol entre os três"
             ],
             [
               "[Rotina Noturna de Regeneração](https://simpleorganic.com.br/products/ritual-noturno-de-regeneracao)",
-              "Gel Suave, Ultra Sérum Retinol e Solução Exossomos + PDRN + Peptídeos",
+              "Gel Suave, Ultra Sérum Retinol e [Solução Exossomos + PDRN + Peptídeos](https://simpleorganic.com.br/products/solucao-pdrn)",
               "R$ 140,89",
               "Soma a solução de PDRN e mantém o gel"
             ],
             [
               "[Rotina Anti-idade](https://simpleorganic.com.br/products/rotina-anti-idade)",
-              "Ultra Sérum Retinol, Balm Antiolheiras e Solução Exossomos + PDRN + Peptídeos",
+              "Ultra Sérum Retinol, [Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras) e [Solução Exossomos + PDRN + Peptídeos](https://simpleorganic.com.br/products/solucao-pdrn)",
               "R$ 152,19",
               "Não traz gel de limpeza"
             ]
           ]
         },
         "postParagraphs": [
-          "A loja manda usar o retinol só à noite, com protetor solar todo dia durante o uso, e pede cautela e adaptação em pele sensível. Se a pessoa está grávida, esses três kits não são sugestão nossa."
+          "A loja manda usar o retinol só à noite, com protetor solar todo dia durante o uso, e pede cautela e adaptação em pele sensível. Se a pessoa está grávida, esses três kits não são sugestão nossa. Para a diferença entre o retinol e o Retinol-Like, de bakuchiol, veja [Retinol ou Retinol-Like na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol)."
         ],
         "images": [
           {
             "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
             "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
             "caption": "Ultra Sérum Retinol: é ele que entra nos três kits. Foto: Simple Organic.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
           }
         ]
       },
@@ -229970,14 +229953,15 @@ export const reviewsData: unknown[] = [
           "Pergunte qual produto a pessoa gostaria de ganhar. Uma mensagem com essa pergunta ajuda mais do que escolher pelos nomes das rotinas.",
           "Se você quer manter a surpresa, a [nécessaire I Love Simple](https://simpleorganic.com.br/products/necessaire-i-love-simple), de algodão, custa R$ 99 e guarda os produtos que ela já usa.",
           "A página da nécessaire diz que ela não acumula com cupons, mas o S-EMCASACOMCECILIA entrou no nosso carrinho. Como o preço está no limite anunciado para frete grátis, compare o total com e sem o código antes de pagar.",
-          "O catálogo consultado não tinha vale-presente, e a Caixa de Presente Simple With Love estava esgotada."
+          "O catálogo consultado não tinha vale-presente, e a Caixa de Presente Simple With Love estava esgotada quando conferimos, em 22/11; por isso ela não entra nas sugestões."
         ],
         "images": [
           {
             "src": "/images/reviews/simple-organic/kit-skincare-presente-necessaire-i-love-simple.webp",
             "alt": "Nécessaire preta de algodão I Love Simple, da Simple Organic, em foto oficial da loja",
             "caption": "Nécessaire I Love Simple: não exige saber a rotina. Foto: Simple Organic.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/necessaire-i-love-simple"
           }
         ]
       },
@@ -230002,13 +229986,13 @@ export const reviewsData: unknown[] = [
               "Nenhuma"
             ],
             [
-              "Trio Body Splashes Simple",
+              "[Trio Body Splashes Simple](https://simpleorganic.com.br/products/kit-body-splash)",
               "R$ 99,50",
               "R$ 103,50",
               "Kit R$ 4,00 mais barato"
             ],
             [
-              "Kit Lápis de Boca, 3 cores",
+              "[Kit Lápis de Boca](https://simpleorganic.com.br/products/kit-lapis-de-boca-cafe-coado-suco-de-melancia-cafe-espresso), 3 cores",
               "R$ 88,20",
               "R$ 44,10",
               "Kit custa o dobro"
@@ -230090,7 +230074,8 @@ export const reviewsData: unknown[] = [
           "Como conferir se chega antes da data? O checkout mostra o prazo para o CEP antes do pagamento. A loja não publica data-limite, então deixe folga."
         ]
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 899,
@@ -236276,7 +236261,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "S-EMCASACOMCECILIA dá 5% OFF em todo o site da Simple Organic na primeira compra, inclusive em kits e promoções. Vale também para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/cupom-simple-organic-primeira-compra-capa-v2.webp",
@@ -236303,6 +236288,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "kit-skincare-presente-simple-organic"
+      },
+      {
+        "slug": "black-friday-simple-organic"
       }
     ],
     "contentSections": [
@@ -236315,7 +236303,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Simple Organic primeira compra: qual usar",
         "paragraphs": [
-          "A Simple Organic vende cosméticos, como produtos de skincare e maquiagem. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel).",
+          "A Simple Organic vende cosméticos, como produtos de skincare e maquiagem.",
           "Use o S-EMCASACOMCECILIA: 5% OFF em todos os produtos da loja online, inclusive nos kits e no que já está em promoção. Ele vale no primeiro pedido e nos seguintes.",
           "É o [cupom Simple Organic](/cupons/simple-organic) da nossa parceria com a marca, testado no checkout. Sérum, hidratante ou maquiagem: o código é o mesmo."
         ]
@@ -236337,7 +236325,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit em promoção: quanto o código tira",
         "paragraphs": [
-          "O S-EMCASACOMCECILIA entra sobre o preço promocional. No teste do cupom de 12/11/2026, registrado na nossa página de cupom, o kit Rotina Pele Sensível em promoção ficou assim:"
+          "O S-EMCASACOMCECILIA entra sobre o preço promocional. No teste do cupom de 12/11/2026, registrado na nossa página de cupom, o kit [Rotina Pele Sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel) em promoção ficou assim:"
         ],
         "comparisonTable": {
           "caption": "Kit Rotina Pele Sensível em promoção: valores do teste no checkout, antes do frete.",
@@ -236367,7 +236355,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Os 5% saíram do preço promocional do kit. Com ou sem o código, o valor dos produtos nesse exemplo fica abaixo de R$ 99; informe o CEP para conferir a entrega.",
           "A política de cupons da loja exclui kits e duos e não soma com promoção. Nos nossos testes, kit e duo entraram, mas a regra existe e a loja pode aplicá-la: confira a linha do desconto no seu pedido.",
-          "Se a loja oferecer desconto no Pix, ele soma com o código."
+          "No teste de 22/11, o checkout não mostrou desconto no Pix, então não conte com ele somando ao código. A Clean Friday traz outros preços de kit: veja a tabela no [guia de Black Friday da Simple Organic](/reviews/black-friday-simple-organic)."
         ],
         "images": [
           {
@@ -236382,7 +236370,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando o cupom muda o frete",
         "paragraphs": [
-          "No teste de 10/11/2026, para o CEP 01310-100, em São Paulo, um Trio Body Splashes ficou assim com o envio mais barato disponível:"
+          "No teste de 10/11/2026, para o CEP 01310-100, em São Paulo, um [Trio Body Splashes Simple](https://simpleorganic.com.br/products/kit-body-splash) ficou assim com o envio mais barato disponível:"
         ],
         "comparisonTable": {
           "caption": "Trio Body Splashes: comparação no CEP de São Paulo testado, com o envio mais barato disponível.",
@@ -236414,7 +236402,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E na segunda compra?",
         "paragraphs": [
-          "O S-EMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 5%. Serve para repor o gel de limpeza ou o hidratante no pedido seguinte."
+          "O S-EMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 5%. Serve para repor o [Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave) ou o [Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade) no pedido seguinte, ou para trocar de ativo com um dos [Ultra Séruns](https://simpleorganic.com.br/products/ultra-serum-niacinamida).",
+          "A política de cupons da loja diz que cada cupom vale uma vez por pessoa, e a loja pode prender o código ao e-mail da compra. Por isso, na segunda compra, o que decide é a linha do desconto no resumo do pedido: se ela aparecer, os 5% entraram; se não, o preço é o da promoção.",
+          "As outras regras são as mesmas do primeiro pedido: o frete grátis começa em R$ 99 e conta depois do desconto, o parcelamento vai até 5x sem juros, com parcela mínima de R$ 30, e o código é só da loja online. Na Clean Friday, o preço de cada item da reposição já vem reduzido pela campanha, e o cupom entra sobre ele; o [guia de Black Friday da Simple Organic](/reviews/black-friday-simple-organic) lista os preços do dia."
         ]
       },
       {
@@ -236446,7 +236436,8 @@ export const reviewsData: unknown[] = [
           "Preciso digitar o cupom na Simple Organic? Pelo botão desta página, a loja abre com o código aplicado. Se ele não aparecer em “Desconto”, cole no carrinho."
         ]
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 929,
@@ -293856,8 +293847,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Retinol-Like: para que serve?",
         "paragraphs": [
-          "A Solução Retinol-Like tem 1% de bakuchiol em um frasco de 30 mL. Na ficha, a Simple Organic indica três gotas e cita peles oleosas, acneicas e maduras. Use as orientações da embalagem do produto que você comprou.",
-          "O que dá para afirmar pela página é o que está na ficha: bakuchiol a 1%, 30 mL, indicada pela loja para peles oleosas, acneicas e maduras, com algumas gotas no rosto massageadas até a absorção. A ficha fala em 3 gotas."
+          "A [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like) tem 1% de bakuchiol em um frasco de 30 mL. Na ficha, a Simple Organic indica três gotas no rosto, massageadas até a absorção, e cita peles oleosas, acneicas e maduras. Use as orientações da embalagem do produto que você comprou."
         ],
         "images": [
           {
@@ -293873,14 +293863,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Retinol-Like pode usar de dia?",
         "paragraphs": [
-          "O FAQ da Simple Organic permite usar o Retinol-Like durante o dia e orienta finalizar com protetor solar. Para o Ultra Sérum Retinol, o FAQ indica uso exclusivamente noturno.",
+          "O FAQ da Simple Organic permite usar o Retinol-Like durante o dia e orienta finalizar com protetor solar. Para o [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), o FAQ indica uso exclusivamente noturno.",
           "Isso vale só para a Solução. O Ultra Sérum Retinol tem a resposta oposta na própria página: à pergunta se pode ser usado de dia e de noite, a loja responde que não, que ele é indicado exclusivamente para a noite. Usar o Ultra de manhã por achar que é igual ao Retinol-Like é a armadilha desta comparação."
         ]
       },
       {
         "heading": "Retinol da Simple Organic: como usar",
         "paragraphs": [
-          "Para o Ultra Sérum Retinol, estas são as orientações que a loja escreve na página e nos kits em que ele aparece:"
+          "Para o [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), estas são as orientações que a loja escreve na página e nos kits em que ele aparece:"
         ],
         "bullets": [
           "Use à noite, na pele limpa e seca, e nunca de dia.",
@@ -293906,23 +293896,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gestante pode usar Retinol-Like ou retinol?",
         "paragraphs": [
-          "A [Academia Americana de Dermatologia](https://www.aad.org/public/everyday-care/skin-care-secrets/routine/pregnancy-skin-care) orienta evitar produtos com retinol durante a gestação. Para o Retinol-Like e para o uso desses produtos durante a amamentação, converse com o profissional que acompanha você."
+          "A [Academia Americana de Dermatologia](https://www.aad.org/public/everyday-care/skin-care-secrets/routine/pregnancy-skin-care) orienta evitar produtos com retinol durante a gestação. Isso vale para o [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), que tem retinol a 0,3%.",
+          "A [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like) traz bakuchiol a 1% e não retinol, mas a decisão de usá-la na gestação, e qualquer um dos dois na amamentação, cabe ao profissional que acompanha você. No site, a loja pede que gestantes e lactantes consultem o médico antes de usar os produtos. Este guia compara fichas e não faz indicação médica: na dúvida, pergunte ao dermatologista ou ao obstetra antes de comprar."
         ]
       },
       {
         "heading": "Bakuchiol ou retinol: qual o melhor?",
         "paragraphs": [
-          "Se fragrância é um critério de compra, os dois produtos listam Parfum. O [comparativo com a Principia](/reviews/simple-organic-ou-principia) mostra o que aparece na composição dos frascos da outra marca.",
-          "A Solução Retinol-Like lista perfume (Parfum) na composição. Para quem evita fragrância no sérum, a comparação com outra marca está em [Simple Organic ou Principia](/reviews/simple-organic-ou-principia)."
+          "A diferença que as fichas mostram é de ativo e de horário: retinol a 0,3% só à noite no [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), bakuchiol a 1% liberado para o dia na [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like). Qual dos dois é melhor depende do que você procura e da sua pele, e quem pode dizer isso é o dermatologista. Se fragrância é critério de compra, os dois listam Parfum na composição, e o [comparativo com a Principia](/reviews/simple-organic-ou-principia) mostra o que aparece nos frascos da outra marca."
         ]
       },
       {
         "heading": "Quanto custa cada um com o código",
         "paragraphs": [
-          "Os dois têm 30 mL, então o preço por mililitro compara direto. O Ultra Sérum Retinol sai mais barato por mL, hoje e com o código."
+          "Os dois têm 30 mL, então o preço por mililitro compara direto. O [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol) sai mais barato por mL, hoje e com o código."
         ],
         "comparisonTable": {
-          "caption": "Preços de 20/11, de campanha da Clean Friday, que mudam quando ela acaba. Com o código, é a conta de 5% sobre o preço do dia.",
+          "caption": "Preços de 22/11, de campanha da Clean Friday, que mudam quando ela acaba. Com o código, é a conta de 5% sobre o preço do dia.",
           "headers": [
             "Produto",
             "Preço do dia",
@@ -293931,13 +293921,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Ultra Sérum Retinol, 30 mL",
+              "[Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol), 30 mL",
               "R$ 41,40",
               "R$ 39,33",
               "R$ 1,31"
             ],
             [
-              "Solução Retinol-Like, 30 mL",
+              "[Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like), 30 mL",
               "R$ 59,40",
               "R$ 56,43",
               "R$ 1,88"
@@ -293955,10 +293945,13 @@ export const reviewsData: unknown[] = [
           "Escolha pelo horário e pelo ativo, não pelo nome."
         ],
         "bullets": [
-          "Quer retinol, com a dose impressa e uso só à noite: Ultra Sérum Retinol.",
-          "Não quer retinol e quer um sérum que a loja libera para o dia, com protetor por cima: Solução Retinol-Like.",
+          "Quer retinol, com a dose impressa e uso só à noite: [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol).",
+          "Não quer retinol e quer um sérum que a loja libera para o dia, com protetor por cima: [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like).",
           "Quer pagar menos por mL: o Ultra Sérum Retinol.",
           "Evita fragrância no sérum: os dois frascos listam Parfum."
+        ],
+        "postParagraphs": [
+          "Se a dúvida é espinha, o guia da [Simple Organic para acne](/reviews/simple-organic-para-acne) mostra o que cada produto declara. Para a vitamina C, veja [vitamina C ou niacinamida](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
         ]
       },
       {
@@ -294064,13 +294057,13 @@ export const reviewsData: unknown[] = [
               "[Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c)",
               "10% de vitamina C (ascorbil fosfato de sódio), com ácido ferúlico",
               "Dia e noite, após a higienização e antes do hidratante",
-              "30 mL, pela página do kit Rotina Pele Iluminada"
+              "Volume não informado pela loja"
             ],
             [
               "[Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c)",
               "Vitamina C a 15% (ascorbyl glucoside)",
               "Dia e noite, após a limpeza, 3 gotas",
-              "30 mL"
+              "30 mL, pela página do kit"
             ],
             [
               "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida)",
@@ -294097,14 +294090,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vitamina C ou niacinamida para manchas",
         "paragraphs": [
-          "A Simple Organic apresenta a Solução Vitamina C para quem quer cuidar da aparência de manchas e associa a niacinamida à uniformidade do tom. Se uma mancha mudou ou persiste, converse com o dermatologista. Na rotina diurna, siga a orientação de usar protetor solar.",
-          "Mancha tem causas diferentes, e algumas pedem diagnóstico. Na dúvida, o dermatologista."
+          "A Simple Organic apresenta a [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c) para quem quer cuidar da aparência de manchas e associa a niacinamida à uniformidade do tom. Se uma mancha mudou ou persiste, converse com o dermatologista. Na rotina diurna, siga a orientação de usar protetor solar.",
+          "Mancha tem causas diferentes, e algumas pedem diagnóstico. Na dúvida, o dermatologista.",
+          "Pelas páginas, o [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) traz vitamina C a 10% com ácido ferúlico, e a Solução Vitamina C, vitamina C a 15%. A loja indica os dois para o dia e para a noite, com protetor solar por cima durante o dia."
         ]
       },
       {
         "heading": "Vitamina C ou niacinamida para pele oleosa",
         "paragraphs": [
-          "A página do Ultra Sérum Niacinamida diz que ele controla a oleosidade. A da vitamina C não fala disso. O ponto de atenção é o perfume: o Ultra Sérum Niacinamida lista Parfum na composição, e isso pesa para quem evita fragrância no rosto.",
+          "A página do [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) diz que ele controla a oleosidade. A da vitamina C não fala disso. O ponto de atenção é o perfume: o Ultra Sérum Niacinamida lista Parfum na composição, e isso pesa para quem evita fragrância no rosto.",
           "Se a dúvida é espinha, e não só brilho, o guia da [Simple Organic para acne](/reviews/simple-organic-para-acne) mostra o que cada produto da loja declara."
         ],
         "images": [
@@ -294121,23 +294115,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vitamina C e niacinamida juntos",
         "paragraphs": [
-          "A loja vende as duas num kit, a Dupla Best-Seller, com niacinamida e vitamina C de 30 mL cada, segundo a descrição do kit. A página não deixa claro qual frasco vem dentro, se Solução ou Ultra Sérum. As páginas dos produtos avulsos não trazem instrução de uso em conjunto.",
+          "A loja vende as duas num kit, a [Dupla Best-Seller](https://simpleorganic.com.br/products/niacinamida-vitamina-c), com niacinamida e vitamina C de 30 mL cada, segundo a descrição do kit. A página não deixa claro qual frasco vem dentro, se Solução ou Ultra Sérum. As páginas dos produtos avulsos não trazem instrução de uso em conjunto.",
+          "Na Clean Friday, a Dupla Best-Seller aparece a R$ 234 (de R$ 289). Para usar o [cupom Simple Organic](/cupons/simple-organic) no kit, cole S-EMCASACOMCECILIA no campo de desconto do checkout; o frete é grátis a partir de R$ 99 em produtos, contados depois do desconto.",
           "Os kits de skincare da loja estão no guia de [kit ou avulsos na Simple Organic](/reviews/kit-skincare-presente-simple-organic)."
         ]
       },
       {
         "heading": "Vitamina C ou niacinamida: qual usar primeiro",
         "paragraphs": [
-          "A ficha do Ultra Sérum Vitamina C diz para aplicar após a limpeza e antes do hidratante. A Solução Vitamina C e o Ultra Sérum Niacinamida também entram depois da limpeza. A loja não dá uma ordem entre eles. Se você usa mais de um sérum, confira a instrução do kit ou consulte o atendimento.",
-          "O [guia de rotina](/reviews/simple-organic-rotina-de-uso) mostra a ordem que a marca indica em outras combinações.",
-          "Se você vai usar os dois, o guia de [rotina e ordem de uso](/reviews/simple-organic-rotina-de-uso) mostra o que a loja diz da sequência dos outros produtos. Para a ordem entre estes dois, o atendimento da loja é quem pode responder."
+          "A ficha do [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) diz para aplicar após a limpeza e antes do hidratante. A [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c) e o [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) também entram depois da limpeza. A loja não dá uma ordem entre eles. Se você usa mais de um sérum, confira a instrução do kit ou consulte o atendimento.",
+          "O [guia de rotina e ordem de uso](/reviews/simple-organic-rotina-de-uso) mostra o que a loja diz da sequência dos outros produtos. Para a ordem entre estes dois, o atendimento da loja é quem pode responder."
         ]
       },
       {
         "heading": "Os nomes na prateleira: Solução ou Ultra Sérum",
         "paragraphs": [
-          "A loja tem duas vitaminas C e uma niacinamida, e os nomes confundem. A Solução Niacinamida aparece em kits, mas hoje só o Ultra Sérum Niacinamida está à venda avulso: a página dele diz que é a mesma fórmula da Solução, em embalagem nova.",
-          "As duas vitaminas C não são a mesma fórmula. A Solução e o Ultra Sérum têm derivado e concentração diferentes."
+          "A loja tem duas vitaminas C e uma niacinamida, e os nomes confundem. A Solução Niacinamida aparece em kits, mas hoje só o [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) está à venda avulso: a página dele diz que é a mesma fórmula da Solução, em embalagem nova.",
+          "As duas vitaminas C não são a mesma fórmula. A Solução e o Ultra Sérum têm derivado e concentração diferentes.",
+          "Confira o nome exato na página antes de comprar. A [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c) tem 30 mL, pela página do kit, e o [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) não tem volume declarado pela loja, o que pesa na hora de comparar preço."
         ],
         "images": [
           {
@@ -294156,7 +294151,7 @@ export const reviewsData: unknown[] = [
           "Os preços abaixo são de campanha: a loja anuncia a Clean Friday até 30/11, e o preço de venda do dia é o que entra na conta. Sobre ele, o [cupom Simple Organic](/cupons/simple-organic) S-EMCASACOMCECILIA dá 5% OFF na loja online."
         ],
         "comparisonTable": {
-          "caption": "Preço de venda de 20/11, na Clean Friday. Com o código, 5% sobre o preço do dia.",
+          "caption": "Preço de venda de 22/11, na Clean Friday. Com o código, 5% sobre o preço do dia.",
           "headers": [
             "Produto",
             "Volume",
@@ -294165,19 +294160,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Ultra Sérum Vitamina C",
-              "30 mL",
+              "[Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c)",
+              "Não informado",
               "R$ 41,40",
               "R$ 39,33"
             ],
             [
-              "Solução Vitamina C",
+              "[Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c)",
               "30 mL",
               "R$ 59,40",
               "R$ 56,43"
             ],
             [
-              "Ultra Sérum Niacinamida",
+              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida)",
               "30 mL",
               "R$ 41,40",
               "R$ 39,33"
@@ -294185,21 +294180,25 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Conta nossa: por mL, os dois Ultra Séruns saem a R$ 1,38 pelo preço do dia e R$ 1,31 com o código; a Solução Vitamina C, a R$ 1,98 e R$ 1,88. O volume do Ultra Sérum Vitamina C vem da página do kit Rotina Pele Iluminada, porque a ficha do produto não traz.",
-          "A política da loja diz que o cupom não soma com promoção, e nos testes do guia de [como usar o cupom](/reviews/cupom-simple-organic-como-usar) ele entrou sobre o preço promocional. Confira a linha do desconto no carrinho antes de pagar."
+          "Conta nossa: por mL, o [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) sai a R$ 1,38 pelo preço do dia e R$ 1,31 com o código, e a [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c), a R$ 1,98 e R$ 1,88. O [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) fica fora dessa conta, porque a loja não declara o volume dele.",
+          "A política da loja diz que o cupom não soma com promoção, e nos testes do guia de [como usar o cupom](/reviews/cupom-simple-organic-como-usar) ele entrou sobre o preço promocional. Confira a linha do desconto no carrinho antes de pagar.",
+          "Os preços da campanha estão no [guia da Black Friday da Simple Organic](/reviews/black-friday-simple-organic)."
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Para comparar o preço, os frascos têm 30 mL. A Solução Vitamina C custa mais por mL na campanha. No Ultra Sérum Vitamina C, esse volume vem da descrição do kit."
+          "Para comparar o preço por mL, a [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c) e o [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) têm 30 mL, e a Solução custa mais por mL na campanha. O volume do [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) a loja não informa."
         ],
         "bullets": [
           "Procura o que a página liga a manchas: a Solução Vitamina C.",
           "Procura o que a página liga a oleosidade e tom: o Ultra Sérum Niacinamida.",
           "Evita fragrância no rosto: os três produtos da tabela listam Parfum na composição.",
-          "Quer a vitamina C mais barata por mL: o Ultra Sérum Vitamina C.",
+          "Quer a vitamina C de menor preço de venda: o Ultra Sérum Vitamina C, sem volume declarado pela loja.",
           "Quer usar os dois: a loja não diz a ordem, então veja a rotina de uso e pergunte ao atendimento."
+        ],
+        "postParagraphs": [
+          "Se a dúvida é entre retinol e bakuchiol, veja [Retinol ou Retinol-Like](/reviews/simple-organic-retinol-like-ou-retinol)."
         ]
       },
       {
@@ -294295,12 +294294,12 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Limpeza primeiro. Nos kits, o gel entra sobre a pele úmida e é enxaguado; o resto vai com a pele seca ou limpa e seca.",
-          "Soluções e séruns depois da limpeza. A Solução Vitamina C, a Gaba e o Oxyresveratrol pedem \"após a limpeza da pele\"; o Ultra Sérum Vitamina C, \"após a higienização e antes do hidratante\"; o Ultra Sérum Ácido Hialurônico, depois da higienização e antes do hidratante, com a pele levemente úmida.",
-          "Hidratante e balm depois dos séruns. O Balm CB.2 diz \"com a pele higienizada após as nossas Soluções e Séruns\".",
+          "Soluções e séruns depois da limpeza. A [Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c), a Gaba e o Oxyresveratrol pedem \"após a limpeza da pele\"; o [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c), \"após a higienização e antes do hidratante\"; o [Ultra Sérum Ácido Hialurônico](https://simpleorganic.com.br/products/ultra-serum-acido-hialuronico), depois da higienização e antes do hidratante, com a pele levemente úmida.",
+          "Hidratante e balm depois dos séruns. O [Balm CB.2](https://simpleorganic.com.br/products/balm-cb-2) diz \"com a pele higienizada após as nossas Soluções e Séruns\".",
           "Entre as soluções, a página do Oxyresveratrol traz uma regra: a sequência vai \"do mais leve para as texturas mais densas\"."
         ],
         "postParagraphs": [
-          "A Solução Gaba tem uma instrução própria: ser o primeiro produto aplicado depois da limpeza, ou entrar depois da Green Water, um produto que não está à venda no site agora. Entre dois séruns, como vitamina C e niacinamida, nenhuma página diz qual vem primeiro; essa dúvida está em [Simple Organic: vitamina C ou niacinamida?](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
+          "A [Solução Gaba](https://simpleorganic.com.br/products/solucao-gaba) tem uma instrução própria: ser o primeiro produto aplicado depois da limpeza, ou entrar depois da Green Water, um produto que não está à venda no site agora. Entre dois séruns, como vitamina C e niacinamida, nenhuma página diz qual vem primeiro; essa dúvida está em [Simple Organic: vitamina C ou niacinamida?](/reviews/simple-organic-vitamina-c-ou-niacinamida)."
         ]
       },
       {
@@ -294318,37 +294317,37 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Ultra Sérum Vitamina C",
+              "[Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c)",
               "Sim, com protetor por cima",
               "Sim",
               "Ficha: \"Uso diurno e noturno\". FAQ: aplicar depois da higienização e antes do hidratante; de dia, finalizar com protetor"
             ],
             [
-              "Ultra Sérum Niacinamida",
+              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida)",
               "Diário",
               "Diário",
               "Ficha: \"Diariamente, após a limpeza da pele\", sem separar manhã e noite"
             ],
             [
-              "Ultra Sérum Ácido Hialurônico",
+              "[Ultra Sérum Ácido Hialurônico](https://simpleorganic.com.br/products/ultra-serum-acido-hialuronico)",
               "Sim",
               "Sim",
               "Ficha: \"Diariamente, de manhã e à noite\""
             ],
             [
-              "Ultra Sérum Retinol",
+              "[Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol)",
               "Não, só protetor solar",
               "Sim",
               "FAQ: \"indicado exclusivamente para uso noturno\""
             ],
             [
-              "Ultra Sérum Ácido Salicílico",
+              "[Ultra Sérum Ácido Salicílico](https://simpleorganic.com.br/products/ultra-serum-acido-salicilico)",
               "Não",
               "Sim",
               "Ficha: \"Exclusivamente à noite\""
             ],
             [
-              "Ultra Sérum Ácido Mandélico",
+              "[Ultra Sérum Ácido Mandélico](https://simpleorganic.com.br/products/ultra-serum-acido-mandelico)",
               "Não",
               "Sim",
               "A ficha indica uso exclusivo à noite. O FAQ responde que não é para o dia."
@@ -294371,43 +294370,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Solução Vitamina C",
+              "[Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c)",
               "Sim",
               "Sim",
               "Ficha: \"Uso diurno e noturno, após a limpeza da pele\""
             ],
             [
-              "Solução Retinol-Like",
+              "[Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like)",
               "Sim, com protetor por cima",
               "Sim",
               "FAQ: \"Posso usar a Solução Retinol-Like de dia? Sim, com certeza!\""
             ],
             [
-              "Solução Gaba",
+              "[Solução Gaba](https://simpleorganic.com.br/products/solucao-gaba)",
               "Sim",
               "Sim",
               "Ficha: uso diurno e noturno, após a limpeza; primeiro produto ou depois da Green Water"
             ],
             [
-              "Solução Oxyresveratrol",
+              "[Solução Oxyresveratrol](https://simpleorganic.com.br/products/solucao-oxyresveratrol)",
               "Sim",
               "Sim",
               "Ficha: uso diurno e noturno, após a limpeza. FAQ: \"Não há restrição para o uso\""
             ],
             [
-              "Solução Poliglutâmico",
+              "[Solução Poliglutâmico](https://simpleorganic.com.br/products/solucao-poliglutamico)",
               "Sim",
               "Sim",
               "Ficha: \"Uso diurno e noturno\""
             ],
             [
-              "Solução Hero",
+              "[Solução Hero](https://simpleorganic.com.br/products/solucao-hero)",
               "Diário",
               "Diário",
               "Ficha: \"Diariamente, após a limpeza\""
             ],
             [
-              "Solução Exossomos + PDRN + Peptídeos",
+              "[Solução Exossomos + PDRN + Peptídeos](https://simpleorganic.com.br/products/solucao-pdrn)",
               "A ficha cita manhã",
               "A ficha cita noite",
               "Nos kits, a sequência varia. Confira a página da combinação."
@@ -294430,43 +294429,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Gel de Limpeza Suave",
+              "[Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave)",
               "Sim",
               "Sim",
               "Ficha: \"Uso diurno e noturno\""
             ],
             [
-              "Gel de Limpeza Profunda",
+              "[Gel de Limpeza Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda)",
               "Sim",
               "Sim",
               "Ficha: \"Uso diurno e noturno\". FAQ: pode ser usado todos os dias"
             ],
             [
-              "Balm CB.2",
+              "[Balm CB.2](https://simpleorganic.com.br/products/balm-cb-2)",
               "Sim",
               "Sim",
               "Ficha: \"Uso diurno e noturno\", depois das Soluções e Séruns"
             ],
             [
-              "Balm Antiolheiras",
+              "[Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras)",
               "Sim",
               "Sim",
               "A ficha pede aplicação após hidratantes e óleos. No kit de pele sensível, vem antes do hidratante."
             ],
             [
-              "Hidratante Facial Antioleosidade",
+              "[Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade)",
               "Diário",
               "Diário",
               "Ficha: \"Diariamente\", depois da limpeza e dos cuidados específicos"
             ],
             [
-              "Hidratante Facial Calmante Multirreparador",
+              "[Hidratante Facial Calmante Multirreparador](https://simpleorganic.com.br/products/hidratante-facial-calmante-multirreparador)",
               "Diário",
               "Diário",
               "Ficha: \"Diariamente\""
             ],
             [
-              "Super Balm Antiacne",
+              "[Super Balm Antiacne](https://simpleorganic.com.br/products/super-balm-antiacne)",
               "Sim",
               "Sim",
               "Uso localizado na área desejada, segundo a ficha"
@@ -294477,8 +294476,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Retinol Simple Organic: como usar",
         "paragraphs": [
-          "A ficha do Ultra Sérum Retinol indica uso à noite e pede protetor solar nas manhãs durante todo o período de uso. Compare os dois frascos no guia [Retinol-Like ou retinol](/reviews/simple-organic-retinol-like-ou-retinol).",
-          "A escolha entre ele e a Solução Retinol-Like está em [Simple Organic: Retinol-Like ou retinol?](/reviews/simple-organic-retinol-like-ou-retinol)."
+          "A ficha do [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol) indica uso à noite e pede protetor solar nas manhãs durante todo o período de uso. Em pele sensível, a loja pede cautela e menos aplicações por semana, e manda alternar os dias quando a rotina tem ácidos esfoliantes ou outros retinoides. Para escolher entre ele e a [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like), veja [Retinol-Like ou retinol](/reviews/simple-organic-retinol-like-ou-retinol)."
         ],
         "images": [
           {
@@ -294512,37 +294510,37 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Rotina Básica",
+              "[Rotina Básica](https://simpleorganic.com.br/products/kit-rotina-basica)",
               "Gel Suave, Ultra Sérum Niacinamida, Balm Antiolheiras",
               "Manhã e noite"
             ],
             [
-              "Rotina Pele Iluminada",
+              "[Rotina Pele Iluminada](https://simpleorganic.com.br/products/kit-pele-iluminada)",
               "Gel Suave, Ultra Sérum Vitamina C, Balm Antiolheiras",
               "Manhã e noite"
             ],
             [
-              "Rotina Hidratação Intensa",
+              "[Rotina Hidratação Intensa](https://simpleorganic.com.br/products/kit-hidratacao)",
               "Gel Suave, Ultra Sérum Ácido Hialurônico, Balm Antiolheiras",
               "Manhã e noite"
             ],
             [
-              "Rotina Pele Madura",
+              "[Rotina Pele Madura](https://simpleorganic.com.br/products/rotina-pele-madura)",
               "Gel Suave, Ultra Sérum Retinol, Balm Antiolheiras",
               "Retinol só à noite"
             ],
             [
-              "Rotina Anti-idade",
+              "[Rotina Anti-idade](https://simpleorganic.com.br/products/rotina-anti-idade)",
               "Solução PDRN, Ultra Sérum Retinol, Balm Antiolheiras",
               "Retinol só à noite"
             ],
             [
-              "Rotina Noturna de Regeneração",
+              "[Rotina Noturna de Regeneração](https://simpleorganic.com.br/products/ritual-noturno-de-regeneracao)",
               "Gel Suave, Solução PDRN, Ultra Sérum Retinol",
               "Noite; protetor de manhã"
             ],
             [
-              "Rotina pele sensível",
+              "[Rotina pele sensível](https://simpleorganic.com.br/products/rotina-pele-sensivel)",
               "Gel Suave, Balm Antiolheiras, Hidratante Calmante",
               "Protetor solar de dia"
             ]
@@ -294565,17 +294563,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Protetor solar: a loja manda usar e não vende",
         "paragraphs": [
-          "Os kits com uso diurno orientam finalizar com protetor solar. A Simple Organic não tinha protetor solar no catálogo consultado. Se o seu produto pede esse passo, inclua o protetor que você já usa ou siga a orientação do seu dermatologista."
+          "Os kits com uso diurno orientam finalizar com protetor solar. A ficha do [Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c) pede o protetor por cima de dia, a da [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like) também, e a do [Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol) pede protetor nas manhãs de todos os dias de uso.",
+          "A Simple Organic não tinha protetor solar no catálogo consultado, então esse passo fica por sua conta. Se você já usa um protetor, ele entra como último passo da manhã. A escolha do tipo de protetor e do FPS, e o que fazer com pele sensível ou em tratamento, é assunto do dermatologista."
         ]
       },
       {
         "heading": "Onde a orientação depende do produto ou kit",
         "paragraphs": [
-          "No Balm Antiolheiras, a posição muda de um cadastro para o outro. Para PDRN e Super Balm, as frases explicam partes diferentes da rotina."
+          "No [Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras), a posição muda de um cadastro para o outro. Para PDRN e Super Balm, as frases explicam partes diferentes da rotina."
         ],
         "bullets": [
           "**Balm Antiolheiras.** A ficha do avulso coloca o balm depois de hidratantes e óleos. No kit de pele sensível, ele vem antes do hidratante.",
-          "**PDRN.** O modo de uso da Rotina Anti-idade cita a manhã. A Rotina Noturna coloca o mesmo sérum à noite, antes do retinol. A ficha geral menciona manhã e noite.",
+          "**PDRN.** O modo de uso da [Rotina Anti-idade](https://simpleorganic.com.br/products/rotina-anti-idade) cita a manhã. A Rotina Noturna coloca o mesmo sérum à noite, antes do retinol. A ficha geral menciona manhã e noite.",
           "**Super Balm Antiacne.** A ficha usa “pontual” para indicar a região onde se aplica. No campo de frequência, orienta uso diário de manhã e à noite."
         ],
         "postParagraphs": [
@@ -294598,7 +294597,7 @@ export const reviewsData: unknown[] = [
           "A Simple Organic está na Clean Friday, e os preços abaixo são os de venda da campanha. O cupom da parceria, o S-EMCASACOMCECILIA, dá 5% OFF no site."
         ],
         "comparisonTable": {
-          "caption": "Preços de 20/11, de campanha. Com o código, 5% sobre o preço do dia.",
+          "caption": "Preços de 22/11, de campanha. Com o código, 5% sobre o preço do dia.",
           "headers": [
             "Produto",
             "Preço do dia",
@@ -294606,39 +294605,40 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Gel de Limpeza Suave",
+              "[Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave)",
               "R$ 29,50",
               "R$ 28,03"
             ],
             [
-              "Ultra Sérum Vitamina C",
+              "[Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c)",
               "R$ 41,40",
               "R$ 39,33"
             ],
             [
-              "Ultra Sérum Retinol",
+              "[Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol)",
               "R$ 41,40",
               "R$ 39,33"
             ],
             [
-              "Balm Antiolheiras",
+              "[Balm Antiolheiras](https://simpleorganic.com.br/products/balm-antiolheiras)",
               "R$ 41,40",
               "R$ 39,33"
             ],
             [
-              "Balm CB.2",
+              "[Balm CB.2](https://simpleorganic.com.br/products/balm-cb-2)",
               "R$ 47,40",
               "R$ 45,03"
             ],
             [
-              "Rotina Pele Iluminada (kit)",
+              "[Rotina Pele Iluminada](https://simpleorganic.com.br/products/kit-pele-iluminada) (kit)",
               "R$ 112,30",
               "R$ 106,69"
             ]
           ]
         },
         "postParagraphs": [
-          "Conta nossa: a coluna do código é o preço do dia menos 5%; confira a linha do desconto no carrinho antes de pagar. A política da loja diz que o cupom não soma com promoção, mas os testes em kit e em item em promoção deram os 5%, e o passo a passo está em [Como usar o cupom S-EMCASACOMCECILIA na Simple Organic](/reviews/cupom-simple-organic-como-usar). O botão desta página abre a loja com o [cupom Simple Organic](/cupons/simple-organic) já aplicado."
+          "Conta nossa: a coluna do código é o preço do dia menos 5%; confira a linha do desconto no carrinho antes de pagar. A política da loja diz que o cupom não soma com promoção, mas os testes em kit e em item em promoção deram os 5%, e o passo a passo está em [Como usar o cupom S-EMCASACOMCECILIA na Simple Organic](/reviews/cupom-simple-organic-como-usar). O botão desta página abre a loja com o [cupom Simple Organic](/cupons/simple-organic) já aplicado.",
+          "Os preços da campanha estão no [guia da Black Friday da Simple Organic](/reviews/black-friday-simple-organic)."
         ]
       },
       {
@@ -294784,8 +294784,8 @@ export const reviewsData: unknown[] = [
           "Ler o rótulo antes de montar a rotina evita repetir o mesmo ativo sem querer. Pelas páginas da loja, quatro ativos se repetem."
         ],
         "bullets": [
-          "Ácido salicílico: no Ultra Sérum a 2%, no Gel de Limpeza Profunda e nos adesivos. Só o sérum declara a concentração.",
-          "Niacinamida: no Super Balm, nos adesivos, no hidratante e no Ultra Sérum Niacinamida, que tem 10%.",
+          "Ácido salicílico: no Ultra Sérum a 2%, no [Gel de Limpeza Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda) e nos adesivos. Só o sérum declara a concentração.",
+          "Niacinamida: no Super Balm, nos adesivos, no hidratante e no [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida), que tem 10%.",
           "Óleo de melaleuca: no Super Balm e nos adesivos.",
           "Zinco: no gel e no hidratante, na forma de zinco PCA no hidratante."
         ],
@@ -294796,22 +294796,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ácido salicílico na Simple Organic",
         "paragraphs": [
-          "A ficha do Ultra Sérum indica uso noturno e descreve uma adaptação gradual. A marca orienta alternar com outros ácidos esfoliantes. O Gel de Limpeza Profunda também lista ácidos e vem com o sérum no Duo Tchau Acne. Confira as instruções de cada embalagem antes de combinar os produtos.",
-          "O Gel de Limpeza Profunda também leva ácidos, e a loja o indica para uso de manhã e à noite. A loja vende os dois juntos no Duo Tchau Acne; o uso alternado que ela pede é entre o sérum e outros ácidos esfoliantes."
+          "A ficha do Ultra Sérum indica uso noturno, descreve uma adaptação gradual e orienta alternar com outros ácidos esfoliantes. O [Gel de Limpeza Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda) também lista ácidos, e a loja o indica para uso de manhã e à noite. Os dois vêm juntos no [Duo Tchau Acne](https://simpleorganic.com.br/products/kit-tchau-acne); o uso alternado que a loja pede é entre o sérum e outros ácidos esfoliantes. Confira as instruções de cada embalagem antes de combinar os produtos."
         ]
       },
       {
         "heading": "Niacinamida nos produtos de acne",
         "paragraphs": [
-          "A niacinamida aparece em quatro produtos desta linha, e a única concentração informada é a do Ultra Sérum Niacinamida, 10%. No Super Balm, nos adesivos e no hidratante, a página cita o ativo sem a porcentagem. Do hidratante, a loja diz que \"ajuda a reduzir o excesso de oleosidade\".",
+          "A niacinamida aparece em quatro produtos desta linha, e a única concentração informada é a do [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida), 10%. No Super Balm, nos adesivos e no hidratante, a página cita o ativo sem a porcentagem. Do hidratante, a loja diz que \"ajuda a reduzir o excesso de oleosidade\".",
           "Se a dúvida é a niacinamida contra a vitamina C, ou o que a loja informa sobre a ordem entre as duas, o guia [vitamina C ou niacinamida na Simple Organic](/reviews/simple-organic-vitamina-c-ou-niacinamida) cobre a comparação. Para o resto da linha, veja [Simple Organic é boa?](/reviews/simple-organic-e-boa)."
         ]
       },
       {
         "heading": "Adesivo para espinha: o que a página declara",
         "paragraphs": [
-          "Os adesivos de hidrocoloide vêm em duas cartelas de 12. A ficha lista ácido salicílico, niacinamida e óleo de melaleuca. A Simple Organic orienta colar sobre a pele limpa e seca e pressionar. O FAQ da marca permite usar enquanto dorme.",
-          "O modo de uso da página tem quatro passos: tirar o filme, aplicar sobre a pele limpa e seca, colar e pressionar. A ficha indica uso diário, de manhã e à noite, a loja diz que dá para usar maquiagem por cima e responde, no FAQ, que pode dormir com o adesivo."
+          "Os adesivos de hidrocoloide vêm em duas cartelas de 12, e a ficha lista ácido salicílico, niacinamida e óleo de melaleuca. O modo de uso tem quatro passos: tirar o filme, aplicar sobre a pele limpa e seca, colar e pressionar. A ficha indica uso diário, de manhã e à noite; a loja diz que dá para usar maquiagem por cima e responde, no FAQ, que pode dormir com o adesivo."
         ],
         "images": [
           {
@@ -294827,7 +294825,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Super Balm Antiacne: o que a página diz",
         "paragraphs": [
-          "O Super Balm é um bastão com melaleuca, copaíba e niacinamida. A ficha da Simple Organic separa as instruções por campo. A quantidade é para aplicação localizada, e a frequência indicada é de manhã e à noite."
+          "O Super Balm é um bastão com melaleuca, copaíba e niacinamida. A ficha da Simple Organic separa as instruções por campo. A quantidade é para aplicação localizada, e a frequência indicada é de manhã e à noite.",
+          "A página cita o ativo sem dar a concentração, então a niacinamida dele não se compara à do [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida), que declara 10%. O balm custa R$ 47,40 na campanha, como mostra a tabela de preços mais abaixo. Em acne inflamada ou persistente, ele não substitui a consulta com o dermatologista."
         ],
         "images": [
           {
@@ -294843,8 +294842,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits de acne: o que vem em cada um",
         "paragraphs": [
-          "Três kits cruzam com esta linha. O Duo Tchau Acne traz o Gel de Limpeza Profunda de 350 g e o Ultra Sérum Ácido Salicílico de 30 mL, e a página diz: gel de manhã e à noite, salicílico exclusivamente à noite. O Acne, poros e cravos soma o Hidratante Facial Antioleosidade de 40 g: a ordem da página é o gel na pele úmida, depois o salicílico conforme as orientações dele e depois o hidratante, com protetor solar durante o dia.",
-          "O terceiro, Acne e Oleosidade sob controle, traz a Solução Niacinamida e a Solução Retinol-Like. A loja diz que o Ultra Sérum Niacinamida é a mesma fórmula da Solução Niacinamida, em embalagem nova. O Retinol-Like tem o bakuchiol como ativo, e a diferença para o retinol está no guia [Retinol-Like ou retinol na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol). Para escolher entre kit e avulsos em geral, veja o guia de [kit de skincare](/reviews/kit-skincare-presente-simple-organic)."
+          "Três kits cruzam com esta linha. O [Duo Tchau Acne](https://simpleorganic.com.br/products/kit-tchau-acne) traz o [Gel de Limpeza Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda) de 350 g e o [Ultra Sérum Ácido Salicílico](https://simpleorganic.com.br/products/ultra-serum-acido-salicilico) de 30 mL, e a página diz: gel de manhã e à noite, salicílico exclusivamente à noite. O [Acne, poros e cravos](https://simpleorganic.com.br/products/acne-poros-e-cravos) soma o [Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade) de 40 g: a ordem da página é o gel na pele úmida, depois o salicílico conforme as orientações dele e depois o hidratante, com protetor solar durante o dia.",
+          "O terceiro, [Acne e Oleosidade sob controle](https://simpleorganic.com.br/products/niacinamida-retinol), traz a Solução Niacinamida e a [Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like). A loja diz que o [Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida) é a mesma fórmula da Solução Niacinamida, em embalagem nova. O Retinol-Like tem o bakuchiol como ativo, e a diferença para o retinol está no guia [Retinol-Like ou retinol na Simple Organic](/reviews/simple-organic-retinol-like-ou-retinol). Para escolher entre kit e avulsos em geral, veja o guia de [kit de skincare](/reviews/kit-skincare-presente-simple-organic)."
         ],
         "images": [
           {
@@ -294860,11 +294859,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa, com o código",
         "paragraphs": [
-          "Os preços da tabela são de campanha, da Clean Friday. Conta nossa, com 5% sobre o preço do dia de cada linha: o resultado é a coluna do código, e a linha do desconto no carrinho é a que confirma. Somando os avulsos pelo preço do dia, o Duo Tchau Acne custa o mesmo que o gel e o sérum separados, e o kit Acne, poros e cravos sai R$ 6,90 mais barato que os três avulsos.",
+          "Os preços da tabela são de campanha, da Clean Friday. Conta nossa, com 5% sobre o preço do dia de cada linha: o resultado é a coluna do código, e a linha do desconto no carrinho é a que confirma. Somando os avulsos pelo preço do dia, o [Duo Tchau Acne](https://simpleorganic.com.br/products/kit-tchau-acne) custa o mesmo que o gel e o sérum separados, e o kit [Acne, poros e cravos](https://simpleorganic.com.br/products/acne-poros-e-cravos) sai R$ 6,90 mais barato que os três avulsos.",
           "A política da loja diz que o cupom não soma com promoção, mas nos testes que fizemos em outras compras o cupom entrou em item em promoção. O que vale é o resumo do pedido: o [guia do cupom](/reviews/cupom-simple-organic-como-usar) mostra como conferir. Para comprar com o [cupom Simple Organic](/cupons/simple-organic), pelo link da parceria ou colando o código no carrinho, o frete é grátis a partir de R$ 99 em produtos, contados depois do desconto."
         ],
         "comparisonTable": {
-          "caption": "Preço do dia em 20/11, de campanha, e o mesmo preço menos 5% do código.",
+          "caption": "Preço do dia em 22/11, de campanha, e o mesmo preço menos 5% do código.",
           "headers": [
             "Produto",
             "Preço do dia",
@@ -294872,47 +294871,47 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Adesivos Bye Bye Acne",
+              "[Adesivos Bye Bye Acne](https://simpleorganic.com.br/products/adesivos-secativos-para-espinhas)",
               "R$ 23,40",
               "R$ 22,23"
             ],
             [
-              "Hidratante Antioleosidade",
+              "[Hidratante Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioleosidade)",
               "R$ 27,00",
               "R$ 25,65"
             ],
             [
-              "Gel de Limpeza Profunda",
+              "[Gel de Limpeza Profunda](https://simpleorganic.com.br/products/gel-de-limpeza-profunda)",
               "R$ 29,50",
               "R$ 28,03"
             ],
             [
-              "Ultra Sérum Ácido Salicílico",
+              "[Ultra Sérum Ácido Salicílico](https://simpleorganic.com.br/products/ultra-serum-acido-salicilico)",
               "R$ 41,40",
               "R$ 39,33"
             ],
             [
-              "Ultra Sérum Niacinamida",
+              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida)",
               "R$ 41,40",
               "R$ 39,33"
             ],
             [
-              "Super Balm Antiacne",
+              "[Super Balm Antiacne](https://simpleorganic.com.br/products/super-balm-antiacne)",
               "R$ 47,40",
               "R$ 45,03"
             ],
             [
-              "Duo Tchau Acne",
+              "[Duo Tchau Acne](https://simpleorganic.com.br/products/kit-tchau-acne)",
               "R$ 70,90",
               "R$ 67,36"
             ],
             [
-              "Acne, poros e cravos",
+              "[Acne, poros e cravos](https://simpleorganic.com.br/products/acne-poros-e-cravos)",
               "R$ 91,00",
               "R$ 86,45"
             ],
             [
-              "Acne e Oleosidade sob controle",
+              "[Acne e Oleosidade sob controle](https://simpleorganic.com.br/products/niacinamida-retinol)",
               "R$ 128,00",
               "R$ 121,60"
             ]
@@ -294923,7 +294922,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quando procurar o dermatologista",
         "paragraphs": [
           "Acne persistente, dolorida, com espinhas inflamadas ou que deixa marcas é assunto para o dermatologista, antes de qualquer produto desta lista. Uma loja de cosméticos não faz diagnóstico, e este guia também não.",
-          "Quem está grávida deve seguir o aviso da página do Ultra Sérum Ácido Salicílico: consultar um profissional de saúde antes de iniciar o uso de qualquer produto cosmético. Amamentando, a pergunta ao profissional é a mesma. Pele que arde, descama muito ou piora depois de um produto novo pede pausa e a mesma conversa."
+          "Quem está grávida deve seguir o aviso da página do [Ultra Sérum Ácido Salicílico](https://simpleorganic.com.br/products/ultra-serum-acido-salicilico): consultar um profissional de saúde antes de iniciar o uso de qualquer produto cosmético. Amamentando, a pergunta ao profissional é a mesma. Pele que arde, descama muito ou piora depois de um produto novo pede pausa e a mesma conversa."
         ]
       },
       {
