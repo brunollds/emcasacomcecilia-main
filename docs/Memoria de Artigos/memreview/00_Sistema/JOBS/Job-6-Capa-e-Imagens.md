@@ -84,7 +84,8 @@ Modelo novo entra nesta tabela antes de ser usado em mais de um artigo.
    pequeno demais para a largura do artigo.
 5. **Print de loja:** recortado na parte que interessa, sem barra de campanha nem pop-up, e com a data na
    legenda.
-6. **Família de 10 idiomas:** imagem com texto sai uma por idioma (como as tabelas da Hostinger,
+6. **Print de Reclame Aqui ou Trustpilot no corpo:** só horizontal e curto, e só o que a tabela não traz (o selo RA1000 ou Empresa Verificada, o gráfico de principais problemas). Nunca print vertical de celular nem print que repita a tabela; sem nada disso, foto de produto ou da loja (`Anexo-Reputacao.md`, 21/11/2026).
+7. **Família de 10 idiomas:** imagem com texto sai uma por idioma (como as tabelas da Hostinger,
    `-pt.webp`, `-en.webp`…); imagem sem texto serve as 10 versões.
 
 ---
