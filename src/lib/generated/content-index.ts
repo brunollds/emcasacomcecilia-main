@@ -277080,17 +277080,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No semestre de maio a outubro de 2026, a loja recebeu 53 reclamações e respondeu a 84,9% delas. A reputação é Boa, com nota 7,1, e 88,9% das reclamações aparecem como resolvidas. O tempo médio de resposta foi de 18 dias e 17 horas, e 44,4% dos consumidores que avaliaram dizem que voltariam a comprar.",
-          "Na aba geral, que reúne até três anos, atraso na entrega é o problema mais citado, com 50% das queixas. O painel do semestre está no print abaixo, e a [análise da nota e dos indicadores](/reviews/colaedecora-reclame-aqui-nota-reputacao) explica cada número."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
-            "alt": "Painel de seis meses do perfil da Cola e Decora no Reclame Aqui, com reputação Boa e nota 7,1",
-            "caption": "Painel dos últimos seis meses do perfil da Cola e Decora no Reclame Aqui. Print: Em Casa com Cecília.",
-            "objectFit": "contain",
-            "aspectRatio": 0.3372
-          }
+          "No semestre de maio a outubro de 2026, a loja recebeu 53 reclamações e respondeu a 84,9% delas. A reputação é Boa, com nota 7,1, e 88,9% das reclamações finalizadas e avaliadas aparecem como resolvidas. O tempo médio de resposta foi de 18 dias e 17 horas, e 44,4% dos consumidores que avaliaram dizem que voltariam a comprar.",
+          "Na aba geral, que reúne até três anos, atraso na entrega é o problema mais citado, com 50% das queixas. A [análise da nota e dos indicadores](/reviews/colaedecora-reclame-aqui-nota-reputacao) explica cada número."
         ]
       },
       {
@@ -277187,7 +277178,7 @@ export const reviewsData: unknown[] = [
     "coupon": "EMCASACOMCECILIA",
     "affiliate": "colaedecora",
     "title": "Cola e Decora no Reclame Aqui: nota 7,1, tempo de resposta e entregas",
-    "seoTitle": "Cola e Decora no Reclame Aqui: nota 7,1 e atendimento",
+    "seoTitle": "Cola e Decora no Reclame Aqui: nota 7,1, Boa e entregas",
     "type": "Análise de Reputação",
     "description": "Nota 7,1 e reputação Boa da Cola e Decora no Reclame Aqui, quanto a loja demora para responder, o peso dos atrasos nas queixas e como conferir o prazo pelo CEP.",
     "metaDescription": "EMCASACOMCECILIA dá 10% OFF na Cola e Decora. Veja a nota no Reclame Aqui, o tempo de resposta e o peso dos atrasos nas queixas.",
@@ -277215,16 +277206,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Cola e Decora tem reputação Boa e nota 7,1 no Reclame Aqui nos últimos seis meses, depois de meses como Ótima. Das reclamações avaliadas, 88,9% foram resolvidas, mas a resposta levou em média 18 dias e 17 horas. Na aba geral, atraso na entrega é a queixa mais citada, e vale simular o prazo pelo CEP."
+          "A Cola e Decora tem reputação Boa e nota 7,1 no Reclame Aqui no semestre de maio a outubro. A loja respondeu 84,9% das reclamações e, entre as avaliadas, 88,9% aparecem como resolvidas, mas a resposta leva em média 18 dias e 17 horas. O cupom é EMCASACOMCECILIA, com 10% OFF."
         ]
       },
       {
-        "heading": "A nota e os dados do semestre",
+        "heading": "A nota e os indicadores do semestre",
         "paragraphs": [
-          "A tabela reúne os indicadores do [perfil da Cola e Decora](https://www.reclameaqui.com.br/empresa/cola-e-decora/) de maio a outubro de 2026. A reputação era Ótima de maio a agosto e passou a Boa a partir de setembro."
+          "A tabela reúne os indicadores do [perfil da Cola e Decora](https://www.reclameaqui.com.br/empresa/cola-e-decora/) no semestre de maio a outubro."
         ],
         "comparisonTable": {
-          "caption": "Indicadores do perfil para o semestre consultado.",
+          "caption": "Perfil da Cola e Decora no Reclame Aqui, de 1º de maio a 31 de outubro de 2026. O perfil mostra 19 reclamações avaliadas; os índices de solução e de quem voltaria a fazer negócio são calculados pela plataforma sobre as reclamações finalizadas e avaliadas, não sobre as 53.",
           "headers": [
             "Indicador",
             "Últimos 6 meses"
@@ -277251,67 +277242,65 @@ export const reviewsData: unknown[] = [
               "8"
             ],
             [
-              "Resolvidas",
-              "88,9%"
-            ],
-            [
-              "Voltariam a fazer negócio",
-              "44,4%"
+              "Tempo médio de resposta",
+              "18 dias e 17 horas"
             ],
             [
               "Avaliadas",
               "19"
             ],
             [
-              "Nota média do consumidor",
-              "6,28"
+              "Resolvidas, entre as avaliadas",
+              "88,9%"
             ],
             [
-              "Tempo médio de resposta",
-              "18 dias e 17 horas"
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "44,4%"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,28"
             ]
           ]
-        },
-        "postParagraphs": [
-          "A nota 7,1 é a reputação calculada pela plataforma, e a 6,28 é a média dada pelos 19 consumidores que avaliaram o atendimento. Entre as reclamações avaliadas, 88,9% aparecem como resolvidas, mas só 44,4% dos clientes dizem que voltariam a comprar. Esse índice e a nota 6,28 são os que mais puxam a reputação para baixo. [Metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui)"
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/colaedecora/colaedecora-reclame-aqui-nota-reputacao-painel-6-meses.webp",
-            "alt": "Painel dos últimos seis meses do perfil da Cola e Decora no Reclame Aqui, com reputação Boa, nota 7,1, 53 reclamações recebidas e tempo médio de resposta",
-            "caption": "Painel dos últimos 6 meses do perfil da Cola e Decora. Print: Em Casa com Cecília.",
-            "objectFit": "contain",
-            "aspectRatio": 0.3372
-          }
+        }
+      },
+      {
+        "heading": "O que a nota e o selo medem, e o que não medem",
+        "paragraphs": [
+          "A nota do Reclame Aqui mede como a loja atende as reclamações feitas na plataforma. Ela não mede a qualidade do móvel, e muda com o tempo: confira o perfil no dia da compra.",
+          "A reputação Boa é uma faixa abaixo da Ótima e acima da Regular. A Cola e Decora não tem o selo RA1000 nem o de Empresa Verificada.",
+          "A nota 7,1 é a que a plataforma calcula. A 6,28 é outra coisa: é a média que os consumidores deram ao atendimento ao avaliar a reclamação, depois de finalizada. Pela [metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), solução e intenção de voltar a comprar são medidas sobre as reclamações avaliadas, não sobre todos os clientes."
         ]
       },
       {
-        "heading": "Atraso na entrega é a queixa mais comum",
+        "heading": "Pontos positivos",
         "paragraphs": [
-          "Na aba geral, que reúne até três anos, o atraso na entrega é o problema mais citado, com 50% das queixas. A categoria mais frequente é a de móveis infantis, com 25,45%, e o produto mais associado às reclamações aparece como \"Entrega\", com 19,09%.",
-          "Para saber que fração dos pedidos chega atrasada, seria preciso conhecer o total de pedidos e entregas da loja, número que o perfil não mostra. O que os dados indicam é onde o cuidado compensa: em móveis maiores, como as camas, a entrega é o ponto a conferir antes de fechar."
-        ]
-      },
-      {
-        "heading": "Como a loja responde",
-        "paragraphs": [
-          "Das 53 reclamações do semestre, 84,9% foram respondidas e oito ainda aguardavam resposta na leitura. O tempo médio de 18 dias e 17 horas é longo para quem espera um móvel.",
-          "Se você espera o móvel para uma data marcada, digite o CEP, guarde uma captura da previsão que apareceu e, se o atendimento informar outro prazo, guarde também a mensagem."
-        ]
-      },
-      {
-        "heading": "Onde conferir o prazo antes de comprar",
-        "paragraphs": [
-          "O prazo sai pelo CEP, na página do produto ou no checkout, e varia por modelo e por região. Estes são os modelos que mais interessam a quem compra móvel de quarto infantil, com o preço da vitrine e o valor com o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA, que dá 10% OFF:"
+          "O perfil mostra estes pontos a favor da loja:"
         ],
         "bullets": [
-          "[Cama Infantil Montessoriana Baixa](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-baixa): R$ 699,90, ou R$ 629,91 com o código.",
-          "[Cama Infantil Montessoriana Bella branca](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-branca-bella): R$ 999,00, ou R$ 899,10 com o código.",
-          "[Cama Infantil Montessoriana Cercadinho](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-cercado): R$ 999,00, ou R$ 899,10 com o código.",
-          "[Cama Infantil Montessoriana Casinha](https://www.lojacolaedecora.com.br/cama-infantil-montessoriana-casinha): R$ 1.099,00, ou R$ 989,10 com o código."
-        ],
-        "postParagraphs": [
-          "A loja informa frete grátis em compras acima de R$ 599 em produtos, para todo o Brasil, e a opção aparece na cotação pelo CEP no checkout. Confira também o prazo e as condições de entrega em [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel) e compare os modelos em [camas montessorianas da Cola e Decora](/reviews/cama-montessoriana-colaedecora)."
+          "Reputação Boa no semestre. De maio a agosto, a faixa era Ótima.",
+          "A empresa está no Reclame Aqui há 5 anos.",
+          "A loja respondeu 84,9% das reclamações do semestre.",
+          "O perfil mostra 19 reclamações avaliadas e índice de solução de 88,9%, calculado sobre as reclamações finalizadas e avaliadas. A base é pequena, então o índice oscila com poucos casos."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "O tempo médio de resposta, 18 dias e 17 horas, é longo para quem espera um móvel. Das 53 do semestre, 8 ainda aguardavam resposta.",
+          "Entre as reclamações finalizadas e avaliadas, 44,4% dizem que voltariam a fazer negócio, e a nota média dada pelos consumidores é 6,28. São os dois pontos mais fracos do perfil no semestre.",
+          "As 53 reclamações recebidas são um número absoluto. Sem o total de pedidos da loja, ele não vira proporção.",
+          "Os motivos de reclamação que o perfil lista para o semestre são produto danificado e atraso na entrega.",
+          "Na aba Geral, que soma até três anos, atraso na entrega é o problema mais citado, com 50% das queixas. A categoria mais frequente é a de móveis infantis, com 25,45%."
+        ]
+      },
+      {
+        "heading": "Como a loja responde e o que conferir antes de comprar",
+        "paragraphs": [
+          "O atendimento é pelo telefone ou WhatsApp (47) 3326-0084, de segunda a sexta, das 9h às 17h. Tenha em mãos o número do pedido e a previsão de entrega. A desistência da compra vale em até 7 dias corridos do recebimento, com o produto sem uso, na embalagem original e com a nota fiscal.",
+          "Confira no [perfil da Cola e Decora](https://www.reclameaqui.com.br/empresa/cola-e-decora/) o CNPJ 40.238.802/0001-59. Existe outra empresa, a Cola E Decora Envelopamento, que não é a loja de quarto infantil.",
+          "O prazo sai pelo CEP, na página do produto, e varia por modelo e por região. Simule antes de pagar e guarde a previsão que apareceu; se o atendimento informar outro prazo, guarde também a mensagem. Pela página de frete da loja, compras acima de R$ 599 em produtos têm frete grátis para todo o Brasil, e a opção aparece na cotação pelo CEP no checkout.",
+          "Os detalhes de prazo e de políticas estão em [Cola e Decora é confiável?](/reviews/colaedecora-e-confiavel). Para quem busca móvel de quarto, compare os modelos em [camas montessorianas da Cola e Decora](/reviews/cama-montessoriana-colaedecora)."
         ],
         "images": [
           {
@@ -277324,19 +277313,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como falar com a loja",
+        "heading": "Vale a pena comprar na Cola e Decora?",
         "paragraphs": [
-          "O atendimento é pelo telefone ou WhatsApp (47) 3326-0084, de segunda a sexta, das 9h às 17h. Tenha em mãos o número do pedido e a previsão de entrega. A desistência da compra vale em até 7 dias corridos do recebimento, com o produto sem uso, na embalagem original e com a nota fiscal.",
-          "O [perfil da Cola e Decora](https://www.reclameaqui.com.br/empresa/cola-e-decora/) mostra a nota mais recente e as respostas da loja. Confira nele o CNPJ 40.238.802/0001-59: existe outra empresa, a Cola E Decora Envelopamento, que não é a loja de quarto infantil."
+          "De um lado, a loja tem 5 anos de perfil e, no semestre, reputação Boa, 84,9% das reclamações respondidas e 88,9% de solução entre as avaliadas. Do outro, no mesmo semestre a resposta é lenta e só 44,4% de quem avaliou voltaria a fazer negócio. Na aba Geral, que soma até três anos, o atraso na entrega lidera as queixas.",
+          "Para móvel de quarto infantil, o caminho é simular o prazo pelo CEP e guardar a previsão. Se decidir comprar, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial, e o passo a passo está em [como usar o cupom da Cola e Decora](/reviews/cupom-colaedecora-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como é o atendimento da Cola e Decora no Reclame Aqui? No semestre consultado, a reputação foi Boa e a nota foi 7,1. O perfil mostrou 84,9% de reclamações respondidas e 88,9% das avaliadas resolvidas, com média de 18 dias e 17 horas para a resposta.",
-          "Qual a nota da Cola e Decora no Reclame Aqui? No recorte de seis meses que consultamos, a nota foi 7,1 e a reputação era Boa, depois de meses como Ótima. Veja o perfil para conferir a nota atual.",
-          "A Cola e Decora atrasa a entrega? Atraso na entrega é o problema mais citado na aba geral do Reclame Aqui, que reúne até três anos. Confira o prazo do seu pedido pelo CEP e guarde a previsão.",
-          "Como falar com a Cola e Decora? Pelo telefone ou WhatsApp (47) 3326-0084, de segunda a sexta, das 9h às 17h."
+          "Qual a nota da Cola e Decora no Reclame Aqui? No semestre consultado, a nota foi 7,1 e a reputação, Boa, depois de meses como Ótima. A nota muda com o tempo, então confira o perfil.",
+          "A Cola e Decora tem selo RA1000 ou Empresa Verificada? Não. O perfil mostra reputação Boa, sem esses selos.",
+          "A Cola e Decora responde e resolve as reclamações? Respondeu 84,9% das 53 do semestre, em média em 18 dias e 17 horas. Entre as reclamações finalizadas e avaliadas, 88,9% aparecem como resolvidas.",
+          "A Cola e Decora atrasa a entrega? Atraso na entrega é o problema mais citado na aba Geral do Reclame Aqui. Simule o prazo pelo CEP e guarde a previsão.",
+          "Existe cupom para a Cola e Decora? Sim, o [cupom Cola e Decora](/cupons/colaedecora) EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo."
         ]
       }
     ]
