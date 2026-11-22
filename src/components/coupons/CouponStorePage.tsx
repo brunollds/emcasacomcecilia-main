@@ -29,7 +29,6 @@ import { CodeSeasonNotice } from './CodeSeasonNotice';
 import { LimitedCodeNotices, LimitedCodePointers } from './LimitedCodeNotice';
 import { CartPrintFigure, INLINE_LINK, STACKING_SECTION_ID, StackingTable } from './StoreEvidence';
 import { StorePageBanners } from './StorePageBanners';
-import { couponCopyLabels } from '@/components/review/couponCopyLocale';
 import { COUPON_STORE_COPY, type CouponStoreCopy } from './couponStoreCopy';
 import {
   CompactCopyButton,
@@ -752,13 +751,9 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           couponCodeOffer && !tiers
             ? {
                 code: couponCodeOffer.code,
-                ariaLabel: `${copy.copyAndGo}: ${couponCodeOffer.code}`,
+                ariaLabel: copy.copyCodeAria(couponCodeOffer.code),
                 copiedLabel: copy.copied,
-                copiedStatus: copy.copiedAndOpenedStatus(couponCodeOffer.code),
-                returnNotice: {
-                  text: copy.copiedStatus(couponCodeOffer.code),
-                  closeLabel: couponCopyLabels[locale].closeNotice,
-                },
+                copiedStatus: copy.copiedStatus(couponCodeOffer.code),
               }
             : undefined
         }

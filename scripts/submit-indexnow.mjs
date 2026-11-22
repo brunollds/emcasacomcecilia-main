@@ -26,6 +26,27 @@ function normalizeUrl(input) {
   return `${BASE_URL}${path}`;
 }
 
+function readActiveCouponSlugs() {
+  const slugs = new Set();
+  if (existsSync('src/lib/couponsData.ts')) {
+    const source = readFileSync('src/lib/couponsData.ts', 'utf8');
+    for (const block of source.split(/\n  \{\s*\n\s*offerMode:/).slice(1)) {
+      const slug = block.match(/\n    slug:\s*['"]([^'"]+)['"]/)?.[1];
+      const status = block.match(/\n    status:\s*['"]([^'"]+)['"]/)?.[1];
+      if (slug && status === 'ativo') slugs.add(slug);
+    }
+  }
+  if (existsSync('data/coupons/yesstyle.json')) {
+    try {
+      const ys = JSON.parse(readFileSync('data/coupons/yesstyle.json', 'utf8'));
+      if (Array.isArray(ys) && ys.some((item) => item.status === 'active')) slugs.add('yesstyle');
+    } catch {
+      // ignora JSON inválido em fixture parcial
+    }
+  }
+  return slugs;
+}
+
 function resolveUrlsSinceGitRef(ref) {
   let diffOutput = '';
   try {
@@ -40,6 +61,7 @@ function resolveUrlsSinceGitRef(ref) {
   }
 
   const changedFiles = diffOutput.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
+  const activeCouponSlugs = readActiveCouponSlugs();
   const resolved = [];
   let touchedCoupons = false;
 
@@ -51,8 +73,13 @@ function resolveUrlsSinceGitRef(ref) {
       const slug = data.slug || basename(file, '.json');
       const locale = data.locale && data.locale !== 'pt' ? data.locale : null;
       resolved.push(locale ? `/${locale}/reviews/${slug}` : `/reviews/${slug}`);
-      if (!locale && data.affiliate && typeof data.affiliate === 'string') {
-        resolved.push(`/cupons/${data.affiliate}`);
+      if (!locale && data.affiliate) {
+        const affiliates = Array.isArray(data.affiliate) ? data.affiliate : [data.affiliate];
+        for (const affiliate of affiliates) {
+          if (typeof affiliate === 'string' && activeCouponSlugs.has(affiliate)) {
+            resolved.push(`/cupons/${affiliate}`);
+          }
+        }
       }
       continue;
     }

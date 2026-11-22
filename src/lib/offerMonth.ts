@@ -22,10 +22,9 @@ export function getCurrentOfferMonthDate(now = Date.now()): Date {
   return new Date(year, month - 1, 15, 12);
 }
 
-// O título em PT das lojas com metaTitleMonth ganha o mês da oferta no fim: "(nov/2026)", só quando cabe em 60 caracteres.
+// O título em PT das lojas com metaTitleMonth ganha o mês da oferta no fim: "(nov/2026)".
 export function getCouponMetaTitle(coupon: { metaTitle: string; metaTitleMonth?: boolean }, now = Date.now()): string {
   if (!coupon.metaTitleMonth) return coupon.metaTitle;
   const { year, month } = getOfferMonth(getBrasiliaDate(now));
-  const withMonth = `${coupon.metaTitle} (${TITLE_MONTHS[month - 1]}/${year})`;
-  return withMonth.length <= 60 ? withMonth : coupon.metaTitle;
+  return `${coupon.metaTitle} (${TITLE_MONTHS[month - 1]}/${year})`;
 }

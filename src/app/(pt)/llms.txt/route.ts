@@ -9,6 +9,7 @@ import { LOCALE_HOME_LOCALES, getLocaleHomePath } from '@/lib/localeHome';
 import { REVIEW_HUB_LOCALES, getPublishedReviewsForLocale, getReviewHubPath } from '@/lib/review-hubs';
 import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
 import { videoPages } from '@/lib/video-pages';
+import { getPrimaryRewardCode } from '@/lib/yesstyleCoupons';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -35,7 +36,8 @@ function formatLink(label: string, href: string, description?: string): string {
 function formatCouponLabel(coupon: Coupon): string {
   if (coupon.offerMode === 'discount-code') {
     if (coupon.tiers?.length) {
-      return `${coupon.brand} - ${coupon.tiers.length} faixas de cupom (${coupon.tiers[0].code} a ${coupon.code})`;
+      const lastTier = coupon.tiers[coupon.tiers.length - 1];
+      return `${coupon.brand} - ${coupon.tiers.length} faixas de cupom (${coupon.tiers[0].code} a ${lastTier.code})`;
     }
     return `${coupon.brand} - ${coupon.offerTypeLabel ?? 'cupom'} ${coupon.code}`;
   }
@@ -86,6 +88,8 @@ function buildLlmsText(): string {
       ),
     ];
   });
+  const yesStyleReward = getPrimaryRewardCode();
+  const yesStyleSummary = `codigo de recompensa ${yesStyleReward.code} (ate ${yesStyleReward.newCustomerDiscount}% OFF extra na 1a compra e ${yesStyleReward.returningCustomerDiscount}% nas seguintes, cumulativo com cupons YesStyle)`;
   // A página em PT já entra como "YesStyle em portugues"; /pt/coupons/yesstyle não existe.
   const yesStyleLocalizedCoupons = Object.values(YESSTYLE_LOCALES)
     .filter((config) => config.locale !== 'pt')
@@ -93,7 +97,7 @@ function buildLlmsText(): string {
       formatLink(
         `YesStyle reward code (${config.locale})`,
         `${BASE_URL}${config.hubPath}`,
-        'Reward Code CECILIA010 (up to 5% extra off, stacks with YesStyle coupons)'
+        `pagina local (${config.locale}) - ${yesStyleSummary}`
       )
     );
   // Lojas com página em outros idiomas: a de PT e as traduzidas, com o benefício e o código de cada idioma.
@@ -225,7 +229,7 @@ function buildLlmsText(): string {
     formatLink(
       'YesStyle em portugues',
       `${BASE_URL}/cupons/yesstyle`,
-      'pagina canonica em pt-BR do codigo de recompensa CECILIA010'
+      `pagina canonica em pt-BR - ${yesStyleSummary}`
     ),
     ...yesStyleLocalizedCoupons,
     ...translatedCouponLinks,

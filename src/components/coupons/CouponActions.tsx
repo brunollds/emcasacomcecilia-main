@@ -236,13 +236,7 @@ type CouponDockProps = {
   // Vai no rastreio do clique na loja, inclusive quando o dock mostra as faixas.
   trackingCode?: string;
   // Os textos chegam prontos, no idioma da página.
-  copyAction?: {
-    code: string;
-    ariaLabel: string;
-    copiedLabel: string;
-    copiedStatus: string;
-    returnNotice?: ReturnNotice;
-  };
+  copyAction?: { code: string; ariaLabel: string; copiedLabel: string; copiedStatus: string };
   // Com faixas (Magalu) o dock leva à tabela em vez de copiar um código.
   tiersAction?: { href: string; label: string };
 };
@@ -296,14 +290,12 @@ export function CouponDock({
             {tiersAction.label}
           </a>
         ) : copyAction ? (
-          <CopyAndOpenStoreLink
+          <CopyCodeButton
             code={copyAction.code}
-            href={storeUrl}
             brand={brand}
             placement="bottom_bar"
             ariaLabel={copyAction.ariaLabel}
             copiedStatus={copyAction.copiedStatus}
-            returnNotice={copyAction.returnNotice}
             className="flex min-h-12 min-w-0 flex-1 items-center justify-between gap-2 rounded-[10px] border-2 border-dashed border-marinho bg-amarelo-cupom px-3 font-codigo font-extrabold text-marinho focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho data-[copied=true]:border-solid data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro"
             copiedChildren={
               <span className="flex flex-1 items-center justify-center gap-2 font-sans text-[15px]">
@@ -316,7 +308,7 @@ export function CouponDock({
             <span dir="ltr" className={`min-w-0 flex-1 break-all text-balance leading-5 ${dockCodeSize(copyAction.code)}`}>{copyAction.code}</span>
             {/* Abaixo de 360px o ícone sai para o código caber em duas linhas; a tesoura já indica a cópia. */}
             <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0 max-[360px]:hidden" />
-          </CopyAndOpenStoreLink>
+          </CopyCodeButton>
         ) : null}
         <CouponStoreLink
           href={storeUrl}

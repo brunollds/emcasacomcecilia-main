@@ -239,8 +239,8 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
   `src/lib/inlineMarkdown.ts`, o mesmo código na página (`AnimatedTextHighlight`) e no `FAQPage`: a
   pergunta sai em texto puro e a resposta em HTML, com `<a>` de href absoluto e `<strong>`. O texto
   do áudio e do tempo de leitura (`plainTextBody`, de `contentSectionsToPlainText`) passa por ele nos
-  mesmos campos que a página: parágrafos, bullets e o destaque; o título e o aviso da seção a página
-  mostra crus, e não levam marcação. Formato novo de marcação entra nesse módulo, nunca num regex à
+  mesmos campos que a página: parágrafos, parágrafos finais (`postParagraphs`), bullets, acordeão
+  (`accordionBlock`) e o destaque; o título e o aviso da seção a página mostra crus, e não levam marcação. Formato novo de marcação entra nesse módulo, nunca num regex à
   parte. O `test:build-output` compara as perguntas e as respostas do acordeão com o `FAQPage` de cada
   artigo, e o `validate:content` barra `](` e `**` no `plainTextBody` de todo artigo.
 - Texto sem cara de prontuário nos artigos em português (`validate:content`, que roda no build; regras em
@@ -258,8 +258,8 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
   estão em `scripts/review-snippet-baseline.json` (slug → problemas), que só encolhe: quem corrige um artigo tira a entrada.
 - Subtítulo (`description`) com no máximo 180 caracteres em todo idioma (`MAX_DESCRIPTION_LENGTH`, em
   `scripts/review-prose-checks.ts`; o `validate:content` barra): uma ou duas frases, de 150 a 180, nunca o sumário do
-  artigo. Ele sai embaixo do título, no JSON-LD, no `llms.txt` e no começo do "Ouvir"; o snippet do Google usa o
-  `metaDescription`.
+  artigo. Ele sai embaixo do título, no JSON-LD e no começo do "Ouvir"; o snippet do Google e o `llms.txt`
+  usam o `metaDescription` (com fallback para o `description`).
 - O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 
@@ -328,14 +328,18 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
 - O dock do celular aparece depois que o recorte `#cupom-artigo` sai pela parte de cima e some enquanto o
   `#loja` está na tela. Os ids ficam em `articleAnchors.ts` e a regra em `dockVisibility.ts`; sem recorte
   (artigo sem loja), o dock aparece na primeira seção. À direita do sumário, o dock leva o link da loja da gaveta
-  (`review_mobile_dock`): com código, é o código à vista, que copia e abre a loja em nova aba ("copiar e ir"); sem
-  código (loja só de link, como a Proton, ou artigo só com `cta`), o próprio link, com o mesmo rótulo. O código de
-  indicação (4CW5Y) e o link interno ficam só no copiar. Na sidebar, o sumário tem altura máxima e rola
+  (`review_mobile_dock`): com código e link externo (cupom, recompensa ou indicação), é o código à vista, que copia e
+  abre a loja em nova aba ("copiar e ir"); sem código (loja só de link, como a Proton, ou artigo só com `cta`), o
+  próprio link, com o mesmo rótulo. Com link interno, fica só no copiar. Na sidebar, o sumário tem altura máxima e rola
   por dentro para o recorte continuar à vista.
 - "Copiar e ir para a loja" (`CopyAndOpenStoreLink`, de `CouponActions.tsx`): nos recortes do artigo com código e link
-  externo (topo, lateral e fim, salvo o código de indicação), no dock e nas páginas de loja, o botão principal copia o
-  código e abre a loja em nova aba, com "Só copiar o código" embaixo (no dock, na gaveta) e a linha de que o código
-  fica copiado (`goHint`). A cópia e o clique na loja são dois eventos, com o placement de cada lugar. Quem volta da
+  externo (topo, lateral e fim, inclusive no código de indicação da SHEIN, cujo `goHint` orienta pesquisar no app ou no
+  site; em PT o link já leva o `4CW5Y` na busca, e nos outros 10 idiomas abre o `onelink.shein.com`), no dock dos
+  artigos e no recorte do topo das páginas de loja, o botão principal copia o código e abre a loja em nova aba, com
+  "Só copiar o código" embaixo (no dock dos artigos, na gaveta; no `CouponDock` das páginas de loja, o botão do código
+  só copia ao lado do botão "Ir para a loja") e a linha de que o código fica copiado (`goHint`). Sem código (loja só de
+  link, como Proton, Starlink, AliExpress, Temu e Lejour), os recortes do artigo mostram o `cutoutNote` localizado antes
+  do botão da loja. A cópia e o clique na loja são dois eventos, com o placement de cada lugar. Quem volta da
   aba da loja encontra um aviso verde fixo no topo, com o código e onde colar (`copiedHint`, de `articleCopy.ts`), até
   fechar. O aviso é um só por página (o do último código), num portal no `<body>`: dentro do dock, o `translate` prenderia o
   `fixed` a ele, e o `inert` o esconderia. Os rótulos ficam em `couponCopyLocale.ts`, que o `couponStoreCopy.tsx` lê; o `test:build-output` confere o

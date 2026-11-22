@@ -44,7 +44,7 @@ export async function generateReviewMetadataBySlug(slug: string, locale?: Locale
 
   const seoDescription = review.metaDescription || review.description;
   const seoTitle = review.seoTitle || review.title;
-  const documentTitle = seoTitle.length <= 38
+  const documentTitle = seoTitle.length <= 42
     ? `${seoTitle} - Em Casa com Cecília`
     : seoTitle;
   const authorNames = review.authors?.length
