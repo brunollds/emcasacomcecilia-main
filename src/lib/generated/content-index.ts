@@ -264460,8 +264460,8 @@ export const reviewsData: unknown[] = [
         "heading": "O que a Adaptogen põe na Black Friday",
         "paragraphs": [
           "A Adaptogen tem uma coleção própria para a Black Friday, com 57 produtos: whey, creatina, pré-treino, aminoácidos, vitaminas e roupas. Ela aparece no menu Black Friday da home. O banner da home traz a frase “Black Friday começou, até 50% OFF”.",
-          "Nenhum suplemento que lemos estava com 50% de desconto. Entre os itens que lemos estão a Creatina Flavor 300 g, o HIT Protein Bag 900 g, o Gold Whey 900 g, o Tasty Whey 3W Gourmet 900 g e o Tasty Iso 900 g, além do Panic Pré Treino e da jaqueta de moletom, que ficou 35% abaixo do preço riscado.",
-          "A coleção não traz regulamento nem data de fim. Para ver a lista inteira, abra a coleção pelo link abaixo."
+          "Nenhum suplemento que lemos estava com 50% de desconto. Entre os itens que lemos estão a [Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA), o [HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA), o [Gold Whey 900 g](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), o [Tasty Whey 3W Gourmet 900 g](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e o [Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), além do Panic Pré Treino e da jaqueta de moletom, que ficou 35% abaixo do preço riscado.",
+          "A coleção não traz regulamento nem data de fim. O banner da home diz “até 50% OFF” e as fichas em promoção levam o selo “Black Friday”: o percentual de cada produto é o que está na ficha dele. Para ver a lista inteira, abra a coleção pelo link abaixo."
         ],
         "links": [
           {
@@ -264486,40 +264486,40 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Tasty Whey 3W Gourmet 900 g",
+              "[Tasty Whey 3W Gourmet 900 g](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
               "R$ 317,90",
-              "R$ 270,20",
+              "R$ 270,22",
               "R$ 256,71"
             ],
             [
-              "Gold Whey 900 g",
+              "[Gold Whey 900 g](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA)",
               "R$ 262,90",
-              "R$ 223,48",
+              "R$ 223,47",
               "R$ 212,30"
             ],
             [
-              "HIT Protein Bag 900 g",
+              "[HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA)",
               "R$ 173,15",
               "R$ 147,18",
               "R$ 139,82"
             ],
             [
-              "Tasty Iso 900 g",
+              "[Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA)",
               "R$ 460,90",
-              "R$ 391,80",
+              "R$ 391,77",
               "R$ 372,18"
             ],
             [
-              "Creatina Flavor 300 g",
+              "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA)",
               "R$ 115,00",
               "R$ 97,75",
               "R$ 92,86"
             ],
             [
-              "Creatina Platinum Series 300 g",
-              "R$ 79,00",
-              "R$ 67,15",
-              "R$ 63,79"
+              "[Creatina Platinum Series](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA)",
+              "R$ 35,10",
+              "R$ 29,84",
+              "não lido"
             ]
           ]
         },
@@ -264549,7 +264549,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom entra por cima? A conta de dois carrinhos",
         "paragraphs": [
-          "Em 18/11, testamos o cupom CECILIA na Adaptogen no checkout, sem login e sem finalizar a compra. Montamos dois carrinhos com itens da campanha, com os preços do cartão, e olhamos o resumo com o cupom aplicado."
+          "Testamos o cupom CECILIA na Adaptogen no checkout, sem login e sem finalizar a compra, em 18/11, e repetimos o carrinho da creatina em 22/11, com o mesmo resultado. Montamos dois carrinhos com itens da campanha, com os preços do cartão, e olhamos o resumo com o cupom aplicado."
         ],
         "comparisonTable": {
           "caption": "Teste no checkout, sem login e sem finalizar a compra. Preços do cartão da campanha e sem frete.",
@@ -264561,13 +264561,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Creatina Flavor 300 g (Limonada)",
+              "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) (Limonada)",
               "R$ 97,75",
               "− R$ 9,78",
               "R$ 87,97"
             ],
             [
-              "Creatina + HIT Protein Bag 900 g (Baunilha)",
+              "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) + [HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) (Baunilha)",
               "R$ 244,93",
               "− R$ 24,49",
               "R$ 220,44"
@@ -264576,29 +264576,22 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Conta nossa: o cupom tirou 10% do total dos produtos, já com os preços da campanha. Somou nos nossos testes."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
-            "alt": "Resumo do pedido na Adaptogen com CECILIA aplicado, a linha Cupom de R$ 24,49 e o total de R$ 220,44",
-            "caption": "Resumo do segundo carrinho no checkout: o aviso Cupom aplicado, a linha Cupom − R$ 24,49 e o total de R$ 220,44.",
-            "objectFit": "contain",
-            "aspectRatio": 0.58
-          }
         ]
       },
       {
         "heading": "Como aplicar o cupom",
         "paragraphs": [
-          "O cupom CECILIA na Adaptogen entra no checkout, no campo “Cupom de desconto”. Digite CECILIA, clique em “Aplicar” e espere o aviso “Cupom aplicado”. A linha Cupom aparece no resumo.",
-          "O passo a passo, campo a campo, está em [como usar o cupom CECILIA na Adaptogen](/reviews/cupom-adaptogen-como-usar). As condições do código estão na página do [cupom Adaptogen](/cupons/adaptogen). O link da loja não aplica o código sozinho."
+          "O cupom CECILIA na Adaptogen entra no checkout, que abre quando você clica em Finalizar Compra na sacola. No resumo do pedido há o campo “Cupom de desconto”: digite CECILIA, clique em “Aplicar” e espere o aviso “Cupom aplicado”. A linha Cupom aparece no resumo, com o valor abatido.",
+          "O botão desta página leva à loja, mas não aplica o código sozinho: quem entra por ele ainda digita o CECILIA. Como a campanha muda o preço da vitrine, o total que vale é o do resumo, com a linha Cupom e o frete do seu CEP. Se o aviso não aparecer, confira a grafia, tudo junto e sem espaço, e se o campo é o de cupom.",
+          "O passo a passo, campo a campo, está em [como usar o cupom CECILIA na Adaptogen](/reviews/cupom-adaptogen-como-usar). As condições do código estão na página do [cupom Adaptogen](/cupons/adaptogen)."
         ]
       },
       {
         "heading": "Pix, boleto e Adapto Cash",
         "paragraphs": [
-          "O CECILIA vale também no Pix e no boleto, modalidades para as quais a loja anuncia 5% de desconto. Confira os dois descontos no resumo antes de pagar. Nos nossos testes, vimos a aplicação do cupom; a etapa de pagamento, que pede login, não foi aberta.",
-          "A loja informa 3% do valor da compra em crédito para as próximas compras, pelo Adapto Cash. É uma vantagem da loja, e a página do programa não fala de cupom."
+          "A loja anuncia 5% de desconto no Pix e no boleto, e o CECILIA vale também nessas modalidades e soma com esse desconto. Confira os dois descontos no resumo antes de pagar. Nos nossos testes, vimos a aplicação do cupom; a etapa de pagamento, que pede login, não foi aberta, então não damos um total com Pix e cupom juntos.",
+          "No cartão, a faixa da home e a página de formas de pagamento falam em até 6x sem juros, com parcela mínima de R$ 50. O Pix também pode ser parcelado, em até 4x sem juros, com a mesma parcela mínima.",
+          "A loja informa ainda 3% do valor da compra em crédito para as próximas compras, pelo Adapto Cash. É uma vantagem da loja, e a página do programa não fala de cupom: se ele soma com o CECILIA, não vimos."
         ]
       },
       {
@@ -264646,12 +264639,13 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Adaptogen tem Black Friday? Tem uma coleção própria no site, com 57 produtos, e um banner na home. A loja não publica regulamento nem data de fim.",
           "O cupom CECILIA vale na Black Friday da Adaptogen? Nos nossos testes, somou com os preços da campanha. Confira a linha Cupom no resumo do checkout antes de pagar.",
-          "O cupom soma com o Pix? O CECILIA vale também no Pix, modalidade para a qual a loja anuncia 5% de desconto. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento.",
+          "O cupom soma com o Pix? O CECILIA vale também no Pix e soma com os 5% que a loja anuncia para essa modalidade. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento.",
           "Até quando vai a Black Friday da Adaptogen? A loja não informa data de fim na coleção. Confira a campanha no dia da compra.",
           "O cupom vale no Mercado Livre? O código é do site oficial da Adaptogen. Não conferimos os marketplaces, então não afirmamos nada sobre eles."
         ]
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 1056,
@@ -264724,18 +264718,18 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
-            "alt": "Resumo do checkout da Adaptogen com o cupom CECILIA no campo Cupom de desconto, o aviso Cupom aplicado, a linha Cupom de − R$ 24,49 e o total de R$ 220,44",
-            "caption": "O CECILIA aplicado no resumo do checkout. A linha Cupom mostra quanto saiu do pedido.",
-            "objectFit": "contain",
-            "aspectRatio": 0.58
+            "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-cecilia-creatina-flavor.webp",
+            "alt": "Resumo do checkout da Adaptogen com a Creatina Flavor 300 g, o código CECILIA no campo Cupom de desconto, o aviso Cupom aplicado, a linha Cupom de menos R$ 9,78 e o total de R$ 87,97",
+            "caption": "Com o CECILIA aplicado, o resumo mostra Cupom aplicado e a linha Cupom com o desconto de 10%.",
+            "objectFit": "cover",
+            "aspectRatio": 1.927
           }
         ]
       },
       {
         "heading": "Quanto o cupom tira: a conta dos testes",
         "paragraphs": [
-          "Nos dois carrinhos de teste de 18/11, o cupom CECILIA na Adaptogen tirou 10% do total dos produtos, já com os preços da campanha no dia. Conta nossa:"
+          "No teste de 22/11, o cupom CECILIA na Adaptogen tirou 10% do total da [Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) (Limonada): de R$ 97,75, o preço do cartão na Black Friday, para R$ 87,97, com a linha Cupom de − R$ 9,78. O carrinho com o [HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA), que testamos antes, deu o mesmo desconto de 10%. Conta nossa:"
         ],
         "comparisonTable": {
           "caption": "Carrinhos de teste, desconto de 10% sobre o total dos produtos",
@@ -264747,13 +264741,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Creatina Flavor 300 g",
+              "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA)",
               "R$ 97,75",
               "− R$ 9,78",
               "R$ 87,97"
             ],
             [
-              "Creatina Flavor 300 g + HIT Protein Bag 900 g",
+              "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) + [HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA)",
               "R$ 244,93",
               "− R$ 24,49",
               "R$ 220,44"
@@ -264775,29 +264769,23 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cupom Adaptogen 20 ou 30?",
+        "heading": "Cupom Adaptogen 20 ou 30? E como ele soma com a promoção",
         "paragraphs": [
-          "O nosso é o cupom CECILIA na Adaptogen, de 10%. Nos nossos testes, ele entrou sobre o preço já promocional da vitrine. O desconto da sua compra é o que aparece na linha Cupom do resumo: confira antes de pagar."
-        ]
-      },
-      {
-        "heading": "Soma com promoção",
-        "paragraphs": [
-          "Somou nos nossos testes: o cupom CECILIA na Adaptogen entrou por cima dos preços da Black Friday.",
-          "A coleção da campanha não traz regulamento nem data de fim. O preço pode mudar, então confira a linha Cupom e o total antes de pagar. Os preços lidos na vitrine estão no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen)."
+          "O nosso é o cupom CECILIA na Adaptogen, de 10%, para cliente novo e antigo. Nos nossos testes, ele entrou por cima do preço já promocional da vitrine: o abatimento de 10% saiu do preço da Black Friday, não do preço cheio.",
+          "O banner da home diz “até 50% OFF”, e a coleção da campanha não traz regulamento nem data de fim. O preço pode mudar, então o desconto da sua compra é o que aparece na linha Cupom do resumo: confira essa linha e o total antes de pagar. Os preços lidos na vitrine estão no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen)."
         ]
       },
       {
         "heading": "Pix, boleto e Adapto Cash",
         "paragraphs": [
-          "O CECILIA vale também no Pix e no boleto, modalidades para as quais a loja anuncia 5% de desconto. Confira os dois descontos no resumo antes de pagar. Nos nossos testes, vimos a aplicação do cupom; a etapa de pagamento, que pede login, não foi aberta.",
+          "O CECILIA vale também no Pix e no boleto e soma com os 5% que a loja anuncia para essas modalidades. Confira os dois descontos no resumo antes de pagar. Nos nossos testes, vimos a aplicação do cupom; a etapa de pagamento, que pede login, não foi aberta.",
           "Adapto Cash: a loja informa 3% do valor da compra em crédito para as próximas compras. É uma vantagem da loja, e a página do programa não fala de cupom."
         ]
       },
       {
         "heading": "Frete: olhe o total entregue",
         "paragraphs": [
-          "A faixa da home diz frete grátis para todo o Brasil, com condições. Na prática, o valor mínimo muda por região. A loja publica estes valores:"
+          "A faixa da home diz frete grátis para todo o Brasil, com condições. A loja publica o mínimo de cada região:"
         ],
         "comparisonTable": {
           "caption": "Frete grátis por região",
@@ -264825,7 +264813,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A política publica os mínimos por região. Informe seu CEP e confira o frete no resumo do pedido antes de pagar."
+          "Informe seu CEP e confira o frete no resumo do pedido antes de pagar."
         ]
       },
       {
@@ -264849,7 +264837,7 @@ export const reviewsData: unknown[] = [
           "O cupom CECILIA soma com a Black Friday? Nos nossos testes, somou com os preços da campanha. Os preços mudam, então confira a linha Cupom antes de pagar.",
           "O cupom vale para quem já é cliente? Vale. O CECILIA serve para cliente novo e antigo. Quem compra pela primeira vez pode ler o [guia da primeira compra na Adaptogen](/reviews/cupom-adaptogen-primeira-compra).",
           "O cupom vale no Mercado Livre ou na Amazon? O código é do site oficial da Adaptogen e entra no checkout de lá. Não conferimos a venda nos marketplaces, então não dizemos se a marca vende lá.",
-          "O cupom soma com o Pix? O CECILIA vale também no Pix, modalidade para a qual a loja anuncia 5% de desconto. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento."
+          "O cupom soma com o Pix? O CECILIA vale também no Pix e soma com os 5% que a loja anuncia para essa modalidade. Confira os dois descontos no resumo antes de pagar; nossos testes não chegaram à etapa de pagamento."
         ]
       }
     ]
@@ -264917,20 +264905,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela composição e pelo preço, o Gold Whey tem o menor custo de proteína entre os três wheys cujas páginas não citam colágeno, e o Tasty Iso é descrito como zero lactose. O HIT custa menos, mas mistura whey e colágeno sem informar a proporção. O cupom CECILIA na Adaptogen dá 10% OFF; abaixo estão as diferenças e os preços."
+          "Pela composição e pelo preço, o Gold Whey tem o menor custo de proteína entre os três wheys cujas páginas não citam colágeno, e o Tasty Iso é descrito como zero lactose. O HIT custa menos, mas mistura whey e colágeno sem informar a proporção. O [cupom Adaptogen](/cupons/adaptogen) CECILIA dá 10% OFF; abaixo estão as diferenças e os preços."
         ]
       },
       {
-        "heading": "O que a Adaptogen vende",
+        "heading": "O que a Adaptogen vende e como separar as linhas",
         "paragraphs": [
           "A linha da Adaptogen vai de wheys e creatina a pré-treinos, aminoácidos, vitaminas, snacks e roupas. Este guia fica nos wheys e na creatina.",
-          "Segundo a loja, a marca foi criada em 2014 e a Tasty Whey foi o primeiro produto."
-        ]
-      },
-      {
-        "heading": "Como escolher entre as linhas da Adaptogen",
-        "paragraphs": [
-          "Para comparar preço, separe primeiro os produtos: o Gold é concentrado; o Tasty Whey 3W mistura concentrado, isolado e hidrolisado; o Tasty Iso é descrito como isolado e hidrolisado. O HIT combina whey e colágeno. Na creatina, compare o custo da porção que fornece 3 g de creatina, não apenas o peso do pote."
+          "Segundo a loja, a marca foi criada em 2014 e a [Tasty Whey](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) foi o primeiro produto.",
+          "Para comparar preço, separe primeiro os produtos: o [Gold](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) é concentrado; o Tasty Whey 3W mistura concentrado, isolado e hidrolisado; o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) é descrito como isolado e hidrolisado. O [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) combina whey e colágeno. Na creatina, compare o custo da porção que fornece 3 g de creatina, não apenas o peso do pote."
         ]
       },
       {
@@ -264948,25 +264931,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Tasty Whey 3W Gourmet 900 g",
+              "[Tasty Whey 3W Gourmet 900 g](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
               "Concentrado, isolado e hidrolisado (3W)",
               "24 g / 34 g",
               "134 kcal"
             ],
             [
-              "Gold Whey 900 g",
+              "[Gold Whey 900 g](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA)",
               "Concentrado",
               "21 g / 30 g",
               "115 kcal"
             ],
             [
-              "HIT Protein Bag 900 g",
+              "[HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA)",
               "Whey concentrado com peptídeos de colágeno hidrolisado",
               "20 g / 33 g",
               "130 kcal"
             ],
             [
-              "Tasty Iso 900 g",
+              "[Tasty Iso 900 g](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA)",
               "Isolado e hidrolisado",
               "25 g / 30 g",
               "115 kcal"
@@ -265017,8 +265000,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A creatina",
         "paragraphs": [
-          "**Creatina Flavor 300 g.** A loja informa que é creatina monohidratada, com 3 g por dose, 81 doses no pote, adoçada com estévia e vendida nos sabores Limonada e Tangerina.",
-          "**Creatina Platinum Series.** A página diz que é creatina monohidratada. A tabela nutricional da imagem declara porção de 3 g (meio dosador), 100 porções no pote de 300 g e 3.000 mg de creatina por porção, sem valor energético."
+          "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA). A loja informa que é creatina monohidratada, com 3 g por dose, 81 doses no pote, adoçada com estévia e vendida nos sabores Limonada e Tangerina.",
+          "[Creatina Platinum Series](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA). A página diz que é creatina monohidratada. A tabela nutricional da imagem declara porção de 3 g (meio dosador), 100 porções no pote de 300 g e 3.000 mg de creatina por porção, sem valor energético."
         ],
         "postParagraphs": [
           "Conta nossa: no cartão, o pote de 300 g da Platinum Series (R$ 67,15) fica em R$ 0,67 por dose, nas 100 porções de 3 g. Os potes maiores têm preço por grama diferente: o de 1 kg (R$ 194,64 no cartão) sai mais caro que dois de 500 g (2 × R$ 89,25 = R$ 178,50)."
@@ -265045,8 +265028,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada dose",
         "paragraphs": [
-          "Os preços foram lidos na vitrine em 18 de novembro de 2026, no cartão, sem frete e sem Pix. A loja mostrava preços de campanha nesse dia, explicados no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen).",
-          "A coluna com o CECILIA é uma simulação de 10% sobre o preço do cartão. A aplicação do código sobre a campanha foi confirmada nos dois carrinhos descritos abaixo; os demais produtos da tabela não passaram por teste individual."
+          "Os preços foram lidos na vitrine, no cartão, sem frete e sem Pix. A loja mostrava preços de Black Friday, explicados no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen).",
+          "A coluna com o CECILIA é uma simulação de 10% sobre o preço do cartão. Os três wheys foram testados com o cupom no carrinho, como mostra o [artigo do Tasty Iso](/reviews/tasty-iso-adaptogen-vale-a-pena): o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) saiu a R$ 352,59, o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) a R$ 243,20 e o [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) a R$ 201,12. Os outros produtos da tabela ficam só na conta."
         ],
         "comparisonTable": {
           "caption": "Conta por porção: preço do pote × gramas da porção ÷ peso do pote, sem arredondar o número de porções antes. Na Flavor, usamos as 81 porções informadas pela loja. Sem frete e sem Pix; a coluna com CECILIA é calculada.",
@@ -265070,7 +265053,7 @@ export const reviewsData: unknown[] = [
               "R$ 6,70"
             ],
             [
-              "HIT Protein Bag 900 g · porção de 33 g",
+              "[HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) · porção de 33 g",
               "R$ 147,18",
               "R$ 5,40",
               "R$ 4,86"
@@ -265082,13 +265065,13 @@ export const reviewsData: unknown[] = [
               "R$ 11,75"
             ],
             [
-              "Creatina Flavor 300 g · 3 g de creatina por porção",
+              "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) · 3 g de creatina por porção",
               "R$ 97,75",
               "R$ 1,21",
               "R$ 1,09"
             ],
             [
-              "Platinum Series 300 g · porção de 3 g",
+              "[Platinum Series 300 g](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA) · porção de 3 g",
               "R$ 67,15",
               "R$ 0,67",
               "R$ 0,60"
@@ -265096,26 +265079,17 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No carrinho que testamos com a Creatina Flavor, o cupom levou R$ 97,75 a R$ 87,97. Em outro carrinho, com a Creatina Flavor e o HIT Protein, o total foi de R$ 244,93 para R$ 220,44, com a linha Cupom em R$ 24,49. Nos dois testes, o cupom somou com o preço de campanha. Não abrimos o pagamento.",
+          "No teste de 22/11, com a Creatina Flavor no carrinho, o cupom levou R$ 97,75 a R$ 87,97, com a linha Cupom em R$ 9,78. Em outro carrinho, com a Creatina Flavor e o HIT Protein, o total foi de R$ 244,93 para R$ 220,44, com a linha Cupom em R$ 24,49. Nos dois testes, o cupom somou com o preço de campanha. Não abrimos o pagamento.",
           "No checkout, digite CECILIA no campo Cupom de desconto e clique em Aplicar: aparecem o aviso Cupom aplicado e a linha Cupom no resumo. A página do [cupom Adaptogen](/cupons/adaptogen) reúne o código e as condições, e o passo a passo do campo está no [guia de como usar o código](/reviews/cupom-adaptogen-como-usar)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
-            "alt": "Resumo do carrinho na Adaptogen com o campo Cupom de desconto preenchido com CECILIA, a mensagem Cupom aplicado e a linha Cupom de R$ 24,49",
-            "caption": "Checkout da Adaptogen com o cupom CECILIA aplicado no carrinho de teste, com a Creatina Flavor e o HIT Protein.",
-            "objectFit": "contain",
-            "aspectRatio": 0.58
-          }
         ]
       },
       {
         "heading": "Custo por 100 g de proteína: whey e blend separados",
         "paragraphs": [
-          "Entre Gold Whey, Tasty Whey 3W e Tasty Iso, o Gold tem o menor custo por 100 g de proteína declarada. As páginas desses três não citam colágeno. O HIT fica separado: sua proteína inclui whey e colágeno, e a loja não informa a participação de cada um."
+          "Entre [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), o Gold tem o menor custo por 100 g de proteína declarada. As páginas desses três não citam colágeno. O [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) fica separado: sua proteína inclui whey e colágeno, e a loja não informa a participação de cada um."
         ],
         "comparisonTable": {
-          "caption": "Conta nossa com a porção declarada: proteína por porção ÷ gramas de pó × 900 g. Valores no cartão; a coluna com CECILIA simula 10% de desconto. O HIT, com colágeno, é apresentado separadamente abaixo.",
+          "caption": "Conta nossa com a porção declarada (no Tasty Whey 3W, pote de 900 g dividido pela dose de 34 g, vezes 24 g de proteína): proteína por porção ÷ gramas de pó × 900 g. Valores no cartão; a coluna com CECILIA simula 10% de desconto. O HIT, com colágeno, é apresentado separadamente abaixo.",
           "headers": [
             "Produto",
             "Proteína no pacote de 900 g",
@@ -265154,23 +265128,18 @@ export const reviewsData: unknown[] = [
           "Pelo preço e pela composição declarada, a escolha fica assim:"
         ],
         "bullets": [
-          "**Menor custo entre os três cujas páginas não citam colágeno:** Gold Whey, concentrado. Ele fica abaixo do Tasty Whey 3W e do Tasty Iso por 100 g de proteína.",
+          "**Menor custo entre os três cujas páginas não citam colágeno:** [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), concentrado. Ele fica abaixo do [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e do [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) por 100 g de proteína.",
           "**Quer escolher entre mais sabores:** Tasty Whey 3W, com 23 opções anunciadas. É uma mistura de concentrado, isolado e hidrolisado, sem proporções informadas.",
           "**Procura uma opção declarada zero lactose:** Tasty Iso, segundo a página. Confira o rótulo do sabor escolhido; Cookies and Cream contém glúten.",
-          "**Considera o HIT pelo preço:** ele combina whey e colágeno. A proporção não informada impede calcular quanto se paga pela proteína de whey.",
-          "**Creatina saborizada ou sem sabor:** a Flavor oferece 81 porções com 3 g de creatina; a Platinum de 300 g declara 100 porções de 3 g e tem o menor custo por porção entre essas duas."
+          "Considera o [HIT](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) pelo preço: ele combina whey e colágeno. A proporção não informada impede calcular quanto se paga pela proteína de whey.",
+          "**Creatina saborizada ou sem sabor:** a [Flavor](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) oferece 81 porções com 3 g de creatina; a [Platinum](https://www.adaptogen.com.br/produto/creatina-platinum-series-150227?parceiro=CECILIA) de 300 g declara 100 porções de 3 g e tem o menor custo por porção entre essas duas."
         ]
       },
       {
-        "heading": "Antes de começar um suplemento",
+        "heading": "Antes de começar e o que não dá para saber daqui",
         "paragraphs": [
           "As porções citadas são as dos rótulos e servem às contas de preço, não à indicação de quanto tomar.",
-          "Quem tem alguma condição de saúde, toma remédio, está grávida ou amamenta fala com médico ou nutricionista antes de usar."
-        ]
-      },
-      {
-        "heading": "O que não dá para saber daqui",
-        "paragraphs": [
+          "Quem tem alguma condição de saúde, toma remédio, está grávida ou amamenta fala com médico ou nutricionista antes de usar.",
           "Sabor e digestão ficam fora: não usamos os produtos, e as páginas que lemos não tinham avaliações de clientes.",
           "A tabela que lemos é a imagem da página. Confira a tabela impressa e a lista de ingredientes da embalagem que chega antes de usar.",
           "A loja informa 7 dias corridos, a contar do recebimento, para desistir da compra, com o produto lacrado, sem uso e com nota fiscal. Para defeito, o prazo é de 30 dias. A expedição sai em até 2 dias úteis depois do pagamento confirmado."
@@ -265254,7 +265223,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom tira: a conta dos carrinhos testados",
         "paragraphs": [
-          "Em 18/11, montamos dois carrinhos no site oficial e lemos o resumo do checkout com o cupom CECILIA na Adaptogen aplicado.",
+          "Montamos dois carrinhos no site oficial e lemos o resumo do checkout com o cupom CECILIA na Adaptogen aplicado. Repetimos o da creatina em 22/11, com o mesmo resultado.",
           "Os dois carrinhos estavam com os preços da [Black Friday da Adaptogen](/reviews/black-friday-adaptogen), e os 10% entraram sobre eles. O preço de vitrine muda, então o resumo do checkout é o que vale: confira o seu total nele antes de pagar."
         ],
         "comparisonTable": {
@@ -265267,13 +265236,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Creatina Flavor 300 g",
+              "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA)",
               "R$ 97,75",
               "− R$ 9,78",
               "R$ 87,97"
             ],
             [
-              "Creatina Flavor 300 g e HIT Protein Bag 900 g",
+              "[Creatina Flavor 300 g](https://www.adaptogen.com.br/produto/creatina-flavor-300g-2-sabores-150228?parceiro=CECILIA) e [HIT Protein Bag 900 g](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA)",
               "R$ 244,93",
               "− R$ 24,49",
               "R$ 220,44"
@@ -265303,22 +265272,14 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Se o código não entrar, o [guia de como usar](/reviews/cupom-adaptogen-como-usar) tem o que conferir: o campo, a grafia e a linha Cupom."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
-            "alt": "Resumo do checkout da Adaptogen com o cupom CECILIA no campo Cupom de desconto, o aviso Cupom aplicado, a linha Cupom − R$ 24,49 e o total de R$ 220,44",
-            "caption": "O CECILIA aplicado no checkout da Adaptogen, no nosso teste. A linha Cupom mostra quanto saiu do pedido.",
-            "objectFit": "contain",
-            "aspectRatio": 0.58
-          }
         ]
       },
       {
         "heading": "E na segunda compra?",
         "paragraphs": [
-          "Na segunda compra, digite o mesmo CECILIA no mesmo campo do checkout: o código vale para cliente novo e antigo.",
-          "A loja informa que o Adapto Cash devolve 3% do valor da compra em crédito para as próximas. A página do programa não fala de cupom."
+          "Na segunda compra, digite o mesmo CECILIA no mesmo campo do checkout: o código vale para cliente novo e antigo, sem exigir pedido anterior nem cadastro à parte. Depois de Aplicar, confira o aviso Cupom aplicado e a linha Cupom no resumo, como no primeiro pedido.",
+          "O desconto também vale sobre produto em promoção: nos nossos testes, os 10% entraram sobre o preço da Black Friday. Se o preço do carrinho mudar de um pedido para o outro, o que vale é o total que o resumo mostra naquele dia.",
+          "A loja anuncia 5% de desconto no Pix e no boleto, e o CECILIA vale também nessas modalidades e soma com esse desconto; a etapa de pagamento pede login e não foi aberta nos nossos testes. A loja informa ainda que o Adapto Cash devolve 3% do valor da compra em crédito para as próximas. A página do programa não fala de cupom."
         ]
       },
       {
@@ -266469,13 +266430,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na comparação dos concentrados, dos 3W e dos isolados, a Adaptogen custa menos por 100 g de proteína nos preços consultados. O cupom CECILIA na Adaptogen dá 10% OFF e aumenta essa diferença. A Dux lista opções de sabor Neutro e mais formatos nos produtos comparados; abaixo estão os duelos e as condições de frete."
+          "Na comparação dos concentrados, dos 3W e dos isolados, a Adaptogen custa menos por 100 g de proteína nos preços consultados. O [cupom Adaptogen](/cupons/adaptogen) CECILIA dá 10% OFF e aumenta essa diferença. A Dux lista opções de sabor Neutro e mais formatos nos produtos comparados; abaixo estão os duelos e as condições de frete."
         ]
       },
       {
         "heading": "Os wheys que entram na comparação",
         "paragraphs": [
-          "A comparação separa concentrado, whey de três proteínas e isolado. Os preços são de cartão, lidos nos dois sites em 18 de novembro de 2026, sem frete; a coluna com CECILIA calcula 10% sobre a campanha da Adaptogen. A aplicação do código foi confirmada em dois carrinhos da marca, sem teste individual destes wheys.",
+          "A comparação separa concentrado, whey de três proteínas e isolado. Os preços são de cartão, lidos nos dois sites, sem frete; a coluna com CECILIA calcula 10% sobre a campanha da Adaptogen. O [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e o [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) foram testados com o CECILIA no carrinho, como mostra o [artigo do Tasty Iso](/reviews/tasty-iso-adaptogen-vale-a-pena): R$ 352,59, R$ 243,20 e R$ 201,12.",
           "Na Dux, a tabela de formas de pagamento de cada página informa os totais no cartão usados aqui. No [concentrado](https://duxhumanhealth.com/produtos/whey-protein-concentrado-pote-900g/), no [FreshWhey](https://duxhumanhealth.com/produtos/freshwhey-pote-900g) e no [isolado](https://duxhumanhealth.com/produtos/whey-protein-isolado-pote-900g/), esses totais são menores que os valores de referência exibidos antes deles. A Dux não é parceira; esses links são fontes.",
           "Os números de composição são os publicados nas páginas e devem ser conferidos no rótulo do sabor escolhido. O [guia da Adaptogen](/reviews/adaptogen-e-boa) detalha as linhas; [Adaptogen ou Growth](/reviews/adaptogen-ou-growth) compara a outra marca, e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) traz outra comparação com a Dux."
         ]
@@ -266483,7 +266444,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Concentrado: Gold Whey ou Whey Protein Concentrado",
         "paragraphs": [
-          "Os dois são concentrados de 900 g. A página da Adaptogen diz que o Gold Whey tem dose de 30 g, com 21 g de proteína, 115 kcal e 5 g de carboidratos. A página da Dux diz que o Whey Protein Concentrado tem dose de 30 g, com 20 g de proteína, 128 kcal e 6,7 g de carboidratos.",
+          "Os dois são concentrados de 900 g. A página da Adaptogen diz que o [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) tem dose de 30 g, com 21 g de proteína, 115 kcal e 5 g de carboidratos. A página da Dux diz que o Whey Protein Concentrado tem dose de 30 g, com 20 g de proteína, 128 kcal e 6,7 g de carboidratos.",
           "A diferença de proteína por porção é de 1 g. O Gold fica em R$ 35,47 por 100 g de proteína, ou R$ 31,93 com CECILIA; o concentrado da Dux, em R$ 58,48. A Adaptogen anuncia 9 sabores no Gold e a Dux lista 13 no concentrado, incluindo Neutro. Confira quais variações estão disponíveis ao comprar."
         ],
         "images": [
@@ -266523,9 +266484,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Três proteínas: Tasty Whey 3W ou FreshWhey",
         "paragraphs": [
-          "A página da Adaptogen diz que o Tasty Whey 3W Gourmet é concentrado, isolado e hidrolisado. A tabela dele traz dose de 34 g, com 24 g de proteína, 134 kcal e 4,3 g de carboidratos, e o pote de 900 g rende cerca de 26 porções. A loja informa 23 sabores. Por 100 g de proteína, sai a R$ 42,53 no cartão e R$ 38,28 com o cupom CECILIA na Adaptogen.",
+          "A página da Adaptogen diz que o [Tasty Whey 3W Gourmet](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) é concentrado, isolado e hidrolisado. A tabela dele traz dose de 34 g, com 24 g de proteína, 134 kcal e 4,3 g de carboidratos, e o pote de 900 g rende cerca de 26 porções, ou cerca de 635 g de proteína (900 g ÷ 34 g × 24 g). A loja informa 23 sabores. Por 100 g de proteína, sai a R$ 42,53 no cartão e R$ 38,28 com o cupom CECILIA na Adaptogen.",
           "O FreshWhey da Dux, que a página descreve com as mesmas três proteínas, tem dose de 30 g, com 20 g de proteína, 118 kcal e 5,2 g de carboidratos. A página diz que ele é adoçado com estévia e taumatina, e a lista de sabores tem nove opções, sem Neutro. No cartão, sai a R$ 72,32 por 100 g de proteína. A dose do Tasty é maior, 34 g contra 30 g, e parte da diferença de proteína por dose vem daí: a cada 100 g de pó, são cerca de 71 g de proteína no Tasty e 67 g no FreshWhey, na nossa conta.",
-          "A Adaptogen tem outro whey de três proteínas, o Adapto Whey 3W, de 900 g e 6 sabores pela loja: dose de 32 g, com 25 g de proteína, 128 kcal e 2,5 g de carboidratos, cerca de 28 porções. Ele é uma segunda opção de 3W da Adaptogen para comparar com o FreshWhey, não uma categoria sem equivalente na Dux. Por 100 g de proteína, sai a R$ 39,76 no cartão e R$ 35,78 com o CECILIA, abaixo do Tasty Whey 3W."
+          "A Adaptogen tem outro whey de três proteínas, o [Adapto Whey 3W](https://www.adaptogen.com.br/produto/adapto-whey-3w-900g-6-sabores-150302?parceiro=CECILIA), de 900 g e 6 sabores pela loja: dose de 32 g, com 25 g de proteína, 128 kcal e 2,5 g de carboidratos, cerca de 28 porções. Ele é uma segunda opção de 3W da Adaptogen para comparar com o FreshWhey, não uma categoria sem equivalente na Dux. Por 100 g de proteína, sai a R$ 39,76 no cartão e R$ 35,78 com o CECILIA, abaixo do Tasty Whey 3W."
         ],
         "images": [
           {
@@ -266578,7 +266539,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Isolado: Tasty Iso ou Whey Protein Isolado",
         "paragraphs": [
-          "O Tasty Iso, pela página da Adaptogen, é isolado e hidrolisado: dose de 30 g, com 25 g de proteína, 115 kcal e 1,5 g de carboidratos, e 30 porções no pote de 900 g. A página diz que ele é zero lactose, e que o sabor Cookies and Cream tem glúten.",
+          "O [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), pela página da Adaptogen, é isolado e hidrolisado: dose de 30 g, com 25 g de proteína, 115 kcal e 1,5 g de carboidratos, e 30 porções no pote de 900 g. A página diz que ele é zero lactose, e que o sabor Cookies and Cream tem glúten.",
           "O Whey Protein Isolado da Dux, pela tabela da página, tem dose de 29 g, com 24 g de proteína, 108 kcal e 1,6 g de carboidratos, e cerca de 31 porções. A página diz que o isolado contém lactose. Em proteína, os dois praticamente empatam: 25 g em 30 g de pó no Tasty Iso, 24 g em 29 g no da Dux.",
           "Por 100 g de proteína, o Tasty Iso sai a R$ 52,24 no cartão e R$ 47,02 com o cupom CECILIA na Adaptogen. O isolado da Dux sai a R$ 71,68 no cartão, sem cupom nosso."
         ],
@@ -266622,7 +266583,7 @@ export const reviewsData: unknown[] = [
           "O que cada página diz sobre sabor, lactose e glúten:"
         ],
         "bullets": [
-          "**Lactose.** A página da Dux diz que o concentrado, o isolado e o FreshWhey contêm lactose. A página da Adaptogen diz que o Tasty Iso é zero lactose e que o Tasty Whey 3W contém lactose. No Gold Whey, confira a lactose no rótulo do sabor.",
+          "**Lactose.** A página da Dux diz que o concentrado, o isolado e o FreshWhey contêm lactose. A página da Adaptogen diz que o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) é zero lactose e que o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) contém lactose. No [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), confira a lactose no rótulo do sabor.",
           "**Glúten.** A página do Gold Whey diz zero glúten. Na Dux, o concentrado tem trigo nos sabores Cookies, Butter Cookies e Banoffee, segundo o FAQ da página; no isolado, o Cookies tem trigo, e os outros sabores podem ter contaminação cruzada. A página do FreshWhey diz, nos alérgicos, que contém glúten. Na Adaptogen, o Tasty Whey 3W tem glúten em Cookies and Cream e Chocolate Maltado, e o Tasty Iso, em Cookies and Cream.",
           "**Sabores.** A Dux lista 13 sabores no concentrado e 11 no isolado, com Neutro nos dois, e 9 no FreshWhey, sem Neutro. A Adaptogen informa 9 no Gold Whey, 23 no Tasty Whey 3W e 7 no Tasty Iso. Quem procura sabor Neutro encontra nas listas do concentrado e do isolado da Dux; na Adaptogen, confira a lista de sabores na página de cada whey."
         ],
@@ -266634,7 +266595,7 @@ export const reviewsData: unknown[] = [
         "heading": "Tamanhos e formatos",
         "paragraphs": [
           "A página da Dux lista o concentrado e o isolado em sachê, 450 g, 900 g e 1,8 kg, e o FreshWhey, em sachê, 450 g e 900 g. Nesse ponto, a Dux ganha: os formatos menores e o pote de 1,8 kg aparecem na lista dela para o concentrado e o isolado.",
-          "Da Adaptogen, comparamos o pote de 900 g de cada produto. A loja também vende o Tasty Whey 3W em pack de 12 sachês de 34 g, o Tasty Iso Naturalle de 450 g, com dois sabores, e o Adapto Whey em bag de 2,2 kg. A bag sai mais cara por proteína que o pote de 900 g: com o CECILIA, R$ 40,01 por 100 g de proteína, contra R$ 35,78 do pote."
+          "Da Adaptogen, comparamos o pote de 900 g de cada produto. A loja também vende o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) em pack de 12 sachês de 34 g, o Tasty Iso Naturalle de 450 g, com dois sabores, e o [Adapto Whey](https://www.adaptogen.com.br/produto/adapto-whey-3w-900g-6-sabores-150302?parceiro=CECILIA) em bag de 2,2 kg. A bag sai mais cara por proteína que o pote de 900 g: com o CECILIA, R$ 40,01 por 100 g de proteína, contra R$ 35,78 do pote."
         ]
       },
       {
@@ -266667,15 +266628,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "images": [
-          {
-            "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
-            "alt": "Resumo do carrinho na Adaptogen com o campo Cupom de desconto preenchido com CECILIA, a mensagem Cupom aplicado e a linha Cupom de R$ 24,49",
-            "caption": "Checkout da Adaptogen com o cupom CECILIA aplicado no carrinho de teste.",
-            "objectFit": "contain",
-            "aspectRatio": 0.58
-          }
-        ],
         "postParagraphs": [
           "No frete grátis, a Adaptogen tem o piso menor no Sudeste, e a Dux, no Nordeste e no Norte. No Sul e no Centro-Oeste, os dois ficam praticamente iguais."
         ]
@@ -266760,7 +266712,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "adaptogen",
     "type": "Comparativo de Suplemento",
     "title": "Adaptogen ou Growth: preço dos wheys, lactose e outras proteínas",
-    "seoTitle": "Adaptogen ou Growth: whey, preço e lactose",
+    "seoTitle": "Adaptogen ou Growth: preço dos wheys e lactose",
     "description": "Os wheys das duas marcas lado a lado pelo rótulo: proteína, calorias e carboidratos por dose, lactose, proteína de carne, sabores e o que cada loja cobra.",
     "metaDescription": "Adaptogen ou Growth? O CECILIA dá 10% OFF na Adaptogen. Compare o custo por proteína, o zero lactose e os sabores; carne e ervilha ficam à parte.",
     "image": "/images/reviews/adaptogen/adaptogen-ou-growth-capa-v2.webp",
@@ -266802,13 +266754,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Growth custa menos por 100 g de proteína nos quatro pares de whey comparados, inclusive no zero lactose. A Adaptogen oferece o Tasty Whey com 23 sabores anunciados e proteína de carne, que não encontramos no catálogo da Growth. O cupom CECILIA na Adaptogen dá 10% OFF; compare abaixo as linhas e os preços."
+          "A Growth custa menos por 100 g de proteína nos quatro pares de whey comparados, inclusive no zero lactose. A Adaptogen oferece o Tasty Whey com 23 sabores anunciados e proteína de carne, que não encontramos no catálogo da Growth. O [cupom Adaptogen](/cupons/adaptogen) CECILIA dá 10% OFF; compare abaixo as linhas e os preços."
         ]
       },
       {
         "heading": "Quais linhas entram na comparação",
         "paragraphs": [
-          "Entram os concentrados, os 3W, os isolados e os produtos declarados zero lactose. As proteínas de carne e ervilha ficam separadas. O HIT Protein não entra nos pares de whey porque mistura whey e colágeno sem informar a proporção de cada fonte.",
+          "Entram os concentrados, os 3W, os isolados e os produtos declarados zero lactose. As proteínas de carne e ervilha ficam separadas. O [HIT Protein](https://www.adaptogen.com.br/produto/hit-protein-bag-900g-8-sabores-150309?parceiro=CECILIA) não entra nos pares de whey porque mistura whey e colágeno sem informar a proporção de cada fonte.",
           "Confira o sabor e a porção da embalagem antes de comprar. As porções citadas servem às contas de composição e preço, não à indicação de quanto tomar.",
           "As páginas da Growth usadas são [100% Whey Concentrado](https://www.gsuplementos.com.br/100-whey-protein-concentrado-chocolate), [3W](https://www.gsuplementos.com.br/3-whey-protein-1kg-growth-supplements-p985944), [Isolado](https://www.gsuplementos.com.br/top-whey-protein-isolado-1kg-growth-supplements-p985937) e [Zero Lactose](https://www.gsuplementos.com.br/whey-protein-zero-lactose). O [guia Adaptogen é boa?](/reviews/adaptogen-e-boa) mostra os produtos da marca sozinha, e [Adaptogen ou Dux](/reviews/adaptogen-ou-dux) compara a linha com a Dux."
         ]
@@ -266816,7 +266768,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Concentrado: Gold Whey ou Growth 100% Whey",
         "paragraphs": [
-          "Os dois declaram 21 g de proteína em porção de 30 g. O Gold tem 6 kcal a menos e 0,5 g de carboidratos a mais nessa porção; a Growth tem menor custo por proteína. No cartão, as embalagens estavam em R$ 133,22 na Growth e R$ 223,48 na Adaptogen."
+          "Os dois declaram 21 g de proteína em porção de 30 g. O [Gold](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) tem 6 kcal a menos e 0,5 g de carboidratos a mais nessa porção; a Growth tem menor custo por proteína. No cartão, as embalagens estavam em R$ 133,22 na Growth e R$ 223,48 na Adaptogen."
         ],
         "comparisonTable": {
           "caption": "Valores publicados para as porções consultadas; podem variar conforme o sabor. As porções têm tamanhos diferentes.",
@@ -266864,13 +266816,13 @@ export const reviewsData: unknown[] = [
               "2,5 g"
             ],
             [
-              "Adaptogen Tasty Whey 3W 900 g",
+              "Adaptogen [Tasty Whey 3W 900 g](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
               "34 g / 24 g",
               "134 kcal",
               "4,3 g"
             ],
             [
-              "Adaptogen Adapto Whey 3W 900 g",
+              "Adaptogen [Adapto Whey 3W 900 g](https://www.adaptogen.com.br/produto/adapto-whey-3w-900g-6-sabores-150302?parceiro=CECILIA)",
               "32 g / 25 g",
               "128 kcal",
               "2,5 g"
@@ -266881,7 +266833,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Isolado e zero lactose: compare o produto certo",
         "paragraphs": [
-          "Para quem precisa de uma opção declarada zero lactose, o par é Tasty Iso e Growth Zero Lactose. O (TOP) Isolado da Growth continua na tabela como isolado, mas declara lactose.",
+          "Para quem precisa de uma opção declarada zero lactose, o par é [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) e Growth Zero Lactose. O (TOP) Isolado da Growth continua na tabela como isolado, mas declara lactose.",
           "O Tasty Iso tem 115 kcal por porção, contra 116 kcal do (TOP) Isolado, mas fornece 25 g de proteína contra 27 g. Na conta para obter os mesmos 25 g de proteína, seriam cerca de 107 kcal do isolado da Growth e 115 kcal do Tasty. A diferença de 1 kcal por porção não sustenta uma indicação para emagrecer.",
           "No cartão, as embalagens estavam em R$ 377,66 no (TOP) Isolado da Growth, R$ 391,80 no Tasty Iso e R$ 288,78 no Growth Zero Lactose. A comparação por proteína está abaixo."
         ],
@@ -266918,8 +266870,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lactose, proteína do leite e glúten",
         "paragraphs": [
-          "As duas marcas têm opção declarada zero lactose: o Tasty Iso da Adaptogen e o Whey Protein Zero Lactose da Growth. Isso não vale para todo isolado: o (TOP) Isolado da Growth declara lactose, segundo a página.",
-          "Na Adaptogen, a página descreve o Tasty Iso como isolado e hidrolisado e como zero lactose, e avisa que o sabor Cookies and Cream tem glúten. A 100% Beef, segundo a página, não tem lactose, glúten nem colágeno. Já o Tasty Whey 3W, pela página, contém lactose.",
+          "As duas marcas têm opção declarada zero lactose: o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) da Adaptogen e o Whey Protein Zero Lactose da Growth. Isso não vale para todo isolado: o (TOP) Isolado da Growth declara lactose, segundo a página.",
+          "Na Adaptogen, a página descreve o Tasty Iso como isolado e hidrolisado e como zero lactose, e avisa que o sabor Cookies and Cream tem glúten. A [100% Beef](https://www.adaptogen.com.br/produto/100-beef-900g-150200?parceiro=CECILIA), segundo a página, não tem lactose, glúten nem colágeno. Já o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA), pela página, contém lactose.",
           "Zero lactose não significa ausência de proteína do leite. Quem tem alergia precisa de orientação médica e da conferência dos alérgenos da embalagem, inclusive nas opções de outra origem."
         ],
         "images": [
@@ -266936,9 +266888,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Carne e ervilha: opções fora do whey",
         "paragraphs": [
-          "Para quem procura outra origem de proteína, a Adaptogen oferece a 100% Beef, de carne bovina, e o Vegan Iso, de ervilha. A página da Beef declara ausência de lactose, glúten e colágeno. A Growth também vende proteínas vegetais e albumina, de ovo; não encontramos proteína de carne no catálogo consultado.",
+          "Para quem procura outra origem de proteína, a Adaptogen oferece a [100% Beef](https://www.adaptogen.com.br/produto/100-beef-900g-150200?parceiro=CECILIA), de carne bovina, e o [Vegan Iso](https://www.adaptogen.com.br/produto/vegan-iso-450g-3-sabores-150437?parceiro=CECILIA), de ervilha. A página da Beef declara ausência de lactose, glúten e colágeno. A Growth também vende proteínas vegetais e albumina, de ovo; não encontramos proteína de carne no catálogo consultado.",
           "A comparação com as proteínas vegetais da Growth fica em aberto: seus rótulos e preços não entraram neste levantamento. O Vegan Iso aparece como opção do catálogo da Adaptogen, sem vantagem de preço demonstrada sobre as opções vegetais da outra loja.",
-          "Na Beef, a tabela nutricional varia entre sabores. No Vegan Iso, a foto da frente da embalagem diz zero açúcar, mas a tabela publicada mostra 2,7 g de açúcares adicionados por porção. Confira com a loja o rótulo do sabor que será enviado antes de escolher por esse critério."
+          "Na Beef, a tabela nutricional varia entre sabores. No Vegan Iso, confira a tabela nutricional da embalagem do sabor que chegar, inclusive os açúcares: a página atual não traz texto sobre esse ponto."
         ],
         "images": [
           {
@@ -266953,7 +266905,7 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/adaptogen/adaptogen-vegan-iso-450g.webp",
             "alt": "Pote do Vegan Iso 450 g da Adaptogen, proteína isolada de ervilha, em foto oficial da loja",
             "caption": "Foto oficial da Adaptogen. A foto leva à página do produto na loja.",
-            "href": "https://www.adaptogen.com.br/produto/vegan-iso-450g-150437?parceiro=CECILIA",
+            "href": "https://www.adaptogen.com.br/produto/vegan-iso-450g-3-sabores-150437?parceiro=CECILIA",
             "objectFit": "contain",
             "aspectRatio": 1
           }
@@ -266988,7 +266940,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem escolhe pelo sabor",
         "paragraphs": [
-          "Aqui vale só a contagem de sabores que cada página informa, e os formatos. A Adaptogen tem 23 sabores no Tasty Whey 3W, 9 no Gold Whey, 7 no Tasty Iso e 6 no Adapto Whey 3W. A 100% Beef e o Vegan Iso têm 3 cada um.",
+          "Aqui vale só a contagem de sabores que cada página informa, e os formatos. A Adaptogen tem 23 sabores no [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA), 9 no [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA), 7 no [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) e 6 no [Adapto Whey 3W](https://www.adaptogen.com.br/produto/adapto-whey-3w-900g-6-sabores-150302?parceiro=CECILIA). A [100% Beef](https://www.adaptogen.com.br/produto/100-beef-900g-150200?parceiro=CECILIA) e o [Vegan Iso](https://www.adaptogen.com.br/produto/vegan-iso-450g-3-sabores-150437?parceiro=CECILIA) têm 3 cada um.",
           "Na Growth, o concentrado, o 3W e o isolado têm 3 sabores cada, e o Zero Lactose tem 5. O concentrado vem em 450 g, 750 g e 900 g; o Zero Lactose, em 450 g e 1 kg; o 3W e o isolado, em 1 kg. Na Adaptogen, o Tasty Whey 3W também vem em pack de 12 sachês de 34 g, e o Adapto Whey em bag de 2,2 kg.",
           "Confira quais sabores estão disponíveis: a quantidade anunciada no catálogo não significa que todos estejam à venda no momento da compra."
         ]
@@ -266996,8 +266948,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço com o cupom: a Growth ganha nos quatro pares",
         "paragraphs": [
-          "Os preços da Adaptogen foram lidos na vitrine de campanha da Black Friday, explicada no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen). Os da Growth são os do site dela, lidos no mesmo dia, 18 de novembro de 2026.",
-          "A coluna com o CECILIA é conta nossa: 10% sobre o preço do cartão da Adaptogen. Nos nossos testes, o cupom somou com os preços de campanha, mas o desconto foi confirmado em carrinho com outros produtos da loja, não com estes wheys."
+          "Os preços da Adaptogen foram lidos na vitrine de campanha da Black Friday, explicada no [guia da Black Friday da Adaptogen](/reviews/black-friday-adaptogen). Os da Growth são os do site dela, lidos na mesma semana.",
+          "A coluna com o CECILIA é conta nossa: 10% sobre o preço do cartão da Adaptogen. O [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA), o [Tasty Whey 3W](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA) e o [Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA) foram testados com o cupom no carrinho, e ele somou com o preço de campanha, como mostra o [artigo do Tasty Iso](/reviews/tasty-iso-adaptogen-vale-a-pena): R$ 352,59, R$ 243,20 e R$ 201,12. O [Adapto Whey 3W](https://www.adaptogen.com.br/produto/adapto-whey-3w-900g-6-sabores-150302?parceiro=CECILIA), a [Beef](https://www.adaptogen.com.br/produto/100-beef-900g-150200?parceiro=CECILIA) e o [Vegan Iso](https://www.adaptogen.com.br/produto/vegan-iso-450g-3-sabores-150437?parceiro=CECILIA) ficam só na conta."
         ],
         "comparisonTable": {
           "caption": "Preço por 100 g de proteína, sem frete. Adaptogen com 10% do CECILIA calculados sobre o cartão da campanha; Growth no cartão publicado, sem cupom nosso.",
@@ -267077,22 +267029,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na Growth, o valor do frete grátis muda com o estado: escolha o seu no topo do site para ver o número."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/adaptogen/cupom-adaptogen-checkout-com-cupom.webp",
-            "alt": "Resumo do carrinho na Adaptogen com o campo Cupom de desconto preenchido com CECILIA, a mensagem Cupom aplicado e a linha Cupom de R$ 24,49",
-            "caption": "Checkout da Adaptogen com o cupom CECILIA aplicado no carrinho de teste.",
-            "objectFit": "contain",
-            "aspectRatio": 0.58
-          }
         ]
       },
       {
         "heading": "Adaptogen ou Growth: qual escolher?",
         "paragraphs": [
-          "Se o critério é custo por proteína nos wheys comparados, a escolha é a Growth. Para zero lactose, ela também tem uma opção declarada e mais barata que o Tasty Iso nesta conta.",
-          "A Adaptogen entra por uma preferência concreta: um sabor anunciado do Tasty, a escolha específica do Tasty Iso ou a proteína de carne da Beef, que não encontramos no catálogo da Growth. Isso não comprova melhor sabor, digestão ou resultado. Confira o rótulo, a variação disponível e o total entregue antes de decidir."
+          "Se o critério é custo por proteína nos wheys comparados, a escolha é a Growth. Para zero lactose, ela também tem uma opção declarada e mais barata que o [Tasty Iso](https://www.adaptogen.com.br/produto/tasty-iso-900g-7-sabores-150214?parceiro=CECILIA) nesta conta.",
+          "A Adaptogen entra por uma preferência concreta: um sabor anunciado do Tasty, a escolha específica do Tasty Iso ou a proteína de carne da [Beef](https://www.adaptogen.com.br/produto/100-beef-900g-150200?parceiro=CECILIA), que não encontramos no catálogo da Growth. Isso não comprova melhor sabor, digestão ou resultado. Confira o rótulo, a variação disponível e o total entregue antes de decidir."
         ]
       },
       {
@@ -310715,7 +310658,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -310764,7 +310707,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Tasty Iso declara 25 g de proteína por dose, e a Adaptogen anuncia zero lactose na maioria dos sabores: confira o rótulo do sabor escolhido. No carrinho com o CECILIA, saiu mais caro por 100 g de proteína que o Tasty Whey 3W e o Gold Whey. Compensa para quem quer o isolado; pelo preço, ganha o Gold Whey."
+          "O Tasty Iso declara 25 g de proteína por dose, e a Adaptogen anuncia zero lactose na maioria dos sabores: confira o rótulo do sabor escolhido. No carrinho com o [cupom Adaptogen](/cupons/adaptogen) (CECILIA), saiu mais caro por 100 g de proteína que o Tasty Whey 3W e o Gold Whey. Compensa para quem quer o isolado; pelo preço, ganha o Gold Whey."
         ]
       },
       {
@@ -310797,7 +310740,7 @@ export const reviewsData: unknown[] = [
           "A Adaptogen vende o Tasty Iso em quatro apresentações. No Naturalle e no Bag, a porção em gramas só aparece nas imagens das tabelas nutricionais; a página do Pure informa cerca de 30 g no modo de uso."
         ],
         "comparisonTable": {
-          "caption": "Preços da vitrine em 21/11/2026, sem cupom. Pix e cartão aparecem separados; nenhum deles inclui o CECILIA. As porções vêm das imagens das tabelas.",
+          "caption": "Preços da vitrine na leitura do guia, sem cupom. Pix e cartão aparecem separados; nenhum deles inclui o CECILIA. As porções vêm das imagens das tabelas.",
           "headers": [
             "Produto",
             "Pix",
@@ -310857,10 +310800,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto sai por 100 g de proteína",
         "paragraphs": [
-          "Dividimos o preço de cada pote pela proteína total declarada para a embalagem e multiplicamos por 100. O teste de carrinho usa Banana no Tasty Iso, Banoffee no 3W e Baunilha no Gold, sem desconto de Pix. A página do Tasty Whey 3W informa porção de 34 g, cerca de 26 porções e 24 g de proteína, como valores de referência que podem variar conforme o sabor."
+          "Dividimos o preço de cada pote pela proteína total declarada para a embalagem e multiplicamos por 100. O teste de carrinho usa Banana no Tasty Iso, Banoffee no 3W e Baunilha no Gold, sem desconto de Pix. A página do Tasty Whey 3W informa porção de 34 g, cerca de 26 porções e 24 g de proteína por porção, ou cerca de 635 g de proteína no pote (900 g ÷ 34 g × 24 g), como valores de referência que podem variar conforme o sabor."
         ],
         "comparisonTable": {
-          "caption": "Carrinhos com CECILIA. A conta usa porções por embalagem × gramas de proteína por porção. Para o Tasty Whey 3W, a base foi a tabela de referência da página: cerca de 26 porções com 24 g de proteína cada.",
+          "caption": "Carrinhos com CECILIA. A conta usa porções por embalagem × gramas de proteína por porção. Para o Tasty Whey 3W, a base foi a tabela de referência da página: pote de 900 g dividido pela dose de 34 g, vezes 24 g de proteína.",
           "headers": [
             "Produto de 900 g",
             "Carrinho com o CECILIA",
@@ -310877,8 +310820,8 @@ export const reviewsData: unknown[] = [
             [
               "[Tasty Whey 3W Gourmet](https://www.adaptogen.com.br/produto/tasty-whey-3w-gourmet-900g-23-sabores-150434?parceiro=CECILIA)",
               "R$ 243,20",
-              "cerca de 624 g",
-              "R$ 38,97"
+              "cerca de 635 g",
+              "R$ 38,30"
             ],
             [
               "[Gold Whey](https://www.adaptogen.com.br/produto/gold-whey-900g-9-sabores-150305?parceiro=CECILIA)",
@@ -310912,14 +310855,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Antes de começar um suplemento",
+        "heading": "Antes de começar e o que não dá para saber daqui",
         "paragraphs": [
-          "As porções citadas vêm da página e do rótulo e servem para calcular o custo, não para indicar quanto tomar. Quem tem doença renal, está grávida, amamenta ou usa medicamentos deve conversar com médico ou nutricionista antes de iniciar o uso."
-        ]
-      },
-      {
-        "heading": "O que não dá para saber daqui",
-        "paragraphs": [
+          "As porções citadas vêm da página e do rótulo e servem para calcular o custo, não para indicar quanto tomar. Quem tem doença renal, está grávida, amamenta ou usa medicamentos deve conversar com médico ou nutricionista antes de iniciar o uso.",
           "Sabor, textura e digestão ficam fora do que a página informa, e este guia não usa avaliações de clientes."
         ]
       },
