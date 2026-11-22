@@ -4323,7 +4323,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'lamazonie',
-    cartPrint: { src: '/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp', alt: "Resumo do checkout da L'Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60", aspectRatio: 1.06 },
+    cartPrint: { article: 'cupom-lamazonie-como-usar', src: '/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp', alt: "Resumo do checkout da L'Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60", aspectRatio: 1.06 },
     brand: "L'Amazonie",
     officialUrl: 'https://www.lamazonie.com.br/',
     offerUrl: 'https://www.lamazonie.com.br/',
@@ -4354,7 +4354,7 @@ const STORE_COUPONS: Coupon[] = [
       'Soma com as promoções vigentes do site e com os 3% de desconto do Pix, e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional: no teste, os 5% entraram num kit de protetores em promoção' },
-      { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a loja dá 3% de desconto, que soma com o código' },
+      { benefit: 'pix', stacks: 'sim', condition: 'A loja anuncia 3% de desconto no Pix no checkout; o código e o desconto do Pix são calculados à parte, sem virar um percentual único' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 para quase todo o Brasil; no Acre, no Piauí, em Rondônia e em Roraima, acima de R$ 500' },
     ],
     paymentPerks: [
@@ -4362,10 +4362,48 @@ const STORE_COUPONS: Coupon[] = [
       'Cashback de 15% para a próxima compra no site, com validade, que paga até 30% do pedido seguinte',
       'Garantia Mais Fios no sérum de sobrancelhas: sem fios novos em 60 dias de uso, a loja devolve o dinheiro',
     ],
-    lastVerified: '2026-11-16',
-    testedAt: '2026-11-16',
+    relatedContent: [
+      {
+        title: 'Cupom L\'Amazonie: como aplicar o CECILIA pelo botão Finalizar compra',
+        url: '/reviews/cupom-lamazonie-como-usar',
+        type: 'review',
+        publishedAt: '2026-11-16',
+      },
+      {
+        title: 'L’Amazonie é boa? O que conferir antes de comprar o sérum de sobrancelhas',
+        url: '/reviews/lamazonie-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-16',
+      },
+      {
+        title: 'Black Friday L’Amazonie 2026: o que é campanha, o que é kit da tabela regular e como o cupom entra',
+        url: '/reviews/black-friday-lamazonie',
+        type: 'review',
+        publishedAt: '2026-11-16',
+      },
+      {
+        title: 'L’Amazonie é confiável? CNPJ, Anvisa, garantia de 60 dias e devolução',
+        url: '/reviews/lamazonie-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-11-16',
+      },
+      {
+        title: 'L’Amazonie no Reclame Aqui: nota, reputação e o que mais gera reclamação',
+        url: '/reviews/lamazonie-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-16',
+      },
+      {
+        title: 'Cupom L’Amazonie primeira compra: CECILIA dá 5% OFF e vale nas compras seguintes',
+        url: '/reviews/cupom-lamazonie-primeira-compra',
+        type: 'review',
+        publishedAt: '2026-11-16',
+      },
+    ],
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      "Num carrinho com o Sérum para crescimento de Cílios e Sobrancelhas pelo preço cheio de R$ 159,00 e o Kit 2 Protetores Solares de Tratamento FPS 99 em promoção, de R$ 278,00 por R$ 249,00, o CECILIA tirou R$ 20,40 dos R$ 408,00 e o total caiu para R$ 387,60: os 5% entraram também sobre o kit em promoção. Em outro carrinho do mesmo dia, de R$ 966,00, com o Kit Completo Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza e o Sérum Clareador Vitamina C20 de 3 unidades, o desconto foi de R$ 48,30, e o total ficou em R$ 917,70, com frete grátis.",
+      'No checkout seguro.lamazonie.com.br, com a oferta de Black Friday do Sérum para crescimento de Cílios e Sobrancelhas com protetor de brinde, de R$ 159,00, o CECILIA tirou R$ 7,95 e o total caiu para R$ 151,05, 5% do pedido. No teste anterior, os 5% também entraram sobre o Kit 2 Protetores Solares de Tratamento FPS 99 em promoção, de R$ 278,00 por R$ 249,00.',
     codeInstructions: [
       'Copie o código CECILIA no card acima.',
       "Acesse o site oficial da L'Amazonie pelo botão indicado, coloque os produtos no carrinho e clique em Finalizar compra.",
@@ -4383,7 +4421,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: "O cupom CECILIA soma com o desconto do Pix na L'Amazonie?",
         answer:
-          "Sim. O cupom vale com todas as formas de pagamento e, no Pix, a L'Amazonie ainda dá 3% de desconto. No cartão de crédito, a loja parcela em até 6x sem juros e aceita Visa, Mastercard, Elo, American Express, Diners, Discover e Hipercard.",
+          "Sim. O cupom vale com todas as formas de pagamento e, no Pix, a L'Amazonie anuncia 3% de desconto no checkout. Os dois descontos são calculados à parte, sem virar um percentual único. No cartão de crédito, a loja parcela em até 6x sem juros e aceita Visa, Mastercard, Elo, American Express, Diners, Discover e Hipercard.",
       },
       {
         question: "O cupom L'Amazonie vale na primeira compra?",

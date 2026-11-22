@@ -249382,6 +249382,8 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
+    "updatedAt": "2026-11-22",
+    "bodyDatesReason": "campanha",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -249412,14 +249414,17 @@ export const reviewsData: unknown[] = [
         "slug": "lamazonie-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-la-ganexa-como-usar"
+        "slug": "cupom-lamazonie-primeira-compra"
+      },
+      {
+        "slug": "black-friday-lamazonie"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom CECILIA dá 5% OFF na L'Amazonie, para cliente novo e antigo. No teste, funcionou no checkout aberto pelo botão Finalizar compra. Digite em Tem um cupom?, clique em Adicionar e confira o desconto. Soma com o Pix e, no carrinho testado, entrou também em um kit em promoção."
+          "O cupom CECILIA dá 5% OFF na L'Amazonie, para cliente novo e antigo. No teste, funcionou no checkout aberto pelo botão Finalizar compra, no campo Tem um cupom?, sobre um kit em promoção e sobre a oferta de Black Friday. A loja anuncia 3% no Pix; não testamos o Pix junto com o cupom."
         ]
       },
       {
@@ -249457,28 +249462,34 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom tira: a conta do nosso teste",
         "paragraphs": [
-          "Em 16 de novembro de 2026, montamos um carrinho com dois itens. O Sérum para crescimento de Cílios e Sobrancelhas custava R$ 159,00. O Kit 2 Protetores Solares de Tratamento FPS 99 custava R$ 249,00. Dois protetores avulsos, a R$ 159,00 cada, sairiam mais caros.",
-          "Com o código, os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. A linha Descontos mostrou R$ 20,40. São 5% sobre os produtos do carrinho, inclusive sobre o kit."
+          "Em 16/11 montamos um carrinho com dois itens. O [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas) custava R$ 159,00. O [Kit 2 Protetores Solares de Tratamento FPS 99](https://www.lamazonie.com.br/products/kit-2-protetores-solar-facial-stick) custava R$ 249,00. Dois protetores avulsos, a R$ 159,00 cada, sairiam mais caros.",
+          "Com o código, os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. A linha Descontos mostrou R$ 20,40. São 5% sobre os produtos do carrinho, inclusive sobre o kit.",
+          "No teste de 22/11, repetimos o caminho com a oferta de Black Friday de [sérum de sobrancelhas com o protetor solar incolor FPS 99 de presente](https://www.lamazonie.com.br/products/bf-serum-sobrancelhas-protetor-gratis), a R$ 159,00. No checkout seguro.lamazonie.com.br, o CECILIA foi aceito (“Cupom adicionado”), e o total foi de R$ 159,00 para R$ 151,05, com desconto de R$ 7,95. Paramos antes dos dados pessoais, então o frete não foi calculado."
         ]
       },
       {
         "heading": "O cupom soma com kit, promoção e Pix?",
         "paragraphs": [
-          "Com kit em promoção, somou no nosso teste. Os 5% saíram do preço do kit, que já era menor que o de dois avulsos. Foi um kit testado, então confira a linha Descontos no seu carrinho.",
-          "No Pix, a loja dá 3% de desconto, e o checkout avisa “Você ganhou 3% de desconto pagando com Pix”. Esse desconto é da forma de pagamento e vem à parte do desconto do código. Não chegamos à etapa do pagamento no teste, então escolha o Pix e confira o total do resumo antes de pagar."
+          "Com kit em promoção, somou no nosso teste. Os 5% saíram do preço do kit, que já era menor que o de dois avulsos. Na oferta de Black Friday do sérum, de 22/11, o código também entrou sobre o preço da oferta. Foram dois itens testados, então confira a linha Descontos no seu carrinho.",
+          "Sobre o Pix, o que sabemos é o que a loja anuncia: o checkout mostra “Você ganhou 3% de desconto pagando com Pix”. Não testamos o Pix junto com o cupom, porque paramos antes do pagamento. Escolha a forma de pagamento e confira o total do resumo antes de concluir.",
+          "Por isso, não trate os dois percentuais como um número só. O desconto do código é o que você vê na linha Descontos; o que o Pix muda no total só aparece na etapa do pagamento."
         ]
       },
       {
         "heading": "Frete: olhe o total entregue",
         "paragraphs": [
           "O desconto do código é sobre os produtos. A loja informa frete grátis acima de R$ 199 para quase todo o Brasil e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima.",
-          "Um sérum sozinho, a R$ 159,00, fica abaixo dos R$ 199, e a página do produto sugere levar mais uma unidade para ganhar o frete. Antes de decidir, simule com o seu CEP e compare o total entregue, produtos mais frete, nas duas quantidades. Confira também o frete depois de aplicar o código."
+          "Um sérum sozinho, a R$ 159,00, fica abaixo dos R$ 199, e a página do [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas) sugere levar mais uma unidade para ganhar o frete. Antes de decidir, simule com o seu CEP e compare o total entregue, produtos mais frete, nas duas quantidades.",
+          "Confira também o frete depois de aplicar o código: ele muda o total do carrinho e pode mudar se você passou ou não do mínimo da loja. Não vimos como a loja conta esse mínimo, antes ou depois do desconto, então a simulação com o CEP é o que decide.",
+          "Quem compra o kit de protetores, a R$ 249,00, já passa dos R$ 199 antes do código; no total de dois itens do nosso teste, a conta ficou bem acima disso."
         ]
       },
       {
         "heading": "Cashback é crédito para depois",
         "paragraphs": [
-          "O checkout anuncia 15% de cashback para a próxima compra. Segundo a loja, é um crédito com validade para um pedido futuro, separado do preço que você paga hoje. Não testamos o uso desse crédito. Para a compra de agora, o que conta é o total do resumo."
+          "O checkout anuncia 15% de cashback para a próxima compra. Segundo a loja, é um crédito com validade para um pedido futuro, que vale só em compras no site e cobre até 30% desse pedido.",
+          "Ele aparece como uma linha à parte no resumo, e não muda o preço que você paga hoje. Não testamos o uso desse crédito, e a loja não escreve como ele convive com o código de desconto, por isso tratamos os dois como coisas separadas.",
+          "Para a compra de agora, o que conta é o total do resumo: confira a linha Descontos e o valor final antes de pagar."
         ]
       },
       {
@@ -249495,7 +249506,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale para quem já é cliente?",
         "paragraphs": [
-          "Vale. O CECILIA serve para o primeiro pedido e para os seguintes. O mesmo código existe em outra loja parceira, a La Ganexa, com outro percentual ([como usar o CECILIA na La Ganexa](/reviews/cupom-la-ganexa-como-usar)). Na L'Amazonie, são 5%."
+          "Vale. O CECILIA serve para o primeiro pedido e para os seguintes, então dá para usar de novo em cada compra no site oficial. Em cada pedido, repita o caminho: Finalizar compra, campo Tem um cupom?, Adicionar e conferir a linha Descontos.",
+          "O mesmo código existe em outra loja parceira, a La Ganexa, com outro percentual ([como usar o CECILIA na La Ganexa](/reviews/cupom-la-ganexa-como-usar)). Na L'Amazonie, são 5%: não leve a porcentagem de uma loja para a outra.",
+          "Se você ainda vai escolher o que comprar, o guia de [primeira compra](/reviews/cupom-lamazonie-primeira-compra) e o da [Black Friday](/reviews/black-friday-lamazonie) mostram os preços e as ofertas do site."
         ]
       },
       {
@@ -249503,7 +249516,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Onde coloco o cupom na L'Amazonie? No checkout aberto pelo botão “Finalizar compra”, no campo “Tem um cupom?” do resumo. Clique em “Adicionar” e confira a linha Descontos.",
           "Por que aparece “Insira um código de desconto válido”? No nosso teste, a mensagem apareceu quando digitamos o código na página lamazonie.com.br/checkout, no campo “Código de desconto”. Volte ao carrinho, clique em “Finalizar compra” e use o campo “Tem um cupom?”.",
-          "O cupom vale nos kits em promoção? No nosso teste, valeu. Os 5% entraram sobre o preço de um kit de protetores.",
+          "O cupom vale nos kits em promoção? No nosso teste, valeu. Os 5% entraram sobre o preço de um kit de protetores e sobre a oferta de Black Friday do sérum de sobrancelhas.",
+          "O cupom soma com o Pix? A loja anuncia 3% de desconto no Pix, mas não testamos o Pix junto com o cupom. Confira o total do resumo na etapa do pagamento.",
           "O cupom vale no Mercado Livre? Não. O código vale no site oficial da L'Amazonie. Em marketplace, vale o preço do anúncio.",
           "O cupom CECILIA vale para quem já é cliente? Vale, no primeiro pedido e nos seguintes."
         ]
@@ -249537,7 +249551,7 @@ export const reviewsData: unknown[] = [
     "title": "L’Amazonie no Reclame Aqui: nota, reputação e o que mais gera reclamação",
     "seoTitle": "L’Amazonie no Reclame Aqui: nota e reclamações",
     "type": "Análise de Reputação",
-    "description": "A nota da L’Amazonie no Reclame Aqui, o tamanho da base por trás dela, as queixas mais citadas e o que conferir sobre entrega e devolução antes de comprar.",
+    "description": "A nota da L’Amazonie no Reclame Aqui em cinco janelas, o tamanho da base por trás dela, as queixas mais citadas e o que conferir sobre entrega e devolução.",
     "metaDescription": "CECILIA dá 5% OFF na L’Amazonie. Veja a nota no Reclame Aqui, as queixas mais citadas e por que a base pequena de avaliações pede cuidado na leitura.",
     "image": "/images/reviews/lamazonie/lamazonie-reclame-aqui-nota-reputacao-capa-v2.webp",
     "imageAlt": "Modelo com o protetor solar em bastão com cor da L’Amazonie junto à bochecha, em foto oficial. A capa traz o logo L’Amazonie e a chamada “Reclame Aqui — Nota e queixas”, com o cupom CECILIA.",
@@ -249560,104 +249574,127 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A L’Amazonie tem reputação Boa e nota 7,0 no Reclame Aqui, com todas as reclamações do recorte de seis meses respondidas. A base é pequena, com 30 reclamações e 16 avaliadas, então cada avaliação nova mexe na nota. No histórico geral do perfil, a queixa mais citada é atraso na entrega."
+          "A L’Amazonie tem reputação Boa, nota 7,2 no Reclame Aqui nos últimos 6 meses, selo Empresa Verificada e 100% das reclamações respondidas. A base é pequena, com 18 avaliadas, e o atraso na entrega lidera os motivos na aba Geral. Se decidir comprar, o [cupom L’Amazonie](/cupons/lamazonie) CECILIA dá 5% OFF."
         ]
       },
       {
-        "heading": "A nota em números",
+        "heading": "A nota e os indicadores do período",
         "paragraphs": [
-          "O [perfil L’Amazonie no Reclame Aqui](https://www.reclameaqui.com.br/empresa/l-amazonie/) mostra os indicadores por período. Na leitura de 16 de novembro de 2026, os dois recortes mais recentes eram o de seis meses, de maio a outubro de 2026, e o de doze meses, de novembro de 2025 a outubro de 2026."
+          "O [perfil L’Amazonie no Reclame Aqui](https://www.reclameaqui.com.br/empresa/l-amazonie/) mostra os indicadores por janela. A tabela traz as cinco que o perfil oferece, lidas em 22/11. As janelas de 6 e de 12 meses se sobrepõem, e a aba Geral soma até três anos."
         ],
         "comparisonTable": {
-          "caption": "Perfil “L’Amazonie” no Reclame Aqui. As janelas de 6 e de 12 meses se sobrepõem.",
+          "caption": "Perfil “L’Amazonie” no Reclame Aqui, lido em 22/11. O perfil não calcula índice para 2024, que teve menos de 10 avaliadas.",
           "headers": [
             "Indicador",
             "6 meses",
-            "12 meses"
+            "12 meses",
+            "2025",
+            "2024",
+            "Geral"
           ],
           "rows": [
             [
               "Reputação",
-              "Boa",
-              "Boa"
-            ],
-            [
-              "Nota",
-              "7,0",
-              "7,4"
+              "Boa 7,2",
+              "Boa 7,5",
+              "Boa 7,6",
+              "Sem índice",
+              "Boa 7,4"
             ],
             [
               "Reclamações recebidas",
               "30",
-              "64"
+              "64",
+              "58",
+              "17",
+              "115"
             ],
             [
               "Respondidas",
               "100%",
+              "100%",
+              "100%",
+              "100%",
               "100%"
-            ],
-            [
-              "Problema resolvido, entre as avaliadas",
-              "75%",
-              "83,8%"
-            ],
-            [
-              "Voltariam a fazer negócio",
-              "56,3%",
-              "56,8%"
-            ],
-            [
-              "Avaliadas",
-              "16",
-              "37"
-            ],
-            [
-              "Nota média do consumidor",
-              "5,44",
-              "5,81"
             ],
             [
               "Tempo médio de resposta",
               "1 dia e 14 horas",
-              "2 dias e 15 horas"
+              "2 dias e 15 horas",
+              "4 dias e 9 horas",
+              "6 dias e 19 horas",
+              "3 dias e 22 horas"
+            ],
+            [
+              "Avaliadas",
+              "18",
+              "39",
+              "31",
+              "8",
+              "60"
+            ],
+            [
+              "Problema resolvido, entre as avaliadas",
+              "77,8%",
+              "84,6%",
+              "86,7%",
+              "–",
+              "84,7%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "61,1%",
+              "59%",
+              "60%",
+              "–",
+              "59,3%"
+            ],
+            [
+              "Nota média do consumidor",
+              "5,56",
+              "5,85",
+              "5,83",
+              "–",
+              "5,68"
             ]
           ]
         },
         "postParagraphs": [
-          "As notas 7,0 e 7,4 são calculadas pelo Reclame Aqui, e 5,44 e 5,81 são as médias que os consumidores deram ao atendimento. Pela [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui), o índice de solução e a intenção de voltar a comprar são calculados sobre as reclamações avaliadas, que são pouco mais da metade das recebidas."
+          "Os números de recebidas e de avaliadas são absolutos. Sem o total de pedidos da loja, o Reclame Aqui e este artigo não permitem transformar as 30 reclamações de 6 meses em uma proporção das vendas."
         ]
       },
       {
-        "heading": "Por que ler a nota com cuidado",
+        "heading": "O que a nota e o selo medem, e o que não medem",
         "paragraphs": [
-          "O recorte de seis meses tem 30 reclamações, e 16 foram avaliadas por quem reclamou. Como os índices de solução e de intenção de voltar a comprar usam essa base, poucas avaliações novas podem alterar o resultado. O efeito depende de quantas avaliações entram e de quais são as respostas.",
-          "O histórico mensal mostra essa oscilação. O perfil aparece sem índice em maio, junho e julho, com reputação Ótima em agosto e Boa em setembro e outubro.",
-          "O recorte de doze meses tem 37 avaliações e o histórico geral, que soma até três anos, tem 58. São bases um pouco maiores e contam uma história parecida, com mais de 80% de solução entre as avaliadas e de 57% a 58% de intenção de voltar a comprar."
+          "A nota de reputação, como 7,2, é calculada pelo Reclame Aqui a partir de como a empresa atende as reclamações registradas na plataforma. Ela não mede a qualidade do produto, a entrega de quem nunca reclamou nem a experiência de todos os clientes, e muda com o tempo, conforme entram reclamações e avaliações novas. A [metodologia da plataforma](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui) explica os critérios.",
+          "A nota média do consumidor, 5,56 no recorte de 6 meses, é outra coisa: é a média que quem reclamou deu ao atendimento recebido. O selo Empresa Verificada, que o perfil exibe, também não é uma avaliação de qualidade do produto. O perfil não mostra o selo RA1000."
         ]
       },
       {
-        "heading": "Como a nota mudou",
+        "heading": "Pontos positivos identificados",
         "paragraphs": [
-          "A aba de 2025 do perfil traz nota 7,6, com 58 reclamações, todas respondidas, 86,7% de solução entre as 31 avaliadas e 60% de consumidores que voltariam a comprar. No histórico geral, a nota é 7,4, com 116 reclamações, 99,1% respondidas e 84,2% de solução entre as avaliadas.",
-          "O tempo de resposta caiu. A média era de 4 dias e 9 horas em 2025 e ficou em 1 dia e 14 horas no recorte de seis meses. O índice de solução fez o caminho contrário, de 86,7% para 75%, sempre sobre poucas avaliações.",
-          "A aba de 2024 não trouxe dados na nossa leitura."
-        ]
-      },
-      {
-        "heading": "O que mais gera reclamação",
-        "paragraphs": [
-          "Na aba geral do perfil, o problema mais citado é “Atraso na entrega”, com 43,1% das reclamações.",
-          "As reclamações mais recentes da página, na data da leitura, tratavam destes temas:"
+          "Estes são os pontos que o perfil mostra a favor da L’Amazonie na leitura de 22/11:"
         ],
         "bullets": [
-          "pedido que não saiu no prazo de envio informado;",
-          "pedido parado em separação;",
-          "compra não recebida e e-mail sem resposta;",
-          "produtos não recebidos;",
-          "sérum que chegou vazio."
+          "**Empresa Verificada.** O perfil tem o selo e informa 5 anos de cadastro no Reclame Aqui.",
+          "**Reputação Boa.** Boa nos recortes de 6 meses (7,2), de 12 meses (7,5) e de 2025 (7,6), e Boa também no Geral (7,4). O histórico do perfil vai de “Sem índice” a “Boa”.",
+          "**100% respondidas.** Todas as reclamações de todas as janelas tiveram resposta da empresa, sem nenhuma aguardando.",
+          "**Tempo de resposta caindo.** A média era de 4 dias e 9 horas em 2025 e ficou em 1 dia e 14 horas nos últimos 6 meses.",
+          "**Solução e intenção de voltar.** Entre as avaliadas, 77,8% tiveram o problema considerado resolvido e 61,1% voltariam a fazer negócio nos últimos 6 meses. Os dois índices valem só para as reclamações avaliadas, e não para todos os clientes."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "A base é pequena. O recorte de 6 meses tem 30 reclamações e 18 avaliadas, então uma ou duas avaliações novas mudam os índices de solução e de intenção de voltar. A nota 7,2 de agora pode ser outra na próxima leitura, e foi por isso que a tabela mostra as cinco janelas lado a lado.",
+          "A solução caiu na comparação entre janelas, de 86,7% em 2025 para 77,8% nos últimos 6 meses, sempre sobre poucas avaliadas. O ponto mais citado fica na aba Geral, que cobre até três anos e é outro período, diferente do semestre:"
+        ],
+        "bullets": [
+          "**Atraso na entrega:** 43,48% das reclamações da aba Geral.",
+          "**“Não encontrei meu problema”:** 6,96% das reclamações da aba Geral."
         ],
         "postParagraphs": [
-          "Todas tinham resposta da empresa. São relatos dos consumidores; a leitura não permite estimar a frequência de cada problema nem concluir quem tem razão em cada caso."
+          "Os dois percentuais são da aba Geral e não dizem nada sobre o semestre. Também não dizem quem tinha razão em cada caso, porque são relatos de consumidores."
         ]
       },
       {
@@ -249665,27 +249702,21 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A [política de frete da L’Amazonie](https://www.lamazonie.com.br/policies/shipping-policy) informa envio pelos Correios (PAC e SEDEX) e pela Total Express, só para o Brasil. O despacho acontece em até 3 dias úteis depois da compensação do pagamento, que pode levar de 24 a 72 horas. O prazo de entrega só começa a contar depois da postagem.",
           "O código de rastreio chega por e-mail depois do faturamento e fica na conta do cliente, em Meus Pedidos. A página avisa que ele só passa a funcionar quando a agência registra o recebimento do pacote.",
-          "A mesma política diz que o cumprimento do prazo é de responsabilidade dos Correios e da Total Express e pede que o cliente avise a central de atendimento em caso de problema. Dos cinco relatos recentes que lemos, quatro tratam de envio ou de entrega."
+          "A mesma política diz que o cumprimento do prazo é de responsabilidade dos Correios e da Total Express e pede que o cliente avise a central de atendimento em caso de problema. Como o atraso é o motivo mais citado, vale conhecer essas etapas antes de pagar."
         ]
       },
       {
-        "heading": "Qual perfil é o da L’Amazonie",
+        "heading": "Como a loja responde e o que conferir antes de comprar",
         "paragraphs": [
-          "O perfil se chama “L’Amazonie”, tem o selo de empresa verificada, está na categoria de cuidados com a pele (dermocosméticos), aponta para o site lamazonie.com.br e informa que a empresa está no Reclame Aqui há 5 anos.",
-          "O CNPJ que aparece no perfil é 31.469.239/0001-39. O rodapé do site oficial traz outro: ABRAHAO VAREJISTA LTDA, CNPJ 60.522.061/0001-40."
-        ]
-      },
-      {
-        "heading": "O que conferir antes de comprar",
-        "paragraphs": [
-          "Entrega e devolução têm regra publicada pela loja. Vale conhecer antes de pagar:"
+          "O perfil se chama “L’Amazonie”, tem o selo de empresa verificada, está na categoria de cuidados com a pele (dermocosméticos) e aponta para o site lamazonie.com.br. O CNPJ que aparece no perfil do Reclame Aqui é 31.469.239/0001-39. O rodapé do checkout seguro.lamazonie.com.br traz ABRAHAO VAREJISTA LTDA, CNPJ 60.522.061/0001-40.",
+          "Os canais da própria loja são o WhatsApp do rodapé do checkout, (92) 98614-5476, e o e-mail sac@lamazonie.com.br. Tenha em mãos o número do pedido, a data da compra e o código de rastreio. Antes de comprar, confira:"
         ],
         "bullets": [
-          "**Prazo.** Simule frete e entrega pelo CEP. A política separa compensação do pagamento, despacho em até 3 dias úteis e transporte após a postagem. Confirme com a loja se a previsão mostrada no carrinho já inclui todas essas etapas.",
+          "**Prazo.** Simule frete e entrega pelo CEP. A política separa compensação do pagamento, despacho em até 3 dias úteis e transporte após a postagem. Confirme se a previsão mostrada no carrinho já inclui todas essas etapas.",
           "**Data marcada.** Para presente ou viagem, faça a conta com folga. A política cita datas festivas e greves entre os motivos de atraso.",
           "**Endereço.** Se o pacote voltar por endereço errado ou incompleto, o frete do reenvio é cobrado de novo. Quem pede o reembolso nesse caso recebe só o valor dos produtos.",
-          "**Devolução.** A [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. Para o arrependimento em compra online, o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que não se exija embalagem inviolada nem se cobre esse frete. Veja o detalhe em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
-          "**Produto com problema.** A página de devoluções não trata de produto com defeito ou vazio. Se acontecer, fotografe o pacote e o produto no dia em que chegar e fale com a loja."
+          "**Devolução.** A [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. As condições completas estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
+          "**Produto com problema.** A página de devoluções não trata de produto com defeito ou vazio. Se acontecer, fotografe o pacote e o produto no dia em que chegar, guarde o comprovante do pedido e fale com a loja pelos canais acima."
         ],
         "images": [
           {
@@ -249699,30 +249730,25 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Se der problema",
+        "heading": "Vale a pena comprar na L’Amazonie?",
         "paragraphs": [
-          "O primeiro canal é o da loja. O rodapé do site informa atendimento por WhatsApp e pelo e-mail sac@lamazonie.com.br, de segunda a sexta, das 9h às 19h, e aos sábados, das 8h às 12h. Tenha em mãos o número do pedido, a data da compra e o código de rastreio.",
-          "Se a loja não resolver, registre a reclamação no Reclame Aqui com esses dados. O Procon do seu estado também atende casos de compra pela internet."
-        ]
-      },
-      {
-        "heading": "O que os números indicam",
-        "paragraphs": [
-          "A L’Amazonie respondeu todas as reclamações dos dois recortes mais recentes, e o tempo médio de resposta é menor do que o de 2025. No recorte de seis meses, uma em cada quatro reclamações avaliadas não teve o problema considerado resolvido, e pouco mais da metade de quem avaliou voltaria a comprar. No histórico geral, a queixa mais citada é atraso na entrega, então a conta do prazo merece atenção antes do pagamento. Como a base é pequena, abra o perfil no dia da compra para ver a nota atual.",
-          "Quem vende, o que a Anvisa mostra sobre o sérum e as condições da garantia de 60 dias estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
-          "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial. As condições estão na [página do cupom da L’Amazonie](/cupons/lamazonie)."
+          "Pelo perfil, a L’Amazonie tem reputação Boa em todas as janelas com índice, selo de empresa verificada, 5 anos de cadastro, todas as reclamações respondidas e um tempo de resposta que caiu de 4 dias e 9 horas para 1 dia e 14 horas. Do outro lado, a base de avaliadas é pequena, a solução ficou em 77,8% nos últimos 6 meses e o atraso na entrega lidera os motivos da aba Geral.",
+          "Na prática, a conta do prazo merece atenção antes do pagamento, e o perfil vale uma abertura no dia da compra para ver a nota atual. Quem vende, o que a Anvisa mostra sobre o sérum e as condições da garantia de 60 dias estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
+          "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial e funciona no checkout seguro.lamazonie.com.br, aberto pelo botão “Finalizar compra” do carrinho. As condições estão na [página do cupom da L’Amazonie](/cupons/lamazonie), e o passo a passo, em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A L’Amazonie é confiável no Reclame Aqui? O perfil tem reputação Boa e todas as reclamações dos recortes de seis e doze meses receberam resposta. No recorte de seis meses, 75% das avaliadas tiveram o problema considerado resolvido e 56,3% de quem avaliou voltaria a comprar. A base é de 16 avaliações.",
-          "A L’Amazonie responde as reclamações? Sim. Nos dois recortes lidos, 100% das reclamações tiveram resposta. No de seis meses, a resposta levou 1 dia e 14 horas, em média.",
-          "O que fazer se o pedido da L’Amazonie não chegou? Confira o rastreio enviado por e-mail e lembre que o prazo conta da postagem, depois de até 3 dias úteis de despacho. Depois, fale com a loja pelo WhatsApp ou pelo e-mail do atendimento. Sem solução, registre no Reclame Aqui ou procure o Procon do seu estado.",
-          "A L’Amazonie devolve o dinheiro? Existe o direito de arrependimento em até sete dias do recebimento na compra online. A política da loja exige caixa lacrada e frete de retorno por conta do cliente; o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que essas exigências não sejam impostas para esse direito. Se houver dificuldade, procure o órgão de defesa do consumidor."
+          "A L’Amazonie é confiável no Reclame Aqui? O perfil tem selo de empresa verificada, 5 anos de cadastro e reputação Boa, com nota 7,2 nos últimos 6 meses. A base é pequena, de 18 avaliadas, e a nota muda com cada avaliação nova.",
+          "O que significa a reputação Boa da L’Amazonie? É a faixa que o Reclame Aqui dá a partir do atendimento às reclamações registradas na plataforma. Ela não mede a qualidade do produto nem a opinião de todos os clientes.",
+          "A L’Amazonie responde as reclamações? Sim. Em todas as janelas do perfil, 100% das reclamações tiveram resposta. A média de resposta nos últimos 6 meses foi de 1 dia e 14 horas, contra 4 dias e 9 horas em 2025.",
+          "O que fazer se o pedido da L’Amazonie não chegou? Confira o rastreio enviado por e-mail e lembre que o prazo conta da postagem, depois de até 3 dias úteis de despacho. Se o código não avançar, fale com a loja pelo WhatsApp (92) 98614-5476 ou pelo e-mail sac@lamazonie.com.br, com o número do pedido.",
+          "O cupom CECILIA vale na L’Amazonie? O CECILIA dá 5% OFF no site oficial e só funciona no checkout seguro.lamazonie.com.br, aberto pelo botão “Finalizar compra” do carrinho, no campo “Tem um cupom?”. Detalhes na [página do cupom da L’Amazonie](/cupons/lamazonie)."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 994,
@@ -249779,9 +249805,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem vende: site oficial e CNPJ",
         "paragraphs": [
-          "O site oficial é lamazonie.com.br. O rodapé traz a razão social ABRAHAO VAREJISTA LTDA, o CNPJ 60.522.061/0001-40 e um endereço em Serra, no Espírito Santo.",
+          "O site oficial é lamazonie.com.br. O rodapé traz a razão social ABRAHAO VAREJISTA LTDA, o CNPJ 60.522.061/0001-40 e um endereço em Serra, no Espírito Santo. O rodapé do checkout seguro.lamazonie.com.br traz o mesmo CNPJ e um endereço em Osasco, em São Paulo.",
           "O [perfil da marca no Reclame Aqui](https://www.reclameaqui.com.br/empresa/l-amazonie/) aponta para o mesmo site e mostra outro CNPJ, 31.469.239/0001-39.",
-          "A marca se apresenta no site como de dermocosméticos brasileira, com ativos da Amazônia. O catálogo tem o sérum para cílios e sobrancelhas, protetor solar em bastão, sérum de vitamina C, gel de limpeza e kits."
+          "A marca se apresenta no site como de dermocosméticos brasileira, com ativos da Amazônia. O catálogo tem o [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), o [Protetor Solar de Tratamento FPS 99](https://www.lamazonie.com.br/products/protetor-solar-facial-stick) em bastão, o [Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), o [Gel de Limpeza de Vitamina C 60 g](https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g) e kits, como o [Kit Completo Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza](https://www.lamazonie.com.br/products/kit-completo-serum-protetor-gel-de-limpeza)."
         ]
       },
       {
@@ -249795,7 +249821,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A reputação em resumo",
         "paragraphs": [
-          "No Reclame Aqui, a L’Amazonie tem reputação Boa e nota 7,0 no recorte de seis meses, com todas as reclamações respondidas. Entre as 16 avaliadas, 75% tiveram o problema considerado resolvido e 56,3% de quem avaliou voltaria a comprar. A base é pequena e a queixa mais citada no histórico é atraso na entrega; os números completos estão em [L’Amazonie no Reclame Aqui](/reviews/lamazonie-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, a L’Amazonie tem reputação Boa e nota 7,2 no recorte de 6 meses, com selo de empresa verificada e 5 anos de cadastro. Todas as reclamações foram respondidas, e o tempo médio de resposta nesse recorte é de 1 dia e 14 horas.",
+          "Entre as 18 avaliadas, 77,8% tiveram o problema considerado resolvido e 61,1% de quem avaliou voltaria a comprar. A base é pequena, e esses índices valem só para as reclamações avaliadas.",
+          "A queixa mais citada na aba Geral, que cobre até três anos, é atraso na entrega, com 43,48% das reclamações. Os números completos de cada janela estão em [L’Amazonie no Reclame Aqui](/reviews/lamazonie-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -249868,43 +249896,48 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Devolução em 7 dias: a política e o que o Procon-SP orienta",
+        "heading": "Devolução em 7 dias: a política da loja e o que diz o CDC",
         "paragraphs": [
-          "A [página de trocas e devoluções](https://www.lamazonie.com.br/pages/trocas-e-devolucoes), lida em 16 de novembro de 2026, aceita a devolução pedida pelo e-mail sac@lamazonie.com.br em até sete dias do recebimento. Ela pede o produto “com a caixa lacrada e sem ter sido utilizado” e diz que o frete da devolução é do cliente. O reembolso sai depois que a loja recebe o produto, em até 20 dias úteis no boleto ou em até duas faturas no cartão.",
-          "O [artigo 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) prevê sete dias para desistir da compra feita fora do estabelecimento e a devolução dos valores pagos. O [Guia de Comércio Eletrônico do Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf), no capítulo “Prazo de arrependimento”, orienta que o fornecedor não exija embalagem inviolada nem cobre frete de devolução para exercer esse direito.",
-          "A página da garantia da própria loja afirma que os sete dias de arrependimento continuam valendo, como manda a lei. Se houver divergência entre a política e a orientação do órgão no seu caso, o Procon do seu estado é o caminho."
+          "A [página de trocas e devoluções](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) aceita a devolução pedida pelo e-mail sac@lamazonie.com.br em até sete dias do recebimento. Ela pede o produto “com a caixa lacrada e sem ter sido utilizado” e diz que o frete da devolução é do cliente. O reembolso sai depois que a loja recebe o produto, em até 20 dias úteis no boleto ou em até duas faturas no cartão.",
+          "O [artigo 49 do Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) prevê sete dias para desistir da compra feita fora do estabelecimento e a devolução imediata dos valores eventualmente pagos, a qualquer título, durante esse prazo. A caixa lacrada e o frete de retorno por conta do cliente são condições da política da loja, e não estão escritos nesse artigo.",
+          "A página da garantia da própria loja afirma que os sete dias de arrependimento continuam valendo, como manda a lei. Quem pretende desistir da compra deve escrever para o sac@lamazonie.com.br dentro do prazo, guardar o comprovante do pedido e registrar a data do recebimento."
         ]
       },
       {
         "heading": "Formas de pagamento",
         "paragraphs": [
-          "A loja aceita cartão de crédito, em até 6 vezes sem juros, e Pix. O checkout mostra 3% de desconto para pagamento no Pix. O site também anuncia cashback de 15% para a próxima compra, que é um crédito futuro e fica fora da conta do pedido de hoje."
+          "A loja aceita cartão de crédito, em até 6 vezes sem juros, e Pix. No pagamento do checkout aparecem as bandeiras Visa, Mastercard, Elo, American Express, Diners, Discover e Hipercard.",
+          "O checkout mostra a frase da loja “Você ganhou 3% de desconto pagando com Pix”. No teste de 22/11 paramos antes da etapa de pagamento, então não vimos o Pix aplicado junto com o cupom CECILIA, e a conta dos dois fica para a tela de pagamento.",
+          "O site também anuncia cashback de 15% para a próxima compra, que é um crédito futuro e fica fora da conta do pedido de hoje. O cupom CECILIA funciona no checkout próprio, seguro.lamazonie.com.br, aberto pelo botão “Finalizar compra” do carrinho."
         ]
       },
       {
         "heading": "Site oficial ou Mercado Livre",
         "paragraphs": [
-          "A marca tem uma página de loja oficial no Mercado Livre. O cupom CECILIA, a Garantia Mais Fios e o cashback são do site oficial. No marketplace valem o preço e as condições do anúncio, e a página da garantia exclui expressamente compras em marketplaces."
+          "A marca tem uma página de loja oficial no Mercado Livre. O cupom CECILIA, a Garantia Mais Fios e o cashback são do site oficial.",
+          "No marketplace valem o preço e as condições do anúncio, e a página da garantia exclui expressamente compras em marketplaces. Quem quer a garantia do sérum, por exemplo, precisa comprar no site.",
+          "Para usar o cupom, abra o site oficial, monte o carrinho e finalize pelo botão “Finalizar compra”."
         ]
       },
       {
         "heading": "Vale comprar na L’Amazonie?",
         "paragraphs": [
-          "A L’Amazonie tem CNPJ no site e reputação Boa no Reclame Aqui, mas as avaliações ainda são poucas e atraso na entrega lidera as queixas no histórico geral. Os dados abertos da Anvisa trazem processos de séruns da marca; sem conferir o número no rótulo, não identificamos qual corresponde ao frasco vendido hoje. Antes de pagar, confira o prazo para seu CEP e, se a garantia for decisiva, as condições das fotos e do uso por 60 dias. Para devolução por arrependimento, observe a diferença entre a política da loja e a orientação do Procon-SP explicada acima.",
+          "A L’Amazonie tem CNPJ no site e reputação Boa no Reclame Aqui, mas as avaliações ainda são poucas e atraso na entrega lidera as queixas no histórico geral. Os dados abertos da Anvisa trazem processos de séruns da marca; sem conferir o número no rótulo, não identificamos qual corresponde ao frasco vendido hoje. Antes de pagar, confira o prazo para seu CEP e, se a garantia for decisiva, as condições das fotos e do uso por 60 dias. Para desistir da compra em até sete dias, leia a política de devolução da loja e escreva para o atendimento dentro do prazo.",
           "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial. As condições estão na [página do cupom da L’Amazonie](/cupons/lamazonie), e o passo a passo, em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O sérum da L’Amazonie aparece na Anvisa? A base de dados consultada traz dois processos com nomes de séruns da marca, de 2024 e de 2026. O de 2026 está classificado como notificado. É preciso conferir o número no rótulo para saber qual corresponde ao frasco vendido hoje; essa consulta não comprova resultado de crescimento de fios.",
+          "O sérum da L’Amazonie aparece na Anvisa? A base de dados aberta da Anvisa traz dois processos com nomes de séruns da marca, de 2024 e de 2026. O de 2026 está classificado como notificado. É preciso conferir o número no rótulo para saber qual corresponde ao frasco vendido hoje; essa consulta não comprova resultado de crescimento de fios.",
           "Qual é o CNPJ da L’Amazonie? O rodapé do site oficial traz ABRAHAO VAREJISTA LTDA, CNPJ 60.522.061/0001-40. O perfil da marca no Reclame Aqui mostra o CNPJ 31.469.239/0001-39.",
-          "A L’Amazonie devolve o dinheiro? Existe o direito de arrependimento em até sete dias do recebimento na compra online. A loja pede caixa lacrada e cobra o frete de retorno, mas o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que essas exigências não sejam impostas para esse direito. A garantia de 60 dias é um benefício separado, com outras condições.",
+          "A L’Amazonie devolve o dinheiro? Existe o direito de arrependimento em até sete dias do recebimento na compra online, previsto no art. 49 do CDC. A loja pede caixa lacrada e cobra o frete de retorno, e o pedido sai pelo e-mail sac@lamazonie.com.br. A garantia de 60 dias é um benefício separado, com outras condições.",
           "Como funciona a garantia de 60 dias? Para compras do sérum no site, uma vez por CPF, exige dois frascos e 60 dias seguidos de uso. A foto inicial deve ser enviada em até 3 dias do recebimento; a final, entre o 60º e o 70º dia de uso. Cumpridas as condições, se a comparação não mostrar fios novos, a loja reembolsa os frascos usados, sem o frete. Consulte o regulamento completo.",
           "A L’Amazonie vende no Mercado Livre? Há uma página de loja oficial da marca no marketplace. A garantia de 60 dias e o cashback são do site oficial, e a página da garantia exclui compras em marketplaces."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 995,
@@ -249921,6 +249954,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -249932,7 +249966,7 @@ export const reviewsData: unknown[] = [
     "title": "L’Amazonie é boa? O que conferir antes de comprar o sérum de sobrancelhas",
     "seoTitle": "L’Amazonie é boa? O sérum de sobrancelha funciona?",
     "type": "Guia de Marca",
-    "description": "O que a L’Amazonie promete no sérum de sobrancelhas, o que dá para verificar (uso, preço, garantia e devolução) e o que continua sem resposta. Sem uso do produto.",
+    "description": "O que a L’Amazonie promete no sérum de sobrancelhas, o que dá para verificar (uso, preço, composição e garantia) e o que continua sem resposta. Sem uso do produto.",
     "metaDescription": "CECILIA dá 5% OFF na L’Amazonie. Compare os preços dos frascos do sérum de sobrancelhas e confira a composição disponível e as regras da garantia.",
     "image": "/images/reviews/lamazonie/lamazonie-e-boa-capa-v2.webp",
     "imageAlt": "Frasco verde aberto do sérum de sobrancelhas L’Amazonie com a escova e a tampa dourada, em montagem ilustrativa sobre bancada rosada. A capa traz o logo L’Amazonie, a chamada “Sérum de sobrancelhas: vale a pena?” e o cupom CECILIA.",
@@ -249942,8 +249976,11 @@ export const reviewsData: unknown[] = [
       "url": "https://www.lamazonie.com.br/",
       "sponsored": true
     },
-    "editorialNote": "Feito com as páginas e as políticas da loja, a base da Anvisa e o Reclame Aqui, sem uso do produto. Podemos receber comissão pelo cupom.",
+    "editorialNote": "Feito com as páginas e as políticas da loja, sem uso do produto. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
+      {
+        "slug": "cupom-lamazonie-como-usar"
+      },
       {
         "slug": "lamazonie-e-confiavel"
       },
@@ -249951,7 +249988,7 @@ export const reviewsData: unknown[] = [
         "slug": "lamazonie-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-lamazonie-como-usar"
+        "slug": "black-friday-lamazonie"
       }
     ],
     "decision": {
@@ -249976,9 +250013,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a L’Amazonie vende",
         "paragraphs": [
-          "O catálogo do site oficial tem o sérum para crescimento de cílios e sobrancelhas, o sérum clareador de vitamina C20, o protetor solar de tratamento FPS 99, o bastão multifuncional com cor FPS 95, o gel de limpeza de vitamina C e kits com duas ou três unidades.",
+          "O catálogo do site oficial tem o [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), o [Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), o [Protetor Solar de Tratamento FPS 99](https://www.lamazonie.com.br/products/protetor-solar-facial-stick), o [Bastão Multifuncional com Cor FPS 95](https://www.lamazonie.com.br/products/bastao-multifuncional-com-cor-fps-95), o [Gel de Limpeza de Vitamina C 60 g](https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g) e kits com duas ou três unidades.",
           "A marca se apresenta como vegana e cruelty free, com fórmulas sem parabenos e sem perfume, e a página do sérum traz o selo “dermatologicamente testado”. São informações da própria marca.",
-          "Quem vende, os CNPJs e a reputação estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel)."
+          "Na linha facial, o sérum clareador e o gel de limpeza levam vitamina C no nome; o protetor em bastão FPS 99 e o bastão multifuncional com cor FPS 95 são os dois produtos de proteção. O fator e os ativos são os que a loja declara nas páginas, e este guia não testou nenhum deles."
         ]
       },
       {
@@ -250024,7 +250061,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custam um, dois ou três frascos",
         "paragraphs": [
-          "A página informa rendimento de 25 a 30 dias por frasco, com duas aplicações diárias. Dois frascos correspondem, portanto, a 50 a 60 dias nessa estimativa. Já o regulamento da garantia exige dois frascos e 60 dias seguidos: confirme com a loja como cumprir o período se o produto acabar antes. A tabela compara quantidades de compra, com preços de 16 de novembro de 2026."
+          "A página informa rendimento de 25 a 30 dias por frasco, com duas aplicações diárias. Dois frascos correspondem, portanto, a 50 a 60 dias nessa estimativa. Já o regulamento da garantia exige dois frascos e 60 dias seguidos: confirme com a loja como cumprir o período se o produto acabar antes. A tabela compara quantidades de compra, com os preços do site em 16/11."
         ],
         "comparisonTable": {
           "caption": "Preços do site, sem frete. As colunas de CECILIA e Pix são cálculos separados, sobre o preço publicado; não representam os dois descontos juntos.",
@@ -250058,35 +250095,28 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Antes dos descontos, o preço por frasco é de R$ 159,00 na unidade, R$ 124,50 na opção com dois e R$ 109,67 na opção com três. O menor preço unitário, sozinho, não define quanto comprar.",
           "As opções com dois e três frascos mostram selo de frete grátis na página do produto. A regra geral, porém, exige valor acima de 199 reais na maior parte do país e de 500 reais no Acre, no Piauí, em Rondônia e em Roraima. Confira o resultado para seu CEP depois de aplicar o código.",
-          "Cupom e Pix podem somar, conforme a regra já confirmada para o código. O total com os dois deve ser conferido no resumo do pedido. O passo a passo está em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
+          "A loja anuncia 3% de desconto no Pix, mas não testamos o Pix junto com o cupom: as duas colunas da tabela são contas separadas sobre o preço publicado, e o total real aparece no resumo do pedido. Em 22/11, no checkout da loja, o CECILIA reduziu uma oferta de R$ 159,00 para R$ 151,05. O passo a passo está em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
         ]
       },
       {
         "heading": "A garantia de 60 dias em resumo",
         "paragraphs": [
           "A [Garantia Mais Fios](https://www.lamazonie.com.br/pages/garantia) devolve o valor dos frascos usados, sem o frete, se a foto do dia 60 não mostrar fios novos em relação à do dia 1. Vale para compras no site, uma vez por CPF, e pede dois frascos, 60 dias seguidos de uso, a foto inicial em até 3 dias do recebimento e a final entre o 60º e o 70º dia. A página da garantia não fala de compra com cupom.",
-          "O regulamento permite comprar um frasco e adquirir o segundo no site antes de o primeiro acabar, desde que as demais condições sejam cumpridas. Veja as condições completas e as exclusões em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel)."
+          "O regulamento permite comprar um frasco e adquirir o segundo no site antes de o primeiro acabar, desde que as demais condições sejam cumpridas. No kit de 90 dias, o terceiro frasco lacrado pode ser devolvido. A garantia não vale em marketplace, salão ou revendedora, nem se a região tiver recebido henna, micropigmentação, lápis permanente ou depilação. A análise das fotos leva até 5 dias úteis, e o reembolso sai em até 10 dias úteis, do valor dos frascos usados, sem o frete."
         ]
       },
       {
-        "heading": "O que os clientes dizem, e de onde vem cada número",
+        "heading": "O que os clientes dizem sobre o sérum",
         "paragraphs": [
           "A página exibe nota 4,9 em 261 avaliações e informa que parte dos relatos vem de produtos relacionados agrupados pela loja. Esse conjunto não foi separado aqui por produto; ao ler uma avaliação, confira a qual item ela se refere. Não sabemos como os relatos são coletados ou moderados.",
-          "No Reclame Aqui, a L’Amazonie tem reputação Boa, com todas as reclamações do recorte de seis meses respondidas. A base de avaliações é pequena e, no histórico geral, a queixa mais citada é atraso na entrega. Os números estão em [L’Amazonie no Reclame Aqui](/reviews/lamazonie-reclame-aqui-nota-reputacao)."
-        ]
-      },
-      {
-        "heading": "Regularização e devolução",
-        "paragraphs": [
-          "Os dados abertos da Anvisa trazem dois processos com nomes de séruns de sobrancelha da marca, e o mais recente está classificado como notificado. Só o número impresso no rótulo diz qual deles corresponde ao frasco vendido hoje. Essa consulta trata da regularização para venda e não avalia resultado.",
-          "Para devolução, a [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. Para o arrependimento em compra online, o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que não se exija embalagem inviolada nem se cobre esse frete. O detalhe dos dois pontos está em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel)."
+          "Esse número serve como leitura da página, e não como medida de resultado. Quem quer saber como foi a experiência com o sérum em específico deve procurar as avaliações do próprio item e comparar com as promessas da marca descritas acima."
         ]
       },
       {
         "heading": "Vale comprar o sérum da L’Amazonie?",
         "paragraphs": [
           "Antes de decidir pelo sérum, peça a lista completa de ingredientes e confira as regras da garantia. A página não apresenta estudo do produto que permita confirmar o crescimento de fios; a garantia é um compromisso de reembolso, sujeito às condições descritas acima. Quem precisa de comprovação do resultado antes da compra deve aguardar essa informação.",
-          "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial. As condições estão na [página do cupom da L’Amazonie](/cupons/lamazonie)."
+          "Se decidir comprar, o cupom CECILIA na L’Amazonie dá 5% OFF no site oficial, pelo checkout aberto no botão “Finalizar compra”. As condições estão na página do [cupom L’Amazonie](/cupons/lamazonie)."
         ]
       },
       {
@@ -250116,6 +250146,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -250143,40 +250174,34 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-lamazonie-como-usar"
       },
       {
-        "slug": "lamazonie-e-confiavel"
+        "slug": "black-friday-lamazonie"
       },
       {
         "slug": "lamazonie-e-boa"
+      },
+      {
+        "slug": "lamazonie-e-confiavel"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "CECILIA dá 5% OFF na primeira compra na L’Amazonie e também vale nos pedidos seguintes. No teste, o código entrou em kit em promoção, no checkout aberto pelo botão Finalizar compra, em “Tem um cupom?”. Soma com o Pix; veja abaixo o passo a passo e confira a linha Descontos antes de pagar."
+          "CECILIA dá 5% OFF na primeira compra na L’Amazonie e também vale nos pedidos seguintes. No teste, o código entrou em kit em promoção, no checkout aberto pelo botão Finalizar compra, em “Tem um cupom?”. A loja anuncia 3% no Pix; não testamos o Pix junto com o cupom. Confira a linha Descontos antes de pagar."
         ]
       },
       {
         "heading": "Cupom L’Amazonie primeira compra: qual usar",
         "paragraphs": [
-          "A L’Amazonie se apresenta como marca brasileira de dermocosméticos e vende pelo site lamazonie.com.br. O produto mais buscado é o sérum para crescimento de cílios e sobrancelhas. Se este é o seu primeiro pedido, vale ler antes [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel), que reúne quem vende, a reputação e as regras de devolução.",
+          "A L’Amazonie se apresenta como marca brasileira de dermocosméticos e vende pelo site lamazonie.com.br. O produto mais buscado é o [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas). Se este é o seu primeiro pedido, olhe também as ofertas do momento no guia da [Black Friday da L’Amazonie](/reviews/black-friday-lamazonie).",
           "O cupom CECILIA na L’Amazonie dá 5% OFF no site oficial. Ele serve para quem nunca comprou na loja e para quem já comprou, então o mesmo código atende o primeiro pedido e os próximos."
         ]
       },
       {
         "heading": "Quanto o cupom tira: a conta do teste",
         "paragraphs": [
-          "Em 16 de novembro de 2026, montamos um carrinho com um sérum para crescimento de cílios e sobrancelhas, de R$ 159,00, e um kit com dois protetores solares de tratamento FPS 99, de R$ 249,00.",
+          "Em 16 de novembro de 2026, montamos um carrinho com um [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), de R$ 159,00, e um [Kit 2 Protetores Solares de Tratamento FPS 99](https://www.lamazonie.com.br/products/kit-2-protetores-solar-facial-stick), de R$ 249,00.",
           "Com o código, os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. A linha Descontos mostrou R$ 20,40. São 5% sobre os produtos do carrinho, inclusive sobre o kit."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
-            "alt": "Resumo do checkout da L’Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60",
-            "caption": "O CECILIA aplicado no checkout da L’Amazonie, no nosso teste. A linha Descontos mostra quanto saiu do pedido.",
-            "objectFit": "contain",
-            "aspectRatio": 1.06
-          }
         ]
       },
       {
@@ -250195,22 +250220,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O mesmo código. O CECILIA vale para cliente novo e para cliente antigo, então dá para usar de novo no próximo pedido. Confira sempre a linha Descontos no resumo antes de pagar.",
           "A loja também anuncia 15% de cashback. Segundo a página, vira crédito com validade para a próxima compra no site e cobre até 30% desse pedido. Não testamos o uso desse crédito. Para a compra de agora, o que conta é o total do resumo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/lamazonie/cupom-lamazonie-primeira-compra-gel-de-limpeza-vitamina-c.webp",
+            "alt": "Bisnaga branca do Gel de Limpeza de Vitamina C da L’Amazonie, de 60 g, em foto oficial do produto",
+            "caption": "Gel de Limpeza de Vitamina C, da linha facial. Imagem: L’Amazonie.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g"
+          }
         ]
       },
       {
         "heading": "Soma com kit em promoção e com o Pix?",
         "paragraphs": [
           "Com kit em promoção, somou no nosso teste. Os 5% entraram também sobre o kit de dois protetores. Foi um kit testado, então confira a linha Descontos no seu carrinho.",
-          "A loja dá 3% de desconto no Pix, e o checkout avisa “Você ganhou 3% de desconto pagando com Pix”. Esse desconto é da forma de pagamento e vem à parte do desconto do código. Não chegamos à etapa do pagamento no teste, então escolha o Pix e confira o total do resumo antes de pagar."
+          "A loja anuncia 3% de desconto no Pix, e o checkout avisa “Você ganhou 3% de desconto pagando com Pix”. Não chegamos à etapa do pagamento no teste e não testamos o Pix junto com o cupom, então não somamos os dois percentuais: escolha a forma de pagamento e confira o total do resumo antes de pagar."
         ]
       },
       {
         "heading": "Primeiro pedido: o que conferir",
         "bullets": [
           "**Total entregue.** O frete e o prazo saem pelo CEP. A loja anuncia frete grátis acima de R$ 199 para a maior parte do país e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Compare o valor final com o frete.",
-          "**Garantia do sérum.** Se o primeiro pedido for o sérum de sobrancelhas, a [Garantia Mais Fios](https://www.lamazonie.com.br/pages/garantia) pede dois frascos, 60 dias seguidos de uso e a foto do dia 1 em até 3 dias do recebimento. A página da garantia não fala de compra com cupom. As condições estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
-          "**Devolução.** A [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. Para o arrependimento em compra online, o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que não se exija embalagem inviolada nem se cobre esse frete.",
-          "**O produto.** O que dá para verificar sobre o sérum antes de comprar está em [L’Amazonie é boa?](/reviews/lamazonie-e-boa)."
+          "**Garantia do sérum.** Se o primeiro pedido for o sérum de sobrancelhas, a [Garantia Mais Fios](https://www.lamazonie.com.br/pages/garantia) pede dois frascos, 60 dias seguidos de uso e a foto do dia 1 em até 3 dias do recebimento. A página da garantia não fala de compra com cupom.",
+          "**Devolução.** A [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação por e-mail, em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. Se houver problema com o pedido, o canal é o atendimento da loja, pelo sac@lamazonie.com.br; guarde a nota e as fotos do produto.",
+          "**O produto.** O que dá para verificar sobre o sérum antes de comprar está em [L’Amazonie é boa?](/reviews/lamazonie-e-boa). Para a linha facial, a loja vende o [Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), o [Protetor Solar de Tratamento FPS 99](https://www.lamazonie.com.br/products/protetor-solar-facial-stick) e o [Gel de Limpeza de Vitamina C 60 g](https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g)."
         ],
         "postParagraphs": [
           "As condições do código ficam na [página do cupom da L’Amazonie](/cupons/lamazonie)."
@@ -250243,7 +250278,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "16 de novembro de 2026",
     "publishedAtISO": "2026-11-16",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-22",
     "bodyDatesReason": "campanha",
     "draft": false,
     "isNew": true,
@@ -250256,7 +250291,7 @@ export const reviewsData: unknown[] = [
     "title": "Black Friday L’Amazonie 2026: o que é campanha, o que é kit da tabela regular e como o cupom entra",
     "seoTitle": "Black Friday L’Amazonie 2026: kits e cupom CECILIA",
     "type": "Guia de Black Friday",
-    "description": "O que a L’Amazonie tinha publicado para a Black Friday, os kits da tabela regular, os preços do sérum por quantidade e como ficam o cupom, o Pix e o frete.",
+    "description": "O que a L’Amazonie publicou para a Black Friday, os kits da tabela regular, os preços do sérum por quantidade e como ficam o cupom, o Pix e o frete.",
     "metaDescription": "CECILIA dá 5% OFF na L’Amazonie e, no teste, entrou em oferta de Black Friday e em kit em promoção. Veja os preços de 1, 2 ou 3 séruns e o frete.",
     "image": "/images/reviews/lamazonie/black-friday-lamazonie-capa-v2.webp",
     "imageAlt": "Bisnaga oficial do sérum facial C20 da L’Amazonie sobre uma bancada de pedra em cenário ilustrativo com luz de janela. A capa traz o logo L’Amazonie, a chamada “Black Friday — Kit ou oferta?” e o cupom CECILIA.",
@@ -250270,6 +250305,9 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "cupom-lamazonie-como-usar"
+      },
+      {
+        "slug": "cupom-lamazonie-primeira-compra"
       },
       {
         "slug": "lamazonie-e-boa"
@@ -250294,28 +250332,28 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom CECILIA dá 5% OFF no site da L’Amazonie e, no nosso teste, entrou também em uma oferta de Black Friday, a do sérum de sobrancelhas com um protetor FPS 99 de presente. A página de Black Friday da loja continuava sem ofertas e sem regulamento, e os kits de duas e três unidades fazem parte da tabela regular."
+          "O cupom CECILIA dá 5% OFF no site da L’Amazonie e, no teste de 22/11, entrou na oferta de Black Friday do sérum de sobrancelhas, que vem com um protetor FPS 99 de brinde. A loja anuncia frete grátis e 15% de cashback nessa oferta e não publicou data de fim. Os kits de duas e três unidades fazem parte da tabela regular."
         ]
       },
       {
-        "heading": "A Black Friday da L’Amazonie já começou?",
+        "heading": "O que a L’Amazonie tem de Black Friday",
         "paragraphs": [
-          "Na leitura de 16 de novembro de 2026, a [página de Black Friday da loja](https://www.lamazonie.com.br/pages/black-friday) trazia só o título, sem produtos. A página inicial e o menu não citavam a campanha, e a faixa do topo anunciava o frete grátis acima de R$ 199. A loja não tinha publicado data de início, data de fim nem regulamento.",
-          "A Black Friday cai em 27 de novembro. Se a loja anunciar ofertas até lá, este guia será atualizado com o que ela publicar, com o nome de cada página.",
-          "Encontramos também páginas de oferta com “Black Friday” no nome, fora do menu e sem ligação com a vitrine. Nelas, o preço era o do produto avulso nas páginas da vitrine, e a oferta vinha em itens de presente e, em algumas, frete grátis. Como são páginas de anúncio, fora da vitrine aberta, não as tratamos aqui como a campanha da loja. Em uma delas testamos o cupom: a do [sérum de sobrancelhas com o protetor solar incolor FPS 99 de presente](https://www.lamazonie.com.br/products/bf-serum-sobrancelhas-protetor-gratis), que a loja anunciava no Google com a indicação de que valia até 26 de novembro. A página da oferta não mostra data de fim."
+          "A campanha está no ar: a oferta central é o [sérum de sobrancelhas com o protetor solar incolor FPS 99 de presente](https://www.lamazonie.com.br/products/bf-serum-sobrancelhas-protetor-gratis), vendida a R$ 159,00 (ou 6x de R$ 26,50 sem juros), com frete grátis e 15% de cashback, que a loja anuncia como “a maior promo do ano”. A faixa do topo do site segue anunciando frete grátis acima de R$ 199.",
+          "A loja não publicou data de início, data de fim nem regulamento. Em 22/11, a única referência de prazo que vimos era a antiga indicação de que a oferta valia até 26 de novembro, que não aparece na página do produto, então não tratamos esse dia como prazo. A Black Friday cai em 27 de novembro, e a oferta pode mudar sem aviso até lá.",
+          "Há outras páginas de oferta com “Black Friday” no nome, fora da vitrine principal. Os kits de vitamina C, como o [Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza + Brinde Surpresa + Frete Grátis](https://www.lamazonie.com.br/products/bf-vitamina-c-kit-2-sp), saem a R$ 289,00 com frete grátis e brinde. Não testamos o cupom nessas páginas: confira a linha Descontos no resumo antes de pagar."
         ]
       },
       {
         "heading": "O que já é preço de kit, sem campanha",
         "paragraphs": [
           "Boa parte dos preços “de/por” do site vem dos kits. O sérum de sobrancelhas, o sérum de vitamina C20, o protetor solar e os cremes clareadores têm opção de duas e de três unidades. Nos preços que lemos, a unidade sai mais barata no kit que no avulso. Essas opções estão na página regular de cada produto, sem menção à Black Friday.",
-          "Isso ajuda a ler a Black Friday quando ela chegar. Se a loja anunciar uma oferta, compare com o preço do kit de hoje, nas tabelas abaixo, e veja se o que mudou foi o preço, o brinde ou o frete."
+          "Isso ajuda a ler a Black Friday. Compare a oferta com o preço do kit de hoje, nas tabelas abaixo, e veja se o que mudou foi o preço, o brinde ou o frete."
         ]
       },
       {
         "heading": "Sérum de cílios e sobrancelhas: um, dois ou três frascos",
         "paragraphs": [
-          "Os preços abaixo são os da [página do sérum](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas) na mesma leitura. A página informa rendimento de 25 a 30 dias por frasco, com duas aplicações diárias."
+          "Os preços abaixo são os da [página do sérum](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), conferidos em 22/11. A página informa rendimento de 25 a 30 dias por frasco, com duas aplicações diárias."
         ],
         "comparisonTable": {
           "caption": "Preços da página do sérum, sem frete. As colunas de CECILIA e Pix são cálculos separados sobre o preço publicado; não representam os dois descontos juntos.",
@@ -250352,7 +250390,7 @@ export const reviewsData: unknown[] = [
           "**3 unidades.** Sai a R$ 109,67 por frasco antes dos descontos. Pela mesma estimativa, três frascos correspondem a 75 a 90 dias de uso, e a página também mostra o selo de frete grátis."
         ],
         "postParagraphs": [
-          "A [Garantia Mais Fios](https://www.lamazonie.com.br/pages/garantia) exige dois frascos e 60 dias seguidos de uso, com fotos dentro dos prazos. Quem compra um frasco pode adquirir o segundo no site antes de o primeiro acabar, desde que cumpra as demais condições. No kit de três, o regulamento permite devolver o terceiro frasco lacrado. As condições completas estão em [L’Amazonie é confiável?](/reviews/lamazonie-e-confiavel).",
+          "A [Garantia Mais Fios](https://www.lamazonie.com.br/pages/garantia) exige dois frascos e 60 dias seguidos de uso, com fotos dentro dos prazos. Quem compra um frasco pode adquirir o segundo no site antes de o primeiro acabar, desde que cumpra as demais condições. No kit de três, o regulamento permite devolver o terceiro frasco lacrado.",
           "O menor preço por frasco, sozinho, não define quanto comprar. O que dá para verificar sobre o sérum antes de escolher está em [L’Amazonie é boa?](/reviews/lamazonie-e-boa)."
         ],
         "images": [
@@ -250369,7 +250407,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Linha facial: avulsos e kits",
         "paragraphs": [
-          "Para o rosto, a loja vende o sérum clareador de vitamina C20, o protetor solar de tratamento FPS 99 e o gel de limpeza de vitamina C, avulsos e em kit. Preços da mesma leitura, na página de cada produto. O Kit 2 Protetores e o Kit Completo têm página própria."
+          "Para o rosto, a loja vende o [Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), o [Protetor Solar de Tratamento FPS 99](https://www.lamazonie.com.br/products/protetor-solar-facial-stick) e o [Gel de Limpeza de Vitamina C 60 g](https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g), avulsos e em kit, além do [Bastão Multifuncional com Cor FPS 95](https://www.lamazonie.com.br/products/bastao-multifuncional-com-cor-fps-95), que sai a R$ 149,00. Preços conferidos em 22/11, na página de cada produto. O [Kit 2 Protetores Solares de Tratamento FPS 99](https://www.lamazonie.com.br/products/kit-2-protetores-solar-facial-stick) e o [Kit Completo Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza](https://www.lamazonie.com.br/products/kit-completo-serum-protetor-gel-de-limpeza) têm página própria."
         ],
         "comparisonTable": {
           "caption": "Preços do site, sem frete. As colunas de CECILIA e Pix são cálculos separados sobre o preço publicado.",
@@ -250381,49 +250419,49 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Sérum Clareador Vitamina C20, 1 unidade",
+              "[Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), 1 unidade",
               "R$ 289,00",
               "R$ 274,55",
               "R$ 280,33"
             ],
             [
-              "Sérum Clareador Vitamina C20, 2 unidades",
+              "[Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), 2 unidades",
               "R$ 397,00",
               "R$ 377,15",
               "R$ 385,09"
             ],
             [
-              "Sérum Clareador Vitamina C20, 3 unidades",
+              "[Sérum Clareador Vitamina C20](https://www.lamazonie.com.br/products/serum-facial-antioxidante-c20), 3 unidades",
               "R$ 569,00",
               "R$ 540,55",
               "R$ 551,93"
             ],
             [
-              "Protetor Solar de Tratamento FPS 99, 1 unidade",
+              "[Protetor Solar de Tratamento FPS 99](https://www.lamazonie.com.br/products/protetor-solar-facial-stick), 1 unidade",
               "R$ 159,00",
               "R$ 151,05",
               "R$ 154,23"
             ],
             [
-              "Kit 2 Protetores Solares de Tratamento FPS 99 (página do kit)",
+              "[Kit 2 Protetores Solares de Tratamento FPS 99](https://www.lamazonie.com.br/products/kit-2-protetores-solar-facial-stick) (página do kit)",
               "R$ 249,00",
               "R$ 236,55",
               "R$ 241,53"
             ],
             [
-              "Protetor Solar de Tratamento FPS 99, 3 unidades",
+              "[Protetor Solar de Tratamento FPS 99](https://www.lamazonie.com.br/products/protetor-solar-facial-stick), 3 unidades",
               "R$ 349,00",
               "R$ 331,55",
               "R$ 338,53"
             ],
             [
-              "Gel de Limpeza de Vitamina C 60 g, 1 unidade",
+              "[Gel de Limpeza de Vitamina C 60 g](https://www.lamazonie.com.br/products/gel-de-limpeza-de-vitamina-c-60g), 1 unidade",
               "R$ 99,00",
               "R$ 94,05",
               "R$ 96,03"
             ],
             [
-              "Kit Completo Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza",
+              "[Kit Completo Sérum de Vitamina C20 + Protetor Solar + Gel de Limpeza](https://www.lamazonie.com.br/products/kit-completo-serum-protetor-gel-de-limpeza)",
               "R$ 397,00",
               "R$ 377,15",
               "R$ 385,09"
@@ -250439,48 +250477,49 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como o cupom entra",
         "paragraphs": [
-          "No nosso teste, o cupom CECILIA na L’Amazonie foi aceito no checkout aberto pelo botão “Finalizar compra”, no campo “Tem um cupom?”. O carrinho tinha um sérum de sobrancelhas e o Kit 2 Protetores, e os R$ 408,00 em produtos viraram R$ 387,60, antes do frete. Os 5% entraram também sobre o kit.",
-          "Testamos o código também em uma oferta anunciada como Black Friday, a do sérum de sobrancelhas com o protetor solar incolor FPS 99 de presente. O CECILIA foi aceito, e os R$ 159,00 da oferta viraram R$ 151,05, antes do frete. O teste foi com uma unidade, em uma das páginas de oferta. Nas outras, confira a linha Descontos no resumo antes de pagar. Vamos refazer o teste na semana da Black Friday.",
+          "No teste de 22/11, o cupom CECILIA na L’Amazonie foi aceito no checkout seguro.lamazonie.com.br, aberto pelo botão “Finalizar compra” do carrinho, no campo “Tem um cupom?”. O carrinho tinha uma unidade da oferta de Black Friday do [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas) com protetor de brinde: os R$ 159,00 viraram R$ 151,05, com desconto de R$ 7,95 (5%). Paramos antes dos dados pessoais, então o frete não foi calculado.",
+          "Em um teste anterior, o código também tinha sido aceito sobre o [Kit 2 Protetores Solares de Tratamento FPS 99](https://www.lamazonie.com.br/products/kit-2-protetores-solar-facial-stick): no carrinho com o [Sérum para crescimento de Cílios e Sobrancelhas](https://www.lamazonie.com.br/products/serum-fortalecedor-de-sobrancelhas), os R$ 408,00 em produtos viraram R$ 387,60, e os 5% entraram também sobre o kit.",
+          "O cupom foi testado em uma oferta, com uma unidade. Nas outras páginas de Black Friday, confira a linha Descontos no resumo antes de pagar. Vamos refazer o teste na semana da Black Friday.",
           "O passo a passo e o que fazer se o código for recusado estão em [como usar o cupom da L’Amazonie](/reviews/cupom-lamazonie-como-usar)."
         ],
         "images": [
           {
-            "src": "/images/reviews/lamazonie/cupom-lamazonie-checkout-com-cupom.webp",
-            "alt": "Resumo do checkout da L’Amazonie com o cupom CECILIA no campo Tem um cupom?, o aviso Desconto de menos R$ 20,40, a linha Descontos e o total de R$ 387,60",
-            "caption": "O CECILIA aplicado no checkout da L’Amazonie, no nosso teste. A linha Descontos mostra quanto saiu do pedido.",
+            "src": "/images/reviews/lamazonie/black-friday-lamazonie-checkout-cecilia-oferta-bf.webp",
+            "alt": "Resumo do checkout da L’Amazonie com a oferta de Black Friday do sérum de cílios e sobrancelhas, o cupom CECILIA no campo Tem um cupom?, desconto de menos R$ 7,95 e total de R$ 151,05",
+            "caption": "O CECILIA na oferta de Black Friday do sérum, no checkout seguro da loja: R$ 159,00 viraram R$ 151,05.",
             "objectFit": "contain",
-            "aspectRatio": 1.06
+            "aspectRatio": 1.043
           }
         ]
       },
       {
         "heading": "Pix, cashback e frete",
         "bullets": [
-          "**Pix.** A loja dá 3% de desconto no pagamento por Pix. Esse desconto é da forma de pagamento e vem à parte do cupom. Não chegamos à etapa do pagamento no teste, então confira o total do resumo antes de pagar.",
-          "**Cashback.** A loja anuncia 15% de cashback, que segundo a página vira crédito com validade para a próxima compra no site. Fica fora do preço de hoje, e não testamos o uso desse crédito.",
-          "**Frete.** A loja anuncia frete grátis acima de R$ 199 na maior parte do país e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Simule com o seu CEP e compare o total entregue."
+          "**Pix.** A loja anuncia 3% de desconto no pagamento por Pix: o checkout mostra “Você ganhou 3% de desconto pagando com Pix”. Não testamos o Pix junto com o cupom, porque paramos antes do pagamento, então não somamos os dois percentuais. Confira o total do resumo antes de pagar.",
+          "**Cashback.** A loja anuncia 15% de cashback, que segundo a página vira crédito com validade para a próxima compra no site. Fica fora do preço de hoje, e não testamos o uso desse crédito. A loja também não diz como ele convive com o código, e por isso tratamos os dois como coisas separadas.",
+          "**Frete.** A oferta de Black Friday do sérum anuncia frete grátis. Na regra geral da loja, o frete é grátis acima de R$ 199 na maior parte do país e acima de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Simule com o seu CEP e compare o total entregue."
         ]
       },
       {
         "heading": "Antes de comprar na Black Friday",
         "bullets": [
-          "**Despacho.** Pela [política de frete](https://www.lamazonie.com.br/policies/shipping-policy), o pedido sai em até 3 dias úteis depois da compensação do pagamento, e o prazo de entrega conta da postagem. A política cita datas festivas entre os motivos de atraso.",
-          "**Reclamações.** No histórico do Reclame Aqui, a queixa mais citada da loja é atraso na entrega. Os números estão em [L’Amazonie no Reclame Aqui](/reviews/lamazonie-reclame-aqui-nota-reputacao).",
-          "**Devolução.** A [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. Para o arrependimento em compra online, o [Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf) orienta que não se exija embalagem inviolada nem se cobre esse frete.",
-          "**Onde comprar.** O cupom, a garantia do sérum e o cashback são do site oficial. Em marketplace valem o preço e as condições do anúncio."
+          "**Despacho.** Pela [política de frete](https://www.lamazonie.com.br/policies/shipping-policy), o pedido sai em até 3 dias úteis depois da compensação do pagamento, e o prazo de entrega conta da postagem. A política cita datas festivas entre os motivos de atraso. Se precisa do produto em data marcada, faça a conta com folga.",
+          "**Devolução.** A [política da loja](https://www.lamazonie.com.br/pages/trocas-e-devolucoes) pede a solicitação por e-mail, em até sete dias do recebimento, com caixa lacrada, e cobra o frete de retorno do cliente. Se houver problema com o pedido, o canal é o atendimento da loja, pelo sac@lamazonie.com.br; guarde a nota e as fotos do produto.",
+          "**Onde comprar.** O cupom, a garantia do sérum e o cashback são do site oficial. Em marketplace valem o preço e as condições do anúncio.",
+          "**O sérum.** Se o sérum de sobrancelhas é o motivo da compra, o que dá para verificar sobre ele está em [L’Amazonie é boa?](/reviews/lamazonie-e-boa)."
         ],
         "postParagraphs": [
-          "As condições do código ficam na [página do cupom da L’Amazonie](/cupons/lamazonie)."
+          "As condições do código ficam na página do [cupom L’Amazonie](/cupons/lamazonie). Se é o seu primeiro pedido, veja também o guia de [primeira compra](/reviews/cupom-lamazonie-primeira-compra)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom CECILIA vale na Black Friday da L’Amazonie? O código dá 5% OFF no site oficial e, no nosso teste, entrou sobre um kit em promoção e em uma oferta anunciada como Black Friday, a do sérum de sobrancelhas com um protetor de presente. Nas outras ofertas, confira a linha Descontos no resumo do pedido.",
-          "A L’Amazonie tem Black Friday? A loja tem uma página de Black Friday, que estava sem ofertas, sem data e sem regulamento na nossa leitura. Este guia é atualizado se a campanha for anunciada.",
+          "O cupom CECILIA vale na Black Friday da L’Amazonie? O código dá 5% OFF no site oficial e, no nosso teste mais recente, entrou na oferta de Black Friday do sérum de sobrancelhas com protetor de brinde. Nas outras ofertas, confira a linha Descontos no resumo do pedido.",
+          "A L’Amazonie tem Black Friday? Tem: a oferta central é o sérum de sobrancelhas com um protetor FPS 99 de brinde, com frete grátis e cashback anunciado pela loja. Ela não publicou data de fim nem regulamento. Este guia é atualizado se a loja mudar a campanha.",
           "Vale mais comprar 1, 2 ou 3 séruns? Depende do tempo de uso que você planeja. O preço por frasco cai nos kits, e a garantia de 60 dias exige dois frascos e uso contínuo.",
-          "O cupom soma com o Pix? Soma, pela regra do código. O desconto de 3% do Pix é da forma de pagamento e vem à parte. Não chegamos à etapa do pagamento no teste, então confira o total do resumo antes de pagar.",
-          "O frete é grátis na Black Friday? A regra publicada é frete grátis acima de R$ 199 na maior parte do país e de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Na vitrine aberta, a loja não tinha anunciado condição de frete para a campanha."
+          "O cupom soma com o Pix? A loja anuncia 3% no Pix, mas não testamos o Pix junto com o cupom, porque paramos antes do pagamento. Não somamos os dois percentuais: confira o total do resumo antes de pagar.",
+          "O frete é grátis na Black Friday? A oferta do sérum anuncia frete grátis. Na regra geral, o frete é grátis acima de R$ 199 na maior parte do país e de R$ 500 no Acre, no Piauí, em Rondônia e em Roraima. Simule com o seu CEP."
         ]
       }
     ]
