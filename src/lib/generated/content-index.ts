@@ -58038,7 +58038,7 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 335,
     "slug": "black-friday-nestle-nutre",
-    "title": "Black Friday Nutren 2026: o que comprar na Black Month da Nestlé Nutre, do Nutren Senior ao Just Protein, com o cupom CECI",
+    "title": "Black Friday Nutren 2026: o que comprar na Black Friday da Nestlé Nutre, do Nutren Senior ao Just Protein, com o cupom CECI",
     "seoTitle": "Black Friday Nutren 2026: até 50% OFF e cupom CECI",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
