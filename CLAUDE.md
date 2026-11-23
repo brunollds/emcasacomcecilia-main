@@ -535,6 +535,12 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
 
 ### Páginas de loja (cupons)
 
+- O hub `/cupons` (`src/app/(pt)/cupons/page.tsx`) traz no topo o `CouponHubControls` (`src/components/coupons/CouponHubControls.tsx`):
+  busca instantânea por loja/código no navegador sobre o HTML já completo do servidor (escondendo os Destaques enquanto há
+  texto digitado para não duplicar loja) e pílulas de categoria com âncoras curtas compartilháveis (`#moda`, `#beleza`,
+  `#alimentacao`, `#saude`, `#casa`, `#diversos`) na própria `<RevealSection>`, preservando os `id="prateleira-<id>"` nos
+  títulos. O `RevealSection` (`src/components/ui/RevealSection.tsx`) revela imediatamente qualquer seção alvo do `#hash`
+  inicial ou de `hashchange`, sem esperar rolagem.
 - Loja com código tem `testedAt` e `testNote` em `couponsData.ts`, o último teste no carrinho: a página
   ganha a seção "Como testamos o cupom" com essa data, e o `WebPage` leva `lastReviewed` (o `testedAt`) e
   `reviewedBy` (o site, porque o teste é da equipe). O recorte do topo e o bloco da loja nos artigos mostram a

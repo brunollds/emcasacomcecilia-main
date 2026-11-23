@@ -3100,6 +3100,13 @@ const featuredShelf = between(couponsHubBody, 'aria-labelledby="destaques"', ['a
 assert.equal(elementsWithClass(featuredShelf, 'revela').length, 0, '/cupons: os Destaques com a cascata');
 assert.equal(magnetsIn(featuredShelf).length, 0, '/cupons: os Destaques com ímã');
 assert.ok(!couponsHubBody.includes('data-reveal'), '/cupons: data-reveal no HTML');
+assert.ok(couponsHubBody.includes('id="busca-cupons"'), '/cupons: sem o campo de busca por loja no HTML');
+assert.ok(couponsHubBody.includes('role="status" aria-live="polite"'), '/cupons: região aria-live ausente do HTML inicial');
+for (const category of hubSections.categories) {
+  assert.ok(couponsHubBody.includes(`href="#${category.id}"`), `/cupons: sem a pílula compartilhável #${category.id}`);
+  assert.ok(couponsHubBody.includes(`id="${category.id}"`), `/cupons: sem a âncora curta #${category.id} na prateleira`);
+  assert.ok(couponsHubBody.includes(`id="prateleira-${category.id}"`), `/cupons: âncora antiga #prateleira-${category.id} removida`);
+}
 
 // O HTML do servidor não distingue o RevealSection de uma <section> comum, e o RevealSection está no
 // manifest de cliente de toda página, pelo layout: a trava das prateleiras olha o código.

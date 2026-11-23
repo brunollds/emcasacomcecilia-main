@@ -11,8 +11,10 @@ import {
   STORE_VIDEO_HOSTS,
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
+import { filterCouponHubStores } from '../src/components/coupons/CouponHubControls';
 import mediaMap from '../src/lib/generated/media-delivery-map.json';
 import { getBrasiliaDate, getCouponMetaTitle, getOfferMonth } from '../src/lib/offerMonth';
+import { foldSearchText } from '../src/lib/reviewsShelf';
 import { parseActiveCouponSlugsFromSource } from './submit-indexnow.mjs';
 
 const shein = COUPONS.find((coupon) => coupon.slug === 'shein');
@@ -543,5 +545,20 @@ assert.deepEqual(
   [...getAllActiveCouponSlugs()].sort(),
   'submit-indexnow.mjs: parseActiveCouponSlugsFromSource divergiu de getAllActiveCouponSlugs()'
 );
+
+// Filtro do hub /cupons: ignora acentos e caixa, cruza nome/slug/categoria/código e devolve tudo com busca vazia.
+{
+  const sample = [
+    { slug: 'barbours', categoryId: 'beleza', searchText: foldSearchText("Barbour's Beauty barbours Beleza body splash CECILIALINHARES") },
+    { slug: 'shein', categoryId: 'moda', searchText: foldSearchText('SHEIN shein Moda 4CW5Y') },
+    { slug: 'adaptogen', categoryId: 'saude', searchText: foldSearchText('Adaptogen Science adaptogen Saúde e suplementos whey CECILIA') },
+  ];
+  assert.deepEqual([...filterCouponHubStores(sample, '')], ['barbours', 'shein', 'adaptogen']);
+  assert.deepEqual([...filterCouponHubStores(sample, '   ')], ['barbours', 'shein', 'adaptogen']);
+  assert.deepEqual([...filterCouponHubStores(sample, 'SAUDE whey')], ['adaptogen']);
+  assert.deepEqual([...filterCouponHubStores(sample, '4cw5y')], ['shein']);
+  assert.deepEqual([...filterCouponHubStores(sample, 'barbour')], ['barbours']);
+  assert.deepEqual([...filterCouponHubStores(sample, 'loja-inexistente')], []);
+}
 
 console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Prohall, La Ganexa, BAW Clothing, L'Amazonie, Rituária, Adaptogen, Barbour's Beauty, BOLD Snacks, Pink Cheeks, Gocase, Cola e Decora, Denavita, Hostinger, Starlink, BioBio, Océane e prateleiras do hub conferidos.");

@@ -62,11 +62,25 @@ export const SHELF_CARD =
 // três níveis. O de fora é o item da grade ou da fila: entra em cascata (.revela, com --i) quando a seção,
 // um RevealSection, chega à tela. O do meio leva a inclinação, o ímã e o hover, longe da transição do
 // .revela. O cartão (com o SHELF_CARD) corta o que vaza, por isso o ímã fica no meio, fora dele.
-export function CouponShelfItem({ index, className, children }: { index: number; className: string; children: ReactNode }) {
+export function CouponShelfItem({
+  index,
+  className,
+  storeSlug,
+  children,
+}: {
+  index: number;
+  className: string;
+  storeSlug?: string;
+  children: ReactNode;
+}) {
   const decor = couponCardDecorAt(index);
 
   return (
-    <div className={`revela flex ${className}`} style={{ '--i': index } as CSSProperties}>
+    <div
+      className={`revela flex ${className}`}
+      style={{ '--i': index } as CSSProperties}
+      data-coupon-item={storeSlug}
+    >
       <div
         className={`group/cupom relative flex min-w-0 flex-1 ${decor.tilt} motion-safe:transition-[translate,rotate] motion-safe:duration-300 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0`}
       >

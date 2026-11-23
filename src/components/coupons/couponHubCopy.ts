@@ -24,6 +24,26 @@ export type CouponHubCopy = CouponHubText & {
   upTo: string;
 };
 
+export type CouponHubFilterCopy = {
+  searchLabel: string;
+  searchPlaceholder: string;
+  clearSearchLabel: string;
+  categoriesNavLabel: string;
+  resultsCount: (count: number) => string;
+  emptyResults: (query: string) => string;
+  showAllStores: string;
+};
+
+export const PT_COUPON_HUB_FILTER_COPY: CouponHubFilterCopy = {
+  searchLabel: 'Buscar loja ou código de cupom',
+  searchPlaceholder: 'Buscar loja...',
+  clearSearchLabel: 'Limpar a busca',
+  categoriesNavLabel: 'Categorias de cupons',
+  resultsCount: (count) => (count === 1 ? '1 loja encontrada' : `${count} lojas encontradas`),
+  emptyResults: (query) => `Nenhuma loja ativa encontrada para “${query}”.`,
+  showAllStores: 'Ver todas as lojas',
+};
+
 export const PT_COUPON_HUB_TEXT: CouponHubText = {
   title: 'Cupons da Cecília',
   lead: 'Copie o código aqui e cole no checkout da loja parceira.',
