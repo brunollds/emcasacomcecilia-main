@@ -2538,7 +2538,7 @@ const STORE_COUPONS: Coupon[] = [
     metaTitle: 'Cupom Black Skull: 10% OFF em tudo com CECILIA10',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Black Skull: CECILIA10 dá 10% OFF em todo o site para cliente novo ou antigo, inclusive em promoção, e vale no Pix e no cartão.',
+      'Cupom Black Skull: CECILIA10 dá 10% OFF em todo o site para cliente novo ou antigo, inclusive em promoção, em todas as formas de pagamento.',
     eligibleCategories: 'Todos os produtos do site oficial da Black Skull',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2546,12 +2546,21 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional dos produtos do site' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O site não dá desconto próprio no Pix; o cupom vale no Pix, no Pix parcelado, no cartão e no boleto' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199,90 no Sul e no Sudeste, de R$ 249,90 no Centro-Oeste e de R$ 299,90 nas demais regiões, sobre o total já com os descontos' },
     ],
     paymentPerks: [
       'Até 8x sem juros no cartão, com parcela mínima de R$ 50',
       'Pix parcelado em 4x sem juros, com a primeira parcela na hora e as outras a cada 15 dias',
+    ],
+    relatedContent: [
+      { title: 'Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site', url: '/reviews/cupom-black-skull-como-usar', type: 'review', publishedAt: '2026-10-14' },
+      { title: 'Black Friday Black Skull 2026: qual whey, creatina e pré-treino comprar com o CECILIA10', url: '/reviews/black-friday-black-skull', type: 'review', publishedAt: '2026-10-15' },
+      { title: 'Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo', url: '/reviews/whey-black-skull-qual-escolher', type: 'review', publishedAt: '2026-10-23' },
+      { title: 'Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher', url: '/reviews/creatina-black-skull-qual-escolher', type: 'review', publishedAt: '2026-10-23' },
+      { title: 'Pré-treino Black Skull: BOPE ou Bone Crusher', url: '/reviews/pre-treino-black-skull-bope-ou-bone-crusher', type: 'review', publishedAt: '2026-10-23' },
+      { title: 'Black Skull é boa? O whey, a creatina e o que vale comprar da marca', url: '/reviews/black-skull-e-boa', type: 'review', publishedAt: '2026-11-02' },
+      { title: 'Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram', url: '/reviews/black-skull-reclame-aqui-nota-reputacao', type: 'review', publishedAt: '2026-10-14' },
     ],
     lastVerified: '2026-11-11',
     testedAt: '2026-11-11',
@@ -2560,6 +2569,11 @@ const STORE_COUPONS: Coupon[] = [
     aboutBrand:
       'A Black Skull é uma marca de suplementos para quem treina, com whey protein, creatina, pré-treinos, aminoácidos como glutamina e roupas de treino vendidos no site oficial. O cupom CECILIA10 é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Black Skull?',
+        answer:
+          'O cupom da Black Skull da nossa parceria é CECILIA10, com 10% OFF em todo o site oficial, em todas as formas de pagamento, somando com as promoções vigentes. Vale para quem compra pela primeira vez e para quem já é cliente, no site e no app Black Skull USA.',
+      },
       {
         question: 'O cupom CECILIA10 vale para todos os produtos da Black Skull?',
         answer: 'Sim. O CECILIA10 dá 10% OFF em todos os produtos do site oficial da Black Skull, inclusive kits e roupas.',
@@ -2617,7 +2631,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom Black Skull vale na Black Friday?',
         answer:
-          'O cupom Black Skull CECILIA10 dá 10% OFF em todo o site e soma com as promoções vigentes e com o desconto progressivo. Na Black Friday, a linha Descontos da sacola mostra o valor abatido antes de pagar.',
+          'Vale. O CECILIA10 dá 10% OFF em todo o site e entra sobre o preço promocional dos produtos da Black Friday. A linha Descontos da sacola mostra o valor abatido antes de pagar.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',

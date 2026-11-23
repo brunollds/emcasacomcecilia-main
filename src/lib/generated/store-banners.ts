@@ -104,42 +104,21 @@ export const storeBannersData: StoreBanner[] = [
     "id": "black-skull-black-friday-2026",
     "affiliate": "black-skull",
     "slot": "top",
-    "href": "https://www.blackskullusa.com.br/blackfriday2026",
+    "href": "https://www.blackskullusa.com.br/blackfriday",
     "art": {
       "kind": "tag",
-      "value": "25%"
+      "value": "50%"
     },
-    "endsAt": "2026-11-30T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Black Friday da Black Skull: até 25% OFF progressivo",
-        "text": "Campanha da própria Black Skull. O desconto sobe com o número de produtos da página da campanha; as condições aparecem no site da loja.",
+        "headline": "Black Friday da Black Skull: até 50% OFF",
+        "text": "Campanha da própria Black Skull. O desconto muda de produto para produto na página da campanha; as condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Páginas /blackfriday2026 (\"2 produtos = 15%, 3 produtos = 20%, 4 ou mais produtos = 25%\") e /black-friday (\"durante todo o mês\") de blackskullusa.com.br (04/11/2026)",
-    "verifiedAt": "2026-11-04"
-  },
-  {
-    "id": "black-skull-semana-proteina-2026",
-    "affiliate": "black-skull",
-    "slot": "mid",
-    "href": "https://www.blackskullusa.com.br/",
-    "art": {
-      "kind": "tag",
-      "value": "30%"
-    },
-    "copy": {
-      "pt": {
-        "headline": "Semana da Proteína e Hipercalórico da Black Skull: até 30% OFF",
-        "text": "Campanha da própria Black Skull. O até 30% vale para produtos selecionados; as condições aparecem no site da loja.",
-        "action": "Ver a campanha",
-        "tag": "ATÉ"
-      }
-    },
-    "source": "Banner da home de blackskullusa.com.br (\"Semana da Proteína & Hipercalórico: produtos selecionados com até 30% OFF\"), lido no navegador em 18/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-18"
+    "source": "Banner da home de blackskullusa.com.br (\"Black Friday começou, até 50% OFF\") e página /blackfriday, lidos no navegador em 22/11/2026, sem data de fim. O progressivo de /blackfriday2026 não entrou na sacola com 2 e 4 produtos da página no teste de 22/11",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "bold-pre-black-2026",
