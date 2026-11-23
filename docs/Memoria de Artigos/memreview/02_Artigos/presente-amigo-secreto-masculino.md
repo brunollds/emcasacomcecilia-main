@@ -25,7 +25,7 @@ coupon: null
 # Briefing: Presente de amigo secreto masculino até R$ 100 e até R$ 150 (IL2)
 
 Série [[insider-pautas-laterais-1111]] (regras da série valem). **Prazo: no ar no começo de dezembro.** Artigo de
-várias lojas ([[project-artigo-varias-lojas]]): `affiliate` em lista, sem `coupon` nem `cta`, sem loja principal.
+várias lojas (a regra de artigo de várias lojas (memória do Claude)): `affiliate` em lista, sem `coupon` nem `cta`, sem loja principal.
 Modelo de forma: [[looks-com-camiseta-basica-feminina]] (várias lojas) e [[presente-natal-quem-treina]] (presente por
 faixa de preço).
 
