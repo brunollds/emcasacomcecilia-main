@@ -23,7 +23,7 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 - **Leituras no navegador (23/11):** catálogos da Pink Cheeks, Ollie, Prohall, Cadiveu, Forever Liss, Carnan, Piet e a creatina da Mais Mu, em [[leituras-grupo2-2311]]. Achados: a ficha da creatina Mais Mu não cita Creapure; "BTX Blond" não existe; a Cadiveu vende na loja só a linha de casa; Carnan e Piet custam bem mais que a BAW pelo preço de tabela e estavam em liquidação.
 - **O que saiu:**
   - Nove pautas aprovadas: BW10, BW11, PH17, PH18, PH19, PH20, PK8, PK9 e PK10.
-  - Duas paradas: BW12 (espera a BW11 ser medida) e MU1 (creatina Mais Mu: o Bruno a tirou da fila em 23/10 e 30/10 pelo caso Bioghen; só volta com confirmação dele).
+  - Uma parada: BW12 (espera a BW11 ser medida). A MU1 (creatina Mais Mu), que o Bruno tinha tirado da fila em 23/10 e 30/10 pelo caso Bioghen, voltou com a confirmação dele no mesmo dia, com o caso fora do texto.
   - Quatro ajustes de suplementos (B1 a B4, plano em [[ajustes-suplementos-grupo2-2311]]) e dois de encolher com link (PK5 e BW5), na Fila, seção 4.
 - **Ficou de fora:** "Prohall gestante pode usar" (conselho de saúde), Sunsafe Kids da Pink Cheeks (fora do catálogo do dia e regra do infantil), loja física e outlet da BAW (sem fonte oficial), novos "Probiótica ou <marca>" (os comparativos cobrem).
 
