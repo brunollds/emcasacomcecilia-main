@@ -322,9 +322,8 @@
       ]
     },
     {
-      "heading": "Partnership e codice invito",
+      "heading": "Link e codice invito 4CW5Y",
       "paragraphs": [
-        "Cecília è affiliata di SHEIN e di Temu e può ricevere una commissione sugli acquisti fatti con i link di questo articolo, senza costi per te. Questo non cambia la risposta: la scelta dipende da cosa compri.",
         "Il 4CW5Y è il codice invito di Cecília su SHEIN e dà lo sconto, sì, su una selezione di prodotti e promozioni di SHEIN; quanto e su quali articoli lo decide SHEIN. Apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito: la ricerca apre una selezione con promozioni e sconti. Non va nel campo del coupon."
       ],
       "links": [
@@ -373,10 +372,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Scegli Temu se il tuo articolo rientra nei 90 giorni dall’acquisto e la scadenza lascia più tempo dopo la consegna rispetto a SHEIN; confronta le date nell’ordine."
+      "Scegli Temu se il tuo articolo rientra nei 90 giorni dall’acquisto e la scadenza lascia più tempo dopo la consegna rispetto a SHEIN; confronta le date nell’ordine.",
+      "Scegli SHEIN se vuoi una finestra di consegna dichiarata prima di pagare: in Standard sono 6-12 giorni lavorativi, mentre Temu indica il tempo nella pagina di ogni prodotto."
     ],
     "skipIf": [
-      "Lascia perdere SHEIN se vuoi restituire con più margine dei 30 giorni dal ricevimento che concede per la maggior parte degli articoli."
+      "Lascia perdere SHEIN se vuoi restituire con più margine dei 30 giorni dal ricevimento che concede per la maggior parte degli articoli.",
+      "Lascia perdere Temu se ti serve una data di consegna certa prima di pagare: i tempi cambiano da prodotto a prodotto e vanno letti nella pagina di ciascuno."
     ]
   }
 }

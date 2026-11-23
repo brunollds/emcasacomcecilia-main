@@ -19,7 +19,7 @@
   "metaDescription": "4CW5Y da descuento en una selección de SHEIN. SHEIN o AliExpress en España y México: envío, devolución e impuestos, y qué revisar en cada anuncio.",
   "publishedAt": "17 de noviembre de 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,10 +31,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
+      "Elige SHEIN si quieres más margen para desistir y la prenda es de las que SHEIN admite devolver hasta 30 días después de recibirla.",
       "Elige AliExpress si la prenda que quieres está allí y su página muestra devolución gratis y una previsión de entrega que te sirve."
     ],
     "skipIf": [
-      "Descarta AliExpress si el anuncio no aclara el plazo, el coste o la dirección de devolución y necesitas poder devolver la prenda si no te queda bien."
+      "Descarta AliExpress si el anuncio no aclara el plazo, el coste o la dirección de devolución y necesitas poder devolver la prenda si no te queda bien.",
+      "Descarta SHEIN si la prenda es lencería, ropa interior o bisutería, que en España solo se devuelven dentro de los 14 días legales."
     ]
   },
   "affiliate": [
@@ -124,6 +126,7 @@
         "**El envío y la previsión de entrega**, que en AliExpress cambian con el anuncio y con el lugar desde donde sale la prenda.",
         "**La fecha de reembolso garantizado** de AliExpress: si el paquete no llega hasta ella, puedes pedir el importe total de vuelta.",
         "**Si la prenda tiene devolución gratis** y durante cuántos días. Sin ella, la devolución por desistimiento en AliExpress la pagas tú.",
+        "**Los métodos de pago:** en AliExpress, la lista completa solo aparece en el checkout, con la sesión iniciada; comprueba allí que se acepta el que usas.",
         "**El total**, con envío e impuestos, al final del checkout de cada tienda, y tu nombre y dirección correctos en el pedido."
       ],
       "postParagraphs": [
@@ -154,7 +157,8 @@
       "heading": "Cuál elegir: qué conviene pesar",
       "paragraphs": [
         "SHEIN admite artículos elegibles hasta 30 días después de recibirlos en España y México. AliExpress publica 30 días tras la entrega con vendedor local en España, 15 en México y 90 desde el pedido con vendedor del exterior. Los plazos parten de fechas distintas: revisa cuánto tiempo queda al recibir la prenda, quién paga la devolución y a qué dirección se envía. Decide con esas condiciones, la entrega prevista y el coste final."
-      ]
+      ],
+      "emphasis": "En SHEIN, el plazo de devolución lo marca la política de la tienda; en AliExpress, cada anuncio. La elección se decide en la página de la prenda, antes de pagar."
     },
     {
       "heading": "Qué vende cada una: una muestra",
@@ -361,9 +365,8 @@
       ]
     },
     {
-      "heading": "Colaboración y código de referido",
+      "heading": "Enlaces y código de referido 4CW5Y",
       "paragraphs": [
-        "Cecília es afiliada de SHEIN y AliExpress y puede recibir una comisión por las compras hechas a través de los enlaces de este artículo, sin costo adicional para ti. Eso no cambia la respuesta: la elección depende de lo que vayas a comprar.",
         "4CW5Y es el código de referido de Cecília en SHEIN y sí da descuento, en una selección de productos y promociones de SHEIN; cuánto y en qué prendas lo decide SHEIN. Abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, no en el campo del cupón. AliExpress no tiene código nuestro."
       ],
       "links": [

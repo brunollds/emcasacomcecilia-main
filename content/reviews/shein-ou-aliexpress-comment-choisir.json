@@ -19,7 +19,7 @@
   "metaDescription": "4CW5Y donne une réduction sur une sélection SHEIN. SHEIN ou AliExpress en France : livraison, retours, taxes et points à vérifier.",
   "publishedAt": "17 novembre 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,10 +31,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
+      "Choisissez SHEIN si vous voulez plus de temps pour changer d’avis et que la pièce fait partie de celles que SHEIN reprend jusqu’à 30 jours après réception.",
       "Choisissez AliExpress si la pièce que vous voulez y est vendue et que sa page affiche un retour gratuit et une prévision de livraison qui vous convient."
     ],
     "skipIf": [
-      "Écartez AliExpress si l’annonce ne précise pas le délai, les frais ou l’adresse de retour et que vous devez pouvoir retourner une pièce qui ne vous va pas."
+      "Écartez AliExpress si l’annonce ne précise pas le délai, les frais ou l’adresse de retour et que vous devez pouvoir retourner une pièce qui ne vous va pas.",
+      "Écartez SHEIN si la pièce est de la lingerie, des sous-vêtements ou des bijoux fantaisie, qui ne se retournent que dans les 14 jours légaux."
     ]
   },
   "affiliate": [
@@ -109,6 +111,7 @@
         "**La livraison et la prévision de livraison**, qui chez AliExpress changent selon l'annonce et selon le lieu d'expédition de la pièce.",
         "**La date de remboursement garanti** d'AliExpress : si le colis n'est pas arrivé à cette date, vous pouvez demander le remboursement total.",
         "**Si la pièce a un retour gratuit** et pour combien de jours. Sans lui, le retour par simple changement d'avis chez AliExpress est à votre charge.",
+        "**Les moyens de paiement :** chez AliExpress, la liste complète n’apparaît qu’au moment du paiement, une fois connecté ; vérifiez-y que celui que vous utilisez est accepté.",
         "**Le total**, avec la livraison et les taxes, à la fin du paiement de chaque boutique, et votre nom et votre adresse corrects dans la commande."
       ],
       "postParagraphs": [
@@ -138,7 +141,8 @@
       "heading": "Que choisir : ce qu'il faut peser",
       "paragraphs": [
         "SHEIN accepte la plupart des articles éligibles jusqu’à 30 jours après réception. AliExpress publie 15 jours après livraison avec un vendeur local et 90 jours après la commande avec un vendeur de l’étranger. Ces délais ne commencent pas à la même date : vérifiez le temps restant après réception, les frais et l’adresse de retour. Choisissez selon ces conditions, la livraison prévue et le coût final."
-      ]
+      ],
+      "emphasis": "Chez SHEIN, le délai de retour vient de la politique de la boutique ; chez AliExpress, de chaque annonce. Le choix se joue sur la page de la pièce, avant de payer."
     },
     {
       "heading": "Ce que vend chaque boutique : un échantillon",
@@ -345,9 +349,8 @@
       ]
     },
     {
-      "heading": "Partenariat et code de parrainage",
+      "heading": "Liens et code de parrainage 4CW5Y",
       "paragraphs": [
-        "Cecília est affiliée à SHEIN et à AliExpress et peut toucher une commission sur les achats faits via les liens de cet article, sans frais supplémentaires pour vous. Cela ne change pas la réponse : le choix dépend de ce que vous achetez.",
         "Le 4CW5Y est le code de parrainage de Cecília chez SHEIN et donne bien une réduction, sur une sélection de produits et de promotions de SHEIN ; combien et sur quels articles, c'est SHEIN qui décide. Ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site, pas dans le champ du coupon. AliExpress n'a pas de code à nous."
       ],
       "links": [

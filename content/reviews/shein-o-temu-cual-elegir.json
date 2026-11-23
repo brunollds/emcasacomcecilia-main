@@ -338,9 +338,8 @@
       ]
     },
     {
-      "heading": "Colaboración y código de referido",
+      "heading": "Enlaces y código de referido 4CW5Y",
       "paragraphs": [
-        "Cecília es afiliada de SHEIN y Temu y puede recibir una comisión por las compras hechas a través de los enlaces de este artículo, sin costo adicional para ti. Eso no cambia la respuesta: la elección depende de lo que vayas a comprar.",
         "4CW5Y es el código de referido de Cecília en SHEIN y sí da descuento, en una selección de productos y promociones de SHEIN; cuánto y en qué prendas lo decide SHEIN. Abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio: la búsqueda abre una selección con promociones y descuentos. No va en el campo del cupón."
       ],
       "links": [
@@ -389,10 +388,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Elige Temu si tu artículo admite la devolución en 90 días desde la compra y la fecha límite deja más tiempo tras la entrega que el plazo de SHEIN; compara las fechas del pedido."
+      "Elige Temu si tu artículo admite la devolución en 90 días desde la compra y la fecha límite deja más tiempo tras la entrega que el plazo de SHEIN; compara las fechas del pedido.",
+      "Elige SHEIN si quieres un plazo publicado antes de pagar: en España, de 8 a 11 días laborables en envío estándar, mientras que Temu lo indica producto a producto."
     ],
     "skipIf": [
-      "Pasa de SHEIN si quieres devolver con más margen que los 30 días después de la recepción que da en la mayoría de los artículos."
+      "Pasa de SHEIN si quieres devolver con más margen que los 30 días después de la recepción que da en la mayoría de los artículos.",
+      "Pasa de Temu si necesitas saber la fecha de entrega antes de pagar: depende de cada producto y, en México, el envío estándar va de 4 a 28 días hábiles."
     ]
   }
 }
