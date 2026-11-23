@@ -54,7 +54,7 @@
     ],
     "skipIf": [
       "Seu pedido é de capinhas no Compre 1 e Leve 2: essa oferta não soma com cupom.",
-      "Você não quer informar e-mail e CPF antes de pagar: sem isso o campo do cupom não aceita o código."
+      "Você compra por marketplace: o CECILIAA é um código do site oficial da Gocase."
     ]
   },
   "contentSections": [
@@ -156,7 +156,7 @@
       ],
       "bullets": [
         "**A grafia.** CECILIAA, com dois A, tudo junto e sem espaço antes ou depois.",
-        "**A identificação.** O campo só aceita o código depois de você informar e-mail e CPF no checkout.",
+        "**A identificação.** O campo só aceita o código depois da identificação no checkout.",
         "**A linha de desconto.** Ela aparece no resumo do pedido, como Desconto (CECILIAA), quando o cupom entra."
       ],
       "postParagraphs": [
@@ -166,7 +166,7 @@
     {
       "heading": "Vale usar o CECILIAA?",
       "paragraphs": [
-        "Nos três carrinhos, o código deu 5% sobre os produtos, inclusive sobre preços da GoBlack e sobre uma bolsa em promoção. A exceção é o Compre 1 e Leve 2 das capinhas, que não soma com cupom, e o desconto só entra depois de e-mail e CPF no checkout."
+        "Nos três carrinhos, o código deu 5% sobre os produtos, inclusive sobre preços da GoBlack e sobre uma bolsa em promoção. A exceção é o Compre 1 e Leve 2 das capinhas, que não soma com cupom."
       ],
       "emphasis": "Para garrafa, copo ou bolsa, eu usaria o CECILIAA em todo pedido do site oficial, deixaria de fora o Compre 1 e Leve 2 das capinhas e conferiria a linha Desconto (CECILIAA) antes de pagar.",
       "links": [
@@ -181,7 +181,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Gocase? O cupom da Gocase é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, e soma com os preços da GoBlack. No checkout, informe e-mail e CPF antes de digitar o código.",
-        "Onde coloco o cupom na Gocase? Clique em “Finalizar compra”, informe e-mail e CPF e cole CECILIAA em “Tem um cupom?”. Clique em “Aplicar” e confira os 5% no resumo do pedido.",
+        "Onde coloco o cupom na Gocase? Clique em “Finalizar compra”, identifique-se e cole CECILIAA em “Tem um cupom?”. Clique em “Aplicar” e confira os 5% no resumo do pedido.",
         "O cupom Gocase soma com a Black Friday? Nos nossos testes, sim: os 5% entraram sobre produtos da GoBlack e sobre uma bolsa em promoção. A promoção de capinhas Compre 1 e Leve 2 fica de fora, pela regra da loja.",
         "O cupom vale para quem já comprou? Sim. O CECILIAA dá 5% OFF no site oficial para cliente novo e antigo.",
         "O cupom Gocase dá frete grátis? O CECILIAA dá 5% OFF nos produtos do site oficial. O frete grátis da entrega Normal segue o valor do pedido depois dos descontos e a regra para o seu CEP. Confira o total antes de pagar.",

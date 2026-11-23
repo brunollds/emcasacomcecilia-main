@@ -88,7 +88,7 @@
     {
       "heading": "O que muda fora do preço",
       "bullets": [
-        "**Pagamento.** A assinatura aceita só cartão de crédito. Se o cartão for recusado depois de algumas tentativas, a assinatura é cancelada. O EMCASA vale nas compras no site e no app, pelo que diz o programa Parceiro Petz, mas, na Black Friday, não entra em item que já está em oferta, como a areia do teste.",
+        "**Pagamento.** A assinatura aceita só cartão de crédito. Se o cartão for recusado depois de algumas tentativas, a assinatura é cancelada. O EMCASA vale nas compras no site e no app, pelo que diz o programa Parceiro Petz.",
         "**Frequência.** A assinatura pede uma frequência: 30, 45, 60 ou 90 dias, ou uma personalizada. O cupom serve à compra avulsa, sem escolher frequência.",
         "**Compras avulsas.** Enquanto a assinatura estiver ativa, os 10% valem também nas compras sem assinatura, no site e no app. Cancelada, o desconto das avulsas acaba junto.",
         "**Sem taxa para sair.** Não há taxa, carência nem multa de cancelamento. Dá para pausar, trocar itens, mudar data, frequência e endereço, ou cancelar, em Minha Conta, em Minhas Assinaturas, ou no app.",
@@ -150,7 +150,6 @@
         "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Ele não soma com a assinatura: a sacola fica com um dos dois 10%.",
         "A assinatura Petz é paga? Segundo a página oficial, não há taxa, carência nem multa de cancelamento. Você paga os produtos; a assinatura oferece 10% de desconto, e a validação feita no cartão é estornada.",
         "Dá para cancelar quando quiser? Sim, em Minha Conta, em Minhas Assinaturas, ou no app, sem multa de cancelamento.",
-        "O cupom EMCASA soma com a assinatura? Não. A assinatura não aceita outros cupons, e o desconto que fica na sacola é o da assinatura.",
         "A assinatura vale na loja física? A página oficial fala só em site e app, e este texto não afirma que ela vale em loja física."
       ]
     }
@@ -159,12 +158,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você quer programar compras recorrentes e usa cartão de crédito.",
-      "Você pretende manter uma assinatura ativa e usar os benefícios também nas compras avulsas."
+      "Você compra avulso, de vez em quando, e não quer escolher uma frequência.",
+      "Você paga sem cartão de crédito, a única forma aceita para assinar."
     ],
     "skipIf": [
-      "Você prefere decidir cada compra e não quer programar uma frequência: o EMCASA atende à compra avulsa.",
-      "Você paga sem cartão de crédito, a única forma aceita para a assinatura."
+      "Você compra o mesmo produto com frequência e usa cartão de crédito: a assinatura programa o pedido e rende os mesmos 10%.",
+      "Você pretende manter uma assinatura ativa para ter os 10% também nas compras avulsas."
     ]
   },
   "cta": {

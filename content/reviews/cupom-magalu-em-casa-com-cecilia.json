@@ -85,16 +85,16 @@
       "imageAspectRatio": 4.5633
     },
     {
-      "heading": "2. Entre com a sua conta Magalu",
-      "paragraphs": [
-        "Ao fechar a sacola, o Magalu pede a identificação: entre com a mesma conta Magalu que você já usa no site ou no app. O aviso no rodapé informa que o cliente não compartilha dados com o dono da página; não é preciso criar outra conta."
-      ]
-    },
-    {
-      "heading": "3. Monte o carrinho com produtos vendidos e entregues pelo Magalu",
+      "heading": "2. Monte a sacola com produtos vendidos e entregues pelo Magalu",
       "paragraphs": [
         "Navegue pela loja e adicione os produtos ao carrinho. O cupom só vale para itens vendidos e entregues pelo Magalu; produtos de lojas parceiras (marketplace) podem aparecer na vitrine, e neles o código não vale.",
         "Na página do produto, confira quem vende e quem entrega. Com itens mistos no carrinho, o desconto pode falhar."
+      ]
+    },
+    {
+      "heading": "3. Entre com a sua conta Magalu",
+      "paragraphs": [
+        "Com a sacola montada, siga para o fechamento: o Magalu pede a identificação, e você entra com a mesma conta Magalu que já usa no site ou no app. O aviso no rodapé informa que o cliente não compartilha dados com o dono da página; não é preciso criar outra conta."
       ]
     },
     {
@@ -216,7 +216,7 @@
         "Operação Magalu: nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e faz o pós-venda é o próprio Magalu, com a mesma conta e as mesmas garantias de sempre.",
         "Sem cadastro novo: você entra com a sua conta Magalu e não compartilha dado nenhum comigo."
       ],
-      "emphasis": "Para gastar menos num carrinho do Magalu, eu abriria a vitrine da Cecília pelo navegador, conferiria o \"Vendido e entregue por Magalu\" de cada item e usaria o código da maior faixa que o total alcançar.",
+      "emphasis": "Para gastar menos num carrinho do Magalu, eu abriria a minha vitrine pelo navegador, conferiria o \"Vendido e entregue por Magalu\" de cada item e usaria o código da maior faixa que o total alcançar.",
       "links": [
         {
           "label": "Ir para a loja Magazine Você da Cecília",

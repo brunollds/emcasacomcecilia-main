@@ -137,7 +137,7 @@
             "R$ 18,70"
           ],
           [
-            "Bravecto 500 mg, cães de 10 a 20 kg, 1 comprimido",
+            "Bravecto 500 mg, cães de 10 a 20 kg",
             "R$ 168,59 (oferta)",
             "R$ 182,33",
             "R$ 154,28"
@@ -177,14 +177,14 @@
       "heading": "Frete, entrega e retirada",
       "paragraphs": [
         "Na Petz, a política consultada prevê frete grátis na entrega padrão acima de R$ 199 no Sul e no Sudeste, e acima de R$ 299 no Norte, Nordeste e Centro-Oeste. Prazo e custo da Expressa dependem do CEP; na sacola consultada em São Paulo aparecia em até 4 horas, com cobrança à parte. A retirada em loja dá 5% acima de R$ 199 nas regiões Centro-Oeste, Sul e Sudeste, e esse desconto somou com o EMCASA na sacola testada. Para as entregas e a retirada, veja o [artigo sobre a Expressa e a retirada](/reviews/petz-entrega-expressa-ou-retirar-na-loja).",
-        "Na Petlove, a página do Clube Petlove promete frete grátis na entrega padrão, conforme a área, sem valor mínimo ou a partir de R$ 99. Fora do clube, a política lida não informa valor mínimo. A Petlove Já entrega no mesmo dia em São Paulo, Santos, Santo André, Rio de Janeiro, Porto Alegre e Curitiba, quando o pedido é aprovado dentro do horário da filial e pago na forma aceita pela Petlove nessa modalidade.",
+        "Na Petlove, a página do Clube Petlove promete frete grátis na entrega padrão, conforme a área, sem valor mínimo ou a partir de R$ 99. Fora do clube, a política lida não informa valor mínimo. A Petlove Já entrega no mesmo dia em São Paulo, Santos, Santo André, Rio de Janeiro, Porto Alegre e Curitiba, quando o pedido é aprovado dentro do horário da filial e pago com cartão ou Pix.",
         "A Petlove tem 10 lojas físicas com clique e retire. A página lida não informou prazo nem custo da retirada, e não vimos desconto de retirada nela."
       ]
     },
     {
       "heading": "Reclame Aqui",
       "paragraphs": [
-        "Nos últimos seis meses, a Petz - Loja Online tinha nota 8,3 e 89% das reclamações resolvidas; a Petlove - Petsupermarket, nota 8,4, selo RA1000 e 91,2% resolvidas."
+        "Nos últimos seis meses, a Petz - Loja Online tinha nota 8,3 e reputação Ótima; a Petlove, nota 8,4 e selo RA1000."
       ]
     },
     {
@@ -211,7 +211,6 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Ele só vale na Petz, no site e no app, e não na Petlove.",
-        "O cupom da Petz vale na Petlove? Não. O EMCASA é desconto da Petz e só entra na sacola da Petz, no site e no app.",
         "A Petz cobre o preço da Petlove? Só nas lojas físicas, pelo Pesquise Lá, Compre Aqui, que não vale para serviços nem para assinatura e não soma com outros descontos.",
         "Qual tem frete grátis mais baixo? Para quem é do Clube Petlove, a entrega padrão grátis pode não ter mínimo ou ter um mínimo menor que o da Petz no Sul e no Sudeste, conforme a área. Fora do clube, a política lida da Petlove não informa mínimo, então não dá para dizer qual é menor.",
         "A Petlove tem loja física? Sim, 10 lojas com clique e retire. A página lida não informou prazo nem custo da retirada."
@@ -222,12 +221,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você quer retirar a compra numa loja física: a Petz tem 5% na retirada, que soma com o EMCASA (14,5% no total nos itens fora de oferta), e a Petlove não mostrou desconto para isso.",
-      "Você já é membro do Clube Petlove: com o preço de membro, a Petlove ficou abaixo em três dos cinco itens comparáveis com esse preço."
+      "Você quer retirar a compra numa loja física: a Petz tem 5% na retirada, que soma com o EMCASA (14,5% no total nos itens fora de oferta), e a Petlove não mostrou desconto para isso."
     ],
     "skipIf": [
       "A embalagem não corresponde à da tabela: confirme o produto e o peso antes de usar a comparação.",
-      "Você aderiria ao Clube só para esta compra, mas a economia não cobre o custo do plano."
+      "Você aderiria ao Clube só para esta compra, mas a economia não cobre o custo do plano.",
+      "Você já é membro do Clube Petlove: com o preço de membro, a Petlove ficou abaixo em três dos cinco itens comparáveis com esse preço."
     ]
   },
   "cta": {
@@ -238,7 +237,7 @@
   },
   "coupon": "EMCASA",
   "affiliate": "petz",
-  "editorialNote": "Preços lidos nas páginas das duas lojas, no mesmo dia e no mesmo CEP, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom da Petz.",
+  "editorialNote": "Preços lidos nas duas lojas, sem finalizar a compra. Podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-petz-como-usar"

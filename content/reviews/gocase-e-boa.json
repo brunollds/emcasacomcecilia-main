@@ -53,7 +53,7 @@
       "Você quer decidir a bolsa pelo tamanho do notebook e pelo que mais leva junto."
     ],
     "skipIf": [
-      "Você vai levar bebida gaseificada na garrafa: a ficha da Fresh e da Urban não recomenda.",
+      "Você vai levar bebida gaseificada na garrafa: a ficha da Urban orienta evitar.",
       "Você precisa da opção de devolver por arrependimento. A política da Gocase restringe essa devolução para itens personalizados."
     ]
   },
@@ -103,7 +103,7 @@
       },
       "postParagraphs": [
         "Se o nome do produto trouxer “+ Ebook”, é um kit. A Gocase informa que envia o e-book ao e-mail cadastrado após a emissão da nota fiscal. A página não informa o tema.",
-        "Na leitura de 22/11, a Fresh de 650 ml saía por R$ 119,90 na maioria das cores e por R$ 99,90 na Melancia e na Amarela; a Urban, por R$ 89,90, e o Life de 880 ml, por R$ 99,90."
+        "Na leitura de 22/11, a Fresh de 650 ml saía por R$ 119,90 na maioria das cores e por R$ 99,90 na Melancia e na Amarela."
       ],
       "images": [
         {
@@ -150,6 +150,9 @@
           "href": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8747",
           "sponsored": true
         }
+      ],
+      "postParagraphs": [
+        "Na mesma leitura, a Urban saía por R$ 89,90 e o Life de 880 ml, por R$ 99,90."
       ]
     },
     {
@@ -215,7 +218,7 @@
         }
       ],
       "postParagraphs": [
-        "Na loja, a Tote Mini custa R$ 149,90, a Tote Daily R$ 159,90 e a Joy Pro R$ 199,90. A Joy Pro é a que carrega mais e a que mais custa."
+        "Na loja, a Tote Mini custa R$ 149,90, a Tote Daily R$ 159,90 e a Joy Pro R$ 199,90. A Joy Pro é a que carrega mais e a que mais custa. Para o compartimento do notebook da Joy Pro, a ficha técnica dá 36 × 20 × 2 cm, e a pergunta frequente da página do produto fala em 36 × 22 cm: meça o seu aparelho com folga."
       ]
     },
     {
@@ -259,10 +262,10 @@
     {
       "heading": "Qual escolher e o cupom",
       "paragraphs": [
-        "Para quem quer uma garrafa que cabe na bolsa, a Fresh de 650 ml ou a Urban; para beber de canudo, o Life; para notebook, a bolsa pelas medidas do compartimento. Capinha, só depois de confirmar o modelo do celular.",
+        "Se a prioridade é uma garrafa que cabe na bolsa, olhe a Fresh de 650 ml ou a Urban; para beber de canudo, o Life; para notebook, escolha a bolsa pelas medidas do compartimento. Para capinha, confirme o modelo exato do celular antes de escolher a linha.",
         "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no pedido, em todas as formas de pagamento, para cliente novo e antigo. No checkout, informe e-mail e CPF antes de digitar o código, porque sem isso o campo Tem um cupom? não aceita. Os preços da campanha estão na [Black Friday da Gocase](/reviews/black-friday-gocase), e o passo a passo, em [como usar o CECILIAA](/reviews/cupom-gocase-como-usar)."
       ],
-      "emphasis": "Para personalizar uma garrafa ou escolher uma bolsa pelo notebook, eu começaria pela Fresh ou pela Tote Mini, conferiria a medida na ficha e usaria o CECILIAA no site oficial.",
+      "emphasis": "Para levar notebook e peso, eu escolheria a Joy Pro, de maior carga da tabela, depois de medir o aparelho contra o compartimento; para a garrafa, eu partiria da Fresh de 650 ml e usaria o CECILIAA no site oficial.",
       "links": [
         {
           "label": "Ver a Garrafa Fresh na Gocase",
@@ -278,7 +281,7 @@
         "Quanto tempo a Fresh da Gocase mantém a bebida gelada? A Gocase informa até 24 horas para bebidas frias e até 12 horas para quentes nas condições da ficha.",
         "A Gocase tem garantia? Na Central de Ajuda, os térmicos têm um ano contra defeitos de fabricação e seis meses contra descascamento. Nas capinhas e nas bolsas, o prazo depende do defeito. Confira a cobertura do modelo que escolher.",
         "Produto personalizado da Gocase tem troca? A política da Gocase restringe a troca por arrependimento de itens com estampa, nome ou foto. Se houver defeito ou problema na entrega, acione o atendimento.",
-        "A bolsa Gocase cabe notebook? Compare as medidas do aparelho com as do compartimento. A ficha indica até 35,5 × 23,4 × 2 cm para a Tote Daily e 36 × 20 × 2 cm para a Joy Pro.",
+        "A bolsa Gocase cabe notebook? Compare as medidas do aparelho com as do compartimento. A ficha indica até 35,5 × 23,4 × 2 cm para a Tote Daily e 36 × 20 × 2 cm para a Joy Pro, enquanto a página da Joy Pro cita 36 × 22 cm.",
         "O que é o ebook que vem com a garrafa? É um kit promocional: o e-book vai para o e-mail cadastrado depois da emissão da nota fiscal. A página não diz o tema, e cancelar um item do kit faz perder o benefício."
       ]
     }

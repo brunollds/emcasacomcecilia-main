@@ -142,7 +142,7 @@
       },
       "postParagraphs": [
         "Confira no seu carrinho: com a retirada escolhida, a sacola mostra o “+5% OFF” na opção Retire na Loja. Compare o total antes de pagar, porque a regra de retirada depende da região, do valor do pedido e da disponibilidade da loja pelo CEP.",
-        "No total, a sacola fechou 14,5% abaixo do preço cheio, e não 15%: os 5% da retirada saem do valor que já tem o cupom, e não do preço cheio. Em item já em promoção o EMCASA não entra, então 14,5% é o teto da soma, não o desconto de toda sacola."
+        "No total, a sacola fechou 14,5% abaixo do preço cheio, e não 15%: os 5% da retirada saem do valor que já tem o cupom, e não do preço cheio. Em item com promoção acima de 10% o EMCASA não entra, então 14,5% é o teto da soma, não o desconto de toda sacola."
       ]
     },
     {
@@ -174,7 +174,7 @@
       "bullets": [
         "**Promoção acima de 10%.** A oferta do item é maior que o cupom, e a sacola mantém a oferta, como na Maxi da tabela.",
         "**Assinatura ativa.** O 10% da assinatura já está na sacola, e ela não soma com cupom.",
-        "**Código com espaço ou no campo errado.** Cole sem espaço, no campo “Digite seu cupom” da sacola. O botão da parceria abre a loja e não aplica o código.",
+        "**Código com espaço ou no campo errado.** Cole sem espaço, no campo “Digite seu cupom” da sacola.",
         "**Frete que sumiu.** Se o cupom deixou o pedido abaixo do mínimo da sua região, o frete grátis sai. Compare o total com e sem o código.",
         "**Clubz com desconto maior.** Durante a campanha da Black Friday, o regulamento diz que cupons não somam com o desconto do Clubz, e o sistema aplica o maior. Confira a linha do desconto na sacola."
       ]
@@ -203,9 +203,7 @@
       "bullets": [
         "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. O botão da parceria não aplica o código sozinho: cole-o no campo \"Digite seu cupom\" da sacola.",
         "O cupom soma com promoção? Não: em cada item, a sacola fica com o desconto maior. A tabela de quando o cupom muda o preço mostra a conta com três produtos.",
-        "Vale no app? Sim, pelo que diz o programa Parceiro Petz, o EMCASA vale nas compras no site e no app.",
         "Dá frete grátis? O EMCASA é desconto de 10%; o frete segue a faixa da sua região, como explicado na seção de frete.",
-        "O cupom vale em toda compra? Segundo o programa Parceiro Petz, o EMCASA vale em todas as compras no site e no app.",
         "Existe cupom Petz de 15%? Os códigos de parceiro, como o EMCASA, dão 10%. O \"até 15%\" que aparece por aí é esse 10% mais os 5% do Retire na Loja, que vale no Centro-Oeste, Sul e Sudeste em compras acima do mínimo da loja. Como os 5% saem do valor já com o cupom, a soma dá 14,5%."
       ]
     }

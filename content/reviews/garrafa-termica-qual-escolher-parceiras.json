@@ -31,7 +31,7 @@
       "Você quer a menor conta por 100 ml da tabela, em inox e com alça: a Dual com alça de 900 ml da Bagaggio."
     ],
     "skipIf": [
-      "Você vai levar bebida quente: a Gocase indica a Flip Pro só para bebida fria por causa da tampa.",
+      "Você quer a Flip Pro para café ou chá: a Gocase a indica só para bebida fria por causa da tampa.",
       "Você precisa de um número de horas de conservação na página: a Bagaggio diz apenas “por horas”."
     ]
   },
@@ -41,7 +41,7 @@
     "gocase",
     "bagaggio"
   ],
-  "editorialNote": "Feito com as páginas dos sites oficiais, sem usar as garrafas. Somos parceiros da Gocase e da Bagaggio e podemos receber comissão pelas compras feitas pelos nossos links.",
+  "editorialNote": "Sites oficiais. Somos parceiros da Gocase e da Bagaggio e podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "gocase-e-boa"
@@ -184,7 +184,7 @@
     {
       "heading": "Códigos de desconto das duas lojas",
       "paragraphs": [
-        "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% OFF no pedido. No checkout, informe e-mail e CPF antes de digitar o código; sem isso o campo Tem um cupom? não aceita. As regras e o passo a passo estão na página do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
+        "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% OFF no pedido. No checkout, informe e-mail e CPF antes de digitar o código; sem isso o campo Tem um cupom? não aceita o código. As regras e o passo a passo estão na página do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
         "Na Bagaggio, o código é CECILIA10 e dá 10% OFF em todo o site. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. O resumo fica em [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
         "Em simulação direta sobre os preços da tabela, a Dual com alça azul de 900 ml cairia para R$ 89,91 com CECILIA10, e a Fresh de 950 ml branca ou preta ficaria em R$ 132,90 com CECILIAA, antes do frete. Confira o valor final no carrinho da loja escolhida antes de pagar."
       ]

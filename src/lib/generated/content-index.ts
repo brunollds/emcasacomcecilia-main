@@ -36261,16 +36261,16 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 4.5633
       },
       {
-        "heading": "2. Entre com a sua conta Magalu",
-        "paragraphs": [
-          "Ao fechar a sacola, o Magalu pede a identificação: entre com a mesma conta Magalu que você já usa no site ou no app. O aviso no rodapé informa que o cliente não compartilha dados com o dono da página; não é preciso criar outra conta."
-        ]
-      },
-      {
-        "heading": "3. Monte o carrinho com produtos vendidos e entregues pelo Magalu",
+        "heading": "2. Monte a sacola com produtos vendidos e entregues pelo Magalu",
         "paragraphs": [
           "Navegue pela loja e adicione os produtos ao carrinho. O cupom só vale para itens vendidos e entregues pelo Magalu; produtos de lojas parceiras (marketplace) podem aparecer na vitrine, e neles o código não vale.",
           "Na página do produto, confira quem vende e quem entrega. Com itens mistos no carrinho, o desconto pode falhar."
+        ]
+      },
+      {
+        "heading": "3. Entre com a sua conta Magalu",
+        "paragraphs": [
+          "Com a sacola montada, siga para o fechamento: o Magalu pede a identificação, e você entra com a mesma conta Magalu que já usa no site ou no app. O aviso no rodapé informa que o cliente não compartilha dados com o dono da página; não é preciso criar outra conta."
         ]
       },
       {
@@ -36392,7 +36392,7 @@ export const reviewsData: unknown[] = [
           "Operação Magalu: nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e faz o pós-venda é o próprio Magalu, com a mesma conta e as mesmas garantias de sempre.",
           "Sem cadastro novo: você entra com a sua conta Magalu e não compartilha dado nenhum comigo."
         ],
-        "emphasis": "Para gastar menos num carrinho do Magalu, eu abriria a vitrine da Cecília pelo navegador, conferiria o \"Vendido e entregue por Magalu\" de cada item e usaria o código da maior faixa que o total alcançar.",
+        "emphasis": "Para gastar menos num carrinho do Magalu, eu abriria a minha vitrine pelo navegador, conferiria o \"Vendido e entregue por Magalu\" de cada item e usaria o código da maior faixa que o total alcançar.",
         "links": [
           {
             "label": "Ir para a loja Magazine Você da Cecília",
@@ -36499,7 +36499,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A central de ajuda dos influenciadores responde que sim: \"Tanto os preços, quanto as campanhas realizadas no site do Magazine Luiza, valem também para as lojas dos Influenciadores Magalu\". De vez em quando, diz a central, há promoções exclusivas da plataforma.",
           "Na prática, o produto aparece na vitrine do influenciador com a mesma ficha e o mesmo \"Vendido e entregue por\" do catálogo do Magalu. O influenciador não controla o preço, o estoque nem o prazo: quem define é o vendedor do item.",
-          "Por isso vale comparar antes de pagar: abra o mesmo produto na vitrine e confira o vendedor e o valor final no checkout. Se o item for de loja parceira e não do Magalu, o código da Cecília não vale nele."
+          "Antes de pagar, confira na vitrine o vendedor e o valor final. Se o item for de loja parceira e não do Magalu, o código da Cecília não vale nele."
         ]
       },
       {
@@ -36585,7 +36585,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O login de quem tem loja no programa fica em magazinevoce.com.br/login. Para comprar, você não precisa de loja: escolhe o produto na loja do influenciador e paga no checkout do Magalu pelo navegador.",
           "O caminho do comprador é este: monte a sacola na vitrine, siga para o fechamento e entre com a sua conta Magalu. A sacola não tem campo de cupom; ela só avisa que você poderá usar o cupom na etapa de pagamento. É nessa etapa, depois do login e da escolha da entrega, que o código da Cecília é digitado.",
-          "O app do Magalu é outra porta: ele não abre a vitrine do influenciador, e por isso os códigos da Cecília não funcionam lá."
+          "No app do Magalu, os códigos da Cecília não funcionam."
         ]
       },
       {
@@ -36598,7 +36598,7 @@ export const reviewsData: unknown[] = [
         "heading": "A loja do Em Casa com Cecília",
         "paragraphs": [
           "A minha loja segue esses critérios: o endereço é magazinevoce.com.br/magazineemcasacomcecilia/ e mostra o selo do programa com o nome Emcasacomcecilia.",
-          "Os cupons da Cecília, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, só funcionam no navegador, dentro da minha loja, e só em produtos vendidos e entregues pelo Magalu. Itens de lojistas parceiros e o app do Magalu ficam fora. O código é digitado na etapa de pagamento, depois do login. As faixas e as regras estão no guia do cupom."
+          "Os cupons da Cecília, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, só funcionam no navegador, dentro da minha loja, e só em produtos vendidos e entregues pelo Magalu. Itens de lojistas parceiros e o app do Magalu ficam fora. As faixas e as regras estão no guia do cupom."
         ],
         "links": [
           {
@@ -36615,12 +36615,12 @@ export const reviewsData: unknown[] = [
             "href": "/cupons/magalu"
           }
         ],
-        "emphasis": "Para comprar com segurança na vitrine da Cecília, eu conferiria o endereço magazinevoce.com.br, o \"Vendido e entregue por Magalu\" de cada item e só então digitaria o código, no navegador e na etapa de pagamento."
+        "emphasis": "Para comprar com segurança na minha vitrine, eu conferiria o endereço magazinevoce.com.br, o \"Vendido e entregue por Magalu\" de cada item e só então digitaria o código, no navegador e na etapa de pagamento."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom do Magalu? Na loja Magazine Você da Cecília, pelo navegador, os códigos vão de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, de 10 a 100 reais de desconto conforme o valor do carrinho, em produtos vendidos e entregues pelo Magalu. Eles não valem no app, e o campo do código aparece na etapa de pagamento, depois do login.",
+          "Qual é o cupom do Magalu? Na loja Magazine Você da Cecília, pelo navegador, os códigos vão de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, de 10 a 100 reais de desconto conforme o valor do carrinho, em produtos vendidos e entregues pelo Magalu. Eles não valem no app.",
           "magazinevoce.com.br é confiável? Sim: é o domínio do programa oficial, registrado em nome da Magazine Luiza S/A (CNPJ 47.960.950/0001-21) desde 2011. O Magalu cobra e atende o pedido; confira na página do produto quem vende e entrega.",
           "O Magazine Você é golpe? Não: é o programa oficial de lojas de influenciador do Magalu; golpe é um site fora desse domínio que se passa por ele, ou um pagamento fora do checkout do Magalu.",
           "Comprar no Magalu é seguro? O Magalu tem CNPJ próprio e reputação Ótima no Reclame Aqui, mas nenhuma nota garante uma compra sem problema: confira o \"Vendido e entregue por\" e desconfie de boleto ou link de cobrança recebido por mensagem.",
@@ -57471,8 +57471,8 @@ export const reviewsData: unknown[] = [
         "heading": "Quando começa e até quando vai a Black Friday do Magalu?",
         "paragraphs": [
           "O grande dia é a sexta-feira 27 de novembro, e as ofertas se estendem até a Cyber Monday. Mas o Magalu chama novembro inteiro de \"Black das Blacks\", com \"descontos de até 70% off em milhares de produtos\", e a página da Black Friday já está cheia de ofertas antecipadas.",
-          "O que já está valendo, pela página da Black Friday: as ofertas antecipadas levam o selo \"Oferta Black\", que a loja chama de garantia de preço da Black Friday; a super oferta antecipada traz ofertas novas todo domingo no app e às segundas nas lojas físicas; o app dá um cupom extra sobre as ofertas antecipadas, novo todo dia e válido por um dia; toda sexta-feira de novembro tem uma condição nas lojas físicas; e o Cliente Ouro tem dia exclusivo em 7 e 8 de novembro, em todas as lojas.",
-          "O calendário divulgado em outubro trazia ainda a Liquidação do Dia do Pagamento em 5 e 6 de novembro, no app e nas lojas, com até 60% de desconto e frete grátis, o 11.11 com preços de Black Friday no app e o \"Faz um 21\", com parcelamento em até 21 vezes sem juros durante o mês.",
+          "O que está valendo, pela página da Black Friday: as ofertas antecipadas levam o selo \"Oferta Black\", que a loja chama de garantia de preço da Black Friday; a super oferta antecipada traz ofertas novas todo domingo no app e às segundas nas lojas físicas; o app dá um cupom extra sobre as ofertas antecipadas, novo todo dia e válido por um dia; toda sexta-feira de novembro tem uma condição nas lojas físicas.",
+          "O calendário divulgado em outubro trazia ainda a Liquidação do Dia do Pagamento, no app e nas lojas, com até 60% de desconto e frete grátis, o 11.11 com preços de Black Friday no app e o \"Faz um 21\", com parcelamento em até 21 vezes sem juros durante o mês.",
           "O padrão se repete: em 2023, as promoções correram o mês todo, segundo o Money Times; em 2025, a \"Black das Blacks\" durou mais de um mês, em texto patrocinado pelo Magalu no Canaltech."
         ]
       },
@@ -57678,7 +57678,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As duas air fryers Mondial da tabela de outubro (AFN-40-BI, de 4 litros, e AFON-12L-BI, de 12 litros) não tinham oferta vendida pelo Magalu nessa leitura, só de lojistas parceiros, onde o código não entra. A versão preta da de 4 litros, a [AFN-40-BF](https://www.magazinevoce.com.br/magazineemcasacomcecilia/air-fryer-mondial-afn-40-bf-preta-com-timer/p/236409800/ep/efso/?seller_id=magazineluiza), vendida pelo Magalu, estava a R$ 272,63 no cartão e R$ 259,00 no Pix. Confira a voltagem e a disponibilidade na página: a oferta pode estar sem estoque."
+          "As duas air fryers Mondial da tabela de outubro (AFN-40-BI, de 4 litros, e AFON-12L-BI, de 12 litros) não tinham oferta vendida pelo Magalu nessa leitura de novembro, só de lojistas parceiros, onde o código não entra. Em 22/11, a AFN-40-BI apareceu vendida e entregue pelo Magalu. A versão preta da de 4 litros, a [AFN-40-BF](https://www.magazinevoce.com.br/magazineemcasacomcecilia/air-fryer-mondial-afn-40-bf-preta-com-timer/p/236409800/ep/efso/?seller_id=magazineluiza), vendida pelo Magalu, estava a R$ 272,63 no cartão e R$ 259,00 no Pix. Confira a voltagem e a disponibilidade na página: a oferta pode estar sem estoque."
         ],
         "image": {
           "src": "/images/reviews/magalu/black-friday-magalu-air-fryer-mondial-afn-40-bf.webp",
@@ -57692,7 +57692,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que comprar em cada caminho: linha branca, cozinha e eletroportáteis",
         "paragraphs": [
-          "A tabela aplica o código da faixa de cada produto sobre os preços de meados de novembro. É conta nossa: o código da Cecília entra na etapa de pagamento, depois do login. O último teste com o código aplicado, em outubro, tirou R$ 50 de uma sacola de R$ 2.999 com o 50EMCASACOMCECILIA."
+          "A tabela aplica o código da faixa de cada produto sobre os preços de meados de novembro. É conta nossa, não leitura de checkout. O último teste com o código aplicado, em outubro, tirou R$ 50 de uma sacola de R$ 2.999 com o 50EMCASACOMCECILIA."
         ],
         "comparisonTable": {
           "caption": "Código da faixa de cada produto e o preço com ele, pela nossa conta, sobre os preços de meados de novembro na loja Magazine Você da Cecília. Nas duas lavadoras, a faixa depende da base do valor mínimo, que não confirmamos.",
@@ -57759,7 +57759,7 @@ export const reviewsData: unknown[] = [
           "**Lavadora:** a Electrolux de 15 kg estava praticamente no preço de outubro, e a página dela mostrava um cupom do próprio Magalu maior que o código da Cecília. A Brastemp de 14 kg subiu.",
           "**Cozinha:** o fogão Consul Inox de 4 bocas melhorou; o Esmaltec Ideal Pop subiu, e o micro-ondas Electrolux de 34 litros ficou igual.",
           "**Eletroportáteis:** a panela de pressão elétrica Mondial de 5 litros e o aspirador vertical Electrolux ficaram mais baratos que em outubro. Sozinhos, ficam abaixo dos R$ 499,90 da primeira faixa, e o preço da página já é o que você paga.",
-          "**Air fryer:** confira o vendedor antes de pôr na sacola. Os dois modelos Mondial da tabela de outubro só apareciam com lojistas parceiros; a [AFN-40-BF](https://www.magazinevoce.com.br/magazineemcasacomcecilia/air-fryer-mondial-afn-40-bf-preta-com-timer/p/236409800/ep/efso/?seller_id=magazineluiza), vendida pelo Magalu, é a versão preta de 4 litros, e o estoque pode acabar."
+          "**Air fryer:** confira o vendedor antes de pôr na sacola. Na leitura de novembro, os dois modelos Mondial da tabela de outubro só apareciam com lojistas parceiros. Em 22/11, a [AFN-40-BI](https://www.magazinevoce.com.br/magazineemcasacomcecilia/air-fryer-mondial-family-afn-40-bi-preto-4l-com-timer/p/228887100/ep/efso/?seller_id=magazineluiza) apareceu vendida e entregue pelo Magalu; a [AFN-40-BF](https://www.magazinevoce.com.br/magazineemcasacomcecilia/air-fryer-mondial-afn-40-bf-preta-com-timer/p/236409800/ep/efso/?seller_id=magazineluiza), vendida pelo Magalu, é a versão preta de 4 litros, e o estoque pode acabar."
         ],
         "postParagraphs": [
           "O código é um valor fixo por faixa, então ele não muda a ordem de preço entre dois produtos da mesma faixa: escolha pelo tamanho, pela voltagem e pelo que cabe no espaço, e use o código no fim. Só junte itens para subir de faixa quando o item extra já estava na sua lista: R$ 10 a mais de desconto não pagam um produto que você não ia comprar.",
@@ -57873,9 +57873,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que eu faria na Black Friday do Magalu",
         "paragraphs": [
-          "O guia mostrou quatro coisas. O código da Cecília só vale no navegador, na vitrine Magazine Você da Cecília, em item vendido e entregue pelo Magalu. O desconto é fixo por faixa, e vale o da maior faixa que o carrinho alcançar. Em novembro, o preço de cada eletro mexeu para um lado ou para o outro, então a tabela de outubro serve de régua. E, perto do limite de uma faixa, o preço do cartão e o do Pix podem cair em faixas diferentes: teste primeiro a de cima."
+          "O código da Cecília só vale no navegador, na vitrine Magazine Você da Cecília, em item vendido e entregue pelo Magalu, e o desconto é fixo por faixa: vale o da maior faixa que o carrinho alcançar. Em novembro, o preço de cada eletro mexeu para um lado ou para o outro, então a tabela de outubro serve de régua. Perto do limite de uma faixa, o preço do cartão e o do Pix podem cair em faixas diferentes: teste primeiro a de cima."
         ],
-        "emphasis": "Para gastar menos na Black Friday do Magalu, eu compararia o preço do app com o da vitrine da Cecília já com o código da faixa, e só fecharia o pedido depois de ver o desconto no resumo da etapa de pagamento.",
+        "emphasis": "Para gastar menos na Black Friday do Magalu, eu compararia o preço do app com o da minha vitrine já com o código da faixa, e só fecharia o pedido depois de ver o desconto no resumo da etapa de pagamento.",
         "links": [
           {
             "label": "Ir para a loja da Cecília no Magalu",
@@ -231538,7 +231538,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Confira no seu carrinho: com a retirada escolhida, a sacola mostra o “+5% OFF” na opção Retire na Loja. Compare o total antes de pagar, porque a regra de retirada depende da região, do valor do pedido e da disponibilidade da loja pelo CEP.",
-          "No total, a sacola fechou 14,5% abaixo do preço cheio, e não 15%: os 5% da retirada saem do valor que já tem o cupom, e não do preço cheio. Em item já em promoção o EMCASA não entra, então 14,5% é o teto da soma, não o desconto de toda sacola."
+          "No total, a sacola fechou 14,5% abaixo do preço cheio, e não 15%: os 5% da retirada saem do valor que já tem o cupom, e não do preço cheio. Em item com promoção acima de 10% o EMCASA não entra, então 14,5% é o teto da soma, não o desconto de toda sacola."
         ]
       },
       {
@@ -231570,7 +231570,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Promoção acima de 10%.** A oferta do item é maior que o cupom, e a sacola mantém a oferta, como na Maxi da tabela.",
           "**Assinatura ativa.** O 10% da assinatura já está na sacola, e ela não soma com cupom.",
-          "**Código com espaço ou no campo errado.** Cole sem espaço, no campo “Digite seu cupom” da sacola. O botão da parceria abre a loja e não aplica o código.",
+          "**Código com espaço ou no campo errado.** Cole sem espaço, no campo “Digite seu cupom” da sacola.",
           "**Frete que sumiu.** Se o cupom deixou o pedido abaixo do mínimo da sua região, o frete grátis sai. Compare o total com e sem o código.",
           "**Clubz com desconto maior.** Durante a campanha da Black Friday, o regulamento diz que cupons não somam com o desconto do Clubz, e o sistema aplica o maior. Confira a linha do desconto na sacola."
         ]
@@ -231599,9 +231599,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. O botão da parceria não aplica o código sozinho: cole-o no campo \"Digite seu cupom\" da sacola.",
           "O cupom soma com promoção? Não: em cada item, a sacola fica com o desconto maior. A tabela de quando o cupom muda o preço mostra a conta com três produtos.",
-          "Vale no app? Sim, pelo que diz o programa Parceiro Petz, o EMCASA vale nas compras no site e no app.",
           "Dá frete grátis? O EMCASA é desconto de 10%; o frete segue a faixa da sua região, como explicado na seção de frete.",
-          "O cupom vale em toda compra? Segundo o programa Parceiro Petz, o EMCASA vale em todas as compras no site e no app.",
           "Existe cupom Petz de 15%? Os códigos de parceiro, como o EMCASA, dão 10%. O \"até 15%\" que aparece por aí é esse 10% mais os 5% do Retire na Loja, que vale no Centro-Oeste, Sul e Sudeste em compras acima do mínimo da loja. Como os 5% saem do valor já com o cupom, a soma dá 14,5%."
         ]
       }
@@ -231941,7 +231939,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Petz no Reclame Aqui: reputação Ótima, nota 8,3 e índice de solução de 89% nos últimos seis meses. Veja as principais queixas e como achar o perfil certo.",
+    "description": "Petz no Reclame Aqui: reputação Ótima, nota 8,3 e 88,9% das reclamações avaliadas resolvidas em seis meses. Veja as principais queixas e como achar o perfil certo.",
     "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz. Veja a nota no Reclame Aqui, as queixas de entrega e como reconhecer o perfil certo.",
     "publishedAt": "11 de novembro de 2026",
     "publishedAtISO": "2026-11-11",
@@ -232089,8 +232087,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a nota e o selo medem, e o que não medem",
         "paragraphs": [
-          "A nota 8,3 do perfil vem da plataforma e combina indicadores do atendimento às reclamações, como resposta, solução, quem voltaria a fazer negócio e a nota que o consumidor dá. A faixa Ótima começa em 8,0; em 2024, a nota 7,9 deixou o perfil na faixa Boa, logo abaixo.",
-          "A nota média do consumidor, 7,05 nos seis meses, é outra medida: é a média das notas dadas por quem teve a reclamação finalizada e avaliou o atendimento. Por isso ela fica abaixo dos 8,3.",
+          "A nota 8,3 do perfil vem da plataforma e combina indicadores do atendimento às reclamações, como resposta, solução, quem voltaria a fazer negócio e a nota que o consumidor dá. Segundo o Reclame Aqui, a faixa Ótima começa em 8,0; em 2024, a nota 7,9 deixou o perfil na faixa Boa, logo abaixo.",
+          "A nota média do consumidor, 7,05 nos seis meses, é outra medida: é a média das notas dadas por quem teve a reclamação finalizada e avaliou o atendimento. É outra conta, e no período ficou abaixo da nota do perfil.",
           "O perfil não mostra o selo RA1000 nem o de Empresa Verificada. Reputação Ótima é uma faixa da nota, não um selo.",
           "A nota mede o pós-venda de quem reclamou. Ela não mede a qualidade dos produtos nem quantos pedidos a Petz entrega, e muda de um período para o outro."
         ]
@@ -232103,7 +232101,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Respostas: 99,9% das reclamações dos últimos seis meses foram respondidas, e 100% em 2024 e em 2025.",
           "Evolução: a reputação foi de Boa (7,9) em 2024 para Ótima (8,2) em 2025, e a nota é 8,3 nos seis meses.",
-          "Tempo de resposta: de 3 dias e 6 horas em 2025 a 4 dias e 18 horas nos seis meses, contra 6 dias e 8 horas em 2024.",
+          "Tempo de resposta: caiu de 6 dias e 8 horas em 2024 para 3 dias e 6 horas em 2025; nos seis meses, foi de 4 dias e 18 horas.",
           "Histórico: 18 anos de cadastro no Reclame Aqui.",
           "Solução e recompra: entre as 2.204 reclamações avaliadas nos seis meses, 88,9% foram resolvidas e 74,3% dos consumidores voltariam a fazer negócio."
         ]
@@ -232396,7 +232394,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "As condições do código estão em [cupom Petz](/cupons/petz)."
         ],
-        "emphasis": "Na Black Friday, eu abriria a sacola primeiro e só colaria o EMCASA nos itens sem oferta ou com oferta abaixo de 10%, porque nos outros a oferta ganha do cupom.",
+        "emphasis": "Na Petz Friday, eu colaria o EMCASA em toda sacola e conferiria o Total de descontos: ele só baixa os itens sem oferta ou com oferta abaixo de 10%.",
         "links": [
           {
             "label": "Ir para a Petz e colar o EMCASA",
@@ -232542,7 +232540,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que muda fora do preço",
         "bullets": [
-          "**Pagamento.** A assinatura aceita só cartão de crédito. Se o cartão for recusado depois de algumas tentativas, a assinatura é cancelada. O EMCASA vale nas compras no site e no app, pelo que diz o programa Parceiro Petz, mas, na Black Friday, não entra em item que já está em oferta, como a areia do teste.",
+          "**Pagamento.** A assinatura aceita só cartão de crédito. Se o cartão for recusado depois de algumas tentativas, a assinatura é cancelada. O EMCASA vale nas compras no site e no app, pelo que diz o programa Parceiro Petz.",
           "**Frequência.** A assinatura pede uma frequência: 30, 45, 60 ou 90 dias, ou uma personalizada. O cupom serve à compra avulsa, sem escolher frequência.",
           "**Compras avulsas.** Enquanto a assinatura estiver ativa, os 10% valem também nas compras sem assinatura, no site e no app. Cancelada, o desconto das avulsas acaba junto.",
           "**Sem taxa para sair.** Não há taxa, carência nem multa de cancelamento. Dá para pausar, trocar itens, mudar data, frequência e endereço, ou cancelar, em Minha Conta, em Minhas Assinaturas, ou no app.",
@@ -232604,7 +232602,6 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Ele não soma com a assinatura: a sacola fica com um dos dois 10%.",
           "A assinatura Petz é paga? Segundo a página oficial, não há taxa, carência nem multa de cancelamento. Você paga os produtos; a assinatura oferece 10% de desconto, e a validação feita no cartão é estornada.",
           "Dá para cancelar quando quiser? Sim, em Minha Conta, em Minhas Assinaturas, ou no app, sem multa de cancelamento.",
-          "O cupom EMCASA soma com a assinatura? Não. A assinatura não aceita outros cupons, e o desconto que fica na sacola é o da assinatura.",
           "A assinatura vale na loja física? A página oficial fala só em site e app, e este texto não afirma que ela vale em loja física."
         ]
       }
@@ -232613,12 +232610,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer programar compras recorrentes e usa cartão de crédito.",
-        "Você pretende manter uma assinatura ativa e usar os benefícios também nas compras avulsas."
+        "Você compra avulso, de vez em quando, e não quer escolher uma frequência.",
+        "Você paga sem cartão de crédito, a única forma aceita para assinar."
       ],
       "skipIf": [
-        "Você prefere decidir cada compra e não quer programar uma frequência: o EMCASA atende à compra avulsa.",
-        "Você paga sem cartão de crédito, a única forma aceita para a assinatura."
+        "Você compra o mesmo produto com frequência e usa cartão de crédito: a assinatura programa o pedido e rende os mesmos 10%.",
+        "Você pretende manter uma assinatura ativa para ter os 10% também nas compras avulsas."
       ]
     },
     "cta": {
@@ -232793,7 +232790,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Bravecto 500 mg, cães de 10 a 20 kg, 1 comprimido",
+              "Bravecto 500 mg, cães de 10 a 20 kg",
               "R$ 168,59 (oferta, de R$ 280,99)",
               "R$ 168,50 (de R$ 280,99)"
             ],
@@ -232845,7 +232842,7 @@ export const reviewsData: unknown[] = [
           "Na seleção comparada, as quatro rações sem oferta ficaram 10% abaixo na Petz com EMCASA em relação ao preço de página da Cobasi. Em outros itens, houve vantagens para cada lado e um empate. Antes de comprar, confira seus produtos, descontos disponíveis, frete e taxa de serviço: o total pode mudar a escolha.",
           "O botão desta página abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho: cole o código no campo “Digite seu cupom” da sacola. Os preços 10% menores que aparecem nos produtos são os de assinante."
         ],
-        "emphasis": "Para gastar menos, eu começaria pelas rações sem oferta: Golden e Premier de 15 kg ficaram 10% abaixo na Petz com o EMCASA. No Royal Canin Medium, no Bravecto e no Simparic, eu olharia a Cobasi antes de pagar.",
+        "emphasis": "Para gastar menos, eu começaria pelas rações sem oferta: Golden e Premier de 15 kg ficaram 10% abaixo na Petz com o EMCASA. No Royal Canin Medium e no Simparic, eu olharia a Cobasi antes de pagar.",
         "links": [
           {
             "label": "Ir para a Petz",
@@ -232863,8 +232860,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Na Petz, ele não entra por cima de uma oferta maior nem na assinatura, e não vale na Cobasi.",
           "Petz e Cobasi são a mesma empresa? Fazem parte do mesmo grupo, o Grupo Petz Cobasi, mas as marcas, os sites e os preços seguem separados.",
-          "Qual tem frete grátis mais baixo? Depende da região, do produto e da modalidade. A política da Cobasi informa mínimo acima de R$ 149 no Sul, Sudeste e Centro-Oeste, com restrição regional para areia; para a Econômica em São Paulo e no Rio, informa acima de R$ 199. Na Petz, a entrega padrão tem frete grátis acima de R$ 199 no Sul e no Sudeste. Confira as opções para seu CEP.",
-          "O cupom da Petz vale na Cobasi? Não. O EMCASA só vale nas compras da Petz no site e no app.",
+          "Qual tem frete grátis mais baixo? Depende da região, do produto e da modalidade nas duas lojas. Os mínimos de cada uma estão no capítulo sobre frete e retirada; confira as opções para o seu CEP.",
           "A Petz cobre o preço da Cobasi? Só nas lojas físicas da Petz, e não soma com outros descontos."
         ]
       }
@@ -232873,11 +232869,11 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Sua lista tem rações sem oferta, como Golden e Premier de 15 kg, e você compra pelo site ou app com o EMCASA: nesses itens, a Petz fica 10% abaixo do preço de página da Cobasi.",
+        "Sua lista tem rações sem oferta, como Golden e Premier de 15 kg, e você compra pelo site ou app com o EMCASA: na leitura, a Petz ficou 10% abaixo do preço de página da Cobasi nesses itens.",
         "Você prefere retirar na loja: na sacola testada, a retirada da Petz somou 5% ao EMCASA, 14,5% no total, e não teve taxa de serviço, desde que o prazo da loja atenda ao seu pedido."
       ],
       "skipIf": [
-        "Seu carrinho tem Royal Canin Medium de 12 kg, Bravecto ou Simparic Trio: nesses itens, a Cobasi ficou abaixo da Petz nas páginas lidas, antes do frete.",
+        "Seu carrinho tem Royal Canin Medium de 12 kg ou Simparic Trio: nesses itens, a Cobasi ficou abaixo da Petz nas páginas lidas, antes do frete.",
         "As opções de entrega ou retirada da Petz não atendem ao prazo de que você precisa."
       ]
     },
@@ -232889,7 +232885,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASA",
     "affiliate": "petz",
-    "editorialNote": "Preços lidos nas páginas da Petz e da Cobasi e na sacola da Petz, sem login e sem finalizar a compra. Não usamos os produtos. Podemos receber comissão pelo cupom da Petz.",
+    "editorialNote": "Preços lidos nas páginas e na sacola da Petz. Podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-petz-como-usar"
@@ -233044,7 +233040,7 @@ export const reviewsData: unknown[] = [
               "R$ 18,70"
             ],
             [
-              "Bravecto 500 mg, cães de 10 a 20 kg, 1 comprimido",
+              "Bravecto 500 mg, cães de 10 a 20 kg",
               "R$ 168,59 (oferta)",
               "R$ 182,33",
               "R$ 154,28"
@@ -233084,14 +233080,14 @@ export const reviewsData: unknown[] = [
         "heading": "Frete, entrega e retirada",
         "paragraphs": [
           "Na Petz, a política consultada prevê frete grátis na entrega padrão acima de R$ 199 no Sul e no Sudeste, e acima de R$ 299 no Norte, Nordeste e Centro-Oeste. Prazo e custo da Expressa dependem do CEP; na sacola consultada em São Paulo aparecia em até 4 horas, com cobrança à parte. A retirada em loja dá 5% acima de R$ 199 nas regiões Centro-Oeste, Sul e Sudeste, e esse desconto somou com o EMCASA na sacola testada. Para as entregas e a retirada, veja o [artigo sobre a Expressa e a retirada](/reviews/petz-entrega-expressa-ou-retirar-na-loja).",
-          "Na Petlove, a página do Clube Petlove promete frete grátis na entrega padrão, conforme a área, sem valor mínimo ou a partir de R$ 99. Fora do clube, a política lida não informa valor mínimo. A Petlove Já entrega no mesmo dia em São Paulo, Santos, Santo André, Rio de Janeiro, Porto Alegre e Curitiba, quando o pedido é aprovado dentro do horário da filial e pago na forma aceita pela Petlove nessa modalidade.",
+          "Na Petlove, a página do Clube Petlove promete frete grátis na entrega padrão, conforme a área, sem valor mínimo ou a partir de R$ 99. Fora do clube, a política lida não informa valor mínimo. A Petlove Já entrega no mesmo dia em São Paulo, Santos, Santo André, Rio de Janeiro, Porto Alegre e Curitiba, quando o pedido é aprovado dentro do horário da filial e pago com cartão ou Pix.",
           "A Petlove tem 10 lojas físicas com clique e retire. A página lida não informou prazo nem custo da retirada, e não vimos desconto de retirada nela."
         ]
       },
       {
         "heading": "Reclame Aqui",
         "paragraphs": [
-          "Nos últimos seis meses, a Petz - Loja Online tinha nota 8,3 e 89% das reclamações resolvidas; a Petlove - Petsupermarket, nota 8,4, selo RA1000 e 91,2% resolvidas."
+          "Nos últimos seis meses, a Petz - Loja Online tinha nota 8,3 e reputação Ótima; a Petlove, nota 8,4 e selo RA1000."
         ]
       },
       {
@@ -233118,7 +233114,6 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Ele só vale na Petz, no site e no app, e não na Petlove.",
-          "O cupom da Petz vale na Petlove? Não. O EMCASA é desconto da Petz e só entra na sacola da Petz, no site e no app.",
           "A Petz cobre o preço da Petlove? Só nas lojas físicas, pelo Pesquise Lá, Compre Aqui, que não vale para serviços nem para assinatura e não soma com outros descontos.",
           "Qual tem frete grátis mais baixo? Para quem é do Clube Petlove, a entrega padrão grátis pode não ter mínimo ou ter um mínimo menor que o da Petz no Sul e no Sudeste, conforme a área. Fora do clube, a política lida da Petlove não informa mínimo, então não dá para dizer qual é menor.",
           "A Petlove tem loja física? Sim, 10 lojas com clique e retire. A página lida não informou prazo nem custo da retirada."
@@ -233129,12 +233124,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer retirar a compra numa loja física: a Petz tem 5% na retirada, que soma com o EMCASA (14,5% no total nos itens fora de oferta), e a Petlove não mostrou desconto para isso.",
-        "Você já é membro do Clube Petlove: com o preço de membro, a Petlove ficou abaixo em três dos cinco itens comparáveis com esse preço."
+        "Você quer retirar a compra numa loja física: a Petz tem 5% na retirada, que soma com o EMCASA (14,5% no total nos itens fora de oferta), e a Petlove não mostrou desconto para isso."
       ],
       "skipIf": [
         "A embalagem não corresponde à da tabela: confirme o produto e o peso antes de usar a comparação.",
-        "Você aderiria ao Clube só para esta compra, mas a economia não cobre o custo do plano."
+        "Você aderiria ao Clube só para esta compra, mas a economia não cobre o custo do plano.",
+        "Você já é membro do Clube Petlove: com o preço de membro, a Petlove ficou abaixo em três dos cinco itens comparáveis com esse preço."
       ]
     },
     "cta": {
@@ -233145,7 +233140,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASA",
     "affiliate": "petz",
-    "editorialNote": "Preços lidos nas páginas das duas lojas, no mesmo dia e no mesmo CEP, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom da Petz.",
+    "editorialNote": "Preços lidos nas duas lojas, sem finalizar a compra. Podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-petz-como-usar"
@@ -233264,8 +233259,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A retirada oferece 5% em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste, conforme as lojas do CEP. No resumo do teste, não apareceu taxa de serviço.",
           "Não escolha apenas a unidade mais próxima. Para a mesma sacola, algumas lojas mostraram liberação a partir de 45 minutos e as mais próximas exibiram uma data bem posterior. Confira quais itens estão disponíveis e o prazo da unidade antes de pagar.",
-          "Aguarde a mensagem de que o pedido está liberado antes de sair de casa. Depois dela, você tem 28 dias corridos para buscar, segundo a política. O benefício de 5% é informado para Centro-Oeste, Sul e Sudeste; para outras regiões, confira a opção no carrinho.",
-          "O EMCASA soma com os 5% da retirada: até 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste e nos itens fora de promoção, porque os 5% saem do valor já com o cupom. A conta da sacola de teste está no [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+          "Aguarde a mensagem de que o pedido está liberado antes de sair de casa. Depois dela, você tem 28 dias corridos para buscar, segundo a política. Para outras regiões, confira a opção no carrinho.",
+          "O EMCASA soma com os 5% da retirada: até 14,5% no total, nos itens fora de promoção, porque os 5% saem do valor já com o cupom. A conta da sacola de teste está no [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+        ]
+      },
+      {
+        "heading": "Quando o pedido atrasa",
+        "paragraphs": [
+          "Guarde o prazo informado na compra. Se o pedido não chegar ou não for liberado para retirada na data combinada, procure o atendimento com o número do pedido. Os 28 dias para buscar só começam depois da mensagem de liberação.",
+          "Se o pedido não aparecer no prazo, fale com a Petz pelo Alô Petz, (11) 3434-6980: seg a sex, 8h às 21h; sáb, 8h às 18h; dom e feriados, 9h às 16h. O atendimento inteligente fica em petz.com.br/atendimento-inteligente."
         ]
       },
       {
@@ -233276,13 +233278,6 @@ export const reviewsData: unknown[] = [
           "**Pode esperar.** Compare a Padrão com as outras modalidades pelo total, incluindo a taxa de serviço.",
           "**Precisa estar em casa numa faixa definida.** Veja os dias e horários da Agendada e confira todas as cobranças antes de confirmar.",
           "**Se você é Clubz Diamante.** O regulamento da campanha dá frete grátis sem mínimo e sem taxa de serviço para o Diamante. A sacola do teste foi vista sem login, então confira com a sua conta."
-        ]
-      },
-      {
-        "heading": "Quando o pedido atrasa",
-        "paragraphs": [
-          "Guarde o prazo informado na compra. Se o pedido não chegar ou não for liberado para retirada na data combinada, procure o atendimento com o número do pedido. Os 28 dias para buscar só começam depois da mensagem de liberação.",
-          "Se o pedido não aparecer no prazo, fale com a Petz pelo Alô Petz, (11) 3434-6980: seg a sex, 8h às 21h; sáb, 8h às 18h; dom e feriados, 9h às 16h. O atendimento inteligente fica em petz.com.br/atendimento-inteligente."
         ],
         "emphasis": "Para a maioria dos pedidos, eu conferiria primeiro a retirada: nas lojas que liberaram em 45 minutos, ela teve o menor total. Se eu precisasse do produto em casa no mesmo dia, escolheria a Expressa e aceitaria o frete."
       },
@@ -233293,7 +233288,7 @@ export const reviewsData: unknown[] = [
           "A Petz entrega no mesmo dia? Depende do CEP. Na sacola de teste, na Av. Paulista, a Expressa mostrou “Em até 4 horas”, e a Padrão, “Até amanhã”.",
           "A Petz entrega no domingo? A Agendada ofereceu domingo no calendário consultado para o CEP do teste. Veja se a modalidade e o dia aparecem para seu endereço antes de concluir.",
           "O cupom vale na Entrega Expressa? No teste, sim: com a Expressa escolhida, o EMCASA entrou no desconto dos produtos.",
-          "Quanto tempo tenho para retirar na loja? Até 28 dias corridos depois do e-mail de liberação, segundo a política de entrega."
+          "Quanto tempo tenho para retirar na loja? Até 28 dias corridos depois da mensagem de liberação, segundo a política de entrega."
         ]
       }
     ],
@@ -233317,7 +233312,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASA",
     "affiliate": "petz",
-    "editorialNote": "Feito com as regras do site e um teste da sacola, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "editorialNote": "Teste da sacola em São Paulo, sem finalizar a compra. Podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-petz-como-usar"
@@ -236530,8 +236525,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O EMCASA dá 10% no site e no app da Petz no primeiro pedido e nos seguintes. Em item já em promoção, a sacola mantém o desconto maior. Veja a conta e a soma com a retirada.",
-    "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz na primeira compra e nas seguintes. Em produto já em oferta, a sacola fica com o desconto maior.",
+    "description": "O EMCASA dá 10% no site e no app da Petz no primeiro pedido e nos seguintes. Veja a conta numa sacola com preço cheio e oferta e a soma com o Retire na Loja.",
+    "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz na primeira compra e nas seguintes. Veja a conta na sacola e a soma com o Retire na Loja.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
     "updatedAt": "2026-11-22",
@@ -236570,15 +236565,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Petz, use EMCASA: 10% OFF no site e no aplicativo, também para quem já comprou. Em produto em promoção, a sacola mantém o desconto maior; o cupom não soma com o desconto da Assinatura Petz. Cole EMCASA no campo “Digite seu cupom” e confira o total antes de pagar."
+          "Para a primeira compra na Petz, use EMCASA: 10% OFF no site e no aplicativo, também para quem já comprou. O cupom não soma com o desconto da Assinatura Petz. Cole EMCASA no campo “Digite seu cupom” e confira o total antes de pagar."
         ]
       },
       {
         "heading": "Cupom Petz primeira compra: qual usar",
         "paragraphs": [
           "A Petz é uma rede de pet shops com lojas físicas, site e aplicativo, onde vende rações, itens de higiene e acessórios para animais.",
-          "Use o EMCASA: 10% OFF nas compras no site e no aplicativo da Petz, no primeiro pedido e nos seguintes, para repor a ração ou a areia sem trocar de código. Num item já em promoção, vale o desconto maior, não os dois.",
-          "É o [cupom Petz](/cupons/petz) da nossa parceria com a loja, testado na sacola. Ração, areia ou acessório: o código é o mesmo."
+          "Use o EMCASA: 10% OFF nas compras no site e no aplicativo da Petz, no primeiro pedido e nos seguintes, para repor a ração ou a areia sem trocar de código.",
+          "É o [cupom Petz](/cupons/petz) da nossa parceria com a loja, testado na sacola."
         ]
       },
       {
@@ -236683,8 +236678,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Serve no primeiro pedido e nos seguintes; em item em promoção, vale o desconto maior.",
-          "Qual cupom Petz vale para quem já é cliente? O mesmo EMCASA, com 10% no site e no aplicativo. Em item em promoção, a sacola mantém o desconto maior; o cupom não soma com o desconto da assinatura.",
+          "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Serve no primeiro pedido e nos seguintes.",
           "O cupom Petz soma com promoção? Não. Em cada item, a sacola fica com o desconto maior: a oferta ou os 10% do código.",
           "O cupom Petz vale no aplicativo? Sim, no aplicativo e no site.",
           "O cupom Petz soma com a Assinatura Petz? Não. O desconto da assinatura não soma com cupom."
@@ -237534,7 +237528,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Vale do mesmo jeito: a mesma conta e o mesmo código por faixa. Quem já comprou na loja usa de novo o código que o carrinho alcançar.",
           "Não existe código só de primeira compra: o desconto depende do valor do carrinho, não do histórico da conta. Um carrinho de R$ 1.200 usa o 20EMCASACOMCECILIA, tanto para quem compra pela primeira vez quanto para quem já comprou dezenas de vezes.",
-          "Vale um código por pedido. Se o carrinho tem itens que alcançam mais de uma faixa, use o da maior."
+          "Use sempre o código da maior faixa que o total alcançar."
         ]
       },
       {
@@ -237561,7 +237555,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em resumo: não há código especial de primeira compra, há dez faixas por valor de carrinho, e todas valem para cliente novo e antigo. O que decide o desconto é o total em produtos vendidos e entregues pelo Magalu, e o que faz o código falhar é abrir o app em vez do navegador."
         ],
-        "emphasis": "Para quem vai comprar no Magalu pela primeira vez, eu abriria a vitrine da Cecília pelo navegador, juntaria o que já estava na lista para alcançar a faixa seguinte e só confirmaria o pedido depois de ver o desconto no resumo da etapa de pagamento.",
+        "emphasis": "Para quem vai comprar no Magalu pela primeira vez, eu abriria a minha vitrine pelo navegador, juntaria o que já estava na lista para alcançar a faixa seguinte e só confirmaria o pedido depois de ver o desconto no resumo da etapa de pagamento.",
         "links": [
           {
             "label": "Ir para a loja Magazine Você da Cecília",
@@ -247434,7 +247428,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASA",
     "affiliate": "petz",
-    "editorialNote": "Feito com os preços e as fichas das páginas da Petz e um teste da sacola, sem finalizar a compra. Ninguém da equipe usou as areias. Podemos receber comissão pelo cupom.",
+    "editorialNote": "Preços e fichas das páginas da Petz e um teste da sacola. Podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-petz-como-usar"
@@ -248167,7 +248161,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O EMCASA tira 10% do pacote sem oferta e não mexe no que já está em oferta maior. Na sacola, com uma areia de cada caso, a Pipicat Ultra Dry de 12 kg caiu de R$ 179,90 para R$ 161,91. A Petz Ultra Absorção de 4 kg, que já estava em oferta de 27%, ficou nos mesmos R$ 39,99. O passo a passo do cupom está em [como usar o cupom da Petz](/reviews/cupom-petz-como-usar).",
           "O botão desta página abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho: cole o código no campo “Digite seu cupom” da sacola. Os preços 10% menores que aparecem nos produtos são os de assinante.",
-          "O botão desta página abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho: cole o código no campo “Digite seu cupom” da sacola. Os preços 10% menores que aparecem nos produtos são os de assinante.",
           "No teste, escolher Retire na Loja reduziu o total de R$ 201,90 para R$ 191,80, depois do cupom e da oferta. A retirada informa mais 5% em pedidos acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Se comprar areia junto com ração ou outro item, confira se o total atinge esse mínimo e se há retirada disponível. As modalidades estão comparadas em [Entrega Expressa ou Retire na Loja](/reviews/petz-entrega-expressa-ou-retirar-na-loja).",
           "A loja informa: o frete é grátis em pedidos acima de R$ 199 no Sul e no Sudeste e acima de R$ 299 nas outras regiões, e pedidos acima de 50 kg de peso cubado podem ter cobrança adicional. A política não traz regra própria para areia. Na nossa sacola, para um CEP de São Paulo, a entrega Padrão saiu grátis e a Expressa, R$ 7,90. Simule o seu CEP: areia pesa, e o frete muda com o pedido.",
           "Quem compra areia todo mês pode comparar o cupom com a assinatura da loja, que mostra preço próprio em cada página: a conta está em [assinatura Petz ou cupom](/reviews/assinatura-petz-ou-cupom)."
@@ -248184,12 +248177,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Ele vale nos pacotes sem oferta e na retirada em loja, onde soma com os 5%.",
-          "Qual é a areia para gato mais barata da Petz? Por quilo, a Kets de argila no pacote de 20 kg, com o menor quilo da tabela de argila, e menos ainda com o EMCASA. Entre as vegetais, a Petz Milho e Mandioca tinha o menor quilo, em oferta.",
-          "Qual é a areia para gato mais barata da Petz? Por quilo, a Kets de argila no pacote de 20 kg, com o menor quilo da tabela de argila, e menos ainda com o EMCASA. Entre as vegetais, a Petz Milho e Mandioca tinha o menor quilo, em oferta.",
+          "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Ele entra no pacote sem oferta ou com oferta menor que 10%; se a oferta for maior, a sacola fica com ela.",
+          "Qual é a areia para gato mais barata da Petz? Por quilo, a Kets de argila no pacote de 20 kg é a mais barata da tabela, e fica ainda menor com o EMCASA. Entre as vegetais, a Petz Milho e Mandioca tinha o menor quilo, em oferta.",
           "A areia da marca Petz é boa? As páginas mostram a composição e o preço. Na oferta da leitura, a Petz Milho e Mandioca custava menos por quilo que as outras vegetais; a Ultra Absorção custa mais que as areias de bentonita da Kets.",
           "O cupom EMCASA vale em areia em promoção? A sacola não soma os dois: fica o desconto maior. No pacote com oferta acima de 10%, o preço da oferta ficou igual; no pacote sem oferta, o cupom entrou inteiro.",
-          "Viva Verde ou Pipicat: qual é mais barata? São tipos diferentes. A Viva Verde é de milho e mandioca e fica bem acima da Pipicat Classic, que é de argila e está entre as mais baratas por quilo. A vegetal da Pipicat, a Bio Vegetal, custa mais por quilo que a Viva Verde.",
+          "Areia biodegradável pode ir no vaso sanitário? A Petz classifica como biodegradáveis os granulados de madeira e as areias de milho, mandioca e cereais. Isso não é o mesmo que poder ir no vaso. A embalagem da Petz Cereais traz a frase descartável em vaso sanitário; nas outras, siga a instrução de descarte de cada pacote.",
           "Viva Verde ou Pipicat: qual é mais barata? São tipos diferentes. A Viva Verde é de milho e mandioca e fica bem acima da Pipicat Classic, que é de argila e está entre as mais baratas por quilo. A vegetal da Pipicat, a Bio Vegetal, custa mais por quilo que a Viva Verde."
         ]
       }
@@ -276533,7 +276525,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Seu pedido é de capinhas no Compre 1 e Leve 2: essa oferta não soma com cupom.",
-        "Você não quer informar e-mail e CPF antes de pagar: sem isso o campo do cupom não aceita o código."
+        "Você compra por marketplace: o CECILIAA é um código do site oficial da Gocase."
       ]
     },
     "contentSections": [
@@ -276635,7 +276627,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**A grafia.** CECILIAA, com dois A, tudo junto e sem espaço antes ou depois.",
-          "**A identificação.** O campo só aceita o código depois de você informar e-mail e CPF no checkout.",
+          "**A identificação.** O campo só aceita o código depois da identificação no checkout.",
           "**A linha de desconto.** Ela aparece no resumo do pedido, como Desconto (CECILIAA), quando o cupom entra."
         ],
         "postParagraphs": [
@@ -276645,7 +276637,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale usar o CECILIAA?",
         "paragraphs": [
-          "Nos três carrinhos, o código deu 5% sobre os produtos, inclusive sobre preços da GoBlack e sobre uma bolsa em promoção. A exceção é o Compre 1 e Leve 2 das capinhas, que não soma com cupom, e o desconto só entra depois de e-mail e CPF no checkout."
+          "Nos três carrinhos, o código deu 5% sobre os produtos, inclusive sobre preços da GoBlack e sobre uma bolsa em promoção. A exceção é o Compre 1 e Leve 2 das capinhas, que não soma com cupom."
         ],
         "emphasis": "Para garrafa, copo ou bolsa, eu usaria o CECILIAA em todo pedido do site oficial, deixaria de fora o Compre 1 e Leve 2 das capinhas e conferiria a linha Desconto (CECILIAA) antes de pagar.",
         "links": [
@@ -276660,7 +276652,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Gocase? O cupom da Gocase é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, e soma com os preços da GoBlack. No checkout, informe e-mail e CPF antes de digitar o código.",
-          "Onde coloco o cupom na Gocase? Clique em “Finalizar compra”, informe e-mail e CPF e cole CECILIAA em “Tem um cupom?”. Clique em “Aplicar” e confira os 5% no resumo do pedido.",
+          "Onde coloco o cupom na Gocase? Clique em “Finalizar compra”, identifique-se e cole CECILIAA em “Tem um cupom?”. Clique em “Aplicar” e confira os 5% no resumo do pedido.",
           "O cupom Gocase soma com a Black Friday? Nos nossos testes, sim: os 5% entraram sobre produtos da GoBlack e sobre uma bolsa em promoção. A promoção de capinhas Compre 1 e Leve 2 fica de fora, pela regra da loja.",
           "O cupom vale para quem já comprou? Sim. O CECILIAA dá 5% OFF no site oficial para cliente novo e antigo.",
           "O cupom Gocase dá frete grátis? O CECILIAA dá 5% OFF nos produtos do site oficial. O frete grátis da entrega Normal segue o valor do pedido depois dos descontos e a regra para o seu CEP. Confira o total antes de pagar.",
@@ -276724,15 +276716,15 @@ export const reviewsData: unknown[] = [
         "Você quer 5% a menos por cima dos preços da GoBlack."
       ],
       "skipIf": [
-        "Você vai comprar capinhas no Leve 2, Pague 1: essa oferta não soma com cupom.",
-        "Você precisa de uma data certa para o fim da campanha: a loja não publicou nas páginas consultadas."
+        "Você vai comprar capinhas: a oferta de leve 2 tem regra própria.",
+        "Você precisa de uma data certa para o fim da campanha."
       ]
     },
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday da Gocase, o CECILIAA deu mais 5% OFF em produtos já em promoção nos nossos testes. Confira os preços de garrafas, copos e bolsas com o código. Se estiver comprando capinhas, o regulamento do Leve 2, Pague 1 exclui cupons. A loja não divulgou a data de fim nas páginas consultadas."
+          "Na Black Friday da Gocase, o CECILIAA deu mais 5% OFF em produtos já em promoção nos nossos testes. Veja os preços de garrafas, copos e bolsas com o código, a Fresh por cor, e confira o frete e o checkout antes de pagar."
         ]
       },
       {
@@ -276755,7 +276747,7 @@ export const reviewsData: unknown[] = [
               "R$ 94,90"
             ],
             [
-              "Garrafa Térmica Fresh + Ebook, 650 ml, Clear (Branca, Preta e outras cores)",
+              "Garrafa Térmica Fresh + Ebook, 650 ml, Clear (a maioria das cores)",
               "R$ 119,90",
               "R$ 113,90"
             ],
@@ -276772,7 +276764,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o código, a economia estimada é de R$ 5,00 na Fresh Melancia ou Amarela e no Life, de R$ 6,00 nas outras cores da Fresh e de R$ 4,50 na Urban. Confira tamanho, cor e total no checkout."
+          "Com o código, a economia estimada é de R$ 5,00 na Fresh Melancia ou Amarela e no Life, de R$ 6,00 nas cores da Fresh a R$ 119,90 e de R$ 4,50 na Urban. Confira tamanho, cor e total no checkout."
         ],
         "images": [
           {
@@ -276863,7 +276855,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/gocase/gocase-bolsa-joy-pro-clear.webp",
             "alt": "Bolsa Joy Pro Clear da Gocase, preta e fechada, em foto oficial da loja",
-            "caption": "Bolsa Joy Pro Clear, a de maior carga entre as bolsas da tabela. Foto da loja.",
+            "caption": "Bolsa Joy Pro Clear. Foto da loja.",
             "href": "https://www.gocase.com.br/bolsa-joy-pro-clear/p/5565",
             "objectFit": "contain",
             "aspectRatio": 1
@@ -276903,9 +276895,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale comprar na Black Friday da Gocase?",
         "paragraphs": [
-          "Os preços da campanha já são menores, e o CECILIAA entrou por cima deles nos nossos testes. Pesa contra a falta de data de fim e o Leve 2, Pague 1, que não soma com cupom."
+          "Os preços da campanha são os da vitrine de Black Friday, e o CECILIAA entrou por cima deles nos nossos testes. Pesam contra as regras próprias de cada oferta, que vale conferir antes de pagar."
         ],
-        "emphasis": "Para garrafa, copo ou bolsa na Black Friday, eu compraria no site oficial com o CECILIAA, depois de informar e-mail e CPF, e conferiria cor e total no carrinho antes de pagar.",
+        "emphasis": "Para gastar menos, eu escolheria a Garrafa Urban, a R$ 85,40 com o CECILIAA, e, entre as bolsas, a Tote Mini, a R$ 142,40, que custa o mesmo que a Moove e aparecia disponível.",
         "links": [
           {
             "label": "Ver a Garrafa Urban Futurist na Gocase",
@@ -277043,7 +277035,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se decidir comprar",
         "paragraphs": [
-          "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no site oficial, para cliente novo e antigo. O campo do código só aceita o código depois da identificação com e-mail e CPF, e o passo a passo está em [como usar o cupom CECILIAA](/reviews/cupom-gocase-como-usar)."
+          "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no site oficial, para cliente novo e antigo. Para ele entrar, identifique-se com e-mail e CPF no checkout; o passo a passo está em [como usar o cupom CECILIAA](/reviews/cupom-gocase-como-usar)."
         ],
         "emphasis": "Eu compraria no site oficial da Gocase e, para poder trocar, escolheria a versão Clear; o item com nome, foto ou estampa eu deixaria para quando tivesse certeza do pedido."
       },
@@ -277115,7 +277107,7 @@ export const reviewsData: unknown[] = [
         "Você quer decidir a bolsa pelo tamanho do notebook e pelo que mais leva junto."
       ],
       "skipIf": [
-        "Você vai levar bebida gaseificada na garrafa: a ficha da Fresh e da Urban não recomenda.",
+        "Você vai levar bebida gaseificada na garrafa: a ficha da Urban orienta evitar.",
         "Você precisa da opção de devolver por arrependimento. A política da Gocase restringe essa devolução para itens personalizados."
       ]
     },
@@ -277165,7 +277157,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Se o nome do produto trouxer “+ Ebook”, é um kit. A Gocase informa que envia o e-book ao e-mail cadastrado após a emissão da nota fiscal. A página não informa o tema.",
-          "Na leitura de 22/11, a Fresh de 650 ml saía por R$ 119,90 na maioria das cores e por R$ 99,90 na Melancia e na Amarela; a Urban, por R$ 89,90, e o Life de 880 ml, por R$ 99,90."
+          "Na leitura de 22/11, a Fresh de 650 ml saía por R$ 119,90 na maioria das cores e por R$ 99,90 na Melancia e na Amarela."
         ],
         "images": [
           {
@@ -277212,6 +277204,9 @@ export const reviewsData: unknown[] = [
             "href": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8747",
             "sponsored": true
           }
+        ],
+        "postParagraphs": [
+          "Na mesma leitura, a Urban saía por R$ 89,90 e o Life de 880 ml, por R$ 99,90."
         ]
       },
       {
@@ -277277,7 +277272,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Na loja, a Tote Mini custa R$ 149,90, a Tote Daily R$ 159,90 e a Joy Pro R$ 199,90. A Joy Pro é a que carrega mais e a que mais custa."
+          "Na loja, a Tote Mini custa R$ 149,90, a Tote Daily R$ 159,90 e a Joy Pro R$ 199,90. A Joy Pro é a que carrega mais e a que mais custa. Para o compartimento do notebook da Joy Pro, a ficha técnica dá 36 × 20 × 2 cm, e a pergunta frequente da página do produto fala em 36 × 22 cm: meça o seu aparelho com folga."
         ]
       },
       {
@@ -277321,10 +277316,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher e o cupom",
         "paragraphs": [
-          "Para quem quer uma garrafa que cabe na bolsa, a Fresh de 650 ml ou a Urban; para beber de canudo, o Life; para notebook, a bolsa pelas medidas do compartimento. Capinha, só depois de confirmar o modelo do celular.",
+          "Se a prioridade é uma garrafa que cabe na bolsa, olhe a Fresh de 650 ml ou a Urban; para beber de canudo, o Life; para notebook, escolha a bolsa pelas medidas do compartimento. Para capinha, confirme o modelo exato do celular antes de escolher a linha.",
           "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no pedido, em todas as formas de pagamento, para cliente novo e antigo. No checkout, informe e-mail e CPF antes de digitar o código, porque sem isso o campo Tem um cupom? não aceita. Os preços da campanha estão na [Black Friday da Gocase](/reviews/black-friday-gocase), e o passo a passo, em [como usar o CECILIAA](/reviews/cupom-gocase-como-usar)."
         ],
-        "emphasis": "Para personalizar uma garrafa ou escolher uma bolsa pelo notebook, eu começaria pela Fresh ou pela Tote Mini, conferiria a medida na ficha e usaria o CECILIAA no site oficial.",
+        "emphasis": "Para levar notebook e peso, eu escolheria a Joy Pro, de maior carga da tabela, depois de medir o aparelho contra o compartimento; para a garrafa, eu partiria da Fresh de 650 ml e usaria o CECILIAA no site oficial.",
         "links": [
           {
             "label": "Ver a Garrafa Fresh na Gocase",
@@ -277340,7 +277335,7 @@ export const reviewsData: unknown[] = [
           "Quanto tempo a Fresh da Gocase mantém a bebida gelada? A Gocase informa até 24 horas para bebidas frias e até 12 horas para quentes nas condições da ficha.",
           "A Gocase tem garantia? Na Central de Ajuda, os térmicos têm um ano contra defeitos de fabricação e seis meses contra descascamento. Nas capinhas e nas bolsas, o prazo depende do defeito. Confira a cobertura do modelo que escolher.",
           "Produto personalizado da Gocase tem troca? A política da Gocase restringe a troca por arrependimento de itens com estampa, nome ou foto. Se houver defeito ou problema na entrega, acione o atendimento.",
-          "A bolsa Gocase cabe notebook? Compare as medidas do aparelho com as do compartimento. A ficha indica até 35,5 × 23,4 × 2 cm para a Tote Daily e 36 × 20 × 2 cm para a Joy Pro.",
+          "A bolsa Gocase cabe notebook? Compare as medidas do aparelho com as do compartimento. A ficha indica até 35,5 × 23,4 × 2 cm para a Tote Daily e 36 × 20 × 2 cm para a Joy Pro, enquanto a página da Joy Pro cita 36 × 22 cm.",
           "O que é o ebook que vem com a garrafa? É um kit promocional: o e-book vai para o e-mail cadastrado depois da emissão da nota fiscal. A página não diz o tema, e cancelar um item do kit faz perder o benefício."
         ]
       }
@@ -277466,7 +277461,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A nota 8,5 é a nota de reputação do Reclame Aqui: ela resume como a empresa atende as reclamações registradas na plataforma, com base em respostas, solução e avaliação de quem reclamou. Não mede a qualidade do produto, e muda de um período para outro.",
           "A faixa Ótima é a que a Gocase tem hoje, nos recortes de 6 e 12 meses. O selo RA1000, a faixa mais alta, aparece nas abas 2024, 2025 e Geral do mesmo perfil, mas não nos recortes recentes.",
-          "O selo Empresa Verificada é outra coisa: indica que a empresa confirmou sua identidade na plataforma e responde pelo perfil. Também não é uma avaliação do produto. E a nota de reputação não é a nota média do consumidor (7,79 no semestre e 7,64 em 12 meses), que é a média das notas dadas por quem avaliou o atendimento."
+          "O selo Empresa Verificada é outra coisa: segundo o Reclame Aqui, ele assegura que a empresa existe, com checagem mensal. Também não é uma avaliação do produto. E a nota de reputação não é a nota média do consumidor (7,79 no semestre e 7,64 em 12 meses), que é a média das notas dadas por quem avaliou o atendimento."
         ]
       },
       {
@@ -277478,7 +277473,6 @@ export const reviewsData: unknown[] = [
           "**Reputação Ótima.** Nota 8,5 nos recortes de 6 e de 12 meses.",
           "**Empresa Verificada.** O perfil traz o selo.",
           "**Respostas.** A Gocase respondeu a 99,7% das reclamações no semestre e a 99,9% em 12 meses.",
-          "**Tempo de resposta.** Em média, 5 dias e 4 horas no semestre e 5 dias e 18 horas em 12 meses.",
           "**Solução entre as avaliadas.** No semestre, 85,7% resolvidas e 78,5% voltariam a fazer negócio. Em 12 meses, 87,5% e 78,2%."
         ]
       },
@@ -277514,17 +277508,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar na Gocase?",
         "paragraphs": [
-          "Os dois lados do perfil: de um lado, reputação Ótima, selo de empresa verificada e quase todas as reclamações respondidas; de outro, um prazo médio de resposta perto de cinco dias e o produto com defeito como queixa mais citada no histórico.",
+          "Nos recortes de 6 e 12 meses, o perfil mostra reputação Ótima, selo de empresa verificada e quase todas as reclamações respondidas. Na aba Geral, que cobre três anos, produto com defeito é a queixa mais citada.",
           "Se a compra faz sentido, o [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no site oficial, em todas as formas de pagamento, para cliente novo e antigo. No checkout, informe e-mail e CPF antes de digitar o código; o passo a passo está em [como usar o CECILIAA](/reviews/cupom-gocase-como-usar)."
         ],
-        "emphasis": "Se não tenho pressa, eu compraria na Gocase com o CECILIAA, mas guardaria o número do pedido e acionaria o atendimento logo no primeiro atraso."
+        "emphasis": "Eu compraria na Gocase com o CECILIAA e, se a entrega passasse do prazo, abriria a solicitação assim que a loja permite, com o número do pedido à mão."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Gocase? O cupom da Gocase é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, e soma com os preços da GoBlack. No checkout, informe e-mail e CPF antes de digitar o código.",
           "Qual a nota da Gocase no Reclame Aqui? Nos últimos 6 e nos últimos 12 meses, a reputação é Ótima, com nota 8,5 de 10.",
-          "O que é o selo Empresa Verificada? É o selo de quem confirmou a identidade no Reclame Aqui e responde pelo perfil. Não mede a qualidade do produto.",
+          "O que é o selo Empresa Verificada? Segundo o Reclame Aqui, ele assegura que a empresa existe, com checagem mensal. Não mede a qualidade do produto.",
           "A Gocase responde e resolve as reclamações? No semestre, respondeu a 99,7%. Entre as reclamações avaliadas, 85,7% foram resolvidas.",
           "E se o pedido atrasar? Abra “Meus pedidos” e selecione “Rastrear pedido”. A loja orienta aguardar até cinco dias úteis após a data máxima antes de abrir a solicitação."
         ]
@@ -312932,7 +312926,7 @@ export const reviewsData: unknown[] = [
         "Você quer a menor conta por 100 ml da tabela, em inox e com alça: a Dual com alça de 900 ml da Bagaggio."
       ],
       "skipIf": [
-        "Você vai levar bebida quente: a Gocase indica a Flip Pro só para bebida fria por causa da tampa.",
+        "Você quer a Flip Pro para café ou chá: a Gocase a indica só para bebida fria por causa da tampa.",
         "Você precisa de um número de horas de conservação na página: a Bagaggio diz apenas “por horas”."
       ]
     },
@@ -312942,7 +312936,7 @@ export const reviewsData: unknown[] = [
       "gocase",
       "bagaggio"
     ],
-    "editorialNote": "Feito com as páginas dos sites oficiais, sem usar as garrafas. Somos parceiros da Gocase e da Bagaggio e podemos receber comissão pelas compras feitas pelos nossos links.",
+    "editorialNote": "Sites oficiais. Somos parceiros da Gocase e da Bagaggio e podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "gocase-e-boa"
@@ -313085,7 +313079,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Códigos de desconto das duas lojas",
         "paragraphs": [
-          "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% OFF no pedido. No checkout, informe e-mail e CPF antes de digitar o código; sem isso o campo Tem um cupom? não aceita. As regras e o passo a passo estão na página do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
+          "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% OFF no pedido. No checkout, informe e-mail e CPF antes de digitar o código; sem isso o campo Tem um cupom? não aceita o código. As regras e o passo a passo estão na página do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
           "Na Bagaggio, o código é CECILIA10 e dá 10% OFF em todo o site. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. O resumo fica em [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
           "Em simulação direta sobre os preços da tabela, a Dual com alça azul de 900 ml cairia para R$ 89,91 com CECILIA10, e a Fresh de 950 ml branca ou preta ficaria em R$ 132,90 com CECILIAA, antes do frete. Confira o valor final no carrinho da loja escolhida antes de pagar."
         ]
@@ -313357,7 +313351,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Esta lista de referência para filhote de porte pequeno reúne dez itens na Petz, da ração à caixa de transporte, antes do frete. Como a sacola fica com o maior desconto por item, nesta simulação o EMCASA baixou quatro produtos. Compare abaixo os preços, o total e as trocas para porte maior."
+          "Esta lista de referência para filhote de porte pequeno reúne dez itens na Petz, da ração à caixa de transporte, antes do frete. Nesta simulação o EMCASA baixou quatro produtos. Compare abaixo os preços, o total e as trocas para porte maior."
         ]
       },
       {
@@ -313472,7 +313466,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Cama:** A Cama Spike colchonete azul é enrolável e lavável à máquina. No tamanho P, mede 81 × 66 × 2 cm; o tamanho M custa R$ 129,99 e não havia tamanho G disponível na página.",
           "**Peitoral:** O Spike Geo é um peitoral em H de poliéster, regulável no pescoço e no tórax, com o tamanho PP atendendo de 14 a 37 cm de pescoço e 22 a 46 cm de tórax. Se o cachorro puxa na guia, compare também os modelos com argola frontal no nosso [guia de peitoral para cachorro](/reviews/peitoral-cachorro).",
-          "**Guia:** A [Guia Toh Corda Preta, 1,20 m](https://www.petz.com.br/produto/guia-toh-corda-preta-para-caes-179165) é feita em polipropileno com miolo de 6 cordas trançadas e mosquetão em Zamac que não enferruja com tração de até 240 kg. Esse é o modelo que combina com o peitoral; a versão unificada da marca já substitui a coleira."
+          "**Guia:** A [Guia Toh Corda Preta, 1,20 m](https://www.petz.com.br/produto/guia-toh-corda-preta-para-caes-179165) é feita em polipropileno com miolo de 6 cordas trançadas e mosquetão em Zamac, que não enferruja, e tração de até 240 kg, segundo a página. Esse é o modelo que combina com o peitoral; a versão unificada da marca já substitui a coleira."
         ],
         "images": [
           {
@@ -313538,7 +313532,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como eu montaria o enxoval",
         "paragraphs": [
-          "Para um filhote de porte pequeno, a lista de dez itens cobre a chegada em casa. O que muda a conta é onde o desconto entra: a sacola fica com o maior desconto por item, e só quatro produtos estavam sem oferta maior.",
+          "Para um filhote de porte pequeno, a lista de dez itens cobre a chegada em casa. O que muda a conta é onde o desconto entra: só quatro produtos estavam sem oferta maior.",
           "Antes de pagar, tire da soma o que a casa já tem e confira medidas de cama, peitoral e caixa. Pelo botão desta página você chega à Petz, e o EMCASA entra na sacola."
         ],
         "emphasis": "Para montar este enxoval sem gastar à toa, eu usaria o EMCASA na ração, no bebedouro, na cama e no peitoral, e deixaria os outros seis itens com a oferta que a página já mostra. Antes de pagar, eu tiraria da soma o que já tenho em casa.",
@@ -313557,9 +313551,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. A sacola mantém o maior desconto por item, sem somar percentuais: nesta lista, o EMCASA baixou os quatro itens sem desconto maior e a oferta ficou nos outros seis.",
-          "Quanto custa o enxoval de um filhote de cachorro na Petz? Os dez itens para porte pequeno têm o total da tabela do início pelos preços das páginas, e esse total cai na simulação com o EMCASA, antes do frete; cada linha com os centavos está na tabela.",
-          "A Guia Toh Corda Preta enferruja? Na página da Petz, a guia de 1,20 m tem miolo de 6 cordas trançadas e mosquetão em Zamac que não enferruja com tração de até 240 kg.",
+          "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Nesta lista, o EMCASA baixou os quatro itens sem desconto maior e a oferta ficou nos outros seis.",
+          "A Guia Toh Corda Preta enferruja? Na página da Petz, a guia de 1,20 m tem miolo de 6 cordas trançadas e mosquetão em Zamac, que não enferruja, e tração de até 240 kg, segundo a página.",
           "Qual caixa de transporte escolher se o filhote passar de 5 kg? A Furacão Pet Joy Tam 1 atende até 5 kg; para 5 a 10 kg, há a Furacão Pet Luxo Tam 3, e para cães maiores ou viagem aérea no padrão IATA, a Chalesco Gulliver.",
           "Assinatura Petz ou EMCASA sai mais barato nesse enxoval? Nos quatro itens sem desconto maior desta lista, ambos aplicam 10% OFF e empatam no valor, sem acumular entre si."
         ]
@@ -313585,7 +313578,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASA",
     "affiliate": "petz",
-    "editorialNote": "Preços lidos na Petz. Ninguém da equipe usou. Somos parceiros e podemos receber comissão pelo EMCASA.",
+    "editorialNote": "Preços lidos na Petz. Ninguém da equipe usou. Podemos receber comissão pelo EMCASA.",
     "relatedArticles": [
       {
         "slug": "cupom-petz-como-usar"
@@ -313923,7 +313916,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Servem bem para passeios tranquilos gastando pouco, inclusive para filhotes que ainda vão crescer rápido. Para cão que traciona forte o braço, a fixação dorsal tende a facilitar a alavanca do corpo do cachorro."
+          "Servem bem para passeios tranquilos gastando pouco, inclusive para filhotes que ainda vão crescer rápido. Nenhum dos dois cita função antipuxão na página; para cão que puxa forte, veja os SofterWalk."
         ]
       },
       {
@@ -313983,7 +313976,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "As medidas de tórax ou frente do seu cachorro ficam fora das grades P a G da linha SofterWalk ou Tam 1 a Tam 5 do FlyHarness.",
-        "Você busca o tamanho M do Pastel Mint imediatamente e ele continuar ausente no seletor da loja."
+        "Você busca o tamanho M do Pastel Mint e ele continua ausente no seletor da loja."
       ]
     },
     "cta": {
@@ -313994,7 +313987,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASA",
     "affiliate": "petz",
-    "editorialNote": "Dados das páginas da Petz. Ninguém da equipe usou. Somos parceiros e podemos receber comissão pelo EMCASA.",
+    "editorialNote": "Dados das páginas da Petz. Ninguém da equipe usou. Podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-petz-como-usar"

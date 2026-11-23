@@ -148,7 +148,7 @@
         ],
         "rows": [
           [
-            "Bravecto 500 mg, cães de 10 a 20 kg, 1 comprimido",
+            "Bravecto 500 mg, cães de 10 a 20 kg",
             "R$ 168,59 (oferta, de R$ 280,99)",
             "R$ 168,50 (de R$ 280,99)"
           ],
@@ -200,7 +200,7 @@
         "Na seleção comparada, as quatro rações sem oferta ficaram 10% abaixo na Petz com EMCASA em relação ao preço de página da Cobasi. Em outros itens, houve vantagens para cada lado e um empate. Antes de comprar, confira seus produtos, descontos disponíveis, frete e taxa de serviço: o total pode mudar a escolha.",
         "O botão desta página abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho: cole o código no campo “Digite seu cupom” da sacola. Os preços 10% menores que aparecem nos produtos são os de assinante."
       ],
-      "emphasis": "Para gastar menos, eu começaria pelas rações sem oferta: Golden e Premier de 15 kg ficaram 10% abaixo na Petz com o EMCASA. No Royal Canin Medium, no Bravecto e no Simparic, eu olharia a Cobasi antes de pagar.",
+      "emphasis": "Para gastar menos, eu começaria pelas rações sem oferta: Golden e Premier de 15 kg ficaram 10% abaixo na Petz com o EMCASA. No Royal Canin Medium e no Simparic, eu olharia a Cobasi antes de pagar.",
       "links": [
         {
           "label": "Ir para a Petz",
@@ -218,8 +218,7 @@
       "bullets": [
         "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Na Petz, ele não entra por cima de uma oferta maior nem na assinatura, e não vale na Cobasi.",
         "Petz e Cobasi são a mesma empresa? Fazem parte do mesmo grupo, o Grupo Petz Cobasi, mas as marcas, os sites e os preços seguem separados.",
-        "Qual tem frete grátis mais baixo? Depende da região, do produto e da modalidade. A política da Cobasi informa mínimo acima de R$ 149 no Sul, Sudeste e Centro-Oeste, com restrição regional para areia; para a Econômica em São Paulo e no Rio, informa acima de R$ 199. Na Petz, a entrega padrão tem frete grátis acima de R$ 199 no Sul e no Sudeste. Confira as opções para seu CEP.",
-        "O cupom da Petz vale na Cobasi? Não. O EMCASA só vale nas compras da Petz no site e no app.",
+        "Qual tem frete grátis mais baixo? Depende da região, do produto e da modalidade nas duas lojas. Os mínimos de cada uma estão no capítulo sobre frete e retirada; confira as opções para o seu CEP.",
         "A Petz cobre o preço da Cobasi? Só nas lojas físicas da Petz, e não soma com outros descontos."
       ]
     }
@@ -228,11 +227,11 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Sua lista tem rações sem oferta, como Golden e Premier de 15 kg, e você compra pelo site ou app com o EMCASA: nesses itens, a Petz fica 10% abaixo do preço de página da Cobasi.",
+      "Sua lista tem rações sem oferta, como Golden e Premier de 15 kg, e você compra pelo site ou app com o EMCASA: na leitura, a Petz ficou 10% abaixo do preço de página da Cobasi nesses itens.",
       "Você prefere retirar na loja: na sacola testada, a retirada da Petz somou 5% ao EMCASA, 14,5% no total, e não teve taxa de serviço, desde que o prazo da loja atenda ao seu pedido."
     ],
     "skipIf": [
-      "Seu carrinho tem Royal Canin Medium de 12 kg, Bravecto ou Simparic Trio: nesses itens, a Cobasi ficou abaixo da Petz nas páginas lidas, antes do frete.",
+      "Seu carrinho tem Royal Canin Medium de 12 kg ou Simparic Trio: nesses itens, a Cobasi ficou abaixo da Petz nas páginas lidas, antes do frete.",
       "As opções de entrega ou retirada da Petz não atendem ao prazo de que você precisa."
     ]
   },
@@ -244,7 +243,7 @@
   },
   "coupon": "EMCASA",
   "affiliate": "petz",
-  "editorialNote": "Preços lidos nas páginas da Petz e da Cobasi e na sacola da Petz, sem login e sem finalizar a compra. Não usamos os produtos. Podemos receber comissão pelo cupom da Petz.",
+  "editorialNote": "Preços lidos nas páginas e na sacola da Petz. Podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-petz-como-usar"

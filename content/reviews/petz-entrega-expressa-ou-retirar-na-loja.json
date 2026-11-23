@@ -98,8 +98,15 @@
       "paragraphs": [
         "A retirada oferece 5% em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste, conforme as lojas do CEP. No resumo do teste, não apareceu taxa de serviço.",
         "Não escolha apenas a unidade mais próxima. Para a mesma sacola, algumas lojas mostraram liberação a partir de 45 minutos e as mais próximas exibiram uma data bem posterior. Confira quais itens estão disponíveis e o prazo da unidade antes de pagar.",
-        "Aguarde a mensagem de que o pedido está liberado antes de sair de casa. Depois dela, você tem 28 dias corridos para buscar, segundo a política. O benefício de 5% é informado para Centro-Oeste, Sul e Sudeste; para outras regiões, confira a opção no carrinho.",
-        "O EMCASA soma com os 5% da retirada: até 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, Sul e Sudeste e nos itens fora de promoção, porque os 5% saem do valor já com o cupom. A conta da sacola de teste está no [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+        "Aguarde a mensagem de que o pedido está liberado antes de sair de casa. Depois dela, você tem 28 dias corridos para buscar, segundo a política. Para outras regiões, confira a opção no carrinho.",
+        "O EMCASA soma com os 5% da retirada: até 14,5% no total, nos itens fora de promoção, porque os 5% saem do valor já com o cupom. A conta da sacola de teste está no [passo a passo do cupom](/reviews/cupom-petz-como-usar)."
+      ]
+    },
+    {
+      "heading": "Quando o pedido atrasa",
+      "paragraphs": [
+        "Guarde o prazo informado na compra. Se o pedido não chegar ou não for liberado para retirada na data combinada, procure o atendimento com o número do pedido. Os 28 dias para buscar só começam depois da mensagem de liberação.",
+        "Se o pedido não aparecer no prazo, fale com a Petz pelo Alô Petz, (11) 3434-6980: seg a sex, 8h às 21h; sáb, 8h às 18h; dom e feriados, 9h às 16h. O atendimento inteligente fica em petz.com.br/atendimento-inteligente."
       ]
     },
     {
@@ -110,13 +117,6 @@
         "**Pode esperar.** Compare a Padrão com as outras modalidades pelo total, incluindo a taxa de serviço.",
         "**Precisa estar em casa numa faixa definida.** Veja os dias e horários da Agendada e confira todas as cobranças antes de confirmar.",
         "**Se você é Clubz Diamante.** O regulamento da campanha dá frete grátis sem mínimo e sem taxa de serviço para o Diamante. A sacola do teste foi vista sem login, então confira com a sua conta."
-      ]
-    },
-    {
-      "heading": "Quando o pedido atrasa",
-      "paragraphs": [
-        "Guarde o prazo informado na compra. Se o pedido não chegar ou não for liberado para retirada na data combinada, procure o atendimento com o número do pedido. Os 28 dias para buscar só começam depois da mensagem de liberação.",
-        "Se o pedido não aparecer no prazo, fale com a Petz pelo Alô Petz, (11) 3434-6980: seg a sex, 8h às 21h; sáb, 8h às 18h; dom e feriados, 9h às 16h. O atendimento inteligente fica em petz.com.br/atendimento-inteligente."
       ],
       "emphasis": "Para a maioria dos pedidos, eu conferiria primeiro a retirada: nas lojas que liberaram em 45 minutos, ela teve o menor total. Se eu precisasse do produto em casa no mesmo dia, escolheria a Expressa e aceitaria o frete."
     },
@@ -127,7 +127,7 @@
         "A Petz entrega no mesmo dia? Depende do CEP. Na sacola de teste, na Av. Paulista, a Expressa mostrou “Em até 4 horas”, e a Padrão, “Até amanhã”.",
         "A Petz entrega no domingo? A Agendada ofereceu domingo no calendário consultado para o CEP do teste. Veja se a modalidade e o dia aparecem para seu endereço antes de concluir.",
         "O cupom vale na Entrega Expressa? No teste, sim: com a Expressa escolhida, o EMCASA entrou no desconto dos produtos.",
-        "Quanto tempo tenho para retirar na loja? Até 28 dias corridos depois do e-mail de liberação, segundo a política de entrega."
+        "Quanto tempo tenho para retirar na loja? Até 28 dias corridos depois da mensagem de liberação, segundo a política de entrega."
       ]
     }
   ],
@@ -151,7 +151,7 @@
   },
   "coupon": "EMCASA",
   "affiliate": "petz",
-  "editorialNote": "Feito com as regras do site e um teste da sacola, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Teste da sacola em São Paulo, sem finalizar a compra. Podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-petz-como-usar"

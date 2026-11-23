@@ -53,15 +53,15 @@
       "Você quer 5% a menos por cima dos preços da GoBlack."
     ],
     "skipIf": [
-      "Você vai comprar capinhas no Leve 2, Pague 1: essa oferta não soma com cupom.",
-      "Você precisa de uma data certa para o fim da campanha: a loja não publicou nas páginas consultadas."
+      "Você vai comprar capinhas: a oferta de leve 2 tem regra própria.",
+      "Você precisa de uma data certa para o fim da campanha."
     ]
   },
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Black Friday da Gocase, o CECILIAA deu mais 5% OFF em produtos já em promoção nos nossos testes. Confira os preços de garrafas, copos e bolsas com o código. Se estiver comprando capinhas, o regulamento do Leve 2, Pague 1 exclui cupons. A loja não divulgou a data de fim nas páginas consultadas."
+        "Na Black Friday da Gocase, o CECILIAA deu mais 5% OFF em produtos já em promoção nos nossos testes. Veja os preços de garrafas, copos e bolsas com o código, a Fresh por cor, e confira o frete e o checkout antes de pagar."
       ]
     },
     {
@@ -84,7 +84,7 @@
             "R$ 94,90"
           ],
           [
-            "Garrafa Térmica Fresh + Ebook, 650 ml, Clear (Branca, Preta e outras cores)",
+            "Garrafa Térmica Fresh + Ebook, 650 ml, Clear (a maioria das cores)",
             "R$ 119,90",
             "R$ 113,90"
           ],
@@ -101,7 +101,7 @@
         ]
       },
       "postParagraphs": [
-        "Com o código, a economia estimada é de R$ 5,00 na Fresh Melancia ou Amarela e no Life, de R$ 6,00 nas outras cores da Fresh e de R$ 4,50 na Urban. Confira tamanho, cor e total no checkout."
+        "Com o código, a economia estimada é de R$ 5,00 na Fresh Melancia ou Amarela e no Life, de R$ 6,00 nas cores da Fresh a R$ 119,90 e de R$ 4,50 na Urban. Confira tamanho, cor e total no checkout."
       ],
       "images": [
         {
@@ -192,7 +192,7 @@
         {
           "src": "/images/reviews/gocase/gocase-bolsa-joy-pro-clear.webp",
           "alt": "Bolsa Joy Pro Clear da Gocase, preta e fechada, em foto oficial da loja",
-          "caption": "Bolsa Joy Pro Clear, a de maior carga entre as bolsas da tabela. Foto da loja.",
+          "caption": "Bolsa Joy Pro Clear. Foto da loja.",
           "href": "https://www.gocase.com.br/bolsa-joy-pro-clear/p/5565",
           "objectFit": "contain",
           "aspectRatio": 1
@@ -232,9 +232,9 @@
     {
       "heading": "Vale comprar na Black Friday da Gocase?",
       "paragraphs": [
-        "Os preços da campanha já são menores, e o CECILIAA entrou por cima deles nos nossos testes. Pesa contra a falta de data de fim e o Leve 2, Pague 1, que não soma com cupom."
+        "Os preços da campanha são os da vitrine de Black Friday, e o CECILIAA entrou por cima deles nos nossos testes. Pesam contra as regras próprias de cada oferta, que vale conferir antes de pagar."
       ],
-      "emphasis": "Para garrafa, copo ou bolsa na Black Friday, eu compraria no site oficial com o CECILIAA, depois de informar e-mail e CPF, e conferiria cor e total no carrinho antes de pagar.",
+      "emphasis": "Para gastar menos, eu escolheria a Garrafa Urban, a R$ 85,40 com o CECILIAA, e, entre as bolsas, a Tote Mini, a R$ 142,40, que custa o mesmo que a Moove e aparecia disponível.",
       "links": [
         {
           "label": "Ver a Garrafa Urban Futurist na Gocase",
