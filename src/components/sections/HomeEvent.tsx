@@ -6,6 +6,7 @@ import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { ScrollRow } from '@/components/ui/ScrollRow';
 import { StoreMark } from '@/components/ui/StoreMark';
+import { EventGuidesCarousel } from '@/components/sections/EventGuidesCarousel';
 import { EventGuidesExpander } from '@/components/sections/EventGuidesExpander';
 import { cardImageLook } from '@/lib/cardImage';
 import { MOBILE_VISIBLE_GUIDES, type EventTheme, type HomeEventCard, type HomeEventGuide, type ResolvedHomeEvent } from '@/lib/homeEvents';
@@ -13,14 +14,15 @@ import { MOBILE_VISIBLE_GUIDES, type EventTheme, type HomeEventCard, type HomeEv
 // Data comercial na home, entre "Acabou de sair" e "Receitas": só aparece com uma data em campanha
 // (content/home-events.json). Os cards não mostram código; "Ver o código" leva à aba da loja na
 // vitrine, onde o código fica. A página da data (/black-friday) reusa o EventCard. Na reta final (boost),
-// a seção sobe para logo abaixo da vitrine e troca os 4 cards por todos os guias em cards compactos.
+// a seção sobe para logo abaixo da vitrine e troca os 4 cards por todos os guias: na home em português, o carrossel
+// de capas que segue a bolinha da vitrine (EventGuidesCarousel); nas dos outros idiomas, a grade de cards compactos.
 
 type EventPlacement = Extract<HomeRoutePlacement, 'home_event' | 'event_hub'>;
 
 // As três combinações do Encarte; nunca branco sobre laranja.
 export const EVENT_THEME_CLASSES: Record<
   EventTheme,
-  { band: string; title: string; pill: string; link: string; focus: string }
+  { band: string; title: string; pill: string; link: string; focus: string; active: string }
 > = {
   noite: {
     band: 'bg-marinho text-white',
@@ -28,6 +30,7 @@ export const EVENT_THEME_CLASSES: Record<
     pill: 'bg-amarelo-cupom text-marinho',
     link: 'text-amarelo-cupom',
     focus: FOCUS_RING_ON_DARK,
+    active: 'shadow-[0_0_0_4px_var(--color-amarelo-cupom)]',
   },
   laranja: {
     band: 'bg-laranja text-marinho',
@@ -35,6 +38,7 @@ export const EVENT_THEME_CLASSES: Record<
     pill: 'bg-marinho text-amarelo-cupom',
     link: 'text-marinho',
     focus: FOCUS_RING,
+    active: 'shadow-[0_0_0_4px_var(--color-marinho)]',
   },
   amarelo: {
     band: 'bg-amarelo-cupom text-marinho',
@@ -42,6 +46,7 @@ export const EVENT_THEME_CLASSES: Record<
     pill: 'bg-marinho text-amarelo-cupom',
     link: 'text-marinho',
     focus: FOCUS_RING,
+    active: 'shadow-[0_0_0_4px_var(--color-marinho)]',
   },
 };
 
@@ -72,12 +77,12 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
             </h2>
             <p className="max-w-[60ch] text-sm leading-[1.45] font-semibold md:text-[15px]">{event.description}</p>
           </div>
-          <div className="flex flex-none flex-col items-start gap-1.5 md:items-end">
+          <div className="flex flex-none flex-wrap items-center gap-x-3 gap-y-1.5">
             <p className="text-[13px] font-bold">
               <time dateTime={event.dayDate}>{event.dayLabel}</time>
             </p>
             <p
-              className={`font-condensada rounded-full px-3.5 pt-1.5 pb-2 text-2xl leading-none font-black font-stretch-extra-condensed md:text-[28px] ${theme.pill}`}
+              className={`font-condensada rounded-full px-3.5 pt-1.5 pb-2 text-[22px] leading-none font-black font-stretch-extra-condensed md:text-[28px] ${theme.pill}`}
             >
               {event.countdownLabel}
             </p>
@@ -89,7 +94,16 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
             {event.seasonNotice ? (
               <p className="px-4 text-[13px] leading-[1.4] font-bold md:px-0">{event.seasonNotice}</p>
             ) : null}
-            {event.guides.length > MOBILE_VISIBLE_GUIDES ? (
+            {event.carousel ? (
+              <div className="md:-mx-2">
+                <EventGuidesCarousel
+                  guides={event.guides}
+                  carousel={event.carousel}
+                  focusRing={theme.focus}
+                  activeRing={theme.active}
+                />
+              </div>
+            ) : event.guides.length > MOBILE_VISIBLE_GUIDES ? (
               <EventGuidesExpander
                 listId={GUIDES_LIST_ID}
                 showAllLabel={event.guideLabels.showAll}

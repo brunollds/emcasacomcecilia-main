@@ -3788,18 +3788,20 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   }
 
   // A faixa da data também entra pela rolagem. Na reta final, ela fica entre a vitrine e o "Acabou de sair", com um
-  // link por guia, na ordem do arquivo, e sem a entrada da rolagem nos cards compactos.
+  // link por guia no carrossel, na ordem das bolinhas da vitrine (a dos dados), e sem a entrada da rolagem nos cards.
   if (expected.guides) {
     const event = between(body, EVENT_SECTION, [LATEST_SECTION]);
     check(body.indexOf(EVENT_SECTION) < body.indexOf(LATEST_SECTION), 'reta final: a faixa da data não vem antes do "Acabou de sair"');
     check(body.indexOf(EVENT_SECTION) > body.indexOf('role="tablist"'), 'reta final: a faixa da data antes da vitrine');
     const guideLinks = (event.match(/href="\/reviews\/[^"]+"/g) ?? []).join(' ');
-    check(guideLinks === expected.guides.map((guide) => hrefOf(guide.href)).join(' '), 'reta final: guias ou ordem diferentes dos do arquivo');
-    check(!event.match(REVEAL_CARD), 'reta final: cards compactos com a entrada da rolagem');
-    // O botão só existe com mais guias do que cabem no celular.
+    check(guideLinks === expected.guides.map((guide) => hrefOf(guide.href)).join(' '), 'reta final: guias ou ordem diferentes dos dados');
+    check(!event.match(REVEAL_CARD), 'reta final: cards com a entrada da rolagem');
+    // O carrossel traz todos os guias no HTML, sem botão de mostrar todos, e o link da página da data diz quantos são.
+    check(!event.includes('Mostrar todos os') && !event.includes('guias-data-comercial'), 'reta final: a grade compacta no lugar do carrossel');
+    check(event.includes(`>Ver todos os ${expected.guides.length} guias<`), 'reta final: sem o "Ver todos os N guias"');
     check(
-      event.includes(`Mostrar todos os ${expected.guides.length} guias`) === expected.guides.length > MOBILE_VISIBLE_GUIDES,
-      'reta final: o botão de mostrar todos não segue o número de guias'
+      expected.guides.every((guide) => !guide.tab || event.includes(`data-tab="${guide.tab}"`)),
+      'reta final: guia sem a aba da loja no carrossel'
     );
   } else if (expected.hasEvent) {
     const event = between(body, EVENT_SECTION, LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`));
