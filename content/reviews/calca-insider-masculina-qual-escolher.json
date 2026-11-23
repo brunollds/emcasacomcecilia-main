@@ -12,6 +12,7 @@
   },
   "publishedAt": "8 de novembro de 2026",
   "publishedAtISO": "2026-11-08",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -33,7 +34,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para roupa social com cinto, a Director; para pernas afuniladas e bolsos com zíper, a FutureForm; para barra fechada, a Hybrid Jogger. Compare as medidas no quadro antes de escolher o tamanho. O cupom EMCASACOMCECILIA deu 15% OFF nas três no teste de carrinho."
+        "Para roupa social com cinto, a Director; para pernas afuniladas e bolsos com zíper, a FutureForm; para barra fechada, a Hybrid Jogger. Compare as medidas no quadro antes de escolher o tamanho. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA deu 15% OFF nas três no teste de carrinho."
       ]
     },
     {
@@ -79,7 +80,7 @@
         ]
       },
       "postParagraphs": [
-        "O preço da página pode mudar durante a [Black Friday da Insider](/reviews/black-friday-insider)."
+        "O preço da página pode mudar durante a [Black Friday da Insider](/reviews/black-friday-insider); a Black Week da loja traz até 60% OFF em itens selecionados."
       ]
     },
     {
@@ -287,7 +288,8 @@
       "heading": "O preço com o cupom",
       "paragraphs": [
         "Testamos o EMCASACOMCECILIA com uma peça de cada, e os 15% entraram nas três; os valores estão no quadro. A página da Hybrid informa que a promoção \"não acumula com cupons\". Como o desconto entrou no teste, confira a aplicação no seu carrinho antes de pagar.",
-        "Vale um cupom por pedido; ele não se aplica à loja física. A loja declara exceção para lançamentos, mas peças marcadas como lançamento no catálogo da loja também aceitaram o código nos nossos testes. Confira o desconto de cada peça no carrinho; as demais regras estão no [cupom Insider](/cupons/insider)."
+        "O cupom vale na loja online, em todas as formas de pagamento, sem valor mínimo. Um por pedido, e não vale na loja física, no Mercado Livre nem em pedido pago com saldo de gift card. A loja declara exceção para lançamentos, mas peças marcadas como lançamento no catálogo da loja também aceitaram o código nos nossos testes. Em geral, o cupom soma com os preços da Black Week, que a loja anuncia com até 60% OFF em itens selecionados, e o desconto do Pix aparece no checkout e soma com o cupom.",
+        "O botão já leva o EMCASACOMCECILIA ao carrinho; se preferir, cole o código no campo \"Cupom de desconto ou Gift Card\" e confira a linha \"Código de desconto EMCASACOMCECILIA\" em cada item do resumo. As demais regras estão no [cupom Insider](/cupons/insider)."
       ]
     },
     {
@@ -298,16 +300,38 @@
         "Para quem prefere barra fechada: a Hybrid Jogger, que a loja indica para trabalho remoto, passeios e viagens."
       ],
       "emphasis": "Sem precisar de cinto, eu começaria pela FutureForm, porque os dois bolsos laterais fecham com zíper; para usar cinto, a escolha passa a ser a Director.",
-      "emphasisAfterParagraph": 1
+      "emphasisAfterParagraph": 1,
+      "links": [
+        {
+          "label": "Ver Calça FutureForm masculina na Insider",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-futureform-masculina?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+          "sponsored": true
+        },
+        {
+          "label": "Ver Calça Director na Insider",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/calca-director-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+          "sponsored": true
+        },
+        {
+          "label": "Ver Calça Hybrid Jogger na Insider",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/hybrid-jogger?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Insider: EMCASACOMCECILIA",
+          "href": "/cupons/insider"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Insider? É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.",
         "A calça FutureForm é boa? A FutureForm é uma opção para quem quer pernas afuniladas e bolsos com zíper. Compare as medidas com uma calça sua; o capítulo do modelo reúne a descrição e os comentários da loja.",
         "Dá para usar no trabalho? A loja indica a FutureForm para o trabalho e apresenta a Director como calça social. Para roupa social com cinto, a Director é a única com passantes.",
         "Qual a diferença da Director para a FutureForm? A Director é reta, de cintura média, com passantes para cinto. A FutureForm é tapered, de cintura alta, com bolsos de zíper. Os tecidos também são diferentes.",
         "A calça desamassa mesmo? A Insider anuncia que os modelos desamassam no corpo ou dispensam o ferro, conforme a linha. Veja a promessa de cada tecido no capítulo do modelo.",
-        "Qual é o cupom Insider para as calças? O EMCASACOMCECILIA deu 15% OFF na FutureForm, na Director e na Hybrid no teste de carrinho. Confira o desconto no seu pedido; o capítulo de preço explica o aviso da Hybrid."
+        "O cupom entrou nas três? Entrou na FutureForm, na Director e na Hybrid no teste de carrinho. Confira a linha do código em cada peça, no resumo do pedido; o capítulo de preço explica o aviso da Hybrid."
       ]
     }
   ],

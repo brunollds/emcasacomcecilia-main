@@ -17,7 +17,7 @@
   "metaDescription": "Kit Insider com o cupom EMCASACOMCECILIA de 15% OFF, testado no carrinho: a conta por peça de Tech, Heavy, Daily, cueca e undershirt contra o avulso.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "locale": "pt",
@@ -29,15 +29,15 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Compensa para quem já quer cinco ou dez camisetas Tech: na tabela, o kit de 5 custa menos por peça que a avulsa, e o cupom EMCASACOMCECILIA, de 15% OFF, entra por cima do kit de 5. No kit de 3, a economia é pequena."
+        "Compensa para quem já quer cinco ou dez camisetas Tech: o kit de 5 custa menos por peça que a avulsa, e o [cupom Insider](/cupons/insider), EMCASACOMCECILIA com 15% OFF, entra por cima do kit. No kit de 3, a economia é pequena."
       ]
     },
     {
       "heading": "Como ler a conta do kit",
       "paragraphs": [
-        "Compare o preço do kit dividido pelo número de peças com as mesmas peças avulsas no mesmo dia. O preço riscado do kit não substitui essa conta: um kit de 3 Tech aparecia “de R$ 507”, mas três avulsas de R$ 129 somavam R$ 387.",
-        "Os preços são os do cartão da loja em 30/10/2026, e o preço do dia pode ser outro: confira na loja. A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) avulsa custa R$ 129, de PP a XXGG. A loja também tem cadastros com um tamanho só, em geral PP, mais baratos, que ficam fora da conta.",
-        "Com a Black Friday, os preços podem mudar. Antes de comprar, veja a [Black Friday Insider 2026](/reviews/black-friday-insider)."
+        "Compare o preço do kit dividido pelo número de peças com as mesmas peças avulsas no mesmo dia. O preço riscado do kit não substitui essa conta: na consulta de outubro, um kit de 3 Tech aparecia “de R$ 507”, mas três avulsas de R$ 129 somavam R$ 387.",
+        "As tabelas de camiseta e de cueca trazem as contas da consulta de outubro; mais abaixo, a de camiseta tem a versão da Black Week. A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) avulsa custava R$ 129, de PP a XXGG. A loja também tem cadastros com um tamanho só, em geral PP, mais baratos, que ficam fora da conta.",
+        "Na Black Week, a loja anuncia itens selecionados com até 60% OFF e kits com até 40% OFF, e o cupom soma com esses preços. Veja o que mais está em oferta na [Black Friday Insider 2026](/reviews/black-friday-insider)."
       ],
       "images": [
         {
@@ -45,14 +45,15 @@
           "alt": "Modelo de pé vestindo Tech T-Shirt de manga curta em tom escuro, sobre fundo cinza claro",
           "caption": "Foto oficial da Insider. É a Tech T-Shirt avulsa, não o kit.",
           "objectFit": "contain",
-          "aspectRatio": 0.8333
+          "aspectRatio": 0.8333,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         }
       ]
     },
     {
       "heading": "Camisetas: a tabela",
       "paragraphs": [
-        "Preços no cartão, sem cupom e antes do frete. Cada linha compara o kit com a referência avulsa indicada; confira as mesmas cores e tamanhos no pedido."
+        "Preços de outubro, no cartão, sem cupom e antes do frete. Cada linha compara o kit com a referência avulsa indicada; confira as mesmas cores e tamanhos no pedido."
       ],
       "comparisonTable": {
         "headers": [
@@ -127,9 +128,61 @@
       ]
     },
     {
+      "heading": "Camisetas na Black Week: a conta de novembro",
+      "paragraphs": [
+        "No preço da Black Week, a Tech avulsa está em R$ 135 e a Heavy, em R$ 169. A conta muda: o kit de 5 Tech ficou ainda melhor, o de 3 Heavy perdeu parte da economia, e continuam existindo dois kits de 3 Tech com preços bem diferentes, R$ 375,64 e R$ 507.",
+        "O Kit 10 Tech e o Kit 3 Daily seguem com a conta de outubro."
+      ],
+      "comparisonTable": {
+        "caption": "Preços de 23/11/2026, no cartão, sem cupom e antes do frete.",
+        "headers": [
+          "Kit",
+          "Preço do kit",
+          "Por peça",
+          "Soma das avulsas",
+          "Economia",
+          "Leitura"
+        ],
+        "rows": [
+          [
+            "Kit 3 Tech T-Shirt, versão de R$ 375,64",
+            "R$ 375,64",
+            "R$ 125,21",
+            "R$ 405 (3 × [Tech](https://creators.insiderstore.com.br/axB7p3y) a R$ 135)",
+            "R$ 29,36 (7%)",
+            "compensa pouco"
+          ],
+          [
+            "Kit 3 Tech T-Shirt, versão de R$ 507",
+            "R$ 507,00",
+            "R$ 169,00",
+            "R$ 405 (3 × [Tech](https://creators.insiderstore.com.br/axB7p3y) a R$ 135)",
+            "custa R$ 102 a mais",
+            "não compensa"
+          ],
+          [
+            "Kit 5 Tech T-Shirt",
+            "R$ 520,76",
+            "R$ 104,15",
+            "R$ 675 (5 × [Tech](https://creators.insiderstore.com.br/axB7p3y) a R$ 135)",
+            "R$ 154,24 (23%)",
+            "compensa"
+          ],
+          [
+            "Kit 3 Tech Heavy",
+            "R$ 481,50",
+            "R$ 160,50",
+            "R$ 507 (3 × [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) a R$ 169)",
+            "R$ 25,50 (5%)",
+            "compensa pouco"
+          ]
+        ]
+      }
+    },
+    {
       "heading": "Tech: 3, 5 e 10 peças",
       "paragraphs": [
-        "O kit de 3 Tech economiza pouco: R$ 31,50 nas três camisetas, ou 8%. A partir de 5 peças a conta muda: o kit de 5 sai a R$ 108,88 por camiseta, e o de 10, a R$ 98,94.",
+        "O kit de 3 Tech economizava pouco na consulta de outubro: R$ 31,50 nas três camisetas, ou 8%. A partir de 5 peças a conta mudava: o kit de 5 saía a R$ 108,88 por camiseta, e o de 10, a R$ 98,94.",
         "No kit, cada peça tem cor e tamanho próprios. Num kit de 5, por exemplo, dá para pedir duas pretas PP, duas pretas G e uma Indigo G. O kit de 5 tem o mesmo preço nas versões feminina e Gola V."
       ],
       "images": [
@@ -138,28 +191,31 @@
           "alt": "Três camisetas Tech T-Shirt, preta, off-white e cinza-chumbo, em fundo claro",
           "caption": "Foto oficial da Insider, do Kit 3 Tech T-Shirt.",
           "objectFit": "contain",
-          "aspectRatio": 1.0
+          "aspectRatio": 1.0,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-tech-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         },
         {
           "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-tech.webp",
           "alt": "Cinco camisetas Tech T-Shirt em preto, off-white, cinza-chumbo e azul-marinho, em fundo claro",
           "caption": "Foto oficial da Insider, do Kit 5 Tech T-Shirt.",
           "objectFit": "contain",
-          "aspectRatio": 1.0
+          "aspectRatio": 1.0,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-tech-t-shirt-1?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         },
         {
           "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-10-tech.webp",
           "alt": "Dez camisetas Tech T-Shirt em preto, off-white e azul-marinho, em fundo claro",
           "caption": "Foto oficial da Insider, do Kit 10 Tech T-Shirt.",
           "objectFit": "contain",
-          "aspectRatio": 1.0
+          "aspectRatio": 1.0,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         }
       ]
     },
     {
       "heading": "Heavy: a cor muda a conta",
       "paragraphs": [
-        "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) avulsa vai de R$ 155 a R$ 199, pela cor e o tamanho. Com a avulsa a R$ 169, o kit de 5 economiza 17%, e o de 3, 13%. Se a avulsa que você quer for a de R$ 155, as economias caem para 10% e 5%."
+        "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) avulsa vai de R$ 155 a R$ 199, pela cor e o tamanho. Com a avulsa a R$ 169, o kit de 5 economizava 17% na consulta de outubro, e o de 3, 13%. Se a avulsa que você quer for a de R$ 155, as economias caem para 10% e 5%."
       ],
       "images": [
         {
@@ -167,21 +223,23 @@
           "alt": "Modelo vestindo camiseta Heavy branca de manga curta, com calça bege, sobre fundo cinza claro",
           "caption": "Foto oficial da Insider. É a Heavy avulsa em branco, não o kit.",
           "objectFit": "contain",
-          "aspectRatio": 0.7811
+          "aspectRatio": 0.7811,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt-heavy-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         },
         {
           "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-heavy.webp",
           "alt": "Três camisetas Heavy, duas verde-oliva e uma branca, em fundo claro",
           "caption": "Foto oficial da Insider, do Kit 3 Tech Heavy.",
           "objectFit": "contain",
-          "aspectRatio": 1.0
+          "aspectRatio": 1.0,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-tech-t-shirt-heavy?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         }
       ]
     },
     {
       "heading": "Daily: o kit quase não economiza",
       "paragraphs": [
-        "A Daily avulsa custa R$ 99. O kit de 3 sai a R$ 96,92 por peça, R$ 6,24 a menos no total, ou 2%. Quem quer a Daily pode levar a avulsa."
+        "Na consulta de outubro, a Daily avulsa custava R$ 99. O kit de 3 saía a R$ 96,92 por peça, R$ 6,24 a menos no total, ou 2%. Quem quer a Daily pode levar a avulsa, hoje a R$ 104 no preço da Black Week. A vitrine Compre e Ganhe também tem a Daily com uma cueca de presente."
       ],
       "images": [
         {
@@ -189,21 +247,23 @@
           "alt": "Modelo vestindo camiseta Daily preta de manga curta, com calça verde-oliva, sobre fundo cinza claro",
           "caption": "Foto oficial da Insider. É a Daily avulsa em preto, não o kit.",
           "objectFit": "contain",
-          "aspectRatio": 0.7922
+          "aspectRatio": 0.7922,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/daily-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         },
         {
           "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-3-daily.webp",
           "alt": "Três camisetas Daily, duas pretas e uma off-white, em fundo claro",
           "caption": "Foto oficial da Insider, do Kit 3 Daily.",
           "objectFit": "contain",
-          "aspectRatio": 1.0
+          "aspectRatio": 1.0,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/daily-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         }
       ]
     },
     {
       "heading": "Cuecas e undershirt: a tabela",
       "paragraphs": [
-        "Preços no cartão, sem cupom e antes do frete. Referências avulsas: [Comfort](https://creators.insiderstore.com.br/ptFyZqS) a R$ 79; [Performance](https://creators.insiderstore.com.br/nD3bAuj) de R$ 79 a R$ 95, conforme a variante; Slip a R$ 75; undershirt Moderado de R$ 145 a R$ 159. Compare o kit com a mesma variante que pretende levar."
+        "Preços de outubro, no cartão, sem cupom e antes do frete. Referências avulsas: [Comfort](https://creators.insiderstore.com.br/ptFyZqS) a R$ 79; [Performance](https://creators.insiderstore.com.br/nD3bAuj) de R$ 79 a R$ 95, conforme a variante; Slip a R$ 75; undershirt Moderado de R$ 145 a R$ 159. Compare o kit com a mesma variante que pretende levar."
       ],
       "comparisonTable": {
         "headers": [
@@ -298,14 +358,16 @@
           "alt": "Modelo de pé com camiseta branca e cueca boxer escura, sobre fundo cinza claro",
           "caption": "Foto oficial da Insider. É a Cueca Comfort avulsa, não o kit.",
           "objectFit": "contain",
-          "aspectRatio": 1.0
+          "aspectRatio": 1.0,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         },
         {
           "src": "/images/reviews/insider/kit-insider-quando-compensa-kit-5-cuecas-comfort.webp",
           "alt": "Cinco cuecas boxer Comfort em azul-marinho, azul-claro e preto, em fundo claro",
           "caption": "Foto oficial da Insider, do Kit 5 Cuecas Comfort.",
           "objectFit": "contain",
-          "aspectRatio": 1.0
+          "aspectRatio": 1.0,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-cuecas-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         }
       ]
     },
@@ -320,17 +382,18 @@
           "alt": "Cinco cuecas slip pretas, dobradas em diagonal, em fundo claro",
           "caption": "Foto oficial da Insider, do Kit 5 Cuecas Slip.",
           "objectFit": "contain",
-          "aspectRatio": 1.0
+          "aspectRatio": 1.0,
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-cuecas-slip?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA"
         }
       ]
     },
     {
       "heading": "Cupom no kit: como ele entra",
       "paragraphs": [
-        "O cupom EMCASACOMCECILIA dá 15% na loja online, um por pedido, e não vale na loja física. Nos primeiros dias de um lançamento, pode não entrar; depois, entra mesmo com a etiqueta de lançamento. A regra publicada não exclui kit.",
-        "No kit de 5 Tech, o carrinho mostra cinco camisetas com o desconto do kit em cada uma, e o cupom entra por cima. O total ficou em R$ 462,75, ou R$ 92,55 por camiseta, com frete grátis. Em outro kit, confira a linha do código em cada peça antes de pagar.",
-        "O kit de 3 Daily desta comparação não aceitou o cupom: a página avisava que o desconto dele já era o máximo. Isso não exclui a linha inteira: em outro teste, o kit da Daily T-shirt com cueca de brinde recebeu os 15%. Confira a oferta e a linha do código no seu pedido.",
-        "O Pix tem desconto próprio, que aparece no checkout e soma com o cupom."
+        "O [cupom Insider](/cupons/insider), EMCASACOMCECILIA, dá 15% OFF na loja online, sem valor mínimo e em todas as formas de pagamento, e a loja aceita um cupom por pedido. Não vale na loja física, no Mercado Livre nem em pedido pago com saldo de gift card. Nos primeiros dias de um lançamento, pode não entrar; depois, entra mesmo com a etiqueta de lançamento. A regra publicada não exclui kit.",
+        "No kit de 5 Tech, o carrinho de outubro mostrava cinco camisetas com o desconto do kit em cada uma, e o cupom entrava por cima. O total ficou em R$ 462,75, ou R$ 92,55 por camiseta, com frete grátis. O botão da página já leva o cupom ao carrinho; se não levar, cole no campo “Cupom de desconto ou Gift Card” e confira a linha “Código de desconto EMCASACOMCECILIA” em cada peça antes de pagar.",
+        "O kit de 3 Daily desta comparação não aceitou o cupom em outubro: a página avisava que o desconto dele já era o máximo. No teste de novembro o cupom entrou na Daily avulsa, e o kit da Daily com cueca de presente também recebeu os 15% em outro teste. Confira a oferta e a linha do código no seu pedido.",
+        "O desconto do Pix aparece no checkout e soma com o cupom."
       ],
       "links": [
         {
@@ -342,8 +405,9 @@
     {
       "heading": "Frete e troca",
       "paragraphs": [
-        "O frete é grátis acima de R$ 399, contado depois do desconto. O kit de 3 Tech, a R$ 355,50, paga frete. O de 5 ficou com frete grátis mesmo com o cupom.",
-        "Na troca, o kit segue a regra de cada peça. A camiseta troca por tamanho ou insatisfação em 21 dias corridos. Cueca e undershirt só trocam por defeito, em 180 dias corridos."
+        "O frete é grátis a partir de R$ 399, contado depois do cupom. Na consulta de outubro, o kit de 3 Tech, a R$ 355,50, ficava abaixo disso e pagava frete; o de 5 ficou com frete grátis mesmo com o cupom.",
+        "A conta que pega: um pedido entre R$ 399 e R$ 469 antes do cupom cai abaixo de R$ 399 depois dele (R$ 469 × 0,85 = R$ 398,65) e passa a pagar frete. No teste de novembro, Tech, Daily e undershirt Moderado somaram R$ 398,00 e, com o cupom, R$ 338,30: sem frete grátis.",
+        "Na troca, o kit segue a regra de cada peça. A camiseta troca por tamanho ou insatisfação em 21 dias corridos. Cueca e undershirt só trocam por defeito, em 180 dias corridos, pela política comercial da loja, o que convive com o direito de arrependimento da compra online."
       ]
     },
     {
@@ -351,24 +415,32 @@
       "bullets": [
         "Compensa: Tech de 5 e de 10, Heavy de 3 e de 5, Slip de 10 e Cueca Comfort de 2.",
         "Compensa pouco: Tech de 3, Cueca Comfort ou Performance de 3 e de 5, Slip de 5 e undershirt de 3.",
-        "Não compensa: Daily de 3 (2%) e o kit de 3 Tech de R$ 456, que custa R$ 69 a mais que as avulsas."
+        "Não compensa: Daily de 3 (2%) e o kit de 3 Tech mais caro, que custa mais que as três avulsas."
       ],
-      "emphasis": "Se você já quer cinco Tech, a tabela favorecia o kit de 5: R$ 108,88 por peça antes do cupom, contra R$ 129 da avulsa. Para outra quantidade, compare o total que pretende gastar, sem comprar peças extras só pela média menor."
-    },
-    {
-      "heading": "Presente: outro texto",
+      "emphasis": "Se você já quer cinco Tech, leve o kit de 5: sai menos por peça que a avulsa, antes mesmo do cupom.",
       "paragraphs": [
-        "Kit para presente tem faixas de preço, gift card e sacola, e segue em outro texto: [Presente de Natal na Insider: kits, gift card, sacola e troca de presente](/reviews/presente-de-natal-insider-kits-gift-card). Este artigo fica com a conta por peça de quem compra para si."
+        "Os marcadores trazem as contas de outubro. Na conta de novembro, o kit de 5 Tech segue na frente e o de 3 Heavy caiu para 5%. Para outra quantidade, compare o total que pretende gastar, sem comprar peças extras só pela média menor. Kit para presente tem faixas de preço, gift card e sacola, e fica em [Presente de Natal na Insider: kits, gift card, sacola e troca de presente](/reviews/presente-de-natal-insider-kits-gift-card)."
+      ],
+      "links": [
+        {
+          "label": "Ver Kit 5 Tech T-Shirt na Insider",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-tech-t-shirt-1?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Insider: EMCASACOMCECILIA",
+          "href": "/cupons/insider"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Kit Insider compensa? Compensa em camiseta Tech de 5 ou 10 peças, Heavy de 3 ou 5 e Slip de 10. Na cueca, o kit de 2 Comfort é o que mais economiza.",
-        "Kit de cueca vale a pena? O de 2 Comfort sai a R$ 49,01 por peça. Os de 3 e 5 Comfort ou Performance economizam de 3% a 5%, e o de 5 Slip, 10%.",
-        "Kit de camiseta tem desconto? A Tech tem: o kit de 5 economiza 16%. A Daily quase não tem: 2% no kit de 3.",
-        "O cupom vale no kit? No kit de 5 Tech, o EMCASACOMCECILIA entrou por cima do desconto do kit, e o total ficou em R$ 462,75. O kit de 3 Daily desta comparação não aceitou o código; já o kit da Daily com cueca de brinde recebeu os 15% em outro teste. Confira a linha do código de cada item no resumo do pedido.",
-        "Kit tem frete grátis? Acima de R$ 399, depois do desconto. O kit de 5 Tech com o cupom ficou com frete grátis.",
+        "Qual é o cupom da Insider? É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.",
+        "Kit Insider compensa? Compensa em camiseta Tech de 5 ou 10 peças, Heavy de 3 ou 5 e Slip de 10; a Tech de 5 é a que mais economiza. Na cueca, o kit de 2 Comfort é o que mais economiza, e a Daily quase não tem desconto no kit. A conta está nas tabelas acima.",
+        "Kit de cueca vale a pena? O de 2 Comfort é o que mais economiza. Os de 3 e 5 Comfort ou Performance economizam pouco, e o de 5 Slip, um pouco mais. A conta por peça está em “Cuecas e undershirt: a tabela”.",
+        "O cupom vale no kit? No kit de 5 Tech, o EMCASACOMCECILIA entrou por cima do desconto do kit. O kit de 3 Daily de outubro não aceitou o código, e o kit da Daily com cueca de presente recebeu os 15% em outro teste. Confira a linha do código de cada item no resumo do pedido.",
+        "Kit tem frete grátis? A partir de R$ 399, depois do cupom. O capítulo “Frete e troca” mostra a conta de quem fica logo acima desse valor.",
         "Dá para escolher cor e tamanho no kit? Dá. Cada peça do kit tem cor e tamanho próprios.",
         "Dá para trocar o tamanho do kit? A camiseta troca por tamanho em 21 dias. Cueca e undershirt só trocam por defeito."
       ]
@@ -376,7 +448,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Você já quer cinco ou dez camisetas Tech: compare esses kits com a mesma quantidade de avulsas. A economia da tabela é histórica e não substitui a conta do seu carrinho.",
+      "Você já quer cinco ou dez camisetas Tech: compare esses kits com a mesma quantidade de avulsas no dia da compra.",
       "Leve o kit de 2 Comfort se quer cueca: é a maior economia da tabela."
     ],
     "skipIf": [
@@ -404,6 +476,9 @@
     },
     {
       "slug": "presente-de-natal-insider-kits-gift-card"
+    },
+    {
+      "slug": "black-friday-insider"
     }
   ]
 }

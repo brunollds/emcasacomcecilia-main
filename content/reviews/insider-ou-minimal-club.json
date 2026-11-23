@@ -18,6 +18,7 @@
   "metaDescription": "O cupom EMCASACOMCECILIA dá 15% na Insider. Tech ou Core, comparadas com as camisetas da Minimal Club: tecido, preço, troca e garantia.",
   "publishedAt": "5 de novembro de 2026",
   "publishedAtISO": "2026-11-05",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/insider/insider-ou-minimal-club-capa-v2.webp",
@@ -28,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Entre as duas de modal, a Tech T-Shirt da Insider tem garantia de cor e, com o EMCASACOMCECILIA (15% OFF, exceto lançamentos), fica quase no preço da Tech Modal da Minimal. Entre Core e Camiseta Minimal, a escolha é viscose ou algodão com elastano. A Minimal Club dá mais prazo para trocar por tamanho."
+        "Entre as duas de modal, a Tech T-Shirt da Insider tem garantia de cor e, com o [cupom Insider](/cupons/insider), EMCASACOMCECILIA com 15% OFF, fica quase no preço da Tech Modal da Minimal. Entre Core e Camiseta Minimal, a escolha é viscose ou algodão com elastano. A Minimal Club dá mais prazo para trocar por tamanho."
       ]
     },
     {
@@ -46,7 +47,7 @@
         "São quatro peças, em dois pares: a Tech contra a Tech Modal, e a Core contra a Camiseta Minimal."
       ],
       "comparisonTable": {
-        "caption": "Preços no cartão em 05/11/2026. Valores com cupom calculados para uma camiseta, sem frete e sem Pix, quando o desconto se aplica ao item.",
+        "caption": "Preços no cartão na consulta de novembro. Valores com cupom calculados para uma camiseta, sem frete e sem Pix, quando o desconto se aplica ao item.",
         "headers": [
           "Modelo",
           "Tecido",
@@ -170,8 +171,9 @@
       "heading": "Preço com o cupom",
       "paragraphs": [
         "Com 15% de desconto sobre os preços da tabela, para uma camiseta no cartão, sem frete e sem Pix, a Tech fica R$ 0,25 abaixo da Tech Modal; a Core, R$ 17,75 abaixo da Camiseta Minimal. A primeira diferença é de centavos; a segunda pode pesar se você aceita tanto viscose quanto algodão.",
-        "O cupom EMCASACOMCECILIA dá 15% na loja online da Insider, sem valor mínimo e um por pedido. Não vale na loja física, não soma com outro cupom e não se aplica a pedido pago com gift card. A regra da loja exclui lançamentos, mas a marcação do catálogo nem sempre coincide com a aplicação no carrinho. Confira a linha do código em cada item antes de pagar.",
-        "Confira o preço no Pix nas duas lojas antes de decidir. Na Insider, o cupom soma com o desconto do Pix, salvo restrição da promoção. A Insider oferece frete grátis acima de R$ 399, depois do desconto; a Minimal, acima de R$ 500. Compare o total com entrega para o seu CEP."
+        "Na Black Week, o site anuncia itens selecionados com até 60% OFF, e a Tech está a R$ 135 no cartão. No carrinho, o cupom a deixou em R$ 114,75, cerca de R$ 5 acima da Tech Modal da tabela. Entre as duas de modal, a garantia de cor segue como o critério que decide.",
+        "O cupom EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo e em todas as formas de pagamento, e a loja aceita um cupom por pedido. Não vale na loja física, no Mercado Livre nem em pedido pago com saldo de gift card. A regra da loja exclui lançamentos, mas a marcação do catálogo nem sempre coincide com a aplicação no carrinho. O botão da página já leva o cupom ao carrinho; se não levar, cole no campo “Cupom de desconto ou Gift Card” e confira a linha do código em cada item antes de pagar.",
+        "O desconto do Pix aparece no checkout e soma com o cupom. A Insider oferece frete grátis a partir de R$ 399, depois do cupom; a Minimal, acima de R$ 500. Compare o total com entrega para o seu CEP."
       ],
       "links": [
         {
@@ -197,18 +199,29 @@
         "Quer modal, com garantia de cor por escrito: Tech T-Shirt, com o cupom.",
         "Quer algodão com elastano e mais prazo para trocar por tamanho: Camiseta Minimal.",
         "Quer a peça que a Insider chama de mais encorpada, de viscose: Core, que com o cupom sai R$ 17,75 abaixo da Camiseta Minimal.",
-        "Prioriza o menor preço entre as quatro no cartão: Tech Modal sem cupom; com EMCASACOMCECILIA aplicado, a Tech fica R$ 0,25 abaixo, antes do frete."
+        "Prioriza o menor preço entre as quatro no cartão: Tech Modal; com o cupom, a Tech fica a poucos reais dela, antes do frete."
       ],
-      "emphasis": "O Bruno preferia levar a Tech T-Shirt: nos preços comparados, com o cupom aplicado, ela fica quase no preço da Tech Modal e traz garantia de cor por escrito. A garantia de dois anos depende dos cuidados e das condições descritos acima."
+      "emphasis": "Na dúvida entre as quatro, leve a Tech T-Shirt: com o cupom fica quase no preço da Tech Modal e traz garantia de cor por escrito.",
+      "links": [
+        {
+          "label": "Ver Tech T-Shirt na Insider",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Insider: EMCASACOMCECILIA",
+          "href": "/cupons/insider"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Insider? É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.",
         "Qual é melhor, Insider ou Minimal Club? Entre as camisetas comparadas, a Tech da Insider tem garantia de cor com prazo; a Minimal Club oferece mais tempo para troca por tamanho e uma opção de algodão com elastano. As duas marcas têm camiseta de modal. Escolha pelo critério que pesa para você.",
         "Minimal Club vale a pena? Vale se o tamanho é a dúvida, porque a troca dela tem mais prazo e o frete da devolução fica por conta da loja. A seção de troca mostra as regras de cada uma.",
         "Camiseta Minimal ou Insider, qual a melhor? Pelo tecido, a Camiseta Minimal é algodão egípcio com elastano; a Insider tem Tech de modal e Core de viscose. Quem quer algodão fica na Minimal; quem quer modal com garantia de cor fica na Insider.",
-        "Camiseta Insider desbota? A Tech tem garantia de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida, para compras feitas a partir da data dos termos da loja. A página da Core não traz essa garantia.",
-        "Qual é o cupom da Insider? EMCASACOMCECILIA dá 15% de desconto nos itens elegíveis da loja online; confira as exclusões e a aplicação por item antes de pagar."
+        "Camiseta Insider desbota? A Tech tem garantia de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida, para compras feitas a partir da data dos termos da loja. A página da Core não traz essa garantia."
       ]
     }
   ],

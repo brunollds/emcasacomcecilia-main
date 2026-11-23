@@ -371,7 +371,7 @@ export const storeBannersData: StoreBanner[] = [
     "id": "insider-black-99-2026",
     "affiliate": "insider",
     "slot": "end",
-    "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+    "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/ate-99?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
     "art": {
       "kind": "bag"
     },
@@ -382,46 +382,46 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver a campanha"
       }
     },
-    "source": "Página /collections/ate-99 (\"Black 99\", \"Best sellers por R$99\") de insiderstore.com.br (navegador, 04/11/2026)",
-    "verifiedAt": "2026-11-04"
+    "source": "Página /collections/ate-99 (\"Produtos a R$ 99\", 19 produtos) e carrossel da coleção da Black Friday (\"Best-sellers por R$99\"), sem data de fim publicada, lidos no navegador em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "insider-black-friday-2026",
     "affiliate": "insider",
     "slot": "top",
-    "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+    "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/black-friday-insider?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
     "art": {
       "kind": "tag",
       "value": "60%"
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday da Insider: até 60% OFF em itens selecionados",
-        "text": "Campanha da própria Insider. O até 60% vale só para itens selecionados; as condições aparecem no site da loja.",
+        "headline": "Black Week da Insider: até 60% OFF em itens selecionados",
+        "text": "Campanha da própria Insider, com kits de até 40% OFF. O até 60% vale só para itens selecionados; as condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Banner da home de insiderstore.com.br (\"Seleção até 60% OFF\"), lida no navegador em 18/11/2026; em 04/11 era \"até 50% OFF + frete grátis\", com o rodapé legal \"itens selecionados\"",
-    "verifiedAt": "2026-11-18"
+    "source": "Banner da home de insiderstore.com.br (\"Já começou\", \"Black Week até 60% OFF\") e carrossel de /collections/black-friday-insider (\"Última chance até 60% OFF\", \"Kits com até 40% OFF\"), sem data de fim publicada, lidos no navegador em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
-    "id": "insider-combine-e-ganhe-2026",
+    "id": "insider-compre-e-ganhe-2026",
     "affiliate": "insider",
     "slot": "mid",
-    "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+    "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/compre-e-ganhe?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
     "art": {
       "kind": "bag"
     },
     "copy": {
       "pt": {
-        "headline": "Combine & Ganhe na Insider: leve 3 e o de menor valor sai grátis",
-        "text": "Campanha da própria Insider, nos produtos com o selo Combine & Ganhe. As condições aparecem no site da loja.",
-        "action": "Ver a campanha"
+        "headline": "Compre e Ganhe na Insider: um best-seller e outra peça de presente",
+        "text": "Campanha da própria Insider, nos kits da coleção Compre e Ganhe. As condições aparecem no site da loja.",
+        "action": "Ver os kits"
       }
     },
-    "source": "Banner da home de insiderstore.com.br e página /collections/combine-e-ganhe: \"Na compra de 3 produtos participantes, o item de menor valor será gratuito\" (navegador, 04/11/2026)",
-    "verifiedAt": "2026-11-04"
+    "source": "Página /collections/compre-e-ganhe (\"Compre um best-seller e leve outra peça de presente ao montar seu pedido\", 23 kits), sem data de fim publicada, lida no navegador em 23/11/2026; o Combine e Ganhe de 04/11 está encerrado",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "iws-black-november-2026",

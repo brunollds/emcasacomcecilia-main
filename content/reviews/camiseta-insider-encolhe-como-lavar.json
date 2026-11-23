@@ -18,6 +18,7 @@
   "metaDescription": "O cupom EMCASACOMCECILIA dá 15% na Insider. Veja quanto cada linha pode encolher, como lavar e o que percebi ao lavar a Perfect Top sem sabão.",
   "publishedAt": "6 de novembro de 2026",
   "publishedAtISO": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa-v2.webp",
@@ -28,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pode encolher: a Insider publica limites de 3% na Perfect Top a 8% na Tech. Escolha o tamanho antes de lavar e siga a etiqueta. No vídeo, a Perfect Top aparece sem o amarelo da axila após uma lavagem sem sabão; ao tirar da máquina, percebi que o cheiro de suor também tinha saído."
+        "Pode encolher: a Insider publica limites de 3% na Perfect Top a 8% na Tech, então escolha o tamanho antes de lavar e siga a etiqueta. No vídeo, a Perfect Top sai sem o amarelo da axila numa lavagem sem sabão, e percebi que o cheiro também saiu. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF."
       ]
     },
     {
@@ -180,8 +181,29 @@
       ]
     },
     {
+      "heading": "Perfect Top ou Tech: qual escolher",
+      "paragraphs": [
+        "A [Perfect Top](https://creators.insiderstore.com.br/3tQNigp) aceita secadora em baixa temperatura e encolhe até 3%. A [Tech T-Shirt](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) vai ao varal, encolhe até 8% e tem a garantia de cor de 2 anos, que cobre só o desbotamento e vale seguindo a etiqueta. Seja qual for a peça, escolha o tamanho antes de lavar.",
+        "O botão abaixo já leva o [cupom Insider](/cupons/insider) ao carrinho, com 15% OFF em todas as formas de pagamento. Se o código não entrar, cole EMCASACOMCECILIA no campo “Cupom de desconto ou Gift Card” e confira a linha do código em cada item: a regra da loja exclui lançamentos. O cupom não vale na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido."
+      ],
+      "emphasis": "Quem seca na máquina fica com a Perfect Top; quem estende no varal e quer a garantia de cor fica com a Tech.",
+      "emphasisAfterParagraph": 1,
+      "links": [
+        {
+          "label": "Ver The Perfect Top na Insider",
+          "href": "https://creators.insiderstore.com.br/3tQNigp",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Insider: EMCASACOMCECILIA",
+          "href": "/cupons/insider"
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Insider? É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.",
         "Camiseta Insider encolhe? Pode. A Insider publica um limite por linha, e a tabela de “Quanto cada linha pode encolher” traz o de cada uma.",
         "Camiseta Insider encolhe na secadora? A marca só libera a secadora, em baixa temperatura, na Perfect Top e na Oversized; nas outras, a Tech inclusive, ela pede varal à sombra. A tabela do início traz cada linha.",
         "Como lavar camiseta Insider? Depende da linha: a água vai de abaixo de 30 °C a abaixo de 40 °C, e só a Perfect Top e a Oversized aceitam secadora. A Perfect Top e a Tech pedem ciclo delicado, sem alvejante nem amaciante e sem torcer; o passo a passo está nos capítulos de lavagem.",
@@ -220,9 +242,6 @@
     },
     {
       "slug": "tabela-de-medidas-insider"
-    },
-    {
-      "slug": "insider-store-e-confiavel"
     },
     {
       "slug": "insider-vale-a-pena"

@@ -12,6 +12,7 @@
   },
   "publishedAt": "8 de novembro de 2026",
   "publishedAtISO": "2026-11-08",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -33,7 +34,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A FutureForm feminina é alongada e oversized, com a barra um pouco mais larga que a região do busto nas medidas da peça. Compare comprimento, largura e manga com uma camisa sua: o corte já é solto. O cupom EMCASACOMCECILIA, de 15% OFF, funcionou no teste de carrinho."
+        "A FutureForm feminina é alongada e oversized, com a barra um pouco mais larga que a região do busto nas medidas da peça. Compare comprimento, largura e manga com uma camisa sua: o corte já é solto. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA, de 15% OFF, funcionou no teste de carrinho; as medidas ficam no capítulo de tamanho."
       ]
     },
     {
@@ -59,7 +60,7 @@
         "caption": "Preços da página e teste de carrinho em 08/11/2026. O frete mencionado no texto é do pedido com duas peças."
       },
       "postParagraphs": [
-        "O preço da página pode mudar durante a [Black Friday da Insider para mulheres](/reviews/black-friday-insider-feminino)."
+        "O preço da página pode mudar durante a [Black Friday da Insider para mulheres](/reviews/black-friday-insider-feminino); a Black Week da loja traz até 60% OFF em itens selecionados."
       ],
       "images": [
         {
@@ -206,9 +207,10 @@
     {
       "heading": "O preço com o cupom",
       "paragraphs": [
-        "Testamos o EMCASACOMCECILIA num pedido com a masculina Preto P e a feminina Off White M. O desconto entrou nas duas; os valores desta versão estão no quadro. O frete foi grátis nesse pedido com duas peças.",
-        "A página informa que a promoção \"não acumula com cupons\". Como o desconto entrou no teste, confira a aplicação no seu carrinho antes de pagar.",
-        "Vale um cupom por pedido, e ele não vale em lançamentos nem na loja física. As regras estão no [cupom Insider](/cupons/insider)."
+        "Testamos o EMCASACOMCECILIA num pedido com a masculina Preto P e a feminina Off White M. O desconto entrou nas duas; os valores desta versão estão no quadro. O frete foi grátis nesse pedido com duas peças. Sozinha, a camisa com o cupom fica abaixo de R$ 399, e o frete grátis só vem a partir desse valor, calculado depois do cupom.",
+        "O cupom vale na loja online, em todas as formas de pagamento, sem valor mínimo. Um por pedido, e não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card. Em geral, o cupom soma com os preços da Black Week, que a loja anuncia com até 60% OFF em itens selecionados, e o desconto do Pix aparece no checkout e soma com o cupom.",
+        "O botão já leva o EMCASACOMCECILIA ao carrinho; se preferir, cole o código no campo \"Cupom de desconto ou Gift Card\" e confira a linha \"Código de desconto EMCASACOMCECILIA\" em cada item do resumo. As regras completas estão no [cupom Insider](/cupons/insider).",
+        "A página informa que a promoção \"não acumula com cupons\". Como o desconto entrou no teste, confira a aplicação no seu carrinho antes de pagar."
       ]
     },
     {
@@ -216,17 +218,29 @@
       "paragraphs": [
         "A feminina faz mais sentido aberta sobre uma blusa, desde que o comprimento da tabela combine com o caimento que você procura. Quem prefere cintura marcada deve olhar uma modelagem acinturada."
       ],
-      "emphasis": "Com 82,5 cm de altura no M, eu pensaria nela como camada comprida, aberta sobre uma blusa, mais do que como camisa de cintura marcada.",
-      "emphasisAfterParagraph": 1
+      "emphasis": "Com 82,5 cm de altura no M, eu pensaria nela como camada comprida, aberta sobre uma blusa, e não como camisa de cintura marcada.",
+      "emphasisAfterParagraph": 1,
+      "links": [
+        {
+          "label": "Ver Camisa FutureForm feminina na Insider",
+          "href": "https://creators.insiderstore.com.br/gWrsRGL",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Insider: EMCASACOMCECILIA",
+          "href": "/cupons/insider"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Insider? É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.",
         "A camisa social Insider feminina é boa? É uma opção para quem procura uma camisa comprida e solta, inclusive para usar aberta sobre blusa. Confira o comprimento e as larguras da peça antes de escolher o tamanho.",
         "Ela amassa? A Insider diz que a FutureForm desamassa no corpo e não precisa passar.",
         "Veste grande? A modelagem é oversized e alongada. Isso descreve o corte, não indica subir ou descer a numeração; compare as medidas com uma camisa sua.",
         "Serve para o trabalho? A loja a indica para \"ambientes formais\" e reuniões, e também para combinações mais despojadas. Pelo corte solto, o comprimento é o ponto a conferir no seu ambiente de trabalho.",
-        "O cupom vale na camisa? O EMCASACOMCECILIA deu 15% de desconto na FutureForm no teste de carrinho. Confira a aplicação no seu pedido; o capítulo de preço explica o aviso da loja."
+        "O cupom entrou na camisa? Entrou no teste de carrinho, apesar do aviso da página de que a promoção não acumula com cupons. Confira a linha do código na camisa, no resumo do pedido; o capítulo de preço explica."
       ]
     }
   ],
