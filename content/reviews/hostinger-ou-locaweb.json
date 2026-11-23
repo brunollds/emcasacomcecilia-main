@@ -33,6 +33,7 @@
   "metaDescription": "O código SONAR20 dá 20% OFF na Hostinger em compra nova. Hostinger ou Locaweb: preço, renovação, nota fiscal e para quem cada uma compensa.",
   "publishedAt": "10 de novembro de 2026",
   "publishedAtISO": "2026-11-10",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/hostinger/hostinger-ou-locaweb-capa-v2.webp",
@@ -41,19 +42,19 @@
   "imageAspect": "landscape",
   "decision": {
     "takeIf": [
-      "Leve a Hostinger com o SONAR20 se aceita pagar 48 meses e quer o menor valor de hospedagem agora: ela custa menos nos três pares comparados.",
-      "Leve o Premium da Hostinger se até 3 sites bastam e você já contou o que vai pagar de domínio e e-mail depois do primeiro ano."
+      "aceita pagar 48 meses e quer o menor valor de hospedagem agora com o SONAR20 da Hostinger: ela custa menos nos três pares comparados.",
+      "até 3 sites bastam e você já contou o que vai pagar de domínio e e-mail depois do primeiro ano: o Premium da Hostinger atende."
     ],
     "skipIf": [
-      "Prefira a Locaweb se precisa de nota fiscal brasileira: ela emite, e a Hostinger informa que esse documento não está disponível.",
-      "Prefira o Go da Locaweb se ainda precisa de domínio e e-mail e quer os dois no plano de entrada: o Single da Hostinger não traz nenhum.",
-      "Compare outros planos se precisa de mais de 3 sites: o Premium não comporta esse número."
+      "precisa de nota fiscal brasileira: a Locaweb emite, e a Hostinger informa que esse documento não está disponível.",
+      "ainda precisa de domínio e e-mail e quer os dois no plano de entrada: o Go da Locaweb traz os dois, e o Single da Hostinger não traz nenhum.",
+      "precisa de mais de 3 sites: o Premium não comporta esse número, então compare outros planos."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses. O código não vale na renovação, em domínio nem nos planos de um mês do Single e do Premium.",
+    "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses. No ciclo de 1 mês a aceitação depende do plano; confira a linha \"Cupom aplicado\" antes de pagar. O código não vale na renovação nem em domínio.",
     "label": "Ver os planos com o SONAR20",
     "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -170,7 +171,7 @@
       },
       "links": [
         {
-          "label": "cupom Hostinger",
+          "label": "Ver cupom SONAR20 e planos da Hostinger",
           "href": "/cupons/hostinger"
         }
       ]
@@ -326,6 +327,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
         "Qual é melhor, Hostinger ou Locaweb? Depende do que pesa para você. A Hostinger com o SONAR20 custa menos no plano de 48 meses, e a Locaweb renova mais barato, emite nota fiscal brasileira e traz domínio e e-mail no Go.",
         "A Hostinger tem servidor no Brasil? Sim, nos planos web e cloud. A localização é escolhida ao configurar o plano.",
         "A Hostinger emite nota fiscal? A ajuda dela diz que a nota fiscal brasileira não está disponível. O cliente baixa uma fatura em PDF como comprovante de compra.",

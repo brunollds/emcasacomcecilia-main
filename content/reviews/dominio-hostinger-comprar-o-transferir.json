@@ -34,7 +34,7 @@
   "metaDescription": "¿Comprar un dominio en Hostinger, registrarlo fuera y conectarlo o transferirlo? Compara renovación, control del registro, elegibilidad y bloqueos antes de pagar.",
   "publishedAt": "28 de octubre de 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -157,27 +157,22 @@
         "**Transferiría el registro** solo después de comprobar elegibilidad, bloqueos, costo y efecto en la fecha de caducidad. Compara todo con lo que pagas ahora; incluir un año no convierte cualquier transferencia en ahorro.",
         "Si la duda es solo dónde alojar la web, compara primero la conexión sin transferencia. Planifica los cambios de DNS, sin suponer continuidad garantizada por elegir un camino."
       ],
-      "emphasis": "Para mi organización, preferiría registro y alojamiento en un panel si la renovación y el control del dominio me convinieran. Es una preferencia de gestión, no una garantía de menor precio."
+      "emphasis": "Según las reglas de cada camino, para quien ya tiene el dominio en otro lugar, la elección es conectar el DNS sin transferir, porque el sitio sube a Hostinger sin tocar el registro; comprar o transferir solo compensa después de revisar la renovación y si la extensión es elegible."
     },
     {
       "heading": "Cupón SONAR20 y precio",
       "paragraphs": [
-        "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. En el dominio suelto, el código no vale. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido), y los planes, en [la página de Hostinger](/es/coupons/hostinger)."
+        "Usa el código **SONAR20** en el campo \"Have a coupon code?\" del carrito, o entra por el enlace de este artículo y comprueba el código en el campo: son **20% en el primer período** de una compra nueva elegible, para cliente nuevo o antiguo. En los ciclos de 12, 24 y 48 meses entran los 20%; en el ciclo de 1 mes depende del plan, así que comprueba la línea \"Coupon applied\" en el carrito antes de pagar. La renovación se cobra al precio de lista, sin descuento. En un dominio suelto (registro o transferencia), el código no vale. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido), y los planes, en [la página de Hostinger](/es/coupons/hostinger)."
       ]
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer período de una compra nueva elegible: introduce el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
         "¿Puedo cambiar de hosting sin perder el dominio? Puedes mantener el registro donde está y conectar el nuevo hosting mediante DNS, sin transferir el dominio. Comprueba los registros del sitio y del correo antes de cambiarlos.",
         "¿Necesito un dominio para tener correo? Sí. Para una dirección como tu@tuempresa.com, el dominio tiene que existir; el hosting no es obligatorio, y Hostinger dice que se puede usar el dominio solo para correo o para redirigir a otro sitio.",
         "¿Puedo transferir un dominio de Hostinger a otro registrador? Sí, siempre que la extensión lo permita y no haya bloqueo. Comprueba el procedimiento y, cuando corresponda, desbloquea, obtén el código y confirma la solicitud. Una transferencia completada queda fuera del reembolso estándar.",
         "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
-      ]
-    },
-    {
-      "heading": "Quién escribe",
-      "paragraphs": [
-        "Em Casa com Cecília funciona en hosting gestionado de Hostinger, como Node.js Web App, y el dominio emcasacomcecilia.com está registrado en Hostinger desde 2024 (registro público RDAP). Nadie del equipo ha transferido un dominio: este texto reúne lo que dicen las páginas de dominio y de transferencia de Hostinger."
       ]
     }
   ],
@@ -205,13 +200,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Lleva el dominio en Hostinger si el sitio va a estar alojado ahí y quieres dominio, DNS y renovación en el mismo panel.",
-      "Transfiere solo si el dominio cumple los requisitos de la extensión (en genéricos, 60 días o más desde el registro o la última transferencia, sin bloqueos) y la renovación en Hostinger compensa lo que pagas hoy."
+      "el sitio va a estar alojado en Hostinger y quieres dominio, DNS y renovación en el mismo panel.",
+      "quieres transferir, el dominio cumple los requisitos de la extensión (en genéricos, 60 días o más desde el registro o la última transferencia, sin bloqueos) y la renovación en Hostinger compensa lo que pagas hoy."
     ],
     "skipIf": [
-      "Pasa si ya tienes un dominio en otro registrador, prefieres separar las cuentas o la renovación de allá es menor: apunta el DNS y deja el registro donde está.",
-      "Descarta la transferencia si la extensión o un bloqueo actual la impiden, o si no has confirmado la elegibilidad.",
-      "Pasa si el dominio quedaría a nombre o en la cuenta de un freelancer o de una agencia: usa un correo que controles."
+      "ya tienes un dominio en otro registrador, prefieres separar las cuentas o la renovación de allá es menor: apunta el DNS y deja el registro donde está.",
+      "la extensión o un bloqueo actual impiden la transferencia, o no has confirmado la elegibilidad.",
+      "el dominio quedaría a nombre o en la cuenta de un freelancer o de una agencia: usa un correo que controles."
     ]
   }
 }

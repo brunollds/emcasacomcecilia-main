@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger Reach 쓸 만한가? 프로필별 표, 플랜, 발송 한도, WhatsApp, 갱신가를 Mailchimp와 Brevo의 무료 플랜과 비교합니다. 2026년 10월 30일 기준.",
   "publishedAt": "2026년 10월 30일",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-ko-v2.webp",
@@ -135,8 +135,7 @@
         "**Starter:** 수신자 100명, 월 200통, AI 크레딧 없음. 메일에 Reach 브랜드가 붙습니다.",
         "**Grow:** 수신자 500명, 월 3,500통, AI 크레딧 월 10개. Reach 브랜드를 빼고 개인화, 예약 발송, 자동화를 씁니다.",
         "**Pro:** 수신자 1,000명, 월 7,000통, AI 크레딧 월 20개. HTML, 최적 발송 시간, WhatsApp 캠페인, 사용자 정의 필드, 팀원 추가를 더합니다."
-      ],
-      "emphasis": "플랜이 고민된다면 결정을 좌우하는 것은 리스트 크기입니다. 페이지의 플랜은 수신자 1,000명까지입니다. 그 이상이면 장바구니에 더 큰 Pro 구간이 있는지 확인하거나 Mailchimp나 Brevo로 가세요."
+      ]
     },
     {
       "heading": "Mailchimp와 Brevo: 무료 플랜",
@@ -198,11 +197,13 @@
         "**Mailchimp나 Brevo의 무료 플랜에 머무르세요.** 리스트가 막 시작했고 메일을 얼마나 자주 보낼지 아직 모른다면. Reach에는 국제 사이트에서도 무료 플랜이 없습니다.",
         "**Mailchimp나 Brevo로 가세요.** 리스트가 1,000명을 넘거나, 자동화 메일을 포함한 한 달 메일 총량이 Pro 7,000통을 넘을 때. Reach 플랜은 수신자 1,000명에서 멈춥니다.",
         "제 사이트라면 Reach Grow를 고릅니다. 500명까지의 리스트에 자동화가 붙고, 갱신해도 월 US$ 2.49이기 때문입니다."
-      ]
+      ],
+      "emphasis": "표의 수치로 보면, 이미 Hostinger에 사이트가 있고 수신자가 1,000명 이하인 경우 Reach Grow 또는 Pro가 맞습니다. Grow는 수신자 500명까지 자동화를 포함하고 Pro는 1,000명까지 WhatsApp을 지원하기 때문입니다. 1,000명을 넘으면 Reach 플랜이 끝나므로 Mailchimp나 Brevo가 답입니다."
     },
     {
       "heading": "자주 묻는 질문",
       "bullets": [
+        "Hostinger 쿠폰 코드는 무엇인가요? Hostinger 쿠폰 코드는 SONAR20이며, 적격한 신규 구매의 첫 결제 기간에 20% 할인됩니다. 장바구니의 \"Have a coupon code?\" 칸에 코드를 입력하고 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다.",
         "Hostinger Reach 쓸 만한가요? 이미 Hostinger에 사이트가 있고 수신자가 1,000명 이하라면 그렇습니다. Grow는 12개월 동안 월 US$ 1.74, 갱신 시 월 US$ 2.49였습니다.",
         "Hostinger Reach 가격은 얼마인가요? 국제 사이트에서 12개월 동안 월 Starter US$ 1.49, Grow US$ 1.74, Pro US$ 2.79입니다. 갱신 가격은 각각 US$ 1.49, US$ 2.49, US$ 3.99입니다. 국가와 통화에 따라 다를 수 있습니다.",
         "Hostinger Reach에 무료 플랜이 있나요? 없습니다. 세 플랜 모두 유료입니다. Mailchimp는 연락처 250명 미만에서 무료이고, Brevo는 하루 300통까지 무료입니다.",
@@ -211,12 +212,6 @@
         "Hostinger Reach와 Mailchimp 중 무엇이 나은가요? 수신자가 1,000명 이하라면 Reach입니다. 무료로 시작하고 싶거나 리스트가 더 크다면 Mailchimp나 Brevo입니다.",
         "SONAR20이 Hostinger Reach에도 적용되나요? 적용됩니다. Bruno가 Reach 500 24개월 플랜으로 테스트했더니 할인이 적용됐습니다. 다른 플랜과 기간의 최종 가격은 장바구니에 표시됩니다.",
         "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 기존 계정이 있어도 대상이 되는 신규 구매에는 쓸 수 있습니다. 도메인 등록과 갱신은 제외됩니다."
-      ]
-    },
-    {
-      "heading": "작성자 소개",
-      "paragraphs": [
-        "Em Casa com Cecília는 Hostinger의 관리형 호스팅에서 돌아가며, 도메인도 2024년부터 Hostinger에 등록되어 있습니다. 이 글은 세 곳의 가격 페이지 내용과 장바구니에서 한 SONAR20 테스트를 모은 것입니다. Hostinger가 어떻게 청구하고 갱신하며 환불하는지는 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 확인하세요."
       ]
     }
   ],
@@ -245,13 +240,13 @@
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
-      "Hostinger에 사이트가 있고 리스트가 1,000명 이하라면 Reach를 고르세요.",
-      "WhatsApp으로 메시지를 보내야 한다면 Reach Pro를 고르세요.",
-      "월간 고유 수신자 수와 캠페인·자동화 메일의 합계가 모두 플랜 한도 안에 들면 검토하세요."
+      "Hostinger에 사이트가 있고 리스트가 1,000명 이하인 분",
+      "WhatsApp으로 메시지를 보내야 하는 분(Reach Pro에서만 가능)",
+      "월간 고유 수신자 수와 캠페인·자동화 메일 총량이 플랜 한도 안에 드는 분"
     ],
     "skipIf": [
-      "리스트가 막 시작했고 Mailchimp나 Brevo의 무료 플랜 안에 들어간다면 넘기세요.",
-      "월간 고유 수신자 수나 메일 총량이 Reach 최상위 플랜(Pro)의 한도를 넘는다면 넘기세요."
+      "리스트를 막 시작해 Mailchimp나 Brevo의 무료 플랜으로 충분한 분",
+      "월간 고유 수신자 수나 메일 총량이 선택한 플랜의 한도를 넘는 분"
     ]
   }
 }

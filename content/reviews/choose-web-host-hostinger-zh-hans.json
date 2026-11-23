@@ -34,7 +34,7 @@
   "metaDescription": "2026年10月30日的 Hostinger 价格整理：促销价与续费价按月并排，并说明备份、服务器所在地和 VPS，帮你选主机。",
   "publishedAt": "2026年10月30日",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -121,8 +121,7 @@
         "**3 个网站以内：** Premium。促销价每月 US$ 2.49，续费价每月 US$ 10.99，两项都是查看的套餐里最低的。",
         "**网站数量无限：** Unlimited。50 GB NVMe，每天备份，续费价每月 US$ 16.99。网站多，就算一算每个网站每月的成本。",
         "**最高套餐：** Cloud Startup。100 GB NVMe，续费价每月 US$ 25.99。只有真正需要额外性能时才值得；一般的多个网站，Unlimited 就够了。"
-      ],
-      "emphasis": "首期的总价容易误导。请按月比较，并把续费价放在旁边。"
+      ]
     },
     {
       "heading": "价格之外要看的",
@@ -174,7 +173,8 @@
     {
       "heading": "SONAR20 优惠码",
       "paragraphs": [
-        "符合条件的新购首个周期享 20% 折扣。在购物车的优惠码栏输入 **SONAR20**，已有账户也可适用。Startup 电商、专业邮箱和 Reach 都适用；选定的主机或 VPS 套餐请在购物车确认适用情况。域名注册与续费除外。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
+        "符合条件的新购首个周期享 20% 折扣。在购物车的优惠码栏输入 **SONAR20**，已有账户也可适用。Startup 电商、专业邮箱和 Reach 都适用；选定的主机或 VPS 套餐请在购物车确认适用情况。域名注册与续费除外。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。",
+        "SONAR20 适用于 12、24 和 48 个月的周期；1 个月套餐是否接受要看具体套餐，所以付款前请先确认购物车里的“Coupon applied”一行。"
       ]
     },
     {
@@ -184,11 +184,20 @@
         "**网站超过 3 个**，或者存储和每日备份对你很重要，选 **Unlimited**。续费价每月 US$ 16.99。Cloud Startup 留给确实需要额外性能的人。",
         "**无论哪种**，付款前先看续费价那一栏，并在购物车确认金额。目前正在做促销，价格可能变化。",
         "如果是我自己的网站，只有一个网站时我会选 Premium，因为它的促销价和续费价都是查看的套餐里最低的。"
+      ],
+      "emphasis": "按表格里的数字，网站在 3 个以内选 Premium，因为它续费每月 US$ 10.99，而 Unlimited 是 US$ 16.99；只有网站超过 3 个时，Unlimited 才划算。",
+      "links": [
+        {
+          "label": "查看 SONAR20 优惠码和 Hostinger 套餐",
+          "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "常见问题",
       "bullets": [
+        "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，对符合条件的新购买首期享 20% 折扣：在购物车的“Have a coupon code?”栏输入，付款前确认“Coupon applied”一行。续费按标价收费，没有折扣。",
         "网站只有一个，哪个套餐最便宜？应用、空间和备份需求符合的话，3 个网站以内用 Premium。促销价每月 US$ 2.49，续费价每月 US$ 10.99，促销期 48 个月。",
         "Hostinger 续费多少钱？国际站的价格是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各国和货币可能不同，付款前请在购物车确认。",
         "VPS 从哪个套餐看起？入门的 KVM 1（1 vCPU，4 GB，50 GB NVMe）按 24 个月计，促销价每月 US$ 6.49，续费价每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促销价每月 US$ 8.79。购买长周期之前，先在购物车确认续费价。",
@@ -196,12 +205,6 @@
         "SONAR20 能用在 VPS 上吗？能，符合条件的新购 VPS 首个周期享 20% 折扣，请在购物车确认。",
         "能换主机而不丢失网站吗？可以，把文件和数据库迁到新主机即可。确认新主机是否提供免费迁移，并在旧套餐到期前完成。",
         "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，同一账户符合条件的新购可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
-      ]
-    },
-    {
-      "heading": "写这篇文章的人",
-      "paragraphs": [
-        "Em Casa com Cecília 运行在 Hostinger 的托管服务上，域名自2024年起就在 Hostinger 注册。本文整理的是 Hostinger 国际站页面的内容。"
       ]
     }
   ],

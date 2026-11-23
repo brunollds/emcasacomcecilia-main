@@ -35,7 +35,7 @@
   "metaDescription": "Hostinger Horizons heißt jetzt KI-Builder. Lohnt er sich, oder lieber WordPress? Tabelle nach Projektart, Vergleich mit Wix und Lovable und KI-Guthaben.",
   "publishedAt": "28. Oktober 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-de-v2.webp",
@@ -206,24 +206,19 @@
         "**Es lohnt sich** für alle, die eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App wollen und weder programmieren noch Plugins pflegen möchten. Die erste Version entsteht aus der Beschreibung, und der Modus ohne KI erlaubt Anpassungen, ohne Guthaben auszugeben. Beginnen Sie mit der kostenlosen Testphase; wenn das Ergebnis passt, deckt der Premium-Tarif eine einfache Website ab und Unlimited einen Shop.",
         "**Bleiben Sie bei WordPress**, wenn das Projekt von Plugins abhängt, von einem eigenen Theme, von jemandem, der die Website pflegt, oder wenn Sie alles ohne Nacharbeit zu einem anderen Hoster mitnehmen wollen. Der Hostinger-Tarif ist in beiden Fällen derselbe, die Wahl betrifft also nur das Werkzeug.",
         "**Im Zweifel testen Sie den KI-Builder, bevor Sie zahlen.** Sie bekommen 5 kostenlose Guthaben, ohne Karte, genug, um zu sehen, ob die KI versteht, was Sie wollen. Wenn nicht, ist WordPress immer noch da."
-      ]
+      ],
+      "emphasis": "Wer eine einfache Website oder Web-App ohne Programmieren will, wählt den KI-Builder im Tarif Premium, denn dieser deckt das Projekt ab und der Modus ohne KI lässt sich ändern, ohne Guthaben zu verbrauchen."
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20% Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie die Zeile „Coupon applied“, bevor Sie zahlen. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Gibt es Hostinger Horizons noch? Es gibt es unter einem anderen Namen. 2026 wurde Horizons mit dem Website-Baukasten von Hostinger zusammengelegt und heißt seitdem KI-Builder (Hostinger AI Builder), mit einem Drag-and-drop-Modus und einem Modus zum Erstellen über den Chat. Die alte Adresse leitet auf die neue Seite weiter.",
         "Baut der KI-Builder von Hostinger die Website von allein? Laut Seite baut er die erste Version aus Ihrer Beschreibung. Inhalt, Fotos und unternehmerische Entscheidungen bleiben Ihre, und jede Anfrage im KI-Modus verbraucht Guthaben.",
         "Braucht man Programmierkenntnisse für den KI-Builder? Nein. Laut Seite sind in beiden Modi keine technischen Kenntnisse nötig. Wer programmieren kann, hat im KI-Modus einen Code-Editor.",
         "Kann man vom KI-Builder zu einem anderen Hoster migrieren? Laut Seite lässt sich der Quellcode exportieren und anderswo hosten. Das integrierte Back-End mit Datenbank und Login bleibt bei Hostinger, eine App muss also außerhalb neu konfiguriert werden.",
         "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop ist in den Tarifen Unlimited und Cloud Startup als kostenpflichtige Ergänzung verfügbar. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
-        "Gibt es einen Gutschein für Hostingers KI-Builder? Nutzen Sie SONAR20 für 20 % auf die erste Laufzeit eines berechtigten Neukaufs. Prüfen Sie Abonnement und enthaltene Dienste im Warenkorb; Domainregistrierungen und Verlängerungen sind ausgeschlossen.",
         "Können Hostinger-Bestandskunden SONAR20 nutzen? Ja, bei einem berechtigten Neukauf mit demselben Konto, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
-      ]
-    },
-    {
-      "heading": "Wer schreibt",
-      "paragraphs": [
-        "Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger, als Node.js Web App, und die Domain ist seit 2024 bei Hostinger registriert. Niemand im Team hat den KI-Builder oder Horizons benutzt: Dieser Text fasst zusammen, was die Produktseite, die WordPress-Dokumentation und die öffentlichen Seiten von Wix und Lovable sagen."
       ]
     }
   ],
@@ -251,14 +246,14 @@
   ],
   "decision": {
     "takeIf": [
-      "Nehmen Sie den KI-Builder, wenn Sie eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App ohne Programmieren wollen.",
-      "Nehmen Sie ihn, wenn Sie Hosting, Domain und E-Mail im selben Tarif wollen und akzeptieren, dass die KI die erste Version baut.",
-      "Nehmen Sie ihn, wenn Sie die Website einmal bauen und Text und Fotos im Editor des Modus ohne KI anpassen, der kein Guthaben verbraucht."
+      "Sie eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App ohne Programmieren wollen.",
+      "Sie Hosting, Domain und E-Mail im selben Tarif wollen und akzeptieren, dass die KI die erste Version baut.",
+      "Sie die Website einmal bauen und Text und Fotos im Editor des Modus ohne KI anpassen, der kein Guthaben verbraucht."
     ],
     "skipIf": [
-      "Lassen Sie ihn aus und bleiben Sie bei WordPress, wenn das Projekt von einem bestimmten Plugin oder einem Theme abhängt, das Sie schon haben.",
-      "Lassen Sie ihn aus, wenn jemand anderes oder eine Agentur die Website pflegt: WordPress ist der Marktstandard.",
-      "Lassen Sie ihn aus, wenn Sie alles ohne Nacharbeit zu einem anderen Hoster mitnehmen wollen oder wenn Sie die KI jede Woche um Änderungen bitten und jede Anfrage Guthaben verbraucht."
+      "das Projekt von einem bestimmten Plugin oder einem Theme abhängt, das Sie schon haben: Bleiben Sie bei WordPress.",
+      "jemand anderes oder eine Agentur die Website pflegt: WordPress ist der Marktstandard.",
+      "Sie alles ohne Nacharbeit zu einem anderen Hoster mitnehmen wollen oder die KI jede Woche um Änderungen bitten und jede Anfrage Guthaben verbraucht."
     ]
   }
 }

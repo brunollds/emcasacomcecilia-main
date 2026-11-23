@@ -34,6 +34,7 @@
   "metaDescription": "SONAR20: 20% auf neue Hostinger-Premium-Tarife für 12, 24 oder 48 Monate. Hosting und Verlängerung im Vergleich mit GoDaddy, in US-Dollar.",
   "publishedAt": "6. November 2026",
   "publishedAtISO": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -189,7 +190,7 @@
     {
       "heading": "Und der Tarif über 1 Monat?",
       "paragraphs": [
-        "Der Premium kostet bei monatlicher Zahlung 12,99 US$, und die monatliche Verlängerung liegt beim selben Preis. SONAR20 gilt nicht für den Monatstarif. Bei unverändertem Preis kosten zwölf Monatszahlungen 155,88 US$, etwa das Achtfache des 12-Monats-Tarifs mit dem Code. Monatliche Zahlung eignet sich für ein kurzes Projekt oder einen Test, kostet aber mehr, wenn Sie die Website ein Jahr behalten."
+        "Der Premium kostet bei monatlicher Zahlung 12,99 US$, und die monatliche Verlängerung liegt beim selben Preis. SONAR20 gilt für Laufzeiten von 12, 24 und 48 Monaten; bei Tarifen über 1 Monat hängt die Annahme vom Tarif ab, prüfen Sie deshalb vor der Zahlung die Zeile „Coupon applied“ im Warenkorb. Bei unverändertem Preis kosten zwölf Monatszahlungen 155,88 US$, etwa das Achtfache des 12-Monats-Tarifs mit dem Code. Monatliche Zahlung eignet sich für ein kurzes Projekt oder einen Test, kostet aber mehr, wenn Sie die Website ein Jahr behalten."
       ]
     },
     {
@@ -252,7 +253,7 @@
       ],
       "links": [
         {
-          "label": "Hostinger-Gutschein SONAR20: Bedingungen prüfen",
+          "label": "SONAR20-Gutschein und Hostinger-Tarife ansehen",
           "href": "/de/coupons/hostinger"
         }
       ]
@@ -265,30 +266,25 @@
         "Vier Jahre Hosting: Premium über 48 Monate mit SONAR20 kostet 76,42 US$. Der Economy kommt auf 359,52 US$ bei 36 Monaten plus einer Jahresverlängerung zum angezeigten Preis. Das 60-Monats-Angebot liegt mit 359,40 US$ im Voraus etwas darunter, doch beide Optionen kosten mehr als das Vierfache des Vierjahrespreises von Premium. Verlängerungen von Domain und E-Mail kommen extra.",
         "Wenn Sie nur die Website brauchen: Der Starter hat mit 71,88 US$ die niedrigste jährliche Verlängerung, gegenüber 131,88 US$ beim Premium. Der Premium mit SONAR20 kostet in den ersten vier Jahren trotzdem weniger. Für ein längeres Projekt vergleichen Sie die aufgelaufenen Zahlungen über Ihre geplante Laufzeit mit den Verlängerungspreisen zum Kaufzeitpunkt.",
         "In jedem Fall prüfen Sie den Verlängerungspreis im Warenkorb, bevor Sie zahlen: Aktionen und Preise ändern sich."
-      ]
+      ],
+      "emphasis": "Nach den Zahlen der Tabellen ist für eine Website, die zwei Jahre oder länger online bleibt, Hostinger Premium mit SONAR20 die richtige Wahl, weil der 24-Monats-Tarif 38,21 US$ kostet, GoDaddy Economy dagegen 155,76 US$."
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20 % Rabatt auf die erste Laufzeit eines berechtigten Neukaufs: Geben Sie ihn im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Welcher ist besser, Hostinger oder GoDaddy? Bei den Hosting-Kosten kostet der Premium mit SONAR20 über ein, zwei und vier Jahre weniger als der Economy, und seine jährliche Verlängerung ist niedriger. Verlängerungen von Domain und E-Mail kommen extra. Der Starter von GoDaddy hat die niedrigste jährliche Verlängerung, kostet aber in den ersten vier Jahren mehr als der Premium. Weitere Kriterien finden Sie im [Leitfaden zur Wahl eines Webhosters](/de/reviews/webhoster-waehlen-hostinger).",
         "Verlängert sich GoDaddy zum gleichen Preis? Der Economy nicht: Im Warenkorb steigt der Einjahrestarif bei der Verlängerung von 83,88 US$ auf 143,88 US$. Der Starter hat keinen Rabatt im ersten Jahr und verlängert sich zu denselben 71,88 US$.",
         "Gilt der Hostinger-Gutschein bei der Verlängerung? Nein: Der SONAR20 gilt nur für einen Neukauf, und die Verlängerung wird zum Listenpreis berechnet. Zur Verlängerung siehe den [Verlängerungsleitfaden der Hostinger](/de/reviews/hostinger-verlaengerung-code-sonar20).",
         "Ist im Premium der Hostinger eine Domain enthalten? Ja, ein Jahr gratis, zusammen mit 2 Postfächern pro Website. Danach verlängert sich die Domain selbst, zum aktuellen Preis der Hostinger.",
-        "Kann ich meine Website von GoDaddy zur Hostinger umziehen? Die Hilfeseite der Hostinger sagt, dass die kostenlose Migration eine Website von einem anderen Anbieter auf den Tarifen Web, Cloud oder Agency abdeckt. Prüfen Sie Ihren Tarif mit dem Support, bevor Sie den alten kündigen.",
-        "Wie lautet der Hostinger-Gutscheincode? SONAR20 gibt 20 % Rabatt auf einen Neukauf der hier verglichenen Premium-Tarife über 12, 24 und 48 Monate; er gilt weder für die Verlängerung noch für den Premium-Tarif über einen Monat."
-      ]
-    },
-    {
-      "heading": "Wer schreibt",
-      "paragraphs": [
-        "Em Casa com Cecília läuft bei der Hostinger, und die Domain ist dort registriert. Für GoDaddy stützt sich dieser Text nur auf das, was dessen internationale Seite und der Warenkorb in US-Dollar zeigen; niemand im Team hat den Dienst genutzt."
+        "Kann ich meine Website von GoDaddy zur Hostinger umziehen? Die Hilfeseite der Hostinger sagt, dass die kostenlose Migration eine Website von einem anderen Anbieter auf den Tarifen Web, Cloud oder Agency abdeckt. Prüfen Sie Ihren Tarif mit dem Support, bevor Sie den alten kündigen."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Geben Sie SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % Rabatt auf einen Neukauf der hier verglichenen Premium-Tarife über 12, 24 und 48 Monate. Er gilt weder für die Verlängerung noch für den Premium-Tarif über einen Monat.",
+    "text": "Geben Sie SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % Rabatt auf die erste Laufzeit eines berechtigten Neukaufs der hier verglichenen Premium-Tarife. Bei Tarifen über 1 Monat hängt die Annahme vom Tarif ab: Prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Für die Verlängerung gilt er nicht.",
     "label": "Hosting-Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -318,12 +314,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Wählen Sie Hostinger Premium, wenn Sie 24 oder 48 Monate Hosting im Voraus bezahlen können: Mit SONAR20 kostet er in diesen Vergleichen weniger als der Economy; die Verlängerungen von Domain und E-Mail kommen extra.",
-      "Wählen Sie Hostinger Premium, wenn das Projekt ein Jahr Hosting mit Domain und E-Mail braucht: Der 12-Monats-Preis liegt unter dem des Economy. Auch die jährliche Hosting-Verlängerung ist niedriger."
+      "Sie 24 oder 48 Monate Hosting im Voraus bezahlen können: Mit SONAR20 kostet der Premium in diesen Vergleichen weniger als der Economy, und die Verlängerungen von Domain und E-Mail kommen extra.",
+      "das Projekt ein Jahr Hosting mit Domain und E-Mail braucht: Der 12-Monats-Preis des Premium liegt unter dem des Economy, und auch die jährliche Hosting-Verlängerung ist niedriger."
     ],
     "skipIf": [
-      "Prüfen Sie GoDaddy Starter, wenn Sie nur Hosting brauchen und die niedrigste jährliche Verlängerung Vorrang hat. Er kostet in den ersten vier Jahren mehr als der Premium; für eine längere Laufzeit brauchen Sie einen Gesamtkostenvergleich.",
-      "Entscheiden Sie sich für GoDaddy Economy, wenn Sie cPanel bevorzugen und akzeptieren, im ersten Jahr, über 2 und 4 Jahre und bei der Verlängerung mehr als für den Premium zu zahlen."
+      "Sie nur Hosting brauchen und die niedrigste jährliche Verlängerung Vorrang hat: Da liegt GoDaddy Starter vorn, kostet aber in den ersten vier Jahren mehr als der Premium; für eine längere Laufzeit brauchen Sie einen Gesamtkostenvergleich.",
+      "Sie cPanel bevorzugen und akzeptieren, im ersten Jahr, über 2 und 4 Jahre und bei der Verlängerung mehr als für den Premium zu zahlen: Dann passt GoDaddy Economy."
     ]
   }
 }

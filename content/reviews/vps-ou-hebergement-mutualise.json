@@ -34,7 +34,7 @@
   "metaDescription": "VPS ou hébergement mutualisé chez Hostinger : ce qu'est chacun, tableau par scénario, specs des KVM 1 à 8 et ce qui reste à votre charge en maintenance.",
   "publishedAt": "28 octobre 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -52,7 +52,7 @@
     {
       "heading": "Ce qu'est chacun",
       "paragraphs": [
-        "L'**hébergement mutualisé** est un serveur partagé entre plusieurs clients. Hostinger s'occupe du système, du serveur web et des mises à jour ; vous entrez dans le panneau, installez WordPress ou envoyez les fichiers du site, et c'est tout. Chez Hostinger, ce sont les forfaits Single, Premium et Unlimited, et le Cloud Startup, qui suit la même idée avec plus de ressources.",
+        "L'**hébergement mutualisé** est un serveur partagé entre plusieurs clients. Hostinger s'occupe du système, du serveur web et des mises à jour ; vous entrez dans le panneau, installez WordPress ou envoyez les fichiers du site, et c'est tout. Chez Hostinger, ce sont les forfaits Premium et Unlimited, et le Cloud Startup, qui suit la même idée avec plus de ressources.",
         "Un **VPS** est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés et accès root, le compte d'administration du système. La configuration, les mises à jour et la sécurité restent à votre charge.  Les offres comparées sont KVM 1, 2, 4 et 8.",
         "La différence n'est pas « meilleur ou moins bon ». C'est qui s'occupe du serveur et quelle part des ressources vous est réservée."
       ]
@@ -62,11 +62,13 @@
       "paragraphs": [
         "Avant de regarder le prix, répondez à trois questions. Si la réponse est « non » aux trois, l'hébergement mutualisé suffit."
       ],
-      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
-      "imageAlt": "Tableau avec trois questions : faut-il installer un système hors du panneau, faut-il du CPU et de la mémoire réservés, faut-il l'accès root ; chaque oui mène au VPS, et trois non mènent à l'hébergement mutualisé",
-      "imageCaption": "Les trois questions qui tranchent entre mutualisé et VPS. Tableau maison, à partir des pages de Hostinger.",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.7787,
+      "image": {
+        "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+        "alt": "Tableau avec trois questions : faut-il installer un système hors du panneau, faut-il du CPU et de la mémoire réservés, faut-il l'accès root ; chaque oui mène au VPS, et trois non mènent à l'hébergement mutualisé",
+        "caption": "Les trois questions qui tranchent entre mutualisé et VPS. Tableau maison, à partir des pages de Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
       "comparisonTable": {
         "headers": [
           "Scénario",
@@ -194,17 +196,12 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
         "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Pas forcément. Les ressources réservées et l'accès root changent le contrôle de l'environnement, mais ne permettent pas à eux seuls de prévoir le temps de réponse du site. Comparez les besoins de l'application et les limites du forfait.",
         "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui, si l'application est compatible avec le nouvel environnement. C'est un nouveau contrat, avec installation du serveur et transfert du site ; l'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
         "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. Sur le mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
         "Un VPS supporte-t-il WordPress ? Oui. Vous pouvez partir du modèle WordPress du VPS, déjà installé, mais mettre à jour, protéger et restaurer les sauvegardes reste à votre charge. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
-      ]
-    },
-    {
-      "heading": "Qui écrit",
-      "paragraphs": [
-        "Em Casa com Cecília tourne chez Hostinger en hébergement géré, comme Node.js Web App, et le domaine est enregistré chez Hostinger depuis 2024. Ce texte ne comporte aucun test de VPS : il rassemble ce que disent les pages de Hostinger, et l'expérience du site se limite à l'hébergement géré."
       ]
     }
   ],
@@ -232,13 +229,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Prenez le VPS si le site a besoin d'un système, d'un programme ou d'une base absents du panneau.",
-      "Prenez-le si vous avez besoin de CPU et de mémoire réservés ou de l'accès root.",
-      "Prenez-le si vous avez un tableau de bord, un bot ou une automatisation (n8n, Docker) qui tourne toute la journée et quelqu'un pour maintenir le serveur."
+      "le site a besoin d'un système, d'un programme ou d'une base absents du panneau.",
+      "vous avez besoin de CPU et de mémoire réservés ou de l'accès root.",
+      "vous avez un tableau de bord, un bot ou une automatisation (n8n, Docker) qui tourne toute la journée et quelqu'un pour maintenir le serveur."
     ],
     "skipIf": [
-      "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js (sur une offre compatible, comme Unlimited ou Cloud Startup) : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
-      "Laissez tomber si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
+      "c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js (sur une offre compatible, comme Unlimited ou Cloud Startup) : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
+      "vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
     ]
   }
 }

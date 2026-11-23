@@ -34,7 +34,7 @@
   "metaDescription": "Buy a domain at Hostinger, register elsewhere and connect, or transfer? Compare renewal, control, eligibility and transfer locks before paying.",
   "publishedAt": "October 28, 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -136,7 +136,7 @@
       "bullets": [
         "**Registration and access:** check whose name will appear on the registration and who controls the management account. Use a recovery email you control. If a person or agency does the work, agree on registration and access before buying; they are not the same thing.",
         "**The renewal:** Hostinger recommends leaving auto-renewal on. An expired domain takes down the site and the email. Domain renewal is not refundable, so the card on the account has to be up to date.",
-        "**The registration refund:** a new registration can only be refunded within 96 hours, and only on extensions that allow refunds (many country-code extensions do not). For .com.br, .net.br and .br, the window is 168 hours (7 days). After that, the domain is yours until the end of the paid term, with no refund."
+        "**The registration refund:** a new registration can only be refunded within 96 hours, and only on extensions that allow refunds (many country-code extensions do not). After that, the domain is yours until the end of the paid term, with no refund."
       ]
     },
     {
@@ -157,27 +157,22 @@
         "**I would transfer registration** only after checking the extension's eligibility, locks, cost and effect on expiry. Compare the full terms with what you pay now; an included year does not make every transfer a saving.",
         "If the question is simply where to host the website, first compare connecting without transferring. Plan DNS changes rather than assuming either path guarantees uninterrupted service."
       ],
-      "emphasis": "For my routine, I would prefer registration and hosting in one panel if renewal and control of the domain suited my needs. That is an administration preference, not a guarantee of a lower price."
+      "emphasis": "By the rules of each path, for anyone who already has a domain elsewhere, the choice is to connect the DNS without transferring, because the site goes live on Hostinger without touching the registration; buying or transferring only pays off after checking the renewal price and whether the extension is eligible."
     },
     {
       "heading": "SONAR20 coupon and price",
       "paragraphs": [
-        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. For a domain on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+        "Use the code **SONAR20** in the \"Have a coupon code?\" field of the cart, or use this article's link and check the code in the field: **20% off the first period** of an eligible new purchase, for new or existing customers. On 12, 24 and 48-month terms the 20% applies; on 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. Renewals are charged at the list price, with no discount. For a domain registration or transfer on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewals are charged at the list price, with no discount.",
         "Can I change hosting without losing the domain? You can keep the registration where it is and connect the new hosting through DNS, without transferring the domain. Check the website and email records before changing them.",
         "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
         "Can I transfer a domain from Hostinger to another registrar? Yes, as long as the extension allows it and there is no lock. Check the procedure and, where required, unlock it, obtain the code and confirm the request. A completed transfer is excluded from standard refunds.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
-      ]
-    },
-    {
-      "heading": "Who writes this",
-      "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger managed hosting, as a Node.js Web App, and the domain emcasacomcecilia.com has been registered at Hostinger since 2024 (public RDAP record). No one on the team has transferred a domain: this text gathers what Hostinger's domain and transfer pages say."
       ]
     }
   ],
@@ -205,13 +200,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Take the domain at Hostinger if the site will be hosted there and you want domain, DNS and renewal in the same panel.",
-      "Take the transfer only if the domain meets the extension's requirements (on generic extensions, at least 60 days since registration or the last transfer, with no transfer lock) and Hostinger's renewal is worth what you pay today."
+      "the site will be hosted at Hostinger and you want domain, DNS and renewal in the same panel.",
+      "you want to transfer, the domain meets the extension's requirements (on generic extensions, at least 60 days since registration or the last transfer, with no transfer lock) and Hostinger's renewal is worth what you pay today."
     ],
     "skipIf": [
-      "Skip it if you already have a domain at another registrar, prefer to keep the accounts separate or the renewal there is lower: point the DNS and leave the registration where it is.",
-      "Skip the transfer if the extension or a current lock prevents it, or if eligibility has not been confirmed.",
-      "Skip it if the domain would be in the name or on the account of a freelancer or an agency: use an email you control."
+      "you already have a domain at another registrar, prefer to keep the accounts separate or the renewal there is lower: point the DNS and leave the registration where it is.",
+      "the extension or a current lock prevents the transfer, or you haven't confirmed eligibility yet.",
+      "the domain would be in the name or on the account of a freelancer or an agency: use an email you control."
     ]
   }
 }

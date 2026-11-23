@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger Horizons est devenu le créateur IA. Vaut-il le coup, ou WordPress ? Tableau par type de projet, comparaison avec Wix et Lovable, et crédits d'IA.",
   "publishedAt": "28 octobre 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -206,24 +206,19 @@
         "**Il vaut le coup** pour qui veut un site de quelques pages, un portfolio, une petite boutique ou une appli web simple et ne veut ni coder ni s'occuper de plugins. La première version sort de la description, et le mode sans IA permet de retoucher sans dépenser de crédits. Commencez par l'essai gratuit ; si le résultat convient, l'offre Premium couvre un site simple et Unlimited, une boutique.",
         "**Restez sur WordPress** si le projet dépend de plugins, d'un thème à vous, de quelqu'un qui maintiendra le site, ou si vous voulez tout emporter chez un autre hébergeur sans tout refaire. L'offre Hostinger est la même dans les deux cas, donc le choix ne porte que sur l'outil.",
         "**Dans le doute, essayez le créateur IA avant de payer.** Vous avez 5 crédits gratuits, sans carte, de quoi voir si l'IA comprend ce que vous voulez. Si elle ne comprend pas, WordPress est toujours là."
-      ]
+      ],
+      "emphasis": "Pour qui veut un site ou une appli web simple sans coder, le choix est le créateur IA sur l'offre Premium, car elle couvre ce projet et le mode sans IA permet de retoucher sans consommer de crédits."
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
         "Hostinger Horizons existe-t-il encore ? Il existe sous un autre nom. En 2026, Horizons a fusionné avec le créateur de sites de Hostinger et est devenu le créateur IA (Hostinger AI Builder), avec un mode glisser-déposer et un mode de création par le chat. L'ancienne adresse redirige vers la nouvelle page.",
         "Le créateur IA de Hostinger fait-il le site tout seul ? Il monte la première version à partir de votre description, selon la page. Le contenu, les photos et les décisions commerciales restent les vôtres, et chaque demande en mode IA consomme des crédits.",
         "Faut-il savoir coder pour utiliser le créateur IA ? Non. La page dit qu'il n'exige aucune connaissance technique dans les deux modes. Pour ceux qui codent, le mode IA propose un éditeur de code.",
         "Peut-on migrer du créateur IA vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une appli demande une reconfiguration en dehors.",
         "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne est disponible sur les offres Unlimited et Cloud Startup, en option payante. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
-        "Existe-t-il un code pour le créateur IA Hostinger ? Utilisez SONAR20 pour 20 % sur la première période d'un nouvel achat éligible. Vérifiez l'abonnement et les services inclus au panier ; enregistrement de domaine et renouvellement sont exclus.",
         "Un client Hostinger existant peut-il utiliser SONAR20 ? Oui, sur un nouvel achat éligible avec le même compte, pas sur le renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
-      ]
-    },
-    {
-      "heading": "Qui écrit",
-      "paragraphs": [
-        "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis 2024. Personne dans l'équipe n'a utilisé le créateur IA ni Horizons : ce texte rassemble ce que disent la page du produit, la documentation de WordPress et les pages publiques de Wix et de Lovable."
       ]
     }
   ],
@@ -251,14 +246,14 @@
   ],
   "decision": {
     "takeIf": [
-      "Prenez le créateur IA si vous voulez un site de quelques pages, un portfolio, une petite boutique ou une appli web simple sans coder.",
-      "Prenez-le si vous voulez l'hébergement, le domaine et l'e-mail dans la même offre et acceptez que l'IA monte la première version.",
-      "Prenez-le si vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur du mode sans IA, qui ne consomme pas de crédits."
+      "vous voulez un site de quelques pages, un portfolio, une petite boutique ou une appli web simple sans coder.",
+      "vous voulez l'hébergement, le domaine et l'e-mail dans la même offre et acceptez que l'IA monte la première version.",
+      "vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur du mode sans IA, qui ne consomme pas de crédits."
     ],
     "skipIf": [
-      "Passez, et restez sur WordPress, si le projet dépend d'un plugin précis ou d'un thème que vous avez déjà.",
-      "Passez si une autre personne ou une agence va maintenir le site : WordPress est la norme du marché.",
-      "Passez si vous voulez tout emporter chez un autre hébergeur sans tout refaire, ou si vous allez demander des modifications à l'IA chaque semaine et que chaque demande consomme des crédits."
+      "le projet dépend d'un plugin précis ou d'un thème que vous avez déjà : restez sur WordPress.",
+      "une autre personne ou une agence va maintenir le site : WordPress est la norme du marché.",
+      "vous voulez tout emporter chez un autre hébergeur sans tout refaire, ou vous allez demander des modifications à l'IA chaque semaine et chaque demande consomme des crédits."
     ]
   }
 }

@@ -34,7 +34,7 @@
   "metaDescription": "O cupom SONAR20 dá 20% OFF nos VPS da Hostinger. VPS ou hospedagem compartilhada: quadro por cenário, KVM e renovação lado a lado.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp",
@@ -61,11 +61,13 @@
       "paragraphs": [
         "Antes de olhar preço, responda três perguntas. Se a resposta for \"não\" nas três, a compartilhada resolve."
       ],
-      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
-      "imageAlt": "Quadro com três perguntas: precisa instalar um sistema fora do painel, precisa de CPU e memória reservadas, precisa de acesso root; cada sim aponta para VPS, e três não apontam para hospedagem compartilhada",
-      "imageCaption": "As três perguntas que decidem entre compartilhada e VPS. Quadro nosso, a partir das páginas da Hostinger.",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.7787,
+      "image": {
+        "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "alt": "Quadro com três perguntas: precisa instalar um sistema fora do painel, precisa de CPU e memória reservadas, precisa de acesso root; cada sim aponta para VPS, e três não apontam para hospedagem compartilhada",
+        "caption": "As três perguntas que decidem entre compartilhada e VPS. Quadro nosso, a partir das páginas da Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
       "comparisonTable": {
         "headers": [
           "Cenário",
@@ -260,6 +262,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
         "VPS é mais rápido que hospedagem compartilhada? Não necessariamente. Recursos reservados e acesso root mudam o controle do ambiente, mas não bastam para prever o tempo de resposta do seu site. Compare os requisitos da aplicação e os limites do plano.",
         "Posso começar na compartilhada e migrar para VPS depois? Pode, se a aplicação for compatível com o novo ambiente. É uma nova contratação, com instalação do servidor e transferência do site; a hospedagem compartilhada não se converte em VPS por dentro do painel.",
         "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
@@ -267,23 +270,17 @@
         "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês, sem desconto. Sem o cupom, R$ 29,99/mês.",
         "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
-    },
-    {
-      "heading": "Quem escreve",
-      "paragraphs": [
-        "O Em Casa com Cecília roda na Hostinger em hospedagem gerenciada, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. Este texto não traz teste de VPS: ele reúne o que as páginas da Hostinger dizem, e a experiência do site é só a da hospedagem gerenciada."
-      ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Leve o VPS se o site precisa de um sistema, programa ou banco que não está no painel.",
-      "Leve se precisa de CPU e memória reservadas ou de acesso root.",
-      "Leve se tem um painel, bot ou automação (n8n, Docker) rodando o dia todo e alguém para manter o servidor."
+      "o site precisa de um sistema, programa ou banco que não está no painel.",
+      "precisa de CPU e memória reservadas ou de acesso root.",
+      "tem um painel, bot ou automação (n8n, Docker) rodando o dia todo e alguém para manter o servidor."
     ],
     "skipIf": [
-      "Passe se é blog, portfólio, site de empresa, loja pequena ou site em Node.js (em plano com suporte, como Ilimitado ou Cloud Startup): a compartilhada atende e a Hostinger cuida do servidor.",
-      "Passe se nunca abriu um terminal: instalar, atualizar, proteger e fazer backup passam a ser com você."
+      "é blog, portfólio, site de empresa, loja pequena ou site em Node.js (em plano com suporte, como Ilimitado ou Cloud Startup): a compartilhada atende e a Hostinger cuida do servidor.",
+      "nunca abriu um terminal: instalar, atualizar, proteger e fazer backup passam a ser com você."
     ]
   },
   "pros": [],

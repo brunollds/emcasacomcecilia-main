@@ -5,7 +5,7 @@
   "translationKey": "hostinger-ou-hostgator",
   "hideFromPortugueseListings": true,
   "title": "Webhosting für eine Website: Was lohnt sich, wenn man auf die Verlängerung schaut?",
-  "seoTitle": "Webhosting für eine Website: Was lohnt sich? Preis und Verlängerung",
+  "seoTitle": "Webhoster wählen: Hostinger-Preis und Verlängerung",
   "type": "Entscheidungshilfe",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -35,7 +35,7 @@
   "metaDescription": "Webhosting für eine Website wählen: Hostinger-Preise in US-Dollar vom 30. Oktober 2026, pro Monat und mit Verlängerung, dazu Speicher, Backup, Server im Land und VPS.",
   "publishedAt": "30. Oktober 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -122,8 +122,7 @@
         "**Bis zu 3 Websites:** der Premium, 2,49 US$ pro Monat für 48 Monate und 10,99 US$ bei der Verlängerung. Er ist in der Aktion und bei der Verlängerung der günstigste.",
         "**Viele Websites:** der Unlimited, 3,49 US$ pro Monat und 16,99 US$ bei der Verlängerung. Auf der Seite hat er keine Begrenzung der Websites und bietet 50 GB NVMe, gegenüber 20 GB SSD beim Premium. Der Abstand zum Premium beträgt 1 US$ pro Monat in der Aktion und 6 US$ bei der Verlängerung.",
         "**Der höchste Tarif:** Der Cloud Startup verlängert sich zu 25,99 US$ pro Monat und kostet in der Aktion mehr als das Doppelte des Unlimited. Er lohnt sich nur, wenn Sie das brauchen, was er zusätzlich bietet, etwa die 100 GB NVMe; für viele übliche Websites reicht der Unlimited für weniger Geld."
-      ],
-      "emphasis": "Die Summe des ersten Zyklus täuscht: Vergleichen Sie den Preis pro Monat, mit der Verlängerung daneben."
+      ]
     },
     {
       "heading": "Was der Preis nicht zeigt",
@@ -175,7 +174,8 @@
     {
       "heading": "Gutschein SONAR20 bei Hostinger",
       "paragraphs": [
-        "Geben Sie **SONAR20** im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs, auch mit bestehendem Konto. Er gilt bei E-Commerce Startup, geschäftlicher E-Mail und Reach. Prüfen Sie für den gewählten Hosting- oder VPS-Tarif die Anwendung im Warenkorb. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Siehe [Hostinger-Gutscheine](/de/coupons/hostinger)."
+        "Geben Sie **SONAR20** im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs, auch mit bestehendem Konto. Er gilt bei E-Commerce Startup, geschäftlicher E-Mail und Reach. Prüfen Sie für den gewählten Hosting- oder VPS-Tarif die Anwendung im Warenkorb. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Siehe [Hostinger-Gutscheine](/de/coupons/hostinger).",
+        "SONAR20 gilt für Laufzeiten von 12, 24 und 48 Monaten; bei Tarifen über 1 Monat hängt die Annahme vom Tarif ab, prüfen Sie deshalb vor der Zahlung die Zeile „Coupon applied“ im Warenkorb."
       ]
     },
     {
@@ -185,11 +185,20 @@
         "**Wählen Sie den Unlimited** für viele Websites, ohne Begrenzung der Websites, mit täglichem Backup und 50 GB NVMe. Der Cloud Startup, der sich zu mehr als 25 US$ pro Monat verlängert, lohnt sich nur, wenn Sie den zusätzlichen Speicher brauchen.",
         "**In beiden Fällen** sehen Sie vor dem Bezahlen auf die Spalte der Verlängerung und prüfen den Betrag im Warenkorb. Die Hostinger hat eine Kampagne laufen, und die Preise können sich ändern.",
         "Wenn es um meine Website ginge, würde ich den Premium für eine einzelne Website nehmen, weil er in der Aktion und bei der Verlängerung weniger kostet."
+      ],
+      "emphasis": "Nach den Zahlen der Tabellen ist für bis zu drei Websites der Premium die richtige Wahl, weil er sich zu 10,99 US$ pro Monat verlängert, der Unlimited dagegen zu 16,99 US$; der Unlimited lohnt sich erst bei mehr als drei Websites.",
+      "links": [
+        {
+          "label": "SONAR20-Gutschein und Hostinger-Tarife ansehen",
+          "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20 % Rabatt auf die erste Laufzeit eines berechtigten Neukaufs: Geben Sie ihn im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Welcher Hoster ist besser? Das hängt von den Anforderungen des Projekts und den Gesamtkosten ab und davon, ob Ihnen die Aktion oder die Verlängerung wichtiger ist. Vergleichen Sie Verlängerung, Laufzeit, Land des Servers und VPS, wie oben.",
         "Welcher Hostinger-Tarif verlängert sich am günstigsten? Der Premium, zu 10,99 US$ pro Monat auf der internationalen Seite, nach einer Aktion über 48 Monate zu 2,49 US$.",
         "Lohnt sich der VPS der Hostinger? Das hängt von der Last der Website ab. Vergleichen Sie vCPU, Arbeitsspeicher und Verlängerung: Der KVM 1 verlängert sich zu 11,99 US$ pro Monat auf der internationalen Seite.",
@@ -197,12 +206,6 @@
         "Gilt SONAR20 beim Hostinger-VPS? Ja, bei einem berechtigten VPS-Neukauf: 20 % auf die erste Laufzeit. Prüfen Sie den Rabatt des gewählten Tarifs im Warenkorb.",
         "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft.",
         "Gilt SONAR20 auch für Hostinger-Bestandskunden? Ja, bei einem berechtigten Neukauf mit demselben Konto. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
-      ]
-    },
-    {
-      "heading": "Wer schreibt",
-      "paragraphs": [
-        "Em Casa com Cecília läuft auf dem verwalteten Hosting der Hostinger, und die Domain ist seit 2024 bei der Hostinger registriert. Der Text bündelt, was die internationalen Seiten der Hostinger sagen."
       ]
     }
   ],
@@ -230,12 +233,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Nehmen Sie den Premium, wenn es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei, und der Tarif zum Projekt passt: Er kostet in der Aktion und bei der Verlängerung weniger.",
-      "Nehmen Sie einen VPS, wenn Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht: Der KVM 1 hat schon 4 GB."
+      "es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei, und der Tarif zum Projekt passt: Er kostet in der Aktion und bei der Verlängerung weniger.",
+      "Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht und ein VPS infrage kommt: Der KVM 1 hat schon 4 GB."
     ],
     "skipIf": [
-      "Verzichten Sie auf den Premium, wenn Sie mehr als drei Websites haben werden: Der Unlimited hat keine Begrenzung der Websites.",
-      "Verzichten Sie auf den Premium, wenn Speicherplatz und tägliches Backup wichtig sind: Er hat 20 GB SSD und ein wöchentliches Backup."
+      "Sie mehr als drei Websites haben werden: Der Unlimited hat keine Begrenzung der Websites.",
+      "Speicherplatz und tägliches Backup wichtig sind: Der Premium hat 20 GB SSD und ein wöchentliches Backup."
     ]
   }
 }

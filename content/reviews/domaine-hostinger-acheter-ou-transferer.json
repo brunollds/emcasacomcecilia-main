@@ -34,7 +34,7 @@
   "metaDescription": "Acheter un domaine chez Hostinger, l’enregistrer ailleurs et le connecter, ou le transférer ? Comparez renouvellement, contrôle, éligibilité et verrouillages avant de payer.",
   "publishedAt": "28 octobre 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -157,27 +157,22 @@
         "**Je transférerais l’enregistrement** après vérification de l’éligibilité, des blocages, du coût et de l’effet sur l’expiration. Comparez l’ensemble avec ce que vous payez aujourd’hui ; une année incluse ne garantit pas une économie.",
         "Si la question porte seulement sur l’hébergement du site, comparez d’abord la connexion sans transfert. Planifiez les changements DNS sans supposer qu’une voie garantit la continuité."
       ],
-      "emphasis": "Pour mon organisation, je préférerais domaine et hébergement dans un même panneau si renouvellement et contrôle me convenaient. C’est un choix de gestion, pas une garantie de prix inférieur."
+      "emphasis": "Selon les règles de chaque option, pour qui a déjà son domaine ailleurs, le choix est de connecter le DNS sans transfert, car le site passe sur Hostinger sans toucher à l’enregistrement ; acheter ou transférer ne vaut la peine qu’après avoir vérifié le renouvellement et l’éligibilité de l’extension."
     },
     {
       "heading": "Coupon SONAR20 et prix",
       "paragraphs": [
-        "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
+        "Utilisez le code **SONAR20** dans le champ « Have a coupon code? » du panier, ou passez par le lien de cet article et vérifiez le code dans le champ : **20% sur la première période** d'un nouvel achat éligible, pour un client nouveau ou existant. Sur les cycles de 12, 24 et 48 mois, les 20% s'appliquent ; sur un forfait d'un mois, l'acceptation dépend du forfait : vérifiez donc la ligne « Coupon applied » dans le panier avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul (enregistrement ou transfert), le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
         "Puis-je changer d’hébergement sans perdre le domaine ? Vous pouvez conserver son enregistrement et connecter le nouvel hébergement par DNS, sans transférer le domaine. Vérifiez les enregistrements du site et de l’e-mail avant de les modifier.",
         "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
         "Puis-je transférer un domaine Hostinger vers un autre registrar ? Oui, à condition que l’extension le permette et qu’il n’y ait pas de verrouillage. Vérifiez la procédure puis, si nécessaire, déverrouillez, obtenez le code et confirmez la demande. Un transfert abouti est exclu du remboursement standard.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
-      ]
-    },
-    {
-      "heading": "Qui écrit",
-      "paragraphs": [
-        "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine emcasacomcecilia.com est enregistré chez Hostinger depuis 2024 (registre public RDAP). Personne de l'équipe n'a transféré de domaine : ce texte rassemble ce que disent les pages de domaine et de transfert de Hostinger."
       ]
     }
   ],
@@ -205,13 +200,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Prenez le domaine chez Hostinger si le site sera hébergé chez elle et que vous voulez domaine, DNS et renouvellement dans le même panneau.",
-      "Ne transférez que si le domaine remplit les conditions de l’extension (en générique, 60 jours ou plus depuis l’enregistrement ou le dernier transfert, sans verrouillage) et si le renouvellement chez Hostinger compense ce que vous payez aujourd’hui."
+      "le site sera hébergé chez Hostinger et que vous voulez domaine, DNS et renouvellement dans le même panneau.",
+      "vous voulez transférer, que le domaine remplit les conditions de l'extension (en générique, 60 jours ou plus depuis l'enregistrement ou le dernier transfert, sans verrouillage) et que le renouvellement chez Hostinger compense ce que vous payez aujourd'hui."
     ],
     "skipIf": [
-      "Passez votre chemin si vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou si le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",
-      "Évitez le transfert si l’extension ou un verrouillage actuel l’empêche, ou si l’éligibilité n’est pas confirmée.",
-      "Passez votre chemin si le domaine serait au nom ou sur le compte d'un freelance ou d'une agence : utilisez un e-mail que vous contrôlez."
+      "vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",
+      "l'extension ou un verrouillage actuel empêche le transfert, ou l'éligibilité n'est pas confirmée.",
+      "le domaine serait au nom ou sur le compte d'un freelance ou d'une agence : utilisez un e-mail que vous contrôlez."
     ]
   }
 }

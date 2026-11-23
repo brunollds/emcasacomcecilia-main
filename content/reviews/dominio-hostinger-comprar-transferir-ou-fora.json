@@ -34,7 +34,7 @@
   "metaDescription": "SONAR20 dá 20% na hospedagem nova da Hostinger; no domínio avulso não vale. Compare renovação, controle, elegibilidade e bloqueios antes de pagar.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa-v2.webp",
@@ -198,17 +198,18 @@
         "**Eu transferiria o registro** apenas depois de confirmar elegibilidade da extensão, bloqueios, custo e efeito no prazo de validade. Compare esse conjunto com o preço que paga hoje; incluir um ano não transforma toda transferência em economia.",
         "Se a dúvida é somente onde hospedar o site, comece avaliando a conexão sem transferência. Planeje qualquer alteração de DNS sem presumir que um desses caminhos garanta continuidade."
       ],
-      "emphasis": "Para a minha rotina, eu preferiria reunir registro e hospedagem no mesmo painel, desde que renovação e controle do domínio fossem adequados. É uma preferência de organização, não uma vantagem de preço garantida."
+      "emphasis": "Pelas regras de cada caminho, para quem já tem o domínio em outro lugar, a escolha é conectar o DNS sem transferir, porque o site sobe na Hostinger sem mexer no registro; comprar ou transferir só compensa depois de conferir a renovação e a elegibilidade da extensão."
     },
     {
       "heading": "Cupom SONAR20 e preço",
       "paragraphs": [
-        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. No domínio avulso, o código não vale. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
+        "Use o código **SONAR20** no campo \"Tem um cupom de desconto?\" do carrinho, ou entre pelo link deste artigo e confira o código no campo: são **20% no primeiro período** de uma compra nova elegível, para cliente novo ou antigo. Nos ciclos de 12, 24 e 48 meses, os 20% entram; no ciclo de 1 mês, depende do plano: no teste de 23/11/2026, o cupom entrou no Cloud Startup e foi recusado no Single e no Premium. Por isso, confira a linha \"Cupom aplicado\" no carrinho antes de pagar. A renovação sai pelo preço de tabela, sem desconto. No domínio avulso (registro ou transferência sem plano), o código não vale. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
         "Quanto custa o domínio na Hostinger? O .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
         "Posso trocar de hospedagem sem perder o domínio? Você pode manter o registro onde está e conectar a nova hospedagem por DNS, sem transferir o domínio. Confira os registros usados pelo site e pelo e-mail antes da mudança.",
         "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
@@ -216,23 +217,17 @@
         "Dá para transferir o domínio da Hostinger para outro registrador? Dá, desde que a extensão permita e não haja bloqueio. Confira o procedimento e, quando exigido, desbloqueie, obtenha o código e confirme a solicitação. Uma transferência concluída não recebe reembolso padrão.",
         "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
-    },
-    {
-      "heading": "Quem escreve",
-      "paragraphs": [
-        "O Em Casa com Cecília roda em hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio emcasacomcecilia.com está registrado na Hostinger desde 2024 (registro público RDAP). Ninguém da equipe transferiu domínio: este texto reúne o que as páginas de domínio e de transferência da Hostinger dizem."
-      ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Leve o domínio na Hostinger se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel.",
-      "Leve a transferência só se o domínio cumpre os requisitos da extensão (em genéricos, 60 dias ou mais desde o registro ou a última transferência, sem bloqueios) e a renovação na Hostinger compensa o que você paga hoje."
+      "o site vai ficar hospedado na Hostinger e você quer domínio, DNS e renovação no mesmo painel.",
+      "vai transferir, o domínio cumpre os requisitos da extensão (em genéricos, 60 dias ou mais desde o registro ou a última transferência, sem bloqueios) e a renovação na Hostinger compensa o que você paga hoje."
     ],
     "skipIf": [
-      "Passe se já tem domínio em outro registrador, prefere separar as contas ou a renovação de lá é menor: aponte o DNS e deixe o registro onde está.",
-      "Passe da transferência se a extensão ou um bloqueio atual impede o processo, ou se ainda não confirmou a elegibilidade.",
-      "Passe se o domínio ficaria no nome ou na conta de um freelancer ou de uma agência: use um e-mail que você controla."
+      "já tem domínio em outro registrador, prefere separar as contas ou a renovação de lá é menor: aponte o DNS e deixe o registro onde está.",
+      "a extensão ou um bloqueio atual impede a transferência, ou você ainda não confirmou a elegibilidade.",
+      "o domínio ficaria no nome ou na conta de um freelancer ou de uma agência: use um e-mail que você controla."
     ]
   },
   "pros": [],

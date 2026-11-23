@@ -34,6 +34,7 @@
   "metaDescription": "SONAR20 让 Hostinger Premium 的 12、24、48 个月新购买享 20% 折扣。对比 GoDaddy 的主机费用，并列出各套餐的续费价格。",
   "publishedAt": "2026年11月6日",
   "publishedAtISO": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -189,7 +190,7 @@
     {
       "heading": "按月套餐呢？",
       "paragraphs": [
-        "购物车中，Premium 一个月的价格为 US$ 12.99，续费的月价相同。SONAR20 不适用于一个月套餐。价格不变时，连续付 12 个月共 US$ 155.88，约为用优惠码一次购买 12 个月套餐的 8 倍。按月付费适合短期项目或测试，但网站要用一年的话成本更高。"
+        "购物车中，Premium 一个月的价格为 US$ 12.99，续费的月价相同。SONAR20 适用于 12、24 和 48 个月的周期；1 个月套餐是否接受要看具体套餐，所以付款前请先确认购物车里的“Coupon applied”一行。价格不变时，连续付 12 个月共 US$ 155.88，约为用优惠码一次购买 12 个月套餐的 8 倍。按月付费适合短期项目或测试，但网站要用一年的话成本更高。"
       ]
     },
     {
@@ -252,7 +253,7 @@
       ],
       "links": [
         {
-          "label": "到 Hostinger 优惠码页面查看 SONAR20 的条件",
+          "label": "查看 SONAR20 优惠码和 Hostinger 套餐",
           "href": "/zh-hans/coupons/hostinger"
         }
       ]
@@ -265,30 +266,25 @@
         "四年的主机：Premium 48 个月，用 SONAR20 为 US$ 76.42。Economy 36 个月加一次按报价的年度续费，推算为 US$ 359.52；其 60 个月方案一次付清 US$ 359.40，略低一点，但两者都超过 Premium 四年价格的四倍。域名和邮箱的续费另计。",
         "只要网站的话，Starter 的年度续费最低：US$ 71.88，Premium 为 US$ 131.88。前四年用 SONAR20 的 Premium 总价仍然更低。项目更长的话，按预计使用期限比较累计付款，续费价格以购买时的报价为准。",
         "无论哪种情况，付款前都先在购物车确认续费价：促销会变动。"
-      ]
+      ],
+      "emphasis": "按表格里的数字，网站要用两年以上的话，选使用 SONAR20 的 Hostinger Premium，因为它的 24 个月价格是 US$ 38.21，而 GoDaddy Economy 是 US$ 155.76。"
     },
     {
       "heading": "常见问题",
       "bullets": [
+        "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，对符合条件的新购买首期享 20% 折扣：在购物车的“Have a coupon code?”栏输入，付款前确认“Coupon applied”一行。续费按标价收费，没有折扣。",
         "Hostinger 和 GoDaddy 哪个更好？就主机费用而言，使用 SONAR20 的 Premium 在一年、两年和四年都比 Economy 便宜，年度续费也更低。域名和邮箱的续费另计。GoDaddy Starter 的年度续费最低，但前四年比 Premium 贵。更多选择标准见[如何选择网站主机](/zh-hans/reviews/choose-web-host-hostinger-zh-hans)。",
         "GoDaddy 续费价会一样吗？Economy 不一样：购物车中，一年套餐在第一年后会从 US$ 83.88 回到标价 US$ 143.88。Starter 没有首年折扣，续费价同样是 US$ 71.88。",
         "Hostinger 优惠码能用在续费上吗？不能。SONAR20 只适用于新购买，续费按原价计算。续费请看 [Hostinger 续费指南](/zh-hans/reviews/hostinger-renewal-sonar20-zh-hans)。",
         "Hostinger Premium 附域名吗？附，域名和每个网站 2 个邮箱第一年免费。之后各自单独续费。",
-        "可以把网站从 GoDaddy 迁到 Hostinger 吗？Hostinger 的说明页写道，免费迁移涵盖来自其他公司的 Web、Cloud 或 Agency 套餐网站。取消旧套餐前，请先向客服确认你的套餐。",
-        "Hostinger 的优惠码是什么？SONAR20 为本文比较的 12、24、48 个月 Premium 新购买提供 20% 折扣；不适用于续费，也不适用于一个月的 Premium 套餐。"
-      ]
-    },
-    {
-      "heading": "写这篇文章的人",
-      "paragraphs": [
-        "Em Casa com Cecília 运行在 Hostinger 上，域名也注册在 Hostinger。关于 GoDaddy，本文只采用其国际站页面与购物车中以美元显示的内容；编辑团队没有人用过这项服务。"
+        "可以把网站从 GoDaddy 迁到 Hostinger 吗？Hostinger 的说明页写道，免费迁移涵盖来自其他公司的 Web、Cloud 或 Agency 套餐网站。取消旧套餐前，请先向客服确认你的套餐。"
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接：本文比较的 12、24 或 48 个月 Premium 新购买享 20% 折扣。不适用于续费，也不适用于一个月的 Premium 套餐。",
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接：本文比较的 Premium 套餐符合条件的新购买首期享 20% 折扣。1 个月套餐是否接受要看具体套餐，付款前请确认“Coupon applied”一行。不适用于续费。",
     "label": "通过 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true

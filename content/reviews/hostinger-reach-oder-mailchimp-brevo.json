@@ -5,7 +5,7 @@
   "translationKey": "hostinger-reach-ou-mailchimp-brevo",
   "hideFromPortugueseListings": true,
   "title": "Hostinger Reach, Mailchimp oder Brevo: welches Tool für E-Mail-Marketing",
-  "seoTitle": "Lohnt sich Hostinger Reach? Vergleich mit Mailchimp und Brevo",
+  "seoTitle": "Lohnt sich Hostinger Reach? Vergleich mit Mailchimp, Brevo",
   "type": "Entscheidungshilfe",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -35,7 +35,7 @@
   "metaDescription": "Lohnt sich Hostinger Reach? Tabelle nach Profil, Tarife, Versandlimits, WhatsApp und Verlängerung in US-Dollar am 30. Oktober 2026, im Vergleich mit den kostenlosen Tarifen von Mailchimp und Brevo.",
   "publishedAt": "30. Oktober 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-de-v2.webp",
@@ -136,8 +136,7 @@
         "**Starter:** 100 Empfänger, 200 E-Mails im Monat und keine KI-Credits. Die E-Mails tragen die Marke von Reach.",
         "**Grow:** 500 Empfänger, 3.500 E-Mails im Monat und 10 KI-Credits im Monat. Entfernt die Reach-Marke und bringt Personalisierung, Terminierung und Automatisierungen.",
         "**Pro:** 1.000 Empfänger, 7.000 E-Mails im Monat und 20 KI-Credits im Monat. Dazu kommen HTML, optimierte Versandzeit, WhatsApp-Kampagnen, eigene Felder und Teammitglieder."
-      ],
-      "emphasis": "Wenn Sie zwischen den Tarifen schwanken, entscheidet die Größe der Liste. Die Tarife auf der Seite reichen bis 1.000 Empfänger; darüber prüfen Sie im Warenkorb, ob es eine größere Pro-Stufe gibt, oder gehen zu Mailchimp oder Brevo."
+      ]
     },
     {
       "heading": "Mailchimp und Brevo: der kostenlose Tarif",
@@ -199,11 +198,13 @@
         "**Bleiben Sie beim kostenlosen Tarif von Mailchimp oder Brevo**, wenn die Liste gerade erst beginnt und Sie noch nicht wissen, ob Sie oft E-Mails verschicken werden. Reach hat keinen kostenlosen Tarif.",
         "**Gehen Sie zu Mailchimp oder Brevo**, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn die E-Mails im Monat, Automationen eingerechnet, die 7.000 des Pro überschreiten. Die Reach-Tarife enden bei 1.000 Empfängern.",
         "Wäre es für meine Website, würde ich den Reach Grow nehmen, weil er eine Liste bis 500 mit Automatisierungen abdeckt und sich für 2,49 US$ im Monat verlängert."
-      ]
+      ],
+      "emphasis": "Nach den Zahlen der Tabelle lautet die Wahl für alle mit Hostinger-Website und einer Liste bis 1.000 Empfänger Reach Grow oder Pro, weil Grow bis 500 Empfänger mit Automatisierungen abdeckt und Pro bis 1.000 mit WhatsApp; über 1.000 Kontakten enden die Reach-Tarife, und die Wahl fällt auf Mailchimp oder Brevo."
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20% Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld \"Have a coupon code?\" im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile \"Coupon applied\". Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Lohnt sich Hostinger Reach? Ja, für alle mit einer Hostinger-Website und einer Liste bis 1.000 Empfänger. Der Grow kostet in den ersten 12 Monaten 1,74 US$ im Monat und verlängert sich auf 2,49 US$ im Monat.",
         "Was kostet Hostinger Reach? Auf der globalen Hostinger-Seite, in US-Dollar: Starter 1,49 US$, Grow 1,74 US$ und Pro 2,79 US$ im Monat in den ersten 12 Monaten, mit Verlängerung auf 1,49 US$, 2,49 US$ und 3,99 US$. Die Preise können je nach Land und Währung abweichen.",
         "Hat Hostinger Reach einen kostenlosen Tarif? Nein: Alle drei Tarife sind kostenpflichtig. Mailchimp ist für weniger als 250 Kontakte kostenlos, und Brevo bietet einen kostenlosen Tarif mit bis zu 300 E-Mails am Tag.",
@@ -212,12 +213,6 @@
         "Hostinger Reach oder Mailchimp? Für eine Liste bis 1.000 Empfänger und eine Hostinger-Website: Reach. Für einen kostenlosen Start oder eine Liste über 1.000 Kontakte: Mailchimp oder Brevo.",
         "Gilt der Code SONAR20 bei Hostinger Reach? Ja: In Brunos Test wurde der Rabatt beim Reach 500 über 24 Monate angewendet. Bei den anderen Tarifen und Zeiträumen zeigt der Warenkorb den endgültigen Preis.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Bei einem berechtigten Neukauf gilt er auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen."
-      ]
-    },
-    {
-      "heading": "Wer schreibt",
-      "paragraphs": [
-        "Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger, und die Domain ist dort seit 2024 registriert. Dieser Text fasst zusammen, was die Preisseiten der drei sagten, und den SONAR20-Test im Warenkorb. Wie Hostinger abrechnet, verlängert und erstattet, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
       ]
     }
   ],
@@ -245,13 +240,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Nehmen Sie Reach, wenn Sie schon eine Hostinger-Website haben und Ihre Liste in 1.000 Empfänger passt.",
-      "Nehmen Sie Reach Pro, wenn Sie Nachrichten über WhatsApp verschicken müssen.",
-      "Nehmen Sie es, wenn die eindeutigen Empfänger im Monat und alle Kampagnen- und Automatisierungs-E-Mails zusammen in die Monatslimits des Tarifs passen."
+      "die Website schon bei Hostinger liegt und die Liste in 1.000 Empfänger passt.",
+      "Nachrichten über WhatsApp nötig sind, was nur der Reach Pro bietet.",
+      "die eindeutigen Empfänger im Monat und alle Kampagnen- und Automatisierungs-E-Mails zusammen in die Monatslimits des Tarifs passen."
     ],
     "skipIf": [
-      "Lassen Sie es, wenn die Liste gerade erst beginnt und in den kostenlosen Tarif von Mailchimp oder Brevo passt.",
-      "Lassen Sie es, wenn die eindeutigen Empfänger oder E-Mails im Monat die Grenzen des gewählten Tarifs überschreiten."
+      "die Liste gerade erst beginnt und in den kostenlosen Tarif von Mailchimp oder Brevo passt.",
+      "die eindeutigen Empfänger oder E-Mails im Monat die Grenzen des gewählten Tarifs überschreiten."
     ]
   }
 }

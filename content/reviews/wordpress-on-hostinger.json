@@ -34,7 +34,7 @@
   "metaDescription": "WordPress on Hostinger: Premium, Unlimited or Cloud Startup? Plan by project, price and renewal on October 30, 2026, and a checklist to start.",
   "publishedAt": "October 30, 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -113,8 +113,7 @@
       },
       "postParagraphs": [
         "The page gives no end date for the campaign, and prices can change."
-      ],
-      "emphasis": "Compare the total commitment, equivalent monthly cost and renewal. Neither entry price nor renewal alone chooses a plan."
+      ]
     },
     {
       "heading": "What comes with the plans",
@@ -159,23 +158,18 @@
         "**Pick Premium** if you have one, two or three sites and publish now and then. It is the cheapest entry and renewal on the page, at US$ 10.99 a month when it renews.",
         "**Pick Unlimited** if you have a store or many sites. The daily backup is the main reason, and it starts here.",
         "**Cloud Startup** only makes sense if Unlimited is not enough. It is the most expensive, and the renewal of US$ 25.99 a month weighs on the budget."
-      ]
+      ],
+      "emphasis": "By the numbers in the table, for one to three sites the choice is Premium, and for a store or many sites it is Unlimited, because the daily backup starts there. Compare the total commitment and the renewal, because neither the entry price nor the renewal decides alone."
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field at checkout and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
         "Which is the cheapest WordPress plan on Hostinger? Premium, at US$ 2.49 a month over 48 months (US$ 119.52 in total), for up to 3 sites. It renews at US$ 10.99 a month.",
         "Does WordPress come installed on Hostinger? You install it from the hosting panel, without downloading files by hand. The checklist above covers the steps.",
         "Which WordPress plan suits an online store? Unlimited, for its daily backups and unlimited sites. For a store with heavy traffic, Cloud Startup.",
-        "Does the SONAR20 code work on the WordPress plans? SONAR20: 20% off the first period of an eligible new purchase. Check your WordPress plan at checkout; domain registration and renewal are excluded.",
         "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month.",
         "Can existing customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. Domain registration is also excluded. Enter the code and check the cart total."
-      ]
-    },
-    {
-      "heading": "Who writes this",
-      "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. The site does not use WordPress, and no one on the team has used WordPress on Hostinger: this text gathers what Hostinger's WordPress hosting pages on the international site, in US dollars, say."
       ]
     }
   ],
@@ -203,13 +197,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Take Premium if it is one site only and you publish now and then: it is the entry plan.",
-      "Take Premium too if you will have two or three sites.",
-      "Take Unlimited if you have a store or many sites: the daily backup starts there."
+      "it is one site only and you publish now and then: Premium is the entry plan.",
+      "you will have two or three sites: Premium covers them too.",
+      "you have a store or many sites: Unlimited, where the daily backup starts."
     ],
     "skipIf": [
-      "Skip Cloud Startup if Unlimited is still enough: it is the most expensive plan, on renewal too.",
-      "Compare another tool if you do not want to manage themes and plugins; check functions, integrations and costs before replacing WordPress with the AI Builder."
+      "Unlimited is still enough: Cloud Startup is the most expensive plan, on renewal too.",
+      "you do not want to manage themes and plugins: compare another tool and check functions, integrations and costs before replacing WordPress with the AI Builder."
     ]
   }
 }

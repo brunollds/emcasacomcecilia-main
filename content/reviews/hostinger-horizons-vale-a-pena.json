@@ -34,7 +34,7 @@
   "metaDescription": "O cupom SONAR20 dá 20% OFF no Criador com IA da Hostinger. Vale a pena ou WordPress? Quadro por projeto, Wix, Lovable e créditos de IA.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-pt-v2.webp",
@@ -223,8 +223,7 @@
         "**Premium, com o SONAR20:** 48 × R$ 7,99 = **R$ 383,52**. Sem o SONAR20: R$ 479,52. **Renovação, nos 48 meses seguintes:** 48 × R$ 38,99 = R$ 1.871,52.",
         "**Unlimited, com o SONAR20:** 48 × R$ 10,39 = **R$ 498,72**. Sem o SONAR20: R$ 623,52. **Renovação:** 48 × R$ 64,99 = R$ 3.119,52.",
         "**Créditos de IA são presente único**, não mensal. Acabaram, é recarga, e o preço da recarga não aparece na página: confira no painel antes de contar com ele."
-      ],
-      "emphasis": "Olhe a renovação antes do desconto: compare o total de 48 meses."
+      ]
     },
     {
       "heading": "O que conferir antes de pagar",
@@ -244,7 +243,7 @@
       "heading": "Cupom SONAR20 e preço",
       "paragraphs": [
         "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora. Confira o produto contratado e o total antes de pagar. Condições em [cupons da Hostinger](/cupons/hostinger).",
-        "A Hostinger está em campanha de Black Friday, sem data de fim na página, e os preços e os créditos em dobro podem mudar. Confira o valor no carrinho antes de pagar."
+        "A campanha de Black Friday da Hostinger vai até 14/12/2026, e os preços e os créditos em dobro podem mudar até lá. Confira o valor no carrinho antes de pagar."
       ]
     },
     {
@@ -253,38 +252,33 @@
         "**Vale a pena** para quem quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples e não quer programar nem cuidar de plugin. A primeira versão sai da descrição, e o modo sem IA deixa ajustar sem gastar crédito. Comece pelo teste grátis; se o resultado servir, o plano Premium cobre site simples e o Unlimited, loja.",
         "**Fique no WordPress** se o projeto depende de plugins, de um tema seu, de alguém que vai manter o site, ou se você quer levar tudo para outra hospedagem sem retrabalho. O plano da Hostinger é o mesmo nos dois casos, então a escolha é só de ferramenta.",
         "**Na dúvida, teste o Criador com IA antes de pagar.** São 5 créditos grátis, sem cartão, o bastante para ver se a IA entende o que você quer. Se não entender, o WordPress continua lá."
-      ]
+      ],
+      "emphasis": "Pelos números do quadro de preços, para quem quer um site simples sem programar, a escolha é o Premium com o Criador com IA, porque os 48 meses saem a R$ 383,52 com o SONAR20 (renovação a R$ 38,99/mês) e o modo sem IA não gasta créditos."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
         "O Hostinger Horizons ainda existe? Existe com outro nome. Em 2026 o Horizons se fundiu com o construtor de sites da Hostinger e virou o Criador com IA (Hostinger AI Builder), com um modo de arrastar e soltar e um modo de criar pelo chat. O endereço antigo redireciona para a página nova.",
         "O Criador com IA da Hostinger faz o site sozinho? Ele monta a primeira versão a partir da sua descrição, segundo a página. O conteúdo, as fotos e as decisões de negócio continuam sendo seus, e cada pedido no modo com IA consome créditos.",
         "Precisa saber programar para usar o Criador com IA? Não. A página diz que não exige conhecimento técnico nos dois modos. Quem sabe programar tem um editor de código no modo com IA.",
         "Dá para migrar do Criador com IA para outra hospedagem? A página diz que o código-fonte pode ser exportado e hospedado em outro lugar. O back-end integrado, com banco e login, fica na Hostinger, então um app precisa de reconfiguração fora dela.",
         "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual está disponível nos planos Unlimited e Cloud Startup, como complemento cobrado à parte. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
         "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. O Premium custava R$ 7,99/mês com o SONAR20 (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
-        "Tem cupom para o Criador com IA da Hostinger? Use SONAR20 para 20% no primeiro período de uma compra nova elegível. Confira a assinatura e os serviços incluídos no carrinho; registro de domínio e renovação ficam fora.",
         "O SONAR20 vale para quem já é cliente da Hostinger? Sim, numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
-      ]
-    },
-    {
-      "heading": "Quem escreve",
-      "paragraphs": [
-        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. Ninguém da equipe usou o Criador com IA nem o Horizons: este texto reúne o que a página brasileira do produto, a documentação do WordPress e as páginas públicas do Wix e do Lovable dizem."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Leve o Criador com IA se quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples sem programar.",
-      "Leve se quer hospedagem, domínio e e-mail no mesmo plano e aceita que a IA monte a primeira versão.",
-      "Leve se vai montar uma vez e ajustar texto e foto no editor do modo sem IA, que não gasta créditos."
+      "quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples sem programar.",
+      "quer hospedagem, domínio e e-mail no mesmo plano e aceita que a IA monte a primeira versão.",
+      "vai montar o site uma vez e ajustar texto e foto no editor do modo sem IA, que não gasta créditos."
     ],
     "skipIf": [
-      "Passe, e fique no WordPress, se o projeto depende de um plugin específico ou de um tema que você já tem.",
-      "Passe se outra pessoa ou uma agência vai manter o site: o WordPress é o padrão do mercado.",
-      "Passe se quer levar tudo para outra hospedagem sem retrabalho, ou se vai pedir mudanças à IA toda semana e cada pedido gasta créditos."
+      "o projeto depende de um plugin específico ou de um tema que você já tem: nesse caso, fique no WordPress.",
+      "outra pessoa ou uma agência vai manter o site: o WordPress é o padrão do mercado.",
+      "quer levar tudo para outra hospedagem sem retrabalho, ou vai pedir mudanças à IA toda semana e cada pedido gasta créditos."
     ]
   },
   "pros": [],

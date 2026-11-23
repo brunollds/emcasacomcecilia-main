@@ -4,7 +4,7 @@
   "locale": "fr",
   "translationKey": "hostinger-reach-ou-mailchimp-brevo",
   "title": "Hostinger Reach, Mailchimp ou Brevo : lequel choisir pour l'e-mail marketing",
-  "seoTitle": "Hostinger Reach vaut-il le coup ? Comparatif avec Mailchimp et Brevo",
+  "seoTitle": "Hostinger Reach vaut-il le coup ? Vs Mailchimp, Brevo",
   "type": "Guide de choix",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger Reach vaut-il le coup ? Tableau par profil, forfaits, limites d'envoi, WhatsApp et renouvellement en dollars américains au 30 octobre 2026, face aux forfaits gratuits de Mailchimp et de Brevo.",
   "publishedAt": "30 octobre 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -136,8 +136,7 @@
         "**Starter :** 100 destinataires, 200 e-mails par mois et aucun crédit d'IA. Les e-mails portent la marque Reach.",
         "**Grow :** 500 destinataires, 3 500 e-mails par mois et 10 crédits d'IA par mois. Il retire la marque Reach et ajoute personnalisation, planification et automatisations.",
         "**Pro :** 1 000 destinataires, 7 000 e-mails par mois et 20 crédits d'IA par mois. Il ajoute le HTML, l'heure d'envoi optimisée, les campagnes WhatsApp, les champs personnalisés et les coéquipiers."
-      ],
-      "emphasis": "Si vous hésitez entre les forfaits, c'est la taille de la liste qui tranche. Les forfaits de la page vont jusqu'à 1 000 destinataires ; au-delà, regardez au panier s'il existe une tranche Pro plus grande, ou allez chez Mailchimp ou Brevo."
+      ]
     },
     {
       "heading": "Mailchimp et Brevo : les forfaits gratuits",
@@ -196,11 +195,13 @@
         "**Restez sur le forfait gratuit de Mailchimp ou de Brevo** si la liste débute et que vous ne savez pas encore si vous enverrez des e-mails souvent. Reach n'a pas de forfait gratuit.",
         "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou si le total des e-mails du mois, automatisations comprises, dépasse les 7 000 du Pro. Les forfaits Reach s'arrêtent à 1 000 destinataires.",
         "Si c'était pour mon site, je prendrais Reach Grow, parce qu'il couvre une liste jusqu'à 500 avec des automatisations et se renouvelle à 2,49 US$ par mois."
-      ]
+      ],
+      "emphasis": "D'après les chiffres du tableau, pour qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires, le choix est Reach Grow ou Pro, car Grow couvre jusqu'à 500 destinataires avec automatisations et Pro jusqu'à 1 000 avec WhatsApp ; au-delà de 1 000 contacts, les forfaits Reach s'arrêtent et le choix est Mailchimp ou Brevo."
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ \"Have a coupon code?\" du panier et vérifiez la ligne \"Coupon applied\" avant de payer. Le renouvellement est facturé au tarif catalogue, sans réduction.",
         "Hostinger Reach vaut-il le coup ? Oui, pour qui a un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Grow coûte 1,74 US$ par mois les 12 premiers mois, puis 2,49 US$ par mois au renouvellement.",
         "Combien coûte Hostinger Reach ? Sur la page mondiale de Hostinger, en dollars américains : Starter 1,49 US$ par mois, Grow 1,74 US$ et Pro 2,79 US$ les 12 premiers mois, avec un renouvellement à 1,49 US$, 2,49 US$ et 3,99 US$. Les prix peuvent varier selon le pays et la devise.",
         "Hostinger Reach a-t-il un forfait gratuit ? Non : ses trois forfaits sont payants. Mailchimp est gratuit pour moins de 250 contacts, et Brevo propose un forfait gratuit jusqu'à 300 e-mails par jour.",
@@ -209,12 +210,6 @@
         "Hostinger Reach ou Mailchimp ? Pour une liste allant jusqu'à 1 000 destinataires et un site chez Hostinger, Reach. Pour démarrer gratuitement ou pour une liste de plus de 1 000 contacts, Mailchimp ou Brevo.",
         "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Oui : lors du test de Bruno, la réduction s'est appliquée à Reach 500 pour 24 mois. Pour les autres forfaits et périodes, le prix final s'affiche au panier.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Il s'applique à un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus."
-      ]
-    },
-    {
-      "heading": "Qui écrit",
-      "paragraphs": [
-        "Em Casa com Cecília fonctionne sur l'hébergement géré de Hostinger, et le domaine y est enregistré depuis 2024. Ce texte réunit ce que disaient les pages tarifaires des trois et le test du SONAR20 au panier. La façon dont Hostinger facture, renouvelle et rembourse est traitée dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
       ]
     }
   ],
@@ -242,13 +237,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Prenez Reach si vous avez déjà un site chez Hostinger et que votre liste tient dans 1 000 destinataires.",
-      "Prenez Reach Pro si vous avez besoin d'envoyer des messages sur WhatsApp.",
-      "Prenez-le si les destinataires uniques du mois et le total des e-mails de campagnes et d'automatisations respectent les limites mensuelles du forfait."
+      "vous avez déjà un site chez Hostinger et votre liste tient dans 1 000 destinataires.",
+      "vous devez envoyer des messages sur WhatsApp, ce que seul Reach Pro permet.",
+      "les destinataires uniques du mois et le total des e-mails de campagnes et d'automatisations respectent les limites mensuelles du forfait."
     ],
     "skipIf": [
-      "Passez votre chemin si la liste débute et tient dans le forfait gratuit de Mailchimp ou de Brevo.",
-      "Passez votre chemin si les destinataires uniques ou les e-mails du mois dépassent les limites du forfait choisi."
+      "la liste débute et tient dans le forfait gratuit de Mailchimp ou de Brevo.",
+      "les destinataires uniques ou les e-mails du mois dépassent les limites du forfait choisi."
     ]
   }
 }

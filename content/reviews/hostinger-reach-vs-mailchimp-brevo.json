@@ -4,7 +4,7 @@
   "locale": "en",
   "translationKey": "hostinger-reach-ou-mailchimp-brevo",
   "title": "Hostinger Reach, Mailchimp or Brevo: which to choose for email marketing",
-  "seoTitle": "Is Hostinger Reach worth it? Comparison with Mailchimp and Brevo",
+  "seoTitle": "Is Hostinger Reach worth it? Reach vs Mailchimp, Brevo",
   "type": "Decision Guide",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -34,7 +34,7 @@
   "metaDescription": "Is Hostinger Reach worth it? Chart by profile, plans, sending limits, WhatsApp and renewal in US dollars on October 30, 2026, compared with the free plans of Mailchimp and Brevo.",
   "publishedAt": "October 30, 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -136,8 +136,7 @@
         "**Starter:** 100 recipients, 200 emails a month and no AI credits. The emails carry the Reach branding.",
         "**Grow:** 500 recipients, 3,500 emails a month and 10 AI credits a month. It removes the Reach branding and adds personalization, scheduling and automations.",
         "**Pro:** 1,000 recipients, 7,000 emails a month and 20 AI credits a month. It adds HTML, optimized send time, WhatsApp campaigns, custom fields and team members."
-      ],
-      "emphasis": "When you are torn between the plans, the size of your list decides. The plans on the page go up to 1,000 recipients; above that, check at checkout whether a larger Pro tier exists, or go with Mailchimp or Brevo."
+      ]
     },
     {
       "heading": "Mailchimp and Brevo: the free plans",
@@ -196,11 +195,13 @@
         "**Stay on the free Mailchimp or Brevo plan** if your list is just starting and you don't yet know whether you will send email often. Reach has no free plan.",
         "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if your monthly emails, automations included, pass 7,000, the Pro ceiling. The Reach plans stop at 1,000 recipients.",
         "If it were for my site, I would take Reach Grow, because it covers a list of up to 500 with automations and renews at US$ 2.49 a month."
-      ]
+      ],
+      "emphasis": "By the numbers in the table, for anyone with a Hostinger site and a list of up to 1,000 recipients, the choice is Reach Grow or Pro, because Grow covers up to 500 recipients with automations and Pro up to 1,000 with WhatsApp; above 1,000 contacts, the Reach plans run out and the choice is Mailchimp or Brevo."
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field at checkout and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
         "Is Hostinger Reach worth it? It is, for anyone with a Hostinger site and a list of up to 1,000 recipients. Grow costs US$ 1.74 a month in the first 12 months and renews at US$ 2.49 a month.",
         "How much does Hostinger Reach cost? On Hostinger's global page, in US dollars: Starter US$ 1.49, Grow US$ 1.74 and Pro US$ 2.79 a month in the first 12 months, renewing at US$ 1.49, US$ 2.49 and US$ 3.99. Prices can vary by country and currency.",
         "Does Hostinger Reach have a free plan? No: its three plans are paid. Mailchimp is free for fewer than 250 contacts, and Brevo has a free plan with up to 300 emails a day.",
@@ -209,12 +210,6 @@
         "Hostinger Reach or Mailchimp? For a list of up to 1,000 recipients and a Hostinger site, Reach. To start for free, or for a list above 1,000 contacts, Mailchimp or Brevo.",
         "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods, the final price shows in the cart.",
         "Can existing Hostinger customers use SONAR20? It applies to an eligible new purchase, even with an existing account. Domain registration and renewal are excluded."
-      ]
-    },
-    {
-      "heading": "Who writes this",
-      "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger's managed hosting, and the domain has been registered there since 2024. This text gathers what the pricing pages of the three said and the SONAR20 test in the cart. How Hostinger charges, renews and refunds is covered in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
       ]
     }
   ],
@@ -242,13 +237,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Take Reach if you already have a Hostinger site and your list fits within 1,000 recipients.",
-      "Take Reach Pro if you need to send messages on WhatsApp.",
-      "Take it if both the unique recipients in a month and the total of campaign and automation emails fit the plan's limits."
+      "you already have a Hostinger site and your list fits within 1,000 recipients.",
+      "you need to send messages on WhatsApp, which only Reach Pro offers.",
+      "the unique recipients in a month and the total of campaign and automation emails fit the plan's limits."
     ],
     "skipIf": [
-      "Skip it if your list is just starting and fits in the free plan of Mailchimp or Brevo.",
-      "Skip it if the unique recipients or the total of monthly emails exceed the plan's limits."
+      "your list is just starting and fits in the free plan of Mailchimp or Brevo.",
+      "the unique recipients or the total of monthly emails go over the plan's limits."
     ]
   }
 }

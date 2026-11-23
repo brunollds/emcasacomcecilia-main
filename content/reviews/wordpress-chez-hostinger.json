@@ -34,7 +34,7 @@
   "metaDescription": "WordPress chez Hostinger : Premium, Unlimited ou Cloud Startup ? Forfait par projet, prix et renouvellement au 30 octobre 2026, et une liste pour commencer.",
   "publishedAt": "30 octobre 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -113,8 +113,7 @@
       },
       "postParagraphs": [
         "La page n'indique pas de date de fin pour la campagne, et les prix peuvent changer."
-      ],
-      "emphasis": "Comparez engagement total, coût mensuel équivalent et renouvellement. Ni le prix d'entrée ni le renouvellement ne décident seuls."
+      ]
     },
     {
       "heading": "Ce qui est inclus dans les forfaits",
@@ -159,23 +158,18 @@
         "**Choisissez Premium** si c'est un site, deux ou trois, et que vous publiez de temps en temps. C'est l'entrée et le renouvellement les moins chers de la page : 10,99 US$ par mois au renouvellement.",
         "**Choisissez Unlimited** si vous avez une boutique ou plusieurs sites. La sauvegarde quotidienne est la raison principale, et elle commence ici.",
         "**Cloud Startup** n'a de sens que si Unlimited ne suffit pas. C'est le plus cher, et le renouvellement à 25,99 US$ par mois pèse lourd."
-      ]
+      ],
+      "emphasis": "D'après les chiffres du tableau, pour un à trois sites le choix est Premium, et pour une boutique ou de nombreux sites, Unlimited, car la sauvegarde quotidienne commence là. Comparez l'engagement total et le renouvellement : ni le prix d'entrée ni le renouvellement ne décident seuls."
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ \"Have a coupon code?\" du panier et vérifiez la ligne \"Coupon applied\" avant de payer. Le renouvellement est facturé au tarif catalogue, sans réduction.",
         "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à 2,49 US$ par mois sur 48 mois (119,52 US$ au total), pour jusqu'à 3 sites. Il se renouvelle à 10,99 US$ par mois.",
         "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
         "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
-        "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Vérifiez le forfait WordPress au panier ; enregistrement de domaine et renouvellement sont exclus.",
         "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois.",
         "Un client existant peut-il utiliser SONAR20 ? Le code peut s'appliquer à un nouvel achat éligible avec le même compte, mais pas au renouvellement du service actuel. L'enregistrement de domaine est également exclu. Saisissez le code et vérifiez le total du panier."
-      ]
-    },
-    {
-      "heading": "Qui écrit",
-      "paragraphs": [
-        "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis 2024. Le site n'utilise pas WordPress, et personne dans l'équipe n'a utilisé WordPress chez Hostinger : ce texte réunit ce que disent les pages d'hébergement WordPress du site international, en dollars."
       ]
     }
   ],
@@ -203,13 +197,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Prenez Premium si c'est un seul site et que vous publiez de temps en temps : c'est le forfait d'entrée.",
-      "Prenez aussi Premium si vous aurez deux ou trois sites.",
-      "Prenez Unlimited si vous avez une boutique ou plusieurs sites : la sauvegarde quotidienne commence là."
+      "c'est un seul site et vous publiez de temps en temps : Premium est le forfait d'entrée.",
+      "vous aurez deux ou trois sites : Premium les couvre aussi.",
+      "vous avez une boutique ou plusieurs sites : Unlimited, où commence la sauvegarde quotidienne."
     ],
     "skipIf": [
-      "Laissez de côté Cloud Startup si Unlimited suffit encore : c'est le forfait le plus cher, au renouvellement aussi.",
-      "Comparez un autre outil si vous ne voulez pas gérer thèmes et extensions ; vérifiez fonctions, intégrations et coûts avant de remplacer WordPress par le créateur IA."
+      "Unlimited suffit encore : Cloud Startup est le forfait le plus cher, au renouvellement aussi.",
+      "vous ne voulez pas gérer thèmes et extensions : comparez un autre outil et vérifiez fonctions, intégrations et coûts avant de remplacer WordPress par le créateur IA."
     ]
   }
 }

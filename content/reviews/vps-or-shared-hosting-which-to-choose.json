@@ -34,7 +34,7 @@
   "metaDescription": "VPS or shared hosting at Hostinger: what each one is, a chart by scenario, the specs of KVM 1 to 8 and what maintenance is left to you.",
   "publishedAt": "October 28, 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -52,7 +52,7 @@
     {
       "heading": "What each one is",
       "paragraphs": [
-        "**Shared hosting** is one server split between several customers. Hostinger looks after the operating system, the web server and the updates; you log in to the control panel, install WordPress or upload your site's files, and that is it. At Hostinger, these are the Single, Premium and Unlimited plans, plus Cloud Startup, which is the same idea with more resources.",
+        "**Shared hosting** is one server split between several customers. Hostinger looks after the operating system, the web server and the updates; you log in to the control panel, install WordPress or upload your site's files, and that is it. At Hostinger, these are the Premium and Unlimited plans, plus Cloud Startup, which is the same idea with more resources.",
         "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk, plus root access, the system administrator account. You take responsibility for configuration, updates and security. The plans compared here are KVM 1, 2, 4 and 8.",
         "The difference is not “better or worse”. It is who looks after the server and how much of its resources are reserved for you."
       ]
@@ -62,11 +62,13 @@
       "paragraphs": [
         "Before you look at prices, answer three questions. If the answer is “no” to all three, shared hosting will do."
       ],
-      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
-      "imageAlt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
-      "imageCaption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages.",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.7787,
+      "image": {
+        "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+        "alt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
+        "caption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
       "comparisonTable": {
         "headers": [
           "Scenario",
@@ -194,17 +196,12 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewals are charged at the list price, with no discount.",
         "Is a VPS faster than shared hosting? Not necessarily. Reserved resources and root access change how you control the environment, but they do not by themselves predict how quickly your site responds. Compare the application's requirements and the plan limits.",
         "Can I start on shared hosting and move to a VPS later? Yes, if the application supports the new environment. It is a new contract, with server setup and a site transfer; shared hosting cannot be converted into a VPS from inside the panel.",
         "Do I need to know Linux to have a VPS? Yes, the basics of the terminal: installing programs, updating the system and reading a log. On shared hosting, everything goes through the panel and no terminal is required.",
         "Can a VPS run WordPress? Yes, including with a pre-installed template. You remain responsible for configuring and maintaining the environment, and capacity depends on the application. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
-      ]
-    },
-    {
-      "heading": "Who writes this",
-      "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. This text brings no VPS test: it gathers what Hostinger's pages say, and the site's own experience is only with managed hosting."
       ]
     }
   ],
@@ -232,13 +229,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Take the VPS if the site needs a system, program or database that is not in the panel.",
-      "Take it if you need reserved CPU and memory or root access.",
-      "Take it if you have a dashboard, bot or automation (n8n, Docker) running all day and someone to maintain the server."
+      "the site needs a system, program or database that is not in the panel.",
+      "you need reserved CPU and memory or root access.",
+      "you have a dashboard, bot or automation (n8n, Docker) running all day and someone to maintain the server."
     ],
     "skipIf": [
-      "Skip it if it is a blog, portfolio, company site, small shop or Node.js site on a plan that supports it, such as Unlimited or Cloud Startup: shared hosting does the job and Hostinger looks after the server.",
-      "Skip it if you have never opened a terminal: installing, updating, securing and backing up become your job."
+      "it is a blog, portfolio, company site, small shop or Node.js site on a plan that supports it, such as Unlimited or Cloud Startup: shared hosting does the job and Hostinger looks after the server.",
+      "you have never opened a terminal: installing, updating, securing and backing up become your job."
     ]
   }
 }

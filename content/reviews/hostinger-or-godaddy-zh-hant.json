@@ -34,6 +34,7 @@
   "metaDescription": "SONAR20 為 Hostinger 符合條件的新購買提供首期 20% 折扣。依國際站美元報價，比較 Premium 與 GoDaddy 的 1、2、4 年主機費及續訂價。",
   "publishedAt": "2026年11月6日",
   "publishedAtISO": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -189,7 +190,7 @@
     {
       "heading": "按月方案呢？",
       "paragraphs": [
-        "Hostinger Premium 的月繳方案為每月 US$ 12.99，續訂也是同樣的月費。SONAR20 不適用於一個月方案。月費不變時，連續使用 12 個月共 US$ 155.88，約為使用優惠碼的 12 個月預付方案的 8 倍。月繳適合短期專案或試用，但用滿一年就更貴。"
+        "Hostinger Premium 的月繳方案為每月 US$ 12.99，續訂也是同樣的月費。SONAR20 適用於 12、24 和 48 個月的週期；1 個月方案是否接受要看具體方案，所以付款前請先確認購物車裡的「Coupon applied」那一行。月費不變時，連續使用 12 個月共 US$ 155.88，約為使用優惠碼的 12 個月預付方案的 8 倍。月繳適合短期專案或試用，但用滿一年就更貴。"
       ]
     },
     {
@@ -252,7 +253,7 @@
       ],
       "links": [
         {
-          "label": "查看 SONAR20 的適用條件與續訂規則",
+          "label": "查看 SONAR20 優惠碼和 Hostinger 方案",
           "href": "/zh-hant/coupons/hostinger"
         }
       ]
@@ -265,30 +266,25 @@
         "使用四年：Premium 48 個月使用 SONAR20 的主機費為 US$ 76.42。若續訂價不變，Economy 的 36 個月加一次年度續訂試算為 US$ 359.52；若能接受預付五年，也可比較 US$ 359.40 的 60 個月方案。網域和電子郵件在第一年後另計。",
         "使用超過四年：Starter 的年度續訂報價為 US$ 71.88，比 Premium 的 US$ 131.88 少 US$ 60。若 Starter 每年維持 US$ 71.88，前四年的主機費為 US$ 287.52，比 Premium 預付 48 個月多 US$ 211.10。續訂較低不代表第五年起總支出就較低，應把預計使用年數的首期與續訂費加總。",
         "付款前確認所選期間、首期付款總額、續訂價，以及免費期後仍需要的網域和電子郵件費用。促銷與續訂報價可能變動。"
-      ]
+      ],
+      "emphasis": "依表格裡的數字，網站要用兩年以上的話，選使用 SONAR20 的 Hostinger Premium，因為它的 24 個月價格是 US$ 38.21，而 GoDaddy Economy 是 US$ 155.76。"
     },
     {
       "heading": "常見問題",
       "bullets": [
+        "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合條件的新購買首期享 20% 折扣：在購物車的「Have a coupon code?」欄位輸入，付款前確認「Coupon applied」那一行。續訂按定價收費，沒有折扣。",
         "Hostinger 和 GoDaddy 哪個比較好？以美元計算，Premium 使用 SONAR20 的 12、24 個月主機費低於 Economy 同期方案；48 個月主機費也低於 Economy 的 36 個月加一次年度續訂試算，後者假設續訂價不變。Premium 的年度續訂報價低於 Economy。Starter 的年度續訂價更低，但首期較貴，不能據此判定長期總支出最低。其他選擇標準見[如何選擇網站主機](/zh-hant/reviews/choose-web-host-hostinger-zh-hant)。",
         "GoDaddy 續訂價會一樣嗎？Economy 不一樣：購物車中，一年方案在第一年後會從 US$ 83.88 回到標價 US$ 143.88。Starter 沒有首年折扣，續訂價同樣是 US$ 71.88。",
         "Hostinger 優惠碼能用在續訂上嗎？不能。SONAR20 只適用於新購買，續訂按原價計算。續訂請看 [Hostinger 續訂指南](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)。",
         "Hostinger Premium 附網域嗎？附，一年免費網域，另有每個網站 2 個信箱，同樣免費一年。一年後各自單獨續訂，需另付費。",
-        "可以把網站從 GoDaddy 搬到 Hostinger 嗎？Hostinger 的說明頁寫道，免費遷移涵蓋來自其他公司的 Web、Cloud 或 Agency 方案網站。取消舊方案前，請先向客服確認你的方案。",
-        "Hostinger 的優惠碼是什麼？SONAR20 為新購買提供 20% 折扣，適用於本文比較的 12、24、48 個月 Premium 方案；不適用於續訂，也不適用於一個月的 Premium 方案。"
-      ]
-    },
-    {
-      "heading": "寫這篇文章的人",
-      "paragraphs": [
-        "Em Casa com Cecília 運行在 Hostinger 上，網域也註冊在 Hostinger。關於 GoDaddy，本文只採用其國際站頁面與購物車中以美元顯示的內容；編輯團隊沒有人用過這項服務。"
+        "可以把網站從 GoDaddy 搬到 Hostinger 嗎？Hostinger 的說明頁寫道，免費遷移涵蓋來自其他公司的 Web、Cloud 或 Agency 方案網站。取消舊方案前，請先向客服確認你的方案。"
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從連結進入：新購買的 12、24 或 48 個月 Premium 方案可享 20% 折扣。不適用於續訂，也不適用於一個月的 Premium 方案。",
+    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從連結進入：本文比較的 Premium 方案符合條件的新購買首期可享 20% 折扣。1 個月方案是否接受要看具體方案，付款前請確認「Coupon applied」那一行。不適用於續訂。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
