@@ -3696,7 +3696,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'destaque',
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
-      'O cupom Toda Up MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site, inclusive nos produtos que já estão com desconto. A exceção é a Black VIP: com um produto dela no carrinho, o checkout não aplica o cupom.',
+      'O cupom Toda Up MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site, inclusive com a escada de desconto da Black Week. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
     metaTitle: 'Cupom Toda Up: 10% OFF em tudo com MAUAD',
     metaTitleMonth: true,
     metaDescription:
@@ -3707,33 +3707,38 @@ const STORE_COUPONS: Coupon[] = [
     shipping:
       'Calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog; o pedido sai em até 3 dias úteis depois da confirmação do pagamento',
     combinable:
-      'Soma com as promoções vigentes do site e vale nos produtos que já estão com desconto; na Black VIP, a loja avisa que o cupom de influenciadora não soma com a escada de desconto',
+      'Soma com as promoções vigentes do site, inclusive com a escada de desconto da Black Week, e vale nos produtos que já estão com desconto; não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva',
     stacking: [
-      { benefit: 'promocoes', stacks: 'depende', condition: 'Entra sobre o preço promocional; com um produto da Black VIP no carrinho, o checkout não aplica o cupom' },
+      { benefit: 'promocoes', stacks: 'depende', condition: 'Entra sobre o preço promocional e sobre a escada da Black Week; não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
-    lastVerified: '2026-11-17',
-    testedAt: '2026-11-17',
+    lastVerified: '2026-11-23',
+    testedAt: '2026-11-23',
     testNote:
-      'Aplicamos o MAUAD numa Fita Up em promoção, de R$ 179,90 por R$ 116,90: o cupom tirou R$ 11,69 e o total caiu para R$ 105,21, os 10% sobre o preço promocional. No mesmo carrinho, os códigos MARESSA e BEARAMOS deram o mesmo desconto, R$ 11,69. Com uma Fita Up da Black VIP no carrinho, o checkout não aplicou o cupom em nenhum item e avisou que, na Black VIP, o cupom de influenciadora não soma com a escada de desconto. Em 11 e 12/11/2026, o MAUAD chegou a dar 15%; desde 16/11, o checkout voltou a mostrar 10%.',
+      'Montamos dois carrinhos no site oficial. Na Fita Up de R$ 116,90, posta pelo botão "Comprar agora", a Black Week tirou 25% e o total foi a R$ 87,68; o MAUAD tirou mais R$ 8,76, e o checkout fechou em R$ 78,92. Num carrinho de R$ 509,70 com o Sutiã Comfort Up, o Top Segunda Pele e o Sutiã de Silicone Invisível, o MAUAD tirou R$ 50,97, os 10%, e o total foi a R$ 458,73. Nos dois, o desconto apareceu na linha MAUAD do resumo do pedido.',
     codeInstructions: [
       'Copie o código MAUAD no card acima.',
       'Acesse o site oficial da Toda Up pelo botão indicado e coloque os produtos no carrinho.',
-      'No checkout, confira se o MAUAD já aparece aplicado; se não, cole o código no campo de cupom de desconto e aplique.',
+      'No checkout, confira se o MAUAD já aparece aplicado; se não, cole o código no campo "Código de desconto ou cartão-presente" e aplique.',
       'Confira o desconto no resumo do pedido antes de pagar.',
     ],
     aboutBrand:
-      'A Toda Up é uma marca brasileira de moda íntima feminina, de Biguaçu (SC). Começou com as fitas adesivas para decote e hoje vende sutiãs, tops e calcinhas segunda pele, sutiã de silicone, adesivos e acessórios. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site e soma com as promoções. A recomendação é conferir o resumo do pedido antes de pagar.',
+      'A Toda Up é uma marca brasileira de moda íntima feminina, de Biguaçu (SC). Começou com as fitas adesivas para decote e hoje vende sutiãs, tops e calcinhas segunda pele, sutiã de silicone, adesivos e acessórios. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF no site e soma com as promoções, inclusive com a escada da Black Week. A recomendação é conferir o resumo do pedido antes de pagar.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Toda Up?',
+        answer:
+          'O cupom da Toda Up da nossa parceria é MAUAD, com 10% OFF no site oficial, em todas as formas de pagamento, válido inclusive em kits e peças em promoção. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
+      },
       {
         question: 'O cupom MAUAD vale para todos os produtos da Toda Up?',
         answer:
-          'Sim. O MAUAD dá 10% OFF em todos os produtos do site oficial da Toda Up: sutiãs, tops, calcinhas, adesivos e acessórios, inclusive os que já estão em promoção. A exceção é a Black VIP, enquanto ela durar: com um produto dela no carrinho, o checkout não aplica o cupom, nem nos outros itens.',
+          'Vale em sutiãs, tops, calcinhas, adesivos e acessórios do site oficial, inclusive nos que já estão em promoção. As exceções são os itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva: com um deles no carrinho, o checkout não aplica o cupom.',
       },
       {
         question: 'Qual cupom Toda Up vale para quem já é cliente?',
         answer:
-          'O MAUAD. Ele dá 10% no site oficial da Toda Up para quem compra pela primeira vez e para quem já comprou. A exceção é a Black VIP, em que a loja não soma o cupom de influenciadora.',
+          'O MAUAD. Ele dá 10% no site oficial da Toda Up para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'A Toda Up é a antiga Fita Up? O cupom vale no site todaup.com?',
@@ -3743,7 +3748,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste, os 10% do MAUAD entraram sobre uma Fita Up que já estava em promoção. A exceção é a Black VIP: nela, a loja avisa que o cupom de influenciadora não soma com a escada de desconto.',
+          'Sim. No teste de novembro, a Fita Up em promoção ganhou os 25% da Black Week e, depois, os 10% do MAUAD sobre o que sobrou. A conta está em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom MAUAD está funcionando hoje?',
@@ -3753,22 +3758,22 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O MAUAD dá 15% na Toda Up?',
         answer:
-          'Hoje, dá 10%: no teste de 17/11/2026, o checkout mostrou 10%. Em 11 e 12/11, a loja chegou a dar 15% com o código. O que vale é a linha de desconto no resumo do pedido, antes de pagar.',
+          'Hoje, dá 10%: no teste de novembro, o checkout mostrou 10%. Em alguns dias de campanha a loja já deu um percentual maior com o código; o que vale é a linha MAUAD no resumo do pedido, antes de pagar.',
       },
       {
         question: 'Os cupons MARESSA e BEARAMOS dão 25% e 15% na Toda Up?',
         answer:
-          'Nos testes de 17/11/2026, não: o MARESSA e o BEARAMOS deram 10%, o mesmo desconto do MAUAD. Na Fita Up de R$ 116,90, cada código tirou R$ 11,69; no carrinho de R$ 379,80, os dois tiraram R$ 37,98. Os 25% e os 15% anunciados não se confirmaram nesses carrinhos.',
+          'No nosso teste, não: o MARESSA e o BEARAMOS deram 10%, o mesmo desconto do MAUAD, na Fita Up e num carrinho maior. Os 25% e os 15% anunciados não se confirmaram nesses carrinhos.',
       },
       {
         question: 'Onde coloco o cupom na Toda Up?',
         answer:
-          'No campo de cupom de desconto do checkout, antes de pagar. Pelo botão desta página, o site da Toda Up já abre com o MAUAD aplicado; confira o desconto no resumo do pedido.',
+          'No campo "Código de desconto ou cartão-presente" do checkout, antes de pagar. Pelo botão desta página, o site da Toda Up já abre com o MAUAD aplicado; confira a linha MAUAD no resumo do pedido.',
       },
       {
         question: 'Quanto custa o frete da Toda Up?',
         answer:
-          'O frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento. O valor aparece no checkout antes de pagar.',
+          'Na Black Week, a faixa do site anuncia frete fixo de R$ 9,90. Fora da campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento.',
       },
       {
         question: 'O que fazer se o cupom MAUAD não funcionar?',
@@ -3783,18 +3788,29 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Toda Up na Black Friday?',
         answer:
-          'Tem. O cupom Toda Up MAUAD dá 10% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+          'Tem. O MAUAD dá 10% OFF em todas as formas de pagamento e soma com a escada da Black Week da loja, que tira 25%, 30% ou 35% conforme o número de produtos.',
       },
       {
         question: 'O cupom Toda Up vale na Black Friday?',
         answer:
-          'O cupom Toda Up MAUAD dá 10% OFF e vale nos produtos em promoção. Na Black VIP, enquanto durar, o checkout não aceita o cupom, porque ele não soma com a escada de desconto; com um produto dela no carrinho, o cupom não entra nem nos outros itens. Nos preços da Black November, confira a linha do cupom no carrinho.',
+          'Vale. No teste de novembro, a escada da Black Week entrou primeiro e o MAUAD tirou mais 10% do que sobrou. Ele só não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
       },
+    ],
+    relatedContent: [
+      { title: 'Como usar o cupom da Toda Up e o que ele soma com a Black Week', url: '/reviews/cupom-toda-up-como-usar', type: 'review', publishedAt: '2026-10-26' },
+      { title: 'Cupom Toda Up primeira compra: MAUAD dá 10% OFF e vale nas compras seguintes', url: '/reviews/cupom-toda-up-primeira-compra', type: 'review', publishedAt: '2026-11-12' },
+      { title: 'Black Friday Toda Up 2026: qual sutiã escolher, quando o kit compensa e o cupom MAUAD', url: '/reviews/black-friday-toda-up', type: 'review', publishedAt: '2026-10-26' },
+      { title: 'Toda Up é boa? Sutiãs, segunda pele, Fita Up e kits: o que vale comprar da marca', url: '/reviews/toda-up-e-boa', type: 'review', publishedAt: '2026-11-04' },
+      { title: 'Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher', url: '/reviews/sutia-toda-up-qual-escolher', type: 'review', publishedAt: '2026-10-30' },
+      { title: 'SkinUp ou Cotton Up: segunda pele ou algodão, qual escolher na Toda Up', url: '/reviews/skinup-ou-cotton-up-toda-up', type: 'review', publishedAt: '2026-10-31' },
+      { title: 'Fita Up: como usar no tomara que caia e no decote (e se dá para reutilizar)', url: '/reviews/fita-up-como-usar', type: 'review', publishedAt: '2026-10-27' },
+      { title: 'Sutiã de silicone invisível: como usar e para qual roupa', url: '/reviews/sutia-de-silicone-invisivel-como-usar', type: 'review', publishedAt: '2026-10-27' },
+      { title: 'Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram', url: '/reviews/toda-up-reclame-aqui-nota-reputacao', type: 'review', publishedAt: '2026-10-26' },
     ],
     monthlyHighlight: {
       scope: 'em todo o site',

@@ -16,7 +16,7 @@
   },
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "description": "Comfort Up, Comfort Line ou Comfort Slim, da Toda Up: os tamanhos de cada um, a tabela de busto da loja, o que a página diz de cada modelo e o preço.",
@@ -30,7 +30,7 @@
   "cta": {
     "text": "Entre no site oficial da Toda Up pelo botão. O cupom já vem aplicado: confira a linha de desconto no resumo do pedido.",
     "label": "Ver na Toda Up",
-    "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
     "sponsored": true
   },
   "coupon": "MAUAD",
@@ -45,25 +45,27 @@
     },
     {
       "slug": "black-friday-toda-up"
+    },
+    {
+      "slug": "skinup-ou-cotton-up-toda-up"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Entre os três sutiãs Comfort da Toda Up, a faixa de tamanho pesa mais: o Comfort Up vai do PP ao G3, o Comfort Line começa no P e o Comfort Slim vai do PP ao GG. Para tomara que caia ou alças combinadas, a loja destaca o Line. O código MAUAD dá 10% nos três, no site oficial."
+        "Entre os três sutiãs Comfort da Toda Up, a faixa de tamanho decide: o Comfort Up vai do PP ao G3, o Line começa no P e serve de tomara que caia, e o Slim vai do PP ao GG. Os três levam 10% OFF com o MAUAD, o [cupom Toda Up](/cupons/toda-up). A tabela de busto fecha a escolha."
       ]
     },
     {
       "heading": "Os três lado a lado",
       "paragraphs": [
-        "Os três custam o mesmo e a diferença é a faixa de tamanho, com estoque, cores e preço na tabela, de 30/10/2026. O nome do modelo leva à página dele. Estoque e preço mudam: confira na loja."
+        "Os três custam o mesmo, então a escolha é de faixa de tamanho, cor e uso. A loja informa o mesmo tecido nas três páginas, 76,6% de poliamida e 23,5% de elastano, e por isso o tecido não decide nada aqui. O nome do modelo leva à página dele."
       ],
       "comparisonTable": {
         "headers": [
           "Modelo",
           "Tamanhos na loja",
-          "Estoque",
           "Preço (de)",
           "Cores"
         ],
@@ -71,31 +73,29 @@
           [
             "[Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "PP (34-36) a G3 (54-56)",
-            "36 de 40 variantes; P com 2 de 5",
             "R$ 189,90 (de R$ 199,90)",
             "Rose, Preto, Caramelo, Baunilha e Avelã"
           ],
           [
             "[Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "P (38-40) a G1 (46-48); sem PP",
-            "25 de 25 variantes",
             "R$ 189,90 (de R$ 199,90)",
             "Rose, Preto, Avelã, Caramelo e Baunilha"
           ],
           [
             "[Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "PP (34-36) a GG (44-46)",
-            "21 de 25 variantes; PP e M com 3 de 5 cada",
             "R$ 189,90 (de R$ 199,90)",
             "Preto, Rose, Baunilha, Caramelo e Avelã"
           ]
-        ]
+        ],
+        "caption": "Preços da página em 23/11/2026, sem cupom e sem a Black Week. Frete à parte."
       }
     },
     {
       "heading": "Comfort Up: a faixa maior",
       "paragraphs": [
-        "O Comfort Up é o que tem mais tamanhos: do PP (34-36) ao G3 (54-56), com G2 e G3, que os outros dois não têm.",
+        "O Comfort Up é o que tem mais tamanhos: do PP (34-36) ao G3 (54-56), com G2 e G3, que os outros dois não têm. É o sutiã para quem usa G2 ou G3, e o único dos três que atende essa faixa; quem veste do PP ao GG não ganha nada a mais com ele.",
         "A página diz que o ajuste de tamanho fica nas costas e que a peça não tem aros. A foto de costas mostra o fecho com ganchos e as alças com regulagem."
       ],
       "images": [
@@ -104,22 +104,46 @@
           "alt": "Sutiã Comfort Up rosa da Toda Up, de frente, em foto oficial da loja",
           "caption": "Foto oficial da Toda Up.",
           "objectFit": "contain",
-          "aspectRatio": 1.0253
+          "aspectRatio": 1.0253,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         },
         {
           "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up-costas.webp",
           "alt": "Costas do Sutiã Comfort Up caramelo, com fecho de ganchos e alças com regulagem",
           "caption": "Foto oficial da Toda Up. Nas costas, o fecho e as alças reguláveis.",
           "objectFit": "contain",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Comfort Up",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Com as alças reguláveis, por baixo de roupa de alça larga ou de manga.",
+            "occasion": "Dia a dia e trabalho.",
+            "pairsWith": [
+              {
+                "label": "camiseta de malha"
+              },
+              {
+                "label": "blusa de alça larga"
+              },
+              {
+                "label": "vestido de manga"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Comfort Line: tomara que caia e alças",
       "paragraphs": [
-        "O Line é o versátil: dá para usar como tomara que caia ou combinar as alças. Ele não tem PP. A tabela começa no P (38-40) e vai até o G1 (46-48).",
-        "Uma das fotos da loja lista faixas de silicone antideslizantes, alças multiuso e fecho ajustável, e avisa que este modelo tem modelagem menor. Quem usa PP fica com o Comfort Up ou o Comfort Slim."
+        "O Line é o versátil: dá para usar como tomara que caia ou combinar as alças. Ele não tem PP: a tabela começa no P (38-40) e vai até o G1 (46-48).",
+        "Uma das fotos da loja lista faixas de silicone antideslizantes, alças multiuso e fecho ajustável, e avisa que este modelo tem modelagem menor. Quem usa PP fica com o Comfort Up ou o Comfort Slim, e quem passa do G1 só tem o Up."
       ],
       "images": [
         {
@@ -127,29 +151,54 @@
           "alt": "Sutiã Comfort Line marrom, em modelo bandeau com alças finas, em foto oficial da loja",
           "caption": "Foto oficial da Toda Up.",
           "objectFit": "contain",
-          "aspectRatio": 0.8656
+          "aspectRatio": 0.8656,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         },
         {
           "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-alcas.webp",
           "alt": "Sutiã Comfort Line preto com alças cruzadas nas costas, em quatro fotos de posições diferentes",
           "caption": "Fotos oficiais da Toda Up: o Comfort Line em quatro fotos, com as alças cruzadas.",
           "objectFit": "contain",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         },
         {
           "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-line-modelagem.webp",
           "alt": "Sutiã Comfort Line rosa sem alças, com a lista de faixas de silicone e o aviso de modelagem menor da loja",
           "caption": "Foto oficial da Toda Up. O aviso sobre a modelagem menor está na própria imagem.",
           "objectFit": "contain",
-          "aspectRatio": 0.9544
+          "aspectRatio": 0.9544,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Comfort Line",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Sem alças, como tomara que caia, ou com as alças cruzadas nas costas, como a loja mostra.",
+            "occasion": "Roupa de ombro de fora ou de costas cavadas.",
+            "pairsWith": [
+              {
+                "label": "blusa tomara que caia"
+              },
+              {
+                "label": "vestido ombro a ombro"
+              },
+              {
+                "label": "regata nadador"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Comfort Slim: o minimalista, do PP ao GG",
       "paragraphs": [
         "O Slim é o minimalista: esconde sob a roupa ou aparece sob transparência. Vai do PP (34-36) ao GG (44-46).",
-        "PP e M tinham menos combinações de cor disponíveis: 3 de 5 em cada um. Se a sua faixa for uma delas, confira antes de decidir."
+        "É para quem quer o sutiã mais discreto e veste até o GG. Quem usa G1 ou mais não encontra o Slim, e o caminho é o Comfort Up."
       ],
       "images": [
         {
@@ -157,16 +206,40 @@
           "alt": "Sutiã Comfort Slim marrom de frente, em foto oficial da loja",
           "caption": "Foto oficial da Toda Up.",
           "objectFit": "contain",
-          "aspectRatio": 0.9844
+          "aspectRatio": 0.9844,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         },
         {
           "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-slim-rosa.webp",
           "alt": "Sutiã Comfort Slim rosa, com a faixa de costura na base, em foto oficial da loja",
           "caption": "Foto oficial da Toda Up.",
           "objectFit": "contain",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Comfort Slim",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Por baixo de roupa justa, para não marcar, ou aparecendo sob tecido transparente, como a loja sugere.",
+            "occasion": "Dia a dia e roupa de tecido fino.",
+            "pairsWith": [
+              {
+                "label": "camiseta justa"
+              },
+              {
+                "label": "camisa transparente"
+              },
+              {
+                "label": "blusa de tule"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Tamanho: a tabela de busto de cada modelo",
@@ -259,99 +332,44 @@
       ]
     },
     {
-      "heading": "Tecido, segundo a loja",
+      "heading": "Cupom, Black Week e frete",
       "paragraphs": [
-        "No FAQ das três páginas, a loja informa 76,6% de poliamida e 23,5% de elastano. Como a composição é a mesma, a escolha entre os modelos depende do formato, das alças e da faixa de tamanho, não do tecido."
+        "O MAUAD é o [cupom Toda Up](/cupons/toda-up): 10% OFF no site oficial, em todas as formas de pagamento, sobre o preço que está no carrinho. Pelo botão Ver na Toda Up o código já entra aplicado; se você abrir o site por fora, cole o MAUAD no campo \"Código de desconto ou cartão-presente\" do checkout. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
+        "Na Black Week, a página de produto informa a escada: 1 ou 2 produtos levam 25% OFF, 3 ou 4 levam 30% e 5 ou mais levam 35%. Acima de R$ 249,90, depois dos descontos, a loja põe um Protetor de Silicone de brinde, sem troca ou devolução separada. A escada entra primeiro e o MAUAD sai do que sobra: visto no carrinho, uma Fita Up de R$ 116,90 foi a R$ 87,68 com a Black Week e a R$ 78,92 com o MAUAD. Conta nossa, pela regra da loja: os três Comfort avulsos entram na escada de 3 produtos, a R$ 398,79, e ficam em R$ 358,91 com o MAUAD.",
+        "O frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog; na Black Week, a faixa do site anuncia frete fixo de R$ 9,90 e pagamento em até 3x sem juros. O pedido sai em até 3 dias úteis depois da confirmação do pagamento. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
       ]
     },
     {
-      "heading": "Preço, cupom e frete",
-      "paragraphs": [
-        "Os três custavam R$ 189,90 no cartão, de R$ 199,90; o preço muda com a campanha, então confira na página de cada um.",
-        "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive em produto que já está com desconto. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Para ver todos os cupons da loja, veja [o cupom da Toda Up](/cupons/toda-up).",
-        "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas."
-      ]
-    },
-    {
-      "heading": "Os outros itens do catálogo",
-      "paragraphs": [
-        "Dois produtos da Toda Up ficam de fora da comparação. O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) é uma peça adesiva, com P, M e G, e tem guia próprio. O Top Segunda Pele SkinUp é outra linha, vai do P ao G1 e não é um Comfort."
-      ]
-    },
-    {
-      "heading": "Como escolher, em resumo",
+      "heading": "Qual escolher",
       "bullets": [
         "Quer a maior faixa de tamanho, até o G3: [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
         "Quer usar em tomara que caia ou com as alças combinadas, a partir do P: [Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
-        "Quer o modelo mais minimalista, do PP ao GG: [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), com menos combinações de cor em PP e M."
+        "Quer o modelo mais minimalista, do PP ao GG: [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)."
       ],
-      "styling": {
-        "layout": "tags",
-        "items": [
-          {
-            "piece": "Comfort Up",
-            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-            "howTo": "Com as alças reguláveis, por baixo de roupa de alça larga ou de manga.",
-            "occasion": "Dia a dia e trabalho.",
-            "pairsWith": [
-              {
-                "label": "camiseta de malha"
-              },
-              {
-                "label": "blusa de alça larga"
-              },
-              {
-                "label": "vestido de manga"
-              }
-            ]
-          },
-          {
-            "piece": "Comfort Line",
-            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-            "howTo": "Sem alças, como tomara que caia, ou com as alças cruzadas nas costas, como a loja mostra.",
-            "occasion": "Roupa de ombro de fora ou de costas cavadas.",
-            "pairsWith": [
-              {
-                "label": "blusa tomara que caia"
-              },
-              {
-                "label": "vestido ombro a ombro"
-              },
-              {
-                "label": "regata nadador"
-              }
-            ]
-          },
-          {
-            "piece": "Comfort Slim",
-            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-            "howTo": "Por baixo de roupa justa, para não marcar, ou aparecendo sob tecido transparente, como a loja sugere.",
-            "occasion": "Dia a dia e roupa de tecido fino.",
-            "pairsWith": [
-              {
-                "label": "camiseta justa"
-              },
-              {
-                "label": "camisa transparente"
-              },
-              {
-                "label": "blusa de tule"
-              }
-            ]
-          }
-        ]
-      },
-      "emphasis": "Se fosse para mim, eu levaria o Comfort Up, porque tem a maior faixa de tamanho, do PP ao G3."
+      "emphasis": "Na dúvida entre os três, fique com o Comfort Up: é o que tem a maior faixa de tamanho, do PP ao G3.",
+      "paragraphs": [
+        "Três perfis resolvem quase tudo, porque o tecido é o mesmo e a diferença está na faixa de tamanho e no modelo. Se a sua medida cai no meio de duas faixas, a tabela de busto de cada modelo desempata. Quem prefere uma peça adesiva, sem alça nem fecho, tem o [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar), e quem procura a segunda pele sem costura vai ao [guia SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
+      ],
+      "links": [
+        {
+          "label": "Ver o Comfort Up na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Toda Up: MAUAD",
+          "href": "/cupons/toda-up"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Toda Up? É o MAUAD, com 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
         "Qual sutiã Toda Up não tem PP? O Comfort Line. A tabela da loja começa no P (38-40).",
-        "Qual Comfort tem mais tamanhos? O Comfort Up, do PP (34-36) ao G3 (54-56).",
-        "O Comfort Line serve em tomara que caia? Segundo a página, dá para usar assim ou combinar as alças. Antes de escolher, confira o busto na tabela.",
-        "O cupom da Toda Up vale nos três modelos? Vale, porque o cupom é do site inteiro e dá 10% no carrinho. A campanha da loja pode entrar antes, então confira o total.",
-        "De que é feito o tecido? Segundo o FAQ da loja, 76,6% é poliamida e 23,5% é elastano.",
-        "O Comfort Slim tem PP e M? Tem, mas com menos combinações de cor disponíveis: 3 de 5 em cada um. Confira a variante no dia da compra."
+        "Qual Comfort tem mais tamanhos? O Comfort Up, que vai até o G3. As medidas de cada faixa estão no capítulo de tamanho.",
+        "O Comfort Line serve em tomara que caia? A página diz que sim, ou com as alças combinadas. Confira o busto na tabela do capítulo de tamanho antes de escolher.",
+        "De que é feito o tecido? Poliamida e elastano, igual nos três modelos, como a loja informa no FAQ das páginas."
       ]
     }
   ],

@@ -14,10 +14,10 @@
     "url": "/sobre"
   },
   "description": "Sutiãs, segunda pele e adesivos Toda Up: como comparar formatos e medidas pelas páginas da loja, quais kits avaliar e como usar o código de desconto.",
-  "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up. Sutiãs Comfort, SkinUp, Cotton Up e Fita Up pela página da loja, os kits que compensam e onde comprar.",
+  "metaDescription": "O MAUAD dá 10% OFF em todo o site da Toda Up. Sutiãs Comfort, SkinUp, Cotton Up e Fita Up pela página da loja, os kits que compensam e onde comprar.",
   "publishedAt": "4 de novembro de 2026",
   "publishedAtISO": "2026-11-04",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/toda-up/toda-up-e-boa-capa-v2.webp",
@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Toda Up, comece pelo formato da peça e pela tabela de medidas do modelo. Os três Comfort têm o mesmo tecido e preço de lista, mas só o Comfort Up chega ao G3; SkinUp serve para roupa justa e Cotton Up para algodão e roupa larga. O código MAUAD dá 10% no site oficial, inclusive em peça em promoção."
+        "Na Toda Up, comece pelo formato e pela tabela de medidas do modelo: só o Comfort Up chega ao G3, a SkinUp serve para roupa justa e a Cotton Up para algodão e roupa larga. O [cupom Toda Up](/cupons/toda-up), MAUAD, dá 10% OFF no site oficial, em todas as formas de pagamento. A conta dos kits está abaixo."
       ]
     },
     {
@@ -41,7 +41,7 @@
         "**Sutiãs Comfort:** Comfort Up, Comfort Line e Comfort Slim, o sutiã de todo dia em três formatos.",
         "**SkinUp:** a segunda pele, com corte a laser e sem costura: Top Segunda Pele, Sutiã Top Alça Fina, Sutiã Clássico e quatro calcinhas.",
         "**Cotton Up:** a linha de algodão: Top Faixa, Top Triangular e Calcinha Biquíni, em preto, branco e cinza.",
-        "**Adesivos:** Fita Up, Sutiã de Silicone Invisível, Protetor de Silicone Ultrafino e a Case que guarda os dois.",
+        "**Adesivos:** Fita Up, Sutiã de Silicone Invisível, Protetor de Silicone Ultrafino e a Case do protetor.",
         "**Conjuntos:** kits de top com calcinha, de sutiã Comfort com protetor e o kit com os três Comfort."
       ]
     },
@@ -54,97 +54,144 @@
         "headers": [
           "Modelo",
           "Tamanhos",
-          "Preço de lista"
+          "Preço na página"
         ],
         "rows": [
           [
             "[Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "PP (34-36) a G3 (54-56)",
-            "R$ 199,90"
+            "R$ 189,90"
           ],
           [
             "[Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "P (38-40) a G1 (46-48), sem PP",
-            "R$ 199,90"
+            "R$ 189,90"
           ],
           [
             "[Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "PP (34-36) a GG (44-46)",
-            "R$ 199,90"
+            "R$ 189,90"
           ]
         ],
-        "caption": "Preço de lista do site em 03/11, sem o código. No dia, os três estavam com desconto de promoção, e o preço riscado da página é o desta tabela."
+        "caption": "Preço da página do produto em 23/11/2026, antes do código e da Black Week."
       },
       "postParagraphs": [
-        "A mesma letra não tem a mesma medida nos três: o M do Comfort Up vai de 79 a 87 cm de sob busto, e o M do Comfort Line, de 75 a 81. Meça o sob busto e o busto e compare com a coluna do modelo, não com o número que você usa em outra marca; a tabela completa, modelo a modelo, está no [guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher). Quem veste PP fica fora do Line; quem usa G2 ou G3 só tem o Up. Para o dia a dia com blusa de alça larga, o Up ou o Slim; para ombro de fora, o Line."
+        "A mesma letra não tem a mesma medida nos três: o M do Comfort Up vai de 79 a 87 cm de sob busto, e o M do Comfort Line, de 75 a 81. Meça o sob busto e o busto e compare com a coluna do modelo, não com o número que você usa em outra marca; a tabela completa, modelo a modelo, está no [guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher). Quem veste PP fica fora do Line; quem usa G2 ou G3 só tem o Up."
       ],
       "images": [
         {
           "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up.webp",
           "alt": "Sutiã Comfort Up rosa da Toda Up, de frente, em foto oficial da loja",
           "caption": "O Comfort Up: o único Comfort que chega ao G3. Imagem: Toda Up.",
-          "objectFit": "square",
+          "objectFit": "contain",
+          "aspectRatio": 1.0253,
           "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Sutiã Comfort Up",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Como sutiã de todo dia, sem aro, com ajuste nas costas: serve de base para camiseta, blusa e vestido.",
+            "occasion": "Dia a dia e trabalho, do PP ao G3.",
+            "pairsWith": [
+              {
+                "label": "camiseta de malha"
+              },
+              {
+                "label": "blusa de alça larga"
+              },
+              {
+                "label": "Calcinha Biquíni SkinUp",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "para fechar o conjunto"
+              }
+            ]
+          },
+          {
+            "piece": "Sutiã Comfort Line",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Vira tomara que caia ou leva as alças cruzadas; as faixas internas de silicone seguram o sutiã no lugar.",
+            "occasion": "Ombro de fora, vestido tomara que caia e costas cruzadas.",
+            "pairsWith": [
+              {
+                "label": "vestido tomara que caia"
+              },
+              {
+                "label": "blusa de ombro de fora"
+              },
+              {
+                "label": "Calcinha Cós Alto SkinUp",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "cintura alta, para vestido justo"
+              }
+            ]
+          },
+          {
+            "piece": "Sutiã Comfort Slim",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "É o discreto: some sob a roupa de pouco volume ou aparece sob a transparência, de propósito.",
+            "occasion": "Regata, tecido fino e blusa de pouco volume.",
+            "pairsWith": [
+              {
+                "label": "regata"
+              },
+              {
+                "label": "blusa de tecido fino"
+              },
+              {
+                "label": "Kit Comfort Slim + Calcinha Biquíni",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/kit-comfort-slim-e-calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "sutiã e calcinha juntos"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
-      "heading": "SkinUp e Cotton Up: segunda pele ou algodão",
+      "heading": "SkinUp: segunda pele sem costura",
       "paragraphs": [
-        "A SkinUp é descrita pela loja como segunda pele de corte a laser e acabamento ultrafino, sem costura. O Top Segunda Pele tem alça larga, sem fecho ou regulagem; o Sutiã Top Alça Fina tem alças reguláveis e fecho de quatro níveis. Entre os cinco tops da SkinUp e da Cotton Up, o Alça Fina é o único com PP. O Sutiã Clássico tem bojo fixo, sem aro, e efeito push-up anunciado pela marca.",
-        "Na Cotton Up, o Top Faixa tem corte reto e o Top Triangular, decote em V. Ambos têm bojo removível; o Faixa é descrito como algodão com 5% de elastano, e a loja classifica a sustentação como leve.",
+        "A SkinUp é descrita pela loja como segunda pele de corte a laser e acabamento ultrafino, sem costura. O Top Segunda Pele tem alça larga, sem fecho ou regulagem, e é para quem quer roupa justa sem marcar; quem veste PP fica de fora, porque ele começa no P. O Sutiã Top Alça Fina tem alças reguláveis e fecho de quatro níveis, e é o único dos cinco tops da SkinUp e da Cotton Up com PP. O Sutiã Clássico tem bojo fixo, sem aro, e efeito push-up anunciado pela marca.",
         "Compare a peça com a roupa que vai por cima e com as suas medidas. O acabamento divulgado pela marca ajuda a escolher o formato, mas não garante invisibilidade em toda roupa."
       ],
       "comparisonTable": {
         "headers": [
           "Peça",
-          "Linha",
           "Tamanhos",
-          "Preço de lista"
+          "Preço na página"
         ],
         "rows": [
           [
             "[Top Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "SkinUp",
             "P (38-40) a G1 (46-48)",
-            "R$ 179,90"
+            "R$ 169,90"
           ],
           [
             "[Sutiã Top Alça Fina SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "SkinUp",
             "PP (34-36) a GG (44-46)",
             "R$ 199,90"
           ],
           [
             "[Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "SkinUp",
             "P (38-40) a G1 (46-48)",
-            "R$ 219,90"
-          ],
-          [
-            "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "Cotton Up",
-            "P (36-38) a G1 (50-52)",
-            "R$ 189,90"
-          ],
-          [
-            "[Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "Cotton Up",
-            "P (36-38) a G1 (50-52)",
-            "R$ 189,90"
+            "R$ 208,90"
           ]
         ],
-        "caption": "Preço de lista do site, sem o código; os cinco tops estavam com desconto de promoção no dia."
+        "caption": "Preço da página do produto, antes do código e da Black Week."
       },
       "postParagraphs": [
-        "A numeração muda entre as linhas: P é 36–38 na Cotton Up e 38–40 na SkinUp. Confira a tabela do modelo, sem converter o tamanho automaticamente. As medidas em centímetros e as combinações sugeridas estão no [guia SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
+        "A numeração muda entre as linhas: P é 36–38 na Cotton Up e 38–40 na SkinUp. Confira a tabela do modelo, sem converter o tamanho automaticamente. As medidas em centímetros estão no [guia SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
       ],
       "images": [
         {
           "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
           "alt": "Sutiã Top Alça Fina SkinUp preto, com alças finas e decote em V, em foto oficial da loja",
           "caption": "Sutiã Top Alça Fina, o único com PP entre os tops da SkinUp e da Cotton Up. Imagem: Toda Up.",
-          "objectFit": "wide",
+          "objectFit": "contain",
+          "aspectRatio": 1.3194,
           "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         }
       ],
@@ -192,7 +239,7 @@
           {
             "piece": "Sutiã Clássico SkinUp",
             "url": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-            "howTo": "Como sutiã de todo dia, no lugar do modelo com aro: o bojo fixo leve dá o efeito push-up, segundo a loja.",
+            "howTo": "Como sutiã de todo dia, no lugar do modelo com aro: o bojo fixo leve dá o efeito push-up, anunciado pela loja.",
             "occasion": "Trabalho e dia a dia com blusa de decote.",
             "pairsWith": [
               {
@@ -212,140 +259,304 @@
       }
     },
     {
-      "heading": "Fita Up: a fita que deu nome à marca",
+      "heading": "Cotton Up: o básico de algodão",
       "paragraphs": [
-        "A Fita Up é a opção adesiva cortada para o decote, disponível em Bege, Marrom e Preto. O guia da marca indica P até o 44, M até o 48 e G até o 54; o FAQ fala em até 52 com segurança. Se essa diferença afetar sua escolha, confirme a indicação com a Toda Up antes de comprar. O [passo a passo da Fita Up](/reviews/fita-up-como-usar) reúne aplicação, remoção e precauções; para problemas de cola, veja [os cuidados com pele e água](/reviews/fita-up-cuidados-cola-pele-agua). Conte um pedaço por uso. Se prefere uma peça pronta de colar, compare o Sutiã de Silicone Invisível no capítulo de adesivos."
+        "A Cotton Up é a linha de algodão. O Top Faixa tem corte reto e o Top Triangular, decote em V; os dois têm bojo removível, o Faixa é descrito como algodão com 5% de elastano, e a loja classifica a sustentação como leve. É para quem quer conforto em casa e sob roupa larga: quem precisa de sustentação firme olha o Comfort. A Calcinha Biquíni Cotton Up é a única de algodão, com o cós de elástico à mostra."
       ],
+      "comparisonTable": {
+        "headers": [
+          "Peça",
+          "Tamanhos",
+          "Preço na página"
+        ],
+        "rows": [
+          [
+            "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+            "P (36-38) a G1 (50-52)",
+            "R$ 132,90"
+          ],
+          [
+            "[Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+            "P (36-38) a G1 (50-52)",
+            "R$ 132,90"
+          ]
+        ],
+        "caption": "Preço da página do produto, antes do código e da Black Week."
+      },
+      "images": [
+        {
+          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa.webp",
+          "alt": "Top Faixa Cotton Up da Toda Up, em foto oficial da loja",
+          "caption": "O Top Faixa Cotton Up, de corte reto. Imagem: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2196,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Top Faixa Cotton Up",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Decote reto, por baixo de camiseta ou como top de casa; o bojo é removível e a sustentação é leve.",
+            "occasion": "Casa e dia a dia com roupa larga.",
+            "pairsWith": [
+              {
+                "label": "camiseta larga"
+              },
+              {
+                "label": "calça de moletom"
+              },
+              {
+                "label": "Calcinha Biquíni Cotton Up",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "mesma linha, de algodão"
+              }
+            ]
+          },
+          {
+            "piece": "Top Triangular Cotton Up",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Decote em V, para blusa de decote aberto; o bojo também é removível.",
+            "occasion": "Dia a dia com decote em V e roupa de algodão.",
+            "pairsWith": [
+              {
+                "label": "blusa de decote em V"
+              },
+              {
+                "label": "short de algodão"
+              },
+              {
+                "label": "Calcinha Biquíni Cotton Up",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "mesma linha, de algodão"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Fita Up, Sutiã de Silicone e Protetor",
+      "paragraphs": [
+        "A [Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a fita adesiva cortada para o decote, em Bege, Marrom e Preto. O guia da página indica P até o tamanho 44, M até o 48 e G até o 54; o FAQ da mesma página fala em até 52 com segurança. A Toda Up não publica a metragem do rolo. Se a diferença afetar sua escolha, confirme com a loja antes de comprar. O [passo a passo da Fita Up](/reviews/fita-up-como-usar) reúne aplicação, remoção e precauções; para problemas de cola, veja [os cuidados com pele e água](/reviews/fita-up-cuidados-cola-pele-agua).",
+        "O Sutiã de Silicone Invisível é a peça pronta de colar, em P, M e G. O Protetor de Silicone Ultrafino cobre só o mamilo, em P (8 cm), M (10 cm) e G (12 cm), e não substitui a fita. A Case guarda o protetor. O Kit Invisible Up saiu da loja: as três peças se compram avulsas."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Para que serve",
+          "Preço na página"
+        ],
+        "rows": [
+          [
+            "[Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+            "Fita cortada por uso, para o decote",
+            "R$ 116,90"
+          ],
+          [
+            "[Sutiã de Silicone Invisível](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+            "Peça pronta de colar",
+            "R$ 149,90"
+          ],
+          [
+            "[Protetor de Silicone Ultrafino](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+            "Cobre só o mamilo",
+            "R$ 59,90"
+          ],
+          [
+            "[Case Protetor de Silicone](https://todaup.com/discount/MAUAD?redirect=/products/case-protetor-de-silicone&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+            "Guarda o protetor",
+            "R$ 49,90"
+          ]
+        ],
+        "caption": "Preço da página do produto, antes do código e da Black Week."
+      },
       "images": [
         {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
           "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
           "caption": "A Fita Up, o produto que deu nome à marca. Imagem: Toda Up.",
-          "objectFit": "square",
-          "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
-        }
-      ]
-    },
-    {
-      "heading": "Kits: quando o conjunto compensa",
-      "paragraphs": [
-        "Na Toda Up, o kit compensa quando você leva três conjuntos ou um sutiã com protetor, e o de um conjunto quase não economiza. Conta nossa: pelos preços da loja no guia dos kits, os kits de três conjuntos SkinUp ou Cotton Up, os dois de sutiã Comfort com protetor, o Kit Invisible Up e o Kit Comfort Up saem de 22% a 30% abaixo das peças avulsas. O kit de um conjunto economiza menos de R$ 20. O kit prende top e calcinha no mesmo número: quem usa tamanhos diferentes compra avulso, e quem veste PP fica fora dos kits de três conjuntos e do Kit Comfort Up, que começam no P. No dia, os cinco kits SkinUp estavam esgotados, e os dois Cotton Up, o Top Faixa e o Top Triangular com a Calcinha Biquíni, à venda.",
-        "Os Leve 2 e Leve 3 são outra coisa: a mesma peça repetida com desconto, na página da Fita Up e dos tops Cotton Up. A página deles diz que cupons não acumulam com o kit, salvo os de influenciadoras; o código da Toda Up somou com os dois. A conta kit a kit, com as peças de cada um, está no guia dos kits, listado no fim."
-      ],
-      "images": [
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
         {
-          "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-faixa.webp",
-          "alt": "Kit Top Faixa e Calcinha Biquíni Cotton Up em branco, de frente, em foto oficial da Toda Up",
-          "caption": "O Kit Top Faixa e Calcinha Biquíni Cotton Up, em branco. Imagem: Toda Up.",
-          "objectFit": "portrait",
-          "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
+          "alt": "Sutiã de Silicone Invisível da Toda Up com o fecho frontal, em foto oficial da loja",
+          "caption": "O Sutiã de Silicone Invisível, a peça pronta de colar. Imagem: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        {
+          "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
+          "alt": "Protetor de Silicone Ultrafino da Toda Up em três cores, em foto oficial da loja",
+          "caption": "O Protetor de Silicone Ultrafino, em três cores. Imagem: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Fita Up",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Em pele limpa e seca, com o protetor de mamilo antes; meça no espelho e cole da base para cima, sem esticar demais. Quem usa frente única ou tomara que caia não dispensa o protetor.",
+            "occasion": "Decote profundo, frente única e tomara que caia.",
+            "pairsWith": [
+              {
+                "label": "Protetor de Silicone Ultrafino",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "vai antes da fita"
+              },
+              {
+                "label": "vestido de decote profundo"
+              }
+            ]
+          },
+          {
+            "piece": "Sutiã de Silicone Invisível",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Peça pronta de colar, em P, M e G: é a saída para quem não quer cortar fita a cada uso.",
+            "occasion": "Costas nuas e decote fundo.",
+            "pairsWith": [
+              {
+                "label": "vestido de costas nuas"
+              },
+              {
+                "label": "blusa de decote profundo"
+              }
+            ]
+          },
+          {
+            "piece": "Protetor de Silicone Ultrafino",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Cobre só o mamilo, em P, M e G; não substitui a fita nem o sutiã de silicone.",
+            "occasion": "Roupa sem sutiã, tecido fino e blusa branca.",
+            "pairsWith": [
+              {
+                "label": "blusa de tecido fino"
+              },
+              {
+                "label": "camiseta branca"
+              },
+              {
+                "label": "Case Protetor de Silicone",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/case-protetor-de-silicone&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "guarda o protetor"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
-      "heading": "Calcinhas e adesivos",
+      "heading": "Calcinhas SkinUp e Cotton Up",
       "paragraphs": [
-        "Calcinha e adesivo se escolhem pela roupa de cima, e a tabela abaixo resolve: a SkinUp para não marcar, a Cotton Up para o algodão de todo dia, e os três adesivos para a roupa sem sutiã. As quatro calcinhas SkinUp têm corte a laser e vão do P ao G1, e a diferença entre elas é só a cobertura: Biquíni, Cós Alto, Fio Dental e Fio Dental Cós Alto. A Biquíni Cotton Up é a única de algodão, com o cós de elástico à mostra, para casa e roupa larga. Nos adesivos, o Protetor de Silicone Ultrafino é o adesivo para roupa, em P, M e G, e não substitui a fita; o Sutiã de Silicone Invisível é a peça pronta de colar, também em P, M e G; a Case guarda os dois."
+        "As quatro calcinhas SkinUp têm corte a laser e vão do P ao G1; a diferença entre elas é só a cobertura: Biquíni, Cós Alto, Fio Dental e Fio Dental Cós Alto. A Biquíni Cotton Up é a única de algodão, para casa e roupa larga."
       ],
       "comparisonTable": {
         "headers": [
           "Produto",
           "Linha",
-          "Preço de lista"
+          "Preço na página"
         ],
         "rows": [
           [
             "[Calcinha Biquíni SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "SkinUp",
-            "R$ 59,90"
+            "R$ 49,90"
           ],
           [
             "[Calcinha Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "SkinUp",
-            "R$ 59,90"
+            "R$ 49,90"
           ],
           [
             "[Calcinha Fio Dental SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "SkinUp",
-            "R$ 59,90"
+            "R$ 49,90"
           ],
           [
             "[Calcinha Fio Dental Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "SkinUp",
-            "R$ 59,90"
+            "R$ 49,90"
           ],
           [
             "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "Cotton Up",
-            "R$ 59,90"
-          ],
-          [
-            "Fita Up",
-            "Adesivos",
-            "R$ 179,90"
-          ],
-          [
-            "Sutiã de Silicone Invisível",
-            "Adesivos",
-            "R$ 159,90"
-          ],
-          [
-            "Protetor de Silicone Ultrafino",
-            "Adesivos",
-            "R$ 99,90"
-          ],
-          [
-            "Case Protetor de Silicone",
-            "Adesivos",
-            "R$ 79,90"
+            "R$ 39,90"
           ]
         ],
-        "caption": "Preço de lista do site, sem o código; todos estavam com desconto de promoção no dia."
+        "caption": "Preço da página do produto, antes do código e da Black Week."
       },
       "postParagraphs": [
-        "As cinco calcinhas custam o mesmo em lista, então a escolha é pela roupa: sob legging e vestido de malha, uma SkinUp; para o pijama e a calça larga, a Cotton Up. Para quem usa frente única ou tomara que caia, a fita pede o protetor antes: é o que o passo a passo da própria loja manda."
+        "A escolha é pela roupa: sob legging e vestido de malha, uma SkinUp; para o pijama e a calça larga, a Cotton Up, que também sai mais barata."
+      ]
+    },
+    {
+      "heading": "Kits: quando o conjunto compensa",
+      "paragraphs": [
+        "Na Toda Up, o kit compensa quando você leva três conjuntos, os três sutiãs Comfort ou um sutiã com protetor; o de um conjunto quase não economiza. Conta nossa, pelos preços das páginas: o kit de três conjuntos SkinUp sai 24% abaixo das peças avulsas, o Kit Comfort Up (os três sutiãs) sai 30% abaixo e o de sutiã com protetor, 24%. O kit de três Cotton Up economiza pouco, porque o top avulso já tem a opção de comprar 2 e levar 3, e o de um conjunto economiza menos de R$ 20. O kit prende top e calcinha no mesmo número: quem usa tamanhos diferentes compra avulso, e quem veste PP fica fora dos kits de três conjuntos e do Kit Comfort Up, que começam no P.",
+        "Os Leve 2 e Leve 3 são outra coisa: a mesma peça repetida com desconto, na página da Fita Up e dos tops Cotton Up. A loja avisa nas páginas de kit que entre cupom e kit vale o maior desconto; no Leve 2 da Fita Up, o MAUAD somou com a Black Week no teste de novembro. A conta kit a kit, com as peças de cada um, está no [guia dos kits](/reviews/kit-toda-up-quando-compensa)."
       ]
     },
     {
       "heading": "Quanto custa com o código e onde comprar",
       "paragraphs": [
-        "O código da Toda Up tira 10% no site oficial, inclusive sobre peça em promoção. Com o Comfort Up, no teste de outubro, o desconto saiu do preço promocional: de R$ 170,91 a R$ 153,82. Em um carrinho maior, no mesmo teste, a promoção progressiva entrou antes e o código aplicou 10% sobre o valor restante. Na Black VIP, enquanto durar, o checkout não aceita o código. Confira as linhas no resumo do pedido.",
-        "Pelo botão deste artigo, a loja abre com o código aplicado. Se a linha não aparecer, cole MAUAD no campo de cupom. O passo a passo e as condições estão na página do [cupom Toda Up](/cupons/toda-up). A marca também vende em outros canais; este desconto é do site oficial.",
-        "O frete é informado pelo CEP no checkout. Confira se há campanha de frete grátis para o pedido escolhido."
+        "O código da Toda Up é o MAUAD: 10% OFF no site oficial, em todas as formas de pagamento, inclusive sobre peça em promoção. A Black Week da loja entra primeiro, e os 10% saem do que sobrou: no teste de novembro, uma Fita Up de R$ 116,90 foi a R$ 87,68 com a campanha e a R$ 78,92 com o MAUAD. A escada que a página informa é 25% OFF em 1 ou 2 produtos, 30% em 3 ou 4 e 35% em 5 ou mais, e cada kit conta como 1 produto.",
+        "O MAUAD não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva. Pelo botão deste artigo, a loja abre com o código aplicado; se a linha não aparecer, cole MAUAD no campo \"Código de desconto ou cartão-presente\" do checkout. O passo a passo e as condições estão na página do [cupom Toda Up](/cupons/toda-up). A marca também vende em outros canais; este desconto é do site oficial.",
+        "Na Black Week, a faixa do site anuncia frete fixo de R$ 9,90 e pagamento em até 3x sem juros. Fora da campanha, o frete é informado pelo CEP no checkout."
       ]
     },
     {
       "heading": "Envio, troca e devolução",
       "paragraphs": [
-        "A troca por tamanho é o que protege a compra de sutiã pela internet, e na Toda Up ela vale por 30 dias corridos depois do recebimento, com frete grátis na primeira troca. O pedido sai em até 3 dias úteis depois da confirmação do pagamento, com o rastreio por e-mail. Troca de modelo, tamanho ou cor e devolução por arrependimento se pedem no portal de trocas da loja, com o CPF da titular e o número do pedido; a peça volta com etiqueta, sem sinal de uso, lavagem ou perfume, e a segunda troca tem o frete por conta da cliente. O que a política não fixa é em quantos dias o reembolso cai: no cartão, o estorno é pela administradora. Se o prazo pesa para você, pergunte ao atendimento, por e-mail ou WhatsApp, antes de devolver. O rodapé mostra as bandeiras de cartão."
+        "A troca por tamanho é o que protege a compra de sutiã pela internet, e na Toda Up ela vale por 30 dias corridos depois do recebimento, com frete grátis na primeira troca. O pedido sai em até 3 dias úteis depois da confirmação do pagamento, com o rastreio por e-mail. Troca de modelo, tamanho ou cor e devolução por arrependimento se pedem no portal de trocas da loja, com o CPF da titular e o número do pedido; a peça volta com etiqueta, sem sinal de uso, lavagem ou perfume, e a segunda troca tem o frete por conta da cliente. O que a política não fixa é em quantos dias o reembolso cai: no cartão, o estorno é pela administradora. Se o prazo pesa para você, pergunte ao atendimento, por e-mail ou WhatsApp, antes de devolver."
       ]
     },
     {
       "heading": "Dá para confiar na Toda Up",
       "paragraphs": [
-        "Dá. A loja é da mesma empresa de Biguaçu (SC) que abriu como Fita UP, com CNPJ ativo no rodapé do site, o mesmo da consulta pública e do perfil no Reclame Aqui, e regras de troca, reembolso e frete publicadas. No Reclame Aqui, o perfil estava com reputação Ótima, com nota 8,2 nos seis meses até o fim de outubro, todas as reclamações respondidas e 89,9% resolvidas. Os dois pontos de atenção: a política não fixa o prazo de reembolso, e o que a loja diz da qualidade das peças é a marca falando de si. O CNPJ, a mudança de nome e as reclamações estão nos dois guias de confiança, listados no fim."
+        "Dá. A loja é da mesma empresa de Biguaçu (SC) que abriu como Fita UP, com CNPJ ativo no rodapé do site, o mesmo da consulta pública e do perfil no Reclame Aqui, e regras de troca, reembolso e frete publicadas. No Reclame Aqui, o perfil estava com reputação Ótima, com nota 8,2 nos seis meses até o fim de outubro, todas as reclamações respondidas e 89% resolvidas.",
+        "Os pontos de atenção: o problema mais citado é atraso na entrega, e nesse caso o caminho é o SAC da loja, com o número do pedido; a política não fixa o prazo de reembolso; e o que a loja diz da qualidade das peças é a marca falando de si."
       ]
     },
     {
       "heading": "Para quem vale e para quem não vale",
       "bullets": [
         "Para o sutiã de todo dia com a maior faixa de tamanho, o Comfort Up; para tomara que caia, o Comfort Line, a partir do P.",
-        "Para comparar segunda pele sob regata ou roupa justa, veja a SkinUp; entre os cinco tops da SkinUp e da Cotton Up, o Alça Fina é o único com PP.",
+        "Para roupa justa, a SkinUp; entre os cinco tops da SkinUp e da Cotton Up, o Alça Fina é o único com PP.",
         "Para algodão e preço menor, em casa e sob roupa larga, a Cotton Up.",
         "Para o decote sem sutiã, a Fita Up, cortada por uso, ou o Sutiã de Silicone Invisível, pronto.",
-        "Para três conjuntos ou os três sutiãs de uma vez, os kits de três conjuntos ou o Kit Comfort Up; o de um conjunto quase não economiza.",
+        "Para três conjuntos ou os três sutiãs de uma vez, o kit de três conjuntos SkinUp ou o Kit Comfort Up; o de um conjunto quase não economiza.",
         "Não vale para quem veste PP e quer o Comfort Line, o Top Segunda Pele ou um kit de top e calcinha: todos começam no P.",
         "Não vale para quem precisa saber o prazo do reembolso antes de comprar: a política não fixa."
       ],
-      "emphasis": "Antes de escolher um Comfort, confira a medida na coluna daquele modelo. A mesma letra não tem a mesma medida nos três."
+      "emphasis": "O erro caro na Toda Up é comprar pelo número que você usa em outra marca: confira a medida na coluna do modelo, porque a mesma letra não tem a mesma medida nos três Comfort.",
+      "links": [
+        {
+          "label": "Ver o Sutiã Comfort Up na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Toda Up: MAUAD",
+          "href": "/cupons/toda-up"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Toda Up? É o MAUAD, com 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
         "A Toda Up é boa? Depende da peça: cada linha tem um uso definido, e a tabela de medidas de cada modelo mostra o tamanho certo. O cupom deste artigo vale só no site oficial.",
-        "Toda Up tem cupom? Tem: o código da Toda Up, MAUAD, dá 10% em todo o site, inclusive em peça já em promoção, e soma com a promoção da loja, exceto na Black VIP, em que o checkout não aceita o código enquanto ela durar; o capítulo do preço mostra como ele entra no carrinho.",
-        "A Toda Up é confiável? É: empresa registrada em Biguaçu (SC), com o CNPJ no rodapé, troca em 30 dias e reputação Ótima no Reclame Aqui; os números estão no capítulo de confiança.",
-        "Sutiã da Toda Up é bom? Pela página da loja, os três sutiãs Comfort têm o mesmo tecido e o mesmo preço, e o que muda é a faixa de tamanho e as alças; o capítulo dos sutiãs resume, e o guia dos Comfort, listado no fim, traz a tabela de busto.",
+        "A Toda Up é confiável? É: empresa registrada em Biguaçu (SC), com o CNPJ no rodapé, troca em 30 dias e reputação Ótima no Reclame Aqui; os pontos de atenção estão no capítulo de confiança.",
+        "Sutiã da Toda Up é bom? Pela página da loja, os três sutiãs Comfort têm o mesmo tecido e o mesmo preço, e o que muda é a faixa de tamanho e as alças; o capítulo dos sutiãs resume, e o guia dos Comfort traz a tabela de busto.",
         "A Toda Up é a mesma Fita Up? É: a Fita UP cresceu e virou Toda Up, a mesma empresa e a mesma equipe; a fita segue à venda."
       ]
     }
@@ -364,8 +575,8 @@
   },
   "cta": {
     "label": "Ir para a Toda Up com o código",
-    "text": "Entre no site oficial da Toda Up pelo botão: o código da Toda Up já entra aplicado, com 10% em todo o site, inclusive nas peças em promoção. Confira a linha de desconto no resumo do pedido antes de pagar.",
-    "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "text": "O botão abre o site oficial da Toda Up com o MAUAD aplicado, com 10% OFF em todo o site, inclusive nas peças em promoção. Confira a linha de desconto no resumo do pedido antes de pagar.",
+    "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
     "sponsored": true
   },
   "coupon": "MAUAD",
@@ -386,12 +597,6 @@
     },
     {
       "slug": "cupom-toda-up-como-usar"
-    },
-    {
-      "slug": "toda-up-e-confiavel"
-    },
-    {
-      "slug": "toda-up-reclame-aqui-nota-reputacao"
     },
     {
       "slug": "black-friday-toda-up"
