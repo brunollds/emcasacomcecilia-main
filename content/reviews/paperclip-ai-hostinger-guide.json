@@ -34,7 +34,7 @@
   "metaDescription": "Paperclip AI: what it is, who maintains it, what you can verify and how to run it on Hostinger, managed or VPS.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -79,8 +79,8 @@
         "**License.** MIT. It means the code is open: anyone can read it, audit it and use it. It also means nobody is obliged to keep maintaining the version you installed.",
         "**Where it runs.** You choose. It can run on your computer, on a server of your own or on Hostinger’s managed plan. The project’s website says the self-hosted version does not require a Paperclip account.",
         "**Where the keys and data live.** It depends on the path. On the VPS, Hostinger itself says that sensitive data, agent memory and API credentials stay “entirely on your infrastructure”, that is, on the server you rented. On managed, the page says the keys stay in your managed instance. This is Hostinger’s description, not an independent audit.",
-        "**Code security.** The repository asks that vulnerabilities be reported through GitHub’s Security Advisory feature, not in public issues. The sources for this guide list no supported versions, independent audits or published advisories.",
-        "**What cannot be claimed.** The sources for this guide mention no public security audit. There is also no independent review or third-party rating for the product. The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. For the company that hosts it, see [whether Hostinger is trustworthy](/en/reviews/is-hostinger-legit)."
+        "**Code security.** The repository asks that vulnerabilities be reported through GitHub’s Security Advisory feature, not in public issues.",
+        "**Care with access.** The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. For the company that hosts it, see [whether Hostinger is trustworthy](/en/reviews/is-hostinger-legit)."
       ]
     },
     {
@@ -147,7 +147,9 @@
         "**Managed is for you if** you want Paperclip running without installing anything, you do not know what root or Docker is, and you prefer Hostinger to look after the database, the updates and the backups.",
         "**The VPS is for you if** you want to run other programs on the same server, such as a website or n8n (an automation tool), you know your way around a server or want to learn, and you want the database and the configuration under your control.",
         "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. A 180-day interval applies to previous VPS refunds; check the conditions and exclusions in the [refund policy](https://www.hostinger.com/legal/refund-policy) before buying."
-      ]
+      ],
+      "emphasis": "By Hostinger's own product pages, for anyone who wants Paperclip running without looking after a server, the choice is managed, which includes the database; for anyone who wants to run other programs on the same server and can administer it, it is the VPS. On both, the AI connection is up to your own keys or subscription, with no AI credits included.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "What size of VPS",
@@ -158,7 +160,7 @@
     {
       "heading": "SONAR20 coupon",
       "paragraphs": [
-        "Use the code **SONAR20** in the cart’s coupon field, or come in through this article’s link: it gives **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral). Check the price in the cart before you pay."
+        "Enter **SONAR20** in the \"Have a coupon code?\" field in the cart: 20% off the first period of an eligible new purchase, including with an existing account. On 12-, 24- and 48-month terms the 20% applies; on 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. Domain registration is excluded and renewal is charged at the list price, with no discount. See the [Hostinger coupon page](/en/coupons/hostinger) for conditions. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
       ]
     },
     {
@@ -178,18 +180,12 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
         "Is Paperclip free? The program is open source under the MIT license and can be installed on your computer without buying Hostinger hosting. Managed hosting and VPS plans are paid. Model access uses your own accounts through an API or supported subscription, under the provider’s costs and limits.",
-        "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. There is no independent audit in this guide’s sources.",
+        "Is Paperclip reliable? What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub.",
         "Does it need an API key? In most cases, yes. On managed, Hostinger accepts an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription. On the VPS, the page asks you to bring your own keys. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
         "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
-        "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
-      ]
-    },
-    {
-      "heading": "Who writes this",
-      "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses Paperclip: this text gathers what the official repository and Hostinger say."
       ]
     }
   ],
@@ -217,12 +213,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Take managed if you want Paperclip running without installing anything and prefer Hostinger to look after the database, the updates and the backups.",
-      "Take managed if you do not know what root or Docker is."
+      "you want Paperclip running without installing anything and prefer Hostinger to look after the database, the updates and the backups: go with managed.",
+      "you do not know what root or Docker is: managed covers that."
     ],
     "skipIf": [
-      "Skip managed and go with a VPS if you want to run other programs on the same server, such as a website or n8n, and you know your way around a server or want to learn.",
-      "Skip Paperclip if you only want one assistant: it organizes a team of agents, and for personal use a single agent is usually enough."
+      "you want to run other programs on the same server, such as a website or n8n, and you know your way around a server or want to learn: go with a VPS instead of managed.",
+      "you only want one assistant: Paperclip organizes a team of agents, and for personal use a single agent is usually enough."
     ]
   }
 }

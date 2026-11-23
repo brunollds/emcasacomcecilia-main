@@ -34,7 +34,7 @@
   "metaDescription": "Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp, und wer sich um den Server kümmert.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp",
@@ -167,12 +167,13 @@
       "postParagraphs": [
         "**Wählen Sie den VPS, wenn:** Sie Root-Zugriff wollen und weitere Programme auf demselben Server betreiben, etwa eine Website oder n8n; Sie sich mit Servern auskennen oder es lernen wollen und bereit sind, das System zu aktualisieren und abzusichern; oder Sie mehr Arbeitsspeicher und Speicherplatz brauchen: Die KVM-Tarife reichen von 4 GB bis 32 GB RAM.",
         "**Im Zweifel beginnen Sie mit der verwalteten Option.** Sie kostet im ersten Zeitraum weniger und verlangt keine Serverkenntnisse."
-      ]
+      ],
+      "emphasis": "Laut Tabelle ist für alle, die OpenClaw ohne Serverpflege online haben wollen, die verwaltete Option die richtige Wahl, weil Hostinger Updates und Sicherheit übernimmt, während beides beim VPS bei Ihnen liegt."
     },
     {
       "heading": "Gutschein SONAR20",
       "paragraphs": [
-        "Geben Sie **SONAR20** im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, monatlich oder jährlich, auch mit bestehendem Konto. Domainregistrierungen und Verlängerungen sind ausgeschlossen; die Verlängerung wird zum Listenpreis berechnet. Einzelheiten stehen im [SONAR20-Ratgeber](/de/reviews/hostinger-gutschein-empfehlungscode) und auf der [Hostinger-Seite](/de/coupons/hostinger)."
+        "Geben Sie **SONAR20** im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Bei Laufzeiten von 12, 24 und 48 Monaten gelten die 20 %; bei 1-Monats-Tarifen hängt die Annahme vom Tarif ab, prüfen Sie also die Zeile „Coupon applied“ im Warenkorb, bevor Sie bezahlen. Domainregistrierungen und Verlängerungen sind ausgeschlossen; die Verlängerung wird zum Listenpreis berechnet. Einzelheiten stehen im [SONAR20-Ratgeber](/de/reviews/hostinger-gutschein-empfehlungscode) und auf der [Hostinger-Seite](/de/coupons/hostinger)."
       ],
       "postParagraphs": [
         "Hostinger hat gerade eine Black-Friday-Aktion, und die Preise ändern sich. Sehen Sie sich [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote) an und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
@@ -181,17 +182,11 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutschein? Der Hostinger-Gutschein ist SONAR20, mit 20 % Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Lohnt sich das verwaltete OpenClaw von Hostinger? Ja, wenn Sie den Assistenten ohne Serverpflege wollen: Es ist im ersten Zeitraum günstiger als der VPS, und die Verlängerung kostet gleich viel. Wer Root-Zugriff und andere Programme auf dem Server braucht, ist mit dem VPS besser bedient.",
         "Braucht man ein Konto bei OpenAI oder Anthropic? Nein. Bei beiden Optionen können Sie das KI-Guthaben von Hostinger nutzen. Ein Konto beim Anbieter brauchen Sie nur, wenn Sie lieber Ihren eigenen Schlüssel verwenden.",
-        "Gibt es einen Hostinger-Gutschein für OpenClaw? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % Rabatt auf den ersten Zeitraum.",
         "Passt der verwaltete Tarif auch für Hermes Agent oder Paperclip? Ja. Alle drei sind im selben Tarif, „AI automation apps“, zum gleichen Preis. Die Paperclip-Seite nennt kein KI-Guthaben, bringen Sie also Ihren eigenen Schlüssel mit.",
         "Können Hostinger-Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
-      ]
-    },
-    {
-      "heading": "Wer schreibt",
-      "paragraphs": [
-        "Em Casa com Cecília läuft bei Hostinger, als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand im Team nutzt OpenClaw: Dieser Text fasst zusammen, was die Hostinger-Seiten und die offizielle OpenClaw-Dokumentation sagen."
       ]
     }
   ],
@@ -220,13 +215,13 @@
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
-      "Nehmen Sie die verwaltete Option, wenn der Assistent online sein soll, ohne dass Sie einen Server installieren oder einrichten, und Hostinger Updates, Backups und Sicherheit übernimmt.",
-      "Nehmen Sie den VPS, wenn Sie Root-Zugriff wollen und weitere Programme auf demselben Server betreiben, etwa eine Website oder n8n."
+      "Sie den Assistenten online haben wollen, ohne einen Server zu installieren oder einzurichten, und Hostinger Updates, Backups und Sicherheit übernimmt (verwaltet).",
+      "Sie Root-Zugriff wollen und weitere Programme auf demselben Server betreiben, etwa eine Website oder n8n (VPS)."
     ],
     "skipIf": [
-      "Lassen Sie den VPS aus, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
-      "Lassen Sie die verwaltete Option aus, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen.",
-      "Lassen Sie beide aus, wenn derselbe Assistent Personen bedienen soll, die einander nicht vertrauen: Sie sollten kein Gateway teilen. Ein Team mit gegenseitigem Vertrauen braucht eine andere Bewertung; es gibt keine allgemeine Regel eines Servers pro Person."
+      "Sie nicht wissen, was Root oder Docker ist, und an den VPS denken: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
+      "Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen, was die verwaltete Option nicht bietet.",
+      "derselbe Assistent Personen bedienen soll, die einander nicht vertrauen: Sie sollten kein Gateway teilen."
     ]
   }
 }

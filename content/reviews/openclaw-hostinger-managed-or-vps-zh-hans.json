@@ -34,7 +34,7 @@
   "metaDescription": "OpenClaw 在 Hostinger 选托管还是 VPS：AI 额度、Telegram 和 WhatsApp，以及谁来维护服务器。",
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -168,12 +168,13 @@
       "postParagraphs": [
         "**如果符合以下情况，选 VPS：** 你需要 root 权限，并想在同一台服务器上运行网站或 n8n 等其他程序；你熟悉服务器，或想学习，并愿意自己维护系统的更新和安全；或者你需要更多内存和硬盘。KVM 套餐提供 4 GB 到 32 GB 的内存。",
         "**拿不定主意，就从托管开始。** 它首期花费更少，也不需要服务器知识。"
-      ]
+      ],
+      "emphasis": "从对比表来看，想让 OpenClaw 运行又不想管服务器的人，答案是托管，因为更新和安全由 Hostinger 负责，而 VPS 这两件事都要自己来。"
     },
     {
       "heading": "优惠码 SONAR20",
       "paragraphs": [
-        "在购物车输入 **SONAR20**：符合条件的新购首期享 20% 折扣，月付、年付均可，已有账户的新购同样适用。域名注册及续费不适用；续费按标价收费。条件请看 [SONAR20 使用说明](/zh-hans/reviews/hostinger-referral-code-zh-hans) 与 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+        "在购物车输入 **SONAR20**：符合条件的新购首期享 20% 折扣，已有账户的新购同样适用。12、24、48 个月的周期适用 20%；1 个月的套餐是否接受，取决于套餐本身，付款前请在购物车确认“Coupon applied”那一行。域名注册及续费不适用；续费按标价收费。条件请看 [SONAR20 使用说明](/zh-hans/reviews/hostinger-referral-code-zh-hans) 与 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
       ],
       "postParagraphs": [
         "Hostinger 正在进行黑五活动，价格会变动。请看[Hostinger 黑五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，付款前在购物车确认金额。"
@@ -182,17 +183,11 @@
     {
       "heading": "常见问题",
       "bullets": [
+        "Hostinger 的优惠码是什么？Hostinger 优惠码是 SONAR20，符合条件的新购首期享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”那一行。续费按标价收费，没有折扣。",
         "OpenClaw 的托管套餐值得买吗？对于不想管理服务器的人来说值得：首期比 VPS 便宜，续费价格相同。需要 root 权限并想在服务器上运行其他程序的人，更适合 VPS。",
         "需要 OpenAI 或 Anthropic 账户吗？不需要。两种方式都可以使用 Hostinger 的 AI 额度。只有想用自己的 API 密钥时，才需要该服务商的账户。",
-        "OpenClaw 有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首期享 20% 折扣。",
         "托管套餐能用于 Hermes Agent 或 Paperclip 吗？可以。三者都在“AI 自动化应用”这同一套餐中，价格也相同。Paperclip 的页面没有列出 AI 额度，所以请自备密钥。",
         "已有客户也能用 SONAR20 吗？同一账户符合条件的新购可以适用，但当前服务的续费不适用。首个合同期间享 20% 折扣，域名注册也除外。请确认购物车总额。"
-      ]
-    },
-    {
-      "heading": "谁在写这篇文章",
-      "paragraphs": [
-        "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App。Bruno 从 2024 年起就是客户，使用主机服务和一台 VPS KVM 2。团队中没有人使用 OpenClaw。本文整理自 Hostinger 页面和 OpenClaw 官方文档的说明。"
       ]
     }
   ],
@@ -226,7 +221,7 @@
     "skipIf": [
       "如果你不知道 root 或 Docker 是什么，就别选 VPS：更新和保护系统都要由你来做。",
       "如果你需要 root 权限，或更多内存和硬盘，就别选托管。",
-      "不要让彼此不信任的用户共享同一网关。彼此信任的团队需要另外评估，并非一律每人一台服务器。"
+      "如果要让彼此不信任的用户共用同一个助理，两者都别选：他们不该共享同一网关。"
     ]
   }
 }

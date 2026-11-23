@@ -4,7 +4,7 @@
   "locale": "de",
   "translationKey": "hostinger-openclaw-melhor-vps",
   "title": "Bester VPS für OpenClaw: Anforderungen und welcher KVM-Tarif passt",
-  "seoTitle": "Bester VPS für OpenClaw: welcher KVM-Tarif von Hostinger passt",
+  "seoTitle": "Bester VPS für OpenClaw: welcher KVM-Tarif passt",
   "type": "Hosting-Ratgeber",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -34,7 +34,7 @@
   "metaDescription": "Bester VPS für OpenClaw ohne offiziellen RAM-Mindestwert: der KVM-Tarif je Szenario, mit Cloud- oder lokalem Modell.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-de-v2.webp",
@@ -221,30 +221,25 @@
         "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts; die Leistung hängt von Modell und Kontext ab. Der KVM 8 mit 32 GB ist nur mit einem größeren lokalen Modell sinnvoll.",
         "Wer sich nicht um einen Server kümmern will: der verwaltete Weg, bei dem Hostinger den Assistenten installiert und aktualisiert.",
         "Zum Testen ohne Bezahlung: Oracle Always Free, mit dem Wissen, dass Oracle eine ungenutzte Instanz zurückholen kann."
-      ]
+      ],
+      "emphasis": "Laut Tabelle ist für alle, die das KI-Modell beim Anbieter laufen lassen, der KVM 1 mit 4 GB die richtige Wahl; für ein lokales Modell ist es der KVM 4 mit 16 GB, weil er der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts ist."
     },
     {
       "heading": "Gutschein SONAR20",
       "paragraphs": [],
       "postParagraphs": [
-        "**SONAR20**: **20 % im ersten Zeitraum** eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen. Die Schritte stehen unter [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Bedingungen auf [der Hostinger-Seite dieser Website](/de/coupons/hostinger)."
+        "**SONAR20**: **20 % im ersten Zeitraum** eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Bei Laufzeiten von 12, 24 und 48 Monaten gelten die 20 %; bei 1-Monats-Tarifen hängt die Annahme vom Tarif ab, prüfen Sie also die Zeile „Coupon applied“ im Warenkorb, bevor Sie bezahlen. Die Schritte stehen unter [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Bedingungen auf [der Hostinger-Seite dieser Website](/de/coupons/hostinger)."
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutschein? Der Hostinger-Gutschein ist SONAR20, mit 20 % Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Festplatte; die stabile Version verlangt Node 24.22.1 oder neuer (oder 26.12.1). Mit API-Schlüssel oder Guthaben ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell gilt die Untergrenze von 8 GiB nur für das kleinste Rezept, und der KVM 4 ist dafür der erste mit Reserve.",
         "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
         "Ist Oracle wirklich kostenlos? Das kann es sein, innerhalb der Always-Free-Grenzen und je nach regionaler Verfügbarkeit. Oracle kann eine ungenutzte Instanz anhand der Kriterien zur Auslastung von CPU, Netzwerk und, bei den A1, Speicher zurückholen, die Oracle veröffentlicht. Die Ressourcen und Bedingungen finden Sie oben.",
         "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nein, wählen Sie VPS oder den verwalteten Weg.",
-        "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %, außer bei der Domainregistrierung. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
-      ]
-    },
-    {
-      "heading": "Wer schreibt",
-      "paragraphs": [
-        "Em Casa com Cecília läuft bei Hostinger, als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt OpenClaw: Dieser Text fasst zusammen, was Hostinger, Oracle und die offizielle OpenClaw-Dokumentation sagen."
       ]
     }
   ],
@@ -273,13 +268,13 @@
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
-      "Nehmen Sie den KVM 1 mit 4 GB, wenn das KI-Modell beim Anbieter bleibt, über den API-Schlüssel oder das KI-Guthaben von Hostinger.",
-      "Nehmen Sie den KVM 4 mit 16 GB, wenn Sie ein lokales Modell betreiben: Er ist der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts."
+      "das KI-Modell beim Anbieter bleibt, über den API-Schlüssel oder das KI-Guthaben von Hostinger: Der KVM 1 mit 4 GB reicht.",
+      "Sie ein lokales Modell betreiben: Der KVM 4 mit 16 GB ist der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts."
     ],
     "skipIf": [
-      "Lassen Sie den KVM 1 aus, wenn Sie ein lokales Modell betreiben: 4 GB liegen unter der Untergrenze von 8 GiB des kleinsten lokalen Rezepts.",
-      "Lassen Sie den VPS aus, wenn Sie sich nicht um einen Server kümmern wollen: Sehen Sie sich den verwalteten Weg an, bei dem Hostinger den Assistenten installiert und aktualisiert.",
-      "Lassen Sie den KVM 8 aus, wenn Sie kein größeres lokales Modell nutzen."
+      "Sie ein lokales Modell betreiben und an den KVM 1 denken: 4 GB liegen unter der Untergrenze von 8 GiB des kleinsten lokalen Rezepts.",
+      "Sie sich nicht um einen Server kümmern wollen: Sehen Sie sich den verwalteten Weg an, bei dem Hostinger den Assistenten installiert und aktualisiert.",
+      "Sie kein größeres lokales Modell nutzen, denn der KVM 8 ist nur mit einem solchen sinnvoll."
     ]
   }
 }
