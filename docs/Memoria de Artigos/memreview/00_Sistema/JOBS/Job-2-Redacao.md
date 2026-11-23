@@ -74,7 +74,17 @@ Em Suplementos-Alimentos e Beleza, manter as restrições de recomendação e de
 - **Não repete a conclusão:** o cartão de destaque traz a decisão; o quadro diz para quem ela serve e para quem não.
 - **Família de 11 idiomas:** se o PT tem o quadro, todas as versões têm, com o mesmo número de frases e nenhuma igual à do PT (`test:review-i18n`). Quadro novo num artigo de família só entra junto com as 10 traduções.
 
+**Fechamento do guia e do comparativo (regras do Job 3):**
+- **`decision` em todo guia e comparativo:** `como-usar`, `primeira-compra` e `black-friday` também levam o quadro; só o artigo de produto fica sem. O texto das frases sai do "para quem / quando não" dos capítulos.
+- **Um `emphasis` assinado no capítulo final de conclusão:** o julgamento que a Cecília assinaria, nunca regra de checkout.
+- **FAQ do cupom:** uma pergunta literal "Qual é o cupom da <Loja>?", com a resposta em uma frase.
+- **Checkout no corpo:** toda instrução crítica (onde colar o código, mínimo, o que não soma, só cliente novo) está no texto do artigo. O botão final da loja (`ArticleStoreBlock`) ignora `cta.text` e `cta.label` quando a loja está ativa, então nada pode depender deles.
+
 **Para quem / quando não:** cada produto com capítulo próprio tem uma frase de para quem serve e uma de quando não escolher. Julgamento por perfil é o que a loja não faz: "a Heavy é para quem não quer a camiseta marcando o corpo; se usa por baixo do blazer no calor, fique na Tech".
+
+**Em reforma, preservar o que já existe:** as "contas nossas" do artigo (o que leva "Conta nossa:" ou "pela regra da loja, fica…") ficam 100% como estão, com os mesmos números e pressupostos, salvo preço ou regra que mudou. Reformar não reescreve a conta.
+
+**Sem capítulo de método e sem "Transparência":** nenhum capítulo "Como comparamos", "O que o guia permite escolher", "Como testamos" ou "Nota de transparência" (C7 e C3 do Job 3). A divulgação fica no `editorialNote`, e o método no vault. "Não testamos" e "sem avaliação nossa" aparecem só no `editorialNote`, nunca no corpo (C5).
 
 **Armadilha (o bloco que só o site tem):** diga o que a página deixa de fora e em que o leitor cai: o preço riscado de um kit, a comparação com o avulso, o cupom que não soma com a promoção. Mostre a conta em uma frase.
 
