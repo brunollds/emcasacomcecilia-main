@@ -17,7 +17,7 @@
   "metaDescription": "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site. O mesmo percentual vale para quem já comprou.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa-v2.webp",
@@ -34,30 +34,30 @@
   },
   "coupon": "MMEMCASACOMCECILIA",
   "affiliate": "mais-mu",
-  "editorialNote": "Cupom testado no checkout oficial da Mais Mu. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+  "editorialNote": "Cupom testado no checkout oficial da Mais Mu. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "cupom-mais-mu-como-usar"
     },
     {
-      "slug": "mais-mu-e-confiavel"
+      "slug": "black-friday-mais-mu"
     },
     {
-      "slug": "mais-mu-reclame-aqui-nota-reputacao"
+      "slug": "mais-mu-e-boa"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site oficial, também para quem já comprou. O código soma com as ofertas e com os 3% do Pix. O crédito de cashback não entra junto, porque é usado como outro cupom; confira abaixo o frete por região."
+        "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site oficial, também para quem já comprou. O código vale sobre os preços da Blue Friday e soma com os 3% do Pix. O crédito de cashback não entra junto, porque é usado como outro cupom; confira abaixo o frete por região."
       ]
     },
     {
       "heading": "Cupom Mais Mu primeira compra: qual usar",
       "paragraphs": [
-        "A Mais Mu vende suplementos e alimentos, como whey, creatina, barras e wafers. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
-        "Use o MMEMCASACOMCECILIA: 10% OFF em todos os produtos do site, combos inclusive. Ele vale no primeiro pedido e nos seguintes, e você digita o código direto no checkout.",
+        "A Mais Mu vende suplementos e alimentos, como whey, creatina, barras e wafers.",
+        "Use o MMEMCASACOMCECILIA: 10% OFF em todos os produtos do site, combos inclusive. Ele vale no primeiro pedido e nos seguintes, e você digita o código direto no checkout. Na segunda compra ele dá os mesmos 10%, e serve para repor o whey ou a creatina quando o pote acabar.",
         "É o [cupom Mais Mu](/cupons/mais-mu) da nossa parceria com a marca, testado no checkout. Whey, creatina, barra ou combo: o código é o mesmo."
       ]
     },
@@ -67,7 +67,7 @@
         "Para o primeiro pedido, confira onde o código entra, o que não soma com ele e o valor do frete grátis da sua região:"
       ],
       "bullets": [
-        "**Site oficial.** O código vai em “Adicionar cupom de desconto”, no checkout, depois de “Iniciar compra”. A Mais Mu não tem aplicativo, e o cupom não vale no Mercado Livre.",
+        "**Site oficial.** O código vai em “Adicionar cupom de desconto”, no checkout, depois de “Iniciar compra”. O cupom não vale no Mercado Livre.",
         "**Um cupom por pedido.** O crédito do cashback da loja chega como cupom, então ele não entra junto com o MMEMCASACOMCECILIA.",
         "**Frete grátis por região.** A loja informa: acima de R$ 299 no Sul, no Sudeste e no Centro-Oeste, e acima de R$ 399 no Norte e no Nordeste. Abaixo disso, o frete é calculado no checkout."
       ],
@@ -78,31 +78,31 @@
     {
       "heading": "Carrinho em oferta: onde entram o código e o Pix",
       "paragraphs": [
-        "O MMEMCASACOMCECILIA entra sobre os preços de oferta. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, um carrinho com uma creatina refil de 500 g e dois wheys Paçoquita de 450 g, os três em oferta, ficou assim:"
+        "O MMEMCASACOMCECILIA entra sobre os preços da campanha. No nosso teste de checkout mais recente, registrado na página do cupom, um carrinho com o whey concentrado baunilha refil de 900 g, a creatina sem sabor refil de 500 g e dois wheys Paçoquita de 450 g fechou com 10% de desconto sobre o subtotal."
       ],
       "comparisonTable": {
-        "caption": "Carrinho com uma creatina e dois wheys em oferta: valores do teste no checkout, antes do Pix e do frete.",
+        "caption": "Carrinho com um whey, uma creatina e dois wheys Paçoquita, nos preços do cartão da Blue Friday: valores do teste no checkout, antes do Pix e do frete.",
         "headers": [
           "Etapa",
           "Valor"
         ],
         "rows": [
           [
-            "Subtotal, com os preços de oferta",
-            "R$ 346,88"
+            "Subtotal, com os preços da campanha",
+            "R$ 556,13"
           ],
           [
             "Desconto do MMEMCASACOMCECILIA",
-            "- R$ 34,69"
+            "- R$ 55,61"
           ],
           [
             "Total com o código",
-            "R$ 312,19"
+            "R$ 500,52"
           ]
         ]
       },
       "postParagraphs": [
-        "Os 10% entraram sobre o subtotal inteiro, sem tirar nenhum item em oferta da conta. O código soma também com o desconto de 3% do Pix: escolha o Pix no pagamento e confira o total."
+        "Os 10% entraram sobre o subtotal inteiro, e a creatina de 210 g que a loja dá de brinde na Blue Friday seguiu no pedido. O código soma também com o desconto de 3% do Pix: escolha o Pix no pagamento e confira o total."
       ],
       "images": [
         {
@@ -112,12 +112,6 @@
           "objectFit": "square",
           "href": "https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g/"
         }
-      ]
-    },
-    {
-      "heading": "E na segunda compra?",
-      "paragraphs": [
-        "Você pode usar o MMEMCASACOMCECILIA de novo: ele dá os mesmos 10% para quem já comprou. Serve para repor o whey ou a creatina quando o pote acabar."
       ]
     },
     {
@@ -140,13 +134,41 @@
       "imageFit": "contain"
     },
     {
+      "heading": "Vale a pena usar o cupom na primeira compra?",
+      "emphasis": "Para a primeira compra na Mais Mu, eu iria no site oficial, abriria o checkout pelo Iniciar compra e aplicaria o MMEMCASACOMCECILIA antes de escolher o Pix.",
+      "paragraphs": [
+        "Vale: são 10% em todo o site, sem depender de ser cliente novo, e o código serve de novo nas compras seguintes. O que pode atrapalhar é ter crédito de cashback, que não soma, ou ficar perto do mínimo do frete grátis da sua região."
+      ],
+      "links": [
+        {
+          "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+          "href": "https://www.lojamaismu.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Mais Mu",
+          "href": "/cupons/mais-mu"
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como conseguir desconto na primeira compra na Mais Mu? O MMEMCASACOMCECILIA dá 10% em todo o site, no primeiro pedido e nos seguintes.",
+        "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele vale na primeira compra e nas seguintes.",
         "Qual cupom Mais Mu vale para quem já é cliente? O mesmo MMEMCASACOMCECILIA, com os mesmos 10%.",
         "O cupom Mais Mu soma com o Pix? Sim, com os 3% de desconto da loja no Pix.",
         "O cupom Mais Mu vale no Mercado Livre? Não. Ele vale no site oficial da Mais Mu."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Use o cupom se é a sua primeira compra na Mais Mu: os 10% entram direto no checkout.",
+      "Use também se já comprou antes: o mesmo código vale de novo."
+    ],
+    "skipIf": [
+      "Passe se você tem crédito de cashback para gastar: em cada pedido vale um só cupom.",
+      "Passe se prefere o Mercado Livre: lá o cupom não vale."
+    ]
+  }
 }

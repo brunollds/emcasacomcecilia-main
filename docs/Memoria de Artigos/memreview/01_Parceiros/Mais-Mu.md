@@ -27,6 +27,8 @@ Dr. Peanut e Black Skull).
 | Sem link de afiliado: `offerUrl` é o site oficial | condicao_comercial_volatil | `offerUrl` em `src/lib/couponsData.ts` | 2026-10-20 | 2026-11-20 | A atribuição é pelo cupom | Alta |
 | Link de afiliado da marca no Mercado Livre: `https://meli.la/24RjvdP` | condicao_comercial_volatil | Bruno, 20/10/2026; `mercadoLivreUrl` no FAQ | 2026-10-20 | 2026-11-20 | O cupom não vale no Mercado Livre; lá vale o preço do anúncio | Alta |
 
+Teste do Lote 7A, 2026-11-23 (Chrome, Carrinho → Iniciar compra, sem dados pessoais): na Blue Friday ("compre qualquer produto e ganhe uma Creatina pote 210 g", enquanto durar o estoque, sem data de fim), o MMEMCASACOMCECILIA deu 10% sobre os preços da campanha: R$ 556,13 → R$ 500,52, com a creatina de brinde no pedido. A vitrine destaca o preço do Pix (3% OFF); o cartão é o Pix ÷ 0,97. O checkout mostrou cashback de 10% do valor na campanha (não citar percentual nos textos). Reclame Aqui em 23/11: 6 meses Boa 7,1 (109; 95,4% respondidas; 78,2% resolvidas; 56,4% voltariam); 12 meses Boa 7,4 (297); 2025 Ótima 8,0 (287); Geral Boa 7,7 (776); histórico mai–jun Boa, jul–set Regular, out Boa; RA Reviews 4,8 em 544 avaliações. Sem selo Empresa Verificada.
+
 Teste de checkout em 2026-10-20 (sem finalizar e sem dados pessoais): Whey Protein Concentrado
 Paçoquita 450 g (R$ 159,99) e Creatina 100% Pura Sem Sabor refil 500 g em oferta (R$ 79,90, de
 R$ 119,00); subtotal de R$ 239,89; com o cupom, "Desconto do cupom − R$ 23,99" e total de R$ 215,90.

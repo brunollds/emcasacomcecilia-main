@@ -17,6 +17,7 @@
   },
   "publishedAt": "13 de novembro de 2026",
   "publishedAtISO": "2026-11-13",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -25,7 +26,7 @@
   "cons": [],
   "coupon": "CECILIA",
   "affiliate": "la-ganexa",
-  "description": "A nota da La Ganexa no Reclame Aqui, o que mais gera reclamação e os prazos que a loja informa para avisar de avaria e pedir devolução, com o que conferir na entrega.",
+  "description": "A nota da La Ganexa no Reclame Aqui, o selo Empresa Verificada, o que mais gera reclamação e os prazos que a loja informa para avisar de avaria e pedir devolução.",
   "metaDescription": "CECILIA dá 10% OFF na La Ganexa. Antes, veja a nota no Reclame Aqui, o que mais gera reclamação e o que conferir quando o pedido chega.",
   "image": "/images/reviews/laganexa/la-ganexa-reclame-aqui-nota-reputacao-capa-v2.webp",
   "imageAlt": "Caixa de cookies de cacau com gotas de chocolate da La Ganexa sobre uma mesa com biscoitos, em imagem oficial da loja, com logo, “La Ganexa no Reclame Aqui” e cupom CECILIA.",
@@ -35,7 +36,7 @@
     "url": "https://lojalaganexa.com.br/",
     "sponsored": true
   },
-  "editorialNote": "Feito com os dados públicos do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Dados públicos do Reclame Aqui. Não usamos os produtos. Podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "la-ganexa-e-confiavel"
@@ -54,16 +55,16 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A La Ganexa vai bem no Reclame Aqui: o perfil La Ganexa Produtos Alimentícios teve reputação Ótima e nota 9,2 de maio a outubro de 2026, e respondeu 100% das 40 reclamações recebidas. No histórico de até três anos, atraso na entrega é o problema mais citado. Para avarias, a loja pede aviso em até 48 horas após o recebimento."
+        "A La Ganexa tem reputação Ótima e nota 9,2 no Reclame Aqui nos seis meses de maio a outubro de 2026, com selo Empresa Verificada e as 40 reclamações respondidas. O ponto de atenção é o atraso na entrega, o problema mais citado no histórico de três anos. O cupom CECILIA dá 10% OFF no site oficial."
       ]
     },
     {
       "heading": "A nota em números",
       "paragraphs": [
-        "O perfil tem o selo de empresa verificada. Nos seis meses da tabela, a empresa respondeu todas as reclamações, em pouco mais de um dia, e mais de nove em cada dez aparecem como resolvidas. Veja os demais indicadores do período:"
+        "A tabela traz os indicadores da aba de seis meses do perfil La Ganexa Produtos Alimentícios. Nesse período, a empresa respondeu todas as reclamações, em pouco mais de um dia."
       ],
       "comparisonTable": {
-        "caption": "Perfil La Ganexa Produtos Alimentícios no Reclame Aqui, aba de 6 meses (maio a outubro de 2026), lida em 13 de novembro de 2026.",
+        "caption": "Perfil La Ganexa Produtos Alimentícios no Reclame Aqui, aba de 6 meses (maio a outubro de 2026), conferida em 23 de novembro de 2026.",
         "headers": [
           "Indicador",
           "6 meses"
@@ -107,17 +108,15 @@
           ]
         ]
       },
-      "images": [
-        {
-          "src": "/images/reviews/laganexa/la-ganexa-reclame-aqui-painel-6-meses.webp",
-          "alt": "Painel do Reclame Aqui do perfil La Ganexa Produtos Alimentícios na aba de 6 meses, em duas colunas: reputação Ótima, nota 9,2, 40 reclamações recebidas, 100% respondidas, 93,5% resolvidas, 90,3% voltariam a fazer negócio, nota média do consumidor 8,68 e tempo médio de resposta de 1 dia e 5 horas",
-          "caption": "Painel de seis meses do perfil no Reclame Aqui. Na imagem, as duas metades do painel aparecem lado a lado.",
-          "objectFit": "contain",
-          "aspectRatio": 1.2068
-        }
-      ],
       "postParagraphs": [
         "Os indicadores são do Reclame Aqui, não da marca, e valem só para o período da tabela."
+      ]
+    },
+    {
+      "heading": "O que a nota e o selo medem, e o que não medem",
+      "paragraphs": [
+        "A nota do Reclame Aqui mede como a empresa trata as reclamações dentro da plataforma: se responde, se resolve e como o consumidor avalia o atendimento. Ela não mede o sabor nem a qualidade do pote, e muda com o tempo.",
+        "No perfil há três coisas diferentes. A reputação (Ótima ou RA1000) e a nota 9,2 vêm do atendimento na plataforma. A média de 8,68 é a que os consumidores deram nas 32 reclamações avaliadas. O selo Empresa Verificada aparece no topo do perfil e não é uma nota."
       ]
     },
     {
@@ -161,20 +160,28 @@
             "91,2%"
           ]
         ]
-      },
-      "postParagraphs": [
-        "O perfil está no Reclame Aqui há quatro anos e aparece em 4º lugar em “Melhor empresa”, na categoria Fabricantes MultiMarcas. Esse ranking muda com o tempo."
+      }
+    },
+    {
+      "heading": "Pontos positivos identificados",
+      "bullets": [
+        "**Reputação e selos.** Reputação Ótima nos seis meses, RA1000 nas abas de 12 meses, 2025 e Geral, e o selo Empresa Verificada no topo do perfil.",
+        "**Tempo de perfil.** A La Ganexa está no Reclame Aqui há quatro anos.",
+        "**Resposta.** Todas as 40 reclamações do semestre foram respondidas, em 1 dia e 5 horas em média.",
+        "**Solução e volta.** 93,5% aparecem como resolvidas e 90,3% dos consumidores voltariam a fazer negócio. Os dois índices valem para as reclamações finalizadas e avaliadas, não para todos os clientes.",
+        "**Nota dos consumidores.** A média foi 8,68 nas 32 avaliadas.",
+        "**Histórico.** De 2025 para cá, a nota ficou acima de 9, depois dos 8,5 de 2024."
       ]
     },
     {
-      "heading": "O que mais gera reclamação",
+      "heading": "Pontos que merecem atenção",
       "paragraphs": [
-        "Atraso na entrega é o problema mais citado: 35,54% dos problemas comentados na aba geral, que cobre três anos. É a classificação das reclamações publicadas, não um percentual dos pedidos.",
-        "Nas reclamações mais recentes, o que se repete é produto que chega aberto ou com problema. Há reclamações de pasta e de embalagem abertas na entrega e de sabor estragado ao abrir, sem causa apontada. Em uma delas, a empresa diz que usa caixas reforçadas e que a avaria pode ter ocorrido no transporte. Em outra, a empresa diz que a compra foi feita em outro canal de venda, cuja plataforma cuida da embalagem e do transporte.",
+        "Atraso na entrega é o problema mais citado: 35,54% dos problemas comentados na aba Geral, que cobre três anos. É a classificação das reclamações publicadas, não um percentual dos pedidos.",
+        "Os 40 registros do semestre são um número absoluto. Sem o total de pedidos da loja, ele não vira taxa de reclamação, e 32 avaliadas é uma base pequena para generalizar.",
+        "Nas reclamações mais recentes, o que se repete é produto que chega aberto ou com problema: pasta e embalagem abertas na entrega e sabor estragado ao abrir, sem causa apontada. Em uma delas, a empresa diz que usa caixas reforçadas e que a avaria pode ter ocorrido no transporte. Em outra, diz que a compra foi feita em outro canal de venda, cuja plataforma cuida da embalagem e do transporte.",
         "Também há pedido marcado como entregue que não chegou ao consumidor. No caso lido, a loja abriu contestação com a transportadora e prometeu reenvio ou estorno; o consumidor relatou depois que os produtos chegaram.",
-        "Uma reclamação recente contesta o preço “de” de uma oferta de Black Friday, e a loja diz que as promoções são progressivas ao longo de novembro, com descontos maiores conforme o mês avança. O [guia da campanha](/reviews/black-friday-la-ganexa) mostra o preço lido em cada oferta.",
-        "Uma reclamação sobre a pasta Leitinho diz que o pote de 1 kg não tem gotas de chocolate, como nas propagandas, e reclama do jeito do atendimento. A empresa responde que a informação de que só o pote de 450 g tem a separação do chocolate está na descrição curta, com destaque, e que a foto do 1 kg traz o aviso de que não há separação. Ela nega omissão e deboche. A reclamação terminou como resolvida.",
-        "Outra reclamação sobre a mesma pasta tem mais de três anos e já não conta para a nota do perfil. Se for levar o pote de 1 kg, leia a descrição e veja a foto desse tamanho antes de fechar o pedido."
+        "Uma reclamação recente contesta o preço “de” de uma oferta de Black Friday, e a loja diz que as promoções são progressivas ao longo do mês. O [guia da campanha](/reviews/black-friday-la-ganexa) mostra o preço lido em cada oferta.",
+        "Uma reclamação sobre a pasta Leitinho diz que o pote de 1 kg não tem gotas de chocolate, como nas propagandas. A empresa responde que só o pote de 450 g tem a separação do chocolate, informação que está na descrição curta e na foto do 1 kg, e nega omissão. A reclamação terminou como resolvida. Quem vai levar o pote de 1 kg lê a descrição e vê a foto desse tamanho antes de fechar o pedido."
       ],
       "images": [
         {
@@ -187,50 +194,61 @@
       ]
     },
     {
-      "heading": "Qual perfil é a La Ganexa",
+      "heading": "Como a loja responde e o que conferir antes de comprar",
       "paragraphs": [
-        "O perfil certo é “LA GANEXA PRODUTOS ALIMENTICIOS”, com o CNPJ 31.315.158/0001-84, o mesmo do rodapé de lojalaganexa.com.br. O rodapé da loja também tem um link direto para esse perfil.",
-        "A busca por “la ganexa” no Reclame Aqui também mostra a “LOJA GANEXA LTDA”, cujo perfil está na categoria de tabacaria e dispositivos eletrônicos. Não é o perfil para onde o rodapé da loja aponta, então compare o CNPJ e o nome antes de ler uma nota.",
-        "Na página “Sobre”, a loja diz que a fábrica fica em Peruíbe (SP) e que também vende ao público.",
-        "Para a origem da marca e o site oficial, veja [La Ganexa é confiável?](/reviews/la-ganexa-e-confiavel)."
-      ]
-    },
-    {
-      "heading": "Como evitar dor de cabeça",
-      "paragraphs": [
-        "Ao comprar, confira se está em lojalaganexa.com.br e o prazo para o seu CEP. Quando o pedido chegar, examine a caixa antes de abrir. Os prazos abaixo são os da política da loja."
+        "O perfil certo é “LA GANEXA PRODUTOS ALIMENTICIOS”, com o CNPJ 31.315.158/0001-84, o mesmo do rodapé de lojalaganexa.com.br, que tem um link direto para ele. A busca por “la ganexa” também mostra a “LOJA GANEXA LTDA”, de tabacaria e dispositivos eletrônicos: compare o CNPJ e o nome antes de ler uma nota. Para a origem da marca, veja [La Ganexa é confiável?](/reviews/la-ganexa-e-confiavel).",
+        "Os prazos abaixo são os da política da loja."
       ],
       "bullets": [
-        "**Compra no site.** Nas reclamações de compra por marketplace, a empresa diz que não fez a venda diretamente. Compre em lojalaganexa.com.br.",
-        "**CEP e prazo.** Confira o CEP no checkout. A política de frete diz que o pedido é postado em até 24 horas úteis depois da confirmação do pagamento (as perguntas frequentes da loja falam em 1 a 2 dias úteis) e que a entrega leva, em média, de 2 a 5 dias úteis depois da postagem.",
-        "**Tentativas de entrega.** A transportadora tenta a entrega até três vezes. Se ninguém receber, o pacote pode voltar à fábrica, e um novo envio cobra frete de novo.",
+        "**Compra no site.** Nas reclamações de compra por marketplace, a empresa diz que não fez a venda diretamente. Compre em lojalaganexa.com.br; o checkout abre em seguro.lojalaganexa.com.br, no domínio da loja.",
+        "**CEP e prazo.** A política de frete diz que o pedido é postado em até 24 horas úteis depois da confirmação do pagamento (as perguntas frequentes falam em 1 a 2 dias úteis) e que a entrega leva, em média, de 2 a 5 dias úteis depois da postagem.",
+        "**Tentativas de entrega.** A transportadora tenta até três vezes. Se ninguém receber, o pacote pode voltar à fábrica, e um novo envio cobra frete de novo.",
         "**Caixa na chegada.** Se a embalagem vier avariada ou o produto danificado, não abra, tire fotos e avise a loja em até 48 horas depois do recebimento.",
-        "**Devolução.** O pedido tem de ser feito em até 7 dias corridos depois do recebimento. O produto volta sem uso, na embalagem original e com nota fiscal, junto com todos os itens da solicitação."
-      ]
-    },
-    {
-      "heading": "Se der problema",
-      "paragraphs": [
-        "Fale primeiro com a loja: o WhatsApp é (13) 99630-5971. No perfil do Reclame Aqui, o horário informado é de segunda a quinta, das 8h às 18h, e na sexta, das 8h às 17h. Se o contato não resolver, você também pode registrar a queixa no Reclame Aqui.",
-        "A devolução se pede pelo WhatsApp ou pelo Instagram da loja, com o motivo e o número do pedido, e às vezes a loja pede fotos. Se não houver logística reversa no seu CEP, você posta o produto por conta própria e a loja reembolsa o valor da postagem.",
+        "**Devolução.** O pedido tem de ser feito em até 7 dias corridos depois do recebimento, com o produto sem uso, na embalagem original e com nota fiscal."
+      ],
+      "postParagraphs": [
+        "Fale primeiro com a loja: o WhatsApp é (13) 99630-5971, e o perfil no Reclame Aqui informa atendimento de segunda a quinta, das 8h às 18h, e na sexta, das 8h às 17h. A devolução se pede pelo WhatsApp ou pelo Instagram da loja, com o motivo e o número do pedido, e às vezes a loja pede fotos. Sem logística reversa no seu CEP, você posta por conta própria e a loja reembolsa a postagem.",
         "Se o pedido se perder no transporte, a política de frete diz que a loja devolve o valor integral dos produtos. Guarde o código de rastreio, que chega por e-mail."
       ]
     },
     {
-      "heading": "O que os números indicam",
+      "heading": "Vale a pena comprar na La Ganexa?",
       "paragraphs": [
-        "Pelos números, dá para confiar, com atenção à entrega: nos últimos seis meses, o perfil mostra todas as reclamações respondidas e 93,5% resolvidas, e atraso na entrega é o problema mais citado no histórico de três anos. Confira o prazo para o seu CEP e examine a caixa quando chegar.",
-        "Se decidir comprar, o CECILIA dá 10% OFF no site oficial. As condições estão na página do [cupom La Ganexa](/cupons/la-ganexa)."
+        "Pelos números do perfil, a La Ganexa responde às reclamações e resolve a maior parte; o que pede atenção é a entrega e a caixa na chegada. Confira o prazo do seu CEP no carrinho e examine a embalagem no dia do recebimento.",
+        "Para pagar com o CECILIA, monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos. As condições estão na página do [cupom La Ganexa](/cupons/la-ganexa) e o passo a passo, em [como usar o CECILIA](/reviews/cupom-la-ganexa-como-usar)."
+      ],
+      "emphasis": "Pelo que o perfil mostra, eu compraria na La Ganexa pelo site oficial e, no primeiro pedido, conferiria o prazo do meu CEP no carrinho e a caixa no dia da entrega.",
+      "links": [
+        {
+          "label": "Ir para a La Ganexa com o CECILIA",
+          "href": "https://lojalaganexa.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom La Ganexa",
+          "href": "/cupons/la-ganexa"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A La Ganexa é confiável no Reclame Aqui? O perfil verificado tem reputação Ótima nos últimos seis meses, e o capítulo sobre a nota mostra o que está por trás dela.",
-        "A La Ganexa responde as reclamações? Sim. Em todas as abas lidas, o perfil aparece com 100% das reclamações respondidas, e o tempo médio de resposta muda de uma aba para outra.",
-        "O que fazer se o pedido da La Ganexa chegou aberto? Fotografe a embalagem e fale com a loja. A política pede aviso de avaria em até 48 horas e, para troca, orienta não abrir a embalagem. O passo a passo está em Como evitar dor de cabeça.",
+        "Qual é o cupom da La Ganexa? O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento. Digite o código no checkout, em “Inserir cupom de desconto”.",
+        "A La Ganexa tem boa nota no Reclame Aqui? Tem reputação Ótima e nota 9,2 na aba de seis meses, e o perfil traz o selo Empresa Verificada. Os números do período estão na tabela do capítulo da nota.",
+        "A La Ganexa responde às reclamações? Sim. Em todas as abas lidas, o perfil aparece com 100% das reclamações respondidas, e o tempo médio de resposta muda de uma aba para outra.",
+        "O que fazer se o pedido da La Ganexa chegou aberto? Fotografe a embalagem e fale com a loja. A política pede aviso de avaria em até 48 horas e, para troca, orienta não abrir a embalagem. Os prazos estão no capítulo sobre o que conferir antes de comprar.",
         "Em quanto tempo a La Ganexa entrega? A loja diz que o pedido sai em até 24 horas úteis depois do pagamento e que a entrega leva, em média, de 2 a 5 dias úteis depois da postagem, podendo variar por região."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer saber, antes do primeiro pedido, se a loja responde e resolve reclamações: nos seis meses lidos, respondeu todas.",
+      "Você já decidiu comprar e quer saber o que conferir na caixa e no prazo do seu CEP."
+    ],
+    "skipIf": [
+      "Você precisa da entrega em data fixa: atraso é o problema mais citado, e o prazo real só aparece no carrinho com o seu CEP.",
+      "Você prefere comprar por marketplace: nas reclamações desse caso, a loja diz que a plataforma cuida da venda e do transporte."
+    ]
+  }
 }

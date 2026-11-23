@@ -3,7 +3,7 @@
   "slug": "wafer-proteico-qual-escolher",
   "locale": "pt",
   "title": "Wafer proteico: qual escolher por preço, porção e composição",
-  "seoTitle": "Wafer proteico: qual escolher",
+  "seoTitle": "Wafer proteico: Mais Mu ou Dr. Peanut? Preço e rótulo",
   "type": "Comparativo de Snacks",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "Chocowheyfer, Max, Veggie Wafer e Doctor Wafer: compare preço com código, tamanho da unidade e da compra, proteína e composição antes de escolher.",
-  "metaDescription": "MMEMCASACOMCECILIA dá 10% na Mais Mu. Compare wafers por preço, proteína e tamanho da compra, incluindo a unidade avulsa da Dr. Peanut.",
+  "metaDescription": "MMEMCASACOMCECILIA e DREMCASACOMCECILIA dão 10% na Mais Mu e na Dr. Peanut. Wafers comparados por preço, proteína e tamanho da compra.",
   "publishedAt": "14 de novembro de 2026",
   "publishedAtISO": "2026-11-14",
   "draft": false,
@@ -31,7 +31,7 @@
       "Você prefere uma unidade maior: o Chocowheyfer Max, com uma caixa e um desembolso maiores."
     ],
     "skipIf": [
-      "Você precisa de wafer zero lactose ou sem glúten: os rótulos lidos aqui declaram os dois, e o Max pede a conferência da embalagem.",
+      "Você precisa de wafer zero lactose ou sem glúten: os rótulos lidos aqui dizem que contêm lactose e glúten, e a página do Max não traz o aviso.",
       "Você escolheu o Veggie para evitar leite: o aviso da página diz que ele pode conter leite."
     ]
   },
@@ -41,7 +41,7 @@
     "mais-mu",
     "dr-peanut"
   ],
-  "editorialNote": "Comparação de preços e rótulos; não provamos os produtos. Podemos receber comissão da Mais Mu e da Dr. Peanut.",
+  "editorialNote": "Preço e rótulo, sem provar os produtos. Podemos receber comissão das duas lojas.",
   "relatedArticles": [
     {
       "slug": "barra-de-proteina-mais-mu-qual-escolher"
@@ -74,22 +74,22 @@
         "rows": [
           [
             "Uma unidade para experimentar",
-            "Doctor Wafer",
+            "[Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-doce-de-leite/p)",
             "Compra avulsa, com custo maior por proteína"
           ],
           [
             "Menor custo por proteína",
-            "Chocowheyfer Sem Cobertura",
+            "[Chocowheyfer Sem Cobertura](https://www.lojamaismu.com.br/produtos/chocowheyfer-sem-cobertura-chocolate-rm7ps/)",
             "Caixa de 12; menor valor entre os selecionados"
           ],
           [
             "Uma unidade maior",
-            "Chocowheyfer Max",
+            "[Chocowheyfer Max](https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/)",
             "Wafer de 50 g, em caixa de 20"
           ],
           [
             "Receita com proteína vegetal",
-            "Veggie Wafer",
+            "[Veggie Wafer](https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-vegetal-300g/)",
             "Proteína de ervilha; o aviso diz que pode conter leite"
           ]
         ]
@@ -98,7 +98,7 @@
     {
       "heading": "Preço por wafer e por grama de proteína",
       "paragraphs": [
-        "Os preços são dos sites em 14 de novembro de 2026 e já incluem o código de 10% de cada loja, sem frete e sem o desconto do Pix. O primeiro valor usa o preço de referência; a oferta do dia aparece à parte."
+        "Os preços de referência são dos sites em 14 de novembro de 2026; na Mais Mu, a oferta é a da Blue Friday, no cartão em 23/11. Todos já incluem o código de 10% de cada loja, sem frete e sem o desconto do Pix. Em cada célula, o primeiro valor é o de referência, e o segundo, o da oferta."
       ],
       "comparisonTable": {
         "caption": "Nos produtos vendidos em caixa, o custo por unidade é uma conta nossa: a compra é da caixa inteira.",
@@ -201,7 +201,7 @@
       "heading": "Ingredientes e avisos de leite, lactose e glúten",
       "paragraphs": [
         "A Mais Mu apresenta o Veggie Wafer como vegetal e usa proteína de ervilha na lista de ingredientes. O aviso da página informa que ele pode conter leite e que contém glúten. O nome “vegetal” não substitui a leitura dos alergênicos.",
-        "As páginas do Chocowheyfer Chocolate, do Sem Cobertura Chocolate e da Doctor Wafer nos sabores Avelã e Doce de Leite declaram lactose e glúten. A página do Max Chocolate não traz essa declaração: confira a embalagem. Para os outros sabores, veja o aviso de cada página, sem transferir a informação de um sabor para outro.",
+        "As páginas do Chocowheyfer Chocolate, do Sem Cobertura Chocolate e da Doctor Wafer nos sabores Avelã e Doce de Leite declaram que contêm lactose e glúten. A página do Max Chocolate não traz essa declaração: confira a embalagem. Para os outros sabores, veja o aviso de cada página, sem transferir a informação de um sabor para outro.",
         "Para dúvidas sobre restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos."
       ],
       "images": [
@@ -227,37 +227,37 @@
         ],
         "rows": [
           [
-            "Sem Cobertura, Chocolate",
+            "[Sem Cobertura](https://www.lojamaismu.com.br/produtos/chocowheyfer-sem-cobertura-chocolate-rm7ps/), Chocolate",
             "25 g",
             "126 kcal",
             "0,3 g"
           ],
           [
-            "Chocowheyfer, Chocolate",
+            "[Chocowheyfer](https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-300g/), Chocolate",
             "25 g",
             "126 kcal",
             "0,4 g"
           ],
           [
-            "Veggie Wafer, Chocolate",
+            "[Veggie Wafer](https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-vegetal-300g/), Chocolate",
             "25 g",
             "121 kcal",
             "0,1 g"
           ],
           [
-            "Doctor Wafer, Doce de Leite",
+            "[Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-doce-de-leite/p), Doce de Leite",
             "25 g",
             "118 kcal",
             "2 g"
           ],
           [
-            "Doctor Wafer, Avelã",
+            "[Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p), Avelã",
             "25 g",
             "127 kcal",
             "1 g"
           ],
           [
-            "Chocowheyfer Max, Chocolate",
+            "[Chocowheyfer Max](https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/), Chocolate",
             "50 g",
             "260 kcal",
             "0,6 g"
@@ -277,7 +277,17 @@
       ]
     },
     {
-      "heading": "Códigos das duas lojas",
+      "heading": "Qual wafer proteico vale mais a pena?",
+      "paragraphs": [
+        "Cada código vale só na loja dele. No carrinho da Mais Mu, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. Na Dr. Peanut, digite o DREMCASACOMCECILIA no campo de cupom e confira o desconto no resumo do pedido."
+      ],
+      "emphasis": "Para gastar menos por grama de proteína, eu escolheria o Chocowheyfer Sem Cobertura, em caixa de 12. Para só experimentar o formato, eu iria na Doctor Wafer avulsa, somando o frete.",
+      "bullets": [
+        "Menor custo por proteína: o Chocowheyfer Sem Cobertura, na caixa de 12.",
+        "Uma unidade para experimentar: a Doctor Wafer, da Dr. Peanut, vendida avulsa.",
+        "Unidade maior: o Chocowheyfer Max, de 50 g, em caixa de 20, com desembolso maior.",
+        "Receita com proteína vegetal: o Veggie Wafer, que traz o aviso de que pode conter leite."
+      ],
       "comparisonTable": {
         "headers": [
           "Loja",
@@ -300,15 +310,29 @@
           ]
         ]
       },
+      "links": [
+        {
+          "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+          "href": "https://www.lojamaismu.com.br/",
+          "sponsored": true,
+          "store": "mais-mu"
+        },
+        {
+          "label": "Ir para a Dr. Peanut com o DREMCASACOMCECILIA",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true,
+          "store": "dr-peanut"
+        }
+      ],
       "postParagraphs": [
-        "Cada código vale só na loja dele. Confira o desconto no resumo do pedido; as regras com oferta e forma de pagamento estão nas páginas acima.",
-        "Se você ainda está escolhendo entre barra e wafer da mesma marca, veja o [guia de barras e wafers da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher). Para comparar outros formatos com os da Bendu, veja [alternativas à Bendu](/reviews/alternativas-a-bendu).",
-        "Se a dúvida é entre wafer e barra, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com seis barras de quatro lojas."
+        "As regras de cada código, com oferta e forma de pagamento, estão nas páginas de cada cupom acima.",
+        "Se a dúvida é entre wafer e barra, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com seis barras de quatro lojas, ou o [guia de barras e wafers da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher). Para comparar outros formatos com os da Bendu, veja [alternativas à Bendu](/reviews/alternativas-a-bendu)."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Mais Mu e o da Dr. Peanut? O cupom da Mais Mu é MMEMCASACOMCECILIA e o da Dr. Peanut é DREMCASACOMCECILIA, os dois com 10% OFF no site oficial de cada loja, em todas as formas de pagamento. Cada código vale só na loja dele.",
         "Qual wafer proteico custa menos por proteína? Entre os selecionados, o Chocowheyfer Sem Cobertura tem o menor valor com o código, na referência e na oferta. A compra é de uma caixa.",
         "Dá para comprar só uma unidade? A Doctor Wafer é vendida avulsa. Os wafers da Mais Mu comparados aqui são vendidos em caixa; compare também o frete.",
         "O Veggie Wafer é sem leite? A lista publicada usa proteína vegetal e não tem leite como ingrediente, mas o aviso diz que pode conter leite. Confira a embalagem para a sua restrição.",
@@ -317,5 +341,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-14"
+  "updatedAt": "2026-11-23"
 }

@@ -3233,17 +3233,17 @@ const STORE_COUPONS: Coupon[] = [
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre os produtos que já estão em promoção' },
       { benefit: 'pix', stacks: 'sim', condition: 'No Pix, a Mais Mu ainda tira os 3% de desconto dela' },
-      { benefit: 'cashback', stacks: 'depende', condition: 'A compra com o cupom gera cashback acima de R$ 250 já com o desconto; o crédito do cashback não vale junto com o cupom' },
+      { benefit: 'cashback', stacks: 'depende', condition: 'A compra com o cupom gera o cashback da loja, calculado sobre o total já com o desconto; o crédito do cashback não vale junto com o cupom' },
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja não acumula cupons no mesmo pedido' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste' },
     ],
     paymentPerks: [
       'Até 3x sem juros no cartão',
     ],
-    lastVerified: '2026-11-12',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-23',
+    testedAt: '2026-11-23',
     testNote:
-      'Aplicamos o MMEMCASACOMCECILIA num carrinho com uma creatina refil de 500 g, de R$ 119,90 por R$ 74,90, e dois wheys Paçoquita de 450 g, de R$ 159,99 por R$ 135,99 cada. O subtotal de R$ 346,88 teve R$ 34,69 de desconto, os 10%, e o total caiu para R$ 312,19; a compra ainda gerou cashback.',
+      'Na Blue Friday, aplicamos o MMEMCASACOMCECILIA num carrinho com o Whey Concentrado Baunilha refil de 900 g (R$ 209,25), a creatina refil de 500 g (R$ 74,90) e dois wheys Paçoquita de 450 g (R$ 271,98), todos com preço de campanha. O subtotal de R$ 556,13 teve R$ 55,61 de desconto, os 10%, e o total caiu para R$ 500,52; a creatina de 210 g que a loja dá de brinde na campanha entrou no pedido junto com o cupom.',
     codeInstructions: [
       'Copie o código MMEMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Mais Mu pelo botão indicado, coloque os produtos no carrinho e clique em "Iniciar compra".',
@@ -3254,13 +3254,18 @@ const STORE_COUPONS: Coupon[] = [
       'A Mais Mu é uma marca brasileira de proteína que começou com o whey "na garrafinha" e hoje vende whey concentrado, proteína vegetal, creatina, o pré-treino Exquenta, barras, Chocowheyfer e snacks salgados no site oficial. O cupom MMEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as ofertas e com o desconto de 3% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
+        question: 'Qual é o cupom da Mais Mu?',
+        answer:
+          'O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Vale para cliente novo e antigo e soma com as ofertas do site.',
+      },
+      {
         question: 'O cupom MMEMCASACOMCECILIA vale para todos os produtos da Mais Mu?',
         answer: 'Sim. O MMEMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Mais Mu, inclusive combos.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste mais recente, os 10% entraram num carrinho com uma creatina e dois wheys que já estavam em promoção: R$ 346,88 viraram R$ 312,19.',
+          'Sim. No nosso teste mais recente, na Blue Friday, os 10% entraram num carrinho só com produtos em promoção: R$ 556,13 viraram R$ 500,52.',
       },
       {
         question: 'O cupom MMEMCASACOMCECILIA soma com o desconto do Pix?',
@@ -3270,7 +3275,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Ganho o cashback da Mais Mu usando o cupom?',
         answer:
-          'O cashback é um programa da própria Mais Mu: compras acima de R$ 250 devolvem 5% do valor como crédito para a próxima compra. No checkout de 20/10/2026, com o cupom aplicado, a loja contava os R$ 250 sobre o total já com o desconto.',
+          'O cashback é um programa da própria Mais Mu, com percentual e valor mínimo definidos pela loja, que mudam nas campanhas. No nosso teste, com o cupom aplicado, o checkout calculou o cashback sobre o total já com o desconto. O crédito que ele gera não soma com o cupom numa compra futura.',
       },
       {
         question: 'Posso usar o crédito do cashback junto com o cupom?',
@@ -3335,7 +3340,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom Mais Mu vale na Black Friday?',
         answer:
-          'O cupom Mais Mu MMEMCASACOMCECILIA dá 10% OFF, soma com as ofertas do site e com o Pix e não soma com o cashback. Em produto com o preço das ofertas de novembro, o resumo do pedido mostra a linha Desconto do cupom antes de pagar.',
+          'Vale. O MMEMCASACOMCECILIA dá 10% OFF sobre os preços da Blue Friday e soma com os 3% do Pix. No nosso teste da campanha, o cupom entrou junto com a creatina de 210 g que a loja dá de brinde em qualquer compra, enquanto durar o estoque. Confira a linha Desconto do cupom antes de pagar.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -3345,8 +3350,18 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'em todo o site',
-      note: 'Soma com as ofertas e os 3% do Pix; acima de R$ 250, já com o desconto, a loja ainda devolve 5% em cashback',
+      note: 'Soma com as ofertas da Blue Friday e com os 3% do Pix',
     },
+    relatedContent: [
+      { title: 'Como usar o cupom MMEMCASACOMCECILIA na Mais Mu e o que ele não cobre', url: '/reviews/cupom-mais-mu-como-usar', type: 'review', publishedAt: '2026-10-20' },
+      { title: 'Cupom Mais Mu primeira compra: MMEMCASACOMCECILIA dá 10% OFF e vale nas compras seguintes', url: '/reviews/cupom-mais-mu-primeira-compra', type: 'review', publishedAt: '2026-11-12' },
+      { title: 'Black Friday Mais Mu 2026: Blue Friday com até 50%, qual whey, creatina e barrinha comprar e o cupom MMEMCASACOMCECILIA', url: '/reviews/black-friday-mais-mu', type: 'review', publishedAt: '2026-10-20' },
+      { title: 'Mais Mu é boa? O whey, o Exquenta, as barras e o que vale comprar da marca', url: '/reviews/mais-mu-e-boa', type: 'review', publishedAt: '2026-11-03' },
+      { title: 'Whey Mais Mu: qual sabor e qual versão escolher (pote, refil, sachê e isolado)', url: '/reviews/whey-mais-mu-qual-escolher', type: 'review', publishedAt: '2026-10-25' },
+      { title: 'Barrinhas e wafers proteicos da Mais Mu: Mukebar, Crush Bar e Chocowheyfer, qual escolher (proteína, açúcar e preço por unidade)', url: '/reviews/barra-de-proteina-mais-mu-qual-escolher', type: 'review', publishedAt: '2026-10-25' },
+      { title: 'Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína', url: '/reviews/pre-treino-exquenta-mais-mu-e-bom', type: 'review', publishedAt: '2026-10-25' },
+      { title: 'Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram', url: '/reviews/mais-mu-reclame-aqui-nota-reputacao', type: 'review', publishedAt: '2026-10-20' },
+    ],
     status: 'ativo',
     featured: false,
   },
@@ -4593,28 +4608,39 @@ const STORE_COUPONS: Coupon[] = [
     metaTitle: 'Cupom La Ganexa: 10% OFF com CECILIA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom La Ganexa: CECILIA dá 10% OFF para cliente novo ou antigo, soma com as promoções do site e vale no Pix e no cartão. Testado no checkout.',
+      'Cupom La Ganexa: CECILIA dá 10% OFF para cliente novo ou antigo, soma com as promoções e vale em todas as formas de pagamento. Testado no checkout.',
     eligibleCategories: 'Produtos do site oficial da La Ganexa, inclusive os que já estão em promoção',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado por clientes novos e antigos',
     shipping: 'Frete grátis acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões, segundo a política de frete da loja; os kits promocionais que a loja deixa fora da regra não contam para o mínimo',
     combinable:
-      'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; a loja marca dois kits como não cumulativos com cupom, e no nosso teste o checkout aceitou o código num deles',
+      'Soma com as promoções vigentes do site e vale com todas as formas de pagamento; a loja marca dois kits como não cumulativos com cupom, e no nosso teste o checkout aceitou o código nos dois',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional; no teste, entrou até no Kit 2 Doce de Leite, que as regras da loja marcam como não cumulativo' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço promocional; no teste, entrou até no Kit 2 Doce de Leite e no Kit 2 Brigadeiro de Colher, que as regras da loja marcam como não cumulativos' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões' },
     ],
     paymentPerks: [
       'Até 3x sem juros no cartão; de 4x a 12x, com juros da operadora',
     ],
-    lastVerified: '2026-11-13',
-    testedAt: '2026-11-13',
+    lastVerified: '2026-11-23',
+    testedAt: '2026-11-23',
     testNote:
-      'Num carrinho de quatro itens, todos com preço promocional, entre eles o Kit Degustação Pasta de Amendoim com 6 sabores, de R$ 149,99 por R$ 139,99, e o Doce de Leite Zero 400g, de R$ 84,99 por R$ 69,99, o CECILIA tirou R$ 26,44 dos R$ 264,40 e o total caiu para R$ 237,96: os 10% entraram sobre os preços em promoção. No mesmo dia, aplicamos o código no Kit 2 Doce de Leite Zero 400g, que a página de regras da loja marca como não cumulativo com cupom: o checkout aceitou, e o total foi de R$ 127,99 para R$ 115,19.',
+      'No checkout seguro da loja (seguro.lojalaganexa.com.br), aplicamos o CECILIA nos dois kits que a página de regras marca como não cumulativos com cupom. Só com o Kit 2 Brigadeiro de Colher, o total foi de R$ 83,99 para R$ 75,59; com o Kit 2 Doce de Leite Zero 400g junto, de R$ 211,98 para R$ 190,78, os 10%. O produto surpresa que a loja dá acima de R$ 180 entrou no pedido, contado depois do cupom. Num teste anterior, com quatro itens em promoção, o CECILIA tirou R$ 26,44 de R$ 264,40.',
+    codeInstructions: [
+      'Copie o código CECILIA no card acima.',
+      'Monte o carrinho no site oficial da La Ganexa e clique em "Finalizar a compra".',
+      'No checkout seguro da loja (seguro.lojalaganexa.com.br), toque em "Inserir cupom de desconto", digite CECILIA no campo "Cupom (opcional)" e toque em "Adicionar".',
+      'Confira a linha "Descontos" no resumo da compra antes de pagar.',
+    ],
     aboutBrand:
       'A La Ganexa é uma marca brasileira de pastas de amendoim e doces zero açúcar e zero glúten, com fábrica em Peruíbe (SP): pastas de amendoim, doce de leite, cookies, panquecas, suspiros e alfajores, vendidos no site oficial. O cupom CECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, com qualquer forma de pagamento e sobre os preços em promoção do site.',
     faqs: [
+      {
+        question: 'Qual é o cupom da La Ganexa?',
+        answer:
+          'O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento. Vale para cliente novo e antigo e soma com as promoções do site.',
+      },
       {
         question: 'Quanto de desconto o cupom CECILIA dá?',
         answer:
@@ -4642,7 +4668,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste, todos os produtos do carrinho já estavam com preço promocional, e o cupom tirou os 10% do total. A página de regras da loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom, mas no nosso teste o checkout aceitou o código no de Doce de Leite: confira a linha Descontos antes de pagar.',
+          'Sim. No nosso teste, todos os produtos do carrinho já estavam com preço promocional, e o cupom tirou os 10% do total. A página de regras da loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom, mas no nosso teste o checkout aceitou o código nos dois: confira a linha Descontos antes de pagar.',
       },
       {
         question: 'O cupom CECILIA está funcionando hoje?',
@@ -4652,7 +4678,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Onde coloco o cupom na La Ganexa?',
         answer:
-          'No checkout do site oficial: no Resumo da compra, toque em "Inserir cupom de desconto", digite CECILIA no campo "Cupom (opcional)" e toque em "Adicionar". O resumo passa a mostrar a linha "Descontos".',
+          'No checkout: depois de "Finalizar a compra", o site abre o checkout seguro da loja, em seguro.lojalaganexa.com.br. No Resumo da compra, toque em "Inserir cupom de desconto", digite CECILIA no campo "Cupom (opcional)" e toque em "Adicionar". O resumo passa a mostrar a linha "Descontos".',
       },
       {
         question: 'Tem cupom La Ganexa na Black Friday?',
@@ -4662,7 +4688,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom La Ganexa vale na Black Friday?',
         answer:
-          'O cupom La Ganexa CECILIA dá 10% OFF e soma com os preços promocionais do site: no nosso teste, entrou num carrinho só com produtos em promoção. Confira a linha Descontos antes de pagar.',
+          'Vale. O CECILIA dá 10% OFF e soma com os preços do Esquenta Black Friday: no nosso teste, entrou sobre os kits em oferta e o produto surpresa acima de R$ 180 continuou no pedido. Confira a linha Descontos antes de pagar.',
       },
       {
         question: 'O cupom dá frete grátis?',
@@ -4684,6 +4710,16 @@ const STORE_COUPONS: Coupon[] = [
       scope: 'no site oficial',
       note: 'Soma com os preços em promoção do site',
     },
+    relatedContent: [
+      { title: 'Como usar o cupom CECILIA na La Ganexa: 10% OFF, inclusive em promoção', url: '/reviews/cupom-la-ganexa-como-usar', type: 'review', publishedAt: '2026-11-13' },
+      { title: 'Cupom La Ganexa primeira compra: CECILIA dá 10% OFF e vale nas compras seguintes', url: '/reviews/cupom-la-ganexa-primeira-compra', type: 'review', publishedAt: '2026-11-13' },
+      { title: 'Black Friday La Ganexa 2026: o que está em oferta e como o cupom entra', url: '/reviews/black-friday-la-ganexa', type: 'review', publishedAt: '2026-11-13' },
+      { title: 'La Ganexa é boa? As pastas e o doce de leite pelo rótulo e pelo preço com cupom', url: '/reviews/la-ganexa-e-boa', type: 'review', publishedAt: '2026-11-13' },
+      { title: 'Kit La Ganexa ou pote avulso: qual sai mais barato com o cupom CECILIA', url: '/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato', type: 'review', publishedAt: '2026-11-15' },
+      { title: 'Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher (rótulo, proteína e preço por 100 g)', url: '/reviews/dr-peanut-ou-la-ganexa', type: 'review', publishedAt: '2026-10-25' },
+      { title: 'La Ganexa é confiável? De onde é, site oficial, entrega e trocas', url: '/reviews/la-ganexa-e-confiavel', type: 'review', publishedAt: '2026-11-13' },
+      { title: 'La Ganexa no Reclame Aqui: nota, reputação e o que mais gera reclamação', url: '/reviews/la-ganexa-reclame-aqui-nota-reputacao', type: 'review', publishedAt: '2026-11-13' },
+    ],
     status: 'ativo',
     featured: false,
   },
