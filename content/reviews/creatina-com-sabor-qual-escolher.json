@@ -57,7 +57,7 @@
     {
       "heading": "Creatina com sabor e sem sabor: preço por 100 g de creatina",
       "paragraphs": [
-        "Preços de 25/10/2026, no cartão e sem cupom. O Pix e o cupom de cada marca ficam numa frase abaixo, em \"Cupons e Pix\"."
+        "Preços de 25/10/2026, no cartão e sem cupom."
       ],
       "comparisonTable": {
         "headers": [
@@ -143,8 +143,7 @@
     {
       "heading": "Max Titanium: o sabor custa mais por grama",
       "paragraphs": [
-        "A Max Creatina 7Belo 300 g aparece só em framboesa. A lista traz creatina monohidratada, aromatizante, ácido málico, sucralose e corantes (vermelho allura AC, amaranto e azul brilhante FCF). A tabela indica porção de 6 g, um dosador e meio, com 5 g de creatina e 50 porções. O carboidrato aparece como quantidade não significativa, o que não equivale a zero absoluto. O pote sai a R$ 26,47 por 100 g de creatina.",
-        "A tabela nutricional indica um dosador e meio para 6 g. Na ficha, não há modo de preparo nem marcação do dosador: siga a embalagem que você vai comprar."
+        "A Max Creatina 7Belo 300 g aparece só em framboesa. A lista traz creatina monohidratada, aromatizante, ácido málico, sucralose e corantes (vermelho allura AC, amaranto e azul brilhante FCF). A tabela indica porção de 6 g, um dosador e meio, com 5 g de creatina e 50 porções. O carboidrato aparece como quantidade não significativa, o que não equivale a zero absoluto. O pote sai a R$ 26,47 por 100 g de creatina."
       ]
     },
     {
@@ -162,16 +161,15 @@
           "alt": "Pote de 300 g da Creatina Monohidratada Pura da Probiótica",
           "caption": "Creatina Monohidratada Pura 300 g. Imagem: Probiótica.",
           "objectFit": "square",
-          "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "aspectRatio": 1
         }
       ]
     },
     {
       "heading": "Divergências entre a página e a tabela",
       "bullets": [
-        "**Mix Pro:** a página diz 5 g por dose; a tabela diz 6 g de porção com 3.000 mg de creatina. A conta usa a tabela, e a diferença fica registrada aqui.",
-        "**Max Creatina 300 g:** a página manda encher o dosador até a marcação de 3 g; a tabela traz porção de 5 g com 5.000 mg. A conta usa a tabela. Confira a marcação na embalagem antes de preparar.",
-        "**Max Creatina 7Belo:** a tabela indica 6 g, um dosador e meio. A ficha não traz modo de preparo nem marcação de dosador.",
+        "**Max Creatina 300 g:** a página manda encher o dosador até a marcação de 3 g; a tabela traz porção de 5 g com 5.000 mg. Confira a marcação na embalagem antes de preparar.",
         "**Creatine Turbo de 150 g:** fica fora desta tabela. A página diz 2 dosadores (10 g) e a tabela traz 6 g de porção. Os sabores laranja, limão e uva estavam sem estoque, e só o sem sabor aparecia, a R$ 17,94."
       ]
     },
@@ -217,13 +215,14 @@
   ],
   "decision": {
     "takeIf": [
-      "Quem quer sabor com carboidrato em quantidade não significativa na tabela: a Max 7Belo, em framboesa.",
-      "Quem quer o carboidrato na dose: a Creatine Turbo da Black Skull."
+      "Leve a Creatine 300 g da Black Skull, em laranja ou limão, se você quer sabor pelo menor preço por grama de creatina.",
+      "Leve a Max 7Belo, em framboesa, se você quer sabor com carboidrato em quantidade não significativa na tabela.",
+      "Leve a Creatine Turbo da Black Skull se você quer o carboidrato na dose."
     ],
     "skipIf": [
-      "Quem não quer carboidrato na dose: a Turbo não serve, nem a Mix Pro, que leva maltodextrina.",
-      "Quem aceita creatina sem sabor: o pote sem sabor da Black Skull rende mais doses pelo mesmo preço.",
-      "Quem procura creatina com sabor da Probiótica: o catálogo da Probiótica não traz nenhuma."
+      "Passe na Turbo e na Mix Pro se você não quer carboidrato na dose: as duas levam maltodextrina.",
+      "Passe no sabor se você aceita creatina sem sabor: o pote sem sabor da Black Skull rende mais doses pelo mesmo preço.",
+      "Passe na Probiótica se você procura creatina com sabor: o catálogo dela não traz nenhuma."
     ]
   },
   "pros": [],
