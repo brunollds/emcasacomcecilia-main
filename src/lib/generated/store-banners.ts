@@ -570,13 +570,14 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Brinde na Max November: par de meias exclusivo",
-        "text": "Campanha da própria Max Titanium, em compras acima de R$ 199,90. As condições aparecem no site da loja.",
+        "headline": "Brindes na Max November: par de meias e caixa de barras",
+        "text": "Campanha da própria Max Titanium: par de meias em compras acima de R$ 199,90 e uma caixa de barras proteicas acima de R$ 199. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Slide da home de maxtitanium.com.br (\"Em compras acima de R$199,90 ganhe um par de meias exclusivo\"), lido no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "source": "Carrinho de maxtitanium.com.br em 22/11/2026: regras \"Max November | Comprou 199,90 Ganhou Meia - Novembro/2026\" (Meia Max Vegas Preta) e \"Comprou R$199 Ganhou 1 caixa de barras proteicas - Novembro/2026\"; a Max November vai de 01/11 a 30/11 (banner da home)",
+    "verifiedAt": "2026-11-22",
+    "endsAt": "2026-11-30T23:59:59-03:00"
   },
   {
     "id": "max-titanium-max-november-2026",
@@ -595,8 +596,9 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "ATÉ"
       }
     },
-    "source": "Banner da home e página /max-november de maxtitanium.com.br (\"Promoção Max November – descontos de até 50% por tempo limitado\"), lidos no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-18"
+    "source": "Banner da home de maxtitanium.com.br (\"Max November 01/11 até 30/11\", faixa \"MAIORES DESCONTOS | MAX NOVEMBER | ATÉ 50% OFF\") e página /max-november, lidos no navegador em 22/11/2026",
+    "verifiedAt": "2026-11-22",
+    "endsAt": "2026-11-30T23:59:59-03:00"
   },
   {
     "id": "nestle-nutre-esquenta-black-friday-2026",

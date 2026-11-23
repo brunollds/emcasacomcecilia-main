@@ -38,6 +38,7 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - Loja oficial do parceiro em marketplace e o preço lá. O `couponsData.ts` pode já ter o link meli.la da marca no FAQ.
 - Avaliações públicas com nota, número e fonte; tabela de medidas; composição; política de troca.
 - Contador e faixa de urgência do site são estratégia de marketing, não data de fim de promoção.
+- **Frete grátis e o cupom (23/11/2026).** Se a loja tem valor mínimo para frete grátis, o briefing traz o mínimo, a região a que ele vale e **sobre qual valor é calculado** (antes ou depois do cupom), com a fonte: política de frete, FAQ ou o carrinho. Isso muda de loja para loja e não se supõe. Com o mínimo calculado sobre o valor já com desconto, o briefing faz a conta do carrinho que mantém o frete grátis: mínimo ÷ (1 − desconto), arredondado para cima no centavo (R$ 199 com 10% pede R$ 221,12 em produtos). Sem a base confirmada, o briefing escreve "base do frete não confirmada", e o artigo dá só o mínimo, sem a conta. Vale para como usar, primeira compra, frete e vale a pena.
 - **Campanha × banner do parceiro (`content/campanhas/`):** para cada campanha citada na pauta ou em artigo reformado, conferir oferta, código, destino (`href`) e prazo (`endsAt`) tanto no texto quanto no JSON correspondente em `content/campanhas/` (`npm run test:store-banners`). Não cristalizar no artigo condição de esquenta/pré-Black com vencimento iminente sem avisar o prazo.
 
 ### Cobrir o tema inteiro e não enfraquecer o CTA (lição da L17, 21/11/2026)

@@ -18,7 +18,7 @@
   "metaDescription": "Glutamina: Black Skull, Max ou Probiótica? Rótulo, preço por 100 g e por dose, e o cupom de cada loja.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
@@ -29,27 +29,16 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Os de 300 g da Max Titanium e da Probiótica custam menos por grama de glutamina que o da Black Skull. Os de 120 g e 150 g saem cerca de 40% mais caros por grama que os de 300 g da mesma marca. A Turbo, da Black Skull, leva maltodextrina e estava sem estoque na publicação."
-      ]
-    },
-    {
-      "heading": "Como comparamos",
-      "paragraphs": [
-        "Usamos só o que as lojas publicam: rótulo, preço de venda e tamanho do pote. Comparamos os potes de glutamina das lojas oficiais, sem marketplace.",
-        "As contas são nossas, arredondadas no centavo:"
-      ],
-      "bullets": [
-        "**R$ por 100 g:** preço ÷ peso do pote × 100.",
-        "**R$ por dose:** preço ÷ doses do rótulo."
+        "Pelos preços de novembro, o pote de 300 g da Black Skull é o mais barato por grama de glutamina, à frente dos de 300 g da Max Titanium e da Probiótica; os potes menores saem cerca de 40% mais caros por grama. Os códigos são CECILIA10 ([Black Skull](/cupons/black-skull)), MAX10EMCASACOMCECILIA ([Max Titanium](/cupons/max-titanium)) e PRO10EMCASACOMCECILIA ([Probiótica](/cupons/probiotica))."
       ]
     },
     {
       "heading": "Os seis potes pelo preço",
       "paragraphs": [
-        "Preços de 30/10/2026, no cartão. Peso, doses e glutamina são do rótulo; as contas por 100 g e por dose são nossas."
+        "Preços do site oficial em novembro, no cartão. Peso, doses e glutamina são do rótulo; as contas por 100 g e por dose são nossas."
       ],
       "comparisonTable": {
-        "caption": "Seis potes comparados pelo preço no cartão: por 100 g de produto e por dose. Na Turbo, a célula também mostra o custo por 100 g de glutamina.",
+        "caption": "Seis potes comparados pelo preço no cartão, por 100 g de produto (preço ÷ peso do pote × 100) e por dose (preço ÷ doses do rótulo); as contas são nossas. Na Turbo, a célula também mostra o custo por 100 g de glutamina.",
         "headers": [
           "Produto",
           "Peso",
@@ -60,10 +49,18 @@
         ],
         "rows": [
           [
+            "[Black Skull Glutamine 300 g](https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p)",
+            "300 g",
+            "60",
+            "R$ 59,90 (de R$ 79,90)",
+            "R$ 19,97",
+            "R$ 1,00"
+          ],
+          [
             "[Max Titanium L-G 300 g](https://www.maxtitanium.com.br/glutamina-l-g-pote-300g/p)",
             "300 g",
             "60",
-            "R$ 69,90",
+            "R$ 69,90 (de R$ 99,88)",
             "R$ 23,30",
             "R$ 1,17"
           ],
@@ -71,23 +68,15 @@
             "[Probiótica L-Glutamine 300 g](https://www.probiotica.com.br/l-glutamine-pote-300/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "300 g",
             "60",
-            "R$ 69,90",
+            "R$ 69,90 (de R$ 89,89)",
             "R$ 23,30",
             "R$ 1,17"
-          ],
-          [
-            "[Black Skull Glutamine 300 g](https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p)",
-            "300 g",
-            "60",
-            "R$ 79,90",
-            "R$ 26,63",
-            "R$ 1,33"
           ],
           [
             "[Black Skull Glutamine Turbo 300 g](https://www.blackskullusa.com.br/glutamine-turbo-caveira-preta--glutamina--300g/p)",
             "300 g",
             "60",
-            "R$ 49,90 (sem estoque)",
+            "R$ 49,90 (esgotada)",
             "R$ 16,63 (R$ 33,27 de glutamina)",
             "R$ 0,83"
           ],
@@ -95,7 +84,7 @@
             "[Max Titanium L-G 150 g](https://www.maxtitanium.com.br/glutamina-l-g-pote-150g/p)",
             "150 g",
             "30",
-            "R$ 49,27",
+            "R$ 49,27 (de R$ 70,41)",
             "R$ 32,85",
             "R$ 1,64"
           ],
@@ -103,12 +92,61 @@
             "[Probiótica L-Glutamine 120 g](https://www.probiotica.com.br/l-glutamine-pote-120g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "120 g",
             "24",
-            "R$ 39,41",
+            "R$ 39,41 (de R$ 51,46)",
             "R$ 32,84",
             "R$ 1,64"
           ]
         ]
-      }
+      },
+      "images": [
+        {
+          "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+          "alt": "Pote de 300 g da Black Skull Glutamine, frente",
+          "caption": "Black Skull Glutamine 300 g. Foto oficial da Black Skull.",
+          "href": "https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p",
+          "objectFit": "contain",
+          "aspectRatio": 0.8722,
+          "store": "black-skull"
+        },
+        {
+          "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+          "alt": "Pote de 300 g da Max Titanium L-G, frente",
+          "caption": "Max Titanium L-G 300 g. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/glutamina-l-g-pote-300g/p",
+          "objectFit": "contain",
+          "aspectRatio": 0.8833,
+          "store": "max-titanium"
+        },
+        {
+          "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+          "alt": "Pote de 300 g da Probiótica L-Glutamine, frente",
+          "caption": "Probiótica L-Glutamine 300 g. Foto oficial da Probiótica.",
+          "href": "https://www.probiotica.com.br/l-glutamine-pote-300/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "objectFit": "contain",
+          "aspectRatio": 0.8822,
+          "store": "probiotica"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Glutamine 300 g na Black Skull",
+          "href": "https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p",
+          "sponsored": true,
+          "store": "black-skull"
+        },
+        {
+          "label": "Ver a L-G 300 g na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/glutamina-l-g-pote-300g/p",
+          "sponsored": true,
+          "store": "max-titanium"
+        },
+        {
+          "label": "Ver a L-Glutamine 300 g na Probiótica",
+          "href": "https://www.probiotica.com.br/l-glutamine-pote-300/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true,
+          "store": "probiotica"
+        }
+      ]
     },
     {
       "heading": "O rótulo de cada pote",
@@ -126,7 +164,7 @@
     {
       "heading": "A Turbo não é só glutamina",
       "paragraphs": [
-        "A Turbo declara 2.500 mg de glutamina e 2,5 g de maltodextrina em cada dose de 5 g. Metade da porção é maltodextrina. Por isso a conta por 100 g de glutamina é a que compara com os potes puros: R$ 33,27 na Turbo, contra R$ 23,30 nos potes de 300 g da Max ou da Probiótica, cuja lista de ingredientes traz apenas L-glutamina."
+        "A [Turbo](https://www.blackskullusa.com.br/glutamine-turbo-caveira-preta--glutamina--300g/p), da Black Skull, está esgotada no site e declara 2.500 mg de glutamina e 2,5 g de maltodextrina em cada dose de 5 g. Metade da porção é maltodextrina. Por isso a conta por 100 g de glutamina é a que compara com os potes puros: R$ 33,27 na Turbo, contra R$ 19,97 no pote de 300 g da Black Skull e R$ 23,30 nos de 300 g da Max ou da Probiótica, cuja lista de ingredientes traz apenas L-glutamina."
       ],
       "image": {
         "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
@@ -139,7 +177,7 @@
     {
       "heading": "Pote de 300 g ou menor",
       "paragraphs": [
-        "Os potes de 300 g da Max e da Probiótica empatam: 60 doses por R$ 69,90. A matéria-prima da L-G é de fonte vegetal, diz a Max.",
+        "Os três potes de 300 g têm 60 doses. O da Black Skull sai a R$ 59,90, e os da Max e da Probiótica empatam em R$ 69,90. A matéria-prima da L-G é de fonte vegetal, diz a Max.",
         "Os potes menores saem mais caros por grama. O de 120 g da Probiótica tem 24 doses e o de 150 g da Max tem 30, ambos a R$ 32,8 por 100 g, cerca de 40% mais que o de 300 g da mesma marca."
       ],
       "image": {
@@ -153,110 +191,55 @@
     {
       "heading": "Quem escolhe o quê",
       "bullets": [
-        "**Menor preço por grama de glutamina pura:** Max Titanium ou Probiótica, pote de 300 g.",
-        "**Marca da Black Skull:** o pote de 300 g, R$ 26,63 por 100 g.",
+        "**Menor preço por grama de glutamina pura:** Black Skull, pote de 300 g, R$ 19,97 por 100 g.",
+        "**Entre Max Titanium e Probiótica:** os potes de 300 g empatam, R$ 23,30 por 100 g.",
         "**Quer testar antes de comprar o pote grande:** o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
       ],
-      "emphasis": "Entre os potes com L-glutamina como único ingrediente, a escolha para pagar menos por grama é o pote de 300 g da Max ou da Probiótica: R$ 23,30 por 100 g, abaixo dos R$ 26,63 da Black Skull."
+      "emphasis": "Entre os potes com L-glutamina como único ingrediente, a escolha para pagar menos por grama é o pote de 300 g da Black Skull: R$ 19,97 por 100 g, contra R$ 23,30 da Max e da Probiótica."
     },
     {
       "heading": "Cupom de cada loja",
       "paragraphs": [
-        "Os três cupons valem em todas as formas de pagamento: CECILIA10 dá 10% em todo o site da [Black Skull](/cupons/black-skull), e MAX10EMCASACOMCECILIA, da [Max Titanium](/cupons/max-titanium), e PRO10EMCASACOMCECILIA, da [Probiótica](/cupons/probiotica), dão até 10%, com o percentual variando por item. Confira o desconto no carrinho antes de pagar."
+        "Os três cupons valem em todas as formas de pagamento: CECILIA10 dá 10% em todo o site da [Black Skull](/cupons/black-skull), e MAX10EMCASACOMCECILIA, da [Max Titanium](/cupons/max-titanium), e PRO10EMCASACOMCECILIA, da [Probiótica](/cupons/probiotica), dão até 10%, com o percentual variando por item. No carrinho, cole o código no campo de cupom e confira o desconto na linha de descontos antes de pagar.",
+        "Depois do cupom, o pote de 300 g da Black Skull cai para R$ 53,91, ou R$ 17,97 por 100 g. Na Max, o cupom deu 2% no pote de 300 g no teste de novembro, e o preço foi a R$ 68,50, ou R$ 22,83 por 100 g. Na Probiótica, o percentual do cupom neste item aparece no carrinho."
+      ],
+      "links": [
+        {
+          "label": "Ver o cupom da Black Skull",
+          "href": "/cupons/black-skull"
+        },
+        {
+          "label": "Ver o cupom da Max Titanium",
+          "href": "/cupons/max-titanium"
+        },
+        {
+          "label": "Ver o cupom da Probiótica",
+          "href": "/cupons/probiotica"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom de cada loja? Na Black Skull, o CECILIA10, com 10% OFF em todo o site; na Max Titanium, o MAX10EMCASACOMCECILIA, com até 10% OFF; na Probiótica, o PRO10EMCASACOMCECILIA, com até 10% OFF. Os três valem em todas as formas de pagamento, e os códigos e as regras ficam no [cupom Black Skull](/cupons/black-skull), no [cupom Max Titanium](/cupons/max-titanium) e no [cupom Probiótica](/cupons/probiotica).",
+        "Qual glutamina é mais barata por grama? O pote de 300 g da Black Skull, a R$ 19,97 por 100 g. Os de 300 g da Max e da Probiótica empatam em R$ 23,30.",
         "A glutamina da Black Skull é pura? A lista de ingredientes diz só L-Glutamina, e a Turbo é a exceção, porque leva maltodextrina.",
-        "A Turbo tem glutamina? Tem: 2.500 mg por dose de 5 g, junto com 2,5 g de maltodextrina.",
-        "A Black Skull tem pote de 500 g? Não no catálogo do dia da publicação, que traz só o de 300 g e a Turbo.",
+        "A Turbo tem glutamina? Tem: 2.500 mg por dose de 5 g, junto com 2,5 g de maltodextrina. Ela está esgotada no site.",
+        "A Black Skull tem pote de 500 g? Não no catálogo de novembro, que traz só o de 300 g e a Turbo.",
         "Qual é a porção? Os rótulos dos três indicam 5 g por porção, com 5.000 mg de L-glutamina; na Turbo, metade é maltodextrina."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Para pagar menos por grama de glutamina pura: o pote de 300 g da Max ou da Probiótica.",
+      "Para pagar menos por grama de glutamina pura: o pote de 300 g da Black Skull.",
       "Para testar antes de comprar o pote grande: o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
     ],
     "skipIf": [
-      "Para uma fórmula só de glutamina: a Turbo não serve, porque metade da porção é maltodextrina.",
+      "Para uma fórmula só de glutamina: a Turbo não serve, porque metade da porção é maltodextrina, e hoje está esgotada.",
       "Para usar por muito tempo: os potes menores custam cerca de 40% mais por grama."
     ]
   },
-  "gallery": [
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
-      "alt": "Pote de 300 g da Black Skull Glutamine, frente",
-      "caption": "Foto oficial da Black Skull.",
-      "objectFit": "contain",
-      "aspectRatio": 0.8722
-    },
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
-      "alt": "Tabela nutricional da Black Skull Glutamine 300 g",
-      "caption": "Foto oficial da Black Skull.",
-      "objectFit": "contain",
-      "aspectRatio": 0.6922
-    },
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
-      "alt": "Pote de 300 g da Black Skull Glutamine Turbo, frente",
-      "caption": "Foto oficial da Black Skull.",
-      "objectFit": "contain",
-      "aspectRatio": 0.8589
-    },
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
-      "alt": "Pote de 300 g da Max Titanium L-G, frente",
-      "caption": "Foto oficial da Max Titanium.",
-      "objectFit": "contain",
-      "aspectRatio": 0.8833
-    },
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
-      "alt": "Pote de 300 g da Max Titanium L-G, verso",
-      "caption": "Foto oficial da Max Titanium.",
-      "objectFit": "contain",
-      "aspectRatio": 0.8811
-    },
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
-      "alt": "Pote de 150 g da Max Titanium L-G, frente",
-      "caption": "Foto oficial da Max Titanium.",
-      "objectFit": "contain",
-      "aspectRatio": 0.8844
-    },
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
-      "alt": "Tabela nutricional do pote de 150 g da Max Titanium L-G, com 30 porções de 5 g",
-      "caption": "Foto oficial da Max Titanium.",
-      "objectFit": "contain",
-      "aspectRatio": 1.1749
-    },
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
-      "alt": "Pote de 300 g da Probiótica L-Glutamine, frente",
-      "caption": "Foto oficial da Probiótica.",
-      "objectFit": "contain",
-      "aspectRatio": 0.8822
-    },
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
-      "alt": "Pote de 120 g da Probiótica L-Glutamine, frente",
-      "caption": "Foto oficial da Probiótica.",
-      "objectFit": "contain",
-      "aspectRatio": 0.8822
-    },
-    {
-      "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
-      "alt": "Tabela nutricional do pote de 120 g da Probiótica L-Glutamine, com 24 porções de 5 g",
-      "caption": "Foto oficial da Probiótica.",
-      "objectFit": "contain",
-      "aspectRatio": 1.8519
-    }
-  ],
   "pros": [],
   "cons": [],
   "editorialNote": "Podemos receber comissão pela Black Skull, pela Max Titanium e pela Probiótica. Guia pelo rótulo e pelo preço do dia; não usamos os produtos.",
@@ -279,5 +262,10 @@
     {
       "slug": "cupom-probiotica-como-usar"
     }
+  ],
+  "affiliate": [
+    "black-skull",
+    "max-titanium",
+    "probiotica"
   ]
 }
