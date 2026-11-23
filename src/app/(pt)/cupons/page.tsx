@@ -3,10 +3,12 @@ import { CircleCheck } from 'lucide-react';
 import { CouponFaq, SectionHeading, ShelfHeading, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { PT_COUPON_HUB_TEXT } from '@/components/coupons/couponHubCopy';
 import { CouponShelfItem, HubCouponCard, SHELF_CARD, couponCardName, layoutShelf } from '@/components/coupons/CouponCards';
+import { CouponHubControls } from '@/components/coupons/CouponHubControls';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { COUPON_HUB_LOGO_URL, getCouponHubAlternates } from '@/lib/couponHub';
 import { getActiveCoupons, getCouponHubSections } from '@/lib/couponsData';
 import { getCurrentOfferMonthDate } from '@/lib/offerMonth';
+import { foldSearchText } from '@/lib/reviewsShelf';
 
 // O snippet cita as lojas de código mais buscadas que estão ativas, para não anunciar uma loja pausada.
 const SNIPPET_STORES = ['Insider', 'DAMIE', 'Dolce Gusto', 'Hostinger'];
@@ -95,6 +97,25 @@ function getJsonLd() {
 export default function CuponsPage() {
   const { featured, categories } = getCouponHubSections();
   const jsonLd = getJsonLd();
+  const searchableStores = categories.flatMap((category) =>
+    category.coupons.map((coupon) => ({
+      slug: coupon.slug,
+      categoryId: category.id,
+      searchText: foldSearchText(
+        [
+          coupon.brand,
+          coupon.slug,
+          category.label,
+          coupon.category,
+          coupon.shortDescription,
+          coupon.offerMode === 'discount-code' ? coupon.code : coupon.referral?.code,
+        ]
+          .filter(Boolean)
+          .join(' ')
+      ),
+    }))
+  );
+  const categoryLinks = categories.map(({ id, label }) => ({ id, label }));
   // O mês da oferta pelo calendário, como nas páginas de loja; cada loja mostra a data do próprio teste.
   const offerMonth = getCurrentOfferMonthDate();
   const offerMonthLabel = offerMonth.toLocaleDateString('pt-BR', { month: 'long', year: 'numeric' });
@@ -130,8 +151,10 @@ export default function CuponsPage() {
       </section>
 
       <div className="mx-auto flex max-w-6xl flex-col gap-7 px-4 pt-6 md:gap-10 md:px-8 md:pt-10">
+        <CouponHubControls stores={searchableStores} categories={categoryLinks} />
+
         {featured.length > 0 && (
-          <section aria-labelledby="destaques" className="flex flex-col gap-3">
+          <section aria-labelledby="destaques" data-coupon-featured className="flex flex-col gap-3">
             <ShelfHeading id="destaques">{PT_COUPON_HUB_TEXT.featuredTitle}</ShelfHeading>
             {/* Pensado para dois destaques: o primeiro fica com 3/5 da linha no desktop. */}
             <div className={`grid gap-3 md:gap-4 ${featured.length > 1 ? 'md:grid-cols-[3fr_2fr]' : ''}`}>
@@ -153,13 +176,20 @@ export default function CuponsPage() {
             return (
               <RevealSection
                 key={category.id}
+                id={category.id}
+                data-coupon-shelf={category.id}
                 aria-labelledby={`prateleira-${category.id}`}
-                className={`flex flex-col gap-3 ${fullRow ? 'md:col-span-2' : ''}`}
+                className={`scroll-mt-24 flex flex-col gap-3 ${fullRow ? 'md:col-span-2' : ''}`}
               >
                 <ShelfHeading id={`prateleira-${category.id}`}>{category.label}</ShelfHeading>
                 <div className={`grid flex-1 grid-cols-2 gap-x-4 gap-y-6 pt-4 ${fullRow ? 'md:grid-cols-4' : ''}`}>
                   {shelf.map(({ coupon, wide }, index) => (
-                    <CouponShelfItem key={coupon.slug} index={index} className={wide ? 'col-span-2' : ''}>
+                    <CouponShelfItem
+                      key={coupon.slug}
+                      index={index}
+                      storeSlug={coupon.slug}
+                      className={wide ? 'col-span-2' : ''}
+                    >
                       <HubCouponCard coupon={coupon} variant={wide ? 'wide' : 'narrow'} className={SHELF_CARD} />
                     </CouponShelfItem>
                   ))}
