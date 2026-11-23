@@ -135,7 +135,8 @@ assert.equal(same.couponPageHref, `/cupons/${store.slug}`);
   const magaluReview = publishedReviews.find((r) => r.slug === 'cupom-magalu-em-casa-com-cecilia');
   if (magaluReview) {
     const magaluBlock = getArticleStoreBlock(magaluReview, 'pt')!;
-    assert.ok(magaluBlock.discount, 'cupom-magalu: desconto ausente no bloco da loja');
+    assert.equal(magaluBlock.code, '10EMCASACOMCECILIA');
+    assert.equal(magaluBlock.discount, 'R$ 10 OFF a partir de R$ 499,90', 'cupom-magalu: o recorte mostra a faixa do código do artigo');
     assert.ok(magaluBlock.rules.length > 0, 'cupom-magalu: regras ausentes no bloco da loja');
   }
 }

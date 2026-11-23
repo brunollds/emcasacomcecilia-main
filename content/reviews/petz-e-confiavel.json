@@ -17,7 +17,7 @@
   "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz. Antes de comprar, veja o CNPJ, a fusão com a Cobasi, os prazos de entrega e como funciona a troca.",
   "publishedAt": "11 de novembro de 2026",
   "publishedAtISO": "2026-11-11",
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/petz/petz-e-confiavel-capa-v2.webp",
@@ -215,23 +215,34 @@
     {
       "heading": "O que dizem os clientes no Reclame Aqui",
       "paragraphs": [
-        "No perfil Petz - Loja Online, a reputação foi Ótima e 89% das reclamações foram resolvidas de maio a outubro de 2026. Produto não recebido e atraso na entrega aparecem entre os principais motivos registrados no período.",
-        "Os números de cada período e as reclamações mais recentes estão no [artigo sobre a nota da Petz no Reclame Aqui](/reviews/petz-reclame-aqui-nota-reputacao)."
+        "No perfil Petz - Loja Online, a reputação foi Ótima de maio a outubro de 2026, e 88,9% das reclamações avaliadas foram resolvidas. Produto não recebido e atraso na entrega aparecem entre os principais motivos listados no perfil.",
+        "Os números de cada período e o que a nota mede estão no [artigo sobre a nota da Petz no Reclame Aqui](/reviews/petz-reclame-aqui-nota-reputacao)."
       ]
     },
     {
       "heading": "Vale comprar na Petz",
       "paragraphs": [
-        "A Petz publica regras de entrega e troca, e o perfil da loja online teve reputação Ótima no Reclame Aqui de maio a outubro de 2026. Antes de comprar, confira o prazo para seu CEP e as condições do pedido.",
+        "A Petz publica regras de entrega e troca, e o perfil da loja online tem reputação Ótima no Reclame Aqui. Antes de comprar, confira o prazo para seu CEP e as condições do pedido.",
         "O veredito se baseia nas regras que a própria Petz publica. Para remédio e antipulgas, leia o rótulo e, na dúvida, fale com o veterinário.",
-        "Se for comprar, o EMCASA dá 10% OFF e vale em todas as compras no site e no app, pelo que diz o programa Parceiro Petz. Em produto que já está em oferta, a sacola fica com o desconto maior, item a item. Confira as condições na página do [cupom Petz](/cupons/petz)."
+        "Se for comprar, o EMCASA dá 10% OFF e vale em todas as compras no site e no app, pelo que diz o programa Parceiro Petz. O botão abaixo abre a loja da Cecília em petz.com.br/parceiro/emcasa, mas não aplica o código sozinho: cole o EMCASA no campo \"Digite seu cupom\" da sacola. Em produto que já está em oferta, a sacola fica com o desconto maior, item a item. Confira as condições na página do [cupom Petz](/cupons/petz)."
       ],
-      "emphasis": "Antes de pagar, confira se está em petz.com.br e veja o prazo de entrega para seu CEP.",
-      "emphasisAfterParagraph": 2
+      "emphasis": "Eu compraria na Petz depois de conferir que o endereço é petz.com.br e que o prazo serve para o meu CEP, e colaria o EMCASA na sacola, porque o link da parceria não o aplica.",
+      "links": [
+        {
+          "label": "Ir para a Petz e colar o EMCASA",
+          "href": "https://petz.com.br/parceiro/emcasa",
+          "sponsored": true
+        },
+        {
+          "label": "Como usar o EMCASA na sacola",
+          "href": "/reviews/cupom-petz-como-usar"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. O link petz.com.br/parceiro/emcasa não aplica o código sozinho: ele vai no campo \"Digite seu cupom\" da sacola.",
         "Petz e Cobasi são a mesma empresa? Fazem parte do mesmo grupo, o Grupo Petz Cobasi, mas seguem como marcas separadas, cada uma com o próprio site e app. O EMCASA é só da Petz.",
         "Quem é o dono da Petz? Sergio Zimerman fundou a Petz, segundo o RI do grupo. Hoje, o Grupo Petz Cobasi é uma companhia aberta, com ações negociadas na B3 sob o código AUAU3; a composição dos acionistas pode ser consultada no site de relações com investidores do grupo.",
         "A Petz entrega no mesmo dia? A Entrega Expressa chega em poucas horas, só em algumas regiões, e a padrão leva até 3 dias úteis em algumas regiões. No checkout, com o seu CEP, aparece a modalidade que entra no seu endereço e o prazo dela.",
@@ -259,7 +270,7 @@
   },
   "coupon": "EMCASA",
   "affiliate": "petz",
-  "editorialNote": "Feito com fontes públicas e um teste da sacola do site, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Fontes públicas e teste da sacola. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "petz-reclame-aqui-nota-reputacao"

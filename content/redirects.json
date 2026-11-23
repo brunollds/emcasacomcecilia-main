@@ -178,5 +178,10 @@
     "source": "/reviews/brinde-skelt-30-outubro-cupom",
     "destination": "/reviews/brindes-skelt-black-friday-cupom",
     "permanent": true
+  },
+  {
+    "source": "/reviews/peitoral-cachorro-que-puxa-petz",
+    "destination": "/reviews/peitoral-cachorro",
+    "permanent": true
   }
 ]

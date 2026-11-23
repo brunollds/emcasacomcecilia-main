@@ -14,10 +14,10 @@
     "url": "/sobre"
   },
   "description": "Passo a passo para usar o cupom Magalu da Cecília no navegador, com dez faixas de desconto pelo valor do carrinho, e o que fazer quando o código não funciona no app do Magalu.",
-  "metaDescription": "Passo a passo para usar o cupom Magazine Luiza da Cecília no navegador: códigos de R$ 10 a R$ 100 OFF na loja Magazine Você — e por que não funciona no app.",
+  "metaDescription": "Como usar o cupom Magalu da Cecília: códigos de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, só no navegador, na vitrine Magazine Você, em itens do Magalu.",
   "publishedAt": "17 Jul 2026",
   "publishedAtISO": "2026-07-17",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "image": "/images/reviews/magalu/cupom-magalu-em-casa-com-cecilia-capa-v2.webp",
   "imageAlt": "Cecília olha para a câmera ao lado da lava e seca Samsung instalada, com toalhas dobradas sobre o aparelho, em frame de vídeo próprio que ilustra o guia de cupons Magalu.",
@@ -28,10 +28,21 @@
   "cta": {
     "text": "Acesse a loja Magazine Você da Cecília pelo navegador e aplique o cupom da sua faixa de compra.",
     "label": "Acessar a loja Magazine Você da Cecília",
-    "url": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/"
+    "url": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/",
+    "sponsored": true
   },
-  "editorialNote": "Este artigo faz parte da parceria entre o blog Em Casa com Cecília e o Magazine Você, o programa oficial de influenciadores do Magalu. Os cupons EMCASACOMCECILIA são criados pela Cecília para a própria loja. A compra pela loja pode gerar comissão ao blog, sem custo extra para você. Nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e cuida do pós-venda é o próprio Magalu.",
-  "relatedArticles": [],
+  "editorialNote": "Podemos receber comissão pelas compras na loja Magazine Você da Cecília, do Magalu.",
+  "relatedArticles": [
+    {
+      "slug": "black-friday-magalu"
+    },
+    {
+      "slug": "cupom-magalu-primeira-compra"
+    },
+    {
+      "slug": "magazine-voce-e-confiavel"
+    }
+  ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -60,39 +71,41 @@
         "Regra de ouro: tudo no navegador. Abra o navegador do seu celular ou computador e entre direto na loja Magazine Você da Cecília pelo link abaixo. Pode ser Chrome, Safari, Edge ou qualquer outro — o que importa é ser navegador.",
         "Não abra o app do Magalu: ele não reconhece os códigos EMCASACOMCECILIA, exclusivos da loja no Magazine Você."
       ],
-      "image": "/images/reviews/magalu/magalu-loja-navegador.webp",
-      "imageAlt": "Print da loja magazinevoce.com.br/magazineemcasacomcecilia aberta no navegador",
-      "imageCaption": "A loja Magazine Você da Cecília aberta no navegador: é aqui que os códigos da campanha funcionam.",
+      "image": "/images/reviews/magalu/magazine-voce-vitrine-emcasacomcecilia-topo.webp",
+      "imageAlt": "Topo da vitrine Magazine Você da Cecília no navegador, com o nome Emcasacomcecilia e o selo Influenciador Magalu",
+      "imageCaption": "A vitrine Magazine Você da Cecília aberta no navegador: é aqui que os códigos da campanha funcionam.",
       "imageFit": "contain",
       "links": [
         {
           "label": "magazinevoce.com.br/magazineemcasacomcecilia",
-          "href": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/"
+          "href": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/",
+          "sponsored": true
         }
-      ]
+      ],
+      "imageAspectRatio": 4.5633
     },
     {
-      "heading": "2. Entre com a sua conta Magalu",
-      "paragraphs": [
-        "Na loja, entre com a mesma conta Magalu que você já usa no site ou no app. O aviso no rodapé informa que o cliente não compartilha dados com o dono da página; não é preciso criar outra conta."
-      ]
-    },
-    {
-      "heading": "3. Monte o carrinho com produtos vendidos e entregues pelo Magalu",
+      "heading": "2. Monte a sacola com produtos vendidos e entregues pelo Magalu",
       "paragraphs": [
         "Navegue pela loja e adicione os produtos ao carrinho. O cupom só vale para itens vendidos e entregues pelo Magalu; produtos de lojas parceiras (marketplace) podem aparecer na vitrine, e neles o código não vale.",
         "Na página do produto, confira quem vende e quem entrega. Com itens mistos no carrinho, o desconto pode falhar."
       ]
     },
     {
+      "heading": "3. Entre com a sua conta Magalu",
+      "paragraphs": [
+        "Com a sacola montada, siga para o fechamento: o Magalu pede a identificação, e você entra com a mesma conta Magalu que já usa no site ou no app. O aviso no rodapé informa que o cliente não compartilha dados com o dono da página; não é preciso criar outra conta."
+      ]
+    },
+    {
       "heading": "4. Aplique o código da sua faixa",
       "paragraphs": [
-        "No carrinho ou no checkout, localize o campo de cupom e digite o código da sua faixa. Comprou R$ 1.200? Use 20EMCASACOMCECILIA e ganhe R$ 20 OFF. Carrinho a partir de R$ 4.999,90? 100EMCASACOMCECILIA dá R$ 100 OFF.",
+        "Na sacola não há campo de cupom: ela só avisa que você poderá usar o cupom na etapa de pagamento. O campo aparece no pagamento, depois de entrar na conta Magalu e escolher a entrega. Digite ali o código da sua faixa. Comprou R$ 1.200? Use 20EMCASACOMCECILIA e ganhe R$ 20 OFF. Carrinho a partir de R$ 4.999,90? 100EMCASACOMCECILIA dá R$ 100 OFF.",
         "Digite sem espaços, com letras maiúsculas, e confirme em aplicar para o sistema recalcular o pedido."
       ],
       "image": "/images/reviews/magalu/magalu-cupom-aplicado.webp",
-      "imageAlt": "Campo de cupom com desconto aplicado no checkout",
-      "imageCaption": "Campo de cupom preenchido e desconto aplicado no resumo do pedido.",
+      "imageAlt": "Campo de cupom com desconto aplicado na revisão do pedido",
+      "imageCaption": "Código preenchido na etapa de pagamento e desconto aplicado no resumo do pedido.",
       "imageFit": "contain",
       "couponTiers": [
         {
@@ -145,7 +158,8 @@
           "discount": "R$ 100 OFF",
           "minPurchase": "R$ 4.999,90"
         }
-      ]
+      ],
+      "imageAspectRatio": 2.812
     },
     {
       "heading": "5. Confirme o desconto e finalize",
@@ -185,40 +199,45 @@
     {
       "heading": "Por que o cupom só funciona na loja Magazine Você da Cecília?",
       "paragraphs": [
-        "Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília, porque foram criados por mim exclusivamente para essa loja dentro do Magazine Você — o [programa oficial de influenciadores da Magazine Luiza](/reviews/magazine-voce-e-confiavel), no domínio magazinevoce.com.br.",
-        "São exclusivos da loja Magazine Você da Cecília: não valem no site nem no app do Magalu.",
+        "Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília, porque foram criados por mim exclusivamente para essa loja dentro do Magazine Você, o programa oficial de influenciadores da Magazine Luiza, no domínio magazinevoce.com.br.",
+        "São exclusivos da loja Magazine Você da Cecília: não valem no magazineluiza.com.br nem no app do Magalu.",
         "E tem um ponto que deixa tudo mais seguro: o magazinevoce.com.br é domínio da própria Magazine Luiza S/A (CNPJ 47.960.950/0001-21), registrado desde 2011. Nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e faz o pós-venda é o próprio Magalu. O login usa a sua conta Magalu de sempre, e o aviso oficial no rodapé deixa claro que você não compartilha dados com o dono da página.",
-        "Transparência: a compra na minha loja pode gerar uma comissão para mim, sem nenhum custo extra para você. Quando você usa um desses cupons, o valor do desconto é abatido dessa comissão: o desconto sai dela, não do seu bolso.",
         "Resumindo: a loja é minha, mas nos itens vendidos e entregues pelo Magalu a operação é toda dele. A vitrine também pode trazer produtos de lojas parceiras (marketplace), e nesses o código não vale. Confira quem vende e quem entrega na página do produto antes de comprar."
+      ]
+    },
+    {
+      "heading": "Vale usar o código da Cecília?",
+      "paragraphs": [
+        "Em resumo, o código é um desconto fixo que aparece na hora, no resumo do pedido, e só depende de três coisas: navegador, vitrine da Cecília e item vendido e entregue pelo Magalu."
       ],
+      "bullets": [
+        "Economia real: R$ 10 a R$ 100 OFF conforme o valor da compra, aplicado na etapa de pagamento.",
+        "A tabela do passo 4 traz o mínimo exato de cada uma das dez faixas.",
+        "Operação Magalu: nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e faz o pós-venda é o próprio Magalu, com a mesma conta e as mesmas garantias de sempre.",
+        "Sem cadastro novo: você entra com a sua conta Magalu e não compartilha dado nenhum comigo."
+      ],
+      "emphasis": "Para gastar menos num carrinho do Magalu, eu abriria a minha vitrine pelo navegador, conferiria o \"Vendido e entregue por Magalu\" de cada item e usaria o código da maior faixa que o total alcançar.",
       "links": [
         {
-          "label": "Ver a página do cupom Magalu com todas as faixas",
+          "label": "Ir para a loja Magazine Você da Cecília",
+          "href": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver as dez faixas do cupom Magalu",
           "href": "/cupons/magalu"
         }
       ]
     },
     {
-      "heading": "Por que usar os cupons da Cecília?",
-      "paragraphs": [
-        "Além do desconto direto, estes cupons têm vantagens que faço questão de deixar claras."
-      ],
-      "bullets": [
-        "Economia real: R$ 10 a R$ 100 OFF conforme o valor da compra, desconto que aparece na hora, no resumo do pedido.",
-        "A tabela do passo 4 traz o mínimo exato de cada uma das dez faixas.",
-        "Operação Magalu: nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e faz o pós-venda é o próprio Magalu, com a mesma conta e as mesmas garantias de sempre.",
-        "Sem cadastro novo: você entra com a sua conta Magalu e não compartilha dado nenhum comigo.",
-        "Você apoia o blog sem pagar nada a mais: a compra pode gerar comissão paga pelo Magalu, sem custo extra para você."
-      ]
-    },
-    {
-      "heading": "FAQ – Perguntas frequentes",
+      "heading": "Perguntas frequentes",
       "paragraphs": [
         "Reuni as dúvidas mais comuns sobre o uso do cupom Magalu da Cecília."
       ],
       "bullets": [
+        "Qual é o cupom do Magalu? Na loja Magazine Você da Cecília, pelo navegador, os códigos vão de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, de 10 a 100 reais de desconto conforme o valor do carrinho, em produtos vendidos e entregues pelo Magalu. O campo do código aparece na etapa de pagamento, depois de entrar na conta Magalu.",
         "Como usar o cupom Magalu da Cecília? Pelo navegador, acesse a loja magazinevoce.com.br/magazineemcasacomcecilia, entre com sua conta Magalu, monte o carrinho com produtos vendidos e entregues pelo Magalu e aplique o código da sua faixa.",
-        "Onde coloco o código do cupom? No campo de cupom de desconto do carrinho ou do checkout, dentro da loja Magazine Você da Cecília, acessada pelo navegador.",
+        "Onde coloco o código do cupom? Na etapa de pagamento, depois de entrar na conta Magalu e escolher a entrega: a sacola não tem campo de cupom. Tudo dentro da loja Magazine Você da Cecília, acessada pelo navegador.",
         "O cupom funciona no app do Magalu? Não. Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília — essa é a regra desta campanha.",
         "Por que meu cupom não funcionou? Confira se está no navegador e na loja da Cecília, se alcançou o mínimo da faixa, se o item é vendido e entregue pelo Magalu e se o código foi digitado corretamente. O passo a passo de conferência está acima.",
         "Qual o valor mínimo de cada faixa? Cada código tem um mínimo próprio: veja a tabela no passo 4 e use a faixa mais alta que o carrinho alcançar.",
@@ -230,16 +249,16 @@
       ]
     }
   ],
-  "pros": [
-    "Dez faixas de desconto, de R$ 10 a R$ 100 OFF, para compras de diferentes tamanhos",
-    "Itens vendidos e entregues pelo Magalu seguem a operação do próprio Magalu: cobrança, entrega e pós-venda",
-    "Login com a mesma conta Magalu, sem cadastro novo e sem compartilhar dados",
-    "Desconto aplicado na hora, visível no resumo do pedido antes do pagamento"
-  ],
-  "cons": [
-    "Só funciona no navegador, na loja Magazine Você da Cecília — não funciona no app do Magalu",
-    "Cada faixa exige um valor mínimo de compra, de R$ 499,90 a R$ 4.999,90",
-    "Válido apenas para produtos vendidos e entregues pelo Magalu",
-    "Em regra, um cupom por pedido; produtos de lojas parceiras (marketplace) ficam fora do desconto"
-  ]
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Vai comprar eletrodoméstico ou móvel vendido e entregue pelo Magalu e o carrinho passa do mínimo da primeira faixa.",
+      "Compra pelo navegador, na vitrine Magazine Você da Cecília, e aceita entrar na conta Magalu antes do pagamento."
+    ],
+    "skipIf": [
+      "Vai comprar pelo app do Magalu: o código não vale lá.",
+      "O item é de lojista parceiro (marketplace) ou o carrinho não chega ao mínimo da primeira faixa."
+    ]
+  }
 }

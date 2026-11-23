@@ -17,6 +17,7 @@
   "metaDescription": "O cupom EMCASA dá 10% OFF na Petz. Veja o preço por quilo de cada areia para gato, de argila a sílica, e quando o pacote grande não compensa.",
   "publishedAt": "15 de novembro de 2026",
   "publishedAtISO": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa-v2.webp",
@@ -44,7 +45,7 @@
   },
   "coupon": "EMCASA",
   "affiliate": "petz",
-  "editorialNote": "Feito com os preços e as fichas das páginas da Petz e um teste da sacola, sem finalizar a compra. Ninguém da equipe usou as areias. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Preços e fichas das páginas da Petz e um teste da sacola. Podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-petz-como-usar"
@@ -133,31 +134,31 @@
         ],
         "rows": [
           [
-            "Kets, 4 kg",
+            "[Kets, 4 kg](https://www.petz.com.br/produto/areia-higienica-kets-para-gatos-77384)",
             "R$ 9,89 (oferta; cheio R$ 10,99)",
             "R$ 2,47",
             "Fica a oferta"
           ],
           [
-            "Kets, 12 kg",
+            "[Kets, 12 kg](https://www.petz.com.br/produto/areia-higienica-kets-para-gatos-77384?id=72906)",
             "R$ 27,89 (oferta; cheio R$ 30,99)",
             "R$ 2,32",
             "Fica a oferta"
           ],
           [
-            "Kets, 20 kg",
+            "[Kets, 20 kg](https://www.petz.com.br/produto/areia-higienica-kets-para-gatos-77384?id=185160)",
             "R$ 43,99",
             "R$ 2,20",
             "R$ 39,59 (R$ 1,98 o quilo)"
           ],
           [
-            "Kets Gatíssimo Fina Sem Perfume, 4 kg",
+            "[Kets Gatíssimo Fina Sem Perfume, 4 kg](https://www.petz.com.br/produto/areia-higienica-kets-gatissimo-fina-sem-perfume-para-gatos-191180)",
             "R$ 11,69 (oferta; cheio R$ 12,99)",
             "R$ 2,92",
             "Fica a oferta"
           ],
           [
-            "Kets Gatíssimo Fina Sem Perfume, 12 kg",
+            "[Kets Gatíssimo Fina Sem Perfume, 12 kg](https://www.petz.com.br/produto/areia-higienica-kets-gatissimo-fina-sem-perfume-para-gatos-191180?id=191181)",
             "R$ 31,44 (oferta; cheio R$ 36,99)",
             "R$ 2,62",
             "Fica a oferta"
@@ -169,12 +170,16 @@
           "src": "/images/reviews/petz/areia-petz-fresh-graos-medios.webp",
           "alt": "Pacote de 4 kg da areia higiênica Fresh Grãos Médios, em foto oficial da página do produto na Petz",
           "caption": "Fresh Grãos Médios, areia de argila da marca Petz. Foto: Petz.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.petz.com.br/produto/areia-higienica-fresh-graos-medios-para-gatos-199318"
         }
       ]
     },
     {
       "heading": "Argila: Fresh",
+      "paragraphs": [
+        "A Fresh é a areia de argila que a página traz com a marca Petz, em grãos médios, finos e finos perfumados, nos pacotes de 4 kg e 12 kg."
+      ],
       "comparisonTable": {
         "caption": "Mesmas condições da primeira tabela.",
         "headers": [
@@ -185,37 +190,37 @@
         ],
         "rows": [
           [
-            "Fresh Grãos Médios, 4 kg",
+            "[Fresh Grãos Médios, 4 kg](https://www.petz.com.br/produto/areia-higienica-fresh-graos-medios-para-gatos-199318)",
             "R$ 9,99 (oferta; cheio R$ 15,99)",
             "R$ 2,50",
             "Fica a oferta"
           ],
           [
-            "Fresh Grãos Médios, 12 kg",
+            "[Fresh Grãos Médios, 12 kg](https://www.petz.com.br/produto/areia-higienica-fresh-graos-medios-para-gatos-199318?id=199319)",
             "R$ 39,99",
             "R$ 3,33",
             "R$ 35,99 (R$ 3,00 o quilo)"
           ],
           [
-            "Fresh Grãos Finos, 4 kg",
+            "[Fresh Grãos Finos, 4 kg](https://www.petz.com.br/produto/areia-higienica-fresh-graos-finos-para-gatos-199320)",
             "R$ 14,99 (oferta; cheio R$ 17,99)",
             "R$ 3,75",
             "Fica a oferta"
           ],
           [
-            "Fresh Grãos Finos, 12 kg",
+            "[Fresh Grãos Finos, 12 kg](https://www.petz.com.br/produto/areia-higienica-fresh-graos-finos-para-gatos-199320?id=199321)",
             "R$ 42,99",
             "R$ 3,58",
             "R$ 38,69 (R$ 3,22 o quilo)"
           ],
           [
-            "Fresh Grãos Finos Perfumada, 4 kg",
+            "[Fresh Grãos Finos Perfumada, 4 kg](https://www.petz.com.br/produto/areia-higienica-fresh-graos-finos-perfumada-para-gatos-199316)",
             "R$ 16,99 (oferta; cheio R$ 19,99)",
             "R$ 4,25",
             "Fica a oferta"
           ],
           [
-            "Fresh Grãos Finos Perfumada, 12 kg",
+            "[Fresh Grãos Finos Perfumada, 12 kg](https://www.petz.com.br/produto/areia-higienica-fresh-graos-finos-perfumada-para-gatos-199316?id=199317)",
             "R$ 54,99",
             "R$ 4,58",
             "R$ 49,49 (R$ 4,12 o quilo)"
@@ -225,6 +230,9 @@
     },
     {
       "heading": "Argila: Pipicat",
+      "paragraphs": [
+        "A Pipicat é a marca de argila com mais variações de preço, entre as versões Classic, Multicat, Floral e Campestre."
+      ],
       "comparisonTable": {
         "caption": "Mesmas condições da primeira tabela.",
         "headers": [
@@ -235,19 +243,19 @@
         ],
         "rows": [
           [
-            "Pipicat Classic, 4 kg",
+            "[Pipicat Classic, 4 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-classic-para-gatos-79747?id=79747)",
             "R$ 19,20",
             "R$ 4,80",
             "R$ 17,28 (R$ 4,32 o quilo)"
           ],
           [
-            "Pipicat Classic, 12 kg",
+            "[Pipicat Classic, 12 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-classic-para-gatos-79747?id=89656)",
             "R$ 38,99 (oferta; cheio R$ 51,99)",
             "R$ 3,25",
             "Fica a oferta"
           ],
           [
-            "Pipicat Classic, 20 kg",
+            "[Pipicat Classic, 20 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-classic-para-gatos-79747?id=182331)",
             "R$ 72,90 (oferta; cheio R$ 77,99)",
             "R$ 3,65",
             "Vale o desconto maior; confira na sacola"
@@ -259,13 +267,13 @@
             "R$ 17,99 (R$ 4,50 o quilo)"
           ],
           [
-            "Pipicat Multicat, 12 kg",
+            "[Pipicat Multicat, 12 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-multicat-para-gatos-75477)",
             "R$ 48,90 (oferta; cheio R$ 58,99)",
             "R$ 4,08",
             "Fica a oferta"
           ],
           [
-            "Pipicat Floral, 4 kg",
+            "[Pipicat Floral, 4 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-floral-para-gatos-78173)",
             "R$ 19,90 (oferta; cheio R$ 25,99)",
             "R$ 4,98",
             "Fica a oferta"
@@ -277,13 +285,13 @@
             "Fica a oferta"
           ],
           [
-            "Pipicat Floral, 20 kg",
+            "[Pipicat Floral, 20 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-floral-para-gatos-78173?id=182330)",
             "R$ 74,95 (oferta; cheio R$ 95,99)",
             "R$ 3,75",
             "Fica a oferta"
           ],
           [
-            "Pipicat Campestre e Chá Branco, 4 kg",
+            "[Pipicat Campestre e Chá Branco, 4 kg](https://www.petz.com.br/produto/pipicat-campestre-areia-higienica-para-gatos-4kg-80068)",
             "R$ 25,99",
             "R$ 6,50",
             "R$ 23,39 (R$ 5,85 o quilo)"
@@ -327,31 +335,31 @@
             "Fica a oferta"
           ],
           [
-            "Kets Finíssimo, 4 kg",
+            "[Kets Finíssimo, 4 kg](https://www.petz.com.br/produto/areia-granulada-finissimo-kets-para-gatos-150015)",
             "R$ 29,99",
             "R$ 7,50",
             "R$ 26,99 (R$ 6,75 o quilo)"
           ],
           [
-            "Kets Finíssimo, 8 kg",
+            "[Kets Finíssimo, 8 kg](https://www.petz.com.br/produto/areia-granulada-finissimo-kets-para-gatos-150015?id=150030)",
             "R$ 55,99",
             "R$ 7,00",
             "R$ 50,39 (R$ 6,30 o quilo)"
           ],
           [
-            "Petz Ultra Absorção, 4 kg",
+            "[Petz Ultra Absorção, 4 kg](https://www.petz.com.br/produto/areia-petz-ultra-absorcao-para-gatos-191242)",
             "R$ 39,99 (oferta; cheio R$ 54,99)",
             "R$ 10,00",
             "Fica a oferta"
           ],
           [
-            "Petz Ultra Absorção, 10 kg",
+            "[Petz Ultra Absorção, 10 kg](https://www.petz.com.br/produto/areia-petz-ultra-absorcao-para-gatos-191243)",
             "R$ 129,99 (oferta; cheio R$ 159,99)",
             "R$ 13,00",
             "Fica a oferta"
           ],
           [
-            "Pipicat Ultra Control, 4 kg",
+            "[Pipicat Ultra Control, 4 kg](https://www.petz.com.br/produto/granulado-sanitario-pipicat-ultra-control-para-gatos-4kg-178634)",
             "R$ 54,89 (oferta; cheio R$ 60,99)",
             "R$ 13,72",
             "Fica a oferta"
@@ -366,7 +374,8 @@
           "src": "/images/reviews/petz/areia-petz-ultra-absorcao-4kg.webp",
           "alt": "Pacote de 4 kg do granulado higiênico Petz Ultra Absorção, em foto oficial da página do produto na Petz",
           "caption": "Petz Ultra Absorção 4 kg, de bentonita sódica. Foto: Petz.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.petz.com.br/produto/areia-petz-ultra-absorcao-para-gatos-191242"
         }
       ]
     },
@@ -385,43 +394,43 @@
         ],
         "rows": [
           [
-            "Ipet Woods, 2 kg",
+            "[Ipet Woods, 2 kg](https://www.petz.com.br/produto/granulado-higienico-de-madeira-para-gatos-ipet-woods-167932)",
             "R$ 17,99",
             "R$ 9,00",
             "R$ 16,19 (R$ 8,10 o quilo)"
           ],
           [
-            "Ipet Woods, 4 kg",
+            "[Ipet Woods, 4 kg](https://www.petz.com.br/produto/granulado-higienico-de-madeira-para-gatos-ipet-woods-167932?id=167933)",
             "R$ 31,99",
             "R$ 8,00",
             "R$ 28,79 (R$ 7,20 o quilo)"
           ],
           [
-            "Like Cat, 2 kg",
+            "[Like Cat, 2 kg](https://www.petz.com.br/produto/granulado-higienico-de-madeira-like-cat-83061)",
             "R$ 17,99",
             "R$ 9,00",
             "R$ 16,19 (R$ 8,10 o quilo)"
           ],
           [
-            "CarePet Premium, 2,5 kg",
+            "[CarePet Premium, 2,5 kg](https://www.petz.com.br/produto/areia-granulada-de-madeira-premium-carepet-para-gatos-150222)",
             "R$ 18,99",
             "R$ 7,60",
             "R$ 17,09 (R$ 6,84 o quilo)"
           ],
           [
-            "Progato Pinus, 5 kg",
+            "[Progato Pinus, 5 kg](https://www.petz.com.br/produto/granulado-higienico-progato-para-gatos-pinus-148287)",
             "R$ 36,99",
             "R$ 7,40",
             "R$ 33,29 (R$ 6,66 o quilo)"
           ],
           [
-            "Kets Granulada de Madeira, 2 kg",
+            "[Kets Granulada de Madeira, 2 kg](https://www.petz.com.br/produto/areia-kets-granulada-de-madeira-para-gatos-158892)",
             "R$ 20,99",
             "R$ 10,50",
             "R$ 18,89 (R$ 9,45 o quilo)"
           ],
           [
-            "Cat's Best Smart Pellet, 5 kg",
+            "[Cat's Best Smart Pellet, 5 kg](https://www.petz.com.br/produto/granulado-higienico-cats-best-para-gatos-smart-pellet-146954)",
             "R$ 138,99",
             "R$ 27,80",
             "R$ 125,09 (R$ 25,02 o quilo)"
@@ -433,12 +442,16 @@
           "src": "/images/reviews/petz/areia-petz-ipet-woods-granulado-madeira.webp",
           "alt": "Pacote de 2 kg do granulado higiênico de madeira Ipet Woods, em foto oficial da página do produto na Petz",
           "caption": "Ipet Woods, granulado de pinus. Foto: Petz.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.petz.com.br/produto/granulado-higienico-de-madeira-para-gatos-ipet-woods-167932"
         }
       ]
     },
     {
       "heading": "Madeira: pacotes de 10 kg e 20 kg",
+      "paragraphs": [
+        "Aqui ficam os pacotes grandes dos mesmos granulados de madeira, para comparar o quilo com os pacotes pequenos da tabela anterior."
+      ],
       "comparisonTable": {
         "caption": "Mesmas condições da primeira tabela.",
         "headers": [
@@ -449,37 +462,37 @@
         ],
         "rows": [
           [
-            "Ipet Woods, 10 kg",
+            "[Ipet Woods, 10 kg](https://www.petz.com.br/produto/granulado-higienico-de-madeira-para-gatos-ipet-woods-167932?id=162470)",
             "R$ 66,99",
             "R$ 6,70",
             "R$ 60,29 (R$ 6,03 o quilo)"
           ],
           [
-            "Ipet Woods, 20 kg",
+            "[Ipet Woods, 20 kg](https://www.petz.com.br/produto/granulado-higienico-de-madeira-para-gatos-ipet-woods-167932?id=167934)",
             "R$ 106,99",
             "R$ 5,35",
             "R$ 96,29 (R$ 4,81 o quilo)"
           ],
           [
-            "Like Cat, 10 kg",
+            "[Like Cat, 10 kg](https://www.petz.com.br/produto/granulado-higienico-de-madeira-like-cat-83061?id=82300)",
             "R$ 68,50 (oferta; cheio R$ 72,99)",
             "R$ 6,85",
             "Vale o desconto maior; confira na sacola"
           ],
           [
-            "Like Cat, 20 kg",
+            "[Like Cat, 20 kg](https://www.petz.com.br/produto/granulado-higienico-de-madeira-like-cat-83061?id=167928)",
             "R$ 136,99",
             "R$ 6,85",
             "R$ 123,29 (R$ 6,16 o quilo)"
           ],
           [
-            "CarePet Premium, 10 kg",
+            "[CarePet Premium, 10 kg](https://www.petz.com.br/produto/areia-granulada-de-madeira-premium-carepet-para-gatos-150222?id=150224)",
             "R$ 69,99",
             "R$ 7,00",
             "R$ 62,99 (R$ 6,30 o quilo)"
           ],
           [
-            "Kets Granulada de Madeira, 10 kg",
+            "[Kets Granulada de Madeira, 10 kg](https://www.petz.com.br/produto/areia-kets-granulada-de-madeira-para-gatos-158892?id=158893)",
             "R$ 99,99",
             "R$ 10,00",
             "R$ 89,99 (R$ 9,00 o quilo)"
@@ -511,13 +524,13 @@
         ],
         "rows": [
           [
-            "Petz Milho e Mandioca (grãos finos e médios), 4 kg",
+            "[Petz Milho e Mandioca (grãos finos e médios), 4 kg](https://www.petz.com.br/produto/granulado-higienico-petz-biodegradavel-milho-e-mandioca-graos-finos-para-gatos-201022)",
             "R$ 49,99 (oferta; cheio R$ 59,99)",
             "R$ 12,50",
             "Fica a oferta"
           ],
           [
-            "Petz Cereais, 3 kg",
+            "[Petz Cereais, 3 kg](https://www.petz.com.br/produto/granulado-higienico-petz-biodegradavel-cereais-para-gatos-3kg-181377)",
             "R$ 44,99",
             "R$ 15,00",
             "R$ 40,49 (R$ 13,50 o quilo)"
@@ -529,7 +542,7 @@
             "R$ 40,49 (R$ 13,50 o quilo)"
           ],
           [
-            "Kets Bio-D, 3 kg",
+            "[Kets Bio-D, 3 kg](https://www.petz.com.br/produto/areia-kets-bio-d-para-gatos-3kg-159514)",
             "R$ 43,99",
             "R$ 14,66",
             "R$ 39,59 (R$ 13,20 o quilo)"
@@ -541,13 +554,13 @@
             "Fica a oferta"
           ],
           [
-            "Kets Natureza Viva (fina, média e grossa), 4 kg",
+            "[Kets Natureza Viva (fina, média e grossa), 4 kg](https://www.petz.com.br/produto/areia-kets-natureza-viva-fina-para-gatos-209476)",
             "R$ 67,99",
             "R$ 17,00",
             "R$ 61,19 (R$ 15,30 o quilo)"
           ],
           [
-            "Viva Verde Grãos Finos, 4 kg",
+            "[Viva Verde Grãos Finos, 4 kg](https://www.petz.com.br/produto/areia-higienica-viva-verde-graos-finos-para-gatos-192260?id=151525)",
             "R$ 59,49 (oferta; cheio R$ 69,99)",
             "R$ 14,87",
             "Fica a oferta"
@@ -559,19 +572,19 @@
             "R$ 62,91 (R$ 15,73 o quilo)"
           ],
           [
-            "Cansei de Ser Gato (grãos finos e médios), 2 kg",
+            "[Cansei de Ser Gato (grãos finos e médios), 2 kg](https://www.petz.com.br/produto/areia-higienica-cansei-de-ser-gato-biodegradavel-graos-finos-184526)",
             "R$ 29,99 (oferta; cheio R$ 39,99)",
             "R$ 15,00",
             "Fica a oferta"
           ],
           [
-            "Cansei de Ser Gato (grãos finos e médios), 4 kg",
+            "[Cansei de Ser Gato (grãos finos e médios), 4 kg](https://www.petz.com.br/produto/areia-higienica-cansei-de-ser-gato-biodegradavel-graos-finos-184526?id=184527)",
             "R$ 69,99",
             "R$ 17,50",
             "R$ 62,99 (R$ 15,75 o quilo)"
           ],
           [
-            "Pipicat Bio Vegetal, 2,2 kg",
+            "[Pipicat Bio Vegetal, 2,2 kg](https://www.petz.com.br/produto/granulado-sanitario-pipicat-bio-vegetal-para-gatos-2-2kg-199123)",
             "R$ 42,99",
             "R$ 19,54",
             "R$ 38,69 (R$ 17,59 o quilo)"
@@ -583,12 +596,16 @@
           "src": "/images/reviews/petz/areia-petz-milho-e-mandioca-graos-finos.webp",
           "alt": "Pacote de 4 kg do granulado Petz Milho e Mandioca Grãos Finos, em foto oficial da página do produto na Petz",
           "caption": "Petz Milho e Mandioca Grãos Finos 4 kg. Foto: Petz.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.petz.com.br/produto/granulado-higienico-petz-biodegradavel-milho-e-mandioca-graos-finos-para-gatos-201022"
         }
       ]
     },
     {
       "heading": "Vegetais: pacotes de 6 kg e 10 kg",
+      "paragraphs": [
+        "Aqui ficam os pacotes maiores das areias vegetais, para comparar o quilo com os de 2 kg a 4 kg da tabela anterior."
+      ],
       "comparisonTable": {
         "caption": "Mesmas condições da primeira tabela.",
         "headers": [
@@ -599,25 +616,25 @@
         ],
         "rows": [
           [
-            "Petz Milho e Mandioca (grãos finos e médios), 10 kg",
+            "[Petz Milho e Mandioca (grãos finos e médios), 10 kg](https://www.petz.com.br/produto/granulado-higienico-petz-biodegradavel-milho-e-mandioca-graos-finos-para-gatos-201022?id=201024)",
             "R$ 119,99 (oferta; cheio R$ 144,99)",
             "R$ 12,00",
             "Fica a oferta"
           ],
           [
-            "Kat Bom Tradicional e Capim Limão, 6 kg",
+            "[Kat Bom Tradicional e Capim Limão, 6 kg](https://www.petz.com.br/produto/granulado-higienico-kat-bom-tradicional-para-gatos-178163)",
             "R$ 79,04 (oferta; cheio R$ 92,99)",
             "R$ 13,17",
             "Fica a oferta"
           ],
           [
-            "Kets Natureza Viva (fina, média e grossa), 10 kg",
+            "[Kets Natureza Viva (fina, média e grossa), 10 kg](https://www.petz.com.br/produto/areia-kets-natureza-viva-fina-para-gatos-209476?id=209477)",
             "R$ 148,49 (oferta; cheio R$ 164,99)",
             "R$ 14,85",
             "Fica a oferta"
           ],
           [
-            "Viva Verde Grãos Finos, 10 kg",
+            "[Viva Verde Grãos Finos, 10 kg](https://www.petz.com.br/produto/areia-higienica-viva-verde-graos-finos-para-gatos-192260?id=192260)",
             "R$ 169,90",
             "R$ 16,99",
             "R$ 152,91 (R$ 15,29 o quilo)"
@@ -629,7 +646,7 @@
             "R$ 152,91 (R$ 15,29 o quilo)"
           ],
           [
-            "Cansei de Ser Gato (grãos finos e médios), 10 kg",
+            "[Cansei de Ser Gato (grãos finos e médios), 10 kg](https://www.petz.com.br/produto/areia-higienica-cansei-de-ser-gato-biodegradavel-graos-finos-184526?id=191418)",
             "R$ 169,99",
             "R$ 17,00",
             "R$ 152,99 (R$ 15,30 o quilo)"
@@ -655,31 +672,31 @@
         ],
         "rows": [
           [
-            "Pipicat Bianco, 1,8 kg",
+            "[Pipicat Bianco, 1,8 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-bianco-para-gatos-1-8kg-153669)",
             "R$ 26,99 (oferta; cheio R$ 28,99)",
             "R$ 14,99",
             "Vale o desconto maior; confira na sacola"
           ],
           [
-            "Pipicat Bianco Lavanda e Sensitive, 1,8 kg",
+            "[Pipicat Bianco Lavanda e Sensitive, 1,8 kg](https://www.petz.com.br/produto/granulado-sanitario-pipicat-bianco-lavanda-1-8kg-190271)",
             "R$ 28,99",
             "R$ 16,11",
             "R$ 26,09 (R$ 14,49 o quilo)"
           ],
           [
-            "White Kets, 1,8 kg",
+            "[White Kets, 1,8 kg](https://www.petz.com.br/produto/areia-white-kets-para-gatos-151413)",
             "R$ 27,99",
             "R$ 15,55",
             "R$ 25,19 (R$ 13,99 o quilo)"
           ],
           [
-            "White Kets, 20 kg",
+            "[White Kets, 20 kg](https://www.petz.com.br/produto/areia-white-kets-para-gatos-151413?id=151325)",
             "R$ 299,99",
             "R$ 15,00",
             "R$ 269,99 (R$ 13,50 o quilo)"
           ],
           [
-            "Pipicat Ultra Light, 2 kg",
+            "[Pipicat Ultra Light, 2 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-ultra-light-para-gatos-2kg-154091)",
             "R$ 58,99",
             "R$ 29,50",
             "R$ 53,09 (R$ 26,55 o quilo)"
@@ -694,12 +711,16 @@
           "src": "/images/reviews/petz/areia-petz-pipicat-bianco.webp",
           "alt": "Pacote da areia Pipicat Bianco, em foto oficial da página do produto na Petz",
           "caption": "Pipicat Bianco, de sílica natural. Foto: Petz.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.petz.com.br/produto/areia-higienica-pipicat-bianco-para-gatos-1-8kg-153669"
         }
       ]
     },
     {
       "heading": "Sílica em cristal",
+      "paragraphs": [
+        "A sílica em cristal é a sílica gel, vendida em pacotes de 1,4 kg a 1,8 kg."
+      ],
       "comparisonTable": {
         "caption": "Mesmas condições da primeira tabela.",
         "headers": [
@@ -710,19 +731,19 @@
         ],
         "rows": [
           [
-            "Chalesco com Cristais de Sílica, 1,4 kg",
+            "[Chalesco com Cristais de Sílica, 1,4 kg](https://www.petz.com.br/produto/areia-higienica-chalesco-com-cristais-de-silica-para-gatos-1-4-kg-191124)",
             "R$ 32,89 (oferta; cheio R$ 34,99)",
             "R$ 23,49",
             "Vale o desconto maior; confira na sacola"
           ],
           [
-            "Chalesco com Cristais de Sílica, 1,8 kg",
+            "[Chalesco com Cristais de Sílica, 1,8 kg](https://www.petz.com.br/produto/areia-higienica-chalesco-com-cristais-de-silica-para-gatos-1-8kg-72861)",
             "R$ 45,99",
             "R$ 25,55",
             "R$ 41,39 (R$ 22,99 o quilo)"
           ],
           [
-            "Fresh Sílica Cristal, 1,6 kg",
+            "[Fresh Sílica Cristal, 1,6 kg](https://www.petz.com.br/produto/areia-higienica-fresh-silica-cristal-para-gatos-181860)",
             "R$ 39,99",
             "R$ 24,99",
             "R$ 35,99 (R$ 22,49 o quilo)"
@@ -750,26 +771,35 @@
       "paragraphs": [
         "Pelo preço cheio, o pacote maior custa menos por quilo em quase todas as areias das tabelas. As exceções são a Petz Ultra Absorção, em que o pacote de 4 kg custa menos por quilo que o de 10 kg, e a Chalesco, em que o de 1,4 kg custa menos que o de 1,8 kg.",
         "As ofertas mudam a conta: na leitura, muitas caíam num tamanho só. O pacote menor estava mais barato por quilo na Fresh Grãos Médios, na Fresh Grãos Finos Perfumada, na Viva Verde Grãos Finos e na Cansei de Ser Gato, todas com oferta só no menor. Na Pipicat Classic, o pacote de 12 kg saía mais barato por quilo que o de 20 kg."
-      ],
-      "emphasis": "Antes de levar o pacote maior, divida o preço pelo peso dos dois tamanhos: a oferta da semana pode estar no menor."
+      ]
     },
     {
       "heading": "Cupom, oferta e retirada: o que muda o total",
       "paragraphs": [
         "O EMCASA tira 10% do pacote sem oferta e não mexe no que já está em oferta maior. Na sacola, com uma areia de cada caso, a Pipicat Ultra Dry de 12 kg caiu de R$ 179,90 para R$ 161,91. A Petz Ultra Absorção de 4 kg, que já estava em oferta de 27%, ficou nos mesmos R$ 39,99. O passo a passo do cupom está em [como usar o cupom da Petz](/reviews/cupom-petz-como-usar).",
+        "O botão desta página abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho: cole o código no campo “Digite seu cupom” da sacola. Os preços 10% menores que aparecem nos produtos são os de assinante.",
         "No teste, escolher Retire na Loja reduziu o total de R$ 201,90 para R$ 191,80, depois do cupom e da oferta. A retirada informa mais 5% em pedidos acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste. Se comprar areia junto com ração ou outro item, confira se o total atinge esse mínimo e se há retirada disponível. As modalidades estão comparadas em [Entrega Expressa ou Retire na Loja](/reviews/petz-entrega-expressa-ou-retirar-na-loja).",
         "A loja informa: o frete é grátis em pedidos acima de R$ 199 no Sul e no Sudeste e acima de R$ 299 nas outras regiões, e pedidos acima de 50 kg de peso cubado podem ter cobrança adicional. A política não traz regra própria para areia. Na nossa sacola, para um CEP de São Paulo, a entrega Padrão saiu grátis e a Expressa, R$ 7,90. Simule o seu CEP: areia pesa, e o frete muda com o pedido.",
         "Quem compra areia todo mês pode comparar o cupom com a assinatura da loja, que mostra preço próprio em cada página: a conta está em [assinatura Petz ou cupom](/reviews/assinatura-petz-ou-cupom)."
+      ],
+      "emphasis": "Para gastar menos por quilo, eu escolheria a Kets de 20 kg, e antes de levar qualquer pacote maior eu dividiria o preço pelo peso dos dois tamanhos, porque a oferta da semana pode estar no menor.",
+      "links": [
+        {
+          "label": "Ir para a Petz",
+          "href": "https://petz.com.br/parceiro/emcasa",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é a areia para gato mais barata da Petz? Por quilo, a Kets de argila no pacote de 20 kg, pouco acima de R$ 2, e abaixo disso com o EMCASA. Entre as vegetais, a Petz Milho e Mandioca tinha o menor quilo, em oferta.",
+        "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Ele entra no pacote sem oferta ou com oferta menor que 10%; se a oferta for maior, a sacola fica com ela.",
+        "Qual é a areia para gato mais barata da Petz? Por quilo, a Kets de argila no pacote de 20 kg é a mais barata da tabela, e fica ainda menor com o EMCASA. Entre as vegetais, a Petz Milho e Mandioca tinha o menor quilo, em oferta.",
         "A areia da marca Petz é boa? As páginas mostram a composição e o preço. Na oferta da leitura, a Petz Milho e Mandioca custava menos por quilo que as outras vegetais; a Ultra Absorção custa mais que as areias de bentonita da Kets.",
         "O cupom EMCASA vale em areia em promoção? A sacola não soma os dois: fica o desconto maior. No pacote com oferta acima de 10%, o preço da oferta ficou igual; no pacote sem oferta, o cupom entrou inteiro.",
         "Areia biodegradável pode ir no vaso sanitário? A Petz classifica como biodegradáveis os granulados de madeira e as areias de milho, mandioca e cereais. Isso não é o mesmo que poder ir no vaso. A embalagem da Petz Cereais traz a frase descartável em vaso sanitário; nas outras, siga a instrução de descarte de cada pacote.",
-        "Viva Verde ou Pipicat: qual é mais barata? São tipos diferentes. A Viva Verde é de milho e mandioca e fica perto de R$ 17 o quilo sem desconto; a Pipicat Classic é de argila e fica abaixo de R$ 5. A vegetal da Pipicat, a Bio Vegetal, custa mais por quilo que a Viva Verde."
+        "Viva Verde ou Pipicat: qual é mais barata? São tipos diferentes. A Viva Verde é de milho e mandioca e fica bem acima da Pipicat Classic, que é de argila e está entre as mais baratas por quilo. A vegetal da Pipicat, a Bio Vegetal, custa mais por quilo que a Viva Verde."
       ]
     }
   ]

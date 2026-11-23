@@ -156,6 +156,11 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
   const code = review.coupon || undefined;
   const storeCode = getStoreCode(store);
   const isStoreCode = storeOwnsCode(store, code);
+  // Na loja de faixas (Magalu), o artigo usa o código de uma faixa: o recorte mostra o desconto e o mínimo dela, não o
+  // intervalo de todas.
+  const matchedTier = code && code !== storeCode && store.offerMode === 'discount-code'
+    ? store.tiers?.find((tier) => tier.code === code)
+    : undefined;
 
   // Fora do PT, as regras só existem na tradução da loja; em PT, nos dados da própria loja. Loja com código só
   // mostra as regras quando o código do artigo é o dela; loja sem código (Lejour), sempre.
@@ -186,7 +191,11 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
     code,
     codeKind: getStoreCodeKind(store, code),
     // Fora do PT, só o texto da tradução: o desconto da loja em PT não vai a outro idioma.
-    discount: isStoreCode ? source?.discount : undefined,
+    discount: !isStoreCode
+      ? undefined
+      : matchedTier && locale === 'pt'
+        ? `${matchedTier.discount} a partir de ${matchedTier.minPurchase}`
+        : source?.discount,
     ...(cutoutNote && { cutoutNote }),
     ...(productLinks && { productLinks }),
     rules: rules.filter((rule) => rule.value).slice(0, MAX_RULES).map((rule) => ({ ...rule, value: shortenRule(rule.value) })),

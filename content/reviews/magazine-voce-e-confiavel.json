@@ -17,6 +17,7 @@
   "metaDescription": "Magazine Você é confiável ou é golpe? O domínio é da Magazine Luiza S/A desde 2011. Veja quem vende e entrega e um checklist para conferir a loja.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/magalu/magazine-voce-e-confiavel-capa-v2.webp",
@@ -27,9 +28,9 @@
   "cons": [],
   "contentSections": [
     {
-      "heading": "Resposta direta: o Magazine Você é confiável?",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, com o domínio magazinevoce.com.br em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido; estoque e envio dependem de quem anuncia o produto. Na loja da Cecília, os códigos do [cupom Magalu](/cupons/magalu), de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, valem só no navegador."
+        "Sim: o Magazine Você é o programa oficial de lojas de influenciadores do Magalu, com o domínio magazinevoce.com.br em nome da Magazine Luiza S/A. O Magalu cobra e atende o pedido. No Reclame Aqui, o perfil da loja online tem reputação Ótima e nota 8,2. Os códigos do [cupom Magalu](/cupons/magalu) da Cecília valem só no navegador."
       ]
     },
     {
@@ -54,24 +55,71 @@
       ]
     },
     {
-      "heading": "O preço é o mesmo do site do Magalu?",
+      "heading": "O preço é o mesmo do Magalu?",
       "paragraphs": [
-        "A central de ajuda dos influenciadores responde que sim: \"Tanto os preços, quanto as campanhas realizadas no site do Magazine Luiza, valem também para as lojas dos Influenciadores Magalu\". De vez em quando, diz a central, há promoções exclusivas da plataforma."
+        "A central de ajuda dos influenciadores responde que sim: \"Tanto os preços, quanto as campanhas realizadas no site do Magazine Luiza, valem também para as lojas dos Influenciadores Magalu\". De vez em quando, diz a central, há promoções exclusivas da plataforma.",
+        "Na prática, o produto aparece na vitrine do influenciador com a mesma ficha e o mesmo \"Vendido e entregue por\" do catálogo do Magalu. O influenciador não controla o preço, o estoque nem o prazo: quem define é o vendedor do item.",
+        "Antes de pagar, confira na vitrine o vendedor e o valor final. Se o item for de loja parceira e não do Magalu, o código da Cecília não vale nele."
       ]
     },
     {
       "heading": "O que o Reclame Aqui mostra",
       "paragraphs": [
-        "Para o atendimento ao comprador, o perfil é “Magazine Luiza - Loja Online”. Com dados até 30/09/2026, tinha reputação RA1000 e nota 8,2 de 10 no recorte de seis meses. A imagem abaixo mostra os indicadores desse recorte. No histórico de até três anos, o problema mais citado era atraso na entrega (24,18%).",
-        "O perfil “Influenciador Magalu (Magazine Você)” trata do programa e não é verificado pelo Reclame Aqui. No mesmo recorte, aparecia como Não Recomendada, com 55 reclamações e nenhuma respondida. As cinco reclamações mais recentes da página eram de influenciadores sobre comissão; essa amostra não descreve todas as queixas.",
+        "Para o atendimento ao comprador, o perfil é \"Magazine Luiza - Loja Online\", que não tem selo Empresa Verificada. No recorte de seis meses, de maio a outubro de 2026, a reputação era Ótima, com nota 8,2 de 10; no recorte de doze meses, também Ótima e 8,2. A tabela traz os indicadores dos dois recortes.",
+        "Dois cuidados com os números. As 55.257 reclamações em seis meses são um número absoluto: sem o total de pedidos do Magalu, ele não vira proporção, e dizer \"poucas\" ou \"muitas\" não cabe aqui. E o índice de resolvidas e o de quem voltaria a comprar valem só para as reclamações avaliadas (29.332 no semestre), nunca para todos os clientes.",
+        "Os motivos mais citados vêm de outra aba, a Geral, que cobre até três anos e não se mistura com os recortes acima: o problema mais frequente é atraso na entrega (23,74%), e a categoria mais citada é eletrodomésticos (14,63%). O histórico mês a mês mostra Ótima em quatro dos seis meses e RA1000 em dois deles; a reputação muda com o tempo.",
+        "O perfil \"Influenciador Magalu (Magazine Você)\" trata do programa e não é verificado pelo Reclame Aqui. Na leitura de outubro, no recorte de seis meses, aparecia como Não Recomendada, com 55 reclamações e nenhuma respondida. As cinco reclamações mais recentes da página eram de influenciadores sobre comissão; essa amostra não descreve todas as queixas.",
         "Se o problema é com um pedido, procure o atendimento do Magalu, que vendeu ou intermediou a compra. Esses indicadores são históricos e não substituem a conferência de quem vende e entrega o produto."
       ],
-      "image": {
-        "src": "/images/reviews/magalu/reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
-        "alt": "Painel de desempenho do perfil Magazine Luiza - Loja Online no Reclame Aqui: reputação RA1000, nota 8,2, 54.989 reclamações, 94,5% respondidas, 90,4% resolvidas e 74,9% voltariam a fazer negócio",
-        "caption": "Perfil Magazine Luiza - Loja Online no Reclame Aqui, no recorte de seis meses.",
-        "objectFit": "portrait",
-        "aspectRatio": 0.3081
+      "comparisonTable": {
+        "caption": "Perfil Magazine Luiza - Loja Online no Reclame Aqui: indicadores dos recortes de seis e de doze meses.",
+        "headers": [
+          "Indicador",
+          "6 meses",
+          "12 meses"
+        ],
+        "rows": [
+          [
+            "Reputação",
+            "Ótima",
+            "Ótima"
+          ],
+          [
+            "Nota",
+            "8,2",
+            "8,2"
+          ],
+          [
+            "Reclamações recebidas",
+            "55.257",
+            "129.686"
+          ],
+          [
+            "Respondidas",
+            "95,3%",
+            "96,2%"
+          ],
+          [
+            "Resolvidas (entre as avaliadas)",
+            "89,6%",
+            "89,9%"
+          ],
+          [
+            "Voltariam a fazer negócio (entre as avaliadas)",
+            "73,9%",
+            "73,4%"
+          ],
+          [
+            "Reclamações avaliadas",
+            "29.332",
+            "72.759"
+          ],
+          [
+            "Nota do consumidor",
+            "7,02",
+            "6,96"
+          ]
+        ]
       }
     },
     {
@@ -95,7 +143,9 @@
     {
       "heading": "Login, entrar e app",
       "paragraphs": [
-        "O login de quem tem loja no programa fica em magazinevoce.com.br/login. Para comprar, você não precisa de loja: escolhe o produto na loja do influenciador e paga no checkout do Magalu pelo navegador."
+        "O login de quem tem loja no programa fica em magazinevoce.com.br/login. Para comprar, você não precisa de loja: escolhe o produto na loja do influenciador e paga no checkout do Magalu pelo navegador.",
+        "O caminho do comprador é este: monte a sacola na vitrine, siga para o fechamento e entre com a sua conta Magalu. A sacola não tem campo de cupom; ela só avisa que você poderá usar o cupom na etapa de pagamento. É nessa etapa, depois do login e da escolha da entrega, que o código da Cecília é digitado.",
+        "No app do Magalu, os códigos da Cecília não funcionam."
       ]
     },
     {
@@ -107,9 +157,15 @@
     {
       "heading": "A loja do Em Casa com Cecília",
       "paragraphs": [
-        "A minha loja segue esses critérios: o endereço é magazinevoce.com.br/magazineemcasacomcecilia/ e mostra o selo do programa com o nome Emcasacomcecilia. Os cupons da Cecília (que começam em 10EMCASACOMCECILIA e sobem de forma escalonada até 100EMCASACOMCECILIA) valem só para compras pelo navegador (não no app do Magalu) dentro da minha loja, em produtos vendidos e entregues pelo Magalu. As faixas e as regras estão no guia do cupom."
+        "A minha loja segue esses critérios: o endereço é magazinevoce.com.br/magazineemcasacomcecilia/ e mostra o selo do programa com o nome Emcasacomcecilia.",
+        "Os cupons da Cecília, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, só funcionam no navegador, dentro da minha loja, e só em produtos vendidos e entregues pelo Magalu. Itens de lojistas parceiros e o app do Magalu ficam fora. As faixas e as regras estão no guia do cupom."
       ],
       "links": [
+        {
+          "label": "Ir para a loja da Cecília no Magalu",
+          "href": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/",
+          "sponsored": true
+        },
         {
           "label": "Como usar o cupom Magalu da Cecília",
           "href": "/reviews/cupom-magalu-em-casa-com-cecilia"
@@ -118,20 +174,22 @@
           "label": "Cupom Magalu: os códigos da Cecília",
           "href": "/cupons/magalu"
         }
-      ]
+      ],
+      "emphasis": "Para comprar com segurança na minha vitrine, eu conferiria o endereço magazinevoce.com.br, o \"Vendido e entregue por Magalu\" de cada item e só então digitaria o código, no navegador e na etapa de pagamento."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom do Magalu? Na loja Magazine Você da Cecília, pelo navegador, os códigos vão de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, de 10 a 100 reais de desconto conforme o valor do carrinho, em produtos vendidos e entregues pelo Magalu. Eles não valem no app.",
         "magazinevoce.com.br é confiável? Sim: é o domínio do programa oficial, registrado em nome da Magazine Luiza S/A (CNPJ 47.960.950/0001-21) desde 2011. O Magalu cobra e atende o pedido; confira na página do produto quem vende e entrega.",
         "O Magazine Você é golpe? Não: é o programa oficial de lojas de influenciador do Magalu; golpe é um site fora desse domínio que se passa por ele, ou um pagamento fora do checkout do Magalu.",
-        "Comprar no Magalu é seguro? O Magalu tem CNPJ próprio e reputação RA1000 no Reclame Aqui, mas nenhuma nota garante uma compra sem problema: confira o \"Vendido e entregue por\" e desconfie de boleto ou link de cobrança recebido por mensagem.",
+        "Comprar no Magalu é seguro? O Magalu tem CNPJ próprio e reputação Ótima no Reclame Aqui, mas nenhuma nota garante uma compra sem problema: confira o \"Vendido e entregue por\" e desconfie de boleto ou link de cobrança recebido por mensagem.",
         "Comprar no Magalu pelo WhatsApp é seguro? Depende de quem está do outro lado: use o canal oficial da Lu, aberto pela central de atendimento do Magalu; no aviso sobre pedidos internacionais taxados, o Magalu diz que nunca envia boletos ou links de cobrança por e-mail, SMS ou WhatsApp.",
         "O que é o Magazine Você? É o programa em que uma pessoa física cria uma loja grátis dentro do Magalu e recebe comissão pelas vendas; hoje a página do programa usa o nome Influenciador Magalu.",
         "Quem vende e entrega o pedido feito pela loja do influenciador? O Magalu cobra e atende o pedido; o produto pode ser vendido e entregue pelo Magalu ou por uma loja parceira, e a página do produto mostra qual.",
-        "O preço é o mesmo do site do Magalu? Segundo a central de ajuda dos influenciadores, sim: preços e campanhas do site valem nas lojas dos influenciadores, com promoções exclusivas de vez em quando.",
+        "O preço é o mesmo do Magalu? Segundo a central de ajuda dos influenciadores, sim: preços e campanhas do Magalu valem nas lojas dos influenciadores, com promoções exclusivas de vez em quando.",
         "Como saber se a loja Magazine Você é oficial? O endereço é magazinevoce.com.br/nome-da-loja/, o domínio está no CNPJ do Magalu no registro.br e a loja mostra o selo do programa com o nome de quem a mantém.",
-        "O que o Reclame Aqui diz do Magalu? O perfil Magazine Luiza - Loja Online tinha reputação RA1000 no recorte de seis meses; veja os números no capítulo acima.",
+        "O que o Reclame Aqui diz do Magalu? O perfil Magazine Luiza - Loja Online tem reputação Ótima e nota 8,2 no recorte de seis meses; veja os números no capítulo acima.",
         "O Magazine Você tem perfil no Reclame Aqui? Sim: o perfil “Influenciador Magalu (Magazine Você)” aparecia como Não Recomendada no recorte de seis meses. As cinco reclamações recentes da página eram de influenciadores sobre comissão; veja o capítulo acima.",
         "O influenciador vê meus dados de pagamento? Quem cobra é o Magalu, no checkout do Magalu; no meu painel de loja eu não vejo cartão.",
         "Como entrar na minha loja do Magazine Você? O login de quem tem loja no programa fica em magazinevoce.com.br/login."
@@ -146,13 +204,16 @@
   },
   "coupon": "10EMCASACOMCECILIA",
   "affiliate": "magalu",
-  "editorialNote": "Podemos receber comissão pelas compras feitas na loja da Cecília, no programa de influenciadores do Magalu.",
+  "editorialNote": "Podemos receber comissão pelas compras feitas na loja da Cecília, no Magalu.",
   "relatedArticles": [
     {
       "slug": "cupom-magalu-em-casa-com-cecilia"
     },
     {
       "slug": "black-friday-magalu"
+    },
+    {
+      "slug": "cupom-magalu-primeira-compra"
     }
   ]
 }

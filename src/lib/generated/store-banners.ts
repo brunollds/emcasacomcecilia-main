@@ -574,12 +574,12 @@ export const storeBannersData: StoreBanner[] = [
     "copy": {
       "pt": {
         "headline": "Black das Blacks do Magalu: ofertas de Black Friday o mês todo",
-        "text": "Campanha do próprio Magalu. As condições aparecem no site do Magalu.",
+        "text": "Campanha do próprio Magalu. As condições aparecem na loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Página magazineluiza.com.br/lp/black-friday (\"a Black das Blacks Magalu é muito mais do que uma única sexta-feira, é um mês inteiro com ofertas da Black Friday\"), lida no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "source": "Página magazineluiza.com.br/lp/black-friday (\"a Black das Blacks Magalu é muito mais do que uma única sexta-feira, é um mês inteiro com ofertas da Black Friday\"), lida no navegador em 04/11/2026 e de novo em 22/11/2026, sem data de fim publicada",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "max-titanium-brinde-meias-2026",
@@ -649,6 +649,7 @@ export const storeBannersData: StoreBanner[] = [
       "kind": "tag",
       "value": "70%"
     },
+    "endsAt": "2026-11-30T23:59:59-03:00",
     "copy": {
       "pt": {
         "headline": "Petz Friday: até 70% OFF",
@@ -657,8 +658,8 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "ATÉ"
       }
     },
-    "source": "Banner da home de petz.com.br (\"A Black de quem tem pet, Petz Friday até 70% off\", válido por tempo limitado), lido no navegador em 18/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-18"
+    "source": "Regulamento da Black Friday Petz 2026 em petz.com.br/especiais/black-friday-2026 (\"no período de 30/10/2026 a 30/11/2026, nas lojas físicas, no site e no aplicativo\") e banner da home (\"Petz Friday até 70% off\"), lidos no navegador em 22/11/2026",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "probiotica-novembro-pro-2026",

@@ -18,7 +18,7 @@
   "metaDescription": "Gocase: CECILIAA dá 5%. Bagaggio: CECILIA10 dá 10%. Compare tamanhos, preços e conservação das garrafas Fresh, Flip Pro e Dual.",
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-capa-v2.webp",
@@ -31,7 +31,7 @@
       "Você quer a menor conta por 100 ml da tabela, em inox e com alça: a Dual com alça de 900 ml da Bagaggio."
     ],
     "skipIf": [
-      "Você vai levar bebida quente: a Gocase indica a Flip Pro só para bebida fria por causa da tampa.",
+      "Você quer a Flip Pro para café ou chá: a Gocase a indica só para bebida fria por causa da tampa.",
       "Você precisa de um número de horas de conservação na página: a Bagaggio diz apenas “por horas”."
     ]
   },
@@ -41,7 +41,7 @@
     "gocase",
     "bagaggio"
   ],
-  "editorialNote": "Feito com as páginas dos sites oficiais, sem usar as garrafas. Somos parceiros da Gocase e da Bagaggio e podemos receber comissão pelas compras feitas pelos nossos links.",
+  "editorialNote": "Sites oficiais. Somos parceiros da Gocase e da Bagaggio e podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "gocase-e-boa"
@@ -89,19 +89,19 @@
         ],
         "rows": [
           [
-            "[Fresh 650 ml branca ou preta, Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p)",
+            "[Fresh 650 ml branca ou preta, Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709)",
             "650 ml, R$ 119,90",
             "R$ 18,45",
             "Até 24h gelada, até 12h quente"
           ],
           [
-            "[Fresh 950 ml branca ou preta, Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p)",
+            "[Fresh 950 ml branca ou preta, Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709)",
             "950 ml, R$ 139,90",
             "R$ 14,73",
             "Até 24h gelada, até 12h quente"
           ],
           [
-            "[Flip Pro, Gocase](https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p)",
+            "[Flip Pro, Gocase](https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p/9287)",
             "750 ml, R$ 149,90",
             "R$ 19,99",
             "Gelada por até 48h com gelo; indicada somente para bebidas frias"
@@ -127,9 +127,9 @@
     {
       "heading": "Gocase: Fresh e Flip Pro (tampas e tamanhos)",
       "paragraphs": [
-        "A [Fresh da Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p) é de aço inox 304 com parede dupla a vácuo, livre de BPA, e a loja promete até 24h gelada e até 12h quente. Na Branca e na Preta, a de 650 ml sai a R$ 119,90, a de 950 ml a R$ 139,90 e a de 1.200 ml a R$ 179,90. A Melancia e a Amarela custam R$ 20 a menos nos dois tamanhos menores, e é a Melancia de 650 ml que a página mostra ao abrir.",
+        "A [Fresh da Gocase](https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709) é de aço inox 304 com parede dupla a vácuo, livre de BPA, e a loja promete até 24h gelada e até 12h quente. Na Branca e na Preta, a de 650 ml sai a R$ 119,90, a de 950 ml a R$ 139,90 e a de 1.200 ml a R$ 179,90. A Melancia e a Amarela custam R$ 20 a menos nos dois tamanhos menores, e é a Melancia de 650 ml que a página mostra ao abrir.",
         "A página da Fresh informa ainda 26,8 cm de altura e 345,50 g vazia na versão de 650 ml, contra 26 cm e 432,50 g na de 950 ml. A tampa rosqueável não é de inox, então uma condensação leve nela pode acontecer; a loja recomenda lavar o corpo à mão, permite a tampa na lava-louças e não indica o modelo para bebida gaseificada.",
-        "Já a [Flip Pro da Gocase](https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p) tem 750 ml e muda completamente no bocal: usa tampa flip que abre com um clique, mecanismo de sucção e trava de segurança contra vazamentos. A própria Gocase avisa que ela é “indicada somente para bebidas frias” por causa da tampa, cujo sistema de sucção e vedação não foi feito para líquido quente. A página informa 26,5 cm de altura com a tampa, cerca de 7 cm de diâmetro e corpo em aço inox 304, sem o peso.",
+        "Já a [Flip Pro da Gocase](https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p/9287) tem 750 ml e muda completamente no bocal: usa tampa flip que abre com um clique, mecanismo de sucção e trava de segurança contra vazamentos. A própria Gocase avisa que ela é “indicada somente para bebidas frias” por causa da tampa, cujo sistema de sucção e vedação não foi feito para líquido quente. A página informa 26,5 cm de altura com a tampa, cerca de 7 cm de diâmetro e corpo em aço inox 304, sem o peso.",
         "Na garantia, as páginas da Gocase dão prazos diferentes. As de produto da Fresh e da Flip Pro falam em um ano contra defeito de fabricação. Já a página da linha térmica fala em 90 dias contra defeito de fabricação e montagem e 6 meses contra defeito de personalização; em outra pergunta da mesma página, em um ano para problema de conservação de temperatura e 6 meses para descascamento da estampa. Vale confirmar no atendimento qual prazo vale para o seu pedido."
       ],
       "images": [
@@ -137,7 +137,7 @@
           "src": "/images/reviews/gocase/garrafa-termica-qual-escolher-parceiras-fresh.webp",
           "alt": "Garrafa térmica Fresh da Gocase, em foto oficial da página do produto",
           "caption": "Fresh, da linha térmica da Gocase. Foto: Gocase.",
-          "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p",
+          "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
           "objectFit": "contain",
           "aspectRatio": 1,
           "store": "gocase"
@@ -148,7 +148,7 @@
           "caption": "Flip Pro, 750 ml, com a tampa flip. Foto: Gocase.",
           "objectFit": "contain",
           "aspectRatio": 1,
-          "href": "https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p",
+          "href": "https://www.gocase.com.br/garrafa-termica-flip-pro-ebook-clear/p/9287",
           "store": "gocase"
         }
       ]
@@ -184,7 +184,7 @@
     {
       "heading": "Códigos de desconto das duas lojas",
       "paragraphs": [
-        "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% OFF no pedido. As regras e o passo a passo estão na página do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
+        "Na Gocase, o código é CECILIAA, com dois A no fim, e dá 5% OFF no pedido. No checkout, informe e-mail e CPF antes de digitar o código; sem isso o campo Tem um cupom? não aceita o código. As regras e o passo a passo estão na página do [cupom Gocase](/cupons/gocase) e em [como usar o cupom da Gocase](/reviews/cupom-gocase-como-usar).",
         "Na Bagaggio, o código é CECILIA10 e dá 10% OFF em todo o site. Na sacola, cole o CECILIA10 no campo Cupom de desconto e confira o desconto no resumo antes de pagar. O resumo fica em [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
         "Em simulação direta sobre os preços da tabela, a Dual com alça azul de 900 ml cairia para R$ 89,91 com CECILIA10, e a Fresh de 950 ml branca ou preta ficaria em R$ 132,90 com CECILIAA, antes do frete. Confira o valor final no carrinho da loja escolhida antes de pagar."
       ]
@@ -194,12 +194,21 @@
       "paragraphs": [
         "A escolha depende da bebida e do que você quer comparar: horas de conservação declaradas na página, a Fresh da Gocase; o menor preço por 100 ml da tabela, a Dual azul com alça de 900 ml da Bagaggio; bebida só fria, a Flip Pro. Confira cor e preço na página antes de comprar."
       ],
-      "emphasis": "Para café ou chá com horas declaradas na página, eu ficaria com a Fresh; para gastar menos por 100 ml, com a Dual azul com alça de 900 ml, e deixaria a Flip Pro para bebida fria."
+      "emphasis": "Para café ou chá com horas declaradas na página, eu ficaria com a Fresh; para gastar menos por 100 ml, com a Dual azul com alça de 900 ml, e deixaria a Flip Pro para bebida fria.",
+      "links": [
+        {
+          "label": "Ver a Garrafa Fresh na Gocase",
+          "store": "gocase",
+          "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Bagaggio? O cupom da Bagaggio é o CECILIA10, que dá 10% OFF em todo o site oficial, inclusive no Outlet, em todas as formas de pagamento. Vale só nas garrafas da Bagaggio; o código da Gocase é outro.",
+        "Qual é o cupom da Gocase? O cupom da Gocase é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, e soma com os preços da GoBlack. No checkout, informe e-mail e CPF antes de digitar o código.",
         "Qual garrafa térmica escolher? A Dual azul com alça de 900 ml custa menos por 100 ml na tabela. Para bebida quente com horas declaradas na página, veja a Fresh. A Flip Pro atende apenas bebidas frias.",
         "Quanto tempo a garrafa térmica mantém a bebida? A Gocase declara até 24h gelada e até 12h quente na Fresh, e até 48h gelada com gelo na Flip Pro. A Bagaggio informa apenas “por horas” na página da Dual com alça, sem número exato.",
         "Posso pôr bebida quente na Flip Pro? Não: a Gocase orienta que ela seja usada somente com bebidas frias por causa do mecanismo de sucção e vedação da tampa. Para café ou chá, prefira a Fresh ou a Dual.",
