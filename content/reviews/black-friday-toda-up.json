@@ -1,7 +1,6 @@
 {
   "id": 619,
   "slug": "black-friday-toda-up",
-  "bodyDatesReason": "campanha",
   "locale": "pt",
   "title": "Black Friday Toda Up 2026: qual sutiã escolher, quando o kit compensa e o cupom MAUAD",
   "seoTitle": "Black Friday Toda Up 2026: o que comprar, kits e cupom",
@@ -17,29 +16,21 @@
   },
   "publishedAt": "26 de outubro de 2026",
   "publishedAtISO": "2026-10-26",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
-  "description": "A Toda Up está em Black November. Veja qual peça usar com cada roupa, as grades que mudam a escolha, quando o kit compensa e quanto sai com o cupom MAUAD.",
-  "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Black Friday: veja qual sutiã escolher, quando o kit compensa e os preços de novembro contra os de outubro.",
+  "description": "A Toda Up está na Black Week. Veja qual peça usar com cada roupa, quando o kit compensa e como o cupom MAUAD soma com a escada de desconto que a loja mostra na página do produto.",
+  "metaDescription": "O MAUAD dá 10% OFF na Toda Up, em todas as formas de pagamento. Black Friday: veja qual sutiã escolher, quando o kit compensa e o que o cupom soma.",
   "image": "/images/reviews/toda-up/black-friday-toda-up-capa-v2.webp",
   "imageAlt": "Três modelos vestem o sutiã Comfort Up da Toda Up em cores diferentes, em fotografia oficial da marca.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "O cupom MAUAD tirou 10% por cima dos preços da Black November nos carrinhos testados",
-    "Os kits de sutiã com protetor saem bem abaixo das duas peças separadas",
-    "Tops Cotton Up e Protetor de Silicone estão abaixo do preço de outubro"
-  ],
-  "cons": [
-    "Comfort Up, Top Segunda Pele e calcinhas SkinUp estão mais caros que em outubro",
-    "Na Black VIP, o checkout avisa que o cupom de influenciadora não soma",
-    "O kit de um conjunto exige o mesmo tamanho de top e de calcinha"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
-    "text": "Veja os preços da Black November no site da Toda Up pelo botão, com o cupom da Toda Up já aplicado, e confira o total no carrinho antes de pagar.",
+    "text": "Veja os preços da Black Week no site da Toda Up pelo botão, com o MAUAD já aplicado, e confira o total no carrinho antes de pagar.",
     "label": "Ir para a Toda Up",
-    "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "url": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
     "sponsored": true
   },
   "coupon": "MAUAD",
@@ -56,112 +47,110 @@
       "slug": "cupom-toda-up-como-usar"
     },
     {
-      "slug": "toda-up-e-confiavel"
+      "slug": "toda-up-e-boa"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O cupom MAUAD dá 10% OFF no site aberto da Toda Up e somou com a Black November nos itens testados. Na Black VIP, não entrou no Comfort Up. Os tops Cotton Up e o Protetor estão abaixo de outubro. Para escolher, confira o tamanho e compare o kit com as peças que você já ia comprar."
+        "A Toda Up está com a Black Week no ar, com 25% OFF em 1 ou 2 produtos, e a loja não publica quando ela acaba. O [cupom Toda Up](/cupons/toda-up), MAUAD, dá mais 10% OFF por cima, em todas as formas de pagamento. Veja abaixo qual peça escolher e quando o kit compensa."
       ]
     },
     {
-      "heading": "O que a Black November da Toda Up mostra",
+      "heading": "O que a Black Week da Toda Up mostra",
       "paragraphs": [
-        "A home da Toda Up anuncia a \"Black November: todo site com desconto\", e os produtos aparecem com selos de 15%, 16%, 20% e até 40%, este no protetor de silicone. A faixa do topo do site fala em até 35% OFF no site todo. O desconto é por peça, e o que vale é o preço na página de cada uma: compare com a tabela de outubro deste guia, mais abaixo.",
-        "O banner trazia, e os selos dos produtos seguem anunciando, brindes por valor de pedido: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. O banner não diz o modelo nem o tamanho do brinde: confira se ele entra no carrinho antes de pagar.",
-        "A loja não publica até quando a Black November vale nem se a regra muda na sexta, 27/11/2026. Confira o desconto no seu carrinho antes de pagar."
-      ],
-      "image": {
-        "src": "/images/reviews/toda-up/black-friday-toda-up-banner-black-november.webp",
-        "alt": "Banner da Black November da Toda Up com até 35% OFF, uma modelo de sutiã e os brindes: acima de R$ 199 ganhe calcinha fio dental, acima de R$ 299 ganhe calcinha e protetor de silicone",
-        "caption": "O banner que abriu a Black November na home da Toda Up, com os brindes por valor de pedido.",
-        "objectFit": "contain",
-        "aspectRatio": 2.9197
-      }
+        "A faixa do site anuncia a \"Black Week com até 50% OFF\", frete fixo de R$ 9,90 e pagamento em até 3x sem juros. Na página de produto, o quadro da campanha traz a escada: 25% OFF em 1 ou 2 produtos, 30% em 3 ou 4 e 35% em 5 ou mais. Cada kit ou conjunto conta como 1 produto.",
+        "Acima de R$ 249,90, depois dos descontos, a loja dá um Protetor de Silicone de brinde, sem troca ou devolução separada. A página do produto mostra o preço antes da escada: a campanha aparece na conta do carrinho."
+      ]
     },
     {
       "heading": "Qual usar com cada roupa",
       "paragraphs": [
-        "Os preços são do site em 16 de novembro, um item por pedido. O MAUAD foi simulado no [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), no [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e no [Protetor](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao); nas outras linhas, o valor é o preço da página menos 10%."
+        "Os preços são os da página de cada produto, um item por pedido, antes da escada da Black Week. A coluna do MAUAD é conta nossa: o preço da página menos 10%."
       ],
       "comparisonTable": {
-        "caption": "Site da Toda Up na leitura de novembro; a última coluna é o preço de venda registrado em outubro, sem cupom",
+        "caption": "Preços das páginas da Toda Up em 23/11/2026, antes da Black Week; o MAUAD é conta nossa sobre o preço da página",
         "headers": [
           "Peça e uso",
-          "No site",
-          "Com o MAUAD",
-          "Outubro, sem cupom"
+          "Na página",
+          "Com o MAUAD"
         ],
         "rows": [
           [
             "[Sutiã Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): dia a dia, com sustentação e sem aro",
             "R$ 189,90",
-            "R$ 170,91",
             "R$ 170,91"
           ],
           [
             "[Sutiã Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): tomara que caia ou alças cruzadas",
             "R$ 189,90",
-            "R$ 170,91",
-            "R$ 189,90"
+            "R$ 170,91"
           ],
           [
             "[Sutiã Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): regata ou tecido fino, com pouco volume",
             "R$ 189,90",
-            "R$ 170,91",
-            "R$ 189,90"
+            "R$ 170,91"
           ],
           [
             "[Top Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): roupa justa, sem marcar",
             "R$ 169,90",
-            "R$ 152,91",
             "R$ 152,91"
           ],
           [
             "[Sutiã Top Alça Fina SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): roupa justa, com alça fina e fecho",
             "R$ 199,90",
-            "R$ 179,91",
-            "R$ 179,90"
+            "R$ 179,91"
           ],
           [
             "[Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): roupa justa, com bojo fixo",
             "R$ 208,90",
-            "R$ 188,01",
-            "R$ 219,90"
+            "R$ 188,01"
           ],
           [
             "[Top Faixa ou Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): básico de algodão",
             "R$ 132,90",
-            "R$ 119,61",
-            "R$ 149,90"
+            "R$ 119,61"
           ],
           [
             "[Sutiã de Silicone Invisível](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): decote profundo ou costas nuas",
             "R$ 149,90",
-            "R$ 134,91",
-            "R$ 149,90"
+            "R$ 134,91"
           ],
           [
             "[Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): decote profundo, com levantamento",
             "R$ 116,90",
-            "R$ 105,21",
-            "R$ 119,90"
+            "R$ 105,21"
           ],
           [
             "[Protetor de Silicone Ultrafino](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao): roupa sem sutiã",
             "R$ 59,90",
-            "R$ 53,91",
-            "R$ 69,90"
+            "R$ 53,91"
           ]
         ]
       },
       "postParagraphs": [
         "**Comfort:** o Up é o do dia a dia, com fecho e alças reguláveis. O Line tem faixas internas de silicone e alças que saem ou cruzam. O Slim é o mais discreto. A comparação dos três está em [sutiã Toda Up: qual escolher](/reviews/sutia-toda-up-qual-escolher).",
         "**SkinUp e Cotton Up:** a SkinUp é a linha sem costura, para não marcar. O Top Segunda Pele tem alça larga e não tem fecho; o [Clássico](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a única peça das duas linhas com bojo fixo. A Cotton Up é o básico de algodão, com o [Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de decote reto e o [Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) em V. Veja [SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up).",
-        "**Adesivos:** cada um pede um jeito de aplicar. Os passos estão em [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar), [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar) e [Fita Up](/reviews/fita-up-como-usar).",
-        "O Comfort Up custa R$ 170,91 com o MAUAD, o mesmo preço de outubro sem cupom. No teste de outubro, com o código, ele saiu por R$ 153,82: agora são R$ 17,09 a mais, antes do frete. O Top Segunda Pele também só volta ao preço de outubro depois do cupom. Já os tops Cotton Up, o Clássico e o Protetor ficaram abaixo dos preços de outubro antes do cupom."
+        "**Adesivos:** cada um pede um jeito de aplicar. Os passos estão em [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar), [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar) e [Fita Up](/reviews/fita-up-como-usar)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up.webp",
+          "alt": "Sutiã Comfort Up rosa da Toda Up, de frente, em foto oficial da loja",
+          "caption": "O Comfort Up, o único Comfort que chega ao G3. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1.0253,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        {
+          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-segunda-pele.webp",
+          "alt": "Top Segunda Pele SkinUp da Toda Up, em foto oficial da loja",
+          "caption": "O Top Segunda Pele SkinUp, sem fecho e com alça larga. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1.0119,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
       ]
     },
     {
@@ -177,16 +166,32 @@
       ],
       "postParagraphs": [
         "A grade fica no guia de medidas da página de cada produto. Confira ali antes de pôr no carrinho."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/toda-up/toda-up-guia-medidas-comfort-line.webp",
+          "alt": "Guia de medidas do Sutiã Comfort Line da Toda Up, com tamanhos de P a G1, sob busto e busto em centímetros",
+          "caption": "Guia de medidas do Sutiã Comfort Line, do site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/toda-up/toda-up-guia-medidas-protetor-silicone.webp",
+          "alt": "Guia de medidas do Protetor de Silicone Ultrafino da Toda Up: P de 8 cm para 34/46, M de 10 cm para 46/50 e G de 12 cm para 50/54",
+          "caption": "Guia de medidas do Protetor de Silicone Ultrafino, do site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ]
     },
     {
       "heading": "Qual kit compensa para a quantidade que você quer",
       "paragraphs": [
         "Compare o kit com as peças avulsas dentro da quantidade que você já ia comprar. O kit maior baixa o preço por peça e aumenta o total: só vale para quem vai usar tudo.",
-        "A tabela compara o preço dos kits com a soma das peças avulsas, antes do cupom. Não concluímos o teste do MAUAD nos kits nesta rodada. Se os 10% entrarem nos dois carrinhos, a ordem da comparação se mantém. No Cotton Up de três conjuntos, confira também se a oferta \"compre 2, leve 3\" continua aplicada."
+        "A tabela compara o preço dos kits com a soma das peças avulsas, tudo pelas páginas e antes do cupom e da escada da Black Week. Nas páginas de kit, a loja diz que entre cupom e kit vale o maior desconto: confira a linha do MAUAD no carrinho antes de decidir."
       ],
       "comparisonTable": {
-        "caption": "Site da Toda Up na leitura de novembro, sem cupom. A soma das avulsas é conta nossa com os preços das páginas",
+        "caption": "Preços das páginas da Toda Up, sem cupom e sem a escada da Black Week. A soma das avulsas é conta nossa com os preços das páginas",
         "headers": [
           "Kit",
           "Kit, sem cupom",
@@ -201,10 +206,10 @@
             "R$ 58,90"
           ],
           [
-            "[Kit Sutiã Comfort Slim + Protetor](https://todaup.com/discount/MAUAD?redirect=/products/kit-sutia-comfort-slim-protetor-de-silicone&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 202,35",
-            "R$ 249,80",
-            "R$ 47,45"
+            "[Kit Comfort Up + Calcinha Biquíni SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/kit-comfort-up-e-calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+            "R$ 209,90",
+            "R$ 239,80",
+            "R$ 29,90"
           ],
           [
             "[Kit Top e Calcinha Biquíni SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-e-calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
@@ -240,206 +245,53 @@
       },
       "postParagraphs": [
         "**Sutiã com protetor:** é onde o kit mais compensa para quem compra uma peça só. A página do kit deixa escolher o tamanho do sutiã e a cor e o tamanho do protetor; confira ali a cor do sutiã.",
+        "**Sutiã com calcinha:** os kits \"Monte seu conjunto\" da coleção Conjuntos juntam o Comfort Up, o Line ou o Slim com uma calcinha SkinUp pelo mesmo preço, e você escolhe a cor e o tamanho de cada peça.",
         "**Um conjunto:** a diferença é pequena, e o kit pede o mesmo tamanho de top e de calcinha. Quem veste tamanhos diferentes compra as peças avulsas.",
         "**Três conjuntos:** para quem já ia levar três. Na Cotton Up, a conta das avulsas usa a opção \"compre 2, leve 3\" da página do top; por isso a vantagem do kit é menor que na SkinUp.",
-        "**Adesivos:** o Kit Invisible Up junta as soluções de silicone, com ou sem a case. Não lemos o preço dele nesta rodada: a conta está em [kit Toda Up: quando compensa](/reviews/kit-toda-up-quando-compensa).",
-        "O [Kit SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-e-calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de um conjunto custa R$ 199,90 e ficaria em R$ 179,91 se o MAUAD aplicasse os 10%. Como não confirmamos a regra de valor mínimo do brinde, confira se ele continua no carrinho depois do cupom."
+        "**Adesivos:** o Kit Invisible Up saiu da loja. Fita Up, Sutiã de Silicone Invisível e Protetor de Silicone se compram avulsos; a conta dos outros kits está em [kit Toda Up: quando compensa](/reviews/kit-toda-up-quando-compensa)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-comfort-up-protetor.webp",
+          "alt": "Kit Sutiã Comfort Up e Protetor de Silicone da Toda Up, em foto oficial da loja",
+          "caption": "O Kit Sutiã Comfort Up + Protetor, o que mais compensa contra as peças avulsas. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/kit-sutia-comfort-up-protetor-de-silicone&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        {
+          "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-comfort.webp",
+          "alt": "Kit Comfort Up da Toda Up com os três sutiãs da linha, em foto oficial da loja",
+          "caption": "O Kit Comfort Up, com os três sutiãs da linha. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1.0022,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/kit-comfort&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
       ]
     },
     {
-      "heading": "O cupom, a campanha e a Black VIP",
+      "heading": "O cupom MAUAD e a Black Week",
       "paragraphs": [
-        "O cupom da Toda Up é o MAUAD, de 10% em todo o site. Em 16 de novembro, ele entrou por cima dos preços da Black November: uma [Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de R$ 116,90 saiu por R$ 105,21 no checkout, e um [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de R$ 189,90, por R$ 170,91. O percentual pode mudar, então confira a linha do desconto antes de pagar.",
-        "A Black VIP é outra campanha da loja, com páginas próprias. Nela, o checkout avisa que o cupom de influenciadora não soma com a escada de desconto: num Comfort Up dessa seleção, o MAUAD não entrou. Com um produto da Black VIP no carrinho, o cupom não entra em nenhum item, nem nos produtos comuns do mesmo carrinho. Nas páginas que lemos, o Comfort Up da Black VIP custava R$ 170,91 e o [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), R$ 152,91: os mesmos valores do site aberto com o MAUAD. Nos tops Cotton Up, o site aberto com o cupom saiu melhor: R$ 119,61, contra R$ 149,90 na Black VIP.",
-        "O passo a passo do código está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+        "O [cupom Toda Up](/cupons/toda-up) é o MAUAD, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com a Black Week: a escada entra primeiro, e os 10% saem do que sobra. No carrinho, no teste de novembro, uma [Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) de R$ 116,90 foi a R$ 87,68 com os 25% da campanha e a R$ 78,92 com o MAUAD.",
+        "O MAUAD não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva. São cópias de produtos de outros canais da loja, e com uma delas no carrinho o cupom de influenciadora não entra.",
+        "Pelo botão desta página, o site abre com o código aplicado; se a linha não aparecer, cole o MAUAD no campo \"Código de desconto ou cartão-presente\" do checkout. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
       ],
       "image": {
-        "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
-        "alt": "Faixas da promoção progressiva da Toda Up: 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499",
-        "caption": "As faixas da promoção progressiva no banner da home da Toda Up, na Black Antecipada de outubro.",
+        "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
+        "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
+        "caption": "A Fita Up, a peça do teste no carrinho. Foto: Toda Up.",
         "objectFit": "contain",
-        "aspectRatio": 5
+        "aspectRatio": 1,
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
       }
     },
     {
       "heading": "Frete, prazo e troca",
       "paragraphs": [
-        "A loja liberou frete grátis na Black Antecipada de outubro; na Black November, a faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
+        "Na Black Week, a faixa do topo do site anuncia frete fixo de R$ 9,90, não frete grátis. Fora da campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
         "Pela política de frete da loja, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento, e o código de rastreio chega por e-mail. Na semana da Black Friday, conte esse prazo mais o da transportadora para o seu CEP.",
-        "Troca de modelo, tamanho ou cor e devolução por arrependimento valem em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido. A própria política diz que os 30 dias ampliam os 7 dias da lei. Antes de comprar, confira no portal de trocas da Toda Up as condições para a peça escolhida."
-      ],
-      "image": {
-        "src": "/images/reviews/toda-up/toda-up-guia-medidas-comfort-line.webp",
-        "alt": "Guia de medidas do Sutiã Comfort Line da Toda Up, com tamanhos de P a G1, sob busto e busto em centímetros",
-        "caption": "Guia de medidas do Sutiã Comfort Line, do site da loja.",
-        "objectFit": "contain",
-        "aspectRatio": 1
-      }
-    },
-    {
-      "heading": "Histórico de outubro: como funcionava a Black Antecipada",
-      "paragraphs": [
-        "Em outubro, a Black Antecipada dava desconto progressivo pelo subtotal, seguido dos 10% do MAUAD: 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499. Os carrinhos abaixo mostram aquela regra: A e B foram testados; C foi calculado. Eles ajudam a comparar com a condição atual, mas não representam a campanha de novembro.",
-        "No carrinho B, de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes: os dois juntos tiraram R$ 75,03, perto de 21%. No carrinho C, a conta chega a 28% do subtotal, e é só conta."
-      ],
-      "comparisonTable": {
-        "headers": [
-          "Carrinho",
-          "Itens",
-          "Subtotal",
-          "Campanha",
-          "Cupom (10%, em outubro)",
-          "Total"
-        ],
-        "rows": [
-          [
-            "A (teste)",
-            "Comfort Up",
-            "R$ 170,91",
-            "nenhum, abaixo de R$ 299",
-            "R$ 17,09",
-            "R$ 153,82"
-          ],
-          [
-            "B (teste)",
-            "Comfort Up + Comfort Line",
-            "R$ 360,81",
-            "12%: R$ 43,28",
-            "R$ 31,75",
-            "R$ 285,78"
-          ],
-          [
-            "C (conta)",
-            "3 × Comfort Up",
-            "R$ 512,73",
-            "20%: R$ 102,55",
-            "R$ 41,02",
-            "R$ 369,16"
-          ]
-        ]
-      },
-      "image": {
-        "src": "/images/reviews/toda-up/black-friday-toda-up-tres-carrinhos.webp",
-        "alt": "Quadro com três carrinhos da Toda Up: Comfort Up por R$ 153,82, Comfort Up mais Comfort Line por R$ 285,78 e três Comfort Up por R$ 369,16, com a progressiva e o cupom",
-        "caption": "Os carrinhos A e B são do teste no carrinho; o C é conta nossa com a faixa de 20%. Quadro nosso.",
-        "objectFit": "contain",
-        "aspectRatio": 2.0797
-      }
-    },
-    {
-      "heading": "Preços de outubro, para comparar",
-      "paragraphs": [
-        "Estes são os preços de venda das coleções públicas em 26/10/2026, antes da progressiva e do cupom. Use-os como referência: compare a mesma peça e tamanho e confira desconto e frete no total atual."
-      ],
-      "comparisonTable": {
-        "headers": [
-          "Produto",
-          "Preço \"de\"",
-          "Preço de venda"
-        ],
-        "rows": [
-          [
-            "[Top Alça Fina Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 199,90",
-            "R$ 179,90"
-          ],
-          [
-            "[Sutiã Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 199,90",
-            "R$ 189,90"
-          ],
-          [
-            "[Sutiã Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 199,90",
-            "R$ 170,91"
-          ],
-          [
-            "[Sutiã Clássico Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "não mostra",
-            "R$ 219,90"
-          ],
-          [
-            "[Sutiã Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 199,90",
-            "R$ 189,90"
-          ],
-          [
-            "[Top Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 199,90",
-            "R$ 152,91"
-          ],
-          [
-            "[Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 189,90",
-            "R$ 149,90"
-          ],
-          [
-            "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 189,90",
-            "R$ 149,90"
-          ],
-          [
-            "[Calcinha Fio Dental SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 59,90",
-            "R$ 49,90"
-          ],
-          [
-            "[Calcinha Fio Dental Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 59,90",
-            "R$ 49,90"
-          ],
-          [
-            "[Calcinha Biquíni SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 59,90",
-            "R$ 44,91"
-          ],
-          [
-            "[Calcinha Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 59,90",
-            "R$ 44,91"
-          ],
-          [
-            "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 59,90",
-            "R$ 39,90"
-          ],
-          [
-            "[Protetor de Silicone Ultrafino](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 99,90",
-            "R$ 69,90"
-          ],
-          [
-            "[Sutiã de Silicone Invisível](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 159,90",
-            "R$ 149,90"
-          ],
-          [
-            "[Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 179,90",
-            "R$ 119,90"
-          ],
-          [
-            "[Case Protetor de Silicone](https://todaup.com/discount/MAUAD?redirect=/products/case-protetor-de-silicone&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
-            "R$ 79,90",
-            "R$ 49,90"
-          ],
-          [
-            "[Kit Top Faixa ou Triangular + Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-faixa-e-calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) (preço da página principal)",
-            "R$ 172,80",
-            "R$ 155,52"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "Os cinco kits SkinUp e Comfort da coleção Conjuntos estavam esgotados; só o kit Cotton Up aparecia disponível. O preço do site muda sem aviso: confira o produto no dia da compra, e use esta tabela como régua para a semana da Black Friday."
-      ],
-      "image": {
-        "src": "/images/reviews/toda-up/black-friday-toda-up-catalogo.webp",
-        "alt": "Sutiã de Silicone Invisível, Protetor de Silicone Ultrafino em três cores, Sutiã Comfort Line e Top Segunda Pele SkinUp, em fotos oficiais da Toda Up",
-        "caption": "Quatro itens da tabela de preços. Montagem nossa com fotos da loja.",
-        "objectFit": "contain",
-        "aspectRatio": 0.9202
-      }
+        "Troca de modelo, tamanho ou cor e devolução por arrependimento valem em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido. A própria política diz que os 30 dias ampliam os 7 dias da lei."
+      ]
     },
     {
       "heading": "Antes de pagar",
@@ -448,46 +300,52 @@
       ],
       "bullets": [
         "Confira o tamanho no guia de medidas da página de cada produto: a troca por tamanho é grátis só na primeira vez.",
-        "Veja o desconto de cada peça na página dela e se alguma linha da campanha apareceu no carrinho.",
-        "Aplique o MAUAD e confira o desconto: na leitura de novembro, ele tirou 10% dos itens testados no site aberto. No Comfort Up da Black VIP, não entrou.",
+        "Veja a escada da Black Week no quadro da página e se a linha da campanha apareceu no carrinho.",
+        "Aplique o MAUAD e confira a linha de desconto: ele não entra em item Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
         "Confira o frete e o prazo pelo seu CEP.",
-        "Compre só pelo site oficial, todaup.com, pelo link da parceria. O rodapé traz o CNPJ da FITA UP LTDA; a empresa, a troca de nome e as políticas estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
+        "Compre só pelo site oficial, todaup.com, pelo link da parceria. O rodapé traz o CNPJ da FITA UP LTDA.",
         "Guarde o print do carrinho e o número do pedido; o portal de trocas pede o número e o CPF da titular."
-      ],
-      "image": {
-        "src": "/images/reviews/toda-up/toda-up-guia-medidas-protetor-silicone.webp",
-        "alt": "Guia de medidas do Protetor de Silicone Ultrafino da Toda Up: P de 8 cm para 34/46, M de 10 cm para 46/50 e G de 12 cm para 50/54",
-        "caption": "Guia de medidas do Protetor de Silicone Ultrafino, do site da loja.",
-        "objectFit": "contain",
-        "aspectRatio": 1
-      }
-    },
-    {
-      "heading": "O que o Reclame Aqui mostra",
-      "paragraphs": [
-        "Para decidir pela confiança: o perfil \"Toda Up\" no Reclame Aqui, com o mesmo CNPJ do rodapé do site, tinha reputação Ótima e nota 8,2 nos últimos 6 meses. Os números por período estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
       ]
     },
     {
       "heading": "Comprar agora ou esperar a sexta",
       "paragraphs": [
-        "A loja não publica quanto tempo a Black November dura, nem anunciou outra regra para 27/11. O desconto da campanha já está no preço de cada peça, e a tabela de outubro deste guia é a régua para comparar.",
-        "Se você já escolheu, confira desconto, cupom e frete no carrinho. Se preferir esperar, compare a mesma peça e tamanho com a referência de outubro e com as condições do dia. As regras atuais do cupom ficam na [página da Toda Up](/cupons/toda-up)."
+        "A loja não publica quanto tempo a Black Week dura, nem anunciou outra regra para a sexta. A escada já está no carrinho e o MAUAD entra por cima: o que você vê hoje é o que a loja garante hoje.",
+        "Se você já escolheu, confira escada, cupom e frete no carrinho. Se prefere esperar, compare a mesma peça e tamanho com a conta de hoje antes de decidir."
+      ],
+      "emphasis": "Com a peça e o tamanho já escolhidos, compre agora: a escada e o MAUAD estão no ar, e a loja não anunciou regra melhor para a sexta.",
+      "links": [
+        {
+          "label": "Ver o Sutiã Comfort Up na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Toda Up: MAUAD",
+          "href": "/cupons/toda-up"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto, selos de até 40% OFF e brindes por valor de pedido. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
-        "A Toda Up tem Black Friday? Sim. Em outubro, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo carrinho; agora mostra a \"Black November\", com desconto por peça.",
-        "O cupom MAUAD vale na Black Friday? Vale. O cupom Toda Up MAUAD dá 10% OFF no site aberto e somou com os preços da Black November nos itens testados. No Comfort Up da Black VIP, o código não entrou.",
+        "Qual é o cupom da Toda Up? É o MAUAD, com 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
+        "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a Black Week está no ar, com desconto por quantidade de produtos no carrinho. A loja não publica a data de fim.",
+        "O cupom MAUAD vale na Black Friday? Vale: a escada da campanha entra primeiro e os 10% saem do que sobra. A conta está no capítulo do cupom.",
         "Kit ou peça avulsa na Black Friday da Toda Up? Antes do cupom, o kit de sutiã com protetor sai bem abaixo das duas peças. No kit de um conjunto, a diferença é pequena e o tamanho do top e da calcinha tem de ser o mesmo. O kit de três só vale para quem ia comprar três.",
-        "Black VIP ou site aberto com o cupom? Depende da peça. No Comfort Up e no Top Segunda Pele, os dois caminhos davam o mesmo valor na nossa leitura. Nos tops Cotton Up, o site aberto com o MAUAD saiu mais barato.",
-        "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com selos de 15%, 16%, 20% e até 40% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
-        "A Black November da Toda Up tem brinde? Tem, pelo banner da campanha: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. Confira o brinde no carrinho antes de pagar.",
-        "A Black November tem frete grátis? A faixa do topo da home anuncia frete fixo de R$ 4,90 para todo o Brasil, não frete grátis; o brinde é que começa em R$ 199 de pedido. Na Black Antecipada de outubro, a faixa anunciava frete grátis em todo o site. Confira o frete pelo CEP no carrinho.",
-        "Vale esperar a Black Friday? A loja não anunciou regra para a data. Compare o preço do dia com a tabela de outubro deste guia."
+        "A Black Week da Toda Up tem brinde e frete grátis? Tem brinde: um Protetor de Silicone em pedido acima do valor mínimo do capítulo da campanha. Frete grátis não: a faixa anuncia frete fixo.",
+        "Vale esperar a Black Friday? A loja não anunciou regra para a sexta. Compare o preço de hoje, com a escada e o MAUAD, com o que você encontrar depois."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você já escolheu a peça e o tamanho e quer aproveitar a Black Week com os 10% do MAUAD por cima.",
+      "Você vai levar sutiã com protetor, ou três conjuntos, e o kit sai abaixo da soma das peças avulsas."
+    ],
+    "skipIf": [
+      "Seu carrinho tem peça marcada como Black VIP, Todalovers, Influ ou Oferta Exclusiva: com ela o MAUAD não entra.",
+      "Você veste tamanhos diferentes de top e de calcinha: o kit de um conjunto pede o mesmo tamanho nas duas peças."
+    ]
+  }
 }

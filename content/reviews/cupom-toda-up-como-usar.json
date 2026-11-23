@@ -2,8 +2,8 @@
   "id": 618,
   "slug": "cupom-toda-up-como-usar",
   "locale": "pt",
-  "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada",
-  "seoTitle": "Como usar o cupom da Toda Up e o que ele soma no carrinho",
+  "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Week",
+  "seoTitle": "Como usar o cupom da Toda Up: MAUAD e a Black Week",
   "type": "Guia & Cupons",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -16,11 +16,11 @@
   },
   "publishedAt": "26 de outubro de 2026",
   "publishedAtISO": "2026-10-26",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
-  "description": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up, inclusive em promoção. Veja o passo a passo no carrinho e o teste dos códigos anunciados com 25% e 15%.",
-  "metaDescription": "Passo a passo para usar o cupom MAUAD no carrinho da Toda Up: 10% OFF em todo o site, inclusive em promoção. Confira a linha de desconto no resumo.",
+  "description": "O MAUAD dá 10% OFF no site da Toda Up, em todas as formas de pagamento. Veja onde colar o código e o que ele soma com a Black Week e com produto em promoção.",
+  "metaDescription": "O MAUAD dá 10% OFF em todo o site da Toda Up, em todas as formas de pagamento. Veja onde colar o código e o que ele soma com a Black Week.",
   "image": "/images/reviews/toda-up/cupom-toda-up-como-usar-capa-v2.webp",
   "imageAlt": "Duas modelos adultas com sutiãs Comfort Line rosa e preto da Toda Up, em foto oficial.",
   "imageFit": "contain",
@@ -28,9 +28,9 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Entre no site oficial da Toda Up pelo botão: o cupom já vem aplicado. Confira a linha de desconto no resumo do pedido.",
+    "text": "O botão abre a Fita Up no site oficial da Toda Up com o MAUAD já aplicado. Confira a linha de desconto no resumo do pedido.",
     "label": "Ir para a Toda Up",
-    "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "url": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
     "sponsored": true
   },
   "coupon": "MAUAD",
@@ -41,119 +41,120 @@
       "slug": "black-friday-toda-up"
     },
     {
-      "slug": "toda-up-e-confiavel"
+      "slug": "toda-up-e-boa"
     },
     {
-      "slug": "toda-up-reclame-aqui-nota-reputacao"
+      "slug": "fita-up-como-usar"
+    },
+    {
+      "slug": "kit-toda-up-quando-compensa"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 10% OFF em todo o site oficial, inclusive em produto já em promoção. No nosso teste, códigos anunciados com 25% e 15% deram os mesmos 10%. Exceção: na Black VIP, enquanto durar, o checkout não aceita o cupom. Confira a linha de desconto no resumo antes de pagar."
+        "O [cupom Toda Up](/cupons/toda-up) é o MAUAD, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com a Black Week e com produto em promoção, mas não vale nos itens Black VIP, Todalovers, Influ ou Oferta Exclusiva. Veja abaixo onde colar o código e a conta no carrinho."
       ]
     },
     {
       "heading": "O que é o cupom da Toda Up",
       "paragraphs": [
-        "MAUAD é o cupom da parceria do Em Casa com Cecília com a Toda Up, marca de moda íntima feminina de Biguaçu (SC): sutiãs Comfort, tops e calcinhas SkinUp e Cotton Up, sutiã de silicone, Fita Up e protetores. A loja se chamava Fita Up: o site é o mesmo, agora com o nome Toda Up, e o cupom vale nele. O mesmo código existe em outras lojas; aqui vale só o da Toda Up, só no site oficial, todaup.com.",
-        "O desconto é de 10% sobre o preço que aparece no carrinho. Se o produto já está com desconto, os 10% saem do preço promocional. No teste de outubro, com a promoção progressiva da Black Antecipada no ar, ela entrou primeiro, e os 10% saíram do que sobrou. O percentual pode mudar, então confira a linha de desconto no seu resumo."
+        "MAUAD é o cupom da parceria do Em Casa com Cecília com a Toda Up, marca de moda íntima feminina de Biguaçu (SC): sutiãs Comfort, tops e calcinhas SkinUp e Cotton Up, sutiã de silicone, [Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e protetores. A loja se chamava Fita Up: o site é o mesmo, agora com o nome Toda Up. O cupom vale só no site oficial, todaup.com.",
+        "O desconto é de 10% sobre o preço que aparece no carrinho, em todas as formas de pagamento. Se o produto já está em promoção, os 10% saem do preço promocional; com a Black Week no ar, ela entra primeiro, automática, e os 10% saem do que sobrou. O percentual pode mudar, então confira a linha de desconto no seu resumo.",
+        "O MAUAD não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva. São cópias de produtos de outros canais da loja, e com uma delas no carrinho o cupom de influenciadora não entra."
       ],
       "image": {
         "src": "/images/reviews/toda-up/cupom-toda-up-catalogo.webp",
         "alt": "Sutiã Comfort Slim, Top Segunda Pele SkinUp, Fita Up e Protetor de Silicone Ultrafino em três tamanhos, em fotos oficiais da Toda Up",
         "caption": "O cupom vale em todo o site: sutiãs, tops, fitas e protetores. Montagem nossa com fotos da loja.",
         "objectFit": "contain",
-        "aspectRatio": 0.9202
+        "aspectRatio": 0.9202,
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
       }
     },
     {
-      "heading": "1. Entre no site oficial pelo botão da parceria",
+      "heading": "Como usar o MAUAD no carrinho",
       "paragraphs": [
-        "Use o botão desta página. Ele abre o site oficial da Toda Up com o cupom já aplicado; a linha de desconto deve aparecer no resumo do pedido sem digitar nada. Confira que o endereço é todaup.com."
-      ]
-    },
-    {
-      "heading": "2. Monte o carrinho",
-      "paragraphs": [
-        "Escolha as peças e coloque no carrinho. O cupom não entra na página do produto: ele aparece no resumo do pedido. Os preços da página do produto já trazem o desconto do site, quando há; no teste de outubro, o Sutiã Comfort Up aparecia por R$ 170,91, de R$ 199,90."
+        "Pelo botão desta página, o site oficial abre com o MAUAD já aplicado, sem digitar nada. Confira que o endereço é todaup.com e siga os quatro passos:"
+      ],
+      "bullets": [
+        "**Entre pelo botão.** O cupom não aparece na página do produto: ele entra no resumo do pedido.",
+        "**Monte o carrinho.** Escolha as peças e confira o tamanho no guia de medidas de cada uma.",
+        "**Procure a linha do MAUAD.** No resumo do pedido, a linha de desconto com o código deve estar lá. Se não estiver, cole o código no campo \"Código de desconto ou cartão-presente\" do checkout e aplique.",
+        "**Confira o total antes de pagar.** Veja subtotal, linhas de desconto, frete e total. Se o valor fugir do esperado, revise produtos, quantidades e campanha."
       ],
       "image": {
-        "src": "/images/reviews/toda-up/toda-up-sutia-comfort-line.webp",
-        "alt": "Sutiã Comfort Line rosa da Toda Up, sem alças, em foto oficial da loja",
-        "caption": "O Sutiã Comfort Line, a segunda peça do carrinho de teste. Foto da loja.",
+        "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up.webp",
+        "alt": "Sutiã Comfort Up rosa da Toda Up, de frente, em foto oficial da loja",
+        "caption": "O Sutiã Comfort Up, uma das peças do carrinho de teste. Foto da loja.",
         "objectFit": "contain",
-        "aspectRatio": 1
+        "aspectRatio": 1.0253,
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
       }
     },
     {
-      "heading": "3. Confira a linha do cupom ou cole o código",
+      "heading": "O teste no carrinho e quanto fica com o cupom",
       "paragraphs": [
-        "No resumo do pedido, procure a linha de desconto com o código MAUAD. Se ela não estiver lá, cole o código no campo de cupom ou desconto, no checkout, e aplique. Quando o cupom entra, a linha de desconto aparece e o total cai.",
-        "Se a loja tiver uma promoção progressiva no ar, ela aparece como outra linha de desconto, automática."
-      ]
-    },
-    {
-      "heading": "4. Confira o total antes de pagar",
-      "paragraphs": [
-        "Confira o subtotal, as linhas de desconto e o total. Se o valor for diferente do esperado, revise produtos, quantidades, frete e campanha, além da aplicação do MAUAD. Use o resumo do seu pedido como referência antes de pagar."
-      ]
-    },
-    {
-      "heading": "O teste no carrinho",
-      "paragraphs": [
-        "No carrinho, em 26/10/2026, sem finalizar a compra, a tela mostrou estes números:"
+        "Testamos o MAUAD no carrinho da Toda Up, sem finalizar a compra. A linha da Black Week apareceu quando a Fita Up entrou pelo botão \"Comprar agora\" do site; adicionada direto ao carrinho, ela veio sem a campanha."
       ],
       "comparisonTable": {
+        "caption": "Carrinhos de teste na Toda Up em 23/11/2026, sem finalizar a compra",
         "headers": [
           "Carrinho",
           "Subtotal",
-          "Progressiva da loja",
-          "Cupom da Toda Up (10%)",
+          "Black Week",
+          "MAUAD (10%)",
           "Total"
         ],
         "rows": [
           [
-            "Sutiã Comfort Up",
-            "R$ 170,91",
-            "Não entra (abaixo de R$ 299)",
-            "- R$ 17,09",
-            "R$ 153,82"
+            "Fita Up, sem a campanha",
+            "R$ 116,90",
+            "Não entrou",
+            "- R$ 11,69",
+            "R$ 105,21"
           ],
           [
-            "Sutiã Comfort Up + Sutiã Comfort Line",
-            "R$ 360,81",
-            "- R$ 43,28 (12% OFF acima de R$ 299)",
-            "- R$ 31,75",
-            "R$ 285,78"
+            "Fita Up, por \"Comprar agora\"",
+            "R$ 116,90",
+            "- R$ 29,22 (25% OFF)",
+            "- R$ 8,76",
+            "R$ 78,92"
+          ],
+          [
+            "2 Fita Up, opção Leve 2, por \"Comprar agora\"",
+            "R$ 233,80",
+            "- R$ 58,44 (25% OFF)",
+            "- R$ 17,53",
+            "R$ 157,83"
+          ],
+          [
+            "Comfort Up + Top Segunda Pele + Sutiã de Silicone",
+            "R$ 509,70",
+            "Não entrou",
+            "- R$ 50,97",
+            "R$ 458,73"
           ]
         ]
       },
       "postParagraphs": [
-        "No primeiro carrinho, os 10% entraram sobre o preço promocional do Comfort Up, que já estava de R$ 199,90 por R$ 170,91. No segundo, o Comfort Line (R$ 189,90) levou o carrinho acima de R$ 299, e a loja aplicou sozinha a linha \"Flash Sale · 12% OFF acima de R$ 299\". O cupom entrou depois, sobre o que sobrou.",
-        "No teste de 17/11, a Fita Up em promoção, de R$ 179,90 por R$ 116,90, foi a R$ 105,21 com o cupom: R$ 11,69 de desconto, os 10% sobre o preço promocional.",
-        "São valores de um dia. A loja pode mudar a promoção sem aviso, então confira a conta no seu resumo."
-      ],
-      "image": {
-        "src": "/images/reviews/toda-up/cupom-toda-up-conta-carrinho-2610.webp",
-        "alt": "Quadro com os dois carrinhos do teste na Toda Up: Comfort Up de R$ 170,91 por R$ 153,82 com o cupom, e Comfort Up mais Comfort Line de R$ 360,81 por R$ 285,78 com a progressiva e o cupom",
-        "caption": "Números da tela do carrinho, sem finalizar a compra. Quadro nosso.",
-        "objectFit": "contain",
-        "aspectRatio": 2.2099
-      }
+        "Com a Black Week, a Fita Up perdeu R$ 29,22 para a campanha, e o MAUAD tirou os 10% do que sobrou: R$ 8,76, e não R$ 11,69. O cupom rende menos sobre preço já descontado, mas o total fecha mais baixo.",
+        "A loja informa a escada da Black Week na página do produto: 25% OFF em 1 ou 2 produtos, 30% OFF em 3 ou 4 e 35% OFF em 5 ou mais, e cada kit ou conjunto conta como 1 produto. Acima de R$ 249,90, depois dos descontos, vem um Protetor de Silicone de brinde, sem troca ou devolução separada. Não vimos as faixas de 30% e 35% no carrinho: são a regra que a página publica.",
+        "Conta nossa, com o preço da página menos 10% e sem a campanha: os sutiãs Comfort Up, Line e Slim (R$ 189,90 cada) ficam em R$ 170,91; o Top Segunda Pele, em R$ 152,91; o Sutiã de Silicone Invisível, em R$ 134,91; o Protetor de Silicone, em R$ 53,91. Os preços do site e dos kits estão no [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up)."
+      ]
     },
     {
       "heading": "Códigos anunciados com 25% e 15% deram 10% no teste",
       "paragraphs": [
         "Dois códigos de outras criadoras, MARESSA e BEARAMOS, aparecem anunciados com 25% e 15% na Toda Up. Testamos os dois no checkout, sem finalizar a compra. No mesmo carrinho do MAUAD, com a Fita Up de R$ 116,90, cada um tirou R$ 11,69, os mesmos 10%. Num carrinho de R$ 379,80, cada um tirou R$ 37,98, de novo 10%.",
-        "Nos nossos testes, os três códigos deram o mesmo desconto. Se você encontrar um percentual maior anunciado, aplique o código e confira a linha de desconto no resumo antes de pagar."
+        "Se você encontrar um percentual maior anunciado, aplique o código e confira a linha de desconto no resumo antes de pagar. Nos kits, a loja informa que vale o maior desconto entre cupom e kit; no Leve 2 da Fita Up, o MAUAD somou com a Black Week. O limite de cupons por pedido a loja não publica: se for testar mais de um código, aplique um por vez e fique com o maior desconto."
       ],
       "images": [
         {
           "src": "/images/reviews/toda-up/cupom-toda-up-checkout-mauad-10.webp",
           "alt": "Resumo do pedido no checkout da Toda Up com o código MAUAD aplicado na Fita Up de R$ 116,90: desconto de R$ 11,69 e total de R$ 105,21",
-          "caption": "O MAUAD aplicado na Fita Up em promoção, com R$ 11,69 de desconto. Tela do checkout, sem finalizar a compra.",
+          "caption": "O MAUAD aplicado na Fita Up, com R$ 11,69 de desconto. Tela do checkout, sem finalizar a compra.",
           "objectFit": "contain",
           "aspectRatio": 1.171
         },
@@ -174,56 +175,58 @@
       ]
     },
     {
-      "heading": "O cupom e a Black Antecipada",
-      "paragraphs": [
-        "No teste de outubro, a Toda Up estava com a Black Antecipada no ar, com desconto progressivo por valor do carrinho: 12% acima de R$ 299, com mais duas faixas acima. A progressiva entrou primeiro, automática, e o cupom tirou 10% do que sobrou. Na Black VIP, campanha da loja, o checkout não aceita o cupom enquanto ela durar: avisa que ele não soma com a escada de desconto. No teste de novembro, com uma peça da Black VIP no carrinho, o cupom não entrou em nenhum item, nem na Fita Up comum ao lado. As faixas, as datas e os preços da campanha ficam no [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). A Black Antecipada teve frete grátis; confira o frete da campanha em vigor no carrinho."
-      ]
-    },
-    {
-      "heading": "Quanto fica com o cupom",
-      "paragraphs": [
-        "Os preços do site no teste de outubro estão na tabela do [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). Nos 10% do cupom, é conta nossa: o Comfort Line e o Comfort Slim (R$ 189,90) ficam em R$ 170,91, cada um comprado sozinho, abaixo de R$ 299. O valor do Comfort Up, R$ 153,82, veio da tela do carrinho em outubro; o da Fita Up, R$ 105,21, do teste de novembro."
-      ]
-    },
-    {
       "heading": "Frete, despacho e troca",
       "paragraphs": [
-        "O frete é calculado pelo CEP, no checkout, por Sedex, Loggi ou Jadlog. Pela política de frete, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento.",
+        "Na Black Week, a faixa do site anuncia frete fixo de R$ 9,90 e pagamento em até 3x sem juros. Fora da campanha, o frete é calculado pelo CEP, no checkout, por Sedex, Loggi ou Jadlog. Pela política de frete, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento.",
         "A troca de modelo, tamanho ou cor e a devolução por arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido."
       ],
       "image": {
         "src": "/images/reviews/toda-up/toda-up-guia-medidas-comfort-slim.webp",
         "alt": "Guia de medidas do Sutiã Comfort Slim da Toda Up, com tamanhos de PP a GG, sob busto e busto em centímetros",
-        "caption": "Guia de medidas do Sutiã Comfort Slim, do site da loja.",
+        "caption": "Guia de medidas do Sutiã Comfort Slim, do site da loja: acertar o tamanho antes dá menos trabalho que trocar depois.",
         "objectFit": "contain",
         "aspectRatio": 1
       }
     },
     {
-      "heading": "Kits e limite de cupons",
-      "paragraphs": [
-        "Nos kits Leve 2 e Leve 3 da loja, o cupom somou com o desconto do kit no teste. O limite de cupons por pedido e as exceções de produto a loja não publica: confira no carrinho, depois de aplicar o código, e, se for testar mais de um código, aplique um por vez e fique com o maior desconto."
-      ]
-    },
-    {
       "heading": "Quando o cupom vale a pena",
       "paragraphs": [
-        "Se você já ia comprar na Toda Up, o cupom vale em qualquer carrinho; no teste da Black Antecipada, acima de R$ 299 a progressiva fez mais, e o cupom ainda tirou 10% do que sobrou. Em outra campanha, confira as regras dela no carrinho.",
-        "Antes de comprar, leia [Toda Up é confiável?](/reviews/toda-up-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/toda-up-reclame-aqui-nota-reputacao)."
+        "Se você já ia comprar na Toda Up, o MAUAD vale em qualquer carrinho: entra por cima do preço promocional e da Black Week, que fica com a maior parte do desconto. Com 3 produtos ou mais, a escada da página sobe para 30% ou 35%, e os 10% do cupom saem do que sobrar.",
+        "O que pode atrapalhar é a peça, não o código: com item Black VIP, Todalovers, Influ ou Oferta Exclusiva no carrinho, o cupom não entra. Monte o pedido com peças comuns e confira a linha do MAUAD antes de pagar."
+      ],
+      "emphasis": "Quem já decidiu comprar na Toda Up deixa dinheiro na mesa se não aplicar o MAUAD: ele entra por cima da campanha da loja.",
+      "links": [
+        {
+          "label": "Ver a Fita Up na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Toda Up: MAUAD",
+          "href": "/cupons/toda-up"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Toda Up? O cupom é MAUAD, com 10% OFF em todo o site oficial da Toda Up. Confira a linha de desconto no resumo do pedido.",
-        "O cupom Toda Up vale em produto em promoção? Sim. No último teste do carrinho, os 10% entraram sobre o preço promocional: a Fita Up foi de R$ 116,90 a R$ 105,21. O teste de outubro está na tabela.",
-        "O cupom soma com a promoção da Black Antecipada? No teste de outubro, sim: a progressiva entrou primeiro e o cupom tirou 10% do que sobrou. Os dois carrinhos estão na tabela do teste. Em outra campanha, confira as regras e as linhas do seu pedido.",
-        "O cupom vale na Black VIP? Não, enquanto ela durar: o checkout avisa que o cupom de influenciadora não soma com a escada de desconto. Com uma peça da Black VIP no carrinho, o cupom não entra em nenhum item.",
+        "Qual é o cupom da Toda Up? É o MAUAD, com 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
+        "O cupom Toda Up vale em produto em promoção e na Black Week? Vale: a campanha entra primeiro e os 10% saem do que sobra. A conta de cada carrinho está no capítulo do teste.",
         "Os cupons MARESSA e BEARAMOS dão 25% e 15% na Toda Up? No nosso teste, os dois deram 10%, o mesmo desconto do MAUAD. Confira a linha de desconto no resumo do pedido antes de pagar.",
-        "Onde coloco o cupom na Toda Up? Pelo botão desta página, o site já abre com o cupom aplicado. Se a linha não aparecer no resumo, cole o código no campo de cupom ou desconto, no checkout, e aplique.",
-        "Dá para usar mais de um cupom? A loja não publica o limite. Confira no carrinho.",
+        "Onde coloco o cupom na Toda Up? Pelo botão desta página, o site já abre com o cupom aplicado. Se a linha não aparecer no resumo, cole o código no campo \"Código de desconto ou cartão-presente\" do checkout e aplique.",
+        "Dá para usar mais de um cupom? A loja não publica o limite. Confira no carrinho, aplicando um código por vez.",
         "Posso trocar a compra? Sim. Troca de modelo, tamanho ou cor e arrependimento em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você já ia comprar na Toda Up e quer os 10% do MAUAD por cima da campanha ou do preço promocional.",
+      "Você monta o carrinho só com peças comuns do site, sem itens Black VIP, Todalovers, Influ ou Oferta Exclusiva."
+    ],
+    "skipIf": [
+      "Seu carrinho tem peça marcada como Black VIP, Todalovers, Influ ou Oferta Exclusiva: com ela o cupom não entra.",
+      "Você espera um percentual maior que 10%: os códigos anunciados com 25% e 15% deram os mesmos 10% no nosso teste."
+    ]
+  }
 }

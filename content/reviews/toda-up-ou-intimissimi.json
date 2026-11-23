@@ -16,9 +16,10 @@
   },
   "publishedAt": "6 de novembro de 2026",
   "publishedAtISO": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
-  "description": "Com MAUAD, o protetor da Toda Up custa cerca de metade do da Intimissimi. Compare também as copas bege M/G e o preço das fitas por unidade ou no kit.",
+  "description": "Com o MAUAD, o protetor da Toda Up custa cerca de metade do da Intimissimi. Compare também as copas bege M/G e o preço das fitas, com e sem a Black Week.",
   "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Fita, sutiã adesivo e protetor de mamilo da Toda Up ou da Intimissimi: preço com cupom e tamanhos.",
   "image": "/images/reviews/toda-up/toda-up-ou-intimissimi-capa-v2.webp",
   "imageAlt": "Modelo adulta com tranças curtas usando protetores ultrafinos e segurando a caixa Invisible Up, em foto oficial da Toda Up, ao lado da pergunta Toda Up ou Intimissimi? e do apoio Fitas e adesivos.",
@@ -29,17 +30,17 @@
   "decision": {
     "takeIf": [
       "Você quer o protetor de menor preço entre os comparados ou procura diâmetro de 10 ou 12 cm: considere a Toda Up com MAUAD, pelos valores da tabela.",
-      "Você vai comprar duas unidades de fita e prioriza o preço por unidade: o Leve 2 da Fita Up com MAUAD fica abaixo da fita bege da Intimissimi. Isso não indica maior rendimento."
+      "Você quer pagar menos pela fita enquanto a Black Week estiver no ar: a Fita Up com a Black Week e o MAUAD fica abaixo da fita bege da Intimissimi. Isso não indica maior rendimento."
     ],
     "skipIf": [
       "Você prioriza o menor preço entre os sutiãs comparados: as Copas de Silicone bege em M e G da Intimissimi custam menos que o sutiã da Toda Up com MAUAD.",
-      "Você quer uma fita só, pelo menor desembolso: a fita bege da Intimissimi custa menos que uma Fita Up com MAUAD, pelos valores da tabela."
+      "Você quer uma fita só, pelo menor desembolso fora da Black Week: a fita bege da Intimissimi custa menos que a Fita Up com MAUAD, pelos valores da tabela."
     ]
   },
   "cta": {
     "text": "Abra o site oficial da Toda Up pelo botão e confira se o desconto de 10% do MAUAD aparece no carrinho da fita, do sutiã ou do protetor antes de pagar.",
     "label": "Ver na Toda Up",
-    "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "url": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
     "sponsored": true
   },
   "coupon": "MAUAD",
@@ -69,18 +70,19 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Nos valores comparados, o protetor da Toda Up com MAUAD custa cerca de metade do da Intimissimi. As copas bege M/G da Intimissimi custam menos que o sutiã da Toda Up com cupom. A fita avulsa custa menos na Intimissimi; a Fita Up no Leve 2 fica abaixo por unidade."
+        "Nos valores comparados, o protetor da Toda Up com MAUAD custa cerca de metade do da Intimissimi, e as copas bege M/G da Intimissimi custam menos que o sutiã da Toda Up. Na fita, a Intimissimi custa menos, a não ser com a Black Week. Veja o [cupom Toda Up](/cupons/toda-up) no capítulo do preço."
       ]
     },
     {
       "heading": "Fita Up ou fita da Intimissimi",
       "paragraphs": [
-        "Os preços e as informações das três comparações vêm das páginas das lojas, em 6 de novembro de 2026. Entre as fitas comparadas, a Intimissimi custa menos na compra avulsa; a Fita Up no Leve 2 fica abaixo por unidade. Conta nossa: com os 10% do MAUAD, o kit sai por R$ 168,34, ou R$ 84,17 cada. Sem a metragem das fitas, essa diferença não demonstra menor custo por aplicação."
+        "Entre as fitas, a da Intimissimi custa menos que a [Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) com o MAUAD sozinho: R$ 89,00 contra R$ 105,21. Com a Black Week no carrinho, a Fita Up sai por R$ 78,92, R$ 10,08 abaixo. Sem a metragem das fitas, essa diferença não demonstra menor custo por aplicação."
       ],
       "image": {
         "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
         "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
         "caption": "A Fita Up na embalagem da Toda Up. Imagem: Toda Up.",
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
         "objectFit": "contain",
         "aspectRatio": 1
       },
@@ -89,7 +91,7 @@
         "A política informada pela Intimissimi exige fita sem sinais de uso e embalagem intacta para devolução por higiene; para defeitos, a loja informa garantia de devolução. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar), e os cuidados com a pele e a cola, em [Fita Up não cola ou descola?](/reviews/fita-up-cuidados-cola-pele-agua)."
       ],
       "comparisonTable": {
-        "caption": "Preços por unidade e no kit: Toda Up com MAUAD e Intimissimi na versão bege.",
+        "caption": "Preços em 23/11/2026: Toda Up com MAUAD e com a Black Week (vista no carrinho) e Intimissimi na versão bege, sem frete.",
         "headers": [
           "",
           "Fita Up (Toda Up)",
@@ -98,7 +100,7 @@
         "rows": [
           [
             "Preço",
-            "R$ 116,90 na página; R$ 105,21 com MAUAD; no Leve 2 com MAUAD, R$ 168,34 pelas duas, ou R$ 84,17 cada",
+            "R$ 116,90 na página; R$ 105,21 com MAUAD; R$ 78,92 com a Black Week e o MAUAD",
             "R$ 89,00 na página"
           ],
           [
@@ -127,29 +129,24 @@
             "Bege"
           ]
         ]
-      },
-      "links": [
-        {
-          "label": "cupom Toda Up",
-          "href": "/cupons/toda-up"
-        }
-      ]
+      }
     },
     {
       "heading": "Sutiã adesivo: as copas da Intimissimi custam menos",
       "paragraphs": [
-        "Para deixar as costas livres, as Copas de Silicone bege em M e G da Intimissimi custam R$ 25,91 menos que o sutiã da Toda Up com MAUAD. A Toda Up também oferece P. Confira as medidas antes de escolher pelo preço: as letras dos tamanhos não garantem ajuste equivalente."
+        "Para deixar as costas livres, as Copas de Silicone bege em M e G da Intimissimi custam R$ 25,91 menos que o [Sutiã de Silicone Invisível](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) da Toda Up com MAUAD. A Toda Up também oferece P. Confira as medidas antes de escolher pelo preço: as letras dos tamanhos não garantem ajuste equivalente."
       ],
       "image": {
         "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
         "alt": "Mãos unindo os dois lados do fecho do Sutiã de Silicone Invisível da Toda Up, em foto oficial da loja",
         "caption": "Os dois lados do fecho do Sutiã de Silicone Invisível. Imagem: Toda Up.",
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
         "objectFit": "contain",
         "aspectRatio": 1
       },
       "postParagraphs": [
         "As duas peças aderem à pele e têm fecho na frente. A Toda Up declara até 12 usos; a Intimissimi não informa uma quantidade. Isso não permite concluir qual dura mais. Siga as instruções de lavagem de cada peça, resumidas na tabela.",
-        "A Intimissimi também tem uma versão de tamanho único mais barata e uma branca mais cara; o preço da tabela se refere à bege em M e G. Para aplicar e retirar a peça da Toda Up, veja [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
+        "A Intimissimi também tem uma copa de silicone bege de tamanho único, a R$ 69,00; o preço da tabela se refere à bege em M e G. Ela vende ainda sutiãs com copa adesiva e aro, como um tomara que caia e um bandeau, nos tamanhos 42 a 46: opções para quem procura aro, sem equivalente na Toda Up. Para aplicar e retirar a peça da Toda Up, veja [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
       ],
       "comparisonTable": {
         "caption": "Toda Up com MAUAD e Copas de Silicone bege M/G da Intimissimi. Especificações e usos informados pelas lojas.",
@@ -190,12 +187,13 @@
     {
       "heading": "Protetor de mamilo: o da Toda Up custa cerca de metade",
       "paragraphs": [
-        "Para cobrir o mamilo, a Toda Up permite escolher o diâmetro e, com MAUAD, custa R$ 55,09 menos que o protetor da Intimissimi. Se você procura uma peça com fecho, veja o capítulo de sutiã adesivo. O tamanho chamado de grande pela Intimissimi não permite concluir que ele equivale ao G da Toda Up."
+        "Para cobrir o mamilo, o [Protetor de Silicone Ultrafino](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) da Toda Up permite escolher o diâmetro e, com MAUAD, custa R$ 55,09 menos que o protetor da Intimissimi. Se você procura uma peça com fecho, veja o capítulo de sutiã adesivo. O tamanho chamado de grande pela Intimissimi não permite concluir que ele equivale ao G da Toda Up."
       ],
       "image": {
         "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
         "alt": "Três protetores de silicone da Toda Up nas cores Creme, Caramelo e Avelã, colados no braço de uma modelo",
         "caption": "Os protetores em Creme, Caramelo e Avelã. Imagem: Toda Up.",
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
         "objectFit": "contain",
         "aspectRatio": 1
       },
@@ -240,27 +238,41 @@
       }
     },
     {
-      "heading": "O que só a Intimissimi vende",
+      "heading": "Preço com o MAUAD e a Black Week",
       "paragraphs": [
-        "A Intimissimi tem copas adesivas de tecido em M e G e sutiãs com copa adesiva e aro, como um tomara que caia e um bandeau, nos tamanhos 42 a 46. São opções para quem procura tecido ou aro, sem equivalente na Toda Up."
+        "O MAUAD dá 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. O botão deste artigo abre a loja com o código aplicado; se o campo vier vazio, cole o MAUAD em “Código de desconto ou cartão-presente” no checkout. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
+        "A loja informa que a Black Week tem uma escada: 25% OFF para 1 ou 2 produtos, 30% para 3 ou 4 e 35% para 5 ou mais, com cada kit contando como 1 produto, e um Protetor de Silicone de brinde acima de R$ 249,90 depois dos descontos. A escada entra primeiro, e o MAUAD sai do que sobra. No carrinho, a Fita Up de R$ 116,90 foi para R$ 87,68 com a Black Week e para R$ 78,92 com o MAUAD por cima.",
+        "O frete aparece no checkout, pelo CEP; na Black Week, a faixa do site anuncia frete fixo de R$ 9,90."
       ]
     },
     {
       "heading": "Qual escolher",
       "paragraphs": [
         "Quer o protetor de menor preço entre os comparados ou procura diâmetro de 10 ou 12 cm: considere a Toda Up com MAUAD, pelos valores da tabela.",
-        "Vai levar duas unidades de fita e prioriza o preço por unidade: Fita Up no Leve 2 com MAUAD. Quer uma unidade com o menor desembolso: a fita bege da Intimissimi. Veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original).",
+        "Quer uma fita só pelo menor desembolso fora da Black Week: a fita bege da Intimissimi. Com a Black Week no ar, a Fita Up com o MAUAD fica abaixo dela. Veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original).",
         "Prioriza preço no sutiã adesivo: as Copas de Silicone bege em M e G da Intimissimi custam menos que o sutiã da Toda Up. Procura tamanho P: considere a Toda Up e confira as medidas antes de comprar."
+      ],
+      "emphasis": "Eu pagaria menos pelo protetor da Toda Up, que custa cerca de metade do da Intimissimi, e deixaria o sutiã adesivo para as copas da Intimissimi, que saem mais baratas.",
+      "links": [
+        {
+          "label": "Ver o Protetor de Silicone Ultrafino na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Toda Up: MAUAD",
+          "href": "/cupons/toda-up"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "A Intimissimi tem fita para seios? Tem: a Fita Adesiva Tapa-Seio, de tecido e tamanho único. A página não informa metragem, largura nem duração.",
+        "Qual é o cupom da Toda Up? É o MAUAD, com 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva. As regras e a Black Week estão no capítulo “Preço com o MAUAD e a Black Week”.",
         "As copas de silicone da Intimissimi são boas? Adesivo interno, gancho central e instruções de lavagem descrevem a peça, mas não comprovam conforto ou durabilidade. A versão bege em M e G custa menos que o sutiã da Toda Up com MAUAD; a Intimissimi não informa uma quantidade de usos.",
         "Qual protetor de mamilo é mais barato? Pelos valores da tabela, o da Toda Up com MAUAD custa cerca de metade do Protetor de Silicone Opaco da Intimissimi.",
-        "Posso devolver a fita ou as copas da Intimissimi? A política informada pela loja exige peças sem sinais de uso e embalagem intacta por higiene; para defeitos, a Intimissimi informa garantia de devolução.",
-        "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira a linha de desconto no resumo do carrinho e as condições na página do cupom Toda Up."
+        "Posso devolver a fita ou as copas da Intimissimi? A política informada pela loja exige peças sem sinais de uso e embalagem intacta por higiene; para defeitos, a Intimissimi informa garantia de devolução."
       ]
     }
   ]

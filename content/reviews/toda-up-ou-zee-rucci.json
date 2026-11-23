@@ -16,6 +16,7 @@
   },
   "publishedAt": "6 de novembro de 2026",
   "publishedAtISO": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "description": "Nos preços comparados, a Toda Up com MAUAD custa menos na fita por embalagem e no protetor; a Zee Rucci, no sutiã. Compare tamanhos e limites de reutilização.",
@@ -28,7 +29,7 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você procura protetor de mamilo de 10 ou 12 cm: esses diâmetros aparecem na Toda Up entre as opções comparadas.",
+      "Você procura protetor de mamilo de 12 cm: entre as duas lojas, só a Toda Up tem esse diâmetro.",
       "Você quer escolher entre três larguras de fita: a Fita Up tem P, M e G. Confira o guia da marca antes de escolher.",
       "Você quer o sutiã adesivo de menor preço e sua numeração está entre 40 e 46: a Zee Rucci custa menos nos valores comparados."
     ],
@@ -41,7 +42,7 @@
   "cta": {
     "text": "O botão leva ao site oficial da Toda Up pelo link com MAUAD. Escolha a fita, o sutiã ou o protetor e confira o desconto e o total no carrinho.",
     "label": "Ver na Toda Up",
-    "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "url": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
     "sponsored": true
   },
   "coupon": "MAUAD",
@@ -71,27 +72,28 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Nos preços comparados, a fita e o protetor da Toda Up com MAUAD exigem menor desembolso; o sutiã da Zee Rucci custa menos. Na fita, compare também o conteúdo da embalagem: a Toda Up não publica a metragem do rolo. Nos sutiãs, até 30 usos da Zee Rucci e até 12 da Toda Up são limites anunciados pelas marcas."
+        "Nos preços comparados, a fita e o protetor da Toda Up com MAUAD custam menos, e o sutiã da Zee Rucci é o mais barato. Na fita, a Toda Up não publica a metragem do rolo, e a Zee Rucci informa 5 metros e 5 pares de protetores. Veja o [cupom Toda Up](/cupons/toda-up) no capítulo do preço."
       ]
     },
     {
       "heading": "Fita Up ou fita da Zee Rucci",
       "paragraphs": [
-        "Os preços abaixo são de 06/11/2026. Conta nossa: com os 10% do MAUAD, a Fita Up fica em R$ 105,21 por embalagem ou R$ 168,34 no Leve 2, equivalente a R$ 84,17 cada. Por embalagem, o desembolso é menor que o da Zee Rucci, inclusive no preço à vista. Os valores não incluem frete; confira as condições do cupom Toda Up no link abaixo e o total no carrinho."
+        "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, a [Fita Up](https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) fica em R$ 105,21 por embalagem, abaixo dos R$ 107,26 da Zee Rucci à vista. Com a Black Week no carrinho, chega a R$ 78,92, R$ 28,34 abaixo do preço à vista da Zee Rucci. Os valores não incluem frete."
       ],
       "image": {
         "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
         "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
         "caption": "A Fita Up na embalagem da Toda Up. Imagem: Toda Up.",
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
         "objectFit": "contain",
         "aspectRatio": 1
       },
       "postParagraphs": [
-        "A Zee Rucci informa 5 metros de fita e 5 pares de protetores de mamilo na caixa. A fita tem composição declarada de 95% algodão e 5% elastano e é descartável. A Toda Up oferece três larguras, mas não publica a metragem; a Zee Rucci publica a metragem, mas não a largura. O menor preço por embalagem da Fita Up não permite concluir qual rende mais ou custa menos por aplicação.",
+        "A Zee Rucci informa 5 metros de fita e 5 pares de protetores de mamilo na caixa. A fita tem composição declarada de 95% algodão e 5% elastano e é descartável. A Toda Up oferece três larguras, mas não publica a metragem do rolo; a Zee Rucci publica a metragem, mas não a largura. O menor preço por embalagem da Fita Up não permite concluir qual rende mais ou custa menos por aplicação.",
         "Quer os protetores na mesma caixa e a metragem informada: considere a Zee Rucci. Quer escolher entre larguras P, M e G: considere a Fita Up e confira o guia da marca. No maior tamanho, há divergência entre o guia, que indica até 54, e o FAQ, que menciona até 52; confirme com a Toda Up se essa diferença afetar sua escolha. Veja [Fita Up: como usar](/reviews/fita-up-como-usar)."
       ],
       "comparisonTable": {
-        "caption": "Preços por embalagem, antes do frete. Os valores da Toda Up com MAUAD incluem o desconto de 10%; o Leve 2 exige a compra de duas unidades.",
+        "caption": "Preços por embalagem em 23/11/2026, antes do frete. Os valores da Toda Up com MAUAD incluem o desconto de 10%; o da Black Week foi visto no carrinho.",
         "headers": [
           "",
           "Fita Up (Toda Up)",
@@ -100,7 +102,7 @@
         "rows": [
           [
             "Preço por embalagem",
-            "R$ 116,90 na página; R$ 105,21 com o cupom MAUAD; R$ 84,17 cada com o cupom no Leve 2",
+            "R$ 116,90 na página; R$ 105,21 com o cupom MAUAD; R$ 78,92 com a Black Week e o MAUAD",
             "R$ 112,90 na página; R$ 107,26 à vista"
           ],
           [
@@ -126,26 +128,21 @@
           [
             "Cores",
             "Bege, marrom e preto",
-            "Bege, bege claro e areia"
+            "Amêndoa, areia e bege claro"
           ]
         ]
-      },
-      "links": [
-        {
-          "label": "cupom Toda Up",
-          "href": "/cupons/toda-up"
-        }
-      ]
+      }
     },
     {
       "heading": "Sutiã adesivo: o da Zee Rucci custa menos",
       "paragraphs": [
-        "No sutiã adesivo, a Zee Rucci tem o menor preço da comparação. Frente ao valor da Toda Up com MAUAD, a diferença é de R$ 35,01 pelo preço de página da Zee Rucci ou de R$ 40,00 pelo preço à vista, antes do frete. A tabela mostra a base dessas contas."
+        "No sutiã adesivo, a Zee Rucci tem o menor preço da comparação. Frente ao [Sutiã de Silicone Invisível](https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) da Toda Up com MAUAD, a diferença é de R$ 35,01 pelo preço de página da Zee Rucci ou de R$ 40,00 pelo preço à vista, antes do frete. A tabela mostra a base dessas contas. A loja da Zee Rucci tem também o Sutiã Adesivo Costas Nuas, com aro, por R$ 134,90: é outro modelo, e não é o comparado aqui."
       ],
       "image": {
         "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
         "alt": "Mãos unindo os dois lados do fecho do Sutiã de Silicone Invisível da Toda Up, em foto oficial da loja",
         "caption": "Os dois lados do fecho do Sutiã de Silicone Invisível. Imagem: Toda Up.",
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
         "objectFit": "contain",
         "aspectRatio": 1
       },
@@ -158,7 +155,7 @@
         "headers": [
           "",
           "Sutiã de Silicone Invisível (Toda Up)",
-          "Sutiã Adesivo Costas Nuas (Zee Rucci)"
+          "Sutiã Adesivo Invisível (Zee Rucci)"
         ],
         "rows": [
           [
@@ -192,17 +189,18 @@
     {
       "heading": "Protetor de mamilo: a Toda Up tem três tamanhos",
       "paragraphs": [
-        "No protetor de mamilo, a Toda Up com MAUAD tem o menor preço da comparação. A diferença calculada é de R$ 18,99 frente ao preço de página da Zee Rucci ou R$ 15,35 frente ao preço à vista, antes do frete. Compare também o diâmetro: o menor valor só ajuda se o tamanho atender ao que você procura."
+        "No protetor de mamilo, o [Protetor de Silicone Ultrafino](https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) da Toda Up com MAUAD tem o menor preço da comparação. Frente ao de 8 cm da Zee Rucci, a diferença é de R$ 18,99 pelo preço de página ou R$ 15,35 à vista; frente ao de 10 cm, de R$ 25,99 ou R$ 22,00, antes do frete. Compare também o diâmetro: o menor valor só ajuda se o tamanho atender ao que você procura."
       ],
       "image": {
         "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
         "alt": "Três protetores de silicone da Toda Up nas cores Creme, Caramelo e Avelã, colados no braço de uma modelo",
         "caption": "Os protetores em Creme, Caramelo e Avelã. Imagem: Toda Up.",
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
         "objectFit": "contain",
         "aspectRatio": 1
       },
       "postParagraphs": [
-        "A Toda Up vende P (8 cm), M (10 cm) e G (12 cm); a Zee Rucci vende um só, de 8 cm. Quem precisa de 10 ou 12 cm, entre as duas, só acha na Toda Up. A Toda Up diz que o protetor é reutilizável até 30 vezes na página do produto (o FAQ da loja fala em 20), tem validade de 2 anos depois de aberto e é à prova d'água, com uso permitido em roupa de banho.",
+        "A Toda Up vende P (8 cm), M (10 cm) e G (12 cm); a Zee Rucci vende o de 8 cm e o de 10 cm. Quem precisa de 12 cm, entre as duas, só acha na Toda Up. A Toda Up diz que o protetor é reutilizável até 30 vezes na página do produto (o FAQ da loja fala em 20), tem validade de 2 anos depois de aberto e é à prova d'água, com uso permitido em roupa de banho.",
         "Pela loja da Zee Rucci, o protetor é reutilizável, tem cola hipoalergênica e impede o bico de marcar a roupa. A Toda Up não recomenda o protetor na gestação nem na amamentação. Como ele funciona está em [protetor de silicone para mamilo: como usar](/reviews/protetor-de-silicone-mamilo-como-usar)."
       ],
       "comparisonTable": {
@@ -216,17 +214,17 @@
           [
             "Preço",
             "R$ 59,90 na página (de R$ 99,90); R$ 53,91 com o cupom MAUAD",
-            "R$ 72,90 na página; R$ 69,26 à vista"
+            "8 cm: R$ 72,90 na página e R$ 69,26 à vista; 10 cm: R$ 79,90 e R$ 75,91 à vista"
           ],
           [
             "Tamanhos",
             "P (8 cm), M (10 cm) e G (12 cm)",
-            "Tamanho único, de 8 cm"
+            "8 cm e 10 cm"
           ],
           [
             "Cores",
             "Creme, Caramelo e Avelã",
-            "Marrom na página"
+            "Marrom e bege"
           ],
           [
             "Usos",
@@ -237,28 +235,46 @@
       }
     },
     {
+      "heading": "Preço com o MAUAD e a Black Week",
+      "paragraphs": [
+        "O MAUAD dá 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. O botão deste artigo abre a loja com o código aplicado; se o campo vier vazio, cole o MAUAD em “Código de desconto ou cartão-presente” no checkout. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
+        "A loja informa que a Black Week tem uma escada: 25% OFF para 1 ou 2 produtos, 30% para 3 ou 4 e 35% para 5 ou mais, com cada kit contando como 1 produto, e um Protetor de Silicone de brinde acima de R$ 249,90 depois dos descontos. A escada entra primeiro, e o MAUAD sai do que sobra. No carrinho, a Fita Up de R$ 116,90 foi para R$ 87,68 com a Black Week e para R$ 78,92 com o MAUAD por cima.",
+        "O frete aparece no checkout, pelo CEP; na Black Week, a faixa do site anuncia frete fixo de R$ 9,90."
+      ]
+    },
+    {
       "heading": "Qual escolher",
       "paragraphs": [
-        "Quer protetor de 10 ou 12 cm: considere a Toda Up, que oferece esses diâmetros e tem o menor preço entre os protetores comparados com MAUAD. Confira os cuidados no [guia do protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar).",
+        "Quer protetor de 12 cm: considere a Toda Up, a única das duas que o vende. Nos de 8 e 10 cm, a Toda Up com MAUAD também custa menos. Confira os cuidados no [guia do protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar).",
         "Quer escolher entre três larguras de fita: considere a Fita Up. O preço por embalagem com MAUAD é menor, mas a metragem não informada impede comparar o rendimento. Veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original).",
         "Quer fita com metragem declarada e protetores na mesma caixa: a Zee Rucci informa 5 metros e 5 pares. A largura não aparece na página dela; confirme esse dado se ele for decisivo.",
         "Quer o sutiã adesivo de menor preço e usa de 40 a 46: considere a Zee Rucci. Para 38 ou 48, confira a grade da Toda Up. Os limites de reutilização anunciados não garantem o custo por uso."
       ],
       "links": [
         {
+          "label": "Ver a Fita Up na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/fita-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Toda Up: MAUAD",
+          "href": "/cupons/toda-up"
+        },
+        {
           "label": "Comparar também os sutiãs da Toda Up e da Lupo",
           "href": "/reviews/toda-up-ou-lupo-sutia-adesivo"
         }
-      ]
+      ],
+      "emphasis": "Eu levaria a fita e o protetor da Toda Up, que saem por menos com o MAUAD e vêm em mais tamanhos; só no sutiã eu iria de Zee Rucci, se o seu número estiver entre 40 e 46."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "A fita da Zee Rucci é boa? A composição e o conteúdo da caixa não comprovam aderência, conforto ou sustentação no uso. A página informa 5 metros e 5 pares de protetores, mas não a largura. A Fita Up custa menos por embalagem com MAUAD nos preços comparados; faltam dados para comparar rendimento.",
+        "Qual é o cupom da Toda Up? É o MAUAD, com 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva. As regras e a Black Week estão no capítulo “Preço com o MAUAD e a Black Week”.",
         "A fita da Zee Rucci é a Fita Up? Não. A Fita Up é da Toda Up, e a fita da Zee Rucci é a Fita Adesiva Push Up, de outra marca.",
         "O sutiã adesivo da Zee Rucci é bom? Ele tem o menor preço entre os dois sutiãs comparados, mas preço e limite anunciado de até 30 usos não comprovam qualidade ou ajuste.",
-        "Qual protetor de mamilo é mais barato? Nos valores comparados, o da Toda Up com MAUAD custa menos, inclusive frente ao preço à vista da Zee Rucci. Confira o total com frete no carrinho.",
-        "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site da marca; confira a linha de desconto no resumo do carrinho e as regras na [página do cupom Toda Up](/cupons/toda-up)."
+        "Qual protetor de mamilo é mais barato? Nos valores comparados, o da Toda Up com MAUAD custa menos, inclusive frente ao preço à vista da Zee Rucci. A conta está no capítulo do protetor."
       ]
     }
   ]

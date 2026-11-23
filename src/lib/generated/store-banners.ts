@@ -1046,16 +1046,16 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Black November da Toda Up: até 35% OFF",
-        "text": "Campanha da própria Toda Up. As condições aparecem no site da loja.",
+        "headline": "Black Week da Toda Up: até 50% OFF",
+        "text": "Campanha da própria Toda Up: 25% em 1 ou 2 produtos, 30% em 3 ou 4 e 35% a partir de 5, com frete fixo de R$ 9,90. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Banner do topo de todaup.com (\"Black November, até 35% OFF\"), lido no navegador em 11/11/2026",
-    "verifiedAt": "2026-11-18"
+    "source": "Faixa do topo de todaup.com (\"Black Week com até 50% OFF\", \"Frete fixo R$ 9,90\") e quadro \"Black Week\" das páginas de produto, lidos no navegador em 23/11/2026; a loja não publica a data de fim",
+    "verifiedAt": "2026-11-23"
   },
   {
-    "id": "toda-up-brindes-calcinha-2026",
+    "id": "toda-up-brinde-protetor-2026",
     "affiliate": "toda-up",
     "slot": "mid",
     "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
@@ -1064,13 +1064,13 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Toda Up: ganhe calcinha fio dental de brinde",
-        "text": "Campanha da própria Toda Up: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, a calcinha fio dental e o protetor de silicone.",
+        "headline": "Toda Up: Protetor de Silicone de brinde acima de R$ 249,90",
+        "text": "Campanha da própria Toda Up na Black Week: compras acima de R$ 249,90, depois dos descontos, ganham um Protetor de Silicone. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Informado pelo Bruno em 11/11/2026 (\"Ganhe calcinha fio dental acima de R$199, ganhe calcinha fio dental + protetor de silicone acima de R$299\"); banner do topo de todaup.com com os brindes, lido em 11/11/2026; sem prazo informado",
-    "verifiedAt": "2026-11-11"
+    "source": "Quadro \"Black Week\" das páginas de produto de todaup.com (\"Acima de R$ 249,90 ganhe um Protetor de Silicone\"), lido no navegador em 23/11/2026; sem data de fim publicada",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "yesstyle-black-friday-sale-2026",
