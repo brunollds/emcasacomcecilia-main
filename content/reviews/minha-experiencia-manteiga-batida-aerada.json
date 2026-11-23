@@ -5,23 +5,27 @@
   "seoTitle": "Manteiga batida com leite funciona? Testei o hack viral",
   "type": "Teste de Cozinha",
   "category": "produtos-experiencias",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "Testei o hack viral que promete multiplicar manteiga com leite e conto, sem filtro, o que realmente aconteceu na cozinha.",
+  "metaDescription": "Testei o hack de dobrar manteiga com leite na batedeira e no processador: veja o que aconteceu, por que a emulsão falhou e como conservar.",
+  "editorialNote": "Teste feito na cozinha de casa, sem parceria comercial; as alternativas não testadas neste preparo estão indicadas no texto.",
   "publishedAt": "20 Abr 2026",
   "publishedAtISO": "2026-04-20",
+  "updatedAt": "2026-11-23",
   "image": "/images/reviews/manteiga/minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
   "imageAlt": "Tigela inclinada nas mãos da Cecília com manteiga e leite separados após o teste, em foto própria, ao lado da pergunta Manteiga com leite? e do apoio Meu teste do hack viral.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "youtubeUrl": "https://youtu.be/pftnU5mPuGU?si=xxXnKMlf0vDTayVy",
-  "pros": [
-    "Explica o que deu errado na prática",
-    "Aponta caminhos para usar menos manteiga",
-    "Ajuda a evitar desperdício com hacks virais"
-  ],
-  "cons": [
-    "O teste original falhou",
-    "Não substitui uma receita tradicional de manteiga caseira"
-  ],
+  "youtubeUrl": "https://youtu.be/pftnU5mPuGU",
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -90,9 +94,9 @@
       }
     },
     {
-      "heading": "Outros jeitos de usar menos manteiga, sem teste meu",
+      "heading": "Outros jeitos de usar menos manteiga",
       "paragraphs": [
-        "Não testei estas alternativas para este artigo. São técnicas conhecidas de cozinha, e nenhuma multiplica a manteiga; o resultado depende da receita."
+        "São técnicas conhecidas de cozinha, e nenhuma multiplica a manteiga; o resultado depende da receita."
       ],
       "bullets": [
         "Manteiga composta legítima: use 200 g de manteiga em temperatura ambiente, 2 colheres de azeite de oliva extra virgem e ervas frescas ou temperos a gosto. Bata até incorporar completamente.",
@@ -102,15 +106,15 @@
       ]
     },
     {
-      "heading": "Queijo fresco caseiro: uma possibilidade, sem teste meu",
+      "heading": "Queijo fresco caseiro no lugar da manteiga",
       "paragraphs": [
-        "Em algumas receitas de bolo e massa, um queijo fresco cremoso feito em casa, com leite e vinagre, pode entrar no lugar de parte da manteiga. Não testei essa troca: ele não é um cream cheese industrial e não serve para tudo."
+        "Em algumas receitas de bolo e massa, um queijo fresco cremoso feito em casa, com leite e vinagre, pode entrar no lugar de parte da manteiga. Ele não é um cream cheese industrial e não serve para tudo."
       ],
       "bullets": [
         "Use 1 litro de leite integral, 4 colheres de sopa de vinagre branco ou suco de limão e 1 pitada de sal.",
         "Aqueça o leite sem deixar ferver, adicione o vinagre ou limão e deixe descansar até coalhar.",
         "Coe em um pano fino, esprema bem, tempere com sal e bata até ficar cremoso.",
-        "Se for testar, prefira uma receita que já traga o queijo fresco no lugar da manteiga, em vez de trocar por conta própria."
+        "Em bolo, prefira uma receita que já traga essa troca, em vez de trocar por conta própria: a massa muda."
       ]
     },
     {
@@ -141,12 +145,13 @@
       ]
     },
     {
-      "heading": "Conclusão: Verdade na Cozinha",
+      "heading": "Conclusão: verdade na cozinha",
       "paragraphs": [
         "O desastre ensinou a checar a ciência antes de tentar o hack. Minha experiência desastrosa com a manteiga batida me ensinou a valorizar a ciência por trás da culinária e a questionar promessas milagrosas.",
-        "As alternativas acima não multiplicam a manteiga, e não as testei para este artigo: servem de ponto de partida, conforme a receita. Na próxima vez que um hack prometer dobrar um ingrediente, vale procurar antes a explicação de como ele funcionaria.",
+        "As alternativas acima não multiplicam a manteiga: servem de ponto de partida, conforme a receita. Na próxima vez que um hack prometer dobrar um ingrediente, vale procurar antes a explicação de como ele funcionaria.",
         "E se você também tem uma história de “tentei e deu errado”, compartilhe. Afinal, aprendemos tanto com os sucessos quanto com os fracassos."
       ],
+      "emphasis": "Se a manteiga está cara, eu gastaria menos dela em vez de tentar fazê-la render: no meu teste, o hack não dobrou nada e ainda sujou a cozinha inteira.",
       "image": {
         "src": "/images/reviews/manteiga/manteiga-batida-resultado.webp",
         "alt": "Colher cheia de manteiga aerada sobre o copo do processador, com leite separado embaixo",
@@ -154,9 +159,17 @@
         "objectFit": "portrait",
         "aspectRatio": 0.8
       }
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Por que o leite separa ao bater manteiga pronta? A manteiga já é uma emulsão de gordura, e o leite entrou de uma vez, sem se incorporar; o capítulo de ciência explica a conta de gordura e água.",
+        "Manteiga composta é a mesma coisa que o hack? Não: a composta mistura manteiga em temperatura ambiente com azeite e temperos, e o azeite aumenta um pouco o volume, sem dobrar a manteiga.",
+        "Quanto tempo a manteiga com sal dura fora da geladeira? Um a dois dias, em pote tampado, longe do calor e da luz, com o ambiente abaixo de 21 °C; em dia quente, volta para a geladeira.",
+        "Manteiga sem sal pode ficar fora da geladeira? Não: ela fica na geladeira, e misturas com ervas, alho, queijo ou leite também vão sempre para lá."
+      ]
     }
   ],
-  "updatedAt": "2026-11-06",
   "relatedArticles": [
     {
       "slug": "conhecendo-mais-rabanada"

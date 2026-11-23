@@ -26,11 +26,12 @@
   ],
   "publishedAt": "15 de novembro de 2026",
   "publishedAtISO": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação.",
+  "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação. Os links para Amazon e Mercado Livre são de afiliado e podemos receber comissão, sem custo extra para você.",
   "title": "Haier é boa marca? De onde é, o que vende no Brasil e como é o atendimento",
   "seoTitle": "Haier é boa marca? De onde é e o que vende no Brasil",
   "type": "Guia de Marca",
@@ -138,7 +139,8 @@
           "alt": "Cecília na bancada da cozinha ao lado da air fryer forno Haier de 12 litros, com os espetinhos prontos atrás da janela da frente",
           "caption": "A air fryer forno de 12 litros na nossa bancada.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://link.amazon/B08irJgVj"
         }
       ],
       "links": [
@@ -157,9 +159,6 @@
           "href": "https://meli.la/1nC8rj1",
           "sponsored": true
         }
-      ],
-      "postParagraphs": [
-        "Os links de compra são de afiliado: se você comprar por eles, podemos receber uma comissão, sem custo extra para você."
       ]
     },
     {
@@ -167,7 +166,8 @@
       "paragraphs": [
         "A Haier tem uma trajetória internacional longa. A air fryer agradou no primeiro contato da nossa casa, com ressalvas de montagem e espaço, mas isso não permite avaliar uma geladeira, uma TV ou a durabilidade dos aparelhos.",
         "Para decidir sobre outro produto, procure informações daquele modelo e confirme a assistência disponível para ele. Nossa indicação, por enquanto, fica restrita às primeiras impressões da air fryer descritas no artigo; não é uma recomendação de todo o catálogo."
-      ]
+      ],
+      "emphasis": "Eu confiaria na air fryer para o que ela faz bem e esperaria mais histórico antes de falar da marca inteira."
     },
     {
       "heading": "Perguntas frequentes",

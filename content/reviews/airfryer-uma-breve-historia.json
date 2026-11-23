@@ -17,7 +17,7 @@
   "metaDescription": "A história da air fryer: o Whirlwind Oven dos anos 1940, o projeto de Fred van der Weij, o lançamento da Philips em 2010 e como o aparelho funciona.",
   "publishedAt": "20 Abr 2026",
   "publishedAtISO": "2026-04-20",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "image": "/images/reviews/airfryer-uma-breve-historia-capa-v2.webp",
   "imageAlt": "Cecília apoiada sobre uma air fryer preta na bancada, em foto própria atual usada para ilustrar o tema, ao lado da chamada História da air fryer e do apoio Da invenção à cozinha.",
   "imageFit": "contain",
@@ -86,11 +86,12 @@
       ]
     },
     {
-      "heading": "Conclusão",
+      "heading": "Do forno de avião à bancada de casa",
       "paragraphs": [
         "A air fryer levou para a bancada de casa o ar quente em circulação já usado em fornos. Sua história passa por aparelhos de formatos e recursos diferentes, até a Airfryer lançada pela Philips em 2010.",
         "Quer usar melhor a sua? Leia [Air fryer: 10 fatos sobre como funciona e como usar melhor](/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia) ou faça a [batata rústica crocante](/receitas/batatas-rusticas-crocantes-na-air-fryer)."
       ],
+      "emphasis": "Para mim, o ponto da história é que a air fryer não inventou o ar quente: ela só o colocou numa cesta pequena o bastante para caber na bancada de casa.",
       "image": {
         "src": "/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg",
         "alt": "Cesto de arame com chips de batata-doce crocantes feitos na air fryer",
@@ -98,6 +99,29 @@
         "objectFit": "portrait",
         "aspectRatio": 0.8056
       }
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Quem inventou a air fryer moderna? O engenheiro holandês Fred van der Weij desenvolveu o aparelho que a Philips lançou como Airfryer, em 2010; a ideia de ar quente em circulação é mais antiga.",
+        "Quando a Philips lançou a Airfryer? Em 2010, na feira IFA, em Berlim, com o nome Airfryer.",
+        "Qual a diferença entre o Whirlwind Oven e a ActiFry? O Whirlwind Oven, de 1945, era um forno para refeições de avião que nunca chegou às casas; a ActiFry, de 2006, já era um aparelho de cozinha para fazer batata frita com pouco óleo.",
+        "Como a air fryer deixa o alimento crocante sem mergulhar em óleo? O ventilador faz o ar quente circular rápido em volta do alimento, e essa circulação seca e doura a superfície, o que dá a crocância."
+      ]
+    }
+  ],
+  "relatedArticles": [
+    {
+      "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia"
+    },
+    {
+      "slug": "air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes"
+    },
+    {
+      "slug": "haier-e-boa-marca-de-onde-e"
+    },
+    {
+      "slug": "conhecendo-mais-rabanada"
     }
   ]
 }
