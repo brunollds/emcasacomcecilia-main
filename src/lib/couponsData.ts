@@ -6162,6 +6162,11 @@ const STORE_COUPONS: Coupon[] = [
           '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 21,87 de um carrinho de R$ 218,70, e o resumo do checkout mostrou o valor na linha Cupom de desconto.',
       },
       {
+        question: 'Os cupons de 15% e 20% que aparecem por aí funcionam na Denavita?',
+        answer:
+          'No teste de 22/11/2026, não. Num carrinho de R$ 226,80, o VITA15 e o VITA20 voltaram como "Cupom inválido", e os outros códigos anunciados com 15% tiraram R$ 22,68, os mesmos 10% do EMCASA. Confira a linha de desconto no resumo do pedido antes de pagar.',
+      },
+      {
         question: 'O cupom Denavita soma com os produtos em promoção?',
         answer:
           'Sim. No nosso teste, a Laranja Moro estava em promoção, de R$ 129,90 por R$ 76,90, e o cupom tirou os 10% dela também: R$ 7,69, com o total em R$ 69,21.',
