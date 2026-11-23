@@ -16,7 +16,7 @@
   },
   "publishedAt": "14 de novembro de 2026",
   "publishedAtISO": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "description": "A DAMIE orienta comprar pelo Mercado Livre no Norte e no Nordeste. Conheça os modelos, veja exemplos de frete em oito capitais e saiba o que conferir antes de fechar o pedido.",
@@ -35,7 +35,7 @@
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
-  "editorialNote": "A DAMIE é parceira do site, e a Cecília recebeu a Reclinável 2.0. As informações e os exemplos de entrega vêm de consultas aos anúncios, sem compra. Podemos receber comissão pelos links e pelo cupom.",
+  "editorialNote": "A DAMIE é parceira do site, e podemos receber comissão pelo cupom e pelos links.",
   "relatedArticles": [
     {
       "slug": "damie-mercado-livre-ou-site"
@@ -128,7 +128,8 @@
           "alt": "Poltrona Damie Florença manual em corino preto, vista de frente, com porta-copos nos dois braços",
           "caption": "A Florença manual em corino, na foto do anúncio do Mercado Livre. Imagem: DAMIE.",
           "objectFit": "contain",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://meli.la/2JpgBUN"
         }
       ]
     },
@@ -174,6 +175,9 @@
     },
     {
       "heading": "Exemplos de frete no Norte",
+      "paragraphs": [
+        "No Norte, o frete e o prazo mudam por capital e por modelo, e vale simular o CEP antes de decidir."
+      ],
       "comparisonTable": {
         "headers": [
           "Capital",
@@ -232,27 +236,36 @@
       ]
     },
     {
-      "heading": "O CECILIA12 vale nessa compra?",
+      "heading": "Vale comprar a DAMIE pelo Mercado Livre no Norte e no Nordeste?",
+      "emphasis": "Se eu morasse no Norte ou no Nordeste, eu abriria o anúncio da DAMIE no Mercado Livre com o meu CEP antes de escolher a cor, e só pagaria com o frete e a previsão na tela. Eu compararia o total da poltrona mais a entrega, não só o preço do anúncio.",
       "paragraphs": [
-        "O CECILIA12 dá 12% no site oficial da DAMIE e não vale no Mercado Livre. As regras do código estão na página do [cupom DAMIE](/cupons/damie), e a comparação entre os dois canais, no guia [site oficial ou Mercado Livre](/reviews/damie-mercado-livre-ou-site).",
-        "**Procurando cupom para a compra no Mercado Livre?** Veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/). Os cupons de lá mudam com frequência: confira no carrinho se algum entra no anúncio da DAMIE."
+        "O CECILIA12 dá 12% no site oficial da DAMIE e não vale no Mercado Livre. As regras do código estão na página do [cupom DAMIE](/cupons/damie), e a comparação entre os dois canais, no guia [site oficial ou Mercado Livre](/reviews/damie-mercado-livre-ou-site)."
+      ],
+      "links": [
+        {
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-norte-nordeste",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a loja da DAMIE no Mercado Livre",
+          "href": "https://meli.la/2Uk6QB5",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele vale só no site, não nos anúncios do Mercado Livre.",
         "A DAMIE entrega no Nordeste? A marca atende a região pelos anúncios oficiais dela no Mercado Livre. Informe o seu CEP no anúncio para ver a entrega, o frete e a previsão.",
         "A DAMIE entrega no Norte? O caminho que a marca indica também é o Mercado Livre. A entrega se confere pelo CEP, no anúncio da poltrona que você quer.",
         "O site da DAMIE entrega no Norte e no Nordeste? Não. A página de fretes diz que essas regiões são atendidas exclusivamente pelos anúncios oficiais no Mercado Livre.",
-        "O CECILIA12 vale no Mercado Livre? Não. Ele dá 12% somente no site oficial da DAMIE. Para o Mercado Livre, veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/) e confira no carrinho se algum entra no anúncio.",
         "Como saber o prazo para a minha cidade? Escolha a variação da poltrona e informe o seu CEP no anúncio. Se não aparecer opção, pergunte à DAMIE antes de pagar."
-      ],
-      "links": [
-        {
-          "label": "Ver a loja da DAMIE no Mercado Livre",
-          "href": "https://meli.la/2Uk6QB5",
-          "sponsored": true
-        }
       ]
     }
   ]

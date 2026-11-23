@@ -17,7 +17,7 @@
   "metaDescription": "CECILIA12 dá 12% OFF na DAMIE. Couro ou corino na poltrona do papai: quanto muda, o que descasca e como saber se é couro de verdade.",
   "publishedAt": "9 de novembro de 2026",
   "publishedAtISO": "2026-11-09",
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/damie/poltrona-do-papai-couro-ou-corino-capa-v2.webp",
@@ -45,7 +45,7 @@
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
-  "editorialNote": "Recebemos as poltronas DAMIE em parceria e podemos receber comissão pelo cupom e pelos links. As outras marcas não foram testadas.",
+  "editorialNote": "Recebemos poltronas DAMIE em parceria; links com comissão. Outras marcas não testadas.",
   "relatedArticles": [
     {
       "slug": "poltrona-do-papai-eletrica-quanto-custa"
@@ -68,7 +68,7 @@
       "heading": "Corino ou couro: o que muda na prática",
       "paragraphs": [
         "Muda o material, e o nome parecido engana. Couro é pele animal curtida, com um acabamento por cima que varia de marca para marca. Corino é um sintético que imita a aparência dela: uma camada plástica sobre um tecido.",
-        "Regra prática, sem teste nosso: a tabela vale para couro bovino e para os sintéticos da família do PU e do PVC em geral, e o desempenho de cada peça depende do acabamento e da formulação. Não há medição de respirabilidade, de atrito nem de duração dessas poltronas."
+        "Regra prática, sem teste nosso, para couro bovino e para os sintéticos da família do PU e do PVC: o couro respira um pouco mais e resseca sem cuidado; o sintético limpa fácil e sofre com atrito e sol. O acabamento de cada peça muda o resultado."
       ],
       "comparisonTable": {
         "caption": "Couro bovino e corino, atributo por atributo. Comparação qualitativa, sem medição nessas poltronas.",
@@ -139,7 +139,7 @@
         "A tabela mantém a mesma poltrona e a mesma base, mudando só o revestimento. Todos os valores já incluem os 12% do CECILIA12."
       ],
       "comparisonTable": {
-        "caption": "Poltrona Reclinável 2.0 no cartão, com CECILIA12 e sem frete, em 9 de novembro. Preços sujeitos a alteração.",
+        "caption": "Preços do site em 23/11/2026, no cartão, Poltrona Reclinável 2.0 já com o CECILIA12 e sem frete.",
         "headers": [
           "Base",
           "Corino importado",
@@ -189,18 +189,20 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
+          "src": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada-4x5.webp",
           "alt": "Cecília Mauad sentada na Poltrona Reclinável 2.0 da DAMIE em corino caramelo, com porta-copos no braço",
           "caption": "A nossa 2.0, em corino caramelo.",
           "objectFit": "contain",
-          "aspectRatio": 0.5625
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         },
         {
-          "src": "/images/reviews/poltrona-levita-cecilia-sala.webp",
+          "src": "/images/reviews/poltrona-levita-cecilia-sala-4x5.webp",
           "alt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro caramelo, na sala de casa",
           "caption": "A nossa Levita, em couro caramelo.",
           "objectFit": "contain",
-          "aspectRatio": 0.5625
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
         }
       ]
     },
@@ -269,7 +271,7 @@
         }
       ],
       "comparisonTable": {
-        "caption": "Preços no cartão, sem frete, na mesma data. Na DAMIE, já com o CECILIA12.",
+        "caption": "Preços no cartão, sem frete. Outras marcas na leitura de 9 de novembro; DAMIE já com o CECILIA12.",
         "headers": [
           "Para quem",
           "Modelo",
@@ -304,7 +306,7 @@
         ]
       },
       "postParagraphs": [
-        "Compare também o que a garantia cobre, além do prazo. A DAMIE e a Alpha informam um ano; a Matrix e a Condor, três meses. Das outras marcas eu não testei nenhuma poltrona, então os dados são os dos anúncios."
+        "Compare também o que a garantia cobre, além do prazo. A DAMIE e a Alpha informam um ano; a Matrix e a Condor, três meses."
       ]
     },
     {
@@ -316,19 +318,35 @@
       ],
       "bullets": [
         "**Couro, com orçamento e clima a favor:** a Poltrona Reclinável 2.0 elétrica fixa em couro bovino fica por R$ 4.575,12 com o CECILIA12 no cartão.",
-        "**Corino, para gastar menos ou limpar rápido:** a mesma poltrona em corino fica por R$ 3.387,12 com o CECILIA12. Deixe folga para ela não raspar em nada.",
+        "**Corino, para gastar menos ou limpar rápido:** a mesma poltrona em corino custa R$ 1.188 a menos, com o CECILIA12. Deixe folga para ela não raspar em nada.",
         "**Se o dinheiro só alcança a base ou o couro:** fique com a base. A manual em couro e a elétrica com giro e balanço em corino custam quase o mesmo, e a segunda faz mais por você todo dia."
       ],
-      "emphasis": "Com orçamento e clima a favor, eu iria de couro. Com o orçamento curto, o corino resolve, com folga para a poltrona não raspar."
+      "emphasis": "Com orçamento e clima a favor, eu iria de couro. Com o orçamento curto, o corino resolve, com folga para a poltrona não raspar.",
+      "links": [
+        {
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-do-papai-couro-ou-corino",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Reclinável 2.0 na DAMIE",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale no couro e no corino, mas não nos anúncios da marca no Mercado Livre nem na Magalu; veja as condições na [página do cupom DAMIE](/cupons/damie).",
         "Corino ou couro: qual dura mais? Não temos uma comparação de vida útil dessas poltronas. O couro marca e resseca sem cuidado; no corino, a película pode esfolar ou descascar. O uso e a manutenção pesam mais que o nome do material.",
         "Corino descasca com o tempo? Pode, principalmente com atrito, calor e sol. Na nossa poltrona, esfolou no ponto que encostava na janela. Deixe folga atrás e nas laterais.",
         "Precisa hidratar poltrona de couro? Na DAMIE, sim: a orientação oficial é usar hidratante específico para couro, no intervalo da tabela de limpeza. Em outra marca, siga o que ela manda para o acabamento dela.",
-        "Couro ecológico é couro? Couro vem de pele animal, e o nome ecológico não esclarece a composição. Veja na descrição se o material é de origem animal ou sintético.",
-        "Tem cupom para poltrona do papai de couro? O CECILIA12 dá 12% no site da DAMIE, inclusive no couro. Não vale nos anúncios da marca no Mercado Livre nem na Magalu."
+        "Couro ecológico é couro? Couro vem de pele animal, e o nome ecológico não esclarece a composição. Veja na descrição se o material é de origem animal ou sintético."
       ]
     }
   ]

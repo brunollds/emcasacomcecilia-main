@@ -9,12 +9,12 @@
   "verdict": {
     "stars": 5,
     "recommendation": "recomendo",
-    "summary": "Design escultural com base giratória 360° que funciona como peça de destaque na decoração, sem abrir mão do conforto."
+    "summary": "Design escultural e base giratória de 360° que funcionaram bem na nossa sala; como a Moon saiu do site, hoje a compra passa pela Aurora ou pela reclinável 2.0."
   },
   "productSpec": [
     {
       "key": "Marca",
-      "value": "Damie"
+      "value": "DAMIE"
     },
     {
       "key": "Modelo",
@@ -37,28 +37,24 @@
       "value": "Bouclé (5 cores) e Linho (3 cores)"
     },
     {
-      "key": "Peso suportado",
-      "value": "Até 130 kg"
-    },
-    {
       "key": "Garantia",
-      "value": "1 ano; teste de 30 dias na embalagem original"
+      "value": "1 ano nas poltronas à venda; teste de 30 dias na embalagem original"
     },
     {
       "key": "Cupom disponível",
-      "value": "CECILIA12, 12% off",
+      "value": "CECILIA12, 12% off em todo o site, nas poltronas à venda",
       "highlight": true
     },
     {
       "key": "Onde comprar",
-      "value": "Site oficial Damie"
+      "value": "Saiu do catálogo do site da DAMIE"
     }
   ],
-  "description": "A Moon da Damie está na nossa sala há mais de um ano. Veja a diferença entre a poltrona decorativa giratória e uma reclinável e o que conferir antes de escolher.",
-  "metaDescription": "O cupom CECILIA12 dá 12% OFF na Damie. Poltrona Moon: base giratória, tecidos e limites de uma decorativa, com a peça usada na nossa sala.",
+  "description": "A Moon da DAMIE está na nossa sala há mais de um ano, mas saiu do catálogo do site. Veja o uso real, a diferença para uma reclinável e as alternativas que estão à venda.",
+  "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. A Poltrona Moon saiu do site: veja o uso real e as alternativas Aurora e reclinável 2.0.",
   "publishedAt": "18 Abr 2026",
   "publishedAtISO": "2026-04-18",
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-23",
   "image": "/images/reviews/damie/poltrona-moon-design-que-parece-obra-de-arte-capa-v2.webp",
   "imageAlt": "Recorte de foto própria com a poltrona Moon clara e as mãos de Cecília apoiadas no encosto.",
   "imageFit": "contain",
@@ -83,7 +79,7 @@
     },
     {
       "image": "/images/reviews/poltrona-moon-especificacoes.webp",
-      "alt": "Especificações técnicas da Poltrona Moon Damie.",
+      "alt": "Especificações técnicas da Poltrona Moon DAMIE.",
       "caption": "Detalhes técnicos: espuma D33, estrutura e revestimentos."
     }
   ],
@@ -91,18 +87,18 @@
     "Base giratória 360°",
     "Design marcante",
     "Opções de revestimento em bouclé e linho",
-    "Estrutura de madeira e compensado naval",
-    "Cupom CECILIA12 disponível"
+    "Estrutura de madeira e compensado naval"
   ],
   "cons": [
+    "Saiu do catálogo do site da DAMIE",
     "Não é reclinável",
-    "Design decorativo pode não combinar com todos os ambientes",
-    "Produto premium exige planejamento de orçamento"
+    "Design decorativo pode não combinar com todos os ambientes"
   ],
   "cta": {
-    "text": "Use o cupom CECILIA12 para garantir 12% OFF em todos os produtos do site da Damie.",
+    "text": "Use o cupom CECILIA12 para garantir 12% OFF em todo o site da DAMIE, inclusive na Aurora e na reclinável 2.0.",
     "label": "Usar o cupom",
-    "url": "https://damie.emcasacomcecilia.com"
+    "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-moon-design-que-parece-obra-de-arte",
+    "sponsored": true
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
@@ -110,15 +106,18 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Poltrona Moon da Damie vale a pena para quem quer uma peça decorativa giratória, com formato escultural e tecido com textura, e não uma poltrona reclinável. A nossa está na sala há mais de um ano. No site da Damie, o cupom CECILIA12 dá 12% OFF e soma com as promoções."
+        "A Moon da DAMIE é uma poltrona decorativa giratória, sem reclinação, e a nossa está na sala há mais de um ano. Ela saiu do catálogo do site, então este review conta o uso real e serve de referência. Hoje, para comprar, olhe a Aurora ou a reclinável 2.0 com o CECILIA12: 12% OFF no site todo."
       ]
     },
     {
       "heading": "Para quem é a Poltrona Moon",
-      "image": "/images/reviews/poltrona-moon-cecilia-hero.webp",
-      "imageAlt": "Cecília sentada na Poltrona Moon, destacando o design escultural da peça.",
-      "imageCaption": "A Moon funciona como peça de destaque para sala, quarto, leitura ou canto de descanso.",
-      "imageFit": "portrait",
+      "image": {
+        "src": "/images/reviews/poltrona-moon-cecilia-hero-4x5.webp",
+        "alt": "Cecília sentada na Poltrona Moon, destacando o design escultural da peça.",
+        "caption": "A Moon funciona como peça de destaque para sala, quarto, leitura ou canto de descanso.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8
+      },
       "paragraphs": [
         "A Moon é uma poltrona decorativa com base giratória. Escolha esse tipo de peça se você quer um assento para conversar, ler ou compor a sala e prefere o formato arredondado e o tecido com textura.",
         "Ela não reclina, não tem apoio elétrico para os pés e não substitui uma reclinável para quem procura essas funções. A nossa está na sala há mais de um ano; é a peça que aparece nas fotos com a Cecília."
@@ -126,80 +125,96 @@
     },
     {
       "heading": "Design, base giratória e presença no ambiente",
-      "image": "/images/reviews/poltrona-moon-cecilia-design.webp",
-      "imageAlt": "Cecília destacando o design escultural e a base giratória da Poltrona Moon.",
-      "imageCaption": "Base giratória 360° e formato arredondado são os principais diferenciais da Moon.",
-      "imageFit": "portrait",
+      "image": {
+        "src": "/images/reviews/poltrona-moon-cecilia-design-4x5.webp",
+        "alt": "Cecília destacando o design escultural e a base giratória da Poltrona Moon.",
+        "caption": "Base giratória 360° e formato arredondado são os principais diferenciais da Moon.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8
+      },
       "paragraphs": [
         "O conjunto da Moon combina formato arredondado, revestimento com textura e base giratória de 360° em preto fosco. O giro permite mudar a direção do assento sem reposicionar a poltrona no chão.",
-        "Essa rotação faz diferença no uso real. Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel. É um detalhe simples, mas que muda a relação da peça com o espaço."
+        "Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel."
       ]
     },
     {
       "heading": "Materiais, estrutura e revestimentos",
-      "image": "/images/reviews/poltrona-moon-cecilia-materiais.webp",
-      "imageAlt": "Cecília apresentando os revestimentos e acabamento da Poltrona Moon.",
-      "imageCaption": "A página oficial destaca espuma D33, estrutura interna e opções de revestimento.",
-      "imageFit": "portrait",
+      "image": {
+        "src": "/images/reviews/poltrona-moon-cecilia-materiais-4x5.webp",
+        "alt": "Cecília apresentando os revestimentos e acabamento da Poltrona Moon.",
+        "caption": "A página oficial destacava espuma D33, estrutura interna e opções de revestimento.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8
+      },
       "paragraphs": [
-        "A página oficial lista espuma D33, que indica a densidade da espuma.",
-        "A marca declara estrutura de madeira e compensado naval.",
-        "Nos revestimentos, a Moon aparece em Tecido Bouclé e Tecido Linho. O Bouclé está disponível em Terracota, Off White, Cinza, Verde Sálvia e Grafite. O Linho aparece em Off White, Terracota e Grafite. São cores pensadas para decoração: algumas mais neutras, outras mais marcantes."
+        "A página da DAMIE listava espuma D33 e estrutura de madeira e compensado naval.",
+        "A Moon vinha em bouclé (Terracota, Off White, Cinza, Verde Sálvia e Grafite) e em linho (Off White, Terracota e Grafite)."
       ]
     },
     {
       "heading": "Montagem, entrega e uso prático",
       "paragraphs": [
-        "A montagem é simples: a poltrona chega praticamente montada, é tirar da embalagem e posicionar. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
-        "A nossa Moon está na sala há mais de um ano, e é nela que a Cecília aparece nas fotos deste review.",
-        "Em 05/11/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP; para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
-        "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste.",
-        "A página oficial declara capacidade de até 130 kg. Confira também as medidas da peça e do caminho de entrada na sua casa."
+        "A montagem foi simples: a poltrona chegou praticamente montada, era tirar da embalagem e posicionar. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
+        "Para as poltronas que estão à venda, o frete é grátis no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP; para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
+        "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da DAMIE, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste."
       ]
     },
     {
-      "heading": "Sobre a Damie",
+      "heading": "Vale a pena a Moon da DAMIE hoje?",
       "paragraphs": [
-        "A Damie, razão social Dix Indústria de Estofados Ltda, é uma marca brasileira de Frederico Westphalen (RS) que fabrica poltronas, sofás, camas e móveis para áreas externas, com opções de revestimento como linho, suede, courino, bouclé e couro."
-      ]
-    },
-    {
-      "heading": "Vale o investimento?",
-      "paragraphs": [
-        "Antes de escolher a Moon, confirme três pontos: se você quer uma decorativa em vez de uma reclinável, se as medidas cabem no ambiente e qual revestimento combina com a sua rotina.",
-        "A decisão pelo desenho e pela textura é pessoal. O giro acrescenta uma função prática; já os pés elevados e a reclinação pedem outro tipo de poltrona."
-      ]
-    },
-    {
-      "heading": "Veredito",
-      "paragraphs": [
-        "Gostamos da proposta da Moon como decorativa giratória, e ela está na nossa sala há mais de um ano. Para quem quer esse desenho e não precisa de reclinação, é uma opção a considerar.",
-        "Se você procura apoio para os pés ou ajustes elétricos para passar horas vendo filme, compare com uma reclinável. Antes da compra, confira medidas, tecido, prazo e as condições do teste em casa."
+        "A Moon saiu do catálogo do site da DAMIE, então hoje não dá para comprá-la lá. O que fica deste review é o uso: ela está na nossa sala há mais de um ano e segue firme, como peça de design que também serve para sentar.",
+        "Para quem quer o giro, a Aurora é a alternativa à venda: manual, sem tomadas, com puff independente e base giratória de 360°. Para quem quer reclinar por horas, a reclinável 2.0 resolve. Antes de fechar, confira medidas, revestimento e as condições do teste em casa.",
+        "O CECILIA12 dá 12% OFF em todo o site, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix, mas não com outro cupom nem com o giftback de 15%, e não vale no Mercado Livre."
       ],
-      "emphasis": "A Moon é para quem quer uma peça de design que também sirva para sentar, na sala, no quarto ou no canto de leitura; para relaxar por horas vendo filme, a escolha é uma reclinável."
-    },
-    {
-      "heading": "Cupom CECILIA12",
-      "paragraphs": [
-        "O cupom CECILIA12 dá 12% OFF em todos os produtos do site da Damie, com qualquer forma de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%.",
-        "A recomendação é escolher revestimento e cor com calma, medir o ambiente e aplicar o CECILIA12 no checkout para conferir o preço final."
-      ],
+      "emphasis": "Na minha casa, eu escolheria hoje a Aurora se quisesse uma poltrona com giro e puff, e a reclinável 2.0 se quisesse relaxar por horas; a Moon fica como referência do que usamos.",
       "links": [
         {
-          "label": "Regras do cupom CECILIA12",
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-moon-design-que-parece-obra-de-arte",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Aurora na DAMIE",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom DAMIE",
           "href": "/cupons/damie"
-        },
-        {
-          "label": "Usar cupom CECILIA12",
-          "href": "https://damie.emcasacomcecilia.com"
-        },
-        {
-          "label": "Comprar no site da Damie",
-          "href": "https://damie.com.br/products/poltrona-decorativa-moon-giratoria"
         }
+      ],
+      "image": {
+        "src": "/images/reviews/damie/poltrona-aurora-damie-puff-off-white.webp",
+        "alt": "Poltrona Aurora da DAMIE em couro off white, com base giratória preta e puff separado",
+        "caption": "Aurora com puff, em couro off white. Foto oficial da DAMIE.",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora"
+      }
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix.",
+        "A Poltrona Moon ainda está à venda na DAMIE? Não, ela saiu do catálogo do site. Quem procura uma poltrona com giro pode olhar a Aurora; quem quer reclinar, a reclinável 2.0.",
+        "A Moon reclina? Não. Ela é decorativa, com base giratória, e não tem reclinação nem apoio elétrico para os pés.",
+        "A base da Moon gira a volta inteira? Sim, a base é giratória de 360°, em preto fosco, e deixa virar o assento sem arrastar a poltrona.",
+        "Qual poltrona da DAMIE substitui a Moon? Para o giro, a Aurora, com base giratória de 360° e puff independente. Para reclinar, a reclinável 2.0, que vem em quatro versões de base.",
+        "O teste de 30 dias da DAMIE exige guardar a caixa? Exige: a poltrona volta completa, na embalagem original e com a nota fiscal, e a devolução é pedida pelo WhatsApp da DAMIE."
       ]
     }
   ],
-  "seoTitle": "Poltrona Moon Damie vale a pena? Giratória e decorativa",
-  "editorialNote": "Recebemos a Moon da Damie em parceria. O link é afiliado: comissão sem custo extra para você."
+  "seoTitle": "Poltrona Moon Damie: saiu do site? Uso real e alternativas",
+  "editorialNote": "Recebemos a Moon da DAMIE em parceria. Link afiliado: comissão sem custo extra.",
+  "relatedArticles": [
+    {
+      "slug": "poltrona-damie-e-boa"
+    },
+    {
+      "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
+    },
+    {
+      "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
+    }
+  ]
 }

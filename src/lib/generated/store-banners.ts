@@ -168,31 +168,13 @@ export const storeBannersData: StoreBanner[] = [
     "endsAt": "2026-11-27T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Esquenta Black da DAMIE: poltrona com 3 presentes e frete grátis",
-        "text": "Campanha da própria DAMIE, enquanto durarem os estoques. As condições aparecem no site da loja.",
+        "headline": "Black Friday DAMIE: massagem, USB e porta-copos de brinde na poltrona",
+        "text": "Campanha da própria DAMIE, até 27/11 ou enquanto durarem os estoques: R$ 1.000 de desconto nas poltronas, já no preço, e frete grátis no Sul e no Sudeste.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Banner do topo de damie.com.br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
-  },
-  {
-    "id": "damie-pre-black-friday-2026",
-    "affiliate": "damie",
-    "slot": "mid",
-    "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=banner-pre-black-friday",
-    "art": {
-      "kind": "bag"
-    },
-    "copy": {
-      "pt": {
-        "headline": "A Black Friday chegou antes na DAMIE",
-        "text": "Campanha da própria DAMIE. As condições aparecem no site da loja.",
-        "action": "Ver a campanha"
-      }
-    },
-    "source": "Banner do topo de damie.com.br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Página de ofertas (/pages/cupons) e banner do topo de damie.com.br (conferidos em 23/11/2026)",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "dolce-gusto-black-friday-2026",
