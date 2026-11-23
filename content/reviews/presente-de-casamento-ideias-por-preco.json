@@ -17,7 +17,7 @@
   "metaDescription": "Presente de casamento com o cupom MAUAD de 5% OFF: ideias de Le Creuset, Porto Brasil, taças Bohemia e faqueiros em quatro faixas de preço.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/letseatit/presente-de-casamento-ideias-por-preco-capa-v2.webp",
@@ -28,14 +28,14 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Escolha uma faixa que caiba no orçamento e uma peça que o casal queira; na Let's Eat It, havia opções nas quatro faixas. Se a casa já tem o básico, prefira completar uma linha que o casal usa; para montar a mesa do zero, confira o aparelho de jantar. O código MAUAD dá 5% no site."
+        "Escolha uma faixa que caiba no orçamento e uma peça que o casal queira: a Let's Eat It tem opções nas quatro faixas, de taças Bohemia a panelas Le Creuset. Casa montada pede complemento; mesa do zero pede aparelho de jantar. O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento."
       ]
     },
     {
       "heading": "Para quem já tem casa montada",
       "paragraphs": [
-        "Com a casa montada, o presente vai para o complemento ou a reposição. As ideias seguem quatro faixas, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com os preços de venda da Let's Eat It em 20/10/2026.",
-        "Quando a casa já tem o básico, o presente pode seguir duas linhas. A primeira é a peça de complemento, algo que a mesa talvez ainda não tenha: a travessa retangular de 26 cm (R$ 529) ou a chaleira de 1,6 L com apito (R$ 929), que a ficha diz poder ir a qualquer fonte de calor, incluindo indução.",
+        "Com a casa montada, o presente vai para o complemento ou a reposição. As ideias seguem quatro faixas, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com os preços de venda da Let's Eat It na última conferência.",
+        "Quando a casa já tem o básico, o presente pode seguir duas linhas. A primeira é a peça de complemento, algo que a mesa talvez ainda não tenha: a [travessa retangular de 26 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (R$ 529) ou a [chaleira Kone de 1,6 L](https://letseatit.com.br/products/chaleira-kone-black-onyx-1-6l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (R$ 503,40, de R$ 839, em seis cores).",
         "A segunda é a peça de reposição. Se o casal já tem uma linha de louça ou de talheres e precisa completar, a conta mais simples é procurar a mesma linha e conferir o tamanho na ficha do produto antes de comprar, porque cada peça tem o seu próprio tamanho e os seus cuidados.",
         "A escolha entre complemento e reposição fica com quem dá o presente."
       ],
@@ -44,13 +44,27 @@
           "src": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
           "alt": "Travessa retangular Le Creuset Heritage Cotton com um bolo de laranja assado",
           "caption": "Travessa Heritage Cotton 26 cm, Le Creuset. Imagem: Let's Eat It.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
         },
         {
           "src": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
           "alt": "Chaleira Le Creuset com apito na cor Azure, sobre uma tábua de madeira",
-          "caption": "Chaleira com apito 1,6 L Azure, Le Creuset. Imagem: Let's Eat It.",
-          "objectFit": "square"
+          "caption": "Chaleira Le Creuset com apito, linha tradicional. Esse modelo esgotou na última conferência; o botão leva à Kone de 1,6 L, disponível. Imagem: Let's Eat It.",
+          "objectFit": "square",
+          "href": "https://letseatit.com.br/products/chaleira-kone-black-onyx-1-6l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a chaleira Kone na Let's Eat It",
+          "href": "https://letseatit.com.br/products/chaleira-kone-black-onyx-1-6l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a travessa Heritage Cotton na Let's Eat It",
+          "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
         }
       ]
     },
@@ -68,28 +82,28 @@
         ],
         "rows": [
           [
-            "[Arauco/Greenery](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "R$ 868",
-            "R$ 144,67",
-            "Forno, freezer, micro-ondas (a ficha cita cerca de 180°C, pede evitar choque térmico e diz que as alças podem esquentar no micro) e lava-louças."
+            "[Bio Latte](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "R$ 778,84 (de R$ 1.298,07), em pré-venda",
+            "R$ 129,81",
+            "Stoneware da Porto Brasil: confira forno, micro-ondas e lava-louças na ficha da peça."
+          ],
+          [
+            "[Bio Oceano](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "R$ 798 (de R$ 1.330), em pré-venda",
+            "R$ 133,00",
+            "Stoneware da Porto Brasil: confira forno, micro-ondas e lava-louças na ficha da peça."
           ],
           [
             "[Petroleum/Night Sky](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "R$ 868",
-            "R$ 144,67",
+            "R$ 798, em pré-venda",
+            "R$ 133,00",
             "Forno, freezer, micro-ondas e lava-louças, com os mesmos cuidados da linha de stoneware."
-          ],
-          [
-            "[Shimeji Gold (cinza e dourada)](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "R$ 2.049,90",
-            "R$ 341,65",
-            "Não vai ao micro-ondas, porque o filete metálico pode danificar a peça; evitar lava-louças para preservar o dourado, e lavar à mão. Forno: ficha não diz."
           ]
         ]
       },
       "postParagraphs": [
-        "A ficha do Arauco/Greenery diz que o aparelho serve até seis pessoas, e por isso a conta por pessoa divide o preço por seis. A ficha do Shimeji Gold traz garantia de 90 dias para defeito e de 12 meses para gretamento.",
-        "Para o uso de cada cor, a diferença está na tabela: a stoneware das duas primeiras vai ao forno, ao freezer, ao micro-ondas e à lava-louças, e a Shimeji Gold é a que tem mais restrições. O [guia da Porto Brasil](/reviews/porto-brasil-e-boa) explica a marca. Para montar a mesa inteira, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra o que precisa e quanto custa."
+        "O aparelho serve até seis pessoas, e por isso a conta por pessoa divide o preço por seis. Os três estão em pré-venda: o prazo de envio fica na página do produto. Os modelos Arauco/Greenery e Shimeji Gold, que apareciam neste guia, esgotaram na última conferência.",
+        "O [guia da Porto Brasil](/reviews/porto-brasil-e-boa) explica o que a marca libera de forno, micro-ondas e lava-louças. Para montar a mesa inteira, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra o que precisa e quanto custa."
       ],
       "images": [
         {
@@ -97,14 +111,27 @@
           "alt": "Pratos e xícaras de stoneware Porto Brasil em tom claro, empilhados sobre a mesa",
           "caption": "Stoneware Porto Brasil. Imagem: Let's Eat It.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o Bio Latte de 30 peças na Let's Eat It",
+          "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Porto Brasil na Let's Eat It",
+          "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
         }
       ]
     },
     {
       "heading": "Le Creuset: o que dá para comprar por faixa",
       "paragraphs": [
-        "A Le Creuset tem presente em toda faixa, do moedor de pimenta à panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
+        "A Le Creuset tem presente em toda faixa, da caneca de R$ 129 à panela de R$ 2.316,75. Em novembro, várias cores têm 25% de desconto sobre o preço de tabela. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
       ],
       "comparisonTable": {
         "headers": [
@@ -116,15 +143,21 @@
         "rows": [
           [
             "Até R$ 300",
-            "[Moedor de Pimenta Black Onyx](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "R$ 295,20",
-            "Medida de 21 x 6 cm; a moagem se ajusta por um pino no topo. Forno, micro-ondas e lava-louças: ficha não diz."
-          ],
-          [
-            "Até R$ 300",
             "[Caneca Cerâmica Cotton 100 ml](https://letseatit.com.br/products/caneca-ceramica-cotton-100ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
             "R$ 129",
             "Cerâmica premium esmaltada; pode ir à lava-louças. Forno e micro-ondas: ficha não diz."
+          ],
+          [
+            "Até R$ 300",
+            "[Mini Cocotte Cerâmica Cotton 250 ml, 10 cm](https://letseatit.com.br/products/mini-cocotte-ceramica-cotton-250ml-10cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "R$ 239",
+            "A ficha diz que vai ao forno, ao micro-ondas, ao congelador e à lava-louças."
+          ],
+          [
+            "R$ 300 a 700",
+            "[Chaleira Kone 1,6 L](https://letseatit.com.br/products/chaleira-kone-black-onyx-1-6l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "R$ 503,40 (de R$ 839)",
+            "Em seis cores. Material, indução e lava-louças: confira na página do produto."
           ],
           [
             "R$ 300 a 700",
@@ -134,32 +167,32 @@
           ],
           [
             "R$ 700 a 1.500",
+            "[Grelha Quadrada Signature Azure 26 cm](https://letseatit.com.br/products/grelha-quadrada-signature-azure-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "R$ 1.394,25 (de R$ 1.859)",
+            "Ferro fundido; superfície antiaderente; ondulações que escorrem a gordura; bicos nas duas laterais. Forno e indução: ficha não diz."
+          ],
+          [
+            "R$ 700 a 1.500",
             "[Skillet Coração Tradition Vermelho 26 cm](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
             "R$ 1.449",
             "Ferro fundido esmaltado, com interior vitrificado; compatível com todos os cooktops e forno até 260 °C. Lava-louças: ficha não diz."
           ],
           [
-            "R$ 700 a 1.500",
-            "[Chaleira Tradicional com Apito 1,6 L Azure Blue](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "R$ 929",
-            "Aço carbono esmaltado; a ficha diz que serve em todas as fontes de calor, incluindo indução. Tem apito e marcação de nível. Forno, micro-ondas e lava-louças: ficha não diz."
-          ],
-          [
             "Acima de R$ 1.500",
             "[Panela Redonda Signature Azure 2,4 L, 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "R$ 2.329",
+            "R$ 1.746,75 (de R$ 2.329)",
             "Ferro fundido com esmalte interno vitrificado; a ficha lista vitrocerâmico, indução, elétrico, gás, radiante, grill e forno. Pode ir à lava-louças."
           ],
           [
             "Acima de R$ 1.500",
             "[Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "R$ 3.089",
+            "R$ 2.316,75 (de R$ 3.089)",
             "Ferro fundido com esmalte interno vitrificado; a ficha lista vitrocerâmico, indução, elétrico, gás, radiante, grill e forno. Pode ir à lava-louças. Antes de usar no forno, confirme no manual desta versão o limite da tampa e do pegador dourado."
           ]
         ]
       },
       "postParagraphs": [
-        "A ficha da skillet diz que ela é o ferro fundido mais leve por litro do mercado. É uma afirmação da marca, sem comparação publicada na ficha. Para a leitura da marca, veja a [análise sobre a Le Creuset](/reviews/le-creuset-vale-a-pena)."
+        "A ficha da skillet diz que ela é o ferro fundido mais leve por litro do mercado. É uma afirmação da marca, sem comparação publicada na ficha. Para a leitura da marca, veja a [análise sobre a Le Creuset](/reviews/le-creuset-vale-a-pena). O moedor de pimenta Black Onyx e a chaleira tradicional com apito, que apareciam neste guia, esgotaram na última conferência."
       ],
       "images": [
         {
@@ -167,14 +200,22 @@
           "alt": "Panela redonda Le Creuset Signature na cor Cotton, de lado e vista de cima",
           "caption": "Panela redonda Signature, Le Creuset. Imagem: Let's Eat It.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Le Creuset na Let's Eat It",
+          "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
         }
       ]
     },
     {
       "heading": "Taças Bohemia: cristal ecológico ou cristal",
       "paragraphs": [
-        "A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis, o preço vai de R$ 128,42 a R$ 884,90."
+        "A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis, o preço vai de R$ 144,90 a R$ 884,90."
       ],
       "comparisonTable": {
         "headers": [
@@ -185,22 +226,16 @@
         ],
         "rows": [
           [
-            "[Taças Champagne Crex Optic 270 ml](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "[Taças para Vinho Branco Crex Optic 480 ml](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
             "Cristal ecológico",
-            "R$ 128,42",
-            "Não vai à lava-louças, micro-ondas nem freezer; lavar à mão."
+            "R$ 144,90",
+            "Lava-louças e micro-ondas: confira na página; a Crex Optic de 270 ml trazia restrição de lava-louças, micro-ondas e freezer."
           ],
           [
             "[Taças para Vinho Tinto Magnum 740 ml](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-tinto-em-cristal-bohemia-magnum-740ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
             "Cristal ecológico",
             "R$ 149,90",
             "Altura de 25 cm. Lava-louças e micro-ondas: ficha não diz."
-          ],
-          [
-            "[Copos Baixos Sophia 340 ml](https://letseatit.com.br/products/jogo-6-copos-baixos-cristal-bohemia-sophia-340ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "Cristal ecológico",
-            "R$ 154,90",
-            "Altura de 10 cm. Lava-louças e micro-ondas: ficha não diz."
           ],
           [
             "[Taças para Champanhe Eva 190 ml](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-eva-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
@@ -215,12 +250,6 @@
             "Altura de 27,5 cm. Cuidados: ficha não diz."
           ],
           [
-            "[Taças para Champanhe Angela 190 ml, borda dourada](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-com-borda-dourada-bohemia-angela-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "Cristal com borda dourada",
-            "R$ 499",
-            "Altura de 24,8 cm. Cuidados: ficha não diz."
-          ],
-          [
             "[Taças para Vinho Angela 350 ml, borda dourada](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-em-cristal-com-borda-dourada-bohemia-angela-350ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
             "Cristal com borda dourada",
             "R$ 884,90",
@@ -229,8 +258,15 @@
         ]
       },
       "postParagraphs": [
-        "Entre cristal ecológico e cristal, a escolha é do casal e do orçamento: as páginas não comparam os dois materiais. A Crex Optic é a única com restrição escrita de lava-louças e micro-ondas, por isso quem quer uma taça que vá à máquina precisa ler a página de cada modelo antes de comprar.",
-        "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (dados de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. A loja embala porcelana, cristal, vidro e cerâmica um a um, e repõe de graça a peça que chega quebrada, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
+        "Entre cristal ecológico e cristal, a escolha é do casal e do orçamento: as páginas não comparam os dois materiais. Quem quer uma taça que vá à máquina precisa ler a página de cada modelo antes de comprar, porque as fichas trazem os cuidados de forma desigual.",
+        "No Reclame Aqui, o produto \"Taças\" aparece entre os principais problemas da loja, com 19,91%, na aba geral do perfil (dados de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. A loja embala porcelana, cristal, vidro e cerâmica um a um, e repõe de graça a peça que chega quebrada, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber e fale com o SAC pelo WhatsApp (11) 96570-0375 ou por suporte@letseatit.com.br, com o número do pedido."
+      ],
+      "links": [
+        {
+          "label": "Ver as taças na Let's Eat It",
+          "href": "https://letseatit.com.br/collections/tacas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -261,7 +297,7 @@
           [
             "[LaGuiole La Maison Luxo Verde, 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
             "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
-            "R$ 1.099",
+            "R$ 1.099 (pré-venda)",
             "Lâmina de aço inox e cabo de ABS. Forno, micro-ondas e lava-louças: ficha não diz."
           ],
           [
@@ -271,53 +307,80 @@
             "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
           ],
           [
-            "[Wolff Pisa aço inox, 130 peças](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-pisa-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-            "As 101 peças da linha, mais 12 facas de peixe, 12 garfos de peixe, garfo e espátula de peixe, concha de molho, faca e garfo de assado",
-            "R$ 1.699",
-            "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
+            "[Wolff Berna aço inox, 101 peças](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-101-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "101 peças",
+            "R$ 1.698",
+            "Aço inox. Cuidados e lista de peças: confira na ficha."
+          ],
+          [
+            "[Wolff Avalon Dourado aço inox, 130 peças](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "130 peças",
+            "R$ 2.769,90 (de R$ 4.616,50)",
+            "Aço inox dourado. Cuidados e lista de peças: confira na ficha."
           ]
         ]
       },
       "postParagraphs": [
-        "Os três faqueiros Wolff têm a mesma recomendação de cuidado na ficha. Se a mesa precisa só de talheres para seis pessoas, o faqueiro de 30 peças cobre. Os de 101 e 130 peças servem para quem quer talheres de serviço e de peixe."
+        "Os faqueiros Wolff Avalon e Berna de 30 peças e o Avalon de 101 peças têm a mesma recomendação de cuidado na ficha. Se a mesa precisa só de talheres para seis pessoas, o faqueiro de 30 peças cobre. Os de 101 e 130 peças servem para quem quer talheres de serviço. O Wolff Pisa de 130 peças, que estava nesta faixa, esgotou na última conferência; o Berna de 101 peças fica na mesma faixa de preço."
+      ],
+      "links": [
+        {
+          "label": "Ver os faqueiros na Let's Eat It",
+          "href": "https://letseatit.com.br/collections/faqueiros?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Frete e prazo de entrega",
       "paragraphs": [
-        "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A página de frete da loja não traz faixa de frete grátis, mas a política padrão cita frete grátis acima de R$ 1.000 em produtos Le Creuset e Zwilling; confirme no carrinho. Pela página regional, o prazo vai de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, contados da confirmação do pagamento. Outra política da loja usa outra contagem, então, para um presente com data, confirme a previsão do pedido antes de pagar. O [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit) ajuda a planejar a compra, sem garantir data de chegada."
+        "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A página de frete publica os prazos em dias úteis, contados da confirmação do pagamento: 3 a 5 na capital paulista, 4 a 7 no interior e na Grande SP, 5 a 8 no Sul e no Sudeste, 6 a 9 no Centro-Oeste e 7 a 12 no Norte e no Nordeste; em promoção, podem mudar. Para um presente com data, confirme a previsão do pedido antes de pagar. O [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit) ajuda a planejar a compra, sem garantir data de chegada."
       ]
     },
     {
       "heading": "Cupom MAUAD: a conta de um presente",
       "paragraphs": [
-        "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout como os dois aparecem. As condições da loja estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar, no [guia de como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
-        "A conta é 5% sobre o subtotal, sem frete. Tome o jogo de taças Crex Optic, de R$ 128,42: 5% são R$ 6,42, e o valor fica em R$ 122,00 antes do frete. Quem paga no Pix ainda tem o desconto de 5% do Pix nos produtos que o oferecem, e o valor final aparece no checkout."
-      ]
-    },
-    {
-      "heading": "Dividir o presente com outros convidados",
-      "paragraphs": [
-        "Uma peça de faixa alta, como o faqueiro de 101 peças ou uma panela, pode ser dividida entre alguns convidados. Combine antes quem leva o quê e quanto cada um paga, para não chegar três jogos iguais de taças. Não encontramos na loja uma função de presente em grupo ou vaquinha; a divisão é combinada entre vocês, fora do site."
+        "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout como os dois aparecem. Cole o código no campo “Código de desconto” do resumo do pedido. As condições da loja estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar, no [guia de como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+        "A conta é 5% sobre o subtotal, sem frete. Tome a chaleira Kone, de R$ 503,40: 5% são R$ 25,17, e o valor fica em R$ 478,23 antes do frete. Quem paga no Pix ainda tem o desconto de 5% do Pix nos produtos que o oferecem, e o valor final aparece no checkout."
+      ],
+      "links": [
+        {
+          "label": "Ir para a Let's Eat It",
+          "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Qual faixa escolher",
       "paragraphs": [
-        "A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu. Até R$ 300 ficam as peças de complemento, como o ramekin, as taças Crex Optic e o moedor de pimenta; de R$ 300 a 700, o jogo de pratos, os faqueiros de 30 peças e a travessa; de R$ 700 a 1.500, o aparelho de jantar, a chaleira e o skillet; acima de R$ 1.500, o faqueiro de 130 peças, o aparelho Shimeji Gold e as panelas Le Creuset.",
-        "Se o casal já tem a casa montada, a escolha é entre complemento e reposição. Uma peça de faixa alta pode ser dividida entre convidados, combinada fora do site. O cupom MAUAD dá 5% sobre o subtotal, sem frete, em todas as formas de pagamento, e soma com o Pix."
+        "A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu. Até R$ 300 ficam as peças de complemento, como o ramekin, a mini cocotte e as taças Bohemia; de R$ 300 a 700, o jogo de pratos chapéu, os faqueiros de 30 peças, a travessa e a chaleira Kone; de R$ 700 a 1.500, o aparelho de jantar de 30 peças, a grelha e a skillet Le Creuset; acima de R$ 1.500, os faqueiros de 101 e 130 peças e as panelas Le Creuset.",
+        "Se o casal já tem a casa montada, a escolha é entre complemento e reposição. Uma peça de faixa alta, como o faqueiro de 101 peças ou uma panela, pode ser dividida entre convidados: combinem antes quem leva o quê, para não chegar três jogos iguais de taças. Não encontramos na loja uma função de presente em grupo, então a divisão é combinada fora do site. O cupom MAUAD dá 5% sobre o subtotal, sem frete, em todas as formas de pagamento, e soma com o Pix."
+      ],
+      "emphasis": "Para a maioria dos casais, a faixa de R$ 300 a 700 acerta: a travessa Heritage ou o faqueiro de 30 peças completam a casa sem pesar; as panelas Le Creuset ficam para quando os convidados dividem o valor.",
+      "links": [
+        {
+          "label": "Ver os presentes na Let's Eat It",
+          "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom da Let's Eat It",
+          "href": "/cupons/letseatit"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, inclusive nas peças da Le Creuset. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
         "A loja tem lista de casamento? A página de lista de presentes estava sem itens. Confira no site antes de contar com essa função; se ela não estiver disponível, combine a peça diretamente com o casal.",
         "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
-        "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 128,42; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Moedor de Pimenta Black Onyx, Le Creuset](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 295,20.",
-        "O que dar de presente de casamento de R$ 300 a 700? [Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-pratos-chapeu-organico-preto-matte-450ml-28x6-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 322,90; [Jogo 6 Taças Champagne Ardea Verde Selva 220 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 329,90; [Faqueiro Aço Inox Avalon 30 peças, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 383,90; e [Travessa Retangular Heritage Cotton 26 cm, Le Creuset](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 529,00.",
-        "O que dar de presente de casamento de R$ 700 a 1.500? [Aparelho de Jantar Arauco/Greenery 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 868,00; [Chaleira Tradicional com Apito 1,6 L Azure Blue, Le Creuset](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 929,00; [Faqueiro LaGuiole La Maison Luxo Verde 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.099,00; e [Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.449,00.",
-        "O que dar de presente de casamento acima de R$ 1.500? [Faqueiro Aço Inox Pisa 130 peças, Wolff](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-pisa-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.699,00; [Aparelho de Jantar Shimeji Gold 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.049,90; [Panela Redonda Signature Azure 2,4 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.329,00; e [Panela Redonda Signature Rhone 5,3 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 3.089,00.",
-        "Vale dar aparelho de jantar? Pode valer quando o casal quer começar a mesa do zero ou trocar a louça, porque o conjunto completo chega de uma vez. Antes de escolher, confira o que a ficha da peça permite: o Shimeji Gold, por exemplo, não vai ao micro-ondas.",
+        "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Vinho Branco Crex Optic 480 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 144,90; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Mini Cocotte Cerâmica Cotton 250 ml, Le Creuset](https://letseatit.com.br/products/mini-cocotte-ceramica-cotton-250ml-10cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 239,00.",
+        "O que dar de presente de casamento de R$ 300 a 700? [Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-pratos-chapeu-organico-preto-matte-450ml-28x6-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 322,90; [Jogo 6 Taças Champanhe Ardea Verde Selva 220 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 329,90; [Faqueiro Aço Inox Avalon 30 peças, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 383,90; e [Travessa Retangular Heritage Cotton 26 cm, Le Creuset](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 529,00.",
+        "O que dar de presente de casamento de R$ 700 a 1.500? [Aparelho de Jantar Bio Latte 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 778,84 (em pré-venda); [Faqueiro LaGuiole La Maison Luxo Verde 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.099,00 (em pré-venda); [Grelha Quadrada Signature Azure 26 cm, Le Creuset](https://letseatit.com.br/products/grelha-quadrada-signature-azure-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.394,25; e [Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.449,00.",
+        "O que dar de presente de casamento acima de R$ 1.500? [Faqueiro Aço Inox Berna 101 peças, Wolff](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-101-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.698,00; [Panela Redonda Signature Azure 2,4 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.746,75; [Panela Redonda Signature Rhone 5,3 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.316,75; e [Faqueiro Aço Inox Dourado Avalon 130 peças, Wolff](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.769,90.",
+        "Vale dar aparelho de jantar? Pode valer quando o casal quer começar a mesa do zero ou trocar a louça, porque o conjunto completo chega de uma vez. Os de 30 peças da Porto Brasil estão em pré-venda, então, para presente com data, confira o prazo de envio na página do produto.",
         "O cupom vale em Le Creuset? Sim. O cupom MAUAD vale no site da Let's Eat It inteiro, inclusive nas peças da Le Creuset, com 5% sobre o subtotal, sem frete, e soma com o desconto do Pix."
       ]
     }
@@ -342,16 +405,19 @@
     },
     {
       "slug": "porto-brasil-e-boa"
+    },
+    {
+      "slug": "black-friday-letseatit"
     }
   ],
   "decision": {
     "takeIf": [
-      "Leve complemento, como travessa ou chaleira, se a casa já tem o básico.",
-      "Leve o aparelho de 30 peças se o casal monta a mesa do zero."
+      "Leve um complemento, como a travessa Heritage ou a chaleira Kone, se a casa já tem o básico.",
+      "Leve o aparelho de 30 peças da Porto Brasil se o casal monta a mesa do zero e o presente não tem data."
     ],
     "skipIf": [
-      "Passe o aparelho Shimeji Gold se o casal usa micro-ondas e lava-louças todo dia: ele leva filete dourado.",
-      "Passe se depende da lista de presentes da loja sem ter confirmado que a função está disponível; a página da lista estava sem itens."
+      "Passe o aparelho Porto Brasil de 30 peças se o presente tem data: os modelos à venda estão em pré-venda.",
+      "Passe o faqueiro Laguiole se o presente tem data: ele também está em pré-venda."
     ]
   }
 }

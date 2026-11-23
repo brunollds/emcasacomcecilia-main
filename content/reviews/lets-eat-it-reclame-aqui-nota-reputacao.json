@@ -2,7 +2,7 @@
   "id": 320,
   "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
   "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram",
-  "seoTitle": "Let's Eat It no Reclame Aqui: nota, reclamações e pós-venda",
+  "seoTitle": "Let's Eat It no Reclame Aqui: nota 7,7 e reclamações",
   "type": "Análise de Reputação",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
@@ -13,42 +13,30 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Os números da Let's Eat It no Reclame Aqui de abril a setembro: reputação Boa, 99,1% das reclamações respondidas, 94% resolvidas, e só 54% voltariam a comprar.",
-  "metaDescription": "Let's Eat It no Reclame Aqui, com o cupom MAUAD de 5% OFF: reputação Boa, nota 7,6, 99,1% respondidas e 94% resolvidas, e o que fazer se der problema.",
+  "description": "A nota da Let's Eat It no Reclame Aqui em cinco janelas, o que ela mede, os pontos positivos, o motivo mais citado de reclamação e como falar com a loja.",
+  "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Veja a reputação Boa e a nota 7,7 no Reclame Aqui, o que mais gera reclamação e como falar com a loja.",
   "publishedAt": "3 de outubro de 2026",
   "publishedAtISO": "2026-10-03",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/letseatit/lets-eat-it-reclame-aqui-nota-reputacao-capa-v2.webp",
   "imageAlt": "Taça Palm Tree com desenho de folhas em uma mesa posta, em foto de catálogo da Let's Eat It, ao lado da chamada Let's Eat It no Reclame Aqui e do apoio Entrega e atendimento.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "99,1% das reclamações de abril a setembro foram respondidas; só 1 aguardava resposta",
-    "94% das 50 reclamações avaliadas de abril a setembro foram marcadas como resolvidas pelos consumidores",
-    "Reputação Boa em todos os meses de abril a setembro",
-    "13ª colocada no ranking de melhores empresas da categoria lojas de decoração do Reclame Aqui",
-    "Perfil ativo no Reclame Aqui há 6 anos, com CNPJ e telefone informados"
-  ],
-  "cons": [
-    "Só 54% dos consumidores que avaliaram dizem que voltariam a fazer negócio",
-    "A nota média dada pelos consumidores é 5,6, bem abaixo da nota geral de 7,6",
-    "Tempo médio de resposta de 16 dias e 7 horas no período",
-    "\"Produto não recebido\" é o problema mais citado no histórico de até 3 anos",
-    "Há reclamações com alegação de produto falsificado, que são relatos de consumidores e não foram comprovadas"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, com uma ressalva: a Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. No site, o código MAUAD dá 5%; o [cupom Let's Eat It](/cupons/letseatit) traz as regras."
+        "No Reclame Aqui, a Let's Eat It tem reputação Boa, nota 7,7 nos últimos seis meses, com 98% das 101 reclamações respondidas e 95,9% resolvidas entre as avaliadas. O ponto de atenção é produto não recebido, o motivo mais citado, e só 59,2% voltariam a comprar. O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF no site oficial."
       ]
     },
     {
-      "heading": "Por que olhar o Reclame Aqui antes de comprar panela e cristal",
+      "heading": "A nota e os indicadores de cada período",
       "paragraphs": [
-        "Uma panela de ferro esmaltado ou um aparelho de jantar completo não é compra de impulso, e cristal e porcelana viajam mal quando a embalagem não ajuda. Por isso, antes de começar a indicar a Let's Eat It por aqui, fui ver como ela se comporta quando algo dá errado. O Reclame Aqui não mostra se uma loja é perfeita — nenhuma é —, mas mostra o padrão dos problemas e se a empresa aparece para resolver."
+        "Cada coluna da tabela vem da aba de mesmo nome no perfil da Let's Eat It, que mostra seis meses, 12 meses, os anos de 2025 e 2024 e a aba Geral, com todo o histórico. A de seis meses é a mais recente e a que sustenta a reputação exibida no topo do perfil. Nela, 2 reclamações aguardavam resposta, e é por isso que o índice de respondidas aparece como 98%."
       ],
       "image": {
         "src": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
@@ -56,60 +44,86 @@
         "caption": "Perfil da Let's Eat It no Reclame Aqui.",
         "objectFit": "contain",
         "aspectRatio": 1.777
-      }
-    },
-    {
-      "heading": "Os números da Let's Eat It no Reclame Aqui",
-      "paragraphs": [
-        "Estes são os indicadores do perfil da Let's Eat It na aba de 6 meses, que é a janela usada para a reputação exibida no topo da página (dados até 30/09/2026):"
-      ],
+      },
       "comparisonTable": {
-        "caption": "Perfil da Let's Eat It no Reclame Aqui, aba de 6 meses.",
+        "caption": "Indicadores da Let's Eat It no Reclame Aqui por aba de período, lidos em 22/11/2026. Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
         "headers": [
           "Indicador",
-          "Resultado",
-          "De onde sai o número"
+          "6 meses",
+          "12 meses",
+          "2025",
+          "2024",
+          "Geral"
         ],
         "rows": [
           [
             "Reputação",
-            "Boa — nota 7,6/10",
-            "Combinação dos quatro índices abaixo, com pesos definidos pelo Reclame Aqui"
+            "Boa, 7,7",
+            "Boa, 7,6",
+            "Boa, 7,5",
+            "Regular, 6,8",
+            "Boa, 7,1"
           ],
           [
             "Reclamações recebidas",
-            "115",
-            "Todas as reclamações abertas no período"
+            "101",
+            "557",
+            "443",
+            "553",
+            "1.649"
           ],
           [
-            "Reclamações respondidas",
-            "99,1% (1 aguardando)",
-            "Reclamações com resposta pública da empresa"
+            "Respondidas",
+            "98%",
+            "99,3%",
+            "99,5%",
+            "100%",
+            "99%"
           ],
           [
-            "Reclamações resolvidas",
-            "94%",
-            "Entre as 50 avaliadas, as que o consumidor marcou como resolvidas"
+            "Avaliadas",
+            "49",
+            "287",
+            "242",
+            "308",
+            "890"
           ],
           [
-            "Voltariam a fazer negócio",
-            "54%",
-            "Entre as 50 avaliadas, quem disse que compraria de novo"
+            "Índice de solução, nas avaliadas",
+            "95,9%",
+            "93%",
+            "90,1%",
+            "81,8%",
+            "86,3%"
+          ],
+          [
+            "Voltariam a fazer negócio, nas avaliadas",
+            "59,2%",
+            "54,7%",
+            "56,2%",
+            "43,8%",
+            "49,1%"
           ],
           [
             "Nota média do consumidor",
-            "5,6",
-            "Média das notas de 0 a 10 dadas nas 50 avaliações"
+            "5,63",
+            "5,67",
+            "5,74",
+            "4,82",
+            "5,1"
           ],
           [
             "Tempo médio de resposta",
-            "16 dias e 7 horas",
-            "Tempo médio que a empresa levou para responder no período"
+            "19 dias e 11 horas",
+            "17 dias e 15 horas",
+            "12 dias",
+            "3 dias e 11 horas",
+            "11 dias e 14 horas"
           ]
         ]
       },
       "postParagraphs": [
-        "A nota 7,6 bate com a fórmula pública do Reclame Aqui, que dá mais peso à solução e à nota do consumidor. É uma janela móvel: os números mudam quando novas reclamações entram e antigas saem, então abra o perfil no dia da compra."
+        "As 101 reclamações dos seis meses são um número absoluto: sem o total de pedidos da loja no mesmo período, ele não vira taxa de problemas, e não dá para dizer se é muito ou pouco para o tamanho da operação. Os índices de solução e de quem voltaria a comprar valem para as 49 reclamações avaliadas, e uma base dessa ordem muda bastante com poucos casos. É uma janela móvel, então abra o perfil no dia da compra."
       ],
       "links": [
         {
@@ -120,101 +134,87 @@
           "label": "Como o Reclame Aqui calcula a reputação →",
           "href": "https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui"
         }
-      ],
-      "image": "/images/reviews/letseatit/reclame-aqui-reputacao-6-meses-2026-09.webp",
-      "imageAlt": "Painel do Reclame Aqui da Let's Eat It nos últimos 6 meses: reputação Boa, nota 7,6/10, 115 reclamações, 99,1% respondidas, 94% resolvidas, 54% voltariam a fazer negócio e nota do consumidor 5,6, com dados de 01/04/2026 a 30/09/2026",
-      "imageCaption": "Painel de reputação da aba de 6 meses.",
-      "imageFit": "portrait",
-      "imageAspectRatio": 0.4928
-    },
-    {
-      "heading": "O lado forte no período: quase todas respondidas e 94% das avaliadas resolvidas",
-      "paragraphs": [
-        "O dado que mais pesa a favor da Let's Eat It é a constância. Quase nada ficou sem resposta no período, e quem marca o caso como resolvido é o próprio cliente, não a empresa.",
-        "A reputação ficou em Boa em todos os meses de abril a setembro, e não só num bom mês. A loja também aparece em 13º lugar no ranking de melhores empresas da categoria lojas de decoração e está no Reclame Aqui há 6 anos, com CNPJ e telefone de contato no perfil.",
-        "Esses números ajudam a avaliar o pós-venda: no recorte de abril a setembro, quase todas as reclamações tiveram resposta e a maioria das avaliadas foi marcada como resolvida. Não são uma previsão para cada pedido novo."
       ]
     },
     {
-      "heading": "O lado que pede atenção: resolvido nem sempre é satisfeito",
+      "heading": "O que a nota e o selo medem (e não medem)",
       "paragraphs": [
-        "Os três índices de satisfação vêm das mesmas 50 avaliações. Pelos percentuais do quadro, foram 47 casos marcados como resolvidos e 27 consumidores que disseram que voltariam a comprar. Resolver o caso e querer comprar de novo são respostas diferentes; a nota média dada nas 50 avaliações foi 5,6.",
-        "Os números não dizem o motivo, mas os relatos recentes dão pistas. Aparecem pedidos com item faltando, peças que chegaram quebradas e pedidos de estorno que demoraram a cair. A minha leitura, e é uma hipótese, não um dado: em parte desses casos, o cliente queria o produto e recebeu o reembolso no lugar, ou recebeu a solução depois de muita espera. O próprio tempo médio de resposta, de 16 dias e 7 horas, é longo para quem está esperando uma encomenda.",
-        "Isso não muda a leitura de que a loja resolve a maioria das avaliadas, mas muda a expectativa: se algo der errado, o tempo médio de resposta foi de cerca de 16 dias no período."
+        "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade de uma panela ou de uma taça e muda conforme novas reclamações entram e são avaliadas. A [metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui) explica o cálculo.",
+        "Há duas notas diferentes no perfil. A de 7,7 é a reputação da empresa, calculada pela plataforma com os indicadores da tabela. A de 5,63 é a média das notas que os próprios consumidores deram ao atendimento depois de encerrar a reclamação.",
+        "A faixa Boa é a segunda mais alta do Reclame Aqui, abaixo do RA1000. O perfil da Let's Eat It aparece como Verificada, uma checagem de que a empresa existe, e a reputação foi Boa de maio a outubro. Os dois descrevem o atendimento às reclamações, e não a qualidade do que a loja vende."
       ]
     },
     {
-      "heading": "O que mais aparece nas reclamações",
+      "heading": "Pontos positivos",
       "paragraphs": [
-        "O próprio Reclame Aqui resume os temas mais citados, considerando as reclamações de até 3 anos registradas na aba geral:"
+        "Estes são os sinais favoráveis que o perfil mostrava na consulta:"
       ],
       "bullets": [
-        "Produto não recebido: 39,38% das reclamações classificadas por problema. É o tema que mais pesa, e combina com os relatos recentes de pedidos que chegaram incompletos.",
-        "Utilidades domésticas: 56,68% das reclamações classificadas por categoria.",
-        "Taças: 20,11% das reclamações classificadas por produto. Cristal é frágil, e entre os relatos recentes há peças que chegaram quebradas."
-      ],
-      "image": "/images/reviews/letseatit/reclame-aqui-principais-problemas-v2.webp",
-      "imageAlt": "Quadro Principais problemas comentados da Let's Eat It no Reclame Aqui: Utilidades domésticas 56,68%, Produto não recebido 39,38% e Taças 20,11%",
-      "imageCaption": "Principais problemas comentados no perfil da Let's Eat It, com reclamações de até 3 anos.",
-      "imageFit": "square"
-    },
-    {
-      "heading": "E as reclamações sobre produto falsificado?",
-      "paragraphs": [
-        "Procurando no perfil, aparecem algumas reclamações com títulos como \"produtos falsificados\" ou \"produto falso\", incluindo uma antiga sobre peças de marcas conhecidas, que ficou marcada como não resolvida. São alegações de consumidores: não encontrei nenhuma decisão ou apuração oficial que confirme falsificação, e também não consigo descartá-la só pelos relatos.",
-        "O que encontrei a favor da loja é que a Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, a marca de panelas mais cara do catálogo. Detalhei isso, junto com CNPJ e políticas, no artigo sobre se a loja é confiável. Para quem vai comprar uma peça de alto valor, a orientação é a mesma de qualquer loja: guarde a nota fiscal e confira a peça assim que receber."
-      ],
-      "links": [
-        {
-          "label": "Let's Eat It é confiável? CNPJ, Le Creuset e políticas",
-          "href": "/reviews/lets-eat-it-e-confiavel"
-        }
+        "**Respostas.** Nos seis meses, 98% das 101 reclamações tiveram resposta, e nas abas de 12 meses, 2025 e 2024 o índice fica entre 99,3% e 100%.",
+        "**Reputação.** A faixa é Boa nos seis meses, nos 12 meses, em 2025 e na aba Geral, com nota de 7,1 a 7,7. Só 2024 aparece como Regular, com 6,8.",
+        "**Solução, nas avaliadas.** Entre as 49 reclamações avaliadas nos seis meses, 95,9% foram consideradas resolvidas, acima dos 81,8% de 2024.",
+        "**Tendência.** A nota subiu de 6,8 em 2024 para 7,5 em 2025 e 7,7 nos últimos seis meses.",
+        "**Empresa verificada e tempo de casa.** O perfil tem o selo de empresa verificada, mostra o CNPJ 37.882.316/0001-64 e está no Reclame Aqui há 6 anos.",
+        "**Ranking.** A loja aparece em 11º lugar no ranking de Lojas de Decoração do Reclame Aqui, um retrato do dia da consulta, e não uma medida de qualidade dos produtos."
       ]
     },
     {
-      "heading": "O que a loja promete quando algo dá errado",
+      "heading": "Pontos de atenção e principais queixas",
       "paragraphs": [
-        "Ajuda comparar as reclamações com o que a própria Let's Eat It publica nas políticas de frete e de trocas:"
+        "Os motivos saem da aba Geral, que reúne até três anos e 1.649 reclamações, e não dos seis meses da tabela. Nela, a categoria Utilidades domésticas responde por 55,01% das reclamações, o problema \"Produto não recebido\" por 38,8% e o produto \"Taças\" por 19,91%. São três classificações diferentes, e não um mesmo ranking. Cristal é frágil, e as reclamações recentes mencionam pedido não recebido ou sem estorno, cancelamento, pré-venda sem data e dificuldade com o prazo de 7 dias do portal de devolução.",
+        "Alguns cuidados na leitura dos números:"
       ],
       "bullets": [
-        "Produto danificado no transporte: reposição gratuita, mediante contato pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br com fotos do produto e da embalagem.",
+        "Resolver o caso e querer comprar de novo são respostas diferentes. Dos 49 avaliados nos seis meses, cerca de 47 marcaram o caso como resolvido, mas só cerca de 29 voltariam a comprar, e a nota média que deram foi 5,63.",
+        "A resposta leva em média 19 dias e 11 horas nos seis meses, mais que os 12 dias de 2025 e os 3 dias e 11 horas de 2024. É um tempo longo para quem espera uma encomenda.",
+        "Os motivos da aba Geral, de até três anos, não se misturam com os indicadores dos seis meses."
+      ]
+    },
+    {
+      "heading": "Alegações de produto falsificado e o localizador da Le Creuset",
+      "paragraphs": [
+        "No perfil aparecem reclamações com títulos como \"produtos falsificados\" ou \"produto falso\", incluindo uma antiga sobre peças de marcas conhecidas, marcada como não resolvida. São alegações de consumidores: não há decisão nem apuração oficial que confirme falsificação, e os relatos sozinhos também não permitem descartá-la.",
+        "Um dado separado é que a Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, a marca de panelas mais cara do catálogo. O CNPJ, as políticas e esse dado estão em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel). Em peça de alto valor, guarde a nota fiscal e confira a peça assim que receber."
+      ]
+    },
+    {
+      "heading": "Como a loja responde e o que conferir antes de comprar",
+      "paragraphs": [
+        "O perfil do Reclame Aqui é o da empresa, e não de cada produto. Ele se chama Lets Eat It e mostra o CNPJ 37.882.316/0001-64, o mesmo das páginas da loja. Se algo der errado com o pedido, o caminho começa nos canais da própria loja: WhatsApp (11) 96570-0375 e e-mail suporte@letseatit.com.br, de segunda a sexta, das 9h às 18h. A loja informa:"
+      ],
+      "bullets": [
+        "Produto danificado no transporte: reposição gratuita, com fotos do produto e da embalagem.",
         "Devolução: 30 dias a partir do recebimento, com reembolso integral no meio de pagamento original ou crédito na loja, e etiqueta de envio enviada pela loja.",
-        "Prazo do reembolso, depois da aprovação: até 3 dias úteis no Pix, 5 a 10 dias úteis no cartão e 7 a 15 dias úteis no boleto.",
+        "Prazo do reembolso, depois da aprovação: até 3 dias úteis no Pix, na próxima fatura no cartão e 7 a 15 dias úteis no boleto.",
         "Defeito de fabricação: até 90 dias, como prevê o Código de Defesa do Consumidor."
       ],
       "postParagraphs": [
-        "Repare que a política prevê tanto reposição quanto reembolso. Se você faz questão do produto, deixe isso claro desde o primeiro contato."
+        "Ao receber o pedido, fotografe a caixa antes de abrir, depois a peça e a etiqueta, e guarde a nota fiscal e a confirmação do pedido. Para pedir troca, envie ao atendimento o número do pedido, as fotos da caixa e da peça e a nota. O portal de devolução fala em 7 dias para o pedido, então peça assim que receber. Diga desde o primeiro contato se prefere reposição, troca ou reembolso; se o reembolso foi aprovado, acompanhe o prazo do seu meio de pagamento antes de cobrar de novo."
       ],
       "links": [
         {
           "label": "Política de frete da Let's Eat It →",
-          "href": "https://letseatit.com.br/pages/politica-de-frete"
+          "href": "https://letseatit.com.br/pages/politica-de-frete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
         },
         {
           "label": "Política de reembolso e trocas da Let's Eat It →",
-          "href": "https://letseatit.com.br/pages/politica-de-reembolso"
+          "href": "https://letseatit.com.br/pages/politica-de-reembolso?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
         }
       ]
     },
     {
-      "heading": "Se o seu pedido der problema: o que fazer",
+      "heading": "Vale a pena comprar na Let's Eat It?",
+      "emphasis": "Pelo Reclame Aqui, dá para comprar no site oficial da Let's Eat It, com a atenção voltada à entrega e à espera pelo atendimento: guarde o número do pedido, fotografe a caixa ao abrir e peça a troca assim que receber.",
       "paragraphs": [
-        "Com base no padrão das reclamações, este é o caminho que eu seguiria:"
-      ],
-      "bullets": [
-        "Abra a caixa com calma e, se algo estiver quebrado ou faltando, fotografe o produto, a embalagem e a etiqueta antes de descartar qualquer coisa.",
-        "Fale primeiro com o atendimento da loja, de segunda a sexta, das 9h às 18h, pelo WhatsApp ou pelo e-mail de suporte, e anote o número do pedido e a data do contato.",
-        "Diga com clareza o que você quer — reposição, troca ou reembolso. Se preferir receber a peça, peça isso por escrito.",
-        "Se o reembolso foi aprovado, acompanhe o prazo do seu meio de pagamento antes de cobrar de novo.",
-        "Se não houver retorno, registre a reclamação no Reclame Aqui e, se precisar, no consumidor.gov.br ou no Procon da sua cidade."
-      ]
-    },
-    {
-      "heading": "Parceria e cupom",
-      "paragraphs": [
-        "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It: os 5% de desconto vêm do cupom MAUAD, que você digita no checkout e confere no resumo do pedido. Podemos receber comissão pelo código e pelo nosso link, sem custo extra para você. A parceria não muda os números deste artigo, que vêm do perfil público da loja no Reclame Aqui."
+        "Pelo Reclame Aqui, a loja responde a quase todas as reclamações, tem reputação Boa em quatro das cinco janelas e solução de 95,9% entre as avaliadas nos seis meses. Os pontos de atenção são produto não recebido, o motivo mais citado, e a resposta em torno de 19 dias, com só 59,2% dos avaliadores dispostos a comprar de novo. Para presente com data marcada, confira o prazo de entrega no CEP antes de fechar.",
+        "Se decidir comprar, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF no site oficial, em todas as formas de pagamento, digitado no campo \"Código de desconto\" do checkout. O Em Casa com Cecília tem parceria com a loja e pode receber comissão pelo código e pelo link, sem custo extra para você; os números deste artigo vêm do perfil público no Reclame Aqui. O passo a passo está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
       ],
       "links": [
+        {
+          "label": "Ir para a Let's Eat It",
+          "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        },
         {
           "label": "Cupom MAUAD: regras e validade",
           "href": "/cupons/letseatit"
@@ -222,24 +222,14 @@
       ]
     },
     {
-      "heading": "Dá para confiar na Let's Eat It?",
-      "paragraphs": [
-        "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, e os 99,1% de respostas e os 94% de solução entre as avaliadas são sinais favoráveis do pós-venda.",
-        "A ressalva está na satisfação: 54% dos avaliadores voltariam a fazer negócio, e a nota média deles era 5,6. Com tempo médio de resposta de 16 dias e 7 horas, eu olharia o perfil atualizado e os relatos recentes antes de decidir, sobretudo para uma compra com data marcada."
-      ]
-    },
-    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A loja Let's Eat It é confiável segundo o Reclame Aqui? Sim, com uma ressalva. A reputação é Boa, com nota 7,6 de 10 no recorte de abril a setembro, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio. Confira o perfil atual antes da compra.",
-        "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, no recorte de abril a setembro. A nota média dada pelos consumidores nas 50 avaliações é 5,6.",
-        "A Let's Eat It responde às reclamações? Sim: 99,1% das 115 reclamações do recorte de abril a setembro tinham resposta; só uma aguardava retorno. Esse índice muda com o tempo.",
-        "Por que 94% foram resolvidas, mas só 54% voltariam a comprar? Os dois índices vêm das mesmas 50 avaliações e medem coisas diferentes: se o problema foi resolvido e se o consumidor compraria de novo. Os percentuais, sozinhos, não mostram os motivos.",
-        "Quanto tempo a Let's Eat It demora para responder no Reclame Aqui? A média foi de 16 dias e 7 horas no recorte de abril a setembro. Isso não é um prazo prometido para um novo chamado.",
-        "O que mais gera reclamação na Let's Eat It? Produto não recebido é o problema mais citado no histórico de até 3 anos, com 39,38% das reclamações classificadas por problema; taças aparecem com 20,11% por produto. São classificações diferentes, não um mesmo ranking.",
-        "A Let's Eat It vende produto falsificado? Há reclamações com essa alegação, mas são relatos de consumidores sem confirmação oficial. A loja aparece no localizador oficial da Le Creuset Brasil.",
-        "Como reclamar da Let's Eat It? Comece pelo atendimento da loja, no WhatsApp (11) 96570-0375 ou no e-mail suporte@letseatit.com.br, de segunda a sexta, das 9h às 18h. Sem retorno, registre a reclamação no Reclame Aqui ou no consumidor.gov.br.",
-        "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."
+        "Qual a nota da Let's Eat It no Reclame Aqui? Na aba de seis meses, a reputação é Boa, com nota 7,7. Nos 12 meses é Boa, com 7,6. A média que os consumidores deram ao atendimento nos seis meses é 5,63.",
+        "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+        "A Let's Eat It tem selo no Reclame Aqui? O perfil aparece como Verificada e com reputação Boa. O Boa é a faixa abaixo do RA1000, a máxima, e descreve o atendimento às reclamações, e não a qualidade dos produtos.",
+        "A Let's Eat It responde e resolve as reclamações? Nos seis meses, respondeu 98% das 101 reclamações, em média em 19 dias e 11 horas. Entre as 49 avaliadas, 95,9% foram consideradas resolvidas, e 59,2% voltariam a fazer negócio.",
+        "O que fazer se o pedido da Let's Eat It não chegou? Fale com a loja pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br, com o número do pedido à mão. Produto não recebido é o motivo mais citado na aba Geral, com 38,8%.",
+        "A Let's Eat It vende produto falsificado? Há reclamações com essa alegação, mas são relatos de consumidores sem confirmação oficial. A loja aparece no localizador oficial da Le Creuset Brasil."
       ]
     }
   ],
@@ -251,13 +241,17 @@
   },
   "coupon": "MAUAD",
   "affiliate": "letseatit",
-  "editorialNote": "Dados públicos do Reclame Aqui, que mudam com o tempo. Podemos receber comissão pelo MAUAD.",
+  "editorialNote": "Feito com os dados públicos do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "lets-eat-it-e-confiavel"
     },
     {
       "slug": "cupom-mauad-lets-eat-it-como-usar"
+    },
+    {
+      "slug": "lets-eat-it-e-boa"
     }
-  ]
+  ],
+  "bodyDatesReason": "reclame-aqui"
 }

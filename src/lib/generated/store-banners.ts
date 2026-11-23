@@ -560,7 +560,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Carrossel da home e banner de /collections/outlet de letseatit.com.br (\"Black Friday – as melhores ofertas do outlet com até 70% OFF\"), lidos no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-18"
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "magalu-black-das-blacks-2026",

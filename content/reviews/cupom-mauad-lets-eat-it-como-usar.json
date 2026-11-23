@@ -17,36 +17,29 @@
   "metaDescription": "O código MAUAD dá 5% OFF na Let's Eat It, testado no checkout, inclusive em promoção. Veja o passo a passo, o Pix, o cashback, o frete e a 1ª compra.",
   "publishedAt": "3 de outubro de 2026",
   "publishedAtISO": "2026-10-03",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/letseatit/cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
   "imageAlt": "Xícara de vidro Pérola Wolff com pires, em foto oficial fornecida pela Let's Eat It, ao lado da chamada Como usar o desconto.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "5% de desconto sobre o subtotal dos produtos no site oficial da Let's Eat It",
-    "Vale com todas as formas de pagamento e soma com o desconto de 5% do Pix",
-    "No nosso teste, o cupom foi aceito em item de pré-venda e em produto que já estava com preço promocional",
-    "Funcionou também num pedido com um único item de R$ 62,90",
-    "O desconto aparece no resumo do pedido antes do pagamento, como \"Desconto no pedido · MAUAD\""
-  ],
-  "cons": [
-    "O frete é calculado à parte, na etapa seguinte do checkout",
-    "A loja não publica regra sobre uso repetido por CPF ou soma com outros cupons"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
-      "heading": "Resposta rápida: como usar o cupom MAUAD",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "O [cupom Let's Eat It](/cupons/letseatit) é o MAUAD e dá 5% de desconto sobre o subtotal dos produtos no site oficial. Você digita o código no campo \"Código de desconto\" do checkout e confere a linha do desconto no resumo antes de pagar. O frete entra depois, calculado pelo CEP; veja abaixo o teste e a economia."
+        "O [cupom Let's Eat It](/cupons/letseatit) é o MAUAD e dá 5% OFF sobre o subtotal dos produtos no site oficial, em todas as formas de pagamento. Digite o código no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar. O frete entra na etapa seguinte, calculado pelo CEP."
       ]
     },
     {
-      "heading": "Introdução",
+      "heading": "O que o nosso teste confirmou",
       "paragraphs": [
-        "A Let's Eat It reúne panelas de ferro esmaltado, aparelhos de jantar, taças, xícaras e peças de mesa posta. O código da parceria é MAUAD e dá 5% de desconto no site da loja.",
-        "Antes de escrever este guia, testamos o cupom no checkout da Let's Eat It em 2 de outubro de 2026. Os prints abaixo são desse teste, e o que não confirmamos está dito com todas as letras. O resumo, com regras e validade, fica na página de cupons."
+        "A Let's Eat It reúne panelas de ferro esmaltado, aparelhos de jantar, taças, xícaras e peças de mesa posta. Antes de escrever este guia, testamos o código no checkout da loja em 2 de outubro de 2026, e os prints abaixo são desse teste; o que não confirmamos está dito com todas as letras.",
+        "Montamos um carrinho com dois itens bem diferentes de propósito: uma panela Le Creuset em pré-venda e um jogo de xícaras de cristal da Wolff que já estava com preço promocional no site. O MAUAD foi aceito e descontou 5% do subtotal inteiro — R$ 179,10 sobre R$ 3.582,10.",
+        "Depois repetimos o teste com um único item, o jogo de xícaras de R$ 62,90, e o cupom também funcionou. Ou seja: pelo menos nessa faixa de valor, não esbarramos em pedido mínimo, e o fato de o produto já estar em promoção não bloqueou o desconto.",
+        "O MAUAD vale com todas as formas de pagamento e soma com o desconto que a loja dá no Pix. O que não conseguimos confirmar, porque a loja não publica uma política específica do cupom: se existe limite de uso por CPF ou por conta e se ele se soma a outro cupom. Nesses casos, vale o que o checkout mostrar."
       ],
       "links": [
         {
@@ -56,36 +49,30 @@
       ]
     },
     {
-      "heading": "O que o nosso teste confirmou",
+      "heading": "1. Escolha os produtos e revise o carrinho",
       "paragraphs": [
-        "Montamos um carrinho com dois itens bem diferentes de propósito: uma panela Le Creuset em pré-venda e um jogo de xícaras de cristal da Wolff que já estava com preço promocional no site. O MAUAD foi aceito e descontou 5% do subtotal inteiro — R$ 179,10 sobre R$ 3.582,10.",
-        "Depois repetimos o teste com um único item, o jogo de xícaras de R$ 62,90, e o cupom também funcionou. Ou seja: pelo menos nessa faixa de valor, não esbarramos em pedido mínimo, e o fato de o produto já estar em promoção não bloqueou o desconto.",
-        "O MAUAD vale com todas as formas de pagamento e soma com o desconto que a loja dá no Pix. O que não conseguimos confirmar, porque a loja não publica uma política específica do cupom: se existe limite de uso por CPF ou por conta e se ele se soma a outro cupom. Nesses casos, vale o que o checkout mostrar."
-      ]
-    },
-    {
-      "heading": "1. Escolha os produtos no site oficial",
-      "paragraphs": [
-        "O cupom vale para compras feitas no site da Let's Eat It. Na página de cada produto aparecem o preço, o desconto do Pix quando houver e o botão “Adicionar ao carrinho”. No teste, um produto em promoção aceitou o código; confira a linha de desconto para os itens do seu pedido."
-      ],
-      "image": "/images/reviews/letseatit/passo-1-produto-loja-v2.webp",
-      "imageAlt": "Página do Jogo 4 Xícaras para Café com Pires Cristal Pérola 80ml Wolff no site da Let's Eat It, com preço promocional e botão Adicionar ao carrinho",
-      "imageCaption": "Página de produto da Let's Eat It: preço, condição do Pix e botão para adicionar ao carrinho.",
-      "imageFit": "portrait"
-    },
-    {
-      "heading": "2. Revise o carrinho e vá para o checkout",
-      "paragraphs": [
-        "Com tudo no carrinho, siga para a finalização da compra. É no checkout, e não no carrinho, que fica o campo do cupom."
+        "O código vale para compras feitas no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). Na página de cada produto aparecem o preço, o desconto do Pix quando houver e o botão \"Adicionar ao carrinho\". No teste, um produto em promoção aceitou o código; confira a linha de desconto para os itens do seu pedido. Com tudo no carrinho, siga para a finalização da compra: é no checkout, e não no carrinho, que fica o campo do cupom."
       ],
       "bullets": [
         "Confira modelo, cor, tamanho e quantidade de cada item — em panela e aparelho de jantar, a versão muda bastante o preço.",
         "Se algum item estiver marcado como pré-venda, leia o prazo de envio informado na página do produto.",
         "No celular, o resumo do pedido pode aparecer recolhido; abra o resumo se não encontrar o campo do cupom."
+      ],
+      "links": [
+        {
+          "label": "Ver a coleção Le Creuset na Let's Eat It",
+          "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a coleção Porto Brasil na Let's Eat It",
+          "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        }
       ]
     },
     {
-      "heading": "3. Digite MAUAD e clique em Aplicar",
+      "heading": "2. Digite MAUAD e clique em Aplicar",
       "paragraphs": [
         "No resumo do pedido há um campo chamado \"Código de desconto\". Digite MAUAD, sem espaços antes ou depois, e clique em \"Aplicar\". Se você copiou o código de outro lugar, confira se não veio um espaço junto."
       ],
@@ -96,7 +83,7 @@
       "imageAspectRatio": 1.6816
     },
     {
-      "heading": "4. Confira o desconto antes de pagar",
+      "heading": "3. Confira o desconto antes de pagar",
       "paragraphs": [
         "Quando o código é aceito, o resumo ganha a linha \"Desconto no pedido\" com o MAUAD e o valor descontado, e o total já aparece recalculado. No nosso teste, o subtotal de R$ 3.582,10 caiu para R$ 3.403,00, com economia de R$ 179,10. O frete aparece como \"Calculado na próxima etapa\".",
         "Se o desconto não aparecer, apague o campo, digite o código de novo e aplique outra vez. Se ainda assim não funcionar, fale com o atendimento da loja e avise pelo contato do Em Casa com Cecília, para revisarmos a informação."
@@ -110,10 +97,10 @@
     {
       "heading": "Quanto o MAUAD economiza na prática",
       "paragraphs": [
-        "Em loja de cozinha, 5% pode parecer pouco num jogo de xícaras e virar dinheiro de verdade numa panela de ferro esmaltado. Para dar uma ideia, separei alguns produtos do catálogo com o preço do site."
+        "Em loja de cozinha, 5% pode parecer pouco num jogo de taças e virar dinheiro de verdade numa panela de ferro esmaltado. Para dar uma ideia, separamos alguns produtos do catálogo com o preço do site."
       ],
       "comparisonTable": {
-        "caption": "Preços no site da Let's Eat It em 02/10/2026. Os valores mudam com campanhas e estoque, e o arredondamento do checkout pode variar alguns centavos.",
+        "caption": "Preços no site da Let's Eat It na leitura de 22/11/2026; a última linha é o carrinho do print do passo 3. Os valores mudam com campanhas e estoque, e o arredondamento do checkout pode variar alguns centavos.",
         "headers": [
           "Produto",
           "Preço no site",
@@ -122,31 +109,31 @@
         ],
         "rows": [
           [
-            "4 xícaras de café Pérola, Wolff",
-            "R$ 62,90",
-            "R$ 3,14",
-            "R$ 59,76"
+            "[Jogo de 6 taças de vinho branco Crex Optic, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "R$ 144,90",
+            "R$ 7,25",
+            "R$ 137,65"
           ],
           [
-            "6 taças Crex Optic, Bohemia",
-            "R$ 169,90",
-            "R$ 8,50",
-            "R$ 161,40"
+            "[Faqueiro Firenze de 24 peças, Wolff](https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "R$ 239,00",
+            "R$ 11,95",
+            "R$ 227,05"
           ],
           [
-            "Aparelho de jantar Bio Oceano (30 peças), Porto Brasil",
-            "R$ 839,00",
-            "R$ 41,95",
-            "R$ 797,05"
+            "[Aparelho de jantar Bio Oceano de 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "R$ 798,00",
+            "R$ 39,90",
+            "R$ 758,10"
           ],
           [
-            "Panela Le Creuset Signature 24 cm",
-            "R$ 2.359,20",
-            "R$ 117,96",
-            "R$ 2.241,24"
+            "[Panela Le Creuset Redonda Signature Camomille de 24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+            "R$ 2.211,75",
+            "R$ 110,59",
+            "R$ 2.101,16"
           ],
           [
-            "Nosso carrinho de teste (passo 4)",
+            "Nosso carrinho de teste (passo 3)",
             "R$ 3.582,10",
             "R$ 179,10",
             "R$ 3.403,00"
@@ -154,7 +141,14 @@
         ]
       },
       "postParagraphs": [
-        "A última linha é o carrinho do print do passo 4: a panela Le Creuset de 34 cm em pré-venda e o jogo de xícaras Wolff. As outras são uma conta simples sobre o preço exibido na vitrine; o frete, calculado pelo CEP, entra depois em todos os casos."
+        "A última linha é o carrinho do print do passo 3: uma panela Le Creuset Signature em pré-venda e o jogo de xícaras Wolff. As outras são uma conta simples sobre o preço exibido na vitrine; o frete, calculado pelo CEP, entra depois em todos os casos."
+      ],
+      "links": [
+        {
+          "label": "Ver o faqueiro Firenze de 24 peças na Let's Eat It",
+          "href": "https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -163,53 +157,57 @@
         "O Pix soma com o cupom; cashback e frete têm condições próprias. Confira o valor final no checkout."
       ],
       "bullets": [
-        "Pix: muitos produtos mostram um preço com 5% de desconto no Pix — o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Esse desconto soma com o MAUAD: pela nossa conta, aplicando um desconto sobre o outro, o jogo sairia por R$ 56,77 no Pix com o cupom, sem o frete.",
-        "Cashback: a cada compra, a loja envia por WhatsApp um cupom de 15% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja.",
-        "Frete: o valor é calculado pelo CEP e pelo peso do pedido, e as condições de gratuidade devem ser conferidas no checkout.",
-        "Cupom de primeira compra: use o MAUAD. Ele dá 5% de desconto no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
-        "Casa Let's: na loja física de São Paulo, as compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi."
+        "Pix: muitos produtos mostram um preço com 5% de desconto no Pix, e o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Esse desconto soma com o MAUAD: pela nossa conta, aplicando um desconto sobre o outro, o jogo sairia por R$ 56,77 no Pix com o cupom, sem o frete.",
+        "Cashback: a loja transforma 15% do total da compra em um cupom enviado por WhatsApp, que vale a partir de 7 dias depois da compra e por 30 dias. A compra mínima para usá-lo é 7 vezes o valor do cupom, sem o frete: um cupom de R$ 150 pede uma compra de R$ 1.050. Só um cupom de cashback fica ativo por vez.",
+        "Frete: o valor é calculado pelo CEP e pelo peso do pedido, e a página de frete não publica frete grátis por valor.",
+        "Cupom de primeira compra: use o MAUAD. Ele dá 5% OFF no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
+        "Casa Let's: na loja física de São Paulo, as compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi, e o MAUAD não vale lá."
       ]
     },
     {
-      "heading": "O que eu observaria antes de comprar",
+      "heading": "O que observar antes de comprar",
       "paragraphs": [
-        "O cupom resolve uma parte da conta. Para a compra sair redonda, eu ainda conferiria:"
+        "O cupom resolve uma parte da conta. Para a compra sair redonda, confira:"
       ],
       "bullets": [
         "O frete e o prazo para o seu CEP: pela política de frete da loja, a entrega leva de 3 a 5 dias úteis na capital paulista e pode chegar a 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
         "O prazo de envio de itens em pré-venda, que é diferente do prazo de produtos a pronta entrega.",
         "Se vale mais a pena pagar no Pix: o MAUAD vale com todas as formas de pagamento, e nos produtos com desconto no Pix os 5% da loja somam com os 5% do cupom. O total da etapa de pagamento é a referência.",
-        "As regras de troca: a Let's Eat It informa 30 dias para devolução a partir do recebimento. Guarde a embalagem até ter certeza de que vai ficar com a peça.",
+        "As regras de troca: a Let's Eat It informa 30 dias para devolução a partir do recebimento. Guarde a embalagem até ter certeza de que vai ficar com a peça, e peça a troca assim que receber.",
         "Ao receber peças frágeis, como cristal e porcelana, abra a caixa com calma e fotografe produto e embalagem se algo chegar danificado — a loja pede essas fotos para fazer a reposição."
       ]
     },
     {
       "heading": "Veredito",
       "paragraphs": [
-        "Usar o MAUAD é simples: no checkout da Let's Eat It, digite o código no campo \"Código de desconto\", clique em Aplicar e confira a linha do desconto antes de pagar. No nosso teste, os 5% entraram até em produto já promocional e em item de pré-venda, o que faz o cupom valer a pena principalmente nas peças de maior valor.",
-        "Se ainda está decidindo se compra na loja, separamos também o que encontramos sobre a empresa e sobre a reputação dela no Reclame Aqui — os links estão logo abaixo."
+        "Usar o MAUAD é simples: no checkout da Let's Eat It, digite o código no campo \"Código de desconto\", clique em Aplicar e confira a linha do desconto antes de pagar. No nosso teste, os 5% entraram até em produto já promocional e em item de pré-venda, e rendem mais nas peças de maior valor."
       ],
       "links": [
         {
           "label": "Abrir a Let's Eat It e usar o MAUAD",
           "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
           "sponsored": true
+        },
+        {
+          "label": "Regras e validade do cupom MAUAD",
+          "href": "/cupons/letseatit"
         }
-      ]
+      ],
+      "emphasis": "O MAUAD vale a pena em qualquer carrinho do site oficial, porque soma com o Pix e com as promoções, e rende de verdade nas peças caras, como as panelas de ferro esmaltado."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Let's Eat It? O cupom da Let's Eat It do Em Casa com Cecília é MAUAD, com 5% de desconto no site oficial (testado no checkout).",
-        "Onde coloco o cupom MAUAD? No checkout, no campo \"Código de desconto\" do resumo do pedido. Depois de digitar, clique em \"Aplicar\".",
+        "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar. As regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+        "Onde coloco o cupom MAUAD? No resumo do pedido do checkout, no campo \"Código de desconto\". Depois de digitar, clique em \"Aplicar\"; no celular, abra o resumo se ele estiver recolhido.",
         "Qual é o cupom de primeira compra da Let's Eat It? Use o MAUAD: ele dá 5% de desconto no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
         "O cupom MAUAD vale para produtos em promoção? No teste, foi aceito num jogo de xícaras com preço promocional e numa panela em pré-venda. Confira a aplicação no resumo do seu pedido.",
         "O cupom MAUAD tem valor mínimo de compra? No teste, o código funcionou num carrinho com um único item de R$ 62,90. Confira a condição no checkout.",
         "O MAUAD dá desconto no frete? O desconto apareceu sobre o subtotal dos produtos. O frete é calculado na etapa seguinte do checkout, pelo CEP e pelo peso do pedido.",
-        "A Let's Eat It tem frete grátis? Em geral, não: o frete é calculado pelo CEP e pelo peso do pedido. A política padrão da loja cita frete grátis acima de R$ 1.000 em Le Creuset e Zwilling; confirme no carrinho.",
+        "A Let's Eat It tem frete grátis? Em geral, não: o frete é calculado pelo CEP e pelo peso do pedido, e a página de frete não publica frete grátis por valor. Confira o valor no carrinho.",
         "Posso usar o cupom MAUAD mais de uma vez? A loja não publica regra de uso por CPF ou por conta. Se houver limite, o checkout informa ao aplicar o código.",
         "O MAUAD se soma ao desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% que a loja dá nos produtos com desconto no Pix. Pela nossa conta, o jogo de xícaras de R$ 62,90 do nosso teste sairia por R$ 56,77, sem o frete.",
-        "Como funciona o cashback da Let's Eat It? A cada compra, a loja envia por WhatsApp um cupom de 15% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja, e a combinação com outros cupons segue as condições dela.",
+        "Como funciona o cashback da Let's Eat It? A loja transforma 15% do total da compra em um cupom enviado por WhatsApp, que vale a partir de 7 dias depois da compra e por 30 dias. A compra mínima para usá-lo é 7 vezes o valor do cupom, sem o frete, e só um cupom de cashback fica ativo por vez.",
         "O cupom não funcionou. O que fazer? Confira se não há espaço antes ou depois do código, aplique de novo e, se o problema continuar, fale com o atendimento da loja e avise o Em Casa com Cecília para revisarmos a informação.",
         "Usar o cupom deixa a compra mais cara? Não. O desconto sai do preço da loja, e a compra pode gerar comissão para o Em Casa com Cecília sem custo adicional para você."
       ]
@@ -226,10 +224,26 @@
   "editorialNote": "Cupom testado no checkout. Podemos receber comissão pelas compras com o MAUAD.",
   "relatedArticles": [
     {
-      "slug": "lets-eat-it-e-confiavel"
+      "slug": "cupom-letseatit-primeira-compra"
     },
     {
-      "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
+      "slug": "lets-eat-it-e-boa"
+    },
+    {
+      "slug": "black-friday-letseatit"
+    },
+    {
+      "slug": "le-creuset-qual-tamanho-escolher"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você vai comprar no site oficial da Let's Eat It e quer 5% a mais sobre promoções, pré-venda e Pix, sem pedido mínimo no nosso teste.",
+      "Você está de olho numa peça cara, como panela de ferro esmaltado ou aparelho de jantar completo, onde 5% vira dinheiro de verdade."
+    ],
+    "skipIf": [
+      "Você vai comprar pelo Mercado Livre ou na Casa Let's: o código vale só no site oficial.",
+      "Você espera desconto no frete: o MAUAD desconta só o subtotal dos produtos."
+    ]
+  }
 }
