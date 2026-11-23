@@ -122737,7 +122737,7 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 531,
     "slug": "black-friday-mais-mu",
-    "title": "Black Friday Mais Mu 2026: Blue Friday com até 50%, qual whey, creatina e barrinha comprar e o cupom MMEMCASACOMCECILIA",
+    "title": "Black Friday Mais Mu 2026: Blue Friday com creatina de brinde, qual whey, creatina e barrinha comprar e o cupom MMEMCASACOMCECILIA",
     "seoTitle": "Black Friday Mais Mu 2026: Blue Friday, brinde e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
