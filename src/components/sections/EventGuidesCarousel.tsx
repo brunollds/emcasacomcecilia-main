@@ -38,6 +38,14 @@ function groupScrollTarget(track: HTMLElement, group: HTMLElement[]): number {
   return center - track.clientWidth / 2;
 }
 
+// Leva o carrossel aos guias da loja da aba; loja sem guia (e a aba da Cecília) deixa o carrossel onde está.
+function centerStoreGuides(track: HTMLElement, tab: string, behavior: ScrollBehavior): void {
+  const group = Array.from(track.children).filter(
+    (item): item is HTMLElement => item instanceof HTMLElement && item.dataset.tab === tab
+  );
+  if (group.length > 0) scrollToReading(track, groupScrollTarget(track, group), behavior);
+}
+
 // O desconto só entra no rótulo quando é um número ("12% OFF"); "Promoções e descontos" ficaria maior que o nome.
 function guideKicker({ name, label, discount }: HomeEventGuide): string {
   return [name, label, discount && /\d/.test(discount) ? discount : undefined].filter(Boolean).join(' · ');
@@ -71,12 +79,21 @@ export function EventGuidesCarousel({
     opened.current = true;
     // A página abre com o carrossel no começo; só quem chega com a loja no endereço (/#loja-damie) já o vê nela.
     if (!track || (opening && selected === defaultTab)) return;
-    const group = Array.from(track.children).filter(
-      (item): item is HTMLElement => item instanceof HTMLElement && item.dataset.tab === selected
-    );
-    if (group.length === 0) return;
-    scrollToReading(track, groupScrollTarget(track, group), opening ? 'auto' : rowScrollBehavior());
+    centerStoreGuides(track, selected, opening ? 'auto' : rowScrollBehavior());
   }, [selected, defaultTab, trackRef]);
+
+  // Tocar de novo na bolinha já aberta não troca a aba, e a vitrine não avisa: quem arrastou o carrossel para longe
+  // volta aos guias da loja com esse toque. O toque que troca a aba fica com o efeito de cima.
+  useEffect(() => {
+    function onClick(event: MouseEvent) {
+      const tab = event.target instanceof Element ? event.target.closest('[role="tab"]') : null;
+      const track = trackRef.current;
+      if (!tab || !track || parseTabHash(`#${tab.id}`, tabSlugs) !== selected) return;
+      centerStoreGuides(track, selected, rowScrollBehavior());
+    }
+    document.addEventListener('click', onClick);
+    return () => document.removeEventListener('click', onClick);
+  }, [selected, tabSlugs, trackRef]);
 
   return (
     <div className="relative">
