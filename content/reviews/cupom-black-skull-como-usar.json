@@ -23,18 +23,8 @@
   "imageAlt": "Pote de Glutamine Turbo da Black Skull em foto oficial, ao lado do código CECILIA10 e da chamada Como usar o cupom.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "10% de desconto em todo o site",
-    "Vale em todas as formas de pagamento",
-    "Soma com as promoções do site",
-    "Vale na primeira compra e nas seguintes, em conta nova ou antiga",
-    "No nosso teste, R$ 36,44 de desconto num subtotal de R$ 364,33"
-  ],
-  "cons": [
-    "Não é cupom de frete grátis: o mínimo muda conforme a região",
-    "O frete grátis conta o valor do carrinho já com o desconto",
-    "A troca comum tem a postagem e o reenvio por conta do cliente"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -46,35 +36,23 @@
       "heading": "O que é o cupom CECILIA10 da Black Skull",
       "paragraphs": [
         "O CECILIA10 dá **10% de desconto em todo o site**, de whey e creatina a pré-treino, glutamina e roupas de treino. É o código da parceria do Em Casa com Cecília com a Black Skull.",
-        "As regras do cupom em 14/10/2026:"
+        "As regras do cupom:"
       ],
       "bullets": [
-        "**Pagamento:** vale em todas as formas de pagamento da loja, inclusive cartão, Pix e boleto.",
+        "**Pagamento:** vale em todas as formas de pagamento da loja.",
         "**Promoções:** soma com as promoções vigentes. Se o produto já está com preço riscado no site, o código ainda dá os 10% sobre o preço promocional.",
-        "**Primeira compra ou não:** vale para quem está criando a conta agora e para quem já comprou antes."
+        "**Primeira compra ou não:** vale para quem está criando a conta agora e para quem já comprou antes.",
+        "**Onde vale:** no site oficial e no app Black Skull USA. No Mercado Livre, o código não vale."
       ],
       "postParagraphs": [
         "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
-      ],
-      "image": {
-        "src": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
-        "alt": "Sacola da Black Skull com o código CECILIA10 digitado no campo Cupom de Desconto e, ao lado, o código aplicado, no nosso teste de 13/10/2026",
-        "caption": "A sacola do nosso teste: o CECILIA10 digitado e, ao lado, já aplicado.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
-    },
-    {
-      "heading": "1. Entre no site oficial da Black Skull",
-      "paragraphs": [
-        "Abra o site oficial, **blackskullusa.com.br**, e escolha os produtos que quer comprar."
       ]
     },
     {
-      "heading": "2. Monte a sacola",
+      "heading": "1. Entre no site oficial e monte a sacola",
       "paragraphs": [
-        "Adicione os produtos que você quer e abra a sacola. É a primeira das quatro etapas da compra: Sacola, Identificação, Entrega e Pagamento. O campo do cupom fica nessa primeira etapa, no quadro à direita, acima do subtotal e do total.",
-        "No nosso teste, a sacola tinha uma regata, um kit de whey, creatina e pré-treino e uma glutamina, num subtotal de R$ 364,33. Dois dos itens já apareciam com o preço antigo riscado, ou seja, em promoção. O quadro do cupom aparece com o título \"Cupom de Desconto\", um campo \"Código\" e o botão \"Adicionar\"."
+        "Abra o site oficial, [blackskullusa.com.br](https://www.blackskullusa.com.br/), escolha os produtos e abra a sacola. É a primeira das quatro etapas da compra: Sacola, Identificação, Entrega e Pagamento. O campo do cupom fica nessa primeira etapa, no quadro à direita, acima do subtotal e do total.",
+        "No nosso primeiro teste, a sacola tinha uma regata, um kit de whey, creatina e pré-treino e uma glutamina, num subtotal de R$ 364,33. Dois dos itens já apareciam com o preço antigo riscado, ou seja, em promoção. O quadro do cupom aparece com o título \"Cupom de Desconto\", um campo \"Código\" e o botão \"Adicionar\"."
       ],
       "image": "/images/reviews/black-skull/black-skull-cupom-01-carrinho-sem-cupom.webp",
       "imageAlt": "Sacola da Black Skull antes do cupom, com itens de preço promocional riscado e, à direita, o campo Cupom de Desconto com o botão Adicionar",
@@ -83,7 +61,7 @@
       "imageAspectRatio": 1.4203
     },
     {
-      "heading": "3. Digite CECILIA10 em \"Cupom de Desconto\" e clique em \"Adicionar\"",
+      "heading": "2. Digite CECILIA10 em \"Cupom de Desconto\" e clique em \"Adicionar\"",
       "paragraphs": [
         "Clique no campo \"Código\", digite **CECILIA10** e clique em \"Adicionar\". No print, com o código digitado e antes do \"Adicionar\", o subtotal e o total ainda são R$ 364,33.",
         "Quando o cupom é aceito, o campo vira uma linha com o nome do código, CECILIA10, e um X ao lado."
@@ -95,27 +73,25 @@
       "imageAspectRatio": 1.494
     },
     {
-      "heading": "4. Confira a linha \"Descontos\" antes de finalizar",
+      "heading": "3. Confira a linha \"Descontos\" antes de finalizar",
       "paragraphs": [
-        "Depois do \"Adicionar\", o quadro à direita passa a mostrar três valores: \"Subtotal\", \"Descontos\" e \"Total\". O desconto do cupom aparece como valor negativo na linha \"Descontos\", e o total já vem abatido. No nosso teste, o subtotal de R$ 364,33 teve R$ 36,44 de desconto e o total ficou em R$ 327,89, os 10% do cupom.",
+        "Depois do \"Adicionar\", o quadro à direita passa a mostrar três valores: \"Subtotal\", \"Descontos\" e \"Total\". O desconto do cupom aparece como valor negativo na linha \"Descontos\", e o total já vem abatido. No print, o subtotal de R$ 364,33 teve R$ 36,44 de desconto e o total ficou em R$ 327,89, os 10% do cupom.",
+        "No teste mais recente, de 22/11/2026, quatro produtos somaram R$ 199,81. O CECILIA10 tirou R$ 19,98 na linha \"Descontos\" e o total ficou em R$ 179,83, também os 10% sobre os preços promocionais do site.",
         "Antes de clicar em \"Finalizar Compra\", confira que a linha \"Descontos\" existe e que o total é o que você espera pagar. Depois, siga para Identificação, Entrega e Pagamento."
       ],
       "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
       "imageAlt": "Quadro da sacola da Black Skull depois do Adicionar, com CECILIA10 aplicado, Descontos de R$ -36,44 e total de R$ 327,89",
       "imageCaption": "Quadro da sacola depois do \"Adicionar\": CECILIA10 aplicado, \"Descontos\" de R$ -36,44 e total de R$ 327,89. O marca-texto amarelo é nosso.",
       "imageFit": "contain",
-      "imageAspectRatio": 0.8481
-    },
-    {
-      "heading": "O cupom vale em produto em promoção?",
-      "paragraphs": [
-        "Sim. O CECILIA10 soma com as promoções do site, e o nosso teste mostrou isso no checkout: a regata aparecia de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47, antes mesmo do código. O cupom tirou 10% do subtotal, que já trazia esses preços: o desconto vem em cima do preço promocional, sem substituí-lo."
+      "imageAspectRatio": 0.8481,
+      "postParagraphs": [
+        "O CECILIA10 soma com as promoções do site: no primeiro teste, a regata aparecia de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47, antes mesmo do código. O cupom tirou 10% do subtotal, que já trazia esses preços: o desconto vem em cima do preço promocional, sem substituí-lo."
       ]
     },
     {
       "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
       "paragraphs": [
-        "O CECILIA10 não é um cupom de frete grátis. O frete grátis da Black Skull vem do valor mínimo do pedido, que muda por região de entrega. A loja informava estes mínimos:"
+        "O CECILIA10 não é um cupom de frete grátis. O frete grátis da Black Skull vem do valor mínimo do pedido, que muda por região de entrega. A loja informa estes mínimos:"
       ],
       "comparisonTable": {
         "caption": "Frete grátis da Black Skull por região de entrega",
@@ -143,16 +119,9 @@
       ]
     },
     {
-      "heading": "O que comprar com o cupom",
-      "paragraphs": [
-        "O CECILIA10 vale em todo o site: na sacola do nosso teste havia whey, creatina e pré-treino (no kit), glutamina e uma regata. A página da loja cita também aminoácidos e roupas de treino.",
-        "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
-      ]
-    },
-    {
       "heading": "Se precisar trocar",
       "paragraphs": [
-        "A troca comum não é gratuita. A política da loja funcionava assim:"
+        "A troca comum não é gratuita. A política da loja funciona assim:"
       ],
       "bullets": [
         "**Arrependimento:** em até 7 dias corridos do recebimento, com a loja pagando a postagem. Não há devolução parcial do pedido.",
@@ -160,20 +129,55 @@
         "**Produto com defeito:** o custo fica com a loja."
       ],
       "postParagraphs": [
-        "Os pedidos de troca e devolução vão para o e-mail sac@blackskullusa.com. Para os detalhes de quem é a marca, site oficial, trocas e frete, veja [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel). Para os números de reclamações e respostas, veja [Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/black-skull-reclame-aqui-nota-reputacao).",
-        "Antes de fechar o pedido, as condições atuais estão na [página do cupom da Black Skull](/cupons/black-skull)."
+        "Os pedidos de troca e devolução vão para o e-mail sac@blackskullusa.com."
+      ]
+    },
+    {
+      "heading": "Qual produto levar com o cupom da Black Skull?",
+      "paragraphs": [
+        "O CECILIA10 vale em todo o site, então a escolha é do produto. Três pontos de partida: o [Whey 80% HD Refil](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p), a [Creator Refil 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) e o [BOPE 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p).",
+        "Para comparar antes de comprar, veja o [guia de whey da Black Skull](/reviews/whey-black-skull-qual-escolher) e o [guia de creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+          "alt": "Refil de Whey 80% HD de 900 g da Black Skull, em foto oficial do produto.",
+          "caption": "Whey 80% HD refil de 900 g. Foto: Black Skull.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p"
+        },
+        {
+          "src": "/images/reviews/black-skull/creatina-black-skull-creator-refil-500g.webp",
+          "alt": "Refil de Creator de 500 g da Black Skull, em foto oficial do produto.",
+          "caption": "Creator refil de 500 g. Foto: Black Skull.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p"
+        }
+      ],
+      "emphasis": "Para usar o CECILIA10 sem complicar, eu montaria a sacola com a Creator Refil 500 g e conferiria a linha \"Descontos\" antes de pagar. Se o frete grátis importa, eu conferiria se o total já com o desconto ainda passa do mínimo da minha região.",
+      "links": [
+        {
+          "label": "Ir para a Black Skull com o CECILIA10",
+          "href": "https://www.blackskullusa.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver regras do cupom Black Skull",
+          "href": "/cupons/black-skull"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Black Skull? O cupom é o CECILIA10, com 10% de desconto em todo o site oficial, digitado no campo \"Cupom de Desconto\" da sacola.",
+        "Qual é o cupom da Black Skull? O cupom da Black Skull da nossa parceria é CECILIA10, com 10% OFF em todo o site oficial, em todas as formas de pagamento, somando com as promoções vigentes. Ele vai no campo \"Cupom de Desconto\" da sacola.",
         "Tem cupom de primeira compra na Black Skull? Sim. O CECILIA10 vale na primeira compra e também para quem já comprou, em conta nova ou antiga.",
         "O cupom da Black Skull vale em produto em promoção? Sim. Os 10% valem também nos itens que já estão com preço promocional, como no nosso teste.",
-        "O cupom vale em todas as formas de pagamento? Sim. O CECILIA10 vale em qualquer forma de pagamento, e a loja oferece cartão em até 8x sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4x sem juros e boleto.",
-        "O cupom da Black Skull dá frete grátis? Não, o CECILIA10 é desconto de 10%. O frete grátis vem do valor mínimo do pedido (R$ 199,90 no Sul e Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões), contado sobre o total já com o desconto.",
-        "Tem cupom para whey e creatina da Black Skull? Sim, o CECILIA10 vale em todo o site, então vale também em whey e creatina.",
-        "O cupom vale no Mercado Livre, na Shopee ou na Amazon? O CECILIA10 é o código do site oficial da Black Skull, o blackskullusa.com.br, onde é digitado no campo \"Cupom de Desconto\" da sacola."
+        "O cupom vale em todas as formas de pagamento? Sim. O CECILIA10 vale em qualquer forma de pagamento da loja, e o parcelamento sem juros segue as regras que aparecem no checkout.",
+        "O cupom da Black Skull dá frete grátis? Não, o CECILIA10 é desconto de 10%. O frete grátis vem do valor mínimo do pedido, que muda por região e é contado sobre o total já com o desconto; as faixas estão na tabela do artigo.",
+        "O cupom vale no Mercado Livre, na Shopee ou na Amazon? Não. O CECILIA10 é o código do site oficial da Black Skull, o blackskullusa.com.br, e do app Black Skull USA."
       ]
     }
   ],
@@ -188,10 +192,24 @@
   "editorialNote": "Cupom testado no checkout oficial da Black Skull. Podemos receber comissão.",
   "relatedArticles": [
     {
-      "slug": "black-skull-e-confiavel"
+      "slug": "whey-black-skull-qual-escolher"
     },
     {
-      "slug": "black-skull-reclame-aqui-nota-reputacao"
+      "slug": "creatina-black-skull-qual-escolher"
+    },
+    {
+      "slug": "black-friday-black-skull"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-22",
+  "decision": {
+    "takeIf": [
+      "Quer 10% de desconto em todo o site oficial, em todas as formas de pagamento e somando com as promoções.",
+      "Já tem whey, creatina ou pré-treino na sacola e quer conferir o desconto na linha \"Descontos\" antes de pagar."
+    ],
+    "skipIf": [
+      "Vai comprar pelo Mercado Livre: o CECILIA10 não vale lá.",
+      "Precisa de frete grátis garantido: o mínimo muda por região e conta o valor já com o desconto."
+    ]
+  }
 }
