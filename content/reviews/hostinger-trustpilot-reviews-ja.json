@@ -119,11 +119,11 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Trustpilot の Hostinger 企業プロフィール上部。評価 4.6、企業が管理するプロフィール、有料契約、顧客へのレビュー依頼の表示",
-          "caption": "Trustpilot の Hostinger プロフィール。画像：Bruno のスクリーンショット。",
+          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+          "alt": "Trustpilot の Hostinger 企業プロフィール上部。評価 4.6、レビュー 74,384 件、2017 年 5 月から企業が管理するプロフィール、有料契約の表示",
+          "caption": "11 月の Trustpilot の Hostinger プロフィール。",
           "objectFit": "contain",
-          "aspectRatio": 3.7969
+          "aspectRatio": 4.8988
         }
       ]
     },
