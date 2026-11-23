@@ -1248,7 +1248,7 @@ const STORE_COUPONS: Coupon[] = [
     shortDescription: "todo o site Let's Eat It",
     longDescription:
       'O cupom Let\'s Eat It MAUAD dá 5% OFF no site, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções, a pré-venda e os 5% do Pix, e vale em todas as formas de pagamento. Testado no carrinho.',
-    metaTitle: "Cupom Let's Eat It: 5% OFF com MAUAD, soma com Pix",
+    metaTitle: "Cupom Let's Eat It: 5% OFF com MAUAD + Pix",
     metaTitleMonth: true,
     metaDescription:
       'Cupom Let\'s Eat It: MAUAD dá 5% OFF no site oficial para cliente novo ou antigo, somando com promoções, pré-venda e os 5% do Pix.',
@@ -1259,16 +1259,77 @@ const STORE_COUPONS: Coupon[] = [
     combinable:
       'Soma com as promoções vigentes do site, inclusive em pré-venda, e com o desconto de 5% do Pix; vale com todas as formas de pagamento; a soma com outros cupons segue as regras da loja',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Soma com as promoções do site, inclusive em pré-venda' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Soma com as promoções do site, inclusive o Outlet e a pré-venda' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com os 5% de desconto do Pix que muitos produtos têm' },
     ],
-    lastVerified: '2026-11-18',
+    lastVerified: '2026-11-22',
     testedAt: '2026-11-18',
     testNote:
       'Num jogo de 6 bowls de cerâmica Scalla em promoção, de R$ 610,00 por R$ 366,00, o MAUAD tirou R$ 18,30 e o total caiu para R$ 347,70. Numa caneca Le Creuset de 100 ml sem promoção, de R$ 129,00, o desconto foi de R$ 6,45, e o total ficou em R$ 122,55: os 5% entraram com e sem promoção. Em 12/11/2026, os 5% já tinham entrado num bowl de porcelana da Black November, de R$ 171,50 por R$ 102,90. Em 11/11/2026, num pote de cerâmica Le Creuset em promoção, de R$ 519,00 por R$ 363,30, o total caiu para R$ 345,14. No teste de 02/10/2026, ele já tinha valido num carrinho com um item em pré-venda.',
     aboutBrand:
       "A Let's Eat It é uma loja online brasileira de casa e presentes, com curadoria de marcas como Le Creuset, KitchenAid, Porto Brasil e Bohemia Crystal. O catálogo cobre mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos — itens que conversam com a rotina de quem cozinha e recebe em casa. O cupom MAUAD, com o sobrenome da Cecília, entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.",
+    relatedContent: [
+      {
+        title: "Como usar o cupom MAUAD na Let's Eat It",
+        url: '/reviews/cupom-mauad-lets-eat-it-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-03',
+      },
+      {
+        title: "Black Friday Let's Eat It: o que comprar",
+        url: '/reviews/black-friday-letseatit',
+        type: 'review',
+        publishedAt: '2026-10-09',
+      },
+      {
+        title: "Let's Eat It é boa? O que a loja vende",
+        url: '/reviews/lets-eat-it-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-04',
+      },
+      {
+        title: 'Le Creuset vale a pena?',
+        url: '/reviews/le-creuset-vale-a-pena',
+        type: 'review',
+        publishedAt: '2026-10-12',
+      },
+      {
+        title: 'Le Creuset 20 ou 24 cm: qual tamanho escolher',
+        url: '/reviews/le-creuset-qual-tamanho-escolher',
+        type: 'review',
+        publishedAt: '2026-10-26',
+      },
+      {
+        title: 'Porto Brasil é boa?',
+        url: '/reviews/porto-brasil-e-boa',
+        type: 'review',
+        publishedAt: '2026-10-12',
+      },
+      {
+        title: 'Mesa posta de Natal: o que precisa e quanto custa',
+        url: '/reviews/mesa-posta-natal-o-que-precisa-quanto-custa',
+        type: 'review',
+        publishedAt: '2026-10-20',
+      },
+      {
+        title: "Casa Let's: a loja física da Let's Eat It",
+        url: '/reviews/lets-eat-it-loja-fisica-endereco',
+        type: 'review',
+        publishedAt: '2026-11-21',
+      },
+      {
+        title: "Let's Eat It no Reclame Aqui",
+        url: '/reviews/lets-eat-it-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-03',
+      },
+    ],
     faqs: [
+      {
+        question: "Qual é o cupom da Let's Eat It?",
+        answer:
+          "O cupom da Let's Eat It do Em Casa com Cecília é MAUAD, com 5% OFF em todo o site oficial, válido em todas as formas de pagamento e cumulativo com promoções e Pix.",
+      },
       {
         question: "O cupom MAUAD vale para todos os produtos da Let's Eat It?",
         answer:

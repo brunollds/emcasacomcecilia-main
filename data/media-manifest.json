@@ -200011,6 +200011,386 @@
       "verified_at": "2026-11-23T00:09:16.600Z",
       "verification_etag_or_digest": "a498b043be0ac765b9676704105ff3726bd976e0369105d69abb6610942af42f",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/le-creuset-cacarola-buffet-sage-30cm.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-cacarola-buffet-sage-30cm.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15500,
+      "sha256": "ced1f4768fa879bf7923078be2cf82e58453aea646135966181b2e6f825e501c",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-cacarola-buffet-sage-30cm.webp",
+      "storage_filename": "le-creuset-cacarola-buffet-sage-30cm.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-qual-tamanho-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-qual-tamanho-escolher.json",
+          "line": 269,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-cacarola-buffet-sage-30cm.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ced1f4768fa879bf7923078be2cf82e58453aea646135966181b2e6f825e501c/le-creuset-cacarola-buffet-sage-30cm.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ced1f4768fa879bf7923078be2cf82e58453aea646135966181b2e6f825e501c/le-creuset-cacarola-buffet-sage-30cm.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.791Z",
+      "verification_etag_or_digest": "ced1f4768fa879bf7923078be2cf82e58453aea646135966181b2e6f825e501c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/le-creuset-camomille-colecao-mesa.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-camomille-colecao-mesa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89468,
+      "sha256": "9f58af7b722d4dbdeb1fc081d8dba682e71478a122bcda14f4772af33843ab89",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-camomille-colecao-mesa.webp",
+      "storage_filename": "le-creuset-camomille-colecao-mesa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mauad-lets-eat-it-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mauad-lets-eat-it-como-usar.json",
+          "line": 75,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-camomille-colecao-mesa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9f58af7b722d4dbdeb1fc081d8dba682e71478a122bcda14f4772af33843ab89/le-creuset-camomille-colecao-mesa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f58af7b722d4dbdeb1fc081d8dba682e71478a122bcda14f4772af33843ab89/le-creuset-camomille-colecao-mesa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.792Z",
+      "verification_etag_or_digest": "9f58af7b722d4dbdeb1fc081d8dba682e71478a122bcda14f4772af33843ab89",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/le-creuset-redonda-azure-20cm-mesa.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-redonda-azure-20cm-mesa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40086,
+      "sha256": "f4464d70415b5f69eb8d588d1d6d2adcc3f6e6b25accd1fd0520fa056ca200e5",
+      "width": 605,
+      "height": 605,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-redonda-azure-20cm-mesa.webp",
+      "storage_filename": "le-creuset-redonda-azure-20cm-mesa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-original-como-saber.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-original-como-saber.json",
+          "line": 187,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-redonda-azure-20cm-mesa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f4464d70415b5f69eb8d588d1d6d2adcc3f6e6b25accd1fd0520fa056ca200e5/le-creuset-redonda-azure-20cm-mesa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4464d70415b5f69eb8d588d1d6d2adcc3f6e6b25accd1fd0520fa056ca200e5/le-creuset-redonda-azure-20cm-mesa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.792Z",
+      "verification_etag_or_digest": "f4464d70415b5f69eb8d588d1d6d2adcc3f6e6b25accd1fd0520fa056ca200e5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/le-creuset-redonda-signature-azure-20cm.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-redonda-signature-azure-20cm.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33674,
+      "sha256": "95e218f0765ec98d388e6c62751948c5881f20617cc1934850f427809fd20954",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-redonda-signature-azure-20cm.webp",
+      "storage_filename": "le-creuset-redonda-signature-azure-20cm.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-qual-tamanho-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-qual-tamanho-escolher.json",
+          "line": 142,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-redonda-signature-azure-20cm.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/95e218f0765ec98d388e6c62751948c5881f20617cc1934850f427809fd20954/le-creuset-redonda-signature-azure-20cm.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/95e218f0765ec98d388e6c62751948c5881f20617cc1934850f427809fd20954/le-creuset-redonda-signature-azure-20cm.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.792Z",
+      "verification_etag_or_digest": "95e218f0765ec98d388e6c62751948c5881f20617cc1934850f427809fd20954",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/le-creuset-redonda-signature-camomille-24cm.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-redonda-signature-camomille-24cm.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10510,
+      "sha256": "e09329e09b1d3de3c48840e558e8cc7bc904c14ed100a4f9cba64d4409cf2bf1",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-redonda-signature-camomille-24cm.webp",
+      "storage_filename": "le-creuset-redonda-signature-camomille-24cm.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-qual-tamanho-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-qual-tamanho-escolher.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-redonda-signature-camomille-24cm.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e09329e09b1d3de3c48840e558e8cc7bc904c14ed100a4f9cba64d4409cf2bf1/le-creuset-redonda-signature-camomille-24cm.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e09329e09b1d3de3c48840e558e8cc7bc904c14ed100a4f9cba64d4409cf2bf1/le-creuset-redonda-signature-camomille-24cm.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.792Z",
+      "verification_etag_or_digest": "e09329e09b1d3de3c48840e558e8cc7bc904c14ed100a4f9cba64d4409cf2bf1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/le-creuset-travessa-heritage-mist-grey-32cm.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-travessa-heritage-mist-grey-32cm.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9410,
+      "sha256": "10f5ac3640dc0bc1ae162f20696d9e689b64d715c35bf6d895031de0131bcc70",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-travessa-heritage-mist-grey-32cm.webp",
+      "storage_filename": "le-creuset-travessa-heritage-mist-grey-32cm.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-e-boa.json",
+          "line": 58,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-travessa-heritage-mist-grey-32cm.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/10f5ac3640dc0bc1ae162f20696d9e689b64d715c35bf6d895031de0131bcc70/le-creuset-travessa-heritage-mist-grey-32cm.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/10f5ac3640dc0bc1ae162f20696d9e689b64d715c35bf6d895031de0131bcc70/le-creuset-travessa-heritage-mist-grey-32cm.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.792Z",
+      "verification_etag_or_digest": "10f5ac3640dc0bc1ae162f20696d9e689b64d715c35bf6d895031de0131bcc70",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/porto-brasil-aparelho-bio-latte-30-pecas.webp",
+      "local_url": "/images/reviews/letseatit/porto-brasil-aparelho-bio-latte-30-pecas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82700,
+      "sha256": "b30a103d36b0e7a4838e648545d35db6904ffde35c93ec5f53f958765b3afea4",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "porto-brasil-aparelho-bio-latte-30-pecas.webp",
+      "storage_filename": "porto-brasil-aparelho-bio-latte-30-pecas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/porto-brasil-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/porto-brasil-e-boa.json",
+          "line": 168,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/porto-brasil-aparelho-bio-latte-30-pecas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b30a103d36b0e7a4838e648545d35db6904ffde35c93ec5f53f958765b3afea4/porto-brasil-aparelho-bio-latte-30-pecas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b30a103d36b0e7a4838e648545d35db6904ffde35c93ec5f53f958765b3afea4/porto-brasil-aparelho-bio-latte-30-pecas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.792Z",
+      "verification_etag_or_digest": "b30a103d36b0e7a4838e648545d35db6904ffde35c93ec5f53f958765b3afea4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-base-esfera-azul-sphere-450ml.webp",
+      "local_url": "/images/reviews/letseatit/taca-base-esfera-azul-sphere-450ml.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75906,
+      "sha256": "62a9dafc0b457c6aac600a283ed12d79522361ef72c576772297f97b98250b81",
+      "width": 1024,
+      "height": 1024,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-base-esfera-azul-sphere-450ml.webp",
+      "storage_filename": "taca-base-esfera-azul-sphere-450ml.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 56,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-base-esfera-azul-sphere-450ml.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/62a9dafc0b457c6aac600a283ed12d79522361ef72c576772297f97b98250b81/taca-base-esfera-azul-sphere-450ml.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/62a9dafc0b457c6aac600a283ed12d79522361ef72c576772297f97b98250b81/taca-base-esfera-azul-sphere-450ml.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.792Z",
+      "verification_etag_or_digest": "62a9dafc0b457c6aac600a283ed12d79522361ef72c576772297f97b98250b81",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/taca-champagne-base-esfera-verde-sphere-250ml.webp",
+      "local_url": "/images/reviews/letseatit/taca-champagne-base-esfera-verde-sphere-250ml.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39890,
+      "sha256": "b0c39c6cab3e8c24ac35021ed0a094862b4aaf4927eaffb0236a9d5fe8770371",
+      "width": 1024,
+      "height": 1024,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "taca-champagne-base-esfera-verde-sphere-250ml.webp",
+      "storage_filename": "taca-champagne-base-esfera-verde-sphere-250ml.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/taca-base-esfera-e-tacas-coloridas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/taca-base-esfera-e-tacas-coloridas.json",
+          "line": 64,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/taca-champagne-base-esfera-verde-sphere-250ml.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b0c39c6cab3e8c24ac35021ed0a094862b4aaf4927eaffb0236a9d5fe8770371/taca-champagne-base-esfera-verde-sphere-250ml.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b0c39c6cab3e8c24ac35021ed0a094862b4aaf4927eaffb0236a9d5fe8770371/taca-champagne-base-esfera-verde-sphere-250ml.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.792Z",
+      "verification_etag_or_digest": "b0c39c6cab3e8c24ac35021ed0a094862b4aaf4927eaffb0236a9d5fe8770371",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/tacas-tresor-incolor-515ml.webp",
+      "local_url": "/images/reviews/letseatit/tacas-tresor-incolor-515ml.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70020,
+      "sha256": "1bc34fc1dce28b0a7f8b23855b998905cfbc92a39511eaf729744a4a36ca6c75",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tacas-tresor-incolor-515ml.webp",
+      "storage_filename": "tacas-tresor-incolor-515ml.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-reclame-aqui-nota-reputacao.json",
+          "line": 225,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/tacas-tresor-incolor-515ml.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1bc34fc1dce28b0a7f8b23855b998905cfbc92a39511eaf729744a4a36ca6c75/tacas-tresor-incolor-515ml.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1bc34fc1dce28b0a7f8b23855b998905cfbc92a39511eaf729744a4a36ca6c75/tacas-tresor-incolor-515ml.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:00:51.792Z",
+      "verification_etag_or_digest": "1bc34fc1dce28b0a7f8b23855b998905cfbc92a39511eaf729744a4a36ca6c75",
+      "verification_status": "verified"
     }
   ]
 }

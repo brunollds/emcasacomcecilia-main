@@ -51455,7 +51455,7 @@ export const reviewsData: unknown[] = [
     "id": 319,
     "slug": "lets-eat-it-e-confiavel",
     "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar",
-    "seoTitle": "Let's Eat It é confiável? O que checamos antes de comprar",
+    "seoTitle": "Let's Eat It é confiável? CNPJ, Le Creuset e políticas",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -51466,44 +51466,30 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Let's Eat It é confiável? Empresa ativa, presença no localizador da Le Creuset, política de troca de 30 dias e o ponto de atenção no pós-venda, com fontes públicas.",
+    "description": "A Let's Eat It é confiável? Empresa ativa, presença no localizador da Le Creuset, troca em 30 dias e o ponto de atenção no pós-venda, com fontes públicas.",
     "metaDescription": "O cupom MAUAD dá 5% OFF no site da Let's Eat It. A loja é confiável? CNPJ, Le Creuset, troca em 30 dias, frete, Reclame Aqui e a Casa Let's em São Paulo.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/lets-eat-it-e-confiavel-capa-v2.webp",
     "imageAlt": "Chaleira azul Azure da Le Creuset em cenário de cozinha, em foto oficial fornecida pela Let's Eat It.",
     "imageFit": "contain",
-    "pros": [
-      "Empresa com CNPJ ativo desde 2020, matriz no Rio de Janeiro e filiais em São Paulo, no Espírito Santo e em Santa Catarina",
-      "Aparece no localizador de lojas oficial da Le Creuset Brasil",
-      "Política de 30 dias para devolução, com etiqueta de envio enviada pela loja e reembolso integral",
-      "Reposição gratuita de produto danificado no transporte, mediante fotos",
-      "Reputação Boa no Reclame Aqui, com 99,1% das reclamações respondidas de abril a setembro",
-      "Loja física em São Paulo, a Casa Let's, com 15% de desconto nas compras presenciais (exceto Le Creuset e Trussardi)"
-    ],
-    "cons": [
-      "No recorte de abril a setembro, só 54% de quem avaliou a reclamação no Reclame Aqui disseram que voltariam a comprar",
-      "Tempo médio de resposta de cerca de 16 dias no recorte de abril a setembro",
-      "\"Produto não recebido\" é o problema mais citado nas reclamações",
-      "O site mantém, além da política oficial, um texto genérico de reembolso com regras diferentes",
-      "Há informações diferentes sobre frete grátis nas páginas da loja; confirme a condição para o seu pedido e CEP.",
-      "Não é possível retirar na Casa Let's um pedido feito no site"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com ressalva no pós-venda: a Let's Eat It é empresa identificada, com showroom em São Paulo e presença no localizador da Le Creuset. A reputação no Reclame Aqui era Boa de abril a setembro, mas a resposta demorava cerca de 16 dias; confira devolução e frete, porque os textos da loja divergem. No site, o MAUAD dá 5% OFF."
+          "Sim, com ressalva no pós-venda: a Let's Eat It é empresa identificada, com showroom em São Paulo e presença no localizador da Le Creuset Brasil. A reputação no Reclame Aqui é Boa, mas a resposta leva cerca de 19 dias. O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF no site oficial."
         ]
       },
       {
         "heading": "Por que olhar antes de comprar",
         "paragraphs": [
-          "A Let's Eat It vende exatamente o tipo de coisa que eu gosto de ter na cozinha: panela de ferro esmaltado, aparelho de jantar, taças, xícaras de cristal. É também o tipo de compra em que a gente pensa duas vezes antes de passar o cartão numa loja que ainda não conhece — uma panela Le Creuset passa de R$ 2 mil.",
-          "Como a loja passou a ser parceira do Em Casa com Cecília, vale mostrar o que pesa na confiança: quem é a empresa, se as marcas reconhecem a loja, o que as políticas prometem e o que dizem os clientes. A parceria não muda nada disso — os dados abaixo são públicos e estão com as fontes."
+          "A Let's Eat It vende panela de ferro esmaltado, aparelho de jantar, taças e xícaras de cristal, o tipo de compra em que vale conhecer a loja antes de passar o cartão: uma panela Le Creuset passa de R$ 2 mil.",
+          "A parceria com o Em Casa com Cecília não muda o que pesa na confiança: quem é a empresa, se as marcas reconhecem a loja, o que as políticas prometem e o que dizem os clientes. Os dados abaixo são públicos e estão com as fontes."
         ]
       },
       {
@@ -51512,7 +51498,7 @@ export const reviewsData: unknown[] = [
           "A matriz da Let's Eat It tem o CNPJ 37.882.316/0001-64, o mesmo que aparece no perfil da loja no Reclame Aqui. Nos dados públicos desse CNPJ, constam a matriz e três filiais, todas com situação ativa:"
         ],
         "comparisonTable": {
-          "caption": "Dados públicos de CNPJ, 02/10/2026.",
+          "caption": "Dados públicos de CNPJ, consulta de outubro de 2026.",
           "headers": [
             "Unidade",
             "CNPJ",
@@ -51556,10 +51542,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A Le Creuset reconhece a loja?",
+        "heading": "Le Creuset: a Let's Eat It no localizador oficial",
         "paragraphs": [
-          "Esse foi o dado que mais me tranquilizou. O site oficial da Le Creuset Brasil tem um localizador de lojas, e a Let's Eat It aparece lá, com endereço na Avenida Setecentos, em Serra (ES) — o mesmo endereço da filial capixaba registrada no CNPJ.",
-          "Num catálogo em que a marca mais cara é justamente a Le Creuset, isso pesa. O limite do que dá para afirmar: não encontrei listas equivalentes publicadas pelas outras marcas do catálogo, como Porto Brasil ou Bohemia. Isso não quer dizer que não haja relação comercial com elas, só que não consegui confirmar por uma fonte da própria marca."
+          "O site oficial da Le Creuset Brasil tem um localizador de lojas, e a Let's Eat It aparece lá, com endereço na Avenida Setecentos, em Serra (ES), o mesmo da filial capixaba registrada no CNPJ. Num catálogo em que a marca mais cara é a Le Creuset, isso pesa.",
+          "O limite do que dá para afirmar: as outras marcas do catálogo, como Porto Brasil e Bohemia, não publicam lista equivalente, então a presença no localizador vale só para a Le Creuset. Isso não indica ausência de relação comercial com elas, só que não há fonte da própria marca. A linha Le Creuset da loja está na [coleção Le Creuset](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
         ],
         "image": "/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp",
         "imageAlt": "Página do localizador de lojas da Le Creuset Brasil mostrando Let's Eat It na Avenida Setecentos, Quadra 17, Galpão 1, 2, 3 e 4, Sala 26, Serra, ES, 29161-414",
@@ -51569,6 +51555,11 @@ export const reviewsData: unknown[] = [
           {
             "label": "Ver a Let's Eat It no localizador da Le Creuset →",
             "href": "https://www.lecreuset.com.br/on/demandware.store/Sites-LeCreuset_BR-Site/pt_BR/Stores-Detail?sid=BR-36019"
+          },
+          {
+            "label": "Ver a coleção Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ],
         "imageAspectRatio": 1.6
@@ -51577,13 +51568,20 @@ export const reviewsData: unknown[] = [
         "heading": "Marcas, linhas e preços da Let's Eat It",
         "paragraphs": [
           "A Let's Eat It é uma loja multimarcas de casa, mesa posta e presentes, e não fabricante. O site organiza o catálogo por marcas e por linhas, e entre as marcas em destaque estão Trussardi, Le Creuset, St. James, Porto Brasil, Wolff, Zwilling e Artevino. No catálogo aparecem também cristais Bohemia, utensílios KitchenAid e eletroportáteis Ariete.",
-          "Para ter uma ideia de faixa de preço, no dia da consulta: a panela Le Creuset Redonda Signature de 24 cm saía por R$ 2.359,20, o aparelho de jantar Bio Oceano de 30 peças da Porto Brasil por R$ 839,00, o jogo de 6 taças Crex Optic da Bohemia por R$ 169,90 e o jogo de 4 xícaras de cristal Pérola da Wolff, em promoção, por R$ 62,90. Os preços mudam com campanhas e estoque."
+          "Para ter uma ideia de faixa de preço, na leitura de 22/11: a [panela Le Creuset Redonda Signature Camomille de 24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) saía por R$ 2.211,75, com 25% de desconto sobre o preço de tabela; o [aparelho de jantar Bio Oceano de 30 peças da Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), em pré-venda, por R$ 798,00; e o [jogo de 6 taças de vinho branco Crex Optic da Bohemia](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 144,90. Os preços mudam com campanhas e estoque."
         ],
         "image": "/images/reviews/letseatit/lets-eat-it-marcas-linhas.webp",
         "imageAlt": "Logos de marcas em destaque na Let's Eat It: Trussardi, Le Creuset, St. James, Porto Brasil, Wolff, Zwilling e Artevino",
         "imageCaption": "Algumas das marcas em destaque no site da Let's Eat It.",
         "imageFit": "contain",
-        "imageAspectRatio": 3.2813
+        "imageAspectRatio": 3.2813,
+        "links": [
+          {
+            "label": "Ver a coleção Porto Brasil na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Trocas, devoluções e reembolso",
@@ -51605,12 +51603,12 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Topo da política de reembolso e trocas da Let's Eat It.",
         "imageFit": "square",
         "postParagraphs": [
-          "Um cuidado: o site também mantém, num endereço padrão da plataforma da loja, um texto genérico de reembolso com regras diferentes — por exemplo, dizendo que itens em promoção não podem ser devolvidos. Considerei como vigente a página dedicada, que é a mais recente e a mais detalhada. Se alguma regra for decisiva para a sua compra, peça a confirmação ao atendimento por escrito antes de fechar o pedido."
+          "O site também mantém, num endereço padrão da plataforma da loja, um texto genérico de reembolso com regras diferentes, por exemplo dizendo que itens em promoção não podem ser devolvidos. Vale a página dedicada, que é a mais detalhada. Se alguma regra for decisiva para a sua compra, peça a confirmação ao atendimento por escrito antes de fechar o pedido; o portal de trocas fala em 7 dias para o pedido, então peça assim que receber."
         ],
         "links": [
           {
             "label": "Política de reembolso e trocas da Let's Eat It →",
-            "href": "https://letseatit.com.br/pages/politica-de-reembolso"
+            "href": "https://letseatit.com.br/pages/politica-de-reembolso?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -51627,12 +51625,12 @@ export const reviewsData: unknown[] = [
           "Norte e Nordeste: 7 a 12 dias úteis."
         ],
         "postParagraphs": [
-          "O frete é calculado pelo CEP e pelo peso do pedido, e dá para simular na página do produto. A página dedicada de frete não anuncia faixa de gratuidade, mas a política padrão menciona frete grátis para Le Creuset e Zwilling em pedidos acima de R$ 1.000 em produtos dessas marcas. Como as páginas diferem, confirme o benefício no carrinho. Os prazos podem mudar em períodos promocionais. Se uma peça chegar danificada, a loja informa reposição sem custo mediante fotos do produto e da embalagem, pelo WhatsApp (11) 96570-0375 ou suporte@letseatit.com.br. Avise assim que perceber o dano."
+          "O frete é calculado pelo CEP e pelo peso do pedido, e dá para simular na página do produto; a página de frete não publica faixa de frete grátis por valor. Os prazos podem mudar em períodos promocionais. Se uma peça chegar danificada, a loja informa reposição sem custo mediante fotos do produto e da embalagem, pelo WhatsApp (11) 96570-0375 ou suporte@letseatit.com.br. Avise assim que perceber o dano."
         ],
         "links": [
           {
             "label": "Política de frete da Let's Eat It →",
-            "href": "https://letseatit.com.br/pages/politica-de-frete"
+            "href": "https://letseatit.com.br/pages/politica-de-frete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -51647,13 +51645,19 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Fachada da Casa Let's, a loja física da Let's Eat It na Avenida Pacaembu, em São Paulo, com o aviso de 15% de desconto nas compras presenciais",
         "imageCaption": "A Casa Let's na página oficial da loja.",
         "imageFit": "contain",
-        "imageAspectRatio": 1.3161
+        "imageAspectRatio": 1.3161,
+        "links": [
+          {
+            "label": "Ver a página da Casa Let's →",
+            "href": "https://letseatit.com.br/pages/casa-lets?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ]
       },
       {
-        "heading": "E a reputação no Reclame Aqui?",
+        "heading": "Reputação no Reclame Aqui",
         "paragraphs": [
-          "No recorte de abril a setembro, a Let's Eat It tinha reputação Boa no Reclame Aqui, com nota 7,6/10 e 99,1% das reclamações respondidas. Entre as 50 avaliadas, 94% foram marcadas como resolvidas e 54% dos avaliadores disseram que voltariam a comprar; a nota média do consumidor era 5,6. O tempo médio de resposta era de 16 dias e 7 horas.",
-          "O resultado de solução era alto entre quem avaliou, mas vinha acompanhado de satisfação menor e resposta demorada. Detalhei o recorte, os temas das reclamações e o que fazer se o pedido der problema num artigo separado."
+          "Na aba de seis meses, a Let's Eat It tem reputação Boa no Reclame Aqui, com nota 7,7/10 e 98% das 101 reclamações respondidas. Entre as 49 avaliadas, 95,9% foram marcadas como resolvidas e 59,2% dos avaliadores disseram que voltariam a comprar; a nota média do consumidor é 5,63. O tempo médio de resposta é de 19 dias e 11 horas.",
+          "O índice de solução é alto entre quem avaliou, mas vem com satisfação menor e resposta demorada. O recorte, os temas das reclamações e o caminho se o pedido der problema estão em artigo separado."
         ],
         "links": [
           {
@@ -51663,7 +51667,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que eu observaria antes de comprar",
+        "heading": "O que observar antes de comprar",
         "bullets": [
           "Compre pelo site oficial, letseatit.com.br, e confira o endereço antes de digitar seus dados.",
           "Em peças de alto valor, guarde a nota fiscal e confira o produto assim que receber.",
@@ -51676,20 +51680,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It. Com o cupom MAUAD, você tem 5% de desconto no site, e podemos receber comissão pelas compras feitas com o código ou pelo nosso link, sem custo extra para você."
+          "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It. O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF no site oficial, em todas as formas de pagamento: você digita o código no campo \"Código de desconto\" do checkout e confere a linha do desconto antes de pagar. Podemos receber comissão pelo código ou pelo nosso link, sem custo extra para você."
         ],
         "links": [
           {
             "label": "Ver o cupom MAUAD da Let's Eat It",
             "href": "/cupons/letseatit"
+          },
+          {
+            "label": "Como usar o cupom MAUAD, passo a passo",
+            "href": "/reviews/cupom-mauad-lets-eat-it-como-usar"
           }
         ]
       },
       {
         "heading": "Veredito",
         "paragraphs": [
-          "A Let's Eat It é uma loja confiável, com ressalva no pós-venda: empresa identificada, presença no localizador da Le Creuset Brasil e política dedicada de devolução de 30 dias. Eu conferiria as condições antes de fechar o pedido, porque o site também mantém textos diferentes sobre devolução e frete.",
-          "O cuidado principal é com a expectativa de pós-venda: os dados do Reclame Aqui mostram boa resposta e solução entre quem avaliou, mas satisfação menor e espera pelo atendimento. Guarde nota fiscal, confirmação do pedido e fotos de eventual avaria para documentar o contato com a loja."
+          "A Let's Eat It é loja confiável, com ressalva no pós-venda: empresa identificada, presença no localizador da Le Creuset Brasil e política dedicada de devolução de 30 dias. Confira as condições antes de fechar o pedido, porque o site também mantém textos diferentes sobre devolução.",
+          "Os dados do Reclame Aqui mostram boa resposta e solução entre quem avaliou, mas satisfação menor e espera pelo atendimento. Guarde nota fiscal, confirmação do pedido e fotos de eventual avaria para documentar o contato com a loja."
         ],
         "links": [
           {
@@ -51697,22 +51705,23 @@ export const reviewsData: unknown[] = [
             "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "A Let's Eat It é confiável para comprar no site oficial, desde que você guarde a nota fiscal, confira a peça ao receber e conte com um atendimento que não é rápido."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Let's Eat It é confiável? Sim, com ressalva no pós-venda. A empresa tem CNPJ ativo desde 2020, filiais em três estados e presença no localizador oficial da Le Creuset Brasil. No recorte de abril a setembro, a reputação no Reclame Aqui era Boa, com ressalvas sobre satisfação e tempo de resposta.",
+          "A Let's Eat It é confiável? Sim, com ressalva no pós-venda. A empresa tem CNPJ ativo desde 2020, filiais em três estados e presença no localizador oficial da Le Creuset Brasil. A reputação no Reclame Aqui é Boa, com ressalvas sobre satisfação e tempo de resposta.",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "A Let's Eat It é uma loja de verdade? Sim. Tem CNPJ ativo, matriz no Rio de Janeiro, filiais em São Paulo, Serra (ES) e Itajaí (SC) e um showroom em São Paulo, a Casa Let's.",
           "Qual é o CNPJ da Let's Eat It? O CNPJ da matriz é 37.882.316/0001-64, no Rio de Janeiro, com situação ativa nos dados públicos. A loja também tem filiais registradas em São Paulo, Serra (ES) e Itajaí (SC).",
           "A Let's Eat It vende Le Creuset original? A Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, o que indica que a marca a reconhece como ponto de venda. Guarde a nota fiscal da compra.",
           "A Let's Eat It tem loja física? Sim, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h. As compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi.",
           "Dá para retirar o pedido na Casa Let's? Não. Segundo a política de frete, os pedidos feitos no site são sempre enviados para o endereço informado na compra.",
           "Quanto tempo demora a entrega da Let's Eat It? De 3 a 5 dias úteis na capital paulista até 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
-          "A Let's Eat It tem frete grátis? As páginas da loja diferem: a política padrão menciona Le Creuset e Zwilling acima de R$ 1.000 em produtos dessas marcas; a página dedicada calcula o frete por CEP e não repete essa condição. Confira o frete no carrinho antes de pagar. O envio na devolução também é gratuito, com a etiqueta enviada pela loja.",
+          "A Let's Eat It tem frete grátis? A página de frete não publica frete grátis por valor: o frete é calculado no carrinho pelo CEP e pelo peso. O envio na devolução é gratuito, com a etiqueta enviada pela loja.",
           "Como trocar ou devolver um produto da Let's Eat It? A loja aceita devolução em até 30 dias após o recebimento, envia a etiqueta de envio e devolve o valor integral ou em crédito na loja. O contato é pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br.",
-          "O que acontece se o produto chegar quebrado? A loja informa reposição gratuita da peça, mediante fotos do produto e da embalagem enviadas ao atendimento.",
-          "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."
+          "O que acontece se o produto chegar quebrado? A loja informa reposição gratuita da peça, mediante fotos do produto e da embalagem enviadas ao atendimento."
         ]
       }
     ],
@@ -51739,7 +51748,7 @@ export const reviewsData: unknown[] = [
     "id": 320,
     "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
     "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram",
-    "seoTitle": "Let's Eat It no Reclame Aqui: nota, reclamações e pós-venda",
+    "seoTitle": "Let's Eat It no Reclame Aqui: nota 7,7 e reclamações",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -51750,42 +51759,30 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Let's Eat It no Reclame Aqui de abril a setembro: reputação Boa, 99,1% das reclamações respondidas, 94% resolvidas, e só 54% voltariam a comprar.",
-    "metaDescription": "Let's Eat It no Reclame Aqui, com o cupom MAUAD de 5% OFF: reputação Boa, nota 7,6, 99,1% respondidas e 94% resolvidas, e o que fazer se der problema.",
+    "description": "A nota da Let's Eat It no Reclame Aqui em cinco janelas, o que ela mede, os pontos positivos, o motivo mais citado de reclamação e como falar com a loja.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Veja a reputação Boa e a nota 7,7 no Reclame Aqui, o que mais gera reclamação e como falar com a loja.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/lets-eat-it-reclame-aqui-nota-reputacao-capa-v2.webp",
     "imageAlt": "Taça Palm Tree com desenho de folhas em uma mesa posta, em foto de catálogo da Let's Eat It, ao lado da chamada Let's Eat It no Reclame Aqui e do apoio Entrega e atendimento.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "99,1% das reclamações de abril a setembro foram respondidas; só 1 aguardava resposta",
-      "94% das 50 reclamações avaliadas de abril a setembro foram marcadas como resolvidas pelos consumidores",
-      "Reputação Boa em todos os meses de abril a setembro",
-      "13ª colocada no ranking de melhores empresas da categoria lojas de decoração do Reclame Aqui",
-      "Perfil ativo no Reclame Aqui há 6 anos, com CNPJ e telefone informados"
-    ],
-    "cons": [
-      "Só 54% dos consumidores que avaliaram dizem que voltariam a fazer negócio",
-      "A nota média dada pelos consumidores é 5,6, bem abaixo da nota geral de 7,6",
-      "Tempo médio de resposta de 16 dias e 7 horas no período",
-      "\"Produto não recebido\" é o problema mais citado no histórico de até 3 anos",
-      "Há reclamações com alegação de produto falsificado, que são relatos de consumidores e não foram comprovadas"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com uma ressalva: a Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. No site, o código MAUAD dá 5%; o [cupom Let's Eat It](/cupons/letseatit) traz as regras."
+          "No Reclame Aqui, a Let's Eat It tem reputação Boa, nota 7,7 nos últimos seis meses, com 98% das 101 reclamações respondidas e 95,9% resolvidas entre as avaliadas. O ponto de atenção é produto não recebido, o motivo mais citado, e só 59,2% voltariam a comprar. O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF no site oficial."
         ]
       },
       {
-        "heading": "Por que olhar o Reclame Aqui antes de comprar panela e cristal",
+        "heading": "A nota e os indicadores de cada período",
         "paragraphs": [
-          "Uma panela de ferro esmaltado ou um aparelho de jantar completo não é compra de impulso, e cristal e porcelana viajam mal quando a embalagem não ajuda. Por isso, antes de começar a indicar a Let's Eat It por aqui, fui ver como ela se comporta quando algo dá errado. O Reclame Aqui não mostra se uma loja é perfeita — nenhuma é —, mas mostra o padrão dos problemas e se a empresa aparece para resolver."
+          "Cada coluna da tabela vem da aba de mesmo nome no perfil da Let's Eat It, que mostra seis meses, 12 meses, os anos de 2025 e 2024 e a aba Geral, com todo o histórico. A de seis meses é a mais recente e a que sustenta a reputação exibida no topo do perfil. Nela, 2 reclamações aguardavam resposta, e é por isso que o índice de respondidas aparece como 98%."
         ],
         "image": {
           "src": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
@@ -51793,60 +51790,86 @@ export const reviewsData: unknown[] = [
           "caption": "Perfil da Let's Eat It no Reclame Aqui.",
           "objectFit": "contain",
           "aspectRatio": 1.777
-        }
-      },
-      {
-        "heading": "Os números da Let's Eat It no Reclame Aqui",
-        "paragraphs": [
-          "Estes são os indicadores do perfil da Let's Eat It na aba de 6 meses, que é a janela usada para a reputação exibida no topo da página (dados até 30/09/2026):"
-        ],
+        },
         "comparisonTable": {
-          "caption": "Perfil da Let's Eat It no Reclame Aqui, aba de 6 meses.",
+          "caption": "Indicadores da Let's Eat It no Reclame Aqui por aba de período, lidos em 22/11/2026. Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
           "headers": [
             "Indicador",
-            "Resultado",
-            "De onde sai o número"
+            "6 meses",
+            "12 meses",
+            "2025",
+            "2024",
+            "Geral"
           ],
           "rows": [
             [
               "Reputação",
-              "Boa — nota 7,6/10",
-              "Combinação dos quatro índices abaixo, com pesos definidos pelo Reclame Aqui"
+              "Boa, 7,7",
+              "Boa, 7,6",
+              "Boa, 7,5",
+              "Regular, 6,8",
+              "Boa, 7,1"
             ],
             [
               "Reclamações recebidas",
-              "115",
-              "Todas as reclamações abertas no período"
+              "101",
+              "557",
+              "443",
+              "553",
+              "1.649"
             ],
             [
-              "Reclamações respondidas",
-              "99,1% (1 aguardando)",
-              "Reclamações com resposta pública da empresa"
+              "Respondidas",
+              "98%",
+              "99,3%",
+              "99,5%",
+              "100%",
+              "99%"
             ],
             [
-              "Reclamações resolvidas",
-              "94%",
-              "Entre as 50 avaliadas, as que o consumidor marcou como resolvidas"
+              "Avaliadas",
+              "49",
+              "287",
+              "242",
+              "308",
+              "890"
             ],
             [
-              "Voltariam a fazer negócio",
-              "54%",
-              "Entre as 50 avaliadas, quem disse que compraria de novo"
+              "Índice de solução, nas avaliadas",
+              "95,9%",
+              "93%",
+              "90,1%",
+              "81,8%",
+              "86,3%"
+            ],
+            [
+              "Voltariam a fazer negócio, nas avaliadas",
+              "59,2%",
+              "54,7%",
+              "56,2%",
+              "43,8%",
+              "49,1%"
             ],
             [
               "Nota média do consumidor",
-              "5,6",
-              "Média das notas de 0 a 10 dadas nas 50 avaliações"
+              "5,63",
+              "5,67",
+              "5,74",
+              "4,82",
+              "5,1"
             ],
             [
               "Tempo médio de resposta",
-              "16 dias e 7 horas",
-              "Tempo médio que a empresa levou para responder no período"
+              "19 dias e 11 horas",
+              "17 dias e 15 horas",
+              "12 dias",
+              "3 dias e 11 horas",
+              "11 dias e 14 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "A nota 7,6 bate com a fórmula pública do Reclame Aqui, que dá mais peso à solução e à nota do consumidor. É uma janela móvel: os números mudam quando novas reclamações entram e antigas saem, então abra o perfil no dia da compra."
+          "As 101 reclamações dos seis meses são um número absoluto: sem o total de pedidos da loja no mesmo período, ele não vira taxa de problemas, e não dá para dizer se é muito ou pouco para o tamanho da operação. Os índices de solução e de quem voltaria a comprar valem para as 49 reclamações avaliadas, e uma base dessa ordem muda bastante com poucos casos. É uma janela móvel, então abra o perfil no dia da compra."
         ],
         "links": [
           {
@@ -51857,126 +51880,112 @@ export const reviewsData: unknown[] = [
             "label": "Como o Reclame Aqui calcula a reputação →",
             "href": "https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui"
           }
-        ],
-        "image": "/images/reviews/letseatit/reclame-aqui-reputacao-6-meses-2026-09.webp",
-        "imageAlt": "Painel do Reclame Aqui da Let's Eat It nos últimos 6 meses: reputação Boa, nota 7,6/10, 115 reclamações, 99,1% respondidas, 94% resolvidas, 54% voltariam a fazer negócio e nota do consumidor 5,6, com dados de 01/04/2026 a 30/09/2026",
-        "imageCaption": "Painel de reputação da aba de 6 meses.",
-        "imageFit": "portrait",
-        "imageAspectRatio": 0.4928
-      },
-      {
-        "heading": "O lado forte no período: quase todas respondidas e 94% das avaliadas resolvidas",
-        "paragraphs": [
-          "O dado que mais pesa a favor da Let's Eat It é a constância. Quase nada ficou sem resposta no período, e quem marca o caso como resolvido é o próprio cliente, não a empresa.",
-          "A reputação ficou em Boa em todos os meses de abril a setembro, e não só num bom mês. A loja também aparece em 13º lugar no ranking de melhores empresas da categoria lojas de decoração e está no Reclame Aqui há 6 anos, com CNPJ e telefone de contato no perfil.",
-          "Esses números ajudam a avaliar o pós-venda: no recorte de abril a setembro, quase todas as reclamações tiveram resposta e a maioria das avaliadas foi marcada como resolvida. Não são uma previsão para cada pedido novo."
         ]
       },
       {
-        "heading": "O lado que pede atenção: resolvido nem sempre é satisfeito",
+        "heading": "O que a nota e o selo medem (e não medem)",
         "paragraphs": [
-          "Os três índices de satisfação vêm das mesmas 50 avaliações. Pelos percentuais do quadro, foram 47 casos marcados como resolvidos e 27 consumidores que disseram que voltariam a comprar. Resolver o caso e querer comprar de novo são respostas diferentes; a nota média dada nas 50 avaliações foi 5,6.",
-          "Os números não dizem o motivo, mas os relatos recentes dão pistas. Aparecem pedidos com item faltando, peças que chegaram quebradas e pedidos de estorno que demoraram a cair. A minha leitura, e é uma hipótese, não um dado: em parte desses casos, o cliente queria o produto e recebeu o reembolso no lugar, ou recebeu a solução depois de muita espera. O próprio tempo médio de resposta, de 16 dias e 7 horas, é longo para quem está esperando uma encomenda.",
-          "Isso não muda a leitura de que a loja resolve a maioria das avaliadas, mas muda a expectativa: se algo der errado, o tempo médio de resposta foi de cerca de 16 dias no período."
+          "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade de uma panela ou de uma taça e muda conforme novas reclamações entram e são avaliadas. A [metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui) explica o cálculo.",
+          "Há duas notas diferentes no perfil. A de 7,7 é a reputação da empresa, calculada pela plataforma com os indicadores da tabela. A de 5,63 é a média das notas que os próprios consumidores deram ao atendimento depois de encerrar a reclamação.",
+          "A faixa Boa é a segunda mais alta do Reclame Aqui, abaixo do RA1000. O perfil da Let's Eat It aparece como Verificada, uma checagem de que a empresa existe, e a reputação foi Boa de maio a outubro. Os dois descrevem o atendimento às reclamações, e não a qualidade do que a loja vende."
         ]
       },
       {
-        "heading": "O que mais aparece nas reclamações",
+        "heading": "Pontos positivos",
         "paragraphs": [
-          "O próprio Reclame Aqui resume os temas mais citados, considerando as reclamações de até 3 anos registradas na aba geral:"
+          "Estes são os sinais favoráveis que o perfil mostrava na consulta:"
         ],
         "bullets": [
-          "Produto não recebido: 39,38% das reclamações classificadas por problema. É o tema que mais pesa, e combina com os relatos recentes de pedidos que chegaram incompletos.",
-          "Utilidades domésticas: 56,68% das reclamações classificadas por categoria.",
-          "Taças: 20,11% das reclamações classificadas por produto. Cristal é frágil, e entre os relatos recentes há peças que chegaram quebradas."
-        ],
-        "image": "/images/reviews/letseatit/reclame-aqui-principais-problemas-v2.webp",
-        "imageAlt": "Quadro Principais problemas comentados da Let's Eat It no Reclame Aqui: Utilidades domésticas 56,68%, Produto não recebido 39,38% e Taças 20,11%",
-        "imageCaption": "Principais problemas comentados no perfil da Let's Eat It, com reclamações de até 3 anos.",
-        "imageFit": "square"
-      },
-      {
-        "heading": "E as reclamações sobre produto falsificado?",
-        "paragraphs": [
-          "Procurando no perfil, aparecem algumas reclamações com títulos como \"produtos falsificados\" ou \"produto falso\", incluindo uma antiga sobre peças de marcas conhecidas, que ficou marcada como não resolvida. São alegações de consumidores: não encontrei nenhuma decisão ou apuração oficial que confirme falsificação, e também não consigo descartá-la só pelos relatos.",
-          "O que encontrei a favor da loja é que a Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, a marca de panelas mais cara do catálogo. Detalhei isso, junto com CNPJ e políticas, no artigo sobre se a loja é confiável. Para quem vai comprar uma peça de alto valor, a orientação é a mesma de qualquer loja: guarde a nota fiscal e confira a peça assim que receber."
-        ],
-        "links": [
-          {
-            "label": "Let's Eat It é confiável? CNPJ, Le Creuset e políticas",
-            "href": "/reviews/lets-eat-it-e-confiavel"
-          }
+          "**Respostas.** Nos seis meses, 98% das 101 reclamações tiveram resposta, e nas abas de 12 meses, 2025 e 2024 o índice fica entre 99,3% e 100%.",
+          "**Reputação.** A faixa é Boa nos seis meses, nos 12 meses, em 2025 e na aba Geral, com nota de 7,1 a 7,7. Só 2024 aparece como Regular, com 6,8.",
+          "**Solução, nas avaliadas.** Entre as 49 reclamações avaliadas nos seis meses, 95,9% foram consideradas resolvidas, acima dos 81,8% de 2024.",
+          "**Tendência.** A nota subiu de 6,8 em 2024 para 7,5 em 2025 e 7,7 nos últimos seis meses.",
+          "**Empresa verificada e tempo de casa.** O perfil tem o selo de empresa verificada, mostra o CNPJ 37.882.316/0001-64 e está no Reclame Aqui há 6 anos.",
+          "**Ranking.** A loja aparece em 11º lugar no ranking de Lojas de Decoração do Reclame Aqui, um retrato do dia da consulta, e não uma medida de qualidade dos produtos."
         ]
       },
       {
-        "heading": "O que a loja promete quando algo dá errado",
+        "heading": "Pontos de atenção e principais queixas",
         "paragraphs": [
-          "Ajuda comparar as reclamações com o que a própria Let's Eat It publica nas políticas de frete e de trocas:"
+          "Os motivos saem da aba Geral, que reúne até três anos e 1.649 reclamações, e não dos seis meses da tabela. Nela, a categoria Utilidades domésticas responde por 55,01% das reclamações, o problema \"Produto não recebido\" por 38,8% e o produto \"Taças\" por 19,91%. São três classificações diferentes, e não um mesmo ranking. Cristal é frágil, e as reclamações recentes mencionam pedido não recebido ou sem estorno, cancelamento, pré-venda sem data e dificuldade com o prazo de 7 dias do portal de devolução.",
+          "Alguns cuidados na leitura dos números:"
         ],
         "bullets": [
-          "Produto danificado no transporte: reposição gratuita, mediante contato pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br com fotos do produto e da embalagem.",
+          "Resolver o caso e querer comprar de novo são respostas diferentes. Dos 49 avaliados nos seis meses, cerca de 47 marcaram o caso como resolvido, mas só cerca de 29 voltariam a comprar, e a nota média que deram foi 5,63.",
+          "A resposta leva em média 19 dias e 11 horas nos seis meses, mais que os 12 dias de 2025 e os 3 dias e 11 horas de 2024. É um tempo longo para quem espera uma encomenda.",
+          "Os motivos da aba Geral, de até três anos, não se misturam com os indicadores dos seis meses."
+        ]
+      },
+      {
+        "heading": "Alegações de produto falsificado e o localizador da Le Creuset",
+        "paragraphs": [
+          "No perfil aparecem reclamações com títulos como \"produtos falsificados\" ou \"produto falso\", incluindo uma antiga sobre peças de marcas conhecidas, marcada como não resolvida. São alegações de consumidores: não há decisão nem apuração oficial que confirme falsificação, e os relatos sozinhos também não permitem descartá-la.",
+          "Um dado separado é que a Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, a marca de panelas mais cara do catálogo. O CNPJ, as políticas e esse dado estão em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel). Em peça de alto valor, guarde a nota fiscal e confira a peça assim que receber."
+        ]
+      },
+      {
+        "heading": "Como a loja responde e o que conferir antes de comprar",
+        "paragraphs": [
+          "O perfil do Reclame Aqui é o da empresa, e não de cada produto. Ele se chama Lets Eat It e mostra o CNPJ 37.882.316/0001-64, o mesmo das páginas da loja. Se algo der errado com o pedido, o caminho começa nos canais da própria loja: WhatsApp (11) 96570-0375 e e-mail suporte@letseatit.com.br, de segunda a sexta, das 9h às 18h. A loja informa:"
+        ],
+        "bullets": [
+          "Produto danificado no transporte: reposição gratuita, com fotos do produto e da embalagem.",
           "Devolução: 30 dias a partir do recebimento, com reembolso integral no meio de pagamento original ou crédito na loja, e etiqueta de envio enviada pela loja.",
-          "Prazo do reembolso, depois da aprovação: até 3 dias úteis no Pix, 5 a 10 dias úteis no cartão e 7 a 15 dias úteis no boleto.",
+          "Prazo do reembolso, depois da aprovação: até 3 dias úteis no Pix, na próxima fatura no cartão e 7 a 15 dias úteis no boleto.",
           "Defeito de fabricação: até 90 dias, como prevê o Código de Defesa do Consumidor."
         ],
         "postParagraphs": [
-          "Repare que a política prevê tanto reposição quanto reembolso. Se você faz questão do produto, deixe isso claro desde o primeiro contato."
+          "Ao receber o pedido, fotografe a caixa antes de abrir, depois a peça e a etiqueta, e guarde a nota fiscal e a confirmação do pedido. Para pedir troca, envie ao atendimento o número do pedido, as fotos da caixa e da peça e a nota. O portal de devolução fala em 7 dias para o pedido, então peça assim que receber. Diga desde o primeiro contato se prefere reposição, troca ou reembolso; se o reembolso foi aprovado, acompanhe o prazo do seu meio de pagamento antes de cobrar de novo."
         ],
         "links": [
           {
             "label": "Política de frete da Let's Eat It →",
-            "href": "https://letseatit.com.br/pages/politica-de-frete"
+            "href": "https://letseatit.com.br/pages/politica-de-frete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           },
           {
             "label": "Política de reembolso e trocas da Let's Eat It →",
-            "href": "https://letseatit.com.br/pages/politica-de-reembolso"
+            "href": "https://letseatit.com.br/pages/politica-de-reembolso?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
       {
-        "heading": "Se o seu pedido der problema: o que fazer",
+        "heading": "Vale a pena comprar na Let's Eat It?",
+        "emphasis": "Pelo Reclame Aqui, dá para comprar no site oficial da Let's Eat It, com a atenção voltada à entrega e à espera pelo atendimento: guarde o número do pedido, fotografe a caixa ao abrir e peça a troca assim que receber.",
         "paragraphs": [
-          "Com base no padrão das reclamações, este é o caminho que eu seguiria:"
-        ],
-        "bullets": [
-          "Abra a caixa com calma e, se algo estiver quebrado ou faltando, fotografe o produto, a embalagem e a etiqueta antes de descartar qualquer coisa.",
-          "Fale primeiro com o atendimento da loja, de segunda a sexta, das 9h às 18h, pelo WhatsApp ou pelo e-mail de suporte, e anote o número do pedido e a data do contato.",
-          "Diga com clareza o que você quer — reposição, troca ou reembolso. Se preferir receber a peça, peça isso por escrito.",
-          "Se o reembolso foi aprovado, acompanhe o prazo do seu meio de pagamento antes de cobrar de novo.",
-          "Se não houver retorno, registre a reclamação no Reclame Aqui e, se precisar, no consumidor.gov.br ou no Procon da sua cidade."
-        ]
-      },
-      {
-        "heading": "Parceria e cupom",
-        "paragraphs": [
-          "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It: os 5% de desconto vêm do cupom MAUAD, que você digita no checkout e confere no resumo do pedido. Podemos receber comissão pelo código e pelo nosso link, sem custo extra para você. A parceria não muda os números deste artigo, que vêm do perfil público da loja no Reclame Aqui."
+          "Pelo Reclame Aqui, a loja responde a quase todas as reclamações, tem reputação Boa em quatro das cinco janelas e solução de 95,9% entre as avaliadas nos seis meses. Os pontos de atenção são produto não recebido, o motivo mais citado, e a resposta em torno de 19 dias, com só 59,2% dos avaliadores dispostos a comprar de novo. Para presente com data marcada, confira o prazo de entrega no CEP antes de fechar.",
+          "Se decidir comprar, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF no site oficial, em todas as formas de pagamento, digitado no campo \"Código de desconto\" do checkout. O Em Casa com Cecília tem parceria com a loja e pode receber comissão pelo código e pelo link, sem custo extra para você; os números deste artigo vêm do perfil público no Reclame Aqui. O passo a passo está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
         ],
         "links": [
+          {
+            "label": "Ir para a Let's Eat It",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
           {
             "label": "Cupom MAUAD: regras e validade",
             "href": "/cupons/letseatit"
           }
-        ]
-      },
-      {
-        "heading": "Dá para confiar na Let's Eat It?",
-        "paragraphs": [
-          "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, e os 99,1% de respostas e os 94% de solução entre as avaliadas são sinais favoráveis do pós-venda.",
-          "A ressalva está na satisfação: 54% dos avaliadores voltariam a fazer negócio, e a nota média deles era 5,6. Com tempo médio de resposta de 16 dias e 7 horas, eu olharia o perfil atualizado e os relatos recentes antes de decidir, sobretudo para uma compra com data marcada."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/tacas-tresor-incolor-515ml.webp",
+            "alt": "Taça Trésor incolor de 515 ml com drinque de laranja",
+            "caption": "Taça Trésor 515 ml, incolor, da Linha Sintonia. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-gioia-vidro-incolor-linha-sintonia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A loja Let's Eat It é confiável segundo o Reclame Aqui? Sim, com uma ressalva. A reputação é Boa, com nota 7,6 de 10 no recorte de abril a setembro, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio. Confira o perfil atual antes da compra.",
-          "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, no recorte de abril a setembro. A nota média dada pelos consumidores nas 50 avaliações é 5,6.",
-          "A Let's Eat It responde às reclamações? Sim: 99,1% das 115 reclamações do recorte de abril a setembro tinham resposta; só uma aguardava retorno. Esse índice muda com o tempo.",
-          "Por que 94% foram resolvidas, mas só 54% voltariam a comprar? Os dois índices vêm das mesmas 50 avaliações e medem coisas diferentes: se o problema foi resolvido e se o consumidor compraria de novo. Os percentuais, sozinhos, não mostram os motivos.",
-          "Quanto tempo a Let's Eat It demora para responder no Reclame Aqui? A média foi de 16 dias e 7 horas no recorte de abril a setembro. Isso não é um prazo prometido para um novo chamado.",
-          "O que mais gera reclamação na Let's Eat It? Produto não recebido é o problema mais citado no histórico de até 3 anos, com 39,38% das reclamações classificadas por problema; taças aparecem com 20,11% por produto. São classificações diferentes, não um mesmo ranking.",
-          "A Let's Eat It vende produto falsificado? Há reclamações com essa alegação, mas são relatos de consumidores sem confirmação oficial. A loja aparece no localizador oficial da Le Creuset Brasil.",
-          "Como reclamar da Let's Eat It? Comece pelo atendimento da loja, no WhatsApp (11) 96570-0375 ou no e-mail suporte@letseatit.com.br, de segunda a sexta, das 9h às 18h. Sem retorno, registre a reclamação no Reclame Aqui ou no consumidor.gov.br.",
-          "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."
+          "Qual a nota da Let's Eat It no Reclame Aqui? Na aba de seis meses, a reputação é Boa, com nota 7,7. Nos 12 meses é Boa, com 7,6. A média que os consumidores deram ao atendimento nos seis meses é 5,63.",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "A Let's Eat It tem selo no Reclame Aqui? O perfil aparece como Verificada e com reputação Boa. O Boa é a faixa abaixo do RA1000, a máxima, e descreve o atendimento às reclamações, e não a qualidade dos produtos.",
+          "A Let's Eat It responde e resolve as reclamações? Nos seis meses, respondeu 98% das 101 reclamações, em média em 19 dias e 11 horas. Entre as 49 avaliadas, 95,9% foram consideradas resolvidas, e 59,2% voltariam a fazer negócio.",
+          "O que fazer se o pedido da Let's Eat It não chegou? Fale com a loja pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br, com o número do pedido à mão. Produto não recebido é o motivo mais citado na aba Geral, com 38,8%.",
+          "A Let's Eat It vende produto falsificado? Há reclamações com essa alegação, mas são relatos de consumidores sem confirmação oficial. A loja aparece no localizador oficial da Le Creuset Brasil."
         ]
       }
     ],
@@ -51988,15 +51997,19 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "letseatit",
-    "editorialNote": "Dados públicos do Reclame Aqui, que mudam com o tempo. Podemos receber comissão pelo MAUAD.",
+    "editorialNote": "Feito com os dados públicos do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
         "slug": "lets-eat-it-e-confiavel"
       },
       {
         "slug": "cupom-mauad-lets-eat-it-como-usar"
+      },
+      {
+        "slug": "lets-eat-it-e-boa"
       }
-    ]
+    ],
+    "bodyDatesReason": "reclame-aqui"
   },
   {
     "id": 321,
@@ -52017,36 +52030,29 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código MAUAD dá 5% OFF na Let's Eat It, testado no checkout, inclusive em promoção. Veja o passo a passo, o Pix, o cashback, o frete e a 1ª compra.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
-    "updatedAt": "2026-11-12",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/cupom-mauad-lets-eat-it-como-usar-capa-v2.webp",
     "imageAlt": "Xícara de vidro Pérola Wolff com pires, em foto oficial fornecida pela Let's Eat It, ao lado da chamada Como usar o desconto.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "5% de desconto sobre o subtotal dos produtos no site oficial da Let's Eat It",
-      "Vale com todas as formas de pagamento e soma com o desconto de 5% do Pix",
-      "No nosso teste, o cupom foi aceito em item de pré-venda e em produto que já estava com preço promocional",
-      "Funcionou também num pedido com um único item de R$ 62,90",
-      "O desconto aparece no resumo do pedido antes do pagamento, como \"Desconto no pedido · MAUAD\""
-    ],
-    "cons": [
-      "O frete é calculado à parte, na etapa seguinte do checkout",
-      "A loja não publica regra sobre uso repetido por CPF ou soma com outros cupons"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
-        "heading": "Resposta rápida: como usar o cupom MAUAD",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Let's Eat It](/cupons/letseatit) é o MAUAD e dá 5% de desconto sobre o subtotal dos produtos no site oficial. Você digita o código no campo \"Código de desconto\" do checkout e confere a linha do desconto no resumo antes de pagar. O frete entra depois, calculado pelo CEP; veja abaixo o teste e a economia."
+          "O [cupom Let's Eat It](/cupons/letseatit) é o MAUAD e dá 5% OFF sobre o subtotal dos produtos no site oficial, em todas as formas de pagamento. Digite o código no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar. O frete entra na etapa seguinte, calculado pelo CEP."
         ]
       },
       {
-        "heading": "Introdução",
+        "heading": "O que o nosso teste confirmou",
         "paragraphs": [
-          "A Let's Eat It reúne panelas de ferro esmaltado, aparelhos de jantar, taças, xícaras e peças de mesa posta. O código da parceria é MAUAD e dá 5% de desconto no site da loja.",
-          "Antes de escrever este guia, testamos o cupom no checkout da Let's Eat It em 2 de outubro de 2026. Os prints abaixo são desse teste, e o que não confirmamos está dito com todas as letras. O resumo, com regras e validade, fica na página de cupons."
+          "A Let's Eat It reúne panelas de ferro esmaltado, aparelhos de jantar, taças, xícaras e peças de mesa posta. Antes de escrever este guia, testamos o código no checkout da loja em 2 de outubro de 2026, e os prints abaixo são desse teste; o que não confirmamos está dito com todas as letras.",
+          "Montamos um carrinho com dois itens bem diferentes de propósito: uma panela Le Creuset em pré-venda e um jogo de xícaras de cristal da Wolff que já estava com preço promocional no site. O MAUAD foi aceito e descontou 5% do subtotal inteiro — R$ 179,10 sobre R$ 3.582,10.",
+          "Depois repetimos o teste com um único item, o jogo de xícaras de R$ 62,90, e o cupom também funcionou. Ou seja: pelo menos nessa faixa de valor, não esbarramos em pedido mínimo, e o fato de o produto já estar em promoção não bloqueou o desconto.",
+          "O MAUAD vale com todas as formas de pagamento e soma com o desconto que a loja dá no Pix. O que não conseguimos confirmar, porque a loja não publica uma política específica do cupom: se existe limite de uso por CPF ou por conta e se ele se soma a outro cupom. Nesses casos, vale o que o checkout mostrar."
         ],
         "links": [
           {
@@ -52056,36 +52062,40 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que o nosso teste confirmou",
+        "heading": "1. Escolha os produtos e revise o carrinho",
         "paragraphs": [
-          "Montamos um carrinho com dois itens bem diferentes de propósito: uma panela Le Creuset em pré-venda e um jogo de xícaras de cristal da Wolff que já estava com preço promocional no site. O MAUAD foi aceito e descontou 5% do subtotal inteiro — R$ 179,10 sobre R$ 3.582,10.",
-          "Depois repetimos o teste com um único item, o jogo de xícaras de R$ 62,90, e o cupom também funcionou. Ou seja: pelo menos nessa faixa de valor, não esbarramos em pedido mínimo, e o fato de o produto já estar em promoção não bloqueou o desconto.",
-          "O MAUAD vale com todas as formas de pagamento e soma com o desconto que a loja dá no Pix. O que não conseguimos confirmar, porque a loja não publica uma política específica do cupom: se existe limite de uso por CPF ou por conta e se ele se soma a outro cupom. Nesses casos, vale o que o checkout mostrar."
-        ]
-      },
-      {
-        "heading": "1. Escolha os produtos no site oficial",
-        "paragraphs": [
-          "O cupom vale para compras feitas no site da Let's Eat It. Na página de cada produto aparecem o preço, o desconto do Pix quando houver e o botão “Adicionar ao carrinho”. No teste, um produto em promoção aceitou o código; confira a linha de desconto para os itens do seu pedido."
-        ],
-        "image": "/images/reviews/letseatit/passo-1-produto-loja-v2.webp",
-        "imageAlt": "Página do Jogo 4 Xícaras para Café com Pires Cristal Pérola 80ml Wolff no site da Let's Eat It, com preço promocional e botão Adicionar ao carrinho",
-        "imageCaption": "Página de produto da Let's Eat It: preço, condição do Pix e botão para adicionar ao carrinho.",
-        "imageFit": "portrait"
-      },
-      {
-        "heading": "2. Revise o carrinho e vá para o checkout",
-        "paragraphs": [
-          "Com tudo no carrinho, siga para a finalização da compra. É no checkout, e não no carrinho, que fica o campo do cupom."
+          "O código vale para compras feitas no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). Na página de cada produto aparecem o preço, o desconto do Pix quando houver e o botão \"Adicionar ao carrinho\". No teste, um produto em promoção aceitou o código; confira a linha de desconto para os itens do seu pedido. Com tudo no carrinho, siga para a finalização da compra: é no checkout, e não no carrinho, que fica o campo do cupom."
         ],
         "bullets": [
           "Confira modelo, cor, tamanho e quantidade de cada item — em panela e aparelho de jantar, a versão muda bastante o preço.",
           "Se algum item estiver marcado como pré-venda, leia o prazo de envio informado na página do produto.",
           "No celular, o resumo do pedido pode aparecer recolhido; abra o resumo se não encontrar o campo do cupom."
+        ],
+        "links": [
+          {
+            "label": "Ver a coleção Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a coleção Porto Brasil na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-camomille-colecao-mesa.webp",
+            "alt": "Panelas Le Creuset Camomille de vários tamanhos sobre uma mesa ao ar livre",
+            "caption": "Linha Le Creuset Camomille. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
         ]
       },
       {
-        "heading": "3. Digite MAUAD e clique em Aplicar",
+        "heading": "2. Digite MAUAD e clique em Aplicar",
         "paragraphs": [
           "No resumo do pedido há um campo chamado \"Código de desconto\". Digite MAUAD, sem espaços antes ou depois, e clique em \"Aplicar\". Se você copiou o código de outro lugar, confira se não veio um espaço junto."
         ],
@@ -52096,7 +52106,7 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.6816
       },
       {
-        "heading": "4. Confira o desconto antes de pagar",
+        "heading": "3. Confira o desconto antes de pagar",
         "paragraphs": [
           "Quando o código é aceito, o resumo ganha a linha \"Desconto no pedido\" com o MAUAD e o valor descontado, e o total já aparece recalculado. No nosso teste, o subtotal de R$ 3.582,10 caiu para R$ 3.403,00, com economia de R$ 179,10. O frete aparece como \"Calculado na próxima etapa\".",
           "Se o desconto não aparecer, apague o campo, digite o código de novo e aplique outra vez. Se ainda assim não funcionar, fale com o atendimento da loja e avise pelo contato do Em Casa com Cecília, para revisarmos a informação."
@@ -52110,10 +52120,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o MAUAD economiza na prática",
         "paragraphs": [
-          "Em loja de cozinha, 5% pode parecer pouco num jogo de xícaras e virar dinheiro de verdade numa panela de ferro esmaltado. Para dar uma ideia, separei alguns produtos do catálogo com o preço do site."
+          "Em loja de cozinha, 5% pode parecer pouco num jogo de taças e virar dinheiro de verdade numa panela de ferro esmaltado. Para dar uma ideia, separamos alguns produtos do catálogo com o preço do site."
         ],
         "comparisonTable": {
-          "caption": "Preços no site da Let's Eat It em 02/10/2026. Os valores mudam com campanhas e estoque, e o arredondamento do checkout pode variar alguns centavos.",
+          "caption": "Preços no site da Let's Eat It na leitura de 22/11/2026; a última linha é o carrinho do print do passo 3. Os valores mudam com campanhas e estoque, e o arredondamento do checkout pode variar alguns centavos.",
           "headers": [
             "Produto",
             "Preço no site",
@@ -52122,31 +52132,31 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "4 xícaras de café Pérola, Wolff",
-              "R$ 62,90",
-              "R$ 3,14",
-              "R$ 59,76"
+              "[Jogo de 6 taças de vinho branco Crex Optic, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 144,90",
+              "R$ 7,25",
+              "R$ 137,65"
             ],
             [
-              "6 taças Crex Optic, Bohemia",
-              "R$ 169,90",
-              "R$ 8,50",
-              "R$ 161,40"
+              "[Faqueiro Firenze de 24 peças, Wolff](https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 239,00",
+              "R$ 11,95",
+              "R$ 227,05"
             ],
             [
-              "Aparelho de jantar Bio Oceano (30 peças), Porto Brasil",
-              "R$ 839,00",
-              "R$ 41,95",
-              "R$ 797,05"
+              "[Aparelho de jantar Bio Oceano de 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 798,00",
+              "R$ 39,90",
+              "R$ 758,10"
             ],
             [
-              "Panela Le Creuset Signature 24 cm",
-              "R$ 2.359,20",
-              "R$ 117,96",
-              "R$ 2.241,24"
+              "[Panela Le Creuset Redonda Signature Camomille de 24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 2.211,75",
+              "R$ 110,59",
+              "R$ 2.101,16"
             ],
             [
-              "Nosso carrinho de teste (passo 4)",
+              "Nosso carrinho de teste (passo 3)",
               "R$ 3.582,10",
               "R$ 179,10",
               "R$ 3.403,00"
@@ -52154,7 +52164,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A última linha é o carrinho do print do passo 4: a panela Le Creuset de 34 cm em pré-venda e o jogo de xícaras Wolff. As outras são uma conta simples sobre o preço exibido na vitrine; o frete, calculado pelo CEP, entra depois em todos os casos."
+          "A última linha é o carrinho do print do passo 3: uma panela Le Creuset Signature em pré-venda e o jogo de xícaras Wolff. As outras são uma conta simples sobre o preço exibido na vitrine; o frete, calculado pelo CEP, entra depois em todos os casos."
+        ],
+        "links": [
+          {
+            "label": "Ver o faqueiro Firenze de 24 peças na Let's Eat It",
+            "href": "https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-viena-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -52163,53 +52180,57 @@ export const reviewsData: unknown[] = [
           "O Pix soma com o cupom; cashback e frete têm condições próprias. Confira o valor final no checkout."
         ],
         "bullets": [
-          "Pix: muitos produtos mostram um preço com 5% de desconto no Pix — o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Esse desconto soma com o MAUAD: pela nossa conta, aplicando um desconto sobre o outro, o jogo sairia por R$ 56,77 no Pix com o cupom, sem o frete.",
-          "Cashback: a cada compra, a loja envia por WhatsApp um cupom de 15% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja.",
-          "Frete: o valor é calculado pelo CEP e pelo peso do pedido, e as condições de gratuidade devem ser conferidas no checkout.",
-          "Cupom de primeira compra: use o MAUAD. Ele dá 5% de desconto no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
-          "Casa Let's: na loja física de São Paulo, as compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi."
+          "Pix: muitos produtos mostram um preço com 5% de desconto no Pix, e o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Esse desconto soma com o MAUAD: pela nossa conta, aplicando um desconto sobre o outro, o jogo sairia por R$ 56,77 no Pix com o cupom, sem o frete.",
+          "Cashback: a loja transforma 15% do total da compra em um cupom enviado por WhatsApp, que vale a partir de 7 dias depois da compra e por 30 dias. A compra mínima para usá-lo é 7 vezes o valor do cupom, sem o frete: um cupom de R$ 150 pede uma compra de R$ 1.050. Só um cupom de cashback fica ativo por vez.",
+          "Frete: o valor é calculado pelo CEP e pelo peso do pedido, e a página de frete não publica frete grátis por valor.",
+          "Cupom de primeira compra: use o MAUAD. Ele dá 5% OFF no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
+          "Casa Let's: na loja física de São Paulo, as compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi, e o MAUAD não vale lá."
         ]
       },
       {
-        "heading": "O que eu observaria antes de comprar",
+        "heading": "O que observar antes de comprar",
         "paragraphs": [
-          "O cupom resolve uma parte da conta. Para a compra sair redonda, eu ainda conferiria:"
+          "O cupom resolve uma parte da conta. Para a compra sair redonda, confira:"
         ],
         "bullets": [
           "O frete e o prazo para o seu CEP: pela política de frete da loja, a entrega leva de 3 a 5 dias úteis na capital paulista e pode chegar a 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
           "O prazo de envio de itens em pré-venda, que é diferente do prazo de produtos a pronta entrega.",
           "Se vale mais a pena pagar no Pix: o MAUAD vale com todas as formas de pagamento, e nos produtos com desconto no Pix os 5% da loja somam com os 5% do cupom. O total da etapa de pagamento é a referência.",
-          "As regras de troca: a Let's Eat It informa 30 dias para devolução a partir do recebimento. Guarde a embalagem até ter certeza de que vai ficar com a peça.",
+          "As regras de troca: a Let's Eat It informa 30 dias para devolução a partir do recebimento. Guarde a embalagem até ter certeza de que vai ficar com a peça, e peça a troca assim que receber.",
           "Ao receber peças frágeis, como cristal e porcelana, abra a caixa com calma e fotografe produto e embalagem se algo chegar danificado — a loja pede essas fotos para fazer a reposição."
         ]
       },
       {
         "heading": "Veredito",
         "paragraphs": [
-          "Usar o MAUAD é simples: no checkout da Let's Eat It, digite o código no campo \"Código de desconto\", clique em Aplicar e confira a linha do desconto antes de pagar. No nosso teste, os 5% entraram até em produto já promocional e em item de pré-venda, o que faz o cupom valer a pena principalmente nas peças de maior valor.",
-          "Se ainda está decidindo se compra na loja, separamos também o que encontramos sobre a empresa e sobre a reputação dela no Reclame Aqui — os links estão logo abaixo."
+          "Usar o MAUAD é simples: no checkout da Let's Eat It, digite o código no campo \"Código de desconto\", clique em Aplicar e confira a linha do desconto antes de pagar. No nosso teste, os 5% entraram até em produto já promocional e em item de pré-venda, e rendem mais nas peças de maior valor."
         ],
         "links": [
           {
             "label": "Abrir a Let's Eat It e usar o MAUAD",
             "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
             "sponsored": true
+          },
+          {
+            "label": "Regras e validade do cupom MAUAD",
+            "href": "/cupons/letseatit"
           }
-        ]
+        ],
+        "emphasis": "O MAUAD vale a pena em qualquer carrinho do site oficial, porque soma com o Pix e com as promoções, e rende de verdade nas peças caras, como as panelas de ferro esmaltado."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Let's Eat It? O cupom da Let's Eat It do Em Casa com Cecília é MAUAD, com 5% de desconto no site oficial (testado no checkout).",
-          "Onde coloco o cupom MAUAD? No checkout, no campo \"Código de desconto\" do resumo do pedido. Depois de digitar, clique em \"Aplicar\".",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout e confira a linha do desconto antes de pagar. As regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "Onde coloco o cupom MAUAD? No resumo do pedido do checkout, no campo \"Código de desconto\". Depois de digitar, clique em \"Aplicar\"; no celular, abra o resumo se ele estiver recolhido.",
           "Qual é o cupom de primeira compra da Let's Eat It? Use o MAUAD: ele dá 5% de desconto no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
           "O cupom MAUAD vale para produtos em promoção? No teste, foi aceito num jogo de xícaras com preço promocional e numa panela em pré-venda. Confira a aplicação no resumo do seu pedido.",
           "O cupom MAUAD tem valor mínimo de compra? No teste, o código funcionou num carrinho com um único item de R$ 62,90. Confira a condição no checkout.",
           "O MAUAD dá desconto no frete? O desconto apareceu sobre o subtotal dos produtos. O frete é calculado na etapa seguinte do checkout, pelo CEP e pelo peso do pedido.",
-          "A Let's Eat It tem frete grátis? Em geral, não: o frete é calculado pelo CEP e pelo peso do pedido. A política padrão da loja cita frete grátis acima de R$ 1.000 em Le Creuset e Zwilling; confirme no carrinho.",
+          "A Let's Eat It tem frete grátis? Em geral, não: o frete é calculado pelo CEP e pelo peso do pedido, e a página de frete não publica frete grátis por valor. Confira o valor no carrinho.",
           "Posso usar o cupom MAUAD mais de uma vez? A loja não publica regra de uso por CPF ou por conta. Se houver limite, o checkout informa ao aplicar o código.",
           "O MAUAD se soma ao desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% que a loja dá nos produtos com desconto no Pix. Pela nossa conta, o jogo de xícaras de R$ 62,90 do nosso teste sairia por R$ 56,77, sem o frete.",
-          "Como funciona o cashback da Let's Eat It? A cada compra, a loja envia por WhatsApp um cupom de 15% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja, e a combinação com outros cupons segue as condições dela.",
+          "Como funciona o cashback da Let's Eat It? A loja transforma 15% do total da compra em um cupom enviado por WhatsApp, que vale a partir de 7 dias depois da compra e por 30 dias. A compra mínima para usá-lo é 7 vezes o valor do cupom, sem o frete, e só um cupom de cashback fica ativo por vez.",
           "O cupom não funcionou. O que fazer? Confira se não há espaço antes ou depois do código, aplique de novo e, se o problema continuar, fale com o atendimento da loja e avise o Em Casa com Cecília para revisarmos a informação.",
           "Usar o cupom deixa a compra mais cara? Não. O desconto sai do preço da loja, e a compra pode gerar comissão para o Em Casa com Cecília sem custo adicional para você."
         ]
@@ -52226,12 +52247,28 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no checkout. Podemos receber comissão pelas compras com o MAUAD.",
     "relatedArticles": [
       {
-        "slug": "lets-eat-it-e-confiavel"
+        "slug": "cupom-letseatit-primeira-compra"
       },
       {
-        "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
+        "slug": "lets-eat-it-e-boa"
+      },
+      {
+        "slug": "black-friday-letseatit"
+      },
+      {
+        "slug": "le-creuset-qual-tamanho-escolher"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai comprar no site oficial da Let's Eat It e quer 5% a mais sobre promoções, pré-venda e Pix, sem pedido mínimo no nosso teste.",
+        "Você está de olho numa peça cara, como panela de ferro esmaltado ou aparelho de jantar completo, onde 5% vira dinheiro de verdade."
+      ],
+      "skipIf": [
+        "Você vai comprar pelo Mercado Livre ou na Casa Let's: o código vale só no site oficial.",
+        "Você espera desconto no frete: o MAUAD desconta só o subtotal dos produtos."
+      ]
+    }
   },
   {
     "id": 322,
@@ -55405,37 +55442,26 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 50%.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/black-friday-letseatit-capa-v2.webp",
     "imageAlt": "Prato azul Bio Oceano da Porto Brasil com refeição em mesa posta, em foto oficial da loja parceira.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Panelas Le Creuset Signature com 25% OFF na coleção de promoção; em outubro, quase todas estavam pelo preço cheio",
-      "Aparelho de jantar Porto Brasil de 30 peças a partir de R$ 756,84, contra R$ 868 em outubro",
-      "5% de desconto no Pix, que soma com o cupom MAUAD",
-      "Cashback em cupom para a compra seguinte: 15% do valor da compra",
-      "Política da loja de 30 dias para trocar ou devolver, com etiqueta de devolução paga por ela"
-    ],
-    "cons": [
-      "O desconto da Le Creuset fica só nas peças e cores da coleção de promoção; fora dela, o preço é o cheio",
-      "O frete é cobrado pelo CEP e pelo peso: no nosso teste para a capital paulista, uma panela de R$ 1.746,75 pagou R$ 77,40",
-      "O cashback só vale numa compra de 7 vezes o valor do cupom, e só a partir de 7 dias depois da compra que o gerou",
-      "Parte das cores e dos faqueiros está em pré-venda, com prazo de envio próprio"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
-        "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Let's Eat It segue no ar. Na Le Creuset, quase todas as panelas Signature da coleção de promoção têm 25% OFF, e os aparelhos de jantar Porto Brasil de 30 peças estão abaixo do preço de outubro. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix. O frete é cobrado à parte."
+          "A Black Friday da Let's Eat It segue no ar: na Le Creuset, as panelas Signature das cores da promoção têm 25% OFF, e os aparelhos de jantar Porto Brasil de 30 peças estão abaixo do preço de outubro. O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento e soma com o Pix."
         ]
       },
       {
-        "heading": "A Let's Eat It tem Black Friday?",
+        "heading": "A Black Friday da Let's Eat It: o que está no ar",
         "paragraphs": [
-          "Tem, e já começou. A home traz a coleção \"Best Sellers - Black Friday\" e anuncia a La Maison com até 70% OFF, a Linha Sintonia, de taças e copos, também com até 70%, a Porto Brasil com até 60% OFF, as peças de Natal de 20% a 60% de desconto e a Le Creuset com até 50% OFF, mais 15% de cashback e 5% no Pix. A loja não publica até quando a campanha vale.",
+          "Tem, e já começou. A home traz a coleção \"Best Sellers - Black Friday\" e anuncia a La Maison com até 70% OFF, a Linha Sintonia, de taças e copos, também com até 70%, a Porto Brasil com até 60% OFF, as peças de Natal de 20% a 60% de desconto e a Le Creuset com até 50% OFF, mais 15% de cashback e 5% no Pix. O banner do Outlet anuncia até 70% OFF em produtos selecionados. A loja não publica até quando a campanha vale.",
           "O \"até\" é o teto de cada marca: o desconto da peça é o que a página dela mostra. Em outubro, antes da campanha, a loja já oferecia a coleção Natal Let's com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado. Ou seja, o selo da Porto Brasil é o mesmo de outubro, e só o preço do dia diz se há desconto novo. As tabelas abaixo são a régua.",
           "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia."
         ],
@@ -55467,7 +55493,8 @@ export const reviewsData: unknown[] = [
           "alt": "Panela Redonda Signature da Le Creuset na cor Cotton, de lado e vista de cima, em fotos de produto da Let's Eat It",
           "caption": "A Redonda Signature na cor Cotton, uma das panelas da tabela. Fotos de produto da Let's Eat It.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
         },
         "comparisonTable": {
           "caption": "Le Creuset na Let's Eat It em 8 de outubro de 2026. O preço cheio vale para a maioria das cores; o desconto, só para a cor indicada. No Pix, a página do produto mostra mais 5% de desconto.",
@@ -55506,27 +55533,18 @@ export const reviewsData: unknown[] = [
               "[Skillet Signature com alça](https://letseatit.com.br/products/skillet-redonda-com-alca-signature-azure-blue-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 26 cm",
               "R$ 1.739",
               "Sem desconto"
-            ],
-            [
-              "[Caneca de cerâmica](https://letseatit.com.br/products/caneca-ceramica-nectar-400ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 400 ml",
-              "R$ 189",
-              "R$ 132,30 na cor Nectar, em pré-venda (30% OFF)"
-            ],
-            [
-              "[Mini Cocotte de cerâmica](https://letseatit.com.br/products/mini-cocotte-ceramica-flint-250ml-14cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 250 ml",
-              "R$ 239",
-              "R$ 167,30 nas cores Flint e Nectar (30% OFF)"
             ]
           ]
         },
         "postParagraphs": [
-          "Na Le Creuset, a comparação é direta: em outubro, quase tudo estava pelo preço cheio, e em meados de novembro as panelas redondas de 20, 24 e 26 cm da tabela aparecem com 25% OFF nas cores da promoção. A [oval de 31 cm](https://letseatit.com.br/products/panela-le-creuset-oval-signature-sage-6-3l-31cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) foi de R$ 2.889,15 para R$ 2.549,25. A [caneca de 400 ml](https://letseatit.com.br/products/caneca-ceramica-nectar-400ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e a [mini cocotte](https://letseatit.com.br/products/mini-cocotte-ceramica-flint-250ml-14cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) seguem no mesmo preço de outubro, agora em mais cores. Se o preço riscado subir, compare com a tabela, não com o riscado.",
+          "Na Le Creuset, a comparação é direta: em outubro, quase tudo estava pelo preço cheio, e em meados de novembro as panelas redondas de 20, 24 e 26 cm da tabela aparecem com 25% OFF nas cores da promoção. A [oval de 31 cm](https://letseatit.com.br/products/panela-le-creuset-oval-signature-sage-6-3l-31cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) foi de R$ 2.889,15 para R$ 2.549,25. A caneca Nectar de 400 ml e a mini cocotte Flint, que tinham 30% OFF, esgotaram na última conferência. Se o preço riscado subir, compare com a tabela, não com o riscado.",
           "A Let's Eat It aparece no localizador de lojas do site oficial da Le Creuset Brasil."
         ],
         "links": [
           {
-            "label": "Let's Eat It é confiável? CNPJ, políticas e o que observar",
-            "href": "/reviews/lets-eat-it-e-confiavel"
+            "label": "Ver a Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
@@ -55593,6 +55611,18 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Cor fora da promoção custa o preço cheio: se a cor importa mais que o desconto, compare as duas contas antes de decidir. Peça marcada como pré-venda tem prazo de envio próprio, informado na página do produto.",
           "Como escolher o tamanho está em [Le Creuset 20 ou 24 cm: qual tamanho escolher (e quando o buffet faz sentido)](/reviews/le-creuset-qual-tamanho-escolher). Os cuidados de uso estão em [Le Creuset vale a pena? Indução, forno, lava-louças e queimado](/reviews/le-creuset-vale-a-pena), e como reconhecer a peça, em [Le Creuset original: como saber e onde comprar](/reviews/le-creuset-original-como-saber)."
+        ],
+        "links": [
+          {
+            "label": "Ver a Redonda de 24 cm na Let's Eat It",
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -55605,7 +55635,8 @@ export const reviewsData: unknown[] = [
           "alt": "Aparelho de jantar Porto Brasil Stoneware Bio Latte em duas fotos de produto: pratos, tigelas e xícaras em tom claro",
           "caption": "Aparelho de jantar Porto Brasil Stoneware Bio Latte. Fotos de produto da Let's Eat It.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
         },
         "comparisonTable": {
           "caption": "Porto Brasil na Let's Eat It em outubro: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
@@ -55626,24 +55657,21 @@ export const reviewsData: unknown[] = [
               "R$ 839"
             ],
             [
-              "[Aparelho de jantar Stoneware Orgânico Gold, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (Lua, Shimeji ou Forest)",
-              "R$ 3.416,50",
-              "R$ 2.049,90"
-            ],
-            [
               "[Jogo de 6 pratos multiuso Stoneware Linho](https://letseatit.com.br/products/conjunto-com-6-pratos-multiuso-linho-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 18,6 cm",
               "R$ 722,25",
               "R$ 288,90"
-            ],
-            [
-              "Jogo de 4 travessas ovais rasas G Stoneware Orgânico New White, 36 cm",
-              "R$ 679,37",
-              "R$ 271,75"
             ]
           ]
         },
         "postParagraphs": [
-          "Em meados de novembro, os aparelhos de 30 peças da linha Orgânico nas cores Preto Matte e Petroleum aparecem a R$ 756,84, e os das linhas Arauco, [Bio Oceano](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), Bio Latte e Bio Breeze, a R$ 778,84: os dois preços estão abaixo dos de outubro. Os aparelhos Orgânico Gold seguem a R$ 2.049,90 e o jogo de 6 pratos multiuso [Linho](https://letseatit.com.br/products/conjunto-com-6-pratos-multiuso-linho-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 288,90, sem mudança."
+          "Na última conferência, os aparelhos de 30 peças disponíveis estavam todos em pré-venda: o [Bio Latte](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 778,84, o [Bio Oceano](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e o [Petroleum/Night Sky](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 798 cada. Os dois preços estão abaixo dos de outubro. Os aparelhos Orgânico Gold (Lua, Shimeji e Forest), o Arauco e as travessas New White esgotaram. O jogo de 6 pratos multiuso [Linho](https://letseatit.com.br/products/conjunto-com-6-pratos-multiuso-linho-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 288,90, segue sem mudança."
+        ],
+        "links": [
+          {
+            "label": "Ver a Porto Brasil na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -55660,14 +55688,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Aparelho Porto Brasil Stoneware Orgânico, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 756,84",
-              "R$ 683,05"
-            ],
-            [
-              "[Aparelho Porto Brasil Stoneware Bio, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Aparelho Porto Brasil Stoneware Bio Latte, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 778,84",
               "R$ 702,90"
+            ],
+            [
+              "[Aparelho Porto Brasil Stoneware Bio Oceano, 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 798,00",
+              "R$ 720,20"
             ],
             [
               "[Jogo de 6 pratos rasos Porto Brasil Orgânico](https://letseatit.com.br/products/conjunto-6-pratos-rasos-organico-stoneware-preto-matte-26-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 26,5 cm",
@@ -55694,32 +55722,51 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Aparelho de 30 peças:** traz 6 pratos rasos, 6 de sobremesa, 6 fundos, 6 xícaras e 6 pires. Para quem vai montar a mesa do zero, sai por menos que os três jogos de pratos comprados à parte, que somavam R$ 788,70 sem as xícaras.",
           "**Jogo de 6 pratos:** para quem só precisa repor um tipo de prato. O [de sobremesa da linha Bio](https://letseatit.com.br/products/conjunto-com-6-pratos-de-sobremesa-bio-latte-21-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) estava a R$ 236,90 e o [de pratos fundos](https://letseatit.com.br/products/conjunto-com-6-pratos-fundos-bio-latte-22-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 265,90.",
-          "**Aparelho de 16 peças:** o [Bio Latte de 16 peças](https://letseatit.com.br/products/pre-venda-aparelho-de-jantar-stoneware-bio-latte-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) estava a R$ 659,00. Por peça, custa mais que o de 30; faz sentido para mesa de 4 lugares e pouco espaço no armário.",
+          "**Aparelho de 16 peças:** o Bio Latte de 16 peças, que custava R$ 659,00, esgotou na última conferência. Quem monta mesa de 4 lugares fica com o [Bio Latte de 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), que sai por cerca de R$ 26 a peça, contra cerca de R$ 41 no de 16.",
           "**Faqueiro La Maison:** [12 peças](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 199,00 e [24 peças](https://letseatit.com.br/products/faqueiro-24-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 389,00, em aço inox, em várias cores de cabo. É o caminho de menor preço para 6 lugares.",
-          "**Faqueiro Laguiole La Maison Luxo:** [12](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [18](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) ou [30](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) peças, por R$ 469,00, R$ 729,00 e R$ 1.099,00. Os preços são os mesmos do fim de outubro, e a maior parte das cores estava em pré-venda.",
+          "**Faqueiro Laguiole La Maison Luxo:** [12](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [18](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) ou [30](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) peças, por R$ 469,00, R$ 729,00 e R$ 1.099,00. Os preços são os mesmos do fim de outubro, e as cores Marfim e Verde estão em pré-venda.",
           "**Taças da Linha Sintonia:** o jogo de 6 taças para água de [base geométrica Trio, de 400 ml](https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-vidro-base-geometrica-trio-linha-sintonia-400ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), estava a R$ 499,00, e o [Trésor incolor, de 515 ml](https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-gioia-vidro-incolor-linha-sintonia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 519,00. Os jogos de base esfera da linha Pure apareciam em pré-venda."
         ],
         "postParagraphs": [
-          "Várias cores de aparelho apareciam como esgotadas na nossa leitura, e o Bio Breeze, em pré-venda: confira a disponibilidade da cor na página antes de planejar a mesa em torno dela.",
+          "Várias cores de aparelho esgotaram (Arauco, Shimeji Gold, Lua Gold e Forest Gold), e as que sobraram estão em pré-venda: confira a disponibilidade da cor na página antes de planejar a mesa em torno dela.",
           "Os guias de cada peça: [Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno](/reviews/porto-brasil-e-boa), [Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças)](/reviews/faqueiro-laguiole-la-maison-qual-escolher), [Taça base esfera: conjunto ou unidade, e qual cor escolher](/reviews/taca-base-esfera-e-tacas-coloridas), [Jogo americano de tecido: qual tamanho e cor escolher](/reviews/jogo-americano-tecido-tamanho-cor) e [Guardanapo de tecido: quantos por pessoa e qual tamanho escolher](/reviews/guardanapo-de-tecido-quantos-tamanho). Para a mesa completa, [Mesa posta de Natal: o que precisa, quanto custa e como montar](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) e [Mesa posta do dia a dia: o que comprar primeiro](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
+        ],
+        "links": [
+          {
+            "label": "Ver o aparelho Bio Latte de 30 peças na Let's Eat It",
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver os faqueiros La Maison na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/laguiole-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Presentes Le Creuset por faixa de preço",
         "bullets": [
-          "Até R$ 150: [Caneca de cerâmica de 400 ml](https://letseatit.com.br/products/caneca-ceramica-nectar-400ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). R$ 132,30 na promoção, com 30% OFF. Na nossa sacola, o MAUAD levou o preço a R$ 125,69, e com o Pix a conta chega a R$ 119,40.",
-          "Até R$ 200: [Mini Cocotte de cerâmica de 250 ml](https://letseatit.com.br/products/mini-cocotte-ceramica-flint-250ml-14cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). R$ 167,30 na promoção, R$ 150,99 com MAUAD e Pix. Vai à mesa como porção individual.",
+          "Até R$ 150: [Caneca de cerâmica Cotton de 100 ml](https://letseatit.com.br/products/caneca-ceramica-cotton-100ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). R$ 129,00. Com o MAUAD, pela nossa conta, vai a R$ 122,55, e com o Pix a conta chega a R$ 116,42.",
+          "Até R$ 200: [Ramekin Formato Coração de 300 ml](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). R$ 159,00, R$ 143,50 com MAUAD e Pix. Vai à mesa como porção individual.",
           "Até R$ 500: [Travessa retangular Heritage de 32 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-mist-grey-32cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). R$ 496,30 na promoção, R$ 447,91 com MAUAD e Pix."
         ],
         "postParagraphs": [
-          "Em presente pequeno, o frete pesa: a caneca sozinha pagou R$ 40,90 de frete para a capital paulista no nosso teste. Compare o total entregue antes de fechar. Parte das cores da caneca e da mini cocotte estava em pré-venda; se o presente tem data, escolha uma cor em estoque."
+          "Em presente pequeno, o frete pesa: uma caneca sozinha pagou R$ 40,90 de frete para a capital paulista no nosso teste. Compare o total entregue antes de fechar. A caneca de 400 ml e a mini cocotte com 30% OFF esgotaram; se o presente tem data, escolha uma peça em estoque."
+        ],
+        "links": [
+          {
+            "label": "Ver os presentes Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Pix, cashback e cupom: o que soma",
         "bullets": [
           "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
-          "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. Em meados de novembro, ele entrou sobre o preço de promoção de uma panela Le Creuset e de uma caneca, e o desconto saiu do subtotal, antes do frete.",
+          "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. Cole o código no campo “Código de desconto” do checkout. Em meados de novembro, ele entrou sobre o preço de promoção de uma panela Le Creuset e de uma caneca, e o desconto saiu do subtotal, antes do frete.",
           "**Pix com o cupom:** os dois somam. Na [panela Redonda Signature de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 1.746,75 com os 25% da promoção, o MAUAD tirou R$ 87,33 na sacola, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
           "**Cashback:** vale para a compra seguinte e fica fora da conta do preço pago agora. As condições da página do cashback:",
           "**1. Valor:** 15% do total da compra, em cupom enviado pelo WhatsApp cadastrado.",
@@ -55743,12 +55790,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Presente de Natal: até quando pedir",
         "paragraphs": [
-          "A loja separa o pedido no mesmo dia ou no dia útil seguinte, e a entrega leva de 5 a 10 dias úteis depois do despacho, com prazo maior em período promocional. Somando um dia útil de folga ao prazo mais longo, pague até 8 de dezembro para o pedido chegar antes do Natal."
+          "A loja não tem entrega expressa. A página de frete publica prazos em dias úteis, contados da confirmação do pagamento: 3 a 5 na capital paulista, 4 a 7 no interior e na Grande SP, 5 a 8 no Sul e no Sudeste, 6 a 9 no Centro-Oeste e 7 a 12 no Norte e no Nordeste, com prazo maior em período promocional. Somando um dia útil de folga ao prazo mais longo, pague no começo de dezembro para o pedido chegar antes do Natal."
         ],
         "postParagraphs": [
-          "É uma estimativa, não uma garantia: se puder, peça antes. A loja não tem entrega expressa e não deixa retirar pedidos do site na Casa Let's.",
-          "Na troca, são dois prazos de origens diferentes. O direito de arrependimento, do artigo 49 do Código de Defesa do Consumidor, dá 7 dias corridos a partir do recebimento para desistir de uma compra feita pela internet, sem precisar de motivo. Os 30 dias são da política de reembolso e trocas da loja, lida em novembro: vale para produto sem uso e na embalagem original, inclusive item comprado em promoção, com etiqueta de devolução enviada pela loja. Itens personalizados ou sob encomenda ficam fora.",
-          "A página de frete da própria loja fala em 7 dias para troca ou devolução. Se o presente for para outra pessoa e você conta com os 30 dias, confirme o prazo com o atendimento antes de comprar. Em São Paulo, dá para trocar na hora na Casa Let's."
+          "É uma estimativa, não uma garantia: se puder, peça antes. A loja não deixa retirar pedidos do site na Casa Let's.",
+          "Na troca, são dois prazos de origens diferentes. O direito de arrependimento, do artigo 49 do Código de Defesa do Consumidor, dá 7 dias corridos a partir do recebimento para desistir de uma compra feita pela internet, sem precisar de motivo. Os 30 dias são da política de reembolso e trocas da loja: valem para produto sem uso e na embalagem original, inclusive item comprado em promoção, com etiqueta de devolução enviada pela loja. Itens personalizados ou sob encomenda ficam fora.",
+          "A página Fale Conosco da loja fala em até 7 dias para pedir a troca pelo portal. Se o presente for para outra pessoa e você conta com os 30 dias, peça pelo portal assim que receber e confirme o prazo com o atendimento antes de comprar. Em São Paulo, dá para trocar na hora na Casa Let's."
         ]
       },
       {
@@ -55762,32 +55809,53 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Peça frágil:** a loja embala porcelana, cristal, vidro e cerâmica um a um e repõe de graça o que chegar quebrado. Para isso, ela pede fotos do produto e da embalagem pelo WhatsApp ou e-mail, então fotografe a caixa ao receber.",
+          "**Problema com o pedido:** fale com o SAC da loja pelo WhatsApp (11) 96570-0375 ou por suporte@letseatit.com.br, com o número do pedido, fotos da caixa e da peça e a nota fiscal; guarde as provas.",
           "**Rastreio:** o código chega por WhatsApp e e-mail depois do envio. \"Produto não recebido\" é um dos problemas mais citados no Reclame Aqui da loja: acompanhe o pedido e fale com a loja assim que o prazo passar.",
           "**Pré-venda:** parte das peças Le Creuset, dos faqueiros e das taças está em pré-venda, com prazo de envio próprio na página do produto. Se o presente tem data, prefira o que está em estoque.",
           "**Compare com as tabelas de outubro** antes de se guiar pelo selo de desconto: o percentual é sobre o preço riscado, e o que mostra a mudança é o preço do dia contra o de outubro."
         ],
         "links": [
           {
-            "label": "Let's Eat It no Reclame Aqui: o que os dados mostram",
-            "href": "/reviews/lets-eat-it-reclame-aqui-nota-reputacao"
+            "label": "Como usar o cupom MAUAD no checkout",
+            "href": "/reviews/cupom-mauad-lets-eat-it-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "O que comprar primeiro na Black Friday da Let's Eat It",
+        "paragraphs": [
+          "A ordem que faz mais sentido: panela Le Creuset numa cor da promoção, se você já ia comprar uma; aparelho de jantar Porto Brasil de 30 peças, para montar a mesa do zero; faqueiro La Maison, para talheres de menor preço; presente pequeno, mais pelo Pix e pelo cupom do que pelo selo de desconto.",
+          "Em todos, aplique o [cupom Let's Eat It](/cupons/letseatit) MAUAD, que dá 5% OFF em todas as formas de pagamento, no campo “Código de desconto” do checkout, e compare o preço do dia com as tabelas deste guia."
+        ],
+        "emphasis": "Para uma panela só, a Redonda de 24 cm na cor da promoção; para a mesa, o aparelho de 30 peças da Porto Brasil, que sai por menos que os pratos comprados à parte.",
+        "links": [
+          {
+            "label": "Ir para a Let's Eat It",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Cupom da Let's Eat It",
+            "href": "/cupons/letseatit"
           }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, inclusive nos produtos em promoção da Black Friday. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
           "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Le Creuset de 15% a 50% OFF, Porto Brasil até 60%, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
           "Le Creuset fica mais barata na Black Friday? Fica, nas peças e cores da coleção de promoção. Quase todas as panelas Signature têm 25% OFF: a Redonda de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75, e a de 24 cm, de R$ 2.949 por R$ 2.211,75.",
           "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 50%, e a maioria das panelas Signature tem 25%.",
           "Qual tamanho de panela Le Creuset comprar na Black Friday? Escolha pela capacidade: a Redonda de 20 cm tem 2,4 L, a de 22 cm, 3,3 L, a de 24 cm, 4,2 L, e a de 26 cm, 5,3 L. Na promoção, vão de R$ 1.746,75 a R$ 2.316,75, e o desconto depende da cor.",
-          "O aparelho de jantar Porto Brasil está mais barato que em outubro? Está. Os aparelhos de 30 peças que custavam R$ 868 e R$ 839 em outubro aparecem a R$ 756,84 e R$ 778,84 em meados de novembro, conforme a linha. Confira se a cor está disponível.",
+          "O aparelho de jantar Porto Brasil está mais barato que em outubro? Está. Os aparelhos de 30 peças que custavam R$ 868 e R$ 839 em outubro aparecem a R$ 778,84 (Bio Latte) e R$ 798 (Bio Oceano e Petroleum), todos em pré-venda. Confira se a cor está disponível.",
           "A Let's Eat It tem frete grátis? Confira o frete para o produto e o CEP escolhidos e compare o total entregue, incluindo eventual campanha de frete grátis. A política de frete diz que o valor é calculado pelo CEP e pelo peso. No nosso teste para a capital paulista, uma panela Le Creuset de R$ 1.746,75 pagou R$ 77,40.",
           "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
-          "O cupom MAUAD vale na Black Friday? Vale. O cupom Let’s Eat It MAUAD dá 5% OFF e soma com os preços da Black November: no nosso teste, o cupom entrou sobre o preço da campanha.",
+          "O cupom MAUAD vale na Black Friday? Vale. O cupom Let’s Eat It MAUAD dá 5% OFF e soma com os preços da campanha: no nosso teste, o cupom entrou sobre o preço da campanha.",
           "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
           "O cashback da Let's Eat It vale na Black Friday? A compra gera um cupom de 15% do valor, enviado pelo WhatsApp, que não reduz o preço pago agora. Ele só pode ser usado a partir de 7 dias depois da compra, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom, sem contar o frete. A combinação com o MAUAD depende das condições do dia.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa estimativa, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite cai no começo de dezembro. Confirme a previsão para o seu CEP, pois os prazos podem mudar em períodos promocionais, e evite item em pré-venda."
+          "Até quando comprar para chegar antes do Natal? Para o Norte e o Nordeste, o prazo mais longo é de 12 dias úteis depois da confirmação do pagamento; com um dia útil de folga, a data limite cai no começo de dezembro. Na capital paulista, o prazo é de 3 a 5 dias úteis. Confirme a previsão para o seu CEP, pois os prazos podem mudar em períodos promocionais, e evite item em pré-venda."
         ]
       }
     ],
@@ -55805,12 +55873,25 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-mauad-lets-eat-it-como-usar"
       },
       {
-        "slug": "lets-eat-it-e-confiavel"
+        "slug": "le-creuset-qual-tamanho-escolher"
       },
       {
-        "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
+        "slug": "lets-eat-it-e-boa"
+      },
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a panela Le Creuset numa cor da promoção se já ia comprar uma: 25% sobre o preço cheio pesa mais que qualquer selo.",
+        "Leve o aparelho de 30 peças da Porto Brasil se monta a mesa do zero: sai por menos que os pratos comprados à parte."
+      ],
+      "skipIf": [
+        "Passe a Le Creuset em cor fora da promoção: ali o preço é o cheio, e o cupom sozinho muda pouco.",
+        "Passe a pré-venda se o presente tem data: os aparelhos Porto Brasil e os faqueiros Laguiole estão nela, com prazo de envio próprio."
+      ]
+    }
   },
   {
     "bodyDatesReason": "campanha",
@@ -73664,18 +73745,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Os modelos com ouro têm mais exceções em micro-ondas e lava-louças, então confira a ficha da peça. Na Let's Eat It, o código MAUAD dá 5% no site."
+          "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Os modelos com ouro têm mais exceções, então confira a ficha da peça. Na Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento."
         ]
       },
       {
-        "heading": "Porto Brasil é cerâmica ou porcelana?",
+        "heading": "Cerâmica, não porcelana: stoneware ou faiança",
         "paragraphs": [
-          "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras."
-        ]
-      },
-      {
-        "heading": "Stoneware ou faiança: o que muda",
-        "paragraphs": [
+          "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
           "Uma diferença técnica é quanto a cerâmica absorve de água. Na classificação aduaneira do órgão de fronteira do Canadá (CBSA), a porcelana absorve até 0,5% (medido pelo método ASTM C373) e é translúcida; o grês absorve até 3% e é opaco; a faiança absorve mais de 3% e é opaca e porosa. A Porto Brasil não informa o percentual de absorção das peças.",
           "Na prática, a Porto Brasil libera mais usos para o stoneware do que para a faiança, como mostra a tabela."
         ],
@@ -73770,43 +73846,64 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Veredito: a Porto Brasil é boa?",
+        "heading": "Onde comprar a Porto Brasil",
         "paragraphs": [
-          "Para escolher a Porto Brasil, procure primeiro as indicações do produto: forno e freezer mudam por peça, e os detalhes com ouro acrescentam restrições. A tabela ajuda a filtrar modelos.",
-          "Na comparação com a Oxford, há peças Porto Brasil com forno declarado, enquanto no catálogo Ryo e Unni essa indicação não aparece. Se forno é indispensável, escolha uma peça com autorização e limite claros. Para uso sem essa indicação, confirme com a fabricante antes da compra."
-        ]
-      },
-      {
-        "heading": "Como comprar pela Let's Eat It",
-        "paragraphs": [
-          "A Let's Eat It vende sobretudo o stoneware da Porto Brasil: quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Os preços de outubro, com os descontos da época, estão no nosso guia de Black Friday da loja.",
-          "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD e soma com o desconto do Pix."
+          "A Let's Eat It vende sobretudo o stoneware da [Porto Brasil](https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Na última conferência, três aparelhos de 30 peças estavam disponíveis em pré-venda:"
         ],
-        "image": {
-          "src": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
-          "alt": "Página da Porto Brasil na Let's Eat It, com o menu da loja, as cores da linha e o banner da marca",
-          "caption": "A página da Porto Brasil na Let's Eat It. Print da página.",
-          "objectFit": "contain",
-          "aspectRatio": 1.6227
-        },
         "links": [
+          {
+            "label": "Ver a Porto Brasil na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
           {
             "label": "Black Friday Let's Eat It 2026: preços de Porto Brasil",
             "href": "/reviews/black-friday-letseatit"
           },
           {
-            "label": "Let's Eat It é confiável?",
-            "href": "/reviews/lets-eat-it-e-confiavel"
-          },
-          {
             "label": "Cupom da Let's Eat It",
             "href": "/cupons/letseatit"
+          }
+        ],
+        "bullets": [
+          "[Bio Latte de 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): R$ 778,84, de R$ 1.298,07. Com o MAUAD, fica em R$ 739,90.",
+          "[Bio Oceano de 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): R$ 798,00, de R$ 1.330,00.",
+          "[Petroleum Night Sky de 30 peças](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): R$ 798,00."
+        ],
+        "postParagraphs": [
+          "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD, em todas as formas de pagamento, e soma com o desconto do Pix, com as promoções e com a pré-venda. Cole o código no campo “Código de desconto” do checkout. Os preços do restante do catálogo estão no nosso guia de Black Friday da loja."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
+            "alt": "Página da Porto Brasil na Let's Eat It, com o menu da loja, as cores da linha e o banner da marca",
+            "caption": "A página da Porto Brasil na Let's Eat It. Print da página.",
+            "objectFit": "contain",
+            "aspectRatio": 1.6227,
+            "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/porto-brasil-aparelho-bio-latte-30-pecas.webp",
+            "alt": "Aparelho de jantar Porto Brasil Bio Latte de 30 peças empilhado",
+            "caption": "Aparelho de jantar Stoneware Bio Latte, 30 peças, Porto Brasil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
       {
+        "heading": "Veredito: o que a Porto Brasil entrega",
+        "paragraphs": [
+          "Para escolher a Porto Brasil, procure primeiro as indicações do produto: forno e freezer mudam por peça, e os detalhes com ouro acrescentam restrições. A tabela ajuda a filtrar modelos.",
+          "Na comparação com a Oxford, há peças Porto Brasil com forno declarado, enquanto no catálogo Ryo e Unni essa indicação não aparece. Se forno é indispensável, escolha uma peça com autorização e limite claros. Para uso sem essa indicação, confirme com a fabricante antes da compra."
+        ],
+        "emphasis": "O stoneware da Porto Brasil resolve quando a ficha da peça libera o forno; com ouro ou em faiança, trate como louça de mesa."
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
           "Porto Brasil é cerâmica ou porcelana? É cerâmica, não porcelana: stoneware (grês) e faiança, segundo a própria fabricante.",
           "Porto Brasil vai no micro-ondas? Sim, na maior parte das peças de stoneware e de faiança, segundo as fichas; as peças com aplicação de ouro não vão.",
           "Porto Brasil vai no forno? Só quando a ficha da peça autoriza esse uso. Parte do stoneware permite, mas há peças e conjuntos com ouro que não vão; na faiança, várias fichas não recomendam o forno. Confira também o limite explícito: variação térmica não é temperatura máxima do forno.",
@@ -73817,18 +73914,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "pros": [
-      "A maior parte do stoneware vai ao forno, ao micro-ondas, à lava-louças e ao freezer",
-      "Garantia de 90 dias por defeito de fabricação e de 9 ou 12 meses contra gretamento",
-      "Reputação ÓTIMA no Reclame Aqui, com as 110 reclamações de abril a setembro de 2026 respondidas",
-      "Fábrica em Porto Ferreira (SP), de uma empresa aberta em 2006"
-    ],
-    "cons": [
-      "Algumas peças de stoneware e as que têm aplicação de ouro não vão ao forno",
-      "Na faiança, várias fichas não recomendam o forno convencional",
-      "Variação térmica de 180 °C ou 240 °C não informa, por si só, o limite de forno da peça",
-      "Produto com defeito é o assunto mais citado nas reclamações"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Veja o stoneware da Porto Brasil na Let's Eat It.",
       "label": "Ir para a Let's Eat It",
@@ -73843,12 +73930,25 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-letseatit"
       },
       {
-        "slug": "lets-eat-it-e-confiavel"
+        "slug": "le-creuset-vale-a-pena"
       },
       {
-        "slug": "le-creuset-vale-a-pena"
+        "slug": "aparelho-de-jantar-quantas-pecas-escolher"
+      },
+      {
+        "slug": "cupom-mauad-lets-eat-it-como-usar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve o stoneware da Porto Brasil se quer louça que vai da mesa ao micro-ondas e à lava-louças, e confira a ficha da peça para o forno.",
+        "Leve a peça com forno declarado na ficha se você assa e serve no mesmo prato."
+      ],
+      "skipIf": [
+        "Passe as peças com filete ou aplicação de ouro se elas vão ao micro-ondas ou ao forno: essas não vão.",
+        "Passe a faiança se o forno é essencial: várias fichas não recomendam o forno convencional."
+      ]
+    }
   },
   {
     "id": 359,
@@ -74163,7 +74263,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Le Creuset vale a pena com o cupom MAUAD de 5% OFF? Indução, forno por tipo de puxador, lava-louças, micro-ondas e a comparação com a Staub.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/le-creuset-vale-a-pena-capa-v2.webp",
@@ -74172,9 +74272,9 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "Resposta rápida: Le Creuset vale a pena?",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale para quem vai usar uma panela de ferro fundido no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. No site da Let's Eat It, o código MAUAD dá 5%."
+          "Vale para quem usa panela de ferro fundido no fogão, inclusive na indução, e no forno, e aceita os cuidados com o esmalte. Ela não vai ao micro-ondas, e a garantia vitalícia não cobre choque térmico nem queda. No site da Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF."
         ]
       },
       {
@@ -74198,7 +74298,8 @@ export const reviewsData: unknown[] = [
           "alt": "Panela Redonda Signature da Le Creuset na cor Cotton vista de cima, com as duas alças de ferro fundido e o puxador de aço inox na tampa",
           "caption": "Redonda Signature Cotton com alças de ferro fundido e puxador de aço inox na tampa. Confira o limite de forno do conjunto na documentação desse modelo.",
           "objectFit": "contain",
-          "aspectRatio": 1.3333
+          "aspectRatio": 1.3333,
+          "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
         }
       },
       {
@@ -74269,17 +74370,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Onde comprar: Let's Eat It",
+        "heading": "Onde comprar Le Creuset: Let's Eat It",
         "paragraphs": [
-          "A Let's Eat It aparece no localizador oficial de lojas da Le Creuset Brasil. Em 12/10/2026, a Panela Redonda Signature de 20 cm saía por R$ 2.329, e a de 28 cm, por R$ 3.429, nas cores de preço padrão; cores como Château e Flamme Dorée custam mais. Os preços por data estão no nosso guia de Black Friday da loja.",
-          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset. No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD e vale também para a Le Creuset."
+          "A Let's Eat It aparece no localizador oficial de lojas da Le Creuset Brasil. O preço de tabela da [Panela Redonda Signature de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é R$ 2.329, e em novembro várias cores têm 25% de desconto sobre a tabela: na Azure Blue, R$ 1.746,75. Outras cores seguem sem desconto, e cores como Château e Flamme Dorée custam mais. Os preços por tamanho estão no nosso [guia de Black Friday da loja](/reviews/black-friday-letseatit).",
+          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset. No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% OFF com o código MAUAD, em todas as formas de pagamento, e vale também para a Le Creuset: cole o código no campo \"Código de desconto\" do checkout. Sobre os R$ 1.746,75 da Azure Blue, são R$ 1.659,41 com o cupom e R$ 1.576,44 com o Pix (conta nossa, sem frete; o cupom entra primeiro)."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp",
             "alt": "Página da Le Creuset na Let's Eat It, com as categorias de panelas, utensílios e canecas e a escolha por cor",
             "caption": "A página da Le Creuset na Let's Eat It.",
-            "objectFit": "contain"
+            "objectFit": "contain",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           },
           {
             "src": "/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp",
@@ -74290,12 +74392,18 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Black Friday Let's Eat It 2026: preços de Le Creuset",
-            "href": "/reviews/black-friday-letseatit"
+            "label": "Ver a Redonda Signature Azure Blue 20 cm na Let's Eat It",
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           },
           {
-            "label": "Let's Eat It é confiável?",
-            "href": "/reviews/lets-eat-it-e-confiavel"
+            "label": "Ver a coleção Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Black Friday Let's Eat It 2026: preços de Le Creuset",
+            "href": "/reviews/black-friday-letseatit"
           },
           {
             "label": "Cupom da Let's Eat It",
@@ -74304,21 +74412,22 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Vale a pena?",
+        "heading": "O que a Le Creuset entrega pelo preço",
         "paragraphs": [
           "Pelo que a marca publica, vale para quem cozinha no fogão ou na indução, usa o forno e aceita os cuidados: calor médio ou baixo, nada de micro-ondas e nada de água fria na panela quente, porque a garantia vitalícia não cobre choque térmico nem queda."
         ],
-        "emphasis": "Se o preparo exigisse forno acima de 200 °C, eu consideraria a Signature com puxador fenólico, cujo limite é de 250 °C. Confirmaria também o limite da tampa e do conjunto escolhido.",
+        "emphasis": "A Le Creuset vale a pena para quem usa fogão ou indução e forno toda semana e aceita os cuidados com o esmalte; quem quer micro-ondas ou lava-louças diária deve olhar outra panela.",
         "bullets": [
           "Vale para quem quer ferro fundido esmaltado para fogão, indução e forno, respeitando a temperatura máxima do conjunto escolhido. Se o seu forno passa de 200 °C, prefira a Signature (fenólico até 250 °C) ou um modelo com puxador de inox, e confira a tampa e o limite do conjunto completo.",
           "Pense melhor: quer usar no micro-ondas, ou vai à lava-louças sempre e não aceita que o acabamento possa desbotar.",
-          "O preço pesa: a Redonda Signature de 20 cm custava R$ 2.329 e a de 28 cm, R$ 3.429, nas cores de preço padrão. Confira a oferta atual na loja."
+          "O preço pesa: a Redonda Signature de 20 cm tem preço de tabela de R$ 2.329 e, nas cores com 25% de desconto em novembro, R$ 1.746,75. Confira a oferta atual na loja."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Le Creuset vale a pena? Vale para quem vai usar a panela no fogão e no forno e aceita os cuidados: melhores resultados no calor médio ou baixo, nada de micro-ondas e uma garantia vitalícia que não cobre choque térmico nem queda.",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Le Creuset pode ir na indução? As panelas de ferro fundido esmaltado deste guia podem, segundo a marca. Outras linhas usam materiais diferentes e precisam ser conferidas na ficha correspondente.",
           "Le Creuset pode ir no forno? O ferro fundido deste guia pode ir ao forno, respeitado o limite de cada conjunto: confira panela, tampa e puxador na documentação do modelo.",
           "Le Creuset pode ir na lava-louças? Para o ferro fundido esmaltado deste guia, a marca permite; a lavagem constante pode desbotar o acabamento, o que a marca diz não ser prejudicial. Peças com madeira não vão à lava-louças.",
@@ -74329,18 +74438,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "pros": [
-      "Vai a todas as fontes de calor, inclusive à indução",
-      "Uso no forno conforme o limite da panela, da tampa e do puxador do modelo escolhido",
-      "Garantia vitalícia",
-      "Não precisa de cura antes do primeiro uso"
-    ],
-    "cons": [
-      "Não vai ao micro-ondas",
-      "A garantia não cobre choque térmico nem queda",
-      "A lavagem constante na lava-louças pode desbotar o acabamento do esmalte",
-      "Na Let's Eat It, a Redonda Signature de 20 cm custava R$ 2.329 em 12/10/2026"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Confira as panelas Le Creuset na Let's Eat It e aplique MAUAD no carrinho para 5% OFF, conforme as condições da loja.",
       "label": "Ir para a Let's Eat It",
@@ -74364,7 +74463,10 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-letseatit"
       },
       {
-        "slug": "lets-eat-it-e-confiavel"
+        "slug": "le-creuset-qual-tamanho-escolher"
+      },
+      {
+        "slug": "le-creuset-original-como-saber"
       },
       {
         "slug": "porto-brasil-e-boa"
@@ -116615,7 +116717,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mesa posta de Natal para 6 pessoas com o cupom MAUAD de 5% OFF: o que comprar, quanto custa em três faixas e como montar cada lugar.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/mesa-posta-natal-o-que-precisa-quanto-custa-capa-v2.webp",
@@ -116626,7 +116728,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para seis pessoas, compare três faixas de mesa posta conforme o que você já tem em casa. Na básica, o total inclui um kit opcional de quatro anéis para seis lugares; as faixas 1 e 2 usam os pratos rasos de casa. O cupom MAUAD dá 5% sobre o subtotal, sem frete."
+          "Para seis pessoas, a mesa posta de Natal tem três faixas: a básica e a intermediária partem dos pratos que você já tem, e a completa compra o aparelho inteiro. O [cupom MAUAD](/cupons/letseatit) dá 5% OFF no site da Let's Eat It, em todas as formas de pagamento."
         ]
       },
       {
@@ -116647,15 +116749,16 @@ export const reviewsData: unknown[] = [
           "Velas: opcionais."
         ],
         "postParagraphs": [
-          "Os três faqueiros de 30 peças servem seis pessoas com cinco talheres cada, mas cada um traz tipos diferentes. O Avalon Wolff (R$ 383,90) tem garfo de mesa, colher de mesa, faca, colher de chá e garfo de bolo, e não traz colher de sobremesa. O Berna Dourado Wolff (R$ 539,90) tem faca, garfo, garfo de sobremesa, colher de sopa e colher de chá, e também não traz colher de sobremesa. O Laguiole La Maison Luxo Verde (R$ 1.099) tem faca, garfo, colher, colher de sobremesa e garfo de sobremesa, e não traz colher de chá. Os dois Wolff vêm sem estojo.",
-          "O aparelho Porto Brasil de 30 peças (R$ 868) tem seis pratos rasos de 26,5 cm, seis de sobremesa de 19,5 cm, seis pratos fundos de 21,5 cm, seis xícaras e seis pires. São cinco peças por pessoa. Ele não traz talheres nem travessas."
+          "Os três faqueiros de 30 peças servem seis pessoas com cinco talheres cada, mas cada um traz tipos diferentes. O [Avalon Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (R$ 383,90) tem garfo de mesa, colher de mesa, faca, colher de chá e garfo de bolo, e não traz colher de sobremesa. O [Berna Dourado Wolff](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-30-pecas-inox-dourado?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (R$ 539,90) tem faca, garfo, garfo de sobremesa, colher de sopa e colher de chá, e também não traz colher de sobremesa. O [Laguiole La Maison Luxo Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (R$ 1.099, em pré-venda) tem faca, garfo, colher, colher de sobremesa e garfo de sobremesa, e não traz colher de chá. Os dois Wolff vêm sem estojo.",
+          "O aparelho Porto Brasil de 30 peças ([Bio Oceano](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 798, em pré-venda) tem seis pratos rasos, seis de sobremesa, seis fundos, seis xícaras e seis pires. São cinco peças por pessoa. Ele não traz talheres nem travessas."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/mesa-posta-natal-faqueiro-avalon-wolff.webp",
             "alt": "Garfo do faqueiro Avalon da Wolff sobre guardanapo azul com anel prateado, ao lado de um prato",
             "caption": "Faqueiro Avalon, 30 peças, Wolff. Imagem: Let's Eat It.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -116672,44 +116775,36 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "1, básica",
-              "R$ 1.019,90",
-              "R$ 968,91",
-              "R$ 169,98 / R$ 161,49",
-              "Faqueiro Avalon, taças Bohemia Magnum, centro Duna, velas e um kit opcional com 4 anéis"
+              "R$ 1.105,10",
+              "R$ 1.049,84",
+              "R$ 184,18 / R$ 174,97",
+              "Faqueiro Avalon, taças Bohemia Magnum, guardanapo Oliva, centro Duna, velas verdes e um kit opcional com 4 anéis"
             ],
             [
               "2, intermediária",
-              "R$ 2.138,32",
-              "R$ 2.031,40",
-              "R$ 356,39 / R$ 338,57",
+              "R$ 2.203,90",
+              "R$ 2.093,70",
+              "R$ 367,32 / R$ 348,95",
               "Faqueiro Berna Dourado, sousplat fio ouro, anéis Floratta, taças de champanhe e vinho"
             ],
             [
               "3, completa",
-              "R$ 5.250,69",
-              "R$ 4.988,16",
-              "R$ 875,12 / R$ 831,36",
-              "Aparelho Porto Brasil 30 peças, faqueiro Laguiole Verde, centro Crescens, Voluspa"
+              "R$ 5.099,69",
+              "R$ 4.844,71",
+              "R$ 849,95 / R$ 807,45",
+              "Aparelho Porto Brasil 30 peças, faqueiro Laguiole Verde, centro Crescens, vela Voluspa"
             ]
-          ]
+          ],
+          "caption": "Preços de venda lidos em 22/11, sem frete."
         },
         "postParagraphs": [
           "Os preços são de venda e mudam com promoção. Os totais não incluem frete, que é calculado por CEP. O cupom MAUAD dá 5% sobre o subtotal e vale em todas as formas de pagamento. Na faixa 1, o kit de anéis cobre só quatro lugares; para os seis, some R$ 69,90 por kit extra."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
-            "alt": "Quadro com as três faixas da mesa posta de Natal para seis pessoas: R$ 1.019,90, R$ 2.138,32 e R$ 5.250,69, com o valor com o cupom MAUAD e por pessoa",
-            "caption": "As três faixas, sem frete. A faixa básica inclui um kit opcional de 4 anéis para seis lugares. Quadro do Em Casa com Cecília.",
-            "objectFit": "contain",
-            "aspectRatio": 1.7778
-          }
         ]
       },
       {
         "heading": "Faixa 1: mesa básica para seis pessoas",
         "paragraphs": [
-          "A faixa básica custa R$ 1.019,90 sem cupom, ou R$ 968,91 com o cupom MAUAD (5% sobre o subtotal, confira no checkout). São R$ 169,98 por pessoa sem o cupom, ou R$ 161,49 com ele."
+          "A faixa básica custa R$ 1.105,10 sem cupom, ou R$ 1.049,84 com o cupom MAUAD (5% sobre o subtotal, confira no checkout). São R$ 184,18 por pessoa sem o cupom, ou R$ 174,97 com ele."
         ],
         "comparisonTable": {
           "headers": [
@@ -116722,49 +116817,49 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Sousplat",
-              "Sousplat Liso Verde 33 cm, Wolff",
+              "[Sousplat Liso Verde 33 cm, Wolff](https://letseatit.com.br/products/sousplat-liso-verde-33cm-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6",
               "R$ 21,90",
               "R$ 131,40"
             ],
             [
               "Guardanapo",
-              "Guardanapo de Tecido Eco Riley 45 x 45 cm, Copa&Cia",
+              "[Guardanapo 100% Algodão Bordado Oliva, Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6",
-              "R$ 21,80",
-              "R$ 130,80"
+              "R$ 36,00",
+              "R$ 216,00"
             ],
             [
               "Anel (opcional, kit de 4)",
-              "Kit 4 Anéis Traccia Vermelho, Copa&Cia",
+              "[Kit 4 Anéis Traccia Vermelho, Copa&Cia](https://letseatit.com.br/products/kit-4-aneis-de-guardanapo-traccia-vermelho-copa-cia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 69,90",
               "R$ 69,90"
             ],
             [
               "Taças de vinho",
-              "Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml",
+              "[Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-tinto-em-cristal-bohemia-magnum-740ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 149,90",
               "R$ 149,90"
             ],
             [
               "Talheres",
-              "Faqueiro 30 Peças Aço Inox Avalon, Wolff",
+              "[Faqueiro 30 Peças Aço Inox Avalon, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 383,90",
               "R$ 383,90"
             ],
             [
               "Centro de mesa",
-              "Centro de Mesa Duna Retangular com Pés, Grillo",
+              "[Centro de Mesa Duna Retangular com Pés, Grillo](https://letseatit.com.br/products/centro-de-mesa-duna-retangular-em-madeira-natural-com-pes?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 74,00",
               "R$ 74,00"
             ],
             [
               "Velas",
-              "Conjunto 3 Velas Natal Parafina Verde, BTC Decor",
+              "[Conjunto 3 Velas Decorativas Natal Parafina Verde, BTC Decor](https://letseatit.com.br/products/conjunto-3-velas-decorativas-natal-parafina-verde?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 80,00",
               "R$ 80,00"
@@ -116774,7 +116869,7 @@ export const reviewsData: unknown[] = [
               "",
               "",
               "",
-              "R$ 1.019,90"
+              "R$ 1.105,10"
             ]
           ]
         },
@@ -116786,7 +116881,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Faixa 2: mesa intermediária, com o tema Natal opcional",
         "paragraphs": [
-          "Em 20/10/2026, a faixa intermediária custava R$ 2.138,32 sem cupom, ou R$ 2.031,40 com o cupom MAUAD. São R$ 356,39 por pessoa sem o cupom, ou R$ 338,57 com ele."
+          "A faixa intermediária custa R$ 2.203,90 sem cupom, ou R$ 2.093,70 com o cupom MAUAD. São R$ 367,32 por pessoa sem o cupom, ou R$ 348,95 com ele."
         ],
         "comparisonTable": {
           "headers": [
@@ -116799,63 +116894,63 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Sousplat",
-              "Sousplat Cristal Thin Edge Fio Ouro 33 cm, Wolff",
+              "[Sousplat Cristal Thin Edge Fio Ouro 33 cm, Wolff](https://letseatit.com.br/products/sousplat-cristal-thin-edge-fio-ouro-33cm-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6",
               "R$ 77,90",
               "R$ 467,40"
             ],
             [
               "Guardanapo",
-              "Guardanapo 100% Algodão Bordado Oliva, Decortextil",
+              "[Guardanapo 100% Algodão Bordado Oliva, Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6",
               "R$ 36,00",
               "R$ 216,00"
             ],
             [
               "Anéis",
-              "Jogo 4 Anéis Floratta Branco, Wolff",
+              "[Jogo 4 Anéis Floratta Branco, Wolff](https://letseatit.com.br/products/jogo-4-aneis-para-guardanapos-floratta-branco-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "2 jogos",
               "R$ 97,90",
               "R$ 195,80"
             ],
             [
               "Taça de champanhe",
-              "Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia",
+              "[Jogo 6 Taças para Champanhe em Cristal Bohemia Eva 190 ml](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-eva-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
-              "R$ 128,42",
-              "R$ 128,42"
+              "R$ 246,90",
+              "R$ 246,90"
             ],
             [
               "Taça de vinho",
-              "Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml",
+              "[Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-tinto-em-cristal-bohemia-magnum-740ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 149,90",
               "R$ 149,90"
             ],
             [
               "Talheres",
-              "Faqueiro 30 Peças Aço Inox Berna Dourado, Wolff",
+              "[Faqueiro 30 Peças Aço Inox Berna Dourado, Wolff](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-30-pecas-inox-dourado?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 539,90",
               "R$ 539,90"
             ],
             [
               "Pratos de sobremesa",
-              "Jogo 6 Pratos de Sobremesa Jingle Bells 21 cm, Alleanza",
+              "[Jogo 6 Pratos Sobremesa Cerâmica Desejo de Natal 21 cm, Alleanza](https://letseatit.com.br/products/jogo-6-pratos-sobremesa-ceramica-desejo-de-natal-21cm-alleanza?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
-              "R$ 214,90",
-              "R$ 214,90"
+              "R$ 234,00",
+              "R$ 234,00"
             ],
             [
               "Centro de mesa",
-              "Centro de Mesa Duna Redonda com Pés, Grillo",
+              "[Centro de Mesa Duna Retangular com Pés, Grillo](https://letseatit.com.br/products/centro-de-mesa-duna-retangular-em-madeira-natural-com-pes?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
-              "R$ 146,00",
-              "R$ 146,00"
+              "R$ 74,00",
+              "R$ 74,00"
             ],
             [
               "Velas",
-              "Conjunto 3 Velas Natal Parafina Verde, BTC Decor",
+              "[Conjunto 3 Velas Decorativas Natal Parafina Verde, BTC Decor](https://letseatit.com.br/products/conjunto-3-velas-decorativas-natal-parafina-verde?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 80,00",
               "R$ 80,00"
@@ -116865,20 +116960,20 @@ export const reviewsData: unknown[] = [
               "",
               "",
               "",
-              "R$ 2.138,32"
+              "R$ 2.203,90"
             ]
           ]
         },
         "postParagraphs": [
           "Os pratos rasos ficam de casa, como na faixa 1. Os guardanapos de algodão pedem lavagem à mão a 40 °C, sem lavagem a seco, como avisa a página do produto. O Berna não traz colher de sobremesa, então ela é a peça a completar.",
-          "O tema Natal é opcional e não entra no total acima. Há dois itens. O sousplat Noite de Brinquedos 34 cm, da Scalla (R$ 254,90 cada, vendido avulso), tem borda ondulada e padrão geométrico vermelho e dourado, segundo a descrição. Para seis, são R$ 1.529,40. O prato de sobremesa Soldadinhos Filete Ouro 21 cm, da Alleanza, vem em jogo de seis por R$ 564,00. Como tem filete de ouro, não vai ao micro-ondas nem à lava-louças: lave à mão.",
+          "O tema Natal é opcional e não entra no total acima. Há dois itens. O [sousplat Noite de Brinquedos 34 cm, da Scalla](https://letseatit.com.br/collections/mesa-posta?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (R$ 254,90 cada, vendido avulso), tem borda ondulada e padrão geométrico vermelho e dourado, segundo a descrição. Para seis, são R$ 1.529,40. O [prato de sobremesa Soldadinhos Filete Ouro 21 cm, da Alleanza](https://letseatit.com.br/collections/mesa-posta?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), vem em jogo de seis por R$ 564,00. Como tem filete de ouro, não vai ao micro-ondas nem à lava-louças: lave à mão.",
           "Se a mesa é presente para quem cozinha, o [guia de presente de Natal para quem gosta de cozinhar](/reviews/presente-natal-quem-gosta-de-cozinhar) reúne outras ideias."
         ]
       },
       {
         "heading": "Faixa 3: o que vem no conjunto completo",
         "paragraphs": [
-          "Os preços desta faixa são de venda na Let's Eat It e mudam com promoção. Para seis pessoas, a faixa 3 soma R$ 5.250,69 sem frete. Mais da metade desse valor está em três peças: o aparelho de jantar, o faqueiro Laguiole e o centro de mesa. Por isso vale olhar item por item."
+          "Os preços desta faixa são de venda na Let's Eat It e mudam com promoção. Para seis pessoas, a faixa 3 soma R$ 5.099,69 sem frete. Mais da metade desse valor está em três peças: o aparelho de jantar, o faqueiro Laguiole e o centro de mesa. Por isso vale olhar item por item."
         ],
         "comparisonTable": {
           "headers": [
@@ -116891,104 +116986,96 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Aparelho de jantar",
-              "Aparelho de Jantar Stoneware Orgânico Arauco/Greenery 30 peças, Porto Brasil",
+              "[Aparelho de Jantar Stoneware Orgânico Bio Oceano 30 peças, Porto Brasil (pré-venda)](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
-              "R$ 868,00",
-              "R$ 868,00"
+              "R$ 798,00",
+              "R$ 798,00"
             ],
             [
               "Sousplat",
-              "Sousplat Cerâmica Savana 33 cm, Maison Blanche",
+              "[Sousplat Cerâmica Dolce Mare Verde 34,5 cm, Maison Blanche](https://letseatit.com.br/products/sousplat-ceramica-dolce-mare-verde-34-5cm-maison-blanche?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6",
               "R$ 121,90",
               "R$ 731,40"
             ],
             [
               "Guardanapo",
-              "Guardanapo 100% Algodão Bordado Duplo Terracota, Decortextil",
+              "[Guardanapo 100% Algodão Bordado Duplo Terracota, Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-duplo-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6",
               "R$ 57,00",
               "R$ 342,00"
             ],
             [
               "Anéis",
-              "Kit 4 Anéis Baia do Sancho, Copa&Cia",
-              "2",
-              "R$ 169,90",
-              "R$ 339,80"
+              "[Jogo 4 Anéis Floratta Branco, Wolff](https://letseatit.com.br/products/jogo-4-aneis-para-guardanapos-floratta-branco-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "2 jogos",
+              "R$ 97,90",
+              "R$ 195,80"
             ],
             [
               "Taça de água",
-              "Jogo 6 Taças para Água em Cristal Bohemia Eva 350 ml",
+              "[Jogo 6 Taças para Água em Cristal Bohemia Eva 350 ml](https://letseatit.com.br/products/jogo-6-tacas-para-agua-em-cristal-bohemia-eva-350ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 243,90",
               "R$ 243,90"
             ],
             [
               "Taça de champanhe",
-              "Jogo 6 Taças para Champanhe em Cristal Bohemia Eva 190 ml",
+              "[Jogo 6 Taças para Champanhe em Cristal Bohemia Eva 190 ml](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-eva-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 246,90",
               "R$ 246,90"
             ],
             [
               "Taça de vinho",
-              "Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml",
+              "[Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-tinto-em-cristal-bohemia-magnum-740ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 149,90",
               "R$ 149,90"
             ],
             [
               "Talheres",
-              "Faqueiro Laguiole La Maison Luxo Verde 30 peças",
+              "[Faqueiro Laguiole La Maison Luxo Verde 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 1.099,00",
               "R$ 1.099,00"
             ],
             [
               "Centro de mesa",
-              "Centro de Mesa Crescens Baixo, BTC Decor",
+              "[Centro de Mesa Crescens Baixo, BTC Decor](https://letseatit.com.br/products/centro-de-mesa-crescens-baixo?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
               "R$ 789,00",
               "R$ 789,00"
             ],
             [
               "Vela",
-              "Vela Voluspa Copo de Vidro Clássico Makassar Ebony e Peach, 60 horas",
+              "[Vela Voluspa Pote de Vidro G Makassar Ebony e Peach, 100 horas](https://letseatit.com.br/products/vela-voluspa-pote-de-vidro-g-makassar-ebony-e-peach-100h?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1",
-              "R$ 440,79",
-              "R$ 440,79"
+              "R$ 503,79",
+              "R$ 503,79"
             ],
             [
               "**Total**",
               "",
               "",
               "",
-              "**R$ 5.250,69**"
+              "**R$ 5.099,69**"
             ]
           ]
         },
         "postParagraphs": [
-          "O aparelho Porto Brasil é a base da mesa. São 30 peças: 6 pratos rasos de 26,5 cm, 6 pratos de sobremesa de 19,5 cm, 6 pratos fundos de 21,5 cm, 6 xícaras de café de 120 ml e 6 pires. Não vêm talheres nem travessas. A página diz que o conjunto serve até seis pessoas com elegância, ou seja, cinco peças por pessoa. Com ele, a faixa 3 não pede pratos de casa, e os talheres vêm do faqueiro.",
-          "Pela ficha, as peças vão à lava-louças, ao forno, ao freezer e ao micro-ondas, com variação térmica de até cerca de 180 °C. Para a leitura da própria marca, veja [a análise sobre a Porto Brasil](/reviews/porto-brasil-e-boa).",
-          "As taças são da Bohemia e vêm em três modelos. A Eva de 350 ml, em cristal transparente, custa R$ 243,90 o jogo de seis e serve para água. A Eva de 190 ml, também em cristal transparente, custa R$ 246,90 e serve para champanhe. Para o vinho, o jogo de seis Magnum de 740 ml, em cristal, custa R$ 149,90.",
-          "O faqueiro Laguiole La Maison Luxo Verde tem 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa. Não traz colher de chá. Pela ficha, a lâmina é de aço inox e o cabo é de ABS. A ficha não diz se pode ir à lava-louças. É a peça de maior preço da faixa.",
-          "O centro de mesa Crescens Baixo, da BTC Decor, é de metal e mármore e custa R$ 789,00. A vela Voluspa de 60 horas tem, segundo a ficha, notas de ébano, pêssego e flor de macieira, e custa R$ 440,79.",
+          "O aparelho Porto Brasil é a base da mesa, hoje em pré-venda: o prazo de envio aparece na página e no checkout. São 30 peças, 6 pratos rasos, 6 de sobremesa, 6 fundos, 6 xícaras de café e 6 pires, sem talheres nem travessas. São cinco peças por pessoa, então a faixa 3 não pede pratos de casa, e os talheres vêm do faqueiro.",
+          "O Arauco/Greenery é da mesma linha do Bio Oceano e esgotou. A ficha dele traz pratos rasos de 26,5 cm, de sobremesa de 19,5 cm e fundos de 21,5 cm, e as peças vão à lava-louças, ao forno, ao freezer e ao micro-ondas, com variação térmica de até cerca de 180 °C. Confira as medidas e os cuidados na página do Oceano. Para a leitura da própria marca, veja [a análise sobre a Porto Brasil](/reviews/porto-brasil-e-boa).",
+          "As taças são da Bohemia e vêm em três modelos. A Eva de 350 ml, em cristal transparente, custa R$ 243,90 o jogo de seis e serve para água. A [Eva de 190 ml](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-eva-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), também em cristal transparente, custa R$ 246,90 e serve para champanhe. Para o vinho, o jogo de seis [Magnum de 740 ml](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-tinto-em-cristal-bohemia-magnum-740ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), em cristal, custa R$ 149,90.",
+          "O faqueiro [Laguiole La Maison Luxo Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa. Não traz colher de chá. Pela ficha, a lâmina é de aço inox e o cabo é de ABS. A ficha não diz se pode ir à lava-louças. É a peça de maior preço da faixa e está em pré-venda.",
+          "O [centro de mesa Crescens Baixo, da BTC Decor](https://letseatit.com.br/products/centro-de-mesa-crescens-baixo?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), é de metal e mármore e custa R$ 789,00. A [vela Voluspa de 100 horas](https://letseatit.com.br/products/vela-voluspa-pote-de-vidro-g-makassar-ebony-e-peach-100h?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 503,79.",
           "Vale o conjunto completo quando a prioridade é comprar tudo de uma vez e manter a mesma linha, sem combinar louça, taça e talher de lojas diferentes. Se a casa já tem pratos brancos, taças e talheres, a faixa 3 traz peças que a mesa pode não precisar, e a faixa 2 ou a 1 podem atender. Dentro da faixa 3, o faqueiro Laguiole é o item mais caro e pode ser trocado por um dos faqueiros Wolff sem mudar a lógica da mesa."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
-            "alt": "Aparelho de jantar Porto Brasil Arauco verde-escuro empilhado, com pratos rasos, fundos, de sobremesa, xícaras e pires",
-            "caption": "Aparelho de jantar Arauco/Greenery, 30 peças, Porto Brasil. Imagem: Let's Eat It.",
-            "objectFit": "square"
-          }
         ]
       },
       {
         "heading": "Como montar a mesa de Natal, passo a passo",
         "paragraphs": [
-          "Nas faixas 1 e 2, o prato raso é o de casa. Na faixa 3, ele vem no aparelho Porto Brasil. A ordem abaixo vale para cada lugar, e as seis cadeiras seguem o mesmo padrão. A imagem desta seção é um desenho da posição, não uma foto de mesa nossa."
+          "Nas faixas 1 e 2, o prato raso é o de casa. Na faixa 3, ele vem no aparelho Porto Brasil. A ordem abaixo vale para cada lugar, e as seis cadeiras seguem o mesmo padrão. A imagem desta seção é um desenho da posição."
         ],
         "bullets": [
           "Ponha o sousplat no centro de cada lugar, com a borda a uns dois dedos da beira da mesa.",
@@ -117011,24 +117098,51 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Casa Let's: dá para ver a mesa montada antes de comprar",
         "paragraphs": [
-          "O site da Let's Eat It diz que a Casa Let's monta mesa posta com a equipe, e a visita não precisa de agendamento. Antes de ir, confirme o endereço, o horário e se a montagem ainda é oferecida."
+          "A loja física fica na Av. Pacaembu, 1105, em São Paulo, e funciona de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h. O site da Let's Eat It diz que a Casa Let's monta mesa posta com a equipe, e a visita não precisa de agendamento. Antes de ir, confirme o horário e se a montagem ainda é oferecida.",
+          "A curadoria da Casa Let's é rotativa e não reúne o site inteiro. O cupom MAUAD não vale lá: ele é do site oficial. Na loja física, a compra presencial tem 15% no caixa, exceto Le Creuset e Trussardi."
         ]
       },
       {
         "heading": "Cupom MAUAD e prazo para o Natal",
         "paragraphs": [
-          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix. Confira no checkout como os dois descontos aparecem. As condições do cupom estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
-          "A conta é simples: 5% sobre o subtotal, sem frete. Na faixa 3, R$ 5.250,69 menos R$ 262,53 dão R$ 4.988,16, ou R$ 831,36 por pessoa para seis pessoas. O frete é calculado à parte, pelo CEP.",
-          "Pela política padrão de frete da loja, a entrega leva de 5 a 10 dias úteis depois do despacho, e o pedido é separado no mesmo dia ou no dia útil seguinte. A data-limite para pedir está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit), e no checkout o prazo aparece para o seu CEP antes do pagamento."
+          "O cupom MAUAD dá 5% OFF no site oficial da Let's Eat It. Ele vale em todas as formas de pagamento e soma com promoções, pré-venda e o desconto do Pix. Cole o código no campo \"Código de desconto\" do checkout e confira como os descontos aparecem. As condições estão na [página do cupom Let's Eat It](/cupons/letseatit), e o passo a passo está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "A conta é simples: 5% sobre o subtotal, sem frete. Na faixa 3, R$ 5.099,69 menos R$ 254,98 dão R$ 4.844,71, ou R$ 807,45 por pessoa para seis pessoas. O frete é calculado à parte, pelo CEP.",
+          "Os prazos que a loja publica vão de 3 a 5 dias úteis na capital de São Paulo a 7 a 12 dias úteis no Norte e no Nordeste, depois da confirmação do pagamento, e podem mudar em promoção. Itens em pré-venda, como o Bio Oceano e o Laguiole verde, têm prazo de envio próprio. A data-limite para pedir está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit), e no checkout o prazo aparece para o seu CEP antes do pagamento."
+        ]
+      },
+      {
+        "heading": "Qual faixa escolher",
+        "paragraphs": [
+          "Se os pratos rasos, as taças e os talheres já estão em casa, a faixa 1 monta a mesa de Natal por R$ 1.105,10, ou R$ 1.049,84 com o MAUAD. A faixa 2 sobe para um faqueiro dourado, sousplat fio ouro e taças de champanhe, e fecha em R$ 2.203,90. A faixa 3, a partir de R$ 5.099,69, serve para quem prefere comprar tudo de uma vez e manter uma linha só, sem combinar louça, taça e talher de lojas diferentes.",
+          "O faqueiro é o item que mais muda o preço: o Avalon de 30 peças custa R$ 383,90, e o Laguiole, R$ 1.099."
+        ],
+        "emphasis": "Para seis pessoas que já têm os pratos, a faixa 1 monta a mesa de Natal inteira por menos de um quarto do que custa a completa.",
+        "links": [
+          {
+            "label": "Ver o faqueiro Avalon na Let's Eat It",
+            "href": "https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o aparelho Porto Brasil Bio Oceano na Let's Eat It",
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a mesa posta na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/mesa-posta?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Quantas peças por pessoa uma mesa de Natal precisa? Para seis pessoas, o aparelho Porto Brasil dá cinco peças por pessoa (raso, sobremesa, fundo, xícara e pires), e o faqueiro de 30 peças dá cinco talheres por pessoa. Somam-se a isso uma taça de água, uma de vinho, um guardanapo e um sousplat.",
           "Dá para montar a mesa sem sousplat? Dá. O sousplat é a base decorativa, e a mesa funciona sem ele. Na faixa 1, os seis sousplats de plástico Wolff custam R$ 131,40, e tirá-los reduz esse valor sem mudar o restante da lista.",
           "Vale comprar o faqueiro completo? Vale se a mesa precisa de talheres para seis pessoas, porque o faqueiro de 30 peças já traz cinco talheres por pessoa. Entre os três faqueiros de 30 peças, o Avalon é o mais barato, com R$ 383,90. O Berna Dourado custa R$ 539,90 e troca o garfo de bolo pelo garfo de sobremesa. O Laguiole custa R$ 1.099,00 e é da linha luxo, com lâmina de aço inox e cabo de ABS, segundo a ficha.",
-          "Dá para fazer uma mesa posta de Natal barata? A faixa 1 soma R$ 1.019,90 sem cupom, com sousplat, guardanapo e centro em cores que combinam, talheres completos e os pratos de casa. Na faixa 1, o faqueiro Avalon é o item mais caro, e o centro de mesa Duna retangular custa R$ 74,00."
+          "Dá para fazer uma mesa posta de Natal barata? A faixa 1 soma R$ 1.105,10 sem cupom, com sousplat, guardanapo e centro em cores que combinam, talheres completos e os pratos de casa. Na faixa 1, o faqueiro Avalon é o item mais caro, e o centro de mesa Duna retangular custa R$ 74,00."
         ]
       }
     ],
@@ -117084,7 +117198,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Presente de casamento com o cupom MAUAD de 5% OFF: ideias de Le Creuset, Porto Brasil, taças Bohemia e faqueiros em quatro faixas de preço.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/presente-de-casamento-ideias-por-preco-capa-v2.webp",
@@ -117095,14 +117209,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha uma faixa que caiba no orçamento e uma peça que o casal queira; na Let's Eat It, havia opções nas quatro faixas. Se a casa já tem o básico, prefira completar uma linha que o casal usa; para montar a mesa do zero, confira o aparelho de jantar. O código MAUAD dá 5% no site."
+          "Escolha uma faixa que caiba no orçamento e uma peça que o casal queira: a Let's Eat It tem opções nas quatro faixas, de taças Bohemia a panelas Le Creuset. Casa montada pede complemento; mesa do zero pede aparelho de jantar. O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento."
         ]
       },
       {
         "heading": "Para quem já tem casa montada",
         "paragraphs": [
-          "Com a casa montada, o presente vai para o complemento ou a reposição. As ideias seguem quatro faixas, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com os preços de venda da Let's Eat It em 20/10/2026.",
-          "Quando a casa já tem o básico, o presente pode seguir duas linhas. A primeira é a peça de complemento, algo que a mesa talvez ainda não tenha: a travessa retangular de 26 cm (R$ 529) ou a chaleira de 1,6 L com apito (R$ 929), que a ficha diz poder ir a qualquer fonte de calor, incluindo indução.",
+          "Com a casa montada, o presente vai para o complemento ou a reposição. As ideias seguem quatro faixas, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com os preços de venda da Let's Eat It na última conferência.",
+          "Quando a casa já tem o básico, o presente pode seguir duas linhas. A primeira é a peça de complemento, algo que a mesa talvez ainda não tenha: a [travessa retangular de 26 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (R$ 529) ou a [chaleira Kone de 1,6 L](https://letseatit.com.br/products/chaleira-kone-black-onyx-1-6l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (R$ 503,40, de R$ 839, em seis cores).",
           "A segunda é a peça de reposição. Se o casal já tem uma linha de louça ou de talheres e precisa completar, a conta mais simples é procurar a mesma linha e conferir o tamanho na ficha do produto antes de comprar, porque cada peça tem o seu próprio tamanho e os seus cuidados.",
           "A escolha entre complemento e reposição fica com quem dá o presente."
         ],
@@ -117111,13 +117225,27 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
             "alt": "Travessa retangular Le Creuset Heritage Cotton com um bolo de laranja assado",
             "caption": "Travessa Heritage Cotton 26 cm, Le Creuset. Imagem: Let's Eat It.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           },
           {
             "src": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
             "alt": "Chaleira Le Creuset com apito na cor Azure, sobre uma tábua de madeira",
-            "caption": "Chaleira com apito 1,6 L Azure, Le Creuset. Imagem: Let's Eat It.",
-            "objectFit": "square"
+            "caption": "Chaleira Le Creuset com apito, linha tradicional. Esse modelo esgotou na última conferência; o botão leva à Kone de 1,6 L, disponível. Imagem: Let's Eat It.",
+            "objectFit": "square",
+            "href": "https://letseatit.com.br/products/chaleira-kone-black-onyx-1-6l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a chaleira Kone na Let's Eat It",
+            "href": "https://letseatit.com.br/products/chaleira-kone-black-onyx-1-6l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a travessa Heritage Cotton na Let's Eat It",
+            "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
@@ -117135,28 +117263,28 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Arauco/Greenery](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 868",
-              "R$ 144,67",
-              "Forno, freezer, micro-ondas (a ficha cita cerca de 180°C, pede evitar choque térmico e diz que as alças podem esquentar no micro) e lava-louças."
+              "[Bio Latte](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 778,84 (de R$ 1.298,07), em pré-venda",
+              "R$ 129,81",
+              "Stoneware da Porto Brasil: confira forno, micro-ondas e lava-louças na ficha da peça."
+            ],
+            [
+              "[Bio Oceano](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-oceano-30-pecas-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 798 (de R$ 1.330), em pré-venda",
+              "R$ 133,00",
+              "Stoneware da Porto Brasil: confira forno, micro-ondas e lava-louças na ficha da peça."
             ],
             [
               "[Petroleum/Night Sky](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 868",
-              "R$ 144,67",
+              "R$ 798, em pré-venda",
+              "R$ 133,00",
               "Forno, freezer, micro-ondas e lava-louças, com os mesmos cuidados da linha de stoneware."
-            ],
-            [
-              "[Shimeji Gold (cinza e dourada)](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 2.049,90",
-              "R$ 341,65",
-              "Não vai ao micro-ondas, porque o filete metálico pode danificar a peça; evitar lava-louças para preservar o dourado, e lavar à mão. Forno: ficha não diz."
             ]
           ]
         },
         "postParagraphs": [
-          "A ficha do Arauco/Greenery diz que o aparelho serve até seis pessoas, e por isso a conta por pessoa divide o preço por seis. A ficha do Shimeji Gold traz garantia de 90 dias para defeito e de 12 meses para gretamento.",
-          "Para o uso de cada cor, a diferença está na tabela: a stoneware das duas primeiras vai ao forno, ao freezer, ao micro-ondas e à lava-louças, e a Shimeji Gold é a que tem mais restrições. O [guia da Porto Brasil](/reviews/porto-brasil-e-boa) explica a marca. Para montar a mesa inteira, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra o que precisa e quanto custa."
+          "O aparelho serve até seis pessoas, e por isso a conta por pessoa divide o preço por seis. Os três estão em pré-venda: o prazo de envio fica na página do produto. Os modelos Arauco/Greenery e Shimeji Gold, que apareciam neste guia, esgotaram na última conferência.",
+          "O [guia da Porto Brasil](/reviews/porto-brasil-e-boa) explica o que a marca libera de forno, micro-ondas e lava-louças. Para montar a mesa inteira, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra o que precisa e quanto custa."
         ],
         "images": [
           {
@@ -117164,14 +117292,27 @@ export const reviewsData: unknown[] = [
             "alt": "Pratos e xícaras de stoneware Porto Brasil em tom claro, empilhados sobre a mesa",
             "caption": "Stoneware Porto Brasil. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Bio Latte de 30 peças na Let's Eat It",
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Porto Brasil na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Le Creuset: o que dá para comprar por faixa",
         "paragraphs": [
-          "A Le Creuset tem presente em toda faixa, do moedor de pimenta à panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
+          "A Le Creuset tem presente em toda faixa, da caneca de R$ 129 à panela de R$ 2.316,75. Em novembro, várias cores têm 25% de desconto sobre o preço de tabela. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
         ],
         "comparisonTable": {
           "headers": [
@@ -117183,15 +117324,21 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Até R$ 300",
-              "[Moedor de Pimenta Black Onyx](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 295,20",
-              "Medida de 21 x 6 cm; a moagem se ajusta por um pino no topo. Forno, micro-ondas e lava-louças: ficha não diz."
-            ],
-            [
-              "Até R$ 300",
               "[Caneca Cerâmica Cotton 100 ml](https://letseatit.com.br/products/caneca-ceramica-cotton-100ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 129",
               "Cerâmica premium esmaltada; pode ir à lava-louças. Forno e micro-ondas: ficha não diz."
+            ],
+            [
+              "Até R$ 300",
+              "[Mini Cocotte Cerâmica Cotton 250 ml, 10 cm](https://letseatit.com.br/products/mini-cocotte-ceramica-cotton-250ml-10cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 239",
+              "A ficha diz que vai ao forno, ao micro-ondas, ao congelador e à lava-louças."
+            ],
+            [
+              "R$ 300 a 700",
+              "[Chaleira Kone 1,6 L](https://letseatit.com.br/products/chaleira-kone-black-onyx-1-6l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 503,40 (de R$ 839)",
+              "Em seis cores. Material, indução e lava-louças: confira na página do produto."
             ],
             [
               "R$ 300 a 700",
@@ -117201,32 +117348,32 @@ export const reviewsData: unknown[] = [
             ],
             [
               "R$ 700 a 1.500",
+              "[Grelha Quadrada Signature Azure 26 cm](https://letseatit.com.br/products/grelha-quadrada-signature-azure-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 1.394,25 (de R$ 1.859)",
+              "Ferro fundido; superfície antiaderente; ondulações que escorrem a gordura; bicos nas duas laterais. Forno e indução: ficha não diz."
+            ],
+            [
+              "R$ 700 a 1.500",
               "[Skillet Coração Tradition Vermelho 26 cm](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.449",
               "Ferro fundido esmaltado, com interior vitrificado; compatível com todos os cooktops e forno até 260 °C. Lava-louças: ficha não diz."
             ],
             [
-              "R$ 700 a 1.500",
-              "[Chaleira Tradicional com Apito 1,6 L Azure Blue](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 929",
-              "Aço carbono esmaltado; a ficha diz que serve em todas as fontes de calor, incluindo indução. Tem apito e marcação de nível. Forno, micro-ondas e lava-louças: ficha não diz."
-            ],
-            [
               "Acima de R$ 1.500",
               "[Panela Redonda Signature Azure 2,4 L, 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 2.329",
+              "R$ 1.746,75 (de R$ 2.329)",
               "Ferro fundido com esmalte interno vitrificado; a ficha lista vitrocerâmico, indução, elétrico, gás, radiante, grill e forno. Pode ir à lava-louças."
             ],
             [
               "Acima de R$ 1.500",
               "[Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 3.089",
+              "R$ 2.316,75 (de R$ 3.089)",
               "Ferro fundido com esmalte interno vitrificado; a ficha lista vitrocerâmico, indução, elétrico, gás, radiante, grill e forno. Pode ir à lava-louças. Antes de usar no forno, confirme no manual desta versão o limite da tampa e do pegador dourado."
             ]
           ]
         },
         "postParagraphs": [
-          "A ficha da skillet diz que ela é o ferro fundido mais leve por litro do mercado. É uma afirmação da marca, sem comparação publicada na ficha. Para a leitura da marca, veja a [análise sobre a Le Creuset](/reviews/le-creuset-vale-a-pena)."
+          "A ficha da skillet diz que ela é o ferro fundido mais leve por litro do mercado. É uma afirmação da marca, sem comparação publicada na ficha. Para a leitura da marca, veja a [análise sobre a Le Creuset](/reviews/le-creuset-vale-a-pena). O moedor de pimenta Black Onyx e a chaleira tradicional com apito, que apareciam neste guia, esgotaram na última conferência."
         ],
         "images": [
           {
@@ -117234,14 +117381,22 @@ export const reviewsData: unknown[] = [
             "alt": "Panela redonda Le Creuset Signature na cor Cotton, de lado e vista de cima",
             "caption": "Panela redonda Signature, Le Creuset. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Taças Bohemia: cristal ecológico ou cristal",
         "paragraphs": [
-          "A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis, o preço vai de R$ 128,42 a R$ 884,90."
+          "A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis, o preço vai de R$ 144,90 a R$ 884,90."
         ],
         "comparisonTable": {
           "headers": [
@@ -117252,22 +117407,16 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Taças Champagne Crex Optic 270 ml](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Taças para Vinho Branco Crex Optic 480 ml](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
-              "R$ 128,42",
-              "Não vai à lava-louças, micro-ondas nem freezer; lavar à mão."
+              "R$ 144,90",
+              "Lava-louças e micro-ondas: confira na página; a Crex Optic de 270 ml trazia restrição de lava-louças, micro-ondas e freezer."
             ],
             [
               "[Taças para Vinho Tinto Magnum 740 ml](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-tinto-em-cristal-bohemia-magnum-740ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
               "R$ 149,90",
               "Altura de 25 cm. Lava-louças e micro-ondas: ficha não diz."
-            ],
-            [
-              "[Copos Baixos Sophia 340 ml](https://letseatit.com.br/products/jogo-6-copos-baixos-cristal-bohemia-sophia-340ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "Cristal ecológico",
-              "R$ 154,90",
-              "Altura de 10 cm. Lava-louças e micro-ondas: ficha não diz."
             ],
             [
               "[Taças para Champanhe Eva 190 ml](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-eva-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
@@ -117282,12 +117431,6 @@ export const reviewsData: unknown[] = [
               "Altura de 27,5 cm. Cuidados: ficha não diz."
             ],
             [
-              "[Taças para Champanhe Angela 190 ml, borda dourada](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-com-borda-dourada-bohemia-angela-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "Cristal com borda dourada",
-              "R$ 499",
-              "Altura de 24,8 cm. Cuidados: ficha não diz."
-            ],
-            [
               "[Taças para Vinho Angela 350 ml, borda dourada](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-em-cristal-com-borda-dourada-bohemia-angela-350ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal com borda dourada",
               "R$ 884,90",
@@ -117296,8 +117439,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Entre cristal ecológico e cristal, a escolha é do casal e do orçamento: as páginas não comparam os dois materiais. A Crex Optic é a única com restrição escrita de lava-louças e micro-ondas, por isso quem quer uma taça que vá à máquina precisa ler a página de cada modelo antes de comprar.",
-          "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (dados de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. A loja embala porcelana, cristal, vidro e cerâmica um a um, e repõe de graça a peça que chega quebrada, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
+          "Entre cristal ecológico e cristal, a escolha é do casal e do orçamento: as páginas não comparam os dois materiais. Quem quer uma taça que vá à máquina precisa ler a página de cada modelo antes de comprar, porque as fichas trazem os cuidados de forma desigual.",
+          "No Reclame Aqui, o produto \"Taças\" aparece entre os principais problemas da loja, com 19,91%, na aba geral do perfil (dados de até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. A loja embala porcelana, cristal, vidro e cerâmica um a um, e repõe de graça a peça que chega quebrada, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber e fale com o SAC pelo WhatsApp (11) 96570-0375 ou por suporte@letseatit.com.br, com o número do pedido."
+        ],
+        "links": [
+          {
+            "label": "Ver as taças na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/tacas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -117328,7 +117478,7 @@ export const reviewsData: unknown[] = [
             [
               "[LaGuiole La Maison Luxo Verde, 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
-              "R$ 1.099",
+              "R$ 1.099 (pré-venda)",
               "Lâmina de aço inox e cabo de ABS. Forno, micro-ondas e lava-louças: ficha não diz."
             ],
             [
@@ -117338,53 +117488,80 @@ export const reviewsData: unknown[] = [
               "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
             ],
             [
-              "[Wolff Pisa aço inox, 130 peças](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-pisa-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "As 101 peças da linha, mais 12 facas de peixe, 12 garfos de peixe, garfo e espátula de peixe, concha de molho, faca e garfo de assado",
-              "R$ 1.699",
-              "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
+              "[Wolff Berna aço inox, 101 peças](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-101-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "101 peças",
+              "R$ 1.698",
+              "Aço inox. Cuidados e lista de peças: confira na ficha."
+            ],
+            [
+              "[Wolff Avalon Dourado aço inox, 130 peças](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "130 peças",
+              "R$ 2.769,90 (de R$ 4.616,50)",
+              "Aço inox dourado. Cuidados e lista de peças: confira na ficha."
             ]
           ]
         },
         "postParagraphs": [
-          "Os três faqueiros Wolff têm a mesma recomendação de cuidado na ficha. Se a mesa precisa só de talheres para seis pessoas, o faqueiro de 30 peças cobre. Os de 101 e 130 peças servem para quem quer talheres de serviço e de peixe."
+          "Os faqueiros Wolff Avalon e Berna de 30 peças e o Avalon de 101 peças têm a mesma recomendação de cuidado na ficha. Se a mesa precisa só de talheres para seis pessoas, o faqueiro de 30 peças cobre. Os de 101 e 130 peças servem para quem quer talheres de serviço. O Wolff Pisa de 130 peças, que estava nesta faixa, esgotou na última conferência; o Berna de 101 peças fica na mesma faixa de preço."
+        ],
+        "links": [
+          {
+            "label": "Ver os faqueiros na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/faqueiros?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Frete e prazo de entrega",
         "paragraphs": [
-          "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A página de frete da loja não traz faixa de frete grátis, mas a política padrão cita frete grátis acima de R$ 1.000 em produtos Le Creuset e Zwilling; confirme no carrinho. Pela página regional, o prazo vai de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, contados da confirmação do pagamento. Outra política da loja usa outra contagem, então, para um presente com data, confirme a previsão do pedido antes de pagar. O [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit) ajuda a planejar a compra, sem garantir data de chegada."
+          "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A página de frete publica os prazos em dias úteis, contados da confirmação do pagamento: 3 a 5 na capital paulista, 4 a 7 no interior e na Grande SP, 5 a 8 no Sul e no Sudeste, 6 a 9 no Centro-Oeste e 7 a 12 no Norte e no Nordeste; em promoção, podem mudar. Para um presente com data, confirme a previsão do pedido antes de pagar. O [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit) ajuda a planejar a compra, sem garantir data de chegada."
         ]
       },
       {
         "heading": "Cupom MAUAD: a conta de um presente",
         "paragraphs": [
-          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout como os dois aparecem. As condições da loja estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar, no [guia de como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
-          "A conta é 5% sobre o subtotal, sem frete. Tome o jogo de taças Crex Optic, de R$ 128,42: 5% são R$ 6,42, e o valor fica em R$ 122,00 antes do frete. Quem paga no Pix ainda tem o desconto de 5% do Pix nos produtos que o oferecem, e o valor final aparece no checkout."
-        ]
-      },
-      {
-        "heading": "Dividir o presente com outros convidados",
-        "paragraphs": [
-          "Uma peça de faixa alta, como o faqueiro de 101 peças ou uma panela, pode ser dividida entre alguns convidados. Combine antes quem leva o quê e quanto cada um paga, para não chegar três jogos iguais de taças. Não encontramos na loja uma função de presente em grupo ou vaquinha; a divisão é combinada entre vocês, fora do site."
+          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout como os dois aparecem. Cole o código no campo “Código de desconto” do resumo do pedido. As condições da loja estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar, no [guia de como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "A conta é 5% sobre o subtotal, sem frete. Tome a chaleira Kone, de R$ 503,40: 5% são R$ 25,17, e o valor fica em R$ 478,23 antes do frete. Quem paga no Pix ainda tem o desconto de 5% do Pix nos produtos que o oferecem, e o valor final aparece no checkout."
+        ],
+        "links": [
+          {
+            "label": "Ir para a Let's Eat It",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Qual faixa escolher",
         "paragraphs": [
-          "A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu. Até R$ 300 ficam as peças de complemento, como o ramekin, as taças Crex Optic e o moedor de pimenta; de R$ 300 a 700, o jogo de pratos, os faqueiros de 30 peças e a travessa; de R$ 700 a 1.500, o aparelho de jantar, a chaleira e o skillet; acima de R$ 1.500, o faqueiro de 130 peças, o aparelho Shimeji Gold e as panelas Le Creuset.",
-          "Se o casal já tem a casa montada, a escolha é entre complemento e reposição. Uma peça de faixa alta pode ser dividida entre convidados, combinada fora do site. O cupom MAUAD dá 5% sobre o subtotal, sem frete, em todas as formas de pagamento, e soma com o Pix."
+          "A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu. Até R$ 300 ficam as peças de complemento, como o ramekin, a mini cocotte e as taças Bohemia; de R$ 300 a 700, o jogo de pratos chapéu, os faqueiros de 30 peças, a travessa e a chaleira Kone; de R$ 700 a 1.500, o aparelho de jantar de 30 peças, a grelha e a skillet Le Creuset; acima de R$ 1.500, os faqueiros de 101 e 130 peças e as panelas Le Creuset.",
+          "Se o casal já tem a casa montada, a escolha é entre complemento e reposição. Uma peça de faixa alta, como o faqueiro de 101 peças ou uma panela, pode ser dividida entre convidados: combinem antes quem leva o quê, para não chegar três jogos iguais de taças. Não encontramos na loja uma função de presente em grupo, então a divisão é combinada fora do site. O cupom MAUAD dá 5% sobre o subtotal, sem frete, em todas as formas de pagamento, e soma com o Pix."
+        ],
+        "emphasis": "Para a maioria dos casais, a faixa de R$ 300 a 700 acerta: a travessa Heritage ou o faqueiro de 30 peças completam a casa sem pesar; as panelas Le Creuset ficam para quando os convidados dividem o valor.",
+        "links": [
+          {
+            "label": "Ver os presentes na Let's Eat It",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Cupom da Let's Eat It",
+            "href": "/cupons/letseatit"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, inclusive nas peças da Le Creuset. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
           "A loja tem lista de casamento? A página de lista de presentes estava sem itens. Confira no site antes de contar com essa função; se ela não estiver disponível, combine a peça diretamente com o casal.",
           "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
-          "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 128,42; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Moedor de Pimenta Black Onyx, Le Creuset](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 295,20.",
-          "O que dar de presente de casamento de R$ 300 a 700? [Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-pratos-chapeu-organico-preto-matte-450ml-28x6-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 322,90; [Jogo 6 Taças Champagne Ardea Verde Selva 220 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 329,90; [Faqueiro Aço Inox Avalon 30 peças, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 383,90; e [Travessa Retangular Heritage Cotton 26 cm, Le Creuset](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 529,00.",
-          "O que dar de presente de casamento de R$ 700 a 1.500? [Aparelho de Jantar Arauco/Greenery 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 868,00; [Chaleira Tradicional com Apito 1,6 L Azure Blue, Le Creuset](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 929,00; [Faqueiro LaGuiole La Maison Luxo Verde 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.099,00; e [Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.449,00.",
-          "O que dar de presente de casamento acima de R$ 1.500? [Faqueiro Aço Inox Pisa 130 peças, Wolff](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-pisa-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.699,00; [Aparelho de Jantar Shimeji Gold 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.049,90; [Panela Redonda Signature Azure 2,4 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.329,00; e [Panela Redonda Signature Rhone 5,3 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 3.089,00.",
-          "Vale dar aparelho de jantar? Pode valer quando o casal quer começar a mesa do zero ou trocar a louça, porque o conjunto completo chega de uma vez. Antes de escolher, confira o que a ficha da peça permite: o Shimeji Gold, por exemplo, não vai ao micro-ondas.",
+          "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Vinho Branco Crex Optic 480 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 144,90; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Mini Cocotte Cerâmica Cotton 250 ml, Le Creuset](https://letseatit.com.br/products/mini-cocotte-ceramica-cotton-250ml-10cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 239,00.",
+          "O que dar de presente de casamento de R$ 300 a 700? [Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-pratos-chapeu-organico-preto-matte-450ml-28x6-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 322,90; [Jogo 6 Taças Champanhe Ardea Verde Selva 220 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 329,90; [Faqueiro Aço Inox Avalon 30 peças, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 383,90; e [Travessa Retangular Heritage Cotton 26 cm, Le Creuset](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 529,00.",
+          "O que dar de presente de casamento de R$ 700 a 1.500? [Aparelho de Jantar Bio Latte 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 778,84 (em pré-venda); [Faqueiro LaGuiole La Maison Luxo Verde 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.099,00 (em pré-venda); [Grelha Quadrada Signature Azure 26 cm, Le Creuset](https://letseatit.com.br/products/grelha-quadrada-signature-azure-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.394,25; e [Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.449,00.",
+          "O que dar de presente de casamento acima de R$ 1.500? [Faqueiro Aço Inox Berna 101 peças, Wolff](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-101-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.698,00; [Panela Redonda Signature Azure 2,4 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.746,75; [Panela Redonda Signature Rhone 5,3 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.316,75; e [Faqueiro Aço Inox Dourado Avalon 130 peças, Wolff](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.769,90.",
+          "Vale dar aparelho de jantar? Pode valer quando o casal quer começar a mesa do zero ou trocar a louça, porque o conjunto completo chega de uma vez. Os de 30 peças da Porto Brasil estão em pré-venda, então, para presente com data, confira o prazo de envio na página do produto.",
           "O cupom vale em Le Creuset? Sim. O cupom MAUAD vale no site da Let's Eat It inteiro, inclusive nas peças da Le Creuset, com 5% sobre o subtotal, sem frete, e soma com o desconto do Pix."
         ]
       }
@@ -117409,16 +117586,19 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "porto-brasil-e-boa"
+      },
+      {
+        "slug": "black-friday-letseatit"
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve complemento, como travessa ou chaleira, se a casa já tem o básico.",
-        "Leve o aparelho de 30 peças se o casal monta a mesa do zero."
+        "Leve um complemento, como a travessa Heritage ou a chaleira Kone, se a casa já tem o básico.",
+        "Leve o aparelho de 30 peças da Porto Brasil se o casal monta a mesa do zero e o presente não tem data."
       ],
       "skipIf": [
-        "Passe o aparelho Shimeji Gold se o casal usa micro-ondas e lava-louças todo dia: ele leva filete dourado.",
-        "Passe se depende da lista de presentes da loja sem ter confirmado que a função está disponível; a página da lista estava sem itens."
+        "Passe o aparelho Porto Brasil de 30 peças se o presente tem data: os modelos à venda estão em pré-venda.",
+        "Passe o faqueiro Laguiole se o presente tem data: ele também está em pré-venda."
       ]
     }
   },
@@ -117441,7 +117621,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 5% OFF no subtotal da Let's Eat It. Presente de Natal para quem gosta de cozinhar, com Le Creuset, KitchenAid e Ariete em quatro faixas.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/letseatit/presente-natal-quem-gosta-de-cozinhar-capa-v2.webp",
@@ -117452,13 +117632,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha pelo hábito de quem vai receber: uma forma para quem assa, utensílios para o churrasco ou uma peça para servir e tomar café. Com o cupom MAUAD, de 5%, o preço cai. Nos elétricos, a voltagem decide; em presente com data, confirme a previsão de entrega pelo CEP."
+          "Escolha pelo hábito de quem vai receber: forma para quem assa, utensílios para o churrasco, panela ou skillet Le Creuset para quem cozinha todo dia. O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento. Nos elétricos, a voltagem decide."
         ]
       },
       {
         "heading": "Até R$ 150: canecas Le Creuset, faca de churrasco e forma de bolo",
         "paragraphs": [
-          "Até R$ 150, o presente resolve o dia a dia da cozinha e do churrasco. Os preços são de venda da Let's Eat It em 20/10/2026."
+          "Até R$ 150, o presente resolve o dia a dia da cozinha e do churrasco. Os preços são de venda da Let's Eat It na última conferência."
         ],
         "comparisonTable": {
           "headers": [
@@ -117475,22 +117655,16 @@ export const reviewsData: unknown[] = [
               "Para quem toma café em dose pequena. A ficha diz \"dose de café expresso\", com 100 ml, cerâmica premium e lava-louças."
             ],
             [
-              "[Espátula Clássica em Silicone Confeitaria Preta](https://letseatit.com.br/products/espatula-classica-em-silicone-confeitaria-preta-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Espátula Clássica em Silicone Confeitaria, cinza ou vermelha](https://letseatit.com.br/products/espatula-classica-silicone-confeitaria-vermelha-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "KitchenAid",
               "R$ 129,90",
-              "Para o uso diário na cozinha. Ponta de silicone e cabo ABS; a ficha diz até 232 °C e lava-louças."
+              "Para o uso diário na cozinha. Ponta de silicone e cabo ABS; a ficha diz até 232 °C e lava-louças. A versão preta esgotou na última conferência."
             ],
             [
               "[Faca para Churrasco Beef Club](https://letseatit.com.br/products/faca-para-churrasco-beef-club-em-aco-inox-com-cabo-em-plastico-fracalanza?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Fracalanza",
               "R$ 69,90",
               "Para quem faz churrasco em casa. Aço inox com cabo de plástico, 45 cm de comprimento."
-            ],
-            [
-              "[Mini Tábua Petisqueira Churrasco e Queijo](https://letseatit.com.br/products/mini-tabua-petisqueira-churrasco-e-queijo-carve-co?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "Carve & Co",
-              "R$ 138,90",
-              "Para quem serve queijo e petisco. Teca, 2 x 16 x 26 cm, 259 g, com cabo ergonômico."
             ],
             [
               "[Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm](https://letseatit.com.br/products/forma-redonda-para-brownie-bolo-e-torta-antiaderente-28cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
@@ -117501,7 +117675,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A caneca Azure de 100 ml, da mesma linha, também sai por R$ 129,00. Quem procura mesa posta de Natal tem um guia próprio: o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa)."
+          "Quem procura mesa posta de Natal tem um guia próprio: o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa)."
         ]
       },
       {
@@ -117521,22 +117695,16 @@ export const reviewsData: unknown[] = [
               "Para quem quer uma caneca de Natal. Cerâmica premium, lava-louças; a ficha diz que não absorve aromas."
             ],
             [
-              "[Moedor de Sal Vermelho](https://letseatit.com.br/products/moedor-de-sal-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Ramekin Formato Coração Cerâmica 300 ml Vermelho](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
-              "R$ 369,00",
-              "Para quem tempera na mesa. 21 x 6 cm, com ajuste de moagem por pino no topo."
+              "R$ 159,00",
+              "Para quem já tem Le Creuset. A ficha diz forno, micro-ondas, congelador e lava-louças."
             ],
             [
               "[Conjunto 4 Peças para Churrasco Inox com Estojo](https://letseatit.com.br/products/conjunto-4-pecas-para-churrasco-inox-com-estojo-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "L'Hermitage",
               "R$ 232,90",
               "Para quem faz churrasco. Espátula vazada, garfo de duas pontas, pegador e escova, em aço inox com cabo preto e estojo com zíper."
-            ],
-            [
-              "[Escumadeira em Aço Inox para Fritura](https://letseatit.com.br/products/escumadeira-em-aco-inox-fritura-cozinha-cinza-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "KitchenAid",
-              "R$ 159,90",
-              "Para quem frita. Aço inox e ABS livre de BPA, 39 x 13 x 6 cm, 205 g."
             ],
             [
               "[Mini Cocotte Cerâmica Cotton 250 ml](https://letseatit.com.br/products/mini-cocotte-ceramica-cotton-250ml-10cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
@@ -117554,19 +117722,33 @@ export const reviewsData: unknown[] = [
               "[Forno Elétrico Vintage Verde 127 V, 800 W](https://letseatit.com.br/products/forno-eletrico-vintage-verde-127v-800w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Ariete",
               "R$ 399,00",
-              "Para quem quer um forno elétrico de bancada. 127 V, 800 W, 10 L, até 230 °C e temporizador de até 60 min."
+              "Para quem quer um forno elétrico de bancada. 127 V, 800 W, 10 L, até 230 °C e temporizador de até 60 min. Em pré-venda na última conferência."
+            ],
+            [
+              "[Tábua de Corte Gota com Faca para Churrasco, em teca artesanal](https://letseatit.com.br/products/tabua-corte-gota-faca-churrasco-cozinha-teca-artesanal-carve-co?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "Carve & Co",
+              "R$ 288,90",
+              "Para quem serve churrasco na tábua. Teca artesanal."
             ]
           ]
         },
         "postParagraphs": [
-          "Os três eletroportáteis Ariete da linha Vintage vêm em 127 V: confira a voltagem da sua tomada antes de comprar. A mesma linha tem o processador Vintage Azul, de 250 W, 127 V, por R$ 299,00."
+          "O batedor de mão e o forno elétrico da linha Vintage vêm em 127 V: confira a voltagem da sua tomada antes de comprar. O forno está em pré-venda, então o prazo de envio fica na página do produto."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/presente-natal-caneca-holly-le-creuset.webp",
             "alt": "Caneca branca Holly da Le Creuset, com relevo de folhas de azevinho",
             "caption": "Caneca Holly 200 ml, coleção de Natal da Le Creuset. Imagem: Let's Eat It.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://letseatit.com.br/products/caneca-ceramica-holly-branca-200ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o forno elétrico Vintage na Let's Eat It",
+            "href": "https://letseatit.com.br/products/forno-eletrico-vintage-verde-127v-800w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
@@ -117593,12 +117775,6 @@ export const reviewsData: unknown[] = [
               "Para quem quer uma caneca diferente. 220 ml, formato de coração, com pires; a ficha fala em cerâmica de alto padrão e retenção de calor."
             ],
             [
-              "[Kit 3 Espátulas e Pincel de Silicone com Porta Utensílios Signature Vermelho 1,1 L](https://letseatit.com.br/products/kit-3-espatulas-e-1-pincel-de-silicone-e-porta-utensilios-ceramica-signature-vermelho-1-1l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "Le Creuset",
-              "R$ 799,00",
-              "Para organizar a bancada. Porta-utensílios de cerâmica de 1,1 L, 3 espátulas com cabo de madeira e pincel removível; a ficha diz que só a ponta do pincel vai à lava-louças."
-            ],
-            [
               "[Jogo de 2 Frigideiras Alumínio Antiaderente Vermelho](https://letseatit.com.br/products/jogo-de-2-frigideiras-aluminio-antiaderente-vermelho-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "KitchenAid",
               "R$ 569,00",
@@ -117608,26 +117784,34 @@ export const reviewsData: unknown[] = [
               "[Chaleira Elétrica Positano 1,7 L 360º, 127 V, 1500 W](https://letseatit.com.br/products/chaleira-eletrica-positano-1-7l-360o-127v-1500w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Ariete",
               "R$ 649,00",
-              "Para quem ferve água com frequência. Base sem fio com giro de 360°, desligamento automático e filtro removível."
+              "Para quem ferve água com frequência. Base sem fio com giro de 360°, desligamento automático e filtro removível. Em pré-venda na última conferência."
             ]
           ]
         },
         "postParagraphs": [
-          "O jogo de panelas Slim de cerâmica, de 5 peças, vermelho coral, da Ceraflame (R$ 919,90), ficou fora da tabela por causa da indução: a página diz que o modelo não é compatível com fogões de indução. Fora isso, ele é 100% cerâmica e vai ao gás, ao elétrico, ao vitrocerâmico, ao forno convencional, ao micro-ondas, ao freezer e à lava-louças."
+          "A batedeira planetária Positano, de 5,5 L, estava esgotada na última conferência. Para quem bate massa, o batedor de mão Vintage da faixa anterior é a opção disponível."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
             "alt": "Saca-rolhas Trilogy da Le Creuset, preto, de pé, ao lado do corta-lacre",
             "caption": "Saca-rolhas Trilogy Black Onyx, Le Creuset. Imagem: Let's Eat It.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://letseatit.com.br/products/saca-rolha-trilogy-estojo-presente-black-onyx-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o saca-rolhas Trilogy na Let's Eat It",
+            "href": "https://letseatit.com.br/products/saca-rolha-trilogy-estojo-presente-black-onyx-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
       {
-        "heading": "Acima de R$ 1.000: panelas Signature, skillet e eletroportáteis",
+        "heading": "Acima de R$ 1.000: panelas Signature, skillets e air fryer",
         "paragraphs": [
-          "Acima de R$ 1.000 ficam as panelas Signature, uma skillet, uma grelha e dois eletroportáteis Ariete. Os preços mudam com promoção e estoque. Onde a ficha não diz forno, indução ou lava-louças, a tabela não afirma."
+          "Acima de R$ 1.000 ficam as panelas e skillets Le Creuset, uma grelha e a air fryer Ariete. Em novembro, a Le Creuset tem cores com 25% de desconto sobre o preço de tabela. Os preços mudam com promoção e estoque. Onde a ficha não diz forno, indução ou lava-louças, a tabela não afirma. Com o MAUAD, a Panela Redonda Signature Azure de 20 cm, a R$ 1.746,75, sai por R$ 1.659,41."
         ],
         "comparisonTable": {
           "headers": [
@@ -117642,24 +117826,19 @@ export const reviewsData: unknown[] = [
               "ferro fundido esmaltado; \"compatível com todos os cooktops\"; forno seguro até 260 °C; interior esmaltado, sem tempero"
             ],
             [
-              "[Skillet Redonda com Alça Signature Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-redonda-com-alca-signature-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Skillet Redonda com Alça Signature Azure Blue 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-redonda-com-alca-signature-azure-blue-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.739,00",
               "ferro fundido esmaltado; interior preto acetinado, sem tempero; \"compatível com todos os cooktops\"; forno até 260 °C; lava-louças"
             ],
             [
               "[Grelha Quadrada Signature Azure 26 cm, Le Creuset](https://letseatit.com.br/products/grelha-quadrada-signature-azure-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 1.859,00",
+              "R$ 1.394,25 (de R$ 1.859,00)",
               "ferro fundido; superfície antiaderente; ondulações que escorrem a gordura; bicos nas duas laterais. Forno e indução: ficha não diz"
             ],
             [
               "[Panela Redonda Signature Azure 2,4 L 20 cm, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 2.329,00",
+              "R$ 1.746,75 (de R$ 2.329,00)",
               "ferro fundido; 2,4 L; esmalte interno; fonte de calor: vitrocerâmico, indução, elétrico, gás, radiante, grill e forno; pegadores de aço inox"
-            ],
-            [
-              "[Batedeira Planetária 1558 Positano 5,5 L, Ariete](https://letseatit.com.br/products/batedeira-planetaria-1558-positano-127v-600w-5-5l-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 1.799,00",
-              "127 V; 600 W; tigela de aço inox de 5,5 L; 7 velocidades e pulso; gancho, batedor de coração e batedor de arame"
             ],
             [
               "[Fritadeira Air Fryer Vintage Azul 16 L, Ariete](https://letseatit.com.br/products/fritadeira-air-fryer-vintage-azul-220v-1200w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
@@ -117670,15 +117849,23 @@ export const reviewsData: unknown[] = [
         },
         "images": [
           {
-            "src": "/images/reviews/letseatit/presente-natal-batedeira-ariete-positano.webp",
-            "alt": "Batedeira planetária Ariete Positano com estampa de azulejos coloridos e tigela de inox",
-            "caption": "Batedeira planetária Positano 5,5 L, Ariete. Imagem: Let's Eat It.",
-            "objectFit": "square"
+            "src": "/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
+            "alt": "Skillet em formato de coração da Le Creuset, vermelha, sobre toalha rosa",
+            "caption": "Skillet Coração Tradition 26 cm, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square",
+            "href": "https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ],
         "postParagraphs": [
-          "A voltagem muda a compra: a batedeira é 127 V e a fritadeira é 220 V. Antes de pagar, confira a tensão da sua tomada.",
+          "A air fryer é 220 V: antes de pagar, confira a tensão da sua tomada.",
           "Se a dúvida é se a Le Creuset compensa o preço, a análise está em [o artigo sobre a marca](/reviews/le-creuset-vale-a-pena). Aqui a descrição fica no que a página informa."
+        ],
+        "links": [
+          {
+            "label": "Ver a Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -117687,50 +117874,63 @@ export const reviewsData: unknown[] = [
           "A escolha começa pelo que a pessoa faz na cozinha. Os exemplos são das faixas anteriores:"
         ],
         "bullets": [
-          "Quem está começando: a Espátula Clássica em Silicone Confeitaria Preta KitchenAid, R$ 129,90, com ponta de silicone e cabo ABS, até 232 °C e lava-louças.",
-          "Quem faz churrasco: o Conjunto 4 peças para Churrasco Inox com Estojo L'Hermitage, R$ 232,90, com espátula vazada, garfo de duas pontas, pegador e escova. Para gastar menos, a Faca para Churrasco Beef Club Fracalanza sai por R$ 69,90, com lâmina de aço inox e 45 cm.",
-          "Quem assa: a Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm da Baker's Secret, R$ 62,90, em aço carbono, para forno até 232 °C, com garantia de 6 meses.",
-          "Quem já tem Le Creuset: o Ramekin Formato Coração Cerâmica 300 ml Vermelho, R$ 159,00. A ficha diz forno, micro-ondas, congelador e lava-louças, e a peça complementa a linha que a pessoa já usa."
+          "Quem está começando: a [Espátula Clássica em Silicone Confeitaria KitchenAid](https://letseatit.com.br/products/espatula-classica-silicone-confeitaria-vermelha-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (cinza ou vermelha), R$ 129,90, com ponta de silicone e cabo ABS, até 232 °C e lava-louças.",
+          "Quem faz churrasco: o [Conjunto 4 Peças para Churrasco Inox com Estojo L'Hermitage](https://letseatit.com.br/products/conjunto-4-pecas-para-churrasco-inox-com-estojo-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 232,90, com espátula vazada, garfo de duas pontas, pegador e escova. Para gastar menos, a [Faca para Churrasco Beef Club Fracalanza](https://letseatit.com.br/products/faca-para-churrasco-beef-club-em-aco-inox-com-cabo-em-plastico-fracalanza?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) sai por R$ 69,90, com lâmina de aço inox e 45 cm.",
+          "Quem assa: a [Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm](https://letseatit.com.br/products/forma-redonda-para-brownie-bolo-e-torta-antiaderente-28cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) da Baker's Secret, R$ 62,90, em aço carbono, para forno até 232 °C, com garantia de 6 meses.",
+          "Quem já tem Le Creuset: o [Ramekin Formato Coração Cerâmica 300 ml Vermelho](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00. A ficha diz forno, micro-ondas, congelador e lava-louças, e a peça complementa a linha que a pessoa já usa."
         ],
-        "images": [
+        "emphasis": "Quem está começando ganha mais com uma boa espátula ou uma forma de até R$ 150 do que com um eletroportátil; a panela Signature fica para quem já cozinha todo dia.",
+        "links": [
           {
-            "src": "/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
-            "alt": "Skillet em formato de coração da Le Creuset, vermelha, sobre toalha rosa",
-            "caption": "Skillet Coração Tradition 26 cm, Le Creuset. Imagem: Let's Eat It.",
-            "objectFit": "square"
+            "label": "Ver os presentes Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ir para a Let's Eat It",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Prazo para chegar antes do Natal",
         "paragraphs": [
-          "A Let's Eat It não tem entrega expressa. Uma política publicada pela loja fala em 3 a 12 dias úteis, conforme a região, contados da confirmação do pagamento; outra, em 5 a 10 dias úteis depois do despacho. O valor e o prazo do frete do seu CEP aparecem só no checkout. Para um presente com data, simule o CEP e confirme a previsão do pedido com a loja antes de pagar.",
+          "A Let's Eat It não tem entrega expressa. O frete é calculado no checkout por CEP e peso, e a página de frete publica prazos em dias úteis a partir da confirmação do pagamento: 3 a 5 na capital de São Paulo, 4 a 7 no interior e na Grande SP, 5 a 8 no Sul e no Sudeste, 6 a 9 no Centro-Oeste e 7 a 12 no Norte e no Nordeste. Em promoção, os prazos podem mudar. Para um presente com data, simule o CEP e confirme a previsão do pedido antes de pagar.",
           "Planeje uma margem para receber, conferir e embalar o presente. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit), mas elas não garantem chegada antes do Natal."
         ]
       },
       {
         "heading": "Cupom MAUAD e Pix: como fica o preço",
         "paragraphs": [
-          "O cupom MAUAD dá 5% de desconto no subtotal dos produtos, no site da Let's Eat It. Ele vale com todas as formas de pagamento e soma com o desconto do Pix. O frete não entra nessa conta.",
-          "Um exemplo: a Ramekin Formato Coração Vermelho, de R$ 159,00. Com o cupom, 5% sobre R$ 159,00 são R$ 7,95, e o item sai por R$ 151,05 antes do frete e do Pix. Pagando no Pix, o desconto desse meio soma com o cupom. O valor final é o que o checkout mostra, então confira no checkout antes de pagar.",
+          "O cupom MAUAD dá 5% de desconto no subtotal dos produtos, no site da Let's Eat It. Ele vale com todas as formas de pagamento e soma com o desconto do Pix. O frete não entra nessa conta. Cole o código no campo “Código de desconto” do resumo do pedido, no checkout, e clique em “Aplicar”.",
+          "Um exemplo: o Ramekin Formato Coração Vermelho, de R$ 159,00. Com o cupom, 5% sobre R$ 159,00 são R$ 7,95, e o item sai por R$ 151,05 antes do frete e do Pix. Nos itens com 5% de desconto no Pix, os dois juntos levam o ramekin a cerca de R$ 143,50. O valor final é o que o checkout mostra, então confira antes de pagar.",
           "Para ver onde o código entra, veja o [passo a passo do cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar). A página da loja com as regras do cupom está em [cupom da Let's Eat It](/cupons/letseatit)."
+        ],
+        "links": [
+          {
+            "label": "Ir para a Let's Eat It",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Troca, peça avariada e pré-venda",
         "paragraphs": [
-          "A página de reembolso e trocas publica 30 dias contados do recebimento para devolução ou troca por produto equivalente, e 90 dias para defeito de fabricação. Outra política publicada pela loja descreve devolução sujeita à aceitação, seguida de nova compra. Antes de presentear, confirme com a loja o procedimento e o prazo aplicáveis ao item e guarde a nota fiscal.",
-          "Se a peça chegar quebrada, a loja faz a reposição sem custo, mediante fotos do produto e da embalagem enviadas pelo WhatsApp ou pelo e-mail de atendimento da loja. A política não diz em que prazo o aviso precisa ser feito, então avise logo depois de abrir a caixa. O que a equipe checou antes de indicar a loja está em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel).",
-          "Item de pré-venda não entra nesta lista de presente com data. O prazo de envio fica na página do produto."
+          "A página de reembolso e trocas da loja dá 30 dias, contados do recebimento, para devolução, e 90 dias para defeito de fabricação; o frete da devolução fica por conta da loja. Peça a troca pelo portal assim que receber o presente, e guarde a nota fiscal.",
+          "Se a peça chegar quebrada, a loja faz a reposição sem custo, mediante fotos do produto e da embalagem enviadas pelo WhatsApp (11) 96570-0375 ou por suporte@letseatit.com.br, com o número do pedido. A política não diz em que prazo o aviso precisa ser feito, então avise logo depois de abrir a caixa e guarde a caixa e a etiqueta.",
+          "Item de pré-venda não combina com presente de data: o prazo de envio fica na página do produto, e nesta lista o forno Vintage e a chaleira Positano estão nessa situação."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como saber se o presente chega antes do Natal? Simule o CEP e confirme a previsão do pedido antes de pagar. As políticas publicadas pela loja usam prazos e marcos de contagem diferentes; o guia de Black Friday da Let's Eat It traz as datas-limite, sem garantir chegada.",
-          "Posso trocar um presente? A página de reembolso e trocas fala em 30 dias contados do recebimento, com troca por produto equivalente, reembolso ou crédito, mas outra política do site descreve devolução seguida de nova compra. Confirme com a loja qual procedimento se aplica ao presente antes de pagar e guarde a nota fiscal.",
-          "O cupom MAUAD vale em promoção? Sim, ele entrou sobre produto em promoção. O desconto do Pix também soma com o cupom; confira o valor final no checkout.",
-          "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou um eletroportátil, como a Chaleira Elétrica Positano de R$ 649,00 (127 V)."
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
+          "Como saber se o presente chega antes do Natal? Simule o CEP e confirme a previsão do pedido antes de pagar. A página de frete publica prazos de 3 a 12 dias úteis, conforme a região, contados da confirmação do pagamento; o guia de Black Friday da Let's Eat It traz as datas-limite, sem garantir chegada.",
+          "Posso trocar um presente? Sim: a página de reembolso e trocas dá 30 dias contados do recebimento. Peça pelo portal assim que receber e guarde a nota fiscal.",
+          "O cupom MAUAD vale em promoção? Sim, ele entra sobre o produto em promoção. O desconto do Pix também soma com o cupom; confira o valor final no checkout.",
+          "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou uma chaleira elétrica, como a Positano de R$ 649,00 (127 V, em pré-venda na última conferência)."
         ]
       }
     ],
@@ -117758,12 +117958,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve pela faixa que cabe no bolso e pelo que a pessoa faz na cozinha.",
-        "Leve churrasco ou eletroportátil para quem já tem panela e utensílio básico."
+        "Leve forma, espátula ou utensílio de churrasco se a pessoa está começando ou cozinha de vez em quando: acerta sem depender de voltagem nem de espaço.",
+        "Leve a Le Creuset de ferro esmaltado se a pessoa já cozinha todo dia e tem o básico."
       ],
       "skipIf": [
-        "Passe a pré-venda se o presente tem data.",
-        "Passe o eletroportátil sem conferir a voltagem da tomada."
+        "Passe o eletroportátil se você não sabe a voltagem da tomada de quem recebe: a Vintage da lista é 127 V e a air fryer é 220 V.",
+        "Passe os itens em pré-venda se o presente tem data: o prazo de envio fica na página do produto."
       ]
     }
   },
@@ -146540,11 +146740,11 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
-    "description": "Le Creuset 20 ou 24 cm comparadas em litros, preço no cartão, preço por litro e cores na Let's Eat It, mais a caçarola buffet e os outros formatos, com dados de 26/10/2026.",
-    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It, também na Le Creuset. A 20 cm tem 2,4 L e a 24 cm, 4,2 L: compare preço por litro e cores.",
+    "description": "Le Creuset 20 ou 24 cm comparadas em litros, preço de tabela, preço por litro e desconto de novembro, mais a caçarola buffet e os outros formatos da Let's Eat It.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It, também na Le Creuset. A 20 cm tem 2,4 L e a 24 cm, 4,2 L: compare preço por litro e desconto.",
     "image": "/images/reviews/letseatit/le-creuset-qual-tamanho-escolher-capa-v2.webp",
     "imageAlt": "Panela Le Creuset vermelha com tampa sobre a bancada.",
     "imageFit": "contain",
@@ -146552,7 +146752,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Escolheu seu tamanho? Veja as cores disponíveis e use o cupom MAUAD para 5% OFF no site da Let's Eat It.",
+      "text": "Escolheu seu tamanho? Veja as cores e use o cupom MAUAD para 5% OFF no site da Let's Eat It, em todas as formas de pagamento.",
       "label": "Ver Le Creuset na Let's Eat It",
       "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
       "sponsored": true
@@ -146568,6 +146768,9 @@ export const reviewsData: unknown[] = [
         "slug": "le-creuset-vale-a-pena"
       },
       {
+        "slug": "le-creuset-travessa-qual-escolher"
+      },
+      {
         "slug": "black-friday-letseatit"
       }
     ],
@@ -146575,85 +146778,112 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para receita de até 2 L, basta a 20 cm (2,4 L); acima disso, a 24 cm (4,2 L) custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa decide; para servir à mesa, vale o buffet. No site da Let's Eat It, o código MAUAD dá 5%."
+          "Para receita de até 2 L, a 20 cm (2,4 L) basta; acima disso, a 24 cm (4,2 L) custa 27% a mais no preço cheio e sai 28% mais barata por litro. Para servir à mesa, vale o buffet. No site da Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF."
         ]
       },
       {
         "heading": "Os tamanhos da Panela Redonda Signature",
         "paragraphs": [
-          "A Le Creuset fabrica a Panela Redonda Signature de 14 a 34 cm. A Let's Eat It vende de 16 a 34 cm, sem o 14 e sem o 32 cm. A tabela abaixo traz a capacidade que a loja publica para cada tamanho.",
+          "A Le Creuset fabrica a Panela Redonda Signature de 14 a 34 cm. A Let's Eat It vende de 16 a 34 cm, sem o 14 e sem o 32 cm. A tabela traz a capacidade que a loja publica para cada tamanho e, onde a ficha dá, o preço de tabela.",
           "A tabela usa litros porque nem a marca nem a loja publicam porções por tamanho. O litro é o único número que as duas fontes dão."
         ],
         "comparisonTable": {
-          "caption": "Cores disponíveis em 26/10",
           "headers": [
             "Diâmetro",
             "Capacidade (ficha da loja)",
-            "Cores disponíveis"
+            "Preço de tabela"
           ],
           "rows": [
             [
-              "16 cm",
+              "[16 cm](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1,3 L",
-              "3 de 4"
+              "na página da loja"
             ],
             [
-              "18 cm",
+              "[18 cm](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "1,8 L",
-              "nenhuma (6 esgotadas)"
+              "na página da loja"
             ],
             [
-              "20 cm",
+              "[20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "2,4 L",
-              "5 de 8"
+              "R$ 2.329"
             ],
             [
-              "22 cm",
+              "[22 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-sage-3-3l-22cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "3,3 L",
-              "4 de 8"
+              "R$ 2.619"
             ],
             [
-              "24 cm",
+              "[24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "4,2 L",
-              "3 de 6"
+              "R$ 2.949"
             ],
             [
-              "26 cm",
+              "[26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "5,3 L",
-              "4 de 7"
+              "R$ 3.089"
             ],
             [
-              "28 cm",
+              "[28 cm](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6,7 L",
-              "2 de 6"
+              "na página da loja"
             ],
             [
-              "30 cm",
+              "[30 cm](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "8,4 L",
-              "1 de 3"
+              "na página da loja"
             ],
             [
-              "34 cm",
+              "[34 cm](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "12 L",
-              "1 de 1"
+              "na página da loja"
             ]
           ]
         },
         "postParagraphs": [
-          "Do 16 ao 28 cm, cada tamanho acrescenta de 0,5 a 1,4 L ao anterior. Do 28 ao 30 cm o acréscimo é de 1,7 L, e o 34 cm tem 12 L. Estoque muda de um dia para o outro: confira as cores na página antes de comprar."
+          "Do 16 ao 28 cm, cada tamanho acrescenta de 0,5 a 1,4 L ao anterior. Do 28 ao 30 cm o acréscimo é de 1,7 L, e o 34 cm tem 12 L. Estoque e cores mudam de um dia para o outro: confira na página antes de comprar."
         ],
-        "image": {
-          "src": "/images/reviews/letseatit/le-creuset-redonda-signature-litros-por-tamanho.webp",
-          "alt": "Quadro com a capacidade da Panela Redonda Signature da Le Creuset de 16 a 34 cm, com 20 cm (2,4 L) e 24 cm (4,2 L) em destaque",
-          "caption": "Capacidade de cada tamanho pela ficha da Let's Eat It. Quadro nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 1.4118
-        }
+        "links": [
+          {
+            "label": "Ver a Redonda Signature 22 cm Sage na Let's Eat It",
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-sage-3-3l-22cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Redonda Signature 26 cm Rhône na Let's Eat It",
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a coleção Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-redonda-signature-azure-20cm.webp",
+            "alt": "Panela Le Creuset Redonda Signature 20 cm, Azure",
+            "caption": "Redonda Signature 20 cm, 2,4 L, Azure. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/le-creuset-redonda-signature-camomille-24cm.webp",
+            "alt": "Panela Le Creuset Redonda Signature 24 cm, Camomille",
+            "caption": "Redonda Signature 24 cm, 4,2 L, Camomille. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ]
       },
       {
         "heading": "Le Creuset 20 ou 24 cm: a diferença lado a lado",
         "paragraphs": [
-          "A 24 cm tem 1,8 L a mais que a 20 cm: 4,2 L contra 2,4 L, ou 75% de capacidade extra. No preço cheio, o acréscimo é de R$ 620, cerca de 27%. Por isso a conta por litro favorece a maior."
+          "A [24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem 1,8 L a mais que a [20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): 4,2 L contra 2,4 L, ou 75% de capacidade extra. No preço cheio, o acréscimo é de R$ 620, cerca de 27%. Por isso a conta por litro favorece a maior."
         ],
         "comparisonTable": {
           "headers": [
@@ -146682,29 +146912,35 @@ export const reviewsData: unknown[] = [
               "-28% por litro"
             ],
             [
-              "Cores disponíveis",
-              "Azure Blue, Berry, Cool Mint (preço cheio); Laranja e Vermelha (15% de desconto)",
-              "Berry, Cotton (preço cheio); Vermelha (15% de desconto)",
-              "—"
+              "Exemplo de cor com 25% de desconto em novembro",
+              "Azure Blue: R$ 1.746,75",
+              "Camomille: R$ 2.211,75",
+              "+R$ 465 (+26,6%)"
             ],
             [
-              "Cores esgotadas",
-              "Chambray, Cotton, Rhône",
-              "Azure Blue, Laranja, Rhône",
-              "—"
-            ],
-            [
-              "Cor em desconto de 15%",
-              "Laranja e Vermelha: R$ 1.979,65",
-              "Vermelha: R$ 2.506,65",
-              "+R$ 527 (+26,6%)"
+              "Preço por litro na cor com 25% (conta nossa)",
+              "R$ 728",
+              "R$ 527",
+              "-28% por litro"
             ]
           ]
         },
         "postParagraphs": [
-          "A conta por litro da tabela usa o preço cheio. Com a cor em desconto, o preço por litro cai nos dois tamanhos: R$ 825 na 20 cm Laranja ou Vermelha e R$ 597 na 24 cm Vermelha. Como os dois têm os mesmos 15%, a relação entre eles não muda: a 24 cm segue 28% mais barata por litro.",
-          "O que muda a conta é misturar cores: a 24 cm Vermelha (R$ 2.506,65) custa só R$ 177,65 a mais que a 20 cm numa cor de preço cheio. A cor que você quer pesa tanto quanto o tamanho.",
-          "Para a tabela completa de preços de outubro, com outros tamanhos e formatos, veja o [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+          "A conta por litro das duas primeiras linhas usa o preço cheio. Com a cor em desconto de 25%, o preço por litro cai nos dois tamanhos: R$ 728 na 20 cm Azure Blue e R$ 527 na 24 cm Camomille. Como os dois têm os mesmos 25%, a relação entre eles não muda: a 24 cm segue 28% mais barata por litro.",
+          "O que muda a conta é misturar cores: a 24 cm Camomille com 25% (R$ 2.211,75) custa R$ 117,25 menos que a 20 cm numa cor sem desconto (R$ 2.329). A cor que você quer pesa tanto quanto o tamanho, e só algumas cores entram na promoção de novembro.",
+          "Para os preços dos outros tamanhos e formatos, veja o [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+        ],
+        "links": [
+          {
+            "label": "Ver a Redonda Signature 20 cm Azure Blue na Let's Eat It",
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Redonda Signature 24 cm Camomille na Let's Eat It",
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -146715,7 +146951,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confira a capacidade da panela que você já usa. Se medir com água até a borda, anote que esse é o volume total, não o limite para cozinhar.",
           "Pense na sua receita mais cheia: se chega perto da borda ou derrama ao mexer, você precisa de mais espaço.",
-          "Compare as capacidades nominais: 2,4 L na Redonda de 20 cm e 4,2 L na de 24 cm. Escolha a que acomoda a receita e a margem necessária ao preparo.",
+          "Compare as capacidades nominais: 2,4 L na [Redonda de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e 4,2 L na [de 24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). Escolha a que acomoda a receita e a margem necessária ao preparo.",
           "Confira os cuidados de uso da linha para o tipo de preparo; uma receita que sobe ou ferve precisa de espaço livre."
         ],
         "postParagraphs": [
@@ -146725,25 +146961,43 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Caçarola buffet: quando faz sentido",
         "paragraphs": [
-          "A caçarola buffet é baixa e larga, descrita pela loja para cozinhar e servir. A marca destaca o uso do forno direto à mesa, como peça de servir.",
-          "A Let's Eat It tinha estes tamanhos no site:"
+          "A [caçarola buffet](https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é baixa e larga, descrita pela loja para cozinhar e servir. A marca destaca o uso do forno direto à mesa, como peça de servir.",
+          "A Let's Eat It tem estes tamanhos no site:"
         ],
         "bullets": [
-          "26 cm, 2,2 L: Petal Branco e Sea Salt a R$ 2.949, e Vermelha e Laranja a R$ 2.345,15 (de R$ 2.759, com 15%).",
-          "30 cm, 3,5 L, na cor Azure a R$ 2.999, e Laranja a R$ 2.549,15.",
-          "32 cm, 4 L, esgotada."
+          "26 cm, 2,2 L: o preço depende da cor, na página da loja.",
+          "30 cm, 3,5 L: preço de tabela de R$ 2.999; na Sage, com 25% de desconto em novembro, R$ 2.249,25.",
+          "32 cm, 4 L: a loja a listava esgotada."
         ],
         "postParagraphs": [
           "A marca informa a linha de 22 a 32 cm.",
           "O formato aparece nos números. A buffet de 26 cm leva 2,2 L, menos que a redonda de 20 cm, que leva 2,4 L, mesmo sendo mais larga. A buffet ganha em diâmetro e perde em volume. A loja a põe entre o fogão, o forno e a mesa; a marca, do forno à mesa. Se o que você precisa é de litros, a redonda leva mais."
         ],
-        "image": {
-          "src": "/images/reviews/letseatit/le-creuset-buffet-30-x-redonda-24.webp",
-          "alt": "Caçarola Buffet Signature azul de 30 cm, baixa e larga, ao lado da Panela Redonda Signature vermelha de 24 cm, mais alta",
-          "caption": "A buffet de 30 cm (3,5 L) é mais larga e mais baixa que a redonda de 24 cm (4,2 L). Montagem nossa com fotos da Let's Eat It.",
-          "objectFit": "contain",
-          "aspectRatio": 3.0189
-        }
+        "links": [
+          {
+            "label": "Ver a caçarola buffet Sage 30 cm na Let's Eat It",
+            "href": "https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-buffet-30-x-redonda-24.webp",
+            "alt": "Caçarola Buffet Signature azul de 30 cm, baixa e larga, ao lado da Panela Redonda Signature vermelha de 24 cm, mais alta",
+            "caption": "A buffet de 30 cm (3,5 L) é mais larga e mais baixa que a redonda de 24 cm (4,2 L). Montagem nossa com fotos da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 3.0189,
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/le-creuset-cacarola-buffet-sage-30cm.webp",
+            "alt": "Caçarola Buffet Signature Le Creuset 30 cm, Sage",
+            "caption": "Caçarola Buffet Signature 30 cm, 3,5 L, Sage. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ]
       },
       {
         "heading": "Outros formatos da Le Creuset na loja",
@@ -146752,10 +147006,17 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Redonda Funda:** 24 cm, 5,2 L, esgotada na única cor que a loja tinha.",
-          "**Oval:** 31 cm, 6,3 L. Laranja e Vermelha saíam a R$ 2.889,15 com o desconto de 15%; a Azure, a R$ 3.399. A Oval de 35 cm, 8 L, estava disponível na cor Vermelha a R$ 3.433,15.",
+          "**Oval:** [31 cm](https://letseatit.com.br/products/panela-le-creuset-oval-signature-sage-6-3l-31cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), 6,3 L, com preço de tabela de R$ 3.399; na Sage, com 25% de desconto em novembro, R$ 2.549,25. A Oval de 35 cm, 8 L, também está na loja.",
           "**Para Risotto:** 30 cm, 6,2 L.",
           "**Para Arroz:** 18 cm, 2 L, e 20 cm, 2,8 L.",
           "**Marmita:** de 22 a 32 cm. A loja só informa os litros do 22 cm: 2,2 L."
+        ],
+        "links": [
+          {
+            "label": "Ver a Oval Signature 31 cm Sage na Let's Eat It",
+            "href": "https://letseatit.com.br/products/panela-le-creuset-oval-signature-sage-6-3l-31cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -146764,29 +147025,40 @@ export const reviewsData: unknown[] = [
           "A escolha mais segura parte do volume da receita que você mais faz."
         ],
         "bullets": [
-          "**Receita de até 2 L:** a 20 cm (2,4 L) leva bem se a receita não encosta na borda. Em fritura, o óleo vai só até 1/3 da capacidade.",
-          "**Receita de 2 a 3,5 L:** a 24 cm (4,2 L). Na 20 cm, ela chega à borda ou não cabe.",
-          "**Receita de 3,5 a 4,5 L:** a 26 cm, com 5,3 L. Acima disso, a tabela do início: 28 cm (6,7 L) ou 30 cm (8,4 L)."
+          "**Receita de até 2 L:** a [20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (2,4 L) leva bem se a receita não encosta na borda. Em fritura, o óleo vai só até 1/3 da capacidade.",
+          "**Receita de 2 a 3,5 L:** a [24 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) (4,2 L). Na 20 cm, ela chega à borda ou não cabe.",
+          "**Receita de 3,5 a 4,5 L:** a [26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), com 5,3 L. Acima disso, a tabela do início: 28 cm (6,7 L) ou 30 cm (8,4 L)."
         ],
         "postParagraphs": [
           "Pelo preço, a 24 cm sai mais barata por litro; quem não precisa dos litros a mais não ganha nada com essa conta, e a 20 cm custa R$ 620 a menos.",
-          "A buffet entra para quem leva a panela do forno à mesa. Ela serve a esse uso, mas leva menos que a redonda: 2,2 L no 26 cm e 3,5 L no 30 cm.",
-          "Os números que sustentam a decisão: 20 cm com 2,4 L por R$ 2.329, 24 cm com 4,2 L por R$ 2.949, 26 cm com 5,3 L por R$ 3.089 e buffet de 26 cm com 2,2 L. Todos são preços cheios."
+          "A [buffet](https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) entra para quem leva a panela do forno à mesa. Ela serve a esse uso, mas leva menos que a redonda: 2,2 L no 26 cm e 3,5 L no 30 cm.",
+          "Os números que sustentam a decisão: 20 cm com 2,4 L por R$ 2.329, 24 cm com 4,2 L por R$ 2.949, 26 cm com 5,3 L por R$ 3.089 e buffet de 26 cm com 2,2 L. Todos são preços de tabela; em novembro, várias cores têm 25% de desconto."
         ],
-        "emphasis": "Eu escolheria pela receita mais cheia, com a folga que o preparo exige. Se a 20 cm ficar pequena e a 24 cm acomodar esse volume, a maior passa a fazer sentido; a economia por litro, sozinha, não decide.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "A 24 cm cobre a receita cheia e sai mais barata por litro; a 20 cm só ganha para quem cozinha pouco e não passa de 2 L."
       },
       {
         "heading": "Onde comprar e o cupom",
         "paragraphs": [
-          "A Let's Eat It vende a linha Le Creuset, e as condições estão na página do [cupom Let's Eat It](/cupons/letseatit). O cupom MAUAD dá 5% no site, vale em Le Creuset e soma com os 5% do Pix.",
-          "Exemplo com a 24 cm, conta nossa sobre o preço cheio, sem frete: R$ 2.949 vira R$ 2.801,55 com o cupom e R$ 2.661,47 com o Pix. Aplique o cupom primeiro e depois o Pix.",
+          "A Let's Eat It vende a linha Le Creuset, e as condições estão na página do [cupom Let's Eat It](/cupons/letseatit). O código MAUAD dá 5% OFF no site, em todas as formas de pagamento, vale em Le Creuset e soma com os 5% do Pix e com as promoções. No checkout, cole o código no campo \"Código de desconto\".",
+          "Exemplo com a 24 cm, conta nossa sobre o preço cheio, sem frete: R$ 2.949 vira R$ 2.801,55 com o cupom e R$ 2.661,47 com o Pix. Aplique o cupom primeiro e depois o Pix. Numa cor com 25% de desconto, a 24 cm Camomille (R$ 2.211,75) vai a R$ 2.101,16 com o cupom e a R$ 1.996,10 com o Pix.",
           "Para indução, forno, lava-louças e garantia, leia [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena). Para saber como conferir se a panela é original e onde comprar, veja o artigo irmão, [Le Creuset original: como saber](/reviews/le-creuset-original-como-saber)."
+        ],
+        "links": [
+          {
+            "label": "Ver a coleção Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Cupom da Let's Eat It",
+            "href": "/cupons/letseatit"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Qual a diferença entre a Le Creuset 20 e 24 cm? A 20 cm tem 2,4 L e a 24 cm tem 4,2 L, 1,8 L a mais pela ficha da loja. No preço cheio, são R$ 2.329 e R$ 2.949.",
           "Quantos litros tem a Le Creuset 24 cm? A Redonda Signature de 24 cm tem 4,2 L, pela ficha da loja. A Redonda Funda de 24 cm tem 5,2 L.",
           "Qual o tamanho da caçarola buffet Le Creuset 30 cm? Ela tem 3,5 L, pela ficha da loja. O diâmetro é de 30 cm e o formato é baixo e largo.",
@@ -146826,11 +147098,11 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "description": "Para comprar Le Creuset, confira o vendedor nos canais da marca e guarde a nota fiscal. Veja o alerta oficial e os limites da conferência por origem, selo ou gravação.",
-    "metaDescription": "Existe Le Creuset falsa? Veja o alerta da marca, a origem na ficha (France ou Tailândia), a garantia e onde comprar original (26/10/2026).",
+    "metaDescription": "MAUAD dá 5% OFF na Let's Eat It. Existe Le Creuset falsa? Veja o alerta da marca, a origem na ficha, a garantia e onde comprar original.",
     "image": "/images/reviews/letseatit/le-creuset-original-como-saber-capa-v2.webp",
     "imageAlt": "Panela vermelha Le Creuset Signature apoiada sobre caixas vermelhas da marca em foto oficial da loja parceira.",
     "imageFit": "contain",
@@ -146838,7 +147110,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "A Let's Eat It é revendedora credenciada pela Le Creuset Brasil. Acesse o site da loja e aproveite o cupom MAUAD para economizar em peças originais.",
+      "text": "A Let's Eat It aparece no localizador oficial de lojas da Le Creuset Brasil. Acesse o site e use o cupom MAUAD para 5% OFF em todas as formas de pagamento.",
       "label": "Ir para a Let's Eat It",
       "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
       "sponsored": true
@@ -146851,28 +147123,31 @@ export const reviewsData: unknown[] = [
         "slug": "le-creuset-qual-tamanho-escolher"
       },
       {
-        "slug": "lets-eat-it-e-confiavel"
+        "slug": "le-creuset-vale-a-pena"
       },
       {
-        "slug": "le-creuset-vale-a-pena"
+        "slug": "le-creuset-travessa-qual-escolher"
+      },
+      {
+        "slug": "black-friday-letseatit"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo para autenticar a peça; na dúvida, o SAC da marca ajuda. No site da Let's Eat It, o código MAUAD dá 5%."
+          "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo; na dúvida, o SAC da marca ajuda. No site da Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF."
         ]
       },
       {
-        "heading": "Existe Le Creuset falsa? O que a marca publica",
+        "heading": "O alerta da Le Creuset Brasil sobre falsas promoções",
         "paragraphs": [
           "A marca tem uma página de alerta com o título \"Alerta Importante! Falsas promoções e anúncios de produtos da marca Le Creuset®\". Ela diz que a Le Creuset Brasil tomou conhecimento de anúncios em mídias sociais e em páginas da internet que divulgam falsas promoções e descontos. A página não tem data.",
           "O que o alerta orienta, em resumo:"
         ],
         "bullets": [
-          "Os canais oficiais são o site da marca, as lojas próprias e os revendedores credenciados e parceiros autorizados, que o site manda consultar.",
-          "Oferta que não vem do site oficial, de e-mail com a extensão \"@lecreuset.com\" ou de parceiro autorizado não é de canal oficial.",
+          "Os canais oficiais são o site da marca, as lojas próprias e os parceiros que o site manda consultar.",
+          "Oferta que não vem do site oficial, de e-mail com a extensão \"@lecreuset.com\" ou de um parceiro da marca não é de canal oficial.",
           "Não clique em link nem abra anexo de anúncio ou e-mail suspeito.",
           "Em caso de dúvida, procure o SAC da Le Creuset Brasil."
         ],
@@ -146924,17 +147199,10 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O país de origem é um dado de cada produto, não da marca inteira. A caçarola de ferro fundido diz France, a mini cocotte de cerâmica diz Tailândia. Uma peça de cerâmica com origem na Tailândia pode ser original, porque é isso que a ficha da própria marca informa. Na frigideira, o campo de origem nem aparece.",
           "Um cuidado ao ler as páginas: o texto da garantia vitalícia do ferro fundido se repete até na frigideira de cerâmica. O que vale para a peça é a linha \"Garantia\" da tabela de atributos dela."
-        ],
-        "image": {
-          "src": "/images/reviews/letseatit/le-creuset-fichas-material-origem-garantia.webp",
-          "alt": "Quadro com material, país de origem e garantia de três peças Le Creuset: buffet de ferro fundido (France, vitalícia), mini cocotte de cerâmica (Tailândia, 10 anos) e frigideira Essential (sem origem na ficha, 10 anos)",
-          "caption": "Dados das fichas do site da Le Creuset Brasil. Quadro nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 1.9672
-        }
+        ]
       },
       {
-        "heading": "A garantia vale em qualquer loja? Como acionar",
+        "heading": "Garantia da Le Creuset: qualquer loja e como acionar",
         "paragraphs": [
           "A marca diz que a Central de Atendimento oferece suporte e análise de garantia para \"qualquer produto Le Creuset independentemente do país ou canal de compra\". É o texto da marca: ele fala em análise, não em aceite garantido.",
           "Para acionar:"
@@ -146953,13 +147221,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar Le Creuset original",
         "paragraphs": [
-          "A Le Creuset Brasil lista seus canais oficiais nas páginas de alerta e de devoluções: o site oficial, as lojas físicas próprias, a Prateleira Infinita (pedido on-line feito com o vendedor dentro de uma loja física), o bazar anual, os outlets e os revendedores credenciados e parceiros autorizados. As lojas próprias ficam em shoppings de várias cidades, a maioria capitais, com endereços e horários na página Lojas Oficiais do site da marca.",
-          "Para conferir um revendedor, a marca mantém um localizador chamado \"Revendedor Autorizado\". O caminho é lecreuset.com.br/lojas. Em 26/10/2026, ele trazia cerca de 200 pontos, a maioria revendedores, e 2 outlets.",
+          "A Le Creuset Brasil lista seus canais oficiais nas páginas de alerta e de devoluções: o site oficial, as lojas físicas próprias, a Prateleira Infinita (pedido on-line feito com o vendedor dentro de uma loja física), o bazar anual, os outlets e os parceiros que a marca lista no localizador. As lojas próprias ficam em shoppings de várias cidades, a maioria capitais, com endereços e horários na página Lojas Oficiais do site da marca.",
+          "Para conferir um parceiro, a marca mantém um localizador de lojas. O caminho é lecreuset.com.br/lojas. Em 26/10/2026, ele trazia cerca de 200 pontos, a maioria parceiros, e 2 outlets.",
           "Como usar: busque pela sua cidade antes de comprar numa loja que você não conhece e veja se ela aparece. Estar na lista diz que a loja é um canal listado pela marca. Não diz a origem de cada peça, que está na ficha e na nota fiscal, e a lista muda, por isso vale olhar de novo na hora da compra."
         ],
         "image": {
           "src": "/images/reviews/letseatit/le-creuset-localizador-revendedor-autorizado-2610.webp",
-          "alt": "Localizador Revendedor Autorizado da Le Creuset Brasil com o mapa dos pontos de venda e a busca por Serra, ES, que traz a Let's Eat It como Wholesale Partner",
+          "alt": "Localizador de lojas da Le Creuset Brasil com o mapa dos pontos de venda e a busca por Serra, ES, que traz a Let's Eat It como Wholesale Partner",
           "caption": "O localizador de revendedores da Le Creuset Brasil: o mapa e a busca por Serra (ES). Montagem nossa com dois prints.",
           "objectFit": "contain",
           "aspectRatio": 0.8702
@@ -146973,33 +147241,74 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "E a Let's Eat It?",
+        "heading": "A Let's Eat It no localizador e o cupom",
         "paragraphs": [
-          "A Let's Eat It aparece no localizador como revendedor autorizado (\"Wholesale Partner\"), em Serra (ES), listada pela Le Creuset Brasil. Para a reputação e as políticas da loja, veja [a Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel). Para escolher o tamanho e ver os preços, leia o artigo irmão [Le Creuset: qual tamanho escolher](/reviews/le-creuset-qual-tamanho-escolher). O desconto da parceria está na [página do cupom da Let's Eat It](/cupons/letseatit)."
+          "A Let's Eat It aparece no localizador de lojas da Le Creuset Brasil como Wholesale Partner, em Serra (ES). No site, a [coleção Le Creuset](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem peças como a [Panela Redonda Signature Azure Blue de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de R$ 2.329 de tabela por R$ 1.746,75 na promoção de novembro, e a [Caçarola Buffet Signature Sage de 30 cm](https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de R$ 2.999 por R$ 2.249,25. Em novembro, várias cores têm 25% de desconto sobre a tabela; as outras seguem sem desconto.",
+          "O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento e soma com as promoções e com os 5% do Pix. No checkout, cole o código no campo \"Código de desconto\". Sobre os R$ 1.746,75 da Azure Blue, são R$ 1.659,41 com o cupom e R$ 1.576,44 com o Pix (conta nossa, sem frete; o cupom entra primeiro).",
+          "Para escolher o tamanho, leia [Le Creuset: qual tamanho escolher](/reviews/le-creuset-qual-tamanho-escolher); para travessas, [qual travessa Le Creuset escolher](/reviews/le-creuset-travessa-qual-escolher)."
+        ],
+        "links": [
+          {
+            "label": "Ver a Redonda Signature Azure Blue 20 cm na Let's Eat It",
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a caçarola buffet Sage 30 cm na Let's Eat It",
+            "href": "https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a coleção Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-redonda-azure-20cm-mesa.webp",
+            "alt": "Panela Le Creuset Redonda Signature Azure 20 cm sobre a mesa",
+            "caption": "Redonda Signature Azure 20 cm. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
         ]
       },
       {
         "heading": "O que conferir antes de comprar",
         "bullets": [
-          "Confira o canal no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, antes de comprar numa loja nova para você.",
+          "Confira o canal no localizador de lojas da Le Creuset Brasil, em lecreuset.com.br/lojas, antes de comprar numa loja nova para você.",
           "Desconfie de oferta fora dos canais oficiais, como diz o alerta da marca.",
           "Guarde a nota fiscal: é o comprovante que a marca pede para analisar a garantia.",
           "Leia na página da peça o material, o país de origem e a garantia da linha, porque variam por produto.",
           "Em outlet e bazar, que são lojas físicas, a marca não aceita troca nem devolução por desistência depois da venda; defeito de fabricação segue pela garantia."
-        ]
+        ],
+        "emphasis": "Compre de um canal que a própria Le Creuset lista, guarde a nota fiscal e leia a ficha da peça: é isso que protege a garantia."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Existe Le Creuset falsa? A Le Creuset Brasil publicou um alerta sobre falsas promoções e descontos em mídias sociais e em páginas da internet. Ela pede atenção a qualquer oferta que não venha dos canais oficiais: o site da marca, e-mail com \"@lecreuset.com\" ou um parceiro autorizado.",
+          "Existe Le Creuset falsa? A Le Creuset Brasil publicou um alerta sobre falsas promoções e descontos em mídias sociais e em páginas da internet. Ela pede atenção a qualquer oferta que não venha dos canais oficiais: o site da marca, e-mail com \"@lecreuset.com\" ou um parceiro da marca.",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Le Creuset é made in France ou Tailândia? Depende do produto. Na ficha da caçarola buffet de ferro fundido, o país de origem é France. Na da mini cocotte de cerâmica, é Tailândia. Nenhuma das três fichas traz China.",
           "Le Creuset tem número de série para conferir? Não: as páginas brasileiras da marca não trazem guia de número de série, gravação ou selo. Em caso de dúvida sobre uma peça, procure o SAC da marca.",
           "A garantia da Le Creuset vale se eu comprei em outra loja? Segundo a marca, a análise de garantia vale para qualquer produto Le Creuset, independentemente do país ou do canal de compra. Guarde a nota fiscal ou outro comprovante de propriedade.",
           "O outlet da Le Creuset vende peça original? O outlet é loja oficial da marca. Vende seconds, B-grade e modelos descontinuados, com pequenas variações, sem troca nem devolução por desistência depois da venda na loja física, e com garantia para defeito de fabricação.",
-          "Como saber se uma loja é revendedora autorizada da Le Creuset? Procure a loja no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, buscando pela cidade. A lista é da própria Le Creuset Brasil."
+          "Como saber se uma loja é canal da Le Creuset Brasil? Procure a loja no localizador de lojas, em lecreuset.com.br/lojas, buscando pela cidade. A lista é da própria Le Creuset Brasil."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai comprar Le Creuset de uma loja nova e quer um jeito de confirmar o canal antes de pagar.",
+        "Você quer saber a quem recorrer se a peça chegar com defeito ou avaria."
+      ],
+      "skipIf": [
+        "Você procura um selo ou número de série para autenticar a peça: a marca não publica esse caminho no Brasil.",
+        "Você pretende comprar em anúncio que não aparece nos canais oficiais da marca."
+      ]
+    }
   },
   {
     "id": 616,
@@ -175153,7 +175462,7 @@ export const reviewsData: unknown[] = [
     "slug": "faqueiro-laguiole-la-maison-qual-escolher",
     "locale": "pt",
     "title": "Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças) e se vale a pena",
-    "seoTitle": "Faqueiro Laguiole La Maison: qual escolher",
+    "seoTitle": "Faqueiro Laguiole La Maison: 12, 18 ou 30 peças?",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -175178,56 +175487,56 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo, o de dezoito acrescenta a colher e o de trinta, garfo e colher de sobremesa. Escolha pelos talheres de que precisa; o Branco era o mais barato entre os de trinta. Na Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
+          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo, o de dezoito acrescenta a colher e o de trinta, garfo e colher de sobremesa. Escolha pelos talheres de que precisa. Na Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento e soma com o Pix."
         ]
       },
       {
         "heading": "Qual escolher: 12, 18 ou 30 peças",
         "paragraphs": [
-          "A linha Laguiole La Maison Luxo da Let's Eat It tem faqueiro em três tamanhos. Os três servem seis pessoas. O que muda é quantos tipos de talher cada pessoa recebe. Os preços são os do cartão, e só entram as cores com estoque."
+          "A linha Laguiole La Maison Luxo da Let's Eat It tem faqueiro em três tamanhos. Os três servem seis pessoas. O que muda é quantos tipos de talher cada pessoa recebe. Os preços são os do cartão, e só entram as cores disponíveis. Parte delas está em pré-venda: confira a previsão de envio na página, sobretudo se o faqueiro é presente com data."
         ],
         "comparisonTable": {
-          "caption": "Preço no cartão e cores com estoque em 29/10",
+          "caption": "Preço no cartão e cores disponíveis na leitura de 22/11/2026",
           "headers": [
             "Faqueiro",
             "O que vem, segundo a ficha",
-            "Cores com estoque",
+            "Cores disponíveis",
             "Preço no cartão",
             "Por pessoa, para 6 (conta nossa)"
           ],
           "rows": [
             [
-              "[Faqueiro Laguiole La Maison Luxo 12 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Faqueiro Laguiole La Maison Luxo 12 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas e 6 garfos",
-              "Branco, Verde, Laranja e Bordeaux",
+              "Verde e Marfim (pré-venda) e Laranja",
               "R$ 469,00",
               "R$ 78,17"
             ],
             [
-              "[Faqueiro Laguiole La Maison Luxo 18 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Faqueiro Laguiole La Maison Luxo 18 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas, 6 garfos e 6 colheres",
-              "Branco, Verde e Laranja",
+              "Verde e Marfim (pré-venda) e Laranja",
               "R$ 729,00",
               "R$ 121,50"
             ],
             [
-              "[Faqueiro Laguiole La Maison Luxo Branco 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Faqueiro Laguiole La Maison Luxo Marfim 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
-              "Branco",
-              "R$ 946,32",
-              "R$ 157,72"
+              "Marfim (pré-venda)",
+              "R$ 1.099,00",
+              "R$ 183,17"
             ],
             [
               "[Faqueiro Laguiole La Maison Luxo Verde 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
-              "Verde",
+              "Verde (pré-venda)",
               "R$ 1.099,00",
               "R$ 183,17"
             ]
           ]
         },
         "postParagraphs": [
-          "A coluna por pessoa é conta nossa: o preço dividido por seis. A página mostra também um preço riscado, que muda de cor para cor, e por isso a tabela traz só o preço de venda. O Laranja e o Bordeaux de 30 peças estão na seção seguinte."
+          "A coluna por pessoa é conta nossa: o preço dividido por seis. A página mostra também um preço riscado, que muda de cor para cor, e por isso a tabela traz só o preço de venda. A cor Branco saiu do site, e o Laranja e o Bordeaux de 30 peças esgotaram: estão na seção seguinte."
         ],
         "images": [
           {
@@ -175235,32 +175544,41 @@ export const reviewsData: unknown[] = [
             "alt": "Faca, garfo, colher, garfo de sobremesa e colher de sobremesa do faqueiro Laguiole La Maison Luxo de cabo verde, lado a lado sobre tábua de madeira",
             "caption": "Faqueiro Laguiole La Maison Luxo Verde, 30 peças. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o faqueiro Laguiole La Maison na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/laguiole-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
       {
-        "heading": "30 peças: o conjunto completo, com o preço mudando pela cor",
+        "heading": "30 peças: o conjunto completo, em Verde e Marfim",
         "paragraphs": [
           "O faqueiro de 30 peças traz 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa, diz a página. São cinco talheres por pessoa para seis pessoas. Não vem colher de chá.",
-          "A composição é a mesma em todas as cores, mas o preço muda com a cor do cabo. O [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 946,32, o [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e o [Bordeaux](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-bordeaux-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custavam R$ 967,37 cada, e o [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 1.099,00. O Marfim, o Preto, o Cinza e o Azul Marinho de 30 peças estavam esgotados.",
-          "O Branco era o mais barato do conjunto de trinta peças. A diferença para o Verde era de R$ 152,68. Se a cor do cabo pesa na mesa, compare a diferença atual antes de decidir."
+          "A composição é a mesma em todas as cores. Na última leitura, só o [Marfim](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e o [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) estavam disponíveis, os dois por R$ 1.099,00 e em pré-venda. O Laranja e o Bordeaux, que custavam R$ 967,37, esgotaram, e o Branco, que era o mais barato do conjunto, saiu do site.",
+          "Com Verde e Marfim no mesmo preço, a cor do cabo é escolha de mesa, não de orçamento. O Marfim é o tom claro da linha, e o Verde dá contraste com louça branca."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-branco-30-pecas.webp",
             "alt": "Cinco talheres do faqueiro Laguiole La Maison Luxo de cabo branco sobre tábua de madeira: garfo, faca, colher, garfo e colher de sobremesa",
-            "caption": "Faqueiro Laguiole La Maison Luxo Branco, 30 peças. Imagem: Let's Eat It.",
+            "caption": "Faqueiro Laguiole La Maison Luxo de 30 peças em cabo branco, cor que saiu do site; o tom claro à venda é o Marfim. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
       {
         "heading": "18 peças: faca, garfo e colher",
         "paragraphs": [
-          "O de 18 peças tem 6 facas, 6 garfos e 6 colheres, diz a página. Fica de fora o talher de sobremesa. Custava R$ 729,00 nas três cores com estoque: [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). O Marfim, o Preto, o Cinza e o Azul Marinho estavam esgotados.",
-          "Do 18 peças para o 30 peças Branco, a diferença é de R$ 217,32, e o que entra a mais são as 12 peças de sobremesa."
+          "O de 18 peças tem 6 facas, 6 garfos e 6 colheres, diz a página. Fica de fora o talher de sobremesa. Custa R$ 729,00 nas três cores disponíveis: [Marfim](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), em pré-venda, e [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico).",
+          "Do 18 peças para o 30 peças, a diferença é de R$ 370,00, e o que entra a mais são as 12 peças de sobremesa."
         ],
         "images": [
           {
@@ -175268,23 +175586,25 @@ export const reviewsData: unknown[] = [
             "alt": "Garfo, faca e colher do faqueiro Laguiole La Maison Luxo de cabo verde sobre tábua de madeira, com pimentas e sal ao fundo",
             "caption": "Faqueiro Laguiole La Maison Luxo Verde, 18 peças. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-18-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
       {
         "heading": "12 peças: só faca e garfo",
         "paragraphs": [
-          "O de 12 peças traz 6 facas e 6 garfos, diz a página. Custava R$ 469,00 em quatro cores: [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Bordeaux](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-bordeaux-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). O Marfim, o Preto, o Cinza e o Azul Marinho estavam esgotados.",
+          "O de 12 peças traz 6 facas e 6 garfos, diz a página. Custa R$ 469,00 em três cores disponíveis: [Marfim](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), em pré-venda, e [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-12-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). O Bordeaux de 12 peças esgotou.",
           "É o tamanho para quem já tem colheres e talher de sobremesa em casa e quer só a faca e o garfo da linha."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/faqueiro-laguiole-la-maison-qual-escolher-bordeaux-12-pecas.webp",
             "alt": "Garfo e faca do faqueiro Laguiole La Maison Luxo de cabo bordeaux ao lado de um prato, sobre bancada de granito",
-            "caption": "Faqueiro Laguiole La Maison Luxo Bordeaux, 12 peças. Imagem: Let's Eat It.",
+            "caption": "Faqueiro Laguiole La Maison Luxo Bordeaux, 12 peças, cor esgotada; o de 12 peças segue em Verde, Marfim e Laranja. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/collections/laguiole-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175308,7 +175628,8 @@ export const reviewsData: unknown[] = [
             "alt": "Detalhe do cabo verde do garfo e da faca do faqueiro Laguiole La Maison Luxo sobre um prato branco",
             "caption": "Detalhe do cabo do Laguiole La Maison Luxo Verde. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175319,28 +175640,28 @@ export const reviewsData: unknown[] = [
           "Para presente de casamento, o 30 peças entrega o conjunto completo de uma vez, e o 12 ou o 18 cabem num orçamento menor. O [guia de presente de casamento por preço](/reviews/presente-de-casamento-ideias-por-preco) tem outras ideias em cada faixa.",
           "Para o dia a dia de seis pessoas, o 18 peças já traz faca, garfo e colher. O 12 serve quem só precisa de faca e garfo."
         ],
-        "emphasis": "Se fosse para a minha casa, eu começaria pelo Branco de trinta peças: cobre os cinco tipos de talher para seis lugares e foi o mais barato entre as cores. Confirmaria o preço e o estoque antes de comprar.",
-        "emphasisAfterParagraph": 3
+        "emphasis": "Para seis pessoas com sobremesa à mesa, o 30 peças resolve de uma vez; o 18 cobre o dia a dia, e o 12 só vale para quem já tem colheres e talheres de sobremesa."
       },
       {
         "heading": "Cupom e Pix",
         "paragraphs": [
-          "No site da Let's Eat It, o cupom MAUAD dá 5%, vale em todas as formas de pagamento e soma com os 5% do Pix: no 30 peças Verde, R$ 1.099,00 ficam R$ 991,85 com os dois (conta nossa, com o preço do cartão). As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
+          "No site da Let's Eat It, o cupom MAUAD dá 5% OFF, vale em todas as formas de pagamento e soma com os 5% do Pix: no 30 peças Verde, R$ 1.099,00 ficam R$ 991,85 com os dois (conta nossa, com o preço do cartão). Cole o código no campo \"Código de desconto\" do checkout. As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
         ]
       },
       {
         "heading": "Faqueiro La Maison sem o nome Laguiole",
         "paragraphs": [
-          "A loja vende também faqueiros da marca La Maison que não levam o nome Laguiole na ficha. Na cor Marfim, o [de 12 peças](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 199,00, o [de 24 peças](https://letseatit.com.br/products/faqueiro-24-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) R$ 389,00 e o [de 36 peças](https://letseatit.com.br/products/faqueiro-36-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) R$ 577,89. O material é outro, aço inoxidável e policarbonato, e cada um traz facas, garfos e colheres em partes iguais, sem talher de sobremesa. As três fichas dizem \"até quatro pessoas\", inclusive a de 24 e a de 36."
+          "A loja vende também faqueiros da marca La Maison que não levam o nome Laguiole na ficha. Na cor Marfim, o [de 12 peças](https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 199,00, o [de 24 peças](https://letseatit.com.br/products/faqueiro-24-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) R$ 389,00 e o [de 36 peças](https://letseatit.com.br/products/faqueiro-36-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) R$ 577,89. O material é outro, aço inoxidável e policarbonato, e cada um traz facas, garfos e colheres em partes iguais, sem talher de sobremesa. As três fichas dizem \"até quatro pessoas\", inclusive a de 24 e a de 36."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout; as condições estão no [cupom Let's Eat It](/cupons/letseatit).",
           "O faqueiro Laguiole La Maison pode ir na máquina de lavar louça? A ficha da Let's Eat It não diz. Ela informa só o material: lâmina em aço inoxidável e cabo em ABS.",
           "O Laguiole La Maison é original francês? A ficha diz que o design é de artesãos franceses, mas não informa o país de fabricação.",
           "Quantas peças de cada tipo tem o faqueiro Laguiole de 30 peças? São 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa, segundo a ficha. Não vem colher de chá.",
-          "Qual a cor mais barata do faqueiro Laguiole de trinta peças? O Branco custava R$ 946,32 no cartão e o Verde, R$ 1.099,00. Confira preço e estoque atuais, porque mudam por cor.",
+          "Qual a cor do faqueiro Laguiole de trinta peças? Na última leitura, Verde e Marfim, os dois por R$ 1.099,00 e em pré-venda. O Branco saiu do site, e o Laranja e o Bordeaux esgotaram. Confira preço e estoque atuais, porque mudam por cor.",
           "O faqueiro Laguiole La Maison tem garantia? A ficha não traz prazo nem termo de garantia. O texto da loja fala em \"garantia de utensílios de qualidade\" só como descrição da marca."
         ]
       }
@@ -175354,7 +175675,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe se a lava-louças decide: a ficha não diz se o faqueiro pode ir.",
         "Passe se a garantia decide: a ficha não traz prazo nem termo.",
-        "Passe pela cor sem olhar o preço: no 30 peças, a cor do cabo muda o valor."
+        "Passe o 30 peças se precisa dele já: o Verde e o Marfim estão em pré-venda, então confira a previsão na página."
       ]
     },
     "pros": [],
@@ -175410,7 +175731,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido: um jogo americano e um guardanapo por pessoa, que já mudam a mesa. Depois vêm os talheres, a maior compra de uma vez, e por último os pratos. No site da Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
+          "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido: um jogo americano e um guardanapo por pessoa. Depois vêm os talheres, a maior compra de uma vez, e por último os pratos. No site da Let's Eat It, o [cupom MAUAD](/cupons/letseatit) dá 5% OFF em todas as formas de pagamento."
         ]
       },
       {
@@ -175432,7 +175753,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1º: o guardanapo de tecido",
         "paragraphs": [
-          "Os dois guardanapos da conta são da Decortextil, de 100% algodão e 45 x 45 cm, diz a página. O [Bordado Oliva](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 36,00 e o [Poá Terracota](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 56,00.",
+          "Os dois guardanapos da conta são da Decortextil, de 100% algodão e 45 x 45 cm, diz a página. O [Bordado Oliva](https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 36,00 e o [Poá Bege](https://letseatit.com.br/products/guardanapo-100-algodao-poa-bege?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 56,00.",
           "O preço é o da página, que descreve o guardanapo como \"uma peça\". A conta por pessoa assume um guardanapo por página, o que é conta nossa.",
           "Pela ficha, os dois pedem lavagem à mão até 40 °C, sem secadora e sem alvejante.",
           "Quantos guardanapos ter e qual tamanho escolher estão no [guia de guardanapo de tecido](/reviews/guardanapo-de-tecido-quantos-tamanho)."
@@ -175441,9 +175762,10 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/letseatit/mesa-posta-dia-a-dia-o-que-comprar-guardanapo-poa-terracota.webp",
             "alt": "Guardanapo de tecido branco com bolinhas e borda ondulada em terracota, aberto sobre fundo branco",
-            "caption": "Guardanapo 100% Algodão Poá Terracota, Decortextil. Imagem: Let's Eat It.",
+            "caption": "Guardanapo 100% Algodão Poá, Decortextil, na cor Terracota, que saiu do site. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/guardanapo-100-algodao-poa-bege?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175461,7 +175783,8 @@ export const reviewsData: unknown[] = [
             "alt": "Jogo americano de tecido branco com borda recortada de limões amarelos e folhas verdes",
             "caption": "Jogo Americano Tecido Limone Color 33 x 48 cm, Tuut. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1.3595
+            "aspectRatio": 1.3595,
+            "href": "https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175478,7 +175801,8 @@ export const reviewsData: unknown[] = [
             "alt": "Garfo, faca e colher de aço inox com cabo marfim e rebites aparentes, em pé sobre fundo cinza-claro",
             "caption": "Faqueiro 12 Peças Marfim, La Maison. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175495,7 +175819,8 @@ export const reviewsData: unknown[] = [
             "alt": "Prato raso de porcelana branco com borda verde e folhagens pintadas em círculos, sobre fundo branco",
             "caption": "Prato Raso Porcelana Carnaúba 27 cm, Tuut. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1.0023
+            "aspectRatio": 1.0023,
+            "href": "https://letseatit.com.br/products/prato-raso-porcelana-carnauba-27cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175549,7 +175874,7 @@ export const reviewsData: unknown[] = [
               "R$ 157,65"
             ]
           ],
-          "caption": "Faixa econômica para 2 e 4 pessoas, no cartão e sem frete, preços de 29/10."
+          "caption": "Faixa econômica para 2 e 4 pessoas, no cartão e sem frete, preços lidos em 22/11."
         },
         "postParagraphs": [
           "Sem os pratos, para quem usa os de casa, a faixa fica em R$ 330,80 para 2 pessoas e R$ 462,60 para 4."
@@ -175560,7 +175885,8 @@ export const reviewsData: unknown[] = [
             "alt": "Prato raso redondo de melamina com xadrez azul e branco, visto de cima",
             "caption": "Prato de Raso Melamina Xadrez Azul 27,8 cm, EntreCasa. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 0.9989
+            "aspectRatio": 0.9989,
+            "href": "https://letseatit.com.br/products/prato-de-raso-melamina-xadrez-azul-27-8cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175584,7 +175910,7 @@ export const reviewsData: unknown[] = [
               "R$ 218,60"
             ],
             [
-              "[Guardanapo 100% Algodão Poá Terracota 45 x 45 cm, Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Guardanapo 100% Algodão Poá Bege 45 x 45 cm, Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-poa-bege?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 56,00",
               "R$ 112,00",
               "R$ 224,00"
@@ -175614,7 +175940,7 @@ export const reviewsData: unknown[] = [
               "R$ 212,30"
             ]
           ],
-          "caption": "Faixa intermediária para 2 e 4 pessoas, no cartão e sem frete, preços de 29/10."
+          "caption": "Faixa intermediária para 2 e 4 pessoas, no cartão e sem frete."
         },
         "postParagraphs": [
           "Dá para subir de faixa aos poucos: o faqueiro fica, e você troca primeiro o tecido, depois os pratos. As faixas também se misturam, como o Limone com o Oliva."
@@ -175624,30 +175950,50 @@ export const reviewsData: unknown[] = [
         "heading": "Sousplat e taça ficam de fora",
         "paragraphs": [
           "O sousplat é opcional no dia a dia. Se quiser um, o [Sousplat Liso Verde 33 cm, da Wolff](https://letseatit.com.br/products/sousplat-liso-verde-33cm-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de plástico pela ficha, custa R$ 21,90 cada.",
-          "A taça ficou fora da conta porque a Sphere só é vendida em jogo de 6: o [Conjunto 6 Taças base Esfera Âmbar Sphere 450 ml](https://letseatit.com.br/products/taca-base-esfera-ambar-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 298,00."
+          "A taça ficou fora da conta porque a Sphere só é vendida em jogo de 6: o [Conjunto 6 Taças base Esfera Azul Sphere 450 ml](https://letseatit.com.br/products/taca-base-esfera-azul-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 298,00."
         ]
       },
       {
         "heading": "Frete, Pix e cupom",
         "paragraphs": [
-          "O frete é calculado à parte, pelo CEP. O Pix dá 5% de desconto em muitos produtos, e o cupom MAUAD dá mais 5% sobre o subtotal, vale em todas as formas de pagamento e soma com o Pix.",
+          "O frete é calculado à parte, pelo CEP. O Pix dá 5% de desconto em muitos produtos, e o cupom MAUAD dá mais 5% sobre o subtotal, vale em todas as formas de pagamento e soma com o Pix. Cole o código no campo \"Código de desconto\" do checkout.",
           "Na faixa intermediária para 4 pessoas, R$ 849,20 viram R$ 806,74 só com o código e cerca de R$ 766,40 com o Pix por cima (conta nossa, com os mesmos preços; o valor exato aparece no checkout). As condições estão na [página de cupons da Let's Eat It](/cupons/letseatit)."
         ]
       },
       {
-        "heading": "Mesa de Natal",
+        "heading": "Qual faixa escolher",
         "paragraphs": [
+          "Para duas pessoas, o tecido da faixa econômica, jogo americano e guardanapo, sai por R$ 131,80; para quatro, R$ 263,60. É a compra que mais muda a mesa e usa os pratos e talheres que você já tem. O faqueiro de 12 peças vem depois, e os pratos por último, se os de casa já atendem.",
           "Para a ceia, com seis pessoas, sobremesa e taças, a conta é outra: veja a [mesa posta de Natal, o que precisa e quanto custa](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa)."
+        ],
+        "emphasis": "Comece pelo tecido: jogo americano e guardanapo mudam a mesa inteira por menos de R$ 140 para duas pessoas, e os talheres e pratos de casa seguem valendo.",
+        "links": [
+          {
+            "label": "Ver o jogo americano Gregas Bege na Let's Eat It",
+            "href": "https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o guardanapo Bordado Oliva na Let's Eat It",
+            "href": "https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o faqueiro 12 peças Marfim na Let's Eat It",
+            "href": "https://letseatit.com.br/products/faqueiro-12-pecas-marfim-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "O que comprar primeiro para a mesa posta? O tecido: um jogo americano e um guardanapo por pessoa, que funcionam com os pratos e talheres que você já tem.",
           "Quanto custa uma mesa posta para 2 pessoas? Na faixa econômica, R$ 414,80 no cartão e sem frete, com o faqueiro de 12 peças inteiro. Você pode começar só pelo tecido e usar pratos e talheres de casa.",
           "Quanto custa uma mesa posta para 4 pessoas? R$ 630,60 na faixa econômica e R$ 849,20 na intermediária, no cartão e sem frete.",
           "Dá para montar a mesa posta sem taça? Sim. A taça ficou fora da conta porque a Sphere só é vendida em jogo de 6, de R$ 289,00 a R$ 298,00.",
-          "Guardanapo de tecido pode ir na máquina? Pela ficha do Poá Terracota e do Bordado Oliva, não: a lavagem é à mão, até 40 °C, sem secadora e sem alvejante."
+          "Guardanapo de tecido pode ir na máquina? Pela ficha do Poá e do Bordado Oliva, não: a lavagem é à mão, até 40 °C, sem secadora e sem alvejante."
         ]
       }
     ],
@@ -175672,7 +176018,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "porto-brasil-e-boa"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Comece pelo tecido se os pratos e talheres de casa ainda servem: jogo americano e guardanapo mudam a mesa por pouco.",
+        "Leve o faqueiro de 12 peças quando a casa precisa de talheres para quatro pessoas."
+      ],
+      "skipIf": [
+        "Passe o faqueiro de 12 peças se você mora com mais uma pessoa e os talheres de casa estão completos: o jogo vem inteiro e o custo por lugar dobra.",
+        "Deixe a taça para depois: a Sphere só é vendida em jogo de 6, e a mesa do dia a dia funciona sem ela."
+      ]
+    }
   },
   {
     "id": 714,
@@ -175690,7 +176046,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quantos guardanapos de tecido comprar para 2, 4, 6 ou 8 pessoas, com um de reserva por mesa, e a diferença entre as medidas de 45 x 45 cm e 40 x 40 cm, com preços de 29/10/2026.",
+    "description": "Quantos guardanapos de tecido comprar para 2, 4, 6 ou 8 pessoas, com um de reserva por mesa, e a diferença entre as medidas de 45 x 45 cm e 40 x 40 cm, com o preço de cada modelo.",
     "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Guardanapo de tecido: 1 por pessoa e 1 de reserva por mesa, com tabela de 2 a 8 pessoas.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
@@ -175704,7 +176060,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Entre as medidas das fichas, nossa sugestão é o de 45 x 45 cm para almoço e jantar, e o de 40 x 40 cm para café e lanche. No site da Let's Eat It, o código MAUAD dá 5%."
+          "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. O de 45 x 45 cm serve para almoço e jantar, e o de 40 x 40 cm para café e lanche. No site da Let's Eat It, o [cupom MAUAD](/cupons/letseatit) dá 5% OFF em todas as formas de pagamento."
         ]
       },
       {
@@ -175714,7 +176070,7 @@ export const reviewsData: unknown[] = [
           "Na tabela, o preço é o do cartão. Nenhuma das quatro páginas traz campo de quantidade, e três descrevem o guardanapo como \"uma peça\"; a conta assume um guardanapo por preço. Confira a quantidade no carrinho antes de fechar o pedido."
         ],
         "comparisonTable": {
-          "caption": "Preço no cartão no site da Let's Eat It, 29/10",
+          "caption": "Preço no cartão no site da Let's Eat It, lido em 22/11",
           "headers": [
             "Guardanapo (Decortextil)",
             "Medida",
@@ -175744,7 +176100,7 @@ export const reviewsData: unknown[] = [
               "R$ 332,10"
             ],
             [
-              "[Poá Terracota](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Poá Bege](https://letseatit.com.br/products/guardanapo-100-algodao-poa-bege?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "45 x 45 cm",
               "R$ 56,00",
               "R$ 168,00",
@@ -175765,16 +176121,17 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os totais incluem um guardanapo de reserva e não incluem frete, que sai pelo CEP.",
-          "O cupom MAUAD dá 5% de desconto no site em todas as formas de pagamento e acumula com os 5% do Pix. Aplicando o cupom aos valores da tabela, o conjunto de sete guardanapos Poá Terracota (mesa para seis com reserva) baixa de R$ 392,00 para R$ 372,40 no cartão e para R$ 353,78 no Pix, sem contar o frete calculado pelo CEP.",
+          "O cupom MAUAD dá 5% de desconto no site em todas as formas de pagamento e acumula com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout. Aplicando o cupom aos valores da tabela, o conjunto de sete guardanapos Poá Bege (mesa para seis com reserva) baixa de R$ 392,00 para R$ 372,40 no cartão e para R$ 353,78 no Pix, sem contar o frete calculado pelo CEP.",
           "O [guia da mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) conta um guardanapo por pessoa, sem reserva, para uma mesa de seis. Se for seguir a conta daqui, some uma peça."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/guardanapo-de-tecido-quantos-tamanho-poa-terracota.webp",
             "alt": "Guardanapo de tecido branco com poás terracota e borda ondulada terracota, aberto sobre fundo branco",
-            "caption": "Guardanapo 100% Algodão Poá Terracota, 45 x 45 cm, Decortextil. Imagem: Let's Eat It.",
+            "caption": "Guardanapo 100% Algodão Poá, 45 x 45 cm, Decortextil, na cor Terracota, que saiu do site. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 0.9868
+            "aspectRatio": 0.9868,
+            "href": "https://letseatit.com.br/products/guardanapo-100-algodao-poa-bege?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175792,7 +176149,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "45 x 45 cm",
-              "Poá Terracota, Bordado Oliva, Bordado Duplo Bege",
+              "Poá Bege, Bordado Oliva, Bordado Duplo Bege",
               "2.025 cm², cerca de 27% a mais que o de 40"
             ],
             [
@@ -175812,7 +176169,8 @@ export const reviewsData: unknown[] = [
             "alt": "Guardanapo de tecido cru com cinco abelhas bordadas e barra de ponto ajour, aberto sobre fundo branco",
             "caption": "Guardanapo 100% Algodão Ponto Ajour Cru Abelha, 40 x 40 cm, Decortextil. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1.0045
+            "aspectRatio": 1.0045,
+            "href": "https://letseatit.com.br/products/guardanapo-100-algodao-ponto-ajour-cru-abelha?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175835,7 +176193,8 @@ export const reviewsData: unknown[] = [
             "alt": "Guardanapo de tecido branco com borda ondulada bordada em verde-oliva, aberto sobre fundo branco",
             "caption": "Guardanapo 100% Algodão Bordado Oliva, 45 x 45 cm, Decortextil. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1.0251
+            "aspectRatio": 1.0251,
+            "href": "https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -175847,7 +176206,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Para a mesa do dia a dia no almoço e no jantar: o Bordado Oliva, de 45 x 45 cm, é o mais barato dos quatro, a R$ 36,00. A ficha descreve um bordado oliva em contorno ondulado.",
           "Para o café da manhã e o lanche: o Ponto Ajour Cru Abelha, de 40 x 40 cm, a R$ 36,90. Segundo a ficha, o ponto ajour tira fios da trama e deixa um pequeno vazado no tecido, e a estampa é de abelhas.",
-          "Para jantar com convidados: o Poá Terracota (R$ 56,00) ou o Bordado Duplo Bege (R$ 58,00), os dois de 45 x 45 cm. A ficha do Poá descreve um bordado terracota em contorno ondulado, e a do Bege, um bordado duplo bege. Para seis pessoas com reserva, a diferença entre os dois é de R$ 14,00."
+          "Para jantar com convidados: o Poá Bege (R$ 56,00) ou o Bordado Duplo Bege (R$ 58,00), os dois de 45 x 45 cm. A ficha do Duplo descreve um bordado duplo bege, e o Poá vem também em azul e verde escuro. Para seis pessoas com reserva, a diferença entre os dois é de R$ 14,00."
         ],
         "postParagraphs": [
           "Medida e cor do jogo americano, que vai por baixo do prato, estão no [guia do jogo americano de tecido](/reviews/jogo-americano-tecido-tamanho-cor). As condições estão na página do [cupom Let's Eat It](/cupons/letseatit)."
@@ -175858,20 +176217,37 @@ export const reviewsData: unknown[] = [
             "alt": "Guardanapo de tecido branco com duas linhas bordadas em bege perto da borda, aberto sobre fundo branco",
             "caption": "Guardanapo 100% Algodão Bordado Duplo Bege, 45 x 45 cm, Decortextil. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 0.9815
+            "aspectRatio": 0.9815,
+            "href": "https://letseatit.com.br/products/guardanapo-100-algodao-bordado-duplo-bege?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ],
         "emphasis": "Para um jogo só, do almoço ao jantar, eu levaria o Bordado Oliva: é o mais barato dos quatro, e o 45 x 45 cm cobre mais o colo.",
-        "emphasisAfterParagraph": 1
+        "links": [
+          {
+            "label": "Ver o guardanapo Bordado Oliva na Let's Eat It",
+            "href": "https://letseatit.com.br/products/guardanapo-100-algodao-bordado-oliva?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o guardanapo Ponto Ajour Abelha na Let's Eat It",
+            "href": "https://letseatit.com.br/products/guardanapo-100-algodao-ponto-ajour-cru-abelha?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o guardanapo Poá Bege na Let's Eat It",
+            "href": "https://letseatit.com.br/products/guardanapo-100-algodao-poa-bege?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Quantos guardanapos de tecido comprar por pessoa? Recomendamos um guardanapo por pessoa em cada refeição mais um de reserva por mesa. Para quatro pessoas, compre cinco peças; para seis pessoas, sete peças.",
           "Qual o tamanho ideal de guardanapo de pano? Nas fichas, as medidas são 45 x 45 cm e 40 x 40 cm; nenhuma é chamada de padrão. Nossa sugestão é o de 45 para almoço e jantar, e o de 40 para café e lanche.",
           "Guardanapo de tecido pode ir na máquina e na secadora? A ficha dos guardanapos de algodão manda lavar à mão, em até 40 °C, e não usar secadora. A secagem indicada é natural, à sombra.",
-          "Guardanapo de tecido precisa passar? A ficha diz para passar em temperatura média, com ferro morno de até 150 °C.",
-          "Qual é o cupom da Let's Eat It e como usar? O cupom MAUAD oferece 5% de desconto em todo o site oficial da Let's Eat It, válido em todas as formas de pagamento e acumulando com os 5% de desconto à vista no Pix."
+          "Guardanapo de tecido precisa passar? A ficha diz para passar em temperatura média, com ferro morno de até 150 °C."
         ]
       }
     ],
@@ -175939,7 +176315,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Comece medindo o prato e o espaço disponível por pessoa. Nos modelos comparados, o redondo deixa uma borda em volta do prato, e o retangular dá mais largura nas laterais para os talheres; a cor fica para depois. No site da Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
+          "Comece medindo o prato e o espaço disponível por pessoa. Nos modelos comparados, o redondo deixa uma borda em volta do prato, e o retangular dá mais largura nas laterais para os talheres; a cor fica para depois. No site da Let's Eat It, o [cupom MAUAD](/cupons/letseatit) dá 5% OFF em todas as formas de pagamento."
         ]
       },
       {
@@ -175947,7 +176323,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O formato vem antes da cor. Nos jogos americanos de tecido da Let's Eat It reunidos neste guia, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, e os retangulares têm 35 x 50 cm ou 38 x 52 cm. Nenhuma das fichas fala em medida padrão: o que decide é o tamanho do prato que vai em cima.",
           "Nos redondos de 36,5 e 38,5 cm, um prato de 28 cm deixa pouca largura nas laterais para acomodar também os talheres. Os retangulares de 35 x 50 e 38 x 52 cm deixam uma faixa lateral maior. Isso não dispensa medir a mesa: o modelo de 50 cm ocupa meio metro por lugar, e a posição de copos e talheres depende da montagem que você prefere.",
-          "O [Jogo Americano Retangular Gregas Bege 35x50 cm, da Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), por exemplo, mede 50 x 35 cm e tem, segundo a ficha, corte a laser na borda. O [Corrente Bege](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), da mesma marca, tem a mesma medida, com a borda em formato de corrente."
+          "O [Jogo Americano Retangular Gregas Bege 35x50 cm, da Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), por exemplo, mede 50 x 35 cm e tem, segundo a ficha, corte a laser na borda. O [Corrente Cinza](https://letseatit.com.br/products/jogo-americano-retangular-corrente-cinza-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), da mesma marca, tem a mesma medida, com a borda em formato de corrente."
         ],
         "images": [
           {
@@ -175955,14 +176331,15 @@ export const reviewsData: unknown[] = [
             "alt": "Jogo americano retangular de tecido com a borda vazada em desenho de arabescos, sobre fundo branco",
             "caption": "Jogo Americano Retangular Gregas Bege 35x50 cm, Ori Manufatura. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1.3433
+            "aspectRatio": 1.3433,
+            "href": "https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
       {
         "heading": "Medidas, material e preço de cada jogo",
         "paragraphs": [
-          "Preços do cartão em 29/10/2026 e disponibilidade, sem frete ou cupom. Seis das sete fichas informavam uma unidade: a última coluna multiplica esse preço por quatro, em conta nossa. Para o Linho Off White Borda Verde, cuja quantidade não era informada, o total supõe uma peça por compra."
+          "Preços do cartão, sem frete ou cupom, lidos em 22/11/2026. Seis das sete fichas informavam uma unidade: a última coluna multiplica esse preço por quatro, em conta nossa. Para o Linho Off White Borda Verde, cuja quantidade não era informada, o total supõe uma peça por compra."
         ],
         "comparisonTable": {
           "headers": [
@@ -175975,12 +176352,12 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Redondo Bordado D3 Verde Sálvia 36,5 cm, Tuut](https://letseatit.com.br/products/jogo-americano-redondo-bordado-d3-verde-salvia-36-5cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Redondo Bordado D3 Verde Sálvia 36,5 cm, Tuut](https://letseatit.com.br/collections/jogos-americanos?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Redondo, 36,5 cm de diâmetro",
               "Linho",
               "Verde Sálvia",
-              "R$ 39,00",
-              "R$ 156,00"
+              "R$ 39,00 (esgotado)",
+              "R$ 156,00 (esgotado)"
             ],
             [
               "[Bouquet Cinza 38,5 cm, Ori Manufatura](https://letseatit.com.br/products/jogo-americano-bouquet-cinza-38-5cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
@@ -176015,25 +176392,25 @@ export const reviewsData: unknown[] = [
               "R$ 119,60"
             ],
             [
-              "[Retangular Corrente Bege 35x50 cm, Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Retangular Corrente Cinza 35x50 cm, Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-corrente-cinza-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Retangular, 50 x 35 cm",
               "100% poliéster",
-              "Bege",
-              "R$ 18,65",
-              "R$ 74,60"
+              "Cinza",
+              "R$ 32,90",
+              "R$ 131,60"
             ],
             [
-              "[Retangular Linho Off White Borda Verde 38x52, Decortextil](https://letseatit.com.br/products/jogo-americano-retangular-linho-off-white-borda-verde-38x52?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Retangular Linho Off White Borda Verde 38x52, Decortextil](https://letseatit.com.br/collections/jogos-americanos?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Retangular, 38 x 52 cm",
               "Linho 100% poliéster",
               "Off White e Verde",
-              "R$ 63,00",
-              "R$ 252,00, se for uma peça"
+              "R$ 63,00 (esgotado)",
+              "R$ 252,00, se for uma peça (esgotado)"
             ]
           ]
         },
         "postParagraphs": [
-          "No recorte da tabela, o Corrente Bege tinha o menor preço por peça e o Linho Off White Borda Verde, o maior. Antes de comprar para quatro lugares, confirme a quantidade vendida, a disponibilidade e o total com frete. Peças esgotadas ficaram fora da seleção."
+          "No recorte da tabela, o Inca Caqui tinha o menor preço por peça e o Limone, o maior entre os disponíveis. O Verde Sálvia e o Linho Off White Borda Verde esgotaram na última leitura e ficam na tabela como referência de medida e material; a coleção de jogos americanos mostra modelos parecidos. Antes de comprar para quatro lugares, confirme a quantidade vendida, a disponibilidade e o total com frete."
         ]
       },
       {
@@ -176049,15 +176426,16 @@ export const reviewsData: unknown[] = [
           "Retangular de 38 x 52 cm: 5 cm acima e abaixo, e 12 cm de cada lado."
         ],
         "postParagraphs": [
-          "Com prato de 26 cm, some 1 cm de borda em cada lado. Com sousplat de 33 cm, o redondo de 36,5 cm deixa 1,75 cm em volta, e o de 38,5 cm, 2,75 cm. O [Redondo Bordado D3 Verde Sálvia](https://letseatit.com.br/products/jogo-americano-redondo-bordado-d3-verde-salvia-36-5cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), da Tuut, tem 36,5 cm e a borda bordada em camadas, segundo a ficha."
+          "Com prato de 26 cm, some 1 cm de borda em cada lado. Com sousplat de 33 cm, o redondo de 36,5 cm deixa 1,75 cm em volta, e o de 38,5 cm, 2,75 cm. O [Redondo Bordado D3 Verde Sálvia](https://letseatit.com.br/collections/jogos-americanos?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), da Tuut, tem 36,5 cm e a borda bordada em camadas, segundo a ficha, mas esgotou na última leitura."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/jogo-americano-tecido-tamanho-cor-redondo-verde-salvia.webp",
             "alt": "Jogo americano redondo verde sálvia com borda ondulada e contorno bordado em tom claro, visto de cima",
-            "caption": "Jogo Americano Redondo Bordado D3 Verde Sálvia 36,5 cm, Tuut. Imagem: Let's Eat It.",
+            "caption": "Jogo Americano Redondo Bordado D3 Verde Sálvia 36,5 cm, Tuut. Imagem: Let's Eat It. Esgotado na última leitura.",
             "objectFit": "contain",
-            "aspectRatio": 1.0239
+            "aspectRatio": 1.0239,
+            "href": "https://letseatit.com.br/collections/jogos-americanos?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -176073,7 +176451,8 @@ export const reviewsData: unknown[] = [
             "alt": "Jogo americano de tecido branco com limões amarelos e folhas verdes bordados em volta, com o contorno recortado no desenho",
             "caption": "Jogo Americano Tecido Limone Color 33x48 cm, Tuut. Imagem: Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1.3595
+            "aspectRatio": 1.3595,
+            "href": "https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -176081,45 +176460,68 @@ export const reviewsData: unknown[] = [
         "heading": "Material e cuidado: linho, poliéster e a lavagem",
         "paragraphs": [
           "Pelas páginas, o Redondo Verde Sálvia da Tuut é de linho, e os jogos da Ori (Bouquet, Inca, Gregas e Corrente) são 100% poliéster. A ficha dos Ori pede para passar do lado avesso e usar lavagem leve.",
-          "O [Retangular Linho Off White Borda Verde 38x52, da Decortextil](https://letseatit.com.br/products/jogo-americano-retangular-linho-off-white-borda-verde-38x52?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é de um tecido que a ficha chama de linho, 100% poliéster. A ficha dele é a mais detalhada no cuidado: lavar à mão em até 40 °C, sem alvejante, sem secadora e sem lavagem a seco, e passar com ferro morno, até 150 °C."
+          "O [Retangular Linho Off White Borda Verde 38x52, da Decortextil](https://letseatit.com.br/collections/jogos-americanos?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), que esgotou na última leitura, é de um tecido que a ficha chama de linho, 100% poliéster. A ficha dele é a mais detalhada no cuidado: lavar à mão em até 40 °C, sem alvejante, sem secadora e sem lavagem a seco, e passar com ferro morno, até 150 °C."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/jogo-americano-tecido-tamanho-cor-linho-borda-verde.webp",
             "alt": "Jogo americano retangular de tecido bege claro com um filete verde-escuro bordado a poucos centímetros da borda",
-            "caption": "Jogo Americano Retangular Linho Off White Borda Verde 38x52, Decortextil. Imagem: Let's Eat It.",
+            "caption": "Jogo Americano Retangular Linho Off White Borda Verde 38x52, Decortextil. Imagem: Let's Eat It. Esgotado na última leitura.",
             "objectFit": "contain",
-            "aspectRatio": 1.3216
+            "aspectRatio": 1.3216,
+            "href": "https://letseatit.com.br/collections/jogos-americanos?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
       {
         "heading": "Com o guardanapo",
         "paragraphs": [
-          "O guardanapo entra na mesma conta de cor. O [Guardanapo 100% Algodão Poá Terracota, da Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-poa-terracota?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de 45 x 45 cm e R$ 56,00 no cartão, tem \"Cor: Terracota\" na ficha e pode combinar com o Limone ou com o Verde Sálvia, se você gosta de tons quentes ao lado do verde. Quantos guardanapos por pessoa e qual tamanho estão no guia de [guardanapo de tecido](/reviews/guardanapo-de-tecido-quantos-tamanho)."
+          "O guardanapo entra na mesma conta de cor. O [Guardanapo 100% Algodão Poá Bege, da Decortextil](https://letseatit.com.br/products/guardanapo-100-algodao-poa-bege?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de R$ 56,00 no cartão, é um tom neutro e combina com o Limone, que tem fruta no desenho, ou com um jogo liso. O Poá também vem em azul e verde escuro. Quantos guardanapos por pessoa e qual tamanho estão no guia de [guardanapo de tecido](/reviews/guardanapo-de-tecido-quantos-tamanho)."
         ]
       },
       {
         "heading": "Onde comprar e o desconto",
         "paragraphs": [
-          "As peças foram selecionadas no catálogo da Let's Eat It, com frete por CEP. O MAUAD dá 5% em qualquer forma de pagamento e soma com o desconto do Pix. Usando o preço de referência do Limone e os 5% de Pix mostrados na ficha, nossa conta era R$ 51,92 com um dos descontos ou R$ 49,32 com ambos. Confira o preço e o Pix da peça no checkout; as condições do código estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "As peças foram selecionadas no catálogo da Let's Eat It, com frete por CEP. O MAUAD dá 5% OFF em todas as formas de pagamento e soma com o desconto do Pix. Cole o código no campo \"Código de desconto\" do checkout. Usando o preço de referência do Limone e os 5% de Pix mostrados na ficha, nossa conta era R$ 51,92 com um dos descontos ou R$ 49,32 com ambos. Confira o preço e o Pix da peça no checkout; as condições do código estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Se a mesa é para uma data, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) soma sousplat, guardanapo, taças e talheres para seis pessoas."
         ]
       },
       {
-        "heading": "Qual levar: o Corrente Bege, retangular de 35 x 50 cm",
+        "heading": "Qual levar: o retangular de 35 x 50 cm",
         "paragraphs": [
-          "Com um prato raso de 28 cm, o retangular de 35 x 50 cm deixa 11 cm de cada lado para o garfo e a faca. O [Corrente Bege](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem essa medida."
+          "Com um prato raso de 28 cm, o retangular de 35 x 50 cm deixa 11 cm de cada lado para o garfo e a faca. O [Gregas Bege](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem essa medida e custa R$ 29,90; o [Corrente Cinza](https://letseatit.com.br/products/jogo-americano-retangular-corrente-cinza-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), da mesma marca, custa R$ 32,90."
         ],
-        "emphasis": "Com prato de 28 cm, eu escolheria o Corrente Bege: tem a mesma medida do Gregas, deixa 11 cm de cada lado para os talheres e tinha o menor preço da tabela.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "Com prato de 28 cm, eu escolheria o Gregas Bege: deixa 11 cm de cada lado para os talheres e custa menos que o Corrente, que tem a mesma medida.",
+        "links": [
+          {
+            "label": "Ver o jogo americano Gregas Bege na Let's Eat It",
+            "href": "https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o jogo americano Corrente Cinza na Let's Eat It",
+            "href": "https://letseatit.com.br/products/jogo-americano-retangular-corrente-cinza-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o jogo americano Limone na Let's Eat It",
+            "href": "https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver os jogos americanos na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/jogos-americanos?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, somando com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Qual o tamanho de um jogo americano? Nas peças deste guia, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, os retangulares, 35 x 50 cm ou 38 x 52 cm, e o Limone, cujo formato a ficha não diz, 33 x 48 cm. Escolha pelo prato: com um prato raso de 28 cm, o redondo de 36,5 cm deixa 4,25 cm de borda, pela nossa conta.",
           "Jogo americano redondo ou retangular? Compare as medidas com o seu prato e com o espaço por pessoa na mesa. Entre os modelos deste guia, os retangulares oferecem mais largura lateral para os talheres; os redondos deixam uma borda mais estreita em volta do prato.",
-          "Tem jogo americano redondo de linho? Tem. O Redondo Bordado D3 Verde Sálvia 36,5 cm, da Tuut, é de linho segundo a ficha e custava R$ 39,00 no cartão.",
+          "Tem jogo americano redondo de linho? O Redondo Bordado D3 Verde Sálvia 36,5 cm, da Tuut, é de linho segundo a ficha, mas esgotou na última leitura. Os redondos disponíveis neste guia, Bouquet Cinza e Inca Caqui, são 100% poliéster; a coleção de jogos americanos mostra outros modelos.",
           "Jogo americano de tecido pode lavar na máquina? Depende da ficha. A do Linho Off White Borda Verde manda lavar à mão em até 40 °C, a dos jogos da Ori pede lavagem leve, e a da Tuut não fala em lavagem.",
           "Qual jogo americano combina com mesa de madeira? Depende do tom da madeira, da louça e do efeito que você quer. Minha sugestão é comparar o conjunto, em vez de escolher apenas pelo nome da cor: um jogo liso pode ser uma opção se o prato já tem bastante estampa. A cor da foto serve de referência, não de garantia do tom da peça."
         ]
@@ -186678,7 +187080,7 @@ export const reviewsData: unknown[] = [
     "slug": "taca-base-esfera-e-tacas-coloridas",
     "locale": "pt",
     "title": "Taça base esfera: conjunto ou unidade, e qual cor escolher",
-    "seoTitle": "Taça base esfera: conjunto ou unidade, qual cor e qual tamanho",
+    "seoTitle": "Taça base esfera: conjunto, cores, 450 ml ou 250 ml",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -186690,7 +187092,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A taça base esfera da Let's Eat It só sai em conjunto. Veja as cores, a diferença entre 450 ml e 250 ml, o preço por taça e as opções coloridas para champanhe, água e vinho.",
-    "metaDescription": "Taça base esfera com o cupom MAUAD de 5% OFF: só sai em conjunto, com cores, tamanhos, preço por taça e opções coloridas para champanhe, água e vinho.",
+    "metaDescription": "Taça base esfera com o cupom MAUAD de 5% OFF: só sai em conjunto. Veja as cores, os tamanhos, o preço por taça e as alternativas coloridas.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -186703,33 +187105,52 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A taça base esfera da Let's Eat It vem em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. Há o conjunto de 450 ml e o de champanhe, de 250 ml. Antes de escolher, conte quantas pessoas vão à mesa; no site, o código MAUAD dá 5%."
+          "A taça base esfera da Let's Eat It vem em conjunto: 6 peças, ou kit 6 + 6 e 12 + 12. O de 450 ml está em azul e rosa; o de champanhe, de 250 ml, em âmbar, azul, verde e rosa. Com o [cupom Let's Eat It](/cupons/letseatit), MAUAD, são 5% OFF em todas as formas de pagamento."
         ]
       },
       {
         "heading": "Conjunto ou unidade: só conjunto",
         "paragraphs": [
-          "A taça Sphere não aparece avulsa na loja: os conjuntos saem de 6, em kit com 6 taças de vinho e 6 de champanhe, ou em kit de 12 + 12. Confira a quantidade na página antes de comprar.",
+          "A taça Sphere não aparece avulsa na loja: os conjuntos saem de 6, em kit com 6 taças de vinho e 6 de champanhe ([azul](https://letseatit.com.br/products/kit-6-tacas-vinho-e-6-tacas-champagne-esfera-azul-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) ou [rosa](https://letseatit.com.br/products/kit-6-tacas-vinho-e-6-tacas-champagne-esfera-rosa-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)), ou em kit [12 + 12](https://letseatit.com.br/products/kit-12-tacas-vinho-e-12-tacas-champagne-base-esfera-azul-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). Confira a quantidade na página antes de comprar.",
           "Para 4 pessoas que servem vinho e champanhe, o kit 6 + 6 cobre a mesa. Se a mesa recebe só um tipo de bebida, um jogo de 6 basta."
         ]
       },
       {
         "heading": "Qual cor",
         "paragraphs": [
-          "São quatro cores, âmbar, azul, verde e rosa, e o âmbar é o mais fácil de combinar: vai com madeira, linho e louça clara. Azul e verde dão contraste com o branco. O rosa é o que mais muda o clima da mesa."
+          "No conjunto de 450 ml, só o [azul](https://letseatit.com.br/products/taca-base-esfera-azul-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e o [rosa](https://letseatit.com.br/products/taca-base-esfera-rosa-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) estão disponíveis; o verde e o âmbar esgotaram. A de champanhe, de 250 ml, segue nas quatro cores: âmbar, azul, verde e rosa.",
+          "O âmbar é o mais fácil de combinar: vai com madeira, linho e louça clara. Azul e verde dão contraste com o branco. O rosa é o que mais muda o clima da mesa."
         ]
       },
       {
         "heading": "Qual tamanho: 450 ml ou 250 ml",
         "paragraphs": [
           "A taça de 450 ml mede 15 cm de altura e 8,5 cm de diâmetro, diz a página. É de vidro, transparente, com base colorida.",
-          "A de 250 ml tem o nome de taça para champanhe. A descrição da loja não diz para qual bebida serve a de 450 ml."
+          "A de 250 ml tem o nome de [taça para champanhe](https://letseatit.com.br/products/taca-para-champagne-base-esfera-verde-sphere-250ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). A descrição da loja não diz para qual bebida serve a de 450 ml."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-azul-sphere-450ml.webp",
+            "alt": "Conjunto de 6 taças base esfera Sphere 450 ml, azul, com gin-tônica",
+            "caption": "Taça base esfera Sphere 450 ml, azul, da Linha Sintonia. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/taca-base-esfera-azul-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/taca-champagne-base-esfera-verde-sphere-250ml.webp",
+            "alt": "Taça para champanhe base esfera Sphere 250 ml, verde",
+            "caption": "Taça para champanhe base esfera Sphere 250 ml, verde, da Linha Sintonia. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/taca-para-champagne-base-esfera-verde-sphere-250ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
         ]
       },
       {
         "heading": "Quanto custa cada taça Sphere",
         "paragraphs": [
-          "Preços de 30/10/2026, no cartão, sem frete."
+          "Preços do cartão, sem frete, lidos em 22/11/2026. Só entram as cores disponíveis."
         ],
         "comparisonTable": {
           "headers": [
@@ -186739,17 +187160,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Conjunto 6 taças base esfera 450 ml, âmbar](https://letseatit.com.br/products/taca-base-esfera-ambar-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 298,00",
-              "R$ 49,67"
-            ],
-            [
               "[Conjunto 6 taças base esfera 450 ml, azul](https://letseatit.com.br/products/taca-base-esfera-azul-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "R$ 298,00",
-              "R$ 49,67"
-            ],
-            [
-              "[Conjunto 6 taças base esfera 450 ml, verde](https://letseatit.com.br/products/taca-base-esfera-verde-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 298,00",
               "R$ 49,67"
             ],
@@ -186779,20 +187190,43 @@ export const reviewsData: unknown[] = [
               "R$ 48,17"
             ],
             [
-              "[Kit 6 taças de vinho e 6 de champanhe base esfera, âmbar](https://letseatit.com.br/products/kit-6-tacas-vinho-e-6-tacas-champagne-esfera-ambar-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Kit 6 taças de vinho e 6 de champanhe base esfera, azul](https://letseatit.com.br/products/kit-6-tacas-vinho-e-6-tacas-champagne-esfera-azul-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 557,00",
               "R$ 46,42"
             ],
             [
-              "[Kit 12 taças de vinho e 12 de champanhe base esfera, âmbar](https://letseatit.com.br/products/kit-12-tacas-vinho-e-12-tacas-champagne-base-esfera-ambar-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "[Kit 6 taças de vinho e 6 de champanhe base esfera, rosa](https://letseatit.com.br/products/kit-6-tacas-vinho-e-6-tacas-champagne-esfera-rosa-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 557,00",
+              "R$ 46,42"
+            ],
+            [
+              "[Kit 12 taças de vinho e 12 de champanhe base esfera, azul](https://letseatit.com.br/products/kit-12-tacas-vinho-e-12-tacas-champagne-base-esfera-azul-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "R$ 998,00",
+              "R$ 41,58"
+            ],
+            [
+              "[Kit 12 taças de vinho e 12 de champanhe base esfera, rosa](https://letseatit.com.br/products/kit-12-tacas-vinho-e-12-tacas-champagne-base-esfera-rosa-sphere?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 998,00",
               "R$ 41,58"
             ]
-          ]
+          ],
+          "caption": "Preço no cartão por conjunto e por taça. Conta nossa: o preço dividido pelo número de taças."
         },
         "postParagraphs": [
-          "O Pix dá 5% de desconto em muitos produtos, e o [cupom Let's Eat It](/cupons/letseatit), com o código MAUAD, dá mais 5% em qualquer forma de pagamento, somado ao Pix.",
+          "O Pix dá 5% de desconto em muitos produtos, e o [cupom Let's Eat It](/cupons/letseatit), com o código MAUAD, dá mais 5% em todas as formas de pagamento, somado ao Pix.",
           "Para a mesa inteira, com guardanapo, jogo americano, talheres e pratos, veja o [guia de mesa posta do dia a dia](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
+        ],
+        "links": [
+          {
+            "label": "Ver o conjunto Sphere azul de 450 ml na Let's Eat It",
+            "href": "https://letseatit.com.br/products/taca-base-esfera-azul-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver as taças na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/tacas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -186800,96 +187234,46 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Santé Flute, da Studio Blossom, tem desenho de coral vermelho e 220 ml. O [jogo de 6 taças](https://letseatit.com.br/products/jogo-6-tacas-champanhe-sante-flute-em-cristal-ecologico-220ml-coral-vermelho?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) sai por R$ 199,90 no cartão.",
           "A Allure Sparkling, também da Studio Blossom, vem em laranja, com 220 ml. O [jogo de 6 taças](https://letseatit.com.br/products/jogo-6-tacas-champanhe-allure-sparkling-em-cristal-ecologico-220ml-laranja?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 219,90, e o modelo limão tem o mesmo preço.",
-          "O [kit de 6 taças para espumante da Sommelier](https://letseatit.com.br/products/kit-com-6-tacas-para-espumante-em-cristal-sommelier-210ml-hastes-coloridas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de 210 ml com hastes coloridas, sai por R$ 149,00 no cartão. A loja o lista como outlet."
+          "Em cristal Bohemia, a [Ardea verde selva](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de 220 ml, sai por R$ 329,90 o jogo de 6. O kit de 6 taças para espumante Sommelier, de 210 ml com hastes coloridas, esgotou na última leitura."
         ],
         "images": [
-          {
-            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral.webp",
-            "alt": "Taça de champanhe de vidro transparente com desenho de coral vermelho no bojo, sobre fundo branco",
-            "caption": "Taça para Champanhe Santé Flute 220 ml, coral vermelho, Studio Blossom. Foto oficial da Let's Eat It.",
-            "objectFit": "contain",
-            "aspectRatio": 0.29
-          },
           {
             "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sante-flute-coral-mesa.webp",
             "alt": "Três taças de champanhe com desenho vermelho de coral sobre uma mesa posta com toalha listrada",
             "caption": "Taça Santé Flute, coral vermelho, em mesa posta. Foto oficial da Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/jogo-6-tacas-champanhe-sante-flute-em-cristal-ecologico-220ml-coral-vermelho?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           },
           {
             "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-allure-laranja.webp",
             "alt": "Taças de champanhe transparentes com detalhes de laranjas e folhas, ao lado de frutas cítricas numa bandeja de palha",
             "caption": "Taça Allure Sparkling 220 ml, laranja, Studio Blossom. Foto oficial da Let's Eat It.",
             "objectFit": "contain",
-            "aspectRatio": 1.0011
-          },
+            "aspectRatio": 1.0011,
+            "href": "https://letseatit.com.br/products/jogo-6-tacas-champanhe-allure-sparkling-em-cristal-ecologico-220ml-laranja?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ],
+        "links": [
           {
-            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-sommelier-hastes-coloridas.webp",
-            "alt": "Seis taças de champanhe de cristal enfileiradas, com hastes coloridas, sobre fundo cinza",
-            "caption": "Kit de 6 taças para espumante Sommelier 210 ml, hastes coloridas. Foto oficial da Let's Eat It.",
-            "objectFit": "contain",
-            "aspectRatio": 1
+            "label": "Ver a Santé Flute coral na Let's Eat It",
+            "href": "https://letseatit.com.br/products/jogo-6-tacas-champanhe-sante-flute-em-cristal-ecologico-220ml-coral-vermelho?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Água colorida",
         "paragraphs": [
-          "A Lyor vende o [jogo de 6 taças de água Bico de Abacaxi, azul, de 325 ml](https://letseatit.com.br/products/jogo-6-tacas-de-vidro-para-agua-bico-de-abacaxi-azul-325ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 88,30 no cartão (antes, R$ 147,20). É a opção colorida mais barata desta lista.",
-          "A Coloratta tem um [kit de 6 copos para água em cristal, azul, de 450 ml](https://letseatit.com.br/products/kit-com-6-copos-para-agua-em-cristal-coloratta-450ml-azul?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), por R$ 405,95 (antes, R$ 677,00). Pelo nome, é copo, não taça."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul.webp",
-            "alt": "Taça de água azul de vidro com textura de losangos e base alta, sobre fundo branco",
-            "caption": "Jogo de 6 taças para água Bico de Abacaxi 325 ml, azul, Lyor. Foto oficial da Let's Eat It.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          },
-          {
-            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-lyor-bico-abacaxi-azul-mesa.webp",
-            "alt": "Duas taças azuis de vidro texturizado com água respingando e fatias de limão, sobre uma superfície clara",
-            "caption": "Taças Bico de Abacaxi azuis, Lyor, com limão. Foto oficial da Let's Eat It.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          },
-          {
-            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul.webp",
-            "alt": "Copo de cristal azul escuro com bolinhas claras em relevo, sobre fundo branco",
-            "caption": "Kit de 6 copos para água em cristal 450 ml, azul, Coloratta. Foto oficial da Let's Eat It.",
-            "objectFit": "contain",
-            "aspectRatio": 0.7543
-          },
-          {
-            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-copo-azul-mesa.webp",
-            "alt": "Copo de cristal azul com bolinhas claras sobre uma mesa clara, ao lado de uma tigela de frutas",
-            "caption": "Copo de cristal azul, Coloratta, em ambiente de mesa. Foto oficial da Let's Eat It.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          }
+          "Na última leitura, as duas opções coloridas para água que citávamos aqui estavam esgotadas: o jogo de 6 taças Bico de Abacaxi azul, da Lyor, de 325 ml, e o kit de 6 copos de cristal Coloratta azul, de 450 ml, que pelo nome é copo, não taça.",
+          "Para água colorida, a opção à venda é a Sphere de 450 ml, em [azul](https://letseatit.com.br/products/taca-base-esfera-azul-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) ou [rosa](https://letseatit.com.br/products/taca-base-esfera-rosa-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), em conjunto de 6."
         ]
       },
       {
         "heading": "Vinho colorido",
         "paragraphs": [
-          "Para vinho, a Coloratta tem um [kit de 6 taças em cristal, verde, de 300 ml](https://letseatit.com.br/products/kit-com-6-tacas-para-vinho-em-cristal-coloratta-300ml-verde?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), por R$ 508,95 no cartão (antes, R$ 849,00). É a taça colorida mais cara desta lista."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde.webp",
-            "alt": "Taça de vinho de vidro transparente com pontilhados verdes e base com esfera, sobre fundo branco",
-            "caption": "Kit de 6 taças para vinho em cristal 300 ml, verde, Coloratta. Foto oficial da Let's Eat It.",
-            "objectFit": "contain",
-            "aspectRatio": 0.6693
-          },
-          {
-            "src": "/images/reviews/letseatit/taca-base-esfera-e-tacas-coloridas-coloratta-vinho-verde-mesa.webp",
-            "alt": "Taça verde-água de vidro com pontilhados sobre uma mesa clara, com tigela de frutas ao fundo",
-            "caption": "Taça para vinho verde, Coloratta, em ambiente de mesa. Foto oficial da Let's Eat It.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          }
+          "O kit de 6 taças de vinho Coloratta verde, de 300 ml, que citávamos aqui, saiu do site. Para vinho colorido, a Sphere traz a taça de vinho nos kits 6 + 6 e 12 + 12, em azul e rosa, como na tabela.",
+          "A loja vende também o jogo de 6 taças de vinho Esfera Pure, de 595 ml, em âmbar, verde e rosa, por R$ 584,00. É outra linha, não a Sphere, e está na [coleção de taças](https://letseatit.com.br/collections/tacas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
         ]
       },
       {
@@ -186897,15 +187281,22 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A linha Sphere só sai em conjunto, então a conta é por taça, como na tabela: o kit 6 + 6 sai a R$ 46,42 por taça, contra R$ 49,67 do conjunto de 450 ml e R$ 48,17 do de 250 ml."
         ],
-        "emphasis": "Para a mesa de 4 que serve vinho e champanhe, eu levaria o kit 6 + 6: cobre as duas bebidas, e a taça sai a menos que nos jogos de 6."
+        "emphasis": "Para a mesa de 4 que serve vinho e champanhe, o kit 6 + 6 cobre as duas bebidas e deixa a taça mais barata que nos jogos de 6."
+      },
+      {
+        "heading": "Cupom e Pix",
+        "paragraphs": [
+          "No site da Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit), MAUAD, dá 5% OFF em todas as formas de pagamento e soma com os 5% do Pix. Cole o código no campo \"Código de desconto\" do checkout; o valor final aparece no carrinho."
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout; as condições estão no [cupom Let's Eat It](/cupons/letseatit).",
           "A taça Sphere é de vidro? Sim. A loja descreve vidro transparente com base colorida.",
           "A taça Sphere serve para vinho e para água? A descrição da loja não diz para qual bebida serve a de 450 ml. A de 250 ml se chama taça para champanhe.",
           "Pode ir na lava-louças? A descrição da loja não diz.",
-          "O que fazer se a taça chegar quebrada? A loja repõe a peça com avaria sem custo, com fotos do problema. Guarde as imagens e confirme o procedimento com o atendimento."
+          "O que fazer se a taça chegar quebrada? A loja repõe a peça com avaria sem custo, com fotos do problema. Guarde as fotos da caixa e da peça e chame o SAC da loja, pelo WhatsApp (11) 96570-0375 ou por suporte@letseatit.com.br, com o número do pedido."
         ]
       }
     ],
@@ -186916,7 +187307,8 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe na linha Sphere se quer peça avulsa: ela só sai em conjunto.",
-        "Passe se a dúvida é a lava-louças: a descrição da loja não diz."
+        "Passe se a dúvida é a lava-louças: a descrição da loja não diz.",
+        "Passe o 450 ml em verde ou âmbar: esgotaram, e o de 250 ml segue nas quatro cores."
       ]
     },
     "pros": [],
@@ -198728,7 +199120,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código MAUAD dá 5% OFF no site da Let's Eat It. A loja é boa? Le Creuset no localizador oficial, Porto Brasil, troca em 30 dias e Reclame Aqui.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/lets-eat-it-e-boa-capa-v2.webp",
@@ -198739,7 +199131,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial. O que pesa contra é o prazo de entrega e a peça frágil. No site, o código MAUAD dá 5% e soma com o Pix."
+          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e a Le Creuset dela no localizador oficial da marca. O que pesa contra é o prazo de entrega e a peça frágil. No site, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento e soma com o Pix."
         ]
       },
       {
@@ -198753,8 +199145,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le Creuset na Let's Eat It",
         "paragraphs": [
-          "Comprar Le Creuset na Let's Eat It é comprar num canal que a própria marca lista: a loja aparece no localizador oficial de revendedores da Le Creuset Brasil, com o endereço da filial de Serra (ES), o mesmo do CNPJ. É isso que dá para afirmar; a loja não publica termo de \"revenda autorizada\", e nós não escrevemos o que a marca não escreveu.",
-          "A linha Le Creuset da loja é larga: caçarolas, skillets, frigideiras, panelas com cabo, chaleiras, travessas, moedores, ramekins e canecas. Quase tudo sai pelo preço cheio; a promoção aparece só numa seleção de peças e cores, então quem espera a Le Creuset com preço riscado em toda a vitrine se decepciona. A regra de uso é a da marca: a panela vai ao fogão, à indução e ao forno, não vai ao micro-ondas, e a garantia não cobre choque térmico nem queda. O que a Le Creuset libera e o que a garantia deixa de fora está no guia [Le Creuset vale a pena?](/reviews/le-creuset-vale-a-pena); o tamanho certo e como conferir a peça original estão nos guias do fim.",
+          "Comprar Le Creuset na Let's Eat It é comprar num canal que a própria marca lista: a loja aparece no localizador oficial de lojas da Le Creuset Brasil, com o endereço da filial de Serra (ES), o mesmo do CNPJ. É isso que dá para afirmar, e a atribuição fica nesse localizador.",
+          "A [linha Le Creuset da loja](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é larga: caçarolas, skillets, frigideiras, panelas com cabo, chaleiras, travessas, moedores, ramekins e canecas. O preço é o de tabela na maior parte da vitrine; em novembro, várias cores estão com 25% de desconto sobre o preço de tabela, e as outras ficam sem desconto, então vale conferir a cor antes de decidir. A regra de uso é a da marca: a panela vai ao fogão, à indução e ao forno, não vai ao micro-ondas, e a garantia não cobre choque térmico nem queda. O que a Le Creuset libera e o que a garantia deixa de fora está no guia [Le Creuset vale a pena?](/reviews/le-creuset-vale-a-pena); o tamanho certo e como conferir a peça original estão nos guias do fim.",
           "Vale para quem já decidiu pela Le Creuset e quer comprar com nota fiscal num canal listado. Não vale para quem só quer o menor preço de uma panela de ferro: a marca não faz promoção larga na loja."
         ],
         "images": [
@@ -198762,82 +199154,80 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp",
             "alt": "Página do localizador de lojas da Le Creuset Brasil mostrando a Let's Eat It na Avenida Setecentos, Serra, ES; captura de tela do site da marca",
             "caption": "A Let's Eat It no localizador oficial da Le Creuset Brasil, no endereço da filial de Serra. Imagem: Le Creuset Brasil.",
-            "objectFit": "wide",
+            "objectFit": "contain",
             "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/le-creuset-travessa-heritage-mist-grey-32cm.webp",
+            "alt": "Travessa retangular Le Creuset Heritage 32 cm, Mist Grey",
+            "caption": "Travessa Heritage 32 cm, Mist Grey. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-mist-grey-32cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a coleção Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Porto Brasil e as outras louças",
         "paragraphs": [
-          "A Porto Brasil é a louça da loja para o dia a dia, e é onde a promoção aparece: toda a coleção estava com preço riscado, de aparelho de jantar a caneca. É cerâmica, não porcelana, e o stoneware da marca libera forno, micro-ondas e freezer na maior parte das peças; as com filete dourado e algumas canecas ficam de fora, então confira a página da peça antes de levar ao forno. Serve para quem quer o aparelho de jantar completo, de 30 peças, ou para repor prato, bowl e xícara da mesma linha; não serve para quem quer porcelana fina.",
-          "O cristal da loja é a Bohemia, e as taças pedem outro cuidado: o transporte. Taças estão entre os problemas mais citados nas reclamações da loja, e a política prevê reposição gratuita de avaria, com fotos. Regra prática, sem teste nosso: para quem compra cristal pela internet, fotografe a peça ao abrir a caixa, antes de descartar a embalagem, porque a loja pede essa foto para repor a avaria."
+          "A [Porto Brasil](https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é a louça da loja para o dia a dia, e é onde a promoção aparece: toda a coleção estava com preço riscado, de aparelho de jantar a caneca. É cerâmica, não porcelana, e o stoneware da marca libera forno, micro-ondas e freezer na maior parte das peças; as com filete dourado e algumas canecas ficam de fora, então confira a página da peça antes de levar ao forno. Serve para quem quer o aparelho de jantar completo, de 30 peças, ou para repor prato, bowl e xícara da mesma linha; não serve para quem quer porcelana fina.",
+          "O cristal da loja é a [Bohemia](https://letseatit.com.br/collections/tacas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), e as taças pedem outro cuidado: o transporte. Taças estão entre os problemas mais citados nas reclamações da loja, e a política prevê reposição gratuita de avaria, com fotos. Regra prática, sem teste nosso: para quem compra cristal pela internet, fotografe a peça ao abrir a caixa, antes de descartar a embalagem, porque a loja pede essa foto para repor a avaria."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
+            "alt": "Pratos e xícaras de stoneware Porto Brasil em tom claro, empilhados sobre a mesa",
+            "caption": "Stoneware Porto Brasil, linha Bio Latte. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778,
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o aparelho Bio Latte de 30 peças na Let's Eat It",
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Mesa posta, presentes e faqueiro",
         "paragraphs": [
-          "Para a mesa do dia a dia, a ordem que funciona é tecido, talheres e por último os pratos: jogo americano e guardanapo mudam a mesa com a louça que já está em casa, os talheres são a compra maior de uma vez, e os pratos fecham. A loja tem as três etapas na mesma vitrine, e a Casa Let's monta a mesa posta com a equipe para quem quer ver antes de levar. Para o Natal, a coleção Natal Let's tem preço riscado em quase todas as peças: porta-bolo, castiçal, adorno, sousplat e travessa.",
+          "Para a mesa do dia a dia, a ordem que funciona é tecido, talheres e por último os pratos: jogo americano e guardanapo mudam a mesa com a louça que já está em casa, os talheres são a compra maior de uma vez, e os pratos fecham. A loja tem as três etapas na [vitrine de mesa posta](https://letseatit.com.br/collections/mesa-posta?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), e a Casa Let's monta a mesa posta com a equipe para quem quer ver antes de levar. Para o Natal, a coleção Natal Let's tem preço riscado em quase todas as peças: porta-bolo, castiçal, adorno, sousplat e travessa.",
           "Para presente, a loja resolve dois perfis: quem casa e quem cozinha. Para o casal que monta a mesa do zero, o aparelho de jantar da Porto Brasil e as taças Bohemia; para quem já tem casa montada, travessa, chaleira ou uma peça Le Creuset. Para quem gosta de cozinhar, a conta vai da caneca Le Creuset aos eletroportáteis Ariete e às panelas Signature. Os guias de presente por faixa de preço estão no fim.",
-          "O faqueiro da loja é o La Maison, da linha Laguiole, em 12, 18 ou 30 peças, com o cabo colorido: no de 30, a cor muda o preço. A página não diz se vai à lava-louças nem traz prazo de garantia, e isso decide para quem lava tudo na máquina. A loja também vende faqueiro Wolff."
-        ]
-      },
-      {
-        "heading": "Cupom, Pix e frete",
-        "paragraphs": [
-          "O código da Let's Eat It é o MAUAD e dá 5% em todo o site, em todas as formas de pagamento, somando com as promoções, a pré-venda e o desconto do Pix, que sai em muitos produtos. Ele vai no campo \"Código de desconto\" do checkout, e a linha \"Desconto no pedido\" aparece no resumo antes do pagamento; o frete entra na etapa seguinte. Conta nossa: se o Pix incide sobre o preço que já saiu com o código, os dois juntos tiram 9,75% do preço de lista, não 10%. A loja não publica cupom de primeira compra. O MAUAD dá 5% no site, e a loja não publica regra de uso por CPF. O passo a passo e as regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
-          "O frete é o que mais muda a conta: o valor sai por CEP e peso, simulado na página do produto, e a política padrão da loja cita frete grátis só para Le Creuset e Zwilling acima de R$ 1.000; confirme no carrinho. A loja informa: o pedido é separado no mesmo dia ou no dia útil seguinte, e a entrega leva de 5 a 10 dias úteis depois do despacho, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo de entrega mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
-        ]
-      },
-      {
-        "heading": "A Let's Eat It é confiável?",
-        "paragraphs": [
-          "Dá para confiar, com a expectativa certa sobre o pós-venda: a loja responde e resolve quase tudo, mas nem sempre no tempo que o cliente espera. A empresa é a N. R. Bennesby Comércio de Utensílios Domésticos Ltda., com matriz no Rio de Janeiro desde 2020 e filiais em São Paulo, em Serra (ES) e em Itajaí (SC), todas ativas nos dados públicos. Os [números do Reclame Aqui](/reviews/lets-eat-it-reclame-aqui-nota-reputacao), nos últimos 6 meses, dizem o resto:"
-        ],
-        "comparisonTable": {
-          "headers": [
-            "Indicador",
-            "Resultado"
-          ],
-          "rows": [
-            [
-              "Reputação",
-              "Boa, nota 7,6"
-            ],
-            [
-              "Reclamações no período",
-              "115"
-            ],
-            [
-              "Respondidas",
-              "99,1%"
-            ],
-            [
-              "Índice de solução (reclamações finalizadas e avaliadas)",
-              "94%"
-            ],
-            [
-              "Voltariam a comprar",
-              "54%"
-            ],
-            [
-              "Tempo médio de resposta",
-              "16 dias"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Entre os avaliadores do recorte usado na tabela, 54% disseram que voltariam a comprar. O índice de solução não mede a satisfação de todos os clientes. No histórico de até 3 anos, produto não recebido é o tema mais citado, seguido das taças. Relatos de falsificação são alegações de consumidores, sem confirmação; a presença no localizador Le Creuset é um dado separado. Guarde a nota fiscal e confira a peça ao receber.",
-          "A política de troca ajuda: 30 dias da entrega para devolver, com reembolso integral ou crédito na loja sem validade, frete grátis na devolução, promoção que também pode ser devolvida e defeito coberto por 90 dias. Há também um texto padrão de reembolso com regras diferentes: se uma regra decidir a sua compra, peça a confirmação por escrito ao atendimento. A loja física é a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo; o horário e o que dá para fazer lá estão em [Let's Eat It tem loja física?](/reviews/lets-eat-it-loja-fisica-endereco). O CNPJ completo, as políticas e o que observar antes de comprar estão em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel)."
+          "O faqueiro da loja é o [La Maison, da linha Laguiole](https://letseatit.com.br/collections/laguiole-la-maison?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), em 12, 18 ou 30 peças, com o cabo colorido: no de 30, a cor muda o preço. A página não diz se vai à lava-louças nem traz prazo de garantia, e isso decide para quem lava tudo na máquina. A loja também vende faqueiro Wolff.",
+          "A Casa Let's, loja física na Avenida Pacaembu, 1105, em São Paulo, mostra as peças em uso; o horário e o que dá para fazer lá estão em [Let's Eat It tem loja física?](/reviews/lets-eat-it-loja-fisica-endereco)."
         ],
         "images": [
           {
             "src": "/images/reviews/letseatit/casa-lets-fachada.webp",
             "alt": "Fachada da Casa Let's, a loja física da Let's Eat It na Avenida Pacaembu, em São Paulo; captura de tela da página da loja",
             "caption": "A Casa Let's, na página oficial da loja: visita sem agendamento, e o pedido do site não é retirado ali. Imagem: Let's Eat It.",
-            "objectFit": "wide",
+            "objectFit": "contain",
             "href": "https://letseatit.com.br/pages/casa-lets?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
+        ],
+        "links": [
+          {
+            "label": "Ver a mesa posta na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/mesa-posta?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete",
+        "paragraphs": [
+          "O código da Let's Eat It é o MAUAD e dá 5% OFF em todo o site, em todas as formas de pagamento, para cliente novo e antigo, somando com as promoções, a pré-venda e o desconto do Pix, que sai em muitos produtos. Ele vai no campo \"Código de desconto\" do checkout, e a linha \"Desconto no pedido\" aparece no resumo antes do pagamento; o frete entra na etapa seguinte. Conta nossa: se o Pix incide sobre o preço que já saiu com o código, os dois juntos tiram 9,75% do preço de lista, não 10%. A loja não publica cupom de primeira compra nem regra de uso por CPF. O passo a passo e as regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "O frete é o que mais muda a conta: o valor sai por CEP e peso, simulado na página do produto, e a página de frete não publica frete grátis por valor. Os prazos, depois da confirmação do pagamento, vão de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo de entrega mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
         ]
       },
       {
@@ -198846,18 +199236,22 @@ export const reviewsData: unknown[] = [
           "Para quem quer Le Creuset com nota fiscal num canal que a marca lista, a loja vale, e o código tira 5% até da Le Creuset.",
           "Para a louça do dia a dia e o aparelho de jantar completo, a Porto Brasil, que é onde a promoção da loja está.",
           "Para presente de casamento ou de quem cozinha, a loja tem as faixas numa vitrine só, com troca em 30 dias da entrega.",
-          "Não vale para quem precisa da peça em poucos dias: a entrega leva de 5 a 10 dias úteis depois do despacho, e sobe em promoção.",
-          "Não vale para quem quer frete grátis em qualquer pedido: na compra, a política padrão só cita Le Creuset e Zwilling acima de R$ 1.000.",
-          "Se o presente é de cristal e tem data marcada, deixe margem para resolver eventual avaria. A política prevê reposição de avaria com fotos; fotografe a peça e a embalagem ao receber."
+          "Não vale para quem precisa da peça em poucos dias: a entrega leva de 3 a 12 dias úteis conforme a região, e sobe em promoção.",
+          "Não vale para quem quer frete grátis em qualquer pedido: o frete é calculado por CEP e peso, sem faixa de frete grátis publicada.",
+          "Se o presente é de cristal e tem data marcada, deixe margem para resolver eventual avaria."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Le Creuset e a louça pela Let's Eat It; o cristal, eu pediria com tempo de sobra."
+        "emphasis": "A Let's Eat It compensa para quem quer Le Creuset e louça com nota fiscal num canal que a marca lista; o cristal pede prazo de sobra para resolver eventual avaria.",
+        "paragraphs": [
+          "Sobre confiança, os números do Reclame Aqui são de atenção e não de alarme: nos seis meses até outubro, a reputação é Boa, com nota 7,7, 98% das reclamações respondidas e 95,9% resolvidas entre as 49 avaliadas, mas só 59,2% voltariam a comprar e a resposta leva cerca de 19 dias. A troca ajuda: 30 dias da entrega para devolver, com reembolso integral ou crédito sem validade, e defeito coberto por 90 dias. Peça de cristal pede foto da peça e da caixa ao abrir, porque a reposição de avaria depende delas."
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Let's Eat It é confiável? Sim: empresa ativa com filiais em quatro estados, troca em 30 dias e reputação Boa no Reclame Aqui; o pós-venda resolve, mas pode demorar, como mostra o capítulo de confiança.",
-          "A Let's Eat It vende Le Creuset original? A loja está no localizador oficial de revendedores da Le Creuset Brasil, com o endereço da filial de Serra (ES); guarde a nota fiscal, que a marca pede para analisar a garantia.",
-          "Tem cupom de primeira compra? A loja não publica cupom de primeira compra; o código MAUAD dá 5% no site, e soma com o desconto do Pix.",
+          "A Let's Eat It é confiável? Sim: empresa ativa com filiais em quatro estados, troca em 30 dias e reputação Boa no Reclame Aqui; o pós-venda resolve, mas pode demorar.",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo, e soma com o Pix. Digite no campo \"Código de desconto\" do checkout. As regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "A Let's Eat It vende Le Creuset original? A loja está no localizador oficial de lojas da Le Creuset Brasil, com o endereço da filial de Serra (ES); guarde a nota fiscal, que a marca pede para analisar a garantia.",
+          "Tem cupom de primeira compra? A loja não publica cupom de boas-vindas; o MAUAD dá 5% no site para cliente novo e antigo.",
           "A Let's Eat It tem loja física? Tem, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo. O MAUAD vale só no site. Veja o horário e a condição presencial no [guia da loja física](/reviews/lets-eat-it-loja-fisica-endereco).",
           "A Let's Eat It é boa para presente? É, para presente de casa: aparelho de jantar, taças, faqueiro e Le Creuset, com troca em 30 dias da entrega; confira o prazo de entrega do CEP de quem ganha, no capítulo de frete."
         ]
@@ -198871,8 +199265,8 @@ export const reviewsData: unknown[] = [
         "Você compra no site com o código e paga no Pix: os dois descontos valem no mesmo pedido."
       ],
       "skipIf": [
-        "Você precisa da peça em poucos dias: a entrega leva de 5 a 10 dias úteis depois do despacho.",
-        "Você quer frete grátis em qualquer pedido: ele só vale nos pedidos maiores de Le Creuset e Zwilling, e o resto paga frete por CEP e peso.",
+        "Você precisa da peça em poucos dias: a entrega leva de 3 a 12 dias úteis conforme a região, depois da confirmação do pagamento.",
+        "Você quer frete grátis em qualquer pedido: o frete é calculado por CEP e peso, sem faixa de frete grátis publicada.",
         "A peça é de cristal e você não quer o risco do transporte: taças estão entre os problemas mais citados no Reclame Aqui."
       ]
     },
@@ -198886,9 +199280,6 @@ export const reviewsData: unknown[] = [
     "affiliate": "letseatit",
     "editorialNote": "Podemos receber comissão pela Let's Eat It. Ninguém da equipe comprou na loja: dados do site, do CNPJ e do Reclame Aqui.",
     "relatedArticles": [
-      {
-        "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
-      },
       {
         "slug": "cupom-mauad-lets-eat-it-como-usar"
       },
@@ -198915,6 +199306,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "faqueiro-laguiole-la-maison-qual-escolher"
+      },
+      {
+        "slug": "lets-eat-it-loja-fisica-endereco"
       }
     ]
   },
@@ -236796,7 +237190,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "MAUAD dá 5% OFF no site da Let's Eat It na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções do site.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa-v2.webp",
@@ -236819,7 +237213,10 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-mauad-lets-eat-it-como-usar"
       },
       {
-        "slug": "lets-eat-it-e-confiavel"
+        "slug": "black-friday-letseatit"
+      },
+      {
+        "slug": "lets-eat-it-e-boa"
       }
     ],
     "contentSections": [
@@ -236832,8 +237229,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Let's Eat It primeira compra: qual usar",
         "paragraphs": [
-          "A Let's Eat It vende panelas, louças e utensílios de cozinha na sua loja online. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel).",
-          "Use o MAUAD: 5% OFF nas compras no site oficial, no primeiro pedido e nos seguintes. Ele soma com as promoções do site.",
+          "A Let's Eat It vende panelas, louças e utensílios de cozinha no [site oficial](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). Para o primeiro pedido, a regra é uma só.",
+          "Use o MAUAD: 5% OFF nas compras no site oficial, no primeiro pedido e nos seguintes, em todas as formas de pagamento. Ele soma com as promoções do site. Serve para completar a mesa ou escolher um presente no pedido seguinte.",
           "É o [cupom Let's Eat It](/cupons/letseatit) da nossa parceria com a loja, testado no checkout. Panela, louça ou presente: o código é o mesmo."
         ]
       },
@@ -236844,7 +237241,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**No checkout, não no carrinho.** O campo “Código de desconto” fica no resumo do pedido, na finalização da compra. No celular, abra o resumo se ele estiver recolhido.",
-          "**Só no site oficial.** A Let's Eat It não tem aplicativo, e o código não vale no Mercado Livre.",
+          "**Só no site oficial.** A Let's Eat It não tem aplicativo, e o código não vale no Mercado Livre nem na loja física Casa Let's.",
           "**Frete à parte.** O frete aparece na etapa seguinte do checkout e é calculado para o CEP informado."
         ],
         "postParagraphs": [
@@ -236882,7 +237279,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os 5% saíram do preço promocional. Nos produtos em que a loja marca desconto no Pix, ele soma com o código: escolha o Pix no pagamento e confira o total."
+          "Os 5% saíram do preço promocional. Nos produtos em que a loja marca 5% de desconto no Pix, ele soma com o código: os dois juntos dão cerca de 9,75% sobre o preço de tabela. Escolha o Pix no pagamento e confira o total."
         ],
         "images": [
           {
@@ -236892,12 +237289,13 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://letseatit.com.br/products/pote-ceramica-com-tampa-de-madeira-scand-black-onyx-1-1l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
-        ]
-      },
-      {
-        "heading": "E na segunda compra?",
-        "paragraphs": [
-          "O MAUAD vale de novo para quem já comprou, com os mesmos 5%. Serve para completar a mesa ou escolher um presente no pedido seguinte."
+        ],
+        "links": [
+          {
+            "label": "Ver o pote Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/products/pote-ceramica-com-tampa-de-madeira-scand-black-onyx-1-1l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -236917,19 +237315,38 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Resumo do pedido na Let's Eat It: subtotal de R$ 3.582,10, desconto MAUAD de R$ 179,10, frete calculado na próxima etapa e total de R$ 3.403,00.",
         "imageCaption": "O MAUAD aplicado no resumo do pedido, em outro carrinho de teste: a linha do desconto aparece antes do frete.",
         "imageFit": "contain",
-        "imageAspectRatio": 2.686
+        "imageAspectRatio": 2.686,
+        "emphasis": "O MAUAD vale na primeira compra e em todas as seguintes, então não há por que guardá-lo: cole no resumo do checkout e confira a linha do desconto antes de pagar.",
+        "links": [
+          {
+            "label": "Ir para a Let's Eat It",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como conseguir desconto na primeira compra na Let's Eat It? O MAUAD dá 5% no site oficial, no primeiro pedido e nos seguintes.",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, no primeiro pedido e nos seguintes. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
+          "Como conseguir desconto na primeira compra na Let's Eat It? Aplique o MAUAD no resumo do pedido, antes de pagar.",
           "Qual cupom Let's Eat It vale para quem já é cliente? O mesmo MAUAD, com os mesmos 5%.",
           "O cupom Let's Eat It soma com produto em promoção? Sim. Os 5% entram sobre o preço promocional.",
           "O cupom Let's Eat It vale no Mercado Livre? Não. Ele vale no site oficial da Let's Eat It.",
           "Onde colar o cupom na Let's Eat It? No checkout, no campo “Código de desconto” do resumo do pedido."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Use o MAUAD se o primeiro pedido tem panela, louça ou presente no site oficial: os 5% entram até sobre o preço promocional.",
+        "Use de novo em cada pedido seguinte: o código vale também para quem já comprou."
+      ],
+      "skipIf": [
+        "Passe o MAUAD se a compra vai ser pelo Mercado Livre: lá o código não vale.",
+        "Passe o código se o pedido é na Casa Let's, a loja física: ele só vale no site."
+      ]
+    }
   },
   {
     "id": 927,
@@ -292735,7 +293152,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos conjuntos deste guia, o aparelho de 16 peças serve quatro pessoas. Os de 30 e 42 servem seis. O de 42 acrescenta uma xícara de chá com pires por pessoa. Na Let's Eat It, os Porto Brasil de 30 estão em pré-venda. Confira a previsão se você precisa da louça para uma ocasião."
+          "O aparelho de 16 peças serve quatro pessoas, e os de 30 e de 42 servem seis; o de 42 traz também xícara de chá com pires. Os Porto Brasil de 30 peças estão em pré-venda: confira a previsão. Com o [cupom Let's Eat It](/cupons/letseatit), MAUAD, são 5% OFF em todas as formas de pagamento."
         ]
       },
       {
@@ -292778,7 +293195,7 @@ export const reviewsData: unknown[] = [
           "Os três Porto Brasil de 30 peças e os dois Grecco de 42 servem seis pessoas. A tabela separa o preço do dia da estimativa com o cupom. O conjunto de 16 peças estava esgotado na consulta."
         ],
         "comparisonTable": {
-          "caption": "Preço de venda lido em 20 de novembro de 2026. Conta nossa: 5% do código MAUAD sobre o preço do dia.",
+          "caption": "Preço de venda lido em 22 de novembro de 2026. Conta nossa: 5% do código MAUAD sobre o preço do dia.",
           "headers": [
             "Conjunto",
             "Peças por lugar",
@@ -292820,6 +293237,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Dividido por seis lugares e já com o código, o Porto Brasil de 30 peças sai a partir de R$ 123,32 por pessoa (Bio Latte), e o Grecco de 42, a partir de R$ 184,30 (azul). O de 42 custa mais e traz a xícara de chá, em porcelana, mas não serve mais gente."
+        ],
+        "links": [
+          {
+            "label": "Ver os aparelhos de jantar Porto Brasil na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver todos os aparelhos de jantar",
+            "href": "https://letseatit.com.br/collections/aparelhos-de-jantar?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292844,18 +293273,20 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Passou de seis pessoas, nenhum destes conjuntos fecha a conta sozinho: o de 42 também é para seis. As saídas são somar um segundo conjunto ou completar com pratos de outra linha. Dois Bio Oceano custam R$ 1.596,00, ou R$ 1.516,20 com o código, para até doze pessoas, na mesma conta de 5%.",
           "Para quatro pessoas ou menos, o de 30 sobra, e o conjunto de 16 peças segue fora de venda. Para duas pessoas, a conta de peça por peça está em [mesa posta do dia a dia](/reviews/mesa-posta-dia-a-dia-o-que-comprar)."
-        ]
+        ],
+        "emphasis": "Para seis pessoas, o Porto Brasil de 30 peças resolve o dia a dia e o jantar; passou de seis, some um segundo conjunto em vez de subir para o de 42, que também é para seis."
       },
       {
         "heading": "Cupom MAUAD e como conferir a compra",
         "paragraphs": [
-          "O [cupom Let's Eat It](/cupons/letseatit), MAUAD, dá 5% no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Confira no carrinho como os dois descontos aparecem antes de pagar.",
+          "O [cupom Let's Eat It](/cupons/letseatit), MAUAD, dá 5% OFF no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Confira no carrinho como os dois descontos aparecem antes de pagar. Cole o código no campo \"Código de desconto\" do checkout.",
           "O estoque muda em poucos dias, e o envio a partir de cerca de 15 dias não é data de entrega: confira o prazo do seu CEP no carrinho antes de pagar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout; as condições estão no [cupom Let's Eat It](/cupons/letseatit).",
           "Existe aparelho de jantar Porto Brasil de 20 peças? Na consulta à Let's Eat It, encontramos os de 30 peças da Porto Brasil. O conjunto menor, de 16 peças, estava esgotado.",
           "Aparelho de jantar de 30 peças serve quantas pessoas? No Porto Brasil do guia, são seis lugares. Cada pessoa tem prato raso, de sobremesa e fundo, mais xícara de café e pires.",
           "Aparelho de jantar de 16 peças serve quantas pessoas? O conjunto de 16 peças citado no guia serve quatro pessoas, com prato raso, prato de sobremesa, cumbuca e caneca por lugar.",
@@ -292895,7 +293326,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para seis lugares, o Wolff de 24 peças cobre a mesa e o chá. O de 54 serve oito e inclui talheres de sobremesa. O de 101 serve doze. O de 130 também serve doze e acrescenta peças para peixe e assado. As fichas avisam que o estojo não acompanha o faqueiro."
+          "Para seis lugares, o Wolff de 24 peças cobre a mesa e o chá. O de 54 serve oito e inclui talheres de sobremesa. O de 101 serve doze, e o de 130 também, com peças para peixe e assado. Na Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento."
         ]
       },
       {
@@ -292971,6 +293402,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O [Avalon Dourado de 130 peças](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem o que o 101 tem e mais 12 facas de peixe, 12 garfos de peixe, 1 garfo de servir peixe, 1 espátula de peixe, 1 concha de molho, 1 faca de assado e 1 garfo de assado. Custa R$ 2.769,90.",
           "É o tamanho para quem recebe doze com peixe e assado à mesa. Os outros 130 da Wolff, o Avalon liso, o Berna e o Pisa, estão esgotados."
+        ],
+        "links": [
+          {
+            "label": "Ver o faqueiro Avalon Dourado 130 peças na Let's Eat It",
+            "href": "https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-dourado-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292979,7 +293417,7 @@ export const reviewsData: unknown[] = [
           "Dividimos o preço no cartão pelo número de peças do faqueiro. Compare os modelos para o mesmo número de lugares antes de usar o preço por peça para decidir."
         ],
         "comparisonTable": {
-          "caption": "Preço de venda e preço por peça lidos em 20 de novembro de 2026",
+          "caption": "Preço de venda e preço por peça lidos em 22 de novembro de 2026",
           "headers": [
             "Faqueiro",
             "Peças",
@@ -293021,6 +293459,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Firenze de 24 e no de 54, o dourado custa cerca de R$ 5,40 a mais por peça. As fichas trazem a mesma lista de talheres para cada tamanho."
+        ],
+        "links": [
+          {
+            "label": "Ver os faqueiros Wolff na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293086,6 +293531,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O Viena liso é o de 101 peças com menor preço por peça na tabela. O Viena Dourado custa R$ 14,84 por peça, ante R$ 10,30 no liso. No Avalon, a diferença é de R$ 6,26 por peça."
+        ],
+        "links": [
+          {
+            "label": "Ver todos os faqueiros na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/faqueiros?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293108,18 +293560,20 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para seis pessoas, o de 24 cobre a mesa e o chá. Se você já quer talher de sobremesa para seis, o guia de Natal traz dois faqueiros de 30 com garfos de bolo. O de 54 serve oito e acrescenta colheres de sobremesa. Para doze, escolha o de 101. O de 130 faz sentido para quem serve peixe e assado com frequência.",
           "A linha e o acabamento ficam por último, porque mexem no preço e a lista de talheres quase não muda. Quem quer o faqueiro completo para um Natal de seis pode olhar o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa), e quem compara com outra marca encontra o [faqueiro Laguiole La Maison](/reviews/faqueiro-laguiole-la-maison-qual-escolher)."
-        ]
+        ],
+        "emphasis": "Para seis pessoas, o Firenze de 24 peças resolve; o de 54 só compensa quando são oito à mesa e a sobremesa tem talher próprio, e o de 101 é o tamanho de quem recebe doze."
       },
       {
         "heading": "Cupom e Pix",
         "paragraphs": [
-          "No site da Let's Eat It, o cupom MAUAD dá 5% no checkout, vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "No site da Let's Eat It, o cupom MAUAD dá 5% OFF no checkout, vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit). Cole o código no campo \"Código de desconto\" do checkout.",
           "Conta nossa, com 5% sobre o preço do dia: o Viena de 54 peças, de R$ 519,00, ficaria em R$ 493,05, e o Firenze de 24 peças, de R$ 239,00, em R$ 227,05. O valor final aparece no carrinho."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole no campo \"Código de desconto\" do checkout; as condições estão no [cupom Let's Eat It](/cupons/letseatit).",
           "O faqueiro Wolff de 54 peças serve quantas pessoas? A ficha traz 8 facas, 8 garfos e 8 colheres de mesa, 8 colheres e 8 garfos de sobremesa e 8 colheres de chá ou café. Pela conta de talheres, são oito pessoas.",
           "O faqueiro Wolff de 101 peças serve quantas pessoas? A ficha traz 12 de cada talher de mesa, de sobremesa, de chá e de café. Pela conta de talheres, são doze pessoas, e o Berna diz que vem pronto para servir até 12.",
           "Existe faqueiro Wolff de 130 peças à venda? Sim, o Avalon Dourado. Os outros de 130 da Wolff estão esgotados.",
@@ -293203,7 +293657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para seis pessoas, comece pelos pratos que você já tem. A mesa básica usa louça bege, talheres dourados e taças de vinho. A intermediária combina prato raso e fundo e deixa a sobremesa por sua conta. A completa traz o Grecco verde de 42 peças. Confira o frete e a chegada antes de fechar."
+          "Para seis pessoas, comece pelos pratos que você já tem. A mesa básica usa louça bege, talheres dourados e taças de vinho; a intermediária combina prato raso e fundo; a completa traz o Grecco verde de 42 peças. O [cupom MAUAD](/cupons/letseatit) dá 5% OFF no site da Let's Eat It, em todas as formas de pagamento."
         ]
       },
       {
@@ -293216,7 +293670,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cores: uma base neutra e um brilho",
         "paragraphs": [
-          "Para combinar com o que você tem em casa, escolha onde quer o dourado. Na mesa básica ele aparece nos talheres e na borda da taça. A intermediária tem pratos brancos com riscos verdes. Na completa, o próprio aparelho de jantar já traz cor e filete dourado.",
+          "Para combinar com o que você tem em casa, escolha onde quer o dourado. Na mesa básica ele aparece nos talheres. A intermediária tem pratos brancos com riscos verdes. Na completa, o próprio aparelho de jantar já traz cor e filete dourado.",
           "Para quem prefere prata, a vitrine trazia o Très Classique azul de 42 peças em pré-venda. A ficha orienta manter o aparelho fora do micro-ondas e lavar à mão."
         ]
       },
@@ -293226,7 +293680,7 @@ export const reviewsData: unknown[] = [
           "A conta é para seis lugares, com um prato raso, um talher completo e uma taça por lugar. Os preços são de venda e mudam com promoção; o frete fica de fora, porque é calculado pelo CEP."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda no site em 20/11, sem frete.",
+          "caption": "Preços de venda lidos em 22/11, sem frete.",
           "headers": [
             "Mesa para seis",
             "Sem cupom",
@@ -293236,9 +293690,9 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "1, básica",
-              "R$ 957,50",
-              "R$ 909,63",
-              "R$ 151,61"
+              "R$ 961,70",
+              "R$ 913,62",
+              "R$ 152,27"
             ],
             [
               "2, intermediária",
@@ -293261,7 +293715,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Faixa 1: mesa básica, em bege e dourado",
         "paragraphs": [
-          "Para quem recebe seis pessoas e quer brilho sem gastar muito: o dourado fica no talher e nas taças, e a louça segue em tons neutros."
+          "Para quem recebe seis pessoas e quer brilho sem gastar muito: o dourado fica no talher, e a louça e as taças seguem em tons neutros."
         ],
         "comparisonTable": {
           "headers": [
@@ -293290,22 +293744,22 @@ export const reviewsData: unknown[] = [
               "R$ 369,90"
             ],
             [
-              "[Jogo 2 Taças para Vinho Vidro Cristalino Borda Dourada Lines 380 ml, Wolff](https://letseatit.com.br/products/jogo-2-tacas-para-vinho-vidro-cristalino-borda-dourada-lines-380ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
-              "3",
-              "R$ 46,90",
-              "R$ 140,70"
+              "[Jogo 6 Taças Vinho Branco Crex Optic 480 ml Cristal Ecológico, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-vinho-branco-crex-optic-480ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "1",
+              "R$ 144,90",
+              "R$ 144,90"
             ],
             [
               "Total",
               "—",
               "—",
-              "R$ 957,50"
+              "R$ 961,70"
             ]
           ]
         },
         "postParagraphs": [
-          "O faqueiro Firenze Dourado traz 24 peças: 6 colheres de mesa, 6 garfos, 6 facas e 6 colheres de chá. Não tem garfo nem colher de sobremesa, e vem sem estojo. As taças Lines são de vinho, de 380 ml, em jogos de duas, então são três jogos para os seis lugares. Para o brinde com espumante, a linha tem taça de champanhe de 300 ml, em jogo de 2 a R$ 112,90. Trocar os três jogos soma R$ 198,00 à faixa.",
-          "Os pratos rasos Scalla Bege têm 27 cm, e a página manda não usar no micro-ondas nem na lava-louças: lave à mão. A página dos pratos de sobremesa Bolinha Off White, de 20 cm, não traz cuidados. Pergunte à loja antes de pôr na máquina. Quem prefere tudo da mesma linha encontra o aparelho Scalla Bege de 30 peças por R$ 846,00, com 6 pratos rasos, 6 de sobremesa, 6 fundos e 6 xícaras de chá com pires."
+          "O faqueiro [Firenze Dourado](https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-firenze-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) traz 24 peças: 6 colheres de mesa, 6 garfos, 6 facas e 6 colheres de chá. Não tem garfo nem colher de sobremesa, e vem sem estojo. As taças Crex Optic, de cristal ecológico, têm 480 ml e vêm em jogo de seis, uma por lugar. O título da loja diz vinho branco, e a página as indica para espumantes e champanhes. Elas não vão à lava-louças.",
+          "Os pratos rasos Scalla Bege têm 27 cm, e a página manda não usar no micro-ondas nem na lava-louças: lave à mão. A página dos pratos de sobremesa Bolinha Off White, de 20 cm, não traz cuidados. Pergunte à loja antes de pôr na máquina. Quem prefere tudo da mesma linha encontra o [aparelho Scalla Bege de 30 peças](https://letseatit.com.br/products/aparelho-30-pecas-ceramica-bege-com-filete-amassada-scalla?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) por R$ 846,00, com 6 pratos rasos, 6 de sobremesa, 6 fundos e 6 xícaras de chá com pires."
         ],
         "images": [
           {
@@ -293365,7 +293819,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os pratos Donatella são de cerâmica, com 29 cm o raso e 25 cm o fundo. A página fala em filete de ouro, e a foto mostra também a borda de riscos verdes com pontinhos amarelos: olhe a foto antes de combinar com o resto da mesa. A página diz que a louça vai ao micro-ondas e à lava-louças, exceto as peças filetadas a ouro, que é o caso: lave à mão.",
-          "O faqueiro Avalon Dourado traz 30 peças: 6 garfos de mesa, 6 colheres de mesa, 6 facas, 6 colheres de chá e 6 garfos de bolo. Não tem colher de sobremesa e vem sem estojo. As taças Crex Optic, de cristal ecológico, têm 480 ml. O título da loja diz vinho branco, e a página as indica para espumantes e champanhes. Elas não vão à lava-louças."
+          "O faqueiro Avalon Dourado traz 30 peças: 6 garfos de mesa, 6 colheres de mesa, 6 facas, 6 colheres de chá e 6 garfos de bolo. Não tem colher de sobremesa e vem sem estojo. As taças são as mesmas Crex Optic da faixa 1, de 480 ml."
         ],
         "images": [
           {
@@ -293449,20 +293903,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom MAUAD e o prazo de chegada",
         "paragraphs": [
-          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Confira no checkout como os dois aparecem. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Cole o código no campo \"Código de desconto\" do checkout e confira como os dois aparecem. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
           "Os 5% são sobre o subtotal, sem o frete, que é calculado pelo CEP. Itens em pré-venda, como o jogo de sobremesa Donatella, têm prazo de envio próprio. Para a mesa chegar antes da virada, confira o prazo do seu CEP no checkout antes de pagar e feche o pedido com folga."
         ]
       },
       {
         "heading": "Qual faixa escolher",
         "paragraphs": [
-          "Se já tem seis pratos rasos e seis de sobremesa, na mesa básica o faqueiro e as taças somam R$ 510,60 antes do código. Se precisa comprar louça, confira o menu antes de gastar: a intermediária inclui prato fundo e a completa acrescenta pratos de sobremesa, xícaras e pires.",
+          "Se já tem seis pratos rasos e seis de sobremesa, na mesa básica o faqueiro e as taças somam R$ 514,80 antes do código. Se precisa comprar louça, a intermediária inclui prato raso e fundo, e a completa acrescenta pratos de sobremesa, xícaras e pires.",
           "Os pratos Scalla Bege, os Donatella com filete e o Grecco pedem lavagem à mão, segundo as fichas."
+        ],
+        "emphasis": "Para a virada com seis à mesa, a faixa 1 basta quando os pratos já são seus; a completa só compensa para quem quer o Grecco verde como aparelho da casa.",
+        "links": [
+          {
+            "label": "Ver o faqueiro Firenze Dourado na Let's Eat It",
+            "href": "https://letseatit.com.br/products/faqueiro-24-pecas-aco-inox-firenze-dourado-com-caixa-litografada-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o jogo de pratos Donatella na Let's Eat It",
+            "href": "https://letseatit.com.br/products/jogo-6-pratos-rasos-ceramica-donatella-filete-ouro-29cm-alleanza?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o aparelho Grecco verde na Let's Eat It",
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-grecco-42pcs-porcelana-verde-com-filete-dourado-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "A Let's Eat It tem mesa posta de Ano Novo? Não há coleção de Ano Novo na loja. As três faixas são montagens nossas, com peças em dourado, bege, off white e verde.",
           "Dá para montar mesa branca e dourada? Em parte. Os pratos Donatella da faixa 2 têm fundo branco e filete dourado, mas a borda traz riscos verdes, e a loja não tem hoje aparelho branco liso de seis lugares. O off white mais perto do liso está nos pratos de sobremesa da faixa 1.",
           "Precisa de seis pratos de sobremesa? Um por pessoa é a conta de seis lugares. As faixas 1 e 3 trazem; a 2 não, e a sobremesa pode vir em taça ou no prato fundo.",
@@ -293514,7 +293987,7 @@ export const reviewsData: unknown[] = [
     "slug": "le-creuset-travessa-qual-escolher",
     "locale": "pt",
     "title": "Travessa Le Creuset: qual tamanho escolher, com ou sem tampa e o que a ficha diz do forno",
-    "seoTitle": "Travessa Le Creuset: tamanho, tampa e forno",
+    "seoTitle": "Travessa Le Creuset: tamanho, tampa e uso no forno",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -293570,7 +294043,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Heritage retangular tem modelos de 19 a 32 cm, em cerâmica para forno. A Signature de ferro fundido vai também ao fogão, segundo a ficha. Meça a prateleira do forno e deixe folga para as alças. Na Let's Eat It, as opções com tampa estavam esgotadas na consulta."
+          "A Heritage retangular tem modelos de 19 a 32 cm, em cerâmica para forno. A Signature de ferro fundido vai também ao fogão, segundo a ficha. Meça a prateleira do forno e deixe folga para as alças. As opções com tampa esgotaram. No site da Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF."
         ]
       },
       {
@@ -293587,47 +294060,47 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Retangular 19 cm",
+              "[Retangular 19 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-bleu-riviera-19cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Bleu Riviera e Vermelha",
               "R$ 349"
             ],
             [
-              "Quadrada 23 cm",
+              "[Quadrada 23 cm](https://letseatit.com.br/products/travessa-quadrada-ceramica-heritage-meringue-23cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Meringue e Bleu Riviera",
               "R$ 258,30 na Meringue; R$ 399 na Bleu Riviera"
             ],
             [
-              "Clássica retangular 25 cm (pré-venda na vitrine)",
+              "[Clássica retangular 25 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-classica-azure-25cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Azure",
               "R$ 363,30"
             ],
             [
-              "Retangular 26 cm",
+              "[Retangular 26 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Nectar, Rose Quartz, Shell Pink, Branco, Flint, Meringue e Cotton",
               "R$ 317,40 na Nectar; R$ 370,30 na Rose Quartz e na Shell Pink; R$ 529 nas outras"
             ],
             [
-              "Canelada 28 cm",
-              "Bleu Riviera",
-              "R$ 370,30"
+              "[Canelada 28 cm](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
+              "Bleu Riviera, Laranja e Vermelha: esgotadas",
+              "R$ 370,30 a R$ 529, sem estoque"
             ],
             [
-              "Retangular 32 cm",
+              "[Retangular 32 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-mist-grey-32cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Mist Grey, Azul Caribe, Nectar, Branco, Shell Pink e Bleu Riviera",
               "R$ 496,30 na Mist Grey, na Azul Caribe e na Nectar; R$ 709 nas outras"
             ],
             [
-              "Redonda Ruffle 36 cm (pré-venda na vitrine)",
+              "[Redonda Ruffle 36 cm](https://letseatit.com.br/products/travessa-redonda-ceramica-ruffle-shell-pink-36cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Shell Pink e Branca",
               "R$ 517,30"
             ],
             [
-              "Signature com alças 33 cm (ferro fundido)",
+              "[Signature com alças 33 cm (ferro fundido)](https://letseatit.com.br/products/travessa-retangular-ceramica-signature-vermelha-33cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Vermelha",
               "R$ 1.869"
             ],
             [
-              "Signature com alças 37 cm (ferro fundido)",
+              "[Signature com alças 37 cm (ferro fundido)](https://letseatit.com.br/products/travessa-retangular-com-alcas-ceramica-signature-laranja-37cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Laranja",
               "R$ 2.239"
             ]
@@ -293642,6 +294115,28 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
+        ],
+        "links": [
+          {
+            "label": "Ver a travessa Heritage Branca 26 cm na Let's Eat It",
+            "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-branca-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Heritage Mist Grey 32 cm na Let's Eat It",
+            "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-mist-grey-32cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Signature Vermelha 33 cm na Let's Eat It",
+            "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-signature-vermelha-33cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Ver as travessas Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293653,11 +294148,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "19 cm: a menor retangular, para uma porção pequena ou para acompanhar a travessa grande.",
           "23 cm quadrada e 25 cm retangular: o meio da escala.",
-          "26 e 32 cm retangulares: os dois tamanhos com mais cores à venda. A ficha da de 26 cm dá 8 cm de altura, 19 de largura e 26 de comprimento, e a de 32 cm é a maior das retangulares Heritage.",
+          "26 e 32 cm retangulares: os dois tamanhos com mais cores à venda. A ficha da [de 26 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) dá 8 cm de altura, 19 de largura e 26 de comprimento, e a [de 32 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-mist-grey-32cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é a maior das retangulares Heritage.",
           "28 cm canelada e 36 cm Ruffle: formatos de borda trabalhada. A ficha indica a canelada para tortas e doces, e a Ruffle, rasa, com 4 cm de altura, para servir queijos e aperitivos."
-        ],
-        "emphasis": "Eu mediria a prateleira do forno e a travessa que você já usa antes de escolher o tamanho. Se a atual aperta, o próximo tamanho da tabela é o caminho.",
-        "emphasisAfterParagraph": 1
+        ]
       },
       {
         "heading": "Heritage ou Signature: qual linha escolher",
@@ -293709,29 +294202,64 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Onde procurar uma travessa com tampa",
+        "heading": "Travessa com tampa: o que esgotou",
         "paragraphs": [
-          "Na data da consulta, as travessas com tampa estavam esgotadas na Let's Eat It. A seleção incluía retangulares de 32 e 33 cm, a oval para peixe de 34 cm e a oval de 3,8 L."
+          "Na data da consulta, todas as travessas com tampa estavam esgotadas na Let's Eat It. Se a tampa é indispensável, a lista abaixo mostra o que a loja tinha e quanto custava, para comparar com o que voltar ao estoque."
+        ],
+        "bullets": [
+          "Retangular Clássica com tampa vermelha, 32 cm: R$ 1.018.",
+          "San Fran Foret com tampa, 31 cm: R$ 1.153.",
+          "Oval Heritage com tampa, 3,8 L: R$ 1.057.",
+          "Bleu Riviera com tampa, 33 cm: R$ 1.018."
+        ],
+        "postParagraphs": [
+          "Sem tampa, a loja tinha a [Heritage Mist Grey de 32 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-mist-grey-32cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a Heritage Bleu Riviera de 32 cm e a de 19 cm, as quadradas de 23 cm e a Signature Vermelha de 33 cm, que vem com alças."
+        ],
+        "links": [
+          {
+            "label": "Ver as travessas Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Cor: azul, branca ou outra",
         "paragraphs": [
-          "O azul aparece em vários tamanhos: Bleu Riviera na de 19 cm, na quadrada de 23 cm, na canelada de 28 cm e na de 32 cm, mais a Azul Caribe na de 32 cm e a Azure na Clássica de 25 cm. O branco está na de 26 cm, na de 32 cm e na Ruffle de 36 cm.",
-          "A cor também mexe no preço do dia: a retangular de 26 cm custa R$ 317,40 na Nectar e R$ 529 na Branco, e a de 32 cm custa R$ 496,30 na Mist Grey e R$ 709 na Branco. Se formato e tamanho já estão decididos, vale olhar as outras cores do mesmo tamanho antes de fechar."
+          "O azul aparece em vários tamanhos: Bleu Riviera na de 19 cm, na quadrada de 23 cm e na de 32 cm, mais a Azul Caribe na de 32 cm e a Azure na Clássica de 25 cm. O branco está na de 26 cm, na de 32 cm e na Ruffle de 36 cm.",
+          "A cor também mexe no preço do dia: a [retangular de 26 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-branca-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 317,40 na Nectar e R$ 529 na Branco, e a [de 32 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-mist-grey-32cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custa R$ 496,30 na Mist Grey e R$ 709 na Branco. Se formato e tamanho já estão decididos, vale olhar as outras cores do mesmo tamanho antes de fechar."
         ]
+      },
+      {
+        "heading": "Qual travessa levar",
+        "paragraphs": [
+          "A Heritage de 26 cm tem mais cores à venda e custa de R$ 317,40 a R$ 529; a de 32 cm é a maior da linha, para assado grande. As duas vão ao forno, ao micro-ondas, ao freezer e à lava-louças, segundo a Le Creuset. A [Signature de 33 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-signature-vermelha-33cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), a R$ 1.869, entra quando a travessa também vai ao fogão e à mesa."
+        ],
+        "emphasis": "A Heritage de 26 cm resolve quem assa e serve à mesa; a Signature só compensa para quem também cozinha no fogão."
       },
       {
         "heading": "Onde comprar e o cupom",
         "paragraphs": [
-          "A Le Creuset está na Let's Eat It, e as condições estão na página do [cupom Let's Eat It](/cupons/letseatit). O código MAUAD dá 5% no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento.",
-          "Conta nossa, 5% sobre o preço do dia e sem frete: a retangular Heritage branca de 26 cm, de R$ 529, sai por R$ 502,55 com o cupom.",
+          "A Le Creuset está na Let's Eat It, e as condições estão na página do [cupom Let's Eat It](/cupons/letseatit). O código MAUAD dá 5% OFF no checkout, em todas as formas de pagamento, e soma com o Pix nas peças que têm desconto nessa forma de pagamento. Cole o código no campo \"Código de desconto\".",
+          "Conta nossa, 5% sobre o preço do dia e sem frete: a [retangular Heritage branca de 26 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-branca-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de R$ 529, sai por R$ 502,55 com o cupom.",
           "Para escolher panela redonda por litros, veja [Le Creuset 20 ou 24 cm](/reviews/le-creuset-qual-tamanho-escolher). Para conferir se a peça é original e onde comprar, leia [Le Creuset original: como saber](/reviews/le-creuset-original-como-saber)."
+        ],
+        "links": [
+          {
+            "label": "Ver a coleção Le Creuset na Let's Eat It",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Cupom da Let's Eat It",
+            "href": "/cupons/letseatit"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Travessa Le Creuset pode ir no forno? Sim. A Le Creuset informa a faixa de −22 °C a 260 °C para a Heritage retangular. Na Signature de ferro fundido, a ficha da loja indica forno até 260 °C.",
           "Travessa Le Creuset com tampa tem para comprar? As retangulares, as ovais para peixe e as ovais de 3,8 L estavam esgotadas na Let's Eat It na data da consulta.",
           "Existe travessa de peixe Le Creuset? A Let's Eat It lista uma oval de 34 cm com tampa. As três cores estavam esgotadas na consulta.",
@@ -313223,15 +313751,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim. A Casa Let's fica na Avenida Pacaembu, 1105, em São Paulo, abre sem agendamento e aceita troca e devolução de pedidos online para quem está em São Paulo, sem retirada. No site, com catálogo completo, o cupom MAUAD dá 5% OFF; na loja física, o código não vale e a Casa aplica desconto próprio no caixa."
+          "Sim. A Casa Let's fica na Avenida Pacaembu, 1105, em São Paulo, abre sem agendamento e aceita troca e devolução de pedidos online para quem está em São Paulo, sem retirada. No site, com catálogo completo, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF; na loja física, o código não vale e a Casa aplica desconto próprio no caixa."
         ]
       },
       {
         "heading": "Onde fica a Casa Let’s, horários e telefones",
         "paragraphs": [
           "A Casa Let’s fica na Avenida Pacaembu, 1105, no bairro do Pacaembu, em São Paulo (SP), CEP 01234-001. O [link oficial no Google Maps](https://maps.app.goo.gl/F3MrY1kEdo2eNN289) está divulgado pela própria marca.",
-          "A loja informa: na [página oficial da Casa Let’s](https://letseatit.com.br/pages/casa-lets), o atendimento vai de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h (fechado aos domingos e feriados), com WhatsApp da Casa em (11) 97488-2876 e e-mail casa@letseatit.com.br.",
-          "Já o atendimento online (SAC), listado na página [Fale Conosco](https://letseatit.com.br/pages/fale-conosco) e no rodapé do site, funciona de segunda a sexta, das 9h às 18h, pelo WhatsApp (11) 96570-0375 e pelo e-mail suporte@letseatit.com.br. Antes de ir à Casa perto de feriados, vale confirmar pelo WhatsApp do espaço e perguntar sobre estacionamento, já que a página não informa vagas no local."
+          "A loja informa: na [página oficial da Casa Let’s](https://letseatit.com.br/pages/casa-lets?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), o atendimento vai de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h (fechado aos domingos e feriados), com WhatsApp da Casa em (11) 97488-2876 e e-mail casa@letseatit.com.br.",
+          "Já o atendimento online (SAC), listado na página [Fale Conosco](https://letseatit.com.br/pages/fale-conosco?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e no rodapé do site, funciona de segunda a sexta, das 9h às 18h, pelo WhatsApp (11) 96570-0375 e pelo e-mail suporte@letseatit.com.br. Antes de ir à Casa perto de feriados, vale confirmar pelo WhatsApp do espaço e perguntar sobre estacionamento, já que a página não informa vagas no local."
         ],
         "comparisonTable": {
           "caption": "Horários e contatos publicados nas páginas da Let’s Eat It.",
@@ -313293,8 +313821,8 @@ export const reviewsData: unknown[] = [
           "Para quem compra no site e mora em São Paulo, não dá para retirar o pedido na Casa, mas já é possível trocar ou devolver presencialmente:"
         ],
         "bullets": [
-          "**Retirada de pedido online (não disponível):** a [política de frete](https://letseatit.com.br/pages/politica-de-frete) diz que não é possível comprar no site e retirar o pedido na Casa Let’s. Todas as compras online seguem para o endereço informado.",
-          "**Troca e devolução presencial (permitidas em SP):** a [política de reembolso](https://letseatit.com.br/pages/politica-de-reembolso) confirma que moradores de São Paulo podem levar peças compradas no site para trocar ou devolver pessoalmente na Casa Let’s em horário comercial. A troca é feita na hora em horário comercial; no reembolso, o prazo segue o padrão do site (Pix em até 3 dias úteis, cartão em 5 a 10 dias úteis ou crédito em loja imediato e sem prazo de validade, válido tanto no site quanto na Casa)."
+          "**Retirada de pedido online (não disponível):** a [política de frete](https://letseatit.com.br/pages/politica-de-frete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) diz que não é possível comprar no site e retirar o pedido na Casa Let’s. Todas as compras online seguem para o endereço informado.",
+          "**Troca e devolução presencial (permitidas em SP):** a [política de reembolso](https://letseatit.com.br/pages/politica-de-reembolso?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) confirma que moradores de São Paulo podem levar peças compradas no site para trocar ou devolver pessoalmente na Casa Let’s em horário comercial. A troca é feita na hora em horário comercial; no reembolso, o prazo segue o padrão do site (Pix em até 3 dias úteis, cartão em 5 a 10 dias úteis ou crédito em loja imediato e sem prazo de validade, válido tanto no site quanto na Casa)."
         ],
         "postParagraphs": [
           "Regra prática, sem teste nosso, antes de levar uma troca presencial até a Avenida Pacaembu: envie o número do pedido e pergunte no WhatsApp da Casa se o item desejado na substituição está disponível na seleção daquela semana."
@@ -313304,7 +313832,7 @@ export const reviewsData: unknown[] = [
         "heading": "Casa Let’s ou site: onde compensa comprar",
         "paragraphs": [
           "A decisão entre ir até o Pacaembu ou pedir pelo site depende principalmente da marca que você quer levar e do desconto de cada canal. A loja física dá um desconto próprio no caixa nas compras presenciais, mas deixa Le Creuset e Trussardi fora dele, além de não aceitar o código MAUAD.",
-          "No site oficial, o catálogo completo fica disponível e o [cupom Let’s Eat It](/cupons/letseatit) MAUAD vale em todo o site, acumulando com promoções, pré-venda e o desconto do Pix que muitos produtos têm, inclusive em Le Creuset e Trussardi.",
+          "No site oficial, o catálogo completo fica disponível e o [cupom Let’s Eat It](/cupons/letseatit) MAUAD vale em todo o site, acumulando com promoções, pré-venda e o desconto do Pix que muitos produtos têm, inclusive na [Le Creuset](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e na Trussardi.",
           "Conta nossa, conferindo o teste de 02/10 registrado no checkout do site: com uma panela Le Creuset Signature em pré-venda e um jogo de xícaras Wolff em promoção (subtotal de R$ 3.582,10), o MAUAD abateu R$ 179,10 (5%) e fechou os produtos em R$ 3.403,00 antes do frete, como mostra o print abaixo."
         ],
         "images": [
@@ -313348,12 +313876,25 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Para usar o código no checkout online, digite MAUAD em “Código de desconto” seguindo o passo a passo de [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar)."
+        ],
+        "emphasis": "Quem mora em São Paulo e quer ver a peça antes de comprar ganha com a Casa Let’s; para Le Creuset, Trussardi ou uma peça específica, o site com o MAUAD é o caminho.",
+        "links": [
+          {
+            "label": "Ir para a Let's Eat It",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          },
+          {
+            "label": "Como usar o cupom MAUAD, passo a passo",
+            "href": "/reviews/cupom-mauad-lets-eat-it-como-usar"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Onde fica a Casa Let's e qual é o horário de funcionamento? Fica na Avenida Pacaembu, 1105, em São Paulo (SP), aberta de segunda a sexta das 9h às 18h e aos sábados das 10h às 14h (fechada aos domingos e feriados). Já o atendimento online (SAC) funciona de segunda a sexta, das 9h às 18h.",
+          "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, para cliente novo e antigo. Digite no campo \"Código de desconto\" do checkout; as regras estão na página do [cupom Let's Eat It](/cupons/letseatit). Na Casa Let's o código não vale.",
           "Dá para retirar pedido do site na Casa Let's? Não. A política de frete informa que não há retirada presencial de compras feitas no site.",
           "Posso trocar ou devolver um pedido do site na Casa Let's? Sim, para quem está em São Paulo. A troca é feita na hora em horário comercial, e o reembolso ou crédito em loja sem validade segue os prazos da política oficial.",
           "O cupom MAUAD vale na loja física da Let's Eat It? Não. O MAUAD vale apenas nas compras pelo site oficial; na Casa Let's, a equipe aplica um desconto presencial no caixa que não inclui Le Creuset nem Trussardi.",
@@ -313388,18 +313929,19 @@ export const reviewsData: unknown[] = [
         "slug": "lets-eat-it-e-boa"
       },
       {
-        "slug": "lets-eat-it-e-confiavel"
-      },
-      {
         "slug": "cupom-mauad-lets-eat-it-como-usar"
       },
       {
         "slug": "cupom-letseatit-primeira-compra"
       },
       {
-        "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
+        "slug": "black-friday-letseatit"
+      },
+      {
+        "slug": "mesa-posta-dia-a-dia-o-que-comprar"
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 1277,
