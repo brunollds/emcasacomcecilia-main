@@ -9,9 +9,9 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redacao"
+status: "pronto-para-deploy"
+responsavel: "Job-5"
+proxima_acao: "deploy, só com GO do Bruno"
 bloqueado_por: null
 score_autoridade: 40
 score_conversao: 72
@@ -155,3 +155,12 @@ Nenhuma. As decisões do lote (cupom, cupons próprios fora, frete sem conta) j�
 - GO do pacote da Océane (OC1 a OC10): o pedido do Bruno em 23/11 ("Faça as pautas da Oceane").
 - Decisões tomadas por Claude pelas regras já escritas (sem pergunta ao Bruno) estão marcadas como "regra".
 - Sem pergunta. Cadastro no primeiro pedido e FAQ de `/cupons/oceane` se conferem na redação, com a página no ar.
+
+## Redação, revisão e mídia (23/11/2026, sessão de artigos)
+
+- Job 2 por redator Sonnet com os fatos ao vivo de 23/11 (Reclame Aqui nas 5 janelas, trocas, pagamento, Black Month); Job 3 pelo Fable, correções aplicadas.
+- Job 6: folha aprovada pelo Bruno em 23/11/2026; upload FTPS e verificação HTTPS feitos. Fotos oficiais do site da Océane (oceane.vteximg.com.br), lidas em 23/11, sem antes e depois.
+  - capa: foto oficial da Base em Bastão (grade de tons com modelos), "Primeira compra" e EMCASA
+  - corpo: print da Sacola do app; Kit Presente Minis Edition blush + iluminador (foto oficial, href do produto)
+- Job 4: content/reviews/cupom-oceane-primeira-compra.json, imageFit contain, relacionados só da leva.
+- Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.

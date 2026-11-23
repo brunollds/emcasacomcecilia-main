@@ -1,0 +1,275 @@
+{
+  "id": 1286,
+  "slug": "black-friday-oceane",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "23 de novembro de 2026",
+  "publishedAtISO": "2026-11-23",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "oceane",
+  "title": "Black Friday Océane 2026: a Black Month de até 70% OFF com o cupom EMCASA",
+  "seoTitle": "Black Friday Océane 2026: cupom e Black Month",
+  "type": "Guia de Black Friday",
+  "description": "O que a Océane colocou na Black Month de 2026, quanto o cupom EMCASA tira sobre o preço de oferta no site e no app e o que conferir na sacola antes de fechar o pedido.",
+  "metaDescription": "O cupom EMCASA dá 10% OFF na Océane, também sobre os preços da Black Month. Veja o que está em oferta, a conta com o cupom e o que muda no app.",
+  "image": "/images/reviews/oceane/black-friday-oceane-capa.webp",
+  "imageAlt": "Mini de 6 g e tamanho cheio de 13 g do Highlight Stick Océane Edition, em foto oficial com uma mão segurando o mini. A capa traz o logo Océane e a chamada “Black Friday”, com o cupom EMCASA.",
+  "cta": {
+    "text": "Veja os preços de oferta na loja. Se decidir comprar, aplique EMCASA na sacola e confira o desconto antes de pagar.",
+    "label": "Ir para a Océane com o EMCASA",
+    "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
+    "sponsored": true
+  },
+  "editorialNote": "Podemos receber comissão pelo cupom e pelos links. Ninguém da equipe usou os produtos.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-oceane-como-usar"
+    },
+    {
+      "slug": "cupom-oceane-primeira-compra"
+    },
+    {
+      "slug": "oceane-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "oceane-e-confiavel"
+    },
+    {
+      "slug": "oceane-e-boa"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você já tem um produto da Océane em mente: compare o preço no site e no app e use o cupom na sacola.",
+      "Vai presentear: os Kits Minis Edition aceitaram o cupom na sacola do site."
+    ],
+    "skipIf": [
+      "A ideia é aproveitar combo ou brinde: confira na sacola se a linha \"Descontos\" entrou antes de pagar, porque o EMCASA com essas promoções não foi testado.",
+      "Prefere esperar: a loja fala em ofertas relâmpago e não publica data de fim."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Océane está na Black Month, a campanha de novembro que a loja anuncia com mais de 250 produtos em até 70% OFF. Na sacola do site, o EMCASA tirou mais 10% sobre o preço de oferta. A loja não publica data de fim: veja abaixo o que está em oferta e como fica a conta."
+      ]
+    },
+    {
+      "heading": "O que é a Black Month da Océane e até quando vai",
+      "paragraphs": [
+        "A Océane anuncia ofertas durante novembro, numa campanha que chama de Black Month. A campanha inclui ofertas relâmpago, com prazos próprios, e a página não publica data de fim.",
+        "A loja informa: são mais de 250 produtos com até 70% OFF no site, e o app traz \"descontos extras\". O \"até 70%\" é o teto da vitrine, não o desconto de cada item: vale o preço que aparece na página do produto. Os itens da campanha levam a etiqueta \"MÊS DA BLACK\", que é como a Océane identifica a oferta, e a página tem o filtro \"Preço de Black\". Há ainda filtros por faixa de preço (até R$ 50, R$ 100, R$ 150 e R$ 200) e o filtro \"Leve\", dos combos.",
+        "Data de fim, a Océane não publica. Como parte das ofertas é relâmpago, quem já tem um produto em mente confere o preço antes de deixar para depois.",
+        "As lojas físicas da Océane também participam, mas com preços diferentes dos do site, e a página da campanha diz que os preços podem variar de acordo com o canal. O cupom EMCASA é para compra no site e no app."
+      ]
+    },
+    {
+      "heading": "O que está em oferta na Black Month",
+      "paragraphs": [
+        "A categoria mais cheia da Black Month é a de rosto: bases, corretivos e blushes. A coleção da campanha vai de R$ 8,90 a R$ 559,90 no preço do dia, e a maior parte dos itens fica abaixo de R$ 100. Além do rosto, entram boca, olhos, skincare de rosto, máscaras faciais, pincéis, esponjas e kits de maquiagem e de skincare.",
+        "A tabela mostra um exemplo de cada tipo. Os preços variam por tom e por tamanho, então a faixa vale para a linha toda."
+      ],
+      "comparisonTable": {
+        "caption": "Preço do dia na Black Month, em 23/11, sem o cupom.",
+        "headers": [
+          "Tipo",
+          "Produto",
+          "Preço do dia"
+        ],
+        "rows": [
+          [
+            "Base em bastão",
+            "Foundation Stick",
+            "R$ 49,90 a R$ 69,90"
+          ],
+          [
+            "Base líquida",
+            "Skin Foundation",
+            "R$ 49,90 a R$ 59,90"
+          ],
+          [
+            "Base cushion",
+            "Cushion Foundation",
+            "R$ 59,90"
+          ],
+          [
+            "Corretivo",
+            "Corretivos da linha",
+            "R$ 39,90 a R$ 49,90"
+          ],
+          [
+            "Blush",
+            "Blush Stick",
+            "a partir de R$ 42,90"
+          ],
+          [
+            "Skincare",
+            "Facial Gel Cream 50 g",
+            "R$ 65,90"
+          ],
+          [
+            "Pincéis",
+            "Mini Brush Kit",
+            "R$ 89,90"
+          ],
+          [
+            "Presente",
+            "Kits Minis Edition",
+            "R$ 69,90 a R$ 99,90"
+          ]
+        ]
+      },
+      "images": [
+        {
+          "src": "/images/reviews/oceane/black-friday-oceane-paleta-multifuncional.webp",
+          "alt": "Paleta Multifuncional Face Palette, da linha Océane Edition",
+          "caption": "Paleta Multifuncional Face Palette, da linha Océane Edition.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.oceane.com.br/paleta-multifuncional-face-palette-oceane-edition-ap2001179cunif/p"
+        }
+      ],
+      "postParagraphs": [
+        "A vitrine \"+ vendidos da black\" da própria loja dá uma pista do que mais sai: tinha Cushion Foundation, Skin Foundation, o pó Cover Me Up, a Face Palette, o Mini Brush Kit e o Facial Gel Cream, entre outros. Mais vendido é a ordem da loja, não indicação nossa: compare com a sua lista de compras antes de entrar na sacola."
+      ]
+    },
+    {
+      "heading": "Quanto fica com o cupom EMCASA",
+      "paragraphs": [
+        "O EMCASA na Océane soma com o preço de Black Month: os 10% entram sobre o preço de oferta, não sobre o preço antigo. Na sacola do site, o EMCASA foi aceito e tirou 10% de cada item nas três sacolas abaixo, todas com produtos da campanha."
+      ],
+      "comparisonTable": {
+        "caption": "Valores antes do frete.",
+        "headers": [
+          "Sacola",
+          "Soma dos itens",
+          "Desconto do EMCASA",
+          "Com o cupom"
+        ],
+        "rows": [
+          [
+            "Foundation Stick Almond",
+            "R$ 49,90",
+            "R$ 4,99",
+            "R$ 44,91"
+          ],
+          [
+            "Foaming Cleanser 4you e Lip Tint Pink",
+            "R$ 62,80",
+            "R$ 6,28",
+            "R$ 56,52"
+          ],
+          [
+            "Os três anteriores, mais Shimmer Highlighter Rose e Fluffy Blush Tango Pink",
+            "R$ 192,50",
+            "R$ 19,25",
+            "R$ 173,25"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Nos outros itens da campanha, o cupom não foi testado item por item: aplique o EMCASA e confira na sacola se a linha “Descontos” entrou antes de pagar.",
+        "Para usar, no site, digite EMCASA no campo \"Cupom de desconto\" da sacola e clique em \"Adicionar\", antes da identificação; a linha \"Descontos\" mostra o que foi abatido. No app, o cupom entra na Sacola. O caminho completo até a sacola está em [como usar o cupom Océane](/reviews/cupom-oceane-como-usar)."
+      ]
+    },
+    {
+      "heading": "App ou site na Black Month",
+      "paragraphs": [
+        "Não dá para dizer que um canal sai sempre mais barato que o outro: a loja só diz que o app é \"ainda mais interessante, com descontos extras\", sem apontar quais itens. O que vimos é que o cupom funciona nos dois e soma com o preço especial do app.",
+        "No app, o EMCASA entrou sobre produtos que já estavam com preço especial do app. O preço de cada item da Sacola já vem com o EMCASA aplicado, e o resumo traz a linha \"Desconto\", como no print abaixo. Os valores desse teste estão na página do [cupom Océane](/cupons/oceane)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/oceane/cupom-oceane-sacola-app-com-cupom.webp",
+          "alt": "Sacola do aplicativo da Océane com o cupom EMCASA aplicado: subtotal de R$ 201,70, desconto de R$ 20,17 e total de R$ 181,53",
+          "caption": "A Sacola do app com o EMCASA aplicado, no nosso teste. A linha Desconto mostra quanto saiu.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5
+        }
+      ],
+      "postParagraphs": [
+        "Regra prática, sem teste nosso, partindo de que a loja pode ter preço diferente por canal: abra o mesmo produto no site e no app e compare o preço antes de aplicar o cupom. O EMCASA tira 10% de onde o preço estiver menor."
+      ]
+    },
+    {
+      "heading": "Kits, combos e brindes",
+      "paragraphs": [
+        "O cupom também entrou nos kits de presente: na sacola do site, o EMCASA tirou 10% dos Kits Presente Minis Edition, que são pares e trios de minis."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Kit",
+          "Preço na sacola",
+          "Desconto do EMCASA",
+          "Com o cupom"
+        ],
+        "rows": [
+          [
+            "Trio de Batons",
+            "R$ 99,90",
+            "R$ 9,99",
+            "R$ 89,91"
+          ],
+          [
+            "Blush e Iluminador",
+            "R$ 69,90",
+            "R$ 6,99",
+            "R$ 62,91"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Combos de \"leve X por R$ Y\" e brindes são outra história: a loja faz esse tipo de promoção durante o mês, e o EMCASA com elas não foi testado. Antes de pagar, confira na sacola se a linha \"Descontos\" trouxe o cupom e se a promoção continuou valendo.",
+        "O rodapé da página da campanha avisa três regras: brindes não acumulam e são um por pedido; em promoção de produtos selecionados, valem só as cores da página da promoção; e, se houver divergência, vale o preço da sacola."
+      ]
+    },
+    {
+      "heading": "Frete, prazo, pagamento e devolução",
+      "paragraphs": [
+        "O frete só a sacola mostra: ele aparece depois que você informa o CEP, junto com o prazo. A Océane dá frete grátis em campanhas e em alguns produtos que marca, como a mini geladeira de skincare e o kit para gestantes, que estavam na coleção de frete grátis da Black Month. A política de entrega fala em frete grátis acima de um valor mínimo, que pode variar por estado. Aplique o cupom, informe o CEP e confira o total com frete. O prazo é o que a sacola mostra para o seu CEP: a página da campanha fala em possíveis mudanças por causa da demanda, então vale olhar de novo na hora de pagar.",
+        "Na página da Black Friday, a loja lista cartão de crédito, Pix, PicPay, boleto e Ame Digital. No cartão, a política de pagamento fala em até 6x sem juros, com parcela mínima de R$ 30. O EMCASA vale em todas as formas de pagamento.",
+        "Se precisar devolver, a loja aceita o pedido em até 7 dias corridos do recebimento, ou em até 30 dias se o produto tiver defeito, e pede o produto sem sinais de uso e na embalagem original. Pela lei, a desistência da compra online em até 7 dias dá direito a reembolso, e o prazo para reclamar de defeito é de 30 dias para produto não durável e de 90 para durável. A loja devolve o valor pago pelo produto, já com o desconto, e a troca sai como vale-compras: a loja não troca produto por produto. O pedido vai por e-mail a info@oceane.com.br, com número do pedido, lote, validade, nome e foto do produto e o motivo. Se a devolução derrubar o total abaixo do valor que deu direito a um brinde, o brinde volta para a loja."
+      ]
+    },
+    {
+      "heading": "O que fazer na Black Month da Océane",
+      "paragraphs": [
+        "Quem chega com uma lista curta sai melhor que quem chega só pelo \"até 70%\". A economia da campanha está no preço de cada produto que você já queria."
+      ],
+      "emphasis": "Eu entraria na Black Month da Océane com a lista pronta: preço de oferta no produto que eu já queria e o EMCASA por cima. Oferta relâmpago sem data de fim não me faria encher a sacola.",
+      "links": [
+        {
+          "label": "Ver o cupom Océane",
+          "href": "/cupons/oceane"
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento. Ele vale também sobre os preços da Black Month.",
+        "A Océane vai ter Black Friday? Já tem: a loja chama a campanha de Black Month e anuncia mais de 250 produtos em até 70% OFF. O que está em oferta aparece no capítulo \"O que está em oferta na Black Month\".",
+        "Até quando vai a Black Friday da Océane? A loja não publica data de fim. Ela diz que as ofertas acontecem no mês de novembro e que há ofertas relâmpago que podem acabar a qualquer momento.",
+        "O cupom EMCASA soma com o preço de Black Month? Soma. Na sacola do site, o EMCASA tirou 10% do preço de oferta, e no app ele somou com o preço especial. Com combo e brinde, o cupom não foi testado: confira a linha \"Descontos\".",
+        "As lojas físicas da Océane entram na Black Friday? Entram, com preços diferentes dos do site. O cupom EMCASA é para compra no site e no app."
+      ]
+    }
+  ],
+  "bodyDatesReason": "campanha",
+  "updatedAt": "2026-11-23"
+}

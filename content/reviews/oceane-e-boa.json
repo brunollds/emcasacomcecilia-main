@@ -1,0 +1,515 @@
+{
+  "id": 1285,
+  "slug": "oceane-e-boa",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "23 de novembro de 2026",
+  "publishedAtISO": "2026-11-23",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "oceane",
+  "title": "Océane é boa? O que a loja informa sobre a marca, os selos e as linhas",
+  "seoTitle": "Océane é boa? Marca, selos e linhas pelo site",
+  "type": "Guia de Marca",
+  "description": "Marca brasileira, com skincare que a loja diz produzir na Coreia do Sul e selos vegano e cruelty free por produto: veja o que conferir nas linhas, nos kits e nos preços.",
+  "metaDescription": "EMCASA dá 10% OFF na Océane. Veja o que a loja informa sobre a marca, as linhas, os selos veganos e cruelty free e a faixa de preço.",
+  "image": "/images/reviews/oceane/oceane-e-boa-capa.webp",
+  "imageAlt": "Três batons Océane Edition erguidos por mãos de três tons de pele, com as amostras de cor nos antebraços e os nomes dos tons, de Ivory a Espresso, ao lado. A capa traz o logo Océane e a chamada “A marca é boa?”.",
+  "cta": {
+    "text": "Veja os tons, os selos e a origem na página de cada produto. Na sacola, aplique EMCASA e confira os 10% OFF.",
+    "label": "Ir para a Océane",
+    "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
+    "sponsored": true
+  },
+  "editorialNote": "Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom e pelos links.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-oceane-como-usar"
+    },
+    {
+      "slug": "cupom-oceane-primeira-compra"
+    },
+    {
+      "slug": "oceane-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "oceane-e-confiavel"
+    },
+    {
+      "slug": "black-friday-oceane"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer maquiagem com selo vegano e cruelty free e confere o selo na página do produto antes de pagar.",
+      "Você procura skincare e quer saber, produto a produto, se a página diz que ele foi feito na Coreia do Sul."
+    ],
+    "skipIf": [
+      "Você quer saber se a base ou o sérum funcionam na sua pele: só o uso responde isso.",
+      "Você espera um selo da marca inteira: vegano e cruelty free mudam de um produto para outro."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Na Océane, a escolha sai da página de cada produto: na maquiagem, o formato e os tons; em tudo, os selos vegano e cruelty free, que são de cada produto e não da marca inteira; e a origem, que a ficha informa. A marca é brasileira, e só parte do skincare traz \"Feito na Coreia do Sul\" na ficha."
+      ]
+    },
+    {
+      "heading": "Quem é a Océane: uma marca brasileira",
+      "paragraphs": [
+        "A Océane é uma marca brasileira, nascida em 2008, como conta o blog da marca. A loja informa: o primeiro produto foram os lenços removedores de esmalte. Na apresentação, ela diz que \"não somos uma marca de beleza\", e sim \"uma nova forma de comprar, consumir e pensar a beleza\".",
+        "Na prática, é um catálogo grande: mais de mil produtos entre maquiagem, skincare, cabelos, bem-estar e presentes. Quem chega querendo \"a base da Océane\" ou \"o sérum da Océane\" encontra versões, tons e kits, e a pergunta \"é boa\" precisa ser feita produto a produto. Para saber quem vende, por quais canais e como funcionam as trocas, veja se a [Océane é confiável](/reviews/oceane-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "A Océane é coreana? Só o skincare, e só onde a página diz",
+      "paragraphs": [
+        "A marca é brasileira. O que a loja diz vir da Coreia do Sul é parte do skincare, e só vale para o produto cuja página escreve isso.",
+        "Na apresentação da marca, a Océane fala em \"skincare produzido na Coreia do Sul\". Em alguns produtos, a origem vem escrita:"
+      ],
+      "bullets": [
+        "o Ultra Repair Eye Cream, creme para a área dos olhos, tem \"Feito na Coreia do Sul\" na descrição;",
+        "o Maternity Serum, da linha para gestantes, também traz \"Feito na Coreia do Sul\"."
+      ],
+      "postParagraphs": [
+        "Há dois cuidados. O primeiro é a maquiagem, que não traz a Coreia do Sul como origem. O segundo é a diferença entre fabricar e desenvolver: o Collagen Microneedle Serum diz \"Desenvolvido na Coreia do Sul\", o que fala de onde a fórmula foi criada, e os textos que citam a Coreia só por um ativo também não fazem o produto ser feito lá. Na dúvida, procure na ficha a frase \"Feito na Coreia do Sul\"."
+      ]
+    },
+    {
+      "heading": "A Océane é vegana e cruelty free? O selo é do produto",
+      "paragraphs": [
+        "Vegano e cruelty free são selos que a página de cada produto traz, ou não traz. Não existe um selo único da marca: dois produtos da mesma linha podem ter selos diferentes.",
+        "A contagem abaixo vem do campo de selos de cada página de produto do site.",
+        "A maior parte do catálogo tem os dois selos. No vegano, a maquiagem vai na frente, com cerca de oito em cada dez produtos, e o skincare fica perto de seis em cada dez. Mas há produto sem nenhum: o Collagen Microneedle Serum, apresentado como desenvolvido na Coreia do Sul, não mostra selo, e as esponjas Flat Blend também não. O bem-estar e organização é a família com menos selos vegano.",
+        "Regra prática, sem teste nosso, com a premissa de que os selos mudam de um produto para outro mesmo dentro da linha: se o selo pesa na sua compra, confira em três passos:"
+      ],
+      "comparisonTable": {
+        "caption": "Selos por família de produto no site da Océane. A soma do site inclui dois itens fora dessas famílias.",
+        "headers": [
+          "Família",
+          "Produtos",
+          "Com selo Vegano",
+          "Com selo Cruelty Free"
+        ],
+        "rows": [
+          [
+            "Maquiagem",
+            "922",
+            "758",
+            "835"
+          ],
+          [
+            "Skincare",
+            "285",
+            "166",
+            "259"
+          ],
+          [
+            "Cabelos",
+            "63",
+            "50",
+            "59"
+          ],
+          [
+            "Bem-estar e organização",
+            "76",
+            "14",
+            "37"
+          ],
+          [
+            "Site todo",
+            "1.348",
+            "988",
+            "1.190"
+          ]
+        ]
+      },
+      "checklist": {
+        "items": [
+          "Abra a página do produto que você quer.",
+          "Procure os selos \"Vegano\" e \"Cruelty Free\".",
+          "Em kit, confira os selos do kit: ele tem página própria, e alguns kits não mostram selo nenhum."
+        ]
+      }
+    },
+    {
+      "heading": "As linhas da Océane, uma por uma",
+      "paragraphs": [
+        "A Océane divide a maquiagem e o skincare em linhas, e o que muda de uma para outra é o tipo de produto. Veja o que cada uma vende."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Linha",
+          "Onde aparece",
+          "Peças que a loja mostra"
+        ],
+        "rows": [
+          [
+            "Océane Edition",
+            "Maquiagem",
+            "batom Glossy, pó solto Cover Me Up, blush e iluminador em bastão, versões mini"
+          ],
+          [
+            "Minis Edition",
+            "Presentes e kits de maquiagem",
+            "pares e trios de minis em kit de presente"
+          ],
+          [
+            "4YOU",
+            "Maquiagem e skincare",
+            "iluminador e blush em bastão, lip oil; hidratante labial, primer e hidratante facial"
+          ],
+          [
+            "Purple",
+            "Maquiagem",
+            "iluminador Just Glow Bouquet, caneta batom, delineador"
+          ],
+          [
+            "Limited",
+            "Maquiagem",
+            "contorno e blush em bastão, paleta Shine"
+          ],
+          [
+            "Capri",
+            "Maquiagem",
+            "batom, espelho compacto"
+          ],
+          [
+            "Nádia Tambasco by Océane",
+            "Maquiagem",
+            "fixador Perfect Fix, brilho Lip To Glow Luxe, paleta To Go Basic"
+          ],
+          [
+            "Larissa Manoela by Océane",
+            "Maquiagem",
+            "paleta de sombras Glam Party e kits com pincel"
+          ],
+          [
+            "Travel",
+            "Skincare",
+            "creme para mãos, bruma facial com niacinamida, hidratante labial"
+          ],
+          [
+            "Sleep",
+            "Skincare",
+            "máscara facial noturna, máscara de olhos para dormir, máscara labial noturna"
+          ],
+          [
+            "Maternity",
+            "Skincare",
+            "sérum, hidratante, creme e óleo para estrias, como a loja nomeia, para gestantes"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Fora desses dois grupos, o menu traz cabelos (shampoo, condicionador, máscara capilar e finalizadores), bem-estar e organização (velas perfumadas, aromaterapia, bem-estar sexual e pet) e presentes por faixa de preço.",
+        "Na dúvida entre linhas, escolha pela peça. Quem quer miniaturas e kits de presente olha a Minis Edition; quem viaja olha a Travel; quem está grávida vê a Maternity."
+      ]
+    },
+    {
+      "heading": "Maquiagem: o que a página de cada produto lista",
+      "paragraphs": [
+        "Na maquiagem, o que decide a compra é o formato e o tom, e é isso que as páginas listam."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Formatos que a loja vende",
+          "Tons na página"
+        ],
+        "rows": [
+          [
+            "Base",
+            "líquida Skin Foundation 35 ml, bastão 8 g, cushion 12 g (as três semi-matte) e Skin Tint FPS 30 de 30 ml",
+            "de 8 a 11 por formato"
+          ],
+          [
+            "Corretivo",
+            "bastão Concealer Stick 3,5 g e líquido Concealer 15 g",
+            "18 no bastão (de 1.1 a 5.3) e 7 no líquido (de Fair a Deep)"
+          ],
+          [
+            "Blush",
+            "bastão (inclusive mini de 6 g e cintilante), líquido 20 ml, duo cremoso e em pó, glossy, cream e fluffy",
+            "por cor"
+          ],
+          [
+            "Pó",
+            "compacto translúcido Retouch My Glam (8 g e mini 1,8 g), solto translúcido Cover Me Up (13 g e mini 3 g) e Compact Powder 8,5 g",
+            "Compact Powder em 8 tons"
+          ],
+          [
+            "Batom",
+            "Glossy 3,2 g, mini semi-matte 2 g e mini líquido matte 1 g",
+            "por cor"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Para escolher, o caminho mais seguro é pelo nome do tom que a página usa: a base líquida e o Skin Tint vão de 110f a 550d, a cushion de 05 a 80, e o bastão tem nomes como Ivory, Honey e Espresso. Confirme o nome do tom na sacola antes de fechar o pedido.",
+        "Se a sua dúvida é tipo de pele, como \"base boa para pele oleosa\", procure na página o que a Océane indica para aquele produto."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/oceane/oceane-e-boa-batom-the-lipstick-rose-pink.webp",
+          "alt": "Batom Glossy Rosé Pink, da linha Océane Edition",
+          "caption": "Batom Glossy Rosé Pink, da linha Océane Edition. Imagem: Océane.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.oceane.com.br/batom-glossy-the-lipstick-edition-rose-pink-ap2001152co047f/p"
+        },
+        {
+          "src": "/images/reviews/oceane/oceane-e-boa-po-translucido-cover-me-up.webp",
+          "alt": "Pó solto translúcido Cover Me Up, da linha Océane Edition",
+          "caption": "Cover Me Up, pó solto de 13 g. Imagem: Océane.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.oceane.com.br/po-translucido-solto-cover-me-up-powder-oceane-edition-ap2001126co026f/p"
+        }
+      ]
+    },
+    {
+      "heading": "Skincare: séruns, protetor e a linha para gestantes",
+      "paragraphs": [
+        "No skincare, o ativo no nome do produto é o que separa um sérum do outro, e a Océane vende vários: vitamina C com ácido ferúlico, cica, retinol com niacinamida, ácido hialurônico, ginseng, microespículas (o Collagen Microneedle Serum, desenvolvido na Coreia do Sul, segundo a ficha), probióticos, ácido poliglutâmico e um antiacne. O que cada ativo faz é a loja quem descreve, na página do produto.",
+        "O protetor solar facial é o Daily Sunscreen, FPS 70, de 40 g. A linha Maternity é a que a loja indica para gestantes, com sérum, hidratante facial, espuma de limpeza, creme e óleo para estrias e balm para as mamas. Grávida ou amamentando, converse com o médico que acompanha a gestação antes de usar qualquer ativo.",
+        "A Travel reúne itens pequenos, como o creme de mãos e a bruma facial, e a Sleep, as máscaras noturnas de rosto, olhos e lábios. Se o skincare é a sua pergunta, abra a página do produto antes de qualquer outra coisa: é lá que estão a origem, os selos e o modo de uso que a loja indica."
+      ]
+    },
+    {
+      "heading": "O que aparece primeiro na ordem de mais vendidos da loja",
+      "paragraphs": [
+        "Na ordem \"Mais vendidos\" do site, o topo é de itens baratos: nove dos dez custam menos de R$ 50. A lista é da loja, mostrada no site; nós não temos o número de vendas, e a ordem pode mudar."
+      ],
+      "comparisonTable": {
+        "caption": "Ordem \"Mais vendidos\" e preços do site em 23/11.",
+        "headers": [
+          "Posição",
+          "Produto",
+          "Preço no dia",
+          "Selos na página"
+        ],
+        "rows": [
+          [
+            "1",
+            "Esponja Flat Blend Rosa Claro",
+            "R$ 29,90",
+            "nenhum"
+          ],
+          [
+            "2",
+            "Máscara Facial de Limão e Hortelã 8 g",
+            "R$ 12,90",
+            "Vegano e Cruelty Free"
+          ],
+          [
+            "3",
+            "Esponja Flat Blend Rosa Escuro",
+            "R$ 29,90",
+            "nenhum"
+          ],
+          [
+            "4",
+            "Batom Glossy Rosé Pink Edition 3,2 g",
+            "R$ 42,90",
+            "Vegano e Cruelty Free"
+          ],
+          [
+            "5",
+            "Mini Esponja Powder Puff Rosa",
+            "R$ 19,90",
+            "Cruelty Free"
+          ],
+          [
+            "6",
+            "Cover Me Up Pó Translúcido 13 g",
+            "R$ 69,90",
+            "Vegano e Cruelty Free"
+          ],
+          [
+            "7",
+            "Máscara Dead Sea Minerals 8 g",
+            "R$ 12,90",
+            "Cruelty Free"
+          ],
+          [
+            "8",
+            "Sacola de presente pequena",
+            "R$ 8,00",
+            "nenhum"
+          ],
+          [
+            "9",
+            "Bronzer Stick Stoked 8 g",
+            "R$ 49,90",
+            "Vegano e Cruelty Free"
+          ],
+          [
+            "10",
+            "Luva descartável para banho de pet",
+            "R$ 8,90",
+            "Vegano e Cruelty Free"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Vale ler a lista com dois cuidados. O primeiro: o que aparece primeiro é acessório e máscara de 8 g, e isso diz que o item vem à frente na loja, não que seja o melhor da categoria. O segundo: mesmo nesta lista, três dos dez não trazem selo nenhum, mais um motivo para conferir o selo produto a produto."
+      ]
+    },
+    {
+      "heading": "Quanto custa por categoria, com o EMCASA",
+      "paragraphs": [
+        "A faixa muda muito de uma categoria para outra, e o EMCASA tira 10% do pedido em todas. A tabela mostra a faixa de cada uma e a conta do cupom nas duas pontas."
+      ],
+      "comparisonTable": {
+        "caption": "Preços avulsos do site, no dia da leitura, antes do frete.",
+        "headers": [
+          "Categoria",
+          "Faixa do dia",
+          "Com o EMCASA (10%)"
+        ],
+        "rows": [
+          [
+            "Base (líquida, bastão, cushion, skin tint)",
+            "R$ 49,90 a R$ 94,90",
+            "R$ 44,91 a R$ 85,41"
+          ],
+          [
+            "Corretivo (líquido e bastão)",
+            "R$ 39,90 a R$ 67,90",
+            "R$ 35,91 a R$ 61,11"
+          ],
+          [
+            "Blush",
+            "R$ 39,90 a R$ 84,90",
+            "R$ 35,91 a R$ 76,41"
+          ],
+          [
+            "Rosto (pó, iluminador, bronzer, contorno)",
+            "R$ 39,90 a R$ 109,90",
+            "R$ 35,91 a R$ 98,91"
+          ],
+          [
+            "Boca",
+            "R$ 29,90 a R$ 66,90",
+            "R$ 26,91 a R$ 60,21"
+          ],
+          [
+            "Olhos",
+            "R$ 17,90 a R$ 69,90",
+            "R$ 16,11 a R$ 62,91"
+          ],
+          [
+            "Paleta",
+            "R$ 32,90 a R$ 199,90",
+            "R$ 29,61 a R$ 179,91"
+          ],
+          [
+            "Esponjas",
+            "R$ 19,90 a R$ 34,90",
+            "R$ 17,91 a R$ 31,41"
+          ],
+          [
+            "Séruns de skincare",
+            "R$ 55,90 a R$ 99,90",
+            "R$ 50,31 a R$ 89,91"
+          ],
+          [
+            "Máscara facial",
+            "R$ 12,90 a R$ 178,90",
+            "R$ 11,61 a R$ 161,01"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Conta nossa, pelo desconto que o EMCASA tirou na sacola: a coluna da direita aplica os 10% às duas pontas de cada faixa.",
+        "O que vimos na sacola: no site, o cupom tirou 10% de um creme para os olhos; no app, tirou 10% de uma sacola que já tinha duas peças com preço especial do app; e, na Black Month da loja, tirou 10% sobre o preço de oferta. Promoção do tipo \"leve X por R$ Y\" e brinde nós não testamos: nesses casos, confira a linha \"Descontos\" na sacola antes de pagar.",
+        "Para usar, no site digite EMCASA no campo \"Cupom de desconto\" da sacola e clique em \"Adicionar\", antes da identificação; a linha \"Descontos\" mostra o quanto saiu. No app, o cupom entra na Sacola. O EMCASA na Océane vale para cliente novo e antigo e em todas as formas de pagamento.",
+        "O frete não entra na conta. Aplique o cupom, informe o CEP e confira o total com frete. Segundo a política de entrega, o frete grátis vale acima de um valor mínimo, que pode variar por estado."
+      ]
+    },
+    {
+      "heading": "Kits e presentes: quando o kit compensa",
+      "paragraphs": [
+        "Metade do catálogo da Océane é kit, e kit só compensa quando você usaria todas as peças dele. São 508 kits de maquiagem e 167 de skincare, e a loja dá a cada um página, preço e selos próprios.",
+        "O kit de presente mais direto é o Minis Edition, com pares e trios de minis: os preços do dia vão de R$ 69,90 a R$ 99,90, e a sacola de presente sai por R$ 8,00 ou R$ 10,00. Mini serve para quem quer experimentar um tom antes do tamanho cheio, ou para presentear sem gastar muito.",
+        "O par de blush e iluminador em bastão vem em cores fechadas: a página do kit lista o blush Pink e o iluminador Bronze, os dois de 6 g. Confira as cores ali antes de fechar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/oceane/oceane-e-boa-kit-minis-trio-batons.webp",
+          "alt": "Kit Presente Minis Edition Trio de Batons, da Océane",
+          "caption": "Kit Presente Minis Edition, trio de batons de 2 g. Imagem: Océane.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.oceane.com.br/kit-presente-minis-edition-trio-de-batons-2g-ap2001403cunif/p"
+        }
+      ],
+      "comparisonTable": {
+        "caption": "Visto na sacola do site: o EMCASA tirou 10% dos dois kits.",
+        "headers": [
+          "Kit Minis Edition",
+          "Preço do kit",
+          "EMCASA tirou",
+          "Total com o EMCASA"
+        ],
+        "rows": [
+          [
+            "Blush + Iluminador em bastão 6 g",
+            "R$ 69,90",
+            "R$ 6,99",
+            "R$ 62,91"
+          ],
+          [
+            "Trio de Batons 2 g",
+            "R$ 99,90",
+            "R$ 9,99",
+            "R$ 89,91"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Nos kits de skincare, a regra é a mesma: veja os selos do kit, não só os dos produtos soltos."
+      ]
+    },
+    {
+      "heading": "Para quem a Océane faz sentido",
+      "paragraphs": [
+        "A resposta para \"é boa\" depende do que você procura. Para quem quer maquiagem com selo vegano e cruelty free por produto, a Océane deixa conferir antes de pagar, produto a produto, e o EMCASA entra na sacola. Para quem procura skincare de origem coreana, vale a página do produto, não a marca. Para quem quer saber se a base ou o sérum funcionam na pele, o rótulo não responde."
+      ],
+      "emphasis": "Eu julgo a compra pelo que dá para conferir antes de pagar. Na Océane, a página de cada produto mostra o tom, o selo e a origem. Para mim, vale quando você confere isso primeiro e fecha o pedido com o EMCASA na Océane.",
+      "links": [
+        {
+          "label": "Ver o cupom Océane",
+          "href": "/cupons/oceane"
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento. O passo a passo e o teste estão na página do [cupom Océane](/cupons/oceane).",
+        "A Océane é uma marca brasileira? Sim. O que a loja descreve como feito na Coreia do Sul é parte do skincare, produto a produto.",
+        "A Océane é coreana? A marca não: é brasileira. A origem coreana vale só para o produto de skincare cuja página escreve isso, e a maquiagem não traz essa origem.",
+        "A Océane é vegana e cruelty free? Depende do produto: os selos aparecem na página de cada um, não na marca. A maior parte do catálogo traz os dois, e o capítulo dos selos mostra a contagem e como conferir.",
+        "Os produtos da Océane são bons? Dá para conferir origem, selos, tons e preço antes de comprar, e os capítulos acima mostram como. Resultado na pele só o uso responde."
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-23"
+}

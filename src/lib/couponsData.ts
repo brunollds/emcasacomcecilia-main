@@ -6565,12 +6565,12 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories: 'Produtos do site oficial e do aplicativo da Océane, inclusive os que estão com preço especial',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado por clientes novos e antigos',
-    shipping: 'Frete calculado pelo CEP; a loja dá frete grátis acima de um valor mínimo, que a sacola mostra depois do CEP',
-    combinable: 'Soma com as promoções e os preços especiais do site e do aplicativo',
+    shipping: 'Frete calculado pelo CEP. Segundo a loja, o frete grátis vale acima de um valor mínimo, que pode variar por estado; aplique o cupom, informe o CEP e confira o total com frete',
+    combinable: 'Soma com as promoções testadas: preços especiais do app, itens da Black Month e kits Minis Edition. Em combos “Leve X por R$ Y” ou pedidos com brinde, confira na sacola se o desconto continua aplicado',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço especial: no teste no app, a Face Palette e o Mini Retouch já estavam com desconto e ganharam os 10%' },
       { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix e nas outras formas de pagamento; desconto próprio no Pix é critério da loja' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Frete grátis acima de um valor mínimo, segundo a loja; a sacola mostra o valor depois do CEP' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Frete grátis acima de um valor mínimo, que pode variar por estado, segundo a loja; aplique o cupom, informe o CEP e confira o total com frete' },
     ],
     paymentPerks: ['Até 6x sem juros no cartão de crédito, com parcela mínima de R$ 30, segundo a loja'],
     lastVerified: '2026-11-23',
@@ -6611,7 +6611,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom Océane soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste no app, a Face Palette e o Mini Retouch da Océane Edition já estavam com preço especial, e o cupom tirou os 10% deles também.',
+          'Sim. No nosso teste no app, a Face Palette e o Mini Retouch da Océane Edition já estavam com preço especial, e o cupom tirou os 10% deles também. Nos testes, ele também entrou em itens da Black Month e nos kits Minis Edition. Em combos “Leve X por R$ Y” ou pedidos com brinde, confira na sacola se o desconto continua aplicado.',
       },
       {
         question: 'O cupom EMCASA está funcionando hoje?',
@@ -6626,17 +6626,17 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Océane na Black Friday?',
         answer:
-          'Tem. O cupom Océane EMCASA dá 10% OFF no site e no aplicativo e, no nosso teste de novembro, entrou também nos produtos com preço especial do app.',
+          'Tem. O cupom Océane EMCASA dá 10% OFF no site e no aplicativo e, nos nossos testes de novembro, entrou também nos itens da Black Month e nos produtos com preço especial do app.',
       },
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'O cupom não mexe no frete. Segundo a loja, o frete pode ser grátis acima de um valor mínimo de compra, e a sacola mostra o valor e as opções depois que você informa o CEP.',
+          'Aplique o cupom, informe o CEP e confira o total com frete. Segundo a política de entrega da Océane, o frete grátis vale acima de um valor mínimo, que pode variar por estado e só existe em algumas regiões.',
       },
       {
         question: 'Como funciona a troca na Océane?',
         answer:
-          'Pela política da loja, a devolução pode ser pedida em até 7 dias corridos depois do recebimento, e o produto com defeito, em até 30 dias, sem sinais de uso, na embalagem original e com a nota fiscal. O pedido é feito pelo e-mail info@oceane.com.br, e a troca sai como vale-compras.',
+          'Pela política da loja, a devolução pode ser pedida em até 7 dias corridos depois do recebimento, e o produto com defeito, em até 30 dias, sem sinais de uso, na embalagem original e com a nota fiscal. O pedido é feito pelo e-mail info@oceane.com.br, e a troca sai como vale-compras. Pelo Código de Defesa do Consumidor, a desistência da compra online em até 7 dias dá direito a reembolso, e o prazo para reclamar de defeito é de 30 dias para produto não durável e de 90 para durável.',
       },
       {
         question: 'O que fazer se o cupom EMCASA não funcionar?',

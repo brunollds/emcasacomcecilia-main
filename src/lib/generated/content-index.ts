@@ -316055,5 +316055,1641 @@ export const reviewsData: unknown[] = [
         "slug": "petz-ou-cobasi"
       }
     ]
+  },
+  {
+    "id": 1291,
+    "slug": "cupom-oceane-como-usar",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "oceane",
+    "title": "Cupom Océane no app e no site: como usar o EMCASA e o que conferir antes de pagar",
+    "seoTitle": "Cupom Océane no app e no site: como usar o EMCASA",
+    "type": "Guia & Cupons",
+    "description": "O EMCASA na Océane vale no site e no app. Veja onde digitar em cada um, o que soma com o preço especial do app, o frete, a troca e o que conferir antes de pagar.",
+    "metaDescription": "EMCASA na Océane dá 10% OFF no pedido, no site e no app. Veja onde digitar, o que soma com o preço especial do app e o que conferir antes de pagar.",
+    "image": "/images/reviews/oceane/cupom-oceane-como-usar-capa.webp",
+    "imageAlt": "Capa verde com o logo da Océane, a chamada “Cupom no app e no site” e o cupom EMCASA.",
+    "cta": {
+      "text": "Monte a sacola no site ou no app da Océane e aplique o EMCASA antes de pagar. Confira a linha de desconto e o frete pelo CEP.",
+      "label": "Ir para a Océane",
+      "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
+      "sponsored": true
+    },
+    "editorialNote": "Cupom testado pelo carrinho da loja. Somos parceiros da Océane e podemos receber comissão pelo cupom. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-oceane-primeira-compra"
+      },
+      {
+        "slug": "black-friday-oceane"
+      },
+      {
+        "slug": "oceane-e-confiavel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Seu produto está em preço especial no app: o EMCASA soma com ele.",
+        "Você quer pagar no Pix ou parcelar: o cupom vale em todas as formas de pagamento."
+      ],
+      "skipIf": [
+        "Sua compra depende de combo ou de brinde: aplique o cupom e confira o total da sacola antes de pagar."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O EMCASA na Océane dá 10% OFF no pedido, no site e no app, em todas as formas de pagamento, para cliente novo e antigo. No site, o campo fica na sacola, antes da identificação; no app, o cupom entra na Sacola. O preço especial do app soma com o cupom: veja abaixo o teste e o que conferir."
+        ]
+      },
+      {
+        "heading": "Onde digitar o EMCASA: site ou app",
+        "paragraphs": [
+          "No site, o cupom entra na sacola, antes de você se identificar. Quem já está na tela de pagamento precisa voltar à sacola para aplicar o código."
+        ],
+        "bullets": [
+          "Escolha o produto e clique em “Adicionar à sacola”.",
+          "Na gaveta que abre, clique no botão do fim para ir à sacola de compras.",
+          "No campo “Cupom de desconto”, digite EMCASA e clique em “Adicionar”.",
+          "Confira a linha “Descontos” no resumo: ela mostra quanto o cupom tirou. Só depois siga em “Continuar pagamento”."
+        ],
+        "postParagraphs": [
+          "No app, o cupom entra na Sacola, como no site, antes de “Finalizar Compra”. O código EMCASA também é o de outras lojas parceiras do Em Casa com Cecília, mas o desconto de 10% descrito aqui vale na Océane. Os detalhes da loja estão na página do [cupom Océane](/cupons/oceane)."
+        ]
+      },
+      {
+        "heading": "O que o app mostra com o cupom",
+        "paragraphs": [
+          "Os preços dos itens da Sacola já incluem o desconto. A linha “Desconto” mostra quanto o cupom abateu do subtotal, e o que vale é o total.",
+          "Testamos o cupom nos dois canais. No app, numa Sacola com três itens, dois deles em preço especial do app, o EMCASA tirou 10% do pedido. No site, o mesmo desconto entrou sobre o preço de um creme para a área dos olhos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/oceane/cupom-oceane-sacola-app-com-cupom.webp",
+            "alt": "Sacola do aplicativo da Océane com o cupom EMCASA aplicado: subtotal de R$ 201,70, desconto de R$ 20,17 e total de R$ 181,53",
+            "caption": "A Sacola do app com o EMCASA: o preço de cada item já vem com o desconto, e o resumo mostra a linha “Desconto”.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5
+          }
+        ],
+        "comparisonTable": {
+          "caption": "Teste do cupom no carrinho, 23/11. Na Sacola do app, a Face Palette e o Mini Retouch estavam em preço especial do app.",
+          "headers": [
+            "Onde",
+            "O que estava na sacola",
+            "Subtotal",
+            "Desconto do EMCASA",
+            "Total"
+          ],
+          "rows": [
+            [
+              "App",
+              "Face Palette Océane Edition, Mini Retouch My Glam Océane Edition e Repair Eye Cream",
+              "R$ 201,70",
+              "R$ 20,17",
+              "R$ 181,53"
+            ],
+            [
+              "Site",
+              "Repair Eye Cream",
+              "R$ 65,90",
+              "R$ 6,59",
+              "R$ 59,31"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "O que soma com o EMCASA e o que não testamos",
+        "paragraphs": [
+          "O EMCASA soma com o preço especial do app: na Sacola testada, os dois itens que já estavam em preço especial ganharam os 10% por cima. O que não foi testado não se soma por suposição."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Situação",
+            "Com o EMCASA na Océane"
+          ],
+          "rows": [
+            [
+              "Preço especial do app",
+              "Testado: soma, 10% sobre o preço especial"
+            ],
+            [
+              "Produtos da Black Month",
+              "Testado: 10% sobre o preço de oferta"
+            ],
+            [
+              "Kits de presente Minis Edition",
+              "Testado: 10% no kit"
+            ],
+            [
+              "“Leve X por R$ Y”",
+              "Não testado"
+            ],
+            [
+              "Brinde na compra",
+              "Não testado"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Black Month é a campanha de novembro da loja, com os produtos marcados com “MÊS DA BLACK”. A loja diz que os preços podem variar de acordo com o canal, então vale conferir no carrinho antes de decidir. A campanha tem artigo próprio: [Black Friday na Océane](/reviews/black-friday-oceane).",
+          "Onde está “não testado”, a regra é a da sacola: aplique o EMCASA, olhe a linha “Descontos” e só pague se o total for o que você esperava."
+        ]
+      },
+      {
+        "heading": "Formas de pagamento",
+        "paragraphs": [
+          "O EMCASA vale em todas as formas de pagamento. Quem paga no Pix não perde o cupom, e quem parcela também não.",
+          "A loja informa: cartão de crédito Visa, MasterCard, American Express, Diners Club, Elo e Hipercard, em até 6x sem juros no site todo, com parcela mínima de R$ 30. O Pix gera QR Code no computador e copia e cola no celular. Na Black Month, a loja lista também PicPay, boleto e Ame Digital.",
+          "Um detalhe do caminho: para pagar, a loja pede que você se identifique com e-mail e senha depois da sacola. O cupom entra antes disso, então digite o EMCASA primeiro e identifique-se depois."
+        ]
+      },
+      {
+        "heading": "Frete: o que a sacola mostra",
+        "paragraphs": [
+          "Aplique o cupom, informe o CEP e confira o total com frete. Segundo a política de entrega, o frete grátis vale acima de um valor mínimo, que pode variar por estado e só existe em algumas regiões; o valor e as opções aparecem na sacola depois do CEP.",
+          "Por isso, não conte com o frete antes do CEP. Na Black Month, a loja avisa que o prazo de entrega pode mudar pela demanda, e é o carrinho, com o CEP, que mostra o prazo de verdade. Quem está na primeira compra encontra o assunto no artigo do [cupom Océane na primeira compra](/reviews/cupom-oceane-primeira-compra)."
+        ]
+      },
+      {
+        "heading": "Se o produto não servir: troca e devolução",
+        "paragraphs": [
+          "Pela página de trocas, a Océane aceita o pedido de devolução em até 7 dias corridos do recebimento e o de produto com defeito em até 30 dias corridos, e pede o produto sem sinais de uso, na embalagem original, com a nota fiscal (DANFE), os lacres, as etiquetas, os acessórios e os manuais. Pelo Código de Defesa do Consumidor, quem compra pela internet pode desistir em até 7 dias do recebimento e receber o dinheiro de volta, e o Procon-SP orienta que a embalagem intacta não pode ser exigida para isso. Para reclamar de defeito, o prazo legal é de 30 dias para produto não durável, como maquiagem, e de 90 para durável, como a mini geladeira.",
+          "O pedido é pelo e-mail info@oceane.com.br, com número do pedido, lote, validade, nome e foto do produto e o motivo. A loja responde em até 24 horas úteis. A devolução pelos Correios usa um código de autorização de postagem, com um envio por pedido, e a análise leva até 9 dias úteis depois que a caixa chega ao centro de distribuição.",
+          "A Océane não troca produto por produto: a troca sai como vale-compras. O reembolso, quando é o caso, é pelo valor pago: com o EMCASA, o valor já vem com o desconto. Se a compra tinha brinde e a devolução deixa o total abaixo do valor que dava direito a ele, o brinde volta para a loja."
+        ]
+      },
+      {
+        "heading": "Antes de fechar o pedido",
+        "paragraphs": [
+          "Mexeu na sacola depois de aplicar o cupom? Confira de novo antes de pagar."
+        ],
+        "checklist": {
+          "items": [
+            "Conferir se o EMCASA aparece em “Descontos”, antes da identificação (site).",
+            "No app, conferir a linha “Desconto” e o preço de cada item.",
+            "Ver se o preço especial da vitrine continua no carrinho.",
+            "Ver o frete depois de digitar o CEP, sem contar com o valor da vitrine.",
+            "Confirmar que o total da sacola é o mesmo do pagamento, antes do Pix ou do cartão."
+          ]
+        }
+      },
+      {
+        "heading": "App ou site: onde usar o EMCASA",
+        "paragraphs": [
+          "O EMCASA dá os mesmos 10% no site e no app. O app ganha quando o produto está em preço especial lá, porque o cupom soma. No site, a prova é a linha “Descontos”; no app, a linha “Desconto” e o preço de cada item. Nos dois, o número que vale é o total da sacola."
+        ],
+        "emphasis": "Eu fecharia pelo app quando o produto está em preço especial lá: o EMCASA entra por cima, e o total da Sacola mostra a conta inteira antes de pagar.",
+        "links": [
+          {
+            "label": "Ir para a Océane com o EMCASA",
+            "href": "https://www.oceane.com.br/?utmi_pc=emcasa",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Océane",
+            "href": "/cupons/oceane"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento.",
+          "O EMCASA funciona no app da Océane? Funciona: no app, o cupom entra na Sacola, o preço de cada item já vem com o desconto e o resumo traz a linha “Desconto”.",
+          "O cupom soma com o preço especial do app? Soma: no nosso teste, os itens que já estavam em preço especial do app ganharam os 10% por cima.",
+          "O cupom vale no Pix? Vale. O EMCASA funciona em todas as formas de pagamento, e o Pix pede identificação depois da sacola, onde o cupom já entrou.",
+          "Quantos dias para trocar na Océane? A loja aceita a devolução em até 7 dias corridos do recebimento e o pedido por defeito em até 30, e a troca sai como vale-compras. Pela lei, a desistência da compra online em até 7 dias dá direito a reembolso, e o prazo para reclamar de defeito é de 30 dias para produto não durável e de 90 para durável."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-23"
+  },
+  {
+    "id": 1286,
+    "slug": "black-friday-oceane",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "oceane",
+    "title": "Black Friday Océane 2026: a Black Month de até 70% OFF com o cupom EMCASA",
+    "seoTitle": "Black Friday Océane 2026: cupom e Black Month",
+    "type": "Guia de Black Friday",
+    "description": "O que a Océane colocou na Black Month de 2026, quanto o cupom EMCASA tira sobre o preço de oferta no site e no app e o que conferir na sacola antes de fechar o pedido.",
+    "metaDescription": "O cupom EMCASA dá 10% OFF na Océane, também sobre os preços da Black Month. Veja o que está em oferta, a conta com o cupom e o que muda no app.",
+    "image": "/images/reviews/oceane/black-friday-oceane-capa.webp",
+    "imageAlt": "Mini de 6 g e tamanho cheio de 13 g do Highlight Stick Océane Edition, em foto oficial com uma mão segurando o mini. A capa traz o logo Océane e a chamada “Black Friday”, com o cupom EMCASA.",
+    "cta": {
+      "text": "Veja os preços de oferta na loja. Se decidir comprar, aplique EMCASA na sacola e confira o desconto antes de pagar.",
+      "label": "Ir para a Océane com o EMCASA",
+      "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
+      "sponsored": true
+    },
+    "editorialNote": "Podemos receber comissão pelo cupom e pelos links. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-oceane-como-usar"
+      },
+      {
+        "slug": "cupom-oceane-primeira-compra"
+      },
+      {
+        "slug": "oceane-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "oceane-e-confiavel"
+      },
+      {
+        "slug": "oceane-e-boa"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você já tem um produto da Océane em mente: compare o preço no site e no app e use o cupom na sacola.",
+        "Vai presentear: os Kits Minis Edition aceitaram o cupom na sacola do site."
+      ],
+      "skipIf": [
+        "A ideia é aproveitar combo ou brinde: confira na sacola se a linha \"Descontos\" entrou antes de pagar, porque o EMCASA com essas promoções não foi testado.",
+        "Prefere esperar: a loja fala em ofertas relâmpago e não publica data de fim."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Océane está na Black Month, a campanha de novembro que a loja anuncia com mais de 250 produtos em até 70% OFF. Na sacola do site, o EMCASA tirou mais 10% sobre o preço de oferta. A loja não publica data de fim: veja abaixo o que está em oferta e como fica a conta."
+        ]
+      },
+      {
+        "heading": "O que é a Black Month da Océane e até quando vai",
+        "paragraphs": [
+          "A Océane anuncia ofertas durante novembro, numa campanha que chama de Black Month. A campanha inclui ofertas relâmpago, com prazos próprios, e a página não publica data de fim.",
+          "A loja informa: são mais de 250 produtos com até 70% OFF no site, e o app traz \"descontos extras\". O \"até 70%\" é o teto da vitrine, não o desconto de cada item: vale o preço que aparece na página do produto. Os itens da campanha levam a etiqueta \"MÊS DA BLACK\", que é como a Océane identifica a oferta, e a página tem o filtro \"Preço de Black\". Há ainda filtros por faixa de preço (até R$ 50, R$ 100, R$ 150 e R$ 200) e o filtro \"Leve\", dos combos.",
+          "Data de fim, a Océane não publica. Como parte das ofertas é relâmpago, quem já tem um produto em mente confere o preço antes de deixar para depois.",
+          "As lojas físicas da Océane também participam, mas com preços diferentes dos do site, e a página da campanha diz que os preços podem variar de acordo com o canal. O cupom EMCASA é para compra no site e no app."
+        ]
+      },
+      {
+        "heading": "O que está em oferta na Black Month",
+        "paragraphs": [
+          "A categoria mais cheia da Black Month é a de rosto: bases, corretivos e blushes. A coleção da campanha vai de R$ 8,90 a R$ 559,90 no preço do dia, e a maior parte dos itens fica abaixo de R$ 100. Além do rosto, entram boca, olhos, skincare de rosto, máscaras faciais, pincéis, esponjas e kits de maquiagem e de skincare.",
+          "A tabela mostra um exemplo de cada tipo. Os preços variam por tom e por tamanho, então a faixa vale para a linha toda."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia na Black Month, em 23/11, sem o cupom.",
+          "headers": [
+            "Tipo",
+            "Produto",
+            "Preço do dia"
+          ],
+          "rows": [
+            [
+              "Base em bastão",
+              "Foundation Stick",
+              "R$ 49,90 a R$ 69,90"
+            ],
+            [
+              "Base líquida",
+              "Skin Foundation",
+              "R$ 49,90 a R$ 59,90"
+            ],
+            [
+              "Base cushion",
+              "Cushion Foundation",
+              "R$ 59,90"
+            ],
+            [
+              "Corretivo",
+              "Corretivos da linha",
+              "R$ 39,90 a R$ 49,90"
+            ],
+            [
+              "Blush",
+              "Blush Stick",
+              "a partir de R$ 42,90"
+            ],
+            [
+              "Skincare",
+              "Facial Gel Cream 50 g",
+              "R$ 65,90"
+            ],
+            [
+              "Pincéis",
+              "Mini Brush Kit",
+              "R$ 89,90"
+            ],
+            [
+              "Presente",
+              "Kits Minis Edition",
+              "R$ 69,90 a R$ 99,90"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/oceane/black-friday-oceane-paleta-multifuncional.webp",
+            "alt": "Paleta Multifuncional Face Palette, da linha Océane Edition",
+            "caption": "Paleta Multifuncional Face Palette, da linha Océane Edition.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.oceane.com.br/paleta-multifuncional-face-palette-oceane-edition-ap2001179cunif/p"
+          }
+        ],
+        "postParagraphs": [
+          "A vitrine \"+ vendidos da black\" da própria loja dá uma pista do que mais sai: tinha Cushion Foundation, Skin Foundation, o pó Cover Me Up, a Face Palette, o Mini Brush Kit e o Facial Gel Cream, entre outros. Mais vendido é a ordem da loja, não indicação nossa: compare com a sua lista de compras antes de entrar na sacola."
+        ]
+      },
+      {
+        "heading": "Quanto fica com o cupom EMCASA",
+        "paragraphs": [
+          "O EMCASA na Océane soma com o preço de Black Month: os 10% entram sobre o preço de oferta, não sobre o preço antigo. Na sacola do site, o EMCASA foi aceito e tirou 10% de cada item nas três sacolas abaixo, todas com produtos da campanha."
+        ],
+        "comparisonTable": {
+          "caption": "Valores antes do frete.",
+          "headers": [
+            "Sacola",
+            "Soma dos itens",
+            "Desconto do EMCASA",
+            "Com o cupom"
+          ],
+          "rows": [
+            [
+              "Foundation Stick Almond",
+              "R$ 49,90",
+              "R$ 4,99",
+              "R$ 44,91"
+            ],
+            [
+              "Foaming Cleanser 4you e Lip Tint Pink",
+              "R$ 62,80",
+              "R$ 6,28",
+              "R$ 56,52"
+            ],
+            [
+              "Os três anteriores, mais Shimmer Highlighter Rose e Fluffy Blush Tango Pink",
+              "R$ 192,50",
+              "R$ 19,25",
+              "R$ 173,25"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos outros itens da campanha, o cupom não foi testado item por item: aplique o EMCASA e confira na sacola se a linha “Descontos” entrou antes de pagar.",
+          "Para usar, no site, digite EMCASA no campo \"Cupom de desconto\" da sacola e clique em \"Adicionar\", antes da identificação; a linha \"Descontos\" mostra o que foi abatido. No app, o cupom entra na Sacola. O caminho completo até a sacola está em [como usar o cupom Océane](/reviews/cupom-oceane-como-usar)."
+        ]
+      },
+      {
+        "heading": "App ou site na Black Month",
+        "paragraphs": [
+          "Não dá para dizer que um canal sai sempre mais barato que o outro: a loja só diz que o app é \"ainda mais interessante, com descontos extras\", sem apontar quais itens. O que vimos é que o cupom funciona nos dois e soma com o preço especial do app.",
+          "No app, o EMCASA entrou sobre produtos que já estavam com preço especial do app. O preço de cada item da Sacola já vem com o EMCASA aplicado, e o resumo traz a linha \"Desconto\", como no print abaixo. Os valores desse teste estão na página do [cupom Océane](/cupons/oceane)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/oceane/cupom-oceane-sacola-app-com-cupom.webp",
+            "alt": "Sacola do aplicativo da Océane com o cupom EMCASA aplicado: subtotal de R$ 201,70, desconto de R$ 20,17 e total de R$ 181,53",
+            "caption": "A Sacola do app com o EMCASA aplicado, no nosso teste. A linha Desconto mostra quanto saiu.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5
+          }
+        ],
+        "postParagraphs": [
+          "Regra prática, sem teste nosso, partindo de que a loja pode ter preço diferente por canal: abra o mesmo produto no site e no app e compare o preço antes de aplicar o cupom. O EMCASA tira 10% de onde o preço estiver menor."
+        ]
+      },
+      {
+        "heading": "Kits, combos e brindes",
+        "paragraphs": [
+          "O cupom também entrou nos kits de presente: na sacola do site, o EMCASA tirou 10% dos Kits Presente Minis Edition, que são pares e trios de minis."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Kit",
+            "Preço na sacola",
+            "Desconto do EMCASA",
+            "Com o cupom"
+          ],
+          "rows": [
+            [
+              "Trio de Batons",
+              "R$ 99,90",
+              "R$ 9,99",
+              "R$ 89,91"
+            ],
+            [
+              "Blush e Iluminador",
+              "R$ 69,90",
+              "R$ 6,99",
+              "R$ 62,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Combos de \"leve X por R$ Y\" e brindes são outra história: a loja faz esse tipo de promoção durante o mês, e o EMCASA com elas não foi testado. Antes de pagar, confira na sacola se a linha \"Descontos\" trouxe o cupom e se a promoção continuou valendo.",
+          "O rodapé da página da campanha avisa três regras: brindes não acumulam e são um por pedido; em promoção de produtos selecionados, valem só as cores da página da promoção; e, se houver divergência, vale o preço da sacola."
+        ]
+      },
+      {
+        "heading": "Frete, prazo, pagamento e devolução",
+        "paragraphs": [
+          "O frete só a sacola mostra: ele aparece depois que você informa o CEP, junto com o prazo. A Océane dá frete grátis em campanhas e em alguns produtos que marca, como a mini geladeira de skincare e o kit para gestantes, que estavam na coleção de frete grátis da Black Month. A política de entrega fala em frete grátis acima de um valor mínimo, que pode variar por estado. Aplique o cupom, informe o CEP e confira o total com frete. O prazo é o que a sacola mostra para o seu CEP: a página da campanha fala em possíveis mudanças por causa da demanda, então vale olhar de novo na hora de pagar.",
+          "Na página da Black Friday, a loja lista cartão de crédito, Pix, PicPay, boleto e Ame Digital. No cartão, a política de pagamento fala em até 6x sem juros, com parcela mínima de R$ 30. O EMCASA vale em todas as formas de pagamento.",
+          "Se precisar devolver, a loja aceita o pedido em até 7 dias corridos do recebimento, ou em até 30 dias se o produto tiver defeito, e pede o produto sem sinais de uso e na embalagem original. Pela lei, a desistência da compra online em até 7 dias dá direito a reembolso, e o prazo para reclamar de defeito é de 30 dias para produto não durável e de 90 para durável. A loja devolve o valor pago pelo produto, já com o desconto, e a troca sai como vale-compras: a loja não troca produto por produto. O pedido vai por e-mail a info@oceane.com.br, com número do pedido, lote, validade, nome e foto do produto e o motivo. Se a devolução derrubar o total abaixo do valor que deu direito a um brinde, o brinde volta para a loja."
+        ]
+      },
+      {
+        "heading": "O que fazer na Black Month da Océane",
+        "paragraphs": [
+          "Quem chega com uma lista curta sai melhor que quem chega só pelo \"até 70%\". A economia da campanha está no preço de cada produto que você já queria."
+        ],
+        "emphasis": "Eu entraria na Black Month da Océane com a lista pronta: preço de oferta no produto que eu já queria e o EMCASA por cima. Oferta relâmpago sem data de fim não me faria encher a sacola.",
+        "links": [
+          {
+            "label": "Ver o cupom Océane",
+            "href": "/cupons/oceane"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento. Ele vale também sobre os preços da Black Month.",
+          "A Océane vai ter Black Friday? Já tem: a loja chama a campanha de Black Month e anuncia mais de 250 produtos em até 70% OFF. O que está em oferta aparece no capítulo \"O que está em oferta na Black Month\".",
+          "Até quando vai a Black Friday da Océane? A loja não publica data de fim. Ela diz que as ofertas acontecem no mês de novembro e que há ofertas relâmpago que podem acabar a qualquer momento.",
+          "O cupom EMCASA soma com o preço de Black Month? Soma. Na sacola do site, o EMCASA tirou 10% do preço de oferta, e no app ele somou com o preço especial. Com combo e brinde, o cupom não foi testado: confira a linha \"Descontos\".",
+          "As lojas físicas da Océane entram na Black Friday? Entram, com preços diferentes dos do site. O cupom EMCASA é para compra no site e no app."
+        ]
+      }
+    ],
+    "bodyDatesReason": "campanha",
+    "updatedAt": "2026-11-23"
+  },
+  {
+    "id": 1292,
+    "slug": "cupom-oceane-primeira-compra",
+    "locale": "pt",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "oceane",
+    "title": "Cupom Océane primeira compra: o EMCASA vale na primeira e nas seguintes",
+    "seoTitle": "Cupom Océane primeira compra: 10% OFF com EMCASA",
+    "type": "Guia & Cupons",
+    "description": "O EMCASA na Océane vale na primeira compra e nas seguintes, no app e no site. Veja onde aplicar, como o frete aparece na sacola e o que vale na devolução.",
+    "metaDescription": "Na Océane, o EMCASA dá 10% OFF na primeira compra, no site e no app, e vale de novo nas seguintes. Veja como aplicar e o que conferir.",
+    "image": "/images/reviews/oceane/cupom-oceane-primeira-compra-capa.webp",
+    "imageAlt": "Capa verde com o logo da Océane, a chamada “Primeira compra” e o cupom EMCASA.",
+    "cta": {
+      "text": "Monte a sacola no site ou no app da Océane e aplique o EMCASA antes de pagar. Leia o frete depois do CEP e confira a linha de desconto.",
+      "label": "Ir para a Océane",
+      "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
+      "sponsored": true
+    },
+    "editorialNote": "Cupom testado pelo carrinho da loja. Somos parceiros da Océane e podemos receber comissão pelo cupom. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-oceane-como-usar"
+      },
+      {
+        "slug": "oceane-e-confiavel"
+      },
+      {
+        "slug": "black-friday-oceane"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O EMCASA na Océane dá 10% OFF no pedido na primeira compra, no site e no app, em todas as formas de pagamento. O mesmo código vale nas compras seguintes, para cliente novo e antigo, e entra na sacola, antes da identificação. O que muda a conta é o frete, que só aparece depois do CEP."
+        ]
+      },
+      {
+        "heading": "O EMCASA vale na primeira compra? E nas seguintes?",
+        "paragraphs": [
+          "Antes do primeiro pedido, vale saber quem vende: o CNPJ, os canais e a regra de troca estão em [Océane é confiável?](/reviews/oceane-e-confiavel).",
+          "Vale nas duas, e é o mesmo código. Quem nunca comprou na Océane digita EMCASA na sacola e leva 10% OFF no pedido. Quem já comprou digita o mesmo EMCASA e leva os mesmos 10%. O segundo pedido usa o mesmo código, sem cadastro novo.",
+          "Vale no site e no aplicativo. No nosso teste no app, os 10% entraram até sobre produtos que já estavam com preço especial. Como o EMCASA também é o código de outras lojas parceiras, guarde o nome completo: EMCASA na Océane."
+        ]
+      },
+      {
+        "heading": "Como aplicar o EMCASA no primeiro pedido",
+        "paragraphs": [
+          "O cupom entra na sacola, antes de a loja pedir quem é você. São três movimentos:"
+        ],
+        "bullets": [
+          "Coloque os produtos na sacola e abra a sacola de compras.",
+          "No campo “Cupom de desconto”, digite EMCASA.",
+          "Clique em “Adicionar” e confira a linha “Descontos”: ela mostra quanto o código tirou."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/oceane/cupom-oceane-sacola-app-com-cupom.webp",
+            "alt": "Sacola do aplicativo da Océane com o cupom EMCASA aplicado: subtotal de R$ 201,70, desconto de R$ 20,17 e total de R$ 181,53",
+            "caption": "A Sacola do app com o EMCASA: o preço de cada item já vem com o desconto, e o resumo mostra a linha “Desconto”.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5
+          }
+        ],
+        "postParagraphs": [
+          "No aplicativo, o cupom também entra na Sacola, antes de finalizar a compra. Testamos o cupom no carrinho do site, e a linha “Descontos” apareceu antes de qualquer pedido de identificação. Se a dúvida é app ou site, o [passo a passo do cupom Océane](/reviews/cupom-oceane-como-usar) explica os dois caminhos e traz a conta do teste.",
+          "A dica de quem está na primeira compra: aplique o código antes de ir para o pagamento. Quem já passou para o pagamento volta à sacola para digitar o código."
+        ]
+      },
+      {
+        "heading": "O que colocar na sacola do primeiro pedido",
+        "paragraphs": [
+          "O EMCASA vale sobre o pedido, e não sobre um produto só, então a escolha é sua. Uma opção que a loja vende como presente é o Kit Presente Minis Edition, com blush e iluminador em bastão. Na sacola do site, o EMCASA tirou 10% sobre o kit, como tira sobre os produtos de linha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/oceane/cupom-oceane-primeira-compra-kit-minis-blush-iluminador.webp",
+            "alt": "Kit Presente Minis Edition da Océane, com blush e iluminador em bastão",
+            "caption": "Kit Presente Minis Edition, foto oficial da Océane.",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "href": "https://www.oceane.com.br/kit-presente-minis-edition-blush-iluminador-em-bastao-6g-ap2001400cunif/p"
+          }
+        ]
+      },
+      {
+        "heading": "Frete na primeira compra: o que a Océane diz",
+        "paragraphs": [
+          "A política de entrega da Océane não fala em frete grátis para a primeira compra. Ela diz que o frete grátis vale acima de um valor mínimo, que pode variar por estado e só existe em algumas regiões. Aplique o cupom, informe o CEP e confira o total com frete.",
+          "O que vale é o número da sua sacola: o frete aparece depois que você informa o CEP, antes de pagar. Leia esse valor junto com a linha “Descontos”. Ele muda de CEP para CEP, então a mesma sacola pode ter um frete aqui e outro na casa da sua mãe."
+        ]
+      },
+      {
+        "heading": "Pagamento no primeiro pedido",
+        "paragraphs": [
+          "O EMCASA vale em todas as formas de pagamento.",
+          "A página de pagamento da Océane lista cartão de crédito Visa, MasterCard, American Express, Diners Club, Elo e Hipercard, em até 6x sem juros no site, com parcela mínima de R$ 30, e Pix. Na conta de casa, a parcela mínima pesa: um pedido pequeno não chega a 6 parcelas.",
+          "Para pagar, a loja pede identificação com e-mail e senha, depois da sacola. É por isso que o cupom vai antes: ele já está no pedido quando você se identifica."
+        ]
+      },
+      {
+        "heading": "Se o primeiro pedido não servir: a troca",
+        "paragraphs": [
+          "Quem nunca comprou numa loja quer saber como devolver antes de pagar, e a Océane publica a regra. A loja informa: a devolução vale em até 7 dias corridos do recebimento, e o defeito, em até 30 dias corridos. O produto volta sem sinais de uso, na embalagem original, com a nota fiscal e os lacres, etiquetas, acessórios e manuais. O pedido vai por e-mail, com número do pedido, lote, validade, nome e foto do produto e o motivo, e a loja responde em até 24 horas úteis.",
+          "Três pontos que mudam a compra:"
+        ],
+        "bullets": [
+          "A Océane não troca produto por produto. Quando a troca é aceita, a loja emite um vale-compras.",
+          "O reembolso é do valor pago pelo produto devolvido. Com o EMCASA, o valor pago já tem os 10% descontados, então é esse valor que volta.",
+          "Pelo Código de Defesa do Consumidor, quem compra pela internet pode desistir em até 7 dias do recebimento e receber o dinheiro de volta, e o Procon-SP orienta que a embalagem intacta não pode ser exigida para isso. Para reclamar de defeito, o prazo legal é de 30 dias para produto não durável, como maquiagem, e de 90 para durável, como a mini geladeira."
+        ],
+        "postParagraphs": [
+          "O pedido de troca, passo a passo, está no guia de [como usar o cupom Océane](/reviews/cupom-oceane-como-usar)."
+        ]
+      },
+      {
+        "heading": "Vale fazer a primeira compra com o EMCASA?",
+        "paragraphs": [
+          "Vale, e sem pressa de guardar o cupom: o código é o mesmo da primeira à última compra, não acaba no primeiro pedido.",
+          "O que decide a conta é o que o cupom não controla: o frete depois do CEP, o parcelamento que a sacola mostra e a regra de troca. Quem aplica o EMCASA antes da identificação, confere a linha “Descontos” e lê o frete antes de pagar fecha o primeiro pedido sem surpresa."
+        ],
+        "emphasis": "Eu não guardaria o EMCASA para uma compra maior: ele vale de novo no pedido seguinte. Na primeira, o que eu olharia com calma é o total com frete depois do CEP, antes de pagar.",
+        "links": [
+          {
+            "label": "Ir para a Océane com o EMCASA",
+            "href": "https://www.oceane.com.br/?utmi_pc=emcasa",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Océane",
+            "href": "/cupons/oceane"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o desconto na primeira compra da Océane? O EMCASA dá 10% OFF na primeira compra da Océane, no site e no app, e também vale nas compras seguintes.",
+          "O cupom da Océane vale para quem já comprou? Vale. O EMCASA na Océane é o mesmo código para cliente novo e para cliente antigo, com os mesmos 10% OFF no pedido.",
+          "Océane primeira compra tem frete grátis? A política de entrega fala em frete grátis acima de um valor mínimo, que pode variar por estado. Aplique o cupom, informe o CEP e confira o total com frete.",
+          "Preciso de cadastro para comprar na Océane? Para pagar, a loja pede identificação com e-mail e senha, depois da sacola. O EMCASA entra antes, no campo “Cupom de desconto”."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-23"
+  },
+  {
+    "id": 1294,
+    "slug": "oceane-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "bodyDatesReason": "reclame-aqui",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "oceane",
+    "title": "Océane no Reclame Aqui: a nota, o que mais gera queixa e o que conferir antes de comprar",
+    "seoTitle": "Océane no Reclame Aqui: nota e queixas",
+    "type": "Análise de Reputação",
+    "description": "A Océane tem nota 8,3 e reputação Ótima no Reclame Aqui nos últimos seis meses. Veja os indicadores por período, o que mais gera queixa e o que conferir antes de comprar.",
+    "metaDescription": "EMCASA dá 10% OFF na Océane. No Reclame Aqui, a nota do semestre é 8,3, reputação Ótima, e a entrega é o principal ponto de atenção.",
+    "image": "/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Painel verde com o logo Océane e a chamada “Reclame Aqui nota 8,3”, ao lado da foto oficial de uma esponja de maquiagem rosa-clara da marca.",
+    "cta": {
+      "text": "Se decidir comprar na Océane, aplique o EMCASA na sacola para ter 10% OFF.",
+      "label": "Ir para a Océane com o EMCASA",
+      "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
+      "sponsored": true
+    },
+    "editorialNote": "Somos parceiros da Océane e podemos receber comissão pelo cupom. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "oceane-e-confiavel"
+      },
+      {
+        "slug": "cupom-oceane-como-usar"
+      },
+      {
+        "slug": "oceane-e-boa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, dá para comprar na Océane, com a entrega como ponto de atenção: produto não recebido é o problema mais citado no histórico de até três anos. No semestre, o Reclame Aqui dá nota 8,3 e reputação Ótima, com 88,6% de solução entre as reclamações avaliadas. O EMCASA na Océane dá 10% OFF; veja abaixo cada período."
+        ]
+      },
+      {
+        "heading": "A nota e os indicadores do período",
+        "metrics": {
+          "items": [
+            {
+              "label": "Nota",
+              "value": "8,3",
+              "unit": "/10"
+            },
+            {
+              "label": "Respostas",
+              "value": "92,1%"
+            },
+            {
+              "label": "Índice de solução",
+              "value": "88,6%"
+            },
+            {
+              "label": "Voltariam a fazer negócio",
+              "value": "75,6%"
+            },
+            {
+              "label": "Tempo de resposta",
+              "value": "2 dias e 3 h"
+            },
+            {
+              "label": "Nota do consumidor",
+              "value": "7,64",
+              "unit": "/10"
+            }
+          ],
+          "summary": {
+            "badge": "Ótima",
+            "text": "**455** reclamações recebidas de 01/05 a 31/10/2026 · **260** avaliadas pelo consumidor, a base da solução e de quem voltaria"
+          }
+        },
+        "paragraphs": [
+          "O perfil do Reclame Aqui mostra: nos seis meses do quadro abaixo, a Océane Beauty & Smart - Loja Online tem reputação Ótima e nota 8,3. Índice de solução e \"voltariam a fazer negócio\" valem só para as reclamações finalizadas e avaliadas pelo consumidor, e não para todos os clientes da loja."
+        ],
+        "postParagraphs": [
+          "As 455 reclamações são um número absoluto. Sem o total de pedidos da loja, ele não vira proporção, e o painel não mostra esse total. No mesmo período, o painel mostra 25 reclamações aguardando resposta. Com 260 avaliações, a base dos dois índices é boa para ler."
+        ]
+      },
+      {
+        "heading": "O que a nota mede e o que não mede",
+        "paragraphs": [
+          "A nota do Reclame Aqui mede como a empresa lida com as reclamações na plataforma: se responde, se resolve e o que o consumidor achou do atendimento. Não mede a qualidade do produto, nem o que acontece com quem comprou e não reclamou lá. Um produto pode ser ótimo e a nota ficar baixa por causa de atraso, e o contrário também vale.",
+          "Duas coisas atrapalham a leitura. A primeira é a janela: a nota é calculada sobre um período que anda, então ela muda quando o mês vira. A segunda é a média do consumidor, que está no quadro (7,64). Ela é a nota que quem reclamou deu ao atendimento, outra conta, e não a nota do painel.",
+          "O histórico do semestre mostra o movimento: reputação Regular em maio, Boa de junho a agosto e Ótima em setembro e outubro. Ou seja, a Ótima de agora é recente. Convém conferir o perfil no dia da compra."
+        ]
+      },
+      {
+        "heading": "Pontos positivos",
+        "paragraphs": [
+          "O perfil tem mais de um ponto a favor da Océane, e cada um vale com o período dele:"
+        ],
+        "bullets": [
+          "A Océane está há 8 anos no Reclame Aqui.",
+          "No ranking do Reclame Aqui, ocupa o 22º lugar entre as melhores empresas da categoria Maquiagens.",
+          "No semestre, o painel dá reputação Ótima, a melhor janela de todas as que ele mostra (a comparação está no capítulo seguinte).",
+          "No semestre, o perfil exibe 260 avaliações, 88,6% de solução e 75,6% de consumidores que voltariam a fazer negócio.",
+          "No semestre, o perfil exibe 92,1% das reclamações respondidas, com tempo médio de resposta de 2 dias e 3 horas."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "O ponto de atenção é a entrega. Na aba Geral do perfil, que reúne reclamações de até três anos e não só as do semestre, a categoria mais citada é Maquiagem (38,47%), o problema mais citado é \"Produto não recebido\" (27,3%) e o produto mais citado é \"Kit de maquiagem\" (18,46%). A tela não separa quantas queixas são de entrega e quantas são do kit em si, então não dá para ligar uma à outra.",
+          "Dois cuidados com esses números: o período de três anos não se mistura com o do quadro do começo, e uma queixa listada aqui pode ter sido resolvida depois.",
+          "Para saber se a melhora do semestre é recente ou antiga, vale olhar as outras abas de período do mesmo perfil:"
+        ],
+        "image": {
+          "src": "/images/reviews/oceane/oceane-reclame-aqui-problemas-geral.webp",
+          "alt": "Quadro Principais problemas comentados do Reclame Aqui da Océane, aba Geral: categoria Maquiagem 38,47%, problema Produto não recebido 27,3% e produto Kit de maquiagem 18,46%.",
+          "caption": "Quadro de principais problemas do perfil: as reclamações são de até 3 anos, não só as do semestre.",
+          "objectFit": "contain",
+          "aspectRatio": 1.217
+        },
+        "comparisonTable": {
+          "caption": "Abas de período do mesmo perfil; a reputação é Boa nas quatro.",
+          "headers": [
+            "Período",
+            "Nota",
+            "Recebidas",
+            "Respondidas",
+            "Avaliadas",
+            "Resolvidas",
+            "Voltariam",
+            "Tempo de resposta"
+          ],
+          "rows": [
+            [
+              "12 meses",
+              "7,3",
+              "1.657",
+              "90,3%",
+              "774",
+              "81,4%",
+              "62,6%",
+              "14 dias e 22 horas"
+            ],
+            [
+              "2025",
+              "7,3",
+              "1.182",
+              "83,7%",
+              "605",
+              "79,7%",
+              "65,8%",
+              "17 dias e 5 horas"
+            ],
+            [
+              "2024",
+              "7,4",
+              "951",
+              "82,1%",
+              "532",
+              "78,1%",
+              "69,8%",
+              "2 dias e 23 horas"
+            ],
+            [
+              "Geral",
+              "7,5",
+              "3.811",
+              "87,7%",
+              "1.902",
+              "81,3%",
+              "66,4%",
+              "9 dias e 2 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A leitura: o semestre é a melhor janela do painel. Em 12 meses e em 2025, o tempo de resposta ficava perto de duas semanas ou passava disso, e o índice de solução e o de quem voltaria também eram menores. A Ótima é uma melhora real, mas recente."
+        ]
+      },
+      {
+        "heading": "Como a loja responde e o que conferir antes de comprar",
+        "paragraphs": [
+          "Antes de pagar, quatro conferências evitam a maior parte do problema:"
+        ],
+        "bullets": [
+          "**Confira o perfil certo.** O CNPJ do rodapé do site da Océane é 04.484.321/0007-55; confira o nome do perfil no Reclame Aqui, \"Océane Beauty & Smart - Loja Online\".",
+          "**Compre pelo canal oficial e guarde o pedido.** O número do pedido e a nota fiscal (DANFE) são o que a loja pede em qualquer troca ou devolução.",
+          "**Veja o prazo na sacola.** O prazo que vale é o que a sacola mostra depois do CEP. A loja informa: o prazo de entrega pode mudar pela demanda em época de campanha, e ela manda consultar na sacola.",
+          "**Leia a política de trocas antes de comprar.** A loja aceita a devolução em até 7 dias corridos do recebimento e o pedido por defeito em até 30 dias corridos, e pede o produto sem sinais de uso, na embalagem original e com a DANFE. O atendimento da loja é por e-mail (info@oceane.com.br): o pedido leva número do pedido, lote, validade, nome e foto do produto e o motivo. A loja não troca produto por produto: a troca sai como vale-compras. Pela lei, a desistência da compra online em até 7 dias dá direito a reembolso, e o prazo para reclamar de defeito é de 30 dias para produto não durável e de 90 para durável."
+        ],
+        "postParagraphs": [
+          "Com o cupom, a loja devolve o valor pago pelo produto, já com o desconto. Se o pedido tinha brinde e a devolução derruba o total abaixo do valor que dava direito a ele, o brinde volta para a loja.",
+          "Para quem tem data marcada, como um presente, a conta é de prazo, não de nota. Regra prática, sem teste nosso: peça com folga e conte os dias úteis do prazo da sacola até a data em que precisa do produto. Quem compra sem pressa sente menos um atraso."
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar na Océane?",
+        "paragraphs": [
+          "Vale, com uma condição: guarde o pedido e confira o prazo na sacola. Pelo perfil do Reclame Aqui, a Océane respondeu 92,1% das reclamações do semestre, o perfil exibe 88,6% de solução entre as avaliadas e está na melhor janela entre as que o perfil mostra. O que o perfil mostra de ruim é a entrega: produto não recebido lidera os problemas, e a Ótima ainda é recente.",
+          "O EMCASA na Océane dá 10% OFF no pedido, no site e no app, em todas as formas de pagamento, para cliente novo e antigo. No site, digite EMCASA no campo \"Cupom de desconto\" da sacola e clique em \"Adicionar\", antes da identificação; a linha \"Descontos\" mostra o abatido. No app, o cupom entra na Sacola. Testamos o cupom no carrinho. As regras e o passo a passo estão no [cupom Océane](/cupons/oceane) e em [como usar o EMCASA na Océane](/reviews/cupom-oceane-como-usar)."
+        ],
+        "emphasis": "Eu compraria na Océane pelo site ou pelo app, sem data marcada: a reputação do semestre dá segurança para pagar, e a entrega é o que eu conferiria antes, na sacola.",
+        "emphasisAfterParagraph": 1,
+        "links": [
+          {
+            "label": "Ir para a Océane com o EMCASA",
+            "href": "https://www.oceane.com.br/?utmi_pc=emcasa",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Océane",
+            "href": "/cupons/oceane"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento. Confira a reputação da loja antes de pagar: os números do perfil estão no começo do artigo.",
+          "Qual a nota da Océane no Reclame Aqui? Nos seis meses do painel, a nota é 8,3 e a reputação é Ótima. As outras abas de período mostram reputação Boa, e a comparação está no capítulo de pontos de atenção.",
+          "Quais as reclamações mais comuns da Océane? Na aba Geral, que reúne até três anos, a categoria mais citada é Maquiagem, o problema mais citado é \"Produto não recebido\" e o produto mais citado é \"Kit de maquiagem\". O capítulo de pontos de atenção traz os percentuais.",
+          "A Océane responde as reclamações no Reclame Aqui? Responde: o painel mostra 92,1% das reclamações do semestre respondidas, com o tempo médio de resposta no quadro do começo.",
+          "Como conferir se o perfil é o da Océane? Pelo CNPJ do rodapé do site e pelo nome do perfil, \"Océane Beauty & Smart - Loja Online\"."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-23"
+  },
+  {
+    "id": 1295,
+    "slug": "oceane-e-confiavel",
+    "locale": "pt",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "oceane",
+    "title": "Océane é confiável? Quem vende, onde comprar, pagamento e trocas",
+    "seoTitle": "Océane é confiável? CNPJ, canais e trocas",
+    "type": "Editorial",
+    "description": "Quem está por trás da Océane, onde ela vende, o que o site diz sobre pagamento e troca e o que conferir antes de comprar, com o CNPJ do rodapé como ponto de partida.",
+    "metaDescription": "EMCASA dá 10% OFF na Océane. Antes, veja quem vende, o CNPJ no rodapé, os canais, o pagamento e as regras de troca da loja.",
+    "image": "/images/reviews/oceane/oceane-e-confiavel-capa.webp",
+    "imageAlt": "Painel verde com o logo Océane e a chamada “É loja confiável?”, ao lado da foto oficial de uma modelo com um tubo preto da marca junto ao rosto.",
+    "cta": {
+      "text": "Se decidir comprar na Océane, aplique o EMCASA na sacola para ter 10% OFF.",
+      "label": "Ir para a Océane com o EMCASA",
+      "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
+      "sponsored": true
+    },
+    "editorialNote": "Somos parceiros da Océane e podemos receber comissão pelo cupom. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "oceane-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "oceane-e-boa"
+      },
+      {
+        "slug": "cupom-oceane-como-usar"
+      },
+      {
+        "slug": "cupom-oceane-primeira-compra"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, pelo que dá para conferir: a Océane é uma marca de beleza de Vila Velha (ES), com CNPJ no rodapé, que vende pelo site, pelo app e em lojas próprias e publica as regras de pagamento e de troca. O ponto de atenção é a troca, que sai em vale-compras: veja abaixo o que a regra não diz."
+        ]
+      },
+      {
+        "heading": "Quem vende: a empresa, o CNPJ e o endereço",
+        "paragraphs": [
+          "A Océane se identifica no rodapé do site, com CNPJ, inscrição estadual e endereço. A loja informa: CNPJ 04.484.321/0007-55, inscrição estadual 083.669.13-2 e endereço na Rodovia Darly Santos, 4000, Galpão VII, Área 01, bairro Darly Santos, em Vila Velha (ES), CEP 29103-300. O atendimento, segundo o rodapé, é de segunda a sexta, das 8h às 17h, exceto feriados.",
+          "Na página \"quem somos\", a marca conta que começou com os lenços removedores de esmalte (o Clean My Nails To Go ainda é vendido) e hoje tem maquiagem, skincare, cabelos, bem-estar e acessórios. O que cada linha entrega está no guia [Océane é boa?](/reviews/oceane-e-boa); aqui fica só a empresa.",
+          "O rodapé não traz a razão social; quem quer conferir o cadastro tem o CNPJ como ponto de partida."
+        ]
+      },
+      {
+        "heading": "Onde a Océane vende de verdade",
+        "paragraphs": [
+          "Os canais da própria Océane são o site, o aplicativo e as lojas próprias. O que o site oficial mostra:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Canal",
+            "O que o site traz"
+          ],
+          "rows": [
+            [
+              "Site oficial",
+              "Loja completa, com a sacola e a identificação antes do pagamento"
+            ],
+            [
+              "Aplicativo",
+              "Google Play e App Store; o cupom entra na Sacola"
+            ],
+            [
+              "Lojas físicas",
+              "Link \"Loja física\" no rodapé"
+            ],
+            [
+              "Revenda, parcerias e vendas corporativas",
+              "Links próprios no rodapé, para quem quer revender ou comprar em volume"
+            ],
+            [
+              "Redes sociais",
+              "Instagram, Facebook, TikTok, Pinterest, X e YouTube"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/oceane/oceane-e-confiavel-esponja-flat-blend.webp",
+          "alt": "Esponjas de maquiagem Flat Blend da Océane",
+          "caption": "A Flat Blend é uma das esponjas vendidas no site oficial.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.oceane.com.br/esponja-de-maquiagem-flat-blend-rosa-claro-oceane-ap2001238c0306/p"
+        },
+        "postParagraphs": [
+          "Sobre as lojas físicas, o que está confirmado é que a marca tem lojas próprias: a página da Black Month diz que a compra acontece no site e nas lojas próprias e que \"os preços poderão variar de acordo com o canal\". Para ir pessoalmente, o caminho é o link \"Loja física\" do rodapé do site.",
+          "O EMCASA na Océane vale no site e no app. Em qualquer outro lugar que venda produtos da marca, as regras de preço, frete e troca são as de quem vende ali, e não as da página da Océane descritas adiante. O mesmo código existe em outras lojas parceiras do site; aqui, a regra descrita é a do EMCASA na Océane."
+        ]
+      },
+      {
+        "heading": "Pagamento e checkout",
+        "paragraphs": [
+          "Na política de pagamento, o cartão de crédito vale nas bandeiras Visa, MasterCard, American Express, Diners Club, Elo e Hipercard, em até 6x sem juros no site todo, com parcela mínima de R$ 30. O Pix sai por QR Code no computador e por copia e cola no celular. Na página da Black Month, a loja lista também PicPay, boleto e Ame Digital; como esse quadro é de campanha, confira na hora de pagar o que a sacola oferece.",
+          "Sobre segurança, a política diz que os dados do cartão são criptografados e enviados à operadora do cartão, e que a loja não guarda registro deles.",
+          "Um ponto prático: para pagar, o site pede identificação com e-mail e senha depois do carrinho, então a compra pede cadastro na loja. O cupom entra antes disso. No site, digite EMCASA no campo \"Cupom de desconto\" da sacola e clique em \"Adicionar\", antes da identificação; a linha \"Descontos\" mostra o abatido. No app, o cupom entra na Sacola. O EMCASA na Océane dá 10% OFF no pedido, vale em todas as formas de pagamento e para cliente novo e antigo."
+        ]
+      },
+      {
+        "heading": "A troca e a devolução: o que a loja promete",
+        "paragraphs": [
+          "A troca é o ponto em que a confiança numa loja online costuma ser testada, então vale ler a regra antes de pagar. Pela página \"Trocas e devoluções\":"
+        ],
+        "bullets": [
+          "**Prazo:** a loja aceita a devolução em até 7 dias corridos do recebimento e o pedido por defeito em até 30 dias corridos.",
+          "**Estado do produto:** sem sinais de uso, na embalagem original, com a DANFE (a nota fiscal), todos os lacres, etiquetas, acessórios e manuais.",
+          "**O que a lei garante:** Pelo Código de Defesa do Consumidor, quem compra pela internet pode desistir em até 7 dias do recebimento e receber o dinheiro de volta, e o Procon-SP orienta que a embalagem intacta não pode ser exigida para isso. Para reclamar de defeito, o prazo legal é de 30 dias para produto não durável, como maquiagem, e de 90 para durável, como a mini geladeira.",
+          "**Como pedir:** por e-mail, para info@oceane.com.br, com número do pedido, lote, validade, nome e foto do produto e o motivo. A resposta vem em até 24 horas úteis.",
+          "**Como devolver:** pelos Correios, com um código de autorização de postagem que a loja envia em até 24 horas úteis. É um envio só por pedido.",
+          "**Análise:** até 9 dias úteis depois que o produto chega ao centro de distribuição.",
+          "**O que a loja não aceita:** embalagem aberta ou avariada, produto só no plástico bolha, sem embalagem, sem identificação do pedido ou sem nota fiscal."
+        ],
+        "postParagraphs": [
+          "O ponto que mais pesa: a Océane não faz troca de produto por produto. A página diz que, nos casos de troca, será emitido um vale-compras. Quem quer o dinheiro de volta pede a devolução, e o reembolso sai no cartão ou em conta, de acordo com o valor pago pelo produto devolvido. Com o cupom, o valor pago já tem o desconto, e é ele que a loja devolve. Se a devolução derrubar o total abaixo do valor que deu direito a um brinde, o brinde volta para a loja."
+        ]
+      },
+      {
+        "heading": "O que a Océane não diz sobre a troca",
+        "paragraphs": [
+          "Alguns detalhes mudam a conta de uma troca, e o texto da loja não os traz:"
+        ],
+        "bullets": [
+          "quem paga o frete da devolução e o do reenvio;",
+          "quanto tempo passa entre a análise aprovada e o estorno;",
+          "o prazo de entrega de uma troca;",
+          "o valor, a validade e o uso do vale-compras;",
+          "um telefone ou formulário para pedir a troca: o canal descrito é o e-mail;",
+          "o prazo de resposta quando o produto chega errado."
+        ],
+        "postParagraphs": [
+          "A armadilha é a embalagem. A loja pede o produto na embalagem original, com nota e lacres, e diz que não aceita embalagem aberta. Na desistência da compra online em até 7 dias, porém, o Procon-SP orienta que a embalagem intacta não pode ser exigida. No pedido por defeito, a foto do problema vai junto, por e-mail."
+        ]
+      },
+      {
+        "heading": "Entrega e frete grátis",
+        "paragraphs": [
+          "Na política de entrega, a loja diz que envia pelos Correios e por transportadoras, calcula o frete pelo CEP na sacola, faz até 3 tentativas de entrega e deixa o rastreio em \"Meus pedidos\". O frete grátis vale acima de um valor mínimo, que pode variar por estado e só existe em algumas regiões, e a loja o usa em campanhas: a sacola mostra o valor e as opções depois que você coloca o CEP.",
+          "Aplique o cupom, informe o CEP e confira o total com frete. Faça isso antes de decidir entre uma compra grande e duas pequenas."
+        ]
+      },
+      {
+        "heading": "Antes de comprar: o que conferir",
+        "paragraphs": [
+          "Antes de pagar, passe por estas seis conferências, na ordem da compra."
+        ],
+        "checklist": {
+          "title": "Antes e depois de fechar o pedido",
+          "items": [
+            "O pedido está no site oficial ou no app da Océane, com o CNPJ do rodapé?",
+            "O EMCASA na Océane entrou no campo Cupom de desconto da sacola, antes da identificação, e a linha Descontos mostra o abatido?",
+            "O frete na sacola, com o seu CEP digitado, é o que você esperava?",
+            "Você guardou a nota fiscal (DANFE), o número do pedido, o lote e a validade?",
+            "Se o produto chegar com defeito, você sabe que o pedido vai por e-mail, com foto, e que o prazo legal é de 30 dias para maquiagem e de 90 para produto durável?",
+            "Se for devolver por arrependimento, você perguntou por e-mail quem paga a postagem?"
+          ]
+        }
+      },
+      {
+        "heading": "Dá para confiar na Océane?",
+        "paragraphs": [
+          "Pelo que a loja publica, sim: CNPJ e endereço no rodapé, formas de pagamento escritas, política de troca com prazo e e-mail de contato, e reputação recente Ótima no Reclame Aqui: nos seis meses até outubro de 2026, nota 8,3, enquanto os períodos mais longos aparecem como Boa, e o problema mais citado no histórico é produto não recebido. Os indicadores e o que a nota mede estão em [Océane no Reclame Aqui: nota e reputação](/reviews/oceane-reclame-aqui-nota-reputacao). A resposta vem com uma condição: conhecer a regra da troca antes de pagar. A Océane troca por vale-compras e pede embalagem original e lacres. Para quem compra maquiagem e pode se arrepender da cor, esse é o custo a pesar.",
+          "Se você decidiu comprar, o EMCASA na Océane dá 10% OFF no pedido, no site e no app, em todas as formas de pagamento, para cliente novo e antigo. O passo a passo da sacola está no [cupom Océane](/cupons/oceane)."
+        ],
+        "emphasis": "Minha régua para uma loja online é simples: CNPJ visível, regra de troca escrita antes do pagamento e um canal de resposta que não seja só rede social. A Océane tem os três. O que eu faria antes de comprar é ler a regra de troca e guardar a nota.",
+        "emphasisAfterParagraph": 1,
+        "links": [
+          {
+            "label": "Ir para a Océane com o EMCASA",
+            "href": "https://www.oceane.com.br/?utmi_pc=emcasa",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Océane",
+            "href": "/cupons/oceane"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento. Ele entra na sacola, antes da identificação.",
+          "A Océane é confiável? Pelo que a loja publica, ela mostra CNPJ e endereço no rodapé, as formas de pagamento e a política de troca. O que pesa é a troca em vale-compras, descrita no capítulo sobre trocas.",
+          "A Océane tem loja física? Tem lojas próprias, e o rodapé do site traz o link \"Loja física\". O EMCASA vale no site e no app.",
+          "Como trocar um produto da Océane? Por e-mail, para info@oceane.com.br: a loja aceita a devolução em até 7 dias corridos do recebimento e o pedido por defeito em até 30, e a troca sai como vale-compras. Pela lei, a desistência da compra online em até 7 dias dá direito a reembolso, e o prazo para reclamar de defeito é de 30 dias para produto não durável e de 90 para durável.",
+          "A Océane aceita Pix? Sim. O Pix vale por QR Code no computador ou por copia e cola no celular, e o EMCASA vale em todas as formas de pagamento da loja."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-23"
+  },
+  {
+    "id": 1285,
+    "slug": "oceane-e-boa",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "23 de novembro de 2026",
+    "publishedAtISO": "2026-11-23",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASA",
+    "affiliate": "oceane",
+    "title": "Océane é boa? O que a loja informa sobre a marca, os selos e as linhas",
+    "seoTitle": "Océane é boa? Marca, selos e linhas pelo site",
+    "type": "Guia de Marca",
+    "description": "Marca brasileira, com skincare que a loja diz produzir na Coreia do Sul e selos vegano e cruelty free por produto: veja o que conferir nas linhas, nos kits e nos preços.",
+    "metaDescription": "EMCASA dá 10% OFF na Océane. Veja o que a loja informa sobre a marca, as linhas, os selos veganos e cruelty free e a faixa de preço.",
+    "image": "/images/reviews/oceane/oceane-e-boa-capa.webp",
+    "imageAlt": "Três batons Océane Edition erguidos por mãos de três tons de pele, com as amostras de cor nos antebraços e os nomes dos tons, de Ivory a Espresso, ao lado. A capa traz o logo Océane e a chamada “A marca é boa?”.",
+    "cta": {
+      "text": "Veja os tons, os selos e a origem na página de cada produto. Na sacola, aplique EMCASA e confira os 10% OFF.",
+      "label": "Ir para a Océane",
+      "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
+      "sponsored": true
+    },
+    "editorialNote": "Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-oceane-como-usar"
+      },
+      {
+        "slug": "cupom-oceane-primeira-compra"
+      },
+      {
+        "slug": "oceane-reclame-aqui-nota-reputacao"
+      },
+      {
+        "slug": "oceane-e-confiavel"
+      },
+      {
+        "slug": "black-friday-oceane"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer maquiagem com selo vegano e cruelty free e confere o selo na página do produto antes de pagar.",
+        "Você procura skincare e quer saber, produto a produto, se a página diz que ele foi feito na Coreia do Sul."
+      ],
+      "skipIf": [
+        "Você quer saber se a base ou o sérum funcionam na sua pele: só o uso responde isso.",
+        "Você espera um selo da marca inteira: vegano e cruelty free mudam de um produto para outro."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Océane, a escolha sai da página de cada produto: na maquiagem, o formato e os tons; em tudo, os selos vegano e cruelty free, que são de cada produto e não da marca inteira; e a origem, que a ficha informa. A marca é brasileira, e só parte do skincare traz \"Feito na Coreia do Sul\" na ficha."
+        ]
+      },
+      {
+        "heading": "Quem é a Océane: uma marca brasileira",
+        "paragraphs": [
+          "A Océane é uma marca brasileira, nascida em 2008, como conta o blog da marca. A loja informa: o primeiro produto foram os lenços removedores de esmalte. Na apresentação, ela diz que \"não somos uma marca de beleza\", e sim \"uma nova forma de comprar, consumir e pensar a beleza\".",
+          "Na prática, é um catálogo grande: mais de mil produtos entre maquiagem, skincare, cabelos, bem-estar e presentes. Quem chega querendo \"a base da Océane\" ou \"o sérum da Océane\" encontra versões, tons e kits, e a pergunta \"é boa\" precisa ser feita produto a produto. Para saber quem vende, por quais canais e como funcionam as trocas, veja se a [Océane é confiável](/reviews/oceane-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "A Océane é coreana? Só o skincare, e só onde a página diz",
+        "paragraphs": [
+          "A marca é brasileira. O que a loja diz vir da Coreia do Sul é parte do skincare, e só vale para o produto cuja página escreve isso.",
+          "Na apresentação da marca, a Océane fala em \"skincare produzido na Coreia do Sul\". Em alguns produtos, a origem vem escrita:"
+        ],
+        "bullets": [
+          "o Ultra Repair Eye Cream, creme para a área dos olhos, tem \"Feito na Coreia do Sul\" na descrição;",
+          "o Maternity Serum, da linha para gestantes, também traz \"Feito na Coreia do Sul\"."
+        ],
+        "postParagraphs": [
+          "Há dois cuidados. O primeiro é a maquiagem, que não traz a Coreia do Sul como origem. O segundo é a diferença entre fabricar e desenvolver: o Collagen Microneedle Serum diz \"Desenvolvido na Coreia do Sul\", o que fala de onde a fórmula foi criada, e os textos que citam a Coreia só por um ativo também não fazem o produto ser feito lá. Na dúvida, procure na ficha a frase \"Feito na Coreia do Sul\"."
+        ]
+      },
+      {
+        "heading": "A Océane é vegana e cruelty free? O selo é do produto",
+        "paragraphs": [
+          "Vegano e cruelty free são selos que a página de cada produto traz, ou não traz. Não existe um selo único da marca: dois produtos da mesma linha podem ter selos diferentes.",
+          "A contagem abaixo vem do campo de selos de cada página de produto do site.",
+          "A maior parte do catálogo tem os dois selos. No vegano, a maquiagem vai na frente, com cerca de oito em cada dez produtos, e o skincare fica perto de seis em cada dez. Mas há produto sem nenhum: o Collagen Microneedle Serum, apresentado como desenvolvido na Coreia do Sul, não mostra selo, e as esponjas Flat Blend também não. O bem-estar e organização é a família com menos selos vegano.",
+          "Regra prática, sem teste nosso, com a premissa de que os selos mudam de um produto para outro mesmo dentro da linha: se o selo pesa na sua compra, confira em três passos:"
+        ],
+        "comparisonTable": {
+          "caption": "Selos por família de produto no site da Océane. A soma do site inclui dois itens fora dessas famílias.",
+          "headers": [
+            "Família",
+            "Produtos",
+            "Com selo Vegano",
+            "Com selo Cruelty Free"
+          ],
+          "rows": [
+            [
+              "Maquiagem",
+              "922",
+              "758",
+              "835"
+            ],
+            [
+              "Skincare",
+              "285",
+              "166",
+              "259"
+            ],
+            [
+              "Cabelos",
+              "63",
+              "50",
+              "59"
+            ],
+            [
+              "Bem-estar e organização",
+              "76",
+              "14",
+              "37"
+            ],
+            [
+              "Site todo",
+              "1.348",
+              "988",
+              "1.190"
+            ]
+          ]
+        },
+        "checklist": {
+          "items": [
+            "Abra a página do produto que você quer.",
+            "Procure os selos \"Vegano\" e \"Cruelty Free\".",
+            "Em kit, confira os selos do kit: ele tem página própria, e alguns kits não mostram selo nenhum."
+          ]
+        }
+      },
+      {
+        "heading": "As linhas da Océane, uma por uma",
+        "paragraphs": [
+          "A Océane divide a maquiagem e o skincare em linhas, e o que muda de uma para outra é o tipo de produto. Veja o que cada uma vende."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Linha",
+            "Onde aparece",
+            "Peças que a loja mostra"
+          ],
+          "rows": [
+            [
+              "Océane Edition",
+              "Maquiagem",
+              "batom Glossy, pó solto Cover Me Up, blush e iluminador em bastão, versões mini"
+            ],
+            [
+              "Minis Edition",
+              "Presentes e kits de maquiagem",
+              "pares e trios de minis em kit de presente"
+            ],
+            [
+              "4YOU",
+              "Maquiagem e skincare",
+              "iluminador e blush em bastão, lip oil; hidratante labial, primer e hidratante facial"
+            ],
+            [
+              "Purple",
+              "Maquiagem",
+              "iluminador Just Glow Bouquet, caneta batom, delineador"
+            ],
+            [
+              "Limited",
+              "Maquiagem",
+              "contorno e blush em bastão, paleta Shine"
+            ],
+            [
+              "Capri",
+              "Maquiagem",
+              "batom, espelho compacto"
+            ],
+            [
+              "Nádia Tambasco by Océane",
+              "Maquiagem",
+              "fixador Perfect Fix, brilho Lip To Glow Luxe, paleta To Go Basic"
+            ],
+            [
+              "Larissa Manoela by Océane",
+              "Maquiagem",
+              "paleta de sombras Glam Party e kits com pincel"
+            ],
+            [
+              "Travel",
+              "Skincare",
+              "creme para mãos, bruma facial com niacinamida, hidratante labial"
+            ],
+            [
+              "Sleep",
+              "Skincare",
+              "máscara facial noturna, máscara de olhos para dormir, máscara labial noturna"
+            ],
+            [
+              "Maternity",
+              "Skincare",
+              "sérum, hidratante, creme e óleo para estrias, como a loja nomeia, para gestantes"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Fora desses dois grupos, o menu traz cabelos (shampoo, condicionador, máscara capilar e finalizadores), bem-estar e organização (velas perfumadas, aromaterapia, bem-estar sexual e pet) e presentes por faixa de preço.",
+          "Na dúvida entre linhas, escolha pela peça. Quem quer miniaturas e kits de presente olha a Minis Edition; quem viaja olha a Travel; quem está grávida vê a Maternity."
+        ]
+      },
+      {
+        "heading": "Maquiagem: o que a página de cada produto lista",
+        "paragraphs": [
+          "Na maquiagem, o que decide a compra é o formato e o tom, e é isso que as páginas listam."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Formatos que a loja vende",
+            "Tons na página"
+          ],
+          "rows": [
+            [
+              "Base",
+              "líquida Skin Foundation 35 ml, bastão 8 g, cushion 12 g (as três semi-matte) e Skin Tint FPS 30 de 30 ml",
+              "de 8 a 11 por formato"
+            ],
+            [
+              "Corretivo",
+              "bastão Concealer Stick 3,5 g e líquido Concealer 15 g",
+              "18 no bastão (de 1.1 a 5.3) e 7 no líquido (de Fair a Deep)"
+            ],
+            [
+              "Blush",
+              "bastão (inclusive mini de 6 g e cintilante), líquido 20 ml, duo cremoso e em pó, glossy, cream e fluffy",
+              "por cor"
+            ],
+            [
+              "Pó",
+              "compacto translúcido Retouch My Glam (8 g e mini 1,8 g), solto translúcido Cover Me Up (13 g e mini 3 g) e Compact Powder 8,5 g",
+              "Compact Powder em 8 tons"
+            ],
+            [
+              "Batom",
+              "Glossy 3,2 g, mini semi-matte 2 g e mini líquido matte 1 g",
+              "por cor"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para escolher, o caminho mais seguro é pelo nome do tom que a página usa: a base líquida e o Skin Tint vão de 110f a 550d, a cushion de 05 a 80, e o bastão tem nomes como Ivory, Honey e Espresso. Confirme o nome do tom na sacola antes de fechar o pedido.",
+          "Se a sua dúvida é tipo de pele, como \"base boa para pele oleosa\", procure na página o que a Océane indica para aquele produto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/oceane/oceane-e-boa-batom-the-lipstick-rose-pink.webp",
+            "alt": "Batom Glossy Rosé Pink, da linha Océane Edition",
+            "caption": "Batom Glossy Rosé Pink, da linha Océane Edition. Imagem: Océane.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.oceane.com.br/batom-glossy-the-lipstick-edition-rose-pink-ap2001152co047f/p"
+          },
+          {
+            "src": "/images/reviews/oceane/oceane-e-boa-po-translucido-cover-me-up.webp",
+            "alt": "Pó solto translúcido Cover Me Up, da linha Océane Edition",
+            "caption": "Cover Me Up, pó solto de 13 g. Imagem: Océane.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.oceane.com.br/po-translucido-solto-cover-me-up-powder-oceane-edition-ap2001126co026f/p"
+          }
+        ]
+      },
+      {
+        "heading": "Skincare: séruns, protetor e a linha para gestantes",
+        "paragraphs": [
+          "No skincare, o ativo no nome do produto é o que separa um sérum do outro, e a Océane vende vários: vitamina C com ácido ferúlico, cica, retinol com niacinamida, ácido hialurônico, ginseng, microespículas (o Collagen Microneedle Serum, desenvolvido na Coreia do Sul, segundo a ficha), probióticos, ácido poliglutâmico e um antiacne. O que cada ativo faz é a loja quem descreve, na página do produto.",
+          "O protetor solar facial é o Daily Sunscreen, FPS 70, de 40 g. A linha Maternity é a que a loja indica para gestantes, com sérum, hidratante facial, espuma de limpeza, creme e óleo para estrias e balm para as mamas. Grávida ou amamentando, converse com o médico que acompanha a gestação antes de usar qualquer ativo.",
+          "A Travel reúne itens pequenos, como o creme de mãos e a bruma facial, e a Sleep, as máscaras noturnas de rosto, olhos e lábios. Se o skincare é a sua pergunta, abra a página do produto antes de qualquer outra coisa: é lá que estão a origem, os selos e o modo de uso que a loja indica."
+        ]
+      },
+      {
+        "heading": "O que aparece primeiro na ordem de mais vendidos da loja",
+        "paragraphs": [
+          "Na ordem \"Mais vendidos\" do site, o topo é de itens baratos: nove dos dez custam menos de R$ 50. A lista é da loja, mostrada no site; nós não temos o número de vendas, e a ordem pode mudar."
+        ],
+        "comparisonTable": {
+          "caption": "Ordem \"Mais vendidos\" e preços do site em 23/11.",
+          "headers": [
+            "Posição",
+            "Produto",
+            "Preço no dia",
+            "Selos na página"
+          ],
+          "rows": [
+            [
+              "1",
+              "Esponja Flat Blend Rosa Claro",
+              "R$ 29,90",
+              "nenhum"
+            ],
+            [
+              "2",
+              "Máscara Facial de Limão e Hortelã 8 g",
+              "R$ 12,90",
+              "Vegano e Cruelty Free"
+            ],
+            [
+              "3",
+              "Esponja Flat Blend Rosa Escuro",
+              "R$ 29,90",
+              "nenhum"
+            ],
+            [
+              "4",
+              "Batom Glossy Rosé Pink Edition 3,2 g",
+              "R$ 42,90",
+              "Vegano e Cruelty Free"
+            ],
+            [
+              "5",
+              "Mini Esponja Powder Puff Rosa",
+              "R$ 19,90",
+              "Cruelty Free"
+            ],
+            [
+              "6",
+              "Cover Me Up Pó Translúcido 13 g",
+              "R$ 69,90",
+              "Vegano e Cruelty Free"
+            ],
+            [
+              "7",
+              "Máscara Dead Sea Minerals 8 g",
+              "R$ 12,90",
+              "Cruelty Free"
+            ],
+            [
+              "8",
+              "Sacola de presente pequena",
+              "R$ 8,00",
+              "nenhum"
+            ],
+            [
+              "9",
+              "Bronzer Stick Stoked 8 g",
+              "R$ 49,90",
+              "Vegano e Cruelty Free"
+            ],
+            [
+              "10",
+              "Luva descartável para banho de pet",
+              "R$ 8,90",
+              "Vegano e Cruelty Free"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Vale ler a lista com dois cuidados. O primeiro: o que aparece primeiro é acessório e máscara de 8 g, e isso diz que o item vem à frente na loja, não que seja o melhor da categoria. O segundo: mesmo nesta lista, três dos dez não trazem selo nenhum, mais um motivo para conferir o selo produto a produto."
+        ]
+      },
+      {
+        "heading": "Quanto custa por categoria, com o EMCASA",
+        "paragraphs": [
+          "A faixa muda muito de uma categoria para outra, e o EMCASA tira 10% do pedido em todas. A tabela mostra a faixa de cada uma e a conta do cupom nas duas pontas."
+        ],
+        "comparisonTable": {
+          "caption": "Preços avulsos do site, no dia da leitura, antes do frete.",
+          "headers": [
+            "Categoria",
+            "Faixa do dia",
+            "Com o EMCASA (10%)"
+          ],
+          "rows": [
+            [
+              "Base (líquida, bastão, cushion, skin tint)",
+              "R$ 49,90 a R$ 94,90",
+              "R$ 44,91 a R$ 85,41"
+            ],
+            [
+              "Corretivo (líquido e bastão)",
+              "R$ 39,90 a R$ 67,90",
+              "R$ 35,91 a R$ 61,11"
+            ],
+            [
+              "Blush",
+              "R$ 39,90 a R$ 84,90",
+              "R$ 35,91 a R$ 76,41"
+            ],
+            [
+              "Rosto (pó, iluminador, bronzer, contorno)",
+              "R$ 39,90 a R$ 109,90",
+              "R$ 35,91 a R$ 98,91"
+            ],
+            [
+              "Boca",
+              "R$ 29,90 a R$ 66,90",
+              "R$ 26,91 a R$ 60,21"
+            ],
+            [
+              "Olhos",
+              "R$ 17,90 a R$ 69,90",
+              "R$ 16,11 a R$ 62,91"
+            ],
+            [
+              "Paleta",
+              "R$ 32,90 a R$ 199,90",
+              "R$ 29,61 a R$ 179,91"
+            ],
+            [
+              "Esponjas",
+              "R$ 19,90 a R$ 34,90",
+              "R$ 17,91 a R$ 31,41"
+            ],
+            [
+              "Séruns de skincare",
+              "R$ 55,90 a R$ 99,90",
+              "R$ 50,31 a R$ 89,91"
+            ],
+            [
+              "Máscara facial",
+              "R$ 12,90 a R$ 178,90",
+              "R$ 11,61 a R$ 161,01"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa, pelo desconto que o EMCASA tirou na sacola: a coluna da direita aplica os 10% às duas pontas de cada faixa.",
+          "O que vimos na sacola: no site, o cupom tirou 10% de um creme para os olhos; no app, tirou 10% de uma sacola que já tinha duas peças com preço especial do app; e, na Black Month da loja, tirou 10% sobre o preço de oferta. Promoção do tipo \"leve X por R$ Y\" e brinde nós não testamos: nesses casos, confira a linha \"Descontos\" na sacola antes de pagar.",
+          "Para usar, no site digite EMCASA no campo \"Cupom de desconto\" da sacola e clique em \"Adicionar\", antes da identificação; a linha \"Descontos\" mostra o quanto saiu. No app, o cupom entra na Sacola. O EMCASA na Océane vale para cliente novo e antigo e em todas as formas de pagamento.",
+          "O frete não entra na conta. Aplique o cupom, informe o CEP e confira o total com frete. Segundo a política de entrega, o frete grátis vale acima de um valor mínimo, que pode variar por estado."
+        ]
+      },
+      {
+        "heading": "Kits e presentes: quando o kit compensa",
+        "paragraphs": [
+          "Metade do catálogo da Océane é kit, e kit só compensa quando você usaria todas as peças dele. São 508 kits de maquiagem e 167 de skincare, e a loja dá a cada um página, preço e selos próprios.",
+          "O kit de presente mais direto é o Minis Edition, com pares e trios de minis: os preços do dia vão de R$ 69,90 a R$ 99,90, e a sacola de presente sai por R$ 8,00 ou R$ 10,00. Mini serve para quem quer experimentar um tom antes do tamanho cheio, ou para presentear sem gastar muito.",
+          "O par de blush e iluminador em bastão vem em cores fechadas: a página do kit lista o blush Pink e o iluminador Bronze, os dois de 6 g. Confira as cores ali antes de fechar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/oceane/oceane-e-boa-kit-minis-trio-batons.webp",
+            "alt": "Kit Presente Minis Edition Trio de Batons, da Océane",
+            "caption": "Kit Presente Minis Edition, trio de batons de 2 g. Imagem: Océane.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.oceane.com.br/kit-presente-minis-edition-trio-de-batons-2g-ap2001403cunif/p"
+          }
+        ],
+        "comparisonTable": {
+          "caption": "Visto na sacola do site: o EMCASA tirou 10% dos dois kits.",
+          "headers": [
+            "Kit Minis Edition",
+            "Preço do kit",
+            "EMCASA tirou",
+            "Total com o EMCASA"
+          ],
+          "rows": [
+            [
+              "Blush + Iluminador em bastão 6 g",
+              "R$ 69,90",
+              "R$ 6,99",
+              "R$ 62,91"
+            ],
+            [
+              "Trio de Batons 2 g",
+              "R$ 99,90",
+              "R$ 9,99",
+              "R$ 89,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos kits de skincare, a regra é a mesma: veja os selos do kit, não só os dos produtos soltos."
+        ]
+      },
+      {
+        "heading": "Para quem a Océane faz sentido",
+        "paragraphs": [
+          "A resposta para \"é boa\" depende do que você procura. Para quem quer maquiagem com selo vegano e cruelty free por produto, a Océane deixa conferir antes de pagar, produto a produto, e o EMCASA entra na sacola. Para quem procura skincare de origem coreana, vale a página do produto, não a marca. Para quem quer saber se a base ou o sérum funcionam na pele, o rótulo não responde."
+        ],
+        "emphasis": "Eu julgo a compra pelo que dá para conferir antes de pagar. Na Océane, a página de cada produto mostra o tom, o selo e a origem. Para mim, vale quando você confere isso primeiro e fecha o pedido com o EMCASA na Océane.",
+        "links": [
+          {
+            "label": "Ver o cupom Océane",
+            "href": "/cupons/oceane"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento. O passo a passo e o teste estão na página do [cupom Océane](/cupons/oceane).",
+          "A Océane é uma marca brasileira? Sim. O que a loja descreve como feito na Coreia do Sul é parte do skincare, produto a produto.",
+          "A Océane é coreana? A marca não: é brasileira. A origem coreana vale só para o produto de skincare cuja página escreve isso, e a maquiagem não traz essa origem.",
+          "A Océane é vegana e cruelty free? Depende do produto: os selos aparecem na página de cada um, não na marca. A maior parte do catálogo traz os dois, e o capítulo dos selos mostra a contagem e como conferir.",
+          "Os produtos da Océane são bons? Dá para conferir origem, selos, tons e preço antes de comprar, e os capítulos acima mostram como. Resultado na pele só o uso responde."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-23"
   }
 ];
