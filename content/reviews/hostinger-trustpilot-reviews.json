@@ -116,11 +116,11 @@
       },
       "images": [
         {
-          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Top of Hostinger’s Trustpilot profile, with a 4.6 score, a claimed profile, a paid subscription and the notice that the company invites customers to review",
-          "caption": "Hostinger’s Trustpilot profile. Image: Bruno’s screenshot.",
+          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+          "alt": "Top of Hostinger’s Trustpilot profile, with a 4.6 score, 74,384 reviews, a profile claimed since May 2017 and a paid subscription",
+          "caption": "Hostinger’s Trustpilot profile in November.",
           "objectFit": "contain",
-          "aspectRatio": 3.7969
+          "aspectRatio": 4.8988
         }
       ],
       "postParagraphs": [

@@ -116,11 +116,11 @@
       },
       "images": [
         {
-          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Parte superior del perfil de Hostinger en Trustpilot, con calificación 4,6, perfil reclamado, suscripción paga y el aviso de que la empresa invita a los clientes a opinar",
-          "caption": "Perfil de Hostinger en Trustpilot. Imagen: captura de Bruno.",
+          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+          "alt": "Parte superior del perfil de Hostinger en Trustpilot, con calificación 4,6, 74.384 opiniones, perfil reclamado desde mayo de 2017 y suscripción paga",
+          "caption": "Perfil de Hostinger en Trustpilot en noviembre.",
           "objectFit": "contain",
-          "aspectRatio": 3.7969
+          "aspectRatio": 4.8988
         }
       ],
       "postParagraphs": [

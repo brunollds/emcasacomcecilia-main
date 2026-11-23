@@ -119,11 +119,11 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Trustpilot의 Hostinger 기업 프로필 상단. 평점 4.6, 회사가 관리하는 프로필, 유료 구독과 고객 리뷰 요청 안내",
-          "caption": "Trustpilot의 Hostinger 프로필. 이미지: Bruno가 찍은 화면.",
+          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+          "alt": "Trustpilot의 Hostinger 기업 프로필 상단. 평점 4.6, 리뷰 74,384개, 2017년 5월부터 회사가 관리하는 프로필과 유료 구독 표시",
+          "caption": "11월의 Trustpilot Hostinger 프로필.",
           "objectFit": "contain",
-          "aspectRatio": 3.7969
+          "aspectRatio": 4.8988
         }
       ]
     },

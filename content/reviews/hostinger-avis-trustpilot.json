@@ -116,11 +116,11 @@
       },
       "images": [
         {
-          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Haut du profil Trustpilot de Hostinger, avec la note 4,6, le profil revendiqué, l’abonnement payant et l’avis indiquant que l’entreprise invite ses clients à laisser un avis",
-          "caption": "Profil Trustpilot de Hostinger. Image : capture d’écran de Bruno.",
+          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+          "alt": "Haut du profil Trustpilot de Hostinger, avec la note 4,6, 74 384 avis, le profil revendiqué depuis mai 2017 et l’abonnement payant",
+          "caption": "Profil Trustpilot de Hostinger en novembre.",
           "objectFit": "contain",
-          "aspectRatio": 3.7969
+          "aspectRatio": 4.8988
         }
       ],
       "postParagraphs": [

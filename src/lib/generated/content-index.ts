@@ -110769,17 +110769,17 @@ export const reviewsData: unknown[] = [
           "A cobrança indevida lidera as queixas. Na aba de principais problemas, o Reclame Aqui mostra três rankings, que valem para as reclamações dos últimos 3 anos da aba geral, e não só para os 6 meses. Os números são:"
         ],
         "bullets": [
-          "**Cobrança indevida:** 21,72%, no ranking de problemas. É o problema mais citado da lista.",
-          "**Provedores e serv. de internet:** 24,6%, no ranking de categorias. É o rótulo do perfil de telefonia e internet do Reclame Aqui, e não diz qual serviço da Hostinger gerou a queixa.",
-          "**Outro tipo de produto/serviço:** 11,95%, no ranking de produtos. Também não diz qual produto."
+          "**Cobrança indevida:** 21,75%, no ranking de problemas. É o problema mais citado da lista.",
+          "**Provedores e serv. de internet:** 25,38%, no ranking de categorias. É o rótulo do perfil de telefonia e internet do Reclame Aqui, e não diz qual serviço da Hostinger gerou a queixa.",
+          "**Outro tipo de produto/serviço:** 13,79%, no ranking de produtos. Também não diz qual produto."
         ],
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-principais-problemas.webp",
-            "alt": "Quadro de principais problemas comentados da Hostinger no Reclame Aqui, com cobrança indevida em 21,72%",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-principais-problemas-v2.webp",
+            "alt": "Quadro de principais problemas comentados da Hostinger no Reclame Aqui, com cobrança indevida em 21,75%",
             "caption": "Principais problemas comentados, aba geral do Reclame Aqui (até 3 anos).",
             "objectFit": "contain",
-            "aspectRatio": 1.2188
+            "aspectRatio": 1.2369
           }
         ],
         "postParagraphs": [
@@ -110834,11 +110834,11 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Topo do perfil da Hostinger no Trustpilot, com nota 4,6, 73.316 avaliações, perfil reivindicado, assinatura paga e o aviso de que a empresa convida os clientes a avaliar",
-            "caption": "Perfil da Hostinger no Trustpilot em outubro. Imagem: print do Bruno.",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Topo do perfil da Hostinger no Trustpilot, com nota 4,6, 74.384 avaliações, perfil reivindicado desde maio de 2017 e assinatura paga",
+            "caption": "Perfil da Hostinger no Trustpilot em novembro.",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ],
         "postParagraphs": [
@@ -110862,11 +110862,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Hostinger?",
         "paragraphs": [
-          "Pelo Reclame Aqui, sim. Nos seis meses até outubro, a reputação era Ótima, nota 8,4 (a mesma em 12 meses e no geral; o selo RA1000 valeu de maio a julho). A empresa respondeu 99,9% das 1.418 reclamações dos 6 meses e marcou 86,6% como resolvidas, e 78,5% de quem avaliou voltaria a fazer negócio.",
-          "A ressalva é o tipo de queixa. A cobrança indevida lidera o ranking de problemas, com 21,72%, e a resposta leva em média 7 dias e 23 horas. Na hospedagem, a renovação automática cobra sozinha antes do vencimento, e a ligação entre as duas coisas é uma leitura nossa.",
+          "Pelo Reclame Aqui, sim. Nos seis meses até outubro, a reputação era Ótima, nota 8,4 (a mesma em 12 meses e no geral; o selo RA1000 valeu de maio a julho). A empresa respondeu 99,9% das 1.418 reclamações do semestre. Das 685 que os consumidores avaliaram, 86,6% foram resolvidas, e 78,5% de quem avaliou voltaria a fazer negócio.",
+          "A ressalva é o tipo de queixa. Na aba geral, que junta as reclamações de até 3 anos, a cobrança indevida lidera o ranking de problemas, com 21,75%. Nos seis meses, a resposta levou em média 7 dias e 23 horas. Na hospedagem, a renovação automática cobra sozinha antes do vencimento, e a ligação entre as duas coisas é uma leitura nossa.",
           "Na prática: confira a data de renovação, desligue a renovação automática se não quiser continuar e abra o perfil no Reclame Aqui antes de contratar, porque os números mudam todo mês."
         ],
-        "emphasis": "Pelos números do Reclame Aqui, para quem vai contratar hospedagem, a escolha é contratar com a renovação automática sob controle, porque a nota é Ótima (8,4) e 86,6% das reclamações dos 6 meses foram resolvidas, mas a cobrança indevida lidera as queixas, com 21,72%."
+        "emphasis": "Pelos números do Reclame Aqui, para quem vai contratar hospedagem, a escolha é contratar com a renovação automática sob controle, porque a reputação é Ótima, com nota 8,4. Na aba geral, com as reclamações de até 3 anos, a cobrança indevida é o problema mais citado, com 21,75%."
       },
       {
         "heading": "Se você já decidiu",
@@ -110879,7 +110879,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "A Hostinger tem nota boa no Reclame Aqui? Nos 6 meses até outubro, a reputação era Ótima: nota 8,4 nos últimos 6 meses, nos últimos 12 meses e no geral.",
-          "Quais são as reclamações mais comuns da Hostinger? No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,72%, o item mais citado.",
+          "Quais são as reclamações mais comuns da Hostinger? No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,75%, o item mais citado.",
           "A Hostinger responde reclamações? Sim. 99,9% das reclamações dos últimos 6 meses foram respondidas, e 1 aguardava resposta.",
           "Como desligar a renovação automática da Hostinger? No hPanel, abra o perfil, vá em Faturamento e depois em Assinaturas, localize o serviço e clique na chave ao lado. Leia os avisos e confirme. O produto segue ativo até o vencimento.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20% (o registro de domínio fica de fora). A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
@@ -111037,11 +111037,11 @@ export const reviewsData: unknown[] = [
         },
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Top of Hostinger’s Trustpilot profile, with a 4.6 score, a claimed profile, a paid subscription and the notice that the company invites customers to review",
-            "caption": "Hostinger’s Trustpilot profile. Image: Bruno’s screenshot.",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Top of Hostinger’s Trustpilot profile, with a 4.6 score, 74,384 reviews, a profile claimed since May 2017 and a paid subscription",
+            "caption": "Hostinger’s Trustpilot profile in November.",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ],
         "postParagraphs": [
@@ -111329,11 +111329,11 @@ export const reviewsData: unknown[] = [
         },
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Parte superior del perfil de Hostinger en Trustpilot, con calificación 4,6, perfil reclamado, suscripción paga y el aviso de que la empresa invita a los clientes a opinar",
-            "caption": "Perfil de Hostinger en Trustpilot. Imagen: captura de Bruno.",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Parte superior del perfil de Hostinger en Trustpilot, con calificación 4,6, 74.384 opiniones, perfil reclamado desde mayo de 2017 y suscripción paga",
+            "caption": "Perfil de Hostinger en Trustpilot en noviembre.",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ],
         "postParagraphs": [
@@ -111621,11 +111621,11 @@ export const reviewsData: unknown[] = [
         },
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Haut du profil Trustpilot de Hostinger, avec la note 4,6, le profil revendiqué, l’abonnement payant et l’avis indiquant que l’entreprise invite ses clients à laisser un avis",
-            "caption": "Profil Trustpilot de Hostinger. Image : capture d’écran de Bruno.",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Haut du profil Trustpilot de Hostinger, avec la note 4,6, 74 384 avis, le profil revendiqué depuis mai 2017 et l’abonnement payant",
+            "caption": "Profil Trustpilot de Hostinger en novembre.",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ],
         "postParagraphs": [
@@ -111913,11 +111913,11 @@ export const reviewsData: unknown[] = [
         },
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Oberer Teil des Hostinger-Profils auf Trustpilot, mit Bewertung 4,6, beanspruchtem Profil, bezahltem Abo und dem Hinweis, dass die Firma Kunden zu Bewertungen einlädt",
-            "caption": "Hostinger-Profil auf Trustpilot. Bild: Screenshot von Bruno.",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Oberer Teil des Hostinger-Profils auf Trustpilot, mit Bewertung 4,6, 74.384 Bewertungen, seit Mai 2017 beanspruchtem Profil und bezahltem Abo",
+            "caption": "Hostinger-Profil auf Trustpilot im November.",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ],
         "postParagraphs": [
@@ -112205,11 +112205,11 @@ export const reviewsData: unknown[] = [
         },
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Parte alta del profilo Hostinger su Trustpilot, con punteggio 4,6, profilo rivendicato, abbonamento a pagamento e l’avviso che l’azienda invita i clienti a recensire",
-            "caption": "Profilo Hostinger su Trustpilot. Immagine: screenshot di Bruno.",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Parte alta del profilo Hostinger su Trustpilot, con punteggio 4,6, 74.384 recensioni, profilo rivendicato da maggio 2017 e abbonamento a pagamento",
+            "caption": "Profilo Hostinger su Trustpilot a novembre.",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ],
         "postParagraphs": [
@@ -112500,11 +112500,11 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot의 Hostinger 기업 프로필 상단. 평점 4.6, 회사가 관리하는 프로필, 유료 구독과 고객 리뷰 요청 안내",
-            "caption": "Trustpilot의 Hostinger 프로필. 이미지: Bruno가 찍은 화면.",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Trustpilot의 Hostinger 기업 프로필 상단. 평점 4.6, 리뷰 74,384개, 2017년 5월부터 회사가 관리하는 프로필과 유료 구독 표시",
+            "caption": "11월의 Trustpilot Hostinger 프로필.",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ]
       },
@@ -112786,11 +112786,11 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot の Hostinger 企業プロフィール上部。評価 4.6、企業が管理するプロフィール、有料契約、顧客へのレビュー依頼の表示",
-            "caption": "Trustpilot の Hostinger プロフィール。画像：Bruno のスクリーンショット。",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Trustpilot の Hostinger 企業プロフィール上部。評価 4.6、レビュー 74,384 件、2017 年 5 月から企業が管理するプロフィール、有料契約の表示",
+            "caption": "11 月の Trustpilot の Hostinger プロフィール。",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ]
       },
@@ -113072,11 +113072,11 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot 上 Hostinger 企業檔案的頂部，顯示 4.6 分、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
-            "caption": "Trustpilot 上的 Hostinger 企業檔案。圖片：Bruno 截取的畫面。",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Trustpilot 上 Hostinger 企業檔案的頂部，顯示 4.6 分、74,384 則評價、自 2017 年 5 月起已認領的檔案，以及付費訂閱",
+            "caption": "11 月 Trustpilot 上的 Hostinger 企業檔案。",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ]
       },
@@ -113358,11 +113358,11 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot 上 Hostinger 企业主页的顶部，显示 4.6 分、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
-            "caption": "Trustpilot 上的 Hostinger 企业主页。图片：Bruno 的截图。",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "Trustpilot 上 Hostinger 企业主页的顶部，显示 4.6 分、74,384 条评价、自 2017 年 5 月起已认领的主页，以及付费订阅",
+            "caption": "11 月 Trustpilot 上的 Hostinger 企业主页。",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ]
       },
@@ -308200,11 +308200,11 @@ export const reviewsData: unknown[] = [
         },
         "images": [
           {
-            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "أعلى الصفحة الشخصية لـ Hostinger على Trustpilot، بتقييم 4.6 وصفحة موثّقة الملكية واشتراك مدفوع وتنبيه بأن الشركة تدعو العملاء إلى المراجعة",
-            "caption": "الصفحة الشخصية لـ Hostinger على Trustpilot. الصورة: لقطة شاشة التقطها Bruno.",
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+            "alt": "أعلى الصفحة الشخصية لـ Hostinger على Trustpilot، بتقييم 4.6 و74,384 مراجعة وصفحة موثّقة الملكية منذ مايو 2017 واشتراك مدفوع",
+            "caption": "الصفحة الشخصية لـ Hostinger على Trustpilot في نوفمبر.",
             "objectFit": "contain",
-            "aspectRatio": 3.7969
+            "aspectRatio": 4.8988
           }
         ],
         "postParagraphs": [

@@ -119,11 +119,11 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Trustpilot 上 Hostinger 企业主页的顶部，显示 4.6 分、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
-          "caption": "Trustpilot 上的 Hostinger 企业主页。图片：Bruno 的截图。",
+          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+          "alt": "Trustpilot 上 Hostinger 企业主页的顶部，显示 4.6 分、74,384 条评价、自 2017 年 5 月起已认领的主页，以及付费订阅",
+          "caption": "11 月 Trustpilot 上的 Hostinger 企业主页。",
           "objectFit": "contain",
-          "aspectRatio": 3.7969
+          "aspectRatio": 4.8988
         }
       ]
     },

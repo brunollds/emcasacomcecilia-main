@@ -119,11 +119,11 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Trustpilot 上 Hostinger 企業檔案的頂部，顯示 4.6 分、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
-          "caption": "Trustpilot 上的 Hostinger 企業檔案。圖片：Bruno 截取的畫面。",
+          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot-v2.webp",
+          "alt": "Trustpilot 上 Hostinger 企業檔案的頂部，顯示 4.6 分、74,384 則評價、自 2017 年 5 月起已認領的檔案，以及付費訂閱",
+          "caption": "11 月 Trustpilot 上的 Hostinger 企業檔案。",
           "objectFit": "contain",
-          "aspectRatio": 3.7969
+          "aspectRatio": 4.8988
         }
       ]
     },
