@@ -17,7 +17,7 @@
   "metaDescription": "Nutren Senior Zero Lactose, com o cupom CECI de 10% OFF na Nestlé Nutre: a lata de 740 g, o preparo com água e a diferença entre sem sabor e baunilha.",
   "publishedAt": "17 de agosto de 2026",
   "publishedAtISO": "2026-08-17",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "changelog": [
     {
       "date": "2026-08-17",
@@ -78,26 +78,30 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Nutren Senior Zero Lactose é o composto lácteo em pó da Nestlé Health Science para adultos acima de 50 anos que buscam um complemento sem lactose. A lata de 740 g vem em duas versões, sem sabor e baunilha. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+        "O Nutren Senior Zero Lactose é o composto lácteo em pó da Nestlé Health Science para adultos a partir de 50 anos que buscam um complemento sem lactose. A lata de 740 g vem em duas versões, sem sabor e baunilha. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
       ]
     },
     {
       "heading": "O que é o Nutren Senior Zero Lactose",
       "paragraphs": [
-        "O Zero Lactose é composto lácteo com cálcio, proteínas e vitamina D, para adultos acima de 50 anos. A enzima lactase entra na lista de ingredientes das duas latas de 740 g.",
+        "O Zero Lactose é composto lácteo com cálcio, proteínas e vitamina D, para adultos a partir de 50 anos. A enzima lactase entra na lista de ingredientes das duas latas de 740 g.",
         "As duas versões têm a mesma base de ingredientes, com proteínas e cálcio. Para escolher entre elas, confira a lista: a baunilha acrescenta aromatizante e sucralose, enquanto a sem sabor não traz esses dois itens na lista oficial."
       ],
-      "image": "/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp",
-      "imageAlt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g com os benefícios declarados pela marca: nutrição diária para adultos 50+, proteínas, cálcio, vitamina D e nutrientes essenciais",
-      "imageCaption": "A peça oficial da lata sem sabor 740 g: o que a marca destaca em volta do produto.",
-      "imageFit": "contain",
+      "image": {
+        "src": "/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp",
+        "alt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g com os benefícios declarados pela marca: nutrição diária para adultos 50+, proteínas, cálcio, vitamina D e nutrientes essenciais",
+        "caption": "A peça oficial da lata sem sabor 740 g: o que a marca destaca em volta do produto.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740"
+      },
       "links": [
         {
           "label": "Comprar a lata sem sabor 740 g na Nestlé Nutre",
           "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740",
           "sponsored": true
         }
-      ]
+      ],
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
       "heading": "Ficha técnica da lata de 740 g",
@@ -105,15 +109,6 @@
         "A ficha das duas latas de 740 g, sem sabor e baunilha. Lote, tabela nutricional em %VD e alegações do rótulo podem mudar: o que vale na hora da compra é a lata que chega em casa.",
         "A lista de ingredientes das duas versões traz leite e soja: leite integral, concentrado proteico de soro de leite, maltodextrina, proteína de soja isolada, polidextrose, caseinato de cálcio, colágeno hidrolisado, enzima lactase, vitaminas e minerais. A baunilha acrescenta aromatizante e o edulcorante sucralose.",
         "O material oficial da lata marca zero lactose e sem glúten. Zero lactose não quer dizer sem proteína do leite. Quem tem alergia a leite ou soja deve conferir a declaração de alergênicos na lata de cada versão e, se for o caso, o SAC da Nestlé Nutre (0800 770 2461)."
-      ],
-      "bullets": [
-        "Tipo: composto lácteo em pó, variante Zero Lactose.",
-        "Indicação declarada: adultos com 50 anos ou mais.",
-        "Apresentações desta ficha: lata 740 g sem sabor e lata 740 g baunilha.",
-        "Porção: 27,5 g (3 colheres de sopa rasas).",
-        "Rendimento: cerca de 27 porções por lata.",
-        "Preparo: cerca de 50 ml de água para formar a pasta e mais 130 ml para completar.",
-        "Depois de aberto: até 30 dias; beber logo após o preparo."
       ]
     },
     {
@@ -134,25 +129,28 @@
       "heading": "Depois de abrir a lata",
       "paragraphs": [
         "Mantenha a lata bem fechada em local fresco, seco e sem cheiro. Depois de aberta, a marca recomenda terminar o conteúdo em até 30 dias e consumir a porção imediatamente após o preparo.",
-        "Quem compra kit de duas unidades precisa de espaço seco e deve abrir uma lata por vez, respeitando a janela de 30 dias indicada para cada embalagem depois de aberta. A validade do produto fechado deve ser conferida no rótulo do lote recebido."
+        "Quem compra kit de duas unidades precisa de espaço seco e deve abrir uma lata por vez, respeitando a janela de 30 dias que a marca informa para cada embalagem depois de aberta. A validade do produto fechado deve ser conferida no rótulo do lote recebido."
       ]
     },
     {
-      "heading": "Qual lata escolher",
+      "heading": "Sem sabor, baunilha ou pronto para beber",
       "paragraphs": [
         "Sem sabor e baunilha se decidem por aromatizante e sucralose:"
       ],
-      "image": "/images/reviews/nutren/nutren-senior-linha-banner.avif",
-      "imageAlt": "Linha Nutren Senior no site oficial: latas de 740 g e 370 g e versões prontas para beber",
-      "imageCaption": "A linha Senior na loja: a ficha deste artigo é da variante Zero Lactose em pó, 740 g.",
-      "imageFit": "wide",
+      "image": {
+        "src": "/images/reviews/nutren/nutren-senior-linha-banner.avif",
+        "alt": "Linha Nutren Senior no site oficial: latas de 740 g e 370 g e versões prontas para beber",
+        "caption": "A linha Senior na loja: a ficha deste artigo é da variante Zero Lactose em pó, 740 g.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/nutren-senior"
+      },
       "bullets": [
         "Sem sabor 740 g: mesma base zero lactose, sem aromatizante e sem sucralose na lista oficial.",
-        "Baunilha 740 g: mesmo preparo e mesma porção, com aromatizante e o edulcorante sucralose. Os açúcares de cada versão estão na tabela nutricional da lata; quem controla glicemia deve conferir o rótulo e buscar orientação profissional.",
-        "Pronto para beber: a loja oficial também vende itens da linha Senior em garrafinha, inclusive opções zero lactose, como o Mix de Frutas 200 ml. Cada SKU tem tabela e ingredientes próprios; não use a ficha da lata de 740 g para a garrafinha."
+        "Baunilha 740 g: mesmo preparo e mesma porção, com aromatizante e o edulcorante sucralose. Os açúcares de cada versão estão na tabela nutricional da lata.",
+        "Pronto para beber: a loja oficial também vende o pronto de 200 ml da linha Senior, inclusive opções zero lactose, como o Mix de Frutas. Cada produto tem tabela e ingredientes próprios; não use a ficha da lata de 740 g para o pronto de 200 ml."
       ],
       "postParagraphs": [
-        "Control, 2.0 e Ultra são fórmulas com indicações diferentes, e a comparação entre as linhas está no guia [qual Nutren escolher](/reviews/nestle-nutre-produtos-para-que-servem). Se a dúvida é “qual linha da Nestlé Nutre serve para o meu caso”, o ponto de partida é o rótulo e, quando houver condição de saúde, um profissional."
+        "Control, 2.0 e Ultra são fórmulas com indicações diferentes, e a comparação entre as linhas está no guia [qual Nutren escolher](/reviews/nestle-nutre-produtos-para-que-servem). Se a dúvida é “qual linha da Nestlé Nutre serve para o meu caso”, o ponto de partida é o rótulo."
       ],
       "links": [
         {
@@ -165,45 +163,85 @@
     {
       "heading": "Preço e o que o cupom altera",
       "paragraphs": [
-        "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial era de R$ 211,79. O que permanece é a regra do checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
-        "No passo a passo do cupom, o CECI aplicou os 10% por cima de um combo que já tinha desconto de vitrine. Somar com outro código digitado no mesmo pedido não é garantido: o checkout costuma ficar com um cupom só. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses não entram."
+        "A Semana Black Friday, sem data de fim publicada, baixou o preço das latas; a tabela mostra o preço de lista e o da campanha.",
+        "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI) tira 10% da compra única, em todas as formas de pagamento, e soma com as promoções da loja, como a da campanha. A loja aceita um cupom por pedido, e o frete é outra linha, fora dessa base. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses não entram, nem a assinatura e o Mercado Livre.",
+        "Na compra única, o frete é grátis acima de R$ 400 e, na Semana Black Friday, acima de R$ 100. A assinatura tem 10% da 1ª à 3ª entrega e 15% a partir da 4ª, com frete grátis acima de R$ 200, mas o CECI não vale nela.",
+        "Para comprar, escolha a lata no site oficial e digite CECI no campo de cupom do carrinho. Se o código não aplicar, confira a grafia e as exceções acima."
       ],
       "links": [
+        {
+          "label": "Ver o Nutren Senior Zero Lactose sem sabor na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740",
+          "sponsored": true
+        },
         {
           "label": "Como aplicar o CECI no checkout, com fotos",
           "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
-        }
-      ]
-    },
-    {
-      "heading": "Como comprar com o cupom CECI",
-      "paragraphs": [
-        "Para comprar, escolha a lata no site oficial e digite CECI no pagamento. Se o código não aplicar, confira a grafia e as exceções do capítulo anterior; o checkout costuma ficar com um cupom só."
-      ],
-      "links": [
-        {
-          "label": "Abrir a página do cupom CECI da Nestlé Nutre",
-          "href": "/cupons/nestle-nutre"
         },
         {
           "label": "Abrir a loja oficial da Nestlé Nutre",
           "href": "https://www.nestlenutre.com.br/",
           "sponsored": true
         }
+      ],
+      "comparisonTable": {
+        "caption": "Nutren Senior Zero Lactose 740 g na loja oficial em 23/11/2026, compra única, antes do CECI. A coluna de porção é conta nossa (cerca de 27 porções por lata).",
+        "headers": [
+          "Apresentação",
+          "Preço de lista",
+          "Preço da Semana Black Friday",
+          "Por porção na campanha (conta nossa)"
+        ],
+        "rows": [
+          [
+            "Lata sem sabor 740 g",
+            "R$ 211,79",
+            "R$ 169,43",
+            "R$ 6,28"
+          ],
+          [
+            "Lata baunilha 740 g",
+            "R$ 211,79",
+            "R$ 169,43",
+            "R$ 6,28"
+          ],
+          [
+            "Combo sem sabor 2 × 740 g",
+            "R$ 423,58",
+            "R$ 296,51",
+            "R$ 5,49"
+          ]
+        ]
+      },
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+    },
+    {
+      "heading": "Qual lata levar",
+      "paragraphs": [
+        "A ficha separa as duas latas por um critério só: o que entra na lista de ingredientes."
+      ],
+      "emphasis": "Pelas listas oficiais de ingredientes, para quem evita lactose e não quer aromatizante nem sucralose a escolha é a lata sem sabor, porque a lista dela não traz esses dois itens.",
+      "emphasisAfterParagraph": 1,
+      "bullets": [
+        "Quem evita lactose e não se importa com aromatizante e sucralose: a baunilha, com o mesmo preparo e a mesma porção.",
+        "Quem tem alergia a leite ou soja: a decisão passa pela declaração de alergênicos da lata, antes de qualquer das duas.",
+        "Quem procura a versão pronta para beber: ela tem tabela e ingredientes próprios, fora desta ficha."
+      ],
+      "postParagraphs": [
+        "Dúvida sobre alergia, dose por dia ou uso junto com outra dieta é assunto para o médico ou o nutricionista."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Nestlé Nutre? O código de parceria do Em Casa com Cecília é CECI e pode aplicar 10% em produtos elegíveis no checkout da loja oficial.",
-        "Qual o cupom do Nutren Senior Zero Lactose? O mesmo CECI. Vale para a lata Zero Lactose e para os demais itens elegíveis da loja; não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.",
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
+        "Qual o preço do Nutren Senior Zero Lactose? Os preços de lista e da campanha estão na tabela do capítulo Preço e o que o cupom altera, e o valor vigente aparece no carrinho da loja oficial.",
         "Como preparar o Nutren Senior Zero Lactose em pó? Coloque 3 colheres de sopa rasas (27,5 g) no copo, misture com cerca de 50 ml de água até virar pasta, complete com 130 ml de água e mexa até dissolver.",
         "O Nutren Senior Zero Lactose tem lactose? A variante é vendida como zero lactose, e a lista oficial inclui a enzima lactase. Zero lactose não quer dizer sem proteína do leite: a base é láctea e leva proteína de soja. Quem tem alergia a leite ou soja deve ler a declaração de alergênicos da lata.",
         "Qual a diferença entre a lata sem sabor e a de baunilha? O preparo e a porção são iguais. A baunilha adiciona aromatizante e sucralose; a sem sabor não.",
-        "Nutren Senior Zero Lactose tem açúcar adicionado? A resposta está na tabela nutricional da lata de cada versão: confira o rótulo do lote recebido. A baunilha também leva sucralose, um edulcorante.",
+        "Nutren Senior Zero Lactose tem açúcar adicionado? Tem: a tabela da lata sem sabor declara 3 g de açúcares adicionados por porção de 27,5 g, dentro de 5 g de açúcares totais. A baunilha leva também sucralose, um edulcorante; confira a tabela dela na lata.",
         "A lata dura quanto tempo depois de aberta? A marca pede consumo em até 30 dias após abrir, com a lata bem fechada em local fresco e seco.",
-        "Nutren Senior substitui o café da manhã? Não. É complemento alimentar. Não substitui refeição completa nem conduta prescrita por profissional de saúde.",
-        "Qual o preço do Nutren Senior Zero Lactose? Quando o artigo foi publicado, o preço de referência no site oficial era R$ 211,79. O preço muda: confira o valor vigente no checkout.",
+        "Nutren Senior substitui o café da manhã? Não. É complemento alimentar. Não substitui refeição completa.",
         "O desconto do CECI inclui o frete? Não. O frete é calculado à parte."
       ]
     }
@@ -216,7 +254,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Feito com a ficha pública da Nestlé Health Science, sem uso próprio do produto. O CECI vem de parceria com a Nestlé Nutre e pode gerar comissão, sem custo extra.",
+  "editorialNote": "Informações de rótulos e páginas oficiais da Nestlé, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar"
@@ -227,5 +265,15 @@
     {
       "slug": "nestle-nutre-produtos-para-que-servem"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "a lata sem sabor: a casa evita lactose e prefere a lista sem aromatizante nem sucralose.",
+      "a lata de baunilha: a casa evita lactose e quer o sabor, aceitando aromatizante e sucralose na lista."
+    ],
+    "skipIf": [
+      "alguém da casa tem alergia a leite ou soja: a base é láctea e leva proteína de soja.",
+      "a ideia é o pronto de 200 ml: ele tem tabela e ingredientes próprios, fora desta ficha."
+    ]
+  }
 }

@@ -17,7 +17,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF em itens elegíveis da Nestlé Nutre. Nutren Just Protein: para que serve, tabela por 15 g, preparo indicado no rótulo e cuidados.",
   "publishedAt": "23 de agosto de 2026",
   "publishedAtISO": "2026-08-23",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "image": "/images/reviews/nutren/nutren-just-protein-para-que-serve-capa-v2.webp",
   "imageAlt": "Lata de 280 g do Nutren Just Protein da Nestlé.",
@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Nutren Just Protein é um suplemento de proteína do soro do leite, em pó e sem sabor. Ele contém lactose e o rótulo diz que gestantes, lactantes e crianças não devem consumir. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
+        "O Nutren Just Protein é um suplemento de proteína do soro do leite, em pó e sem sabor, para misturar na comida. Ele contém lactose e o rótulo diz que gestantes, lactantes e crianças não devem consumir. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
       ]
     },
     {
@@ -38,20 +38,20 @@
         "É o suplemento de proteína neutra da Nestlé Health Science para a comida: isolada do soro do leite, 13 g de proteína em 15 g de pó.",
         "A embalagem diz: sem sabor, sem glúten e sem açúcares adicionados. Ele contém lactose e derivados de leite e soja, informações importantes para pessoas com alergias ou intolerâncias. Por ser sem sabor, pode ser testado em diferentes preparações, mas o resultado de sabor e textura varia conforme a receita."
       ],
-      "bullets": [],
-      "image": "/images/reviews/nutren/nutren-just-protein-banner.avif",
-      "imageAlt": "Linha Nutren da Nestlé na vida real: versão pronta para beber, shake preparado e a lata do Just Protein em pó",
-      "imageCaption": "A linha Nutren no dia a dia: o Just Protein é a lata de pó sem sabor, à direita.",
-      "imageFit": "wide"
+      "image": {
+        "src": "/images/reviews/nutren/nutren-just-protein-banner.avif",
+        "alt": "Linha Nutren da Nestlé na vida real: versão pronta para beber, shake preparado e a lata do Just Protein em pó",
+        "caption": "A linha Nutren no dia a dia: o Just Protein é a lata de pó sem sabor, à direita.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/nutren-just-protein-280g"
+      }
     },
     {
       "heading": "O que o rótulo informa",
       "paragraphs": [
-        "A Nestlé Health Science apresenta o Nutren Just Protein como suplemento alimentar de proteína.",
-        "Suplemento alimentar não é medicamento. Quem tem uma condição clínica ou necessidades específicas de proteína deve procurar um médico ou nutricionista."
+        "A Nestlé Health Science apresenta o Nutren Just Protein como suplemento alimentar de proteína."
       ],
       "bullets": [
-        "Cada porção de 15 g fornece 13 g de proteína, diz a embalagem;",
         "A recomendação do rótulo para adultos é consumir uma porção ao dia;",
         "O produto não é adequado para uso como única fonte de nutrição."
       ]
@@ -74,8 +74,7 @@
       "paragraphs": [
         "Para o preparo indicado pela fabricante, adicione 2 colheres de sopa cheias (15 g) em 120 ml de água e misture imediatamente até homogeneizar. Consuma a porção logo após o preparo. O rótulo orienta adultos a consumir uma porção ao dia.",
         "Depois de abrir a lata, use o conteúdo em até 30 dias. Mantenha a embalagem bem fechada em local fresco e seco.",
-        "As combinações abaixo são sugestões editoriais para variar o consumo, não substituem o preparo oficial nem orientação profissional. Ao testar o pó em receitas, adicione aos poucos e observe a consistência, porque sabor, textura e dissolução dependem dos ingredientes e da temperatura.",
-        "O rótulo diz que gestantes, lactantes e crianças não devem consumir. Quem tem alergia, intolerância, doença crônica ou necessidade específica de proteína deve falar com um profissional de saúde antes."
+        "As combinações abaixo são sugestões nossas para variar o consumo, não substituem o preparo oficial nem orientação profissional. Ao testar o pó em receitas, adicione aos poucos e observe a consistência, porque sabor, textura e dissolução dependem dos ingredientes e da temperatura."
       ],
       "bullets": [
         "Em comidas salgadas: experimente misturar gradualmente em sopas, canjas, purês ou no caldo do feijão já servido;",
@@ -96,62 +95,121 @@
       ],
       "bullets": [
         "Nutren Just Protein: suplemento de proteína isolada do soro do leite, sem sabor, com 13g de proteína por porção e sem vitaminas adicionadas;",
-        "Nutren Senior: linha de complementos alimentares voltada ao público adulto, com fórmulas e micronutrientes que variam conforme a versão;",
-        "Whey protein esportivo: categoria com sabores, adoçantes e concentrações variados. Quem quer o shake com sabor compara os rótulos pelo objetivo de uso; para proteína neutra na comida, o Just Protein é uma opção; compare composição, restrições, porção e forma de uso com outros produtos."
+        "Nutren Senior: linha que a Nestlé descreve para adultos a partir de 50 anos, com vitaminas e minerais que variam conforme a versão;",
+        "Whey protein esportivo: categoria com sabores, adoçantes e concentrações variados. Quem quer shake com sabor compara por ali; para proteína neutra na comida, o Just Protein."
       ]
     },
     {
       "heading": "Onde comprar com desconto e como usar o cupom CECI",
       "paragraphs": [
-        "A lata de 280 g sai no e-commerce oficial da Nestlé Nutre; confirme preço, estoque e prazo no dia da compra.",
-        "A embalagem informa cerca de 19 porções de 15g. O rendimento real depende da quantidade utilizada e da orientação definida para cada pessoa.",
-        "No carrinho oficial, teste o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI): 10% nos elegíveis, pelas regras do checkout."
+        "A lata de 280 g é vendida na loja oficial da Nestlé Nutre, e a embalagem informa cerca de 19 porções de 15 g. A tabela traz o preço da lata, do combo de duas latas e do sachê, com a conta por porção e por 100 g de proteína (13 g por porção, conta nossa). O preço da Semana Black Friday é temporário, e vale o que aparece na loja no dia da compra.",
+        "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI) dá 10% OFF na compra única, em todas as formas de pagamento, e soma com as promoções da loja. A loja aceita um cupom por pedido. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre."
       ],
-      "bullets": [],
       "links": [
-        {
-          "label": "Consultar validade e regras do cupom CECI para Nestlé Nutre",
-          "href": "/cupons/nestle-nutre"
-        },
         {
           "label": "Consultar o Nutren Just Protein na loja oficial",
           "href": "https://www.nestlenutre.com.br/nutren-just-protein-280g",
           "sponsored": true
         },
         {
+          "label": "Ver o combo de 2 latas na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/combo-nutren-just-protein-lata-2-unidades",
+          "sponsored": true
+        },
+        {
+          "label": "Consultar validade e regras do cupom CECI para Nestlé Nutre",
+          "href": "/cupons/nestle-nutre"
+        },
+        {
           "label": "Informações técnicas do Nutren Just Protein na Nestlé Health Science",
           "href": "https://www.nestlehealthscience.com.br/marcas/nutren/just-protein-lata-280g"
         }
+      ],
+      "comparisonTable": {
+        "caption": "Nutren Just Protein na loja oficial em 23/11/2026, compra única, antes do CECI. As colunas de porção e de proteína são conta nossa.",
+        "headers": [
+          "Apresentação",
+          "Preço de lista",
+          "Preço da Semana Black Friday",
+          "Por porção de 15 g",
+          "Por 100 g de proteína"
+        ],
+        "rows": [
+          [
+            "Lata 280 g (cerca de 19 porções)",
+            "R$ 128,79",
+            "R$ 96,59",
+            "R$ 5,17",
+            "R$ 39,80"
+          ],
+          [
+            "Combo com 2 latas de 280 g",
+            "R$ 257,58",
+            "R$ 167,43",
+            "R$ 4,48",
+            "R$ 34,50"
+          ],
+          [
+            "Sachê de 15 g",
+            "R$ 12,19",
+            "Sem desconto",
+            "R$ 12,19",
+            "R$ 93,77"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Quem leva o Nutren Just Protein",
+      "paragraphs": [
+        "O Just Protein é proteína neutra para a comida, e o rótulo traz as condições de uso."
+      ],
+      "emphasis": "Pelos números da tabela, para quem quer proteína sem sabor na comida a escolha é o Nutren Just Protein, porque cada porção de 15 g traz 13 g de proteína e 52 kcal, sem açúcares adicionados.",
+      "emphasisAfterParagraph": 1,
+      "bullets": [
+        "Quem quer proteína sem sabor em sopas, vitaminas e mingaus: o Just Protein, adicionado no final do preparo.",
+        "Quem quer um shake com sabor: a comparação com outros pós está em [Nutren Protein ou whey](/reviews/nutren-protein-ou-whey).",
+        "Gestantes, lactantes e crianças: o rótulo diz que não devem consumir.",
+        "Alergia ao leite ou à soja: o produto contém lactose e derivados de leite e soja, e a leitura do rótulo vem antes da compra."
+      ],
+      "postParagraphs": [
+        "Quantidade de proteína por dia é assunto para o médico ou o nutricionista."
       ]
     },
     {
       "heading": "Perguntas frequentes sobre o Nutren Just Protein",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Qual a tabela nutricional do Nutren Just Protein? Cada porção de 15 g (duas colheres de sopa cheias) fornece 52 kcal, 13 g de proteína, 0 g de carboidratos e 76 mg de sódio, sem quantidades significativas de gorduras ou fibras.",
-        "Nutren Just Protein engorda? Cada porção de 15g fornece 52 kcal e 13g de proteína. Para dúvidas sobre peso ou sobre a quantidade ideal na sua rotina, procure um médico ou nutricionista.",
+        "Nutren Just Protein engorda? As calorias por porção estão na tabela nutricional acima; dúvida sobre peso vai para o nutricionista.",
         "Nutren Just Protein tem sabor de leite? A fabricante apresenta o produto como sem sabor. A percepção e o resultado final podem variar conforme a bebida ou receita em que ele for misturado.",
-        "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, uma possibilidade editorial é acrescentar o pó gradualmente depois de retirar o alimento do fogo; textura e dissolução podem variar.",
-        "Nutren Just Protein tem lactose? Sim. A página oficial informa que contém lactose e derivados de leite e soja. Pessoas com alergia à proteína do leite ou à soja não devem consumir; em caso de intolerância ou outra restrição, consulte o rótulo e um profissional de saúde.",
-        "Nutren Just Protein substitui uma refeição? Não. A fabricante informa que o produto não é adequado para uso como única fonte de nutrição. Para orientação sobre alimentação, procure um nutricionista.",
-        "Qual o cupom de desconto para a loja oficial Nestlé Nutre? O cupom CECI pode ser testado no checkout para verificar a aplicação de 10% de desconto em itens elegíveis, conforme as condições vigentes da loja oficial."
+        "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, dá para acrescentar o pó aos poucos depois de tirar do fogo; textura e dissolução podem variar.",
+        "Nutren Just Protein tem lactose? Sim. A página oficial informa que contém lactose e derivados de leite e soja. Com alergia à proteína do leite ou à soja, o rótulo é o aviso: o produto contém os dois.",
+        "Nutren Just Protein substitui uma refeição? Não. A fabricante informa que o produto não é adequado para uso como única fonte de nutrição. Para orientação sobre alimentação, procure um nutricionista."
       ]
     }
   ],
   "cta": {
-    "text": "Consulte o Nutren Just Protein na loja oficial e teste o cupom CECI no checkout",
+    "text": "Consulte o Nutren Just Protein na loja oficial e aplique o cupom CECI no carrinho.",
     "label": "Consultar produto na loja oficial",
     "url": "https://www.nestlenutre.com.br/nutren-just-protein-280g",
     "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Informações de rótulos e páginas oficiais da Nestlé, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar"
     },
     {
       "slug": "nestle-nutre-e-confiavel"
+    },
+    {
+      "slug": "nutren-protein-ou-whey"
+    },
+    {
+      "slug": "black-friday-nestle-nutre"
     }
   ],
   "gallery": [
@@ -175,5 +233,15 @@
       "alt": "Linha Nutren da Nestlé Health Science em situações reais de consumo",
       "caption": "A linha Nutren no dia a dia: o Just Protein é a lata de pó sem sabor, à direita."
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "você quer proteína sem sabor para misturar em sopas, vitaminas ou mingaus, no fim do preparo.",
+      "você quer só a proteína do soro: a porção de 15 g traz 13 g de proteína, sem açúcares adicionados."
+    ],
+    "skipIf": [
+      "há alergia a leite ou soja, gestação, amamentação ou criança em casa: o rótulo informa que o produto contém lactose e derivados de leite e soja e que gestantes, lactantes e crianças não devem consumir.",
+      "a ideia é um shake com sabor ou uma refeição completa: o Just Protein é sem sabor, e o rótulo diz que não é adequado como única fonte de nutrição."
+    ]
+  }
 }

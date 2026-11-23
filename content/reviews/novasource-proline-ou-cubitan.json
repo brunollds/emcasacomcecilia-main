@@ -33,7 +33,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Rótulos e páginas oficiais, sem uso próprio. Podemos receber comissão pelo cupom CECI. Uso só com médico ou nutricionista.",
   "relatedArticles": [
     {
       "slug": "novasource-proline-para-que-serve"
@@ -58,7 +58,7 @@
     {
       "heading": "Os dois produtos lado a lado",
       "paragraphs": [
-        "O Novasource Proline é da Nestlé, parceira do site, e o Cubitan é da Danone. Comparamos as informações das páginas das fabricantes."
+        "O Novasource Proline é da Nestlé, parceira do site, e o Cubitan é da Danone."
       ],
       "comparisonTable": {
         "headers": [
@@ -109,10 +109,13 @@
           ]
         ]
       },
-      "image": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
-      "imageAlt": "Caixinha de 200 ml do Novasource Proline sabor baunilha, fórmula modificada para nutrição enteral e oral com 1,4 kcal por mL",
-      "imageCaption": "Novasource Proline Baunilha, caixinha de 200 ml. Foto oficial da Nestlé Nutre.",
-      "imageFit": "portrait"
+      "image": {
+        "src": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
+        "alt": "Caixinha de 200 ml do Novasource Proline sabor baunilha, fórmula modificada para nutrição enteral e oral com 1,4 kcal por mL",
+        "caption": "Novasource Proline Baunilha, caixinha de 200 ml. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/novasource-proline-baunilha-tetra-slim-200ml-1"
+      }
     },
     {
       "heading": "Tabela nutricional por unidade de 200 ml",
@@ -120,7 +123,7 @@
         "Multiplicamos os valores publicados por 100 ml para mostrar o que cada unidade de 200 ml declara. Para o Cubitan, confira os carboidratos na embalagem."
       ],
       "comparisonTable": {
-        "caption": "Dados da Nestlé Nutre e da Danone. As faixas do Proline refletem diferenças entre sabores. O Cubitan é o de baunilha. O traço indica valor não confirmado na página consultada.",
+        "caption": "Dados da Nestlé Nutre e da Danone. As faixas do Proline refletem diferenças entre sabores. O Cubitan é o de baunilha. O traço indica valor que a página não informa.",
         "headers": [
           "Item",
           "Novasource Proline",
@@ -228,14 +231,14 @@
     {
       "heading": "O que cada fabricante diz",
       "paragraphs": [
-        "Para o Novasource Proline, a página da Nestlé Nutre fala em “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”. A loja da Danone diz que o Cubitan tem nutrientes “que auxiliam na cicatrização de lesões”, com consumo “conforme recomendação do profissional de saúde”.",
-        "As duas fórmulas pedem orientação médica ou de nutricionista e proíbem o uso por via parenteral. Converse com quem acompanha o caso antes de trocar a fórmula."
+        "Para o Novasource Proline, a página da Nestlé Nutre declara “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”. A loja da Danone apresenta o Cubitan para pessoas com lesões em cicatrização, com consumo “conforme recomendação do profissional de saúde”.",
+        "As duas fórmulas pedem orientação médica ou de nutricionista e proíbem o uso por via parenteral."
       ]
     },
     {
       "heading": "Preço avulso e preço na compra recorrente",
       "paragraphs": [
-        "Com o CECI na Nestlé Nutre, a caixinha de baunilha do Proline saiu a R$ 17,81, R$ 1,97 abaixo dos R$ 19,78 do Cubitan na loja da Danone, antes do frete. No combo de 10, o Proline sai a R$ 15,83 a unidade. Sem o código, as duas caixinhas avulsas ficaram a um centavo de diferença no dia: R$ 19,79 e R$ 19,78."
+        "Com o CECI na Nestlé Nutre, a caixinha de baunilha do Proline saiu R$ 1,97 mais barata que a do Cubitan na loja da Danone, antes do frete, e o combo de 10 baixa mais o preço por unidade. Sem o código, as duas caixinhas avulsas ficaram a um centavo de diferença no dia."
       ],
       "comparisonTable": {
         "caption": "Preços em 19/11, sem frete, na Nestlé Nutre e na loja oficial da Danone. O CECI foi testado na compra única do Proline de baunilha.",
@@ -278,7 +281,7 @@
         ]
       },
       "postParagraphs": [
-        "Na compra recorrente, as lojas exibiam R$ 17,59 por Proline e R$ 17,80 por Cubitan. A Danone informa pedido mínimo de R$ 150 na compra programada. O CECI foi testado na compra única. Confira o total com frete na modalidade que pretende usar.",
+        "Na compra recorrente, as lojas exibiam R$ 17,59 por Proline e R$ 17,80 por Cubitan. A Danone informa pedido mínimo de R$ 150 na compra programada. O CECI não vale na assinatura da Nestlé Nutre, só na compra única. Confira o total com frete na modalidade que pretende usar.",
         "As condições e exceções do CECI estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
       ],
       "links": [
@@ -290,14 +293,57 @@
       ]
     },
     {
+      "heading": "Qual escolher: Proline ou Cubitan",
+      "paragraphs": [
+        "As duas declaram 20 g de proteína por caixinha, então a conta abaixo divide o preço da tabela de preços por esses 20 g. A escolha entre as fórmulas, e qualquer troca, cabe ao médico ou nutricionista que acompanha o caso."
+      ],
+      "comparisonTable": {
+        "caption": "Contas nossas: preço por caixinha dividido por 20 g de proteína.",
+        "headers": [
+          "Compra",
+          "Custo por grama de proteína"
+        ],
+        "rows": [
+          [
+            "Proline, combo de 10, com o CECI",
+            "R$ 0,79"
+          ],
+          [
+            "Proline, caixinha avulsa, com o CECI",
+            "R$ 0,89"
+          ],
+          [
+            "Cubitan, caixinha avulsa, na Danone",
+            "R$ 0,99"
+          ],
+          [
+            "Proline, caixinha avulsa, sem o código",
+            "R$ 0,99"
+          ]
+        ]
+      },
+      "emphasis": "Pelos números da tabela, para o perfil que compara o preço por grama de proteína (20 g nas duas) a escolha é o Proline com o CECI, a cerca de R$ 0,89 contra R$ 0,99 do Cubitan avulso, e para quem olha cálcio, ferro e cobre, os valores maiores estão no Cubitan (450 mg, 6 mg e 1.360 µg, contra 192 mg, 3,2 mg e 260 µg)."
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Novasource Proline e Cubitan são a mesma fórmula? As duas declaram a mesma quantidade de proteína e arginina em 200 ml, mas diferem em calorias e em outros nutrientes. Consulte quem orientou o uso antes de trocar.",
         "Qual tem mais calorias? O Proline declara de 274 a 276 kcal em 200 ml, conforme o sabor. O Cubitan declara 256 kcal.",
         "Os dois têm lactose? Sim. O Cubitan declara que contém lactose. A tabela do Proline informa 0,1 g por 100 ml.",
-        "Os dois têm sacarose? A Danone lista sacarose nos ingredientes do Cubitan. O Proline declara “sem adição de sacarose” e informa açúcares na tabela nutricional.",
-        "O cupom CECI vale? Vale na Nestlé Nutre, onde está o Proline: deu 10% na caixinha e no combo de 10 de baunilha. As regras estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+        "Os dois têm sacarose? A Danone lista sacarose nos ingredientes do Cubitan. O Proline declara “sem adição de sacarose” e informa açúcares na tabela nutricional."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "o Novasource Proline: a prescrição pede a caixinha com prolina declarada e você compra pelo menor preço por grama de proteína com o CECI.",
+      "o Cubitan: a prescrição pede mais cálcio, ferro e cobre por 200 ml, valores maiores na tabela da Danone."
+    ],
+    "skipIf": [
+      "você precisa evitar lactose: o Cubitan declara que contém lactose.",
+      "você pensa em trocar uma fórmula pela outra só pelo preço: a troca é decisão de quem prescreve."
+    ]
+  },
+  "updatedAt": "2026-11-23"
 }

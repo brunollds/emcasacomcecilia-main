@@ -33,7 +33,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Informações de rótulos e páginas oficiais da Nestlé, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "nutren-senior-zero-lactose-ficha-tecnica"
@@ -69,10 +69,13 @@
       "postParagraphs": [
         "A própria página faz uma ressalva sobre a gordura: \"este não é um alimento baixo ou reduzido em gorduras saturadas\"."
       ],
-      "image": "/images/reviews/nutren/nutren-fortify-sem-sabor-360g-oficial.webp",
-      "imageAlt": "Lata de 360 g do Nutren Fortify Sem Sabor com os destaques de ômega-3, 18 g de proteínas e zero lactose",
-      "imageCaption": "Nutren Fortify Sem Sabor, lata de 360 g. Foto oficial da Nestlé Nutre.",
-      "imageFit": "contain"
+      "image": {
+        "src": "/images/reviews/nutren/nutren-fortify-sem-sabor-360g-oficial.webp",
+        "alt": "Lata de 360 g do Nutren Fortify Sem Sabor com os destaques de ômega-3, 18 g de proteínas e zero lactose",
+        "caption": "Nutren Fortify Sem Sabor, lata de 360 g. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/nutren-fortify-sem-sabor-360g"
+      }
     },
     {
       "heading": "Tabela nutricional do Nutren Fortify por porção",
@@ -160,7 +163,7 @@
         ]
       },
       "postParagraphs": [
-        "Por 100 g de pó, a conta dá cerca de 438 kcal e 30 g de proteína. Os primeiros ingredientes são maltodextrina, caseinato de cálcio e um ingrediente à base de óleo de peixe.",
+        "Conta nossa: por 100 g de pó, cerca de 438 kcal e 30 g de proteína. Os primeiros ingredientes são maltodextrina, caseinato de cálcio e um ingrediente à base de óleo de peixe.",
         "A porção contém 1,5 g de açúcares adicionados. Esse é o dado da tabela nutricional, embora a vitrine da loja exiba a chamada “Sem Açúcar”."
       ]
     },
@@ -175,7 +178,7 @@
     {
       "heading": "Quanto custa o Nutren Fortify por porção: lata, combo ou assinatura",
       "paragraphs": [
-        "O combo de três latas na compra única com CECI teve o menor custo por porção. Para comprar apenas uma lata, a assinatura apareceu mais barata naquele dia e envolve entregas recorrentes."
+        "O combo de três latas na compra única com CECI teve o menor custo por porção. Para uma lata só, a assinatura e a compra única com o CECI ficaram a centavos por porção; a assinatura envolve entregas recorrentes."
       ],
       "comparisonTable": {
         "caption": "Preços da Nestlé Nutre em 19/11, sem frete. A lata rende seis porções de 60 g, conforme a ficha. Os valores com CECI vêm dos testes de compra única.",
@@ -220,12 +223,18 @@
       },
       "postParagraphs": [
         "A comparação da assinatura usa o preço exibido pela loja, sem aplicar o CECI. Confira a frequência das entregas e o frete pelo seu CEP antes de fechar.",
-        "O [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar) mostra como aplicar o código."
+        "O [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar) mostra como aplicar o código. O CECI vale só na compra única, e não na assinatura.",
+        "A assinatura dá 10% nas três primeiras entregas e 15% a partir da quarta."
       ],
       "links": [
         {
           "label": "Regras do cupom CECI na Nestlé Nutre",
           "href": "/cupons/nestle-nutre"
+        },
+        {
+          "label": "Ver a lata de 360 g na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-fortify-sem-sabor-360g",
+          "sponsored": true
         },
         {
           "label": "Ver o combo de 3 latas na Nestlé Nutre",
@@ -295,18 +304,39 @@
         ]
       },
       "postParagraphs": [
-        "A loja põe o Senior em nutrição adulta e o Fortify em nutrição especializada. A escolha entre os dois é de quem acompanha o caso, com as duas tabelas na mão. A ficha completa do Senior está no nosso [guia do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+        "A loja põe o Senior em nutrição adulta e o Fortify em nutrição especializada. A ficha completa do Senior está no nosso [guia do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+      ]
+    },
+    {
+      "heading": "Qual compra faz mais sentido",
+      "paragraphs": [
+        "A diferença entre lata, combo e assinatura está no custo por porção, na tabela de preços acima."
+      ],
+      "emphasis": "Pelos números da tabela, para quem usa o pó com frequência a escolha é o combo de 3 latas na compra única com o CECI, porque sai a R$ 13,83 por porção, contra R$ 18,09 da lata avulsa com o CECI; para uma lata só, compra única com o CECI e assinatura ficam a centavos uma da outra, e vale comparar no dia.",
+      "postParagraphs": [
+        "A fabricante orienta consumir o Fortify preferencialmente com acompanhamento de nutricionista ou médico, e a escolha entre ele e o Senior é de quem acompanha o caso."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Nutren Fortify tem lactose? A tabela declara 0 g de lactose. O Fortify contém derivados de leite, soja e peixe e a página informa que não contém glúten.",
         "Nutren Fortify engorda? A porção de 60 g tem 263 kcal. O efeito no peso depende da alimentação ao longo do tempo.",
         "Quantas porções tem a lata de Nutren Fortify? A lata de 360 g rende seis porções de 60 g, segundo a ficha.",
-        "Quanto tempo dura o Nutren Fortify depois de aberto? A Nestlé orienta consumir em até 30 dias e manter a lata fechada em local seco e fresco.",
-        "O cupom CECI vale no Nutren Fortify? Nos testes de compra única, deu 10% na lata avulsa e no combo de três latas."
+        "Quanto tempo dura o Nutren Fortify depois de aberto? A Nestlé orienta consumir em até 30 dias e manter a lata fechada em local seco e fresco."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "o combo de 3 latas na compra única com o CECI: você usa o pó com frequência e quer o menor custo por porção.",
+      "uma lata avulsa: você quer testar antes de fechar o combo; compare no dia a compra única com o CECI e a assinatura."
+    ],
+    "skipIf": [
+      "o Nutren Fortify: você procura produto sem açúcar adicionado, porque a tabela declara 1,5 g por porção, embora a vitrine mostre a chamada \"Sem Açúcar\".",
+      "o Nutren Fortify sem acompanhamento: a fabricante orienta consumir preferencialmente com nutricionista ou médico."
+    ]
+  },
+  "updatedAt": "2026-11-23"
 }

@@ -47,7 +47,7 @@
     {
       "heading": "Os três rótulos lado a lado",
       "comparisonTable": {
-        "caption": "Valores das páginas oficiais de cada marca em 11 e 12/10/2026. VD = valor diário de referência. A página do Ensure usada na comparação não traz a tabela por porção no texto.",
+        "caption": "Valores das páginas oficiais de cada marca. VD = valor diário de referência. A página do Ensure usada na comparação não traz a tabela por porção no texto.",
         "headers": [
           "Item do rótulo",
           "Nutren Senior Sem Sabor Zero Lactose",
@@ -108,7 +108,7 @@
         ]
       },
       "postParagraphs": [
-        "As latas são de 740 g, e a do Ensure, de 400 g. No Nutren Senior Sem Sabor, a tabela usa a porção de 55 g, e a sugestão de uso prepara 27,5 g por vez. VD é o valor diário de referência."
+        "As latas são de 740 g, e a do Ensure, de 400 g."
       ]
     },
     {
@@ -116,7 +116,7 @@
       "paragraphs": [
         "O Zero Lactose usa 3 colheres de sopa rasas (27,5 g) em 180 ml de água, a lata de 740 g rende cerca de 27 porções e ele é o único que informa 0 g de lactose. O rótulo se apresenta como \"composto lácteo com cálcio, proteínas, vitamina D e outros nutrientes essenciais. Zero lactose.\"",
         "O Café com Leite também é composto lácteo e usa 3 colheres de sopa (31,5 g) por porção, com 11 g de proteína e 25 µg de vitamina D.",
-        "O Sem Sabor comum, sem a indicação zero lactose, é vendido como suplemento alimentar. A tabela dele usa a porção de 55 g (6 colheres de sopa), com 20 g de proteína, e a sugestão de uso prepara 27,5 g por vez.",
+        "O Sem Sabor comum, sem a indicação zero lactose, é vendido como produto para adultos a partir de 50 anos. A tabela dele usa a porção de 55 g (6 colheres de sopa), com 20 g de proteína, e a sugestão de uso prepara 27,5 g por vez.",
         "Quem ficar com o Zero Lactose encontra o preparo no guia sem empelotar e a ficha completa no guia do Zero Lactose."
       ],
       "image": {
@@ -124,7 +124,8 @@
         "alt": "Latas de 740 g do Nutren Senior Zero Lactose Sem Sabor, do Nutren Senior Café com Leite e do Nutren Senior Sem Sabor lado a lado",
         "caption": "As três versões do Nutren Senior: Zero Lactose, Café com Leite e Sem Sabor. Fotos oficiais da Nestlé Nutre.",
         "objectFit": "contain",
-        "aspectRatio": 1.7778
+        "aspectRatio": 1.7778,
+        "href": "https://www.nestlenutre.com.br/nutren-senior"
       },
       "links": [
         {
@@ -135,7 +136,8 @@
           "label": "Como tomar Nutren Senior sem empelotar",
           "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
         }
-      ]
+      ],
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
       "heading": "Ensure Baunilha Pó: o que a Abbott informa",
@@ -173,59 +175,100 @@
         "alt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g com os benefícios da marca em volta e, embaixo, os selos sem lactose e sem glúten",
         "caption": "No material oficial do Nutren Senior Zero Lactose, os selos de sem lactose e sem glúten ficam embaixo da lata.",
         "objectFit": "contain",
-        "aspectRatio": 1.7787
+        "aspectRatio": 1.7787,
+        "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740"
       }
     },
     {
       "heading": "Quando procurar o médico ou o nutricionista",
       "paragraphs": [
-        "A quantidade por dia, o uso junto com outra dieta e a troca de um produto pelo outro são assuntos para o médico ou o nutricionista, principalmente para quem tem alguma doença ou restrição alimentar. Na página do Zero Lactose, a Nestlé recomenda consumir o Nutren Senior \"preferencialmente sob orientação de nutricionista ou médico\", e a página do Sustagen lembra que o produto não substitui uma alimentação saudável e balanceada.",
+        "A quantidade por dia, o uso junto com outra dieta e a troca de um produto pelo outro são assuntos para o médico ou o nutricionista, principalmente para quem tem alguma doença ou restrição alimentar. Na página do Zero Lactose, a Nestlé recomenda consumir o Nutren Senior \"preferencialmente sob orientação de nutricionista ou médico\".",
         "Leve a lata ou a foto do rótulo à consulta: a tabela por porção ajuda o profissional."
       ]
     },
     {
       "heading": "Onde entra o cupom CECI",
       "paragraphs": [
-        "Em outubro de 2026, o [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% de desconto na loja oficial, onde estão as versões do Nutren Senior. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.",
-        "Ensure e Sustagen não são parceiros do site, e não temos código para eles. Os preços do Nutren Senior em outubro estão no nosso guia de Black Friday da Nutren."
+        "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% de desconto na compra única da loja oficial, onde estão as versões do Nutren Senior, em todas as formas de pagamento. Ele soma com as promoções da loja, e a loja aceita um cupom por pedido. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
+        "Ensure e Sustagen não são parceiros do site, e não temos código para eles. A tabela abaixo traz o preço das três versões do Nutren Senior, antes do CECI; a conta por 100 g de pó é nossa e vale para comparar versões com porções diferentes."
       ],
       "links": [
         {
-          "label": "Cupom CECI na Nestlé Nutre",
-          "href": "/cupons/nestle-nutre"
+          "label": "Ver o Nutren Senior Zero Lactose na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740",
+          "sponsored": true
         },
         {
-          "label": "Black Friday Nutren 2026: preços e cupom CECI",
-          "href": "/reviews/black-friday-nestle-nutre"
+          "label": "Ver o Nutren Senior Café com Leite na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-senior-cafe-e-leite-po-lata-740",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Nutren Senior Sem Sabor na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-senior-po-lata-740g",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom CECI na Nestlé Nutre",
+          "href": "/cupons/nestle-nutre"
         }
-      ]
+      ],
+      "comparisonTable": {
+        "caption": "Nutren Senior em lata de 740 g na loja oficial em 23/11/2026, compra única, antes do CECI. O preço da Semana Black Friday é temporário.",
+        "headers": [
+          "Versão",
+          "Preço de lista",
+          "Preço da Semana Black Friday",
+          "Por 100 g de pó na campanha (conta nossa)"
+        ],
+        "rows": [
+          [
+            "Sem Sabor Zero Lactose",
+            "R$ 211,79",
+            "R$ 169,43",
+            "R$ 22,90"
+          ],
+          [
+            "Café com Leite",
+            "R$ 188,19",
+            "R$ 150,55",
+            "R$ 20,34"
+          ],
+          [
+            "Sem Sabor",
+            "R$ 188,19",
+            "R$ 150,55",
+            "R$ 20,34"
+          ]
+        ]
+      },
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
       "heading": "Qual escolher pelo rótulo",
       "paragraphs": [
         "Não há vencedor entre os três: a escolha segue o que cada pessoa precisa e a orientação do médico ou do nutricionista."
       ],
-      "emphasis": "O Nutren Senior Sem Sabor Zero Lactose é o único que informa 0 g de lactose por porção. Zero lactose não significa sem leite: leve essa diferença e o rótulo à consulta.",
+      "emphasis": "Pelos números da tabela, para o perfil que precisa evitar lactose a escolha é o Nutren Senior Sem Sabor Zero Lactose, porque é o único dos três que informa 0 g de lactose por porção; zero lactose não significa sem leite.",
       "emphasisAfterParagraph": 1,
       "bullets": [
         "Quem precisa evitar lactose: só o Nutren Senior Sem Sabor Zero Lactose informa 0 g de lactose por porção na tabela oficial; o Sustagen Senior avisa que contém lactose, e a Abbott diz o mesmo do Ensure pó.",
         "Quem quer a tabela completa para comparar: Nutren Senior e Sustagen Senior publicam tudo por porção, e o Ensure não publica a tabela por porção.",
-        "Quem compara proteína por dose: a conta só vale com a mesma porção, e o Ensure não informa o peso da porção.",
-        "Em qualquer caso, leve a lata ou a foto do rótulo à consulta."
+        "Quem compara proteína por dose: a conta só vale com a mesma porção, e o Ensure não informa o peso da porção."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Qual suplemento substitui o Ensure? Não há substituto direto: a escolha depende da dose, da tolerância e da orientação do médico ou do nutricionista, e vale comparar o que cada rótulo informa.",
-        "Qual suplemento substitui o Nutren Senior? Depende do que o médico ou o nutricionista indicou; compare a proteína, o cálcio e a vitamina D por porção nos rótulos.",
+        "Qual suplemento substitui o Nutren Senior? Não há substituto direto: compare a proteína, o cálcio e a vitamina D por porção nos rótulos.",
         "O Ensure é bom para ganhar massa muscular? A página oficial do Ensure informa 17 g de proteína em duas porções diárias; ganhar massa muscular depende de dieta e treino, e a dúvida vai para um nutricionista.",
         "Qual o melhor Nutren para o idoso? Não há um melhor: compare o rótulo da versão que você está considerando (Zero Lactose, Café com Leite ou Sem Sabor) com a porção que o médico ou o nutricionista indicou.",
         "Nutren Senior tem lactose? A versão Sem Sabor Zero Lactose tem 0 g de lactose por porção, segundo a tabela oficial. As páginas do Café com Leite e do Sem Sabor comum não trazem a linha de lactose: confira o rótulo da lata.",
         "Ensure tem lactose? Sim: segundo a Abbott, o Ensure pó contém lactose, e só o Ensure Protein não contém.",
         "Sustagen Senior tem lactose? Sim: o rótulo oficial diz \"contém lactose\".",
-        "Qual tem mais proteína por porção? Depende do tamanho da porção: a tabela do capítulo Os três rótulos lado a lado põe as doses lado a lado, e o Ensure informa 17 g em duas porções, sem dizer o peso delas.",
-        "Qual é o cupom de desconto da Nestlé Nutre? O cupom CECI dá 10% na loja oficial, em produtos Nestlé Nutre como o Nutren Senior, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Confira no carrinho se ele foi aceito antes de pagar."
+        "Qual tem mais proteína por porção? Depende do tamanho da porção: a tabela do capítulo Os três rótulos lado a lado põe as doses lado a lado, e o Ensure informa 17 g em duas porções, sem dizer o peso delas."
       ]
     }
   ],
@@ -241,16 +284,15 @@
   "affiliate": "nestle-nutre",
   "decision": {
     "takeIf": [
-      "Você precisa evitar lactose e quer o rótulo que informa 0 g por porção na tabela oficial.",
-      "Você quer comparar proteína, cálcio e vitamina D pela tabela completa por porção.",
-      "Você vai levar a comparação à consulta com o médico ou o nutricionista."
+      "o Nutren Senior Sem Sabor Zero Lactose: a casa precisa evitar lactose e quer o 0 g por porção declarado na tabela.",
+      "o Nutren Senior ou o Sustagen Senior: você quer comparar proteína, cálcio e vitamina D pela tabela completa por porção."
     ],
     "skipIf": [
-      "Você espera comparar o Ensure em números: a página dele não publica a tabela por porção.",
-      "Você decide dose ou troca sem o médico ou o nutricionista: leve o rótulo à consulta."
+      "o Ensure pó ou o Sustagen Senior: a casa precisa evitar lactose, e os dois avisam que contêm.",
+      "você quer comparar o Ensure em números: a página dele não publica a tabela por porção."
     ]
   },
-  "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
+  "editorialNote": "Informações de rótulos e páginas oficiais das marcas, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "nutren-senior-zero-lactose-ficha-tecnica"
@@ -259,7 +301,11 @@
       "slug": "nutren-senior-como-tomar-sem-empelotar"
     },
     {
+      "slug": "nutren-senior-ou-nutridrink"
+    },
+    {
       "slug": "black-friday-nestle-nutre"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

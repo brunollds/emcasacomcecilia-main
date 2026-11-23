@@ -17,7 +17,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Nutren A-Z ou Centrum A a Zinco: dose de cada vitamina e mineral e quanto cada um custa por dia.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa-v2.webp",
@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. Nas lojas e embalagens comparadas, o Nutren sai mais barato por dia (contas nossas), mas o Centrum lista também cálcio, fósforo, magnésio e iodo. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren."
+        "O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. Nas lojas e embalagens comparadas, o Nutren sai mais barato por dia, mas o Centrum lista também cálcio, fósforo, magnésio e iodo. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren."
       ]
     },
     {
@@ -227,7 +227,7 @@
         "As vitaminas C, E e o zinco auxiliam na proteção dos danos causados pelos radicais livres."
       ],
       "postParagraphs": [
-        "Do Centrum, a página da Drogasil informa a tabela, zero calorias, sem açúcares e \"não contém glúten\". O resto é frase de loja."
+        "Do Centrum, a página da Drogasil informa a tabela, zero calorias, sem açúcares e \"não contém glúten\". O resto do texto da página é descrição da loja."
       ],
       "image": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
       "imageAlt": "Lateral do frasco do Nutren A-Z Multi com as três alegações do rótulo e as recomendações de uso",
@@ -237,14 +237,14 @@
     {
       "heading": "Ingredientes e alérgenos",
       "paragraphs": [
-        "No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O rótulo traz ferro, manganês e selênio em formas quelatadas: bisglicinato de ferro, bisglicinato de manganês e selenometionina.",
+        "No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O rótulo fala em “minerais quelados” e cita bisglicinato de ferro, bisglicinato de manganês e selenometionina.",
         "No Centrum, a Drogasil lista excipientes como celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício; a Extrafarma traz a mesma lista. As fontes divergem sobre lactose: ela aparece na lista de ingredientes, enquanto a embalagem informa que não contém. Se você precisa evitar lactose, confirme essa informação no rótulo do frasco e com o fabricante antes de escolher. A Drogasil também lista vitamina A de origem suína e vitamina D3 de origem bovina e ovina."
       ]
     },
     {
       "heading": "Quanto custa por dia",
       "paragraphs": [
-        "Preço dividido pelo número de unidades (conta nossa), em 17/10/2026:"
+        "O preço por dia é o preço dividido pelo número de unidades."
       ],
       "comparisonTable": {
         "headers": [
@@ -278,16 +278,29 @@
             "R$ 140,99",
             "R$ 2,35"
           ]
-        ]
+        ],
+        "caption": "Preços de compra única em 17/10/2026, exceto a linha da assinatura. Por dia: conta nossa."
       },
       "postParagraphs": [
         "Pelas contas, o Centrum custa cerca de 2,9 vezes o Nutren por dia nesses preços. A comparação não é de dose igual: cada um traz nutrientes e quantidades diferentes, como mostra a tabela acima. Preço de farmácia muda por loja e por dia.",
-        "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Vale para o Nutren, e as condições vigentes ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre). O desconto não vale para o Centrum."
+        "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na compra única da loja oficial da Nestlé Nutre, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre. Vale para o Nutren, e não para o Centrum."
+      ],
+      "links": [
+        {
+          "label": "Ver o Nutren A-Z Multi 60 cápsulas na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-multi-az-60-capsulas",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Nutren A-Z Multi 30 cápsulas na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-multi-az-30-capsulas",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Para quem cada um faz sentido, pelo rótulo",
-      "emphasis": "Pelos números da tabela, para o perfil que procura cálcio, fósforo, magnésio e iodo no mesmo frasco a escolha é o Centrum, porque o Nutren não lista nenhum dos quatro.",
+      "emphasis": "Pelos números da tabela, para o perfil que procura cálcio, fósforo, magnésio e iodo no mesmo frasco a escolha é o Centrum, porque o Nutren não lista nenhum dos quatro; para quem prefere cápsula softgel e o menor custo por dia nas lojas comparadas, é o Nutren A-Z Multi.",
       "bullets": [
         "Quem quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico: o Centrum é o que traz esses nutrientes na tabela.",
         "Quem prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitamina A, vitamina E, selênio, cobre, cromo e molibdênio, ou menor preço por dia nas lojas comparadas: o Nutren A-Z Multi.",
@@ -301,6 +314,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Nutren A-Z ou Centrum? Compare a composição e o formato: o Nutren é cápsula softgel; o Centrum A a Zinco Adulto é comprimido e lista também cálcio, fósforo, magnésio e iodo. A tabela acima mostra as quantidades por unidade.",
         "O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.",
         "O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.",
@@ -313,12 +327,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Centrum A a Zinco Adulto: você procura cálcio, fósforo, magnésio e iodo no mesmo multivitamínico, nutrientes listados na tabela desse produto.",
-      "Nutren A-Z Multi: você prefere cápsula softgel ou compara pelo menor preço por dia entre as embalagens e lojas da tabela."
+      "o Nutren A-Z Multi: você prefere cápsula softgel ou compara pelo menor preço por dia entre as embalagens e lojas da tabela.",
+      "o Centrum A a Zinco Adulto: você procura cálcio, fósforo, magnésio e iodo no mesmo multivitamínico, nutrientes listados na tabela desse produto."
     ],
     "skipIf": [
-      "Você segue dieta sem produtos de origem animal: nenhum dos dois atende a esse critério.",
-      "Você precisa escolher por dose, uso com outros medicamentos, gravidez ou amamentação: leve essa dúvida a um médico ou nutricionista."
+      "você segue dieta sem produtos de origem animal: nenhum dos dois atende.",
+      "a escolha depende de dose, de outros medicamentos, de gravidez ou de amamentação: leve a dúvida a um médico ou nutricionista."
     ]
   },
   "pros": [],
@@ -331,7 +345,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Comparativo feito com rótulos e páginas de fabricantes e lojas. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
+  "editorialNote": "Informações de rótulos e páginas de fabricantes e lojas, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "nutren-a-z-multi-para-que-serve"
@@ -341,6 +355,9 @@
     },
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar"
+    },
+    {
+      "slug": "nutren-protein-ou-whey"
     }
   ]
 }

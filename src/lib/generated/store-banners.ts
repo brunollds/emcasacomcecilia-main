@@ -583,25 +583,24 @@ export const storeBannersData: StoreBanner[] = [
     "endsAt": "2026-11-30T23:59:59-03:00"
   },
   {
-    "id": "nestle-nutre-esquenta-black-friday-2026",
+    "id": "nestle-nutre-black-friday-2026",
     "affiliate": "nestle-nutre",
     "slot": "top",
     "href": "https://www.nestlenutre.com.br/",
     "art": {
       "kind": "tag",
-      "value": "25%"
+      "value": "50%"
     },
-    "endsAt": "2026-11-22T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Esquenta Black Friday da Nestlé Nutre: até 25% OFF",
-        "text": "Campanha da própria Nestlé Nutre, em produtos selecionados e sem fórmulas infantis. As condições aparecem no site da loja.",
+        "headline": "Semana Black Friday da Nestlé Nutre: até 50% OFF",
+        "text": "Campanha da própria Nestlé Nutre, em produtos e combos selecionados, com frete grátis acima de R$ 100 durante a campanha. As condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Carrossel da home de nestlenutre.com.br: \"Desconto válido no período de 01/11/26 a 22/11/26 ou enquanto durarem os estoques\" (navegador, 04/11/2026)",
-    "verifiedAt": "2026-11-04"
+    "source": "Faixa do topo de nestlenutre.com.br (\"COMEÇOU a Semana de Black Friday Nestlé Nutre!\") e banners da home (\"só nesta semana\", até 50% OFF, frete grátis acima de R$ 100 durante a Black Friday), sem data de fim publicada, lidos no navegador em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "petz-friday-2026",

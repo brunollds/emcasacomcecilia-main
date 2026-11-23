@@ -33,7 +33,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
+  "editorialNote": "Informações de rótulos e páginas oficiais; a escolha da fórmula é do pediatra. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "nanlac-supreme-ou-ninho-fases"
@@ -52,7 +52,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Nestonutri e Ninho Fases 1+ são fórmulas de seguimento para 1 a 3 anos. O Nestonutri declara GOS e uma pequena quantidade de FOS. O Ninho declara FOS e inulina, tem menos açúcares adicionados e mais açúcares totais. Na leitura de preços, o Ninho custou menos por 100 ml preparados. Converse com o pediatra sobre a escolha."
+        "Nestonutri e Ninho Fases 1+ são fórmulas de seguimento para 1 a 3 anos. O Nestonutri declara GOS e um pouco de FOS; o Ninho, FOS e inulina, com menos açúcares adicionados e mais açúcares totais. O Ninho custa menos por 100 ml preparados, e a escolha é do pediatra; os números estão nos capítulos abaixo."
       ]
     },
     {
@@ -86,10 +86,13 @@
         ]
       },
       "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
-      "image": "/images/reviews/nutren/nestonutri-1-3-anos-800g-oficial.webp",
-      "imageAlt": "Lata de 800 g do Nestonutri, fórmula infantil de seguimento para crianças de primeira infância, de 1 a 3 anos, com prebióticos",
-      "imageCaption": "Nestonutri 1+, lata de 800 g. Foto oficial da Nestlé Nutre.",
-      "imageFit": "contain"
+      "image": {
+        "src": "/images/reviews/nutren/nestonutri-1-3-anos-800g-oficial.webp",
+        "alt": "Lata de 800 g do Nestonutri, fórmula infantil de seguimento para crianças de primeira infância, de 1 a 3 anos, com prebióticos",
+        "caption": "Nestonutri 1+, lata de 800 g. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/formula-infantil-de-primeira-infancia-nestonutri-1-800g"
+      }
     },
     {
       "heading": "Fibras e prebióticos por 100 g de pó",
@@ -127,7 +130,7 @@
         ]
       },
       "postParagraphs": [
-        "As tabelas das duas páginas consultadas também não listam DHA, ARA nem HMO."
+        "Nenhuma das duas tabelas lista DHA, ARA nem HMO."
       ]
     },
     {
@@ -198,10 +201,13 @@
       "postParagraphs": [
         "O Ninho também declara menos gordura saturada e mais cálcio e iodo. O Nestonutri declara mais vitaminas C e D."
       ],
-      "image": "/images/reviews/nutren/ninho-fases-1-mais-800g-oficial.webp",
-      "imageAlt": "Lata de 800 g do Ninho Fases 1+, de 1 a 3 anos, com prebióticos e a denominação fórmula infantil de seguimento para crianças de primeira infância",
-      "imageCaption": "Ninho Fases 1+, lata de 800 g. Foto oficial da Nestlé Nutre.",
-      "imageFit": "contain",
+      "image": {
+        "src": "/images/reviews/nutren/ninho-fases-1-mais-800g-oficial.webp",
+        "alt": "Lata de 800 g do Ninho Fases 1+, de 1 a 3 anos, com prebióticos e a denominação fórmula infantil de seguimento para crianças de primeira infância",
+        "caption": "Ninho Fases 1+, lata de 800 g. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/ninho-fases-1-800g"
+      },
       "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
@@ -223,8 +229,8 @@
           ],
           [
             "Rendimento estimado da lata",
-            "Cerca de 56",
-            "Cerca de 58"
+            "cerca de 56 porções de 100 ml",
+            "cerca de 58 porções de 100 ml"
           ],
           [
             "Depois de aberta",
@@ -254,7 +260,7 @@
       "heading": "Quanto custam 100 ml de cada fórmula",
       "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
       "paragraphs": [
-        "No teste de compra única na Nestlé Nutre, o CECI deu 10% nas duas latas de 800 g. Com o código, cada 100 ml preparados custaram R$ 0,77 com o Ninho Fases 1+ e R$ 1,02 com o Nestonutri."
+        "No teste de compra única na Nestlé Nutre, o CECI deu 10% nas duas latas de 800 g, e o Ninho Fases 1+ seguiu mais barato por 100 ml preparados."
       ],
       "comparisonTable": {
         "caption": "Compra única na Nestlé Nutre em 19/11, sem frete. Antes do código, o Ninho em promoção custava R$ 49,46 e o Nestonutri, R$ 63,69. Calculamos os valores por 100 g e por 100 ml com o peso da lata e o rendimento de cada fórmula.",
@@ -293,7 +299,7 @@
       },
       "postParagraphs": [
         "A loja também lista o Ninho Fases 1+ em latas de 400 g e 1,2 kg. O teste foi com as duas latas de 800 g.",
-        "O código tem exceções para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Consulte as condições na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+        "O CECI dá 10% OFF na compra única da loja oficial da Nestlé Nutre, em todas as formas de pagamento, e soma com as promoções da loja. Ficam de fora Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, a assinatura e o Mercado Livre. Consulte as condições na página do [cupom Nestlé Nutre](/cupons/nestle-nutre)."
       ],
       "links": [
         {
@@ -309,7 +315,7 @@
       ]
     },
     {
-      "heading": "O que levar à conversa com o pediatra",
+      "heading": "Quem escolhe o quê, pelo rótulo",
       "paragraphs": [
         "Se a dúvida é qual fórmula usar, leve o rótulo completo à consulta. Informe a idade da criança e qualquer restrição alimentar."
       ],
@@ -317,17 +323,30 @@
         "Fibras e prebióticos. O Nestonutri declara GOS e FOS. O Ninho declara FOS, inulina e o dobro de fibras por 100 g de pó.",
         "Açúcares. Compare a linha de açúcares adicionados e a de açúcares totais, que variam em direções diferentes.",
         "Alérgenos. As duas fórmulas contêm leite, derivados de soja e lactose, segundo a Nestlé Nutre."
-      ]
+      ],
+      "emphasis": "Pelos números da tabela, para quem compara custo, o Ninho Fases 1+ de 800 g sai por R$ 0,77 a cada 100 ml preparados com o CECI contra R$ 1,02 do Nestonutri 1+; para quem compara fibras, o Ninho declara 5,8 g por 100 g de pó contra 2,9 g, e para quem compara vitaminas C e D, os números maiores estão no Nestonutri."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Ninho Fases 1+ é fórmula ou composto lácteo? Na lata de 800 g, consta fórmula infantil de seguimento para crianças de primeira infância, a mesma denominação do Nestonutri 1+.",
         "Qual é a diferença entre Nestonutri 1+ e Ninho Fases 1+? O Nestonutri declara GOS e FOS. O Ninho declara FOS e inulina, mais fibras e menos açúcares adicionados por 100 g de pó.",
         "Quanto rende a lata de 800 g? Pelas quantidades de pó da tabela de cada produto, cerca de 56 porções de 100 ml no Nestonutri e 58 no Ninho Fases 1+.",
-        "Nestonutri e Nestogeno é a mesma coisa? Não. São linhas diferentes da Nestlé para idades diferentes: o Nestogeno é fórmula infantil para bebês de até 12 meses, e o Nestonutri 1+ é para crianças de 1 a 3 anos. Para bebê com menos de 1 ano, quem orienta a alimentação é o pediatra.",
-        "O cupom CECI vale nas latas de 800 g? No teste de compra única na Nestlé Nutre, o CECI deu 10% no Nestonutri 1+ e no Ninho Fases 1+ de 800 g."
+        "Nestonutri e Nestogeno é a mesma coisa? Não. São linhas diferentes da Nestlé para idades diferentes: o Nestogeno é fórmula infantil para bebês de até 12 meses, e o Nestonutri 1+ é para crianças de 1 a 3 anos. Para bebê com menos de 1 ano, quem orienta a alimentação é o pediatra."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "o Ninho Fases 1+: o critério é o menor custo por 100 ml preparados e mais fibras declaradas por 100 g de pó.",
+      "o Nestonutri 1+: o critério é ter GOS declarado e mais vitaminas C e D na tabela."
+    ],
+    "skipIf": [
+      "a criança tem menos de 1 ano: as duas latas são de 1 a 3 anos, e a escolha do alimento é do pediatra.",
+      "há restrição a leite, soja ou lactose: as duas declaram os três.",
+      "a dúvida é qual fórmula serve à criança: isso é decisão do pediatra."
+    ]
+  },
+  "updatedAt": "2026-11-23"
 }
