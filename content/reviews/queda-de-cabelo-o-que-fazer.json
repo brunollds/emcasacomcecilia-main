@@ -27,14 +27,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Se uma das linhas faz sentido para os seus fios, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+    "text": "Se uma das linhas faz sentido para os seus fios, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
   "coupon": "CECILIAMC",
   "affiliate": "prohall",
-  "editorialNote": "Feito com as páginas da Prohall e da Sociedade Brasileira de Dermatologia, sem uso dos produtos; não substitui o médico. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Dados da Prohall e da SBD, sem uso dos produtos. Não substitui o médico.",
   "relatedArticles": [
     {
       "slug": "cabelo-fino-e-fraco-qual-linha-prohall"
@@ -90,7 +90,7 @@
       ],
       "bullets": [
         "Lavar com suavidade, massageando o couro cabeludo sem esfregar.",
-        "Usar menos calor de secador e chapinha e, quando usar, passar um protetor térmico antes, como o spray Absolut One da Prohall.",
+        "Usar menos calor de secador e chapinha e, quando usar, passar um protetor térmico antes, como o [spray Absolut One](https://lojaprohall.com.br/products/mascara-em-spray-absolut-one-12-beneficios-em-1-200ml) da Prohall.",
         "Deixar um intervalo entre uma química e outra.",
         "Pentear do comprimento para a raiz, com cuidado nos nós."
       ],
@@ -99,11 +99,11 @@
     {
       "heading": "Quem usa as canetas emagrecedoras",
       "paragraphs": [
-        "Se a queda apareceu junto com o tratamento para emagrecer, o médico que acompanha você é quem orienta. A gente reuniu o cuidado com os fios em um artigo para cada marca: [Mounjaro](/reviews/queda-de-cabelo-mounjaro), [Ozempic](/reviews/queda-de-cabelo-ozempic) e [Wegovy](/reviews/queda-de-cabelo-wegovy)."
+        "Se a queda apareceu junto com o tratamento para emagrecer, o médico que acompanha você é quem orienta. A gente reuniu o cuidado com os fios em um artigo para cada marca, Mounjaro, Ozempic e Wegovy, nos relacionados no fim da página."
       ]
     },
     {
-      "heading": "Fios fracos, finos ou quebradiços: qual linha da Prohall",
+      "heading": "Qual linha da Prohall serve para fios fracos, finos ou quebradiços?",
       "paragraphs": [
         "A tabela mostra para que cada linha é indicada, segundo a Prohall. São produtos de cuidado do fio e não substituem a consulta. Para escolher entre as três com mais calma, veja [qual linha da Prohall para cabelo fino e fraco](/reviews/cabelo-fino-e-fraco-qual-linha-prohall)."
       ],
@@ -147,15 +147,28 @@
       ]
     },
     {
-      "heading": "Como usar o código",
+      "heading": "Qual linha levar e como usar o código?",
       "paragraphs": [
-        "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Ele é digitado no checkout, em “Tem um cupom?”; antes de pagar, veja se a linha do desconto apareceu no carrinho.",
+        "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Para usar, no checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra o “Desconto no pedido”. Vale também no aplicativo.",
         "O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+      ],
+      "emphasis": "Para fio que quebra com o calor, eu começaria pelo spray Absolut One. Para uma rotina completa de fio fino, eu levaria o Selve Power, o mais simples das três linhas.",
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale nas linhas de cuidado do fio, não no tratamento da queda.",
         "Quantos fios de cabelo é normal cair por dia? Segundo a Sociedade Brasileira de Dermatologia, perder cerca de 100 a 120 fios por dia é normal.",
         "Queda de cabelo feminina: o que pode ser? A SBD cita o pós-parto, a febre, a cirurgia, as dietas muito restritivas, o estresse e fatores genéticos e hormonais. Para saber qual é o seu caso, só o dermatologista, e sem se automedicar.",
         "Queda de cabelo masculina é normal? Perder cerca de 100 a 120 fios por dia é normal, segundo a SBD. Se a queda aumentou ou há dúvida sobre a causa, o dermatologista avalia.",
@@ -163,5 +176,16 @@
         "Shampoo resolve queda de cabelo? Não: a queda é assunto do dermatologista. O shampoo e a máscara cuidam do fio que quebra."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Leve o spray Absolut One se o fio quebra por causa do calor do secador e da chapinha.",
+      "Leve o Selve Power se quer começar a rotina com shampoo e condicionador de uso diário."
+    ],
+    "skipIf": [
+      "Passe no Encorpax se você não quer uma rotina de quatro etapas.",
+      "Passe nos kits se só o calor é o problema: o spray de proteção térmica resolve sozinho."
+    ]
+  },
+  "updatedAt": "2026-11-23"
 }

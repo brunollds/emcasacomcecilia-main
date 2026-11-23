@@ -32,19 +32,19 @@
       "Você já decidiu usar um tônico de couro cabeludo e quer saber como a página manda aplicar."
     ],
     "skipIf": [
-      "Sua dúvida é queda de cabelo: esse assunto é de dermatologista, não de loja.",
-      "Você espera um resultado garantido: este guia não promete nenhum."
+      "Passe se você não quer uma etapa diária no couro cabeludo: o tônico é leave-in e pede uso todos os dias.",
+      "Passe se prefere shampoo e máscara de rotina mais simples: o kit traz três produtos de funções diferentes."
     ]
   },
   "cta": {
-    "text": "Se a linha Force Hair faz sentido para você, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+    "text": "Se a linha Force Hair faz sentido para você, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
   "coupon": "CECILIAMC",
   "affiliate": "prohall",
-  "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Dados das páginas dos produtos, sem uso. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "prohall-e-boa"
@@ -53,7 +53,7 @@
       "slug": "biomask-prohall-para-que-serve"
     },
     {
-      "slug": "prohall-e-confiavel"
+      "slug": "cabelo-fino-e-fraco-qual-linha-prohall"
     },
     {
       "slug": "cupom-prohall-como-usar"
@@ -140,6 +140,13 @@
       ]
     },
     {
+      "heading": "O que a página não publica",
+      "paragraphs": [
+        "A Prohall lista alguns ativos nos anúncios. A composição completa e as quantidades ficam para conferir no rótulo.",
+        "Queda de cabelo, falhas ou irritação no couro cabeludo são assunto de dermatologista: a consulta vem antes da compra de um produto de loja."
+      ]
+    },
+    {
       "heading": "Quanto custa cada item da linha",
       "paragraphs": [
         "Os preços no site são de cada embalagem. A estimativa com CECILIAMC usa os 7% observados nos carrinhos testados. Confira quanto o código tira no seu pedido."
@@ -153,22 +160,22 @@
         ],
         "rows": [
           [
-            "Tônico Force Hair 120 ml",
+            "[Tônico Force Hair 120 ml](https://lojaprohall.com.br/products/tonico-force-hair-crescimento-capilar-acelerado-120ml)",
             "R$ 24,90",
             "R$ 23,16"
           ],
           [
-            "Shampoo Force Hair 500 ml",
+            "[Shampoo Force Hair 500 ml](https://lojaprohall.com.br/products/shampoo-de-crescimento-fortificante-force-hair-500ml)",
             "R$ 49,90",
             "R$ 46,41"
           ],
           [
-            "Máscara Force Hair 500 ml",
+            "[Máscara Force Hair 500 ml](https://lojaprohall.com.br/products/mascara-de-crescimento-fortificante-force-hair-500ml)",
             "R$ 79,90",
             "R$ 74,31"
           ],
           [
-            "Kit com shampoo, máscara e tônico",
+            "[Kit com shampoo, máscara e tônico](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
             "R$ 99,90",
             "R$ 92,91"
           ]
@@ -176,25 +183,38 @@
       },
       "postParagraphs": [
         "O kit custa R$ 99,90. Os três anúncios avulsos somam R$ 154,70. Antes de usar essa diferença para decidir, confirme com a Prohall se o tônico do kit, descrito como 120 g, é o mesmo que o avulso de 120 ml.",
-        "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10%; nos nossos testes, o carrinho mostrou 7%. O código é digitado em “Tem um cupom?”, no checkout. O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10%; nos nossos testes, o carrinho mostrou 7%. Para usar, no checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra o “Desconto no pedido”. Vale também no aplicativo. O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
       ]
     },
     {
-      "heading": "O que a página não publica",
+      "heading": "Qual item da Force Hair levar?",
       "paragraphs": [
-        "A Prohall lista alguns ativos nos anúncios. A composição completa e as quantidades ficam para conferir no rótulo. Para queixas persistentes do couro cabeludo, procure um dermatologista.",
-        "Queda de cabelo é assunto de dermatologista. Quem tem queixa de queda, falhas ou irritação no couro cabeludo deve começar pela consulta, e não pela compra de um produto de loja."
+        "Quem quer a linha inteira paga menos no kit do que nos três avulsos, desde que o tônico do kit seja o mesmo do avulso. Quem só quer experimentar o item de menor preço começa pelo tônico."
+      ],
+      "emphasis": "Para quem já decidiu pela linha, eu levaria o kit com shampoo, máscara e tônico, depois de confirmar o tamanho do tônico com a loja. Para começar com pouco, eu escolheria só o tônico.",
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Force Hair Prohall é bom? O que dá para conferir nas fichas é a diferença de uso. O tônico fica no couro cabeludo. O shampoo e a máscara são enxaguados. A equipe não testou a linha.",
-        "Force Hair funciona? A equipe não testou a linha. Se você tem uma queixa no couro cabeludo, converse com um dermatologista antes de escolher o produto.",
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale no tônico, no shampoo, na máscara e no kit Force Hair.",
+        "Force Hair Prohall é bom? O que dá para conferir nas fichas é a diferença de uso: o tônico fica no couro cabeludo, e o shampoo e a máscara são enxaguados.",
+        "Force Hair funciona? A página não traz estudo sobre a linha nem promete resultado. Se você tem uma queixa no couro cabeludo, converse com um dermatologista antes de escolher o produto.",
         "Como usar o tônico Force Hair? Segundo a página, no couro cabeludo limpo e seco ou levemente úmido, com massagem, sem enxaguar e todos os dias. Em caso de irritação, a página manda suspender o uso.",
         "Qual a composição da Force Hair? Nos anúncios do tônico e do shampoo, a Prohall lista óleo de patauá, óleo de rícino, biotina e Blend BeauPlex. Confira a composição completa no rótulo de cada item.",
         "Quanto custa a Force Hair da Prohall? Na consulta, o tônico era o item avulso de menor preço. O kit tinha shampoo, máscara e tônico. A tabela mostra os preços e indica a estimativa com o cupom."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

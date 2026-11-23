@@ -39,12 +39,12 @@
     ]
   },
   "cta": {
-    "text": "Abra o site oficial da Prohall pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout. O desconto entra em cima do preço da campanha.",
+    "text": "Abra o site oficial da Prohall pelo botão e digite CECILIAMC em “Código de desconto”, no checkout. O desconto entra em cima do preço da campanha.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
-  "editorialNote": "Preços lidos no site da Prohall e cupom testado no checkout. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Preços lidos no site e cupom testado. Não usamos os produtos. Pode haver comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-prohall-como-usar"
@@ -53,37 +53,37 @@
       "slug": "cupom-prohall-primeira-compra"
     },
     {
-      "slug": "prohall-e-confiavel"
+      "slug": "prohall-e-boa"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Black Friday da Prohall já está no site, com ofertas que a loja anuncia como de até 80% e por tempo limitado, sem data de fim publicada. O cupom CECILIAMC soma com o preço da campanha: dá até 10% OFF e, nos nossos testes, tirou 7% de produtos já em promoção."
+        "A Black Friday da Prohall já está no site, com ofertas “até 80% off” e sem data de fim publicada. O cupom CECILIAMC soma com o preço da campanha: dá até 10% OFF, em todas as formas de pagamento, e, nos nossos testes, tirou 7% de produtos já em promoção."
       ]
     },
     {
       "heading": "A Black Friday da Prohall já começou?",
       "paragraphs": [
-        "Já. A loja tem no ar a coleção Black Prohall 2026, que anuncia como “ofertas de até 80% off”, com “condições exclusivas por tempo limitado”. Os produtos da coleção levam o selo “Black Friday até 80%”.",
-        "A Prohall não publica regulamento nem datas de início e de fim. Como a campanha pode mudar sem aviso, o preço que vale é o da página no dia da compra."
+        "Já. A loja tem no ar a coleção Black Prohall 2026, com a chamada “até 80% OFF” e “condições exclusivas por tempo limitado”. Os produtos da coleção levam o selo “Black Friday até 80%”.",
+        "A Prohall não publica regulamento nem datas de início e de fim, e a página da Black hoje não mostra brindes por faixa de valor: o que está à vista são os preços promocionais. Como a campanha pode mudar sem aviso, o preço que vale é o da página no dia da compra."
       ]
     },
     {
       "heading": "O cupom soma com a Black Friday?",
       "paragraphs": [
         "Soma. O CECILIAMC dá até 10% OFF e entra em cima do preço da campanha. Em 12 de novembro de 2026, abrimos o checkout de seis produtos da coleção com o código, e o desconto foi de 7% em todos.",
-        "No teste da página do [cupom Prohall](/cupons/prohall), feito no mesmo dia, um carrinho de quatro itens com produtos em promoção caiu de R$ 380,70 para R$ 354,06. O percentual varia por produto: confira a linha “Cupom CECILIAMC” no resumo do seu pedido."
+        "No teste da página do [cupom Prohall](/cupons/prohall), feito no mesmo dia, um carrinho de quatro itens com produtos em promoção caiu de R$ 380,70 para R$ 354,06. No reteste mais recente, o kit Force Hair, o Burix One de 300 ml e o Select One de 300 ml foram de R$ 279,70 para R$ 260,13: de novo 7%, sobre preço já promocional. O percentual varia por produto: confira a linha “Desconto no pedido” no resumo do seu pedido."
       ]
     },
     {
-      "heading": "O que está em oferta",
+      "heading": "O que está em oferta na Prohall?",
       "paragraphs": [
         "Seis produtos da coleção, com o preço da campanha, o preço “de” que a loja mostra e o total que o checkout deu com o código:"
       ],
       "comparisonTable": {
-        "caption": "Preços lidos no site da Prohall, com a campanha no ar. A última coluna é o total do checkout com o CECILIAMC, sem frete e sem finalizar a compra.",
+        "caption": "Preços lidos no site da Prohall em 22 de novembro de 2026, com a campanha no ar. A última coluna é o total do checkout com o CECILIAMC, sem frete e sem finalizar a compra.",
         "headers": [
           "Produto",
           "Preço “de”",
@@ -92,37 +92,37 @@
         ],
         "rows": [
           [
-            "Select One Um Só Passo 1 L",
+            "[Select One Um Só Passo 1 L](https://lojaprohall.com.br/products/select-one-um-so-passo-1l-344426850)",
             "R$ 309,90",
             "R$ 219,90",
             "R$ 204,51"
           ],
           [
-            "Burix One 1 L",
+            "[Burix One 1 L](https://lojaprohall.com.br/products/reestruturacao-molecular-tanino-organica-burix-one-1l)",
             "R$ 319,90",
             "R$ 229,90",
             "R$ 213,81"
           ],
           [
-            "Cronograma Capilar Premium",
+            "[Cronograma Capilar Premium](https://lojaprohall.com.br/products/kit-cronograma-capilar-profissional-premium)",
             "R$ 299,90",
             "R$ 189,90",
             "R$ 176,61"
           ],
           [
-            "Btx Capilar Orgânico Blend Repair 300 g",
+            "[Btx Capilar Orgânico Blend Repair 300 g](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-300g)",
             "R$ 109,90",
             "R$ 62,90",
             "R$ 58,50"
           ],
           [
-            "Kit Cuidado Capilar Diário Absolut One",
+            "[Kit Cuidado Capilar Diário Absolut One](https://lojaprohall.com.br/products/shampoo-condicionador-mascara-absolut-one-prohall-limpeza-hidratacao-e-reconstrucao-para-fios-macios-e-brilhantes)",
             "R$ 223,90",
             "R$ 139,90",
             "R$ 130,11"
           ],
           [
-            "Kit Force Hair (shampoo, máscara e tônico)",
+            "[Kit Force Hair (shampoo, máscara e tônico)](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
             "R$ 289,90",
             "R$ 99,90",
             "R$ 92,91"
@@ -160,24 +160,24 @@
     {
       "heading": "Esgotado no site: e o app?",
       "paragraphs": [
-        "Alguns produtos aparecem com o aviso “Esgotado no site | Baixar o app para comprar”. O CECILIAMC vale também no app da Prohall, segundo a parceria; nosso teste foi no site. No app, confira a linha do desconto no resumo antes de pagar."
+        "Alguns produtos aparecem com o aviso “Esgotado no site | Baixar o app para comprar”. O CECILIAMC vale também no app da Prohall, segundo a parceria; nosso teste foi no site. No app, confira a linha “Desconto no pedido” no resumo antes de pagar."
       ]
     },
     {
-      "heading": "Frete e pagamento na campanha",
+      "heading": "Como ficam frete e pagamento na campanha?",
       "paragraphs": [
         "O frete grátis depende da região: a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste. O mínimo conta depois do cupom, então quem está perto do valor confere o frete com o código já aplicado.",
-        "No cartão, a loja parcela em até 10 vezes sem juros, com parcela mínima de R$ 20. O cupom vale também no Pix: com ele selecionado no checkout, o total foi o mesmo, sem desconto a mais."
+        "No cartão, a loja parcela em até 10 vezes sem juros, com parcela mínima de R$ 20. O cupom vale em todas as formas de pagamento: com o Pix selecionado no checkout, o total foi o mesmo do cartão, sem desconto a mais."
       ]
     },
     {
-      "heading": "Cashback da loja e o cupom",
+      "heading": "O cashback da loja soma com o cupom?",
       "paragraphs": [
         "A Prohall dá cashback na forma de cupom para a compra seguinte. Segundo a loja, esse cupom não junta com outros cupons: ele não entra no mesmo pedido que o CECILIAMC."
       ]
     },
     {
-      "heading": "Troca de compra da campanha",
+      "heading": "Como funciona a troca de uma compra da campanha?",
       "paragraphs": [
         "A loja não publica regra de troca própria da campanha. Vale a política geral do site:"
       ],
@@ -189,17 +189,37 @@
         "Na troca, a postagem fica por conta do cliente."
       ],
       "postParagraphs": [
-        "Confira o pacote na entrega e guarde o número do pedido. A regra completa está em [Prohall é confiável?](/reviews/prohall-e-confiavel)."
+        "Confira o pacote na entrega e guarde o número do pedido. A política geral vale também para a compra da campanha."
+      ]
+    },
+    {
+      "heading": "Vale a pena comprar na Black Friday da Prohall?",
+      "emphasis": "Eu compraria na Black da Prohall só o produto que já uso ou que sei que serve ao meu cabelo, conferindo o preço da página no dia: a campanha muda sem aviso, e produto aberto não troca.",
+      "paragraphs": [
+        "No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo. O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+      ],
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale também sobre o preço da Black Friday.",
         "O cupom CECILIAMC vale na Black Friday? Vale. O cupom Prohall CECILIAMC dá até 10% OFF em cima do preço da campanha; nos nossos testes, tirou 7% de produtos já em promoção.",
         "Quando acaba a Black Friday da Prohall? A loja diz que as ofertas são por tempo limitado e não publica data de fim.",
         "O cupom vale no app da Prohall? Sim. O CECILIAMC vale no site oficial e no app.",
         "Tem frete grátis na Black Friday da Prohall? Tem, a partir de um valor mínimo que muda por região e conta depois do cupom."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

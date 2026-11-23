@@ -29,12 +29,12 @@
   "image": "/images/reviews/prohall/prohall-e-confiavel-capa-v2.webp",
   "imageAlt": "Potes de máscara Extreme Repair, Proboo Fiber e Biomask da Prohall empilhados em cena oficial, com o logo Prohall, a chamada “Prohall é confiável?” e o cupom CECILIAMC.",
   "cta": {
-    "text": "Se a Prohall faz sentido para a sua compra, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+    "text": "Se a Prohall faz sentido para a sua compra, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
-  "editorialNote": "Feito com dados públicos da empresa e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Dados públicos da empresa e da loja. Não usamos os produtos. Pode haver comissão.",
   "relatedArticles": [
     {
       "slug": "prohall-reclame-aqui-nota-reputacao"
@@ -50,7 +50,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Prohall é uma marca brasileira de produtos para cabelo, fundada em 2017 em Lençóis Paulista, no interior de São Paulo. A loja oficial tem CNPJ no rodapé e reputação Boa no Reclame Aqui. A troca vale por 30 dias, com o lacre intacto e o pedido devolvido por inteiro."
+        "A Prohall é uma marca brasileira de produtos para cabelo, fundada em 2017 em Lençóis Paulista (SP). A loja oficial mostra CNPJ no rodapé, e o perfil dela no Reclame Aqui tem reputação Boa. A troca vale por 30 dias, com o lacre intacto e o pedido devolvido por inteiro. Com o CECILIAMC, até 10% OFF."
       ]
     },
     {
@@ -70,9 +70,9 @@
       ]
     },
     {
-      "heading": "Qual é o site oficial",
+      "heading": "Qual é o site oficial da Prohall?",
       "paragraphs": [
-        "São dois endereços. A loja fica em lojaprohall.com.br; o site institucional, em prohall.com.br, tem um botão que leva à loja. A Prohall também vende pelo app, anunciado na própria loja.",
+        "São dois endereços. A loja fica em [lojaprohall.com.br](https://lojaprohall.com.br/); o site institucional, em prohall.com.br, tem um botão que leva à loja. A Prohall também vende pelo app, anunciado na própria loja.",
         "Para conferir se você está no lugar certo, role até o rodapé: a loja mostra o CNPJ 24.815.160/0001-57 e o endereço de Lençóis Paulista, e a página “Quem somos” traz a razão social. Desconfie de anúncio ou perfil que leve a um endereço diferente desses dois."
       ]
     },
@@ -84,14 +84,14 @@
       ]
     },
     {
-      "heading": "Entrega",
+      "heading": "Como é a entrega?",
       "paragraphs": [
         "A loja informa que posta o pedido em até 24 horas úteis depois da confirmação do pagamento. O prazo de entrega varia por localidade e aparece no checkout, com o CEP. As transportadoras são Total Express, Mandaê, Jamef e Jadlog.",
         "O frete grátis depende da região: a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, pela página de pagamento da loja. O FAQ da loja ainda fala em R$ 199 para todo o Brasil; vale o que o carrinho mostrar para o seu CEP."
       ]
     },
     {
-      "heading": "Troca e devolução",
+      "heading": "Como funcionam a troca e a devolução?",
       "paragraphs": [
         "A política tem prazo folgado e condições rígidas. O que ela diz:"
       ],
@@ -123,7 +123,7 @@
     {
       "heading": "O que dizem os clientes",
       "paragraphs": [
-        "No Reclame Aqui, o perfil Prohall Professional tem reputação Boa e nota 7,2 de maio a outubro de 2026, com todas as reclamações respondidas. O atraso na entrega é o problema mais citado. Os números por período e o que fazer para evitar cada queixa estão em [Prohall no Reclame Aqui](/reviews/prohall-reclame-aqui-nota-reputacao)."
+        "No Reclame Aqui, o perfil Prohall Professional tem reputação Boa e nota 7,2 nos últimos seis meses, e Ótima, com nota 8,1, em doze, com todas as reclamações respondidas. O atraso na entrega é o problema mais citado. Os números por período e o que fazer para evitar cada queixa estão em [Prohall no Reclame Aqui](/reviews/prohall-reclame-aqui-nota-reputacao)."
       ]
     },
     {
@@ -137,17 +137,31 @@
       "paragraphs": [
         "Os dados públicos mostram uma empresa identificável: razão social, CNPJ, endereço, canais de atendimento e um perfil no Reclame Aqui em que todas as reclamações têm resposta.",
         "O ponto de atenção é a troca. Quem abre o produto não troca, e quem troca devolve o pedido inteiro e paga a postagem. Para quem vai experimentar um produto pela primeira vez, esse é o risco da compra.",
-        "Se decidir comprar, o CECILIAMC dá até 10% OFF no site e no app. As condições estão na página do [cupom Prohall](/cupons/prohall)."
+        "Se decidir comprar, o CECILIAMC dá até 10% OFF no site e no app, em todas as formas de pagamento. No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo. As condições estão na página do [cupom Prohall](/cupons/prohall)."
+      ],
+      "emphasis": "Para quem vai usar um produto da Prohall pela primeira vez, eu começaria pelo tamanho menor, porque produto aberto não troca e o pedido volta por inteiro.",
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento.",
         "A Prohall é brasileira? Sim. A marca foi fundada em 2017 em Lençóis Paulista, no interior de São Paulo.",
         "Qual é o site oficial da Prohall? A loja fica em lojaprohall.com.br, e o site institucional, em prohall.com.br. O rodapé da loja mostra o CNPJ da empresa.",
         "A Prohall troca produto aberto? Não. A política exige a embalagem original, o lacre intacto e o produto sem sinais de uso.",
         "Quem paga o frete da devolução? O cliente. As despesas de postagem da troca são de quem comprou, segundo a política da loja."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

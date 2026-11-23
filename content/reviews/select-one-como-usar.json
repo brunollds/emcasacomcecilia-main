@@ -3,7 +3,7 @@
   "slug": "select-one-como-usar",
   "locale": "pt",
   "title": "Select One: como é a aplicação no salão e o que perguntar antes",
-  "seoTitle": "Select One: como é a aplicação no salão",
+  "seoTitle": "Select One: como é a aplicação no salão e o que perguntar",
   "type": "Guia Prático",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "A Prohall orienta que a Select One seja aplicada por cabeleireiro. Veja o que acontece no salão e o que perguntar se você tem cachos ou fez química recentemente.",
-  "metaDescription": "A Select One é de uso profissional. Veja como é a sessão no salão, por que o teste de mecha importa e o que perguntar ao cabeleireiro.",
+  "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. A Select One é de uso profissional: veja como é a sessão no salão e o que perguntar ao cabeleireiro.",
   "publishedAt": "20 de novembro de 2026",
   "publishedAtISO": "2026-11-20",
   "draft": false,
@@ -33,17 +33,18 @@
     ],
     "skipIf": [
       "Você pensa em aplicar em casa: a loja diz que a Select One não serve para isso.",
-      "Você está grávida ou amamentando e ainda não falou com o médico."
+      "Você quer manter os cachos como estão: a etapa térmica tende a relaxá-los e a reduzir o volume."
     ]
   },
   "cta": {
-    "text": "Se o seu cabeleireiro indicar a Select One, a página oficial da Prohall traz o modo de uso e as precauções do fabricante.",
+    "text": "Se o seu cabeleireiro indicar a Select One, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
+  "coupon": "CECILIAMC",
   "affiliate": "prohall",
-  "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pela loja.",
+  "editorialNote": "Páginas dos produtos; não usamos os produtos. Pode haver comissão.",
   "relatedArticles": [
     {
       "slug": "select-one-ou-burix-one"
@@ -52,7 +53,7 @@
       "slug": "prohall-e-boa"
     },
     {
-      "slug": "prohall-e-confiavel"
+      "slug": "cupom-prohall-como-usar"
     }
   ],
   "contentSections": [
@@ -67,7 +68,7 @@
       "paragraphs": [
         "A Prohall orienta aplicação por cabeleireiro habilitado. Na primeira conversa, conte o que já usou no cabelo e pergunte como o profissional vai testar a reação do fio antes do procedimento.",
         "Por isso este guia não ensina a aplicar. Ele mostra o que o fabricante descreve, para você entender o que acontece na cadeira e saber o que perguntar. Quem vai aplicar, e como, é decisão do profissional.",
-        "Não usamos o produto: tudo aqui é o que a Prohall publica na página da Select One."
+        "Tudo aqui é o que a Prohall publica na página da [Select One](https://lojaprohall.com.br/products/select-one-um-so-passo-300ml)."
       ]
     },
     {
@@ -139,12 +140,32 @@
       ]
     },
     {
+      "heading": "Vai comprar o frasco que o cabeleireiro indicou?",
+      "emphasis": "Se o cabeleireiro já indicou a Select One, eu levaria o frasco do tamanho que ele pedir, e não o que sai mais barato por ml, e conferiria o rótulo antes de pagar.",
+      "paragraphs": [
+        "Se o seu cabeleireiro pediu que você compre o frasco, o site oficial é a [Prohall](https://lojaprohall.com.br/). O CECILIAMC dá até 10% OFF, em todas as formas de pagamento. No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo."
+      ],
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale também no frasco da Select One.",
         "Select One pode usar em grávida? A Prohall orienta procurar o médico antes de marcar a aplicação. O profissional de saúde avalia o seu caso.",
         "Como é a aplicação da Select One? A Prohall descreve teste de mecha, lavagem, aplicação, enxágue, escova, prancha e finalização com a Equalize Mask. A sessão é conduzida pelo cabeleireiro.",
         "Select One pode usar em casa? A Prohall orienta aplicação por cabeleireiro habilitado."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

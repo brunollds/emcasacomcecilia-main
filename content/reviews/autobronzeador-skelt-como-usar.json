@@ -147,7 +147,7 @@
       }
     },
     {
-      "heading": "Quando reaplicar e quanto rende",
+      "heading": "Quando reaplicar o autobronzeador e quanto rende?",
       "paragraphs": [
         "Para intensificar a cor, a Skelt diz nas perguntas frequentes que dá para reaplicar por até três dias seguidos, ou a cada um ou dois dias. Segundo a marca, o bronzeado dura de 7 a 12 dias.",
         "Para planejar a quantidade, as fontes da própria marca trazem estimativas diferentes: a FAQ informa de 8 a 10 aplicações no corpo inteiro para Mousse e Água; as páginas dos frascos informam de 5 a 8 para Mousse, Mousse Dark e as duas Águas, e de 6 a 8 para o Gel. A quantidade aplicada muda o rendimento.",
@@ -159,25 +159,38 @@
       "paragraphs": [
         "Sol: a Skelt orienta não se expor enquanto o produto age. O autobronzeador não substitui o protetor solar; mantenha os cuidados de proteção mesmo depois do enxágue.",
         "Rosto: este guia trata dos autobronzeadores corporais. A Skelt tem uma versão facial própria; não use o passo a passo do corpo como instrução para o rosto.",
-        "Mãos: a prevenção indicada pela marca é aplicar com a luva. Nas páginas que lemos, a Skelt não ensina a tirar a cor da mão; o produto que ela vende para tirar o bronzeado é o removedor, explicado no [guia do removedor Skelt](/reviews/removedor-autobronzeador-skelt-como-tirar).",
+        "Mãos: a prevenção indicada pela marca é aplicar com a luva. Nas páginas que lemos, a Skelt não ensina a tirar a cor da mão; o produto que ela vende para tirar o bronzeado é o removedor, explicado no guia do removedor Skelt.",
         "Idade: a FAQ da marca indica uso a partir dos 16 anos. Confira também as recomendações do rótulo da versão escolhida."
       ]
     },
     {
-      "heading": "Produto, luva e código da parceria",
+      "heading": "Qual produto levar para aplicar em casa?",
       "paragraphs": [
-        "Se ainda falta escolher o frasco ou comprar a luva, o guia de [qual autobronzeador Skelt escolher](/reviews/autobronzeador-skelt-qual-escolher) compara as versões e os preços. Confira se o kit inclui o acessório antes de acrescentá-lo separado.",
-        "O SKEMCASACOMCECILIA dá 10% no site oficial da Skelt e soma com as promoções e com os 5% do Pix. As condições estão na [página do cupom Skelt](/cupons/skelt), e o caminho para aplicar, em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
+        "Confira se o kit inclui a luva antes de acrescentá-la separada: os frascos avulsos não a trazem.",
+        "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA, com 10% OFF no site oficial, e soma com as promoções da loja e com os 5% do Pix. Cole o código no campo de cupom de desconto do carrinho ou do checkout e aplique; o resumo mostra o desconto. Ele não vale no Mercado Livre, e a Skelt não tem aplicativo."
+      ],
+      "emphasis": "Para aplicar em casa pela primeira vez, eu levaria o Mousse com a luva: a cor-guia mostra onde já passei, e o kit já traz os dois.",
+      "links": [
+        {
+          "label": "Ir para a Skelt com o SKEMCASACOMCECILIA",
+          "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Skelt",
+          "href": "/cupons/skelt"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Vale nos autobronzeadores e na luva.",
         "Quanto tempo esperar para tomar banho? Depende da versão: o Gel informa 4 ou 8 horas e o Bifásico, 8 horas; o Mousse comum publica faixas por intensidade. Confira a tabela e a sua embalagem, especialmente nas versões Dark e na Água comum, cuja página dispensa a remoção.",
         "Posso dormir com o autobronzeador Skelt? A Skelt indica o Mousse à noite, com roupas largas. Espere a secagem completa e programe o banho pelo tempo da versão; a cor-guia pode transferir para o lençol durante o contato.",
         "A Água Autobronzeadora amarelou, posso usar? Segundo a loja, o DHA da fórmula pode amarelar com o calor, e isso não compromete a eficácia; vale também para a Água Dark. Confira a validade do frasco e, na dúvida sobre uma unidade, fale com a marca.",
         "Grávida pode usar autobronzeador Skelt? A loja diz que os produtos não têm contraindicação e recomenda conversar com o médico antes de usar; leve o rótulo da versão escolhida.",
-        "Preciso da cor para hoje: o que usar? O autobronzeador precisa de tempo para agir, e a cor continua se desenvolvendo depois. Para aparência imediata, a Skelt tem uma maquiagem corporal: veja a diferença no [guia de bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador)."
+        "Preciso da cor para hoje: o que usar? O autobronzeador precisa de tempo para agir, e a cor continua se desenvolvendo depois. Para aparência imediata, a Skelt tem uma maquiagem corporal: veja a diferença no guia de bronzeado instantâneo."
       ]
     }
   ],
@@ -191,7 +204,7 @@
   },
   "coupon": "SKEMCASACOMCECILIA",
   "affiliate": "skelt",
-  "editorialNote": "Feito com as orientações publicadas pela Skelt, sem uso dos produtos. Podemos receber comissão pelo cupom e pelos links.",
+  "editorialNote": "Orientações publicadas pela Skelt, sem uso dos produtos. Comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "autobronzeador-skelt-qual-escolher"
@@ -205,5 +218,16 @@
     {
       "slug": "skelt-ou-best-bronze"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23",
+  "decision": {
+    "takeIf": [
+      "Leve o Mousse com cor-guia se é a sua primeira vez e você quer ver onde já passou.",
+      "Leve a Água ou o Gel se você já tem prática e prefere um produto incolor."
+    ],
+    "skipIf": [
+      "Passe o Mousse com cor-guia se você não vai dormir de roupa larga: a cor pode passar para o lençol.",
+      "Passe o frasco avulso se ainda não tem a luva: ela vem só nos kits."
+    ]
+  }
 }

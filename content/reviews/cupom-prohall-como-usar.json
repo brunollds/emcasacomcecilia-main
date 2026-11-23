@@ -29,66 +29,67 @@
   "image": "/images/reviews/prohall/cupom-prohall-como-usar-capa-v2.webp",
   "imageAlt": "Frascos vermelhos da Máscara em Spray Absolut One da Prohall vistos de perto em diagonal, em foto oficial, com logo da marca, “Cupom Prohall: como usar?” e código CECILIAMC.",
   "cta": {
-    "text": "Abra o site oficial da Prohall pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout. Confira a linha do desconto antes de pagar.",
+    "text": "Abra o site oficial da Prohall pelo botão e digite CECILIAMC em “Código de desconto”, no checkout. Confira o “Desconto no pedido” antes de pagar.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
-  "editorialNote": "Cupom testado no checkout da Prohall. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Cupom testado no checkout da Prohall. Não usamos os produtos. Pode haver comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-prohall-primeira-compra"
     },
     {
-      "slug": "prohall-e-confiavel"
+      "slug": "black-friday-prohall"
     },
     {
-      "slug": "prohall-reclame-aqui-nota-reputacao"
+      "slug": "prohall-e-boa"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O cupom da Prohall é CECILIAMC: até 10% OFF no site oficial e no app. No checkout, toque em “Tem um cupom?”, digite o código e toque em “Aplicar”. Nos nossos testes, o desconto foi de 7%, em produtos a preço cheio e em promoção. Vale para cliente novo e antigo."
+        "O cupom da Prohall é CECILIAMC: até 10% OFF no site oficial e no app, em todas as formas de pagamento. No checkout, digite o código no campo “Código de desconto” e toque em “Aplicar”; o resumo mostra “Desconto no pedido”. Nos nossos testes, o desconto foi de 7%, mesmo em itens em promoção."
       ]
     },
     {
-      "heading": "Onde digitar o cupom na Prohall",
+      "heading": "Onde digitar o cupom da Prohall?",
       "paragraphs": [
-        "O código entra no checkout do site oficial, antes do pagamento:"
+        "O código entra no checkout do [site oficial da Prohall](https://lojaprohall.com.br/), antes do pagamento:"
       ],
       "bullets": [
         "Coloque os produtos no carrinho e siga para o checkout.",
-        "Toque em “Tem um cupom?”.",
-        "Digite CECILIAMC no campo “Código do cupom”, sem espaços, e toque em “Aplicar”.",
-        "Confira o aviso “Cupom CECILIAMC aplicado” e a linha “Cupom CECILIAMC” no resumo da compra, com o valor descontado."
+        "Digite CECILIAMC no campo “Código de desconto”, sem espaços.",
+        "Toque em “Aplicar”.",
+        "Confira no resumo da compra a linha “Desconto no pedido”, com o código e o valor descontado."
       ],
       "postParagraphs": [
-        "Na tela de pagamento, o resumo do pedido repete o desconto. Ela também tem o campo “Código de desconto”, para quem ainda não aplicou o código."
+        "O resumo do pedido repete o desconto na tela de pagamento, então dá para conferir de novo antes de finalizar."
       ],
       "images": [
         {
-          "src": "/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp",
-          "alt": "Resumo da compra no checkout da Prohall com o aviso \"Cupom CECILIAMC aplicado\", a linha Cupom CECILIAMC de menos R$ 26,64 e o total de R$ 354,06",
-          "caption": "O CECILIAMC aplicado no checkout da Prohall, no nosso teste: a linha do cupom mostra quanto saiu do total.",
+          "src": "/images/reviews/prohall/cupom-prohall-checkout-desktop-com-cupom.webp",
+          "alt": "Resumo do checkout da Prohall no computador com o código CECILIAMC aplicado: subtotal de R$ 279,70, desconto no pedido de menos R$ 19,57 e total de R$ 260,13",
+          "caption": "O CECILIAMC aplicado no checkout da Prohall, no nosso teste: o “Desconto no pedido” mostra quanto saiu do total.",
           "objectFit": "contain",
-          "aspectRatio": 0.473
+          "aspectRatio": 1.82
         }
       ]
     },
     {
-      "heading": "Quanto o cupom tira: até 10%, e 7% nos nossos testes",
+      "heading": "Quanto o cupom tira: até 10% ou 7%?",
       "paragraphs": [
-        "O CECILIAMC é um cupom de até 10%, e o percentual varia por produto. No teste de 12 de novembro de 2026, num carrinho de quatro itens, o código tirou R$ 26,64 de R$ 380,70 e o total caiu para R$ 354,06: 7%.",
-        "No mesmo dia, aplicamos o código em outros carrinhos, com produtos a preço cheio e em promoção, e o desconto também foi de 7%. Os testes não cobrem o catálogo inteiro, por isso não dá para dizer quais produtos chegam aos 10%.",
-        "O valor exato do seu pedido aparece na linha “Cupom CECILIAMC” do resumo, antes do pagamento."
+        "O CECILIAMC é um cupom de até 10%, e o percentual varia por produto. Num teste em 12 de novembro de 2026, num carrinho de quatro itens, o código tirou R$ 26,64 de R$ 380,70 e o total caiu para R$ 354,06: 7%.",
+        "Num reteste em 22 de novembro de 2026, com o [kit Force Hair](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x), o [Burix One de 300 ml](https://lojaprohall.com.br/products/reestruturacao-molecular-tanino-organica-burix-one-300ml) e o [Select One de 300 ml](https://lojaprohall.com.br/products/select-one-um-so-passo-300ml), o subtotal foi de R$ 279,70, o desconto de R$ 19,57 e o total de R$ 260,13: de novo 7%, sobre preços que já estavam em promoção.",
+        "Aplicamos o código em outros carrinhos, com produtos a preço cheio e em promoção, e o desconto também foi de 7%. Os testes não cobrem o catálogo inteiro, por isso não dá para dizer quais produtos chegam aos 10%.",
+        "O valor exato do seu pedido aparece na linha “Desconto no pedido” do resumo, antes do pagamento."
       ],
       "images": [
         {
           "src": "/images/reviews/prohall/cupom-prohall-como-usar-shampoo-condicionador-absolut-one.webp",
           "alt": "Shampoo e condicionador Absolut One da Prohall, dois frascos vermelhos de tampa preta, em foto oficial da loja",
-          "caption": "Shampoo + Condicionador Absolut One, um dos itens do carrinho do teste. Foto: Prohall.",
+          "caption": "Shampoo + Condicionador Absolut One, um dos itens do primeiro carrinho de teste. Foto: Prohall.",
           "objectFit": "square",
           "href": "https://lojaprohall.com.br/products/shampoo-condicionador-absolut-one-prohall-limpeza-hidratacao-e-maciez-para-cabelos-saudaveis-e-brilhantes"
         }
@@ -102,10 +103,10 @@
       ]
     },
     {
-      "heading": "Promoção, Pix, frete e cashback: o que soma",
+      "heading": "O cupom soma com promoção, Pix, frete e cashback?",
       "bullets": [
         "**Promoção do site.** Soma. O desconto entra sobre o preço promocional: no carrinho do teste, o kit Shampoo + Condicionador Absolut One estava de R$ 149,90 por R$ 89,90, e o código entrou em cima.",
-        "**Forma de pagamento.** O cupom vale no cartão e no Pix. Com o Pix selecionado no checkout, o total foi o mesmo: não apareceu desconto a mais. No cartão, a loja parcela em até 10 vezes sem juros, com parcela mínima de R$ 20.",
+        "**Forma de pagamento.** O cupom vale em todas as formas de pagamento. Com o Pix selecionado no checkout, o total foi o mesmo: não apareceu desconto a mais. No cartão, a loja parcela em até 10 vezes sem juros, com parcela mínima de R$ 20.",
         "**Frete grátis.** Depende da região: a partir de R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste. O mínimo conta depois do cupom.",
         "**Cashback da loja.** O cupom de cashback da Prohall não junta com outros cupons, segundo a loja: ele não entra no mesmo pedido que o CECILIAMC."
       ],
@@ -117,9 +118,9 @@
       "heading": "O cupom não entrou: o que conferir",
       "bullets": [
         "**O código.** CECILIAMC, tudo junto, sem espaço antes ou depois.",
-        "**O campo.** “Tem um cupom?” e, em seguida, “Código do cupom”, no site oficial ou no app da Prohall.",
+        "**O campo.** “Código de desconto”, no checkout do site oficial ou do app da Prohall, seguido de “Aplicar”.",
         "**Outro cupom no pedido.** Com o cupom de cashback da loja aplicado, o CECILIAMC não entra junto.",
-        "**O percentual.** O cupom é de até 10% e varia por produto. Se a linha “Cupom CECILIAMC” aparece no resumo, o código entrou, mesmo com menos de 10%."
+        "**O percentual.** O cupom é de até 10% e varia por produto. Se a linha “Desconto no pedido” aparece no resumo com o código, ele entrou, mesmo com menos de 10%."
       ],
       "postParagraphs": [
         "Se nada disso resolver, avise pelo [contato do site](/contato) para revisarmos a informação. As condições do código ficam na página do [cupom Prohall](/cupons/prohall)."
@@ -130,17 +131,40 @@
       "paragraphs": [
         "Vale. O CECILIAMC serve para cliente novo e antigo e pode ser usado em mais de uma compra, segundo a parceria. Você usa a conta que já tem na loja.",
         "A resposta para o primeiro pedido está em [cupom Prohall primeira compra](/reviews/cupom-prohall-primeira-compra)."
+      ],
+      "emphasis": "Eu montaria o carrinho inteiro, aplicaria o código no checkout e só pagaria depois de ver a linha “Desconto no pedido” com o CECILIAMC: é ali que se confirma que ele entrou.",
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Prohall? CECILIAMC, o código da Cecília: até 10% OFF no site oficial e no app.",
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale para cliente novo e antigo.",
         "Por que o desconto veio menor que 10%? O cupom é de até 10%, e o percentual varia por produto. Nos nossos testes, o desconto foi de 7%.",
         "O cupom Prohall vale no app? Sim. O CECILIAMC vale no site oficial e no app da Prohall.",
         "O cupom soma com produto em promoção? Sim. No nosso teste, o desconto entrou sobre o preço promocional.",
         "O cupom dá frete grátis? Não. O frete grátis depende do mínimo da sua região, contado depois do cupom."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23",
+  "decision": {
+    "takeIf": [
+      "Você já escolheu os produtos e quer aplicar o código no checkout, antes de pagar.",
+      "Você compra em mais de um pedido: o código serve para cliente novo e antigo."
+    ],
+    "skipIf": [
+      "Você já tem o cupom de cashback da loja no pedido: ele e o CECILIAMC não entram juntos.",
+      "Você conta com 10% fixo: o percentual varia por produto, e nos nossos testes foi de 7%."
+    ]
+  }
 }
