@@ -8,6 +8,37 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Lojas que merecem atenção, grupo 1: BioBio, Denavita, Barbour's, BOLD e L'Amazonie (23/11/2026)
+
+- **Gatilho:** o Bruno listou dez parceiras com vendas baixas ou desempenho abaixo do ideal. O grupo 1 são estas cinco; o grupo 2 (Mais Mu, Probiótica, BAW, Prohall e Pink Cheeks) vem depois. O pedido foi conferir se os temas acertam ou se faltam temas novos.
+- **O que havia no ar:** de 6 a 8 artigos por loja, quase todos do molde da loja (cupom, primeira compra, é confiável, Reclame Aqui, Black Friday, é boa), mais um ou dois de produto.
+- **Search Console (28 dias até 21/11, filtro por página da loja):**
+  - As cinco somaram 7 cliques. Impressões: Barbour's 382, L'Amazonie 282, Denavita 195, BOLD 174, BioBio 15.
+  - Quase tudo é de "é confiável", "cupom" e Reclame Aqui.
+  - As exceções: "laranja moro da denavita é bom" e "como tomar"; "barra de proteína bold é saudável" (posição 7,5); "l'amazonie sobrancelha funciona" (posição 8).
+  - Duas buscas de IA pedem comparação com outras opções e onde comprar (laranja moro e sérum L'Amazonie).
+- **Trends (Brasil, 12 meses, média):** "laranja moro" 71; "barbours" 49 (pico de 98 em março); "barra bold" 17; "l'amazonie" 0; "biobio cosmeticos" 0.
+  - Em ascensão: "body splash masculino" +800% e "my sweet delight" +450% (para Barbour's); "barra ovomaltine" +140% e "melhor barra de proteina" +90% (para barra bold); "nac para que serve" +600% (para laranja moro).
+- **Autocompletar (23/11):**
+  - BOLD tem o grupo mais variado: é saudável, açúcar, calorias, tabela nutricional, glúten, lactose, leite, vegana, cada sabor, "ou yopro".
+  - Barbour's: "X é inspirado em qual perfume" por fragrância, masculino, "ou wepink", "ou primacial", "ou bloom", "ou lescent", hair mist.
+  - Denavita: laranja moro (como tomar, horário, quanto tempo, "ou desincha"), Morosil, Tons, NAC, Jejoom, quitosana e psyllium, "ou rituaria".
+  - L'Amazonie: o sérum de sobrancelha ("funciona", composição) e os clareadores.
+  - BioBio: só o protetor e o Sunnature FPS 30. O resto é a rádio chilena.
+- **Conclusão:**
+  - A demanda de produto está em BOLD, Denavita e Barbour's, e quase não temos artigo dela.
+  - L'Amazonie depende de uso próprio para a busca forte ("funciona").
+  - BioBio não tem busca de marca: só um teste de categoria.
+- **O que saiu:**
+  - Sete pautas aprovadas: BO9, DV9, DV10, BB8, BB10, BI7 e LZ8.
+  - Duas paradas: BO10 (ficha da YoPRO) e DV11 (IN 28/2018).
+  - Três viraram ajuste de artigo no ar: DV8, LZ7 e BO11.
+  - Os ajustes A1 a A3 estão na Fila, seção 4.
+  - BB11 a BB13 foram ao estoque.
+- **Leitura de site:** os scripts levaram 429 em todas as lojas em 23/11. O navegador do app abriu normalmente, então as leituras pendentes dos briefings vão por ele.
+
+---
+
 ## Modelos da cupomtiff: nove pautas de produto e pós-compra (21/11/2026)
 
 - **Gatilho:** o Bruno mandou 10 artigos da cupomtiff (Pink Cheeks, peitoral Zee.Dog, Tasty Iso, Rituária Brain, proposta da Rituária, Pacco Hydra, itens para cachorro, loja da Let's, senha da mala Bagaggio, inspirações da Barbour's) e pediu pautas novas modeladas neles, sem revisão nem pós-Black Friday.
