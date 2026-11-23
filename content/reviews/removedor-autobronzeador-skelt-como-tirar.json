@@ -28,13 +28,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Espere pelo menos 3 dias depois de aplicar o autobronzeador. Depois, aplique o Removedor de Autobronzeador Skelt na pele seca, deixe agir por no mínimo 3 minutos e retire com toalha ou esponja molhadas em água morna; o Bifásico tem outra regra. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
+        "Espere pelo menos 3 dias depois de aplicar o autobronzeador. Depois, aplique o Removedor de Autobronzeador Skelt na pele seca, deixe agir por no mínimo 3 minutos e retire com toalha ou esponja molhadas em água morna. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
       ]
     },
     {
       "heading": "Passo a passo do removedor",
       "paragraphs": [
-        "Na pele seca e na área do corpo: esse é o modo da marca. Para escolher o autobronzeador antes de pensar em tirar, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
+        "A marca manda usar na pele seca, só no corpo. Para escolher o autobronzeador antes de pensar em tirar, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
       ],
       "bullets": [
         "Agite o produto.",
@@ -60,7 +60,7 @@
       "paragraphs": [
         "A Skelt pede pelo menos 3 dias depois da aplicação. Antes desse prazo, a página não indica o removedor. Se a ideia é um bronze para hoje, o [bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) é outro produto, com instruções próprias.",
         "O banho após o tempo de ação do [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) faz parte do ciclo de aplicação desse produto. Não use essa instrução como alternativa geral ao removedor.",
-        "Para outro autobronzeador, siga as instruções da embalagem. Quem quer o brilho depois do bronze encontra o iluminador corporal em outro produto da linha."
+        "Para outro autobronzeador, siga as instruções da embalagem. Para brilho por cima do bronze, a linha tem o iluminador corporal."
       ],
       "image": {
         "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-mao.webp",
@@ -117,7 +117,7 @@
       "heading": "Compensa comprar o removedor?",
       "emphasis": "Se o bronze já passou dos 3 dias e eu quisesse tirá-lo por inteiro, eu levaria o removedor, sem comprar a luva junto.",
       "paragraphs": [
-        "A conta é curta: o removedor tem 140 ml, a R$ 0,50 por ml na tabela acima, e a luva serve só para aplicar o autobronzeador. Antes dos 3 dias, a Skelt não indica o removedor; nesse caso, siga a embalagem do autobronzeador que você usou.",
+        "O removedor tem 140 ml e sai a R$ 0,50 por ml. Antes dos 3 dias, a Skelt não indica o removedor; nesse caso, siga a embalagem do autobronzeador que você usou.",
         "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial. Cole o código no campo de cupom de desconto do carrinho ou do checkout e aplique; o resumo mostra o desconto. Ele não vale no Mercado Livre, e a Skelt não tem aplicativo."
       ],
       "links": [
@@ -172,12 +172,10 @@
   "updatedAt": "2026-11-23",
   "decision": {
     "takeIf": [
-      "Leve o removedor se o autobronzeador já tem pelo menos 3 dias e você quer tirar o bronze do corpo.",
-      "Leve só o removedor: a luva não entra na retirada."
+      "Leve o removedor se o autobronzeador já tem pelo menos 3 dias e você quer tirar o bronze do corpo."
     ],
     "skipIf": [
-      "Passe o removedor se a aplicação é de menos de 3 dias: a Skelt não o indica antes disso.",
-      "Passe o removedor se o seu é o Bifásico: a marca manda tirar só com água morna no banho."
+      "Passe o removedor se a aplicação é de menos de 3 dias: a Skelt não o indica antes disso."
     ]
   }
 }

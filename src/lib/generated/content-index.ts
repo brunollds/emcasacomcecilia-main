@@ -136369,7 +136369,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem opera a Skelt?",
         "paragraphs": [
-          "A empresa é registrada: o site e a Receita apontam a mesma S/A. O perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, de empresa que tem a S/A como sócia. Veja os dois lado a lado abaixo.",
+          "A empresa é registrada: o site e a Receita apontam a mesma S/A.",
           "O rodapé do site traz a razão social SKELT BEAUTY BRANDS S/A e o CNPJ 38.290.785/0001-57, com a sede em Curitiba. Na Receita, esse CNPJ aparece como ativo, matriz, sociedade anônima fechada. O logradouro e o CEP são os mesmos no rodapé e na Receita: Rua Heitor Stockler de França, 396, Centro Cívico, Curitiba (PR), CEP 80030-030.",
           "O perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, o da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com nome fantasia SKELT COSMETICS. A S/A aparece como sócia dessa empresa no mesmo cadastro. As duas empresas têm datas de abertura diferentes. Já a marca diz, no próprio site, que surgiu em 2017: essa data é a da marca, não a de nenhum dos dois CNPJs."
         ],
@@ -136455,7 +136455,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o frete grátis?",
         "paragraphs": [
-          "O frete grátis depende da região. A política de frete do site divide o grátis por região e avisa que pode mudar sem aviso:"
+          "A política de frete do site divide o frete grátis por região e avisa que pode mudar sem aviso:"
         ],
         "comparisonTable": {
           "headers": [
@@ -136528,7 +136528,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento.",
           "A Skelt é confiável? Sim. A loja é operada por empresa registrada, com CNPJ ativo e sede em Curitiba, e publica regras de troca, reembolso e frete. O ponto de atenção é o perfil do Reclame Aqui, em nome de outro CNPJ, de empresa que tem a S/A como sócia.",
-          "De qual empresa é a Skelt? O rodapé do site identifica a SKELT BEAUTY BRANDS S/A como razão social. O perfil da marca no Reclame Aqui está em nome da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com a S/A como sócia. O autocompletar do Google sugere “skelt é da creamy”, e o Reclame Aqui lista a Creamy entre as marcas “também acessadas”. Este texto não afirma nenhuma relação societária entre as duas.",
           "Qual é o CNPJ da Skelt? O CNPJ da loja é o da SKELT BEAUTY BRANDS S/A, que está no rodapé do site. O que aparece no perfil do Reclame Aqui é o da BELEZE & OLIVEIRA, ligada à S/A por sociedade. Os dois constam na tabela deste artigo.",
           "O site skelt.com.br é o oficial? O endereço oficial é skelt.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública da Receita.",
           "A Skelt tem telefone de atendimento? Tem WhatsApp, no número (41) 3042-4721, e o e-mail contato@skelt.com.br. O site diz que responde em até 48 horas úteis.",
@@ -136601,7 +136600,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como os dados funcionam e qual CNPJ aparece",
         "paragraphs": [
           "O site da Skelt não mostra nota nem reclamações. O Reclame Aqui mostra quantas reclamações a loja recebeu, quantas respondeu, quantas resolveu e quanta gente voltaria a comprar. Os números mudam o tempo todo: confira de novo no dia da compra.",
-          "O perfil se chama Skelt Cosméticos, aparece como empresa verificada e está no Reclame Aqui há 8 anos. Pela BrasilAPI, ele está em nome da Beleze & Oliveira - Comércio de Cosméticos Ltda., CNPJ 17.616.018/0001-15, cuja sócia é a SKELT BEAUTY BRANDS S/A. O rodapé do site oficial traz o CNPJ da S/A, 38.290.785/0001-57, com sede em Curitiba (PR). Existe ainda um perfil da S/A no Reclame Aqui, sem reputação calculada. Este texto só diz o que o perfil e o site mostram. Para a empresa e as regras de troca, veja [Skelt é confiável?](/reviews/skelt-e-confiavel)."
+          "O perfil se chama Skelt Cosméticos, aparece como empresa verificada e está no Reclame Aqui há 8 anos. Pela BrasilAPI, ele está em nome da Beleze & Oliveira - Comércio de Cosméticos Ltda., CNPJ 17.616.018/0001-15, cuja sócia é a SKELT BEAUTY BRANDS S/A. O rodapé do site oficial traz o CNPJ da S/A, 38.290.785/0001-57, com sede em Curitiba (PR). Existe ainda um perfil da S/A no Reclame Aqui, sem reputação calculada. Para a empresa e as regras de troca, veja [Skelt é confiável?](/reviews/skelt-e-confiavel)."
         ]
       },
       {
@@ -136704,7 +136703,7 @@ export const reviewsData: unknown[] = [
           "Pelo que o perfil mostra, estes são os pontos a favor da Skelt:"
         ],
         "bullets": [
-          "**Selo:** RA1000, a faixa máxima, nas janelas de 6 meses, 12 meses, 2025 e 2024, e o perfil aparece como empresa verificada.",
+          "**Selo:** RA1000, a faixa máxima, nas cinco janelas do perfil, e o perfil aparece como empresa verificada.",
           "**Resposta:** 100% das reclamações respondidas em 6 e em 12 meses, e 98,8% no histórico geral.",
           "**Solução:** 91,6% das reclamações avaliadas nos 6 meses foram marcadas como resolvidas, e 75,9% de quem avaliou voltaria a fazer negócio.",
           "**Avaliação de compra:** 4,6 de 5, a partir de 1.281 avaliações verificadas no RA Reviews, que é outra conta, feita com quem comprou."
@@ -136745,8 +136744,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar na Skelt?",
         "paragraphs": [
-          "Pelos dados, sim: a Skelt tem o selo máximo, responde a todas as reclamações e resolve a maioria das que são avaliadas. O ponto de atenção é o produto com defeito e o atendimento, que concentram as queixas. Confira o produto ao receber e abra o chamado cedo se algo estiver errado.",
-          "O Em Casa com Cecília tem parceria com a Skelt e pode receber comissão pelas compras com o cupom SKEMCASACOMCECILIA; os números acima vêm do perfil público e não mudam por causa disso. O cupom dá 10% OFF em todo o site oficial, em todas as formas de pagamento, e soma com os 5% de desconto do Pix da loja. Vale um cupom por pedido.",
+          "Pelos dados, sim: a Skelt tem o selo máximo, respondeu a 100% das reclamações nos últimos 12 meses e resolve a maioria das que são avaliadas. O ponto de atenção é o produto com defeito e o atendimento, que concentram as queixas. Confira o produto ao receber e abra o chamado cedo se algo estiver errado.",
+          "O Em Casa com Cecília tem parceria com a Skelt e pode receber comissão pelas compras com o cupom SKEMCASACOMCECILIA. O cupom dá 10% OFF em todo o site oficial, em todas as formas de pagamento, e soma com os 5% de desconto do Pix da loja. Vale um cupom por pedido.",
           "Cole SKEMCASACOMCECILIA no campo de cupom de desconto do carrinho ou do checkout do site oficial e aplique; o resumo mostra o desconto. Ele não vale no Mercado Livre, onde vale o preço do anúncio, e a Skelt não tem aplicativo. O passo a passo está em [Cupom Skelt: como usar o SKEMCASACOMCECILIA](/reviews/cupom-skelt-como-usar), e as regras, no [cupom Skelt](/cupons/skelt)."
         ],
         "emphasis": "Se o RA1000 era o que faltava para você decidir, eu compraria: o histórico de respostas é bom, e eu só pediria o cuidado de conferir o produto assim que chegar.",
@@ -136850,7 +136849,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Entre no site oficial pelo botão da parceria",
         "paragraphs": [
-          "Use o botão desta página: ele abre o site oficial da Skelt com a identificação da parceria. O cupom só funciona no site oficial, e as condições atualizadas ficam na página do cupom Skelt."
+          "Use o botão desta página: ele abre o site oficial da Skelt com a identificação da parceria. As condições atualizadas ficam na página do cupom Skelt."
         ]
       },
       {
@@ -136888,7 +136887,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confira o resumo antes de escolher o pagamento",
         "paragraphs": [
-          "Depois de aplicar, compare a linha \"Descontos\" e o total com os valores anteriores. No teste, essa linha reunia promoção do site, cupom e Pix; por isso, o valor abatido não era só o desconto do código. A tabela abaixo separa cada etapa."
+          "Depois de aplicar, compare a linha \"Descontos\" e o total com os valores anteriores. No teste, essa linha reunia promoção do site, cupom e Pix; por isso, o valor abatido não era só o desconto do código. A tabela do teste, mais abaixo, separa cada etapa."
         ],
         "images": [
           {
@@ -137081,24 +137080,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A November Glow da Skelt, com desconto progressivo e itens pela metade, está no fim, e a Black Friday da loja, em 27 de novembro, ainda não tem mecânica publicada. Nos carrinhos de 15 de novembro, o cupom SKEMCASACOMCECILIA tirou 10% por cima da campanha. Depois, com a November Glow no ar, o carrinho passou a aplicar 5% sobre os preços da campanha nos itens que testamos: confira o total na sacola antes de pagar. O Kit Iniciante ganhou dos avulsos."
+          "A November Glow da Skelt terminou; a Black Friday da loja, em 27 de novembro, ainda não tem mecânica publicada. O cupom SKEMCASACOMCECILIA tirou 10% por cima da campanha nos carrinhos que testamos, e o Kit Iniciante ganhou dos avulsos. Confira o total na sacola antes de pagar."
         ]
       },
       {
         "heading": "O que a Skelt tem no ar e quando é a Black Friday?",
         "paragraphs": [
-          "A campanha de novembro é a November Glow. Ela combina um desconto progressivo nos produtos avulsos (na leitura de 15 de novembro, 10% com um item na sacola, 20% com dois e 25% com três ou mais), 20% nos kits e 15% nos duos, e uma seleção com até 50% OFF. A loja mostra um contador de encerramento até o fim de 23 de novembro. Uma promoção progressiva do fim de semana passado e a ação de brindes do começo do mês também já terminaram.",
-          "A Black Friday de 2026 cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A loja não publicou como será a oferta, e as condições das ações anteriores não garantem o que vem na sexta. Em outubro, a coleção “BF - Live” indicava uma live de aquecimento; o nome sozinho não confirmava descontos. O registro de outubro mostrava:"
-        ],
-        "bullets": [
-          "Em outubro, a home tinha coleções chamadas “Black Friday”, “Pre Black Friday” e “BF - Live”. Esses nomes eram indícios de preparação da campanha.",
-          "Em outubro, a sacola mostrava a flash sale \"OUT/26\", com 10% em todo o site, sem prazo de fim à mostra; o preço de venda da tabela de outubro, mais abaixo, já traz esses 10%.",
-          "A página da flash sale trazia 20% OFF no creme para mãos, também sem data de fim.",
-          "Em outubro, o endereço /black-friday redirecionava para a home."
+          "A campanha de novembro é a November Glow. Ela combina um desconto progressivo nos produtos avulsos (na leitura de 15 de novembro, 10% com um item na sacola, 20% com dois e 25% com três ou mais), 20% nos kits e 15% nos duos, e uma seleção com até 50% OFF. A campanha tinha contador de encerramento até o fim de 23 de novembro. Uma promoção progressiva do fim de semana anterior e a ação de brindes do começo do mês também já terminaram.",
+          "A Black Friday de 2026 cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A loja não publicou como será a oferta, e as condições das ações anteriores não garantem o que vem na sexta. Em outubro, a home já tinha coleções de Black Friday e a sacola mostrava uma flash sale de 10% no site todo, já incluída nos preços da tabela de outubro, mais abaixo."
         ]
       },
       {
-        "heading": "O que comprar agora: autobronzeadores",
+        "heading": "O que comprar: autobronzeadores",
         "paragraphs": [
           "Os preços abaixo são de um produto sozinho na sacola, na leitura de novembro, sem código e com o SKEMCASACOMCECILIA. O nome abre a página do produto pelo link da parceria."
         ],
@@ -137159,8 +137152,8 @@ export const reviewsData: unknown[] = [
           "**Primeira vez:** o Mousse é o que a Skelt indica para iniciante. Tem cor-guia, um pigmento que mostra onde o produto já passou e sai no banho, e a marca fala em 5 a 8 aplicações por frasco. Nenhum frasco vem com a luva; por isso o [Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), mais abaixo, é a compra de quem está começando.",
           "**Mais vendido da categoria:** na ordenação por mais vendidos do site, o Bifásico aparece na frente dos outros autobronzeadores. Ele leva a fragrância do [body splash Grand Bahama](https://www.skelt.com.br/body-splash-grand-bahama/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz). A página não diz se tem cor-guia nem quantas aplicações rende.",
           "**Quem já sabe aplicar:** as versões Dark, que a ficha classifica como nível expert, estão pela metade do preço e saem mais baratas que as tradicionais. A Água e o Gel são incolores e não mostram onde o produto já passou. Espere secar antes de se vestir, seguindo as instruções da loja.",
-          "**Removedor:** pela metade do preço, vale para quem aplica com frequência. Como ele funciona está em removedor de autobronzeador Skelt.",
-          "A comparação completa dos sete, com intensidade e tempo de pausa, está em [Autobronzeador Skelt: qual escolher](/reviews/autobronzeador-skelt-qual-escolher). Para cor que sai no banho, sem esperar a reação, veja bronzeado instantâneo ou autobronzeador."
+          "**Removedor:** na leitura de novembro estava pela metade do preço; vale para quem aplica com frequência.",
+          "A comparação completa dos sete, com intensidade e tempo de pausa, está em [Autobronzeador Skelt: qual escolher](/reviews/autobronzeador-skelt-qual-escolher)."
         ],
         "images": [
           {
@@ -137174,9 +137167,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que comprar agora: body splash e perfume para cabelos",
+        "heading": "O que comprar: body splash e perfume para cabelos",
         "paragraphs": [
-          "Sete das dez fragrâncias custam o mesmo, então a escolha é pelo cheiro. Três estão com 40% e saem bem abaixo das outras."
+          "Sete das dez fragrâncias custam o mesmo, então a escolha é pelo cheiro. Três estavam com 40% e saíam bem abaixo das outras."
         ],
         "comparisonTable": {
           "caption": "Sacola da Skelt na mesma leitura, um produto por pedido",
@@ -137220,7 +137213,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na ordenação por mais vendidos do site, o Solar Muse aparece em primeiro, o Perfume para Cabelos Amalfi Sunset em segundo e o Hidden Flowers em terceiro. É a ordem da loja no dia da leitura, sem números de venda.",
-          "Quem não conhece os cheiros pode começar pelo kit de três miniaturas de 15 ml. O Exotic Set está com 40% e sai por R$ 53,95 com o cupom, o mesmo preço de um frasco de Pink Sands.",
+          "Quem não conhece os cheiros pode começar pelo kit de três miniaturas de 15 ml. O Exotic Set estava com 40% e saía por R$ 53,95 com o cupom, o mesmo preço de um frasco de Pink Sands.",
           "Solar Muse, Pink Sands, Grand Bahama e Milos Breeze não têm hidratante da mesma fragrância. Para fazer par com o body cream, escolha uma das outras seis. As notas de cada uma estão em [Body splash Skelt: qual escolher](/reviews/body-splash-skelt-qual-escolher), e os hidratantes, em hidratante corporal Skelt: qual fragrância."
         ]
       },
@@ -137284,8 +137277,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**Kit Iniciante:** segue sendo a compra de quem começa. O mousse e a luva soltos saem por R$ 111,46; no kit, R$ 94,25.",
-          "**Kit Iniciante Dark:** hoje não compensa. O Mousse Dark está pela metade do preço fora do kit, e com a luva avulsa o par sai R$ 26,71 mais barato.",
-          "**Duos e kits de fragrância:** monte você mesma. Dois produtos soltos levam 20%, mais que os 15% do duo, e três levam 25%.",
+          "**Kit Iniciante Dark:** na leitura de novembro, não compensava. O Mousse Dark estava pela metade do preço fora do kit, e com a luva avulsa o par sai R$ 26,71 mais barato.",
+          "**Duos e kits de fragrância:** com o progressivo no ar, dois produtos soltos levavam 20%, mais que os 15% do duo, e três, 25%.",
           "**Compare também em pedidos separados:** na simulação, um Mousse e um Gel juntos ficaram em R$ 152,42 com o cupom; separados, os dois somaram R$ 141,63. A diferença é de R$ 10,79 antes do frete. Simule os dois pedidos completos: separar só reduz o gasto se os fretes e os benefícios perdidos, como o brinde, não consumirem essa economia.",
           "Essa conta valia enquanto o desconto progressivo estava no ar. Sem ele, refaça a comparação na sacola."
         ],
@@ -137354,7 +137347,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O cupom é o **SKEMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e o desconto sai sobre o preço que já está com a promoção. Cole o código no campo de cupom de desconto do carrinho ou do checkout do site oficial e aplique; o resumo mostra o desconto. A Skelt não tem aplicativo. O passo a passo no carrinho está em [Cupom Skelt SKEMCASACOMCECILIA: como usar](/reviews/cupom-skelt-como-usar).",
           "Em outubro, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12. No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26.",
-          "Na leitura de novembro, o cupom somava com a campanha: entrava por cima do desconto progressivo, dos 20% dos kits e dos itens de 50%. O Pix não foi refeito nessa leitura; o desconto de 5% é o do teste de outubro."
+          "Na leitura de novembro, o cupom somava com a campanha: entrava por cima do desconto progressivo, dos 20% dos kits e dos itens de 50%."
         ],
         "bullets": [
           "Pix: no teste de outubro, os 5% entraram depois do cupom. Essa condição não foi refeita na leitura de novembro; confira o desconto na etapa de pagamento.",
@@ -137370,7 +137363,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O brinde da campanha de novembro era um [Body Cream Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz). A presença dele na sacola mudava quando o cupom reduzia o total do pedido. No [Kit Best Sellers 2025](https://www.skelt.com.br/kit-best-sellers-2025/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), vimos três situações:",
           "Sem código, o kit saiu por R$ 263,84, com o brinde. Com o SKEMCASACOMCECILIA, caiu para R$ 237,46 e o brinde saiu da sacola. Com um creme para mãos junto e o cupom, o pedido foi a R$ 261,15 e o brinde voltou: R$ 2,69 abaixo do kit sozinho sem o código. Confira se o presente continua na sacola antes de pagar.",
-          "A ação de 48 horas, com dois brindes para quem usava o cupom, já terminou. Veja como foi em brindes Skelt com o cupom.",
+          "A ação de 48 horas, com dois brindes para quem usava o cupom, já terminou.",
           "O frete também conta o valor final. Pela política da loja, é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste e a partir de R$ 199 no Norte e no Nordeste. Na simulação da sacola:"
         ],
         "bullets": [
@@ -137418,12 +137411,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. O total com o código aparece no resumo da sacola.",
-          "Quando é a Black Friday da Skelt? Na última sexta de novembro. A Cyber Monday vem na segunda seguinte. A loja não publicou como será a oferta, e as ações de novembro já terminaram ou estão no fim.",
-          "A Skelt tem Black Friday? A campanha de novembro, a November Glow, tem desconto progressivo de 10% a 25% conforme o número de produtos, 20% nos kits e uma seleção com até 50% OFF, e está no fim. Para a sexta, a loja ainda não divulgou as condições.",
-          "O que era “BF - Live”? Era o nome da coleção que indicava uma live de aquecimento. O nome, por si só, não comprovava desconto.",
-          "O cupom SKEMCASACOMCECILIA vale na Black Friday? Vale. O cupom tirou 10% por cima da November Glow nos carrinhos de novembro que testamos: no desconto progressivo, nos kits e nos itens de 50%. Confira o total na sacola antes de pagar.",
+          "Quando é a Black Friday da Skelt? Na última sexta de novembro. A Cyber Monday vem na segunda seguinte. A loja não publicou como será a oferta, e as ações de novembro já terminaram.",
+          "A Skelt tem Black Friday? A campanha de novembro, a November Glow, tinha desconto progressivo de 10% a 25% conforme o número de produtos, 20% nos kits e uma seleção com até 50% OFF, e terminou. Para a sexta, a loja ainda não divulgou as condições.",
+          "O cupom SKEMCASACOMCECILIA vale na Black Friday? Vale. O cupom tirou 10% por cima da November Glow nos primeiros carrinhos de novembro que testamos: no desconto progressivo, nos kits e nos itens de 50%. Confira o total na sacola antes de pagar.",
           "Kit ou produto avulso na Black Friday da Skelt? Entre os sete conjuntos comparados, o Kit Iniciante e o Best Sellers 2025 ficaram mais baratos que os avulsos com o SKEMCASACOMCECILIA. Nos outros cinco, os avulsos ganharam. Compare o carrinho completo: o desconto progressivo muda conforme a combinação de produtos.",
-          "O que está com 50% na Skelt? Na leitura de novembro, o Mousse Dark, a Água Dark, o Gel Autobronzeador e o Removedor. Os body splashes Pink Sands, Grand Bahama e Milos Breeze e o kit de miniaturas Exotic Set estavam com 40%.",
+          "O que estava com 50% na November Glow? Na leitura de novembro, o Mousse Dark, a Água Dark, o Gel Autobronzeador e o Removedor. Os body splashes Pink Sands, Grand Bahama e Milos Breeze e o kit de miniaturas Exotic Set estavam com 40%.",
           "Vale a pena esperar? Compare o preço final do mesmo produto, com cupom, forma de pagamento e frete. A tabela datada de outubro ajuda a verificar se a oferta de novembro ficou melhor.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2unTb7k).",
           "O desconto de uma ação anterior vale na sexta da Black Friday? Não presuma que sim. Prazo, percentual e brindes podem mudar; confira as condições da campanha e o resumo do pedido."
@@ -139479,7 +139471,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mousse ou água: qual a diferença",
         "paragraphs": [
-          "A principal diferença é a cor-guia. O mousse tem: a ficha descreve a cor-guia explicada acima. A água é incolor e não tem cor-guia. Por isso a Skelt marca o mousse como nível iniciante e a água como nível expert: sem a cor visível, é mais fácil deixar uma região sem passar e criar mancha, e a loja indica a água \"para os mais experientes\".",
+          "A principal diferença é a cor-guia. O mousse tem cor-guia, o pigmento explicado acima. A água é incolor e não tem cor-guia. Por isso a Skelt marca o mousse como nível iniciante e a água como nível expert: sem a cor visível, é mais fácil deixar uma região sem passar e criar mancha, e a loja indica a água \"para os mais experientes\".",
           "A água também traz a vantagem que a loja destaca: por ser incolor, diminui a chance de manchar a roupa. Nos mousses com cor-guia, a Skelt avisa (na página do Mousse Dark e no kit do Mousse) que, durante a secagem, suor e atrito podem transferir a cor-guia para o tecido. Em qualquer um dos dois, espere secar antes de se vestir.",
           "O resto é parecido. A intensidade nos dois é de leve a média, a duração, de 7 a 12 dias, e o rendimento, de 5 a 8 aplicações. Na tabela de outubro, o preço era o mesmo, R$ 119,90, com 140 ml no mousse e 150 ml na água (R$ 0,86 e R$ 0,80 por ml). Na página do mousse, ácido lático e aloe vera na fórmula; na da água, ácido hialurônico e aloe vera. A luva aplicadora não vem em nenhum dos dois.",
           "Na dúvida, a regra da própria marca resolve: quem nunca usou autobronzeador fica com o mousse, e a água é para quem já sabe aplicar e quer um produto incolor. Os tempos de ação estão na tabela; na água, a página manda seguir o tempo indicado na embalagem."
@@ -139676,7 +139668,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A marca também avisa que atrito e umidade podem fazer a cor passar para o tecido. No Bifásico, a página diz que o que passar para a roupa sai na lavagem. Na Água, a Skelt diz que a ausência de cor-guia diminui a chance de manchar a roupa. O Gel e a Água Dark também são incolores, segundo a ficha, mas o cuidado na aplicação continua valendo, já que não há cor para mostrar onde você passou.",
-          "**Luva.** A Luva Aplicadora (Tanning Mitt) é de poliuretano e veludo de nylon, serve para as duas mãos e, segundo a marca, protege as mãos e as unhas de manchas e espalha mais produto em menos tempo. Depois do uso, a Skelt orienta lavar à mão com água morna e shampoo neutro e deixar secar à sombra. Custava R$ 34,90.",
+          "**Luva.** A Luva Aplicadora (Tanning Mitt) é de poliuretano e veludo de nylon, serve para as duas mãos e, segundo a marca, protege as mãos e as unhas de manchas e espalha mais produto em menos tempo. Depois do uso, a Skelt orienta lavar à mão com água morna e shampoo neutro e deixar secar à sombra. Custava R$ 34,90 de lista.",
           "**Removedor.** O [Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), 140 ml, custava R$ 69,90. A Skelt diz que ele remove em minutos o bronze de autobronzeadores aplicados há mais de 3 dias. A marca manda agitar, aplicar na pele seca, deixar por no mínimo 3 minutos e retirar com toalha ou esponja molhadas em água morna."
         ],
         "images": [
@@ -139700,7 +139692,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual autobronzeador Skelt escolher?",
-        "emphasis": "Para quem começa, eu escolheria o Kit Iniciante: mousse com cor-guia e a luva na mesma compra. Quem já sabe aplicar e quer um produto incolor, eu levaria a Água.",
+        "emphasis": "Para quem começa, eu escolheria o Kit Iniciante: mousse com cor-guia e a luva na mesma compra. Para quem já sabe aplicar e quer um produto incolor, eu levaria a Água.",
         "paragraphs": [
           "A escolha por perfil, com os preços do site oficial. A intensidade e a duração são as que a Skelt informa na ficha de cada produto."
         ],
@@ -139755,7 +139747,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe o Dark se é a primeira vez: a Skelt o marca como nível expert.",
         "Passe o autobronzeador avulso se você ainda não tem a luva aplicadora: ela não vem nele.",
-        "Passe os kits Dark enquanto a promoção dos avulsos durar: o autobronzeador Dark e a luva comprados separados saem abaixo do kit."
+        "Passe os kits Dark se o Dark avulso estiver em promoção: o autobronzeador Dark e a luva comprados separados saem abaixo do kit."
       ]
     },
     "pros": [],
@@ -140408,7 +140400,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Mousse mais luva",
-              "[Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) R$ 111,26; [Kit Iniciante Dark](https://www.skelt.com.br/kitiniciantedark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) R$ 137,62",
+              "[Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) R$ 111,26 em promoção, de R$ 130,90; [Kit Iniciante Dark](https://www.skelt.com.br/kitiniciantedark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) R$ 137,62 em promoção, de R$ 161,90",
               "Clear + Luva R$ 158,00; Dark Express + Luva R$ 178,00"
             ],
             [
@@ -140572,7 +140564,7 @@ export const reviewsData: unknown[] = [
           "**Best Bronze, duração e rendimento declarados:** até 15 dias e cerca de 10 aplicações, contra 7 a 12 dias e 5 a 8 aplicações da Skelt. Dividindo o preço pelo rendimento que cada marca declara, o Dark Express Pro, no preço em promoção, sai a cerca de R$ 12,23 por aplicação (R$ 17,20 a R$ 172,00), e o Mousse Dark da Skelt, entre R$ 16,24 e R$ 25,98 (de R$ 13,88 a R$ 22,21 com cupom e Pix). É estimativa: o rendimento depende de quanto produto você usa.",
           "**Best Bronze, formatos que a Skelt não tem em estoque:** spray (Spray Fácil), gotas para misturar ao hidratante (Magic Drop) e lenços para o rosto (Pocket Bronze). A página do Spray Fácil lista álcool, propelente (butano e propano) e parabenos.",
           "**Skelt, transparente mais barato:** a Água sai a R$ 79,93 por 100 ml no cartão, contra R$ 83,33 do Clear Vegan, e o Gel, a R$ 82,42.",
-          "**Skelt, kit com luva mais barato:** o Kit Iniciante custa R$ 111,26 e o Kit Iniciante Dark, R$ 137,62, contra R$ 158,00 do Clear + Luva e R$ 178,00 do Dark Express + Luva da Best Bronze.",
+          "**Skelt, kit com luva mais barato:** o Kit Iniciante custa R$ 111,26 em promoção, de R$ 130,90 e o Kit Iniciante Dark, R$ 137,62 em promoção, de R$ 161,90, contra R$ 158,00 do Clear + Luva e R$ 178,00 do Dark Express + Luva da Best Bronze.",
           "**Skelt, cupom e Pix:** o SKEMCASACOMCECILIA dá 10%, o Pix soma mais 5%, e o Mousse Dark cai para R$ 79,33 por 100 ml, abaixo dos R$ 81,55 da Best Bronze em promoção.",
           "**Skelt, mais opções de mousse e o bifásico:** mousse de intensidade normal, o Mini Mousse de 45 ml e o Bifásico com fragrância. A Best Bronze não tem mousse com cor-guia de intensidade normal."
         ],
@@ -140590,14 +140582,14 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Para quem começa, eu escolheria o Kit Iniciante da Skelt: mousse com cor-guia e luva custando menos que o Clear com luva da Best Bronze. Quem já sabe aplicar e quer transparente, eu levaria a Água.",
+        "emphasis": "Para quem começa, eu escolheria o Kit Iniciante da Skelt: mousse com cor-guia e luva custando menos que o Clear com luva da Best Bronze. Para quem já sabe aplicar e quer transparente, eu levaria a Água.",
         "paragraphs": [
           "O veredito por perfil, com os preços."
         ],
         "bullets": [
-          "**Mousse com cor-guia mais escuro:** empate apertado. No cartão, o Mousse Dark Express Pro da Best Bronze, em promoção (de R$ 172,00 por R$ 122,32), sai a R$ 81,55 por 100 ml, contra R$ 92,79 do [Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt (R$ 129,90). Com o cupom e o Pix, a Skelt cai para R$ 79,33 e passa à frente.",
+          "**Mousse com cor-guia mais escuro:** depende do pagamento. No cartão, o Mousse Dark Express Pro da Best Bronze, em promoção (de R$ 172,00 por R$ 122,32), sai a R$ 81,55 por 100 ml, contra R$ 92,79 do [Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt (R$ 129,90). Com o cupom e o Pix, a Skelt cai para R$ 79,33 e passa à frente.",
           "**Transparente, sem cor-guia:** a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt, que a marca indica a quem já sabe aplicar. Sai a R$ 79,93 por 100 ml no cartão, contra R$ 83,33 do Mousse Clear Vegan da Best Bronze, e a R$ 68,34 com cupom e Pix.",
-          "**Começar com luva:** o [Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt, R$ 111,26. Na Best Bronze, o Clear + Luva custa R$ 158,00 e o Dark Express + Luva, R$ 178,00.",
+          "**Começar com luva:** o [Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt, R$ 111,26 em promoção, de R$ 130,90. Na Best Bronze, o Clear + Luva custa R$ 158,00 e o Dark Express + Luva, R$ 178,00.",
           "**Spray, gotas ou lenço para o rosto:** esses formatos aparecem só na Best Bronze, e o spray e o facial da Skelt estavam sem estoque. Confira o estoque antes de comprar."
         ],
         "postParagraphs": [
@@ -140973,7 +140965,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe no frasco grande se você quer conhecer a fragrância antes: os kits de miniaturas de 15 ml servem para provar.",
         "Passe nos hidratantes avulsos de Pink Sands, Grand Bahama, Solar Muse e Milos Breeze: essas quatro não têm.",
-        "Passe nesta lista se você escolhe por ranking de cheiro ou por tempo de fixação em horas: a loja não publica nenhum dos dois."
+        "Você prefere perfume concentrado, não um body splash, que é uma fragrância mais leve."
       ]
     },
     "pros": [],
@@ -141008,7 +141000,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para começar pela família de notas: Amalfi Sunset ou Unexpected Day no grupo cítrico e fresco; Hidden Flowers ou Mystic Bloom no floral; Velvet Milano ou Solar Muse no doce. O agrupamento é deste guia, pelas descrições da Skelt. Os dez frascos custam o mesmo, e o cupom SKEMCASACOMCECILIA dá 10% OFF no site."
+          "Para começar pela família de notas: Amalfi Sunset ou Unexpected Day no grupo cítrico e fresco; Hidden Flowers ou Mystic Bloom no floral; Velvet Milano ou Solar Muse no doce. Os dez frascos custam o mesmo, e o cupom SKEMCASACOMCECILIA dá 10% OFF no site."
         ]
       },
       {
@@ -141109,7 +141101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cítrico e fresco: Amalfi Sunset, Unexpected Day, Grand Bahama e Milos Breeze",
         "paragraphs": [
-          "Quatro fragrâncias de topo cítrico, de fruta clara ou de água. O agrupamento é deste guia, não da loja.",
+          "Quatro fragrâncias de topo cítrico, de fruta clara ou de água.",
           "**Amalfi Sunset.** A Skelt diz \"Transporte-se para o verão europeu\" e descreve a fragrância como cítrica nos kits. As notas comuns às três pirâmides que a loja publica (kits e perfume para cabelos) são bergamota, jasmim e sândalo. Está em quinto na ordem de mais vendidos do site e é a única das dez que tem perfume para cabelos, hidratante e creme para mãos da mesma fragrância. A página do Amalfi pede para não aplicar no rosto.",
           "**Unexpected Day.** A loja a chama de \"uma surpresa refrescante\". A descrição cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly: começa fresca e termina em \"conforto doce\", nas palavras da Skelt. Não há pirâmide na página.",
           "**Grand Bahama.** A Skelt a descreve como solar, exótica e vibrante. Topo de abacaxi, bergamota e água de coco; meio de lírio do vale, flores solares e limão; fundo de baunilha, musk e musgo de carvalho. É a fragrância do Bifásico, o autobronzeador com perfume de body splash.",
@@ -141132,7 +141124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Doce e gourmand: Velvet Milano e Solar Muse",
         "paragraphs": [
-          "São as duas que a loja descreve com palavras como gourmand e adocicado. Também aqui o agrupamento é nosso.",
+          "São as duas que a loja descreve com palavras como gourmand e adocicado.",
           "**Velvet Milano.** A Skelt a descreve como fragrância gourmand \"para celebrar sua essência\". Topo de limão, bergamota, maçã e laranja; meio de rosa branca, jasmim e frutas vermelhas; fundo de sândalo, baunilha e musk. Um dos kits da loja a chama de gourmand cítrica. Ocupa o 12º lugar na ordem de mais vendidos.",
           "**Solar Muse.** O perfil na página é \"Solar, Cítrico e Adocicado (Floral Frutado Solar)\", com o slogan \"Quente como você chega\". Topo de abacaxi rosa, água de coco e folhas de palmeira; meio de jasmim manga, lírio-do-vale, gardênia e floral doce; fundo de baunilha, caramelo, âmbar doce, madeiras salgadas e musgo. É vendido avulso, a R$ 99,90 ([página do Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)), e também em kits com o hidratante Amalfi Sunset ou o Hidden Flowers. Notas por camada e a conta de cada conjunto com o Solar Muse estão no [guia do Body Splash Solar Muse](/reviews/body-splash-skelt-solar-muse).",
           "Entre as duas, a diferença que a loja publica está no meio e no fundo: rosa branca e frutas vermelhas no Velvet Milano, jasmim manga e caramelo no Solar Muse."
@@ -174992,7 +174984,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O Kit Radiante estava em promoção, de R$ 296,70 por R$ 252,20. Os duos com creme para mãos estavam de R$ 130,37 por R$ 117,33, os duos com body splash de R$ 197,90 por R$ 178,11 e os Duo + Creme para Mãos de R$ 229,37 por R$ 194,96. Os avulsos, a Linha Completa e os kits com perfume para cabelos estavam sem promoção.",
-          "A ficha avulsa do Velvet Milano não traz o peso. Nos duos da mesma fragrância, a Skelt informa hidratante de 200 g, mas o guia não aplica esse número ao pote avulso sem a ficha dele dizer."
+          "A ficha avulsa do Velvet Milano não traz o peso. Nos duos da mesma fragrância, a Skelt informa hidratante de 200 g."
         ],
         "images": [
           {
@@ -175095,10 +175087,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cupom e Pix: o que a regra diz",
+        "heading": "Cupom e Pix",
         "paragraphs": [
-          "Pela regra da parceria, o cupom SKEMCASACOMCECILIA dá 10% em todos os produtos do site oficial, inclusive kits e combos, e soma com o Pix de 5%. Ele entra sobre produtos que já estão em promoção, e o Pix entra depois. Cole o código no campo de cupom de desconto da sacola ou do checkout e aplique; o resumo mostra o desconto. Não vale no Mercado Livre, e a Skelt não tem aplicativo.",
-          "Se a regra valer na sua sacola, o avulso de 200 g sai a R$ 42,71 por 100 g com cupom e Pix, e o Kit Radiante a R$ 35,94. Confira o desconto no resumo antes de pagar. As condições estão na página do [cupom Skelt](/cupons/skelt)."
+          "O cupom SKEMCASACOMCECILIA dá 10% em todos os produtos do site oficial, inclusive kits e combos, e soma com o Pix de 5%. Ele entra sobre produtos que já estão em promoção, e o Pix entra depois. Cole o código no campo de cupom de desconto da sacola ou do checkout e aplique; o resumo mostra o desconto. Não vale no Mercado Livre, e a Skelt não tem aplicativo.",
+          "Com cupom e Pix, o avulso de 200 g sai a R$ 42,71 por 100 g com cupom e Pix, e o Kit Radiante a R$ 35,94. Confira o desconto no resumo antes de pagar. As condições estão na página do [cupom Skelt](/cupons/skelt)."
         ]
       },
       {
@@ -175130,7 +175122,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Vale nos hidratantes avulsos, nos kits e nos duos; confira o desconto no resumo da sacola antes de pagar.",
           "Qual hidratante corporal Skelt escolher? Pelo perfil da fragrância: Amalfi Sunset e Unexpected Day são os cítricos, Hidden Flowers e Mystic Bloom os florais, Urban Beat o frutado e Velvet Milano o doce. O preço é o mesmo nos seis avulsos; confira os valores atuais na loja.",
-          "Quanto custa o hidratante corporal Skelt? Os cinco avulsos com 200 g informados custam o mesmo, e a conta por 100 g está na tabela. A ficha avulsa do Velvet Milano não informa o peso.",
+          "Quanto custa o hidratante corporal Skelt? Os seis avulsos custam o mesmo, e a conta por 100 g está na tabela. A ficha avulsa do Velvet Milano não informa o peso.",
           "Qual é o jeito mais barato de comprar o hidratante Skelt por grama? Entre os conjuntos só de hidratante com peso informado, o Kit Radiante, com três potes de 200 g. Contando o body splash e o creme pelo preço avulso, o Duo + Creme para Mãos dá ao hidratante o menor custo por 100 g da tabela.",
           "Compensa o duo de hidratante com body splash? Se você vai usar o splash, sim pela conta: o duo sai 10,9% abaixo dos dois avulsos, e a conta atribui ao hidratante um custo por 100 g menor que o do avulso.",
           "O kit com perfume para cabelos barateia o hidratante? Não. A Linha Completa custava a soma dos avulsos e os kits com perfume para cabelos custavam um pouco mais que os itens separados.",
@@ -175192,13 +175184,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Body Splash Solar Muse é vendido avulso, em frasco de 100 ml, pelo mesmo preço dos outros body splash da Skelt, e para só ele o avulso basta. Dos oito conjuntos que o levam, o kit com Body Cream Amalfi Sunset economiza mais, se você quiser esse creme. O SKEMCASACOMCECILIA dá 10% em todo o site."
+          "O Body Splash Solar Muse é vendido avulso, em frasco de 100 ml, pelo mesmo preço dos outros body splash da Skelt, e, se você quer só ele, o avulso basta. Dos oito conjuntos que o levam, o kit com Body Cream Amalfi Sunset economiza mais, se você quiser esse creme. O SKEMCASACOMCECILIA dá 10% em todo o site."
         ]
       },
       {
         "heading": "O que é o Body Splash Solar Muse",
         "paragraphs": [
-          "Quem quer Solar Muse vai de avulso: [Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), spray de 100 ml. A loja o chama de \"o novo Body Splash da Skelt\" na página de um kit, e o slogan é \"Quente como você chega\". Tudo o que este guia diz sobre a fragrância é o que a Skelt publica.",
+          "Quem quer Solar Muse vai de avulso: [Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), spray de 100 ml. A loja o chama de \"o novo Body Splash da Skelt\" na página de um kit, e o slogan é \"Quente como você chega\".",
           "A Skelt classifica o Solar Muse como floral frutado solar, com perfil cítrico e adocicado. A pirâmide publicada combina frutas e flores com baunilha, caramelo e madeiras no fundo. As notas estão detalhadas abaixo. Para comparar com as outras fragrâncias, veja o [guia de body splash Skelt](/reviews/body-splash-skelt-qual-escolher).",
           "A ficha declara o produto dermatologicamente testado, vegano, cruelty free e livre de parabenos e óleo mineral. Na Skelt não existe perfume Solar Muse: a fragrância aparece só no body splash, avulso ou dentro dos conjuntos."
         ],
@@ -175277,7 +175269,7 @@ export const reviewsData: unknown[] = [
               "Body splash Solar Muse e Amalfi Sunset",
               "R$ 178,20 (de R$ 198,00)",
               "R$ 199,80",
-              "−R$ 19,60 (−9,8%)"
+              "−R$ 21,60 (−10,8%)"
             ],
             [
               "[Duo Body Splash Solar Muse + Body Cream Hidden Flowers](https://www.skelt.com.br/duo-bodysplash-solarmuse-bodycream-hiddenflowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
@@ -175325,14 +175317,14 @@ export const reviewsData: unknown[] = [
           "caption": "Preços de outubro de 2026, sem cupom e sem o desconto do Pix."
         },
         "postParagraphs": [
-          "A regra do cupom SKEMCASACOMCECILIA é 10% em todo o site oficial da Skelt, inclusive kits, somando com as promoções e com os 5% do Pix. Cole o código no campo de cupom de desconto da sacola ou do checkout e aplique; o resumo mostra o desconto. Não vale no Mercado Livre, e a Skelt não tem aplicativo. Pela conta, o avulso de R$ 99,90 sairia a R$ 85,41 com cupom e Pix, e os conjuntos ficariam entre R$ 152,28 e R$ 253,94. No Solar Muse sem promoção e nos conjuntos, confira o desconto no resumo da sacola. As condições estão na página do [cupom Skelt](/cupons/skelt).",
+          "A regra do cupom SKEMCASACOMCECILIA é 10% em todo o site oficial da Skelt, inclusive kits, somando com as promoções e com os 5% do Pix. Cole o código no campo de cupom de desconto da sacola ou do checkout e aplique; o resumo mostra o desconto. Não vale no Mercado Livre, e a Skelt não tem aplicativo. Pela conta, o avulso de R$ 99,90 sairia a R$ 85,41 com cupom e Pix, e os conjuntos ficariam entre R$ 152,28 e R$ 253,94. Confira o desconto no resumo da sacola. As condições estão na página do [cupom Skelt](/cupons/skelt).",
           "Por mililitro, o avulso custa cerca de R$ 1,00 (R$ 99,90 por 100 ml). Os kits de miniaturas de 15 ml da Skelt não trazem o Solar Muse."
         ]
       },
       {
         "heading": "Avulso ou kit: o que a conta mostra",
         "paragraphs": [
-          "Só dois conjuntos ficam claramente abaixo da soma dos avulsos, e os dois estavam em promoção: o kit com Body Cream Amalfi Sunset, R$ 21,69 a menos (10,9%), e o Kit Fragrâncias com body splash Amalfi Sunset, R$ 19,60 a menos (9,8%). Nos dois, a segunda fragrância é a Amalfi Sunset, e não a Solar Muse.",
+          "Só dois conjuntos ficam claramente abaixo da soma dos avulsos, e os dois estavam em promoção: o kit com Body Cream Amalfi Sunset, R$ 21,69 a menos (10,9%), e o Kit Fragrâncias com body splash Amalfi Sunset, R$ 21,60 a menos (10,8%). Nos dois, a segunda fragrância é a Amalfi Sunset, e não a Solar Muse.",
           "Nos dois duos com Hidden Flowers e nos dois kits de três itens sem perfume para cabelos, a diferença é menor que R$ 3 em relação aos mesmos produtos avulsos. Compare a composição do conjunto com o que você pretende comprar.",
           "Os dois conjuntos com o perfume para cabelos Amalfi Sunset custam R$ 2,40 e R$ 2,50 a mais que os mesmos produtos comprados separados.",
           "Confira a conta na sacola, com os produtos que você pretende levar."
@@ -175435,7 +175427,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o Body Splash Milos Breeze",
         "paragraphs": [
-          "As notas e características abaixo vêm da ficha da Skelt; as contas são nossas, sobre os preços da tabela.",
+          "",
           "O [Body Splash Milos Breeze](https://www.skelt.com.br/body-splash-milos-breeze/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é um spray de 100 ml. A ficha resume a fragrância como \"Frescor com a energia do verão grego\" e diz que \"o mar azul da Grécia é a principal inspiração\", com \"notas aquosas e intensas\". As dez fragrâncias de body splash da Skelt, lado a lado, estão no [guia de qual body splash Skelt escolher](/reviews/body-splash-skelt-qual-escolher).",
           "A página anuncia \"alta fixação e projeção duradoura\", sem tempo em horas, e chama a fragrância de \"ideal para todos os momentos do dia\". O modo de uso da loja: \"Aplique a quantidade suficiente na área da sua escolha. Reaplique sempre que desejar.\"",
           "A página declara o produto vegano, cruelty free, sem parabenos e óleo mineral e dermatologicamente testado. A composição publicada começa por álcool etílico, seguido de água e perfume, e termina em citral."
@@ -175463,7 +175455,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A terceira fragrância do trio, o [Pink Sands](https://www.skelt.com.br/body-splash-pink-sands/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), segue outro caminho na ficha: pitaya, lichia, bergamota e laranja no topo, jasmim, peônia e rosa no meio, âmbar, sândalo e baunilha no fundo. Se a dúvida é entre o Milos e a fragrância mais vendida da loja, veja o artigo do [Body Splash Solar Muse](/reviews/body-splash-skelt-solar-muse).",
-          "A Skelt não compara o Milos Breeze com perfume de outra marca, e este texto também não."
+          ""
         ]
       },
       {
@@ -175508,7 +175500,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Pela regra do cupom SKEMCASACOMCECILIA, 10% sobre o Milos Breeze avulso dá R$ 89,91, sobre o trio R$ 267,93 e sobre o Kit Miniaturas Exotic Set R$ 89,91. Com os 5% do Pix somados, o avulso sai a R$ 85,41 e o trio, a R$ 254,53. Cole o código no campo de cupom de desconto da sacola ou do checkout do site oficial e aplique; o resumo mostra o desconto. Não vale no Mercado Livre, a Skelt aceita um cupom por pedido e não tem aplicativo. As condições estão na página do [cupom Skelt](/cupons/skelt).",
-          "O Exotic Set traz Grand Bahama, Pink Sands e Milos Breeze, diz a página do kit e a caixa. A ficha do Combo não tem texto; a foto mostra as caixas Exotic Set, Sellers Set e Trends Set. As miniaturas custam mais que o dobro por ml do frasco grande: é o preço de provar antes."
+          "O Exotic Set traz Grand Bahama, Pink Sands e Milos Breeze, dizem a página do kit e a caixa. O Combo reúne as caixas Exotic Set, Sellers Set e Trends Set. As miniaturas custam mais que o dobro por ml do frasco grande: é o preço de provar antes."
         ],
         "images": [
           {
@@ -185205,7 +185197,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que muda: maquiagem corporal ou autobronzeador",
         "paragraphs": [
           "A própria Skelt classifica o Bronzeado Instantâneo como maquiagem corporal, e não como autobronzeador. A descrição resumida traz a frase “maquiagem corporal para uma pele bronzeada em segundos”. Por isso ele não substitui o autobronzeador quando a ideia é uma cor que dure dias.",
-          "A área indicada é corpo, e a Skelt não fala de rosto. Este texto segue essa indicação.",
+          "A área indicada é corpo, e a Skelt não fala de rosto.",
           "Para escolher entre os autobronzeadores da linha, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
         ],
         "comparisonTable": {
@@ -185393,13 +185385,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Espere pelo menos 3 dias depois de aplicar o autobronzeador. Depois, aplique o Removedor de Autobronzeador Skelt na pele seca, deixe agir por no mínimo 3 minutos e retire com toalha ou esponja molhadas em água morna; o Bifásico tem outra regra. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
+          "Espere pelo menos 3 dias depois de aplicar o autobronzeador. Depois, aplique o Removedor de Autobronzeador Skelt na pele seca, deixe agir por no mínimo 3 minutos e retire com toalha ou esponja molhadas em água morna. O SKEMCASACOMCECILIA dá 10% em todo o site da Skelt."
         ]
       },
       {
         "heading": "Passo a passo do removedor",
         "paragraphs": [
-          "Na pele seca e na área do corpo: esse é o modo da marca. Para escolher o autobronzeador antes de pensar em tirar, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
+          "A marca manda usar na pele seca, só no corpo. Para escolher o autobronzeador antes de pensar em tirar, veja o [guia de escolha da Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
         ],
         "bullets": [
           "Agite o produto.",
@@ -185425,7 +185417,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Skelt pede pelo menos 3 dias depois da aplicação. Antes desse prazo, a página não indica o removedor. Se a ideia é um bronze para hoje, o [bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) é outro produto, com instruções próprias.",
           "O banho após o tempo de ação do [Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) faz parte do ciclo de aplicação desse produto. Não use essa instrução como alternativa geral ao removedor.",
-          "Para outro autobronzeador, siga as instruções da embalagem. Quem quer o brilho depois do bronze encontra o iluminador corporal em outro produto da linha."
+          "Para outro autobronzeador, siga as instruções da embalagem. Para brilho por cima do bronze, a linha tem o iluminador corporal."
         ],
         "image": {
           "src": "/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-mao.webp",
@@ -185482,7 +185474,7 @@ export const reviewsData: unknown[] = [
         "heading": "Compensa comprar o removedor?",
         "emphasis": "Se o bronze já passou dos 3 dias e eu quisesse tirá-lo por inteiro, eu levaria o removedor, sem comprar a luva junto.",
         "paragraphs": [
-          "A conta é curta: o removedor tem 140 ml, a R$ 0,50 por ml na tabela acima, e a luva serve só para aplicar o autobronzeador. Antes dos 3 dias, a Skelt não indica o removedor; nesse caso, siga a embalagem do autobronzeador que você usou.",
+          "O removedor tem 140 ml e sai a R$ 0,50 por ml. Antes dos 3 dias, a Skelt não indica o removedor; nesse caso, siga a embalagem do autobronzeador que você usou.",
           "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial. Cole o código no campo de cupom de desconto do carrinho ou do checkout e aplique; o resumo mostra o desconto. Ele não vale no Mercado Livre, e a Skelt não tem aplicativo."
         ],
         "links": [
@@ -185537,12 +185529,10 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-23",
     "decision": {
       "takeIf": [
-        "Leve o removedor se o autobronzeador já tem pelo menos 3 dias e você quer tirar o bronze do corpo.",
-        "Leve só o removedor: a luva não entra na retirada."
+        "Leve o removedor se o autobronzeador já tem pelo menos 3 dias e você quer tirar o bronze do corpo."
       ],
       "skipIf": [
-        "Passe o removedor se a aplicação é de menos de 3 dias: a Skelt não o indica antes disso.",
-        "Passe o removedor se o seu é o Bifásico: a marca manda tirar só com água morna no banho."
+        "Passe o removedor se a aplicação é de menos de 3 dias: a Skelt não o indica antes disso."
       ]
     }
   },
@@ -185600,7 +185590,7 @@ export const reviewsData: unknown[] = [
         "heading": "Corpo e rosto: as áreas de uso",
         "paragraphs": [
           "A Skelt indica o iluminador para corpo e rosto, com nível de iniciante a expert, num tom só, sem cor para escolher.",
-          "A indicação de uso no rosto vem da ficha da Skelt; siga o modo de uso e as orientações da embalagem."
+          ""
         ],
         "image": {
           "src": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-pele.webp",
@@ -185636,8 +185626,8 @@ export const reviewsData: unknown[] = [
           "caption": "Preços de outubro de 2026, em dados da ficha de cada item; preço e estoque mudam, confira no site antes de comprar."
         },
         "postParagraphs": [
-          "Comprados separados, o [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 119,90), a [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 34,90) e o iluminador (R$ 99,90) somam R$ 254,70. O kit sai por R$ 191,78, R$ 62,92 a menos. Se quer só o brilho, o iluminador avulso é a conta.",
-          "O [cupom Skelt](/cupons/skelt), o SKEMCASACOMCECILIA, dá 10% em todo o site e soma com o desconto de 5% do Pix, em um pedido só. Cole o código no campo de cupom de desconto da sacola ou do checkout do site oficial e aplique; o resumo mostra o desconto. Não vale no Mercado Livre, e a Skelt não tem aplicativo. Os valores acima são de cartão, sem cupom."
+          "Comprados separados, o [Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 119,90), a [Luva Aplicadora](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 34,90) e o iluminador (R$ 99,90) somam R$ 254,70. O kit sai por R$ 191,78, R$ 62,92 a menos. Se quer só o brilho, o iluminador avulso é a compra.",
+          "O [cupom Skelt](/cupons/skelt), o SKEMCASACOMCECILIA, dá 10% em todo o site e soma com os 5% do Pix; a loja aceita um cupom por pedido. Cole o código no campo de cupom de desconto da sacola ou do checkout do site oficial e aplique; o resumo mostra o desconto. Não vale no Mercado Livre, e a Skelt não tem aplicativo. Os valores acima são de cartão, sem cupom."
         ],
         "image": {
           "src": "/images/reviews/skelt/iluminador-corporal-skelt-como-usar-kit.webp",
@@ -185652,7 +185642,7 @@ export const reviewsData: unknown[] = [
         "heading": "Iluminador ou bronzeado instantâneo",
         "paragraphs": [
           "A página do iluminador fala em micropérolas iluminadoras e glow dourado. A do [Bronzeado Instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador) fala em pele bronzeada em segundos. Os dois são maquiagem corporal, com duração de 12 a 24 horas, segundo a Skelt.",
-          "Se a pergunta é cor, veja o bronzeado. Se é brilho por cima, o iluminador é o produto. Para tirar um autobronzeador de alguns dias, o removedor da Skelt tem guia próprio."
+          "Se a pergunta é cor, veja o bronzeado. Se é brilho por cima, o iluminador é o produto."
         ]
       },
       {
@@ -197764,7 +197754,7 @@ export const reviewsData: unknown[] = [
           "**Body splash:** dez fragrâncias em frasco de 100 mL, mais os trios e os kits de miniaturas.",
           "**Hidratação corporal:** body cream de 200 g, creme para mãos de 75 g e os duos com body splash.",
           "**Maquiagem corporal:** iluminador, bronzeado instantâneo, glow stick e a luva aplicadora.",
-          "**Protetor solar.** Na consulta, só o Instant Bronzer FPS 8 estava à venda. O guia do protetor solar da Skelt mostra as versões e a orientação da Sociedade Brasileira de Dermatologia sobre o FPS no dia a dia.",
+          "**Protetor solar:** Na consulta, só o Instant Bronzer FPS 8 estava à venda.",
           "**Kits e combos:** 55, do Kit Iniciante aos conjuntos de fragrância."
         ],
         "postParagraphs": [
@@ -197862,7 +197852,7 @@ export const reviewsData: unknown[] = [
         "heading": "Para tirar e para hoje: removedor e bronzeado instantâneo",
         "paragraphs": [
           "O Removedor de Autobronzeador é um spray para o corpo. Confira o modo de uso no rótulo da versão que você tem, com o tempo de ação e a temperatura da água.",
-          "Para uma cor de curta duração, a Skelt classifica o Bronzeado Instantâneo como maquiagem corporal e informa duração de 12 a 24 horas. Para escolher um autobronzeador, consulte o guia dos autobronzeadores da Skelt."
+          "Para uma cor de curta duração, a Skelt classifica o Bronzeado Instantâneo como maquiagem corporal e informa duração de 12 a 24 horas."
         ],
         "comparisonTable": {
           "headers": [
@@ -198074,7 +198064,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, frete e onde comprar",
         "paragraphs": [
           "O cupom SKEMCASACOMCECILIA dá 10% no site oficial, inclusive em produtos em promoção e kits, em todas as formas de pagamento; o Pix acrescenta 5% sobre o total após o cupom. No teste do cupom, um body splash e um mousse, de R$ 219,80 de lista, foram a R$ 178,04 com a promoção e o cupom, e a R$ 169,13 no Pix. É um cupom por pedido: outro código na sacola troca o nosso. Digite o código no campo \"Cupom de desconto\" da sacola, abaixo do CEP, e confira o total antes de pagar. A página do [cupom Skelt](/cupons/skelt) traz as regras.",
-          "O que muda a conta é o frete. Ele é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste. No Norte e no Nordeste, o pedido precisa passar de R$ 199.  Dá para pagar no cartão, com parcelas sem juros que mudam por produto, no Pix, no Apple Pay e no Pagaleve.",
+          "O que muda a conta é o frete. Ele é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste. No Norte e no Nordeste, o pedido é grátis a partir de R$ 199. Dá para pagar no cartão, com parcelas sem juros que mudam por produto, no Pix, no Apple Pay e no Pagaleve.",
           "A Skelt também vende no [Mercado Livre](https://meli.la/2unTb7k), onde o cupom não vale e o preço é o do anúncio. Antes de fechar, compare o preço do anúncio com o site oficial, que é onde o cupom e o Pix entram."
         ]
       },
@@ -198109,8 +198099,7 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Soma com o Pix da loja, e o teste e as regras estão no capítulo do cupom.",
           "A Skelt é boa? Pelo rótulo, é uma marca de autobronzeador, body splash e hidratação corporal que publica o que cada produto é: intensidade, duração e nível dos autobronzeadores, a cor-guia quando ela existe, as notas nos body splash; qual serve para você está no capítulo de cada linha.",
           "Qual o melhor autobronzeador da Skelt? Não há um para todos: quem nunca usou começa pelo Mousse, com cor-guia e nível iniciante; quem já sabe aplicar e quer mais cor vai às versões Dark; quem não quer cor-guia, à Água ou ao Gel, como mostra a tabela dos autobronzeadores.",
-          "Os perfumes e os body splash da Skelt são bons? A marca publica as notas de cada fragrância e o frasco de 100 mL, e o Solar Muse é o mais vendido do site; cheiro é gosto, e o capítulo dos body splash agrupa as dez por perfil.",
-          "Qual body splash da Skelt é o melhor? Não há um para todos, porque cheiro é gosto: a marca descreve as dez como de alta fixação, sem tempo em horas, e os kits de miniaturas servem para provar antes."
+          "Os perfumes e os body splash da Skelt são bons, e qual é o melhor? A marca publica as notas de cada fragrância e o frasco de 100 mL, e o Solar Muse é o mais vendido do site. Não há um melhor para todos, porque cheiro é gosto: a marca descreve as dez como de alta fixação, sem tempo em horas, e os kits de miniaturas servem para provar antes. O capítulo dos body splash agrupa as dez por perfil."
         ]
       }
     ],
@@ -206907,7 +206896,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O desconto progressivo e o cupom",
         "paragraphs": [
-          "O site dá desconto pelo número de produtos no carrinho, e o cupom de 10% entra por cima. Ele também soma com os 5% do Pix."
+          "Na promoção, o site dava desconto pelo número de produtos no carrinho, e o cupom de 10% entrava por cima, somando com os 5% do Pix."
         ],
         "comparisonTable": {
           "caption": "Desconto progressivo informado pela Skelt para a promoção.",
@@ -206968,7 +206957,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Se a loja somar os descontos em vez de aplicar um sobre o outro, o total fica um pouco menor. Conta nossa, nesse pior caso e pagando no Pix: com 3 produtos ou mais, o carrinho cheio precisa passar de cerca de R$ 307 para a primeira faixa e de R$ 384 para a segunda.",
+          "Se a loja somar os descontos em vez de aplicar um sobre o outro, o total fica um pouco menor. Conta nossa, nesse pior caso e pagando no Pix: com 3 produtos ou mais, o carrinho cheio precisava passar de cerca de R$ 306 para a primeira faixa e de R$ 383 para a segunda.",
           "Em qualquer brinde por faixa da loja, confira o valor final no resumo do pedido antes de pagar. O passo a passo do cupom está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
         ]
       },
@@ -206995,7 +206984,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Os brindes de 48 horas saíam só com ele e já acabaram.",
-          "O brinde valia sem o cupom? Não: segundo a Skelt, os dois brindes só saíam com o cupom de creator, e o nosso é o SKEMCASACOMCECILIA.",
+          "O brinde valia sem o cupom? Não: segundo a Skelt, os dois brindes só saíam com o cupom de parceiro, e o nosso é o SKEMCASACOMCECILIA.",
           "Os dois brindes acumulavam? Sim: o pedido acima da segunda faixa levava o creme para mãos e o Body Cream.",
           "A promoção ainda vale? Não: foram 48 horas, e a promoção já terminou.",
           "O cupom somava com o desconto progressivo? Sim: os 10% do cupom entravam junto com os 10%, 15% ou 20% do progressivo.",
@@ -235179,7 +235168,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit em promoção: onde entram o código e o Pix",
         "paragraphs": [
-          "O SKEMCASACOMCECILIA entra sobre o preço que já está em promoção. No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o kit de três body splashes ficou assim:"
+          "O SKEMCASACOMCECILIA entra sobre o preço que já está em promoção. No teste do cupom de 11/11/2026, o kit de três body splashes ficou assim:"
         ],
         "comparisonTable": {
           "caption": "Kit Fragrâncias: promoção e código no teste do carrinho, antes do Pix e do frete.",
@@ -235258,7 +235247,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Serve na primeira compra e nas seguintes.",
           "Qual cupom Skelt vale para quem já é cliente? O mesmo SKEMCASACOMCECILIA, com os mesmos 10%.",
-          "O cupom Skelt soma com o Pix? Sim, e com as promoções do site. O desconto do Pix entra depois do código; a ordem está no capítulo da conta.",
+          "O cupom Skelt soma com o Pix? Sim, e com as promoções do site. O desconto do Pix entra depois do código; a ordem está no capítulo do kit em promoção.",
           "O cupom Skelt vale no Mercado Livre? Não. Ele vale no site oficial, pela sacola."
         ]
       }
@@ -238566,7 +238555,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da Prohall já está no site, com ofertas “até 80% off” e sem data de fim publicada. O cupom CECILIAMC soma com o preço da campanha: dá até 10% OFF, em todas as formas de pagamento, e, nos nossos testes, tirou 7% de produtos já em promoção."
+          "A Black Friday da Prohall já está no site, com ofertas “até 80% OFF” e sem data de fim publicada. O cupom CECILIAMC soma com o preço da campanha: dá até 10% OFF, em todas as formas de pagamento, e, nos nossos testes, tirou 7% de produtos já em promoção."
         ]
       },
       {
@@ -238589,7 +238578,7 @@ export const reviewsData: unknown[] = [
           "Seis produtos da coleção, com o preço da campanha, o preço “de” que a loja mostra e o total que o checkout deu com o código:"
         ],
         "comparisonTable": {
-          "caption": "Preços lidos no site da Prohall em 22 de novembro de 2026, com a campanha no ar. A última coluna é o total do checkout com o CECILIAMC, sem frete e sem finalizar a compra.",
+          "caption": "Preços lidos no site da Prohall em 22 de novembro de 2026, com a campanha no ar. A última coluna é o total que o checkout deu com o CECILIAMC no nosso teste, sem frete e sem finalizar a compra.",
           "headers": [
             "Produto",
             "Preço “de”",
@@ -238695,7 +238684,7 @@ export const reviewsData: unknown[] = [
           "Na troca, a postagem fica por conta do cliente."
         ],
         "postParagraphs": [
-          "Confira o pacote na entrega e guarde o número do pedido. A política geral vale também para a compra da campanha."
+          "Confira o pacote na entrega e guarde o número do pedido."
         ]
       },
       {
@@ -239044,9 +239033,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que mais gera reclamação",
         "paragraphs": [
-          "Atraso na entrega. Na aba Geral, o Reclame Aqui aponta o atraso como o problema mais citado (21,47%), com Cabelos como a categoria principal (20,04%) e Produto Cabeleireiro em seguida (13,3%). São classificações das reclamações publicadas, não percentuais de todos os pedidos.",
-          "Os números absolutos também não viram taxa: 126 reclamações em seis meses não dizem quanto isso pesa no total de pedidos, que a Prohall não informa. E 68 avaliadas é uma base moderada, então os índices de solução do semestre variam mais.",
-          "Parte do catálogo da Prohall é de uso profissional. O rótulo e a página de cada produto trazem o modo de uso e as precauções do fabricante."
+          "Atraso na entrega. Na aba Geral, o Reclame Aqui aponta o atraso como o problema mais citado (21,47%). Cabelos é a categoria mais citada (20,04%), e Cabeleireiro, o tipo de produto mais citado (13,3%). São classificações das reclamações publicadas, não percentuais de todos os pedidos.",
+          "Os números absolutos também não viram taxa: 126 reclamações em seis meses não dizem quanto isso pesa no total de pedidos, que a Prohall não informa. E 68 avaliadas é uma base moderada, então os índices de solução do semestre variam mais."
         ],
         "images": [
           {
@@ -239072,7 +239060,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Vale a pena comprar na Prohall?",
-        "emphasis": "Pelos números do perfil, eu compraria na Prohall sem receio quanto ao atendimento, mas conferindo o CEP e o prazo antes de pagar, porque o atraso é o motivo mais citado.",
+        "emphasis": "Pelos números do perfil, eu compraria na Prohall sabendo que ela responde todas as reclamações, mas conferindo o CEP e o prazo antes de pagar, porque o atraso é o motivo mais citado.",
         "paragraphs": [
           "A Prohall responde todas as reclamações, em menos de dois dias, e resolveu 84,2% das avaliadas em doze meses. O risco mais citado é o prazo, e a regra que mais pesa é a do lacre: produto aberto não entra em troca. No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo."
         ],
@@ -239160,7 +239148,8 @@ export const reviewsData: unknown[] = [
         "heading": "Quem é a Prohall",
         "paragraphs": [
           "A Prohall Professional é brasileira. A empresa por trás da loja é a M.D. Boso Comércio de Cosméticos LTDA, CNPJ 24.815.160/0001-57, com endereço em Lençóis Paulista (SP), onde a marca foi fundada em 2017.",
-          "O catálogo é de produtos para cabelo: shampoos, condicionadores, máscaras, finalizadores, kits de cronograma e produtos de uso profissional, como o Select One e o Burix One. A marca diz estar presente em mais de 30 países."
+          "O catálogo é de produtos para cabelo: shampoos, condicionadores, máscaras, finalizadores, kits de cronograma e produtos de uso profissional, como o Select One e o Burix One. A marca diz estar presente em mais de 30 países.",
+          "Parte do catálogo é de uso profissional. A política da loja diz que esses produtos devem ser usados conforme as instruções do fabricante e que ela não se responsabiliza por danos decorrentes de uso inadequado."
         ],
         "images": [
           {
@@ -239212,14 +239201,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Pagamento",
+        "heading": "Pagamento e atendimento",
         "paragraphs": [
-          "No cartão, a loja parcela em até 10 vezes sem juros, com parcela mínima de R$ 20. O boleto é só à vista. O Pix também é aceito; no checkout que abrimos, o total com ele foi o mesmo do cartão, sem desconto a mais."
-        ]
-      },
-      {
-        "heading": "Atendimento",
-        "paragraphs": [
+          "No cartão, a loja parcela em até 10 vezes sem juros, com parcela mínima de R$ 20. O boleto é só à vista. O Pix também é aceito; no checkout que abrimos, o total com ele foi o mesmo do cartão, sem desconto a mais.",
           "A loja publica quatro canais: WhatsApp (14) 99905-2648, telefone (14) 3436-1028, e-mail contato@prohall.com.br e a central de ajuda, em central.prohall.com.br. O horário é de segunda a sexta, das 9h às 12h e das 14h às 17h."
         ]
       },
@@ -239230,17 +239214,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Uso profissional",
-        "paragraphs": [
-          "Parte do catálogo é de uso profissional. A política da loja diz que esses produtos devem ser usados conforme as instruções do fabricante e que ela não se responsabiliza por danos decorrentes de uso inadequado."
-        ]
-      },
-      {
         "heading": "Vale comprar na Prohall?",
         "paragraphs": [
           "Os dados públicos mostram uma empresa identificável: razão social, CNPJ, endereço, canais de atendimento e um perfil no Reclame Aqui em que todas as reclamações têm resposta.",
           "O ponto de atenção é a troca. Quem abre o produto não troca, e quem troca devolve o pedido inteiro e paga a postagem. Para quem vai experimentar um produto pela primeira vez, esse é o risco da compra.",
-          "Se decidir comprar, o CECILIAMC dá até 10% OFF no site e no app, em todas as formas de pagamento. No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo. As condições estão na página do [cupom Prohall](/cupons/prohall)."
+          "Se decidir comprar, o CECILIAMC dá até 10% OFF no site e no app, em todas as formas de pagamento. No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. As condições estão na página do [cupom Prohall](/cupons/prohall)."
         ],
         "emphasis": "Para quem vai usar um produto da Prohall pela primeira vez, eu começaria pelo tamanho menor, porque produto aberto não troca e o pedido volta por inteiro.",
         "links": [
@@ -239303,7 +239281,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você quer testar e devolver se não gostar: produto aberto não entra em troca.",
-        "Você pretende aplicar um antifrizz térmico sem ler o modo de uso do fabricante."
+        "Você quer um antifrizz térmico e não tem cabeleireiro para aplicar: Select One e Burix One são de uso profissional."
       ]
     },
     "cta": {
@@ -239399,7 +239377,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "São os produtos mais buscados da marca e os que mais pedem atenção ao modo de uso. Select One e Burix One são descritos pela Prohall como tratamentos antifrizz ativados por calor; o Btx Blend Repair, como selagem que age por 40 a 60 minutos e é enxaguada.",
           "Os rótulos trazem a indicação de uso profissional. A política da loja diz que produtos de uso profissional devem ser usados conforme as instruções do fabricante, e o FAQ dela recomenda o teste de mecha antes de aplicar sobre outra química.",
-          "Este guia não diz quanto alisa nem quanto dura: descreve o que a Prohall declara. Para dúvida de composição ou de saúde, valem o rótulo e um profissional. A diferença entre as duas, com o preço por ml, está em [Select One ou Burix One](/reviews/select-one-ou-burix-one)."
+          "Para dúvida de composição ou de saúde, valem o rótulo e um profissional. A diferença entre o Select One e o Burix One, com o preço por ml, está em [Select One ou Burix One](/reviews/select-one-ou-burix-one)."
         ],
         "images": [
           {
@@ -239422,7 +239400,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que os clientes dizem da Prohall?",
         "paragraphs": [
           "Na loja, o Select One de 300 ml aparece com nota 4,9 e 1.104 avaliações, e o finalizador 12 em 1 da Absolut One, com 4,9 e 635. São avaliações publicadas pela própria Prohall, no site dela.",
-          "No Reclame Aqui, o perfil da marca tem reputação Boa e nota 7,2 em seis meses, e Ótima, com 8,1, em doze, com todas as reclamações respondidas. As queixas mais comuns são de atraso na entrega e de produto que não deu o resultado esperado."
+          "No Reclame Aqui, o perfil da marca tem reputação Boa e nota 7,2 em seis meses, e Ótima, com 8,1, em doze, com todas as reclamações respondidas. A queixa mais citada é o atraso na entrega."
         ]
       },
       {
@@ -270679,14 +270657,14 @@ export const reviewsData: unknown[] = [
           "caption": "Preços lidos nos sites oficiais. Valores dos frascos, antes de frete e luva aplicadora, sem o desconto adicional do Pix."
         },
         "postParagraphs": [
-          "Na leitura da tabela, a vantagem vinha da promoção: mesmo sem o código, os dois frascos da Skelt custam menos que a Episol Gold. Se a Água voltar a R$ 119,90 e a Dark a R$ 129,90, a conta com 10% dá R$ 107,91 e R$ 116,91; com a Episol em R$ 99,90, ela passa a custar menos. Promoção muda: confira o preço do dia no carrinho.",
+          "Na leitura da tabela, a vantagem vinha da promoção: mesmo sem o código, os dois frascos da Skelt custavam menos que a Episol Gold. Se a Água voltar a R$ 119,90 e a Dark a R$ 129,90, a conta com 10% dá R$ 107,91 e R$ 116,91; com a Episol em R$ 99,90, ela passa a custar menos. Promoção muda: confira o preço do dia no carrinho.",
           "Se você ainda não tem a luva da Skelt, some o acessório e o frete antes de escolher. A luva custa R$ 34,90 e estava por R$ 27,92 na promoção. Com ela, a Água sai por R$ 123,84, acima da Episol Gold, e a Dark por R$ 92,87, ainda abaixo."
         ]
       },
       {
         "heading": "Nunca usou autobronzeador?",
         "paragraphs": [
-          "As duas águas da Skelt são incolores e indicadas pela marca a quem já tem prática. Sem cor-guia, você não vê no momento da aplicação quais áreas já receberam produto. A informação sobre cor-guia não está confirmada para a Episol Gold; não conte com esse recurso ao escolhê-la.",
+          "As duas águas da Skelt são incolores e indicadas pela marca a quem já tem prática. Sem cor-guia, você não vê no momento da aplicação quais áreas já receberam produto. A página da Episol Gold não fala em cor-guia.",
           "Se você quer enxergar onde aplicou, compare com o [Mousse Autobronzeador da Skelt](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), que tem cor-guia. O guia de [qual autobronzeador Skelt escolher](/reviews/autobronzeador-skelt-qual-escolher) mostra as opções da marca. A comparação com outra marca de autobronzeador está em [Skelt ou Best Bronze](/reviews/skelt-ou-best-bronze)."
         ]
       },
@@ -270727,7 +270705,7 @@ export const reviewsData: unknown[] = [
         "Leve a Episol Gold se prefere aplicar com as mãos, sem comprar luva. Se os preços da Skelt voltarem aos de tabela, refaça a comparação: a Episol pode custar menos."
       ],
       "skipIf": [
-        "Passe a água incolor se você quer ver onde já aplicou: o mousse da Skelt tem cor-guia. Na Episol Gold, esse recurso precisa ser confirmado antes da compra."
+        "Passe a água incolor se você quer ver onde já aplicou: o mousse da Skelt tem cor-guia. A página da Episol Gold não fala em cor-guia."
       ]
     },
     "pros": [],
@@ -270848,11 +270826,11 @@ export const reviewsData: unknown[] = [
             [
               "[Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "O blog orienta pelo menos 8 horas antes do próximo banho; confira a embalagem",
-              "A descrição dispensa a remoção, e o modo de uso da mesma página manda tirar no banho; isso não antecipa o banho"
+              "A descrição dispensa a remoção; o modo de uso manda tirar no banho"
             ],
             [
               "[Água Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
-              "Siga a embalagem; não foi confirmado um tempo específico na ficha",
+              "Siga a embalagem; a ficha não informa o tempo",
               "Enxágue conforme a embalagem"
             ],
             [
@@ -270869,7 +270847,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Mousse, no Mousse Dark, nas duas Águas e no Gel, o modo de uso pede 24 horas depois do banho para a cor se desenvolver por completo. Esse período é diferente do intervalo em que o produto fica na pele antes do banho.",
-          "Para a Água, o blog também orienta evitar suor excessivo nas quatro horas seguintes à aplicação. A frase de que não é preciso remover a Água comum não autoriza encurtar o intervalo antes de molhar a pele."
+          "Para a Água, o blog também orienta evitar suor excessivo nas quatro horas seguintes à aplicação."
         ],
         "image": {
           "src": "/images/reviews/skelt/autobronzeador-mousse.webp",
@@ -270915,7 +270893,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sol: a Skelt orienta não se expor enquanto o produto age. O autobronzeador não substitui o protetor solar; mantenha os cuidados de proteção mesmo depois do enxágue.",
           "Rosto: este guia trata dos autobronzeadores corporais. A Skelt tem uma versão facial própria; não use o passo a passo do corpo como instrução para o rosto.",
-          "Mãos: a prevenção indicada pela marca é aplicar com a luva. Nas páginas que lemos, a Skelt não ensina a tirar a cor da mão; o produto que ela vende para tirar o bronzeado é o removedor, explicado no guia do removedor Skelt.",
+          "Mãos: a prevenção indicada pela marca é aplicar com a luva. A Skelt não ensina a tirar a cor da mão; o produto que ela vende para tirar o bronzeado é o removedor, explicado no guia do removedor Skelt.",
           "Idade: a FAQ da marca indica uso a partir dos 16 anos. Confira também as recomendações do rótulo da versão escolhida."
         ]
       },
@@ -270982,7 +270960,7 @@ export const reviewsData: unknown[] = [
         "Leve a Água ou o Gel se você já tem prática e prefere um produto incolor."
       ],
       "skipIf": [
-        "Passe o Mousse com cor-guia se você não vai dormir de roupa larga: a cor pode passar para o lençol.",
+        "Passe o Mousse com cor-guia se não quer risco de cor na roupa ou no lençol enquanto ele seca.",
         "Passe o frasco avulso se ainda não tem a luva: ela vem só nos kits."
       ]
     }
@@ -294809,7 +294787,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Prohall indica a Equalize Mask após os dois procedimentos. Para a Select One, estima duração de 3 a 5 meses conforme os cuidados posteriores. A página consultada da Burix One não especifica duração."
+          "A Prohall indica a Equalize Mask após os dois procedimentos. Para a Select One, a loja informa duração de 3 a 5 meses, conforme os cuidados posteriores. A página consultada da Burix One não especifica duração."
         ],
         "images": [
           {
@@ -294873,7 +294851,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que sai no carrinho com o CECILIAMC?",
         "paragraphs": [
-          "O CECILIAMC é o código da Cecília na Prohall: até 10% OFF, em todas as formas de pagamento, digitado em “Código de desconto” no checkout. As condições do [cupom Prohall](/cupons/prohall) estão na página da loja no nosso site, e o passo a passo de onde digitar, em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar).",
+          "O CECILIAMC é o código da Cecília na Prohall: até 10% OFF, em todas as formas de pagamento. As condições do [cupom Prohall](/cupons/prohall) estão na página da loja no nosso site, e o passo a passo de onde digitar, em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar).",
           "No teste, um frasco de 300 ml de cada linha somou R$ 179,80. O CECILIAMC tirou R$ 12,58 (7%) e deixou o pedido em R$ 167,22 antes do frete. Dividindo o desconto proporcionalmente, são R$ 74,31 pela Select One e R$ 92,91 pela Burix One."
         ]
       },
@@ -294893,7 +294871,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem leva qual?",
         "paragraphs": [
-          "Se o cabeleireiro já trabalha com uma das duas, pergunte qual cabe no seu caso antes de comprar. No mesmo tamanho de 300 ml, a Select One custa R$ 20 a menos. Para outras linhas, veja [Prohall é boa?](/reviews/prohall-e-boa).",
+          "Se o cabeleireiro já trabalha com uma das duas, pergunte qual cabe no seu caso antes de comprar. Para outras linhas, veja [Prohall é boa?](/reviews/prohall-e-boa).",
           "No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo."
         ],
         "emphasis": "Se o seu cabeleireiro já trabalha com uma das duas, eu seguiria a escolha dele; sem preferência, eu levaria a Select One de 300 ml, que sai R$ 20 mais barata que a Burix One no mesmo tamanho.",
@@ -294953,7 +294931,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você vai ser atendida por um cabeleireiro e quer saber o que perguntar antes da aplicação.",
-        "Você fez química recentemente e quer entender o intervalo que a loja pede."
+        "Você fez química recentemente e quer saber o que contar ao cabeleireiro."
       ],
       "skipIf": [
         "Você pensa em aplicar em casa: a loja diz que a Select One não serve para isso.",
@@ -294991,14 +294969,14 @@ export const reviewsData: unknown[] = [
         "heading": "Antes de marcar, conte o histórico do seu cabelo",
         "paragraphs": [
           "A Prohall orienta aplicação por cabeleireiro habilitado. Na primeira conversa, conte o que já usou no cabelo e pergunte como o profissional vai testar a reação do fio antes do procedimento.",
-          "Por isso este guia não ensina a aplicar. Ele mostra o que o fabricante descreve, para você entender o que acontece na cadeira e saber o que perguntar. Quem vai aplicar, e como, é decisão do profissional.",
           "Tudo aqui é o que a Prohall publica na página da [Select One](https://lojaprohall.com.br/products/select-one-um-so-passo-300ml)."
         ]
       },
       {
         "heading": "O que acontece durante a sessão",
         "paragraphs": [
-          "Pelas orientações da Prohall, o cabeleireiro faz os testes antes de aplicar. A sessão inclui lavagem, aplicação da Select One, enxágue, escova e prancha. No final, a marca orienta usar a Equalize Mask."
+          "Pelas orientações da Prohall, o cabeleireiro faz os testes antes de aplicar. A sessão inclui lavagem, aplicação da Select One, enxágue, escova e prancha. No final, a marca orienta usar a Equalize Mask.",
+          "A Prohall descreve limites diferentes para fios resistentes e para fios descoloridos, platinados ou sensibilizados. Pergunte ao cabeleireiro como o teste de mecha muda a decisão para o seu cabelo."
         ],
         "images": [
           {
@@ -295012,16 +294990,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Por que a etapa térmica depende do fio",
-        "paragraphs": [
-          "A Prohall descreve limites diferentes para fios resistentes e para fios descoloridos, platinados ou sensibilizados. Pergunte ao cabeleireiro como o teste de mecha muda a decisão para o seu cabelo."
-        ]
-      },
-      {
         "heading": "Química antes: colorido, descolorido e alisado",
         "paragraphs": [
-          "Se você coloriu, descoloriu ou alisou recentemente, diga ao cabeleireiro qual produto usou e quando. A Prohall orienta que o profissional avalie a compatibilidade e faça o teste de mecha antes de aplicar.",
-          "Se você mexeu no cabelo há pouco tempo, diga isso ao cabeleireiro antes de marcar. É o dado que muda a conversa, e ele é quem decide se espera."
+          "Se você coloriu, descoloriu ou alisou recentemente, diga ao cabeleireiro qual produto usou e quando. A Prohall orienta que o profissional avalie a compatibilidade e faça o teste de mecha antes de aplicar. É ele quem decide se é preciso esperar."
         ]
       },
       {
@@ -295035,13 +295006,13 @@ export const reviewsData: unknown[] = [
         "heading": "Gestante e lactante",
         "paragraphs": [
           "Durante a gestação ou amamentação, a página orienta conversar com o médico antes de marcar. A avaliação médica vem antes do teste de mecha.",
-          "Sem a liberação do médico, não há o que combinar com o cabeleireiro. A página não afirma que o produto é seguro nesse período: ela manda perguntar a quem acompanha você."
+          "A página não afirma que o produto é seguro nesse período: ela manda perguntar a quem acompanha você."
         ]
       },
       {
         "heading": "A duração que a Prohall informa",
         "paragraphs": [
-          "A Prohall anuncia duração de 3 a 5 meses, dependendo dos cuidados depois da química. Pergunte ao cabeleireiro quais cuidados ele recomenda e quanto produto o seu cabelo costuma pedir.",
+          "A Prohall anuncia duração de 3 a 5 meses, dependendo dos cuidados depois da química. Pergunte ao cabeleireiro quais cuidados ele recomenda.",
           "O quanto cada frasco rende depende de quem aplica. Pergunte ao cabeleireiro quanto produto o seu cabelo costuma pedir."
         ]
       },
@@ -295127,7 +295098,7 @@ export const reviewsData: unknown[] = [
         "Você quer seguir o passo a passo que a própria loja publica, com shampoo, máscara e ampola."
       ],
       "skipIf": [
-        "Passe se o seu cabelo não é seco nem danificado: a loja indica a máscara para esse tipo de fio.",
+        "Você quer só experimentar: o pote de 500 g só compensa para quem usa toda semana.",
         "Você precisa da composição completa: as páginas não trazem a lista inteira de ingredientes."
       ]
     },
@@ -295162,7 +295133,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quanto custam os potes e o sachê Biomask",
+        "heading": "O que é a Biomask e quanto custa cada tamanho",
         "paragraphs": [
           "A loja vende a máscara como hidratação para cabelo seco e danificado e a indica para todos os tipos de cabelo, com química ou em transição. Os ativos que ela lista são proteína de trigo e manteiga de karité, sem quantidade.",
           "Em volta da máscara, a linha tem shampoo e condicionador de 300 ml, com óleo de coco e ácido lático como ativos listados, e a ampola de 15 ml. A máscara vem em pote de 300 g e de 500 g e em sachê de 50 g. Existe ainda uma mini máscara de 50 g, fora da tabela."
@@ -295272,13 +295243,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O pote de 500 g é o mais barato por grama, e o sachê, o mais caro: entre os dois, a diferença é de R$ 0,09 por grama.",
           "O sachê serve a quem quer só conhecer o produto ou levar na mala. Pela página, ele é usado do comprimento às pontas, evitando a raiz, de 5 a 10 minutos. Já o pote de 500 g só compensa se você for usar a máscara de 1 a 2 vezes por semana, como a loja indica, até o fim.",
-          "No shampoo, a loja diz que o frasco de 300 ml rende cerca de 2 meses de uso diário. É a estimativa dela, que não conferimos."
+          "No shampoo, a loja diz que o frasco de 300 ml rende cerca de 2 meses de uso diário. É a estimativa da loja."
         ]
       },
       {
         "heading": "O que a loja não publica sobre a Biomask",
         "paragraphs": [
-          "As páginas dos produtos não trazem a lista completa de ingredientes (a composição que vem no rótulo), a quantidade de cada ativo nem estudo sobre a linha. Por isso este guia fica no modo de uso e no preço.",
+          "As páginas dos produtos não trazem a lista completa de ingredientes (a composição que vem no rótulo), a quantidade de cada ativo nem estudo sobre a linha.",
           "Quem tem alergia ou sensibilidade deve ler o rótulo do pote antes de usar. Para dúvida de saúde do couro cabeludo ou do fio, vale a orientação de um profissional. Quem procura a linha com tônico de couro cabeludo encontra a descrição no guia da [Force Hair](/reviews/force-hair-prohall-para-que-serve)."
         ]
       },
@@ -295345,12 +295316,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer ver o que vem em cada item da linha e quanto custa por ml antes de abrir a loja.",
+        "Você quer ver o que vem em cada item da linha e quanto custa cada um antes de abrir a loja.",
         "Você já decidiu usar um tônico de couro cabeludo e quer saber como a página manda aplicar."
       ],
       "skipIf": [
-        "Passe se você não quer uma etapa diária no couro cabeludo: o tônico é leave-in e pede uso todos os dias.",
-        "Passe se prefere shampoo e máscara de rotina mais simples: o kit traz três produtos de funções diferentes."
+        "Você não quer uma etapa diária no couro cabeludo: o tônico é leave-in e pede uso todos os dias.",
+        "Você prefere shampoo e máscara de rotina mais simples: o kit traz três produtos de funções diferentes."
       ]
     },
     "cta": {
@@ -295525,8 +295496,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale no tônico, no shampoo, na máscara e no kit Force Hair.",
-          "Force Hair Prohall é bom? O que dá para conferir nas fichas é a diferença de uso: o tônico fica no couro cabeludo, e o shampoo e a máscara são enxaguados.",
-          "Force Hair funciona? A página não traz estudo sobre a linha nem promete resultado. Se você tem uma queixa no couro cabeludo, converse com um dermatologista antes de escolher o produto.",
+          "Force Hair Prohall é bom? A página não traz estudo nem promete resultado; o que ela descreve é o uso: o tônico fica no couro cabeludo, e o shampoo e a máscara são enxaguados.",
           "Como usar o tônico Force Hair? Segundo a página, no couro cabeludo limpo e seco ou levemente úmido, com massagem, sem enxaguar e todos os dias. Em caso de irritação, a página manda suspender o uso.",
           "Qual a composição da Force Hair? Nos anúncios do tônico e do shampoo, a Prohall lista óleo de patauá, óleo de rícino, biotina e Blend BeauPlex. Confira a composição completa no rótulo de cada item.",
           "Quanto custa a Force Hair da Prohall? Na consulta, o tônico era o item avulso de menor preço. O kit tinha shampoo, máscara e tônico. A tabela mostra os preços e indica a estimativa com o cupom."
@@ -295674,7 +295644,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a Skelt diz do protetor",
         "paragraphs": [
           "A Skelt descreve o acabamento como seco e declara resistência à água. A página consultada não informa a duração dessa resistência. O modo de uso da marca pede reaplicação após nadar, suar ou se secar com toalha.",
-          "Serve a quem quer o protetor da marca, com a fragrância Summer Vibes, e aceita o que a página diz. Quem precisa saber por quanto tempo ele resiste à água não encontra esse dado na página."
+          "Serve a quem quer o protetor da marca, com a fragrância Summer Vibes, e aceita o que a página diz."
         ]
       },
       {
@@ -295773,7 +295743,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos pares da tabela, a Panvel Glow custa menos por 100 ml. O mousse da Skelt tem cor-guia, que mostra onde você já passou. Na Skelt, o cupom SKEMCASACOMCECILIA tirou 5% nos dois mousses testados. As águas ficaram sem teste de cupom."
+          "Nos pares da tabela, a Panvel Glow custa menos por 100 ml. O mousse da Skelt tem cor-guia, que mostra onde você já passou. Na Skelt, o cupom SKEMCASACOMCECILIA tirou 5% nos dois mousses testados."
         ]
       },
       {
@@ -295860,7 +295830,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O SKEMCASACOMCECILIA segue anunciado como 10% na página de cupons. Nos carrinhos dos dois mousses Skelt, o desconto foi de 5% na campanha. Os valores acima usam esse teste.",
-          "O Mousse Panvel Glow ficou em R$ 29,99 por 100 ml. O Skelt tradicional ficou em R$ 65,09 com o cupom."
+          ""
         ]
       },
       {
@@ -295878,7 +295848,7 @@ export const reviewsData: unknown[] = [
               "[Skelt Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) 150 ml",
               "R$ 95,92",
               "R$ 63,95",
-              "Não testado"
+              "Sem teste nessa data"
             ],
             [
               "Panvel Glow Água Médio 150 ml",
@@ -295890,7 +295860,7 @@ export const reviewsData: unknown[] = [
               "[Skelt Água Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) 150 ml",
               "R$ 64,95",
               "R$ 43,30",
-              "Não testado"
+              "Sem teste nessa data"
             ],
             [
               "Panvel Glow Água Escuro 150 ml",
@@ -295922,7 +295892,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem nunca usou autobronzeador",
         "paragraphs": [
-          "A cor-guia mostra onde você já passou, e o mousse da Skelt tem. As águas da Skelt são incolores e a marca as indica a quem já tem prática. Na Panvel, a Água Escuro também é incolor; no mousse, veja na ficha se há cor-guia antes de contar com ela.",
+          "A cor-guia mostra onde você já passou, e o mousse da Skelt tem. As águas da Skelt são incolores e a marca as indica a quem já tem prática. Na Panvel, a Água Escuro também é incolor.",
           "Com produto que pode passar para o tecido enquanto seca, espere secar antes de vestir a roupa. Autobronzeador não substitui protetor solar."
         ]
       },
@@ -295941,7 +295911,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**O preço por 100 ml manda:** Panvel Glow, no mousse ou na água.",
           "**Quer uma água escura:** a Água Escuro da Panvel fica em R$ 38,66 por 100 ml. A Skelt Dark sai a R$ 43,30 antes do cupom, que ficou sem teste nesse produto.",
-          "**Quer enxergar onde passou:** o mousse da Skelt, que tem cor-guia. No mousse da Panvel, confira a ficha.",
+          "**Quer enxergar onde passou:** o mousse da Skelt, que tem cor-guia.",
           "**Luva, removedor e kits na mesma compra:** Skelt, que tem a linha toda no mesmo site."
         ],
         "emphasis": "Se o preço por 100 ml decide, eu levaria a Panvel Glow. Se é a sua primeira vez e você quer ver onde já passou, eu iria no mousse da Skelt, que tem cor-guia.",
@@ -295964,7 +295934,7 @@ export const reviewsData: unknown[] = [
           "Skelt ou Panvel Glow, qual escolher? Nos pares de mousse e água, a Panvel custa menos por 100 ml. Se você quer cor-guia confirmada na ficha, a Skelt descreve esse recurso no Mousse Autobronzeador.",
           "Qual dura mais, Skelt ou Panvel Glow? A Skelt declara de 7 a 12 dias e a Panvel Glow, até 7 dias no mousse comparado. As cifras vêm das respectivas fichas.",
           "A Panvel Glow é marca da Panvel? Sim, é a linha de autobronzeadores da própria farmácia, vendida no site dela.",
-          "Qual tem cor-guia? A Skelt tem no Mousse Autobronzeador, e as águas dela são incolores. Na Panvel, a Água Escuro é incolor, e no mousse vale conferir a ficha.",
+          "Qual tem cor-guia? A Skelt tem no Mousse Autobronzeador, e as águas dela são incolores. Na Panvel, a Água Escuro é incolor.",
           "O SKEMCASACOMCECILIA vale na Panvel? Não: o código é do site da Skelt e vale só lá."
         ]
       }
@@ -297239,8 +297209,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a bula brasileira diz sobre a queda de cabelo com Mounjaro, a rotina para os fios ressecados nessa fase e os produtos da Prohall para deixá-los mais fortes.",
-    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Queda de cabelo com Mounjaro: o que a bula diz e como deixar os fios mais fortes.",
+    "description": "O que a bula brasileira diz sobre a queda de cabelo com Mounjaro, a rotina para os fios ressecados nessa fase e os produtos da Prohall para o fio ressecado.",
+    "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Queda de cabelo com Mounjaro: o que a bula diz e como cuidar dos fios nessa fase.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
     "draft": false,
@@ -297284,7 +297254,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A bula brasileira do Mounjaro (tirzepatida) lista queda de cabelo entre as reações adversas. Quem decide o que fazer é o médico que acompanha o tratamento. Para os fios ressecados e frágeis, rotina suave e a linha certa ajudam; o CECILIAMC dá até 10% OFF na Prohall."
+          "A bula brasileira do Mounjaro (tirzepatida) lista queda de cabelo entre as reações adversas. Quem decide o que fazer é o médico que acompanha o tratamento. Para os fios ressecados e frágeis, o que está ao alcance é a rotina suave e uma linha de cuidado do fio; o CECILIAMC dá até 10% OFF na Prohall."
         ]
       },
       {
@@ -297489,7 +297459,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como cuidar de fios finos e fracos nessa fase?",
         "paragraphs": [
-          "Quando o cabelo parece mais fino e quebra com facilidade, o que está ao seu alcance é reduzir o desgaste do fio. Os cuidados abaixo protegem o fio que quebra; a queda em si é assunto do médico. O que a bula do Wegovy diz sobre durante e depois do uso está no artigo de queda de cabelo com Wegovy, nos relacionados."
+          "Quando o cabelo parece mais fino e quebra com facilidade, o que está ao seu alcance é reduzir o desgaste do fio. Os cuidados abaixo protegem o fio que quebra; a queda em si é assunto do médico. O que a bula do Wegovy diz sobre a queda durante e depois do uso está no artigo do Wegovy, nos relacionados."
         ],
         "bullets": [
           "Lave com água morna e massageie o couro cabeludo com as pontas dos dedos, sem esfregar o comprimento.",
@@ -297502,7 +297472,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual linha da Prohall serve para fios finos?",
         "paragraphs": [
-          "A Prohall reuniu esses três itens na coleção GLP-1 da loja. A tabela traz para que a loja indica cada um e o preço de venda. A ordem é a do seu caso: Encorpax e Selve Power primeiro, porque a loja os descreve para fios finos e afinados. Para a escolha entre as três linhas, veja [qual linha da Prohall para cabelo fino e fraco](/reviews/cabelo-fino-e-fraco-qual-linha-prohall)."
+          "A Prohall reuniu o Encorpax, o Selve Power e o Force Hair na coleção GLP-1 da loja. A tabela traz para que a loja indica cada um e o preço; os dois primeiros são os que ela descreve para fios finos e afinados. Para a escolha entre as três linhas, veja [qual linha da Prohall para cabelo fino e fraco](/reviews/cabelo-fino-e-fraco-qual-linha-prohall)."
         ],
         "comparisonTable": {
           "caption": "Preço de venda na Prohall em 20 de novembro de 2026 e o que a página de cada linha indica.",
@@ -297612,7 +297582,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a bula brasileira do Wegovy diz sobre queda de cabelo, o que fazer durante o tratamento e depois de parar e as linhas da Prohall para deixar os fios mais fortes.",
+    "description": "O que a bula brasileira do Wegovy diz sobre queda de cabelo, o que fazer durante o tratamento e depois de parar e as linhas da Prohall para o fio enfraquecido.",
     "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Queda de cabelo com Wegovy: o que a bula diz e como cuidar dos fios durante e depois do uso.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
@@ -297657,13 +297627,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A bula brasileira do Wegovy lista queda de cabelo entre as reações e diz que os casos foram principalmente leves. Quem decide o que fazer é o médico que acompanha o tratamento. Para os fios, a Prohall indica a Force Hair e a Selve Power; o que cada uma traz e o preço estão abaixo."
+          "A bula brasileira do Wegovy lista queda de cabelo entre as reações e diz que os casos foram principalmente leves. Quem decide o que fazer é o médico que acompanha o tratamento. Para os fios, a Prohall indica a Force Hair e a Selve Power, e o CECILIAMC dá até 10% OFF na loja."
         ]
       },
       {
         "heading": "O que a bula do Wegovy diz sobre o cabelo",
         "paragraphs": [
-          "A bula brasileira do Wegovy para profissionais de saúde lista queda de cabelo entre as reações. Segundo o texto, os casos foram principalmente leves, a maioria dos pacientes se recuperou durante a continuação do tratamento e a queda foi relatada com mais frequência em quem perdeu mais peso. Segundo a Sociedade Brasileira de Dermatologia, a queda que aparece 2 a 3 meses depois de gatilhos como dietas muito restritivas costuma passar sozinha em alguns meses. Converse com o médico que acompanha o tratamento, que também responde sobre os outros efeitos do Wegovy; se a queda for grande ou durar mais, procure um dermatologista."
+          "A bula brasileira do Wegovy para profissionais de saúde lista queda de cabelo entre as reações. Segundo o texto, os casos foram principalmente leves, a maioria dos pacientes se recuperou durante a continuação do tratamento e a queda foi relatada com mais frequência em quem perdeu mais peso. Segundo a Sociedade Brasileira de Dermatologia, a queda que aparece 2 a 3 meses depois de gatilhos como dietas muito restritivas costuma passar sozinha em alguns meses. Converse com o médico que acompanha o tratamento; se a queda for grande ou durar mais, procure um dermatologista."
         ]
       },
       {
@@ -297764,7 +297734,7 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale na Force Hair e na Selve Power.",
           "Wegovy faz o cabelo cair? A bula brasileira do Wegovy lista queda de cabelo entre as reações, com casos principalmente leves. Quem avalia o seu caso é o médico que acompanha o tratamento.",
           "A queda de cabelo do Wegovy volta ao normal? Segundo a bula, a maioria dos pacientes se recuperou durante a continuação do tratamento. Segundo a Sociedade Brasileira de Dermatologia, a queda que aparece depois de gatilhos como dietas muito restritivas costuma passar sozinha em alguns meses. Se não passar, procure um dermatologista.",
-          "Como evitar a queda de cabelo com Wegovy? Isso é com o médico que acompanha o tratamento. Para os fios, a rotina está na seção sobre o tratamento.",
+          "Como evitar a queda de cabelo com Wegovy? Isso é com o médico que acompanha o tratamento. Para os fios, vale lavar com suavidade, usar menos calor e espaçar as químicas.",
           "A queda continua depois de parar o Wegovy? Se a queda continuar depois de parar, ou durar mais que alguns meses, procure um dermatologista, que investiga a causa."
         ]
       }
@@ -297797,7 +297767,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quantos fios é normal perder por dia, quando a queda de cabelo pede o dermatologista e a rotina e os produtos da Prohall para deixar os fios mais fortes.",
+    "description": "Quantos fios é normal perder por dia, quando a queda de cabelo pede o dermatologista e a rotina e os produtos da Prohall para cuidar dos fios.",
     "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Queda de cabelo: quantos fios é normal perder, quando ir ao dermatologista e como fortalecer os fios.",
     "publishedAt": "21 de novembro de 2026",
     "publishedAtISO": "2026-11-21",
@@ -297842,7 +297812,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Perder cerca de 100 a 120 fios por dia é normal, segundo a Sociedade Brasileira de Dermatologia. Queda acentuada ou que dura meses pede o dermatologista, sem automedicação. Para os fios, uma rotina de cuidado e a linha certa ajudam a deixá-los mais fortes, e o CECILIAMC dá até 10% OFF na Prohall."
+          "Perder cerca de 100 a 120 fios por dia é normal, segundo a Sociedade Brasileira de Dermatologia. Queda acentuada ou que dura meses pede o dermatologista, sem automedicação. Para os fios, uma rotina de cuidado e a linha certa poupam o fio que quebra, e o CECILIAMC dá até 10% OFF na Prohall."
         ]
       },
       {
@@ -297863,7 +297833,8 @@ export const reviewsData: unknown[] = [
           "A queda segue por meses sem diminuir."
         ],
         "postParagraphs": [
-          "Em qualquer um desses casos, a SBD é direta: não se automedique para tratar a perda de cabelo. O que tomar, passar ou fazer é decisão de quem examina você."
+          "Em qualquer um desses casos, a SBD é direta: não se automedique para tratar a perda de cabelo. O que tomar, passar ou fazer é decisão de quem examina você.",
+          "Se a queda apareceu junto com o tratamento para emagrecer, o médico que acompanha você é quem orienta. A gente reuniu o cuidado com os fios em um artigo para cada marca, Mounjaro, Ozempic e Wegovy, nos relacionados no fim da página."
         ]
       },
       {
@@ -297878,12 +297849,6 @@ export const reviewsData: unknown[] = [
           "Pentear do comprimento para a raiz, com cuidado nos nós."
         ],
         "postParagraphs": []
-      },
-      {
-        "heading": "Quem usa as canetas emagrecedoras",
-        "paragraphs": [
-          "Se a queda apareceu junto com o tratamento para emagrecer, o médico que acompanha você é quem orienta. A gente reuniu o cuidado com os fios em um artigo para cada marca, Mounjaro, Ozempic e Wegovy, nos relacionados no fim da página."
-        ]
       },
       {
         "heading": "Qual linha da Prohall serve para fios fracos, finos ou quebradiços?",
@@ -297935,7 +297900,7 @@ export const reviewsData: unknown[] = [
           "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Para usar, no checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra o “Desconto no pedido”. Vale também no aplicativo.",
           "O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
         ],
-        "emphasis": "Para fio que quebra com o calor, eu começaria pelo spray Absolut One. Para uma rotina completa de fio fino, eu levaria o Selve Power, o mais simples das três linhas.",
+        "emphasis": "Para fio que quebra com o calor, eu começaria pelo spray Absolut One. Para a rotina diária de fio fino, eu levaria o Selve Power, a mais simples das três linhas.",
         "links": [
           {
             "label": "Ir para a Prohall com o CECILIAMC",
@@ -297951,7 +297916,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale nas linhas de cuidado do fio, não no tratamento da queda.",
+          "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale nas linhas de cuidado do fio da loja.",
           "Quantos fios de cabelo é normal cair por dia? Segundo a Sociedade Brasileira de Dermatologia, perder cerca de 100 a 120 fios por dia é normal.",
           "Queda de cabelo feminina: o que pode ser? A SBD cita o pós-parto, a febre, a cirurgia, as dietas muito restritivas, o estresse e fatores genéticos e hormonais. Para saber qual é o seu caso, só o dermatologista, e sem se automedicar.",
           "Queda de cabelo masculina é normal? Perder cerca de 100 a 120 fios por dia é normal, segundo a SBD. Se a queda aumentou ou há dúvida sobre a causa, o dermatologista avalia.",
@@ -297967,7 +297932,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe no Encorpax se você não quer uma rotina de quatro etapas.",
-        "Passe nos kits se só o calor é o problema: o spray de proteção térmica resolve sozinho."
+        "Passe nos kits se só o calor é o problema: o spray de proteção térmica basta."
       ]
     },
     "updatedAt": "2026-11-23"
@@ -298050,8 +298015,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As três linhas lado a lado",
         "paragraphs": [
-          "A Prohall tem três linhas para cabelo fino e fraco, cada uma para um tipo de fio e com um número diferente de passos. A tabela resume o que a página de cada kit diz.",
-          "Quem pergunta se cabelo fino aguenta progressiva ou botox encontra a conversa nos artigos da Select One e da Burix One. Aqui o assunto é só a rotina de lavar e cuidar."
+          "A Prohall tem três linhas para cabelo fino e fraco, cada uma para um tipo de fio e com um número diferente de passos. A tabela resume o que a página de cada kit diz."
         ],
         "comparisonTable": {
           "caption": "O que a página de cada kit descreve no site oficial.",
@@ -298121,7 +298085,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Force Hair e Overgrow: o tônico e o óleo para o couro cabeludo",
         "paragraphs": [
-          "O Force Hair é o kit com shampoo, máscara e tônico, indicado pela Prohall para fios enfraquecidos. O uso, os ativos e o preço de cada item estão no guia da Force Hair, nos artigos relacionados.",
+          "O Force Hair é o kit com shampoo, máscara e tônico, indicado pela Prohall para fios enfraquecidos. O uso e os ativos de cada item estão no guia da Force Hair, nos relacionados.",
           "O Overgrow vem em sérum, sem enxágue, e em óleo, que fica 10 minutos no couro cabeludo e é enxaguado. A página descreve óleo de rícino e óleo de jojoba e fala em nutrir o couro cabeludo."
         ]
       },

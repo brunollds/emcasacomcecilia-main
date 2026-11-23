@@ -14,7 +14,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Quantos fios é normal perder por dia, quando a queda de cabelo pede o dermatologista e a rotina e os produtos da Prohall para deixar os fios mais fortes.",
+  "description": "Quantos fios é normal perder por dia, quando a queda de cabelo pede o dermatologista e a rotina e os produtos da Prohall para cuidar dos fios.",
   "metaDescription": "CECILIAMC dá até 10% OFF na Prohall. Queda de cabelo: quantos fios é normal perder, quando ir ao dermatologista e como fortalecer os fios.",
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
@@ -59,7 +59,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Perder cerca de 100 a 120 fios por dia é normal, segundo a Sociedade Brasileira de Dermatologia. Queda acentuada ou que dura meses pede o dermatologista, sem automedicação. Para os fios, uma rotina de cuidado e a linha certa ajudam a deixá-los mais fortes, e o CECILIAMC dá até 10% OFF na Prohall."
+        "Perder cerca de 100 a 120 fios por dia é normal, segundo a Sociedade Brasileira de Dermatologia. Queda acentuada ou que dura meses pede o dermatologista, sem automedicação. Para os fios, uma rotina de cuidado e a linha certa poupam o fio que quebra, e o CECILIAMC dá até 10% OFF na Prohall."
       ]
     },
     {
@@ -80,7 +80,8 @@
         "A queda segue por meses sem diminuir."
       ],
       "postParagraphs": [
-        "Em qualquer um desses casos, a SBD é direta: não se automedique para tratar a perda de cabelo. O que tomar, passar ou fazer é decisão de quem examina você."
+        "Em qualquer um desses casos, a SBD é direta: não se automedique para tratar a perda de cabelo. O que tomar, passar ou fazer é decisão de quem examina você.",
+        "Se a queda apareceu junto com o tratamento para emagrecer, o médico que acompanha você é quem orienta. A gente reuniu o cuidado com os fios em um artigo para cada marca, Mounjaro, Ozempic e Wegovy, nos relacionados no fim da página."
       ]
     },
     {
@@ -95,12 +96,6 @@
         "Pentear do comprimento para a raiz, com cuidado nos nós."
       ],
       "postParagraphs": []
-    },
-    {
-      "heading": "Quem usa as canetas emagrecedoras",
-      "paragraphs": [
-        "Se a queda apareceu junto com o tratamento para emagrecer, o médico que acompanha você é quem orienta. A gente reuniu o cuidado com os fios em um artigo para cada marca, Mounjaro, Ozempic e Wegovy, nos relacionados no fim da página."
-      ]
     },
     {
       "heading": "Qual linha da Prohall serve para fios fracos, finos ou quebradiços?",
@@ -152,7 +147,7 @@
         "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Para usar, no checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra o “Desconto no pedido”. Vale também no aplicativo.",
         "O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
       ],
-      "emphasis": "Para fio que quebra com o calor, eu começaria pelo spray Absolut One. Para uma rotina completa de fio fino, eu levaria o Selve Power, o mais simples das três linhas.",
+      "emphasis": "Para fio que quebra com o calor, eu começaria pelo spray Absolut One. Para a rotina diária de fio fino, eu levaria o Selve Power, a mais simples das três linhas.",
       "links": [
         {
           "label": "Ir para a Prohall com o CECILIAMC",
@@ -168,7 +163,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale nas linhas de cuidado do fio, não no tratamento da queda.",
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale nas linhas de cuidado do fio da loja.",
         "Quantos fios de cabelo é normal cair por dia? Segundo a Sociedade Brasileira de Dermatologia, perder cerca de 100 a 120 fios por dia é normal.",
         "Queda de cabelo feminina: o que pode ser? A SBD cita o pós-parto, a febre, a cirurgia, as dietas muito restritivas, o estresse e fatores genéticos e hormonais. Para saber qual é o seu caso, só o dermatologista, e sem se automedicar.",
         "Queda de cabelo masculina é normal? Perder cerca de 100 a 120 fios por dia é normal, segundo a SBD. Se a queda aumentou ou há dúvida sobre a causa, o dermatologista avalia.",
@@ -184,7 +179,7 @@
     ],
     "skipIf": [
       "Passe no Encorpax se você não quer uma rotina de quatro etapas.",
-      "Passe nos kits se só o calor é o problema: o spray de proteção térmica resolve sozinho."
+      "Passe nos kits se só o calor é o problema: o spray de proteção térmica basta."
     ]
   },
   "updatedAt": "2026-11-23"

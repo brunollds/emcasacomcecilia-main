@@ -29,7 +29,7 @@
   "decision": {
     "takeIf": [
       "Você vai ser atendida por um cabeleireiro e quer saber o que perguntar antes da aplicação.",
-      "Você fez química recentemente e quer entender o intervalo que a loja pede."
+      "Você fez química recentemente e quer saber o que contar ao cabeleireiro."
     ],
     "skipIf": [
       "Você pensa em aplicar em casa: a loja diz que a Select One não serve para isso.",
@@ -67,14 +67,14 @@
       "heading": "Antes de marcar, conte o histórico do seu cabelo",
       "paragraphs": [
         "A Prohall orienta aplicação por cabeleireiro habilitado. Na primeira conversa, conte o que já usou no cabelo e pergunte como o profissional vai testar a reação do fio antes do procedimento.",
-        "Por isso este guia não ensina a aplicar. Ele mostra o que o fabricante descreve, para você entender o que acontece na cadeira e saber o que perguntar. Quem vai aplicar, e como, é decisão do profissional.",
         "Tudo aqui é o que a Prohall publica na página da [Select One](https://lojaprohall.com.br/products/select-one-um-so-passo-300ml)."
       ]
     },
     {
       "heading": "O que acontece durante a sessão",
       "paragraphs": [
-        "Pelas orientações da Prohall, o cabeleireiro faz os testes antes de aplicar. A sessão inclui lavagem, aplicação da Select One, enxágue, escova e prancha. No final, a marca orienta usar a Equalize Mask."
+        "Pelas orientações da Prohall, o cabeleireiro faz os testes antes de aplicar. A sessão inclui lavagem, aplicação da Select One, enxágue, escova e prancha. No final, a marca orienta usar a Equalize Mask.",
+        "A Prohall descreve limites diferentes para fios resistentes e para fios descoloridos, platinados ou sensibilizados. Pergunte ao cabeleireiro como o teste de mecha muda a decisão para o seu cabelo."
       ],
       "images": [
         {
@@ -88,16 +88,9 @@
       ]
     },
     {
-      "heading": "Por que a etapa térmica depende do fio",
-      "paragraphs": [
-        "A Prohall descreve limites diferentes para fios resistentes e para fios descoloridos, platinados ou sensibilizados. Pergunte ao cabeleireiro como o teste de mecha muda a decisão para o seu cabelo."
-      ]
-    },
-    {
       "heading": "Química antes: colorido, descolorido e alisado",
       "paragraphs": [
-        "Se você coloriu, descoloriu ou alisou recentemente, diga ao cabeleireiro qual produto usou e quando. A Prohall orienta que o profissional avalie a compatibilidade e faça o teste de mecha antes de aplicar.",
-        "Se você mexeu no cabelo há pouco tempo, diga isso ao cabeleireiro antes de marcar. É o dado que muda a conversa, e ele é quem decide se espera."
+        "Se você coloriu, descoloriu ou alisou recentemente, diga ao cabeleireiro qual produto usou e quando. A Prohall orienta que o profissional avalie a compatibilidade e faça o teste de mecha antes de aplicar. É ele quem decide se é preciso esperar."
       ]
     },
     {
@@ -111,13 +104,13 @@
       "heading": "Gestante e lactante",
       "paragraphs": [
         "Durante a gestação ou amamentação, a página orienta conversar com o médico antes de marcar. A avaliação médica vem antes do teste de mecha.",
-        "Sem a liberação do médico, não há o que combinar com o cabeleireiro. A página não afirma que o produto é seguro nesse período: ela manda perguntar a quem acompanha você."
+        "A página não afirma que o produto é seguro nesse período: ela manda perguntar a quem acompanha você."
       ]
     },
     {
       "heading": "A duração que a Prohall informa",
       "paragraphs": [
-        "A Prohall anuncia duração de 3 a 5 meses, dependendo dos cuidados depois da química. Pergunte ao cabeleireiro quais cuidados ele recomenda e quanto produto o seu cabelo costuma pedir.",
+        "A Prohall anuncia duração de 3 a 5 meses, dependendo dos cuidados depois da química. Pergunte ao cabeleireiro quais cuidados ele recomenda.",
         "O quanto cada frasco rende depende de quem aplica. Pergunte ao cabeleireiro quanto produto o seu cabelo costuma pedir."
       ]
     },

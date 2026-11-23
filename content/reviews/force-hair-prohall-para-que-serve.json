@@ -28,12 +28,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você quer ver o que vem em cada item da linha e quanto custa por ml antes de abrir a loja.",
+      "Você quer ver o que vem em cada item da linha e quanto custa cada um antes de abrir a loja.",
       "Você já decidiu usar um tônico de couro cabeludo e quer saber como a página manda aplicar."
     ],
     "skipIf": [
-      "Passe se você não quer uma etapa diária no couro cabeludo: o tônico é leave-in e pede uso todos os dias.",
-      "Passe se prefere shampoo e máscara de rotina mais simples: o kit traz três produtos de funções diferentes."
+      "Você não quer uma etapa diária no couro cabeludo: o tônico é leave-in e pede uso todos os dias.",
+      "Você prefere shampoo e máscara de rotina mais simples: o kit traz três produtos de funções diferentes."
     ]
   },
   "cta": {
@@ -208,8 +208,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale no tônico, no shampoo, na máscara e no kit Force Hair.",
-        "Force Hair Prohall é bom? O que dá para conferir nas fichas é a diferença de uso: o tônico fica no couro cabeludo, e o shampoo e a máscara são enxaguados.",
-        "Force Hair funciona? A página não traz estudo sobre a linha nem promete resultado. Se você tem uma queixa no couro cabeludo, converse com um dermatologista antes de escolher o produto.",
+        "Force Hair Prohall é bom? A página não traz estudo nem promete resultado; o que ela descreve é o uso: o tônico fica no couro cabeludo, e o shampoo e a máscara são enxaguados.",
         "Como usar o tônico Force Hair? Segundo a página, no couro cabeludo limpo e seco ou levemente úmido, com massagem, sem enxaguar e todos os dias. Em caso de irritação, a página manda suspender o uso.",
         "Qual a composição da Force Hair? Nos anúncios do tônico e do shampoo, a Prohall lista óleo de patauá, óleo de rícino, biotina e Blend BeauPlex. Confira a composição completa no rótulo de cada item.",
         "Quanto custa a Force Hair da Prohall? Na consulta, o tônico era o item avulso de menor preço. O kit tinha shampoo, máscara e tônico. A tabela mostra os preços e indica a estimativa com o cupom."

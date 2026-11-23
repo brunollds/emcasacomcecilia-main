@@ -92,11 +92,11 @@
           [
             "[Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
             "O blog orienta pelo menos 8 horas antes do próximo banho; confira a embalagem",
-            "A descrição dispensa a remoção, e o modo de uso da mesma página manda tirar no banho; isso não antecipa o banho"
+            "A descrição dispensa a remoção; o modo de uso manda tirar no banho"
           ],
           [
             "[Água Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
-            "Siga a embalagem; não foi confirmado um tempo específico na ficha",
+            "Siga a embalagem; a ficha não informa o tempo",
             "Enxágue conforme a embalagem"
           ],
           [
@@ -113,7 +113,7 @@
       },
       "postParagraphs": [
         "No Mousse, no Mousse Dark, nas duas Águas e no Gel, o modo de uso pede 24 horas depois do banho para a cor se desenvolver por completo. Esse período é diferente do intervalo em que o produto fica na pele antes do banho.",
-        "Para a Água, o blog também orienta evitar suor excessivo nas quatro horas seguintes à aplicação. A frase de que não é preciso remover a Água comum não autoriza encurtar o intervalo antes de molhar a pele."
+        "Para a Água, o blog também orienta evitar suor excessivo nas quatro horas seguintes à aplicação."
       ],
       "image": {
         "src": "/images/reviews/skelt/autobronzeador-mousse.webp",
@@ -159,7 +159,7 @@
       "paragraphs": [
         "Sol: a Skelt orienta não se expor enquanto o produto age. O autobronzeador não substitui o protetor solar; mantenha os cuidados de proteção mesmo depois do enxágue.",
         "Rosto: este guia trata dos autobronzeadores corporais. A Skelt tem uma versão facial própria; não use o passo a passo do corpo como instrução para o rosto.",
-        "Mãos: a prevenção indicada pela marca é aplicar com a luva. Nas páginas que lemos, a Skelt não ensina a tirar a cor da mão; o produto que ela vende para tirar o bronzeado é o removedor, explicado no guia do removedor Skelt.",
+        "Mãos: a prevenção indicada pela marca é aplicar com a luva. A Skelt não ensina a tirar a cor da mão; o produto que ela vende para tirar o bronzeado é o removedor, explicado no guia do removedor Skelt.",
         "Idade: a FAQ da marca indica uso a partir dos 16 anos. Confira também as recomendações do rótulo da versão escolhida."
       ]
     },
@@ -226,7 +226,7 @@
       "Leve a Água ou o Gel se você já tem prática e prefere um produto incolor."
     ],
     "skipIf": [
-      "Passe o Mousse com cor-guia se você não vai dormir de roupa larga: a cor pode passar para o lençol.",
+      "Passe o Mousse com cor-guia se não quer risco de cor na roupa ou no lençol enquanto ele seca.",
       "Passe o frasco avulso se ainda não tem a luva: ela vem só nos kits."
     ]
   }

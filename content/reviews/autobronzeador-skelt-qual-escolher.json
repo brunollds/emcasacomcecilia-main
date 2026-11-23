@@ -129,7 +129,7 @@
     {
       "heading": "Mousse ou água: qual a diferença",
       "paragraphs": [
-        "A principal diferença é a cor-guia. O mousse tem: a ficha descreve a cor-guia explicada acima. A água é incolor e não tem cor-guia. Por isso a Skelt marca o mousse como nível iniciante e a água como nível expert: sem a cor visível, é mais fácil deixar uma região sem passar e criar mancha, e a loja indica a água \"para os mais experientes\".",
+        "A principal diferença é a cor-guia. O mousse tem cor-guia, o pigmento explicado acima. A água é incolor e não tem cor-guia. Por isso a Skelt marca o mousse como nível iniciante e a água como nível expert: sem a cor visível, é mais fácil deixar uma região sem passar e criar mancha, e a loja indica a água \"para os mais experientes\".",
         "A água também traz a vantagem que a loja destaca: por ser incolor, diminui a chance de manchar a roupa. Nos mousses com cor-guia, a Skelt avisa (na página do Mousse Dark e no kit do Mousse) que, durante a secagem, suor e atrito podem transferir a cor-guia para o tecido. Em qualquer um dos dois, espere secar antes de se vestir.",
         "O resto é parecido. A intensidade nos dois é de leve a média, a duração, de 7 a 12 dias, e o rendimento, de 5 a 8 aplicações. Na tabela de outubro, o preço era o mesmo, R$ 119,90, com 140 ml no mousse e 150 ml na água (R$ 0,86 e R$ 0,80 por ml). Na página do mousse, ácido lático e aloe vera na fórmula; na da água, ácido hialurônico e aloe vera. A luva aplicadora não vem em nenhum dos dois.",
         "Na dúvida, a regra da própria marca resolve: quem nunca usou autobronzeador fica com o mousse, e a água é para quem já sabe aplicar e quer um produto incolor. Os tempos de ação estão na tabela; na água, a página manda seguir o tempo indicado na embalagem."
@@ -326,7 +326,7 @@
       ],
       "postParagraphs": [
         "A marca também avisa que atrito e umidade podem fazer a cor passar para o tecido. No Bifásico, a página diz que o que passar para a roupa sai na lavagem. Na Água, a Skelt diz que a ausência de cor-guia diminui a chance de manchar a roupa. O Gel e a Água Dark também são incolores, segundo a ficha, mas o cuidado na aplicação continua valendo, já que não há cor para mostrar onde você passou.",
-        "**Luva.** A Luva Aplicadora (Tanning Mitt) é de poliuretano e veludo de nylon, serve para as duas mãos e, segundo a marca, protege as mãos e as unhas de manchas e espalha mais produto em menos tempo. Depois do uso, a Skelt orienta lavar à mão com água morna e shampoo neutro e deixar secar à sombra. Custava R$ 34,90.",
+        "**Luva.** A Luva Aplicadora (Tanning Mitt) é de poliuretano e veludo de nylon, serve para as duas mãos e, segundo a marca, protege as mãos e as unhas de manchas e espalha mais produto em menos tempo. Depois do uso, a Skelt orienta lavar à mão com água morna e shampoo neutro e deixar secar à sombra. Custava R$ 34,90 de lista.",
         "**Removedor.** O [Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), 140 ml, custava R$ 69,90. A Skelt diz que ele remove em minutos o bronze de autobronzeadores aplicados há mais de 3 dias. A marca manda agitar, aplicar na pele seca, deixar por no mínimo 3 minutos e retirar com toalha ou esponja molhadas em água morna."
       ],
       "images": [
@@ -350,7 +350,7 @@
     },
     {
       "heading": "Qual autobronzeador Skelt escolher?",
-      "emphasis": "Para quem começa, eu escolheria o Kit Iniciante: mousse com cor-guia e a luva na mesma compra. Quem já sabe aplicar e quer um produto incolor, eu levaria a Água.",
+      "emphasis": "Para quem começa, eu escolheria o Kit Iniciante: mousse com cor-guia e a luva na mesma compra. Para quem já sabe aplicar e quer um produto incolor, eu levaria a Água.",
       "paragraphs": [
         "A escolha por perfil, com os preços do site oficial. A intensidade e a duração são as que a Skelt informa na ficha de cada produto."
       ],
@@ -405,7 +405,7 @@
     "skipIf": [
       "Passe o Dark se é a primeira vez: a Skelt o marca como nível expert.",
       "Passe o autobronzeador avulso se você ainda não tem a luva aplicadora: ela não vem nele.",
-      "Passe os kits Dark enquanto a promoção dos avulsos durar: o autobronzeador Dark e a luva comprados separados saem abaixo do kit."
+      "Passe os kits Dark se o Dark avulso estiver em promoção: o autobronzeador Dark e a luva comprados separados saem abaixo do kit."
     ]
   },
   "pros": [],
