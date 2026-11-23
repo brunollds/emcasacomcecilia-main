@@ -122932,7 +122932,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits com cueca boxer",
         "paragraphs": [
-          "Para presentear um homem, os dois kits com cueca são o primeiro lugar para olhar. O [Kit Presente Performance Masculino](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-1-camiseta-esportiva-performance-t-shirt-2-0-2-cuecas-boxer-performance-simples-masculino-copia?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) traz uma Performance T-Shirt 2.0 e duas cuecas Performance boxer. O [Kit Presente Básico Masculino](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-masculino-essencias?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) traz duas Tech T-Shirts e uma cueca Performance."
+          "Para presentear um homem, os dois kits com cueca são o primeiro lugar para olhar. O [Kit Presente Performance Masculino](https://creators.insiderstore.com.br/kbT2Qui) traz uma Performance T-Shirt 2.0 e duas cuecas Performance boxer. O [Kit Presente Básico Masculino](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-masculino-essencias?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA) traz duas Tech T-Shirts e uma cueca Performance."
         ],
         "comparisonTable": {
           "headers": [
@@ -122944,7 +122944,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Kit Presente Performance Masculino](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-1-camiseta-esportiva-performance-t-shirt-2-0-2-cuecas-boxer-performance-simples-masculino-copia?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "[Kit Presente Performance Masculino](https://creators.insiderstore.com.br/kbT2Qui)",
               "1 Performance T-Shirt 2.0 + 2 Cuecas Performance boxer",
               "R$ 337,90",
               "R$ 287,22",
@@ -123349,7 +123349,7 @@ export const reviewsData: unknown[] = [
           },
           {
             "label": "Ver o Kit Presente Performance Masculino na Insider",
-            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/conjunto-1-camiseta-esportiva-performance-t-shirt-2-0-2-cuecas-boxer-performance-simples-masculino-copia?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "href": "https://creators.insiderstore.com.br/kbT2Qui",
             "sponsored": true
           },
           {
