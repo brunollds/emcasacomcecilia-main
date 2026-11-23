@@ -19,11 +19,10 @@ import {
   getCountdownLabel,
   getEventHubPage,
   getEventHubPaths,
-  MOBILE_VISIBLE_GUIDES,
   parseHomeEvents,
   resolveActiveHomeEvent,
 } from '@/lib/homeEvents';
-import { getStoreMark, type StoreReview } from '@/lib/homeStores';
+import { getHomeStoreTabs, getStoreMark, type StoreReview } from '@/lib/homeStores';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { getListedPortugueseReviews } from '@/lib/reviewDiscovery';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl } from '@/lib/pageSeo';
@@ -484,8 +483,27 @@ assert.ok(finalStretch?.guides, 'antes do boost.endsAt, a reta final');
 assert.equal(finalStretch.titleOf, 'da Black Friday');
 assert.deepEqual(
   finalStretch.guides.map(({ slug }) => slug),
-  ['bf-damie', 'bf-magalu', 'bf-sem-loja', 'bf-kopenhagen', 'bf-dolce', 'bf-damie-poltrona'],
-  'todos os guias, na ordem do arquivo'
+  ['bf-damie', 'bf-damie-poltrona', 'bf-dolce', 'bf-magalu', 'bf-sem-loja', 'bf-kopenhagen'],
+  'todos os guias, na ordem das bolinhas da vitrine: os da mesma loja juntos, na ordem do arquivo, e os sem loja ativa no fim'
+);
+assert.deepEqual(
+  finalStretch.carousel,
+  { tabSlugs: ['damie', 'dolce-gusto', 'magalu'], previousLabel: 'Ver guias anteriores', nextLabel: 'Ver próximos guias' },
+  'o carrossel lê a aba aberta pelas lojas da vitrine, na ordem das bolinhas'
+);
+assert.deepEqual(
+  resolveActiveHomeEvent({ events: [boosted()] }, finalReviews, at('2026-11-20T12:00:00-03:00'), hiddenStores)?.guides?.map(
+    ({ slug, tab }) => [slug, tab]
+  ),
+  [
+    ['bf-damie', 'damie'],
+    ['bf-damie-poltrona', 'damie'],
+    ['bf-dolce', 'dolce-gusto'],
+    ['bf-magalu', undefined],
+    ['bf-sem-loja', undefined],
+    ['bf-kopenhagen', undefined],
+  ],
+  'loja fora da vitrine: o guia vai para o fim e fica sem aba'
 );
 const guideOf = (slug: string) => finalStretch.guides?.find((guide) => guide.slug === slug);
 const damieStore = stores.find(({ slug }) => slug === 'damie');
@@ -498,6 +516,8 @@ assert.deepEqual(guideOf('bf-damie'), {
   mark: getStoreMark(damieStore),
   discount: damieStore.discount,
   label: 'Guia geral',
+  cover: { image: resolveMediaUrl('/images/reviews/teste/bf-damie.webp'), imageFit: 'contain', imagePosition: undefined },
+  tab: 'damie',
 });
 assert.equal(guideOf('bf-damie-poltrona')?.label, 'Poltrona do papai', 'o segundo guia da loja se distingue pelo rótulo');
 for (const guide of finalStretch.guides) {
@@ -505,7 +525,14 @@ for (const guide of finalStretch.guides) {
   if (shop) assert.equal(guide.discount, shop.discount, `${guide.slug}: o desconto da página da loja`);
 }
 assert.equal(guideOf('bf-magalu')?.label, undefined, 'loja com um guia só: sem rótulo');
-assert.deepEqual(guideOf('bf-sem-loja'), { slug: 'bf-sem-loja', href: '/reviews/bf-sem-loja', title: 'Título bf-sem-loja', name: 'Presentes' });
+assert.deepEqual(guideOf('bf-sem-loja'), {
+  slug: 'bf-sem-loja',
+  href: '/reviews/bf-sem-loja',
+  title: 'Título bf-sem-loja',
+  name: 'Presentes',
+  cover: { image: undefined, imageFit: 'cover', imagePosition: undefined },
+});
+assert.equal(guideOf('bf-magalu')?.cover?.imagePosition, 'top', 'a capa segue a regra dos cartões');
 assert.equal(guideOf('bf-kopenhagen')?.mark, undefined, 'loja pausada: a casa no lugar da bolinha');
 assert.equal(guideOf('bf-kopenhagen')?.name, 'Chocolates');
 assert.equal(finalStretch.seasonNotice, CODE_SEASON_NOTICE.text, 'com loja de cupom e o aviso no ar, o aviso entra');
@@ -524,39 +551,55 @@ assert.equal(afterBoost?.guides, undefined, 'no boost.endsAt, a home volta aos c
 assert.equal(afterBoost?.seasonNotice, undefined);
 assert.equal(afterBoost?.cards.length, 4);
 
-// O HTML da reta final: um link por guia, sem capa, sem código e sem título nos cards; o nome do link começa pelo texto
-// visível e termina no trecho para leitor de tela.
+// O HTML da reta final na home em português: o carrossel, com um link por guia, a capa, o rótulo da loja e o título;
+// sem código. No servidor, só a loja que a vitrine abre (a primeira bolinha) sai marcada.
 const finalHtml = renderWithImages(createElement(HomeEvent, { event: finalStretch }));
 const finalText = finalHtml.replace(/<[^>]+>/g, ' ');
 assert.equal(finalHtml.match(/href="\/reviews\//g)?.length, 6, 'um link por guia');
 assert.ok(!finalHtml.includes('href="/#loja-'), 'sem "Ver o código" nos cards compactos');
 assert.ok(!finalHtml.includes('revela'), 'sem a revelação na rolagem nos cards compactos');
 assert.ok(!/<h3/.test(finalHtml), 'sem título dentro dos cards');
-assert.equal(finalHtml.match(/<span class="sr-only">, guia da Black Friday<\/span>/g)?.length, 6, 'o trecho para leitor de tela');
-assert.ok(finalText.includes(CODE_SEASON_NOTICE.text), 'o aviso de temporada acima da grade');
+assert.equal(finalHtml.match(/<li data-tab="damie"/g)?.length, 2, 'os guias da loja levam a aba dela');
+assert.equal(finalHtml.match(/<li class=/g)?.length, 2, 'guia sem loja ativa: sem aba');
+assert.equal(finalHtml.match(/shadow-\[0_0_0_4px_var\(--color-amarelo-cupom\)\]/g)?.length, 2, 'a loja que a vitrine abre sai marcada');
+assert.ok(finalText.includes(`DAMIE · Guia geral · ${damieStore.discount}`), 'o rótulo: loja, guia e desconto');
+assert.ok(finalText.includes('Título bf-damie-poltrona'), 'o título do artigo no card');
+assert.equal(finalHtml.match(/<img /g)?.length, 5, 'a capa de cada guia que tem capa');
+assert.ok(finalText.includes(CODE_SEASON_NOTICE.text), 'o aviso de temporada acima do carrossel');
 assert.ok(!finalHtml.includes('<code') && !/cupom|copiar/i.test(finalText), 'a reta final não mostra código nem fala em cupom');
-// Com 12 guias ou menos, todos cabem no celular: sem botão e nenhum escondido.
-assert.ok(!finalHtml.includes('<button') && !finalHtml.includes('/guias:hidden'), 'poucos guias: sem o botão de mostrar todos');
-assert.match(finalHtml, /<ul id="guias-data-comercial"/);
-assert.match(finalHtml, /href="\/black-friday"[^>]*>Ver tudo da Black Friday</);
-assert.ok(!/loading="eager"/.test(finalHtml), 'as bolinhas carregam sob demanda');
+// As setas só entram no navegador, quando há o que rolar; nenhum guia fica escondido.
+assert.ok(!finalHtml.includes('<button') && !finalHtml.includes('/guias:hidden'), 'sem botão no HTML do servidor');
+assert.ok(!finalHtml.includes('guias-data-comercial'), 'sem a grade compacta');
+assert.match(finalHtml, /href="\/black-friday"[^>]*>Ver todos os 6 guias</);
+assert.ok(!/loading="eager"/.test(finalHtml), 'as capas carregam sob demanda');
 
-// O arquivo de verdade: na reta final, os guias, os 12 primeiros escolhidos pelo Bruno e todo rótulo que falta.
+// Sem o carrossel (as homes dos outros idiomas montam os guias sem ele): a grade compacta de sempre.
+const gridHtml = renderWithImages(createElement(HomeEvent, { event: { ...finalStretch, carousel: undefined } }));
+assert.match(gridHtml, /<ul id="guias-data-comercial"/);
+assert.equal(gridHtml.match(/<span class="sr-only">, guia da Black Friday<\/span>/g)?.length, 6, 'o trecho para leitor de tela');
+assert.ok(!gridHtml.includes('bf-damie.webp'), 'a grade compacta não mostra capa');
+
+// O arquivo de verdade: na reta final, os guias na ordem das bolinhas, as lojas fora da vitrine no fim e todo rótulo que falta.
 const realFinal = resolveActiveHomeEvent(realConfig, publishedReviews, at('2026-11-25T12:00:00-03:00'), getActiveCoupons());
 assert.ok(realFinal?.guides, 'a Black Friday de 2026 está na reta final em 25/11');
+assert.ok(realFinal.carousel, 'a home em português mostra a reta final no carrossel');
+const realTabs = getHomeStoreTabs(publishedReviews).map(({ slug }) => slug);
+assert.deepEqual(realFinal.carousel.tabSlugs, realTabs, 'as lojas do carrossel são as bolinhas da vitrine, na mesma ordem');
+const guideTabs = realFinal.guides.map(({ tab }) => (tab ? realTabs.indexOf(tab) : realTabs.length));
+assert.ok(
+  guideTabs.every((rank, index) => rank >= 0 && (index === 0 || rank >= guideTabs[index - 1])),
+  'os guias seguem a ordem das bolinhas'
+);
 assert.deepEqual(
-  realFinal.guides.slice(0, MOBILE_VISIBLE_GUIDES).map(({ name }) => name),
-  ['DAMIE', 'Dolce Gusto', 'Insider', 'I Wanna Sleep', 'Hostinger', 'Petz', 'Bagaggio', 'Toda Up', "Let's Eat It", 'Skelt', 'SHEIN', 'YesStyle'],
-  'os 12 primeiros no celular'
+  realFinal.guides.filter(({ tab }) => !tab).map(({ name }) => name).sort(),
+  ['Lejour', 'Magalu'],
+  'sem bolinha na vitrine, só as lojas fora dela'
 );
 const guideKeys = realFinal.guides.map(({ name, label }) => `${name}|${label ?? ''}`);
 assert.equal(new Set(guideKeys).size, guideKeys.length, 'nenhum card repete loja e rótulo');
 const realHtml = renderWithImages(createElement(HomeEvent, { event: realFinal }));
-assert.match(realHtml, /<div class="group\/guias[^"]*" data-aberto="false">/);
-assert.match(realHtml, /<button[^>]*aria-expanded="false"[^>]*aria-controls="guias-data-comercial"/);
-const hiddenOnPhone = realHtml.match(/<li class="flex min-w-0 max-md:group-data-\[aberto=false\]\/guias:hidden">/g)?.length ?? 0;
-assert.equal(hiddenOnPhone, realFinal.guides.length - MOBILE_VISIBLE_GUIDES, 'no celular, do 13º em diante esperam o botão');
-assert.ok(realHtml.includes(`Mostrar todos os ${realFinal.guides.length} guias`));
+assert.equal(realHtml.match(/href="\/reviews\//g)?.length, realFinal.guides.length, 'um link por guia, todos no HTML');
+assert.ok(realHtml.includes(`>Ver todos os ${realFinal.guides.length} guias<`));
 // Guia de Black Friday publicado em PT e fora da lista: só um aviso, para lembrar de pô-lo na home. O brinde da Skelt
 // saiu de propósito (a promoção acabou).
 const OUT_OF_HOME = new Set(['brindes-skelt-black-friday-cupom']);
