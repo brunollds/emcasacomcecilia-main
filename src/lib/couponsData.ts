@@ -3261,10 +3261,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom por pedido, e aplicar outro código troca o anterior' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis sem mínimo no Sul, Sudeste e Centro-Oeste e a partir de R$ 199 no Norte e Nordeste, sobre o valor final do pedido' },
     ],
-    lastVerified: '2026-11-12',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Aplicamos o SKEMCASACOMCECILIA num kit de três body splashes, de R$ 297,00 por R$ 237,60 com os 20% da promoção do site, e o total caiu para R$ 213,84, com R$ 23,76 de desconto: os 10% entraram sobre o preço promocional. Em 21/10/2026, no Pix, a loja tirou mais 5% depois do código.',
+      'Aplicamos o SKEMCASACOMCECILIA num kit de três body splashes, de R$ 297,00 por R$ 237,60 com os 20% da promoção do site, e o total caiu para R$ 213,84, com R$ 23,76 de desconto: os 10% entraram sobre o preço promocional. Em 21/10/2026, no Pix, a loja tirou mais 5% depois do código. Em 22/11/2026, com a campanha November Glow no ar, o código tirou 5% dos preços da campanha nos seis produtos testados: o Mousse foi de R$ 101,92 para R$ 96,82.',
     codeInstructions: [
       'Copie o código SKEMCASACOMCECILIA no card acima.',
       'Acesse o site oficial da Skelt pelo botão indicado e coloque os produtos no carrinho.',
@@ -3274,6 +3274,11 @@ const STORE_COUPONS: Coupon[] = [
     aboutBrand:
       'A Skelt é uma marca brasileira de Curitiba, criada em 2017, conhecida pelos autobronzeadores em mousse, água e gel, e que hoje também vende body splash, body cream, maquiagem corporal e kits, com fórmulas veganas e cruelty-free. O cupom SKEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções e com o desconto de 5% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Skelt?',
+        answer:
+          'O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento.',
+      },
       {
         question: 'O cupom SKEMCASACOMCECILIA vale para todos os produtos da Skelt?',
         answer: 'Sim. O SKEMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Skelt, inclusive kits e combos.',
@@ -3316,7 +3321,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom SKEMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout mais recente, o SKEMCASACOMCECILIA aplicou os 10% no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+          'Sim. No teste de checkout mais recente, o SKEMCASACOMCECILIA foi aceito no carrinho. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom SKEMCASACOMCECILIA vale no Mercado Livre?',
@@ -3351,7 +3356,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom Skelt vale na Black Friday?',
         answer:
-          'O cupom Skelt SKEMCASACOMCECILIA dá 10% OFF em todo o site. Ainda não testamos o código com uma campanha de Black Friday no ar: confira o total na sacola antes de pagar.',
+          'Vale. O SKEMCASACOMCECILIA é o código de 10% OFF da parceria. Com a campanha November Glow no ar, em novembro, o carrinho aplicou 5% sobre os preços da campanha nos seis produtos que testamos. Confira o total na sacola antes de pagar.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -3363,6 +3368,50 @@ const STORE_COUPONS: Coupon[] = [
       scope: 'em todo o site',
       note: 'Soma com as promoções do site e os 5% do Pix; vale também em kits e combos',
     },
+    relatedContent: [
+      {
+        title: 'Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma',
+        url: '/reviews/cupom-skelt-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-21',
+      },
+      {
+        title: 'Black Friday Skelt 2026: o que comprar, kits e o cupom SKEMCASACOMCECILIA',
+        url: '/reviews/black-friday-skelt',
+        type: 'review',
+        publishedAt: '2026-10-21',
+      },
+      {
+        title: 'Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark',
+        url: '/reviews/autobronzeador-skelt-qual-escolher',
+        type: 'review',
+        publishedAt: '2026-10-23',
+      },
+      {
+        title: 'Body splash Skelt: qual escolher por fragrância, com hidratantes e kits',
+        url: '/reviews/body-splash-skelt-qual-escolher',
+        type: 'review',
+        publishedAt: '2026-10-23',
+      },
+      {
+        title: 'Hidratante corporal Skelt: qual fragrância escolher e quanto sai por 100 g',
+        url: '/reviews/hidratante-corporal-skelt-qual-fragrancia',
+        type: 'review',
+        publishedAt: '2026-10-29',
+      },
+      {
+        title: 'Skelt é boa? Autobronzeadores, body splash e o que vale comprar da marca',
+        url: '/reviews/skelt-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-04',
+      },
+      {
+        title: 'Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram',
+        url: '/reviews/skelt-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-21',
+      },
+    ],
     status: 'ativo',
     featured: false,
   },
@@ -4195,7 +4244,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'prohall',
-    cartPrint: { src: '/images/reviews/prohall/cupom-prohall-checkout-com-cupom.webp', alt: 'Resumo da compra no checkout da Prohall com o aviso "Cupom CECILIAMC aplicado", a linha Cupom CECILIAMC de menos R$ 26,64 e o total de R$ 354,06', aspectRatio: 0.473 },
+    cartPrint: { article: 'cupom-prohall-como-usar', src: '/images/reviews/prohall/cupom-prohall-checkout-desktop-com-cupom.webp', alt: 'Resumo do checkout da Prohall no computador com o código CECILIAMC aplicado: subtotal de R$ 279,70, desconto no pedido de menos R$ 19,57 e total de R$ 260,13', aspectRatio: 1.82 },
     brand: 'Prohall',
     officialUrl: 'https://lojaprohall.com.br/',
     offerUrl: 'https://lojaprohall.com.br/',
@@ -4206,7 +4255,7 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/prohall.webp',
     brandColor: '#111111',
     code: 'CECILIAMC',
-    codeFieldLabel: 'Código do cupom',
+    codeFieldLabel: 'Código de desconto',
     discount: 'Até 10% OFF',
     discountNumber: 10,
     category: 'Cabelos e tratamento capilar',
@@ -4217,7 +4266,7 @@ const STORE_COUPONS: Coupon[] = [
     metaTitle: 'Cupom Prohall: até 10% OFF com CECILIAMC',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Prohall: CECILIAMC dá até 10% OFF para cliente novo ou antigo, soma com as promoções do site e vale no Pix e no cartão. Nos testes, deu 7%.',
+      'Cupom Prohall: CECILIAMC dá até 10% OFF para cliente novo ou antigo, soma com as promoções do site, em todas as formas de pagamento. Nos testes, deu 7%.',
     eligibleCategories: 'Produtos do site oficial da Prohall; o desconto chega a 10% e pode ser menor: nos nossos testes, foi de 7%',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado em mais de uma compra, segundo a parceria',
@@ -4233,13 +4282,18 @@ const STORE_COUPONS: Coupon[] = [
     paymentPerks: [
       'Até 10x sem juros no cartão, com parcela mínima de R$ 20',
     ],
-    lastVerified: '2026-11-12',
-    testedAt: '2026-11-12',
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Num carrinho de quatro itens, com o kit Shampoo + Condicionador Absolut One em promoção, de R$ 149,90 por R$ 89,90, o CECILIAMC tirou R$ 26,64 dos R$ 380,70 e o total caiu para R$ 354,06: 7%. No mesmo dia, aplicamos o código em outros quatro carrinhos, com produtos a preço cheio e em promoção, e o desconto foi de 7% em todos: o Force Hair foi de R$ 264,90 para R$ 246,36, e o Kit Completo Absolut One, de R$ 349,90 para R$ 325,41.',
+      'Num carrinho de quatro itens, com o kit Shampoo + Condicionador Absolut One em promoção, de R$ 149,90 por R$ 89,90, o CECILIAMC tirou R$ 26,64 dos R$ 380,70 e o total caiu para R$ 354,06: 7%. No mesmo dia, aplicamos o código em outros quatro carrinhos, com produtos a preço cheio e em promoção, e o desconto foi de 7% em todos: o Force Hair foi de R$ 264,90 para R$ 246,36, e o Kit Completo Absolut One, de R$ 349,90 para R$ 325,41. Em 22/11/2026, com a Black Prohall no ar, o código tirou R$ 19,57 de um carrinho de R$ 279,70, com o kit Force Hair, o Burix One e o Select One em promoção: 7% de novo, com o total em R$ 260,13.',
     aboutBrand:
       'A Prohall é uma marca brasileira de produtos para cabelo, fundada em 2017 em Lençóis Paulista (SP), com escovas antifrizz, shampoos, condicionadores, máscaras, óleos, séruns e finalizadores vendidos no site oficial. O cupom CECILIAMC é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: nos nossos testes, o desconto foi de 7%, e o resumo da compra mostra o valor. Ele vale com qualquer forma de pagamento e soma com as promoções do site.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Prohall?',
+        answer:
+          'O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento.',
+      },
       {
         question: 'Quanto de desconto o cupom CECILIAMC dá?',
         answer:
@@ -4282,7 +4336,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Onde coloco o cupom na Prohall?',
         answer:
-          'No checkout do site oficial: toque em "Tem um cupom?", digite CECILIAMC no campo "Código do cupom" e toque em "Aplicar". O resumo da compra passa a mostrar a linha "Cupom CECILIAMC".',
+          'No checkout do site oficial: digite CECILIAMC no campo "Código de desconto" e toque em "Aplicar". O resumo da compra passa a mostrar a linha "Desconto no pedido", com o código e o valor descontado.',
       },
       {
         question: 'O cupom CECILIAMC vale no app da Prohall?',
@@ -4296,7 +4350,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O que fazer se o cupom CECILIAMC não funcionar?',
         answer:
-          'Confira se o código foi digitado no campo "Código do cupom", sem espaços, no site oficial da Prohall, e se o cupom de cashback da loja não está aplicado no mesmo pedido. Lembre que o desconto pode ser menor que 10%. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+          'Confira se o código foi digitado no campo "Código de desconto", sem espaços, no site oficial da Prohall, e se o cupom de cashback da loja não está aplicado no mesmo pedido. Lembre que o desconto pode ser menor que 10%. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Tem cupom Prohall na Black Friday?',
@@ -4318,6 +4372,56 @@ const STORE_COUPONS: Coupon[] = [
       scope: 'no site oficial',
       note: 'O desconto chega a 10%; nos nossos testes, foi de 7%',
     },
+    relatedContent: [
+      {
+        title: 'Como usar o cupom CECILIAMC na Prohall: até 10% OFF no site e no app',
+        url: '/reviews/cupom-prohall-como-usar',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+      {
+        title: 'Black Friday Prohall 2026: o que está em oferta e como o cupom entra',
+        url: '/reviews/black-friday-prohall',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+      {
+        title: 'Select One ou Burix One: qual escolher, pelo que a Prohall declara e pelo preço por ml',
+        url: '/reviews/select-one-ou-burix-one',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'Biomask Prohall: para que serve, como usar e quanto custa cada tamanho',
+        url: '/reviews/biomask-prohall-para-que-serve',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'Force Hair Prohall: o que vem na linha, como usar e quanto custa',
+        url: '/reviews/force-hair-prohall-para-que-serve',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'Cabelo fino e fraco: Encorpax, Selve Power ou Force Hair, qual linha da Prohall escolher',
+        url: '/reviews/cabelo-fino-e-fraco-qual-linha-prohall',
+        type: 'review',
+        publishedAt: '2026-11-21',
+      },
+      {
+        title: 'Prohall é boa? As linhas da marca, o que os clientes dizem e para quem vale a pena',
+        url: '/reviews/prohall-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+      {
+        title: 'Prohall no Reclame Aqui: nota, reputação e o que mais gera reclamação',
+        url: '/reviews/prohall-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+    ],
     status: 'ativo',
     featured: false,
   },
