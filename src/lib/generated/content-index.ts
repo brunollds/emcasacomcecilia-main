@@ -31563,7 +31563,32 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Os dados atuais da Damie no Reclame Aqui",
-        "widget": "ReputacaoMetricas",
+        "metrics": {
+          "items": [
+            {
+              "label": "Nota",
+              "value": "7,9",
+              "unit": "/10"
+            },
+            {
+              "label": "Respostas",
+              "value": "100%"
+            },
+            {
+              "label": "Índice de solução",
+              "value": "83,1%"
+            },
+            {
+              "label": "Tempo de resposta",
+              "value": "15",
+              "unit": "h"
+            }
+          ],
+          "summary": {
+            "badge": "Boa",
+            "text": "**192** reclamações de 01/05 a 31/10/2026 · **70,2%** voltariam a fazer negócio"
+          }
+        },
         "paragraphs": [
           "De 01/05/2026 a 31/10/2026, o [painel do Reclame Aqui](https://www.reclameaqui.com.br/empresa/damie-moveis/) mostrava estes indicadores da Damie Móveis:"
         ],

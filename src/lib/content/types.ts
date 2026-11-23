@@ -285,6 +285,61 @@ export interface ContentSectionStyling {
   items: StylingItem[];
 }
 
+/** Pílula de filtro por perfil acima de tabelas comparativas longas; no SSR todas as linhas saem visíveis. */
+export interface ComparisonTableFilter {
+  label: string;
+  /** Índices (0-based) das linhas de `comparisonTable.rows` exibidas quando este filtro está ativo. */
+  rows: number[];
+}
+
+/** Cartão individual da faixa de métricas (`section.metrics`). */
+export interface MetricItem {
+  label: string;
+  value: string;
+  /** Sufixo curto colado ao valor (ex.: "/10", "h", "%"). */
+  unit?: string;
+  /** Contexto curto abaixo do valor (ex.: "nos últimos 6 meses"). */
+  note?: string;
+}
+
+/** Faixa de indicadores movida por JSON (ex.: Reclame Aqui, Trustpilot, medições técnicas). */
+export interface ContentSectionMetrics {
+  items: MetricItem[];
+  summary?: {
+    badge?: string;
+    text: string;
+  };
+}
+
+/** Checklist interativo de caderno ("Antes de fechar o pedido"), com suporte a código copiável inline. */
+export interface ContentSectionChecklist {
+  title?: string;
+  items: string[];
+}
+
+/** Linha de cálculo de um cenário do simulador (`section.simulator`). */
+export interface SimulatorLine {
+  label: string;
+  value: string;
+  /** Destaca a linha (ex.: desconto do cupom ou do Pix). */
+  highlight?: boolean;
+}
+
+/** Cenário pré-verificado do simulador rápido (ex.: "Pix + cupom" vs "Cartão"). */
+export interface SimulatorScenario {
+  label: string;
+  lines: SimulatorLine[];
+  totalLabel?: string;
+  totalValue: string;
+  note?: string;
+}
+
+/** Simulador rápido de cenários reais verificados no carrinho (`section.simulator`). */
+export interface ContentSectionSimulator {
+  title?: string;
+  scenarios: SimulatorScenario[];
+}
+
 /** Modelo legado real de contentSections em src/lib/data.ts. */
 export interface ContentSection {
   heading?: string;
@@ -303,6 +358,7 @@ export interface ContentSection {
     caption?: string;
     headers: string[];
     rows: string[][];
+    filters?: ComparisonTableFilter[];
   };
   links?: ContentSectionLink[];
   /** Advertência legal obrigatória (ex.: NBCAL), exibida em moldura, caixa alta e negrito. */
@@ -322,6 +378,12 @@ export interface ContentSection {
   };
   /** Card "Como usar / Ocasião / Combina com", no fim da seção (ArticleStyling). */
   styling?: ContentSectionStyling;
+  /** Faixa de métricas movida por JSON (ArticleMetrics). */
+  metrics?: ContentSectionMetrics;
+  /** Checklist clicável de caderno (ArticleChecklist). */
+  checklist?: ContentSectionChecklist;
+  /** Simulador rápido de cenários verificados (ArticleSimulator). */
+  simulator?: ContentSectionSimulator;
 }
 
 export interface GalleryImage {

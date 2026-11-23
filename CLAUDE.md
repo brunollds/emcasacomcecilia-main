@@ -370,6 +370,18 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
   `validate:content` barra. Rótulos nos 11 idiomas em `articleCopy.ts` (`decisionLabel`, `decisionTakeIf`, `decisionSkipIf`).
   Numa família, o `test:review-i18n` exige o quadro em toda versão quando o PT tem, com o mesmo número de frases e nenhuma
   igual à do PT; o `test:build-output` confere o lugar, os rótulos, as frases e que nenhuma vai ao JSON-LD.
+- Blocos interativos do caderno nas seções (`ContentSection`, tipos em `src/lib/content/types.ts`, rótulos nos 11 idiomas em
+  `src/components/review/notebookCopy.ts`, desenhados em `src/components/review/article/`):
+  1. `metrics` (`ArticleMetrics`, `data-article="metrics"`): faixa de 2 a 6 indicadores (`items: [{ label, value, unit?, note? }]`)
+     com rodapé opcional (`summary: { badge?, text }`), generalizando os painéis de reputação (Reclame Aqui/Trustpilot) e medições técnicas.
+  2. `comparisonTable.filters` (`ComparisonTableBlock`, `data-article="table-filters"`): de 2 a 6 pílulas por perfil acima da tabela
+     (`filters: [{ label, rows: [0, 2, ...] }]`). No HTML inicial todas as linhas saem visíveis sem `hidden` (indexação integral por Google/Bing/IAs).
+  3. `checklist` (`ArticleChecklist`, `data-article="checklist"`): lista clicável de 2 a 8 passos (`{ title?, items: [...] }`)
+     para conferência antes do pagamento, usando `role="checkbox"` separado do texto para conviver sem `<button>` aninhado com o `HighlightCoupon`.
+  4. `simulator` (`ArticleSimulator`, `data-article="simulator"`): simulador em abas de 2 a 4 cenários reais verificados no carrinho
+     (`{ title?, scenarios: [{ label, lines: [{ label, value, highlight? }], totalLabel?, totalValue, note? }] }`), com todos os cenários presentes no HTML inicial.
+  O `validate:content` valida limites e marcação, `contentSectionsToPlainText` inclui os quatro no áudio/tempo de leitura, `test:review-i18n`
+  cobra paridade estrutural nas famílias e idioma fora do PT, e `test:build-output` confere o HTML gerado.
 - Link no texto dos artigos e das receitas (`[texto](https://…)`, inclusive em tabela e FAQ, pelo `AnimatedTextHighlight`): sai com
   `rel="sponsored"` só quando o domínio é de loja parceira ou de programa de afiliado (`PARTNER_HOSTS`, em `src/lib/partnerHosts.ts`, que vale
   para os subdomínios); gov.br, Reclame Aqui, imprensa e fabricante que não é parceiro saem só com `noopener`. Domínio novo no texto

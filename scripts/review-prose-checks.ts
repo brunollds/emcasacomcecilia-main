@@ -50,6 +50,17 @@ function bodyTexts(section: ContentSection): string[] {
     section.notice ?? '',
     ...(section.accordionBlock?.paragraphs ?? []),
     ...(table ? [table.caption ?? '', ...table.headers, ...table.rows.flat()] : []),
+    ...(section.metrics?.items ?? []).flatMap((item) => [item.label, item.value, item.note ?? '']),
+    section.metrics?.summary?.badge ?? '',
+    section.metrics?.summary?.text ?? '',
+    ...(section.checklist?.items ?? []),
+    ...(section.simulator?.scenarios ?? []).flatMap((sc) => [
+      sc.label,
+      ...sc.lines.flatMap((line) => [line.label, line.value]),
+      sc.totalLabel ?? '',
+      sc.totalValue,
+      sc.note ?? '',
+    ]),
   ];
 }
 
@@ -58,6 +69,9 @@ function captionTexts(section: ContentSection): string[] {
   return [
     section.heading ?? '',
     section.accordionBlock?.heading ?? '',
+    section.checklist?.title ?? '',
+    section.simulator?.title ?? '',
+    ...(section.comparisonTable?.filters ?? []).map((filter) => filter.label),
     section.imageCaption ?? '',
     image?.caption ?? '',
     ...(section.images ?? []).map((item) => item.caption ?? ''),

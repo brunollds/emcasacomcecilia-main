@@ -2,6 +2,9 @@
 // schema.org, templates e APIs externas.
 
 import type {
+  ContentSectionChecklist,
+  ContentSectionMetrics,
+  ContentSectionSimulator,
   ContentSectionStyling,
   InstructionSection,
   PersonRef,
@@ -194,6 +197,9 @@ export function contentSectionsToPlainText(
     notice?: string;
     accordionBlock?: { heading: string; paragraphs: string[] };
     styling?: ContentSectionStyling;
+    metrics?: ContentSectionMetrics;
+    checklist?: ContentSectionChecklist;
+    simulator?: ContentSectionSimulator;
     postParagraphs?: string[];
   }[]
 ): string {
@@ -204,6 +210,21 @@ export function contentSectionsToPlainText(
       ...(section.bullets || []).map(inlineMarkdownToText),
       section.emphasis && inlineMarkdownToText(section.emphasis),
       section.notice,
+      ...(section.metrics?.items || []).flatMap((item) => [
+        item.label,
+        `${item.value}${item.unit || ''}`,
+        item.note,
+      ]),
+      section.metrics?.summary?.badge,
+      section.metrics?.summary?.text && inlineMarkdownToText(section.metrics.summary.text),
+      ...(section.simulator?.scenarios || []).flatMap((scenario) => [
+        scenario.label,
+        ...scenario.lines.map((line) => `${inlineMarkdownToText(line.label)}: ${line.value}`),
+        `${scenario.totalLabel || ''}: ${scenario.totalValue}`.replace(/^:\s*/, ''),
+        scenario.note && inlineMarkdownToText(scenario.note),
+      ]),
+      section.checklist?.title,
+      ...(section.checklist?.items || []).map(inlineMarkdownToText),
       section.accordionBlock?.heading && inlineMarkdownToText(section.accordionBlock.heading),
       ...(section.accordionBlock?.paragraphs || []).map(inlineMarkdownToText),
       // O card de estilo, sem os rótulos das abas: a peça, as duas frases e o que combina com ela.

@@ -23,6 +23,10 @@ import {
   normalizeReview,
   resolveTotalMinutes,
   structuredIngredientToText,
+  type ComparisonTableFilter,
+  type ContentSectionChecklist,
+  type ContentSectionMetrics,
+  type ContentSectionSimulator,
   type ContentSectionStyling,
   type ReviewKind,
 } from '@/lib/content';
@@ -155,6 +159,152 @@ function getDecisionProblems(decision: unknown, kind: ReviewKind): string[] {
   expectProblems({ ...ok, skipIf: ['Custa R$ 299,90.'] }, 'guia', 1, 'preço');
   expectProblems({ ...ok, takeIf: ['Leia o [guia](/reviews/x).'] }, 'guia', 1, 'markdown');
   expectProblems({ leveSe: ['a'], ...ok }, 'guia', 1, 'campo fora do formato');
+}
+
+// Os 4 blocos interativos do caderno (metrics, comparisonTable.filters, checklist, simulator).
+function getMetricsProblems(metrics: ContentSectionMetrics): string[] {
+  const problems: string[] = [];
+  const items = Array.isArray(metrics?.items) ? metrics.items : [];
+  if (items.length < 2 || items.length > 6) problems.push(`${items.length} indicadores (de 2 a 6)`);
+  const labels = new Set<string>();
+  for (const item of items) {
+    const label = item?.label?.trim();
+    const value = item?.value?.trim();
+    if (!label) problems.push('indicador sem label');
+    else if (labels.has(label)) problems.push(`indicador repetido: ${label}`);
+    else labels.add(label);
+    if (!value) problems.push(`${label || 'indicador'}: sem value`);
+    for (const raw of [item?.label, item?.value, item?.unit, item?.note]) {
+      if (raw && /\]\(|\*\*/.test(raw)) problems.push(`${label || 'indicador'}: markdown cru em "${raw}"`);
+    }
+  }
+  if (metrics?.summary !== undefined) {
+    if (!metrics.summary.text?.trim()) problems.push('summary sem texto');
+    if (metrics.summary.badge !== undefined && (!metrics.summary.badge.trim() || /\]\(|\*\*/.test(metrics.summary.badge))) {
+      problems.push('summary.badge vazio ou com markdown');
+    }
+  }
+  return problems;
+}
+
+function getComparisonTableFilterProblems(filters: ComparisonTableFilter[], rowCount: number): string[] {
+  const problems: string[] = [];
+  if (!Array.isArray(filters) || filters.length < 2 || filters.length > 6) {
+    return [`${Array.isArray(filters) ? filters.length : 0} filtros (de 2 a 6)`];
+  }
+  const labels = new Set<string>();
+  for (const filter of filters) {
+    const label = filter?.label?.trim();
+    if (!label) problems.push('filtro sem label');
+    else if (labels.has(label)) problems.push(`filtro repetido: ${label}`);
+    else labels.add(label);
+    if (label && /\]\(|\*\*/.test(label)) problems.push(`filtro "${label}" com markdown`);
+    if (!Array.isArray(filter?.rows) || filter.rows.length === 0) {
+      problems.push(`filtro "${label || '?'}" sem linhas`);
+      continue;
+    }
+    const seen = new Set<number>();
+    for (const idx of filter.rows) {
+      if (!Number.isInteger(idx) || idx < 0 || idx >= rowCount) {
+        problems.push(`filtro "${label}": índice de linha inválido (${idx}, tabela tem ${rowCount} linhas)`);
+      } else if (seen.has(idx)) {
+        problems.push(`filtro "${label}": linha ${idx} repetida`);
+      } else {
+        seen.add(idx);
+      }
+    }
+  }
+  return problems;
+}
+
+function getChecklistProblems(checklist: ContentSectionChecklist): string[] {
+  const problems: string[] = [];
+  if (checklist?.title !== undefined && (!checklist.title.trim() || /\]\(|\*\*/.test(checklist.title))) {
+    problems.push('checklist.title vazio ou com markdown');
+  }
+  const items = Array.isArray(checklist?.items) ? checklist.items : [];
+  if (items.length < 2 || items.length > 8) problems.push(`${items.length} itens no checklist (de 2 a 8)`);
+  for (const item of items) {
+    if (typeof item !== 'string' || !item.trim()) problems.push('item vazio no checklist');
+  }
+  return problems;
+}
+
+function getSimulatorProblems(simulator: ContentSectionSimulator): string[] {
+  const problems: string[] = [];
+  if (simulator?.title !== undefined && (!simulator.title.trim() || /\]\(|\*\*/.test(simulator.title))) {
+    problems.push('simulator.title vazio ou com markdown');
+  }
+  const scenarios = Array.isArray(simulator?.scenarios) ? simulator.scenarios : [];
+  if (scenarios.length < 2 || scenarios.length > 4) problems.push(`${scenarios.length} cenários no simulador (de 2 a 4)`);
+  const labels = new Set<string>();
+  for (const sc of scenarios) {
+    const label = sc?.label?.trim();
+    if (!label) problems.push('cenário sem label');
+    else if (labels.has(label)) problems.push(`cenário repetido: ${label}`);
+    else labels.add(label);
+    if (label && /\]\(|\*\*/.test(label)) problems.push(`cenário "${label}" com markdown no label`);
+    if (!sc?.totalValue?.trim()) problems.push(`cenário "${label || '?'}": sem totalValue`);
+    if (sc?.totalLabel !== undefined && (!sc.totalLabel.trim() || /\]\(|\*\*/.test(sc.totalLabel))) {
+      problems.push(`cenário "${label || '?'}": totalLabel vazio ou com markdown`);
+    }
+    const lines = Array.isArray(sc?.lines) ? sc.lines : [];
+    if (lines.length < 1 || lines.length > 6) problems.push(`cenário "${label || '?'}": ${lines.length} linhas (de 1 a 6)`);
+    const lineLabels = new Set<string>();
+    for (const line of lines) {
+      const lineLabel = line?.label?.trim();
+      if (!lineLabel || !line?.value?.trim()) problems.push(`cenário "${label || '?'}": linha sem label ou value`);
+      else if (lineLabels.has(lineLabel)) problems.push(`cenário "${label || '?'}": linha repetida: ${lineLabel}`);
+      else lineLabels.add(lineLabel);
+      if (line?.value && /\]\(|\*\*/.test(line.value)) problems.push(`cenário "${label || '?'}": markdown em value "${line.value}"`);
+    }
+  }
+  return problems;
+}
+
+{
+  const report = (message: string) => reportError({ type: 'review', id: -1, slug: '__notebook_blocks__', message });
+  if (getMetricsProblems({ items: [{ label: 'Nota', value: '8,4', unit: '/10' }, { label: 'Solução', value: '89%' }], summary: { badge: 'Ótima', text: '120 avaliações.' } }).length !== 0) {
+    report('metrics válido acusado como inválido');
+  }
+  if (getMetricsProblems({ items: [{ label: 'Só um', value: '10' }] }).length === 0) {
+    report('metrics com 1 item passou');
+  }
+  if (getComparisonTableFilterProblems([{ label: 'Sem açúcar', rows: [0, 2] }, { label: 'Com whey', rows: [1] }], 3).length !== 0) {
+    report('comparisonTable.filters válido acusado como inválido');
+  }
+  if (getComparisonTableFilterProblems([{ label: 'Fora', rows: [3] }, { label: 'Ok', rows: [0] }], 3).length === 0) {
+    report('comparisonTable.filters com índice fora da tabela passou');
+  }
+  if (getChecklistProblems({ items: ['Abra o site.', 'Cole o código **MAUAD**.'] }).length !== 0) {
+    report('checklist válido acusado como inválido');
+  }
+  if (getChecklistProblems({ items: ['Só um item'] }).length === 0) {
+    report('checklist com 1 item passou');
+  }
+  if (
+    getSimulatorProblems({
+      scenarios: [
+        { label: 'No Pix', lines: [{ label: 'Produto', value: 'R$ 100,00' }], totalValue: 'R$ 81,00' },
+        { label: 'No cartão', lines: [{ label: 'Produto', value: 'R$ 100,00' }], totalValue: 'R$ 90,00' },
+      ],
+    }).length !== 0
+  ) {
+    report('simulator válido acusado como inválido');
+  }
+  if (getSimulatorProblems({ scenarios: [{ label: 'Único', lines: [{ label: 'Item', value: 'R$ 10' }], totalValue: 'R$ 10' }] }).length === 0) {
+    report('simulator com 1 cenário passou');
+  }
+  if (
+    getSimulatorProblems({
+      scenarios: [
+        { label: 'No Pix', lines: [{ label: 'Produto', value: 'R$ 100' }, { label: 'Produto', value: '-R$ 10' }], totalValue: 'R$ 90' },
+        { label: 'No cartão', lines: [{ label: 'Produto', value: 'R$ 100' }], totalValue: 'R$ 100' },
+      ],
+    }).length === 0
+  ) {
+    report('simulator com linha repetida no mesmo cenário passou');
+  }
 }
 
 // Os relacionados da sidebar e da gaveta do celular saem do resolveRelatedArticleLinks, com o título atual do artigo de
@@ -644,6 +794,26 @@ for (const review of reviews) {
           reportError({ type: 'review', id: review.id, slug: review.slug, message: `card de estilo em "${section.heading}": ${problem}` });
         }
       }
+      if (section.metrics) {
+        for (const problem of getMetricsProblems(section.metrics)) {
+          reportError({ type: 'review', id: review.id, slug: review.slug, message: `metrics em "${section.heading}": ${problem}` });
+        }
+      }
+      if (section.comparisonTable?.filters !== undefined) {
+        for (const problem of getComparisonTableFilterProblems(section.comparisonTable.filters, section.comparisonTable.rows.length)) {
+          reportError({ type: 'review', id: review.id, slug: review.slug, message: `filtros de tabela em "${section.heading}": ${problem}` });
+        }
+      }
+      if (section.checklist) {
+        for (const problem of getChecklistProblems(section.checklist)) {
+          reportError({ type: 'review', id: review.id, slug: review.slug, message: `checklist em "${section.heading}": ${problem}` });
+        }
+      }
+      if (section.simulator) {
+        for (const problem of getSimulatorProblems(section.simulator)) {
+          reportError({ type: 'review', id: review.id, slug: review.slug, message: `simulator em "${section.heading}": ${problem}` });
+        }
+      }
       // A página não lê itálico de markdown e mostra o asterisco: a legenda da tabela vai em
       // comparisonTable.caption. O card de estilo vai no campo styling, nunca em bullets "piece: …".
       const sectionTexts = [
@@ -652,6 +822,9 @@ for (const review of reviews) {
         ...(section.bullets || []),
         section.emphasis,
         section.comparisonTable?.caption,
+        section.metrics?.summary?.text,
+        ...(section.checklist?.items || []),
+        ...(section.simulator?.scenarios || []).flatMap((sc) => [sc.note, ...sc.lines.map((line) => line.label)]),
       ].filter((text): text is string => typeof text === 'string');
       for (const text of sectionTexts) {
         if (MARKDOWN_ITALIC.test(text)) {
