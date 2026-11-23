@@ -39,7 +39,7 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - Avaliações públicas com nota, número e fonte; tabela de medidas; composição; política de troca.
 - Contador e faixa de urgência do site são estratégia de marketing, não data de fim de promoção.
 - **Frete grátis e o cupom (23/11/2026).** Se a loja tem valor mínimo para frete grátis, o briefing traz o mínimo, a região a que ele vale e **sobre qual valor é calculado** (antes ou depois do cupom), com a fonte: política de frete, FAQ ou o carrinho. Isso muda de loja para loja e não se supõe. Com o mínimo calculado sobre o valor já com desconto, o briefing faz a conta do carrinho que mantém o frete grátis: mínimo ÷ (1 − desconto), arredondado para cima no centavo (R$ 199 com 10% pede R$ 221,12 em produtos). Sem a base confirmada, o briefing escreve "base do frete não confirmada", e o artigo dá só o mínimo, sem a conta. Vale para como usar, primeira compra, frete e vale a pena.
-- **Campanha × banner do parceiro (`content/campanhas/`):** para cada campanha citada na pauta ou em artigo reformado, conferir oferta, código, destino (`href`) e prazo (`endsAt`) tanto no texto quanto no JSON correspondente em `content/campanhas/` (`npm run test:store-banners`). Não cristalizar no artigo condição de esquenta/pré-Black com vencimento iminente sem avisar o prazo.
+- **Campanha × banner do parceiro (`content/campanhas/`):** o briefing traz o inventário dos banners da loja (`content/campanhas/<loja>-*.json`): `id`, oferta, código, `href`, `endsAt` e se vale só em PT ou nos 11 idiomas. Para cada campanha citada na pauta ou em artigo reformado, conferir oferta, código, destino (`href`) e prazo (`endsAt`) tanto no texto quanto no JSON correspondente em `content/campanhas/` (`npm run test:store-banners`). Não cristalizar no artigo condição de esquenta/pré-Black com vencimento iminente sem avisar o prazo.
 
 ### Cobrir o tema inteiro e não enfraquecer o CTA (lição da L17, 21/11/2026)
 A L17 (`lets-eat-it-loja-fisica-endereco`) saiu melhor que a da concorrente, mas fraca: o briefing resumiu a página da Casa Let's "pelo texto da página" em três ambientes, deixou de fora o pet-friendly, o concierge, o e-mail da Casa e as marcas fora do desconto presencial, e deu ao desconto da loja física um capítulo próprio. O artigo acabou destacando o canal que concorre com o nosso link e escondendo onde o site com o código ganha. Daqui em diante:
@@ -68,13 +68,22 @@ A L17 (`lets-eat-it-loja-fisica-endereco`) saiu melhor que a da concorrente, mas
 
 ### Artigo de roupa: card de estilo
 - Toda pauta de roupa ou moda propõe, por seção de peça, o card "Como usar / Ocasião / Combina com" (campo `styling` da seção; formato no CLAUDE.md do repositório). O card entra no capítulo da peça, não num bloco único no fim (decisão do Bruno, 30/10/2026).
-- O briefing diz quais capítulos levam o card. Artigo de loja de roupa que não trata das peças (reputação, cupom) não leva, e o briefing diz isso.
+- O briefing diz quais capítulos levam o card, e os capítulos de peça entram em `scripts/styling-required.json` (o Job 4 confere). Artigo de loja de roupa que não trata das peças (reputação, cupom) não leva, e o briefing diz isso.
 - Por seção: o modelo (`tabs`, um card por peça com uma aba por campo, ou `tags`, as peças lado a lado com tudo à vista) e de 1 a 3 peças. Por peça: como usar, ocasião e combina com (1 a 4 itens: peça da loja com o link de afiliado dela e nota opcional, ou básico do armário sem link). Cores (`variants`, com o hex da cor) só quando a cor muda a combinação.
 - Como usar diz como vestir, não repete a ficha. Combina com só leva o que acrescenta: nada de chinelo ou meia genéricos; sem combinação útil, a peça fica só com como usar e ocasião (acessórios, pijamas, roupa íntima).
 - Sem preço e sem markdown no card. Sem dizer que alguém do site usou a peça.
 - Link da peça é o de afiliado (na Insider, o link de criador `creators.insiderstore.com.br/<código>`, conferido pelo redirecionamento até o produto certo). Peça sem link fica sem `url`; esgotada fica fora do card.
 - Família de 11 idiomas: o mesmo card e o mesmo `href` em toda versão, na mesma seção e posição; como usar, ocasião e nota traduzidos. Na SHEIN, o link de produto vale em todo idioma, `onelink.shein.com` ou `br.shein.com` (a SHEIN leva o leitor à loja regional; regra de 02/11); os links de cupom do PT ficam só no PT. O `test:review-i18n` barra a diferença.
 - O briefing traz o card proposto de cada seção para o Bruno aprovar junto com a pauta.
+
+### Estrutura prevista no briefing
+Guia e comparativo chegam à redação com a estrutura decidida. O briefing diz:
+- **`decision`:** o quadro "Leve se / Passe se" previsto em todo guia e comparativo, `como-usar`, `primeira-compra` e `black-friday` inclusos. Só não vale em `reviewKind: "produto"`, que tem prós e contras. Com mais de um perfil de leitor, já aparecem no briefing as frases de para quem serve e quando não.
+- **`emphasis`:** o cartão assinado do veredito (no máximo um, no capítulo de conclusão): qual julgamento da Cecília ele leva.
+- **`section.links[]`:** os links do corpo que viram lista de links da seção (com `href`, `sponsored` e, em artigo de várias lojas, `store`).
+- **`accordionBlock`:** lista longa ou conteúdo de consulta (regras, tamanhos, perguntas de checkout) que cabe recolhido, para não alongar o capítulo.
+- **`styling`:** em Moda, os capítulos de peça com o card e a entrada deles em `scripts/styling-required.json` (seção "Artigo de roupa").
+- **CTA:** o `ArticleStoreBlock` ignora `cta.text` e `cta.label` quando a loja está ativa. Toda instrução de checkout que o leitor precisa (onde colar o código, mínimo, o que não soma) entra no corpo do artigo; o briefing não conta com o botão para dizer isso.
 
 ### Snippet com o código
 - Todo artigo em português com `coupon` leva `metaDescription`, e o briefing já a propõe no campo `meta_description`. Quem busca a loja muitas vezes compra sem clicar: o código tem de aparecer no snippet do Google.
