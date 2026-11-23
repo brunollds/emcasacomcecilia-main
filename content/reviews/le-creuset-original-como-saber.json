@@ -16,11 +16,11 @@
   },
   "publishedAt": "26 de outubro de 2026",
   "publishedAtISO": "2026-10-26",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "description": "Para comprar Le Creuset, confira o vendedor nos canais da marca e guarde a nota fiscal. Veja o alerta oficial e os limites da conferência por origem, selo ou gravação.",
-  "metaDescription": "Existe Le Creuset falsa? Veja o alerta da marca, a origem na ficha (France ou Tailândia), a garantia e onde comprar original (26/10/2026).",
+  "metaDescription": "MAUAD dá 5% OFF na Let's Eat It. Existe Le Creuset falsa? Veja o alerta da marca, a origem na ficha, a garantia e onde comprar original.",
   "image": "/images/reviews/letseatit/le-creuset-original-como-saber-capa-v2.webp",
   "imageAlt": "Panela vermelha Le Creuset Signature apoiada sobre caixas vermelhas da marca em foto oficial da loja parceira.",
   "imageFit": "contain",
@@ -28,7 +28,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "A Let's Eat It é revendedora credenciada pela Le Creuset Brasil. Acesse o site da loja e aproveite o cupom MAUAD para economizar em peças originais.",
+    "text": "A Let's Eat It aparece no localizador oficial de lojas da Le Creuset Brasil. Acesse o site e use o cupom MAUAD para 5% OFF em todas as formas de pagamento.",
     "label": "Ir para a Let's Eat It",
     "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
     "sponsored": true
@@ -41,28 +41,31 @@
       "slug": "le-creuset-qual-tamanho-escolher"
     },
     {
-      "slug": "lets-eat-it-e-confiavel"
+      "slug": "le-creuset-vale-a-pena"
     },
     {
-      "slug": "le-creuset-vale-a-pena"
+      "slug": "le-creuset-travessa-qual-escolher"
+    },
+    {
+      "slug": "black-friday-letseatit"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo para autenticar a peça; na dúvida, o SAC da marca ajuda. No site da Let's Eat It, o código MAUAD dá 5%."
+        "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo; na dúvida, o SAC da marca ajuda. No site da Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF."
       ]
     },
     {
-      "heading": "Existe Le Creuset falsa? O que a marca publica",
+      "heading": "O alerta da Le Creuset Brasil sobre falsas promoções",
       "paragraphs": [
         "A marca tem uma página de alerta com o título \"Alerta Importante! Falsas promoções e anúncios de produtos da marca Le Creuset®\". Ela diz que a Le Creuset Brasil tomou conhecimento de anúncios em mídias sociais e em páginas da internet que divulgam falsas promoções e descontos. A página não tem data.",
         "O que o alerta orienta, em resumo:"
       ],
       "bullets": [
-        "Os canais oficiais são o site da marca, as lojas próprias e os revendedores credenciados e parceiros autorizados, que o site manda consultar.",
-        "Oferta que não vem do site oficial, de e-mail com a extensão \"@lecreuset.com\" ou de parceiro autorizado não é de canal oficial.",
+        "Os canais oficiais são o site da marca, as lojas próprias e os parceiros que o site manda consultar.",
+        "Oferta que não vem do site oficial, de e-mail com a extensão \"@lecreuset.com\" ou de um parceiro da marca não é de canal oficial.",
         "Não clique em link nem abra anexo de anúncio ou e-mail suspeito.",
         "Em caso de dúvida, procure o SAC da Le Creuset Brasil."
       ],
@@ -114,17 +117,10 @@
       "postParagraphs": [
         "O país de origem é um dado de cada produto, não da marca inteira. A caçarola de ferro fundido diz France, a mini cocotte de cerâmica diz Tailândia. Uma peça de cerâmica com origem na Tailândia pode ser original, porque é isso que a ficha da própria marca informa. Na frigideira, o campo de origem nem aparece.",
         "Um cuidado ao ler as páginas: o texto da garantia vitalícia do ferro fundido se repete até na frigideira de cerâmica. O que vale para a peça é a linha \"Garantia\" da tabela de atributos dela."
-      ],
-      "image": {
-        "src": "/images/reviews/letseatit/le-creuset-fichas-material-origem-garantia.webp",
-        "alt": "Quadro com material, país de origem e garantia de três peças Le Creuset: buffet de ferro fundido (France, vitalícia), mini cocotte de cerâmica (Tailândia, 10 anos) e frigideira Essential (sem origem na ficha, 10 anos)",
-        "caption": "Dados das fichas do site da Le Creuset Brasil. Quadro nosso.",
-        "objectFit": "contain",
-        "aspectRatio": 1.9672
-      }
+      ]
     },
     {
-      "heading": "A garantia vale em qualquer loja? Como acionar",
+      "heading": "Garantia da Le Creuset: qualquer loja e como acionar",
       "paragraphs": [
         "A marca diz que a Central de Atendimento oferece suporte e análise de garantia para \"qualquer produto Le Creuset independentemente do país ou canal de compra\". É o texto da marca: ele fala em análise, não em aceite garantido.",
         "Para acionar:"
@@ -143,13 +139,13 @@
     {
       "heading": "Onde comprar Le Creuset original",
       "paragraphs": [
-        "A Le Creuset Brasil lista seus canais oficiais nas páginas de alerta e de devoluções: o site oficial, as lojas físicas próprias, a Prateleira Infinita (pedido on-line feito com o vendedor dentro de uma loja física), o bazar anual, os outlets e os revendedores credenciados e parceiros autorizados. As lojas próprias ficam em shoppings de várias cidades, a maioria capitais, com endereços e horários na página Lojas Oficiais do site da marca.",
-        "Para conferir um revendedor, a marca mantém um localizador chamado \"Revendedor Autorizado\". O caminho é lecreuset.com.br/lojas. Em 26/10/2026, ele trazia cerca de 200 pontos, a maioria revendedores, e 2 outlets.",
+        "A Le Creuset Brasil lista seus canais oficiais nas páginas de alerta e de devoluções: o site oficial, as lojas físicas próprias, a Prateleira Infinita (pedido on-line feito com o vendedor dentro de uma loja física), o bazar anual, os outlets e os parceiros que a marca lista no localizador. As lojas próprias ficam em shoppings de várias cidades, a maioria capitais, com endereços e horários na página Lojas Oficiais do site da marca.",
+        "Para conferir um parceiro, a marca mantém um localizador de lojas. O caminho é lecreuset.com.br/lojas. Em 26/10/2026, ele trazia cerca de 200 pontos, a maioria parceiros, e 2 outlets.",
         "Como usar: busque pela sua cidade antes de comprar numa loja que você não conhece e veja se ela aparece. Estar na lista diz que a loja é um canal listado pela marca. Não diz a origem de cada peça, que está na ficha e na nota fiscal, e a lista muda, por isso vale olhar de novo na hora da compra."
       ],
       "image": {
         "src": "/images/reviews/letseatit/le-creuset-localizador-revendedor-autorizado-2610.webp",
-        "alt": "Localizador Revendedor Autorizado da Le Creuset Brasil com o mapa dos pontos de venda e a busca por Serra, ES, que traz a Let's Eat It como Wholesale Partner",
+        "alt": "Localizador de lojas da Le Creuset Brasil com o mapa dos pontos de venda e a busca por Serra, ES, que traz a Let's Eat It como Wholesale Partner",
         "caption": "O localizador de revendedores da Le Creuset Brasil: o mapa e a busca por Serra (ES). Montagem nossa com dois prints.",
         "objectFit": "contain",
         "aspectRatio": 0.8702
@@ -163,31 +159,72 @@
       ]
     },
     {
-      "heading": "E a Let's Eat It?",
+      "heading": "A Let's Eat It no localizador e o cupom",
       "paragraphs": [
-        "A Let's Eat It aparece no localizador como revendedor autorizado (\"Wholesale Partner\"), em Serra (ES), listada pela Le Creuset Brasil. Para a reputação e as políticas da loja, veja [a Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel). Para escolher o tamanho e ver os preços, leia o artigo irmão [Le Creuset: qual tamanho escolher](/reviews/le-creuset-qual-tamanho-escolher). O desconto da parceria está na [página do cupom da Let's Eat It](/cupons/letseatit)."
+        "A Let's Eat It aparece no localizador de lojas da Le Creuset Brasil como Wholesale Partner, em Serra (ES). No site, a [coleção Le Creuset](https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem peças como a [Panela Redonda Signature Azure Blue de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de R$ 2.329 de tabela por R$ 1.746,75 na promoção de novembro, e a [Caçarola Buffet Signature Sage de 30 cm](https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), de R$ 2.999 por R$ 2.249,25. Em novembro, várias cores têm 25% de desconto sobre a tabela; as outras seguem sem desconto.",
+        "O [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF em todas as formas de pagamento e soma com as promoções e com os 5% do Pix. No checkout, cole o código no campo \"Código de desconto\". Sobre os R$ 1.746,75 da Azure Blue, são R$ 1.659,41 com o cupom e R$ 1.576,44 com o Pix (conta nossa, sem frete; o cupom entra primeiro).",
+        "Para escolher o tamanho, leia [Le Creuset: qual tamanho escolher](/reviews/le-creuset-qual-tamanho-escolher); para travessas, [qual travessa Le Creuset escolher](/reviews/le-creuset-travessa-qual-escolher)."
+      ],
+      "links": [
+        {
+          "label": "Ver a Redonda Signature Azure Blue 20 cm na Let's Eat It",
+          "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a caçarola buffet Sage 30 cm na Let's Eat It",
+          "href": "https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a coleção Le Creuset na Let's Eat It",
+          "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/letseatit/le-creuset-redonda-azure-20cm-mesa.webp",
+          "alt": "Panela Le Creuset Redonda Signature Azure 20 cm sobre a mesa",
+          "caption": "Redonda Signature Azure 20 cm. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
       ]
     },
     {
       "heading": "O que conferir antes de comprar",
       "bullets": [
-        "Confira o canal no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, antes de comprar numa loja nova para você.",
+        "Confira o canal no localizador de lojas da Le Creuset Brasil, em lecreuset.com.br/lojas, antes de comprar numa loja nova para você.",
         "Desconfie de oferta fora dos canais oficiais, como diz o alerta da marca.",
         "Guarde a nota fiscal: é o comprovante que a marca pede para analisar a garantia.",
         "Leia na página da peça o material, o país de origem e a garantia da linha, porque variam por produto.",
         "Em outlet e bazar, que são lojas físicas, a marca não aceita troca nem devolução por desistência depois da venda; defeito de fabricação segue pela garantia."
-      ]
+      ],
+      "emphasis": "Compre de um canal que a própria Le Creuset lista, guarde a nota fiscal e leia a ficha da peça: é isso que protege a garantia."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Existe Le Creuset falsa? A Le Creuset Brasil publicou um alerta sobre falsas promoções e descontos em mídias sociais e em páginas da internet. Ela pede atenção a qualquer oferta que não venha dos canais oficiais: o site da marca, e-mail com \"@lecreuset.com\" ou um parceiro autorizado.",
+        "Existe Le Creuset falsa? A Le Creuset Brasil publicou um alerta sobre falsas promoções e descontos em mídias sociais e em páginas da internet. Ela pede atenção a qualquer oferta que não venha dos canais oficiais: o site da marca, e-mail com \"@lecreuset.com\" ou um parceiro da marca.",
+        "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
         "Le Creuset é made in France ou Tailândia? Depende do produto. Na ficha da caçarola buffet de ferro fundido, o país de origem é France. Na da mini cocotte de cerâmica, é Tailândia. Nenhuma das três fichas traz China.",
         "Le Creuset tem número de série para conferir? Não: as páginas brasileiras da marca não trazem guia de número de série, gravação ou selo. Em caso de dúvida sobre uma peça, procure o SAC da marca.",
         "A garantia da Le Creuset vale se eu comprei em outra loja? Segundo a marca, a análise de garantia vale para qualquer produto Le Creuset, independentemente do país ou do canal de compra. Guarde a nota fiscal ou outro comprovante de propriedade.",
         "O outlet da Le Creuset vende peça original? O outlet é loja oficial da marca. Vende seconds, B-grade e modelos descontinuados, com pequenas variações, sem troca nem devolução por desistência depois da venda na loja física, e com garantia para defeito de fabricação.",
-        "Como saber se uma loja é revendedora autorizada da Le Creuset? Procure a loja no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, buscando pela cidade. A lista é da própria Le Creuset Brasil."
+        "Como saber se uma loja é canal da Le Creuset Brasil? Procure a loja no localizador de lojas, em lecreuset.com.br/lojas, buscando pela cidade. A lista é da própria Le Creuset Brasil."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você vai comprar Le Creuset de uma loja nova e quer um jeito de confirmar o canal antes de pagar.",
+      "Você quer saber a quem recorrer se a peça chegar com defeito ou avaria."
+    ],
+    "skipIf": [
+      "Você procura um selo ou número de série para autenticar a peça: a marca não publica esse caminho no Brasil.",
+      "Você pretende comprar em anúncio que não aparece nos canais oficiais da marca."
+    ]
+  }
 }

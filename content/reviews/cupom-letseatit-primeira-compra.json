@@ -17,7 +17,7 @@
   "metaDescription": "MAUAD dá 5% OFF no site da Let's Eat It na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções do site.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/letseatit/cupom-letseatit-primeira-compra-capa-v2.webp",
@@ -40,7 +40,10 @@
       "slug": "cupom-mauad-lets-eat-it-como-usar"
     },
     {
-      "slug": "lets-eat-it-e-confiavel"
+      "slug": "black-friday-letseatit"
+    },
+    {
+      "slug": "lets-eat-it-e-boa"
     }
   ],
   "contentSections": [
@@ -53,8 +56,8 @@
     {
       "heading": "Cupom Let's Eat It primeira compra: qual usar",
       "paragraphs": [
-        "A Let's Eat It vende panelas, louças e utensílios de cozinha na sua loja online. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel).",
-        "Use o MAUAD: 5% OFF nas compras no site oficial, no primeiro pedido e nos seguintes. Ele soma com as promoções do site.",
+        "A Let's Eat It vende panelas, louças e utensílios de cozinha no [site oficial](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). Para o primeiro pedido, a regra é uma só.",
+        "Use o MAUAD: 5% OFF nas compras no site oficial, no primeiro pedido e nos seguintes, em todas as formas de pagamento. Ele soma com as promoções do site. Serve para completar a mesa ou escolher um presente no pedido seguinte.",
         "É o [cupom Let's Eat It](/cupons/letseatit) da nossa parceria com a loja, testado no checkout. Panela, louça ou presente: o código é o mesmo."
       ]
     },
@@ -65,7 +68,7 @@
       ],
       "bullets": [
         "**No checkout, não no carrinho.** O campo “Código de desconto” fica no resumo do pedido, na finalização da compra. No celular, abra o resumo se ele estiver recolhido.",
-        "**Só no site oficial.** A Let's Eat It não tem aplicativo, e o código não vale no Mercado Livre.",
+        "**Só no site oficial.** A Let's Eat It não tem aplicativo, e o código não vale no Mercado Livre nem na loja física Casa Let's.",
         "**Frete à parte.** O frete aparece na etapa seguinte do checkout e é calculado para o CEP informado."
       ],
       "postParagraphs": [
@@ -103,7 +106,7 @@
         ]
       },
       "postParagraphs": [
-        "Os 5% saíram do preço promocional. Nos produtos em que a loja marca desconto no Pix, ele soma com o código: escolha o Pix no pagamento e confira o total."
+        "Os 5% saíram do preço promocional. Nos produtos em que a loja marca 5% de desconto no Pix, ele soma com o código: os dois juntos dão cerca de 9,75% sobre o preço de tabela. Escolha o Pix no pagamento e confira o total."
       ],
       "images": [
         {
@@ -113,12 +116,13 @@
           "objectFit": "square",
           "href": "https://letseatit.com.br/products/pote-ceramica-com-tampa-de-madeira-scand-black-onyx-1-1l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
         }
-      ]
-    },
-    {
-      "heading": "E na segunda compra?",
-      "paragraphs": [
-        "O MAUAD vale de novo para quem já comprou, com os mesmos 5%. Serve para completar a mesa ou escolher um presente no pedido seguinte."
+      ],
+      "links": [
+        {
+          "label": "Ver o pote Le Creuset na Let's Eat It",
+          "href": "https://letseatit.com.br/products/pote-ceramica-com-tampa-de-madeira-scand-black-onyx-1-1l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -138,17 +142,36 @@
       "imageAlt": "Resumo do pedido na Let's Eat It: subtotal de R$ 3.582,10, desconto MAUAD de R$ 179,10, frete calculado na próxima etapa e total de R$ 3.403,00.",
       "imageCaption": "O MAUAD aplicado no resumo do pedido, em outro carrinho de teste: a linha do desconto aparece antes do frete.",
       "imageFit": "contain",
-      "imageAspectRatio": 2.686
+      "imageAspectRatio": 2.686,
+      "emphasis": "O MAUAD vale na primeira compra e em todas as seguintes, então não há por que guardá-lo: cole no resumo do checkout e confira a linha do desconto antes de pagar.",
+      "links": [
+        {
+          "label": "Ir para a Let's Eat It",
+          "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como conseguir desconto na primeira compra na Let's Eat It? O MAUAD dá 5% no site oficial, no primeiro pedido e nos seguintes.",
+        "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento, no primeiro pedido e nos seguintes. Cole no campo “Código de desconto” do checkout. Veja o [cupom Let's Eat It](/cupons/letseatit).",
+        "Como conseguir desconto na primeira compra na Let's Eat It? Aplique o MAUAD no resumo do pedido, antes de pagar.",
         "Qual cupom Let's Eat It vale para quem já é cliente? O mesmo MAUAD, com os mesmos 5%.",
         "O cupom Let's Eat It soma com produto em promoção? Sim. Os 5% entram sobre o preço promocional.",
         "O cupom Let's Eat It vale no Mercado Livre? Não. Ele vale no site oficial da Let's Eat It.",
         "Onde colar o cupom na Let's Eat It? No checkout, no campo “Código de desconto” do resumo do pedido."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Use o MAUAD se o primeiro pedido tem panela, louça ou presente no site oficial: os 5% entram até sobre o preço promocional.",
+      "Use de novo em cada pedido seguinte: o código vale também para quem já comprou."
+    ],
+    "skipIf": [
+      "Passe o MAUAD se a compra vai ser pelo Mercado Livre: lá o código não vale.",
+      "Passe o código se o pedido é na Casa Let's, a loja física: ele só vale no site."
+    ]
+  }
 }

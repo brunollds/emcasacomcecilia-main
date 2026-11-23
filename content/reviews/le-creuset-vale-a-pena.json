@@ -17,7 +17,7 @@
   "metaDescription": "Le Creuset vale a pena com o cupom MAUAD de 5% OFF? Indução, forno por tipo de puxador, lava-louças, micro-ondas e a comparação com a Staub.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/letseatit/le-creuset-vale-a-pena-capa-v2.webp",
@@ -26,9 +26,9 @@
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "Resposta rápida: Le Creuset vale a pena?",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "Vale para quem vai usar uma panela de ferro fundido no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. No site da Let's Eat It, o código MAUAD dá 5%."
+        "Vale para quem usa panela de ferro fundido no fogão, inclusive na indução, e no forno, e aceita os cuidados com o esmalte. Ela não vai ao micro-ondas, e a garantia vitalícia não cobre choque térmico nem queda. No site da Let's Eat It, o [cupom Let's Eat It](/cupons/letseatit) MAUAD dá 5% OFF."
       ]
     },
     {
@@ -52,7 +52,8 @@
         "alt": "Panela Redonda Signature da Le Creuset na cor Cotton vista de cima, com as duas alças de ferro fundido e o puxador de aço inox na tampa",
         "caption": "Redonda Signature Cotton com alças de ferro fundido e puxador de aço inox na tampa. Confira o limite de forno do conjunto na documentação desse modelo.",
         "objectFit": "contain",
-        "aspectRatio": 1.3333
+        "aspectRatio": 1.3333,
+        "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
       }
     },
     {
@@ -123,17 +124,18 @@
       ]
     },
     {
-      "heading": "Onde comprar: Let's Eat It",
+      "heading": "Onde comprar Le Creuset: Let's Eat It",
       "paragraphs": [
-        "A Let's Eat It aparece no localizador oficial de lojas da Le Creuset Brasil. Em 12/10/2026, a Panela Redonda Signature de 20 cm saía por R$ 2.329, e a de 28 cm, por R$ 3.429, nas cores de preço padrão; cores como Château e Flamme Dorée custam mais. Os preços por data estão no nosso guia de Black Friday da loja.",
-        "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset. No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD e vale também para a Le Creuset."
+        "A Let's Eat It aparece no localizador oficial de lojas da Le Creuset Brasil. O preço de tabela da [Panela Redonda Signature de 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) é R$ 2.329, e em novembro várias cores têm 25% de desconto sobre a tabela: na Azure Blue, R$ 1.746,75. Outras cores seguem sem desconto, e cores como Château e Flamme Dorée custam mais. Os preços por tamanho estão no nosso [guia de Black Friday da loja](/reviews/black-friday-letseatit).",
+        "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset. No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% OFF com o código MAUAD, em todas as formas de pagamento, e vale também para a Le Creuset: cole o código no campo \"Código de desconto\" do checkout. Sobre os R$ 1.746,75 da Azure Blue, são R$ 1.659,41 com o cupom e R$ 1.576,44 com o Pix (conta nossa, sem frete; o cupom entra primeiro)."
       ],
       "images": [
         {
           "src": "/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp",
           "alt": "Página da Le Creuset na Let's Eat It, com as categorias de panelas, utensílios e canecas e a escolha por cor",
           "caption": "A página da Le Creuset na Let's Eat It.",
-          "objectFit": "contain"
+          "objectFit": "contain",
+          "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
         },
         {
           "src": "/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp",
@@ -144,12 +146,18 @@
       ],
       "links": [
         {
-          "label": "Black Friday Let's Eat It 2026: preços de Le Creuset",
-          "href": "/reviews/black-friday-letseatit"
+          "label": "Ver a Redonda Signature Azure Blue 20 cm na Let's Eat It",
+          "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
         },
         {
-          "label": "Let's Eat It é confiável?",
-          "href": "/reviews/lets-eat-it-e-confiavel"
+          "label": "Ver a coleção Le Creuset na Let's Eat It",
+          "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+          "sponsored": true
+        },
+        {
+          "label": "Black Friday Let's Eat It 2026: preços de Le Creuset",
+          "href": "/reviews/black-friday-letseatit"
         },
         {
           "label": "Cupom da Let's Eat It",
@@ -158,21 +166,22 @@
       ]
     },
     {
-      "heading": "Vale a pena?",
+      "heading": "O que a Le Creuset entrega pelo preço",
       "paragraphs": [
         "Pelo que a marca publica, vale para quem cozinha no fogão ou na indução, usa o forno e aceita os cuidados: calor médio ou baixo, nada de micro-ondas e nada de água fria na panela quente, porque a garantia vitalícia não cobre choque térmico nem queda."
       ],
-      "emphasis": "Se o preparo exigisse forno acima de 200 °C, eu consideraria a Signature com puxador fenólico, cujo limite é de 250 °C. Confirmaria também o limite da tampa e do conjunto escolhido.",
+      "emphasis": "A Le Creuset vale a pena para quem usa fogão ou indução e forno toda semana e aceita os cuidados com o esmalte; quem quer micro-ondas ou lava-louças diária deve olhar outra panela.",
       "bullets": [
         "Vale para quem quer ferro fundido esmaltado para fogão, indução e forno, respeitando a temperatura máxima do conjunto escolhido. Se o seu forno passa de 200 °C, prefira a Signature (fenólico até 250 °C) ou um modelo com puxador de inox, e confira a tampa e o limite do conjunto completo.",
         "Pense melhor: quer usar no micro-ondas, ou vai à lava-louças sempre e não aceita que o acabamento possa desbotar.",
-        "O preço pesa: a Redonda Signature de 20 cm custava R$ 2.329 e a de 28 cm, R$ 3.429, nas cores de preço padrão. Confira a oferta atual na loja."
+        "O preço pesa: a Redonda Signature de 20 cm tem preço de tabela de R$ 2.329 e, nas cores com 25% de desconto em novembro, R$ 1.746,75. Confira a oferta atual na loja."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Le Creuset vale a pena? Vale para quem vai usar a panela no fogão e no forno e aceita os cuidados: melhores resultados no calor médio ou baixo, nada de micro-ondas e uma garantia vitalícia que não cobre choque térmico nem queda.",
+        "Qual é o cupom da Let's Eat It? É o MAUAD, com 5% OFF no site oficial da Let's Eat It, em todas as formas de pagamento. Cole o código no campo \"Código de desconto\" do checkout; as condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
         "Le Creuset pode ir na indução? As panelas de ferro fundido esmaltado deste guia podem, segundo a marca. Outras linhas usam materiais diferentes e precisam ser conferidas na ficha correspondente.",
         "Le Creuset pode ir no forno? O ferro fundido deste guia pode ir ao forno, respeitado o limite de cada conjunto: confira panela, tampa e puxador na documentação do modelo.",
         "Le Creuset pode ir na lava-louças? Para o ferro fundido esmaltado deste guia, a marca permite; a lavagem constante pode desbotar o acabamento, o que a marca diz não ser prejudicial. Peças com madeira não vão à lava-louças.",
@@ -183,18 +192,8 @@
       ]
     }
   ],
-  "pros": [
-    "Vai a todas as fontes de calor, inclusive à indução",
-    "Uso no forno conforme o limite da panela, da tampa e do puxador do modelo escolhido",
-    "Garantia vitalícia",
-    "Não precisa de cura antes do primeiro uso"
-  ],
-  "cons": [
-    "Não vai ao micro-ondas",
-    "A garantia não cobre choque térmico nem queda",
-    "A lavagem constante na lava-louças pode desbotar o acabamento do esmalte",
-    "Na Let's Eat It, a Redonda Signature de 20 cm custava R$ 2.329 em 12/10/2026"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "Confira as panelas Le Creuset na Let's Eat It e aplique MAUAD no carrinho para 5% OFF, conforme as condições da loja.",
     "label": "Ir para a Let's Eat It",
@@ -218,7 +217,10 @@
       "slug": "black-friday-letseatit"
     },
     {
-      "slug": "lets-eat-it-e-confiavel"
+      "slug": "le-creuset-qual-tamanho-escolher"
+    },
+    {
+      "slug": "le-creuset-original-como-saber"
     },
     {
       "slug": "porto-brasil-e-boa"
