@@ -32,25 +32,10 @@
       ]
     },
     {
-      "heading": "Como a conta é feita",
-      "paragraphs": [
-        "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. A comparação usa os preços do site da Probiótica, sem cupom, por 100 g de produto e por porção do rótulo.",
-        "A porção e o número de doses vêm da tabela nutricional na imagem de cada produto. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
-          "alt": "Caixa da Creatina Monodose da Probiótica aberta, com os 30 sachês de 5 g e um sachê à frente",
-          "caption": "Creatina Monodose, 30 sachês de 5 g. Imagem: Probiótica.",
-          "objectFit": "contain",
-          "aspectRatio": 1.0135
-        }
-      ]
-    },
-    {
       "heading": "Creatina: pote contra monodose, por 100 g e por dose",
       "paragraphs": [
-        "Preços de 28/10/2026, no site da Probiótica, sem cupom. A porção e o número de doses são os da tabela nutricional de cada ficha."
+        "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço: nos três produtos, a tabela nutricional diz porção de 5 g com 5.000 mg de creatina, e a comparação usa o preço do site, sem cupom, por 100 g de produto e por porção.",
+        "Preços de 28/10/2026, no site da Probiótica, no cartão e sem cupom. A porção e o número de doses são os da tabela nutricional de cada ficha."
       ],
       "comparisonTable": {
         "headers": [
@@ -86,13 +71,22 @@
             "R$ 46,59",
             "R$ 2,33"
           ]
-        ]
+        ],
+        "caption": "Conta nossa: por 100 g, preço ÷ gramas do pote × 100; por dose, preço ÷ doses."
       },
       "postParagraphs": [
         "A monodose custa 133% a mais por grama que o pote de 300 g (R$ 46,59 contra R$ 19,97 por 100 g) e 37% a mais que o pote de 100 g (R$ 33,89). Por dose, são R$ 2,33 no sachê, R$ 1,69 no pote pequeno e R$ 1,00 no pote de 300 g, que estava de R$ 75,10 por R$ 59,90.",
         "Com o cupom PRO10EMCASACOMCECILIA, até 10% (pode ser menos em alguns produtos), a conta muda, mas a ordem não: com os 10% cheios, o pote de 300 g iria a R$ 53,91 e a monodose a R$ 62,90. As regras do cupom estão em \"Cupom da Probiótica\"."
       ],
       "images": [
+        {
+          "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+          "alt": "Caixa da Creatina Monodose da Probiótica aberta, com os 30 sachês de 5 g e um sachê à frente",
+          "caption": "Creatina Monodose, 30 sachês de 5 g. Imagem: Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 1.0135,
+          "href": "https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+        },
         {
           "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
           "alt": "Tabela nutricional da Creatina Monodose da Probiótica: porção de 5 g (1 sachê) com 5.000 mg de creatina",
@@ -133,14 +127,22 @@
           "alt": "Pote de 300 g da Creatina Monohidratada da Probiótica",
           "caption": "Creatina Monohidratada Pura, pote de 300 g. Imagem: Probiótica.",
           "objectFit": "contain",
-          "aspectRatio": 0.899
+          "aspectRatio": 0.899,
+          "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Creatina Monodose na Probiótica",
+          "href": "https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true
         }
       ]
     },
     {
       "heading": "Cupom da Probiótica",
       "paragraphs": [
-        "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica. O percentual varia por produto, e nem todo item recebe os 10%. O cupom soma com as promoções do site e vale em todas as formas de pagamento. O passo a passo no carrinho está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras, na [página do cupom Probiótica](/cupons/probiotica)."
+        "O PRO10EMCASACOMCECILIA dá até 10% OFF no site da Probiótica. O percentual varia por produto, e nem todo item recebe os 10%. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\" no resumo. Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções do site e com o desconto do Pix. Nos testes de novembro, o desconto nas creatinas foi de 2%: a conta com 10% é o teto, e a ordem entre sachê e pote não muda. O passo a passo está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras, na [página do cupom Probiótica](/cupons/probiotica)."
       ]
     },
     {
@@ -159,10 +161,10 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; nas creatinas, o desconto medido nos testes de novembro foi de 2%. As regras estão na página do [cupom Probiótica](/cupons/probiotica).",
         "Creatina monodose da Probiótica vale a pena? Pelo preço da tabela acima, o sachê sai a R$ 2,33 por porção de 5 g, contra cerca de R$ 1 no pote de 300 g. A diferença é de R$ 1,33 por porção; escolha o sachê se a conveniência justificar esse custo para você.",
         "A creatina monodose tem a mesma dose do pote? Pelo rótulo, sim: a tabela do sachê diz porção de 5 g com 5.000 mg de creatina, a mesma dos potes de 300 g e de 100 g.",
         "Quantos sachês vêm na creatina monodose da Probiótica? São 30 sachês de 5 g, 150 g no total, por R$ 69,89.",
-        "Qual é o cupom da Probiótica para a creatina? O PRO10EMCASACOMCECILIA, de até 10%, com o percentual variando por produto. Soma com as promoções do site e vale em todas as formas de pagamento.",
         "Whey em sachê da Probiótica compensa? Este guia trata só da creatina. O whey, com o perfil de quem compra em sachê, está no guia de melhor whey por objetivo."
       ]
     }
@@ -186,7 +188,17 @@
       "slug": "cupom-probiotica-como-usar"
     },
     {
-      "slug": "probiotica-e-confiavel"
+      "slug": "whey-probiotica-qual-escolher"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Leve o pote de 300 g se você toma uma porção por dia em casa e quer o menor preço por dose.",
+      "Leve a monodose se a dose já separada, para a bolsa ou para viagem, vale para você pagar mais que o dobro por dose."
+    ],
+    "skipIf": [
+      "Passe na monodose se o preço por dose decide: o sachê custa mais que o dobro do pote de 300 g.",
+      "Passe no pote de 100 g se vai tomar a creatina por mais de um mês: o de 300 g sai mais barato por dose."
+    ]
+  }
 }

@@ -14,28 +14,18 @@
     "url": "/sobre"
   },
   "description": "Guia de Black Friday da Dr. Peanut: qual pote, combo ou snack escolher, quanto sai com o cupom DREMCASACOMCECILIA e quando o desconto tira o frete grátis do pedido.",
-  "metaDescription": "DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Black Friday 2026: qual pote, combo ou snack escolher e o mínimo de frete do pedido.",
+  "metaDescription": "DREMCASACOMCECILIA dá 10% OFF na Dr. Peanut e soma com as promoções do mês. Veja qual pote, combo ou snack escolher e o frete grátis.",
   "publishedAt": "15 de outubro de 2026",
   "publishedAtISO": "2026-10-15",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-v2.webp",
   "imageAlt": "Display de Doctor Bar Alfajor da Dr. Peanut, em recorte da fotografia usada na capa anterior do próprio artigo.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento",
-    "Soma com as promoções do site: vale nos potes e nos combos que já estão com desconto",
-    "No checkout, os 3% do Pix entraram sobre o valor já com o cupom",
-    "Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul"
-  ],
-  "cons": [
-    "Em novembro, o site não tinha datas, produtos nem preços de Black Friday identificados",
-    "O desconto do cupom pode deixar o pedido abaixo do mínimo do frete grátis",
-    "No Centro-Oeste, Nordeste e Norte, o frete grátis só começa em R$ 199,90",
-    "A página da assinatura não diz se o cupom se repete nas cobranças seguintes"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "Entre no site da Dr. Peanut e digite o DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site. Confira a linha \"Descontos\" antes de pagar.",
     "label": "Ir para a Dr. Peanut",
@@ -50,34 +40,34 @@
       "slug": "cupom-dr-peanut-como-usar"
     },
     {
-      "slug": "dr-peanut-e-confiavel"
+      "slug": "dr-peanut-qual-tamanho-compensa"
     },
     {
-      "slug": "dr-peanut-reclame-aqui-nota-reputacao"
+      "slug": "snacks-dr-peanut-qual-escolher"
     }
   ],
   "bodyDatesReason": "campanha",
   "contentSections": [
     {
-      "heading": "Resposta rápida: Black Friday Dr. Peanut 2026",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "Em meados de novembro, a Dr. Peanut seguia sem campanha de Black Friday identificada, com os potes e os combos nos preços de outubro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções e com os 3% do Pix. Para provar sabores, os combos de 250 g; para repor, os de 600 g."
+        "A Dr. Peanut não tem página de Black Friday: a campanha de novembro é o Doctor November. O [cupom Dr. Peanut](/cupons/dr-peanut) DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções e com o Pix. Para provar sabores, os combos de 250 g; para repor, os de 600 g."
       ]
     },
     {
-      "heading": "A Dr. Peanut faz Black Friday?",
+      "heading": "Doctor November: a campanha da Dr. Peanut em novembro",
       "paragraphs": [
-        "Em meados de novembro, a home seguia com o aviso de frete grátis por região, a vitrine de mais vendidos e a assinatura, sem menção à Black Friday. Os preços das pastas eram os mesmos de outubro: R$ 25,89 no pote de 250 g e R$ 59,89 no de 600 g. Confira os banners e as condições da loja no dia da compra.",
-        "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
-        "Da Black Friday de 2025, não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
+        "A Dr. Peanut não tem uma página chamada Black Friday. O que a home mostra em novembro, sem data de fim anunciada, é o Doctor November, em três frentes: leve 8 e pague 5, com brindes de 1 alfajor, 1 wafer e 1 pasta conforme a disponibilidade; \"Comprou, ganhou\", com 3 alfajores na compra de pastas de 600 g; e a Assinatura Doctor, com até 20% OFF.",
+        "Os preços das pastas seguem os de lista: R$ 25,89 no pote de 250 g e R$ 59,89 no de 600 g. O cupom soma com as promoções, então a conta é a mesma de qualquer dia, com os 10% por cima. Confira os banners e as condições da loja no dia da compra.",
+        "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha. Da Black Friday de 2025, não encontramos anúncio oficial da Dr. Peanut, e por isso este guia não usa ofertas de anos anteriores como régua de preço."
       ],
-      "image": {
-        "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
-        "alt": "Página inicial do site da Dr. Peanut com o banner da assinatura Assinou, economizou! e até 15% OFF",
-        "caption": "A página inicial da Dr. Peanut, com o banner da assinatura Assinou, economizou! e até 15% OFF.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
+      "links": [
+        {
+          "label": "Ver as campanhas na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Para provar sabores: pote de 250 g ou combo pequeno",
@@ -100,19 +90,19 @@
         ],
         "rows": [
           [
-            "1 pote de 250 g",
+            "[1 pote de 250 g](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p)",
             "R$ 25,89",
             "R$ 23,30",
             "R$ 9,32"
           ],
           [
-            "Combo de 2 potes de 250 g",
+            "[Combo de 2 potes de 250 g](https://www.drpeanut.com.br/combo-cozy-doce-de-leite-caramelo-salgado-250g/p)",
             "R$ 47,64",
             "R$ 42,88",
             "R$ 8,58"
           ],
           [
-            "Combo de 3 potes de 250 g",
+            "[Combo de 3 potes de 250 g](https://www.drpeanut.com.br/combo-favoritos-da-galera/p)",
             "R$ 68,35",
             "R$ 61,51",
             "R$ 8,20"
@@ -123,6 +113,21 @@
         "Os combos \"Comprou, Ganhou\" trazem um alfajor de brinde com o pote de 250 g, pelo mesmo preço do pote avulso. O brinde não baixa o preço da pasta, mas serve para provar o snack.",
         "Todas as pastas da Dr. Peanut declaram lactose e levam edulcorantes. Quem procura pasta só de amendoim, vegana ou sem lactose encontra essas opções em [Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher](/reviews/dr-peanut-ou-la-ganexa). A comparação sabor a sabor está em [Dr. Peanut: qual o melhor sabor?](/reviews/dr-peanut-melhor-sabor).",
         "Pedido pequeno paga frete: num carrinho com um pote, o frete para São Paulo custava mais que o desconto do cupom. Se a ideia é só provar, vale juntar os sabores num combo."
+      ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+        "alt": "Pote de 250 g da pasta de amendoim sabor Avelã da Dr. Peanut, em foto oficial de frente",
+        "caption": "Pasta de amendoim Avelã, pote de 250 g. Imagem: Dr. Peanut.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p"
+      },
+      "links": [
+        {
+          "label": "Ver o combo Favoritos da Galera na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/combo-favoritos-da-galera/p",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -141,35 +146,35 @@
         ],
         "rows": [
           [
-            "1 pote de 600 g",
+            "[1 pote de 600 g](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p)",
             "R$ 59,89",
             "R$ 53,90",
             "R$ 8,98",
             "Não"
           ],
           [
-            "Combo de 2 potes de 600 g",
+            "[Combo de 2 potes de 600 g](https://www.drpeanut.com.br/combo-cookies-lovers-duo/p)",
             "R$ 110,20",
             "R$ 99,18",
             "R$ 8,27",
             "Não"
           ],
           [
-            "Combo de 4 potes de 250 g (1 kg)",
+            "[Combo de 4 potes de 250 g (1 kg)](https://www.drpeanut.com.br/combo-prime-avela-cookies-leite-em-po-caramelo-salgado-250g/p)",
             "R$ 88,03",
             "R$ 79,23",
             "R$ 7,92",
             "Não"
           ],
           [
-            "Combo de 3 potes de 600 g",
+            "[Combo de 3 potes de 600 g](https://www.drpeanut.com.br/combo-cookies-lovers-trio/p)",
             "R$ 158,11",
             "R$ 142,30",
             "R$ 7,91",
             "Não (sem o cupom, sim)"
           ],
           [
-            "Combo de 4 potes de 600 g",
+            "[Combo de 4 potes de 600 g](https://www.drpeanut.com.br/combo-cookies-lovers-quarteto/p)",
             "R$ 203,63",
             "R$ 183,27",
             "R$ 7,64",
@@ -178,21 +183,44 @@
         ]
       },
       "postParagraphs": [
+        "Quem leva pasta de 600 g ainda entra no \"Comprou, ganhou\": 3 alfajores de brinde, pelo preço da pasta. Os combos de 600 g são o Duo, o Trio e o Quarteto, nos sabores Cookies & Cream (Cookies Lovers) e Bueníssimo.",
         "O combo de 3 potes de 600 g é o caso para olhar com calma. Sem o cupom, ele passa do mínimo e o frete sai grátis no Sul e no Sudeste. Com o cupom, cai para R$ 142,30 e a loja cobra o frete: no nosso carrinho, com entrega em São Paulo, o total ficou em R$ 154,78, ainda R$ 3,33 abaixo do pedido sem o código. Em outro CEP a diferença muda, e pode inverter. Compare os dois totais antes de pagar.",
         "No Centro-Oeste, no Nordeste e no Norte, o mínimo é de R$ 199,90, e o cuidado vale para o combo de 4 potes de 600 g: sem o cupom ele passa do mínimo, e com o cupom fica abaixo. O combo maior só compensa para quem vai consumir os potes. Levar um a mais apenas para alcançar o frete grátis aumenta o gasto.",
         "No Pix, o checkout mostrou 3% sobre o valor dos produtos já com o cupom: o pote de 600 g saiu de R$ 53,90 para R$ 52,28, antes do frete. A conta por tamanho, com todos os combos, está em [Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa](/reviews/dr-peanut-qual-tamanho-compensa)."
+      ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp",
+        "alt": "Pote de 600 g da pasta de amendoim Dr. Peanut sabor Pistache, em foto oficial da marca",
+        "caption": "Pasta de amendoim Pistache, pote de 600 g. Imagem: Dr. Peanut.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p"
+      },
+      "links": [
+        {
+          "label": "Ver o Combo Cookies Lovers Quarteto na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/combo-cookies-lovers-quarteto/p",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Assinatura: o primeiro pedido e as cobranças seguintes",
       "paragraphs": [
-        "A assinatura da Dr. Peanut vale só para as pastas de 250 g e tem desconto progressivo. A página dela anunciava 4% com 1 pasta, 8% com 2, 12% com 3 e 20% com 4 ou mais, com entrega recorrente, cancelamento sem multa e troca de produtos e datas a qualquer momento.",
+        "A assinatura da Dr. Peanut vale só para as pastas de 250 g e tem desconto progressivo, com teto de 20%. A página dela anuncia 4% com 1 pasta, 8% com 2, 12% com 3 e 20% com 4 ou mais, com entrega recorrente, cancelamento quando quiser e troca de produtos e datas a qualquer momento. Na Assinatura Doctor do mês, quem indica ganha mais 5% adicional nas assinaturas.",
         "Com 3 pastas, a calculadora da página mostra R$ 68,35 por ciclo, o mesmo valor do combo de 3 potes. Com 4, os 20% levam a conta para R$ 82,85, abaixo dos R$ 88,03 do combo de 4 potes (conta nossa, pela regra da página)."
       ],
       "bullets": [
         "**Primeiro pedido:** no nosso teste de outubro, o DREMCASACOMCECILIA foi aceito no carrinho da assinatura com 3 pastas e somou ao desconto progressivo. O pedido ficou em R$ 60,58.",
         "**Cobranças seguintes:** a página da assinatura não diz se o cupom se repete. O código aceito no primeiro carrinho não informa, sozinho, qual será o desconto das renovações. Confirme na contratação o valor e as condições das próximas cobranças.",
         "**Frete:** os mínimos do frete grátis são os mesmos da compra avulsa, e uma assinatura de poucos potes fica abaixo deles."
+      ],
+      "links": [
+        {
+          "label": "Ver a assinatura da Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/assinaturapro",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -218,16 +246,16 @@
             "R$ 13,73"
           ],
           [
-            "Alfajor (35 g)",
+            "[Alfajor](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p) (35 g)",
             "4 a 4,7 g; 158 a 183 kcal",
             "Avulso ou display de 12 (R$ 155,88)",
             "R$ 12,99",
             "R$ 11,69"
           ],
           [
-            "Doctor Wafer (25 g)",
+            "[Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) (25 g)",
             "5 a 6 g; 118 a 127 kcal",
-            "Avulso, display de 12 (R$ 137,52) ou [kit sortido de 12](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p) (R$ 130,68)",
+            "Avulso, [display de 12](https://www.drpeanut.com.br/display-doctor-wafer/p) (R$ 137,52) ou [kit sortido de 12](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p) (R$ 130,68)",
             "R$ 11,46 (R$ 10,89 no kit)",
             "R$ 10,31 (R$ 9,80 no kit)"
           ]
@@ -240,12 +268,27 @@
       ],
       "postParagraphs": [
         "Sobre alérgicos: a Doctor Bar e o Doctor Wafer de Avelã declaram glúten e lactose. No alfajor, a loja publica a tabela nutricional, sem a lista de ingredientes nem o aviso de alérgicos em texto: confira a página e a embalagem. Os rótulos lado a lado estão em [Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher](/reviews/snacks-dr-peanut-qual-escolher) e em [Dr. Peanut é saudável?](/reviews/dr-peanut-e-saudavel)."
+      ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+        "alt": "Display e barra de proteína Doctor Bar da Dr. Peanut, sabor Avelã, em foto oficial da marca",
+        "caption": "Doctor Bar Avelã, vendida em display de 8. Imagem: Dr. Peanut.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p"
+      },
+      "links": [
+        {
+          "label": "Ver a Doctor Bar na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
+          "sponsored": true
+        }
       ]
     },
     {
-      "heading": "Como o cupom entra na Black Friday",
+      "heading": "Como o cupom entra no Doctor November",
       "paragraphs": [
-        "O **DREMCASACOMCECILIA** soma com as promoções: 10% OFF em todo o site, em qualquer pagamento. A conferência é no carrinho, antes de pagar.",
+        "O **DREMCASACOMCECILIA** soma com as promoções: 10% OFF em todo o site, em todas as formas de pagamento. Cole o código no campo “Código” do carrinho, clique em “Adicionar” e confira a linha “Descontos” antes de pagar.",
         "Os descontos entram no carrinho nesta ordem:"
       ],
       "bullets": [
@@ -266,7 +309,7 @@
     {
       "heading": "Frete grátis por região: o mínimo conta depois do cupom",
       "paragraphs": [
-        "O frete grátis da Dr. Peanut depende de onde você mora, e o mínimo conta **depois do cupom**. No nosso teste de novembro, com entrega em São Paulo, um carrinho de R$ 155,34 tinha frete grátis; com o cupom, os produtos caíram para R$ 139,80 e a loja passou a cobrar R$ 12,23 de frete. O frete grátis vale na opção de entrega mais barata."
+        "O frete grátis da Dr. Peanut depende de onde você mora, e o mínimo conta **depois do cupom**. No nosso teste de 12/11, com entrega em São Paulo, um carrinho de 6 pastas de R$ 155,34 tinha frete grátis; com o cupom, os produtos caíram para R$ 139,80 e a loja passou a cobrar R$ 12,23 de frete. O frete grátis vale na opção de entrega mais barata."
       ],
       "comparisonTable": {
         "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, sobre o valor depois do cupom.",
@@ -287,16 +330,19 @@
       },
       "postParagraphs": [
         "Perto do mínimo, aplique o cupom, informe o CEP e compare o total com e sem o código antes de pagar.",
-        "Os mínimos eram os mesmos em outubro e no início de novembro. Mesmo assim, reconfira o aviso do carrinho: ele mostra o mínimo da sua região no momento da compra."
+        "Os mínimos eram os mesmos em outubro e em novembro. Mesmo assim, reconfira o aviso do carrinho: ele mostra o mínimo da sua região no momento da compra."
       ],
-      "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
-      "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
-      "imageCaption": "Carrinho da Dr. Peanut antes do cupom: a faixa laranja no topo mostra o frete grátis a partir de R$ 149,90. O marca-texto amarelo é nosso.",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.6075
+      "image": {
+        "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-combo-cookies-lovers-trio.webp",
+        "alt": "Combo Cookies Lovers Trio da Dr. Peanut, três potes de 600 g de pasta de amendoim sabor Cookies & Cream",
+        "caption": "Combo Cookies Lovers Trio, 3 pastas de 600 g. Imagem: Dr. Peanut.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.drpeanut.com.br/combo-cookies-lovers-trio/p"
+      }
     },
     {
-      "heading": "Antes de pagar: checklist da Black Friday",
+      "heading": "Antes de pagar: checklist de novembro",
       "paragraphs": [
         "Na semana de 27 de novembro, os preços e os banners mudam rápido. Passe por estes pontos antes de clicar em \"Continuar pagamento\":"
       ],
@@ -306,26 +352,49 @@
         "**Frete:** o mínimo do frete grátis conta o valor depois do cupom: compare o total, já com o desconto, com o mínimo da sua região.",
         "**Peso e quantidade:** confira o peso do pote e quantos potes o combo traz. Compare o preço por quilo entre o pote avulso e o combo, em vez de olhar só o preço final. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
         "**Validade e lote:** veja a validade e o lote do produto no rótulo quando o pedido chegar. Se houver avaria, embalagem violada ou item errado, você pode recusar a encomenda na entrega e escrever o motivo no verso da nota fiscal.",
-        "**Troca:** arrependimento são 7 dias corridos do recebimento, e a loja paga a devolução. A política da loja pede a embalagem original e o lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Os prazos completos (inclusive o de defeito) estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel).",
+        "**Troca:** arrependimento são 7 dias corridos do recebimento, e a loja paga a devolução. A política da loja pede a embalagem original e o lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Defeito em alimento tem 30 dias, e o pedido sai pelo SAC, no e-mail sac@supley.com.br, com o número do pedido e a nota fiscal.",
         "**Site oficial:** compre em drpeanut.com.br e confira, no carrinho, \"Produto fornecido e entregue por Dr. Peanut\"."
-      ],
-      "postParagraphs": [
-        "Para ver como a loja se comporta quando o volume de pedidos sobe, a nota e as reclamações mais comuns estão em [Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/dr-peanut-reclame-aqui-nota-reputacao)."
       ]
+    },
+    {
+      "heading": "Qual combo escolher e quando comprar",
+      "paragraphs": [
+        "A conta por 100 g favorece o combo maior, e o frete grátis decide onde ele compensa. Para provar sabores, os combos de 2 ou 3 potes de 250 g bastam. Para repor, os de 600 g têm o menor preço por 100 g, mas só o de 4 potes segura o frete grátis no Sul e no Sudeste depois do cupom.",
+        "Esperar a Black Friday não tem preço de campanha para comparar: a loja não publicou lista nem data, e o Doctor November já está no ar. Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, sempre com o cupom."
+      ],
+      "emphasis": "Para quem já consome a pasta, o combo de 4 potes de 600 g com o DREMCASACOMCECILIA tem o menor preço por 100 g da tabela e mantém o frete grátis no Sul e no Sudeste; para só provar, o de 3 potes de 250 g.",
+      "image": {
+        "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-combo-flavor-fusion.webp",
+        "alt": "Combo Flavor Fusion da Dr. Peanut com quatro potes de 250 g: Leite em Pó, Avelã, Doce de Leite e Cookies & Cream",
+        "caption": "Combo Flavor Fusion, 4 pastas de 250 g. Imagem: Dr. Peanut.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.drpeanut.com.br/combo-flavor-fusion-4-pastas-de-250g-doce-de-leite-avela-leite-em-po-cookies---cream/p"
+      }
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não anunciou campanha: em novembro, o site não tinha datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
-        "O cupom DREMCASACOMCECILIA vale na Black Friday? Vale. O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções no ar: no nosso teste, entrou também sobre a pasta de amendoim que já estava em promoção.",
-        "A Dr. Peanut tem frete grátis? Tem, e o mínimo conta o valor depois do cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
-        "Quanto o carrinho precisa ter para ter frete grátis com o cupom? O mínimo da sua região, já com o desconto: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. Se o cupom deixar o total abaixo disso, a loja cobra o frete.",
+        "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento. Cole o código no campo “Código” do carrinho e clique em “Adicionar”; as condições estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
+        "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não tem página de Black Friday: a campanha de novembro é o Doctor November, com leve 8 e pague 5, \"Comprou, ganhou\" e a Assinatura Doctor, sem data de fim no site. O grande dia é a última sexta-feira de novembro, e a Cyber Monday, a segunda seguinte.",
+        "O cupom DREMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 10% OFF em todo o site e soma com as promoções no ar: no nosso teste, entrou também sobre a pasta de amendoim que já estava em promoção.",
+        "A Dr. Peanut tem frete grátis? Tem, e o mínimo conta o valor depois do cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. Se o cupom deixar o total abaixo disso, a loja cobra o frete.",
         "A Dr. Peanut tem desconto no Pix? Tem: 3%. No checkout, os 3% entraram sobre o valor dos produtos já com o cupom, que vale em todas as formas de pagamento.",
         "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, e a loja paga a devolução (a política da loja pede a embalagem original e o lacre intactos). Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
-        "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto está garantido.",
-        "O cupom vale na assinatura da Dr. Peanut? No nosso teste, o DREMCASACOMCECILIA foi aceito no primeiro carrinho da assinatura e somou ao desconto progressivo. A página da assinatura não informa se ele se repete nas cobranças seguintes: confirme na contratação.",
-        "Qual combo da Dr. Peanut compensa na Black Friday? Para provar, os combos de 2 ou 3 potes de 250 g. Para repor, os de 600 g têm o menor preço por 100 g, e o de 4 potes mantém o frete grátis no Sul e no Sudeste mesmo com o cupom. Compre a quantidade que você vai consumir."
+        "Vale esperar a Black Friday para comprar? A loja não publicou preço de campanha, então nenhum desconto extra está garantido. O capítulo de escolha diz como comparar o total na semana da data.",
+        "O cupom vale na assinatura da Dr. Peanut? No nosso teste, o DREMCASACOMCECILIA foi aceito no primeiro carrinho da assinatura e somou ao desconto progressivo, que chega a 20% com 4 ou mais pastas. A página da assinatura não informa se ele se repete nas cobranças seguintes: confirme na contratação.",
+        "Qual combo da Dr. Peanut compensa? Para provar, os de 2 ou 3 potes de 250 g. Para repor, os de 600 g têm o menor preço por 100 g, e o de 4 potes mantém o frete grátis no Sul e no Sudeste mesmo com o cupom."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você já consome a pasta e quer repor pelo menor preço por 100 g, conferindo o frete da sua região",
+      "Você quer provar sabores e prefere combos de 250 g a um pote grande"
+    ],
+    "skipIf": [
+      "Você levaria um pote a mais só para alcançar o frete grátis, o que aumenta o gasto",
+      "Você quer comprar pelo Mercado Livre, onde o cupom da Dr. Peanut não vale"
+    ]
+  }
 }

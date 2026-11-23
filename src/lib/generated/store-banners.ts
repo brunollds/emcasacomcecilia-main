@@ -268,8 +268,8 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "ATÉ"
       }
     },
-    "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – até 20% OFF – Assinatura Doctor\"), lido no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-18"
+    "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – até 20% OFF – Assinatura Doctor\"), lido no navegador em 04/11/2026; reconferido no navegador em 22/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "dr-peanut-comprou-ganhou-2026",
@@ -286,8 +286,8 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver a campanha"
       }
     },
-    "source": "Carrossel da home de drpeanut.com.br (\"Comprou, ganhou – 3 alfajores em compras de Dr. Peanut 600 g\"), lido no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "source": "Carrossel da home de drpeanut.com.br (\"Comprou, ganhou – 3 alfajores em compras de Dr. Peanut 600 g\"), lido no navegador em 04/11/2026; reconferido no navegador em 22/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "dr-peanut-leve-8-pague-5-2026",
@@ -304,8 +304,8 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver a campanha"
       }
     },
-    "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – Leve 8 Pague 5 – Brindes: 1 alfajor + 1 wafer + 1 pasta\"), lido no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – Leve 8 Pague 5 – Brindes: 1 alfajor + 1 wafer + 1 pasta\"), lido no navegador em 04/11/2026; reconferido no navegador em 22/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "holyfoods-black-2026",
@@ -675,8 +675,8 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver a campanha"
       }
     },
-    "source": "Página probiotica.com.br/novembro-pro (\"Novembro Pro - Probiótica\", \"Roupas e Acessórios com até 50% OFF\"), ligada pelo carrossel da home (04/11/2026)",
-    "verifiedAt": "2026-11-18"
+    "source": "Página probiotica.com.br/novembro-pro (\"Novembro Pro - Probiótica\", \"Roupas e Acessórios com até 50% OFF\"), ligada pelo carrossel da home (04/11/2026); reconferido no navegador em 22/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "prohall-black-friday-2026",

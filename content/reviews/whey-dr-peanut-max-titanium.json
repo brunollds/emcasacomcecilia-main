@@ -18,7 +18,7 @@
   "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no whey Dr. Peanut, que a Max Titanium também vende. Veja sabores e preço por 100 g nas duas lojas.",
   "publishedAt": "5 de novembro de 2026",
   "publishedAtISO": "2026-11-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa-v2.webp",
@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O 100% Whey Dr. Peanut é o mesmo pote na Dr. Peanut e na Max Titanium, com os mesmos cinco sabores e o mesmo preço. O que muda é o cupom: na Dr. Peanut, o DREMCASACOMCECILIA dá 10% e soma com o Pix; na Max, o código dela também funciona, mas o percentual varia por produto."
+        "O 100% Whey Dr. Peanut é o mesmo pote na Dr. Peanut e na Max Titanium, com os mesmos cinco sabores e o mesmo preço. Na Dr. Peanut, o [cupom DREMCASACOMCECILIA](/cupons/dr-peanut) dá 10% OFF e soma com o Pix; na Max, o código dela também funciona, mas o percentual varia por produto."
       ]
     },
     {
@@ -44,12 +44,20 @@
         "O que decide aqui é o aviso de glúten e lactose, não a proteína: o pote contém os dois, e quem precisa evitar um deles não compra em loja nenhuma. Quem tem intolerância a um dos dois decide com médico ou nutricionista.",
         "A loja informa: a porção é de 40 g, dois dosadores, com 20 g de proteína, 162 kcal, 8,5 g de açúcares totais (0,1 g adicionados), 3,1 g de gordura e 112 mg de sódio. A proteína é concentrada do soro do leite (WPC), com amendoim torrado e granulado, cacau, sal, lecitina de soja, gomas, corante caramelo IV e sucralose.",
         "É nos alérgenos que as páginas divergem. As duas dizem que contém amendoim e leite. A da Dr. Peanut diz que contém soja também, e que pode conter trigo, centeio, cevada, aveia, castanhas, nozes e ovo; a da Max diz que a soja e o ovo só podem estar. Confira a embalagem que chegar."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/whey/whey-dr-peanut.webp",
+        "alt": "Pote de 900 g do 100% Whey Dr. Peanut - Max Titanium, em foto oficial da marca",
+        "caption": "100% Whey Dr. Peanut - Max Titanium, pote de 900 g, vendido no site da Dr. Peanut. Imagem: Dr. Peanut.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.drpeanut.com.br/whey-dr-peanut/p"
+      }
     },
     {
       "heading": "Os cinco sabores",
       "paragraphs": [
-        "As duas lojas tinham os cinco sabores, Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos pelo mesmo preço. No rótulo, eles mudam pouco: os açúcares totais ficam entre 8,5 g e 11 g por dose, e a Paçoca, que não existe na pasta, tem o dobro de sódio dos outros. A comparação de sabores da pasta está em [Dr. Peanut: qual o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
+        "As duas lojas tinham os cinco sabores, [Avelã](https://www.drpeanut.com.br/whey-dr-peanut/p), [Bueníssimo](https://www.drpeanut.com.br/100--whey-dr--peanut---max-titanium-buenissimo/p), [Paçoca](https://www.drpeanut.com.br/whey-dr-peanut-pacoca/p), [Bombom Italiano](https://www.drpeanut.com.br/whey-dr-peanut-bombom-italiano/p) e [Doce de Leite](https://www.drpeanut.com.br/whey-dr-peanut-doce-de-leite/p), todos pelo mesmo preço. No rótulo, eles mudam pouco: os açúcares totais ficam entre 8,5 g e 11 g por dose, e a Paçoca, que não existe na pasta, tem o dobro de sódio dos outros. A comparação de sabores da pasta está em [Dr. Peanut: qual o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
       ],
       "images": [
         {
@@ -83,23 +91,38 @@
             "10%: R$ 201,95 o pote, R$ 44,88 por 100 g de proteína"
           ],
           [
-            "[100% Whey Dr. Peanut, pote 900 g](https://www.maxtitanium.com.br/100-whey-dr-peanut/p)",
+            "100% Whey Dr. Peanut, pote 900 g",
             "Max Titanium",
             "R$ 224,39",
             "R$ 49,86",
             "Até 10%, e o valor muda por produto: aparece no carrinho"
           ]
         ],
-        "caption": "Preço de venda de 05/11, igual nas duas lojas e nos cinco sabores. Proteína pelo rótulo: 20 g por dose de 40 g."
+        "caption": "Preço de venda de 22/11, igual nas duas lojas e nos cinco sabores. Proteína pelo rótulo: 20 g por dose de 40 g."
       },
       "postParagraphs": [
         "Conta nossa, pelo rótulo e pelo preço da tabela: o pote de 900 g dá 22,5 doses de 40 g, 450 g de proteína, e o preço do pote dividido por 4,5 é o valor por 100 g. Sem cupom, a dose sai a R$ 9,97; com 10%, o pote cai para R$ 201,95 e a dose, para R$ 8,98. O Pix fica fora da conta: o desconto dele aparece só no carrinho."
-      ]
+      ],
+      "links": [
+        {
+          "label": "Ver o whey na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/whey-protein",
+          "sponsored": true
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-whey-avela.webp",
+        "alt": "Pote de 900 g do 100% Whey Dr. Peanut - Max Titanium sabor Avelã, em foto oficial",
+        "caption": "100% Whey Dr. Peanut - Max Titanium sabor Avelã, pote de 900 g. Imagem: Dr. Peanut.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.drpeanut.com.br/whey-dr-peanut/p"
+      }
     },
     {
       "heading": "Cupom e Pix em cada loja",
       "paragraphs": [
-        "Na Dr. Peanut, o cupom DREMCASACOMCECILIA dá 10% em todo o site, e no checkout deste whey ele funcionou e somou com o Pix. A linha do desconto aparece no carrinho antes de pagar.",
+        "Na Dr. Peanut, o cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento. Cole o código no campo “Código” do carrinho e clique em “Adicionar”: no checkout deste whey ele funcionou e somou com o Pix, que dá 3% sobre o valor já com o cupom. A linha do desconto aparece no carrinho antes de pagar.",
         "Na Max Titanium, o cupom MAX10EMCASACOMCECILIA também funciona neste pote. Ele dá até 10%, e o percentual muda de produto para produto, então o valor certo aparece no carrinho. Mesmo com percentuais diferentes, Pix e frete podem mudar o total de cada pedido. Antes de fechar, ponha o pote nos dois carrinhos com o cupom de cada uma e compare o total.",
         "O Pix é desconto da própria loja, e cada uma tem o seu. O valor de cada um aparece na tela de pagamento. As regras dos códigos estão em [cupom Dr. Peanut](/cupons/dr-peanut) e [cupons da Max Titanium](/cupons/max-titanium)."
       ]
@@ -126,6 +149,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, whey incluído. Cole o código no campo “Código” do carrinho e clique em “Adicionar”; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
         "O whey Dr. Peanut é da Max Titanium? O pote leva as duas marcas: a página do produto o apresenta como criação da Max Titanium em parceria com a Dr. Peanut, e as duas marcas são do mesmo grupo.",
         "Quais sabores tem o whey Dr. Peanut? Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, nas duas lojas e pelo mesmo preço. Confira sabores e valores atuais na loja.",
         "O cupom DREMCASACOMCECILIA soma com o Pix? Sim: no checkout do whey, o cupom funcionou e somou com o desconto no Pix da Dr. Peanut.",

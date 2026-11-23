@@ -17,7 +17,7 @@
   "metaDescription": "O DREMCASACOMCECILIA dá 10% OFF na Dr. Peanut: a pasta de amendoim, o whey e os snacks pelo rótulo, o preço por 100 g e para quem a marca compensa.",
   "publishedAt": "3 de novembro de 2026",
   "publishedAtISO": "2026-11-03",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa-v2.webp",
@@ -37,45 +37,58 @@
         "A Dr. Peanut é a marca da pasta de amendoim: é por ela que a loja existe, e o whey e os snacks vêm em volta. O site se divide em três prateleiras:"
       ],
       "bullets": [
-        "**Pastas de amendoim:** 12 sabores, em potes de 250 g e de 600 g, mais combos de 2 a 5 potes e a assinatura, que só tem potes de 250 g. O capítulo seguinte lê o rótulo.",
+        "**Pastas de amendoim:** 10 sabores, em potes de 250 g e de 600 g, mais combos de 2 a 5 potes e a assinatura, que só tem potes de 250 g. O capítulo seguinte lê o rótulo.",
         "**Snacks:** a Doctor Bar, barra de proteína vendida só em display de 8, o alfajor e a Doctor Wafer, comparados mais abaixo.",
         "**Whey:** o \"100% Whey Dr. Peanut - Max Titanium\", pote de 900 g em 5 sabores."
       ],
       "postParagraphs": [
         "Por trás da marca está a Body Food, fábrica de Curitiba que tem a Supley como sócia, o mesmo grupo da Probiótica e da Max Titanium. É daí que vem o nome duplo do whey: a página o apresenta como uma criação da Max Titanium em parceria com a Dr. Peanut, vendida na loja da Dr. Peanut."
+      ],
+      "links": [
+        {
+          "label": "Ver as pastas na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true
+        }
       ]
     },
     {
-      "heading": "A pasta de amendoim Dr. Peanut é boa?",
+      "heading": "Pasta de amendoim: o que o rótulo mostra",
       "paragraphs": [
-        "Pelo rótulo, é uma pasta de amendoim com proteína do soro do leite e sem adição de açúcares, e o que decide entre os 12 sabores é a linha dos polióis, não o preço, que é o mesmo em todos. A lista de ingredientes se repete: amendoim, proteína concentrada do soro do leite, os polióis maltitol e xilitol e os edulcorantes sucralose e acessulfame de potássio; o Brownie e o Banoffee levam também glicosídeos de esteviol. Todos dizem que contêm lactose e que não contêm glúten. Os alérgicos trazem amendoim e derivados de leite em todos os sabores, e avelã, castanha-de-caju, pistache, ovo ou soja conforme o sabor.",
-        "Na colher de 15 g, a tabela traz de 2,5 a 3 g de proteína, de 0,7 a 1,5 g de açúcares totais, 0 g de açúcares adicionados e de 1,1 a 2 g de gordura saturada. Por 100 g, a proteína vai de 17 g a 20 g e os polióis, de 6,4 g a 20 g, e é essa linha que separa os sabores: o Brownie é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g, e o Cookies & Cream tem o menor açúcar e o maior poliol dos 12. A tabela sabor a sabor, com os alérgicos de cada um, está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
+        "Pelo rótulo, é uma pasta de amendoim com proteína do soro do leite e sem adição de açúcares, e o que decide entre os 10 sabores é a linha dos polióis, não o preço, que é o mesmo em todos. A lista de ingredientes se repete: amendoim, proteína concentrada do soro do leite, os polióis maltitol e xilitol e os edulcorantes sucralose e acessulfame de potássio; o Brownie leva também glicosídeos de esteviol. Todos dizem que contêm lactose e que não contêm glúten. Os alérgicos trazem amendoim e derivados de leite em todos os sabores, e avelã, castanha-de-caju, pistache, ovo ou soja conforme o sabor.",
+        "Na colher de 15 g, a tabela traz de 2,5 a 3 g de proteína, de 0,7 a 1,4 g de açúcares totais, 0 g de açúcares adicionados e de 1,1 a 1,8 g de gordura saturada. Por 100 g, a proteína vai de 17 g a 20 g e os polióis, de 6,4 g a 20 g, e é essa linha que separa os sabores: o Brownie é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g, e o Cookies & Cream tem o menor açúcar e o maior poliol dos 10. A tabela sabor a sabor, com os alérgicos de cada um, está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
       ],
       "comparisonTable": {
         "headers": [
           "Formato",
           "Peso",
-          "Preço de lista",
-          "Por 100 g"
+          "Preço de venda",
+          "Por 100 g",
+          "Com o cupom",
+          "Por 100 g com cupom"
         ],
         "rows": [
           [
             "[Pote de 250 g, Avelã](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p)",
             "250 g",
-            "R$ 28,90",
-            "R$ 11,56"
+            "R$ 25,89",
+            "R$ 10,36",
+            "R$ 23,30",
+            "R$ 9,32"
           ],
           [
             "[Pote de 600 g, Bombom Italiano](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-bombom-italiano/p)",
             "600 g",
-            "R$ 64,90",
-            "R$ 10,82"
+            "R$ 59,89",
+            "R$ 9,98",
+            "R$ 53,90",
+            "R$ 8,98"
           ]
         ],
-        "caption": "Preço de lista no site, 03/11, igual em todos os sabores do mesmo tamanho."
+        "caption": "Preço de venda no site em 22/11, igual em todos os sabores do mesmo tamanho; o cupom tira 10%."
       },
       "postParagraphs": [
-        "Conta nossa: pelo preço de lista e pelo peso do pote, o de 600 g sai cerca de 6% mais barato por 100 g que o de 250 g, e os combos de 2 a 5 potes e a assinatura baixam mais. A loja vende os dois potes com desconto em promoção, e o cupom entra em cima do preço do dia.",
+        "Conta nossa: pelo preço de venda e pelo peso do pote, o de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g, e os combos de 2 a 5 potes e a assinatura baixam mais. O cupom entra em cima do preço de venda do dia.",
         "Serve para quem quer pasta de amendoim com proteína do soro e sem açúcar adicionado, e escolhe o sabor pelo poliol. Não escolha se você precisa evitar lactose ou quer pasta só de amendoim: a loja não vende versão sem lactose nem pasta de um ingrediente só."
       ],
       "images": [
@@ -86,19 +99,26 @@
           "objectFit": "square",
           "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p"
         }
+      ],
+      "links": [
+        {
+          "label": "Ver as pastas na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true
+        }
       ]
     },
     {
-      "heading": "Dr. Peanut é boa para dieta?",
+      "heading": "Dieta: os números do rótulo",
       "paragraphs": [
         "O rótulo não responde isso: quem encaixa a pasta, o whey ou a barra no seu plano é o nutricionista. O que o rótulo dá são os números que entram nessa conversa. A colher de 15 g de pasta tem de 83 a 90 kcal; a porção de 40 g de whey, de 159 a 166 kcal; a Doctor Bar de 62 g, 261 kcal e 6,2 g de gordura saturada. Leve esses números, e a porção que você come de verdade, para a consulta.",
         "Adoçantes, polióis, lactose e glúten de cada produto estão no [guia do rótulo da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
       ]
     },
     {
-      "heading": "O whey Dr. Peanut é bom?",
+      "heading": "Whey: o que o rótulo mostra",
       "paragraphs": [
-        "Pelo rótulo, é um whey concentrado (WPC) com 20 g de proteína por dose de 40 g, nos 5 sabores, e o que decide é o aviso: contém glúten e lactose. O mesmo pote está na Dr. Peanut e na Max Titanium, pelo mesmo preço; o rótulo, a conta por 100 g de proteína e qual código usar estão em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
+        "Pelo rótulo, é um whey concentrado (WPC) com 20 g de proteína por dose de 40 g, nos 5 sabores, e o que decide é o aviso: contém glúten e lactose. O mesmo pote está na [Dr. Peanut](https://www.drpeanut.com.br/whey-dr-peanut/p) e na Max Titanium, pelo mesmo preço; o rótulo, a conta por 100 g de proteína e qual código usar estão em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
       ],
       "images": [
         {
@@ -107,6 +127,13 @@
           "caption": "100% Whey Dr. Peanut - Max Titanium, sabor Paçoca, o único sabor que não existe na pasta. Imagem: Dr. Peanut.",
           "objectFit": "square",
           "href": "https://www.drpeanut.com.br/whey-dr-peanut-pacoca/p"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o 100% Whey Dr. Peanut na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/whey-protein",
+          "sponsored": true
         }
       ]
     },
@@ -120,7 +147,7 @@
           "Snack",
           "Porção",
           "Proteína",
-          "Preço de lista da unidade"
+          "Preço da unidade"
         ],
         "rows": [
           [
@@ -132,7 +159,7 @@
           [
             "[Alfajor Doce de Leite](https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p)",
             "35 g",
-            "4,7 g (de 4 a 4,7 g nos 5 sabores)",
+            "4,7 g (de 4,4 a 4,7 g nos 2 sabores)",
             "R$ 12,99"
           ],
           [
@@ -142,7 +169,7 @@
             "R$ 11,46"
           ]
         ],
-        "caption": "Preço de lista no site. A Doctor Bar só se vende em display de 8."
+        "caption": "Preço no site. A Doctor Bar só se vende em display de 8."
       },
       "postParagraphs": [
         "Por grama de proteína, a barra sai a R$ 0,73 e o alfajor passa de R$ 2,76: quem compra snack pela proteína fica na barra, quem quer um doce de 35 g fica no alfajor, e o wafer é o menor preço por unidade. A Doctor Bar Avelã e a Doctor Wafer Avelã dizem \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\"; o wafer é de farinha de trigo, e a barra leva maltitol, glicosídeos de esteviol e sucralose. O alfajor é o caso à parte: a loja publica só a tabela nutricional, em imagem, e não publica a lista de ingredientes nem o aviso de alérgicos, então este texto não diz o que ele leva. Quem tem restrição confere a embalagem antes de comer."
@@ -155,19 +182,42 @@
           "objectFit": "square",
           "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p"
         }
+      ],
+      "links": [
+        {
+          "label": "Ver a Doctor Bar Avelã na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Doctor Wafer Avelã na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/doctor-wafer-avela-un/p",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Quanto custa com o cupom e onde comprar",
       "paragraphs": [
-        "O DREMCASACOMCECILIA tira 10% de todo o site, em todas as formas de pagamento, e soma com as promoções: entra até no item que já está com preço promocional. Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 15% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Na comparação de preço, a assinatura com cupom ficou abaixo do kit de 250 g com a mesma quantidade, antes do frete.",
+        "O DREMCASACOMCECILIA tira 10% de todo o site, para cliente novo e antigo, em todas as formas de pagamento, e soma com as promoções e com os 3% do Pix no checkout: entra até no item que já está com preço promocional. Para usar, cole o código no campo \"Código\" do carrinho e clique em \"Adicionar\". Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 20% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Na comparação de preço, a assinatura com cupom ficou abaixo do kit de 250 g com a mesma quantidade, antes do frete.",
         "O frete grátis conta o valor depois do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Um pote de 600 g sozinho não chega; o pote de whey chega em qualquer região. A compra é no site oficial, drpeanut.com.br, e o código para copiar fica na página do [cupom Dr. Peanut](/cupons/dr-peanut)."
+      ],
+      "links": [
+        {
+          "label": "Ver regras e validade do cupom DREMCASACOMCECILIA",
+          "href": "/cupons/dr-peanut"
+        },
+        {
+          "label": "Ir para a Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Confiança: quem fabrica e como a loja responde",
       "paragraphs": [
-        "A Body Food, de Curitiba, fabrica a Dr. Peanut, e a Supley aparece como sócia; o CNPJ e o endereço ficam no rodapé do site. No Reclame Aqui, a reputação é Boa nos últimos 6 meses e Ótima nos últimos 12, e as queixas se concentram na entrega: guarde o rastreio e acione o atendimento assim que o prazo vencer. Os períodos e o que aparece nas reclamações estão no [guia de reputação da Dr. Peanut](/reviews/dr-peanut-reclame-aqui-nota-reputacao).",
+        "A Body Food, de Curitiba, fabrica a Dr. Peanut, e a Supley aparece como sócia; o CNPJ e o endereço ficam no rodapé do site. No Reclame Aqui, a reputação é Boa, com nota 7,9, tanto nos últimos 6 quanto nos últimos 12 meses, e as queixas se concentram na entrega: guarde o rastreio e, assim que o prazo vencer, escreva ao SAC da loja (sac@supley.com.br) com o número do pedido e a nota fiscal.",
         "Na troca, o arrependimento em 7 dias sai sem custo para você, e a troca por outro produto tem o frete por sua conta. Escolha o sabor antes de fechar o carrinho."
       ]
     },
@@ -178,18 +228,19 @@
         "Vale para quem já compra a pasta e quer o whey na mesma loja, com um cupom que vale em todo o site e soma com as promoções.",
         "Não vale para quem precisa evitar lactose: as pastas, o whey, a Doctor Bar Avelã e o wafer Avelã declaram que contêm, e a loja não tem versão sem lactose; no alfajor, confira a embalagem.",
         "Não vale para quem precisa evitar glúten e quer o whey, a Doctor Bar Avelã ou o wafer Avelã, que dizem conter; o alfajor não publica aviso, então confira a embalagem. Só a pasta diz que não contém.",
-        "Não vale para quem quer uma resposta sobre dieta: o rótulo dá os números, e a resposta é do nutricionista."
+        "Não vale para quem procura produto sem polióis nem edulcorantes: a pasta leva maltitol, xilitol, sucralose e acessulfame de potássio."
       ],
       "emphasis": "Se é para conhecer a marca por um produto só, que seja a pasta: é onde o rótulo mostra tudo, do ingrediente ao poliol, e o whey e os snacks vêm depois."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento, para cliente novo e antigo. Cole no campo \"Código\" do carrinho e clique em \"Adicionar\"; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
         "A pasta de amendoim Dr. Peanut é boa? Pelo rótulo, é uma pasta de amendoim com proteína do soro do leite, sem adição de açúcares e com polióis, que contém lactose e não contém glúten; o capítulo da pasta mostra as faixas por colher e por 100 g.",
         "Qual o melhor sabor da Dr. Peanut? Pelo rótulo, depende do que você procura: Avelã e Leite em Pó têm mais proteína por 100 g, e o Brownie tem menos açúcar com menos poliol; o preço é o mesmo em todos os sabores do mesmo tamanho.",
         "O whey da Dr. Peanut é bom? Pelo rótulo, é um whey concentrado com 20 g de proteína por dose de 40 g, nos 5 sabores, e contém glúten e lactose; a conta por 100 g de proteína está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium).",
-        "Dr. Peanut é boa para dieta? O rótulo não responde isso: ele mostra as calorias, os açúcares e a gordura de cada porção, e quem encaixa o produto no seu plano é o nutricionista.",
-        "Tem pasta Dr. Peanut zero lactose? Não: os 12 sabores dizem \"contém lactose\", e a loja não vende versão sem lactose."
+        "Dr. Peanut é boa para dieta? O rótulo não responde isso: ele mostra as calorias, os açúcares e a gordura de cada porção, e o capítulo de dieta traz os números por produto.",
+        "Tem pasta Dr. Peanut zero lactose? Não: os 10 sabores dizem \"contém lactose\", e a loja não vende versão sem lactose."
       ]
     }
   ],
@@ -204,7 +255,7 @@
     "skipIf": [
       "Você precisa evitar lactose: as pastas, o whey, a Doctor Bar Avelã e o wafer Avelã declaram que contêm, e a loja não tem versão sem lactose; no alfajor, confira a embalagem.",
       "Você precisa evitar glúten e quer o whey, a Doctor Bar Avelã ou o wafer Avelã, que dizem conter: só a pasta diz que não contém, e o alfajor não publica aviso.",
-      "Você quer saber se cabe na sua dieta: o rótulo dá os números, e a resposta é do nutricionista."
+      "Você quer produto sem polióis nem edulcorantes: a pasta leva maltitol, xilitol, sucralose e acessulfame de potássio."
     ]
   },
   "cta": {
@@ -224,7 +275,7 @@
       "slug": "dr-peanut-qual-tamanho-compensa"
     },
     {
-      "slug": "dr-peanut-reclame-aqui-nota-reputacao"
+      "slug": "cupom-dr-peanut-como-usar"
     }
   ]
 }
