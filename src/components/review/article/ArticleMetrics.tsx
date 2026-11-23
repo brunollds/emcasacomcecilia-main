@@ -37,7 +37,7 @@ export function ArticleMetrics({ metrics, locale = 'pt' }: ArticleMetricsProps) 
               {item.label}
             </dt>
             <dd className="mt-1.5">
-              <bdi dir="ltr" className="inline-baseline">
+              <bdi dir="ltr">
                 <span className="font-condensada text-[28px] leading-none font-black font-stretch-extra-condensed text-marinho">
                   {item.value}
                 </span>
