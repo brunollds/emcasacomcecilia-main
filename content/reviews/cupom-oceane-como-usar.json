@@ -80,7 +80,7 @@
     {
       "heading": "O que o app mostra com o cupom",
       "paragraphs": [
-        "No app, o desconto aparece duas vezes: o preço de cada item da Sacola já vem com o EMCASA aplicado, e o resumo traz a linha “Desconto” com o valor abatido. Por isso o preço do item na Sacola fica menor que o da vitrine, e o que vale é o total.",
+        "Os preços dos itens da Sacola já incluem o desconto. A linha “Desconto” mostra quanto o cupom abateu do subtotal, e o que vale é o total.",
         "Testamos o cupom nos dois canais. No app, numa Sacola com três itens, dois deles em preço especial do app, o EMCASA tirou 10% do pedido. No site, o mesmo desconto entrou sobre o preço de um creme para a área dos olhos."
       ],
       "images": [
@@ -168,14 +168,14 @@
     {
       "heading": "Frete: o que a sacola mostra",
       "paragraphs": [
-        "O cupom não mexe no frete: ele desconta 10% do pedido e mais nada. A Océane dá frete grátis em campanha, com um valor mínimo de compra que a política de entrega não diz. O valor do frete e as opções aparecem na sacola depois que você digita o CEP.",
+        "Aplique o cupom, informe o CEP e confira o total com frete. Segundo a política de entrega, o frete grátis vale acima de um valor mínimo, que pode variar por estado e só existe em algumas regiões; o valor e as opções aparecem na sacola depois do CEP.",
         "Por isso, não conte com o frete antes do CEP. Na Black Month, a loja avisa que o prazo de entrega pode mudar pela demanda, e é o carrinho, com o CEP, que mostra o prazo de verdade. Quem está na primeira compra encontra o assunto no artigo do [cupom Océane na primeira compra](/reviews/cupom-oceane-primeira-compra)."
       ]
     },
     {
       "heading": "Se o produto não servir: troca e devolução",
       "paragraphs": [
-        "Pela página de trocas, a devolução por arrependimento pode ser pedida em até 7 dias corridos do recebimento, e o produto com defeito, em até 30 dias corridos. Em qualquer caso, o produto volta sem sinais de uso, na embalagem original, com a nota fiscal (DANFE), os lacres, as etiquetas, os acessórios e os manuais.",
+        "Pela página de trocas, a Océane aceita o pedido de devolução em até 7 dias corridos do recebimento e o de produto com defeito em até 30 dias corridos, e pede o produto sem sinais de uso, na embalagem original, com a nota fiscal (DANFE), os lacres, as etiquetas, os acessórios e os manuais. Pelo Código de Defesa do Consumidor, quem compra pela internet pode desistir em até 7 dias do recebimento e receber o dinheiro de volta, e o Procon-SP orienta que a embalagem intacta não pode ser exigida para isso. Para reclamar de defeito, o prazo legal é de 30 dias para produto não durável, como maquiagem, e de 90 para durável, como a mini geladeira.",
         "O pedido é pelo e-mail info@oceane.com.br, com número do pedido, lote, validade, nome e foto do produto e o motivo. A loja responde em até 24 horas úteis. A devolução pelos Correios usa um código de autorização de postagem, com um envio por pedido, e a análise leva até 9 dias úteis depois que a caixa chega ao centro de distribuição.",
         "A Océane não troca produto por produto: a troca sai como vale-compras. O reembolso, quando é o caso, é pelo valor pago: com o EMCASA, o valor já vem com o desconto. Se a compra tinha brinde e a devolução deixa o total abaixo do valor que dava direito a ele, o brinde volta para a loja."
       ]
@@ -220,7 +220,7 @@
         "O EMCASA funciona no app da Océane? Funciona: no app, o cupom entra na Sacola, o preço de cada item já vem com o desconto e o resumo traz a linha “Desconto”.",
         "O cupom soma com o preço especial do app? Soma: no nosso teste, os itens que já estavam em preço especial do app ganharam os 10% por cima.",
         "O cupom vale no Pix? Vale. O EMCASA funciona em todas as formas de pagamento, e o Pix pede identificação depois da sacola, onde o cupom já entrou.",
-        "Quantos dias para trocar na Océane? Segundo a loja, a devolução pode ser pedida em até 7 dias corridos do recebimento e o defeito, em até 30 dias corridos; a troca sai como vale-compras."
+        "Quantos dias para trocar na Océane? A loja aceita a devolução em até 7 dias corridos do recebimento e o pedido por defeito em até 30, e a troca sai como vale-compras. Pela lei, a desistência da compra online em até 7 dias dá direito a reembolso, e o prazo para reclamar de defeito é de 30 dias para produto não durável e de 90 para durável."
       ]
     }
   ],
