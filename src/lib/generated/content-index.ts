@@ -65414,37 +65414,37 @@ export const reviewsData: unknown[] = [
           "Além das peças, a SHEIN montou seleções temáticas para a campanha. Cada uma tem um código de busca: digite o código na lupa do aplicativo da SHEIN, ou abra pelo link, e a seleção aparece. Esses códigos são atalhos de busca: não vão no checkout e não são cupom."
         ],
         "comparisonTable": {
-          "caption": "O que a SHEIN anuncia em cada seleção. O \"até\" vale para alguns itens da seleção, nunca para o carrinho inteiro.",
+          "caption": "O que cada seleção reúne. O desconto mostrado em cada uma vale para alguns itens da seleção, nunca para o carrinho inteiro.",
           "headers": [
             "Seleção",
             "Código de busca",
-            "O que a SHEIN anuncia"
+            "O que reúne"
           ],
           "rows": [
             [
-              "[Mais vendidos da campanha](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[Calçados e bolsas em promoção relâmpago](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "Até 90% em itens selecionados"
+              "Sapatos, sandálias e bolsas com preço de promoção relâmpago"
             ],
             [
-              "[Liquidação e cupom para novos usuários](https://onelink.shein.com/60/68f7vymzstri)",
+              "[Super ofertas](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "Itens por menos de R$ 1 e cupom de 50% para cada novo usuário"
+              "Itens com desconto de várias categorias"
             ],
             [
               "[Pijamas e lingerie](https://onelink.shein.com/60/68f7wq9fealr)",
               "J9HCV76",
-              "Até 80% em itens selecionados"
+              "Pijamas, lingerie e roupa íntima"
             ],
             [
               "[Escolhas masculinas](https://onelink.shein.com/60/68f7x04kxv9f)",
               "7G433M3",
-              "Até 80% em itens selecionados"
+              "Roupas masculinas"
             ],
             [
               "[SHEGLAM, maquiagem](https://onelink.shein.com/60/68f7xltx7684)",
               "7R422UP",
-              "Até 70% em itens selecionados"
+              "Maquiagem da SHEGLAM"
             ],
             [
               "[Encontre o ajuste perfeito](https://onelink.shein.com/60/68f7xvp2pcac)",
@@ -65454,7 +65454,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom de 50% da seleção B75N67A é só para novos usuários, e o teto, o valor mínimo e quem pode usar aparecem na conta e no checkout. Quem já comprou na SHEIN não recebe esse cupom.",
+          "Na seleção B75N67A, a SHEIN às vezes mostra um cupom para novos usuários. Quando ele aparece, o teto, o valor mínimo e quem pode usar ficam na conta e no checkout.",
           "O 4CW5Y é outra coisa: é o código de indicação da Cecília. Pesquisado no app ou no site, ou aberto pelo link deste guia, ele leva a uma seleção com promoções e descontos, e vale para quem já é cliente também.",
           "Duas seleções pedem cuidado com a devolução. Lingerie e roupa íntima só voltam em 7 dias contados da entrega. Na SHEGLAM, cosmético com o lacre aberto também só volta nesse prazo de 7 dias: confira o tom e a lista de ingredientes na página antes de abrir.",
           "A seleção M3UP428 reúne roupas por estilo e modelagem. Use junto com a tabela de medidas de cada peça."
@@ -66469,14 +66469,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Campaign best sellers](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[Shoes and bags flash sale](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "The campaign's most sold items"
+              "Shoes, sandals and bags at flash-sale prices"
             ],
             [
-              "[Clearance and new-user coupon](https://onelink.shein.com/60/68f7vymzstri)",
+              "[Super offers](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "Clearance items and a coupon SHEIN announces for new users"
+              "Discounted items from several categories"
             ],
             [
               "[Sleepwear and lingerie](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -66501,7 +66501,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "The coupon in the B75N67A selection is for new users only. The cap, the minimum spend and who can use it appear in your account and at checkout.",
+          "In the B75N67A selection, SHEIN sometimes shows a coupon for new users. When it appears, the cap, the minimum spend and who can use it show in your account and at checkout.",
           "4CW5Y is something else: it is Cecília's referral code. Searched in the app or on the site, or opened through the link in this guide, it leads to a selection with promotions and discounts, and it works for existing customers too.",
           "Two selections call for care with returns. Lingerie and underwear usually have stricter return rules, and so do cosmetics once the seal is open: check the shade and the ingredient list on the SHEGLAM page before opening, and read your store's return policy before paying.",
           "The M3UP428 selection groups clothes by style and fit. Use it together with the size chart of each piece."
@@ -67369,14 +67369,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Los más vendidos de la campaña](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[Calzado y bolsos en oferta relámpago](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "Los artículos más vendidos de la campaña"
+              "Zapatos, sandalias y bolsos con precio de oferta relámpago"
             ],
             [
-              "[Liquidación y cupón para clientes nuevos](https://onelink.shein.com/60/68f7vymzstri)",
+              "[Superofertas](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "Artículos en liquidación y un cupón que SHEIN anuncia para clientes nuevos"
+              "Artículos con descuento de varias categorías"
             ],
             [
               "[Pijamas y lencería](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -67401,7 +67401,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "El cupón de la selección B75N67A es solo para clientes nuevos. El tope, el gasto mínimo y quién puede usarlo aparecen en tu cuenta y al pagar.",
+          "En la selección B75N67A, SHEIN a veces muestra un cupón para clientes nuevos. Cuando aparece, el tope, el gasto mínimo y quién puede usarlo se ven en tu cuenta y al pagar.",
           "El 4CW5Y es otra cosa: es el código de referido de Cecília. Buscado en la app o en la web, o abierto con el enlace de esta guía, lleva a una selección con promociones y descuentos, y también sirve para clientes que ya compraron.",
           "Dos selecciones piden cuidado con las devoluciones. La lencería y la ropa interior suelen tener reglas de devolución más estrictas, y los cosméticos también una vez abierto el precinto: revisa el tono y la lista de ingredientes en la página de SHEGLAM antes de abrir, y lee la política de devolución de tu tienda antes de pagar.",
           "La selección M3UP428 agrupa la ropa por estilo y ajuste. Úsala junto con la tabla de medidas de cada prenda."
@@ -68269,14 +68269,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Meilleures ventes de la campagne](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[Chaussures et sacs en vente flash](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "Les articles les plus vendus de la campagne"
+              "Chaussures, sandales et sacs à prix de vente flash"
             ],
             [
-              "[Déstockage et coupon nouveau client](https://onelink.shein.com/60/68f7vymzstri)",
+              "[Super offres](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "Des articles déstockés et un coupon que SHEIN annonce pour les nouveaux clients"
+              "Des articles en promotion de plusieurs catégories"
             ],
             [
               "[Pyjamas et lingerie](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -68301,7 +68301,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Le coupon de la sélection B75N67A est réservé aux nouveaux clients. Le plafond, le minimum d'achat et les personnes concernées s'affichent dans votre compte et au paiement.",
+          "Dans la sélection B75N67A, SHEIN affiche parfois un coupon pour les nouveaux clients. Quand il apparaît, le plafond, le minimum d'achat et les personnes concernées s'affichent dans votre compte et au paiement.",
           "Le 4CW5Y, c'est autre chose : c'est le code de parrainage de Cecília. Recherché dans l'appli ou sur le site, ou ouvert via le lien de ce guide, il mène à une sélection avec des promotions et des remises, et il fonctionne aussi pour les clients existants.",
           "Deux sélections demandent de la prudence côté retours. La lingerie et les sous-vêtements ont souvent des règles de retour plus strictes, tout comme les cosmétiques une fois le scellé ouvert : vérifiez la teinte et la liste des ingrédients sur la page SHEGLAM avant d'ouvrir, et lisez la politique de retour de votre boutique avant de payer.",
           "La sélection M3UP428 classe les vêtements par style et par coupe. Utilisez-la avec le tableau des tailles de chaque pièce."
@@ -69169,14 +69169,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Bestseller der Kampagne](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[Schuhe und Taschen im Blitzverkauf](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "Die meistverkauften Artikel der Kampagne"
+              "Schuhe, Sandalen und Taschen zu Blitzangebotspreisen"
             ],
             [
-              "[Restposten und Gutschein für Neukunden](https://onelink.shein.com/60/68f7vymzstri)",
+              "[Superangebote](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "Restposten und ein Gutschein, den SHEIN für Neukunden ankündigt"
+              "Reduzierte Artikel aus mehreren Kategorien"
             ],
             [
               "[Schlafmode und Dessous](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -69201,7 +69201,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Der Gutschein in der Auswahl B75N67A gilt nur für Neukunden. Obergrenze, Mindestbestellwert und wer ihn nutzen kann, sehen Sie in Ihrem Konto und an der Kasse.",
+          "In der Auswahl B75N67A zeigt SHEIN manchmal einen Gutschein für Neukunden. Wenn er erscheint, sehen Sie Obergrenze, Mindestbestellwert und wer ihn nutzen kann in Ihrem Konto und an der Kasse.",
           "4CW5Y ist etwas anderes: Es ist Cecílias Empfehlungscode. Wenn Sie ihn in der App oder auf der Website suchen oder über den Link in diesem Leitfaden öffnen, führt er zu einer Auswahl mit Aktionen und Rabatten, und er funktioniert auch für Bestandskunden.",
           "Bei zwei Auswahlen sollten Sie auf die Rückgabe achten. Dessous und Unterwäsche haben meist strengere Rückgaberegeln, ebenso Kosmetik, sobald das Siegel geöffnet ist: Prüfen Sie Farbton und Inhaltsstoffe auf der SHEGLAM-Seite, bevor Sie öffnen, und lesen Sie die Rückgaberichtlinie Ihres Shops, bevor Sie bezahlen.",
           "Die Auswahl M3UP428 gruppiert Kleidung nach Stil und Passform. Nutzen Sie sie zusammen mit der Größentabelle jedes Teils."
@@ -70069,14 +70069,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Più venduti della campagna](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[Scarpe e borse in vendita lampo](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "Gli articoli più venduti della campagna"
+              "Scarpe, sandali e borse a prezzi da vendita lampo"
             ],
             [
-              "[Liquidazione e coupon per nuovi utenti](https://onelink.shein.com/60/68f7vymzstri)",
+              "[Super offerte](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "Articoli in liquidazione e un coupon che SHEIN annuncia per i nuovi utenti"
+              "Articoli scontati di varie categorie"
             ],
             [
               "[Notte e lingerie](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -70101,7 +70101,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Il coupon nella selezione B75N67A è solo per nuovi utenti. Il tetto, la spesa minima e chi può usarlo compaiono nel tuo account e al checkout.",
+          "Nella selezione B75N67A, SHEIN a volte mostra un coupon per nuovi utenti. Quando compare, il tetto, la spesa minima e chi può usarlo si vedono nel tuo account e al checkout.",
           "Il 4CW5Y è un'altra cosa: è il codice invito di Cecília. Cercato nell'app o sul sito, o aperto dal link di questa guida, porta a una selezione con promozioni e sconti, e funziona anche per chi è già cliente.",
           "Due selezioni richiedono attenzione ai resi. Lingerie e biancheria intima di solito hanno regole di reso più severe, e così la cosmesi una volta aperto il sigillo: controlla la tonalità e la lista degli ingredienti sulla pagina SHEGLAM prima di aprire, e leggi la politica di reso del tuo shop prima di pagare.",
           "La selezione M3UP428 raggruppa gli abiti per stile e vestibilità. Usala insieme alla tabella delle misure di ogni capo."
@@ -70969,14 +70969,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[캠페인 베스트셀러](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[신발·가방 타임 세일](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "캠페인 기간 가장 많이 팔린 상품"
+              "타임 세일 가격의 신발, 샌들, 가방"
             ],
             [
-              "[재고 정리와 신규 회원 쿠폰](https://onelink.shein.com/60/68f7vymzstri)",
+              "[슈퍼 특가](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "재고 정리 상품과 SHEIN이 신규 회원에게 알리는 쿠폰"
+              "여러 카테고리의 할인 상품"
             ],
             [
               "[잠옷과 속옷](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -71001,7 +71001,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "B75N67A 모음의 쿠폰은 신규 회원 전용입니다. 한도, 최소 구매 금액, 사용 대상은 계정과 결제 화면에 표시됩니다.",
+          "B75N67A 모음에는 SHEIN이 신규 회원 쿠폰을 표시할 때가 있습니다. 쿠폰이 보이면 한도, 최소 구매 금액, 사용 대상은 계정과 결제 화면에서 확인할 수 있습니다.",
           "4CW5Y는 이와 다릅니다. Cecília의 추천 코드입니다. 앱이나 사이트에서 검색하거나 이 가이드의 링크로 열면 프로모션과 할인이 있는 모음으로 이어지며, 기존 회원도 사용할 수 있습니다.",
           "반품 때문에 주의할 모음이 두 곳 있습니다. 속옷은 반품 규정이 더 까다로운 경우가 많고, 화장품도 봉인을 뜯으면 마찬가지입니다. 열기 전에 SHEGLAM 페이지에서 색상과 성분 목록을 확인하고, 결제 전에 스토어의 반품 정책을 읽어 보세요.",
           "M3UP428 모음은 스타일과 핏별로 옷을 묶어 둔 것입니다. 상품별 사이즈표와 함께 활용하세요."
@@ -71895,14 +71895,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[キャンペーンのベストセラー](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[靴とバッグのタイムセール](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "キャンペーンで最も売れた商品"
+              "タイムセール価格の靴・サンダル・バッグ"
             ],
             [
-              "[在庫処分と新規ユーザー向けクーポン](https://onelink.shein.com/60/68f7vymzstri)",
+              "[スーパーセール](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "在庫処分の商品と、SHEINが新規ユーザー向けに案内するクーポン"
+              "さまざまなカテゴリーの割引商品"
             ],
             [
               "[ルームウェアとランジェリー](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -71927,7 +71927,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "B75N67Aのセレクションにあるクーポンは新規ユーザー専用です。上限額、最低利用金額、対象となる人は、アカウントと決済画面に表示されます。",
+          "B75N67Aのセレクションでは、SHEINが新規ユーザー向けのクーポンを表示することがあります。表示された場合、上限額、最低利用金額、対象となる人はアカウントと決済画面で確認できます。",
           "4CW5Yはそれとは別のものです。Cecíliaの紹介コードで、アプリやサイトで検索するか、このガイドのリンクから開くと、プロモーションや割引のあるセレクションにつながります。既存のお客様も使えます。",
           "返品で注意したいセレクションが2つあります。ランジェリーやアンダーウェアは返品ルールが厳しいことが多く、化粧品も開封後は同様です。開ける前にSHEGLAMのページで色と成分表を確認し、支払う前にストアの返品ポリシーを読んでください。",
           "M3UP428のセレクションは、スタイルとフィット別に服をまとめたものです。各商品のサイズ表と合わせて使ってください。"
@@ -72795,14 +72795,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[活動熱銷榜](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[鞋包限時搶購](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "活動期間賣得最好的商品"
+              "限時搶購價的鞋子、涼鞋和包包"
             ],
             [
-              "[清倉與新用戶優惠券](https://onelink.shein.com/60/68f7vymzstri)",
+              "[超值優惠](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "清倉商品，以及 SHEIN 公布給新用戶的優惠券"
+              "多個品類的折扣商品"
             ],
             [
               "[睡衣與內衣](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -72827,7 +72827,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "B75N67A 精選裡的優惠券只限新用戶使用。上限、最低消費金額和誰能使用，會顯示在你的帳號和結帳頁面。",
+          "在 B75N67A 精選裡，SHEIN 有時會顯示新用戶優惠券。出現時，上限、最低消費金額和誰能使用，會顯示在你的帳號和結帳頁面。",
           "4CW5Y 則不同：它是 Cecília 的推薦碼。在 App 或網站搜尋它，或透過本文的連結開啟，會進入含促銷和折扣的精選，老用戶也能使用。",
           "有兩個精選在退貨上要多留意。內衣和貼身衣物的退貨規定通常較嚴，化妝品拆封後也一樣：拆封前請先在 SHEGLAM 頁面確認色號和成分表，付款前請先讀所在商店的退貨政策。",
           "M3UP428 精選依風格和版型整理服飾。請搭配每件商品的尺寸表一起使用。"
@@ -73695,14 +73695,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[活动热销榜](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[鞋包限时抢购](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "活动期间卖得最好的商品"
+              "限时抢购价的鞋子、凉鞋和包包"
             ],
             [
-              "[清仓与新用户优惠券](https://onelink.shein.com/60/68f7vymzstri)",
+              "[超值优惠](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "清仓商品，以及 SHEIN 公布给新用户的优惠券"
+              "多个品类的折扣商品"
             ],
             [
               "[睡衣与内衣](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -73727,7 +73727,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "B75N67A 精选里的优惠券只限新用户使用。上限、最低消费金额和谁能使用，会显示在你的账号和结账页面。",
+          "在 B75N67A 精选里，SHEIN 有时会显示新用户优惠券。出现时，上限、最低消费金额和谁能使用，会显示在你的账号和结账页面。",
           "4CW5Y 则不同：它是 Cecília 的推荐码。在 App 或网站搜索它，或通过本文的链接打开，会进入含促销和折扣的精选，老用户也能使用。",
           "有两个精选在退货上要多留意。内衣和贴身衣物的退货规定通常更严，化妆品拆封后也一样：拆封前请先在 SHEGLAM 页面确认色号和成分表，付款前请先读所在商店的退货政策。",
           "M3UP428 精选按风格和版型整理服饰。请搭配每件商品的尺码表一起使用。"
@@ -311856,14 +311856,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[الأكثر مبيعًا في الحملة](https://onelink.shein.com/60/68f7ufe4ubai)",
+              "[تخفيضات خاطفة على الأحذية والحقائب](https://onelink.shein.com/60/68f7ufe4ubai)",
               "24V7643",
-              "أكثر قطع الحملة مبيعًا"
+              "أحذية وصنادل وحقائب بأسعار التخفيضات الخاطفة"
             ],
             [
-              "[التصفية وكوبون المستخدم الجديد](https://onelink.shein.com/60/68f7vymzstri)",
+              "[عروض كبرى](https://onelink.shein.com/60/68f7vymzstri)",
               "B75N67A",
-              "قطع التصفية وكوبون تعلنه SHEIN للمستخدمين الجدد"
+              "قطع مخفّضة من فئات مختلفة"
             ],
             [
               "[ملابس النوم والملابس الداخلية](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -311888,7 +311888,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "الكوبون في مجموعة B75N67A للمستخدمين الجدد فقط. أما السقف والحد الأدنى للإنفاق ومن يحق له استخدامه فتظهر في حسابك وعند الدفع.",
+          "في مجموعة B75N67A تعرض SHEIN أحيانًا كوبونًا للمستخدمين الجدد. وعندما يظهر، تجد السقف والحد الأدنى للإنفاق ومن يحق له استخدامه في حسابك وعند الدفع.",
           "الرمز 4CW5Y شيء آخر: هو رمز الإحالة الخاص بـ Cecília. عند البحث عنه في التطبيق أو الموقع، أو فتحه عبر الرابط في هذا الدليل، يقود إلى مجموعة فيها عروض وخصومات، وهو يصلح للعملاء الحاليين أيضًا.",
           "مجموعتان تستدعيان الحذر في الإرجاع. الملابس الداخلية عادةً لها قواعد إرجاع أشد، وكذلك مستحضرات التجميل بعد فتح الختم: تحقق من الدرجة وقائمة المكونات في صفحة SHEGLAM قبل الفتح، واقرأ سياسة الإرجاع في متجرك قبل الدفع.",
           "مجموعة M3UP428 تجمع الملابس بحسب الأسلوب والقصّة. استخدمها مع جدول مقاسات كل قطعة."
