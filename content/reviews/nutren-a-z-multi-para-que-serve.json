@@ -49,13 +49,15 @@
           "src": "/images/reviews/nutren/nutren-a-z-multi-frente-frasco.webp",
           "alt": "Frente do frasco do Nutren A-Z Multi de 60 cápsulas, suplemento alimentar em cápsulas da Nestlé Health Science",
           "caption": "Frente do frasco de 60 cápsulas.",
-          "objectFit": "portrait"
+          "objectFit": "contain",
+          "href": "https://www.nestlenutre.com.br/nutren-multi-az-60-capsulas"
         },
         {
           "src": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
           "alt": "Lateral do frasco do Nutren A-Z Multi com as três alegações do rótulo, as recomendações de uso e o fabricante",
           "caption": "As três frases do rótulo, cada uma com os nutrientes, e as recomendações de uso.",
-          "objectFit": "portrait"
+          "objectFit": "contain",
+          "href": "https://www.nestlenutre.com.br/nutren-multi-az-60-capsulas"
         }
       ]
     },
@@ -177,10 +179,12 @@
       "postParagraphs": [
         "O rótulo fala em \"minerais quelados\" e cita o bisglicinato de ferro, o bisglicinato de manganês e a selenometionina."
       ],
-      "image": "/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
-      "imageAlt": "Rótulo do Nutren A-Z Multi com a informação nutricional por cápsula, os ingredientes e o aviso de que não contém glúten",
-      "imageCaption": "Informação nutricional por cápsula, ingredientes e alérgicos no frasco.",
-      "imageFit": "portrait"
+      "image": {
+        "src": "/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
+        "alt": "Rótulo do Nutren A-Z Multi com a informação nutricional por cápsula, os ingredientes e o aviso de que não contém glúten",
+        "caption": "Informação nutricional por cápsula, ingredientes e alérgicos no frasco.",
+        "objectFit": "contain"
+      }
     },
     {
       "heading": "Nutren A-Z Multi engorda? As calorias por cápsula",
@@ -202,7 +206,7 @@
     {
       "heading": "Como tomar",
       "paragraphs": [
-        "O modo de uso do rótulo é ingerir 1 cápsula ao dia. O produto é indicado para maiores de 19 anos (adultos), e o rótulo pede para não exceder a recomendação diária. Mantenha fora do alcance de crianças. Quem já toma remédio ou outro suplemento deve falar antes com o médico ou nutricionista, como o próprio rótulo orienta.",
+        "O modo de uso do rótulo é ingerir 1 cápsula ao dia. O rótulo destina o produto a maiores de 19 anos (adultos) e pede para não exceder a recomendação diária. Mantenha fora do alcance de crianças. Quem já toma remédio ou outro suplemento deve falar antes com o médico ou nutricionista, como o próprio rótulo orienta.",
         "Conservação, também pelo rótulo: local seco, fresco e ao abrigo da luz. Depois de aberto, consumir em até 60 dias, o que cobre as 60 cápsulas na dose de uma por dia."
       ]
     },
@@ -250,6 +254,23 @@
       },
       "postParagraphs": [
         "O custo por dia é uma conta nossa: preço do frasco dividido pelos dias que ele dura na dose indicada (60 dias para o Multi de 60 cápsulas, 30 dias para Mulher e Senior). Usamos o preço de compra única da loja, sem assinatura e sem código, e ele muda. Para ver as outras linhas, leia o [guia das linhas Nutren](/reviews/nestle-nutre-produtos-para-que-servem) e o texto sobre o [Nutren Senior em pó](/reviews/nutren-senior-como-tomar-sem-empelotar)."
+      ],
+      "links": [
+        {
+          "label": "Ver o Nutren A-Z Multi 60 cápsulas na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-multi-az-60-capsulas",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Nutren A-Z Mulher na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-mulher-softgel-60-capsulas",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Nutren A-Z Senior na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-multi-senior-60-capsulas",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -261,12 +282,23 @@
     {
       "heading": "Onde comprar e como usar o CECI",
       "paragraphs": [
-        "O Nutren A-Z Multi 60 cápsulas está na loja oficial da Nestlé Nutre. O CECI dá 10% OFF na loja oficial, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Digite o código no carrinho e confira o valor no resumo do pedido. As regras ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre)."
+        "O Nutren A-Z Multi 60 cápsulas está na loja oficial da Nestlé Nutre. O CECI dá 10% OFF na compra única da loja oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre. Digite o código no carrinho e confira o valor no resumo do pedido. As regras ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre)."
+      ]
+    },
+    {
+      "heading": "Qual versão escolher pelo rótulo",
+      "paragraphs": [
+        "A linha tem três versões, e o que muda é o público, a dose e o preço por dia, todos na tabela da linha."
+      ],
+      "emphasis": "Pelos números da tabela, para o adulto que quer uma cápsula por dia e o menor custo diário da linha a escolha é o A-Z Multi de 60 cápsulas, porque custa cerca de R$ 0,82 por dia, contra R$ 1,86 do A-Z Mulher e R$ 2,66 do Sênior A-Z, que têm outro público e dose de 2 cápsulas.",
+      "postParagraphs": [
+        "Para dose, uso com outros remédios ou suplementos e a escolha da versão, o rótulo manda falar com um profissional de saúde: médico ou nutricionista."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Nutren A-Z Multi serve para homens e mulheres? O rótulo indica o Multi para adultos maiores de 19 anos, na dose de 1 cápsula ao dia. A linha tem também o A-Z Mulher, com dose de 2 cápsulas por dia.",
         "Nutren A-Z Multi tem glúten? Não. O rótulo diz \"não contém glúten\" e informa que contém derivados de soja.",
         "Nutren A-Z Multi engorda? O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares, proteínas ou gorduras.",
@@ -286,10 +318,13 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Guia feito com o rótulo do frasco e a página da loja, sem teste de uso. Podemos receber comissão pela Nestlé Nutre.",
+  "editorialNote": "Informações de rótulos e páginas oficiais da Nestlé, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "nestle-nutre-produtos-para-que-servem"
+    },
+    {
+      "slug": "nutren-a-z-ou-centrum"
     },
     {
       "slug": "nutren-just-protein-para-que-serve"
@@ -297,5 +332,16 @@
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "o Nutren A-Z Multi de 60 cápsulas: você é adulto, quer uma cápsula por dia e compara pelo menor custo por dia da linha.",
+      "o A-Z Mulher ou o Sênior A-Z: você prefere a versão do seu público e aceita a dose de 2 cápsulas por dia."
+    ],
+    "skipIf": [
+      "o Nutren A-Z Multi: você segue dieta sem produtos de origem animal, porque o rótulo lista gelatina, carmim e cera de abelha.",
+      "o Nutren A-Z Multi: você tem menos de 19 anos, porque o rótulo o destina a adultos."
+    ]
+  },
+  "updatedAt": "2026-11-23"
 }

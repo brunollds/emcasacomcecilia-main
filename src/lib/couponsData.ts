@@ -770,7 +770,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
-      'O cupom Nestlé Nutre CECI dá 10% OFF na loja oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado num carrinho de R$ 296,50, com R$ 29,65 de desconto.',
+      'O cupom Nestlé Nutre CECI dá 10% OFF na loja oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado na Semana Black Friday: entrou sobre o preço da campanha, com 10% a menos no total.',
     metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI',
     metaTitleMonth: true,
     metaDescription:
@@ -788,13 +788,18 @@ const STORE_COUPONS: Coupon[] = [
     paymentPerks: [
       'Até 6x sem juros no cartão',
     ],
-    lastVerified: '2026-11-11',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-23',
+    testedAt: '2026-11-23',
     testNote:
-      'Num carrinho com o Kit Nutren Senior Zero Lactose, duas latas de 740 g por R$ 296,50, o CECI aplicou R$ 29,65 de desconto, os 10%, e o total caiu para R$ 266,85.',
+      'Num carrinho com a Nutren Creatina Sachet de 300 g por R$ 47,92, já no preço da Semana Black Friday, o CECI aplicou R$ 4,79 de desconto, os 10%, e o total caiu para R$ 43,13.',
     aboutBrand:
       'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. A loja também vende fórmulas infantis NAN para bebês de 0 a 12 meses; nesses produtos o cupom não deve ser usado, porque o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais em fórmulas para lactentes, inclusive na internet. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Nestlé Nutre?',
+        answer:
+          'O cupom da Nestlé Nutre da nossa parceria é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.',
+      },
       {
         question: 'O cupom CECI vale para todos os produtos Nestlé Nutre?',
         answer:
@@ -808,7 +813,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom CECI vale nos produtos Nutren?',
         answer:
-          'Sim. A linha Nutren é vendida na loja Nestlé Nutre, e o CECI vale nela como nos outros produtos da loja, exceto Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses. No nosso teste mais recente, o Kit Nutren Senior Zero Lactose, com duas latas de 740 g, saiu de R$ 296,50 por R$ 266,85.',
+          'Sim. A linha Nutren é vendida na loja Nestlé Nutre, e o CECI vale nela como nos outros produtos da loja, exceto Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses. No nosso teste mais recente, na Semana Black Friday, a Nutren Creatina de 300 g saiu de R$ 47,92 por R$ 43,13.',
       },
       {
         question: 'O cupom CECI vale para fórmulas infantis NAN?',
@@ -842,6 +847,11 @@ const STORE_COUPONS: Coupon[] = [
         mercadoLivreUrl: 'https://meli.la/2zH895L',
       },
       {
+        question: 'O cupom CECI vale na assinatura da Nestlé Nutre?',
+        answer:
+          'Não. O CECI vale só na compra única. A assinatura tem o desconto dela: 10% nas três primeiras entregas e 15% a partir da quarta, sobre o preço do site, com frete grátis acima de R$ 200.',
+      },
+      {
         question: 'A Nestlé Nutre tem aplicativo?',
         answer:
           'Não. A Nestlé Nutre vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o CECI vale: digite o código no campo de cupom, antes de pagar.',
@@ -869,7 +879,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom Nestlé Nutre vale na Black Friday?',
         answer:
-          'Vale. O cupom Nestlé Nutre CECI dá 10% OFF sobre os preços do Black Month, a campanha de novembro da loja, nos produtos elegíveis. A loja aceita um cupom por pedido.',
+          'Vale. No nosso teste, o CECI deu 10% OFF sobre os preços da Semana Black Friday da Nestlé Nutre, nos produtos elegíveis. A loja aceita um cupom por pedido.',
       },
       {
         question: 'O que fazer se o cupom CECI não funcionar?',
@@ -881,10 +891,28 @@ const STORE_COUPONS: Coupon[] = [
     featured: false,
     relatedContent: [
       {
-        title: 'Cupom Nestlé Nutre CECI: como usar o desconto de 10%',
+        title: 'Como usar o cupom CECI na Nestlé Nutre: 10% de desconto',
         url: '/reviews/cupom-ceci-nestle-nutre-como-usar',
         type: 'review',
         publishedAt: '2026-07-10',
+      },
+      {
+        title: 'Nestlé Nutre é confiável? O que observar antes de comprar',
+        url: '/reviews/nestle-nutre-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-08-05',
+      },
+      {
+        title: 'Cupom Nestlé Nutre primeira compra: CECI dá 10% OFF e vale nas compras seguintes',
+        url: '/reviews/cupom-nestle-nutre-primeira-compra',
+        type: 'review',
+        publishedAt: '2026-11-12',
+      },
+      {
+        title: 'Nutren Senior: qual tamanho e qual forma de compra compensam (370 g, 740 g, kit, combo ou assinatura)',
+        url: '/reviews/nutren-senior-kit-combo-ou-assinatura',
+        type: 'review',
+        publishedAt: '2026-10-28',
       },
     ],
     monthlyHighlight: {

@@ -33,7 +33,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Rótulos e páginas oficiais, sem uso próprio. Podemos receber comissão pelo cupom CECI. Uso só com médico ou nutricionista.",
   "relatedArticles": [
     {
       "slug": "novasource-proline-para-que-serve"
@@ -99,10 +99,13 @@
           ]
         ]
       },
-      "image": "/images/reviews/nutren/impact-baunilha-200ml-oficial.webp",
-      "imageAlt": "Caixinha de 200 ml do Impact sabor baunilha, fórmula modificada para nutrição enteral e oral com 1,1 kcal por mL, sem lactose e sem adição de sacarose",
-      "imageCaption": "Impact Baunilha, caixinha de 200 ml. Foto oficial da Nestlé Nutre.",
-      "imageFit": "portrait"
+      "image": {
+        "src": "/images/reviews/nutren/impact-baunilha-200ml-oficial.webp",
+        "alt": "Caixinha de 200 ml do Impact sabor baunilha, fórmula modificada para nutrição enteral e oral com 1,1 kcal por mL, sem lactose e sem adição de sacarose",
+        "caption": "Impact Baunilha, caixinha de 200 ml. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/impact-baunilha-tetra-slim-200ml-1"
+      }
     },
     {
       "heading": "Tabela nutricional por caixinha de 200 ml",
@@ -202,18 +205,18 @@
     {
       "heading": "O que a Nestlé diz de cada uma",
       "paragraphs": [
-        "Para o Novasource Proline, a página da Nestlé Nutre fala em “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”.",
-        "Para o Impact, a página diz que ele serve “para compor dietas de pessoas em situações específicas”, que ela lista, “conforme orientação de médico ou nutricionista”.",
-        "As duas caixinhas trazem a mesma advertência: usar somente sob orientação médica ou de nutricionista, com uso proibido por via parenteral. Qual delas usar, e quanto, quem define é o profissional que acompanha o caso."
+        "Para o Novasource Proline, a página da Nestlé Nutre declara “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”.",
+        "Para o Impact, a página declara que ele serve “para compor dietas de pessoas em situações específicas”, que ela lista, “conforme orientação de médico ou nutricionista”.",
+        "As duas caixinhas trazem a mesma advertência: usar somente sob orientação médica ou de nutricionista, com uso proibido por via parenteral."
       ]
     },
     {
       "heading": "Caixinha ou combo de baunilha",
       "paragraphs": [
-        "Para a fórmula que você já recebeu como indicação, compare a avulsa com o combo do mesmo produto. Com o CECI, o Proline baixou de R$ 17,81 por caixinha avulsa para R$ 15,83 no combo de 10. O Impact baixou de R$ 18,28 para R$ 17,20 no combo de 15."
+        "Para a fórmula que você já recebeu como indicação, compare a avulsa com o combo do mesmo produto: nas duas, o combo baixa o preço por caixinha, como mostra a tabela com o CECI."
       ],
       "comparisonTable": {
-        "caption": "Preços da Nestlé Nutre em 19/11, sem frete, para baunilha. As linhas com CECI são da compra única testada. Não testamos o código no combo de 30 do Impact nem na assinatura.",
+        "caption": "Preços da Nestlé Nutre em 19/11, sem frete, para baunilha. As linhas com CECI são da compra única testada. O CECI não foi conferido no combo de 30 do Impact, e a assinatura fica fora do código.",
         "headers": [
           "Compra",
           "Preço",
@@ -276,14 +279,62 @@
       ]
     },
     {
+      "heading": "Qual escolher: Proline ou Impact",
+      "paragraphs": [
+        "A conta abaixo une o preço com CECI da tabela de preços e a proteína de cada caixinha. As duas fórmulas têm composição e finalidade declaradas diferentes: a escolha entre elas, e qualquer troca, cabe ao médico ou nutricionista que acompanha o caso."
+      ],
+      "comparisonTable": {
+        "caption": "Contas nossas: preço por caixinha com o CECI dividido pelos gramas de proteína.",
+        "headers": [
+          "Compra",
+          "Proteína por caixinha",
+          "Custo por grama de proteína"
+        ],
+        "rows": [
+          [
+            "Proline, combo de 10",
+            "20 g",
+            "R$ 0,79"
+          ],
+          [
+            "Proline, caixinha avulsa",
+            "20 g",
+            "R$ 0,89"
+          ],
+          [
+            "Impact, combo de 15",
+            "13 g",
+            "R$ 1,32"
+          ],
+          [
+            "Impact, caixinha avulsa",
+            "13 g",
+            "R$ 1,41"
+          ]
+        ]
+      },
+      "emphasis": "Pelos números da tabela, para o perfil que compara proteína e arginina por caixinha a escolha é o Novasource Proline (20 g e 3 g, contra 13 g e 0,8 g), e para o perfil que olha o ômega-3 é o Impact de baunilha (600 mg, contra 400 mg), porque o Proline sai de R$ 0,79 a R$ 0,89 por grama de proteína e o Impact de R$ 1,32 a R$ 1,41."
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Posso trocar Novasource Proline por Impact? Converse com o médico ou nutricionista responsável. As fórmulas têm composições e indicações diferentes.",
         "Qual tem mais proteína e arginina? Em 200 ml, o Proline declara 20 g de proteína e 3 g de arginina. O Impact de baunilha declara 13 g de proteína e 0,8 g de arginina.",
         "Qual tem mais ômega-3? O Impact de baunilha declara 600 mg por caixinha de 200 ml. O Proline declara 400 mg.",
-        "Os dois têm lactose? O Impact de baunilha declara 0 g. A tabela do Proline declara 0,1 g por 100 ml.",
-        "O cupom CECI vale no Novasource Proline e no Impact? O CECI deu 10% nos testes de compra única na Nestlé Nutre, nas duas caixinhas de baunilha e nos combos de 10 do Proline e de 15 do Impact."
+        "Os dois têm lactose? O Impact de baunilha declara 0 g. A tabela do Proline declara 0,1 g por 100 ml."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "o Novasource Proline: a prescrição pede a caixinha com mais proteína e arginina (20 g e 3 g por 200 ml) e você compara o custo por grama de proteína.",
+      "o Impact de baunilha: a prescrição pede a fórmula com mais ômega-3 (600 mg por caixinha) e nucleotídeos na lista de ingredientes."
+    ],
+    "skipIf": [
+      "Você quer trocar uma fórmula pela outra só pelo preço: as duas têm composição e finalidade declaradas diferentes, e a troca é decisão do profissional.",
+      "Você precisa evitar peixe ou sucralose: o Impact traz derivados de peixe e sucralose na lista de ingredientes."
+    ]
+  },
+  "updatedAt": "2026-11-23"
 }

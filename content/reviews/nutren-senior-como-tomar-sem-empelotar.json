@@ -17,24 +17,15 @@
   "metaDescription": "Como tomar Nutren Senior sem empelotar, com o cupom CECI de 10% OFF na Nestlé Nutre: a pasta com o pó, água ou leite, e se pode esquentar.",
   "publishedAt": "30 de setembro de 2026",
   "publishedAtISO": "2026-09-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/nutren/nutren-senior-como-tomar-sem-empelotar-capa-v2.webp",
   "imageAlt": "Vitamina de frutas com Nutren Senior Baunilha em foto oficial da receita publicada por Receitas Nestlé, com frutas ao redor da taça.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "O método da pasta é o mesmo que a Nestlé indica: pouco líquido primeiro e o restante depois",
-    "Números oficiais por porção: cerca de 130 kcal e 11 g de proteína nos sabores; 113 kcal e 10 g no Sem Sabor Zero Lactose",
-    "O Sem Sabor entra em receitas doces e salgadas, segundo a marca, sempre adicionado no final do preparo",
-    "Cupom CECI de 10% OFF em produtos elegíveis na Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses"
-  ],
-  "cons": [
-    "Não pode ferver e deve ser consumido logo após o preparo; a marca não informa uma temperatura máxima",
-    "As páginas oficiais variam no líquido para completar (130 a 150 ml): vale a indicação da sua lata",
-    "É suplemento, não medicamento: quantidade por dia e escolha da versão devem ser definidas com nutricionista ou médico"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -47,8 +38,7 @@
       "paragraphs": [
         "Quem prepara suplemento em pó conhece a cena: o líquido entra todo de uma vez, e o pó fica em bolinhas secas ou grudado no fundo do copo.",
         "A Nestlé orienta começar com pouco líquido, formar uma pasta e só depois completar. O passo a passo abaixo separa as medidas por versão; confira a indicação da sua lata."
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "O método da pasta, passo a passo",
@@ -68,7 +58,7 @@
       "imageFit": "contain",
       "imageAspectRatio": 1.3333333333,
       "comparisonTable": {
-        "caption": "Medidas do método da pasta, segundo a Nestlé (loja oficial, 30/09/2026)",
+        "caption": "Medidas do método da pasta, segundo a Nestlé (loja oficial)",
         "headers": [
           "Versão",
           "Pó",
@@ -92,11 +82,10 @@
       }
     },
     {
-      "heading": "Qual utensílio ajuda a desfazer os grumos",
+      "heading": "Qual utensílio desfaz os grumos",
       "paragraphs": [
         "A marca não indica utensílio; as sugestões abaixo são de cozinha: o que importa é cortar e amassar o pó molhado no passo 2, quando a pasta ainda está grossa."
       ],
-      "bullets": [],
       "comparisonTable": {
         "caption": "Utensílios para misturar o Nutren Senior (sugestões editoriais)",
         "headers": [
@@ -135,7 +124,6 @@
         "No Sem Sabor Zero Lactose, a porção de 27,5 g tem 113 kcal e 10 g de proteína, pelos números oficiais.",
         "A marca não traz tabela para leite integral. Se preferir usá-lo, a gordura e as calorias do copo ficam maiores do que as da tabela, e vale conversar com o nutricionista se a pessoa controla peso, colesterol ou glicemia."
       ],
-      "bullets": [],
       "comparisonTable": {
         "caption": "Nutren Senior Café com Leite, porção de 31,5 g: com água x com leite desnatado (página oficial)",
         "headers": [
@@ -189,20 +177,21 @@
         "Quanto dura: a lata de 740 g rende cerca de 27 porções de 27,5 g (Zero Lactose) ou 23 de 31,5 g (Mix de Frutas), pelas tabelas dos produtos. Depois de aberta, a marca recomenda consumir em até 30 dias: uma porção por dia cabe nessa janela, mas duas por dia fazem a lata acabar em cerca de duas semanas.",
         "Como guardar: lata sempre bem fechada, em local fresco, seco e sem cheiro, como diz o rótulo. Bebida pronta: a marca pede para consumir imediatamente após o preparo, então prepare só a porção que vai ser tomada.",
         "Horário: a marca não define. Se a pessoa come pouco, vale perguntar ao nutricionista se o copo deve ser tomado longe das refeições principais, para não tirar o apetite do prato."
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "Qual versão escolher: sabores, Sem Sabor e Zero Lactose",
       "paragraphs": [
         "A linha em pó tem quatro sabores (Baunilha, Chocolate, Café com Leite e Mix de Frutas), o Sem Sabor e as versões Zero Lactose (Sem Sabor e Baunilha). Há ainda o Nutren Senior Premium (com colágeno e ômega-3), as cápsulas A-Z e o pronto para beber, que não entram neste guia. A Baunilha comum e a Baunilha Zero Lactose são produtos diferentes, com páginas próprias, e nas páginas oficiais a Baunilha e as versões com sabor aparecem como composto lácteo."
       ],
-      "bullets": [],
-      "image": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
-      "imageAlt": "Linha Nutren Senior da Nestlé: cápsulas A-Z, lata Sem Sabor, lata Premium Baunilha e embalagem pronta para beber sabor Chocolate",
-      "imageCaption": "Imagem de divulgação da Nestlé Nutre: a linha Nutren Senior inclui pó, cápsulas e pronto para beber.",
-      "imageFit": "contain",
-      "imageAspectRatio": 3.1779141104,
+      "image": {
+        "src": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
+        "alt": "Linha Nutren Senior da Nestlé: cápsulas A-Z, lata Sem Sabor, lata Premium Baunilha e embalagem pronta para beber sabor Chocolate",
+        "caption": "Imagem de divulgação da Nestlé Nutre: a linha Nutren Senior inclui pó, cápsulas e pronto para beber.",
+        "objectFit": "contain",
+        "aspectRatio": 3.1779141104,
+        "href": "https://www.nestlenutre.com.br/nutren-senior"
+      },
       "comparisonTable": {
         "caption": "Versões do Nutren Senior em pó (loja oficial)",
         "headers": [
@@ -227,7 +216,19 @@
             "Mesmo preparo do Sem Sabor; consumir, de preferência, sob orientação de nutricionista ou médico"
           ]
         ]
-      }
+      },
+      "links": [
+        {
+          "label": "Ver o Nutren Senior Sem Sabor na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-senior-po-lata-740g",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Nutren Senior Zero Lactose na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Cuidados: disfagia, diabetes, lactose e orientação profissional",
@@ -237,7 +238,7 @@
       "bullets": [
         "Dificuldade para engolir (disfagia): se a pessoa engasga ou tosse ao beber líquidos, converse com o médico ou o fonoaudiólogo antes. A consistência da bebida pode precisar de ajuste, e este guia não substitui essa orientação;",
         "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Os açúcares totais por porção do Café com Leite estão na tabela do capítulo de água ou leite; o valor de açúcares adicionados varia por versão, então confira no rótulo da sua lata. Converse com o médico ou o nutricionista;",
-        "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes que analisamos em outro guia, continua com proteínas do leite e da soja, então quem tem alergia à proteína do leite deve falar com o médico;",
+        "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes da ficha técnica dele, continua com proteínas do leite e da soja, então quem tem alergia à proteína do leite deve falar com o médico;",
         "Rins, medicamentos e outras suplementações: a marca não detalha interações. Se a pessoa tem doença renal, usa vários remédios ou já toma outro suplemento, pergunte ao médico antes;",
         "Emagrecimento sem querer ou recusa constante do copo: não é caso de trocar de sabor sem parar. Leve ao médico ou ao nutricionista."
       ]
@@ -245,10 +246,9 @@
     {
       "heading": "Onde comprar e usar o cupom CECI",
       "paragraphs": [
-        "O Nutren Senior é vendido na loja oficial Nestlé Nutre (nestlenutre.com.br). Em 30/09/2026, a página inicial da loja informava frete grátis para todo o Brasil acima de R$ 400; já na assinatura, a página do produto indicava frete grátis acima de R$ 200, 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência. As condições podem mudar, então confira no carrinho.",
-        "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) dá 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, sobre o valor dos produtos (o frete não entra na conta). As regras podem variar por campanha, inclusive a soma com outras promoções, então confira o valor final no carrinho antes de pagar."
+        "O Nutren Senior é vendido na loja oficial Nestlé Nutre (nestlenutre.com.br). Na compra única, o frete é grátis acima de R$ 400 e, na Semana Black Friday, acima de R$ 100. Na assinatura, o desconto é de 10% da 1ª à 3ª entrega e de 15% a partir da 4ª, com frete grátis acima de R$ 200. As condições mudam, então confira no carrinho.",
+        "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) dá 10% OFF na compra única, em todas as formas de pagamento, e soma com as promoções da loja. A loja aceita um cupom por pedido, e o frete fica fora da conta. O CECI não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre."
       ],
-      "bullets": [],
       "links": [
         {
           "label": "Guia do cupom Nestlé Nutre CECI e regras de 10% OFF",
@@ -270,8 +270,23 @@
       ]
     },
     {
+      "heading": "Qual preparo para cada caso",
+      "paragraphs": [
+        "O que muda de um copo para outro é a versão, o líquido e a temperatura; o método da pasta é o mesmo."
+      ],
+      "emphasis": "Pelas medidas da Nestlé, para quem quer a bebida sem grumos a escolha é o método da pasta, porque o pó molha por inteiro com cerca de 50 ml de líquido antes de o restante entrar.",
+      "emphasisAfterParagraph": 1,
+      "bullets": [
+        "Versões com sabor: leite desnatado e a medida cheia da tabela de medidas, mais acima.",
+        "Sem Sabor e Zero Lactose: água e a medida rasa da mesma tabela, ou o pó adicionado no final de receitas doces e salgadas.",
+        "Bebida quente: o líquido aquecido à parte, morno, e o pó por último, sem ferver.",
+        "Quem tem dificuldade para engolir, controla o açúcar ou toma vários remédios: a quantidade por dia e o preparo ficam com o médico ou o nutricionista."
+      ]
+    },
+    {
       "heading": "Perguntas Frequentes sobre o Nutren Senior",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Por que o Nutren Senior empelota? Porque o pó molha só por fora quando recebe líquido demais de uma vez e forma uma capa que protege o miolo seco. Comece com cerca de 50 ml, faça uma pasta cremosa e só depois complete, como a Nestlé indica.",
         "Nutren Senior pode tomar com leite quente? Pode, nas versões com sabor: a marca indica leite desnatado e diz que dá para fazer bebida quente, desde que o pó entre no fim e não ferva. Aqueça o leite à parte e espere amornar. Com leite integral, a gordura e as calorias do copo mudam, e a marca não traz tabela para ele.",
         "Pode tomar Nutren Senior com água? O Sem Sabor, sim, como a marca indica; nas versões com sabor, ela orienta leite desnatado, e a página do Café com Leite também traz a tabela nutricional preparada com água.",
@@ -294,16 +309,29 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Baseado na página oficial, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Informações de rótulos e páginas oficiais da Nestlé, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "nutren-senior-zero-lactose-ficha-tecnica"
     },
     {
-      "slug": "nutren-just-protein-para-que-serve"
+      "slug": "nutren-senior-ensure-ou-sustagen-senior"
+    },
+    {
+      "slug": "nutren-senior-ou-nutridrink"
     },
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "você prepara com água ou leite desnatado e quer a bebida lisa: pasta com cerca de 50 ml primeiro, o restante depois.",
+      "você quer a bebida quente: líquido aquecido à parte, morno, e o pó por último."
+    ],
+    "skipIf": [
+      "você pensa em ferver o pó na panela: a Nestlé orienta adicioná-lo no final, sem ferver.",
+      "você tem dificuldade para engolir, diabetes ou usa vários remédios: leve a dúvida ao médico ou ao nutricionista antes de definir o preparo."
+    ]
+  }
 }

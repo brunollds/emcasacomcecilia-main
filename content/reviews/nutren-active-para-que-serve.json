@@ -33,14 +33,15 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Informações de rótulos e páginas oficiais da Nestlé, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "decision": {
     "takeIf": [
-      "Você prefere gastar menos na compra de uma unidade ou quer chocolate ou morango. A lata de 400 g atende a esses critérios.",
-      "Você já usa o produto, prefere baunilha e quer pagar menos por grama. A embalagem de 700 g teve o menor preço por grama na comparação."
+      "a lata de 400 g: você quer gastar menos numa única compra ou prefere chocolate ou morango.",
+      "a embalagem de 700 g: você prefere baunilha e quer o menor preço por grama na comparação."
     ],
     "skipIf": [
-      "Você precisa evitar lactose ou glúten. A Nestlé informa a presença dos dois no Active."
+      "o Nutren Active: você precisa evitar lactose ou glúten, porque a Nestlé informa a presença dos dois.",
+      "o Nutren Active como solução por conta própria: você tem dúvida sobre restrição alimentar; a decisão fica com um médico ou nutricionista."
     ]
   },
   "relatedArticles": [
@@ -70,10 +71,13 @@
         "A Nestlé apresenta o Active como complemento para a alimentação de jovens e adultos. A embalagem de baunilha identifica o produto como composto lácteo e traz a indicação de nutrição diária para adultos.",
         "A quantidade de proteína da frente da embalagem vale para o preparo com leite desnatado. A tabela abaixo separa o que vem do pó do que aparece na bebida pronta. A marca orienta usar o Active como complemento da alimentação."
       ],
-      "image": "/images/reviews/nutren/nutren-active-baunilha-400g-oficial.webp",
-      "imageAlt": "Lata de 400 g do Nutren Active sabor baunilha, com 14 g de proteínas adicionado ao leite e 18 vitaminas e minerais",
-      "imageCaption": "Nutren Active Baunilha, lata de 400 g. Foto oficial da Nestlé Nutre.",
-      "imageFit": "contain",
+      "image": {
+        "src": "/images/reviews/nutren/nutren-active-baunilha-400g-oficial.webp",
+        "alt": "Lata de 400 g do Nutren Active sabor baunilha, com 14 g de proteínas adicionado ao leite e 18 vitaminas e minerais",
+        "caption": "Nutren Active Baunilha, lata de 400 g. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/nutren-active-baunilha-lata-400g"
+      },
       "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
@@ -163,8 +167,7 @@
         "A FAQ também admite água. Nesse preparo, a proteína vem do pó: 7,5 g na baunilha e no morango ou 8 g no chocolate, pela tabela.",
         "Se preferir quente, use o leite já aquecido. A Nestlé orienta evitar ferver o Active.",
         "Depois de abrir a lata, mantenha-a fechada em local seco e fresco e siga o prazo de 30 dias da ficha. Para a embalagem de 700 g, confira as instruções de conservação no próprio saco."
-      ],
-      "postParagraphs": []
+      ]
     },
     {
       "heading": "Lata de 400 g ou embalagem de 700 g: quanto sai por porção",
@@ -198,14 +201,22 @@
         "A página de 700 g repete o rendimento exibido na de 400 g. Pelo peso e pela porção de 31,5 g, a estimativa é de cerca de 22 porções no saco de 700 g. Confira o rendimento declarado na embalagem que chegar.",
         "Na leitura, o preço da assinatura aparecia igual ao de compra única com o CECI. Confira a frequência das entregas antes de assinar."
       ],
-      "image": "/images/reviews/nutren/nutren-active-700g-embalagem-economica-oficial.webp",
-      "imageAlt": "Embalagem econômica de 700 g do Nutren Active sabor baunilha, em saco",
-      "imageCaption": "Nutren Active Baunilha na embalagem econômica de 700 g, em saco. Foto oficial da Nestlé Nutre.",
-      "imageFit": "contain",
+      "image": {
+        "src": "/images/reviews/nutren/nutren-active-700g-embalagem-economica-oficial.webp",
+        "alt": "Embalagem econômica de 700 g do Nutren Active sabor baunilha, em saco",
+        "caption": "Nutren Active Baunilha na embalagem econômica de 700 g, em saco. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/nutren-active-baunilha-lata-400g-1"
+      },
       "links": [
         {
           "label": "Regras do cupom CECI na Nestlé Nutre",
           "href": "/cupons/nestle-nutre"
+        },
+        {
+          "label": "Ver a lata de 400 g na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-active-baunilha-lata-400g",
+          "sponsored": true
         },
         {
           "label": "Ver a embalagem de 700 g na Nestlé Nutre",
@@ -278,14 +289,22 @@
       ]
     },
     {
+      "heading": "Qual embalagem escolher",
+      "paragraphs": [
+        "A diferença entre as duas embalagens está no preço por grama e no sabor, ambos nas tabelas acima."
+      ],
+      "emphasis": "Pelos números da tabela, para quem prefere baunilha e compra com frequência a escolha é a embalagem de 700 g, porque sai a R$ 11,56 por 100 g com o CECI, contra R$ 14,29 da lata de 400 g; para quem quer chocolate ou morango, ou gastar menos numa única compra, é a lata de 400 g."
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Nutren Active engorda? A porção de baunilha tem 114 kcal no pó ou 176 kcal com 180 ml de leite desnatado. O efeito no peso depende da alimentação ao longo do tempo.",
         "Pode tomar Nutren Active com água? A Nestlé admite esse preparo. Para comparar a proteína, use a coluna do pó no sabor escolhido.",
         "Nutren Active tem lactose e glúten? A Nestlé informa que contém os dois. Consulte um profissional de saúde se tiver restrição alimentar ou precisar saber se o produto cabe na sua rotina.",
-        "Quantas porções rende o Nutren Active? A lata de 400 g tem cerca de 13 porções na tabela da marca. Na de 700 g, cerca de 22 porções é a estimativa pelo peso, com 31,5 g por porção.",
-        "O cupom CECI vale no Nutren Active? Deu 10% no teste da compra única de 400 g e 700 g."
+        "Quantas porções rende o Nutren Active? A lata de 400 g tem cerca de 13 porções na tabela da marca. Na de 700 g, cerca de 22 porções é a estimativa pelo peso, com 31,5 g por porção."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

@@ -16,18 +16,31 @@
   "description": "Análise da Nestlé Nutre: CNPJ da Nestlé Brasil, SAC, direito de arrependimento em 7 dias, frete, entregas e o que observar antes de comprar na loja oficial.",
   "metaDescription": "A Nestlé Nutre, com o cupom CECI e 10% OFF, é a loja oficial da Nestlé Health Science com CNPJ da Nestlé Brasil: SAC, devolução em 7 dias e entregas.",
   "publishedAt": "5 de agosto de 2026",
+  "publishedAtISO": "2026-08-05",
+  "updatedAt": "2026-11-23",
   "draft": false,
+  "isNew": false,
   "image": "/images/reviews/nutren/nestle-nutre-e-confiavel-capa-v2.webp",
   "imageAlt": "Lata de 380 g do Nutren Control da Nestlé.",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
+  "decision": {
+    "takeIf": [
+      "a loja oficial: você quer comprar direto da Nestlé, com CNPJ da Nestlé Brasil, SAC e devolução em 7 dias, e usar o CECI.",
+      "o cuidado com o comprovante: você aceita guardar nota fiscal e rastreio para resolver qualquer problema com o pedido."
+    ],
+    "skipIf": [
+      "Você prefere farmácia ou Mercado Livre: o CECI não vale lá, e a troca segue as regras de cada vendedor.",
+      "O item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses: ficam fora do cupom, e quem indica é o médico ou o pediatra."
+    ]
+  },
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que pesa é conferir o domínio e as regras de troca. Lá, o cupom CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+        "Sim, com uma condição: guarde o comprovante e o rastreio. A Nestlé Nutre é a loja oficial da Nestlé Health Science, sob o CNPJ da Nestlé Brasil, e no Reclame Aqui tem reputação Regular, com todas as reclamações respondidas. Lá, o CECI dá 10% OFF na compra única."
       ]
     },
     {
@@ -36,10 +49,12 @@
         "A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é loja nova nem intermediário: é a venda direta da Nestlé, e quem responde pela troca e pelo reembolso é a própria empresa.",
         "A loja informa: atendimento por telefone (0800 770 2461), WhatsApp (11 97893 1273) e assistente virtual Nina no próprio site. O domínio oficial é nestlenutre.com.br, e o site exibe certificado de segurança SSL. O CNPJ e a conexão segura mostram quem vende; o prazo de entrega e o reembolso seguem as regras abaixo."
       ],
-      "bullets": [],
-      "image": "/images/reviews/nutren/nestle-nutre-identidade-institucional.webp",
-      "imageAlt": "Identidade visual da Nestlé Nutre como canal de soluções nutricionais",
-      "imageFit": "contain"
+      "image": {
+        "src": "/images/reviews/nutren/nestle-nutre-identidade-institucional.webp",
+        "alt": "Identidade visual da Nestlé Nutre como canal de soluções nutricionais",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/"
+      }
     },
     {
       "heading": "Catálogo e posicionamento de mercado",
@@ -47,18 +62,19 @@
         "O catálogo reúne Suplementação, Nutrição Clínica, Pediátrica e Envelhecimento Saudável. A loja também vende marcas parceiras, como Sundown, Pure Encapsulations e Vital Proteins, no mesmo checkout.",
         "O Programa Nestlé Nutre oferece suporte ao paciente, com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de atendimento nutricional gratuito por chat em parceria com a Becare. É um programa separado da nossa parceria com o CECI."
       ],
-      "bullets": [],
       "images": [
         {
           "src": "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
           "alt": "Vitrine da loja oficial Nestlé Nutre com produtos e opções de compra",
-          "objectFit": "portrait"
+          "objectFit": "portrait",
+          "href": "https://www.nestlenutre.com.br/"
         },
         {
           "src": "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
           "alt": "Linha Nutren Senior apresentada em material institucional da Nestlé Nutre",
+          "caption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout.",
           "objectFit": "contain",
-          "caption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout."
+          "href": "https://www.nestlenutre.com.br/nutren-senior"
         }
       ]
     },
@@ -67,9 +83,50 @@
       "paragraphs": [
         "O direito de arrependimento vale por até 7 dias corridos a partir do recebimento. A devolução é pedida pelo SAC da loja, e a Nestlé (ou a marca parceira) paga a coleta ou a postagem. O produto volta na embalagem original ou similar, com a nota fiscal e, quando houver, o manual e os acessórios.",
         "Quando o produto chega ao centro de distribuição, a loja confere essas condições e devolve o valor total. No cartão, o estorno sai de uma vez, na fatura seguinte ou na posterior, seja qual for o número de parcelas. Se o produto chegou com defeito ou foi entregue errado, informe também o problema ao SAC para receber as instruções de atendimento.",
-        "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. A home da loja anuncia frete grátis acima de R$ 200, mas esse valor pode mudar com as campanhas: confira o frete e o prazo no carrinho, com o seu CEP. O parcelamento chega a 6x sem juros no cartão."
+        "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. Na compra única, o frete é grátis acima de R$ 400; na assinatura, acima de R$ 200; e, durante a Semana Black Friday, a loja anuncia frete grátis para todo o Brasil acima de R$ 100. O valor mínimo pode mudar com as campanhas, então confira o frete e o prazo no carrinho, com o seu CEP. O parcelamento chega a 6x sem juros no cartão."
+      ]
+    },
+    {
+      "heading": "Reclame Aqui: o que dizem os clientes",
+      "paragraphs": [
+        "A loja tem perfil próprio no Reclame Aqui, \"Nestle Nutre\", ligado ao domínio nestlenutre.com.br e separado do perfil da Nestlé institucional. A empresa por trás é a Nestlé Brasil Ltda., CNPJ 60.409.075/0001-52. A reputação é Regular, e os números abaixo são da aba dos últimos 6 meses."
       ],
-      "bullets": []
+      "comparisonTable": {
+        "caption": "Reclame Aqui, últimos 6 meses, lido em 23/11/2026",
+        "headers": [
+          "Indicador",
+          "Perfil Nestle Nutre"
+        ],
+        "rows": [
+          [
+            "Reputação",
+            "Regular, nota 6,7 de 10"
+          ],
+          [
+            "Reclamações recebidas",
+            "79"
+          ],
+          [
+            "Reclamações respondidas",
+            "100%"
+          ],
+          [
+            "Reclamações resolvidas",
+            "65,1%"
+          ],
+          [
+            "Voltariam a fazer negócio",
+            "58,1%"
+          ],
+          [
+            "Reclamações avaliadas pelo cliente",
+            "43"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Conta nossa, pela tabela: a loja respondeu a todas as 79 reclamações, e cerca de duas em cada três foram dadas como resolvidas. Pouco mais da metade dos clientes que avaliaram voltaria a comprar, o que explica a nota Regular. Por isso o cuidado prático é guardar a nota fiscal, o rastreio e o protocolo do atendimento antes de reclamar."
+      ]
     },
     {
       "heading": "O que observar antes de comprar",
@@ -78,18 +135,17 @@
       ],
       "bullets": [
         "Confirme se está no domínio oficial (nestlenutre.com.br) antes de inserir dados de pagamento.",
-        "Itens de nutrição clínica e pediátrica (Alfamino, Alfaré, Isosource, Modulen) devem seguir a indicação do rótulo e, quando aplicável, orientação de um profissional de saúde.",
+        "Itens de nutrição clínica e pediátrica (Alfamino, Alfaré, Isosource, Modulen) seguem o que o rótulo diz e, quando for o caso, a orientação de um profissional de saúde.",
         "Confira a validade do lote no momento da compra, porque são produtos de consumo contínuo.",
-        "Se você compra com frequência, vale avaliar o Programa Nestlé Nutre separadamente do cupom CECI.",
+        "Guarde a nota fiscal, o rastreio e o protocolo do atendimento: são eles que resolvem uma reclamação.",
         "No checkout, digite o CECI e confira a linha do desconto no resumo: ele soma com as promoções da loja."
       ]
     },
     {
       "heading": "Parceria e cupom de desconto",
       "paragraphs": [
-        "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Pela parceria, o cupom CECI dá 10% no carrinho em produtos elegíveis, exceto Alfamino e Alfaré. O código também não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais nesses produtos. As condições de desconto e frete dependem das regras vigentes no checkout. O cupom pode gerar comissão para o blog, sem custo extra para você."
+        "O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre. Pela parceria, o cupom CECI dá 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Alfamino e Alfaré ficam de fora, e o código também não vale na assinatura nem no Mercado Livre. Em fórmulas infantis para bebês de 0 a 12 meses, como NAN, o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais. O cupom pode gerar comissão para o blog, sem custo extra para você."
       ],
-      "bullets": [],
       "links": [
         {
           "label": "Consultar regras atuais do cupom Nestlé Nutre",
@@ -100,20 +156,22 @@
     {
       "heading": "Dá para confiar na Nestlé Nutre?",
       "paragraphs": [
-        "Sim. A loja opera sob o CNPJ 60.409.075/0001-52, o da Nestlé Brasil Ltda, no domínio nestlenutre.com.br. O atendimento tem telefone (0800 770 2461), WhatsApp e assistente virtual, e o arrependimento segue o CDC: 7 dias corridos após o recebimento, com a coleta paga pela Nestlé.",
-        "O frete grátis tem um valor mínimo, que pode mudar, e o parcelamento vai até 6x sem juros. Confira o domínio antes de pagar, siga o rótulo nos itens de nutrição clínica e pediátrica e, se tiver dúvida de saúde, fale com um profissional."
-      ]
+        "Dá, com uma condição. A loja opera sob o CNPJ da Nestlé Brasil Ltda., no domínio nestlenutre.com.br, com telefone, WhatsApp e assistente virtual, e o arrependimento segue o CDC: 7 dias corridos após o recebimento, com a coleta paga pela Nestlé. No Reclame Aqui, a reputação é Regular (6,7), mas a loja respondeu a 100% das reclamações e 65,1% foram resolvidas; 58,1% dos clientes que avaliaram voltariam a comprar.",
+        "A condição é guardar a nota fiscal e o rastreio, conferir o domínio antes de pagar e seguir o rótulo nos itens de nutrição clínica e pediátrica. Em dúvida de saúde, a conversa é com um médico ou nutricionista."
+      ],
+      "emphasis": "Pelos números do Reclame Aqui, para quem compra na loja oficial a resposta é sim, porque a Nestlé Nutre responde a todas as reclamações e resolve a maioria, com a ressalva da nota Regular."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).",
         "O site da Nestlé Nutre é confiável para comprar Nutren? Sim: o nestlenutre.com.br é o e-commerce oficial da Nestlé Health Science no Brasil, com o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52) e conexão segura.",
         "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
         "A Nestlé Nutre entrega no meu CEP? Digite o CEP no carrinho: o site mostra se entrega, o prazo e o frete antes do pagamento.",
+        "A Nestlé Nutre tem reclamações no Reclame Aqui? Tem, como toda loja de volume. O perfil da loja tem reputação Regular, e todas as reclamações dos últimos 6 meses foram respondidas. Os números estão na tabela do capítulo do Reclame Aqui.",
         "Como funciona a devolução na Nestlé Nutre? Pelo direito de arrependimento, você pede a devolução ao SAC em até 7 dias corridos após o recebimento, com o produto na embalagem original ou similar e a nota fiscal. A Nestlé paga a coleta e, no cartão, o estorno sai na fatura seguinte ou na posterior.",
-        "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde e atendimento nutricional gratuito. O programa é separado da parceria do cupom CECI com este blog.",
-        "O cupom CECI soma com as promoções da Nestlé Nutre? Sim: o CECI dá 10% OFF nos produtos elegíveis junto com as promoções da loja. Ele não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; confira a linha do desconto no resumo antes de pagar."
+        "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde e atendimento nutricional gratuito. O programa é separado da parceria do cupom CECI com este blog."
       ]
     }
   ],
@@ -125,16 +183,19 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Parceria comercial com a Nestlé Nutre; o CECI pode gerar comissão, sem custo extra. Dados do site oficial e teste do cupom no carrinho.",
+  "editorialNote": "Dados do site oficial e do Reclame Aqui, sem compra própria. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar"
     },
     {
       "slug": "nestle-nutre-produtos-para-que-servem"
+    },
+    {
+      "slug": "cupom-nestle-nutre-primeira-compra"
+    },
+    {
+      "slug": "black-friday-nestle-nutre"
     }
-  ],
-  "publishedAtISO": "2026-08-05",
-  "isNew": false,
-  "updatedAt": "2026-11-06"
+  ]
 }

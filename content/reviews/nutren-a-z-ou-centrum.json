@@ -17,7 +17,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Nutren A-Z ou Centrum A a Zinco: dose de cada vitamina e mineral e quanto cada um custa por dia.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa-v2.webp",
@@ -282,7 +282,19 @@
       },
       "postParagraphs": [
         "Pelas contas, o Centrum custa cerca de 2,9 vezes o Nutren por dia nesses preços. A comparação não é de dose igual: cada um traz nutrientes e quantidades diferentes, como mostra a tabela acima. Preço de farmácia muda por loja e por dia.",
-        "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Vale para o Nutren, e as condições vigentes ficam na página do [cupom Nestlé Nutre](/cupons/nestle-nutre). O desconto não vale para o Centrum."
+        "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na compra única da loja oficial da Nestlé Nutre, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre. Vale para o Nutren, e não para o Centrum."
+      ],
+      "links": [
+        {
+          "label": "Ver o Nutren A-Z Multi 60 cápsulas na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-multi-az-60-capsulas",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Nutren A-Z Multi 30 cápsulas na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-multi-az-30-capsulas",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -301,6 +313,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Nutren A-Z ou Centrum? Compare a composição e o formato: o Nutren é cápsula softgel; o Centrum A a Zinco Adulto é comprimido e lista também cálcio, fósforo, magnésio e iodo. A tabela acima mostra as quantidades por unidade.",
         "O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.",
         "O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.",
@@ -331,7 +344,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Comparativo feito com rótulos e páginas de fabricantes e lojas. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
+  "editorialNote": "Informações de rótulos e páginas de fabricantes e lojas, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "nutren-a-z-multi-para-que-serve"
@@ -341,6 +354,9 @@
     },
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar"
+    },
+    {
+      "slug": "nutren-protein-ou-whey"
     }
   ]
 }

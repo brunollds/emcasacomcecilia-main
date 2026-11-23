@@ -42,7 +42,8 @@
         "alt": "Dois cartões: a garrafa de Nutren Protein de 260 ml com 15 g de proteína e o Nutren Just Protein com porção de 15 g, em duas colheres, e 13 g de proteína",
         "caption": "O \"15 g\" quer dizer coisas diferentes: na garrafa de 260 ml, é a proteína; no Just Protein, é a porção de duas colheres, com 13 g de proteína. Em cinza, a porção; em verde, a proteína.",
         "objectFit": "contain",
-        "aspectRatio": 1.7778
+        "aspectRatio": 1.7778,
+        "href": "https://www.nestlenutre.com.br/nutren-protein"
       },
       "comparisonTable": {
         "caption": "Nomes e descrições da loja oficial da Nestlé Nutre.",
@@ -197,7 +198,8 @@
           "src": "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
           "alt": "Lata do Nutren Just Protein 280 g, whey protein isolado sem sabor da Nestlé",
           "caption": "Nutren Just Protein 280 g. Foto oficial da Nestlé Nutre.",
-          "objectFit": "square"
+          "objectFit": "contain",
+          "href": "https://www.nestlenutre.com.br/nutren-just-protein-280g"
         }
       ],
       "links": [
@@ -225,7 +227,8 @@
         "alt": "Lata de Nutren Protein Baunilha 400 g ao lado da lata de Nutren Senior Café com Leite 740 g",
         "caption": "Nutren Protein Baunilha, lata de 400 g, e Nutren Senior Café com Leite, lata de 740 g. Fotos oficiais da Nestlé Nutre, fora de escala.",
         "objectFit": "contain",
-        "aspectRatio": 1.7778
+        "aspectRatio": 1.7778,
+        "href": "https://www.nestlenutre.com.br/suplem-alimentar-protein-baunilha-400g"
       },
       "links": [
         {
@@ -254,7 +257,8 @@
         "alt": "Rótulo da garrafa de Nutren Protein Chocolate com 15 g de proteínas e o selo Zero Lactose contornado em amarelo",
         "caption": "O selo \"Zero Lactose\" no rótulo da garrafa de Nutren Protein Chocolate, 260 ml. Foto oficial da Nestlé Nutre; o destaque em amarelo é nosso.",
         "objectFit": "contain",
-        "aspectRatio": 1.3333
+        "aspectRatio": 1.3333,
+        "href": "https://www.nestlenutre.com.br/nutren-protein-15g-proteina-chocolate-260ml"
       }
     },
     {
@@ -266,22 +270,62 @@
     {
       "heading": "Preço e o cupom CECI",
       "paragraphs": [
-        "Na loja oficial, em 12/10/2026, o Nutren Protein de 400 g (baunilha ou chocolate) custava R$ 79,72 na compra única (de R$ 93,79), e o de 800 g (baunilha), R$ 134,71 (de R$ 168,39). A garrafa de 260 ml (baunilha ou chocolate) saía por R$ 10,59, e o Nutren Just Protein 280 g, por R$ 115,91. Preço muda com promoção: confira no carrinho.",
-        "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja oficial. Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Não temos código para a YoPRO."
+        "Os preços abaixo são da loja oficial, na mesma leitura da tabela comparativa. Promoção muda os valores, então confira no carrinho.",
+        "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na compra única da loja oficial, em todas as formas de pagamento, e soma com as promoções. Não vale para Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, assinatura nem Mercado Livre. Não temos código para a YoPRO."
       ],
       "links": [
+        {
+          "label": "Ver o Nutren Protein em pó na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/suplem-alimentar-protein-baunilha-400g",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Nutren Just Protein na Nestlé Nutre",
+          "href": "https://www.nestlenutre.com.br/nutren-just-protein-280g",
+          "sponsored": true
+        },
         {
           "label": "Cupom Nestlé Nutre: CECI",
           "href": "/cupons/nestle-nutre"
         }
-      ]
+      ],
+      "comparisonTable": {
+        "caption": "Preços da loja oficial na leitura desta comparação, compra única, sem cupom.",
+        "headers": [
+          "Produto",
+          "Preço",
+          "Antes (\"de\")"
+        ],
+        "rows": [
+          [
+            "Nutren Protein pó, 400 g (baunilha ou chocolate)",
+            "R$ 79,72",
+            "R$ 93,79"
+          ],
+          [
+            "Nutren Protein pó, 800 g (baunilha)",
+            "R$ 134,71",
+            "R$ 168,39"
+          ],
+          [
+            "Nutren Protein pronto, 260 ml (baunilha ou chocolate)",
+            "R$ 10,59",
+            "—"
+          ],
+          [
+            "Nutren Just Protein, 280 g",
+            "R$ 115,91",
+            "—"
+          ]
+        ]
+      }
     },
     {
       "heading": "Qual escolher pelo rótulo",
       "paragraphs": [
-        "Não existe um melhor no rótulo: cada produto serve a uma necessidade diferente, e a quantidade certa é assunto para o médico ou o nutricionista."
+        "Não existe um melhor no rótulo: cada produto atende a uma necessidade diferente. Os números que decidem estão nas tabelas acima."
       ],
-      "emphasis": "Para quem quer só a proteína do soro, o Just Protein é a opção de whey isolado sem sabor: declara 13 g de proteína em 15 g de pó e açúcares em 0 g. Para escolher, confira ingredientes e restrições no rótulo do produto que você vai usar.",
+      "emphasis": "Pelos números da tabela, para o perfil que quer só a proteína do soro a escolha é o Nutren Just Protein, porque declara 13 g de proteína em 15 g de pó, com açúcares em 0 g; para quem quer vitaminas e minerais no mesmo pó, é o Nutren Protein, com 14 g de proteína em 31,5 g e 80 mg de cafeína.",
       "bullets": [
         "Quer só a proteína do soro do leite, com carboidratos e açúcares em 0 g na tabela: o Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", com 13 g de proteína em 15 g.",
         "Quer um suplemento com vitaminas e minerais: o Nutren Protein em pó, com 14 g de proteína em 31,5 g, mas também 80 mg de cafeína, lactose e glúten.",
@@ -292,6 +336,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Nutren Protein é a mesma coisa que Nutren Just Protein? Não: o Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", e o Nutren Just Protein é \"100% whey protein isolado\" e sem sabor, segundo a Nestlé; a versão pronta para beber do Nutren Protein tem outra tabela.",
         "Nutren Protein é whey protein? O pó contém whey, mas não é só whey: a página o descreve como suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", com 14 g de proteína em 31,5 g de pó.",
         "Qual a diferença entre Nutren Protein e whey protein? Whey é a proteína do soro do leite, uma categoria; o Nutren Protein em pó é um produto com whey, cafeína, vitaminas e minerais, e cada whey de outra marca tem a sua tabela.",
@@ -320,15 +365,16 @@
   "affiliate": "nestle-nutre",
   "decision": {
     "takeIf": [
-      "Você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela."
+      "o Nutren Just Protein: você quer só a proteína do soro, sem sabor, com carboidratos e açúcares em 0 g na tabela.",
+      "o Nutren Protein em pó: você quer vitaminas e minerais no mesmo pó e aceita cafeína, lactose e glúten no rótulo.",
+      "a garrafa de 260 ml do Nutren Protein ou a YoPRO: você quer bebida pronta, com lactose 0 g na tabela."
     ],
     "skipIf": [
-      "Você quer vitaminas e minerais junto da proteína: aí é o Nutren Protein em pó.",
-      "Você quer bebida pronta: a garrafa de 260 ml do Nutren Protein ou a YoPRO.",
-      "Você tem 50 anos ou mais: veja a linha Nutren Senior e confirme na embalagem."
+      "o Nutren Protein em pó: você evita cafeína, lactose ou glúten; confira o rótulo antes.",
+      "você tem 50 anos ou mais ou uma dúvida de saúde: veja a linha Nutren Senior e leve a dúvida a um médico ou nutricionista."
     ]
   },
-  "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
+  "editorialNote": "Informações de rótulos e páginas oficiais da Nestlé e da YoPRO, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "nutren-just-protein-para-que-serve"
@@ -338,6 +384,10 @@
     },
     {
       "slug": "nestle-nutre-produtos-para-que-servem"
+    },
+    {
+      "slug": "cupom-ceci-nestle-nutre-como-usar"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

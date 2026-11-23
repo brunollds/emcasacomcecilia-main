@@ -33,13 +33,13 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Rótulos e páginas oficiais, sem uso próprio. Podemos receber comissão pelo cupom CECI. Uso só com médico ou nutricionista.",
   "relatedArticles": [
     {
       "slug": "isosource-1-5-para-que-serve"
     },
     {
-      "slug": "nutren-fortify-para-que-serve"
+      "slug": "novasource-proline-ou-impact"
     },
     {
       "slug": "nestle-nutre-produtos-para-que-servem"
@@ -58,13 +58,16 @@
     {
       "heading": "Para que serve o Novasource Proline, segundo a Nestlé",
       "paragraphs": [
-        "Na caixinha de 200 ml, o rótulo identifica o Novasource Proline como fórmula modificada para nutrição enteral e oral. A Nestlé informa que ela contém arginina e prolina e descreve sua finalidade como “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”.",
+        "Na caixinha de 200 ml, o rótulo identifica o Novasource Proline como fórmula modificada para nutrição enteral e oral, com arginina e prolina. A página da Nestlé Nutre declara como finalidade o “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”.",
         "A embalagem exige orientação médica ou de nutricionista e proíbe o uso por via parenteral. O profissional define a apresentação e a quantidade para cada caso."
       ],
-      "image": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
-      "imageAlt": "Caixinha de 200 ml do Novasource Proline sabor baunilha, fórmula modificada para nutrição enteral e oral com 1,4 kcal por mL",
-      "imageCaption": "Novasource Proline Baunilha, caixinha de 200 ml. Foto oficial da Nestlé Nutre.",
-      "imageFit": "portrait"
+      "image": {
+        "src": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
+        "alt": "Caixinha de 200 ml do Novasource Proline sabor baunilha, fórmula modificada para nutrição enteral e oral com 1,4 kcal por mL",
+        "caption": "Novasource Proline Baunilha, caixinha de 200 ml. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/novasource-proline-baunilha-tetra-slim-200ml-1"
+      }
     },
     {
       "heading": "Tabela nutricional da caixinha de 200 ml",
@@ -217,10 +220,13 @@
         "Uma porção de 30 g do pó tem menos da metade das calorias da caixinha inteira, menos proteína e mais arginina e prolina. A página do pó informa que ele é para adultos e é inadequado como única fonte de nutrição.",
         "A descrição do litro informa 1,3 kcal por mL, ausência de lactose e ausência de adição de sacarose. A ficha descreve uso com equipo. Confirme a apresentação especificada pelo profissional antes da compra."
       ],
-      "image": "/images/reviews/nutren/novasource-proline-po-330g-oficial.webp",
-      "imageAlt": "Lata de 330 g do Novasource Proline em pó, sem sabor, com 16 g de proteínas por porção e colher medida inclusa",
-      "imageCaption": "Novasource Proline em pó, lata de 330 g com colher medida. Foto oficial da Nestlé Nutre.",
-      "imageFit": "contain"
+      "image": {
+        "src": "/images/reviews/nutren/novasource-proline-po-330g-oficial.webp",
+        "alt": "Lata de 330 g do Novasource Proline em pó, sem sabor, com 16 g de proteínas por porção e colher medida inclusa",
+        "caption": "Novasource Proline em pó, lata de 330 g com colher medida. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "href": "https://www.nestlenutre.com.br/novasource-proline-po-330g"
+      }
     },
     {
       "heading": "Quanto custa cada formato do Novasource Proline",
@@ -302,14 +308,60 @@
       ]
     },
     {
+      "heading": "Qual formato escolher: caixinha, combo, pó ou litro",
+      "paragraphs": [
+        "Os formatos não são intercambiáveis: a caixinha vem pronta, o pó é para adultos e não é única fonte de nutrição, e o litro usa equipo. Dentro do que cada ficha informa, a conta abaixo compara o custo por grama de proteína com os preços com CECI da tabela de preços. O litro fica de fora, porque a ficha não traz a proteína."
+      ],
+      "comparisonTable": {
+        "caption": "Contas nossas: preço com o CECI da tabela de preços dividido pelos gramas de proteína de cada formato.",
+        "headers": [
+          "Formato",
+          "Proteína",
+          "Custo por grama de proteína"
+        ],
+        "rows": [
+          [
+            "Combo de 10 caixinhas de baunilha",
+            "20 g por caixinha",
+            "R$ 0,79"
+          ],
+          [
+            "Caixinha avulsa",
+            "20 g",
+            "R$ 0,89"
+          ],
+          [
+            "Pó de 330 g, porção de 30 g",
+            "16 g por porção",
+            "R$ 0,61"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Qual formato usar, em que quantidade e por qual via é definição do médico ou nutricionista que acompanha o caso."
+      ],
+      "emphasis": "Pelos números da tabela, para o perfil que compara o custo por grama de proteína a escolha é o pó de 330 g, a cerca de R$ 0,61 por grama; para quem usa a caixinha pronta, o combo de 10 de baunilha sai a cerca de R$ 0,79, contra R$ 0,89 na avulsa, porque o preço por caixinha cai de R$ 17,81 para R$ 15,83."
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Quantas caixinhas de Novasource Proline por dia? Siga a quantidade definida pelo médico ou nutricionista. A porção nutricional na tabela serve para ler o rótulo.",
         "Novasource Proline tem lactose? A tabela da caixinha declara 0,1 g por 100 ml. A descrição do litro declara ausência de lactose. Confira a versão da sua compra.",
         "Novasource Proline tem açúcar? A caixinha declara 1,5 g de açúcares totais por 100 ml, com 1,4 a 1,5 g de açúcares adicionados, conforme o sabor.",
-        "Quanto tempo dura o Novasource Proline depois de aberto? A caixinha fica tampada na geladeira por até 24 horas. Para a lata de pó, a ficha informa até 30 dias depois de aberta.",
-        "O cupom CECI vale no Novasource Proline? Deu 10% nos testes de compra única da caixinha, do combo de baunilha, do pó e do litro."
+        "Quanto tempo dura o Novasource Proline depois de aberto? A caixinha fica tampada na geladeira por até 24 horas. Para a lata de pó, a ficha informa até 30 dias depois de aberta."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "o combo de 10 caixinhas de baunilha: a prescrição pede a versão pronta, com 20 g de proteína por embalagem, e o uso é recorrente.",
+      "o pó de 330 g: a prescrição aceita o pó, para adultos e sem ser a única fonte de nutrição, e você compara pelo custo por porção."
+    ],
+    "skipIf": [
+      "Você não tem a apresentação definida pelo profissional: caixinha, pó e litro têm fórmulas e usos diferentes.",
+      "Você pensa em trocar de formato só pelo preço: a troca é decisão de quem prescreve."
+    ]
+  },
+  "updatedAt": "2026-11-23"
 }
